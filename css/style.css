@@ -143,7 +143,14 @@ strong{
 	margin-left:5px;
 	vertical-align: middle;
 }
-.navbar-collapse{padding:0}
+.logique-nav.in-jp a{
+	font-size:12px;
+}
+.navbar-collapse{padding: 0;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    height: 100%!important;}
 .navbar-toggle .icon-bar{
 	background:#fff;
 	transition: all .5s;
@@ -203,10 +210,44 @@ strong{
 	background:#fff;
 	padding:10px 30px;
 }
-.services-list{padding:50px 0;background:#f2f2f2;line-height: 18px;color:#727272;border-bottom:1px solid #fff;height:219px}
+.services-list{padding:50px 10px;background:#f2f2f2;line-height: 18px;color:#727272;border-bottom:1px solid #fff;height:219px}
 .col-sm-4:nth-child(3n) .services-list{border-right: 0;}
 .col-sm-4 .services-list{border-right: 1px solid #fff;}
 .services-list:hover{background:#ffca13;color:#fff}
+.tooltip-service {
+    position: relative;
+}
+.tooltip-service .tooltiptext-service{
+    visibility: hidden;
+    width: 100%;
+    background-color: #fff;
+    color: #ffca13;
+    text-align: center;
+    padding: 10px;
+    border-radius: 3px;
+	border: 2px solid #ffca13;	
+	position: absolute;
+	z-index: 1;
+    top: 50%;
+    left: 50%;
+    margin-left: -50%;	
+}
+.tooltip-service:hover .tooltiptext-service {
+    visibility: visible;
+	transition:all .5s;
+	top:85%;
+}
+.tooltip-service .tooltiptext-service::after {
+    content: " ";
+    position: absolute;
+	bottom: 100%;  /* At the top of the tooltip */
+    left: 50%;
+    margin-left: -8px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent transparent #fff transparent;
+}
+
 #websitedevelopment {
    background-image: url('../img/website-development.png');
    height: 72px;
@@ -523,11 +564,12 @@ footer a{
 	.title-container{margin-left:0;margin-top: 120px;}
 	.lang-logo{padding: 0;margin-top:20px}
 	.logique-nav{
-		right: -150px;
-		left:auto;
+		margin-right: -150px;
+		margin-left: auto;
+		position: relative;
 	}
 	.collapse.in .logique-nav{
-		right: 0px;
+		margin-right: 0;
 	}
 	.title-container{
 		padding:0

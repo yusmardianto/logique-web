@@ -4,11 +4,11 @@
 			<div class="col-sm-6 col-sm-push-6">
 				<div class="row">
 					<div class="col-sm-4 col-xs-6 link-footer-nav">
-						<a href="index.php">Home</a><br/><br/>
-						<a href="about.php">About Us</a><br/><br/>
+						<a href="index.php">Beranda</a><br/><br/>
+						<a href="about.php">Tentang Kami</a><br/><br/>
 						<a href="portfolio.php">Portfolio</a><br/><br/>
 						<a href="service.php">Service</a><br/><br/>
-						<a href="contact.php">Contact Us</a><br/>
+						<a href="contact.php">Hubungi Kami</a><br/>
 					</div>
 					<div class="col-sm-8 col-xs-6 link-footer">
 						<div class="footer-title">Our Service</div>
@@ -28,9 +28,9 @@
 			<div class="col-sm-6 col-sm-pull-6">
 				<div class="footer-title">LOGIQUE DIGITAL INDONESIA</div>
 				Ad Premier Building 19th Floor.  Jalan Tb. Simatupang No. 5 <br/>
-				Ragunan, Ps. Minggu,  Jakarta Selatan, 12540<br/><br/><br/>
-				Logique Digital Indonesia was established in 2017 in Jakarta, the capital city of Indonesia.  As one of the most economic growing countries, we are growing together with Indonesia by using our IT/Internet knowledge. Furthermore, we want to contribute to the growth and enrichment of Indonesia.
-				<br/><br/><br/><br/>
+				Ragunan, Ps. Minggu,  Jakarta Selatan, 12540<br/><br/>
+				LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda sebagai tim yang profesional dalam bidang konsultasi, pengembangan web dan aplikasi, pengaplikasian desain responsif, pengembangan sistem web, dan desain. Kami mengembangkan website kreatif terstruktur yang benar-benar direncanakan secara detil baik untuk pengembangan website perusahaan, aplikasi, maupun pengembangan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.
+				<br/><br/>
 				<div class="copyright">&copy; 2017  Logique Digital Indonesia</div>
 			</div>
 		</div>
@@ -46,4 +46,9 @@ $('.map-container')
             $(this).find('iframe').addClass('clicked')})
     .mouseleave(function(){
             $(this).find('iframe').removeClass('clicked')});
+</script>
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover();   
+});
 </script>

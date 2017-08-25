@@ -11,14 +11,14 @@
 			<div class="text-center">
 				<a href="index.php">
 					<img src="img/home.png" alt="Home"/><br/>
-					Home
+					Beranda
 				</a>
 			</div>
 			<br/>
 			<div class="text-center">
 				<a href="about.php">
 					<img src="img/about-us.png" alt="About Us"/><br/>
-					About Us
+					Tentang Kami
 				</a>
 			</div>
 			<br/>
@@ -31,15 +31,15 @@
 			<br/>
 			<div class="text-center">
 				<a href="services.php">
-					<img src="img/services.png" alt="Portfolio"/><br/>
+					<img src="img/services.png" alt="Services"/><br/>
 					Services
 				</a>
 			</div>
 			<br/>
 			<div class="text-center">
 				<a href="contact.php">
-					<img src="img/contact-us.png" alt="Portfolio"/><br/>
-					Contact Us
+					<img src="img/contact-us.png" alt="Contact Us"/><br/>
+					Hubungi Kami
 				</a>
 			</div>
 			<br/><br/><br/><br/>

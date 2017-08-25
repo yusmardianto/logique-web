@@ -30,11 +30,11 @@
 					<div class="col-sm-offset-1 col-sm-10">
 						<div class="lang-logo">
 							<ul class="list-inline">
-								<li><a href="#">EN</a></li>
-								<li class="active"><a href="#">ID</a></li>
-								<li><a href="#">JP</a></li>
+								<li><a href="en/index.php">EN</a></li>
+								<li class="active"><a href="index.php">ID</a></li>
+								<li><a href="jp/index.php">JP</a></li>
 							</ul>
-							<img src="img/logo.png" alt="Logo" class="img-responsive logo"/>
+							<a href="index.php"><img src="img/logo.png" alt="Logo" class="img-responsive logo"/></a>
 						</div>
 					</div>
 				</div>
@@ -48,8 +48,7 @@
 						<div class="row text-center">
 							<br>
 							<p class="yellow" style="font-size:150px;"><b>404</b></p>
-							<p style="font-size:40px;"><i>Oops, you've encountered an error</i></p>
-							<p style="font-size:20px;"><i>It appears the page you were looking for doesn't exist. Sorry about that.</i></p>
+							<p style="font-size:40px;"><i>Sorry, the page you tried cannot be found.</i></p>
 							<br><br>
 						</div>
 					</div>

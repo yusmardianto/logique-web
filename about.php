@@ -30,14 +30,14 @@
 					<div class="col-sm-offset-1 col-sm-10">
 						<div class="lang-logo">
 							<ul class="list-inline">
-								<li><a href="#">EN</a></li>
+								<li><a href="en/about.php">EN</a></li>
 								<li class="active"><a href="#">ID</a></li>
-								<li><a href="#">JP</a></li>
+								<li><a href="jp/about.php">JP</a></li>
 							</ul>
-							<img src="img/logo.png" alt="Logo" class="img-responsive logo"/>
+							<a href="index.php"><img src="img/logo.png" alt="Logo" class="img-responsive logo"/></a>
 							<ol class="breadcrumb">
-							  <li><a href="#">Home</a></li>
-							  <li class="active"><a>About Us</a></li>
+							  <li><a href="index.php">Beranda</a></li>
+							  <li class="active"><a>Tentang Kami</a></li>
 							</ol>
 						</div>
 					</div>
@@ -49,7 +49,7 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<img src="img/about-us-main-visual.png" style="width:100%"/>
-					<div class="title"><b>About</b><span class="yellow">Us</span></div>
+					<div class="title"><b>Tentang</b><span class="yellow">Kami</span></div>
 					<div class="form-container">
 						This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. <br/><br/>
 						Sed non  mauris vitae erat consequat auctor eu in elit.<br/><br/>

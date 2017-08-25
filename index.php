@@ -28,11 +28,11 @@
 					<div class="col-sm-offset-1 col-sm-10">
 						<div class="lang-logo">
 							<ul class="list-inline">
-								<li><a href="#">EN</a></li>
+								<li><a href="en/index.php">EN</a></li>
 								<li class="active"><a href="#">ID</a></li>
-								<li><a href="#">JP</a></li>
+								<li><a href="jp/index.php">JP</a></li>
 							</ul>
-							<img src="img/logo.png" alt="Logo" class="img-responsive logo"/>
+							<a href="index.php"><img src="img/logo.png" alt="Logo" class="img-responsive logo"/></a>
 						</div>
 					</div>
 				</div>
@@ -48,7 +48,7 @@
 								WEB development (WEB page creation) to mobile solution (mobile apps), E-Commerce,<br/>
 								WEB system development, SEO, and Internet Marketing.<br/><br/>
 								<center>
-									<a href="" class="btn btn-see-more">see more <i class="fa fa-arrow-circle-o-right" ></i></a>
+									<a href="about.php" class="btn btn-see-more">see more <i class="fa fa-arrow-circle-o-right" ></i></a>
 								</center>
 							</div>
 							<br/><br/><br/><br/>
@@ -69,7 +69,7 @@
 							WEB development (WEB page creation) to mobile solution (mobile apps), E-Commerce,<br/>
 							WEB system development, SEO, and Internet Marketing.<br/><br/>
 							<center>
-								<a href="" class="btn btn-see-more">see more <i class="fa fa-arrow-circle-o-right" ></i></a>
+								<a href="about.php" class="btn btn-see-more">see more <i class="fa fa-arrow-circle-o-right" ></i></a>
 							</center>
 						</div>
 					</div>

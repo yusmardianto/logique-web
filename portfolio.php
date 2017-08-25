@@ -30,13 +30,13 @@
 					<div class="col-sm-offset-1 col-sm-10">
 						<div class="lang-logo">
 							<ul class="list-inline">
-								<li><a href="#">EN</a></li>
+								<li><a href="en/portfolio.php">EN</a></li>
 								<li class="active"><a href="#">ID</a></li>
-								<li><a href="#">JP</a></li>
+								<li><a href="jp/portfolio.php">JP</a></li>
 							</ul>
-							<img src="img/logo.png" alt="Logo" class="img-responsive logo"/>
+							<a href="index.php"><img src="img/logo.png" alt="Logo" class="img-responsive logo"/></a>
 							<ol class="breadcrumb">
-							  <li><a href="#">Home</a></li>
+							  <li><a href="index.php">Home</a></li>
 							  <li class="active"><a>Portfolio</a></li>
 							</ol>
 						</div>
