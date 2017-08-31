@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="author" content="">
@@ -53,7 +53,7 @@
 					</div>
 					<div class="title"><b>Contact</b><span class="yellow">Us</span></div>
 					<div class="form-container">
-						Feel free to ask us anything about our Web-related / Printing related service.We’ll be looking forward to working with you.<br/><br/>
+						Feel free to contact LOGIQUE about website creation, social media, inquiry about web-related consultation, or designing.<br/><br/>
 						<div class="row">
 							<div class="col-lg-7">
 								<form class="form-contact">

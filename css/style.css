@@ -23,9 +23,6 @@ article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, s
 {
     display: block;
 }
-ol, ul {
-    list-style: none;
-}
 a {
 	outline:none!important
 }
@@ -68,9 +65,13 @@ strong{
 	padding: 10px 10px 10px 10px;
 	font-weight:300;
 	transition:all .25s;
+	overflow: auto;
 }
 .logique-nav a{
 	color:#fff;
+}
+.margin-for-nav{
+	margin-top: 60px;
 }
 .valign-center{top: 50%;transform: translateY(-50%);-webkit-transform: translateY(-50%);-ms-transform: translateY(-50%);position: relative;}
 .logo{
@@ -146,28 +147,33 @@ strong{
 .logique-nav.in-jp a{
 	font-size:12px;
 }
-.navbar-collapse{padding: 0;
+.navbar-collapse{
+	padding: 0;
     position: fixed;
     z-index: 99;
     width: 100%;
-    height: 100%!important;}
+    height: 100%!important;
+	margin-top: -1px;
+}
 .navbar-toggle .icon-bar{
 	background:#fff;
 	transition: all .5s;
 }
 .navbar-toggle{
-	background-color:transparent;
-	z-index:9999;
-	transition: all 1s;
-	margin-top: 18px;
-	position: fixed;
-    right: -15px;
-	border-radius:0;
+	background-color: rgb(255,202,19)!important;
+    z-index: 9999;
+    transition: all 1s;
+    position: fixed;
+    right: 80px;
+    border-radius: 0;
+    height: 34px;
+    margin-top: 0px;
 }
 .navbar-toggle.collapsed{
-	background-color:rgb(255,202,19)!important;
-	position: relative!important;
-	right:0!important;
+	background-color: rgb(255,202,19)!important;
+    position: relative!important;
+    right: 0!important;
+    margin-top: 18px;
 }
 .navbar-toggle.collapsed .icon-bar.first{
 	transform: rotate(0deg)!important;
@@ -396,7 +402,7 @@ strong{
 	color:#fff;
 	font-size:24px;
 	text-align:center;
-	background: linear-gradient(rgba(255,202,19,.9),rgba(255,202,19,.9)),url(../img/got-project.png);
+	background: url(../img/bgjoinus.png);
 	background-size: cover;
 	padding: 50px 10px;
 }
@@ -472,6 +478,103 @@ footer a{
 .paddingleft{
 	padding-left:0
 }
+.circle-list{
+	padding-left:17px;
+}
+.circle-list li{
+	list-style-type:circle;
+}
+.characteristic-title{
+	font-size:18px;
+	font-weight:bold;
+}
+.joinus-ul{
+	padding-left:30px;
+}
+.bg-grey{
+	background:#f4f4f4;
+	padding:40px 30px;
+}
+.title-bg-grey{
+	font-size:24px;
+	font-weight:bold;
+	text-align:center
+}
+.bg-shadow-yellow{
+	padding:40px 30px;
+	background:url('../img/bg-shadow-yellow.png');
+	background-position:top;
+	background-size:cover;
+}
+#tour-office img{
+	object-fit:cover;
+	width:100%;
+	height:420px;
+}
+#vacancy [data-toggle="collapse"].collapsed:before {
+    font-family: 'FontAwesome';
+    content: "\f078";
+    float: right;
+    color: #ffca13;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-right: 10px;
+	transform: rotate(0deg);
+	transition: all .5s;
+}
+#vacancy [data-toggle="collapse"]:before {
+    font-family: 'FontAwesome';
+    content: "\f078";
+    float: right;
+    color: #ffca13;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-right: 10px;
+	transition: all .5s;
+	transform: rotate(540deg);
+}
+.services #vacancy [data-toggle="collapse"]:before {
+	color: #fff;
+}
+.services #vacancy .fa-ul li{
+	margin-bottom:10px;
+}
+.services #vacancy .fa-li{
+	margin-top: 2px;
+    color: #ffca13;
+}
+.services #vacancy .panel-default>.panel-heading {
+	background-color: #ffca13;
+    border-color: #ffca13;
+}
+#vacancy .panel-title {
+    font-size: 18px;
+}
+#vacancy .panel-default>.panel-heading {
+    background-color: #333;
+    border-color: #333;
+	border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+#vacancy .panel-default>.panel-heading a{
+	color:#fff;
+}
+#vacancy img{
+	display:inline-block;
+	vertical-align:middle;
+	height:35px;
+	margin-right:10px
+}
+#vacancy .panel-body{
+	background: #f3f3f3;
+    padding: 30px;
+}
+#vacancy ul{
+	margin:5px 0;
+}
+#vacancy.panel-group .panel+.panel {
+    margin-top: 0;
+}
 
 @media (max-width: 1360px){
 	.workflow.nav-tabs.nav-justified>li>a{width:auto;margin-right: 0;}
@@ -480,6 +583,7 @@ footer a{
 	.lang-logo{padding: 25px 18px 25px 10px;}
 }
 @media (max-width: 991px){
+	.margin-for-nav{margin-top: 15px;}
 	.title-index{font-size:45px}
 }
 @media screen and (max-width: 979px) {
@@ -523,6 +627,7 @@ footer a{
 	}
 }
 @media (max-width: 767px){
+	.margin-for-nav{margin-top: 0px;}
 	.title{
 		padding:10px 15px;
 	}
@@ -585,6 +690,11 @@ footer a{
 	}
 	.title-container {
 		font-size: 16px;
+	}
+}
+@media (min-width:991px) {
+	#bgImg .valign-center{
+		padding:0 50px;
 	}
 }
 @media (min-width:768px) {

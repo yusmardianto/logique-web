@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="author" content="">
@@ -36,7 +36,7 @@
 							</ul>
 							<a href="index.php"><img src="img/logo.png" alt="Logo" class="img-responsive logo"/></a>
 							<ol class="breadcrumb">
-							  <li><a href="index.php">Home</a></li>
+							  <li><a href="index.php">Beranda</a></li>
 							  <li class="active"><a>Portfolio</a></li>
 							</ol>
 						</div>

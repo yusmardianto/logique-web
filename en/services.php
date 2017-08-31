@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="author" content="">
@@ -46,10 +46,167 @@
 			
 			<br/>
 			
-			<div id="contentsArea">
+			<div id="contentsArea" class="services">
 				<div id="contents">
 					<div class="title"><b>Our</b><span class="yellow">Services</span></div>
-					<div class="no-gap">
+					<div class="form-container">
+						LOGIQUE provides various web-related services such as website / web system development, mobile application development, internet marketing, SEO, etc. We are able to provide you flexible service and reasonable price since we have our own programmers, designers, and contents writers.
+						<br/><br/>
+						<div class="panel-group" id="vacancy">
+						  <div class="panel panel-default">
+							<div class="panel-heading">
+								<a data-toggle="collapse" data-parent="#vacancy" href="#website-creation" class="collapsed">
+									<h4 class="panel-title">
+										<img src="../img/html.png" alt="Website Creation"/> Website Creation
+									</h4>
+								</a>
+							</div>
+							<div id="website-creation" class="panel-collapse collapse">
+							  <div class="panel-body">
+								<ol class="fa-ul">
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Corporate Website creation</b><br/>
+										We develop a website that effectively tells visitors the value of your company brand, We also can provide you domain / web server / SSL agent service, and contents creation service depending on your needs.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Multi-language Website creation</b><br/>
+										We have much developing experiences in multi-language website with English, Indonesian, and Japanese language. Other than the creation of website itself, also feel free to contact us for also translation / correction.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Service Website Development</b><br/>
+										We can help you to develop from business planning up to design creation, system Website development / maintenance when you wish to develop websites such as Used car auction website, Human Resource matching website, E-commerce, and Member management CRM Website.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Recruitment Website Creation</b><br/>
+										Nowadays, it is getting harder for companies to hire an ideal human resource for their business. To have your own recruitment website is the key to succeed in hiring.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Mobile / Responsive Website Creation</b><br/>
+										Responsive coding is trending technology to fit your website into smartphone / tablet sized screen. As Indonesia has the notable amount of smartphone traffics, LOGIQUE can propose you projects that can fit with Indonesian market bringing many experiences and knowledges we had in developing responsive websites.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>LP / Campaign Website creation</b><br/>
+										Feel free to contact us about Landing page / Campaign page. We develop your website even if you want only 1 page. We also can create advertisement banners.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Blog</b><br/>
+										Installation & customization of Wordpress. We design & develop your blog. In case you want to customize. If you want to improve your blog / enhance security, leave it to us.
+									</li>
+								</ol>
+							  </div>
+							</div>
+						  </div>
+						  <div class="panel panel-default">
+							<div class="panel-heading">
+							  <a data-toggle="collapse" data-parent="#vacancy" href="#web-system" class="collapsed">
+								<h4 class="panel-title">
+									<img src="../img/web-system.png" alt="Website Creation"/> Web System Development
+								</h4>
+							  </a>
+							</div>
+							<div id="web-system" class="panel-collapse collapse">
+							  <div class="panel-body">
+								<ol class="fa-ul">
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>CMS development / Maintenance</b><br/>
+										We develop flexible and secure CMS that allows you to maintain easily after the delivery. We are able both to develop CMS from scratch and customize existing CMS products. We also provide maintenance service of your CMS. We are maintaining some CMSs owned by big companies and banks.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Member Management / Contract Management system</b><br/>
+										CRM system, largescale-member management system. As we have experiences in developing member management system for banks, we have comprehensive security policy.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>E-Commerce </b><br/>
+										We are able to develop an E-commerce website that has quite complicated function such as Market place and Multi-level marketing. We develop the E-commerce website following unique Indonesian rules of payment and calculation of delivery cost. We also have plenty of experiences to develop E-commerce website with various Indonesian payment gateways.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Campaign Management / Contest Application Management System</b><br/>
+										We often develop back-end management system other than campaign web page itself. We develop Campaign / Contest Application system integrating various functions , such as managing applicatnts, informing the result to winners, developing main system development.
+									</li>
+								</ol>
+							  </div>
+							</div>
+						  </div>
+						  <div class="panel panel-default">
+							<div class="panel-heading">
+							  <a data-toggle="collapse" data-parent="#vacancy" href="#mobile-solution" class="collapsed">
+								<h4 class="panel-title">
+									<img src="../img/mobile-solution.png" alt="Mobile Solution"/> Mobile Solution
+								</h4>
+							  </a>
+							</div>
+							<div id="mobile-solution" class="panel-collapse collapse">
+							  <div class="panel-body">
+								<ol class="fa-ul">
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Mobile Website Creation </b><br/>
+										It is important to approach Mobile users properly since most of the internet traffic in Indonesia is consist of Mobile. We develop responsive website that can optimize its UI depending on the device screen size. We propose flexibly in case the project requires new technologies such as PWA or AMP.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Mobile Application Development</b><br/>
+										We are able to develop Android / iOS Apps that suit Indonesian market. We just not plan or use new technologies, but we use the plan into UI and UX, design, application development, and register the apps to provide you comprehensive service.
+									</li>
+								</ol>
+							  </div>
+							</div>
+						  </div>
+						  <div class="panel panel-default">
+							<div class="panel-heading">
+							  <a data-toggle="collapse" data-parent="#vacancy" href="#digital-marketing" class="collapsed">
+								<h4 class="panel-title">
+									<img src="../img/digital-marketing.png" alt="Digital Marketing"/> Digital Marketing
+								</h4>
+							  </a>
+							</div>
+							<div id="digital-marketing" class="panel-collapse collapse">
+							  <div class="panel-body">
+								<ol class="fa-ul">
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>SEO</b><br/>
+										We commit to the result by not only implementing SEO but website improvement. We have great experience in SEO for Japanese, Indonesian, and English language. We had succeeded to keep one of our clients (Indonesian finance company) on the 1st place in Google search result for a long time, as a notable example.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Internet Business Consulting</b><br/>
+										We create business with you as an internet advisor. We can help you to launch new business or expanding existing business utilizing the power of internet.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Contents Creation</b><br/>
+										We can create contents for your website such as image, video, and text contents. We also can translate the text contents that you provided. We also can create photo shooting / drone shooting by cooperating our partner. Our Indonesian & Japanese staffs will create your contents with their professional knowledge of SEO.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Internet Advertisement / Digital Marketing Consulting</b><br/>
+										Feel free to contact us to increasing prospects / conversions by internet advertisement, internet PR strategy, SNS marketing, etc. We will provide you effective solutions cooperating our partner.
+									</li>
+								</ol>
+							  </div>
+							</div>
+						  </div>
+						  <div class="panel panel-default">
+							<div class="panel-heading">
+							  <a data-toggle="collapse" data-parent="#vacancy" href="#others" class="collapsed">
+								<h4 class="panel-title">
+									<img src="../img/others.png" alt="Digital Marketing"/> Others
+								</h4>
+							  </a>
+							</div>
+							<div id="others" class="panel-collapse collapse">
+							  <div class="panel-body">
+								<ol class="fa-ul">
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Company Profile / Catalog / Leaflet Design Creation & Printing</b><br/>
+										We are able to print not only paper-based printings for business, but bag, T-shirts, or even more. We handle the project from designing until we deliver it controlling partner printing companies. Feel free to contact us about company profile, leaflet samples for exhibition, or other promotion products.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Web Server & Domain Agent Service</b><br/>
+										We will provide you agent service to obtain“co.id”(Indonesian corporate domain), setup DNS, setup SSL. We also can rent a Web server for you.
+									</li>
+								</ol>
+							  </div>
+							</div>
+						  </div>
+						</div>
+					</div>
+					<!--<div class="no-gap">
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
 								<span class="tooltiptext-service">We support you to create large-sale websites with development planning, guideline definition, as well as maintenance flow that all play an important role in your web marketing.</span>
@@ -131,7 +288,7 @@
 							<div class="text-center services-list" style="background:#f2f2f2!important">
 							</div>
 						</div>
-					</div>
+					</div>-->
 					<div class="clearfix"></div>
 					<div class="feel-free row-center-sm">
 						<div class="col-sm-8">
@@ -258,7 +415,18 @@
 			</div>	
 			
 			<?php include 'footer.php';?>
-			
+			<script>
+				$(function () {
+					$('#vacancy').on('shown.bs.collapse', function (e) {
+						var offset = $(this).find('.collapse.in').prev('.panel-heading');
+						if(offset) {
+							$('html,body').animate({
+								scrollTop: $(offset).offset().top-10
+							}, 500); 
+						}
+					}); 
+				});
+			</script>
 		</div>	
 	</body>
 </html>

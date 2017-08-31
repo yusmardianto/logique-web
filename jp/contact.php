@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="author" content="">
@@ -53,7 +53,7 @@
 					</div>
 					<div class="title"><b>Contact</b><span class="yellow">Us</span></div>
 					<div class="form-container">
-						ウェブサイトやソーシャルメディア等、ウェブ関連の事または印刷物に関する事なら、お気軽に弊社までお問い合わせください。<br/><br/>
+						ホームページ制作やソーシャルメディア等、ウェブ関連のご相談事または印刷物デザインに関する事も、お気軽にロギクまでお問い合わせください。<br/><br/>
 						<div class="row">
 							<div class="col-lg-7">
 								<form class="form-contact">

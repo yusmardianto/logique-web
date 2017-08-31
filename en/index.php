@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="author" content="">
@@ -44,11 +44,10 @@
 									Your <span class="yellow">Best Partner</span> in <br/>
 									WEB and Internet <span class="yellow">Solution</span>
 								</p>
-								Logique Digital Indonesia is a digital marketing company in Indonesia. We have a wide range of services start from <br/>
-								WEB development (WEB page creation) to mobile solution (mobile apps), E-Commerce,<br/>
-								WEB system development, SEO, and Internet Marketing.<br/><br/>
+								We are WEB developers located in Jakarta, Indonesia. We are providing digital Marketing, website creation, and web system development. We have been supporting our clients’ internet businesses in Indonesia for over 5 years. We will continue to contribute clients’ business utilizing power of internet for ASEAN countries and Indonesia.
+								<br/><br/>
 								<center>
-									<a href="about.php" class="btn btn-see-more">see more <i class="fa fa-arrow-circle-o-right" ></i></a>
+									<a href="services.php" class="btn btn-see-more">see more <i class="fa fa-arrow-circle-o-right" ></i></a>
 								</center>
 							</div>
 							<br/><br/><br/><br/>
@@ -65,11 +64,9 @@
 								Your <span class="yellow">Best Partner</span> in <br/>
 								WEB and Internet <span class="yellow">Solution</span>
 							</p>
-							Logique Digital Indonesia is a digital marketing company in Indonesia. We have a wide range of services start from <br/>
-							WEB development (WEB page creation) to mobile solution (mobile apps), E-Commerce,<br/>
-							WEB system development, SEO, and Internet Marketing.<br/><br/>
+							We are WEB developers located in Jakarta, Indonesia. We are providing digital Marketing, website creation, and web system development. We have been supporting our clients’ internet businesses in Indonesia for over 5 years. We will continue to contribute clients’ business utilizing power of internet for ASEAN countries and Indonesia.<br/><br/>
 							<center>
-								<a href="about.php" class="btn btn-see-more">see more <i class="fa fa-arrow-circle-o-right" ></i></a>
+								<a href="services.php" class="btn btn-see-more">see more <i class="fa fa-arrow-circle-o-right" ></i></a>
 							</center>
 						</div>
 					</div>

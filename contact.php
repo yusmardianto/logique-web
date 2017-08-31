@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="author" content="">
@@ -53,8 +53,7 @@
 					</div>
 					<div class="title"><b>Hubungi</b><span class="yellow">Kami</span></div>
 					<div class="form-container">
-						This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. <br/><br/>
-						Sed non  mauris vitae erat consequat auctor eu in elit.<br/><br/>
+						Silakan menghubungi kami untuk pembuatan website, media sosial, konsultasi seputar web, atau desain.<br/><br/>
 						<div class="row">
 							<div class="col-lg-7">
 								<form class="form-contact">
@@ -86,8 +85,6 @@
 								<br/>
 							</div>
 							<div class="col-lg-5">
-								Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. 
-								<br/><br/>
 								<span class="yellow">Alamat :</span><br/>
 								Jalan Tb. Simatupang No. 5,  Pasar Minggu, <br/>
 								Jakarta 12540.  INDONESIA<br/><br/><br/>

@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="author" content="">
@@ -41,14 +41,12 @@
 						<div class="title-container visible-xs">
 							<div class="text-center">
 								<p class="title-index">
-									Your <span class="yellow">Best Partner</span> in <br/>
-									WEB and Internet <span class="yellow">Solution</span>
+									<span class="yellow">Mitra Terbaik</span> Anda <br/>
+									untuk <span class="yellow">Solusi</span>  Web dan Internet
 								</p>
-								Logique Digital Indonesia is a digital marketing company in Indonesia. We have a wide range of services start from <br/>
-								WEB development (WEB page creation) to mobile solution (mobile apps), E-Commerce,<br/>
-								WEB system development, SEO, and Internet Marketing.<br/><br/>
+								Kami adalah Web Developer yang berpusat di Jakarta, Indonesia, dengan layanan yang mencakup pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web. Selama lebih dari 5 tahun kami telah mendukung bisnis klien-klien kami di Indonesia dan kami akan terus melanjutkan kontribusi tersebut di Indonesia dan negara-negara ASEAN dengan menggunakan kekuatan Internet.<br/><br/>
 								<center>
-									<a href="about.php" class="btn btn-see-more">see more <i class="fa fa-arrow-circle-o-right" ></i></a>
+									<a href="services.php" class="btn btn-see-more">Lihat lebih lanjut <i class="fa fa-arrow-circle-o-right" ></i></a>
 								</center>
 							</div>
 							<br/><br/><br/><br/>
@@ -62,14 +60,12 @@
 					<div class="title-container hidden-xs">
 						<div class="valign-center text-center">
 							<p class="title-index">
-								Your <span class="yellow">Best Partner</span> in <br/>
-								WEB and Internet <span class="yellow">Solution</span>
+								<span class="yellow">Mitra Terbaik</span> Anda <br/>
+								untuk <span class="yellow">Solusi</span>  Web dan Internet
 							</p>
-							Logique Digital Indonesia is a digital marketing company in Indonesia. We have a wide range of services start from <br/>
-							WEB development (WEB page creation) to mobile solution (mobile apps), E-Commerce,<br/>
-							WEB system development, SEO, and Internet Marketing.<br/><br/>
+							Kami adalah Web Developer yang berpusat di Jakarta, Indonesia, dengan layanan yang mencakup pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web. Selama lebih dari 5 tahun kami telah mendukung bisnis klien-klien kami di Indonesia dan kami akan terus melanjutkan kontribusi tersebut di Indonesia dan negara-negara ASEAN dengan menggunakan kekuatan Internet.<br/><br/>
 							<center>
-								<a href="about.php" class="btn btn-see-more">see more <i class="fa fa-arrow-circle-o-right" ></i></a>
+								<a href="services.php" class="btn btn-see-more">Lihat lebih lanjut <i class="fa fa-arrow-circle-o-right" ></i></a>
 							</center>
 						</div>
 					</div>

@@ -7,7 +7,7 @@
 <div class="collapse navbar-collapse" id="myNavbar">
 <div class="backdrop-test"></div>
 	<div class="logique-nav in-jp">
-		<div style="margin-top: 60px;">
+		<div class="margin-for-nav">
 			<div class="text-center">
 				<a href="index.php">
 					<img src="../img/home.png" alt="Home"/><br/>
@@ -37,12 +37,18 @@
 			</div>
 			<br/>
 			<div class="text-center">
+				<a href="joinus.php">
+					<img src="../img/joinus.png" alt="Services"/><br/>
+					Join Us
+				</a>
+			</div>
+			<br/>
+			<div class="text-center">
 				<a href="contact.php">
 					<img src="../img/contact-us.png" alt="contact us"/><br/>
 					お問い合わせ
 				</a>
 			</div>
-			<br/><br/><br/><br/>
 		</div>
 	</div>
 </div>
