@@ -141,13 +141,15 @@
 								<br/>
 							</div>
 							<div class="col-lg-5">
-								<span class="yellow">Address :</span><br/>
+								<span class="yellow">Alamat :</span><br/>
+								Ad Premier Building 19th Floor, <br/>
 								Jalan Tb. Simatupang No. 5,  Pasar Minggu, <br/>
-								Jakarta 12540.  INDONESIA<br/><br/><br/>
+								Jakarta 12540.  INDONESIA<br/><br/>
 								<div class="row">
 									<div class="col-xs-6">
 										<span class="yellow">Phone :</span><br/>
-										+62 21 999 9999
+										+62 (21) 2270 8935 <br/>
+										+62 (21) 2270 89336
 									</div>
 									<div class="col-xs-6">
 										<span class="yellow">Email :</span><br/>
