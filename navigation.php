@@ -14,35 +14,30 @@
 					Beranda
 				</a>
 			</div>
-			<br/>
 			<div class="text-center">
 				<a href="about.php">
 					<img src="img/about-us.png" alt="About Us"/><br/>
 					Tentang Kami
 				</a>
 			</div>
-			<br/>
 			<div class="text-center">
 				<a href="portfolio.php">
 					<img src="img/portfolio.png" alt="Portfolio"/><br/>
 					Portfolio
 				</a>
 			</div>
-			<br/>
 			<div class="text-center">
 				<a href="services.php">
 					<img src="img/services.png" alt="Services"/><br/>
 					Services
 				</a>
 			</div>
-			<br/>
 			<div class="text-center">
 				<a href="joinus.php">
 					<img src="img/joinus.png" alt="Services"/><br/>
 					Karir
 				</a>
 			</div>
-			<br/>
 			<div class="text-center">
 				<a href="contact.php">
 					<img src="img/contact-us.png" alt="Contact Us"/><br/>

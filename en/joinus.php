@@ -21,9 +21,65 @@
 	<body>
 		<div class="wrapper">
 		
-			<?php include 'navigation.php'?>
+			<!-- NAVIGATION -->
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+				<span class="icon-bar first"></span>
+				<span class="icon-bar second"></span>
+				<span class="icon-bar third"></span> 
+			</button>
+
+			<div class="collapse navbar-collapse" id="myNavbar">
+			<div class="backdrop-test"></div>
+				<div class="logique-nav">
+					<div class="margin-for-nav">
+						<div class="text-center">
+							<a href="index.php">
+								<img src="../img/home.png" alt="Home"/><br/>
+								Home
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="about.php">
+								<img src="../img/about-us.png" alt="About Us"/><br/>
+								About Us
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="portfolio.php">
+								<img src="../img/portfolio.png" alt="Portfolio"/><br/>
+								Portfolio
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="services.php">
+								<img src="../img/services.png" alt="Services"/><br/>
+								Services
+							</a>
+						</div>
+						<div class="text-center active">
+							<a href="joinus.php">
+								<img src="../img/joinus.png" alt="Services"/><br/>
+								Career
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="contact.php">
+								<img src="../img/contact-us.png" alt="Contact Us"/><br/>
+								Contact Us
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- NAVIGATION -->
 			
-			<div id="bgImg" class="others"><div class="img"></div></div>
+			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
+			<div class="contain-video">
+				<video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
+					<source src="../img/12377093.mp4" type="video/mp4">
+				</video>
+			</div>
+			<div class="bg-white-opacity"></div>
 			
 			<div class="container-fluid">
 				<div class="row">
@@ -83,7 +139,7 @@
 										You can come to the office anytime during 8-10 am as long as you work for 8 hours. And of course Saturday and Sunday are your holidays.
 									</div>
 								</div>
-								<br/><br/>
+								<br/>
 								<span class="characteristic-title">Daily Report</span><br/><br/>
 								<div class="row no-gap">
 									<div class="col-sm-3">
