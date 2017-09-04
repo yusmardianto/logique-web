@@ -148,7 +148,7 @@
 									<div class="col-xs-6">
 										<span class="yellow">Nomor Telepon :</span><br/>
 										+62 (21) 2270 8935 <br/>
-										+62 (21) 2270 89336
+										+62 (21) 2270 8936
 									</div>
 									<div class="col-xs-6">
 										<span class="yellow">Email :</span><br/>
