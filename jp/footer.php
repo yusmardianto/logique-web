@@ -18,9 +18,9 @@
 						System Development<br/>
 						Others<br/><br/>
 						
-						<div class="footer-title">Our Product</div>
+						<!--<div class="footer-title">Our Product</div>
 						tripkejepang.com<br/>
-						jadiboss.com<br/>
+						jadiboss.com<br/>-->
 					</div>
 				</div>
 				<br/>
