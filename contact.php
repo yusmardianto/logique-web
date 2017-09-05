@@ -1,3 +1,39 @@
+<?php
+require_once("./form/fgcontactform.php");
+
+$formproc = new FGContactForm();
+
+//1. Add your email address here.
+//You can add more than one receipients.
+$formproc->AddRecipient(['wisya@logique.co.id']); //<<---Put your email address here
+
+//2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
+// and put it here
+$formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
+
+//$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
+
+if(isset($_POST['submitted']))
+{
+    if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
+        $secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
+        // $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
+        $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+        // print_r($verifyResponse); exit;
+        $responseData = json_decode($verifyResponse);
+        if ($responseData->success) {
+            if ($formproc->ProcessForm()) {
+                $msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+            }
+        } else {
+            $msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
+        }
+    } else {
+        $msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
+    }
+}
+
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -109,23 +145,31 @@
 					<div class="title"><b>Hubungi</b><span class="yellow">Kami</span></div>
 					<div class="form-container">
 						Silakan menghubungi kami untuk pembuatan website, media sosial, konsultasi seputar web, atau desain.<br/><br/>
+	                    <?php if(isset($msg))
+	                    {
+	                    echo $msg;
+	                    }
+	                    ?>
 						<div class="row">
 							<div class="col-lg-7">
-								<form class="form-contact">
+			                      <form class="contactform" id="moresco-contactform" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
+			                      <input type='hidden' name='submitted' id='submitted' value='1'/>
+			                      <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
+			                      <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
 								  <div class="form-group">
-									<input type="text" class="form-control" id="company-name" name="company-name" placeholder="NAMA PERUSAHAAN">
+									<input type="text" class="form-control" id="companyname" name="companyname" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="NAMA PERUSAHAAN">
 								  </div>
 								  <div class="form-group">
-									<input type="text" class="form-control" id="name" name="name" placeholder="NAMA">
+									<input type="text" class="form-control" id="name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAMA">
 								  </div>
 								  <div class="form-group">
-									<input type="number" class="form-control" id="phone" name="phone" placeholder="NOMOR TELEPON">
+									<input type="number" class="form-control" id="phone" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="NOMOR TELEPON">
 								  </div>
 								  <div class="form-group">
-									<input type="email" class="form-control" id="email" name="email" placeholder="E-MAIL">
+									<input type="email" class="form-control" id="email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
 								  </div>
 								  <div class="form-group">
-									<textarea class="form-control" placeholder="PESAN"></textarea>
+									<textarea class="form-control" name="message" placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								  </div>
 								  <div class="row">
 									  <div class="col-sm-9">
