@@ -356,7 +356,49 @@
 					</div>
 					<div class="workflow-container">
 						<div class="title-workflow">開発の流れ</div>
-						<ul class="nav nav-tabs nav-justified workflow" role="tablist">
+						<div class="row">
+							<div class="col-md-5ths">
+								<div class="div-for-workflow">
+								  <div class="valign-center">
+									<img src="../img/planning.png" class="img-responsive center-block" alt="Planning"/>
+									要件定義
+								  </div>
+								</div>
+							</div>
+							<div class="col-md-5ths">
+								<div class="div-for-workflow">
+									<div class="valign-center">
+										<img src="../img/design.png" class="img-responsive center-block" alt="Design"/>
+										デザイン
+									</div>
+								</div>
+							</div>
+							<div class="col-md-5ths">
+								<div class="div-for-workflow">
+									<div class="valign-center">
+										<img src="../img/development.png" class="img-responsive center-block" alt="Development"/>
+										開発
+									</div>
+								</div>
+							</div>
+							<div class="col-md-5ths">
+								<div class="div-for-workflow">
+									<div class="valign-center">
+										<img src="../img/test.png" class="img-responsive center-block" alt="Test & Revision"/>
+										テスト& 調整
+									</div>
+								</div>
+							</div>
+							<div class="col-md-5ths">
+								<div class="div-for-workflow">
+									<div class="valign-center">
+										<img src="../img/launch.png" class="img-responsive center-block" alt="Launching"/>
+										ローンチ
+									</div>
+								</div>
+							</div>
+						</div>
+						<!--<ul class="nav nav-tabs nav-justified workflow" role="tablist">
 							<li role="presentation" class="active">
 								<a href="#planning" aria-controls="planning" role="tab" data-toggle="tab">
 									<div class="valign-center">要件定義</div>
@@ -388,7 +430,6 @@
 								</a>
 							</li>
 						</ul>
-						<!-- Tab panes -->
 						<div class="tab-content">
 							<div role="tabpanel" class="tab-pane active fade in" id="planning">
 								<div class="row row-center-sm">
@@ -455,7 +496,7 @@
 									</div>
 								</div>
 							</div>
-						</div>
+						</div>-->
 					</div>
 					<div class="got-project">
 						<span style="font-size:30px;">WEB関連でお困りの事があれば、</span><br/>
