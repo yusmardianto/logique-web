@@ -14,14 +14,7 @@ PARTICULAR PURPOSE.
 */
 require $_SERVER['DOCUMENT_ROOT'] . '/PHPMailerAutoload.php';
 
-/*
-Interface to Captcha handler
-*/
-class FG_CaptchaHandler
-{
-    function Validate() { return false;}
-    function GetError(){ return '';}
-}
+
 /*
 FGContactForm is a general purpose contact form class
 It supports Captcha, HTML Emails, sending emails
@@ -45,10 +38,22 @@ class FGContactForm
 
     function FGContactForm()
     {
-        $this->receipients = array();
+        $this->fromName = 'Logique'; // set custom from name here, default : = $this->smtpUsername
+        $this->fromEmail = 'info@logique.co.id'; // set custom from name here, default : = $this->smtpUsername
         $this->errors = array();
         $this->form_random_key = 'HTgsjhartag';
         $this->conditional_field='';
+
+        $this->receipent = ['info@logique.co.id']; // set custom recipient here
+
+        // Setting SMTP
+        $this->smtpHost = '';                       // Set the SMTP host, eq : smtp.gmail.com
+        $this->smtpPort = 587;                      // Set the SMTP port number - 587 for authenticated TLS, a.k.a. RFC4409 SMTP submission
+        $this->smtpEncryption = 'tls';              // Set the encryption system to use - ssl (deprecated) or tls
+        $this->smtpAuth = true;                     // SMTP authentication ?
+        $this->smtpUsername = "username@gmail.com"; // Username to use for SMTP authentication - use full email address for gmail
+        $this->smtpPassword = "password";           // Password to use for SMTP authentication $phpmailer->isSMTP();
+
     }
 
     function EnableCaptcha($captcha_handler)
@@ -57,9 +62,9 @@ class FGContactForm
         session_start();
     }
 
-    function AddRecipient($email = array())
+    function AddRecipient($email)
     {
-        $this->receipent = $email;
+        // $this->receipent = $email;
     }
 
     function SetFromAddress($email)
@@ -152,26 +157,6 @@ class FGContactForm
 
     function SendFormSubmission()
     {
-        $this->mailer = new PHPMailer();
-        $this->mailer->CharSet = 'utf-8';
-
-        // $this->mailer->SMTPDebug = 3;                               // Enable verbose debug output
-
-        // $this->mailer->isSMTP();                                      // Set mailer to use SMTP
-        // $this->mailer->Host = 'smtp.mailtrap.io';  // Specify main and backup SMTP servers
-        // $this->mailer->SMTPAuth = true;                               // Enable SMTP authentication
-        // $this->mailer->Username = '5cacef86d45cf4';                 // SMTP username
-        // $this->mailer->Password = '416a563d057d48';                           // SMTP password
-        // $this->mailer->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
-        // $this->mailer->Port = 465;                                   // TCP port to connect to
-        // $this->mailer->SMTPOptions = array(
-        //    'ssl' => array(
-        //        'verify_peer' => false,
-        //        'verify_peer_name' => false,
-        //        'allow_self_signed' => true
-        //    )
-        // );
-
         $status = array(
             'message' => array(
                 'subject' => 'Message From Logique.co.id Website',
@@ -182,19 +167,46 @@ class FGContactForm
                 'header' => 'Below are the data you\'ve sent through our website:',
             ),
         );
-
         foreach ($status as $key => $data) {
-            if ($key == 'message') {
-                foreach ($this->receipent as $key => $value) {
-                    $this->mailer->addAddress($value);
-                    $this->mailer->From = $this->email;
-                    $this->mailer->FromName = $this->email;
-                }
-            } else {
-                $this->mailer->addAddress($this->email, $this->name);
-                $this->mailer->From = $this->receipent;
-                $this->mailer->FromName = $this->receipent;
+            $this->mailer = new PHPMailer();
+            $this->mailer->CharSet = 'utf-8';
+            
+            if(!empty($this->smtpHost)){
+              // using smtp
+              $this->mailer->isSMTP();
+              $this->mailer->Host = $this->smtpHost;
+              $this->mailer->Port = $this->smtpPort;
+              $this->mailer->SMTPSecure = $this->smtpEncryption;
+              $this->mailer->SMTPAuth = $this->smtpAuth;
+              $this->mailer->Username = $this->smtpUsername;
+              $this->mailer->Password = $this->smtpPassword;
+            }else{
+              // default phpmailer : using localhost and localuser
             }
+
+            if ($key == 'message') {
+                if (is_array($this->receipent)) { // array (one or many emails)
+                    foreach ($this->receipent as $key => $the_receipent) {
+                        $this->mailer->addAddress($the_receipent);
+                    }
+                } else { // non array (only one email)
+                    $this->mailer->addAddress($this->receipent);
+                }
+                $this->mailer->addReplyTo($this->email);
+            } else {
+                // You can change below value as static if needed
+                $the_receipent = (is_array($this->receipent)) ? $this->receipent[0] : $this->receipent ;
+                $this->mailer->addAddress($this->email, $this->name);
+                $this->mailer->addReplyTo($the_receipent);
+                
+            }
+            
+            if(empty($this->fromName)){
+              $this->mailer->FromName = empty($this->mailer->Username) ? $this->mailer->From : $this->mailer->Username;
+            }else{
+              $this->mailer->FromName = $this->fromName;
+            }
+            $this->mailer->SetFrom($this->fromEmail, $this->mailer->FromName);
 
             $this->mailer->Subject = $data['subject'];
             $message = $this->ComposeFormtoEmail($data['header']);
@@ -205,8 +217,8 @@ class FGContactForm
 
             if(!$this->mailer->Send())
             {
-                echo '<pre>Mailer Error: ' . $this->mailer->ErrorInfo;
-                exit;
+                $this->add_error("Failed sending email!");
+                return false;
             }
         }
 
@@ -345,10 +357,14 @@ class FGContactForm
             $this->add_error("Please provide a valid email address");
             $ret = false;
         }
-        elseif (strlen($_POST['phone'])> 16) {
-            $this->add_error("Phone number can not more then 16 characters");
+
+        //country validaions
+        if(!$this->validate_country($_POST['country']))
+        {
+            $this->add_error("Please provide a valid country name");
             $ret = false;
         }
+
         //message validaions
         if(strlen($_POST['message'])>2048)
         {
@@ -407,6 +423,7 @@ class FGContactForm
         $this->name = $this->Sanitize($_POST['name']);
         $this->email = $this->Sanitize($_POST['email']);
         $this->phone = $this->Sanitize($_POST['phone']);
+        $this->country = $this->Sanitize($_POST['country']);
 
         /*newline is OK in the message.*/
         $this->message = $this->StripSlashes($_POST['message']);
@@ -418,7 +435,12 @@ class FGContactForm
     }
     function validate_email($email)
     {
-        return filter_var($email, FILTER_VALIDATE_EMAIL);
+        return filter_var($email, FILTER_VALIDATE_EMAIL) && preg_match("/^(?!(?:(?:\\x22?\\x5C[\\x00-\\x7E]\\x22?)|(?:\\x22?[^\\x5C\\x22]\\x22?)){255,})(?!(?:(?:\\x22?\\x5C[\\x00-\\x7E]\\x22?)|(?:\\x22?[^\\x5C\\x22]\\x22?)){65,}@)(?:(?:[\\x21\\x23-\\x27\\x2A\\x2B\\x2D\\x2F-\\x39\\x3D\\x3F\\x5E-\\x7E]+)|(?:\\x22(?:[\\x01-\\x08\\x0B\\x0C\\x0E-\\x1F\\x21\\x23-\\x5B\\x5D-\\x7F]|(?:\\x5C[\\x00-\\x7F]))*\\x22))(?:\\.(?:(?:[\\x21\\x23-\\x27\\x2A\\x2B\\x2D\\x2F-\\x39\\x3D\\x3F\\x5E-\\x7E]+)|(?:\\x22(?:[\\x01-\\x08\\x0B\\x0C\\x0E-\\x1F\\x21\\x23-\\x5B\\x5D-\\x7F]|(?:\\x5C[\\x00-\\x7F]))*\\x22)))*@(?:(?:(?!.*[^.]{64,})(?:(?:(?:xn--)?[a-z0-9]+(?:-[a-z0-9]+)*\\.){1,126}){1,}(?:(?:[a-z][a-z0-9]*)|(?:(?:xn--)[a-z0-9]+))(?:-[a-z0-9]+)*)|(?:\\[(?:(?:IPv6:(?:(?:[a-f0-9]{1,4}(?::[a-f0-9]{1,4}){7})|(?:(?!(?:.*[a-f0-9][:\\]]){7,})(?:[a-f0-9]{1,4}(?::[a-f0-9]{1,4}){0,5})?::(?:[a-f0-9]{1,4}(?::[a-f0-9]{1,4}){0,5})?)))|(?:(?:IPv6:(?:(?:[a-f0-9]{1,4}(?::[a-f0-9]{1,4}){5}:)|(?:(?!(?:.*[a-f0-9]:){5,})(?:[a-f0-9]{1,4}(?::[a-f0-9]{1,4}){0,3})?::(?:[a-f0-9]{1,4}(?::[a-f0-9]{1,4}){0,3}:)?)))?(?:(?:25[0-5])|(?:2[0-4][0-9])|(?:1[0-9]{2})|(?:[1-9]?[0-9]))(?:\\.(?:(?:25[0-5])|(?:2[0-4][0-9])|(?:1[0-9]{2})|(?:[1-9]?[0-9]))){3}))\\]))$/i", $email);
+    }
+
+    function validate_country($country)
+    {
+        return !preg_match("/[^\w\s]/i", $country);
     }
 
     function GetKey()
