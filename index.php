@@ -99,8 +99,8 @@
 						<div class="title-container visible-xs">
 							<div class="text-center">
 								<p class="title-index">
-									<span class="yellow">Mitra Terbaik</span> Anda <br/>
-									untuk <span class="yellow">Solusi</span>  Web dan Internet
+									<span class="yellow">Solusi Terbaik</span> Anda <br/>
+									untuk Web dan Internet
 								</p>
 								Kami adalah Web Developer yang berpusat di Jakarta, Indonesia, dengan layanan yang mencakup pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web. Selama lebih dari 5 tahun kami telah mendukung bisnis klien-klien kami di Indonesia dan kami akan terus melanjutkan kontribusi tersebut di Indonesia dan negara-negara ASEAN dengan menggunakan kekuatan Internet.<br/><br/>
 								<center>
@@ -124,8 +124,8 @@
 					<div class="title-container hidden-xs">
 						<div class="valign-center text-center">
 							<p class="title-index">
-								<span class="yellow">Mitra Terbaik</span> Anda <br/>
-								untuk <span class="yellow">Solusi</span>  Web dan Internet
+								<span class="yellow">Solusi Terbaik</span> Anda <br/>
+								untuk Web dan Internet
 							</p>
 							Kami adalah Web Developer yang berpusat di Jakarta, Indonesia, dengan layanan yang mencakup pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web. Selama lebih dari 5 tahun kami telah mendukung bisnis klien-klien kami di Indonesia dan kami akan terus melanjutkan kontribusi tersebut di Indonesia dan negara-negara ASEAN dengan menggunakan kekuatan Internet.<br/><br/>
 							<center>

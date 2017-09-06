@@ -437,6 +437,9 @@ footer {
 footer a{
 	color:#fff!important;
 }
+footer a:hover{
+	color:#ffca13!important;
+}
 .link-footer{
 	line-height: 25px;
 }
@@ -590,6 +593,26 @@ footer a{
 .bg-grey .col-sm-9{
 	text-align:justify;
 }
+.col-md-5ths{
+	position: relative;
+    min-height: 1px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.div-for-workflow{
+	height: 150px;
+    border: 13px solid #f2f2f2!important;
+    background: #ffca13;
+    padding: 4px;
+    border-radius: 0;
+    color: #000;
+    width: 100%;
+    text-align: center;
+	margin:auto
+}
+.div-for-workflow img{
+	margin-bottom:5px;
+}
 
 @media (max-width: 1360px){
 	.workflow.nav-tabs.nav-justified>li>a{width:auto;margin-right: 0;}
@@ -602,6 +625,10 @@ footer a{
 	.title-index{font-size:45px}
 }
 @media screen and (max-width: 979px) {
+	.col-md-5ths{
+		float: left;
+        width: 20%;
+	}
 	.logique-nav{
 		background:rgba(255,202,19,1);
 	}
@@ -642,6 +669,16 @@ footer a{
 	}
 }
 @media (max-width: 767px){
+	#vacancy .panel-body{
+		padding:15px;
+	}
+	.col-md-5ths{
+		float: none;
+        width: 100%;
+	}
+	.div-for-workflow{
+		margin: auto auto 20px auto;
+	}
 	.margin-for-nav{margin-top: 0px;}
 	.title{
 		padding:10px 15px;
@@ -666,7 +703,6 @@ footer a{
 		margin-top: -12px;
 	}
 	footer{margin-left: 0;}
-	.title-workflow{margin-bottom:0}
 	.workflow-container .tab-content {margin-top: 0;}
 	.workflow.nav-tabs{display:none}
 	.workflow-container .tab-content{border:0}
@@ -712,6 +748,10 @@ footer a{
 	#bgImg .valign-center{
 		padding:0 50px;
 	}
+	.col-md-5ths{
+		float: left;
+        width: 20%;
+    }
 }
 @media (min-width:768px) {
     .row-center-sm {

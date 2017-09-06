@@ -99,8 +99,8 @@
 						<div class="title-container visible-xs">
 							<div class="text-center">
 								<p class="title-index">
-									Your <span class="yellow">Best Partner</span> in <br/>
-									WEB and Internet <span class="yellow">Solution</span>
+									Your <span class="yellow">Best Solution</span> for <br/>
+									WEB and Internet
 								</p>
 								インドネシア、ジャカルタのWEB制作会社です。 デジタルマーケティング支援・ホームページ制作・WEBシステム開発会社をしています。 5年以上の実績があり多くのインドネシア国内のお客様のインターネットビジネスをご支援してきました。 今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネットを活用して貢献したいと思います。<br/><br/>
 								<center>
@@ -124,8 +124,8 @@
 					<div class="title-container hidden-xs">
 						<div class="valign-center text-center">
 							<p class="title-index">
-								Your <span class="yellow">Best Partner</span> in <br/>
-								WEB and Internet <span class="yellow">Solution</span>
+								Your <span class="yellow">Best Solution</span> for <br/>
+								WEB and Internet
 							</p>
 							インドネシア、ジャカルタのWEB制作会社です。 デジタルマーケティング支援・ホームページ制作・WEBシステム開発会社をしています。 5年以上の実績があり多くのインドネシア国内のお客様のインターネットビジネスをご支援してきました。 今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネットを活用して貢献したいと思います。<br/><br/>
 							<center>

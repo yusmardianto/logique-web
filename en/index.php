@@ -100,8 +100,8 @@
 						<div class="title-container visible-xs">
 							<div class="text-center">
 								<p class="title-index">
-									Your <span class="yellow">Best Partner</span> in <br/>
-									WEB and Internet <span class="yellow">Solution</span>
+									Your <span class="yellow">Best Solution</span> for <br/>
+									WEB and Internet
 								</p>
 								We are WEB developers located in Jakarta, Indonesia. We are providing digital Marketing, website creation, and web system development. We have been supporting our clients’ internet businesses in Indonesia for over 5 years. We will continue to contribute clients’ business utilizing power of internet for ASEAN countries and Indonesia.
 								<br/><br/>
@@ -126,8 +126,8 @@
 					<div class="title-container hidden-xs">
 						<div class="valign-center text-center">
 							<p class="title-index">
-								Your <span class="yellow">Best Partner</span> in <br/>
-								WEB and Internet <span class="yellow">Solution</span>
+								Your <span class="yellow">Best Solution</span> for <br/>
+								WEB and Internet
 							</p>
 							We are WEB developers located in Jakarta, Indonesia. We are providing digital Marketing, website creation, and web system development. We have been supporting our clients’ internet businesses in Indonesia for over 5 years. We will continue to contribute clients’ business utilizing power of internet for ASEAN countries and Indonesia.<br/><br/>
 							<center>
