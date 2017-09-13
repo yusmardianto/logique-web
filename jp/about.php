@@ -103,7 +103,7 @@
 			
 			<div id="contentsArea">
 				<div id="contents">
-					<img src="../img/about-us-main-visual.png" style="width:100%"/>
+					<img src="../img/about-us-main-visual.png" class="img-in-about"/>
 					<div class="title"><b>About</b><span class="yellow">Us</span></div>
 					<div class="form-container">	
 						LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。 インドネシアのジャカルタからインドネシア国内の企業さま、また日本などインドネシア国外のお客様に対して、ウェブサイトやシステムの制作開発、運用のご支援をしています。 WEBデザイン、インターネットマーケティングやSEO対策、FacebookやInstagram等のソーシャルメディアを活用したキャンペーン実施からモバイル・アプリケーション開発までDigital領域で幅広くサービス提供していることに加え、会社概要やカタログ、リーフレットのデザイン・印刷も行っています。<br/><br/>

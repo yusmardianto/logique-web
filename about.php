@@ -103,7 +103,7 @@
 			
 			<div id="contentsArea">
 				<div id="contents">
-					<img src="img/about-us-main-visual.png" style="width:100%"/>
+					<img src="img/about-us-main-visual.png" class="img-in-about"/>
 					<div class="title"><b>Tentang</b><span class="yellow">Kami</span></div>
 					<div class="form-container">
 						LOGIQUE adalah Web Developer yang menyediakan aneka layanan terkait web dan Internet seperti pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web. Kami memberikan dukungan pembuatan website / sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain layanan yang berhubungan dengan web seperti desain web, optimasi mesin pencarian (SEO), pengoperasian social media, dan pengembangan aplikasi mobile; kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. <br/><br/>

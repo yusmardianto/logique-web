@@ -613,6 +613,8 @@ footer a:hover{
 .div-for-workflow img{
 	margin-bottom:5px;
 }
+.img-in-about{width:100%;max-height:355px;object-fit:cover;border-bottom:3px solid #ffca13}
+.img-in-joinus{width:100%;max-height:380px;object-fit:cover}
 
 @media (max-width: 1360px){
 	.workflow.nav-tabs.nav-justified>li>a{width:auto;margin-right: 0;}

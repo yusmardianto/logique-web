@@ -104,7 +104,7 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title"><b>Join</b><span class="yellow">Us</span></div>
-					<img src="img/career-main.png" style="width:100%"/>
+					<img src="img/career-main.png" class="img-in-joinus"/>
 					<div class="form-container">
 						<p>
 						<br/>

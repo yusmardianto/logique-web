@@ -104,7 +104,7 @@
 			
 			<div id="contentsArea">
 				<div id="contents">
-					<img src="../img/about-us-main-visual.png" style="width:100%"/>
+					<img src="../img/about-us-main-visual.png" class="img-in-about"/>
 					<div class="title"><b>About</b><span class="yellow">Us</span></div>
 					<div class="form-container">
 						LOGIQUE are web developers providing digital marketing and creating website / web system. We support developing website / web system and maintenance, in Jakarta, Indonesia, and overseas like Japan. Other than our web-related services such as web design, internet marketing, SEO, campaign utilizing social media maintenance (Facebook, Instagram, etc.), and mobile application development, we are also providing design & printing service such as company profile, catalog, leaflet, etc. <br/><br/>
