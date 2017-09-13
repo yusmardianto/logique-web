@@ -62,13 +62,13 @@ strong{
 	top:0;
 	z-index: 1000;
 	perspective:1000px;
-	padding: 10px 0px;
+	padding:0;
 	font-weight:300;
 	transition:all .25s;
 	overflow: auto;
 }
 .logique-nav .text-center{
-	padding:10px;
+	padding:8px 10px;
 }
 .logique-nav .text-center.active,
 .logique-nav .text-center.active:hover,
@@ -84,7 +84,10 @@ strong{
 	color:#fff;
 }
 .margin-for-nav{
-	margin-top: 60px;
+	margin-top: 0;
+}
+@media (min-width: 1200px){
+	.margin-for-nav{top: 50%;transform: translateY(-50%);-webkit-transform: translateY(-50%);-ms-transform: translateY(-50%);position: relative;}
 }
 .valign-center{top: 50%;transform: translateY(-50%);-webkit-transform: translateY(-50%);-ms-transform: translateY(-50%);position: relative;}
 .logo{

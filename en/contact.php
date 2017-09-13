@@ -103,6 +103,12 @@ if(isset($_POST['submitted']))
 								Contact Us
 							</a>
 						</div>
+						<div class="text-center">
+							<a href="https://www.logique.co.id/blog/" target="_blank">
+								<img src="../img/blog.png" alt="Blog"/><br/>
+								Blog
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
