@@ -4,9 +4,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="">
-	<meta name="keywords" content="">
-	<meta name="author" content="">
+    <meta name="description" content="Kami adalah Web Developer yang melayani pelayanan yang mencakup pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web.">
+	<meta name="keywords" content="web developer, mobile web, website development, Jakarta, Indonesia">
+	<meta name="author" content="PT. Logique Digital Indonesia">
+	<meta property="og:title" content="Beranda | PT. Logique Digital Indonesia">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:url" content="https://logique.co.id/">
+	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:description" content="Kami adalah Web Developer yang melayani pelayanan yang mencakup pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web.">
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -17,7 +24,7 @@
 	ga('send', 'pageview');
 
 	</script>
-    <title>Logique</title>
+    <title>Beranda | PT. Logique Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

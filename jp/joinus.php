@@ -1,14 +1,20 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="">
-	<meta name="keywords" content="">
-	<meta name="author" content="">
-    
-    <title>Join Us Logique</title>
+    <meta name="description" content="PT. Logique Digital Indonesia will support you on Internet Marketing, responsive Web development, SEO, etc.">
+	<meta name="keywords" content="Career Logique, Logique Job , Lowongan , karir">
+	<meta name="author" content="PT. Logique Digital Indonesia">
+    <meta property="og:title" content="Career | PT. Logique Digital Indonesia">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:url" content="https://www.logique.co.id/jp/joinus.php">
+	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:description" content="PT. Logique Digital Indonesia will support you on Internet Marketing, responsive Web development, SEO, etc.">
+	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <title>Career | PT. Logique Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

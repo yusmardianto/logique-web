@@ -1,14 +1,20 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="">
-	<meta name="keywords" content="">
-	<meta name="author" content="">
-    
-    <title>Portfolio Logique</title>
+    <meta name="description" content="PT. Logique Digital Indonesia have supported many clients on Website development, Internet Marketing, SEO, etc.">
+	<meta name="keywords" content="portfolio Logique, Indonesia, WEB Service, client of logique, web development client">
+	<meta name="author" content="PT. Logique Digital Indonesia">
+    <meta property="og:title" content="Portfolio | PT. Logique Digital Indonesia">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:url" content="https://www.logique.co.id/jp/portfolio.php">
+	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:description" content="PT. Logique Digital Indonesia have supported many clients on Website development, Internet Marketing, SEO, etc.">
+	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <title>Portfolio | PT. Logique Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

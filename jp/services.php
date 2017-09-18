@@ -1,14 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="">
-	<meta name="keywords" content="">
-	<meta name="author" content="">
-    
-    <title>Services Logique</title>
+    <meta name="description" content="There are many services that we can do for you, such as website development, internet marketing, SEO, SSL, etc.">
+	<meta name="keywords" content="Services of Logique, WEB services, Jakarta, WEB site development, SSL">
+	<meta name="author" content="PT. Logique Digital Indonesia">
+    <meta property="og:title" content="Services | PT. Logique Digital Indonesia">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:url" content="https://www.logique.co.id/jp/services.php">
+	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:description" content="There are many services that we can do for you, such as website development, internet marketing, SEO, SSL, etc.">
+	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <title>Services | PT. Logique Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

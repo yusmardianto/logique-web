@@ -4,11 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="">
-	<meta name="keywords" content="">
-	<meta name="author" content="">
-    
-    <title>Portfolio Logique</title>
+    <meta name="description" content="PT. Logique Digital Indonesia sudah membantu banyak klien dalam hal website development, internet marketing, SEO, dll.">
+	<meta name="keywords" content="portfolio Logique, Indonesia, WEB Service, klien logique, klien web development">
+	<meta name="author" content="PT. Logique Digital Indonesia">
+    <meta property="og:title" content="Portfolio | PT. Logique Digital Indonesia">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:url" content="https://www.logique.co.id/portfolio.php">
+	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:description" content="PT. Logique Digital Indonesia sudah membantu banyak klien dalam hal website development, internet marketing, SEO, dll.">
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <title>Portfolio | PT. Logique Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

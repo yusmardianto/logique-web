@@ -4,11 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="">
-	<meta name="keywords" content="">
-	<meta name="author" content="">
-    
-    <title>About Logique</title>
+    <meta name="description" content="Kami adalah Web Developer yang berpusat di Jakarta, Indonesia, dengan layanan yang mencakup pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web">
+	<meta name="keywords" content="Indonesia, website development company, Jakarta, website development, mobile Website">
+	<meta name="author" content="PT. Logique Digital Indonesia">
+    <meta property="og:title" content="Tentang Kami | PT. Logique Digital Indonesia">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:url" content="https://www.logique.co.id/about.php">
+	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:description" content="Kami adalah Web Developer yang berpusat di Jakarta, Indonesia, dengan layanan yang mencakup pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web.">
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <title>Tentang Kami | PT. Logique Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
