@@ -39,7 +39,7 @@ ga('send', 'pageview');
 				<div class="footer-title">LOGIQUE DIGITAL INDONESIA</div>
 				Ad Premier Building 19th Floor.  Jalan Tb. Simatupang No. 5 <br/>
 				Ragunan, Ps. Minggu,  Jakarta Selatan, 12540<br/><br/>
-				株式会社クライマークスは、Webコンサルティング、Webサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、グラフィック制作、映像制作のプロフェッショナル集団として、貴社に最適なソリューションを提供します。 大規模コーポレートサイトからスマートフォンサイトまで、アートディレクションと情報アーキテクチャ設計を融合した、クリエイティブで訴求力の高いサイトを構築しています。
+				LOGIQUEは、Webコンサルティング、Webサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、グラフィック制作、デザイン印刷のプロフェッショナル集団として、貴社に最適なソリューションを提供します。
 				<br/><br/>
 				<div class="copyright">&copy; 2017  Logique Digital Indonesia</div>
 			</div>
