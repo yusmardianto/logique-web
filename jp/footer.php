@@ -15,7 +15,7 @@ ga('send', 'pageview');
 				<div class="row">
 					<div class="col-sm-4 col-xs-6 link-footer-nav">
 						<a href="index.php">Home</a><br/><br/>
-						<a href="about.php">弊社について</a><br/><br/>
+						<a href="about.php">会社概要</a><br/><br/>
 						<a href="portfolio.php">ポートフォリオ</a><br/><br/>
 						<a href="service.php">サービス</a><br/><br/>
 						<a href="contact.php">お問い合わせ</a><br/>

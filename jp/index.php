@@ -4,15 +4,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="We are web developer that support you on Internet marketing, website creation, and web system development.">
-	<meta name="keywords" content="web developer, mobile web, website development, Jakarta, Indonesia">
+    <meta name="description" content="インドネシア、ジャカルタでのWEBサイト制作、システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等のデザインなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。">
+	<meta name="keywords" content="WEBサイト制作, ホームページ制作, WEBシステム構築, インターネットマーケティング, SEO, デザイン, パンフレット, モバイルアプリ">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Home | PT. Logique Digital Indonesia">
+	<meta property="og:title" content="インドネシアのWEBサイト制作/WEBシステム構築なら | LOGIQUE デジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://logique.co.id/jp">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="We are web developer that support you on Internet marketing, website creation, and web system development.">
+	<meta property="og:description" content="インドネシア、ジャカルタでのWEBサイト制作、システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等のデザインなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -24,7 +24,7 @@
 	ga('send', 'pageview');
 
 	</script>
-    <title>Home | PT. Logique Digital Indonesia</title>
+    <title>インドネシアのWEBサイト制作/WEBシステム構築なら | LOGIQUE デジタルインドネシア</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -56,11 +56,11 @@
 						<div class="text-center">
 							<a href="about.php">
 								<img src="../img/about-us.png" alt="About Us"/><br/>
-								弊社について
+								会社概要
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="portfolio.php">
+							<a href="portfolio.php" style="font-size:10px">
 								<img src="../img/portfolio.png" alt="Portfolio"/><br/>
 								ポートフォリオ
 							</a>
@@ -111,11 +111,10 @@
 					<div class="col-sm-12">
 						<div class="title-container visible-xs">
 							<div class="text-center">
-								<p class="title-index">
-									Your <span class="yellow">Best Solution</span> for <br/>
-									WEB and Internet
+								<p class="title-index" style="font-size:40px">
+									インドネシアでお客様の課題を<br>WEB・ネットの活用で解決してきました。
 								</p>
-								インドネシア、ジャカルタのWEB制作会社です。 デジタルマーケティング支援・ホームページ制作・WEBシステム開発会社をしています。 5年以上の実績があり多くのインドネシア国内のお客様のインターネットビジネスをご支援してきました。 今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネットを活用して貢献したいと思います。<br/><br/>
+								WEB・ホームページ制作・WEBシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWEB戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWEBを制作運用することを心がけています。ネットビジネスコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネットを活用して貢献していきます。<br/><br/>
 								<center>
 									<a href="services.php" class="btn btn-see-more">続きを見る <i class="fa fa-arrow-circle-o-right" ></i></a>
 								</center>
@@ -127,7 +126,7 @@
 			</div>
 			
 			<div class="contain-video">
-				<video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop style="display:block!important">
+				<video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
 					<source src="../img/12377093.mp4" type="video/mp4">
 				</video>
 			</div>
@@ -136,11 +135,10 @@
 				<div class="img">
 					<div class="title-container hidden-xs">
 						<div class="valign-center text-center">
-							<p class="title-index">
-								Your <span class="yellow">Best Solution</span> for <br/>
-								WEB and Internet
+							<p class="title-index" style="font-size:40px">
+								インドネシアでお客様の課題を<br>WEB・ネットの活用で解決してきました。
 							</p>
-							インドネシア、ジャカルタのWEB制作会社です。 デジタルマーケティング支援・ホームページ制作・WEBシステム開発会社をしています。 5年以上の実績があり多くのインドネシア国内のお客様のインターネットビジネスをご支援してきました。 今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネットを活用して貢献したいと思います。<br/><br/>
+							WEB・ホームページ制作・WEBシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWEB戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWEBを制作運用することを心がけています。ネットビジネスコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネットを活用して貢献していきます。<br/><br/>
 							<center>
 								<a href="services.php" class="btn btn-see-more">続きを見る <i class="fa fa-arrow-circle-o-right" ></i></a>
 							</center>

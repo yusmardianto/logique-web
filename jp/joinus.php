@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="PT. Logique Digital Indonesia will support you on Internet Marketing, responsive Web development, SEO, etc.">
-	<meta name="keywords" content="Career Logique, Logique Job , Lowongan , karir">
+    <meta name="description" content="LOGIQUEデジタルインドネシアでは、WEBプログラマー、WEBデザイナー、デザイナー、コンテンツライターを募集しております。LOGIQUEのPhilosophyに共感できるという方はお気軽にご応募ください。">
+	<meta name="keywords" content="採用情報, webデベロッパー, プログラマー, WEBデザイナー, デザイナー, コンテンツライター">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Career | PT. Logique Digital Indonesia">
+    <meta property="og:title" content="インドネシアのWEBサイト制作/WEBシステム構築なら | 採用情報 | LOGIQUE デジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/joinus.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="PT. Logique Digital Indonesia will support you on Internet Marketing, responsive Web development, SEO, etc.">
+	<meta property="og:description" content="LOGIQUEデジタルインドネシアでは、WEBプログラマー、WEBデザイナー、デザイナー、コンテンツライターを募集しております。LOGIQUEのPhilosophyに共感できるという方はお気軽にご応募ください。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>Career | PT. Logique Digital Indonesia</title>
+    <title>インドネシアのWEBサイト制作/WEBシステム構築なら | 採用情報 | LOGIQUE デジタルインドネシア</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -46,11 +46,11 @@
 						<div class="text-center">
 							<a href="about.php">
 								<img src="../img/about-us.png" alt="About Us"/><br/>
-								弊社について
+								会社概要
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="portfolio.php">
+							<a href="portfolio.php" style="font-size:10px">
 								<img src="../img/portfolio.png" alt="Portfolio"/><br/>
 								ポートフォリオ
 							</a>
@@ -120,7 +120,7 @@
 					<div class="form-container">
 						<p>
 						<br/>
-							LOGIQUEはインドネシアのトップWEB制作会社となるべく成長している過程にある会社です。既に多くの大手企業と直接お取引いただいています。発展途上の柔軟な会社なので、あなたのやる気次第ではあなたがLOGIQUEの中核になることだって可能です。LOGIQUEはあなたが成長できる環境を用意します。技術力・仕事力を向上するためのサポートをします。 意味のないこと、無駄なことは極力排除しています。効率的に楽しく仕事できる環境を用意します。一生懸命に、かつ楽しく働き、会社と一緒に成長しましょう。
+							LOGIQUEはインドネシアのジャカルタのトップWEB制作会社です。既に多くの大手企業と直接お取引いただいています。発展途上の柔軟な会社なので、あなたのやる気次第ではあなたがLOGIQUEの中核になることだって可能です。LOGIQUEはあなたが成長できる環境を用意します。技術力・仕事力を向上するためのサポートをします。 意味のないこと、無駄なことは極力排除しています。効率的に楽しく仕事できる環境を用意します。一生懸命に、かつ楽しく働き、会社と一緒に成長しましょう。
 							<br/><br/>
 							<span class="characteristic-title"><span class="yellow">LOGIQUE</span>で働くメリット :</span><br/>
 							LOGIQUEは、日本人創業者が経営しているインドネシアのWEB制作会社です、このため、LOGIQUEで働くと、外資系の大手企業との直接取引であるプロジェクトに関われ、外資系の企業とのプロジェクトを通してインターナショナルスタンダードな仕事のやり方を経験・学ぶことができます。 							プログラミングやデザインのクオリティも、マネジメントの方法も高い水準が求められますが、これはあなたの成長を促進します。新しい取組を受け入れるカルチャーがあります。あなたにアイデアがあれば、主体性をもってチャレンジすることが可能です。<br/>
@@ -182,6 +182,63 @@
 						LOGIQUEは常にロジカルに考え行動することを大事にしています。 意味のないこと・無駄なことは徹底的に排除していきます。 論理的に考え、お客様やLOGIQUEにメリットのあることを、合理的に行動していきます。 論理的に考えた後の行動量、行動力も重視します。 考えない人、行動に繋がれらない人はLOGIQUEでは評価されません。<br/><br/>
 						WEB制作業界の現状と未来を見据えたうえで、いつの時代でも生き抜いていける強い会社・強い個人をつくりたいと思っています。 １〜２年でトレンドは変わり５年たつと保有スキルが全く役に立たなくなるということも珍しくありません。 このような状況で大事なことは、今必要なスキルを身に付けつつ、トレンドに影響されない骨太な核となるスキル・強み（core competence）を身に付けていくことです。 今できることだけをやらせる会社、未経験のタスクをアサインしない会社では、幅広い経験ができず骨太な仕事人間形成ができません。 LOGIQUEでは未経験でも本人にやる気とポテンシャルがあれば、どんどんチャレンジさせます。 一人ひとりの幅とコアスキルの深化を考慮して仕事のアサイン、トレーニングをしていきます。
 						</p>
+					</div>
+					<div class="bg-grey">
+						<div class="title-bg-grey">営業パートナーの募集をしています。</span></div>
+						<br/><br/>
+						<div class="row">
+							<div class="col-md-12">
+								LOGIQUEでは、当社のサービスをご紹介いただき新規案件を獲得いただける方にご紹介手数料をお支払いしています。<br/><br/>
+								
+								お知り合いやお付き合いのある会社にて<br/>
+								<ul class="joinus-ul">
+									<li>WEB（ホームページ）をもちたい</li>
+									<li>WEBやブログがあるが活かせてない</li>
+									<li>SEO対策などDigitalマーケティングをしたい</li>
+									<li>インターネットビジネスを新たにはじめたい</li>
+								</ul>
+								など、WEBやインターネットに関連することでお困りの方がいらっしゃいましたら、当社をご紹介ください。<br/><br/>
+								当社をご紹介いただき、その旨を当社にご連絡ください。無事にご紹介いただいたお客様と当社の間で成約しましたら、ご紹介者様に紹介手数料をお支払いたします。<br/><br/>
+								
+								ご紹介手数料は、<br/>
+								<ul class="joinus-ul">
+									<li>成約額が50,000,000 IDR以下の場合は、成約額の10%</li>
+									<li>成約額が100,000,000 IDR以下の場合は、5,000,000 IDR</li>
+									<li>成約額が100,000,000 IDRより大きい場合は、10,000,000 IDR</li>
+								</ul><br/>
+								
+								ご紹介いただく方法に特別に制限はありませんが、下記のようにしていただくと有り難いです。<br/>
+								<ul class="joinus-ul">
+									<li>ご興味をお持ちのお客様のご連絡先をお教えいただく</li>
+									<li>ご紹介者様の情報もこの時にお教えいただく</li>
+									<li>当社からお客様へ直接ご連絡差し上げる</li>
+									<li>当社からお客様に提案する</li>
+									<li>成約したら当社からご紹介者様にご連絡する</li>
+								</ul><br/>
+								
+								＃状況により柔軟に対応いたします。パートナーシップの形態によっては上記に拘らず協業可能ですのでお気軽にご相談ください。<br/>
+								＃もちろん紹介ノルマなど一切ありません<br/>
+								＃ご興味の確度、ご予算感などをある程度ご確認いただいた上でご連絡いただけると大変助かります<br/>
+								＃ご紹介手数料をお支払できるのは、当社にとって新規のお客様になる場合のみです。成約額の計算も新規のイニシャルプロジェクト費が計算対象となります。第2次案件や運用保守費などは計算対象外です。<br/><br/>
+								案件はインドネシア国内でも日本など他の国のものでも構いません。<br/><br/>
+								
+								<span class="characteristic-title">よくあるご質問・ご相談</span><br/>
+								Q．ただ紹介、繋ぐだけで良いのか？提案活動に協力が必要なのか？<br/>
+								A．WEB（ホームページ）を持ちたい、リニューアルしたい、モバイルアプリを作りたい、SEO対策したい、など当社のサービスに関連するご興味をお持ちのお客様をご紹介いただくだけで結構です。お客様にLOGIQUEという会社がある、この会社から連絡させるとお伝えいただき、その後、当社にご連絡いただければ“紹介”は完了です。あとは当社が成約できるかどうか、となります。<br/><br/>
+
+								Q．成約した後の連絡は？<br/>
+								A．紹介いただいたお客様へご提案し、無事に成約することができましたら、ご紹介者様に当社からご連絡いたします。ご紹介手数料と送金について確認させていただきます。お客様とご確認いただければ成約額について間違いがないかなどもご確認いただけます。<br/><br/>
+
+								Q．紹介手数料は個人に払ってもらえるのか？<br/>
+								A．当社としてはお支払する先が法人か個人かは問題になりません。ご紹介者様のご都合に合わせます。<br/><br/>
+
+								Q．紹介手数料に税金は掛かるのか？<br/>
+								A．はい、お支払時に源泉徴収させていただきます。NPWPお持ちの場合は10%、お持ちでない場合は20%源泉が必要になります。<br/><br/>
+
+								Q．紹介手数料はインドネシアルピア建て？<br/>
+								A．インドネシアルピア建てだと助かるのですが、インドネシア国内に口座がない、などの場合には、妥当な為替交換レートで計算して日本円でお支払いたします。
+							</div>
+						</div>
 					</div>
 					<div class="bg-shadow-yellow">
 						<span class="characteristic-title">LOGIQUEにジョインできない人</span><br/>

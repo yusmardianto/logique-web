@@ -117,7 +117,7 @@
 				<div id="contents">
 					<div class="title"><b>Join</b><span class="yellow">Us</span></div>
 					<img src="img/career-main.png" class="img-in-joinus"/>
-					<div class="form-container">
+					<!--<div class="form-container">
 					<p><br/>
 						LOGIQUE terbuka untuk kalian yang punya minat tinggi dan kemampuan di bidang WEB, mari bekerja bersama di lingkungan kerja yang nyaman dan efektif.<br/><br/>
 						<span class="characteristic-title">Cek informasi lebih lanjut disini:</span><br/>
@@ -130,8 +130,8 @@
 							<li><a href="career/#job-opening" >Lowongan</a></li>
 						</ul>
 					</p>
-					</div>
-					<!--<div class="form-container">
+					</div>-->
+					<div class="form-container">
 						<p>
 						<br/>
 							LOGIQUE saat ini sedang dalam proses menjadi perusahaan pengembang Web nomor satu di Indonesia, yang sudah dimulai dengan bekerja sama dengan banyak klien besar. Dalam masa perkembangan LOGIQUE yang fleksibel, Anda memiliki kesempatan untuk menduduki posisi penting atau manajerial sesuai dengan kemampuan dan minat Anda. Kami menyediakan lingkungan yang baik untuk Anda bekerja dan dapat menjanjikan pertumbuhan karir yang bagus. LOGIQUE mendukung Anda untuk mengembangkan kemampuan teknis dan non-teknis Anda. Kami berusaha sebisa mungkin menghilangkan hal-hal yang tidak masuk akal dari pekerjaan sehingga Anda bisa menikmati suasana kerja yang efektif. Mari bekerja, menikmati pekerjaan, dan berkembang pesat bersama-sama.
@@ -314,7 +314,7 @@
 								Join Us
 							</a>
 						</div>
-					</div> -->
+					</div>
 				</div>
 			</div>
 			

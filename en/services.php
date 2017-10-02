@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="There are many services that we can do for you, such as website development, internet marketing, SEO, SSL, etc.">
-	<meta name="keywords" content="Services of Logique, WEB services, Jakarta, WEB site development, SSL">
+    <meta name="description" content="LOGIQUE offers a wide range of web and design related services starting from website creation / system development, Web marketing, mobile application development, social media operation, designing, etc, in Indonesia.">
+	<meta name="keywords" content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Services | PT. Logique Digital Indonesia">
+    <meta property="og:title" content="No.1 Website / Web-system Developer in Indonesia | Service | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/services.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="There are many services that we can do for you, such as website development, internet marketing, SEO, SSL, etc.">
+	<meta property="og:description" content="LOGIQUE offers a wide range of web and design related services starting from website creation / system development, Web marketing, mobile application development, social media operation, designing, etc, in Indonesia.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>Services | PT. Logique Digital Indonesia</title>
+    <title>No.1 Website / Web-system Developer in Indonesia | Service | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

@@ -95,7 +95,7 @@ strong{
 	margin-top:16px;
 	width: 100%;
 }
-.lang-logo{padding:25px 0;position:fixed;max-width:25%}
+.lang-logo{padding:25px 0;position:fixed;max-width:25%;}
 .lang-logo .list-inline a{
 	color:#aaa;
 	font-weight:600;
@@ -619,6 +619,7 @@ footer a:hover{
 .img-in-joinus{width:100%;max-height:380px;object-fit:cover}
 .link-career a{
 	color:#333;
+	text-decoration: underline;
 }
 .link-career a:hover{
 	color:#ffca13;
@@ -678,7 +679,15 @@ footer a:hover{
 		color: #757575;
 	}
 }
+@media (max-width: 768px){
+	#bgImg .img {
+		background-image: url(../img/video-img.png);
+	}
+}
 @media (max-width: 767px){
+	.wrapper .navbar-collapse{
+		height:100%!important;
+	}
 	#vacancy .panel-body{
 		padding:15px;
 	}
@@ -870,7 +879,11 @@ section.maintop video {
 	color:#ffca13;
 	padding:10px;
 	width:65%;
-	margin:auto;	
+	margin:auto;
+	display:none
+}
+.typing{
+	display:none;
 }
 .header-career img{
 	width: 160px;
@@ -917,7 +930,12 @@ section.maintop video {
 }
 .career-page .navbar{
 	padding: 10px 0;
+	border-radius: 0;
 	margin-bottom:0;
+	position: absolute;
+    width: 100%;
+    background: #fff;
+    z-index: 999;
 }
 .career-page .navbar img{
 	width:160px;
@@ -964,6 +982,7 @@ section.maintop video {
 	height:480px;
 	object-fit:cover;
 	width:100%;
+	margin-top: 92px;
 }
 .scrollToTop {
 	color:#000!important;
@@ -986,14 +1005,14 @@ section.maintop video {
 }
 #internal-rules .title{
 	font-size:30px;
-	color:#7d7d7d;
+	color:#fff;
 	background:transparent;
 	font-weight: 400;
 	margin-bottom: 30px;
 }
 #internal-rules p{
 	color:#fff;
-	text-align:center;
+	text-align:justify;
 	font-size:16px;
 	padding:0 40px;
 	margin-bottom:20px;
@@ -1043,7 +1062,10 @@ section.maintop video {
 .desc-job{
 	padding:15px;
 }
-.separator-career{margin: 30px 80px;background:url(../img/separator-career.png);height: 2px;background-size: cover;}
+.separator-career{
+	margin: 30px 80px;
+	border-top:2px dashed #000;
+}
 .vision-img{
 	width:100%;
 	margin:60px 0;
@@ -1126,6 +1148,7 @@ section.maintop video {
 	font-size:24px;
 	font-weight:bold;
 	line-height: 25px;
+	color: #fff;
 }
 #benefits .header-career div{
 	letter-spacing: 5px;
@@ -1203,11 +1226,58 @@ section.maintop video {
 .middle-management{
 	font-size:14px;
 }
-.career-page .navbar-toggle {
+.career-page .navbar-toggle.collapsed{
 	border: 1px solid #ffca13;
 }
 .career-page .navbar-toggle .icon-bar{
 	background:#ffca13;
+	transition:all .5s;
+}
+.jumptarget:before {
+   content: "";
+   position: absolute;
+   top: -2px;
+   left: 0;
+   right: 0;
+}
+.jumptarget {
+   position: relative;
+   border-top: 92px solid transparent;
+   margin: -92px 0 0;
+   -webkit-background-clip: padding-box!important;
+   -moz-background-clip: padding!important;
+   background-clip: padding-box!important;
+}
+.bg-policy{
+	height: 380px;
+    background: url(../img/policy.jpg) no-repeat;
+	background-size: cover;
+    margin: 60px 0;
+    background-attachment: fixed;
+}
+.career-page .navbar-toggle.collapsed .icon-bar.first{
+	transform: rotate(0deg)!important;
+}
+.career-page .navbar-toggle.collapsed .icon-bar.second{
+	background:#ffca13!important;
+}
+.career-page .navbar-toggle.collapsed .icon-bar.third{
+	transform: rotate(0deg)!important;
+    margin-top: 4px!important;
+}
+.career-page .navbar-toggle .icon-bar.first{
+	transform: rotate(45deg);
+}
+.career-page .navbar-toggle .icon-bar.second{
+	background:none;
+}
+.career-page .navbar-toggle .icon-bar.third{
+	transform: rotate(-45deg);
+    margin-top: -8px;
+}
+.career-page .navbar-toggle{
+	border: 1px solid #fff;
+	transition:all .5s;
 }
 
 
@@ -1238,6 +1308,10 @@ section.maintop video {
 	}
 }
 @media (max-width: 768px) {
+	.jumptarget {
+		border-top: 72px solid transparent;
+		margin: -72px 0 0;
+	}
 	.title-benefit-col-1{
 		padding: 10px;
 	}
@@ -1297,6 +1371,7 @@ section.maintop video {
 	}
 	.image-career {
 		height: auto;
+		margin-top:72px;
 	}
 	.career-page .navbar img{
 		margin-top:0;

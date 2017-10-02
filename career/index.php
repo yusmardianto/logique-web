@@ -34,7 +34,7 @@
     
     </head>
 	<body class="career-page">
-		<section class="maintop">
+		<section class="maintop" id="maintop">
 			<div class="bg-white-opacity opacity-career"></div>
 			<video poster="../img/bg-career-new-main.png" id="bgvid2" playsinline="" autoplay="" muted="" loop="">
 				<source src="../img/3734627.mp4" type="video/mp4">
@@ -44,7 +44,7 @@
 			</div>
 			<div class="box-home-career col-md-offset-2 col-md-8">
 				<div class="valign-center">
-					<p>
+					<p class="typing">
 					LOGIQUE is in a process to be the No.1 Web developing company in Indonesia. We already have numbers of big clients. You can be on a middle-management positions depending on your passion, as we are still in the middle of the flourishment and flexible. We prepare the environment and promise career growth. We support you to grow your both technic and work skills. We get rid of "Nonsense" from our work as much as possible. We prepare the environment that you can enjoy working effectively.
 					</p>
 					<br/>
@@ -61,16 +61,16 @@
 		<nav class="navbar" id="navbar">
 		  <div class="container">
 			<div class="navbar-header">
-			  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>  
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+				<span class="icon-bar first"></span>
+				<span class="icon-bar second"></span>
+				<span class="icon-bar third"></span>  
 			  </button>
-			  <a class="navbar-brand" href="#"><img src="../img/logo.png" alt="Logo"/></a>
+			  <a class="navbar-brand smooth" href="#maintop"><img src="../img/logo.png" alt="Logo"/></a>
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			  <ul class="nav navbar-nav navbar-right">
-				<li><a class="smooth" href="#benefits">Benefits</a></li>
+				<li><a class="smooth" href="#benefits" data-toggle="collapse" data-target="#myNavbar">Benefits</a></li>
 				<li><a class="smooth" href="#internal-rules">Internal Rules</a></li>
 				<li><a class="smooth" href="#our-policy">Vision & Policy</a></li>
 				<li><a class="smooth" href="#to-candidates">To Candidates</a></li>
@@ -82,7 +82,7 @@
 		
 		<img class="image-career" src="../img/career-main.png" alt="Logo"/>
 		
-		<section id="benefits">
+		<section id="benefits" class="jumptarget">
 			<div class="header-career">
 				<div>BENEFITS</div>
 			</div>
@@ -180,7 +180,7 @@
 			</div>
 		</section>
 		
-		<section id="internal-rules">
+		<section id="internal-rules" class="jumptarget">
 			<div class="container">
 				<div class="title text-center">Introduction of Our Internal Rules</div>
 				<div class="row no-gap" style="padding: 0 15px;">
@@ -200,7 +200,7 @@
 					</div>
 					<div class="col-md-4">
 						<img alt="Monthly Evaluation" src="../img/internal3.png"/>
-						<div class="subtitle text-center">Monthly evaluation & Bonus</div>
+						<div class="subtitle text-center">Monthly Evaluation & Bonus</div>
 						<p>
 							You will be evaluated every month and you will get paid performance bonus if your performance was outstanding. We will choose the best staff every month (can be more than 1 person). The best staff will also get monthly bonus as well. Plus, you will get a special bonus if you accomplish something notable.
 						</p>
@@ -209,7 +209,7 @@
 			</div>			
 		</section>
 		
-		<section id="our-policy">
+		<section id="our-policy" class="jumptarget">
 			<div class="container">
 				<div class="title">Our Vision and Policy</div>
 				<div class="row">
@@ -221,24 +221,26 @@
 					</div>
 				</div>
 			</div>
-			<img src="../img/policy.png" alt="Vision and Policy" class="vision-img"/>
-			<div class="container" id="to-candidates">
-				<div class="row">
-					<div class="col-md-offset-1 col-md-10">
-						<div class="subtitle">Message for Candidates</div>
-						It is very important for your life about where & how you work. If you are living hard, thinking that work is important in your life, and thinking to contribute to a company, we promise to prepare the right environment for you. Let’s grow up together. 
-						<br/><br/>
-						<div class="subtitle">Job Opening</div>
-						We are always looking for candidates for the positions below. Feel free to contact us.
-						<br/><br/><br/>
-						<img class="img-responsive center-block" src="../img/job-application-en.png"/>
-						<br/>
+			<div class="bg-policy"></div>
+			<div class="jumptarget" id="to-candidates">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-offset-1 col-md-10">
+							<div class="subtitle">Message for Candidates</div>
+							It is very important for your life about where & how you work. If you are living hard, thinking that work is important in your life, and thinking to contribute to a company, we promise to prepare the right environment for you. Let’s grow up together. 
+							<br/><br/>
+							<div class="subtitle">Job Opening</div>
+							We are always looking for candidates for the positions below. Feel free to contact us.
+							<br/><br/><br/>
+							<img class="img-responsive center-block" src="../img/job-application-en.png"/>
+							<br/>
+						</div>
 					</div>
 				</div>
 			</div>
 		</section>
 		
-		<section id="job-opening">
+		<section id="job-opening" class="jumptarget">
 			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
@@ -268,7 +270,7 @@
 				</div>
 				<div class="clearfix"></div>
 			</div>
-			<div class="separator-career"></div>
+			<hr class="separator-career"></hr>
 			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
@@ -316,8 +318,58 @@
 			$('.col-benefit').matchHeight();
 		});	
 		</script>
-		<!--<a href="#navbar" class="smooth scrollToTop"><i class="fa fa-hand-o-up"></i><br/>Back to Menu</a>-->
 		<script>
+			var texttyping = $('.typing').text();
+			var length1 = texttyping.length;
+			var timeOut1;
+			var character1 = 0;
+			(function typeWriter1() { 
+				timeOut1 = setTimeout(function() {
+					character1++;
+					var type = texttyping.substring(0, character1);
+					$('.typing').text(type);
+					typeWriter1();
+					
+					if (character1 == length1) {
+						clearTimeout(timeOut1);
+					}
+					
+				}, 7);
+			}());
+			
+			var text = $('.div-black-career').text();
+			var length = text.length;
+			var timeOut;
+			var character = 0;
+			(function typeWriter() { 
+				timeOut = setTimeout(function() {
+					character++;
+					var type = text.substring(0, character);
+					$('.div-black-career').text(type);
+					typeWriter();
+					
+					if (character == length) {
+						clearTimeout(timeOut);
+					}
+					
+				}, 100);
+			}());
+		
+			$(document).ready(function(){
+				$('.typing').show(200);
+				$('.div-black-career').show(200);
+				$(window).scroll(function () {			   
+				 if($(window).scrollTop() > $(".maintop").height()) {
+					$('#navbar').css('position','fixed');
+					$('#navbar').css('top','0'); 
+				 }
+				 else if ($(window).scrollTop() <= 670) {
+					$('#navbar').css('position','');
+					$('#navbar').css('top','');
+				 }				 
+				});
+			});
+			
 			$(function() {
 				$('.smooth').click(function() {
 				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -333,7 +385,12 @@
 				});
 			});
 			
-			$(document).ready(function(){	
+			$(document).ready(function(){
+				$('.career-page .navbar .navbar-nav>li>a').click(function() {
+					$('#myNavbar').collapse('hide');
+					$('.navbar-toggle').addClass('collapsed');
+				});
+			
 				//Check to see if the window is top if not then display button
 				$(window).scroll(function(){
 					if ($(this).scrollTop() > 100) {

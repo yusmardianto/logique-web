@@ -39,17 +39,17 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="PT. Logique Digital Indonesia is supporting intenet marketing and WEB utilization for the clients. Should you have any project, do not hesitate to contact us, PT. Logique Digital Indonesia.">
-	<meta name="keywords" content="contact us, request web job, perusahaan produksi web, Jakarta">
+    <meta name="description" content="ジャカルタでWEB制作、WEBシステム構築、WEBマーケティング、パンフレット制作、モバイルアプリ構築等、WEBに関わるサービスのことならLOGIQUEインドネシアにお気軽にお問い合わせください。">
+	<meta name="keywords" content="お問い合わせ, WEBサイト制作, ホームページ制作,WEBシステム構築, WEBマーケティング, パンフレット, モバイルアプリ構築">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Contact Us | PT. Logique Digital Indonesia">
+    <meta property="og:title" content="インドネシアのWEBサイト制作/WEBシステム構築なら | お問い合わせ | LOGIQUE デジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/contact.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="PT. Logique Digital Indonesia is supporting intenet marketing and WEB utilization for the clients. Should you have any project, do not hesitate to contact us, PT. Logique Digital Indonesia.">
+	<meta property="og:description" content="ジャカルタでWEB制作、WEBシステム構築、WEBマーケティング、パンフレット制作、モバイルアプリ構築等、WEBに関わるサービスのことならLOGIQUEインドネシアにお気軽にお問い合わせください。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>Contact Us | PT. Logique Digital Indonesia</title>
+    <title>インドネシアのWEBサイト制作/WEBシステム構築なら | お問い合わせ | LOGIQUE デジタルインドネシア</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -81,11 +81,11 @@ if(isset($_POST['submitted']))
 						<div class="text-center">
 							<a href="about.php">
 								<img src="../img/about-us.png" alt="About Us"/><br/>
-								弊社について
+								会社概要
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="portfolio.php">
+							<a href="portfolio.php" style="font-size:10px">
 								<img src="../img/portfolio.png" alt="Portfolio"/><br/>
 								ポートフォリオ
 							</a>

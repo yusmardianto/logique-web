@@ -39,17 +39,17 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="PT. Logique Digital Indonesia is supporting intenet marketing and WEB utilization for the clients. Should you have any project, do not hesitate to contact us, PT. Logique Digital Indonesia.">
-	<meta name="keywords" content="contact us, request web job, perusahaan produksi web, Jakarta">
+    <meta name="description" content="Please feel free to contact us and ask anything about website creation, web-system development, web-marketing, designing, mobile application developmeny etc, in Indonesia.">
+	<meta name="keywords" content="Inquiries, contact us, website creation, web-system development, web marketing, pamphlet, mobile application">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Contact Us | PT. Logique Digital Indonesia">
+    <meta property="og:title" content="No.1 Website / Web-system Developer in Indonesia | Contact | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/contact.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="PT. Logique Digital Indonesia is supporting intenet marketing and WEB utilization for the clients. Should you have any project, do not hesitate to contact us, PT. Logique Digital Indonesia.">
+	<meta property="og:description" content="Please feel free to contact us and ask anything about website creation, web-system development, web-marketing, designing, mobile application developmeny etc, in Indonesia.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>Contact Us | PT. Logique Digital Indonesia</title>
+    <title>No.1 Website / Web-system Developer in Indonesia | Contact | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

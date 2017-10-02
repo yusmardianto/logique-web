@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="There are many services that we can do for you, such as website development, internet marketing, SEO, SSL, etc.">
-	<meta name="keywords" content="Services of Logique, WEB services, Jakarta, WEB site development, SSL">
+    <meta name="description" content="LOGIQUEデジタルインドネシアは、ジャカルタを中心とするインドネシア国内でWEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
+	<meta name="keywords" content="WEBサイト制作, ホームページ制作, WEBシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, 印刷">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Services | PT. Logique Digital Indonesia">
+    <meta property="og:title" content="インドネシアのWEBサイト制作/WEBシステム構築なら | 各種サービス | LOGIQUE デジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/services.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="There are many services that we can do for you, such as website development, internet marketing, SEO, SSL, etc.">
+	<meta property="og:description" content="LOGIQUEデジタルインドネシアは、ジャカルタを中心とするインドネシア国内でWEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>Services | PT. Logique Digital Indonesia</title>
+    <title>インドネシアのWEBサイト制作/WEBシステム構築なら | 各種サービス | LOGIQUE デジタルインドネシア</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -46,11 +46,11 @@
 						<div class="text-center">
 							<a href="about.php">
 								<img src="../img/about-us.png" alt="About Us"/><br/>
-								弊社について
+								会社概要
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="portfolio.php">
+							<a href="portfolio.php" style="font-size:10px">
 								<img src="../img/portfolio.png" alt="Portfolio"/><br/>
 								ポートフォリオ
 							</a>
