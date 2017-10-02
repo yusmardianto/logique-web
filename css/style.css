@@ -8,6 +8,7 @@
 CSS Reset
 */
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900');
+@import url('https://fonts.googleapis.com/css?family=Francois+One');
 html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed,
@@ -873,15 +874,23 @@ section.maintop video {
 	height: 100%;
 }
 .div-black-career{
-	font-size:18px;
+	min-height: 47px;
+	font-size:28px;
 	text-align:center;
 	background:#000;
 	color:#ffca13;
 	padding:10px;
-	width:65%;
+	width:100%;
 	margin:auto;
 	display:none
 }
+.blink{animation: blink 1s infinite;}
+@keyframes blink {
+	0% {opacity: 0}
+	49%{opacity: 0}
+	50% {opacity: 1}
+}
+
 .typing{
 	display:none;
 }
@@ -969,7 +978,8 @@ section.maintop video {
 }
 
 .career-page .navbar .navbar-nav>li>a{
-	max-width: 90px;
+	font-family: 'Francois One', sans-serif;
+	max-width: 110px;
     margin: 0 8px;
 	color:#000;
 }
@@ -1029,7 +1039,7 @@ section.maintop video {
 	padding:40px 0;
 }
 #our-policy p{
-	margin-top:50px;
+	margin-bottom: 10px;
 }
 #our-policy .title{
 	font-size:35px;
@@ -1037,12 +1047,19 @@ section.maintop video {
 	padding:5px 20px;
 }
 #our-policy .subtitle{
-	font-size:24px;
+	font-size:30px;
 	color:#ffca13;
 }
 #our-policy{
 	background:#fff;
-	padding:50px 0;
+	padding:0;
+}
+#job-opening .title{
+	background: transparent;
+    font-weight: bold;
+    padding-top: 0;
+    margin-bottom: 30px;
+	padding-left: 80px;
 }
 #job-opening{
 	background:#ffca13;
@@ -1123,6 +1140,9 @@ section.maintop video {
 	font-size:19px;
 	color:#7d7d7d;
 }
+.indonesian .great-view span{
+	font-size:28px
+}
 .great-view span{
 	color:#000;
 	font-size:38px;
@@ -1145,10 +1165,12 @@ section.maintop video {
 	color:#000
 }
 .content-benefit-col-1 span{
-	font-size:24px;
-	font-weight:bold;
-	line-height: 25px;
-	color: #fff;
+	font-size: 24px;
+    font-weight: 300;
+    line-height: 25px;
+    color: #fff;
+    letter-spacing: 1px;
+    margin-left: 5px;
 }
 #benefits .header-career div{
 	letter-spacing: 5px;
@@ -1165,15 +1187,23 @@ section.maintop video {
 	color:#fff;
 	background:#000;
 	padding: 0 5px 5px 5px;
+	text-align:center
 }
 .get-bonus img{
 	margin-left: auto;
     margin-right: 0;
 	margin-top: 10px;
 }
+.indonesian .get-bonus .first-element{
+	font-size:30px;
+}
 .get-bonus .first-element{
 	font-size:38px;
 	color:#000;
+}
+.indonesian .black-bg .valign-center{
+	letter-spacing:3px;
+	width: 70%;
 }
 .black-bg .valign-center{
 	width: 90px;
@@ -1182,6 +1212,9 @@ section.maintop video {
 .black-bg{
 	color:#fff;
 	background:#000;
+}
+.indonesian .growing-company span{
+	font-size:30px;
 }
 .growing-company span{
 	color:#000;
@@ -1198,16 +1231,16 @@ section.maintop video {
 .flexible span{
 	color:#000;
 }
-.language-indonesia img{
-	margin-bottom:10px;
-}
 .language-indonesia span{
-	font-size:30px;
+	font-size:28px;
 	color:#000;
 	line-height:25px;
 }
 .language-indonesia {
-	font-size:14px;
+	font-size:20px;
+}
+.indonesian .many-fields p{
+	margin:10px 0 0 35px
 }
 .many-fields p{
 	font-size: 20px;
@@ -1240,6 +1273,13 @@ section.maintop video {
    left: 0;
    right: 0;
 }
+#to-candidates {
+	font-size:18px;
+}
+.jumptarget#to-candidates {
+	border-top: 110px solid transparent;
+    margin: -110px 0 0;
+}
 .jumptarget {
    position: relative;
    border-top: 92px solid transparent;
@@ -1252,7 +1292,7 @@ section.maintop video {
 	height: 380px;
     background: url(../img/policy.jpg) no-repeat;
 	background-size: cover;
-    margin: 60px 0;
+    margin: 0  0 20px 0;
     background-attachment: fixed;
 }
 .career-page .navbar-toggle.collapsed .icon-bar.first{
@@ -1279,7 +1319,35 @@ section.maintop video {
 	border: 1px solid #fff;
 	transition:all .5s;
 }
+.jobs-subtitle{
+	padding:50px 80px;font-size:50px;
+}
+blockquote{
+  display:block;
+  background: #fff;
+  padding: 15px 20px 15px 45px;
+  margin: 20px 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 1.2;
+  color: #666;
+  text-align: justify;
+  border-left: 15px solid #ffca13;
+}
 
+blockquote::before{
+  content: "\201C"; /*Unicode for Left Double Quote*/
+  font-size: 60px;
+  font-weight: bold;
+  color: #999;
+  position: absolute;
+  left: 10px;
+  top:5px;
+}
+
+blockquote::after{
+  content: "";
+}
 
 @media (max-width: 991px) {
 	.title-job{
@@ -1353,9 +1421,6 @@ section.maintop video {
 	#our-policy p{
 		margin-top:20px;
 	}
-	.separator-career{
-		display:none
-	}
 	#job-opening{
 		padding:0
 	}
@@ -1367,7 +1432,7 @@ section.maintop video {
 		left: 48%;
 	}
 	.career-page .navbar .navbar-nav>li>a{
-		max-width: 100%;
+		max-width: 107px;
 	}
 	.image-career {
 		height: auto;
@@ -1398,7 +1463,22 @@ section.maintop video {
 		overflow: hidden;
 	}
 }
+@media (max-width: 767px) {
+	.indonesian .black-bg .valign-center{
+		width: 100%;
+	}
+	.separator-career{
+		display:none
+	}
+	.career-page .navbar .navbar-nav>li>a {
+		max-width: 100%;
+	}
+}
 @media (max-width: 468px){
+	.btn-contact-us-black {
+		font-size: 16px;
+		padding: 6px 12px;
+	}
 	#bgvid2 {
 		visibility: hidden;
 		width: 100%;
