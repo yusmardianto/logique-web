@@ -117,21 +117,20 @@
 				<div id="contents">
 					<div class="title"><b>Join</b><span class="yellow">Us</span></div>
 					<img src="img/career-main.png" class="img-in-joinus"/>
-					<!--<div class="form-container">
+					<div class="form-container">
 					<p><br/>
 						LOGIQUE terbuka untuk kalian yang punya minat tinggi dan kemampuan di bidang WEB, mari bekerja bersama di lingkungan kerja yang nyaman dan efektif.<br/><br/>
 						<span class="characteristic-title">Cek informasi lebih lanjut disini:</span><br/>
 						<ul class="joinus-ul link-career">
-							<li><a href="career/" >Mengenal Logique</a></li>
-							<li><a href="career/#benefits" >Keuntungan Bekerja di Logique</a></li>
-							<li><a href="career/#internal-rules" >Aturan Internal</a></li>
-							<li><a href="career/#our-policy" >Aturan dan Visi Perusahaan</a></li>
-							<li><a href="career/#to-candidates" >Pesan untuk Kandidat</a></li>
-							<li><a href="career/#job-opening" >Lowongan</a></li>
+							<li><a href="career/" target="_blank" >Mengenal Logique</a></li>
+							<li><a href="career/#benefits" target="_blank">Keuntungan Bekerja di Logique</a></li>
+							<li><a href="career/#internal-rules" target="_blank">Aturan Internal</a></li>
+							<li><a href="career/#to-candidates" target="_blank">Pesan untuk Kandidat</a></li>
+							<li><a href="career/#job-opening" target="_blank">Lowongan</a></li>
 						</ul>
 					</p>
-					</div>-->
-					<div class="form-container">
+					</div>
+					<!--<div class="form-container">
 						<p>
 						<br/>
 							LOGIQUE saat ini sedang dalam proses menjadi perusahaan pengembang Web nomor satu di Indonesia, yang sudah dimulai dengan bekerja sama dengan banyak klien besar. Dalam masa perkembangan LOGIQUE yang fleksibel, Anda memiliki kesempatan untuk menduduki posisi penting atau manajerial sesuai dengan kemampuan dan minat Anda. Kami menyediakan lingkungan yang baik untuk Anda bekerja dan dapat menjanjikan pertumbuhan karir yang bagus. LOGIQUE mendukung Anda untuk mengembangkan kemampuan teknis dan non-teknis Anda. Kami berusaha sebisa mungkin menghilangkan hal-hal yang tidak masuk akal dari pekerjaan sehingga Anda bisa menikmati suasana kerja yang efektif. Mari bekerja, menikmati pekerjaan, dan berkembang pesat bersama-sama.
@@ -480,11 +479,11 @@
 							</div>
 						  </div>
 						</div>
-					</div>
+					</div>-->
 					<div class="got-project">
 						<span>Have skill, come & join us?</span><br/>
 						<div class="text-center">
-							<a href="#" class="btn btn-contact-us-black">
+							<a href="career/" target="_blank" class="btn btn-contact-us-black">
 								Join Us
 							</a>
 						</div>

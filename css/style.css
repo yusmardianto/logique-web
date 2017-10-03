@@ -1189,6 +1189,7 @@ section.maintop video {
 }
 .get-bonus {
 	font-size:12px;
+	text-align: center;
 }
 .get-bonus .second-element{
 	margin-bottom: -15px;
@@ -1359,14 +1360,14 @@ blockquote::before{
   left: 10px;
   top:5px;
 }
-
 blockquote::after{
   content: "";
 }
 
+
 @media (max-width: 991px) {
 	.title-job{
-		padding:0 30px;
+		padding:0 25px;
 	}
 	.career-page .navbar .navbar-nav>li>a{
 		margin:0
@@ -1396,7 +1397,7 @@ blockquote::after{
 		margin: -72px 0 0;
 	}
 	.title-benefit-col-1{
-		padding: 10px;
+		padding: 10px 25px;
 	}
 	.benefit-col-2{
 		padding-top:0
@@ -1435,9 +1436,6 @@ blockquote::after{
 	}
 	#our-policy p{
 		margin-top:20px;
-	}
-	#job-opening{
-		padding:0
 	}
 	.title-job{
 		height: 200px;
@@ -1479,6 +1477,22 @@ blockquote::after{
 	}
 }
 @media (max-width: 767px) {
+	#job-opening {
+		padding: 0;
+	}
+	.div-job.title-job::after {
+		content:"";
+		width: 0;
+		height: 0;
+		border-left: 12px solid transparent;
+		border-right: 12px solid transparent;
+		border-top: 12px solid black;
+		position: absolute;
+		bottom: -10px;
+	}
+	.indonesian .many-fields p {
+		margin: 10px 0 0 0;
+	}
 	.indonesian .black-bg .valign-center{
 		width: 100%;
 	}
@@ -1490,6 +1504,17 @@ blockquote::after{
 	}
 }
 @media (max-width: 468px){
+	#internal-rules p{
+		padding:0;
+		margin-bottom: 50px;
+	}
+	#internal-rules{
+		padding: 40px 0 0px 0;
+	}
+	.title-benefit-col-1{
+		font-size:20px;
+		padding: 10px;
+	}
 	.btn-contact-us-black {
 		font-size: 16px;
 		padding: 6px 12px;
@@ -1502,5 +1527,13 @@ blockquote::after{
 		background: url(../img/bg-career-new-main.png);
 		background-size: cover;
 		background-position: -5px 0;	
+	}
+}
+@media (max-width: 320px){
+	.indonesian .many-fields p{
+		font-size: 90%;
+	}
+	.content-benefits span {
+		font-size: 17px!important;
 	}
 }

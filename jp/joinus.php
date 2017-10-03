@@ -359,22 +359,22 @@
 							</div>
 							<div id="Quality" class="panel-collapse collapse">
 							  <div class="panel-body">
-								<b>Persyaratan:</b><br/>
+								<b>Requirements:</b><br/>
 								<ul class="joinus-ul">
-									<li>Kandidat minimal Diploma, Bachelor's Degree, Ilmu Komputer / Teknologi Informasi, Teknik (Komputer / Telekomunikasi), Sains & Teknologi, atau yang setara (jurusan yang berbeda dipersilahkan tapi harus mengirimkan portofolionya).</li>
-									<li>Skill yang dibutuhkan: Pengalaman dengan berbagai jenis dan tingkat pengujian, pengalaman langsung dengan pengujian fungsional, pengujian integrasi, pengujian regresi, pengujian mobile, pengujian data yang besar, pengujian lintas platform, pengujian komponen, pengujian keamanan, pengujian kinerja, Pengujian UI / UX, pengujian A / B.</li>
-									<li>Keterampilan opsional: Pengalaman Pengujian Selenium.</li>
-									<li>Bahasa yang dibutuhkan: Bahasa Inggris, Bahasa Indonesia.</li>
-									<li>Pelamar harus bersedia bekerja di Jakarta.</li>
+									<li>Candidate must possess at least a Diploma, Bachelor's Degree, Computer Science/Information Technology, Engineering (Computer/Telecommunication), Science & Technology, or equivalent (different majors are welcome but should send his/her portfolio).</li>
+									<li>Required skill(s): Experience with various types and levels of testing, hands-on experience with functional testing, integration testing, regression testing, mobile testing, big data testing, cross platform testing, component testing, security testing, performance testing, UI/UX testing, A/B testing.</li>
+									<li>Optional skill(s): Selenium Testing Experiences.</li>
+									<li>Required language(s): English, Bahasa Indonesia.</li>
+									<li>Applicants must be willing to work in Jakarta.</li>
 								</ul><br/>
 								
-								<b>Bertanggungjawab:</b><br/>
+								<b>Responsibility:</b><br/>
 								<ul class="joinus-ul">
-									<li>Mengembangkan dan memelihara skenario pengujian software.</li>
-									<li>Memastikan bahwa fungsi-fungsi baru yang dirancang sudah tepat sesuai dengan kebutuhan pelanggan.</li>
-									<li>Teliti dalam memastikan bahwa software web beroperasi dengan benar dan mampu mendokumentasikan serta menyelesaikan semua masalah secara tepat.</li>
-									<li>Bertanggung jawab dalam memastikan dan merilis dokumentasi perangkat lunak dalam keadaan yang tepat, dipasang dengan benar dan dijalankan dengan kualitas yang baik.</li>
-									<li>Bertanggung jawab untuk membuat dan melaksanakan pengujian regresi dan pelaksanaan pembuatan aplikasi.</li>
+									<li>Develop and maintain software.</li>
+									<li>Ensure the functions that are in accordance with the needs.</li>
+									<li>Thoroughly tests software / web-based application to ensure proper operations, documents all problems and works to resolve them.</li>
+									<li>Responsible for ensuring software releases and documentation meet requirements, are installed correctly, and execute with quality.</li>
+									<li>Responsible for creating and executing regression testing, test plans, and performing the builds of applications.</li>
 								</ul>
 							  </div>
 							</div>
@@ -461,29 +461,30 @@
 							<div id="Mobile" class="panel-collapse collapse">
 							  <div class="panel-body">
 								<b>Persyaratan:</b><br/>
+								<b>Requirements:</b><br/>
 								<ul class="joinus-ul">
-									<li>Mempunyai pengalaman kerja sebagai pengembang Mobile (iOS & Android).</li>
-									<li>Portofolio yang dapat dipamerkan dari aplikasi yang diluncurkan di App store atau pasar Android.</li>
-									<li>Mempunyai Pengetahuan mendalam tentang setidaknya satu bahasa pemrograman seperti Swift dan Java.</li>
-									<li>Pengalaman dengan perpustakaan dan API pihak ketiga.</li>
-									<li>Memiliki Keakraban dengan prinsip desain OOP.</li>
-									<li>Kemampuan analisis yang bagus dengan sikap pemecahan masalah yang baik.</li>
-									<li>Kemampuan untuk tampil di lingkungan tim.</li>
-									<li>Kandidat harus memiliki setidaknya gelar Bachelor di bidang Ilmu Komputer / Teknologi Informasi atau yang setara.</li>
+									<li>Proven work experiences as a Mobile developer (IOS & Android).</li>
+									<li>Demonstrable portfolio of released applications on the App store or the Android market.</li>
+									<li>In-depth knowledge of at least one programming language like Swift and Java.</li>
+									<li>Experience with third-party libraries and APIs.</li>
+									<li>Familiarity with OOP design principles.</li>
+									<li>Excellent analytical skills with a good problem-solving attitude.</li>
+									<li>Ability to perform in a team environment.</li>
+									<li>Candidate must possess at least Bachelor's Degree in Computer Science/Information Technology or equivalent.</li>
 								</ul><br/>
 								
-								<b>Bertanggungjawab:</b><br/>
+								<b>Responsibilities:</b><br/>
 								<ul class="joinus-ul">
-									<li>Menghasilkan aplikasi mobile yang berfungsi penuh (iOS dan Android).</li>
-									<li>Mendukung seluruh siklus hidup aplikasi (konsep, desain, pengujian, pelepasan dan dukungan).</li>
-									<li>Mengumpulkan persyaratan khusus dan menyarankan solusi.</li>
-									<li>Tulis tes unit dan tes UI untuk mengidentifikasi malfungsi.</li>
-									<li>Memecahkan masalah dan melakukan debug untuk mengoptimalkan kinerja aplikasi seluler.</li>
-									<li>Desain antarmuka untuk meningkatkan pengalaman pengguna.</li>
-									<li>Berhubungan dengan tim Proyek untuk merencanakan fitur baru.</li>
-									<li>Pastikan aplikasi baru dan warisan memenuhi standar kualitas.</li>
-									<li>Meneliti dan menyarankan produk, aplikasi dan protokol seluler baru.</li>
-									<li>Tetap up-to-date dengan tren teknologi baru.</li>
+									<li>Produce fully functional mobile applications (IOS and Android).</li>
+									<li>Support the entire application lifecycle (concept, design, test, release and support).</li>
+									<li>Gather specific requirements and suggest solutions.</li>
+									<li>Write unit test and UI tests to identify malfunctions.</li>
+									<li>Troubleshoot and debug to optimize mobile apps performance.</li>
+									<li>Design interfaces to improve user experience.</li>
+									<li>Liaise with Project team to plan new features.</li>
+									<li>Ensure new and legacy applications meet quality standards.</li>
+									<li>Research and suggest new mobile products, applications and protocols.</li>
+									<li>Stay up-to-date with new technology trends.</li>
 								</ul>
 							  </div>
 							</div>

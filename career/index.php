@@ -74,7 +74,7 @@
 				<li><a class="smooth" href="#internal-rules">Peraturan Internal</a></li>
 				<!--<li><a class="smooth" href="#our-policy">Visi dan Misi</a></li>-->
 				<li><a class="smooth" href="#to-candidates">Pesan untuk Kandidat</a></li>
-				<li><a class="smooth" href="#job-opening">We are Hiring!</a></li>
+				<li><a class="smooth" href="#job-opening" style="width: auto;margin: 0;padding-right: 0;">We are Hiring!</a></li>
 			  </ul>
 			</div>
 		  </div>
@@ -134,7 +134,7 @@
 									<div class="valign-center text-right">
 										<img src="../img/benefits3.png" alt="Growing Company"/>
 										bekerja di<br/>
-										<span>Perusahaan<br/>Berkembang</span>
+										<span>perusahaan<br/>berkembang</span>
 									</div>
 								</div>
 							</div>
@@ -142,8 +142,8 @@
 								<div class="content-benefits flexible">
 									<div class="valign-center text-center">
 										<img src="../img/benefits4.png" alt="Flexible" class="img-responsive center-block"/>
-										Aturan jam kerja<br/>
-										<span>FLEKSIBEL</span>
+										aturan jam kerja<br/>
+										<span>fleksibel</span>
 									</div>
 								</div>
 							</div>
@@ -151,8 +151,8 @@
 								<div class="content-benefits language-indonesia">
 									<div class="valign-center text-center">
 										<img src="../img/multi.png" alt="multicultural" class="img-responsive center-block"/>
-										Lingkungan<br/>
-										<span>Multikultural</span>
+										lingkungan<br/>
+										<span>multikultural</span>
 									</div>
 								</div>
 							</div>
@@ -671,7 +671,7 @@
 				}, 100);
 			}()); */
 			
-			var text = "Mari bekerja, menikmati pekerjaan dan berkembang bersama!                   ";
+			var text = "Let's work hard, enjoy hard and grow up together!                   ";
 			var chars = text.split('');
 			var container = document.getElementById("id-black-career");
 
@@ -718,12 +718,14 @@
 			});
 			
 			$(document).ready(function(){
-				if ($(window).width() < 768) {
-					$('.career-page .navbar .navbar-nav>li>a').click(function() {
-						$('#myNavbar').collapse('hide');
-						$('.navbar-toggle').addClass('collapsed');
-					});
-				}
+				$(window).resize(function(){
+					if ($(window).width() < 768) {
+						$('.career-page .navbar .navbar-nav>li>a').click(function() {
+							$('#myNavbar').collapse('hide');
+							$('.navbar-toggle').addClass('collapsed');
+						});
+					}
+				});
 			
 				//Check to see if the window is top if not then display button
 				$(window).scroll(function(){
