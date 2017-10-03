@@ -229,7 +229,7 @@
 							<br/>
 							<div class="subtitle">Pesan Untuk Kandidat</div>
 							 <blockquote>
-								<p>Sangat penting bagi Anda untuk mengetahui di mana dan bagaimana Anda bekerja. Jika Anda bekerja keras, merasakan bahwa bekerja penting untuk kehidupan Anda, dan Anda ingin berkontribusi kepada perusahaan, kami berjanji akan menyediakan lingkungan kerja yang baik untuk Anda. Kami menyambut individu kreatif dan dinamis yang berusaha untuk pengembangan pribadi dan profesional. Sebagai gantinya, kami berkomitmen untuk menghasilkan yang terbaik dari diri Anda dengan menawarkan kesempatan untuk kemajuan dan pertumbuhan, dan memberikan karir yang mengubah hidup tidak seperti yang lain. Mari berkembang bersama LOGIQUE!</p>
+								<p>Sangat penting bagi Anda untuk mengetahui di mana dan bagaimana Anda bekerja. Jika Anda bekerja keras, merasakan bahwa bekerja penting untuk kehidupan Anda, dan ingin berkontribusi kepada perusahaan, kami berjanji akan menyediakan lingkungan kerja yang baik untuk Anda. Di LOGIQUE, kami menyambut individu yang kreatif dan dinamis serta berusaha untuk pengembangan pribadi dan profesional. Sebagai gantinya, maka kami berkomitmen untuk menghasilkan yang terbaik dari diri Anda dengan menawarkan kesempatan untuk kemajuan dan pertumbuhan, dan memberikan karir yang mengubah hidup tidak seperti yang lain. Mari berkembang bersama LOGIQUE!</p>
 								<small>Ghitta, Human Resource Department</small>
 							 </blockquote>
 							<br/><!--<br/>
@@ -614,7 +614,7 @@
 		<div class="bg-footer-new-career">
 			<span>Anda memenuhi persyaratan di atas?</span><br>
 			<div class="text-center">
-				<a href="#" class="btn btn-contact-us-black">
+				<a href="mailto:ghitta@logique.co.id" class="btn btn-contact-us-black">
 					Bergabunglah bersama kami
 				</a>
 			</div>
