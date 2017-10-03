@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Kami adalah Web Developer yang berpusat di Jakarta, Indonesia, dengan layanan yang mencakup pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web">
-	<meta name="keywords" content="Indonesia, website development company, Jakarta, website development, mobile Website">
+    <meta name="description" content="LOGIQUE adalah Web Developer asal Jepang yang bekerja dengan standar internasional serta mempunyai pengalaman lebih dari 5 tahun di Indonesia.">
+	<meta name="keywords" content="web developer, pembuatan website, pembuat aplikasi, buat web, aplikasi android, digital marketing, desain web, seo, aplikasi iphone, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Tentang Kami | PT. Logique Digital Indonesia">
+    <meta property="og:title" content="Web Developer asal Jepang | Tentang LOGIQUE | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/about.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="Kami adalah Web Developer yang berpusat di Jakarta, Indonesia, dengan layanan yang mencakup pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web.">
+	<meta property="og:description" content="LOGIQUE adalah Web Developer asal Jepang yang bekerja dengan standar internasional serta mempunyai pengalaman lebih dari 5 tahun di Indonesia.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Tentang Kami | PT. Logique Digital Indonesia</title>
+    <title>Web Developer asal Jepang | Tentang LOGIQUE | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -58,7 +58,7 @@
 						<div class="text-center">
 							<a href="services.php">
 								<img src="img/services.png" alt="Services"/><br/>
-								Services
+								Layanan
 							</a>
 						</div>
 						<div class="text-center">

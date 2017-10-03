@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Pelayanan yang kami bisa lakukan bermacam-macam, antara lain website development, internet marketing, SEO, SSL, dll.">
-	<meta name="keywords" content="Services of Logique, WEB services, Jakarta, WEB site development, SSL">
+    <meta name="description" content="LOGIQUE menyediakan berbagai layanan pembuatan website dan desain, digital marketing, aplikasi android dan iphone (iOS), pengoperasian media sosial, percetakan kartu nama, pembuatan profil perusahaan dan brosur.">
+	<meta name="keywords" content="buat website, pembuatan website, pembuat aplikasi, buat web, aplikasi android, digital marketing, web developer, desain web, seo, aplikasi iphone, kartu nama, profil perusahaan, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content=" Services | PT. Logique Digital Indonesia">
+    <meta property="og:title" content="Buat Website, Aplikasi, Digital Marketing, Desain, SEO, Kartu Nama, Profil Perusahaan | Layanan | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/services.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="Pelayanan yang kami bisa lakukan bermacam-macam, antara lain website development, internet marketing, SEO, SSL, dll.">
+	<meta property="og:description" content="LOGIQUE menyediakan berbagai layanan pembuatan website dan desain, digital marketing, aplikasi android dan iphone (iOS), pengoperasian media sosial, percetakan kartu nama, pembuatan profil perusahaan dan brosur.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Services | PT. Logique Digital Indonesia</title>
+    <title>Buat Website, Aplikasi, Digital Marketing, Desain, SEO, Kartu Nama, Profil Perusahaan | Layanan | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -58,7 +58,7 @@
 						<div class="text-center active">
 							<a href="services.php">
 								<img src="img/services.png" alt="Services"/><br/>
-								Services
+								Layanan
 							</a>
 						</div>
 						<div class="text-center">
@@ -104,7 +104,7 @@
 							<a href="index.php"><img src="img/logo.png" alt="Logo" class="img-responsive logo"/></a>
 							<ol class="breadcrumb">
 							  <li><a href="index.php">Beranda</a></li>
-							  <li class="active"><a>Services</a></li>
+							  <li class="active"><a>Layanan</a></li>
 							</ol>
 						</div>
 					</div>
@@ -115,7 +115,7 @@
 			
 			<div id="contentsArea" class="services">
 				<div id="contents">
-					<div class="title"><b>Our</b><span class="yellow">Services</span></div>
+					<div class="title"><b>Layanan</b><span class="yellow">Kami</span></div>
 					<div class="form-container">
 						LOGIQUE menyediakan bermacam-macam layanan terkait web seperti pengembangan website / sistem web, aplkasi mobile, pemasaran via Internet, optimasi mesin pencarian, dan lain-lain. Kami mampu menyediakan Anda layanan yang fleksibel dengan harga yang masuk akal karena kami memiliki programmer, desainer, dan penulis konten.
 						<br/><br/>
@@ -367,7 +367,7 @@
 						<div class="clearfix"></div>
 					</div>
 					<div class="workflow-container">
-						<div class="title-workflow">Our Workflow</div>
+						<div class="title-workflow">Workflow Kami</div>
 						<div class="row">
 							<div class="col-md-5ths">
 								<div class="div-for-workflow">

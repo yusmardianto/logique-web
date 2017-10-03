@@ -872,10 +872,11 @@ section.maintop video {
 }
 .box-home-career{
 	height: 100%;
+	text-align: justify;
 }
 .div-black-career{
 	min-height: 47px;
-	font-size:28px;
+	font-size:25px;
 	text-align:center;
 	background:#000;
 	color:#ffca13;
@@ -1054,6 +1055,15 @@ section.maintop video {
 	background:#fff;
 	padding:0;
 }
+#job-opening .header-career div{
+	letter-spacing: 5px;
+	color: #ffca13;
+	width:270px;
+}
+#job-opening .header-career{
+	position: relative;
+	margin-bottom: 25px;
+}
 #job-opening .title{
 	background: transparent;
     font-weight: bold;
@@ -1063,7 +1073,8 @@ section.maintop video {
 }
 #job-opening{
 	background:#ffca13;
-	padding:50px 0;
+	overflow: hidden;
+	padding:0 0 50px 0;
 }
 .title-job img{
 	margin-bottom: 10px;
@@ -1073,15 +1084,14 @@ section.maintop video {
 	font-weight:300;
 	font-size:36px;
 	color:#fff;
-	padding:0 80px;
+	padding:0 80px 0 105px;
 	height:325px;
 }
 .desc-job{
 	padding:15px;
 }
 .separator-career{
-	margin: 30px 80px;
-	border-top:2px dashed #000;
+	border-top:1px dotted #fff;
 }
 .vision-img{
 	width:100%;
@@ -1155,10 +1165,10 @@ section.maintop video {
 	font-size: 24px;
     color: #fff;
     background: #000;
-    padding: 10px 25px 10px 80px;
+    padding: 10px 25px 10px 105px;
 }
 .content-benefit-col-1{
-	padding: 30px 60px 30px 80px;
+	padding: 30px 60px 30px 105px;
     line-height: 25px;
     text-align: justify;
 	font-size:16px;
@@ -1320,7 +1330,12 @@ section.maintop video {
 	transition:all .5s;
 }
 .jobs-subtitle{
-	padding:50px 80px;font-size:50px;
+	padding: 20px 105px;
+    font-size: 20px;
+    background: #fff;
+    color: #ffca13;
+	font-weight: 300;
+    letter-spacing: 5px;
 }
 blockquote{
   display:block;

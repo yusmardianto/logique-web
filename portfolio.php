@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="PT. Logique Digital Indonesia sudah membantu banyak klien dalam hal website development, internet marketing, SEO, dll.">
-	<meta name="keywords" content="portfolio Logique, Indonesia, WEB Service, klien logique, klien web development">
+    <meta name="description" content="LOGIQUE telah membuat berbagai website dan aplikasi serta bekerja sama dengan banyak klien nasional maupun internasional. Buka dan temukan contoh hasil kerja kami di sini.">
+	<meta name="keywords" content="karya Logique, website, aplikasi, pembuatan website, pembuat aplikasi, digital marketing, seo, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Portfolio | PT. Logique Digital Indonesia">
+    <meta property="og:title" content="Website dan Aplikasi Karya LOGIQUE | Portofolio | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/portfolio.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="PT. Logique Digital Indonesia sudah membantu banyak klien dalam hal website development, internet marketing, SEO, dll.">
+	<meta property="og:description" content="LOGIQUE telah membuat berbagai website dan aplikasi serta bekerja sama dengan banyak klien nasional maupun internasional. Buka dan temukan contoh hasil kerja kami di sini.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Portfolio | PT. Logique Digital Indonesia</title>
+    <title>Website dan Aplikasi Karya LOGIQUE | Portofolio | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -58,7 +58,7 @@
 						<div class="text-center">
 							<a href="services.php">
 								<img src="img/services.png" alt="Services"/><br/>
-								Services
+								Layanan
 							</a>
 						</div>
 						<div class="text-center">

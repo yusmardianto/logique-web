@@ -243,7 +243,7 @@
 							<div class="panel-heading">
 								<a data-toggle="collapse" data-parent="#vacancy" href="#proj-manager" class="collapsed">
 									<h4 class="panel-title">
-										<img src="../img/user.png" alt="Project Manager"/> Project Manager
+										<img src="../img/proj-manager.png" alt="Project Manager"/> Project Manager
 									</h4>
 								</a>
 							</div>
@@ -274,7 +274,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#designer" class="collapsed">
 								<h4 class="panel-title">
-									<img src="../img/graphic-design.png" alt="Designer"/> Designer
+									<img src="../img/designer.png" alt="Designer"/> Designer
 								</h4>
 							  </a>
 							</div>
@@ -289,6 +289,180 @@
 								<b>Required Skills:</b>
 								<ul class="joinus-ul">
 									<li>Skills to use design tools (Photoshop, Illustrator, etc,.).</li>
+								</ul>
+							  </div>
+							</div>
+						  </div>
+						  <div class="panel panel-default">
+							<div class="panel-heading">
+							  <a data-toggle="collapse" data-parent="#vacancy" href="#Quality" class="collapsed">
+								<h4 class="panel-title">
+									<img src="../img/qa.png" alt="Quality Assurance"/> Quality Assurance
+								</h4>
+							  </a>
+							</div>
+							<div id="Quality" class="panel-collapse collapse">
+							  <div class="panel-body">
+								<b>Persyaratan:</b><br/>
+								<ul class="joinus-ul">
+									<li>Kandidat minimal Diploma, Bachelor's Degree, Ilmu Komputer / Teknologi Informasi, Teknik (Komputer / Telekomunikasi), Sains & Teknologi, atau yang setara (jurusan yang berbeda dipersilahkan tapi harus mengirimkan portofolionya).</li>
+									<li>Skill yang dibutuhkan: Pengalaman dengan berbagai jenis dan tingkat pengujian, pengalaman langsung dengan pengujian fungsional, pengujian integrasi, pengujian regresi, pengujian mobile, pengujian data yang besar, pengujian lintas platform, pengujian komponen, pengujian keamanan, pengujian kinerja, Pengujian UI / UX, pengujian A / B.</li>
+									<li>Keterampilan opsional: Pengalaman Pengujian Selenium.</li>
+									<li>Bahasa yang dibutuhkan: Bahasa Inggris, Bahasa Indonesia.</li>
+									<li>Pelamar harus bersedia bekerja di Jakarta.</li>
+								</ul><br/>
+								
+								<b>Bertanggungjawab:</b><br/>
+								<ul class="joinus-ul">
+									<li>Mengembangkan dan memelihara skenario pengujian software.</li>
+									<li>Memastikan bahwa fungsi-fungsi baru yang dirancang sudah tepat sesuai dengan kebutuhan pelanggan.</li>
+									<li>Teliti dalam memastikan bahwa software web beroperasi dengan benar dan mampu mendokumentasikan serta menyelesaikan semua masalah secara tepat.</li>
+									<li>Bertanggung jawab dalam memastikan dan merilis dokumentasi perangkat lunak dalam keadaan yang tepat, dipasang dengan benar dan dijalankan dengan kualitas yang baik.</li>
+									<li>Bertanggung jawab untuk membuat dan melaksanakan pengujian regresi dan pelaksanaan pembuatan aplikasi.</li>
+								</ul>
+							  </div>
+							</div>
+						  </div>
+						  <div class="panel panel-default">
+							<div class="panel-heading">
+							  <a data-toggle="collapse" data-parent="#vacancy" href="#Developer" class="collapsed">
+								<h4 class="panel-title">
+									<img src="../img/webdev.png" alt="Web Developer"/> Web Developer
+								</h4>
+							  </a>
+							</div>
+							<div id="Developer" class="panel-collapse collapse">
+							  <div class="panel-body">
+								<b>Persyaratan:</b><br/>
+								<ul class="joinus-ul">
+									<li>Berlatar belakang pendidikan dari Sistem Informasi, Teknologi Informasi atau sejenisnya.</li>
+									<li>Berpengalaman dalam pembuatan WEB / Sistem WEB (PHP, MySQL, HTML / CSS).</li>
+									<li>Berpengalaman dalam menggunakan Framework PHP seperti CakePHP, Laravel, atau sejenisnya.</li>
+									<li>Mengenal proses pengembangan website dengan baik.</li>
+									<li>Dapat belajar secara cepat dan mandiri.</li>
+									<li>Mempunyai minat yang besar terhadap bisnis Internet dan Web.</li>
+									<li>Mampu bekerja sebagai tim.</li>
+									<li>Min. D3 berpengalaman 2 tahun dalam bidang IT atau programmer.</li>
+								</ul><br/>
+
+								<b>Bertanggungjawab:</b><br/>
+								<ul class="joinus-ul">
+									<li>Merancang, membuat, dan mengelola aplikasi website.</li>
+									<li>Menyelesaikan pekerjaan yang diberikan dengan kemampuan teknikal yang dimiliki.</li>
+									<li>Melakukan pengujian terhadap hasil yang dikerjakan, termasuk sistem pengujian terintegrasi.</li>
+									<li>Menganalisa masalah dan memberikan solusi dari sisi teknikal.</li>
+									<li>Menyelesaikan pekerjaan atau tugas lain yang diberikan.</li>
+								</ul>
+							  </div>
+							</div>
+						  </div>
+						  <div class="panel panel-default">
+							<div class="panel-heading">
+							  <a data-toggle="collapse" data-parent="#vacancy" href="#Technical" class="collapsed">
+								<h4 class="panel-title">
+									<img src="../img/techcons.png" alt="Technical Consultant"/> Technical Consultant
+								</h4>
+							  </a>
+							</div>
+							<div id="Technical" class="panel-collapse collapse">
+							  <div class="panel-body">
+								<b>Persyaratan:</b><br/>
+								<ul class="joinus-ul">
+									<li>Memiliki pengalaman sebagai IT Consultant.</li>
+									<li>Memiliki kemampuan untuk memecahkan masalah perangkat keras, perangkat lunak dan jaringan.</li>
+									<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
+									<li>Mempunyai pengalaman dalam manajemen proyek.</li>
+									<li>Memiliki pikiran analitis dengan kemampuan memecahkan masalah.</li>
+									<li>Bisa bekerja dalam tim dengan kemampuan komunikasi dan presentasi yang sangat baik.</li>
+									<li>Orientasi layanan pelanggan.</li>
+									<li>Memiliki kemampuan interpesonal.</li>
+									<li>Lulusan dari ilmu komputer, IT atau bidang yang relevan.</li>
+								</ul><br/>
+								
+								<b>Tanggung Jawab:</b><br/>
+								<ul class="joinus-ul">
+									<li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>							
+									<li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>							
+									<li>Mengelola inisiatif TI dan berkolaborasi dengan staf teknis internal.</li>							
+									<li>Mendesain sistem dan jaringan TI memastikan arsitektur dan fungsionalitas yang tepat.</li>							
+									<li>Mendukung implementasi teknologi baru.</li>							
+									<li>Melatih pengguna dalam sistem TI baru dan yang sudah ada.</li>							
+									<li>Berikan bantuan untuk masalah teknis.</li>							
+									<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>							
+									<li>Menghasilkan laporan.</li>							
+								</ul>
+							  </div>
+							</div>
+						  </div>
+						  <div class="panel panel-default">
+							<div class="panel-heading">
+							  <a data-toggle="collapse" data-parent="#vacancy" href="#Mobile" class="collapsed">
+								<h4 class="panel-title">
+									<img src="../img/mobdev.png" alt="Mobile App Developer"/> Mobile App Developer
+								</h4>
+							  </a>
+							</div>
+							<div id="Mobile" class="panel-collapse collapse">
+							  <div class="panel-body">
+								<b>Persyaratan:</b><br/>
+								<ul class="joinus-ul">
+									<li>Mempunyai pengalaman kerja sebagai pengembang Mobile (iOS & Android).</li>
+									<li>Portofolio yang dapat dipamerkan dari aplikasi yang diluncurkan di App store atau pasar Android.</li>
+									<li>Mempunyai Pengetahuan mendalam tentang setidaknya satu bahasa pemrograman seperti Swift dan Java.</li>
+									<li>Pengalaman dengan perpustakaan dan API pihak ketiga.</li>
+									<li>Memiliki Keakraban dengan prinsip desain OOP.</li>
+									<li>Kemampuan analisis yang bagus dengan sikap pemecahan masalah yang baik.</li>
+									<li>Kemampuan untuk tampil di lingkungan tim.</li>
+									<li>Kandidat harus memiliki setidaknya gelar Bachelor di bidang Ilmu Komputer / Teknologi Informasi atau yang setara.</li>
+								</ul><br/>
+								
+								<b>Bertanggungjawab:</b><br/>
+								<ul class="joinus-ul">
+									<li>Menghasilkan aplikasi mobile yang berfungsi penuh (iOS dan Android).</li>
+									<li>Mendukung seluruh siklus hidup aplikasi (konsep, desain, pengujian, pelepasan dan dukungan).</li>
+									<li>Mengumpulkan persyaratan khusus dan menyarankan solusi.</li>
+									<li>Tulis tes unit dan tes UI untuk mengidentifikasi malfungsi.</li>
+									<li>Memecahkan masalah dan melakukan debug untuk mengoptimalkan kinerja aplikasi seluler.</li>
+									<li>Desain antarmuka untuk meningkatkan pengalaman pengguna.</li>
+									<li>Berhubungan dengan tim Proyek untuk merencanakan fitur baru.</li>
+									<li>Pastikan aplikasi baru dan warisan memenuhi standar kualitas.</li>
+									<li>Meneliti dan menyarankan produk, aplikasi dan protokol seluler baru.</li>
+									<li>Tetap up-to-date dengan tren teknologi baru.</li>
+								</ul>
+							  </div>
+							</div>
+						  </div>
+						  <div class="panel panel-default">
+							<div class="panel-heading">
+							  <a data-toggle="collapse" data-parent="#vacancy" href="#Content" class="collapsed">
+								<h4 class="panel-title">
+									<img src="../img/contenwriter.png" alt="Content Writer"/> Content Writer
+								</h4>
+							  </a>
+							</div>
+							<div id="Content" class="panel-collapse collapse">
+							  <div class="panel-body">
+								<b>Persyaratan:</b><br/>
+								<ul class="joinus-ul">
+									<li>Memiliki pengalaman kerja sebagai Content Writer, Copywriter atau peran serupa.</li>							
+									<li>Mempunyai portofolio artikel yang dipublikasikan adalah nilai tambah.</li>							
+									<li>Berpengalaman melakukan penelitian menggunakan banyak sumber.</li>							
+									<li>Familiar dengan publikasi web.</li>							
+									<li>Memiliki kemampuan menulis dan mengedit yang sangat baik dalam bahasa Inggris.</li>							
+									<li>Mempunyai pengalaman langsung dengan Content Management Systems (misalnya WordPress).</li>							
+									<li>Terbiasa bekerja dengan deadline.</li>							
+									<li>Lulusan dari Sastra, Jurnalisme atau bidang terkait.</li>							
+								</ul><br/>
+								
+								<b>Bertanggungjawab:</b><br/>
+								<ul class="joinus-ul">
+									<li>Meneliti topik yang berhubungan dengan industri penelitian (menggabungkan sumber online, wawancara dan studi).</li>
+									<li>Menuliskan pemasaran yang jelas untuk mempromosikan produk / layanan kami.</li>
+									<li>Menyiapkan draft terstruktur dengan baik menggunakan Content Management Systems dan edit posting blog sebelum dipublikasikan.</li>
+									<li>Berkoordinasi dengan tim untuk mengilustrasikan artikel.</li>
+									<li>Melakukan penelitian kata kunci sederhana dan gunakan panduan SEO untuk meningkatkan web traffic.</li>
+									<li>Mengidentifikasi kebutuhan dan kesenjangan pelanggan dalam konten kami dan rekomendasikan topik baru.</li>
+									<li>Up to date untuk konten situs web sesuai kebutuhan.</li>
 								</ul>
 							  </div>
 							</div>

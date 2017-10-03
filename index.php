@@ -1,18 +1,18 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Kami adalah Web Developer yang melayani pelayanan yang mencakup pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web.">
-	<meta name="keywords" content="web developer, mobile web, website development, Jakarta, Indonesia">
+    <meta name="description" content="Buat website, aplikasi, optimasi SEO, atau digital marketing. Segera konsultasikan kebutuhan digital Anda melalui LOGIQUE, Web Developer asal Jepang no. 1 di Indonesia.">
+	<meta name="keywords" content="pembuatan website, pembuat aplikasi, buat web, aplikasi android, digital marketing, web developer, desain web, seo, aplikasi iphone, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Beranda | PT. Logique Digital Indonesia">
+	<meta property="og:title" content="Perusahaan Jasa Pembuatan Website dan Aplikasi Terpercaya Asal Jepang | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://logique.co.id/">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="Kami adalah Web Developer yang melayani pelayanan yang mencakup pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web.">
+	<meta property="og:description" content="Buat website, aplikasi, optimasi SEO, atau digital marketing. Segera konsultasikan kebutuhan digital Anda melalui LOGIQUE, Web Developer asal Jepang no. 1 di Indonesia.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -24,7 +24,7 @@
 	ga('send', 'pageview');
 
 	</script>
-    <title>Beranda | PT. Logique Digital Indonesia</title>
+    <title>Perusahaan Jasa Pembuatan Website dan Aplikasi Terpercaya Asal Jepang | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -68,7 +68,7 @@
 						<div class="text-center">
 							<a href="services.php">
 								<img src="img/services.png" alt="Services"/><br/>
-								Services
+								Layanan
 							</a>
 						</div>
 						<div class="text-center">
@@ -112,10 +112,9 @@
 						<div class="title-container visible-xs">
 							<div class="text-center">
 								<p class="title-index">
-									<span class="yellow">Solusi Terbaik</span> Anda <br/>
-									untuk Web dan Internet
+									Perusahaan <span class="yellow">Jasa Pembuatan Website dan Aplikasi </span> Terpercaya Asal Jepang
 								</p>
-								Kami adalah Web Developer yang berpusat di Jakarta, Indonesia, dengan layanan yang mencakup pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web. Selama lebih dari 5 tahun kami telah mendukung bisnis klien-klien kami di Indonesia dan kami akan terus melanjutkan kontribusi tersebut di Indonesia dan negara-negara ASEAN dengan menggunakan kekuatan Internet.<br/><br/>
+								Kami siap melayani dan membantu Anda dalam melakukan pembuatan website, aplikasi, digital marketing hingga optimasi SEO. Dengan pengalaman yang kami miliki ditambah dengan proyek - proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, maka keahlian kami akan menjadi terobosan baru untuk bisnis Anda.<br/><br/>
 								<center>
 									<a href="services.php" class="btn btn-see-more">Lihat lebih lanjut <i class="fa fa-arrow-circle-o-right" ></i></a>
 								</center>
@@ -137,10 +136,9 @@
 					<div class="title-container hidden-xs">
 						<div class="valign-center text-center">
 							<p class="title-index">
-								<span class="yellow">Solusi Terbaik</span> Anda <br/>
-								untuk Web dan Internet
+								Perusahaan <span class="yellow">Jasa Pembuatan Website dan Aplikasi </span> Terpercaya Asal Jepang
 							</p>
-							Kami adalah Web Developer yang berpusat di Jakarta, Indonesia, dengan layanan yang mencakup pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web. Selama lebih dari 5 tahun kami telah mendukung bisnis klien-klien kami di Indonesia dan kami akan terus melanjutkan kontribusi tersebut di Indonesia dan negara-negara ASEAN dengan menggunakan kekuatan Internet.<br/><br/>
+							Kami siap melayani dan membantu Anda dalam melakukan pembuatan website, aplikasi, digital marketing hingga optimasi SEO. Dengan pengalaman yang kami miliki ditambah dengan proyek - proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, maka keahlian kami akan menjadi terobosan baru untuk bisnis Anda.<br/><br/>
 							<center>
 								<a href="services.php" class="btn btn-see-more">Lihat lebih lanjut <i class="fa fa-arrow-circle-o-right" ></i></a>
 							</center>

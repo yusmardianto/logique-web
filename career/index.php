@@ -45,7 +45,7 @@
 			<div class="box-home-career col-md-offset-2 col-md-8">
 				<div class="valign-center">
 					<p>
-					LOGIQUE saat ini sedang dalam proses menjadi perusahaan pengembang Web nomor satu di Indonesia, yang sudah dimulai dengan bekerja sama dengan banyak klien besar. Dalam masa perkembangan LOGIQUE yang fleksibel, Anda memiliki kesempatan untuk menduduki posisi penting atau manajerial sesuai dengan kemampuan dan minat Anda. Kami menyediakan lingkungan yang baik untuk Anda bekerja dan dapat menjanjikan pertumbuhan karir yang bagus. LOGIQUE mendukung Anda untuk mengembangkan kemampuan teknis dan non-teknis Anda. Kami berusaha sebisa mungkin menghilangkan hal-hal yang tidak masuk akal dari pekerjaan sehingga Anda bisa menikmati suasana kerja yang efektif. Mari bekerja, menikmati pekerjaan, dan berkembang pesat bersama-sama.
+					LOGIQUE saat ini sedang dalam proses menjadi perusahaan pengembang Web nomor satu di Indonesia, yang sudah dimulai dengan bekerja sama dengan banyak klien besar. Dalam masa perkembangan LOGIQUE yang fleksibel, Anda memiliki kesempatan untuk menduduki posisi penting atau manajerial sesuai dengan kemampuan dan minat Anda. Kami menyediakan lingkungan yang baik untuk Anda bekerja dan dapat menjanjikan pertumbuhan karir yang bagus. LOGIQUE mendukung Anda untuk mengembangkan kemampuan teknis dan non-teknis Anda. Kami berusaha sebisa mungkin menghilangkan hal-hal yang tidak masuk akal dari pekerjaan sehingga Anda bisa menikmati suasana kerja yang efektif.
 					</p>
 					<br/>
 					<div class="div-black-career">
@@ -108,7 +108,7 @@
 								<div class="content-benefits">
 									<div class="valign-center great-view">
 										<img src="../img/benefits1.png" alt="Great View"/>
-										Kantor baru dengan <br/><span>Pemandangan <br/>Bagus</span>
+										kantor baru dengan <br/><span>pemandangan <br/>bagus</span>
 									</div>
 								</div>
 							</div>
@@ -192,7 +192,7 @@
 						</p>
 					</div>
 					<div class="col-md-4">
-						<img alt="Daily Reports" src="../img/internal2.png"/>
+						<img alt="Pakaian Bebas" src="../img/casual.png"/>
 						<div class="subtitle text-center">Pakaian Bebas</div>
 						<p>
 							Setiap hari kamu bisa memilih gaya busana yang sesuai dengan style yang kamu miliki tanpa harus merasa kaku dengan busana formal. Kamu bisa memakai kemeja, kaos, jeans, dan polo shirt sesuai keinginan kamu.
@@ -226,6 +226,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-offset-1 col-md-10">
+							<br/>
 							<div class="subtitle">Pesan Untuk Kandidat</div>
 							 <blockquote>
 								<p>Sangat penting bagi Anda untuk mengetahui di mana dan bagaimana Anda bekerja. Jika Anda bekerja keras, merasakan bahwa bekerja penting untuk kehidupan Anda, dan Anda ingin berkontribusi kepada perusahaan, kami berjanji akan menyediakan lingkungan kerja yang baik untuk Anda. Kami menyambut individu kreatif dan dinamis yang berusaha untuk pengembangan pribadi dan profesional. Sebagai gantinya, kami berkomitmen untuk menghasilkan yang terbaik dari diri Anda dengan menawarkan kesempatan untuk kemajuan dan pertumbuhan, dan memberikan karir yang mengubah hidup tidak seperti yang lain. Mari berkembang bersama LOGIQUE!</p>
@@ -236,7 +237,6 @@
 							Sekarang kami sedang mencari kandidat untuk posisi di bawah ini. Bila Anda atau relasi Anda memiliki kecocokan dan kemampuan yang dibutuhkan, jangan ragu untuk menghubungi kami.
 							<br/><br/><br/> -->
 							<!--<img class="img-responsive center-block" src="../img/job-application.png"/>-->
-							<br/>
 						</div>
 					</div>
 				</div>
@@ -244,7 +244,10 @@
 		</section>
 		
 		<section id="job-opening" class="jumptarget">
-			<div class="title text-left">We are Hiring!</div>
+			<!-- <div class="title text-left">We are Hiring!</div> -->
+			<div class="header-career">
+				<div>WE ARE HIRING!</div>
+			</div>
 			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
@@ -263,7 +266,6 @@
 							<li>Keterampilan opsional: Pengalaman Pengujian Selenium.</li>
 							<li>Bahasa yang dibutuhkan: Bahasa Inggris, Bahasa Indonesia.</li>
 							<li>Pelamar harus bersedia bekerja di Jakarta.</li>
-							<li>Posisi Full-Time.</li>
 						</ul><br/>
 						
 						<b>Bertanggungjawab:</b><br/>
@@ -494,9 +496,9 @@
 				</div>
 				<div class="clearfix"></div>
 			</div>
-			
+			<hr class="separator-career" style="margin-bottom: 0;border-style: solid;"></hr>
 			<div class="jobs-subtitle">INTERNSHIP</div>
-			
+			<hr class="separator-career" style="margin-top: 0;border-style: solid;"></hr>
 			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
@@ -669,7 +671,7 @@
 				}, 100);
 			}()); */
 			
-			var text = "Let's work hard, enjoy hard, and grow up hard together!                   ";
+			var text = "Mari bekerja, menikmati pekerjaan dan berkembang bersama!                   ";
 			var chars = text.split('');
 			var container = document.getElementById("id-black-career");
 
