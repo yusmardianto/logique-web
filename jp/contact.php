@@ -99,7 +99,7 @@ if(isset($_POST['submitted']))
 						<div class="text-center">
 							<a href="joinus.php">
 								<img src="../img/joinus.png" alt="Services"/><br/>
-								Join Us
+								採用/<br>パートナー
 							</a>
 						</div>
 						<div class="text-center active">

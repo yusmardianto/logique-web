@@ -64,7 +64,7 @@
 						<div class="text-center active">
 							<a href="joinus.php">
 								<img src="../img/joinus.png" alt="Services"/><br/>
-								Join Us
+								採用/<br>パートナー
 							</a>
 						</div>
 						<div class="text-center">

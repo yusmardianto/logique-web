@@ -18,6 +18,7 @@ ga('send', 'pageview');
 						<a href="about.php">会社概要</a><br/><br/>
 						<a href="portfolio.php">ポートフォリオ</a><br/><br/>
 						<a href="service.php">サービス</a><br/><br/>
+						<a href="joinus.php">採用/パートナー</a><br/><br/>
 						<a href="contact.php">お問い合わせ</a><br/>
 					</div>
 					<div class="col-sm-8 col-xs-6 link-footer">
