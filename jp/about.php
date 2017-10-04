@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。WEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
-	<meta name="keywords" content="WEBサイト制作, ホームページ制作, WEBシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, パンフレット">
+    <meta name="description" content="LOGIQUEデジタルインドネシアのの会社概要ページ。LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。WEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
+	<meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, パンフレット">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="インドネシアのWEBサイト制作/WEBシステム構築なら | LOGIQUEについて | LOGIQUE デジタルインドネシア">
+    <meta property="og:title" content="ジャカルタのWEBサイト/デザイン制作会社 | LOGIQUE デジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/about.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。WEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
+	<meta property="og:description" content="LOGIQUEデジタルインドネシアのの会社概要ページ。LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。WEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>インドネシアのWEBサイト制作/WEBシステム構築なら | LOGIQUEについて | LOGIQUE デジタルインドネシア</title>
+    <title>ジャカルタのWEBサイト/デザイン制作会社 | LOGIQUE デジタルインドネシア</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

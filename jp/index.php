@@ -4,15 +4,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="インドネシア、ジャカルタでのWEBサイト制作、システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等のデザインなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。">
-	<meta name="keywords" content="WEBサイト制作, ホームページ制作, WEBシステム構築, インターネットマーケティング, SEO, デザイン, パンフレット, モバイルアプリ">
+    <meta name="description" content="インドネシア、ジャカルタでのWEBサイト(ホームページ)制作、システム構築、WEBマーケティング、モバイルアプリ開発(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等のデザインなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。">
+	<meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, インターネットマーケティング, SEO, デザイン, パンフレット, モバイルアプリ">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="インドネシアのWEBサイト制作/WEBシステム構築なら | LOGIQUE デジタルインドネシア">
+	<meta property="og:title" content="ジャカルタのWEBサイト/ホームページ制作会社 | LOGIQUE デジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://logique.co.id/jp">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="インドネシア、ジャカルタでのWEBサイト制作、システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等のデザインなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。">
+	<meta property="og:description" content="インドネシア、ジャカルタでのWEBサイト(ホームページ)制作、システム構築、WEBマーケティング、モバイルアプリ開発(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等のデザインなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -24,7 +24,7 @@
 	ga('send', 'pageview');
 
 	</script>
-    <title>インドネシアのWEBサイト制作/WEBシステム構築なら | LOGIQUE デジタルインドネシア</title>
+    <title>ジャカルタのWEBサイト/ホームページ制作会社 | LOGIQUE デジタルインドネシア</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

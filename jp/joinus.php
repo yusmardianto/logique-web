@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUEデジタルインドネシアでは、WEBプログラマー、WEBデザイナー、デザイナー、コンテンツライターを募集しております。LOGIQUEのPhilosophyに共感できるという方はお気軽にご応募ください。">
-	<meta name="keywords" content="採用情報, webデベロッパー, プログラマー, WEBデザイナー, デザイナー, コンテンツライター">
+    <meta name="description" content="LOGIQUEはジャカルタのウェブ制作会社です。ジャカルタを中心とするインドネシア国内でWEBサイト制作/システム構築、WEBマーケティング、(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
+	<meta name="keywords" content="採用情報, webデベロッパー, プログラマー, ウェブデザイナー, デザイナー, コンテンツライター">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="インドネシアのWEBサイト制作/WEBシステム構築なら | 採用情報 | LOGIQUE デジタルインドネシア">
+    <meta property="og:title" content="インドネシアのWEBサイト/ホームページ制作会社 | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/joinus.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="LOGIQUEデジタルインドネシアでは、WEBプログラマー、WEBデザイナー、デザイナー、コンテンツライターを募集しております。LOGIQUEのPhilosophyに共感できるという方はお気軽にご応募ください。">
+	<meta property="og:description" content="LOGIQUEはジャカルタのウェブ制作会社です。ジャカルタを中心とするインドネシア国内でWEBサイト制作/システム構築、WEBマーケティング、(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>インドネシアのWEBサイト制作/WEBシステム構築なら | 採用情報 | LOGIQUE デジタルインドネシア</title>
+    <title>インドネシアのWEBサイト/ホームページ制作会社 | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

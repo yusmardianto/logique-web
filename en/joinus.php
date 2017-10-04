@@ -469,6 +469,64 @@
 						  </div>
 						</div>
 					</div>
+					<div class="bg-grey">
+						<div class="title-bg-grey">We are looking for sales partners of our business.</span></div>
+						<br/><br/>
+						<div class="row">
+							<div class="col-md-12">
+								We will pay introducing rewards when we get a new contract with clients from your introduction.<br/><br/>
+								
+								Your acquaintance or companies that you know have a wish to:<br/>
+								<ul class="joinus-ul">
+									<li>Have a website</li>
+									<li>Outsource their website / blog better</li>
+									<li>Want to strengthen their SEO / Digital marketing</li>
+									<li>Want to newly start Internet business</li>
+								</ul>
+								Or introduce us if anyone needs help about Web and Internet.<br/><br/>
+								
+								After Introducing us to anyone, let us know to whom you introduced us. If we successfully get a contract with the client you introduced, we will pay you its commission.<br/><br/>
+								
+								Commission rate will be<br/>
+								<ul class="joinus-ul">
+									<li>10% of the contracted price if the total price is less than 50,000,000 IDR(before tax)</li>
+									<li>5,000,000 IDR if the total price is less than 50,000,000 IDR(before tax)</li>
+									<li>10,000,000 IDR if the total price is less than 50,000,000 IDR(before tax)</li>
+								</ul><br/>
+								
+								There is no special ways to introduce us, but it will be appreciated if you<br/>
+								<ul class="joinus-ul">
+									<li>Tell us their contact information</li>
+									<li>Tell us information about the prospect you introduce to us</li>
+									<li>We will contact them directly</li>
+									<li>We will propose to the prospect directly</li>
+									<li>We will contact you if we got a contract with the ones you introduced to us</li>
+								</ul><br/>
+								
+								＃We will be flexible for the partnership with you. Depending on the situation we can cooperate with you in other ways as well.<br/>
+								＃Of course there is no particular conditions for introduction<br/>
+								＃It will be appreciated if you could ask the prospect about their budget and possibility<br/>
+								＃The only case we can provide you commission is when the they can be our new client. We will not provide commission after the 1st project that we got from the client you introduced. From 2<sup>nd</sup> project and maintenance contract will not be calculated as the commission.<br/><br/>
+								The prospects that you introduce to us can be in Indonesia or in any other countries.<br/><br/>
+								
+								<span class="characteristic-title">Frequently asked questions</span><br/>
+								Q．Do I only have to introduce and connect you to the person that I know? Or do I have to actually propose and do some sales activity?<br/>
+								A．You only need to introduce the person / company PIC who is interested in our service such as SEO or developing website, web-system, mobile apps, etc. You already complete the process “Introduction” once you inform us that you tell them about LOGIQUE and that we will contact them. After introduction, the result will depend on us.<br/><br/>
+
+								Q．How do you contact me when you got a contract with the person / company?<br/>
+								A．We will inform you right away once we propose our service and successfully get the project and confirm several things about the payment (price, transfer procedure, etc.).<br/><br/>
+
+								Q．Can the commission be paid to individuals?<br/>
+								A．We can pay commission to either individual or company depending on your preference.<br/><br/>
+
+								Q．Will there be tax that will be deducted from the commission?<br/>
+								A．Yes, withholding should be deducted from the commission that will be provided. The withholding rate will be 10% for NPWP holder and 20% for non-holder.<br/><br/>
+
+								Q．Will the commission be paid in Indonesian Rupiah?<br/>
+								A．It will be appreciated if we can transfer Indonesian Rupiah, but in case if you do not have bank account in Indonesia, we can also make international remittance after converting Indonesian rupiah into your currency. 
+							</div>
+						</div>
+					</div>
 					<div class="got-project">
 						<span>Have skill, come & join us?</span><br/>
 						<div class="text-center">

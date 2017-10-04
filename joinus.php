@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -480,6 +480,64 @@
 						  </div>
 						</div>
 					</div>-->
+					<div class="bg-grey">
+						<div class="title-bg-grey">Kami mencari mitra bisnis.</span></div>
+						<br/><br/>
+						<div class="row">
+							<div class="col-md-12">
+								Kami akan memberikan pembayaran kepada Anda, setelah kami mendapatkan kontrak baru dari klien yang telah Anda perkenalkan.<br/><br/>
+								
+								Klien atau perusahaan yang kami maksud adalah yang mempunyai keinginan untuk:<br/>
+								<ul class="joinus-ul">
+									<li>Mempunyai website</li>
+									<li>Membuat website/ blog mereka menjadi lebih baik</li>
+									<li>Membuat website/ blog mereka menjadi lebih baik</li>
+									<li>Memulai sebuah bisnis internet yang baru</li>
+								</ul>
+								Atau Anda juga dapat memperkenalkan kami, jika ada yang membutuhkan bantuan mengenai Web dan Internet.<br/><br/>
+								
+								Setelah Anda memperkenalkan kami dengan siapapun atau pihak manapun, selanjutnya beritahu kami dari mana Anda tahu mengenai kami. Jika kami berhasil mendapatkan kontrak dari klien yang telah Anda kenalkan, maka kami akan memberikan komisi untuk Anda.<br/><br/>
+								
+								Penilaian Komisi:<br/>
+								<ul class="joinus-ul">
+									<li>10% dari harga kontrak, apabila total kontrak yang kami dapatkan kurang dari Rp.50.000.000 (belum termasuk pajak)</li>
+									<li>Rp.5.000.000 jika total harga kontrak yang kami dapatkan kurang dari Rp.50.000.000 (belum termasuk pajak)</li>
+									<li>Rp.5.000.000 jika total harga kontrak yang kami dapatkan kurang dari Rp.50.000.000 (belum termasuk pajak)</li>
+								</ul><br/>
+								
+								Tidak ada kata lain yang dapat kami ucapkan, namun akan sangat kami harga jika Anda dapat:<br/>
+								<ul class="joinus-ul">
+									<li>Memberikan informasi kontak mereka</li>
+									<li>Memberikan informasi kepada kami mengenai prospek yang akan Anda tawarkan kepada kami</li>
+									<li>Kami akan menghubungi klien tersebut secara langsung</li>
+									<li>Sesegera mungkin kami akan mengajukan prospek bisnis kami kepada mereka secara langsung</li>
+									<li>Kami akan menghubungi Anda jika kami telah mendapatkan kontrak dari seseorang yang telah Anda perkenalkan kepada kami.</li>
+								</ul><br/>
+								
+								＃Untuk terus menjalin kemitraan dengan Anda, kami akan bertindak secara fleksibel. Semua bergantung pada situasi dan kondisinya. Kami juga menerima kerja sama lain dengan Anda jika Anda berkenan.<br/>
+								＃Kami tentu tidak akan mendahului Anda.<br/>
+								＃Namun, akan sangat kami hargai jika Anda dapat menanyakan secara langsung kepada kami mengenai prospek anggaran serta kemungkinan lainnya<br/>
+								Misalnya, Kami akan memberikan Anda komisi ketika mereka telah bersedia untuk menjadi klien kami. Kami tidak akan memberikan Anda komisi setelah project pertama kita dapatkan dari klien yang telah Anda kenalkan kepada kami. Dari kontrak kedua dan pemeliharaan tidak akan dihitung sebagai komisi.<br/><br/>
+								Prospek yang akan Anda perkenalkan kepada kami dapat berasal dari Indonesia atau dari negara lainnya.<br/><br/>
+								
+								<span class="characteristic-title">Beberapa pertanyaan yang seringkali diajukan:</span><br/>
+								Q．Apakah saya hanya sekedar memperkenalkan serta menghubungkan Anda dengan seseorang yang saya kenal? Atau saya hanya sekedar mengusulkan saja dan melakukan penjualan kepada orang tersebut?<br/>
+								A．Anda hanya perlu mengenalkan orang atau koordinator perusahaan yang memang tertarik dengan layanan yang akan kami berikan, seperti SEO, pengembangan website, pengembangan aplikasi dan lain-lain. Setelah Anda memperkenalkan diri Anda, dan memberitahukan kami bahwa Anda telah memberitahukan kepada mereka tentang LOGIQUE, maka kami akan segera menghubungi mereka. Setelah berkenalan, maka hasilnya serahkan saja pada kami.<br/><br/>
+
+								Q．Bagaimana cara Anda menghubungi saya setelah Anda telah mendapatkan kontrak dengan orang/ perusahaan tersebut?<br/>
+								A．Sesegera mungkin kami akan memberitahukan kepada Anda, begitu kami telah mengajukan layanan yang kami tawarkan dan berhasil mendapatkan proyek tersebut, dan kami akan mengkonfirmasi beberapa hal mengenai pembayaran (harga, prosedur transfer, dll).<br/><br/>
+
+								Q．Dapatkah komisi dibayarkan melalui individu/ perorangan?<br/>
+								A．Kami dapat membayarkan komisi melalui individu (perorangan) atau melalui perusahaan, semuanya tergantung dari pilihan Anda.<br/><br/>
+
+								Q．Apakah ada pengurangan komisi yang diambil dari pajak?<br/>
+								A．Ya, akan ada pemotongan komisi yang diberikan kepada Anda. Adapun besaran pemotongan yang akan dikenakan sebesar 10% bagi yang telah mempunyai NPWP dan 20% bagi yang tidak mempunyai NPWP.<br/><br/>
+
+								Q．Apakah komisi yang akan dibayarkan dalam bentuk mata uang Rupiah?<br/>
+								A．Kami akan sangat mengapresiasi jika dapat melakukan transfer uang ke mata uang Rupiah. Tapi jika Anda tidak mempunyai rekening bank di Indonesia, Kami juga dapat melakukan pengiriman uang secara internasional setelah mengubah uang Rupiah menjadi mata uang Anda. 
+							</div>
+						</div>
+					</div>
 					<div class="got-project">
 						<span>Have skill, come & join us?</span><br/>
 						<div class="text-center">

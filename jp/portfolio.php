@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUEデジタルインドネシアはのジャカルタを中心としたインドネシア国内で、数多くのWEBサイト制作/システム構築、デザインパンフレット等印刷物まで制作を行ってまいりました。">
-	<meta name="keywords" content="WEBサイト制作, ホームページ制作, WEBシステム構築, デザイン, 印刷, コーポレートサイト, ランディングページ">
+    <meta name="description" content="LOGIQUEの制作実績を紹介します。LOGIQUEは、ジャカルタのウェブ制作会社です。ジャカルタを中心としたインドネシア国内で、数多くのWEBサイト(ホームページ)制作/システム構築、パンフレット、カタログ等印刷物のデザインまで制作を行ってまいりました。">
+	<meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, デザイン, 印刷, コーポレートサイト, ランディングページ">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="インドネシアのWEBサイト制作/WEBシステム構築なら | ポートフォリオ | LOGIQUE デジタルインドネシア">
+    <meta property="og:title" content="インドネシアのウェブデザイン制作会社 | ホームページ制作実績 | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/portfolio.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="LOGIQUEデジタルインドネシアはのジャカルタを中心としたインドネシア国内で、数多くのWEBサイト制作/システム構築、デザインパンフレット等印刷物まで制作を行ってまいりました。">
+	<meta property="og:description" content="LOGIQUEの制作実績を紹介します。LOGIQUEは、ジャカルタのウェブ制作会社です。ジャカルタを中心としたインドネシア国内で、数多くのWEBサイト(ホームページ)制作/システム構築、パンフレット、カタログ等印刷物のデザインまで制作を行ってまいりました。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>インドネシアのWEBサイト制作/WEBシステム構築なら | ポートフォリオ | LOGIQUE デジタルインドネシア</title>
+    <title>インドネシアのウェブデザイン制作会社 | ホームページ制作実績 | LOGIQUE</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

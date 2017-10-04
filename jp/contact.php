@@ -39,17 +39,17 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="ジャカルタでWEB制作、WEBシステム構築、WEBマーケティング、パンフレット制作、モバイルアプリ構築等、WEBに関わるサービスのことならLOGIQUEインドネシアにお気軽にお問い合わせください。">
-	<meta name="keywords" content="お問い合わせ, WEBサイト制作, ホームページ制作,WEBシステム構築, WEBマーケティング, パンフレット, モバイルアプリ構築">
+    <meta name="description" content="LOGIQUEはインドネシア、他の東南アジアの国でクライアントのWEBマーケティングをWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などで成功に導いてきました。インドネシアでWEBを成功のキーとお考えであれば、LOGIQUEにご相談ください。">
+	<meta name="keywords" content="お問い合わせ, WEBサイト制作, ホームページ制作,ウェブシステム構築, WEBマーケティング, パンフレット, モバイルアプリ構築">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="インドネシアのWEBサイト制作/WEBシステム構築なら | お問い合わせ | LOGIQUE デジタルインドネシア">
+    <meta property="og:title" content="インドネシアのウェブ/ホームページの制作、運用に関するお問い合わせ | LOGIQUE デジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/contact.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="ジャカルタでWEB制作、WEBシステム構築、WEBマーケティング、パンフレット制作、モバイルアプリ構築等、WEBに関わるサービスのことならLOGIQUEインドネシアにお気軽にお問い合わせください。">
+	<meta property="og:description" content="LOGIQUEはインドネシア、他の東南アジアの国でクライアントのWEBマーケティングをWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などで成功に導いてきました。インドネシアでWEBを成功のキーとお考えであれば、LOGIQUEにご相談ください。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>インドネシアのWEBサイト制作/WEBシステム構築なら | お問い合わせ | LOGIQUE デジタルインドネシア</title>
+    <title>インドネシアのウェブ/ホームページの制作、運用に関するお問い合わせ | LOGIQUE デジタルインドネシア</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
