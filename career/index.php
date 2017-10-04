@@ -614,7 +614,7 @@
 		<div class="bg-footer-new-career">
 			<span>Anda memenuhi persyaratan di atas?</span><br>
 			<div class="text-center">
-				<a href="mailto:ghitta@logique.co.id" class="btn btn-contact-us-black">
+				<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black">
 					Bergabunglah bersama kami
 				</a>
 			</div>

@@ -529,7 +529,7 @@
 					<div class="got-project">
 						<span>Have skill, come & join us?</span><br/>
 						<div class="text-center">
-							<a href="#" class="btn btn-contact-us-black">
+							<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black">
 								Join Us
 							</a>
 						</div>
