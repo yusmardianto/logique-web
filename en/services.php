@@ -7,14 +7,14 @@
     <meta name="description" content="LOGIQUE offers a wide range of web and design related services starting from website creation / system development, Web marketing, mobile application development, social media operation, designing, etc, in Indonesia.">
 	<meta name="keywords" content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="No.1 Website / Web-system Developer in Indonesia | Service | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="The best website, mobile application developer and designer in Jakarta | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/services.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
 	<meta property="og:description" content="LOGIQUE offers a wide range of web and design related services starting from website creation / system development, Web marketing, mobile application development, social media operation, designing, etc, in Indonesia.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>No.1 Website / Web-system Developer in Indonesia | Service | LOGIQUE Digital Indonesia</title>
+    <title>The best website, mobile application developer and designer in Jakarta | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

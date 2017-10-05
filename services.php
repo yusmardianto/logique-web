@@ -106,6 +106,7 @@
 							  <li><a href="index.php">Beranda</a></li>
 							  <li class="active"><a>Layanan</a></li>
 							</ol>
+							<h1 class="tagline">LOGIQUE menyediakan layanan pembuatan website, aplikasi, desain, digital marketing dan SEO.</h1>
 						</div>
 					</div>
 				</div>

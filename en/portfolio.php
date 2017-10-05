@@ -7,14 +7,14 @@
     <meta name="description" content="LOGIQUE Digital Indonesia has numerous experiences in website creation / system development, designing printing materials in Indonesia.">
 	<meta name="keywords" content="website creation, web-system development, designing, printing, corporate site, landing page">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="No.1 Website / Web-system Developer in Indonesia | Portfolio | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="The best web-designer in Jakarta | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/portfolio.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
 	<meta property="og:description" content="LOGIQUE Digital Indonesia has numerous experiences in website creation / system development, designing printing materials in Indonesia.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>No.1 Website / Web-system Developer in Indonesia | Portfolio | LOGIQUE Digital Indonesia</title>
+    <title>The best web-designer in Jakarta | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

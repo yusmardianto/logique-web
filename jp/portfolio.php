@@ -106,6 +106,7 @@
 							  <li><a href="index.php">Home</a></li>
 							  <li class="active"><a>Portfolio</a></li>
 							</ol>
+							<h1 class="tagline">これまでのWEBサイト・ホームページ制作、印刷物のデザイン事例をご紹介します。</h1>
 						</div>
 					</div>
 				</div>

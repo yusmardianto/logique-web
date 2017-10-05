@@ -142,6 +142,7 @@ if(isset($_POST['submitted']))
 							  <li><a href="index.php">Beranda</a></li>
 							  <li class="active"><a>Hubungi Kami</a></li>
 							</ol>
+							<h1 class="tagline">Punya kebutuhan terkait pembuatan website, aplikasi, desain, profil perusahaan dan brosur? Hubungi LOGIQUE.</h1>
 						</div>
 					</div>
 				</div>

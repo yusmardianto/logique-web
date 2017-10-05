@@ -106,6 +106,7 @@
 							  <li><a href="index.php">Home</a></li>
 							  <li class="active"><a>LOGIQUEについて</a></li>
 							</ol>
+							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社。インターネットマーケティングからアプリ開発、各種デザインも取り扱っております。</h1>
 						</div>
 					</div>
 				</div>

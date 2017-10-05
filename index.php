@@ -135,9 +135,9 @@
 				<div class="img">
 					<div class="title-container hidden-xs">
 						<div class="valign-center text-center">
-							<p class="title-index">
+							<h1 class="title-index">
 								Perusahaan <span class="yellow">Jasa Pembuatan Website dan Aplikasi </span> Terpercaya Asal Jepang
-							</p>
+							</h1>
 							Kami siap melayani dan membantu Anda dalam melakukan pembuatan website, aplikasi, digital marketing hingga optimasi SEO.<br/> Dengan pengalaman yang kami miliki ditambah dengan proyek - proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, maka keahlian kami akan menjadi terobosan baru untuk bisnis Anda.<br/><br/>
 							<center>
 								<a href="services.php" class="btn btn-see-more">Lihat lebih lanjut <i class="fa fa-arrow-circle-o-right" ></i></a>

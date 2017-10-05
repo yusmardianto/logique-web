@@ -106,6 +106,7 @@
 							  <li><a href="index.php">Beranda</a></li>
 							  <li class="active"><a>Tentang Kami</a></li>
 							</ol>
+							<h1 class="tagline">LOGIQUE adalah web developer asal Jepang dengan pengalaman kerja 5 tahun di Indonesia.</h1>
 						</div>
 					</div>
 				</div>

@@ -44,9 +44,9 @@
 			</div>
 			<div class="box-home-career col-md-offset-2 col-md-8">
 				<div class="valign-center">
-					<p>
+					<h1>
 					LOGIQUE saat ini sedang dalam proses menjadi perusahaan pengembang Web nomor satu di Indonesia, yang sudah dimulai dengan bekerja sama dengan banyak klien besar. Dalam masa perkembangan LOGIQUE yang fleksibel, Anda memiliki kesempatan untuk menduduki posisi penting atau manajerial sesuai dengan kemampuan dan minat Anda. Kami menyediakan lingkungan yang baik untuk Anda bekerja dan dapat menjanjikan pertumbuhan karir yang bagus. LOGIQUE mendukung Anda untuk mengembangkan kemampuan teknis dan non-teknis Anda. Kami berusaha sebisa mungkin menghilangkan hal-hal yang tidak masuk akal dari pekerjaan sehingga Anda bisa menikmati suasana kerja yang efektif.
-					</p>
+					</h1>
 					<br/>
 					<div class="div-black-career">
 						<p id="id-black-career" style="display:inline"></p><span class="blink">|</span>
@@ -491,6 +491,43 @@
 						<b>Kriteria:</b>
 						<ul class="joinus-ul">
 							<li>Memiliki kemampuan untuk menggunakan alat desain (Photoshop, Illustrator, dll).</li>
+						</ul>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
+							<img alt="IT Sales Executive" src="../img/sales.png" class="img-responsive"/>
+							IT Sales Executive
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						<b>Tanggung Jawab:</b>
+						<ul class="joinus-ul">
+							<li>Mengembangkan bisnis baru melalui networking</li>
+							<li>Mengatur pertemuan bisnis untuk menindaklanjuti prospek dari klien</li>
+							<li>Memahami kebutuhan dan memastikan kualitas layanan bisnis yang diinginkan oleh klien dan menerapkan pengetahuan produk untuk memenuhi kebutuhan tersebut</li>
+							<li>Mempelajari tentang bagaimana kinerja produk dan layanan </li>
+							<li>Belajar tentang sektor industri yang bersangkutan dengan klien</li>
+							<li>Mempersiapkan dan menyampaikan persentasi tentang layanan perusahaan</li>
+							<li>Memberikan saran dan solusi yang jelas mengenai layanan perusahaan kepada klien</li>
+						</ul>
+						<b>Kriteria:</b>
+						<ul class="joinus-ul">
+							<li>Mempunyai pemikiran yang logis</li>
+							<li>Memiliki motivasi dan sikap yang kompetitif</li>
+							<li>Memiliki pemahaman teknis yang baik terhadap teknologi baru dan penggunaannya</li>
+							<li>Dapat bekerja di bawah tekanan</li>
+							<li>Memiliki kemampuan persentasi dengan sikap percaya diri dan professional</li>
+							<li>Memiliki time-management yang baik</li>
+							<li>Memiliki kemampuan komunikasi verbal yang professional</li>
+							<li>Memiliki passion terhadap dunia bisnis</li>
 						</ul>
 					</div>
 				</div>

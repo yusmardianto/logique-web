@@ -106,6 +106,7 @@
 							  <li><a href="index.php">Home</a></li>
 							  <li class="active"><a>サービス</a></li>
 							</ol>
+							<h1 class="tagline">WEBサイト/ホームページ制作、モバイルアプリ開発、印刷物デザイン、インターネットマーケティングまで取り扱っております。</h1>
 						</div>
 					</div>
 				</div>

@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUE is looking for web programmer, web designer, designer, content writer. Do not hesitate to apply If you agree with LOGIQUE 's Philosophy.">
+    <meta name="description" content="LOGIQUE is looking for web programmer, web designer, designer, content writer. Do not hesitate to apply If you agree with LOGIQUE's Philosophy.">
 	<meta name="keywords" content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="No.1 Website / Web-system Developer in Indonesia | Career | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Join the best website / web-system developer in Jakarta  | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/joinus.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="LOGIQUE is looking for web programmer, web designer, designer, content writer. Do not hesitate to apply If you agree with LOGIQUE 's Philosophy.">
+	<meta property="og:description" content="LOGIQUE is looking for web programmer, web designer, designer, content writer. Do not hesitate to apply If you agree with LOGIQUE's Philosophy.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>No.1 Website / Web-system Developer in Indonesia | Career | LOGIQUE Digital Indonesia</title>
+    <title>Join the best website / web-system developer in Jakarta  | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -463,6 +463,45 @@
 									<li>Melakukan penelitian kata kunci sederhana dan gunakan panduan SEO untuk meningkatkan web traffic.</li>
 									<li>Mengidentifikasi kebutuhan dan kesenjangan pelanggan dalam konten kami dan rekomendasikan topik baru.</li>
 									<li>Up to date untuk konten situs web sesuai kebutuhan.</li>
+								</ul>
+							  </div>
+							</div>
+						  </div>
+						  <div class="panel panel-default">
+							<div class="panel-heading">
+							  <a data-toggle="collapse" data-parent="#vacancy" href="#sales" class="collapsed">
+								<h4 class="panel-title">
+									<img src="../img/sales.png" alt="IT Sales Executive"/> IT Sales Executive
+								</h4>
+							  </a>
+							</div>
+							<div id="sales" class="panel-collapse collapse">
+							  <div class="panel-body">
+								<b>Typical duties of the IT sales executive:</b>
+								<ul class="joinus-ul">
+									<li>Developing new business through networking and cold calling</li>
+									<li>Arranging business meetings and following up leads</li>
+									<li>Understanding customers’ specific business needs and applying product knowledge to meet those needs</li>
+									<li>Learning about how products and services work </li>
+									<li>Ensuring quality of service by developing a thorough and detailed knowledge of technical specifications</li>
+									<li>Preparing and delivering customer presentations and demonstrations of the software, articulately and confidently;</li>
+									<li>Providing support to customers, offering clear advice and solutions wherever possible</li>
+									<li>Attending industry events</li>
+									<li>Developing effective sales plans utilising sales methodology</li>
+									<li>There may be some international travel involved depending on the remit of the IT company.</li>
+								</ul>
+								<b>The candidate must have:</b>
+								<ul class="joinus-ul">
+									<li>Logical-thinking</li>
+									<li>Self-motivation, competitive, and results-driven attitude</li>
+									<li>Passion, dedication and focus</li>
+									<li>A good level of technical understanding with enthusiasm for new technology and its commercial uses</li>
+									<li>Mental strength to work well even under pressures</li>
+									<li>Articulate and confident presentation skills and a professional telemarketing skills</li>
+									<li>Time-management skills</li>
+									<li>Ability to set logical priority for your workload</li>
+									<li>Persuasive and influential verbal communication skills</li>
+									<li>Business awareness</li>
 								</ul>
 							  </div>
 							</div>

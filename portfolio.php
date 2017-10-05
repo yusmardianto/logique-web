@@ -106,6 +106,7 @@
 							  <li><a href="index.php">Beranda</a></li>
 							  <li class="active"><a>Portfolio</a></li>
 							</ol>
+							<h1 class="tagline">LOGIQUE telah membuat banyak website dan aplikasi untuk klien nasional dan internasional.</h1>
 						</div>
 					</div>
 				</div>

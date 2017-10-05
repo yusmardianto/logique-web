@@ -340,6 +340,7 @@ strong{
 	background-color: transparent;
 	padding-left: 0;
 	margin-bottom: 0;
+	font-size: 13px;
 }
 .lang-logo .breadcrumb a{
 	color:#666;
@@ -681,6 +682,9 @@ footer a:hover{
 	}
 }
 @media (max-width: 768px){
+	.tagline {
+		margin-bottom: 18px;
+	}
 	#bgImg .img {
 		background-image: url(../img/video-img.png);
 	}
@@ -862,8 +866,9 @@ section.maintop video {
     background-size: cover;
     transition: 1s opacity;
 }
-.box-home-career .valign-center p{
+.box-home-career .valign-center h1{
 	line-height: 25px;
+	font-size:14px;
 }
 .box-home-career .valign-center{
 	padding:50px;
@@ -1362,6 +1367,9 @@ blockquote::before{
 }
 blockquote::after{
   content: "";
+}
+.tagline{
+	margin-top:18px;font-size:15px
 }
 
 

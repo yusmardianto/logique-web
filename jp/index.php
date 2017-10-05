@@ -135,9 +135,9 @@
 				<div class="img">
 					<div class="title-container hidden-xs">
 						<div class="valign-center text-center">
-							<p class="title-index" style="font-size:40px">
+							<h1 class="title-index" style="font-size:40px">
 								インドネシアでお客様の課題を<br>WEB・ネットの活用で解決してきました。
-							</p>
+							</h1>
 							WEB・ホームページ制作・WEBシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWEB戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWEBを制作運用することを心がけています。ネットビジネスコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネットを活用して貢献していきます。<br/><br/>
 							<center>
 								<a href="services.php" class="btn btn-see-more">続きを見る <i class="fa fa-arrow-circle-o-right" ></i></a>

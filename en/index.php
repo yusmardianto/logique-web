@@ -7,7 +7,7 @@
     <meta name="description" content="If you are seeking for a web developer to build websites, system development, web marketing, mobile application development, social media, pamphlets etc, please leave it to LOGIQUE Digital Indonesia, the No.1 website / web developer in Indonesia.">
 	<meta name="keywords" content="website creation, web-system development, internet marketing, SEO, designing, pamphlet, mobile application">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="No. 1 Website / Web-system Developer in Indonesia | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="The best website / web-system developer in Jakarta | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://logique.co.id/en">
@@ -24,7 +24,7 @@
 	ga('send', 'pageview');
 
 	</script>
-    <title>No. 1 Website / Web-system Developer in Indonesia | LOGIQUE Digital Indonesia</title>
+    <title>The best website / web-system developer in Jakarta | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

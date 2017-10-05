@@ -106,6 +106,7 @@
 							  <li><a href="index.php">Beranda</a></li>
 							  <li class="active"><a>Karir</a></li>
 							</ol>
+							<h1 class="tagline">Mari bergabung dengan LOGIQUE untuk perkembangan karir Anda.</h1>
 						</div>
 					</div>
 				</div>

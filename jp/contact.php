@@ -141,6 +141,7 @@ if(isset($_POST['submitted']))
 							  <li><a href="index.php">Home</a></li>
 							  <li class="active"><a>お問い合わせ</a></li>
 							</ol>
+							<h1 class="tagline">WEBサイト/ホームページ制作、インターネットマーケティング、モバイル開発から印刷物のデザインまでお気軽にご相談ください。</h1>
 						</div>
 					</div>
 				</div>
@@ -172,6 +173,7 @@ if(isset($_POST['submitted']))
 
 						
 						ホームページ制作やソーシャルメディア等、ウェブ関連のご相談事または印刷物デザインに関する事も、お気軽にロギクまでお問い合わせください。<br/><br/>
+						<br/>
 	                    <?php if(isset($msg))
 	                    {
 	                    echo $msg;
