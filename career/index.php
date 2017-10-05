@@ -4,15 +4,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="PT. Logique Digital Indonesia dapat membantu kalian dalam Internet Marketing, responsive Web development, SEO, dll.">
-	<meta name="keywords" content="Career Logique, Logique Job , Lowongan , karir">
+    <meta name="description" content="Buka dan temukan keuntungan bekerja di LOGIQUE untuk perkembangan karir Anda serta lowongan kerja yang tersedia dari kami. Mari bergabung dengan LOGIQUE untuk perkembangan karir Anda dengan suasana kerja yang nyaman dan efektif.">
+	<meta name="keywords" content="karir, bekerja di logique, magang di logique, web developer, project manager, desainer, tester">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Karir | PT. Logique Digital Indonesia">
+	<meta property="og:title" content="Bekerja di LOGIQUE | Karir | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="PT. Logique Digital Indonesia dapat membantu kalian dalam Internet Marketing, responsive Web development, SEO, dll.">
+	<meta property="og:description" content="Buka dan temukan keuntungan bekerja di LOGIQUE untuk perkembangan karir Anda serta lowongan kerja yang tersedia dari kami. Mari bergabung dengan LOGIQUE untuk perkembangan karir Anda dengan suasana kerja yang nyaman dan efektif.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -23,7 +23,7 @@
 		ga('create', 'UA-105878648-1', 'auto');
 		ga('send', 'pageview');
 	</script>
-    <title>Karir | PT. Logique Digital Indonesia</title>
+    <title>Bekerja di LOGIQUE | Karir | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

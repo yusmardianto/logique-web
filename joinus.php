@@ -7,14 +7,14 @@
     <meta name="description" content="We are hiring! Cek lowongan kerja yang tersedia dari kami dan mari bergabung dengan LOGIQUE untuk perkembangan karir Anda dengan suasana kerja yang nyaman dan efektif.">
 	<meta name="keywords" content="karir, bekerja di logique, magang di logique, web developer, project manager, desainer, tester">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Bekerja di LOGIQUE | Karir | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Bergabung dengan Logique | Karir | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/joinus.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
 	<meta property="og:description" content="We are hiring! Cek lowongan kerja yang tersedia dari kami dan mari bergabung dengan LOGIQUE untuk perkembangan karir Anda dengan suasana kerja yang nyaman dan efektif.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Bekerja di LOGIQUE | Karir | LOGIQUE Digital Indonesia</title>
+    <title>Bergabung dengan Logique | Karir | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
