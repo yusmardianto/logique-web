@@ -501,9 +501,9 @@
 								
 								Penilaian Komisi:<br/>
 								<ul class="joinus-ul">
-									<li>10% dari harga kontrak, apabila total kontrak yang kami dapatkan kurang dari Rp.50.000.000 (belum termasuk pajak)</li>
-									<li>Rp.5.000.000 jika total harga kontrak yang kami dapatkan kurang dari Rp.50.000.000 (belum termasuk pajak)</li>
-									<li>Rp.5.000.000 jika total harga kontrak yang kami dapatkan kurang dari Rp.50.000.000 (belum termasuk pajak)</li>
+									<li>10% dari harga kontrak, apabila total kontrak yang kami dapatkan kurang dari Rp 50,000,000</li>
+									<li>Rp 5,000,000 jika total harga kontrak yang kami dapatkan kurang dari Rp 100,000,000</li>
+									<li>Rp 10,000,000 jika total harga kontrak yang kami dapatkan lebih dari Rp 100,000,000</li>
 								</ul><br/>
 								
 								Tidak ada kata lain yang dapat kami ucapkan, namun akan sangat kami harga jika Anda dapat:<br/>

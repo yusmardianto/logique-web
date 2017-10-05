@@ -117,8 +117,15 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
-					<div class="form-container">
-						<div style="text-align: center;font-size: 60px;padding: 150px 0;font-weight: bold;font-style: italic;">Coming Soon</div>
+					<div class="form-container our-portfolio">
+						<!--<div style="text-align: center;font-size: 60px;padding: 150px 0;font-weight: bold;font-style: italic;">Coming Soon</div>-->
+						LOGIQUE has various experiences in developing. In the near future we will update our portfolio of website / web-system development, mobile application development, and printing design.<br/><br/>
+						Contact us and we will introduce you our past portfolios of development, maintenance, and operation. Contact us from here:
+						<div class="text-center">
+							<a href="contact.php" class="btn btn-contact-us-black">
+								Contact us about Website development portfolio
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>

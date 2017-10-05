@@ -117,8 +117,15 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
-					<div class="form-container">
-						<div style="text-align: center;font-size: 60px;padding: 150px 0;font-weight: bold;font-style: italic;">Coming Soon</div>
+					<div class="form-container our-portfolio">
+						<!--<div style="text-align: center;font-size: 60px;padding: 150px 0;font-weight: bold;font-style: italic;">Coming Soon</div>-->
+						LOGIQUE memiliki banyak pengalaman dalam pembuatan website dan aplikasi. Dalam waktu dekat kami akan mengupdate portofilio kami terkait pembuatan website, web system, aplikasi android, aplikasi iphone (iOS), dan desain media cetak.<br/><br/>
+						Hubungi kami untuk melihat portofolio dan karya kami seputar pembuatan, pengelolaan, dan pengoperasian website. Silakan menghubungi kami dari sini:
+						<div class="text-center">
+							<a href="contact.php" class="btn btn-contact-us-black">
+								Hubungi LOGIQUE terkait portofolio pembuatan Website
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>

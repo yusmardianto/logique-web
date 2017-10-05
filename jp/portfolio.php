@@ -117,8 +117,15 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
-					<div class="form-container">
-						<div style="text-align: center;font-size: 60px;padding: 150px 0;font-weight: bold;font-style: italic;">Coming Soon</div>
+					<div class="form-container our-portfolio">
+						<!--<div style="text-align: center;font-size: 60px;padding: 150px 0;font-weight: bold;font-style: italic;">Coming Soon</div>-->
+						LOGIQUEはインドネシアにて多くの制作実績をもっています。近日中にWEB制作、モバイルアプリ開発、WEBシステム開発、印刷物デザインの実績を掲載します。<br/><br/>
+						LOGIQUEの制作実績、運用、開発実績はお問い合わせいただければご紹介いたします。こちらからご連絡ください：
+						<div class="text-center">
+							<a href="contact.php" class="btn btn-contact-us-black">
+								WEB制作実績のお問い合わせ
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>

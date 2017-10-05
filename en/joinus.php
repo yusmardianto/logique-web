@@ -528,9 +528,9 @@
 								
 								Commission rate will be<br/>
 								<ul class="joinus-ul">
-									<li>10% of the contracted price if the total price is less than 50,000,000 IDR(before tax)</li>
-									<li>5,000,000 IDR if the total price is less than 50,000,000 IDR(before tax)</li>
-									<li>10,000,000 IDR if the total price is less than 50,000,000 IDR(before tax)</li>
+									<li>10% of the contracted price if the total price is less than 50,000,000 IDR</li>
+									<li>5,000,000 IDR if the total price is less than 100,000,000 IDR</li>
+									<li>10,000,000 IDR if the total price is greater than 100,000,000 IDR</li>
 								</ul><br/>
 								
 								There is no special ways to introduce us, but it will be appreciated if you<br/>

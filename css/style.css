@@ -1371,6 +1371,17 @@ blockquote::after{
 .tagline{
 	margin-top:18px;font-size:15px
 }
+.our-portfolio  .btn-contact-us-black{
+	background: #ffca13;
+    color: #000!important;
+    transition: all 0.5s;
+    border: 2px solid #ffca13;
+    white-space: normal;
+	margin-top: 25px;
+}
+.our-portfolio .btn-contact-us-black:hover, .our-portfolio .btn-contact-us-black:focus {
+    background: #fff;
+}
 
 
 @media (max-width: 991px) {
@@ -1400,6 +1411,9 @@ blockquote::after{
 	}
 }
 @media (max-width: 768px) {
+	.our-portfolio  .btn-contact-us-black{
+		font-size:20px;
+	}
 	.jumptarget {
 		border-top: 72px solid transparent;
 		margin: -72px 0 0;
@@ -1512,6 +1526,9 @@ blockquote::after{
 	}
 }
 @media (max-width: 468px){
+	.our-portfolio  .btn-contact-us-black{
+		font-size: 16px;
+	}
 	#internal-rules p{
 		padding:0;
 		margin-bottom: 50px;

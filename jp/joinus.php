@@ -104,7 +104,7 @@
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
 							<ol class="breadcrumb">
 							  <li><a href="index.php">Home</a></li>
-							  <li class="active"><a>Career</a></li>
+							  <li class="active"><a>採用 / パートナー</a></li>
 							</ol>
 							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社。インターネットマーケティング、アプリ開発、各種デザインまで取り扱っております。</h1>
 						</div>
