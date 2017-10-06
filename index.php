@@ -28,6 +28,9 @@
 
     <!-- Bootstrap 
 	<link href="css/bootstrap.min.css" rel="stylesheet">-->
+	<noscript>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+	</noscript>
 	
     <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
@@ -159,9 +162,6 @@
 			var godefer = document.getElementsByTagName('link')[0];
 			godefer.parentNode.insertBefore(giftofspeed, godefer);
 		</script>
-		<noscript>
-			<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
-		</noscript>
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/slick.min.js"></script>		
