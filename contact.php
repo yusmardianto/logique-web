@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 require_once("./form/fgcontactform.php");
 
 $formproc = new FGContactForm();
@@ -157,6 +157,19 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="title"><b>Hubungi</b><span class="yellow">Kami</span></div>
 					<div class="form-container">
+						“Jika Anda merasa perlu mengembangkan Website sebagai salah satu alat penjualan terpenting.”<br/>
+						“Jika Anda ingin membuat perbedaan dari para pesaing dengan memanfaatkan Website sebagai alat pemasaran.”<br/>
+						“Jika Anda ingin mengembangkan usaha dengan Website sebagai kunci utama bisnis Anda.”<br/><br/>
+						
+						LOGIQUE telah membantu pemasaran Web klien kami yang tersebar di seluruh Asia Tenggara hingga mencapai kesuksesan lewat pengembangan website, pengembangan sistem website, pembuatan aplikasi seluler, peningkatan SEO, dan menganalisa lalu lintas website.<br/>
+						Kami dapat membantu bisnis Anda, jika Anda menganggap bahwa Web merupakan kunci dari kesuksesan bisnis Anda.<br/><br/>
+						
+						<b>Sebelum menghubungi kami, berikut adalah beberapa informasi yang dapat kami bagikan.</b><br/>
+						Kami merupakan sebuah tim yang terdiri dari orang-orang yang berasal dari Jepang dan Indonesia. Anda dapat berkomunikasi dengan kami menggunakan Bahasa Indonesia, Inggris dan Jepang.<br/>
+						Banyak klien yang bertanya kepada kami “Berapa biaya untuk mengembangkan sebuah website?” Ini merupakan pertanyaan yang sangat sulit.<br/>
+						Kami berpengalaman mengembangkan website sederhana seharga Rp.15.000.000 namun sulit bagi kami untuk mengatakan bahwa website sederhana seperti itu akan memberikan dampak bagi bisnis Anda. Jika Anda membandingkan, tentu ada banyak perusahaan pengembang web yang mempunyai harga lebih murah dibandingkan kami. Namun, kami yakin bahwa kami dapat memberikan Anda nilai tersediri jika Anda mencari web developer yang dapat diandalkan yang mampu membawa Anda menuju kesuksesan bisnis.<br/>
+						Kami juga siap membantu Anda dalam mengembangkan website berskala kecil dengan anggaran yang terbatas.<br/><br/>
+					
 						Silakan menghubungi kami untuk pembuatan website, media sosial, konsultasi seputar web, atau desain.<br/><br/>
 	                    <?php if(isset($msg))
 	                    {
@@ -194,7 +207,6 @@ if(isset($_POST['submitted']))
 									  </div>
 								  </div>
 								</form>
-								<br/>
 							</div>
 							<div class="col-lg-5">
 								<span class="yellow">Alamat :</span><br/>
@@ -214,6 +226,64 @@ if(isset($_POST['submitted']))
 								</div>
 							</div>
 						</div>
+					</div>
+					<div class="bg-grey">
+						<div class="title-bg-grey">Prosedur Permintaan Informasi</span></div><br/><br/>
+						<div class="text-center" style="font-size:120%">
+							Kami akan menghubungi Anda dalam 1 hari kerja<br/>
+							↓<br/>
+							Kami akan mengkonfirmasi beberapa hal dengan Anda.<br/>
+							↓<br/>
+							Kami akan mendetilkan kebutuhan serta membuatkan proposal proyek untuk Anda.<br/>
+							↓<br/>
+							Pembuatan kontrak dan memulai pengerjaan proyek
+						</div>
+					</div>
+					<div class="form-container">	
+						<br/>
+						<span class="characteristic-title">Contoh Permintaan</span><br/><br/>
+						<ul class="joinus-ul">
+							<li>Kami ingin mengembangkan sebuah website</li>
+							<li>Kami ingin memperbaharui atau mengupdate website kami</li>
+							<li>Kami ingin mengembangkan halaman kampanye / landing page</li>
+							<li>Kami ingin melakukan outsourcing untuk operasional website kami</li>
+							<li>Kami mencari penyewaan web server dan perusahaan untuk mengelolanya.</li>
+							<li>Kami ingin mengembangkan sistem web</li>
+							<li>Kami ingin membuat aplikasi Android atau iOS (iPhone)</li>
+							<li>Kami ingin meningkatkan SEO dari website yang kami miliki</li>
+							<li>Kami ingin memasang atau mengoperasikan iklan di Internet</li>
+							<li>Kami ingin menganalisa trafik yang terjadi pada website kami</li>
+							<li>Kami mencari sebuah perusahaan untuk konsultasi bisnis internet kami</li>
+							<li>Kami ingin melakukan pemasaran konten</li>
+							<li>Kami ingin melakukan pemotretan dan pembuatan video</li>
+							<li>Kami mencari perusahaan yang dapat mendesain profil perusahaan atau hasil cetakan lainnya untuk pameran</li>
+						</ul>
+					</div>
+					<div class="bg-grey">
+						<div class="title-bg-grey">FAQ</span></div><br/><br/>
+						<div class="qa-list">Q. Apakah memungkinkan bagi Anda untuk memproses proyek menggunakan Bahasa Inggris?</div>
+						<div class="qa-list">A. Pada umumnya bisa saja, tapi mungkin akan ada beberapa kesulitan ketika memprosesnya dalam bahasa Inggris. Namun, Anda tidak perlu khawatir sebab kebanyakan dari staff kamu mampu berkomunikasi dengan bahasa Inggris cukup untuk memproses proyek tersebut. Kami juga menerima proyek yang berasal dari perusahaan di luar negeri.</div><br/>
+
+						<div class="qa-list">Q. Dapatkah Anda mengadakan pertemuan di luar negeri?</div>
+						<div class="qa-list">A. Terkait hal ini kami akan mendiskusikannya dengan Anda terlebih dahulu. Biasanya kami menawarkan percakapan via video seperti Skype untuk melakukan hal tersebut, tapi kami juga dapat bersikap fleksibel tergantung dari kondisi dan kasus yang dihadapi.</div><br/>
+
+						<div class="qa-list">Q. Kami berpikir untuk mengganti outsourcer sistem atau website kami dan dengan tim Anda.</div>
+						<div class="qa-list">A. Silahkan hubungi kami jika Anda berpikir seperti itu, jangan ragu dan khawatir perihal dokumentasi dan sebagainya. Sebab, pada beberapa kasus yang telah kami alami, kami dapat mengelola dan mengoperasikan web / sistem meskipun dengan dokumentasi yang minim selama outsourcer sebelumnya menggunakan teknologi yang pada umumnya telah dipakai.</div><br/>
+
+						<div class="qa-list">Q. Kami mencari developer untuk membangun sebuah sistem manajemen untuk bisnis kami.</div>
+						<div class="qa-list">A. Dengan pengalaman kami sebagai pengembang sistem, kami dapat mengembangkan berbagai macam sistem, seperti sistem manajemen pelanggan, sistem manajemen peminjaman, sistem rekrutmen, sistem penunjuk, e-commerce, sistem manajemen konten, dan lain-lain. Kami juga ahli dalam pengembangan sistem dengan teknologi website yang umumnya digunakan. Silahkan hubungi kami untuk berdiskusi dan menanyakan hal ini lebih lanjut.</div><br/>
+
+						<div class="qa-list">Q. Kami ingin bermitra atau menjadi distributor LOGIQUE.</div>
+						<div class="qa-list">A. Mari kita bicarakan hal ini secara rinci. Silahkan kunjungi kantor kami jika Anda mempunyai rencana ke Jakarta.</div><br/>
+
+						<div class="qa-list">Q. Kami ingin membuat aplikasi Android atau iOS (iPhone).</div>
+						<div class="qa-list">A. Kami mampu mengembangkan aplikasi Android dan iOS untuk Anda. Jika Anda inginkan, kami dapat merencanakan pembuatan aplikasi tersebut untuk Anda.</div><br/>
+
+						<div class="qa-list">Q. Kami ingin mencetak alat pemasaran tapi apakah Anda juga menyediakan layanan pencetakan selain desain?</div>
+						<div class="qa-list">A. Tentu saja kami dapat membantu mendesain dan mencetak pamflet sekaligus untuk Anda. Selain itu, kami juga bisa mendesain dan mencetak produk lainnya seperti kaos. Namun, jika Anda ingin mencetak sesuatu yang sangat sulit, lebih baik Anda mencari perusahaan percetakan khusus. Kami juga dapat memperkenalkan kepada Anda perusahaan yang kami tahu jika Anda menginginkannya.</div><br/>
+
+						<div class="qa-list">Q. Apakah Anda mampu mengimplementasikan SEO dalam bahasa Indonesia?</div>
+						<div class="qa-list">A. Ya, kami mempunyai keahlian SEO yang kami tunjukkan di berbagai situs yang telah berada di deretan paling atas pada berbagai industri, seperti keuangan, perjalanan, pendidikan, dan lain-lain. Tim kami terdiri dari penulis konten dan pemasaran yang berasal dari Indonesia yang akan memberikan hasil terbaik untuk pelayanan SEO bagi Anda. Selain itu, kami juga dapat menerapkan SEO dalam bahasa Inggris dan Jepang dengan baik.</div><br/>
 					</div>
 				</div>
 			</div>

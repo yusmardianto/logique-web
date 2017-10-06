@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 require_once("../form/fgcontactform.php");
 
 $formproc = new FGContactForm();
@@ -156,6 +156,19 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="title"><b>Contact</b><span class="yellow">Us</span></div>
 					<div class="form-container">
+						“We would like to grow our Web as one of the most important sales channels.“<br/>
+						“would like to make a difference from competitors in marketing by utilizing Web.“<br/>
+						“would like to make a difference from competitors in marketing by utilizing Web.“<br/><br/>
+						
+						LOGIQUE has led our clients' web-marketing in all over south east Asia to successes in their business by developing websites, developing web systems, building mobile apps, improving SEO, and analyzing traffics.<br/>
+						We can contribute to your business if you think Web is the key to the success for your business.<br/><br/>
+						
+						<b>Before contacting us.</b><br/>
+						We are consist of Japanese and Indonesian team. You can contact us either in Indonesian, English, or Japanese.<br/>
+						Many customers ask us “How much does it cost to develop a website?“ That is a very difficult question.<br/>
+						We have experienced developing a simple website with around 15,000,000 IDR, but it is hard to tell you that the website is going to bring you any results. If you compare web developers in Indonesia there are a lot of companies that are much cheaper than us. We are sure that we can deliver a value in case you are looking for a reliable web developer that leads you to the goal and success for your business.<br/>
+						Of course we also will help you as well in case you would like to develop a minimum-scaled website with limited budget.<br/><br/>
+						
 						Feel free to contact LOGIQUE about website creation, social media, inquiry about web-related consultation, or designing.<br/><br/>
 	                    <?php if(isset($msg))
 	                    {
@@ -196,7 +209,7 @@ if(isset($_POST['submitted']))
 								<br/>
 							</div>
 							<div class="col-lg-5">
-								<span class="yellow">Alamat :</span><br/>
+								<span class="yellow">Address :</span><br/>
 								Ad Premier Building 19th Floor, <br/>
 								Jalan Tb. Simatupang No. 5,  Pasar Minggu, <br/>
 								Jakarta 12540.  INDONESIA<br/><br/>
@@ -213,6 +226,64 @@ if(isset($_POST['submitted']))
 								</div>
 							</div>
 						</div>
+					</div>
+					<div class="bg-grey">
+						<div class="title-bg-grey">Procedure from inquiry</span></div><br/><br/>
+						<div class="text-center" style="font-size:120%">
+							We will reach you within 1 working day.<br/>
+							↓<br/>
+							We will confirm several things with you.<br/>
+							↓<br/>
+							Deeper hearing, proposal, and quotation.<br/>
+							↓<br/>
+							Contract and Start the Project
+						</div>
+					</div>
+					<div class="form-container">	
+						<br/>
+						<span class="characteristic-title">Inquiry example</span><br/><br/>
+						<ul class="joinus-ul">
+							<li>We would like to develop a website.</li>
+							<li>We would like to renew / update our website.</li>
+							<li>We would like to develop campaign page / landing page.</li>
+							<li>We would like to outsource our website operation.</li>
+							<li>We are looking for web server to rent and a company to maintain it.</li>
+							<li>We would like to develop web system.</li>
+							<li>We would like to build mobile apps.</li>
+							<li>We would like to improve SEO on our website.</li>
+							<li>We would like to post / operate internet advertisement.</li>
+							<li>We would like to analyze the traffics on our website.</li>
+							<li>We would like a company to consult our internet business.</li>
+							<li>We would like to conduct contents marketing.</li>
+							<li>We would like to conduct photo shooting and video creation.</li>
+							<li>We are looking for a company that can design company profile or other printings for exhibition.</li>
+						</ul>
+					</div>
+					<div class="bg-grey">
+						<div class="title-bg-grey">FAQ</span></div><br/><br/>
+						<div class="qa-list">Q. Is it possible for you to proceed the project communicating in English?</div>
+						<div class="qa-list">A. It is basically possible, thought there might be some difficult cases to proceed in English. Most of our staffs are able to communicate in English enough to proceed the projects. We are also open to the projects with companies in overseas.</div><br/>
+
+						<div class="qa-list">Q. Is it possible for you to have meetings overseas?</div>
+						<div class="qa-list">A. Let us discuss about it with you first. Mostly we are offering video conference, but we might be able to go flexible depending on the case.</div><br/>
+
+						<div class="qa-list">Q. We are thinking to change our current web / system outsourcer and replace them with you.</div>
+						<div class="qa-list">A. Please contact us without any hesitation first and you do not need to worry too much about documentation and so on. In most of the cases we experienced, we are able to manage and operate the web / system even when there is not much handover documents, as long as the previous outsourcer was using general technologies.</div><br/>
+
+						<div class="qa-list">Q. We are looking for a developer to build a management system for our business.</div>
+						<div class="qa-list">A. We are capable of developing various kinds of system with experiences of system developing such as customer management system, loan management system, recruitment system, pointing system, e-Commerce, contents management system, and more. We are expertized in system-developing with open web technologies. Please contact us to discuss more details with us.</div><br/>
+
+						<div class="qa-list">Q. We want to have a partnership / distributor contract with LOGIQUE.</div>
+						<div class="qa-list">A. Let us talk about it with you in detail. Please feel free to visit our office if your planning any trips to Jakarta.</div><br/>
+
+						<div class="qa-list">Q. We want to build an mobile application.</div>
+						<div class="qa-list">A. We are capable of developing both Android and iOS applications for you. We will conduct planning of the mobile application as well if you would like us to.</div><br/>
+
+						<div class="qa-list">Q. We would like to print a marketing tool but are you providing printing service other than designing?</div>
+						<div class="qa-list">A. We can of course both design and print pamphlets. And we are also able to design and print other products such as T-shirts. In case you need to print something extremely difficult, you might better look for other company. We can also introduce you to the companies that we know if you would like us to.</div><br/>
+
+						<div class="qa-list">Q. Are you capable of implementing SEO in Indonesian language?</div>
+						<div class="qa-list">A. Yes. We have proved our SEO skills showing various website on the upper ranks in many industries such as finance, travel, education, etc. Our team that consist of Indonesian contents writers and Indonesian marketer will provide you the best result in SEO. We are also able to implement SEO in English and Japanese as well.</div><br/>
 					</div>
 				</div>
 			</div>

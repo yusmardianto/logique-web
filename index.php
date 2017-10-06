@@ -28,6 +28,15 @@
 
     <!-- Bootstrap 
 	<link href="css/bootstrap.min.css" rel="stylesheet">-->
+	<script type="text/javascript">
+		/* First CSS File */
+		var giftofspeed = document.createElement('link');
+		giftofspeed.rel = 'stylesheet';
+		giftofspeed.href = 'css/bootstrap.min.css';
+		giftofspeed.type = 'text/css';
+		var godefer = document.getElementsByTagName('link')[0];
+		godefer.parentNode.insertBefore(giftofspeed, godefer);
+	</script>
 	<noscript>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
 	</noscript>
@@ -152,16 +161,7 @@
 			
 			<br/>
 		  
-		</div>	
-		<script type="text/javascript">
-			/* First CSS File */
-			var giftofspeed = document.createElement('link');
-			giftofspeed.rel = 'stylesheet';
-			giftofspeed.href = 'css/bootstrap.min.css';
-			giftofspeed.type = 'text/css';
-			var godefer = document.getElementsByTagName('link')[0];
-			godefer.parentNode.insertBefore(giftofspeed, godefer);
-		</script>
+		</div>
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/slick.min.js"></script>		
