@@ -116,7 +116,26 @@
 			
 			<div id="contentsArea">
 				<div id="contents">
-					<img src="../img/about-us-main-visual.png" class="img-in-about"/>
+					<!--<img src="../img/about-us-main-visual.png" class="img-in-about"/>-->
+					<div id="profile" class="carousel slide" data-ride="carousel">
+						  <div class="carousel-inner">
+							<div class="item active">
+							  <img src="../img/tour5.jpg" alt="Company Profile 1">
+							</div>
+							<div class="item">
+							  <img src="../img/foto-about2.jpg" alt="Company Profile 2">
+							</div>							
+						  </div>
+						  <!-- Left and right controls -->
+						  <a class="left carousel-control" href="#profile" data-slide="prev">
+							<span class="glyphicon glyphicon-chevron-left"></span>
+							<span class="sr-only">Previous</span>
+						  </a>
+						  <a class="right carousel-control" href="#profile" data-slide="next">
+							<span class="glyphicon glyphicon-chevron-right"></span>
+							<span class="sr-only">Next</span>
+						  </a>
+						</div>
 					<div class="title"><b>About</b><span class="yellow">Us</span></div>
 					<div class="form-container">
 						LOGIQUE are web developers providing digital marketing and creating website / web system. We support developing website / web system and maintenance, in Jakarta, Indonesia, and overseas like Japan. Other than our web-related services such as web design, internet marketing, SEO, campaign utilizing social media maintenance (Facebook, Instagram, etc.), and mobile application development, we are also providing design & printing service such as company profile, catalog, leaflet, etc. <br/><br/>
@@ -130,6 +149,65 @@
 							<li>LOGIQUE can support you from creating a simple corporate website up to a new web service for you to get shares in Indonesian market. </li>
 							<li>As a flexible small web developer or as a reliable system developer with strong security, we adopt our styles into your expectation and maximize our values.</li>
 						</ul>
+					</div>
+					
+					<div class="bg-grey profile-comp">
+						<div class="title"><b>Company</b><span class="yellow">Overview</span></div>
+						<div class="row data-profile-comp">
+							<div class="col-sm-3 col-xs-12">
+								Company Name
+							</div>
+							<div class="col-sm-1 hidden-xs">
+								:
+							</div>
+							<div class="col-sm-8 col-xs-12">
+								PT. Logique Digital Indonesia
+							</div>
+						</div>
+						<div class="row data-profile-comp">
+							<div class="col-sm-3 col-xs-12">
+								Service
+							</div>
+							<div class="col-sm-1 hidden-xs">
+								:
+							</div>
+							<div class="col-sm-8 col-xs-12">
+								 IT Consultation, Website Creation, Design Making, System Development
+							</div>
+						</div>
+						<div class="row data-profile-comp">
+							<div class="col-sm-3 col-xs-12">
+								Director
+							</div>
+							<div class="col-sm-1 hidden-xs">
+								:
+							</div>
+							<div class="col-sm-8 col-xs-12">
+								Takashi Yoshitsugu
+							</div>
+						</div>
+						<div class="row data-profile-comp">
+							<div class="col-sm-3 col-xs-12">
+								Address
+							</div>
+							<div class="col-sm-1 hidden-xs">
+								:
+							</div>
+							<div class="col-sm-8 col-xs-12">
+								Ad Premier Building 19<sup>th</sup> Floor, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12540, INDONESIA
+							</div>
+						</div>
+						<div class="row data-profile-comp">
+							<div class="col-sm-3 col-xs-12">
+								Phone
+							</div>
+							<div class="col-sm-1 hidden-xs">
+								:
+							</div>
+							<div class="col-sm-8 col-xs-12">
+								+62(21) 2270 8935 / 36
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>

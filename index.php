@@ -26,18 +26,7 @@
 	</script>
     <title>Perusahaan Jasa Pembuatan Website dan Aplikasi Terpercaya Asal Jepang | LOGIQUE Digital Indonesia</title>
 
-    <!-- Bootstrap 
-	<link href="css/bootstrap.min.css" rel="stylesheet">-->
-	<script type="text/javascript">
-		/* First CSS File */
-		var giftofspeed = document.createElement('link');
-		giftofspeed.rel = 'stylesheet';
-		giftofspeed.href = 'css/bootstrap.min.css';
-		giftofspeed.type = 'text/css';
-		var godefer = document.getElementsByTagName('link')[0];
-		godefer.parentNode.insertBefore(giftofspeed, godefer);
-	</script>
-	<noscript>
+	<link href="css/bootstrap.min.css" rel="stylesheet">	
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
 	</noscript>
 	

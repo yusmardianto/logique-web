@@ -116,7 +116,26 @@
 			
 			<div id="contentsArea">
 				<div id="contents">
-					<img src="../img/about-us-main-visual.png" class="img-in-about"/>
+					<!--<img src="../img/about-us-main-visual.png" class="img-in-about"/>-->
+					<div id="profile" class="carousel slide" data-ride="carousel">
+						  <div class="carousel-inner">
+							<div class="item active">
+							  <img src="../img/tour5.jpg" alt="Company Profile 1">
+							</div>
+							<div class="item">
+							  <img src="../img/foto-about2.jpg" alt="Company Profile 2">
+							</div>							
+						  </div>
+						  <!-- Left and right controls -->
+						  <a class="left carousel-control" href="#profile" data-slide="prev">
+							<span class="glyphicon glyphicon-chevron-left"></span>
+							<span class="sr-only">Previous</span>
+						  </a>
+						  <a class="right carousel-control" href="#profile" data-slide="next">
+							<span class="glyphicon glyphicon-chevron-right"></span>
+							<span class="sr-only">Next</span>
+						  </a>
+						</div>
 					<div class="title"><b>About</b><span class="yellow">Us</span></div>
 					<div class="form-container">	
 						LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。 インドネシアのジャカルタからインドネシア国内の企業さま、また日本などインドネシア国外のお客様に対して、ウェブサイトやシステムの制作開発、運用のご支援をしています。 WEBデザイン、インターネットマーケティングやSEO対策、FacebookやInstagram等のソーシャルメディアを活用したキャンペーン実施からモバイル・アプリケーション開発までDigital領域で幅広くサービス提供していることに加え、会社概要やカタログ、リーフレットのデザイン・印刷も行っています。<br/><br/>
@@ -131,6 +150,65 @@
 							<li>シンプルなコーポレートWEBを公開したいというものから、新しいWEBサービスでインドネシアのマーケットを取りに行くという案件では、予算も投下リソースもスケジュールも全て異なりますが、LOGIQUEではどちらにも対応可能です。</li>
 							<li>ある時は小回りのきく小さなWEB制作会社として、場合によってはセキュリティもしっかりした信頼できるシステム開発会社として、お客様からのご期待に応じてそのスタイルを変えながら御社のパートナーとして高いValueを提供していきたいと考えています。</li>
 						</ul>
+					</div>
+					
+					<div class="bg-grey profile-comp">
+						<div class="title"><b>Company</b><span class="yellow">Overview</span></div>
+						<div class="row data-profile-comp">
+							<div class="col-sm-2 col-xs-12">
+								会社名
+							</div>
+							<div class="col-sm-1 hidden-xs">
+								:
+							</div>
+							<div class="col-sm-8 col-xs-12">
+								PT. Logique Digital Indonesia
+							</div>
+						</div>
+						<div class="row data-profile-comp">
+							<div class="col-sm-2 col-xs-12">
+								事業内容
+							</div>
+							<div class="col-sm-1 hidden-xs">
+								:
+							</div>
+							<div class="col-sm-8 col-xs-12">
+								ITコンサルティング、WEBサイト制作、デザイン制作、システム開発
+							</div>
+						</div>
+						<div class="row data-profile-comp">
+							<div class="col-sm-2 col-xs-12">
+								代表者
+							</div>
+							<div class="col-sm-1 hidden-xs">
+								:
+							</div>
+							<div class="col-sm-8 col-xs-12">
+								Takashi Yoshitsugu
+							</div>
+						</div>
+						<div class="row data-profile-comp">
+							<div class="col-sm-2 col-xs-12">
+								住所
+							</div>
+							<div class="col-sm-1 hidden-xs">
+								:
+							</div>
+							<div class="col-sm-8 col-xs-12">
+								Ad Premier Building 19<sup>th</sup> Floor, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12540, INDONESIA
+							</div>
+						</div>
+						<div class="row data-profile-comp">
+							<div class="col-sm-2 col-xs-12">
+								TEL
+							</div>
+							<div class="col-sm-1 hidden-xs">
+								:
+							</div>
+							<div class="col-sm-8 col-xs-12">
+								+62(21) 2270 8935 / 36
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
