@@ -74,7 +74,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank">
+							<a href="https://www.logique.co.id/blog/ja" target="_blank">
 								<img src="../img/blog.png" alt="Blog"/><br/>
 								Blog
 							</a>
