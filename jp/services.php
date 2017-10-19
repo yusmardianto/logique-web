@@ -119,6 +119,17 @@
 					<div class="title"><b>Our</b><span class="yellow">Services</span></div>
 					<div class="form-container">
 						LOGIQUEはインドネシア国内でウェブサイト(ホームページ)やウェブシステム、モバイルアプリケーションの開発、SNS活用などお客様がインターネットを活用するためのご支援をしています。WEBやWEBシステムの制作・開発、運用からインターネットマーケティングやSEO対策などまで、Web、インターネットに関するサービスを幅広く提供しております。 プログラマー、デザイナー、コンテンツライターを自社内に抱えており、フレキシブルかつ安価な価格でのサービス提供が可能です。インドネシアにて長い経験と多くの実績を持っておりますので安心してご依頼ください。
+					</div>
+					<div class="feel-free row-center-sm" style="font-size: 18px;">
+						<div class="col-sm-8">
+							その他詳細については、お気軽にお問い合わせください。
+						</div>
+						<div class="col-sm-4">
+							<a href="contact.php" class="btn btn-contact-service">お問い合わせ</a>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="form-container">
 						<br/><br/>
 						<div class="panel-group" id="vacancy">
 						  <div class="panel panel-default">
@@ -358,15 +369,6 @@
 						</div>
 					</div>-->
 					<div class="clearfix"></div>
-					<div class="feel-free row-center-sm">
-						<div class="col-sm-8">
-							その他詳細については、お気軽にお問い合わせください。
-						</div>
-						<div class="col-sm-4">
-							<a href="contact.php" class="btn btn-contact-service">お問い合わせ</a>
-						</div>
-						<div class="clearfix"></div>
-					</div>
 					<div class="workflow-container">
 						<div class="title-workflow">開発の流れ</div>
 						<div class="row">
@@ -513,6 +515,15 @@
 					</div>
 					<div class="got-project">
 						<span style="font-size:30px;">WEB関連でお困りの事があれば、</span><br/>
+						<div class="list-on-services" style="max-width: 500px;">
+							<ul class="fa-ul">
+								<li><i class="fa-li fa fa-check"></i> WEBサイトを制作したい</li>
+								<li><i class="fa-li fa fa-check"></i> WEBサイトをリニューアル・変更したい</li>
+								<li><i class="fa-li fa fa-check"></i> キャンペーンページ、ランディングページを作りたい</li>
+								<li><i class="fa-li fa fa-check"></i> WEBサイトの運用を委託したい</li>
+								<li><i class="fa-li fa fa-check"></i> WEBサーバーを探している、レンタルしたい、運用してもらいたい</li>
+							</ul>
+						</div>
 						お気軽にご相談ください。
 						<div class="text-center">
 							<a href="contact.php" class="btn btn-contact-us-black">

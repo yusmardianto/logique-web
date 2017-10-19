@@ -118,14 +118,25 @@
 				<div id="contents">
 					<div class="title"><b>Layanan</b><span class="yellow">Kami</span></div>
 					<div class="form-container">
-						LOGIQUE menyediakan bermacam-macam layanan terkait web seperti pengembangan website / sistem web, aplkasi mobile, pemasaran via Internet, optimasi mesin pencarian, dan lain-lain. Kami mampu menyediakan Anda layanan yang fleksibel dengan harga yang masuk akal karena kami memiliki programmer, desainer, dan penulis konten.
-						<br/><br/>
+						LOGIQUE menyediakan bermacam-macam layanan terkait web seperti pengembangan website / sistem web, aplikasi mobile, digital marketing, optimasi mesin pencarian (SEO), dan lain-lain. Kami mampu menyediakan solusi yang sesuai kebutuhan bisnis Anda dengan harga yang terjangkau dan berkualitas. 
+					</div>
+					<div class="feel-free row-center-sm">
+						<div class="col-sm-8">
+							Hubungi kami untuk informasi lebih lanjut.
+						</div>
+						<div class="col-sm-4">
+							<a href="contact.php" class="btn btn-contact-service">Hubungi LOGIQUE</a>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="form-container">
+					<br/><br/>
 						<div class="panel-group" id="vacancy">
 						  <div class="panel panel-default">
 							<div class="panel-heading">
 								<a data-toggle="collapse" data-parent="#vacancy" href="#website-creation" class="collapsed">
 									<h4 class="panel-title">
-										<img src="img/html.png" alt="Website Creation"/> Website Creation
+										<img src="img/html.png" alt="Website Creation"/> Pembuatan Website
 									</h4>
 								</a>
 							</div>
@@ -133,32 +144,32 @@
 							  <div class="panel-body">
 								<ol class="fa-ul">
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Corporate Website creation</b><br/>
-										We develop a website that effectively tells visitors the value of your company brand, We also can provide you domain / web server / SSL agent service, and contents creation service depending on your needs.
+										<i class="fa-li fa fa-caret-right"></i> <b>Website Perusahaan</b><br/>
+										Kami mengembangkan website yang dapat secara efektif menyampaikan nilai perusahaan Anda. Kami juga menyediakan layanan pembelian domain, web server, SSL dan pembuatan konten sesuai kebutuhan Anda.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Multi-language Website creation</b><br/>
-										We have much developing experiences in multi-language website with English, Indonesian, and Japanese language. Other than the creation of website itself, also feel free to contact us for also translation / correction.
+										<i class="fa-li fa fa-caret-right"></i> <b>Website Multi Bahasa</b><br/>
+										Kami punya banyak pengalaman dalam mengembangkan website multi-bahasa yang mencakup Bahasa Inggris, Indonesia, dan Jepang. Selain pembuatan konten, Anda juga dapat menghubungi kami jika memerlukan jasa penerjemah atau perbaikan tata bahasa pada konten website Anda.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Service Website Development</b><br/>
-										We can help you to develop from business planning up to design creation, system Website development / maintenance when you wish to develop websites such as Used car auction website, Human Resource matching website, E-commerce, and Member management CRM Website.
+										<i class="fa-li fa fa-caret-right"></i> <b>Website Layanan</b><br/>
+										Kami dapat membantu Anda mulai dari perencanaan ide bisnis, pembuatan desain, pengembangan sistem sampai dengan pengelolaan website, jika Anda ingin mengembangkan layanan berbasis web seperti lelang mobil bekas online, portal berita, toko online, dan manajemen keanggotaan (CRM).
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Recruitment Website Creation</b><br/>
-										Nowadays, it is getting harder for companies to hire an ideal human resource for their business. To have your own recruitment website is the key to succeed in hiring.
+										<i class="fa-li fa fa-caret-right"></i> <b>Website Karir</b><br/>
+										Sekarang semakin sulit bagi perusahaan untuk mendapatkan karyawan ideal yang sesuai dan cocok dengan bisnis yang dijalankan. Halaman karir website Anda adalah salah satu faktor penting  untuk kesuksesan perekrutan perusahaan Anda.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Mobile / Responsive Website Creation</b><br/>
-										Responsive coding is trending technology to fit your website into smartphone / tablet sized screen. As Indonesia has the notable amount of smartphone traffics, LOGIQUE can propose you projects that can fit with Indonesian market bringing many experiences and knowledges we had in developing responsive websites.
+										<i class="fa-li fa fa-caret-right"></i> <b>Website dengan Desain Responsif </b><br/>
+										Desain responsif merupakan suatu teknologi yang saat ini sedang populer, yang mampu membuat website Anda dapat dilihat dengan baik pada tampilan berukuran smartphone atau tablet. Hal ini sangat penting karena website di Indonesia mempunyai tingkat kunjungan yang sangat besar dari pengguna smartphone atau tablet, dan LOGIQUE dapat membantu Anda dengan pengalaman dan pengetahuan yang kami miliki terhadap teknologi responsif ini.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>LP / Campaign Website creation</b><br/>
-										Feel free to contact us about Landing page / Campaign page. We develop your website even if you want only 1 page. We also can create advertisement banners.
+										<i class="fa-li fa fa-caret-right"></i> <b>Halaman Landing / Kampanye</b><br/>
+										Silakan menghubungi kami terkait pembuatan halaman landing / kampanye untuk produk atau layanan Anda, kami akan membantu Anda walaupun hanya satu halaman. Kami juga dapat membuat banner iklan untuk menunjang kampanye iklan website Anda.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Blog</b><br/>
-										Installation & customization of Wordpress. We design & develop your blog. In case you want to customize. If you want to improve your blog / enhance security, leave it to us.
+										LOGIQUE melayani instalasi dan kustomisasi Wordpress. Kami dapat mendesain, mengembangkan, dan meningkatkan keamanan blog Anda sesuai kebutuhan. 
 									</li>
 								</ol>
 							  </div>
@@ -168,7 +179,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#web-system" class="collapsed">
 								<h4 class="panel-title">
-									<img src="img/web-system.png" alt="Website Creation"/> Web System Development
+									<img src="img/web-system.png" alt="Website Creation"/> Pengembangan Sistem WEB
 								</h4>
 							  </a>
 							</div>
@@ -176,20 +187,20 @@
 							  <div class="panel-body">
 								<ol class="fa-ul">
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>CMS development / Maintenance</b><br/>
-										We develop flexible and secure CMS that allows you to maintain easily after the delivery. We are able both to develop CMS from scratch and customize existing CMS products. We also provide maintenance service of your CMS. We are maintaining some CMSs owned by big companies and banks.
+										<i class="fa-li fa fa-caret-right"></i> <b>Pengembangan dan Pengelolaan Sistem Manajemen Konten (CMS)</b><br/>
+										LOGIQUE melayani pengembangan CMS yang fleksibel dan aman sehingga memungkinkan Anda dapat melakukan pengelolaan dengan mudah. Kami dapat mengembangkan CMS dari awal sesuai kebutuhan atau dengan memanfaatkan produk CMS yang telah ada. Kami juga dapat membantu mengelola CMS Anda. Saat ini, kami telah melakukan pengelolaan CMS untuk beberapa perusahaan besar dan bank yang ada di Indonesia.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Member Management / Contract Management system</b><br/>
-										CRM system, largescale-member management system. As we have experiences in developing member management system for banks, we have comprehensive security policy.
+										<i class="fa-li fa fa-caret-right"></i> <b>Sistem Manajemen Pelanggan atau Keanggotaan</b><br/>
+										LOGIQUE melayani pembuatan sistem manajemen pelanggan (CRM) atau sistem manajemen keanggotaan berskala besar. Kami memiliki standar keamanan yang komprehensif dengan pengalaman kami menyediakan sistem manajemen keanggotaan untuk bank.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>E-Commerce </b><br/>
-										We are able to develop an E-commerce website that has quite complicated function such as Market place and Multi-level marketing. We develop the E-commerce website following unique Indonesian rules of payment and calculation of delivery cost. We also have plenty of experiences to develop E-commerce website with various Indonesian payment gateways.
+										Kami mampu mengembangkan E-Commerce dengan tingkat kesulitan atau kompleksitas yang tinggi seperti marketplace B2B2C, termasuk perhitungan pembayaran dan pengiriman sesuai dengan peraturan atau layanan yang tersedia di Indonesia. Selain itu, kami juga punya banyak pengalaman mengintegrasikan berbagai macam gerbang pembayaran (payment gateway).
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Campaign Management / Contest Application Management System</b><br/>
-										We often develop back-end management system other than campaign web page itself. We develop Campaign / Contest Application system integrating various functions , such as managing applicatnts, informing the result to winners, developing main system development.
+										<i class="fa-li fa fa-caret-right"></i> <b>Manajemen Kampanye / Kontes</b><br/>
+										Selain mengembangkan halaman web untuk keperluan kampanye atau kontes, kami juga sering mengembangkan sistem manajemen untuk keperluan tersebut. Sistem tersebut biasanya terintegrasi dengan berbagai fungsi seperti pengelolaan kontestan atau tugas perlombaan dan pemilihan atau informasi pemenang.
 									</li>
 								</ol>
 							  </div>
@@ -199,7 +210,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#mobile-solution" class="collapsed">
 								<h4 class="panel-title">
-									<img src="img/mobile-solution.png" alt="Mobile Solution"/> Mobile Solution
+									<img src="img/mobile-solution.png" alt="Mobile Solution"/> Solusi Mobile
 								</h4>
 							  </a>
 							</div>
@@ -207,12 +218,12 @@
 							  <div class="panel-body">
 								<ol class="fa-ul">
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Mobile Website Creation </b><br/>
-										It is important to approach Mobile users properly since most of the internet traffic in Indonesia is consist of Mobile. We develop responsive website that can optimize its UI depending on the device screen size. We propose flexibly in case the project requires new technologies such as PWA or AMP.
+										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Website versi Mobile</b><br/>
+										Sangat penting untuk menjangkau pengguna mobile dengan tepat karena kontribusi mereka terhadap tingkat kunjungan web di Indonesia sangat besar. LOGIQUE mengembangkan responsive website yang dapat mengoptimasi tampilan website (UI) sesuai dengan ukuran layar. Kami juga secara fleksibel dapat menawarkan dan mengimplementasikan penggunaan teknologi baru seperti PWA atau AMP. 
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Mobile Application Development</b><br/>
-										We are able to develop Android / iOS Apps that suit Indonesian market. We just not plan or use new technologies, but we use the plan into UI and UX, design, application development, and register the apps to provide you comprehensive service.
+										<i class="fa-li fa fa-caret-right"></i> <b>Pengembangan Aplikasi Mobile</b><br/>
+										Kami melayani pengembangan aplikasi Android/ iOS yang sesuai dengan pasar Indonesia. Tidak hanya merancang atau mengimplementasikan teknologi baru, tetapi kami juga mengoptimalkan UI dan UX, desain, pengembangan aplikasi, hingga membantu Anda mendaftarkan aplikasi ke App Store / Google Play. Sebuah layanan yang komprehensif untuk Anda.
 									</li>
 								</ol>
 							  </div>
@@ -222,7 +233,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#digital-marketing" class="collapsed">
 								<h4 class="panel-title">
-									<img src="img/digital-marketing.png" alt="Digital Marketing"/> Digital Marketing
+									<img src="img/digital-marketing.png" alt="Digital Marketing"/> Pemasaran Digital
 								</h4>
 							  </a>
 							</div>
@@ -231,19 +242,19 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>SEO</b><br/>
-										We commit to the result by not only implementing SEO but website improvement. We have great experience in SEO for Japanese, Indonesian, and English language. We had succeeded to keep one of our clients (Indonesian finance company) on the 1st place in Google search result for a long time, as a notable example.
+										Kami berfokus pada hasil dengan tidak hanya mengimplementasikan metode SEO saja namun termasuk peningkatan atau perbaikan website itu sendiri. Kami punya banyak pengalaman SEO dalam bahasa Jepang, Indonesia, dan Inggris. Salah satu contoh hasil implementasi SEO kami adalah kami berhasil membuat dan mempertahankan satu klien (perusahaan finansial di Indonesia) pada posisi pertama halaman pencarian Google untuk waktu yang lama.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Internet Business Consulting</b><br/>
-										We create business with you as an internet advisor. We can help you to launch new business or expanding existing business utilizing the power of internet.
+										<i class="fa-li fa fa-caret-right"></i> <b>Konsultasi Bisnis Digital</b><br/>
+										Sebagai penasihat atau konsultan digital, kami akan membuat bisnis bersama dengan Anda. Kami dapat membantu Anda menciptakan bisnis baru atau mengembangkan bisnis Anda dengan memanfaatkan kekuatan Internet.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Contents Creation</b><br/>
-										We can create contents for your website such as image, video, and text contents. We also can translate the text contents that you provided. We also can create photo shooting / drone shooting by cooperating our partner. Our Indonesian & Japanese staffs will create your contents with their professional knowledge of SEO.
+										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Konten</b><br/>
+										LOGIQUE melayani pembuatan konten untuk website Anda seperti foto, video dan teks. Kami juga dapat membantu menerjemahkan konten yang Anda berikan ke dalam Bahasa Indonesia, Inggris, atau Jepang; serta melakukan pengambilan foto dengan fotografer atau drone melalui kerjasama dengan mitra kami. Penulis kami akan memberikan Anda konten yang cocok untuk SEO.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Internet Advertisement / Digital Marketing Consulting</b><br/>
-										Feel free to contact us to increasing prospects / conversions by internet advertisement, internet PR strategy, SNS marketing, etc. We will provide you effective solutions cooperating our partner.
+										<i class="fa-li fa fa-caret-right"></i> <b>Iklan Digital / Konsultasi Pemasaran Digital</b><br/>
+										Silakan menghubungi kami jika Anda memerlukan bantuan untuk meningkatkan jumlah prospek atau konversi dengan menggunakan iklan, strategi pemasaran digital, pemasaran melalui media social, dll. Kami akan menyediakan layanan yang efektif bagi Anda melalui kerjasama dengan mitra kami.
 									</li>
 								</ol>
 							  </div>
@@ -253,7 +264,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#others" class="collapsed">
 								<h4 class="panel-title">
-									<img src="img/others.png" alt="Digital Marketing"/> Others
+									<img src="img/others.png" alt="Digital Marketing"/> Lainnya
 								</h4>
 							  </a>
 							</div>
@@ -261,12 +272,12 @@
 							  <div class="panel-body">
 								<ol class="fa-ul">
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Company Profile / Catalog / Leaflet Design Creation & Printing</b><br/>
-										We are able to print not only paper-based printings for business, but bag, T-shirts, or even more. We handle the project from designing until we deliver it controlling partner printing companies. Feel free to contact us about company profile, leaflet samples for exhibition, or other promotion products.
+										<i class="fa-li fa fa-caret-right"></i> <b>Desain dan Pencetakan Profil Perusahaan/ Katalog / Selebaran</b><br/>
+										LOGIQUE tidak hanya mampu mencetak pada media kertas untuk keperluan bisnis namun juga termasuk pembuatan tas, kaos, dan lain sebagainya. Layanan kami mencakup desain hingga pengiriman melalui kolaborasi dengan mitra perusahan percetakan kami. Silakan menghubungi kami jika Anda memerlukan bantuan terkait profil perusahaan, contoh selebaran untuk acara, atau produk promosi lainnya. 
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Web Server & Domain Agent Service</b><br/>
-										We will provide you agent service to obtain“co.id”(Indonesian corporate domain), setup DNS, setup SSL. We also can rent a Web server for you.
+										<i class="fa-li fa fa-caret-right"></i> <b>Agen Web Server dan Domain</b><br/>
+										Kami dapat berperan sebagai agen untuk Anda mendapatkan domain .co.id (domain perusahaan Indonesia) serta melakukan konfigurasi DNS atau SSL. Selain itu, kami juga dapat menyewakan layanan server WEB untuk Anda.
 									</li>
 								</ol>
 							  </div>
@@ -358,17 +369,8 @@
 						</div>
 					</div>-->
 					<div class="clearfix"></div>
-					<div class="feel-free row-center-sm">
-						<div class="col-sm-8">
-							Hubungi kami untuk informasi lebih lanjut.
-						</div>
-						<div class="col-sm-4">
-							<a href="contact.php" class="btn btn-contact-service">Hubungi Kami</a>
-						</div>
-						<div class="clearfix"></div>
-					</div>
 					<div class="workflow-container">
-						<div class="title-workflow">Workflow Kami</div>
+						<div class="title-workflow">Proses Kerja LOGIQUE</div>
 						<div class="row">
 							<div class="col-md-5ths">
 								<div class="div-for-workflow">
@@ -512,11 +514,21 @@
 						</div>-->
 					</div>
 					<div class="got-project">
-						<span>Anda mempunyai project?</span><br/>
-						Kami punya solusinya.
+						<span>Jika Anda memiliki kebutuhan untuk:</span><br/>
+						<div class="list-on-services">
+							<ul class="fa-ul">
+								<li><i class="fa-li fa fa-check"></i> Mengembangkan sebuah website</li>
+								<li><i class="fa-li fa fa-check"></i> Memperbaharui atau mengupdate website</li>
+								<li><i class="fa-li fa fa-check"></i> Mengembangkan halaman kampanye / landing page</li>
+								<li><i class="fa-li fa fa-check"></i> Melakukan outsourcing untuk operasional website </li>
+								<li><i class="fa-li fa fa-check"></i> Mencari penyewaan web server dan perusahaan untuk mengelolanya.</li>
+								<li><i class="fa-li fa fa-check"></i> dll.</li>
+							</ul>
+						</div>
+						LOGIQUE siap membantu Anda.
 						<div class="text-center">
 							<a href="contact.php" class="btn btn-contact-us-black">
-								Hubungi Kami
+								Hubungi LOGIQUE
 							</a>
 						</div>
 					</div>

@@ -119,6 +119,17 @@
 					<div class="title"><b>Our</b><span class="yellow">Services</span></div>
 					<div class="form-container">
 						LOGIQUE provides various web-related services such as website / web system development, mobile application development, internet marketing, SEO, etc. We are able to provide you flexible service and reasonable price since we have our own programmers, designers, and contents writers.
+					</div>
+					<div class="feel-free row-center-sm">
+						<div class="col-sm-8">
+							For more information and detail, Please contact us.
+						</div>
+						<div class="col-sm-4">
+							<a href="contact.php" class="btn btn-contact-service">Contact LOGIQUE</a>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="form-container">
 						<br/><br/>
 						<div class="panel-group" id="vacancy">
 						  <div class="panel panel-default">
@@ -358,15 +369,6 @@
 						</div>
 					</div>-->
 					<div class="clearfix"></div>
-					<div class="feel-free row-center-sm">
-						<div class="col-sm-8">
-							For more information and detail, Please contact us.
-						</div>
-						<div class="col-sm-4">
-							<a href="contact.php" class="btn btn-contact-service">Contact Us</a>
-						</div>
-						<div class="clearfix"></div>
-					</div>
 					<div class="workflow-container">
 						<div class="title-workflow">Our Workflow</div>
 						<div class="row">
@@ -512,11 +514,21 @@
 						</div>-->
 					</div>
 					<div class="got-project">
-						<span>Got a project for us?</span><br/>
-						We have the solutions.
+						<span>If you need help for:</span><br/>
+						<div class="list-on-services">
+							<ul class="fa-ul">
+								<li><i class="fa-li fa fa-check"></i> Developing a website</li>
+								<li><i class="fa-li fa fa-check"></i> Renewing / updating your website</li>
+								<li><i class="fa-li fa fa-check"></i> Developing campaign page / landing page</li>
+								<li><i class="fa-li fa fa-check"></i> Outsourcing for your website operation </li>
+								<li><i class="fa-li fa fa-check"></i> Looking for web server to rent and a company to maintain it.</li>
+								<li><i class="fa-li fa fa-check"></i> etc.</li>
+							</ul>
+						</div>
+						LOGIQUE is ready to help you.
 						<div class="text-center">
 							<a href="contact.php" class="btn btn-contact-us-black">
-								Contact Us
+								Contact LOGIQUE
 							</a>
 						</div>
 					</div>
