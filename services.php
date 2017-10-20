@@ -69,7 +69,7 @@
 						</div>
 						<div class="text-center">
 							<a href="contact.php">
-								<img src="img/contact-us.png" alt="Contact Us"/><br/>
+								<div class="img-contact"></div>
 								Hubungi Kami
 							</a>
 						</div>
