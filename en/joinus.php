@@ -40,43 +40,43 @@
 					<div class="margin-for-nav">
 						<div class="text-center">
 							<a href="index.php">
-								<img src="../img/home.png" alt="Home"/><br/>
+								<div class="img-home"></div>
 								Home
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="about.php">
-								<img src="../img/about-us.png" alt="About Us"/><br/>
+								<div class="img-about"></div>
 								About Us
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="portfolio.php">
-								<img src="../img/portfolio.png" alt="Portfolio"/><br/>
+								<div class="img-portfolio"></div>
 								Portfolio
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="services.php">
-								<img src="../img/services.png" alt="Services"/><br/>
+								<div class="img-services"></div>
 								Services
 							</a>
 						</div>
 						<div class="text-center active">
 							<a href="joinus.php">
-								<img src="../img/joinus.png" alt="Services"/><br/>
+								<div class="img-career"></div>
 								Career
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="contact.php">
-								<img src="../img/contact-us.png" alt="Contact Us"/><br/>
+								<div class="img-contact"></div>
 								Contact Us
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="https://www.logique.co.id/blog/" target="_blank">
-								<img src="../img/blog.png" alt="Blog"/><br/>
+								<div class="img-blog"></div>
 								Blog
 							</a>
 						</div>
@@ -107,6 +107,7 @@
 							  <li><a href="index.php">Home</a></li>
 							  <li class="active"><a>Career</a></li>
 							</ol>
+							<h1 class="tagline">Join the best web / mobile app developer in Indonesia.</h1>
 						</div>
 					</div>
 				</div>

@@ -39,43 +39,43 @@
 					<div class="margin-for-nav">
 						<div class="text-center">
 							<a href="index.php">
-								<img src="img/home.png" alt="Home"/><br/>
+								<div class="img-home"></div>
 								Beranda
 							</a>
 						</div>
 						<div class="text-center active">
 							<a href="about.php">
-								<img src="img/about-us.png" alt="About Us"/><br/>
+								<div class="img-about"></div>
 								Tentang Kami
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="portfolio.php">
-								<img src="img/portfolio.png" alt="Portfolio"/><br/>
+								<div class="img-portfolio"></div>
 								Portfolio
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="services.php">
-								<img src="img/services.png" alt="Services"/><br/>
+								<div class="img-services"></div>
 								Layanan
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="joinus.php">
-								<img src="img/joinus.png" alt="Services"/><br/>
+								<div class="img-career"></div>
 								Karir
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="contact.php">
-								<img src="img/contact-us.png" alt="Contact Us"/><br/>
+								<div class="img-contact"></div>
 								Hubungi Kami
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="https://www.logique.co.id/blog/" target="_blank">
-								<img src="img/blog.png" alt="Blog"/><br/>
+								<div class="img-blog"></div>
 								Blog
 							</a>
 						</div>
@@ -193,7 +193,7 @@
 								:
 							</div>
 							<div class="col-sm-8 col-xs-12">
-								Ad Premier Building 19<sup>th</sup> Floor, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12540, INDONESIA
+								Gedung AD Premier Lantai 19, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12540, INDONESIA
 							</div>
 						</div>
 						<div class="row data-profile-comp">
@@ -206,6 +206,26 @@
 							<div class="col-sm-8 col-xs-12">
 								+62(21) 2270 8935 / 36
 							</div>
+						</div>
+					</div>
+					
+					<div class="got-project">
+						<span>Jika Anda memiliki kebutuhan untuk:</span><br/>
+						<div class="list-on-services">
+							<ul class="fa-ul">
+								<li><i class="fa-li fa fa-check"></i> Mengembangkan sebuah website</li>
+								<li><i class="fa-li fa fa-check"></i> Memperbaharui atau mengupdate website</li>
+								<li><i class="fa-li fa fa-check"></i> Mengembangkan halaman kampanye / landing page</li>
+								<li><i class="fa-li fa fa-check"></i> Melakukan outsourcing untuk operasional website </li>
+								<li><i class="fa-li fa fa-check"></i> Mencari penyewaan web server dan perusahaan untuk mengelolanya.</li>
+								<li><i class="fa-li fa fa-check"></i> dll.</li>
+							</ul>
+						</div>
+						LOGIQUE siap membantu Anda.
+						<div class="text-center">
+							<a href="contact.php" class="btn btn-contact-us-black">
+								Hubungi LOGIQUE
+							</a>
 						</div>
 					</div>
 					

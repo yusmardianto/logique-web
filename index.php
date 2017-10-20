@@ -50,43 +50,43 @@
 					<div class="margin-for-nav">
 						<div class="text-center active">
 							<a href="index.php">
-								<img src="img/home.png" alt="Home"/><br/>
+								<div class="img-home"></div>
 								Beranda
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="about.php">
-								<img src="img/about-us.png" alt="About Us"/><br/>
+								<div class="img-about"></div>
 								Tentang Kami
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="portfolio.php">
-								<img src="img/portfolio.png" alt="Portfolio"/><br/>
+								<div class="img-portfolio"></div>
 								Portfolio
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="services.php">
-								<img src="img/services.png" alt="Services"/><br/>
+								<div class="img-services"></div>
 								Layanan
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="joinus.php">
-								<img src="img/joinus.png" alt="Services"/><br/>
+								<div class="img-career"></div>
 								Karir
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="contact.php">
-								<img src="img/contact-us.png" alt="Contact Us"/><br/>
+								<div class="img-contact"></div>
 								Hubungi Kami
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="https://www.logique.co.id/blog/" target="_blank">
-								<img src="img/blog.png" alt="Blog"/><br/>
+								<div class="img-blog"></div>
 								Blog
 							</a>
 						</div>
@@ -111,16 +111,17 @@
 				<div class="row">
 					<div class="col-sm-12">
 						<div class="title-container visible-xs">
+							<br/><br/>
 							<div class="text-center">
 								<p class="title-index">
 									Perusahaan <span class="yellow">Jasa Pembuatan Website dan Aplikasi </span> Terpercaya Asal Jepang
 								</p>
-								Kami siap melayani dan membantu Anda dalam melakukan pembuatan website, aplikasi, digital marketing hingga optimasi SEO. Dengan pengalaman yang kami miliki ditambah dengan proyek - proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, maka keahlian kami akan menjadi terobosan baru untuk bisnis Anda.<br/><br/>
+								LOGIQUE siap melayani dan membantu Anda dalam pembuatan website, aplikasi, digital marketing, content marketing, social media running, video creating, printing, optimasi SEO, dan server/ infra operation. Dengan pengalaman dari proyek – proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, maka keahlian kami akan menjadi terobosan baru untuk bisnis Anda.<br/><br/>
 								<center>
-									<a href="services.php" class="btn btn-see-more">Lihat lebih lanjut <i class="fa fa-arrow-circle-o-right" ></i></a>
+									<a href="services.php" class="btn btn-see-more">Lihat Layanan LOGIQUE <i class="fa fa-arrow-circle-o-right" ></i></a>
 								</center>
 							</div>
-							<br/><br/><br/><br/>
+							<br/><br/>
 						</div>
 					</div>
 				</div>
@@ -139,9 +140,9 @@
 							<h1 class="title-index">
 								Perusahaan <span class="yellow">Jasa Pembuatan Website dan Aplikasi </span> Terpercaya Asal Jepang
 							</h1>
-							Kami siap melayani dan membantu Anda dalam melakukan pembuatan website, aplikasi, digital marketing hingga optimasi SEO.<br/> Dengan pengalaman yang kami miliki ditambah dengan proyek - proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, maka keahlian kami akan menjadi terobosan baru untuk bisnis Anda.<br/><br/>
+							LOGIQUE siap melayani dan membantu Anda dalam pembuatan website, aplikasi, digital marketing, content marketing, social media running, video creating, printing, optimasi SEO, dan server/ infra operation. Dengan pengalaman dari proyek – proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, maka keahlian kami akan menjadi terobosan baru untuk bisnis Anda.<br/><br/>
 							<center>
-								<a href="services.php" class="btn btn-see-more">Lihat lebih lanjut <i class="fa fa-arrow-circle-o-right" ></i></a>
+								<a href="services.php" class="btn btn-see-more">Lihat Layanan LOGIQUE <i class="fa fa-arrow-circle-o-right" ></i></a>
 							</center>
 						</div>
 					</div>

@@ -39,43 +39,43 @@
 					<div class="margin-for-nav">
 						<div class="text-center">
 							<a href="index.php">
-								<img src="../img/home.png" alt="Home"/><br/>
+								<div class="img-home"></div>
 								Home
 							</a>
 						</div>
 						<div class="text-center active">
 							<a href="about.php">
-								<img src="../img/about-us.png" alt="About Us"/><br/>
+								<div class="img-about"></div>
 								会社概要
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="portfolio.php" style="font-size:10px">
-								<img src="../img/portfolio.png" alt="Portfolio"/><br/>
-								ポートフォリオ
+							<a href="portfolio.php">
+								<div class="img-portfolio"></div>
+								制作実績
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="services.php">
-								<img src="../img/services.png" alt="Services"/><br/>
+								<div class="img-services"></div>
 								サービス
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="joinus.php">
-								<img src="../img/joinus.png" alt="Services"/><br/>
+								<div class="img-career"></div>
 								採用/<br>パートナー
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="contact.php">
-								<img src="../img/contact-us.png" alt="contact us"/><br/>
+								<div class="img-contact"></div>
 								お問い合わせ
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="https://www.logique.co.id/blog/ja" target="_blank">
-								<img src="../img/blog.png" alt="Blog"/><br/>
+								<div class="img-blog"></div>
 								Blog
 							</a>
 						</div>
@@ -136,7 +136,7 @@
 							<span class="sr-only">Next</span>
 						  </a>
 						</div>
-					<div class="title"><b>About</b><span class="yellow">Us</span></div>
+					<div class="title" style="font-weight:normal"><span class="yellow">LOGIQUE</span>について</div>
 					<div class="form-container">	
 						LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。 インドネシアのジャカルタからインドネシア国内の企業さま、また日本などインドネシア国外のお客様に対して、ウェブサイトやシステムの制作開発、運用のご支援をしています。 WEBデザイン、インターネットマーケティングやSEO対策、FacebookやInstagram等のソーシャルメディアを活用したキャンペーン実施からモバイル・アプリケーション開発までDigital領域で幅広くサービス提供していることに加え、会社概要やカタログ、リーフレットのデザイン・印刷も行っています。<br/><br/>
 						インドネシアにて5年を超える経験をもち、日系企業のウェブ制作プロジェクトも経験豊富なデザイナー、プログラマー、コンテンツライターが担当します。 ゴールとご予算に応じて最適なサービスをご提供します。<br/><br/>
@@ -153,7 +153,7 @@
 					</div>
 					
 					<div class="bg-grey profile-comp">
-						<div class="title"><b>Company</b><span class="yellow">Overview</span></div>
+						<div class="title" style="font-weight:normal"><span class="yellow">LOGIQUE</span>の概要</div>
 						<div class="row data-profile-comp">
 							<div class="col-sm-2 col-xs-12">
 								会社名
@@ -184,7 +184,7 @@
 								:
 							</div>
 							<div class="col-sm-8 col-xs-12">
-								Takashi Yoshitsugu
+								Takashi Yoshitsugu (吉次 敬)
 							</div>
 						</div>
 						<div class="row data-profile-comp">
@@ -210,6 +210,26 @@
 							</div>
 						</div>
 					</div>
+					
+					<div class="got-project">
+						<span style="font-size:30px;">WEB関連でお困りの事があれば、</span><br/>
+						<div class="list-on-services" style="max-width: 500px;">
+							<ul class="fa-ul">
+								<li><i class="fa-li fa fa-check"></i> WEBサイトを制作したい</li>
+								<li><i class="fa-li fa fa-check"></i> WEBサイトをリニューアル・変更したい</li>
+								<li><i class="fa-li fa fa-check"></i> キャンペーンページ、ランディングページを作りたい</li>
+								<li><i class="fa-li fa fa-check"></i> WEBサイトの運用を委託したい</li>
+								<li><i class="fa-li fa fa-check"></i> WEBサーバーを探している、レンタルしたい、運用してもらいたい</li>
+							</ul>
+						</div>
+						お気軽にご相談ください。
+						<div class="text-center">
+							<a href="contact.php" class="btn btn-contact-us-black">
+								お問い合わせ
+							</a>
+						</div>
+					</div>
+					
 				</div>
 			</div>
 			

@@ -50,43 +50,43 @@
 					<div class="margin-for-nav">
 						<div class="text-center active">
 							<a href="index.php">
-								<img src="../img/home.png" alt="Home"/><br/>
+								<div class="img-home"></div>
 								Home
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="about.php">
-								<img src="../img/about-us.png" alt="About Us"/><br/>
+								<div class="img-about"></div>
 								About Us
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="portfolio.php">
-								<img src="../img/portfolio.png" alt="Portfolio"/><br/>
+								<div class="img-portfolio"></div>
 								Portfolio
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="services.php">
-								<img src="../img/services.png" alt="Services"/><br/>
+								<div class="img-services"></div>
 								Services
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="joinus.php">
-								<img src="../img/joinus.png" alt="Services"/><br/>
+								<div class="img-career"></div>
 								Career
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="contact.php">
-								<img src="../img/contact-us.png" alt="Contact Us"/><br/>
+								<div class="img-contact"></div>
 								Contact Us
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="https://www.logique.co.id/blog/" target="_blank">
-								<img src="../img/blog.png" alt="Blog"/><br/>
+								<div class="img-blog"></div>
 								Blog
 							</a>
 						</div>
@@ -111,18 +111,19 @@
 				<div class="row">
 					<div class="col-sm-12">
 						<div class="title-container visible-xs">
+						<br/><br/>
 							<div class="text-center">
 								<p class="title-index">
 									Your <span class="yellow">Best Solution</span> for <br/>
 									WEB and Internet
 								</p>
-								We are WEB developers located in Jakarta, Indonesia. We are providing digital Marketing, website creation, and web system development. We have been supporting our clients’ internet businesses in Indonesia for over 5 years. We will continue to contribute clients’ business utilizing power of internet for ASEAN countries and Indonesia.
+								LOGIQUE can help you with creating website, mobile application, digital marketing, content marketing, social media operation, video creating, printing design, SEO, and server / infra maintenance. With all the experiences from international projects that we have been contributing for more than 5 years, our expertise will be a new breakthrough to your business. 
 								<br/><br/>
 								<center>
-									<a href="services.php" class="btn btn-see-more">see more <i class="fa fa-arrow-circle-o-right" ></i></a>
+									<a href="services.php" class="btn btn-see-more">Check LOGIQUE Service <i class="fa fa-arrow-circle-o-right" ></i></a>
 								</center>
 							</div>
-							<br/><br/><br/><br/>
+							<br/><br/>
 						</div>
 					</div>
 				</div>
@@ -138,13 +139,13 @@
 				<div class="img">
 					<div class="title-container hidden-xs">
 						<div class="valign-center text-center">
-							<p class="title-index">
+							<h1 class="title-index">
 								Your <span class="yellow">Best Solution</span> for <br/>
 								WEB and Internet
-							</p>
-							We are WEB developers located in Jakarta, Indonesia. We are providing digital Marketing, website creation, and web system development. We have been supporting our clients’ internet businesses in Indonesia for over 5 years. We will continue to contribute clients’ business utilizing power of internet for ASEAN countries and Indonesia.<br/><br/>
+							</h1>
+							LOGIQUE can help you with creating website, mobile application, digital marketing, content marketing, social media operation, video creating, printing design, SEO, and server / infra maintenance. With all the experiences from international projects that we have been contributing for more than 5 years, our expertise will be a new breakthrough to your business.<br/><br/>
 							<center>
-								<a href="services.php" class="btn btn-see-more">see more <i class="fa fa-arrow-circle-o-right" ></i></a>
+								<a href="services.php" class="btn btn-see-more">Check LOGIQUE Service <i class="fa fa-arrow-circle-o-right" ></i></a>
 							</center>
 						</div>
 					</div>

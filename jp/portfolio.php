@@ -39,43 +39,43 @@
 					<div class="margin-for-nav">
 						<div class="text-center">
 							<a href="index.php">
-								<img src="../img/home.png" alt="Home"/><br/>
+								<div class="img-home"></div>
 								Home
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="about.php">
-								<img src="../img/about-us.png" alt="About Us"/><br/>
+								<div class="img-about"></div>
 								会社概要
 							</a>
 						</div>
 						<div class="text-center active">
-							<a href="portfolio.php" style="font-size:10px">
-								<img src="../img/portfolio.png" alt="Portfolio"/><br/>
-								ポートフォリオ
+							<a href="portfolio.php">
+								<div class="img-portfolio"></div>
+								制作実績
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="services.php">
-								<img src="../img/services.png" alt="Services"/><br/>
+								<div class="img-services"></div>
 								サービス
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="joinus.php">
-								<img src="../img/joinus.png" alt="Services"/><br/>
+								<div class="img-career"></div>
 								採用/<br>パートナー
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="contact.php">
-								<img src="../img/contact-us.png" alt="contact us"/><br/>
+								<div class="img-contact"></div>
 								お問い合わせ
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="https://www.logique.co.id/blog/ja" target="_blank">
-								<img src="../img/blog.png" alt="Blog"/><br/>
+								<div class="img-blog"></div>
 								Blog
 							</a>
 						</div>
@@ -104,7 +104,7 @@
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
 							<ol class="breadcrumb">
 							  <li><a href="index.php">Home</a></li>
-							  <li class="active"><a>Portfolio</a></li>
+							  <li class="active"><a>制作実績</a></li>
 							</ol>
 							<h1 class="tagline">これまでのWEBサイト・ホームページ制作、印刷物のデザイン事例をご紹介します。</h1>
 						</div>

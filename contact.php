@@ -75,43 +75,43 @@ if(isset($_POST['submitted']))
 					<div class="margin-for-nav">
 						<div class="text-center">
 							<a href="index.php">
-								<img src="img/home.png" alt="Home"/><br/>
+								<div class="img-home"></div>
 								Beranda
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="about.php">
-								<img src="img/about-us.png" alt="About Us"/><br/>
+								<div class="img-about"></div>
 								Tentang Kami
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="portfolio.php">
-								<img src="img/portfolio.png" alt="Portfolio"/><br/>
+								<div class="img-portfolio"></div>
 								Portfolio
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="services.php">
-								<img src="img/services.png" alt="Services"/><br/>
+								<div class="img-services"></div>
 								Layanan
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="joinus.php">
-								<img src="img/joinus.png" alt="Services"/><br/>
+								<div class="img-career"></div>
 								Karir
 							</a>
 						</div>
 						<div class="text-center active">
 							<a href="contact.php">
-								<img src="img/contact-us.png" alt="Contact Us"/><br/>
+								<div class="img-contact"></div>
 								Hubungi Kami
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="https://www.logique.co.id/blog/" target="_blank">
-								<img src="img/blog.png" alt="Blog"/><br/>
+								<div class="img-blog"></div>
 								Blog
 							</a>
 						</div>

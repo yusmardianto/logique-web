@@ -49,43 +49,43 @@
 					<div class="margin-for-nav">
 						<div class="text-center active">
 							<a href="index.php">
-								<img src="../img/home.png" alt="Home"/><br/>
+								<div class="img-home"></div>
 								Home
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="about.php">
-								<img src="../img/about-us.png" alt="About Us"/><br/>
+								<div class="img-about"></div>
 								会社概要
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="portfolio.php" style="font-size:10px">
-								<img src="../img/portfolio.png" alt="Portfolio"/><br/>
-								ポートフォリオ
+							<a href="portfolio.php">
+								<div class="img-portfolio"></div>
+								制作実績
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="services.php">
-								<img src="../img/services.png" alt="Services"/><br/>
+								<div class="img-services"></div>
 								サービス
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="joinus.php">
-								<img src="../img/joinus.png" alt="Services"/><br/>
+								<div class="img-career"></div>
 								採用/<br>パートナー
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="contact.php">
-								<img src="../img/contact-us.png" alt="contact us"/><br/>
+								<div class="img-contact"></div>
 								お問い合わせ
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="https://www.logique.co.id/blog/ja" target="_blank">
-								<img src="../img/blog.png" alt="Blog"/><br/>
+								<div class="img-blog"></div>
 								Blog
 							</a>
 						</div>
@@ -110,16 +110,17 @@
 				<div class="row">
 					<div class="col-sm-12">
 						<div class="title-container visible-xs">
+							<br/><br/>
 							<div class="text-center">
 								<p class="title-index" style="font-size:40px">
-									インドネシアでお客様の課題を<br>WEB・ネットの活用で解決してきました。
+									<span class="yellow">インドネシア</span>でお客様の課題を<br><span class="yellow">WEB・ネット</span>の活用で解決してきました。
 								</p>
 								WEB・ホームページ制作・WEBシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWEB戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWEBを制作運用することを心がけています。ネットビジネスコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネットを活用して貢献していきます。<br/><br/>
 								<center>
-									<a href="services.php" class="btn btn-see-more">続きを見る <i class="fa fa-arrow-circle-o-right" ></i></a>
+									<a href="services.php" class="btn btn-see-more">LOGIQUEのサービス一覧 <i class="fa fa-arrow-circle-o-right" ></i></a>
 								</center>
 							</div>
-							<br/><br/><br/><br/>
+							<br/><br/>
 						</div>
 					</div>
 				</div>
@@ -136,11 +137,11 @@
 					<div class="title-container hidden-xs">
 						<div class="valign-center text-center">
 							<h1 class="title-index" style="font-size:40px">
-								インドネシアでお客様の課題を<br>WEB・ネットの活用で解決してきました。
+								<span class="yellow">インドネシア</span>でお客様の課題を<br><span class="yellow">WEB・ネット</span>の活用で解決してきました。
 							</h1>
 							WEB・ホームページ制作・WEBシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWEB戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWEBを制作運用することを心がけています。ネットビジネスコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネットを活用して貢献していきます。<br/><br/>
 							<center>
-								<a href="services.php" class="btn btn-see-more">続きを見る <i class="fa fa-arrow-circle-o-right" ></i></a>
+								<a href="services.php" class="btn btn-see-more">LOGIQUEのサービス一覧 <i class="fa fa-arrow-circle-o-right" ></i></a>
 							</center>
 						</div>
 					</div>
