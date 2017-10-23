@@ -65,3 +65,15 @@ $('.map-container')
     .mouseleave(function(){
             $(this).find('iframe').removeClass('clicked')});
 </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+   "address": {
+		"@type": "PostalAddress",
+		"addressLocality": "Jakarta, Indonesia",
+	},
+  "email": "info(at)logique.co.id",
+  "telephone": "+62 (21) 2270 8935/36"
+}
+</script>
