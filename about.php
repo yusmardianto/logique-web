@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUE adalah Web Developer asal Jepang yang bekerja dengan standar internasional serta mempunyai pengalaman lebih dari 5 tahun di Indonesia.">
+    <meta name="description" itemprop="description" content="LOGIQUE adalah Web Developer asal Jepang yang bekerja dengan standar internasional serta mempunyai pengalaman lebih dari 5 tahun di Indonesia.">
 	<meta name="keywords" content="web developer, pembuatan website, pembuat aplikasi, buat web, aplikasi android, digital marketing, desain web, seo, aplikasi iphone, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Web Developer asal Jepang | Tentang LOGIQUE | LOGIQUE Digital Indonesia">
@@ -102,9 +102,9 @@
 								<li><a href="jp/about.php">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="img/logo.png" alt="Logo" class="img-responsive logo"/></a>
-							<ol class="breadcrumb">
-							  <li><a href="index.php">Beranda</a></li>
-							  <li class="active"><a>Tentang Kami</a></li>
+							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Tentang Kami</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
 							<h1 class="tagline">LOGIQUE adalah web developer asal Jepang dengan pengalaman kerja 5 tahun di Indonesia.</h1>
 						</div>

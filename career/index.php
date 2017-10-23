@@ -4,9 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Buka dan temukan keuntungan bekerja di LOGIQUE untuk perkembangan karir Anda serta lowongan kerja yang tersedia dari kami. Mari bergabung dengan LOGIQUE untuk perkembangan karir Anda dengan suasana kerja yang nyaman dan efektif.">
+    <meta name="description" itemprop="description" content="Buka dan temukan keuntungan bekerja di LOGIQUE untuk perkembangan karir Anda serta lowongan kerja yang tersedia dari kami. Mari bergabung dengan LOGIQUE untuk perkembangan karir Anda dengan suasana kerja yang nyaman dan efektif.">
 	<meta name="keywords" content="karir, bekerja di logique, magang di logique, web developer, project manager, desainer, tester">
 	<meta name="author" content="PT. Logique Digital Indonesia">
+	<meta itemprop="name" content="PT. Logique Digital Indonesia">
 	<meta property="og:title" content="Bekerja di LOGIQUE | Karir | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
@@ -182,27 +183,30 @@
 		
 		<section id="internal-rules" class="jumptarget">
 			<div class="container">
-				<div class="title text-center">Pengenalan Terkait Peraturan Internal</div>
+				<!--<div class="title text-center">Pengenalan Terkait Peraturan Internal</div>-->
 				<div class="row no-gap" style="padding: 0 15px;">
 					<div class="col-md-4">
-						<img alt="Monthly Evaluation" src="../img/internal3.png"/>
-						<div class="subtitle text-center">Bonus dan Evaluasi Bulanan</div>
+						<img alt="Pertumbuhan Karir" src="../img/growth.jpg"/>
+						<div class="subtitle text-center">Pertumbuhan Karir</div>
 						<p>
-							Setiap bulan Anda akan dievaluasi oleh supervisor dan manajemen perusahaan. Jika Anda menunjukkan performa luar biasa, maka anda akan mendapatkan bonus performa. Perusahaan juga akan akan memilih staff terbaik setiap bulannya (bisa lebih dari satu orang) dan mereka akan mendapatkan bonus tambahan. Selain itu, Anda juga memiliki kesempatan untuk mendapatkan bonus khusus jika mampu menyelesaikan atau menangani kondisi-kondisi yang penting.
+							Kamu punya kemampuan lebih dari rekan kerja di posisi yang sama? Di LOGIQUE kamu punya kesempatan besar untuk promosi atau mendapatkan posisi penting sesuai kemampuan dan minat kamu. <br/>
+							Tidak ada diskriminasi berdasarkan lama waktu bekerja, jika kamu mampu dan memberikan hasil melampaui rekan kerja lainnya maka LOGIQUE akan langsung memberikan kesempatan itu.
 						</p>
 					</div>
 					<div class="col-md-4">
-						<img alt="Pakaian Bebas" src="../img/casual.png"/>
-						<div class="subtitle text-center">Pakaian Bebas</div>
+						<img alt="Monthly Evaluation" src="../img/internal3.png"/>
+						<div class="subtitle text-center">Bonus</div>
 						<p>
-							Setiap hari kamu bisa memilih gaya busana yang sesuai dengan style yang kamu miliki tanpa harus merasa kaku dengan busana formal. Kamu bisa memakai kemeja, kaos, jeans, dan polo shirt sesuai keinginan kamu.
+							LOGIQUE memberikan lebih bagi kamu yang berkontribusi sangat baik. Setiap bulan kinerja kamu akan dievaluasi oleh supervisor dan manajemen perusahaan, jika hasil yang kamu tunjukkan luar biasa maka kamu bisa mendapatkan bonus performa.<br/> Selain itu, perusahaan juga memilih staff terbaik setiap bulannya untuk diberikan bonus tambahan.
 						</p>
 					</div>
 					<div class="col-md-4">
 						<img alt="Working Hours" src="../img/internal1.png"/>
-						<div class="subtitle text-center">Jam Kerja</div>
+						<div class="subtitle text-center">Fleksibilitas</div>
 						<p>
-							Anda bisa datang kapan saja antara jam 8 - 10 pagi selama Anda bekerja 8 jam, dan tentu saja Sabtu dan Minggu adalah hari libur.
+							Untuk kamu yang punya kebutuhan khusus seperti seorang Ibu yang perlu mengasuh anak,LOGIQUE menyediakan fleksibilitas untuk bekerja dari rumah dengan waktu yang telah disepakati bersama.<br/>
+							Selain itu untuk kamu yang datang ke kantor, kamu bisa memilih jam masuk kerja antara jam 8 - 10 pagi pada hari Senin - Jumat.<br/>
+							Hari Sabtu dan Minggu dapat kamu manfaatkan untuk berkumpul bersama keluarga di rumah.
 						</p>
 					</div>					
 				</div>
@@ -657,8 +661,10 @@
 			</div>
 		</div>
 		
-		<div class="copyright-career">
-			© 2017 Logique Digital Indonesia
+		<div itemscope itemtype="http://schema.org/CreativeWork">
+			<div class="copyright-career">
+				© <span itemprop="copyrightYear">2017</span> <span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia</span></span>
+			</div>
 		</div>
 		
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
@@ -778,6 +784,21 @@
 					return false;
 				}); */
 			});
+		</script>
+		<script type="application/ld+json">
+			{
+			  "@context": "http://schema.org",
+			  "@type": "Organization",
+			  "address": {
+					"@type": "PostalAddress",
+					"addressLocality": "Jakarta, Indonesia",
+					"postalCode": "12540",
+					"streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
+			  },
+			  "logo": "https://www.logique.co.id/img/logo.png",
+			  "email": "info(at)logique.co.id",
+			  "telephone": "+62 (21) 2270 8935/36"
+			}
 		</script>
 	</body>
 </html>

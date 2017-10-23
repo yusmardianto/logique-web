@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="We are hiring! Cek lowongan kerja yang tersedia dari kami dan mari bergabung dengan LOGIQUE untuk perkembangan karir Anda dengan suasana kerja yang nyaman dan efektif.">
+    <meta name="description" itemprop="description" content="We are hiring! Cek lowongan kerja yang tersedia dari kami dan mari bergabung dengan LOGIQUE untuk perkembangan karir Anda dengan suasana kerja yang nyaman dan efektif.">
 	<meta name="keywords" content="karir, bekerja di logique, magang di logique, web developer, project manager, desainer, tester">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Bergabung dengan Logique | Karir | LOGIQUE Digital Indonesia">
@@ -102,9 +102,9 @@
 								<li><a href="jp/joinus.php">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="img/logo.png" alt="Logo" class="img-responsive logo"/></a>
-							<ol class="breadcrumb">
-							  <li><a href="index.php">Beranda</a></li>
-							  <li class="active"><a>Karir</a></li>
+							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Karir</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
 							<h1 class="tagline">Mari bergabung dengan LOGIQUE untuk perkembangan karir Anda.</h1>
 						</div>
@@ -540,10 +540,10 @@
 						</div>
 					</div>
 					<div class="got-project">
-						<span>Have skill, come & join us?</span><br/>
+						<span>Ayo bergabung dan bekerja bersama di LOGIQUE.</span><br/>
 						<div class="text-center">
 							<a href="career/" target="_blank" class="btn btn-contact-us-black">
-								Join Us
+								Gabung Dengan Kami
 							</a>
 						</div>
 					</div>

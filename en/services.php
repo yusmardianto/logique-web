@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUE offers a wide range of web and design related services starting from website creation / system development, Web marketing, mobile application development, social media operation, designing, etc, in Indonesia.">
+    <meta name="description" itemprop="description" content="LOGIQUE offers a wide range of web and design related services starting from website creation / system development, Web marketing, mobile application development, social media operation, designing, etc, in Indonesia.">
 	<meta name="keywords" content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="The best website, mobile application developer and designer in Jakarta | LOGIQUE Digital Indonesia">
@@ -103,9 +103,9 @@
 								<li><a href="../jp/services.php">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
-							<ol class="breadcrumb">
-							  <li><a href="index.php">Home</a></li>
-							  <li class="active"><a>Services</a></li>
+							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Services</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
 							<h1 class="tagline">We provide a wide range of service from website development up to internet marketing, mobile app development, designing, and internet marketing.</h1>
 						</div>

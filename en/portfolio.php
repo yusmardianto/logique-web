@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUE Digital Indonesia has numerous experiences in website creation / system development, designing printing materials in Indonesia.">
+    <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia has numerous experiences in website creation / system development, designing printing materials in Indonesia.">
 	<meta name="keywords" content="website creation, web-system development, designing, printing, corporate site, landing page">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="The best web-designer in Jakarta | LOGIQUE Digital Indonesia">
@@ -103,9 +103,9 @@
 								<li><a href="../jp/portfolio.php">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
-							<ol class="breadcrumb">
-							  <li><a href="index.php">Home</a></li>
-							  <li class="active"><a>Portfolio</a></li>
+							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Portfolio</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
 							<h1 class="tagline">Take a look on our experience in website development and designing projects.</h1>
 						</div>

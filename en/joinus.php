@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUE is looking for web programmer, web designer, designer, content writer. Do not hesitate to apply If you agree with LOGIQUE's Philosophy.">
+    <meta name="description" itemprop="description" content="LOGIQUE is looking for web programmer, web designer, designer, content writer. Do not hesitate to apply If you agree with LOGIQUE's Philosophy.">
 	<meta name="keywords" content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Join the best website / web-system developer in Jakarta  | LOGIQUE Digital Indonesia">
@@ -103,9 +103,9 @@
 								<li><a href="../jp/joinus.php">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
-							<ol class="breadcrumb">
-							  <li><a href="index.php">Home</a></li>
-							  <li class="active"><a>Career</a></li>
+							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Career</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
 							<h1 class="tagline">Join the best web / mobile app developer in Indonesia.</h1>
 						</div>
@@ -123,9 +123,11 @@
 						<p>
 						<br/>
 							LOGIQUE is in a process to be the No.1 Web developing company in Indonesia. We already have numbers of big clients. You can be on a middle-management positions depending on your passion, as we are still in the middle of the flourishment and flexible. We prepare the environment and promise career growth. We support you to grow your both technic and work skills. We get rid of "Nonsense" from our work as much as possible. We prepare the environment that you can enjoy working effectively. Let's work hard, enjoy hard, and grow up hard together.
-							<br/><br/>
-							<span class="characteristic-title">Benefits working in <span class="yellow">LOGIQUE</span> :</span><br/>
-							LOGIQUE is a web development company that is founded and operated by a Japanese founder in Indonesia. For that reason, LOGIQUE has many opportunities to work with international clients and you will be able to learn the way of work with international standards. Most of our projects / clients require high standards of design, programming, and the management skill, but this challenge will make you grow up.<br/>
+						</p>
+					</div>
+					<div class="bg-grey">
+						<span class="characteristic-title">Benefits working in <span class="yellow">LOGIQUE</span> :</span><br/>
+							LOGIQUE is a web development company that is founded and operated by a Japanese founder in Indonesia. For that reason, LOGIQUE has many opportunities to work with international clients and you will be able to learn the way of work with international standards. Most of our projects / clients require high standards of design, programming, and the management skill, but this challenge will make you grow up.<br/><br/>
 							<span class="characteristic-title">Other Benefits:</span>
 							<ul class="joinus-ul">
 								<li>You can work in a new office that has great view.</li>
@@ -136,10 +138,7 @@
 								<li>You can be on a middle-management positions depending on your passion.</li>
 								<li>We have many fields of work from consulting up to system development.</li>
 							</ul>
-						</p>
-					</div>
-					<div class="bg-grey">
-						<div class="title-bg-grey">Introduction of Our  <span class="yellow">Internal Rules</span></div>
+						<!--div class="title-bg-grey">Introduction of Our  <span class="yellow">Internal Rules</span></div>-->
 						<br/><br/>
 						<div class="row">
 							<div class="col-md-6">
@@ -162,7 +161,7 @@
 										You can read everyone's daily report so that you can understand each other better seeing what your friends are doing, what they are thinking, and their challenges. Evaluation will be conducted by daily report as well.
 									</div>
 								</div>
-								<br/><br/>
+								<div class="visible-xs"><br/><br/></div>
 							</div>
 							<div class="col-md-6">
 								<span class="characteristic-title">Monthly Evaluation & Bonus</span><br/><br/>
@@ -568,10 +567,10 @@
 						</div>
 					</div>
 					<div class="got-project">
-						<span>Have skill, come & join us?</span><br/>
+						<span>Getting excited to work with us? </span><br/>
 						<div class="text-center">
 							<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black">
-								Join Us
+								Join LOGIQUE
 							</a>
 						</div>
 					</div>

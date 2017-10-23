@@ -4,9 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Buat website, aplikasi, optimasi SEO, atau digital marketing. Segera konsultasikan kebutuhan digital Anda melalui LOGIQUE, Web Developer asal Jepang no. 1 di Indonesia.">
+    <meta name="description" itemprop="description" content="Buat website, aplikasi, optimasi SEO, atau digital marketing. Segera konsultasikan kebutuhan digital Anda melalui LOGIQUE, Web Developer asal Jepang no. 1 di Indonesia.">
 	<meta name="keywords" content="pembuatan website, pembuat aplikasi, buat web, aplikasi android, digital marketing, web developer, desain web, seo, aplikasi iphone, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
+	<meta itemprop="name" content="PT. Logique Digital Indonesia">
 	<meta property="og:title" content="Perusahaan Jasa Pembuatan Website dan Aplikasi Terpercaya Asal Jepang | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
@@ -155,5 +156,20 @@
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/slick.min.js"></script>		
+		<script type="application/ld+json">
+			{
+			  "@context": "http://schema.org",
+			  "@type": "Organization",
+			  "address": {
+					"@type": "PostalAddress",
+					"addressLocality": "Jakarta, Indonesia",
+					"postalCode": "12540",
+					"streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
+			  },
+			  "logo": "https://www.logique.co.id/img/logo.png",
+			  "email": "info(at)logique.co.id",
+			  "telephone": "+62 (21) 2270 8935/36"
+			}
+		</script>
 	</body>
 </html>

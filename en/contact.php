@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Please feel free to contact us and ask anything about website creation, web-system development, web-marketing, designing, mobile application development etc, in Indonesia.">
+    <meta name="description" itemprop="description" content="Please feel free to contact us and ask anything about website creation, web-system development, web-marketing, designing, mobile application development etc, in Indonesia.">
 	<meta name="keywords" content="Inquiries, contact us, website creation, web-system development, web marketing, pamphlet, mobile application">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Inquiry about website / web-system and maintenance in Jakarta | LOGIQUE Digital Indonesia">
@@ -138,9 +138,9 @@ if(isset($_POST['submitted']))
 								<li><a href="../jp/contact.php">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
-							<ol class="breadcrumb">
-							  <li><a href="index.php">Home</a></li>
-							  <li class="active"><a>Contact Us</a></li>
+							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Contact Us</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
 							<h1 class="tagline">Contact us and ask us anything about website development, internet marketing, application development, and designing.</h1>							
 						</div>

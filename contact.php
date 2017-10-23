@@ -40,7 +40,7 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Anda mempunyai kebutuhan terkait pembuatan website dan aplikasi atau percetakan kartu nama, pembuatan profile perusahaan dan brosur? Silakan hubungi LOGIQUE, kami siap membantu Anda.">
+    <meta name="description" itemprop="description" content="Anda mempunyai kebutuhan terkait pembuatan website dan aplikasi atau percetakan kartu nama, pembuatan profile perusahaan dan brosur? Silakan hubungi LOGIQUE, kami siap membantu Anda.">
 	<meta name="keywords" content="konsultasi website, pembuatan website, pembuatan aplikasi, hubungi kami, hubungi logique, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Konsultasi atau Buat Website Anda | Hubungi Kami | LOGIQUE digital indonesia">
@@ -138,9 +138,9 @@ if(isset($_POST['submitted']))
 								<li><a href="jp/contact.php">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="img/logo.png" alt="Logo" class="img-responsive logo"/></a>
-							<ol class="breadcrumb">
-							  <li><a href="index.php">Beranda</a></li>
-							  <li class="active"><a>Hubungi Kami</a></li>
+							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Hubungi Kami</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
 							<h1 class="tagline">Punya kebutuhan terkait pembuatan website, aplikasi, desain, profil perusahaan dan brosur? Hubungi LOGIQUE.</h1>
 						</div>

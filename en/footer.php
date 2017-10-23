@@ -37,12 +37,19 @@ ga('send', 'pageview');
 				<br/>
 			</div>
 			<div class="col-sm-6 col-sm-pull-6">
-				<div class="footer-title">LOGIQUE DIGITAL INDONESIA</div>
-				Ad Premier Building 19th Floor.  Jalan Tb. Simatupang No. 5 <br/>
-				Ragunan, Ps. Minggu,  Jakarta Selatan, 12540<br/><br/>
+			<div itemscope itemtype="http://schema.org/Organization">
+				<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
+				<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
+				Ragunan, Ps. Minggu,  Jakarta Selatan, </span><span itemprop="postalCode">12540</span><br/><br/>
+				</div>
+			</div>
 				LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.				
-				<br/><br/><br/>
-				<div class="copyright">&copy; 2017  Logique Digital Indonesia</div>
+				<br/><br/>
+				<div itemscope itemtype="http://schema.org/CreativeWork">
+					<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
+					<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia</span></span></div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -57,4 +64,16 @@ $('.map-container')
             $(this).find('iframe').addClass('clicked')})
     .mouseleave(function(){
             $(this).find('iframe').removeClass('clicked')});
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+   "address": {
+		"@type": "PostalAddress",
+		"addressLocality": "Jakarta, Indonesia",
+	},
+  "email": "info(at)logique.co.id",
+  "telephone": "+62 (21) 2270 8935/36"
+}
 </script>

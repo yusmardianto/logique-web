@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUEはジャカルタのウェブ制作会社です。ジャカルタを中心とするインドネシア国内でWEBサイト制作/システム構築、WEBマーケティング、(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
+    <meta name="description" itemprop="description" content="LOGIQUEはジャカルタのウェブ制作会社です。ジャカルタを中心とするインドネシア国内でWEBサイト制作/システム構築、WEBマーケティング、(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
 	<meta name="keywords" content="採用情報, webデベロッパー, プログラマー, ウェブデザイナー, デザイナー, コンテンツライター">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="インドネシアのWEBサイト/ホームページ制作会社 | LOGIQUE Digital Indonesia">
@@ -102,9 +102,9 @@
 								<li class="active"><a href="#">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
-							<ol class="breadcrumb">
-							  <li><a href="index.php">Home</a></li>
-							  <li class="active"><a>採用 / パートナー</a></li>
+							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">採用 / パートナー</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
 							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社。インターネットマーケティング、アプリ開発、各種デザインまで取り扱っております。</h1>
 						</div>
@@ -122,9 +122,11 @@
 						<p>
 						<br/>
 							LOGIQUEはインドネシアのジャカルタのトップWEB制作会社です。既に多くの大手企業と直接お取引いただいています。発展途上の柔軟な会社なので、あなたのやる気次第ではあなたがLOGIQUEの中核になることだって可能です。LOGIQUEはあなたが成長できる環境を用意します。技術力・仕事力を向上するためのサポートをします。 意味のないこと、無駄なことは極力排除しています。効率的に楽しく仕事できる環境を用意します。一生懸命に、かつ楽しく働き、会社と一緒に成長しましょう。
-							<br/><br/>
-							<span class="characteristic-title"><span class="yellow">LOGIQUE</span>で働くメリット :</span><br/>
-							LOGIQUEは、日本人創業者が経営しているインドネシアのWEB制作会社です、このため、LOGIQUEで働くと、外資系の大手企業との直接取引であるプロジェクトに関われ、外資系の企業とのプロジェクトを通してインターナショナルスタンダードな仕事のやり方を経験・学ぶことができます。 							プログラミングやデザインのクオリティも、マネジメントの方法も高い水準が求められますが、これはあなたの成長を促進します。新しい取組を受け入れるカルチャーがあります。あなたにアイデアがあれば、主体性をもってチャレンジすることが可能です。<br/>
+						</p>
+					</div>
+					<div class="bg-grey">
+						<span class="characteristic-title"><span class="yellow">LOGIQUE</span>で働くメリット :</span><br/>
+							LOGIQUEは、日本人創業者が経営しているインドネシアのWEB制作会社です、このため、LOGIQUEで働くと、外資系の大手企業との直接取引であるプロジェクトに関われ、外資系の企業とのプロジェクトを通してインターナショナルスタンダードな仕事のやり方を経験・学ぶことができます。 							プログラミングやデザインのクオリティも、マネジメントの方法も高い水準が求められますが、これはあなたの成長を促進します。新しい取組を受け入れるカルチャーがあります。あなたにアイデアがあれば、主体性をもってチャレンジすることが可能です。<br/><br/>
 							<span class="characteristic-title"><span class="yellow">LOGIQUE</span>で働くベネフィット:</span>
 							<ul class="joinus-ul">
 								<li>新しいオフィス、見晴らしのよいオフィスで働ける.</li>
@@ -135,10 +137,7 @@
 								<li>中核メンバーになれる可能性がある.</li>
 								<li>コンサルティングから制作、システム開発まで、仕事の幅が広い.</li>
 							</ul>
-						</p>
-					</div>
-					<div class="bg-grey">
-						<div class="title-bg-grey">社内制度紹介</span></div>
+						<!--<div class="title-bg-grey">社内制度紹介</span></div>-->
 						<br/><br/>
 						<div class="row">
 							<div class="col-md-6">
@@ -161,7 +160,7 @@
 										日報を介して皆がなにをしているのか、どう感じているのか共有して社内コミュニケーションをとっています。評価も日報がベースになります。
 									</div>
 								</div>
-								<br/><br/>
+								<div class="visible-xs"><br/><br/></div>
 							</div>
 							<div class="col-md-6">
 								<span class="characteristic-title">毎月評価＆ボーナス</span><br/><br/>
@@ -238,7 +237,7 @@
 						<br/>
 						</p>
 						<br/>
-						<div class="panel-group" id="vacancy">
+						<!--<div class="panel-group" id="vacancy">
 						  <div class="panel panel-default">
 							<div class="panel-heading">
 								<a data-toggle="collapse" data-parent="#vacancy" href="#proj-manager" class="collapsed">
@@ -507,7 +506,7 @@
 							  </div>
 							</div>
 						  </div>
-						</div>
+						</div>-->
 					</div>
 					<div class="bg-grey">
 						<div class="title-bg-grey">営業パートナーの募集をしています。</span></div>
@@ -567,10 +566,10 @@
 						</div>
 					</div>
 					<div class="got-project">
-						<span>Have skill, come & join us?</span><br/>
+						<span>ご紹介に関してお気軽にお問い合わせください。</span><br/>
 						<div class="text-center">
-							<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black">
-								Join Us
+							<a href="contact.php" class="btn btn-contact-us-black">
+								お問い合わせ
 							</a>
 						</div>
 					</div>
