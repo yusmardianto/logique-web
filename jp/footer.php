@@ -22,12 +22,14 @@ ga('send', 'pageview');
 						<a href="contact.php">お問い合わせ</a><br/>
 					</div>
 					<div class="col-sm-8 col-xs-6 link-footer">
-						<div class="footer-title">Our Service</div>
-						Mobile App<br/>
-						SEO<br/>
-						E-Commerce<br/>
-						System Development<br/>
-						Others<br/><br/>
+						<div class="footer-title">LOGIQUEのサービス</div>
+						WEB制作<br/>
+						モバイルアプリ開発<br/>
+						SEO対策<br/>
+						WEBシステム開発<br/>
+						デザイン制作<br/>
+						会社案内・販促物印刷<br/>
+						WEB・SNS運用<br/><br/>
 						
 						<!--<div class="footer-title">Our Product</div>
 						tripkejepang.com<br/>
@@ -41,10 +43,10 @@ ga('send', 'pageview');
 				<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
 				<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 				<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
-				Ragunan, Ps. Minggu,  Jakarta Selatan, </span><span itemprop="postalCode">12540</span><br/><br/>
+				Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12540</span><br/><br/>
 				</div>
 			</div>
-				LOGIQUEは、Webコンサルティング、Webサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、グラフィック制作、デザイン印刷のプロフェッショナル集団として、貴社に最適なソリューションを提供します。
+				LOGIQUEは、ジャカルタでWebコンサルティング、WEBサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、映像制作、会社案内・パンフレットデザイン・印刷サービスを提供しています。
 				<br/><br/>
 				<div itemscope itemtype="http://schema.org/CreativeWork">
 					<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  

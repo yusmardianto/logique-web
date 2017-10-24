@@ -120,7 +120,13 @@
 					<img src="img/career-main.png" class="img-in-joinus"/>
 					<div class="form-container">
 					<p><br/>
-						LOGIQUE terbuka untuk kalian yang punya minat tinggi dan kemampuan di bidang WEB, mari bekerja bersama di lingkungan kerja yang nyaman dan efektif.<br/><br/>
+						LOGIQUE terbuka untuk kalian yang punya minat tinggi dan kemampuan di bidang WEB, mari bekerja bersama di lingkungan kerja yang nyaman dan efektif.<br/>
+						<div class="text-center">
+							<a href="career/" target="_blank" class="btn btn-contact-us-black">
+								Gabung Dengan Kami
+							</a>
+						</div>
+						<br/>						
 						<span class="characteristic-title">Cek informasi lebih lanjut disini:</span><br/>
 						<ul class="joinus-ul link-career">
 							<li><a href="career/" target="_blank" >Mengenal Logique</a></li>

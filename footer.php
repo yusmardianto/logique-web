@@ -1,4 +1,4 @@
-<footer>
+﻿<footer>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -22,12 +22,13 @@ ga('send', 'pageview');
 						<a href="contact.php">Hubungi Kami</a><br/>
 					</div>
 					<div class="col-sm-8 col-xs-6 link-footer">
-						<div class="footer-title">Our Service</div>
+						<div class="footer-title">Layanan Kami</div>
+						Web Development<br/>
 						Mobile App<br/>
 						SEO<br/>
-						E-Commerce<br/>
-						System Development<br/>
-						Others<br/><br/>
+						Web Sistem<br/>
+						Desain<br/>
+						WEB ・SNS Operasi<br/><br/>
 						
 						<!--<div class="footer-title">Our Product</div>
 						tripkejepang.com<br/>
@@ -41,7 +42,7 @@ ga('send', 'pageview');
 				<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
 				<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 				<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
-				Ragunan, Ps. Minggu,  Jakarta Selatan, </span><span itemprop="postalCode">12540</span><br/><br/>
+				Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12540</span><br/><br/>
 				</div>
 			</div>
 				LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda sebagai tim yang profesional dalam bidang konsultasi, pengembangan web dan aplikasi, pengaplikasian desain responsif, pengembangan sistem web, dan desain. Kami mengembangkan website kreatif terstruktur yang benar-benar direncanakan secara detil baik untuk pengembangan website perusahaan, aplikasi, maupun pengembangan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.

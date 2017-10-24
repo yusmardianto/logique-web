@@ -1,4 +1,4 @@
-<footer>
+﻿<footer>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -23,11 +23,12 @@ ga('send', 'pageview');
 					</div>
 					<div class="col-sm-8 col-xs-6 link-footer">
 						<div class="footer-title">Our Service</div>
-						Mobile App<br/>
-						SEO<br/>
-						E-Commerce<br/>
-						System Development<br/>
-						Others<br/><br/>
+						Web Development<br/>
+						Mobile App Dev<br/>
+						Search Engine Optimization<br/>
+						Web System Development<br/>
+						Design Creation<br/>
+						WEB ・SNS Operation<br/><br/>
 						
 						<!--<div class="footer-title">Our Product</div>
 						tripkejepang.com<br/>
@@ -41,7 +42,7 @@ ga('send', 'pageview');
 				<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
 				<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 				<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
-				Ragunan, Ps. Minggu,  Jakarta Selatan, </span><span itemprop="postalCode">12540</span><br/><br/>
+				Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12540</span><br/><br/>
 				</div>
 			</div>
 				LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.				
