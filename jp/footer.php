@@ -13,7 +13,7 @@ ga('send', 'pageview');
 		<div class="row">
 			<div class="col-sm-6 col-sm-push-6">
 				<div class="row">
-					<div class="col-sm-4 col-xs-6 link-footer-nav">
+					<div class="col-sm-4 col-xs-5 link-footer-nav">
 						<a href="index.php">Home</a><br/><br/>
 						<a href="about.php">会社概要</a><br/><br/>
 						<a href="portfolio.php">制作実績</a><br/><br/>
@@ -21,7 +21,7 @@ ga('send', 'pageview');
 						<a href="joinus.php">採用/パートナー</a><br/><br/>
 						<a href="contact.php">お問い合わせ</a><br/>
 					</div>
-					<div class="col-sm-8 col-xs-6 link-footer">
+					<div class="col-sm-8 col-xs-7 link-footer">
 						<div class="footer-title">LOGIQUEのサービス</div>
 						WEB制作<br/>
 						モバイルアプリ開発<br/>

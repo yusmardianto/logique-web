@@ -1,4 +1,4 @@
-﻿<footer>
+<footer>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -13,7 +13,7 @@ ga('send', 'pageview');
 		<div class="row">
 			<div class="col-sm-6 col-sm-push-6">
 				<div class="row">
-					<div class="col-sm-4 col-xs-6 link-footer-nav">
+					<div class="col-sm-4 col-xs-5 link-footer-nav">
 						<a href="index.php">Home</a><br/><br/>
 						<a href="about.php">About Us</a><br/><br/>
 						<a href="portfolio.php">Portfolio</a><br/><br/>
@@ -21,7 +21,7 @@ ga('send', 'pageview');
 						<a href="joinus.php">Career</a><br/><br/>
 						<a href="contact.php">Contact Us</a><br/>
 					</div>
-					<div class="col-sm-8 col-xs-6 link-footer">
+					<div class="col-sm-8 col-xs-7 link-footer">
 						<div class="footer-title">Our Service</div>
 						Web Development<br/>
 						Mobile App Dev<br/>

@@ -13,7 +13,7 @@ ga('send', 'pageview');
 		<div class="row">
 			<div class="col-sm-6 col-sm-push-6">
 				<div class="row">
-					<div class="col-sm-4 col-xs-6 link-footer-nav">
+					<div class="col-sm-4 col-xs-5 link-footer-nav">
 						<a href="index.php">Beranda</a><br/><br/>
 						<a href="about.php">Tentang Kami</a><br/><br/>
 						<a href="portfolio.php">Portfolio</a><br/><br/>
@@ -21,7 +21,7 @@ ga('send', 'pageview');
 						<a href="career/">Karir</a><br/><br/>
 						<a href="contact.php">Hubungi Kami</a><br/>
 					</div>
-					<div class="col-sm-8 col-xs-6 link-footer">
+					<div class="col-sm-8 col-xs-7 link-footer">
 						<div class="footer-title">Layanan Kami</div>
 						Web Development<br/>
 						Mobile App<br/>
