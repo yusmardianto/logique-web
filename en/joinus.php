@@ -508,61 +508,141 @@
 						  </div>
 						</div>
 					</div>
-					<div class="bg-grey">
-						<div class="title-bg-grey">We are looking for sales partners of our business.</span></div>
-						<br/><br/>
-						<div class="row">
-							<div class="col-md-12">
-								We will pay introducing rewards when we get a new contract with clients from your introduction.<br/><br/>
-								
-								Your acquaintance or companies that you know have a wish to:<br/>
-								<ul class="joinus-ul">
-									<li>Have a website</li>
-									<li>Outsource their website / blog better</li>
-									<li>Want to strengthen their SEO / Digital marketing</li>
-									<li>Want to newly start Internet business</li>
-								</ul>
-								Or introduce us if anyone needs help about Web and Internet.<br/><br/>
-								
-								After Introducing us to anyone, let us know to whom you introduced us. If we successfully get a contract with the client you introduced, we will pay you its commission.<br/><br/>
-								
-								Commission rate will be<br/>
-								<ul class="joinus-ul">
-									<li>10% of the contracted price if the total price is less than 50,000,000 IDR</li>
-									<li>5,000,000 IDR if the total price is less than 100,000,000 IDR</li>
-									<li>10,000,000 IDR if the total price is greater than 100,000,000 IDR</li>
-								</ul><br/>
-								
-								There is no special ways to introduce us, but it will be appreciated if you<br/>
-								<ul class="joinus-ul">
-									<li>Tell us their contact information</li>
-									<li>Tell us information about the prospect you introduce to us</li>
-									<li>We will contact them directly</li>
-									<li>We will propose to the prospect directly</li>
-									<li>We will contact you if we got a contract with the ones you introduced to us</li>
-								</ul><br/>
-								
-								＃We will be flexible for the partnership with you. Depending on the situation we can cooperate with you in other ways as well.<br/>
-								＃Of course there is no particular conditions for introduction<br/>
-								＃It will be appreciated if you could ask the prospect about their budget and possibility<br/>
-								＃The only case we can provide you commission is when the they can be our new client. We will not provide commission after the 1st project that we got from the client you introduced. From 2<sup>nd</sup> project and maintenance contract will not be calculated as the commission.<br/><br/>
-								The prospects that you introduce to us can be in Indonesia or in any other countries.<br/><br/>
-								
-								<span class="characteristic-title">Frequently asked questions</span><br/>
-								Q．Do I only have to introduce and connect you to the person that I know? Or do I have to actually propose and do some sales activity?<br/>
-								A．You only need to introduce the person / company PIC who is interested in our service such as SEO or developing website, web-system, mobile apps, etc. You already complete the process “Introduction” once you inform us that you tell them about LOGIQUE and that we will contact them. After introduction, the result will depend on us.<br/><br/>
+					<div class="partner-section">
+						<div class="div-main text-center">
+							<span class="mitra-marketing-title">Sales Partners</span>
+							<br/><br/><br/>
+							<p>
+								We are looking for sales partners of our business.<br/><br/>
+								We will pay introducing rewards when we get a new contract with clients from your introduction
+							</p>
+						</div>
+						<div class="bg-grey">
+							<div class="title2">Your acquaintance or companies that you know have a wish to:</div>
+							<br/>
+							<div class="row">
+								<div class="col-md-3 client-searched">
+									<img class="center-block img-responsive" src="../img/client1.png" alt="Ingin mempunyai website"/>
+									<p>
+										Have a website
+									</p>
+								</div>
+								<div class="col-md-3 client-searched">
+									<img class="center-block img-responsive" src="../img/client2.png" alt="Ingin membuat website atau blog menjadi lebih baik"/>
+									<p>
+										Outsource their website / blog better
+									</p>
+								</div>
+								<div class="col-md-3 client-searched">
+									<img class="center-block img-responsive" src="../img/client3.png" alt="Ingin mengembangkan Digital Marketing atau SEO"/>
+									<p>
+										Want to strengthen their SEO / Digital marketing
+									</p>
+								</div>
+								<div class="col-md-3 client-searched">
+									<img class="center-block img-responsive" src="../img/client4.png" alt="Ingin memulai bisnis internet baru"/>
+									<p>
+										Want to newly start Internet business
+									</p>
+								</div>
+								<div class="clearfix"></div>
+								<br/>
+								<div class="col-md-12" id="client-desc1">
+									<div>Or introduce us if anyone needs help about Web and Internet.</div>
+									<p>After Introducing us to anyone, let us know to whom you introduced us. If we successfully get a contract with the client you introduced, we will pay you its commission.</p>
+								</div>
+								<div class="clearfix"></div>
+								<div class="commision-title">Commission rate will be: </div>
+								<br/>
+								<div class="col-md-offset-1 col-md-10">
+									<div class="row client-searched">
+										<div class="col-md-4">
+											<img class="center-block img-responsive" src="../img/komisi1_en.png" alt="jika total kontrak kurang dari Rp 50,000,000"/>
+											<p>
+												 if the total price is  <span class="label-komisi">less than</span><br class="hidden-sm hidden-xs"/>50,000,000 IDR
+											</p>
+										</div>
+										<div class="col-md-4">
+											<img class="center-block img-responsive" src="../img/komisi2_en.png" alt="jika total kontrak kurang dari Rp 100,000,000"/>
+											<p>
+												if the total price is <span class="label-komisi">less than</span><br class="hidden-sm hidden-xs"/>100,000,000 IDR
+											</p>
+										</div>
+										<div class="col-md-4">
+											<img class="center-block img-responsive" src="../img/komisi3_en.png" alt="jika total kontrak lebih dari Rp 100,000,000"/>
+											<p>
+												if the total price is <span class="label-komisi">greater than</span><br class="hidden-sm hidden-xs"/>100,000,000 IDR
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="commision-title">There is no special ways to introduce us,<br/>but it will be appreciated if you</div>
+								<div class="klien-flow">
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+										  <div class="valign-center">
+												Tell us their contact information
+										  </div>
+										</div>
+									</div>
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+											<div class="valign-center">
+												Tell us information about the prospect you introduce to us
+											</div>
+										</div>
+									</div>
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+											<div class="valign-center">
+												We will contact them directly 
+											</div>
+										</div>
+									</div>
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+											<div class="valign-center">
+												We will propose to the prospect directly
+											</div>
+										</div>
+									</div>
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+											<div class="valign-center">
+												We will contact you if we got a contract with the ones you introduced to us. 
+											</div>
+										</div>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="col-sm-12">
+									<div class="point">* &nbsp;We will be flexible for the partnership with you. Depending on the situation we can cooperate with you in other ways as well.</div>
+									<div class="point">* &nbsp;Of course there is no particular conditions for introduction.</div>
+									<div class="point">* &nbsp;It will be appreciated if you could ask the prospect about their budget and possibility.</div>
+									<div class="point">* &nbsp;The only case we can provide you commission is when the they can be our new client. We will not provide commission after the 1st project that we got from the client you introduced. From 2<sup>nd</sup> project and maintenance contract will not be calculated as the commission.</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="commision-title">The prospects that you introduce to us can be in Indonesia or in any other countries</div>
+							</div>
+							<br/>
+							<div class="">
+								<div class="label-questions">Frequently asked questions:</div><br/>
+								<div class="question">Do I only have to introduce and connect you to the person that I know? Or do I have to actually propose and do some sales activity?</div>
+								<div class="answer">You only need to introduce the person / company PIC who is interested in our service such as SEO or developing website, web-system, mobile apps, etc. You already complete the process “Introduction” once you inform us that you tell them about LOGIQUE and that we will contact them. After introduction, the result will depend on us.</div>
+								<br/>
+								<div class="question">How do you contact me when you got a contract with the person / company?</div>
+								<div class="answer">We will inform you right away once we propose our service and successfully get the project and confirm several things about the payment (price, transfer procedure, etc.).</div><br/>
 
-								Q．How do you contact me when you got a contract with the person / company?<br/>
-								A．We will inform you right away once we propose our service and successfully get the project and confirm several things about the payment (price, transfer procedure, etc.).<br/><br/>
+								<div class="question">Can the commission be paid to individuals?</div>
+								<div class="answer">We can pay commission to either individual or company depending on your preference.</div><br/>
 
-								Q．Can the commission be paid to individuals?<br/>
-								A．We can pay commission to either individual or company depending on your preference.<br/><br/>
+								<div class="question">Will there be tax that will be deducted from the commission?</div>
+								<div class="answer">Yes, withholding should be deducted from the commission that will be provided. The withholding rate will be 10% for NPWP holder and 20% for non-holder.</div><br/>
 
-								Q．Will there be tax that will be deducted from the commission?<br/>
-								A．Yes, withholding should be deducted from the commission that will be provided. The withholding rate will be 10% for NPWP holder and 20% for non-holder.<br/><br/>
-
-								Q．Will the commission be paid in Indonesian Rupiah?<br/>
-								A．It will be appreciated if we can transfer Indonesian Rupiah, but in case if you do not have bank account in Indonesia, we can also make international remittance after converting Indonesian rupiah into your currency. 
+								<div class="question">Will the commission be paid in Indonesian Rupiah?</div>
+								<div class="answer">It will be appreciated if we can transfer Indonesian Rupiah, but in case if you do not have bank account in Indonesia, we can also make international remittance after converting Indonesian rupiah into your currency. </div>
 							</div>
 						</div>
 					</div>

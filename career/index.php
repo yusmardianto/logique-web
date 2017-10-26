@@ -792,7 +792,7 @@
 			  "address": {
 					"@type": "PostalAddress",
 					"addressLocality": "Jakarta, Indonesia",
-					"postalCode": "12540",
+					"postalCode": "12550",
 					"streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
 			  },
 			  "logo": "https://www.logique.co.id/img/logo.png",

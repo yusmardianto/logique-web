@@ -195,7 +195,7 @@
 								:
 							</div>
 							<div class="col-sm-8 col-xs-12">
-								Ad Premier Building 19<sup>th</sup> Floor, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12540, INDONESIA
+								Ad Premier Building 19<sup>th</sup> Floor, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12550, INDONESIA
 							</div>
 						</div>
 						<div class="row data-profile-comp">

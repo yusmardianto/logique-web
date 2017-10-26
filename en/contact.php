@@ -213,7 +213,7 @@ if(isset($_POST['submitted']))
 								<span class="yellow">Address :</span><br/>
 								Ad Premier Building 19th Floor, <br/>
 								Jalan Tb. Simatupang No. 5,  Pasar Minggu, <br/>
-								Jakarta 12540.  INDONESIA<br/><br/>
+								Jakarta 12550.  INDONESIA<br/><br/>
 								<div class="row">
 									<div class="col-xs-6">
 										<span class="yellow">Phone :</span><br/>

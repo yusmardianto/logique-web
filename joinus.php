@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -119,7 +119,7 @@
 					<div class="title"><b>Join</b><span class="yellow">Us</span></div>
 					<img src="img/career-main.png" class="img-in-joinus"/>
 					<div class="form-container">
-					<p><br/>
+					<br/>
 						LOGIQUE terbuka untuk kalian yang punya minat tinggi dan kemampuan di bidang WEB, mari bekerja bersama di lingkungan kerja yang nyaman dan efektif.<br/>
 						<div class="text-center">
 							<a href="career/" target="_blank" class="btn btn-contact-us-black">
@@ -127,15 +127,14 @@
 							</a>
 						</div>
 						<br/>						
-						<span class="characteristic-title">Cek informasi lebih lanjut disini:</span><br/>
-						<ul class="joinus-ul link-career">
-							<li><a href="career/" target="_blank" >Mengenal Logique</a></li>
-							<li><a href="career/#benefits" target="_blank">Keuntungan Bekerja di Logique</a></li>
-							<li><a href="career/#internal-rules" target="_blank">Aturan Internal</a></li>
-							<li><a href="career/#to-candidates" target="_blank">Pesan untuk Kandidat</a></li>
+						<div class="text-center">Cek informasi lebih lanjut disini:</div><br/>
+						<ul class="link-career list-inline">
+							<li><a href="career/" target="_blank" >Mengenal Logique</a></li>|
+							<li><a href="career/#benefits" target="_blank">Keuntungan Bekerja di Logique</a></li>|
+							<li><a href="career/#internal-rules" target="_blank">Aturan Internal</a></li><div class="sep-link">|</div>
+							<li><a href="career/#to-candidates" target="_blank">Pesan untuk Kandidat</a></li>|
 							<li><a href="career/#job-opening" target="_blank">Lowongan</a></li>
 						</ul>
-					</p>
 					</div>
 					<!--<div class="form-container">
 						<p>
@@ -487,61 +486,141 @@
 						  </div>
 						</div>
 					</div>-->
-					<div class="bg-grey">
-						<div class="title-bg-grey">Kami mencari mitra bisnis.</span></div>
-						<br/><br/>
-						<div class="row">
-							<div class="col-md-12">
-								Kami akan memberikan pembayaran kepada Anda, setelah kami mendapatkan kontrak baru dari klien yang telah Anda perkenalkan.<br/><br/>
-								
-								Klien atau perusahaan yang kami maksud adalah yang mempunyai keinginan untuk:<br/>
-								<ul class="joinus-ul">
-									<li>Mempunyai website</li>
-									<li>Membuat website/ blog mereka menjadi lebih baik</li>
-									<li>Membuat website/ blog mereka menjadi lebih baik</li>
-									<li>Memulai sebuah bisnis internet yang baru</li>
-								</ul>
-								Atau Anda juga dapat memperkenalkan kami, jika ada yang membutuhkan bantuan mengenai Web dan Internet.<br/><br/>
-								
-								Setelah Anda memperkenalkan kami dengan siapapun atau pihak manapun, selanjutnya beritahu kami dari mana Anda tahu mengenai kami. Jika kami berhasil mendapatkan kontrak dari klien yang telah Anda kenalkan, maka kami akan memberikan komisi untuk Anda.<br/><br/>
-								
-								Penilaian Komisi:<br/>
-								<ul class="joinus-ul">
-									<li>10% dari harga kontrak, apabila total kontrak yang kami dapatkan kurang dari Rp 50,000,000</li>
-									<li>Rp 5,000,000 jika total harga kontrak yang kami dapatkan kurang dari Rp 100,000,000</li>
-									<li>Rp 10,000,000 jika total harga kontrak yang kami dapatkan lebih dari Rp 100,000,000</li>
-								</ul><br/>
-								
-								Tidak ada kata lain yang dapat kami ucapkan, namun akan sangat kami harga jika Anda dapat:<br/>
-								<ul class="joinus-ul">
-									<li>Memberikan informasi kontak mereka</li>
-									<li>Memberikan informasi kepada kami mengenai prospek yang akan Anda tawarkan kepada kami</li>
-									<li>Kami akan menghubungi klien tersebut secara langsung</li>
-									<li>Sesegera mungkin kami akan mengajukan prospek bisnis kami kepada mereka secara langsung</li>
-									<li>Kami akan menghubungi Anda jika kami telah mendapatkan kontrak dari seseorang yang telah Anda perkenalkan kepada kami.</li>
-								</ul><br/>
-								
-								＃Untuk terus menjalin kemitraan dengan Anda, kami akan bertindak secara fleksibel. Semua bergantung pada situasi dan kondisinya. Kami juga menerima kerja sama lain dengan Anda jika Anda berkenan.<br/>
-								＃Kami tentu tidak akan mendahului Anda.<br/>
-								＃Namun, akan sangat kami hargai jika Anda dapat menanyakan secara langsung kepada kami mengenai prospek anggaran serta kemungkinan lainnya<br/>
-								Misalnya, Kami akan memberikan Anda komisi ketika mereka telah bersedia untuk menjadi klien kami. Kami tidak akan memberikan Anda komisi setelah project pertama kita dapatkan dari klien yang telah Anda kenalkan kepada kami. Dari kontrak kedua dan pemeliharaan tidak akan dihitung sebagai komisi.<br/><br/>
-								Prospek yang akan Anda perkenalkan kepada kami dapat berasal dari Indonesia atau dari negara lainnya.<br/><br/>
-								
-								<span class="characteristic-title">Beberapa pertanyaan yang seringkali diajukan:</span><br/>
-								Q．Apakah saya hanya sekedar memperkenalkan serta menghubungkan Anda dengan seseorang yang saya kenal? Atau saya hanya sekedar mengusulkan saja dan melakukan penjualan kepada orang tersebut?<br/>
-								A．Anda hanya perlu mengenalkan orang atau koordinator perusahaan yang memang tertarik dengan layanan yang akan kami berikan, seperti SEO, pengembangan website, pengembangan aplikasi dan lain-lain. Setelah Anda memperkenalkan diri Anda, dan memberitahukan kami bahwa Anda telah memberitahukan kepada mereka tentang LOGIQUE, maka kami akan segera menghubungi mereka. Setelah berkenalan, maka hasilnya serahkan saja pada kami.<br/><br/>
+					<div class="partner-section">
+						<div class="div-main text-center">
+							<span class="mitra-marketing-title">Mitra Marketing</span>
+							<br/><br/><br/><br/>
+							<p>
+								Kami membuka kesempatan bagi Anda Mitra Marketing untuk ikut mengembangkan bisnis Logique.<br/><br/>
+								Kami akan memberikan komisi menarik, setelah kami mendapatkan kontrak baru dari klien yang telah Anda kenalkan.
+							</p>
+						</div>
+						<div class="bg-grey">
+							<div class="title2">Klien atau perusahaan yang kami cari adalah </div>
+							<br/>
+							<div class="row">
+								<div class="col-md-3 client-searched">
+									<img class="center-block img-responsive" src="img/client1.png" alt="Ingin mempunyai website"/>
+									<p>
+										Ingin Mempunyai Website
+									</p>
+								</div>
+								<div class="col-md-3 client-searched">
+									<img class="center-block img-responsive" src="img/client2.png" alt="Ingin membuat website atau blog menjadi lebih baik"/>
+									<p>
+										Ingin membuat website atau blog menjadi lebih baik
+									</p>
+								</div>
+								<div class="col-md-3 client-searched">
+									<img class="center-block img-responsive" src="img/client3.png" alt="Ingin mengembangkan Digital Marketing atau SEO"/>
+									<p>
+										Ingin mengembangkan Digital Marketing atau SEO
+									</p>
+								</div>
+								<div class="col-md-3 client-searched">
+									<img class="center-block img-responsive" src="img/client4.png" alt="Ingin memulai bisnis internet baru"/>
+									<p>
+										Ingin memulai bisnis internet baru
+									</p>
+								</div>
+								<div class="clearfix"></div>
+								<br/>
+								<div class="col-md-12" id="client-desc1">
+									<div>Atau siapapun yang membutuhkan bantuan mengenai Web dan Internet.</div>
+									<p>Setelah Anda memperkenalkan kami dengan pihak klien, silahkan menghubungi kami dan beritahu kami tentang kebutuhan pihak klien. Kami akan segera membuatkan proposal penawaran. Jika kami berhasil mendapatkan               kontrak dari klien yang telah Anda kenalkan, maka kami akan memberikan komisi untuk Anda.</p>
+								</div>
+								<div class="clearfix"></div>
+								<div class="commision-title">Komisi yang Anda dapat: </div>
+								<br/>
+								<div class="col-md-offset-1 col-md-10">
+									<div class="row client-searched">
+										<div class="col-md-4">
+											<img class="center-block img-responsive" src="img/komisi1.png" alt="jika total kontrak kurang dari Rp 50,000,000"/>
+											<p>
+												 jika total kontrak <span class="label-komisi">kurang dari</span><br class="hidden-sm hidden-xs"/>Rp 50,000,000
+											</p>
+										</div>
+										<div class="col-md-4">
+											<img class="center-block img-responsive" src="img/komisi2.png" alt="jika total kontrak kurang dari Rp 100,000,000"/>
+											<p>
+												jika total kontrak <span class="label-komisi">kurang dari</span><br class="hidden-sm hidden-xs"/>Rp 100,000,000
+											</p>
+										</div>
+										<div class="col-md-4">
+											<img class="center-block img-responsive" src="img/komisi3.png" alt="jika total kontrak lebih dari Rp 100,000,000"/>
+											<p>
+												jika total kontrak <span class="label-komisi">lebih dari</span><br class="hidden-sm hidden-xs"/>Rp 100,000,000
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="commision-title">Tidak ada cara khusus untuk memperkenalkan LOGIQUE.<br/>Berikut panduan alur kerja yang dapat Anda gunakan</div>
+								<div class="klien-flow">
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+										  <div class="valign-center">
+												Beritahukan kami kontak informasi Klien
+										  </div>
+										</div>
+									</div>
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+											<div class="valign-center">
+												Beritahukan kami informasi prospek yang diberikan kepada Klien
+											</div>
+										</div>
+									</div>
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+											<div class="valign-center">
+												LOGIQUE akan langsung menghubungi Klien 
+											</div>
+										</div>
+									</div>
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+											<div class="valign-center">
+												LOGIQUE memberikan proposal penawaran kepada Klien
+											</div>
+										</div>
+									</div>
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+											<div class="valign-center">
+												LOGIQUE akan menghubungi Anda dan membayar komisi setelah kontrak kami dapatkan. 
+											</div>
+										</div>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="col-sm-12">
+									<div class="point">* &nbsp;Mitra Kerjasama dengan LOGIQUE bersifat fleksibel, bergantung dengan situasi dan kondisi. Kami dapat bekerja sama menyesuaikan kondisi Anda atau dengan cara lain juga.</div>
+									<div class="point">* &nbsp;Kami tentu tidak akan mendahului Anda.</div>
+									<div class="point">* &nbsp;Kami sangat menghargai jika Anda dapat menanyakan anggaran dan kemungkinan lainnya kepada Klien</div>
+									<div class="point">* &nbsp;Kami akan memberikan Anda komisi ketika mereka telah bersedia untuk menjadi klien baru kami. Kami tidak akan memberikan Anda komisi setelah kontrak pertama dari klien yang Anda kenalkan. Kontrak kedua dan kontrak lainnya tidak akan dihitung sebagai komisi.</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="commision-title">Prospek yang akan Anda perkenalkan boleh berasal dari Indonesia atau dari negara lainnya</div>
+							</div>
+							<br/>
+							<div class="">
+								<div class="label-questions">Pertanyaan yang sering diajukan:</div><br/>
+								<div class="question">Apakah saya hanya sekedar memperkenalkan serta menghubungkan Anda dengan seseorang yang saya kenal? Atau saya hanya sekedar mengusulkan saja dan melakukan penjualan kepada orang tersebut?</div>
+								<div class="answer">Anda hanya perlu mengenalkan orang atau koordinator perusahaan yang memang tertarik dengan layanan yang akan kami berikan, seperti SEO, pengembangan website, pengembangan aplikasi dan lain-lain. Setelah Anda memperkenalkan diri Anda, dan memberitahukan kami bahwa Anda telah memberitahukan kepada mereka tentang LOGIQUE, maka kami akan segera menghubungi mereka. Setelah berkenalan, maka hasilnya serahkan saja pada kami.</div>
+								<br/>
+								<div class="question">Bagaimana cara Anda menghubungi saya setelah Anda telah mendapatkan kontrak dengan orang/ perusahaan tersebut?</div>
+								<div class="answer">Sesegera mungkin kami akan memberitahukan kepada Anda, begitu kami telah mengajukan layanan yang kami tawarkan dan berhasil mendapatkan proyek tersebut, dan kami akan mengkonfirmasi beberapa hal mengenai pembayaran (harga, prosedur transfer, dll).</div><br/>
 
-								Q．Bagaimana cara Anda menghubungi saya setelah Anda telah mendapatkan kontrak dengan orang/ perusahaan tersebut?<br/>
-								A．Sesegera mungkin kami akan memberitahukan kepada Anda, begitu kami telah mengajukan layanan yang kami tawarkan dan berhasil mendapatkan proyek tersebut, dan kami akan mengkonfirmasi beberapa hal mengenai pembayaran (harga, prosedur transfer, dll).<br/><br/>
+								<div class="question">Dapatkah komisi dibayarkan melalui individu/ perorangan?</div>
+								<div class="answer">Kami dapat membayarkan komisi melalui individu (perorangan) atau melalui perusahaan, semuanya tergantung dari pilihan Anda.</div><br/>
 
-								Q．Dapatkah komisi dibayarkan melalui individu/ perorangan?<br/>
-								A．Kami dapat membayarkan komisi melalui individu (perorangan) atau melalui perusahaan, semuanya tergantung dari pilihan Anda.<br/><br/>
+								<div class="question">Apakah ada pengurangan komisi yang diambil dari pajak?</div>
+								<div class="answer">Ya, akan ada pemotongan komisi yang diberikan kepada Anda. Adapun besaran pemotongan yang akan dikenakan sebesar 10% bagi yang telah mempunyai NPWP dan 20% bagi yang tidak mempunyai NPWP.</div><br/>
 
-								Q．Apakah ada pengurangan komisi yang diambil dari pajak?<br/>
-								A．Ya, akan ada pemotongan komisi yang diberikan kepada Anda. Adapun besaran pemotongan yang akan dikenakan sebesar 10% bagi yang telah mempunyai NPWP dan 20% bagi yang tidak mempunyai NPWP.<br/><br/>
-
-								Q．Apakah komisi yang akan dibayarkan dalam bentuk mata uang Rupiah?<br/>
-								A．Kami akan sangat mengapresiasi jika dapat melakukan transfer uang ke mata uang Rupiah. Tapi jika Anda tidak mempunyai rekening bank di Indonesia, Kami juga dapat melakukan pengiriman uang secara internasional setelah mengubah uang Rupiah menjadi mata uang Anda. 
+								<div class="question">Apakah komisi yang akan dibayarkan dalam bentuk mata uang Rupiah?</div>
+								<div class="answer">Kami akan sangat mengapresiasi jika dapat melakukan transfer uang ke mata uang Rupiah. Tapi jika Anda tidak mempunyai rekening bank di Indonesia, Kami juga dapat melakukan pengiriman uang secara internasional setelah mengubah uang Rupiah menjadi mata uang Anda. </div>
 							</div>
 						</div>
 					</div>
