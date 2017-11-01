@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -106,7 +106,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Portfolio</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">LOGIQUE telah membuat banyak website dan aplikasi untuk klien nasional dan internasional.</h1>
+							<h1 class="tagline">LOGIQUE telah banyak menyediakan jasa pembuatan website dan SEO untuk klien nasional dan internasional.</h1>
 						</div>
 					</div>
 				</div>
@@ -119,7 +119,7 @@
 					<div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
 					<div class="form-container our-portfolio">
 						<!--<div style="text-align: center;font-size: 60px;padding: 150px 0;font-weight: bold;font-style: italic;">Coming Soon</div>-->
-						LOGIQUE memiliki banyak pengalaman dalam pembuatan website dan aplikasi. Dalam waktu dekat kami akan mengupdate portofilio kami terkait pembuatan website, web system, aplikasi android, aplikasi iphone (iOS), dan desain media cetak.<br/><br/>
+						LOGIQUE memiliki banyak pengalaman dalam jasa pembuatan website, aplikasi, dan SEO. Dalam waktu dekat kami akan mengupdate portofolio kami terkait pembuatan website, web system, aplikasi android, aplikasi iphone (iOS), dan desain media cetak.<br/><br/>
 						Hubungi kami untuk melihat portofolio dan karya kami seputar pembuatan, pengelolaan, dan pengoperasian website. Silakan menghubungi kami dari sini:
 						<div class="text-center">
 							<a href="contact.php" class="btn btn-contact-us-black">

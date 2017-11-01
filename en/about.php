@@ -139,16 +139,16 @@
 						</div>
 					<div class="title"><b>About</b><span class="yellow">Us</span></div>
 					<div class="form-container">
-						LOGIQUE are web developers providing digital marketing and creating website / web system. We support developing website / web system and maintenance, in Jakarta, Indonesia, and overseas like Japan. Other than our web-related services such as web design, internet marketing, SEO, campaign utilizing social media maintenance (Facebook, Instagram, etc.), and mobile application development, we are also providing design & printing service such as company profile, catalog, leaflet, etc. <br/><br/>
-						We have more than 5 years’ experience in Indonesia and our skilled designers, programmers, and contents writers will take care of your projects. We will provide suitable service to meet your goal and budget.<br/><br/>
-						<span class="characteristic-title">Characteristic</span><br/><br>
+						Logique is a web developer that providing various services of web and internet such as digital marketing, website creating, and web system development. Our scopes of website creating are not only in the domestic area (Jakarta, Indonesia) but also abroad, like Japan. We are provide the other services like web design, SEO service, social media operating, and mobile application development. Also, we are providing design & printing services like company profile creating, catalogs, leaflets, etc. 
+						<br/><br/>
+						With 5 years experiences on Indonesia and supported by skillful designers, programmers, and content writers that we have, we can give you a high quality of service on your project that same as your goals and your budget estimation.  <br/><br/> 
+						<span class="characteristic-title">Characteristic of <span class="yellow">LOGIQUE</span></span><br/><br>
 						<ul class="circle-list">
-							<li>LOGIQUE is one of a few Japanese Web developing companies located in Indonesia.</li>
-							<li>We have worked with many large clients with our plenty of experiences and trusted skills. LOGIQUE propose you the suitable plan depending on your needs and maximize your benefit.</li>
-							<li>We believe “Speed” is one of the most important thing in business in Indonesia when everything has been changing so quick and so dramatically. </li>
-							<li>We sometimes even rush you to proceed the project for your success in business to move　forward with you.</li>
-							<li>LOGIQUE can support you from creating a simple corporate website up to a new web service for you to get shares in Indonesian market. </li>
-							<li>As a flexible small web developer or as a reliable system developer with strong security, we adopt our styles into your expectation and maximize our values.</li>
+							<li>LOGIQUE is one of web developer on Japan that take location in Indonesia.</li>
+							<li>We have been cooperating with many of great clients. With plenty of experiences and our high capability, LOGIQUE can offering you plenty of solutions and increase your profit.</li>
+							<li>Because the time are changing so quickly, we believe “speed” is one of the most important thing on business sector in Indonesia. Occasionally, we are persuade you to fasten our work for your succeed and keeping your business on the top. </li>
+							<li>To boost up your business, so it can be penetrate on Indonesia market easily, LOGIQUE is capable of creating company website from simple task through the complex one (web system).</li>
+							<li>As web developer, we are very open minded and reliable to give the best solutions of web system for you. We can fulfill your desire, needs, and your expectation for the optimal and best results. </li>
 						</ul>
 					</div>
 					

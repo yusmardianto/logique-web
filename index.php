@@ -1,19 +1,19 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="id">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="Buat website, aplikasi, optimasi SEO, atau digital marketing. Segera konsultasikan kebutuhan digital Anda melalui LOGIQUE, Web Developer asal Jepang no. 1 di Indonesia.">
-	<meta name="keywords" content="pembuatan website, pembuat aplikasi, buat web, aplikasi android, digital marketing, web developer, desain web, seo, aplikasi iphone, logique">
+    <meta name="description" itemprop="description" content="Jasa pembuatan website dan SEO berkualitas di Jakarta, konsultasikan kebutuhan digital Anda melalui LOGIQUE, Web Developer asal Jepang no. 1 di Indonesia.">
+	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Perusahaan Jasa Pembuatan Website dan Aplikasi Terpercaya Asal Jepang | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Jasa Pembuatan Website dan SEO Berkualitas | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://logique.co.id/">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="Buat website, aplikasi, optimasi SEO, atau digital marketing. Segera konsultasikan kebutuhan digital Anda melalui LOGIQUE, Web Developer asal Jepang no. 1 di Indonesia.">
+	<meta property="og:description" content="Jasa pembuatan website dan SEO berkualitas di Jakarta, konsultasikan kebutuhan digital Anda melalui LOGIQUE, Web Developer asal Jepang no. 1 di Indonesia.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -25,7 +25,7 @@
 	ga('send', 'pageview');
 
 	</script>
-    <title>Perusahaan Jasa Pembuatan Website dan Aplikasi Terpercaya Asal Jepang | LOGIQUE Digital Indonesia</title>
+    <title>Jasa Pembuatan Website dan SEO Berkualitas | LOGIQUE Digital Indonesia</title>
 
 	<link href="css/bootstrap.min.css" rel="stylesheet">	
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
@@ -115,12 +115,40 @@
 							<br/><br/>
 							<div class="text-center">
 								<p class="title-index">
-									Perusahaan <span class="yellow">Jasa Pembuatan Website dan Aplikasi </span> Terpercaya Asal Jepang
+									<span class="yellow">Jasa Pembuatan Website dan SEO</span> <br/>Berkualitas di Jakarta
 								</p>
-								LOGIQUE siap melayani dan membantu Anda dalam pembuatan website, aplikasi, digital marketing, content marketing, social media running, video creating, printing, optimasi SEO, dan server/ infra operation. Dengan pengalaman dari proyek – proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, maka keahlian kami akan menjadi terobosan baru untuk bisnis Anda.<br/><br/>
-								<center>
-									<a href="services.php" class="btn btn-see-more">Lihat Layanan LOGIQUE <i class="fa fa-arrow-circle-o-right" ></i></a>
-								</center>
+								LOGIQUE siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Dengan pengalaman dari proyek - proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
+								<div class="row">
+									<div class="col-md-3 col-sm-6">
+										<div class="div-service-cat">
+											<img src="img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
+											<div>Jasa Pembuatan<br/><span>Website</span></div>
+											<a href="services.php" class="btn">Baca Selengkapnya</a>
+										</div>
+									</div>
+									<div class="col-md-3 col-sm-6">
+										<div class="div-service-cat">
+											<img src="img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
+											<div>Jasa Pembuatan<br/><span>Aplikasi</span></div>
+											<a href="services.php" class="btn">Baca Selengkapnya</a>
+										</div>
+									</div>
+									<div class="col-md-3 col-sm-6">
+										<div class="div-service-cat">
+											<img src="img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
+											<div>Jasa <br/><span>Promosi Online</span></div>
+											<a href="services.php" class="btn">Baca Selengkapnya</a>
+										</div>
+									</div>
+									<div class="col-md-3 col-sm-6">
+										<div class="div-service-cat">
+											<img src="img/jasa-seo.png" alt="Jasa SEO" class="center-block img-responsive"/>
+											<div>Jasa <br/><span>SEO</span></div>
+											<a href="services.php" class="btn">Baca Selengkapnya</a>
+										</div>
+									</div>
+								</div>
+							</div>
 							</div>
 							<br/><br/>
 						</div>
@@ -139,12 +167,46 @@
 					<div class="title-container hidden-xs">
 						<div class="valign-center text-center">
 							<h1 class="title-index">
-								Perusahaan <span class="yellow">Jasa Pembuatan Website dan Aplikasi </span> Terpercaya Asal Jepang
+								Jasa Pembuatan Website dan SEO <br/>Berkualitas di Jakarta
 							</h1>
-							LOGIQUE siap melayani dan membantu Anda dalam pembuatan website, aplikasi, digital marketing, content marketing, social media running, video creating, printing, optimasi SEO, dan server/ infra operation. Dengan pengalaman dari proyek – proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, maka keahlian kami akan menjadi terobosan baru untuk bisnis Anda.<br/><br/>
-							<center>
+							LOGIQUE siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Dengan pengalaman dari proyek - proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
+							<!--<center>
 								<a href="services.php" class="btn btn-see-more">Lihat Layanan LOGIQUE <i class="fa fa-arrow-circle-o-right" ></i></a>
-							</center>
+							</center>-->
+							<div class="row">
+								<div class="col-lg-offset-1 col-lg-10">
+									<div class="row">
+										<div class="col-md-3 col-sm-6">
+											<div class="div-service-cat">
+												<img src="img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
+												<div>Jasa Pembuatan<br/><span>Website</span></div>
+												<a href="services.php" class="btn">Baca Selengkapnya</a>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-6">
+											<div class="div-service-cat">
+												<img src="img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
+												<div>Jasa Pembuatan<br/><span>Aplikasi</span></div>
+												<a href="services.php" class="btn">Baca Selengkapnya</a>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-6">
+											<div class="div-service-cat">
+												<img src="img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
+												<div>Jasa <br/><span>Promosi Online</span></div>
+												<a href="services.php" class="btn">Baca Selengkapnya</a>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-6">
+											<div class="div-service-cat">
+												<img src="img/jasa-seo.png" alt="Jasa SEO" class="center-block img-responsive"/>
+												<div>Jasa <br/><span>SEO</span></div>
+												<a href="services.php" class="btn">Baca Selengkapnya</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>

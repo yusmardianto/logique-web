@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="id">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -106,7 +106,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Layanan</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">LOGIQUE menyediakan layanan pembuatan website, aplikasi, desain, digital marketing dan SEO.</h1>
+							<h1 class="tagline">LOGIQUE menyediakan jasa pembuatan website, aplikasi, desain web, digital marketing dan SEO.</h1>
 						</div>
 					</div>
 				</div>
@@ -118,7 +118,7 @@
 				<div id="contents">
 					<div class="title"><b>Layanan</b><span class="yellow">Kami</span></div>
 					<div class="form-container">
-						LOGIQUE menyediakan bermacam-macam layanan terkait web seperti pengembangan website / sistem web, aplikasi mobile, digital marketing, optimasi mesin pencarian (SEO), dan lain-lain. Kami mampu menyediakan solusi yang sesuai kebutuhan bisnis Anda dengan harga yang terjangkau dan berkualitas. 
+						LOGIQUE menyediakan bermacam-macam jasa terkait website seperti jasa pembuatan website / sistem web, aplikasi mobile, digital marketing, jasa SEO, dan lain-lain. Kami mampu menyediakan solusi berkualitas yang sesuai kebutuhan bisnis Anda dengan harga yang terjangkau.
 					</div>
 					<div class="feel-free row-center-sm">
 						<div class="col-sm-8">

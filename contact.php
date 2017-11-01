@@ -35,7 +35,7 @@ if(isset($_POST['submitted']))
 
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -142,7 +142,7 @@ if(isset($_POST['submitted']))
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Hubungi Kami</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">Punya kebutuhan terkait pembuatan website, aplikasi, desain, profil perusahaan dan brosur? Hubungi LOGIQUE.</h1>
+							<h1 class="tagline">Anda punya kebutuhan terkait jasa pembuatan website, aplikasi, desain, profil perusahaan, dan brosur? LOGIQUE siap membantu Anda.</h1>
 						</div>
 					</div>
 				</div>
@@ -212,7 +212,7 @@ if(isset($_POST['submitted']))
 								<span class="yellow">Alamat :</span><br/>
 								Ad Premier Building 19th Floor, <br/>
 								Jalan Tb. Simatupang No. 5,  Pasar Minggu, <br/>
-								Jakarta 12550.  INDONESIA<br/><br/>
+								Jakarta 12540.  INDONESIA<br/><br/>
 								<div class="row">
 									<div class="col-xs-6">
 										<span class="yellow">Nomor Telepon :</span><br/>
@@ -229,61 +229,81 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="bg-grey">
 						<div class="title-bg-grey">Prosedur Permintaan Informasi</span></div><br/><br/>
-						<div class="text-center" style="font-size:120%">
-							Kami akan menghubungi Anda dalam 1 hari kerja<br/>
-							↓<br/>
-							Kami akan mengkonfirmasi beberapa hal dengan Anda.<br/>
-							↓<br/>
-							Kami akan mendetilkan kebutuhan serta membuatkan proposal proyek untuk Anda.<br/>
-							↓<br/>
-							Pembuatan kontrak dan memulai pengerjaan proyek
+						<div class="klien-flow contact-flow row">
+							<div class="col-sm-3">
+								<div class="div-for-workflow">
+								  <div class="valign-center">
+										Kami akan menghubungi Anda dalam 2 hari kerja.
+								  </div>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="div-for-workflow">
+									<div class="valign-center">
+										Kami akan mengkonfirmasi beberapa hal dengan Anda.
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="div-for-workflow">
+									<div class="valign-center">
+										Kami akan mendetilkan kebutuhan serta membuatkan proposal proyek untuk Anda. 
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="div-for-workflow">
+									<div class="valign-center">
+										Pembuatan kontrak dan memulai pengerjaan proyek.
+									</div>
+								</div>
+							</div>
+							<div class="clearfix"></div>
 						</div>
-					</div>
-					<div class="form-container">	
+						<!--<div class="form-container">	
+							<br/>
+							<span class="characteristic-title">Contoh Permintaan</span><br/><br/>
+							<ul class="joinus-ul">
+								<li>Kami ingin mengembangkan sebuah website</li>
+								<li>Kami ingin memperbaharui atau mengupdate website kami</li>
+								<li>Kami ingin mengembangkan halaman kampanye / landing page</li>
+								<li>Kami ingin melakukan outsourcing untuk operasional website kami</li>
+								<li>Kami mencari penyewaan web server dan perusahaan untuk mengelolanya.</li>
+								<li>Kami ingin mengembangkan sistem web</li>
+								<li>Kami ingin membuat aplikasi Android atau iOS (iPhone)</li>
+								<li>Kami ingin meningkatkan SEO dari website yang kami miliki</li>
+								<li>Kami ingin memasang atau mengoperasikan iklan di Internet</li>
+								<li>Kami ingin menganalisa trafik yang terjadi pada website kami</li>
+								<li>Kami mencari sebuah perusahaan untuk konsultasi bisnis internet kami</li>
+								<li>Kami ingin melakukan pemasaran konten</li>
+								<li>Kami ingin melakukan pemotretan dan pembuatan video</li>
+								<li>Kami mencari perusahaan yang dapat mendesain profil perusahaan atau hasil cetakan lainnya untuk pameran</li>
+							</ul>
+						</div>-->
+						<br/><br class="hidden-xs"/><div class="label-questions">Pertanyaan yang sering diajukan:</div><br/>
+						<div class="question">Apakah memungkinkan bagi Anda untuk memproses proyek menggunakan Bahasa Inggris?</div>
+						<div class="answer">Pada umumnya bisa saja, tapi mungkin akan ada beberapa kesulitan ketika memprosesnya dalam bahasa Inggris. Namun, Anda tidak perlu khawatir sebab kebanyakan dari staff kamu mampu berkomunikasi dengan bahasa Inggris cukup untuk memproses proyek tersebut. Kami juga menerima proyek yang berasal dari perusahaan di luar negeri.</div>
 						<br/>
-						<span class="characteristic-title">Contoh Permintaan</span><br/><br/>
-						<ul class="joinus-ul">
-							<li>Kami ingin mengembangkan sebuah website</li>
-							<li>Kami ingin memperbaharui atau mengupdate website kami</li>
-							<li>Kami ingin mengembangkan halaman kampanye / landing page</li>
-							<li>Kami ingin melakukan outsourcing untuk operasional website kami</li>
-							<li>Kami mencari penyewaan web server dan perusahaan untuk mengelolanya.</li>
-							<li>Kami ingin mengembangkan sistem web</li>
-							<li>Kami ingin membuat aplikasi Android atau iOS (iPhone)</li>
-							<li>Kami ingin meningkatkan SEO dari website yang kami miliki</li>
-							<li>Kami ingin memasang atau mengoperasikan iklan di Internet</li>
-							<li>Kami ingin menganalisa trafik yang terjadi pada website kami</li>
-							<li>Kami mencari sebuah perusahaan untuk konsultasi bisnis internet kami</li>
-							<li>Kami ingin melakukan pemasaran konten</li>
-							<li>Kami ingin melakukan pemotretan dan pembuatan video</li>
-							<li>Kami mencari perusahaan yang dapat mendesain profil perusahaan atau hasil cetakan lainnya untuk pameran</li>
-						</ul>
-					</div>
-					<div class="bg-grey">
-						<div class="title-bg-grey">FAQ</span></div><br/><br/>
-						<div class="qa-list">Q. Apakah memungkinkan bagi Anda untuk memproses proyek menggunakan Bahasa Inggris?</div>
-						<div class="qa-list">A. Pada umumnya bisa saja, tapi mungkin akan ada beberapa kesulitan ketika memprosesnya dalam bahasa Inggris. Namun, Anda tidak perlu khawatir sebab kebanyakan dari staff kamu mampu berkomunikasi dengan bahasa Inggris cukup untuk memproses proyek tersebut. Kami juga menerima proyek yang berasal dari perusahaan di luar negeri.</div><br/>
+						<div class="question">Dapatkah Anda mengadakan pertemuan di luar negeri?</div>
+						<div class="answer">Terkait hal ini kami akan mendiskusikannya dengan Anda terlebih dahulu. Biasanya kami menawarkan percakapan via video seperti Skype untuk melakukan hal tersebut, tapi kami juga dapat bersikap fleksibel tergantung dari kondisi dan kasus yang dihadapi.</div><br/>
 
-						<div class="qa-list">Q. Dapatkah Anda mengadakan pertemuan di luar negeri?</div>
-						<div class="qa-list">A. Terkait hal ini kami akan mendiskusikannya dengan Anda terlebih dahulu. Biasanya kami menawarkan percakapan via video seperti Skype untuk melakukan hal tersebut, tapi kami juga dapat bersikap fleksibel tergantung dari kondisi dan kasus yang dihadapi.</div><br/>
+						<div class="question">Kami berpikir untuk mengganti outsourcer sistem atau website kami dan dengan tim Anda.</div>
+						<div class="answer">Silahkan hubungi kami jika Anda berpikir seperti itu, jangan ragu dan khawatir perihal dokumentasi dan sebagainya. Sebab, pada beberapa kasus yang telah kami alami, kami dapat mengelola dan mengoperasikan web / sistem meskipun dengan dokumentasi yang minim selama outsourcer sebelumnya menggunakan teknologi yang pada umumnya telah dipakai.</div><br/>
 
-						<div class="qa-list">Q. Kami berpikir untuk mengganti outsourcer sistem atau website kami dan dengan tim Anda.</div>
-						<div class="qa-list">A. Silahkan hubungi kami jika Anda berpikir seperti itu, jangan ragu dan khawatir perihal dokumentasi dan sebagainya. Sebab, pada beberapa kasus yang telah kami alami, kami dapat mengelola dan mengoperasikan web / sistem meskipun dengan dokumentasi yang minim selama outsourcer sebelumnya menggunakan teknologi yang pada umumnya telah dipakai.</div><br/>
+						<div class="question">Kami mencari developer untuk membangun sebuah sistem manajemen untuk bisnis kami.</div>
+						<div class="answer">Dengan pengalaman kami sebagai pengembang sistem, kami dapat mengembangkan berbagai macam sistem, seperti sistem manajemen pelanggan, sistem manajemen peminjaman, sistem rekrutmen, sistem penunjuk, e-commerce, sistem manajemen konten, dan lain-lain. Kami juga ahli dalam pengembangan sistem dengan teknologi website yang umumnya digunakan. Silahkan hubungi kami untuk berdiskusi dan menanyakan hal ini lebih lanjut.</div><br/>
 
-						<div class="qa-list">Q. Kami mencari developer untuk membangun sebuah sistem manajemen untuk bisnis kami.</div>
-						<div class="qa-list">A. Dengan pengalaman kami sebagai pengembang sistem, kami dapat mengembangkan berbagai macam sistem, seperti sistem manajemen pelanggan, sistem manajemen peminjaman, sistem rekrutmen, sistem penunjuk, e-commerce, sistem manajemen konten, dan lain-lain. Kami juga ahli dalam pengembangan sistem dengan teknologi website yang umumnya digunakan. Silahkan hubungi kami untuk berdiskusi dan menanyakan hal ini lebih lanjut.</div><br/>
-
-						<div class="qa-list">Q. Kami ingin bermitra atau menjadi distributor LOGIQUE.</div>
-						<div class="qa-list">A. Mari kita bicarakan hal ini secara rinci. Silahkan kunjungi kantor kami jika Anda mempunyai rencana ke Jakarta.</div><br/>
-
-						<div class="qa-list">Q. Kami ingin membuat aplikasi Android atau iOS (iPhone).</div>
-						<div class="qa-list">A. Kami mampu mengembangkan aplikasi Android dan iOS untuk Anda. Jika Anda inginkan, kami dapat merencanakan pembuatan aplikasi tersebut untuk Anda.</div><br/>
-
-						<div class="qa-list">Q. Kami ingin mencetak alat pemasaran tapi apakah Anda juga menyediakan layanan pencetakan selain desain?</div>
-						<div class="qa-list">A. Tentu saja kami dapat membantu mendesain dan mencetak pamflet sekaligus untuk Anda. Selain itu, kami juga bisa mendesain dan mencetak produk lainnya seperti kaos. Namun, jika Anda ingin mencetak sesuatu yang sangat sulit, lebih baik Anda mencari perusahaan percetakan khusus. Kami juga dapat memperkenalkan kepada Anda perusahaan yang kami tahu jika Anda menginginkannya.</div><br/>
-
-						<div class="qa-list">Q. Apakah Anda mampu mengimplementasikan SEO dalam bahasa Indonesia?</div>
-						<div class="qa-list">A. Ya, kami mempunyai keahlian SEO yang kami tunjukkan di berbagai situs yang telah berada di deretan paling atas pada berbagai industri, seperti keuangan, perjalanan, pendidikan, dan lain-lain. Tim kami terdiri dari penulis konten dan pemasaran yang berasal dari Indonesia yang akan memberikan hasil terbaik untuk pelayanan SEO bagi Anda. Selain itu, kami juga dapat menerapkan SEO dalam bahasa Inggris dan Jepang dengan baik.</div><br/>
+						<div class="question">Kami ingin bermitra atau menjadi distributor LOGIQUE.</div>
+						<div class="answer">Mari kita bicarakan hal ini secara rinci. Silahkan kunjungi kantor kami jika Anda mempunyai rencana ke Jakarta.</div><br/>
+						
+						<div class="question">Kami ingin membuat aplikasi Android atau iOS (iPhone).</div>
+						<div class="answer">Kami mampu mengembangkan aplikasi Android dan iOS untuk Anda. Jika Anda inginkan, kami dapat merencanakan pembuatan aplikasi tersebut untuk Anda.</div><br/>
+						
+						<div class="question">Kami ingin mencetak alat pemasaran tapi apakah Anda juga menyediakan layanan pencetakan selain desain?</div>
+						<div class="answer">Tentu saja kami dapat membantu mendesain dan mencetak pamflet sekaligus untuk Anda. Selain itu, kami juga bisa mendesain dan mencetak produk lainnya seperti kaos. Namun, jika Anda ingin mencetak sesuatu yang sangat sulit, lebih baik Anda mencari perusahaan percetakan khusus. Kami juga dapat memperkenalkan kepada Anda perusahaan yang kami tahu jika Anda menginginkannya.</div><br/>
+						
+						<div class="question">Apakah Anda mampu mengimplementasikan SEO dalam bahasa Indonesia?</div>
+						<div class="answer">Ya, kami mempunyai keahlian SEO yang kami tunjukkan di berbagai situs yang telah berada di deretan paling atas pada berbagai industri, seperti keuangan, perjalanan, pendidikan, dan lain-lain. Tim kami terdiri dari penulis konten dan pemasaran yang berasal dari Indonesia yang akan memberikan hasil terbaik untuk pelayanan SEO bagi Anda. Selain itu, kami juga dapat menerapkan SEO dalam bahasa Inggris dan Jepang dengan baik.</div><br/>						
 					</div>
 				</div>
 			</div>

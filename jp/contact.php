@@ -231,61 +231,81 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="bg-grey">
 						<div class="title-bg-grey">お問合せからの流れ</span></div><br/><br/>
-						<div class="text-center" style="font-size:120%">
-							お問合せ後、通常1営業日以内に返信いたします。<br/>
-							↓<br/>
-							簡易な、確認・ご提案をさせていただきます。<br/>
-							↓<br/>
-							ヒアリング＆ご提案<br/>
-							↓<br/>
-							ご成約〜プロジェクト開始
+						<div class="klien-flow contact-flow row">
+							<div class="col-sm-3">
+								<div class="div-for-workflow">
+								  <div class="valign-center">
+										お問合せ後、通常1営業日以内に返信いたします。
+								  </div>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="div-for-workflow">
+									<div class="valign-center">
+										簡易な、確認・ご提案をさせていただきます。
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="div-for-workflow">
+									<div class="valign-center">
+										ヒアリング＆ご提案 
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="div-for-workflow">
+									<div class="valign-center">
+										ご成約〜プロジェクト開始
+									</div>
+								</div>
+							</div>
+							<div class="clearfix"></div>
 						</div>
-					</div>
-					<div class="form-container">	
+						<!--<div class="form-container">	
+							<br/>
+							<span class="characteristic-title">お問い合わせ例</span><br/><br/>
+							<ul class="joinus-ul">
+								<li>WEBサイトを制作したい</li>
+								<li>WEBサイトをリニューアル・変更したい</li>
+								<li>キャンペーンページ、ランディングページを作りたい</li>
+								<li>WEBサイトの運用を委託したい</li>
+								<li>WEBサーバーを探している、レンタルしたい、運用してもらいたい</li>
+								<li>WEBシステムを開発してもらいたい</li>
+								<li>モバイルアプリを開発したい</li>
+								<li>SEO対策をしたい</li>
+								<li>ネット広告を出稿、運用委託したい</li>
+								<li> WEBアクセス解析を依頼したい</li>
+								<li>ネットビジネスコンサルティングを依頼したい</li>
+								<li>コンテンツマーケティングを行いたい</li>
+								<li>写真撮影、映像制作してほしい</li>
+								<li>会社案内や展示会用の印刷物をデザインできる会社を探している</li>
+							</ul>
+						</div>-->
+						<br/><br class="hidden-xs"/><div class="label-questions">よくあるご質問・ご相談</div><br/>
+						<div class="question">日本人同士で日本語で相談・プロジェクト進行できるのか？</div>
+						<div class="answer">案件の内容によりますが、可能です。インドネシアでのプロジェクトを日本の部署の日本人担当者さまと、弊社日本人がやり取りさせていただきながらの進行も可能です。オフショア案件のご相談も受け付けております。</div>
 						<br/>
-						<span class="characteristic-title">お問い合わせ例</span><br/><br/>
-						<ul class="joinus-ul">
-							<li>WEBサイトを制作したい</li>
-							<li>WEBサイトをリニューアル・変更したい</li>
-							<li>キャンペーンページ、ランディングページを作りたい</li>
-							<li>WEBサイトの運用を委託したい</li>
-							<li>WEBサーバーを探している、レンタルしたい、運用してもらいたい</li>
-							<li>WEBシステムを開発してもらいたい</li>
-							<li>モバイルアプリを開発したい</li>
-							<li>SEO対策をしたい</li>
-							<li>ネット広告を出稿、運用委託したい</li>
-							<li> WEBアクセス解析を依頼したい</li>
-							<li>ネットビジネスコンサルティングを依頼したい</li>
-							<li>コンテンツマーケティングを行いたい</li>
-							<li>写真撮影、映像制作してほしい</li>
-							<li>会社案内や展示会用の印刷物をデザインできる会社を探している</li>
-						</ul>
-					</div>
-					<div class="bg-grey">
-						<div class="title-bg-grey">よくあるご質問・ご相談</span></div><br/><br/>
-						<div class="qa-list">Q. 日本人同士で日本語で相談・プロジェクト進行できるのか？</div>
-						<div class="qa-list">A. 案件の内容によりますが、可能です。インドネシアでのプロジェクトを日本の部署の日本人担当者さまと、弊社日本人がやり取りさせていただきながらの進行も可能です。オフショア案件のご相談も受け付けております。</div><br/>
+						<div class="question">日本で打ち合わせすることは可能ですか？</div>
+						<div class="answer">まずはご相談ください。原則、SKYPEミーティングなどをお願いしておりますが、ご相談内容により検討いたします。</div><br/>
 
-						<div class="qa-list">Q. 日本で打ち合わせすることは可能ですか？</div>
-						<div class="qa-list">A. まずはご相談ください。原則、SKYPEミーティングなどをお願いしておりますが、ご相談内容により検討いたします。</div><br/>
+						<div class="question">いま委託しているWEB・システム会社から乗り換えを検討している.</div>
+						<div class="answer">ドキュメントが無いなどで運用会社の変更を躊躇されるお客様が多いのですが、十分な引継ぎがなくても一般的なテクノロジーで作られたWEB/システムであれば、引継ぎ、修正、運用が可能なケースがほとんどです。お気軽にご相談ください。</div><br/>
 
-						<div class="qa-list">Q. いま委託しているWEB・システム会社から乗り換えを検討している</div>
-						<div class="qa-list">A. ドキュメントが無いなどで運用会社の変更を躊躇されるお客様が多いのですが、十分な引継ぎがなくても一般的なテクノロジーで作られたWEB/システムであれば、引継ぎ、修正、運用が可能なケースがほとんどです。お気軽にご相談ください。</div><br/>
+						<div class="question">○☓管理システムを開発できる会社を探しているのだが</div>
+						<div class="answer">インドネシアで顧客管理システム、債権管理、販売管理、採用管理、ポイント管理、e-Commerce、コンテンツ管理システムなど様々なシステムを構築運用してきました。オープンなWEBシステム技術を使ったシステム開発が得意です。柔軟に早く開発することが可能ですので、まずはご相談ください。</div><br/>
 
-						<div class="qa-list">Q. ○☓管理システムを開発できる会社を探しているのだが</div>
-						<div class="qa-list">A. インドネシアで顧客管理システム、債権管理、販売管理、採用管理、ポイント管理、e-Commerce、コンテンツ管理システムなど様々なシステムを構築運用してきました。オープンなWEBシステム技術を使ったシステム開発が得意です。柔軟に早く開発することが可能ですので、まずはご相談ください。</div><br/>
-
-						<div class="qa-list">Q. インドネシアでの制作パートナーとして検討したい</div>
-						<div class="qa-list">A. ぜひ詳細をご相談させてください。ジャカルタ視察旅行の機会には是非ともお立ち寄りください。</div><br/>
-
-						<div class="qa-list">Q. モバイルアプリ開発を検討している</div>
-						<div class="qa-list">A. アンドロイドアプリ、iOSアプリ開発のどちらも可能です。企画の段階から関与する形態も可能ですのでご相談ください。</div><br/>
-
-						<div class="qa-list">Q. 販促物を作りたいのだがデザインだけじゃなくて印刷や製作まで可能なのか？</div>
-						<div class="qa-list">A. パンフレット、リーフレットなど通常の印刷物はもちろん可能です。うちわやTシャツなどであれば、こういったものへの印刷も可能ですが、大きな製作物や複雑なものだと専門業者に委託されたほうが良いかもしれません。いずれにしろご相談いただければ、弊社にて専門業者をご紹介することも可能です。</div><br/>
-
-						<div class="qa-list">Q. インドネシア語のSEO対策が可能ですか？</div>
-						<div class="qa-list">A. 可能です。金融系キーワードや旅行（訪日旅行）キーワード、教育系でSEO対策の経験があり、ビッグキーワードで上位表示を獲得しました。インドネシア人コンテンツライターとマーケッターがチームを組んで対策しますのでインドネシア語SEO対策が一番得意です。英語、日本語も可能です。</div><br/>
+						<div class="question">インドネシアでの制作パートナーとして検討したい.</div>
+						<div class="answer">ぜひ詳細をご相談させてください。ジャカルタ視察旅行の機会には是非ともお立ち寄りください。.</div><br/>
+						
+						<div class="question">モバイルアプリ開発を検討している.</div>
+						<div class="answer">アンドロイドアプリ、iOSアプリ開発のどちらも可能です。企画の段階から関与する形態も可能ですのでご相談ください。</div><br/>
+						
+						<div class="question">販促物を作りたいのだがデザインだけじゃなくて印刷や製作まで可能なのか？</div>
+						<div class="answer">パンフレット、リーフレットなど通常の印刷物はもちろん可能です。うちわやTシャツなどであれば、こういったものへの印刷も可能ですが、大きな製作物や複雑なものだと専門業者に委託されたほうが良いかもしれません。いずれにしろご相談いただければ、弊社にて専門業者をご紹介することも可能です。</div><br/>
+						
+						<div class="question">インドネシア語のSEO対策が可能ですか？</div>
+						<div class="answer">可能です。金融系キーワードや旅行（訪日旅行）キーワード、教育系でSEO対策の経験があり、ビッグキーワードで上位表示を獲得しました。インドネシア人コンテンツライターとマーケッターがチームを組んで対策しますのでインドネシア語SEO対策が一番得意です。英語、日本語も可能です。</div><br/>
 					</div>
 				</div>
 			</div>

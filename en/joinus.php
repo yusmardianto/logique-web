@@ -126,17 +126,18 @@
 						</p>
 					</div>
 					<div class="bg-grey">
+						<center><span class="title-bg-grey">Why Join Us ?</span></center><br/>
 						<span class="characteristic-title">Benefits working in <span class="yellow">LOGIQUE</span> :</span><br/>
-							LOGIQUE is a web development company that is founded and operated by a Japanese founder in Indonesia. For that reason, LOGIQUE has many opportunities to work with international clients and you will be able to learn the way of work with international standards. Most of our projects / clients require high standards of design, programming, and the management skill, but this challenge will make you grow up.<br/><br/>
+							LOGIQUE is a web development company in Indonesia who is led by a Japanese. For that reason, LOGIQUE have many opportunities to cooperating with clients abroad and you will be able to learn how to work on international standard. Most of our projects / clients are desiring the high standard of work. But those are a challenge for your self improvement.<br/><br/>
 							<span class="characteristic-title">Other Benefits:</span>
 							<ul class="joinus-ul">
-								<li>You can work in a new office that has great view.</li>
-								<li>You can get bonus every month depending on your performance.</li>
-								<li>You can work in growing company.</li>
-								<li>You can work using Indonesian though we are not Indonesian company.</li>
+								<li>You can work in a new office that have a great view.</li>
+								<li>You can get a bonus every month depend on your work performance.</li>
+								<li>You is working on company that have a potential to grow up.</li>
+								<li>You can work by using Indonesian language, although we are not from Indonesian company.</li>
 								<li>Flexible rules & working hours.</li>
-								<li>You can be on a middle-management positions depending on your passion.</li>
-								<li>We have many fields of work from consulting up to system development.</li>
+								<li>You can quickly move on to middle-management positions depending on the results and performance of your work.</li>
+								<li>We have many various fields of work, from consulting division through system development division.</li>
 							</ul>
 						<!--div class="title-bg-grey">Introduction of Our  <span class="yellow">Internal Rules</span></div>-->
 						<br/><br/>

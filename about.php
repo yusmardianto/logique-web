@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -106,7 +106,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Tentang Kami</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">LOGIQUE adalah web developer asal Jepang dengan pengalaman kerja 5 tahun di Indonesia.</h1>
+							<h1 class="tagline">LOGIQUE adalah web developer asal Jepang penyedia jasa pembuatan website dengan pengalaman kerja 5 tahun di Indonesia.</h1>
 						</div>
 					</div>
 				</div>
@@ -138,7 +138,7 @@
 					</div>
 					<div class="title"><b>Tentang</b><span class="yellow">Kami</span></div>
 					<div class="form-container">
-						LOGIQUE adalah Web Developer yang menyediakan aneka layanan terkait web dan Internet seperti pemasaran digital, pembuatan website, dan pengembangan sistem berbasis web. Kami memberikan dukungan pembuatan website / sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain layanan yang berhubungan dengan web seperti desain web, optimasi mesin pencarian (SEO), pengoperasian social media, dan pengembangan aplikasi mobile; kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. <br/><br/>
+						LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. <br/><br/>
 						Dengan pengalaman lebih dari 5 tahun di Indonesia serta didukung dengan keahlian tinggi dari desainer, programmer, dan penulis kami, kami dapat memberikan layanan berkualitas tinggi untuk proyek Anda yang cocok dengan tujuan dan dana Anda.<br/><br/>
 						<span class="characteristic-title">Karakteristik LOGIQUE</span><br/><br>
 						<ul class="circle-list">

@@ -23,13 +23,12 @@ ga('send', 'pageview');
 					</div>
 					<div class="col-sm-8 col-xs-7 link-footer">
 						<div class="footer-title">Layanan Kami</div>
-						Web Development<br/>
-						Mobile App<br/>
-						SEO<br/>
-						Web Sistem<br/>
-						Desain<br/>
-						WEB ・SNS Operasi<br/><br/>
-						
+						Jasa Pembuatan Website<br/>
+						Jasa Pembuatan Aplikasi<br/>
+						Jasa Desain Web<br/>
+						Jasa Promosi Online<br/>
+						Jasa SEO<br/>
+						Jasa Percetakan<br/><br/>
 						<!--<div class="footer-title">Our Product</div>
 						tripkejepang.com<br/>
 						jadiboss.com<br/>-->
@@ -45,7 +44,7 @@ ga('send', 'pageview');
 				Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span><br/><br/>
 				</div>
 			</div>
-				LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda sebagai tim yang profesional dalam bidang konsultasi, pengembangan web dan aplikasi, pengaplikasian desain responsif, pengembangan sistem web, dan desain. Kami mengembangkan website kreatif terstruktur yang benar-benar direncanakan secara detil baik untuk pengembangan website perusahaan, aplikasi, maupun pengembangan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.
+				Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.
 				<br/><br/>
 				<div itemscope itemtype="http://schema.org/CreativeWork">
 					<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
