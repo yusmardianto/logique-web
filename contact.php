@@ -156,75 +156,128 @@ if(isset($_POST['submitted']))
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1982.8748090433066!2d106.82702104991579!3d-6.296598097694437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f206effdebf1%3A0xca2d9403de2bfbe1!2sAD+Premier+Office+Park!5e0!3m2!1sen!2sid!4v1499330296225" allowfullscreen></iframe>
 					</div>
 					<div class="title"><b>Hubungi</b><span class="yellow">Kami</span></div>
+					<div class="form-container" style="padding-top: 10px;">
+						<div class="box-jika">
+							<div class="row">
+								<div class="col-lg-2">
+									<div class="jika-title"><span>"</span>Jika</div>
+								</div>
+								<div class="col-lg-10">
+									<div class="row">
+										<div class="col-sm-4">
+											<div class="contact-copies">
+												Anda merasa perlu mengembangkan <span class="yellow">Website</span> sebagai salah satu <b>alat penjualan terpenting</b>.
+											</div>
+										</div>
+										<div class="col-sm-4">
+											<div class="contact-copies">
+												Anda ingin <b>membuat perbedaan</b> dari para pesaing dengan memanfaatkan <span class="yellow">Website</span> sebagai alat pemasaran.
+											</div>
+										</div>
+										<div class="col-sm-4">
+											<div class="contact-copies">
+												Anda ingin <b>mengembangkan usaha</b> dengan <span class="yellow">Website</span> sebagai kunci utama bisnis Anda.
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<br/>						
+						LOGIQUE telah membantu pemasaran Web klien kami yang tersebar di seluruh Asia Tenggara hingga mencapai kesuksesan lewat pengembangan website, pengembangan sistem website, pembuatan aplikasi seluler, peningkatan SEO, dan menganalisa lalu lintas website.
+					</div>
+					<div class="highlights-contact">Kami dapat membantu bisnis Anda, jika Anda menganggap bahwa Web merupakan kunci dari kesuksesan bisnis Anda.</div>
 					<div class="form-container">
-						“Jika Anda merasa perlu mengembangkan Website sebagai salah satu alat penjualan terpenting.”<br/>
-						“Jika Anda ingin membuat perbedaan dari para pesaing dengan memanfaatkan Website sebagai alat pemasaran.”<br/>
-						“Jika Anda ingin mengembangkan usaha dengan Website sebagai kunci utama bisnis Anda.”<br/><br/>
-						
-						LOGIQUE telah membantu pemasaran Web klien kami yang tersebar di seluruh Asia Tenggara hingga mencapai kesuksesan lewat pengembangan website, pengembangan sistem website, pembuatan aplikasi seluler, peningkatan SEO, dan menganalisa lalu lintas website.<br/>
-						Kami dapat membantu bisnis Anda, jika Anda menganggap bahwa Web merupakan kunci dari kesuksesan bisnis Anda.<br/><br/>
-						
+					<br/>
 						<b>Sebelum menghubungi kami, berikut adalah beberapa informasi yang dapat kami bagikan.</b><br/>
 						Kami merupakan sebuah tim yang terdiri dari orang-orang yang berasal dari Jepang dan Indonesia. Anda dapat berkomunikasi dengan kami menggunakan Bahasa Indonesia, Inggris dan Jepang.<br/>
 						Banyak klien yang bertanya kepada kami “Berapa biaya untuk mengembangkan sebuah website?” Ini merupakan pertanyaan yang sangat sulit.<br/>
 						Kami berpengalaman mengembangkan website sederhana seharga Rp.15.000.000 namun sulit bagi kami untuk mengatakan bahwa website sederhana seperti itu akan memberikan dampak bagi bisnis Anda. Jika Anda membandingkan, tentu ada banyak perusahaan pengembang web yang mempunyai harga lebih murah dibandingkan kami. Namun, kami yakin bahwa kami dapat memberikan Anda nilai tersediri jika Anda mencari web developer yang dapat diandalkan yang mampu membawa Anda menuju kesuksesan bisnis.<br/>
 						Kami juga siap membantu Anda dalam mengembangkan website berskala kecil dengan anggaran yang terbatas.<br/><br/>
 					
-						Silakan menghubungi kami untuk pembuatan website, media sosial, konsultasi seputar web, atau desain.<br/><br/>
+						<div class="highlights2-contact">
+							Silakan menghubungi kami untuk pembuatan website, media sosial, konsultasi seputar web, atau desain.
+						</div>
+						<br/>
 	                    <?php if(isset($msg))
 	                    {
 	                    echo $msg;
 	                    }
 	                    ?>
 						<div class="row">
-							<div class="col-lg-7">
-			                      <form class="contactform" id="moresco-contactform" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
-			                      <input type='hidden' name='submitted' id='submitted' value='1'/>
-			                      <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
-			                      <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-								  <div class="form-group">
-									<input type="text" class="form-control" id="companyname" name="companyname" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="NAMA PERUSAHAAN">
-								  </div>
-								  <div class="form-group">
-									<input type="text" class="form-control" id="name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAMA">
-								  </div>
-								  <div class="form-group">
-									<input type="number" class="form-control" id="phone" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="NOMOR TELEPON">
-								  </div>
-								  <div class="form-group">
-									<input type="email" class="form-control" id="email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
-								  </div>
-								  <div class="form-group">
-									<textarea class="form-control" name="message" placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
-								  </div>
-								  <div class="row">
-									  <div class="col-sm-9">
-											<div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
-											<br/>
-									  </div>
-									  <div class="col-sm-3 paddingleft">
-										<button type="submit" class="btn btn-submit btn-block">Kirim</button>
-									  </div>
-								  </div>
-								</form>
-							</div>
-							<div class="col-lg-5">
-								<span class="yellow">Alamat :</span><br/>
-								Ad Premier Building 19th Floor, <br/>
-								Jalan Tb. Simatupang No. 5,  Pasar Minggu, <br/>
-								Jakarta 12540.  INDONESIA<br/><br/>
-								<div class="row">
-									<div class="col-xs-6">
-										<span class="yellow">Nomor Telepon :</span><br/>
-										+62 (21) 2270 8935 <br/>
-										+62 (21) 2270 8936
+							<form class="contactform" id="moresco-contactform" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
+								<input type='hidden' name='submitted' id='submitted' value='1'/>
+								<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
+								<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
+								<div class="col-lg-6">
+									<div class="form-group">
+										<input type="text" class="form-control" id="companyname" name="companyname" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="NAMA PERUSAHAAN">
 									</div>
-									<div class="col-xs-6">
-										<span class="yellow">Email :</span><br/>
-										info@logique.co.id
+								</div> 
+								<div class="col-lg-6">
+									<div class="form-group">
+										<input type="text" class="form-control" id="name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAMA">
 									</div>
 								</div>
-							</div>
+								<div class="clearfix"></div>
+								<div class="col-lg-6">
+									<div class="form-group">
+										<input type="number" class="form-control" id="phone" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="NOMOR TELEPON">
+									</div>
+								</div>
+								<div class="col-lg-6">
+									<div class="form-group">
+									  <input type="email" class="form-control" id="email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
+									</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="col-lg-12">
+									<b>Anda butuh bantuan LOGIQUE untuk:</b>  <i>(Anda boleh memilih lebih dari satu)</i>
+								</div>
+								<div class="clearfix"></div>  
+								<div class="col-lg-5">
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="Mengembangkan sebuah website">mengembangkan sebuah website</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="Mengembangkan sistem web / maintenance">mengembangkan sistem web / maintenance</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="Memasarkan Web / SEO">memasarkan Web / SEO</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="Memasang atau mengoperasikan iklan di Internet">memasang atau mengoperasikan iklan di Internet</label>
+									</div>
+								</div>
+								<div class="col-lg-7">
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="Mendesain profil perusahaan atau hasil cetakan lainnya untuk pameran">mendesain profil perusahaan atau hasil cetakan lainnya untuk pameran</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="Kami mencari perusahaan yang ikut tender">Kami mencari perusahaan yang ikut tender</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="Kami mencari konsultan untuk memulai bisnis di indonesia">Kami mencari konsultan untuk memulai bisnis di indonesia</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="Kami ingin mengunjungi kantor Anda saat kami ke Jakarta untuk melakukan perjalanan bisnis">Kami ingin mengunjungi kantor Anda saat kami ke Jakarta untuk melakukan perjalanan bisnis</label>
+									</div>
+								</div>
+								<div class="clearfix"></div><br/>
+								<div class="col-lg-12">
+									<div class="form-group">
+										<textarea class="form-control" name="message" placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+									</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="col-sm-10">
+									<div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
+									<div class="clearfix"></div><br/>
+								</div>
+								<div class="col-sm-2 paddingleft">
+									<button type="submit" class="btn btn-submit btn-block">Kirim</button>
+								</div>
+							</form>
 						</div>
 					</div>
 					<div class="bg-grey">

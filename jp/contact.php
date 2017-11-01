@@ -158,19 +158,23 @@ if(isset($_POST['submitted']))
 					<div class="form-container">
 						「WEBを営業の重要な１チャネルに育てたい」<br/>
 						「集客、マーケティング、WEBで他社に差をつけたい」<br/>
-						「WEBをキーにビジネスを発展させたい」<br/>
-						などとお考えの企業は、ぜひ弊社にご相談ください。<br/><br/>
-						
+						「WEBをキーにビジネスを発展させたい」<br/><br/>
 						LOGIQUEはインドネシア、他の東南アジアの国でクライアントのWEBマーケティングをWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などで成功に導いてきました。<br/>
-						インドネシアでWEBを成功のキーとお考えであれば、LOGIQUEにご相談ください。<br/><br/>
-						
+					</div>
+					<div class="highlights-contact">
+						インドネシアでWEBを成功のキーとお考えであれば、LOGIQUEにご相談ください。
+					</div>
+					<div class="form-container">	
+					<br/>
 						<b>お問い合わせ前に。</b><br/>
 						弊社は日本人とインドネシア人の混成チームです。インドネシア語、英語、日本語のいずれでもお気軽にお問合せください。<br/>
 						WEB制作の費用は？とご質問いただくことが多くあります。難しい質問です。<br/>
 						簡易に制作する場合ですと15,000,000 IDR で制作した実績もありますが、これで本当に効果のでる良いWEBサイトが作れるかというと難しいところです。値段だけで比較するともっと安い制作会社があります。なかなかインドネシアの現地プロダクションでは実施が難しいケース、ビジネスの成功に貢献できるようなWEBを作りたい場合、信頼できる制作会社に任せたい、一緒に成功に向けて協業できる会社と組みたい、などにおいては弊社にご相談ください。LOGIQUEにしか出せないValueが出せると確信しています。<br/>
 						もちろん限られた予算でまずは最低限のWEBサイトを作りたいというご要望にもお応えいたします。<br/><br/>
 						
-						ホームページ制作やソーシャルメディア等、ウェブ関連のご相談事または印刷物デザインに関する事も、お気軽にロギクまでお問い合わせください。<br/><br/>
+						<div class="highlights2-contact">
+						ホームページ制作やソーシャルメディア等、ウェブ関連のご相談事または印刷物デザインに関する事も、お気軽にロギクまでお問い合わせください。
+						</div>
 						<br/>
 	                    <?php if(isset($msg))
 	                    {
@@ -178,55 +182,79 @@ if(isset($_POST['submitted']))
 	                    }
 	                    ?>
 						<div class="row">
-							<div class="col-lg-7">
-			                    <form class="contactform" id="moresco-contactform" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
-			                      <input type='hidden' name='submitted' id='submitted' value='1'/>
-			                      <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
-			                      <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-								  <div class="form-group">
-									<input type="text" class="form-control" id="companyname" name="companyname" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="COMPANY NAME">
-								  </div>
-								  <div class="form-group">
-									<input type="text" class="form-control" id="name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAME">
-								  </div>
-								  <div class="form-group">
-									<input type="number" class="form-control" id="phone" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="TELEPHONE">
-								  </div>
-								  <div class="form-group">
-									<input type="email" class="form-control" id="email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
-								  </div>
-								  <div class="form-group">
-									<textarea class="form-control" name="message" placeholder="YOUR MESSAGE"><?php echo $formproc->SafeDisplay('message') ?></textarea>
-								  </div>
-								  <div class="row">
-									  <div class="col-sm-9">
-											<div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
-											<br/>
-									  </div>
-									  <div class="col-sm-3 paddingleft">
-										<button type="submit" class="btn btn-submit btn-block">Submit</button>
-									  </div>
-								  </div>
-								</form>
-								<br/>
-							</div>
-							<div class="col-lg-5">
-								<span class="yellow">住所 :</span><br/>
-								Ad Premier Building 19th Floor, <br/>
-								Jalan Tb. Simatupang No. 5,  Pasar Minggu, <br/>
-								Jakarta 12550.  INDONESIA<br/><br/>
-								<div class="row">
-									<div class="col-xs-6">
-										<span class="yellow">電話 :</span><br/>
-										+62 (21) 2270 8935 <br/>
-										+62 (21) 2270 8936
+							<form class="contactform" id="moresco-contactform" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
+								<input type='hidden' name='submitted' id='submitted' value='1'/>
+								<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
+								<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
+								<div class="col-lg-6">
+									<div class="form-group">
+										<input type="text" class="form-control" id="companyname" name="companyname" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="COMPANY NAME">
 									</div>
-									<div class="col-xs-6">
-										<span class="yellow">メール :</span><br/>
-										info@logique.co.id
+								</div> 
+								<div class="col-lg-6">
+									<div class="form-group">
+										<input type="text" class="form-control" id="name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAME">
 									</div>
 								</div>
-							</div>
+								<div class="clearfix"></div>
+								<div class="col-lg-6">
+									<div class="form-group">
+										<input type="number" class="form-control" id="phone" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="PHONE NUMBER">
+									</div>
+								</div>
+								<div class="col-lg-6">
+									<div class="form-group">
+									  <input type="email" class="form-control" id="email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
+									</div>
+								</div>
+								<div class="clearfix"></div>  
+								<div class="col-lg-12">
+									<b>お問合せ項目:</b>  <i>（複数回答可）</i>
+								</div>
+								<div class="clearfix"></div>  
+								<div class="col-lg-6">
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="ホームページに関して">WEB/ホームページに関して</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="WEBシステム開発や運用に関する相談">WEBシステム開発や運用に関する相談</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="WEBマーケティング・SEO対策に関して">WEBマーケティング・SEO対策に関して</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="インターネット広告に関して">インターネット広告に関して</label>
+									</div>
+								</div>
+								<div class="col-lg-6">
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="会社案内・パンフレットの制作・印刷について">会社案内・パンフレットの制作・印刷について</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="入札参加企業を探している">入札参加企業を探している</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="インドネシア進出に関して相談したい">インドネシア進出に関して相談したい</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="ジャカルタ視察旅行時に会社訪問したい">ジャカルタ視察旅行時に会社訪問したい</label>
+									</div>
+								</div>
+								<div class="clearfix"></div><br/>
+								<div class="col-lg-12">
+									<div class="form-group">
+										<textarea class="form-control" name="message" placeholder="MESSAGE"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+									</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="col-sm-10">
+									<div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
+									<div class="clearfix"></div><br/>
+								</div>
+								<div class="col-sm-2 paddingleft">
+									<button type="submit" class="btn btn-submit btn-block">Submit</button>
+								</div>
+							</form>
 						</div>
 					</div>
 					<div class="bg-grey">

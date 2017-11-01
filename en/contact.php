@@ -156,76 +156,126 @@ if(isset($_POST['submitted']))
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1982.8748090433066!2d106.82702104991579!3d-6.296598097694437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f206effdebf1%3A0xca2d9403de2bfbe1!2sAD+Premier+Office+Park!5e0!3m2!1sen!2sid!4v1499330296225" allowfullscreen></iframe>
 					</div>
 					<div class="title"><b>Contact</b><span class="yellow">Us</span></div>
-					<div class="form-container">
-						“We would like to grow our Web as one of the most important sales channels.“<br/>
-						“would like to make a difference from competitors in marketing by utilizing Web.“<br/>
-						“would like to make a difference from competitors in marketing by utilizing Web.“<br/><br/>
-						
+					<div class="form-container"  style="padding-top: 10px;">
+						<div class="box-jika">
+							<div class="row">
+								<div class="col-lg-2">
+									<div class="jika-title"><span>"</span>&nbsp;If</div>
+								</div>
+								<div class="col-lg-10">
+									<div class="row">
+										<div class="col-sm-4">
+											<div class="contact-copies">
+												You would like to grow your <span class="yellow">Website</span> as one of <b>the most important sales channels</b>.
+											</div>
+										</div>
+										<div class="col-sm-4">
+											<div class="contact-copies">
+												You would like <b>to make a difference</b> from competitors in marketing by utilizing <span class="yellow">Website</span>.
+											</div>
+										</div>
+										<div class="col-sm-4">
+											<div class="contact-copies">
+												You would like <b>to develop your business</b> using <span class="yellow">Website</span> as the key.
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 						LOGIQUE has led our clients' web-marketing in all over south east Asia to successes in their business by developing websites, developing web systems, building mobile apps, improving SEO, and analyzing traffics.<br/>
-						We can contribute to your business if you think Web is the key to the success for your business.<br/><br/>
-						
+					</div>
+					<div class="highlights-contact">We can contribute to your business if you think Web is the key to the success for your business.</div>
+					<div class="form-container">	
+					<br/>					
 						<b>Before contacting us.</b><br/>
 						We are consist of Japanese and Indonesian team. You can contact us either in Indonesian, English, or Japanese.<br/>
 						Many customers ask us “How much does it cost to develop a website?“ That is a very difficult question.<br/>
 						We have experienced developing a simple website with around 15,000,000 IDR, but it is hard to tell you that the website is going to bring you any results. If you compare web developers in Indonesia there are a lot of companies that are much cheaper than us. We are sure that we can deliver a value in case you are looking for a reliable web developer that leads you to the goal and success for your business.<br/>
 						Of course we also will help you as well in case you would like to develop a minimum-scaled website with limited budget.<br/><br/>
 						
-						Feel free to contact LOGIQUE about website creation, social media, inquiry about web-related consultation, or designing.<br/><br/>
+						<div class="highlights2-contact">
+							Feel free to contact LOGIQUE about website creation, social media, inquiry about web-related consultation, or designing.
+						</div><br/>
 	                    <?php if(isset($msg))
 	                    {
 	                    echo $msg;
 	                    }
 	                    ?>
 						<div class="row">
-							<div class="col-lg-7">
-			                    <form class="contactform" id="moresco-contactform" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
-			                      <input type='hidden' name='submitted' id='submitted' value='1'/>
-			                      <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
-			                      <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-								  <div class="form-group">
-									<input type="text" class="form-control" id="companyname" name="companyname" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="COMPANY NAME">
-								  </div>
-								  <div class="form-group">
-									<input type="text" class="form-control" id="name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAME">
-								  </div>
-								  <div class="form-group">
-									<input type="number" class="form-control" id="phone" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="TELEPHONE">
-								  </div>
-								  <div class="form-group">
-									<input type="email" class="form-control" id="email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
-								  </div>
-								  <div class="form-group">
-									<textarea class="form-control" name="message" placeholder="YOUR MESSAGE"><?php echo $formproc->SafeDisplay('message') ?></textarea>
-								  </div>
-								  <div class="row">
-									  <div class="col-sm-9">
-											<div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
-											<br/>
-									  </div>
-									  <div class="col-sm-3 paddingleft">
-										<button type="submit" class="btn btn-submit btn-block">Submit</button>
-									  </div>
-								  </div>
-								</form>
-								<br/>
-							</div>
-							<div class="col-lg-5">
-								<span class="yellow">Address :</span><br/>
-								Ad Premier Building 19th Floor, <br/>
-								Jalan Tb. Simatupang No. 5,  Pasar Minggu, <br/>
-								Jakarta 12550.  INDONESIA<br/><br/>
-								<div class="row">
-									<div class="col-xs-6">
-										<span class="yellow">Phone :</span><br/>
-										+62 (21) 2270 8935 <br/>
-										+62 (21) 2270 8936
+							<form class="contactform" id="moresco-contactform" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
+								<input type='hidden' name='submitted' id='submitted' value='1'/>
+								<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
+								<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
+								<div class="col-lg-6">
+									<div class="form-group">
+										<input type="text" class="form-control" id="companyname" name="companyname" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="COMPANY NAME">
 									</div>
-									<div class="col-xs-6">
-										<span class="yellow">Email :</span><br/>
-										info@logique.co.id
+								</div> 
+								<div class="col-lg-6">
+									<div class="form-group">
+										<input type="text" class="form-control" id="name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAME">
 									</div>
 								</div>
-							</div>
+								<div class="clearfix"></div>
+								<div class="col-lg-6">
+									<div class="form-group">
+										<input type="number" class="form-control" id="phone" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="PHONE NUMBER">
+									</div>
+								</div>
+								<div class="col-lg-6">
+									<div class="form-group">
+									  <input type="email" class="form-control" id="email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
+									</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="col-lg-12">
+									<b>Inquiry item:</b>  <i>(Multiple answers allowed)</i>
+								</div>
+								<div class="clearfix"></div>  
+								<div class="col-lg-5">
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="About website creation">About website creation</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="About web-system development / maintenance">About web-system development / maintenance</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="About web marketing / SEO">About web marketing / SEO</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="About internet advertisement">About internet advertisement</label>
+									</div>
+								</div>
+								<div class="col-lg-7">
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="About company profile, pamphlet, and other printings">About company profile, pamphlet, and other printings</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="We are looking for companies that would join the tender">We are looking for companies that would join the tender</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="We are looking for consultant to start a business in Indonesia">We are looking for consultant to start a business in Indonesia</label>
+									</div>
+									<div class="checkbox">
+									  <label><input type="checkbox" name="inquiry" value="We would like to visit your office when we are going to Jakarta for a business trip">We would like to visit your office when we are going to Jakarta for a business trip</label>
+									</div>
+								</div>
+								<div class="clearfix"></div><br/>
+								<div class="col-lg-12">
+									<div class="form-group">
+										<textarea class="form-control" name="message" placeholder="MESSAGE"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+									</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="col-sm-10">
+									<div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
+									<div class="clearfix"></div><br/>
+								</div>
+								<div class="col-sm-2 paddingleft">
+									<button type="submit" class="btn btn-submit btn-block">Submit</button>
+								</div>
+							</form>
 						</div>
 					</div>
 					<div class="bg-grey">
