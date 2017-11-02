@@ -33,7 +33,6 @@ class FGContactForm
     var $conditional_field;
     var $captcha_handler;
     var $sender;
-
     var $mailer;
 
     function FGContactForm()
@@ -248,7 +247,28 @@ class FGContactForm
         $ret_str='';
         foreach($_POST as $key=>$value) {
             if (!$this->IsInternalVariable($key)) {
-                if (in_array($key, array('companyname', 'name', 'phone', 'email', 'message'))) {
+                if (in_array($key, array('companyname', 'name', 'phone', 'email'))) {
+                    $value = htmlentities($value,ENT_QUOTES,"UTF-8");
+                    $value = nl2br($value);
+                    $key = ucfirst($key);
+                    $ret_str .= "<div class='label'>$key :</div><div class='value'>$value </div>\n";
+                }
+
+                if (in_array($key, array('inquiry'))) {
+                    if(isset($_POST['inquiry'])){
+                        $html = '';
+                        $i = 0;
+                        foreach ($_POST['inquiry'] as $value) {
+                            $i++;
+                            $html .= '<div style="margin-left:10px;">'.$i.". ".$value.'</div>';
+                        }
+                    }
+
+                    $key = ucfirst($key);
+                    $ret_str .= "<div class='label'>$key :</div><div class='value'>$html </div>\n";
+                }
+
+                if (in_array($key, array('message'))) {
                     $value = htmlentities($value,ENT_QUOTES,"UTF-8");
                     $value = nl2br($value);
                     $key = ucfirst($key);
@@ -256,6 +276,7 @@ class FGContactForm
                 }
             }
         }
+
         return $ret_str;
     }
 
@@ -359,11 +380,11 @@ class FGContactForm
         }
 
         //country validaions
-        if(!$this->validate_country($_POST['country']))
+        /*if(!$this->validate_country($_POST['country']))
         {
             $this->add_error("Please provide a valid country name");
             $ret = false;
-        }
+        }*/
 
         //message validaions
         if(strlen($_POST['message'])>2048)
@@ -423,8 +444,8 @@ class FGContactForm
         $this->name = $this->Sanitize($_POST['name']);
         $this->email = $this->Sanitize($_POST['email']);
         $this->phone = $this->Sanitize($_POST['phone']);
-        $this->country = $this->Sanitize($_POST['country']);
-
+        //$this->country = $this->Sanitize($_POST['country']);
+        
         /*newline is OK in the message.*/
         $this->message = $this->StripSlashes($_POST['message']);
     }

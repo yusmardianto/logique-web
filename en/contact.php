@@ -235,30 +235,30 @@ if(isset($_POST['submitted']))
 								<div class="clearfix"></div>  
 								<div class="col-lg-5">
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="About website creation">About website creation</label>
+									  <label><input type="checkbox" name="inquiry[]" value="About website creation">About website creation</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="About web-system development / maintenance">About web-system development / maintenance</label>
+									  <label><input type="checkbox" name="inquiry[]" value="About web-system development / maintenance">About web-system development / maintenance</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="About web marketing / SEO">About web marketing / SEO</label>
+									  <label><input type="checkbox" name="inquiry[]" value="About web marketing / SEO">About web marketing / SEO</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="About internet advertisement">About internet advertisement</label>
+									  <label><input type="checkbox" name="inquiry[]" value="About internet advertisement">About internet advertisement</label>
 									</div>
 								</div>
 								<div class="col-lg-7">
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="About company profile, pamphlet, and other printings">About company profile, pamphlet, and other printings</label>
+									  <label><input type="checkbox" name="inquiry[]" value="About company profile, pamphlet, and other printings">About company profile, pamphlet, and other printings</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="We are looking for companies that would join the tender">We are looking for companies that would join the tender</label>
+									  <label><input type="checkbox" name="inquiry[]" value="We are looking for companies that would join the tender">We are looking for companies that would join the tender</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="We are looking for consultant to start a business in Indonesia">We are looking for consultant to start a business in Indonesia</label>
+									  <label><input type="checkbox" name="inquiry[]" value="We are looking for consultant to start a business in Indonesia">We are looking for consultant to start a business in Indonesia</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="We would like to visit your office when we are going to Jakarta for a business trip">We would like to visit your office when we are going to Jakarta for a business trip</label>
+									  <label><input type="checkbox" name="inquiry[]" value="We would like to visit your office when we are going to Jakarta for a business trip">We would like to visit your office when we are going to Jakarta for a business trip</label>
 									</div>
 								</div>
 								<div class="clearfix"></div><br/>

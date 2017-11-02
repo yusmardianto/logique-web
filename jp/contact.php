@@ -214,30 +214,30 @@ if(isset($_POST['submitted']))
 								<div class="clearfix"></div>  
 								<div class="col-lg-6">
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="ホームページに関して">WEB/ホームページに関して</label>
+									  <label><input type="checkbox" name="inquiry[]" value="ホームページに関して">WEB/ホームページに関して</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="WEBシステム開発や運用に関する相談">WEBシステム開発や運用に関する相談</label>
+									  <label><input type="checkbox" name="inquiry[]" value="WEBシステム開発や運用に関する相談">WEBシステム開発や運用に関する相談</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="WEBマーケティング・SEO対策に関して">WEBマーケティング・SEO対策に関して</label>
+									  <label><input type="checkbox" name="inquiry[]" value="WEBマーケティング・SEO対策に関して">WEBマーケティング・SEO対策に関して</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="インターネット広告に関して">インターネット広告に関して</label>
+									  <label><input type="checkbox" name="inquiry[]" value="インターネット広告に関して">インターネット広告に関して</label>
 									</div>
 								</div>
 								<div class="col-lg-6">
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="会社案内・パンフレットの制作・印刷について">会社案内・パンフレットの制作・印刷について</label>
+									  <label><input type="checkbox" name="inquiry[]" value="会社案内・パンフレットの制作・印刷について">会社案内・パンフレットの制作・印刷について</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="入札参加企業を探している">入札参加企業を探している</label>
+									  <label><input type="checkbox" name="inquiry[]" value="入札参加企業を探している">入札参加企業を探している</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="インドネシア進出に関して相談したい">インドネシア進出に関して相談したい</label>
+									  <label><input type="checkbox" name="inquiry[]" value="インドネシア進出に関して相談したい">インドネシア進出に関して相談したい</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="ジャカルタ視察旅行時に会社訪問したい">ジャカルタ視察旅行時に会社訪問したい</label>
+									  <label><input type="checkbox" name="inquiry[]" value="ジャカルタ視察旅行時に会社訪問したい">ジャカルタ視察旅行時に会社訪問したい</label>
 									</div>
 								</div>
 								<div class="clearfix"></div><br/>

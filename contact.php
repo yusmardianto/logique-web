@@ -237,30 +237,30 @@ if(isset($_POST['submitted']))
 								<div class="clearfix"></div>  
 								<div class="col-lg-5">
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="Mengembangkan sebuah website">mengembangkan sebuah website</label>
+									  <label><input type="checkbox" name="inquiry[]" value="Mengembangkan sebuah website">mengembangkan sebuah website</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="Mengembangkan sistem web / maintenance">mengembangkan sistem web / maintenance</label>
+									  <label><input type="checkbox" name="inquiry[]" value="Mengembangkan sistem web / maintenance">mengembangkan sistem web / maintenance</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="Memasarkan Web / SEO">memasarkan Web / SEO</label>
+									  <label><input type="checkbox" name="inquiry[]" value="Memasarkan Web / SEO">memasarkan Web / SEO</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="Memasang atau mengoperasikan iklan di Internet">memasang atau mengoperasikan iklan di Internet</label>
+									  <label><input type="checkbox" name="inquiry[]" value="Memasang atau mengoperasikan iklan di Internet">memasang atau mengoperasikan iklan di Internet</label>
 									</div>
 								</div>
 								<div class="col-lg-7">
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="Mendesain profil perusahaan atau hasil cetakan lainnya untuk pameran">mendesain profil perusahaan atau hasil cetakan lainnya untuk pameran</label>
+									  <label><input type="checkbox" name="inquiry[]" value="Mendesain profil perusahaan atau hasil cetakan lainnya untuk pameran">mendesain profil perusahaan atau hasil cetakan lainnya untuk pameran</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="Kami mencari perusahaan yang ikut tender">Kami mencari perusahaan yang ikut tender</label>
+									  <label><input type="checkbox" name="inquiry[]" value="Kami mencari perusahaan yang ikut tender">Kami mencari perusahaan yang ikut tender</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="Kami mencari konsultan untuk memulai bisnis di indonesia">Kami mencari konsultan untuk memulai bisnis di indonesia</label>
+									  <label><input type="checkbox" name="inquiry[]" value="Kami mencari konsultan untuk memulai bisnis di indonesia">Kami mencari konsultan untuk memulai bisnis di indonesia</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry" value="Kami ingin mengunjungi kantor Anda saat kami ke Jakarta untuk melakukan perjalanan bisnis">Kami ingin mengunjungi kantor Anda saat kami ke Jakarta untuk melakukan perjalanan bisnis</label>
+									  <label><input type="checkbox" name="inquiry[]" value="Kami ingin mengunjungi kantor Anda saat kami ke Jakarta untuk melakukan perjalanan bisnis">Kami ingin mengunjungi kantor Anda saat kami ke Jakarta untuk melakukan perjalanan bisnis</label>
 									</div>
 								</div>
 								<div class="clearfix"></div><br/>

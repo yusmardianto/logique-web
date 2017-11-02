@@ -115,7 +115,7 @@
 							<br/><br/>
 							<div class="text-center">
 								<p class="title-index">
-									Jasa Pembuatan Website dan SEO Berkualitas di Jakarta
+									Jasa Pembuatan <span class="yellow">Website</span> dan <span class="yellow">Web Sistem</span> Berkualitas di Jakarta
 								</p>
 								LOGIQUE siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Dengan pengalaman dari proyek - proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
 								<div class="row">
@@ -166,7 +166,7 @@
 					<div class="title-container hidden-xs">
 						<div class="valign-center text-center">
 							<h1 class="title-index">
-								Jasa Pembuatan Website dan SEO <br/>Berkualitas di Jakarta
+								Jasa Pembuatan <span class="yellow">Website</span> dan <span class="yellow">Web Sistem</span> <br>Berkualitas di Jakarta
 							</h1>
 							LOGIQUE siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Dengan pengalaman dari proyek - proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
 							<!--<center>
