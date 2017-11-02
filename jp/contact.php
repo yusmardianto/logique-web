@@ -155,10 +155,40 @@ if(isset($_POST['submitted']))
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1982.8748090433066!2d106.82702104991579!3d-6.296598097694437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f206effdebf1%3A0xca2d9403de2bfbe1!2sAD+Premier+Office+Park!5e0!3m2!1sen!2sid!4v1499330296225" allowfullscreen></iframe>
 					</div>
 					<div class="title"><b>Contact</b><span class="yellow">Us</span></div>
-					<div class="form-container">
-						「WEBを営業の重要な１チャネルに育てたい」<br/>
-						「集客、マーケティング、WEBで他社に差をつけたい」<br/>
-						「WEBをキーにビジネスを発展させたい」<br/><br/>
+					<div class="form-container" style="padding-top: 10px;">
+					<style>
+						.box-jika.jap-page .jika-title:before {
+							left: 50px;
+							margin: 0;
+						}
+					</style>
+						<div class="box-jika jap-page">
+							<div class="row">
+								<div class="col-lg-12">
+									<div class="jika-title"><span>"</span>&nbsp;こんな事でお困りであれば</div>
+								</div>
+								<div class="col-lg-12">
+									<div class="row">
+										<div class="col-sm-4">
+											<div class="contact-copies">
+												<span class="yellow">WEB</span>を営業の重要な１チャネルに育てたい</b>.
+											</div>
+										</div>
+										<div class="col-sm-4">
+											<div class="contact-copies">
+												集客、マーケティング、<span class="yellow">WEB</span>で他社に差をつけたい.
+											</div>
+										</div>
+										<div class="col-sm-4">
+											<div class="contact-copies">
+												<span class="yellow">WEB</span>をキーにビジネスを発展させたい.
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div><br/>	
+						
 						LOGIQUEはインドネシア、他の東南アジアの国でクライアントのWEBマーケティングをWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などで成功に導いてきました。<br/>
 					</div>
 					<div class="highlights-contact">
