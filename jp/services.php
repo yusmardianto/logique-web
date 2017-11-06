@@ -120,6 +120,7 @@
 					<div class="form-container">
 						LOGIQUEはインドネシア国内でウェブサイト(ホームページ)やウェブシステム、モバイルアプリケーションの開発、SNS活用などお客様がインターネットを活用するためのご支援をしています。WEBやWEBシステムの制作・開発、運用からインターネットマーケティングやSEO対策などまで、Web、インターネットに関するサービスを幅広く提供しております。 プログラマー、デザイナー、コンテンツライターを自社内に抱えており、フレキシブルかつ安価な価格でのサービス提供が可能です。インドネシアにて長い経験と多くの実績を持っておりますので安心してご依頼ください。
 					</div>
+					<img class="img-responsive" src="../img/layanan-img.jpg" alt="Layanan"/>
 					<div class="feel-free row-center-sm" style="font-size: 18px;">
 						<div class="col-sm-8">
 							その他詳細については、お気軽にお問い合わせください。

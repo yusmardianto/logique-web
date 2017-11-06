@@ -185,6 +185,7 @@ if(isset($_POST['submitted']))
 						</div><br/>	
 						LOGIQUE has led our clients' web-marketing in all over south east Asia to successes in their business by developing websites, developing web systems, building mobile apps, improving SEO, and analyzing traffics.<br/>
 					</div>
+					<img class="img-responsive" src="../img/kontak-img.jpg" alt="Kontak Kami"/>
 					<div class="highlights-contact">We can contribute to your business if you think Web is the key to the success for your business.</div>
 					<div class="form-container">	
 					<br/>					

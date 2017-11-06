@@ -120,6 +120,7 @@
 					<div class="form-container">
 						LOGIQUE menyediakan bermacam-macam jasa terkait website seperti jasa pembuatan website / sistem web, aplikasi mobile, digital marketing, jasa SEO, dan lain-lain. Kami mampu menyediakan solusi berkualitas yang sesuai kebutuhan bisnis Anda dengan harga yang terjangkau.
 					</div>
+					<img class="img-responsive" src="img/layanan-img.jpg" alt="Layanan"/>
 					<div class="feel-free row-center-sm">
 						<div class="col-sm-8">
 							Hubungi kami untuk informasi lebih lanjut.

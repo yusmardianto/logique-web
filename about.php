@@ -120,11 +120,20 @@
 					<div id="profile" class="carousel slide" data-ride="carousel">
 					  <div class="carousel-inner">
 						<div class="item active">
-						  <img src="img/tour5.jpg" alt="Company Profile 1">
+						  <img style="object-position:0 0" src="img/slider1.jpg" alt="Company Profile 1">
 						</div>
 						<div class="item">
-						  <img src="img/foto-about2.jpg" alt="Company Profile 2">
-						</div>							
+						  <img src="img/slider3.jpg" alt="Company Profile 2">
+						</div>
+						<div class="item">
+						  <img src="img/slider2.jpg" alt="Company Profile 3">
+						</div>
+						<div class="item">
+						  <img src="img/slider4.jpg" alt="Company Profile 4">
+						</div>
+						<div class="item">
+						  <img src="img/slider5.jpg" alt="Company Profile 5">
+						</div>
 					  </div>
 					  <!-- Left and right controls -->
 					  <a class="left carousel-control" href="#profile" data-slide="prev">
@@ -152,7 +161,28 @@
 					
 					<div class="bg-grey profile-comp">
 						<div class="title"><b>Profile</b><span class="yellow">Perusahaan</span></div>
-						<div class="row data-profile-comp">
+						<div class="row">
+							<div class="col-sm-5">
+								<img src="img/yoshi.jpg" class="img-responsive center-block" style="border: 1px solid #ccc;"/><br/>
+							</div>
+							<div class="col-sm-7">
+								Nama Perusahaan<br/>
+								<b>PT. Logique Digital Indonesia</b>
+								<br/><br/>
+								Bidang Usaha<br/>
+								<b>Konsultasi IT, Pembuatan Website, Pembuatan Desain, Pengembangan Sistem</b>
+								<br/><br/>
+								Direktur<br/>
+								<b>Takashi Yoshitsugu</b>
+								<br/><br/>
+								Alamat<br/>
+								<b>Gedung AD Premier Lantai 19, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12550, INDONESIA</b>
+								<br/><br/>
+								Telepon<br/>
+								<b>+62(21) 2270 8935 / 36</b>
+							</div>
+						</div>
+						<!--<div class="row data-profile-comp">
 							<div class="col-sm-3 col-xs-12">
 								Nama Perusahaan
 							</div>
@@ -206,7 +236,7 @@
 							<div class="col-sm-8 col-xs-12">
 								+62(21) 2270 8935 / 36
 							</div>
-						</div>
+						</div>-->
 					</div>
 					
 					<div class="got-project">

@@ -72,7 +72,7 @@
 			<div class="collapse navbar-collapse" id="myNavbar">
 			  <ul class="nav navbar-nav navbar-right">
 				<li><a class="smooth" href="#benefits" data-toggle="collapse" data-target="#myNavbar">Keuntungan</a></li>
-				<li><a class="smooth" href="#internal-rules">Peraturan Internal</a></li>
+				<!--<li><a class="smooth" href="#internal-rules">Peraturan Internal</a></li>-->
 				<!--<li><a class="smooth" href="#our-policy">Visi dan Misi</a></li>-->
 				<li><a class="smooth" href="#to-candidates">Pesan untuk Kandidat</a></li>
 				<li><a class="smooth" href="#job-opening" style="width: auto;margin: 0;padding-right: 0;">We are Hiring!</a></li>
@@ -81,7 +81,7 @@
 		  </div>
 		</nav>
 		
-		<img class="image-career" src="../img/career-main.png" alt="Logo"/>
+		<img class="image-career" src="../img/career-main2.png" alt="Logo"/>
 		
 		<section id="benefits" class="jumptarget">
 			<div class="header-career">
@@ -194,14 +194,14 @@
 						</p>
 					</div>
 					<div class="col-md-4">
-						<img alt="Monthly Evaluation" src="../img/internal3.png"/>
+						<img alt="Monthly Evaluation" src="../img/bonus.jpg"/>
 						<div class="subtitle text-center">Bonus</div>
 						<p>
 							LOGIQUE memberikan lebih bagi kamu yang berkontribusi sangat baik. Setiap bulan kinerja kamu akan dievaluasi oleh supervisor dan manajemen perusahaan, jika hasil yang kamu tunjukkan luar biasa maka kamu bisa mendapatkan bonus performa.<br/> Selain itu, perusahaan juga memilih staff terbaik setiap bulannya untuk diberikan bonus tambahan.
 						</p>
 					</div>
 					<div class="col-md-4">
-						<img alt="Working Hours" src="../img/internal1.png"/>
+						<img alt="Working Hours" src="../img/fleksibilitas.jpg"/>
 						<div class="subtitle text-center">Fleksibilitas</div>
 						<p>
 							Untuk kamu yang punya kebutuhan khusus seperti seorang Ibu yang perlu mengasuh anak,LOGIQUE menyediakan fleksibilitas untuk bekerja dari rumah dengan waktu yang telah disepakati bersama.<br/>
@@ -246,6 +246,7 @@
 				</div>
 			</div>
 		</section>
+		<div class="bg-hrd"></div>
 		
 		<section id="job-opening" class="jumptarget">
 			<!-- <div class="title text-left">We are Hiring!</div> -->

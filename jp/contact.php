@@ -191,6 +191,7 @@ if(isset($_POST['submitted']))
 						
 						LOGIQUEはインドネシア、他の東南アジアの国でクライアントのWEBマーケティングをWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などで成功に導いてきました。<br/>
 					</div>
+					<img class="img-responsive" src="../img/kontak-img.jpg" alt="Kontak Kami"/>
 					<div class="highlights-contact">
 						インドネシアでWEBを成功のキーとお考えであれば、LOGIQUEにご相談ください。
 					</div>

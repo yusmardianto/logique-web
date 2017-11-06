@@ -131,7 +131,6 @@
 						<ul class="link-career list-inline">
 							<li><a href="career/" target="_blank" >Mengenal Logique</a></li>|
 							<li><a href="career/#benefits" target="_blank">Keuntungan Bekerja di Logique</a></li>|
-							<li><a href="career/#internal-rules" target="_blank">Aturan Internal</a></li><div class="sep-link">|</div>
 							<li><a href="career/#to-candidates" target="_blank">Pesan untuk Kandidat</a></li>|
 							<li><a href="career/#job-opening" target="_blank">Lowongan</a></li>
 						</ul>
