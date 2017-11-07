@@ -4,16 +4,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="Buka dan temukan keuntungan bekerja di LOGIQUE untuk perkembangan karir Anda serta lowongan kerja yang tersedia dari kami. Mari bergabung dengan LOGIQUE untuk perkembangan karir Anda dengan suasana kerja yang nyaman dan efektif.">
-	<meta name="keywords" content="karir, bekerja di logique, magang di logique, web developer, project manager, desainer, tester">
+    <meta name="description" itemprop="description" content="LOGIQUE membuka lowongan kerja untuk Web Developer, Designer, Mobile App Developer, Technical Consultant, atau Content Writer. Yuk cari tau dan daftar sekarang.">
+	<meta name="keywords" content="lowongan kerja IT, lowongan web developer, lowongan web designer, lowongan mobile app developer, lowongan technical consultant, lowongan content writer, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Bekerja di LOGIQUE | Karir | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Lowongan Kerja Web Developer | Karir | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="Buka dan temukan keuntungan bekerja di LOGIQUE untuk perkembangan karir Anda serta lowongan kerja yang tersedia dari kami. Mari bergabung dengan LOGIQUE untuk perkembangan karir Anda dengan suasana kerja yang nyaman dan efektif.">
+	<meta property="og:description" content="LOGIQUE membuka lowongan kerja untuk Web Developer, Designer, Mobile App Developer, Technical Consultant, atau Content Writer. Yuk cari tau dan daftar sekarang.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -24,7 +24,7 @@
 		ga('create', 'UA-105878648-1', 'auto');
 		ga('send', 'pageview');
 	</script>
-    <title>Bekerja di LOGIQUE | Karir | LOGIQUE Digital Indonesia</title>
+    <title>Lowongan Kerja Web Developer | Karir | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -46,7 +46,7 @@
 			<div class="box-home-career col-md-offset-2 col-md-8">
 				<div class="valign-center">
 					<h1>
-					LOGIQUE saat ini sedang dalam proses menjadi perusahaan pengembang Web nomor satu di Indonesia, yang sudah dimulai dengan bekerja sama dengan banyak klien besar. Dalam masa perkembangan LOGIQUE yang fleksibel, Anda memiliki kesempatan untuk menduduki posisi penting atau manajerial sesuai dengan kemampuan dan minat Anda. Kami menyediakan lingkungan yang baik untuk Anda bekerja dan dapat menjanjikan pertumbuhan karir yang bagus. LOGIQUE mendukung Anda untuk mengembangkan kemampuan teknis dan non-teknis Anda. Kami berusaha sebisa mungkin menghilangkan hal-hal yang tidak masuk akal dari pekerjaan sehingga Anda bisa menikmati suasana kerja yang efektif.
+					LOGIQUE membuka lowongan kerja dan kesempatan bergabung bagi kamu yang punya kompetensi di bidang IT, Web Developer, Designer, Mobile App Developer, Technical Consultant, atau Content Writer. Yuk cari tau bagaimana suasana bekerja di LOGIQUE dan lowongan yang tersedia.
 					</h1>
 					<br/>
 					<div class="div-black-career">
@@ -75,7 +75,7 @@
 				<!--<li><a class="smooth" href="#internal-rules">Peraturan Internal</a></li>-->
 				<!--<li><a class="smooth" href="#our-policy">Visi dan Misi</a></li>-->
 				<li><a class="smooth" href="#to-candidates">Pesan untuk Kandidat</a></li>
-				<li><a class="smooth" href="#job-opening" style="width: auto;margin: 0;padding-right: 0;">We are Hiring!</a></li>
+				<li><a class="smooth" href="#job-opening" style="width: auto;margin: 0;padding-right: 0;">Lowongan Kerja LOGIQUE</a></li>
 			  </ul>
 			</div>
 		  </div>
@@ -85,7 +85,7 @@
 		
 		<section id="benefits" class="jumptarget">
 			<div class="header-career">
-				<div>KEUNTUNGAN</div>
+				<div><h3>KEUNTUNGAN</h3></div>
 			</div>
 			<div class="row no-gap" style="margin:0">
 				<div class="col-md-6">
@@ -231,7 +231,7 @@
 					<div class="row">
 						<div class="col-md-offset-1 col-md-10">
 							<br/>
-							<div class="subtitle">Pesan Untuk Kandidat</div>
+							<h3 class="subtitle">Pesan Untuk Kandidat</h3>
 							 <blockquote>
 								<p>Sangat penting bagi Anda untuk mengetahui di mana dan bagaimana Anda bekerja. Jika Anda bekerja keras, merasakan bahwa bekerja penting untuk kehidupan Anda, dan ingin berkontribusi kepada perusahaan, kami berjanji akan menyediakan lingkungan kerja yang baik untuk Anda. Di LOGIQUE, kami menyambut individu yang kreatif dan dinamis serta berusaha untuk pengembangan pribadi dan profesional. Sebagai gantinya, maka kami berkomitmen untuk menghasilkan yang terbaik dari diri Anda dengan menawarkan kesempatan untuk kemajuan dan pertumbuhan, dan memberikan karir yang mengubah hidup tidak seperti yang lain. Mari berkembang bersama LOGIQUE!</p>
 								<small>Ghitta, Human Resource Department</small>
@@ -251,14 +251,17 @@
 		<section id="job-opening" class="jumptarget">
 			<!-- <div class="title text-left">We are Hiring!</div> -->
 			<div class="header-career">
-				<div>WE ARE HIRING!</div>
+				<div><h3>LOWONGAN KERJA LOGIQUE</h3></div>
 			</div>
+			<h4 class="jobs-subtitle">LOWONGAN FULL-TIME</h4>
+			<hr class="separator-career" style="margin-top: 0;border-style: solid;"></hr>
 			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Quality Assurance" src="../img/qa.png" class="img-responsive"/>
-							Quality Assurance
+							<h5>Lowongan</h5>
+							<h2>Quality Assurance</h2>
 						</div>
 					</div>
 				</div>
@@ -291,7 +294,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Web Developer" src="../img/webdev.png" class="img-responsive"/>
-							Web Developer
+							<h5>Lowongan</h5>
+							<h2>Web Developer</h2>
 						</div>
 					</div>
 				</div>
@@ -327,7 +331,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Technical Consultant" src="../img/techcons.png" class="img-responsive"/>
-							Technical Consultant
+							<h5>Lowongan</h5>
+							<h2>Technical Consultant</h2>
 						</div>
 					</div>
 				</div>
@@ -368,7 +373,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Mobile App Developer" src="../img/mobdev.png" class="img-responsive"/>
-							Mobile App Developer
+							<h5>Lowongan</h5>
+							<h2>Mobile App Developer</h2>
 						</div>
 					</div>
 				</div>
@@ -409,7 +415,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Content Writer" src="../img/contenwriter.png" class="img-responsive"/>
-							Content Writer
+							<h5>Lowongan</h5>
+							<h2>Content Writer</h2>
 						</div>
 					</div>
 				</div>
@@ -447,7 +454,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Project Manager" src="../img/proj-manager.png" class="img-responsive"/>
-							Project Manager
+							<h5>Lowongan</h5>
+							<h2>Project Manager</h2>
 						</div>
 					</div>
 				</div>
@@ -481,7 +489,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Designer" src="../img/designer.png" class="img-responsive"/>
-							Designer
+							<h5>Lowongan</h5>
+							<h2>Designer</h2>
 						</div>
 					</div>
 				</div>
@@ -507,7 +516,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="IT Sales Executive" src="../img/sales.png" class="img-responsive"/>
-							IT Sales Executive
+							<h5>Lowongan</h5>
+							<h2>IT Sales Executive</h2>
 						</div>
 					</div>
 				</div>
@@ -539,14 +549,15 @@
 				<div class="clearfix"></div>
 			</div>
 			<hr class="separator-career" style="margin-bottom: 0;border-style: solid;"></hr>
-			<div class="jobs-subtitle">INTERNSHIP</div>
+			<h4 class="jobs-subtitle">LOWONGAN INTERNSHIP</h4>
 			<hr class="separator-career" style="margin-top: 0;border-style: solid;"></hr>
 			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Web Developer" src="../img/webdev.png" class="img-responsive"/>
-							Web Developer
+							<h5>Lowongan</h5>
+							<h2>Web Developer</h2>
 						</div>
 					</div>
 				</div>
@@ -573,7 +584,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Content Writer" src="../img/contenwriter.png" class="img-responsive"/>
-							Content Writer
+							<h5>Lowongan</h5>
+							<h2>Content Writer</h2>
 						</div>
 					</div>
 				</div>
@@ -600,7 +612,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="UI - UX Designer" src="../img/designer.png" class="img-responsive"/>
-							UI - UX Designer
+							<h5>Lowongan</h5>
+							<h2>UI - UX Designer</h2>
 						</div>
 					</div>
 				</div>
@@ -630,7 +643,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Front End Developer" src="../img/frontend.png" class="img-responsive"/>
-							Front End Developer
+							<h5>Lowongan</h5>
+							<h2>Front End Developer</h2>
 						</div>
 					</div>
 				</div>
@@ -654,18 +668,16 @@
 		</section>
 		
 		<div class="bg-footer-new-career">
-			<span>Anda memenuhi persyaratan di atas?</span><br>
+			<span>Anda cocok dengan persyaratan di atas dan tertarik bergabung bersama LOGIQUE?</span><br>
 			<div class="text-center">
 				<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black">
-					Bergabunglah bersama kami
+					Kirim CV Sekarang
 				</a>
 			</div>
 		</div>
 		
-		<div itemscope itemtype="http://schema.org/CreativeWork">
-			<div class="copyright-career">
-				© <span itemprop="copyrightYear">2017</span> <span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia</span></span>
-			</div>
+		<div class="copyright-career">
+			LOGIQUE DIGITAL INDONESIA - Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu, Jakarta Selatan, Indonesia 12550
 		</div>
 		
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>

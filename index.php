@@ -178,28 +178,28 @@
 										<div class="col-md-3 col-sm-6">
 											<div class="div-service-cat">
 												<img src="img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
-												<div>Jasa Pembuatan<br/><span>Website</span></div>
+												<h3>Jasa Pembuatan <br/><span>Website</span></h3>
 												<a href="services.php" class="btn">Baca Selengkapnya</a>
 											</div>
 										</div>
 										<div class="col-md-3 col-sm-6">
 											<div class="div-service-cat">
 												<img src="img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
-												<div>Jasa Pembuatan<br/><span>Aplikasi</span></div>
+												<h3>Jasa Pembuatan <br/><span>Aplikasi</span></h3>
 												<a href="services.php" class="btn">Baca Selengkapnya</a>
 											</div>
 										</div>
 										<div class="col-md-3 col-sm-6">
 											<div class="div-service-cat">
 												<img src="img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
-												<div>Jasa <br/><span>Promosi Online</span></div>
+												<h3>Jasa <br/><span>Promosi Online</span></h3>
 												<a href="services.php" class="btn">Baca Selengkapnya</a>
 											</div>
 										</div>
 										<div class="col-md-3 col-sm-6">
 											<div class="div-service-cat">
 												<img src="img/jasa-seo.png" alt="Jasa SEO" class="center-block img-responsive"/>
-												<div>Jasa <br/><span>SEO</span></div>
+												<h3>Jasa <br/><span>SEO</span></h3>
 												<a href="services.php" class="btn">Baca Selengkapnya</a>
 											</div>
 										</div>
