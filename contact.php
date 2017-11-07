@@ -186,6 +186,7 @@ if(isset($_POST['submitted']))
 						<br/>						
 						LOGIQUE telah membantu pemasaran Web klien kami yang tersebar di seluruh Asia Tenggara hingga mencapai kesuksesan lewat pengembangan website, pengembangan sistem website, pembuatan aplikasi seluler, peningkatan SEO, dan menganalisa lalu lintas website.
 					</div>
+					<img class="img-responsive" src="img/kontak-img.jpg" alt="Kontak Kami"/>
 					<div class="highlights-contact">Kami dapat membantu bisnis Anda, jika Anda menganggap bahwa Web merupakan kunci dari kesuksesan bisnis Anda.</div>
 					<div class="form-container">
 					<br/>

@@ -121,6 +121,7 @@
 					<div class="form-container">
 						LOGIQUE provides various web-related services such as website / web system development, mobile application development, internet marketing, SEO, etc. We are able to provide you flexible service and reasonable price since we have our own programmers, designers, and contents writers.
 					</div>
+					<img class="img-responsive" src="../img/layanan-img.jpg" alt="Layanan"/>
 					<div class="feel-free row-center-sm">
 						<div class="col-sm-8">
 							For more information and detail, Please contact us.

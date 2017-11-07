@@ -120,6 +120,7 @@
 					<div class="form-container">
 						LOGIQUE menyediakan bermacam-macam jasa terkait website seperti jasa pembuatan website / sistem web, aplikasi mobile, digital marketing, jasa SEO, dan lain-lain. Kami mampu menyediakan solusi berkualitas yang sesuai kebutuhan bisnis Anda dengan harga yang terjangkau.
 					</div>
+					<img class="img-responsive" src="img/layanan-img.jpg" alt="Layanan"/>
 					<div class="feel-free row-center-sm">
 						<div class="col-sm-8">
 							Hubungi kami untuk informasi lebih lanjut.
@@ -136,7 +137,7 @@
 							<div class="panel-heading">
 								<a data-toggle="collapse" data-parent="#vacancy" href="#website-creation" class="collapsed">
 									<h4 class="panel-title">
-										<img src="img/html.png" alt="Website Creation"/> Pembuatan Website
+										<img src="img/html.png" alt="Jasa Pembuatan Website"/> Jasa Pembuatan Website
 									</h4>
 								</a>
 							</div>
@@ -145,7 +146,7 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Perusahaan</b><br/>
-										Kami mengembangkan website yang dapat secara efektif menyampaikan nilai perusahaan Anda. Kami juga menyediakan layanan pembelian domain, web server, SSL dan pembuatan konten sesuai kebutuhan Anda.
+										Kami membuat website yang dapat secara efektif menyampaikan nilai perusahaan Anda. Kami juga menyediakan layanan pembelian domain, web server, SSL dan pembuatan konten sesuai kebutuhan Anda.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Multi Bahasa</b><br/>
@@ -179,7 +180,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#web-system" class="collapsed">
 								<h4 class="panel-title">
-									<img src="img/web-system.png" alt="Website Creation"/> Pengembangan Sistem WEB
+									<img src="img/web-system.png" alt="Jasa Pengembangan Sistem WEB"/> Jasa Pengembangan Sistem WEB
 								</h4>
 							  </a>
 							</div>
@@ -210,7 +211,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#mobile-solution" class="collapsed">
 								<h4 class="panel-title">
-									<img src="img/mobile-solution.png" alt="Mobile Solution"/> Solusi Mobile
+									<img src="img/mobile-solution.png" alt="Jasa Solusi Mobile"/> Jasa Solusi Mobile
 								</h4>
 							  </a>
 							</div>
@@ -233,7 +234,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#digital-marketing" class="collapsed">
 								<h4 class="panel-title">
-									<img src="img/digital-marketing.png" alt="Digital Marketing"/> Pemasaran Digital
+									<img src="img/digital-marketing.png" alt="Jasa Pemasaran Digital"/> Jasa Pemasaran Digital
 								</h4>
 							  </a>
 							</div>
@@ -264,7 +265,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#others" class="collapsed">
 								<h4 class="panel-title">
-									<img src="img/others.png" alt="Digital Marketing"/> Lainnya
+									<img src="img/others.png" alt="Jasa Lainnya"/> Jasa Lainnya
 								</h4>
 							  </a>
 							</div>

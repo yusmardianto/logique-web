@@ -120,11 +120,20 @@
 					<div id="profile" class="carousel slide" data-ride="carousel">
 						  <div class="carousel-inner">
 							<div class="item active">
-							  <img src="../img/tour5.jpg" alt="Company Profile 1">
+							  <img style="object-position:0 0" src="../img/slider1.jpg" alt="Company Profile 1">
 							</div>
 							<div class="item">
-							  <img src="../img/foto-about2.jpg" alt="Company Profile 2">
-							</div>							
+							  <img src="../img/slider3.jpg" alt="Company Profile 2">
+							</div>
+							<div class="item">
+							  <img src="../img/slider2.jpg" alt="Company Profile 3">
+							</div>
+							<div class="item">
+							  <img src="../img/slider4.jpg" alt="Company Profile 4">
+							</div>
+							<div class="item">
+							  <img src="../img/slider5.jpg" alt="Company Profile 5">
+							</div>
 						  </div>
 						  <!-- Left and right controls -->
 						  <a class="left carousel-control" href="#profile" data-slide="prev">
@@ -154,59 +163,25 @@
 					
 					<div class="bg-grey profile-comp">
 						<div class="title" style="font-weight:normal"><span class="yellow">LOGIQUE</span>の概要</div>
-						<div class="row data-profile-comp">
-							<div class="col-sm-2 col-xs-12">
-								会社名
+						<div class="row">
+							<div class="col-sm-5">
+								<img src="../img/yoshi.jpg" class="img-responsive center-block" style="border: 1px solid #ccc;"/><br/>
 							</div>
-							<div class="col-sm-1 hidden-xs">
-								:
-							</div>
-							<div class="col-sm-8 col-xs-12">
-								PT. Logique Digital Indonesia
-							</div>
-						</div>
-						<div class="row data-profile-comp">
-							<div class="col-sm-2 col-xs-12">
-								事業内容
-							</div>
-							<div class="col-sm-1 hidden-xs">
-								:
-							</div>
-							<div class="col-sm-8 col-xs-12">
-								ITコンサルティング、WEBサイト制作、デザイン制作、システム開発
-							</div>
-						</div>
-						<div class="row data-profile-comp">
-							<div class="col-sm-2 col-xs-12">
-								代表者
-							</div>
-							<div class="col-sm-1 hidden-xs">
-								:
-							</div>
-							<div class="col-sm-8 col-xs-12">
-								Takashi Yoshitsugu (吉次 敬)
-							</div>
-						</div>
-						<div class="row data-profile-comp">
-							<div class="col-sm-2 col-xs-12">
-								住所
-							</div>
-							<div class="col-sm-1 hidden-xs">
-								:
-							</div>
-							<div class="col-sm-8 col-xs-12">
-								Ad Premier Building 19<sup>th</sup> Floor, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12550, INDONESIA
-							</div>
-						</div>
-						<div class="row data-profile-comp">
-							<div class="col-sm-2 col-xs-12">
-								TEL
-							</div>
-							<div class="col-sm-1 hidden-xs">
-								:
-							</div>
-							<div class="col-sm-8 col-xs-12">
-								+62(21) 2270 8935 / 36
+							<div class="col-sm-7">
+								会社名<br/>
+								<b>PT. Logique Digital Indonesia</b>
+								<br/><br/>
+								事業内容<br/>
+								<b>ITコンサルティング、WEBサイト制作、デザイン制作、システム開発</b>
+								<br/><br/>
+								代表者<br/>
+								<b>Takashi Yoshitsugu (吉次 敬)</b>
+								<br/><br/>
+								住所<br/>
+								<b>Ad Premier Building 19<sup>th</sup> Floor, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12550, INDONESIA</b>
+								<br/><br/>
+								TEL<br/>
+								<b>+62(21) 2270 8935 / 36</b>
 							</div>
 						</div>
 					</div>

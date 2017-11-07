@@ -106,7 +106,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Karir</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">Mari bergabung dengan LOGIQUE untuk perkembangan karir Anda.</h1>
+							<h1 class="tagline">LOGIQUE menyediakan lowongan kerja Web Developer dan kerjasama marketing menarik untuk Anda. Ayo bergabung sekarang!</h1>
 						</div>
 					</div>
 				</div>
@@ -131,9 +131,8 @@
 						<ul class="link-career list-inline">
 							<li><a href="career/" target="_blank" >Mengenal Logique</a></li>|
 							<li><a href="career/#benefits" target="_blank">Keuntungan Bekerja di Logique</a></li>|
-							<li><a href="career/#internal-rules" target="_blank">Aturan Internal</a></li><div class="sep-link">|</div>
 							<li><a href="career/#to-candidates" target="_blank">Pesan untuk Kandidat</a></li>|
-							<li><a href="career/#job-opening" target="_blank">Lowongan</a></li>
+							<li><a href="career/#job-opening" target="_blank">Lowongan Kerja</a></li>
 						</ul>
 					</div>
 					<!--<div class="form-container">
