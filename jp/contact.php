@@ -168,22 +168,14 @@ if(isset($_POST['submitted']))
 									<div class="jika-title"><span>"</span>&nbsp;こんな事でお困りであれば</div>
 								</div>
 								<div class="col-lg-12">
-									<div class="row">
-										<div class="col-sm-4">
-											<div class="contact-copies">
-												<span class="yellow">WEB</span>を営業の重要な１チャネルに育てたい</b>.
-											</div>
-										</div>
-										<div class="col-sm-4">
-											<div class="contact-copies">
-												集客、マーケティング、<span class="yellow">WEB</span>で他社に差をつけたい.
-											</div>
-										</div>
-										<div class="col-sm-4">
-											<div class="contact-copies">
-												<span class="yellow">WEB</span>をキーにビジネスを発展させたい.
-											</div>
-										</div>
+									<div class="contact-copies">
+										<span class="yellow">WEB</span>を営業の重要な１チャネルに育てたい</b>.
+									</div>
+									<div class="contact-copies">
+										集客、マーケティング、<span class="yellow">WEB</span>で他社に差をつけたい.
+									</div>
+									<div class="contact-copies">
+										<span class="yellow">WEB</span>をキーにビジネスを発展させたい.
 									</div>
 								</div>
 							</div>

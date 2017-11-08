@@ -163,23 +163,15 @@ if(isset($_POST['submitted']))
 									<div class="jika-title"><span>"</span>Jika</div>
 								</div>
 								<div class="col-lg-10">
-									<div class="row">
-										<div class="col-sm-4">
-											<div class="contact-copies">
-												Anda merasa perlu mengembangkan <span class="yellow">Website</span> sebagai salah satu <b>alat penjualan terpenting</b>.
-											</div>
-										</div>
-										<div class="col-sm-4">
-											<div class="contact-copies">
-												Anda ingin <b>membuat perbedaan</b> dari para pesaing dengan memanfaatkan <span class="yellow">Website</span> sebagai alat pemasaran.
-											</div>
-										</div>
-										<div class="col-sm-4">
-											<div class="contact-copies">
-												Anda ingin <b>mengembangkan usaha</b> dengan <span class="yellow">Website</span> sebagai kunci utama bisnis Anda.
-											</div>
-										</div>
+									<div class="contact-copies">
+										Anda merasa perlu mengembangkan <span class="yellow">Website</span> sebagai salah satu <b>alat penjualan terpenting</b>.
 									</div>
+									<div class="contact-copies">
+										Anda ingin <b>membuat perbedaan</b> dari para pesaing dengan memanfaatkan <span class="yellow">Website</span> sebagai alat pemasaran.
+									</div>
+									<div class="contact-copies">
+										Anda ingin <b>mengembangkan usaha</b> dengan <span class="yellow">Website</span> sebagai kunci utama bisnis Anda.
+									</div>									
 								</div>
 							</div>
 						</div>
