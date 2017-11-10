@@ -136,9 +136,9 @@
 						  <div class="panel panel-default">
 							<div class="panel-heading">
 								<a data-toggle="collapse" data-parent="#vacancy" href="#website-creation" class="collapsed">
-									<h4 class="panel-title">
+									<h2 class="panel-title">
 										<img src="../img/html.png" alt="Website Creation"/> WEB制作
-									</h4>
+									</h2>
 								</a>
 							</div>
 							<div id="website-creation" class="panel-collapse collapse">
@@ -179,9 +179,9 @@
 						  <div class="panel panel-default">
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#web-system" class="collapsed">
-								<h4 class="panel-title">
+								<h2 class="panel-title">
 									<img src="../img/web-system.png" alt="Website Creation"/>WEBシステム開発
-								</h4>
+								</h2>
 							  </a>
 							</div>
 							<div id="web-system" class="panel-collapse collapse">
@@ -210,9 +210,9 @@
 						  <div class="panel panel-default">
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#mobile-solution" class="collapsed">
-								<h4 class="panel-title">
+								<h2 class="panel-title">
 									<img src="../img/mobile-solution.png" alt="Mobile Solution"/> モバイルソリューション
-								</h4>
+								</h2>
 							  </a>
 							</div>
 							<div id="mobile-solution" class="panel-collapse collapse">
@@ -233,9 +233,9 @@
 						  <div class="panel panel-default">
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#digital-marketing" class="collapsed">
-								<h4 class="panel-title">
+								<h2 class="panel-title">
 									<img src="../img/digital-marketing.png" alt="Digital Marketing"/> デジタルマーケティング
-								</h4>
+								</h2>
 							  </a>
 							</div>
 							<div id="digital-marketing" class="panel-collapse collapse">
@@ -264,9 +264,9 @@
 						  <div class="panel panel-default">
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#others" class="collapsed">
-								<h4 class="panel-title">
+								<h2 class="panel-title">
 									<img src="../img/others.png" alt="Digital Marketing"/> Others
-								</h4>
+								</h2>
 							  </a>
 							</div>
 							<div id="others" class="panel-collapse collapse">

@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="We are hiring! Cek lowongan kerja yang tersedia dari kami dan mari bergabung dengan LOGIQUE untuk perkembangan karir Anda dengan suasana kerja yang nyaman dan efektif.">
+    <meta name="description" itemprop="description" content="LOGIQUE menyediakan lowongan kerja Web Developer dan kerjasama marketing menarik untuk Anda. Ayo bergabung sekarang!">
 	<meta name="keywords" content="karir, bekerja di logique, magang di logique, web developer, project manager, desainer, tester">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Bergabung dengan Logique | Karir | LOGIQUE Digital Indonesia">
@@ -12,7 +12,7 @@
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/joinus.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="We are hiring! Cek lowongan kerja yang tersedia dari kami dan mari bergabung dengan LOGIQUE untuk perkembangan karir Anda dengan suasana kerja yang nyaman dan efektif.">
+	<meta property="og:description" content="LOGIQUE menyediakan lowongan kerja Web Developer dan kerjasama marketing menarik untuk Anda. Ayo bergabung sekarang!">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Bergabung dengan Logique | Karir | LOGIQUE Digital Indonesia</title>
 
@@ -44,31 +44,31 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="about.php">
+							<a href="tentang-kami.php">
 								<div class="img-about"></div>
 								Tentang Kami
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="portfolio.php">
+							<a href="portofolio.php">
 								<div class="img-portfolio"></div>
 								Portfolio
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="services.php">
+							<a href="layanan.php">
 								<div class="img-services"></div>
 								Layanan
 							</a>
 						</div>
 						<div class="text-center active">
-							<a href="joinus.php">
+							<a href="#">
 								<div class="img-career"></div>
 								Karir
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="contact.php">
+							<a href="hubungi-kami.php">
 								<div class="img-contact"></div>
 								Hubungi Kami
 							</a>
@@ -101,12 +101,12 @@
 								<li class="active"><a href="#">ID</a></li>
 								<li><a href="jp/joinus.php">JP</a></li>
 							</ul>
-							<a href="index.php"><img src="img/logo.png" alt="Logo" class="img-responsive logo"/></a>
+							<a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo"/></a>
 							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Karir</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">LOGIQUE menyediakan lowongan kerja Web Developer dan kerjasama marketing menarik untuk Anda. Ayo bergabung sekarang!</h1>
+							<h1 class="tagline">Lowongan kerja Web Developer dan kerjasama marketing menarik.</h1>
 						</div>
 					</div>
 				</div>
@@ -117,7 +117,7 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title"><b>Join</b><span class="yellow">Us</span></div>
-					<img src="img/career-main.png" class="img-in-joinus"/>
+					<img src="img/career-main.png" class="img-in-joinus" alt="lowongan web developer"/>
 					<div class="form-container">
 					<br/>
 						LOGIQUE terbuka untuk kalian yang punya minat tinggi dan kemampuan di bidang WEB, mari bekerja bersama di lingkungan kerja yang nyaman dan efektif.<br/>

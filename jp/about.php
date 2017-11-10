@@ -120,19 +120,19 @@
 					<div id="profile" class="carousel slide" data-ride="carousel">
 						  <div class="carousel-inner">
 							<div class="item active">
-							  <img style="object-position:0 0" src="../img/slider1.jpg" alt="Company Profile 1">
+							  <img style="object-position:0 0" src="../img/slider1.jpg" alt="Web Developer LOGIQUE 1">
 							</div>
 							<div class="item">
-							  <img src="../img/slider3.jpg" alt="Company Profile 2">
+							  <img src="../img/slider3.jpg" alt="Web Developer LOGIQUE 2">
 							</div>
 							<div class="item">
-							  <img src="../img/slider2.jpg" alt="Company Profile 3">
+							  <img src="../img/slider2.jpg" alt="Web Developer LOGIQUE 3">
 							</div>
 							<div class="item">
-							  <img src="../img/slider4.jpg" alt="Company Profile 4">
+							  <img src="../img/slider4.jpg" alt="Web Developer LOGIQUE 4">
 							</div>
 							<div class="item">
-							  <img src="../img/slider5.jpg" alt="Company Profile 5">
+							  <img src="../img/slider5.jpg" alt="Web Developer LOGIQUE 5">
 							</div>
 						  </div>
 						  <!-- Left and right controls -->

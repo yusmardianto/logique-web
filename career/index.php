@@ -41,13 +41,14 @@
 				<source src="../img/3734627.mp4" type="video/mp4">
 			</video>
 			<div class="header-career">
-				<div><img src="../img/logo.png" alt="Logo"/><br/>CAREER</div>
+				<div><img src="../img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"/><br/>CAREER</div>
 			</div>
 			<div class="box-home-career col-md-offset-2 col-md-8">
 				<div class="valign-center">
-					<h1>
-					LOGIQUE membuka lowongan kerja dan kesempatan bergabung bagi kamu yang punya kompetensi di bidang IT, Web Developer, Designer, Mobile App Developer, Technical Consultant, atau Content Writer. Yuk cari tau bagaimana suasana bekerja di LOGIQUE dan lowongan yang tersedia.
-					</h1>
+					<h1>Lowongan Kerja Web Developer di Jakarta</h1>
+					<p class="content-first">
+						LOGIQUE membuka lowongan kerja dan kesempatan bergabung bagi kamu yang punya kompetensi di bidang IT, Web Developer, Designer, Mobile App Developer, Technical Consultant, atau Content Writer. Yuk cari tau bagaimana suasana bekerja di LOGIQUE dan lowongan yang tersedia.
+					</p>
 					<br/>
 					<div class="div-black-career">
 						<p id="id-black-career" style="display:inline"></p><span class="blink">|</span>
@@ -85,7 +86,7 @@
 		
 		<section id="benefits" class="jumptarget">
 			<div class="header-career">
-				<div><h3>KEUNTUNGAN</h3></div>
+				<div><h2>Keuntungan</h2></div>
 			</div>
 			<div class="row no-gap" style="margin:0">
 				<div class="col-md-6">
@@ -231,7 +232,7 @@
 					<div class="row">
 						<div class="col-md-offset-1 col-md-10">
 							<br/>
-							<h3 class="subtitle">Pesan Untuk Kandidat</h3>
+							<h2 class="subtitle">Pesan Untuk Kandidat</h2>
 							 <blockquote>
 								<p>Sangat penting bagi Anda untuk mengetahui di mana dan bagaimana Anda bekerja. Jika Anda bekerja keras, merasakan bahwa bekerja penting untuk kehidupan Anda, dan ingin berkontribusi kepada perusahaan, kami berjanji akan menyediakan lingkungan kerja yang baik untuk Anda. Di LOGIQUE, kami menyambut individu yang kreatif dan dinamis serta berusaha untuk pengembangan pribadi dan profesional. Sebagai gantinya, maka kami berkomitmen untuk menghasilkan yang terbaik dari diri Anda dengan menawarkan kesempatan untuk kemajuan dan pertumbuhan, dan memberikan karir yang mengubah hidup tidak seperti yang lain. Mari berkembang bersama LOGIQUE!</p>
 								<small>Ghitta, Human Resource Department</small>
@@ -251,17 +252,17 @@
 		<section id="job-opening" class="jumptarget">
 			<!-- <div class="title text-left">We are Hiring!</div> -->
 			<div class="header-career">
-				<div><h3>LOWONGAN KERJA LOGIQUE</h3></div>
+				<div><h2>Lowongan Kerja LOGIQUE</h2></div>
 			</div>
-			<h4 class="jobs-subtitle">LOWONGAN FULL-TIME</h4>
+			<h3 class="jobs-subtitle">LOWONGAN FULL-TIME</h3>
 			<hr class="separator-career" style="margin-top: 0;border-style: solid;"></hr>
 			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Quality Assurance" src="../img/qa.png" class="img-responsive"/>
-							<h5>Lowongan</h5>
-							<h2>Quality Assurance</h2>
+							<h4>Lowongan</h4>
+							<h5>Quality Assurance</h5>
 						</div>
 					</div>
 				</div>
@@ -294,8 +295,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Web Developer" src="../img/webdev.png" class="img-responsive"/>
-							<h5>Lowongan</h5>
-							<h2>Web Developer</h2>
+							<h4>Lowongan</h4>
+							<h5>Web Developer</h5>
 						</div>
 					</div>
 				</div>
@@ -331,8 +332,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Technical Consultant" src="../img/techcons.png" class="img-responsive"/>
-							<h5>Lowongan</h5>
-							<h2>Technical Consultant</h2>
+							<h4>Lowongan</h4>
+							<h5>Technical Consultant</h5>
 						</div>
 					</div>
 				</div>
@@ -373,8 +374,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Mobile App Developer" src="../img/mobdev.png" class="img-responsive"/>
-							<h5>Lowongan</h5>
-							<h2>Mobile App Developer</h2>
+							<h4>Lowongan</h4>
+							<h5>Mobile App Developer</h5>
 						</div>
 					</div>
 				</div>
@@ -415,8 +416,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Content Writer" src="../img/contenwriter.png" class="img-responsive"/>
-							<h5>Lowongan</h5>
-							<h2>Content Writer</h2>
+							<h4>Lowongan</h4>
+							<h5>Content Writer</h5>
 						</div>
 					</div>
 				</div>
@@ -454,8 +455,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Project Manager" src="../img/proj-manager.png" class="img-responsive"/>
-							<h5>Lowongan</h5>
-							<h2>Project Manager</h2>
+							<h4>Lowongan</h4>
+							<h5>Project Manager</h5>
 						</div>
 					</div>
 				</div>
@@ -489,8 +490,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Designer" src="../img/designer.png" class="img-responsive"/>
-							<h5>Lowongan</h5>
-							<h2>Designer</h2>
+							<h4>Lowongan</h4>
+							<h5>Designer</h5>
 						</div>
 					</div>
 				</div>
@@ -516,8 +517,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="IT Sales Executive" src="../img/sales.png" class="img-responsive"/>
-							<h5>Lowongan</h5>
-							<h2>IT Sales Executive</h2>
+							<h4>Lowongan</h4>
+							<h5>IT Sales Executive</h5>
 						</div>
 					</div>
 				</div>
@@ -549,15 +550,15 @@
 				<div class="clearfix"></div>
 			</div>
 			<hr class="separator-career" style="margin-bottom: 0;border-style: solid;"></hr>
-			<h4 class="jobs-subtitle">LOWONGAN INTERNSHIP</h4>
+			<h3 class="jobs-subtitle">LOWONGAN INTERNSHIP</h3>
 			<hr class="separator-career" style="margin-top: 0;border-style: solid;"></hr>
 			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Web Developer" src="../img/webdev.png" class="img-responsive"/>
-							<h5>Lowongan</h5>
-							<h2>Web Developer</h2>
+							<h4>Lowongan</h4>
+							<h5>Web Developer</h5>
 						</div>
 					</div>
 				</div>
@@ -584,8 +585,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Content Writer" src="../img/contenwriter.png" class="img-responsive"/>
-							<h5>Lowongan</h5>
-							<h2>Content Writer</h2>
+							<h4>Lowongan</h4>
+							<h5>Content Writer</h5>
 						</div>
 					</div>
 				</div>
@@ -612,8 +613,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="UI - UX Designer" src="../img/designer.png" class="img-responsive"/>
-							<h5>Lowongan</h5>
-							<h2>UI - UX Designer</h2>
+							<h4>Lowongan</h4>
+							<h5>UI - UX Designer</h5>
 						</div>
 					</div>
 				</div>
@@ -643,8 +644,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Front End Developer" src="../img/frontend.png" class="img-responsive"/>
-							<h5>Lowongan</h5>
-							<h2>Front End Developer</h2>
+							<h4>Lowongan</h4>
+							<h5>Front End Developer</h5>
 						</div>
 					</div>
 				</div>

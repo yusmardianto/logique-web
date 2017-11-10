@@ -1,25 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
+﻿<!DOCTYPE html>
+<html lang="id">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="LOGIQUE offers a wide range of web and design related services starting from website creation / system development, Web marketing, mobile application development, social media operation, designing, etc, in Indonesia.">
-	<meta name="keywords" content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
+    <meta name="description" itemprop="description" content="LOGIQUE menyediakan berbagai jasa pembuatan website dan aplikasi, SEO, pengoperasian media sosial, cetak kartu nama, desain profil perusahaan dan brosur.">
+	<meta name="keywords" content="buat website, pembuatan website, pembuat aplikasi, buat web, aplikasi android, digital marketing, web developer, desain web, seo, aplikasi iphone, kartu nama, profil perusahaan, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="The best website, mobile application developer and designer in Jakarta | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Jasa Pembuatan Website, Web Sistem, SEO, dan Percetakan | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/en/services.php">
+	<meta property="og:url" content="https://www.logique.co.id/services.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="LOGIQUE offers a wide range of web and design related services starting from website creation / system development, Web marketing, mobile application development, social media operation, designing, etc, in Indonesia.">
-	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>The best website, mobile application developer and designer in Jakarta | LOGIQUE Digital Indonesia</title>
+	<meta property="og:description" content="LOGIQUE menyediakan berbagai jasa pembuatan website dan aplikasi, SEO, pengoperasian media sosial, cetak kartu nama, desain profil perusahaan dan brosur.">
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <title>Jasa Pembuatan Website, Web Sistem, SEO, dan Percetakan | LOGIQUE</title>
 
     <!-- Bootstrap -->
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 	
-    <link href="../css/style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
     
@@ -33,7 +33,6 @@
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span> 
 			</button>
-
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
 				<div class="logique-nav">
@@ -41,37 +40,37 @@
 						<div class="text-center">
 							<a href="index.php">
 								<div class="img-home"></div>
-								Home
+								Beranda
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="about.php">
+							<a href="tentang-kami.php">
 								<div class="img-about"></div>
-								About Us
+								Tentang Kami
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="portfolio.php">
+							<a href="portofolio.php">
 								<div class="img-portfolio"></div>
 								Portfolio
 							</a>
 						</div>
 						<div class="text-center active">
-							<a href="services.php">
+							<a href="#">
 								<div class="img-services"></div>
-								Services
+								Layanan
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="joinus.php">
+							<a href="karir.php">
 								<div class="img-career"></div>
-								Career
+								Karir
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="contact.php">
+							<a href="hubungi-kami.php">
 								<div class="img-contact"></div>
-								Contact Us
+								Hubungi Kami
 							</a>
 						</div>
 						<div class="text-center">
@@ -87,8 +86,8 @@
 			
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
-				<video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
-					<source src="../img/12377093.mp4" type="video/mp4">
+				<video poster="img/video-img.png" id="bgvid" playsinline autoplay muted loop>
+					<source src="img/12377093.mp4" type="video/mp4">
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
@@ -98,16 +97,16 @@
 					<div class="col-sm-offset-1 col-sm-10">
 						<div class="lang-logo">
 							<ul class="list-inline">
-								<li class="active"><a href="">EN</a></li>
-								<li><a href="../services.php">ID</a></li>
-								<li><a href="../jp/services.php">JP</a></li>
+								<li><a href="en/services.php">EN</a></li>
+								<li class="active"><a href="#">ID</a></li>
+								<li><a href="jp/services.php">JP</a></li>
 							</ul>
-							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
+							<a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo"/></a>
 							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
-							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
-							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Services</span></a><meta itemprop="position" content="2" /></li>
+							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Layanan</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">We provide a wide range of service from website development up to internet marketing, mobile app development, designing, and internet marketing.</h1>
+							<h1 class="tagline">Jasa pembuatan website, desain web, digital marketing dan SEO.</h1>
 						</div>
 					</div>
 				</div>
@@ -117,28 +116,28 @@
 			
 			<div id="contentsArea" class="services">
 				<div id="contents">
-					<div class="title"><b>Our</b><span class="yellow">Services</span></div>
+					<div class="title"><b>Layanan</b><span class="yellow">Kami</span></div>
 					<div class="form-container">
-						LOGIQUE provides various web-related services such as website / web system development, mobile application development, internet marketing, SEO, etc. We are able to provide you flexible service and reasonable price since we have our own programmers, designers, and contents writers.
+						LOGIQUE menyediakan bermacam-macam jasa terkait website seperti jasa pembuatan website / sistem web, aplikasi mobile, digital marketing, jasa SEO, dan lain-lain. Kami mampu menyediakan solusi berkualitas yang sesuai kebutuhan bisnis Anda dengan harga yang terjangkau.
 					</div>
-					<img class="img-responsive" src="../img/layanan-img.jpg" alt="Layanan"/>
+					<img class="img-responsive" src="img/layanan-img.jpg" alt="layanan pembuatan website"/>
 					<div class="feel-free row-center-sm">
 						<div class="col-sm-8">
-							For more information and detail, Please contact us.
+							Hubungi kami untuk informasi lebih lanjut.
 						</div>
 						<div class="col-sm-4">
-							<a href="contact.php" class="btn btn-contact-service">Contact LOGIQUE</a>
+							<a href="hubungi-kami.php" class="btn btn-contact-service">Hubungi LOGIQUE</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
 					<div class="form-container">
-						<br/><br/>
+					<br/><br/>
 						<div class="panel-group" id="vacancy">
 						  <div class="panel panel-default">
 							<div class="panel-heading">
 								<a data-toggle="collapse" data-parent="#vacancy" href="#website-creation" class="collapsed">
 									<h2 class="panel-title">
-										<img src="../img/html.png" alt="Website Creation"/> Website Creation
+										<img src="img/html.png" alt="Jasa Pembuatan Website"/> Jasa Pembuatan Website
 									</h2>
 								</a>
 							</div>
@@ -146,32 +145,32 @@
 							  <div class="panel-body">
 								<ol class="fa-ul">
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Corporate Website creation</b><br/>
-										We develop a website that effectively tells visitors the value of your company brand, We also can provide you domain / web server / SSL agent service, and contents creation service depending on your needs.
+										<i class="fa-li fa fa-caret-right"></i> <b>Website Perusahaan</b><br/>
+										Kami membuat website yang dapat secara efektif menyampaikan nilai perusahaan Anda. Kami juga menyediakan layanan pembelian domain, web server, SSL dan pembuatan konten sesuai kebutuhan Anda.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Multi-language Website creation</b><br/>
-										We have much developing experiences in multi-language website with English, Indonesian, and Japanese language. Other than the creation of website itself, also feel free to contact us for also translation / correction.
+										<i class="fa-li fa fa-caret-right"></i> <b>Website Multi Bahasa</b><br/>
+										Kami punya banyak pengalaman dalam mengembangkan website multi-bahasa yang mencakup Bahasa Inggris, Indonesia, dan Jepang. Selain pembuatan konten, Anda juga dapat menghubungi kami jika memerlukan jasa penerjemah atau perbaikan tata bahasa pada konten website Anda.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Service Website Development</b><br/>
-										We can help you to develop from business planning up to design creation, system Website development / maintenance when you wish to develop websites such as Used car auction website, Human Resource matching website, E-commerce, and Member management CRM Website.
+										<i class="fa-li fa fa-caret-right"></i> <b>Website Layanan</b><br/>
+										Kami dapat membantu Anda mulai dari perencanaan ide bisnis, pembuatan desain, pengembangan sistem sampai dengan pengelolaan website, jika Anda ingin mengembangkan layanan berbasis web seperti lelang mobil bekas online, portal berita, toko online, dan manajemen keanggotaan (CRM).
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Recruitment Website Creation</b><br/>
-										Nowadays, it is getting harder for companies to hire an ideal human resource for their business. To have your own recruitment website is the key to succeed in hiring.
+										<i class="fa-li fa fa-caret-right"></i> <b>Website Karir</b><br/>
+										Sekarang semakin sulit bagi perusahaan untuk mendapatkan karyawan ideal yang sesuai dan cocok dengan bisnis yang dijalankan. Halaman karir website Anda adalah salah satu faktor penting  untuk kesuksesan perekrutan perusahaan Anda.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Mobile / Responsive Website Creation</b><br/>
-										Responsive coding is trending technology to fit your website into smartphone / tablet sized screen. As Indonesia has the notable amount of smartphone traffics, LOGIQUE can propose you projects that can fit with Indonesian market bringing many experiences and knowledges we had in developing responsive websites.
+										<i class="fa-li fa fa-caret-right"></i> <b>Website dengan Desain Responsif </b><br/>
+										Desain responsif merupakan suatu teknologi yang saat ini sedang populer, yang mampu membuat website Anda dapat dilihat dengan baik pada tampilan berukuran smartphone atau tablet. Hal ini sangat penting karena website di Indonesia mempunyai tingkat kunjungan yang sangat besar dari pengguna smartphone atau tablet, dan LOGIQUE dapat membantu Anda dengan pengalaman dan pengetahuan yang kami miliki terhadap teknologi responsif ini.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>LP / Campaign Website creation</b><br/>
-										Feel free to contact us about Landing page / Campaign page. We develop your website even if you want only 1 page. We also can create advertisement banners.
+										<i class="fa-li fa fa-caret-right"></i> <b>Halaman Landing / Kampanye</b><br/>
+										Silakan menghubungi kami terkait pembuatan halaman landing / kampanye untuk produk atau layanan Anda, kami akan membantu Anda walaupun hanya satu halaman. Kami juga dapat membuat banner iklan untuk menunjang kampanye iklan website Anda.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Blog</b><br/>
-										Installation & customization of Wordpress. We design & develop your blog. In case you want to customize. If you want to improve your blog / enhance security, leave it to us.
+										LOGIQUE melayani instalasi dan kustomisasi Wordpress. Kami dapat mendesain, mengembangkan, dan meningkatkan keamanan blog Anda sesuai kebutuhan. 
 									</li>
 								</ol>
 							  </div>
@@ -181,7 +180,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#web-system" class="collapsed">
 								<h2 class="panel-title">
-									<img src="../img/web-system.png" alt="Website Creation"/> Web System Development
+									<img src="img/web-system.png" alt="Jasa Pengembangan Sistem WEB"/> Jasa Pengembangan Sistem WEB
 								</h2>
 							  </a>
 							</div>
@@ -189,20 +188,20 @@
 							  <div class="panel-body">
 								<ol class="fa-ul">
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>CMS development / Maintenance</b><br/>
-										We develop flexible and secure CMS that allows you to maintain easily after the delivery. We are able both to develop CMS from scratch and customize existing CMS products. We also provide maintenance service of your CMS. We are maintaining some CMSs owned by big companies and banks.
+										<i class="fa-li fa fa-caret-right"></i> <b>Pengembangan dan Pengelolaan Sistem Manajemen Konten (CMS)</b><br/>
+										LOGIQUE melayani pengembangan CMS yang fleksibel dan aman sehingga memungkinkan Anda dapat melakukan pengelolaan dengan mudah. Kami dapat mengembangkan CMS dari awal sesuai kebutuhan atau dengan memanfaatkan produk CMS yang telah ada. Kami juga dapat membantu mengelola CMS Anda. Saat ini, kami telah melakukan pengelolaan CMS untuk beberapa perusahaan besar dan bank yang ada di Indonesia.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Member Management / Contract Management system</b><br/>
-										CRM system, largescale-member management system. As we have experiences in developing member management system for banks, we have comprehensive security policy.
+										<i class="fa-li fa fa-caret-right"></i> <b>Sistem Manajemen Pelanggan atau Keanggotaan</b><br/>
+										LOGIQUE melayani pembuatan sistem manajemen pelanggan (CRM) atau sistem manajemen keanggotaan berskala besar. Kami memiliki standar keamanan yang komprehensif dengan pengalaman kami menyediakan sistem manajemen keanggotaan untuk bank.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>E-Commerce </b><br/>
-										We are able to develop an E-commerce website that has quite complicated function such as Market place and Multi-level marketing. We develop the E-commerce website following unique Indonesian rules of payment and calculation of delivery cost. We also have plenty of experiences to develop E-commerce website with various Indonesian payment gateways.
+										Kami mampu mengembangkan E-Commerce dengan tingkat kesulitan atau kompleksitas yang tinggi seperti marketplace B2B2C, termasuk perhitungan pembayaran dan pengiriman sesuai dengan peraturan atau layanan yang tersedia di Indonesia. Selain itu, kami juga punya banyak pengalaman mengintegrasikan berbagai macam gerbang pembayaran (payment gateway).
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Campaign Management / Contest Application Management System</b><br/>
-										We often develop back-end management system other than campaign web page itself. We develop Campaign / Contest Application system integrating various functions , such as managing applicatnts, informing the result to winners, developing main system development.
+										<i class="fa-li fa fa-caret-right"></i> <b>Manajemen Kampanye / Kontes</b><br/>
+										Selain mengembangkan halaman web untuk keperluan kampanye atau kontes, kami juga sering mengembangkan sistem manajemen untuk keperluan tersebut. Sistem tersebut biasanya terintegrasi dengan berbagai fungsi seperti pengelolaan kontestan atau tugas perlombaan dan pemilihan atau informasi pemenang.
 									</li>
 								</ol>
 							  </div>
@@ -212,7 +211,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#mobile-solution" class="collapsed">
 								<h2 class="panel-title">
-									<img src="../img/mobile-solution.png" alt="Mobile Solution"/> Mobile Solution
+									<img src="img/mobile-solution.png" alt="Jasa Solusi Mobile"/> Jasa Solusi Mobile
 								</h2>
 							  </a>
 							</div>
@@ -220,12 +219,12 @@
 							  <div class="panel-body">
 								<ol class="fa-ul">
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Mobile Website Creation </b><br/>
-										It is important to approach Mobile users properly since most of the internet traffic in Indonesia is consist of Mobile. We develop responsive website that can optimize its UI depending on the device screen size. We propose flexibly in case the project requires new technologies such as PWA or AMP.
+										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Website versi Mobile</b><br/>
+										Sangat penting untuk menjangkau pengguna mobile dengan tepat karena kontribusi mereka terhadap tingkat kunjungan web di Indonesia sangat besar. LOGIQUE mengembangkan responsive website yang dapat mengoptimasi tampilan website (UI) sesuai dengan ukuran layar. Kami juga secara fleksibel dapat menawarkan dan mengimplementasikan penggunaan teknologi baru seperti PWA atau AMP. 
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Mobile Application Development</b><br/>
-										We are able to develop Android / iOS Apps that suit Indonesian market. We just not plan or use new technologies, but we use the plan into UI and UX, design, application development, and register the apps to provide you comprehensive service.
+										<i class="fa-li fa fa-caret-right"></i> <b>Pengembangan Aplikasi Mobile</b><br/>
+										Kami melayani pengembangan aplikasi Android/ iOS yang sesuai dengan pasar Indonesia. Tidak hanya merancang atau mengimplementasikan teknologi baru, tetapi kami juga mengoptimalkan UI dan UX, desain, pengembangan aplikasi, hingga membantu Anda mendaftarkan aplikasi ke App Store / Google Play. Sebuah layanan yang komprehensif untuk Anda.
 									</li>
 								</ol>
 							  </div>
@@ -235,7 +234,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#digital-marketing" class="collapsed">
 								<h2 class="panel-title">
-									<img src="../img/digital-marketing.png" alt="Digital Marketing"/> Digital Marketing
+									<img src="img/digital-marketing.png" alt="Jasa Pemasaran Digital"/> Jasa Pemasaran Digital
 								</h2>
 							  </a>
 							</div>
@@ -244,19 +243,19 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>SEO</b><br/>
-										We commit to the result by not only implementing SEO but website improvement. We have great experience in SEO for Japanese, Indonesian, and English language. We had succeeded to keep one of our clients (Indonesian finance company) on the 1st place in Google search result for a long time, as a notable example.
+										Kami berfokus pada hasil dengan tidak hanya mengimplementasikan metode SEO saja namun termasuk peningkatan atau perbaikan website itu sendiri. Kami punya banyak pengalaman SEO dalam bahasa Jepang, Indonesia, dan Inggris. Salah satu contoh hasil implementasi SEO kami adalah kami berhasil membuat dan mempertahankan satu klien (perusahaan finansial di Indonesia) pada posisi pertama halaman pencarian Google untuk waktu yang lama.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Internet Business Consulting</b><br/>
-										We create business with you as an internet advisor. We can help you to launch new business or expanding existing business utilizing the power of internet.
+										<i class="fa-li fa fa-caret-right"></i> <b>Konsultasi Bisnis Digital</b><br/>
+										Sebagai penasihat atau konsultan digital, kami akan membuat bisnis bersama dengan Anda. Kami dapat membantu Anda menciptakan bisnis baru atau mengembangkan bisnis Anda dengan memanfaatkan kekuatan Internet.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Contents Creation</b><br/>
-										We can create contents for your website such as image, video, and text contents. We also can translate the text contents that you provided. We also can create photo shooting / drone shooting by cooperating our partner. Our Indonesian & Japanese staffs will create your contents with their professional knowledge of SEO.
+										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Konten</b><br/>
+										LOGIQUE melayani pembuatan konten untuk website Anda seperti foto, video dan teks. Kami juga dapat membantu menerjemahkan konten yang Anda berikan ke dalam Bahasa Indonesia, Inggris, atau Jepang; serta melakukan pengambilan foto dengan fotografer atau drone melalui kerjasama dengan mitra kami. Penulis kami akan memberikan Anda konten yang cocok untuk SEO.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Internet Advertisement / Digital Marketing Consulting</b><br/>
-										Feel free to contact us to increasing prospects / conversions by internet advertisement, internet PR strategy, SNS marketing, etc. We will provide you effective solutions cooperating our partner.
+										<i class="fa-li fa fa-caret-right"></i> <b>Iklan Digital / Konsultasi Pemasaran Digital</b><br/>
+										Silakan menghubungi kami jika Anda memerlukan bantuan untuk meningkatkan jumlah prospek atau konversi dengan menggunakan iklan, strategi pemasaran digital, pemasaran melalui media social, dll. Kami akan menyediakan layanan yang efektif bagi Anda melalui kerjasama dengan mitra kami.
 									</li>
 								</ol>
 							  </div>
@@ -266,7 +265,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#others" class="collapsed">
 								<h2 class="panel-title">
-									<img src="../img/others.png" alt="Digital Marketing"/> Others
+									<img src="img/others.png" alt="jasa pembuatan website lainnya"/> Jasa Lainnya
 								</h2>
 							  </a>
 							</div>
@@ -274,12 +273,12 @@
 							  <div class="panel-body">
 								<ol class="fa-ul">
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Company Profile / Catalog / Leaflet Design Creation & Printing</b><br/>
-										We are able to print not only paper-based printings for business, but bag, T-shirts, or even more. We handle the project from designing until we deliver it controlling partner printing companies. Feel free to contact us about company profile, leaflet samples for exhibition, or other promotion products.
+										<i class="fa-li fa fa-caret-right"></i> <b>Desain dan Pencetakan Profil Perusahaan/ Katalog / Selebaran</b><br/>
+										LOGIQUE tidak hanya mampu mencetak pada media kertas untuk keperluan bisnis namun juga termasuk pembuatan tas, kaos, dan lain sebagainya. Layanan kami mencakup desain hingga pengiriman melalui kolaborasi dengan mitra perusahan percetakan kami. Silakan menghubungi kami jika Anda memerlukan bantuan terkait profil perusahaan, contoh selebaran untuk acara, atau produk promosi lainnya. 
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Web Server & Domain Agent Service</b><br/>
-										We will provide you agent service to obtain“co.id”(Indonesian corporate domain), setup DNS, setup SSL. We also can rent a Web server for you.
+										<i class="fa-li fa fa-caret-right"></i> <b>Agen Web Server dan Domain</b><br/>
+										Kami dapat berperan sebagai agen untuk Anda mendapatkan domain .co.id (domain perusahaan Indonesia) serta melakukan konfigurasi DNS atau SSL. Selain itu, kami juga dapat menyewakan layanan server WEB untuk Anda.
 									</li>
 								</ol>
 							  </div>
@@ -290,79 +289,79 @@
 					<!--<div class="no-gap">
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
-								<span class="tooltiptext-service">We support you to create large-sale websites with development planning, guideline definition, as well as maintenance flow that all play an important role in your web marketing.</span>
+								<span class="tooltiptext-service">Kami memberikan dukungan bagi Anda dalam pembuatan website berskala besar termasuk perancangan arsitektur hingga pemeliharaan yang dapat membantu pemasaran website Anda.</span>
 								<div id="websitedevelopment"></div>
-								Large-scale Website <br/>Development
+								Pengembangan Website <br/>Berskala Besar								
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
-								<span class="tooltiptext-service">We make comprehensive plans to create Websites, Pamphlets, and contents just for you as a one-stop service.</span>
+								<span class="tooltiptext-service">Kami memberikan perencanaan dan solusi yang lengkap untuk pembuatan website, desain, dan konten Anda dalam satu layanan terpadu.</span>
 								<div id="systemdevelopment"></div>
-								Website, Graphic, <br/>and Contents Creation
+								Pembuatan Website, <br/>Desain, dan Konten 
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
-								<span class="tooltiptext-service">No matter how uncommon the keyword is, we will make sure your website is listed at the top of search results for all major internet search engines.</span>
+								<span class="tooltiptext-service">Apapun keywordnya kami akan membuat website Anda muncul pada peringkat atas mesin pencarian yang populer.</span>
 								<div id="seo"></div>
-								SEO
+								Optimasi Mesin <br/>Pencarian (SEO)
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
-								<span class="tooltiptext-service">We develop optimised websites that are compatible with multiple devices such as smartphone/tablet.</span>
+								<span class="tooltiptext-service">Kami mengembangkan website teroptimasi yang kompatibel dengan berbagai ukuran layar smartphone dan tablet.</span>
 								<div id="e-commerce"></div>
-								Responsive Web <br/>Design
+								Desain Web <br/>Responsif
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
-								<span class="tooltiptext-service">We use one multi use source to develop your website for iPhone, iPad, and Android as well.</span>
+								<span class="tooltiptext-service">Kami dapat mengembangkan aplikasi smartphone untuk iPhone, iPad, dan Android secara native atau dengan mamanfaatkan kembali kode yang ada pada platform tertentu.</span>
 								<div id="mobile-app"></div>
-								Mobile <br/> Application
+								Aplikasi <br/> Mobile
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
-								<span class="tooltiptext-service">We comprehensively plan and develop recruitment tools based on the applicants' psycological trends.</span>
+								<span class="tooltiptext-service">Kami secara rinci merencanakan dan mengembangkan alat rekrutmen yang dapat menganalisa kemampuan teknikal dan psikologis para pelamar.</span>
 								<div id="other-service"></div>
-								Recruitment Tool <br/>Creation
+								Pembuatan Alat <br/>Rekrutmen
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
 								<span class="tooltiptext-service">Anda akan didukung oleh karyawan asli / dwibahasa kami untuk kebutuhan internasional Anda.</span>
 								<div id="other-service"></div>
-								Multi-Language <br/>Website Creation
+								Pembuatan Website <br/>Beragam Bahasa
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
-								<span class="tooltiptext-service">Our native/bilingual staff will provide appropriate translations and optimise your website to make it into a marketing tool.</span>
+								<span class="tooltiptext-service">Karyawan asli / dwibahasa kami akan menyediakan terjemahan yang tepat dan mengoptimasi website Anda menjadi sebuah alat pemasaran.</span>
 								<div id="other-service"></div>
-								Translation
+								Terjemahan
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
-								<span class="tooltiptext-service">We develop Front and Back-End system for various needs with CMS installment, integration with your SAP system, and more as one-stop service.</span>
+								<span class="tooltiptext-service">Kami mengembangkan baik dari sisi tampilan maupun fungsional untuk berbagai macam kebutuhan misalnya dengan instalasi CMS, integrasi dengan sistem SAP, dan lain-lain sebagai satu solusi terpadu.</span>
 								<div id="other-service"></div>
-								System <br/>Integration
+								Integrasi <br/>Sistem
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
-								<span class="tooltiptext-service">We consult and define your scenario to success your marketing activity with "Investigation × Analysis × Clear Goal Definition".</span>
+								<span class="tooltiptext-service">Kami memberikan konsultasi dan solusi untuk kesuksesan pemasaran digital Anda dengan "Investigasi x Analisa x Definisi Tujuan Yang Jelas".</span>
 								<div id="other-service"></div>
-								Investigation and Analysis <br/>/ Web Consulting 
+								Investigasi dan Analisa <br/>/ Konsultasi Web
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service" href="#test">
-								<span id="#test" class="tooltiptext-service">We create effective contents to meet your goal by conducting interviews, shooting, and writing.</span>
+								<span id="#test" class="tooltiptext-service">Kami membuat konten yang efektif untuk tujuan Anda dengan dukungan wawancara, peliputan, dan penulisan.</span>
 								<div id="other-service"></div>
-								Contents <br/>Creation
+								Pembuatan <br/>Konten
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
@@ -372,12 +371,12 @@
 					</div>-->
 					<div class="clearfix"></div>
 					<div class="workflow-container">
-						<div class="title-workflow">Our Workflow</div>
+						<div class="title-workflow">Proses Kerja LOGIQUE</div>
 						<div class="row">
 							<div class="col-md-5ths">
 								<div class="div-for-workflow">
 								  <div class="valign-center">
-									<img src="../img/planning.png" class="img-responsive center-block" alt="Planning"/>
+									<img src="img/planning.png" class="img-responsive center-block" alt="Planning pembuatan website"/>
 									Planning
 								  </div>
 								</div>
@@ -385,7 +384,7 @@
 							<div class="col-md-5ths">
 								<div class="div-for-workflow">
 									<div class="valign-center">
-										<img src="../img/design.png" class="img-responsive center-block" alt="Design"/>
+										<img src="img/design.png" class="img-responsive center-block" alt="Design pembuatan website"/>
 										Design
 									</div>
 								</div>
@@ -393,7 +392,7 @@
 							<div class="col-md-5ths">
 								<div class="div-for-workflow">
 									<div class="valign-center">
-										<img src="../img/development.png" class="img-responsive center-block" alt="Development"/>
+										<img src="img/development.png" class="img-responsive center-block" alt="Development pembuatan website"/>
 										Development
 									</div>
 								</div>
@@ -401,7 +400,7 @@
 							<div class="col-md-5ths">
 								<div class="div-for-workflow">
 									<div class="valign-center">
-										<img src="../img/test.png" class="img-responsive center-block" alt="Test & Revision"/>
+										<img src="img/test.png" class="img-responsive center-block" alt="Test & Revision pembuatan website"/>
 										Test & Revision
 									</div>
 								</div>
@@ -409,7 +408,7 @@
 							<div class="col-md-5ths">
 								<div class="div-for-workflow">
 									<div class="valign-center">
-										<img src="../img/launch.png" class="img-responsive center-block" alt="Launching"/>
+										<img src="img/launch.png" class="img-responsive center-block" alt="Launching pembuatan website"/>
 										Project Launching
 									</div>
 								</div>
@@ -451,7 +450,7 @@
 							<div role="tabpanel" class="tab-pane active fade in" id="planning">
 								<div class="row row-center-sm">
 									<div class="col-sm-2">
-										<img alt="Planning" src="../img/planning.png" class="img-responsive center-block">
+										<img alt="Planning" src="img/planning.png" class="img-responsive center-block">
 									</div>
 									<div class="col-sm-10">
 										<div class="title-tab-content">Planning / Brainstorming</div>
@@ -464,7 +463,7 @@
 							<div role="tabpanel" class="tab-pane fade" id="design">
 								<div class="row row-center-sm">
 									<div class="col-sm-2">
-										<img alt="Planning" src="../img/planning.png" class="img-responsive center-block">
+										<img alt="Planning" src="img/planning.png" class="img-responsive center-block">
 									</div>
 									<div class="col-sm-10">
 										<div class="title-tab-content">Design</div>
@@ -477,7 +476,7 @@
 							<div role="tabpanel" class="tab-pane fade" id="development">
 								<div class="row row-center-sm">
 									<div class="col-sm-2">
-										<img alt="Planning" src="../img/planning.png" class="img-responsive center-block">
+										<img alt="Planning" src="img/planning.png" class="img-responsive center-block">
 									</div>
 									<div class="col-sm-10">
 										<div class="title-tab-content">Development</div>
@@ -490,7 +489,7 @@
 							<div role="tabpanel" class="tab-pane fade" id="test">
 								<div class="row row-center-sm">
 									<div class="col-sm-2">
-										<img alt="Planning" src="../img/planning.png" class="img-responsive center-block">
+										<img alt="Planning" src="img/planning.png" class="img-responsive center-block">
 									</div>
 									<div class="col-sm-10">
 										<div class="title-tab-content">Test &  Revision</div>
@@ -503,7 +502,7 @@
 							<div role="tabpanel" class="tab-pane fade" id="launching">
 								<div class="row row-center-sm">
 									<div class="col-sm-2">
-										<img alt="Planning" src="../img/planning.png" class="img-responsive center-block">
+										<img alt="Planning" src="img/planning.png" class="img-responsive center-block">
 									</div>
 									<div class="col-sm-10">
 										<div class="title-tab-content">Project Launching</div>
@@ -516,21 +515,21 @@
 						</div>-->
 					</div>
 					<div class="got-project">
-						<span>If you need help for:</span><br/>
+						<span>Jika Anda memiliki kebutuhan untuk:</span><br/>
 						<div class="list-on-services">
 							<ul class="fa-ul">
-								<li><i class="fa-li fa fa-check"></i> Developing a website</li>
-								<li><i class="fa-li fa fa-check"></i> Renewing / updating your website</li>
-								<li><i class="fa-li fa fa-check"></i> Developing campaign page / landing page</li>
-								<li><i class="fa-li fa fa-check"></i> Outsourcing for your website operation </li>
-								<li><i class="fa-li fa fa-check"></i> Looking for web server to rent and a company to maintain it.</li>
-								<li><i class="fa-li fa fa-check"></i> etc.</li>
+								<li><i class="fa-li fa fa-check"></i> Mengembangkan sebuah website</li>
+								<li><i class="fa-li fa fa-check"></i> Memperbaharui atau mengupdate website</li>
+								<li><i class="fa-li fa fa-check"></i> Mengembangkan halaman kampanye / landing page</li>
+								<li><i class="fa-li fa fa-check"></i> Melakukan outsourcing untuk operasional website </li>
+								<li><i class="fa-li fa fa-check"></i> Mencari penyewaan web server dan perusahaan untuk mengelolanya.</li>
+								<li><i class="fa-li fa fa-check"></i> dll.</li>
 							</ul>
 						</div>
-						LOGIQUE is ready to help you.
+						LOGIQUE siap membantu Anda.
 						<div class="text-center">
-							<a href="contact.php" class="btn btn-contact-us-black">
-								Contact LOGIQUE
+							<a href="hubungi-kami.php" class="btn btn-contact-us-black">
+								Hubungi LOGIQUE
 							</a>
 						</div>
 					</div>
