@@ -198,7 +198,7 @@
 										</div>
 										<div class="col-md-3 col-sm-6">
 											<div class="div-service-cat">
-												<img src="img/jasa-seo.png" alt="Jasa SEO" class="center-block img-responsive"/>
+												<img src="img/jasa-seo.png" alt="Jasa Optimasi SEO" class="center-block img-responsive"/>
 												<h2>Jasa Optimasi <br/><span>SEO</span></h2>
 												<a href="layanan.php" class="btn">Baca Selengkapnya</a>
 											</div>
