@@ -367,30 +367,29 @@
 							</div>
 							<div id="Technical" class="panel-collapse collapse">
 							  <div class="panel-body">
-								<b>Persyaratan:</b><br/>
+								<b>Requirements:</b><br/>
 								<ul class="joinus-ul">
-									<li>Memiliki pengalaman sebagai IT Consultant.</li>
-									<li>Memiliki kemampuan untuk memecahkan masalah perangkat keras, perangkat lunak dan jaringan.</li>
-									<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
-									<li>Mempunyai pengalaman dalam manajemen proyek.</li>
-									<li>Memiliki pikiran analitis dengan kemampuan memecahkan masalah.</li>
-									<li>Bisa bekerja dalam tim dengan kemampuan komunikasi dan presentasi yang sangat baik.</li>
-									<li>Orientasi layanan pelanggan.</li>
-									<li>Memiliki kemampuan interpesonal.</li>
-									<li>Lulusan dari ilmu komputer, IT atau bidang yang relevan.</li>
+									<li>Proven experience as Technical Consultant or Business Analyst.</li>
+									<li>An analytical mind with problem-solving abilities is a MUST.</li>
+									<li>Experience in creating web application / web system documentation (FSD/SRS).</li>
+									<li>Having experience in handling Digital marketing and pre-sales activities.</li>
+									<li>Experience in a web system development project is preferable!</li>
+									<li>Experience in project management role is a big plus!</li>
+									<li>A team player with excellent communication and presentation skills.</li>
+									<li>Customer service orientation.</li>
+									<li>Good Interpersonal skills.</li>
+									<li>BSc/BA in computer science, IT or relevant field; MSc/MBA in business will be a plus.</li>
 								</ul><br/>
-								
-								<b>Tanggung Jawab:</b><br/>
+
+								<b>Responsibilities :</b><br/>
 								<ul class="joinus-ul">
-									<li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>							
-									<li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>							
-									<li>Mengelola inisiatif TI dan berkolaborasi dengan staf teknis internal.</li>							
-									<li>Mendesain sistem dan jaringan TI memastikan arsitektur dan fungsionalitas yang tepat.</li>							
-									<li>Mendukung implementasi teknologi baru.</li>							
-									<li>Melatih pengguna dalam sistem TI baru dan yang sudah ada.</li>							
-									<li>Berikan bantuan untuk masalah teknis.</li>							
-									<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>							
-									<li>Menghasilkan laporan.</li>							
+									<li>Understand customers’ requirements and business objectives during requirement-definition phase.</li>
+									<li>Provide strategic advice on using technology to achieve goals.</li>							
+									<li>Manage IT initiatives and collaborate with in-house Web System Development team.</li>							
+									<li>Assisting QA Engineer in creating a comprehensive test-plan.</li>							
+									<li>Collaborate with Technical Writer in creating miscellaneous documents (FSD / requirements definition document, etc).</li>							
+									<li>Collaborating with Sales team and Technical Team to do pre-sales activities.</li>							
+									<li>Handling Digital Marketing activities.</li>						
 								</ul>
 							  </div>
 							</div>
