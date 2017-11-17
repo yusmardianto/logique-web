@@ -8,7 +8,7 @@
 	<meta name="keywords" content="lowongan kerja IT, lowongan web developer, lowongan web designer, lowongan mobile app developer, lowongan technical consultant, lowongan content writer, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Lowongan Kerja Web Developer | Karir | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Lowongan Kerja Web Developer | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career">
@@ -24,7 +24,7 @@
 		ga('create', 'UA-105878648-1', 'auto');
 		ga('send', 'pageview');
 	</script>
-    <title>Lowongan Kerja Web Developer | Karir | LOGIQUE Digital Indonesia</title>
+    <title>Lowongan Kerja Web Developer | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

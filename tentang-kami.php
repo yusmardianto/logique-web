@@ -7,14 +7,14 @@
     <meta name="description" itemprop="description" content="LOGIQUE adalah Web Developer asal Jepang yang bekerja dengan standar internasional serta mempunyai pengalaman lebih dari 5 tahun di Indonesia.">
 	<meta name="keywords" content="web developer, pembuatan website, pembuat aplikasi, buat web, aplikasi android, digital marketing, desain web, seo, aplikasi iphone, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Web Developer Berkualitas asal Jepang | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Web Developer Berkualitas Jepang | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/about.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
 	<meta property="og:description" content="LOGIQUE adalah Web Developer asal Jepang yang bekerja dengan standar internasional serta mempunyai pengalaman lebih dari 5 tahun di Indonesia.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Web Developer Berkualitas asal Jepang | LOGIQUE Digital Indonesia</title>
+    <title>Web Developer Berkualitas Jepang | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

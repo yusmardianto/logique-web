@@ -7,14 +7,14 @@
     <meta name="description" itemprop="description" content="LOGIQUE menyediakan berbagai jasa pembuatan website dan aplikasi, SEO, pengoperasian media sosial, cetak kartu nama, desain profil perusahaan dan brosur.">
 	<meta name="keywords" content="buat website, pembuatan website, pembuat aplikasi, buat web, aplikasi android, digital marketing, web developer, desain web, seo, aplikasi iphone, kartu nama, profil perusahaan, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Jasa Pembuatan Website, Web Sistem, SEO, dan Percetakan | LOGIQUE">
+    <meta property="og:title" content="Jasa Pembuatan Website, Web Sistem, dan Percetakan | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/services.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
 	<meta property="og:description" content="LOGIQUE menyediakan berbagai jasa pembuatan website dan aplikasi, SEO, pengoperasian media sosial, cetak kartu nama, desain profil perusahaan dan brosur.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Jasa Pembuatan Website, Web Sistem, SEO, dan Percetakan | LOGIQUE</title>
+    <title>Jasa Pembuatan Website, Web Sistem, dan Percetakan | LOGIQUE</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -146,11 +146,11 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Perusahaan</b><br/>
-										Kami membuat website yang dapat secara efektif menyampaikan nilai perusahaan Anda. Kami juga menyediakan layanan pembelian domain, web server, SSL dan pembuatan konten sesuai kebutuhan Anda.
+										Kami memberikan layanan pembuatan website yang dapat secara efektif menyampaikan nilai perusahaan Anda secara profesional. Kami juga menyediakan layanan pembelian domain, web server, SSL dan pembuatan konten website sesuai kebutuhan Anda.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Multi Bahasa</b><br/>
-										Kami punya banyak pengalaman dalam mengembangkan website multi-bahasa yang mencakup Bahasa Inggris, Indonesia, dan Jepang. Selain pembuatan konten, Anda juga dapat menghubungi kami jika memerlukan jasa penerjemah atau perbaikan tata bahasa pada konten website Anda.
+										Kami punya banyak pengalaman dalam mengembangkan website multi bahasa yang mencakup Bahasa Inggris, Indonesia, dan Jepang. Selain pembuatan website atau konten, Anda juga dapat menghubungi kami jika memerlukan jasa penerjemah atau perbaikan tata bahasa pada konten website Anda.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Layanan</b><br/>
@@ -158,7 +158,7 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Karir</b><br/>
-										Sekarang semakin sulit bagi perusahaan untuk mendapatkan karyawan ideal yang sesuai dan cocok dengan bisnis yang dijalankan. Halaman karir website Anda adalah salah satu faktor penting  untuk kesuksesan perekrutan perusahaan Anda.
+										Sekarang semakin sulit bagi perusahaan untuk mendapatkan karyawan ideal yang sesuai dan cocok dengan bisnis yang dijalankan. Halaman karir website perusahaan Anda adalah salah satu faktor penting untuk kesuksesan perekrutan.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website dengan Desain Responsif </b><br/>
@@ -196,8 +196,8 @@
 										LOGIQUE melayani pembuatan sistem manajemen pelanggan (CRM) atau sistem manajemen keanggotaan berskala besar. Kami memiliki standar keamanan yang komprehensif dengan pengalaman kami menyediakan sistem manajemen keanggotaan untuk bank.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>E-Commerce </b><br/>
-										Kami mampu mengembangkan E-Commerce dengan tingkat kesulitan atau kompleksitas yang tinggi seperti marketplace B2B2C, termasuk perhitungan pembayaran dan pengiriman sesuai dengan peraturan atau layanan yang tersedia di Indonesia. Selain itu, kami juga punya banyak pengalaman mengintegrasikan berbagai macam gerbang pembayaran (payment gateway).
+										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Toko Online / E-Commerce </b><br/>
+										Kami mampu membuat dan mengembangkan toko online atau E-Commerce dengan tingkat kesulitan atau kompleksitas yang tinggi seperti marketplace B2B2C, termasuk perhitungan pembayaran dan pengiriman sesuai dengan peraturan atau layanan yang tersedia di Indonesia. Selain itu, kami juga punya banyak pengalaman mengintegrasikan berbagai macam gerbang pembayaran (payment gateway).
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Manajemen Kampanye / Kontes</b><br/>
@@ -250,7 +250,7 @@
 										Sebagai penasihat atau konsultan digital, kami akan membuat bisnis bersama dengan Anda. Kami dapat membantu Anda menciptakan bisnis baru atau mengembangkan bisnis Anda dengan memanfaatkan kekuatan Internet.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Konten</b><br/>
+										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Konten Website</b><br/>
 										LOGIQUE melayani pembuatan konten untuk website Anda seperti foto, video dan teks. Kami juga dapat membantu menerjemahkan konten yang Anda berikan ke dalam Bahasa Indonesia, Inggris, atau Jepang; serta melakukan pengambilan foto dengan fotografer atau drone melalui kerjasama dengan mitra kami. Penulis kami akan memberikan Anda konten yang cocok untuk SEO.
 									</li>
 									<li>
@@ -518,11 +518,15 @@
 						<span>Jika Anda memiliki kebutuhan untuk:</span><br/>
 						<div class="list-on-services">
 							<ul class="fa-ul">
-								<li><i class="fa-li fa fa-check"></i> Mengembangkan sebuah website</li>
+								<li><i class="fa-li fa fa-check"></i> Membuat sebuah website</li>
 								<li><i class="fa-li fa fa-check"></i> Memperbaharui atau mengupdate website</li>
-								<li><i class="fa-li fa fa-check"></i> Mengembangkan halaman kampanye / landing page</li>
-								<li><i class="fa-li fa fa-check"></i> Melakukan outsourcing untuk operasional website </li>
-								<li><i class="fa-li fa fa-check"></i> Mencari penyewaan web server dan perusahaan untuk mengelolanya.</li>
+								<li><i class="fa-li fa fa-check"></i> Melakukan pengembangan sistem web</li>
+								<li><i class="fa-li fa fa-check"></i> Membuat desain halaman kampanye atau landing page website </li>
+								<li><i class="fa-li fa fa-check"></i> Melakukan outsourcing untuk operasional website</li>
+								<li><i class="fa-li fa fa-check"></i> Meningkatkan jumlah akses ke website Anda dengan SEO</li>
+								<li><i class="fa-li fa fa-check"></i> Mengatur dan menjalankan strategi promosi online</li>
+								<li><i class="fa-li fa fa-check"></i> Mencari penyewaan web server dan perusahaan untuk mengelolanya</li>
+								<li><i class="fa-li fa fa-check"></i> Mencari jasa percetakan untuk profil perusahaan atau brosur</li>
 								<li><i class="fa-li fa fa-check"></i> dll.</li>
 							</ul>
 						</div>
