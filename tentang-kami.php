@@ -243,11 +243,15 @@
 						<span>Jika Anda memiliki kebutuhan untuk:</span><br/>
 						<div class="list-on-services">
 							<ul class="fa-ul">
-								<li><i class="fa-li fa fa-check"></i> Mengembangkan sebuah website</li>
+								<li><i class="fa-li fa fa-check"></i> Membuat sebuah website</li>
 								<li><i class="fa-li fa fa-check"></i> Memperbaharui atau mengupdate website</li>
-								<li><i class="fa-li fa fa-check"></i> Mengembangkan halaman kampanye / landing page</li>
-								<li><i class="fa-li fa fa-check"></i> Melakukan outsourcing untuk operasional website </li>
-								<li><i class="fa-li fa fa-check"></i> Mencari penyewaan web server dan perusahaan untuk mengelolanya.</li>
+								<li><i class="fa-li fa fa-check"></i> Melakukan pengembangan sistem web</li>
+								<li><i class="fa-li fa fa-check"></i> Membuat desain halaman kampanye atau landing page website </li>
+								<li><i class="fa-li fa fa-check"></i> Melakukan outsourcing untuk operasional website</li>
+								<li><i class="fa-li fa fa-check"></i> Meningkatkan jumlah akses ke website Anda dengan SEO</li>
+								<li><i class="fa-li fa fa-check"></i> Mengatur dan menjalankan strategi promosi online</li>
+								<li><i class="fa-li fa fa-check"></i> Mencari penyewaan web server dan perusahaan untuk mengelolanya</li>
+								<li><i class="fa-li fa fa-check"></i> Mencari jasa percetakan untuk profil perusahaan atau brosur</li>
 								<li><i class="fa-li fa fa-check"></i> dll.</li>
 							</ul>
 						</div>
