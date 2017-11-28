@@ -106,7 +106,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">サービス</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">WEBサイト/ホームページ制作、モバイルアプリ開発、印刷物デザイン、インターネットマーケティングまで取り扱っております。</h1>
+							<h1 class="tagline">WEBサイト/ホームページ制作、SEO対策、モバイルアプリ開発、システム開発、IT関連コンサルティング、印刷物デザインなど。</h1>
 						</div>
 					</div>
 				</div>
@@ -118,12 +118,12 @@
 				<div id="contents">
 					<div class="title"><b>Our</b><span class="yellow">Services</span></div>
 					<div class="form-container">
-						LOGIQUEはインドネシア国内でウェブサイト(ホームページ)やウェブシステム、モバイルアプリケーションの開発、SNS活用などお客様がインターネットを活用するためのご支援をしています。WEBやWEBシステムの制作・開発、運用からインターネットマーケティングやSEO対策などまで、Web、インターネットに関するサービスを幅広く提供しております。 プログラマー、デザイナー、コンテンツライターを自社内に抱えており、フレキシブルかつ安価な価格でのサービス提供が可能です。インドネシアにて長い経験と多くの実績を持っておりますので安心してご依頼ください。
+						LOGIQUEはインドネシア国内でウェブサイト(ホームページ)やウェブシステム、モバイルアプリケーションの開発、SNS活用などお客様がIT・インターネットを活用するためのご支援をしています。WEBやWEBシステムの制作・開発、運用からインターネットマーケティングやSEO対策などまで、Web、インターネットに関するサービスを幅広く提供しております。 プログラマー、デザイナー、コンテンツライターを自社内に抱えており、フレキシブルで安価な価格でのサービス提供が可能です。インドネシアにて長い経験と多くの実績を持っておりますので安心してご依頼ください。
 					</div>
 					<img class="img-responsive" src="../img/layanan-img.jpg" alt="Layanan"/>
 					<div class="feel-free row-center-sm" style="font-size: 18px;">
 						<div class="col-sm-8">
-							その他詳細については、お気軽にお問い合わせください。
+							インドネシアでのIT・WEB活用関連について、お気軽にお問い合わせください。御社製品・サービスのインドネシアでの販売パートナー・代理店をお探しの方もお気軽にご連絡ください。
 						</div>
 						<div class="col-sm-4">
 							<a href="contact.php" class="btn btn-contact-service">お問い合わせ</a>
@@ -137,7 +137,7 @@
 							<div class="panel-heading">
 								<a data-toggle="collapse" data-parent="#vacancy" href="#website-creation" class="collapsed">
 									<h2 class="panel-title">
-										<img src="../img/html.png" alt="Website Creation"/> WEB制作
+										<img src="../img/html.png" alt="Website Creation"/> WEB・ホームページ制作運用
 									</h2>
 								</a>
 							</div>
@@ -180,7 +180,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#web-system" class="collapsed">
 								<h2 class="panel-title">
-									<img src="../img/web-system.png" alt="Website Creation"/>WEBシステム開発
+									<img src="../img/web-system.png" alt="Website Creation"/>ITシステム開発・運用
 								</h2>
 							  </a>
 							</div>
@@ -515,14 +515,17 @@
 						</div>-->
 					</div>
 					<div class="got-project">
-						<span style="font-size:30px;">WEB関連でお困りの事があれば、</span><br/>
+						<span style="font-size:30px;">WEB・システム関連でお困りのことがあれば、</span><br/>
 						<div class="list-on-services" style="max-width: 500px;">
 							<ul class="fa-ul">
-								<li><i class="fa-li fa fa-check"></i> WEBサイトを制作したい</li>
-								<li><i class="fa-li fa fa-check"></i> WEBサイトをリニューアル・変更したい</li>
-								<li><i class="fa-li fa fa-check"></i> キャンペーンページ、ランディングページを作りたい</li>
-								<li><i class="fa-li fa fa-check"></i> WEBサイトの運用を委託したい</li>
-								<li><i class="fa-li fa fa-check"></i> WEBサーバーを探している、レンタルしたい、運用してもらいたい</li>
+								<li><i class="fa-li fa fa-check"></i> WEBサイトを作って運用する必要があるが、どうすれば良いか分からない。</li>
+								<li><i class="fa-li fa fa-check"></i> モバイル最適化されたWEBに変更したい。</li>
+								<li><i class="fa-li fa fa-check"></i> 社内管理システムが必要だがIT部門に相談しても進まない。</li>
+								<li><i class="fa-li fa fa-check"></i> ITインフラの管理をどうすればいいのか誰も分からない。</li>
+								<li><i class="fa-li fa fa-check"></i> ITセキュリティ監査が必要。</li>
+								<li><i class="fa-li fa fa-check"></i> WEBで自社（ブランド）の認知度を高めたい。</li>
+								<li><i class="fa-li fa fa-check"></i> インターネット広告に出稿したい。</li>
+								<li><i class="fa-li fa fa-check"></i> 展示会で配布する販促物のデザイン制作、印刷が必要だが、、</li>
 							</ul>
 						</div>
 						お気軽にご相談ください。

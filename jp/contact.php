@@ -141,7 +141,8 @@ if(isset($_POST['submitted']))
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">お問い合わせ</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">WEBサイト/ホームページ制作、インターネットマーケティング、モバイル開発から印刷物のデザインまでお気軽にご相談ください。</h1>
+							<h1 class="tagline">WEBシステム開発、ホームページ制作、インターネットマーケティング、モバイル開発から印刷物のデザインまでお気軽にご相談ください。
+							</h1>
 						</div>
 					</div>
 				</div>
@@ -151,9 +152,6 @@ if(isset($_POST['submitted']))
 			
 			<div id="contentsArea">
 				<div id="contents">
-					<div class="map-container">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1982.8748090433066!2d106.82702104991579!3d-6.296598097694437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f206effdebf1%3A0xca2d9403de2bfbe1!2sAD+Premier+Office+Park!5e0!3m2!1sen!2sid!4v1499330296225" allowfullscreen></iframe>
-					</div>
 					<div class="title"><b>Contact</b><span class="yellow">Us</span></div>
 					<div class="form-container" style="padding-top: 10px;">
 					<style>
@@ -169,13 +167,13 @@ if(isset($_POST['submitted']))
 								</div>
 								<div class="col-lg-12">
 									<div class="contact-copies">
-										<span class="yellow">WEB</span>を営業の重要な１チャネルに育てたい</b>.
+										<span class="yellow">WEB</span>を営業の重要な１チャネルとして、集客力のあるWEBに改良したい.
 									</div>
 									<div class="contact-copies">
-										集客、マーケティング、<span class="yellow">WEB</span>で他社に差をつけたい.
+										インターネットテクノロジーやAIなど先進技術を活用した新ビジネスを立ち上げたい.
 									</div>
 									<div class="contact-copies">
-										<span class="yellow">WEB</span>をキーにビジネスを発展させたい.
+										社内管理システムが必要、パッケージ導入ではなく、要件にあったシステムを構築したい.
 									</div>
 								</div>
 							</div>
@@ -185,7 +183,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<img class="img-responsive" src="../img/kontak-img.jpg" alt="Kontak Kami"/>
 					<div class="highlights-contact">
-						インドネシアでWEBを成功のキーとお考えであれば、LOGIQUEにご相談ください。
+						インドネシアにてWEBやIT関連で課題があれば、LOGIQUEにご相談ください。
 					</div>
 					<div class="form-container">	
 					<br/>
@@ -357,6 +355,9 @@ if(isset($_POST['submitted']))
 						
 						<div class="question">インドネシア語のSEO対策が可能ですか？</div>
 						<div class="answer">可能です。金融系キーワードや旅行（訪日旅行）キーワード、教育系でSEO対策の経験があり、ビッグキーワードで上位表示を獲得しました。インドネシア人コンテンツライターとマーケッターがチームを組んで対策しますのでインドネシア語SEO対策が一番得意です。英語、日本語も可能です。</div><br/>
+					</div>
+					<div class="map-container">
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1982.8748090433066!2d106.82702104991579!3d-6.296598097694437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f206effdebf1%3A0xca2d9403de2bfbe1!2sAD+Premier+Office+Park!5e0!3m2!1sen!2sid!4v1499330296225" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>

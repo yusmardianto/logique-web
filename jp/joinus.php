@@ -106,7 +106,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">採用 / パートナー</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社。インターネットマーケティング、アプリ開発、各種デザインまで取り扱っております。</h1>
+							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社、システム開発会社。インドネシアでのパートナー・代理店としての提携問い合わせお待ちしてます。</h1>
 						</div>
 					</div>
 				</div>
@@ -116,25 +116,27 @@
 			
 			<div id="contentsArea">
 				<div id="contents">
-					<div class="title"><b>Join</b><span class="yellow">Us</span></div>
+					<div class="title" style="font-size: 28px;"><b>パートナー / インターン採用について</b></div>
 					<img src="../img/career-main.png" class="img-in-joinus"/>
 					<div class="form-container">
 						<p>
 						<br/>
-							LOGIQUEはインドネシアのジャカルタのトップWEB制作会社です。既に多くの大手企業と直接お取引いただいています。発展途上の柔軟な会社なので、あなたのやる気次第ではあなたがLOGIQUEの中核になることだって可能です。LOGIQUEはあなたが成長できる環境を用意します。技術力・仕事力を向上するためのサポートをします。 意味のないこと、無駄なことは極力排除しています。効率的に楽しく仕事できる環境を用意します。一生懸命に、かつ楽しく働き、会社と一緒に成長しましょう。
+							LOGIQUEはインドネシア・ジャカルタのトップWEB制作／システム開発会社です。多くの大手企業と直接お取引いただいています。当社では新規案件をご紹介いただく、また共同提案していく営業パートナーさんと協業したいと考えています。Photographerや専門分野の翻訳家、AIスペシャリストなど各分野の専門家ともパートナーシップを結びたいです。当社との提携・協業にご興味少しでもお有りでしたら、お気軽にご連絡ください。
+							インドネシアでのパートナーや代理店として、日本のプロダクト、サービス、ソリューションをインドネシアで展開したいとお考えの企業さまからのご連絡、視察旅行時のご来社もお待ちしています。
 						</p>
 					</div>
 					<div class="bg-grey">
+						
+						<div class="text-center" style="font-size: 22px;"><b>インターンシップ受入について</b></div><br/><br/>
+					
 						<span class="characteristic-title"><span class="yellow">LOGIQUE</span>で働くメリット :</span><br/>
 							LOGIQUEは、日本人創業者が経営しているインドネシアのWEB制作会社です、このため、LOGIQUEで働くと、外資系の大手企業との直接取引であるプロジェクトに関われ、外資系の企業とのプロジェクトを通してインターナショナルスタンダードな仕事のやり方を経験・学ぶことができます。 							プログラミングやデザインのクオリティも、マネジメントの方法も高い水準が求められますが、これはあなたの成長を促進します。新しい取組を受け入れるカルチャーがあります。あなたにアイデアがあれば、主体性をもってチャレンジすることが可能です。<br/><br/>
 							<span class="characteristic-title"><span class="yellow">LOGIQUE</span>で働くベネフィット:</span>
 							<ul class="joinus-ul">
 								<li>新しいオフィス、見晴らしのよいオフィスで働ける.</li>
-								<li>成果次第で毎月ボーナスがもらえる.</li>
+								<li>クマンのコスなどに済むと通勤が便利.</li>
 								<li>成長している会社で働ける.</li>
-								<li>外資系だけどインドネシア語を使って働ける.</li>
-								<li>勤務時間など柔軟な勤務ルール.</li>
-								<li>中核メンバーになれる可能性がある.</li>
+								<li>インドネシア人と英語やインドネシア語を使って働ける.</li>
 								<li>コンサルティングから制作、システム開発まで、仕事の幅が広い.</li>
 							</ul>
 						<!--<div class="title-bg-grey">社内制度紹介</span></div>-->
@@ -519,7 +521,7 @@
 							</p>
 						</div>
 						<div class="bg-grey">
-							<div class="title2">お知り合いやお付き合いのある会社にて </div>
+							<div class="title2">お知り合いやお付き合いのある会社さんにて </div>
 							<br/>
 							<div class="row">
 								<div class="col-md-3 client-searched">
@@ -531,13 +533,13 @@
 								<div class="col-md-3 client-searched">
 									<img class="center-block img-responsive" src="../img/client2.png" alt="Ingin membuat website atau blog menjadi lebih baik"/>
 									<p>
-										WEBやブログがあるが活かせてない
+										社内管理システムが必要
 									</p>
 								</div>
 								<div class="col-md-3 client-searched">
 									<img class="center-block img-responsive" src="../img/client3.png" alt="Ingin mengembangkan Digital Marketing atau SEO"/>
 									<p>
-										SEO対策などDigitalマーケティングをしたい
+										SEO対策などDigitalマーケをしなくては
 									</p>
 								</div>
 								<div class="col-md-3 client-searched">
@@ -549,8 +551,9 @@
 								<div class="clearfix"></div>
 								<br/>
 								<div class="col-md-12" id="client-desc1">
-									<div>など、WEBやインターネットに関連することでお困りの方がいらっしゃいましたら、当社をご紹介ください。</div>
-									<p>当社をご紹介いただき、その旨を当社にご連絡ください。無事にご紹介いただいたお客様と当社の間で成約しましたら、ご紹介者様に紹介手数料をお支払いたします。</p>
+									<p>
+									など、WEBやインターネットに関連することでお困りの方がいらっしゃいましたら、当社をご紹介ください。<br/><br/>
+									当社をご紹介いただき、その旨を当社にご連絡ください。無事にご紹介いただいたお客様と当社の間で成約しましたら、ご紹介者様に紹介手数料をお支払いたします。</p>
 								</div>
 								<div class="clearfix"></div>
 								<div class="commision-title">ご紹介手数料は、</div>
@@ -579,7 +582,7 @@
 								</div>
 							</div>
 							<div class="row">
-								<div class="commision-title">ご紹介いただく方法に特別に制限はありませんが、下記のようにしていただくと有り難いです。</div>
+								<div class="commision-title">ご紹介いただく方法に特別に制約はありませんが、下記のようにしていただくと有り難いです。</div>
 								<div class="klien-flow">
 									<div class="col-md-5ths">
 										<div class="div-for-workflow">

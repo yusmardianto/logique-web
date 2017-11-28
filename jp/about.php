@@ -106,7 +106,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">LOGIQUEについて</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社。インターネットマーケティングからアプリ開発、各種デザインも取り扱っております。</h1>
+							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社。ウェブデザイン制作からITシステム開発までインドネシアでIT活用のご支援を幅広く行っています。</h1>
 						</div>
 					</div>
 				</div>
@@ -117,7 +117,7 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<!--<img src="../img/about-us-main-visual.png" class="img-in-about"/>-->
-					<div id="profile" class="carousel slide" data-ride="carousel">
+					<div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
 						  <div class="carousel-inner">
 							<div class="item active">
 							  <img style="object-position:0 0" src="../img/slider1.jpg" alt="Web Developer LOGIQUE 1">
@@ -147,16 +147,19 @@
 						</div>
 					<div class="title" style="font-weight:normal"><span class="yellow">LOGIQUE</span>について</div>
 					<div class="form-container">	
-						LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。 インドネシアのジャカルタからインドネシア国内の企業さま、また日本などインドネシア国外のお客様に対して、ウェブサイトやシステムの制作開発、運用のご支援をしています。 WEBデザイン、インターネットマーケティングやSEO対策、FacebookやInstagram等のソーシャルメディアを活用したキャンペーン実施からモバイル・アプリケーション開発までDigital領域で幅広くサービス提供していることに加え、会社概要やカタログ、リーフレットのデザイン・印刷も行っています。<br/><br/>
-						インドネシアにて5年を超える経験をもち、日系企業のウェブ制作プロジェクトも経験豊富なデザイナー、プログラマー、コンテンツライターが担当します。 ゴールとご予算に応じて最適なサービスをご提供します。<br/><br/>
+						
+						LOGIQUEはホームページ制作・WEBシステム開発会社です。日本人がインドネシアのジャカルタで設立しました。インドネシア国内の日系企業さま、また日本からオフショア先をお探しのお客様に対して、ウェブサイトやシステムの制作開発、運用のご支援をしています。 WEBサイト制作会社としてWEBデザイン制作やLP制作、システム開発会社としてモバイルアプリ開発、CMS構築や採用管理システム開発、Digital AgencyとしてSEO対策、FacebookやInstagram等のソーシャルメディアを活用したキャンペーン実施など、複数の顔をもち幅広くサービス提供しています。会社概要やカタログ、リーフレットのデザイン・印刷も行っています。<br/><br/>
+						インドネシアにて5年を超える豊富な経験をもっています。日系企業向けのプロジェクトも経験豊富なデザイナー、プログラマー、コンテンツライターが担当します。 ゴールとご予算に応じて最適なソリューションをご提供します。お見積のご依頼、業務提携の相談などお気軽にご連絡ください。
+						<br/><br/>
 						
 						<span class="characteristic-title">特徴</span><br/><br>
 						<ul class="circle-list">
-							<li>LOGIQUEは数少ないインドネシアにベースを置く日系のWEB制作会社です。</li>
+							<li>LOGIQUEは数少ないインドネシアにベースを置く日系のWEB制作/システム開発会社です。</li>
 							<li>豊富な実績と確かなクオリティで信頼いただいていて大手のお客様にもお取引いただいています。LOGIQUEは、お客様のご要望に応じて最適なご提案をして最大の効果をあげるサービスを提供することに努めています。</li>
-							<li>スピードが重要な時代です。特に変化のスピードが早く変化量も大きいインドネシアにおいて、LOGIQUEはスピードを重視しています。</li>
+							<li>スピードが重要な時代です。特に変化のスピードが早く変化量も大きいインドネシアにおいて、LOGIQUEはスピードとAgilityを重視しています。</li>
 							<li>時にはお客様を急かしてでもプロジェクトを前へ進めていくようなつもりでお客様のビジネスを成長させていきたいと思っています。</li>
-							<li>シンプルなコーポレートWEBを公開したいというものから、新しいWEBサービスでインドネシアのマーケットを取りに行くという案件では、予算も投下リソースもスケジュールも全て異なりますが、LOGIQUEではどちらにも対応可能です。</li>
+							<li>シンプルなコーポレートWEBを公開したいというご要件と、新しいWEBサービスでインドネシアのマーケットを取りに行くという案件では、予算も投下リソースもスケジュールも全て異なりますが、LOGIQUEではどちらにも対応可能です。</li>
+							<li>ちょとした社内システムを構築したいという時に日系SIerに相談したら遅くてすごく高いという悩みを良くお聞きします。顧客管理システム、採用管理システム、日報システム、予約システムなどインドネシアにて様々なシステム開発をした実績があります。ご相談ください。</li>
 							<li>ある時は小回りのきく小さなWEB制作会社として、場合によってはセキュリティもしっかりした信頼できるシステム開発会社として、お客様からのご期待に応じてそのスタイルを変えながら御社のパートナーとして高いValueを提供していきたいと考えています。</li>
 						</ul>
 					</div>
@@ -187,14 +190,19 @@
 					</div>
 					
 					<div class="got-project">
-						<span style="font-size:30px;">WEB関連でお困りの事があれば、</span><br/>
+						<span style="font-size:30px;">WEB・IT関連でお困りのことがあれば</span><br/>
 						<div class="list-on-services" style="max-width: 500px;">
 							<ul class="fa-ul">
-								<li><i class="fa-li fa fa-check"></i> WEBサイトを制作したい</li>
-								<li><i class="fa-li fa fa-check"></i> WEBサイトをリニューアル・変更したい</li>
-								<li><i class="fa-li fa fa-check"></i> キャンペーンページ、ランディングページを作りたい</li>
-								<li><i class="fa-li fa fa-check"></i> WEBサイトの運用を委託したい</li>
-								<li><i class="fa-li fa fa-check"></i> WEBサーバーを探している、レンタルしたい、運用してもらいたい</li>
+								<li><i class="fa-li fa fa-check"></i> 会社ホームページ/コーポレートWEBがまだ無い。</li>
+								<li><i class="fa-li fa fa-check"></i> 運用会社を変えたい。元の制作開発会社と連絡がとれず更新できない。</li>
+								<li><i class="fa-li fa fa-check"></i> いまのウェブはスマフォに対応してなくて改良が必要。</li>
+								<li><i class="fa-li fa fa-check"></i> インドネシア語、英語、日本語でWEBを作りたい。</li>
+								<li><i class="fa-li fa fa-check"></i> 社内にIT担当者、WEB担当者がいない。</li>
+								<li><i class="fa-li fa fa-check"></i> エクセルでは管理が限界。簡易なシステムが必要。</li>
+								<li><i class="fa-li fa fa-check"></i> インターネット、WEBを活用してブランディングしたい、集客したい、競合と差別化したい。</li>
+								<li><i class="fa-li fa fa-check"></i> インドネシア語でコンテンツを作る必要があるが翻訳会社に委託するしかないのか？</li>
+								<li><i class="fa-li fa fa-check"></i> インドネシア内でサーバーをレンタルしたい。運用保守会社も探している。</li>
+								<li><i class="fa-li fa fa-check"></i> メールサーバー、eメールサーバーが必要。</li>
 							</ul>
 						</div>
 						お気軽にご相談ください。
