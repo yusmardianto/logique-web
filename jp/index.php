@@ -15,16 +15,6 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
 	<meta property="og:description" content="インドネシア、ジャカルタでのWEBサイト(ホームページ)制作、システム構築、WEBマーケティング、モバイルアプリ開発(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等のデザインなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-	ga('create', 'UA-105878648-1', 'auto');
-	ga('send', 'pageview');
-
-	</script>
     <title>ジャカルタのWEBサイト/ホームページ制作会社 | LOGIQUE デジタルインドネシア</title>
 
     <!-- Bootstrap -->
