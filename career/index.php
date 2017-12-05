@@ -671,8 +671,8 @@
 		<div class="bg-footer-new-career">
 			<span>Anda cocok dengan persyaratan di atas dan tertarik bergabung bersama LOGIQUE?</span><br>
 			<div class="text-center">
-				<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black">
-					Kirim CV Sekarang
+				<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+					Kirim CV Sekarang 
 				</a>
 			</div>
 		</div>
