@@ -107,7 +107,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Career</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">Join the best web / mobile app developer in Indonesia.</h1>
+							<h1 class="tagline">Just contact us and apply for the new position in LOGIQUE if you look for the best place to work as WEB developer, IT consultant or Designer.</h1>
 						</div>
 					</div>
 				</div>
@@ -140,7 +140,7 @@
 								<li>We have many various fields of work, from consulting division through system development division.</li>
 							</ul>
 						<!--div class="title-bg-grey">Introduction of Our  <span class="yellow">Internal Rules</span></div>-->
-						<br/><br/>
+						<!--<br/><br/>
 						<div class="row">
 							<div class="col-md-6">
 								<span class="characteristic-title">Working Hours</span><br/><br/>
@@ -175,7 +175,7 @@
 									</div>
 								</div>
 							</div>
-						</div>
+						</div>-->
 					</div>
 					<div class="form-container">
 						<p>
@@ -208,13 +208,13 @@
 							  <img src="../img/tour2.jpg" alt="Tour 2">
 							</div>
 							<div class="item">
-							  <img src="../img/tour3.jpg" alt="Tour 3">
+							  <img src="../img/career-main.png" alt="Tour 3">
 							</div>
 							<div class="item">
 							  <img src="../img/tour4.jpg" alt="Tour 4">
 							</div>
 							<div class="item">
-							  <img src="../img/tour5.jpg" alt="Tour 5">
+							  <img src="../img/slider2.jpg" alt="Tour 5">
 							</div>							
 						  </div>
 						  <!-- Left and right controls -->
@@ -649,7 +649,7 @@
 					<div class="got-project">
 						<span>Getting excited to work with us? </span><br/>
 						<div class="text-center">
-							<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black">
+							<a href="/career" class="btn btn-contact-us-black">
 								Join LOGIQUE
 							</a>
 						</div>

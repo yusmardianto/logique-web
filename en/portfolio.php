@@ -107,7 +107,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Portfolio</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">Take a look on our experience in website development and designing projects.</h1>
+							<h1 class="tagline">Our portfolio / works of WEB design, Website development, System Development and operation, Digital Marketing and IT consultation.</h1>
 						</div>
 					</div>
 				</div>

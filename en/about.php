@@ -107,7 +107,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">About Us</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">Your best partner for website development, internet marketing, application development, and designing.</h1>
+							<h1 class="tagline">Your best partner in Jakarta to deliver international quality of web design, digital marketing, system / application development, and IT consulting.</h1>
 						</div>
 					</div>
 				</div>
