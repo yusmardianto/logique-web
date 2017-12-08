@@ -206,6 +206,43 @@
 							<li>デジタルマップ開発.</li>
 							<li>AWSなどクラウドサーバーの設計構築、保守運用.</li>
 						</ul>
+						<br>
+						<span class="characteristic-title">その他</span>
+						<br/><br/>
+						<div class="row text-center">
+							<div class="col-sm-4">
+								<img src="../img/portfolio/video-mysunlife.jpg" class="img-responsive center-block">
+								2D ビデオ制作（SunLife)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="../img/portfolio/video-mysunlife2.jpg" class="img-responsive center-block">
+								2D ビデオ制作（SunLife)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="../img/portfolio/video-otomart.jpg" class="img-responsive center-block">
+								2D ビデオ制作 (OTOmart)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="../img/portfolio/video-otomart2.jpg" class="img-responsive center-block">
+								2D ビデオ制作 (OTOmart)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="../img/portfolio/mufg-mockup.png" class="img-responsive center-block">
+								会社案内制作<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="../img/portfolio/onitsuka-mockup.jpg" class="img-responsive center-block">
+								会社案内制作<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="../img/portfolio/maison-news.png" class="img-responsive center-block">
+								コンテンツ制作<br><br>
+							</div>
+							<div class="col-sm-4" style="font-size:12px;">
+								<img src="../img/portfolio/insta-vid.png" class="img-responsive center-block insta-vid">
+								インスタグラムビデオ投稿コンテスト<br><br>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>

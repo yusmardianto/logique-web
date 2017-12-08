@@ -230,13 +230,44 @@
 			<div class="jumptarget" id="to-candidates">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-offset-1 col-md-10">
+						<div class="col-md-12">
 							<br/>
 							<h2 class="subtitle">Pesan Untuk Kandidat</h2>
-							 <blockquote>
-								<p>Sangat penting bagi Anda untuk mengetahui di mana dan bagaimana Anda bekerja. Jika Anda bekerja keras, merasakan bahwa bekerja penting untuk kehidupan Anda, dan ingin berkontribusi kepada perusahaan, kami berjanji akan menyediakan lingkungan kerja yang baik untuk Anda. Di LOGIQUE, kami menyambut individu yang kreatif dan dinamis serta berusaha untuk pengembangan pribadi dan profesional. Sebagai gantinya, maka kami berkomitmen untuk menghasilkan yang terbaik dari diri Anda dengan menawarkan kesempatan untuk kemajuan dan pertumbuhan, dan memberikan karir yang mengubah hidup tidak seperti yang lain. Mari berkembang bersama LOGIQUE!</p>
-								<small>Ghitta, Human Resource Department</small>
-							 </blockquote>
+							<div id="myCarousel" class="carousel slide carousel-pesan-career">
+							  <ol class="carousel-indicators">
+								<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+								<li data-target="#myCarousel" data-slide-to="1"></li>
+								<li data-target="#myCarousel" data-slide-to="2"></li>
+							  </ol>
+							  <div class="carousel-inner">
+								<div class="item active">
+								 <blockquote>
+									<p>Thank you for looking at LOGIQUE career page. LOGIQUE is an exciting company full of great people who are professional, work hard and enjoy working in a friendly team environment. My goal is to seize the full potential that lies in these great people so that LOGIQUE can become a great company.I like peaple who are dilligent and striving. I do my best to give them the best opportunities to get a big success. If you decide to join us, we are a team that is building as the foundation of the company’s future success. Our journey will be both challenging and rewarding. Let's grow and get a big success together.</p>
+									<small>Yoshi, CEO / Founder</small>
+								 </blockquote>
+								</div>
+								<div class="item">
+								  <blockquote>
+									<p>Sangat penting bagi Anda untuk mengetahui di mana dan bagaimana Anda bekerja. Jika Anda bekerja keras, merasakan bahwa bekerja penting untuk kehidupan Anda, dan ingin berkontribusi kepada perusahaan, kami berjanji akan menyediakan lingkungan kerja yang baik untuk Anda. Di LOGIQUE, kami menyambut individu yang kreatif dan dinamis serta berusaha untuk pengembangan pribadi dan profesional. Sebagai gantinya, maka kami berkomitmen untuk menghasilkan yang terbaik dari diri Anda dengan menawarkan kesempatan untuk kemajuan dan pertumbuhan, dan memberikan karir yang mengubah hidup tidak seperti yang lain. Mari berkembang bersama LOGIQUE!</p>
+									<small>Ghitta, Human Resource Department</small>
+								 </blockquote>
+								</div>
+								<div class="item">
+								  <blockquote>
+									<p>Logique memberikan saya kesempatan untuk menjadi seorang ibu yang baik dan juga menjadi pekerja profesional. Saya sangat berterimakasih kepada Logique sebagai karyawan remote worker karena mereka memberikan saya kemudahan untuk bisa menjalankan dua tanggung jawab secara bersamaan sebagai ibu dan juga sebagai ibu yang bekerja.</p>
+									<small>Yolanda, Remote Work Web Developer</small>
+								 </blockquote>
+								</div>
+							  </div>
+							  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+								<span class="glyphicon glyphicon-chevron-left"></span>
+								<span class="sr-only">Previous</span>
+							  </a>
+							  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+								<span class="glyphicon glyphicon-chevron-right"></span>
+								<span class="sr-only">Next</span>
+							  </a>
+							</div>
 							<br/><!--<br/>
 							 <div class="subtitle">Lowongan Pekerjaan</div>
 							Sekarang kami sedang mencari kandidat untuk posisi di bawah ini. Bila Anda atau relasi Anda memiliki kecocokan dan kemampuan yang dibutuhkan, jangan ragu untuk menghubungi kami.
@@ -252,7 +283,7 @@
 		<section id="job-opening" class="jumptarget">
 			<!-- <div class="title text-left">We are Hiring!</div> -->
 			<div class="header-career">
-				<div><h2>Lowongan Kerja LOGIQUE</h2></div>
+				<div><h2>LOWANGAN KERJA WEB DEVELOPER / DESIGNER / KONSALTASI di LOGIQUE</h2></div>
 			</div>
 			<h3 class="jobs-subtitle">LOWONGAN FULL-TIME</h3>
 			<hr class="separator-career" style="margin-top: 0;border-style: solid;"></hr>
@@ -549,9 +580,11 @@
 				</div>
 				<div class="clearfix"></div>
 			</div>
-			<hr class="separator-career" style="margin-bottom: 0;border-style: solid;"></hr>
+			<hr class="separator-career" style="margin-bottom: 0;border-style: solid;"/>
 			<h3 class="jobs-subtitle">LOWONGAN INTERNSHIP</h3>
-			<hr class="separator-career" style="margin-top: 0;border-style: solid;"></hr>
+			<div class="div-explain-intern">
+				We welcome everyone who wants to work as internship. You can experience a lot of challenging, professional and precious opportunities. We are also looking for the contact from everyone in University Career center staffs.
+			</div>
 			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
