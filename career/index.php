@@ -254,7 +254,7 @@
 								</div>
 								<div class="item">
 								  <blockquote>
-									<p>Logique memberikan saya kesempatan untuk menjadi seorang ibu yang baik dan juga menjadi pekerja profesional. Saya sangat berterimakasih kepada Logique sebagai karyawan remote worker karena mereka memberikan saya kemudahan untuk bisa menjalankan dua tanggung jawab secara bersamaan sebagai ibu dan juga sebagai ibu yang bekerja.</p>
+									<p>Saya adalah salah satu karyawan Logique yang bekerja sebagai Web Developer Remote Worker. Saya adalah ibu dari satu orang anak. Sebelumnya saya sungguh tidak dapat membayangkan untuk mendapatkan pekerjaan yang dapat menyesuaikan tanggung jawab saya sebagai seorang ibu dan juga seorang Web Developer, tetapi di Logique saya bisa mendapatkan kesempatan ini. Saya sangat berterima kasih kepada Logique karena dapat memberikan saya kesempatan untuk tetap bekerja dan dapat juga memerhatikan perkembangan anak saya serta dapat menyalurkan ilmu yang saya miliki untuk Logique.</p>
 									<small>Yolanda, Remote Work Web Developer</small>
 								 </blockquote>
 								</div>
