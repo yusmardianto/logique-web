@@ -242,7 +242,7 @@
 							  <div class="carousel-inner">
 								<div class="item active">
 								 <blockquote>
-									<p>Thank you for looking at LOGIQUE career page. LOGIQUE is an exciting company full of great people who are professional, work hard and enjoy working in a friendly team environment. My goal is to seize the full potential that lies in these great people so that LOGIQUE can become a great company. I like people who are dilligent and striving. I do my best to give them the best opportunities to get a big success. If you decide to join us, we are a team that is building as the foundation of the company’s future success. Our journey will be both challenging and rewarding. Let's grow and get a big success together.</p>
+									<p>Thank you for looking at LOGIQUE career page. LOGIQUE is an exciting company full of great people who are professional, work hard and enjoy working in a friendly team environment. My goal is to seize the full potential that lies in these great people so that LOGIQUE can become a great company. I like people who are diligent and striving. I do my best to give them the best opportunities to get a big success. If you decide to join us, we are a team that is building as the foundation of the company’s future success. Our journey will be both challenging and rewarding. Let's grow and get a big success together.</p>
 									<small>Yoshi, CEO / Founder</small>
 								 </blockquote>
 								</div>
