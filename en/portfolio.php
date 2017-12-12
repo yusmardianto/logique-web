@@ -127,6 +127,111 @@
 								Contact us for LOGIQUE's portfolio
 							</a>
 						</div>
+						<br/><br/>
+						<div class="characteristic-title text-center" style="font-size:22px">WEB</div><br/><br/>
+						<div class="row text-center">
+							<div class="col-sm-4">
+								<img src="/img/portfolio/salon-de-res.png" class="img-responsive center-block">
+								Salon De Res<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/kumomiland.png" class="img-responsive center-block">
+								KUMOMI LAND INDONESIA<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/jaif.png" class="img-responsive center-block">
+								ASEAN FOUNDATION<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/otosiap.png" class="img-responsive center-block">
+								OTO Siap!<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/dmi.png" class="img-responsive center-block">
+								DMI<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/ikeuchi.png" class="img-responsive center-block">
+								Ikeuchi<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/moresco.png" class="img-responsive center-block">
+								MORESCO<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/trendpot.png" class="img-responsive center-block">
+								TRENDPOT<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/ajapan.png" class="img-responsive center-block">
+								aJapan Campaign Page<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/sfi.png" class="img-responsive center-block">
+								Sumitomo Forestry LP<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/jualbeliweb.png" class="img-responsive center-block">
+								JualBeliWEB<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/jjs.png" class="img-responsive center-block">
+								Jakarta Japanese School<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/oto-conc.png" class="img-responsive center-block">
+								OTOmart Concierge Page<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/zutto.png" class="img-responsive center-block">
+								ZuttoRide<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/mdr.png" class="img-responsive center-block">
+								Maison de Res<br><br>
+							</div>
+						</div>
+						<br>
+						<span class="characteristic-title">Others</span>
+						<br/><br/>
+						<div class="row text-center">
+							<div class="col-sm-4">
+								<img src="/img/portfolio/video-mysunlife.jpg" class="img-responsive center-block">
+								2D Video Production(SunLife)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/video-mysunlife2.jpg" class="img-responsive center-block">
+								2D Video Production(SunLife)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/video-otomart.jpg" class="img-responsive center-block">
+								2D Video Production (OTOmart)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/video-otomart2.jpg" class="img-responsive center-block">
+								2D Video Production (OTOmart)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/mufg-mockup.png" class="img-responsive center-block">
+								Printing<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/onitsuka-mockup.jpg" class="img-responsive center-block">
+								Printing<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/maison-news.png" class="img-responsive center-block">
+								Content Creation<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/insta-vid.png" class="img-responsive center-block insta-vid">
+								Instagram Video Submission Contest<br><br>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>

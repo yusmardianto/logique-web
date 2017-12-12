@@ -47,7 +47,7 @@
 				<div class="valign-center">
 					<h1>Lowongan Kerja Web Developer di Jakarta</h1>
 					<p class="content-first">
-						LOGIQUE membuka lowongan kerja dan kesempatan bergabung bagi kamu yang punya kompetensi di bidang IT, Web Developer, Designer, Mobile App Developer, Technical Consultant, atau Content Writer. Yuk cari tau bagaimana suasana bekerja di LOGIQUE dan lowongan yang tersedia.
+						LOGIQUE membuka lowongan kerja dan kesempatan bergabung bagi Anda yang memiliki kompetensi di bidang IT, Web Developer, PHP Programmer, Designer, Mobile App Developer, Technical Consultant, dan Content Writer baik di Jakarta ataupun lokasi lainnya. Untuk Anda yang berada di area Jakarta kami menyediakan sistem kerja full-time di kantor LOGIQUE yang berada di kawasan Jakarta Selatan. Sedangkan untuk Anda yang tinggal di kota lainnya khususnya web developer atau PHP programmer, kami juga menyediakan lowongan kerja dengan sistem remote. Ayo ambil bagian dan bekerja bersama tim terbaik LOGIQUE, baca lebih lanjut untuk mencari tau bagaimana suasana bekerja di LOGIQUE dan lowongan yang tersedia.
 					</p>
 					<br/>
 					<div class="div-black-career">
@@ -68,7 +68,7 @@
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>  
 			  </button>
-			  <a class="navbar-brand smooth" href="#maintop"><img src="../img/logo.png" alt="Logo"/></a>
+			  <a class="navbar-brand smooth" href="/"><img src="../img/logo.png" alt="Logo"/></a>
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			  <ul class="nav navbar-nav navbar-right">
@@ -94,7 +94,7 @@
 						<div class="valign-center">
 							<span class="title-benefit-col-1">Keuntungan bekerja di LOGIQUE :</span>
 							<p class="content-benefit-col-1">
-								LOGIQUE adalah perusahaan pengembang web yang didirikan dan dijalankan oleh pendiri yang berwarganegaraan Jepang di Indonesia. Oleh sebab itu LOGIQUE memiliki banyak kesempatan bekerja sama dengan klien internasional dan Anda dapat belajar bagaimana bekerja dengan standar internasional. Kebanyakan proyek dan klien kami juga memerlukan standar yang tinggi dalam hal kemampuan desain, programming, dan manajemen, tantangan ini <span>akan membuat Anda berkembang</span>
+								LOGIQUE adalah perusahaan jasa pembuatan web dan sistem web yang didirikan dan dijalankan oleh pendiri yang berkewarganegaraan Jepang di Indonesia. Sebagai perusahaan start-up, LOGIQUE berkembang bersama-sama dengan tim yang ada di dalamnya. Banyak sekali kesempatan peningkatan karir dan variasi pekerjaan yang dapat Anda peroleh sebagai web developer, web designer, php programmer, technical consultant, atau project manager. Selain itu Anda juga dapat bekerja dengan klien internasional dan Anda dapat belajar bagaimana bekerja dengan standar internasional. Kebanyakan proyek dan klien kami juga memerlukan standar yang tinggi, tantangan dalam setiap proyek serta lingkungan kerja yang nyaman dan efektif akan <span>mengasah dan meningkatkan kemampuan Anda ke level berikutnya.</span>
 							</p>
 						</div>
 					</div>
@@ -238,6 +238,8 @@
 								<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 								<li data-target="#myCarousel" data-slide-to="1"></li>
 								<li data-target="#myCarousel" data-slide-to="2"></li>
+								<li data-target="#myCarousel" data-slide-to="3"></li>
+								<li data-target="#myCarousel" data-slide-to="4"></li>
 							  </ol>
 							  <div class="carousel-inner">
 								<div class="item active">
@@ -256,6 +258,18 @@
 								  <blockquote>
 									<p>Saya adalah salah satu karyawan Logique yang bekerja sebagai Web Developer Remote Worker. Saya adalah ibu dari satu orang anak. Sebelumnya saya sungguh tidak dapat membayangkan untuk mendapatkan pekerjaan yang dapat menyesuaikan tanggung jawab saya sebagai seorang ibu dan juga seorang Web Developer, tetapi di Logique saya bisa mendapatkan kesempatan ini. Saya sangat berterima kasih kepada Logique karena dapat memberikan saya kesempatan untuk tetap bekerja dan dapat juga memerhatikan perkembangan anak saya serta dapat menyalurkan ilmu yang saya miliki untuk Logique.</p>
 									<small>Yolanda, Remote Work Web Developer</small>
+								 </blockquote>
+								</div>
+								<div class="item">
+								  <blockquote>
+									<p>Pertama kali saya bergabung ke Logique sebagai junior technical consultant dengan pengalaman 1 tahun di perusahaan sebelumnya. Dari situ saya mencoba berkontribusi ke perusahaan dengan kemampuan terbaik yang saya miliki. Saya benar-benar merasakan Logique memberikan balasan yang sebanding untuk karir saya. Sekarang saya telah mendapatkan promosi beberapa kali dengan peningkatan gaji yang tinggi. Terima kasih Logique.</p>
+									<small>Joe, Technical Consultant</small>
+								 </blockquote>
+								</div>
+								<div class="item">
+								  <blockquote>
+									<p>Saya belum lama masuk ke dunia kerja. Waktu bergabung ke Logique saya kaget karena banyak sekali hal-hal yang saya belum ketahui. Namun saya berusaha mengikuti dan memberikan hasil yang terbaik untuk proyek yang saya kerjakan. Saya betul-betul merasakan banyak sekali pengetahuan yang saya dapatkan dengan bekerja di Logique.</p>
+									<small>Yogi, Quality Assurance</small>
 								 </blockquote>
 								</div>
 							  </div>
