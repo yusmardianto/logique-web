@@ -240,12 +240,19 @@
 								<li data-target="#myCarousel" data-slide-to="2"></li>
 								<li data-target="#myCarousel" data-slide-to="3"></li>
 								<li data-target="#myCarousel" data-slide-to="4"></li>
+								<li data-target="#myCarousel" data-slide-to="5"></li>
 							  </ol>
 							  <div class="carousel-inner">
 								<div class="item active">
 								 <blockquote>
 									<p>Thank you for looking at LOGIQUE career page. LOGIQUE is an exciting company full of great people who are professional, work hard and enjoy working in a friendly team environment. My goal is to seize the full potential that lies in these great people so that LOGIQUE can become a great company. I like people who are diligent and striving. I do my best to give them the best opportunities to get a big success. If you decide to join us, we are a team that is building as the foundation of the company’s future success. Our journey will be both challenging and rewarding. Let's grow and get a big success together.</p>
 									<small>Yoshi, CEO / Founder</small>
+								 </blockquote>
+								</div>
+								<div class="item">
+								  <blockquote>
+									<p>Berkarir pada bidang yang sesuai dengan <i>passion</i> dan berada pada perusahaan yang tepat tentu saja menjadi impian bagi setiap professional muda, khususnya para <i>Engineer</i> di bidang Teknologi Informasi. Potensi SDM yang baik tentu saja harus didukung dengan tata kelola organisasi yang baik dan terstruktur. Kami telah mendesain strategi yang terukur untuk memastikan roda bisnis perusahaan berjalan sesuai dengan <i>roadmap</i>, dan di sisi lain kami juga memberi dukungan penuh kepada setiap anggota tim kami, baik dalam hal dalam perkembangan karir, professionalisme, maupun kemampuan secara teknikal. Kami menyukai kandidat yang <i>energic</i>, dinamis, cerdas, berkarakter kuat, serta berkepribadian baik. Mari bergabung dengan kami untuk masa depan yang lebih baik.</p>
+									<small>A. Wijaya, App & SysDev Division Head</small>
 								 </blockquote>
 								</div>
 								<div class="item">
@@ -297,7 +304,7 @@
 		<section id="job-opening" class="jumptarget">
 			<!-- <div class="title text-left">We are Hiring!</div> -->
 			<div class="header-career">
-				<div><h2>LOWANGAN KERJA WEB DEVELOPER / DESIGNER / KONSALTASI di LOGIQUE</h2></div>
+				<div><h2>Lowongan Kerja Web Developer / PHP Programmer / Designer / Konsultan Digital di Logique</h2></div>
 			</div>
 			<h3 class="jobs-subtitle">LOWONGAN FULL-TIME</h3>
 			<hr class="separator-career" style="margin-top: 0;border-style: solid;"></hr>
@@ -313,6 +320,7 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
+						Quality Assurance berperan untuk memastikan semua hasil pekerjaan dan kualitas pembuatan website atau sistem web sudah memenuhi semua aspek yang sudah ditetapkan dengan membuat dokumentasi dan melakukan pengecekan secara komprehensif.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Kandidat minimal Diploma, Bachelor's Degree, Ilmu Komputer / Teknologi Informasi, Teknik (Komputer / Telekomunikasi), Sains & Teknologi, atau yang setara (jurusan yang berbeda dipersilahkan tapi harus mengirimkan portofolionya).</li>
@@ -347,6 +355,7 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
+					Web Developer adalah penggerak utama dalam pembuatan website atau sistem web yang mampu mengimplementasikan kebutuhan bisnis ke dalam sistem dengan bahasa programming. Seorang web developer yang baik selalu meningkatkan pengetahuan yang mereka miliki dengan teknologi-teknologi terbaru.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Berlatar belakang pendidikan dari Sistem Informasi, Teknologi Informasi atau sejenisnya.</li>
@@ -384,6 +393,7 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
+						Technical Consultant merupakan partner terbaik Anda dalam menganalisa dan merekomendasikan solusi sistem web dan website terbaik untuk memecahkan masalah yang ada dalam proses bisnis. Seorang technical consultant memiliki pengetahuan yang luas baik dari sisi bisnis maupun teknikal.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Memiliki pengalaman sebagai IT Consultant.</li>
@@ -426,6 +436,7 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
+						Mobile Developer berperan dalam membuat dan mengembangkan platform mobile seperti Android dan iOS baik dengan metode native atau hybrid.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Mempunyai pengalaman kerja sebagai pengembang Mobile (iOS & Android).</li>
@@ -468,6 +479,7 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
+						Content Writer membantu menciptakan konten yang sesuai dengan perusahaan, produk, atau jasa yang ditampilkan pada website sehingga memudahkan pembaca memperoleh informasi yang sesuai.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Memiliki pengalaman kerja sebagai Content Writer, Copywriter atau peran serupa.</li>							
@@ -507,6 +519,7 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
+						Project Manager memiliki andil yang penting dalam manajemen dan pengawasan proyek agar keberlangsungan pengembangan sistem web atau website yang dilakukan dapat sesuai dengan target, baik dari sisi ruang lingkup ataupun waktu penyelesaian.<br/><br/>
 						<b>Deskripsi Pekerjaan:</b>
 						<ul class="joinus-ul">
 							<li>Manajemen daftar jadwal pekerjaan serta berkomunikasi dengan tim development dan klien.</li>
@@ -542,6 +555,7 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
+						Designer adalah elemen kreatif perusahaan yang mampu menghasilkan ide dan unsur-unsur visual dengan menciptakan dan mengintegrasikan berbagai komponen seperti warna, bentuk, foto, dan video. Mereka dapat memastikan tampilan website dan sistem web terlihat baik dan mudah digunakan.<br/><br/>
 						<b>Deskripsi Pekerjaan:</b>
 						<ul class="joinus-ul">
 							<li>Mendesain tampilan / UI untuk website dan aplikasi mobile.</li>
@@ -569,6 +583,7 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
+						IT Sales Executive merupakan ujung tombak dalam menjalankan pemasaran layanan atau produk perusahaan. Mereka memiliki keahlian komunikasi dan presentasi yang baik serta dapat membina hubungan baik dengan prospek atau pelanggan.<br/><br/>
 						<b>Tanggung Jawab:</b>
 						<ul class="joinus-ul">
 							<li>Mengembangkan bisnis baru melalui networking</li>
@@ -597,7 +612,7 @@
 			<hr class="separator-career" style="margin-bottom: 0;border-style: solid;"/>
 			<h3 class="jobs-subtitle">LOWONGAN INTERNSHIP</h3>
 			<div class="div-explain-intern">
-				We welcome everyone who wants to work as internship. You can experience a lot of challenging, professional and precious opportunities. We are also looking for the contact from everyone in University Career center staffs.
+				LOGIQUE membuka lowongan magang bagi mahasiswa yang ingin mengaplikasikan ilmu yang dipelajari terutama pada saat masa kerja magang yang disediakan oleh universitas. Anda dapat memperoleh banyak sekali pengalaman dalam berbagai macam tantangan proyek, profesionalitas, dan kesempatan berharga yang kami berikan. Untuk universitas, kami juga membuka peluang kerjasama terkait magang ataupun lowongan untuk alumni, silakan menghubungi kami.
 			</div>
 			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
@@ -611,10 +626,10 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
+						Web Developer adalah penggerak utama dalam pembuatan website atau sistem web yang mampu mengimplementasikan kebutuhan bisnis ke dalam sistem dengan bahasa programming. Seorang web developer yang baik selalu meningkatkan pengetahuan yang mereka miliki dengan teknologi-teknologi terbaru.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Kandidat harus memiliki setidaknya gelar Bachelor di bidang Ilmu Komputer / Teknologi Informasi atau yang setara.</li>
-							<li>Min IPK > 3,00.</li>
 							<li>Mempunyai pengetahuan tentang proses Web Development (PHP, MySQL, HTML/CSS, Javascript).</li>
 							<li>Mempunyai pengetahuan tentang framework PHP (CakePHP, Laravel, dll).</li>
 							<li>Bisa belajar dengan cepat.</li>
@@ -639,11 +654,11 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
+						Content Writer membantu menciptakan konten yang sesuai dengan perusahaan, produk, atau jasa yang ditampilkan pada website sehingga memudahkan pembaca memperoleh informasi yang sesuai.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Kemampuan berbahasa yang baik.</li>
 							<li>Familiar dengan penulisan konten secara online.</li>
-							<li>Min IPK > 3,00.</li>
 							<li>Kandidat harus memiliki gelar diploma atau sarjana di bidang English Literature atau Public Relations.</li>
 							<li>Memiliki kemampuan tata bahasa dan kosa kata Bahasa Indonesia dan Bahasa Inggris yang baik.</li>
 							<li>Memiliki kemampuan yang baik dalam komunikasi lisan dan tulisan.</li>
@@ -667,10 +682,10 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
+						Designer adalah elemen kreatif perusahaan yang mampu menghasilkan ide dan unsur-unsur visual dengan menciptakan dan mengintegrasikan berbagai komponen seperti warna, bentuk, foto, dan video. Mereka dapat memastikan tampilan website dan sistem web terlihat baik dan mudah digunakan.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Kandidat harus memiliki setidaknya gelar diploma atau sarjana di bidang DKV atau Teknologi Informasi.</li>
-							<li>Min IPK > 3,00.</li>
 							<li>Memiliki selera yang baik dan passion untuk tampilan desain</li>
 							<li>Detail oriented</li>
 							<li>Familiar dengan desain yang responsif dan interaktif</li>
@@ -698,10 +713,10 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
+						Web Developer adalah penggerak utama dalam pembuatan website atau sistem web yang mampu mengimplementasikan kebutuhan bisnis ke dalam sistem dengan bahasa programming. Seorang web developer yang baik selalu meningkatkan pengetahuan yang mereka miliki dengan teknologi-teknologi terbaru.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Kandidat harus memiliki setidaknya gelar diploma atau sarjana di bidang Teknologi Informasi.</li>
-							<li>Min IPK > 3,00.</li>
 							<li>Mempunyai pengetahuan tentang proses Web Development (PHP, MySQL, HTML/CSS, Javascript).</li>
 							<li>Mempunyai pengetahuan tentang Jquery, Bootstrap, SVG, dll.</li>
 							<li>Bisa belajar dengan cepat.</li>
