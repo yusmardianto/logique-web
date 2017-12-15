@@ -193,18 +193,18 @@
 								Maison de Res<br><br>
 							</div>
 						</div>
-						<br>
+						<br/>
 						<span class="characteristic-title">システム構築実績</span>
 						<br/><br/>
 						<ul class="circle-list">
-							<li>IT会社向け採用管理システム開発運用.</li>
-							<li>金融機関向け人事・採用管理WEBシステム開発運用.</li>
-							<li>政府系団体向けCMS構築運用.</li>
-							<li>マルチレベルマーケティング事業者向けECサイト構築.</li>
-							<li>バイクメーカー向けCRMシステム構築運用.</li>
-							<li>オークションシステム開発・会計基幹システム開発運用.</li>
-							<li>デジタルマップ開発.</li>
-							<li>AWSなどクラウドサーバーの設計構築、保守運用.</li>
+							<li>IT会社向け採用管理システム開発運用</li>
+							<li>金融機関向け人事・採用管理WEBシステム開発運用</li>
+							<li>政府系団体向けCMS構築運用</li>
+							<li>マルチレベルマーケティング事業者向けECサイト構築</li>
+							<li>バイクメーカー向けCRMシステム構築運用</li>
+							<li>オークションシステム開発・会計基幹システム開発運用</li>
+							<li>デジタルマップ開発</li>
+							<li>AWSなどクラウドサーバーの設計構築、保守運用</li>
 						</ul>
 						<br>
 						<span class="characteristic-title">その他</span>

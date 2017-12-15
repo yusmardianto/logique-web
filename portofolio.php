@@ -194,7 +194,20 @@
 								Maison de Res<br><br>
 							</div>
 						</div>
-						<br>
+						<br/>
+						<span class="characteristic-title">Pengalaman kami dalam pengembangan sistem web</span>
+						<br/><br/>
+						<ul class="circle-list">
+							<li>Pengembangan dan pengoperasian sistem manajemen rekrutmen untuk perusahaan IT.</li>
+							<li>Pengembangan dan pengelolaan sistem web untuk HR / manajemen rekrutmen perusahaan finansial.</li>
+							<li>Pengembangan dan pengelolaan CMS untuk institusi pemerintah.</li>
+							<li>Pembuatan sistem E-Commerce untuk perusahaan MLM.</li>
+							<li>Pengembangan dan pengelolaan sistem CRM untuk perusahaan sepeda motor.</li>
+							<li>Pembuatan dan pengoperasian sistem lelang berbasis web yang terintegrasi dengan sistem akuntansi.</li>
+							<li>Pengembangan peta digital.</li>
+							<li>Perencanaan desain arsitektur dan pengoperasian server cloud seperti AWS.</li>
+						</ul>
+						<br/>
 						<span class="characteristic-title">Lainnya</span>
 						<br/><br/>
 						<div class="row text-center">

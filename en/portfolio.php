@@ -195,7 +195,20 @@
 								Maison de Res<br><br>
 							</div>
 						</div>
-						<br>
+						<br/>
+						<span class="characteristic-title">Our system development experiences</span>
+						<br/><br/>
+						<ul class="circle-list">
+							<li>Recruit management system development & operation for IT company.</li>
+							<li>HR / Recruitment management web system development & maintenance for Financial company.</li>
+							<li>CMS development & maintenance for government organization.</li>
+							<li>E-commerce website development for multi-level marketer company.</li>
+							<li>CRM system development & maintenance for motorbike maker.</li>
+							<li>Auction system & accounting system development & operation.</li>
+							<li>Digital map development.</li>
+							<li>Architecture design and operation for cloud server such as AWS.</li>
+						</ul>
+						<br/>
 						<span class="characteristic-title">Others</span>
 						<br/><br/>
 						<div class="row text-center">
