@@ -713,7 +713,7 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
-						Web Developer adalah penggerak utama dalam pembuatan website atau sistem web yang mampu mengimplementasikan kebutuhan bisnis ke dalam sistem dengan bahasa programming. Seorang web developer yang baik selalu meningkatkan pengetahuan yang mereka miliki dengan teknologi-teknologi terbaru.<br/><br/>
+						Front End Developer berperan sebagai penghubung antara Desainer dan Web Developer. Mereka memiliki keahlian untuk mengubah desain ke dalam kode sehingga bisa diakses oleh pengguna.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Kandidat harus memiliki setidaknya gelar diploma atau sarjana di bidang Teknologi Informasi.</li>
