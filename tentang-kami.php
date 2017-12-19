@@ -117,22 +117,22 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<!--<img src="img/about-us-main-visual.png" class="img-in-about"/>-->
-					<div id="profile" class="carousel slide" data-ride="carousel">
+					<div id="profile" class="carousel slide" data-ride="carousel"  data-interval="3000">
 					  <div class="carousel-inner">
 						<div class="item active">
-						  <img style="object-position:0 0" src="img/slider1.jpg" alt="Web Developer LOGIQUE 1">
+							<img src="img/slider5.jpg" alt="Web Developer LOGIQUE 5">
 						</div>
 						<div class="item">
-						  <img src="img/slider3.jpg" alt="Web Developer LOGIQUE 2">
+							<img src="img/slider4.jpg" alt="Web Developer LOGIQUE 4">
 						</div>
 						<div class="item">
-						  <img src="img/slider2.jpg" alt="Web Developer LOGIQUE 3">
+							<img style="object-position:0 0" src="img/slider1.jpg" alt="Web Developer LOGIQUE 1">
 						</div>
 						<div class="item">
-						  <img src="img/slider4.jpg" alt="Web Developer LOGIQUE 4">
+						    <img src="img/slider3.jpg" alt="Web Developer LOGIQUE 2">
 						</div>
 						<div class="item">
-						  <img src="img/slider5.jpg" alt="Web Developer LOGIQUE 5">
+							<img src="img/slider2.jpg" alt="Web Developer LOGIQUE 3">
 						</div>
 					  </div>
 					  <!-- Left and right controls -->

@@ -106,7 +106,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Layanan</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">Jasa pembuatan website, desain web, digital marketing dan SEO.</h1>
+							<h1 class="tagline">Jasa pembuatan sistem web, website, dan SEO berpengalaman.</h1>
 						</div>
 					</div>
 				</div>
@@ -118,12 +118,12 @@
 				<div id="contents">
 					<div class="title"><b>Layanan</b><span class="yellow">Kami</span></div>
 					<div class="form-container">
-						LOGIQUE menyediakan bermacam-macam jasa terkait website seperti jasa pembuatan website / sistem web, aplikasi mobile, digital marketing, jasa SEO, dan lain-lain. Kami mampu menyediakan solusi berkualitas yang sesuai kebutuhan bisnis Anda dengan harga yang terjangkau.
+						LOGIQUE menyediakan layanan pembuatan sistem web berkualitas dengan standar internasional untuk aneka kebutuhan seperti E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS. Dengan pengalaman dan tim yang mahir di bidangnya, kami mampu menyediakan solusi sistem web dan website yang bermanfaat untuk bisnis digital Anda. LOGIQUE juga menyediakan bermacam-macam jasa terkait website seperti jasa pembuatan website / sistem web, aplikasi mobile, digital marketing, jasa SEO, dan lain-lain. Kami mampu menyediakan solusi berkualitas yang sesuai kebutuhan bisnis Anda dengan harga yang terjangkau.
 					</div>
 					<img class="img-responsive" src="img/layanan-img.jpg" alt="layanan pembuatan website"/>
 					<div class="feel-free row-center-sm">
 						<div class="col-sm-8">
-							Hubungi kami untuk informasi lebih lanjut.
+							Pembuatan sistem web dan website berkualitas dengan standar Internasional.
 						</div>
 						<div class="col-sm-4">
 							<a href="hubungi-kami.php" class="btn btn-contact-service">Hubungi LOGIQUE</a>
@@ -196,12 +196,16 @@
 										LOGIQUE melayani pembuatan sistem manajemen pelanggan (CRM) atau sistem manajemen keanggotaan berskala besar. Kami memiliki standar keamanan yang komprehensif dengan pengalaman kami menyediakan sistem manajemen keanggotaan untuk bank.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Toko Online / E-Commerce </b><br/>
+										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Sistem Toko Online / E-Commerce</b><br/>
 										Kami mampu membuat dan mengembangkan toko online atau E-Commerce dengan tingkat kesulitan atau kompleksitas yang tinggi seperti marketplace B2B2C, termasuk perhitungan pembayaran dan pengiriman sesuai dengan peraturan atau layanan yang tersedia di Indonesia. Selain itu, kami juga punya banyak pengalaman mengintegrasikan berbagai macam gerbang pembayaran (payment gateway).
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Manajemen Kampanye / Kontes</b><br/>
 										Selain mengembangkan halaman web untuk keperluan kampanye atau kontes, kami juga sering mengembangkan sistem manajemen untuk keperluan tersebut. Sistem tersebut biasanya terintegrasi dengan berbagai fungsi seperti pengelolaan kontestan atau tugas perlombaan dan pemilihan atau informasi pemenang.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Sistem Rekrutmen</b><br/>
+										Kami menyediakan pengembangan sistem rekrutmen berbasis web yang lengkap mulai dari penerimaan CV, manajemen aplikasi, tes kemampuan dan psikotes online, pengaturan jadwal interview, sampai kandidat masuk ke perusahaan bergantung dari kebutuhan tim HR perusahaan Anda. Kami percaya dengan sistem rekrutmen ini perekrutan karyawan menjadi semakin mudah dan efisien.
 									</li>
 								</ol>
 							  </div>
@@ -520,7 +524,7 @@
 							<ul class="fa-ul">
 								<li><i class="fa-li fa fa-check"></i> Membuat sebuah website</li>
 								<li><i class="fa-li fa fa-check"></i> Memperbaharui atau mengupdate website</li>
-								<li><i class="fa-li fa fa-check"></i> Melakukan pengembangan sistem web</li>
+								<li><i class="fa-li fa fa-check"></i> Pengembangan sistem web seperti E-Commerce, CRM, Sistem Lelang Online, CMS, dll</li>
 								<li><i class="fa-li fa fa-check"></i> Membuat desain halaman kampanye atau landing page website </li>
 								<li><i class="fa-li fa fa-check"></i> Melakukan outsourcing untuk operasional website</li>
 								<li><i class="fa-li fa fa-check"></i> Meningkatkan jumlah akses ke website Anda dengan SEO</li>

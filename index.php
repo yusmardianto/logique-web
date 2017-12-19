@@ -37,7 +37,7 @@
     
     </head>
 	<body>
-		<div class="wrapper o-wrapper">
+		<div class="wrapper o-wrapper top-only">
 		
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
@@ -99,7 +99,7 @@
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
-						<div class="lang-logo">
+						<div class="lang-logo" style="position:relative">
 							<ul class="list-inline">
 								<li><a href="en/index.php">EN</a></li>
 								<li class="active"><a href="#">ID</a></li>
@@ -117,7 +117,7 @@
 								<p class="title-index">
 									Jasa Pembuatan <span class="yellow">Website</span> dan <span class="yellow">Web Sistem</span> Berkualitas di Jakarta
 								</p>
-								LOGIQUE siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Dengan pengalaman dari proyek - proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
+								LOGIQUE memiliki pengalaman dan kualitas yang Anda perlukan dalam pengembangan sistem web untuk kebutuhan bisnis digital saat ini. Kami telah bekerjasama dengan banyak klien internasional untuk berbagai kebutuhan seperti E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS serta terbiasa membuat sistem web tersebut dengan standar internasional.  LOGIQUE juga  siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Pengalaman yang telah kami jalankan selama lebih dari 5 tahun serta kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
 								<div class="row">
 									<div class="col-md-3 col-sm-6">
 										<div class="div-service-cat">
@@ -136,7 +136,7 @@
 									<div class="col-md-3 col-sm-6">
 										<div class="div-service-cat">
 											<img src="img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
-											<div>Jasa <br/><span>Promosi Online</span></div>
+											<div>Jasa Pembuatan<br/><span>Sistem Web</span></div>
 											<a href="layanan.php" class="btn">Baca Selengkapnya</a>
 										</div>
 									</div>
@@ -161,14 +161,14 @@
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
-			<div id="bgImg">
+			<div id="bgImg" style="height: auto;">
 				<div class="img">
 					<div class="title-container hidden-xs">
-						<div class="valign-center text-center">
+						<div class="text-center">
 							<h1 class="title-index">
 								Jasa Pembuatan <span class="yellow">Website</span> dan <span class="yellow">Web Sistem</span> <br>Berkualitas di Jakarta
 							</h1>
-							LOGIQUE siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Dengan pengalaman dari proyek - proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
+							LOGIQUE memiliki pengalaman dan kualitas yang Anda perlukan dalam pengembangan sistem web untuk kebutuhan bisnis digital saat ini. Kami telah bekerjasama dengan banyak klien internasional untuk berbagai kebutuhan seperti E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS serta terbiasa membuat sistem web tersebut dengan standar internasional.  LOGIQUE juga  siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Pengalaman yang telah kami jalankan selama lebih dari 5 tahun serta kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
 							<!--<center>
 								<a href="services.php" class="btn btn-see-more">Lihat Layanan LOGIQUE <i class="fa fa-arrow-circle-o-right" ></i></a>
 							</center>-->
@@ -192,7 +192,7 @@
 										<div class="col-md-3 col-sm-6">
 											<div class="div-service-cat">
 												<img src="img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
-												<h2>Jasa <br/><span>Promosi Online</span></h2>
+												<h2>Jasa Pembuatan<br/><span>Sistem Web</span></h2>
 												<a href="layanan.php" class="btn">Baca Selengkapnya</a>
 											</div>
 										</div>
@@ -212,11 +212,8 @@
 			</div>
 			
 			<br/>
-		  
+			<?php include 'footer.php';?>
 		</div>
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/slick.min.js"></script>		
 		<script type="application/ld+json">
 			{
 			  "@context": "http://schema.org",

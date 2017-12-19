@@ -144,10 +144,7 @@
 			
 			<br/>
 		  <?php include 'footer.php';?>
-		</div>	
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="../js/bootstrap.min.js"></script>
-		<script src="../js/slick.min.js"></script>		
+		</div>
 		<script type="application/ld+json">
 			{
 			  "@context": "http://schema.org",

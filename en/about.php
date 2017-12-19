@@ -118,34 +118,34 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<!--<img src="../img/about-us-main-visual.png" class="img-in-about"/>-->
-					<div id="profile" class="carousel slide" data-ride="carousel">
-						  <div class="carousel-inner">
-							<div class="item active">
-							  <img style="object-position:0 0" src="../img/slider1.jpg" alt="Web Developer LOGIQUE 1">
-							</div>
-							<div class="item">
-							  <img src="../img/slider3.jpg" alt="Web Developer LOGIQUE 2">
-							</div>
-							<div class="item">
-							  <img src="../img/slider2.jpg" alt="Web Developer LOGIQUE 3">
-							</div>
-							<div class="item">
-							  <img src="../img/slider4.jpg" alt="Web Developer LOGIQUE 4">
-							</div>
-							<div class="item">
-							  <img src="../img/slider5.jpg" alt="Web Developer LOGIQUE 5">
-							</div>
-						  </div>
-						  <!-- Left and right controls -->
-						  <a class="left carousel-control" href="#profile" data-slide="prev">
-							<span class="glyphicon glyphicon-chevron-left"></span>
-							<span class="sr-only">Previous</span>
-						  </a>
-						  <a class="right carousel-control" href="#profile" data-slide="next">
-							<span class="glyphicon glyphicon-chevron-right"></span>
-							<span class="sr-only">Next</span>
-						  </a>
+					<div id="profile" class="carousel slide" data-ride="carousel"  data-interval="3000">
+					  <div class="carousel-inner">
+						<div class="item active">
+							<img src="/img/slider5.jpg" alt="Web Developer LOGIQUE 5">
 						</div>
+						<div class="item">
+							<img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
+						</div>
+						<div class="item">
+							<img style="object-position:0 0" src="/img/slider1.jpg" alt="Web Developer LOGIQUE 1">
+						</div>
+						<div class="item">
+						    <img src="/img/slider3.jpg" alt="Web Developer LOGIQUE 2">
+						</div>
+						<div class="item">
+							<img src="/img/slider2.jpg" alt="Web Developer LOGIQUE 3">
+						</div>
+					  </div>
+					  <!-- Left and right controls -->
+					  <a class="left carousel-control" href="#profile" data-slide="prev">
+						<span class="glyphicon glyphicon-chevron-left"></span>
+						<span class="sr-only">Previous</span>
+					  </a>
+					  <a class="right carousel-control" href="#profile" data-slide="next">
+						<span class="glyphicon glyphicon-chevron-right"></span>
+						<span class="sr-only">Next</span>
+					  </a>
+					</div>
 					<div class="title"><b>About</b><span class="yellow">Us</span></div>
 					<div class="form-container">
 						Logique is a web developer that providing various services of web and internet such as digital marketing, website creating, and web system development. Our scopes of website creating are not only in the domestic area (Jakarta, Indonesia) but also abroad, like Japan. We are provide the other services like web design, SEO service, social media operating, and mobile application development. Also, we are providing design & printing services like company profile creating, catalogs, leaflets, etc. 
