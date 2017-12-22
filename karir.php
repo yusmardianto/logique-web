@@ -188,6 +188,7 @@
 							<li><a href="career/#to-candidates" target="_blank">Pesan untuk Kandidat</a></li>|
 							<li><a href="career/#job-opening" target="_blank">Lowongan Kerja</a></li>
 						</ul>
+						<br/>
 					</div>
 					<!--<div class="form-container">
 						<p>
