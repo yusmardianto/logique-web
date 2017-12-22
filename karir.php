@@ -119,8 +119,62 @@
 					<div class="title"><b>Join</b><span class="yellow">Us</span></div>
 					<img src="img/career-main.png" class="img-in-joinus" alt="lowongan web developer"/>
 					<div class="form-container">
-					<br/>
-						LOGIQUE terbuka untuk kalian yang punya minat tinggi dan kemampuan di bidang WEB, mari bekerja bersama di lingkungan kerja yang nyaman dan efektif.<br/>
+						<br/><span class="paragraph-karir-title">Bergabung dengan Logique</span><br/>
+						<p class="paragraph-karir">
+							Kami membuka peluang bagi web developer, php programmer, web designer, technical consultant, dan content writer yang berada di area Jakarta ataupun kota lainnya (dengan sistem kerja remote) untuk mengambil bagian dalam perkembangan Logique dan bekerja bersama tim terbaik kami. Variasi tantangan dalam setiap proyek serta lingkungan kerja yang nyaman dan efektif akan mengasah dan meningkatkan kemampuan Anda ke level berikutnya. Selain itu, Anda juga memiliki peluang peningkatan karir yang besar dengan menunjukkan kemampuan Anda, menjadi yang terbaik diantara yang terbaik.
+						</p>
+					</div>
+					<div class="karir-new-img">
+						<div class="title">Orang-orang terbaik yang kami cari memiliki:</div>
+						<br/>
+						<div class="row">
+							<div class="col-sm-3">
+								<img src="img/syarat1.png" class="img-responsive center-block"/>
+								<div class="text-center exp-img"><b>Memiliki Minat Tinggi di Bidang Web</b></div>
+							</div>
+							<div class="col-sm-3">
+								<img src="img/syarat2.png" class="img-responsive center-block"/>
+								<div class="text-center exp-img"><b>Kemampuan Terbaik di Bidangnya</b></div>
+							</div>
+							<div class="col-sm-3">
+								<img src="img/syarat3.png" class="img-responsive center-block"/>
+								<div class="text-center exp-img"><b>Profesional dan Disiplin</b></div>
+							</div>
+							<div class="col-sm-3">
+								<img src="img/syarat4.png" class="img-responsive center-block"/>
+								<div class="text-center exp-img"><b>Kreatif dan Berinisiatif</b></div>
+							</div>
+						</div>
+					</div>
+					<div class="form-container">
+						<br/>
+						<div class="title-alur">Jika Anda orangnya, silakan mengikuti panduan alur perekrutan Logique di bawah ini</div>
+						<br/>
+						<div class="row">
+							<div class="div-alur">
+								<div class="bar-step bar-yellow">
+									<div class="exp-step"><span>1.</span> Masuk ke Halaman Karir Logique</div>
+									<img src="img/alur1.png" class="img-responsive pull-left"/>
+								</div>
+								<div class="bar-step bar-black">
+									<div class="exp-step"><span>2.</span> Kirim CV Sesuai Lowongan</div>
+									<img src="img/alur2.png" class="img-responsive pull-left"/>
+								</div>
+								<div class="bar-step bar-yellow">
+									<div class="exp-step"><span>3.</span> Tim HR Logique akan Menghubungi Anda</div>
+									<img src="img/alur3.png" class="img-responsive pull-left"/>
+								</div>
+								<div class="bar-step bar-black">
+									<div class="exp-step"><span>4.</span> Ikuti Tes dan Interview</div>
+									<img src="img/alur4.png" class="img-responsive pull-left"/>
+								</div>
+								<div class="bar-step bar-yellow">
+									<div class="exp-step"><span>5.</span> Logique akan menghubungi kandidat yang berhasil</div>
+									<img src="img/alur5.png" class="img-responsive pull-left"/>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
 						<div class="text-center">
 							<a href="career/" target="_blank" class="btn btn-contact-us-black">
 								Gabung Dengan Kami
