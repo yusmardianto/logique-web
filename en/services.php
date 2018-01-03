@@ -147,11 +147,11 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Corporate Website creation</b><br/>
-										We develop a website that effectively tells visitors the value of your company brand, We also can provide you domain / web server / SSL agent service, and contents creation service depending on your needs.
+										We develop a website that effectively tells visitors the value of your company brand, We also can provide you domain / web server / SSL agent service, and contents creation service depending on your needs. Our website solutions are creative, functional and highly engaging. We bring clarity and simplicity to this complex discipline and keep at the forefront of the key technologies and trends that direct the online world.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Multi-language Website creation</b><br/>
-										We have much developing experiences in multi-language website with English, Indonesian, and Japanese language. Other than the creation of website itself, also feel free to contact us for also translation / correction.
+										A high-quality multilingual website allows you to effectively target customers across the globe. LOGIQUE delivers cost-effective multilingual website solutions that enable you to connect and engage with customers in local markets. We have much developing experiences in multilingual website with English, Indonesian, and Japanese language. Other than the creation of website itself, also feel free to contact us for also translation / correction as well.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Service Website Development</b><br/>
@@ -167,7 +167,7 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>LP / Campaign Website creation</b><br/>
-										Feel free to contact us about Landing page / Campaign page. We develop your website even if you want only 1 page. We also can create advertisement banners.
+										If you’re looking to revamp an existing Landing Page design or have a Landing Page Design to HTML/Website conversion need, LOGIQUE is the best choice to develop an SEO and user-friendly website. LOGIQUE team has experience of working with multiple business industries landing pages. Our Landing Page Designers are great in customizing an existing Page with experience of integrating / customizing Plugin/apps i.e. Mailchimp & Others. Feel free to contact us about Landing page / Campaign page. We develop your landing page even if you want us to develop only 1 page. 
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Blog</b><br/>
@@ -189,16 +189,16 @@
 							  <div class="panel-body">
 								<ol class="fa-ul">
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>CMS development / Maintenance</b><br/>
-										We develop flexible and secure CMS that allows you to maintain easily after the delivery. We are able both to develop CMS from scratch and customize existing CMS products. We also provide maintenance service of your CMS. We are maintaining some CMSs owned by big companies and banks.
+										<i class="fa-li fa fa-caret-right"></i> <b>Custom CMS development / Maintenance</b><br/>
+										We develop flexible and secure CMS that allows you to maintain easily after the delivery. We are able both to develop CMS from scratch and customize existing CMS products. We also provide maintenance service of your CMS. We are maintaining some CMSs owned by big companies and banks. LOGIQUE develop Content Management Systems (CMS) for businesses across Indonesia. Our CMS development team have years of experience developing solutions for a broad range of companies and organizations. Our CMS development services are tailored to your needs. Whilst we specialize in Wordpress, we’re equally happy to work with a CMS platform of your choice, or provide advice and consultancy on which CMS platform is most suited to your requirements. After all, technology’s only useful if it’s solving a genuine problem. All of our custom CMS platforms enable you to edit content, create new pages, and add images and media to your website. There’s no requirement for special tools or software; editing is done online through your web browser. Maintain control of your content and keep your site up-to-date anytime, anywhere. Not only are our CMS platforms quick and easy to use, they’re SEO friendly and benefit from integrated analytics, allowing you to monitor and continuously improve your website’s performance.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Member Management / Contract Management system</b><br/>
-										CRM system, largescale-member management system. As we have experiences in developing member management system for banks, we have comprehensive security policy.
+										LOGIQUE has a well-versed team of professional QA-engineers, business analysts, and project managers that builds effective customized CRM systems on time and within budget. Our business analysts will study all peculiarities of your business and provide an effective roadmap for CRM integration and upgrade. As we have experiences in developing member management system for banks, we have quality of comprehensive security policy.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>E-Commerce </b><br/>
-										We are able to develop an E-commerce website that has quite complicated function such as Market place and Multi-level marketing. We develop the E-commerce website following unique Indonesian rules of payment and calculation of delivery cost. We also have plenty of experiences to develop E-commerce website with various Indonesian payment gateways.
+										LOGIQUE take care of e-commerce design across all the platforms ranging from WordPress, Drupal, Joomla/VirtueMart, Shopify down to Magento, and even develop cross-platform apps. We also offer customization services to revamp the current looks of your ecommerce store, shopping cart design and integration, and a host of other services. We develop the E-commerce website following unique Indonesian rules of payment and calculation of delivery cost. Contact LOGIQUE for your next e-commerce development project to discuss your needs right away.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Campaign Management / Contest Application Management System</b><br/>
@@ -221,11 +221,11 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Mobile Website Creation </b><br/>
-										It is important to approach Mobile users properly since most of the internet traffic in Indonesia is consist of Mobile. We develop responsive website that can optimize its UI depending on the device screen size. We propose flexibly in case the project requires new technologies such as PWA or AMP.
+										Responsive coding is trending technology to fit your website into smartphone / tablet sized screen. It is important to approach Mobile users properly since most of the internet traffic inIndonesia is consist of Mobile. We develop responsive website that can optimize its UI depending on the device screen size. We propose flexibly in case the project requires new technologies such as PWA or AMP. 
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Mobile Application Development</b><br/>
-										We are able to develop Android / iOS Apps that suit Indonesian market. We just not plan or use new technologies, but we use the plan into UI and UX, design, application development, and register the apps to provide you comprehensive service.
+										We are able to develop Android / iOS Apps that suit Indonesian market. We just not plan or use new technologies, but we use the plan into UI and UX, design, application development, and register the apps to provide you comprehensive service. Boasting a dedicated and experienced team of mobile app developers, specializing in iOS and Android apps, we have delivered mobile apps development services for numbers of clients in Indonesia. If you want to extend your business to the mobile world, you’ve come to the right place. Our solutions have a strong focus on intuitive and user-friendly interfaces and value-added functionality. What’s more, we have the expertise to guide and advise you on multiples sources of generating revenue, as well as helping you to regularly update and improve your app. Get in touch with our team of mobile app developers to discuss how LOGIQUE can help your business achieve more through our mobile app development services.	
 									</li>
 								</ol>
 							  </div>
@@ -244,19 +244,19 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>SEO</b><br/>
-										We commit to the result by not only implementing SEO but website improvement. We have great experience in SEO for Japanese, Indonesian, and English language. We had succeeded to keep one of our clients (Indonesian finance company) on the 1st place in Google search result for a long time, as a notable example.
+										We carry out an in-depth analysis of the on-page optimization of your website on an ongoing basis, and identify all areas where there's scope for improvement. We analyze in a precise manner, going beyond simple data tracking and user behavior. We're masters at tracking, analyzing and improving keywordrankings, and we utilize the tools to best suit your specific strategy, environment, internal resources and budget. We commit to the result by not only implementing SEO but website improvement. We have great experience in SEO for Japanese, Indonesian, and English language. We had succeeded to keep one of our clients (Indonesian finance company) on the 1st place in Google search result for a long time, as a notable example. A solid SEO strategy combines technical optimization, content optimization, and authority optimization. At LOGIQUE we have practitioners in each of these, ensuring your website ranks well in the search results and drives traffic to your website. 
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Internet Business Consulting</b><br/>
-										We create business with you as an internet advisor. We can help you to launch new business or expanding existing business utilizing the power of internet.
+										We create business with you as an internet advisor. We can help you to launch new business or expanding existing business utilizing the power of internet. Our technical experts perform a thorough evaluation of your project needs and available technology stacks to help you pick the most appropriate option.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Contents Creation</b><br/>
-										We can create contents for your website such as image, video, and text contents. We also can translate the text contents that you provided. We also can create photo shooting / drone shooting by cooperating our partner. Our Indonesian & Japanese staffs will create your contents with their professional knowledge of SEO.
+										We can create contents for your website such as image, video, and text contents. We also can translate the text contents that you provided. We also can create photo shooting / drone shooting by cooperating our partner. Our Indonesian & Japanese staffs will create your contents with their professional knowledge of SEO. Over the years, LOGIQUE has become expert in crafting web content for a multitude of companies and organizations, across a vast range of industries. We have an in-depth understanding of how to pitch content just right, so that the customer doesn't feel pressurized, uncomfortable, backed into a corner... Using subtlety and nuance to gently persuade and convince, as well as empowering the customer so that they feel purchasing is their decision and theirs alone, is our adopted approach. It's an approach that proves consistently successful.
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>Internet Advertisement / Digital Marketing Consulting</b><br/>
-										Feel free to contact us to increasing prospects / conversions by internet advertisement, internet PR strategy, SNS marketing, etc. We will provide you effective solutions cooperating our partner.
+										<i class="fa-li fa fa-caret-right"></i> <b>Online / Digital Marketing Operation</b><br/>
+										We offer a results driven approach to pay-per-click management, providing transparent and measurable campaigns that allow you to evaluate the success against your own targets. We are hugely experienced across a wide range of industry verticals and offer a proactive, strategic and highly communicative service. We know that the success of a campaign comes down to continual optimization and refinement. Only with a highly targeted and tightly themed structure can you achieve higher conversion for less cost. Feel free to contact us to increasing prospects / conversions by internet advertisement, internet PR strategy, SNS marketing, etc.
 									</li>
 								</ol>
 							  </div>
@@ -275,11 +275,11 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Company Profile / Catalog / Leaflet Design Creation & Printing</b><br/>
-										We are able to print not only paper-based printings for business, but bag, T-shirts, or even more. We handle the project from designing until we deliver it controlling partner printing companies. Feel free to contact us about company profile, leaflet samples for exhibition, or other promotion products.
+										We create flyer / brochure design and marketing collateral that amplifies your key messages in a memorable and effective way. From a single informative leaflet to an on-going direct marketing campaign, our creative team designs and produces powerful business tools that strengthen brand credibility and help you build targeted, authentic connections. Using innovative materials and the latest print design techniques, we can maximize the effectiveness of your collateral, ensuring your flyer brochure design is cost-effective to make the most of your marketing spend. In addition, our experienced production team can manage your project from start to finish, ensuring your direct marketing materials are of the highest quality to capture the attention of your audience. We are able to print not only paper-based collateral for business, but bag, T-shirts, or even more. Feel free to contact us about company profile, leaflet samples for exhibition, or other promotion products.　
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Web Server & Domain Agent Service</b><br/>
-										We will provide you agent service to obtain“co.id”(Indonesian corporate domain), setup DNS, setup SSL. We also can rent a Web server for you.
+										We will provide you agent service to obtain "co.id" (Indonesian corporate domain), setup DNS, setup SSL. We also can rent a Web server for you.
 									</li>
 								</ol>
 							  </div>

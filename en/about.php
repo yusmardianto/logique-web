@@ -153,11 +153,11 @@
 						With 5 years experiences on Indonesia and supported by skillful designers, programmers, and content writers that we have, we can give you a high quality of service on your project that same as your goals and your budget estimation.  <br/><br/> 
 						<span class="characteristic-title">Characteristic of <span class="yellow">LOGIQUE</span></span><br/><br>
 						<ul class="circle-list">
-							<li>LOGIQUE is one of web developer on Japan that take location in Indonesia.</li>
-							<li>We have been cooperating with many of great clients. With plenty of experiences and our high capability, LOGIQUE can offering you plenty of solutions and increase your profit.</li>
-							<li>Because the time are changing so quickly, we believe “speed” is one of the most important thing on business sector in Indonesia. Occasionally, we are persuade you to fasten our work for your succeed and keeping your business on the top. </li>
-							<li>To boost up your business, so it can be penetrate on Indonesia market easily, LOGIQUE is capable of creating company website from simple task through the complex one (web system).</li>
-							<li>As web developer, we are very open minded and reliable to give the best solutions of web system for you. We can fulfill your desire, needs, and your expectation for the optimal and best results. </li>
+							<li>LOGIQUE is one of the Japanese web developers located in Jakarta, Indonesia.</li>
+							<li>We have been working with vast fields of clients with plenty of experiences and great capability, LOGIQUE can offer you finest solutions and certainly increase your profit.</li>
+							<li>As the technologies have been changing so quickly, we believe that “speed” is one of the most important things for the businesses in Indonesia. We sometimes even rush you work faster for your success.</li>
+							<li>To boost your business potentials, LOGIQUE can help you develop website to reach out to more potential clients worldwide or web application / mobile apps for you to simplify your marketing activity.</li>
+							<li>As a web developing agency, we are very open minded and reliable to give the best solutions to your business with web application. We are here to achieve your needs and business goals utilizing the power of internet.</li>
 						</ul>
 					</div>
 					
