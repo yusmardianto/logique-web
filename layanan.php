@@ -159,6 +159,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Karir</b><br/>
 										Sekarang semakin sulit bagi perusahaan untuk mendapatkan karyawan ideal yang sesuai dan cocok dengan bisnis yang dijalankan. Halaman karir website perusahaan Anda adalah salah satu faktor penting untuk kesuksesan perekrutan.
+										<br><a target="_blank" href="layanan/pembuatan-website-karir-perusahaan/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website dengan Desain Responsif </b><br/>
