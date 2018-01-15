@@ -115,13 +115,13 @@
 						<br/><br/>
 							<div class="text-center">
 								<p class="title-index">
-									Your <span class="yellow">Best Solution</span> for <br/>
-									WEB and Internet
+									LOGIQUE, the best <span class="yellow">Web Developer / IT Consultant Firm</span> in Jakarta, <br/>gets you conversion and growth
 								</p>
-								LOGIQUE can help you with creating website, mobile application, digital marketing, content marketing, social media operation, video creating, printing design, SEO, and server / infra maintenance. With all the experiences from international projects that we have been contributing for more than 5 years, our expertise will be a new breakthrough to your business. 
+								LOGIQUE is a full-service Digital agency, WEB designer, System developer and IT consulting firm, located in Jakarta, founded by Japanese, helping our clients drive conversion and growth, via fully scalable, seamlessly integrated website / web system / mobile application or Digital marketing solution.
 								<br/><br/>
 								<center>
-									<a href="services.php" class="btn btn-see-more">Check LOGIQUE Service <i class="fa fa-arrow-circle-o-right" ></i></a>
+									<a href="services.php" class="btn btn-see-more" style="margin-top:10px;">Check LOGIQUE Service <i class="fa fa-arrow-circle-o-right" ></i></a>
+									<a href="contact.php" class="btn btn-see-more" style="margin-top:10px;">Request a Quote<i class="fa fa-arrow-circle-o-right" ></i></a>
 								</center>
 							</div>
 							<br/><br/>
@@ -140,13 +140,16 @@
 				<div class="img">
 					<div class="title-container hidden-xs">
 						<div class="valign-center text-center">
-							<h1 class="title-index">
-								Your <span class="yellow">Best Solution</span> for <br/>
-								WEB and Internet
+							<p style="font-size: 30px;margin-bottom: 15px;">Looking for Web app developer in Indonesia?</p>
+							<h1 class="title-index" style="font-size: 45px;">
+								LOGIQUE, the best <span class="yellow">Web Developer<br/> / IT Consultant Firm</span> in Jakarta, <br/>gets you conversion and growth
 							</h1>
-							LOGIQUE can help you with creating website, mobile application, digital marketing, content marketing, social media operation, video creating, printing design, SEO, and server / infra maintenance. With all the experiences from international projects that we have been contributing for more than 5 years, our expertise will be a new breakthrough to your business.<br/><br/>
+							LOGIQUE is a full-service Digital agency, WEB designer, System developer and IT consulting firm, located in Jakarta, founded by Japanese, helping our clients drive conversion and growth, via fully scalable, seamlessly integrated website / web system / mobile application or Digital marketing solution.
+							<br/><br/>
 							<center>
 								<a href="services.php" class="btn btn-see-more">Check LOGIQUE Service <i class="fa fa-arrow-circle-o-right" ></i></a>
+								&nbsp;&nbsp;&nbsp;&nbsp;
+								<a href="contact.php" class="btn btn-see-more">Request a Quote<i class="fa fa-arrow-circle-o-right" ></i></a>
 							</center>
 						</div>
 					</div>

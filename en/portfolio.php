@@ -99,7 +99,7 @@
 						<div class="lang-logo">
 							<ul class="list-inline">
 								<li class="active"><a href="#">EN</a></li>
-								<li><a href="../portfolio.php">ID</a></li>
+								<li><a href="../portofolio.php">ID</a></li>
 								<li><a href="../jp/portfolio.php">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
@@ -107,7 +107,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Portfolio</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">Take a look on our experience in website development and designing projects.</h1>
+							<h1 class="tagline">Our portfolio / works of WEB design, Website development, System Development and operation, Digital Marketing and IT consultation.</h1>
 						</div>
 					</div>
 				</div>
@@ -126,6 +126,185 @@
 							<a href="contact.php" class="btn btn-contact-us-black">
 								Contact us for LOGIQUE's portfolio
 							</a>
+						</div>
+						<br/><br/>
+						<div class="characteristic-title text-center" style="font-size:22px">WEB</div><br/><br/>
+						<div class="row text-center">
+							<div class="col-sm-4">
+								<img src="/img/portfolio/salon-de-res.png" class="img-responsive center-block">
+								Salon De Res<br><br>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://www.kumomiland.co.id/" target="_blank">
+								<img src="/img/portfolio/kumomiland.png" class="img-responsive center-block">
+								KUMOMI LAND INDONESIA<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://jaif.asean.org/" target="_blank">
+								<img src="/img/portfolio/jaif.png" class="img-responsive center-block">
+								ASEAN FOUNDATION<br><br>
+								</a>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/otosiap.png" class="img-responsive center-block">
+								OTO Siap!<br><br>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank">
+								<img src="/img/portfolio/dmi.png" class="img-responsive center-block">
+								DMI<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.ikeuchi.id/lp/eng/" target="_blank">
+								<img src="/img/portfolio/ikeuchi.png" class="img-responsive center-block">
+								Ikeuchi<br><br>
+								</a>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<a href="http://www.moresco.co.id/" target="_blank">
+								<img src="/img/portfolio/moresco.png" class="img-responsive center-block">
+								MORESCO<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://trendpot-recruit.asia/index.php" target="_blank">
+								<img src="/img/portfolio/trendpot.png" class="img-responsive center-block">
+								TRENDPOT<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/ajapan.png" class="img-responsive center-block">
+								aJapan Campaign Page<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/sfi.png" class="img-responsive center-block">
+								Sumitomo Forestry LP<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/jualbeliweb.png" class="img-responsive center-block">
+								JualBeliWEB<br><br>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://jjs.logique.co.id/" target="_blank">
+								<img src="/img/portfolio/jjs.png" class="img-responsive center-block">
+								Jakarta Japanese School<br><br>
+								</a>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/oto-conc.png" class="img-responsive center-block">
+								OTOmart Concierge Page<br><br>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://www.zuttoride.id/" target="_blank">
+								<img src="/img/portfolio/zutto.png" class="img-responsive center-block">
+								ZuttoRide<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://maisonderes.com/" target="_blank">
+								<img src="/img/portfolio/mdr.png" class="img-responsive center-block">
+								Maison de Res<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://frangipanibalispa.com/" target="_blank">
+									<img src="/img/portfolio/frangipani.png" class="img-responsive center-block">
+									Frangipani<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.60jpid.com/" target="_blank">
+									<img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
+									60th Anniversary Japan-Indonesia<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://hoyu.co.id/" target="_blank">
+									<img src="/img/portfolio/hoyu.png" class="img-responsive center-block">
+									Hoyu<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://kindergarten.jjs.logique.co.id/" target="_blank">
+									<img src="/img/portfolio/kindergarten-jjs.png" class="img-responsive center-block">
+									Kindergarten - Jakarta Japanese School<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.jtrustbank.co.id/" target="_blank">
+									<img src="/img/portfolio/jtrust-bank.png" class="img-responsive center-block">
+									JTrust Bank<br><br>
+								</a>
+							</div>
+						</div>
+						<br/>
+						<span class="characteristic-title">Our system development experiences</span>
+						<br/><br/>
+						<ul class="circle-list">
+							<li>Recruit management system development & operation for IT company.</li>
+							<li>HR / Recruitment management web system development & maintenance for Financial company.</li>
+							<li>CMS development & maintenance for government organization.</li>
+							<li>E-commerce website development for multi-level marketer company.</li>
+							<li>CRM system development & maintenance for motorbike maker.</li>
+							<li>Auction system & accounting system development & operation.</li>
+							<li>Digital map development.</li>
+							<li>Architecture design and operation for cloud server such as AWS.</li>
+						</ul>
+						<br/>
+						<span class="characteristic-title">Others</span>
+						<br/><br/>
+						<div class="row text-center">
+							<div class="col-sm-4">
+								<img src="/img/portfolio/video-mysunlife.jpg" class="img-responsive center-block">
+								2D Video Production(SunLife)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/video-mysunlife2.jpg" class="img-responsive center-block">
+								2D Video Production(SunLife)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/video-otomart.jpg" class="img-responsive center-block">
+								2D Video Production (OTOmart)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/video-otomart2.jpg" class="img-responsive center-block">
+								2D Video Production (OTOmart)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/mufg-mockup.png" class="img-responsive center-block">
+								Printing<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/onitsuka-mockup.jpg" class="img-responsive center-block">
+								Printing<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/maison-news.png" class="img-responsive center-block">
+								Content Creation<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/insta-vid.png" class="img-responsive center-block insta-vid">
+								Instagram Video Submission Contest<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/frangipani-photoshot.png" class="img-responsive center-block insta-vid">
+								Frangipani Photo Shooting<br><br>
+							</div>
+						</div>
+						<br/>
+						<span class="characteristic-title">Mobile App</span>
+						<br/><br/>
+						<div class="row text-center">
+							<div class="col-sm-4">
+								<img src="/img/portfolio/frangipani-app.png" class="img-responsive center-block">
+								Frangipani Esthetics (Android) Guest Comment Management App<br><br>
+							</div>
 						</div>
 					</div>
 				</div>

@@ -23,13 +23,13 @@ ga('send', 'pageview');
 					</div>
 					<div class="col-sm-8 col-xs-7 link-footer">
 						<div class="footer-title">LOGIQUEのサービス</div>
-						WEB制作<br/>
-						モバイルアプリ開発<br/>
-						SEO対策<br/>
-						WEBシステム開発<br/>
-						デザイン制作<br/>
-						会社案内・販促物印刷<br/>
-						WEB・SNS運用<br/><br/>
+						<h6><a href="services.php">WEB制作</a></h6>
+						<h6><a href="services.php">モバイルアプリ開発</a></h6>
+						<h6><a href="services.php">SEO対策</a></h6>
+						<h6><a href="services.php">WEBシステム開発</a></h6>
+						<h6><a href="services.php">デザイン制作</a></h6>
+						<h6><a href="services.php">会社案内・販促物印刷</a></h6>
+						<h6><a href="services.php">WEB・SNS運用</a></h6><br/>
 						
 						<!--<div class="footer-title">Our Product</div>
 						tripkejepang.com<br/>
@@ -73,7 +73,7 @@ $('.map-container')
   "@type": "Organization",
    "address": {
 		"@type": "PostalAddress",
-		"addressLocality": "Jakarta, Indonesia",
+		"addressLocality": "Jakarta, Indonesia"
 	},
   "email": "info(at)logique.co.id",
   "telephone": "+62 (21) 2270 8935/36"

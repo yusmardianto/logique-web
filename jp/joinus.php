@@ -106,7 +106,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">採用 / パートナー</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社。インターネットマーケティング、アプリ開発、各種デザインまで取り扱っております。</h1>
+							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社、システム開発会社。インドネシアでのパートナー・代理店としての提携問い合わせお待ちしてます。</h1>
 						</div>
 					</div>
 				</div>
@@ -116,25 +116,183 @@
 			
 			<div id="contentsArea">
 				<div id="contents">
-					<div class="title"><b>Join</b><span class="yellow">Us</span></div>
+					<div class="title" style="font-size: 28px;"><b>パートナー / インターン採用について</b></div>
 					<img src="../img/career-main.png" class="img-in-joinus"/>
 					<div class="form-container">
-						<p>
+						<p style="padding-top: 5px;">
 						<br/>
-							LOGIQUEはインドネシアのジャカルタのトップWEB制作会社です。既に多くの大手企業と直接お取引いただいています。発展途上の柔軟な会社なので、あなたのやる気次第ではあなたがLOGIQUEの中核になることだって可能です。LOGIQUEはあなたが成長できる環境を用意します。技術力・仕事力を向上するためのサポートをします。 意味のないこと、無駄なことは極力排除しています。効率的に楽しく仕事できる環境を用意します。一生懸命に、かつ楽しく働き、会社と一緒に成長しましょう。
+							LOGIQUEはインドネシア・ジャカルタのトップWEB制作／システム開発会社です。多くの大手企業と直接お取引いただいています。当社では新規案件をご紹介いただく、また共同提案していく営業パートナーさんと協業したいと考えています。Photographerや専門分野の翻訳家、AIスペシャリストなど各分野の専門家ともパートナーシップを結びたいです。当社との提携・協業にご興味少しでもお有りでしたら、お気軽にご連絡ください。
+							インドネシアでのパートナーや代理店として、日本のプロダクト、サービス、ソリューションをインドネシアで展開したいとお考えの企業さまからのご連絡、視察旅行時のご来社もお待ちしています。
 						</p>
 					</div>
-					<div class="bg-grey">
+
+					<div class="partner-section">
+						<div class="div-main text-center">
+							<span class="mitra-marketing-title">営業パートナー</span>
+							<br/><br/><br/><br/>
+							<p>
+								営業パートナーの募集をしています。.<br/><br/>
+								LOGIQUEでは、当社のサービスをご紹介いただき新規案件を獲得いただける方にご紹介手数料をお支払いしています。
+							</p>
+						</div>
+						<div class="bg-grey">
+							<div class="title2">お知り合いやお付き合いのある会社さんにて </div>
+							<br/>
+							<div class="row">
+								<div class="col-md-3 client-searched">
+									<img class="center-block img-responsive" src="../img/client1.png" alt="Ingin mempunyai website"/>
+									<p>
+										WEB（ホームページ）をもちたい
+									</p>
+								</div>
+								<div class="col-md-3 client-searched">
+									<img class="center-block img-responsive" src="../img/client2.png" alt="Ingin membuat website atau blog menjadi lebih baik"/>
+									<p>
+										社内管理システムが必要
+									</p>
+								</div>
+								<div class="col-md-3 client-searched">
+									<img class="center-block img-responsive" src="../img/client3.png" alt="Ingin mengembangkan Digital Marketing atau SEO"/>
+									<p>
+										SEO対策などDigitalマーケをしなくては
+									</p>
+								</div>
+								<div class="col-md-3 client-searched">
+									<img class="center-block img-responsive" src="../img/client4.png" alt="Ingin memulai bisnis internet baru"/>
+									<p>
+										インターネットビジネスを新たにはじめたい
+									</p>
+								</div>
+								<div class="clearfix"></div>
+								<br/>
+								<div class="col-md-12" id="client-desc1">
+									<p>
+									など、WEBやインターネットに関連することでお困りの方がいらっしゃいましたら、当社をご紹介ください。<br/><br/>
+									当社をご紹介いただき、その旨を当社にご連絡ください。無事にご紹介いただいたお客様と当社の間で成約しましたら、ご紹介者様に紹介手数料をお支払いたします。</p>
+								</div>
+								<div class="clearfix"></div>
+								<div class="commision-title">ご紹介手数料は、</div>
+								<br/>
+								<div class="col-md-offset-1 col-md-10">
+									<div class="row client-searched">
+										<div class="col-md-4">
+											<img class="center-block img-responsive" src="../img/komisi1_en.png" alt="成約額が50,000,000 IDR以下の場合は、成約額の10%"/>
+											<p>
+												 成約額が50,000,000 IDR以下の場合は、成約額の10%
+											</p>
+										</div>
+										<div class="col-md-4">
+											<img class="center-block img-responsive" src="../img/komisi2_en.png" alt="成約額が100,000,000 IDR以下の場合は、5,000,000 IDR"/>
+											<p>
+												成約額が100,000,000 IDR以下の場合は、5,000,000 IDR
+											</p>
+										</div>
+										<div class="col-md-4">
+											<img class="center-block img-responsive" src="../img/komisi3_en.png" alt="成約額が100,000,000 IDRより大きい場合は、10,000,000 IDR"/>
+											<p>
+												成約額が100,000,000 IDRより大きい場合は、10,000,000 IDR
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="commision-title">ご紹介いただく方法に特別に制約はありませんが、下記のようにしていただくと有り難いです。</div>
+								<div class="klien-flow">
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+										  <div class="valign-center">
+												ご興味をお持ちのお客様のご連絡先をお教えいただく
+										  </div>
+										</div>
+									</div>
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+											<div class="valign-center">
+												ご紹介者様の情報もこの時にお教えいただく
+											</div>
+										</div>
+									</div>
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+											<div class="valign-center">
+												当社からお客様へ直接ご連絡差し上げる 
+											</div>
+										</div>
+									</div>
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+											<div class="valign-center">
+												当社からお客様に提案する
+											</div>
+										</div>
+									</div>
+									<div class="col-md-5ths">
+										<div class="div-for-workflow">
+											<div class="valign-center">
+												成約したら当社からご紹介者様にご連絡する. 
+											</div>
+										</div>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="col-sm-12">
+									<div class="point">* &nbsp;状況により柔軟に対応いたします。パートナーシップの形態によっては上記に拘らず協業可能ですのでお気軽にご相談ください。</div>
+									<div class="point">* &nbsp;もちろん紹介ノルマなど一切ありません</div>
+									<div class="point">* &nbsp;ご興味の確度、ご予算感などをある程度ご確認いただいた上でご連絡いただけると大変助かります</div>
+									<div class="point">* &nbsp;ご紹介手数料をお支払できるのは、当社にとって新規のお客様になる場合のみです。成約額の計算も新規のイニシャルプロジェクト費が計算対象となります。第2次案件や運用保守費などは計算対象外です。</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="commision-title">案件はインドネシア国内でも日本など他の国のものでも構いません。</div>
+							</div>
+							<br/>
+							<div class="">
+								<div class="label-questions">よくあるご質問・ご相談</div><br/>
+								<div class="question">ただ紹介、繋ぐだけで良いのか？提案活動に協力が必要なのか？</div>
+								<div class="answer">WEB（ホームページ）を持ちたい、リニューアルしたい、モバイルアプリを作りたい、SEO対策したい、など当社のサービスに関連するご興味をお持ちのお客様をご紹介いただくだけで結構です。お客様にLOGIQUEという会社がある、この会社から連絡させるとお伝えいただき、その後、当社にご連絡いただければ“紹介”は完了です。あとは当社が成約できるかどうか、となります。</div>
+								<br/>
+								<div class="question">成約した後の連絡は？</div>
+								<div class="answer">紹介いただいたお客様へご提案し、無事に成約することができましたら、ご紹介者様に当社からご連絡いたします。ご紹介手数料と送金について確認させていただきます。お客様とご確認いただければ成約額について間違いがないかなどもご確認いただけます。</div><br/>
+
+								<div class="question">紹介手数料は個人に払ってもらえるのか？</div>
+								<div class="answer">当社としてはお支払する先が法人か個人かは問題になりません。ご紹介者様のご都合に合わせます。</div><br/>
+
+								<div class="question">紹介手数料に税金は掛かるのか？</div>
+								<div class="answer">はい、お支払時に源泉徴収させていただきます。NPWPお持ちの場合は10%、お持ちでない場合は20%源泉が必要になります。</div><br/>
+
+								<div class="question">紹介手数料はインドネシアルピア建て？</div>
+								<div class="answer">インドネシアルピア建てだと助かるのですが、インドネシア国内に口座がない、などの場合には、妥当な為替交換レートで計算して日本円でお支払いたします。 </div><br/>
+								
+								<div class="question">紹介手数料を受け取れるタイミングは？</div>
+								<div class="answer">制約して当社がお客様からDownPaymentを受領できた後すばやく送金いたします。 </div><br/>
+								
+								<div class="question">有効期限のようなものはあるのか？</div>
+								<div class="answer">ご紹介いただき当社から提案したが3ヶ月経っても制約に至らなかった場合、ご紹介は制約しなかったとさせていただきます。その後、別の提案が形になっても残念ながらご紹介料はお支払できません。 </div><br/>
+								
+								<div class="question">インドネシア以外の国のお客様向けにサービス提供できるのか？</div>
+								<div class="answer">できるケース、できないケースがありますので、まずはお気軽にご相談いただければと思います。 </div><br/>
+								
+								<div class="question">運用案件を紹介した場合の紹介料は？</div>
+								<div class="answer">契約の長さや金額によって、ご相談させてください。 </div><br/>
+								
+								<div class="question">どこまで対応できるのか分からない。システム開発だと何言語での開発が可能なのか？</div>
+								<div class="answer">詳細はお気軽にご相談ください。自信がないものをお請けしてご紹介者様にご迷惑おかけするようなことはしません。できないものはできないとお伝えしますので、まずはホームページやWebページの制作・運用、モバイルアプリ開発、WEBシステム開発、システム運用、SNS運用、コンテンツ制作、販促物印刷などのニーズがあればお気軽にご相談いただければと思います。 </div>
+							</div>
+						</div>
+					</div>
+
+					<div class="bg-grey" style="padding-top: 0;">
+						
+						<div class="text-center" style="font-size: 22px;"><b>インターンシップ受入について</b></div><br/><br/>
+					
 						<span class="characteristic-title"><span class="yellow">LOGIQUE</span>で働くメリット :</span><br/>
 							LOGIQUEは、日本人創業者が経営しているインドネシアのWEB制作会社です、このため、LOGIQUEで働くと、外資系の大手企業との直接取引であるプロジェクトに関われ、外資系の企業とのプロジェクトを通してインターナショナルスタンダードな仕事のやり方を経験・学ぶことができます。 							プログラミングやデザインのクオリティも、マネジメントの方法も高い水準が求められますが、これはあなたの成長を促進します。新しい取組を受け入れるカルチャーがあります。あなたにアイデアがあれば、主体性をもってチャレンジすることが可能です。<br/><br/>
 							<span class="characteristic-title"><span class="yellow">LOGIQUE</span>で働くベネフィット:</span>
 							<ul class="joinus-ul">
 								<li>新しいオフィス、見晴らしのよいオフィスで働ける.</li>
-								<li>成果次第で毎月ボーナスがもらえる.</li>
+								<li>クマンのコスなどに済むと通勤が便利.</li>
 								<li>成長している会社で働ける.</li>
-								<li>外資系だけどインドネシア語を使って働ける.</li>
-								<li>勤務時間など柔軟な勤務ルール.</li>
-								<li>中核メンバーになれる可能性がある.</li>
+								<li>インドネシア人と英語やインドネシア語を使って働ける.</li>
 								<li>コンサルティングから制作、システム開発まで、仕事の幅が広い.</li>
 							</ul>
 						<!--<div class="title-bg-grey">社内制度紹介</span></div>-->
@@ -507,160 +665,6 @@
 							</div>
 						  </div>
 						</div>-->
-					</div>
-					
-					<div class="partner-section">
-						<div class="div-main text-center">
-							<span class="mitra-marketing-title">営業パートナー</span>
-							<br/><br/><br/><br/>
-							<p>
-								営業パートナーの募集をしています。.<br/><br/>
-								LOGIQUEでは、当社のサービスをご紹介いただき新規案件を獲得いただける方にご紹介手数料をお支払いしています。
-							</p>
-						</div>
-						<div class="bg-grey">
-							<div class="title2">お知り合いやお付き合いのある会社にて </div>
-							<br/>
-							<div class="row">
-								<div class="col-md-3 client-searched">
-									<img class="center-block img-responsive" src="../img/client1.png" alt="Ingin mempunyai website"/>
-									<p>
-										WEB（ホームページ）をもちたい
-									</p>
-								</div>
-								<div class="col-md-3 client-searched">
-									<img class="center-block img-responsive" src="../img/client2.png" alt="Ingin membuat website atau blog menjadi lebih baik"/>
-									<p>
-										WEBやブログがあるが活かせてない
-									</p>
-								</div>
-								<div class="col-md-3 client-searched">
-									<img class="center-block img-responsive" src="../img/client3.png" alt="Ingin mengembangkan Digital Marketing atau SEO"/>
-									<p>
-										SEO対策などDigitalマーケティングをしたい
-									</p>
-								</div>
-								<div class="col-md-3 client-searched">
-									<img class="center-block img-responsive" src="../img/client4.png" alt="Ingin memulai bisnis internet baru"/>
-									<p>
-										インターネットビジネスを新たにはじめたい
-									</p>
-								</div>
-								<div class="clearfix"></div>
-								<br/>
-								<div class="col-md-12" id="client-desc1">
-									<div>など、WEBやインターネットに関連することでお困りの方がいらっしゃいましたら、当社をご紹介ください。</div>
-									<p>当社をご紹介いただき、その旨を当社にご連絡ください。無事にご紹介いただいたお客様と当社の間で成約しましたら、ご紹介者様に紹介手数料をお支払いたします。</p>
-								</div>
-								<div class="clearfix"></div>
-								<div class="commision-title">ご紹介手数料は、</div>
-								<br/>
-								<div class="col-md-offset-1 col-md-10">
-									<div class="row client-searched">
-										<div class="col-md-4">
-											<img class="center-block img-responsive" src="../img/komisi1_en.png" alt="成約額が50,000,000 IDR以下の場合は、成約額の10%"/>
-											<p>
-												 成約額が50,000,000 IDR以下の場合は、成約額の10%
-											</p>
-										</div>
-										<div class="col-md-4">
-											<img class="center-block img-responsive" src="../img/komisi2_en.png" alt="成約額が100,000,000 IDR以下の場合は、5,000,000 IDR"/>
-											<p>
-												成約額が100,000,000 IDR以下の場合は、5,000,000 IDR
-											</p>
-										</div>
-										<div class="col-md-4">
-											<img class="center-block img-responsive" src="../img/komisi3_en.png" alt="成約額が100,000,000 IDRより大きい場合は、10,000,000 IDR"/>
-											<p>
-												成約額が100,000,000 IDRより大きい場合は、10,000,000 IDR
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="row">
-								<div class="commision-title">ご紹介いただく方法に特別に制限はありませんが、下記のようにしていただくと有り難いです。</div>
-								<div class="klien-flow">
-									<div class="col-md-5ths">
-										<div class="div-for-workflow">
-										  <div class="valign-center">
-												ご興味をお持ちのお客様のご連絡先をお教えいただく
-										  </div>
-										</div>
-									</div>
-									<div class="col-md-5ths">
-										<div class="div-for-workflow">
-											<div class="valign-center">
-												ご紹介者様の情報もこの時にお教えいただく
-											</div>
-										</div>
-									</div>
-									<div class="col-md-5ths">
-										<div class="div-for-workflow">
-											<div class="valign-center">
-												当社からお客様へ直接ご連絡差し上げる 
-											</div>
-										</div>
-									</div>
-									<div class="col-md-5ths">
-										<div class="div-for-workflow">
-											<div class="valign-center">
-												当社からお客様に提案する
-											</div>
-										</div>
-									</div>
-									<div class="col-md-5ths">
-										<div class="div-for-workflow">
-											<div class="valign-center">
-												成約したら当社からご紹介者様にご連絡する. 
-											</div>
-										</div>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="col-sm-12">
-									<div class="point">* &nbsp;状況により柔軟に対応いたします。パートナーシップの形態によっては上記に拘らず協業可能ですのでお気軽にご相談ください。</div>
-									<div class="point">* &nbsp;もちろん紹介ノルマなど一切ありません</div>
-									<div class="point">* &nbsp;ご興味の確度、ご予算感などをある程度ご確認いただいた上でご連絡いただけると大変助かります</div>
-									<div class="point">* &nbsp;ご紹介手数料をお支払できるのは、当社にとって新規のお客様になる場合のみです。成約額の計算も新規のイニシャルプロジェクト費が計算対象となります。第2次案件や運用保守費などは計算対象外です。</div>
-								</div>
-								<div class="clearfix"></div>
-								<div class="commision-title">案件はインドネシア国内でも日本など他の国のものでも構いません。</div>
-							</div>
-							<br/>
-							<div class="">
-								<div class="label-questions">よくあるご質問・ご相談</div><br/>
-								<div class="question">ただ紹介、繋ぐだけで良いのか？提案活動に協力が必要なのか？</div>
-								<div class="answer">WEB（ホームページ）を持ちたい、リニューアルしたい、モバイルアプリを作りたい、SEO対策したい、など当社のサービスに関連するご興味をお持ちのお客様をご紹介いただくだけで結構です。お客様にLOGIQUEという会社がある、この会社から連絡させるとお伝えいただき、その後、当社にご連絡いただければ“紹介”は完了です。あとは当社が成約できるかどうか、となります。</div>
-								<br/>
-								<div class="question">成約した後の連絡は？</div>
-								<div class="answer">紹介いただいたお客様へご提案し、無事に成約することができましたら、ご紹介者様に当社からご連絡いたします。ご紹介手数料と送金について確認させていただきます。お客様とご確認いただければ成約額について間違いがないかなどもご確認いただけます。</div><br/>
-
-								<div class="question">紹介手数料は個人に払ってもらえるのか？</div>
-								<div class="answer">当社としてはお支払する先が法人か個人かは問題になりません。ご紹介者様のご都合に合わせます。</div><br/>
-
-								<div class="question">紹介手数料に税金は掛かるのか？</div>
-								<div class="answer">はい、お支払時に源泉徴収させていただきます。NPWPお持ちの場合は10%、お持ちでない場合は20%源泉が必要になります。</div><br/>
-
-								<div class="question">紹介手数料はインドネシアルピア建て？</div>
-								<div class="answer">インドネシアルピア建てだと助かるのですが、インドネシア国内に口座がない、などの場合には、妥当な為替交換レートで計算して日本円でお支払いたします。 </div><br/>
-								
-								<div class="question">紹介手数料を受け取れるタイミングは？</div>
-								<div class="answer">制約して当社がお客様からDownPaymentを受領できた後すばやく送金いたします。 </div><br/>
-								
-								<div class="question">有効期限のようなものはあるのか？</div>
-								<div class="answer">ご紹介いただき当社から提案したが3ヶ月経っても制約に至らなかった場合、ご紹介は制約しなかったとさせていただきます。その後、別の提案が形になっても残念ながらご紹介料はお支払できません。 </div><br/>
-								
-								<div class="question">インドネシア以外の国のお客様向けにサービス提供できるのか？</div>
-								<div class="answer">できるケース、できないケースがありますので、まずはお気軽にご相談いただければと思います。 </div><br/>
-								
-								<div class="question">運用案件を紹介した場合の紹介料は？</div>
-								<div class="answer">契約の長さや金額によって、ご相談させてください。 </div><br/>
-								
-								<div class="question">どこまで対応できるのか分からない。システム開発だと何言語での開発が可能なのか？</div>
-								<div class="answer">詳細はお気軽にご相談ください。自信がないものをお請けしてご紹介者様にご迷惑おかけするようなことはしません。できないものはできないとお伝えしますので、まずはホームページやWebページの制作・運用、モバイルアプリ開発、WEBシステム開発、システム運用、SNS運用、コンテンツ制作、販促物印刷などのニーズがあればお気軽にご相談いただければと思います。 </div>
-							</div>
-						</div>
 					</div>
 					
 					<div class="got-project">

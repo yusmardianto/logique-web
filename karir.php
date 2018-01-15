@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="We are hiring! Cek lowongan kerja yang tersedia dari kami dan mari bergabung dengan LOGIQUE untuk perkembangan karir Anda dengan suasana kerja yang nyaman dan efektif.">
+    <meta name="description" itemprop="description" content="LOGIQUE menyediakan lowongan kerja Web Developer dan kerjasama marketing menarik untuk Anda. Ayo bergabung sekarang!">
 	<meta name="keywords" content="karir, bekerja di logique, magang di logique, web developer, project manager, desainer, tester">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Bergabung dengan Logique | Karir | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Karir | Bergabung dengan Logique | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/joinus.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
-	<meta property="og:description" content="We are hiring! Cek lowongan kerja yang tersedia dari kami dan mari bergabung dengan LOGIQUE untuk perkembangan karir Anda dengan suasana kerja yang nyaman dan efektif.">
+	<meta property="og:description" content="LOGIQUE menyediakan lowongan kerja Web Developer dan kerjasama marketing menarik untuk Anda. Ayo bergabung sekarang!">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Bergabung dengan Logique | Karir | LOGIQUE Digital Indonesia</title>
+    <title>Karir | Bergabung dengan Logique | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -44,31 +44,31 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="about.php">
+							<a href="tentang-kami.php">
 								<div class="img-about"></div>
 								Tentang Kami
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="portfolio.php">
+							<a href="portofolio.php">
 								<div class="img-portfolio"></div>
 								Portfolio
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="services.php">
+							<a href="layanan.php">
 								<div class="img-services"></div>
 								Layanan
 							</a>
 						</div>
 						<div class="text-center active">
-							<a href="joinus.php">
+							<a href="#">
 								<div class="img-career"></div>
 								Karir
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="contact.php">
+							<a href="hubungi-kami.php">
 								<div class="img-contact"></div>
 								Hubungi Kami
 							</a>
@@ -101,12 +101,12 @@
 								<li class="active"><a href="#">ID</a></li>
 								<li><a href="jp/joinus.php">JP</a></li>
 							</ul>
-							<a href="index.php"><img src="img/logo.png" alt="Logo" class="img-responsive logo"/></a>
+							<a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo"/></a>
 							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Karir</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">LOGIQUE menyediakan lowongan kerja Web Developer dan kerjasama marketing menarik untuk Anda. Ayo bergabung sekarang!</h1>
+							<h1 class="tagline">Lowongan kerja Web Developer dan kerjasama marketing menarik.</h1>
 						</div>
 					</div>
 				</div>
@@ -117,10 +117,64 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title"><b>Join</b><span class="yellow">Us</span></div>
-					<img src="img/career-main.png" class="img-in-joinus"/>
+					<img src="img/career-main.png" class="img-in-joinus" alt="lowongan web developer"/>
 					<div class="form-container">
-					<br/>
-						LOGIQUE terbuka untuk kalian yang punya minat tinggi dan kemampuan di bidang WEB, mari bekerja bersama di lingkungan kerja yang nyaman dan efektif.<br/>
+						<br/><span class="paragraph-karir-title">Bergabung dengan Logique</span><br/>
+						<p class="paragraph-karir">
+							Kami membuka peluang bagi web developer, php programmer, web designer, technical consultant, dan content writer yang berada di area Jakarta ataupun kota lainnya (dengan sistem kerja remote) untuk mengambil bagian dalam perkembangan Logique dan bekerja bersama tim terbaik kami. Variasi tantangan dalam setiap proyek serta lingkungan kerja yang nyaman dan efektif akan mengasah dan meningkatkan kemampuan Anda ke level berikutnya. Selain itu, Anda juga memiliki peluang peningkatan karir yang besar dengan menunjukkan kemampuan Anda, menjadi yang terbaik diantara yang terbaik.
+						</p>
+					</div>
+					<div class="karir-new-img">
+						<div class="title">Orang-orang terbaik yang kami cari memiliki:</div>
+						<br/>
+						<div class="row">
+							<div class="col-sm-3">
+								<img src="img/syarat1.png" class="img-responsive center-block"/>
+								<div class="text-center exp-img"><b>Memiliki Minat Tinggi di Bidang Web</b></div>
+							</div>
+							<div class="col-sm-3">
+								<img src="img/syarat2.png" class="img-responsive center-block"/>
+								<div class="text-center exp-img"><b>Kemampuan Terbaik di Bidangnya</b></div>
+							</div>
+							<div class="col-sm-3">
+								<img src="img/syarat3.png" class="img-responsive center-block"/>
+								<div class="text-center exp-img"><b>Profesional dan Disiplin</b></div>
+							</div>
+							<div class="col-sm-3">
+								<img src="img/syarat4.png" class="img-responsive center-block"/>
+								<div class="text-center exp-img"><b>Kreatif dan Berinisiatif</b></div>
+							</div>
+						</div>
+					</div>
+					<div class="form-container">
+						<br/>
+						<div class="title-alur">Jika Anda orangnya, silakan mengikuti panduan alur perekrutan Logique di bawah ini</div>
+						<br/>
+						<div class="row">
+							<div class="div-alur">
+								<div class="bar-step bar-yellow">
+									<div class="exp-step"><span>1.</span> Masuk ke Halaman Karir Logique</div>
+									<img src="img/alur1.png" class="img-responsive pull-left"/>
+								</div>
+								<div class="bar-step bar-black">
+									<div class="exp-step"><span>2.</span> Kirim CV Sesuai Lowongan</div>
+									<img src="img/alur2.png" class="img-responsive pull-left"/>
+								</div>
+								<div class="bar-step bar-yellow">
+									<div class="exp-step"><span>3.</span> Tim HR Logique akan Menghubungi Anda</div>
+									<img src="img/alur3.png" class="img-responsive pull-left"/>
+								</div>
+								<div class="bar-step bar-black">
+									<div class="exp-step"><span>4.</span> Ikuti Tes dan Interview</div>
+									<img src="img/alur4.png" class="img-responsive pull-left"/>
+								</div>
+								<div class="bar-step bar-yellow">
+									<div class="exp-step"><span>5.</span> Logique akan menghubungi kandidat yang berhasil</div>
+									<img src="img/alur5.png" class="img-responsive pull-left"/>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
 						<div class="text-center">
 							<a href="career/" target="_blank" class="btn btn-contact-us-black">
 								Gabung Dengan Kami
@@ -134,6 +188,7 @@
 							<li><a href="career/#to-candidates" target="_blank">Pesan untuk Kandidat</a></li>|
 							<li><a href="career/#job-opening" target="_blank">Lowongan Kerja</a></li>
 						</ul>
+						<br/>
 					</div>
 					<!--<div class="form-container">
 						<p>

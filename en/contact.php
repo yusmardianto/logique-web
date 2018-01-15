@@ -163,22 +163,14 @@ if(isset($_POST['submitted']))
 									<div class="jika-title"><span>"</span>&nbsp;If</div>
 								</div>
 								<div class="col-lg-10">
-									<div class="row">
-										<div class="col-sm-4">
-											<div class="contact-copies">
-												You would like to grow your <span class="yellow">Website</span> as one of <b>the most important sales channels</b>.
-											</div>
-										</div>
-										<div class="col-sm-4">
-											<div class="contact-copies">
-												You would like <b>to make a difference</b> from competitors in marketing by utilizing <span class="yellow">Website</span>.
-											</div>
-										</div>
-										<div class="col-sm-4">
-											<div class="contact-copies">
-												You would like <b>to develop your business</b> using <span class="yellow">Website</span> as the key.
-											</div>
-										</div>
+									<div class="contact-copies">
+										You would like to grow your <span class="yellow">Website</span> as one of <b>the most important sales channels</b>.
+									</div>
+									<div class="contact-copies">
+										You would like <b>to make a difference</b> from competitors in marketing by utilizing <span class="yellow">Website</span>.
+									</div>
+									<div class="contact-copies">
+										You would like <b>to develop your business</b> using <span class="yellow">Website</span> as the key.
 									</div>
 								</div>
 							</div>

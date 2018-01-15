@@ -38,31 +38,31 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="about.php">
+							<a href="tentang-kami.php">
 								<div class="img-about"></div>
 								Tentang Kami
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="portfolio.php">
+							<a href="portofolio.php">
 								<div class="img-portfolio"></div>
 								Portfolio
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="services.php">
+							<a href="layanan.php">
 								<div class="img-services"></div>
 								Services
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="joinus.php">
+							<a href="karir.php">
 								<div class="img-career"></div>
 								Karir
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="contact.php">
+							<a href="hubungi-kami.php">
 								<div class="img-contact"></div>
 								Hubungi Kami
 							</a>
@@ -94,7 +94,7 @@
 								<li class="active"><a href="index.php">ID</a></li>
 								<li><a href="jp/index.php">JP</a></li>
 							</ul>
-							<a href="index.php"><img src="img/logo.png" alt="Logo" class="img-responsive logo"/></a>
+							<a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo"/></a>
 						</div>
 					</div>
 				</div>

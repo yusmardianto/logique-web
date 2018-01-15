@@ -15,16 +15,6 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
 	<meta property="og:description" content="インドネシア、ジャカルタでのWEBサイト(ホームページ)制作、システム構築、WEBマーケティング、モバイルアプリ開発(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等のデザインなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-	ga('create', 'UA-105878648-1', 'auto');
-	ga('send', 'pageview');
-
-	</script>
     <title>ジャカルタのWEBサイト/ホームページ制作会社 | LOGIQUE デジタルインドネシア</title>
 
     <!-- Bootstrap -->
@@ -36,7 +26,7 @@
     
     </head>
 	<body>
-		<div class="wrapper o-wrapper">
+		<div class="wrapper o-wrapper top-only">
 		
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
@@ -98,7 +88,7 @@
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
-						<div class="lang-logo">
+						<div class="lang-logo" style="position:relative">
 							<ul class="list-inline">
 								<li><a href="../en/index.php">EN</a></li>
 								<li><a href="../index.php">ID</a></li>
@@ -114,11 +104,12 @@
 							<br/><br/>
 							<div class="text-center">
 								<p class="title-index" style="font-size:40px">
-									<span class="yellow">インドネシア</span>でお客様の課題を<br><span class="yellow">WEB・ネット</span>の活用で解決してきました。
+									<span class="yellow">インドネシア</span>でお客様の課題を<span class="yellow">WEB・IT</span>の活用で解決してきました。
 								</p>
-								WEB・ホームページ制作・WEBシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWEB戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWEBを制作運用することを心がけています。ネットビジネスコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネットを活用して貢献していきます。<br/><br/>
+								WEB・ホームページ制作・WEBシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWEB戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWEBを制作運用することを心がけています。ネットビジネスコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。採用管理システムやCRMシステム、ECサイト構築などシステム開発も数多く経験しています。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネット・ITを活用して貢献していきます。<br/><br/>
 								<center>
-									<a href="services.php" class="btn btn-see-more">LOGIQUEのサービス一覧 <i class="fa fa-arrow-circle-o-right" ></i></a>
+									<a href="about.php" class="btn btn-see-more" style="margin-top:10px;">LOGIQUE会社概要 <i class="fa fa-arrow-circle-o-right" ></i></a>
+									<a href="services.php" class="btn btn-see-more" style="margin-top:10px;">LOGIQUEのサービス一覧 <i class="fa fa-arrow-circle-o-right" ></i></a>
 								</center>
 							</div>
 							<br/><br/>
@@ -138,10 +129,12 @@
 					<div class="title-container hidden-xs">
 						<div class="valign-center text-center">
 							<h1 class="title-index" style="font-size:40px">
-								<span class="yellow">インドネシア</span>でお客様の課題を<br><span class="yellow">WEB・ネット</span>の活用で解決してきました。
+								<span class="yellow">インドネシア</span>でお客様の課題を<br><span class="yellow">WEB・IT</span>の活用で解決してきました。
 							</h1>
-							WEB・ホームページ制作・WEBシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWEB戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWEBを制作運用することを心がけています。ネットビジネスコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネットを活用して貢献していきます。<br/><br/>
+							WEB・ホームページ制作・WEBシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWEB戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWEBを制作運用することを心がけています。ネットビジネスコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。採用管理システムやCRMシステム、ECサイト構築などシステム開発も数多く経験しています。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネット・ITを活用して貢献していきます。<br/><br/>
 							<center>
+								<a href="about.php" class="btn btn-see-more">LOGIQUE会社概要 <i class="fa fa-arrow-circle-o-right" ></i></a>
+								&nbsp;&nbsp;&nbsp;&nbsp;
 								<a href="services.php" class="btn btn-see-more">LOGIQUEのサービス一覧 <i class="fa fa-arrow-circle-o-right" ></i></a>
 							</center>
 						</div>
@@ -150,11 +143,8 @@
 			</div>
 			
 			<br/>
-		  
-		</div>	
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="../js/bootstrap.min.js"></script>
-		<script src="../js/slick.min.js"></script>		
+		  <?php include 'footer.php';?>
+		</div>
 		<script type="application/ld+json">
 			{
 			  "@context": "http://schema.org",

@@ -15,23 +15,20 @@ ga('send', 'pageview');
 				<div class="row">
 					<div class="col-sm-4 col-xs-5 link-footer-nav">
 						<a href="index.php">Beranda</a><br/><br/>
-						<a href="about.php">Tentang Kami</a><br/><br/>
-						<a href="portfolio.php">Portfolio</a><br/><br/>
-						<a href="service.php">Service</a><br/><br/>
+						<a href="tentang-kami.php">Tentang Kami</a><br/><br/>
+						<a href="portofolio.php">Portofolio</a><br/><br/>
+						<a href="layanan.php">Layanan</a><br/><br/>
 						<a href="career/">Karir</a><br/><br/>
-						<a href="contact.php">Hubungi Kami</a><br/>
+						<a href="hubungi-kami.php">Hubungi Kami</a><br/>
 					</div>
 					<div class="col-sm-8 col-xs-7 link-footer">
 						<div class="footer-title">Layanan Kami</div>
-						Jasa Pembuatan Website<br/>
-						Jasa Pembuatan Aplikasi<br/>
-						Jasa Desain Web<br/>
-						Jasa Promosi Online<br/>
-						Jasa SEO<br/>
-						Jasa Percetakan<br/><br/>
-						<!--<div class="footer-title">Our Product</div>
-						tripkejepang.com<br/>
-						jadiboss.com<br/>-->
+						<h6><a href="layanan.php">Jasa Pembuatan Website</a></h6>
+						<h6><a href="layanan.php">Jasa Pembuatan Aplikasi</a></h6>
+						<h6><a href="layanan.php">Jasa Desain Web</a></h6>
+						<h6><a href="layanan.php">Jasa Promosi Online</a></h6>
+						<h6><a href="layanan.php">Jasa SEO</a></h6>
+						<h6><a href="layanan.php">Jasa Percetakan</a></h6><br/>
 					</div>
 				</div>
 				<br/>
@@ -44,7 +41,7 @@ ga('send', 'pageview');
 				Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span><br/><br/>
 				</div>
 			</div>
-				Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.
+				Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="layanan.php"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.
 				<br/><br/>
 				<div itemscope itemtype="http://schema.org/CreativeWork">
 					<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
@@ -71,7 +68,7 @@ $('.map-container')
   "@type": "Organization",
    "address": {
 		"@type": "PostalAddress",
-		"addressLocality": "Jakarta, Indonesia",
+		"addressLocality": "Jakarta, Indonesia"
 	},
   "email": "info(at)logique.co.id",
   "telephone": "+62 (21) 2270 8935/36"

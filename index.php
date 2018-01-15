@@ -8,7 +8,7 @@
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Jasa Pembuatan Website dan SEO Berkualitas | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Jasa Pembuatan Website dan SEO | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://logique.co.id/">
@@ -25,7 +25,7 @@
 	ga('send', 'pageview');
 
 	</script>
-    <title>Jasa Pembuatan Website dan SEO Berkualitas | LOGIQUE Digital Indonesia</title>
+    <title>Jasa Pembuatan Website dan SEO | LOGIQUE Digital Indonesia</title>
 
 	<link href="css/bootstrap.min.css" rel="stylesheet">	
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
@@ -37,7 +37,7 @@
     
     </head>
 	<body>
-		<div class="wrapper o-wrapper">
+		<div class="wrapper o-wrapper top-only">
 		
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
@@ -50,37 +50,37 @@
 				<div class="logique-nav">
 					<div class="margin-for-nav">
 						<div class="text-center active">
-							<a href="index.php">
+							<a href="#">
 								<div class="img-home"></div>
 								Beranda
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="about.php">
+							<a href="tentang-kami.php">
 								<div class="img-about"></div>
 								Tentang Kami
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="portfolio.php">
+							<a href="portofolio.php">
 								<div class="img-portfolio"></div>
 								Portfolio
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="services.php">
+							<a href="layanan.php">
 								<div class="img-services"></div>
 								Layanan
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="joinus.php">
+							<a href="karir.php">
 								<div class="img-career"></div>
 								Karir
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="contact.php">
+							<a href="hubungi-kami.php">
 								<div class="img-contact"></div>
 								Hubungi Kami
 							</a>
@@ -99,13 +99,13 @@
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
-						<div class="lang-logo">
+						<div class="lang-logo" style="position:relative">
 							<ul class="list-inline">
 								<li><a href="en/index.php">EN</a></li>
 								<li class="active"><a href="#">ID</a></li>
 								<li><a href="jp/index.php">JP</a></li>
 							</ul>
-							<a href="index.php"><img src="img/logo.png" alt="Logo" class="img-responsive logo"/></a>
+							<a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo"/></a>
 						</div>
 					</div>
 				</div>
@@ -117,34 +117,34 @@
 								<p class="title-index">
 									Jasa Pembuatan <span class="yellow">Website</span> dan <span class="yellow">Web Sistem</span> Berkualitas di Jakarta
 								</p>
-								LOGIQUE siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Dengan pengalaman dari proyek - proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
+								LOGIQUE memiliki pengalaman dan kualitas yang Anda perlukan dalam pengembangan sistem web untuk kebutuhan bisnis digital saat ini. Kami telah bekerjasama dengan banyak klien internasional untuk berbagai kebutuhan seperti E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS serta terbiasa membuat sistem web tersebut dengan standar internasional.  LOGIQUE juga  siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Pengalaman yang telah kami jalankan selama lebih dari 5 tahun serta kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
 								<div class="row">
 									<div class="col-md-3 col-sm-6">
 										<div class="div-service-cat">
 											<img src="img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
 											<div>Jasa Pembuatan<br/><span>Website</span></div>
-											<a href="services.php" class="btn">Baca Selengkapnya</a>
+											<a href="layanan.php" class="btn">Baca Selengkapnya</a>
 										</div>
 									</div>
 									<div class="col-md-3 col-sm-6">
 										<div class="div-service-cat">
 											<img src="img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
 											<div>Jasa Pembuatan<br/><span>Aplikasi</span></div>
-											<a href="services.php" class="btn">Baca Selengkapnya</a>
+											<a href="layanan.php" class="btn">Baca Selengkapnya</a>
 										</div>
 									</div>
 									<div class="col-md-3 col-sm-6">
 										<div class="div-service-cat">
 											<img src="img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
-											<div>Jasa <br/><span>Promosi Online</span></div>
-											<a href="services.php" class="btn">Baca Selengkapnya</a>
+											<div>Jasa Pembuatan<br/><span>Sistem Web</span></div>
+											<a href="layanan.php" class="btn">Baca Selengkapnya</a>
 										</div>
 									</div>
 									<div class="col-md-3 col-sm-6">
 										<div class="div-service-cat">
-											<img src="img/jasa-seo.png" alt="Jasa SEO" class="center-block img-responsive"/>
+											<img src="img/jasa-seo.png" alt="Jasa Optimasi SEO" class="center-block img-responsive"/>
 											<div>Jasa <br/><span>SEO</span></div>
-											<a href="services.php" class="btn">Baca Selengkapnya</a>
+											<a href="layanan.php" class="btn">Baca Selengkapnya</a>
 										</div>
 									</div>
 								</div>
@@ -161,14 +161,14 @@
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
-			<div id="bgImg">
+			<div id="bgImg" style="height: auto;">
 				<div class="img">
 					<div class="title-container hidden-xs">
-						<div class="valign-center text-center">
+						<div class="text-center">
 							<h1 class="title-index">
 								Jasa Pembuatan <span class="yellow">Website</span> dan <span class="yellow">Web Sistem</span> <br>Berkualitas di Jakarta
 							</h1>
-							LOGIQUE siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Dengan pengalaman dari proyek - proyek internasional yang telah kami jalankan selama lebih dari 5 tahun, kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
+							LOGIQUE memiliki pengalaman dan kualitas yang Anda perlukan dalam pengembangan sistem web untuk kebutuhan bisnis digital saat ini. Kami telah bekerjasama dengan banyak klien internasional untuk berbagai kebutuhan seperti E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS serta terbiasa membuat sistem web tersebut dengan standar internasional.  LOGIQUE juga  siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Pengalaman yang telah kami jalankan selama lebih dari 5 tahun serta kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
 							<!--<center>
 								<a href="services.php" class="btn btn-see-more">Lihat Layanan LOGIQUE <i class="fa fa-arrow-circle-o-right" ></i></a>
 							</center>-->
@@ -178,29 +178,29 @@
 										<div class="col-md-3 col-sm-6">
 											<div class="div-service-cat">
 												<img src="img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
-												<h3>Jasa Pembuatan <br/><span>Website</span></h3>
-												<a href="services.php" class="btn">Baca Selengkapnya</a>
+												<h2>Jasa Pembuatan <br/><span>Website</span></h2>
+												<a href="layanan.php" class="btn">Baca Selengkapnya</a>
 											</div>
 										</div>
 										<div class="col-md-3 col-sm-6">
 											<div class="div-service-cat">
 												<img src="img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
-												<h3>Jasa Pembuatan <br/><span>Aplikasi</span></h3>
-												<a href="services.php" class="btn">Baca Selengkapnya</a>
+												<h2>Jasa Pembuatan <br/><span>Aplikasi</span></h2>
+												<a href="layanan.php" class="btn">Baca Selengkapnya</a>
 											</div>
 										</div>
 										<div class="col-md-3 col-sm-6">
 											<div class="div-service-cat">
 												<img src="img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
-												<h3>Jasa <br/><span>Promosi Online</span></h3>
-												<a href="services.php" class="btn">Baca Selengkapnya</a>
+												<h2>Jasa Pembuatan<br/><span>Sistem Web</span></h2>
+												<a href="layanan.php" class="btn">Baca Selengkapnya</a>
 											</div>
 										</div>
 										<div class="col-md-3 col-sm-6">
 											<div class="div-service-cat">
-												<img src="img/jasa-seo.png" alt="Jasa SEO" class="center-block img-responsive"/>
-												<h3>Jasa <br/><span>SEO</span></h3>
-												<a href="services.php" class="btn">Baca Selengkapnya</a>
+												<img src="img/jasa-seo.png" alt="Jasa Optimasi SEO" class="center-block img-responsive"/>
+												<h2>Jasa Optimasi <br/><span>SEO</span></h2>
+												<a href="layanan.php" class="btn">Baca Selengkapnya</a>
 											</div>
 										</div>
 									</div>
@@ -212,11 +212,8 @@
 			</div>
 			
 			<br/>
-		  
+			<?php include 'footer.php';?>
 		</div>
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/slick.min.js"></script>		
 		<script type="application/ld+json">
 			{
 			  "@context": "http://schema.org",

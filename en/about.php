@@ -107,7 +107,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">About Us</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">Your best partner for website development, internet marketing, application development, and designing.</h1>
+							<h1 class="tagline">Your best partner in Jakarta to deliver international quality of web design, digital marketing, system / application development, and IT consulting.</h1>
 						</div>
 					</div>
 				</div>
@@ -118,34 +118,34 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<!--<img src="../img/about-us-main-visual.png" class="img-in-about"/>-->
-					<div id="profile" class="carousel slide" data-ride="carousel">
-						  <div class="carousel-inner">
-							<div class="item active">
-							  <img style="object-position:0 0" src="../img/slider1.jpg" alt="Company Profile 1">
-							</div>
-							<div class="item">
-							  <img src="../img/slider3.jpg" alt="Company Profile 2">
-							</div>
-							<div class="item">
-							  <img src="../img/slider2.jpg" alt="Company Profile 3">
-							</div>
-							<div class="item">
-							  <img src="../img/slider4.jpg" alt="Company Profile 4">
-							</div>
-							<div class="item">
-							  <img src="../img/slider5.jpg" alt="Company Profile 5">
-							</div>
-						  </div>
-						  <!-- Left and right controls -->
-						  <a class="left carousel-control" href="#profile" data-slide="prev">
-							<span class="glyphicon glyphicon-chevron-left"></span>
-							<span class="sr-only">Previous</span>
-						  </a>
-						  <a class="right carousel-control" href="#profile" data-slide="next">
-							<span class="glyphicon glyphicon-chevron-right"></span>
-							<span class="sr-only">Next</span>
-						  </a>
+					<div id="profile" class="carousel slide" data-ride="carousel"  data-interval="3000">
+					  <div class="carousel-inner">
+						<div class="item active">
+							<img src="/img/slider5.jpg" alt="Web Developer LOGIQUE 5">
 						</div>
+						<div class="item">
+							<img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
+						</div>
+						<div class="item">
+							<img style="object-position:0 0" src="/img/slider1.jpg" alt="Web Developer LOGIQUE 1">
+						</div>
+						<div class="item">
+						    <img src="/img/slider3.jpg" alt="Web Developer LOGIQUE 2">
+						</div>
+						<div class="item">
+							<img src="/img/slider2.jpg" alt="Web Developer LOGIQUE 3">
+						</div>
+					  </div>
+					  <!-- Left and right controls -->
+					  <a class="left carousel-control" href="#profile" data-slide="prev">
+						<span class="glyphicon glyphicon-chevron-left"></span>
+						<span class="sr-only">Previous</span>
+					  </a>
+					  <a class="right carousel-control" href="#profile" data-slide="next">
+						<span class="glyphicon glyphicon-chevron-right"></span>
+						<span class="sr-only">Next</span>
+					  </a>
+					</div>
 					<div class="title"><b>About</b><span class="yellow">Us</span></div>
 					<div class="form-container">
 						Logique is a web developer that providing various services of web and internet such as digital marketing, website creating, and web system development. Our scopes of website creating are not only in the domestic area (Jakarta, Indonesia) but also abroad, like Japan. We are provide the other services like web design, SEO service, social media operating, and mobile application development. Also, we are providing design & printing services like company profile creating, catalogs, leaflets, etc. 
@@ -153,11 +153,11 @@
 						With 5 years experiences on Indonesia and supported by skillful designers, programmers, and content writers that we have, we can give you a high quality of service on your project that same as your goals and your budget estimation.  <br/><br/> 
 						<span class="characteristic-title">Characteristic of <span class="yellow">LOGIQUE</span></span><br/><br>
 						<ul class="circle-list">
-							<li>LOGIQUE is one of web developer on Japan that take location in Indonesia.</li>
-							<li>We have been cooperating with many of great clients. With plenty of experiences and our high capability, LOGIQUE can offering you plenty of solutions and increase your profit.</li>
-							<li>Because the time are changing so quickly, we believe “speed” is one of the most important thing on business sector in Indonesia. Occasionally, we are persuade you to fasten our work for your succeed and keeping your business on the top. </li>
-							<li>To boost up your business, so it can be penetrate on Indonesia market easily, LOGIQUE is capable of creating company website from simple task through the complex one (web system).</li>
-							<li>As web developer, we are very open minded and reliable to give the best solutions of web system for you. We can fulfill your desire, needs, and your expectation for the optimal and best results. </li>
+							<li>LOGIQUE is one of the Japanese web developers located in Jakarta, Indonesia.</li>
+							<li>We have been working with vast fields of clients with plenty of experiences and great capability, LOGIQUE can offer you finest solutions and certainly increase your profit.</li>
+							<li>As the technologies have been changing so quickly, we believe that “speed” is one of the most important things for the businesses in Indonesia. We sometimes even rush you work faster for your success.</li>
+							<li>To boost your business potentials, LOGIQUE can help you develop website to reach out to more potential clients worldwide or web application / mobile apps for you to simplify your marketing activity.</li>
+							<li>As a web developing agency, we are very open minded and reliable to give the best solutions to your business with web application. We are here to achieve your needs and business goals utilizing the power of internet.</li>
 						</ul>
 					</div>
 					
