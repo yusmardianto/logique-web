@@ -295,7 +295,7 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 									<div class="step-number-cont"><span>6</span></div>
 									<img src="images/img-step6.jpg" class="img-responsive">
 									<h4>Coding</h4>
-									<div class="step-text">Setelah desain dikerjakan, akan dilakukan coding oleh programmer terbaik kamu supaya halaman Anda dapat dengan mudah diakses.
+									<div class="step-text">Setelah desain dikerjakan, akan dilakukan coding oleh programmer terbaik kami supaya halaman Anda dapat dengan mudah diakses.
 									</div>
 							</div>
 							<div class="col-md-3 col-sm-6 step step7">
