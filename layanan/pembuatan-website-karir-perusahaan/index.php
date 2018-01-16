@@ -1,37 +1,37 @@
 ﻿<?php
-require_once("form/fgcontactform.php");
+// require_once("form/fgcontactform.php");
 
-$formproc = new FGContactForm();
+// $formproc = new FGContactForm();
 
-//1. Add your email address here.
-//You can add more than one receipients.
-$formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
+// //1. Add your email address here.
+// //You can add more than one receipients.
+// $formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
 
-//2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
-// and put it here
-$formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
+// //2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
+// // and put it here
+// $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
 
-//$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
+// //$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
 
-if(isset($_POST['submitted']))
-{
-    if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
-        $secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
-        // $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
-        $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
-        // print_r($verifyResponse); exit;
-        $responseData = json_decode($verifyResponse);
-        if ($responseData->success) {
-            if ($formproc->ProcessForm()) {
-                $msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
-            }
-        } else {
-            $msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
-        }
-    } else {
-        $msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
-    }
-}
+// if(isset($_POST['submitted']))
+// {
+//     if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
+//         $secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
+//         // $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
+//         $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+//         // print_r($verifyResponse); exit;
+//         $responseData = json_decode($verifyResponse);
+//         if ($responseData->success) {
+//             if ($formproc->ProcessForm()) {
+//                 $msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+//             }
+//         } else {
+//             $msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
+//         }
+//     } else {
+//         $msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
+//     }
+// }
 
 ?><!DOCTYPE html>
 <html lang="en">
@@ -57,7 +57,7 @@ if(isset($_POST['submitted']))
 				<div class="container">
 					<div class="banner-text">
 						<h1>
-							<span>Kesulitan Menemukan</span><br>
+							<span>Sulit Menemukan</span><br>
 							<span class="ytext">Karyawan Potensial</span> <br>
 							<span>untuk Perusahaan Anda?</span>
 						</h1>
@@ -73,9 +73,7 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-8">
-								<h2>KAMI HADIR UNTUK MEMBANTU ANDA!
-									<span>Buatlah halaman karir perusahaan Anda sendiri dengan bantuan LOGIQUE</span>
-								</h2>
+								<h2 style="padding-top: 15px;">KAMI HADIR UNTUK MEMBANTU ANDA!</h2>
 							</div>
 							<div class="col-sm-4 text-right">
 								 <img class="logo-logique img-responsive" src="images/logo-y-logique.png" alt="" style="float: right; margin-top:10px;">
@@ -87,32 +85,59 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 				<div  class="problem-container">
 					<div class="container">
 						<div class="problem-content row">
-							<div class="col-md-8 col-sm-8">
-								<h3>Masalah Umum yang Kerap Dialami oleh HRD</h3>
-								<div class="img-container">
-									<center>
-										<img class="problem-img1" src="images/img-problem1.png">
-										<img class="problem-img2" src="images/img-problem2.png">
-									</center>	
-								</div>
-								<span class="text-center">Untuk menghindari ketidakcocokan, <br>
-	kriteria yang harus disampaikan ke pelamar haruslah jelas!</span>
+							<div class="col-md-v col-sm-8">
+								<h3>Mungkin Anda sebagai HRD sering menghadapi <br> masalah-masalah ini dalam proses perekrutan karyawan?</h3>
+								 <div class="row">
+								 	<div class="col-sm-4">
+								 		<center><img src="images/img-problem1.png" class="img-responsive"  ></center>
+								 		<div>Melakukan pendekaran kepada relasi jaringan sosial, namun mereka menolak Anda pada komunikasi pertama</div>
+								 	</div>
+								 	<div class="col-sm-4">
+								 		<img src="images/img-problem2.png" class="img-responsive" >
+								 		<div style="font-size: 16px;">Menggunakan layanan situs pencari kerja berbayar namun jumlah pelamar sedikit, bahkan cenderung menurun pada iklan berikutnya </div>
+								 	</div>
+								 	<div class="col-sm-4">
+								 		<img src="images/img-problem3.png" class="img-responsive">
+								 		<div style="font-size: 16px;">Menggunakan agen penyalur tenaga kerja namun kualitas sera ketertarikan mereka terhadap peusahaan anda kurang</div>
+								 	</div>
+								 </div>
+							 
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="text-center problem-text">
-					<div class="arrow-up"></div>
-					<h3>Halaman Karir Perusahaan akan memudahkan pekerjaan HRD<br>
-					<span>karena pelamar telah paham tentang perusahaan melalui halaman resmi perusahaan</span> </h3>
 					
+					<div class="arrow-up"></div>
+					<div class="container">
+						
+					<h3><span class="custom-text">Banyak Perusahaan yang menghadapi kendala-kendala ini</span>
+					Logique memberikan solusi pembuatan website karir perusahaan yang dapat:
+					 </h3>
+					 <div class="row">
+							<div class="col-sm-12">
+					<div class="text-left solution-text">
+					<div class="row">
+						<div class="col-sm-4"> <div>Mengenalkan kembali visi dan misi perusahaan Anda, serta tantangan menarik bekerja diperusahaan Anda.</div></div>
+						<div class="col-sm-4"> <div> Menginformasikan banyak benefit yang disediakan perusahaan Anda bagi para pekerja.</div></div>
+						<div class="col-sm-4"> <div>Memposting lowongan yang tersedia di perusahaan Anda sehingga kandidat baik yang tertarik bekerja di perusahaan Anda bisa melihat lowongan yang cocok.</div></div>
+					 
+ 
+					<div class="col-sm-12">
+						 
+						<center>Dengan Ketiga hal tersebut, akan lebih banyak kandidat potensial yang mengetahui tentang perusahaan anda dan juga lowongan yang dibuka. Terlebih lagi dengan menampilkan poin-poin penting dan menarik dari perusahaan dapat membuat kandidat berkemampuan baik tertarik bergabung dengan perusahaan Anda.
+			 			 </center>
+					</div>
+					</div>
+				</div>
+				</div>
 				</div>
 			</section>
 			<section class="simulation-container">
 				<img src="images/img-simulation2.png" class="img-responsive " style="width: 100%;">
 				<div class="container">
 					<h2 class="text-center">
-						Simulasi Biaya Perekrutan
+						Mari Kita lihat Simulasi Biaya Perekrutan dibawah ini
 					</h2>
 					<div class="simul-cont1">
 						<div class="simul-1">Jika Anda ingin merekrut</div>
@@ -137,12 +162,14 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 							<img src="images/simulation2.png" class="img-responsive"></center>
 						</div>
 					</div>
+					<div class="col-sm-12 simul-description">
+					 Jika dilihat banyak dana dan tenaka yang Anmda habiskan di atasm, bila pada akhirnya kandidat yang masuk tidak sesuai dengan kriteria atau budaya perusahaan Anda, maka hal ini akan menjadi sia-sia dan mungkin malah menimbulkam masalah uang lain. Misalnya yang cukup ekstrim baru bekerja 1-2 hari langsung mengajukan pengunduran diri yang membuat Anda harus mengulang proses rekrutmen dari awal.
+					</div>
 					</div>
 				</div>
 				<div class="text-center simul-text">
 					<div class="arrow-up"></div>
-					<h3 class="ytext"><span>Merasa pusing dan biayanya terlalu mahal ? </span>
-						JANGAN KHAWATIR!</h3>
+					<h3 class="ytext"><span>Untuk menghidari hal-hal terserbut, kombinasikan langkah rekrutmen  yang telah</span>Anda lakukan dengan pembuatan halaman karir dari Logique</h3>
 				</div>
 			</section>
 			<section >
@@ -173,7 +200,7 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 				</div>
 			</section>
 			<section class="forwho-container">
-				<div class="container">
+				<div class="container hidden">
 					<div class="logo-logique2"><center><span class=""><img src="images/logo-y-logique.png"></span> </center></div>
 					<h3 class="custom-text">
 						<center>Teruntuk staf dan divisi HRD, <br>
@@ -261,7 +288,7 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 									<div class="step-number-cont"><span>5</span></div>
 									<img src="images/img-step5.jpg" class="img-responsive">
 									<h4>Penulisan</h4>
-									<div class="step-text">Konten dari halaman karir Anda haruslah singkat, padat, dan jelas – sesuatu yang bisa dikerjakan oleh para penulis konten kami.
+									<div class="step-text">Konten dari halaman karir Anda haruslah singkat, padat, dan jelas untuk memudahkan pengunjung menangkap isi dalaman karis Anda.
 									</div>
 							</div>
 							<div class="col-md-3 col-sm-6 step step6">

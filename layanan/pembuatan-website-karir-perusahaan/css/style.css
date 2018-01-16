@@ -146,16 +146,23 @@ header.head-banner{
 .problem-content  h3{
 	text-align: center;
 	margin-bottom: 20px;
+	line-height: 30px;
 }
 .problem-content div.img-container{
 	margin-bottom: 20px;
 }
 .problem-content div img{
-	margin:0 10px;
+	margin:0px;
 }
 .problem-text{
 	background: #ffc914;
 	padding:30px 0;
+}
+.problem-content .row div {
+	text-align: justify;
+}
+.problem-content .row div img{
+	max-width: 180px; margin-bottom: 10px;
 }
 .arrow-up{
 	  display: inline-block;
@@ -173,17 +180,34 @@ header.head-banner{
 	border-right: solid 15px transparent;
 }
 .problem-text h3{
-	font-size: 24px;
+ 	font-size: 30px;
 	color: #111;
-	font-weight: normal;
-	margin:0;
-	line-height: 24px;
+	margin:0; 
 }
 .problem-text h3 span{
-	font-size: 18px;
+	font-size: 30px;
 	display: block;
 	color: #111;
 }
+.solution-text{
+	padding-top: 25px;
+}
+.solution-text *{
+ 
+}
+ 
+
+.solution-text .row .col-sm-4{ 
+	min-height: 100px;
+	margin-bottom: 20px;
+
+}
+.solution-text .row .col-sm-4 div{ 
+	background: url(../images/icon-list1.png) no-repeat left 5px; ;
+	padding-left: 35px;
+	text-align: justify;
+}
+
 .simul-cont1{
 	text-align: center;
 	margin-top: 10px;
@@ -226,13 +250,14 @@ header.head-banner{
 	display: block;
 	color: #fff;
 	line-height: 30px;
+
 }
 .simul-text h3{
 	font-weight: normal;
 	margin-bottom: 0;
 }
 .simul-text span{
-	font-size: 18px;
+	font-size: 22px;
 	font-family: 'Architects Daughter', cursive;
 }
 .simul-text .arrow-up{
@@ -243,6 +268,10 @@ header.head-banner{
     border-bottom: solid 15px  #000;
 	border-left: solid 15px transparent;
 	border-right: solid 15px transparent;
+}
+.simul-description{
+	padding-top:20px;
+	padding-bottom: 20px;
 }
 .solution-container{
 	background: url(../images/bg-solution.jpg);
@@ -264,7 +293,7 @@ header.head-banner{
 }
 .logo-logique2 span{
 	display: inline-block;
-	background: #111;
+	background: #000;
 	padding: 15px 20px 10px;
 
 }
