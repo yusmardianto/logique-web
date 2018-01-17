@@ -1,37 +1,37 @@
 ﻿<?php
-require_once("form/fgcontactform.php");
+// require_once("form/fgcontactform.php");
 
-$formproc = new FGContactForm();
+// $formproc = new FGContactForm();
 
-//1. Add your email address here.
-//You can add more than one receipients.
-$formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
+// //1. Add your email address here.
+// //You can add more than one receipients.
+// $formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
 
-//2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
-// and put it here
-$formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
+// //2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
+// // and put it here
+// $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
 
-//$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
+// //$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
 
-if(isset($_POST['submitted']))
-{
-    if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
-        $secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
-        // $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
-        $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
-        // print_r($verifyResponse); exit;
-        $responseData = json_decode($verifyResponse);
-        if ($responseData->success) {
-            if ($formproc->ProcessForm()) {
-                $msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
-            }
-        } else {
-            $msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
-        }
-    } else {
-        $msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
-    }
-}
+// if(isset($_POST['submitted']))
+// {
+//     if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
+//         $secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
+//         // $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
+//         $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+//         // print_r($verifyResponse); exit;
+//         $responseData = json_decode($verifyResponse);
+//         if ($responseData->success) {
+//             if ($formproc->ProcessForm()) {
+//                 $msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+//             }
+//         } else {
+//             $msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
+//         }
+//     } else {
+//         $msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
+//     }
+// }
 
 ?><!DOCTYPE html>
 <html lang="en">
@@ -90,15 +90,15 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 								 <div class="row">
 								 	<div class="col-sm-4">
 								 		<center><img src="images/img-problem1.png" class="img-responsive"  ></center>
-								 		<div>Melakukan pendekaran kepada relasi jaringan sosial, namun mereka menolak Anda pada komunikasi pertama</div>
+								 		<div>Melakukan pendekatan kepada relasi jaringan sosial, namun mereka menolak Anda pada komunikasi pertama</div>
 								 	</div>
 								 	<div class="col-sm-4">
 								 		<img src="images/img-problem2.png" class="img-responsive" >
-								 		<div style="font-size: 16px;">Menggunakan layanan situs pencari kerja berbayar namun jumlah pelamar sedikit, bahkan cenderung menurun pada iklan berikutnya </div>
+								 		<div  >Menggunakan layanan situs pencari kerja berbayar namun jumlah pelamar sedikit, bahkan cenderung menurun pada iklan berikutnya </div>
 								 	</div>
 								 	<div class="col-sm-4">
 								 		<img src="images/img-problem3.png" class="img-responsive">
-								 		<div style="font-size: 16px;">Menggunakan agen penyalur tenaga kerja namun kualitas sera ketertarikan mereka terhadap peusahaan anda kurang</div>
+								 		<div >Menggunakan agen penyalur tenaga kerja namun kualitas serta ketertarikan mereka terhadap peusahaan anda kurang</div>
 								 	</div>
 								 </div>
 							 
@@ -111,7 +111,7 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 					<div class="arrow-up"></div>
 					<div class="container">
 						
-					<h3><span class="custom-text">Banyak Perusahaan yang menghadapi kendala-kendala ini</span>
+					<h3><span class="custom-text">Banyak perusahaan yang menghadapi kendala-kendala ini</span>
 					Logique memberikan solusi pembuatan website karir perusahaan yang dapat:
 					 </h3>
 					 <div class="row">
@@ -125,7 +125,7 @@ Komisi untuk agen penyalur tenaga kerja mahal?
  
 					<div class="col-sm-12">
 						 
-						<center>Dengan Ketiga hal tersebut, akan lebih banyak kandidat potensial yang mengetahui tentang perusahaan anda dan juga lowongan yang dibuka. Terlebih lagi dengan menampilkan poin-poin penting dan menarik dari perusahaan dapat membuat kandidat berkemampuan baik tertarik bergabung dengan perusahaan Anda.
+						<center>Dengan ketiga hal tersebut, akan lebih banyak kandidat potensial yang mengetahui tentang perusahaan anda dan juga lowongan yang dibuka. Terlebih lagi dengan menampilkan poin-poin penting dan menarik dari perusahaan dapat membuat kandidat berkemampuan baik tertarik bergabung dengan perusahaan Anda.
 			 			 </center>
 					</div>
 					</div>
@@ -163,13 +163,13 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 						</div>
 					</div>
 					<div class="col-sm-12 simul-description">
-					 Jika dilihat banyak dana dan tenaka yang Anmda habiskan di atasm, bila pada akhirnya kandidat yang masuk tidak sesuai dengan kriteria atau budaya perusahaan Anda, maka hal ini akan menjadi sia-sia dan mungkin malah menimbulkam masalah uang lain. Misalnya yang cukup ekstrim baru bekerja 1-2 hari langsung mengajukan pengunduran diri yang membuat Anda harus mengulang proses rekrutmen dari awal.
+					 Jika dilihat banyak dana dan tenaga yang Anda habiskan di atas, bila pada akhirnya kandidat yang masuk tidak sesuai dengan kriteria atau budaya perusahaan Anda, maka hal ini akan menjadi sia-sia dan mungkin malah menimbulkan masalah yang lain. Misalnya yang cukup ekstrim baru bekerja 1-2 hari langsung mengajukan pengunduran diri yang membuat Anda harus mengulang proses rekrutmen dari awal.
 					</div>
 					</div>
 				</div>
 				<div class="text-center simul-text">
 					<div class="arrow-up"></div>
-					<h3 class="ytext"><span>Untuk menghidari hal-hal terserbut, kombinasikan langkah rekrutmen  yang telah</span>Anda lakukan dengan pembuatan halaman karir dari Logique</h3>
+					<h3 class="ytext"><span>Untuk menghidari hal-hal tersebut, kombinasikan langkah rekrutmen  yang telah</span>Anda lakukan dengan pembuatan halaman karir dari Logique</h3>
 				</div>
 			</section>
 			<section >
