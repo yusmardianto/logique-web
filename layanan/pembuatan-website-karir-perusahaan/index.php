@@ -1,37 +1,37 @@
 ﻿<?php
-require_once("form/fgcontactform.php");
+// require_once("form/fgcontactform.php");
 
-$formproc = new FGContactForm();
+// $formproc = new FGContactForm();
 
-//1. Add your email address here.
-//You can add more than one receipients.
-$formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
+// //1. Add your email address here.
+// //You can add more than one receipients.
+// $formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
 
-//2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
-// and put it here
-$formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
+// //2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
+// // and put it here
+// $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
 
-//$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
+// //$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
 
-if(isset($_POST['submitted']))
-{
-    if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
-        $secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
-        // $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
-        $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
-        // print_r($verifyResponse); exit;
-        $responseData = json_decode($verifyResponse);
-        if ($responseData->success) {
-            if ($formproc->ProcessForm()) {
-                $msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
-            }
-        } else {
-            $msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
-        }
-    } else {
-        $msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
-    }
-}
+// if(isset($_POST['submitted']))
+// {
+//     if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
+//         $secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
+//         // $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
+//         $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+//         // print_r($verifyResponse); exit;
+//         $responseData = json_decode($verifyResponse);
+//         if ($responseData->success) {
+//             if ($formproc->ProcessForm()) {
+//                 $msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+//             }
+//         } else {
+//             $msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
+//         }
+//     } else {
+//         $msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
+//     }
+// }
 
 ?><!DOCTYPE html>
 <html lang="en">
@@ -88,17 +88,18 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 							<div class="col-md-v col-sm-8">
 								<h3>Mungkin Anda sebagai HRD sering menghadapi <br> masalah-masalah ini dalam proses perekrutan karyawan?</h3>
 								 <div class="row">
-								 	<div class="col-sm-4">
-								 		<center><img src="images/img-problem1.png" class="img-responsive"  ></center>
-								 		<div>Melakukan pendekatan kepada relasi jaringan sosial, namun mereka menolak Anda pada komunikasi pertama</div>
-								 	</div>
+								 	
 								 	<div class="col-sm-4">
 								 		<img src="images/img-problem2.png" class="img-responsive" >
-								 		<div  >Menggunakan layanan situs pencari kerja berbayar namun jumlah pelamar sedikit, bahkan cenderung menurun pada iklan berikutnya </div>
+								 		<div>Terus menggunakan layanan situs pencari kerja namun jumlah pelamar sedikit, bahkan cenderung menurun. </div>
 								 	</div>
 								 	<div class="col-sm-4">
 								 		<img src="images/img-problem3.png" class="img-responsive">
-								 		<div >Menggunakan agen penyalur tenaga kerja namun kualitas serta ketertarikan mereka terhadap peusahaan anda kurang</div>
+								 		<div >Pakai jasa agen penyalur tenaga kerja namun kualitas tidak sebanding dengan harga.</div>
+								 	</div>
+								 	<div class="col-sm-4">
+								 		<center><img src="images/img-problem1.png" class="img-responsive"  ></center>
+								 		<div>Cari kandidat di jaringan sosial namun mereka sudah menolak Anda dari awal.</div>
 								 	</div>
 								 </div>
 							 
@@ -112,20 +113,18 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 					<div class="container">
 						
 					<h3><span class="custom-text">Banyak perusahaan yang menghadapi kendala-kendala ini</span>
-					Logique memberikan solusi pembuatan website karir perusahaan yang dapat:
+					Logique memberikan solusi pembuatan website karir perusahaan yang mampu:
 					 </h3>
 					 <div class="row">
 							<div class="col-sm-12">
 					<div class="text-left solution-text">
 					<div class="row">
-						<div class="col-sm-4"> <div>Mengenalkan kembali visi dan misi perusahaan Anda, serta tantangan menarik bekerja diperusahaan Anda.</div></div>
+						<div class="col-sm-4"> <div>Mengenalkan kembali visi dan misi perusahaan Anda, serta tantangan menarik bekerja di perusahaan Anda.</div></div>
 						<div class="col-sm-4"> <div> Menginformasikan banyak benefit yang disediakan perusahaan Anda bagi para pekerja.</div></div>
-						<div class="col-sm-4"> <div>Memposting lowongan yang tersedia di perusahaan Anda sehingga kandidat baik yang tertarik bekerja di perusahaan Anda bisa melihat lowongan yang cocok.</div></div>
-					 
- 
+						<div class="col-sm-4"> <div>Memposting lowongan yang tersedia sehingga kandidat yang tertarik bekerja di perusahaan Anda bisa melihat lowongan yang cocok.</div></div>
 					<div class="col-sm-12">
 						 
-						<center>Dengan ketiga hal tersebut, akan lebih banyak kandidat potensial yang mengetahui tentang perusahaan anda dan juga lowongan yang dibuka. Terlebih lagi dengan menampilkan poin-poin penting dan menarik dari perusahaan dapat membuat kandidat berkemampuan baik tertarik bergabung dengan perusahaan Anda.
+						<center>Ketiga hal tersebut membuat lebih banyak kandidat potensial yang mengetahui tentang perusahaan dan lowongan Anda.<br> Terlebih lagi benefit menarik pada website karir dapat membuat kandidat tertarik untuk bergabung.
 			 			 </center>
 					</div>
 					</div>
@@ -163,13 +162,13 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 						</div>
 					</div>
 					<div class="col-sm-12 simul-description">
-					 Jika dilihat banyak dana dan tenaga yang Anda habiskan di atas, bila pada akhirnya kandidat yang masuk tidak sesuai dengan kriteria atau budaya perusahaan Anda, maka hal ini akan menjadi sia-sia dan mungkin malah menimbulkan masalah yang lain. Misalnya yang cukup ekstrim baru bekerja 1-2 hari langsung mengajukan pengunduran diri yang membuat Anda harus mengulang proses rekrutmen dari awal.
+					 <center>Bila pada akhirnya kandidat yang masuk tidak sesuai dengan kriteria atau budaya perusahaan Anda, maka biaya dan tenaga yang Anda habiskan akan menjadi sia-sia. Bahkan, ada potensi menimbulkan masalah lain seperti pengajuan pengunduran diri dalam waktu dekat yang membuat Anda harus mengulang proses rekrutmen dari awal.</center>
 					</div>
 					</div>
 				</div>
 				<div class="text-center simul-text">
 					<div class="arrow-up"></div>
-					<h3 class="ytext"><span>Untuk menghidari hal-hal tersebut, kombinasikan langkah rekrutmen  yang telah</span>Anda lakukan dengan pembuatan halaman karir dari Logique</h3>
+					<h3 class="ytext"><span>Hindari hal-hal tersebut dengan mengkombinasikan </span>langkah rekrutmen Anda dengan pembuatan halaman karir dari Logique</h3>
 				</div>
 			</section>
 			<section >
@@ -265,14 +264,14 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 									<div class="step-number-cont"><span>2</span></div>
 									<img src="images/img-step2.jpg" class="img-responsive">
 									<h4>Perencanaan</h4>
-									<div class="step-text">Setelah berdiskusi, kami akan mulai merencanakan konsep dari halaman karir perusahaan Anda nantinya. <br>&nbsp;
+									<div class="step-text">Kami akan berdiskusi dengan Anda mengenai preferensi dan konsep halaman karir. <br>&nbsp;
 									</div>
 							</div>
 							<div class="col-md-3 col-sm-6  step step3">
 									<div class="step-number-cont"><span>3</span></div>
 									<img src="images/img-step3.jpg" class="img-responsive">
 									<h4>Desain</h4>
-									<div class="step-text">Halaman karir yang baik didukung dengan desain yang menarik. Pemilihan desain merupakan komponen penting dari halaman karir Anda. 
+									<div class="step-text">Pembuatan desain yang menarik dan pengambilan foto akan dilakukan sebagai komponen penting dari halaman karir tersebut. 
 									</div>
 							</div>
 							<div class="col-md-3 col-sm-6 step step4">
@@ -288,7 +287,7 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 									<div class="step-number-cont"><span>5</span></div>
 									<img src="images/img-step5.jpg" class="img-responsive">
 									<h4>Penulisan</h4>
-									<div class="step-text">Konten dari halaman karir Anda haruslah singkat, padat, dan jelas untuk memudahkan pengunjung menangkap isi dalaman karis Anda.
+									<div class="step-text">Kami membantu Anda merangkum dan menampilkan konten yang mudah dimengerti oleh pengunjung.
 									</div>
 							</div>
 							<div class="col-md-3 col-sm-6 step step6">
@@ -309,7 +308,7 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 									<div class="step-number-cont"><span>8</span></div>
 									<img src="images/img-step8.jpg" class="img-responsive">
 									<h4>Halaman karir selesai!</h4>
-									<div class="step-text">Setelah berkonsultasi dengan kami, akhirnya jadilah halaman karir perusahaan Anda yang siap digunakan.
+									<div class="step-text">Halaman Karir Selesai!: Halaman karir siap digunakan untuk membantu proses rekrutmen perusahaan Anda.
 									</div>
 							</div>
 						</div>
