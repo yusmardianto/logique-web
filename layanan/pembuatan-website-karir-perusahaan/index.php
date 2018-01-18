@@ -255,14 +255,14 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 						<div class="row">
 							 
 							<div class="col-md-3 col-sm-6 step step2">
-									<div class="step-number-cont"><span>2</span></div>
+									<div class="step-number-cont"><span>1</span></div>
 									<img src="images/img-step2.jpg" class="img-responsive">
 									<h4>Perencanaan</h4>
 									<div class="step-text">Kami akan berdiskusi dengan Anda mengenai preferensi dan konsep halaman karir. <br>&nbsp;
 									</div>
 							</div>
 							<div class="col-md-3 col-sm-6  step step3">
-									<div class="step-number-cont"><span>3</span></div>
+									<div class="step-number-cont"><span>2</span></div>
 									<img src="images/img-step3.jpg" class="img-responsive">
 									<h4>Desain</h4>
 									<div class="step-text">Pembuatan desain yang menarik dan pengambilan foto akan dilakukan sebagai komponen penting dari halaman karir tersebut. 
@@ -271,7 +271,7 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 							 
 						 
 							<div class="col-md-3 col-sm-6 step step5">
-									<div class="step-number-cont"><span>5</span></div>
+									<div class="step-number-cont"><span>3</span></div>
 									<img src="images/img-step5.jpg" class="img-responsive">
 									<h4>Penulisan</h4>
 									<div class="step-text">Kami membantu Anda merangkum dan menampilkan konten yang mudah dimengerti oleh pengunjung.
@@ -279,7 +279,7 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 							</div>
 							 
 							<div class="col-md-3 col-sm-6 step step8">
-									<div class="step-number-cont"><span>8</span></div>
+									<div class="step-number-cont"><span>4</span></div>
 									<img src="images/img-step8.jpg" class="img-responsive">
 									<h4>Halaman karir selesai!</h4>
 									<div class="step-text">Halaman karir siap digunakan untuk membantu proses rekrutmen perusahaan Anda.
