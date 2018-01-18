@@ -162,6 +162,11 @@
 										<br><a target="_blank" href="layanan/pembuatan-website-karir-perusahaan/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Website Restoran</b><br/>
+										Kami menyediakan layanan pembuatan website untuk restoran yang dapat secara efektif membantu pemilik restoran menyampaikan informasi seputar restoran. Informasi tersebut dapat berupa menu terbaru, harga, kontak reservasi, lokasi, atau event yang berlangsung di restoran tersebut. Adanya website membantu mempromosikan restoran Anda tanpa henti 24/7.
+										<br><a target="_blank" href="layanan/pembuatan-website-restoran/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
+									</li>
+									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website dengan Desain Responsif </b><br/>
 										Desain responsif merupakan suatu teknologi yang saat ini sedang populer, yang mampu membuat website Anda dapat dilihat dengan baik pada tampilan berukuran smartphone atau tablet. Hal ini sangat penting karena website di Indonesia mempunyai tingkat kunjungan yang sangat besar dari pengguna smartphone atau tablet, dan LOGIQUE dapat membantu Anda dengan pengalaman dan pengetahuan yang kami miliki terhadap teknologi responsif ini.
 									</li>
