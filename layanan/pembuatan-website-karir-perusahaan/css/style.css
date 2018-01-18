@@ -339,6 +339,9 @@ header.head-banner{
 .reason-container .row{
 	margin-top: 15px
 }
+.reason-container .row div{
+	padding-top: 15px;
+}
 .step-container{
 	margin:40px 0;
 }
