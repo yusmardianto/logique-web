@@ -39,11 +39,11 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content=" ">
-	<meta name="keywords" content="  ">
-	<meta name="author" content=" ">
+    <meta name="description" content="LOGIQUE menyediakan layanan pembuatan website karir perusahaan untuk memudahkan pekerjaan HRD dan meningkatkan kualitas dalam rekrutmen.">
+	<meta name="keywords" content="website karir, karir perusahaan, jasa website karir, logique">
+	<meta name="author" content="Logique Digital Indonesia">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Pembuatan website karir perusahaan</title>
+    <title>Layanan Website Karir Perusahaan | Logique Digital Indonesia</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
@@ -76,7 +76,7 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 								<h2 style="padding-top: 15px;">KAMI HADIR UNTUK MEMBANTU ANDA!</h2>
 							</div>
 							<div class="col-sm-4 text-right">
-								 <img class="logo-logique img-responsive" src="images/logo-y-logique.png" alt="" style="float: right; margin-top:10px;">
+								 <a href=" target="_blank"" target="_blank"><img class="logo-logique img-responsive" src="images/logo-y-logique.png" alt="" style="float: right; margin-top:10px;"></a>
 							</div>
 						</div>
 					</div>
@@ -390,7 +390,7 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 					<div class="row">
 						<div class="col-md-3 col-sm-4">
 							<h3>HUBUNGI KAMI </h3>
-							<img src="images/logo-y-logique.png" alt="logo-footer" class="img-responsive">
+							<a href="https://www.logique.co.id/" target="_blank"><img src="images/logo-y-logique.png" alt="logo-footer" class="img-responsive">
 							<p>LOGIQUE DIGITAL INDONESIA<br>
 Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5 
 Ragunan, <br>Ps. Minggu, Jakarta Selatan,<br> Indonesia 12550</p>
