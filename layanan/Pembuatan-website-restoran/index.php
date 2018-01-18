@@ -4,11 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content=" ">
-	<meta name="keywords" content="  ">
-	<meta name="author" content=" ">
+    <meta name="description" content="LOGIQUE menyediakan layanan pembuatan website restoran untuk meningkatkan pemasaran resoran anda">
+	<meta name="keywords" content="website restoran, restoran, jasa website restoran, logique">
+	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> -->
-    <title>Pembuatan Website Restoran</title>
+    <title>Layanan Website Restoran | Logique Digital Indonesia</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
