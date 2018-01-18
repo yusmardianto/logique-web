@@ -86,7 +86,7 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 					<div class="container">
 						<div class="problem-content row">
 							<div class="col-md-v col-sm-8">
-								<h3>Mungkin Anda sebagai HRD sering menghadapi <br> masalah-masalah ini dalam proses perekrutan karyawan?</h3>
+								<h3 style="text-align: left;">Mungkin Anda sebagai HRD sering menghadapi masalah ini <br>dalam proses perekrutan karyawan?</h3>
 								 <div class="row">
 								 	
 								 	<div class="col-sm-4">
@@ -120,11 +120,11 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 					<div class="text-left solution-text">
 					<div class="row">
 						<div class="col-sm-4"> <div>Mengenalkan kembali visi dan misi perusahaan Anda, serta tantangan menarik bekerja di perusahaan Anda.</div></div>
-						<div class="col-sm-4"> <div> Menginformasikan banyak benefit yang disediakan perusahaan Anda bagi para pekerja.</div></div>
+						<div class="col-sm-4"> <div> Menginformasikan banyak <i>benefit</i> yang disediakan perusahaan Anda bagi para pekerja.</div></div>
 						<div class="col-sm-4"> <div>Memposting lowongan yang tersedia sehingga kandidat yang tertarik bekerja di perusahaan Anda bisa melihat lowongan yang cocok.</div></div>
 					<div class="col-sm-12">
 						 
-						<center>Ketiga hal tersebut membuat lebih banyak kandidat potensial yang mengetahui tentang perusahaan dan lowongan Anda.<br> Terlebih lagi benefit menarik pada website karir dapat membuat kandidat tertarik untuk bergabung.
+						<center>Ketiga hal tersebut membuat lebih banyak kandidat potensial yang mengetahui tentang perusahaan dan lowongan Anda.<br> Terlebih lagi <i>benefit</i> menarik pada website karir dapat membuat kandidat tertarik untuk bergabung.
 			 			 </center>
 					</div>
 					</div>
@@ -168,7 +168,7 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 				</div>
 				<div class="text-center simul-text">
 					<div class="arrow-up"></div>
-					<h3 class="ytext"><span>Hindari hal-hal tersebut dengan mengkombinasikan </span>langkah rekrutmen Anda dengan pembuatan halaman karir dari Logique</h3>
+					<h3 class="ytext"><span>Hindari hal-hal tersebut dengan mengombinasikan </span>langkah rekrutmen Anda dengan pembuatan halaman karir dari Logique</h3>
 				</div>
 			</section>
 			<section >
@@ -248,7 +248,48 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 					</div>
 				</div>
 			</section>
-			<section class="step-container">
+			<section class="step-container ">
+				<div class="container">
+					<h3><center>Langkah-Langkah Membuat Halaman Karir</center></h3>
+					<div class="stepbystep">
+						<div class="row">
+							 
+							<div class="col-md-3 col-sm-6 step step2">
+									<div class="step-number-cont"><span>2</span></div>
+									<img src="images/img-step2.jpg" class="img-responsive">
+									<h4>Perencanaan</h4>
+									<div class="step-text">Kami akan berdiskusi dengan Anda mengenai preferensi dan konsep halaman karir. <br>&nbsp;
+									</div>
+							</div>
+							<div class="col-md-3 col-sm-6  step step3">
+									<div class="step-number-cont"><span>3</span></div>
+									<img src="images/img-step3.jpg" class="img-responsive">
+									<h4>Desain</h4>
+									<div class="step-text">Pembuatan desain yang menarik dan pengambilan foto akan dilakukan sebagai komponen penting dari halaman karir tersebut. 
+									</div>
+							</div>
+							 
+						 
+							<div class="col-md-3 col-sm-6 step step5">
+									<div class="step-number-cont"><span>5</span></div>
+									<img src="images/img-step5.jpg" class="img-responsive">
+									<h4>Penulisan</h4>
+									<div class="step-text">Kami membantu Anda merangkum dan menampilkan konten yang mudah dimengerti oleh pengunjung.
+									</div>
+							</div>
+							 
+							<div class="col-md-3 col-sm-6 step step8">
+									<div class="step-number-cont"><span>8</span></div>
+									<img src="images/img-step8.jpg" class="img-responsive">
+									<h4>Halaman karir selesai!</h4>
+									<div class="step-text">Halaman karir siap digunakan untuk membantu proses rekrutmen perusahaan Anda.
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- <section class="step-container hidden">
 				<div class="container">
 					<h3><center>Langkah-Langkah Membuat Halaman Karir</center></h3>
 					<div class="stepbystep">
@@ -314,7 +355,7 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 			<section>
 				<div class="testimonial-container">
 					<div class="container">

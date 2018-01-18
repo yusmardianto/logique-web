@@ -339,6 +339,9 @@ header.head-banner{
 .reason-container .row{
 	margin-top: 15px
 }
+.reason-container .row div{
+	padding-top: 15px;
+}
 .step-container{
 	margin:40px 0;
 }
@@ -349,8 +352,7 @@ header.head-banner{
 	border: 1px solid #111;
 	padding-bottom:10px;
 	border-right: 0;
-	min-height: 390px;
-	border-bottom: 0;
+	min-height: 360px;
 }
 .step:nth-child(4){
 	border-right: 1px solid #111;
