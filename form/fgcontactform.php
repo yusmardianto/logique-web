@@ -46,12 +46,12 @@ class FGContactForm
         $this->receipent = ['info@logique.co.id']; // set custom recipient here
 
         // Setting SMTP
-        $this->smtpHost = '';                       // Set the SMTP host, eq : smtp.gmail.com
+        $this->smtpHost = 'smtp.postmarkapp.com';                       // Set the SMTP host, eq : smtp.gmail.com
         $this->smtpPort = 587;                      // Set the SMTP port number - 587 for authenticated TLS, a.k.a. RFC4409 SMTP submission
         $this->smtpEncryption = 'tls';              // Set the encryption system to use - ssl (deprecated) or tls
         $this->smtpAuth = true;                     // SMTP authentication ?
-        $this->smtpUsername = "username@gmail.com"; // Username to use for SMTP authentication - use full email address for gmail
-        $this->smtpPassword = "password";           // Password to use for SMTP authentication $phpmailer->isSMTP();
+        $this->smtpUsername = "0d89a28b-12f2-488d-a65f-32c2d74027ca"; // Username to use for SMTP authentication - use full email address for gmail
+        $this->smtpPassword = "0d89a28b-12f2-488d-a65f-32c2d74027ca";           // Password to use for SMTP authentication $phpmailer->isSMTP();
 
     }
 
