@@ -76,7 +76,7 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 								<h2 style="padding-top: 15px;">KAMI HADIR UNTUK MEMBANTU ANDA!</h2>
 							</div>
 							<div class="col-sm-4 text-right">
-								 <a href=" target="_blank"" target="_blank"><img class="logo-logique img-responsive" src="images/logo-y-logique.png" alt="" style="float: right; margin-top:10px;"></a>
+								 <a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"" target="_blank"><img class="logo-logique img-responsive" src="images/logo-y-logique.png" alt="" style="float: right; margin-top:10px;"></a>
 							</div>
 						</div>
 					</div>
