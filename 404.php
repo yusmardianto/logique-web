@@ -11,9 +11,9 @@
     <title>Not Found</title>
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
 	
-    <link href="css/style.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
     
@@ -32,37 +32,37 @@
 				<div class="logique-nav">
 					<div class="margin-for-nav">
 						<div class="text-center">
-							<a href="index.php">
+							<a href="/index.php">
 								<div class="img-home"></div>
 								Beranda
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="tentang-kami.php">
+							<a href="/tentang-kami.php">
 								<div class="img-about"></div>
 								Tentang Kami
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="portofolio.php">
+							<a href="/portofolio.php">
 								<div class="img-portfolio"></div>
 								Portfolio
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="layanan.php">
+							<a href="/layanan.php">
 								<div class="img-services"></div>
 								Services
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="karir.php">
+							<a href="/karir.php">
 								<div class="img-career"></div>
 								Karir
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="hubungi-kami.php">
+							<a href="/hubungi-kami.php">
 								<div class="img-contact"></div>
 								Hubungi Kami
 							</a>
@@ -79,8 +79,8 @@
 			
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
-				<video poster="img/video-img.png" id="bgvid" playsinline autoplay muted loop>
-					<source src="img/12377093.mp4" type="video/mp4">
+				<video poster="/img/video-img.png" id="bgvid" playsinline autoplay muted loop>
+					<source src="/img/12377093.mp4" type="video/mp4">
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
@@ -90,11 +90,11 @@
 					<div class="col-sm-offset-1 col-sm-10">
 						<div class="lang-logo">
 							<ul class="list-inline">
-								<li><a href="en/index.php">EN</a></li>
-								<li class="active"><a href="index.php">ID</a></li>
-								<li><a href="jp/index.php">JP</a></li>
+								<li><a href="/en/index.php">EN</a></li>
+								<li class="active"><a href="/index.php">ID</a></li>
+								<li><a href="/jp/index.php">JP</a></li>
 							</ul>
-							<a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo"/></a>
+							<a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo"/></a>
 						</div>
 					</div>
 				</div>
