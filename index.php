@@ -11,7 +11,7 @@
 	<meta property="og:title" content="Jasa Pembuatan Website dan SEO | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://logique.co.id/">
+	<meta property="og:url" content="https://www.logique.co.id/">
 	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
 	<meta property="og:description" content="Jasa pembuatan website dan SEO berkualitas di Jakarta, konsultasikan kebutuhan digital Anda melalui LOGIQUE, Web Developer asal Jepang no. 1 di Indonesia.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">

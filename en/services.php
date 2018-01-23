@@ -147,31 +147,62 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Corporate Website creation</b><br/>
-										We develop a website that effectively tells visitors the value of your company brand, We also can provide you domain / web server / SSL agent service, and contents creation service depending on your needs. Our website solutions are creative, functional and highly engaging. We bring clarity and simplicity to this complex discipline and keep at the forefront of the key technologies and trends that direct the online world.
+										We develop a website that effectively tells visitors the value of your company brand. We also can provide you domain / web server / SSL agent service, photo / video shooting service, and contents creation service depending on your needs as you can see that we worked on projects in various industries. We can develop your website within a month if everything goes smoothly. Our website solutions are creative, functional and highly engaging. We bring clarity and simplicity to this complex discipline and keep at the forefront of the key technologies and trends that direct the online world.
+										<br/><br/>
+										<div class="row text-center service-portfolio">
+											<div class="col-sm-5 col-sm-offset-1">
+												<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank">
+												<img src="/img/portfolio/dmi.png" class="img-responsive center-block">
+												DMI<br>
+												</a>
+											</div>
+											<div class="col-sm-5">
+												<a href="http://www.moresco.co.id/" target="_blank">
+												<img src="/img/portfolio/moresco.png" class="img-responsive center-block">
+												MORESCO<br>
+												</a>
+											</div>
+										</div>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Multi-language Website creation</b><br/>
-										A high-quality multilingual website allows you to effectively target customers across the globe. LOGIQUE delivers cost-effective multilingual website solutions that enable you to connect and engage with customers in local markets. We have much developing experiences in multilingual website with English, Indonesian, and Japanese language. Other than the creation of website itself, also feel free to contact us for also translation / correction as well.
+										A high-quality multilingual website allows you to effectively target customers across the globe. LOGIQUE delivers cost-effective multilingual website solutions that enable you to connect and engage with customers in local markets. We develop pages that are light enough to be loaded fast with Indonesian internet connection with appealing design to Indonesian market. We have much developing experiences in multilingual website with English, Indonesian, and Japanese language. Other than the creation of website itself, also feel free to contact us for also translation / correction as well.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Service Website Development</b><br/>
-										We can help you to develop from business planning up to design creation, system Website development / maintenance when you wish to develop websites such as Used car auction website, Human Resource matching website, E-commerce, and Member management CRM Website.
+										We can help you to develop from business planning up to design creation, system Website development / maintenance when you wish to develop websites such as Used car auction website, point management website, Human Resource matching website, E-commerce, closed community website and Member management CRM Website.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Recruitment Website Creation</b><br/>
-										Nowadays, it is getting harder for companies to hire an ideal human resource for their business. To have your own recruitment website is the key to succeed in hiring.
+										Nowadays, it is getting harder for companies to hire an ideal human resource for their business. To have your own recruitment website is the key to succeed in hiring. It will be the key to tell the visitors about your company, employees, and human resources that you are looking for with clear message (e.g. utilizing interview video).
+										<br/><br/>
+										<div class="row text-center service-portfolio">
+											<div class="col-sm-5 col-sm-offset-1">
+												<a href="http://trendpot-recruit.asia/index.php" target="_blank">
+												<img src="/img/portfolio/trendpot.png" class="img-responsive center-block">
+												TRENDPOT<br><br>
+												</a>
+											</div>
+											<div class="col-sm-5">
+												<a href="https://www.dipostar.com/id/tentang-hrd.htm" target="_blank">
+												<img src="/img/portfolio/dsf.png" class="img-responsive center-block">
+												DIPO STAR FINANCE<br><br>
+												</a>
+											</div>
+										</div>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Mobile / Responsive Website Creation</b><br/>
-										Responsive coding is trending technology to fit your website into smartphone / tablet sized screen. As Indonesia has the notable amount of smartphone traffics, LOGIQUE can propose you projects that can fit with Indonesian market bringing many experiences and knowledges we had in developing responsive websites.
+										Responsive coding is trending technology to fit your website into smartphone / tablet sized screen. As Indonesia has the notable amount of smartphone traffics, LOGIQUE can propose you projects that can fit with Indonesian market bringing many experiences and knowledges we had in developing responsive websites. We can also maintain responsive websites that are coded with frameworks other than Bootstrap.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>LP / Campaign Website creation</b><br/>
-										If you’re looking to revamp an existing Landing Page design or have a Landing Page Design to HTML/Website conversion need, LOGIQUE is the best choice to develop an SEO and user-friendly website. LOGIQUE team has experience of working with multiple business industries landing pages. Our Landing Page Designers are great in customizing an existing Page with experience of integrating / customizing Plugin/apps i.e. Mailchimp & Others. Feel free to contact us about Landing page / Campaign page. We develop your landing page even if you want us to develop only 1 page. 
+										If you’re looking to revamp an existing Landing Page design or have a Landing Page Design to HTML/Website conversion need, LOGIQUE is the best choice to develop an SEO and user-friendly website. We can also develop multi-page website to conduct A / B test that leads you conversions. LOGIQUE team has experience of working with multiple business industries landing pages. Our Landing Page Designers are great in customizing an existing Page with experience of integrating / customizing Plugin/apps i.e. Mailchimp & Others. <br/>
+										We are flexible enough to meet your needs such as installment of AMP, conducting A / B test with multi landing page, revamping only inquiry page, HTML5 banner creation, and much more! Feel free to contact us about Landing page / Campaign page. We develop your landing page even if you want us to develop only 1 page.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Blog</b><br/>
-										Installation & customization of Wordpress. We design & develop your blog. In case you want to customize. If you want to improve your blog / enhance security, leave it to us.
+										Installation & customization of Wordpress. We design & develop your blog. In case you want to customize. If you want to improve your blog / enhance security, leave it to us. Nowadays we see, as a professional, there are many blogs that have security issues.
 									</li>
 								</ol>
 							  </div>
@@ -187,6 +218,10 @@
 							</div>
 							<div id="web-system" class="panel-collapse collapse">
 							  <div class="panel-body">
+								<p>
+							  		We reasonably and flexibly develop a high-quality system development with latest technologies. We are expertized in coding with PHP framework. We have numerous experiences in developing with Laravel, Symfony, CakePHP. We also aim to develop website that can be build quick and easy to maintain.
+							  	</p>
+							  	<br/>
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Custom CMS development / Maintenance</b><br/>
@@ -203,6 +238,11 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Campaign Management / Contest Application Management System</b><br/>
 										We often develop back-end management system other than campaign web page itself. We develop Campaign / Contest Application system integrating various functions , such as managing applicatnts, informing the result to winners, developing main system development.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Recruit Management System</b><br/>
+										Our product “Sugoi-Saiyo” recruit management system can dramatically change the way of your recruitment activity.
+										It is a tough work to hire employees in Indonesia. Sometimes you waste so much time by spending so much time to filter massive amount of CVs or candidates don't show up on appointed schedule. “Sugoi-Saiyo” allows you to proceed your recruitment activity much more efficiently by providing all the candidates to have “My Page” and providing recruiter online interview integrated with WhatsApp.
 									</li>
 								</ol>
 							  </div>
@@ -279,7 +319,15 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Web Server & Domain Agent Service</b><br/>
-										We will provide you agent service to obtain "co.id" (Indonesian corporate domain), setup DNS, setup SSL. We also can rent a Web server for you.
+										We will provide you agent service to obtain "co.id" (Indonesian corporate domain), setup DNS, setup GlobalSign SSL. We also can rent a web server such as AWS for you / provide web hosting. 
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>IT Business Consulting</b><br/>
+										We are providing various consulting / advisory service in “Indonesia x IT” field such as business operation consulting by utilizing IT, IT tool selection advisory, IT security assessment, internet business launching support, and much more.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>WEB Security Assesment (Vulnerability Scanning / Test)</b><br/>
+										We test and report the vulnerability of your web-application. With the scanning, you can protect your web-application from being attacked by SQL injection, cross-site scripting, session-jacking, etc. Our expert will conduct the test utilizing scanning tools. We can conduct the vulnerability test and reporting starting from 10,000,000 IDR.
 									</li>
 								</ol>
 							  </div>
