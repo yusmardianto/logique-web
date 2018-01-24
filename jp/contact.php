@@ -46,7 +46,7 @@ if(isset($_POST['submitted']))
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/contact.php">
-	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="LOGIQUEはインドネシア、他の東南アジアの国でクライアントのWEBマーケティングをWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などで成功に導いてきました。インドネシアでWEBを成功のキーとお考えであれば、LOGIQUEにご相談ください。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <title>インドネシアのウェブ/ホームページの制作、運用に関するお問い合わせ | LOGIQUE デジタルインドネシア</title>

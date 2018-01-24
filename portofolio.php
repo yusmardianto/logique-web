@@ -11,7 +11,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/portfolio.php">
-	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Jasa pembuatan website dan aplikasi untuk klien nasional dan internasional. Buka dan temukan contoh hasil kerja LOGIQUE di sini.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Portofolio Website dan Aplikasi | LOGIQUE Digital Indonesia</title>

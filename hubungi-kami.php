@@ -47,7 +47,7 @@ if(isset($_POST['submitted']))
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/contact.php">
-	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Punya kebutuhan jasa pembuatan website dan aplikasi atau percetakan kartu nama, pembuatan profile perusahaan dan brosur? LOGIQUE siap membantu Anda.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Jasa Pembuatan Website | Hubungi | LOGIQUE digital indonesia</title>

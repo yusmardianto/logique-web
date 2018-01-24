@@ -11,7 +11,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/joinus.php">
-	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="LOGIQUE is looking for web programmer, web designer, designer, content writer. Do not hesitate to apply If you agree with LOGIQUE's Philosophy.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <title>Join the best website / web-system developer in Jakarta  | LOGIQUE Digital Indonesia</title>

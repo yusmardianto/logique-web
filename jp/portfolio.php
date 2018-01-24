@@ -11,7 +11,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/portfolio.php">
-	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="LOGIQUEの制作実績を紹介します。LOGIQUEは、ジャカルタのウェブ制作会社です。ジャカルタを中心としたインドネシア国内で、数多くのWEBサイト(ホームページ)制作/システム構築、パンフレット、カタログ等印刷物のデザインまで制作を行ってまいりました。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <title>インドネシアのウェブデザイン制作会社 | ホームページ制作実績 | LOGIQUE</title>
