@@ -46,7 +46,7 @@ if(isset($_POST['submitted']))
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/contact.php">
-	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Please feel free to contact us and ask anything about website creation, web-system development, web-marketing, designing, mobile application development etc, in Indonesia.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <title>Inquiry about website / web-system and maintenance in Jakarta | LOGIQUE Digital Indonesia</title>

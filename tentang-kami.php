@@ -11,7 +11,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/about.php">
-	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="LOGIQUE adalah Web Developer asal Jepang yang bekerja dengan standar internasional serta mempunyai pengalaman lebih dari 5 tahun di Indonesia.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Web Developer Berkualitas Jepang | LOGIQUE Digital Indonesia</title>

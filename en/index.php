@@ -12,7 +12,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://logique.co.id/en">
-	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="If you are seeking for a web developer to build websites, system development, web marketing, mobile application development, social media, pamphlets etc, please leave it to LOGIQUE Digital Indonesia, the No.1 website / web developer in Indonesia.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <script>

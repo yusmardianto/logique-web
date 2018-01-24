@@ -11,7 +11,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/joinus.php">
-	<meta property="og:image" content="https://www.logique.co.id/img/logo.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="LOGIQUE menyediakan lowongan kerja Web Developer dan kerjasama marketing menarik untuk Anda. Ayo bergabung sekarang!">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Karir | Bergabung dengan Logique | LOGIQUE Digital Indonesia</title>
