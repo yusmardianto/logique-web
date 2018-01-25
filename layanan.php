@@ -146,20 +146,50 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Perusahaan</b><br/>
-										Kami memberikan layanan pembuatan website yang dapat secara efektif menyampaikan nilai perusahaan Anda secara profesional. Kami juga menyediakan layanan pembelian domain, web server, SSL dan pembuatan konten website sesuai kebutuhan Anda.
+										Kami memberikan layanan pembuatan website yang dapat secara efektif menyampaikan nilai perusahaan Anda secara profesional. Selain itu, kami juga menyediakan layanan pembelian domain, web server, SSL, layanan fotografi dan pembuatan video, serta pembuatan konten website sesuai kebutuhan Anda. Layanan yang kami berikan telah menjangkau bermacam-macam jenis usaha dan kami dapat mengembangkan website Anda hanya dalam satu bulan jika semuanya berjalan lancar. Kami dapat memberikan Anda solusi yang kreatif, fungsional, dan menarik sejalan dengan teknologi dan tren terkini di dunia online.
+										<br/><br/>
+										<div class="row text-center service-portfolio">
+											<div class="col-sm-5 col-sm-offset-1">
+												<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank">
+												<img src="/img/portfolio/dmi.png" class="img-responsive center-block">
+												DMI<br>
+												</a>
+											</div>
+											<div class="col-sm-5">
+												<a href="http://www.moresco.co.id/" target="_blank">
+												<img src="/img/portfolio/moresco.png" class="img-responsive center-block">
+												MORESCO<br>
+												</a>
+											</div>
+										</div>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Multi Bahasa</b><br/>
-										Kami punya banyak pengalaman dalam mengembangkan website multi bahasa yang mencakup Bahasa Inggris, Indonesia, dan Jepang. Selain pembuatan website atau konten, Anda juga dapat menghubungi kami jika memerlukan jasa penerjemah atau perbaikan tata bahasa pada konten website Anda.
+										Website multi bahasa dengan kualitas tinggi akan membuat Anda secara efektif menggapai pelanggan dari berbagai belahan dunia. LOGIQUE juga menyediakan layanan pembuatan website multi bahasa dengan biaya yang terjangkau yang membuat Anda dapat terhubung dengan pelanggan di pasar lokal. Kami dapat mengembangkan halaman website yang ringan untuk bisa ditampilkan dengan cepat dengan koneksi Internet di Indonesia berikut dengan desain yang menarik untuk pasar Indonesia. Kami punya banyak pengalaman dalam mengembangkan website multi bahasa yang mencakup Bahasa Inggris, Indonesia, dan Jepang. Selain pembuatan website atau konten, Anda juga dapat menghubungi kami jika memerlukan jasa penerjemah atau perbaikan tata bahasa pada konten website Anda.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Layanan</b><br/>
-										Kami dapat membantu Anda mulai dari perencanaan ide bisnis, pembuatan desain, pengembangan sistem sampai dengan pengelolaan website, jika Anda ingin mengembangkan layanan berbasis web seperti lelang mobil bekas online, portal berita, toko online, dan manajemen keanggotaan (CRM).
+										Kami dapat membantu Anda mulai dari perencanaan ide bisnis, pembuatan desain, pengembangan sistem sampai dengan pengelolaan website, jika Anda ingin mengembangkan layanan berbasis web seperti lelang mobil bekas online, sistem pengelolaan poin hadiah, website pencarian dan kecocokan SDM, portal berita, toko online, website komunitas tertutup, dan manajemen keanggotaan (CRM).
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Karir</b><br/>
-										Sekarang semakin sulit bagi perusahaan untuk mendapatkan karyawan ideal yang sesuai dan cocok dengan bisnis yang dijalankan. Halaman karir website perusahaan Anda adalah salah satu faktor penting untuk kesuksesan perekrutan.
+										Sekarang semakin sulit bagi perusahaan untuk mendapatkan karyawan ideal yang sesuai dan cocok dengan bisnis yang dijalankan. Halaman karir website perusahaan Anda adalah salah satu faktor penting untuk kesuksesan perekrutan. Halaman ini dapat menjadi kunci untuk memberitahu pengunjung tentang perusahaan Anda, suasana kerja, keuntungan bekerja diperusahaan Anda, dan karyawan yang Anda cari dengan jelas misalnya menggunakan video interview. Kami memiliki banyak pengalaman dalam pembuatan website yang terkait dengan rekrutmen atau halaman karir.
 										<br><a target="_blank" href="layanan/pembuatan-website-karir-perusahaan/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
+										<br/><br/>
+										<div class="row text-center service-portfolio">
+											<div class="col-sm-5 col-sm-offset-1">
+												<a href="http://trendpot-recruit.asia/index.php" target="_blank">
+												<img src="/img/portfolio/trendpot.png" class="img-responsive center-block">
+												TRENDPOT<br><br>
+												</a>
+											</div>
+											<div class="col-sm-5">
+												<a href="https://www.dipostar.com/id/tentang-hrd.htm" target="_blank">
+												<img src="/img/portfolio/dsf.png" class="img-responsive center-block">
+												DIPO STAR FINANCE<br><br>
+												</a>
+											</div>
+										</div>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Restoran</b><br/>
@@ -168,15 +198,15 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website dengan Desain Responsif </b><br/>
-										Desain responsif merupakan suatu teknologi yang saat ini sedang populer, yang mampu membuat website Anda dapat dilihat dengan baik pada tampilan berukuran smartphone atau tablet. Hal ini sangat penting karena website di Indonesia mempunyai tingkat kunjungan yang sangat besar dari pengguna smartphone atau tablet, dan LOGIQUE dapat membantu Anda dengan pengalaman dan pengetahuan yang kami miliki terhadap teknologi responsif ini.
+										Desain responsif merupakan suatu teknologi yang saat ini sedang populer, yang mampu membuat website Anda dapat dilihat dengan baik pada tampilan berukuran smartphone atau tablet. Hal ini sangat penting karena website di Indonesia mempunyai tingkat kunjungan yang sangat besar dari pengguna smartphone atau tablet, dan LOGIQUE dapat membantu Anda dengan pengalaman dan pengetahuan yang kami miliki terhadap teknologi responsif ini. Kami juga dapat membantu Anda mengelola website responsif yang tidak dibangun menggunakan kerangka bootstrap.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Halaman Landing / Kampanye</b><br/>
-										Silakan menghubungi kami terkait pembuatan halaman landing / kampanye untuk produk atau layanan Anda, kami akan membantu Anda walaupun hanya satu halaman. Kami juga dapat membuat banner iklan untuk menunjang kampanye iklan website Anda.
+										Jika Anda mencari layanan untuk memperbaharui desain halaman landing / kampanye atau mengkonversi desain ke dalam kode HTML, LOGIQUE adalah solusi terbaik bagi Anda untuk mengembangkan website yang mudah digunakan dan teroptimasi pada mesin pencarian. Kami juga dapat mengembangkan beberapa halaman untuk memfasilitasi tes A/B yang meningkatkan konversi target Anda. Tim LOGIQUE memiliki pengalaman mendesain dan mengembangkan landing page dari berbagai macam bidang usaha. Desainer kami dapat dengan baik menyesuaikan halaman yang sudah ada berdasarkan pengalaman pengintegrasian plugin atau aplikasi seperti Mailchimp dan yang lainnya. Kami juga cukup fleksibel untuk memenuhi kebutuhan Anda seperti instalasi AMP, melakukan tes A/B dengan beberapa halaman landing, pembaharuan hanya pada halaman kontak, banner iklan dengan HTML5 untuk menunjang kampanye iklan website Anda, dan masih banyak lagi. Silakan menghubungi kami terkait pembuatan halaman landing / kampanye untuk produk atau layanan Anda, kami akan membantu Anda walaupun hanya satu halaman. 
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Blog</b><br/>
-										LOGIQUE melayani instalasi dan kustomisasi Wordpress. Kami dapat mendesain, mengembangkan, dan meningkatkan keamanan blog Anda sesuai kebutuhan. 
+										LOGIQUE melayani instalasi dan kustomisasi Wordpress. Kami dapat mendesain, mengembangkan, dan meningkatkan keamanan blog Anda sesuai kebutuhan. Saat ini kami lihat ada banyak blog yang memiliki celah keamanan yang cukup signifikan, segera hubungi kami untuk memastikan dan meningkatkan keamanan Blog Anda.
 									</li>
 								</ol>
 							  </div>
@@ -192,6 +222,10 @@
 							</div>
 							<div id="web-system" class="panel-collapse collapse">
 							  <div class="panel-body">
+								<p>
+							  		Kami menyediakan layanan pembuatan sistem web berkualitas tinggi dengan memanfaatkan teknologi terkini sesuai kebutuhan bisnis Anda dengan harga yang fleksibel. Tim kami memiliki banyak pengalaman dan kemampuan dalam pengembangan menggunakan framework PHP seperti Laravel, Symfony, CakePHP, dan lain-lain. Selain itu kami juga dapat mendukung pengembangan sistem dengan teknologi lainnya seperti AngularJS dan NodeJS. Kami selalu berusaha untuk mengembangkan sistem web yang cepat dibangun dan mudah dikelola.
+							  	</p>
+							  	<br/>
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Pengembangan dan Pengelolaan Sistem Manajemen Konten (CMS)</b><br/>
@@ -211,7 +245,7 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Sistem Rekrutmen</b><br/>
-										Kami menyediakan pengembangan sistem rekrutmen berbasis web yang lengkap mulai dari penerimaan CV, manajemen aplikasi, tes kemampuan dan psikotes online, pengaturan jadwal interview, sampai kandidat masuk ke perusahaan bergantung dari kebutuhan tim HR perusahaan Anda. Kami percaya dengan sistem rekrutmen ini perekrutan karyawan menjadi semakin mudah dan efisien.
+										Produk sistem manajemen rekrutmen kami, ‘Sugoi-Saiyo’ dapat mengubah aktivitas perekrutan karyawan Anda secara dramatis. Saat ini sangat sulit merekrut karyawan ideal untuk perusahaan Anda di Indonesia. Terkadang Anda menghabiskan banyak waktu untuk menyeleksi begitu banyak CV yang masuk atau jika ada kandidat yang tidak datang pada jadwal interview yang telah ditentukan. ‘Sugoi-Saiyo’ dapat membantu Anda sebagai sistem rekrutmen berbasis web yang lengkap mulai dari penerimaan CV, manajemen aplikasi, tes kemampuan dan psikotes online, pengaturan jadwal interview, input dan kalkulasi hasil tes atau interview, sampai kandidat masuk ke perusahaan Anda. Kami percaya dengan sistem rekrutmen ini perekrutan karyawan Anda menjadi semakin mudah dan efisien.
 									</li>
 								</ol>
 							  </div>
@@ -288,7 +322,15 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Agen Web Server dan Domain</b><br/>
-										Kami dapat berperan sebagai agen untuk Anda mendapatkan domain .co.id (domain perusahaan Indonesia) serta melakukan konfigurasi DNS atau SSL. Selain itu, kami juga dapat menyewakan layanan server WEB untuk Anda.
+										Kami dapat berperan sebagai agen untuk Anda mendapatkan domain .co.id (domain perusahaan Indonesia) serta melakukan konfigurasi DNS atau SSL. Selain itu, kami juga dapat menyewakan layanan server WEB seperti AWS untuk kebutuhan hosting Anda.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Konsultan Bisnis IT</b><br/>
+										Kami menyediakan berbagai macam layanan konsultasi bisnis IT di Indonesia seperti konsultasi bagaimana IT dapat membantu pengoperasian bisnis Anda, pemilihan alat atau software IT yang tepat, pengetesan dan pengecekan keamanan sistem IT yang telah diimplementasikan, dukungan untuk pengembangan dan peluncuran bisnis Internet baru, dan masih banyak lagi.
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Pengetesan Keamanan Website (VA Test)</b><br/>
+										Kami dapat melakukan pengetesan dan melaporkan temuan-temuan kami terkait celah keamanan website Anda. Dengan mengetahui celah keamanan tersebut Anda dapat melakukan tindakan pencegahan dari tindak kejahatan digital seperti injeksi SQL, cross-site scripting, session jacking, dan lain-lain. Tim ahli kami akan melakukan tes dengan menggunakan alat-alat pemindaian serta menganalisa temuan-temuan untuk dituangkan ke dalam laporan. Layanan ini kami sediakan mulai dari 10,000,000 Rupiah.
 									</li>
 								</ol>
 							  </div>

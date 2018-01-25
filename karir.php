@@ -542,11 +542,10 @@
 					</div>-->
 					<div class="partner-section">
 						<div class="div-main text-center">
-							<span class="mitra-marketing-title">Mitra Marketing</span>
+							<span class="mitra-marketing-title">Perkenalan Relasi Bisnis</span>
 							<br/><br/><br/><br/>
 							<p>
-								Kami membuka kesempatan bagi Anda Mitra Marketing untuk ikut mengembangkan bisnis Logique.<br/><br/>
-								Kami akan memberikan komisi menarik, setelah kami mendapatkan kontrak baru dari klien yang telah Anda kenalkan.
+								Kami sangat terbuka dan mengapresiasi, jika Anda memperkenalkan relasi yang memerlukan jasa atau layanan pembuatan website dan sistem web dari Logique.
 							</p>
 						</div>
 						<div class="bg-grey">
@@ -580,10 +579,10 @@
 								<div class="clearfix"></div>
 								<br/>
 								<div class="col-md-12" id="client-desc1">
-									<div>Atau siapapun yang membutuhkan bantuan mengenai Web dan Internet.</div>
-									<p>Setelah Anda memperkenalkan kami dengan pihak klien, silahkan menghubungi kami dan beritahu kami tentang kebutuhan pihak klien. Kami akan segera membuatkan proposal penawaran. Jika kami berhasil mendapatkan               kontrak dari klien yang telah Anda kenalkan, maka kami akan memberikan komisi untuk Anda.</p>
+									<div style="margin-bottom:0">Atau siapapun baik di Indonesia dan negara lainnya yang membutuhkan bantuan mengenai Web dan Internet.</div>
+									<!--<p>Setelah Anda memperkenalkan kami dengan pihak klien, silahkan menghubungi kami dan beritahu kami tentang kebutuhan pihak klien. Kami akan segera membuatkan proposal penawaran. Jika kami berhasil mendapatkan kontrak dari klien yang telah Anda kenalkan, maka kami akan memberikan komisi untuk Anda.</p>-->
 								</div>
-								<div class="clearfix"></div>
+								<!--<div class="clearfix"></div>
 								<div class="commision-title">Komisi yang Anda dapat: </div>
 								<br/>
 								<div class="col-md-offset-1 col-md-10">
@@ -607,9 +606,9 @@
 											</p>
 										</div>
 									</div>
-								</div>
+								</div>-->
 							</div>
-							<div class="row">
+							<!--<div class="row">
 								<div class="commision-title">Tidak ada cara khusus untuk memperkenalkan LOGIQUE.<br/>Berikut panduan alur kerja yang dapat Anda gunakan</div>
 								<div class="klien-flow">
 									<div class="col-md-5ths">
@@ -675,7 +674,7 @@
 
 								<div class="question">Apakah komisi yang akan dibayarkan dalam bentuk mata uang Rupiah?</div>
 								<div class="answer">Kami akan sangat mengapresiasi jika dapat melakukan transfer uang ke mata uang Rupiah. Tapi jika Anda tidak mempunyai rekening bank di Indonesia, Kami juga dapat melakukan pengiriman uang secara internasional setelah mengubah uang Rupiah menjadi mata uang Anda. </div>
-							</div>
+							</div>-->
 						</div>
 					</div>
 					<div class="got-project">

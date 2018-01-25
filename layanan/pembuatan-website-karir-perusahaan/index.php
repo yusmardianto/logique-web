@@ -400,11 +400,10 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 					<div class="row">
 						<div class="col-md-3 col-sm-4">
 							<h3>HUBUNGI KAMI </h3>
-							<a href="https://www.logique.co.id/" target="_blank"><img src="images/logo-y-logique.png" alt="logo-footer" class="img-responsive">
+							<a href="https://www.logique.co.id/" target="_blank"><img src="images/logo-y-logique.png" alt="logo-footer" class="img-responsive"></a>
 							<p>LOGIQUE DIGITAL INDONESIA<br>
-Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5 
-Ragunan, <br>Ps. Minggu, Jakarta Selatan,<br> Indonesia 12550</p>
-
+							Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5 
+							Ragunan, <br>Ps. Minggu, Jakarta Selatan,<br> Indonesia 12550</p>
 						</div>
 						<div class="col-md-6 col-sm-8 mesage-alert ">
 							<?php if(isset($msg))
