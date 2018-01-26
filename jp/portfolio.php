@@ -210,6 +210,7 @@
 								Maison de Res<br><br>
 								</a>
 							</div>
+							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://frangipanibalispa.com/" target="_blank">
 									<img src="/img/portfolio/frangipani.png" class="img-responsive center-block">
@@ -228,6 +229,7 @@
 									Hoyu<br><br>
 								</a>
 							</div>
+							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://kindergarten.jjs.logique.co.id/" target="_blank">
 									<img src="/img/portfolio/kindergarten-jjs.png" class="img-responsive center-block">
@@ -270,6 +272,7 @@
 								<img src="../img/portfolio/video-otomart.jpg" class="img-responsive center-block">
 								2D ビデオ制作 (OTOmart)<br><br>
 							</div>
+							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="../img/portfolio/video-otomart2.jpg" class="img-responsive center-block">
 								2D ビデオ制作 (OTOmart)<br><br>
@@ -282,6 +285,7 @@
 								<img src="../img/portfolio/onitsuka-mockup.jpg" class="img-responsive center-block">
 								会社案内制作<br><br>
 							</div>
+							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="../img/portfolio/maison-news.png" class="img-responsive center-block">
 								コンテンツ制作<br><br>
@@ -293,6 +297,15 @@
 							<div class="col-sm-4">
 								<img src="../img/portfolio/frangipani-photoshot.png" class="img-responsive center-block insta-vid">
 								Frangipani Photo Shooting<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/drone1.png" class="img-responsive center-block">
+								Drone Foto / Video (Partner)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/drone2.png" class="img-responsive center-block">
+								Drone Foto / Video (Partner)<br><br>
 							</div>
 						</div>
 						<br/>
