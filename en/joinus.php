@@ -508,7 +508,7 @@
 						  </div>
 						</div>
 					</div>
-					<div class="partner-section">
+					<!--<div class="partner-section">
 						<div class="div-main text-center">
 							<span class="mitra-marketing-title">Sales Partners</span>
 							<br/><br/><br/>
@@ -645,7 +645,7 @@
 								<div class="answer">It will be appreciated if we can transfer Indonesian Rupiah, but in case if you do not have bank account in Indonesia, we can also make international remittance after converting Indonesian rupiah into your currency. </div>
 							</div>
 						</div>
-					</div>
+					</div>-->
 					<div class="got-project">
 						<span>Getting excited to work with us? </span><br/>
 						<div class="text-center">
