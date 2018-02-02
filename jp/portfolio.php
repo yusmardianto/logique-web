@@ -307,6 +307,19 @@
 								<img src="/img/portfolio/drone2.png" class="img-responsive center-block">
 								Drone Foto / Video (Partner)<br><br>
 							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/sunlife-flyer.jpg" class="img-responsive center-block">
+								Flyer<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/sunlife-banner.jpg" class="img-responsive center-block">
+								Roll Up Banner<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/sunlife-polo-shirt.jpg" class="img-responsive center-block">
+								Polo Shirt<br><br>
+							</div>
 						</div>
 						<br/>
 						<span class="characteristic-title">Mobile App</span>
