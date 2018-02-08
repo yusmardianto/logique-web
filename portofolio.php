@@ -130,6 +130,31 @@
 						<div class="characteristic-title text-center" style="font-size:22px">WEB</div><br/><br/>
 						<div class="row text-center">
 							<div class="col-sm-4">
+							<a href="https://www.jtrustbank.co.id/" target="_blank">
+								<img src="/img/portfolio/jtrust-bank.png" class="img-responsive center-block">
+								JTrust Bank<br><br>
+							</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.60jpid.com/" target="_blank">
+									<img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
+									60th Anniversary Japan-Indonesia<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.otomart.id/" target="_blank">
+									<img src="/img/portfolio/otomart.png" class="img-responsive center-block">
+									Otomart<br><br>
+								</a>
+						 	</div>
+						 	<div class="clearfix"></div>
+						 	<div class="col-sm-4">
+								<a href="https://jba.co.id/" target="_blank">
+									<img src="/img/portfolio/jba-indonesia.png" class="img-responsive center-block">
+									JBA<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
 								<img src="/img/portfolio/salon-de-res.png" class="img-responsive center-block">
 								Salon De Res<br><br>
 							</div>
@@ -139,13 +164,13 @@
 								KUMOMI LAND INDONESIA<br><br>
 								</a>
 							</div>
+							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://jaif.asean.org/" target="_blank">
 								<img src="/img/portfolio/jaif.png" class="img-responsive center-block">
 								ASEAN FOUNDATION<br><br>
 								</a>
 							</div>
-							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/otosiap.png" class="img-responsive center-block">
 								OTO Siap!<br><br>
@@ -156,13 +181,13 @@
 								DMI<br><br>
 								</a>
 							</div>
+							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="https://www.ikeuchi.id/lp/eng/" target="_blank">
 								<img src="/img/portfolio/ikeuchi.png" class="img-responsive center-block">
 								Ikeuchi<br><br>
 								</a>
 							</div>
-							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://www.moresco.co.id/" target="_blank">
 								<img src="/img/portfolio/moresco.png" class="img-responsive center-block">
@@ -175,74 +200,66 @@
 								TRENDPOT<br><br>
 								</a>
 							</div>
+							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/ajapan.png" class="img-responsive center-block">
 								aJapan Campaign Page<br><br>
 							</div>
-							<div class="clearfix"></div>
+							 
 							<div class="col-sm-4">
 								<img src="/img/portfolio/sfi.png" class="img-responsive center-block">
 								Sumitomo Forestry LP<br><br>
 							</div>
+							 
 							<div class="col-sm-4">
 								<img src="/img/portfolio/jualbeliweb.png" class="img-responsive center-block">
 								JualBeliWEB<br><br>
 							</div>
+							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://jjs.logique.co.id/" target="_blank">
 								<img src="/img/portfolio/jjs.png" class="img-responsive center-block">
 								Jakarta Japanese School<br><br>
 								</a>
-							</div>
-							<div class="clearfix"></div>
+							</div>\ 
 							<div class="col-sm-4">
 								<img src="/img/portfolio/oto-conc.png" class="img-responsive center-block">
 								OTOmart Concierge Page<br><br>
 							</div>
+							 
 							<div class="col-sm-4">
 								<a href="http://www.zuttoride.id/" target="_blank">
 								<img src="/img/portfolio/zutto.png" class="img-responsive center-block">
 								ZuttoRide<br><br>
 								</a>
 							</div>
+							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://maisonderes.com/" target="_blank">
 								<img src="/img/portfolio/mdr.png" class="img-responsive center-block">
 								Maison de Res<br><br>
 								</a>
 							</div>
-							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://frangipanibalispa.com/" target="_blank">
 									<img src="/img/portfolio/frangipani.png" class="img-responsive center-block">
 									Frangipani<br><br>
 								</a>
 							</div>
-							<div class="col-sm-4">
-								<a href="https://www.60jpid.com/" target="_blank">
-									<img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
-									60th Anniversary Japan-Indonesia<br><br>
+							 <div class="col-sm-4">
+								<a href="http://kindergarten.jjs.logique.co.id/" target="_blank">
+									<img src="/img/portfolio/kindergarten-jjs.png" class="img-responsive center-block">
+									Kindergarten - Jakarta Japanese School<br><br>
 								</a>
-							</div>
+							</div>		
+							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://hoyu.co.id/" target="_blank">
 									<img src="/img/portfolio/hoyu.png" class="img-responsive center-block">
 									Hoyu<br><br>
 								</a>
-							</div>
-							<div class="clearfix"></div>
-							<div class="col-sm-4">
-								<a href="http://kindergarten.jjs.logique.co.id/" target="_blank">
-									<img src="/img/portfolio/kindergarten-jjs.png" class="img-responsive center-block">
-									Kindergarten - Jakarta Japanese School<br><br>
-								</a>
-							</div>
-							<div class="col-sm-4">
-								<a href="https://www.jtrustbank.co.id/" target="_blank">
-									<img src="/img/portfolio/jtrust-bank.png" class="img-responsive center-block">
-									JTrust Bank<br><br>
-								</a>
-							</div>
+							</div>							 
+							
 						</div>
 						<br/>
 						<span class="characteristic-title">Pengalaman kami dalam pengembangan sistem web</span>
@@ -328,9 +345,31 @@
 						<div class="row text-center">
 							<div class="col-sm-4">
 								<img src="/img/portfolio/frangipani-app.png" class="img-responsive center-block">
-								Frangipani Esthetics (Android) Guest Comment Management App<br><br>
+								Frangipani Esthetics (Android) Guest Comment Management App<br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/jba-inspection.png" class="img-responsive center-block">
+								JBA Indonesia -  Bike and Car Inspection App<br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/otomart-app.png" class="img-responsive center-block">
+								Otomart -  Dealer Car App<br>
 							</div>
 						</div>
+					<br/>
+						<span class="characteristic-title">SNS Operation</span>
+						<br/><br/>
+						<div class="row text-center">
+							<div class="col-sm-4">
+								<img src="/img/portfolio/ajapan-sosmed.png" class="img-responsive center-block">
+								Ajapan Dance Instagram Competition - Waku Waku Japan<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/60jpid-sosmed.png" class="img-responsive center-block">
+								60th years Anivesisary Japan Indonesia Relationship - 60jpid<br><br>
+							</div>
+
+						</div> 
 					</div>
 				</div>
 			</div>
