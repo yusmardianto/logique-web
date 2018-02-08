@@ -356,15 +356,20 @@
 								Otomart -  Dealer Car App<br>
 							</div>
 						</div>
-					<!-- 	<br/>
+					<br/>
 						<span class="characteristic-title">SNS Operation</span>
 						<br/><br/>
 						<div class="row text-center">
 							<div class="col-sm-4">
-								<img src="/img/portfolio/frangipani-app.png" class="img-responsive center-block">
-								Frangipani Esthetics (Android) Guest Comment Management App<br><br>
+								<img src="/img/portfolio/ajapan-sosmed.png" class="img-responsive center-block">
+								Ajapan Dance Instagram Competition - Waku Waku Japan<br><br>
 							</div>
-						</div> -->
+							<div class="col-sm-4">
+								<img src="/img/portfolio/60jpid-sosmed.png" class="img-responsive center-block">
+								60th years Anivesisary Japan Indonesia Relationship - 60jpid<br><br>
+							</div>
+
+						</div> 
 					</div>
 				</div>
 			</div>
