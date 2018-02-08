@@ -562,7 +562,7 @@
 					</div>
 					<div class="got-project">
 						<span style="font-size:30px;">WEB・システム関連でお困りのことがあれば、</span><br/>
-						<div class="list-on-services" style="max-width: 500px;">
+						<div class="list-on-services" >
 							<ul class="fa-ul">
 								<li><i class="fa-li fa fa-check"></i> WEBサイトを作って運用する必要があるが、どうすれば良いか分からない。</li>
 								<li><i class="fa-li fa fa-check"></i> モバイル最適化されたWEBに変更したい。</li>
