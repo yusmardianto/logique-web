@@ -345,7 +345,15 @@
 						<div class="row text-center">
 							<div class="col-sm-4">
 								<img src="/img/portfolio/frangipani-app.png" class="img-responsive center-block">
-								Frangipani Esthetics (Android) Guest Comment Management App<br><br>
+								Frangipani Esthetics (Android) Guest Comment Management App<br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/jba-inspection.png" class="img-responsive center-block">
+								JBA Indonesia -  Bike and Car Inspection App<br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/otomart-app.png" class="img-responsive center-block">
+								Otomart -  Dealer Car App<br>
 							</div>
 						</div>
 					<!-- 	<br/>

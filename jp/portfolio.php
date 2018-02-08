@@ -345,6 +345,14 @@
 								<img src="/img/portfolio/frangipani-app.png" class="img-responsive center-block">
 								Frangipani Esthetics (Android) Guest Comment Management App<br><br>
 							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/jba-inspection.png" class="img-responsive center-block">
+								JBA Indonesia -  Bike and Car Inspection App<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/otomart-app.png" class="img-responsive center-block">
+								Otomart -  Dealer Car App<br><br>
+							</div>
 						</div>
 						<!-- 	<br/>
 						<span class="characteristic-title">SNS Operation</span>
@@ -354,7 +362,7 @@
 								<img src="/img/portfolio/frangipani-app.png" class="img-responsive center-block">
 								Frangipani Esthetics (Android) Guest Comment Management App<br><br>
 							</div>
-						</div> -->
+						</div> -->vv
 					</div>
 				</div>
 			</div>
