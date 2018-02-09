@@ -86,11 +86,8 @@
 			
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
-				<video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
-					<source src="../img/12377093.mp4" type="video/mp4">
-				</video>
+				<img id="bgvid" style="width:100%" src="/img/video-img.png"/>
 			</div>
-			<div class="bg-white-opacity"></div>
 			
 			<div class="container-fluid">
 				<div class="row">
@@ -117,7 +114,8 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title" style="font-size: 28px;"><b>営業パートナー／インターン採用について</b></div>
-					<img src="../img/career-main.png" class="img-in-joinus"/>
+					<iframe style="width:100%;height:380px" src="https://www.youtube.com/embed/ZT9zR6d6JPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<!--<img src="../img/career-main.png" class="img-in-joinus"/>-->
 					<div class="form-container">
 						<p style="padding-top: 5px;">
 						<br/>

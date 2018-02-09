@@ -129,7 +129,7 @@
 								<img style="object-position:0 0" src="/img/slider1.jpg" alt="Web Developer LOGIQUE 1">
 							</div>
 							<div class="item">
-								<img src="/img/slider3.jpg" alt="Web Developer LOGIQUE 2">
+								<img src="/img/career-main.png" alt="Web Developer LOGIQUE 2">
 							</div>
 							<div class="item">
 								<img src="/img/slider2.jpg" alt="Web Developer LOGIQUE 3">
