@@ -331,6 +331,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Pengetesan Keamanan Website (VA Test)</b><br/>
 										Kami dapat melakukan pengetesan dan melaporkan temuan-temuan kami terkait celah keamanan website Anda. Dengan mengetahui celah keamanan tersebut Anda dapat melakukan tindakan pencegahan dari tindak kejahatan digital seperti injeksi SQL, cross-site scripting, session jacking, dan lain-lain. Tim ahli kami akan melakukan tes dengan menggunakan alat-alat pemindaian serta menganalisa temuan-temuan untuk dituangkan ke dalam laporan. Layanan ini kami sediakan mulai dari 10,000,000 Rupiah.
+										<br><a target="_blank" href="layanan/penetration-testing/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 								</ol>
 							  </div>
