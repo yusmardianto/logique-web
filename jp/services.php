@@ -98,7 +98,7 @@
 						<div class="lang-logo">
 							<ul class="list-inline">
 								<li><a href="../en/services.php">EN</a></li>
-								<li><a href="../services.php">ID</a></li>
+								<li><a href="../layanan.php">ID</a></li>
 								<li class="active"><a href="#">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
