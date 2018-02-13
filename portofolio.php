@@ -221,7 +221,7 @@
 								<img src="/img/portfolio/jjs.png" class="img-responsive center-block">
 								Jakarta Japanese School<br><br>
 								</a>
-							</div>\ 
+							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/oto-conc.png" class="img-responsive center-block">
 								OTOmart Concierge Page<br><br>
