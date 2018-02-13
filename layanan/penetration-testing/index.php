@@ -20,8 +20,18 @@
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
 	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
-	</head>
-	<body>
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-105878648-1', 'auto');
+	ga('send', 'pageview');
+
+	</script>
+  </head>
+<body>
 	
 	<div class="header-top">
 		<div class="container">
@@ -110,7 +120,7 @@
 		</div>	
 	</div>	
 	<br/>	
-	<div class="mengapa-harus">Mengapa harus memilih <b>Logique Digital Indonesia</b> untuk melakukan pentest?</div>
+	<div class="mengapa-harus">Mengapa harus memilih <a href="https://www.logique.co.id/" target="_blank"><b>Logique Digital Indonesia</b></a> untuk melakukan pentest?</div>
 	<br/>
 	<div class="metode">
 		<div class="container">
@@ -294,7 +304,7 @@
 			<div class="row">
 				<div class="col-md-offset-3 col-md-6">
 					Untuk informasi lengkapnya, Anda dapat menghubungi <b>Logique Digital Indonesia</b> melalui email di <a href="mailto:info@logique.co.id">info@logique.co.id</a> atau mendaftar melalui form yang ada di link berikut ini <br/><br/>
-					<a href="mailto:info@logique.co.id"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
+					<a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
 				</div>
 			</div>
 		</div>
