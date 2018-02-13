@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUE menyediakan layanan Penetration testing untuk lebih meningkatkan keamanan sistem atau aplikasi Anda">
+    <meta name="description" content="LOGIQUE menyediakan layanan Penetration testing untuk meningkatkan keamanan sistem atau aplikasi Anda">
 	<meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing , logique">
 	<meta name="author" content="Logique Digital Indonesia">
 	<meta property="og:title" content="Penetration Test | Logique Digital Indonesia">
@@ -294,7 +294,7 @@
 			<div class="row">
 				<div class="col-md-offset-3 col-md-6">
 					Untuk informasi lengkapnya, Anda dapat menghubungi <b>Logique Digital Indonesia</b> melalui email di <a href="mailto:info@logique.co.id">info@logique.co.id</a> atau mendaftar melalui form yang ada di link berikut ini <br/><br/>
-					<a href="#"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
+					<a href="mailto:info@logique.co.id"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
 				</div>
 			</div>
 		</div>
