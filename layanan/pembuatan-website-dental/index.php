@@ -309,7 +309,7 @@ dokter gigi Testi dari klinik / dokter gigi Testi dari
 									<button type="submit" class="btn btn-submit submit-button">Kirim</button>
 								</fieldset>
 
-							</form> ?>
+							</form>  
 							<!-- <form>
 								<fieldset>
 									<input type="text" name="name" id="name" class="input-name form-control"  placeholder="Nama">
