@@ -296,7 +296,7 @@ dokter gigi Testi dari klinik / dokter gigi Testi dari
 								</fieldset>
 								<fieldset>
 		 
-									<textarea class="textarea-message form-control" name="message" placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+									<textarea class="textarea-message form-control" name="message" placeholder="Pesan"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</fieldset>
 								<fieldset>
 									 

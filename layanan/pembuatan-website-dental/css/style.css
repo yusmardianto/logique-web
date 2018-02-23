@@ -289,6 +289,7 @@ header .arraw-down{
 	font-size: 14px;
 	line-height: 24px;
 	font-weight: 300;
+	font-family: avenirlight;
 }
 .footer-container h2{
 	font-weight: normal;
@@ -310,6 +311,7 @@ header .arraw-down{
 	border:0;
 	background: #fff;
 	color: #111;
+	font-family: avenirlight
 }
 .contact-form-container textarea{
 	height: 110px;
