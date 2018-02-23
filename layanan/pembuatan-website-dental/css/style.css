@@ -258,9 +258,15 @@ header .arraw-down{
 	line-height: 150px;
 	font-weight: bold;
 	color: #ffc800;
+	text-shadow: 2px 2px 0px rgba(0, 0, 0,0.5);
+    letter-spacing: -15px;
+}
 }
 .priceandfeature-banner .price-cont .realprice span{
 	font-size: 50px;
+	    letter-spacing: 0px;
+    margin-left: 10px;
+    display: inline-block;
 }
 .priceandfeature-content{
 	background: #4A90E2;
@@ -366,6 +372,9 @@ header .arraw-down{
 	border-radius: 15px;
 	border:2px solid #fff;
 	padding:10px 90px 15px;
+	-webkit-box-shadow: 2px 1px 2px 0px rgba(50, 50, 50, 0.5);
+-moz-box-shadow:    2px 1px 2px 0px rgba(50, 50, 50, 0.5);
+box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 }
 .mesage-alert > .alert-warning, .mesage-alert > .alert-success{
 	padding: 0;
