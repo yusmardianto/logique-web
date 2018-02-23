@@ -328,6 +328,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>WEB Security Assesment (Vulnerability Scanning / Test)</b><br/>
 										We test and report the vulnerability of your web-application. With the scanning, you can protect your web-application from being attacked by SQL injection, cross-site scripting, session-jacking, etc. Our expert will conduct the test utilizing scanning tools. We can conduct the vulnerability test and reporting starting from 10,000,000 IDR.
+										<br><a target="_blank" href="/layanan/penetration-testing/" class="btn btn-service-link">See More</a>
 									</li>
 								</ol>
 							  </div>
