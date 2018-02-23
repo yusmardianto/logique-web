@@ -1,0 +1,643 @@
+
+@-webkit-viewport { width: device-width; }section .page-title-container h1.page-title
+@-moz-viewport { width: device-width; }
+@-ms-viewport { width: device-width; }
+@-o-viewport { width: device-width; }
+@viewport { width: device-width; }
+@charset "UTF-8";
+/**
+CSS Reset
+*/
+
+@font-face {
+   font-family: 'avenirblack';
+   src: url('../fonts/avenir/Avenir-Black.ttf') format('truetype');
+ }
+ @font-face {
+   font-family: 'avenirheavy';
+   src: url('../fonts/avenir/Avenir-Heavy.ttf') format('truetype');
+ }
+@font-face {
+   font-family: 'avenir';
+   src: url('../fonts/avenir/Avenir-Medium.ttf') format('truetype');
+ }
+ @font-face {
+   font-family: 'avenirlight';
+   src: url('../fonts/avenir/Avenir-Light.ttf') format('truetype');
+ }
+@font-face {
+    font-family: 'novecentomedium';
+    src: url('../fonts/novecento/Novecentosanswide-Medium.otf') format('truetype');
+}
+@font-face {
+    font-family: 'novecentolight';
+    src: url('../fonts/novecento/Novecentosanswide-Light.otf') format('truetype');
+}
+
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i,dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,menu, nav, output, ruby, section, summary,time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'avenir', sans-serif;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section 
+{
+    display: block;
+}
+ol, ul {
+    list-style: none;
+}
+a:hover{
+	text-decoration:none;
+}
+dfn, em {
+  font-style: italic!important;
+}
+strong{
+    font-weight: 700!important;
+}
+.no-gap [class*="-1"],
+.no-gap [class*="-6"],
+.no-gap [class*="-8"],
+.no-gap [class*="-3"],
+.no-gap [class*="-5"],
+.no-gap [class*="-9"],
+.no-gap [class*="-2"],
+.no-gap [class*="-10"],
+.no-gap [class*="-4"],
+.no-gap [class*="-12"]{
+	padding-left:0;
+    padding-right:0;
+}
+div, p, li{
+    font-size: 18px;
+
+}
+p{margin-bottom: 20px;
+}
+p:last-child{
+  margin-bottom: 0;
+}
+h1, h2, h3, h4{
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+img.pright{
+  float:right;
+  margin:0 0 30px 30px;
+}
+header.head-banner{
+	background: url(../images/banner.jpg) no-repeat;
+	background-size: cover;
+	height:550px;
+	width: 100%;
+	display: block;
+	position: relative;
+}
+header .arraw-down{
+	padding:10px 0;
+	background: rgba(104,170,192,0.7);
+	position: absolute;;
+	width: 100%;
+	bottom: 0;
+	left:0;
+	right: 0;
+}
+.white-text{
+	color: #fff !important;
+}
+.yellow-text{
+	color: #FFC914 !important;
+}
+.yellowbar{
+	background: #FFC914;
+	height: 5px;
+	width: 45px;
+	display: block;
+	margin-top: 10px;
+}
+.banner-text{
+	margin-top:130px;
+	display: block;
+}
+.banner-text h1 {
+	line-height: 90px;
+	display: inline-block;
+	font-size: 48px;
+
+
+}
+.banner-text h1 span{
+	background: rgba(0,120,217,0.8);
+	padding: 3px 10px;
+	color: #fff;
+	font-family: 'avenirblack', cursive;
+}
+.banner-text h1 span.yel{
+	background: 0;
+	color: #ffc100;
+	margin:0;
+	padding:0;
+}
+.masalah-section{
+	background: #95dcea;
+	border-bottom:2px solid #8dd2de;
+	padding:30px 0;
+}
+.masalah-section h2{
+	color: #2891d2;
+	font-weight: normal;
+	font-style: italic;
+	z-index: 99;
+	position: absolute;
+	left: 0;
+	right: 0;
+	font-family: 'avenirheavy', sans-serif;
+	font-size: 21px;
+	letter-spacing: 2px;
+}
+.masalah-section .container{
+	position: relative;
+}
+.masalah-section .problem-list{
+	margin-top:60px;
+}
+.masalah-section .problem-list li{
+	background: url(../images/problem-list.png) no-repeat left 10px;
+	padding-left: 20px;
+	margin-bottom: 5px;
+
+}
+.masalah-section .tooth-cont{
+	position: absolute;
+	left: 190px;
+	bottom:-70px;
+	background: #95dcea;
+	border-radius: 200px;
+	padding:75px;
+}
+.solution-section{
+	padding:70px;
+	background: url(../images/bg-solusi.jpg) no-repeat top;
+	background-size: cover;
+}
+.solution-section h2{
+	font-size: 30px;
+	font-weight: 300;
+	color: #666;
+	padding-right: 100px;
+	line-height: 40px;
+	font-family: avenirlight;
+}
+
+.solution-section h2 span{
+	font-weight: normal;
+	font-family:'novecentomedium', sans-serif;
+}
+.solutionfeature-item {
+	padding-bottom: 40px;
+
+}
+.solution-feature-icon{
+	width: 100px;
+	height: auto;
+}
+
+.solutionfeature-item h3{
+	padding-top: 10px;
+	margin-left: 50px;
+	color: #4A90E2;
+	font-style: italic;
+	line-height: 20px;
+	font-size: 16px;
+	font-family: avenirheavy, sans-serif;
+}
+.solutionfeature-item .solution-desc{
+	margin-left: 50px;
+	color: #4A4A4A;
+	font-size: 14px;
+	padding-right: 90px;
+	text-align: justify;
+	line-height: 25px;
+	letter-spacing: 0.2px;
+	font-family: 'avenirlight'
+}
+.solution-section .title-desc{
+	color: #4A90E2;
+	font-size: 20px;
+	font-family: avenirlight
+}
+.priceandfeature-section{
+	position: relative;
+	padding-top: 250px;
+}
+.priceandfeature-banner{
+	position: absolute;
+	top: 30px;
+	left: 0;
+	right: 0;
+}
+.priceandfeature-banner .price-cont{
+	background: #4A90E2;
+	border-radius: 250px 250px 0 0  ;
+	padding-top:30px;
+	margin-top: 50px;
+}
+
+.priceandfeature-banner .price-cont p{
+	text-align: center;
+	color: #fff;
+}
+.priceandfeature-banner .price-cont .realprice{
+	font-size: 200px;
+	line-height: 150px;
+	font-weight: bold;
+	color: #ffc800;
+}
+.priceandfeature-banner .price-cont .realprice span{
+	font-size: 50px;
+}
+.priceandfeature-content{
+	background: #4A90E2;
+	padding:110px  0 30px;
+}
+.priceandfeature-content *{
+	color: #fff;
+}
+.priceandfeature-content h2{
+	font-size: 30px;
+	line-height: 40px;
+	font-family: avenirheavy, sans-serif;
+}
+.feature-item li{
+	margin-bottom: 15px;
+	background: url(../images/feature-list-icon.png) no-repeat left  5px ;
+	padding-left: 22px;
+	font-size: 16px;
+}
+.footer-container{
+	background: #000000;
+	padding:30px 0;
+}
+.footer-container *{
+	color: #fff;
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 300;
+}
+.footer-container h2{
+	font-weight: normal;
+	font-size: 24px;
+	padding-top: 15px;
+	margin-bottom: 20px;
+	color: #f9c512;
+}
+.footer-container img{
+ 
+}
+.contact-form-container fieldset{
+	margin-bottom: 10px;
+}
+.contact-form-container input[type="text"], .contact-form-container textarea{
+	padding: 10px;
+	width: 100%;
+	border-radius: 10px;
+	border:0;
+	background: #fff;
+	color: #111;
+}
+.contact-form-container textarea{
+	height: 110px;
+}
+.contact-form-container .submit-button{
+	background: #eab913;
+	color: #111;
+	border-radius: 10px;
+	border:0;
+	padding:5px 40px;
+}
+.plusfeature-section{
+	padding:30px 0 20px;
+}
+.plusfeature-section .section-title, .plusfeature-section .plusfeature-list{
+	display: inline-block;
+}
+.plusfeature-section .section-title{
+	color: #4A90E2;
+	padding-right: 50px;
+}
+.plusfeature-section .plusfeature-list ul li{
+	display: inline-block;
+	background:url(../images/plusfeature-icon.png) no-repeat left  3px;
+	padding-left: 30px;
+	padding-right: 50px;
+
+}
+.plusfeature-section .plusfeature-list ul li:last-child{
+	padding-right: 0;
+	}
+.contactbtn-section{
+	background: url(../images/bg-hubkami-section.jpg) no-repeat;
+	background-size: cover;
+	height: 350px;
+	display: flex;
+	position: relative;
+}
+.contactbtn-section .btn-container{
+	position: absolute;
+	top:40%;
+	left:0;
+	right:0;
+	text-align: center;
+}
+.btn-container .contactbtn{
+	font-size: 30px;
+	color: #fff;
+	background: #4A90E2;
+	border-radius: 15px;
+	border:2px solid #fff;
+	padding:10px 90px 15px;
+}
+.mesage-alert > .alert-warning, .mesage-alert > .alert-success{
+	padding: 0;
+    background: none;
+    color: #eab913;
+    border: 0;
+    margin-bottom: 5px;
+}
+.testimonial-section{
+	padding:40px 0;
+}
+.testimonial-section h2{
+	font-size: 30px;
+	color: #4A90E2;
+	letter-spacing: 3.2px;
+	font-weight: normal;
+	font-family: 'avenirlight';
+}
+.testimonial-content{
+	color: #9B9B9B;
+	line-height: 24px;
+	font-size: 14px;
+}
+.testimonial-sender{
+	float: right;
+	color:  #4A90E2;
+	font-weight: 300;
+	font-size: 14px;
+	padding-top: 20px;
+	font-style: italic;
+}
+.contactform-section{
+	background: #f5fdfd;
+	padding:50px 0;
+}
+.contactform-section h2{
+	background:url(../images/typewriter.png) no-repeat top left;
+	background-size: 50px;
+	padding:10px 0px 10px 60px;
+	font-weight: normal;
+	font-family: 'avenirlight';
+}
+.contactform-dental{
+	padding-left: 60px;
+}
+.contactform-dental fieldset{
+	padding-bottom: 20px;
+}
+.contactform-dental input[type=text], .contactform-dental textarea{
+	border:1px solid #e9f1f1;
+	border-radius: 10px;
+	background:#fff;
+	box-shadow:none;
+	font-size: 18px;
+	font-weight: 300;
+	padding:10px 20px;
+	display: block;
+	height: auto;
+}
+.contactform-dental textarea{
+	height: 200px;
+}
+.contactform-dental  button.submit-button{
+	background: #0093e5;
+	color: #fff;
+	border-radius: 10px;
+	padding: 10px 40px;
+	font-size: 18px;
+
+}
+.copyright-container *{
+	font-size: 14px;
+
+}
+.copyright-container {
+	padding:20px 0;
+	background: #eab913;
+}
+ 
+ .addres-footer{
+ 	padding-left: 20px;
+ }
+/* responive */
+ 
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+
+    }
+ 	@media only screen and (max-width : 1024px) {
+ 		.price-tag-text{
+ 			padding:30px 0 0 0;
+ 		}
+ 		.step{
+ 			height: 355px;
+ 		}
+ 		.priceandfeature-banner .price-cont .realprice{
+ 			font-size: 150px;
+ 		}
+ 			.solutionfeature-item h3{
+    		margin:0;
+    	}
+    	.solutionfeature-item .solution-desc{
+    		margin:0;
+    		padding:0;
+    	}
+    	.solution-section{
+    		padding:70px 30px;
+    	}
+    }
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+    	header.head-banner{
+    		height: 400px;
+    	}
+    	.banner-text{
+    		margin-top: 80px;
+    	}
+    	.big-text{
+    		font-size: 42px !important;
+    	}
+    	.masalah-section .tooth-cont{
+    		left: 0;
+    	}
+    	.solution-section{
+    		padding:70px 0 30px;
+    	}
+    	.solution-section h2{
+    		padding:0;
+    	}
+    	.solutionfeature-item h3{
+    		margin:0;
+    	}
+    	.solutionfeature-item .solution-desc{
+    		margin:0;
+    		padding:0;
+    	}
+    	.priceandfeature-banner .price-cont .realprice{
+    		font-size: 150px;
+    	}
+    	.priceandfeature-banner .price-cont{
+    		margin-top: 0;
+    	}
+    	.priceandfeature-section{
+    		padding-top: 150px;
+    	}
+    	.priceandfeature-banner .price-cont p{
+    		margin-bottom: 0;
+    	}
+    	.priceandfeature-content h2 br{
+    		display: none;
+    	}
+    	.plusfeature-cont{
+    		width: 60%;
+    		margin:0 auto;
+    	}
+    	.plusfeature-section .plusfeature-list ul li{
+    		margin-bottom: 20px;
+    	}
+    	 
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+    	header.head-banner{
+    		background-position: 30% top;
+    		height: 500px;
+    	}
+    	.banner-text h1 span{
+    		font-size:28px;
+    		line-height: normal;
+    	 
+    	}
+    	.masalah-section .tooth-cont {
+    		position: static;
+    		padding:0;
+
+    	}
+    	.masalah-section .tooth-cont img{
+    		margin:0 auto;
+    	}
+    	 .masalah-section h2{
+    		position: static;
+    	}
+    	.masalah-section .problem-list {
+    		margin-top: 20px;
+    	}
+    	.solutionfeature-item {
+    		text-align: center;
+    	}
+    	.solutionfeature-item .solution-feature-icon{
+    		 display: block;
+    		 margin:0 auto;
+    	}
+    	.solutionfeature-item h3 {
+    		display: inline-block;
+    	}
+    	.solutionfeature-item h3 br, .solution-section h2 br{
+    		display: none;
+    	}
+    	.solution-section{
+    		padding:30px 0;
+    	}
+    	.solutionfeature-item{
+    		margin: 20px 0;
+    		padding:0 15px;
+
+    	}
+    	.solutionfeature-item .solution-desc{
+    		border-bottom: 1px solid #ececec;
+    		padding-bottom: 20px;
+    	}
+    	.solutionfeature-item:last-child .solution-desc{
+    		border-bottom:none;
+    		padding:0;
+    		
+    	}
+    	.priceandfeature-banner{
+    		position: static;
+    	}
+    	.priceandfeature-section {
+   			 padding-top: 50px;
+		}
+		.priceandfeature-banner .price-cont .realprice{
+			line-height: 120px
+		}
+		.priceandfeature-content{
+			padding:40px 0 30px;
+			margin-top: -50px;
+		}
+		.plusfeature-cont{
+			width: 100%;
+		}
+		.plusfeature-section .plusfeature-list ul li{
+			padding-right: 0px;
+		}
+		.btn-container .contactbtn{
+			padding:10px  50px 15px;
+		}
+		.contactbtn-section {
+			height: 200px;
+		}
+		.contactbtn-section .btn-container{
+			top: 35%;
+		}
+		.contactform-dental{
+			padding:0;
+		}
+		.footer-container img{
+			margin-left: -20px;
+		}
+
+		.addres-footer, .addres-footer img{
+			padding:0;
+			margin:0;
+		}
+		.footer-container .row >div{
+			margin-bottom: 10px
+		}
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        
+    }
+    	}
+
+
+
+
+
+
+
+
