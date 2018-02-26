@@ -123,7 +123,7 @@
 						LOGIQUE has various experiences in developing. In the near future we will update our portfolio of website / web-system development, mobile application development, and printing design.<br/><br/>
 						Contact us and we will introduce you our past portfolios of development, maintenance, and operation. Contact us from here:
 						<div class="text-center">
-							<a href="contact.php" class="btn btn-contact-us-black">
+							<a href="contact.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
 								Contact us for LOGIQUE's portfolio
 							</a>
 						</div>

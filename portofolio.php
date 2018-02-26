@@ -122,7 +122,7 @@
 						LOGIQUE memiliki banyak pengalaman dalam jasa pembuatan website, aplikasi, dan SEO. Dalam waktu dekat kami akan mengupdate portofolio kami terkait pembuatan website, web system, aplikasi android, aplikasi iphone (iOS), dan desain media cetak.<br/><br/>
 						Hubungi kami untuk melihat portofolio dan karya kami seputar pembuatan, pengelolaan, dan pengoperasian website. Silakan menghubungi kami dari sini:
 						<div class="text-center">
-							<a href="hubungi-kami.php" class="btn btn-contact-us-black">
+							<a href="hubungi-kami.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
 								Hubungi LOGIQUE terkait portofolio pembuatan Website
 							</a>
 						</div>

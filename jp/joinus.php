@@ -95,7 +95,7 @@
 						<div class="lang-logo">
 							<ul class="list-inline">
 								<li><a href="../en/joinus.php">EN</a></li>
-								<li><a href="../joinus.php">ID</a></li>
+								<li><a href="../karir.php">ID</a></li>
 								<li class="active"><a href="#">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
