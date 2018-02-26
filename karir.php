@@ -174,7 +174,7 @@
 							</div>
 						</div>
 						<div class="text-center">
-							<a href="career/" target="_blank" class="btn btn-contact-us-black">
+							<a href="career/" target="_blank" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Gabung-dengan-Kami-1', 'Action-Click', 'Button-Gabung-dengan-Kami-1-Label');">
 								Gabung Dengan Kami
 							</a>
 						</div>
@@ -678,7 +678,7 @@
 					<div class="got-project">
 						<span>Ayo bergabung dan bekerja bersama di LOGIQUE.</span><br/>
 						<div class="text-center">
-							<a href="career/" target="_blank" class="btn btn-contact-us-black">
+							<a href="career/" target="_blank" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Gabung-dengan-Kami-2', 'Action-Click', 'Button-Gabung-dengan-Kami-2-Label');">
 								Gabung Dengan Kami
 							</a>
 						</div>

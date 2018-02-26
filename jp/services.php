@@ -126,7 +126,7 @@
 							インドネシアでのIT・WEB活用関連について、お気軽にお問い合わせください。御社製品・サービスのインドネシアでの販売パートナー・代理店をお探しの方もお気軽にご連絡ください。
 						</div>
 						<div class="col-sm-4">
-							<a href="contact.php" class="btn btn-contact-service">お問い合わせ</a>
+							<a href="contact.php" class="btn btn-contact-service" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-1', 'Action-Click', 'Button-Hubungi-Logique-Layanan-1-Label');">お問い合わせ</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -577,7 +577,7 @@
 						</div>
 						お気軽にご相談ください。
 						<div class="text-center">
-							<a href="contact.php" class="btn btn-contact-us-black">
+							<a href="contact.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-2', 'Action-Click', 'Button-Hubungi-Logique-Layanan-2-Label');">
 								お問い合わせ
 							</a>
 						</div>

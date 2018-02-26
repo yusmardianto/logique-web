@@ -121,7 +121,7 @@
 						<!--<div style="text-align: center;font-size: 60px;padding: 150px 0;font-weight: bold;font-style: italic;">Coming Soon</div>-->
 						LOGIQUEはインドネシアにて多くの制作開発実績をもっています。幾つかの公開可能なWEB制作、モバイルアプリ開発、WEBシステム開発、印刷物デザインの実績を掲載します。その他の実績、また詳細についてはこちらからご連絡ください。
 						<div class="text-center">
-							<a href="contact.php" class="btn btn-contact-us-black">
+							<a href="contact.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
 								WEB制作実績のお問い合わせ
 							</a>
 						</div>
