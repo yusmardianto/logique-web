@@ -257,9 +257,7 @@ ga('send', 'pageview');
 						</div>
 						<div class="col-md-7 col-sm-8">
 							<div class="testimonial-content">
-								 Pasien yang datang meningkat lebih banyak setelah saya membuat website. Website ini merupakan 
-								 alat pemasaran yang ampuh bagi saya yang sibuk. Website ini juga menjadi media penghubung antara saya dengan pasien tetap saya. Bekerja sama dengan PT.Logique adalah pilihan yang tepat karena 
-								 mereka sangan mengerti apa yang saya inginkan dari sebuah website. PT.Logique memberikan paket lengkang sehingga saya yang tidak terlalu mengerti tentang dunia pemograman dapat mengunakan website ini dengan baik. Terima kasih Logique.
+								  Website yang kami bangun ini dapat memperkenalkan klinik kami pada masyarakat luas, sehingga klinik kami lebih di kenal. Website ini juga menjadi media penghubung antara klinik kami dengan pasien. Bekerja sama dengan PT.Logique adalah pilihan yang tepat karena  mereka sangat mengerti apa yang klink kami butuhkan dari sebuah website. PT.Logique memberikan paket lengkap sehingga kami dapat mengunakan website ini dengan baik. Terima kasih Logique.
 							</div>
 							<div class="testimonial-sender text-right">
 								Dr. Edward Deseta<br>Klinik Gigi Sehat Selalu
