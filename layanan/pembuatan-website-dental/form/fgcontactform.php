@@ -43,7 +43,7 @@ class FGContactForm
         $this->form_random_key = 'HTgsjhartag';
         $this->conditional_field='';
 
-        $this->receipent = ['info@logique.co.id']; // set custom recipient here
+        $this->receipent = ['info@logique.co.id','anggo@logique.co.id']; // set custom recipient here
         // Setting SMTP
         $this->smtpHost = '';                       // Set the SMTP host, eq : smtp.gmail.com
         $this->smtpPort = 587;                      // Set the SMTP port number - 587 for authenticated TLS, a.k.a. RFC4409 SMTP submission
