@@ -197,6 +197,11 @@
 										<br><a target="_blank" href="layanan/pembuatan-website-restoran/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Website Klinik Gigi</b><br/>
+										Logique menyediakan layanan pembuatan website klinik gigi yang siap memberikan solusi digital untuk klinik gigi Anda. Website ini dapat secara efektif meningkatkan popularitas secara online serta membantu memudahkan pelanggan menemukan lokasi klinik Anda. Buatlah website sekarang dan dapatkan media promosi ke seluruh dunia setiap hari, setiap saat, bahkan saat Klinik Anda tutup.
+										<br><a target="_blank" href="layanan/pembuatan-website-karir-perusahaan/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
+									</li>
+									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website dengan Desain Responsif </b><br/>
 										Desain responsif merupakan suatu teknologi yang saat ini sedang populer, yang mampu membuat website Anda dapat dilihat dengan baik pada tampilan berukuran smartphone atau tablet. Hal ini sangat penting karena website di Indonesia mempunyai tingkat kunjungan yang sangat besar dari pengguna smartphone atau tablet, dan LOGIQUE dapat membantu Anda dengan pengalaman dan pengetahuan yang kami miliki terhadap teknologi responsif ini. Kami juga dapat membantu Anda mengelola website responsif yang tidak dibangun menggunakan kerangka bootstrap.
 									</li>

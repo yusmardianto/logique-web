@@ -249,7 +249,7 @@ ga('send', 'pageview');
 					<div class="btn-container"><a class="btn contactbtn" href="https://www.logique.co.id/hubungi-kami.php" target="_blank"> Hubungi Kami </a></div>
 				</div>
 			</section>
-			<section id="testimonial" class="testimonial-section">
+			<section id="testimonial" class="testimonial-section hidden">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-3 col-sm-4 col-md-offset-1">
