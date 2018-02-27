@@ -127,7 +127,7 @@
 							For more information and detail, Please contact us.
 						</div>
 						<div class="col-sm-4">
-							<a href="contact.php" class="btn btn-contact-service">Contact LOGIQUE</a>
+							<a href="contact.php" class="btn btn-contact-service" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-1', 'Action-Click', 'Button-Hubungi-Logique-Layanan-1-Label');">Contact LOGIQUE</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -578,7 +578,7 @@
 						</div>
 						LOGIQUE is ready to help you.
 						<div class="text-center">
-							<a href="contact.php" class="btn btn-contact-us-black">
+							<a href="contact.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-2', 'Action-Click', 'Button-Hubungi-Logique-Layanan-2-Label');">
 								Contact LOGIQUE
 							</a>
 						</div>

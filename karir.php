@@ -114,7 +114,7 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title"><b>Join</b><span class="yellow">Us</span></div>
-					<iframe style="width:100%;height:380px" src="https://www.youtube.com/embed/ZT9zR6d6JPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<iframe style="width:100%;height:380px" src="https://www.youtube.com/embed/ZT9zR6d6JPA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 					<!--<img src="img/career-main.png" class="img-in-joinus" alt="lowongan web developer"/>-->
 					<div class="form-container">
 						<br/><span class="paragraph-karir-title">Bergabung dengan Logique</span><br/>
@@ -174,7 +174,7 @@
 							</div>
 						</div>
 						<div class="text-center">
-							<a href="career/" target="_blank" class="btn btn-contact-us-black">
+							<a href="career/" target="_blank" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Gabung-dengan-Kami-1', 'Action-Click', 'Button-Gabung-dengan-Kami-1-Label');">
 								Gabung Dengan Kami
 							</a>
 						</div>
@@ -678,7 +678,7 @@
 					<div class="got-project">
 						<span>Ayo bergabung dan bekerja bersama di LOGIQUE.</span><br/>
 						<div class="text-center">
-							<a href="career/" target="_blank" class="btn btn-contact-us-black">
+							<a href="career/" target="_blank" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Gabung-dengan-Kami-2', 'Action-Click', 'Button-Gabung-dengan-Kami-2-Label');">
 								Gabung Dengan Kami
 							</a>
 						</div>

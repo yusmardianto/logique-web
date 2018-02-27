@@ -257,7 +257,7 @@
 						</div>
 						LOGIQUE siap membantu Anda.
 						<div class="text-center">
-							<a href="hubungi-kami.php" class="btn btn-contact-us-black">
+							<a href="hubungi-kami.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique', 'Action-Click', 'Button-Hubungi-Logique-Label');">
 								Hubungi LOGIQUE
 							</a>
 						</div>

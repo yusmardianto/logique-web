@@ -126,7 +126,7 @@
 							Pembuatan sistem web dan website berkualitas dengan standar Internasional.
 						</div>
 						<div class="col-sm-4">
-							<a href="hubungi-kami.php" class="btn btn-contact-service">Hubungi LOGIQUE</a>
+							<a href="hubungi-kami.php" class="btn btn-contact-service" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-1', 'Action-Click', 'Button-Hubungi-Logique-Layanan-1-Label');">Hubungi LOGIQUE</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -585,7 +585,7 @@
 						</div>
 						LOGIQUE siap membantu Anda.
 						<div class="text-center">
-							<a href="hubungi-kami.php" class="btn btn-contact-us-black">
+							<a href="hubungi-kami.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-2', 'Action-Click', 'Button-Hubungi-Logique-Layanan-2-Label');">
 								Hubungi LOGIQUE
 							</a>
 						</div>

@@ -134,7 +134,7 @@ if(isset($_POST['submitted']))
 						<div class="lang-logo">
 							<ul class="list-inline">
 								<li class="active"><a href="#">EN</a></li>
-								<li><a href="../contact.php">ID</a></li>
+								<li><a href="../hubungi-kami.php">ID</a></li>
 								<li><a href="../jp/contact.php">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
@@ -266,7 +266,7 @@ if(isset($_POST['submitted']))
 									<div class="clearfix"></div><br/>
 								</div>
 								<div class="col-sm-2 paddingleft">
-									<button type="submit" class="btn btn-submit btn-block">Submit</button>
+									<button type="submit" class="btn btn-submit btn-block" onclick="ga('send', 'event', 'Button-Kirim-ENG', 'Action-Click', 'Button-Kirim-ENG-Label');">Submit</button>
 								</div>
 							</form>
 						</div>

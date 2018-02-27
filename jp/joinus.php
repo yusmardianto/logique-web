@@ -95,7 +95,7 @@
 						<div class="lang-logo">
 							<ul class="list-inline">
 								<li><a href="../en/joinus.php">EN</a></li>
-								<li><a href="../joinus.php">ID</a></li>
+								<li><a href="../karir.php">ID</a></li>
 								<li class="active"><a href="#">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
@@ -114,7 +114,7 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title" style="font-size: 28px;"><b>営業パートナー／インターン採用について</b></div>
-					<iframe style="width:100%;height:380px" src="https://www.youtube.com/embed/ZT9zR6d6JPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<iframe style="width:100%;height:380px" src="https://www.youtube.com/embed/ZT9zR6d6JPA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 					<!--<img src="../img/career-main.png" class="img-in-joinus"/>-->
 					<div class="form-container">
 						<p style="padding-top: 5px;">
