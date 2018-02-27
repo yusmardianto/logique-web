@@ -42,7 +42,7 @@ if(isset($_POST['submitted']))
     <meta name="description" content="LOGIQUE menyediakan layanan pembuatan website bagi Dokter Gigi atau Klinik Dental untuk memudahkan para dokter gigi dan klinik mempromosikan klinik atau dokter gigi.">
 	<meta name="keywords" content="website dental, dokter gigi, klinik gigi, jasa website dental dan klinik dental, logique">
 	<meta name="author" content="Logique Digital Indonesia">
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	<!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> -->
     <title>Layanan Website Dental dan Klinik Dental | Logique Digital Indonesia</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">
@@ -213,17 +213,17 @@ ga('send', 'pageview');
 							</div>
 							<div class="col-md-4 col-sm-6"> 
 								<ul class="feature-item">
-									<li>Domain Unik & Hosting Klinik Gigi</li>
-									<li>Mudah dan Efektif</li>
-									<li>Responsive & Lintas Platform Digital</li>
-									<li>Mudah diakses dengan Ponsel</li>
+									<li>Domain unik & hosting klinik gigi</li>
+									<li>Mudah dan efektif</li>
+									<li>Responsive & lintas platform digital</li>
+									<li>Mudah diakses dengan ponsel</li>
 								</ul>
 							</div>
 							<div class="col-md-4 col-sm-6"> 
 								<ul class="feature-item">
-									<li>Design Eksklusif</li>
+									<li>Design eksklusif</li>
 									<li>Konten berorientasi SEO</li>
-									<li>Terhubung dengan jaringan Medsos</li>
+									<li>Terhubung dengan jaringan medsos</li>
 								</ul>
 							</div>
 						</div>
@@ -257,12 +257,9 @@ ga('send', 'pageview');
 						</div>
 						<div class="col-md-7 col-sm-8">
 							<div class="testimonial-content">
-								esti dari klinik / dokter gigi Testi dari klinik / dokter gigi Testi dari klinik / dokter gigi Testi dari
-klinik / dokter gigi Testi dari klinik / dokter gigi Testi dari klinik / dokter gigi Testi dari klinik /
-dokter gigi Testi dari klinik / dokter gigi Testi dari klinik / dokter gigi Testi dari klinik / dokter gigi
-Testi dari klinik / dokter gigi Testi dari klinik / dokter gigi Testi dari klinik / dokter gigi Testi dari
-klinik / dokter gigi Testi dari klinik / dokter gigi Testi dari klinik / dokter gigi Testi dari klinik /
-dokter gigi Testi dari klinik / dokter gigi Testi dari
+								 Pasien yang datang meningkat lebih banyak setelah saya membuat website. Website ini merupakan 
+								 alat pemasaran yang ampuh bagi saya yang sibuk. Website ini juga menjadi media penghubung antara saya dengan pasien tetap saya. Bekerja sama dengan PT.Logique adalah pilihan yang tepat karena 
+								 mereka sangan mengerti apa yang saya inginkan dari sebuah website. PT.Logique memberikan paket lengkang sehingga saya yang tidak terlalu mengerti tentang dunia pemograman dapat mengunakan website ini dengan baik. Terima kasih Logique.
 							</div>
 							<div class="testimonial-sender text-right">
 								Dr. Edward Deseta<br>Klinik Gigi Sehat Selalu

@@ -284,6 +284,7 @@ header .arraw-down{
 	background: url(../images/feature-list-icon.png) no-repeat left  5px ;
 	padding-left: 22px;
 	font-size: 16px;
+	font-family: avenirlight, sans-serif;
 }
 .footer-container{
 	background: #000000;
@@ -396,6 +397,7 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	color: #9B9B9B;
 	line-height: 24px;
 	font-size: 14px;
+	font-family: 'avenirlight';
 }
 .testimonial-sender{
 	float: right;
