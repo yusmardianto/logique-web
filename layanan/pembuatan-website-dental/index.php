@@ -65,7 +65,7 @@ ga('send', 'pageview');
 			<header class="head-banner">
 				<div class="container">
 					<div class="logo-logique">
-						<a href=""><img src="images/logo_logique.png" alt="" class="img-responsive"></a>
+						<a href="https://www.logique.co.id/"><img src="images/logo_logique.png" alt="" class="img-responsive"></a>
 					</div>
 					<div class="banner-text text-center">
 						<h1 class="text-center avenirblack-text">
@@ -246,7 +246,7 @@ ga('send', 'pageview');
 			</section>
 			<section id="contactbtn" class="contactbtn-section">
 				<div class="container text-center">
-					<div class="btn-container"><a class="btn contactbtn" href="#"> Hubungi Kami </a></div>
+					<div class="btn-container"><a class="btn contactbtn" href="https://www.logique.co.id/hubungi-kami.php" target="_blank"> Hubungi Kami </a></div>
 				</div>
 			</section>
 			<section id="testimonial" class="testimonial-section">
