@@ -199,7 +199,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Klinik Gigi</b><br/>
 										Logique menyediakan layanan pembuatan website klinik gigi yang siap memberikan solusi digital untuk klinik gigi Anda. Website ini dapat secara efektif meningkatkan popularitas secara online serta membantu memudahkan pelanggan menemukan lokasi klinik Anda. Buatlah website sekarang dan dapatkan media promosi ke seluruh dunia setiap hari, setiap saat, bahkan saat Klinik Anda tutup.
-										<br><a target="_blank" href="layanan/pembuatan-website-karir-perusahaan/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
+										<br><a target="_blank" href="layanan/pembuatan-website-klinik-gigi/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website dengan Desain Responsif </b><br/>
