@@ -218,7 +218,7 @@
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
-								<a href="http://jjs.logique.co.id/" target="_blank">
+								<a href="http://jjs.or.id/" target="_blank">
 								<img src="/img/portfolio/jjs.png" class="img-responsive center-block">
 								Jakarta Japanese School<br><br>
 								</a>
@@ -248,7 +248,7 @@
 								</a>
 							</div>
 							 <div class="col-sm-4">
-								<a href="http://kindergarten.jjs.logique.co.id/" target="_blank">
+								<a href="http://kindergarten.jjs.or.id/" target="_blank">
 									<img src="/img/portfolio/kindergarten-jjs.png" class="img-responsive center-block">
 									Kindergarten - Jakarta Japanese School<br><br>
 								</a>
@@ -258,6 +258,12 @@
 								<a href="http://hoyu.co.id/" target="_blank">
 									<img src="/img/portfolio/hoyu.png" class="img-responsive center-block">
 									Hoyu<br><br>
+								</a>
+							</div>	
+							<div class="col-sm-4">
+								<a href="https://4dentist.jp/" target="_blank">
+									<img src="/img/portfolio/4dentist.png" class="img-responsive center-block">
+									4dentist<br><br>
 								</a>
 							</div>	
 							
