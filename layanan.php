@@ -126,7 +126,7 @@
 							Pembuatan sistem web dan website berkualitas dengan standar Internasional.
 						</div>
 						<div class="col-sm-4">
-							<a href="hubungi-kami.php" class="btn btn-contact-service">Hubungi LOGIQUE</a>
+							<a href="hubungi-kami.php" class="btn btn-contact-service" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-1', 'Action-Click', 'Button-Hubungi-Logique-Layanan-1-Label');">Hubungi LOGIQUE</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -195,6 +195,11 @@
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Restoran</b><br/>
 										Kami menyediakan layanan pembuatan website untuk restoran yang dapat secara efektif membantu pemilik restoran menyampaikan informasi seputar restoran. Informasi tersebut dapat berupa menu terbaru, harga, kontak reservasi, lokasi, atau event yang berlangsung di restoran tersebut. Adanya website membantu mempromosikan restoran Anda tanpa henti 24/7.
 										<br><a target="_blank" href="layanan/pembuatan-website-restoran/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
+									</li>
+									<li>
+										<i class="fa-li fa fa-caret-right"></i> <b>Website Klinik Gigi</b><br/>
+										Logique menyediakan layanan pembuatan website klinik gigi yang siap memberikan solusi digital untuk klinik gigi Anda. Website ini dapat secara efektif meningkatkan popularitas secara online serta membantu memudahkan pelanggan menemukan lokasi klinik Anda. Buatlah website sekarang dan dapatkan media promosi ke seluruh dunia setiap hari, setiap saat, bahkan saat Klinik Anda tutup.
+										<br><a target="_blank" href="layanan/pembuatan-website-klinik-gigi/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website dengan Desain Responsif </b><br/>
@@ -331,6 +336,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Pengetesan Keamanan Website (VA Test)</b><br/>
 										Kami dapat melakukan pengetesan dan melaporkan temuan-temuan kami terkait celah keamanan website Anda. Dengan mengetahui celah keamanan tersebut Anda dapat melakukan tindakan pencegahan dari tindak kejahatan digital seperti injeksi SQL, cross-site scripting, session jacking, dan lain-lain. Tim ahli kami akan melakukan tes dengan menggunakan alat-alat pemindaian serta menganalisa temuan-temuan untuk dituangkan ke dalam laporan. Layanan ini kami sediakan mulai dari 10,000,000 Rupiah.
+										<br><a target="_blank" href="layanan/penetration-testing/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 								</ol>
 							  </div>
@@ -584,7 +590,7 @@
 						</div>
 						LOGIQUE siap membantu Anda.
 						<div class="text-center">
-							<a href="hubungi-kami.php" class="btn btn-contact-us-black">
+							<a href="hubungi-kami.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-2', 'Action-Click', 'Button-Hubungi-Logique-Layanan-2-Label');">
 								Hubungi LOGIQUE
 							</a>
 						</div>

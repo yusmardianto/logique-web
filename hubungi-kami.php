@@ -268,7 +268,7 @@ if(isset($_POST['submitted']))
 									<div class="clearfix"></div><br/>
 								</div>
 								<div class="col-sm-2 paddingleft">
-									<button type="submit" class="btn btn-submit btn-block">Kirim</button>
+									<button type="submit" class="btn btn-submit btn-block" onclick="ga('send', 'event', 'Button-Kirim', 'Action-Click', 'Button-Kirim-Label');">Kirim</button>
 								</div>
 							</form>
 						</div>

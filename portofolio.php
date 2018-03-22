@@ -122,7 +122,7 @@
 						LOGIQUE memiliki banyak pengalaman dalam jasa pembuatan website, aplikasi, dan SEO. Dalam waktu dekat kami akan mengupdate portofolio kami terkait pembuatan website, web system, aplikasi android, aplikasi iphone (iOS), dan desain media cetak.<br/><br/>
 						Hubungi kami untuk melihat portofolio dan karya kami seputar pembuatan, pengelolaan, dan pengoperasian website. Silakan menghubungi kami dari sini:
 						<div class="text-center">
-							<a href="hubungi-kami.php" class="btn btn-contact-us-black">
+							<a href="hubungi-kami.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
 								Hubungi LOGIQUE terkait portofolio pembuatan Website
 							</a>
 						</div>
@@ -217,11 +217,11 @@
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
-								<a href="http://jjs.logique.co.id/" target="_blank">
+								<a href="http://jjs.or.id/" target="_blank">
 								<img src="/img/portfolio/jjs.png" class="img-responsive center-block">
 								Jakarta Japanese School<br><br>
 								</a>
-							</div>\ 
+							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/oto-conc.png" class="img-responsive center-block">
 								OTOmart Concierge Page<br><br>
@@ -247,7 +247,7 @@
 								</a>
 							</div>
 							 <div class="col-sm-4">
-								<a href="http://kindergarten.jjs.logique.co.id/" target="_blank">
+								<a href="http://kindergarten.jjs.or.id/" target="_blank">
 									<img src="/img/portfolio/kindergarten-jjs.png" class="img-responsive center-block">
 									Kindergarten - Jakarta Japanese School<br><br>
 								</a>
@@ -257,6 +257,12 @@
 								<a href="http://hoyu.co.id/" target="_blank">
 									<img src="/img/portfolio/hoyu.png" class="img-responsive center-block">
 									Hoyu<br><br>
+								</a>
+							</div>	
+							<div class="col-sm-4">
+								<a href="https://4dentist.jp/" target="_blank">
+									<img src="/img/portfolio/4dentist.png" class="img-responsive center-block">
+									4dentist<br><br>
 								</a>
 							</div>							 
 							

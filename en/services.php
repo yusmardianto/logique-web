@@ -99,7 +99,7 @@
 						<div class="lang-logo">
 							<ul class="list-inline">
 								<li class="active"><a href="">EN</a></li>
-								<li><a href="../services.php">ID</a></li>
+								<li><a href="../layanan.php">ID</a></li>
 								<li><a href="../jp/services.php">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
@@ -127,7 +127,7 @@
 							For more information and detail, Please contact us.
 						</div>
 						<div class="col-sm-4">
-							<a href="contact.php" class="btn btn-contact-service">Contact LOGIQUE</a>
+							<a href="contact.php" class="btn btn-contact-service" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-1', 'Action-Click', 'Button-Hubungi-Logique-Layanan-1-Label');">Contact LOGIQUE</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -328,6 +328,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>WEB Security Assesment (Vulnerability Scanning / Test)</b><br/>
 										We test and report the vulnerability of your web-application. With the scanning, you can protect your web-application from being attacked by SQL injection, cross-site scripting, session-jacking, etc. Our expert will conduct the test utilizing scanning tools. We can conduct the vulnerability test and reporting starting from 10,000,000 IDR.
+										<br><a target="_blank" href="/layanan/penetration-testing/" class="btn btn-service-link">See More</a>
 									</li>
 								</ol>
 							  </div>
@@ -577,7 +578,7 @@
 						</div>
 						LOGIQUE is ready to help you.
 						<div class="text-center">
-							<a href="contact.php" class="btn btn-contact-us-black">
+							<a href="contact.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-2', 'Action-Click', 'Button-Hubungi-Logique-Layanan-2-Label');">
 								Contact LOGIQUE
 							</a>
 						</div>
