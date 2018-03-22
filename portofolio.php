@@ -264,7 +264,13 @@
 									<img src="/img/portfolio/4dentist.png" class="img-responsive center-block">
 									4dentist<br><br>
 								</a>
-							</div>							 
+							</div>
+							<div class="col-sm-4">
+								<a href="https://hajime-indonesia.co.id/about/" target="_blank">
+									<img src="/img/portfolio/hajime.png" class="img-responsive center-block">
+									Hajime<br><br>
+								</a>
+							</div>
 							
 						</div>
 						<br/>
