@@ -264,6 +264,12 @@
 									4dentist<br><br>
 								</a>
 							</div>
+							<div class="col-sm-4">
+								<a href="https://hajime-indonesia.co.id/about/" target="_blank">
+									<img src="/img/portfolio/hajime.png" class="img-responsive center-block">
+									Hajime<br><br>
+								</a>
+							</div>
 						</div>
 						<br/>
 						<span class="characteristic-title">システム構築実績</span>
