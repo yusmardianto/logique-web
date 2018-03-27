@@ -174,6 +174,8 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>採用サイト制作</b><br/>
 										ジャカルタにて、ミスマッチングとならない良い人材の採用の難易度は非常に高くなっています。自社で採用サイトをもち、これを活用した採用活動をすることが一つの解決策となります。会社について、人について、求めている人材について、インタビュー動画なども交えて伝えることで効果的な採用が可能となります。求人ページ・サイトと採用管理システムを連動させる案件の実績も豊富にもっています。
+										<br/>
+										<a target="_blank" href="/layanan/jp/pembuatan-website-karir-perusahaan/" class="btn btn-service-link">もっと見る</a>
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
