@@ -325,7 +325,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>WEBセキュリティ診断（脆弱性診断・検査）</b><br/>
 										Webアプリケーションの脆弱性を診断・レポートします。SQLインジェクション、クロスサイトスクリプティング、セッションハイジャックなどの攻撃による被害の発生を未然に防ぐことができます。診断ツール、経験豊富な担当者による診断の両方を併用して診断します。診断項目などによりますが10,000,000 IDRから診断可能です。
-										<br><a target="_blank" href="/layanan/penetration-testing/" class="btn btn-service-link">もっと見る</a>
+										<br><a target="_blank" href="/layanan/jp/penetration-testing/" class="btn btn-service-link">もっと見る</a>
 									</li>
 								</ol>
 							  </div>
