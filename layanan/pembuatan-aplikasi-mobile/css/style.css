@@ -49,7 +49,7 @@ header p{font-size:18px;color:#fff}
 .purple{color:#cb2bb9;}
 
 h2.first{font-size:36px;font-weight:300;}
-h2.first span{color:#5f1cc9;font-weight:bold;display: block;}
+h2.first span{color:#5f1cc9;font-weight:bold;}
 .solusi {
 	color:#fff;
 	background: rgba(95,28,201,1);
@@ -63,7 +63,7 @@ h2.first span{color:#5f1cc9;font-weight:bold;display: block;}
 }
 .solusi .title{font-size:28px;text-align:right}
 .solusi .title span{display:block}
-.solusi ul li{font-size:20px;padding:8px 0}
+.solusi ul li{font-size:18px;padding:8px 0}
 .solusi ul .fa-li{top:9px}
 .div-form{padding:30px;font-size:28px;color:#000;background:url('../img/bg-div-form.png') no-repeat;background-size:cover}
 .div-form form{margin-top:20px;}
@@ -114,7 +114,7 @@ footer .title{font-size:24px;}
 .device{position:absolute;left: 4px;right: 0;margin: -20px auto 0;}
 .slider-app{margin: 0 -50px;}
 .slick-slide{outline:none!important}
-.slick-dots{position: absolute;bottom: -60px;display: block;width: 100%;padding: 0;list-style: none;text-align: center;}
+.slick-dots{position: absolute;bottom: 0;display: block;width: 100%;padding: 0;list-style: none;text-align: right;}
 .slick-dots li{position: relative;display: inline-block;width: 20px;height: 20px;margin: 0 5px;padding: 0;cursor: pointer;}
 .slick-dots li button{font-size: 0;line-height: 0;display: block;width: 20px;height: 20px;padding: 5px;cursor: pointer;color: transparent;border: 0;outline: none;background: transparent;}
 .slick-dots li button:hover,
@@ -124,9 +124,36 @@ footer .title{font-size:24px;}
 .slick-dots li button:before{font-family: 'FontAwesome';font-size: 15px;line-height: 20px;position: absolute;top: 0;left: 0;width: 20px;height: 20px;content: "\f111";text-align: center;opacity: .25;color: black;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
 .slick-dots li.slick-active button:before{opacity: .75;color: #ff8c0b;}
 
+.font-28{font-size:28px;}
+.font-20{font-size:20px;}
+.logique-help{}
+.div-help{font-size:18px;padding:20px;text-align:center;border:2px solid #ccc;margin-bottom:35px}
+.div-help .div-title{margin-top: -38px;margin-bottom: 10px;}
+.div-help .title{background: #fff;padding: 0 8px;font-size:24px;margin:auto}
+.valign-center{top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);position:relative}
+.m-t-30{margin-top: 30px;}
+.solusi.revision{background:url(../img/div-solusi.png);background-size:cover;font-size:18px}
+.layanan-kami{background:rgba(255,255,255,0.1);padding:15px;margin-bottom:10px}
+.layanan-kami .title{font-size:20px;text-align:center;padding: 0 35px;}
+.bg-grey{background:#ececec;padding:50px 0}
+.col-md-5ths {
+	position: relative;
+	min-height: 1px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.contain-img{background: #e0e0e0;padding: 25px 15px 15px 15px;}
+.contain-img + p {text-align: center;padding: 10px;}
+.contain-img .title{font-weight:bold;font-size:22px;margin-top: 10px;}
+.portofolio{padding:50px 0;}
+.caption-portfolio{padding: 20px;background: #e4e4e4;margin-top: 55px;position:relative}
+.arrow-left {width: 0;height: 0;border-top: 25px solid transparent;border-bottom: 25px solid transparent;border-right: 25px solid #e4e4e4;position: absolute;left: -18px;}
+.div-help img{margin-top:10px}
 
 
-
+@media (min-width: 991px){
+	.col-md-5ths {float: left;width: 20%;}
+}
 @media (max-width:991px) {
 	.name-input{margin-bottom:15px}
 	.div-form {padding: 30px 0;}
@@ -134,8 +161,15 @@ footer .title{font-size:24px;}
 	.mobile-phone{margin-bottom:20px;}
 	.hp-header {margin-bottom: 20px;height: 300px;}
 	.solusi .title{text-align:left;margin-bottom:10px}
+	.solusi.revision .title {text-align: center;}
 }
 @media (max-width:767px) {
+	.caption-portfolio .font-28{font-size:20px;margin-bottom: -15px;}
+	.caption-portfolio .font-20{font-size:16px}
+	.arrow-left{display:none}
+	.caption-portfolio{margin-top: 25px;}
+	.slick-dots{bottom: -35px;}
+	.col-md-5ths {float: none;width: 100%;}
 	h1 {font-size: 30px;}
 	.hubungi-kami-top{padding: 20px 0;font-size: 25px;}
 	.device{left: -1px;}
