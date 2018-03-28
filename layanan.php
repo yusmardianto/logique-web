@@ -274,6 +274,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Pengembangan Aplikasi Mobile</b><br/>
 										Kami melayani pengembangan aplikasi Android/ iOS yang sesuai dengan pasar Indonesia. Tidak hanya merancang atau mengimplementasikan teknologi baru, tetapi kami juga mengoptimalkan UI dan UX, desain, pengembangan aplikasi, hingga membantu Anda mendaftarkan aplikasi ke App Store / Google Play. Sebuah layanan yang komprehensif untuk Anda.
+										<br><a target="_blank" href="layanan/pembuatan-aplikasi-mobile/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 								</ol>
 							  </div>

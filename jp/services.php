@@ -175,7 +175,7 @@
 										<i class="fa-li fa fa-caret-right"></i> <b>採用サイト制作</b><br/>
 										ジャカルタにて、ミスマッチングとならない良い人材の採用の難易度は非常に高くなっています。自社で採用サイトをもち、これを活用した採用活動をすることが一つの解決策となります。会社について、人について、求めている人材について、インタビュー動画なども交えて伝えることで効果的な採用が可能となります。求人ページ・サイトと採用管理システムを連動させる案件の実績も豊富にもっています。
 										<br/>
-										<a target="_blank" href="/layanan/jp/pembuatan-website-karir-perusahaan/" class="btn btn-service-link">もっと見る</a>
+										<a target="_blank" href="/layanan/pembuatan-website-karir-perusahaan/" class="btn btn-service-link">もっと見る</a>
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
@@ -327,7 +327,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>WEBセキュリティ診断（脆弱性診断・検査）</b><br/>
 										Webアプリケーションの脆弱性を診断・レポートします。SQLインジェクション、クロスサイトスクリプティング、セッションハイジャックなどの攻撃による被害の発生を未然に防ぐことができます。診断ツール、経験豊富な担当者による診断の両方を併用して診断します。診断項目などによりますが10,000,000 IDRから診断可能です。
-										<br><a target="_blank" href="/layanan/jp/penetration-testing/" class="btn btn-service-link">もっと見る</a>
+										<br><a target="_blank" href="/layanan/penetration-testing/" class="btn btn-service-link">もっと見る</a>
 									</li>
 								</ol>
 							  </div>

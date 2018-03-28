@@ -250,7 +250,7 @@ class FGContactForm
         $ret_str='';
         foreach($_POST as $key=>$value) {
             if (!$this->IsInternalVariable($key)) {
-                if (in_array($key, array(  'name', 'email'))) {
+                if (in_array($key, array(  'name', 'email', 'phone'))) {
                     $value = htmlentities($value,ENT_QUOTES,"UTF-8");
                     $value = nl2br($value);
                     $key = ucfirst($key);
@@ -432,7 +432,7 @@ class FGContactForm
     {
         $this->name = $this->Sanitize($_POST['name']);
         $this->email = $this->Sanitize($_POST['email']);
-        //$this->phone = $this->Sanitize($_POST['phone']);
+        $this->phone = $this->Sanitize($_POST['phone']);
         //$this->country = $this->Sanitize($_POST['country']);
         
         /*newline is OK in the message.*/

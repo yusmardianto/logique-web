@@ -40,11 +40,11 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="">
-	<meta name="keywords" content="">
+    <meta name="description" content="Kami menyediakan layanan dan solusi terbaik dalam mengembangkan aplikasi mobile berskala perusahaan atau berbasis konsumen untuk smartphone/tablet iOS dan Android.">
+	<meta name="keywords" content="jasa pengembangan aplikasi mobile, jasa pengembangan mobile app, jasa pembuatan aplikasi mobile, pengembangan aplikasi mobile">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Aplikasi Mobile | Logique Digital Indonesia</title>
+    <title>Pengembangan Aplikasi Mobile | Logique Digital Indonesia</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
@@ -174,7 +174,7 @@ if(isset($_POST['submitted']))
 				<br/><br/>
 				<div class="row row-center-md">
 					<div class="col-md-offset-1 col-md-3">
-						<h2 class="title">Solusi yang di peroleh dari pengambangan <span><b>Aplikasi Mobile</b></span></h2>
+						<h2 class="title">Solusi yang di peroleh dari pengembangan <span><b>Aplikasi Mobile</b></span></h2>
 					</div>
 					<div class="col-md-8">
 						<ul class="fa-ul">
@@ -400,11 +400,18 @@ if(isset($_POST['submitted']))
 						<fieldset><div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div></fieldset>
 							<div class="form-group">
 								<div class="row">
-									<div class="col-md-6">
+									<div class="col-md-12">
 										<input type="text" name="name" placeholder="Nama Anda" class="form-control name-input" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
 									</div>
+								</div>
+							</div>
+							<div class="form-group">
+								<div class="row">
 									<div class="col-md-6">
 										<input type="email" name="email" placeholder="Alamat Email" class="form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' />
+									</div>
+									<div class="col-md-6">
+										<input type="number" name="phone" placeholder="Nomor Telepon" class="form-control" value='<?php echo $formproc->SafeDisplay('phone') ?>' />
 									</div>
 								</div>
 							</div>
