@@ -67,7 +67,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<img class="img-responsive" src="img/logo_logique.png"/>
+						<img alt="logo" class="img-responsive" src="img/logo_logique.png"/>
 					</div>
 				</div>
 				<div class="row">
@@ -80,7 +80,7 @@ if(isset($_POST['submitted']))
 						<div class="visible-md visible-lg"><br/><br/><br/><br/><br/><br/><br/><br/><br/></div>
 					</div>
 					<div class="col-md-5">
-						<img src="img/hp-header.png" class="hp-header img-responsive center-block"/>
+						<img alt="Mobile" src="img/hp-header.png" class="hp-header img-responsive center-block"/>
 					</div>
 				</div>
 			</div>
@@ -100,7 +100,7 @@ if(isset($_POST['submitted']))
 				<div class="col-md-5">
 					<h2 class="first">Pengembangan <span>Aplikasi Mobile</span> Berorientasi Pengguna</h2>
 					<br/>
-					<img src="img/mobile-phone.png" class="img-responsive center-block mobile-phone"/>
+					<img alt="Pengembangan Aplikasi Mobile Berorientasi Pengguna" src="img/mobile-phone.png" class="img-responsive center-block mobile-phone"/>
 				</div>
 				<div class="col-md-7">
 					<p>
@@ -120,7 +120,7 @@ if(isset($_POST['submitted']))
 				<br/><br/>
 				<div class="row">
 					<div class="col-md-4">
-						<div class="title">LOGIQUE adalah Salah Satu Pengembang <b>Aplikasi Mobile</b> Terbaik di Indonesia</div>
+						<h2 class="title">LOGIQUE adalah Salah Satu Pengembang <b>Aplikasi Mobile</b> Terbaik di Indonesia</h2>
 					</div>
 					<div class="col-md-8">
 						<ul class="fa-ul">
@@ -138,31 +138,31 @@ if(isset($_POST['submitted']))
 			<br/><br/><br>
 			<div class="row">
 				<div class="col-md-12">
-					<div class="font-28 text-center">Bagaimana <span class="purple"><b>LOGIQUE</b></span> Membantu Anda</div>
+					<h2 class="font-28 text-center">Bagaimana <span class="purple"><b>LOGIQUE</b></span> Membantu Anda</h2>
 				</div>
 				<div class="clearfix"></div>
 				<br/><br/><br>
 				<div class="col-md-4">
 					<div class="div-help">
-						<div class="div-title"><span class="title purple"><b>Ide Aplikasi Inovatif</b></span></div>
+						<h3 class="div-title"><span class="title purple"><b>Ide Aplikasi Inovatif</b></span></h3>
 						<div class="">
-						<img class="img-responsive center-block" src="img/inovatif.png"/><br/>
+						<img alt="Ide Aplikasi Inovatif" class="img-responsive center-block" src="img/inovatif.png"/><br/>
 						Apakah Anda sudah menemukan ide untuk mengembangkan aplikasi mobile senilai milyaran rupiah seperti Go-Jek, Traveloka, atau Tokopedia? Dengan keamanaan informasi melalui Perjanjian Kerahasiaan kami dapat membantu menganalisa ide Anda dan merealisasikannya. Kami akan membantu Anda untuk menjadi App-Enterpreneur besar selanjutnya di industri yang sedang berkembang sangat pesat ini.</div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="div-help">
-						<div class="div-title"><span class="title purple"><b>Memberikan Nilai Tambahan</b></span></div>
+						<h3 class="div-title"><span class="title purple"><b>Memberikan Nilai Tambahan</b></span></h3>
 						<div class="">
-						<img class="img-responsive center-block" src="img/nilai-tambah.png"/><br/>
+						<img alt="Memberikan Nilai Tambahan" class="img-responsive center-block" src="img/nilai-tambah.png"/><br/>
 						Sudah menyediakan produk dan layanan kepada pelanggan Anda? Kami dapat membantu Anda menggunakan teknologi berbasis aplikasi untuk membangun nilai tambah sesuai dengan penawaran Anda. Kenyamanan, kemampuan, dan konektivitas smartphone menjadikannya sebagai platform ideal untuk membawa nilai tambah ke layanan Anda saat ini.</div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="div-help">
-						<div class="div-title"><span class="title purple"><b>Meningkatkan Proses Bisnis</b></span></div>
+						<h3 class="div-title"><span class="title purple"><b>Meningkatkan Proses Bisnis</b></span></h3>
 						<div class="">
-						<img class="img-responsive center-block" src="img/proses-bisnis.png"/><br/>
+						<img alt="Meningkatkan Proses Bisnis" class="img-responsive center-block" src="img/proses-bisnis.png"/><br/>
 						Pernahkah Anda mempertimbangkan bagaimana Anda dapat mengefektifkan bisnis atau perusahaan Anda menggunakan teknologi aplikasi mobile? Aplikasi memberikan peluang yang sangat luas untuk memberdayakan staf dan meningkatkan efisiensi. Solusi aplikasi mobile dengan perencanaan sesuai kebutuhan perusahaan telah terbukti meningkatkan aktivitas kerja sehari-hari yang memungkinkan menghasilkan kinerja yang lebih baik dibandingkan pesaing bisnis Anda.</div>
 					</div>
 				</div>
@@ -174,7 +174,7 @@ if(isset($_POST['submitted']))
 				<br/><br/>
 				<div class="row row-center-md">
 					<div class="col-md-offset-1 col-md-3">
-						<div class="title">Solusi yang di peroleh dari pengambangan <span><b>Aplikasi Mobile</b></span></div>
+						<h2 class="title">Solusi yang di peroleh dari pengambangan <span><b>Aplikasi Mobile</b></span></h2>
 					</div>
 					<div class="col-md-8">
 						<ul class="fa-ul">
@@ -186,7 +186,7 @@ if(isset($_POST['submitted']))
 					</div>
 				</div>
 				<br/><hr/><br/>
-				<div class="font-28 text-center">Layanan Kami</div><br/>
+				<h2 class="font-28 text-center">Layanan Kami</h2><br/>
 				<div class="row">
 					<div class="col-md-10 col-md-offset-1 text-center">
 						Kami menawarkan layanan lengkap mulai dari pengembangan konsep aplikasi, pembuatan, peluncuran, hingga pengelolaan berkelanjutan untuk aplikasi Anda. Semua layanan kami bertujuan untuk membangun aplikasi yang menawarkan pengalaman maksimal bagi pengguna dan hasil transformasi bisnis yang luar biasa.
@@ -196,7 +196,7 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-4">
 						<div class="layanan-kami">
-							<div class="title">Pengembangan Aplikasi iOS untuk iPhone / iPad</div>
+							<h3 class="title">Pengembangan Aplikasi iOS untuk iPhone / iPad</h3>
 							<br/>
 							<img alt="Pengembangan Aplikasi iOS untuk iPhone / iPad" src="img/apple.png" class="img-responsive center-block"/><br/>
 							Kami berpengalaman mengembangkan aplikasi yang memiliki kompatibilitas pada berbagai versi iOS dengan menggunakan bahasa Swift mulai dari Swift 1 hingga Swift 4 yang populer digunakan saat ini.
@@ -204,7 +204,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-4">
 						<div class="layanan-kami">
-							<div class="title">Pengembangan Aplikasi Android</div>
+							<h3 class="title">Pengembangan Aplikasi Android</h3>
 							<br/>
 							<img alt="Pengembangan Aplikasi Android" src="img/android.png" class="img-responsive center-block"/><br/>
 							Berbagai macam aplikasi Android native berbasis Java mulai dari yang sederhana, multi-bahasa, hingga dengan kompleksitas yang tinggi telah kami hasilkan.
@@ -212,7 +212,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-4">
 						<div class="layanan-kami">
-							<div class="title">Pengembangan Aplikasi Hybrid</div>
+							<h3 class="title">Pengembangan Aplikasi Hybrid</h3>
 							<br/>
 							<img alt="Pengembangan Aplikasi Hybrid" src="img/hybrid.png" class="img-responsive center-block"/><br/>
 							Jika Anda ingin memiliki dua aplikasi untuk Android dan iOS sekaligus dalam satu waktu kami juga dapat memberikan layanan pembuatan berbasis hybrid dengan mengimplementasikan berbagai teknologi seperti Ionic, Adobe PhoneGap, Apache Cordova, Xamarin, AngularJS, dan sebagainya.
@@ -223,7 +223,7 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-4 col-md-offset-2">
 						<div class="layanan-kami">
-							<div class="title">Desain UI/UX Aplikasi Mobile</div>
+							<h3 class="title">Desain UI/UX Aplikasi Mobile</h3>
 							<br/>
 							<img alt="Desain UI/UX Aplikasi Mobile" src="img/ux.png" class="img-responsive center-block"/><br/>
 							Semua aplikasi mobile kami dikembangkan dengan estetika desain yang sesuai dengan fungsinya. Dengan standar desain yang tinggi, kami memastikan pelanggan akan menyukai interaksi berkelanjutan. Selain itu, penerapan desain responsif yang kami lakukan juga memberikan pengalaman maksimal untuk pengguna.
@@ -231,7 +231,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-4">
 						<div class="layanan-kami">
-							<div class="title">Pengembangan CMS / API</div>
+							<h3 class="title">Pengembangan CMS / API</h3>
 							<br/>
 							<img alt="Pengembangan CMS / API" src="img/cms.png" class="img-responsive center-block"/><br/>
 							Untuk mendukung pengembangan aplikasi mobile kami juga menyediakan layanan pembuatan CMS dan API dalam berbagai platform, khususnya PHP.
@@ -245,7 +245,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-5">
-						<div class="font-28">Klien / Portofolio</div>
+						<h2 class="font-28">Klien / Portofolio</h2>
 						<br/>
 						<div class="font-20">Kami memiliki pengalaman bekerja sama dengan klien dari berbagai sektor industri dan telah membantu menghasilkan aplikasi mobile yang mampu memecahkan masalah perusahaan, meningkatkan penjualan, dan menjaga relasi pelanggan.
 						</div>
@@ -256,7 +256,7 @@ if(isset($_POST['submitted']))
 						<div>
 							<div class="row">
 								<div class="col-sm-5">
-									<img class="img-responsive center-block" src="img/sunlife.png"/>
+									<img alt="Sunlife" class="img-responsive center-block" src="img/sunlife.png"/>
 								</div>
 								<div class="col-sm-7">
 									<div class="caption-portfolio">
@@ -272,7 +272,7 @@ if(isset($_POST['submitted']))
 						<div>
 							<div class="row">
 								<div class="col-sm-5">
-									<img class="img-responsive center-block" src="img/otomart.png"/>
+									<img alt="Otomart" class="img-responsive center-block" src="img/otomart.png"/>
 								</div>
 								<div class="col-sm-7">
 									<div class="caption-portfolio">
@@ -288,7 +288,7 @@ if(isset($_POST['submitted']))
 						<div>
 							<div class="row">
 								<div class="col-sm-5">
-									<img class="img-responsive center-block" src="img/frangipani.png"/>
+									<img alt="Frangipani" class="img-responsive center-block" src="img/frangipani.png"/>
 								</div>
 								<div class="col-sm-7">
 									<div class="caption-portfolio">
@@ -310,7 +310,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<div class="font-28 text-center">Cara Kerja LOGIQUE</div>
+						<h2 class="font-28 text-center">Cara Kerja LOGIQUE</h2>
 						<br/>
 						<p class="text-center">
 							Baik untuk proyek B2C, B2B, startup, atau solusi operasional perusahaan, pertama-tama, kami akan meluangkan waktu untuk memahami bisnis, produk dan kebutuhan pengguna. Cara dan hasil kerja kami sangat disukai oleh pengguna dan klien karena mampu menciptakan aplikasi yang optimal dan memberi nilai tambah dari segi bisnis.
@@ -455,7 +455,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-4">
 						<div class="title">Hubungi Kami</div>
-						<a href="/hubungi-kami.php" target="_blank"><img src="img/logo_logique_footer.png" class="img-responsive"/></a>
+						<a href="/hubungi-kami.php" target="_blank"><img alt="Logo" src="img/logo_logique_footer.png" class="img-responsive"/></a>
 						Ad Premier Building 19th Floor. <br/>
 						Jalan Tb. Simatupang No. 5 <br/>
 						Ragunan, Ps. Minggu, <br/>
