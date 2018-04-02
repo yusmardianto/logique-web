@@ -67,7 +67,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<img alt="logo" class="img-responsive" src="img/logo_logique.png"/>
+						<a href="/"><img alt="logo" class="img-responsive" src="img/logo_logique.png"/></a>
 					</div>
 				</div>
 				<div class="row">
