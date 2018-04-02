@@ -163,12 +163,13 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 					<div class="container">
 					<div class="row">
 						<div class="col-sm-6 simul-2">
-							<center><h4>Melalui Situs Lowongan Kerja</h4>
-							<img src="images/simulation1.png" class="img-responsive"></center>
+							<center><h4>Melalui Situs Lowongan Kerja</h4></center>
+							<img src="images/simulation1.png" class="img-responsive center-block">
 						</div>
+						<div class="visible-xs"><br/><br/></div>
 						<div class="col-sm-6 simul-3">
-							<center><h4>Melalui Agen Penyalur Tenaga Kerja</h4>
-							<img src="images/simulation2.png" class="img-responsive"></center>
+							<center><h4>Melalui Agen Penyalur Tenaga Kerja</h4></center>
+							<img src="images/simulation2.png" class="img-responsive center-block">
 						</div>
 					</div>
 					<div class="col-sm-12 simul-description">
@@ -194,13 +195,9 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 									<div style="">
 										<center>
 											<span style="font-size: 16px; vertical-align: middle;">IDR</span>
-											<span class="price-number" style="font-size: 100px; font-weight: 900; vertical-align: middle;line-height: 90px">30</span>
-											<span style="font-size: 32px;vertical-align: middle;font-weight: bold;">Juta*</span>
+											<span class="price-number" style="font-size: 100px; font-weight: 900; vertical-align: middle;line-height: 90px">20</span>
+											<span style="font-size: 32px;vertical-align: middle;font-weight: bold;">Juta</span>
 										</center>
-									</div>
-									<div class="price-term" style="font-size: 16px; color:#111; margin-top: 10px;">
-										(*Initial Cost, dengan biaya maintenance Rp 1 juta/bulan)
-
 									</div>
 								</div>
 							</div>

@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUE menyediakan layanan Penetration testing untuk meningkatkan keamanan sistem atau aplikasi Anda">
-	<meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing , logique">
+    <meta name="description" content="LOGIQUEのWEBサイトセキュリティ診断サービスは、お客様のWEBサイト、E-Commerce、WEBアプリケーションの脆弱性を診断し、レポート、対策案を提案します。インドネシアの首都ジャカルタのWEB制作・システム開発会社LOGIQUEにセキュリティ対策についてご相談ください。">
+	<meta name="keywords" content="">
 	<meta name="author" content="Logique Digital Indonesia">
-	<meta property="og:title" content="Penetration Test | Logique Digital Indonesia">
+	<meta property="og:title" content="WEBサイト脆弱性セキュリティ診断サービス｜ジャカルタのWEB制作・システム開発会社LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/layanan/penetration-testing/">
+	<meta property="og:url" content="https://www.logique.co.id/layanan/jp/penetration-testing/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUE menyediakan layanan Penetration testing untuk lebih meningkatkan keamanan sistem atau aplikasi Anda">
+	<meta property="og:description" content="LOGIQUEのWEBサイトセキュリティ診断サービスは、お客様のWEBサイト、E-Commerce、WEBアプリケーションの脆弱性を診断し、レポート、対策案を提案します。インドネシアの首都ジャカルタのWEB制作・システム開発会社LOGIQUEにセキュリティ対策についてご相談ください。">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Penetration Test | Logique Digital Indonesia</title>
+    <title>WEBサイト脆弱性セキュリティ診断サービス｜ジャカルタのWEB制作・システム開発会社LOGIQUE</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">
 	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
@@ -61,14 +61,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-7">
-					<div class="title fw-300"><span class="yellow">WEBサイトセキュリティ診断</span>内容、把握できる<span class="yellow">WEBのセキュリティリスク</span></div>
+					<div class="title fw-300"><span class="yellow">WEBサイトセキュリティ診断内容</span><br/>把握できるWEBのセキュリティリスク</div>
 					<br/>
-					<ul>
-						<li><span class="yellow">12項目の診断項目について確認、レポートします。WEBサイトのセキュリティレベルを素早く把握できるWEBサイト脆弱性診断アセスメントサービスです。</span></li>
-						<li><span class="yellow">セキュリティ診断対象WEBサイトの規模（ページ数や検索機能やフォームの有無や数）により診断対象を限定する場合があります。</span></li>
-						<li><span class="yellow">セキュリティ診断ツールを用いた診断を行います。網羅的な確認が可能です。</span></li>
-						<li><span class="yellow">必要に応じてソース解析診断などのマニュアル診断を行います。セキュリティ上の重要事項について潜在的なリスクを発見します。</span></li>
-						<li><span class="yellow">診断結果の報告に加えて改善方法や優先順位付けなどを提言します。</span></li>
+					<ul style="color:#fff">
+						<li>12項目の診断項目について確認、レポートします。WEBサイトのセキュリティレベルを素早く把握できるWEBサイト脆弱性診断アセスメントサービスです。</li>
+						<li>セキュリティ診断対象WEBサイトの規模（ページ数や検索機能やフォームの有無や数）により診断対象を限定する場合があります。</li>
+						<li>セキュリティ診断ツールを用いた診断を行います。網羅的な確認が可能です。</li>
+						<li>必要に応じてソース解析診断などのマニュアル診断を行います。セキュリティ上の重要事項について潜在的なリスクを発見します。</li>
+						<li>診断結果の報告に加えて改善方法や優先順位付けなどを提言します。</li>
 					</ul>
 				</div>
 			</div>
@@ -81,15 +81,15 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<div class="text-center lh-30">
-						<span class="title fw-300"><b>WEBサイトセキュリティ診断</b>が必要な理由</span><br/>
+					<div class="text-left lh-30">
+						<div class="text-center"><span class="title fw-300"><b>WEBサイトセキュリティ診断</b>が必要な理由</span></div>
 						インドネシアにおいても、企業に対して、不正アクセス、WEBサイトの改ざんをはじめとするWEBサーバー、WEBサイトへの攻撃が頻繁に行われています。結果として個人情報漏えい、WEBサイトの改ざん、システムダウンやアクセス障害、踏み台化などの被害が起こっています。<br/>
 						企業のブランド価値や信頼感を伝えるためのお客様とのコミュニケーションチャネルであるWEBサイトを安心してユーザーにご利用いただくために、脆弱性を払拭した安全なWEBサイトを提供することは、企業の義務だと考えます。WEBサイトでセキュリティ事件が発生することでブランド価値が大きい毀損するリスクがあります。<br/>
 						こういったリスクを取り除き、安全なWEBサイトであることを維持し続けるために、WEBサイトのセキュリティ脆弱性診断は欠かすことはできません。
 					</div>	
 					<br/><br/>
-					<div class="text-center lh-30">
-						<span class="title fw-300"><b>WEBサイトセキュリティ脆弱性診断</b>のカバー範囲</span><br/>
+					<div class="text-left lh-30">
+						<div class="text-center"><span class="title fw-300"><b>WEBサイトセキュリティ脆弱性診断</b>のカバー範囲</span></div>
 						WEB、WEBサーバーのセキュリティリスクは複雑です。ミドルウェアやインフラのセキュリティ、ネットワークセキュリティ、ソーシャルエンジニアリングのリスクなど広範囲で非常に多くの考えなくてはいけないこと、対策しなくてはいけないことがあります。<br/>
 						ただし、この困難さ、複雑さ、高コストを理由として何もしないのではなく、低コストで短期間で実施できるLOGIQUEのWEBサイトセキュリティ診断を受診されることをお奨めいたします。
 
@@ -296,8 +296,7 @@
 			</div><br/>
 			<div class="row">
 				<div class="col-md-offset-1 col-md-10">
-					<div class="subtitle">まず簡易診断ではありますが、自社WEBサイトがどのようなセキュリティ状態にあり、どの程度のリスクにさらされているのか把握されることをお奨めいたします。<br/>
-					お気軽にご相談のご連絡をください。日本語でお問い合わせいただけます。</div>
+					<div class="subtitle text-left">まず簡易診断ではありますが、自社WEBサイトがどのようなセキュリティ状態にあり、どの程度のリスクにさらされているのか把握されることをお奨めいたします。	お気軽にご相談のご連絡をください。日本語でお問い合わせいただけます。</div>
 				</div>
 			</div>
 		</div>
@@ -307,7 +306,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-offset-3 col-md-6">
-					WEBサイトセキュリティ診断サービスに関する、診断内容、レポート項目、費用、期間など詳細に関してはお気軽に日本語でお問い合わせいただければ幸いです。こちらまで(<a href="mailto:info@logique.co.id">info@logique.co.id</a>）メールお送りいただくか<a href="/jp/contact.php">こちら</a>から問い合わせ送信いただきますようお願いいたします。<br/><br/>
+					WEBサイトセキュリティ診断サービスに関する、診断内容、レポート項目、費用、期間など詳細に関してはお気軽に日本語でお問い合わせいただければ幸いです。こちらまで(info<img src="img/at.png"/>logique.co.id）メールお送りいただくか<a href="/jp/contact.php">こちら</a>から問い合わせ送信いただきますようお願いいたします。<br/><br/>
 					<a href="/jp/contact.php" target="_blank"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
 				</div>
 			</div>

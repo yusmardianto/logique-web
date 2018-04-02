@@ -39,11 +39,11 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUE menyediakan layanan pembuatan website karir perusahaan untuk memudahkan pekerjaan HRD dan meningkatkan kualitas dalam rekrutmen.">
-	<meta name="keywords" content="website karir, karir perusahaan, jasa website karir, logique">
+    <meta name="description" content="インドネシアで求人採用サイトをつかって効率良い採用活動をしましょう。LOGIQUEはWEBサイト制作/システム構築、WEBマーケティング、(iOS / Andorid)、SNS運用など、WEB及びデザインに関する様々なサービスを幅広く提供しております。人事採用に関するご支援を行っております。">
+	<meta name="keywords" content="">
 	<meta name="author" content="Logique Digital Indonesia">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Layanan Website Karir Perusahaan | Logique Digital Indonesia</title>
+    <title>求人ページ制作｜採用サイト｜インドネシアのWEB制作・システム開発会社LOGIQUE</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
@@ -66,11 +66,11 @@ if(isset($_POST['submitted']))
 			<header class="head-banner">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-7">
+						<div class="col-md-12">
 							<div class="banner-text">
 								<h1>
 									<span>インドネシアで採用の難しさにお悩みではありませんか？</span><br>
-									<span>自社採用ページを活用して効果的で低コストな採用活動を実現しましょう！</span>
+									<span>自社採用ページを活用して<br/>効果的で低コストな採用活動を実現しましょう！</span>
 								</h1>
 								<div class="banner-subt">
 									人材紹介会社のサービスは高いし、JobStreetからの履歴書はクオリティが低すぎてスクリーニングが大変。。どうすりゃいいの？<br/>
@@ -89,7 +89,7 @@ if(isset($_POST['submitted']))
 								<h2 style="padding-top: 15px;">求人・人材採用ページを活用して効果的な採用活動をサポートします。</h2>
 							</div>
 							<div class="col-sm-4 text-right">
-								 <a href="https://www.logique.co.id/jp/contact.php" target="_blank"" target="_blank"><img class="logo-logique img-responsive" src="images/logo-y-logique.png" alt="" style="float: right; margin-top:10px;"></a>
+								 <a href="https://www.logique.co.id/jp/" target="_blank"" target="_blank"><img class="logo-logique img-responsive" src="images/logo-y-logique.png" alt="" style="float: right; margin-top:10px;"></a>
 							</div>
 						</div>
 					</div>
@@ -112,7 +112,7 @@ if(isset($_POST['submitted']))
 								 	</div>
 								 	<div class="col-sm-4">
 								 		<center><img src="images/img-problem1.png" class="img-responsive"  ></center>
-								 		<div>JobStreetなど求人ポータルを利用すると求職者数は多く集まるのだが、質が酷く、スクリーニングコストが大きい。</div>
+								 		<div>JobStreetなど求人ポータルを利用すると求職者数は多く集まるのだが、質が悪く、スクリーニングコストが大きい。</div>
 								 	</div>
 								 </div>
 							 
@@ -138,11 +138,9 @@ if(isset($_POST['submitted']))
 									<div class="col-sm-4"> <div>求める人材、必要な要件をしっかり記載する、また応募フォームに簡単なテストを付与することで、クオリティの低い応募を防ぎ、スクリーニングコストを権限する。</div></div>
 									<div class="clearfix"></div><br/>
 									<div class="col-sm-12">
-										<center>
 										WEBページをうまく活用して他の採用活動の効果も高めます。必要に応じてデジタル広告を出稿してより多くの求職者の人に採用ページを訪問してもらうことも可能です。
 										JobStreetからのランディングページをこのページにすることでJobStreetの中では説明できないことをしっかり説明できます。<br/>
 										人材紹介会社からの紹介の場合も採用ページでしっかりと”こういう人材が欲しい”と説明しておくことで面談でのミスマッチを事前に防ぐことができます。
-										 </center>
 									</div>
 								</div>
 							</div>
@@ -170,17 +168,16 @@ if(isset($_POST['submitted']))
 					<div class="container">
 					<div class="row">
 						<div class="col-sm-6 simul-2">
-							<center><h4>求人ポータルサイトを利用</h4>
-							<img src="images/simulation1.png" class="img-responsive"></center>
+							<center><h4>求人ポータルサイトを利用</h4></center>
+							<img src="images/simulation1.png" class="img-responsive center-block">
 						</div>
+						<div class="visible-xs"><br/><br/></div>
 						<div class="col-sm-6 simul-3">
-							<center><h4>人材紹介会社のサービスを利用</h4>
-							<img src="images/simulation2.png" class="img-responsive"></center>
+							<center><h4>人材紹介会社のサービスを利用</h4></center>
+							<img src="images/simulation2.png" class="img-responsive center-block">
 						</div>
 					</div>
-					<div class="col-sm-12 simul-description">
-					 <center>	多くの企業が求人ポータルサイトも人材紹介会社も利用していると思います。但し上記のような問題を感じながら利用されているのではないでしょうか？これらの問題を減らすためにも自社の求人採用WEBページ、特設WEBサイトを併用活用してより良い採用活動をしましょう。
-					 </center>
+					<div class="col-sm-12 simul-description">	多くの企業が求人ポータルサイトも人材紹介会社も利用していると思います。但し上記のような問題を感じながら利用されているのではないでしょうか？これらの問題を減らすためにも自社の求人採用WEBページ、特設WEBサイトを併用活用してより良い採用活動をしましょう。
 					</div>
 					</div>
 				</div>
@@ -416,7 +413,7 @@ if(isset($_POST['submitted']))
 					<div class="row">
 						<div class="col-md-3 col-sm-4">
 							<h3>HUBUNGI KAMI </h3>
-							<a href="https://www.logique.co.id/" target="_blank"><img src="images/logo-y-logique.png" alt="logo-footer" class="img-responsive"></a>
+							<a href="https://www.logique.co.id/jp/" target="_blank"><img src="images/logo-y-logique.png" alt="logo-footer" class="img-responsive"></a>
 							<p>LOGIQUE DIGITAL INDONESIA<br>
 							Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5 
 							Ragunan, <br>Ps. Minggu, Jakarta Selatan,<br> Indonesia 12550</p>
@@ -456,7 +453,7 @@ if(isset($_POST['submitted']))
 
 						</div>
 						<div class="col-md-3">
-							<p style="line-height: 18px; text-align: justify;">Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>
+							<p style="line-height: 22px; text-align: justify;">LOGIQUEは、ジャカルタでWebコンサルティング、WEBサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、映像制作、会社案内・パンフレットデザイン・印刷サービスを提供しています。 人事採用管理に関する独自システムの販売も行っておりますので、人事採用をITを活用することで効率よく行いたいとお考えの会社さまはお気軽にご連絡ください。</p>
 						</div>
 					</div>
 					</div>
