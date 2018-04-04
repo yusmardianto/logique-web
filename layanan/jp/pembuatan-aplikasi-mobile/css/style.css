@@ -15,7 +15,7 @@ figure, figcaption, footer, header, hgroup,menu, nav, output, ruby, section, sum
     margin: 0;
     padding: 0;
     border: 0;
-	font-family: 'Rokkitt', serif;
+	font-family: Lato, メイリオ, Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}
@@ -33,7 +33,7 @@ strong{font-weight: 700!important;}
 .no-gap [class*="-10"],
 .no-gap [class*="-4"],
 .no-gap [class*="-12"]{padding-left:0;padding-right:0;}
-p{margin-bottom: 20px;font-size:18px}
+p{margin-bottom: 20px;font-size:16px}
 p:last-child{margin-bottom: 0;}
 
 header{
@@ -42,13 +42,13 @@ header{
 }
 
 .yellow{color:#f2f511;}
-h1{font-size:50px;color:#FFF;text-transform:uppercase;font-weight:600}
+h1{font-size:40px;color:#FFF;text-transform:uppercase;font-weight:600}
 header p{font-size:18px;color:#fff}
 .hp-header {margin-bottom: -115px;}
-.hubungi-kami-top{background:#ededed;padding:50px 0;color:#000;font-size:30px;font-weight:600}
+.hubungi-kami-top{background:#ededed;padding:50px 0;color:#000;font-size:20px;font-weight:600}
 .purple{color:#cb2bb9;}
 
-h2.first{font-size:36px;font-weight:300;}
+h2.first{font-size:26px;font-weight:300;}
 h2.first span{color:#5f1cc9;font-weight:bold;}
 .solusi {
 	color:#fff;
@@ -124,12 +124,12 @@ footer .title{font-size:24px;}
 .slick-dots li button:before{font-family: 'FontAwesome';font-size: 15px;line-height: 20px;position: absolute;top: 0;left: 0;width: 20px;height: 20px;content: "\f111";text-align: center;opacity: .25;color: black;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
 .slick-dots li.slick-active button:before{opacity: .75;color: #ff8c0b;}
 
-.font-28{font-size:28px;}
-.font-20{font-size:20px;}
+.font-28{font-size:25px;}
+.font-20{font-size:18px;}
 .logique-help{}
 .div-help{font-size:18px;padding:20px;text-align:center;border:2px solid #ccc;margin-bottom:35px}
 .div-help .div-title{margin-top: -34px;margin-bottom: 15px;}
-.div-help .title{background: #fff;padding: 0 8px;font-size:24px;margin:auto}
+.div-help .title{background: #fff;padding: 0 8px;font-size:20px;margin:auto}
 .valign-center{top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);position:relative}
 .m-t-30{margin-top: 30px;}
 .solusi.revision{background:url(../img/div-solusi.png);background-size:cover;font-size:18px}
@@ -160,9 +160,9 @@ footer .title{font-size:24px;}
 	.mobile-phone{margin-bottom:20px;}
 	.hp-header {margin-bottom: 20px;height: 300px;}
 	.solusi .title{text-align:left;margin-bottom:10px}
+	.div-form form .form-control{margin-bottom: 15px;}
 	.solusi.revision .title {text-align: center;}
 	.form-group {margin-bottom: 0;}
-	.div-form form .form-control{margin-bottom: 15px;}
 }
 @media (max-width:767px) {
 	.caption-portfolio .font-28{font-size:20px;margin-bottom: -15px;}
