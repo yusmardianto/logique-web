@@ -62,7 +62,7 @@ if(isset($_POST['submitted']))
 	<body class="dokodemo">
 		<header>
 			<div class="valign-center">
-				<img class="img-responsive center-block" src="img/Dokodemo-Kerja/dokodemo-logo.png" alt="Dokodemo-Kerja Logo"/>
+				<img class="img-responsive center-block" src="img/dokodemo-kerja/dokodemo-logo.png" alt="Dokodemo-Kerja Logo"/>
 				<br/>
 				<h1 class="anton title">Cara Bekerja <br class="hidden-xs"/> Lebih fleksibel & produktif</h1>
 				<hr/>
@@ -116,7 +116,7 @@ if(isset($_POST['submitted']))
 							</ul>
 						</div>
 						<div class="col-md-6">
-							<img class="masalah1 hidden-sm hidden-xs" alt="Masalah 1" src="img/Dokodemo-Kerja/laptop1.png"/>
+							<img class="masalah1 hidden-sm hidden-xs" alt="Masalah 1" src="img/dokodemo-kerja/laptop1.png"/>
 						</div>
 					</div>
 				</div>
@@ -127,7 +127,7 @@ if(isset($_POST['submitted']))
 				<div class="border-white">
 					<div class="row">
 						<div class="col-md-6">
-							<img class="masalah2 hidden-sm hidden-xs" alt="Masalah 2" src="img/Dokodemo-Kerja/masalah2.png"/>
+							<img class="masalah2 hidden-sm hidden-xs" alt="Masalah 2" src="img/dokodemo-kerja/masalah2.png"/>
 						</div>
 						<div class="col-md-6">
 							<ul class="fa-ul">
@@ -150,7 +150,7 @@ if(isset($_POST['submitted']))
 							</ul>
 						</div>
 						<div class="col-md-6">
-							<img class="masalah3 hidden-sm hidden-xs" alt="Masalah 3" src="img/Dokodemo-Kerja/masalah3.png"/>
+							<img class="masalah3 hidden-sm hidden-xs" alt="Masalah 3" src="img/dokodemo-kerja/masalah3.png"/>
 						</div>
 					</div>
 				</div>
@@ -160,7 +160,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<img class="img-responsive center-block" src="img/Dokodemo-Kerja/dokodemo-logo.png" alt="Dokodemo-Kerja Logo"/>
+						<img class="img-responsive center-block" src="img/dokodemo-kerja/dokodemo-logo.png" alt="Dokodemo-Kerja Logo"/>
 						<br/>
 						<div class="title anton">Kami Siap Membantu Anda</div>
 						<br/>
@@ -172,7 +172,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		<img style="width:100%" src="img/Dokodemo-Kerja/gambar1.png" alt="Dokodemo-Kerja image"/>
+		<img style="width:100%" src="img/dokodemo-kerja/gambar1.png" alt="Dokodemo-Kerja image"/>
 		<div class="bg-yellow">
 			<center><h2 class="title">Fitur Dokodemo-Kerja</h2></center>
 			<br/>
@@ -197,7 +197,7 @@ if(isset($_POST['submitted']))
 				<br/>
 				<div class="row">
 					<div class="col-md-12">
-						<img src="img/Dokodemo-Kerja/screens.png" class="img-responsive center-block screens" alt="Screens"/>
+						<img src="img/dokodemo-kerja/screens.png" class="img-responsive center-block screens" alt="Screens"/>
 					</div>
 				</div>
 			</div>
@@ -335,7 +335,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-md-push-6">
-						<img src="img/Dokodemo-Kerja/dokodemo-logo.png" alt="Logo">
+						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
 						<p>
 							Dokodemo-Kerja adalah aplikasi yang dapat mencatat dan menghitung waktu kerja karyawan secara rinci untuk setiap proyek yang dikerjakan.
 						</p>
