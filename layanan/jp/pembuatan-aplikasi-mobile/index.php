@@ -35,21 +35,20 @@ if(isset($_POST['submitted']))
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Kami menyediakan layanan dan solusi terbaik dalam mengembangkan aplikasi mobile berskala perusahaan atau berbasis konsumen untuk smartphone/tablet iOS dan Android.">
-	<meta name="keywords" content="jasa pengembangan aplikasi mobile, jasa pengembangan mobile app, jasa pembuatan aplikasi mobile, pengembangan aplikasi mobile">
+    <meta name="description" content="モバイルアプリ開発サービスのご紹介。インドネシアでお客様のニーズに沿ったスマートフォンアプリの企画・開発を行っています.">
+	<meta name="keywords" content="">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Pengembangan Aplikasi Mobile | Logique Digital Indonesia</title>
+    <title>スマホアプリ開発｜モバイルアプリ開発・WebシステムのLOGIQUE DIGITAL INDONESIA【ジャカルタ】</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
 	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
-	<link href="https://fonts.googleapis.com/css?family=Rokkitt:300,400,600,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 	<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -67,15 +66,15 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<a href="/"><img alt="logo" class="img-responsive" src="img/logo_logique.png"/></a>
+						<a href="/jp/"><img alt="logo" class="img-responsive" src="img/logo_logique.png"/></a>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-7">
 						<br/><br/><br/>
-						<h1>Percayakan Masa Depan Pengembangan <span class="yellow">Aplikasi Mobile</span> Anda Pada <span class="yellow">LOGIQUE</span></h1>
+						<h1><span class="yellow">モバイルアプリ（Android｜iOS｜ハイブリッド）</span>をインドネシアで、高品質でリーズナブルなコストで開発するなら<span class="yellow">LOGIQUE</span>にご依頼ください。</h1>
 						<p>	
-						Kami menyediakan layanan dan solusi terbaik dalam mengembangkan aplikasi mobile berskala perusahaan atau berbasis konsumen untuk smartphone / tablet iOS dan Android.
+						既存のアプリの改修、バージョンアップが必要な場合、メンテナンス契約についてなどもお気軽にご相談ください。確かな技術に基づいたサービスを低価格でご提供しています。アプリの開発以外にもモバイル・スマホ活用ソリューション、PWA等についてなどまずはお問い合わせお待ちしています。
 						</p>
 						<div class="visible-md visible-lg"><br/><br/><br/><br/><br/><br/><br/><br/><br/></div>
 					</div>
@@ -89,7 +88,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<a href="/hubungi-kami.php" target="_blank"><span class="purple">Hubungi kami</span></a> untuk informasi lebih lanjut.
+						<a href="/jp/contact.php" target="_blank" style="color:#000">モバイル・スマホ活用についてお気軽に日本語でご連絡ください。</a>
 					</div>
 				</div>
 			</div>
@@ -98,18 +97,14 @@ if(isset($_POST['submitted']))
 			<br/><br/>
 			<div class="row">
 				<div class="col-md-5">
-					<h2 class="first">Pengembangan <span>Aplikasi Mobile</span> Berorientasi Pengguna</h2>
+					<h2 class="first"><span>スマートフォンアプリ開発</span>は開発パートナー選びが重要</h2>
 					<br/>
 					<img alt="Pengembangan Aplikasi Mobile Berorientasi Pengguna" src="img/mobile-phone.png" class="img-responsive center-block mobile-phone"/>
 				</div>
 				<div class="col-md-7">
-					<p>
-						Aplikasi mobile yang kami buat di desain dengan filosofi bahwa informasi yang berada pada orang yang tepat memiliki kemampuan yang besar dalam sebuah perubahan. Kami fokus untuk memberikan aplikasi mobile yang berorientasi pengguna agar dapat 
-						memberikan pengalaman maksimal dalam perubahan digital pada hidup mereka.<br/><br/>
-						Kami juga menyadari bahwa di era digital saat ini teknologi terus berkembang dan berevolusi. Untuk itu kami selalu berusaha membantu memberikan konsep yang sejalan dengan teknologi terkini agar aplikasi mobile yang dibuat dapat mengalami pertumbuhan dan kesuksesan. <br/><br/>
-						Desain dan pengembang aplikasi kami tidak hanya akan membantu menciptakan produk hebat, kami juga siap membantu Anda untuk memastikan bahwa hasil akhir yang kami berikan adalah yang terbaik.<br/><br/>
-						Jika ada yang salah selama pengembangan, kami akan memberitahu Anda. Kami ingin produk Anda berhasil sama seperti Anda. Dengan proses yang efisien, tim kami tahu apa yang dapat bekerja dengan baik terkait pengembangan aplikasi mobile.
-
+					<p style="font-size: 18px;">
+						アプリ開発・運用で成功するには開発パートナー選びが重要です。システム開発やWEB制作に比べて、テクノロジーの変化、バージョンアップがまだ頻繁であること、端末種が豊富なことから、緻密で正確な管理運用が必要になります。LOGIQUEはよく考えて設計されたUIデザインでアプリ開発を行い、ユーザビリティの高いアプリを開発します。<br/><br/>
+						iPhoneやAndoridアプリの開発をしたいが、どのように、どこに依頼したら良いのかわからない、メンテナンス性の良いアプリを作りたい、まずはプロトタイプだけ制作してもらいたい、企画から助けてくれる開発会社を探しているなどの課題やニーズがあれば、お気軽にLOGIQUEにご相談ください。
 					</p>
 				</div>
 			</div>
@@ -120,14 +115,14 @@ if(isset($_POST['submitted']))
 				<br/><br/>
 				<div class="row">
 					<div class="col-md-4">
-						<h2 class="title">LOGIQUE adalah Salah Satu Pengembang <b>Aplikasi Mobile</b> Terbaik di Indonesia</h2>
+						<h2 class="title">LOGIQUEのモバイル・スマートフォンアプリ開発の進め方、特徴</h2>
 					</div>
 					<div class="col-md-8">
 						<ul class="fa-ul">
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>LOGIQUE dapat menyesuaikan kebutuhan dan keinginan klien dengan teknologi terkini untuk menghasilkan aplikasi iOS dan Android yang terdepan dan berskala internasional.</li>
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi iOS dan Android yang kami kembangkan telah melalui proses perencanaan desain yang matang oleh Desainer UI/UX berpengalaman sehingga tampilan yang dihasilkan sangat user friendly.</li>
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Keamanan, optimasi, dan skalabilitas aplikasi diperhitungkan dengan detil oleh ahli teknis kami untuk memberikan hasil akhir yang dapat digunakan dengan maksimal oleh pengguna.</li>
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Dengan pengalaman lebih dari lima tahun, kemampuan dan keahlian tim LOGIQUE sudah teruji kualitasnya pada berbagai macam klien dan proyek yang berasal dari dalam dan luar negeri.</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>スムーズで柔軟なプロジェクト運営を行います。WEB制作やWEBシステム開発でも豊富な実績を持っています。要件定義からテスト、納品まで確実にプロジェクトマネジメントを行います。</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>企画から積極的に参加することも可能です。今までの経験、インドネシアならでは慣習も含め、ユーザーのニーズを叶える有益なアプリとなるよう、要件定義中などにも、お客様への提案・アドバイスを惜しみません。</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Uデザインはアプリ開発の中の大きなウェートを占める作業です。LOGIQUEは社内にデザイナーを複数抱えていますので、デザインと開発で分断が起こるというようなことがありません。デザイン力とテクノロジーをうまく融合させます。</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>多くのお客様からシステムの運用保守も任せられています。スマホアプリの効果を出すためには、リリース後の運用が非常に大事です。運用、デジタルマーケティング実施もLOGIQUEは総合的にご支援します。</li>
 						</ul>
 					</div>
 				</div>
@@ -138,32 +133,34 @@ if(isset($_POST['submitted']))
 			<br/><br/><br>
 			<div class="row">
 				<div class="col-md-12">
-					<h2 class="font-28 text-center">Bagaimana <span class="purple"><b>LOGIQUE</b></span> Membantu Anda</h2>
+					<h2 class="font-28 text-center"><span class="purple"><b>LOGIQUE</b></span>が気をつけていること</h2>
 				</div>
 				<div class="clearfix"></div>
 				<br/><br/><br>
 				<div class="col-md-4">
 					<div class="div-help">
-						<h3 class="div-title"><span class="title purple"><b>Ide Aplikasi Inovatif</b></span></h3>
+						<h3 class="div-title"><span class="title purple"><b>企画・仕様決定に貢献します</b></span></h3>
 						<div class="">
 						<img alt="Ide Aplikasi Inovatif" class="img-responsive center-block" src="img/inovatif.png"/><br/>
-						Apakah Anda sudah menemukan ide untuk mengembangkan aplikasi mobile senilai milyaran rupiah seperti Go-Jek, Traveloka, atau Tokopedia? Dengan keamanaan informasi melalui Perjanjian Kerahasiaan kami dapat membantu menganalisa ide Anda dan merealisasikannya. Kami akan membantu Anda untuk menjadi App-Enterpreneur besar selanjutnya di industri yang sedang berkembang sangat pesat ini.</div>
+						ユーザーのニーズは間違いないか、本当にアプリ化することがベストな選択なのか、iOSアプリも必要か、など、開発に着手する前に考えるべきことは多くあります。企画・要件定義フェーズとして参画し、このプロセスを加速します。場合によっては開発しないという選択もあるかもしれませんが、インドネシアのマーケットを熟知しているLOGIQUEだからこそ提言できることがあります。企画・仕様決定も、過去の実績を基にあるべきUI／UXをアドバイスいたします。						
+						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="div-help">
-						<h3 class="div-title"><span class="title purple"><b>Memberikan Nilai Tambahan</b></span></h3>
+						<h3 class="div-title"><span class="title purple"><b>適切なフェージングで滞りなく</b></span></h3>
 						<div class="">
 						<img alt="Memberikan Nilai Tambahan" class="img-responsive center-block" src="img/nilai-tambah.png"/><br/>
-						Sudah menyediakan produk dan layanan kepada pelanggan Anda? Kami dapat membantu Anda menggunakan teknologi berbasis aplikasi untuk membangun nilai tambah sesuai dengan penawaran Anda. Kenyamanan, kemampuan, dan konektivitas smartphone menjadikannya sebagai platform ideal untuk membawa nilai tambah ke layanan Anda saat ini.</div>
+						アプリを公開すると間違いなく改善事項、追加機能が出てきます。Phase1では迅速に公開までもていくこと、かつPhase2以降での拡張性を十分に持たせた作りを推奨しています。フェーズ分け、追加・変更要望の管理はプロジェクト管理の中でも間違えられない判断が求められます。ユーザーニーズもテクノロジーも変化が早くなっています。１つのPhaseに全てを詰め込まずに、アジャイル的にアプリケーションをスピーディーに改善・発展していきます。
+						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="div-help">
-						<h3 class="div-title"><span class="title purple"><b>Meningkatkan Proses Bisnis</b></span></h3>
+						<h3 class="div-title"><span class="title purple"><b>しっかり保守運用</b></span></h3>
 						<div class="">
 						<img alt="Meningkatkan Proses Bisnis" class="img-responsive center-block" src="img/proses-bisnis.png"/><br/>
-						Pernahkah Anda mempertimbangkan bagaimana Anda dapat mengefektifkan bisnis atau perusahaan Anda menggunakan teknologi aplikasi mobile? Aplikasi memberikan peluang yang sangat luas untuk memberdayakan staf dan meningkatkan efisiensi. Solusi aplikasi mobile dengan perencanaan sesuai kebutuhan perusahaan telah terbukti meningkatkan aktivitas kerja sehari-hari yang memungkinkan menghasilkan kinerja yang lebih baik dibandingkan pesaing bisnis Anda.</div>
+						トラフィックボリュームに応じた適切なサーバーのチューニングや、OS、ミドルウェアのバージョンアップへの対応などきちんと保守運用できる体制が整っていることが、継続的なUI/UX改善のベースになります。地味ではありますが、御社のマーケティング担当さんの工数を掛けずに、しっかりと保守運用していきます。</div>
 					</div>
 				</div>
 			</div>
@@ -174,48 +171,47 @@ if(isset($_POST['submitted']))
 				<br/><br/>
 				<div class="row row-center-md">
 					<div class="col-md-offset-1 col-md-3">
-						<h2 class="title">Solusi yang di peroleh dari pengembangan <span><b>Aplikasi Mobile</b></span></h2>
+						<h2 class="title">モバイル（スマートフォン）アプリをもつメリット</h2>
 					</div>
 					<div class="col-md-8">
 						<ul class="fa-ul">
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi mobile sebagai produk dan aset yang menghasilkan.</li>
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi mobile sebagai media penghubung antara perusahan dan karyawan.</li>
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi mobile sebagai alat pendukung pemasaran produk dan jasa anda.</li>
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi mobile sebagai aplikasi pendukung pengunaan produk anda.</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>ユーザーとの接触頻度を高められる（プッシュ通知活用）</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>インターネット接続状況の影響を少なくすることが可能.</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>操作性・表示速度を高められる.</li>
 						</ul>
 					</div>
 				</div>
 				<br/><hr/><br/>
-				<h2 class="font-28 text-center">Layanan Kami</h2><br/>
+				<h2 class="font-28 text-center">モバイルアプリ開発関連サービス</h2><br/>
 				<div class="row">
 					<div class="col-md-10 col-md-offset-1 text-center">
-						Kami menawarkan layanan lengkap mulai dari pengembangan konsep aplikasi, pembuatan, peluncuran, hingga pengelolaan berkelanjutan untuk aplikasi Anda. Semua layanan kami bertujuan untuk membangun aplikasi yang menawarkan pengalaman maksimal bagi pengguna dan hasil transformasi bisnis yang luar biasa.
+					ネイティブなモバイル（スマートフォン）アプリ開発（Android、iOS、ハイブリッド）、企画、保守運用だけでなくPWA（プログレッシブウェブアプリ）の開発も行っております。最適な実装方法を検討する段階からご相談いただければと思います。
 					</div>
 				</div>
 				<br/>
 				<div class="row">
 					<div class="col-md-4">
 						<div class="layanan-kami">
-							<h3 class="title">Pengembangan Aplikasi iOS untuk iPhone / iPad</h3>
+							<h3 class="title">iPhone/iPad用のiOSアプリケーション開発</h3>
 							<br/>
 							<img alt="Pengembangan Aplikasi iOS untuk iPhone / iPad" src="img/apple.png" class="img-responsive center-block"/><br/>
-							Kami berpengalaman mengembangkan aplikasi yang memiliki kompatibilitas pada berbagai versi iOS dengan menggunakan bahasa Swift mulai dari Swift 1 hingga Swift 4 yang populer digunakan saat ini.
+							インドネシアでのApple端末普及率はまだすごく高くはないですが、Highエンドなユーザー層では多く使われています。AndroidアプリケーションをiOS上でも動くように開発したいという案件は増えてきています。経験豊富なSwiftエンジニアが開発担当します。
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="layanan-kami">
-							<h3 class="title">Pengembangan Aplikasi Android</h3>
+							<h3 class="title">Androidアプリケーション開発</h3>
 							<br/>
 							<img alt="Pengembangan Aplikasi Android" src="img/android.png" class="img-responsive center-block"/><br/>
-							Berbagai macam aplikasi Android native berbasis Java mulai dari yang sederhana, multi-bahasa, hingga dengan kompleksitas yang tinggi telah kami hasilkan.
+							インドネシアでモバイルアプリを作るとなった時にファーストオプションになるのがアンドロイドアプリの開発です。対象OSバージョンやメインターゲット端末種などインドネシアを熟知する当社だからこそアドバイスできることがありますのでお気軽にご相談ください。
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="layanan-kami">
-							<h3 class="title">Pengembangan Aplikasi Hybrid</h3>
+							<h3 class="title">ハイブリッドアプリ開発</h3>
 							<br/>
 							<img alt="Pengembangan Aplikasi Hybrid" src="img/hybrid.png" class="img-responsive center-block"/><br/>
-							Jika Anda ingin memiliki dua aplikasi untuk Android dan iOS sekaligus dalam satu waktu kami juga dapat memberikan layanan pembuatan berbasis hybrid dengan mengimplementasikan berbagai teknologi seperti Ionic, Adobe PhoneGap, Apache Cordova, Xamarin, AngularJS, dan sebagainya.
+							回線速度が遅いインドネシアではハイブリッドアプリ（WEBアプリ）は避けられてきましたが、回線状況も改善が見られること、ブラウザの機能が上がっていること、いまだに低い端末スペックが多く使われていることから、WEBアプリが最適なケースも多くあります。より短い時間で公開が可能なメリットもあります。
 						</div>
 					</div>
 				</div>
@@ -223,18 +219,18 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-4 col-md-offset-2">
 						<div class="layanan-kami">
-							<h3 class="title">Desain UI/UX Aplikasi Mobile</h3>
+							<h3 class="title">UI/UXデザイン</h3>
 							<br/>
 							<img alt="Desain UI/UX Aplikasi Mobile" src="img/ux.png" class="img-responsive center-block"/><br/>
-							Semua aplikasi mobile kami dikembangkan dengan estetika desain yang sesuai dengan fungsinya. Dengan standar desain yang tinggi, kami memastikan pelanggan akan menyukai interaksi berkelanjutan. Selain itu, penerapan desain responsif yang kami lakukan juga memberikan pengalaman maksimal untuk pengguna.
+							モバイルアプリのUI・UXデザイン経験が豊富なデザイナーが、必要に応じてA/Bテストしながら、ユーザビリティーの高いUI・UXを制作します。
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="layanan-kami">
-							<h3 class="title">Pengembangan CMS / API</h3>
+							<h3 class="title">バックエンド開発</h3>
 							<br/>
 							<img alt="Pengembangan CMS / API" src="img/cms.png" class="img-responsive center-block"/><br/>
-							Untuk mendukung pengembangan aplikasi mobile kami juga menyediakan layanan pembuatan CMS dan API dalam berbagai platform, khususnya PHP.
+							モバイルアプリと他システムとの連携などが必要になるケースがほとんどです。インフラの設計設定から、他システムとのデータ連携、バックエンドシステムの開発まで幅広く対応可能です。
 						</div>
 					</div>
 				</div>
@@ -245,9 +241,10 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-5">
-						<h2 class="font-28">Klien / Portofolio</h2>
+						<h2 class="font-28">モバイルアプリ開発実績</h2>
 						<br/>
-						<div class="font-20">Kami memiliki pengalaman bekerja sama dengan klien dari berbagai sektor industri dan telah membantu menghasilkan aplikasi mobile yang mampu memecahkan masalah perusahaan, meningkatkan penjualan, dan menjaga relasi pelanggan.
+						<div class="font-20">
+							インドネシアで多くのモバイルアプリ、ハイブリッドアプリの開発を行ってきました。モバイル・ソリューションの活用でインドネシア市場で発展する企業をご支援しています。
 						</div>
 						<br/><br/>
 					</div>
@@ -261,9 +258,9 @@ if(isset($_POST['submitted']))
 								<div class="col-sm-7">
 									<div class="caption-portfolio">
 										<div class="arrow-left"></div>
-										<div class="font-28">Kategori: Finansial</div><br/>
+										<div class="font-28">SunLife Financial</div><br/>
 										<div class="font-20">
-										Aplikasi yang membantu pelanggan mendapatkan informasi seputar polis asuransi dan berinteraksi dengan agen untuk salah satu asuransi terbesar di Indonesia.
+										保険会社において保険代理店とのコミュニケーション、eラーニングアプリの開発運用。営業ツールとして使えるアプリの開発も行った。
 										</div>
 									</div>
 								</div>
@@ -277,9 +274,10 @@ if(isset($_POST['submitted']))
 								<div class="col-sm-7">
 									<div class="caption-portfolio">
 										<div class="arrow-left"></div>
-										<div class="font-28">Kategori: Otomotif</div><br/>
+										<div class="font-28">OTO mart</div><br/>
 										<div class="font-20">
-										Aplikasi yang membantu dealer mengelola iklan mobil pada salah satu portal mobil bekas terbesar di Indonesia.
+										中古車マッチングWEB。中古車ディーラーが保有＆OTOmartにポストする車の管理をモバイルアプリを通して行っている。iOS、Android両プラットフォームでネイティブアプリとして開発運用。<br/>
+										2ヶ月、Objective-C、Swift、CakePHP、HTML5、MySQL
 										</div>
 									</div>
 								</div>
@@ -293,9 +291,9 @@ if(isset($_POST['submitted']))
 								<div class="col-sm-7">
 									<div class="caption-portfolio">
 										<div class="arrow-left"></div>
-										<div class="font-28">Kategori: Jasa</div><br/>
+										<div class="font-28">Frangipaniスパ</div><br/>
 										<div class="font-20">
-										Aplikasi yang membantu pengelola spa internasional untuk meningkatkan layanan dan relasi dengan pelanggan.
+										スパのお客様に施術後レビューコメントを記入いただくアプリの開発。レビューに基いて、テラピストやレセプショニストの人事評価を行うバックエンドシステムと連動。Androidネイティブアプリの開発。バックエンドはCakePHPで構築。
 										</div>
 									</div>
 								</div>
@@ -387,7 +385,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
-						Hubungi kami untuk mendapatkan <b>penawaran</b> terbaik
+						モバイルアプリの開発・運用保守についてお気軽にご相談ください。
 						<br/>
 						<?php if(isset($msg))
 						{
@@ -401,24 +399,24 @@ if(isset($_POST['submitted']))
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-12">
-										<input type="text" name="name" placeholder="Nama Anda" class="form-control name-input" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
+										<input type="text" name="name" placeholder="お名前" class="form-control name-input" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
 									</div>
 								</div>
 							</div>
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-6">
-										<input type="email" name="email" placeholder="Alamat Email" class="form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' />
+										<input type="email" name="email" placeholder="Email" class="form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' />
 									</div>
 									<div class="col-md-6">
-										<input type="number" name="phone" placeholder="Nomor Telepon" class="form-control" value='<?php echo $formproc->SafeDisplay('phone') ?>' />
+										<input type="number" name="phone" placeholder="TEL" class="form-control" value='<?php echo $formproc->SafeDisplay('phone') ?>' />
 									</div>
 								</div>
 							</div>
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-12">
-										<textarea class="form-control" placeholder="Pertanyaan" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										<textarea class="form-control" placeholder="お問い合わせ" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 								</div>
 							</div>
@@ -429,7 +427,7 @@ if(isset($_POST['submitted']))
 										<div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
 									</div>
 									<div class="col-md-6">
-										<button type="submit" class="pull-right btn btn-submit">Kirim</button>
+										<button type="submit" class="pull-right btn btn-submit">送信</button>
 									</div>
 								</div>
 							</div>
@@ -446,7 +444,7 @@ if(isset($_POST['submitted']))
 						<div class="hidden-lg hidden-md"><br/></div>
 					</div>
 					<div class="col-md-6">
-						<a href="/hubungi-kami.php" target="_blank" class="btn btn-buat-sekarang">CARI SOLUSI</a>
+						<a href="/jp/contact.php" target="_blank" class="btn btn-buat-sekarang">CARI SOLUSI</a>
 					</div>
 				</div>
 			</div>
@@ -455,13 +453,13 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8">
-						<div class="title">Tentang Kami</div>
-						<br/>
-						Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti  jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.<br/>
+						<div class="title">LOGIQUEについて</div>
+						<br/>				
+						LOGIQUEは、ジャカルタでWebコンサルティング、モバイル・スマートフォンアプリ開発、WEBサイト制作、デジタルマーケティング運営代行、採用人事管理システム開発、リモートワーク管理ツールの提供、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン・印刷サービスを提供しています。<br/>
 						<div class="visible-sm visible-xs"><br/></div>
 					</div>
 					<div class="col-md-4">
-						<div class="title">Hubungi Kami</div>
+						<div class="title">お問い合わせ</div>
 						<a href="/hubungi-kami.php" target="_blank"><img alt="Logo" src="img/logo_logique_footer.png" class="img-responsive"/></a>
 						Ad Premier Building 19th Floor. <br/>
 						Jalan Tb. Simatupang No. 5 <br/>
