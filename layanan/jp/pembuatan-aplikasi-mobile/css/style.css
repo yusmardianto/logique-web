@@ -42,7 +42,7 @@ header{
 }
 
 .yellow{color:#f2f511;}
-h1{font-size:40px;color:#FFF;text-transform:uppercase;font-weight:600}
+h1{font-size:40px;color:#FFF;font-weight:600}
 header p{font-size:18px;color:#fff}
 .hp-header {margin-bottom: -115px;}
 .hubungi-kami-top{background:#ededed;padding:50px 0;color:#000;font-size:20px;font-weight:600}
@@ -127,14 +127,14 @@ footer .title{font-size:24px;}
 .font-28{font-size:25px;}
 .font-20{font-size:18px;}
 .logique-help{}
-.div-help{font-size:18px;padding:20px;text-align:center;border:2px solid #ccc;margin-bottom:35px}
+.div-help{font-size:18px;padding:20px;text-align:left;border:2px solid #ccc;margin-bottom:35px}
 .div-help .div-title{margin-top: -34px;margin-bottom: 15px;}
 .div-help .title{background: #fff;padding: 0 8px;font-size:20px;margin:auto}
 .valign-center{top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);position:relative}
 .m-t-30{margin-top: 30px;}
 .solusi.revision{background:url(../img/div-solusi.png);background-size:cover;font-size:18px}
 .layanan-kami{background:rgba(255,255,255,0.1);padding:15px;margin-bottom:10px}
-.layanan-kami .title{font-size:20px;text-align:center;padding: 0 35px;}
+.layanan-kami .title{font-size:20px;text-align:center;padding: 0 25px;}
 .bg-grey{background:#ececec;padding:50px 0}
 .col-md-5ths {
 	position: relative;

@@ -72,11 +72,12 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-7">
 						<br/><br/><br/>
-						<h1><span class="yellow">モバイルアプリ（Android｜iOS｜ハイブリッド）</span>をインドネシアで、高品質でリーズナブルなコストで開発するなら<span class="yellow">LOGIQUE</span>にご依頼ください。</h1>
+						<h1><span class="yellow">モバイルアプリ（ANDROID｜iOS｜ハイブリッド）</span>をインドネシアで、高品質でリーズナブルなコストで開発するなら<span class="yellow">LOGIQUE</span>にご依頼ください。</h1>
+						<br/>
 						<p>	
-						既存のアプリの改修、バージョンアップが必要な場合、メンテナンス契約についてなどもお気軽にご相談ください。確かな技術に基づいたサービスを低価格でご提供しています。アプリの開発以外にもモバイル・スマホ活用ソリューション、PWA等についてなどまずはお問い合わせお待ちしています。
+						モバイル・スマホアプリの開発、既存のアプリの改修、バージョンアップ対応、メンテナンス契約についてなど、お気軽にご相談ください。確かな技術に基づいたサービスを低価格でご提供しています。アプリの開発以外にもモバイル・スマホ活用ソリューション、PWA等についても豊富な経験ありますのでご相談お待ちしています。
 						</p>
-						<div class="visible-md visible-lg"><br/><br/><br/><br/><br/><br/><br/><br/><br/></div>
+						<div class="visible-md visible-lg"><br/><br/><br/><br/><br/></div>
 					</div>
 					<div class="col-md-5">
 						<img alt="Mobile" src="img/hp-header.png" class="hp-header img-responsive center-block"/>
@@ -103,7 +104,7 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="col-md-7">
 					<p style="font-size: 18px;">
-						アプリ開発・運用で成功するには開発パートナー選びが重要です。システム開発やWEB制作に比べて、テクノロジーの変化、バージョンアップがまだ頻繁であること、端末種が豊富なことから、緻密で正確な管理運用が必要になります。LOGIQUEはよく考えて設計されたUIデザインでアプリ開発を行い、ユーザビリティの高いアプリを開発します。<br/><br/>
+						アプリ開発・運用で成功するには開発パートナー選びが重要です。システム開発やWEB制作に比べて、テクノロジーの変化、バージョンアップが頻繁であること、端末種が豊富なことから、開発会社には高い技術力が求められ、緻密で正確な管理運用能力が必要になります。LOGIQUEはよく考えて設計されたUIデザインでアプリ開発を行い、ユーザビリティの高いアプリを開発します。<br/><br/>
 						iPhoneやAndoridアプリの開発をしたいが、どのように、どこに依頼したら良いのかわからない、メンテナンス性の良いアプリを作りたい、まずはプロトタイプだけ制作してもらいたい、企画から助けてくれる開発会社を探しているなどの課題やニーズがあれば、お気軽にLOGIQUEにご相談ください。
 					</p>
 				</div>
@@ -115,12 +116,12 @@ if(isset($_POST['submitted']))
 				<br/><br/>
 				<div class="row">
 					<div class="col-md-4">
-						<h2 class="title">LOGIQUEのモバイル・スマートフォンアプリ開発の進め方、特徴</h2>
+						<h2 class="title">LOGIQUEのアプリ開発の進め方、特徴</h2>
 					</div>
 					<div class="col-md-8">
 						<ul class="fa-ul">
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>スムーズで柔軟なプロジェクト運営を行います。WEB制作やWEBシステム開発でも豊富な実績を持っています。要件定義からテスト、納品まで確実にプロジェクトマネジメントを行います。</li>
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>企画から積極的に参加することも可能です。今までの経験、インドネシアならでは慣習も含め、ユーザーのニーズを叶える有益なアプリとなるよう、要件定義中などにも、お客様への提案・アドバイスを惜しみません。</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>要件定義からテスト、納品までスムーズで柔軟なプロジェクトマネジメントを行います。WEB制作やWEBシステム開発で実績のあるプロジェクト管理方法を用います。</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>企画も可能です。今までの経験、インドネシアの慣習も含め、ユーザーのニーズを叶える有益なアプリとなるよう、企画・要件定義フェーズでのアドバイスを惜しみません。</li>
 							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Uデザインはアプリ開発の中の大きなウェートを占める作業です。LOGIQUEは社内にデザイナーを複数抱えていますので、デザインと開発で分断が起こるというようなことがありません。デザイン力とテクノロジーをうまく融合させます。</li>
 							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>多くのお客様からシステムの運用保守も任せられています。スマホアプリの効果を出すためには、リリース後の運用が非常に大事です。運用、デジタルマーケティング実施もLOGIQUEは総合的にご支援します。</li>
 						</ul>
@@ -160,7 +161,7 @@ if(isset($_POST['submitted']))
 						<h3 class="div-title"><span class="title purple"><b>しっかり保守運用</b></span></h3>
 						<div class="">
 						<img alt="Meningkatkan Proses Bisnis" class="img-responsive center-block" src="img/proses-bisnis.png"/><br/>
-						トラフィックボリュームに応じた適切なサーバーのチューニングや、OS、ミドルウェアのバージョンアップへの対応などきちんと保守運用できる体制が整っていることが、継続的なUI/UX改善のベースになります。地味ではありますが、御社のマーケティング担当さんの工数を掛けずに、しっかりと保守運用していきます。</div>
+						トラフィックボリュームに応じた適切なサーバーのチューニングや、OS、ミドルウェアのバージョンアップへの対応などきちんと保守運用できる体制が整っていることが、継続的なUI/UX改善のベースになります。地味ではありますが、御社のマーケティング担当さんの工数を掛けずに、しっかりと保守運用していきます。デジタルマーケティング領域のご支援も可能です。</div>
 					</div>
 				</div>
 			</div>
@@ -170,10 +171,10 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<br/><br/>
 				<div class="row row-center-md">
-					<div class="col-md-offset-1 col-md-3">
+					<div class="col-md-offset-1 col-md-4">
 						<h2 class="title">モバイル（スマートフォン）アプリをもつメリット</h2>
 					</div>
-					<div class="col-md-8">
+					<div class="col-md-6">
 						<ul class="fa-ul">
 							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>ユーザーとの接触頻度を高められる（プッシュ通知活用）</li>
 							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>インターネット接続状況の影響を少なくすることが可能.</li>
@@ -184,7 +185,7 @@ if(isset($_POST['submitted']))
 				<br/><hr/><br/>
 				<h2 class="font-28 text-center">モバイルアプリ開発関連サービス</h2><br/>
 				<div class="row">
-					<div class="col-md-10 col-md-offset-1 text-center">
+					<div class="col-md-10 col-md-offset-1">
 					ネイティブなモバイル（スマートフォン）アプリ開発（Android、iOS、ハイブリッド）、企画、保守運用だけでなくPWA（プログレッシブウェブアプリ）の開発も行っております。最適な実装方法を検討する段階からご相談いただければと思います。
 					</div>
 				</div>
@@ -385,7 +386,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
-						モバイルアプリの開発・運用保守についてお気軽にご相談ください。
+						スマートフォンアプリ、タブレットアプリの企画・開発・運用保守についてお気軽にご相談ください。
 						<br/>
 						<?php if(isset($msg))
 						{
@@ -439,12 +440,12 @@ if(isset($_POST['submitted']))
 		<div class="buat-sekarang">
 			<div class="container">
 				<div class="row row-center-md">
-					<div class="col-md-6 font20">
-						Memiliki pertanyaan dan perlu informasi lebih lanjut ?
+					<div class="col-md-12 font20">
+						LOGIQUEのその他のサービス（WEB制作、WEBシステム開発）をご確認いただく
 						<div class="hidden-lg hidden-md"><br/></div>
 					</div>
 					<div class="col-md-6">
-						<a href="/jp/contact.php" target="_blank" class="btn btn-buat-sekarang">CARI SOLUSI</a>
+						<a href="/jp/services.php" target="_blank" class="btn btn-buat-sekarang">その他のサービス</a>
 					</div>
 				</div>
 			</div>
@@ -455,12 +456,12 @@ if(isset($_POST['submitted']))
 					<div class="col-md-8">
 						<div class="title">LOGIQUEについて</div>
 						<br/>				
-						LOGIQUEは、ジャカルタでWebコンサルティング、モバイル・スマートフォンアプリ開発、WEBサイト制作、デジタルマーケティング運営代行、採用人事管理システム開発、リモートワーク管理ツールの提供、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン・印刷サービスを提供しています。<br/>
+						LOGIQUEは、インドネシアの首都ジャカルタでWebコンサルティング、モバイル・スマートフォンアプリ開発、WEBサイト制作、デジタルマーケティング運営代行、採用人事管理システム開発、リモートワーク管理ツールの提供、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン・印刷サービスを提供しています。ジョグジャカルタに開発センターがあります。インターナショナルなクオリティをインドネシアの単価でのWEB関連サービス提供に努めています。ホームページ制作からアプリ開発、システム開発までご相談お待ちしています。<br/>
 						<div class="visible-sm visible-xs"><br/></div>
 					</div>
 					<div class="col-md-4">
 						<div class="title">お問い合わせ</div>
-						<a href="/hubungi-kami.php" target="_blank"><img alt="Logo" src="img/logo_logique_footer.png" class="img-responsive"/></a>
+						<a href="/jp/contact.php" target="_blank"><img alt="Logo" src="img/logo_logique_footer.png" class="img-responsive"/></a>
 						Ad Premier Building 19th Floor. <br/>
 						Jalan Tb. Simatupang No. 5 <br/>
 						Ragunan, Ps. Minggu, <br/>
