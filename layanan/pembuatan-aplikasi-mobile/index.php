@@ -67,7 +67,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<img alt="logo" class="img-responsive" src="img/logo_logique.png"/>
+						<a href="/"><img alt="logo" class="img-responsive" src="img/logo_logique.png"/></a>
 					</div>
 				</div>
 				<div class="row">
@@ -263,7 +263,7 @@ if(isset($_POST['submitted']))
 										<div class="arrow-left"></div>
 										<div class="font-28">Kategori: Finansial</div><br/>
 										<div class="font-20">
-										Aplikasi yang membantu dealer mengelola iklan mobil pada salah satu portal mobil bekas terbesar di Indonesia.
+										Aplikasi yang membantu pelanggan mendapatkan informasi seputar polis asuransi dan berinteraksi dengan agen untuk salah satu asuransi terbesar di Indonesia.
 										</div>
 									</div>
 								</div>

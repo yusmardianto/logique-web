@@ -155,13 +155,14 @@ footer .title{font-size:24px;}
 	.col-md-5ths {float: left;width: 20%;}
 }
 @media (max-width:991px) {
-	.name-input{margin-bottom:15px}
 	.div-form {padding: 30px 0;}
 	.solusi .title span, h2.first span{display:inline}
 	.mobile-phone{margin-bottom:20px;}
 	.hp-header {margin-bottom: 20px;height: 300px;}
 	.solusi .title{text-align:left;margin-bottom:10px}
 	.solusi.revision .title {text-align: center;}
+	.form-group {margin-bottom: 0;}
+	.div-form form .form-control{margin-bottom: 15px;}
 }
 @media (max-width:767px) {
 	.caption-portfolio .font-28{font-size:20px;margin-bottom: -15px;}
@@ -173,6 +174,7 @@ footer .title{font-size:24px;}
 	h1 {font-size: 30px;}
 	.hubungi-kami-top{padding: 20px 0;font-size: 25px;}
 	.device{left: -1px;}
+	.btn-submit{margin-top:15px}
 }
 
 @media (min-width:991px) {
