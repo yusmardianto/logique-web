@@ -264,7 +264,8 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>モバイルアプリケーション制作 </b><br/>
-										アンドロイドApp、iOSアプリをインドネシアマーケットに合わせて開発できます。 企画や技術だけでなく、企画をUI、UXに落とし込み、デザイン制作からアプリケーション開発までワンストップで行い、申請登録、運用までしっかりご支援します。
+										アンドロイドApp、iOSアプリをインドネシアマーケットに合わせて開発できます。 企画や技術だけでなく、企画をUI、UXに落とし込み、デザイン制作からアプリケーション開発までワンストップで行い、申請登録、運用までしっかりご支援します。<br/>
+										<a target="_blank" href="/layanan/jp/pembuatan-aplikasi-mobile/" class="btn btn-service-link">もっと見る</a>
 									</li>
 								</ol>
 							  </div>
