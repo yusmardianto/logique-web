@@ -42,9 +42,9 @@ if(isset($_POST['submitted']))
     <meta name="description" content="LOGIQUE menyediakan layanan pembuatan website karir perusahaan untuk memudahkan pekerjaan HRD dan meningkatkan kualitas dalam rekrutmen.">
 	<meta name="keywords" content="website karir, karir perusahaan, jasa website karir, logique">
 	<meta name="author" content="Logique Digital Indonesia">
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Layanan Website Karir Perusahaan | Logique Digital Indonesia</title>
-	<link href="css/bootstrap.min.css" rel="stylesheet">	 
+	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
 	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
@@ -381,8 +381,8 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 									<div class="arrow-diagonal"></div>
 								</div>
 								<div class="testi-owner-container pull-right">
-									Setyo Hadibuwono<br>
-									<span style="font-style: italic;">HR Manager, Inti Media Kencana</span>
+									Mr. Tatsuya Miyoshi<br>
+									<span style="font-style: italic;">TrendPot </span><a style="color:#000" href="http://trendpot-recruit.asia/" target="_blank"><u>(http://trendpot-recruit.asia/)</u></a>
 								</div>
 							</div>
 						</div>
@@ -450,8 +450,8 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 			</footer>
 		</div>
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/slick.min.js"></script>
+		<script src="/js/bootstrap.min.js"></script>
+		<script src="/js/slick.min.js"></script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 		
 	</body>

@@ -731,14 +731,26 @@
 		</section>
 		
 		<div class="bg-footer-new-career">
-			<span>Anda cocok dengan persyaratan di atas dan tertarik bergabung bersama LOGIQUE?</span><br>
-			<div class="text-center">
-				<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+			<span>Anda cocok dengan persyaratan di atas dan tertarik bergabung bersama LOGIQUE?</span>
+			<div>
+				<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" style="margin-bottom: 50px;">
 					Kirim CV Sekarang 
 				</a>
 			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="text-left">
+							<ul class="list-inline little-nav">
+								<li><a target="_blank" href="/tentang-kami.php">Tentang LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
+								<li><a target="_blank" href="/layanan.php">Layanan LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
+								<li><a target="_blank" href="/hubungi-kami.php">Hubungi LOGIQUE</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
-		
 		<div class="copyright-career">
 			LOGIQUE DIGITAL INDONESIA - Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu, Jakarta Selatan, Indonesia 12550
 		</div>

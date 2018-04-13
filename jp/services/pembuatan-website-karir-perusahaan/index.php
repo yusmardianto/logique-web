@@ -134,7 +134,7 @@ if(isset($_POST['submitted']))
 							<div class="text-left solution-text">
 								<div class="row">
 									<div class="col-sm-4"> <div>御社のカルチャー、雰囲気、御社で働くメリットなどをしっかり伝えることで求職者にアピール。求人ポータルでは伝えられない御社の魅力を写真や動画も使いじっくりと紹介。</div></div>
-									<div class="col-sm-4"> <div> 御社のカルチャー、雰囲気、御社で働くメリットなどをしっかり伝えることで求職者にアピール。求人ポータルでは伝えられない御社の魅力を写真や動画も使いじっくりと紹介。</div></div>
+									<div class="col-sm-4"> <div> 求人内容を職種別にしっかりと説明、詳細な要件を記載することで専門的な言葉で仕事探しをしている求職者の検索にHitする可能性が高まります。</div></div>
 									<div class="col-sm-4"> <div>求める人材、必要な要件をしっかり記載する、また応募フォームに簡単なテストを付与することで、クオリティの低い応募を防ぎ、スクリーニングコストを権限する。</div></div>
 									<div class="clearfix"></div><br/>
 									<div class="col-sm-12">
@@ -150,7 +150,7 @@ if(isset($_POST['submitted']))
 			<section class="simulation-container">
 				<img src="images/img-simulation2.png" class="img-responsive " style="width: 100%;">
 				<div class="container">
-					<!--<h2 class="text-center">
+					<h2 class="text-center">
 						Mari Kita lihat Simulasi Biaya Perekrutan dibawah ini
 					</h2>
 					<div class="simul-cont1">
@@ -159,7 +159,7 @@ if(isset($_POST['submitted']))
 							<img src="images/img-simulation1.png" alt="" class="img-responsive">
 						10 karyawan baru</div>
 						<div class="simul-3">untuk 10 posisi berbeda,</div>
-					</div>-->
+					</div>
 					<center>
 						<img src="images/simulation-dot.png" class="img-responsive" style="margin-top: 10px;">
 					</center>
@@ -378,7 +378,7 @@ if(isset($_POST['submitted']))
 						</div>
 					</div>
 				</div>
-			</section>
+			</section>-->
 			<section>
 				<div class="testimonial-container">
 					<div class="container">
@@ -397,15 +397,15 @@ if(isset($_POST['submitted']))
 									<div class="arrow-diagonal"></div>
 								</div>
 								<div class="testi-owner-container pull-right">
-									Setyo Hadibuwono<br>
-									<span style="font-style: italic;">HR Manager, Inti Media Kencana</span>
+									Mr. Tatsuya Miyoshi<br>
+									<span style="font-style: italic;">TrendPot </span><a style="color:#000" href="http://trendpot-recruit.asia/" target="_blank"><u>(http://trendpot-recruit.asia/)</u></a>
 								</div>
 							</div>
 						</div>
 					</div>
 					</div>
 				</div>
-			</section> -->
+			</section>
 
 			<footer>
 				<div class="footer-container">
