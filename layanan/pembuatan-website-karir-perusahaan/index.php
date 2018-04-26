@@ -487,7 +487,14 @@ ga('send', 'pageview');
 							<a href="https://www.logique.co.id/" target="_blank"><img src="images/logo-y-logique.png" alt="logo-footer" class="img-responsive"></a>
 							<p>LOGIQUE DIGITAL INDONESIA<br>
 							Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5 
-							Ragunan, <br>Ps. Minggu, Jakarta Selatan,<br> Indonesia 12550</p>
+							Ragunan, <br>Ps. Minggu, Jakarta Selatan,<br> Indonesia 12550
+
+							<br>
+							&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+							<br>
+							<i class="fa fa-mobile-phone"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;081296560380
+						</p>
+
 						</div>
 						<div class="col-md-6 col-sm-8 mesage-alert ">
 							<?php if(isset($msg))
