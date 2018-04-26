@@ -114,7 +114,8 @@ header.head-banner{
 }
 .banner-subt{
 	font-size: 16px;
-	color: #555555;
+	color: #000;
+	text-shadow: 0px 0px 6px rgba(255,255,255,1);
 }
 .offering-part{
 	background: #000;
@@ -391,7 +392,7 @@ header.head-banner{
 }
 .testimonial-title {
 	background: #eab913;
-	min-height: 450px;
+	min-height: 520px;
 	position: relative;
 }
 .testimonial-title h3{
@@ -488,6 +489,102 @@ header.head-banner{
 .copyright-container {
 	padding:20px 0;
 		background: #eab913;
+}
+
+.slick-dots
+{
+    position: absolute;
+    bottom: 20px;
+
+    display: block;
+
+    width: 100%;
+    padding: 0;
+    margin: 0;
+
+    list-style: none;
+
+    text-align: center;
+}
+.slick-dots li
+{
+    position: relative;
+
+    display: inline-block;
+
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    padding: 0;
+
+    cursor: pointer;
+}
+.slick-dots li button
+{
+    font-size: 0;
+    line-height: 0;
+
+    display: block;
+
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+
+    cursor: pointer;
+
+    color: transparent;
+    border: 0;
+    outline: none;
+    background: transparent;
+}
+.slick-dots li button:hover,
+.slick-dots li button:focus
+{
+    outline: none;
+}
+.slick-dots li button:hover:before,
+.slick-dots li button:focus:before
+{
+    opacity: 1;
+}
+.slick-dots li button:before
+{
+    font-family: 'slick';
+    font-size: 30px;
+    line-height: 20px;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 20px;
+    height: 20px;
+
+    content: '•';
+    text-align: center;
+
+    opacity: .25;
+    color: black;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.slick-dots li.slick-active button:before
+{
+    opacity: .75;
+    color: black;
+}
+
+.btn-yellow {
+	background-color: #ffc914;
+	border: 2px solid #dead08;
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+	font-size: 16px;
+}
+.btn-yellow:hover,
+.btn-yellow:focus {
+	color: #fff;
 }
 
 /* responive */
