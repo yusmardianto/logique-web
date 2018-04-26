@@ -266,6 +266,8 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Mobile Application Development</b><br/>
 										We are able to develop Android / iOS Apps that suit Indonesian market. We just not plan or use new technologies, but we use the plan into UI and UX, design, application development, and register the apps to provide you comprehensive service. Boasting a dedicated and experienced team of mobile app developers, specializing in iOS and Android apps, we have delivered mobile apps development services for numbers of clients in Indonesia. If you want to extend your business to the mobile world, you’ve come to the right place. Our solutions have a strong focus on intuitive and user-friendly interfaces and value-added functionality. What’s more, we have the expertise to guide and advise you on multiples sources of generating revenue, as well as helping you to regularly update and improve your app. Get in touch with our team of mobile app developers to discuss how LOGIQUE can help your business achieve more through our mobile app development services.	
+										<br/>
+										<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/" class="btn btn-service-link">See Further Information</a>
 									</li>
 								</ol>
 							  </div>
