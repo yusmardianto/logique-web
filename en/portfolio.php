@@ -272,6 +272,25 @@
 									Hajime<br><br>
 								</a>
 							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<a href="http://omc.co.id/" target="_blank">
+									<img src="/img/portfolio/omc.png" class="img-responsive center-block">
+									OMC<br><br>
+								</a>
+							</div>	
+							<div class="col-sm-4">
+								<a href="https://prolinefinance.co.id/" target="_blank">
+									<img src="/img/portfolio/proline.png" class="img-responsive center-block">
+									Proline<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.60jpid.com/symposium.php" target="_blank">
+									<img src="/img/portfolio/symposium.png" class="img-responsive center-block">
+									Symposium page (60th Anniv)<br><br>
+								</a>
+							</div>
 							
 						</div>
 						<br/>
