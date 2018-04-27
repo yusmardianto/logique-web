@@ -73,11 +73,15 @@ ga('send', 'pageview');
 
 						</h1>
 						<div class="banner-subt">
-							Mari Buat Website Perekrutan Karyawan Anda Sendiri<br><br>
-							Sebuah Website perekrutan karyawan yang efektif dan mempunyai biaya yang rendah! <br><br>
-							Kami sadar dan memahami bahwa menggunakan situs lowongan kerja mempunyai biaya yang mahal serta sulit untuk melakukan pemilihan karyawan yang Anda inginkan.
-							<br><br>
-							Karena itu, mari kita sedikit lebih bijak dengan mengeluarkan biaya yang rendah namun mempunyai efektivitas yang cukup tinggi sehingga membuat waktu Anda sebagai HRD menjadi lebih efisien dengan membuat sebuah website perekrutan karyawan yang sesuai dengan keinginan Anda.
+							<div class="row">
+								<div class="col-md-10">
+									Mari Buat Website Perekrutan Karyawan Anda Sendiri<br><br>
+									Sebuah Website perekrutan karyawan yang efektif dan mempunyai biaya yang rendah! <br><br>
+									Kami sadar dan memahami bahwa menggunakan situs lowongan kerja mempunyai biaya yang mahal serta sulit untuk melakukan pemilihan karyawan yang Anda inginkan.
+									<br><br>
+									Karena itu, mari kita sedikit lebih bijak dengan mengeluarkan biaya yang rendah namun mempunyai efektivitas yang cukup tinggi sehingga membuat waktu Anda sebagai HRD menjadi lebih efisien dengan membuat sebuah website perekrutan karyawan yang sesuai dengan keinginan Anda.
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -180,8 +184,6 @@ ga('send', 'pageview');
 					</div>
 					<div class="col-sm-12 simul-description">
 					 <center>
-					 	Biaya tersebut sangat mahal, seharusnya Anda bisa mengalokasikan dana tersebut untuk membayar lebih banyak karyawan.
-					 	<br><br>
 						Jika pelamar ternyata tidak sesuai dengan kriteria perusahaan, maka biaya serta tenaga yang Anda keluarkan akan menjadi sia-sia. Bahkan bisa saja menimbulkan potensi masalah lain di kemudian hari, seperti pengunduran diri karyawan dalam waktu dekat karena tidak mampu beradaptasi dengan lingkungan kerja sehingga membuat Anda harus mengulang proses rekrutmen karyawan dari awal. Hal ini tentu membuang-buang waktu Anda.
 					 </center>
 					</div>
@@ -466,7 +468,15 @@ ga('send', 'pageview');
 			<section class="reason-container">
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-8 col-sm-offset-2">
+						<div class="col-sm-6 ">
+							<center>
+								<img src="images/sugoisaiyo-logo.png" alt=""  class="img-responsive">
+								<div>Jalankan proses rekrutmen dengan mudah dan efektif secara online. Kandidat dapat memasukkan data mereka via sistem dan Anda dapat melakukan proses rekrutmen mulai dari pemeriksaan CV, psikotes, tes teknikal, pengaturan jadwal interview, hingga memberikan surat penawaran. Semuanya dapat di monitor dengan mudah melalui satu sistem terintegrasi.</div>
+								<br>
+								<!-- <a href="#" class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a> -->
+							</center>
+						</div>
+						<div class="col-sm-6 ">
 							<center>
 								<img src="images/dokodemo-logo.png" alt=""  class="img-responsive">
 								<div>Masalah dan waktu yang kurang efektif ketika karyawan Anda tinggal jauh dari kantor mungkin membuat Anda berpikir untuk menerapkan sistem kerja remote. Namun tentu saja sistem kerja seperti ini dikhawatirkan akan membuat karyawan tidak efisien dalam bekerja. Dengan Dokodemo Kerja, Anda tidak perlu khawatir karena sistem ini akan membantu menciptakan kondisi kerja yang profesional antara perusahaan dan karyawan. Karyawan dapat mencatat waktu mulai, istirahat, dan berhenti kerja untuk perhitungan pembayaran, disisi lain perusahaan juga dapat menerima informasi tambahan berupa screenshot yang diambil pada waktu acak untuk memonitor tingkat efisiensi karyawan.</div>
