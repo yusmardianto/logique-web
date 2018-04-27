@@ -104,7 +104,22 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="col-md-7">
 					<p>
-						Memilih mitra yang tepat merupakan hal penting bagi keberhasilan pengembangan dan pengoperasian aplikasi mobile Anda. Untuk melakukan pengembangan teknologi dan sistem dari aplikasi mobile, perusahaan pengembang aplikasi mobile tersebut harus memiliki keterampilan tinggi dan manajemen kerja yang baik. LOGIQUE merupakan perusahaan pengembang yang mampu merancang aplikasi mobile dengan desain yang baik berteknologi modern baik secara native ataupun hybrid menggunakan Objective-C, Swift, Java, Kotlin, dan Xamarin. Jangan ragu untuk menghubungi LOGIQUE jika Anda memiliki masalah atau kebutuhan terkait dengan aplikasi mobile.
+						Memilih mitra yang tepat merupakan hal penting bagi keberhasilan pengembangan dan
+						pengoperasian aplikasi mobile Anda. Untuk melakukan pengembangan teknologi dan sistem dari
+						aplikasi mobile, perusahaan pengembang aplikasi mobile tersebut harus memiliki keterampilan
+						tinggi dan manajemen kerja yang baik. LOGIQUE merupakan perusahaan pengembang yang mampu
+						merancang aplikasi mobile dengan desain yang baik berteknologi modern baik secara native ataupun
+						hybrid menggunakan Objective-C, Swift, Java, Kotlin, dan Xamarin.
+						<br><br>
+						Lalu, jika Anda memiliki ide bisnis inovatif dengan memanfaatkan sistem aplikasi seperti aplikasi e-
+						commerce, transportasi online, finansial, otomotif, jasa, dll., silahkan konsultasikan ide Anda kepada
+						Kami. Dengan pengalaman lebih dari 5 tahun di bidang pengembangan aplikasi mobile dan
+						mengusung teknologi terkini dalam pengembangan aplikasi, bukanlah suatu hal yang mustahil bagi
+						Kami untuk mewujudkan ide bisnis Anda. Selama proses perencanaan, pengembangan,
+						pengoperasian, dan pemeliharaan (maintenance) aplikasi, Kami juga akan menyesuaikan dengan
+						permintaan pelanggan dan memberikan saran strategis untuk menghasilkan aplikasi dengan hasil
+						akhir yang optimal. Jangan ragu untuk menghubungi LOGIQUE jika Anda memiliki masalah atau
+						kebutuhan terkait dengan aplikasi mobile.
 
 
 					</p>
