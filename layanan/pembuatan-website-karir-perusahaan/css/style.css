@@ -69,8 +69,9 @@ img.pright{
 }
 header.head-banner{
 	background: url(../images/banner.jpg) no-repeat;
-	background-size: cover;
-	height: 550px;
+	background-size: contain;
+	background-position: right;
+	height: 580px;
 	width: 100%;
 	display: block;
 }
@@ -608,6 +609,10 @@ header.head-banner{
 
     /* Small Devices, Tablets */
     @media only screen and (max-width : 768px) {
+    	header.head-banner {
+    		height: auto;
+    		background-image: none;
+    	}
     	.big-text{
     		font-size: 42px !important;
     	}
