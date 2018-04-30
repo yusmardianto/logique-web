@@ -471,15 +471,15 @@ ga('send', 'pageview');
 						<div class="col-sm-6 ">
 							<center>
 								<img src="images/sugoisaiyo-logo.png" alt=""  class="img-responsive">
-								<div>Jalankan proses rekrutmen dengan mudah dan efektif secara online. Kandidat dapat memasukkan data mereka via sistem dan Anda dapat melakukan proses rekrutmen mulai dari pemeriksaan CV, psikotes, tes teknikal, pengaturan jadwal interview, hingga memberikan surat penawaran. Semuanya dapat di monitor dengan mudah melalui satu sistem terintegrasi.</div>
+								<div class="produk">Jalankan proses rekrutmen dengan mudah dan efektif secara online. Kandidat dapat memasukkan data mereka via sistem dan Anda dapat melakukan proses rekrutmen mulai dari pemeriksaan CV, psikotes, tes teknikal, pengaturan jadwal interview, hingga memberikan surat penawaran. Semuanya dapat di monitor dengan mudah melalui satu sistem terintegrasi.</div>
 								<br>
-								<!-- <a href="#" class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a> -->
+								<a href="https://www.logique.co.id/produk/sugoi-saiyo.php" class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a>
 							</center>
 						</div>
 						<div class="col-sm-6 ">
 							<center>
 								<img src="images/dokodemo-logo.png" alt=""  class="img-responsive">
-								<div>Masalah dan waktu yang kurang efektif ketika karyawan Anda tinggal jauh dari kantor mungkin membuat Anda berpikir untuk menerapkan sistem kerja remote. Namun tentu saja sistem kerja seperti ini dikhawatirkan akan membuat karyawan tidak efisien dalam bekerja. Dengan Dokodemo Kerja, Anda tidak perlu khawatir karena sistem ini akan membantu menciptakan kondisi kerja yang profesional antara perusahaan dan karyawan. Karyawan dapat mencatat waktu mulai, istirahat, dan berhenti kerja untuk perhitungan pembayaran, disisi lain perusahaan juga dapat menerima informasi tambahan berupa screenshot yang diambil pada waktu acak untuk memonitor tingkat efisiensi karyawan.</div>
+								<div class="produk">Masalah dan waktu yang kurang efektif ketika karyawan Anda tinggal jauh dari kantor mungkin membuat Anda berpikir untuk menerapkan sistem kerja remote. Namun tentu saja sistem kerja seperti ini dikhawatirkan akan membuat karyawan tidak efisien dalam bekerja. Dengan Dokodemo Kerja, Anda tidak perlu khawatir karena sistem ini akan membantu menciptakan kondisi kerja yang profesional antara perusahaan dan karyawan. Karyawan dapat mencatat waktu mulai, istirahat, dan berhenti kerja untuk perhitungan pembayaran, disisi lain perusahaan juga dapat menerima informasi tambahan berupa screenshot yang diambil pada waktu acak untuk memonitor tingkat efisiensi karyawan.</div>
 								<br>
 								<a href="https://www.logique.co.id/produk/dokodemo-kerja.php" class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a>
 							</center>
@@ -557,11 +557,15 @@ ga('send', 'pageview');
 		<script src="/js/bootstrap.min.js"></script>
 		<script src="/js/slick.min.js"></script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
 		<script>
 			$('.testimoni-slick').slick({
 				dots: true,
 				prevArrow: false,
 				nextArrow: false
+			});
+			$('.produk').matchHeight({
+				byRow: false
 			});
 		</script>
 	</body>
