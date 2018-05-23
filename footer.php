@@ -39,7 +39,12 @@ ga('send', 'pageview');
 				<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
 				<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 				<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
-				Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span><br/><br/>
+				Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span>
+				<br><br>
+				&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+				<br>
+				&nbsp;<i class="fa fa-mobile"></i>&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;081296560380
+				<br><br>
 				</div>
 			</div>
 				Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan.php"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.

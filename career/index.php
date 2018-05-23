@@ -740,11 +740,13 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<div class="text-left">
+						<div class="text-center">
 							<ul class="list-inline little-nav">
 								<li><a target="_blank" href="/tentang-kami.php">Tentang LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
 								<li><a target="_blank" href="/layanan.php">Layanan LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
-								<li><a target="_blank" href="/hubungi-kami.php">Hubungi LOGIQUE</a></li>
+								<li><a target="_blank" href="/hubungi-kami.php">Hubungi LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
+								<li><a href="tel:02122708935"><i class="fa fa-phone"></i>&nbsp;&nbsp; (021) 22708935 / 36</a>&nbsp;&nbsp;&nbsp;|</li>
+								<li><a href="tel:081296560380"><i class="fa fa-mobile"></i>&nbsp; <i class="fa fa-whatsapp"></i>&nbsp;&nbsp;  081296560380</a></li>
 							</ul>
 						</div>
 					</div>
@@ -754,6 +756,8 @@
 		<div class="copyright-career">
 			LOGIQUE DIGITAL INDONESIA - Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu, Jakarta Selatan, Indonesia 12550
 		</div>
+
+		<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>
 		
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script src="../js/jquery.matchHeight.js"></script>
