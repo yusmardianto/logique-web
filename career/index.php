@@ -45,9 +45,14 @@
 			</div>
 			<div class="box-home-career col-md-offset-2 col-md-8">
 				<div class="valign-center">
-					<h1>Lowongan Kerja Web Developer di Jakarta</h1>
+					<h1>Let’s work hard, enjoy hard, and grow up together!</h1>
 					<p class="content-first">
-						LOGIQUE membuka lowongan kerja dan kesempatan bergabung bagi Anda yang memiliki kompetensi di bidang IT, Web Developer, PHP Programmer, Designer, Mobile App Developer, Technical Consultant, dan Content Writer baik di Jakarta ataupun lokasi lainnya. Untuk Anda yang berada di area Jakarta kami menyediakan sistem kerja full-time di kantor LOGIQUE yang berada di kawasan Jakarta Selatan. Sedangkan untuk Anda yang tinggal di kota lainnya khususnya web developer atau PHP programmer, kami juga menyediakan lowongan kerja dengan sistem remote. Ayo ambil bagian dan bekerja bersama tim terbaik LOGIQUE, baca lebih lanjut untuk mencari tau bagaimana suasana bekerja di LOGIQUE dan lowongan yang tersedia.
+						LOGIQUE merupakan perusahaan start-up di bidang IT yang dijalankan oleh tim yang cerdas, inovatif, dinamis, dan bertalenta. Dalam perkembangannya, LOGIQUE selalu menggali potensi anggota-anggota timnya yang tidak hanya berdomisili di Jakarta, namun juga di kota-kota besar lainnya di Indonesia.
+						<br><br>
+						Baru-baru ini, LOGIQUE telah membuka kantor cabang di Jetis, <b>Yogyakarta</b>. LOGIQUE yakin, kota ini memiliki potensi akan perkembangan sumber dayanya yang handal.
+						<br><br>
+						Maka dari itu, LOGIQUE membuka kesempatan bagi Anda yang berdomisili di Yogyakarta dan memiliki kompetensi di bidang IT untuk bergabung dan berkembang bersama LOGIQUE.
+
 					</p>
 					<br/>
 					<div class="div-black-career">
@@ -94,7 +99,9 @@
 						<div class="valign-center">
 							<span class="title-benefit-col-1">Keuntungan bekerja di LOGIQUE :</span>
 							<p class="content-benefit-col-1">
-								LOGIQUE adalah perusahaan jasa pembuatan web dan sistem web yang didirikan dan dijalankan oleh pendiri yang berkewarganegaraan Jepang di Indonesia. Sebagai perusahaan start-up, LOGIQUE berkembang bersama-sama dengan tim yang ada di dalamnya. Banyak sekali kesempatan peningkatan karir dan variasi pekerjaan yang dapat Anda peroleh sebagai web developer, web designer, php programmer, technical consultant, atau project manager. Selain itu Anda juga dapat bekerja dengan klien internasional dan Anda dapat belajar bagaimana bekerja dengan standar internasional. Kebanyakan proyek dan klien kami juga memerlukan standar yang tinggi, tantangan dalam setiap proyek serta lingkungan kerja yang nyaman dan efektif akan <span>mengasah dan meningkatkan kemampuan Anda ke level berikutnya.</span>
+								LOGIQUE adalah perusahaan jasa pengembang web dan sistem web yang dipimpin oleh pendiri berkewarganegaraan Jepang di Indonesia. Sebagian besar klien kami juga berada di level internasional. Ini membuat atmosfer kerja kami juga ikut berstandar global dan sangat multikultural. Akan ada banyak pengalaman berharga yang bisa Anda dapatkan dari suasana kerja dinamis di LOGIQUE, termasuk pengalaman bekerja di perusahaan asing.
+								<br><br>
+								Selain itu, banyak sekali kesempatan untuk peningkatan karir sebagai Web Developer, Web Designer, PHP Programmer, Technical Consultant, ataupun Project Manager. Kami biasa mengerjakan proyek dengan permintaan standar yang tinggi dari klien. Tantangan inilah yang akan mengasah dan meningkatkan kemampuan Anda ke level selanjutnya. 
 							</p>
 						</div>
 					</div>
@@ -102,24 +109,26 @@
 				<div class="col-md-6">
 					<div class="col-benefit benefit-col-2 indonesian">
 						<div class="row no-gap" style="margin:0">
-							<div class="col-sm-4 hidden-xs">
-								<div class="content-benefits blank">
-								</div>
-							</div>
 							<div class="col-sm-4 col-xs-6">
 								<div class="content-benefits">
 									<div class="valign-center great-view">
 										<img src="../img/benefits1.png" alt="Great View"/>
-										kantor baru dengan <br/><span>pemandangan <br/>bagus</span>
+										Kantor baru dengan <br/><span>suasana kerja yang nyaman</span>
 									</div>
+								</div>
+							</div>
+							<div class="col-sm-4 col-xs-6">
+								<div class="content-benefits casual-wear">
+										<img src="../img/benefits8.png" alt="Casual Wear" class="pull-right">
+										Bekerja dengan <br><span>pakaian yang santai, bebas, dan sopan</span>
 								</div>
 							</div>
 							<div class="col-sm-4 col-xs-6">
 								<div class="content-benefits">
 									<div class="valign-center get-bonus">
-										<span class="first-element"> dapat <b>bonus</b> </span><br/>
-										<span class="second-element"> setiap bulan </span><br/>
-										berdasarkan performa Anda
+										<span class="first-element"> Mendapatkan <b>bonus</b> </span><br/>
+										<span class="second-element"> setiap bulannya, </span><br/>
+										-	berdasarkan performa pekerjaan Anda
 										<img src="../img/benefits2.png" alt="Get Bonus"/>
 									</div>
 								</div>
@@ -144,7 +153,7 @@
 								<div class="content-benefits flexible">
 									<div class="valign-center text-center">
 										<img src="../img/benefits4.png" alt="Flexible" class="img-responsive center-block"/>
-										aturan jam kerja<br/>
+										Jam masuk kerja yang 
 										<span>fleksibel</span>
 									</div>
 								</div>
@@ -153,7 +162,7 @@
 								<div class="content-benefits language-indonesia">
 									<div class="valign-center text-center">
 										<img src="../img/multi.png" alt="multicultural" class="img-responsive center-block"/>
-										lingkungan<br/>
+										Lingkungan kerja yang<br/>
 										<span>multikultural</span>
 									</div>
 								</div>
@@ -162,7 +171,7 @@
 								<div class="content-benefits many-fields">
 									<div class="valign-center">
 										<img src="../img/benefits6.png" alt="Many Fields"/>
-										<p>variasi pekerjaan <span>dari konsultasi sampai pengembangan sistem.</span></p>
+										<p><span>Menggali potensi yang Anda miliki</span></p>
 									</div>
 								</div>
 							</div>
@@ -170,8 +179,8 @@
 								<div class="content-benefits middle-management">
 									<div class="valign-center">
 										<img src="../img/benefits7.png" alt="Middle Management" class="img-responsive center-block" style="margin-bottom: 10px;"/>
-										kesempatan menduduki<br/>
-										<span>posisi penting atau manajerial</span> <br/>
+										Kesempatan untuk menduduki<br/>
+										<span>posisi manajerial</span> <br/>
 										sesuai kemampuan & minat
 									</div>
 								</div>
@@ -190,24 +199,30 @@
 						<img alt="Pertumbuhan Karir" src="../img/growth.jpg"/>
 						<div class="subtitle text-center">Pertumbuhan Karir</div>
 						<p>
-							Kamu punya kemampuan lebih dari rekan kerja di posisi yang sama? Di LOGIQUE kamu punya kesempatan besar untuk promosi atau mendapatkan posisi penting sesuai kemampuan dan minat kamu. <br/>
-							Tidak ada diskriminasi berdasarkan lama waktu bekerja, jika kamu mampu dan memberikan hasil melampaui rekan kerja lainnya maka LOGIQUE akan langsung memberikan kesempatan itu.
+							Jika Anda memiliki kemampuan yang lebih dari sesama rekan kerja di posisi yang sama, LOGIQUE tidak akan ragu mempromosikan Anda ke posisi yang lebih tinggi sesuai dengan kemampuan dan minat Anda.
+							<br><br>
+							LOGIQUE tidak mendiskriminasi karyawan baru atau lama untuk diberikan promosi. Promosi terbuka untuk siapa saja dengan kemampuan yang lebih. 
 						</p>
 					</div>
 					<div class="col-md-4">
 						<img alt="Monthly Evaluation" src="../img/bonus.jpg"/>
 						<div class="subtitle text-center">Bonus</div>
 						<p>
-							LOGIQUE memberikan lebih bagi kamu yang berkontribusi sangat baik. Setiap bulan kinerja kamu akan dievaluasi oleh supervisor dan manajemen perusahaan, jika hasil yang kamu tunjukkan luar biasa maka kamu bisa mendapatkan bonus performa.<br/> Selain itu, perusahaan juga memilih staff terbaik setiap bulannya untuk diberikan bonus tambahan.
+							LOGIQUE memberikan bonus kinerja menarik bagi Anda yang berdedikasi dan berkontribusi dengan baik. 
+							<br><br>
+							Setiap bulannya, kinerja Anda akan dievaluasi oleh supervisor. Jika Anda menunjukkan hasil yang luar biasa, Anda akan mendapatkan bonus.
+							<br><br>
+							Tidak hanya itu, jika Anda terpilih sebagai <i>‘Best Employee of The Month’</i>, Anda akan mendapatkan bonus tambahan sebagai penghargaan atas kerja keras Anda.
+
 						</p>
 					</div>
 					<div class="col-md-4">
 						<img alt="Working Hours" src="../img/fleksibilitas.jpg"/>
 						<div class="subtitle text-center">Fleksibilitas</div>
 						<p>
-							Untuk kamu yang punya kebutuhan khusus seperti seorang Ibu yang perlu mengasuh anak,LOGIQUE menyediakan fleksibilitas untuk bekerja dari rumah dengan waktu yang telah disepakati bersama.<br/>
-							Selain itu untuk kamu yang datang ke kantor, kamu bisa memilih jam masuk kerja antara jam 8 - 10 pagi pada hari Senin - Jumat.<br/>
-							Hari Sabtu dan Minggu dapat kamu manfaatkan untuk berkumpul bersama keluarga di rumah.
+							Jika Anda mempunyai kebutuhan khusus, seperti seorang Ibu yang harus mengasuh anak, LOGIQUE memberikan fleksibilitas kepada Anda untuk bekerja dari rumah secara <i>remote</i> dengan waktu yang telah disepakati bersama.
+							<br><br>
+							Bagi Anda yang bekerja di kantor, LOGIQUE juga membebaskan Anda untuk memilih jam masuk kerja antara jam 8-10 pagi pada Senin-Jum’at. 
 						</p>
 					</div>					
 				</div>
@@ -304,7 +319,12 @@
 		<section id="job-opening" class="jumptarget">
 			<!-- <div class="title text-left">We are Hiring!</div> -->
 			<div class="header-career">
-				<div><h2>Lowongan Kerja Web Developer / PHP Programmer / Designer / Konsultan Digital di Logique</h2></div>
+				<div><h2>LOWONGAN KERJA DI LOGIQUE</h2></div>
+
+				<div>
+					<p>Saat ini, LOGIQUE sedang membuka lowongan kerja untuk Quality Assurance, Web Developer, Technical Consultant, Mobile App Developer, Content Writer, Project Manager, Designer, dan Asisten HR/GA.</p>
+				</div>
+				
 			</div>
 			<h3 class="jobs-subtitle">LOWONGAN FULL-TIME</h3>
 			<hr class="separator-career" style="margin-top: 0;border-style: solid;"></hr>
@@ -323,14 +343,14 @@
 						Quality Assurance berperan untuk memastikan semua hasil pekerjaan dan kualitas pembuatan website atau sistem web sudah memenuhi semua aspek yang sudah ditetapkan dengan membuat dokumentasi dan melakukan pengecekan secara komprehensif.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
-							<li>Kandidat minimal Diploma, Bachelor's Degree, Ilmu Komputer / Teknologi Informasi, Teknik (Komputer / Telekomunikasi), Sains & Teknologi, atau yang setara (jurusan yang berbeda dipersilahkan tapi harus mengirimkan portofolionya).</li>
-							<li>Skill yang dibutuhkan: Pengalaman dengan berbagai jenis dan tingkat pengujian, pengalaman langsung dengan pengujian fungsional, pengujian integrasi, pengujian regresi, pengujian mobile, pengujian data yang besar, pengujian lintas platform, pengujian komponen, pengujian keamanan, pengujian kinerja, Pengujian UI / UX, pengujian A / B.</li>
+							<li>Berpendidikan minimal D3 atau S1 Ilmu Komputer/Teknologi Informasi, Teknik (Komputer/Telekomunikasi), Sains & Teknologi, atau yang setara (jurusan yang berbeda dipersilahkan tapi harus mengirimkan portofolio).</li>
+							<li>Skill yang dibutuhkan: Pengalaman dengan berbagai jenis dan tingkat pengujian, pengalaman langsung dengan pengujian fungsional, pengujian integrasi, pengujian regresi, pengujian mobile, pengujian data yang besar, pengujian lintas platform, pengujian komponen, pengujian keamanan, pengujian kinerja, Pengujian UI/UX, pengujian A/B.</li>
 							<li>Keterampilan opsional: Pengalaman Pengujian Selenium.</li>
 							<li>Bahasa yang dibutuhkan: Bahasa Inggris, Bahasa Indonesia.</li>
 							<li>Pelamar harus bersedia bekerja di Jakarta.</li>
 						</ul><br/>
 						
-						<b>Bertanggungjawab:</b><br/>
+						<b>Tanggung Jawab:</b><br/>
 						<ul class="joinus-ul">
 							<li>Mengembangkan dan memelihara skenario pengujian software.</li>
 							<li>Memastikan bahwa fungsi-fungsi baru yang dirancang sudah tepat sesuai dengan kebutuhan pelanggan.</li>
@@ -359,21 +379,21 @@
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Berlatar belakang pendidikan dari Sistem Informasi, Teknologi Informasi atau sejenisnya.</li>
-							<li>Berpengalaman dalam pembuatan WEB / Sistem WEB (PHP, MySQL, HTML / CSS).</li>
+							<li>Berpengalaman dalam pembuatan WEB/Sistem WEB (PHP, MySQL, HTML/CSS).</li>
 							<li>Berpengalaman dalam menggunakan Framework PHP seperti CakePHP, Laravel, atau sejenisnya.</li>
 							<li>Mengenal proses pengembangan website dengan baik.</li>
 							<li>Dapat belajar secara cepat dan mandiri.</li>
 							<li>Mempunyai minat yang besar terhadap bisnis Internet dan Web.</li>
 							<li>Mampu bekerja sebagai tim.</li>
-							<li>Min. D3 berpengalaman 2 tahun dalam bidang IT atau programmer.</li>
+							<li>Berpendidikan minimal D3 dan berpengalaman minimal 2 tahun di bidang IT atau programmer.</li>
 						</ul><br/>
 
-						<b>Bertanggungjawab:</b><br/>
+						<b>Tanggung Jawab:</b><br/>
 						<ul class="joinus-ul">
 							<li>Merancang, membuat, dan mengelola aplikasi website.</li>
 							<li>Menyelesaikan pekerjaan yang diberikan dengan kemampuan teknikal yang dimiliki.</li>
 							<li>Melakukan pengujian terhadap hasil yang dikerjakan, termasuk sistem pengujian terintegrasi.</li>
-							<li>Menganalisa masalah dan memberikan solusi dari sisi teknikal.</li>
+							<li>Menganalisa masalah dan memberikan solusi dari sisi teknis.</li>
 							<li>Menyelesaikan pekerjaan atau tugas lain yang diberikan.</li>
 						</ul>
 					</div>
@@ -393,7 +413,7 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
-						Technical Consultant merupakan partner terbaik Anda dalam menganalisa dan merekomendasikan solusi sistem web dan website terbaik untuk memecahkan masalah yang ada dalam proses bisnis. Seorang technical consultant memiliki pengetahuan yang luas baik dari sisi bisnis maupun teknikal.<br/><br/>
+						Technical Consultant merupakan partner terbaik kami dalam menganalisa dan merekomendasikan solusi sistem web dan website terbaik untuk memecahkan masalah yang ada dalam proses bisnis. Seorang Technical Consultant memiliki pengetahuan yang luas baik dari sisi bisnis maupun teknikal.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Memiliki pengalaman sebagai IT Consultant.</li>
@@ -404,20 +424,20 @@
 							<li>Bisa bekerja dalam tim dengan kemampuan komunikasi dan presentasi yang sangat baik.</li>
 							<li>Orientasi layanan pelanggan.</li>
 							<li>Memiliki kemampuan interpesonal.</li>
-							<li>Lulusan dari ilmu komputer, IT atau bidang yang relevan.</li>
+							<li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.</li>
 						</ul><br/>
 						
 						<b>Tanggung Jawab:</b><br/>
 						<ul class="joinus-ul">
-							<li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>							
-							<li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>							
-							<li>Mengelola inisiatif TI dan berkolaborasi dengan staf teknis internal.</li>							
-							<li>Mendesain sistem dan jaringan TI memastikan arsitektur dan fungsionalitas yang tepat.</li>							
-							<li>Mendukung implementasi teknologi baru.</li>							
-							<li>Melatih pengguna dalam sistem TI baru dan yang sudah ada.</li>							
-							<li>Berikan bantuan untuk masalah teknis.</li>							
-							<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>							
-							<li>Menghasilkan laporan.</li>							
+							<li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
+							<li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
+							<li>Mengelola inisiatif TI dan berkolaborasi dengan staf teknis internal.</li>
+							<li>Mendesain sistem dan jaringan TI memastikan arsitektur dan fungsionalitas yang tepat.</li>
+							<li>Mendukung implementasi teknologi baru.</li>
+							<li>Melatih pengguna dalam sistem TI baru dan yang sudah ada.</li>
+							<li>Berikan bantuan untuk masalah teknis.</li>
+							<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>
+							<li>Menghasilkan laporan.</li>
 						</ul>
 					</div>
 				</div>
@@ -436,20 +456,20 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
-						Mobile Developer berperan dalam membuat dan mengembangkan platform mobile seperti Android dan iOS baik dengan metode native atau hybrid.<br/><br/>
+						Mobile Developer berperan dalam membuat dan mengembangkan <i>platform</i> mobile seperti Android dan iOS baik dengan metode <i>native</i> atau <i>hybrid</i>.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Mempunyai pengalaman kerja sebagai pengembang Mobile (iOS & Android).</li>
-							<li>Portofolio yang dapat dipamerkan dari aplikasi yang diluncurkan di App store atau pasar Android.</li>
-							<li>Mempunyai Pengetahuan mendalam tentang setidaknya satu bahasa pemrograman seperti Swift dan Java.</li>
+							<li>Portofolio yang dapat dipamerkan dari aplikasi yang diluncurkan di App Store atau pasar Android.</li>
+							<li>Mempunyai pengetahuan mendalam tentang setidaknya satu bahasa pemrograman seperti Swift dan Java.</li>
 							<li>Pengalaman dengan perpustakaan dan API pihak ketiga.</li>
 							<li>Memiliki Keakraban dengan prinsip desain OOP.</li>
 							<li>Kemampuan analisis yang bagus dengan sikap pemecahan masalah yang baik.</li>
 							<li>Kemampuan untuk tampil di lingkungan tim.</li>
-							<li>Kandidat harus memiliki setidaknya gelar Bachelor di bidang Ilmu Komputer / Teknologi Informasi atau yang setara.</li>
+							<li>Berpendidikan minimal S1 di bidang Ilmu Komputer/Teknologi Informasi atau yang setara.</li>
 						</ul><br/>
 						
-						<b>Bertanggungjawab:</b><br/>
+						<b>Tanggung Jawab:</b><br/>
 						<ul class="joinus-ul">
 							<li>Menghasilkan aplikasi mobile yang berfungsi penuh (iOS dan Android).</li>
 							<li>Mendukung seluruh siklus hidup aplikasi (konsep, desain, pengujian, pelepasan dan dukungan).</li>
@@ -459,7 +479,7 @@
 							<li>Desain antarmuka untuk meningkatkan pengalaman pengguna.</li>
 							<li>Berhubungan dengan tim Proyek untuk merencanakan fitur baru.</li>
 							<li>Pastikan aplikasi baru dan warisan memenuhi standar kualitas.</li>
-							<li>Meneliti dan menyarankan produk, aplikasi dan protokol seluler baru.</li>
+							<li>Meneliti dan menyarankan produk, aplikasi, dan protokol seluler baru.</li>
 							<li>Tetap up-to-date dengan tren teknologi baru.</li>
 						</ul>
 					</div>
@@ -482,21 +502,21 @@
 						Content Writer membantu menciptakan konten yang sesuai dengan perusahaan, produk, atau jasa yang ditampilkan pada website sehingga memudahkan pembaca memperoleh informasi yang sesuai.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
-							<li>Memiliki pengalaman kerja sebagai Content Writer, Copywriter atau peran serupa.</li>							
-							<li>Mempunyai portofolio artikel yang dipublikasikan adalah nilai tambah.</li>							
-							<li>Berpengalaman melakukan penelitian menggunakan banyak sumber.</li>							
-							<li>Familiar dengan publikasi web.</li>							
-							<li>Memiliki kemampuan menulis dan mengedit yang sangat baik dalam bahasa Inggris.</li>							
-							<li>Mempunyai pengalaman langsung dengan Content Management Systems (misalnya WordPress).</li>							
-							<li>Terbiasa bekerja dengan deadline.</li>							
-							<li>Lulusan dari Sastra, Jurnalisme atau bidang terkait.</li>							
+							<li>Memiliki pengalaman kerja sebagai Content Writer, Copywriter atau peran serupa.</li>
+							<li>Mempunyai portofolio artikel yang pernah dipublikasikan adalah nilai tambah.</li>
+							<li>Berpengalaman melakukan penelitian menggunakan banyak sumber.</li>
+							<li>Familiar dengan publikasi web.</li>
+							<li>Memiliki kemampuan menulis dan mengedit yang sangat baik dalam bahasa Inggris dan Indonesia.</li>
+							<li>Mempunyai pengalaman langsung dengan Content Management Systems (misalnya WordPress).</li>
+							<li>Terbiasa bekerja dengan deadline.</li>
+							<li>Berpendidikan minimal D3 atau S1 Sastra Inggris, Ilmu Jurnalistik, Ilmu Komunikasi, Humas, atau yang relevan.</li>
 						</ul><br/>
 						
-						<b>Bertanggungjawab:</b><br/>
+						<b>Tanggung Jawab:</b><br/>
 						<ul class="joinus-ul">
-							<li>Meneliti topik yang berhubungan dengan industri penelitian (menggabungkan sumber online, wawancara dan studi).</li>
-							<li>Menuliskan pemasaran yang jelas untuk mempromosikan produk / layanan kami.</li>
-							<li>Menyiapkan draft terstruktur dengan baik menggunakan Content Management Systems dan edit posting blog sebelum dipublikasikan.</li>
+							<li>Meneliti topik yang berhubungan dengan industri penelitian (menggabungkan sumber online, wawancara, dan studi).</li>
+							<li>Membuat konten pemasaran yang jelas untuk mempromosikan produk/layanan kami.</li>
+							<li>Menyiapkan draft terstruktur dengan baik menggunakan Content Management Systems dan mengedit konten dan elemen blog sebelum dipublikasikan.</li>
 							<li>Berkoordinasi dengan tim untuk mengilustrasikan artikel.</li>
 							<li>Melakukan penelitian kata kunci sederhana dan gunakan panduan SEO untuk meningkatkan web traffic.</li>
 							<li>Mengidentifikasi kebutuhan dan kesenjangan pelanggan dalam konten kami dan rekomendasikan topik baru.</li>
@@ -525,17 +545,17 @@
 							<li>Manajemen daftar jadwal pekerjaan serta berkomunikasi dengan tim development dan klien.</li>
 							<li>Membuat dokumen untuk kebutuhan proyek.</li>
 							<li>Menangani manajemen proyek secara keseluruhan mulai dari perencanaan, proposal, hingga pengembangan.</li>
-						</ul>
+						</ul><br>
 						<b>Kriteria:</b>
 						<ul class="joinus-ul">
-							<li>Berpengalaman pada bidang IT dan Web lebih dari 3 tahun.</li>
+							<li>Berpengalaman di bidang IT dan Web lebih dari 3 tahun.</li>
 							<li>Berpengalaman atau memiliki pengetahuan yang luas dari sisi programming dan desain.</li>
 							<li>Memiliki kemampuan berbahasa Inggris yang baik (tingkat bisnis).</li>
-						</ul>
+						</ul><br>
 						<b>Kandidat Ideal:</b>
 						<ul class="joinus-ul">
-							<li>Menyukai web dan Internet dan selalu menggunakannya.</li>
-							<li>Mampu berpikir logis dan mengambil tindakan.</li>
+							<li>Menyukai web/Internet dan selalu menggunakannya.</li>
+							<li>Mampu berpikir logis dan tegas dalam mengambil tindakan.</li>
 							<li>Memiliki pengetahuan tentang pemasaran digital dan keingintahuan yang tinggi akan hal-hal baru.</li>
 						</ul>
 					</div>
@@ -555,21 +575,22 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
-						Designer adalah elemen kreatif perusahaan yang mampu menghasilkan ide dan unsur-unsur visual dengan menciptakan dan mengintegrasikan berbagai komponen seperti warna, bentuk, foto, dan video. Mereka dapat memastikan tampilan website dan sistem web terlihat baik dan mudah digunakan.<br/><br/>
+						Designer adalah elemen kreatif perusahaan yang mampu menghasilkan ide dan unsur-unsur visual dengan menciptakan dan mengintegrasikan berbagai komponen seperti warna, bentuk, foto, dan video. Selain itu, mereka juga memastikan tampilan website dan sistem web terlihat baik dan mudah digunakan.<br/><br/>
 						<b>Deskripsi Pekerjaan:</b>
 						<ul class="joinus-ul">
-							<li>Mendesain tampilan / UI untuk website dan aplikasi mobile.</li>
+							<li>Mendesain tampilan/UI untuk website dan aplikasi mobile.</li>
 							<li>Mendesain video dan produk yang dicetak (misalnya: brosur, profil perusahaan, dll).</li>
 							<li>Merancang, memberi arahan terkait desain, dan dukungan terkait pekerjaan desain di atas.</li>
-						</ul>
+						</ul><br>
 						<b>Kriteria:</b>
 						<ul class="joinus-ul">
-							<li>Memiliki kemampuan untuk menggunakan alat desain (Photoshop, Illustrator, dll).</li>
+							<li>Memiliki kemampuan untuk menggunakan software desain (Photoshop, Illustrator, dll).</li>
 						</ul>
 					</div>
 				</div>
 				<div class="clearfix"></div>
 			</div>
+			<?php /*
 			<hr class="separator-career"></hr>
 			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
@@ -609,10 +630,15 @@
 				</div>
 				<div class="clearfix"></div>
 			</div>
+			*/ ?>
 			<hr class="separator-career" style="margin-bottom: 0;border-style: solid;"/>
 			<h3 class="jobs-subtitle">LOWONGAN INTERNSHIP</h3>
 			<div class="div-explain-intern">
-				LOGIQUE membuka lowongan magang bagi mahasiswa yang ingin mengaplikasikan ilmu yang dipelajari terutama pada saat masa kerja magang yang disediakan oleh universitas. Anda dapat memperoleh banyak sekali pengalaman dalam berbagai macam tantangan proyek, profesionalitas, dan kesempatan berharga yang kami berikan. Untuk universitas, kami juga membuka peluang kerjasama terkait magang ataupun lowongan untuk alumni, silakan menghubungi kami.
+				LOGIQUE membuka lowongan kerja internship/magang bagi mahasiswa baik yang sekadar ingin mengaplikasikan ilmu yang dipelajari maupun menurut tuntutan universitas pada periode yang telah ditentukan. 
+				<br><br>
+				LOGIQUE merupakan tempat magang yang tepat untuk Anda yang ingin memperoleh pengalaman bekerja di perusahaan asing, dalam hal kami adalah Jepang. Seluruh tantangan dan profesionalitas kerja dengan standar internasional akan Anda dapatkan di LOGIQUE. 
+				<br><br>
+				Untuk universitas, LOGIQUE juga membuka peluang kerjasama terkait magang ataupun lowongan kerja untuk alumni.
 			</div>
 			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
@@ -620,7 +646,7 @@
 						<div class="valign-center">
 							<img alt="Web Developer" src="../img/webdev.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
-							<h5>Web Developer</h5>
+							<h5>Web Developer Intern</h5>
 						</div>
 					</div>
 				</div>
@@ -629,11 +655,11 @@
 						Web Developer adalah penggerak utama dalam pembuatan website atau sistem web yang mampu mengimplementasikan kebutuhan bisnis ke dalam sistem dengan bahasa programming. Seorang web developer yang baik selalu meningkatkan pengetahuan yang mereka miliki dengan teknologi-teknologi terbaru.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
-							<li>Kandidat harus memiliki setidaknya gelar Bachelor di bidang Ilmu Komputer / Teknologi Informasi atau yang setara.</li>
-							<li>Mempunyai pengetahuan tentang proses Web Development (PHP, MySQL, HTML/CSS, Javascript).</li>
-							<li>Mempunyai pengetahuan tentang framework PHP (CakePHP, Laravel, dll).</li>
-							<li>Bisa belajar dengan cepat.</li>
-							<li>Bisa bekerja dalam sebuah tim.</li>
+							<li>Berpendidikan minimal S1 di bidang Ilmu Komputer/Teknologi Informasi atau yang setara.</li>
+							<li>Memahami proses Web Development (PHP, MySQL, HTML/CSS, Javascript).</li>
+							<li>Memahami framework PHP (CakePHP, Laravel, dll).</li>
+							<li>Mampu belajar dengan cepat (fast learner).</li>
+							<li>Bisa bekerja secara tim.</li>
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
@@ -648,7 +674,7 @@
 						<div class="valign-center">
 							<img alt="Content Writer" src="../img/contenwriter.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
-							<h5>Content Writer</h5>
+							<h5>Content Writer Intern</h5>
 						</div>
 					</div>
 				</div>
@@ -659,7 +685,7 @@
 						<ul class="joinus-ul">
 							<li>Kemampuan berbahasa yang baik.</li>
 							<li>Familiar dengan penulisan konten secara online.</li>
-							<li>Kandidat harus memiliki gelar diploma atau sarjana di bidang English Literature atau Public Relations.</li>
+							<li>Berpendidikan minimal D3 atau S1 Sastra Inggris, Ilmu Jurnalistik, Ilmu Komunikasi, Humas, atau yang setara.</li>
 							<li>Memiliki kemampuan tata bahasa dan kosa kata Bahasa Indonesia dan Bahasa Inggris yang baik.</li>
 							<li>Memiliki kemampuan yang baik dalam komunikasi lisan dan tulisan.</li>
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
@@ -676,7 +702,7 @@
 						<div class="valign-center">
 							<img alt="UI - UX Designer" src="../img/designer.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
-							<h5>UI - UX Designer</h5>
+							<h5>UI - UX Designer Intern</h5>
 						</div>
 					</div>
 				</div>
@@ -685,12 +711,12 @@
 						Designer adalah elemen kreatif perusahaan yang mampu menghasilkan ide dan unsur-unsur visual dengan menciptakan dan mengintegrasikan berbagai komponen seperti warna, bentuk, foto, dan video. Mereka dapat memastikan tampilan website dan sistem web terlihat baik dan mudah digunakan.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
-							<li>Kandidat harus memiliki setidaknya gelar diploma atau sarjana di bidang DKV atau Teknologi Informasi.</li>
-							<li>Memiliki selera yang baik dan passion untuk tampilan desain</li>
-							<li>Detail oriented</li>
-							<li>Familiar dengan desain yang responsif dan interaktif</li>
-							<li>Familiar dengan UI dan UX </li>
-							<li>Familiar dengan Adobe Photoshop, Illustrator, atau software desain lainnya</li>
+							<li>Berpendidikan minimal D3 atau S1 di bidang DKV atau Teknologi Informasi.</li>
+							<li>Memiliki selera yang baik dan passion untuk tampilan desain.</li>
+							<li>Berorientasi pada detil (detail oriented).</li>
+							<li>Familiar dengan desain yang responsif dan interaktif.</li>
+							<li>Familiar dengan UI dan UX.</li>
+							<li>Familiar dengan Adobe Photoshop, Illustrator, atau software desain lainnya.</li>
 							<li>Bisa belajar dengan cepat.</li>
 							<li>Bisa bekerja dalam sebuah tim.</li>
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
@@ -707,7 +733,7 @@
 						<div class="valign-center">
 							<img alt="Front End Developer" src="../img/frontend.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
-							<h5>Front End Developer</h5>
+							<h5>Front End Developer Intern</h5>
 						</div>
 					</div>
 				</div>
@@ -716,9 +742,9 @@
 						Front End Developer berperan sebagai penghubung antara Desainer dan Web Developer. Mereka memiliki keahlian untuk mengubah desain ke dalam kode sehingga bisa diakses oleh pengguna.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
-							<li>Kandidat harus memiliki setidaknya gelar diploma atau sarjana di bidang Teknologi Informasi.</li>
-							<li>Mempunyai pengetahuan tentang proses Web Development (PHP, MySQL, HTML/CSS, Javascript).</li>
-							<li>Mempunyai pengetahuan tentang Jquery, Bootstrap, SVG, dll.</li>
+							<li>Berpendidikan minimal D3 atau S1 di bidang Teknologi Informasi.</li>
+							<li>Memahami proses Web Development (PHP, MySQL, HTML/CSS, Javascript).</li>
+							<li>Memahami Jquery, Bootstrap, SVG, dll.</li>
 							<li>Bisa belajar dengan cepat.</li>
 							<li>Bisa bekerja dalam sebuah tim.</li>
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
@@ -728,15 +754,58 @@
 				</div>
 				<div class="clearfix"></div>
 			</div>
+			<hr class="separator-career"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
+							<img alt="Front End Developer" src="../img/hrga.png" class="img-responsive"/>
+							<h4>Lowongan</h4>
+							<h5>Human Resources (HR)/General Affairs (GA) Intern</h5>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						HR/GA bertanggung jawab penuh dalam pengembangan dan pengelolaan sumber daya manusia dan kebutuhan yang ada di LOGIQUE.<br/><br/>
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Berpendidikan minimal D3 atau S1 Manajemen SDM, Ilmu Bisnis/Administrasi/Manajemen, Psikologi, Hukum, atau Bahasa Jepang.</li>
+							<li>Mampu mengoperasikan Microsoft Office dan perangkat lunak komputer dasar lainnya.</li>
+							<li>Memiliki pengetahuan dalam hal psikotes merupakan nilai tambah.</li>
+							<li>Mampu belajar dengan cepat (fast learner).</li>
+							<li>Fokus pada hal yang detil dan mampu multitasking.</li>
+							<li>Lebih disukai jika dapat langsung bekerja.</li>
+						</ul>
+						<br>
+						<b>Tanggung Jawab:</b><br/>
+						<ul class="joinus-ul">
+							<li>Melakukan aktivitas HR termasuk administrasi, rekrutmen, dan manajemen HR dalam keseharian perusahaan.</li>
+							<li>Terlibat dalam pengelolaan dan pembaharuan dokumen dalam lingkup HR (peraturan perusahaan, surat kontrak untuk karyawan baru, dan surat penawaran kerja untuk kandidat).</li>
+							<li>Membantu melaksanakan tugas-tugas departemen GA.</li>
+						</ul>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
 		</section>
 		
 		<div class="bg-footer-new-career">
-			<span>Anda cocok dengan persyaratan di atas dan tertarik bergabung bersama LOGIQUE?</span>
+			<span>JOIN US!</span>
 			<div>
-				<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" style="margin-bottom: 50px;">
+				<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" style="margin-bottom: 50px;">
 					Kirim CV Sekarang 
 				</a>
 			</div>
+			<p>
+				Jika Anda butuh informasi lebih lanjut mengenai lowongan kerja dan magang di LOGIQUE, silakan hubungi:
+				<br>
+				<span>
+				Departemen HRD LOGIQUE
+				<br>
+				0812-9656-0380 (Call/SMS/WhatsApp)
+				</span>
+			</p>
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
@@ -745,8 +814,6 @@
 								<li><a target="_blank" href="/tentang-kami.php">Tentang LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
 								<li><a target="_blank" href="/layanan.php">Layanan LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
 								<li><a target="_blank" href="/hubungi-kami.php">Hubungi LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
-								<li><a href="tel:02122708935"><i class="fa fa-phone"></i>&nbsp;&nbsp; (021) 22708935 / 36</a>&nbsp;&nbsp;&nbsp;|</li>
-								<li><a href="tel:081296560380"><i class="fa fa-mobile"></i>&nbsp; <i class="fa fa-whatsapp"></i>&nbsp;&nbsp;  081296560380</a></li>
 							</ul>
 						</div>
 					</div>
@@ -806,7 +873,7 @@
 				}, 100);
 			}()); */
 			
-			var text = "Let's work hard, enjoy hard and grow up together!                   ";
+			var text = "Mengapa saya harus bekerja di LOGIQUE?                   ";
 			var chars = text.split('');
 			var container = document.getElementById("id-black-career");
 
