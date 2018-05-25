@@ -425,13 +425,6 @@
 					<div class="workflow-container">
 						<div class="title-workflow">Our Workflow</div>
 						<div class="row">
-							<div class="col-md-12 text-left" style="padding-bottom: 8px">
-								<p class="characteristic-title">We are agile and flexible in our development of web, system, and mobile app.</p><br>
-								<p>Speed is the most important key point to determine the success or failure of business in modern times. Meanwhile, the pace of change of IT and WEB trend is very rapid and accelerating year by year. In order to catch up, agility and flexibility are two vital things to carry with.</p><br>
-								<p>That’s why, to promote your business successfully, we develop web, system, and mobile app for you with agility and flexibility. We make something visible quickly and accept changes flexibly. Because at LOGIQUE, clients and our project members are one team. </p><br>
-							</div>
-						</div>
-						<div class="row">
 							<div class="col-md-5ths">
 								<div class="div-for-workflow">
 								  <div class="valign-center">
@@ -572,6 +565,16 @@
 								</div>
 							</div>
 						</div>-->
+					</div>
+					<div class="form-container">
+						<br/>
+						<div class="row">
+							<div class="col-md-12 text-left" style="padding-bottom: 8px">
+								<p class="characteristic-title">We are agile and flexible in our development of web, system, and mobile app.</p><br>
+								<p>Speed is the most important key point to determine the success or failure of business in modern times. Meanwhile, the pace of change of IT and WEB trend is very rapid and accelerating year by year. In order to catch up, agility and flexibility are two vital things to carry with.</p><br>
+								<p>That’s why, to promote your business successfully, we develop web, system, and mobile app for you with agility and flexibility. We make something visible quickly and accept changes flexibly. Because at LOGIQUE, clients and our project members are one team. </p><br>
+							</div>
+						</div>
 					</div>
 					<div class="got-project">
 						<span>If you need help for:</span><br/>
