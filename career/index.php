@@ -656,8 +656,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Web Developer" src="../img/webdev.png" class="img-responsive"/>
-							<h4>Lowongan</h4>
-							<h5>Web Developer Intern</h5>
+							<h4>Lowongan Magang</h4>
+							<h5>Web Developer</h5>
 							<h6>Dibutuhkan di Jakarta dan Yogyakarta</h6>
 						</div>
 					</div>
@@ -685,8 +685,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Content Writer" src="../img/contenwriter.png" class="img-responsive"/>
-							<h4>Lowongan</h4>
-							<h5>Content Writer Intern</h5>
+							<h4>Lowongan Magang</h4>
+							<h5>Content Writer</h5>
 							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
@@ -714,8 +714,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="UI - UX Designer" src="../img/designer.png" class="img-responsive"/>
-							<h4>Lowongan</h4>
-							<h5>UI - UX Designer Intern</h5>
+							<h4>Lowongan Magang</h4>
+							<h5>UI - UX Designer</h5>
 							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
@@ -746,8 +746,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Front End Developer" src="../img/frontend.png" class="img-responsive"/>
-							<h4>Lowongan</h4>
-							<h5>Front End Developer Intern</h5>
+							<h4>Lowongan Magang</h4>
+							<h5>Front End Developer</h5>
 							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
@@ -775,8 +775,8 @@
 					<div class="div-job title-job">
 						<div class="valign-center">
 							<img alt="Front End Developer" src="../img/hrga.png" class="img-responsive"/>
-							<h4>Lowongan</h4>
-							<h5>Human Resources (HR)/General Affairs (GA) Intern</h5>
+							<h4>Lowongan Magang</h4>
+							<h5>Human Resources (HR)/General Affairs (GA)</h5>
 							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
