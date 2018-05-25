@@ -564,6 +564,15 @@
 							</div>
 						</div>-->
 					</div>
+					<div class="form-container">
+						<br/>
+						<div class="row">
+							<div class="col-md-12 text-left" style="padding-bottom: 8px">
+								<p class="characteristic-title">私たちはアジャイル型開発体制で、素早く、柔軟に 制作開発します。</p><br>
+								<p>世の中の変化のスピードは非常に速く、そのスピードは益々上がってきている ように思います。スピードは現代においてはビジネスの成否を分ける最も重要 なキーポイントと言っても良いと考えています。お客様のビジネスを成功に導 くため、制作開発もスピーディーにまた柔軟に対応できる体制でありたいと考 えていることから、当社ではアジャイル型の開発体制を敷いています。変化を 受け入れ、目に見えるものを早く作ります。クライアントと当社プロジェクト メンバーは１つの Team です。細かくリリースし改善していくことが肝要だと 考えます。</p><br>
+							</div>
+						</div>
+					</div>
 					<div class="got-project">
 						<span style="font-size:30px;">WEB・システム関連でお困りのことがあれば、</span><br/>
 						<div class="list-on-services" >
