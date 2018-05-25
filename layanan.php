@@ -432,6 +432,13 @@
 					<div class="workflow-container">
 						<div class="title-workflow">Proses Kerja LOGIQUE</div>
 						<div class="row">
+							<div class="col-md-12 text-left" style="padding-bottom: 8px">
+								<p class="characteristic-title">Kami gesit dan fleksibel dalam mengembangkan web, sistem, dan aplikasi mobile.</p><br>
+								<p>Kecepatan adalah kunci terpenting dalam menentukan berhasil atau gagalnya bisnis di zaman modern ini. Sementara itu, laju perubahan tren IT dan WEB sangat cepat dan semakin cepat dari tahun ke tahun. Supaya tidak tertinggal, kita sangat membutuhkan kelincahan dan fleksibilitas.</p><br>
+								<p>Itulah sebabnya, agar sukses mempromosikan bisnis Anda, kami mengembangkan web, sistem, dan aplikasi seluler untuk Anda dengan kelincahan dan fleksibilitas. Kami mewujudkan sesuatu dengan cepat dan menerima perubahan dengan fleksibel. Karena di LOGIQUE, klien dan anggota proyek kami adalah satu tim.</p><br>
+							</div>
+						</div>
+						<div class="row">
 							<div class="col-md-5ths">
 								<div class="div-for-workflow">
 								  <div class="valign-center">
