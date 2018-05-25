@@ -43,17 +43,20 @@ p:last-child{margin-bottom: 0;}
 header{
 	background:url('../img/dokodemo-kerja/bg-header.png') no-repeat;
 	background-size:cover;
-	height:100vh;
 	padding:0 15px
 }
+header p{color:#fff;}
+.height100vh{height:100vh;}
 header .title{font-size:72px;color:#fff;text-align:center;letter-spacing: 2px;text-shadow: 0 4px 3px rgba(2,2,2,0.23);margin-top:10px;padding:0 15px}
 .valign-center{top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);position:relative}
 header hr{border-top:5px solid #fff;width:20%}
-.bg-black{background:#000;color:#fff;padding:45px 0}
+.bg-black{background:#000;color:#fff;padding:45px 0;line-height: 30px;}
 .bg-black div,
 .bg-black span{font-size:24px;}
 .blue{color:#00aeef;font-weight: 500;}
 .bg-black .title{font-size:36px;font-weight: 100;}
+.bg-black .title2{font-size:30px;font-weight: 300;}
+.bg-black .title2 .blue{font-size:30px;}
 .bg-black .title .blue{font-size:48px;font-weight:700;display:block}
 .btn-coba{font-size:24px;color:#0665a5!important;min-width:350px;background:#fff568;border-radius: 10px;margin-top: 10px;outline:none!important}
 .bg-why{background:url('../img/dokodemo-kerja/why.png') no-repeat;background-size:cover;padding:25px 0}
@@ -64,11 +67,11 @@ header hr{border-top:5px solid #fff;width:20%}
 .bg-yellow .fa-ul li{text-align:left;}
 .fa-ul .fa{font-size: 10px;color: #0072bc;}
 .title-masalah{padding:40px 15px;font-size:36px;color:#0072bc;text-align:center;}
-.bg-blue{background:#0072bc;color:#fff;padding:50px 0}
+.bg-blue{background:url('../img/dokodemo-kerja/bg-blue.png') no-repeat;color:#fff;padding:50px 0;background-size:cover}
 .bg-blue .title{font-size:36px}
-.bg-yellow{background:#edb41a;color:#000;padding:40px 0}
+.bg-yellow{background:#edb61a;color:#000;position: relative;}
+.bg-yellow .container-fluid{padding:0}
 .bg-yellow .title{font-size:36px;border-bottom:5px solid #fff;display: inline-block;font-weight: 500;padding-bottom:8px}
-.screens{margin-bottom:-180px}
 .div-dokodemo{padding:40px 0}
 .div-dokodemo .title{font-size:48px;color:#0072bc;font-weight:100;}
 .div-dokodemo p{line-height: 30px;}
@@ -137,7 +140,7 @@ header hr{border-top:5px solid #fff;width:20%}
   background-color: #000;
 }
 .div-form .form-control{font-size: 16px;height: 45px;border-radius: 0;box-shadow: none;border: 0;}
-.div-form textarea.form-control{resize: none;height: 210px;}
+.div-form textarea.form-control{resize: none;height: 242px;}
 .div-faq{padding:40px 0}
 .div-faq .title{font-size:36px;padding:0 15px;text-align:center}
 .yellow{color:#edb41a}
@@ -153,14 +156,62 @@ footer p{padding: 22px 0px;}
 .masalah1{position: absolute;width: 420px;right: -40px;top: -130px;}
 .masalah2{position: absolute;width: 621px;left: -83px;top: -62px;}
 .masalah3{position: absolute;width: 500px;right: -105px;top: -61px;}
-
+.bg-black div.quote{font-size: 100px;font-family: 'Anton';margin-bottom: 30px;float: left;margin-top: 35px;margin-right: 12px;}
+.bg-old-yellow{background:url('../img/dokodemo-kerja/bg-old-yellow.png') no-repeat;background-size:cover;background-position: 60% 0;padding: 45px 0 25px 0;}
+.image-fitur{position: absolute;top: -80px;left: 50px;}
+.one-fitur{color: #fff;border-left: 1px solid #fff;padding: 0 20px;margin: 25px 0 0 0;}
+.one-fitur img{margin-bottom:10px}
+.one-fitur-btm .one-fitur{margin-bottom:30px}
+.title-fitur{font-size:60px;color:#fff;background: #eaae1a;padding: 30px 0 30px 80px;line-height: 1.2;width: 85%;margin-bottom: 35px;margin-top: 85px;}
+.title-fitur span{font-size:72px}
+.dengan-fitur{font-weight:300;font-size:24px;color:#fff;padding-right: 60px;padding-left: 80px;}
+.dengan-fitur .quote{font-size: 100px;font-family: 'Anton';margin-bottom: 30px;float: left;margin-top: -20px;margin-right: 15px;}
+.bg-one-fitur{padding:15px}
+.bg-one-fitur:last-child{background:#eaae1a}
+.bg-one-fitur:last-child .one-fitur{margin-top: 0;margin-bottom: 40px;}
+.title-masalah1{font-size:36px;color:#0072bc}
+.kami-siap{font-size:18px;color:#0072bc;font-weight: bold;}
+.bg-masalah1{background:url('../img/dokodemo-kerja/bg-masalah1.png') no-repeat;background-position: center;background-size: contain;padding: 40px 0;background-color: #eceef2;}
+.bg-masalah2{background:url('../img/dokodemo-kerja/bg-masalah2.png') no-repeat;background-position: center;background-size: contain;padding: 40px 0;background-color: #eceef2;}
+.bg-masalah3{background:url('../img/dokodemo-kerja/bg-masalah3.png') no-repeat;background-position: center;background-size: contain;padding: 40px 0;background-color: #eceef2;}
+.desc-bantu{font-size:16px;color:#0072bc;margin-top: 10px;}
+.desc-bantu .quote{font-size: 50px;font-family: 'Anton';margin-bottom: 30px;float: left;margin-top: -10px;margin-right: 10px;}
+.font18{font-size:18px;}
+.blue2{color:#008ec4}
+.bg-masalah2 .fa-ul>li,.bg-masalah3 .fa-ul>li{color:#008ec4}
+.pl-25{padding-left:25px}
+.pr-25{padding-right:25px}
+.bg-blue hr{border:2px solid #fff;width: 175px;}
+.card-harga{background:#f5f5f5;}
+.title-card{font-size:20px;background:#008ec4;padding:15px;color:#fff}
+.price{background:#f5f5f5;font-size:50px;text-align:center;color:#0072bc}
+.price strong{font-size:50px}
+.plan-list{padding:15px}
+.harga {padding:30px 0}
+.harga .title{font-size: 36px;padding: 0 15px;text-align: center;color: #0072bc;}
+.card-harga .btn-coba{min-width: 0;font-size: 18px;padding: 6px 25px;margin-top: 30px;}
+.div-above-footer{background:#edb41a;color:#fff;padding:20px}
+.bg-old-yellow  .bg-one-fitur{background: #edaf1a;}
 
 
 @media (max-width:1199px) {
+	.pl-25{padding-left:0;min-height:0!important}
+	.pr-25{padding-right:0;min-height:0!important}
+	.bg-masalah1,.bg-masalah2,.bg-masalah3{background:none}
+	.bg-masalah1{padding:20px 0 0 0;}
+	.bg-masalah2{padding:0 0;}
+	.bg-masalah3{padding:0 0 20px 0;}
 	.bg-why .title{padding: 10px 25px 10px 25px;text-align: left;}
+	.image-fitur {position: absolute;top: 40px;left: 50px;width: 40%;}
+	.title-fitur{width:100%}
+	.dengan-fitur{padding-right: 0;}
+	.bg-one-fitur:last-child{background: #edb61a;margin-top: 20px;}
 }
 @media (max-width:991px) {
-	.screens {margin-bottom: -60px;margin-top: -40px;}
+	.card-harga{margin-bottom:10px;}
+	.title-fitur{margin-top:0}
+	.bg-old-yellow,.image-fitur{display:none}
+	.dengan-fitur{margin-bottom: 20px;}
 	.border-white {border: 0;padding: 0;}
 	.fa-ul {margin-top: 0;}
 	.div-masalah{padding: 0;}
@@ -176,7 +227,12 @@ footer p{padding: 22px 0px;}
 	.bg-black .title{margin-bottom: 15px;}
 }
 @media (max-width:767px) {
+	.desc-bantu .quote{margin-bottom: 88px;}
+	.title-fitur {font-size: 45px;padding: 15px;}
 	header .title{font-size:50px;}
+	.dengan-fitur {font-size: 20px;padding-left: 15px;}
+	.one-fitur-btm .one-fitur {margin-bottom: 0;}
+	.one-fitur{margin: 10px 0 0 0;}
 }
 @media (min-width:991px) {
 	.row-center-md {
