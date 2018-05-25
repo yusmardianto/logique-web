@@ -47,16 +47,16 @@
 				<div class="valign-center">
 					<h1>Let’s work hard, enjoy hard, and grow up together!</h1>
 					<p class="content-first">
-						LOGIQUE merupakan perusahaan start-up di bidang IT yang dijalankan oleh tim yang cerdas, inovatif, dinamis, dan bertalenta. Dalam perkembangannya, LOGIQUE selalu menggali potensi anggota-anggota timnya yang tidak hanya berdomisili di Jakarta, namun juga di kota-kota besar lainnya di Indonesia.
+						LOGIQUE merupakan perusahaan <i>start-up</i> di bidang IT yang dijalankan oleh tim yang cerdas, inovatif, dinamis, dan bertalenta. Dalam perkembangannya, LOGIQUE selalu menggali potensi anggota-anggota timnya yang tidak hanya berdomisili di Jakarta, namun juga di kota-kota besar lainnya di Indonesia.
 						<br><br>
 						Baru-baru ini, LOGIQUE telah membuka kantor cabang di Jetis, <b>Yogyakarta</b>. LOGIQUE yakin, kota ini memiliki potensi akan perkembangan sumber dayanya yang handal.
 						<br><br>
-						Maka dari itu, LOGIQUE membuka kesempatan bagi Anda yang berdomisili di Yogyakarta dan memiliki kompetensi di bidang IT untuk bergabung dan berkembang bersama LOGIQUE.
+						Maka dari itu, LOGIQUE tidak hanya membuka kesempatan bagi Anda yang berdomisili di <b>Jakarta</b>, namun juga di <b>Yogyakarta</b> untuk bergabung dan berkembang bersama LOGIQUE. 
 
 					</p>
 					<br/>
 					<div class="div-black-career">
-						<p id="id-black-career" style="display:inline"></p><span class="blink">|</span>
+						<p id="id-black-career" style="display:inline">Mengapa saya harus bekerja di LOGIQUE?</p><!-- <span class="blink">|</span> -->
 					</div>
 				</div>
 			</div>
@@ -145,7 +145,7 @@
 									<div class="valign-center text-right">
 										<img src="../img/benefits3.png" alt="Growing Company"/>
 										bekerja di<br/>
-										<span>perusahaan<br/>berkembang</span>
+										<span>perusahaan<br/>internasional</span>
 									</div>
 								</div>
 							</div>
@@ -171,7 +171,7 @@
 								<div class="content-benefits many-fields">
 									<div class="valign-center">
 										<img src="../img/benefits6.png" alt="Many Fields"/>
-										<p><span>Menggali potensi yang Anda miliki</span></p>
+										<p>bersama-sama <span>menggali potensi yang Anda miliki</span></p>
 									</div>
 								</div>
 							</div>
@@ -183,6 +183,10 @@
 										<span>posisi manajerial</span> <br/>
 										sesuai kemampuan & minat
 									</div>
+								</div>
+							</div>
+							<div class="col-sm-4 col-xs-6 visible-xs">
+								<div class="content-benefits blank">
 								</div>
 							</div>
 						</div>
@@ -335,6 +339,7 @@
 							<img alt="Quality Assurance" src="../img/qa.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Quality Assurance</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
 				</div>
@@ -370,6 +375,7 @@
 							<img alt="Web Developer" src="../img/webdev.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Web Developer</h5>
+							<h6>Dibutuhkan di Jakarta dan Yogyakarta</h6>
 						</div>
 					</div>
 				</div>
@@ -408,6 +414,7 @@
 							<img alt="Technical Consultant" src="../img/techcons.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Technical Consultant</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
 				</div>
@@ -451,6 +458,7 @@
 							<img alt="Mobile App Developer" src="../img/mobdev.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Mobile App Developer</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
 				</div>
@@ -494,6 +502,7 @@
 							<img alt="Content Writer" src="../img/contenwriter.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Content Writer</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
 				</div>
@@ -534,6 +543,7 @@
 							<img alt="Project Manager" src="../img/proj-manager.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Project Manager</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
 				</div>
@@ -570,6 +580,7 @@
 							<img alt="Designer" src="../img/designer.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Designer</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
 				</div>
@@ -632,7 +643,7 @@
 			</div>
 			*/ ?>
 			<hr class="separator-career" style="margin-bottom: 0;border-style: solid;"/>
-			<h3 class="jobs-subtitle">LOWONGAN INTERNSHIP</h3>
+			<h3 class="jobs-subtitle">LOWONGAN MAGANG</h3>
 			<div class="div-explain-intern">
 				LOGIQUE membuka lowongan kerja internship/magang bagi mahasiswa baik yang sekadar ingin mengaplikasikan ilmu yang dipelajari maupun menurut tuntutan universitas pada periode yang telah ditentukan. 
 				<br><br>
@@ -647,6 +658,7 @@
 							<img alt="Web Developer" src="../img/webdev.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Web Developer Intern</h5>
+							<h6>Dibutuhkan di Jakarta dan Yogyakarta</h6>
 						</div>
 					</div>
 				</div>
@@ -675,6 +687,7 @@
 							<img alt="Content Writer" src="../img/contenwriter.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Content Writer Intern</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
 				</div>
@@ -703,6 +716,7 @@
 							<img alt="UI - UX Designer" src="../img/designer.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>UI - UX Designer Intern</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
 				</div>
@@ -734,6 +748,7 @@
 							<img alt="Front End Developer" src="../img/frontend.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Front End Developer Intern</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
 				</div>
@@ -762,6 +777,7 @@
 							<img alt="Front End Developer" src="../img/hrga.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Human Resources (HR)/General Affairs (GA) Intern</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
 				</div>
@@ -830,10 +846,20 @@
 		<script src="../js/jquery.matchHeight.js"></script>
 		<script src="../js/bootstrap.min.js"></script>
 		<script src="../js/slick.min.js"></script>
+		<script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
 		<script>
 		$(function() {
+
 			$('.div-job').matchHeight();
 			$('.col-benefit').matchHeight();
+
+			$(window).scroll(function(){
+				if ($(this).scrollTop() > 100) {
+					$('.div-black-career').addClass('scrolled');
+				} else {
+					$('.div-black-career').removeClass('scrolled');
+				}
+			});	
 		});	
 		</script>
 		<script>
@@ -873,19 +899,19 @@
 				}, 100);
 			}()); */
 			
-			var text = "Mengapa saya harus bekerja di LOGIQUE?                   ";
-			var chars = text.split('');
-			var container = document.getElementById("id-black-career");
+			// var text = "Mengapa saya harus bekerja di LOGIQUE?                   ";
+			// var chars = text.split('');
+			// var container = document.getElementById("id-black-career");
 
-			var i = 0;
-			setInterval(function () {
-				if (i < chars.length) {
-					container.innerHTML += chars[i++];
-				} else {
-					i = 0;
-					container.innerHTML = "";
-				}
-			}, 100);
+			// var i = 0;
+			// setInterval(function () {
+			// 	if (i < chars.length) {
+			// 		container.innerHTML += chars[i++];
+			// 	} else {
+			// 		i = 0;
+			// 		container.innerHTML = "";
+			// 	}
+			// }, 100);
 		
 			$(document).ready(function(){
 				/* $('.typing').show(200); */
