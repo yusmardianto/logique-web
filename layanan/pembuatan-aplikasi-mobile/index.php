@@ -73,9 +73,9 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-7">
 						<br/><br/><br/>
-						<h1>Percayakan Masa Depan Pengembangan <span class="yellow">Aplikasi Mobile</span> Anda Pada <span class="yellow">LOGIQUE</span></h1>
+						<h1 style="font-size: 30px">Ingin Mengembangkan <span class="yellow">Aplikasi Mobile (Android | iOS | Hybrid)</span> dengan kualitas tinggi dan biaya terjangkau? Silahkan Hubungi <span class="yellow">LOGIQUE</span></h1>
 						<p>	
-						Kami menyediakan layanan dan solusi terbaik dalam mengembangkan aplikasi mobile berskala perusahaan atau berbasis konsumen untuk smartphone / tablet iOS dan Android.
+						LOGIQUE siap membantu Anda yang ingin berkonsultasi mengenai pengembangan, pengelolaan, dan peningkatan aplikasi mobile (Android | iOS | Hybrid).  Kami menawarkan jasa pengembangan aplikasi mobile dengan teknologi terkini dan biaya yang terjangkau. Selain pengembangan aplikasi mobile, kami juga memiliki sejumlah pengalaman dalam solusi pemanfaatan ponsel seperti tampilan responsif, PWA (teknologi web progresif) dan lain sebagainya. Kami menunggu kabar Anda.
 						</p>
 						<div class="visible-md visible-lg"><br/><br/><br/><br/><br/><br/><br/><br/><br/></div>
 					</div>
@@ -98,17 +98,29 @@ if(isset($_POST['submitted']))
 			<br/><br/>
 			<div class="row">
 				<div class="col-md-5">
-					<h2 class="first">Pengembangan <span>Aplikasi Mobile</span> Berorientasi Pengguna</h2>
+					<h2 class="first">Kami adalah Mitra yang Tepat untuk Pengembangan <span>Aplikasi Mobile</span> Anda</h2>
 					<br/>
 					<img alt="Pengembangan Aplikasi Mobile Berorientasi Pengguna" src="img/mobile-phone.png" class="img-responsive center-block mobile-phone"/>
 				</div>
 				<div class="col-md-7">
 					<p>
-						Aplikasi mobile yang kami buat di desain dengan filosofi bahwa informasi yang berada pada orang yang tepat memiliki kemampuan yang besar dalam sebuah perubahan. Kami fokus untuk memberikan aplikasi mobile yang berorientasi pengguna agar dapat 
-						memberikan pengalaman maksimal dalam perubahan digital pada hidup mereka.<br/><br/>
-						Kami juga menyadari bahwa di era digital saat ini teknologi terus berkembang dan berevolusi. Untuk itu kami selalu berusaha membantu memberikan konsep yang sejalan dengan teknologi terkini agar aplikasi mobile yang dibuat dapat mengalami pertumbuhan dan kesuksesan. <br/><br/>
-						Desain dan pengembang aplikasi kami tidak hanya akan membantu menciptakan produk hebat, kami juga siap membantu Anda untuk memastikan bahwa hasil akhir yang kami berikan adalah yang terbaik.<br/><br/>
-						Jika ada yang salah selama pengembangan, kami akan memberitahu Anda. Kami ingin produk Anda berhasil sama seperti Anda. Dengan proses yang efisien, tim kami tahu apa yang dapat bekerja dengan baik terkait pengembangan aplikasi mobile.
+						Memilih mitra yang tepat merupakan hal penting bagi keberhasilan pengembangan dan
+						pengoperasian aplikasi mobile Anda. Untuk melakukan pengembangan teknologi dan sistem dari
+						aplikasi mobile, perusahaan pengembang aplikasi mobile tersebut harus memiliki keterampilan
+						tinggi dan manajemen kerja yang baik. LOGIQUE merupakan perusahaan pengembang yang mampu
+						merancang aplikasi mobile dengan desain yang baik berteknologi modern baik secara native ataupun
+						hybrid menggunakan Objective-C, Swift, Java, Kotlin, dan Xamarin.
+						<br><br>
+						Lalu, jika Anda memiliki ide bisnis inovatif dengan memanfaatkan sistem aplikasi seperti aplikasi e-
+						commerce, transportasi online, finansial, otomotif, jasa, dll., silahkan konsultasikan ide Anda kepada
+						Kami. Dengan pengalaman lebih dari 5 tahun di bidang pengembangan aplikasi mobile dan
+						mengusung teknologi terkini dalam pengembangan aplikasi, bukanlah suatu hal yang mustahil bagi
+						Kami untuk mewujudkan ide bisnis Anda. Selama proses perencanaan, pengembangan,
+						pengoperasian, dan pemeliharaan (maintenance) aplikasi, Kami juga akan menyesuaikan dengan
+						permintaan pelanggan dan memberikan saran strategis untuk menghasilkan aplikasi dengan hasil
+						akhir yang optimal. Jangan ragu untuk menghubungi LOGIQUE jika Anda memiliki masalah atau
+						kebutuhan terkait dengan aplikasi mobile.
+
 
 					</p>
 				</div>
@@ -124,10 +136,11 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-8">
 						<ul class="fa-ul">
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>LOGIQUE dapat menyesuaikan kebutuhan dan keinginan klien dengan teknologi terkini untuk menghasilkan aplikasi iOS dan Android yang terdepan dan berskala internasional.</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>LOGIQUE dapat menyesuaikan kebutuhan dan keinginan klien dengan teknologi terkini untuk menghasilkan aplikasi (iOS | Android | Hybrid) yang terdepan dan berskala internasional.</li>
 							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi iOS dan Android yang kami kembangkan telah melalui proses perencanaan desain yang matang oleh Desainer UI/UX berpengalaman sehingga tampilan yang dihasilkan sangat user friendly.</li>
 							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Keamanan, optimasi, dan skalabilitas aplikasi diperhitungkan dengan detil oleh ahli teknis kami untuk memberikan hasil akhir yang dapat digunakan dengan maksimal oleh pengguna.</li>
 							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Dengan pengalaman lebih dari lima tahun, kemampuan dan keahlian tim LOGIQUE sudah teruji kualitasnya pada berbagai macam klien dan proyek yang berasal dari dalam dan luar negeri.</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Proses perencanaan, pengembangan, pengoperasian, serta maintenance aplikasi mobile menyesuaikan dengan permintaan pelanggan dan kebutuhan pengguna untuk menghasilkan aplikasi mobile dengan hasil akhir yang berkualitas dari segi fungsi, keamanan data, dan penggunaan aplikasi.</li>
 						</ul>
 					</div>
 				</div>
@@ -138,13 +151,13 @@ if(isset($_POST['submitted']))
 			<br/><br/><br>
 			<div class="row">
 				<div class="col-md-12">
-					<h2 class="font-28 text-center">Bagaimana <span class="purple"><b>LOGIQUE</b></span> Membantu Anda</h2>
+					<h2 class="font-28 text-center">LOGIQUE Dapat Membantu Berbagai Kebutuhan <span class="purple">Aplikasi Mobile Anda</span></h2>
 				</div>
 				<div class="clearfix"></div>
 				<br/><br/><br>
 				<div class="col-md-4">
 					<div class="div-help">
-						<h3 class="div-title"><span class="title purple"><b>Ide Aplikasi Inovatif</b></span></h3>
+						<h3 class="div-title"><span class="title purple"><b>Membuat Produk Berbasis Aplikasi</b></span></h3>
 						<div class="">
 						<img alt="Ide Aplikasi Inovatif" class="img-responsive center-block" src="img/inovatif.png"/><br/>
 						Apakah Anda sudah menemukan ide untuk mengembangkan aplikasi mobile senilai milyaran rupiah seperti Go-Jek, Traveloka, atau Tokopedia? Dengan keamanaan informasi melalui Perjanjian Kerahasiaan kami dapat membantu menganalisa ide Anda dan merealisasikannya. Kami akan membantu Anda untuk menjadi App-Enterpreneur besar selanjutnya di industri yang sedang berkembang sangat pesat ini.</div>
@@ -152,7 +165,7 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="col-md-4">
 					<div class="div-help">
-						<h3 class="div-title"><span class="title purple"><b>Memberikan Nilai Tambahan</b></span></h3>
+						<h3 class="div-title"><span class="title purple"><b>Memberikan Nilai Tambah dengan Aplikasi Mobile</b></span></h3>
 						<div class="">
 						<img alt="Memberikan Nilai Tambahan" class="img-responsive center-block" src="img/nilai-tambah.png"/><br/>
 						Sudah menyediakan produk dan layanan kepada pelanggan Anda? Kami dapat membantu Anda menggunakan teknologi berbasis aplikasi untuk membangun nilai tambah sesuai dengan penawaran Anda. Kenyamanan, kemampuan, dan konektivitas smartphone menjadikannya sebagai platform ideal untuk membawa nilai tambah ke layanan Anda saat ini.</div>
@@ -160,7 +173,7 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="col-md-4">
 					<div class="div-help">
-						<h3 class="div-title"><span class="title purple"><b>Meningkatkan Proses Bisnis</b></span></h3>
+						<h3 class="div-title"><span class="title purple"><b>Optimasi Bisnis dengan Aplikasi Mobile</b></span></h3>
 						<div class="">
 						<img alt="Meningkatkan Proses Bisnis" class="img-responsive center-block" src="img/proses-bisnis.png"/><br/>
 						Pernahkah Anda mempertimbangkan bagaimana Anda dapat mengefektifkan bisnis atau perusahaan Anda menggunakan teknologi aplikasi mobile? Aplikasi memberikan peluang yang sangat luas untuk memberdayakan staf dan meningkatkan efisiensi. Solusi aplikasi mobile dengan perencanaan sesuai kebutuhan perusahaan telah terbukti meningkatkan aktivitas kerja sehari-hari yang memungkinkan menghasilkan kinerja yang lebih baik dibandingkan pesaing bisnis Anda.</div>
@@ -182,11 +195,12 @@ if(isset($_POST['submitted']))
 							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi mobile sebagai media penghubung antara perusahan dan karyawan.</li>
 							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi mobile sebagai alat pendukung pemasaran produk dan jasa anda.</li>
 							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi mobile sebagai aplikasi pendukung pengunaan produk anda.</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi mobile dengan pengoperasian yang mudah dan responsif.</li>
 						</ul>
 					</div>
 				</div>
 				<br/><hr/><br/>
-				<h2 class="font-28 text-center">Layanan Kami</h2><br/>
+				<h2 class="font-28 text-center">Layanan Kami terkait Aplikasi Mobile</h2><br/>
 				<div class="row">
 					<div class="col-md-10 col-md-offset-1 text-center">
 						Kami menawarkan layanan lengkap mulai dari pengembangan konsep aplikasi, pembuatan, peluncuran, hingga pengelolaan berkelanjutan untuk aplikasi Anda. Semua layanan kami bertujuan untuk membangun aplikasi yang menawarkan pengalaman maksimal bagi pengguna dan hasil transformasi bisnis yang luar biasa.
@@ -199,7 +213,7 @@ if(isset($_POST['submitted']))
 							<h3 class="title">Pengembangan Aplikasi iOS untuk iPhone / iPad</h3>
 							<br/>
 							<img alt="Pengembangan Aplikasi iOS untuk iPhone / iPad" src="img/apple.png" class="img-responsive center-block"/><br/>
-							Kami berpengalaman mengembangkan aplikasi yang memiliki kompatibilitas pada berbagai versi iOS dengan menggunakan bahasa Swift mulai dari Swift 1 hingga Swift 4 yang populer digunakan saat ini.
+							Kami berpengalaman mengembangkan aplikasi yang memiliki kompatibilitas pada berbagai versi iOS dengan menggunakan bahasa Swift mulai dari Swift 1 hingga Swift 4 dan Objective-C yang populer digunakan saat ini.
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -207,7 +221,7 @@ if(isset($_POST['submitted']))
 							<h3 class="title">Pengembangan Aplikasi Android</h3>
 							<br/>
 							<img alt="Pengembangan Aplikasi Android" src="img/android.png" class="img-responsive center-block"/><br/>
-							Berbagai macam aplikasi Android native berbasis Java mulai dari yang sederhana, multi-bahasa, hingga dengan kompleksitas yang tinggi telah kami hasilkan.
+							Berbagai macam aplikasi Android native berbasis Java, C++, Kotlin, Basic, & Corona/LUA mulai dari yang sederhana, multi-bahasa, hingga dengan kompleksitas yang tinggi telah kami hasilkan.
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -221,7 +235,7 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="hidden-xs hidden-sm"><br/></div>
 				<div class="row">
-					<div class="col-md-4 col-md-offset-2">
+					<div class="col-md-4">
 						<div class="layanan-kami">
 							<h3 class="title">Desain UI/UX Aplikasi Mobile</h3>
 							<br/>
@@ -235,6 +249,14 @@ if(isset($_POST['submitted']))
 							<br/>
 							<img alt="Pengembangan CMS / API" src="img/cms.png" class="img-responsive center-block"/><br/>
 							Untuk mendukung pengembangan aplikasi mobile kami juga menyediakan layanan pembuatan CMS dan API dalam berbagai platform, khususnya PHP.
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="layanan-kami">
+							<h3 class="title">Progressive Web App</h3>
+							<br/>
+							<img alt="Pengembangan CMS / API" src="img/pwa.png" class="img-responsive center-block"/><br/>
+							Kami menyediakan layanan pengembangan Progressive Web App (PWA) untuk memberikan nilai tambah pada website Anda sehingga dapat diakses seperti aplikasi mobile, yang memiliki beragam keunggulan dan dapat mempermudah Anda dalam memuaskan pengguna, meningkatkan interaksi, dan menambah jumlah konversi.
 						</div>
 					</div>
 				</div>
@@ -261,25 +283,9 @@ if(isset($_POST['submitted']))
 								<div class="col-sm-7">
 									<div class="caption-portfolio">
 										<div class="arrow-left"></div>
-										<div class="font-28">Kategori: Finansial</div><br/>
+										<div class="font-28">Kategori Finansial:</div><br/>
 										<div class="font-20">
-										Aplikasi yang membantu pelanggan mendapatkan informasi seputar polis asuransi dan berinteraksi dengan agen untuk salah satu asuransi terbesar di Indonesia.
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div>
-							<div class="row">
-								<div class="col-sm-5">
-									<img alt="Otomart" class="img-responsive center-block" src="img/otomart.png"/>
-								</div>
-								<div class="col-sm-7">
-									<div class="caption-portfolio">
-										<div class="arrow-left"></div>
-										<div class="font-28">Kategori: Otomotif</div><br/>
-										<div class="font-20">
-										Aplikasi yang membantu dealer mengelola iklan mobil pada salah satu portal mobil bekas terbesar di Indonesia.
+										Aplikasi yang membantu pelanggan mendapatkan informasi seputar polis asuransi dan berinteraksi dengan agen untuk salah satu asuransi terbesar di Indonesia. Aplikasi ini dikembangkan menggunakan teknologi: Ionic Framework, AngularJS, HTML5, dan CSS3.
 										</div>
 									</div>
 								</div>
@@ -293,9 +299,25 @@ if(isset($_POST['submitted']))
 								<div class="col-sm-7">
 									<div class="caption-portfolio">
 										<div class="arrow-left"></div>
-										<div class="font-28">Kategori: Jasa</div><br/>
+										<div class="font-28">Kategori Jasa:</div><br/>
 										<div class="font-20">
-										Aplikasi yang membantu pengelola spa internasional untuk meningkatkan layanan dan relasi dengan pelanggan.
+										Aplikasi yang membantu pengelola spa internasional untuk meningkatkan layanan dan relasi dengan pelanggan. Aplikasi ini dikembangkan menggunakan teknologi Java pada Android serta Laravel Lument sebagai pendukung API.
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div>
+							<div class="row">
+								<div class="col-sm-5">
+									<img alt="Otomart" class="img-responsive center-block" src="img/otomart.png"/>
+								</div>
+								<div class="col-sm-7">
+									<div class="caption-portfolio">
+										<div class="arrow-left"></div>
+										<div class="font-28">Kategori Otomotif:</div><br/>
+										<div class="font-20">
+										Aplikasi yang membantu dealer mengelola iklan mobil pada salah satu portal mobil bekas terbesar di Indonesia. Aplikasi ini dikembangkan menggunakan teknologi Java untuk Android dan Swift untuk iOS serta CakePHP sebagai pendukung API.
 										</div>
 									</div>
 								</div>

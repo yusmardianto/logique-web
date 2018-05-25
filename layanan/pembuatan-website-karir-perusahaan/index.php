@@ -67,13 +67,21 @@ ga('send', 'pageview');
 				<div class="container">
 					<div class="banner-text">
 						<h1>
-							<span>Sulit Menemukan</span><br>
-							<span class="ytext">Karyawan Potensial</span> <br>
-							<span>untuk Perusahaan Anda?</span>
+							<span>Anda seorang HRD namun sulit untuk mendapatkan</span><br>
+							<span class="ytext">karyawan yang berkualitas</span> <br>
+							<span>untuk perusahaan Anda?</span>
+
 						</h1>
 						<div class="banner-subt">
-							Situs lowongan kerja kurang dapat diandalkan?<br>
-Komisi untuk agen penyalur tenaga kerja mahal?
+							<div class="row">
+								<div class="col-md-10">
+									Mari Buat Website Perekrutan Karyawan Anda Sendiri<br><br>
+									Sebuah Website perekrutan karyawan yang efektif dan mempunyai biaya yang rendah! <br><br>
+									Kami sadar dan memahami bahwa menggunakan situs lowongan kerja mempunyai biaya yang mahal serta sulit untuk melakukan pemilihan karyawan yang Anda inginkan.
+									<br><br>
+									Karena itu, mari kita sedikit lebih bijak dengan mengeluarkan biaya yang rendah namun mempunyai efektivitas yang cukup tinggi sehingga membuat waktu Anda sebagai HRD menjadi lebih efisien dengan membuat sebuah website perekrutan karyawan yang sesuai dengan keinginan Anda.
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -83,7 +91,7 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-8">
-								<h2 style="padding-top: 15px;">KAMI HADIR UNTUK MEMBANTU ANDA!</h2>
+								<h2 style="padding-top: 15px;">Kami siap memberikan solusi sesuai keinginan Anda!</h2>
 							</div>
 							<div class="col-sm-4 text-right">
 								 <a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"" target="_blank"><img class="logo-logique img-responsive" src="images/logo-y-logique.png" alt="" style="float: right; margin-top:10px;"></a>
@@ -96,20 +104,20 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 					<div class="container">
 						<div class="problem-content row">
 							<div class="col-md-v col-sm-8">
-								<h3 style="text-align: left;">Mungkin Anda sebagai HRD sering menghadapi masalah ini <br>dalam proses perekrutan karyawan?</h3>
+								<h3 style="text-align: left;">Masalah-masalah yang seringkali dialami oleh HRD dalam melakukan proses perekrutan karyawan, yaitu:</h3>
 								 <div class="row">
 								 	
 								 	<div class="col-sm-4">
 								 		<img src="images/img-problem2.png" class="img-responsive" >
-								 		<div>Terus menggunakan layanan situs pencari kerja namun jumlah pelamar sedikit, bahkan cenderung menurun. </div>
+								 		<div>Menggunakan layanan situs pencari kerja namun hasilnya tidak menentu, terkadang jumlah pencari kerja banyak, tapi kualitasnya tidak bagus atau sebaliknya.</div>
 								 	</div>
 								 	<div class="col-sm-4">
 								 		<img src="images/img-problem3.png" class="img-responsive">
-								 		<div >Pakai jasa agen penyalur tenaga kerja namun kualitas tidak sebanding dengan harga.</div>
+								 		<div>Menggunakan jasa agen penyalur tenaga kerja, tapi harganya sangat mahal dan terkadang kualitas karyawan tidak bagus.</div>
 								 	</div>
 								 	<div class="col-sm-4">
 								 		<center><img src="images/img-problem1.png" class="img-responsive"  ></center>
-								 		<div>Cari kandidat di jaringan sosial namun mereka sudah menolak Anda dari awal.</div>
+								 		<div>Tidak mempunyai media untuk memberikan informasi kepada para pelamar kerja tentang informasi rekrutmen sehingga antara efektivitas waktu dan biaya tidak seimbang.</div>
 								 	</div>
 								 </div>
 							 
@@ -122,19 +130,21 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 					<div class="arrow-up"></div>
 					<div class="container">
 						
-					<h3><span class="custom-text">Banyak perusahaan yang menghadapi kendala-kendala ini</span>
-					Logique memberikan solusi pembuatan website karir perusahaan yang mampu:
+					<h3><span class="custom-text">Banyak Perusahaan dan HRD yang Menderita dengan Kendala-kendala seperti ini,</span>
+					Karena itu, Logique memberikan solusi pembuatan website karir perusahaan dengan berbagai keuntungan, seperti:
 					 </h3>
 					 <div class="row">
 							<div class="col-sm-12">
 					<div class="text-left solution-text">
 					<div class="row">
-						<div class="col-sm-4"> <div>Mengenalkan kembali visi dan misi perusahaan Anda, serta tantangan menarik bekerja di perusahaan Anda.</div></div>
-						<div class="col-sm-4"> <div> Menginformasikan banyak <i>benefit</i> yang disediakan perusahaan Anda bagi para pekerja.</div></div>
-						<div class="col-sm-4"> <div>Memposting lowongan yang tersedia sehingga kandidat yang tertarik bekerja di perusahaan Anda bisa melihat lowongan yang cocok.</div></div>
+						<div class="col-sm-4"> <div>Website karir yang mampu memberikan informasi mengenai budaya, atmosfer serta manfaat bekerja di perusahaan Anda dengan menggunakan media foto dan video yang tidak dimiliki oleh situs layanan pencari kerja.</div></div>
+						<div class="col-sm-4"> <div>Website karir yang dikelola sendiri oleh Anda sehingga Anda dapat memperbarui jenis pekerjaan serta syarat-syarat pelamar yang Anda inginkan dengan bebas sesuai keinginan Anda.</div></div>
+						<div class="col-sm-4"> <div>Anda dapat melakukan screening secara ketat dan otomatis kepada para pelamar yang Anda cari dengan memberikan tes sederhana melalui form aplikasi yang disediakan untuk mencegah perusahaan mendapatkan pekerja dengan kualitas rendah.</div></div>
 					<div class="col-sm-12">
 						 
-						<center>Ketiga hal tersebut membuat lebih banyak kandidat potensial yang mengetahui tentang perusahaan dan lowongan Anda.<br> Terlebih lagi <i>benefit</i> menarik pada website karir dapat membuat kandidat tertarik untuk bergabung.
+						<center>Kami dapat membuat halaman WEB yang efektif sehingga meningkatkan efektivitas Anda dalam melakukan proses kegiatan rekrutmen lainnya. Selain itu, pada Website karir page tersebut, Anda juga dapat melakukan iklan lowongan kerja secara digital agar mendapatkan lebih banyak kandidat atau mengarahkan halaman situs pencari kerja ke halaman ini sehingga Anda dapat menjelaskan berbagai hal yang tidak dapat dijelaskan di dalam situs pencari kerja tersebut.
+						<br><br>
+						Anda juga dapat menuliskan persyaratan secara detail di halaman website perekrutan dengan menjelaskan secara tegas bahwa “Saya tidak ingin pekerja dengan kriteria seperti di bawah ini” agar mendapatkan pelamar yang sesuai dengan kriteria yang Anda dan perusahaan inginkan.
 			 			 </center>
 					</div>
 					</div>
@@ -173,13 +183,21 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 						</div>
 					</div>
 					<div class="col-sm-12 simul-description">
-					 <center>Bila pada akhirnya kandidat yang masuk tidak sesuai dengan kriteria atau budaya perusahaan Anda, maka biaya dan tenaga yang Anda habiskan akan menjadi sia-sia. Bahkan, ada potensi menimbulkan masalah lain seperti pengajuan pengunduran diri dalam waktu dekat yang membuat Anda harus mengulang proses rekrutmen dari awal.</center>
+					 <center>
+						Jika pelamar ternyata tidak sesuai dengan kriteria perusahaan, maka biaya serta tenaga yang Anda keluarkan akan menjadi sia-sia. Bahkan bisa saja menimbulkan potensi masalah lain di kemudian hari, seperti pengunduran diri karyawan dalam waktu dekat karena tidak mampu beradaptasi dengan lingkungan kerja sehingga membuat Anda harus mengulang proses rekrutmen karyawan dari awal. Hal ini tentu membuang-buang waktu Anda.
+					 </center>
 					</div>
 					</div>
 				</div>
 				<div class="text-center simul-text">
 					<div class="arrow-up"></div>
-					<h3 class="ytext"><span>Hindari hal-hal tersebut dengan mengombinasikan </span>langkah rekrutmen Anda dengan pembuatan halaman karir dari Logique</h3>
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<h3 class="ytext"><span>Hindari semua hal tersebut dengan membuat sebuah situs web rekrutmen karyawan.
+ </span>Logique menyediakan layanan pembuatan situs web rekrutmen karyawan untuk mengatasi kesulitan para HRD perusahaan dalam mencari pekerja berkualitas di Indonesia.
+</h3>
+						</div>
+					</div>
 				</div>
 			</section>
 			<section >
@@ -225,8 +243,8 @@ Komisi untuk agen penyalur tenaga kerja mahal?
 				</div>
 				<div class="text-center forwho-text">
 					<div class="forwho-cont">
-					<div class="container"><h3>LOGIQUE menawarkan solusi bagi segala permasalahan rekrutmen Anda <br>
-dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
+					<div class="container"><h3>Bagi perusahaan yang merasa kesulitan dalam melakukan kegiatan rekrutmen, maka Logique menawarkan solusinya dengan memberikan layanan pembuatan halaman karir perusahaan yang efektif dan bermanfaat bagi perusahaan.
+</h3></div>
 					</div>
 				</div>
 			</section>
@@ -237,19 +255,19 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 						<div class="col-sm-4">
 							<center>
 								<img src="images/icon-design.png" alt=""  class="img-responsive">
-								<div>Desain yang bagus memberikan impresi yang baik bagi para pelamar dibandingkan dengan halaman milik kompetitor Anda</div>
+								<div>Kami memproduksi desain yang bagus sehingga informasi mengenai perusahaan dapat diketahui dengan baik. Selain itu, Anda juga dapat memberikan gambar dan video sesuai kebutuhan serta menjadikan desain website yang responsif untuk digunakan di seluler.</div>
 							</center>
 						</div>
 						<div class="col-sm-4">
 							<center>
 								<img src="images/icon-seo.png" alt=""  class="img-responsive">
-								<div>Website yang menarik dan ditunjang dengan implementasi standar SEO yang baik, akan menjadikan web efektif dan menggugah kandidat melamar ke perusahaan Anda</div>
+								<div>Kami menggunakan SEO untuk optimisasi konten. Namun sebelumnya kami akan melakukan wawancara terlebih dahulu dengan Divisi HRD dalam pembuatan konten website. Setelah itu, kami akan membuat konten yang relevan sehingga para kandidat mudah untuk memahaminya.</div>
 							</center>
 						</div>
 						<div class="col-sm-4">
 							<center>
 								<img src="images/icon-complete.png" alt=""  class="img-responsive">
-								<div>Informasi lengkap di halaman karir perusahaan Anda membuat Anda yakin akan kriteria yang Anda cari dari seorang pelamar (mencegah adanya ketidakcocokan)</div>
+								<div>Kami akan menerapkan formulir aplikasi yang jika diperlukan dapat dihubungkan dengan sistem kepegawaian perusahaan sehingga antara sistem dengan portal perekrutan dapat terbangun suatu sistem koordinasi yang baik bagi perusahaan.</div>
 							</center>
 						</div>
 					</div>
@@ -371,22 +389,101 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 							<h3 class="custom-text">Testimoni</h3>
 						</div>
 						<div class="col-sm-9">
-							<div class="testi-container">
-								<div class="testi-box">
-									<div class="quoteicon quote-icon1">"</div>
-									<div class="testi-text">
-										Setelah menggunakan konsultasi dan hasil halaman karir yang diberikan oleh Logique, kuantitas dan kualitas pelamar kerja perusahaan kami meningkat. Hal ini membuat kami bisa mengefisiensikan kinerja staff HR dalam hal rekrutmen.  
+							<div class="testimoni-slick">
+								<div class="testi-container">
+									<div class="testi-box">
+										<div class="quoteicon quote-icon1">"</div>
+										<div class="testi-text">
+											Setelah menggunakan konsultasi dan hasil halaman karir yang diberikan oleh Logique, kuantitas dan kualitas pelamar kerja perusahaan kami meningkat. Hal ini membuat kami bisa mengefisiensikan kinerja staff HR dalam hal rekrutmen.  
+										</div>
+										<div class="quoteicon quote-icon2 pull-right">"</div>
+										<div class="arrow-diagonal"></div>
 									</div>
-									<div class="quoteicon quote-icon2 pull-right">"</div>
-									<div class="arrow-diagonal"></div>
+									<div class="testi-owner-container pull-right">
+										Mr. Tatsuya Miyoshi<br>
+										<span style="font-style: italic;">TrendPot </span><a style="color:#000" href="http://trendpot-recruit.asia/" target="_blank"><u>(http://trendpot-recruit.asia/)</u></a>
+									</div>
 								</div>
-								<div class="testi-owner-container pull-right">
-									Mr. Tatsuya Miyoshi<br>
-									<span style="font-style: italic;">TrendPot </span><a style="color:#000" href="http://trendpot-recruit.asia/" target="_blank"><u>(http://trendpot-recruit.asia/)</u></a>
+								<div class="testi-container">
+									<div class="testi-box">
+										<div class="quoteicon quote-icon1">"</div>
+										<div class="testi-text">
+											Solusi HR yang diberikan oleh LOGIQUE berhasil membuat perusahaan kami  berjalan lebih efektif, kami sangat puas dapat bekerjasama dengan LOGIQUE. 
+										</div>
+										<div class="quoteicon quote-icon2 pull-right">"</div>
+										<div class="arrow-diagonal"></div>
+									</div>
+									<div class="testi-owner-container pull-right">
+										Satya Handana <br>
+										<span style="font-style: italic;">Pemilik Bisnis Konveksi Bandung </span>
+									</div>
+								</div>
+								<div class="testi-container">
+									<div class="testi-box">
+										<div class="quoteicon quote-icon1">"</div>
+										<div class="testi-text">
+											Dulu kami sangat bergantung dengan agen dalam merekrut karyawan baru, hal ini membuat biaya operasional yang kami keluarkan sangat besar. Setelah menggunakan solusi yang diberikan oleh LOGIQUE kami berhasil mengefektifkan pengeluaran kami dan mendapatkan karyawan sesuai kriteria yang diinginkan perusahaan.
+	 
+										</div>
+										<div class="quoteicon quote-icon2 pull-right">"</div>
+										<div class="arrow-diagonal"></div>
+									</div>
+									<div class="testi-owner-container pull-right">
+										Jessy Veronika <br>
+										<span style="font-style: italic;">Manajer HR Perusahaan Manufaktur </span>
+									</div>
+								</div>
+								<div class="testi-container">
+									<div class="testi-box">
+										<div class="quoteicon quote-icon1">"</div>
+										<div class="testi-text">
+											Kami sempat kesulitan untuk mendapatkan karyawan yang berkualitas dan sesuai dengan kriteria yang kami inginkan. Padahal, kami telah menggunakan situs pencari kerja serta mengeluarkan biaya yang cukup mahal, namun tetap kesulitan dalam mendapatkan yang kami mau. Namun, setelah kami mencoba penawaran yang diberikan oleh Logique, kami berhasil mendapatkan karyawan yang kami inginkan tanpa perlu mengeluarkan biaya yang cukup mahal dan efektif. 
+	 
+										</div>
+										<div class="quoteicon quote-icon2 pull-right">"</div>
+										<div class="arrow-diagonal"></div>
+									</div>
+									<div class="testi-owner-container pull-right">
+										Anwar Lubis <br>
+										<span style="font-style: italic;">Supervisor HR Perusahaan Jasa Transportasi.</span>
+									</div>
 								</div>
 							</div>
 						</div>
 					</div>
+					</div>
+				</div>
+			</section>
+			<section class="forwho-container">
+				<div class="text-center simul-text">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<h3 class="ytext" style="margin-top: 0"><span>Perlu Solusi Lain Untuk Mempermudah Pekerjaan HR Anda?
+							 </span>Setelah Anda mendapatkan kandidat berkualitas yang lebih banyak mungkin Anda perlu bantuan lain dari sisi HR, LOGIQUE menyediakan layanan tambahan yang dapat memberikan solusi bagi kebutuhan Anda:
+							</h3>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="reason-container">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-6 ">
+							<center>
+								<img src="images/sugoisaiyo-logo.png" alt=""  class="img-responsive">
+								<div class="produk">Jalankan proses rekrutmen dengan mudah dan efektif secara online. Kandidat dapat memasukkan data mereka via sistem dan Anda dapat melakukan proses rekrutmen mulai dari pemeriksaan CV, psikotes, tes teknikal, pengaturan jadwal interview, hingga memberikan surat penawaran. Semuanya dapat di monitor dengan mudah melalui satu sistem terintegrasi.</div>
+								<br>
+								<a href="https://www.logique.co.id/produk/sugoi-saiyo.php" class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a>
+							</center>
+						</div>
+						<div class="col-sm-6 ">
+							<center>
+								<img src="images/dokodemo-logo.png" alt=""  class="img-responsive">
+								<div class="produk">Masalah dan waktu yang kurang efektif ketika karyawan Anda tinggal jauh dari kantor mungkin membuat Anda berpikir untuk menerapkan sistem kerja remote. Namun tentu saja sistem kerja seperti ini dikhawatirkan akan membuat karyawan tidak efisien dalam bekerja. Dengan Dokodemo Kerja, Anda tidak perlu khawatir karena sistem ini akan membantu menciptakan kondisi kerja yang profesional antara perusahaan dan karyawan. Karyawan dapat mencatat waktu mulai, istirahat, dan berhenti kerja untuk perhitungan pembayaran, disisi lain perusahaan juga dapat menerima informasi tambahan berupa screenshot yang diambil pada waktu acak untuk memonitor tingkat efisiensi karyawan.</div>
+								<br>
+								<a href="https://www.logique.co.id/produk/dokodemo-kerja.php" class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a>
+							</center>
+						</div>
 					</div>
 				</div>
 			</section>
@@ -400,7 +497,14 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 							<a href="https://www.logique.co.id/" target="_blank"><img src="images/logo-y-logique.png" alt="logo-footer" class="img-responsive"></a>
 							<p>LOGIQUE DIGITAL INDONESIA<br>
 							Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5 
-							Ragunan, <br>Ps. Minggu, Jakarta Selatan,<br> Indonesia 12550</p>
+							Ragunan, <br>Ps. Minggu, Jakarta Selatan,<br> Indonesia 12550
+
+							<br>
+							&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+							<br>
+							<i class="fa fa-mobile-phone"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;081296560380
+						</p>
+
 						</div>
 						<div class="col-md-6 col-sm-8 mesage-alert ">
 							<?php if(isset($msg))
@@ -453,6 +557,16 @@ dengan membuat halaman karir perusahaan Anda semenarik mungkin</h3></div>
 		<script src="/js/bootstrap.min.js"></script>
 		<script src="/js/slick.min.js"></script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
-		
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
+		<script>
+			$('.testimoni-slick').slick({
+				dots: true,
+				prevArrow: false,
+				nextArrow: false
+			});
+			$('.produk').matchHeight({
+				byRow: false
+			});
+		</script>
 	</body>
 </html>
