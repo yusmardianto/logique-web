@@ -61,32 +61,110 @@ if(isset($_POST['submitted']))
 </head>
 	<body class="dokodemo">
 		<header>
-			<div class="valign-center">
-				<img class="img-responsive center-block" src="img/dokodemo-kerja/dokodemo-logo.png" alt="Dokodemo-Kerja Logo"/>
-				<br/>
-				<h1 class="anton title">Cara Bekerja <br class="hidden-xs"/> Lebih fleksibel & produktif</h1>
-				<hr/>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-10 col-md-offset-1">
+						<div class="height100vh">
+							<div class="valign-center">
+								<img class="img-responsive center-block" src="img/dokodemo-kerja/dokodemo-logo.png" alt="Dokodemo-Kerja Logo"/>
+								<br/>
+								<h1 class="anton title"> Solusi Kerja Fleksibel<br class="hidden-xs"/> yang Lebih Produktif</h1>
+								<hr/>
+								<p class="text-center">
+									Setiap hari, kemacetan dan lamanya perjalanan menuju kantor menjadi salah satu penyebab stres bagi sebagian besar pekerja. Belum lagi jika sedang musim hujan, keterlambatan pun menjadi hal yang terpaksa dimaklumi. Akibatnya, produktivitas jadi menurun. Target perusahaan pun terpaksa ditunda. Jika saja karyawan bisa bekerja tanpa keterikatan waktu dan tempat, bukankah produktivitas akan meningkat, dan hal-hal di atas tidak perlu dipermasalahkan?
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</header>
 		<div class="bg-black">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
-						<h2 class="title">Apa Itu <span class="blue">Dokodemo-Kerja?</span></h2>
+						<div class="title">
+							<span class="blue">Dokodemo-Kerja?</span><br/>
+							<div class="quote">“</div>adalah solusi IT yang mampu mengatasinya.
+						</div>
+						<br/>
+						<img src="img/dokodemo-kerja/bg-black.png" alt="Apa itu Dokodemo-Kerja?" class="img-responsive"/>
 					</div>
 					<div class="col-md-6 text-justify">
-						<span class="blue">Dokodemo-Kerja</span> adalah solusi terbaik untuk para pekerja professional dengan waktu yang fleksibel dan independen, sehingga membuat perusahaan dan karyawan menjadi senang.
-					</div>
-				</div>
-				<br/>
-				<div class="row">
-					<div class="col-md-12 text-center">
-						<a href="#divForm" class="smooth btn btn-coba">Coba Sekarang</a>
+						<h2 class="title2">Apa Itu <span class="blue">Dokodemo-Kerja?</span></h2>
+						<span class="blue">Dokodemo-Kerja</span> adalah sistem kerja profesional yang dibuat untuk para pekerja independen dan fleksibel, namun tetap ingin lebih dalam hal produktivitas kerja. Sistem kerja ini merupakan solusi terbaik bagi perusahaan agar dapat mengetahui secara detail kinerja dari seluruh karyawannya.<br/><br/>
+						Dengan menggunakan sistem teknologi ini, perusahaan dapat menerapkan sistem kerja remote bagi karyawannya di mana pun dan kapan pun. Karyawan pun dibebaskan dari kejenuhan dan ketatnya suasana kerja dalam kantor.<br/><br/>
+						Selain untuk karyawan dengan sistem <i>remote</i>, <span class="blue">Dokodemo-Kerja</span> ternyata juga dapat Anda pergunakan untuk memantau produktivitas karyawan di kantor. Selain untuk memantau pekerjaan, <span class="blue">Dokodemo-Kerja</span> juga dapat digunakan oleh HR dan Manajer sebagai salah satu syarat untuk menentukan kinerja para karyawan.
+						<br/><br/><br/>
+						<div class="text-center">
+							<a href="#divForm" class="smooth btn btn-coba">Coba Sekarang</a>
+						</div>
+						<br/><br/>
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="bg-why">
+		
+		<div class="bg-yellow">
+			<img src="img/dokodemo-kerja/image-fitur.png" class="image-fitur img-responsive"/>
+			<div class="container-fluid">
+				<div class="bg-old-yellow">
+					<div class="row" style="margin:0">
+						<div class="col-md-6 col-md-offset-6">
+							<div class="bg-one-fitur">
+								<div class="one-fitur" style="margin-bottom: 0;">
+									<img src="img/dokodemo-kerja/fitur1.png" class="img-responsive"/>
+									Melacak dan memantau tugas karyawan hanya dalam satu klik.<br/>
+									Dokodemo-kerja mengambil cuplikan layar (screen capture) aktivitas kerja karyawan pada layar perangkat komputernya dalam waktu yang acak (random) dan mengirimnya pada tim manajemen (administrator).
+								</div>
+							</div>
+						</div>				
+					</div>
+				</div>				
+				<div class="row" style="margin:0">
+					<div class="col-md-6" style="padding: 0;">
+						<div class="title-fitur anton">
+							<span class="anton">Fitur</span><br/> Dokodemo-Kerja
+						</div>
+						<div class="dengan-fitur">
+							<div class="quote">“</div>Dengan fitur-fitur tersebut, Dokodemo-Kerja dapat menjadi revolusi sistem kerja baru bagi perusahaan dan karyawan Anda. 
+						</div>
+					</div>
+					<div class="col-md-6 one-fitur-btm">
+						<div class="bg-one-fitur visible-sm visible-xs">
+							<div class="one-fitur">
+								<img src="img/dokodemo-kerja/fitur1.png" class="img-responsive"/>
+								Melacak dan memantau tugas karyawan hanya dalam satu klik.<br/>
+								Dokodemo-kerja mengambil cuplikan layar (screen capture) aktivitas kerja karyawan pada layar perangkat komputernya dalam waktu yang acak (random) dan mengirimnya pada tim manajemen (administrator).
+							</div>
+						</div>
+						<div class="bg-one-fitur">
+							<div class="one-fitur">
+								<img src="img/dokodemo-kerja/fitur2.png" class="img-responsive"/>
+								Mendapatkan laporan waktu kerja karyawan secara mudah<br/>
+								Mengkalkulasi total jam kerja para karyawan, termasuk penghitungan jam istirahat, secara akurat hanya dengan satu klik secara mudah karena semua berjalan sesuai dengan real time yang dilakukan oleh karyawan.
+							</div>
+						</div>
+						<div class="bg-one-fitur">
+							<div class="one-fitur">
+								<img src="img/dokodemo-kerja/fitur3.png" class="img-responsive"/>
+								Mengelola jam kerja karyawan<br/>
+								Mengelola total jam kerja serta proyek atau konten yang dikerjakan oleh karyawan, sehingga mampu membuat perusahaan dapat menentukan target waktu yang bisa dicapai oleh para karyawannya.
+							</div>
+						</div>
+						<div class="bg-one-fitur">
+							<div class="one-fitur">
+								<img src="img/dokodemo-kerja/fitur4.png" class="img-responsive"/>
+								Melihat waktu kerja karyawan hanya dalam satu tampilan layar<br/>
+								Menampilkan total jam kerja seluruh karyawan dalam satu tampilan layar, sehingga memudahkan perusahaan untuk menentukan kinerja dari seluruh karyawan yang ada di perusahaannya secara jujur dan transparan.
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!-- <div class="bg-why">
 			<h2 class="title">Mengapa Memakai Dokodemo-Kerja?</h2>
 			<div class="container">
 				<div class="row">
@@ -104,25 +182,55 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		<h2 class="title-masalah anton">Masalah yang Sering Dihadapi</h2>
-		<div class="div-masalah first">
+		<h2 class="title-masalah anton">Masalah yang Sering Dihadapi</h2> -->
+		<div class="bg-masalah1">
 			<div class="container">
-				<div class="border-white">
-					<div class="row">
-						<div class="col-md-6">
-							<ul class="fa-ul">
-								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Karyawan yang merokok dan mengambil waktu istirahat yang berlebihan.</li>
-								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Dokodemo-Kerja dapat mencegah karyawan untuk beristirahat kerja lebih lama, nonton video dan membuka sosial media disaat jam kerja.</li>
-							</ul>
-						</div>
-						<div class="col-md-6">
-							<img class="masalah1 hidden-sm hidden-xs" alt="Masalah 1" src="img/dokodemo-kerja/laptop1.png"/>
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="pl-25">
+							<div class="anton title-masalah1">Dokodemo-Kerja</div>
+							<div class="kami-siap">Kami Siap Membantu Anda</div>
+							<div class="desc-bantu">
+								<div class="quote">“</div>
+								<strong>Dokodemo-Kerja</strong> merupakan solusi sistem kerja yang menguntungkan, baik bagi karyawan maupun perusahaan. Dengan sistem kerja efisien, <strong>Dokodemo-Kerja</strong> bisa membantu perusahaan berkonsentrasi pada peningkatan produktivitas sekaligus memberikan fleksibilitas pada karyawannya.
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="div-masalah">
+		<div class="bg-masalah2">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-offset-6 col-lg-6">
+						<div class="pr-25" style="min-height: 185px;">
+						<br/>
+							<div class="blue2 font18"><strong class="font18">Mengapa harus Dokodemo-Kerja?</strong></div>
+							<ul class="fa-ul">
+								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Mempermudah perusahaan dalam memantau produktivitas karyawan yang bekerja dengan sistem jarak jauh (<i>freelance</i>, <i>sistem remote</i>, dsb).</li>
+								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Membantu karyawan bekerja dengan fleksibel dan lebih produktif tanpa harus meninggalkan rumah.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="bg-masalah3">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="pl-25" style="min-height: 169px">
+							<ul class="fa-ul">
+								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Mencegah karyawan mengisi laporan kerja yang tidak sesuai dengan kenyataannya.</li>
+								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Mempermudah pencatatan dan pengelolaan aktivitas dan jam kerja karyawan secara tepat.</li>
+								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Membantu mendorong karyawan untuk lebih bersemangat dalam bekerja dengan fleksibilitas waktu yang dimiliki.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- <div class="div-masalah">
 			<div class="container">
 				<div class="border-white">
 					<div class="row">
@@ -155,54 +263,91 @@ if(isset($_POST['submitted']))
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 		<div class="bg-blue text-center">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-12">
+					<div class="col-md-offset-1 col-md-10">
 						<img class="img-responsive center-block" src="img/dokodemo-kerja/dokodemo-logo.png" alt="Dokodemo-Kerja Logo"/>
 						<br/>
-						<div class="title anton">Kami Siap Membantu Anda</div>
-						<br/>
+						<div class="title anton">Dokodemo-Kerja merupakan solusi yang tepat.</div>
+						<hr/>
 						<p>
-							Dokodemo-Kerja adalah solusi produksi yang menguntungkan kedua belah pihak yaitu karyawan dan perusahaan.<br/><br/>
-							Dengan fitur - fitur Dokodemo-Kerja ini, Kami dapat membantu Anda dalam mencatat jam kerja karyawan secara efektif dan efisien seperti mengetahui jam kerja - pulang, jam istirahat dan jam solat.
+							Bagi perusahaan yang sedang mempertimbangkan sistem kerja jarak jauh (freelance, pekerja remote, dsb). Bagi perusahaan yang ingin meningkatkan produktivitas sekaligus kebahagiaan karyawan. Bagi perusahaan yang ingin membatasi penggunaan jam kerja yang tidak efisien, seperti jeda merokok dan istirahat setelah beribadah, menonton video  hiburan yang berlebihan, hingga membuka media sosial pribadi.
 						</p>
 					</div>
 				</div>
 			</div>
 		</div>
-		<img style="width:100%" src="img/dokodemo-kerja/gambar1.png" alt="Dokodemo-Kerja image"/>
-		<div class="bg-yellow">
-			<center><h2 class="title">Fitur Dokodemo-Kerja</h2></center>
-			<br/>
+		
+		<div class="harga">
 			<div class="container">
-				<div class="row">
-					<div class="col-md-4">
-						<ul class="fa-ul">
-							<li><span class="fa-li"><i class="fa fa-circle"></i></span>Fitur start dan stop yang dapat mengkalkulasikan jam kerja karyawan secara akurat</li>
-						</ul>
-					</div>
-					<div class="col-md-4">
-						<ul class="fa-ul">
-							<li><span class="fa-li"><i class="fa fa-circle"></i></span>Mencatat jam kerja beserta screen capture layar karyawan</li>
-						</ul>
-					</div>
-					<div class="col-md-4">
-						<ul class="fa-ul">
-							<li><span class="fa-li"><i class="fa fa-circle"></i></span>Melihat jumlah jam kerja seluruh karyawan di dalam satu tampilan</li>
-						</ul>
-					</div>
-				</div>
+				<div class="title anton">Harga Dokodemo-Kerja</div><br/>
+				<div class="text-center">Dokodemo-Kerja diciptakan bagi perusahaan untuk memantau dan melacak waktu kerja karyawan mereka, para freelancer atau pekerja remote sehingga produktivitas perusahaan meningkat. Berikut ini rincian kategori dari Dokodemo-Kerja. Semua harga paket ini tidak dikenakan biaya tambahan.</div><br/>
 				<br/>
 				<div class="row">
-					<div class="col-md-12">
-						<img src="img/dokodemo-kerja/screens.png" class="img-responsive center-block screens" alt="Screens"/>
+					<div class="col-md-4">
+						<div class="card-harga">
+							<div class="title-card text-center">Basic Plan</div>
+							<div style="padding:30px 0;border-bottom: 1px solid #fff;">
+								<div class="price"><strong>1 JUTA</strong></div>
+								<div class="price" style="font-size: 15px;">PER BULAN</div>
+							</div>
+							<div class="plan-list">
+								<ul class="fa-ul">
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Pelacakan waktu</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Screenshot monitoring</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>1 tangkapan layar per 10 menit</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Screenshot disimpan selama 2 bulan</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>
+									Untuk 10 orang pengguna*<br/>
+									<div style="font-size: 12px;color: #da0101;margin-top: 10px;font-style: italic;">Jika lebih dari 10 orang pengguna, maka setiap pengguna dikenakan biaya Rp 50.000/ bulan</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="card-harga">
+							<div class="title-card text-center">Pro Plan</div>
+							<div style="padding:30px 0;border-bottom: 1px solid #fff;">
+								<div class="price"><strong>3 JUTA</strong></div>
+								<div class="price" style="font-size: 15px;">PER BULAN</div>
+							</div>
+							<div class="plan-list">
+								<ul class="fa-ul">
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Pelacakan waktu</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Screenshot monitoring</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>1 tangkapan layar per menit</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Screenshot disimpan selama 6 bulan</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>
+									Untuk 10 orang pengguna*<br/>
+									<div style="font-size: 12px;color: #da0101;margin-top: 10px;font-style: italic;">Jika lebih dari 10 orang pengguna, maka setiap pengguna dikenakan biaya Rp 75.000/ bulan</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="card-harga">
+							<div class="title-card text-center">Enterprise Plan</div>
+							
+							<div class="text-center heightauto" style="padding:15px;">
+							<div class="valign-center">
+							Silahkan hubungi kami untuk mendapatkan informasi secara detail.
+								<div class="text-center">
+									<a href="#divForm" class="smooth btn btn-coba">Hubungi Kami</a>
+								</div>
+							</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="div-dokodemo">
+		<br/>
+		
+		<!--<div class="div-dokodemo">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
@@ -211,14 +356,14 @@ if(isset($_POST['submitted']))
 					</div>
 				</div>
 			</div>
-		</div>
+		</div>-->
 		<div class="div-form" id="divForm">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<div class="title">
-							<span class="blue2">Untuk informasi Dokodemo-Kerja, </span><br/>
-							Silahkan Hubungi kami dengan mengisi form dibawah ini!
+						<div class="title text-center">
+							<span class="blue2">Untuk informasi lebih lanjut mengenai </strong>Dokodemo-kerja</strong>, </span><br/>
+							silahkan hubungi kami dengan mengisi form dibawah ini!
 						</div>
 					</div>
 				</div>
@@ -253,28 +398,31 @@ if(isset($_POST['submitted']))
 						</div>
 						<div class="form-group">
 							<div class="col-md-offset-1 col-md-5">
-								<span class="blue fw-300">Jenis Kebutuhan yang spesifik</span>
-								<div class="radiobuttons">
-									<div class="rdio"> <input name="needs" value="Pengenalan Dokodemo-Kerja" id="radio1" type="radio" checked>
-									  <label for="radio1">Pengenalan Dokodemo-Kerja</label>
-									</div>
-									<div class="rdio">
-									  <input name="needs" value="Cara menggunakan Dokodemo-Kerja" id="radio2" type="radio">
-									  <label for="radio2">Cara menggunakan Dokodemo-Kerja</label>
-									</div>
-									<div class="rdio">
-									  <input name="needs" value="Untuk kerja jarak jauh" id="radio3" type="radio">
-									  <label for="radio3">Untuk kerja jarak jauh</label>
-									</div>
-									<div class="rdio">
-									  <input name="needs" value="Untuk meningkatkan produktivitas karyawan" id="radio4" type="radio">
-									  <label for="radio4">Untuk meningkatkan produktivitas karyawan</label>
-									</div>
-									<div class="rdio">
-									  <input name="needs" value="Untuk kontrol jam kerja karyawan" id="radio5" type="radio">
-									  <label for="radio5">Untuk kontrol jam kerja karyawan</label>
+								<div style="padding:10px;background:#fff">
+									<span class="blue fw-300">Jenis Kebutuhan yang spesifik</span>
+									<div class="radiobuttons">
+										<div class="rdio"> <input name="needs" value="Pengenalan Dokodemo-Kerja" id="radio1" type="radio" checked>
+										  <label for="radio1">Tentang pengenalan Dokodemo-Kerja</label>
+										</div>
+										<div class="rdio">
+										  <input name="needs" value="Cara menggunakan Dokodemo-Kerja" id="radio2" type="radio">
+										  <label for="radio2">Tentang cara dan penggunaan Dokodemo-Kerja</label>
+										</div>
+										<div class="rdio">
+										  <input name="needs" value="Untuk kerja jarak jauh" id="radio3" type="radio">
+										  <label for="radio3">Tentang sistem kerja jarak jauh</label>
+										</div>
+										<div class="rdio">
+										  <input name="needs" value="Untuk meningkatkan produktivitas karyawan" id="radio4" type="radio">
+										  <label for="radio4">Tentang produktivitas karyawan</label>
+										</div>
+										<div class="rdio">
+										  <input name="needs" value="Untuk kontrol jam kerja karyawan" id="radio5" type="radio">
+										  <label for="radio5">Tentang kontrol jam kerja karyawan</label>
+										</div>
 									</div>
 								</div>
+								<br/>
 							</div>
 							<div class="col-md-5">
 								<textarea name="message" class="form-control" placeholder="Deskripsi"><?php echo $formproc->SafeDisplay('message') ?></textarea>
@@ -300,33 +448,59 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
-						<span class="blue2 fw-500">Bagaimana Dokodemo-Kerja merekam jam kerja karyawan remote?</span><br/>
-						Dokodemo-Kerja mampu merekam jam kerja karyawan sejak dimulai hingga selesai, serta menampilkan total jam kerja yang dihabiskan.<br/><br/>
+						<span class="blue2 fw-500">Bagaimana <strong>Dokodemo-Kerja</strong> merekam jam kerja karyawan?</span><br/>
+						Dokodemo-Kerja merekam aktivitas dan jam kerja untuk setiap proyek yang dikerjakan karyawan pada layar perangkat komputernya. Perhitungan akan dimulai dan dihentikan dengan perintah <i>start/stop</i>.<br/><br/>
 						 
-						<span class="blue2 fw-500">Bagaimana Dokodemo-Kerja dapat membantu manager dan staf HR?</span><br/>
-						Manajer dapat memonitor jam kerja para karyawannya tanpa harus tatap muka. Sementara HR tidak perlu lagi susah payah mengakumulasi jam kerja karyawan remote.<br/><br/>
+						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> memerlukan akses internet?</span><br/>
+						Akses internet diperlukan untuk mengaktifkan dan mengelola akun Dokodemo-Kerja, serta mengirim data rekaman aktivitas dan jam kerja ke database.<br/><br/>
 						 
-						<span class="blue2 fw-500">Pekerja seperti apa yang membutuhkan Dokodemo-Kerja?</span><br/>
-						Pekerja yang ingin bekerja dengan cara dan waktu yang fleksibel namun tetap produktif. Pekerja yang tidak ingin menghadapi kemacetan ketika berangkat dan pulang kerja. Bisa juga pekerja yang ingin memiliki keseimbangan hidup antara bekerja dan kehidupan sosial dan rumah tangganya. Misalnya freelancer, part-timer, ibu rumah tangga, dan lain-lain.<br/><br/>
+						<span class="blue2 fw-500">Bagaimana jika akses internet saya putus saat <strong>Dokodemo-Kerja</strong> berjalan?</span><br/>
+						Tidak masalah. Akses internet tidak dibutuhkan selama proses penghitungan. Namun, Anda membutuhkan koneksi internet saat tombol stop diklik untuk mengirim data ke database.<br/><br/>
 						 
-						<span class="blue2 fw-500">Dokodemo-Kerja bisa dioperasikan di komputer dengan sistem operasi apa saja?</span><br/>
-						Aplikasi desktop Dokodemo-Kerja dapat dijalankan di komputer dengan sistem operasi Windows, Linux (Ubuntu), dan Mac OS.<br/><br/>
+						<span class="blue2 fw-500">Berapa jumlah pengguna yang didukung oleh <strong>Dokodemo-Kerja</strong>?</span><br/>
+						Jumlah pengguna bisa disesuaikan menurut kebutuhan perusahaan.<br/><br/>
 						 
-						<span class="blue2 fw-500">Dokodemo-Kerja tersedia dalam bahasa apa saja?</span><br/>
-						Untuk saat ini, Dokodemo-Kerja tersedia dalam bahasa Indonesia dan Inggris.<br/><br/>
+						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> bisa diakses lewat perangkat seluler?</span><br/>
+						Untuk saat ini, perangkat seluler hanya bisa mengakses Dokodemo-Kerja melalui browser.<br/><br/>
+						
+						<span class="blue2 fw-500">Bagaimana cara menyiapkan layanan <strong>Dokodemo-Kerja</strong>? </span><br/>
+						Kami akan menyediakan panduan menyiapkan layanan Dokodemo-Kerja langkah demi langkah. Mulai dari cara mengakses akun master, mengakses aplikasi dan menginstalnya, hingga penggunaannya bagi karyawan.<br/><br/>
+						
+						<span class="blue2 fw-500">Bagaimana cara mengetahui apakah PC atau Mac saya dapat menjalankan <strong>Dokodemo-Kerja</strong>? </span><br/>
+						Dokodemo-Kerja mendukung PC yang menjalankan sistem operasi Windows, Linux, dan Macintosh.<br/><br/>
 					</div>
 					<div class="col-md-6">
-						<span class="blue2 fw-500">Sepertinya saya akan membutuhkan panduan yang lebih jelas dalam menggunakan Dokodemo-Kerja. Apa saya akan mendapatkannya?</span><br/>
-						Jangan khawatir. Kami menyediakan panduan penggunaannya untuk Anda. Jika Anda masih menemukan kesulitan, Anda bisa langsung menghubungi kami.<br/><br/>
+						<span class="blue2 fw-500">Bahasa apa saja yang tersedia untuk <strong>Dokodemo-Kerja</strong>?</span><br/>
+						Untuk saat ini, Dokodemo-Kerja tersedia dalam Bahasa Indonesia dan Inggris.<br/><br/> 
 						 
-						<span class="blue2 fw-500">Setelah mendapatkan aplikasi Dokodemo-Kerja, apakah ada hal yang harus dilakukan perusahaan sebelum menerapkannya pada karyawan remote kami?</span><br/>
-						Anda cukup menambahkan daftar karyawan remote ke sistem Dokodemo-Kerja. Untuk informasi rincinya, silahkan hubungi kami.<br/><br/>
-						 
-						<span class="blue2 fw-500">Kami tertarik menggunakan Dokodemo-Kerja untuk perusahaan kami. Bagaimana kami bisa mendapatkannya?</span><br/>
-						Untuk bisa menggunakan Dokodemo-Kerja, Anda cukup mengisi formulir kontak untuk menghubungi kami. Kami akan membantu Anda dengan senang hati.<br/><br/> 
-						 
-						<span class="blue2 fw-500">Setelah mendapatkan aplikasi Dokodemo-Kerja, bagaimana cara karyawan mengakses aplikasi desktopnya?</span><br/>
-						Karyawan diharuskan log in di situs Dokodemo-Kerja menggunakan username dan password yang dimiliki, kemudian mengunduh aplikasinya. Setelah itu, karyawan kembali log in di aplikasi Dokodemo-Kerja yang telah diinstal di komputer pribadinya. Dokodemo-Kerja langsung dapat digunakan.<br/><br/>						 
+						<span class="blue2 fw-500">Dapatkah saya melakukan uji coba <strong>Dokodemo-Kerja</strong> terlebih dahulu sebelum membelinya?</span><br/>
+						Tentu saja. Untuk mendapatkan layanan uji coba, silakan hubungi kami.<br/><br/>
+						
+						<span class="blue2 fw-500">Bagaimana jika saya punya masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>?</span><br/>
+						Jangan khawatir. Jika Anda mengalami masalah dalam menggunakan Dokodemo-Kerja, Anda dapat langsung menghubungi kami. Kami akan membantu Anda dengan senang hati.<br/><br/>
+						
+						<span class="blue2 fw-500">Saya tertarik menggunakan <strong>Dokodemo-Kerja</strong> untuk perusahaan saya. Bagaimana saya bisa mendapatkannya?</span><br/>
+						Anda hanya perlu menghubungi kami dengan mengisi formulir yang kami sediakan. Kami siap melayani Anda.<br/><br/>
+						
+						<span class="blue2 fw-500">Seberapa efektifkah <strong>Dokodemo-Kerja</strong> pada produktivitas karyawan?</span><br/>
+						Sangat efektif, karena Dokodemo-Kerja mampu mengkalkulasikan total jam kerja karyawan secara real time dan transparan.<br/><br/>
+						
+						<span class="blue2 fw-500">Untuk siapakah <strong>Dokodemo-Kerja</strong> dibuat?</span><br/>
+						Dokodemo-Kerja dibuat untuk para perusahaan yang menggunakan karyawan dengan sistem kerja remote dan independen agar meningkatkan produktifitas perusahaan.<br/><br/>
+						
+						<span class="blue2 fw-500">Apa keuntungan yang didapatkan oleh perusahaan yang menerapkan <strong>Dokodemo-Kerja</strong>?</span><br/>
+						Dengan Dokodemo-Kerja, perusahaan akan diuntungkan dengan produktifitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.<br/><br/>
+						
+					</div>
+				</div>
+				<br/>
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+						<div style="padding:10px;border:1px solid #edb41a">
+							<div class="div-above-footer">
+								Dokodemo-Kerja adalah solusi sistem kerja berupa aplikasi yang mampu merekam, menghitung, serta mengelola aktivitas dan jam kerja karyawan guna meningkatkan produktivitas perusahaan.
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -337,7 +511,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-6 col-md-push-6">
 						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
 						<p>
-							Dokodemo-Kerja adalah aplikasi yang dapat mencatat dan menghitung waktu kerja karyawan secara rinci untuk setiap proyek yang dikerjakan.
+							Dokodemo-Kerja adalah solusi sistem kerja berupa aplikasi yang mampu merekam, menghitung, serta mengelola aktivitas dan jam kerja karyawan guna meningkatkan produktivitas perusahaan.
 						</p>
 					</div>
 					<div class="col-md-6 col-md-pull-6">
@@ -361,7 +535,7 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="row">
 					<div class="col-md-offset-6 col-md-6">
-						<div class="cr">Copyright  © 2018  <a href="/" class="yellow">Logique</a></div>
+						<div class="cr">Copyright  © 2018<a href="/" class="yellow"> Logique</a></div>
 					</div>
 				</div>
 			</div>
