@@ -332,7 +332,7 @@ if(isset($_POST['submitted']))
 						<div class="card-harga">
 							<div class="title-card text-center">Enterprise Plan</div>
 							
-							<div class="text-center" style="padding:15px;height: 427px;">
+							<div class="text-center heightauto" style="padding:15px;">
 							<div class="valign-center">
 							Silahkan hubungi kami untuk mendapatkan informasi secara detail.
 								<div class="text-center">
