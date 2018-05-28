@@ -107,10 +107,40 @@
 									<span class="yellow">インドネシア</span>でお客様の課題を<span class="yellow">WEB・IT</span>の活用で解決してきました。
 								</p>
 								WEB・ホームページ制作・WEBシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWEB戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWEBを制作運用することを心がけています。ネットビジネスコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。採用管理システムやCRMシステム、ECサイト構築などシステム開発も数多く経験しています。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネット・ITを活用して貢献していきます。<br/><br/>
-								<center>
-									<a href="about.php" class="btn btn-see-more" style="margin-top:10px;">LOGIQUE会社概要 <i class="fa fa-arrow-circle-o-right" ></i></a>
-									<a href="services.php" class="btn btn-see-more" style="margin-top:10px;">LOGIQUEのサービス一覧 <i class="fa fa-arrow-circle-o-right" ></i></a>
-								</center>
+								<div class="row">
+									<div class="col-lg-offset-1 col-lg-10">
+										<div class="row">
+											<div class="col-md-3 col-sm-6">
+												<div class="div-service-cat">
+													<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
+													<h2>WEBサイト / ホームページ制作</h2>
+													<a href="services.php" class="btn">サービス詳細はこちら</a>
+												</div>
+											</div>
+											<div class="col-md-3 col-sm-6">
+												<div class="div-service-cat">
+													<img src="/img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
+													<h2>スマホ / モバイルApp開発</h2>
+													<a target="_blank" href="/jp/services/pembuatan-aplikasi-mobile/" class="btn">サービス詳細はこちら</a>
+												</div>
+											</div>
+											<div class="col-md-3 col-sm-6">
+												<div class="div-service-cat">
+													<img src="/img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
+													<h2 style="padding: 0 30px;">WEBシステム開発</h2>
+													<a href="services.php" class="btn">サービス詳細はこちら</a>
+												</div>
+											</div>
+											<div class="col-md-3 col-sm-6">
+												<div class="div-service-cat">
+													<img src="/img/jasa-seo.png" alt="Jasa Optimasi SEO" class="center-block img-responsive"/>
+													<div>WEBセキュリティ脆弱性テスト</div>
+													<a target="_blank" href="/jp/services/penetration-testing/" class="btn">サービス詳細はこちら</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
 							</div>
 							<br/><br/>
 						</div>
@@ -124,19 +154,48 @@
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
-			<div id="bgImg">
+			<div id="bgImg"  style="height: auto;">
 				<div class="img">
 					<div class="title-container hidden-xs">
-						<div class="valign-center text-center">
+						<div class="text-center">
 							<h1 class="title-index" style="font-size:40px">
 								<span class="yellow">インドネシア</span>でお客様の課題を<br><span class="yellow">WEB・IT</span>の活用で解決してきました。
 							</h1>
 							WEB・ホームページ制作・WEBシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWEB戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWEBを制作運用することを心がけています。ネットビジネスコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。採用管理システムやCRMシステム、ECサイト構築などシステム開発も数多く経験しています。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネット・ITを活用して貢献していきます。<br/><br/>
-							<center>
-								<a href="about.php" class="btn btn-see-more">LOGIQUE会社概要 <i class="fa fa-arrow-circle-o-right" ></i></a>
-								&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="services.php" class="btn btn-see-more">LOGIQUEのサービス一覧 <i class="fa fa-arrow-circle-o-right" ></i></a>
-							</center>
+							<div class="row">
+								<div class="col-lg-offset-1 col-lg-10">
+									<div class="row">
+										<div class="col-md-3 col-sm-6">
+											<div class="div-service-cat">
+												<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
+												<h2>WEBサイト / ホームページ制作</h2>
+												<a href="services.php" class="btn">サービス詳細はこちら</a>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-6">
+											<div class="div-service-cat">
+												<img src="/img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
+												<h2>スマホ / モバイルApp開発</h2>
+												<a target="_blank" href="/jp/services/pembuatan-aplikasi-mobile/" class="btn">サービス詳細はこちら</a>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-6">
+											<div class="div-service-cat">
+												<img src="/img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
+												<h2 style="padding: 0 30px;">WEBシステム開発</h2>
+												<a href="services.php" class="btn">サービス詳細はこちら</a>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-6">
+											<div class="div-service-cat">
+												<img src="/img/jasa-seo.png" alt="Jasa Optimasi SEO" class="center-block img-responsive"/>
+												<div>WEBセキュリティ脆弱性テスト</div>
+												<a target="_blank" href="/jp/services/penetration-testing/" class="btn">サービス詳細はこちら</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
