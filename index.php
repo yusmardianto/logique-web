@@ -130,7 +130,7 @@
 										<div class="div-service-cat">
 											<img src="img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
 											<div>Jasa Pembuatan<br/><span>Aplikasi</span></div>
-											<a href="layanan.php" class="btn">Baca Selengkapnya</a>
+											<a href="/layanan/pembuatan-aplikasi-mobile/" class="btn">Baca Selengkapnya</a>
 										</div>
 									</div>
 									<div class="col-md-3 col-sm-6">
@@ -143,8 +143,8 @@
 									<div class="col-md-3 col-sm-6">
 										<div class="div-service-cat">
 											<img src="img/jasa-seo.png" alt="Jasa Optimasi SEO" class="center-block img-responsive"/>
-											<div>Jasa <br/><span>SEO</span></div>
-											<a href="layanan.php" class="btn">Baca Selengkapnya</a>
+											<div>Jasa <br/><span>VA Test</span></div>
+											<a href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
 										</div>
 									</div>
 								</div>
@@ -186,21 +186,21 @@
 											<div class="div-service-cat">
 												<img src="img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
 												<h2>Jasa Pembuatan <br/><span>Aplikasi</span></h2>
-												<a href="layanan.php" class="btn">Baca Selengkapnya</a>
+												<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/" class="btn">Baca Selengkapnya</a>
 											</div>
 										</div>
 										<div class="col-md-3 col-sm-6">
 											<div class="div-service-cat">
-												<img src="img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
+												<img src="img/jasa-promosi-online.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
 												<h2>Jasa Pembuatan<br/><span>Sistem Web</span></h2>
 												<a href="layanan.php" class="btn">Baca Selengkapnya</a>
 											</div>
 										</div>
 										<div class="col-md-3 col-sm-6">
 											<div class="div-service-cat">
-												<img src="img/jasa-seo.png" alt="Jasa Optimasi SEO" class="center-block img-responsive"/>
-												<h2>Jasa Optimasi <br/><span>SEO</span></h2>
-												<a href="layanan.php" class="btn">Baca Selengkapnya</a>
+												<img src="img/jasa-seo.png" alt="Jasa VA Test" class="center-block img-responsive"/>
+												<div>Jasa <br/><span>VA Test</span></div>
+												<a target="_blank" href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
 											</div>
 										</div>
 									</div>

@@ -36,7 +36,7 @@
     
     </head>
 	<body>
-		<div class="wrapper o-wrapper">
+		<div class="wrapper o-wrapper top-only">
 		
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
@@ -99,7 +99,7 @@
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
-						<div class="lang-logo">
+						<div class="lang-logo" style="position:relative">
 							<ul class="list-inline">
 								<li class="active"><a href="#">EN</a></li>
 								<li><a href="../index.php">ID</a></li>
@@ -119,10 +119,41 @@
 								</p>
 								LOGIQUE is a full-service Digital agency, WEB designer, System developer and IT consulting firm, located in Jakarta, founded by Japanese, helping our clients drive conversion and growth, via fully scalable, seamlessly integrated website / web system / mobile application or Digital marketing solution.
 								<br/><br/>
-								<center>
-									<a href="services.php" class="btn btn-see-more" style="margin-top:10px;">Check LOGIQUE Service <i class="fa fa-arrow-circle-o-right" ></i></a>
-									<a href="contact.php" class="btn btn-see-more" style="margin-top:10px;">Request a Quote<i class="fa fa-arrow-circle-o-right" ></i></a>
-								</center>
+								<div class="row">
+									<div class="col-lg-offset-1 col-lg-10">
+										<div class="row">
+											<div class="col-md-3 col-sm-6">
+												<div class="div-service-cat">
+													<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
+													<h2>Jasa Pembuatan <br/><span>Website</span></h2>
+													<a href="services.php" class="btn">Baca Selengkapnya</a>
+												</div>
+											</div>
+											<div class="col-md-3 col-sm-6">
+												<div class="div-service-cat">
+													<img src="/img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
+													<h2>Jasa Pembuatan <br/><span>Aplikasi</span></h2>
+													<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/" class="btn">Baca Selengkapnya</a>
+												</div>
+											</div>
+											<div class="col-md-3 col-sm-6">
+												<div class="div-service-cat">
+													<img src="/img/jasa-promosi-online.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
+													<h2>Jasa Pembuatan<br/><span>Sistem Web</span></h2>
+													<a href="services.php" class="btn">Baca Selengkapnya</a>
+												</div>
+											</div>
+											<div class="col-md-3 col-sm-6">
+												<div class="div-service-cat">
+													<img src="/img/jasa-seo.png" alt="Jasa VA Test" class="center-block img-responsive"/>
+													<div>Jasa <br/><span>VA Test</span></div>
+													<a target="_blank" href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							
 							</div>
 							<br/><br/>
 						</div>
@@ -136,28 +167,57 @@
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
-			<div id="bgImg">
+			<div id="bgImg" style="height: auto;">
 				<div class="img">
 					<div class="title-container hidden-xs">
-						<div class="valign-center text-center">
+						<div class="text-center">
 							<p style="font-size: 30px;margin-bottom: 15px;">Looking for Web app developer in Indonesia?</p>
 							<h1 class="title-index" style="font-size: 45px;">
 								LOGIQUE, the best <span class="yellow">Web Developer<br/> / IT Consultant Firm</span> in Jakarta, <br/>gets you conversion and growth
 							</h1>
 							LOGIQUE is a full-service Digital agency, WEB designer, System developer and IT consulting firm, located in Jakarta, founded by Japanese, helping our clients drive conversion and growth, via fully scalable, seamlessly integrated website / web system / mobile application or Digital marketing solution.
 							<br/><br/>
-							<center>
-								<a href="services.php" class="btn btn-see-more">Check LOGIQUE Service <i class="fa fa-arrow-circle-o-right" ></i></a>
-								&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="contact.php" class="btn btn-see-more">Request a Quote<i class="fa fa-arrow-circle-o-right" ></i></a>
-							</center>
+							<div class="row">
+								<div class="col-lg-offset-1 col-lg-10">
+									<div class="row">
+										<div class="col-md-3 col-sm-6">
+											<div class="div-service-cat">
+												<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
+												<h2>Website <br/><span>Creation</span></h2>
+												<a href="services.php" class="btn">Baca Selengkapnya</a>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-6">
+											<div class="div-service-cat">
+												<img src="/img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
+												<h2>Mobile <br/><span>Solution</span></h2>
+												<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/" class="btn">Baca Selengkapnya</a>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-6">
+											<div class="div-service-cat">
+												<img src="/img/jasa-promosi-online.png" alt="Web System Development" class="center-block img-responsive"/>
+												<h2>Web System<br/><span>Development</span></h2>
+												<a href="services.php" class="btn">Baca Selengkapnya</a>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-6">
+											<div class="div-service-cat">
+												<img src="/img/jasa-seo.png" alt="WEB Security Assesment" class="center-block img-responsive"/>
+												<div>WEB Security<br/><span>Assesment</span></div>
+												<a target="_blank" href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			
 			<br/>
-		  
+			<?php include 'footer.php';?>
 		</div>	
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script src="../js/bootstrap.min.js"></script>
