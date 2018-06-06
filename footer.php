@@ -43,7 +43,7 @@ ga('send', 'pageview');
 				<br><br>
 				&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
 				<br>
-				&nbsp;<i class="fa fa-mobile"></i>&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;081296560380
+				&nbsp;&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;081296560380
 				<br><br>
 				</div>
 			</div>

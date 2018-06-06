@@ -165,7 +165,7 @@
 						<div class="title"><b>Company</b><span class="yellow">Overview</span></div>
 						<div class="row">
 							<div class="col-sm-5">
-								<img src="../img/yoshi.jpg" class="img-responsive center-block" style="border: 1px solid #ccc;"/><br/>
+								<img src="/img/slider1.jpg" class="img-responsive center-block" style="border: 1px solid #ccc;height: 462px;object-fit: cover;object-position: -245px 0;"/><br/>
 							</div>
 							<div class="col-sm-7">
 								Company Name<br/>
@@ -177,13 +177,33 @@
 								Director<br/>
 								<b>Takashi Yoshitsugu</b>
 								<br/><br/>
-								Address<br/>
+								Number of employees<br/>
+								<b>35 (as of June, 2018)</b>
+								<br/><br/>
+								Head Office Address<br/>
 								<b>Ad Premier Building 19<sup>th</sup> Floor, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12550, INDONESIA</b>
 								<br/><br/>
 								Phone<br/>
 								<b>+62(21) 2270 8935 / 36</b>
+								<br/><br/>
+								Development Center<br/>
+								<b>Yogyakarta</b>
 							</div>
 						</div>
+					</div>
+					
+					<div class="title"><b>Director’s</b><span class="yellow">Profile&amp;Message</span></div>
+					<div class="form-container">
+						<img src="/img/yoshi.jpg" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
+						Lahir di Tokyo, Jepang, pada 1976. Pada 1999, ia lulus dari Departemen Teknik Sistem Manajemen, Waseda University. Ia memiliki banyak pengalaman dimulai di Japan Research Institute, Inc., perusahaan konsultan CRM, dan lain-lain. Hingga pada 2005, ia akhirnya membangun sendiri bisnis e-commerce, perusahaan perdagangan impor, dan perusahaan konsultan di Jepang. Ia membangun dan masih menjalankan perusahaan ini di Indonesia sejak 2012.
+						<br/><br/>
+						Nama LOGIQUE berasal dari kata Indonesia "logika-ku", yang berarti "logika saya". Idenya adalah bahwa saya ingin mencapai tujuan kami dengan kekuatan keyakinan, kepercayaan, dan yang paling penting logika kami. Kami akan memaksimalkan manfaat dan kepuasan jangka menengah dan panjang dari Anda dan kami sendiri, meskipun kami berada di Asia Tenggara, wilayah yang dinamis dan bisa berkembang setiap hari.
+						<br/><br/>
+						Sejak 2012, kami telah membimbing klien kami di bidang WEB, SI, dan pemasaran digital di Indonesia dengan memanfaatkan teknologi IT dan web. Penjualan kami pun terus meningkat setiap tahunnya. Pada bulan April 2018, kami bahkan telah membuka pusat developer di Yogyakarta dan kami akan mulai mengoperasikan pusat developer lainnya di tahun ini juga.
+						<br/><br/>
+						Dalam rangka ikut berkontribusi pada lingkungan sosial di Indonesia, kami terus berupaya untuk menyatukan sistem kerja fleksibel, seperti kerja secara remote, atau dengan jam kerja yang singkat, sehingga kita semua dapat bekerja secara efisien dan senang hati.
+						<br/><br/>
+						Kami juga berencana untuk membagikan dan memberikan produk dan layanan yang telah kami coba dan kembangan sendiri agar bisa mengoperasikan bisnis kami secara efisien dan senang hati, seperti yang saya katakan sebelumnya. Saya sangat senang jika bisnis kami bisa memberikan kontribusi positif, baik untuk Indonesia, untuk kepuasan klien kami, maupun untuk perkembangan diri kami.
 					</div>
 					
 					<div class="got-project">
