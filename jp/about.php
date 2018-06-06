@@ -168,25 +168,45 @@
 						<div class="title" style="font-weight:normal"><span class="yellow">LOGIQUE</span>の概要</div>
 						<div class="row">
 							<div class="col-sm-5">
-								<img src="../img/yoshi.jpg" class="img-responsive center-block" style="border: 1px solid #ccc;"/><br/>
+								<img src="/img/slider1.jpg" class="img-responsive center-block" style="border: 1px solid #ccc;height: 462px;object-fit: cover;object-position: -245px 0;"/><br/>
 							</div>
 							<div class="col-sm-7">
 								会社名<br/>
 								<b>PT. Logique Digital Indonesia</b>
 								<br/><br/>
 								事業内容<br/>
-								<b>ITコンサルティング、WEBサイト制作、デザイン制作、システム開発</b>
+								<b>ITコンサルティング、WEBサイト制作、システム開発運用、アプリ開発、デザイン制作</b>
 								<br/><br/>
 								代表者<br/>
 								<b>Takashi Yoshitsugu (吉次 敬)</b>
 								<br/><br/>
-								住所<br/>
+								従業員数<br/>
+								<b>35名（2018年6月現在）</b>
+								<br/><br/>
+								本社住所<br/>
 								<b>Ad Premier Building 19<sup>th</sup> Floor, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12550, INDONESIA</b>
 								<br/><br/>
 								TEL<br/>
 								<b>+62(21) 2270 8935 / 36</b>
+								<br/><br/>
+								開発センター<br/>
+								<b>ジョグジャカルタ</b>
 							</div>
 						</div>
+					</div>
+					
+					<div class="title">代表者略歴＆メッセージ</div>
+					<div class="form-container">
+						<img src="/img/yoshi.jpg" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
+						1976年東京生まれ。1999年に早稲田大学理工学部経営システム工学科を卒業。株式会社日本総合研究所やCRMコンサルティングファームなどを経て2005年よりEコマース事業、輸入商社、コンサルティング会社を起業。2012年よりインドネシアで会社運営。
+						<br/><br/>
+						LOGIQUEとうい名前はlogika-kuというインドネシア語が由来となっています。自分たちのロジック、思いを大事に、芯をもって事を成していきたいと思っています。東南アジア×ITという非常に変化の激しい領域にいますが、一時のトレンドや短期的な利益に惑わされず、自分たち、関係いただく皆さまの幸福度を最大化していきたいと思います。
+						<br/><br/>
+						2012年からインドネシアにてWEB・SI・デジタルマーケティング領域で多くのお客様にIT・WEB活用のご支援をして参りました。お陰様で業績は順調に拡大しております。2018年4月にはジョグジャカルタに開発センターを開設しました。2018年中に更に１拠点オープン予定です。
+						<br/><br/>
+						インドネシアの社会環境を鑑みて、リモートワークや時短勤務などのフレキシブルな勤務体系を取り入れ、効率的に幸せに働いてもらうための取組を続けています。これら当社向けに試行したこと、当社向けに開発したシステムをインドネシアの他の会社にも提供していくつもりです。
+						<br/><br/>
+						これからも慢心せず調整していきます。当社の事業を通じて、インドネシアに貢献し、クライアントの皆さまに喜んでもらい、仲間の成長に繋がれば、これほど嬉しいことはありません。
 					</div>
 					
 					<div class="got-project">
