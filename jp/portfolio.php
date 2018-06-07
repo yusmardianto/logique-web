@@ -423,6 +423,10 @@
 								<img src="/img/portfolio/60jpid-sosmed.png" class="img-responsive center-block">
 								60th years Anivesisary Japan Indonesia Relationship - 60jpid<br><br>
 							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/otomartfb.png" class="img-responsive center-block">
+								OTOmart<br><br>
+							</div>
 
 						</div> 
 						 
