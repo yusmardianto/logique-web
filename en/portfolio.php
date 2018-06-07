@@ -292,6 +292,31 @@
 								</a>
 							</div>
 							
+							<div class="col-sm-4">
+								<a href="//shinoken.static.logique.co.id/" target="_blank">
+									<img src="/img/portfolio/shinoken.png" class="img-responsive center-block">
+									Shinoken<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="//www.jtrustbank.co.id/id/moe" target="_blank">
+									<img src="/img/portfolio/moe.png" class="img-responsive center-block">
+									J-Trust Moe<br><br>
+								</a>
+							</div>	
+							<div class="col-sm-4">
+								<a href="//bisnissaya.com" target="_blank">
+									<img src="/img/portfolio/bisnissaya.png" class="img-responsive center-block">
+									KKI<br><br>
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="//j-golfacademy.com/" target="_blank">
+									<img src="/img/portfolio/golfjkt.png" class="img-responsive center-block">
+									J-golf Academy<br><br>
+								</a>
+							</div>
+							<div class="clearfix"></div>
 						</div>
 						<br/>
 						<span class="characteristic-title">Our system development experiences</span>
