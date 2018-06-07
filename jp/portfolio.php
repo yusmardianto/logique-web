@@ -291,7 +291,7 @@
 							</div>
 
 							<div class="col-sm-4">
-								<a href="//shinoken.static.logique.co.id/" target="_blank">
+								<a href="#">
 									<img src="/img/portfolio/shinoken.png" class="img-responsive center-block">
 									Shinoken<br><br>
 								</a>
