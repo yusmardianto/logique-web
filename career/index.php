@@ -103,6 +103,11 @@
 								<br><br>
 								Selain itu, banyak sekali kesempatan untuk peningkatan karir sebagai Web Developer, Web Designer, PHP Programmer, Technical Consultant, ataupun Project Manager. Kami biasa mengerjakan proyek dengan permintaan standar yang tinggi dari klien. Tantangan inilah yang akan mengasah dan meningkatkan kemampuan Anda ke level selanjutnya. 
 							</p>
+							<div class="text-center">
+								<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+									Apply
+								</a>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -230,6 +235,11 @@
 						</p>
 					</div>					
 				</div>
+				<div class="text-center">
+					<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+						Apply
+					</a>
+				</div>			
 			</div>			
 		</section>
 		
@@ -363,6 +373,9 @@
 							<li>Bertanggung jawab dalam memastikan dan merilis dokumentasi perangkat lunak dalam keadaan yang tepat, dipasang dengan benar dan dijalankan dengan kualitas yang baik.</li>
 							<li>Bertanggung jawab untuk membuat dan melaksanakan pengujian regresi dan pelaksanaan pembuatan aplikasi.</li>
 						</ul>
+						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+							Apply
+						</a>
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -402,6 +415,9 @@
 							<li>Menganalisa masalah dan memberikan solusi dari sisi teknis.</li>
 							<li>Menyelesaikan pekerjaan atau tugas lain yang diberikan.</li>
 						</ul>
+						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+							Apply
+						</a>
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -446,6 +462,9 @@
 							<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>
 							<li>Menghasilkan laporan.</li>
 						</ul>
+						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+							Apply
+						</a>
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -490,6 +509,9 @@
 							<li>Meneliti dan menyarankan produk, aplikasi, dan protokol seluler baru.</li>
 							<li>Tetap up-to-date dengan tren teknologi baru.</li>
 						</ul>
+						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+							Apply
+						</a>
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -531,6 +553,9 @@
 							<li>Mengidentifikasi kebutuhan dan kesenjangan pelanggan dalam konten kami dan rekomendasikan topik baru.</li>
 							<li>Up to date untuk konten situs web sesuai kebutuhan.</li>
 						</ul>
+						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+							Apply
+						</a>
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -568,6 +593,9 @@
 							<li>Mampu berpikir logis dan tegas dalam mengambil tindakan.</li>
 							<li>Memiliki pengetahuan tentang pemasaran digital dan keingintahuan yang tinggi akan hal-hal baru.</li>
 						</ul>
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
+							Apply
+						</a>
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -597,6 +625,9 @@
 						<ul class="joinus-ul">
 							<li>Memiliki kemampuan untuk menggunakan software desain (Photoshop, Illustrator, dll).</li>
 						</ul>
+						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+							Apply
+						</a>
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -675,6 +706,9 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
+							Apply
+						</a>
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -704,6 +738,9 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
+							Apply
+						</a>
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -736,6 +773,9 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
+							Apply
+						</a>
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -765,6 +805,9 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
+							Apply
+						</a>
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -800,6 +843,9 @@
 							<li>Terlibat dalam pengelolaan dan pembaharuan dokumen dalam lingkup HR (peraturan perusahaan, surat kontrak untuk karyawan baru, dan surat penawaran kerja untuk kandidat).</li>
 							<li>Membantu melaksanakan tugas-tugas departemen GA.</li>
 						</ul>
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
+							Apply
+						</a>
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -807,10 +853,13 @@
 		</section>
 		
 		<div class="bg-footer-new-career">
-			<span>JOIN US!</span>
+			<span>Jadi, apakah Anda tertarik untuk menjadi bagian dari kami?</span>
+			<br/>
+			<div>Jika Anda memenuhi kriteria salah satu posisi yang kami butuhkan, segera kirim CV beserta portofolio terbaik Anda 
+			<br/>dengan cara klik tombol di bawah ini !</div>
 			<div>
 				<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" style="margin-bottom: 50px;">
-					Kirim CV Sekarang 
+					Apply
 				</a>
 			</div>
 			<p>

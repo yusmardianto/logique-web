@@ -289,6 +289,31 @@
 									Symposium page (60th Anniv)<br><br>
 								</a>
 							</div>
+
+							<div class="col-sm-4">
+								<img src="/img/portfolio/shinoken.png" class="img-responsive center-block">
+								Shinoken<br><br>
+							</div>
+							<div class="col-sm-4">
+								<a href="//www.jtrustbank.co.id/id/moe" target="_blank">
+									<img src="/img/portfolio/moe.png" class="img-responsive center-block">
+									J-Trust Moe<br><br>
+								</a>
+							</div>	
+							<div class="col-sm-4">
+								<a href="//bisnissaya.com" target="_blank">
+									<img src="/img/portfolio/bisnissaya.png" class="img-responsive center-block" style="margin-top: 35px;margin-bottom: -20px;">
+									KKI<br><br>
+								</a>
+							</div>
+							
+							<div class="col-sm-4">
+								<a href="//j-golfacademy.com/" target="_blank">
+									<img src="/img/portfolio/golfjkt.png" class="img-responsive center-block">
+									J-golf Academy<br><br>
+								</a>
+							</div>
+							<div class="clearfix"></div>
 						</div>
 						<br/>
 						<span class="characteristic-title">システム構築実績</span>
@@ -396,6 +421,10 @@
 							<div class="col-sm-4">
 								<img src="/img/portfolio/60jpid-sosmed.png" class="img-responsive center-block">
 								60th years Anivesisary Japan Indonesia Relationship - 60jpid<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/otomartfb.png" class="img-responsive center-block">
+								OTOmart<br><br>
 							</div>
 
 						</div> 
