@@ -293,10 +293,8 @@
 							</div>
 							
 							<div class="col-sm-4">
-								<a href="#">
-									<img src="/img/portfolio/shinoken.png" class="img-responsive center-block">
-									Shinoken<br><br>
-								</a>
+								<img src="/img/portfolio/shinoken.png" class="img-responsive center-block">
+								Shinoken<br><br>
 							</div>
 							<div class="col-sm-4">
 								<a href="//www.jtrustbank.co.id/id/moe" target="_blank">
@@ -306,10 +304,11 @@
 							</div>	
 							<div class="col-sm-4">
 								<a href="//bisnissaya.com" target="_blank">
-									<img src="/img/portfolio/bisnissaya.png" class="img-responsive center-block">
+									<img src="/img/portfolio/bisnissaya.png" class="img-responsive center-block" style="margin-top: 35px;margin-bottom: -20px;">
 									KKI<br><br>
 								</a>
 							</div>
+							
 							<div class="col-sm-4">
 								<a href="//j-golfacademy.com/" target="_blank">
 									<img src="/img/portfolio/golfjkt.png" class="img-responsive center-block">
