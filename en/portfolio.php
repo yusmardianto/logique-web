@@ -304,7 +304,7 @@
 							</div>	
 							<div class="col-sm-4">
 								<a href="//bisnissaya.com" target="_blank">
-									<img src="/img/portfolio/bisnissaya.png" class="img-responsive center-block" style="margin-top: 35px;margin-bottom: -20px;">
+									<img src="/img/portfolio/bisnissaya.png" class="img-responsive center-block">
 									KKI<br><br>
 								</a>
 							</div>
@@ -312,7 +312,7 @@
 							<div class="col-sm-4">
 								<a href="//j-golfacademy.com/" target="_blank">
 									<img src="/img/portfolio/golfjkt.png" class="img-responsive center-block">
-									J-golf Academy<br><br>
+									Jakarta Golf Academy<br><br>
 								</a>
 							</div>
 							<div class="clearfix"></div>
