@@ -52,7 +52,6 @@
 						Baru-baru ini, LOGIQUE telah membuka kantor cabang di Jetis, <b>Yogyakarta</b>. LOGIQUE yakin, kota ini memiliki potensi akan perkembangan sumber dayanya yang handal.
 						<br><br>
 						Maka dari itu, LOGIQUE tidak hanya membuka kesempatan bagi Anda yang berdomisili di <b>Jakarta</b>, namun juga di <b>Yogyakarta</b> untuk bergabung dan berkembang bersama LOGIQUE. 
-
 					</p>
 					<br/>
 					<div class="div-black-career">
@@ -374,7 +373,7 @@
 							<li>Bertanggung jawab untuk membuat dan melaksanakan pengujian regresi dan pelaksanaan pembuatan aplikasi.</li>
 						</ul>
 						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
-							Apply
+							Apply for Quality Assurance
 						</a>
 					</div>
 				</div>
@@ -416,7 +415,7 @@
 							<li>Menyelesaikan pekerjaan atau tugas lain yang diberikan.</li>
 						</ul>
 						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
-							Apply
+							Apply for Web Developer
 						</a>
 					</div>
 				</div>
@@ -463,7 +462,7 @@
 							<li>Menghasilkan laporan.</li>
 						</ul>
 						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
-							Apply
+							Apply for Technical Consultant
 						</a>
 					</div>
 				</div>
@@ -510,7 +509,7 @@
 							<li>Tetap up-to-date dengan tren teknologi baru.</li>
 						</ul>
 						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
-							Apply
+							Apply for Mobile App Developer
 						</a>
 					</div>
 				</div>
@@ -554,7 +553,7 @@
 							<li>Up to date untuk konten situs web sesuai kebutuhan.</li>
 						</ul>
 						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
-							Apply
+							Apply for Content Writer
 						</a>
 					</div>
 				</div>
@@ -593,8 +592,8 @@
 							<li>Mampu berpikir logis dan tegas dalam mengambil tindakan.</li>
 							<li>Memiliki pengetahuan tentang pemasaran digital dan keingintahuan yang tinggi akan hal-hal baru.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
-							Apply
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+							Apply for Project Manager
 						</a>
 					</div>
 				</div>
@@ -626,7 +625,7 @@
 							<li>Memiliki kemampuan untuk menggunakan software desain (Photoshop, Illustrator, dll).</li>
 						</ul>
 						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
-							Apply
+							Apply for Designer
 						</a>
 					</div>
 				</div>
@@ -706,8 +705,8 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
-							Apply
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+							Apply for Web Developer
 						</a>
 					</div>
 				</div>
@@ -738,8 +737,8 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
-							Apply
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+							Apply for Content Writer
 						</a>
 					</div>
 				</div>
@@ -752,7 +751,7 @@
 						<div class="valign-center">
 							<img alt="UI - UX Designer" src="../img/designer.png" class="img-responsive"/>
 							<h4>Lowongan Magang</h4>
-							<h5>UI - UX Designer</h5>
+							<h5>UI/UX Designer</h5>
 							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
@@ -773,8 +772,8 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
-							Apply
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+							Apply for UI/UX Designer
 						</a>
 					</div>
 				</div>
@@ -805,8 +804,8 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
-							Apply
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+							Apply for Front End Developer
 						</a>
 					</div>
 				</div>
@@ -843,8 +842,8 @@
 							<li>Terlibat dalam pengelolaan dan pembaharuan dokumen dalam lingkup HR (peraturan perusahaan, surat kontrak untuk karyawan baru, dan surat penawaran kerja untuk kandidat).</li>
 							<li>Membantu melaksanakan tugas-tugas departemen GA.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
-							Apply
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+							Apply for HR/GA
 						</a>
 					</div>
 				</div>
