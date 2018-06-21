@@ -191,11 +191,13 @@ ga('send', 'pageview');
 				</div>
 				<div class="text-center simul-text">
 					<div class="arrow-up"></div>
-					<div class="row">
-						<div class="col-md-8 col-md-offset-2">
-							<h3 class="ytext"><span>Hindari semua hal tersebut dengan membuat sebuah situs web rekrutmen karyawan.
- </span>Logique menyediakan layanan pembuatan situs web rekrutmen karyawan untuk mengatasi kesulitan para HRD perusahaan dalam mencari pekerja berkualitas di Indonesia.
-</h3>
+					<div class="container">
+						<div class="row">
+							<div class="col-md-8 col-md-offset-2">
+								<h3 class="ytext"><span>Hindari semua hal tersebut dengan membuat sebuah situs web rekrutmen karyawan.
+								 </span>Logique menyediakan layanan pembuatan situs web rekrutmen karyawan untuk mengatasi kesulitan para HRD perusahaan dalam mencari pekerja berkualitas di Indonesia.
+								</h3>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -455,12 +457,14 @@ ga('send', 'pageview');
 				</div>
 			</section>
 			<section class="forwho-container">
-				<div class="text-center simul-text">
-					<div class="row">
-						<div class="col-md-8 col-md-offset-2">
-							<h3 class="ytext" style="margin-top: 0"><span>Perlu Solusi Lain Untuk Mempermudah Pekerjaan HR Anda?
-							 </span>Setelah Anda mendapatkan kandidat berkualitas yang lebih banyak mungkin Anda perlu bantuan lain dari sisi HR, LOGIQUE menyediakan layanan tambahan yang dapat memberikan solusi bagi kebutuhan Anda:
-							</h3>
+				<div class="text-center simul-text">					
+					<div class="container">
+						<div class="row">
+							<div class="col-md-8 col-md-offset-2">
+								<h3 class="ytext" style="margin-top: 0"><span>Perlu Solusi Lain Untuk Mempermudah Pekerjaan HR Anda?
+								 </span>Setelah Anda mendapatkan kandidat berkualitas yang lebih banyak mungkin Anda perlu bantuan lain dari sisi HR, LOGIQUE menyediakan layanan tambahan yang dapat memberikan solusi bagi kebutuhan Anda:
+								</h3>
+							</div>
 						</div>
 					</div>
 				</div>

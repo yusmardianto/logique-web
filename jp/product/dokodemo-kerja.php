@@ -1,4 +1,4 @@
-﻿ <?php 
+ <?php 
 require_once("form/fgcontactform.php");
 
 $formproc = new FGContactForm();
@@ -76,12 +76,12 @@ if(isset($_POST['submitted']))
 				  </div>
 				  <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
 					<ul class="nav navbar-nav">
-					  <li><a href="#introduction" class="smooth">Perkenalan</a></li>
-					  <li><a href="#about" class="smooth">Tentang Dokodemo-Kerja</a></li>
-					  <li><a href="#fitur" class="smooth">Fitur</a></li>　
-					  <li><a href="#benefits" class="smooth li-mt">Keuntungan</a></li>　
-					  <li><a href="#price" class="smooth li-mt">Harga</a></li>　
-					  <li><a href="#divForm" class="smooth li-mt">Hubungi Kami</a></li>
+					  <li><a href="#introduction" class="smooth">はじめに</a></li>
+					  <li><a href="#about" class="smooth">DOKODEMO-KERJAについて</a></li>
+					  <li><a href="#fitur" class="smooth">機能</a></li>　
+					  <li><a href="#benefits" class="smooth li-mt">導入メリット</a></li>　
+					  <li><a href="#price" class="smooth li-mt">価格</a></li>　
+					  <li><a href="#divForm" class="smooth li-mt">お問い合わせ</a></li>
 					</ul>
 					<a href="/" target="_blank"><img class="pull-right img-responsive center-block logo-logique-header" src="img/dokodemo-kerja/logo_logique.png"/></a>
 				  </div><!--/.nav-collapse -->  
@@ -91,11 +91,24 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-10 col-md-offset-1">
 						<div class="div-top">
-							<h1 class="anton title"> Solusi Kerja Fleksibel<br class="hidden-xs"/> yang Lebih Produktif</h1>
+							<h1 class="anton title"> 自由と生産性を追求した働き方を！</h1>
 							<hr/>
-							<p class="text-center">
-								Setiap hari, kemacetan dan lamanya perjalanan menuju kantor menjadi salah satu penyebab stres bagi sebagian besar pekerja. Belum lagi jika sedang musim hujan, keterlambatan pun menjadi hal yang terpaksa dimaklumi. Akibatnya, produktivitas jadi menurun. Target perusahaan pun terpaksa ditunda. Jika saja karyawan bisa bekerja tanpa keterikatan waktu dan tempat, bukankah produktivitas akan meningkat, dan hal-hal di atas tidak perlu dipermasalahkan?
+							<div class="content-header">
+								<center><span style="font-size: 20px;">インドネシアでリモートワークを推進しています。 <br/>柔軟に、独立した、プロフェッショナルな勤務体系で、会社も従業員もハッピーに！</span></center>
+								<br/><br/>
+								従業員の皆さん、毎日の通勤ストレスですよね？小さい子供の世話を誰かが代わりに見てくれれば自分の専門性を活かせるのに。もっとフレキシブルに働かせて貰えれば今よりずっと生産性発揮するのに、などなどの不満ありませんか？<br/><br/>
+
+								経営者・人事マネージャの皆さん、従業員の遅刻欠勤を管理、取り締まるのに飽き飽きですよね。真面目なだけが取り柄の生産性が低いスタッフが残っても本末転倒ですよね。従業員には幸せに活き活きと仕事をし、かつ高い生産性を生んでもらいたいですよね？<br/><br/>
+
+								Dokodemo-Kerjaは上記を全て解決する画期的なITソリューションです。<br/><br/>
+
+								このサービスを利用すれば、従業員は勤務場所の制約から開放され、好きな時間に好きな場所からのリモートワークが可能となります。いままで問題と考えられていた、さぼり、非集中などについては、ランダムにラップトップのスクリーンショットが撮られ管理者に送信されることで管理することができます。管理者は従業員の勤務時間と作業内容を突き合わせて管理することが可能となり、従業員の虚偽報告を防ぐことができます。<br/><br/>
+
+								今までのリモートワーク管理ツールは、どうしてもリモートワーカーに面倒な報告を義務付ける必要がありましたが、Dokodemo-Kerjaは従業員にも管理者の双方に手間がかかりません。<br/><br/>
+
+								インドネシアの交通事情を考えると、幸福感を大きくUPする画期的なソリューションだと自負しています。雨が多い時期にだけ週に2回自宅勤務とする、出産前後だけ実家で勤務などの柔軟な勤務方法を許容する、などが可能になる他、オフィスでの勤務者にもDokodemo-Kerjaを導入することで出退勤や休憩時間の管理、過度なビデオやSNSの視聴を防ぐことが可能となります。
 							</p>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -106,20 +119,22 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-6">
 						<div class="title">
-							<span class="blue">Dokodemo-Kerja?</span><br/>
-							<div class="quote">“</div>adalah solusi IT yang mampu mengatasinya.
+							<span class="blue">DOKODEMO-KERJAについて</span><br/>
+							<div class="quote">“</div>リモートワーク（テレワーク）を可能にして、従業員の生産性を向上させ、管理者の管理工数を減らす画期的なクラウドツールです。
 						</div>
 						<br/>
 						<img src="img/dokodemo-kerja/bg-black.png" alt="Apa itu Dokodemo-Kerja?" class="img-responsive"/>
 					</div>
 					<div class="col-md-6 text-justify">
-						<h2 class="title2">Apa Itu <span class="blue">Dokodemo-Kerja?</span></h2>
-						<span class="blue">Dokodemo-Kerja</span> adalah sistem kerja profesional yang dibuat untuk para pekerja independen dan fleksibel, namun tetap ingin lebih dalam hal produktivitas kerja. Sistem kerja ini merupakan solusi terbaik bagi perusahaan agar dapat mengetahui secara detail kinerja dari seluruh karyawannya.<br/><br/>
-						Dengan menggunakan sistem teknologi ini, perusahaan dapat menerapkan sistem kerja remote bagi karyawannya di mana pun dan kapan pun. Karyawan pun dibebaskan dari kejenuhan dan ketatnya suasana kerja dalam kantor.<br/><br/>
-						Selain untuk karyawan dengan sistem <i>remote</i>, <span class="blue">Dokodemo-Kerja</span> ternyata juga dapat Anda pergunakan untuk memantau produktivitas karyawan di kantor. Selain untuk memantau pekerjaan, <span class="blue">Dokodemo-Kerja</span> juga dapat digunakan oleh HR dan Manajer sebagai salah satu syarat untuk menentukan kinerja para karyawan.
+						<span class="blue">Dokodemo-Kerja</span>は、リモートワーク / テレワークにて、フレキシブルに生産性をあげることに集中して効率的に働きたい従業員にも、皆にフェアな機会を与えて、さぼりを抑止したい経営者、人事マネージャーの両者にメリットのある製品・ソリューションです。<br/><br/>
+
+						従業員の使用端末にインストールするだけですぐに利用可能です。クロスプラットフォーム（Windows、Mac、Linuxに対応）で利用可能です。<br/><br/>
+
+						スタッフがいつ、どんな作業をしているのか確認することができます。作業タイプ（タスク種、プロジェクト名）を入力させることで作業時間を集計し管理会計に利用することも可能です。勤務開始時間、休憩時間、終了時間が記録に残りますので、勤務時間不足や逆に働きすぎのコントロールもできます。<br/>
+						スクリーンショットが取ることがスタッフのさぼりの抑止力になります。場所や時間に囚われず、決めた勤務時間中は集中して生産性高く作業する。<span class="blue">Dokodemo-Kerja</span>は現代の働き方をサポートします。
 						<br/><br/><br/>
 						<div class="text-center">
-							<a href="#divForm" class="smooth btn btn-coba">Coba Sekarang</a>
+							<a href="#divForm" class="smooth btn btn-coba">いますぐトライアルを申し込む</a>
 						</div>
 						<br/><br/>
 					</div>
@@ -136,8 +151,7 @@ if(isset($_POST['submitted']))
 							<div class="bg-one-fitur">
 								<div class="one-fitur" style="margin-bottom: 0;">
 									<img src="img/dokodemo-kerja/fitur1.png" class="img-responsive"/>
-									Melacak dan memantau tugas karyawan hanya dalam satu klik.<br/>
-									Dokodemo-kerja mengambil cuplikan layar (screen capture) aktivitas kerja karyawan pada layar perangkat komputernya dalam waktu yang acak (random) dan mengirimnya pada tim manajemen (administrator).
+									ユーザーの作業時間を記録します。ユーザーは開始・終了ボタンをクリックするだけです。併せて作業種、プロジェクト名などを入力させ記録、集計することも可能です。各ユーザーが日別に何時に開始、休憩をどのようにとり、何時まで勤務したのか把握可能です。
 								</div>
 							</div>
 						</div>				
@@ -146,39 +160,35 @@ if(isset($_POST['submitted']))
 				<div class="row" style="margin:0">
 					<div class="col-md-6" style="padding: 0;">
 						<div class="title-fitur anton">
-							<span class="anton">Fitur</span><br/> Dokodemo-Kerja
+							DOKODEMO-KERJA<br/>機能
 						</div>
 						<div class="dengan-fitur">
-							<div class="quote">“</div>Dengan fitur-fitur tersebut, Dokodemo-Kerja dapat menjadi revolusi sistem kerja baru bagi perusahaan dan karyawan Anda. 
+							<div class="quote">“</div>リモートワークをユーザー、管理者、双方にメリットあるように実現することが可能な機能をDOKODEMO-KERJAは提供しています。
 						</div>
 					</div>
 					<div class="col-md-6 one-fitur-btm">
 						<div class="bg-one-fitur visible-sm visible-xs">
 							<div class="one-fitur">
 								<img src="img/dokodemo-kerja/fitur1.png" class="img-responsive"/>
-								Melacak dan memantau tugas karyawan hanya dalam satu klik.<br/>
-								Dokodemo-kerja mengambil cuplikan layar (screen capture) aktivitas kerja karyawan pada layar perangkat komputernya dalam waktu yang acak (random) dan mengirimnya pada tim manajemen (administrator).
+								ユーザーの作業時間を記録します。ユーザーは開始・終了ボタンをクリックするだけです。併せて作業種、プロジェクト名などを入力させ記録、集計することも可能です。各ユーザーが日別に何時に開始、休憩をどのようにとり、何時まで勤務したのか把握可能です。
 							</div>
 						</div>
 						<div class="bg-one-fitur">
 							<div class="one-fitur">
 								<img src="img/dokodemo-kerja/fitur2.png" class="img-responsive"/>
-								Mendapatkan laporan waktu kerja karyawan secara mudah<br/>
-								Mengkalkulasi total jam kerja para karyawan, termasuk penghitungan jam istirahat, secara akurat hanya dengan satu klik secara mudah karena semua berjalan sesuai dengan real time yang dilakukan oleh karyawan.
+								ユーザーは自分の勤務状況を確認できるので、1日の規定労働時間や契約で定められた月の労働時間に達しているか等を確認することができます。
 							</div>
 						</div>
 						<div class="bg-one-fitur">
 							<div class="one-fitur">
 								<img src="img/dokodemo-kerja/fitur3.png" class="img-responsive"/>
-								Mengelola jam kerja karyawan<br/>
-								Mengelola total jam kerja serta proyek atau konten yang dikerjakan oleh karyawan, sehingga mampu membuat perusahaan dapat menentukan target waktu yang bisa dicapai oleh para karyawannya.
+								管理者はユーザーの勤務状況を閲覧可能で、各種集計ができます。規定の勤務時間に不足していないか、働きすぎていないか管理できます。
 							</div>
 						</div>
 						<div class="bg-one-fitur">
 							<div class="one-fitur">
 								<img src="img/dokodemo-kerja/fitur4.png" class="img-responsive"/>
-								Melihat waktu kerja karyawan hanya dalam satu tampilan layar<br/>
-								Menampilkan total jam kerja seluruh karyawan dalam satu tampilan layar, sehingga memudahkan perusahaan untuk menentukan kinerja dari seluruh karyawan yang ada di perusahaannya secara jujur dan transparan.
+								管理者は各ユーザーのスクリーンショットを閲覧できます。スクリーンショットにはタイムスタンプが付いていますので、長時間同じスクリーンのままであったり、業務と関係ないスクリーンがないか管理可能です。スクリーンショットはプライバシーに配慮しており、メールや文書中の文字などは識別できません。
 							</div>
 						</div>
 					</div>
@@ -210,11 +220,12 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-lg-6">
 						<div class="pl-25">
-							<div class="anton title-masalah1">Dokodemo-Kerja</div>
-							<div class="kami-siap">Kami Siap Membantu Anda</div>
+							<div class="anton title-masalah1">DOKODEMO-KERJA</div>
+							<div class="kami-siap">導入メリット</div>
 							<div class="desc-bantu">
 								<div class="quote">“</div>
-								<strong>Dokodemo-Kerja</strong> merupakan solusi sistem kerja yang menguntungkan, baik bagi karyawan maupun perusahaan. Dengan sistem kerja efisien, <strong>Dokodemo-Kerja</strong> bisa membantu perusahaan berkonsentrasi pada peningkatan produktivitas sekaligus memberikan fleksibilitas pada karyawannya.
+								<strong>DOKODEMO-KERJA</strong>はユーザーと管理者の双方にメリットのある働き方を支援するツールです。<br/>
+								管理者のためのツールではありません。<strong>DOKODEMO-KERJA</strong>を導入することにより、ユーザーは自由で柔軟な働き方を実現でき、生産性の向上に繋がります。
 							</div>
 						</div>
 					</div>
@@ -227,10 +238,10 @@ if(isset($_POST['submitted']))
 					<div class="col-lg-offset-6 col-lg-6">
 						<div class="pr-25" style="min-height: 185px;">
 						<br/>
-							<div class="blue2 font18"><strong class="font18">Mengapa harus Dokodemo-Kerja?</strong></div>
 							<ul class="fa-ul">
-								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Mempermudah perusahaan dalam memantau produktivitas karyawan yang bekerja dengan sistem jarak jauh (<i>freelance</i>, <i>sistem remote</i>, dsb).</li>
-								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Membantu karyawan bekerja dengan fleksibel dan lebih produktif tanpa harus meninggalkan rumah.</li>
+								<li><span class="fa-li"><i class="fa fa-circle"></i></span>勤怠管理を容易にします。勤務時間の虚偽報告を防ぐことができ、勤務時間不足や過度な長時間労働を防ぐことができます。</li>
+								<li><span class="fa-li"><i class="fa fa-circle"></i></span>スクリーンショットを確認することで、勤務時間中に業務に関係のないことをしていないか監視できます。</li>
+								<li><span class="fa-li"><i class="fa fa-circle"></i></span>従業員の勤怠管理に非効率な時間を割く必要がなくなります。DOKODEMO-KERJAをチェックするだけでOK。</li>
 							</ul>
 						</div>
 					</div>
@@ -243,9 +254,9 @@ if(isset($_POST['submitted']))
 					<div class="col-lg-6">
 						<div class="pl-25" style="min-height: 169px">
 							<ul class="fa-ul">
-								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Mencegah karyawan mengisi laporan kerja yang tidak sesuai dengan kenyataannya.</li>
-								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Mempermudah pencatatan dan pengelolaan aktivitas dan jam kerja karyawan secara tepat.</li>
-								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Membantu mendorong karyawan untuk lebih bersemangat dalam bekerja dengan fleksibilitas waktu yang dimiliki.</li>
+								<li><span class="fa-li"><i class="fa fa-circle"></i></span>DOKODEMO-KERJAにログインしさえすれば、場所を選ばず勤務開始と終了の報告ができます。</li>
+								<li><span class="fa-li"><i class="fa fa-circle"></i></span>生産性をあげられる時間に、柔軟に勤務することができるようになります。合計時間が規定の時間に達したかどうかを把握可能です。</li>
+								<li><span class="fa-li"><i class="fa fa-circle"></i></span>ある作業に想定以上に時間がかかってしまった場合でも管理者はスクリーンショットからそれを理解可能です。毎日の非効率なレポート工数をなくします。</li>
 							</ul>
 						</div>
 					</div>
@@ -292,10 +303,10 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-1 col-md-10">
 						<img class="img-responsive center-block" src="img/dokodemo-kerja/dokodemo-logo.png" alt="Dokodemo-Kerja Logo"/>
 						<br/>
-						<div class="title anton">Dokodemo-Kerja merupakan solusi yang tepat.</div>
+						<div class="title anton">リモートワークで幸せに生産性高く働きましょう！</div>
 						<hr/>
 						<p>
-							Bagi perusahaan yang sedang mempertimbangkan sistem kerja jarak jauh (freelance, pekerja remote, dsb). Bagi perusahaan yang ingin meningkatkan produktivitas sekaligus kebahagiaan karyawan. Bagi perusahaan yang ingin membatasi penggunaan jam kerja yang tidak efisien, seperti jeda merokok dan istirahat setelah beribadah, menonton video  hiburan yang berlebihan, hingga membuka media sosial pribadi.
+							DOKODEMO-KERJAを導入することで、インドネシアでリモートワークを導入しましょう。交通事情が悪いジャカルタにおいてリモートワークを導入することは従業員の幸福度を向上し、ついては生産性の向上に繋がります。お祈り休憩や喫煙休憩が長い社員がいる、Youtubeをずっと見ている社員がいる、などの問題はセンシティブで解決が難しいですが、これらもDOKODEMO-KERJAの導入で解決します。
 						</p>
 					</div>
 				</div>
@@ -304,8 +315,9 @@ if(isset($_POST['submitted']))
 		
 		<div class="harga" id="price">
 			<div class="container">
-				<div class="title anton">Harga Dokodemo-Kerja</div><br/>
-				<div class="text-center">Dokodemo-Kerja diciptakan bagi perusahaan untuk memantau dan melacak waktu kerja karyawan mereka, para freelancer atau pekerja remote sehingga produktivitas perusahaan meningkat. Berikut ini rincian kategori dari Dokodemo-Kerja. Semua harga paket ini tidak dikenakan biaya tambahan.</div><br/>
+				<div class="title anton">料金</div><br/>
+				<div class="text-center">DOKODEMO-KERJAは初期費用なしで利用可能です。下のプランからご利用用途にあわせてお選びください。
+御社に合わせた特別なカスタマイズも可能ですのでお気軽にご相談ください。</div><br/>
 				<br/>
 				<div class="row">
 					<div class="col-md-4">
@@ -317,13 +329,13 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="plan-list">
 								<ul class="fa-ul">
-									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Pelacakan waktu</li>
-									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Screenshot monitoring</li>
-									<li><span class="fa-li"><i class="fa fa-circle"></i></span>1 tangkapan layar per 10 menit</li>
-									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Screenshot disimpan selama 2 bulan</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>勤務時間計測</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>スクリーンショット保存</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>10分に1スクリーン保存（ランダム）</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>スクリーンショット2ヶ月間保存</li>
 									<li><span class="fa-li"><i class="fa fa-circle"></i></span>
-									Untuk 10 orang pengguna*<br/>
-									<div style="font-size: 12px;color: #da0101;margin-top: 10px;font-style: italic;">Jika lebih dari 10 orang pengguna, maka setiap pengguna dikenakan biaya Rp 50.000/ bulan</div>
+									10ユーザーまで試用可能<br/>
+									<div style="font-size: 12px;color: #da0101;margin-top: 20px;font-style: italic;">＃10ユーザーを超えると1ユーザー月額50,000 IDRが必要になります</div>
 									</li>
 								</ul>
 							</div>
@@ -338,13 +350,13 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="plan-list">
 								<ul class="fa-ul">
-									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Pelacakan waktu</li>
-									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Screenshot monitoring</li>
-									<li><span class="fa-li"><i class="fa fa-circle"></i></span>1 tangkapan layar per menit</li>
-									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Screenshot disimpan selama 6 bulan</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>勤務時間計測</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>スクリーンショット保存</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>毎分1スクリーン保存（ランダム）</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>スクリーンショット6ヶ月間保存</li>
 									<li><span class="fa-li"><i class="fa fa-circle"></i></span>
-									Untuk 10 orang pengguna*<br/>
-									<div style="font-size: 12px;color: #da0101;margin-top: 10px;font-style: italic;">Jika lebih dari 10 orang pengguna, maka setiap pengguna dikenakan biaya Rp 75.000/ bulan</div>
+									10ユーザーまで試用可能<br/>
+									<div style="font-size: 12px;color: #da0101;margin-top: 20px;font-style: italic;">＃10ユーザーを超えると1ユーザー月額75,000 IDRが必要になります</div>
 									</li>
 								</ul>
 							</div>
@@ -356,9 +368,9 @@ if(isset($_POST['submitted']))
 							
 							<div class="text-center heightauto" style="padding:15px;">
 							<div class="valign-center">
-							Silahkan hubungi kami untuk mendapatkan informasi secara detail.
+							様々なカスタマイズでの特別対応が可能です。詳細はお問い合わせください。
 								<div class="text-center">
-									<a href="#divForm" class="smooth btn btn-coba">Hubungi Kami</a>
+									<a href="#divForm" class="smooth btn btn-coba">今すぐ問い合わせる</a>
 								</div>
 							</div>
 							</div>
@@ -384,8 +396,8 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-lg-12">
 						<div class="title text-center">
-							<span class="blue2">Untuk informasi lebih lanjut mengenai </strong>Dokodemo-kerja</strong>, </span><br/>
-							silahkan hubungi kami dengan mengisi form dibawah ini!
+							<span class="blue2">お問い合わせ</span><br/><br/>
+							インドネシアでリモートワークを実現したい会社さま、従業員の勤怠管理にお悩みの人事担当者さま、生産性向上をしたいプロジェクトマネージャーなど、DOKODEMO-KERJAをお試しください。無料試用も可能ですのでお問い合わせください。
 						</div>
 					</div>
 				</div>
@@ -402,52 +414,52 @@ if(isset($_POST['submitted']))
 					<div class="row">
 						<div class="form-group">
 							<div class="col-md-offset-1 col-md-5">
-								<input type="text" class="form-control" name="name" placeholder="Nama" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
+								<input type="text" class="form-control" name="name" placeholder="お名前" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
 							</div>
 							<div class="col-md-5">
-								<input type="text" class="form-control" name="company" placeholder="Perusahaan" value='<?php echo $formproc->SafeDisplay('company') ?>'/>
+								<input type="text" class="form-control" name="company" placeholder="会社名" value='<?php echo $formproc->SafeDisplay('company') ?>'/>
 							</div>
 							<div class="clearfix"></div>
 						</div>
 						<div class="form-group">
 							<div class="col-md-offset-1 col-md-5">
-								<input type="number" class="form-control" name="phone" placeholder="Nomor Ponsel" value='<?php echo $formproc->SafeDisplay('phone') ?>'/>
+								<input type="number" class="form-control" name="phone" placeholder="TEL" value='<?php echo $formproc->SafeDisplay('phone') ?>'/>
 							</div>
 							<div class="col-md-5">
-								<input type="email" class="form-control" name="email" placeholder="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'/>
+								<input type="email" class="form-control" name="email" placeholder="E-mail" value='<?php echo $formproc->SafeDisplay('email') ?>'/>
 							</div>
 							<div class="clearfix"></div>
 						</div>
 						<div class="form-group">
 							<div class="col-md-offset-1 col-md-5">
 								<div style="padding:10px;background:#fff">
-									<span class="blue fw-300">Jenis Kebutuhan yang spesifik</span>
+									<span class="blue fw-300">お問い合わせ種</span>
 									<div class="radiobuttons">
-										<div class="rdio"> <input name="needs" value="Pengenalan Dokodemo-Kerja" id="radio1" type="radio" checked>
-										  <label for="radio1">Tentang pengenalan Dokodemo-Kerja</label>
+										<div class="rdio"> <input name="needs" value="DOKODEMO-KERJAのデモをリクエスト" id="radio1" type="radio" checked>
+										  <label for="radio1">DOKODEMO-KERJAのデモをリクエスト</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="Cara menggunakan Dokodemo-Kerja" id="radio2" type="radio">
-										  <label for="radio2">Tentang cara dan penggunaan Dokodemo-Kerja</label>
+										  <input name="needs" value="DOKODEMO-KERJAを試用したい" id="radio2" type="radio">
+										  <label for="radio2">DOKODEMO-KERJAを試用したい</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="Untuk kerja jarak jauh" id="radio3" type="radio">
-										  <label for="radio3">Tentang sistem kerja jarak jauh</label>
+										  <input name="needs" value="人事管理システムの導入を検討している" id="radio3" type="radio">
+										  <label for="radio3">人事管理システムの導入を検討している</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="Untuk meningkatkan produktivitas karyawan" id="radio4" type="radio">
-										  <label for="radio4">Tentang produktivitas karyawan</label>
+										  <input name="needs" value="採用管理システムの導入を検討している" id="radio4" type="radio">
+										  <label for="radio4">採用管理システムの導入を検討している</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="Untuk kontrol jam kerja karyawan" id="radio5" type="radio">
-										  <label for="radio5">Tentang kontrol jam kerja karyawan</label>
+										  <input name="needs" value="リモートワーク制の導入を考えている" id="radio5" type="radio">
+										  <label for="radio5">リモートワーク制の導入を考えている</label>
 										</div>
 									</div>
 								</div>
 								<br/>
 							</div>
 							<div class="col-md-5">
-								<textarea name="message" class="form-control" placeholder="Deskripsi"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+								<textarea name="message" class="form-control" placeholder="お問い合わせ内容"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -458,13 +470,13 @@ if(isset($_POST['submitted']))
 							<div class="clearfix"></div>
 						</div>
 						<center>
-							<button type="submit" href="#" class="btn btn-coba">Kirim</button>
+							<button type="submit" href="#" class="btn btn-coba">送信</button>
 						</center>
 					</div>
 				</form>
 			</div>
 		</div>
-		<div class="div-faq">
+		<div class="div-faq" style="display:none">
 			<div class="anton title yellow">Pertanyaan yang sering diajukan:</div>
 			<br/>
 			<div class="container">
