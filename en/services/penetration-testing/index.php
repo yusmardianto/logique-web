@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUE menyediakan layanan Penetration testing untuk meningkatkan keamanan sistem atau aplikasi Anda">
+    <meta name="description" content="Website security assessment service | WEB vulnerability assessment by PT LOGIQUE Digital Indonesia. We check and report on 12 crucial items of the assessment. It is a website vulnerability assessment service that can quickly scan the security level of your website.">
 	<meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing , logique">
 	<meta name="author" content="Logique Digital Indonesia">
 	<meta property="og:title" content="Penetration Test | Logique Digital Indonesia">
@@ -12,7 +12,7 @@
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/services/penetration-testing/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUE menyediakan layanan Penetration testing untuk lebih meningkatkan keamanan sistem atau aplikasi Anda">
+	<meta property="og:description" content="Website security assessment service | WEB vulnerability assessment by PT LOGIQUE Digital Indonesia. We check and report on 12 crucial items of the assessment. It is a website vulnerability assessment service that can quickly scan the security level of your website.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Penetration Test | Logique Digital Indonesia</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">	 
