@@ -114,12 +114,12 @@
   </div>
   <div class="col-md-12" style=" padding-top: 2em; ">
     <div class="col-md-6 text-right">
-      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Evaluasi kinerja seluruh karyawan yang menghabiskan cukup banyak waktu</span></div>
+      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Sulit untuk memantau kinerja karyawan dan perkembangan suatu projek</span></div>
       <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
     </div>
     <div class="col-md-6 text-left">
       <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
-      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Sulit untuk mengalkulasikan total jam pengerjaan suatu projek</span></div>
+      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Laporan pekerjaan harian yang dibuat karyawan tidak spesifik dan kurang jelas</span></div>
     </div>
   </div>
   </section>
@@ -203,15 +203,15 @@
           <img src="img/nippo/fitur-3.png">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
-          <p class="Basis-Data-Karyawan">Basis Data Karyawan</p>
-          <p class="NIPPO-system-menyedi">NIPPO system menyediakan fitur untuk mendata daftar karyawan, mulai dari struktur tingkatan atas sampai dengan tingkat struktur paling bawah</p>
+          <p class="Basis-Data-Karyawan">Evaluation</p>
+          <p class="NIPPO-system-menyedi">Manajer dapat melakukan analisa dan evaluasi terhadap kinerja karyawan melalui fitur Manage Roles.</p>
       </div>
       <div class="col-md-2 text-center">
           <img src="img/nippo/fitur-6.png">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
-          <p class="Basis-Data-Karyawan">Kategori dan Tipe Pekerjaan</p>
-          <p class="NIPPO-system-menyedi">Data pekerjaan dapat ditambahkan secara komprehensif sehingga karyawan dapat membuat laportan harian kerja secara spesifik dan jelas</p>
+          <p class="Basis-Data-Karyawan">Tingkatan Pengguna</p>
+          <p class="NIPPO-system-menyedi">Pengaturan tingkatan pengguna sesuai dengan jabatan dan posisi masing - masing.</p>
       </div>
     </div>
   </div>
