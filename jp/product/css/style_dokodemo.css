@@ -40,23 +40,20 @@ p{margin-bottom: 20px;font-size:18px}
 p:last-child{margin-bottom: 0;}
 .anton{font-family: 'Anton', sans-serif;}
 
-header{
-	background:url('../img/dokodemo-kerja/bg-header.png') no-repeat;
-	background-size:cover;
-}
-header p{color:#fff;}
+header{background:#fff;}
+header p{color:#000;}
+.content-header{font-size:18px}
 .height100vh{height:100vh;}
-header .title{font-size:72px;color:#fff;text-align:center;letter-spacing: 2px;text-shadow: 0 4px 3px rgba(2,2,2,0.23);margin-top:10px;padding:0 15px}
+header .title{font-size:45px;color:#000;text-align:center;letter-spacing: 2px;text-shadow: 0 4px 3px rgba(2,2,2,0.23);padding:0 15px}
 .valign-center{top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);position:relative}
-header hr{border-top:5px solid #fff;width:20%}
+header hr{border-top:5px solid #000;width:20%;margin: 30px auto;}
 .bg-black{background:#000;color:#fff;padding:45px 0;line-height: 30px;}
-.bg-black div,
-.bg-black span{font-size:24px;}
+.bg-black div, .bg-black span{font-size:18px;}
 .blue{color:#00aeef;font-weight: 500;}
-.bg-black .title{font-size:36px;font-weight: 100;}
+.bg-black .title{font-size:18px;font-weight: 100;}
 .bg-black .title2{font-size:30px;font-weight: 300;}
 .bg-black .title2 .blue{font-size:30px;}
-.bg-black .title .blue{font-size:48px;font-weight:700;display:block}
+.bg-black .title .blue{font-size:30px;font-weight:700;display:block}
 .btn-coba{font-size:24px;color:#0665a5!important;min-width:350px;background:#fff568;border-radius: 10px;margin-top: 10px;outline:none!important}
 .bg-why{background:url('../img/dokodemo-kerja/why.png') no-repeat;background-size:cover;padding:25px 0}
 .bg-why .title{text-align:right;font-size:24px;color:#000;padding:10px 55px 10px 25px;background:#bae3f5;width:41.66667%}
@@ -77,7 +74,7 @@ header hr{border-top:5px solid #fff;width:20%}
 .div-form{background:#f5f5f5;padding:40px 0}
 .div-form .title{font-size:24px;color:#000}
 .blue2{color:#0072bc}
-.div-form .title .blue2{font-size:24px;font-weight:500;}
+.div-form .title .blue2{font-size:28px;font-weight:500;}
 .radiobuttons{margin-top:15px}
 .fw-300{font-weight:300!important}
 .rdio {
@@ -195,7 +192,7 @@ footer p{padding: 22px 0px;}
 .bg-old-yellow  .bg-one-fitur{background: #edaf1a;}
 .heightauto{height: 427px}
 .div-top{padding:65px 0}
-.navbar-default.navbar-dokdem {width: 100%;background-color:#fff;border: 0;border-bottom: 2px solid #EDB61B;margin-bottom: 0;z-index:1;border-radius: 0;}
+.navbar-default.navbar-dokdem {width: 100%;background-color:#fff;border: 0;border-bottom: 2px solid #edb61b;margin-bottom: 0;z-index:1}
 .navbar-dokdem .navbar-brand {height: auto;padding: 10px 15px;}
 .navbar-dokdem .navbar-brand>img {width: 75px;transition: all 0.5s ease-in-out;}
 .navbar-dokdem .navbar-nav{margin-top: 24px;margin-left: 98px;}
@@ -266,11 +263,11 @@ footer p{padding: 22px 0px;}
 	.valign-center {top: 0;transform: translateY(0%);-webkit-transform: translateY(0%);-ms-transform: translateY(0%);position: relative;}
 	.desc-bantu .quote{margin-bottom: 110px;}
 	.title-fitur {font-size: 45px;padding: 15px;}
-	header .title{font-size:50px;}
-	.dengan-fitur {font-size: 20px;padding-left: 15px;}
+	header .title{font-size:35px;}
+	.dengan-fitur {font-size: 20px;padding-left: 15px;padding-right: 15px;}
 	.one-fitur-btm .one-fitur {margin-bottom: 0;}
 	.one-fitur{margin: 10px 0 0 0;}
-	.btn-coba{min-width: 250px;}
+	.btn-coba{min-width: 250px;font-size: 20px;}
 }
 @media (min-width:991px) {
 	.row-center-md {

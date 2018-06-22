@@ -67,19 +67,17 @@ ga('send', 'pageview');
 				<div class="container">
 					<div class="banner-text">
 						<h1>
-							<span>Anda seorang HRD namun sulit untuk mendapatkan</span><br>
-							<span class="ytext">karyawan yang berkualitas</span> <br>
-							<span>untuk perusahaan Anda?</span>
-
+							<span>Are you facing a challenge</span><br>
+							<span class="ytext">in recruitment activities</span><br>
+							<span>in Indonesia?</span><br>
 						</h1>
 						<div class="banner-subt">
 							<div class="row">
 								<div class="col-md-10">
-									Mari Buat Website Perekrutan Karyawan Anda Sendiri<br><br>
-									Sebuah Website perekrutan karyawan yang efektif dan mempunyai biaya yang rendah! <br><br>
-									Kami sadar dan memahami bahwa menggunakan situs lowongan kerja mempunyai biaya yang mahal serta sulit untuk melakukan pemilihan karyawan yang Anda inginkan.
-									<br><br>
-									Karena itu, mari kita sedikit lebih bijak dengan mengeluarkan biaya yang rendah namun mempunyai efektivitas yang cukup tinggi sehingga membuat waktu Anda sebagai HRD menjadi lebih efisien dengan membuat sebuah website perekrutan karyawan yang sesuai dengan keinginan Anda.
+									It costs so much recruit employees from recruitment agent service<br>
+									and also JobStreet gives you quite rough CVs that consume your time<br>
+									and energy to filter them. Your own recruitment website can be<br>
+									the key to make it effective and efficient!
 								</div>
 							</div>
 						</div>
@@ -91,7 +89,7 @@ ga('send', 'pageview');
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-8">
-								<h2 style="padding-top: 15px;">Kami siap memberikan solusi sesuai keinginan Anda!</h2>
+								<h2 style="padding-top: 15px;">We support your hiring activity utilizing recruitment website</h2>
 							</div>
 							<div class="col-sm-4 text-right">
 								 <a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"" target="_blank"><img class="logo-logique img-responsive" src="images/logo-y-logique.png" alt="" style="float: right; margin-top:10px;"></a>
@@ -104,20 +102,20 @@ ga('send', 'pageview');
 					<div class="container">
 						<div class="problem-content row">
 							<div class="col-md-v col-sm-8">
-								<h3 style="text-align: left;">Masalah-masalah yang seringkali dialami oleh HRD dalam melakukan proses perekrutan karyawan, yaitu:</h3>
+								<h3 style="text-align: left;">If you are an HR staff, you are probably struggling to hire a right person in Jakarta.</h3>
 								 <div class="row">
 								 	
 								 	<div class="col-sm-4">
 								 		<img src="images/img-problem2.png" class="img-responsive" >
-								 		<div>Menggunakan layanan situs pencari kerja namun hasilnya tidak menentu, terkadang jumlah pencari kerja banyak, tapi kualitasnya tidak bagus atau sebaliknya.</div>
+								 		<div>It is quite challenging to get enough candidates, to inform your job vacancy, or to find a recruitment agent service that is not expensive.</div>
 								 	</div>
 								 	<div class="col-sm-4">
 								 		<img src="images/img-problem3.png" class="img-responsive">
-								 		<div>Menggunakan jasa agen penyalur tenaga kerja, tapi harganya sangat mahal dan terkadang kualitas karyawan tidak bagus.</div>
+								 		<div>Hiring a skilled employee from recruitment agents is too expensive for a long-term contract.</div>
 								 	</div>
 								 	<div class="col-sm-4">
 								 		<center><img src="images/img-problem1.png" class="img-responsive"  ></center>
-								 		<div>Tidak mempunyai media untuk memberikan informasi kepada para pelamar kerja tentang informasi rekrutmen sehingga antara efektivitas waktu dan biaya tidak seimbang.</div>
+								 		<div>It takes too much time and cost to filter the massive candidates from JobStreet.</div>
 								 	</div>
 								 </div>
 							 
@@ -130,21 +128,17 @@ ga('send', 'pageview');
 					<div class="arrow-up"></div>
 					<div class="container">
 						
-					<h3><span class="custom-text">Banyak Perusahaan dan HRD yang Menderita dengan Kendala-kendala seperti ini,</span>
-					Karena itu, Logique memberikan solusi pembuatan website karir perusahaan dengan berbagai keuntungan, seperti:
+					<h3><span class="custom-text">There are so many recruiters like you in Indonesia who are facing the same problems. LOGIQUE can help you solve the problems by creating a recruitment website for your company!
 					 </h3>
 					 <div class="row">
 							<div class="col-sm-12">
 					<div class="text-left solution-text">
 					<div class="row">
-						<div class="col-sm-4"> <div>Website karir yang mampu memberikan informasi mengenai budaya, atmosfer serta manfaat bekerja di perusahaan Anda dengan menggunakan media foto dan video yang tidak dimiliki oleh situs layanan pencari kerja.</div></div>
-						<div class="col-sm-4"> <div>Website karir yang dikelola sendiri oleh Anda sehingga Anda dapat memperbarui jenis pekerjaan serta syarat-syarat pelamar yang Anda inginkan dengan bebas sesuai keinginan Anda.</div></div>
-						<div class="col-sm-4"> <div>Anda dapat melakukan screening secara ketat dan otomatis kepada para pelamar yang Anda cari dengan memberikan tes sederhana melalui form aplikasi yang disediakan untuk mencegah perusahaan mendapatkan pekerja dengan kualitas rendah.</div></div>
+						<div class="col-sm-4"> <div>You can appeal your company culture and benefit of working in your company by using photos and videos that cannot be used in recruitment portal site.</div></div>
+						<div class="col-sm-4"> <div>Your website can be effectively found by job seekers who are looking for jobs in their professions by describing your requirements in detail.</div></div>
+						<div class="col-sm-4"> <div>You prevent the applications from candidates that do not match your requirement and can cut your cost for filtering the candidates by clearly describing your requirement and adding a simple test on your recruitment website.</div></div>
 					<div class="col-sm-12">
-						 
-						<center>Kami dapat membuat halaman WEB yang efektif sehingga meningkatkan efektivitas Anda dalam melakukan proses kegiatan rekrutmen lainnya. Selain itu, pada Website karir page tersebut, Anda juga dapat melakukan iklan lowongan kerja secara digital agar mendapatkan lebih banyak kandidat atau mengarahkan halaman situs pencari kerja ke halaman ini sehingga Anda dapat menjelaskan berbagai hal yang tidak dapat dijelaskan di dalam situs pencari kerja tersebut.
-						<br><br>
-						Anda juga dapat menuliskan persyaratan secara detail di halaman website perekrutan dengan menjelaskan secara tegas bahwa “Saya tidak ingin pekerja dengan kriteria seperti di bawah ini” agar mendapatkan pelamar yang sesuai dengan kriteria yang Anda dan perusahaan inginkan.
+						<center>We will utilize the Web technology and make your recruitment activity more effective. It is also possible to lead the candidates to your website utilizing internet ads. You can also describe more about your requirements by adding the link of your website on Jobstreet. You can avoid irrelevant candidates from applying to your job vacancy by telling them exactly who you want.
 			 			 </center>
 					</div>
 					</div>
@@ -156,14 +150,14 @@ ga('send', 'pageview');
 				<img src="images/img-simulation2.png" class="img-responsive " style="width: 100%;">
 				<div class="container">
 					<h2 class="text-center">
-						Mari Kita lihat Simulasi Biaya Perekrutan dibawah ini
+						Let’s simulate the recruitment cost below.
 					</h2>
 					<div class="simul-cont1">
-						<div class="simul-1">Jika Anda ingin merekrut</div>
+						<div class="simul-1">If you want to recruit</div>
 						<div class="simul-2">
 							<img src="images/img-simulation1.png" alt="" class="img-responsive">
-						10 karyawan baru</div>
-						<div class="simul-3">untuk 10 posisi berbeda,</div>
+						10 new employees</div>
+						<div class="simul-3">for 10 different positions,</div>
 					</div>
 					<center>
 						<img src="images/simulation-dot.png" class="img-responsive" style="margin-top: 10px;">
@@ -173,18 +167,18 @@ ga('send', 'pageview');
 					<div class="container">
 					<div class="row">
 						<div class="col-sm-6 simul-2">
-							<center><h4>Melalui Situs Lowongan Kerja</h4></center>
+							<center><h4>Using recruitment portals</h4></center>
 							<img src="images/simulation1.png" class="img-responsive center-block">
 						</div>
 						<div class="visible-xs"><br/><br/></div>
 						<div class="col-sm-6 simul-3">
-							<center><h4>Melalui Agen Penyalur Tenaga Kerja</h4></center>
+							<center><h4>Using recruitment agent services</h4></center>
 							<img src="images/simulation2.png" class="img-responsive center-block">
 						</div>
 					</div>
 					<div class="col-sm-12 simul-description">
 					 <center>
-						Jika pelamar ternyata tidak sesuai dengan kriteria perusahaan, maka biaya serta tenaga yang Anda keluarkan akan menjadi sia-sia. Bahkan bisa saja menimbulkan potensi masalah lain di kemudian hari, seperti pengunduran diri karyawan dalam waktu dekat karena tidak mampu beradaptasi dengan lingkungan kerja sehingga membuat Anda harus mengulang proses rekrutmen karyawan dari awal. Hal ini tentu membuang-buang waktu Anda.
+						Many companies must be facing those problems though they are using both recruitment agents and portal sites. We suggest you to have If in the end the chosen candidate does not match the criteria or culture of your company, then the cost and energy you’re going to spend surely will be a waste. Also, there is a possibility of resignation submission in the near future that makes you need to repeat the recruitment process from the beginning.
 					 </center>
 					</div>
 					</div>
@@ -194,8 +188,8 @@ ga('send', 'pageview');
 					<div class="container">
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2">
-								<h3 class="ytext"><span>Hindari semua hal tersebut dengan membuat sebuah situs web rekrutmen karyawan.
-								 </span>Logique menyediakan layanan pembuatan situs web rekrutmen karyawan untuk mengatasi kesulitan para HRD perusahaan dalam mencari pekerja berkualitas di Indonesia.
+								<h3 class="ytext"><span>Leave it to LOGIQUE to develop your recruitment website!
+								 </span>And your recruitment activities will be much easier and more effective in Indonesia.
 								</h3>
 							</div>
 						</div>
@@ -209,14 +203,14 @@ ga('send', 'pageview');
 							<div class="col-lg-7 col-md-6 col-sm-6 "><img src="images/buble-text.png" class="img-responsive"></div>
 							<div class="col-lg-5 col-md-6 col-sm-6 price-tag">
 								<div class="price-tag-text">
-									<div style="font-size: 30px; font-weight: 900;line-height: 30px">Lebih </div>
-									<div class="big-text"  style="font-size: 60px; font-weight: 900; line-height: 50px">Murah & Efektif</div> 
-									<div class="custom-text" >Mulai dari</div>
+									<div style="font-size: 30px; font-weight: 900;line-height: 30px">Low </div>
+									<div class="big-text"  style="font-size: 60px; font-weight: 900; line-height: 50px">Price</div> 
+									<div class="custom-text" >Starting from:</div>
 									<div style="">
 										<center>
 											<span style="font-size: 16px; vertical-align: middle;">IDR</span>
 											<span class="price-number" style="font-size: 100px; font-weight: 900; vertical-align: middle;line-height: 90px">20</span>
-											<span style="font-size: 32px;vertical-align: middle;font-weight: bold;">Juta</span>
+											<span style="font-size: 32px;vertical-align: middle;font-weight: bold;">M</span>
 										</center>
 									</div>
 								</div>
@@ -245,7 +239,7 @@ ga('send', 'pageview');
 				</div>
 				<div class="text-center forwho-text">
 					<div class="forwho-cont">
-					<div class="container"><h3>Bagi perusahaan yang merasa kesulitan dalam melakukan kegiatan rekrutmen, maka Logique menawarkan solusinya dengan memberikan layanan pembuatan halaman karir perusahaan yang efektif dan bermanfaat bagi perusahaan.
+					<div class="container"><h3>If your company is facing the challenges in recruitment activities in Indonesia, do not hesitate to consult with LOGIQUE. We will support your effective recruitment activities by utilizing your own recruitment website.
 </h3></div>
 					</div>
 				</div>
@@ -257,19 +251,19 @@ ga('send', 'pageview');
 						<div class="col-sm-4">
 							<center>
 								<img src="images/icon-design.png" alt=""  class="img-responsive">
-								<div>Kami memproduksi desain yang bagus sehingga informasi mengenai perusahaan dapat diketahui dengan baik. Selain itu, Anda juga dapat memberikan gambar dan video sesuai kebutuhan serta menjadikan desain website yang responsif untuk digunakan di seluler.</div>
+								<div>We will develop your website with a design that describes your company well. We will use images and videos if necessary and also make your website mobile-friendly.</div>
 							</center>
 						</div>
 						<div class="col-sm-4">
 							<center>
 								<img src="images/icon-seo.png" alt=""  class="img-responsive">
-								<div>Kami menggunakan SEO untuk optimisasi konten. Namun sebelumnya kami akan melakukan wawancara terlebih dahulu dengan Divisi HRD dalam pembuatan konten website. Setelah itu, kami akan membuat konten yang relevan sehingga para kandidat mudah untuk memahaminya.</div>
+								<div>We will plant our SEO technics into your website. We can also interview your HR team and create contents based on it. Our contents are friendly to the candidates, and also to Google.</div>
 							</center>
 						</div>
 						<div class="col-sm-4">
 							<center>
 								<img src="images/icon-complete.png" alt=""  class="img-responsive">
-								<div>Kami akan menerapkan formulir aplikasi yang jika diperlukan dapat dihubungkan dengan sistem kepegawaian perusahaan sehingga antara sistem dengan portal perekrutan dapat terbangun suatu sistem koordinasi yang baik bagi perusahaan.</div>
+								<div>We will develop an inquiry form on your website. As options, we can also integrate your website with your ERP system or recruitment portal website.</div>
 							</center>
 						</div>
 					</div>
@@ -477,7 +471,7 @@ ga('send', 'pageview');
 								<img src="images/sugoisaiyo-logo.png" alt=""  class="img-responsive">
 								<div class="produk">Jalankan proses rekrutmen dengan mudah dan efektif secara online. Kandidat dapat memasukkan data mereka via sistem dan Anda dapat melakukan proses rekrutmen mulai dari pemeriksaan CV, psikotes, tes teknikal, pengaturan jadwal interview, hingga memberikan surat penawaran. Semuanya dapat di monitor dengan mudah melalui satu sistem terintegrasi.</div>
 								<br>
-								<a href="https://www.logique.co.id/produk/sugoi-saiyo.php" class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a>
+								<a href="https://www.logique.co.id/produk/sugoi-saiyo.php" class="btn btn-lg btn-yellow">More Detail...</a>
 							</center>
 						</div>
 						<div class="col-sm-6 ">
@@ -485,7 +479,7 @@ ga('send', 'pageview');
 								<img src="images/dokodemo-logo.png" alt=""  class="img-responsive">
 								<div class="produk">Masalah dan waktu yang kurang efektif ketika karyawan Anda tinggal jauh dari kantor mungkin membuat Anda berpikir untuk menerapkan sistem kerja remote. Namun tentu saja sistem kerja seperti ini dikhawatirkan akan membuat karyawan tidak efisien dalam bekerja. Dengan Dokodemo Kerja, Anda tidak perlu khawatir karena sistem ini akan membantu menciptakan kondisi kerja yang profesional antara perusahaan dan karyawan. Karyawan dapat mencatat waktu mulai, istirahat, dan berhenti kerja untuk perhitungan pembayaran, disisi lain perusahaan juga dapat menerima informasi tambahan berupa screenshot yang diambil pada waktu acak untuk memonitor tingkat efisiensi karyawan.</div>
 								<br>
-								<a href="https://www.logique.co.id/produk/dokodemo-kerja.php" class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a>
+								<a href="https://www.logique.co.id/produk/dokodemo-kerja.php" class="btn btn-lg btn-yellow">More Detail...</a>
 							</center>
 						</div>
 					</div>
@@ -497,7 +491,7 @@ ga('send', 'pageview');
 					<div class="container">
 					<div class="row">
 						<div class="col-md-3 col-sm-4">
-							<h3>HUBUNGI KAMI </h3>
+							<h3>CALL US </h3>
 							<a href="https://www.logique.co.id/" target="_blank"><img src="images/logo-y-logique.png" alt="logo-footer" class="img-responsive"></a>
 							<p>LOGIQUE DIGITAL INDONESIA<br>
 							Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5 
@@ -521,14 +515,14 @@ ga('send', 'pageview');
 								<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 								<fieldset><div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div></fieldset>
 								<fieldset>
-									<input type="text" name="name" id="name" class="input-name form-control"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Nama">
+									<input type="text" name="name" id="name" class="input-name form-control"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Name">
 								</fieldset>
 								<fieldset>
-									<input type="text" name="email" id=" email" class="input-email form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Alamat Email">
+									<input type="text" name="email" id=" email" class="input-email form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Email">
 								</fieldset>
 								<fieldset>
 		 
-									<textarea class="textarea-message form-control" name="message" placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+									<textarea class="textarea-message form-control" name="message" placeholder="Message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</fieldset>
 								<fieldset>
 									 
@@ -538,14 +532,14 @@ ga('send', 'pageview');
 								</fieldset>
 								<fieldset class="text-right">
 							 
-									<button type="submit" class="btn btn-submit submit-button">Kirim</button>
+									<button type="submit" class="btn btn-submit submit-button">Send</button>
 								</fieldset>
 
 							</form>
 
 						</div>
 						<div class="col-md-3">
-							<p style="line-height: 18px; text-align: justify;">Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>
+							<p style="line-height: 18px; text-align: justify;">As a professional team in website development services, LOGIQUE presents the best optimized solution for your business. Not only website development services, LOGIQUE also provides other services such as digital consulting services, application development services, web design, web system development, SEO services, and printing. LOGIQUE conducts detailed structured design for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.</p>
 						</div>
 					</div>
 					</div>
