@@ -48,9 +48,9 @@ header .title{font-size:45px;color:#000;text-align:center;letter-spacing: 2px;te
 .valign-center{top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);position:relative}
 header hr{border-top:5px solid #000;width:20%;margin: 30px auto;}
 .bg-black{background:#000;color:#fff;padding:45px 0;line-height: 30px;}
-.bg-black div, .bg-black span{font-size:23px;}
+.bg-black div, .bg-black span{font-size:18px;}
 .blue{color:#00aeef;font-weight: 500;}
-.bg-black .title{font-size:28px;font-weight: 100;}
+.bg-black .title{font-size:18px;font-weight: 100;}
 .bg-black .title2{font-size:30px;font-weight: 300;}
 .bg-black .title2 .blue{font-size:30px;}
 .bg-black .title .blue{font-size:30px;font-weight:700;display:block}

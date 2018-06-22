@@ -527,7 +527,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		<a href="#" class="scrollToTop" style="display: inline;">Back to Top</a>
+		<a href="#" class="scrollToTop">Back to Top</a>
 		<footer>
 			<div class="container">
 				<div class="row">

@@ -175,6 +175,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Recruitment Website Creation</b><br/>
 										Nowadays, it is getting harder for companies to hire an ideal human resource for their business. To have your own recruitment website is the key to succeed in hiring. It will be the key to tell the visitors about your company, employees, and human resources that you are looking for with clear message (e.g. utilizing interview video).
+										<br><a target="_blank" href="/en/services/pembuatan-website-karir-perusahaan/" class="btn btn-service-link">See More</a>
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
@@ -330,7 +331,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>WEB Security Assesment (Vulnerability Scanning / Test)</b><br/>
 										We test and report the vulnerability of your web-application. With the scanning, you can protect your web-application from being attacked by SQL injection, cross-site scripting, session-jacking, etc. Our expert will conduct the test utilizing scanning tools. We can conduct the vulnerability test and reporting starting from 10,000,000 IDR.
-										<br><a target="_blank" href="/layanan/penetration-testing/" class="btn btn-service-link">See More</a>
+										<br><a target="_blank" href="/en/services/penetration-testing/" class="btn btn-service-link">See More</a>
 									</li>
 								</ol>
 							  </div>
