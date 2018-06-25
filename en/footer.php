@@ -20,6 +20,7 @@ ga('send', 'pageview');
 						<a href="portfolio.php">Portfolio</a><br/><br/>
 						<a href="service.php">Service</a><br/><br/>
 						<a href="joinus.php">Career</a><br/><br/>
+						<a href="/career/">Join Us LOGIQUE</a><br/><br/>
 						<a href="contact.php">Contact Us</a><br/>
 					</div>
 					<div class="col-sm-8 col-xs-7 link-footer">
