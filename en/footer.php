@@ -23,18 +23,21 @@ ga('send', 'pageview');
 						<a href="/career/">Join Us LOGIQUE</a><br/><br/>
 						<a href="contact.php">Contact Us</a><br/>
 					</div>
-					<div class="col-sm-8 col-xs-7 link-footer">
+					<div class="col-sm-5 col-xs-7 link-footer">
 						<div class="footer-title">Our Service</div>
-						<h6><a href="services.php">Web Development</a></h6>
-						<h6><a href="services.php">Mobile App Dev</a></h6>
-						<h6><a href="services.php">Search Engine Optimization</a></h6>
-						<h6><a href="services.php">Web System Development</a></h6>
-						<h6><a href="services.php">Design Creation</a></h6>
-						<h6><a href="services.php">WEB ・SNS Operation</a></h6><br/>
-						
-						<!--<div class="footer-title">Our Product</div>
-						tripkejepang.com<br/>
-						jadiboss.com<br/>-->
+						<h5><a href="services.php">Web Development</a></h5>
+							<h6><a href="http://logiqueweb.local/en/services/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recruitment Website Creation</a></h6>
+							<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
+							<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dentist Website Creation</a></h6>
+						<h5><span style="cursor: default;">Web System Development</span></h5>
+						<h5><a href="http://logiqueweb.local/en/services/pembuatan-aplikasi-mobile/">Mobile App Development</a></h5>
+						<h5><a href="http://logiqueweb.local/en/services/penetration-testing/">WEB Security Assesment (VA Test)</a></h5>
+					</div>
+					<div class="col-sm-3 link-footer">
+						<div class="footer-title">Product</div>
+						<h5><a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a></h5>
+						<h5><span style="cursor: default;">Nippo</span></h5>
+						<h5><a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a></h5>
 					</div>
 				</div>
 				<br/>
