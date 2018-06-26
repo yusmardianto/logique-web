@@ -20,21 +20,25 @@ ga('send', 'pageview');
 						<a href="portfolio.php">制作実績</a><br/><br/>
 						<a href="service.php">サービス</a><br/><br/>
 						<a href="joinus.php">採用/パートナー</a><br/><br/>
+						<a href="/career/">Join Us LOGIQUE</a><br/><br/>
 						<a href="contact.php">お問い合わせ</a><br/>
 					</div>
-					<div class="col-sm-8 col-xs-7 link-footer">
+					<div class="col-sm-5 col-xs-7 link-footer">
 						<div class="footer-title">LOGIQUEのサービス</div>
 						<h6><a href="services.php">WEB制作</a></h6>
-						<h6><a href="services.php">モバイルアプリ開発</a></h6>
-						<h6><a href="services.php">SEO対策</a></h6>
-						<h6><a href="services.php">WEBシステム開発</a></h6>
-						<h6><a href="services.php">デザイン制作</a></h6>
-						<h6><a href="services.php">会社案内・販促物印刷</a></h6>
-						<h6><a href="services.php">WEB・SNS運用</a></h6><br/>
+							<h6><a href="http://logiqueweb.local/jp/services/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 採用サイト制作</a></h6>
+							<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
+							<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dentist Website Creation</a></h6>
+						<h6><span style="cursor: default;">WEBシステム開発</span></h6>
+						<h6><a href="http://logiqueweb.local/jp/services/pembuatan-aplikasi-mobile/">モバイルアプリ開発</a></h6>
+						<h6><a href="http://logiqueweb.local/jp/services/penetration-testing/">WEBセキュリティ診断</a></h6>
 						
-						<!--<div class="footer-title">Our Product</div>
-						tripkejepang.com<br/>
-						jadiboss.com<br/>-->
+					</div>
+					<div class="col-sm-3 link-footer">
+						<div class="footer-title">Product</div>
+						<h5><a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a></h5>
+						<h5><span style="cursor: default;">Nippo</span></h5>
+						<h5><a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a></h5>
 					</div>
 				</div>
 				<br/>

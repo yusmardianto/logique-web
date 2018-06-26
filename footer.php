@@ -12,41 +12,49 @@ ga('send', 'pageview');
 </script>
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-6 col-sm-push-6">
+			<div class="col-sm-7 col-sm-push-5">
 				<div class="row">
-					<div class="col-sm-4 col-xs-5 link-footer-nav">
+					<div class="col-sm-4 link-footer-nav">
 						<a href="/index.php">Beranda</a><br/><br/>
 						<a href="/tentang-kami.php">Tentang Kami</a><br/><br/>
 						<a href="/portofolio.php">Portofolio</a><br/><br/>
 						<a href="/layanan.php">Layanan</a><br/><br/>
-						<a href="/career/">Karir</a><br/><br/>
+						<a href="/karir.php">Karir</a><br/><br/>
+						<a href="/career/">Join Us LOGIQUE</a><br/><br/>
 						<a href="/hubungi-kami.php">Hubungi Kami</a><br/>
 					</div>
-					<div class="col-sm-8 col-xs-7 link-footer">
+					<div class="col-sm-5 link-footer">
 						<div class="footer-title">Layanan Kami</div>
-						<h6><a href="/layanan.php">Jasa Pembuatan Website</a></h6>
-						<h6><a href="/layanan.php">Jasa Pembuatan Aplikasi</a></h6>
-						<h6><a href="/layanan.php">Jasa Desain Web</a></h6>
-						<h6><a href="/layanan.php">Jasa Promosi Online</a></h6>
-						<h6><a href="/layanan.php">Jasa SEO</a></h6>
-						<h6><a href="/layanan.php">Jasa Percetakan</a></h6><br/>
+						<h5><a href="/layanan.php">Jasa Pembuatan Website</a></h5>
+							<h6><a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pembuatan Website Career</a></h6>
+							<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Restoran </a></h6>
+							<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Klinik Gigi </a></h6>
+						<h5><span style="cursor: default;">Jasa Pengembangan Sistem Web</span></h5>
+						<h5><a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank">Pengembangan Aplikasi Mobile </a></h5>
+						<h5><a href="/layanan/penetration-testing/" target="_blank">Pengetesan Keamanan Website (VA Test) </a></h5>
+					</div>
+					<div class="col-sm-3 link-footer">
+						<div class="footer-title">Produk LOGIQUE</div>
+						<h5><a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a></h5>
+						<h5><span style="cursor: default;">Nippo</span></h5>
+						<h5><a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a></h5>
 					</div>
 				</div>
 				<br/>
 			</div>
-			<div class="col-sm-6 col-sm-pull-6">
-			<div itemscope itemtype="http://schema.org/Organization">
-				<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
-				<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-				<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
-				Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span>
-				<br><br>
-				&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
-				<br>
-				&nbsp;&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;081296560380
-				<br><br>
+			<div class="col-sm-5 col-sm-pull-7">
+				<div itemscope itemtype="http://schema.org/Organization">
+					<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
+					<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+					<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
+					Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span>
+					<br><br>
+					&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+					<br>
+					&nbsp;&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;081296560380
+					<br><br>
+					</div>
 				</div>
-			</div>
 				Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan.php"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.
 				<br/><br/>
 				<div itemscope itemtype="http://schema.org/CreativeWork">
