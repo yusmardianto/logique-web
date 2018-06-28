@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Theme Made By www.w3schools.com - No Copyright -->
-  <title>Nippo</title>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="description" content="Sistem Laporan Kerja Karyawan Transparan Dan Fleksibel">
+  <meta name="keywords" content="Nippo, Nippo-Kerja">
+  <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <title>Nippo | Sistem Laporan Kerja Karyawan</title>
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style_nippo.css">
   <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
