@@ -47,11 +47,12 @@
 				<div class="valign-center">
 					<h1>Let’s work hard, enjoy hard, and grow up together!</h1>
 					<p class="content-first">
-						LOGIQUE merupakan perusahaan <i>start-up</i> di bidang IT yang dijalankan oleh tim yang cerdas, inovatif, dinamis, dan bertalenta. Dalam perkembangannya, LOGIQUE selalu menggali potensi anggota-anggota timnya yang tidak hanya berdomisili di Jakarta, namun juga di kota-kota besar lainnya di Indonesia.
+						LOGIQUE merupakan perusahaan <i>start-up</i> di bidang IT yang dibangun oleh tim yang cerdas, inovatif, dinamis, dan bertalenta. Dalam perkembangannya, LOGIQUE selalu menggali potensi anggota-anggota timnya yang tidak hanya berdomisili di Jakarta, namun juga kota-kota besar lainnya di Indonesia. Baru-baru ini, LOGIQUE telah membuka kantor cabang di Jetis, <b>Yogyakarta</b>. Kota ini dipilih karena LOGIQUE yakin, Yogyakarta memiliki potensi akan perkembangan para programmer-nya yang handal.<br>
+						Maka dari itu, LOGIQUE membuka kesempatan bagi Anda di <b>Yogyakarta</b> yang memiliki kompetisi di bidang IT untuk bergabung dan berkembang bersama LOGIQUE. 
 						<br><br>
-						Baru-baru ini, LOGIQUE telah membuka kantor cabang di Jetis, <b>Yogyakarta</b>. LOGIQUE yakin, kota ini memiliki potensi akan perkembangan sumber dayanya yang handal.
-						<br><br>
-						Maka dari itu, LOGIQUE tidak hanya membuka kesempatan bagi Anda yang berdomisili di <b>Jakarta</b>, namun juga di <b>Yogyakarta</b> untuk bergabung dan berkembang bersama LOGIQUE. 
+						Selain itu, LOGIQUE juga mengikuti tren kerja masa kini, yaitu Remote Worker atau Telework. Tren kerja ini memungkinkan Anda untuk bekerja tanpa harus terpaku dengan waktu yang monoton seperti para pekerja pada umumnya. Sistem kerja ini memungkinkan Anda untuk melakukan pekerjaan kapan pun dan dimana pun yang Anda sukai. 
+						<br>
+						Jika Anda berminat untuk bekerja di LOGIQUE, kami membuka lowongan kerja remote bagi Anda yang senang dengan sistem kerja tersebut untuk bergabung dan mengembangkan diri Anda bersama kami. Lowongan kerja menggunakan sistem remote ini tidak hanya berlaku untuk wilayah Jakarta dan Yogyakarta saja, namun berlaku untuk seluruh wilayah yang ada di Indonesia bahkan mancanegara.
 					</p>
 					<br/>
 					<div class="div-black-career">
@@ -96,11 +97,13 @@
 				<div class="col-md-6">
 					<div class="col-benefit benefit-col-1">
 						<div class="valign-center">
-							<span class="title-benefit-col-1">Keuntungan bekerja di LOGIQUE :</span>
+							<span class="title-benefit-col-1">Keuntungan Bekerja di LOGIQUE :</span>
 							<p class="content-benefit-col-1">
-								LOGIQUE adalah perusahaan jasa pengembang web dan sistem web yang dipimpin oleh pendiri berkewarganegaraan Jepang di Indonesia. Sebagian besar klien kami juga berada di level internasional. Ini membuat atmosfer kerja kami juga ikut berstandar global dan sangat multikultural. Akan ada banyak pengalaman berharga yang bisa Anda dapatkan dari suasana kerja dinamis di LOGIQUE, termasuk pengalaman bekerja di perusahaan asing.
+								LOGIQUE adalah perusahaan jasa pengembang web dan sistem web yang dipimpin oleh pendiri yang berkewarganegaraan Jepang di Indonesia. Karena klien kami sebagian besar di level internasional, atmosfer kerja kami juga ikut berstandar global dan sangat multikultural. Akan ada banyak pengalaman berharga yang Anda dapatkan dari suasana kerja dinamis di LOGIQUE.
 								<br><br>
-								Selain itu, banyak sekali kesempatan untuk peningkatan karir sebagai Web Developer, Web Designer, PHP Programmer, Technical Consultant, ataupun Project Manager. Kami biasa mengerjakan proyek dengan permintaan standar yang tinggi dari klien. Tantangan inilah yang akan mengasah dan meningkatkan kemampuan Anda ke level selanjutnya. 
+								Selain itu, banyak sekali kesempatan dalam peningkatan karir sebagai Web Developer, Web Designer, PHP Programmer, Technical Consultant, ataupun Project Manager. Kami biasa mengerjakan proyek dengan permintaan standar yang tinggi dari klien. Tantangan inilah yang akan mengasah dan meningkatkan kemampuan Anda ke level selanjutnya. Jika Anda menyukai sistem kerja fleksibel sebagai remote worker, maka LOGIQUE membuka lowongan kerja remote programmer, lowongan kerja remote php programmer dan lowongan kerja remote web developer.
+								<br><br>
+								Sistem kerja remote yang kami tawarkan ini berlaku bagi seluruh wilayah Indonesia dan mancanegara yang berminat untuk bergabung bersama kami.
 							</p>
 							<div class="text-center">
 								<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
@@ -116,7 +119,7 @@
 							<div class="col-sm-4 col-xs-6">
 								<div class="content-benefits">
 									<div class="valign-center great-view">
-										<img src="../img/benefits1.png" alt="Great View"/>
+										<img src="../img/benefits1.png" alt="Great View" style="float:right;"/>
 										Kantor baru dengan <br/><span>suasana kerja yang nyaman</span>
 									</div>
 								</div>
@@ -124,7 +127,7 @@
 							<div class="col-sm-4 col-xs-6">
 								<div class="content-benefits casual-wear">
 										<img src="../img/benefits8.png" alt="Casual Wear" class="pull-right">
-										Bekerja dengan <br><span>pakaian yang santai, bebas, dan sopan</span>
+										Bekerja dengan <br><span>pakaian yang santai dan sesuka Anda</span>
 								</div>
 							</div>
 							<div class="col-sm-4 col-xs-6">
@@ -166,16 +169,17 @@
 								<div class="content-benefits language-indonesia">
 									<div class="valign-center text-center">
 										<img src="../img/multi.png" alt="multicultural" class="img-responsive center-block"/>
-										Lingkungan kerja yang<br/>
-										<span>multikultural</span>
+										Menggali potensi<br/>
+										<span>yang anda miliki</span>
 									</div>
 								</div>
 							</div>
 							<div class="col-sm-4 col-xs-6">
 								<div class="content-benefits many-fields">
 									<div class="valign-center">
-										<img src="../img/benefits6.png" alt="Many Fields"/>
-										<p>bersama-sama <span>menggali potensi yang Anda miliki</span></p>
+										<img src="../img/benefits6.png" alt="Many Fields" style="margin:auto;padding:10px;"/>
+										Dapat bekerja dengan <span>sistem remote</span>
+										<small>dimana pun & kapan pun waktu yang Anda miliki.</small>
 									</div>
 								</div>
 							</div>
@@ -203,16 +207,16 @@
 			<div class="container">
 				<!--<div class="title text-center">Pengenalan Terkait Peraturan Internal</div>-->
 				<div class="row no-gap" style="padding: 0 15px;">
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<img alt="Pertumbuhan Karir" src="../img/growth.jpg"/>
 						<div class="subtitle text-center">Pertumbuhan Karir</div>
 						<p>
 							Jika Anda memiliki kemampuan yang lebih dari sesama rekan kerja di posisi yang sama, LOGIQUE tidak akan ragu mempromosikan Anda ke posisi yang lebih tinggi sesuai dengan kemampuan dan minat Anda.
 							<br><br>
-							LOGIQUE tidak mendiskriminasi karyawan baru atau lama untuk diberikan promosi. Promosi terbuka untuk siapa saja dengan kemampuan yang lebih. 
+							LOGIQUE tidak mendiskriminasi karyawan baru atau lama untuk diberikan promosi. Promosi terbuka untuk siapa saja yang mempunyai kemampuan lebih.
 						</p>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<img alt="Monthly Evaluation" src="../img/bonus.jpg"/>
 						<div class="subtitle text-center">Bonus</div>
 						<p>
@@ -224,15 +228,22 @@
 
 						</p>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<img alt="Working Hours" src="../img/fleksibilitas.jpg"/>
-						<div class="subtitle text-center">Fleksibilitas</div>
+						<div class="subtitle text-center">Fleksibilitas Waktu Kerja</div>
 						<p>
 							Jika Anda mempunyai kebutuhan khusus, seperti seorang Ibu yang harus mengasuh anak, LOGIQUE memberikan fleksibilitas kepada Anda untuk bekerja dari rumah secara <i>remote</i> dengan waktu yang telah disepakati bersama.
 							<br><br>
 							Bagi Anda yang bekerja di kantor, LOGIQUE juga membebaskan Anda untuk memilih jam masuk kerja antara jam 8-10 pagi pada Senin-Jum’at. 
 						</p>
-					</div>					
+					</div>
+					<div class="col-md-3">
+						<img alt="Working Hours" src="../img/bg-benefit1.png"/>
+						<div class="subtitle text-center">Sistem Kerja Remote</div>
+						<p>
+							LOGIQUE mengikuti tren pekerjaan masa kini, yaitu sistem kerja remote. Dimana Anda dapat menentukan waktu kerja dimana pun dan kapan pun Anda inginkan sesuai dengan kesepakatan bersama sehingga Anda tetap dapat mencari penghasilan secara optimal meskipun Anda berada di rumah, di café atau dimana pun Anda berada, baik di Indonesia atau mancanegara. 
+						</p>
+					</div>						
 				</div>
 				<div class="text-center">
 					<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
