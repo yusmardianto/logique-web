@@ -195,15 +195,11 @@
 					<div class="title"><b>Director’s</b><span class="yellow">Profile&amp;Message</span></div>
 					<div class="form-container">
 						<img src="/img/yoshi.jpg" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
-						Lahir di Tokyo, Jepang, pada 1976. Pada 1999, ia lulus dari Departemen Teknik Sistem Manajemen, Waseda University. Ia memiliki banyak pengalaman dimulai di Japan Research Institute, Inc., perusahaan konsultan CRM, dan lain-lain. Hingga pada 2005, ia akhirnya membangun sendiri bisnis e-commerce, perusahaan perdagangan impor, dan perusahaan konsultan di Jepang. Ia membangun dan masih menjalankan perusahaan ini di Indonesia sejak 2012.
-						<br/><br/>
-						Nama LOGIQUE berasal dari kata Indonesia "logika-ku", yang berarti "logika saya". Idenya adalah bahwa saya ingin mencapai tujuan kami dengan kekuatan keyakinan, kepercayaan, dan yang paling penting logika kami. Kami akan memaksimalkan manfaat dan kepuasan jangka menengah dan panjang dari Anda dan kami sendiri, meskipun kami berada di Asia Tenggara, wilayah yang dinamis dan bisa berkembang setiap hari.
-						<br/><br/>
-						Sejak 2012, kami telah membimbing klien kami di bidang WEB, SI, dan pemasaran digital di Indonesia dengan memanfaatkan teknologi IT dan web. Penjualan kami pun terus meningkat setiap tahunnya. Pada bulan April 2018, kami bahkan telah membuka pusat developer di Yogyakarta dan kami akan mulai mengoperasikan pusat developer lainnya di tahun ini juga.
-						<br/><br/>
-						Dalam rangka ikut berkontribusi pada lingkungan sosial di Indonesia, kami terus berupaya untuk menyatukan sistem kerja fleksibel, seperti kerja secara remote, atau dengan jam kerja yang singkat, sehingga kita semua dapat bekerja secara efisien dan senang hati.
-						<br/><br/>
-						Kami juga berencana untuk membagikan dan memberikan produk dan layanan yang telah kami coba dan kembangan sendiri agar bisa mengoperasikan bisnis kami secara efisien dan senang hati, seperti yang saya katakan sebelumnya. Saya sangat senang jika bisnis kami bisa memberikan kontribusi positif, baik untuk Indonesia, untuk kepuasan klien kami, maupun untuk perkembangan diri kami.
+						Born in Tokyo, Japan, in 1976. In 1999, he graduated from Department of Management Science, Waseda University in Tokyo. He has a plenty of experiences starting at Japan Research Institute, Inc., CRM consulting firm, etc. Until 2005, he had founded his own e-commerce business, import trading company, and consulting firm in Japan. He founded and has been operating this company in Indonesia since 2012.<br/><br/>
+						The name “LOGIQUE” is derived from the Indonesian word logika-ku, which means “our logic”. The idea is that I want to accomplish our goals with our solid faith, believes, and most importantly our logic. We will maximize the mid and long term benefits and satisfactions of both of yours and ours even though we are in Southeast Asia which has being dramatically changing every day.<br/><br/>
+						Since 2012, we have been leading our clients in WEB, SI, and digital marketing fields in Indonesia by utilizing the technologies of IT and web. Gladly our sales have been continuously growing every year. In April 2018, we opened a development center in Yogyakarta and we will start operating another development center as well later in 2018. <br/><br/>
+						To contribute to the social environment in Indonesia, we are constantly striving to incorporate flexible working styles such as remote working, or short working hours, so that everyone can work efficiently and happily. <br/><br/>
+						We are also planning to share and provide the services that we tried & products that we developed for our own company to operate our business with efficiency and happiness as I said earlier. I am more than happy if our business can contribute to Indonesia, to our clients’ satisfactions, and to the growth of ourselves.
 					</div>
 					
 					<div class="got-project">
