@@ -45,7 +45,7 @@
 			</div>
 			<div class="box-home-career col-md-offset-2 col-md-8">
 				<div class="valign-center">
-					<h1>Let’s work hard, enjoy hard, and grow up together!</h1>
+					<h1>Let’s work hard, enjoy hard and grow up together!</h1>
 					<p class="content-first">
 						LOGIQUE merupakan perusahaan <i>start-up</i> di bidang IT yang dibangun oleh tim yang cerdas, inovatif, dinamis, dan bertalenta. Dalam perkembangannya, LOGIQUE selalu menggali potensi anggota-anggota timnya yang tidak hanya berdomisili di Jakarta, namun juga kota-kota besar lainnya di Indonesia. Baru-baru ini, LOGIQUE telah membuka kantor cabang di Jetis, <b>Yogyakarta</b>. Kota ini dipilih karena LOGIQUE yakin, Yogyakarta memiliki potensi akan perkembangan para programmer-nya yang handal.<br>
 						Maka dari itu, LOGIQUE membuka kesempatan bagi Anda di <b>Yogyakarta</b> yang memiliki kompetisi di bidang IT untuk bergabung dan berkembang bersama LOGIQUE. 
@@ -177,7 +177,7 @@
 							<div class="col-sm-4 col-xs-6">
 								<div class="content-benefits many-fields">
 									<div class="valign-center">
-										<img src="../img/benefits6.png" alt="Many Fields" style="margin:auto;padding:10px;"/>
+										<img src="../img/icon-jamkerja.png" alt="Many Fields" style="margin:auto;"/>
 										Dapat bekerja dengan <span>sistem remote</span>
 										<small>dimana pun & kapan pun waktu yang Anda miliki.</small>
 									</div>
@@ -238,7 +238,7 @@
 						</p>
 					</div>
 					<div class="col-md-3">
-						<img alt="Working Hours" src="../img/bg-benefit1.png"/>
+						<img alt="Working Hours" src="../img/bonus.jpg"/>
 						<div class="subtitle text-center">Sistem Kerja Remote</div>
 						<p>
 							LOGIQUE mengikuti tren pekerjaan masa kini, yaitu sistem kerja remote. Dimana Anda dapat menentukan waktu kerja dimana pun dan kapan pun Anda inginkan sesuai dengan kesepakatan bersama sehingga Anda tetap dapat mencari penghasilan secara optimal meskipun Anda berada di rumah, di café atau dimana pun Anda berada, baik di Indonesia atau mancanegara. 
