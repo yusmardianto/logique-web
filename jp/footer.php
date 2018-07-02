@@ -37,7 +37,7 @@ ga('send', 'pageview');
 					<div class="col-sm-3 link-footer">
 						<div class="footer-title">Product</div>
 						<h5><a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a></h5>
-						<h5><span style="cursor: default;">Nippo</span></h5>
+						<h5><a href="/produk/nippo.php" target="_blank">Nippo</a></h5>
 						<h5><a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a></h5>
 					</div>
 				</div>
