@@ -234,9 +234,7 @@
 						<img alt="Working Hours" src="../img/fleksibilitas.jpg"/>
 						<div class="subtitle text-center">Fleksibilitas Waktu Kerja</div>
 						<p>
-							Jika Anda mempunyai kebutuhan khusus, seperti seorang Ibu yang harus mengasuh anak, LOGIQUE memberikan fleksibilitas kepada Anda untuk bekerja dari rumah secara <i>remote</i> dengan waktu yang telah disepakati bersama.
-							<br><br>
-							Bagi Anda yang bekerja di kantor, LOGIQUE juga membebaskan Anda untuk memilih jam masuk kerja antara jam 8-10 pagi pada Senin-Jum’at. 
+							Bagi Anda yang ingin bekerja di kantor, LOGIQUE juga memberikan Anda kebebasan dalam memilih jam masuk kerja antara jam 8-10 pagi mulai dari Senin-Jum’at. Fleksibilitas waktu kerja ini memungkinkan Anda untuk dapat meluangkan sedikit waktu bersama dengan keluarga Anda atau mempersiapkan diri untuk bekerja tanpa perlu takut terjebak padatnya lalu lintas yang menyebabkan Anda terlambat masuk kantor.
 						</p>
 					</div>					
 				</div>
