@@ -44,14 +44,16 @@
 				<div><img src="../img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"/><br/>CAREER</div>
 			</div>
 			<div class="box-home-career col-md-offset-2 col-md-8">
-				<div class="valign-center">
+				<div class="div-begin">
 					<h1>Let’s work hard, enjoy hard and grow up together!</h1>
 					<p class="content-first">
-						LOGIQUE merupakan perusahaan <i>start-up</i> di bidang IT yang dibangun oleh tim yang cerdas, inovatif, dinamis, dan bertalenta. Dalam perkembangannya, LOGIQUE selalu menggali potensi anggota-anggota timnya yang tidak hanya berdomisili di Jakarta, namun juga kota-kota besar lainnya di Indonesia. Baru-baru ini, LOGIQUE telah membuka kantor cabang di Jetis, <b>Yogyakarta</b>. Kota ini dipilih karena LOGIQUE yakin, Yogyakarta memiliki potensi akan perkembangan para programmer-nya yang handal.<br>
+						LOGIQUE merupakan perusahaan <i>start-up</i> di bidang IT yang dibangun oleh tim yang cerdas, inovatif, dinamis, dan bertalenta. Dalam perkembangannya, LOGIQUE selalu menggali potensi anggota-anggota timnya yang tidak hanya berdomisili di Jakarta, namun juga kota-kota besar lainnya di Indonesia. 
+						<br><br>
+						Baru-baru ini, LOGIQUE telah membuka kantor cabang di Jetis, <b>Yogyakarta</b>. Kota ini dipilih karena LOGIQUE yakin, Yogyakarta memiliki potensi akan perkembangan para programmer-nya yang handal.<br><br>
 						Maka dari itu, LOGIQUE membuka kesempatan bagi Anda di <b>Yogyakarta</b> yang memiliki kompetisi di bidang IT untuk bergabung dan berkembang bersama LOGIQUE. 
 						<br><br>
 						Selain itu, LOGIQUE juga mengikuti tren kerja masa kini, yaitu Remote Worker atau Telework. Tren kerja ini memungkinkan Anda untuk bekerja tanpa harus terpaku dengan waktu yang monoton seperti para pekerja pada umumnya. Sistem kerja ini memungkinkan Anda untuk melakukan pekerjaan kapan pun dan dimana pun yang Anda sukai. 
-						<br>
+						<br><br>
 						Jika Anda berminat untuk bekerja di LOGIQUE, kami membuka lowongan kerja remote bagi Anda yang senang dengan sistem kerja tersebut untuk bergabung dan mengembangkan diri Anda bersama kami. Lowongan kerja menggunakan sistem remote ini tidak hanya berlaku untuk wilayah Jakarta dan Yogyakarta saja, namun berlaku untuk seluruh wilayah yang ada di Indonesia bahkan mancanegara.
 					</p>
 					<br/>
@@ -106,7 +108,7 @@
 								Sistem kerja remote yang kami tawarkan ini berlaku bagi seluruh wilayah Indonesia dan mancanegara yang berminat untuk bergabung bersama kami.
 							</p>
 							<div class="text-center">
-								<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+								<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="margin-top:0">
 									Apply
 								</a>
 							</div>
@@ -151,8 +153,8 @@
 								<div class="content-benefits growing-company">
 									<div class="valign-center text-right">
 										<img src="../img/benefits3.png" alt="Growing Company"/>
-										bekerja di<br/>
-										<span>perusahaan<br/>internasional</span>
+										lingkungan kerja <br/>
+										<span>Multikultural</span>
 									</div>
 								</div>
 							</div>
@@ -203,11 +205,11 @@
 			</div>
 		</section>
 		
-		<section id="internal-rules" class="jumptarget">
+		<section id="internal-rules">
 			<div class="container">
 				<!--<div class="title text-center">Pengenalan Terkait Peraturan Internal</div>-->
 				<div class="row no-gap" style="padding: 0 15px;">
-					<div class="col-md-3">
+					<div class="col-md-4">
 						<img alt="Pertumbuhan Karir" src="../img/growth.jpg"/>
 						<div class="subtitle text-center">Pertumbuhan Karir</div>
 						<p>
@@ -216,7 +218,7 @@
 							LOGIQUE tidak mendiskriminasi karyawan baru atau lama untuk diberikan promosi. Promosi terbuka untuk siapa saja yang mempunyai kemampuan lebih.
 						</p>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-4">
 						<img alt="Monthly Evaluation" src="../img/bonus.jpg"/>
 						<div class="subtitle text-center">Bonus</div>
 						<p>
@@ -228,7 +230,7 @@
 
 						</p>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-4">
 						<img alt="Working Hours" src="../img/fleksibilitas.jpg"/>
 						<div class="subtitle text-center">Fleksibilitas Waktu Kerja</div>
 						<p>
@@ -236,17 +238,18 @@
 							<br><br>
 							Bagi Anda yang bekerja di kantor, LOGIQUE juga membebaskan Anda untuk memilih jam masuk kerja antara jam 8-10 pagi pada Senin-Jum’at. 
 						</p>
-					</div>
-					<div class="col-md-3">
-						<img alt="Working Hours" src="../img/bonus.jpg"/>
+					</div>					
+				</div>
+				<div class="row no-gap" style="padding: 0 15px;">
+					<div class="col-md-8 col-md-offset-2">
 						<div class="subtitle text-center">Sistem Kerja Remote</div>
 						<p>
 							LOGIQUE mengikuti tren pekerjaan masa kini, yaitu sistem kerja remote. Dimana Anda dapat menentukan waktu kerja dimana pun dan kapan pun Anda inginkan sesuai dengan kesepakatan bersama sehingga Anda tetap dapat mencari penghasilan secara optimal meskipun Anda berada di rumah, di café atau dimana pun Anda berada, baik di Indonesia atau mancanegara. 
 						</p>
-					</div>						
+					</div>			
 				</div>
 				<div class="text-center">
-					<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+					<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 						Apply
 					</a>
 				</div>			
@@ -383,7 +386,7 @@
 							<li>Bertanggung jawab dalam memastikan dan merilis dokumentasi perangkat lunak dalam keadaan yang tepat, dipasang dengan benar dan dijalankan dengan kualitas yang baik.</li>
 							<li>Bertanggung jawab untuk membuat dan melaksanakan pengujian regresi dan pelaksanaan pembuatan aplikasi.</li>
 						</ul>
-						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Quality Assurance
 						</a>
 					</div>
@@ -425,7 +428,7 @@
 							<li>Menganalisa masalah dan memberikan solusi dari sisi teknis.</li>
 							<li>Menyelesaikan pekerjaan atau tugas lain yang diberikan.</li>
 						</ul>
-						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Web Developer
 						</a>
 					</div>
@@ -472,7 +475,7 @@
 							<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>
 							<li>Menghasilkan laporan.</li>
 						</ul>
-						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Technical Consultant
 						</a>
 					</div>
@@ -519,7 +522,7 @@
 							<li>Meneliti dan menyarankan produk, aplikasi, dan protokol seluler baru.</li>
 							<li>Tetap up-to-date dengan tren teknologi baru.</li>
 						</ul>
-						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Mobile App Developer
 						</a>
 					</div>
@@ -563,7 +566,7 @@
 							<li>Mengidentifikasi kebutuhan dan kesenjangan pelanggan dalam konten kami dan rekomendasikan topik baru.</li>
 							<li>Up to date untuk konten situs web sesuai kebutuhan.</li>
 						</ul>
-						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Content Writer
 						</a>
 					</div>
@@ -603,7 +606,7 @@
 							<li>Mampu berpikir logis dan tegas dalam mengambil tindakan.</li>
 							<li>Memiliki pengetahuan tentang pemasaran digital dan keingintahuan yang tinggi akan hal-hal baru.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Project Manager
 						</a>
 					</div>
@@ -635,7 +638,7 @@
 						<ul class="joinus-ul">
 							<li>Memiliki kemampuan untuk menggunakan software desain (Photoshop, Illustrator, dll).</li>
 						</ul>
-						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Designer
 						</a>
 					</div>
@@ -716,7 +719,7 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Web Developer
 						</a>
 					</div>
@@ -748,7 +751,7 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Content Writer
 						</a>
 					</div>
@@ -783,7 +786,7 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for UI/UX Designer
 						</a>
 					</div>
@@ -815,7 +818,7 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Front End Developer
 						</a>
 					</div>
@@ -853,7 +856,7 @@
 							<li>Terlibat dalam pengelolaan dan pembaharuan dokumen dalam lingkup HR (peraturan perusahaan, surat kontrak untuk karyawan baru, dan surat penawaran kerja untuk kandidat).</li>
 							<li>Membantu melaksanakan tugas-tugas departemen GA.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');">
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for HR/GA
 						</a>
 					</div>
@@ -868,7 +871,7 @@
 			<div>Jika Anda memenuhi kriteria salah satu posisi yang kami butuhkan, segera kirim CV beserta portofolio terbaik Anda 
 			<br/>dengan cara klik tombol di bawah ini !</div>
 			<div>
-				<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" style="margin-bottom: 50px;">
+				<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" style="margin-bottom: 50px;" target="_blank">
 					Apply
 				</a>
 			</div>
