@@ -99,7 +99,7 @@
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
-						<div class="lang-logo" style="position:relative">
+						<div class="lang-logo" style="position:relative;z-index:1">
 							<ul class="list-inline">
 								<li class="active"><a href="#">EN</a></li>
 								<li><a href="../index.php">ID</a></li>

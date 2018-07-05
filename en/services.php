@@ -581,12 +581,18 @@
 						<span>If you need help for:</span><br/>
 						<div class="list-on-services">
 							<ul class="fa-ul">
-								<li><i class="fa-li fa fa-check"></i> Developing a website</li>
-								<li><i class="fa-li fa fa-check"></i> Renewing / updating your website</li>
-								<li><i class="fa-li fa fa-check"></i> Developing campaign page / landing page</li>
-								<li><i class="fa-li fa fa-check"></i> Outsourcing for your website operation </li>
-								<li><i class="fa-li fa fa-check"></i> Looking for web server to rent and a company to maintain it.</li>
-								<li><i class="fa-li fa fa-check"></i> etc.</li>
+								<li><i class="fa-li fa fa-check"></i> creating and/or operating a homepage</li>
+								<li><i class="fa-li fa fa-check"></i> rebuilding and optimizing it for mobile/smartphones</li>
+								<li><i class="fa-li fa fa-check"></i> developing Android/iOS apps</li>
+								<li><i class="fa-li fa fa-check"></i> operating an in-house management system </li>
+								<li><i class="fa-li fa fa-check"></i> managing IT infrastructures</li>
+								<li><i class="fa-li fa fa-check"></i> auditing an IT security, but it was structured from Japan</li>
+								<li><i class="fa-li fa fa-check"></i> raising awareness for my company/brand by digital marketing</li>
+								<li><i class="fa-li fa fa-check"></i> achieving internet targets by advertising online advertisements</li>
+								<li><i class="fa-li fa fa-check"></i> designing and printing my promotional materials to be distributed at the exhibition</li>
+								<li><i class="fa-li fa fa-check"></i> outsourcing the operation of SNS (Facebook, Instagram, Youtube)</li>
+								<li><i class="fa-li fa fa-check"></i> renewing and updating the contents and operations of my website</li>
+								<li><i class="fa-li fa fa-check"></i> providing inquiries by online chat bot</li>
 							</ul>
 						</div>
 						LOGIQUE is ready to help you.

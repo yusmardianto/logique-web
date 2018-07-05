@@ -241,7 +241,7 @@
 								</a>
 							</div>
 							<div class="col-sm-4">
-								<a href="http://frangipanibalispa.com/" target="_blank">
+								<a href="http://frangipanibalispa.com/contact.php" target="_blank">
 									<img src="/img/portfolio/frangipani.png" class="img-responsive center-block">
 									Frangipani<br><br>
 								</a>
@@ -420,7 +420,7 @@
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/60jpid-sosmed.png" class="img-responsive center-block">
-								60th years Anivesisary Japan Indonesia Relationship - 60jpid<br><br>
+								60th years Anniversary Japan Indonesia Relationship - 60jpid<br><br>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/otomartfb.png" class="img-responsive center-block">

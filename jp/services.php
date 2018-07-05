@@ -577,14 +577,18 @@
 						<span style="font-size:30px;">WEB・システム関連でお困りのことがあれば、</span><br/>
 						<div class="list-on-services" >
 							<ul class="fa-ul">
-								<li><i class="fa-li fa fa-check"></i> WEBサイトを作って運用する必要があるが、どうすれば良いか分からない。</li>
-								<li><i class="fa-li fa fa-check"></i> モバイル最適化されたWEBに変更したい。</li>
+								<li><i class="fa-li fa fa-check"></i> ホームページを作って運用する必要があるが、どうすれば良いか分からない。</li>
+								<li><i class="fa-li fa fa-check"></i> スマホ、携帯に最適化されたWEBサイトに作り直したい。</li>
+								<li><i class="fa-li fa fa-check"></i> アンドロイドApp / iOSアプリを開発したい。</li>
 								<li><i class="fa-li fa fa-check"></i> 社内管理システムが必要だがIT部門に相談しても進まない。</li>
 								<li><i class="fa-li fa fa-check"></i> ITインフラの管理をどうすればいいのか誰も分からない。</li>
-								<li><i class="fa-li fa fa-check"></i> ITセキュリティ監査が必要。</li>
-								<li><i class="fa-li fa fa-check"></i> WEBで自社（ブランド）の認知度を高めたい。</li>
-								<li><i class="fa-li fa fa-check"></i> インターネット広告に出稿したい。</li>
-								<li><i class="fa-li fa fa-check"></i> 展示会で配布する販促物のデザイン制作、印刷が必要だが、、</li>
+								<li><i class="fa-li fa fa-check"></i> ITセキュリティ監査を日本のIT部門から指示されたが。。</li>
+								<li><i class="fa-li fa fa-check"></i> デジタルマーケティングを駆使して自社（ブランド）の認知度を高めたい。</li>
+								<li><i class="fa-li fa fa-check"></i> インターネット広告を出稿して目標を達成したい。</li>
+								<li><i class="fa-li fa fa-check"></i> 展示会で配布する販促物のデザイン制作、印刷を頼みたい</li>
+								<li><i class="fa-li fa fa-check"></i> SNS（Facebook、Instagram、Youtube）の運用を委託したい</li>
+								<li><i class="fa-li fa fa-check"></i> コンテンツの制作更新、WEBの運用を外部に委託したい</li>
+								<li><i class="fa-li fa fa-check"></i> オンラインチャット、botで問い合わせを捌きたい</li>
 							</ul>
 						</div>
 						お気軽にご相談ください。
