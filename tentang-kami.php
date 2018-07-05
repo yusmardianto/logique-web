@@ -201,7 +201,7 @@
 						<br/><br/>
 						Dalam rangka ikut berkontribusi pada lingkungan sosial di Indonesia, kami terus berupaya untuk menyatukan sistem kerja fleksibel, seperti kerja secara remote, atau dengan jam kerja yang singkat, sehingga kita semua dapat bekerja secara efisien dan senang hati.
 						<br/><br/>
-						Kami juga berencana untuk membagikan dan memberikan produk dan layanan yang telah kami coba dan kembangan sendiri agar bisa mengoperasikan bisnis kami secara efisien dan senang hati, seperti yang saya katakan sebelumnya. Saya sangat senang jika bisnis kami bisa memberikan kontribusi positif, baik untuk Indonesia, untuk kepuasan klien kami, maupun untuk perkembangan diri kami.
+						Kami juga berencana untuk membagikan dan memberikan produk dan layanan yang telah kami coba dan kembangan sendiri agar bisa mengoperasikan bisnis kami secara efisien dan senang hati, seperti yang saya katakan sebelumnya. Kami akan terus berkembang. Saya sangat senang jika bisnis kami bisa memberikan kontribusi positif, baik untuk Indonesia, untuk kepuasan klien kami, maupun untuk perkembangan diri kami.
 					</div>
 					
 					<div class="got-project">

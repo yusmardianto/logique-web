@@ -199,7 +199,7 @@
 						The name “LOGIQUE” is derived from the Indonesian word logika-ku, which means “our logic”. The idea is that I want to accomplish our goals with our solid faith, believes, and most importantly our logic. We will maximize the mid and long term benefits and satisfactions of both of yours and ours even though we are in Southeast Asia which has being dramatically changing every day.<br/><br/>
 						Since 2012, we have been leading our clients in WEB, SI, and digital marketing fields in Indonesia by utilizing the technologies of IT and web. Gladly our sales have been continuously growing every year. In April 2018, we opened a development center in Yogyakarta and we will start operating another development center as well later in 2018. <br/><br/>
 						To contribute to the social environment in Indonesia, we are constantly striving to incorporate flexible working styles such as remote working, or short working hours, so that everyone can work efficiently and happily. <br/><br/>
-						We are also planning to share and provide the services that we tried & products that we developed for our own company to operate our business with efficiency and happiness as I said earlier. I am more than happy if our business can contribute to Indonesia, to our clients’ satisfactions, and to the growth of ourselves.
+						We are also planning to share and provide the services that we tried & products that we developed for our own company to operate our business with efficiency and happiness as I said earlier. We will continue to grow. I am more than happy if our business can contribute to Indonesia, to our clients’ satisfactions, and to the growth of ourselves.
 					</div>
 					
 					<div class="got-project">

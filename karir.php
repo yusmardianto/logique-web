@@ -173,6 +173,10 @@
 								<div class="clearfix"></div>
 							</div>
 						</div>
+						
+					</div>
+					<div class="got-project" style="border-bottom:10px solid #000">
+						<span>Ayo bergabung dan bekerja bersama di LOGIQUE.</span><br/>
 						<div class="text-center">
 							<a href="career/" target="_blank" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Gabung-dengan-Kami-1', 'Action-Click', 'Button-Gabung-dengan-Kami-1-Label');">
 								Gabung Dengan Kami
@@ -186,7 +190,6 @@
 							<li><a href="career/#to-candidates" target="_blank">Pesan untuk Kandidat</a></li>|
 							<li><a href="career/#job-opening" target="_blank">Lowongan Kerja</a></li>
 						</ul>
-						<br/>
 					</div>
 					<!--<div class="form-container">
 						<p>
@@ -673,14 +676,6 @@
 								<div class="question">Apakah komisi yang akan dibayarkan dalam bentuk mata uang Rupiah?</div>
 								<div class="answer">Kami akan sangat mengapresiasi jika dapat melakukan transfer uang ke mata uang Rupiah. Tapi jika Anda tidak mempunyai rekening bank di Indonesia, Kami juga dapat melakukan pengiriman uang secara internasional setelah mengubah uang Rupiah menjadi mata uang Anda. </div>
 							</div>-->
-						</div>
-					</div>
-					<div class="got-project">
-						<span>Ayo bergabung dan bekerja bersama di LOGIQUE.</span><br/>
-						<div class="text-center">
-							<a href="career/" target="_blank" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Gabung-dengan-Kami-2', 'Action-Click', 'Button-Gabung-dengan-Kami-2-Label');">
-								Gabung Dengan Kami
-							</a>
 						</div>
 					</div>
 				</div>

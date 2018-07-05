@@ -587,16 +587,18 @@
 						<span>Jika Anda memiliki kebutuhan untuk:</span><br/>
 						<div class="list-on-services">
 							<ul class="fa-ul">
-								<li><i class="fa-li fa fa-check"></i> Membuat sebuah website</li>
-								<li><i class="fa-li fa fa-check"></i> Memperbaharui atau mengupdate website</li>
-								<li><i class="fa-li fa fa-check"></i> Pengembangan sistem web seperti E-Commerce, CRM, Sistem Lelang Online, CMS, dll</li>
-								<li><i class="fa-li fa fa-check"></i> Membuat desain halaman kampanye atau landing page website </li>
-								<li><i class="fa-li fa fa-check"></i> Melakukan outsourcing untuk operasional website</li>
-								<li><i class="fa-li fa fa-check"></i> Meningkatkan jumlah akses ke website Anda dengan SEO</li>
-								<li><i class="fa-li fa fa-check"></i> Mengatur dan menjalankan strategi promosi online</li>
-								<li><i class="fa-li fa fa-check"></i> Mencari penyewaan web server dan perusahaan untuk mengelolanya</li>
-								<li><i class="fa-li fa fa-check"></i> Mencari jasa percetakan untuk profil perusahaan atau brosur</li>
-								<li><i class="fa-li fa fa-check"></i> dll.</li>
+								<li><i class="fa-li fa fa-check"></i> Membuat dan/atau mengoperasikan homepage</li>
+								<li><i class="fa-li fa fa-check"></i> Membangun kembali dan mengoptimalkannya untuk seluler/ponsel cerdas</li>
+								<li><i class="fa-li fa fa-check"></i> Mengembangkan aplikasi Android/iOS</li>
+								<li><i class="fa-li fa fa-check"></i> Mengoperasikan sistem manajemen in-house </li>
+								<li><i class="fa-li fa fa-check"></i> Mengelola infrastruktur IT</li>
+								<li><i class="fa-li fa fa-check"></i> Mengaudit keamanan IT, tetapi yang sudah terstruktur dari Jepang</li>
+								<li><i class="fa-li fa fa-check"></i> Meningkatkan awareness akan perusahaan/merek saya melalui pemasaran digital</li>
+								<li><i class="fa-li fa fa-check"></i> Meraih target pemasaran online dengan pemasangan iklan online</li>
+								<li><i class="fa-li fa fa-check"></i> Mendesain dan mencetak materi promosi perusahaan untuk kemudian didistribusikan</li>
+								<li><i class="fa-li fa fa-check"></i> Mengelola pengoperasian SNS (Facebook, Instagram, Youtube)</li>
+								<li><i class="fa-li fa fa-check"></i> Memperbarui konten dan pengoperasian situs web saya</li>
+								<li><i class="fa-li fa fa-check"></i> Membuat dan memasang chatbot online</li>
 							</ul>
 						</div>
 						LOGIQUE siap membantu Anda.
