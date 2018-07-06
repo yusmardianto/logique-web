@@ -1,3 +1,38 @@
+ <?php 
+require_once("form/fgcontactform.php");
+
+$formproc = new FGContactForm();
+
+//1. Add your email address here.
+//You can add more than one receipients.
+$formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
+
+//2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
+// and put it here
+$formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
+
+//$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
+
+if(isset($_POST['submitted']))
+{
+    if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
+        $secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
+        // $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
+        $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+        // print_r($verifyResponse); exit;
+        $responseData = json_decode($verifyResponse);
+        if ($responseData->success) {
+            if ($formproc->ProcessForm()) {
+                $msg = "<div class='alert alert-success' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+            }
+        } else {
+            $msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
+        }
+    } else {
+        $msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
+   }
+ }
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,8 +46,6 @@
   <title>Sistem Laporan Kerja Karyawan | Nippo</title>
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style_nippo.css">
-  <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-  <script src="/js/bootstrap.min.js"></script>
   <style type="text/css">
   @font-face {
     font-family: HelveticaThin;
@@ -314,31 +347,44 @@
       <p class="KONTAK-KAMI p-l-25">KONTAK<br class="hidden-xs hidden-sm"> KAMI</p>
     </div>
     <div class="col-md-7">
-      <form> <!-- start form contact -->
+      <?php if(isset($msg))
+        {
+        echo $msg;
+        } 
+        ?>
+      <form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
+      <input type='hidden' name='submitted' id='submitted' value='1'/>
+      <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
+      <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
       <div class="row">
           <div class="col-sm-6 form-group">
-            <input class="form-control Rectangle-9" id="name" name="name" placeholder="NAMA" type="text" required>
+            <input type="text" class="form-control Rectangle-9" name="name" placeholder="NAMA" value='<?php echo $formproc->SafeDisplay('name') ?>' >
           </div>
           <div class="col-sm-6 form-group">
-            <input class="form-control Rectangle-9" id="name" name="name" placeholder="NAMA PERUSAHAAN" type="text" required>
+            <input type="text" class="form-control Rectangle-9" name="company" placeholder="NAMA PERUSAHAAN" value='<?php echo $formproc->SafeDisplay('company') ?>' >
           </div>
       </div>
       <div class="row">
           <div class="col-sm-6 form-group">
-            <input class="form-control Rectangle-9" id="name" name="name" placeholder="EMAIL" type="email" required>
+            <input type="email" class="form-control Rectangle-9" name="email" placeholder="EMAIL" value='<?php echo $formproc->SafeDisplay('email') ?>'>
           </div>
           <div class="col-sm-6 form-group">
-            <input class="form-control Rectangle-9" id="name" name="name" placeholder="NO HP / TELEPON" type="number" required>
+            <input type="number" class="form-control Rectangle-9" name="phone" placeholder="NO HP / TELEPON" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
           </div>
       </div>
       <div class="row">
           <div class="col-sm-12 form-group">
-            <textarea class="form-control Rectangle-9" id="name" name="name" rows="8" placeholder="PESAN" style="width: 100%;padding:  1em;"></textarea>
+            <textarea class="form-control Rectangle-9" name="message" rows="8" placeholder="PESAN" style="width: 100%;padding:  1em;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
           </div>
       </div>
+
       <div class="row">
-          <div class="col-sm-12 text-right">
-            <button class="Rectangle-10"><span class="KIRIM">KIRIM</span></button>
+          <div class="col-md-6 text-left">
+              <div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
+              <div class="clearfix"></div>
+          </div>
+          <div class="col-md-6 text-right">
+            <button type="submit" href="#" class="Rectangle-10 btn-coba"><span class="KIRIM">KIRIM</span></button>
           </div>
       </div>
       </form> <!-- end form contact -->
@@ -384,7 +430,9 @@
   </div>
 </div>
 
-<!-- <section class="hidden-md hidden-lg">A</section> -->
+<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
 
 </body>
 </html>
