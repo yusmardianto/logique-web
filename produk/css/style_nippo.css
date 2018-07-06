@@ -4,7 +4,7 @@ background-color: rgba(80, 227, 194, 0.12);
 }
 
 img:hover {opacity: 0.8}
-
+span, p {cursor: default;}
 .fade-in {
   animation-name: nippologo;
   animation-duration: 2s;
@@ -140,6 +140,7 @@ img:hover {opacity: 0.8}
   text-align: center;
   color: #ffffff;
   padding: 20px 0 0 0;
+  cursor: default;
 }
 
 
@@ -253,6 +254,7 @@ img:hover {opacity: 0.8}
   letter-spacing: 10px;
   text-align: left;
   color: #50e3c2;
+  cursor: default;
 }
 .Keuntungan-Perusahaa .text-style-1 {
   font-family: HelveticaBold;
@@ -328,6 +330,7 @@ img:hover {opacity: 0.8}
   letter-spacing: normal;
   text-align: left;
   color: #000000;
+  cursor: default;
 }
 .Nippo-merupakan-sist {
   font-family: Avenir;
