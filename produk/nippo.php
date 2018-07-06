@@ -4,11 +4,11 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" content="Sistem Laporan Kerja Karyawan Transparan Dan Fleksibel">
-  <meta name="keywords" content="Nippo, Nippo-Kerja">
+  <meta name="description" content="Kesulitan dalam mengkalkulasikan total jam dalam suatu proyek serta sulit untuk memantau kinerja karyawan pada suatu perkembangan proyek? Tidak perlu khawatir, sekarang Nippo hadir sebagai solusi dari semua masalah yang dialami oleh perusahaan. Karena itu, dapatkan aplikasi Nippo sekarang juga!">
+  <meta name="keywords" content="laporan kerja, laporan kerja harian, kerja partime, kerja remote, karyawan swasta, karyawan kontrak, laporan kinerja, laporan kinerja karyawan, sistem web, sistem informasi, Nippo">
   <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Nippo | Sistem Laporan Kerja Karyawan</title>
+  <title>Sistem Laporan Kerja Karyawan | Nippo</title>
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style_nippo.css">
   <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
@@ -35,6 +35,14 @@
     src: url(font/avenirbook.ttf);
   }
   </style>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-105878648-1', 'auto');
+  ga('send', 'pageview');
+  </script>
 </head>
 <body>
 
