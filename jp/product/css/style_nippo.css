@@ -30,7 +30,7 @@ span, p {cursor: default;}
   background-repeat: no-repeat;
   background-position: bottom left 15%;
   width: 100%;
-  height: 500px;
+  height: 420px;
   text-align: center;
 }
 .SISTEM-LAPORAN-KERJA {
@@ -68,18 +68,18 @@ span, p {cursor: default;}
 .NIPPO-SYSTEM {
   height: 83px;
   font-family: HelveticaBold;
-  font-size: 70px;
+  font-size: 40px;
   font-style: normal;
   font-stretch: normal;
   line-height: normal;
-  letter-spacing: 19.4px;
+  letter-spacing: 5px;
   text-align: left;
   color: #000000;
 }
 .layer {
   height: 170px;
   font-family: HelveticaThin;
-  font-size: 144px;
+  font-size: 134px;
   font-weight: 100;
   font-style: normal;
   font-stretch: normal;
@@ -90,7 +90,7 @@ span, p {cursor: default;}
 }
 .Nippo-adalah-aplikas {
   font-family: Avenir;
-  font-size: 18px;
+  font-size: 17px;
   font-weight: normal;
   font-style: normal;
   font-stretch: normal;
@@ -131,7 +131,7 @@ span, p {cursor: default;}
 }
 .Dapat-diakses-melalu {
   font-family: Avenir;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: normal;
   font-style: normal;
   font-stretch: normal;
@@ -148,7 +148,7 @@ span, p {cursor: default;}
     width: 60%;
     height: 47px;
     background-color: #000000;
-    padding-top: 15px;
+    padding-top: 5px;
     text-align: center;
     margin-left: -8.1em;
 }
@@ -179,7 +179,7 @@ span, p {cursor: default;}
   width: 490px;
   height: 62px;
   font-family: Avenir;
-  font-size: 22px;
+  font-size: 17px;
   font-weight: 500;
   font-style: normal;
   font-stretch: normal;
@@ -204,7 +204,7 @@ span, p {cursor: default;}
   height: 47px;
   background-blend-mode: multiply;
   background-image: linear-gradient(#50e3c2, #50e3c2);
-  padding-top: 15px;
+  padding-top: 5px;
   text-align: center;
   position: absolute;
   margin-top: 9em;
@@ -230,7 +230,7 @@ span, p {cursor: default;}
   font-style: normal;
   font-stretch: normal;
   line-height: normal;
-  letter-spacing: 10px;
+  letter-spacing: 5px;
   text-align: center;
   color: #000000;
 }
@@ -295,7 +295,7 @@ span, p {cursor: default;}
   width: 60%;
   height: 47px;
   background-color: #50e3c2;
-  padding-top: 15px;
+  padding-top: 5px;
   text-align: center;
   float: right;
   margin-top: 4em;
@@ -359,11 +359,11 @@ span, p {cursor: default;}
 }
 .KONTAK-KAMI {
   font-family: HelveticaBold;
-  font-size: 44px;
+  font-size: 33px;
   font-style: normal;
   font-stretch: normal;
   line-height: normal;
-  letter-spacing: 6.6px;
+  letter-spacing: 4px;
   text-align: left;
   color: #000000;
 }
