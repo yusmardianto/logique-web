@@ -153,9 +153,48 @@
 										</div>
 									</div>
 								</div>
-							
+								<br/>
+								<div class="row">
+									<div class="col-md-12 text-left">
+										<center><b class="font-24">We Provide HR-Tech Solutions In Indonesia</b></center><br/>
+										<b>Remote work </b>| We support more people to remote-work through the use of IT so that Indonesians who are still capable don't need to give up their careers and can work flexibly. We provide remote working & productivity improvement tool called <b>Dokodemo-Kerja</b>.<br/>
+										As benefits for both recruitment companies and job seekers, we also offer <b>SugoiSaiyo</b>, a recruitment management tool for smooth and efficient recruitment activities that eliminates waste of job seeking/recruiting processes with the power of IT. <b>Nippo </b>is also provided with a daily report management system for aggregating data available for management accounting while managing the daily work situation and contents of staff. Feel free to contact us for any inquiries.
+									</div>
+									<div class="clearfix"></div>
+									<br/>
+									<div class="col-lg-offset-1 col-lg-10">
+										<div class="tab-content" id="tabnav">
+										  <div class="tab-pane in active">
+											<a href="/produk/dokodemo-kerja.php" target="_blank" style="color:#000!important">
+												<img src="/produk/img/dokodemo-kerja/dokodemo-logo.png" style="max-height: 95px;" class="img-responsive center-block"/><br/>
+												<h3><b>Dokodemo-Kerja</b></h3>
+												<p>Tools to monitor works and improve productivity of employees, especially those who remote-work.</p>
+											</a>
+										  </div>
+										  <div class="tab-pane">
+											<a href="/produk/sugoi-saiyo.php" target="_blank" style="color:#000!important">
+												<img src="/produk/img/sugoi-saiyo/logo.png" class="img-responsive center-block"/><br/>
+												<h3><b>SugoiSaiyo</b></h3>
+												<p>Recruitment management system for efficient and reasonable recruitment activities, incorporating interview through WhatsApp, and so on.</p>
+											</a>
+										  </div>
+										  <div class="tab-pane">
+											<a href="/produk/nippo.php" target="_blank" style="color:#000!important">
+												<img src="/produk/img/nippo/LogoNippo.png" class="img-responsive center-block"/><br/>
+												<h3><b>Nippo</b></h3>
+												<p>A new daily report management system that manages staff's day-to-day activities and produces internal communication.</p>
+											</a>
+										  </div>
+										  <div class="tab-pane">
+											<a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank" style="color:#000!important">
+												<h3><b>Hiring site production service</b></h3>
+												<p>We create a hiring page for your company. It is effective in relation to SugoiSaiyo.</p>
+											</a>
+										  </div>
+										</div>
+									</div>
+								</div>
 							</div>
-							<br/><br/>
 						</div>
 					</div>
 				</div>
@@ -203,11 +242,63 @@
 										</div>
 										<div class="col-md-3 col-sm-6">
 											<div class="div-service-cat">
-												<img src="/img/jasa-seo.png" alt="WEB Security Assesment" class="center-block img-responsive"/>
-												<div>WEB Security<br/><span>Assesment</span></div>
+												<img src="/img/jasa-seo.png" alt="WEB Security Assessment" class="center-block img-responsive"/>
+												<div>WEB Security<br/><span>Assessment</span></div>
 												<a target="_blank" href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
 											</div>
 										</div>
+									</div>
+								</div>
+							</div>
+							<br/>
+							<div class="row">
+								<div class="col-md-12">
+									<center><b class="font-24">We Provide HR-Tech Solutions In Indonesia</b></center><br/>
+									<b>Remote work </b>| We support more people to remote-work through the use of IT so that Indonesians who are still capable don't need to give up their careers and can work flexibly. We provide remote working & productivity improvement tool called <b>Dokodemo-Kerja</b>.<br/><br/>
+									As benefits for both recruitment companies and job seekers, we also offer <b>SugoiSaiyo</b>, a recruitment management tool for smooth and efficient recruitment activities that eliminates waste of job seeking/recruiting processes with the power of IT. <b>Nippo </b>is also provided with a daily report management system for aggregating data available for management accounting while managing the daily work situation and contents of staff. Feel free to contact us for any inquiries.
+								</div>
+								<div class="clearfix"></div>
+								<br/>
+								<div class="col-lg-offset-1 col-lg-10">
+									<ul class="nav nav-tabs" id="indexnav">
+									  <li class="active">
+										<a data-toggle="tab" href="#dokodemo" onclick="window.open('/produk/dokodemo-kerja.php', '_blank');" style="padding: 43px 0;">
+											<img src="/produk/img/dokodemo-kerja/dokodemo-logo.png" style="max-height: 75px;" class="img-responsive center-block"/>
+										</a>
+									  </li>
+									  <li>
+										<a data-toggle="tab" href="#sugoi" onclick="window.open('/produk/sugoi-saiyo.php', '_blank');">
+											<img src="/produk/img/sugoi-saiyo/logo.png" class="img-responsive center-block"/>
+										</a>
+									  </li>
+									  <li>
+										<a data-toggle="tab" href="#nippo" onclick="window.open('/produk/nippo.php', '_blank');">
+											<img src="/produk/img/nippo/LogoNippo.png" class="img-responsive center-block"/>
+										</a>
+									  </li>
+									  <li>
+										<a data-toggle="tab" href="#hiring" onclick="window.open('/en/services/pembuatan-website-karir-perusahaan/', '_blank');">
+											<div class="div-hiring-site">Hiring Site <br/>Production Service<br/><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></div>
+										</a>
+									  </li>
+									</ul>
+									<div class="tab-content" id="tabnav">
+									  <div id="dokodemo" class="tab-pane in active">
+										<h3><b>Dokodemo-Kerja</b></h3>
+										<p>Tools to monitor works and improve productivity of employees, especially those who remote-work.</p>
+									  </div>
+									  <div id="sugoi" class="tab-pane">
+										<h3><b>SugoiSaiyo</b></h3>
+										<p>Recruitment management system for efficient and reasonable recruitment activities, incorporating interview through WhatsApp, and so on.</p>
+									  </div>
+									  <div id="nippo" class="tab-pane">
+										<h3><b>Nippo</b></h3>
+										<p>A new daily report management system that manages staff's day-to-day activities and produces internal communication.</p>
+									  </div>
+									  <div id="hiring" class="tab-pane">
+										<h3><b>Hiring site production service</b></h3>
+										<p>We create a hiring page for your company. It is effective in relation to SugoiSaiyo.</p>
+									  </div>
 									</div>
 								</div>
 							</div>

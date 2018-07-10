@@ -141,6 +141,47 @@
 										</div>
 									</div>
 								</div>
+								<br/>
+								<div class="row">
+									<div class="col-md-12 text-left">
+										<center><b class="font-24">インドネシアでHRテックソリューションを提供していま</b></center><br/>
+										リモートワーク｜テレワークの普及により、より多くの有能なインドネシア人がキャリアを諦める必要なく、多様な働き方をできるようにITの活用により支援していきます。Dokodemo-Kerjaというリモートワーク＆生産性向上ツールを提供しています。<br/><br/>
+										採用企業と求職者の両者にメリットあるように、ITの力で、求職・採用プロセスの無駄を排除した、スムーズで効率的な採用活動をするための採用管理ツール、SugoiSaiyoも提供しています。スタッフの日々の勤務状況・内容を管理しつつ管理会計に利用可能なデータの集計を行うための日報管理システム、Nippoも提供しております。いずれについてもお気軽にお問い合わせいただければ幸いです。
+									</div>
+									<div class="clearfix"></div>
+									<br/>
+									<div class="col-lg-offset-1 col-lg-10">
+										<div class="tab-content" id="tabnav">
+										  <div class="tab-pane in active">
+											<a href="/jp/product/dokodemo-kerja.php" target="_blank" style="color:#000!important">
+												<img src="/produk/img/dokodemo-kerja/dokodemo-logo.png" style="max-height: 95px;" class="img-responsive center-block"/><br/>
+												<h3><b>Dokodemo-Kerja</b></h3>
+												<p>リモートで働くスタッフ、パートナーを管理し生産性を向上させるツールです。</p>
+											</a>
+										  </div>
+										  <div class="tab-pane">
+											<a href="/produk/sugoi-saiyo.php" target="_blank" style="color:#000!important">
+												<img src="/produk/img/sugoi-saiyo/logo.png" class="img-responsive center-block"/><br/>
+												<h3><b>SugoiSaiyo</b></h3>
+												<p>Whatsappインタビューなどを組み込んだ、効率的で合理的な採用活動のための採用管理システムです。</p>
+											</a>
+										  </div>
+										  <div class="tab-pane">
+											<a href="/produk/nippo.php" target="_blank" style="color:#000!important">
+												<img src="/produk/img/nippo/LogoNippo.png" class="img-responsive center-block"/><br/>
+												<h3><b>Nippo</b></h3>
+												<p>スタッフの日々の活動を管理し社内コミュニケーションを生む、新しい日報管理システムです。</p>
+											</a>
+										  </div>
+										  <div class="tab-pane">
+											<a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank" style="color:#000!important">
+												<h3><b>採用サイト制作サービス</b></h3>
+												<p>求人サイト・採用ページの制作を行います。SugoiSaiyoと関連づけると効果的です。	
+											</a>
+										  </div>
+										</div>
+									</div>
+								</div>
 							</div>
 							<br/><br/>
 						</div>
@@ -193,6 +234,58 @@
 												<a target="_blank" href="/jp/services/penetration-testing/" class="btn">サービス詳細はこちら</a>
 											</div>
 										</div>
+									</div>
+								</div>
+							</div>
+							<br/>
+							<div class="row">
+								<div class="col-lg-12">
+									<center><b class="font-24">インドネシアでHRテックソリューションを提供していま</b></center><br/>
+									リモートワーク｜テレワークの普及により、より多くの有能なインドネシア人がキャリアを諦める必要なく、多様な働き方をできるようにITの活用により支援していきます。Dokodemo-Kerjaというリモートワーク＆生産性向上ツールを提供しています。<br/><br/>
+									採用企業と求職者の両者にメリットあるように、ITの力で、求職・採用プロセスの無駄を排除した、スムーズで効率的な採用活動をするための採用管理ツール、SugoiSaiyoも提供しています。スタッフの日々の勤務状況・内容を管理しつつ管理会計に利用可能なデータの集計を行うための日報管理システム、Nippoも提供しております。いずれについてもお気軽にお問い合わせいただければ幸いです。
+								</div>
+								<div class="clearfix"></div>
+								<br/>
+								<div class="col-lg-offset-1 col-lg-10">
+									<ul class="nav nav-tabs" id="indexnav">
+									  <li class="active">
+										<a data-toggle="tab" href="#dokodemo" onclick="window.open('/jp/product/dokodemo-kerja.php', '_blank');" style="padding: 43px 0;">
+											<img src="/produk/img/dokodemo-kerja/dokodemo-logo.png" style="max-height: 75px;" class="img-responsive center-block"/>
+										</a>
+									  </li>
+									  <li>
+										<a data-toggle="tab" href="#sugoi" onclick="window.open('/produk/sugoi-saiyo.php', '_blank');">
+											<img src="/produk/img/sugoi-saiyo/logo.png" class="img-responsive center-block"/>
+										</a>
+									  </li>
+									  <li>
+										<a data-toggle="tab" href="#nippo" onclick="window.open('/produk/nippo.php', '_blank');">
+											<img src="/produk/img/nippo/LogoNippo.png" class="img-responsive center-block"/>
+										</a>
+									  </li>
+									  <li>
+										<a data-toggle="tab" href="#hiring" onclick="window.open('/jp/services/pembuatan-website-karir-perusahaan/', '_blank');" style="padding: 55px 10px;">
+											<div class="div-hiring-site">採用サイト制作サービス<br/><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></div>
+										</a>
+									  </li>
+									</ul>
+									<div class="tab-content" id="tabnav">
+									  <div id="dokodemo" class="tab-pane in active">
+										<h3><b>Dokodemo-Kerja</b></h3>
+										<p>リモートで働くスタッフ、パートナーを管理し生産性を向上させるツールです。</p>
+									  </div>
+									  <div id="sugoi" class="tab-pane">
+										<h3><b>SugoiSaiyo</b></h3>
+										<p>Whatsappインタビューなどを組み込んだ、効率的で合理的な採用活動のための採用管理システムです。</p>
+									  </div>
+									  <div id="nippo" class="tab-pane">
+										<h3><b>Nippo</b></h3>
+										<p>スタッフの日々の活動を管理し社内コミュニケーションを生む、新しい日報管理システムです。</p>
+									  </div>
+									  <div id="hiring" class="tab-pane">
+										<h3><b>採用サイト制作サービス</b></h3>
+										<p>求人サイト・採用ページの制作を行います。SugoiSaiyoと関連づけると効果的です。										</p>
+									  </div>
 									</div>
 								</div>
 							</div>
