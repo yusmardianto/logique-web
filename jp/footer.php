@@ -26,12 +26,12 @@ ga('send', 'pageview');
 					<div class="col-sm-5 col-xs-7 link-footer">
 						<div class="footer-title">LOGIQUEのサービス</div>
 						<h6><a href="services.php">WEB制作</a></h6>
-							<h6><a href="http://logiqueweb.local/jp/services/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 採用サイト制作</a></h6>
+							<h6><a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 採用サイト制作</a></h6>
 							<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
 							<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dentist Website Creation</a></h6>
 						<h6><span style="cursor: default;">WEBシステム開発</span></h6>
-						<h6><a href="http://logiqueweb.local/jp/services/pembuatan-aplikasi-mobile/">モバイルアプリ開発</a></h6>
-						<h6><a href="http://logiqueweb.local/jp/services/penetration-testing/">WEBセキュリティ診断</a></h6>
+						<h6><a href="/jp/services/pembuatan-aplikasi-mobile/">モバイルアプリ開発</a></h6>
+						<h6><a href="/jp/services/penetration-testing/">WEBセキュリティ診断</a></h6>
 						
 					</div>
 					<div class="col-sm-3 link-footer">

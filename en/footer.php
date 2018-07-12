@@ -26,12 +26,12 @@ ga('send', 'pageview');
 					<div class="col-sm-5 col-xs-7 link-footer">
 						<div class="footer-title">Our Service</div>
 						<h5><a href="services.php">Web Development</a></h5>
-							<h6><a href="http://logiqueweb.local/en/services/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recruitment Website Creation</a></h6>
+							<h6><a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recruitment Website Creation</a></h6>
 							<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
 							<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dentist Website Creation</a></h6>
 						<h5><span style="cursor: default;">Web System Development</span></h5>
-						<h5><a href="http://logiqueweb.local/en/services/pembuatan-aplikasi-mobile/">Mobile App Development</a></h5>
-						<h5><a href="http://logiqueweb.local/en/services/penetration-testing/">WEB Security Assesment (VA Test)</a></h5>
+						<h5><a href="/en/services/pembuatan-aplikasi-mobile/">Mobile App Development</a></h5>
+						<h5><a href="/en/services/penetration-testing/">WEB Security Assesment (VA Test)</a></h5>
 					</div>
 					<div class="col-sm-3 link-footer">
 						<div class="footer-title">Product</div>
