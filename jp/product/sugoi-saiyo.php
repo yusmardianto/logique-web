@@ -64,54 +64,54 @@ if(isset($_POST['submitted']))
 	<body>
 		<header>
 			<img src="img/sugoi-saiyo/logo.png" alt="Sugoi Saiyo Logo" class="img-responsive center-block"> 
-			<h1>Sistem Perekrutan Karyawan</h1>
+			<h1>インドネシアでの採用を効率的に変える、<br>
+			画期的なITソリューション、SUGOI採用。<br>
+			採用の無駄・ムラ・無理をなくします！</h1>
 		</header>
 		<section class="about">
 			<div class="container">
-				<h2>Apa Itu Sugoi Saiyo</h2>
-				<p>SUGOI SAIYO adalah sistem IT untuk para staf departemen sumber daya manusia di Indonesia dalam merekrut calon karyawan. Banyak kendala yang biasa mereka hadapi, seperti menyaring terlalu banyak CV yang tidak memenuhi persyaratan, kesulitan dalam melakukan komunikasi dengan pelamar, banyaknya pelamar yang tidak menghadiri interview, dan lain-lain. Hal ini bisa membuang terlalu banyak waktu dan tenaga.</p>
-				<h3>SUGOI SAIYO merupakan solusi dari masalah tersebut.</h3>
-				<p>Selain bisa membantu para tim rekrutmen, sistem ini juga bermanfaat untuk para pelamar. Mereka bisa langsung mengajukan lamaran pada posisi tertentu dan dengan mudah mengetahui status lamaran mereka, mulai dari hasil tahap pengujian, konfirmasi status diterima atau tidak, hingga surat penawaran kerja dari perusahaan yang dikirimkan melalui website.</p>
+				<h2>SUGOI採用ってなに？どんなツールなの？</h2>
+				<p>SUGOI採用は、インドネシアの人事部、採用担当者のためのITシステムです。要件に合わない大量のCVのスクリーニング、応募者との連絡の難しさ、ノーShowの多さ、など採用活動には無駄が非常に多いです。<br><br>SUGOI採用は、これら問題を解消し、人事部の、採用担当者のストレスをなくします。応募者にとってもWEBで応募からステータス確認、テスト、オファーレター受領まで簡単に管理できるのでとても便利です。</p>
 			</div>
 		</section>
 		<section class="obstacle">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4 obstacle-title">
-						<h2>Kendala yang <br> sering <br> dihadapi <br> perusahaan <br> dalam <br> merekrut <br> karyawan.</h2>
+						<h2>インドネシアの採用の難しさ採用担当者が抱える課題</h2>
 						<a href="#contact" class="smooth btn-ss">Coba Sugoi Saiyo</a>
 					</div>
 					<div class="col-md-8">
 						<div class="row">
 							<div class="col-md-6 col-sm-6">
 								<img src="img/sugoi-saiyo/kendala-1.png" alt="Kendala" class="img-responsive center-block">
-								<p>Mendapatkan banyak lamaran kerja tapi tidak memenuhi persyaratan yang dibutuhkan oleh perusahaan, sehingga membuat tahap penyeleksian menjadi tidak efisien.</p>
+								<p>応募者と連絡がつかない。応募者が応募について覚えてない。</p>
 							</div>
 							<div class="col-md-6 col-sm-6">
 								<img src="img/sugoi-saiyo/kendala-2.png" alt="Kendala" class="img-responsive center-block">
-								<p>Tim rekrutmen tidak dapat menghubungi pelamar untuk memberikan informasi terbaru mengenai statusnya, begitu pun sebaliknya, pelamar tidak mengetahui informasi terbaru mengenai status lamaran yang telah dikirimkan.</p>
+								<p>要件に合わない大量の履歴書が届く。スクリーニングが大変。</p>
 							</div>
 							<div class="col-md-6 col-sm-6">
 								<img src="img/sugoi-saiyo/kendala-3.png" alt="Kendala" class="img-responsive center-block">
-								<p>Pelamar tidak datang interview atau datang terlambat dari waktu interview yang telah ditentukan.</p>
+								<p>応募者が面接に来ない。遅刻する。</p>
 							</div>
 							<div class="col-md-6 col-sm-6">
 								<img src="img/sugoi-saiyo/kendala-4.png" alt="Kendala" class="img-responsive center-block">
-								<p>Tim rekrutmen harus mendapatkan kandidat yang sesuai dengan kebutuhan perusahaan dalam waktu yang singkat.</p>
+								<p>短期間で少ない来訪回数で決める必要がある。</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
-		<div class="line-title">Fitur Sugoi Saiyo</div>
+		<div class="line-title">上記課題を解決するSUGOI採用の機能</div>
 		<section class="feature-company">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-3 col-sm-6 col-xs-12 text-center">
 						<img src="img/sugoi-saiyo/fitur-p.png" alt="Fitur Perusahaan" class="img-feature">
 						<hr>
-						<h2>Fitur untuk Perusahaan</h2>
+						<h2>人事部・採用担当者向け機能</h2>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
@@ -199,7 +199,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-3 col-sm-6 col-xs-12 text-center">
 						<img src="img/sugoi-saiyo/fitur-k.png" alt="Fitur Perusahaan" class="img-feature">
 						<hr>
-						<h2>Fitur untuk Kandidat</h2>
+						<h2>応募者向け機能</h2>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-candidate">
@@ -382,7 +382,7 @@ if(isset($_POST['submitted']))
 		<section class="contact" id="contact">
 			<div class="container">
 				<div class="box">
-					<h2>Punya pertanyaan dan perlu informasi lebih lanjut ?</h2>
+					<h2>Sugoi Saiyoに関するお問い合わせ</h2>
 					<?php if(isset($msg))
 					{
 					echo $msg;
@@ -395,28 +395,28 @@ if(isset($_POST['submitted']))
 						<div class="row">
 							<div class="col-md-6">
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Nama" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
+									<input type="text" class="form-control" placeholder="お名前" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 								</div>
 								<div class="form-group">
-									<input type="number" class="form-control" placeholder="No Ponsel" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
+									<input type="number" class="form-control" placeholder="TEL" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
 								</div>
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Perusahaan" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
+									<input type="text" class="form-control" placeholder="会社名" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
 								</div>
 								<div class="form-group">
-									<input type="email" class="form-control" placeholder="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+									<input type="email" class="form-control" placeholder="EMAIL" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+									<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="お問い合わせ内容" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</div>
 								<div class="form-group">
 									<div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
 								</div>
 							</div>
 							<div class="col-md-12 text-center m-50">
-								<button type="submit" class="btn-ss2">Kirim</button>
+								<button type="submit" class="btn-ss2">送信</button>
 							</div>
 						</div>
 					</form>
@@ -435,7 +435,7 @@ if(isset($_POST['submitted']))
 						</p>
 					</div>
 					<div class="col-md-4">
-						<p class="phone"><a href="tel:+62216505656">+62 21 6505656</a></p>
+						<p class="phone"><a href="tel:+62216505656">+62 21 650 5656</a></p>
 						<p class="email"><a href="mailto:info@sugoi-saiyo.co.id">info@sugoi-saiyo.co.id</a></p>
 					</div>
 				</div>
