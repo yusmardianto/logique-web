@@ -1,5 +1,5 @@
  <?php 
-require_once("form/fgcontactform.php");
+require_once("form/fgcontact_dokodemo.php");
 
 $formproc = new FGContactForm();
 

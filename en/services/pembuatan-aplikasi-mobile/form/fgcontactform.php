@@ -37,7 +37,7 @@ class FGContactForm
 
     function FGContactForm()
     {
-        $this->fromName = 'Logique Career'; // set custom from name here, default : = $this->smtpUsername
+        $this->fromName = 'Pembuatan Aplikasi Mobile'; // set custom from name here, default : = $this->smtpUsername
         $this->fromEmail = 'info@logique.co.id'; // set custom from name here, default : = $this->smtpUsername
         $this->errors = array();
         $this->form_random_key = 'HTgsjhartag';
@@ -158,7 +158,7 @@ class FGContactForm
         $status = array(
             'message' => array(
                 'subject' => 'Message From Logique.co.id Website (Layanan Situs Pencari Kerja)',
-                'header' => 'Submission from \'layanan situs pencari kerja\' form:',
+                'header' => 'Submission from \'Pembuatan Aplikasi Mobile\' form:',
             ),
             'notification' => array(
                 'subject' => 'Notification Message From Logique.co.id Website',
