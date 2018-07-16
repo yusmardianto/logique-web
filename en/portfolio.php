@@ -131,191 +131,322 @@
 						<div class="characteristic-title text-center" style="font-size:22px">WEB</div><br/><br/>
 						<div class="row text-center">
 							<div class="col-sm-4">
-							<a href="https://www.jtrustbank.co.id/" target="_blank">
-								<img src="/img/portfolio/jtrust-bank.png" class="img-responsive center-block">
-								JTrust Bank<br><br>
-							</a>
+								<a href="https://www.jtrustbank.co.id/" target="_blank">
+									<img src="/img/portfolio/jtrust-bank.png" class="img-responsive center-block">
+									JTrust Bank
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Remake & Operation (Design | Coding | CMS | Operation)<br>
+									<br>CMS, multi-language, Mobile, secure WEB, Financial, Bank<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="https://www.60jpid.com/" target="_blank">
 									<img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
-									60th Anniversary Japan-Indonesia<br><br>
+									60<sup>th</sup> Anniversary Japan-Indonesia
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | Coding | Content Creation | Operation)<br>
+									<br>CMS, multi-language, Mobile-Optimized, secure WEB, Public<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="https://www.otomart.id/" target="_blank">
 									<img src="/img/portfolio/otomart.png" class="img-responsive center-block">
-									Otomart<br><br>
+									OTOmart (used-car market place)
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | CMS | System | Content Creation | Operation | AWS)<br>
+									<br>CMS, Market Place, DB-WEB, Mobile, WEB service, Automobil<br><br><br>
+								</div>
 						 	</div>
 						 	<div class="clearfix"></div>
 						 	<div class="col-sm-4">
 								<a href="https://jba.co.id/" target="_blank">
 									<img src="/img/portfolio/jba-indonesia.png" class="img-responsive center-block">
-									JBA<br><br>
+									JBA INDONESIA
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | CMS | System | Operation | AWS)<br>
+									<br>Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/salon-de-res.png" class="img-responsive center-block">
-								Salon De Res<br><br>
+								Salon De Res
+								<div class="addition-desc text-left">
+									<br>WEB Dev (Design | Coding)<br>
+									<br>Mobile, Multi-Language, Beauty<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="http://www.kumomiland.co.id/" target="_blank">
-								<img src="/img/portfolio/kumomiland.png" class="img-responsive center-block">
-								KUMOMI LAND INDONESIA<br><br>
+									<img src="/img/portfolio/kumomiland.png" class="img-responsive center-block">
+									KUMOMI LAND INDONESIA
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev (Design | Coding | Maintenance)<br>
+									<br>Mobile, Multi-Language, Wordpress, Blog, RealEstate<br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://jaif.asean.org/" target="_blank">
-								<img src="/img/portfolio/jaif.png" class="img-responsive center-block">
-								ASEAN FOUNDATION<br><br>
+									<img src="/img/portfolio/jaif.png" class="img-responsive center-block">
+									Japan Asean Integration Fund
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | Coding | Operation)<br>
+									<br>Mobile, Secure WEB, Public<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/otosiap.png" class="img-responsive center-block">
-								OTO Siap!<br><br>
+								OTO Siap!
+								<div class="addition-desc text-left">
+									<br>Landing Page Creation (Design | Coding)<br>
+									<br>Mobile, A/B Test, EFO, Used Car Market Place<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank">
-								<img src="/img/portfolio/dmi.png" class="img-responsive center-block">
-								DMI<br><br>
+									<img src="/img/portfolio/dmi.png" class="img-responsive center-block">
+									Digital Marketing Indonesia
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | Coding)<br>
+									<br>Multi-language, Mobile, IT Service<br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="https://www.ikeuchi.id/lp/eng/" target="_blank">
-								<img src="/img/portfolio/ikeuchi.png" class="img-responsive center-block">
-								Ikeuchi<br><br>
+									<img src="/img/portfolio/ikeuchi.png" class="img-responsive center-block">
+									Ikeuchi Indonesia
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev (Design | Coding)<br>
+									<br>Multi-language, Mobile, Manufacture<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="http://www.moresco.co.id/" target="_blank">
-								<img src="/img/portfolio/moresco.png" class="img-responsive center-block">
-								MORESCO<br><br>
+									<img src="/img/portfolio/moresco.png" class="img-responsive center-block">
+									MORESCO INDONESIA
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev (Design | Coding | Maintenance | WEB Server)<br>
+									<br>Multi-language, Mobile, Manufacture<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="http://trendpot-recruit.asia/index.php" target="_blank">
-								<img src="/img/portfolio/trendpot.png" class="img-responsive center-block">
-								TRENDPOT<br><br>
+									<img src="/img/portfolio/trendpot.png" class="img-responsive center-block">
+									TRENDPOT
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev (Design | Coding | Operation)<br>
+									<br>Mobile, Secure WEB, Public<br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/ajapan.png" class="img-responsive center-block">
-								aJapan Campaign Page<br><br>
+								aJapan Campaign
+								<div class="addition-desc text-left">
+									<br>Campaign Microsite Dev & Operation (Design | Coding | Operation)<br>
+									<br>Multi-language, Mobile, Campaign<br><br><br>
+								</div>
 							</div>
-							 
 							<div class="col-sm-4">
 								<img src="/img/portfolio/sfi.png" class="img-responsive center-block">
-								Sumitomo Forestry LP<br><br>
+								Sumitomo Forestry LP
+								<div class="addition-desc text-left">
+									<br>Landing Page Creation (Design | Coding)<br>
+									<br>Mobile, Campaign<br><br><br>
+								</div>
 							</div>
-							 
 							<div class="col-sm-4">
 								<img src="/img/portfolio/jualbeliweb.png" class="img-responsive center-block">
-								JualBeliWEB<br><br>
+								JualBeliWEB.id (Website market place)
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | CMS | System | Content Creation | Operation)<br>
+									<br>CMS, Market Place, DB, Mobile, secure WEB, WEB service<br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://jjs.or.id/" target="_blank">
-								<img src="/img/portfolio/jjs.png" class="img-responsive center-block">
-								Jakarta Japanese School<br><br>
+									<img src="/img/portfolio/jjs.png" class="img-responsive center-block">
+									Jakarta Japanese School
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | Coding | Wordpress | Operation)<br>
+									<br>Japanese WEB, Blog, Mobile, Application Form, School<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/oto-conc.png" class="img-responsive center-block">
-								OTOmart Concierge Page<br><br>
+								OTOmart Concierge LP
+								<div class="addition-desc text-left">
+									<br>Landing Page Creation (Design | Coding | LPO)<br>
+									<br>Mobile, A/B Test, LPO, Used Car Market Place<br><br><br>
+								</div>
 							</div>
 							 
 							<div class="col-sm-4">
 								<a href="http://www.zuttoride.id/" target="_blank">
-								<img src="/img/portfolio/zutto.png" class="img-responsive center-block">
-								ZuttoRide<br><br>
+									<img src="/img/portfolio/zutto.png" class="img-responsive center-block">
+									ZuttoRide Indonesia
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | Coding | Maintenance| WEB Server)<br>
+									<br>Multi-language, Mobile, motor-bike service<br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://maisonderes.com/" target="_blank">
-								<img src="/img/portfolio/mdr.png" class="img-responsive center-block">
-								Maison de Res<br><br>
+									<img src="/img/portfolio/mdr.png" class="img-responsive center-block">
+									Maison De Res (Condominium Portal)
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | CMS | Content Creation | Operation)<br>
+									<br>CMS, Portal, Mobile, Real Estate, WEB service<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="http://frangipanibalispa.com/contact.php" target="_blank">
 									<img src="/img/portfolio/frangipani.png" class="img-responsive center-block">
-									Frangipani<br><br>
+									Frangipani Esthetics Bali
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | Coding | Operation)<br>
+									<br>Multi-language, Mobile, LPO, A/B test, Beauty<br><br><br>
+								</div>
 							</div>
 							 <div class="col-sm-4">
 								<a href="http://kindergarten.jjs.or.id/" target="_blank">
 									<img src="/img/portfolio/kindergarten-jjs.png" class="img-responsive center-block">
-									Kindergarten - Jakarta Japanese School<br><br>
+									Jakarta Japanese Kindergarten<br><br>
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | Coding | Wordpress | Operation)<br>
+									<br>Japanese WEB, Blog, Mobile, Application Form, School<br><br><br>
+								</div>
 							</div>		
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://hoyu.co.id/" target="_blank">
 									<img src="/img/portfolio/hoyu.png" class="img-responsive center-block">
-									Hoyu<br><br>
+									Hoyu Indonesia
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev (Design | Coding | Operation)<br>
+									<br>Multi-language, Mobile, Manufacture, Beauty<br><br><br>
+								</div>
 							</div>	
 							<div class="col-sm-4">
 								<a href="https://4dentist.jp/" target="_blank">
 									<img src="/img/portfolio/4dentist.png" class="img-responsive center-block">
-									4dentist<br><br>
+									4Dentist.jp (Dentist Portal)
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | CMS | Operation)<br>
+									<br>Wordpress, Mobile, Member-only Web, Medical<br><br><br>
+								</div>
 							</div>	
 							<div class="col-sm-4">
 								<a href="https://hajime-indonesia.co.id/about/" target="_blank">
 									<img src="/img/portfolio/hajime.png" class="img-responsive center-block">
-									Hajime<br><br>
+									Hajime Indonesia
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | Coding | Operation | WEB Server)<br>
+									<br>Multi-language, Mobile, AWS, Real Estate<br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://omc.co.id/" target="_blank">
 									<img src="/img/portfolio/omc.png" class="img-responsive center-block">
-									OMC<br><br>
+									Onitsuka Management Consulting
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Re-Design (Design | Coding)<br>
+									<br>Multi-language, Mobile, Consulting, Accounting &amp; Tax<br><br><br>
+								</div>
 							</div>	
 							<div class="col-sm-4">
 								<a href="https://prolinefinance.co.id/" target="_blank">
 									<img src="/img/portfolio/proline.png" class="img-responsive center-block">
-									Proline<br><br>
+									PROLINE FINANCE
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Development (Design | Coding | CMS)<br>
+									<br>CMS, Mobile, OJK, Finance<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="https://www.60jpid.com/symposium.php" target="_blank">
 									<img src="/img/portfolio/symposium.png" class="img-responsive center-block">
-									Symposium page (60th Anniv)<br><br>
+									Symposium Application LP
 								</a>
-							</div>
-							
-							<div class="col-sm-4">
-								<img src="/img/portfolio/shinoken.png" class="img-responsive center-block">
-								Shinoken<br><br>
-							</div>
-							<div class="col-sm-4">
-								<a href="//www.jtrustbank.co.id/id/moe" target="_blank">
-									<img src="/img/portfolio/moe.png" class="img-responsive center-block">
-									J-Trust Moe<br><br>
-								</a>
-							</div>	
-							<div class="col-sm-4">
-								<a href="//bisnissaya.com" target="_blank">
-									<img src="/img/portfolio/bisnissaya.png" class="img-responsive center-block">
-									KKI<br><br>
-								</a>
-							</div>
-							
-							<div class="col-sm-4">
-								<a href="//j-golfacademy.com/" target="_blank">
-									<img src="/img/portfolio/golfjkt.png" class="img-responsive center-block">
-									Jakarta Golf Academy<br><br>
-								</a>
+								<div class="addition-desc text-left">
+									<br>Application Form Creation (Design | PHP Form)<br>
+									<br>Multi-language,Mobile,Application Form,Public<br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/shinoken.png" class="img-responsive center-block">
+								Shinoken Asset Management
+								<div class="addition-desc text-left">
+									<br>WEB Development (Design | Coding | AWS)<br>
+									<br>Multi-language, Mobile, Corporate WEB, AWS, Real Estate<br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.jtrustbank.co.id/id/moe" target="_blank">
+									<img src="/img/portfolio/moe.png" class="img-responsive center-block">
+									JTrust Bank Indonesia
+								</a>
+								<div class="addition-desc text-left">
+									<br>Campaign Page Creation (Design | Coding | CMS)<br>
+									<br>Multi-language, Mobile, Campaign page, CMS, Financial, Bank<br><br><br>
+								</div>
+							</div>	
+							<div class="col-sm-4">
+								<a href="https://bisnissaya.com" target="_blank">
+									<img src="/img/portfolio/bisnissaya.png" class="img-responsive center-block">
+									BusinisSaya.com (MLM E-Commerce)
+								</a>
+								<div class="addition-desc text-left">
+									<br>E-Commerce Development (Design | E-Commerce | CMS | Maintenance)<br>
+									<br>E-Commerce, CMS, Payment Gateway, Multi-Level-Marketing<br><br><br>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<a href="http://j-golfacademy.com/" target="_blank">
+									<img src="/img/portfolio/golfjkt.png" class="img-responsive center-block">
+									Jakarta Golf Academy
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Development & Operation (Design | Coding | Operation)<br>
+									<br>Mobile, Online Booking, Sports<br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://www.jnto.or.id/" target="_blank">
+									<img src="/img/portfolio/jnto.png" class="img-responsive center-block">
+									JNTO Indonesia
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Remake & Operation (Design | Coding | Operation)<br>
+									<br>Mobile Optimized, secure WEB, Public, Travel<br><br><br>
+								</div>
+							</div>
 						</div>
 						<br/>
 						<span class="characteristic-title">Our system development experiences</span>
@@ -393,6 +524,23 @@
 							<div class="col-sm-4">
 								<img src="/img/portfolio/sunlife-polo-shirt.jpg" class="img-responsive center-block">
 								Polo Shirt<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/Eria.jpg" class="img-responsive center-block">
+								ERIA<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/bumbu-warasa-1.jpg" class="img-responsive center-block">
+								Product Design (Ikeda Toka)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/minum-warasa-1.jpg" class="img-responsive center-block">
+								Product Design (Ikeda Toka)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/video-jfe.jpg" class="img-responsive center-block">
+								JFE Shoji Video<br><br>
 							</div>
 						</div>
 						<br/>
