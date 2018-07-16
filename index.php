@@ -148,8 +148,48 @@
 										</div>
 									</div>
 								</div>
+								<br/>
+								<div class="row">
+									<div class="col-md-12 text-left">
+										<center><b class="font-24">We Provide HR-Tech Solutions In Indonesia</b></center><br/>
+										<b>Kerja remote</b> | Kami mendukung masyarakat untuk kerja-remote dengan pemanfaatan teknologi IT, agar warga Indonesia yang masih mampu tidak perlu melepas karir mereka dan bisa bekerja secara fleksibel. Kami menyediakan <i>software</i> untuk memonitor kerja-remote dan meningkatkan produktivitas, yang bernama <b>Dokodemo-Kerja</b>.<br/><br/>
+										Kami juga menawarkan <b>SugoiSaiyo</b>, sistem manajemen yang membantu aktivitas rekrutmen menjadi sederhana dan efisien, baik bagi tim HRD maupun bagi para pencari kerja. Juga <b>Nippo</b>, yang merupakan sistem managemen pelaporan harian untuk karyawan, agar dapat lebih mengelola projek serta waktu yang dihabiskan untuk mengerjakannya.
+									</div>
+									<div class="clearfix"></div>
+									<br/>
+									<div class="col-lg-offset-1 col-lg-10">
+										<div class="tab-content" id="tabnav">
+										  <div class="tab-pane in active">
+											<a href="/produk/dokodemo-kerja.php" target="_blank" style="color:#000!important">
+												<img src="/produk/img/dokodemo-kerja/dokodemo-logo.png" style="max-height: 95px;" class="img-responsive center-block"/><br/>
+												<h3><b>Dokodemo-Kerja</b></h3>
+												<p>Memonitor pekerjaan dan meningkatkan produktivitas karyawan, khususnya bagi mereka yang kerja-remote.</p>
+											</a>
+										  </div>
+										  <div class="tab-pane">
+											<a href="/produk/sugoi-saiyo.php" target="_blank" style="color:#000!important">
+												<img src="/produk/img/sugoi-saiyo/logo.png" class="img-responsive center-block"/><br/>
+												<h3><b>SugoiSaiyo</b></h3>
+												<p>Sistem manajemen untuk menyederhanakan aktivitas rekrutmen bagi tim HRD dan para pencari kerja.</p>
+											</a>
+										  </div>
+										  <div class="tab-pane">
+											<a href="/produk/nippo.php" target="_blank" style="color:#000!important">
+												<img src="/produk/img/nippo/LogoNippo.png" class="img-responsive center-block"/><br/>
+												<h3><b>Nippo</b></h3>
+												<p>Mengelola laporan harian karyawan terkait daftar projek yang dikerjakan dan lama waktu yang dihabiskan.</p>
+											</a>
+										  </div>
+										  <div class="tab-pane">
+											<a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank" style="color:#000!important">
+												<h3 style="margin-bottom: 10px;"><b>Pembuatan Situs Rekrutmen Perusahaan</b></h3>
+												<p>Kami bisa membuat halaman rekrutmen perusahaan Anda.  Halaman ini dapat dihubungkan dengan sistem SugoiSaiyo.</p>
+											</a>
+										  </div>
+										</div>
+									</div>
+								</div>
 							</div>
-							<br/><br/>
 						</div>
 					</div>
 				</div>
@@ -203,6 +243,58 @@
 												<a target="_blank" href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
 											</div>
 										</div>
+									</div>
+								</div>
+							</div>
+							<br/>
+							<div class="row">
+								<div class="col-lg-12">
+									<center><b class="font-24">Kami Menyediakan Solusi HR-Tech di Indonesia</b></center><br/>
+									<b>Kerja remote</b> | Kami mendukung masyarakat untuk kerja-remote dengan pemanfaatan teknologi IT, agar warga Indonesia yang masih mampu tidak perlu melepas karir mereka dan bisa bekerja secara fleksibel. Kami menyediakan <i>software</i> untuk memonitor kerja-remote dan meningkatkan produktivitas, yang bernama <b>Dokodemo-Kerja</b>.<br/><br/>
+									Kami juga menawarkan <b>SugoiSaiyo</b>, sistem manajemen yang membantu aktivitas rekrutmen menjadi sederhana dan efisien, baik bagi tim HRD maupun bagi para pencari kerja. Juga <b>Nippo</b>, yang merupakan sistem managemen pelaporan harian untuk karyawan, agar dapat lebih mengelola projek serta waktu yang dihabiskan untuk mengerjakannya.
+								</div>
+								<div class="clearfix"></div>
+								<br/>
+								<div class="col-lg-offset-1 col-lg-10">
+									<ul class="nav nav-tabs" id="indexnav">
+									  <li class="active">
+										<a data-toggle="tab" href="#dokodemo" onclick="window.open('/produk/dokodemo-kerja.php', '_blank');" style="padding: 43px 0;">
+											<img src="/produk/img/dokodemo-kerja/dokodemo-logo.png" style="max-height: 75px;" class="img-responsive center-block"/>
+										</a>
+									  </li>
+									  <li>
+										<a data-toggle="tab" href="#sugoi" onclick="window.open('/produk/sugoi-saiyo.php', '_blank');">
+											<img src="/produk/img/sugoi-saiyo/logo.png" class="img-responsive center-block"/>
+										</a>
+									  </li>
+									  <li>
+										<a data-toggle="tab" href="#nippo" onclick="window.open('/produk/nippo.php', '_blank');">
+											<img src="/produk/img/nippo/LogoNippo.png" class="img-responsive center-block"/>
+										</a>
+									  </li>
+									  <li>
+										<a data-toggle="tab" href="#hiring" onclick="window.open('/layanan/pembuatan-website-karir-perusahaan/', '_blank');" style="font-size: 16px;">
+											<div class="div-hiring-site">Pembuatan situs <br/>rekrutmen perusahaan<br/><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></div>
+										</a>
+									  </li>
+									</ul>
+									<div class="tab-content" id="tabnav">
+									  <div id="dokodemo" class="tab-pane in active">
+										<h3><b>Dokodemo-Kerja</b></h3>
+										<p>Memonitor pekerjaan dan meningkatkan produktivitas karyawan, khususnya bagi mereka yang kerja-remote.</p>
+									  </div>
+									  <div id="sugoi" class="tab-pane">
+										<h3><b>SugoiSaiyo</b></h3>
+										<p>Sistem manajemen untuk menyederhanakan aktivitas rekrutmen bagi tim HRD dan para pencari kerja.</p>
+									  </div>
+									  <div id="nippo" class="tab-pane">
+										<h3><b>Nippo</b></h3>
+										<p>Mengelola laporan harian karyawan terkait daftar projek yang dikerjakan dan lama waktu yang dihabiskan.</p>
+									  </div>
+									  <div id="hiring" class="tab-pane">
+										<h3><b>Pembuatan Situs Rekrutmen Perusahaan</b></h3>
+										<p>Kami bisa membuat halaman rekrutmen perusahaan Anda.  Halaman ini dapat dihubungkan dengan sistem SugoiSaiyo.</p>
+									  </div>
 									</div>
 								</div>
 							</div>
