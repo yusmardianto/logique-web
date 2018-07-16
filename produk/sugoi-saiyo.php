@@ -443,7 +443,7 @@ if(isset($_POST['submitted']))
 						</p>
 					</div>
 					<div class="col-md-4">
-						<p class="phone"><a href="tel:+62216505656">+62 21 6505656</a></p>
+						<p class="phone">+62 21 6505656</p>
 						<p class="email"><a href="mailto:info@sugoi-saiyo.co.id">info@sugoi-saiyo.co.id</a></p>
 					</div>
 				</div>

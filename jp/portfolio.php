@@ -129,191 +129,322 @@
 						<div class="characteristic-title text-center" style="font-size:22px">WEB制作実績</div><br/><br/>
 						<div class="row text-center">
 							<div class="col-sm-4">
-							<a href="https://www.jtrustbank.co.id/" target="_blank">
-								<img src="/img/portfolio/jtrust-bank.png" class="img-responsive center-block">
-								JTrust Bank<br><br>
-							</a>
+								<a href="https://www.jtrustbank.co.id/" target="_blank">
+									<img src="/img/portfolio/jtrust-bank.png" class="img-responsive center-block">
+									JTrust Bank
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEBリニューアル＆運用 (デザイン| コーディング | CMS構築 | 運用)<br>
+									<br>CMS,多言語,スマホ最適化,セキュアなWEB,金融,銀行<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="https://www.60jpid.com/" target="_blank">
 									<img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
-									60th Anniversary Japan-Indonesia<br><br>
+									60<sup>th</sup> Anniversary Japan-Indonesia
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB制作＆運用 (デザイン | コーディング | コンテンツ制作 | 運用)<br>
+									<br>CMS,多言語,モバイル最適化,セキュアなWEB,公共<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="https://www.otomart.id/" target="_blank">
 									<img src="/img/portfolio/otomart.png" class="img-responsive center-block">
-									Otomart<br><br>
+									OTOmart (used-car market place)
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用 | AWS運用)<br>
+									<br>CMS,マーケットプレイス,会員WEB,Mobile, WEBサービス,車<br><br><br>
+								</div>
 						 	</div>
 						 	<div class="clearfix"></div>
 						 	<div class="col-sm-4">
 								<a href="https://jba.co.id/" target="_blank">
 									<img src="/img/portfolio/jba-indonesia.png" class="img-responsive center-block">
-									JBA<br><br>
+									JBA INDONESIA
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)<br>
+									<br>オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/salon-de-res.png" class="img-responsive center-block">
-								Salon De Res<br><br>
+								Salon De Res
+								<div class="addition-desc text-left">
+									<br>WEB制作 (デザイン | コーディング)<br>
+									<br>モバイル最適化,多言語,美容<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="http://www.kumomiland.co.id/" target="_blank">
-								<img src="/img/portfolio/kumomiland.png" class="img-responsive center-block">
-								KUMOMI LAND INDONESIA<br><br>
+									<img src="/img/portfolio/kumomiland.png" class="img-responsive center-block">
+									KUMOMI LAND INDONESIA
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB制作 (デザイン | コーディング | 保守)<br>
+									<br>モバイル,多言語,Wordpress,ブログ,不動産<br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://jaif.asean.org/" target="_blank">
-								<img src="/img/portfolio/jaif.png" class="img-responsive center-block">
-								ASEAN FOUNDATION<br><br>
+									<img src="/img/portfolio/jaif.png" class="img-responsive center-block">
+									Japan Asean Integration Fund
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB制作＆運用 (デザイン | コーディング | 運用)<br>
+									<br>モバイル,セキュアなWEB,公共<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/otosiap.png" class="img-responsive center-block">
-								OTO Siap!<br><br>
+								OTO Siap!
+								<div class="addition-desc text-left">
+									<br>LP制作 (デザイン | コーディング)<br>
+									<br>モバイル,A/Bテスト,EFO,中古車マーケットプレイス<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank">
-								<img src="/img/portfolio/dmi.png" class="img-responsive center-block">
-								DMI<br><br>
+									<img src="/img/portfolio/dmi.png" class="img-responsive center-block">
+									Digital Marketing Indonesia
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB制作 (デザイン | コーディング)<br>
+									<br>多言語,モバイル最適化,ITサービス<br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="https://www.ikeuchi.id/lp/eng/" target="_blank">
-								<img src="/img/portfolio/ikeuchi.png" class="img-responsive center-block">
-								Ikeuchi<br><br>
+									<img src="/img/portfolio/ikeuchi.png" class="img-responsive center-block">
+									Ikeuchi Indonesia
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEBサイト制作 (デザイン | コーディング)<br>
+									<br>多言語,モバイル,製造業<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="http://www.moresco.co.id/" target="_blank">
-								<img src="/img/portfolio/moresco.png" class="img-responsive center-block">
-								MORESCO<br><br>
+									<img src="/img/portfolio/moresco.png" class="img-responsive center-block">
+									MORESCO INDONESIA
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEBサイト制作 (デザイン | コーディング | 保守 | WEBサーバー運用)<br>
+									<br>多言語,モバイル,製造業<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="http://trendpot-recruit.asia/index.php" target="_blank">
-								<img src="/img/portfolio/trendpot.png" class="img-responsive center-block">
-								TRENDPOT<br><br>
+									<img src="/img/portfolio/trendpot.png" class="img-responsive center-block">
+									TRENDPOT
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB制作＆運用 (デザイン | コーディング | 運用)<br>
+									<br>モバイル,セキュアなWEB,公共<br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/ajapan.png" class="img-responsive center-block">
-								aJapan Campaign Page<br><br>
+								aJapan Campaign
+								<div class="addition-desc text-left">
+									<br>キャンペーンサイト制作＆運用 (デザイン | コーディング | Operation)<br>
+									<br>多言語,モバイル,キャンペーン<br><br><br>
+								</div>
 							</div>
-							 
 							<div class="col-sm-4">
 								<img src="/img/portfolio/sfi.png" class="img-responsive center-block">
-								Sumitomo Forestry LP<br><br>
+								Sumitomo Forestry
+								<div class="addition-desc text-left">
+									<br>ランディングページ制作 (デザイン | コーディング)<br>
+									<br>モバイル,キャンペーンページ<br><br><br>
+								</div>
 							</div>
-							 
 							<div class="col-sm-4">
 								<img src="/img/portfolio/jualbeliweb.png" class="img-responsive center-block">
-								JualBeliWEB<br><br>
+								JualBeliWEB.id (Website market place)
+								<div class="addition-desc text-left">
+									<br>WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用)<br>
+									<br>CMS,マーケットプレイス,DB,Mobile,セキュアなWEB,WEBサービス<br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://jjs.or.id/" target="_blank">
-								<img src="/img/portfolio/jjs.png" class="img-responsive center-block">
-								Jakarta Japanese School<br><br>
+									<img src="/img/portfolio/jjs.png" class="img-responsive center-block">
+									Jakarta Japanese School
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB構築＆運用 (デザイン | Coding | Wordpress | 運用)<br>
+									<br>日本語WEB,ブログ,モバイル最適化,願書受付,学校<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/oto-conc.png" class="img-responsive center-block">
-								OTOmart Concierge Page<br><br>
+								OTOmart Concierge LP
+								<div class="addition-desc text-left">
+									<br>LP制作 (デザイン | コーディング | LPO)<br>
+									<br>モバイル最適化,A/Bテスト,LPO,中古車マーケットプレイス<br><br><br>
+								</div>
 							</div>
 							 
 							<div class="col-sm-4">
 								<a href="http://www.zuttoride.id/" target="_blank">
-								<img src="/img/portfolio/zutto.png" class="img-responsive center-block">
-								ZuttoRide<br><br>
+									<img src="/img/portfolio/zutto.png" class="img-responsive center-block">
+									ZuttoRide Indonesia
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEBサイト制作 (デザイン | コーディング | 保守 | WEBサーバー運用)<br>
+									<br>多言語,モバイル,バイクサービス<br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://maisonderes.com/" target="_blank">
-								<img src="/img/portfolio/mdr.png" class="img-responsive center-block">
-								Maison de Res<br><br>
+									<img src="/img/portfolio/mdr.png" class="img-responsive center-block">
+									Maison De Res (Condominium Portal)
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB構築＆運用 (デザイン | CMS |コンテンツ制作 | 運用)<br>
+									<br>CMS,ポータル, Mobile,不動産,WEBサービス<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="http://frangipanibalispa.com/contact.php" target="_blank">
 									<img src="/img/portfolio/frangipani.png" class="img-responsive center-block">
-									Frangipani<br><br>
+									Frangipani Esthetics Bali
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEBサイト制作 (デザイン | コーディング | 運用)<br>
+									<br>多言語,モバイル最適化,LPO,A/Bテスト,美容・エステ<br><br><br>
+								</div>
 							</div>
 							 <div class="col-sm-4">
 								<a href="http://kindergarten.jjs.or.id/" target="_blank">
 									<img src="/img/portfolio/kindergarten-jjs.png" class="img-responsive center-block">
-									Kindergarten - Jakarta Japanese School<br><br>
+									Jakarta Japanese Kindergarten<br><br>
 								</a>
-							</div>	
+								<div class="addition-desc text-left">
+									<br>WEB構築＆運用 (デザイン | Coding | Wordpress | 運用)<br>
+									<br>日本語WEB,ブログ,モバイル最適化,願書受付,学校<br><br><br>
+								</div>
+							</div>		
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://hoyu.co.id/" target="_blank">
 									<img src="/img/portfolio/hoyu.png" class="img-responsive center-block">
-									Hoyu<br><br>
+									Hoyu Indonesia
 								</a>
-							</div>
+								<div class="addition-desc text-left">
+									<br>WEBサイト制作 (デザイン | コーディング |運用)<br>
+									<br>多言語,モバイル最適化,製造販売,美容<br><br><br>
+								</div>
+							</div>	
 							<div class="col-sm-4">
 								<a href="https://4dentist.jp/" target="_blank">
 									<img src="/img/portfolio/4dentist.png" class="img-responsive center-block">
-									4dentist<br><br>
+									4Dentist.jp (Dentist Portal)
 								</a>
-							</div>
+								<div class="addition-desc text-left">
+									<br>WEB構築＆運用 (デザイン | CMS | 運用)<br>
+									<br>Wordpress,モバイル最適化,会員専用Web,医療<br><br><br>
+								</div>
+							</div>	
 							<div class="col-sm-4">
 								<a href="https://hajime-indonesia.co.id/about/" target="_blank">
 									<img src="/img/portfolio/hajime.png" class="img-responsive center-block">
-									Hajime<br><br>
+									Hajime Indonesia
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEBサイト制作 (デザイン | コーディング | 運用 | WEBサーバー運用)<br>
+									<br>多言語,モバイル,AWS,不動産<br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="http://omc.co.id/" target="_blank">
 									<img src="/img/portfolio/omc.png" class="img-responsive center-block">
-									OMC<br><br>
+									Onitsuka Management Consulting
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEBリデザイン(デザイン | コーディング)<br>
+									<br>多言語,モバイル,AWS,コンサルティング,会計税務<br><br><br>
+								</div>
 							</div>	
 							<div class="col-sm-4">
 								<a href="https://prolinefinance.co.id/" target="_blank">
 									<img src="/img/portfolio/proline.png" class="img-responsive center-block">
-									Proline<br><br>
+									PROLINE FINANCE
 								</a>
+								<div class="addition-desc text-left">
+									<br>CMS WEBサイト制作 (デザイン | コーディング | CMS))<br>
+									<br>CMS,モバイル対応,金融<br><br><br>
+								</div>
 							</div>
 							<div class="col-sm-4">
 								<a href="https://www.60jpid.com/symposium.php" target="_blank">
 									<img src="/img/portfolio/symposium.png" class="img-responsive center-block">
-									Symposium page (60th Anniv)<br><br>
+									Symposium Application LP
 								</a>
-							</div>
-
-							<div class="col-sm-4">
-								<img src="/img/portfolio/shinoken.png" class="img-responsive center-block">
-								Shinoken<br><br>
-							</div>
-							<div class="col-sm-4">
-								<a href="//www.jtrustbank.co.id/id/moe" target="_blank">
-									<img src="/img/portfolio/moe.png" class="img-responsive center-block">
-									J-Trust Moe<br><br>
-								</a>
-							</div>	
-							<div class="col-sm-4">
-								<a href="//bisnissaya.com" target="_blank">
-									<img src="/img/portfolio/bisnissaya.png" class="img-responsive center-block">
-									KKI<br><br>
-								</a>
-							</div>
-							
-							<div class="col-sm-4">
-								<a href="//j-golfacademy.com/" target="_blank">
-									<img src="/img/portfolio/golfjkt.png" class="img-responsive center-block">
-									Jakarta Golf Academy<br><br>
-								</a>
+								<div class="addition-desc text-left">
+									<br>参加申込フォーム (デザイン | PHPフォーム)<br>
+									<br>多言語,モバイル, 申込フォーム開発,公共<br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/shinoken.png" class="img-responsive center-block">
+								Shinoken Asset Management
+								<div class="addition-desc text-left">
+									<br>WEB制作 (デザイン | コーディング | AWS運用)<br>
+									<br>多言語,モバイル対応,コーポレートWEB,AWS,不動産投資<br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.jtrustbank.co.id/id/moe" target="_blank">
+									<img src="/img/portfolio/moe.png" class="img-responsive center-block">
+									JTrust Bank Indonesia
+								</a>
+								<div class="addition-desc text-left">
+									<br>キャンペーンページ制作 (デザイン | コーディング | CMS開発)<br>
+									<br>多言語,モバイル対応, キャンペーンページ,CMS,金融,銀行<br><br><br>
+								</div>
+							</div>	
+							<div class="col-sm-4">
+								<a href="https://bisnissaya.com" target="_blank">
+									<img src="/img/portfolio/bisnissaya.png" class="img-responsive center-block">
+									BusinisSaya.com (MLM E-Commerce)
+								</a>
+								<div class="addition-desc text-left">
+									<br>ECサイト構築 (デザイン| EC構築 | CMS構築 | 運用)<br>
+									<br>EC,CMS,決済連携,マルチレベルマーケティング<br><br><br>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<a href="http://j-golfacademy.com/" target="_blank">
+									<img src="/img/portfolio/golfjkt.png" class="img-responsive center-block">
+									Jakarta Golf Academy
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEBサイト制作 (デザイン| コーディング |運用)<br>
+									<br>モバイル最適化,オンラインブッキング,スポーツ<br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://www.jnto.or.id/" target="_blank">
+									<img src="/img/portfolio/jnto.png" class="img-responsive center-block">
+									JNTO Indonesia
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEBリニューアル＆運用 (デザイン| コーディング| 運用)<br>
+									<br>モバイル最適化,セキュアなWEB,公共,旅行<br><br><br>
+								</div>
+							</div>
 						</div>
 						<br/>
 						<span class="characteristic-title">システム構築実績</span>
@@ -391,6 +522,23 @@
 							<div class="col-sm-4">
 								<img src="/img/portfolio/sunlife-polo-shirt.jpg" class="img-responsive center-block">
 								Polo Shirt<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/Eria.jpg" class="img-responsive center-block">
+								ERIA<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/bumbu-warasa-1.jpg" class="img-responsive center-block">
+								Product Design (Ikeda Toka)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/minum-warasa-1.jpg" class="img-responsive center-block">
+								Product Design (Ikeda Toka)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/video-jfe.jpg" class="img-responsive center-block">
+								JFE Shoji Video<br><br>
 							</div>
 						</div>
 						<br/>

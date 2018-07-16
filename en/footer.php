@@ -18,7 +18,7 @@ ga('send', 'pageview');
 						<a href="index.php">Home</a><br/><br/>
 						<a href="about.php">About Us</a><br/><br/>
 						<a href="portfolio.php">Portfolio</a><br/><br/>
-						<a href="service.php">Service</a><br/><br/>
+						<a href="services.php">Service</a><br/><br/>
 						<a href="joinus.php">Career</a><br/><br/>
 						<a href="/career/">Join Us LOGIQUE</a><br/><br/>
 						<a href="contact.php">Contact Us</a><br/>
