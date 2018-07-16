@@ -18,11 +18,10 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-	
     <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
-    
+
     </head>
 	<body>
 		<div class="wrapper">
@@ -679,8 +678,102 @@
 						</div>
 					</div>
 				</div>
+				<div id="contents">
+					<div class="form-container karir-bg1">
+						<div class="row">
+							<div class="col-md-12 text-center">
+								<p class="paragraph-karir-title karir-1">Days as an Intern.</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4 text-center">
+								<img src="img/prooof/1.jpg" class="img-responsive center-block m-t-1" />
+							</div>
+							<div class="col-md-8 text-left">
+								<span class="styleA"><img src="img/prooof/aleft.png" class="h61"/><small class="styleB">08.50 AM</small><img src="img/prooof/aright.png" class="h61"/></span>
+								<p><b class="font16">Pagi</b> – Memulai hari dengan semangat! Saya biasanya datang sedikit lebih awal untuk menyegarkan diri dengan secangkir kopi. Kami memiliki mesin espresso di kantor kami dengan varian rasa yang berbeda seperti cappuccino atau Americano, atau kita bisa mendapatkan kopi yang baru diseduh dari kedai kopi yang terletak di lantai dasar gedung. Kedua kopinya sangat enak! Aku sangat suka! Berkat kopi yang nikmat, saya dapat merasa segar dan siap untuk bekerja!</p>
+							</div>
+						</div>
+						<div class="row p-t-3">
+							<div class="col-md-8 text-right">
+								<span class="styleA"><img src="img/prooof/aleft.png" class="h61"/><small class="styleB">09.00 AM</small><img src="img/prooof/aright.png" class="h61"/></span>
+								<p><b class="font16">Mulai bekerja</b>. Saya memeriksa email dan pekerjaan untuk dapat memahami prioritas dan apa saja yang sebaiknya saya kerjakan pada hari ini. Atasan saya duduk di sebelah saya, jadi saya bisa bertanya apa saja kepadanya. Ketika kita saling berdiskusi, ada pemandangan luar biasa di depan kita! Itu memicu saya untuk mendapatkan lebih banyak inspirasi dan kreatifitas! Melihat pemandangan yang indah selalu menjadi favorit saya ketika di kantor.</p>
+							</div>
+							<div class="col-md-4 text-right">
+								<img src="img/prooof/2.jpg" class="img-responsive center-block m-t-1" />
+							</div>
+						</div>
+						<div class="row p-t-3">
+							<div class="col-md-4 text-center">
+								<img src="img/prooof/3.jpg" class="img-responsive center-block m-t-1" />
+							</div>
+							<div class="col-md-8 text-left">
+								<span class="styleA"><img src="img/prooof/aleft.png" class="h61"/><small class="styleB">10.00 AM</small><img src="img/prooof/aright.png" class="h61"/></span>
+								<p><b class="font16">Tugas pertama</b>. Sangat luar biasa, rasanya mereka memberi saya kepercayaan untuk melakukan beberapa pekerjaan dan saya menyukainya. Saya belajar hal dasar mengenai desain perusahaan dan memiliki banyak pengalaman baru yang menakjubkan. Saya punya banyak teman dan orang untuk membantu saya. Sebagai karyawan magang baru, saya selalu gugup dan tidak banyak bicara tetapi saya disambut dengan sangat baik. Saya dapat berbicara dan bahkan tertawa dengan orang lain saat istirahat pada hari pertama saya.</p>
+							</div>
+						</div>
+						<div class="row p-t-3">
+							<div class="col-md-7 p-0 text-right">
+								<span class="styleA"><img src="img/prooof/aleft.png" class="h61"/><small class="styleB">11.00 AM</small><img src="img/prooof/aright.png" class="h61"/></span>
+								<p><b class="font16">Meeting pertama!</b> Sebenarnya ini agak menakutkan dan serius ketika saya berpikir tentang "meeting", tetapi atasan saya membuat suasana meeting menjadi menyenangkan sehingga membuat saya merasa nyaman dan mudah untuk memahami serta belajar dari meeting tersebut.</p>
+							</div>
+							<div class="col-md-5 text-right">
+								<img src="img/prooof/4.jpg" class="img-responsive center-block m-t-1" />
+							</div>
+						</div>
+						<div class="row bg-opacity">
+							<div class="row">
+								<div class="col-md-4 text-left p-0">
+									<span class="styleC"><img src="img/prooof/aleft.png" class="h61"/><small class="styleB">12.00 AM</small><img src="img/prooof/aright.png" class="h61"/></span>
+								</div>
+								<div class="col-md-8 p-0 text-justify">
+									<p><b class="font16">Waktu makan siang</b>. Untuk makan siang, saya dan karyawan lainnya senang menjelajahi semua makanan di sekitar perusahaan dengan berjalan kaki. Ada banyak Street Food di sekitar sini dan rasanya sangat enak, kita bahkan dapat datang ke tempat yang sama selama dua kali seminggu. Saat hujan di luar, saya lebih suka makan siang di lantai pertama gedung, tempat makan tersebut bernama "SABA". Mereka menyajikan makanan Indonesia dan Barat yang rasanya sangat enak. Sambil makan siang, kami juga dapat mengobrol dengan karyawan perusahaan lain. Saya bahkan dapat berbicara dan berbagi pengalaman dengan karyawan asing dari perusahaan kami.</p>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-4 text-right p-2">
+									<img src="img/prooof/5.jpg" class="img-responsive center-block m-t-1" style="height:185px;"/>
+								</div>
+								<div class="col-md-4 text-center p-2">
+									<img src="img/prooof/6.jpg" class="img-responsive center-block m-t-1" style="height:185px;"/>
+								</div>
+								<div class="col-md-4 text-left p-2">
+									<img src="img/prooof/7.jpg" class="img-responsive center-block m-t-1" style="height:185px;"/>
+								</div>
+							</div>
+						</div>
+						<div class="row p-t-3">
+							<div class="col-md-4 text-center">
+								<img src="img/prooof/8.jpg" class="img-responsive center-block m-t-1" />
+							</div>
+							<div class="col-md-8 text-left p-0">
+								<span class="styleA"><img src="img/prooof/aleft.png" class="h61"/><small class="styleB">13.00 AM</small><img src="img/prooof/aright.png" class="h61"/></span>
+								<p><b class="font16">Kembali bekerja</b>. Setelah makan siang, saya kembali ke tempat saya untuk melanjutkan pekerjaan saya sementara karyawan lain mempersiapkan diri mereka untuk beribadah. Gedung ini menyediakan ruang ibadah di basement, dan untuk orang-orang yang tidak ingin memiliki usaha ekstra untuk turun, ada juga ruang ibadah di dalam kantor kami.</p>
+							</div>
+						</div>
+						<div class="row p-t-3">
+							<div class="col-md-7 text-right p-0">
+								<span class="styleA"><img src="img/prooof/aleft.png" class="h61"/><small class="styleB">16.00 AM</small><img src="img/prooof/aright.png" class="h61"/></span>
+								<p><b class="font16">Sedikit istirahat</b>. Pada saat ini, kami akan membahas tentang beberapa makanan ringan yang akan kami nikmati sambil menikmati pemandangan sore yang indah dari kantor. Melihat pemandangan di sore hari membuat saya merasa damai, menyegarkan pikiran saya dari semua pekerjaan yang saya kerjakan sepanjang hari. Setelah itu, saya pun melanjutkan pekerjaan saya lagi.</p>
+							</div>
+							<div class="col-md-5 text-right">
+								<img src="img/prooof/9.JPG" class="img-responsive center-block m-t-1" />
+							</div>
+						</div>
+						<div class="row p-t-3">
+							<div class="col-md-4 text-center">
+								<img src="img/prooof/10.jpg" class="img-responsive center-block m-t-1" />
+							</div>
+							<div class="col-md-8 text-left p-0">
+								<span class="styleA"><img src="img/prooof/aleft.png" class="h61"/><small class="styleB">18.00 AM</small><img src="img/prooof/aright.png" class="h61"/></span>
+								<p><b class="font16">Pulang!</b> Biasanya sebelum bersiap pulang, semua karyawan termasuk saya akan menulis laporan harian kami pada suatu sistem, kemudian mematikan komputer. Terkadang setelah jam kerja, kita akan memiliki waktu bersama seperti menonton film atau berkaraoke untuk saling mengenal secara lebih dekat. Kantor ini dekat dengan mall Pejaten Village, yang seringkali saya kunjungi bersama teman-teman. Setelah semua hal yang kami lakukan, saya pulang dengan teman saya dan anehnya, saya merasa sangat lelah tetapi juga benar-benar bahagia dan menikmati setiap momen pada hari itu. Senang sekali menghadapi tantangan yang dapat membuat saya berkembang, lebih dekat dengan teman-teman kantor yang pada umumnya masih muda yang mudah untuk memberikan saran dan bantuan, serta saya merasa berkembang menuju designer tingkat profesional ketika menjadi karyawan magang pada perusahaan ini.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+					
 			</div>
-			
+
 			<?php include 'footer.php';?>
 			
 		</div>
