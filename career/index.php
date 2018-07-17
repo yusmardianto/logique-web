@@ -696,7 +696,7 @@
 						</div>
 						<div class="row">
 							<div class="col-md-3 text-center">
-								<img src="../img/prooof/1.jpg" class="img-responsive img-250 pull-right center-block m-t-1" />
+								<img src="../img/prooof/1.jpg" style="width:100%" class="m-t-1" />
 							</div>
 							<div class="col-md-9 text-left">
 								<span class="styleA"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">08.50 AM</small><img src="../img/prooof/aright.png" class="h61"/></span>
@@ -709,7 +709,7 @@
 								<p><b class="font16">Mulai bekerja</b>. Saya memeriksa email dan pekerjaan untuk dapat memahami prioritas dan apa saja yang sebaiknya saya kerjakan pada hari ini. Atasan saya duduk di sebelah saya, jadi saya bisa bertanya apa saja kepadanya. Ketika kita saling berdiskusi, ada pemandangan luar biasa di depan kita! Itu memicu saya untuk mendapatkan lebih banyak inspirasi dan kreatifitas! Melihat pemandangan yang indah selalu menjadi favorit saya ketika di kantor.</p>
 							</div>
 							<div class="col-md-3 text-right">
-								<img src="../img/prooof/2.jpg" class="img-responsive img-250 pull-left center-block m-t-1" />
+								<img src="../img/prooof/2.jpg" style="width:100%" class="m-t-1" />
 							</div>
 						</div>
 						<div class="row p-t-3 hidden-md hidden-lg"> <!-- for mobile -->
@@ -723,7 +723,7 @@
 						</div>
 						<div class="row p-t-3">
 							<div class="col-md-3 text-center">
-								<img src="../img/prooof/3.jpg" class="img-responsive img-250 pull-right center-block m-t-1" />
+								<img src="../img/prooof/3.jpg" style="width:100%" class="m-t-1" />
 							</div>
 							<div class="col-md-9 text-left">
 								<span class="styleA"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">10.00 AM</small><img src="../img/prooof/aright.png" class="h61"/></span>
@@ -736,7 +736,7 @@
 								<p><b class="font16">Meeting pertama!</b> Sebenarnya ini agak menakutkan dan serius ketika saya berpikir tentang "meeting", tetapi atasan saya membuat suasana meeting menjadi menyenangkan sehingga membuat saya merasa nyaman dan mudah untuk memahami serta belajar dari meeting tersebut.</p>
 							</div>
 							<div class="col-md-5 text-right">
-								<img src="../img/prooof/4.jpg" class="img-responsive img-250 pull-left center-block m-t-1" />
+								<img src="../img/prooof/4.jpg" style="width:100%" class="m-t-1" />
 							</div>
 						</div>
 						<div class="row p-t-3 hidden-md hidden-lg"> <!-- for mobile -->
@@ -748,44 +748,46 @@
 								<p><b class="font16">Meeting pertama!</b> Sebenarnya ini agak menakutkan dan serius ketika saya berpikir tentang "meeting", tetapi atasan saya membuat suasana meeting menjadi menyenangkan sehingga membuat saya merasa nyaman dan mudah untuk memahami serta belajar dari meeting tersebut.</p>
 							</div>
 						</div>
-						<div class="row bg-opacity">
-							<div class="col-md-3 text-center hidden-xs hidden-sm">
-								<span class="styleC"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">12.00 AM</small><img src="../img/prooof/aright.png" class="h61"/></span>
+						<div class="bg-opacity">
+							<div class="row">
+								<div class="col-md-3 text-center hidden-xs hidden-sm">
+									<span class="styleC"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">12.00 PM</small><img src="../img/prooof/aright.png" class="h61"/></span>
+								</div>
+								<div class="col-md-3 text-left hidden-md hidden-lg">
+									<span class="styleC"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">12.00 PM</small><img src="../img/prooof/aright.png" class="h61"/></span>
+								</div>
+								<div class="col-md-9 text-justify">
+									<p><b class="font16">Waktu makan siang</b>. Untuk makan siang, saya dan karyawan lainnya senang menjelajahi semua makanan di sekitar perusahaan dengan berjalan kaki. Ada banyak Street Food di sekitar sini dan rasanya sangat enak, kita bahkan dapat datang ke tempat yang sama selama dua kali seminggu. Saat hujan di luar, saya lebih suka makan siang di lantai pertama gedung, tempat makan tersebut bernama "SABA". Mereka menyajikan makanan Indonesia dan Barat yang rasanya sangat enak. Sambil makan siang, kami juga dapat mengobrol dengan karyawan perusahaan lain. Saya bahkan dapat berbicara dan berbagi pengalaman dengan karyawan asing dari perusahaan kami.</p>
+								</div>
 							</div>
-							<div class="col-md-3 text-left hidden-md hidden-lg">
-								<span class="styleC"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">12.00 AM</small><img src="../img/prooof/aright.png" class="h61"/></span>
+							<div class="row">
+								<div class="col-md-4">
+									<img src="../img/prooof/5.jpg" class="m-t-1" style="height:185px;object-fit: cover;width:  100%;"/>
+								</div>
+								<div class="col-md-4">
+									<img src="../img/prooof/6.jpg" class="m-t-1" style="height:185px;object-fit: cover;width:  100%;"/>
+								</div>
+								<div class="col-md-4">
+									<img src="../img/prooof/7.jpg" class="m-t-1" style="height:185px;object-fit: cover;width:  100%;"/>
+								</div>
 							</div>
-							<div class="col-md-9 text-justify">
-								<p><b class="font16">Waktu makan siang</b>. Untuk makan siang, saya dan karyawan lainnya senang menjelajahi semua makanan di sekitar perusahaan dengan berjalan kaki. Ada banyak Street Food di sekitar sini dan rasanya sangat enak, kita bahkan dapat datang ke tempat yang sama selama dua kali seminggu. Saat hujan di luar, saya lebih suka makan siang di lantai pertama gedung, tempat makan tersebut bernama "SABA". Mereka menyajikan makanan Indonesia dan Barat yang rasanya sangat enak. Sambil makan siang, kami juga dapat mengobrol dengan karyawan perusahaan lain. Saya bahkan dapat berbicara dan berbagi pengalaman dengan karyawan asing dari perusahaan kami.</p>
-							</div>
-						<div class="row">
-							<div class="col-md-4 text-right p-2">
-								<img src="../img/prooof/5.jpg" class="img-responsive center-block m-t-1" style="height:185px;object-fit: cover;width:  230px;"/>
-							</div>
-							<div class="col-md-4 text-center p-2">
-								<img src="../img/prooof/6.jpg" class="img-responsive center-block m-t-1" style="height:185px;object-fit: cover;width:  230px;"/>
-							</div>
-							<div class="col-md-4 text-left p-2">
-								<img src="../img/prooof/7.jpg" class="img-responsive center-block m-t-1" style="height:185px;object-fit: cover;width:  230px;"/>
-							</div>
-						</div>
 						</div>
 						<div class="row p-t-3">
-							<div class="col-md-4 text-center">
-								<img src="../img/prooof/8.jpg" class="img-responsive img-250 pull-right center-block m-t-1" />
+							<div class="col-md-3">
+								<img src="../img/prooof/8.jpg" style="width:100%" class="m-t-1" />
 							</div>
-							<div class="col-md-8 text-left">
-								<span class="styleA"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">13.00 AM</small><img src="../img/prooof/aright.png" class="h61"/></span>
+							<div class="col-md-9 text-left">
+								<span class="styleA"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">01.00 PM</small><img src="../img/prooof/aright.png" class="h61"/></span>
 								<p><b class="font16">Kembali bekerja</b>. Setelah makan siang, saya kembali ke tempat saya untuk melanjutkan pekerjaan saya sementara karyawan lain mempersiapkan diri mereka untuk beribadah. Gedung ini menyediakan ruang ibadah di basement, dan untuk orang-orang yang tidak ingin memiliki usaha ekstra untuk turun, ada juga ruang ibadah di dalam kantor kami.</p>
 							</div>
 						</div>
 						<div class="row p-t-3 hidden-xs hidden-sm"> <!-- for desktop -->
 							<div class="col-md-7 text-right">
-								<span class="styleA"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">16.00 AM</small><img src="../img/prooof/aright.png" class="h61"/></span>
+								<span class="styleA"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">04.00 PM</small><img src="../img/prooof/aright.png" class="h61"/></span>
 								<p><b class="font16">Sedikit istirahat</b>. Pada saat ini, kami akan membahas tentang beberapa makanan ringan yang akan kami nikmati sambil menikmati pemandangan sore yang indah dari kantor. Melihat pemandangan di sore hari membuat saya merasa damai, menyegarkan pikiran saya dari semua pekerjaan yang saya kerjakan sepanjang hari. Setelah itu, saya pun melanjutkan pekerjaan saya lagi.</p>
 							</div>
 							<div class="col-md-5 text-right">
-								<img src="../img/prooof/9.JPG" class="img-responsive img-250 pull-left center-block m-t-1" />
+								<img src="../img/prooof/9.JPG" style="width:100%" class="m-t-1" />
 							</div>
 						</div>
 						<div class="row p-t-3 hidden-md hidden-lg"> <!-- for mobile -->
@@ -793,23 +795,22 @@
 								<img src="../img/prooof/9.JPG" class="img-responsive img-250 pull-left center-block m-t-1" />
 							</div>
 							<div class="col-md-7 text-left">
-								<span class="styleA"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">16.00 AM</small><img src="../img/prooof/aright.png" class="h61"/></span>
+								<span class="styleA"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">04.00 PM</small><img src="../img/prooof/aright.png" class="h61"/></span>
 								<p><b class="font16">Sedikit istirahat</b>. Pada saat ini, kami akan membahas tentang beberapa makanan ringan yang akan kami nikmati sambil menikmati pemandangan sore yang indah dari kantor. Melihat pemandangan di sore hari membuat saya merasa damai, menyegarkan pikiran saya dari semua pekerjaan yang saya kerjakan sepanjang hari. Setelah itu, saya pun melanjutkan pekerjaan saya lagi.</p>
 							</div>
 						</div>
 						<div class="row p-t-3">
-							<div class="col-md-4 text-center">
-								<img src="../img/prooof/10.jpg" class="img-responsive img-300 center-block m-t-1" />
+							<div class="col-md-3 text-center">
+								<img src="../img/prooof/10.jpg" style="width:100%" class="m-t-1" />
 							</div>
-							<div class="col-md-8 text-left">
-								<span class="styleA"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">18.00 AM</small><img src="../img/prooof/aright.png" class="h61"/></span>
+							<div class="col-md-9 text-left">
+								<span class="styleA"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">06.00 PM</small><img src="../img/prooof/aright.png" class="h61"/></span>
 								<p><b class="font16">Pulang!</b> Biasanya sebelum bersiap pulang, semua karyawan termasuk saya akan menulis laporan harian kami pada suatu sistem, kemudian mematikan komputer. Terkadang setelah jam kerja, kita akan memiliki waktu bersama seperti menonton film atau berkaraoke untuk saling mengenal secara lebih dekat. Kantor ini dekat dengan mall Pejaten Village, yang seringkali saya kunjungi bersama teman-teman. Setelah semua hal yang kami lakukan, saya pulang dengan teman saya dan anehnya, saya merasa sangat lelah tetapi juga benar-benar bahagia dan menikmati setiap momen pada hari itu. Senang sekali menghadapi tantangan yang dapat membuat saya berkembang, lebih dekat dengan teman-teman kantor yang pada umumnya masih muda yang mudah untuk memberikan saran dan bantuan, serta saya merasa berkembang menuju designer tingkat profesional ketika menjadi karyawan magang pada perusahaan ini.</p>
 							</div>
 						</div>
 					</div>
 				</div>
-			</div>
-
+			</div><br/>
 			<h3 class="jobs-subtitle">LOWONGAN MAGANG</h3>
 			<div class="div-explain-intern">
 				LOGIQUE membuka lowongan kerja internship/magang bagi mahasiswa baik yang sekadar ingin mengaplikasikan ilmu yang dipelajari maupun menurut tuntutan universitas pada periode yang telah ditentukan. 
