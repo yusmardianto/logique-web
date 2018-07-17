@@ -73,6 +73,13 @@ if(isset($_POST['submitted']))
 					<a class="navbar-brand" href="#">
 						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="" class="img-responsive center-block">
 					</a>
+					<div class="pull-left visible-xs">
+						<ul class="nav-lang">
+							<li class="pull-left active">IND</li>
+							<li class="pull-left"><a href="#">ENG</a></li>
+							<li class="pull-left"><a href="/jp/product/dokodemo-kerja.php">JPN</a></li>
+						</ul>
+					</div>
 				  </div>
 				  <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
 					<ul class="nav navbar-nav">
@@ -84,6 +91,13 @@ if(isset($_POST['submitted']))
 					  <li><a href="#divForm" class="smooth li-mt">Hubungi Kami</a></li>
 					</ul>
 					<a href="/" target="_blank"><img class="pull-right img-responsive center-block logo-logique-header" src="img/dokodemo-kerja/logo_logique.png"/></a>
+					<div class="pull-right hidden-xs">
+						<ul class="nav-lang">
+							<li class="pull-left active">IND</li>
+							<li class="pull-left"><a href="#">ENG</a></li>
+							<li class="pull-left"><a href="/jp/product/dokodemo-kerja.php">JPN</a></li>
+						</ul>
+					</div>
 				  </div><!--/.nav-collapse -->  
 				</div><!--/.container-fluid -->
 			</nav>
@@ -110,7 +124,10 @@ if(isset($_POST['submitted']))
 							<div class="quote">“</div>adalah solusi IT yang mampu mengatasinya.
 						</div>
 						<br/>
-						<img src="img/dokodemo-kerja/bg-black.png" alt="Apa itu Dokodemo-Kerja?" class="img-responsive"/>
+						<div class="hidden-xs"><br/><br/></div>
+						<video width="100%" height="300" controls>
+						   <source src="/produk/img/dokodemo-kerja/dokodemo-kerja.webm" type="video/webm" />
+						</video><br/><br/>						
 					</div>
 					<div class="col-md-6 text-justify">
 						<h2 class="title2">Apa Itu <span class="blue">Dokodemo-Kerja?</span></h2>
@@ -137,7 +154,7 @@ if(isset($_POST['submitted']))
 								<div class="one-fitur" style="margin-bottom: 0;">
 									<img src="img/dokodemo-kerja/fitur1.png" class="img-responsive"/>
 									Melacak dan memantau tugas karyawan hanya dalam satu klik.<br/>
-									Dokodemo-kerja mengambil cuplikan layar (screen capture) aktivitas kerja karyawan pada layar perangkat komputernya dalam waktu yang acak (random) dan mengirimnya pada tim manajemen (administrator).
+									<strong>Dokodemo-Kerja</strong> mengambil cuplikan layar (screen capture) aktivitas kerja karyawan pada layar perangkat komputernya dalam waktu yang acak (random) dan mengirimnya pada tim manajemen (administrator).
 								</div>
 							</div>
 						</div>				
@@ -149,7 +166,7 @@ if(isset($_POST['submitted']))
 							<span class="anton">Fitur</span><br/> Dokodemo-Kerja
 						</div>
 						<div class="dengan-fitur">
-							<div class="quote">“</div>Dengan fitur-fitur tersebut, Dokodemo-Kerja dapat menjadi revolusi sistem kerja baru bagi perusahaan dan karyawan Anda. 
+							<div class="quote">“</div>Dengan fitur-fitur tersebut, <strong>Dokodemo-Kerja</strong> dapat menjadi revolusi sistem kerja baru bagi perusahaan dan karyawan Anda. 
 						</div>
 					</div>
 					<div class="col-md-6 one-fitur-btm">
@@ -157,7 +174,7 @@ if(isset($_POST['submitted']))
 							<div class="one-fitur">
 								<img src="img/dokodemo-kerja/fitur1.png" class="img-responsive"/>
 								Melacak dan memantau tugas karyawan hanya dalam satu klik.<br/>
-								Dokodemo-kerja mengambil cuplikan layar (screen capture) aktivitas kerja karyawan pada layar perangkat komputernya dalam waktu yang acak (random) dan mengirimnya pada tim manajemen (administrator).
+								<strong>Dokodemo-Kerja</strong> mengambil cuplikan layar (screen capture) aktivitas kerja karyawan pada layar perangkat komputernya dalam waktu yang acak (random) dan mengirimnya pada tim manajemen (administrator).
 							</div>
 						</div>
 						<div class="bg-one-fitur">
@@ -292,7 +309,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-1 col-md-10">
 						<img class="img-responsive center-block" src="img/dokodemo-kerja/dokodemo-logo.png" alt="Dokodemo-Kerja Logo"/>
 						<br/>
-						<div class="title anton">Dokodemo-Kerja merupakan solusi yang tepat.</div>
+						<div class="title anton">Dokodemo-Kerja adalah solusi sistem kerja berupa aplikasi yang mampu merekam, menghitung, serta mengelola aktivitas dan jam kerja karyawan guna meningkatkan produktivitas perusahaan.</div>
 						<hr/>
 						<p>
 							Bagi perusahaan yang sedang mempertimbangkan sistem kerja jarak jauh (freelance, pekerja remote, dsb). Bagi perusahaan yang ingin meningkatkan produktivitas sekaligus kebahagiaan karyawan. Bagi perusahaan yang ingin membatasi penggunaan jam kerja yang tidak efisien, seperti jeda merokok dan istirahat setelah beribadah, menonton video  hiburan yang berlebihan, hingga membuka media sosial pribadi.
@@ -305,14 +322,14 @@ if(isset($_POST['submitted']))
 		<div class="harga" id="price">
 			<div class="container">
 				<div class="title anton">Harga Dokodemo-Kerja</div><br/>
-				<div class="text-center">Dokodemo-Kerja diciptakan bagi perusahaan untuk memantau dan melacak waktu kerja karyawan mereka, para freelancer atau pekerja remote sehingga produktivitas perusahaan meningkat. Berikut ini rincian kategori dari Dokodemo-Kerja. Semua harga paket ini tidak dikenakan biaya tambahan.</div><br/>
+				<div class="text-center"><strong>Dokodemo-Kerja</strong> diciptakan bagi perusahaan untuk memantau dan melacak waktu kerja karyawan mereka, para freelancer atau pekerja remote sehingga produktivitas perusahaan meningkat. Berikut ini rincian kategori dari <strong>Dokodemo-Kerja</strong>. Semua harga paket ini tidak dikenakan biaya tambahan.</div><br/>
 				<br/>
 				<div class="row">
 					<div class="col-md-4">
 						<div class="card-harga">
 							<div class="title-card text-center">Basic Plan</div>
 							<div style="padding:30px 0;border-bottom: 1px solid #fff;">
-								<div class="price"><strong>1 JUTA</strong></div>
+								<div class="price"><strong>1 JUTA IDR</strong></div>
 								<div class="price" style="font-size: 15px;">PER BULAN</div>
 							</div>
 							<div class="plan-list">
@@ -331,9 +348,9 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-4">
 						<div class="card-harga">
-							<div class="title-card text-center">Pro Plan</div>
+							<div class="title-card text-center">Standard Plan</div>
 							<div style="padding:30px 0;border-bottom: 1px solid #fff;">
-								<div class="price"><strong>3 JUTA</strong></div>
+								<div class="price"><strong>3 JUTA IDR</strong></div>
 								<div class="price" style="font-size: 15px;">PER BULAN</div>
 							</div>
 							<div class="plan-list">
@@ -384,7 +401,7 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-lg-12">
 						<div class="title text-center">
-							<span class="blue2">Untuk informasi lebih lanjut mengenai </strong>Dokodemo-kerja</strong>, </span><br/>
+							<span class="blue2">Untuk informasi lebih lanjut mengenai <strong>Dokodemo-Kerja</strong>, </span><br/>
 							silahkan hubungi kami dengan mengisi form dibawah ini!
 						</div>
 					</div>
@@ -423,12 +440,9 @@ if(isset($_POST['submitted']))
 								<div style="padding:10px;background:#fff">
 									<span class="blue fw-300">Jenis Kebutuhan yang spesifik</span>
 									<div class="radiobuttons">
-										<div class="rdio"> <input name="needs" value="Pengenalan Dokodemo-Kerja" id="radio1" type="radio" checked>
-										  <label for="radio1">Tentang pengenalan Dokodemo-Kerja</label>
-										</div>
 										<div class="rdio">
-										  <input name="needs" value="Cara menggunakan Dokodemo-Kerja" id="radio2" type="radio">
-										  <label for="radio2">Tentang cara dan penggunaan Dokodemo-Kerja</label>
+										  <input name="needs" value="Cara menggunakan Dokodemo-Kerja" id="radio2" type="radio" checked>
+										  <label for="radio2">Tentang cara dan penggunaan <strong>Dokodemo-Kerja</strong></label>
 										</div>
 										<div class="rdio">
 										  <input name="needs" value="Untuk kerja jarak jauh" id="radio3" type="radio">
@@ -471,10 +485,10 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-6">
 						<span class="blue2 fw-500">Bagaimana <strong>Dokodemo-Kerja</strong> merekam jam kerja karyawan?</span><br/>
-						Dokodemo-Kerja merekam aktivitas dan jam kerja untuk setiap proyek yang dikerjakan karyawan pada layar perangkat komputernya. Perhitungan akan dimulai dan dihentikan dengan perintah <i>start/stop</i>.<br/><br/>
+						<strong>Dokodemo-Kerja</strong> merekam aktivitas dan jam kerja untuk setiap proyek yang dikerjakan karyawan pada layar perangkat komputernya. Perhitungan akan dimulai dan dihentikan dengan perintah <i>start/stop</i>.<br/><br/>
 						 
 						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> memerlukan akses internet?</span><br/>
-						Akses internet diperlukan untuk mengaktifkan dan mengelola akun Dokodemo-Kerja, serta mengirim data rekaman aktivitas dan jam kerja ke database.<br/><br/>
+						Akses internet diperlukan untuk mengaktifkan dan mengelola akun <strong>Dokodemo-Kerja</strong>, serta mengirim data rekaman aktivitas dan jam kerja ke database.<br/><br/>
 						 
 						<span class="blue2 fw-500">Bagaimana jika akses internet saya putus saat <strong>Dokodemo-Kerja</strong> berjalan?</span><br/>
 						Tidak masalah. Akses internet tidak dibutuhkan selama proses penghitungan. Namun, Anda membutuhkan koneksi internet saat tombol stop diklik untuk mengirim data ke database.<br/><br/>
@@ -483,35 +497,35 @@ if(isset($_POST['submitted']))
 						Jumlah pengguna bisa disesuaikan menurut kebutuhan perusahaan.<br/><br/>
 						 
 						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> bisa diakses lewat perangkat seluler?</span><br/>
-						Untuk saat ini, perangkat seluler hanya bisa mengakses Dokodemo-Kerja melalui browser.<br/><br/>
+						Untuk saat ini, perangkat seluler hanya bisa mengakses <strong>Dokodemo-Kerja</strong> melalui browser.<br/><br/>
 						
 						<span class="blue2 fw-500">Bagaimana cara menyiapkan layanan <strong>Dokodemo-Kerja</strong>? </span><br/>
-						Kami akan menyediakan panduan menyiapkan layanan Dokodemo-Kerja langkah demi langkah. Mulai dari cara mengakses akun master, mengakses aplikasi dan menginstalnya, hingga penggunaannya bagi karyawan.<br/><br/>
+						Kami akan menyediakan panduan menyiapkan layanan <strong>Dokodemo-Kerja</strong> langkah demi langkah. Mulai dari cara mengakses akun master, mengakses aplikasi dan menginstalnya, hingga penggunaannya bagi karyawan.<br/><br/>
 						
 						<span class="blue2 fw-500">Bagaimana cara mengetahui apakah PC atau Mac saya dapat menjalankan <strong>Dokodemo-Kerja</strong>? </span><br/>
-						Dokodemo-Kerja mendukung PC yang menjalankan sistem operasi Windows, Linux, dan Macintosh.<br/><br/>
+						<strong>Dokodemo-Kerja</strong> mendukung PC yang menjalankan sistem operasi Windows, Linux, dan Macintosh.<br/><br/>
 					</div>
 					<div class="col-md-6">
 						<span class="blue2 fw-500">Bahasa apa saja yang tersedia untuk <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Untuk saat ini, Dokodemo-Kerja tersedia dalam Bahasa Indonesia dan Inggris.<br/><br/> 
+						Untuk saat ini, <strong>Dokodemo-Kerja</strong> tersedia dalam Bahasa Indonesia dan Inggris.<br/><br/> 
 						 
 						<span class="blue2 fw-500">Dapatkah saya melakukan uji coba <strong>Dokodemo-Kerja</strong> terlebih dahulu sebelum membelinya?</span><br/>
 						Tentu saja. Untuk mendapatkan layanan uji coba, silakan hubungi kami.<br/><br/>
 						
 						<span class="blue2 fw-500">Bagaimana jika saya punya masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Jangan khawatir. Jika Anda mengalami masalah dalam menggunakan Dokodemo-Kerja, Anda dapat langsung menghubungi kami. Kami akan membantu Anda dengan senang hati.<br/><br/>
+						Jangan khawatir. Jika Anda mengalami masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>, Anda dapat langsung menghubungi kami. Kami akan membantu Anda dengan senang hati.<br/><br/>
 						
 						<span class="blue2 fw-500">Saya tertarik menggunakan <strong>Dokodemo-Kerja</strong> untuk perusahaan saya. Bagaimana saya bisa mendapatkannya?</span><br/>
 						Anda hanya perlu menghubungi kami dengan mengisi formulir yang kami sediakan. Kami siap melayani Anda.<br/><br/>
 						
 						<span class="blue2 fw-500">Seberapa efektifkah <strong>Dokodemo-Kerja</strong> pada produktivitas karyawan?</span><br/>
-						Sangat efektif, karena Dokodemo-Kerja mampu mengkalkulasikan total jam kerja karyawan secara real time dan transparan.<br/><br/>
+						Sangat efektif, karena <strong>Dokodemo-Kerja</strong> mampu mengkalkulasikan total jam kerja karyawan secara real time dan transparan.<br/><br/>
 						
 						<span class="blue2 fw-500">Untuk siapakah <strong>Dokodemo-Kerja</strong> dibuat?</span><br/>
-						Dokodemo-Kerja dibuat untuk para perusahaan yang menggunakan karyawan dengan sistem kerja remote dan independen agar meningkatkan produktifitas perusahaan.<br/><br/>
+						<strong>Dokodemo-Kerja</strong> dibuat untuk para perusahaan yang menggunakan karyawan dengan sistem kerja remote dan independen agar meningkatkan produktifitas perusahaan.<br/><br/>
 						
 						<span class="blue2 fw-500">Apa keuntungan yang didapatkan oleh perusahaan yang menerapkan <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Dengan Dokodemo-Kerja, perusahaan akan diuntungkan dengan produktifitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.<br/><br/>
+						Dengan <strong>Dokodemo-Kerja</strong>, perusahaan akan diuntungkan dengan produktifitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.<br/><br/>
 						
 					</div>
 				</div>
@@ -520,7 +534,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-1 col-md-10">
 						<div style="padding:10px;border:1px solid #edb41a">
 							<div class="div-above-footer">
-								Dokodemo-Kerja adalah solusi sistem kerja berupa aplikasi yang mampu merekam, menghitung, serta mengelola aktivitas dan jam kerja karyawan guna meningkatkan produktivitas perusahaan.
+								<strong>Dokodemo-Kerja</strong> adalah solusi sistem kerja berupa aplikasi yang mampu merekam, menghitung, serta mengelola aktivitas dan jam kerja karyawan guna meningkatkan produktivitas perusahaan.
 							</div>
 						</div>
 					</div>
@@ -534,8 +548,10 @@ if(isset($_POST['submitted']))
 					<div class="col-md-6 col-md-push-6">
 						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
 						<p>
-							Dokodemo-Kerja adalah solusi sistem kerja berupa aplikasi yang mampu merekam, menghitung, serta mengelola aktivitas dan jam kerja karyawan guna meningkatkan produktivitas perusahaan.
+							<strong>Dokodemo-Kerja</strong> adalah solusi sistem kerja berupa aplikasi yang mampu merekam, menghitung, serta mengelola aktivitas dan jam kerja karyawan guna meningkatkan produktivitas perusahaan.
 						</p>
+						<br/><br/>
+						<div class="cr">© 2018<a href="/" class="yellow"> PT. Logique Digital Indonesia.</a> All Rights Reserved.</div>
 					</div>
 					<div class="col-md-6 col-md-pull-6">
 						<ul class="fa-ul">
@@ -553,12 +569,14 @@ if(isset($_POST['submitted']))
 								<span class="fa-li"><i class="fa fa-envelope"></i></span>
 								info@logique.co.id
 							</li>
+							<li>
+								Other Products:<br/>
+								<ul style="list-style-type:disc;padding-left: 2em;">
+									<li style="margin-bottom: 5px;margin-top: 5px;"><a href="/produk/nippo.php" target="_blank">Nippo</a></li>
+									<li><a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a></li>
+								</ul>
+							</li>
 						</ul>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-offset-6 col-md-6">
-						<div class="cr">© 2018<a href="/" class="yellow"> PT. Logique Digital Indonesia.</a> All Rights Reserved.</div>
 					</div>
 				</div>
 			</div>
