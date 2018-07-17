@@ -148,7 +148,7 @@
 										</div>
 									</div>
 								</div>
-								<br/>
+								<!--<br/>
 								<div class="row">
 									<div class="col-md-12 text-left">
 										<center><b class="font-24">We Provide HR-Tech Solutions In Indonesia</b></center><br/>
@@ -188,7 +188,7 @@
 										  </div>
 										</div>
 									</div>
-								</div>
+								</div>-->
 							</div>
 						</div>
 					</div>
@@ -246,7 +246,7 @@
 									</div>
 								</div>
 							</div>
-							<br/>
+							<!--<br/>
 							<div class="row">
 								<div class="col-lg-12">
 									<center><b class="font-24">Kami Menyediakan Solusi HR-Tech di Indonesia</b></center><br/>
@@ -297,7 +297,7 @@
 									  </div>
 									</div>
 								</div>
-							</div>
+							</div>-->
 						</div>
 					</div>
 				</div>

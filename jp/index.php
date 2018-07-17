@@ -141,7 +141,7 @@
 										</div>
 									</div>
 								</div>
-								<br/>
+								<!--<br/>
 								<div class="row">
 									<div class="col-md-12 text-left">
 										<center><b class="font-24">インドネシアでHRテックソリューションを提供していま</b></center><br/>
@@ -181,7 +181,7 @@
 										  </div>
 										</div>
 									</div>
-								</div>
+								</div>-->
 							</div>
 							<br/><br/>
 						</div>
@@ -237,7 +237,7 @@
 									</div>
 								</div>
 							</div>
-							<br/>
+							<!--<br/>
 							<div class="row">
 								<div class="col-lg-12">
 									<center><b class="font-24">インドネシアでHRテックソリューションを提供していま</b></center><br/>
@@ -288,7 +288,7 @@
 									  </div>
 									</div>
 								</div>
-							</div>
+							</div>-->
 						</div>
 					</div>
 				</div>
