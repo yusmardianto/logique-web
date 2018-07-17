@@ -213,7 +213,7 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
-						<a href="#sendcv" class="btn btn-contact-us-black customizebtn">
+						<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
 							Apply for Web Developer
 						</a>
 					</div>
@@ -245,7 +245,7 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
-						<a href="#sendcv" class="btn btn-contact-us-black customizebtn">
+						<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
 							Apply for Content Writer
 						</a>
 					</div>
@@ -280,7 +280,7 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
-						<a href="#sendcv" class="btn btn-contact-us-black customizebtn">
+						<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
 							Apply for UI/UX Designer
 						</a>
 					</div>
@@ -312,7 +312,7 @@
 							<li>Bersedia bekerja di Jakarta Selatan.</li>
 							<li>Tidak memerlukan pengalaman kerja.</li>
 						</ul>
-						<a href="#sendcv" class="btn btn-contact-us-black customizebtn">
+						<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
 							Apply for Front End Developer
 						</a>
 					</div>
@@ -350,7 +350,7 @@
 							<li>Terlibat dalam pengelolaan dan pembaharuan dokumen dalam lingkup HR (peraturan perusahaan, surat kontrak untuk karyawan baru, dan surat penawaran kerja untuk kandidat).</li>
 							<li>Membantu melaksanakan tugas-tugas departemen GA.</li>
 						</ul>
-						<a href="#sendcv" class="btn btn-contact-us-black customizebtn">
+						<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="https://sugoi-saiyo.logique.co.id/" target="_blank" class="btn btn-contact-us-black customizebtn">
 							Apply for HR/GA
 						</a>
 					</div>
@@ -361,15 +361,6 @@
 
 		
 		<div class="bg-footer-new-career" id="sendcv">
-			<span>Jadi, apakah Anda tertarik untuk menjadi bagian dari kami?</span>
-			<br/>
-			<div>Jika Anda memenuhi kriteria salah satu posisi yang kami butuhkan, segera kirim CV beserta portofolio terbaik Anda 
-			<br/>dengan cara klik tombol di bawah ini !</div>
-			<div>
-				<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" style="margin-bottom: 50px;" target="_blank">
-					Apply
-				</a>
-			</div>
 			<p>
 				Jika Anda butuh informasi lebih lanjut mengenai lowongan kerja dan magang di LOGIQUE, silakan hubungi:
 				<br>
