@@ -686,7 +686,7 @@
 			*/ ?>
 			<hr class="separator-career" style="margin-bottom: 0;border-style: solid;"/>
 
-			<div class="karir-bg1">
+			<!--<div class="karir-bg1">
 				<div class="container">
 					<div class="intership">
 						<div class="row">
@@ -703,7 +703,7 @@
 								<p><b class="font16">Memulai hari dengan semangat!</b> Saya biasanya datang sedikit lebih awal untuk menyegarkan diri dengan secangkir kopi. Kami memiliki mesin espresso di kantor kami dengan varian rasa yang berbeda seperti cappuccino atau Americano, atau kita bisa mendapatkan kopi yang baru diseduh dari kedai kopi yang terletak di lantai dasar gedung. Kedua kopinya sangat enak! Aku sangat suka! Berkat kopi yang nikmat, saya dapat merasa segar dan siap untuk bekerja!</p>
 							</div>
 						</div>
-						<div class="row p-t-3 hidden-xs hidden-sm"> <!-- for desktop -->
+						<div class="row p-t-3 hidden-xs hidden-sm"> 
 							<div class="col-md-9 text-right">
 								<span class="styleA"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">09.00 AM</small><img src="../img/prooof/aright.png" class="h61"/></span>
 								<p><b class="font16">Mulai bekerja</b>. Saya memeriksa email dan pekerjaan untuk dapat memahami prioritas dan apa saja yang sebaiknya saya kerjakan pada hari ini. Atasan saya duduk di sebelah saya, jadi saya bisa bertanya apa saja kepadanya. Ketika kita saling berdiskusi, ada pemandangan luar biasa di depan kita! Itu memicu saya untuk mendapatkan lebih banyak inspirasi dan kreatifitas! Melihat pemandangan yang indah selalu menjadi favorit saya ketika di kantor.</p>
@@ -712,7 +712,7 @@
 								<img src="../img/prooof/2.jpg" class="img-responsive img-250 pull-left center-block m-t-1" />
 							</div>
 						</div>
-						<div class="row p-t-3 hidden-md hidden-lg"> <!-- for mobile -->
+						<div class="row p-t-3 hidden-md hidden-lg"> 
 							<div class="col-md-3 text-center">
 								<img src="../img/prooof/2.jpg" class="img-responsive img-250 pull-left center-block m-t-1" />
 							</div>
@@ -730,7 +730,7 @@
 								<p><b class="font16">Tugas pertama</b>. Sangat luar biasa, rasanya mereka memberi saya kepercayaan untuk melakukan beberapa pekerjaan dan saya menyukainya. Saya belajar hal dasar mengenai desain perusahaan dan memiliki banyak pengalaman baru yang menakjubkan. Saya punya banyak teman dan orang untuk membantu saya. Sebagai karyawan magang baru, saya selalu gugup dan tidak banyak bicara tetapi saya disambut dengan sangat baik. Saya dapat berbicara dan bahkan tertawa dengan orang lain saat istirahat pada hari pertama saya.</p>
 							</div>
 						</div>
-						<div class="row p-t-3 hidden-xs hidden-sm"> <!-- for desktop -->
+						<div class="row p-t-3 hidden-xs hidden-sm"> 
 							<div class="col-md-7 text-right">
 								<span class="styleA"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">11.00 AM</small><img src="../img/prooof/aright.png" class="h61"/></span>
 								<p><b class="font16">Meeting pertama!</b> Sebenarnya ini agak menakutkan dan serius ketika saya berpikir tentang "meeting", tetapi atasan saya membuat suasana meeting menjadi menyenangkan sehingga membuat saya merasa nyaman dan mudah untuk memahami serta belajar dari meeting tersebut.</p>
@@ -739,7 +739,7 @@
 								<img src="../img/prooof/4.jpg" class="img-responsive img-250 pull-left center-block m-t-1" />
 							</div>
 						</div>
-						<div class="row p-t-3 hidden-md hidden-lg"> <!-- for mobile -->
+						<div class="row p-t-3 hidden-md hidden-lg"> 
 							<div class="col-md-5 text-center">
 								<img src="../img/prooof/4.jpg" class="img-responsive img-250 pull-left center-block m-t-1" />
 							</div>
@@ -779,7 +779,7 @@
 								<p><b class="font16">Kembali bekerja</b>. Setelah makan siang, saya kembali ke tempat saya untuk melanjutkan pekerjaan saya sementara karyawan lain mempersiapkan diri mereka untuk beribadah. Gedung ini menyediakan ruang ibadah di basement, dan untuk orang-orang yang tidak ingin memiliki usaha ekstra untuk turun, ada juga ruang ibadah di dalam kantor kami.</p>
 							</div>
 						</div>
-						<div class="row p-t-3 hidden-xs hidden-sm"> <!-- for desktop -->
+						<div class="row p-t-3 hidden-xs hidden-sm"> 
 							<div class="col-md-7 text-right">
 								<span class="styleA"><img src="../img/prooof/aleft.png" class="h61"/><small class="styleB">16.00 AM</small><img src="../img/prooof/aright.png" class="h61"/></span>
 								<p><b class="font16">Sedikit istirahat</b>. Pada saat ini, kami akan membahas tentang beberapa makanan ringan yang akan kami nikmati sambil menikmati pemandangan sore yang indah dari kantor. Melihat pemandangan di sore hari membuat saya merasa damai, menyegarkan pikiran saya dari semua pekerjaan yang saya kerjakan sepanjang hari. Setelah itu, saya pun melanjutkan pekerjaan saya lagi.</p>
@@ -788,7 +788,7 @@
 								<img src="../img/prooof/9.JPG" class="img-responsive img-250 pull-left center-block m-t-1" />
 							</div>
 						</div>
-						<div class="row p-t-3 hidden-md hidden-lg"> <!-- for mobile -->
+						<div class="row p-t-3 hidden-md hidden-lg">
 							<div class="col-md-5 text-center">
 								<img src="../img/prooof/9.JPG" class="img-responsive img-250 pull-left center-block m-t-1" />
 							</div>
@@ -808,7 +808,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div>-->
 
 			<h3 class="jobs-subtitle">LOWONGAN MAGANG</h3>
 			<div class="div-explain-intern">
