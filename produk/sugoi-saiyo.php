@@ -65,6 +65,13 @@ if(isset($_POST['submitted']))
 		<header>
 			<div class="container">
 				<div class="row">
+					<div class="language-btn">
+						<ul class="list-inline">
+							<li><a href="/../en/product/sugoi-saiyo.php">EN</a></li>
+							<li class="active"><a href="/produk/sugoi-saiyo.php">ID</a></li>
+							<li><a href="/../jp/product/sugoi-saiyo.php">JP</a></li>
+						</ul>
+					</div>
 					<div class="col-md-offset-1 col-md-10">
 						<img src="img/sugoi-saiyo/logo.png" alt="Sugoi Saiyo Logo" class="img-responsive center-block"> 
 						<h1>Sistem Perekrutan Karyawan</h1>

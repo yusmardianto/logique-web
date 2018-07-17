@@ -40,11 +40,12 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="SUGOI SAIYO adalah sistem IT untuk para staf departemen sumber daya manusia di Indonesia dalam merekrut calon karyawan.">
-	<meta name="keywords" content="">
+    <meta name="description" content="Sugoi Saiyo is a recruitment tool that makes hiring process simple and efficient for both human resources staff and job applicants.">
+	<meta name="keywords" content="recruitment, human resources, recruitment online, recruitment process, tool hire, employment services,
+staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Sugoi Saiyo | Logique Digital Indonesia</title>
+    <title>Recruitment Management System | Efficient Hiring Management | SugoiSaiyo | LOGIQUE</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style_sugoisaiyo.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700" rel="stylesheet">
@@ -63,138 +64,147 @@ if(isset($_POST['submitted']))
 </head>
 	<body>
 		<header>
-			<img src="img/sugoi-saiyo/logo.png" alt="Sugoi Saiyo Logo" class="img-responsive center-block"> 
-			<h1>インドネシアでの採用を効率的に変える、<br>
-			画期的なITソリューション、SUGOI採用。<br>
-			採用の無駄・ムラ・無理をなくします！</h1>
+			<div class="container">
+				<div class="row">
+					<div class="language-btn">
+						<ul class="list-inline">
+							<li class="active"><a href="/../en/product/sugoi-saiyo.php">EN</a></li>
+							<li><a href="/produk/sugoi-saiyo.php">ID</a></li>
+							<li><a href="/../jp/product/sugoi-saiyo.php">JP</a></li>
+						</ul>
+					</div>
+					<div class="col-md-offset-1 col-md-10">
+						<img src="img/sugoi-saiyo/logo.png" alt="Sugoi Saiyo Logo" class="img-responsive center-block"> 
+						<h1>Employee Recruitment System</h1>
+						<div class="text-center desc-first">
+							Are you tired of sifting through too many CV’s and communicating with too many unqualified job seekers? Now, you do not have to be anymore. With SUGOI SAIYO, the <b>recruitment process</b> can be done as efficient as selecting the best food from the menu.
+						</div>
+					</div>
+				</div>
+			</div>
 		</header>
 		<section class="about">
 			<div class="container">
-				<h2>SUGOI採用ってなに？どんなツールなの？</h2>
-				<p>SUGOI採用は、インドネシアの人事部、採用担当者のためのITシステムです。要件に合わない大量のCVのスクリーニング、応募者との連絡の難しさ、ノーShowの多さ、など採用活動には無駄が非常に多いです。<br><br>SUGOI採用は、これら問題を解消し、人事部の、採用担当者のストレスをなくします。応募者にとってもWEBで応募からステータス確認、テスト、オファーレター受領まで簡単に管理できるのでとても便利です。</p>
+				<h2>What is SUGOI SAIYO?</h2>
+				<p>SUGOI SAIYO is an IT Cloud system for <b>human resources</b> department in Indonesia in recruiting prospective employees. There are many obstacles they usually face in the HR selection process, such as filtering out too many CVs that do not meet the requirements, difficulty in communicating with applicants, applicants who bail on interview schedules, and many more. All of these can waste too much time and effort.</p>
+				<h3>SUGOI SAIYO is the solution of the problem.</h3>
+				<p>In addition to helping human resources department, SUGOI SAIYO is also useful for applicants. They can apply directly to certain positions and can easily find out the status of their application, starting from the testing stage, confirmation of the accepted status, up to the offering letter from the company submitted through the website.</p>
 			</div>
 		</section>
 		<section class="obstacle">
 			<div class="container">
 				<div class="row">
-					<div class="language-btn">
-						<ul class="list-inline">
-							<li><a href="/../en/product/sugoi-saiyo.php">EN</a></li>
-							<li><a href="/produk/sugoi-saiyo.php">ID</a></li>
-							<li class="active"><a href="/../jp/product/sugoi-saiyo.php">JP</a></li>
-						</ul>
-					</div>
 					<div class="col-md-4 obstacle-title">
-						<h2>インドネシアの採用の難しさ採用担当者が抱える課題</h2>
+						<h2>OBSTACLES COMPANIES OFTEN FACE IN RECRUITMENT PROCESS</h2>
 						<a href="#contact" class="smooth btn-ss">Try Sugoi Saiyo</a>
 					</div>
 					<div class="col-md-8">
 						<div class="row">
 							<div class="col-md-6 col-sm-6">
 								<img src="img/sugoi-saiyo/kendala-1.png" alt="Kendala" class="img-responsive center-block">
-								<p>応募者と連絡がつかない。応募者が応募について覚えてない。</p>
+								<p>Get a lot of job applications but not meet the requirements required by the company, thus making the selection phase of HR becomes inefficient.</p>
 							</div>
 							<div class="col-md-6 col-sm-6">
 								<img src="img/sugoi-saiyo/kendala-2.png" alt="Kendala" class="img-responsive center-block">
-								<p>要件に合わない大量の履歴書が届く。スクリーニングが大変。</p>
+								<p>Human resources staff can’t contact applicants to provide updated information on their status, and vice versa, applicants are not aware of the latest information regarding the status of applications that have been submitted.</p>
 							</div>
 							<div class="col-md-6 col-sm-6">
 								<img src="img/sugoi-saiyo/kendala-3.png" alt="Kendala" class="img-responsive center-block">
-								<p>応募者が面接に来ない。遅刻する。</p>
+								<p>Applicants arrive late from the specified interview time, or don’t even show up.</p>
 							</div>
 							<div class="col-md-6 col-sm-6">
 								<img src="img/sugoi-saiyo/kendala-4.png" alt="Kendala" class="img-responsive center-block">
-								<p>短期間で少ない来訪回数で決める必要がある。</p>
+								<p>Human resources staff should get candidates that meet the requirements in a short time.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
-		<div class="line-title">上記課題を解決するSUGOI採用の機能</div>
+		<div class="line-title">SUGOI SAIYO FEATURES</div>
 		<section class="feature-company">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-3 col-sm-6 col-xs-12 text-center">
 						<img src="img/sugoi-saiyo/fitur-p.png" alt="Fitur Perusahaan" class="img-feature">
 						<hr>
-						<h2>人事部・採用担当者向け機能</h2>
+						<h2>For Companies</h2>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">1</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-1.png" alt="Fitur Perusahaan"></div>
-							<p>Menampilkan daftar CV yang telah diterima dengan pengelolaan yang mudah.</p>
+							<p>SUGOI SAIYO is able to display the list of CVs that have been accepted so they can be managed very easily.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">2</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-2.png" alt="Fitur Perusahaan"></div>
-							<p>Membuat perjanjian jadwal interview dengan kandidat.</p>
+							<p>Companies can schedule interviews with candidates in a flexible and transparent way.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">3</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-3.png" alt="Fitur Perusahaan"></div>
-							<p>Membuat laporan hasil interview dengan masing-masing kandidat.</p>
+							<p>Create a digital report with numeric scoring of each interview with candidates so that HRD can decide the selection logically.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">4</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-4.png" alt="Fitur Perusahaan"></div>
-							<p>Mengirim dan menerima dokumen yang berkaitan dengan proses seleksi pada kandidat, seperti technical test, offering letter, dan lain-lain.</p>
+							<p>Sending and receiving documents related to the selection process of candidates, such as technical test, offering letter, etc. can be done as easy as sending an email.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">5</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-5.png" alt="Fitur Perusahaan"></div>
-							<p>Mengelola daftar dan informasi posisi atau pekerjaan yang disediakan.</p>
+							<p>Can perform input, edit, and delete data and information about the position available very easily by human resources staff.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">6</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-6.png" alt="Fitur Perusahaan"></div>
-							<p>Memberikan skor pada setiap tahap rekrutmen masing-masing kandidat.</p>
+							<p>Give scores to each recruitment process of each candidate in a transparent way so that candidates are able to know the results real time and anywhere.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">7</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-7.png" alt="Fitur Perusahaan"></div>
-							<p>Mengelola proses rekrutmen di setiap tahap hanya dengan satu klik (process/reject).</p>
+							<p>Manage every stage of HR selection process with just one click (process/reject).</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">8</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-8.png" alt="Fitur Perusahaan"></div>
-							<p>Menampilkan total setiap tahap rekrutmen yang sedang diproses, mulai dari screening CV, jadwal interview, hingga total status offering letter dalam satu laman dashboard.</p>
+							<p>Displays the total of each stage of HR selection that is being processed, from CV screening, interview schedule, to total offering letter status in one dashboard page.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">9</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-9.png" alt="Fitur Perusahaan"></div>
-							<p>Mengelola daftar person in charge user untuk masing-masing posisi.</p>
+							<p>Manage the list of person in charge (PIC) users for each position very easily.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">10</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-10.png" alt="Fitur Perusahaan"></div>
-							<p>Membuat offering letter untuk kandidat secara otomatis.</p>
+							<p>Create offering letters for qualified candidates automatically.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">11</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-11.png" alt="Fitur Perusahaan"></div>
-							<p>Memberikan notifikasi via email untuk setiap perkembangan tahap rekrutmen dari kandidat.</p>
+							<p>Notify via email for every progress of the selection stage of the candidate.</p>
 						</div>
 					</div>
 				</div>
@@ -206,52 +216,52 @@ if(isset($_POST['submitted']))
 					<div class="col-md-3 col-sm-6 col-xs-12 text-center">
 						<img src="img/sugoi-saiyo/fitur-k.png" alt="Fitur Perusahaan" class="img-feature">
 						<hr>
-						<h2>応募者向け機能</h2>
+						<h2>For Candidates</h2>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-candidate">
 							<div class="number">1</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-k-1.png" alt="Fitur Perusahaan"></div>
-							<p>Melakukan registrasi dan mengirim dokumen yang berkaitan dengan proses seleksi, seperti CV, foto, sertifikat, hingga technical test pada posisi yang diinginkan.</p>
+							<p>Register and submit documents related to HR selection process, such as CV, photo, certificate, to technical test at the desired position. All done digitally without the hassle of bringing it all to the selection site.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-candidate">
 							<div class="number">2</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-k-2.png" alt="Fitur Perusahaan"></div>
-							<p>Menampilkan informasi waktu tahap proses rekrutmen yang dilalui atau akan dilakukan kandidat, mulai dari screening CV sampai interview.</p>
+							<p>Display the history time of every process that candidates have passed or will be done, ranging from the CV screening to the interview in a transparent and real time.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-candidate">
 							<div class="number">3</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-k-3.png" alt="Fitur Perusahaan"></div>
-							<p>Menampilkan jadwal interview yang akan dilaksanakan oleh kandidat, baik interview dengan HR, maupun dengan person in charge setiap posisi (manajer) dan direktur.</p>
+							<p>Display the interview schedule which will be executed by candidate, either interview with human resources staff, or with PIC user of every position (manager) and director.</p>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-12">
 						<div class="feature f-candidate-2">
 							<div class="number">4</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-k-4.png" alt="Fitur Perusahaan"></div>
-							<p>Menampilkan status lolos atau tidaknya kandidat dari setiap tahap proses rekrutmen dalam satu tampilan dashboard.</p>
+							<p>Display the pass status of candidates from each stage of the recruitment process in a dashboard view.</p>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-12">
 						<div class="feature f-candidate-2">
 							<div class="number">5</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-k-5.png" alt="Fitur Perusahaan"></div>
-							<p>Memberikan notifikasi via email akan hasil setiap tahap rekrutmen dan konfirmasi jadwal interview.</p>
+							<p>Notify via email of every selection process results and confirmation of interview schedule.</p>
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
-		<div class="line-title">Keuntungan Menggunakan Sugoi Saiyo</div>
+		<div class="line-title">BENEFITS OF USING SUGOI SAIYO</div>
 		<section class="benefit-company">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<h2>Keuntungan untuk Perusahaan</h2>
+						<h2>For Companies</h2>
 					</div>
 				</div>
 				<div class="row">
@@ -259,32 +269,32 @@ if(isset($_POST['submitted']))
 						<div class="row">
 							<div class="col-md-4 col-sm-6 col-xs-12">
 								<div class="benefit">
-									Mudah mengatur jadwal interview dengan kandidat, baik dengan staf rekrutmen maupun dengan manajer.
+									Can have candidates assessment standards based on scoring each stage of HR selection.
 								</div>
 							</div>
 							<div class="col-md-4 col-sm-6 col-xs-12">
 								<div class="benefit">
-									Referensi kandidat yang diterima menjadi lebih banyak dan variatif.
+									Easily arrange interview schedules with candidates, either with human resources staff or with managers.
 								</div>
 							</div>
 							<div class="col-md-4 col-sm-6 col-xs-12">
 								<div class="benefit">
-									Mudah untuk mengontrol, mengawasi, dan melakukan filtrasi kandidat.
+									References of qualified candidates become more numerous and varied.
 								</div>
 							</div>
 							<div class="col-md-4 col-sm-6 col-xs-12">
 								<div class="benefit">
-									Dapat menjamin data kandidat tersimpan dengan aman (secure) dalam sistem.
+									Easy to control, supervise, visualize, and perform candidate filtration.
 								</div>
 							</div>
 							<div class="col-md-4 col-sm-6 col-xs-12">
 								<div class="benefit">
-									Informasi mengenai kandidat ditampilkan secara akurat dan mendetil.
+									Candidates data are guaranteed stored safely (secure) in the system.
 								</div>
 							</div>
 							<div class="col-md-4 col-sm-6 col-xs-12">
 								<div class="benefit">
-									Dapat memiliki standar penilaian kandidat berdasarkan scoring setiap tahap rekrutmen.
+									Information about the candidate is accurate and detailed.
 								</div>
 							</div>
 						</div>
@@ -296,28 +306,28 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<h2>Keuntungan untuk Kandidat</h2>
+						<h2>For Candidate</h2>
 					</div>
 				</div>
 				<div class="row m-50">
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="benefit">
-							Mengikuti tes secara online tanpa harus datang ke perusahaan yang dituju.
+							Take the test online without having to come to the company.
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="benefit">
-							Mengetahui status dari setiap tahap proses rekrutmen secara langsung.
+							Know the status of each stage of the recruitment process directly.
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="benefit">
-							Mempermudah proses lamaran kerja hanya dengan langkah registrasi dan mengisi formulir secara online.
+							Simplify the job application process only by registration step and fill out the form online.
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="benefit">
-							Menghemat biaya dan waktu dengan proses yang singkat dan sederhana. 
+							Save cost and time with a short and simple process.
 						</div>
 					</div>
 				</div>
@@ -328,19 +338,19 @@ if(isset($_POST['submitted']))
 		</div>
 		<section class="why-ss">
 			<div class="container">
-				<h2>KENAPA HARUS MENGGUNAKAN SUGOI SAIYO?</h2>
+				<h2>WHY SUGOI SAIYO?</h2>
 				<div class="row m-50">
 					<div class="col-md-4">
 						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-1.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>Mudah diakses dan digunakan, baik oleh tim rekrutmen maupun oleh kandidat</p>
+						<p>Extremely accessible and easy to use, by both HR staff and candidates.</p>
 					</div>
 					<div class="col-md-4">
 						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-2.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>Memiliki user interface yang sederhana</p>
+						<p>Very simple user interface.</p>
 					</div>
 					<div class="col-md-4">
 						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-3.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>Proses rekrutmen dapat dipantau, mulai dari registrasi kandidat hingga status lolos</p>
+						<p>Recruitment process can be monitored, from registration to pass status.</p>
 					</div>
 				</div>
 			</div>
@@ -352,36 +362,35 @@ if(isset($_POST['submitted']))
 						<img src="img/sugoi-saiyo/qna.png" alt="Sugoi Saiyo">
 					</div>
 					<div class="col-md-9">
-						<h2>PERTANYAAN YANG SERING DIAJUKAN : </h2>
+						<h2>FREQUENTLY ASKED QUESTIONS</h2>
 					</div>
 				</div>
 				<div class="row m-50">
 					<div class="col-sm-6">
-						<h3>Bagaimana cara kerja   SAIYO? </h3>
-						<p>SUGOI SAIYO mempertemukan tim rekrutmen dengan kandidat yang sesuai secara terarah dengan menyediakan proses rekrutmen yang singkat dan mudah dikelola oleh kedua belah pihak.</p>
-						<h3>Bagaimana tim rekrutmen tahu jika seorang kandidat mengajukan lamaran?</h3>
-						<p>Tim rekrutmen akan dikirimkan notifikasi melalui email. Email tersebut akan menyebutkan nama kandidat dan tim rekrutmen bisa langsung memeriksa detil data dirinya.</p>
-						<h3>Apakah ada batasan jumlah lowongan yang bisa dipos oleh tim rekrutmen di SUGOI SAIYO? </h3>
-						<p>Tidak ada. Tim rekrutmen bisa membuat daftar lowongan posisi yang tersedia sebanyak mungkin.</p>
-						<h3>Apakah SUGOI SAIYO hanya diperuntukkan bagi departemen SDM perusahaan? </h3>
-						<p>SUGOI SAIYO menyediakan laman kelola yang berbeda untuk level departemen SDM (tim rekrutmen) dan level manajer (person in charge).</p>
-						<h3>Apa perbedaan laman kelola untuk tim rekrutmen dengan manajer?</h3>
-						<p>Laman kelola untuk level manajer hanya menampilkan hasil technical test, jadwal interview, dan laporan hasil interview. </p>
-						<h3>Bagaimana standar tahapan rekrutmen yang diadopsi SUGOI SAIYO? </h3>
-						<p>SUGOI SAIYO mengadopsi standar rekrutmen perusahaan pada  umumnya.</p>
+						<h3>How does SUGOI SAIYO work?</h3>
+						<p>SUGOI SAIYO brings recruitment teams with the right targeted candidates together by providing a simple and manageable recruitment process by both parties.</p>
+						<h3>How does the recruitment team know if a candidate submits an application?</h3>
+						<p>Human resources staff will be notified via email. The email will mention the names of candidates and HR staff can directly check the details of his data.</p>
+						<h3>Is there a limit on the number of vacancies that can be posted by the recruitment team at SUGOI SAIYO?</h3>
+						<p>Of course not! Human resources staff can list available vacancy positions as many as possible.</p>
+						<h3>Is SUGOI SAIYO only for the company’s HR department?</h3>
+						<p>SUGOI SAIYO provides different management pages for human resources department level (recruitment team) and manager level (person in charge).</p>
+						<h3>What’s the difference between managing pages for recruitment teams with managers?</h3>
+						<p>Managers page for manager level only shows the results of technical test, interview schedule, and interview report.</p>
+						<h3>What is the standard of recruitment stages adopted by SUGOI SAIYO?</h3>
+						<p>SUGOI SAIYO adopts standard HR selection in general. However, the standard of this stage can be modified and adjusted to your request.</p>
 					</div>
 					<div class="col-sm-6">
-						<p> Namun, standar tahapan ini bisa dimodifikasi dan disesuaikan dengan permintaan Anda.</p>
-						<h3>Apakah ada batasan jumlah kandidat yang bisa saya terima untuk setiap posisi?</h3>
-						<p>Tidak ada. Setiap posisi bisa menerima sebanyak mungkin kandidat. Begitu juga sebaliknya, kandidat bisa mengajukan lamaran ke lebih dari satu posisi.</p>
-						<h3>Bagaimana cara kandidat mengajukan lamaran untuk posisi yang tersedia? </h3>
-						<p>Cukup dengan memilih posisi yang ingin dilamar, lalu mengisi data diri di formulir yang disediakan.</p>
-						<h3>Bagaimana cara kandidat mendapatkan informasi lanjutan dari tahap seleksi lamarannya? </h3>
-						<p>Informasi hasil dari setiap proses rekrutmen selalu diperbarui oleh tim rekrutmen, dan kandidat dapat melihat pembaharuan tersebut, baik di laman dashboard-nya sendiri maupun melalui email notifikasi otomatis.</p>
-						<h3>Apakah SUGOI SAIYO bisa diakses oleh browser apa pun?</h3>
-						<p>Situs kami bisa diakses oleh browser mana pun, termasuk oleh browser bawaan perangkat seluler. Jika Anda mengalami masalah, silakan hubungi kami untuk bantuan.</p>
-						<h3>Saya tertarik menggunakan SUGOI SAIYO untuk perusahaan saya. Bagaimana cara saya bisa mulai menggunakannya? </h3>
-						<p>Anda bisa langsung menghubungi kami lewat salah satu kontak yang kami sediakan. Kami siap melayani Anda dengan senang hati. </p>
+						<h3>Is there a limit on the number of candidates I can receive for each position?</h3>
+						<p>Nope. Each position can receive as many candidates as possible. Vice versa, candidates can apply to more than one position.</p>
+						<h3>How does the candidate apply for an available position?</h3>
+						<p>Simply by choosing the position you want to apply, then fill in the data in the form provided.</p>
+						<h3>How does the candidate obtain further information from the selection stage of his application?</h3>
+						<p>Result information of each recruitment process is always updated by human resources staff, and candidates can see the updates, either on their own dashboard page or via automated notification email.</p>
+						<h3>Is SUGOI SAIYO accessible by any browser?</h3>
+						<p>Our site can be accessed by any browser, including by the mobile device&#39;s built-in browser. If you have any problem, you can contact us for assistance.</p>
+						<h3>I am interested in using SUGOI SAIYO for my company. How can I start using it?</h3>
+						<p>You can contact us directly through one of the contacts we provide. We are ready to serve you gladly.</p>
 					</div>
 				</div>
 			</div>
@@ -389,7 +398,7 @@ if(isset($_POST['submitted']))
 		<section class="contact" id="contact">
 			<div class="container">
 				<div class="box">
-					<h2>Sugoi Saiyoに関するお問い合わせ</h2>
+					<h2>Contact Us</h2>
 					<?php if(isset($msg))
 					{
 					echo $msg;
@@ -402,28 +411,28 @@ if(isset($_POST['submitted']))
 						<div class="row">
 							<div class="col-md-6">
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="お名前" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
+									<input type="text" class="form-control" placeholder="Name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 								</div>
 								<div class="form-group">
-									<input type="number" class="form-control" placeholder="TEL" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
+									<input type="number" class="form-control" placeholder="Phone" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
 								</div>
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="会社名" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
+									<input type="text" class="form-control" placeholder="Company" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
 								</div>
 								<div class="form-group">
-									<input type="email" class="form-control" placeholder="EMAIL" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+									<input type="email" class="form-control" placeholder="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="お問い合わせ内容" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+									<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Message" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</div>
 								<div class="form-group">
 									<div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
 								</div>
 							</div>
 							<div class="col-md-12 text-center m-50">
-								<button type="submit" class="btn-ss2">送信</button>
+								<button type="submit" class="btn-ss2">Send</button>
 							</div>
 						</div>
 					</form>
@@ -442,7 +451,7 @@ if(isset($_POST['submitted']))
 						</p>
 					</div>
 					<div class="col-md-4">
-						<p class="phone"><a href="tel:+62216505656">+62 21 650 5656</a></p>
+						<p class="phone"><a href="tel:+62216505656">+62 21 6505656</a></p>
 						<p class="email"><a href="mailto:info@sugoi-saiyo.co.id">info@sugoi-saiyo.co.id</a></p>
 					</div>
 				</div>
