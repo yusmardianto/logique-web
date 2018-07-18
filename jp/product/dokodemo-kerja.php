@@ -73,31 +73,17 @@ if(isset($_POST['submitted']))
 					<a class="navbar-brand" href="#">
 						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="" class="img-responsive center-block">
 					</a>
-					<div class="pull-left visible-xs">
-						<ul class="nav-lang">
-							<li class="pull-left"><a href="/produk/dokodemo-kerja.php">IND</a></li>
-							<li class="pull-left"><a href="#">ENG</a></li>
-							<li class="pull-left active">JPN</li>
-						</ul>
-					</div>
 				  </div>
 				  <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
 					<ul class="nav navbar-nav">
 					  <li><a href="#introduction" class="smooth">はじめに</a></li>
-					  <li><a href="#about" class="smooth">Dokodemo-Kerjaについて</a></li>
+					  <li><a href="#about" class="smooth">DOKODEMO-KERJAについて</a></li>
 					  <li><a href="#fitur" class="smooth">機能</a></li>　
 					  <li><a href="#benefits" class="smooth li-mt">導入メリット</a></li>　
 					  <li><a href="#price" class="smooth li-mt">価格</a></li>　
 					  <li><a href="#divForm" class="smooth li-mt">お問い合わせ</a></li>
 					</ul>
-					<a href="/jp/" target="_blank"><img class="pull-right img-responsive center-block logo-logique-header" src="img/dokodemo-kerja/logo_logique.png"/></a>
-					<div class="pull-right">
-						<ul class="nav-lang hidden-xs">
-							<li class="pull-left"><a href="/produk/dokodemo-kerja.php">IND</a></li>
-							<li class="pull-left"><a href="#">ENG</a></li>
-							<li class="pull-left active">JPN</li>
-						</ul>
-					</div>
+					<a href="/" target="_blank"><img class="pull-right img-responsive center-block logo-logique-header" src="img/dokodemo-kerja/logo_logique.png"/></a>
 				  </div><!--/.nav-collapse -->  
 				</div><!--/.container-fluid -->
 			</nav>
@@ -108,19 +94,19 @@ if(isset($_POST['submitted']))
 							<h1 class="anton title"> 自由と生産性を追求した働き方を！</h1>
 							<hr/>
 							<div class="content-header">
-								<div class="begin-dokdem"><span style="font-size: 20px;">インドネシアでリモートワークを推進しています。 <br/>柔軟に、独立した、プロフェッショナルな勤務体系で、会社も従業員もハッピーに！</span>
-								<br/><br/></div>
+								<center><span style="font-size: 20px;">インドネシアでリモートワークを推進しています。 <br/>柔軟に、独立した、プロフェッショナルな勤務体系で、会社も従業員もハッピーに！</span></center>
+								<br/><br/>
 								従業員の皆さん、毎日の通勤ストレスですよね？小さい子供の世話を誰かが代わりに見てくれれば自分の専門性を活かせるのに。もっとフレキシブルに働かせて貰えれば今よりずっと生産性発揮するのに、などなどの不満ありませんか？<br/><br/>
 
 								経営者・人事マネージャの皆さん、従業員の遅刻欠勤を管理、取り締まるのに飽き飽きですよね。真面目なだけが取り柄の生産性が低いスタッフが残っても本末転倒ですよね。従業員には幸せに活き活きと仕事をし、かつ高い生産性を生んでもらいたいですよね？<br/><br/>
 
-								<strong>Dokodemo-Kerja</strong>は上記を全て解決する画期的なITソリューションです。<br/><br/>
+								Dokodemo-Kerjaは上記を全て解決する画期的なITソリューションです。<br/><br/>
 
 								このサービスを利用すれば、従業員は勤務場所の制約から開放され、好きな時間に好きな場所からのリモートワークが可能となります。いままで問題と考えられていた、さぼり、非集中などについては、ランダムにラップトップのスクリーンショットが撮られ管理者に送信されることで管理することができます。管理者は従業員の勤務時間と作業内容を突き合わせて管理することが可能となり、従業員の虚偽報告を防ぐことができます。<br/><br/>
 
-								今までのリモートワーク管理ツールは、どうしてもリモートワーカーに面倒な報告を義務付ける必要がありましたが、<strong>Dokodemo-Kerja</strong>は従業員にも管理者の双方に手間がかかりません。<br/><br/>
+								今までのリモートワーク管理ツールは、どうしてもリモートワーカーに面倒な報告を義務付ける必要がありましたが、Dokodemo-Kerjaは従業員にも管理者の双方に手間がかかりません。<br/><br/>
 
-								インドネシアの交通事情を考えると、幸福感を大きくUPする画期的なソリューションだと自負しています。雨が多い時期にだけ週に2回自宅勤務とする、出産前後だけ実家で勤務などの柔軟な勤務方法を許容する、などが可能になる他、オフィスでの勤務者にも<strong>Dokodemo-Kerja</strong>を導入することで出退勤や休憩時間の管理、過度なビデオやSNSの視聴を防ぐことが可能となります。
+								インドネシアの交通事情を考えると、幸福感を大きくUPする画期的なソリューションだと自負しています。雨が多い時期にだけ週に2回自宅勤務とする、出産前後だけ実家で勤務などの柔軟な勤務方法を許容する、などが可能になる他、オフィスでの勤務者にもDokodemo-Kerjaを導入することで出退勤や休憩時間の管理、過度なビデオやSNSの視聴を防ぐことが可能となります。
 							</p>
 							</div>
 						</div>
@@ -133,14 +119,11 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-6">
 						<div class="title">
-							<span class="blue">Dokodemo-Kerjaについて</span><br/>
+							<span class="blue">DOKODEMO-KERJAについて</span><br/>
 							<div class="quote">“</div>リモートワーク（テレワーク）を可能にして、従業員の生産性を向上させ、管理者の管理工数を減らす画期的なクラウドツールです。
 						</div>
 						<br/>
-						<div class="hidden-xs"><br/><br/></div>
-						<video width="100%" height="300" controls>
-						   <source src="/produk/img/dokodemo-kerja/dokodemo-kerja.webm" type="video/webm" />
-						</video><br/><br/>
+						<img src="img/dokodemo-kerja/bg-black.png" alt="Apa itu Dokodemo-Kerja?" class="img-responsive"/>
 					</div>
 					<div class="col-md-6 text-justify">
 						<span class="blue">Dokodemo-Kerja</span>は、リモートワーク / テレワークにて、フレキシブルに生産性をあげることに集中して効率的に働きたい従業員にも、皆にフェアな機会を与えて、さぼりを抑止したい経営者、人事マネージャーの両者にメリットのある製品・ソリューションです。<br/><br/>
@@ -177,10 +160,10 @@ if(isset($_POST['submitted']))
 				<div class="row" style="margin:0">
 					<div class="col-md-6" style="padding: 0;">
 						<div class="title-fitur anton">
-							Dokodemo-Kerja<br/>機能
+							DOKODEMO-KERJA<br/>機能
 						</div>
 						<div class="dengan-fitur">
-							<div class="quote">“</div>リモートワークをユーザー、管理者、双方にメリットあるように実現することが可能な機能をDokodemo-Kerjaは提供しています。
+							<div class="quote">“</div>リモートワークをユーザー、管理者、双方にメリットあるように実現することが可能な機能をDOKODEMO-KERJAは提供しています。
 						</div>
 					</div>
 					<div class="col-md-6 one-fitur-btm">
@@ -237,12 +220,12 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-lg-6">
 						<div class="pl-25">
-							<div class="anton title-masalah1">Dokodemo-Kerja</div>
+							<div class="anton title-masalah1">DOKODEMO-KERJA</div>
 							<div class="kami-siap">導入メリット</div>
 							<div class="desc-bantu">
 								<div class="quote">“</div>
-								<strong>Dokodemo-Kerja</strong>はユーザーと管理者の双方にメリットのある働き方を支援するツールです。<br/>
-								管理者のためのツールではありません。<strong>Dokodemo-Kerja</strong>を導入することにより、ユーザーは自由で柔軟な働き方を実現でき、生産性の向上に繋がります。
+								<strong>DOKODEMO-KERJA</strong>はユーザーと管理者の双方にメリットのある働き方を支援するツールです。<br/>
+								管理者のためのツールではありません。<strong>DOKODEMO-KERJA</strong>を導入することにより、ユーザーは自由で柔軟な働き方を実現でき、生産性の向上に繋がります。
 							</div>
 						</div>
 					</div>
@@ -258,7 +241,7 @@ if(isset($_POST['submitted']))
 							<ul class="fa-ul">
 								<li><span class="fa-li"><i class="fa fa-circle"></i></span>勤怠管理を容易にします。勤務時間の虚偽報告を防ぐことができ、勤務時間不足や過度な長時間労働を防ぐことができます。</li>
 								<li><span class="fa-li"><i class="fa fa-circle"></i></span>スクリーンショットを確認することで、勤務時間中に業務に関係のないことをしていないか監視できます。</li>
-								<li><span class="fa-li"><i class="fa fa-circle"></i></span>従業員の勤怠管理に非効率な時間を割く必要がなくなります。Dokodemo-KerjaをチェックするだけでOK。</li>
+								<li><span class="fa-li"><i class="fa fa-circle"></i></span>従業員の勤怠管理に非効率な時間を割く必要がなくなります。DOKODEMO-KERJAをチェックするだけでOK。</li>
 							</ul>
 						</div>
 					</div>
@@ -271,7 +254,7 @@ if(isset($_POST['submitted']))
 					<div class="col-lg-6">
 						<div class="pl-25" style="min-height: 169px">
 							<ul class="fa-ul">
-								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Dokodemo-Kerjaにログインしさえすれば、場所を選ばず勤務開始と終了の報告ができます。</li>
+								<li><span class="fa-li"><i class="fa fa-circle"></i></span>DOKODEMO-KERJAにログインしさえすれば、場所を選ばず勤務開始と終了の報告ができます。</li>
 								<li><span class="fa-li"><i class="fa fa-circle"></i></span>生産性をあげられる時間に、柔軟に勤務することができるようになります。合計時間が規定の時間に達したかどうかを把握可能です。</li>
 								<li><span class="fa-li"><i class="fa fa-circle"></i></span>ある作業に想定以上に時間がかかってしまった場合でも管理者はスクリーンショットからそれを理解可能です。毎日の非効率なレポート工数をなくします。</li>
 							</ul>
@@ -322,7 +305,8 @@ if(isset($_POST['submitted']))
 						<br/>
 						<div class="title anton">リモートワークで幸せに生産性高く働きましょう！</div>
 						<hr/>
-						<p>	Dokodemo-Kerjaを導入することで、インドネシアでリモートワークを導入しましょう。交通事情が悪いジャカルタにおいてリモートワークを導入することは従業員の幸福度を向上し、ついては生産性の向上に繋がります。お祈り休憩や喫煙休憩が長い社員がいる、Youtubeをずっと見ている社員がいる、などの問題はセンシティブで解決が難しいですが、これらもDokodemo-Kerjaの導入で解決します。
+						<p>
+							DOKODEMO-KERJAを導入することで、インドネシアでリモートワークを導入しましょう。交通事情が悪いジャカルタにおいてリモートワークを導入することは従業員の幸福度を向上し、ついては生産性の向上に繋がります。お祈り休憩や喫煙休憩が長い社員がいる、Youtubeをずっと見ている社員がいる、などの問題はセンシティブで解決が難しいですが、これらもDOKODEMO-KERJAの導入で解決します。
 						</p>
 					</div>
 				</div>
@@ -331,16 +315,17 @@ if(isset($_POST['submitted']))
 		
 		<div class="harga" id="price">
 			<div class="container">
-				<div class="title anton">価格</div><br/>
-				<div class="text-center">Dokodemo-Kerjaは初期費用なしで利用可能です。下のプランからご利用用途にあわせてお選びください。御社に合わせた特別なカスタマイズも可能ですのでお気軽にご相談ください。</div><br/>
+				<div class="title anton">料金</div><br/>
+				<div class="text-center">DOKODEMO-KERJAは初期費用なしで利用可能です。下のプランからご利用用途にあわせてお選びください。
+御社に合わせた特別なカスタマイズも可能ですのでお気軽にご相談ください。</div><br/>
 				<br/>
 				<div class="row">
 					<div class="col-md-4">
 						<div class="card-harga">
-							<div class="title-card text-center">基本プラン</div>
+							<div class="title-card text-center">Basic Plan</div>
 							<div style="padding:30px 0;border-bottom: 1px solid #fff;">
-								<div class="price"><strong>1 JUTA IDR</strong></div>
-								<div class="price" style="font-size: 15px;">月額</div>
+								<div class="price"><strong>1 JUTA</strong></div>
+								<div class="price" style="font-size: 15px;">PER BULAN</div>
 							</div>
 							<div class="plan-list">
 								<ul class="fa-ul">
@@ -358,10 +343,10 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-4">
 						<div class="card-harga">
-							<div class="title-card text-center">スタンダードプラン</div>
+							<div class="title-card text-center">Pro Plan</div>
 							<div style="padding:30px 0;border-bottom: 1px solid #fff;">
-								<div class="price"><strong>3 JUTA IDR</strong></div>
-								<div class="price" style="font-size: 15px;">月額</div>
+								<div class="price"><strong>3 JUTA</strong></div>
+								<div class="price" style="font-size: 15px;">PER BULAN</div>
 							</div>
 							<div class="plan-list">
 								<ul class="fa-ul">
@@ -379,7 +364,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-4">
 						<div class="card-harga">
-							<div class="title-card text-center">エンタープライズプラン</div>
+							<div class="title-card text-center">Enterprise Plan</div>
 							
 							<div class="text-center heightauto" style="padding:15px;">
 							<div class="valign-center">
@@ -412,7 +397,7 @@ if(isset($_POST['submitted']))
 					<div class="col-lg-12">
 						<div class="title text-center">
 							<span class="blue2">お問い合わせ</span><br/><br/>
-							インドネシアでリモートワークを実現したい会社さま、従業員の勤怠管理にお悩みの人事担当者さま、生産性向上をしたいプロジェクトマネージャーなど、Dokodemo-Kerjaをお試しください。無料試用も可能ですのでお問い合わせください。
+							インドネシアでリモートワークを実現したい会社さま、従業員の勤怠管理にお悩みの人事担当者さま、生産性向上をしたいプロジェクトマネージャーなど、DOKODEMO-KERJAをお試しください。無料試用も可能ですのでお問い合わせください。
 						</div>
 					</div>
 				</div>
@@ -450,9 +435,12 @@ if(isset($_POST['submitted']))
 								<div style="padding:10px;background:#fff">
 									<span class="blue fw-300">お問い合わせ種</span>
 									<div class="radiobuttons">
+										<div class="rdio"> <input name="needs" value="DOKODEMO-KERJAのデモをリクエスト" id="radio1" type="radio" checked>
+										  <label for="radio1">DOKODEMO-KERJAのデモをリクエスト</label>
+										</div>
 										<div class="rdio">
-										  <input name="needs" value="Dokodemo-Kerjaを試用したい" id="radio2" type="radio" checked>
-										  <label for="radio2">Dokodemo-Kerjaを試用したい</label>
+										  <input name="needs" value="DOKODEMO-KERJAを試用したい" id="radio2" type="radio">
+										  <label for="radio2">DOKODEMO-KERJAを試用したい</label>
 										</div>
 										<div class="rdio">
 										  <input name="needs" value="人事管理システムの導入を検討している" id="radio3" type="radio">
@@ -560,8 +548,6 @@ if(isset($_POST['submitted']))
 						<p>
 							Dokodemo-Kerja adalah solusi sistem kerja berupa aplikasi yang mampu merekam, menghitung, serta mengelola aktivitas dan jam kerja karyawan guna meningkatkan produktivitas perusahaan.
 						</p>
-						<br/><br/>
-						<div class="cr">© 2018<a href="/" class="yellow"> PT. Logique Digital Indonesia.</a> All Rights Reserved.</div>
 					</div>
 					<div class="col-md-6 col-md-pull-6">
 						<ul class="fa-ul">
@@ -579,14 +565,12 @@ if(isset($_POST['submitted']))
 								<span class="fa-li"><i class="fa fa-envelope"></i></span>
 								info@logique.co.id
 							</li>
-							<li>
-								Other Products:<br/>
-								<ul style="list-style-type:disc;padding-left: 2em;">
-									<li style="margin-bottom: 5px;margin-top: 5px;"><a href="/jp/product/nippo.php" target="_blank">Nippo</a></li>
-									<li><a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a></li>
-								</ul>
-							</li>
 						</ul>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-offset-6 col-md-6">
+						<div class="cr">© 2018<a href="/" class="yellow"> PT. Logique Digital Indonesia.</a> All Rights Reserved.</div>
 					</div>
 				</div>
 			</div>
