@@ -77,9 +77,16 @@ if(isset($_POST['submitted']))
 		<section class="obstacle">
 			<div class="container">
 				<div class="row">
+					<div class="language-btn">
+						<ul class="list-inline">
+							<li><a href="/../en/product/sugoi-saiyo.php">EN</a></li>
+							<li><a href="/produk/sugoi-saiyo.php">ID</a></li>
+							<li class="active"><a href="/../jp/product/sugoi-saiyo.php">JP</a></li>
+						</ul>
+					</div>
 					<div class="col-md-4 obstacle-title">
 						<h2>インドネシアの採用の難しさ採用担当者が抱える課題</h2>
-						<a href="#contact" class="smooth btn-ss">Coba Sugoi Saiyo</a>
+						<a href="#contact" class="smooth btn-ss">Try Sugoi Saiyo</a>
 					</div>
 					<div class="col-md-8">
 						<div class="row">
