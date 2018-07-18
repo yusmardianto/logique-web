@@ -368,6 +368,15 @@ footer p.phone:before {
 footer p.email:before {
 	content: url(../img/sugoi-saiyo/i-email.png);
 }
+footer p.link:before {
+	content: '';
+}
+footer p.link a:hover {
+	color: #1484e2;
+}
+footer p.link a {
+	padding-left:10px;
+}
 
 .language-btn {position: absolute;right: 1.5em;top: 1.5em}
 .list-inline>li.active {border: solid 2px #1484e2;border-radius: 1em;padding: 3px 6px;}
