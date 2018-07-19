@@ -85,6 +85,7 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 		</header>
 		<section class="about">
 			<div class="container">
+				<a href="/"><img src="img/sugoi-saiyo/logo_logique.png" alt="Sugoi Saiyo Logo" style="position:absolute;top: 0;"></a>
 				<h2>What is SUGOI SAIYO?</h2>
 				<p>SUGOI SAIYO is an IT Cloud system for <b>human resources</b> department in Indonesia in recruiting prospective employees. There are many obstacles they usually face in the HR selection process, such as filtering out too many CVs that do not meet the requirements, difficulty in communicating with applicants, applicants who bail on interview schedules, and many more. All of these can waste too much time and effort.</p>
 				<h3>SUGOI SAIYO is the solution of the problem.</h3>
@@ -447,12 +448,17 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 					</div>
 					<div class="col-md-4">
 						<p class="address">
-							Jalan Tb. Simatupang no. 1. Ragunan, <br>Pasar Minggu, Kota Jakarta Selatan, <br>DKI Jakarta 12540
+							Ad Premier Building 19th Floor Jalan Tb. Simatupang No. 5 Ragunan, Ps. Minggu, Jakarta Selatan, Indonesia 12550
+						</p>
+						<p class="link">
+							<span>Product LOGIQUE :</span>
+							<a href="/../produk/nippo.php">Nippo</a>
+							<a href="/../produk/dokodemo-kerja.php">Dokodemo-Kerja</a>
 						</p>
 					</div>
 					<div class="col-md-4">
-						<p class="phone"><a href="tel:+62216505656">+62 21 6505656</a></p>
-						<p class="email"><a href="mailto:info@sugoi-saiyo.co.id">info@sugoi-saiyo.co.id</a></p>
+						<p class="phone">+62(21) 2270 8935 / 36</p>
+						<p class="email"><a href="mailto:info@sugoi-saiyo.co.id">info@logique.co.id</a></p>
 					</div>
 				</div>
 			</div>

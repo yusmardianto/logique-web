@@ -84,6 +84,7 @@ if(isset($_POST['submitted']))
 		</header>
 		<section class="about">
 			<div class="container">
+				<a href="/"><img src="img/sugoi-saiyo/logo_logique.png" alt="Sugoi Saiyo Logo" style="position:absolute;top: 0;"></a>
 				<h2>Apa Itu Sugoi Saiyo?</h2>
 				<p>SUGOI SAIYO adalah sistem IT untuk para staf departemen sumber daya manusia di Indonesia dalam merekrut calon karyawan. Banyak kendala yang biasa mereka hadapi dalam proses <b>seleksi SDM</b>, seperti menyaring terlalu banyak CV yang tidak memenuhi persyaratan, kesulitan dalam melakukan komunikasi dengan pelamar, banyaknya pelamar yang tidak menghadiri <i>interview</i>, dan lain-lain. Hal ini bisa membuang terlalu banyak waktu dan tenaga.</p>
 				<h3>SUGOI SAIYO merupakan solusi dari masalah tersebut.</h3>
@@ -446,12 +447,17 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-4">
 						<p class="address">
-							Jalan Tb. Simatupang no. 1. Ragunan, <br>Pasar Minggu, Kota Jakarta Selatan, <br>DKI Jakarta 12540
+							Ad Premier Building 19th Floor Jalan Tb. Simatupang No. 5 Ragunan, Ps. Minggu, Jakarta Selatan, Indonesia 12550
+						</p>
+						<p class="link">
+							<span>Product LOGIQUE :</span>
+							<a href="/../produk/nippo.php">Nippo</a>
+							<a href="/../produk/dokodemo-kerja.php">Dokodemo-Kerja</a>
 						</p>
 					</div>
 					<div class="col-md-4">
-						<p class="phone">+62 21 6505656</p>
-						<p class="email"><a href="mailto:info@sugoi-saiyo.co.id">info@sugoi-saiyo.co.id</a></p>
+						<p class="phone">+62(21) 2270 8935 / 36</p>
+						<p class="email"><a href="mailto:info@sugoi-saiyo.co.id">info@logique.co.id</a></p>
 					</div>
 				</div>
 			</div>
