@@ -14,7 +14,7 @@
 	<meta property="og:url" content="https://www.logique.co.id/career">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="LOGIQUE membuka lowongan kerja untuk Web Developer, Designer, Mobile App Developer, Technical Consultant, atau Content Writer. Yuk cari tau dan daftar sekarang.">
-	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="/../../favicon.ico">
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
