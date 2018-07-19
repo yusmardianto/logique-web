@@ -40,12 +40,12 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Sugoi Saiyo is a recruitment tool that makes hiring process simple and efficient for both human resources staff and job applicants.">
+    <meta name="description" content="Sugoi Saiyo is a recruitment tool that makes recruitment simple and efficient for both human resources staff and job applicants.">
 	<meta name="keywords" content="recruitment, human resources, recruitment online, recruitment process, tool hire, employment services,
 staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Recruitment Management System | Efficient Hiring Management | SugoiSaiyo | LOGIQUE</title>
+    <title>Efficient Recruitment in Indonesia | SugoiSaiyo | LOGIQUE DIGITAL INDONESIA</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style_sugoisaiyo.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700" rel="stylesheet">

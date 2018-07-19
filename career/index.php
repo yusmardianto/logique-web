@@ -108,7 +108,7 @@
 								Sistem kerja remote yang kami tawarkan ini berlaku bagi seluruh wilayah Indonesia dan mancanegara yang berminat untuk bergabung bersama kami.
 							</p>
 							<div class="text-center">
-								<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="margin-top:0">
+								<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="margin-top:0">
 									Apply
 								</a>
 							</div>
@@ -247,7 +247,7 @@
 					</div>			
 				</div>
 				<div class="text-center">
-					<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+					<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 						Apply
 					</a>
 				</div>			
@@ -384,7 +384,7 @@
 							<li>Bertanggung jawab dalam memastikan dan merilis dokumentasi perangkat lunak dalam keadaan yang tepat, dipasang dengan benar dan dijalankan dengan kualitas yang baik.</li>
 							<li>Bertanggung jawab untuk membuat dan melaksanakan pengujian regresi dan pelaksanaan pembuatan aplikasi.</li>
 						</ul>
-						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Quality Assurance
 						</a>
 					</div>
@@ -426,7 +426,7 @@
 							<li>Menganalisa masalah dan memberikan solusi dari sisi teknis.</li>
 							<li>Menyelesaikan pekerjaan atau tugas lain yang diberikan.</li>
 						</ul>
-						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Web Developer
 						</a>
 					</div>
@@ -473,7 +473,7 @@
 							<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>
 							<li>Menghasilkan laporan.</li>
 						</ul>
-						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Technical Consultant
 						</a>
 					</div>
@@ -520,7 +520,7 @@
 							<li>Meneliti dan menyarankan produk, aplikasi, dan protokol seluler baru.</li>
 							<li>Tetap up-to-date dengan tren teknologi baru.</li>
 						</ul>
-						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Mobile App Developer
 						</a>
 					</div>
@@ -564,7 +564,7 @@
 							<li>Mengidentifikasi kebutuhan dan kesenjangan pelanggan dalam konten kami dan rekomendasikan topik baru.</li>
 							<li>Up to date untuk konten situs web sesuai kebutuhan.</li>
 						</ul>
-						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Content Writer
 						</a>
 					</div>
@@ -636,7 +636,7 @@
 						<ul class="joinus-ul">
 							<li>Memiliki kemampuan untuk menggunakan software desain (Photoshop, Illustrator, dll).</li>
 						</ul>
-						<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Designer
 						</a>
 					</div>
@@ -701,7 +701,7 @@
 			<div>Jika Anda memenuhi kriteria salah satu posisi yang kami butuhkan, segera kirim CV beserta portofolio terbaik Anda 
 			<br/>dengan cara klik tombol di bawah ini !</div>
 			<div>
-				<a href="https://sugoi-saiyo.logique.co.id/register" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" style="margin-bottom: 50px;" target="_blank">
+				<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" style="margin-bottom: 50px;" target="_blank">
 					Apply
 				</a>
 			</div>
