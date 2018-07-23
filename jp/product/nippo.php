@@ -81,6 +81,13 @@ if(isset($_POST['submitted']))
 
 <div class="div-one">
   <div class="container">
+    <div class="language-btn">
+      <ul class="list-inline">
+        <li><a href="/../en/product/nippo.php">EN</a></li>
+        <li><a href="/produk/nippo.php">ID</a></li>
+        <li class="active"><a href="/../jp/product/nippo.php">JP</a></li>
+      </ul>
+    </div>
     <div class="row" style="margin-right:0;margin-left:0;">
       <div class="col-md-12 text-center p-top-50" style=" padding-top: 18%; ">
         <img src="img/nippo/LogoNippo.png" alt="nippo" class="fade-in logo m-logo">

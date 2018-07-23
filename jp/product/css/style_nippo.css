@@ -51,7 +51,7 @@ span, p {cursor: default;}
   width: 402px;
   height: 47px;
   background-color: #50e3c2;
-  padding: 15px;
+  padding: 8px;
   margin-left: -8em;
 }
 .APA-ITU {
@@ -505,6 +505,9 @@ body {overflow-x: hidden;}
 .OH1E290{width: 104%}
 .Rectangle{width: 96.3%}
 }
+
+.language-btn {position: absolute;right: 1.5em;top: 1.5em;z-index: 9}
+.list-inline>li.active {border: solid 2px #333;border-radius: 1em;padding: 3px 4px;}
 
 /*@media( max-width : 1599px ) and ( min-width: 992px ) {
 .div-one{background-size: cover;}
