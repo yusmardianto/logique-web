@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUE membuka lowongan kerja untuk Web Developer, Designer, Mobile App Developer, Technical Consultant, atau Content Writer. Yuk cari tau dan daftar sekarang.">
+    <meta name="description" content="LOGIQUE membuka lowongan kerja internship/magang bagi mahasiswa baik yang sekadar ingin mengaplikasikan ilmu yang dipelajari maupun menurut tuntutan universitas pada periode yang telah ditentukan.">
 	<meta name="keywords" content="lowongan kerja IT, lowongan web developer, lowongan web designer, lowongan mobile app developer, lowongan technical consultant, lowongan content writer, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
@@ -24,7 +24,7 @@
 		ga('create', 'UA-105878648-1', 'auto');
 		ga('send', 'pageview');
 	</script>
-    <title>Lowongan Kerja Web Developer | LOGIQUE Digital Indonesia</title>
+    <title>Keseharian Aktivitas Magang di Logique | Career | LOGIQUE DIGITAL INDONESIA</title>
 
     <!-- Bootstrap -->
     <link href="/../../css/bootstrap.min.css" rel="stylesheet">
