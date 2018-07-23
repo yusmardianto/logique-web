@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="LOGIQUE membuka lowongan kerja internship/magang bagi mahasiswa baik yang sekadar ingin mengaplikasikan ilmu yang dipelajari maupun menurut tuntutan universitas pada periode yang telah ditentukan.">
-	<meta name="keywords" content="lowongan kerja IT, lowongan web developer, lowongan web designer, lowongan mobile app developer, lowongan technical consultant, lowongan content writer, logique">
+	<meta name="keywords" content="lowongan magang IT, lowongan kerja IT, lowongan magang web developer, lowongan magang web designer, lowongan magang mobile app developer, lowongan magang technical consultant, lowongan magang content writer, lowongan magang logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Lowongan Kerja Web Developer | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Keseharian Aktivitas Magang di Logique | Career | LOGIQUE DIGITAL INDONESIA">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/career">
+	<meta property="og:url" content="https://www.logique.co.id/career/intern">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUE membuka lowongan kerja untuk Web Developer, Designer, Mobile App Developer, Technical Consultant, atau Content Writer. Yuk cari tau dan daftar sekarang.">
+	<meta property="og:description" content="LOGIQUE membuka lowongan kerja internship/magang bagi mahasiswa baik yang sekadar ingin mengaplikasikan ilmu yang dipelajari maupun menurut tuntutan universitas pada periode yang telah ditentukan.">
 	<link rel="shortcut icon" type="image/x-icon" href="/../../favicon.ico">
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
