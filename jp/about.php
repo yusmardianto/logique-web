@@ -211,7 +211,7 @@
 					
 					<div class="got-project">
 						<span style="font-size:30px;">WEB・IT関連でお困りのことがあれば</span><br/>
-						<div class="list-on-services" style="max-width: 500px;">
+						<div class="list-on-services" style="max-width:680px;">
 							<ul class="fa-ul">
 								<li><i class="fa-li fa fa-check"></i> 会社ホームページ/コーポレートWEBがまだ無い。</li>
 								<li><i class="fa-li fa fa-check"></i> 運用会社を変えたい。元の制作開発会社と連絡がとれず更新できない。</li>
