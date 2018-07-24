@@ -116,6 +116,8 @@
 			<style>
 				.addition-desc{font-size:12px}
 				.grey-clr{color:grey}
+				.circle-list>li {padding-bottom: 7px}
+				.modal-backdrop{display: none!important}
 			</style>
 			<div id="contentsArea">
 				<div id="contents">
@@ -452,18 +454,153 @@
 								</div>
 							</div>
 						</div>
-						<br/>
 						<span class="characteristic-title">Pengalaman kami dalam pengembangan sistem web</span>
 						<br/><br/>
 						<ul class="circle-list">
-							<li>Pengembangan dan pengoperasian sistem manajemen rekrutmen untuk perusahaan IT.</li>
-							<li>Pengembangan dan pengelolaan sistem web untuk HR / manajemen rekrutmen perusahaan finansial.</li>
-							<li>Pengembangan dan pengelolaan CMS untuk institusi pemerintah.</li>
-							<li>Pembuatan sistem E-Commerce untuk perusahaan MLM.</li>
-							<li>Pengembangan dan pengelolaan sistem CRM untuk perusahaan sepeda motor.</li>
-							<li>Pembuatan dan pengoperasian sistem lelang berbasis web yang terintegrasi dengan sistem akuntansi.</li>
-							<li>Pengembangan peta digital.</li>
-							<li>Perencanaan desain arsitektur dan pengoperasian server cloud seperti AWS.</li>
+							<li>
+								Manajemen Poin Bermanfaat & Pengembangan Sistem E-Commerce.<br>
+								<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework | <a data-toggle="modal" data-target="#pop1" href="#">See More</a></small>
+							</li>
+							<!-- modal 1 -->
+							<div id="pop1" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Manajemen Poin Bermanfaat & Pengembangan Sistem E-Commerce.</h4><hr>
+							        <p>Merupakan sistem berbasis web yang digunakan untuk menyelenggarakan program poin insentif bagi karyawan perusahaan client mereka. Sistem ini terdiri dari beberapa sub sistem yang terintegrasi, yaitu: sistem pemasok (supplier), sistem pengguna (users), dan admin penyedia jasa. <br><br>Pengembangan sistem ini memakan waktu selama 6 bulan. Mengusung platform PHP dengan framework pilihan, database MySQL, dan hosting pada Linux server pada layanan cloud AWS, sistem ini terbukti telah mengakomodir kebutuhan bisnis program insentif point bagi karyawan perusahaan.<br><br> Agar menghasilkan sistem dengan performa dan stabilitas tinggi, kami melakukan pengembangan dengan pendekatan efisiensi pada layer aplikasi dan layer database. Kemudian pada sisi infrastruktur server, kami telah menerapkan arsitektur server modern dan memanfaatkan fitur autoscaling dan loadbalancing dari AWS. Dengan begitu, meskipun saat ini sudah mendapat lebih dari 10.000 pengguna aktif yang tersebar di 3 sub sistem, performa sistem tetap stabil dan terjaga.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Pengembangan E-Commerce untuk Perusahaan MLM.<br>
+								<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework | <a data-toggle="modal" data-target="#pop2" href="#">See More</a></small>
+							</li>
+							<!-- modal 2 -->
+							<div id="pop2" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Pengembangan E-Commerce untuk Perusahaan MLM.</h4><hr>
+							        <p>Sistem e-commerce MLM dengan teknologi berbasis web. Terdiri dari 3 modul, yaitu: modul pengelolaan oleh admin, modul distributor, dan modul customer. Sistem ini sudah dilengkapi dengan fitur perhitungan ongkos kirim, perhitungan margin keuntungan distributor, manajemen saldo distributor dan user, pendaftaran online, uang elektronik (e-money), serta pembelian pulsa secara online. Dengan dukungan integrasi dengan layanan payment gateway, customer dapat melakukan transaksi dengan kartu kredit dan virtual account. Sistem ini tergolong cukup kompleks. Serangkaian proses pengembangan memakan waktu selama 6 bulan.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Sistem Pengembangan Manajemen Lelang Kendaraan.<br>
+								<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework, Node.js  | <a data-toggle="modal" data-target="#pop3" href="#">See More</a></small>
+							</li>
+							<!-- modal 3 -->
+							<div id="pop3" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Sistem Pengembangan Manajemen Lelang Kendaraan.</h4><hr>
+							        <p>Merupakan sistem lelang otomotif dengan tingkat kompleksitas tinggi. Terdiri dari sistem lelang online terintegrasi, sistem manajemen stok inventaris objek lelang, sistem keuangan, serta terintegrasi dengan sistem inspeksi kendaraan dan aplikasi bidding mobile. Sistem ini terintegrasi dengan core system dan sistem pendukung lainnya, sehingga customer dapat menikmati pengalaman mengikuti lelang secara realtime, baik melalui browser desktop maupun via mobile apps.<br><br>Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, terintegrasi dengan teknologi node.js, serta menggunakan database MySQL. Dengan metode manajemen proyek yang efektif, kami berhasil mengembangkan aplikasi ini dalam waktu 6 bulan. Performa sistem ini cukup kritikal. Dengan desain arsitektur aplikasi yang baik, serta rancangan arsitektur server tingkat lanjut, performa sistem ini terbilang sangat stabil, meskipun aktivitas user pada sistem ini sudah sangat aktif.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Pengembangan Aplikasi Mobile (Android Penawaran Lelang).<br>
+								<small class="text-muted">2months, Android, node.js, JAVA, AWS | <a data-toggle="modal" data-target="#pop4" href="#">See More</a></small>
+							</li>
+							<!-- modal 4 -->
+							<div id="pop4" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Pengembangan Aplikasi Mobile (Android Penawaran Lelang).</h4><hr>
+							        <p>Aplikasi berbasis android yang kami rancang untuk memudahkan customer dalam mengikuti lelang online secara realtime. Integrasi platform android dengan node.js, serta desain UI/UX yang baik, menghadirkan pengalaman seperti mengikuti lelang secara langsung di lokasi balai lelang. Dengan dukungan design API berperforma tinggi, dan hosting server berplatform Linux, serta arsitektur server yang telah mengadopsi fitur autoscaling dan loadbalancing dari AWS, maka performa aplikasi bidding ini tidak diragukan lagi.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).<br>
+								<small class="text-muted">4months, Android, node.js, JAVA, AWS | <a data-toggle="modal" data-target="#pop5" href="#">See More</a></small>
+							</li>
+							<!-- modal 5 -->
+							<div id="pop5" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</h4><hr>
+							        <p>Merupakan aplikasi berbasis android yang digunakan untuk kegiatan inspeksi kendaraan yang akan dilelangkan. Lebih dari 900 part kendaraan telah diperiksa melalui aplikasi inspeksi ini. Dengan aplikasi ini, proses pemeriksaan dan pencatatan hasil inspeksi dapat dilakukan dengan sangat efisien. Hasil inspeksi langsung tersimpan ke dalam core system secara realtime. <br><br>Dengan design UI/UX yang baik, pengguna aplikasi ini dapat dengan mudah melakukan proses inspeksi, meskipun melibatkan sangat banyak part kendaraan. Dari sisi performa, aplikasi ini sangat stabil. Selain karena android API dirancang dengan pendekatan performa yang baik, sistem ini juga didukung oleh desain arsitektur server yang baik dan telah memanfaatkan fitur autoscaling dan loadbalancing dari AWS.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Sistem CRM untuk Pelayanan Jalan Kendaraan Bermotor.<br>
+								<small class="text-muted">3months, PHP Framework, Payment Gateway, AWS | <a data-toggle="modal" data-target="#pop6" href="#">See More</a></small>
+							</li>
+							<!-- modal 6 -->
+							<div id="pop6" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Sistem CRM untuk Pelayanan Jalan Kendaraan Bermotor.</h4><hr>
+							        <p>Merupakan sistem CRM untuk asuransi motor. Dengan sistem ini, tim admin dapat dengan mudah mengelola data customer, mengelola perpanjangan periode asuransi, mengelola pembayaran polis, mengelola dealer partner, mengelola harga polis, serta mengelola data klaim asuransi dari customer. Sementara bagi customer, sistem ini memberikan kemudahan dalam hal permintaan perpanjangan asuransi, serta perencanaan asuransi dengan melakukan simulasi harga premi berdasarkan harga kendaraan.<br><br>Sistem ini dibangun dengan teknologi PHP dengan platform pilihan, HTML-CSS3, Javascript, JQuery/Ajax, serta database MySQL. Sistem ini sudah terintegrasi dengan layanan payment gateway dari penyedia layanan terkemuka, sehingga memudahkan customer dalam bertransaksi dengan menggunakan kartu kredit dan uang elektronik.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Sistem CRM untuk Pembeli Lelang.<br>
+								<small class="text-muted">2months, PHP Framework, MySQL, AWS | <a data-toggle="modal" data-target="#pop7" href="#">See More</a></small>
+							</li>
+							<!-- modal 7 -->
+							<div id="pop7" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Sistem CRM untuk Pembeli Lelang.</h4><hr>
+							        <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana customer dapat melakukan pengecekan tagihan, mendapatkan informasi penting seperti riwayat keikursertaan lelang, serta mengelola point reward yang mereka dapatkan dari transaksi pembelian yang telah dilakukan. Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, serta menggunakan database MySQL. Customer bisa mendapatkan informasi yang dibutuhkan secara realtime, karena sistem ini terkoneksi dengan core system melalui secured-API.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah.<br>
+								<small class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop8" href="#">See More</a></small>
+							</li>
+							<!-- modal 8 -->
+							<div id="pop8" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah.</h4><hr>
+							        <p>Merupakan sistem layout management berbasis web yang digunakan untuk mengatur tata letak kolom iklan untuk media cetak. dari publisher terkemuka asal Jepang. Dengan dukungan desain UI/UX yang baik, aplikasi web ini sangat mudah digunakan (user-friendly). Dengan fitur drag-and-drop, user dapat mengatur tata letak iklan sesuai keinginan. Sistem ini juga memiliki fitur export dan import pengaturan tata letak dalam bentuk file csv. Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan, JQuery, serta HTML5-CSS3. Proses pengembagan aplikasi web ini membutuhkan waktu 3 bulan.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.<br>
+								<small class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop9" href="#">See More</a></small>
+							</li>
+							<!-- modal 9 -->
+							<div id="pop9" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</h4><hr>
+							        <p>Merupakan sistem marketplace mobil yang digunakan oleh banyak dealer mobil bekas baik di Jakarta maupun luar Jakarta. Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan dan berjalan pada platform Linux pada AWS server. Proses pengembangan aplikasi marketplace berbasis web ini membutuhkan waktu selama 3 bulan.<br><br>Respon pengguna layanan ini terus meningkat dari waktu ke waktu. Saat ini sistem ini sudah melayani lebih dari 30.000 pengunjung setiap harinya. Meskipun traffic-nya cukup padat, sistem ini masih sangat stabil. Selain teknologi berbasis web, sistem ini juga terintegrasi dengan mobile apps berbasis Android (Native) dan IOS (Swift).</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
 						</ul>
 						<br/>
 						<span class="characteristic-title">Lainnya</span>
