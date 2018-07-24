@@ -544,7 +544,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-1 col-md-10">
 						<div style="padding:10px;border:1px solid #edb41a">
 							<div class="div-above-footer">
-								Dokodemo-Kerja adalah solusi sistem kerja berupa aplikasi yang mampu merekam, menghitung, serta mengelola aktivitas dan jam kerja karyawan guna meningkatkan produktivitas perusahaan.
+								Dokodemo-Kerjaは、従業員がリモートワークすることを可能にし、無駄な時間と労力を排除して生産性を向上することを助け、管理者の従業員を監視する工数も減らすことができるツールです。個社別のカスタマイズも可能ですのでお問い合わせお待ちしております。
 							</div>
 						</div>
 					</div>
@@ -558,7 +558,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-6 col-md-push-6">
 						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
 						<p>
-							Dokodemo-Kerja adalah solusi sistem kerja berupa aplikasi yang mampu merekam, menghitung, serta mengelola aktivitas dan jam kerja karyawan guna meningkatkan produktivitas perusahaan.
+							Dokodemo-Kerjaは、従業員がリモートワークすることを可能にし、無駄な時間と労力を排除して生産性を向上することを助け、管理者の従業員を監視する工数も減らすことができるツールです。個社別のカスタマイズも可能ですのでお問い合わせお待ちしております。
 						</p>
 						<br/><br/>
 						<div class="cr">© 2018<a href="/" class="yellow"> PT. Logique Digital Indonesia.</a> All Rights Reserved.</div>
