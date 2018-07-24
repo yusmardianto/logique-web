@@ -117,6 +117,8 @@
 			<style>
 				.addition-desc{font-size:12px}
 				.grey-clr{color:grey}
+				.circle-list>li {padding-bottom: 7px}
+				.modal-backdrop{display: none!important}
 			</style>
 			<div id="contentsArea">
 				<div id="contents">
@@ -451,18 +453,155 @@
 								</div>
 							</div>
 						</div>
-						<br/>
 						<span class="characteristic-title">Our system development experiences</span>
 						<br/><br/>
 						<ul class="circle-list">
-							<li>Recruit management system development & operation for IT company.</li>
-							<li>HR / Recruitment management web system development & maintenance for Financial company.</li>
-							<li>CMS development & maintenance for government organization.</li>
-							<li>E-commerce website development for multi-level marketer company.</li>
-							<li>CRM system development & maintenance for motorbike maker.</li>
-							<li>Auction system & accounting system development & operation.</li>
-							<li>Digital map development.</li>
-							<li>Architecture design and operation for cloud server such as AWS.</li>
+							<li>
+								Beneficial Point Management & E-Commerce System Development.<br>
+								<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework | <a data-toggle="modal" data-target="#pop1" href="#">See More</a></small>
+							</li>
+							<!-- modal 1 -->
+							<div id="pop1" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Beneficial Point Management & E-Commerce System Development.</h4><hr>
+							        <p>A web-based system used to organize incentive points programs for employees of client companies. This system consists of several integrated sub-systems, namely: supplier systems (suppliers), user systems (users), and service providers admins.</p>
+							        <p>The development of this system takes 6 months. By bringing PHP platform with chosen frameworks, MySQL database, and hosting on Linux server on AWS cloud service, this system has proven to accommodate the business needs of incentive point program for company employees.</p><br>
+							    	<p>To produce a system with high performance and stability, we developed an efficient approach to the application layer and database layer. Then on the server infrastructure side, we have implemented a modern server architecture and utilize the AWS autoscaling and loadbalancing features. So even though there are currently more than 10,000 active users spread across 3 sub-systems, system performance remains stable and maintained.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								E-Commerce Development for MLM company.<br>
+								<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework | <a data-toggle="modal" data-target="#pop2" href="#">See More</a></small>
+							</li>
+							<!-- modal 2 -->
+							<div id="pop2" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>E-Commerce Development for MLM company.</h4><hr>
+							        <p>MLM E-Commerce System with web-based technology. Consists of 3 modules, namely: admin management module, distributor module, and customer module. This system is equipped with features of postage calculations, profit margin calculation of distributors, distributors and users balance management, online registration, and purchase credit online. <br><br>With the support of integration with payment gateway service, customer can do transaction with credit card and virtual account. This system is quite complex. A series of development process takes 6 months.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Automobil Auction Mission Critical System Development.<br>
+								<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework, Node.js  | <a data-toggle="modal" data-target="#pop3" href="#">See More</a></small>
+							</li>
+							<!-- modal 3 -->
+							<div id="pop3" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Automobil Auction Mission Critical System Development.</h4><hr>
+							        <p>Is an automotive auction system with a high level of complexity. It consists of an integrated online auction system, an auction object inventory management system, a financial system, and integrated mobile inspection based vehicle inspection systems, and mobile apps-based bidding applications. This system is integrated with core system and other support systems, so that customers can enjoy the experience of auction in realtime, either through PC browser or via mobile apps. <br><br>The system was developed with PHP platform with chosen frameworks, integrated with node.js technology, and using MySQL database. With an effective project management method, we successfully developed this application within 6 months. Performance of this system is quite critical. With a good application architecture design, as well as advanced server architecture design, the performance of this system is very stable, although the current user activity on this system is very active.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Mobile Application Development (Auction Bidding Android).<br>
+								<small class="text-muted">2months, Android, node.js, JAVA, AWS | <a data-toggle="modal" data-target="#pop4" href="#">See More</a></small>
+							</li>
+							<!-- modal 4 -->
+							<div id="pop4" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Mobile Application Development (Auction Bidding Android).</h4><hr>
+							        <p>Android based application that we designed to facilitate the customers of auction companies in the online auction in realtime. The integration of android platform with node.js, as well as good UI/UX design, brings experience like auctioning directly at the auction location. With the support of high-performance APIs design, and Linux server hosting servers, as well as server architectures that have adopted the AWS autoscaling and loadbalancing features, the performance of these bidding applications is unquestionable.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Mobile Application (Vehicle Inspection / Scoring System).<br>
+								<small class="text-muted">4months, Android, node.js, JAVA, AWS | <a data-toggle="modal" data-target="#pop5" href="#">See More</a></small>
+							</li>
+							<!-- modal 5 -->
+							<div id="pop5" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Mobile Application (Vehicle Inspection / Scoring System).</h4><hr>
+							        <p>The system we developed is an android-based applications used for vehicle inspection activities before it is auctioned. More than 900 vehicle parts are inspected through this application. With the help of the application, the inspection and recording of the results can be done very efficiently. The results are stored directly in the core system in realtime. <br><br>With a good UI/UX design, users of this application can easily perform the inspection process, no matter how many vehicle parts it involves. <br>In terms of performance, this application is very stable. In addition to the android API designed with a good performance approach, this system is also supported by a good server architecture design and has taken advantage of AWS autoscaling and loadbalancing features.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								CRM System for Motor-Bike Road Servicer.<br>
+								<small class="text-muted">3months, PHP Framework, Payment Gateway, AWS | <a data-toggle="modal" data-target="#pop6" href="#">See More</a></small>
+							</li>
+							<!-- modal 6 -->
+							<div id="pop6" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>CRM System for Motor-Bike Road Servicer.</h4><hr>
+							        <p>What we developed and are still keep developing is a CRM system for motor insurance. With this system, admin team can easily manage customer data, manage insurance period extensions, manage policy payments, manage dealer partners, manage policy prices, and manage insurance claim data from customers. While for customers, this system provides easiness in terms of demand for insurance extension, insurance planning by simulating the premium price based on the price of the vehicle. <br><br>This system is built with PHP technology with chosen platforms, HTML-CSS3, Javascript, JQuery/Ajax, and MySQL database. This system is integrated with gateway payment service from leading service providers, making it easier for customers to transact using credit card and electronic money.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								CRM System for Auction Buyers.<br>
+								<small class="text-muted">2months, PHP Framework, MySQL, AWS | <a data-toggle="modal" data-target="#pop7" href="#">See More</a></small>
+							</li>
+							<!-- modal 7 -->
+							<div id="pop7" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>CRM System for Auction Buyers.</h4><hr>
+							        <p>CRM system for auction company's customers (Buyers), that through this system, customers can check bills, get important information such as history of auction participation, and manage the reward points they get from purchase transactions that have been done. <br><br>This system is developed with PHP platform with chosen frameworks, and using MySQL database. Customer can get real time information, because this system is connected to a real time core system via secured-API.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Component / Layout management Cloud System for Magazine Publisher.<br>
+								<small class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop8" href="#">See More</a></small>
+							</li>
+							<!-- modal 8 -->
+							<div id="pop8" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Component / Layout management Cloud System for Magazine Publisher.</h4><hr>
+							        <p>Web-based layout management system for setting the layout of advertising columns for print media from leading Japanese Free-paper publisher. With good UI/UX design support, this web application is very easy to use (user-friendly). With drag-and-drop feature, the user can set the ad layout as desired. This system also features export and import layout settings in the form of csv files. <br><br>The system was developed with PHP technology with chosen framework, JQuery, and HTML5-CSS3. The process of developing this web application takes 3 months.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Used car market place development and operation.<br>
+								<small class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop9" href="#">See More</a></small>
+							</li>
+							<!-- modal 9 -->
+							<div id="pop9" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Used car market place development and operation.</h4><hr>
+							        <p>Used car marketplace system used by many second-hand car dealers in Jakarta and outside Jakarta. The system is developed with PHP technology with chosen frameworks and runs on Linux platform on AWS server. The development process of this web-based marketplace application takes 3 months.<br><br>The user's response to this service continues to increase over time. Currently the system serves more than 30,000 visitors every day. Although traffic is quite solid, the system is very stable. <br><br>In addition to web-based technology, the system is also integrated with mobile apps based on Android (Native) and IOS (Swift)</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
 						</ul>
 						<br/>
 						<span class="characteristic-title">Others</span>
