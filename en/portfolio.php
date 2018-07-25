@@ -142,7 +142,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Remake & Operation (Design | Coding | CMS | Operation)<br>
-									<br><div class="grey-clr">CMS, multi-language, Mobile, secure WEB, Financial, Bank</div><br><br><br>
+									<br>CMS, multi-language, Mobile, secure WEB, Financial, Bank<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -152,7 +152,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | Coding | Content Creation | Operation)<br>
-									<br><div class="grey-clr">CMS, multi-language, Mobile-Optimized, secure WEB, Public</div><br><br><br>
+									<br>CMS, multi-language, Mobile-Optimized, secure WEB, Public<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -162,7 +162,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | CMS | System | Content Creation | Operation | AWS)<br>
-									<br><div class="grey-clr">CMS, Market Place, DB-WEB, Mobile, WEB service, Automobil</div><br><br><br>
+									<br>CMS, Market Place, DB-WEB, Mobile, WEB service, Automobil<br><br><br>
 								</div>
 						 	</div>
 						 	<div class="clearfix"></div>
@@ -173,7 +173,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | CMS | System | Operation | AWS)<br>
-									<br><div class="grey-clr">Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial</div><br><br><br>
+									<br>Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -181,7 +181,7 @@
 								Salon De Res
 								<div class="addition-desc text-left">
 									<br>WEB Dev (Design | Coding)<br>
-									<br><div class="grey-clr">Mobile, Multi-Language, Beauty</div><br><br><br>
+									<br>Mobile, Multi-Language, Beauty<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -191,7 +191,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev (Design | Coding | Maintenance)<br>
-									<br><div class="grey-clr">Mobile, Multi-Language, Wordpress, Blog, RealEstate</div><br><br><br>
+									<br>Mobile, Multi-Language, Wordpress, Blog, RealEstate<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -202,7 +202,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | Coding | Operation)<br>
-									<br><div class="grey-clr">Mobile, Secure WEB, Public</div><br><br><br>
+									<br>Mobile, Secure WEB, Public<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -210,7 +210,7 @@
 								OTO Siap!
 								<div class="addition-desc text-left">
 									<br>Landing Page Creation (Design | Coding)<br>
-									<br><div class="grey-clr">Mobile, A/B Test, EFO, Used Car Market Place</div><br><br><br>
+									<br>Mobile, A/B Test, EFO, Used Car Market Place<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -220,7 +220,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | Coding)<br>
-									<br><div class="grey-clr">Multi-language, Mobile, IT Service</div><br><br><br>
+									<br>Multi-language, Mobile, IT Service<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -231,7 +231,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev (Design | Coding)<br>
-									<br><div class="grey-clr">Multi-language, Mobile, Manufacture</div><br><br><br>
+									<br>Multi-language, Mobile, Manufacture<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -241,7 +241,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev (Design | Coding | Maintenance | WEB Server)<br>
-									<br><div class="grey-clr">Multi-language, Mobile, Manufacture</div><br><br><br>
+									<br>Multi-language, Mobile, Manufacture<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -251,7 +251,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev (Design | Coding | Operation)<br>
-									<br><div class="grey-clr">Mobile, Secure WEB, Public</div><br><br><br>
+									<br>Mobile, Secure WEB, Public<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -260,7 +260,7 @@
 								aJapan Campaign
 								<div class="addition-desc text-left">
 									<br>Campaign Microsite Dev & Operation (Design | Coding | Operation)<br>
-									<br><div class="grey-clr">Multi-language, Mobile, Campaign</div><br><br><br>
+									<br>Multi-language, Mobile, Campaign<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -268,7 +268,7 @@
 								Sumitomo Forestry LP
 								<div class="addition-desc text-left">
 									<br>Landing Page Creation (Design | Coding)<br>
-									<br><div class="grey-clr">Mobile, Campaign</div><br><br><br>
+									<br>Mobile, Campaign<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -276,7 +276,7 @@
 								JualBeliWEB.id (Website market place)
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | CMS | System | Content Creation | Operation)<br>
-									<br><div class="grey-clr">CMS, Market Place, DB, Mobile, secure WEB, WEB service</div><br><br><br>
+									<br>CMS, Market Place, DB, Mobile, secure WEB, WEB service<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -287,7 +287,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | Coding | Wordpress | Operation)<br>
-									<br><div class="grey-clr">Japanese WEB, Blog, Mobile, Application Form, School</div><br><br><br>
+									<br>Japanese WEB, Blog, Mobile, Application Form, School<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -295,7 +295,7 @@
 								OTOmart Concierge LP
 								<div class="addition-desc text-left">
 									<br>Landing Page Creation (Design | Coding | LPO)<br>
-									<br><div class="grey-clr">Mobile, A/B Test, LPO, Used Car Market Place</div><br><br><br>
+									<br>Mobile, A/B Test, LPO, Used Car Market Place<br><br><br>
 								</div>
 							</div>
 							 
@@ -306,7 +306,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | Coding | Maintenance| WEB Server)<br>
-									<br><div class="grey-clr">Multi-language, Mobile, motor-bike service</div><br><br><br>
+									<br>Multi-language, Mobile, motor-bike service<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -317,7 +317,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | CMS | Content Creation | Operation)<br>
-									<br><div class="grey-clr">CMS, Portal, Mobile, Real Estate, WEB service</div><br><br><br>
+									<br>CMS, Portal, Mobile, Real Estate, WEB service<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -327,7 +327,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | Coding | Operation)<br>
-									<br><div class="grey-clr">Multi-language, Mobile, LPO, A/B test, Beauty</div><br><br><br>
+									<br>Multi-language, Mobile, LPO, A/B test, Beauty<br><br><br>
 								</div>
 							</div>
 							 <div class="col-sm-4">
@@ -337,7 +337,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | Coding | Wordpress | Operation)<br>
-									<br><div class="grey-clr">Japanese WEB, Blog, Mobile, Application Form, School</div><br><br><br>
+									<br>Japanese WEB, Blog, Mobile, Application Form, School<br><br><br>
 								</div>
 							</div>		
 							<div class="clearfix"></div>
@@ -348,7 +348,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev (Design | Coding | Operation)<br>
-									<br><div class="grey-clr">Multi-language, Mobile, Manufacture, Beauty</div><br><br><br>
+									<br>Multi-language, Mobile, Manufacture, Beauty<br><br><br>
 								</div>
 							</div>	
 							<div class="col-sm-4">
@@ -358,7 +358,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | CMS | Operation)<br>
-									<br><div class="grey-clr">Wordpress, Mobile, Member-only Web, Medical</div><br><br><br>
+									<br>Wordpress, Mobile, Member-only Web, Medical<br><br><br>
 								</div>
 							</div>	
 							<div class="col-sm-4">
@@ -368,7 +368,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | Coding | Operation | WEB Server)<br>
-									<br><div class="grey-clr">Multi-language, Mobile, AWS, Real Estate</div><br><br><br>
+									<br>Multi-language, Mobile, AWS, Real Estate<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -379,7 +379,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Re-Design (Design | Coding)<br>
-									<br><div class="grey-clr">Multi-language, Mobile, Consulting, Accounting &amp; Tax</div><br><br><br>
+									<br>Multi-language, Mobile, Consulting, Accounting &amp; Tax<br><br><br>
 								</div>
 							</div>	
 							<div class="col-sm-4">
@@ -389,7 +389,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Development (Design | Coding | CMS)<br>
-									<br><div class="grey-clr">CMS, Mobile, OJK, Finance</div><br><br><br>
+									<br>CMS, Mobile, OJK, Finance<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -399,7 +399,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Application Form Creation (Design | PHP Form)<br>
-									<br><div class="grey-clr">Multi-language,Mobile,Application Form,Public</div><br><br><br>
+									<br>Multi-language,Mobile,Application Form,Public<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -408,7 +408,7 @@
 								Shinoken Asset Management
 								<div class="addition-desc text-left">
 									<br>WEB Development (Design | Coding | AWS)<br>
-									<br><div class="grey-clr">Multi-language, Mobile, Corporate WEB, AWS, Real Estate</div><br><br><br>
+									<br>Multi-language, Mobile, Corporate WEB, AWS, Real Estate<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -418,7 +418,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Campaign Page Creation (Design | Coding | CMS)<br>
-									<br><div class="grey-clr">Multi-language, Mobile, Campaign page, CMS, Financial, Bank</div><br><br><br>
+									<br>Multi-language, Mobile, Campaign page, CMS, Financial, Bank<br><br><br>
 								</div>
 							</div>	
 							<div class="col-sm-4">
@@ -428,7 +428,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>E-Commerce Development (Design | E-Commerce | CMS | Maintenance)<br>
-									<br><div class="grey-clr">E-Commerce, CMS, Payment Gateway, Multi-Level-Marketing</div><br><br><br>
+									<br>E-Commerce, CMS, Payment Gateway, Multi-Level-Marketing<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -439,7 +439,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Development & Operation (Design | Coding | Operation)<br>
-									<br><div class="grey-clr">Mobile, Online Booking, Sports</div><br><br><br>
+									<br>Mobile, Online Booking, Sports<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -449,7 +449,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Remake & Operation (Design | Coding | Operation)<br>
-									<br><div class="grey-clr">Mobile Optimized, secure WEB, Public, Travel</div><br><br><br>
+									<br>Mobile Optimized, secure WEB, Public, Travel<br><br><br>
 								</div>
 							</div>
 						</div>

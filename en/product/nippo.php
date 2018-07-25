@@ -39,11 +39,11 @@ if(isset($_POST['submitted']))
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" content="Kesulitan dalam mengkalkulasikan total jam dalam suatu proyek serta sulit untuk memantau kinerja karyawan pada suatu perkembangan proyek? Tidak perlu khawatir, sekarang Nippo hadir sebagai solusi dari semua masalah yang dialami oleh perusahaan Karena itu, dapatkan aplikasi Nippo sekarang juga!">
-  <meta name="keywords" content="Evaluasi kinerja, Manajemen kinerja, manajemen kerja, laporan kerja, laporan kerja harian, kerja partime, kerja remote, karyawan swasta, karyawan kontrak, laporan kinerja, laporan kinerja karyawan, sistem web, sistem informasi, Nippo">
+  <meta name="description" content="Do you have trouble in calculating man-hours cost or monitoring employees’ performance? Nippo is here to help you. Nippo is a web-based system that can manage, monitor, and evaluate employees’ productivity through daily reports. Increase your company’s productivity now!">
+  <meta name="keywords" content="assessment, performance, evaluation, self assessment, daily report, performance management, performance review, employee performance, performance evaluation, increase productivity, nippo system, logique digital indonesia">
   <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Sistem Laporan Kerja Karyawan | Nippo</title>
+  <title>Daily Report Tool | Nippo</title>
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style_nippo.css">
   <style type="text/css">
@@ -83,15 +83,16 @@ if(isset($_POST['submitted']))
   <div class="container">
     <div class="language-btn">
       <ul class="list-inline">
-        <li><a href="/../en/product/nippo.php">EN</a></li>
-        <li class="active"><a href="/produk/nippo.php">ID</a></li>
+        <li class="active"><a href="/../en/product/nippo.php">EN</a></li>
+        <li><a href="/produk/nippo.php">ID</a></li>
         <li><a href="/../jp/product/nippo.php">JP</a></li>
       </ul>
     </div>
     <div class="row" style="margin-right:0;margin-left:0;">
       <div class="col-md-12 text-center p-top-50" style=" padding-top: 18%; ">
         <img src="img/nippo/LogoNippo.png" alt="nippo" class="fade-in logo m-logo">
-        <p class="SISTEM-LAPORAN-KERJA fade-in">SISTEM LAPORAN KERJA KARYAWAN <br>YANG TRANSPARAN DAN FLEKSIBEL</p>
+        <p class="SISTEM-LAPORAN-KERJA fade-in">Daily report tool that can perform man-hour cost management 
+          <br>and employee evaluation through daily reports</p>
       </div>
     </div>
   </div>
@@ -100,7 +101,7 @@ if(isset($_POST['submitted']))
 <div class="Mask">
   <div class="container">
   <div class="Rectangle-2">
-    <span class="APA-ITU">APA ITU</span>
+    <span class="APA-ITU">What Is Nippo?</span>
   </div>
   <div class="col-md-11 hidden-xs hidden-sm lg-1">
       <span class="NIPPO-SYSTEM">NIPPO SYSTEM</span> 
@@ -108,8 +109,8 @@ if(isset($_POST['submitted']))
   </div>
   <section class="hidden-xs hidden-sm">  <!-- For Desktop -->
   <div class="col-md-push-3 col-md-8 col-md-pull-1">
-    <p class="Nippo-adalah-aplikas"><b>Nippo</b> adalah aplikasi berbasis web yang dapat membantu para manajer dalam memantau produktivitas dan manajemen kerja stafnya. Aplikasi ini merupakan solusi tepat bagi perusahaan untuk mengetahui <b>manajemen kerja</b> karyawan secara detail.<br><br>
-    Dengan Nippo, perusahaan dapat mengetahui laporan harian kerja karyawan secara komprehensif sehingga manajer dapat menggunakannya sebagai bahan pertimbangan untuk melakukan <b>evaluasi kinerja</b> para karyawan.</p>
+    <p class="Nippo-adalah-aplikas"><b>Nippo</b> is a web-based system that can manage, monitor, and evaluate employees’ productivity through daily reports. Nippo provides systemized daily reports that can be customized to show tasks, projects, cost management, and employees’ <b>assessment.</b><br><br>
+    With Nippo, managers and HRD can grasp the work content, determine quantity and quality of staff, and promote communication among staff. Therefore, <b>evaluation</b> can be done fairly.</p>
   </div>
   </section>
   <section class="hidden-md hidden-lg">  <!-- For Mobile -->
@@ -126,25 +127,24 @@ if(isset($_POST['submitted']))
 <div class="Rectangle-3">
   <div class="container">
   <div class="col-md-12 text-center" style="padding: 45px 0">
-  <span class="Kenapa-Harus-Menggun">Manfaat Menggunakan Nippo</span><br>
+  <span class="Kenapa-Harus-Menggun">Why Nippo?</span><br>
   <img src="img/nippo/LogoNippo-kecil.png" style="padding: 10px">
   </div>
   <div class="col-md-3 text-center">
     <img src="img/nippo/kenapa-1.png" width="204px" height="206px">
-    <div class="Dapat-diakses-melalu">Dapat diakses melalui desktop maupun mobile secara responsif</div>
+    <div class="Dapat-diakses-melalu">Accessible and easy input through desktop and mobile</div>
   </div>
   <div class="col-md-3 text-center">
     <img src="img/nippo/kenapa-2.png" width="204px" height="206px">
-    <div class="Dapat-diakses-melalu">Memiliki user-interface yang sederhana sehingga mudah untuk dipahami</div>
+    <div class="Dapat-diakses-melalu">Very simple and responsive UI</div>
   </div>
   <div class="col-md-3 text-center">
     <img src="img/nippo/kenapa-3.png" width="204px" height="206px">
-    <div class="Dapat-diakses-melalu">Membantu manajer dalam menentukan performa/kinerja para staf</div>
+    <div class="Dapat-diakses-melalu">Man-hour cost management can be summed up and is possible for each project, task, and person</div>
   </div>
   <div class="col-md-3 text-center">
     <img src="img/nippo/kenapa-4.png" width="204px" height="206px">
-    <div class="Dapat-diakses-melalu">Anda dapat mengetahui pengeluaran projek berdasarkan jam kerja serta mengalkulasikan total jam
-kerja pengerjaan suatu projek.</div>
+    <div class="Dapat-diakses-melalu">Evaluation and self assessment can be done every day</div>
   </div>
   </div>
 </div>
@@ -152,27 +152,27 @@ kerja pengerjaan suatu projek.</div>
 <div class="OPSA3E0">
   <div class="container">
   <div class="Rectangle-2-Copy">
-    <span class="Masalah-yang-sering">Masalah yang Sering Dialami Perusahaan</span>
+    <span class="Masalah-yang-sering">Problems That Companies Often Face</span>
   </div>
   <section class="hidden-xs hidden-sm">  <!-- For Desktop -->
   <div class="col-md-12" style=" padding-top: 7em; ">
     <div class="col-md-6 text-right">
-      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Sulit untuk mengkalkulasikan total jam pengerjaan suatu projek</span></div>
+      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Appropriate and fair personnel evaluation hasn’t been done. Managers and HRD need objective numerical values to conduct this.</span></div>
       <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
     </div>
     <div class="col-md-6 text-left">
       <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
-      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Evaluasi kinerja seluruh karyawan yang menghabiskan cukup banyak waktu</span></div>
+      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Managers and HRD can’t track what the staff is doing every day. Their work content, quantity, and quality are surreptitiously insufficient.</span></div>
     </div>
   </div>
   <div class="col-md-12" style=" padding-top: 2em; ">
     <div class="col-md-6 text-right">
-      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Sulit untuk memantau manajemen kerja karyawan dan perkembangan projek</span></div>
+      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Internal communication is in short supply, whereas employees themselves need to evaluate each other so managers and HRD can raise them.</span></div>
       <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
     </div>
     <div class="col-md-6 text-left">
       <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
-      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Laporan pekerjaan harian yang dibuat karyawan tidak spesifik dan kurang jelas</span></div>
+      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Task/projects are done inefficiently. Managers can’t even figure out who is spending time on them.</span></div>
     </div>
   </div>
   </section>
@@ -180,21 +180,21 @@ kerja pengerjaan suatu projek.</div>
   <div class="col-md-12" style=" padding-top: 2em; ">
     <div class="col-md-6">
       <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
-      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Sulit untuk mengkalkulasikan total jam pengerjaan suatu projek</span></div>
+      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Appropriate and fair personnel evaluation hasn’t been done. Managers and HRD need objective numerical values to conduct this.</span></div>
     </div>
     <div class="col-md-6">
       <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
-      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Evaluasi kinerja seluruh karyawan yang menghabiskan cukup banyak waktu</span></div>
+      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Managers and HRD can’t track what the staff is doing every day. Their work content, quantity, and quality are surreptitiously insufficient.</span></div>
     </div>
   </div>
   <div class="col-md-12">
     <div class="col-md-6">
       <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
-      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Sulit untuk memantau manajemen kerja karyawan dan perkembangan suatu projek</span></div>
+      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Internal communication is in short supply, whereas employees themselves need to evaluate each other so managers and HRD can raise them.</span></div>
     </div>
     <div class="col-md-6">
       <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
-      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Laporan pekerjaan harian yang dibuat karyawan tidak spesifik dan kurang jelas</span></div>
+      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Task/projects are done inefficiently. Managers can’t even figure out who is spending time on them.</span></div>
     </div>
     <div class="clearfix"></div>
   </div>
@@ -205,7 +205,7 @@ kerja pengerjaan suatu projek.</div>
 
 <div class="laptop">
   <div class="Rectangle-2-Copy-2">
-    <span class="Fitur">FITUR</span>
+    <span class="Fitur">Features of Nippo</span>
   </div>
   <div class="row row-fix">
     <div class="col-md-offset-2 col-md-8 text-center">
@@ -220,15 +220,15 @@ kerja pengerjaan suatu projek.</div>
           <img src="img/nippo/fitur-1.png">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
-          <p class="Basis-Data-Karyawan">Manajemen Karyawan</p>
-          <p class="NIPPO-system-menyedi">Perusahaan dapat membuat serta menambahkan informasi secara lengkap mengenai organisasi atau perusahaan. Dengan menggunakan Nippo, Anda dapat membuat informasi mengenai karyawan, supervisor, administrator, dan lain lain.</p>
+          <p class="Basis-Data-Karyawan">Employee Management</p>
+          <p class="NIPPO-system-menyedi">Create and manage employee and organization information, associations with supervisors, and many more.</p>
       </div>
       <div class="col-md-2 text-center">
           <img src="img/nippo/fitur-4.png">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
-          <p class="Basis-Data-Karyawan" style="font-size: 17px">Pengeluaran Projek Berdasarkan Jam Kerja</p>
-          <p class="NIPPO-system-menyedi">Perusahaan dapat mengalkulasikan total jam kerja dari pengerjaan suatu projek. Dengan begitu, perusahaan dapat menganalisis suatu projek yang terlalu banyak memakan waktu. Hasil analisis dapat digunakan sebagai dasar pengambilan keputusan untuk kemajuan dan perkembangan suatu projek.</p>
+          <p class="Basis-Data-Karyawan" style="font-size: 17px">Project/Task Management</p>
+          <p class="NIPPO-system-menyedi">Register and manage project information, task types, and details of the tasks.</p>
       </div>
     </div>
   </div>
@@ -238,15 +238,15 @@ kerja pengerjaan suatu projek.</div>
           <img src="img/nippo/fitur-2.png">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
-          <p class="Basis-Data-Karyawan">Tag Person</p>
-          <p class="NIPPO-system-menyedi">Karyawan dapat menambahkan karyawan lain dalam laporan harian kerjanya jika mereka bekerja bersama melalui fitur Tag Person. Dengan begitu, perusahaan dapat mengetahui apabila terdapat pengisian laporan kerja yang cukup berbeda oleh kedua karyawan tersebut dengan membandingkan kedua laporan kerja mereka.</p>
+          <p class="Basis-Data-Karyawan">Tag People</p>
+          <p class="NIPPO-system-menyedi">By tagging colleagues who employees collaborated with, managers can check the daily report mutually. If there’s something different, the tagged person can confirm.</p>
       </div>
       <div class="col-md-2 text-center">
           <img src="img/nippo/fitur-3.png">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
-          <p class="Basis-Data-Karyawan">Evaluasi Karyawan</p>
-          <p class="NIPPO-system-menyedi">Dengan menggunakan Nippo, Anda dapat dengan mudah melakukan evaluasi kinerja para karyawan setiap hari, bulan, ataupun tahun.</p>
+          <p class="Basis-Data-Karyawan">Man-hour Cost Management</p>
+          <p class="NIPPO-system-menyedi">Work hours can be calculated for each project/task. The report is provided with calculations of each hour spent. Analyze who works more productive than expected and has the best performance.</p>
       </div>
     </div>
   </div>
@@ -256,15 +256,15 @@ kerja pengerjaan suatu projek.</div>
           <img src="img/nippo/fitur-5.png">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
-          <p class="Basis-Data-Karyawan">Project Management</p>
-          <p class="NIPPO-system-menyedi">Perusahaan dapat menambahkan batas waktu pekerjaan berdasarkan hari dan jumlah jam kerja melalui fitur Project Master. Selain itu, perusahaan dapat menambahkan informasi projek, serta tipe dan spefikasi pekerjaan melalui fitur ini.</p>
+          <p class="Basis-Data-Karyawan">Personnel Assessment</p>
+          <p class="NIPPO-system-menyedi">Manage self assessment from other people’s evaluation. It is also possible to compile monthly and annual evaluations.</p>
       </div>
       <div class="col-md-2 text-center">
           <img src="img/nippo/fitur-6.png">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
-          <p class="Basis-Data-Karyawan">Comment Management</p>
-          <p class="NIPPO-system-menyedi">Dengan menggunakan Nippo, Anda dapat melihat komentar karyawan lain dan meninggalkan likes ataupun comments pada suatu laporan kerja.</p>
+          <p class="Basis-Data-Karyawan">Engage Each Other</p>
+          <p class="NIPPO-system-menyedi">Leave a like and comment on people’s reports. Give a thumb up on each task/project performance. Motivate each other.</p>
       </div>
     </div>
   </div>
@@ -274,21 +274,21 @@ kerja pengerjaan suatu projek.</div>
   <div class="container">
   <div class="row" style=" margin-right: 0; ">
     <div class="col-md-4 text-left p-t-9">
-        <span class="Keuntungan-Perusahaa">KEUNTUNGAN<br>
-            <span class="text-style-1">Perusahaan</span>
+        <span class="Keuntungan-Perusahaa">Benefits of<br>
+            <span class="text-style-1">Using Nippo</span>
             <div class="Rectangle-6"></div>
         </span>
     </div>
     <div class="col-md-4 text-center">
         <div class="OH1E290">
           <img src="img/nippo/keuntungan-1.png" alt="San Francisco" width="100%" height="300">
-          <div class="Rectangle">Mempermudah manajer dan direksi untuk memantau perkembangan suatu projek.</div>
+          <div class="Rectangle">Managers can easily grasp work contents done by employees.</div>
         </div>
     </div>
     <div class="col-md-4 text-center">
       <div class="OH1E290">
         <img src="img/nippo/keuntungan-2.png" alt="San Francisco" width="100%" height="300">
-        <div class="Rectangle">Mempermudah manajer dalam melakukan <b>evaluasi kinerja</b> para staf</div>
+        <div class="Rectangle"><b>Assessment</b> becomes practical and fair among employees. It can be done daily by managers.</div>
       </div>
     </div>
   </div>
@@ -296,19 +296,19 @@ kerja pengerjaan suatu projek.</div>
     <div class="col-md-4 text-center">
         <div class="OH1E290">
           <img src="img/nippo/keuntungan-3.png" alt="San Francisco" width="100%" height="300">
-          <div class="Rectangle"><b>Manajemen kinerja</b> seluruh karyawan dapat diketahui oleh para manajer secara transparan & fleksibel</div>
+          <div class="Rectangle">Since both <b>self assessment</b> and supervisor’s <b>assessment</b> are managed, HRD can give a clear explanation of evaluation to the staff.</div>
         </div>
     </div>
     <div class="col-md-4 text-center">
       <div class="OH1E290">
         <img src="img/nippo/keuntungan-4.png" alt="San Francisco" width="100%" height="300">
-        <div class="Rectangle">Mempererat komunikasi internal. Meninggalkan like dan comment pada suatu laporan kerja dapat menumbuhkan rasa penghargaan dan apresiasi pada diri karyawan atas pekerjaannya.</div>
+        <div class="Rectangle">Internal communication will be revitalized. Likes or comments on the report will create a sense of being recognized and evaluated by others.</div>
       </div>
     </div>
     <div class="col-md-4 text-center">
         <div class="OH1E290">
           <img src="img/nippo/keuntungan-5.png" alt="San Francisco" width="100%" height="300">
-          <div class="Rectangle">Walaupun perusahaan memiliki pekerja remote, Anda dapat tetap memantau kinerja dan membangun komunikasi yang baik dengan mereka.</div>
+          <div class="Rectangle">Remote workers get the chance of improvement and assessment just the same as regular employees.</div>
         </div>
     </div>
   </div>
@@ -320,7 +320,7 @@ kerja pengerjaan suatu projek.</div>
   <div class="row">
     <div class="col-md-12">
       <div class="Rectangle-2-Copy-4">
-        <span class="Pertanyaan-Yang-Seri">Pertanyaan Yang Sering Diajukan</span>
+        <span class="Pertanyaan-Yang-Seri">Frequently Asked Questions</span>
       </div>
       <img src="img/nippo/question.png" class="question">
     </div>
@@ -329,22 +329,22 @@ kerja pengerjaan suatu projek.</div>
   <div class="row row-fix-2">
     <div class="col-md-offset-1 col-md-10">
     <ol>
-      <li class="-Bagaimana-cara-ke">Bagaimana cara kerja Nippo?</li>
-      <p class="Nippo-merupakan-sist">Nippo merupakan sistem yang dibuat untuk mempermudah karyawan dalam melakukan laporan manajemen kerja harian. Selain itu, sistem ini juga dibuat untuk membantu manajerial dalam memantau <b>manajemen kinerja</b> harian karyawan.</p>
-      <li class="-Bagaimana-cara-ke">Bagaimana Nippo dapat membantu manager dan staf HR?</li>
-      <p class="Nippo-merupakan-sist">Dengan fitur-fitur yang ada pada Nippo, manajer atau supervisor dapat memantau manajemen kinerja dan produktivitas harian karyawan</p>
-      <li class="-Bagaimana-cara-ke">Sepertinya saya akan membutuhkan panduan yang lebih jelas dalam menggunakan  Nippo.  Apa saya akan mendapatkannya?</li>
-      <p class="Nippo-merupakan-sist">Jangan khawatir. Kami menyediakan panduan penggunaannya untuk Anda. Jika Anda masih menemukan kesulitan, Anda bisa langsung menghubungi kami.</p>
-      <li class="-Bagaimana-cara-ke">Kami tertarik menggunakan Nippo untuk perusahaan kami. Bagaimana kami bisa mendapatkannya?</li>
-      <p class="Nippo-merupakan-sist">Anda bisa langsung menghubungi kami melalui salah satu kontak yang kami sediakan. Kami siap melayani Anda dengan senang hati.</p>
-      <li class="-Bagaimana-cara-ke">Apa perbedaan laman kelola untuk staf dengan manajerial?</li>
-      <p class="Nippo-merupakan-sist">Pada halaman manajerial terdapat fungsi evaluasi sehingga manajer dapat memberikan skor evaluasi kepada stafnya. Sedangkan untuk halaman staf hanya terdapat fungsi laporan harian saja.</p>
-      <li class="-Bagaimana-cara-ke">Apakah Nippo bisa diakses oleh browser apa pun?</li>
-      <p class="Nippo-merupakan-sist">Ya, Nippo dapat diakses menggunakan browser apapun, termasuk oleh browser di perangkat seluler. Jika Anda mengalami masalah dan membutuhkan bantuan, jangan ragu untuk menghubungi Kami.</p>
-      <li class="-Bagaimana-cara-ke">Apakah Nippo hanya diperuntukkan bagi perusahaan jenis tertentu?</li>
-      <p class="Nippo-merupakan-sist">Tidak. Nippo dirancang untuk memenuhi kebutuhan dari jenis perusahaan apa pun.</p>
-      <li class="-Bagaimana-cara-ke">Apakah Nippo dapat diakses dari telepon seluler?</li>
-      <p class="Nippo-merupakan-sist">Ya, Nippo dapat berfungsi dengan baik pada platform mobile.</p>
+      <li class="-Bagaimana-cara-ke">How does Nippo work?</li>
+      <p class="Nippo-merupakan-sist">Nippo provides a daily report master and calculates man-hour cost of each employee so managers and HRD can acknowledge the daily performance of employees.</p>
+      <li class="-Bagaimana-cara-ke">How can Nippo help managers and HRD?</li>
+      <p class="Nippo-merupakan-sist">With Nippo’s features, managers and HRD can monitor how productive each employee is for the day. Therefore, they can immediately evaluate them and eliminate wasteful works.</p>
+      <li class="-Bagaimana-cara-ke">I might need a clearer guide in using Nippo. Will I get it?</li>
+      <p class="Nippo-merupakan-sist">Don’t worry. We provide usage guidelines for you. If you still find it difficult, you can contact us directly.</p>
+      <li class="-Bagaimana-cara-ke">We are interested in using Nippo for our company. How can we get it?</li>
+      <p class="Nippo-merupakan-sist">You can contact us directly through one of the contacts we provide. We are ready to serve you.</p>
+      <li class="-Bagaimana-cara-ke">What’s the different between managing page for staff and for managers?</li>
+      <p class="Nippo-merupakan-sist">Managers page has an evaluation function so they can give evaluation scores to the staff instantly. Staff page only has a daily report function.</p>
+      <li class="-Bagaimana-cara-ke">Is Nippo accessible to any browser?</li>
+      <p class="Nippo-merupakan-sist">Yes, Nippo can be accessed by any browser, including by browsers on mobile devices. If you have a problem and need assistance, please do not hesitate to contact us.</p>
+      <li class="-Bagaimana-cara-ke">Is Nippo only for certain types of companies?</li>
+      <p class="Nippo-merupakan-sist">No. Nippo is designed to meet the needs of any type of company.</p>
+      <li class="-Bagaimana-cara-ke">Is Nippo accessible on mobile phones?</li>
+      <p class="Nippo-merupakan-sist">Yes, Nippo works well on mobile platforms.</p>
       <br>
     </ol>
     </div>
@@ -356,7 +356,7 @@ kerja pengerjaan suatu projek.</div>
   <div class="container">
   <div class="row" style=" margin: 0;padding: 4em 0 2em 0">
     <div class="col-md-4">
-      <p class="KONTAK-KAMI p-l-25">KONTAK<br class="hidden-xs hidden-sm"> KAMI</p>
+      <p class="KONTAK-KAMI p-l-25">CONTACT</p>
     </div>
     <div class="col-md-7">
       <?php if(isset($msg))
@@ -370,23 +370,23 @@ kerja pengerjaan suatu projek.</div>
       <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
       <div class="row">
           <div class="col-sm-6 form-group">
-            <input type="text" class="form-control Rectangle-9" name="name" placeholder="NAMA" value='<?php echo $formproc->SafeDisplay('name') ?>' >
+            <input type="text" class="form-control Rectangle-9" name="name" placeholder="Name" value='<?php echo $formproc->SafeDisplay('name') ?>' >
           </div>
           <div class="col-sm-6 form-group">
-            <input type="text" class="form-control Rectangle-9" name="company" placeholder="NAMA PERUSAHAAN" value='<?php echo $formproc->SafeDisplay('company') ?>' >
+            <input type="text" class="form-control Rectangle-9" name="company" placeholder="Company" value='<?php echo $formproc->SafeDisplay('company') ?>' >
           </div>
       </div>
       <div class="row">
           <div class="col-sm-6 form-group">
-            <input type="email" class="form-control Rectangle-9" name="email" placeholder="EMAIL" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+            <input type="email" class="form-control Rectangle-9" name="email" placeholder="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
           </div>
           <div class="col-sm-6 form-group">
-            <input type="number" class="form-control Rectangle-9" name="phone" placeholder="NO HP / TELEPON" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
+            <input type="number" class="form-control Rectangle-9" name="phone" placeholder="Telp" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
           </div>
       </div>
       <div class="row">
           <div class="col-sm-12 form-group">
-            <textarea class="form-control Rectangle-9" name="message" rows="8" placeholder="PESAN" style="width: 100%;padding:  1em;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+            <textarea class="form-control Rectangle-9" name="message" rows="8" placeholder="Message" style="width: 100%;padding:  1em;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
           </div>
       </div>
 
@@ -396,7 +396,7 @@ kerja pengerjaan suatu projek.</div>
               <div class="clearfix"></div>
           </div>
           <div class="col-md-6 text-right">
-            <button type="submit" href="#" class="Rectangle-10 btn-coba"><span class="KIRIM">KIRIM</span></button>
+            <button type="submit" href="#" class="Rectangle-10 btn-coba"><span class="KIRIM">SUBMIT</span></button>
           </div>
       </div>
       </form> <!-- end form contact -->
@@ -411,7 +411,7 @@ kerja pengerjaan suatu projek.</div>
     <div class="col-md-12 text-center">
       <div class="col-md-12">
         <img src="img/nippo/logo-nippo-footer.png" style="padding-top: 49.2px">
-        <p class="Nippo-adalah-aplikas2">Nippo adalah aplikasi berbasis web yang dapat membantu para manajer dalam memantau produktivitas kerja stafnya. Aplikasi ini merupakan solusi tepat bagi perusahaan untuk mengetahui kinerja karyawan secara detail.</p>
+        <p class="Nippo-adalah-aplikas2">Nippo is a web-based system that can manage, monitor, and evaluate employees’ productivity through daily reports. Nippo provides systemized daily reports that can be customized to show tasks, projects, cost management, and employees’ assessment.</p>
       </div>
     </div>
   </div>
@@ -424,7 +424,7 @@ kerja pengerjaan suatu projek.</div>
       <img src="img/nippo/email.png">
       <p class="Nippo-adalah-aplikas2">info@logique.co.id</p>
       <p>Others Product :</p>
-      <p><a target="_blank" href="/produk/sugoi-saiyo.php">SUGOI-SAIYO</a> | <a target="_blank" href="/produk/dokodemo-kerja.php">DOKODEMO KERJA</a></p>
+      <p><a target="_blank" href="/en/product/sugoi-saiyo.php">SUGOI-SAIYO</a> | <a target="_blank" href="/en/product/dokodemo-kerja.php">DOKODEMO KERJA</a></p>
     </div>
     <div class="col-md-4" style="margin-top: 3em">
       <img src="img/nippo/phone-call.png">

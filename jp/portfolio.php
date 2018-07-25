@@ -113,12 +113,16 @@
 			</div>			
 			
 			<br/>
+<<<<<<< HEAD
 			<style>
 				.addition-desc{font-size:12px}
 				.grey-clr{color:grey}
 				.circle-list>li {padding-bottom: 7px}
 				.modal-backdrop{display: none!important}
 			</style>
+=======
+			
+>>>>>>> nippo-LP
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
@@ -140,7 +144,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEBリニューアル＆運用 (デザイン| コーディング | CMS構築 | 運用)<br>
-									<br><div class="grey-clr">CMS,多言語,スマホ最適化,セキュアなWEB,金融,銀行</div><br><br><br>
+									<br>CMS,多言語,スマホ最適化,セキュアなWEB,金融,銀行<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -150,7 +154,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB制作＆運用 (デザイン | コーディング | コンテンツ制作 | 運用)<br>
-									<br><div class="grey-clr">CMS,多言語,モバイル最適化,セキュアなWEB,公共</div><br><br><br>
+									<br>CMS,多言語,モバイル最適化,セキュアなWEB,公共<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -160,7 +164,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用 | AWS運用)<br>
-									<br><div class="grey-clr">CMS,マーケットプレイス,会員WEB,Mobile, WEBサービス,車</div><br><br><br>
+									<br>CMS,マーケットプレイス,会員WEB,Mobile, WEBサービス,車<br><br><br>
 								</div>
 						 	</div>
 						 	<div class="clearfix"></div>
@@ -171,7 +175,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)<br>
-									<br><div class="grey-clr">オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</div><br><br><br>
+									<br>オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -179,7 +183,7 @@
 								Salon De Res
 								<div class="addition-desc text-left">
 									<br>WEB制作 (デザイン | コーディング)<br>
-									<br><div class="grey-clr">モバイル最適化,多言語,美容</div><br><br><br>
+									<br>モバイル最適化,多言語,美容<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -189,7 +193,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB制作 (デザイン | コーディング | 保守)<br>
-									<br><div class="grey-clr">モバイル,多言語,Wordpress,ブログ,不動産</div><br><br><br>
+									<br>モバイル,多言語,Wordpress,ブログ,不動産<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -200,7 +204,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB制作＆運用 (デザイン | コーディング | 運用)<br>
-									<br><div class="grey-clr">モバイル,セキュアなWEB,公共</div><br><br><br>
+									<br>モバイル,セキュアなWEB,公共<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -208,7 +212,7 @@
 								OTO Siap!
 								<div class="addition-desc text-left">
 									<br>LP制作 (デザイン | コーディング)<br>
-									<br><div class="grey-clr">モバイル,A/Bテスト,EFO,中古車マーケットプレイス</div><br><br><br>
+									<br>モバイル,A/Bテスト,EFO,中古車マーケットプレイス<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -218,7 +222,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB制作 (デザイン | コーディング)<br>
-									<br><div class="grey-clr">多言語,モバイル最適化,ITサービス</div><br><br><br>
+									<br>多言語,モバイル最適化,ITサービス<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -229,7 +233,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEBサイト制作 (デザイン | コーディング)<br>
-									<br><div class="grey-clr">多言語,モバイル,製造業</div><br><br><br>
+									<br>多言語,モバイル,製造業<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -239,7 +243,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEBサイト制作 (デザイン | コーディング | 保守 | WEBサーバー運用)<br>
-									<br><div class="grey-clr">多言語,モバイル,製造業</div><br><br><br>
+									<br>多言語,モバイル,製造業<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -249,7 +253,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB制作＆運用 (デザイン | コーディング | 運用)<br>
-									<br><div class="grey-clr">モバイル,セキュアなWEB,公共</div><br><br><br>
+									<br>モバイル,セキュアなWEB,公共<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -258,7 +262,7 @@
 								aJapan Campaign
 								<div class="addition-desc text-left">
 									<br>キャンペーンサイト制作＆運用 (デザイン | コーディング | Operation)<br>
-									<br><div class="grey-clr">多言語,モバイル,キャンペーン</div><br><br><br>
+									<br>多言語,モバイル,キャンペーン<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -266,7 +270,7 @@
 								Sumitomo Forestry
 								<div class="addition-desc text-left">
 									<br>ランディングページ制作 (デザイン | コーディング)<br>
-									<br><div class="grey-clr">モバイル,キャンペーンページ</div><br><br><br>
+									<br>モバイル,キャンペーンページ<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -274,7 +278,7 @@
 								JualBeliWEB.id (Website market place)
 								<div class="addition-desc text-left">
 									<br>WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用)<br>
-									<br><div class="grey-clr">CMS,マーケットプレイス,DB,Mobile,セキュアなWEB,WEBサービス</div><br><br><br>
+									<br>CMS,マーケットプレイス,DB,Mobile,セキュアなWEB,WEBサービス<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -285,7 +289,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB構築＆運用 (デザイン | Coding | Wordpress | 運用)<br>
-									<br><div class="grey-clr">日本語WEB,ブログ,モバイル最適化,願書受付,学校</div><br><br><br>
+									<br>日本語WEB,ブログ,モバイル最適化,願書受付,学校<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -293,7 +297,7 @@
 								OTOmart Concierge LP
 								<div class="addition-desc text-left">
 									<br>LP制作 (デザイン | コーディング | LPO)<br>
-									<br><div class="grey-clr">モバイル最適化,A/Bテスト,LPO,中古車マーケットプレイス</div><br><br><br>
+									<br>モバイル最適化,A/Bテスト,LPO,中古車マーケットプレイス<br><br><br>
 								</div>
 							</div>
 							 
@@ -304,7 +308,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEBサイト制作 (デザイン | コーディング | 保守 | WEBサーバー運用)<br>
-									<br><div class="grey-clr">多言語,モバイル,バイクサービス</div><br><br><br>
+									<br>多言語,モバイル,バイクサービス<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -315,7 +319,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB構築＆運用 (デザイン | CMS |コンテンツ制作 | 運用)<br>
-									<br><div class="grey-clr">CMS,ポータル, Mobile,不動産,WEBサービス</div><br><br><br>
+									<br>CMS,ポータル, Mobile,不動産,WEBサービス<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -325,7 +329,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEBサイト制作 (デザイン | コーディング | 運用)<br>
-									<br><div class="grey-clr">多言語,モバイル最適化,LPO,A/Bテスト,美容・エステ</div><br><br><br>
+									<br>多言語,モバイル最適化,LPO,A/Bテスト,美容・エステ<br><br><br>
 								</div>
 							</div>
 							 <div class="col-sm-4">
@@ -335,7 +339,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB構築＆運用 (デザイン | Coding | Wordpress | 運用)<br>
-									<br><div class="grey-clr">日本語WEB,ブログ,モバイル最適化,願書受付,学校</div><br><br><br>
+									<br>日本語WEB,ブログ,モバイル最適化,願書受付,学校<br><br><br>
 								</div>
 							</div>		
 							<div class="clearfix"></div>
@@ -346,7 +350,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEBサイト制作 (デザイン | コーディング |運用)<br>
-									<br><div class="grey-clr">多言語,モバイル最適化,製造販売,美容</div><br><br><br>
+									<br>多言語,モバイル最適化,製造販売,美容<br><br><br>
 								</div>
 							</div>	
 							<div class="col-sm-4">
@@ -356,7 +360,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB構築＆運用 (デザイン | CMS | 運用)<br>
-									<br><div class="grey-clr">Wordpress,モバイル最適化,会員専用Web,医療</div><br><br><br>
+									<br>Wordpress,モバイル最適化,会員専用Web,医療<br><br><br>
 								</div>
 							</div>	
 							<div class="col-sm-4">
@@ -366,7 +370,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEBサイト制作 (デザイン | コーディング | 運用 | WEBサーバー運用)<br>
-									<br><div class="grey-clr">多言語,モバイル,AWS,不動産</div><br><br><br>
+									<br>多言語,モバイル,AWS,不動産<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -377,7 +381,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEBリデザイン(デザイン | コーディング)<br>
-									<br><div class="grey-clr">多言語,モバイル,AWS,コンサルティング,会計税務</div><br><br><br>
+									<br>多言語,モバイル,AWS,コンサルティング,会計税務<br><br><br>
 								</div>
 							</div>	
 							<div class="col-sm-4">
@@ -387,7 +391,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>CMS WEBサイト制作 (デザイン | コーディング | CMS))<br>
-									<br><div class="grey-clr">CMS,モバイル対応,金融</div><br><br><br>
+									<br>CMS,モバイル対応,金融<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -397,7 +401,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>参加申込フォーム (デザイン | PHPフォーム)<br>
-									<br><div class="grey-clr">多言語,モバイル, 申込フォーム開発,公共</div><br><br><br>
+									<br>多言語,モバイル, 申込フォーム開発,公共<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -406,7 +410,7 @@
 								Shinoken Asset Management
 								<div class="addition-desc text-left">
 									<br>WEB制作 (デザイン | コーディング | AWS運用)<br>
-									<br><div class="grey-clr">多言語,モバイル対応,コーポレートWEB,AWS,不動産投資</div><br><br><br>
+									<br>多言語,モバイル対応,コーポレートWEB,AWS,不動産投資<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -416,7 +420,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>キャンペーンページ制作 (デザイン | コーディング | CMS開発)<br>
-									<br><div class="grey-clr">多言語,モバイル対応, キャンペーンページ,CMS,金融,銀行</div><br><br><br>
+									<br>多言語,モバイル対応, キャンペーンページ,CMS,金融,銀行<br><br><br>
 								</div>
 							</div>	
 							<div class="col-sm-4">
@@ -426,7 +430,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>ECサイト構築 (デザイン| EC構築 | CMS構築 | 運用)<br>
-									<br><div class="grey-clr">EC,CMS,決済連携,マルチレベルマーケティング</div><br><br><br>
+									<br>EC,CMS,決済連携,マルチレベルマーケティング<br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -437,7 +441,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEBサイト制作 (デザイン| コーディング |運用)<br>
-									<br><div class="grey-clr">モバイル最適化,オンラインブッキング,スポーツ</div><br><br><br>
+									<br>モバイル最適化,オンラインブッキング,スポーツ<br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -447,7 +451,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEBリニューアル＆運用 (デザイン| コーディング| 運用)<br>
-									<br><div class="grey-clr">モバイル最適化,セキュアなWEB,公共,旅行</div><br><br><br>
+									<br>モバイル最適化,セキュアなWEB,公共,旅行<br><br><br>
 								</div>
 							</div>
 						</div>

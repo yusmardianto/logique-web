@@ -39,11 +39,11 @@ if(isset($_POST['submitted']))
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" content="Kesulitan dalam mengkalkulasikan total jam dalam suatu proyek serta sulit untuk memantau kinerja karyawan pada suatu perkembangan proyek? Tidak perlu khawatir, sekarang Nippo hadir sebagai solusi dari semua masalah yang dialami oleh perusahaan. Karena itu, dapatkan aplikasi Nippo sekarang juga!">
+  <meta name="description" content="NIPPOは日報管理ツールです。日々の日報を通じて、スタッフの作業内容・量・質を把握し、スタッフ間でのコミュニケーションを促進することができます。管理者者は部下の評価を行います。プロジェクト毎、タスク毎の原価工数集計も可能です。">
   <meta name="keywords" content="laporan kerja, laporan kerja harian, kerja partime, kerja remote, karyawan swasta, karyawan kontrak, laporan kinerja, laporan kinerja karyawan, sistem web, sistem informasi, Nippo">
   <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Sistem Laporan Kerja Karyawan | Nippo</title>
+  <title>原価工数管理や従業員評価を行うことが可能な日報ツール | NIPPO | LOGIQUE DIGITAL INDONESIA</title>
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style_nippo.css">
   <style type="text/css">
@@ -81,6 +81,13 @@ if(isset($_POST['submitted']))
 
 <div class="div-one">
   <div class="container">
+    <div class="language-btn">
+      <ul class="list-inline">
+        <li><a href="/../en/product/nippo.php">EN</a></li>
+        <li><a href="/produk/nippo.php">ID</a></li>
+        <li class="active"><a href="/../jp/product/nippo.php">JP</a></li>
+      </ul>
+    </div>
     <div class="row" style="margin-right:0;margin-left:0;">
       <div class="col-md-12 text-center p-top-50" style=" padding-top: 18%; ">
         <img src="img/nippo/LogoNippo.png" alt="nippo" class="fade-in logo m-logo">
@@ -406,15 +413,17 @@ if(isset($_POST['submitted']))
   <div class="row text-center" style="margin: 0">
     <div class="col-md-4" style="margin-top: 3em">
       <img src="img/nippo/placeholder.png">
-      <p class="Nippo-adalah-aplikas2">Jalan Tb. Simatupang no. 1. Ragunan,<br> Pasar Minggu, Kota Jakarta Selatan, <br>DKI Jakarta 12540</p>
+      <p class="Nippo-adalah-aplikas2">Ad Premier Building 19th Floor Jalan Tb. Simatupang No. 5 Ragunan, Ps. Minggu, Jakarta Selatan, Indonesia 12550</p>
     </div>
     <div class="col-md-4" style="margin-top: 3em">
       <img src="img/nippo/email.png">
-      <p class="Nippo-adalah-aplikas2">info.nippo@logique.co.id</p>
+      <p class="Nippo-adalah-aplikas2">info@logique.co.id</p>
+      <p>Others Product :</p>
+      <p><a target="_blank" href="/jp/product/sugoi-saiyo.php">SUGOI-SAIYO</a> | <a target="_blank" href="/jp/product/dokodemo-kerja.php">DOKODEMO KERJA</a></p>
     </div>
     <div class="col-md-4" style="margin-top: 3em">
       <img src="img/nippo/phone-call.png">
-      <p class="Nippo-adalah-aplikas2">+62 21 650 5656</p>
+      <p class="Nippo-adalah-aplikas2">+62(21) 2270 8935 / 36</p>
     </div>
   </div>
   </div>
