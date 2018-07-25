@@ -1,4 +1,4 @@
-﻿ <?php 
+ <?php 
 require_once("form/fgcontact_sugoi.php");
 
 $formproc = new FGContactForm();
