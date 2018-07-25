@@ -113,16 +113,12 @@
 			</div>			
 			
 			<br/>
-<<<<<<< HEAD
 			<style>
 				.addition-desc{font-size:12px}
 				.grey-clr{color:grey}
 				.circle-list>li {padding-bottom: 7px}
 				.modal-backdrop{display: none!important}
 			</style>
-=======
-			
->>>>>>> nippo-LP
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
@@ -145,7 +141,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pembaharuan & Pengoperasian WEB (Design | Coding | CMS | Operation)<br>
-									<br>CMS, multi-bahasa, Mobile, Kemanan WEB, Finansial, Bank<br><br><br>
+									<br><div class="grey-clr">CMS, multi-bahasa, Mobile, Kemanan WEB, Finansial, Bank</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -155,7 +151,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengoperasian dan Pengembangan WEB  (Design | Coding | Content Creation | Operation)<br>
-									<br>CMS, multi-bahasa, Mobile, Keamanan WEB, Publik<br><br><br>
+									<br><div class="grey-clr">CMS, multi-bahasa, Mobile, Keamanan WEB, Publik</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -165,7 +161,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengembangan dan Pengoperasian WEB (Design | CMS | System | Content Creation | Operation | AWS)<br>
-									<br>CMS, Tempat Jual-Beli, DB-WEB, Mobile, Layanan WEB, Automobil<br><br><br>
+									<br><div class="grey-clr">CMS, Tempat Jual-Beli, DB-WEB, Mobile, Layanan WEB, Automobil</div><br><br><br>
 								</div>
 						 	</div>
 						 	<div class="clearfix"></div>
@@ -176,7 +172,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengoperasian & Pengembangan WEB (Design | CMS | System | Operation | AWS)<br>
-									<br>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial<br><br><br>
+									<br><div class="grey-clr">Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -184,7 +180,7 @@
 								Salon De Res
 								<div class="addition-desc text-left">
 									<br>Pengembangan WEB (Design | Coding)<br>
-									<br>Mobile, Multi-Bahasa, Kecantikan<br><br><br>
+									<br><div class="grey-clr">Mobile, Multi-Bahasa, Kecantikan</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -194,7 +190,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengembangan WEB ((Design | Coding | Maintenance)<br>
-									<br>Mobile, Multi-Bahasa, Wordpress, Blog, Perumahan<br><br><br>
+									<br><div class="grey-clr">Mobile, Multi-Bahasa, Wordpress, Blog, Perumahan</div><br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -205,7 +201,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengoperasian WEB & Operasi (Design | Coding | Operation)<br>
-									<br>Mobile, Keamanan WEB, Publik<br><br><br>
+									<br><div class="grey-clr">Mobile, Keamanan WEB, Publik</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -213,7 +209,7 @@
 								OTO Siap!
 								<div class="addition-desc text-left">
 									<br>Pembuatan Landing Page (Design | Coding)<br>
-									<br>Mobile, A/B Test, EFO, Jual-Beli Mobil Bekas<br><br><br>
+									<br><div class="grey-clr">Mobile, A/B Test, EFO, Jual-Beli Mobil Bekas</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -223,7 +219,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengembangan & Pengoperasian WEB (Design | Coding)<br>
-									<br>Multi-bahasa, Mobile, Layanan TI<br><br><br>
+									<br><div class="grey-clr">Multi-bahasa, Mobile, Layanan TI</div><br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -234,7 +230,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengembangan WEB (Design | Coding)<br>
-									<br>Multi-bahasa, Mobile, Manufaktur<br><br><br>
+									<br><div class="grey-clr">Multi-bahasa, Mobile, Manufaktur</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -244,7 +240,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengembangan WEB (Design | Coding | Maintenance | WEB Server)<br>
-									<br>Multi-language, Mobile, Manufaktur<br><br><br>
+									<br><div class="grey-clr">Multi-language, Mobile, Manufaktur</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -254,7 +250,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengoperasian WEB & Operasi (Design | Coding | Operation)<br>
-									<br>Mobile, Keamanan WEB, Publik<br><br><br>
+									<br><div class="grey-clr">Mobile, Keamanan WEB, Publik</div><br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -263,7 +259,7 @@
 								aJapan Campaign Page
 								<div class="addition-desc text-left">
 									<br>Pengoperasian & Pengembangan Kampanye Microsite (Design | Coding | Operation)<br>
-									<br>Multi-bahasa, Mobile, Kampanye<br><br><br>
+									<br><div class="grey-clr">Multi-bahasa, Mobile, Kampanye</div><br><br><br>
 								</div>
 							</div>							 
 							<div class="col-sm-4">
@@ -271,7 +267,7 @@
 								Sumitomo Forestry LP
 								<div class="addition-desc text-left">
 									<br>Pembuatan Landing Page (Design | Coding)<br>
-									<br>Mobile, Kampanye<br><br><br>
+									<br><div class="grey-clr">Mobile, Kampanye</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -281,7 +277,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengoperasian & Pengembangan WEB (Design | CMS | System | Content Creation | Operation) <br>
-									<br>CMS, Jual-Beli, DB, Mobile, Keamanan WEB, Layanan WEB<br><br><br>
+									<br><div class="grey-clr">CMS, Jual-Beli, DB, Mobile, Keamanan WEB, Layanan WEB</div><br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -292,7 +288,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengoperasian & Pengembangan WEB (Design | Coding | Wordpress | Operation) <br>
-									<br>WEB Bahasa Jepang, Blog, Mobile, Form Aplikasi, Sekolah <br><br><br>
+									<br><div class="grey-clr">WEB Bahasa Jepang, Blog, Mobile, Form Aplikasi, Sekolah </div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -300,7 +296,7 @@
 								OTOmart Concierge LP
 								<div class="addition-desc text-left">
 									<br>Pembuatan Landing Page (Design | Coding | LPO) <br>
-									<br>Mobile, A/B Test, LPO, JualBeli Mobil Bekas<br><br><br>
+									<br><div class="grey-clr">Mobile, A/B Test, LPO, JualBeli Mobil Bekas</div><br><br><br>
 								</div>
 							</div>
 							 
@@ -311,7 +307,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengoperasian & Pengembangan WEB (Design | Coding | Maintenance| WEB Server) <br>
-									<br>Multi-bahasa, Mobile, Layanan Sepeda Motor<br><br><br>
+									<br><div class="grey-clr">Multi-bahasa, Mobile, Layanan Sepeda Motor</div><br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -322,7 +318,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengoperasian & Pengembangan WEB (Design | CMS | Content Creation | Operation)<br>
-									<br>CMS, Portal, Mobile, Perumahan, Layanan WEB<br><br><br>
+									<br><div class="grey-clr">CMS, Portal, Mobile, Perumahan, Layanan WEB</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -332,7 +328,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengembangan & Pengoperasian WEB (Design | Coding | Operation)<br>
-									<br>Multi-bahasa, Mobile, LPO, A/B Test, Kecantikan<br><br><br>
+									<br><div class="grey-clr">Multi-bahasa, Mobile, LPO, A/B Test, Kecantikan</div><br><br><br>
 								</div>
 							</div>
 							 <div class="col-sm-4">
@@ -342,7 +338,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengoperasian & Pengembangan WEB (Design | Coding | Wordpress | Operation) <br>
-									<br>WEB Bahasa Jepang, Mobile, Form Aplikasi, Sekolah<br><br><br>
+									<br><div class="grey-clr">WEB Bahasa Jepang, Mobile, Form Aplikasi, Sekolah</div><br><br><br>
 								</div>
 							</div>		
 							<div class="clearfix"></div>
@@ -353,7 +349,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengembangan WEB (Design | Coding | Operation) <br>
-									<br>Multi-bahasa, Mobile, Manufaktur, Kecantikan<br><br><br>
+									<br><div class="grey-clr">Multi-bahasa, Mobile, Manufaktur, Kecantikan</div><br><br><br>
 								</div>
 							</div>	
 							<div class="col-sm-4">
@@ -363,7 +359,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengoperasian & Pengembangan WEB (Design | CMS | Operation) <br>
-									<br>Wordpress, Mobile, Member-only WEB, Kesehatan<br><br><br>
+									<br><div class="grey-clr">Wordpress, Mobile, Member-only WEB, Kesehatan</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -373,7 +369,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengoperasian & Pengembangan WEB (Design | Coding | Operation | WEB Server) <br>
-									<br>Multi-bahasa, Mobile, AWS, Perumahan<br><br><br>
+									<br><div class="grey-clr">Multi-bahasa, Mobile, AWS, Perumahan</div><br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -384,7 +380,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pembaharuan Design WEB (Design | Coding) <br>
-									<br>Multi-bahasa, Mobile, Konsultasi, Akuntansi &amp; Pajak <br><br><br>
+									<br><div class="grey-clr">Multi-bahasa, Mobile, Konsultasi, Akuntansi &amp; Pajak </div><br><br><br>
 								</div>
 							</div>	
 							<div class="col-sm-4">
@@ -394,7 +390,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengembangan WEB (Design | Coding | CMS) <br>
-									<br>CMS, Mobile, OJK, Finansial<br><br><br>
+									<br><div class="grey-clr">CMS, Mobile, OJK, Finansial</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -404,7 +400,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pembuatan Form Aplikasi (Design | PHP Form)<br>
-									<br>Multi-bahasa, Mobile, Form Aplikasi, Publik<br><br><br>
+									<br><div class="grey-clr">Multi-bahasa, Mobile, Form Aplikasi, Publik</div><br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -413,7 +409,7 @@
 								Shinoken Asset Management
 								<div class="addition-desc text-left">
 									<br>Pengembangan WEB (Design | Coding | AWS)<br>
-									<br>Multi-bahasa, Mobile, WEB Perusahaan, AWS, Perumahan<br><br><br>
+									<br><div class="grey-clr">Multi-bahasa, Mobile, WEB Perusahaan, AWS, Perumahan</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -423,7 +419,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pembuatan Halaman Campaign (Design | Coding | CMS)<br>
-									<br>Multi-bahasa, Mobile, Halaman Campaign, CMS, Finansial, Bank<br><br><br>
+									<br><div class="grey-clr">Multi-bahasa, Mobile, Halaman Campaign, CMS, Finansial, Bank</div><br><br><br>
 								</div>
 							</div>	
 							<div class="col-sm-4">
@@ -433,7 +429,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengembangan E-Commerce (Design | E-Commerce | CMS | Maintenance)<br>
-									<br>E-Commerce, CMS, Payment Gateway, Multi-Level-Marketing<br><br><br>
+									<br><div class="grey-clr">E-Commerce, CMS, Payment Gateway, Multi-Level-Marketing</div><br><br><br>
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -444,7 +440,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pengoperasian & Pengembangan WEB (Design | Coding | Operation)<br>
-									<br>Mobile, Pemesanan Online, Olahraga<br><br><br>
+									<br><div class="grey-clr">Mobile, Pemesanan Online, Olahraga</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -454,7 +450,7 @@
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pembaharuan & Pengoperasian WEB (Design | Coding | Operation)<br>
-									<br>Optimisasi Mobile, Keamanan WEB,Public,Perjalanan<br><br><br>
+									<br><div class="grey-clr">Optimisasi Mobile, Keamanan WEB,Public,Perjalanan</div><br><br><br>
 								</div>
 							</div>
 						</div>

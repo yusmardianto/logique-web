@@ -70,6 +70,7 @@ if(isset($_POST['submitted']))
 		</header>
 		<section class="about">
 			<div class="container">
+				<a href="/"><img src="img/sugoi-saiyo/logo_logique.png" alt="Sugoi Saiyo Logo" style="position:absolute;top: 0;"></a>
 				<h2>SUGOI採用ってなに？どんなツールなの？</h2>
 				<p>SUGOI採用は、インドネシアの人事部、採用担当者のためのITシステムです。要件に合わない大量のCVのスクリーニング、応募者との連絡の難しさ、ノーShowの多さ、など採用活動には無駄が非常に多いです。<br><br>SUGOI採用は、これら問題を解消し、人事部の、採用担当者のストレスをなくします。応募者にとってもWEBで応募からステータス確認、テスト、オファーレター受領まで簡単に管理できるのでとても便利です。</p>
 			</div>
@@ -77,9 +78,16 @@ if(isset($_POST['submitted']))
 		<section class="obstacle">
 			<div class="container">
 				<div class="row">
+					<div class="language-btn">
+						<ul class="list-inline">
+							<li><a href="/../en/product/sugoi-saiyo.php">EN</a></li>
+							<li><a href="/produk/sugoi-saiyo.php">ID</a></li>
+							<li class="active"><a href="/../jp/product/sugoi-saiyo.php">JP</a></li>
+						</ul>
+					</div>
 					<div class="col-md-4 obstacle-title">
 						<h2>インドネシアの採用の難しさ採用担当者が抱える課題</h2>
-						<a href="#contact" class="smooth btn-ss">Coba Sugoi Saiyo</a>
+						<a href="#contact" class="smooth btn-ss">Try Sugoi Saiyo</a>
 					</div>
 					<div class="col-md-8">
 						<div class="row">
@@ -431,12 +439,17 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-4">
 						<p class="address">
-							Jalan Tb. Simatupang no. 1. Ragunan, <br>Pasar Minggu, Kota Jakarta Selatan, <br>DKI Jakarta 12540
+							Ad Premier Building 19th Floor Jalan Tb. Simatupang No. 5 Ragunan, Ps. Minggu, Jakarta Selatan, Indonesia 12550
+						</p>
+						<p class="link">
+							<span>Product LOGIQUE :</span>
+							<a href="/../jp/product/nippo.php">Nippo</a>
+							<a href="/../jp/product/dokodemo-kerja.php">Dokodemo-Kerja</a>
 						</p>
 					</div>
 					<div class="col-md-4">
-						<p class="phone">+62 21 650 5656</p>
-						<p class="email"><a href="mailto:info@sugoi-saiyo.co.id">info@sugoi-saiyo.co.id</a></p>
+						<p class="phone">+62(21) 2270 8935 / 36</p>
+						<p class="email"><a href="mailto:info@sugoi-saiyo.co.id">info@logique.co.id</a></p>
 					</div>
 				</div>
 			</div>

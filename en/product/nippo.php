@@ -405,7 +405,7 @@ if(isset($_POST['submitted']))
   </div>
 </div>
 
-<div class="Rectangle-11">
+<div class="Rectangle-11" style="height:auto!important;padding:15px 0">
   <div class="container">
   <div class="row" style="margin: 0">
     <div class="col-md-12 text-center">
@@ -415,6 +415,15 @@ if(isset($_POST['submitted']))
       </div>
     </div>
   </div>
+  <div class="row">
+	  <div class="col-sm-12 text-center">
+		<br/>
+		<p style="color:#9b9b9b;font-family: Avenir;font-size: 18px;">Other Products:</p>
+		<p>
+			<a target="_blank" href="/en/product/sugoi-saiyo.php" style="color:#fff;font-family: Avenir;font-size: 18px;">SUGOI-SAIYO</a> | 
+			<a target="_blank" href="/produk/dokodemo-kerja.php" style="color:#fff;font-family: Avenir;font-size: 18px;">DOKODEMO KERJA</a></p>
+	  </div>
+  </div>
   <div class="row text-center" style="margin: 0">
     <div class="col-md-4" style="margin-top: 3em">
       <img src="img/nippo/placeholder.png">
@@ -423,8 +432,6 @@ if(isset($_POST['submitted']))
     <div class="col-md-4" style="margin-top: 3em">
       <img src="img/nippo/email.png">
       <p class="Nippo-adalah-aplikas2">info@logique.co.id</p>
-      <p>Others Product :</p>
-      <p><a target="_blank" href="/en/product/sugoi-saiyo.php">SUGOI-SAIYO</a> | <a target="_blank" href="/en/product/dokodemo-kerja.php">DOKODEMO KERJA</a></p>
     </div>
     <div class="col-md-4" style="margin-top: 3em">
       <img src="img/nippo/phone-call.png">
