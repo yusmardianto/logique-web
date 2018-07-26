@@ -112,8 +112,7 @@
 				<div class="row">
 					<div class="col-sm-12">
 						<div class="title-container visible-xs">
-						<br/><br/>
-							
+						<br/>							
 							<div id="myCarousel2" class="carousel slide carousel-home-new" data-interval="false">
 							  <div class="carousel-inner">
 								<div class="item active">

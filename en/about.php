@@ -207,10 +207,14 @@
 						<div class="list-on-services">
 							<ul class="fa-ul">
 								<li><i class="fa-li fa fa-check"></i> Developing a website</li>
-								<li><i class="fa-li fa fa-check"></i> Renewing / updating your website</li>
-								<li><i class="fa-li fa fa-check"></i> Developing campaign page / landing page</li>
-								<li><i class="fa-li fa fa-check"></i> Outsourcing for your website operation </li>
-								<li><i class="fa-li fa fa-check"></i> Looking for web server to rent and a company to maintain it.</li>
+								<li><i class="fa-li fa fa-check"></i> Updating the website system</li>
+								<li><i class="fa-li fa fa-check"></i> Developing a web system</li>
+								<li><i class="fa-li fa fa-check"></i> Creating a page design campaign or website landing page </li>
+								<li><i class="fa-li fa fa-check"></i> Outsourcing for website operations.</li>
+								<li><i class="fa-li fa fa-check"></i> Increasing the amount of access to your website with SEO.</li>
+								<li><i class="fa-li fa fa-check"></i> Organizing and running an online promotion strategy.</li>
+								<li><i class="fa-li fa fa-check"></i> Searching for leasing web servers and companies to manage them.</li>
+								<li><i class="fa-li fa fa-check"></i> Searching for printing services for company profiles or brochures.</li>
 								<li><i class="fa-li fa fa-check"></i> etc.</li>
 							</ul>
 						</div>

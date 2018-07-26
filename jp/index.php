@@ -101,13 +101,12 @@
 				<div class="row">
 					<div class="col-sm-12">
 						<div class="title-container visible-xs">
-							<br/><br/>
-							
+							<br/>							
 							<div id="myCarousel2" class="carousel slide carousel-home-new" data-interval="false">
 							  <div class="carousel-inner">
 								<div class="item active">
 									<div class="text-center">
-										<h1 class="title-index" style="font-size:40px">
+										<h1 class="title-index" >
 											<span class="yellow">インドネシア</span>でお客様の課題を<br><span class="yellow">WEB・IT</span>の活用で解決してきました。
 										</h1>
 										WEB・ホームページ制作・WEBシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWEB戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWEBを制作運用することを心がけています。ネットビジネスコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。採用管理システムやCRMシステム、ECサイト構築などシステム開発も数多く経験しています。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネット・ITを活用して貢献していきます。<br/><br/>
@@ -149,7 +148,7 @@
 								</div>
 
 								<div class="item">
-									<h1 class="text-center title-index title-index2" style="font-size:38px!important">
+									<h1 class="text-center title-index title-index2">
 										インドネシアで<span class="yellow">HRテック</span>ソリューションを提供しています。
 									</h1>
 									<div class="row">

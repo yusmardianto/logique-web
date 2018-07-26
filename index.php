@@ -160,7 +160,7 @@
 
 								<div class="item">
 									<h1 class="text-center title-index title-index2">
-										Kami Menyediakan Solusi HR-Tech di Indonesia
+										Kami Menyediakan Solusi <span class="yellow">HR-Tech</span> di Indonesia
 									</h1>
 									<div class="row">
 										<div class="col-md-6">
