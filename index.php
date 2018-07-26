@@ -293,7 +293,7 @@
 
 							<div class="item active">
 								<h1 class="text-center title-index title-index2">
-									Kami Menyediakan Solusi HR-Tech di Indonesia
+									Kami Menyediakan Solusi <span class="yellow">HR-Tech</span> di Indonesia
 								</h1>
 								<div class="row">
 									<div class="col-md-6">
@@ -303,7 +303,9 @@
 													<a href="/produk/dokodemo-kerja.php" target="_blank">
 														<img src="/img/dokodemo-index.png" class="center-block img-responsive"/>
 														<div class="div-explanation">
-															Memonitor pekerjaan dan meningkatkan produktivitas karyawan, khususnya bagi mereka yang kerja-remote.
+															<div class="valign-center">
+																Memonitor pekerjaan dan meningkatkan produktivitas karyawan, khususnya bagi mereka yang kerja-remote.
+															</div>
 														</div>
 													</a>
 												</div>
@@ -314,7 +316,9 @@
 													<a href="/produk/sugoi-saiyo.php" target="_blank">
 														<img src="/img/sugoi-index.png" class="center-block img-responsive"/>
 														<div class="div-explanation">
-															Sistem manajemen untuk menyederhanakan aktivitas rekrutmen bagi tim HRD dan para pencari kerja. 
+															<div class="valign-center">
+																Sistem manajemen untuk menyederhanakan aktivitas rekrutmen bagi tim HRD dan para pencari kerja. 
+															</div>
 														</div>
 													</a>
 												</div>
@@ -327,7 +331,9 @@
 													<a href="/produk/nippo.php" target="_blank">
 														<img src="/img/nippo-index.png" class="center-block img-responsive"/>
 														<div class="div-explanation">
-															Mengelola laporan harian karyawan terkait daftar projek yang dikerjakan dan lama waktu yang dihabiskan.
+															<div class="valign-center">
+																Mengelola laporan harian karyawan terkait daftar projek yang dikerjakan dan lama waktu yang dihabiskan.
+															</div>
 														</div>
 													</a>
 												</div>
@@ -338,7 +344,9 @@
 													<a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank">
 														<img src="/img/hiring-index.png" class="center-block img-responsive"/>
 														<div class="div-explanation">
-															Kami bisa membuat halaman rekrutmen perusahaan Anda.  Halaman ini dapat dihubungkan dengan sistem SugoiSaiyo.
+															<div class="valign-center">
+																Kami bisa membuat halaman rekrutmen perusahaan Anda.  Halaman ini dapat dihubungkan dengan sistem SugoiSaiyo.
+															</div>
 														</div>
 													</a>
 												</div>
