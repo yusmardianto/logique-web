@@ -115,7 +115,7 @@
 							<br/>
 							<div id="myCarousel2" class="carousel slide carousel-home-new" data-interval="false">
 							  <div class="carousel-inner">
-								<div class="item">
+								<div class="item active">
 									<div class="text-center">
 										<h1 class="title-index">
 											Jasa Pembuatan <span class="yellow">Website</span> dan <span class="yellow">Web Sistem</span> <br>Berkualitas di Jakarta
@@ -158,7 +158,7 @@
 									</div>
 								</div>
 
-								<div class="item active">
+								<div class="item">
 									<h1 class="text-center title-index title-index2">
 										Kami Menyediakan Solusi HR-Tech di Indonesia
 									</h1>
@@ -248,7 +248,7 @@
 					<div class="title-container hidden-xs">
 						<div id="myCarousel" class="carousel slide carousel-home-new" data-interval="false">
 						  <div class="carousel-inner">
-							<div class="item">
+							<div class="item active">
 								<div class="text-center">
 									<h1 class="title-index">
 										Jasa Pembuatan <span class="yellow">Website</span> dan <span class="yellow">Web Sistem</span> <br>Berkualitas di Jakarta
@@ -291,7 +291,7 @@
 								</div>
 							</div>
 
-							<div class="item active">
+							<div class="item">
 								<h1 class="text-center title-index title-index2">
 									Kami Menyediakan Solusi <span class="yellow">HR-Tech</span> di Indonesia
 								</h1>
