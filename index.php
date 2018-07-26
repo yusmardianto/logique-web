@@ -112,83 +112,124 @@
 				<div class="row">
 					<div class="col-sm-12">
 						<div class="title-container visible-xs">
-							<br/><br/>
-							<div class="text-center">
-								<p class="title-index">
-									Jasa Pembuatan <span class="yellow">Website</span> dan <span class="yellow">Web Sistem</span> Berkualitas di Jakarta
-								</p>
-								LOGIQUE memiliki pengalaman dan kualitas yang Anda perlukan dalam pengembangan sistem web untuk kebutuhan bisnis digital saat ini. Kami telah bekerjasama dengan banyak klien internasional untuk berbagai kebutuhan seperti E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS serta terbiasa membuat sistem web tersebut dengan standar internasional.  LOGIQUE juga  siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Pengalaman yang telah kami jalankan selama lebih dari 5 tahun serta kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
-								<div class="row">
-									<div class="col-md-3 col-sm-6">
-										<div class="div-service-cat">
-											<img src="img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
-											<div>Jasa Pembuatan<br/><span>Website</span></div>
-											<a href="layanan.php" class="btn">Baca Selengkapnya</a>
-										</div>
-									</div>
-									<div class="col-md-3 col-sm-6">
-										<div class="div-service-cat">
-											<img src="img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
-											<div>Jasa Pembuatan<br/><span>Aplikasi</span></div>
-											<a href="/layanan/pembuatan-aplikasi-mobile/" class="btn">Baca Selengkapnya</a>
-										</div>
-									</div>
-									<div class="col-md-3 col-sm-6">
-										<div class="div-service-cat">
-											<img src="img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
-											<div>Jasa Pembuatan<br/><span>Sistem Web</span></div>
-											<a href="layanan.php" class="btn">Baca Selengkapnya</a>
-										</div>
-									</div>
-									<div class="col-md-3 col-sm-6">
-										<div class="div-service-cat">
-											<img src="img/jasa-seo.png" alt="Jasa Optimasi SEO" class="center-block img-responsive"/>
-											<div>Jasa <br/><span>VA Test</span></div>
-											<a href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
+							<br/>
+							<div id="myCarousel2" class="carousel slide carousel-home-new" data-interval="false">
+							  <div class="carousel-inner">
+								<div class="item active">
+									<div class="text-center">
+										<h1 class="title-index">
+											Jasa Pembuatan <span class="yellow">Website</span> dan <span class="yellow">Web Sistem</span> <br>Berkualitas di Jakarta
+										</h1>
+										LOGIQUE memiliki pengalaman dan kualitas yang Anda perlukan dalam pengembangan sistem web untuk kebutuhan bisnis digital saat ini. Kami telah bekerjasama dengan banyak klien internasional untuk berbagai kebutuhan seperti E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS serta terbiasa membuat sistem web tersebut dengan standar internasional.  LOGIQUE juga  siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Pengalaman yang telah kami jalankan selama lebih dari 5 tahun serta kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
+										<div class="row">
+											<div class="col-lg-offset-1 col-lg-10">
+												<div class="row">
+													<div class="col-md-3 col-sm-6">
+														<div class="div-service-cat">
+															<img src="img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
+															<h2>Jasa Pembuatan <br/><span>Website</span></h2>
+															<a href="layanan.php" class="btn">Baca Selengkapnya</a>
+														</div>
+													</div>
+													<div class="col-md-3 col-sm-6">
+														<div class="div-service-cat">
+															<img src="img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
+															<h2>Jasa Pembuatan <br/><span>Aplikasi</span></h2>
+															<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/" class="btn">Baca Selengkapnya</a>
+														</div>
+													</div>
+													<div class="col-md-3 col-sm-6">
+														<div class="div-service-cat">
+															<img src="img/jasa-promosi-online.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
+															<h2>Jasa Pembuatan<br/><span>Sistem Web</span></h2>
+															<a href="layanan.php" class="btn">Baca Selengkapnya</a>
+														</div>
+													</div>
+													<div class="col-md-3 col-sm-6">
+														<div class="div-service-cat">
+															<img src="img/jasa-seo.png" alt="Jasa VA Test" class="center-block img-responsive"/>
+															<div>Jasa <br/><span>VA Test</span></div>
+															<a target="_blank" href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
+														</div>
+													</div>
+												</div>
+											</div>
 										</div>
 									</div>
 								</div>
-								<!--<br/>
-								<div class="row">
-									<div class="col-md-12 text-left">
-										<center><b class="font-24">We Provide HR-Tech Solutions In Indonesia</b></center><br/>
-										<b>Kerja remote</b> | Kami mendukung masyarakat untuk kerja-remote dengan pemanfaatan teknologi IT, agar warga Indonesia yang masih mampu tidak perlu melepas karir mereka dan bisa bekerja secara fleksibel. Kami menyediakan <i>software</i> untuk memonitor kerja-remote dan meningkatkan produktivitas, yang bernama <b>Dokodemo-Kerja</b>.<br/><br/>
-										Kami juga menawarkan <b>SugoiSaiyo</b>, sistem manajemen yang membantu aktivitas rekrutmen menjadi sederhana dan efisien, baik bagi tim HRD maupun bagi para pencari kerja. Juga <b>Nippo</b>, yang merupakan sistem managemen pelaporan harian untuk karyawan, agar dapat lebih mengelola projek serta waktu yang dihabiskan untuk mengerjakannya.
-									</div>
-									<div class="clearfix"></div>
-									<br/>
-									<div class="col-lg-offset-1 col-lg-10">
-										<div class="tab-content" id="tabnav">
-										  <div class="tab-pane in active">
-											<a href="/produk/dokodemo-kerja.php" target="_blank" style="color:#000!important">
-												<img src="/produk/img/dokodemo-kerja/dokodemo-logo.png" style="max-height: 95px;" class="img-responsive center-block"/><br/>
-												<h3><b>Dokodemo-Kerja</b></h3>
-												<p>Memonitor pekerjaan dan meningkatkan produktivitas karyawan, khususnya bagi mereka yang kerja-remote.</p>
-											</a>
-										  </div>
-										  <div class="tab-pane">
-											<a href="/produk/sugoi-saiyo.php" target="_blank" style="color:#000!important">
-												<img src="/produk/img/sugoi-saiyo/logo.png" class="img-responsive center-block"/><br/>
-												<h3><b>SugoiSaiyo</b></h3>
-												<p>Sistem manajemen untuk menyederhanakan aktivitas rekrutmen bagi tim HRD dan para pencari kerja.</p>
-											</a>
-										  </div>
-										  <div class="tab-pane">
-											<a href="/produk/nippo.php" target="_blank" style="color:#000!important">
-												<img src="/produk/img/nippo/LogoNippo.png" class="img-responsive center-block"/><br/>
-												<h3><b>Nippo</b></h3>
-												<p>Mengelola laporan harian karyawan terkait daftar projek yang dikerjakan dan lama waktu yang dihabiskan.</p>
-											</a>
-										  </div>
-										  <div class="tab-pane">
-											<a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank" style="color:#000!important">
-												<h3 style="margin-bottom: 10px;"><b>Pembuatan Situs Rekrutmen Perusahaan</b></h3>
-												<p>Kami bisa membuat halaman rekrutmen perusahaan Anda.  Halaman ini dapat dihubungkan dengan sistem SugoiSaiyo.</p>
-											</a>
-										  </div>
+
+								<div class="item">
+									<h1 class="text-center title-index title-index2">
+										Kami Menyediakan Solusi HR-Tech di Indonesia
+									</h1>
+									<div class="row">
+										<div class="col-md-6">
+											<div class="row">
+												<div class="col-sm-6">
+													<div class="onhover">
+														<a href="/produk/dokodemo-kerja.php" target="_blank">
+															<img src="/img/dokodemo-index.png" class="center-block img-responsive"/>
+															<div class="div-explanation">
+																Memonitor pekerjaan dan meningkatkan produktivitas karyawan, khususnya bagi mereka yang kerja-remote.
+															</div>
+														</a>
+													</div>
+													<br/>
+												</div>
+												<div class="col-sm-6">
+													<div class="onhover">
+														<a href="/produk/sugoi-saiyo.php" target="_blank">
+															<img src="/img/sugoi-index.png" class="center-block img-responsive"/>
+															<div class="div-explanation">
+																Sistem manajemen untuk menyederhanakan aktivitas rekrutmen bagi tim HRD dan para pencari kerja. 
+															</div>
+														</a>
+													</div>
+													<br/>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col-sm-6">
+													<div class="onhover">
+														<a href="/produk/nippo.php" target="_blank">
+															<img src="/img/nippo-index.png" class="center-block img-responsive"/>
+															<div class="div-explanation">
+																Mengelola laporan harian karyawan terkait daftar projek yang dikerjakan dan lama waktu yang dihabiskan.
+															</div>
+														</a>
+													</div>
+													<br/>
+												</div>
+												<div class="col-sm-6">
+													<div class="onhover">
+														<a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank">
+															<img src="/img/hiring-index.png" class="center-block img-responsive"/>
+															<div class="div-explanation">
+																Kami bisa membuat halaman rekrutmen perusahaan Anda.  Halaman ini dapat dihubungkan dengan sistem SugoiSaiyo.
+															</div>
+														</a>
+													</div>
+													<br/>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<b>Kerja remote </b>| Kami mendukung masyarakat untuk kerja-remote dengan pemanfaatan teknologi IT, agar warga Indonesia yang masih mampu tidak perlu melepas karir mereka dan bisa bekerja secara fleksibel. Kami menyediakan software untuk memonitor kerja-remote dan meningkatkan produktivitas, yang bernama <b>Dokodemo-Kerja</b>.<br/><br/>
+											Kami juga menawarkan <b>SugoiSaiyo</b>, sistem manajemen yang membantu aktivitas rekrutmen menjadi sederhana dan efisien, baik bagi tim HRD maupun bagi para pencari kerja. Juga <b>Nippo</b>, yang merupakan sistem managemen pelaporan harian untuk karyawan, agar dapat lebih mengelola projek serta waktu yang dihabiskan untuk mengerjakannya.
 										</div>
 									</div>
-								</div>-->
+								</div>
+								
+							  </div>
+							  
+							  <a class="left carousel-control" href="#myCarousel2" data-slide="prev">
+								<span class="glyphicon glyphicon-chevron-left"></span>
+								<span class="sr-only">Previous</span>
+							  </a>
+							  <a class="right carousel-control" href="#myCarousel2" data-slide="next">
+								<span class="glyphicon glyphicon-chevron-right"></span>
+								<span class="sr-only">Next</span>
+							  </a>
 							</div>
 						</div>
 					</div>
@@ -203,103 +244,136 @@
 			<div class="bg-white-opacity"></div>
 			<div id="bgImg" style="height: auto;">
 				<div class="img">
+				
 					<div class="title-container hidden-xs">
-						<div class="text-center">
-							<h1 class="title-index">
-								Jasa Pembuatan <span class="yellow">Website</span> dan <span class="yellow">Web Sistem</span> <br>Berkualitas di Jakarta
-							</h1>
-							LOGIQUE memiliki pengalaman dan kualitas yang Anda perlukan dalam pengembangan sistem web untuk kebutuhan bisnis digital saat ini. Kami telah bekerjasama dengan banyak klien internasional untuk berbagai kebutuhan seperti E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS serta terbiasa membuat sistem web tersebut dengan standar internasional.  LOGIQUE juga  siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Pengalaman yang telah kami jalankan selama lebih dari 5 tahun serta kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
-							<!--<center>
-								<a href="services.php" class="btn btn-see-more">Lihat Layanan LOGIQUE <i class="fa fa-arrow-circle-o-right" ></i></a>
-							</center>-->
-							<div class="row">
-								<div class="col-lg-offset-1 col-lg-10">
+						<div id="myCarousel" class="carousel slide carousel-home-new" data-interval="false">
+						  <div class="carousel-inner">
+							<div class="item active">
+								<div class="text-center">
+									<h1 class="title-index">
+										Jasa Pembuatan <span class="yellow">Website</span> dan <span class="yellow">Web Sistem</span> <br>Berkualitas di Jakarta
+									</h1>
+									LOGIQUE memiliki pengalaman dan kualitas yang Anda perlukan dalam pengembangan sistem web untuk kebutuhan bisnis digital saat ini. Kami telah bekerjasama dengan banyak klien internasional untuk berbagai kebutuhan seperti E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS serta terbiasa membuat sistem web tersebut dengan standar internasional.  LOGIQUE juga  siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Pengalaman yang telah kami jalankan selama lebih dari 5 tahun serta kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
 									<div class="row">
-										<div class="col-md-3 col-sm-6">
-											<div class="div-service-cat">
-												<img src="img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
-												<h2>Jasa Pembuatan <br/><span>Website</span></h2>
-												<a href="layanan.php" class="btn">Baca Selengkapnya</a>
-											</div>
-										</div>
-										<div class="col-md-3 col-sm-6">
-											<div class="div-service-cat">
-												<img src="img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
-												<h2>Jasa Pembuatan <br/><span>Aplikasi</span></h2>
-												<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/" class="btn">Baca Selengkapnya</a>
-											</div>
-										</div>
-										<div class="col-md-3 col-sm-6">
-											<div class="div-service-cat">
-												<img src="img/jasa-promosi-online.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
-												<h2>Jasa Pembuatan<br/><span>Sistem Web</span></h2>
-												<a href="layanan.php" class="btn">Baca Selengkapnya</a>
-											</div>
-										</div>
-										<div class="col-md-3 col-sm-6">
-											<div class="div-service-cat">
-												<img src="img/jasa-seo.png" alt="Jasa VA Test" class="center-block img-responsive"/>
-												<div>Jasa <br/><span>VA Test</span></div>
-												<a target="_blank" href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
+										<div class="col-lg-offset-1 col-lg-10">
+											<div class="row">
+												<div class="col-md-3 col-sm-6">
+													<div class="div-service-cat">
+														<img src="img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
+														<h2>Jasa Pembuatan <br/><span>Website</span></h2>
+														<a href="layanan.php" class="btn">Baca Selengkapnya</a>
+													</div>
+												</div>
+												<div class="col-md-3 col-sm-6">
+													<div class="div-service-cat">
+														<img src="img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
+														<h2>Jasa Pembuatan <br/><span>Aplikasi</span></h2>
+														<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/" class="btn">Baca Selengkapnya</a>
+													</div>
+												</div>
+												<div class="col-md-3 col-sm-6">
+													<div class="div-service-cat">
+														<img src="img/jasa-promosi-online.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
+														<h2>Jasa Pembuatan<br/><span>Sistem Web</span></h2>
+														<a href="layanan.php" class="btn">Baca Selengkapnya</a>
+													</div>
+												</div>
+												<div class="col-md-3 col-sm-6">
+													<div class="div-service-cat">
+														<img src="img/jasa-seo.png" alt="Jasa VA Test" class="center-block img-responsive"/>
+														<div>Jasa <br/><span>VA Test</span></div>
+														<a target="_blank" href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
+													</div>
+												</div>
 											</div>
 										</div>
 									</div>
 								</div>
 							</div>
-							<!--<br/>
-							<div class="row">
-								<div class="col-lg-12">
-									<center><b class="font-24">Kami Menyediakan Solusi HR-Tech di Indonesia</b></center><br/>
-									<b>Kerja remote</b> | Kami mendukung masyarakat untuk kerja-remote dengan pemanfaatan teknologi IT, agar warga Indonesia yang masih mampu tidak perlu melepas karir mereka dan bisa bekerja secara fleksibel. Kami menyediakan <i>software</i> untuk memonitor kerja-remote dan meningkatkan produktivitas, yang bernama <b>Dokodemo-Kerja</b>.<br/><br/>
-									Kami juga menawarkan <b>SugoiSaiyo</b>, sistem manajemen yang membantu aktivitas rekrutmen menjadi sederhana dan efisien, baik bagi tim HRD maupun bagi para pencari kerja. Juga <b>Nippo</b>, yang merupakan sistem managemen pelaporan harian untuk karyawan, agar dapat lebih mengelola projek serta waktu yang dihabiskan untuk mengerjakannya.
-								</div>
-								<div class="clearfix"></div>
-								<br/>
-								<div class="col-lg-offset-1 col-lg-10">
-									<ul class="nav nav-tabs" id="indexnav">
-									  <li class="active">
-										<a data-toggle="tab" href="#dokodemo" onclick="window.open('/produk/dokodemo-kerja.php', '_blank');" style="padding: 43px 0;">
-											<img src="/produk/img/dokodemo-kerja/dokodemo-logo.png" style="max-height: 75px;" class="img-responsive center-block"/>
-										</a>
-									  </li>
-									  <li>
-										<a data-toggle="tab" href="#sugoi" onclick="window.open('/produk/sugoi-saiyo.php', '_blank');">
-											<img src="/produk/img/sugoi-saiyo/logo.png" class="img-responsive center-block"/>
-										</a>
-									  </li>
-									  <li>
-										<a data-toggle="tab" href="#nippo" onclick="window.open('/produk/nippo.php', '_blank');">
-											<img src="/produk/img/nippo/LogoNippo.png" class="img-responsive center-block"/>
-										</a>
-									  </li>
-									  <li>
-										<a data-toggle="tab" href="#hiring" onclick="window.open('/layanan/pembuatan-website-karir-perusahaan/', '_blank');" style="font-size: 16px;">
-											<div class="div-hiring-site">Pembuatan situs <br/>rekrutmen perusahaan<br/><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></div>
-										</a>
-									  </li>
-									</ul>
-									<div class="tab-content" id="tabnav">
-									  <div id="dokodemo" class="tab-pane in active">
-										<h3><b>Dokodemo-Kerja</b></h3>
-										<p>Memonitor pekerjaan dan meningkatkan produktivitas karyawan, khususnya bagi mereka yang kerja-remote.</p>
-									  </div>
-									  <div id="sugoi" class="tab-pane">
-										<h3><b>SugoiSaiyo</b></h3>
-										<p>Sistem manajemen untuk menyederhanakan aktivitas rekrutmen bagi tim HRD dan para pencari kerja.</p>
-									  </div>
-									  <div id="nippo" class="tab-pane">
-										<h3><b>Nippo</b></h3>
-										<p>Mengelola laporan harian karyawan terkait daftar projek yang dikerjakan dan lama waktu yang dihabiskan.</p>
-									  </div>
-									  <div id="hiring" class="tab-pane">
-										<h3><b>Pembuatan Situs Rekrutmen Perusahaan</b></h3>
-										<p>Kami bisa membuat halaman rekrutmen perusahaan Anda.  Halaman ini dapat dihubungkan dengan sistem SugoiSaiyo.</p>
-									  </div>
+
+							<div class="item">
+								<h1 class="text-center title-index title-index2">
+									Kami Menyediakan Solusi <span class="yellow">HR-Tech</span> di Indonesia
+								</h1>
+								<div class="row">
+									<div class="col-md-6">
+										<div class="row">
+											<div class="col-sm-6">
+												<div class="onhover">
+													<a href="/produk/dokodemo-kerja.php" target="_blank">
+														<img src="/img/dokodemo-index.png" class="center-block img-responsive"/>
+														<div class="div-explanation">
+															<div class="valign-center">
+																Memonitor pekerjaan dan meningkatkan produktivitas karyawan, khususnya bagi mereka yang kerja-remote.
+															</div>
+														</div>
+													</a>
+												</div>
+												<br/>
+											</div>
+											<div class="col-sm-6">
+												<div class="onhover">
+													<a href="/produk/sugoi-saiyo.php" target="_blank">
+														<img src="/img/sugoi-index.png" class="center-block img-responsive"/>
+														<div class="div-explanation">
+															<div class="valign-center">
+																Sistem manajemen untuk menyederhanakan aktivitas rekrutmen bagi tim HRD dan para pencari kerja. 
+															</div>
+														</div>
+													</a>
+												</div>
+												<br/>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-sm-6">
+												<div class="onhover">
+													<a href="/produk/nippo.php" target="_blank">
+														<img src="/img/nippo-index.png" class="center-block img-responsive"/>
+														<div class="div-explanation">
+															<div class="valign-center">
+																Mengelola laporan harian karyawan terkait daftar projek yang dikerjakan dan lama waktu yang dihabiskan.
+															</div>
+														</div>
+													</a>
+												</div>
+												<br/>
+											</div>
+											<div class="col-sm-6">
+												<div class="onhover">
+													<a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank">
+														<img src="/img/hiring-index.png" class="center-block img-responsive"/>
+														<div class="div-explanation">
+															<div class="valign-center">
+																Kami bisa membuat halaman rekrutmen perusahaan Anda.  Halaman ini dapat dihubungkan dengan sistem SugoiSaiyo.
+															</div>
+														</div>
+													</a>
+												</div>
+												<br/>
+											</div>
+										</div>
+									</div>
+									<div class="col-md-6">
+										<b>Kerja remote </b>| Kami mendukung masyarakat untuk kerja-remote dengan pemanfaatan teknologi IT, agar warga Indonesia yang masih mampu tidak perlu melepas karir mereka dan bisa bekerja secara fleksibel. Kami menyediakan software untuk memonitor kerja-remote dan meningkatkan produktivitas, yang bernama <b>Dokodemo-Kerja</b>.<br/><br/>
+										Kami juga menawarkan <b>SugoiSaiyo</b>, sistem manajemen yang membantu aktivitas rekrutmen menjadi sederhana dan efisien, baik bagi tim HRD maupun bagi para pencari kerja. Juga <b>Nippo</b>, yang merupakan sistem managemen pelaporan harian untuk karyawan, agar dapat lebih mengelola projek serta waktu yang dihabiskan untuk mengerjakannya.
 									</div>
 								</div>
-							</div>-->
+							</div>
+							
+						  </div>
+						  
+						  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+							<span class="glyphicon glyphicon-chevron-left"></span>
+							<span class="sr-only">Previous</span>
+						  </a>
+						  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+							<span class="glyphicon glyphicon-chevron-right"></span>
+							<span class="sr-only">Next</span>
+						  </a>
 						</div>
 					</div>
+					
 				</div>
 			</div>
 			
