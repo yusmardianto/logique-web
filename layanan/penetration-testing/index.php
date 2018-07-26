@@ -38,6 +38,11 @@
 			<div class="row">
 				<div class="col-md-12">
 					<a href="https://www.logique.co.id"><img class="img-responsive logo" src="img/logo.png" alt="Logique"/></a>
+					<div class="div-lang">
+						<a class="active" href="#">IND</a>
+						<a href="/en/services/penetration-testing/">ENG</a>
+						<a href="/jp/services/penetration-testing/">JPN</a>
+					</div>
 					<img class="img-responsive center-block top-banner" src="img/top-banner.png" alt="Top Banner"/>
 					<div class="what-is">
 						<span class="apakah">Apakah</span><br/>
@@ -302,9 +307,14 @@
 	<div class="footer">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-offset-3 col-md-6">
+				<div class="col-lg-offset-3 col-lg-6">
 					Untuk informasi lengkapnya, Anda dapat menghubungi <b>Logique Digital Indonesia</b> melalui email di <a href="mailto:info@logique.co.id">info@logique.co.id</a> atau mendaftar melalui form yang ada di link berikut ini <br/><br/>
 					<a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
+					<br/>
+					Layanan Kami lainnya:<br/>
+					<a target="_blank" href="/layanan/pembuatan-website-karir-perusahaan/">Pembuatan Website Karir Perusahaan</a>
+					<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
+					<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/">Pembuatan Aplikasi Mobile</a>
 				</div>
 			</div>
 		</div>

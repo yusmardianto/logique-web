@@ -37,6 +37,11 @@
 			<div class="row">
 				<div class="col-md-12">
 					<a href="https://www.logique.co.id"><img class="img-responsive logo" src="img/logo.png" alt="Logique"/></a>
+					<div class="div-lang">
+						<a href="/layanan/penetration-testing/">IND</a>
+						<a href="/en/services/penetration-testing/">ENG</a>
+						<a class="active" href="#">JPN</a>
+					</div>
 					<img class="img-responsive center-block top-banner" src="img/top-banner.png" alt="Top Banner"/>
 					<div class="what-is">
 						<div class="title">Webサイトのセキュリティ診断サービス｜WEB脆弱性診断</div>
@@ -308,6 +313,11 @@
 				<div class="col-md-offset-3 col-md-6">
 					WEBサイトセキュリティ診断サービスに関する、診断内容、レポート項目、費用、期間など詳細に関してはお気軽に日本語でお問い合わせいただければ幸いです。こちらまで(info<img src="img/at.png"/>logique.co.id）メールお送りいただくか<a href="/jp/contact.php">こちら</a>から問い合わせ送信いただきますようお願いいたします。<br/><br/>
 					<a href="/jp/contact.php" target="_blank"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
+					<br/>
+					Our other services:<br/>
+					<a target="_blank" href="/jp/services/pembuatan-website-karir-perusahaan/">採用サイト制作</a>
+					<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
+					<a target="_blank" href="/jp/services/pembuatan-aplikasi-mobile/">モバイルアプリケーション制作 </a>
 				</div>
 			</div>
 		</div>

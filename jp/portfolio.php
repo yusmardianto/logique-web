@@ -598,6 +598,54 @@
 							    </div>
 							  </div>
 							</div>
+							<li>
+								デジタルマップシステム開発.<br>
+								<small class="text-muted">3 months, PHP Framework, MySQL, Google map API, Java Script | <a data-toggle="modal" data-target="#pop10" href="#">See More</a></small>
+							</li>
+							<!-- modal 10 -->
+							<div id="pop10" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>デジタルマップシステム開発.</h4><hr>
+							        <p>デジタルマップを開発。ASEANの9カ国の地図上に各地でのインフラ開発プロジェクトをマッピング、検索やフィルターをかけて地図上でプロジェクト状況を確認できるようにした。Google mapを活用。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								C2C自動車オークションシステム開発.<br>
+								<small class="text-muted">2 months, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 | <a data-toggle="modal" data-target="#pop11" href="#">See More</a></small>
+							</li>
+							<!-- modal 11 -->
+							<div id="pop11" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>C2C自動車オークションシステム開発.</h4><hr>
+							        <p>自動車のC2Cオークション事業を行うスタートアップのシステム・モバイルアプリを短期集中開発。Ajail型でスピード開発に成功。ロゴの制作から基幹システム構築までトータルにサポート。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								公共団体向けセキュアなCMS開発.<br>
+								<small class="text-muted">2 months, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop12" href="#">See More</a></small>
+							</li>
+							<!-- modal 12 -->
+							<div id="pop12" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>公共団体向けセキュアなCMS開発.</h4><hr>
+							        <p>公共団体向けにセキュアなCMSの構築。インドネシアの公共団体がセキュアなCMSを構築する必要があった。管理ユーザー数が多いため、ユーザー管理や権限管理に工夫を凝らし、セキュリティ脆弱性を潰したシステムを構築した。再構築前はWordpress上で動いていたが、Laravelフレームワークを使いスクラッチ開発を行った。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
 						</ul>
 						<br>
 						<span class="characteristic-title">その他</span>
