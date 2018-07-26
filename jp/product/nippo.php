@@ -440,7 +440,7 @@ if(isset($_POST['submitted']))
   <div class="container">
   <div class="row text-center" style="margin: 0;padding-top: 1em">
     <div class="col-md-12">
-      <img src="img/nippo/logo-Logique.png" class="FA-Logique">
+      <a href="https://www.logique.co.id/jp/" target="_blank"><img src="img/nippo/logo-Logique.png" class="FA-Logique"></a>
     </div>
   </div>
   </div>
