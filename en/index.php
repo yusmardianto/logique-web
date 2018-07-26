@@ -113,88 +113,124 @@
 					<div class="col-sm-12">
 						<div class="title-container visible-xs">
 						<br/><br/>
-							<div class="text-center">
-								<p class="title-index">
-									LOGIQUE, the best <span class="yellow">Web Developer / IT Consultant Firm</span> in Jakarta, <br/>gets you conversion and growth
-								</p>
-								LOGIQUE is a full-service Digital agency, WEB designer, System developer and IT consulting firm, located in Jakarta, founded by Japanese, helping our clients drive conversion and growth, via fully scalable, seamlessly integrated website / web system / mobile application or Digital marketing solution.
-								<br/><br/>
-								<div class="row">
-									<div class="col-lg-offset-1 col-lg-10">
+							
+							<div id="myCarousel2" class="carousel slide carousel-home-new" data-interval="false">
+							  <div class="carousel-inner">
+								<div class="item active">
+									<div class="text-center">
+										<h1 class="title-index" style="font-size: 45px;">
+											LOGIQUE, the best <span class="yellow">Web Developer<br/> / IT Consultant Firm</span> in Jakarta, <br/>gets you conversion and growth
+										</h1>
+										LOGIQUE is a full-service Digital agency, WEB designer, System developer and IT consulting firm, located in Jakarta, founded by Japanese, helping our clients drive conversion and growth, via fully scalable, seamlessly integrated website / web system / mobile application or Digital marketing solution.<br/><br/>
 										<div class="row">
-											<div class="col-md-3 col-sm-6">
-												<div class="div-service-cat">
-													<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
-													<h2>Jasa Pembuatan <br/><span>Website</span></h2>
-													<a href="services.php" class="btn">Baca Selengkapnya</a>
-												</div>
-											</div>
-											<div class="col-md-3 col-sm-6">
-												<div class="div-service-cat">
-													<img src="/img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
-													<h2>Jasa Pembuatan <br/><span>Aplikasi</span></h2>
-													<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/" class="btn">Baca Selengkapnya</a>
-												</div>
-											</div>
-											<div class="col-md-3 col-sm-6">
-												<div class="div-service-cat">
-													<img src="/img/jasa-promosi-online.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
-													<h2>Jasa Pembuatan<br/><span>Sistem Web</span></h2>
-													<a href="services.php" class="btn">Baca Selengkapnya</a>
-												</div>
-											</div>
-											<div class="col-md-3 col-sm-6">
-												<div class="div-service-cat">
-													<img src="/img/jasa-seo.png" alt="Jasa VA Test" class="center-block img-responsive"/>
-													<div>Jasa <br/><span>VA Test</span></div>
-													<a target="_blank" href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
+											<div class="col-lg-offset-1 col-lg-10">
+												<div class="row">
+													<div class="col-md-3 col-sm-6">
+														<div class="div-service-cat">
+															<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
+															<h2>Website <br/><span>Creation</span></h2>
+															<a href="services.php" class="btn">See Detail</a>
+														</div>
+													</div>
+													<div class="col-md-3 col-sm-6">
+														<div class="div-service-cat">
+															<img src="/img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
+															<h2>Mobile <br/><span>Solution</span></h2>
+															<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/" class="btn">See Detail</a>
+														</div>
+													</div>
+													<div class="col-md-3 col-sm-6">
+														<div class="div-service-cat">
+															<img src="/img/jasa-promosi-online.png" alt="Web System Development" class="center-block img-responsive"/>
+															<h2>Web System<br/><span>Development</span></h2>
+															<a href="services.php" class="btn">See Detail</a>
+														</div>
+													</div>
+													<div class="col-md-3 col-sm-6">
+														<div class="div-service-cat">
+															<img src="/img/jasa-seo.png" alt="WEB Security Assessment" class="center-block img-responsive"/>
+															<div>WEB Security<br/><span>Assessment</span></div>
+															<a target="_blank" href="/en/services/penetration-testing/" class="btn">See Detail</a>
+														</div>
+													</div>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
-								<!--<br/>
-								<div class="row">
-									<div class="col-md-12 text-left">
-										<center><b class="font-24">We Provide HR-Tech Solutions In Indonesia</b></center><br/>
-										<b>Remote work </b>| We support more people to remote-work through the use of IT so that Indonesians who are still capable don't need to give up their careers and can work flexibly. We provide remote working & productivity improvement tool called <b>Dokodemo-Kerja</b>.<br/>
-										As benefits for both recruitment companies and job seekers, we also offer <b>SugoiSaiyo</b>, a recruitment management tool for smooth and efficient recruitment activities that eliminates waste of job seeking/recruiting processes with the power of IT. <b>Nippo </b>is also provided with a daily report management system for aggregating data available for management accounting while managing the daily work situation and contents of staff. Feel free to contact us for any inquiries.
-									</div>
-									<div class="clearfix"></div>
-									<br/>
-									<div class="col-lg-offset-1 col-lg-10">
-										<div class="tab-content" id="tabnav">
-										  <div class="tab-pane in active">
-											<a href="/produk/dokodemo-kerja.php" target="_blank" style="color:#000!important">
-												<img src="/produk/img/dokodemo-kerja/dokodemo-logo.png" style="max-height: 95px;" class="img-responsive center-block"/><br/>
-												<h3><b>Dokodemo-Kerja</b></h3>
-												<p>Tools to monitor works and improve productivity of employees, especially those who remote-work.</p>
-											</a>
-										  </div>
-										  <div class="tab-pane">
-											<a href="/produk/sugoi-saiyo.php" target="_blank" style="color:#000!important">
-												<img src="/produk/img/sugoi-saiyo/logo.png" class="img-responsive center-block"/><br/>
-												<h3><b>SugoiSaiyo</b></h3>
-												<p>Recruitment management system for efficient and reasonable recruitment activities, incorporating interview through WhatsApp, and so on.</p>
-											</a>
-										  </div>
-										  <div class="tab-pane">
-											<a href="/produk/nippo.php" target="_blank" style="color:#000!important">
-												<img src="/produk/img/nippo/LogoNippo.png" class="img-responsive center-block"/><br/>
-												<h3><b>Nippo</b></h3>
-												<p>A new daily report management system that manages staff's day-to-day activities and produces internal communication.</p>
-											</a>
-										  </div>
-										  <div class="tab-pane">
-											<a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank" style="color:#000!important">
-												<h3><b>Hiring site production service</b></h3>
-												<p>We create a hiring page for your company. It is effective in relation to SugoiSaiyo.</p>
-											</a>
-										  </div>
+
+								<div class="item">
+									<h1 class="text-center title-index title-index2">
+										We Provide <span class="yellow">HR-Tech</span> Solutions In Indonesia
+									</h1>
+									<div class="row">
+										<div class="col-md-6">
+											<div class="row">
+												<div class="col-sm-6">
+													<div class="onhover">
+														<a href="/produk/dokodemo-kerja.php" target="_blank">
+															<img src="/img/dokodemo-index.png" class="center-block img-responsive"/>
+															<div class="div-explanation">
+																Tools to monitor works and improve productivity of employees, especially those who remote-work.
+															</div>
+														</a>
+													</div>
+													<br/>
+												</div>
+												<div class="col-sm-6">
+													<div class="onhover">
+														<a href="/en/product/sugoi-saiyo.php" target="_blank">
+															<img src="/img/sugoi-index.png" class="center-block img-responsive"/>
+															<div class="div-explanation">
+																Recruitment management system for efficient and reasonable recruitment activities, incorporating interview through WhatsApp, and so on.
+															</div>
+														</a>
+													</div>
+													<br/>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col-sm-6">
+													<div class="onhover">
+														<a href="/en/product/nippo.php" target="_blank">
+															<img src="/img/nippo-index.png" class="center-block img-responsive"/>
+															<div class="div-explanation">
+																A new daily report management system that manages staff's day-to-day activities and produces internal communication.
+															</div>
+														</a>
+													</div>
+													<br/>
+												</div>
+												<div class="col-sm-6">
+													<div class="onhover">
+														<a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank">
+															<img src="/img/hiring-index.png" class="center-block img-responsive"/>
+															<div class="div-explanation">
+																Job search site · We create a hiring page for your company. It is effective in relation to SugoiSaiyo.
+															</div>
+														</a>
+													</div>
+													<br/>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<b>Remote work </b>| We support more people to remote-work through the use of IT so that Indonesians who are still capable don't need to give up their careers and can work flexibly. We provide remote working & productivity improvement tool called <b>Dokodemo-Kerja</b>.<br/><br/>
+											As benefits for both recruitment companies and job seekers, we also offer <b>SugoiSaiyo</b>, a recruitment management tool for smooth and efficient recruitment activities that eliminates waste of job seeking/recruiting processes with the power of IT. <b>Nippo</b> is also provided with a daily report management system for aggregating data available for management accounting while managing the daily work situation and contents of staff. Feel free to contact us for any inquiries.
 										</div>
 									</div>
-								</div>-->
+								</div>
+							  </div>
+							  <a class="left carousel-control" href="#myCarousel2" data-slide="prev">
+								<span class="glyphicon glyphicon-chevron-left"></span>
+								<span class="sr-only">Previous</span>
+							  </a>
+							  <a class="right carousel-control" href="#myCarousel2" data-slide="next">
+								<span class="glyphicon glyphicon-chevron-right"></span>
+								<span class="sr-only">Next</span>
+							  </a>
 							</div>
+							
 						</div>
 					</div>
 				</div>
@@ -208,102 +244,136 @@
 			<div class="bg-white-opacity"></div>
 			<div id="bgImg" style="height: auto;">
 				<div class="img">
+				
 					<div class="title-container hidden-xs">
-						<div class="text-center">
-							<p style="font-size: 30px;margin-bottom: 15px;">Looking for Web app developer in Indonesia?</p>
-							<h1 class="title-index" style="font-size: 45px;">
-								LOGIQUE, the best <span class="yellow">Web Developer<br/> / IT Consultant Firm</span> in Jakarta, <br/>gets you conversion and growth
-							</h1>
-							LOGIQUE is a full-service Digital agency, WEB designer, System developer and IT consulting firm, located in Jakarta, founded by Japanese, helping our clients drive conversion and growth, via fully scalable, seamlessly integrated website / web system / mobile application or Digital marketing solution.
-							<br/><br/>
-							<div class="row">
-								<div class="col-lg-offset-1 col-lg-10">
+					
+						<div id="myCarousel" class="carousel slide carousel-home-new" data-interval="false">
+						  <div class="carousel-inner">
+							<div class="item active">
+								<div class="text-center">
+									<h1 class="title-index" style="font-size: 45px;">
+										LOGIQUE, the best <span class="yellow">Web Developer<br/> / IT Consultant Firm</span> in Jakarta, <br/>gets you conversion and growth
+									</h1>
+									LOGIQUE is a full-service Digital agency, WEB designer, System developer and IT consulting firm, located in Jakarta, founded by Japanese, helping our clients drive conversion and growth, via fully scalable, seamlessly integrated website / web system / mobile application or Digital marketing solution.<br/><br/>
 									<div class="row">
-										<div class="col-md-3 col-sm-6">
-											<div class="div-service-cat">
-												<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
-												<h2>Website <br/><span>Creation</span></h2>
-												<a href="services.php" class="btn">Baca Selengkapnya</a>
-											</div>
-										</div>
-										<div class="col-md-3 col-sm-6">
-											<div class="div-service-cat">
-												<img src="/img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
-												<h2>Mobile <br/><span>Solution</span></h2>
-												<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/" class="btn">Baca Selengkapnya</a>
-											</div>
-										</div>
-										<div class="col-md-3 col-sm-6">
-											<div class="div-service-cat">
-												<img src="/img/jasa-promosi-online.png" alt="Web System Development" class="center-block img-responsive"/>
-												<h2>Web System<br/><span>Development</span></h2>
-												<a href="services.php" class="btn">Baca Selengkapnya</a>
-											</div>
-										</div>
-										<div class="col-md-3 col-sm-6">
-											<div class="div-service-cat">
-												<img src="/img/jasa-seo.png" alt="WEB Security Assessment" class="center-block img-responsive"/>
-												<div>WEB Security<br/><span>Assessment</span></div>
-												<a target="_blank" href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
+										<div class="col-lg-offset-1 col-lg-10">
+											<div class="row">
+												<div class="col-md-3 col-sm-6">
+													<div class="div-service-cat">
+														<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
+														<h2>Website <br/><span>Creation</span></h2>
+														<a href="services.php" class="btn">See Detail</a>
+													</div>
+												</div>
+												<div class="col-md-3 col-sm-6">
+													<div class="div-service-cat">
+														<img src="/img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
+														<h2>Mobile <br/><span>Solution</span></h2>
+														<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/" class="btn">See Detail</a>
+													</div>
+												</div>
+												<div class="col-md-3 col-sm-6">
+													<div class="div-service-cat">
+														<img src="/img/jasa-promosi-online.png" alt="Web System Development" class="center-block img-responsive"/>
+														<h2>Web System<br/><span>Development</span></h2>
+														<a href="services.php" class="btn">See Detail</a>
+													</div>
+												</div>
+												<div class="col-md-3 col-sm-6">
+													<div class="div-service-cat">
+														<img src="/img/jasa-seo.png" alt="WEB Security Assessment" class="center-block img-responsive"/>
+														<div>WEB Security<br/><span>Assessment</span></div>
+														<a target="_blank" href="/en/services/penetration-testing/" class="btn">See Detail</a>
+													</div>
+												</div>
 											</div>
 										</div>
 									</div>
 								</div>
 							</div>
-							<!--<br/>
-							<div class="row">
-								<div class="col-md-12">
-									<center><b class="font-24">We Provide HR-Tech Solutions In Indonesia</b></center><br/>
-									<b>Remote work </b>| We support more people to remote-work through the use of IT so that Indonesians who are still capable don't need to give up their careers and can work flexibly. We provide remote working & productivity improvement tool called <b>Dokodemo-Kerja</b>.<br/><br/>
-									As benefits for both recruitment companies and job seekers, we also offer <b>SugoiSaiyo</b>, a recruitment management tool for smooth and efficient recruitment activities that eliminates waste of job seeking/recruiting processes with the power of IT. <b>Nippo </b>is also provided with a daily report management system for aggregating data available for management accounting while managing the daily work situation and contents of staff. Feel free to contact us for any inquiries.
-								</div>
-								<div class="clearfix"></div>
-								<br/>
-								<div class="col-lg-offset-1 col-lg-10">
-									<ul class="nav nav-tabs" id="indexnav">
-									  <li class="active">
-										<a data-toggle="tab" href="#dokodemo" onclick="window.open('/produk/dokodemo-kerja.php', '_blank');" style="padding: 43px 0;">
-											<img src="/produk/img/dokodemo-kerja/dokodemo-logo.png" style="max-height: 75px;" class="img-responsive center-block"/>
-										</a>
-									  </li>
-									  <li>
-										<a data-toggle="tab" href="#sugoi" onclick="window.open('/produk/sugoi-saiyo.php', '_blank');">
-											<img src="/produk/img/sugoi-saiyo/logo.png" class="img-responsive center-block"/>
-										</a>
-									  </li>
-									  <li>
-										<a data-toggle="tab" href="#nippo" onclick="window.open('/produk/nippo.php', '_blank');">
-											<img src="/produk/img/nippo/LogoNippo.png" class="img-responsive center-block"/>
-										</a>
-									  </li>
-									  <li>
-										<a data-toggle="tab" href="#hiring" onclick="window.open('/en/services/pembuatan-website-karir-perusahaan/', '_blank');">
-											<div class="div-hiring-site">Hiring Site <br/>Production Service<br/><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></div>
-										</a>
-									  </li>
-									</ul>
-									<div class="tab-content" id="tabnav">
-									  <div id="dokodemo" class="tab-pane in active">
-										<h3><b>Dokodemo-Kerja</b></h3>
-										<p>Tools to monitor works and improve productivity of employees, especially those who remote-work.</p>
-									  </div>
-									  <div id="sugoi" class="tab-pane">
-										<h3><b>SugoiSaiyo</b></h3>
-										<p>Recruitment management system for efficient and reasonable recruitment activities, incorporating interview through WhatsApp, and so on.</p>
-									  </div>
-									  <div id="nippo" class="tab-pane">
-										<h3><b>Nippo</b></h3>
-										<p>A new daily report management system that manages staff's day-to-day activities and produces internal communication.</p>
-									  </div>
-									  <div id="hiring" class="tab-pane">
-										<h3><b>Hiring site production service</b></h3>
-										<p>We create a hiring page for your company. It is effective in relation to SugoiSaiyo.</p>
-									  </div>
+
+							<div class="item">
+								<h1 class="text-center title-index title-index2">
+									We Provide <span class="yellow">HR-Tech</span> Solutions In Indonesia
+								</h1>
+								<div class="row">
+									<div class="col-md-6">
+										<div class="row">
+											<div class="col-sm-6">
+												<div class="onhover">
+													<a href="/produk/dokodemo-kerja.php" target="_blank">
+														<img src="/img/dokodemo-index.png" class="center-block img-responsive"/>
+														<div class="div-explanation">
+															<div class="valign-center">
+																Tools to monitor works and improve productivity of employees, especially those who remote-work.
+															</div>
+														</div>
+													</a>
+												</div>
+												<br/>
+											</div>
+											<div class="col-sm-6">
+												<div class="onhover">
+													<a href="/en/product/sugoi-saiyo.php" target="_blank">
+														<img src="/img/sugoi-index.png" class="center-block img-responsive"/>
+														<div class="div-explanation">
+															<div class="valign-center">
+																Recruitment management system for efficient and reasonable recruitment activities, incorporating interview through WhatsApp, and so on.
+															</div>
+														</div>
+													</a>
+												</div>
+												<br/>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-sm-6">
+												<div class="onhover">
+													<a href="/en/product/nippo.php" target="_blank">
+														<img src="/img/nippo-index.png" class="center-block img-responsive"/>
+														<div class="div-explanation">
+															<div class="valign-center">
+																A new daily report management system that manages staff's day-to-day activities and produces internal communication.
+															</div>
+														</div>
+													</a>
+												</div>
+												<br/>
+											</div>
+											<div class="col-sm-6">
+												<div class="onhover">
+													<a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank">
+														<img src="/img/hiring-index.png" class="center-block img-responsive"/>
+														<div class="div-explanation">
+															<div class="valign-center">
+																Job search site · We create a hiring page for your company. It is effective in relation to SugoiSaiyo.
+															</div>
+														</div>
+													</a>
+												</div>
+												<br/>
+											</div>
+										</div>
+									</div>
+									<div class="col-md-6">
+										<b>Remote work </b>| We support more people to remote-work through the use of IT so that Indonesians who are still capable don't need to give up their careers and can work flexibly. We provide remote working & productivity improvement tool called <b>Dokodemo-Kerja</b>.<br/><br/>
+										As benefits for both recruitment companies and job seekers, we also offer <b>SugoiSaiyo</b>, a recruitment management tool for smooth and efficient recruitment activities that eliminates waste of job seeking/recruiting processes with the power of IT. <b>Nippo</b> is also provided with a daily report management system for aggregating data available for management accounting while managing the daily work situation and contents of staff. Feel free to contact us for any inquiries.
 									</div>
 								</div>
-							</div>-->
+							</div>
+						  </div>
+						  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+							<span class="glyphicon glyphicon-chevron-left"></span>
+							<span class="sr-only">Previous</span>
+						  </a>
+						  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+							<span class="glyphicon glyphicon-chevron-right"></span>
+							<span class="sr-only">Next</span>
+						  </a>
 						</div>
+						
 					</div>
+					
 				</div>
 			</div>
 			
