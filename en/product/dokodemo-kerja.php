@@ -75,7 +75,7 @@ if(isset($_POST['submitted']))
 					</a>
 					<div class="pull-left visible-xs">
 						<ul class="nav-lang">
-							<li class="pull-left">IND</li>
+							<li class="pull-left"><a href="/produk/dokodemo-kerja.php">IND</a></li>
 							<li class="pull-left active">ENG</li>
 							<li class="pull-left"><a href="/jp/product/dokodemo-kerja.php">JPN</a></li>
 						</ul>
@@ -83,10 +83,10 @@ if(isset($_POST['submitted']))
 				  </div>
 				  <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
 					<ul class="nav navbar-nav">
-					  <li><a href="#introduction" class="smooth">Perkenalan</a></li>
+					  <li><a href="#introduction" class="smooth">Home</a></li>
 					  <li><a href="#about" class="smooth">About Dokodemo-Kerja</a></li>
 					  <li><a href="#fitur" class="smooth">Features</a></li>　
-					  <li><a href="#benefits" class="smooth li-mt">Keuntungan</a></li>　
+					  <li><a href="#benefits" class="smooth li-mt">Profit</a></li>　
 					  <li><a href="#price" class="smooth li-mt">Price</a></li>　
 					  <li><a href="#divForm" class="smooth li-mt">Contact Me</a></li>
 					</ul>

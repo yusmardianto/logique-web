@@ -76,7 +76,7 @@ if(isset($_POST['submitted']))
 					<div class="pull-left visible-xs">
 						<ul class="nav-lang">
 							<li class="pull-left active">IND</li>
-							<li class="pull-left"><a href="#">ENG</a></li>
+							<li class="pull-left"><a href="/en/product/dokodemo-kerja.php">ENG</a></li>
 							<li class="pull-left"><a href="/jp/product/dokodemo-kerja.php">JPN</a></li>
 						</ul>
 					</div>
@@ -94,7 +94,7 @@ if(isset($_POST['submitted']))
 					<div class="pull-right hidden-xs">
 						<ul class="nav-lang">
 							<li class="pull-left active">IND</li>
-							<li class="pull-left"><a href="#">ENG</a></li>
+							<li class="pull-left"><a href="/en/product/dokodemo-kerja.php">ENG</a></li>
 							<li class="pull-left"><a href="/jp/product/dokodemo-kerja.php">JPN</a></li>
 						</ul>
 					</div>
