@@ -14,6 +14,7 @@
 	<meta property="og:url" content="https://www.logique.co.id/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Jasa pembuatan website dan SEO berkualitas di Jakarta, konsultasikan kebutuhan digital Anda melalui LOGIQUE, Web Developer asal Jepang no. 1 di Indonesia.">
+	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -40,8 +40,8 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Dokodemo-Kerja adalah solusi terbaik untuk para pekerja professional dengan waktu yang fleksibel dan independen, sehingga membuat perusahaan dan karyawan menjadi senang.">
-	<meta name="keywords" content="">
+    <meta name="description" content="Dokodemo-Kerja is a system tool for managing remote-work and increasing staffs’ productivity with independent and flexible working in Indonesia. The cloud system LOGIQUE developed can change Indonesian working situation dramatically.">
+	<meta name="keywords" content="productivity, increase productivity, time tracker, productivity measurement, remote work, work from home, remote jobs, flexible working, dokodemo kerja, logique digital indonesia">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Dokodemo-Kerja | Logique Digital Indonesia</title>
