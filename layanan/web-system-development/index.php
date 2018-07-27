@@ -40,8 +40,8 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Sugoi Saiyo adalah sistem rekrutmen yang membantu proses rekrutmen menjadi mudah dan terkelola, baik bagi HR maupun kandidat.">
-	<meta name="keywords" content="lowongan kerja, rekrutmen, seleksi sdm, hr tools, proses rekrutmen, perekrutan, metode rekrutmen, rekrutmen online, rekrutmen pegawai, logique digital Indonesia, sugoi saiyo">
+    <meta name="description" content="">
+	<meta name="keywords" content="">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Mekanisme Pembuatan Website Di Logique</title>
