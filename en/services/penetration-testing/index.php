@@ -38,6 +38,11 @@
 			<div class="row">
 				<div class="col-md-12">
 					<a href="https://www.logique.co.id"><img class="img-responsive logo" src="img/logo.png" alt="Logique"/></a>
+					<div class="div-lang">
+						<a href="/layanan/penetration-testing/">IND</a>
+						<a class="active" href="#">ENG</a>
+						<a href="/jp/services/penetration-testing/">JPN</a>
+					</div>
 					<img class="img-responsive center-block top-banner" src="img/top-banner.png" alt="Top Banner"/>
 					<div class="what-is">
 						<div class="title">Website security assessment service | WEB vulnerability assessment</div>
@@ -302,6 +307,11 @@
 					Please send us an e-mail to <a href="mailto:info@logique.co.id">info@logique.co.id</a> or send an inquiry from <a href="https://www.logique.co.id/en/contact.php" target="_blank">here</a>. We would be happy to help you.
 					<br/><br/>
 					<a href="https://www.logique.co.id/en/contact.php" target="_blank"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
+					<br/>
+					Our other services:<br/>
+					<a target="_blank" href="/en/services/pembuatan-website-karir-perusahaan/">Recruitment Website Creation</a>
+					<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
+					<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/">Mobile Application Development</a>
 				</div>
 			</div>
 		</div>

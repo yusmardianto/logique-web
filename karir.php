@@ -120,6 +120,11 @@
 						<p class="paragraph-karir">
 							Kami membuka peluang bagi web developer, php programmer, web designer, technical consultant, dan content writer yang berada di area Jakarta ataupun kota lainnya (dengan sistem kerja remote) untuk mengambil bagian dalam perkembangan Logique dan bekerja bersama tim terbaik kami. Variasi tantangan dalam setiap proyek serta lingkungan kerja yang nyaman dan efektif akan mengasah dan meningkatkan kemampuan Anda ke level berikutnya. Selain itu, Anda juga memiliki peluang peningkatan karir yang besar dengan menunjukkan kemampuan Anda, menjadi yang terbaik diantara yang terbaik.
 						</p>
+						<div class="text-center">
+							<a href="career/" target="_blank" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Gabung-dengan-Kami-1', 'Action-Click', 'Button-Gabung-dengan-Kami-1-Label');">
+								Gabung Dengan Kami
+							</a>
+						</div>
 					</div>
 					<div class="karir-new-img">
 						<div class="title">Orang-orang terbaik yang kami cari memiliki:</div>
@@ -174,22 +179,20 @@
 						</div>
 						
 					</div>
-					<div class="got-project" style="border-bottom:10px solid #000">
-						<span>Ayo bergabung dan bekerja bersama di LOGIQUE.</span><br/>
-						<div class="text-center">
-							<a href="career/" target="_blank" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Gabung-dengan-Kami-1', 'Action-Click', 'Button-Gabung-dengan-Kami-1-Label');">
-								Gabung Dengan Kami
-							</a>
-						</div>
-						<br/>						
-						<div class="text-center">Cek informasi lebih lanjut disini:</div><br/>
+					
+					<a href="career/" target="_blank" onclick="ga('send', 'event', 'Button-Gabung-dengan-Kami-1', 'Action-Click', 'Button-Gabung-dengan-Kami-1-Label');">
+					<img src="/img/career-tambahan.jpg" style="width:100%"/>
+					</a>
+					<div style="margin-top: -100px;margin-bottom: 32px;">
+						<div class="text-center" style="font-size: 16px;font-weight: bold;">Cek informasi lebih lanjut disini:</div><br/>
 						<ul class="link-career list-inline">
-							<li><a href="career/" target="_blank" >Mengenal Logique</a></li>|
-							<li><a href="career/#benefits" target="_blank">Keuntungan Bekerja di Logique</a></li>|
-							<li><a href="career/#to-candidates" target="_blank">Pesan untuk Kandidat</a></li>|
+							<li><a href="career/" target="_blank" >Mengenal Logique</a></li>
+							<li><a href="career/#benefits" target="_blank">Keuntungan Bekerja di Logique</a></li>
+							<li><a href="career/#to-candidates" target="_blank">Pesan untuk Kandidat</a></li>
 							<li><a href="career/#job-opening" target="_blank">Lowongan Kerja</a></li>
 						</ul>
 					</div>
+					
 					<!--<div class="form-container">
 						<p>
 						<br/>
@@ -676,6 +679,14 @@
 								<div class="answer">Kami akan sangat mengapresiasi jika dapat melakukan transfer uang ke mata uang Rupiah. Tapi jika Anda tidak mempunyai rekening bank di Indonesia, Kami juga dapat melakukan pengiriman uang secara internasional setelah mengubah uang Rupiah menjadi mata uang Anda. </div>
 							</div>-->
 						</div>
+					</div>
+				</div>
+				<div class="got-project">
+					<span>Ayo bergabung dan bekerja bersama di LOGIQUE.</span><br/>
+					<div class="text-center">
+						<a href="career/" target="_blank" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Gabung-dengan-Kami-1', 'Action-Click', 'Button-Gabung-dengan-Kami-1-Label');">
+							Gabung Dengan Kami
+						</a>
 					</div>
 				</div>
 

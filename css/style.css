@@ -998,10 +998,11 @@ video {
 }
 
 .link-career a {
-    color: #555;
+    color: #000;
     background: #fff;
-    padding: 4px 10px;
-    border-radius: 6px
+    padding: 4px 12px;
+    border-radius: 0;
+    font-weight: bold;
 }
 
 .link-career a:hover {

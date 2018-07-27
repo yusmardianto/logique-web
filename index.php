@@ -14,6 +14,7 @@
 	<meta property="og:url" content="https://www.logique.co.id/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Jasa pembuatan website dan SEO berkualitas di Jakarta, konsultasikan kebutuhan digital Anda melalui LOGIQUE, Web Developer asal Jepang no. 1 di Indonesia.">
+	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -160,7 +161,7 @@
 
 								<div class="item">
 									<h1 class="text-center title-index title-index2">
-										Kami Menyediakan Solusi HR-Tech di Indonesia
+										Kami Menyediakan Solusi <span class="yellow">HR-Tech</span> di Indonesia
 									</h1>
 									<div class="row">
 										<div class="col-md-6">

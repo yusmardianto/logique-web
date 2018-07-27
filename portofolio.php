@@ -601,6 +601,54 @@
 							    </div>
 							  </div>
 							</div>
+							<li>
+								Pengembangan Sistem Peta Digital.<br>
+								<small class="text-muted">3 months, PHP Framework, MySQL, Google map API, Java Script | <a data-toggle="modal" data-target="#pop10" href="#">See More</a></small>
+							</li>
+							<!-- modal 10 -->
+							<div id="pop10" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Pengembangan sistem peta digital.</h4><hr>
+							        <p>Pengembangan sistem peta digital. Sistem yang digunakan untuk pemetaan kemajuan suatu proyek yang dilaksanakan di negara-negara ASEAN. Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan, Google Maps API, HTML5-CSS3, serta database MySQL. Proses pengembangan sistem ini membutuhkan waktu selama 3 bulan.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Pengembangan Sistem Lelang C2C.<br>
+								<small class="text-muted">2 months, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 | <a data-toggle="modal" data-target="#pop11" href="#">See More</a></small>
+							</li>
+							<!-- modal 11 -->
+							<div id="pop11" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Pengembangan sistem lelang C2C.</h4><hr>
+							        <p>Merupakan sistem lelang C2C. Terdapat sekitar 2.000 kendaraan yang dilelangkan dan terbagi dalam 4 lelang, dan diikuti sekitar 300 user setiap bulannya. Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan, JQuery / Ajax, HTML5-CSS3, serta database MySQL. Pengembangan sistem ini membutuhkan waktu selama 2 bulan.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Pengembangan Sistem Web CMS Untuk Organisasi Publik.<br>
+								<small class="text-muted">2 months, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop12" href="#">See More</a></small>
+							</li>
+							<!-- modal 12 -->
+							<div id="pop12" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Pengembangan sistem web CMS untuk organisasi publik.</h4><hr>
+							        <p>Sistem web CMS untuk organisasi publik: sistem ini dikembangkan untuk mengelola konten website organisasi publik. Dengan sistem ini seorang admin web dapat dengan mudah mengelola konten website tersebut. Sistem web CMS ini dikembangkan dengan teknologi PHP dengan framework pilihan, HTML5-CSS3, javascript, JQuery, dan database MySQL. Proses pengembangan web CMS ini membutuhkan waktu selama 2 bulan.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
 						</ul>
 						<br/>
 						<span class="characteristic-title">Lainnya</span>

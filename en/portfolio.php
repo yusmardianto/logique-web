@@ -602,6 +602,54 @@
 							    </div>
 							  </div>
 							</div>
+							<li>
+								Used car market place development and operation.<br>
+								<small class="text-muted">3 months, PHP Framework, MySQL, Google map API, Java Script | <a data-toggle="modal" data-target="#pop10" href="#">See More</a></small>
+							</li>
+							<!-- modal 10 -->
+							<div id="pop10" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Used car market place development and operation.</h4><hr>
+							        <p>Development system of a digital map. The system is used for mapping the progress of projects implemented in ASEAN countries. The system was developed with PHP technology with chosen framework, Google Maps API, HTML5-CSS3, and MySQL database. The process of this system development takes 3 months.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Vehicle C2C Auction System.<br>
+								<small class="text-muted">2 months, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 | <a data-toggle="modal" data-target="#pop11" href="#">See More</a></small>
+							</li>
+							<!-- modal 11 -->
+							<div id="pop11" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Vehicle C2C Auction System.</h4><hr>
+							        <p>C2C auction system. There are about 2,000 vehicles auctioned and divided into 4 auctions, followed by about 300 users each month. The system is developed with PHP technology with chosen frameworks, JQuery/Ajax, HTML5-CSS3, and MySQL database. The development of this system takes 2 months.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Secure CMS Development for public organization.<br>
+								<small class="text-muted">2 months, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop12" href="#">See More</a></small>
+							</li>
+							<!-- modal 12 -->
+							<div id="pop12" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Secure CMS Development for public organization.</h4><hr>
+							        <p>CMS web system for public organizations: The system was developed to manage the content of public organizations websites. With this system a web admin can easily manage the website content. This CMS web system is developed with PHP technology with chosen framework, HTML5-CSS3, javascript, JQuery, and MySQL database. This CMS web development process takes 2 months.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
 						</ul>
 						<br/>
 						<span class="characteristic-title">Others</span>
