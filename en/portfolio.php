@@ -603,7 +603,7 @@
 							  </div>
 							</div>
 							<li>
-								Used car market place development and operation.<br>
+								Development system of a digital map.<br>
 								<small class="text-muted">3 months, PHP Framework, MySQL, Google map API, Java Script | <a data-toggle="modal" data-target="#pop10" href="#">See More</a></small>
 							</li>
 							<!-- modal 10 -->
@@ -612,7 +612,7 @@
 							    <div class="modal-content">
 							      <div class="modal-body">
 							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
-							      	<h4>Used car market place development and operation.</h4><hr>
+							      	<h4>Development system of a digital map.</h4><hr>
 							        <p>Development system of a digital map. The system is used for mapping the progress of projects implemented in ASEAN countries. The system was developed with PHP technology with chosen framework, Google Maps API, HTML5-CSS3, and MySQL database. The process of this system development takes 3 months.</p>
 							      </div>
 							    </div>
@@ -646,6 +646,55 @@
 							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 							      	<h4>Secure CMS Development for public organization.</h4><hr>
 							        <p>CMS web system for public organizations: The system was developed to manage the content of public organizations websites. With this system a web admin can easily manage the website content. This CMS web system is developed with PHP technology with chosen framework, HTML5-CSS3, javascript, JQuery, and MySQL database. This CMS web development process takes 2 months.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+
+							<li>
+								E-commerce (e-book) CMS development.<br>
+								<small class="text-muted">2months, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop13" href="#">See More</a></small>
+							</li>
+							<!-- modal 13 -->
+							<div id="pop13" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>E-commerce (e-book) CMS development.</h4><hr>
+							        <p>E-Commerce CMS system used by a distributor of books from Japan. This system is developed with PHP technology with chosen framework, HTML5-CSS3, and MySQL database. With this web CMS, website administrator can easily manage the company's website content. This web development CMS takes 2 months.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Job Portal System Development.<br>
+								<small class="text-muted">2 months, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop14" href="#">See More</a></small>
+							</li>
+							<!-- modal 14 -->
+							<div id="pop14" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Job Portal System Development.</h4><hr>
+							        <p>Job portal system built with PHP technology, HTML5-CSS3, and MySQL database. This job portal is hosted on the AWS Linux server. Companies can search and find job seekers and job seekers can see vacant and open jobs on the website. Candidates can apply for the position directly. The percentage of users of this service is the majority of Japanese companies in Indonesia.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Hiring (recruitment) Management System.<br>
+								<small class="text-muted">3months, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop15" href="#">See More</a></small>
+							</li>
+							<!-- modal 15 -->
+							<div id="pop15" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Hiring (recruitment) Management System.</h4><hr>
+							        <p>Corporate website equipped with a recruitment system. Job seekers who are interested in working at this company can apply directly through the website. With a high level of security, the confidentiality of the applicant's data is more assured. The system is built with PHP technology, and uses the chosen frameworks, HTML5-CSS3, as well as the Ms. SQL Server database. The development process takes 3 months.</p>
 							      </div>
 							    </div>
 							  </div>
