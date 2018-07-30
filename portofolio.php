@@ -649,6 +649,55 @@
 							    </div>
 							  </div>
 							</div>
+
+							<li>
+								Pengembangan web CMS untuk e-book commerce.<br>
+								<small class="text-muted">2months, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop13" href="#">See More</a></small>
+							</li>
+							<!-- modal 13 -->
+							<div id="pop13" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Pengembangan web CMS untuk e-book commerce.</h4><hr>
+							        <p>Merupakan sistem CMS yang digunakan oleh sebuah distributor buku asal Jepang. Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan, HTML5-CSS3, serta database MySQL. Dengan web CMS ini, administrator website dapat dengan mudah mengelola konten website perusahaan. Pengembangan web CMS ini memerlukan waktu selama 2 bulan.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Sistem Portal Lowongan Pekerjaan.<br>
+								<small class="text-muted">2 months, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop14" href="#">See More</a></small>
+							</li>
+							<!-- modal 14 -->
+							<div id="pop14" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Sistem Portal Lowongan Pekerjaan.</h4><hr>
+							        <p>Merupakan sistem portal lowongan pekerjaan yang dibangun dengan teknologi PHP, HTML5-CSS3, serta database MySQL. Portal lowongan pekerjaan ini dihosting di Linux server AWS. Perusahaan bisa mencari dan menemukan pencari kerja dan pencari kerja dapat melihat pekerjaan kosong dan terbuka di situs web. Calon bisa mengajukan CV untuk posisi secara langsung. Persentase pengguna layanan ini adalah mayoritas perusahaan Jepang yang ada di Indonesia.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								Web Dengan Sistem Rekrutmen.<br>
+								<small class="text-muted">3months, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop15" href="#">See More</a></small>
+							</li>
+							<!-- modal 15 -->
+							<div id="pop15" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>Web Dengan Sistem Rekrutmen.</h4><hr>
+							        <p>Merupakan corporate website yang dilengkapi dengan sistem rekrutmen. Para pencari kerja yang berminat bekerja di perusahan ini dapat melamar langsung melalui website. Dengan tingkat keamanan yang tinggi, kerahasiaan data para pelamar lebih terjamin. Sistem ini dibangun dengan teknologi PHP, dan menggunakan framework pilihan, HTML5-CSS3, serta database Ms. SQL Server. Proses pengembangan membutuhkan waktu 3 bulan.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
 						</ul>
 						<br/>
 						<span class="characteristic-title">Lainnya</span>
