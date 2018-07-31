@@ -40,11 +40,11 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="">
-	<meta name="keywords" content="">
+    <meta name="description" content="Dalam melakukan pembuatan website, pengembangan website, pembuatan aplikasi dan pengembangan aplikasi serta desain web. Logique sebagai perusahaan jasa konsultasi digital membuat beberapa mekanisme yang perlu diketahui. Berikut ini adalah beberapa mekanisme pembuatan website yang ada di Logique">
+	<meta name="keywords" content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Mekanisme Pembuatan Website Di Logique</title>
+    <title>Mekanisme Pembuatan Website | LOGIQUE Digital Indonesia</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style_webdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
@@ -144,7 +144,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Setiap individua tau perusahaan tentunya mempunyai kebutuhan yang berbeda. Hal ini tentunya memerlukan pendekatan yang berbeda, terutama dalam konteks pembuatan website. Karena itu, kami akan fokus mendengar setiap permasalahan yang ingin diatasi dan dipenuhi oleh klien. Melalui cara seperti ini, kami dapat memberikan sebuah penawaran bagi klien, baik dari sisi manfaat dan keefektifan website tersebut.</p>
+									<p>Setiap individu atau perusahaan tentunya mempunyai kebutuhan yang berbeda. Hal ini tentunya memerlukan pendekatan yang berbeda, terutama dalam konteks pembuatan website. Karena itu, kami akan fokus mendengar setiap permasalahan yang ingin diatasi dan dipenuhi oleh klien. Melalui cara seperti ini, kami dapat memberikan sebuah penawaran bagi klien, baik dari sisi manfaat dan keefektifan website tersebut.</p>
 								</div>
 							</div>
 						</div>
