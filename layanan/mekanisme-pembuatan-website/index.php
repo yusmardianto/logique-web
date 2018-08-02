@@ -40,11 +40,11 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="">
-	<meta name="keywords" content="">
+    <meta name="description" content="Dalam melakukan pembuatan website, pengembangan website, pembuatan aplikasi dan pengembangan aplikasi serta desain web. Logique sebagai perusahaan jasa konsultasi digital membuat beberapa mekanisme yang perlu diketahui. Berikut ini adalah beberapa mekanisme pembuatan website yang ada di Logique">
+	<meta name="keywords" content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Mekanisme Pembuatan Website Di Logique</title>
+    <title>Mekanisme Pembuatan Website | LOGIQUE Digital Indonesia</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style_webdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
@@ -65,6 +65,15 @@ if(isset($_POST['submitted']))
 		<header>
 			<div class="container">
 				<div class="row">
+					<div class="col-md-12">
+						<a href="/" target="_blank">
+							<div class="logo-header">
+								<img src="img/webdev/logo.png" alt="Fitur Perusahaan" class="img-responsive">
+							</div>
+						</a>
+					</div>
+				</div>
+				<div class="row">
 					<!-- <div class="language-btn">
 						<ul class="list-inline">
 							<li><a href="#">EN</a></li>
@@ -83,7 +92,7 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
 						<div class="panel text-center custom-1">
-							<h1><b>Mengapa harus memilih logique?</b></h1>
+							<h1><b>Mengapa harus memilih LOGIQUE?</b></h1>
 							<br>
 							<p class="p-b-20">Karena Logique telah mempunyai pengalaman serta kualitas yang Anda perlukan dalam pengembangan sistem web untuk kebutuhan bisnis digital saat ini. Dengan pengalaman serta kualitas kami, dapat menjadi suatu terobosan bagi bisnis Anda.</p>
 						</div>
@@ -99,7 +108,7 @@ if(isset($_POST['submitted']))
 						<p class="text-right">Untuk pembuatan sebuah website misalnya website perusahaan atau portal website yang memiliki dukungan manajemen konten (CMS), waktu yang diperlukan dari awal hingga waktu peluncuran website adalah 1 hingga 3 bulan. Apa saja yang diperlukan dalam jangka waktu tersebut? Berikut kami coba jabarkan langkah-langkah layanan pengembangan website yang dilakukan oleh Logique dengan penjelasan yang mudah dipahami.</p>
 					</div>
 					<div class="col-md-3 text-center hidden-xs hidden-sm">
-						<img src="img/webdev/logo.png" alt="Fitur Perusahaan" class="custom-2">
+						<a href="/" target="_blank"><img src="img/webdev/logo.png" alt="Fitur Perusahaan" class="custom-2"></a>
 					</div>
 				</div>
 			</div>
@@ -120,7 +129,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Tim kami siap membantu Anda dalam melakukan pengembangan website perusahaan atau portal website yang memiliki dukungan manajemen konten (CMS). Anda bisa menghubungi kami melalui email info@logique.co.id atau Formulir Pemesanan yang tersedia.</p>
+									<p>Tim kami siap membantu Anda dalam melakukan pengembangan website perusahaan atau portal website yang memiliki dukungan manajemen konten (CMS). Anda bisa menghubungi kami melalui email <a style="color:#333" href="mailto:info@logique.co.id"><u>info@logique.co.id</u></a> atau <a style="color:#333" target="_blank" href="/hubungi-kami.php"><u>Formulir Pemesanan</u></a> yang tersedia.</p>
 								</div>
 							</div>
 							</section>
@@ -144,7 +153,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Setiap individua tau perusahaan tentunya mempunyai kebutuhan yang berbeda. Hal ini tentunya memerlukan pendekatan yang berbeda, terutama dalam konteks pembuatan website. Karena itu, kami akan fokus mendengar setiap permasalahan yang ingin diatasi dan dipenuhi oleh klien. Melalui cara seperti ini, kami dapat memberikan sebuah penawaran bagi klien, baik dari sisi manfaat dan keefektifan website tersebut.</p>
+									<p>Setiap individu atau perusahaan tentunya mempunyai kebutuhan yang berbeda. Hal ini tentunya memerlukan pendekatan yang berbeda, terutama dalam konteks pembuatan website. Karena itu, kami akan fokus mendengar setiap permasalahan yang ingin diatasi dan dipenuhi oleh klien. Melalui cara seperti ini, kami dapat memberikan sebuah penawaran bagi klien, baik dari sisi manfaat dan keefektifan website tersebut.</p>
 								</div>
 							</div>
 						</div>
@@ -308,7 +317,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row hidden-md hidden-lg">
 					<div class="col-md-12">
-						<h2 class="m-m-10">Layanan di Logique</h2>
+						<h2 class="m-m-10">Layanan di LOGIQUE</h2>
 					</div>
 				</div>
 				<div class="row">
@@ -320,7 +329,7 @@ if(isset($_POST['submitted']))
 						</div>
 					</div>
 					<div class="col-md-4">
-						<div class="border-top-custom-2 hidden-xs hidden-sm">Layanan di Logique</div>
+						<div class="border-top-custom-2 hidden-xs hidden-sm">Layanan di LOGIQUE</div>
 						<h2 class="custom-3">Website Karir</h2>
 						<p class="min-h">Sekarang semakin sulit bagi perusahaan untuk mendapatkan karyawan ideal yang sesuai dan cocok dengan bisnis yang dijalankan. Halaman karir website perusahaan Anda adalah salah satu faktor penting untuk kesuksesan perekrutan. Halaman ini dapat menjadi kunci untuk memberitahu pengunjung tentang perusahaan Anda, suasana kerja, keuntungan bekerja diperusahaan Anda, dan karyawan yang Anda cari dengan jelas misalnya menggunakan video interview. Kami memiliki banyak pengalaman dalam pembuatan website yang terkait dengan rekrutmen atau halaman karir. </p>
 						<div>
@@ -368,7 +377,7 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-4">
 						<h2 style="margin-top: 0">Hubungi Kami</h2>
-						<img src="img/webdev/logo.png" alt="Fitur Perusahaan" class="cs-custom">
+						<a href="/" target="_blank"><img src="img/webdev/logo.png" alt="Fitur Perusahaan" class="cs-custom"></a>
 						<div class="m-t-10 text-left">LOGIQUE DIGITAL INDONESIA<br>
 						Ad Premier Building 19th Floor. <br>
 						Jalan Tb. Simatupang No. 5 Ragunan, <br>

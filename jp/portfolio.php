@@ -646,6 +646,55 @@
 							    </div>
 							  </div>
 							</div>
+
+							<li>
+								デジタルBook販売WEBサービス向けCMS構築.<br>
+								<small class="text-muted">2months, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop13" href="#">See More</a></small>
+							</li>
+							<!-- modal 13 -->
+							<div id="pop13" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>デジタルBook販売WEBサービス向けCMS構築.</h4><hr>
+							        <p>インドネシアでE-Book販売をしている会社のオンラインBook販売サイトのCMSを構築した。販売商品の管理＆更新が容易になり販売数の向上に寄与した。キャンペーンページのデザイン制作とCMSへのインテグレーションなども複数回行った。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								求人・求職マッチングポータルWEBの構築.<br>
+								<small class="text-muted">2 months, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop14" href="#">See More</a></small>
+							</li>
+							<!-- modal 14 -->
+							<div id="pop14" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>求人・求職マッチングポータルWEBの構築.</h4><hr>
+							        <p>人材紹介会社向けにJOBポータルWEBの構築をした。求人情報を掲載し、求職者からの応募を受け付けるWEBサイト。求職者はWEBサイトに会員登録することで直接該当ポジションに応募することができる。PHPフレームワークでスクラッチ開発した。開発期間は約3ヶ月。デザインから構築まで全てを行った。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								金融機関向け採用管理システムの構築.<br>
+								<small class="text-muted">3months, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop15" href="#">See More</a></small>
+							</li>
+							<!-- modal 15 -->
+							<div id="pop15" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>金融機関向け採用管理システムの構築.</h4><hr>
+							        <p>金融機関向けに採用管理WEBシステムを構築した。採用サイトの制作に合わせ、バックエンドで面談管理や承認フローを管理するシステムを構築した。納品前に外部のセキュリティ診断会社と協業し、セキュリティ脆弱性検査を行うなど個人情報を扱う金融機関のセキュリティ基準に見合うシステムを構築した。PHPフレームワークを使いスクラッチ開発で、約3ヶ月間。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
 						</ul>
 						<br>
 						<span class="characteristic-title">その他</span>
