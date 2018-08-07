@@ -576,6 +576,58 @@
 								<p>That’s why, to promote your business successfully, we develop web, system, and mobile app for you with agility and flexibility. We make something visible quickly and accept changes flexibly. Because at LOGIQUE, clients and our project members are one team. </p><br>
 							</div>
 						</div>
+						<style>
+							.testimony-client .carousel p{margin-bottom:10px}
+							.testimony-client blockquote{min-height:unset;}
+						</style>
+						<div class="row testimony-client">
+							<div class="col-md-12" style="padding-bottom: 8px">
+								<br/>
+								<div class="title-workflow" style="margin-bottom:0">Clients' Testimony</div>
+								<div id="myCarousel" class="carousel slide carousel-pesan-career">
+								  <ol class="carousel-indicators">
+									<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+									<li data-target="#myCarousel" data-slide-to="1"></li>
+									<li data-target="#myCarousel" data-slide-to="2"></li>
+									<li data-target="#myCarousel" data-slide-to="3"></li>
+								  </ol>
+								  <div class="carousel-inner">
+									<div class="item active">
+									  <blockquote>
+										<p>As one of the fastest growing life insurance company, serving our client in digital space is one of our key pillar. LOGIQUE is becoming our indispensable partner for My SunLife Indonesia app UI/UX strategy. As result, our app is becoming one of highest rated insurance app to date. We frequently assign LOGIQUE some tasks that needs to be done quickly, but they always perform the best for us and never fail our trust. Thank you for your cooperation always.</p>
+										<small>Mr. Jodie Pratomo, Head of Digital Experience of Sun Life Financial</small>
+									 </blockquote>
+									</div>
+									<div class="item">
+									 <blockquote>
+										<p>Logique has a firm grasp of its clients' requirements and needs. Its approach to delivering its service is collaborative, and thus resulting to a shared ownership of the product it is helping to develop.</p>
+										<small>Armiliza Cruz Magno , JAIF</small>
+									 </blockquote>
+									</div>
+									<div class="item">
+									  <blockquote>
+										<p>We have been cooperating with Logique, who developed our website of &quot;the 60th Anniversary of Japan-Indonesia Diplomatic Relation&quot; and who has been maintaining the site for us. Logique is meeting our requirements which are detailed and complex. Furthermore, Logique is giving us comprehensive support in the fields of website development as well as SNS operation and digital marketing. Logique’s punctual, flexible and precise work always helps us to fulfil our mission.</p>
+										<small>Steering Committee, The Commemorative Events of the 60th Anniversary of Japan – Indonesia Diplomatic Relations</small>
+									 </blockquote>
+									</div>
+									<div class="item">
+									  <blockquote>
+										<p>Our business is a car/motorcycle auction. LOGIQUE has been helping us to develop various systems that require to be specifically customized to fit in our business process and that cannot be covered by existing package system software. We appreciate how LOGIQUE has been working with us steadily and flexibly even though our requirement is sometimes quite high and the systems should be very secure.</p>
+										<small>Mr. Kazuhiro Shioyama, President Director, PT. JBA Indonesia</small>
+									 </blockquote>
+									</div>
+								  </div>
+								  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+									<span class="glyphicon glyphicon-chevron-left"></span>
+									<span class="sr-only">Previous</span>
+								  </a>
+								  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+									<span class="glyphicon glyphicon-chevron-right"></span>
+									<span class="sr-only">Next</span>
+								  </a>
+								</div>
+							</div>
+						</div>
 					</div>
 					<div class="got-project">
 						<span>If you need help for:</span><br/>
