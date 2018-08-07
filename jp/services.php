@@ -572,6 +572,58 @@
 								<p>世の中の変化のスピードは非常に速く、そのスピードは益々上がってきている ように思います。スピードは現代においてはビジネスの成否を分ける最も重要 なキーポイントと言っても良いと考えています。お客様のビジネスを成功に導 くため、制作開発もスピーディーにまた柔軟に対応できる体制でありたいと考 えていることから、当社ではアジャイル型の開発体制を敷いています。変化を 受け入れ、目に見えるものを早く作ります。クライアントと当社プロジェクト メンバーは１つの Team です。細かくリリースし改善していくことが肝要だと 考えます。</p><br>
 							</div>
 						</div>
+						<style>
+							.testimony-client .carousel p{margin-bottom:10px}
+							.testimony-client blockquote{min-height:unset;}
+						</style>
+						<div class="row testimony-client">
+							<div class="col-md-12" style="padding-bottom: 8px">
+								<br/>
+								<div class="title-workflow" style="margin-bottom:0">クライアントの証言</div>
+								<div id="myCarousel" class="carousel slide carousel-pesan-career">
+								  <ol class="carousel-indicators">
+									<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+									<li data-target="#myCarousel" data-slide-to="1"></li>
+									<li data-target="#myCarousel" data-slide-to="2"></li>
+									<li data-target="#myCarousel" data-slide-to="3"></li>
+								  </ol>
+								  <div class="carousel-inner">
+									<div class="item active">
+									  <blockquote>
+										<p>Sun Lifeは急成長している保険会社で、デジタルを重要なチャネルと考えています。LOGIQUEには、My Sun Life IndonesiaアプリのUI/UXデザインや改善で協業しています。結果として、このアプリは保険会社のアプリの中で最も評価されているうちの1つとなることができました。短納期での仕事の依頼も多くなっていますが、常にベストを尽くして要求を叶えてくれています。いつもご支援ありがとうございます。</p>
+										<small>Mr. Jodie Pratomo, Head of Digital Experience of Sun Life Financial</small>
+									 </blockquote>
+									</div>
+									<div class="item">
+									 <blockquote>
+										<p>Logique has a firm grasp of its clients' requirements and needs. Its approach to delivering its service is collaborative, and thus resulting to a shared ownership of the product it is helping to develop.</p>
+										<small>Armiliza Cruz Magno , JAIF</small>
+									 </blockquote>
+									</div>
+									<div class="item">
+									  <blockquote>
+										<p>We have been cooperating with Logique, who developed our website of &quot;the 60th Anniversary of Japan-Indonesia Diplomatic Relation&quot; and who has been maintaining the site for us. Logique is meeting our requirements which are detailed and complex. Furthermore, Logique is giving us comprehensive support in the fields of website development as well as SNS operation and digital marketing. Logique’s punctual, flexible and precise work always helps us to fulfil our mission.</p>
+										<small>Steering Committee, The Commemorative Events of the 60th Anniversary of Japan – Indonesia Diplomatic Relations</small>
+									 </blockquote>
+									</div>
+									<div class="item">
+									  <blockquote>
+										<p>当社のビジネスは車・バイクのオークションです。特殊性が高く通常のパッケージシステムでは対応が難しいため、LOGIQUEに大小様々なシステム構築をお願いしています。取引量も多く、求めるセキュリティ堅牢性も高いですが、確実に、かつ柔軟に運営してもらっており感謝しています。</p>
+										<small>Mr. Kazuhiro Shioyama, President Director, PT. JBA Indonesia</small>
+									  </blockquote>
+									</div>
+								  </div>
+								  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+									<span class="glyphicon glyphicon-chevron-left"></span>
+									<span class="sr-only">Previous</span>
+								  </a>
+								  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+									<span class="glyphicon glyphicon-chevron-right"></span>
+									<span class="sr-only">Next</span>
+								  </a>
+								</div>
+							</div>
+						</div>
 					</div>
 					<div class="got-project">
 						<span style="font-size:30px;">WEB・システム関連でお困りのことがあれば、</span><br/>

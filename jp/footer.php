@@ -20,7 +20,7 @@ ga('send', 'pageview');
 						<a href="portfolio.php">制作実績</a><br/><br/>
 						<a href="services.php">サービス</a><br/><br/>
 						<a href="joinus.php">採用/パートナー</a><br/><br/>
-						<a href="/career/">Join Us LOGIQUE</a><br/><br/>
+						<a href="/career/">Join LOGIQUE</a><br/><br/>
 						<a href="contact.php">お問い合わせ</a><br/>
 					</div>
 					<div class="col-sm-5 col-xs-7 link-footer">

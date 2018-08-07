@@ -136,7 +136,7 @@
 							<div class="col-sm-4">
 								<a href="https://www.jtrustbank.co.id/" target="_blank">
 									<img src="/img/portfolio/jtrust-bank.png" class="img-responsive center-block">
-									JTrust Bank
+									JTrust Bank (Re-design)
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEBリニューアル＆運用 (デザイン| コーディング | CMS構築 | 運用)<br>
@@ -450,7 +450,17 @@
 									<br><div class="grey-clr">モバイル最適化,セキュアなWEB,公共,旅行</div><br><br><br>
 								</div>
 							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/arf.png" class="img-responsive center-block">
+								ASEAN (ARF)
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/sentraya.png" class="img-responsive center-block">
+								Menara Sentraya
+							</div>
 						</div>
+						<br/>
 						<span class="characteristic-title">システム構築実績</span>
 						<br/><br/>
 						<ul class="circle-list">
