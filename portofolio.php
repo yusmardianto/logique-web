@@ -137,7 +137,7 @@
 							<div class="col-sm-4">
 								<a href="https://www.jtrustbank.co.id/" target="_blank">
 									<img src="/img/portfolio/jtrust-bank.png" class="img-responsive center-block">
-									JTrust Bank (Re-design)
+									JTrust Bank
 								</a>
 								<div class="addition-desc text-left">
 									<br>Pembaharuan & Pengoperasian WEB (Design | Coding | CMS | Operation)<br>
@@ -456,11 +456,29 @@
 							<div class="col-sm-4">
 								<img src="/img/portfolio/arf.png" class="img-responsive center-block">
 								ASEAN (ARF)
+								<div class="addition-desc text-left">
+									<br>WEB Development (Design | Coding | CMS)<br>
+									<br><div class="grey-clr">Mobile Optimized, Wordpress, Public</div><br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/sentraya.png" class="img-responsive center-block">
 								Menara Sentraya
+								<div class="addition-desc text-left">
+									<br>WEB Development (Design | Coding | CMS)<br>
+									<br><div class="grey-clr">Mobile Optimized, CMS, PHP, RealEstate, Property</div><br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.jtrustbank.co.id/" target="_blank">
+									<img src="/img/portfolio/jtrust-bank-new.png" class="img-responsive center-block">
+									JTrust Bank (Re-design)
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Re-Design (Design | Coding | Integrasi CMS)<br>
+									<br><div class="grey-clr">Mobile Optimized, Multi-bahasa, CMS, Bank</div><br><br><br>
+								</div>
 							</div>
 						</div>
 						<br/>
