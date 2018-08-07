@@ -136,7 +136,7 @@
 							<div class="col-sm-4">
 								<a href="https://www.jtrustbank.co.id/" target="_blank">
 									<img src="/img/portfolio/jtrust-bank.png" class="img-responsive center-block">
-									JTrust Bank (Re-design)
+									JTrust Bank
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEBリニューアル＆運用 (デザイン| コーディング | CMS構築 | 運用)<br>
@@ -453,11 +453,29 @@
 							<div class="col-sm-4">
 								<img src="/img/portfolio/arf.png" class="img-responsive center-block">
 								ASEAN (ARF)
+								<div class="addition-desc text-left">
+									<br>WEBサイト制作 (デザイン| コーディング |CMS)<br>
+									<br><div class="grey-clr">モバイル最適化, Wordpress, 公共</div><br><br><br>
+								</div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/sentraya.png" class="img-responsive center-block">
 								Menara Sentraya
+								<div class="addition-desc text-left">
+									<br>WEBサイト制作 (デザイン| コーディング |CMS)<br>
+									<br><div class="grey-clr">モバイル最適化, CMS構築, 不動産</div><br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.jtrustbank.co.id/" target="_blank">
+									<img src="/img/portfolio/jtrust-bank-new.png" class="img-responsive center-block">
+									JTrust Bank (Re-design)
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEBリニューアル制作 (デザイン| コーディング |CMSフィッティング)<br>
+									<br><div class="grey-clr">モバイル最適化, 多言語, CMS, 銀行</div><br><br><br>
+								</div>
 							</div>
 						</div>
 						<br/>
