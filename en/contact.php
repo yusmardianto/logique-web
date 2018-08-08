@@ -56,7 +56,7 @@ if(isset($_POST['submitted']))
 	
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
+	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     
     </head>
 	<body>
@@ -177,7 +177,7 @@ if(isset($_POST['submitted']))
 						</div><br/>	
 						LOGIQUE has led our clients' web-marketing in all over south east Asia to successes in their business by developing websites, developing web systems, building mobile apps, improving SEO, and analyzing traffics.<br/>
 					</div>
-					<img class="img-responsive" src="../img/kontak-img.jpg" alt="Kontak Kami"/>
+					<img class="img-responsive kontak-img" src="../img/kontak-img.jpg" alt="Kontak Kami"/>
 					<div class="highlights-contact">We can contribute to your business if you think Web is the key to the success for your business.</div>
 					<div class="form-container">	
 					<br/>					

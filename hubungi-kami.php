@@ -56,8 +56,8 @@ if(isset($_POST['submitted']))
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	
     <link href="css/style.css" rel="stylesheet">
+    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
     
     </head>
 	<body>
@@ -140,9 +140,9 @@ if(isset($_POST['submitted']))
 							<a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo"/></a>
 							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
-							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Hubungi Kami</span></a><meta itemprop="position" content="2" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Hubungi LOGIQUE</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">Jasa pembuatan website, desain, profil perusahaan, dan brosur.</h1>
+							<h1 class="tagline">Hubungi kami dan tanyakan apapun mengenai pembuatan website, pengembangan sistem web, internet marketing, desain dan berbagai hal di dunia digital lainnya kepada kami.</h1>
 						</div>
 					</div>
 				</div>
@@ -152,12 +152,9 @@ if(isset($_POST['submitted']))
 			
 			<div id="contentsArea">
 				<div id="contents">
-					<div class="map-container">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1982.8748090433066!2d106.82702104991579!3d-6.296598097694437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f206effdebf1%3A0xca2d9403de2bfbe1!2sAD+Premier+Office+Park!5e0!3m2!1sen!2sid!4v1499330296225" allowfullscreen></iframe>
-					</div>
-					<div class="title"><b>Hubungi</b><span class="yellow">Kami</span></div>
+					<div class="contact-title-copies"><span class="yellow">LOGIQUE DIGITAL INDONESIA</span> menawarkan Anda solusi dari permasalahan bisnis Anda di dunia digital kapan pun dan dimana pun.</div>
 					<div class="form-container" style="padding-top: 10px;">
-						<div class="box-jika">
+						<!--<div class="box-jika">
 							<div class="row">
 								<div class="col-lg-2">
 									<div class="jika-title"><span>"</span>Jika</div>
@@ -175,20 +172,27 @@ if(isset($_POST['submitted']))
 								</div>
 							</div>
 						</div>
-						<br/>						
-						LOGIQUE telah membantu pemasaran Web klien kami yang tersebar di seluruh Asia Tenggara hingga mencapai kesuksesan lewat pengembangan website, pengembangan sistem website, pembuatan aplikasi seluler, peningkatan SEO, dan menganalisa lalu lintas website.
+						<br/>-->
+						<div class="font-16">
+						Terima kasih Anda telah tertarik dengan seluruh layanan yang kami tawarkan. Jika Anda ingin mendapatkan informasi lebih lanjut dengan seluruh layanan kami, seperti pembuatan web, pengembangan sistem web, seo dan berbagai permasalahan di dunia digital lainnya, Kalian dapat menghubungi dan bertanya apapun kepada kami melalui tombol di bawah ini:
+						</div>
+						<div class="text-center">
+							<a class="btn btn-hubungi smooth" href="#anchorForm">
+								Hubungi Kami Sekarang
+							</a>
+						</div>
 					</div>
-					<img class="img-responsive" src="img/kontak-img.jpg" alt="Hubungi Kami Logique"/>
+					<img class="img-responsive kontak-img" src="img/kontak-img.jpg" alt="Hubungi Kami Logique"/>
 					<div class="highlights-contact">Kami dapat membantu bisnis Anda, jika Anda menganggap bahwa Web merupakan kunci dari kesuksesan bisnis Anda.</div>
 					<div class="form-container">
 					<br/>
-						<b>Sebelum menghubungi kami, berikut adalah beberapa informasi yang dapat kami bagikan.</b><br/>
+						<!--<b>Sebelum menghubungi kami, berikut adalah beberapa informasi yang dapat kami bagikan.</b><br/>
 						Kami merupakan sebuah tim yang terdiri dari orang-orang yang berasal dari Jepang dan Indonesia. Anda dapat berkomunikasi dengan kami menggunakan Bahasa Indonesia, Inggris dan Jepang.<br/>
 						Banyak klien yang bertanya kepada kami “Berapa biaya untuk mengembangkan sebuah website?” Ini merupakan pertanyaan yang sangat sulit.<br/>
 						Kami berpengalaman mengembangkan website sederhana seharga Rp.15.000.000 namun sulit bagi kami untuk mengatakan bahwa website sederhana seperti itu akan memberikan dampak bagi bisnis Anda. Jika Anda membandingkan, tentu ada banyak perusahaan pengembang web yang mempunyai harga lebih murah dibandingkan kami. Namun, kami yakin bahwa kami dapat memberikan Anda nilai tersediri jika Anda mencari web developer yang dapat diandalkan yang mampu membawa Anda menuju kesuksesan bisnis.<br/>
-						Kami juga siap membantu Anda dalam mengembangkan website berskala kecil dengan anggaran yang terbatas.<br/><br/>
-					
-						<div class="highlights2-contact">
+						Kami juga siap membantu Anda dalam mengembangkan website berskala kecil dengan anggaran yang terbatas.-->
+						<div class="font-16">Dengan pengalaman selama lebih dari 5 tahun, membuat Logique banyak dipercaya oleh berbagai perusahaan baik ditingkat nasional maupun internasional. Selain itu, dengan tenaga profesional yang kami miliki, kami dapat memberikan layanan berkualitas tinggi bagi seluruh proyek Anda.</div>
+						<div class="highlights2-contact" id="anchorForm">
 							Silakan menghubungi kami untuk pembuatan website, media sosial, konsultasi seputar web, atau desain.
 						</div>
 						<br/>
@@ -281,6 +285,21 @@ if(isset($_POST['submitted']))
 								<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="color:#0077B5"></i></a>
 							</div>
 						</div>
+						<br/>
+						<div class="row">
+							<div class="col-md-12 font-16">
+								Jika Anda ingin mendapatkan informasi lebih lanjut mengenai berbagai hal yang berkaitan dengan Logique, silahkan pilih salah satu opsi di bawah ini:
+							</div>
+							<div class="col-md-4">
+								<a target="_blank" href="/layanan.php" class="btn btn-hubungi btn-block">Layanan LOGIQUE</a>
+							</div>
+							<div class="col-md-4">
+								<a target="_blank" href="/tentang-kami.php" class="btn btn-hubungi btn-block">Tentang LOGIQUE</a>
+							</div>
+							<div class="col-md-4">
+								<a target="_blank" href="/career/" class="btn btn-hubungi btn-block">Karir LOGIQUE</a>
+							</div>
+						</div>
 					</div>
 					<div class="bg-grey">
 						<div class="title-bg-grey">Prosedur Permintaan Informasi</span></div><br/><br/>
@@ -360,11 +379,29 @@ if(isset($_POST['submitted']))
 						<div class="question">Apakah Anda mampu mengimplementasikan SEO dalam bahasa Indonesia?</div>
 						<div class="answer">Ya, kami mempunyai keahlian SEO yang kami tunjukkan di berbagai situs yang telah berada di deretan paling atas pada berbagai industri, seperti keuangan, perjalanan, pendidikan, dan lain-lain. Tim kami terdiri dari penulis konten dan pemasaran yang berasal dari Indonesia yang akan memberikan hasil terbaik untuk pelayanan SEO bagi Anda. Selain itu, kami juga dapat menerapkan SEO dalam bahasa Inggris dan Jepang dengan baik.</div><br/>						
 					</div>
+					<div class="map-container">
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1982.8748090433066!2d106.82702104991579!3d-6.296598097694437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f206effdebf1%3A0xca2d9403de2bfbe1!2sAD+Premier+Office+Park!5e0!3m2!1sen!2sid!4v1499330296225" allowfullscreen></iframe>
+					</div>
 				</div>
 			</div>
 			
 			<?php include 'footer.php';?>
-			
+			<script>
+			$(function() {
+				$('.smooth').click(function() {
+				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+					var target = $(this.hash);
+					target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+					if (target.length) {
+					  $('html, body').animate({
+						scrollTop: target.offset().top
+					  }, 1000);
+					  return false;
+					}
+				  }
+				});
+			});
+			</script>
 		</div>
 	</body>
 </html>
