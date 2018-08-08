@@ -152,9 +152,6 @@ if(isset($_POST['submitted']))
 			
 			<div id="contentsArea">
 				<div id="contents">
-					<div class="map-container">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1982.8748090433066!2d106.82702104991579!3d-6.296598097694437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f206effdebf1%3A0xca2d9403de2bfbe1!2sAD+Premier+Office+Park!5e0!3m2!1sen!2sid!4v1499330296225" allowfullscreen></iframe>
-					</div>
 					<div class="title"><b>Contact</b><span class="yellow">Us</span></div>
 					<div class="form-container"  style="padding-top: 10px;">
 						<div class="box-jika">
@@ -277,6 +274,7 @@ if(isset($_POST['submitted']))
 								<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="color:#0084ff"></i></a>
 								<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="color:#e4405f"></i></a>
 								<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="color:#0077B5"></i></a>
+								<a href="https://api.whatsapp.com/send?phone=081296560380" target="_blank"><i class="fa fa-whatsapp" style="color:#25D366"></i></a>
 							</div>
 						</div>
 					</div>
@@ -358,6 +356,9 @@ if(isset($_POST['submitted']))
 						
 						<div class="question">Are you capable of implementing SEO in Indonesian language?</div>
 						<div class="answer">Yes. We have proved our SEO skills showing various website on the upper ranks in many industries such as finance, travel, education, etc. Our team that consist of Indonesian contents writers and Indonesian marketer will provide you the best result in SEO. We are also able to implement SEO in English and Japanese as well.</div><br/>
+					</div>
+					<div class="map-container">
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1982.8748090433066!2d106.82702104991579!3d-6.296598097694437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f206effdebf1%3A0xca2d9403de2bfbe1!2sAD+Premier+Office+Park!5e0!3m2!1sen!2sid!4v1499330296225" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>

@@ -52,7 +52,7 @@ ga('send', 'pageview');
 				<br><br>
 				&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
 				<br>
-				&nbsp;&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;081296560380
+				<a href="https://api.whatsapp.com/send?phone=081296560380" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;081296560380</a>
 				<br><br>
 				</div>
 			</div>
