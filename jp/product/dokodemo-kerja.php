@@ -47,7 +47,7 @@ if(isset($_POST['submitted']))
     <title>インドネシアでリモートワーク｜テレワーク管理ツール｜Dokodemo-Kerja</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style_dokodemo.css" rel="stylesheet">
-	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
+	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

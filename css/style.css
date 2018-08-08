@@ -3055,6 +3055,7 @@ blockquote::before {
 .contact-title-copies span{line-height: 1.3;}
 .btn-hubungi{padding: 10px 25px;font-size: 18px;background: #ffca13;color: #000;margin-top: 20px;}
 .font-16{font-size:16px}
+.kontak-img{height: 400px;width: 100%;object-fit: cover;object-position: 0 -30px;}
 
 @media (max-width:1199px) {
 	.div-explanation{height: 140px;font-size: 12px;opacity: 1;top: auto;position: relative;}

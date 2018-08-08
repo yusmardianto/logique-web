@@ -56,8 +56,8 @@ if(isset($_POST['submitted']))
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	
     <link href="css/style.css" rel="stylesheet">
+    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-	<script src="/css/all.css"></script>
     
     </head>
 	<body>
@@ -182,7 +182,7 @@ if(isset($_POST['submitted']))
 							</a>
 						</div>
 					</div>
-					<img class="img-responsive" src="img/kontak-img.jpg" alt="Hubungi Kami Logique"/>
+					<img class="img-responsive kontak-img" src="img/kontak-img.jpg" alt="Hubungi Kami Logique"/>
 					<div class="highlights-contact">Kami dapat membantu bisnis Anda, jika Anda menganggap bahwa Web merupakan kunci dari kesuksesan bisnis Anda.</div>
 					<div class="form-container">
 					<br/>
@@ -279,10 +279,10 @@ if(isset($_POST['submitted']))
 						<br/>
 						<div class="row">
 							<div class="col-md-12 text-center sosmed-contact">
-								<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fas fa-facebook-official" style="color:#3b5999"></i></a>
-								<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fas fa-twitter" aria-hidden="true" style="color:#0084ff"></i></a>
-								<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fas fa-instagram" aria-hidden="true" style="color:#e4405f"></i></a>
-								<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fas fa-linkedin-square" aria-hidden="true" style="color:#0077B5"></i></a>
+								<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="color:#3b5999"></i></a>
+								<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="color:#0084ff"></i></a>
+								<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="color:#e4405f"></i></a>
+								<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="color:#0077B5"></i></a>
 							</div>
 						</div>
 						<br/>

@@ -56,7 +56,7 @@ if(isset($_POST['submitted']))
 	
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
+	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     
     </head>
 	<body>
@@ -184,7 +184,7 @@ if(isset($_POST['submitted']))
 						
 						LOGIQUEはインドネシアをはじめとした東南アジアの国々でクライアントのWEBマーケティングを成功に導いてきました。WEBサイト制作（ホームページ制作）、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析、デジタル広告運用などデジタルマーケティング関連ソリューションをワンストップで対応可能ですので、まずはお気軽にご相談ください。<br/>
 					</div>
-					<img class="img-responsive" src="../img/kontak-img.jpg" alt="Kontak Kami"/>
+					<img class="img-responsive kontak-img" src="../img/kontak-img.jpg" alt="Kontak Kami"/>
 					<div class="highlights-contact">
 						インドネシアにてWEBやIT関連で課題があれば、LOGIQUEにご相談ください。
 					</div>
