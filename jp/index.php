@@ -117,7 +117,7 @@
 														<div class="div-service-cat">
 															<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
 															<h2>WEBサイト / ホームページ制作</h2>
-															<a href="services.php" class="btn">サービス詳細はこちら</a>
+															<a target="_blank" href="/layanan/mekanisme-pembuatan-website/" class="btn">サービス詳細はこちら</a>
 														</div>
 													</div>
 													<div class="col-md-3 col-sm-6">
@@ -131,7 +131,7 @@
 														<div class="div-service-cat">
 															<img src="/img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
 															<h2 style="padding: 0 30px;">WEBシステム開発</h2>
-															<a href="services.php" class="btn">サービス詳細はこちら</a>
+															<a target="_blank" href="/layanan/pembuatan-sistem-web/" class="btn">サービス詳細はこちら</a>
 														</div>
 													</div>
 													<div class="col-md-3 col-sm-6">
@@ -210,11 +210,11 @@
 								</div>
 							  </div>
 							  <a class="left carousel-control" href="#myCarousel2" data-slide="prev">
-								<span class="glyphicon glyphicon-chevron-left"></span>
+								<span class="juggling glyphicon glyphicon-chevron-left"></span>
 								<span class="sr-only">Previous</span>
 							  </a>
 							  <a class="right carousel-control" href="#myCarousel2" data-slide="next">
-								<span class="glyphicon glyphicon-chevron-right"></span>
+								<span class="juggling glyphicon glyphicon-chevron-right"></span>
 								<span class="sr-only">Next</span>
 							  </a>
 							</div>
@@ -250,7 +250,7 @@
 													<div class="div-service-cat">
 														<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
 														<h2>WEBサイト / ホームページ制作</h2>
-														<a href="services.php" class="btn">サービス詳細はこちら</a>
+														<a target="_blank" href="/layanan/mekanisme-pembuatan-website/" class="btn">サービス詳細はこちら</a>
 													</div>
 												</div>
 												<div class="col-md-3 col-sm-6">
@@ -264,7 +264,7 @@
 													<div class="div-service-cat">
 														<img src="/img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
 														<h2 style="padding: 0 30px;">WEBシステム開発</h2>
-														<a href="services.php" class="btn">サービス詳細はこちら</a>
+														<a target="_blank" href="/layanan/pembuatan-sistem-web/" class="btn">サービス詳細はこちら</a>
 													</div>
 												</div>
 												<div class="col-md-3 col-sm-6">
@@ -351,11 +351,11 @@
 							</div>
 						  </div>
 						  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-							<span class="glyphicon glyphicon-chevron-left"></span>
+							<span class="juggling glyphicon glyphicon-chevron-left"></span>
 							<span class="sr-only">Previous</span>
 						  </a>
 						  <a class="right carousel-control" href="#myCarousel" data-slide="next">
-							<span class="glyphicon glyphicon-chevron-right"></span>
+							<span class="juggling glyphicon glyphicon-chevron-right"></span>
 							<span class="sr-only">Next</span>
 						  </a>
 						</div>

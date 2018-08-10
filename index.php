@@ -118,51 +118,51 @@
 							  <div class="carousel-inner">
 								<div class="item active">
 									<div class="text-center">
-										<h1 class="title-index">
-											Jasa Pembuatan <span class="yellow">Website</span> dan <span class="yellow">Web Sistem</span> <br>Berkualitas di Jakarta
-										</h1>
+										<div class="title-index">
+											<span class="yellow">Web Developer</span> Terbaik Untuk Solusi <span class="yellow">Permasalahan Digital</span> Anda
+										</div>
 										LOGIQUE memiliki pengalaman dan kualitas yang Anda perlukan dalam pengembangan sistem web untuk kebutuhan bisnis digital saat ini. Kami telah bekerjasama dengan banyak klien internasional untuk berbagai kebutuhan seperti E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS serta terbiasa membuat sistem web tersebut dengan standar internasional.  LOGIQUE juga  siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Pengalaman yang telah kami jalankan selama lebih dari 5 tahun serta kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
 										<div class="row">
 											<div class="col-lg-offset-1 col-lg-10">
 												<div class="row">
-													<div class="col-md-3 col-sm-6">
-														<div class="div-service-cat">
-															<img src="img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
-															<h2>Jasa Pembuatan <br/><span>Website</span></h2>
-															<a href="layanan.php" class="btn">Baca Selengkapnya</a>
-														</div>
-													</div>
-													<div class="col-md-3 col-sm-6">
-														<div class="div-service-cat">
-															<img src="img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
-															<h2>Jasa Pembuatan <br/><span>Aplikasi</span></h2>
-															<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/" class="btn">Baca Selengkapnya</a>
-														</div>
-													</div>
-													<div class="col-md-3 col-sm-6">
-														<div class="div-service-cat">
-															<img src="img/jasa-promosi-online.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
-															<h2>Jasa Pembuatan<br/><span>Sistem Web</span></h2>
-															<a href="layanan.php" class="btn">Baca Selengkapnya</a>
-														</div>
-													</div>
-													<div class="col-md-3 col-sm-6">
-														<div class="div-service-cat">
-															<img src="img/jasa-seo.png" alt="Jasa VA Test" class="center-block img-responsive"/>
-															<div>Jasa <br/><span>VA Test</span></div>
-															<a target="_blank" href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
-														</div>
+												<div class="col-md-3 col-sm-6">
+													<div class="div-service-cat">
+														<img src="img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
+														<h2>Jasa Pembuatan <br/><span>Website</span></h2>
+														<a target="_blank" href="/layanan/mekanisme-pembuatan-website/" class="btn">Baca Selengkapnya</a>
 													</div>
 												</div>
+												<div class="col-md-3 col-sm-6">
+													<div class="div-service-cat">
+														<img src="img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
+														<h2>Jasa Pembuatan <br/><span>Aplikasi</span></h2>
+														<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/" class="btn">Baca Selengkapnya</a>
+													</div>
+												</div>
+												<div class="col-md-3 col-sm-6">
+													<div class="div-service-cat">
+														<img src="img/jasa-promosi-online.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
+														<h2>Jasa Pembuatan<br/><span>Sistem Web</span></h2>
+														<a target="_blank" href="/layanan/pembuatan-sistem-web/" class="btn">Baca Selengkapnya</a>
+													</div>
+												</div>
+												<div class="col-md-3 col-sm-6">
+													<div class="div-service-cat">
+														<img src="img/jasa-seo.png" alt="Jasa VA Test" class="center-block img-responsive"/>
+														<div>Jasa <br/><span>VA Test</span></div>
+														<a target="_blank" href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
+													</div>
+												</div>
+											</div>
 											</div>
 										</div>
 									</div>
 								</div>
 
 								<div class="item">
-									<h1 class="text-center title-index title-index2">
+									<div class="text-center title-index title-index2">
 										Kami Menyediakan Solusi <span class="yellow">HR-Tech</span> di Indonesia
-									</h1>
+									</div>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="row">
@@ -224,11 +224,11 @@
 							  </div>
 							  
 							  <a class="left carousel-control" href="#myCarousel2" data-slide="prev">
-								<span class="glyphicon glyphicon-chevron-left"></span>
+								<span class="juggling glyphicon glyphicon-chevron-left"></span>
 								<span class="sr-only">Previous</span>
 							  </a>
 							  <a class="right carousel-control" href="#myCarousel2" data-slide="next">
-								<span class="glyphicon glyphicon-chevron-right"></span>
+								<span class="juggling glyphicon glyphicon-chevron-right"></span>
 								<span class="sr-only">Next</span>
 							  </a>
 							</div>
@@ -252,7 +252,7 @@
 							<div class="item active">
 								<div class="text-center">
 									<h1 class="title-index">
-										Jasa Pembuatan <span class="yellow">Website</span> dan <span class="yellow">Web Sistem</span> <br>Berkualitas di Jakarta
+										<span class="yellow">Web Developer</span> Terbaik Untuk Solusi <span class="yellow">Permasalahan Digital</span> Anda
 									</h1>
 									LOGIQUE memiliki pengalaman dan kualitas yang Anda perlukan dalam pengembangan sistem web untuk kebutuhan bisnis digital saat ini. Kami telah bekerjasama dengan banyak klien internasional untuk berbagai kebutuhan seperti E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS serta terbiasa membuat sistem web tersebut dengan standar internasional.  LOGIQUE juga  siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Pengalaman yang telah kami jalankan selama lebih dari 5 tahun serta kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
 									<div class="row">
@@ -262,7 +262,7 @@
 													<div class="div-service-cat">
 														<img src="img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
 														<h2>Jasa Pembuatan <br/><span>Website</span></h2>
-														<a href="layanan.php" class="btn">Baca Selengkapnya</a>
+														<a target="_blank" href="/layanan/mekanisme-pembuatan-website/" class="btn">Baca Selengkapnya</a>
 													</div>
 												</div>
 												<div class="col-md-3 col-sm-6">
@@ -276,7 +276,7 @@
 													<div class="div-service-cat">
 														<img src="img/jasa-promosi-online.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
 														<h2>Jasa Pembuatan<br/><span>Sistem Web</span></h2>
-														<a href="layanan.php" class="btn">Baca Selengkapnya</a>
+														<a target="_blank" href="/layanan/pembuatan-sistem-web/" class="btn">Baca Selengkapnya</a>
 													</div>
 												</div>
 												<div class="col-md-3 col-sm-6">
@@ -293,9 +293,9 @@
 							</div>
 
 							<div class="item">
-								<h1 class="text-center title-index title-index2">
+								<div class="text-center title-index title-index2">
 									Kami Menyediakan Solusi <span class="yellow">HR-Tech</span> di Indonesia
-								</h1>
+								</div>
 								<div class="row">
 									<div class="col-md-6">
 										<div class="row">
@@ -365,11 +365,11 @@
 						  </div>
 						  
 						  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-							<span class="glyphicon glyphicon-chevron-left"></span>
+							<span class="juggling glyphicon glyphicon-chevron-left"></span>
 							<span class="sr-only">Previous</span>
 						  </a>
 						  <a class="right carousel-control" href="#myCarousel" data-slide="next">
-							<span class="glyphicon glyphicon-chevron-right"></span>
+							<span class="juggling glyphicon glyphicon-chevron-right"></span>
 							<span class="sr-only">Next</span>
 						  </a>
 						</div>

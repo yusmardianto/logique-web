@@ -12,9 +12,9 @@ ga('send', 'pageview');
 </script>
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-6 col-sm-push-6">
+			<div class="col-sm-8 col-sm-push-4">
 				<div class="row">
-					<div class="col-sm-4 col-xs-5 link-footer-nav">
+					<div class="col-sm-3 link-footer-nav">
 						<a href="index.php">Home</a><br/><br/>
 						<a href="about.php">About Us</a><br/><br/>
 						<a href="portfolio.php">Portfolio</a><br/><br/>
@@ -23,26 +23,54 @@ ga('send', 'pageview');
 						<a href="/career/">Join LOGIQUE</a><br/><br/>
 						<a href="contact.php">Contact Us</a><br/>
 					</div>
-					<div class="col-sm-5 col-xs-7 link-footer">
+					<div class="col-sm-5 link-footer">
 						<div class="footer-title">Our Service</div>
 						<h5><a href="services.php">Web Development</a></h5>
 							<h6><a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recruitment Website Creation</a></h6>
 							<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
 							<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dentist Website Creation</a></h6>
-						<h5><span style="cursor: default;">Web System Development</span></h5>
+						<h5><a href="/layanan/pembuatan-sistem-web/" target="_blank">Web System Development</a></h5>
 						<h5><a href="/en/services/pembuatan-aplikasi-mobile/">Mobile App Development</a></h5>
 						<h5><a href="/en/services/penetration-testing/">WEB Security Assesment (VA Test)</a></h5>
 					</div>
-					<div class="col-sm-3 link-footer">
-						<div class="footer-title">Product</div>
-						<h5><a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a></h5>
-						<h5><a href="/produk/nippo.php" target="_blank">Nippo</a></h5>
-						<h5><a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a></h5>
+					<div class="col-sm-4 link-footer">
+						<div class="footer-title">Our Product</div>
+						<h5 style="margin-bottom: 10px;">
+							<a href="/en/product/dokodemo-kerja.php" target="_blank">
+								Dokodemo-Kerja<br/><div style="font-size: 12px;">(Remote Working Tool)</div>
+							</a>
+						</h5>
+						<h5 style="margin-bottom: 10px;">
+							<a href="/en/product/nippo.php" target="_blank">
+								Nippo<br/><div style="font-size: 12px;">(Daily Report Tool)</div>
+							</a>
+						</h5>
+						<h5>
+							<a href="/en/product/sugoi-saiyo.php" target="_blank">
+								Sugoi Saiyo<br/><div style="font-size: 12px;">(Employee Recruitment System)</div>
+							</a>
+						</h5>
+						<div class="hidden-xs"><br/></div>
+						<div class="footer-title">Social Media</div>
+						<div class="row medsos-new">
+							<div class="col-xs-3 text-center">
+								<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a>
+							</div>
+							<div class="col-xs-3 text-center">
+								<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+							</div>
+							<div class="col-xs-3 text-center">
+								<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+							</div>
+							<div class="col-xs-3 text-center">
+								<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+							</div>
+						</div>
 					</div>
 				</div>
 				<br/>
 			</div>
-			<div class="col-sm-6 col-sm-pull-6">
+			<div class="col-sm-4 col-sm-pull-8">
 			<div itemscope itemtype="http://schema.org/Organization">
 				<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
 				<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
