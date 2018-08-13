@@ -325,7 +325,7 @@ if(isset($_POST['submitted']))
 						<h2 class="custom-3">Pengembangan Aplikasi Mobile</h2>
 						<p class="min-h">Kami melayani pengembangan aplikasi Android/ iOS yang sesuai dengan pasar Indonesia. Tidak hanya merancang atau mengimplementasikan teknologi baru, tetapi kami juga mengoptimalkan UI dan UX, desain, pengembangan aplikasi, hingga membantu Anda mendaftarkan aplikasi ke App Store / Google Play. Sebuah layanan yang komprehensif untuk Anda. </p>
 						<div>
-							<a href="" class="btn btn-default btn-logic btn-md">Info lebih lanjut</a>
+							<a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank" class="btn btn-default btn-logic btn-md">Info lebih lanjut</a>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -333,14 +333,14 @@ if(isset($_POST['submitted']))
 						<h2 class="custom-3">Website Karir</h2>
 						<p class="min-h">Sekarang semakin sulit bagi perusahaan untuk mendapatkan karyawan ideal yang sesuai dan cocok dengan bisnis yang dijalankan. Halaman karir website perusahaan Anda adalah salah satu faktor penting untuk kesuksesan perekrutan. Halaman ini dapat menjadi kunci untuk memberitahu pengunjung tentang perusahaan Anda, suasana kerja, keuntungan bekerja diperusahaan Anda, dan karyawan yang Anda cari dengan jelas misalnya menggunakan video interview. Kami memiliki banyak pengalaman dalam pembuatan website yang terkait dengan rekrutmen atau halaman karir. </p>
 						<div>
-							<a href="" class="btn btn-default btn-logic btn-md">Info lebih lanjut</a>
+							<a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank" class="btn btn-default btn-logic btn-md">Info lebih lanjut</a>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<h2 class="custom-3">Pengetesan Keamanan Website (VA Test)</h2>
 						<p class="min-h">Kami dapat melakukan pengetesan dan melaporkan temuan-temuan kami terkait celah keamanan website Anda. Dengan mengetahui celah keamanan tersebut Anda dapat melakukan tindakan pencegahan dari tindak kejahatan digital seperti injeksi SQL, cross-site scripting, session jacking, dan lain-lain. Tim ahli kami akan melakukan tes dengan menggunakan alat-alat pemindaian serta menganalisa temuan-temuan untuk dituangkan ke dalam laporan. Layanan ini kami sediakan mulai dari 10,000,000 Rupiah.</p>
 						<div>
-							<a href="" class="btn btn-default btn-logic btn-md">Info lebih lanjut</a>
+							<a href="/layanan/penetration-testing/" target="_blank" class="btn btn-default btn-logic btn-md">Info lebih lanjut</a>
 						</div>
 					</div>
 				</div>
@@ -407,7 +407,7 @@ if(isset($_POST['submitted']))
 										<input type="email" class="form-control" placeholder="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
 									</div>
 									<div class="form-group">
-										<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										<textarea style="resize:none" name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 									<div class="form-group">
 										<div class="g-recaptcha captcha-custom" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>

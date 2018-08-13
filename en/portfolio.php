@@ -843,7 +843,15 @@
 								<img src="/img/portfolio/otomartfb.png" class="img-responsive center-block">
 								OTOmart<br><br>
 							</div>
-
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/opus-park-facebook.png" class="img-responsive center-block">
+								Opus Park (Facebook)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/opus-park-ig.png" class="img-responsive center-block">
+								Opus Park (Instagram)<br><br>
+							</div>
 						</div> 
 						 
 					</div>
