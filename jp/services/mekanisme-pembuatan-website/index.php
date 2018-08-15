@@ -361,7 +361,7 @@ if(isset($_POST['submitted']))
 							<li class="m-b-5">基幹システムと連携するWEBサイトを開発する必要がある</li>
 							<li class="m-b-5">WEBサーバー利用料、保守費用をコストダウンしたい</li>
 							<li class="m-b-5">SNSと連携したWEBサイトに作り直したい</li>
-							<li class="m-b-5">動画を制作したい、動画をWEBに掲載したい</li>
+							<li class="m-b-5">動画を 制作したい、動画をWEBに掲載したい</li>
 							<li class="m-b-5">SEO対策が不十分。検索サイト経由でもっと集客したい。</li>
 							<li class="m-b-5">問い合わせフォームを最適化して問い合わせ数を増やしたい</li>
 							<li class="m-b-5">デジタルマーケティングを活用しWEBへのトラフィックを増やしたい</li>

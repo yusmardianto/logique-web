@@ -367,7 +367,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-6 col-md-6">
 						<h4><b>We are ready to assist you in creating a website, and also:</b></h4>
 						<ul>
-							<li class="m-b-5">Make and/or operate the homepage</li>
+							<li class="m-b-5">Make and/or operate the website</li>
 							<li class="m-b-5">Rebuild and optimize it for mobile/smartphones</li>
 							<li class="m-b-5">Develop an Android/iOS application</li>
 							<li class="m-b-5">Operate an in-house management system</li>

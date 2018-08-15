@@ -85,6 +85,9 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-offset-3 col-md-7 m-t-7em">
 						<h1 class="text-right">Mekanisme Pembuatan Websi<span class="underline">te di <span class="c-logique">Logique</span></span></h1>
+						<div class="subtitle-header">
+							Dengan pengalaman selama lebih dari 5 tahun dan telah bekerja sama dengan perusahaan baik di tingkat nasional maupun internasional, dan didukung dengan sumber daya yang profesional di bidangnya, Logique selalu siap memberikan solusi terbaik bagi pembuatan dan pengembangan website Anda
+						</div>
 					</div>
 				</div>
 			</div>
@@ -355,7 +358,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-6 col-md-6">
 						<h4><b>Kami siap membantu Anda dalam pembuatan website untuk setiap kebutuhan Anda:</b></h4>
 						<ul>
-							<li class="m-b-5">Membuat dan/atau mengoperasikan homepage</li>
+							<li class="m-b-5">Membuat dan/atau mengoperasikan website</li>
 							<li class="m-b-5">Membangun kembali dan mengoptimalkannya untuk seluler/ponsel cerdas</li>
 							<li class="m-b-5">Mengembangkan aplikasi Android/iOS</li>
 							<li class="m-b-5">Mengoperasikan sistem manajemen in-house</li>
