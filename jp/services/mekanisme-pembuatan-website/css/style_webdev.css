@@ -17,7 +17,7 @@ header {
 header h1 {
 	font-family: 'Lato', serif;
 	font-weight: 700;
-	font-size: 55px;
+	font-size: 47px;
 	color: #FFFFFF;
 	letter-spacing: 0;
 }
@@ -26,11 +26,10 @@ header h1 {
 .language-btn .list-inline>li.active {border: solid 2px #ebc033;border-radius: 1em;}
 .language-btn .list-inline>li{width: 40px;height: 25px;border: solid 2px #777;border-radius: 1em;}
 .list-inline>li a {color: #fff}
-.subtitle-header{color:#fff;text-align:right;font-size:16px}
-.m-t-7em{margin-top: 7em;}
+.m-t-10em{margin-top: 10em;}
 .m-b-5{margin-bottom: 5px;}
 .c-logique {color: rgb(255, 205, 56);text-shadow: 0 2px 4px #333;}
-.underline {border-bottom: solid 8px #ebc033;padding-bottom: 20px;display:inline-block}
+.underline {border-bottom: solid 8px #ebc033;padding-bottom: 20px;}
 .about {
 	background-color: #fff;
 }
@@ -110,7 +109,7 @@ section {
     width: auto;
     background: black;
     color: #fff;
-    font-size: 30px;
+    font-size: 18px;
     padding: 15px 25px;
     top: -90px;}
 .border-right-custom{
@@ -216,7 +215,6 @@ footer p:before {
 @media (max-width: 767px){
 .about h1{font-size: 22px;}
 footer h2{font-size:25px}
-.logo-header{left: 0}
 .no-10{right: -10px!important;font-size: 50px!important;top: -18px!important;}
 .card3, .card2{padding: 10px 0;}
 .title-custom{right: 0;}

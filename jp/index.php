@@ -117,7 +117,7 @@
 														<div class="div-service-cat">
 															<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
 															<h2>WEBサイト / ホームページ制作</h2>
-															<a target="_blank" href="/layanan/mekanisme-pembuatan-website/" class="btn">サービス詳細はこちら</a>
+															<a target="_blank" href="/jp/services/mekanisme-pembuatan-website/" class="btn">サービス詳細はこちら</a>
 														</div>
 													</div>
 													<div class="col-md-3 col-sm-6">
@@ -250,7 +250,7 @@
 													<div class="div-service-cat">
 														<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
 														<h2>WEBサイト / ホームページ制作</h2>
-														<a target="_blank" href="/layanan/mekanisme-pembuatan-website/" class="btn">サービス詳細はこちら</a>
+														<a target="_blank" href="/jp/services/mekanisme-pembuatan-website/" class="btn">サービス詳細はこちら</a>
 													</div>
 												</div>
 												<div class="col-md-3 col-sm-6">

@@ -1,4 +1,4 @@
-﻿ <?php 
+ <?php 
 require_once("form/fgcontact_systemdev.php");
 
 $formproc = new FGContactForm();
@@ -66,7 +66,7 @@ if(isset($_POST['submitted']))
 			<div class="container" style="position:relative">
 				<div class="row">
 					<!-- <div class="col-md-12">
-						<a href="/" target="_blank">
+						<a href="/jp/" target="_blank">
 							<div class="logo-header">
 								<img src="img/webdev/logo.png" alt="Fitur Perusahaan" class="img-responsive">
 							</div>
@@ -77,12 +77,12 @@ if(isset($_POST['submitted']))
 					<div class="language-btn">
 						<ul class="list-inline">
 							<li><a href="#" style="color: #ccc;cursor: not-allowed;">EN</a></li>
-							<li class="active"><a href="#">ID</a></li>
-							<li><a href="/jp/services/pembuatan-sistem-web/">JP</a></li>
+							<li><a href="/layanan/pembuatan-sistem-web/">ID</a></li>
+							<li class="active"><a href="#">JP</a></li>
 						</ul>
 					</div>
 					<div class="col-md-offset-7 col-md-5 m-t-10em">
-						<h1 class="text-left m-new">Pembuatan Sistem Web di Logique</h1>
+						<h1 class="text-left m-new">インドネシアでシステム開発が必要ならLOGIQUEにご相談ください</h1>
 					</div>
 				</div>
 			</div>
@@ -91,7 +91,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10 text-center">
-						<h1>“Pemanfaatan teknologi terkini untuk <br class="hidden-xs"> pelayanan maksimal terhadap klien dan <br class="hidden-xs"> pelanggan.”</h1>
+						<h1>システム開発、高いから、時間かかるから、難しいから、必要なのに諦めていませんか？インドネシアでのIT/WEBシステム開発、LOGIQUEなら、もっと早く、効率的にできます。お気軽にご相談ください。</h1>
 					</div>
 				</div>
 			</div>
@@ -100,7 +100,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-7 col-md-5">
-						<h1 class="new5">Ringka<span class="underline">san Teknikal Logi</span>que</h1>
+						<h1 class="new5">LOGIQUEのシステム開発・WEBアプリ開発</h1>
 					</div>
 				</div>
 			</div>
@@ -109,20 +109,20 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-3">
-						<h3 class="new1">[Penggunaan Teknologi]</h3>
-						<p class="new4">Teknologi berkembang sangat pesat. Penggunaan teknologi dan metode yang tepat akan memberikan manfaat maksimal untuk sistem Anda. Tim Logique menjadi salah satu yang terdepan dalam mengimplementasikan teknologi atau bahasa pemograman baru dalam pengembangan web, sistem web atau aplikasi. Beberapa yang telah kami implementasikan di antaranya adalah dengan AngularJS, Node.JS, Socket.IO, dan Ionic Framework.</p>
+						<h3 class="new1">[高い技術力、最先端の技術の利用]</h3>
+						<p class="new4">会計管理、人事管理などの業務システムから、CMS、ECサイト構築、アンケートシステム開発、サーバ、インフラまで、幅広い分野のシステム開発をワンストップで対応することができます。多数のインドネシアでの開発実績と恐れずに新しい技術を取り入れていくことにより、素早く、柔軟で、長く使えるシステム構築を行います。</p>
 					</div>
 					<div class="col-md-3">
-						<h3 class="new1">[Perencanaan Infrastruktur]</h3>
-						<p class="new4">Amazon Web Service (AWS) telah dikenal luas sebagai standar global layanan cloud infrastruktur server yang mumpuni. Baik perusahaan besar ataupun startup telah menggunakan layanan AWS karena mereka mampu memberikan tingkat keamanan dan ketersediaan yang tinggi sekaligus kemampuan skalabilitas yang fleksibel. Di Indonesia, masih sedikit perusahaan yang mampu memanfaatkan layanan AWS dengan maksimal. Logique hadir dengan pengalaman yang kuat dalam merancang dan mengelola infrastruktur berbasis AWS untuk perusahaan di Indonesia.</p>
+						<h3 class="new1">[インフラ設計・構築]</h3>
+						<p class="new4">インドネシア国内外のクラウドサーバーの設計構築を行います。シンガポールリージョンのAWSや、インドネシア国内のAliクラウドなどの実績を豊富にもっています。サーバーの保守運用、パフォーマンス・チューニングサービスも提供しています。オンプレミスサーバーからクラウドサーバーへのマイグレーションも多数実績あります。</p>
 					</div>
 					<div class="col-md-3">
-						<h3 class="new1">[Keamanan Sistem]</h3>
-						<p class="new4">Keamanan adalah salah satu faktor penting dalam pengembangan sistem, terlebih jika sistem tersebut melingkupi transaksi keuangan seperti e-commerce atau menyimpan data-data penting perusahaan. Logique sebagai pengembang sekaligus penyedia layanan pemeriksa keamanan khususnya terkait website atau sistem web mampu memberikan tingkat keamanan yang tinggi untuk sistem Anda.</p>
+						<h3 class="new1">[セキュアなシステム構築]</h3>
+						<p class="new4">納品前に通常のテストに加えセキュリティ脆弱性テストを実施することをお奨めしています。SQLインジェクション、パストラバーサル、クロスサイトスクリプティングなど防ぐべきものをしっかり対策し、リスクを最小限にして納品します。</p>
 					</div>
 					<div class="col-md-3">
-						<h3 class="new1">[Kecepatan Pengembangan]</h3>
-						<p class="new4">Kami memahami pentingnya waktu dan bisnis Anda, untuk itu kami selalu berusaha memberikan yang terbaik untuk menghasilkan sistem dalam jangka waktu yang paling efektif dan efisien tanpa mengurangi kualitas dari sistem tersebut.</p>
+						<h3 class="new1">[スピーディーで柔軟な開発]</h3>
+						<p class="new4">アジャイル開発を基本としています。要件定義書を作るのに何ヶ月もかけるようなことは意味がないと考えています。クライアントと信頼関係を築き、当社がリードして柔軟でスピーディに開発していきます。ラボ型開発サービスも提供しています。</p>
 					</div>
 				</div>
 			</div>
@@ -132,18 +132,18 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-4 col-md-4 text-center">
-						<div class="box-1">Studi Kasus</div>
+						<div class="box-1">事例/ケーススタディー</div>
 					</div>
 					<div class="col-md-offset-5 col-md-7">
 						<div class="card">
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10 m-t-10">
-									<h4><b>Sistem Lelang JBA</b></h4>
+									<h4><b>JBA Indonesia | オークション管理システム</b></h4>
 									<p>JBA adalah salah satu perusahaan lelang terbesar di Indonesia asal Jepang yang berlokasi di Meruya. Untuk JBA, kami mengembangkan sistem yang komprehensif untuk keperluan lelang yang memberikan dampak langsung terhadap bisnis mereka. Adapun cakupan sistem yang kami buat adalah dari hulu ke hilir meliputi proses registrasi, inspeksi, perencanaan dan administrasi lelang, dukungan lelang offline dan online, hingga pelaporan dan modul akunting. Pengerjaan sistem ini dilakukan secara intensif dengan komunikasi dan pendetilan terperinci dengan masing-masing user sesuai bidangnya. Sistem ini terus dikembangkan selama tiga tahun terakhir dalam bentuk sistem web dan aplikasi mobile.</p>
 								</div>
 							</div>
 							<div class="row">
-								<div class="box-2">Teknologi Utama: NodeJS, SocketIO, Android Native</div>
+								<div class="box-2">使用言語 PHP, NodeJS, SocketIO, Android Native</div>
 							</div>
 						</div>
 					</div>
@@ -185,31 +185,27 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-4 col-md-7">
 						<div class="row">
 							<div class="col-md-9">
-								<h1 class="new2">Kunci utama kesuksesan pembuatan sistem bersama Logique</h2>
+								<h1 class="new2">システム開発を成功させるためのキーポイント</h2>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="bold">Pengalaman</h4>
-								<p>Kami telah menangani lebih dari 200 proyek dari berbagai macam industri selama di Indonesia dalam hal pembuatan website, sistem web, ataupun mobile aplikasi.</p>
+								<h4 class="bold">経験</h4>
+								<p>LOGIQUEはインドネシアで豊富なシステム開発経験をもっています。スケジューリング、要件定義、インフラ設計、Deploy,ユーザートレーニングなど、各工程でこの経験が活きます。</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="bold">Kecepatan</h4>
-								<p>Ketepatan waktu sangat penting bagi kami, sehingga kami selalu berusaha untuk memberikan hasil dengan cepat sehingga pekerjaan yang kami hasilkan berdampak kepada bisnis klien.</p>
+								<h4 class="bold">スピード・柔軟性</h4>
+								<p>ビジネスのスピードはどんどん早くなっています。システム開発に6ヶ月も1年もかけていては、環境変化についていけません。LOGIQUEではスピードを重要視しています。要件のコンセンサスに時間がかかる場合も多いですが前に進むことをリードしてきます。</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="bold">Kualitas</h4>
-								<p>Kami mengaplikasikan metode analisa dan penerapan terbaik dalam setiap pengembangan untuk menghasilkan kualitas sistem web dan aplikasi mobile yang tinggi, baik dalam aspek fungsional, performa, dan keamanan.</p>
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-12">
-								<h4 class="bold">Fleksibilitas</h4>
-								<p>Jika Anda memiliki tim teknikal kami terbuka untuk berdiskusi mengenai detail implementasi, alat, atau skema yang ingin Anda gunakan pada website, sistem web, atau aplikasi mobile yang dikembangkan.</p>
+								<h4 class="bold">品質・セキュリティ</h4>
+								<p>
+								クオリティは犠牲にしてはいけません。標準化された開発を行うことで不具合がすくなく、メンテナンス性の高いプログラミングをします。セキュリティ脆弱性のリスクも最小化した上で納品します。
+								</p>
 							</div>
 						</div>
 				</div>
@@ -220,20 +216,17 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-6 col-md-6">
-						<h4><b>Kami siap membantu Anda dalam pembuatan website untuk setiap kebutuhan Anda:</b></h4>
+						<h4><b>システム開発、WEBアプリ開発、システム保守運用などで以下のようなお悩みないですか？LOGIQUEがご支援します。</b></h4>
 						<ul style="list-style-type: square;">
-							<li class="m-b-5">Membuat dan/atau mengoperasikan homepage</li>
-							<li class="m-b-5">Membangun kembali dan mengoptimalkannya untuk seluler/ponsel cerdas</li>
-							<li class="m-b-5">Mengembangkan aplikasi Android/iOS</li>
-							<li class="m-b-5">Mengoperasikan sistem manajemen in-house</li>
-							<li class="m-b-5">Mengelola infrastruktur IT</li>
-							<li class="m-b-5">Mengaudit keamanan IT, tetapi yang sudah terstruktur dari Jepang</li>
-							<li class="m-b-5">Meningkatkan awareness akan perusahaan/merek saya melalui pemasaran digital</li>
-							<li class="m-b-5">Meraih target pemasaran online dengan pemasangan iklan online</li>
-							<li class="m-b-5">Mendesain dan mencetak materi promosi perusahaan untuk kemudian didistribusikan</li>
-							<li class="m-b-5">Mengelola pengoperasian SNS (Facebook, Instagram, Youtube)</li>
-							<li class="m-b-5">Memperbarui konten dan pengoperasian situs web saya</li>
-							<li class="m-b-5">Membuat dan memasang chatbot online</li>
+							<li class="m-b-5">社内システムが必要だがIT部門がなく進め方すら分からない</li>
+							<li class="m-b-5">現行システムの保守契約がなく、変更したいのだが、協力会社が不在</li>
+							<li class="m-b-5">パッケージシステムを導入すべきかスクラッチ開発すべきか分からない</li>
+							<li class="m-b-5">IT部門があり内製できるのだがリソースが不足している</li>
+							<li class="m-b-5">必要なシステム開発プロジェクトのRFPを作ってもらいたい</li>
+							<li class="m-b-5">委託業者から納品されたシステムがバグだらけで困っている</li>
+							<li class="m-b-5">OSやブラウザのバージョンに合わせてシステムもバージョンUPしたい</li>
+							<li class="m-b-5">日本本社で使っている社内システムをインドネシアローカライズしたい</li>
+							<li class="m-b-5">インドネシア国内のデータセンターにシステムを配置したい</li>
 						</ul>
 					</div>
 				</div>
@@ -245,8 +238,8 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4">
-						<h2 style="margin-top: 0">Hubungi Kami</h2>
-						<a href="/" target="_blank"><img src="img/webdev/logo.png" alt="Fitur Perusahaan" class="cs-custom"></a>
+						<h2 style="margin-top: 0">お問い合わせ</h2>
+						<a href="/jp/" target="_blank"><img src="img/webdev/logo.png" alt="Fitur Perusahaan" class="cs-custom"></a>
 						<div class="m-t-10 text-left">LOGIQUE DIGITAL INDONESIA<br>
 						Ad Premier Building 19th Floor. <br>
 						Jalan Tb. Simatupang No. 5 Ragunan, <br>
@@ -256,31 +249,31 @@ if(isset($_POST['submitted']))
 						<div class="row">
 							<div class="col-xs-6">
 								<div class="link-footer-webdev">
-									<a href="/index.php" target="_blank">Beranda</a>
-									<a href="/tentang-kami.php" target="_blank">Tentang Kami</a>
-									<a href="/portofolio.php" target="_blank">Portofolio</a>
-									<a href="/layanan.php" target="_blank">Layanan</a>
+									<a href="/jp/index.php" target="_blank">Home</a>
+									<a href="/jp/about.php" target="_blank">会社概要</a>
+									<a href="/jp/portfolio.php" target="_blank">制作実績</a>
+									<a href="/jp/services.php" target="_blank">サービス</a>
 								</div>
 							</div>
 							<div class="col-xs-6">
 								<div class="link-footer-webdev">
-									<a href="/karir.php" target="_blank">Karir</a>
+									<a href="/jp/joinus.php" target="_blank">採用/パートナー</a>
 									<a href="/career/" target="_blank">Join LOGIQUE</a>
-									<a href="/hubungi-kami.php" target="_blank">Hubungi Kami</a>
+									<a href="/jp/contact.php" target="_blank">お問い合わせ</a>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 hidden-md hidden-lg">
-						<span><hr>Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</span>
+						<span><hr>インドネシアでWEB系のシステム開発やWEBアプリ開発や、それらシステムの運用が必要な場合LOGIQUEにご相談ください。CMS構築、会員管理システム（CRM)、ECサイト構築、会計管理、人事管理、アンケートシステムなど様々なシステム構築運用を成功に導いてきました。PMOとして、テスト工程だけ、ラボ型開発を、など様々な形でのご支援が可能です。</span>
 						<div class="row">
 							<div class="col-sm-12">
 								<div class="link-footer-webdev">
 									<br/>
-									<div style="margin-bottom:8px"><b>Produk LOGIQUE</b></div>
-									<a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
-									<a href="/produk/nippo.php" target="_blank">Nippo</a>
-									<a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
+									<div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div>
+									<a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
+									<a href="/jp/product/nippo.php" target="_blank">Nippo</a>
+									<a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
 								</div>
 							</div>
 						</div>
@@ -318,15 +311,15 @@ if(isset($_POST['submitted']))
 						</form>
 					</div>
 					<div class="col-md-4 hidden-xs hidden-sm">
-						<p>Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>
+						<p>インドネシアでWEB系のシステム開発やWEBアプリ開発や、それらシステムの運用が必要な場合LOGIQUEにご相談ください。CMS構築、会員管理システム（CRM)、ECサイト構築、会計管理、人事管理、アンケートシステムなど様々なシステム構築運用を成功に導いてきました。PMOとして、テスト工程だけ、ラボ型開発を、など様々な形でのご支援が可能です。</p>
 						<div class="row">
 							<div class="col-sm-12">
 								<div class="link-footer-webdev" style="padding-left:30px">
 									<br/>
-									<div style="margin-bottom:8px"><b>Produk LOGIQUE</b></div>
-									<a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
-									<a href="/produk/nippo.php" target="_blank">Nippo</a>
-									<a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
+									<div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div>
+									<a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
+									<a href="/jp/product/nippo.php" target="_blank">Nippo</a>
+									<a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
 								</div>
 							</div>
 						</div>

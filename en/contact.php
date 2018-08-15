@@ -142,7 +142,7 @@ if(isset($_POST['submitted']))
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Contact Us</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">Contact us and ask us anything about website development, internet marketing, application development, and designing.</h1>							
+							<h1 class="tagline">Contact us and ask us anything about website creation, web system development, internet marketing, design, and other various things related in the digital world.</h1>							
 						</div>
 					</div>
 				</div>
@@ -152,9 +152,9 @@ if(isset($_POST['submitted']))
 			
 			<div id="contentsArea">
 				<div id="contents">
-					<div class="title"><b>Contact</b><span class="yellow">Us</span></div>
+					<div class="contact-title-copies"><span class="yellow">LOGIQUE DIGITAL INDONESIA</span> offers you solutions to your business difficulty in the digital world anytime, anywhere.</div>
 					<div class="form-container"  style="padding-top: 10px;">
-						<div class="box-jika">
+						<!--<div class="box-jika">
 							<div class="row">
 								<div class="col-lg-2">
 									<div class="jika-title"><span>"</span>&nbsp;If</div>
@@ -171,21 +171,28 @@ if(isset($_POST['submitted']))
 									</div>
 								</div>
 							</div>
-						</div><br/>	
-						LOGIQUE has led our clients' web-marketing in all over south east Asia to successes in their business by developing websites, developing web systems, building mobile apps, improving SEO, and analyzing traffics.<br/>
+						</div><br/>	-->
+						<div class="font-16">
+							Thank you for your interest in our products. If you wish to obtain further information about our services, such as web creation, web system development, SEO, and other IT related issues, you can contact us and ask us anything by clicking the button below.
+						</div>
+						<div class="text-center">
+							<a class="btn btn-hubungi smooth" href="#anchorForm">
+								Contact Us Now
+							</a>
+						</div>
 					</div>
 					<img class="img-responsive kontak-img" src="../img/kontak-img.jpg" alt="Kontak Kami"/>
-					<div class="highlights-contact">We can contribute to your business if you think Web is the key to the success for your business.</div>
+					<div class="highlights-contact">If you’re aware that web is the key to your business success, we can help you.</div>
 					<div class="form-container">	
 					<br/>					
-						<b>Before contacting us.</b><br/>
+						<!--<b>Before contacting us.</b><br/>
 						We are consist of Japanese and Indonesian team. You can contact us either in Indonesian, English, or Japanese.<br/>
 						Many customers ask us “How much does it cost to develop a website?“ That is a very difficult question.<br/>
 						We have experienced developing a simple website with around 15,000,000 IDR, but it is hard to tell you that the website is going to bring you any results. If you compare web developers in Indonesia there are a lot of companies that are much cheaper than us. We are sure that we can deliver a value in case you are looking for a reliable web developer that leads you to the goal and success for your business.<br/>
-						Of course we also will help you as well in case you would like to develop a minimum-scaled website with limited budget.<br/><br/>
-						
-						<div class="highlights2-contact">
-							Feel free to contact LOGIQUE about website creation, social media, inquiry about web-related consultation, or designing.
+						Of course we also will help you as well in case you would like to develop a minimum-scaled website with limited budget.<br/><br/>-->
+						<div class="font-16">With more than 5 years of experience, Logique has been trusted by various companies both at national and international levels. In addition, with our professional team, we can provide high quality services for all of your projects.</div>
+						<div class="highlights2-contact" id="anchorForm">
+							Feel free to contact LOGIQUE about website creation, SEO, social media, inquiry about web-related consultation, or designing.
 						</div><br/>
 	                    <?php if(isset($msg))
 	                    {
@@ -277,35 +284,50 @@ if(isset($_POST['submitted']))
 								<a href="https://api.whatsapp.com/send?phone=081296560380" target="_blank"><i class="fa fa-whatsapp" style="color:#25D366"></i></a>
 							</div>
 						</div>
+						<br/>
+						<div class="row">
+							<div class="col-md-12 font-16">
+								If you want to get more information about various matters related to Logique, please select one of the options below:
+							</div>
+							<div class="col-md-4">
+								<a target="_blank" href="services.php" class="btn btn-hubungi btn-block">LOGIQUE Services</a>
+							</div>
+							<div class="col-md-4">
+								<a target="_blank" href="about.php" class="btn btn-hubungi btn-block">About LOGIQUE</a>
+							</div>
+							<div class="col-md-4">
+								<a target="_blank" href="/career/" class="btn btn-hubungi btn-block">LOGIQUE Career</a>
+							</div>
+						</div>
 					</div>
 					<div class="bg-grey">
-						<div class="title-bg-grey">Procedure from inquiry</span></div><br/><br/>
+						<div class="title-bg-grey">Procedure of inquiry forms</span></div><br/><br/>
 						<div class="klien-flow contact-flow row">
 							<div class="col-sm-3">
 								<div class="div-for-workflow">
 								  <div class="valign-center">
-										We will reach you within 2 working day.
+										We will reach you within 2 working days.
 								  </div>
 								</div>
 							</div>
 							<div class="col-sm-3">
 								<div class="div-for-workflow">
 									<div class="valign-center">
-										We will confirm several things with you.
+										We will do confirmation with you.
 									</div>
 								</div>
 							</div>
 							<div class="col-sm-3">
 								<div class="div-for-workflow">
 									<div class="valign-center">
-										Deeper hearing, proposal, and quotation. 
+										We will do confirmation with you.
 									</div>
 								</div>
 							</div>
 							<div class="col-sm-3">
 								<div class="div-for-workflow">
 									<div class="valign-center">
-										Contract and Start the Project.
+										We will do confirmation with you.
 									</div>
 								</div>
 							</div>
@@ -364,7 +386,22 @@ if(isset($_POST['submitted']))
 			</div>
 			
 			<?php include 'footer.php';?>
-			
+			<script>
+			$(function() {
+				$('.smooth').click(function() {
+				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+					var target = $(this.hash);
+					target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+					if (target.length) {
+					  $('html, body').animate({
+						scrollTop: target.offset().top
+					  }, 1000);
+					  return false;
+					}
+				  }
+				});
+			});
+			</script>
 		</div>
 	</body>
 </html>

@@ -25,7 +25,7 @@ ga('send', 'pageview');
 					</div>
 					<div class="col-sm-5 link-footer">
 						<div class="footer-title">Layanan Kami</div>
-						<h5><a href="/layanan.php">Jasa Pembuatan Website</a></h5>
+						<h5><a href="/layanan/mekanisme-pembuatan-website/" target="_blank">Jasa Pembuatan Website</a></h5>
 							<h6><a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pembuatan Website Career</a></h6>
 							<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Restoran </a></h6>
 							<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Klinik Gigi </a></h6>

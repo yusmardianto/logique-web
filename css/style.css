@@ -3017,7 +3017,7 @@ blockquote::before {
         padding: 40px 20px 42px;
     }
     .img-responsive {
-        height: auto!important
+        height: auto!important;object-position: 0!important;
     }
     .karir-1 {
         padding: 0 0 5px 0
