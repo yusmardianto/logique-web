@@ -190,9 +190,9 @@ if(isset($_POST['submitted']))
 						Many customers ask us “How much does it cost to develop a website?“ That is a very difficult question.<br/>
 						We have experienced developing a simple website with around 15,000,000 IDR, but it is hard to tell you that the website is going to bring you any results. If you compare web developers in Indonesia there are a lot of companies that are much cheaper than us. We are sure that we can deliver a value in case you are looking for a reliable web developer that leads you to the goal and success for your business.<br/>
 						Of course we also will help you as well in case you would like to develop a minimum-scaled website with limited budget.<br/><br/>-->
-						<div class="font-16">With more than 5 years of experience, Logique has been trusted by various companies both at national and international levels. In addition, with our professional team, we can provide high quality services for all of your projects.</div>
+						<div class="font-16">With more than 6 years of experience, LOGIQUE has been trusted by various companies both at national and international levels. In addition, with our professional team, we can provide high quality services for all of your projects.</div>
 						<div class="highlights2-contact" id="anchorForm">
-							Feel free to contact LOGIQUE about website creation, SEO, social media, inquiry about web-related consultation, or designing.
+						Feel free to contact LOGIQUE about website creation, SEO, social media, inquiry about web-related consultation, or designing.
 						</div><br/>
 	                    <?php if(isset($msg))
 	                    {
@@ -320,14 +320,14 @@ if(isset($_POST['submitted']))
 							<div class="col-sm-3">
 								<div class="div-for-workflow">
 									<div class="valign-center">
-										We will do confirmation with you.
+										Deeper hearing, proposal, and quotation.
 									</div>
 								</div>
 							</div>
 							<div class="col-sm-3">
 								<div class="div-for-workflow">
 									<div class="valign-center">
-										We will do confirmation with you.
+										Contract signing and start the project.
 									</div>
 								</div>
 							</div>
@@ -354,7 +354,8 @@ if(isset($_POST['submitted']))
 						</ul>
 					</div>-->
 						
-						<br/><br class="hidden-xs"/><div class="label-questions">Frequently asked questions:</div><br/>
+						<br/><br class="hidden-xs"/><div class="label-questions">Frequently asked questions:</div>
+						<h3 style=" line-height: 1; padding: 15px 0 20px;">Contact us and ask us anything about website creation, web system development, internet marketing, design, and other various things related in the digital world.</h3>
 						<div class="question">Is it possible for you to proceed the project communicating in English?</div>
 						<div class="answer">It is basically possible, thought there might be some difficult cases to proceed in English. Most of our staffs are able to communicate in English enough to proceed the projects. We are also open to the projects with companies in overseas.</div>
 						<br/>
