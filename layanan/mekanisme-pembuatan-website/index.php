@@ -103,6 +103,28 @@ if(isset($_POST['submitted']))
 						</div>
 					</div>
 				</div>
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10" style="padding: 0;">
+						<div class="col-md-4 text-center">
+							<div class="new-box min-h">
+								<h4>Berpengalaman selama lebih dari 6 tahun</h4>
+								<p>Berpengalaman selama lebih dari 6 tahun Logique merupakan perusahaan web developer dengan pengalaman di dunia digital selama lebih dari 6 tahun dan memiliki karyawan yang profesional di bidangnya sehingga dapat dengan mudah beradaptasi dengan berbagai proyek pekerjaan yang ada.</p>
+							</div>
+						</div>
+						<div class="col-md-4 text-center">
+							<div class="new-box min-h">
+								<h4>Dipercaya oleh perusahaan Nasional dan Internasional</h4>
+								<p>Kami telah dipercaya oleh banyak perusahaan, baik tingkat Nasional dan Internasional untuk membantu mereka dalam membuat, mengelola dan memperbaiki website atau berbagai masalah digital lainnya.</p>
+							</div>
+						</div>
+						<div class="col-md-4 text-center">
+							<div class="new-box min-h">
+								<h4>Cepat dan Fleksibel</h4>
+								<p><br>Logique Digital Indonesia mempunyai para pekerja profesional yang mampu bekerja secara cepat dan fleksibel sesuai dengan keinginan dan kebutuhan klien. Karena bagi kami klien merupakan raja dan rekan bisnis yang kami hormati.</p>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</section>
 		<section class="obstacle" style="padding-top: 20px">
@@ -348,6 +370,14 @@ if(isset($_POST['submitted']))
 							<a href="/layanan/penetration-testing/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
 						</div>
 					</div>
+				</div>
+			</div>
+		</section>
+		<section style="padding: 2em">
+			<div class="row">
+				<div class="col-md-12 text-center" style=" background: #ffcd38; padding: 1.5em; border-radius: 1em; ">
+					<h4 style="margin-top: -5px;">Ingin tahu lebih banyak mengenai berbagai proyek yang telah kami kerjakan? Silahkan kunjungi link berikut ini!</h4>
+					<a href="/portofolio.php" target="_blank" class="btn btn-logic btn-lg btn-portfolio">Portfolio Kami</a>
 				</div>
 			</div>
 		</section>

@@ -70,7 +70,11 @@ section {
 .custom-p-1 { font-family:'Open Sans', sans-serif; color: #a5a193; font-size: 62px; font-weight: 700; position: absolute; top: -25px; right: -10px}
 .custom-p-2 {letter-spacing: 2px;width: 280px; border: solid 2px #a5a193; border-left: none; padding: 6px; font-size: 16px;}
 
-
+.new-box {box-shadow: 0 2px 5px #fff6cc;padding: 10px;border: solid 1px #fdeea9;border-radius: 0 0 2em 0;margin-bottom: 1em}
+.new-box h4 {letter-spacing: 1px;word-spacing: 2px;}
+.new-box p {font-size: 14px;color: #a59e81;}
+.btn-portfolio {margin-left: 1em;vertical-align: baseline;background-color:#FFE!important;padding: 15px 80px;}
+.btn-portfolio:hover {opacity: 0.8}
 .tahap-pemesanan {
     background-image: url(../img/webdev/dua.jpg);
     background-position: left center;
