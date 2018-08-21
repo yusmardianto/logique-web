@@ -335,4 +335,5 @@ form {padding: 1em}
 footer {padding-bottom: 0}
 .m-m-10 {margin-top: -5px}
 .min-h {height: auto!important}
+.list-inline {margin-top: -12px;margin-right: 12px;}
 }

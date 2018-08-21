@@ -29,7 +29,7 @@ ga('send', 'pageview');
 							<h6><a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recruitment Website Creation</a></h6>
 							<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
 							<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dentist Website Creation</a></h6>
-						<h5><a href="/layanan/pembuatan-sistem-web/" target="_blank">Web System Development</a></h5>
+						<h5><a href="/en/services/pembuatan-sistem-web/" target="_blank">Web System Development</a></h5>
 						<h5><a href="/en/services/pembuatan-aplikasi-mobile/">Mobile App Development</a></h5>
 						<h5><a href="/en/services/penetration-testing/">WEB Security Assesment (VA Test)</a></h5>
 					</div>

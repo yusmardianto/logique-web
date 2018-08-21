@@ -76,7 +76,7 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="language-btn">
 						<ul class="list-inline">
-							<li><a href="#" style="color: #ccc;cursor: not-allowed;">EN</a></li>
+							<li><a href="/en/services/pembuatan-sistem-web/">EN</a></li>
 							<li><a href="/layanan/pembuatan-sistem-web/">ID</a></li>
 							<li class="active"><a href="#">JP</a></li>
 						</ul>

@@ -40,11 +40,11 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Dalam melakukan pembuatan website, pengembangan website, pembuatan aplikasi dan pengembangan aplikasi serta desain web. Logique sebagai perusahaan jasa konsultasi digital membuat beberapa mekanisme yang perlu diketahui. Berikut ini adalah beberapa mekanisme pembuatan website yang ada di Logique">
-	<meta name="keywords" content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
+    <meta name="description" content="As one of the top leading web developers in Indonesia, Logique has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed.">
+	<meta name="keywords" content="web systems, web developer, web design, mobile app, mobile applications, web development, web services, web development services, web security, logique digital Indonesia">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Pembuatan Sistem Web di Logique</title>
+    <title>The Making of Web Systems In Logique</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style_systemdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
@@ -76,13 +76,13 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="language-btn">
 						<ul class="list-inline">
-							<li><a href="/en/services/pembuatan-sistem-web/">EN</a></li>
-							<li class="active"><a href="#">ID</a></li>
+							<li class="active"><a href="#">EN</a></li>
+							<li><a href="/layanan/pembuatan-sistem-web/">ID</a></li>
 							<li><a href="/jp/services/pembuatan-sistem-web/">JP</a></li>
 						</ul>
 					</div>
 					<div class="col-md-offset-7 col-md-5 m-t-10em">
-						<h1 class="text-left m-new">Pembuatan Sistem Web di Logique</h1>
+						<h1 class="text-left m-new">The Making of Web Systems In Logique</h1>
 					</div>
 				</div>
 			</div>
@@ -91,7 +91,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10 text-center">
-						<h1>“Pemanfaatan teknologi terkini untuk <br class="hidden-xs"> pelayanan maksimal terhadap klien dan <br class="hidden-xs"> pelanggan.”</h1>
+						<h1>“The definitive use of the latest technology for maximum service to clients and customers.”</h1>
 					</div>
 				</div>
 			</div>
@@ -100,7 +100,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-7 col-md-5">
-						<h1 class="new5">Ringka<span class="underline">san Teknikal Logi</span>que</h1>
+						<h1 class="new5">The <span class="underline">Technical</span> Summary</h1>
 					</div>
 				</div>
 			</div>
@@ -109,20 +109,20 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-3">
-						<h3 class="new1">[Penggunaan Teknologi]</h3>
-						<p class="new4">Teknologi berkembang sangat pesat. Penggunaan teknologi dan metode yang tepat akan memberikan manfaat maksimal untuk sistem Anda. Tim Logique menjadi salah satu yang terdepan dalam mengimplementasikan teknologi atau bahasa pemograman baru dalam pengembangan web, sistem web atau aplikasi. Beberapa yang telah kami implementasikan di antaranya adalah dengan AngularJS, Node.JS, Socket.IO, dan Ionic Framework.</p>
+						<h3 class="new1">[Technology Usage]</h3>
+						<p class="new4">Technology is growing very rapidly. The proper use and methods of technology can provide maximum benefits for your system. As one of the top leading web development companies, Logique has been implementing the latest technology and programming language in web development, web systems, and mobile applications. Some of our implementations include AngularJS, Node.JS, Socket.IO, and Ionic Framework.</p>
 					</div>
 					<div class="col-md-3">
-						<h3 class="new1">[Perencanaan Infrastruktur]</h3>
-						<p class="new4">Amazon Web Service (AWS) telah dikenal luas sebagai standar global layanan cloud infrastruktur server yang mumpuni. Baik perusahaan besar ataupun startup telah menggunakan layanan AWS karena mereka mampu memberikan tingkat keamanan dan ketersediaan yang tinggi sekaligus kemampuan skalabilitas yang fleksibel. Di Indonesia, masih sedikit perusahaan yang mampu memanfaatkan layanan AWS dengan maksimal. Logique hadir dengan pengalaman yang kuat dalam merancang dan mengelola infrastruktur berbasis AWS untuk perusahaan di Indonesia.</p>
+						<h3 class="new1">[Infrastructure Planning]</h3>
+						<p class="new4">Amazon Web Service (AWS) has been widely recognized as a global standard of powerful server infrastructure cloud services. Both large and startup companies have used AWS services because they are able to provide high levels of security and availability as well as flexible scalability. In Indonesia, there are still very few companies that are able to make the most of AWS services. Logique comes with strong experience in designing and managing AWS-based infrastructure for companies in Indonesia.</p>
 					</div>
 					<div class="col-md-3">
-						<h3 class="new1">[Keamanan Sistem]</h3>
-						<p class="new4">Keamanan adalah salah satu faktor penting dalam pengembangan sistem, terlebih jika sistem tersebut melingkupi transaksi keuangan seperti e-commerce atau menyimpan data-data penting perusahaan. Logique sebagai pengembang sekaligus penyedia layanan pemeriksa keamanan khususnya terkait website atau sistem web mampu memberikan tingkat keamanan yang tinggi untuk sistem Anda.</p>
+						<h3 class="new1">[System Security]</h3>
+						<p class="new4">Security is one of the important factors in web systems development, especially if the system covers financial transactions such as e-commerce or storing important company data. As one of the most trusted developers in Indonesia, Logique provides a high level of security check services for websites and web systems.</p>
 					</div>
 					<div class="col-md-3">
-						<h3 class="new1">[Kecepatan Pengembangan]</h3>
-						<p class="new4">Kami memahami pentingnya waktu dan bisnis Anda, untuk itu kami selalu berusaha memberikan yang terbaik untuk menghasilkan sistem dalam jangka waktu yang paling efektif dan efisien tanpa mengurangi kualitas dari sistem tersebut.</p>
+						<h3 class="new1">[Development Speed]</h3>
+						<p class="new4">We understand the importance of your time and business. Therefore, we always try our best to produce the system in the most effective and efficient time without reducing the quality of the system.</p>
 					</div>
 				</div>
 			</div>
@@ -132,18 +132,18 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-4 col-md-4 text-center">
-						<div class="box-1">Studi Kasus</div>
+						<div class="box-1">CASE STUDY</div>
 					</div>
 					<div class="col-md-offset-5 col-md-7">
 						<div class="card">
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10 m-t-10">
-									<h4><b>Sistem Lelang JBA</b></h4>
-									<p>JBA adalah salah satu perusahaan lelang terbesar di Indonesia asal Jepang yang berlokasi di Meruya. Untuk JBA, kami mengembangkan sistem yang komprehensif untuk keperluan lelang yang memberikan dampak langsung terhadap bisnis mereka. Adapun cakupan sistem yang kami buat adalah dari hulu ke hilir meliputi proses registrasi, inspeksi, perencanaan dan administrasi lelang, dukungan lelang offline dan online, hingga pelaporan dan modul akunting. Pengerjaan sistem ini dilakukan secara intensif dengan komunikasi dan pendetilan terperinci dengan masing-masing user sesuai bidangnya. Sistem ini terus dikembangkan selama tiga tahun terakhir dalam bentuk sistem web dan aplikasi mobile.</p>
+									<h4><b>JBA Auction System</b></h4>
+									<p>JBA is one of the largest auction companies in Indonesia from Japan and currently located in Meruya. For JBA, we develop a comprehensive system for auction purposes that has a direct impact on their business. The system coverage that we make is from up to downstream, which includes registration, inspection, auction planning and administration, offline and online auction support, and reporting and accounting modules. Our work on this system is carried out with intensive communication and extreme details with each user according to their fields. This system continues to be developed over the past three years in the form of web systems and mobile applications.</p>
 								</div>
 							</div>
 							<div class="row">
-								<div class="box-2">Teknologi Utama: NodeJS, SocketIO, Android Native</div>
+								<div class="box-2">Main Technology: NodeJS, SocketIO, Android Native</div>
 							</div>
 						</div>
 					</div>
@@ -154,25 +154,25 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
-						<h1 class="new6"><span class="underline2">Wawancara</span><br>Klien</h1>
+						<h1 class="new6"><span class="underline2">Q&A with</span><br>our clients</h1>
 					</div>
 					<div class="col-md-6">
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="new3">Q: Bagaimana awal mula Anda memiliki kebutuhan pembuatan sistem ini?</h4>
-								<p>Klien: Pada mulanya kami melakukan banyak hal secara manual. Dengan banyaknya kendaraan yang harus kami lelang di berbagai cabang di Indonesia serta tingginya minat dari para pelanggan membuat kami kesulitan. Disitu kami mulai berpikir perlunya sebuah sistem IT yang membantu bisnis kami secara keseluruhan.</p>
+								<h4 class="new3">Q: How did you initially have the need to make this system?</h4>
+								<p>Client: At first we did a lot of things manually. With the number of vehicles that we had to auction in various branches in Indonesia, as well as the high interest of the customers, it made us difficult. There, we began to think about the need for an IT system that helps our business as a whole.</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="new3">Q: Apa perubahan yang dirasakan setelah menggunakan sistem yang dibuat oleh Logique?</h4>
-								<p>Klien: Dampaknya luar biasa besar, ketika semuanya terotomatisasi kami merasakan pekerjaan yang kami lakukan lebih efektif dan efisien. Dari sisi resiko pencatatan pada buku yang mungkin rusak atau hilang pun terhindari dengan sistem yang ada, selain itu ada nilai tambah kontribusi kepada lingkungan dengan mengurangi penggunaan kertas.</p>
+								<h4 class="new3">Q: What changes are felt after using the system created by Logique?</h4>
+								<p>Client: The impact is enormous. When everything is automated, the work we are doing becomes more effective and efficient. In terms of the risk of recording on books that may be damaged or lost, it is also avoided by the existing system. They also added a contribution to the environment by reducing paper use.</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="new3">Q: Bagaimana pengalaman kerjasama Anda dengan Logique dalam pembuatan sistem ini?</h4>
-								<p>Klien: Menurut kami tim Logique benar-benar diisi oleh orang-orang yang kompeten. Saya tidak bisa membayangkan bagaimana proses bisnis kami yang kompleks bisa dibuat menjadi sistem yang komprehensif termasuk proses-proses kecil yang tidak boleh terlewat semua bisa dipenuhi. Kami puas dengan kinerja Logique dan merekomendasikan layanan mereka ke semua pihak yang membutuhkan.</p>
+								<h4 class="new3">Q: How is the experience of your collaboration with Logique in making this system?</h4>
+								<p>Client: We think that Logique team is really filled with competent people. I cannot imagine how our complex business processes can be made into a comprehensive system including small processes that cannot be missed, all can be fulfilled. We are satisfied with Logique&#39;s performance and recommend their services to all those in need.</p>
 							</div>
 						</div>
 					</div>
@@ -185,31 +185,31 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-4 col-md-7">
 						<div class="row">
 							<div class="col-md-9">
-								<h1 class="new2">Kunci utama kesuksesan pembuatan sistem bersama Logique</h2>
+								<h1 class="new2">The main keys to success of Logique’s system creation:</h2>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="bold">Pengalaman</h4>
-								<p>Kami telah menangani lebih dari 200 proyek dari berbagai macam industri selama di Indonesia dalam hal pembuatan website, sistem web, ataupun mobile aplikasi.</p>
+								<h4 class="bold">Experience</h4>
+								<p>We have handled more than 200 projects from various industries in Indonesia, in terms of creating a website, web system, or mobile applications.</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="bold">Kecepatan</h4>
-								<p>Ketepatan waktu sangat penting bagi kami, sehingga kami selalu berusaha untuk memberikan hasil dengan cepat sehingga pekerjaan yang kami hasilkan berdampak kepada bisnis klien.</p>
+								<h4 class="bold">Acceleration</h4>
+								<p>Timeliness is very important to us. We always try to deliver results quickly so that the work we produce have an immediate impact on the client&#39;s business.</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="bold">Kualitas</h4>
-								<p>Kami mengaplikasikan metode analisa dan penerapan terbaik dalam setiap pengembangan untuk menghasilkan kualitas sistem web dan aplikasi mobile yang tinggi, baik dalam aspek fungsional, performa, dan keamanan.</p>
+								<h4 class="bold">Quality</h4>
+								<p>We apply the best analysis and application methods in every development to produce high quality web systems and mobile applications, in functional, performance, and security aspects.</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="bold">Fleksibilitas</h4>
-								<p>Jika Anda memiliki tim teknikal kami terbuka untuk berdiskusi mengenai detail implementasi, alat, atau skema yang ingin Anda gunakan pada website, sistem web, atau aplikasi mobile yang dikembangkan.</p>
+								<h4 class="bold">Flexibility</h4>
+								<p>If you have a technical team, we are open for discussion about the details of the implementation, tools, or scheme that you want to use on a website, web system, or mobile application development.</p>
 							</div>
 						</div>
 				</div>
@@ -220,20 +220,20 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-6 col-md-6">
-						<h4><b>Kami siap membantu Anda dalam pembuatan website untuk setiap kebutuhan Anda:</b></h4>
+						<h4><b>We are ready to assist you in creating web systems, and also:</b></h4>
 						<ul style="list-style-type: square;">
-							<li class="m-b-5">Membuat dan/atau mengoperasikan homepage</li>
-							<li class="m-b-5">Membangun kembali dan mengoptimalkannya untuk seluler/ponsel cerdas</li>
-							<li class="m-b-5">Mengembangkan aplikasi Android/iOS</li>
-							<li class="m-b-5">Mengoperasikan sistem manajemen in-house</li>
-							<li class="m-b-5">Mengelola infrastruktur IT</li>
-							<li class="m-b-5">Mengaudit keamanan IT, tetapi yang sudah terstruktur dari Jepang</li>
-							<li class="m-b-5">Meningkatkan awareness akan perusahaan/merek saya melalui pemasaran digital</li>
-							<li class="m-b-5">Meraih target pemasaran online dengan pemasangan iklan online</li>
-							<li class="m-b-5">Mendesain dan mencetak materi promosi perusahaan untuk kemudian didistribusikan</li>
-							<li class="m-b-5">Mengelola pengoperasian SNS (Facebook, Instagram, Youtube)</li>
-							<li class="m-b-5">Memperbarui konten dan pengoperasian situs web saya</li>
-							<li class="m-b-5">Membuat dan memasang chatbot online</li>
+							<li class="m-b-5">Make and/or operate the homepage</li>
+							<li class="m-b-5">Rebuild and optimize it for mobile/smartphones</li>
+							<li class="m-b-5">Develop an Android/iOS application</li>
+							<li class="m-b-5">Operate an in-house management system</li>
+							<li class="m-b-5">Manage IT infrastructure</li>
+							<li class="m-b-5">Audit IT security, but is already structured from Japan</li>
+							<li class="m-b-5">Increase awareness of your company/brand through digital marketing</li>
+							<li class="m-b-5">Achieve online marketing targets with online advertising</li>
+							<li class="m-b-5">Design and print company promotional materials for distribution</li>
+							<li class="m-b-5">Manage the operation of SNS (Facebook, Instagram, Twitter, Youtube)</li>
+							<li class="m-b-5">Update the content and operation of your website</li>
+							<li class="m-b-5">Create and install chatbots online for your website</li>
 						</ul>
 					</div>
 				</div>
@@ -245,7 +245,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4">
-						<h2 style="margin-top: 0">Hubungi Kami</h2>
+						<h2 style="margin-top: 0">Contact Logique</h2>
 						<a href="/" target="_blank"><img src="img/webdev/logo.png" alt="Fitur Perusahaan" class="cs-custom"></a>
 						<div class="m-t-10 text-left">LOGIQUE DIGITAL INDONESIA<br>
 						Ad Premier Building 19th Floor. <br>
@@ -257,22 +257,22 @@ if(isset($_POST['submitted']))
 							<div class="col-xs-6">
 								<div class="link-footer-webdev">
 									<a href="/index.php" target="_blank">Beranda</a>
-									<a href="/tentang-kami.php" target="_blank">Tentang Kami</a>
+									<a href="/tentang-kami.php" target="_blank">About Me</a>
 									<a href="/portofolio.php" target="_blank">Portofolio</a>
-									<a href="/layanan.php" target="_blank">Layanan</a>
+									<a href="/layanan.php" target="_blank">Services</a>
 								</div>
 							</div>
 							<div class="col-xs-6">
 								<div class="link-footer-webdev">
-									<a href="/karir.php" target="_blank">Karir</a>
+									<a href="/karir.php" target="_blank">Carreer</a>
 									<a href="/career/" target="_blank">Join LOGIQUE</a>
-									<a href="/hubungi-kami.php" target="_blank">Hubungi Kami</a>
+									<a href="/hubungi-kami.php" target="_blank">Contact Me</a>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 hidden-md hidden-lg">
-						<span><hr>Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</span>
+						<span><hr>LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.</span>
 						<div class="row">
 							<div class="col-sm-12">
 								<div class="link-footer-webdev">
@@ -293,7 +293,7 @@ if(isset($_POST['submitted']))
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
 							<div class="row">
 									<div class="form-group">
-										<input type="text" class="form-control" placeholder="Nama" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
+										<input type="text" class="form-control" placeholder="Name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 									</div>
 									<!-- <div class="form-group">
 										<input type="number" class="form-control" placeholder="No Ponsel" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
@@ -305,25 +305,25 @@ if(isset($_POST['submitted']))
 										<input type="email" class="form-control" placeholder="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
 									</div>
 									<div class="form-group">
-										<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message" style="resize:vertical;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Message" name="message" style="resize:vertical;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 									<div class="form-group">
 										<div class="g-recaptcha captcha-custom" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
 									</div>
 									<div class="form-group btn-submit text-right text-L">
 										<br>
-										<button type="submit" class="btn btn-logic btn-sm">Kirim</button>
+										<button type="submit" class="btn btn-logic btn-sm">Submit</button>
 									</div>
 							</div>
 						</form>
 					</div>
 					<div class="col-md-4 hidden-xs hidden-sm">
-						<p>Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>
+						<p>LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.</p>
 						<div class="row">
 							<div class="col-sm-12">
 								<div class="link-footer-webdev" style="padding-left:30px">
 									<br/>
-									<div style="margin-bottom:8px"><b>Produk LOGIQUE</b></div>
+									<div style="margin-bottom:8px"><b>LOGIQUE Product</b></div>
 									<a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
 									<a href="/produk/nippo.php" target="_blank">Nippo</a>
 									<a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
