@@ -480,6 +480,12 @@
 									<br><div class="grey-clr">Mobile Optimized, Multi-bahasa, CMS, Bank</div><br><br><br>
 								</div>
 							</div>
+							<div class="col-sm-4">
+								<a href="http://warasahalal.com/" target="_blank">
+									<img src="/img/portfolio/warasa.png" class="img-responsive center-block">
+									WARASA
+								</a>
+							</div>
 						</div>
 						<br/>
 						<span class="characteristic-title">Pengalaman kami dalam pengembangan sistem web</span>
@@ -801,11 +807,16 @@
 								Product Design (Ikeda Toka)<br><br>
 							</div>
 							<div class="col-sm-4">
-								<img src="/img/portfolio/minum-warasa-1.jpg" class="img-responsive center-block">
+								<img src="/img/portfolio/minum-warasa-1.jpg" class="same-height img-responsive center-block">
 								Product Design (Ikeda Toka)<br><br>
 							</div>
 							<div class="col-sm-4">
-								<img src="/img/portfolio/video-jfe.jpg" class="img-responsive center-block">
+								<!--<img src="/img/portfolio/video-jfe.jpg" class="img-responsive center-block">
+								JFE Shoji Video<br><br>-->
+								<video class="vd-log same-height" controls>
+								   <source src="/img/portfolio/JFE-video.webm" type="video/webm" />
+								   <source src="/img/portfolio/JFE-video.mp4" type="video/mp4" />
+								</video>	
 								JFE Shoji Video<br><br>
 							</div>
 						</div>
@@ -857,7 +868,10 @@
 			</div>
 			
 			<?php include 'footer.php';?>
-			
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
+			<script>
+				$('.same-height').matchHeight();
+			</script>
 		</div>
 	</body>
 </html>

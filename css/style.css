@@ -3063,6 +3063,17 @@ blockquote::before {
 .link-footer .medsos-new .fa-twitter:hover{color:#0084ff}
 .link-footer .medsos-new .fa-instagram:hover{color:#e4405f}
 .link-footer .medsos-new .fa-linkedin-square:hover{color:#0077B5}
+video.vd-log{
+    background: none;
+    position: relative;
+    top: unset;
+    bottom: unset;
+    left: unset;
+    transform: unset;
+    width: 100%;
+	margin-bottom: 5px;
+	z-index: 1!important;
+}
 
 .juggling {
     -webkit-animation: juggle 1s infinite; /* Chrome, Safari, Opera */
