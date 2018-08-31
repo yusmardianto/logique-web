@@ -482,6 +482,21 @@
 									<img src="/img/portfolio/warasa.png" class="img-responsive center-block">
 									WARASA
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEBリニューアル制作 (デザイン| コーディング | AWS)<br>
+									<br><div class="grey-clr">モバイル最適化, 多言語, 食品</div><br><br><br>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<a href="https://opuspark.co.id/" target="_blank">
+									<img src="/img/portfolio/opus-park.png" class="img-responsive center-block">
+									Opus Park
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEBリニューアル制作 (PDCA | SEO | AWS)<br>
+									<br><div class="grey-clr">モバイル最適化, O2O, 不動産</div><br><br><br>
+								</div>
 							</div>
 						</div>
 						<br/>

@@ -484,6 +484,21 @@
 									<img src="/img/portfolio/warasa.png" class="img-responsive center-block">
 									WARASA
 								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Development (Design | Coding | AWS)<br>
+									<br><div class="grey-clr">Mobile Optimized, Multi-language, Food</div><br><br><br>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<a href="https://opuspark.co.id/" target="_blank">
+									<img src="/img/portfolio/opus-park.png" class="img-responsive center-block">
+									Opus Park
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Operation (PDCA | SEO | AWS)<br>
+									<br><div class="grey-clr">Mobile Optimized, O2O, Property, Real estate</div><br><br><br>
+								</div>
 							</div>
 						</div>
 						<br/>
