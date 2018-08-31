@@ -813,11 +813,24 @@
 							<div class="col-sm-4">
 								<!--<img src="/img/portfolio/video-jfe.jpg" class="img-responsive center-block">
 								JFE Shoji Video<br><br>-->
-								<video class="vd-log same-height" controls>
+								<video class="vd-log same-height" poster="/img/portfolio/video-jfe.jpg" controls>
 								   <source src="/img/portfolio/JFE-video.webm" type="video/webm" />
 								   <source src="/img/portfolio/JFE-video.mp4" type="video/mp4" />
 								</video>	
 								JFE Shoji Video<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/caroline-1.jpg" class="img-responsive center-block" style="height: 224px"> 
+								Caroline Flyer<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/sunlife-book.jpg" class="img-responsive center-block" style="height: 224px"> 
+								SunLife Notebook 1<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/sunlife-book2.jpg" class="img-responsive center-block" style="height: 224px"> 
+								SunLife Notebook 2<br><br>
 							</div>
 						</div>
 						<br/>
