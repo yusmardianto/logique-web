@@ -21,7 +21,7 @@
 	
     <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
+	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     
     </head>
 	<body>
@@ -576,10 +576,62 @@
 					<div class="form-container">
 						<br/>
 						<div class="row">
-							<div class="col-md-12 text-left" style="padding-bottom: 8px">
+							<div class="col-md-12 text-left">
 								<p class="characteristic-title">Kami gesit dan fleksibel dalam mengembangkan web, sistem, dan aplikasi mobile.</p><br>
 								<p>Kecepatan adalah kunci terpenting dalam menentukan berhasil atau gagalnya bisnis di zaman modern ini. Sementara itu, laju perubahan tren IT dan WEB sangat cepat dan semakin cepat dari tahun ke tahun. Supaya tidak tertinggal, kita sangat membutuhkan kelincahan dan fleksibilitas.</p><br>
 								<p>Itulah sebabnya, agar sukses mempromosikan bisnis Anda, kami mengembangkan web, sistem, dan aplikasi seluler untuk Anda dengan kelincahan dan fleksibilitas. Kami mewujudkan sesuatu dengan cepat dan menerima perubahan dengan fleksibel. Karena di LOGIQUE, klien dan anggota proyek kami adalah satu tim.</p><br>
+							</div>
+						</div>
+						<style>
+							.testimony-client .carousel p{margin-bottom:10px}
+							.testimony-client blockquote{min-height:unset;}
+						</style>
+						<div class="row testimony-client">
+							<div class="col-md-12" style="padding-bottom: 8px">
+								<br/>
+								<div class="title-workflow" style="margin-bottom:0">Testimoni Klien</div>
+								<div id="myCarousel" class="carousel slide carousel-pesan-career">
+								  <ol class="carousel-indicators">
+									<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+									<li data-target="#myCarousel" data-slide-to="1"></li>
+									<li data-target="#myCarousel" data-slide-to="2"></li>
+									<li data-target="#myCarousel" data-slide-to="3"></li>
+								  </ol>
+								  <div class="carousel-inner">
+									<div class="item active">
+									  <blockquote>
+										<p>Sebagai salah satu perusahaan asuransi jiwa dengan pertumbuhan paling pesat, kami memiliki strategi untuk melayani nasabah melalui layanan digital. LOGIQUE berperan sebagai mitra strategis kami dalam UI/UX aplikasi layanan nasabah My Sun Life Indonesia. Sebagai hasilnya, My Sun Life Indonesia menjadi salah satu aplikasi dengan rating tertinggi di industri asuransi. Kami sering memberikan tugas yang harus segera diselesaikan, tetapi mereka selalu melakukan yang terbaik dan tidak pernah meruntuhkan kepercayaan kami. Terima kasih atas kerjasamanya selalu.</p>
+										<small>Mr. Jodie Pratomo, Head of Digital Experience of Sun Life Financial</small>
+									 </blockquote>
+									</div>
+									<div class="item">
+									 <blockquote>
+										<p>Logique has a firm grasp of its clients' requirements and needs. Its approach to delivering its service is collaborative, and thus resulting to a shared ownership of the product it is helping to develop.</p>
+										<small>Armiliza Cruz Magno , JAIF</small>
+									 </blockquote>
+									</div>
+									<div class="item">
+									  <blockquote>
+										<p>We have been cooperating with Logique, who developed our website of &quot;the 60th Anniversary of Japan-Indonesia Diplomatic Relation&quot; and who has been maintaining the site for us. Logique is meeting our requirements which are detailed and complex. Furthermore, Logique is giving us comprehensive support in the fields of website development as well as SNS operation and digital marketing. Logique’s punctual, flexible and precise work always helps us to fulfil our mission.</p>
+										<small>Steering Committee, The Commemorative Events of the 60th Anniversary of Japan – Indonesia Diplomatic Relations</small>
+									 </blockquote>
+									</div>
+									<div class="item">
+									  <blockquote>
+										<p>Bisnis kami adalah pelelangan mobil/motor. LOGIQUE telah membantu kami mengembangkan beragam sistem yang tidak bisa diatasi dengan produk sistem paket yang ada dan perlu disesuaikan secara khusus agar sesuai dengan proses bisnis kami. Kami menghargai bagaimana Logique telah bekerja dengan kami secara fleksibel dan selalu stabil, bahkan dengan permintaan kami yang cukup sulit, seperti kekuatan keamanan.</p>
+										<small>Mr. Kazuhiro Shioyama, Presiden Direktur, PT. JBA Indonesia</small>
+									 </blockquote>
+									</div>
+								  </div>
+								  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+									<span class="glyphicon glyphicon-chevron-left"></span>
+									<span class="sr-only">Previous</span>
+								  </a>
+								  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+									<span class="glyphicon glyphicon-chevron-right"></span>
+									<span class="sr-only">Next</span>
+								  </a>
+								</div>
 							</div>
 						</div>
 					</div>

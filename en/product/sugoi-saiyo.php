@@ -50,7 +50,7 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
     <link href="css/style_sugoisaiyo.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
-	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
+	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

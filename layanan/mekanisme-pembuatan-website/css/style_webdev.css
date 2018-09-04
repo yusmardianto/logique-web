@@ -22,13 +22,15 @@ header h1 {
 	letter-spacing: 0;
 }
 
-.language-btn {position: absolute;right: 1.5em;top: 1.5em}
-.list-inline>li.active {border: solid 2px #ebc033;border-radius: 1em;padding: 3px 6px;}
+.language-btn {position: absolute;right: 0;top: -65px}
+.language-btn .list-inline>li.active {border: solid 2px #ebc033;border-radius: 1em;}
+.language-btn .list-inline>li{width: 40px;height: 25px;border: solid 2px #777;border-radius: 1em;}
 .list-inline>li a {color: #fff}
-.m-t-10em{margin-top: 10em;}
+.subtitle-header{color:#fff;text-align:right;font-size:16px}
+.m-t-7em{margin-top: 7em;}
 .m-b-5{margin-bottom: 5px;}
 .c-logique {color: rgb(255, 205, 56);text-shadow: 0 2px 4px #333;}
-.underline {border-bottom: solid 8px #ebc033;padding-bottom: 20px;}
+.underline {border-bottom: solid 8px #ebc033;padding-bottom: 20px;display:inline-block}
 .about {
 	background-color: #fff;
 }
@@ -68,7 +70,11 @@ section {
 .custom-p-1 { font-family:'Open Sans', sans-serif; color: #a5a193; font-size: 62px; font-weight: 700; position: absolute; top: -25px; right: -10px}
 .custom-p-2 {letter-spacing: 2px;width: 280px; border: solid 2px #a5a193; border-left: none; padding: 6px; font-size: 16px;}
 
-
+.new-box {box-shadow: 0 2px 5px #fff6cc;padding: 10px;border: solid 1px #fdeea9;border-radius: 0 0 2em 0;margin-bottom: 1em}
+.new-box h4 {letter-spacing: 1px;word-spacing: 2px;}
+.new-box p {font-size: 14px;color: #a59e81;}
+.btn-portfolio {margin-left: 1em;vertical-align: baseline;background-color:#FFE!important;padding: 15px 80px;}
+.btn-portfolio:hover {opacity: 0.8}
 .tahap-pemesanan {
     background-image: url(../img/webdev/dua.jpg);
     background-position: left center;
@@ -139,7 +145,7 @@ section {
 .m-t-2em {margin-top: 2em}
 .custom-3{font-size: 19px;font-weight: 700;}
 .layanan{background-color: #fff7da;margin-top: 2.5em;}
-.btn-logic {border-radius: 0!important;background-color: #ffcd38}
+.btn-logic {border-radius:5px;background-color: #ffcd38;color:#000;margin-top: 15px;}
 .tahap-pemesanan-list {
     background: url(../img/webdev/empat.jpg) no-repeat center;
     background-size: contain;
@@ -209,8 +215,12 @@ footer p:before {
     width: 100px;
 }
 .logo-header{width: 220px;background: #000;padding: 20px;position: absolute;top: -90px;}
+.link-footer-webdev a{display:block;margin-bottom:8px;text-decoration:underline!important}
 
 @media (max-width: 767px){
+.about h1{font-size: 22px;}
+footer h2{font-size:25px}
+.logo-header{left: 0}
 .no-10{right: -10px!important;font-size: 50px!important;top: -18px!important;}
 .card3, .card2{padding: 10px 0;}
 .title-custom{right: 0;}
@@ -220,10 +230,10 @@ footer p:before {
 .custom-p-2{width: auto;}
 .obstacle p {padding: 0;}
 header{height:100vh}
-header h1{font-size: 50px;}
+header h1{font-size: 40px;}
 .custom-1{padding: 0 15px;}
 section {padding-top: 25px;padding-bottom: 25px;}
-.underline{border: none}
+.underline{border: none;display: inline;}
 .border-l{border: none}
 .layanan{margin-top: 0}
 .tahap-pemesanan-list{background-image: none;}
@@ -242,4 +252,8 @@ form {padding: 1em}
 footer {padding-bottom: 0}
 .m-m-10 {margin-top: -5px}
 .min-h {height: auto!important}
+}
+
+@media (max-width: 360px){
+	.logo-header {width: 165px;}
 }

@@ -56,7 +56,7 @@ if(isset($_POST['submitted']))
 	
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
+	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     
     </head>
 	<body>
@@ -141,7 +141,7 @@ if(isset($_POST['submitted']))
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">お問い合わせ</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">WEBシステム開発、ホームページ制作、インターネットマーケティング、モバイル開発から印刷物のデザインまでお気軽にご相談ください。
+							<h1 class="tagline">WEBシステム開発、ホームページ制作、インターネットマーケティング、モバイルアプリ開発から印刷物のデザインまでお気軽にご相談ください。
 							</h1>
 						</div>
 					</div>
@@ -175,26 +175,30 @@ if(isset($_POST['submitted']))
 									<div class="contact-copies">
 										社内管理システムが必要、パッケージ導入ではなく、要件にあったシステムを構築したい.
 									</div>
+									<div class="contact-copies">
+										インドネシアの展示会で配布する販促物、放映する動画の制作が必要だが業者を知らない。
+									</div>
 								</div>
 							</div>
 						</div><br/>	
 						
-						LOGIQUEはインドネシア、他の東南アジアの国でクライアントのWEBマーケティングをWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などで成功に導いてきました。<br/>
+						LOGIQUEはインドネシアをはじめとした東南アジアの国々でクライアントのWEBマーケティングを成功に導いてきました。WEBサイト制作（ホームページ制作）、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析、デジタル広告運用などデジタルマーケティング関連ソリューションをワンストップで対応可能ですので、まずはお気軽にご相談ください。<br/>
 					</div>
-					<img class="img-responsive" src="../img/kontak-img.jpg" alt="Kontak Kami"/>
+					<img class="img-responsive kontak-img" src="../img/kontak-img.jpg" alt="Kontak Kami"/>
 					<div class="highlights-contact">
 						インドネシアにてWEBやIT関連で課題があれば、LOGIQUEにご相談ください。
 					</div>
 					<div class="form-container">	
 					<br/>
-						<b>お問い合わせ前に。</b><br/>
-						弊社は日本人とインドネシア人の混成チームです。インドネシア語、英語、日本語のいずれでもお気軽にお問合せください。<br/>
-						WEB制作の費用は？とご質問いただくことが多くあります。難しい質問です。<br/>
-						簡易に制作する場合ですと15,000,000 IDR で制作した実績もありますが、これで本当に効果のでる良いWEBサイトが作れるかというと難しいところです。値段だけで比較するともっと安い制作会社があります。なかなかインドネシアの現地プロダクションでは実施が難しいケース、ビジネスの成功に貢献できるようなWEBを作りたい場合、信頼できる制作会社に任せたい、一緒に成功に向けて協業できる会社と組みたい、などにおいては弊社にご相談ください。LOGIQUEにしか出せないValueが出せると確信しています。<br/>
-						もちろん限られた予算でまずは最低限のWEBサイトを作りたいというご要望にもお応えいたします。<br/><br/>
+						<b>弊社は日本人とインドネシア人の混成チームです。日本人オーナーがジャカルタで設立した会社です。</b><br/>
+						インドネシア語、英語、日本語のいずれでもお気軽にお問合せください。<br/>
+						どのようなご質問でもご回答いたしますが、WEB制作やシステム開発の概算費用は？とご質問いただくことが多くありますので、こちらだけ事前にこちらでご説明いたします。<br/>
+						簡易にWEBを制作する場合ですと15,000,000 IDR で制作した実績もあります。また1ページだけキャンペーンページを制作する場合などですとこれよりも低い価格になることがありますし、広告用バナーを数点作る、のような場合はずっと安くなります。ですので金額規模が小さくても問題なくご相談いただければと思います。<br/>
+						ただし、15,000,000 IDR のWEBサイトで本当に効果のでる良いホームページが作れるかというと難しいところです。期待効果とご予算をじっくりとご相談の上、適切なご提案ができればと思います。<br/>
+						値段だけで比較するともっと安い制作会社がありますので, なかなかインドネシアの現地プロダクションでは実施が難しいケースや、ビジネスの成功に貢献できるようなWEBを作りたい場合、信頼できる制作会社に任せたい、一緒に成功に向けて協業できる会社と組みたい、などの想いをお持ちの場合は当社がベストパートナーだと考えております。<br/><br/>
 						
 						<div class="highlights2-contact">
-						ホームページ制作やソーシャルメディア等、ウェブ関連のご相談事または印刷物デザインに関する事も、お気軽にロギクまでお問い合わせください。
+						ホームページ制作やインドネシア語でのSEO対策、SNS運用、システム開発、WEBシステム関連のご相談事または印刷物デザインに関する事も、お気軽にロギクまでお問い合わせください。
 						</div>
 						<br/>
 	                    <?php if(isset($msg))
@@ -284,6 +288,7 @@ if(isset($_POST['submitted']))
 								<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="color:#0084ff"></i></a>
 								<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="color:#e4405f"></i></a>
 								<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="color:#0077B5"></i></a>
+								<a href="https://api.whatsapp.com/send?phone=081296560380" target="_blank"><i class="fa fa-whatsapp" style="color:#25D366"></i></a>
 							</div>
 						</div>
 					</div>

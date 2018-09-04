@@ -31,7 +31,7 @@
 	
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
+	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     
     </head>
 	<body class="career-page">
@@ -347,12 +347,56 @@
 				<div><h2>LOWONGAN KERJA DI LOGIQUE</h2></div>
 
 				<div>
-					<p>Saat ini, LOGIQUE sedang membuka lowongan kerja untuk Quality Assurance, Web Developer, Technical Consultant, Mobile App Developer, Content Writer, Project Manager, Designer, dan Asisten HR/GA.</p>
+					<p>Saat ini, LOGIQUE sedang membuka lowongan kerja untuk Quality Assurance, Front End, Web Developer, Technical Consultant, Mobile App Developer, Content Writer, Project Manager, Designer, dan Asisten HR/GA.</p>
 				</div>
 				
 			</div>
 			<h3 class="jobs-subtitle">LOWONGAN FULL-TIME</h3>
 			<hr class="separator-career" style="margin-top: 0;border-style: solid;"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
+							<img alt="Quality Assurance" src="../img/frontend.png" class="img-responsive"/>
+							<h4>Lowongan</h4>
+							<h5>Front End</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Berlatar belakang pendidikan dari Sistem Informasi, Teknologi Informasi atau sejenisnya.</li>
+							<li>Berpengalaman dalam pembuatan WEB/Sistem</li>
+							<li>Required Skill: HTML, CSS, ReactJS, NodeJS, Angular, Ionic, JQuery</li>
+							<li>Mengenal proses pengembangan website dengan baik.</li>
+							<li>Dapat belajar secara cepat dan mandiri.</li>
+							<li>Mempunyai minat yang besar terhadap bisnis Internet dan Web.</li>
+							<li>Mampu bekerja sebagai tim.</li>
+							<li>Berpendidikan minimal D3 dan berpengalaman minimal 2 tahun di bidang IT atau programmer</li>
+						</ul><br/>
+						
+						<b>Job Description:</b><br/>
+						<ul class="joinus-ul">
+							<li>Memanfaatkan HTML, CSS, Javascript, atau bahasa pemrograman terkait tampilan lainnya untuk mengembangkan antarmuka pengguna yang efektif pada website dan aplikasi.</li>
+							<li>Bekerja sama dan berkolaborasi dengan tim developer dan desainer untuk membuat, memperbarui, atau memperbaiki UI/UX website dan aplikasi.</li>
+							<li>Memberikan kualitas hasil terbaik dan tepat waktu sesuai dengan teknologi UI/UX terkini dan/atau yang sesuai dengan kebutuhan proyek.</li>
+							<li>Memastikan kompatibilitas browser atau ukuran layar pada halaman-halaman website dan aplikasi yang dihasilkan.</li>
+							<li>Membuat kode yang terstruktur dan dapat digunakan kembali untuk kemudahan pengembangan atau perubahan di masa depan</li>
+							<li>Memonitor dan mengoptimalkan performa website atau aplikasi dari sisi front-end.</li>
+							<li>Berkomunikasi langsung dengan klien terkait UI/UX jika diperlukan.</li>
+						</ul>
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+							Apply for Front End
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
 			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">

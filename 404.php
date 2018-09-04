@@ -15,7 +15,7 @@
 	
     <link href="/css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
+	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     
     </head>
 	<body>

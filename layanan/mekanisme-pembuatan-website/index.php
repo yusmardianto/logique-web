@@ -49,7 +49,7 @@ if(isset($_POST['submitted']))
     <link href="css/style_webdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
-	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
+	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -74,15 +74,20 @@ if(isset($_POST['submitted']))
 					</div>
 				</div>
 				<div class="row">
-					<!-- <div class="language-btn">
-						<ul class="list-inline">
-							<li><a href="#">EN</a></li>
-							<li class="active"><a href="#">ID</a></li>
-							<li><a href="#">JP</a></li>
-						</ul>
-					</div> -->
-					<div class="col-md-offset-3 col-md-7 m-t-10em">
+					<div style="position:relative">
+						<div class="language-btn">
+							<ul class="list-inline">
+								<li class="active"><a href="#">ID</a></li>
+								<li><a href="/en/services/mekanisme-pembuatan-website">EN</a></li>
+								<li><a href="/jp/services/mekanisme-pembuatan-website">JP</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-offset-3 col-md-7 m-t-7em">
 						<h1 class="text-right">Mekanisme Pembuatan Websi<span class="underline">te di <span class="c-logique">Logique</span></span></h1>
+						<div class="subtitle-header">
+							Dengan pengalaman selama lebih dari 5 tahun dan telah bekerja sama dengan perusahaan baik di tingkat nasional maupun internasional, dan didukung dengan sumber daya yang profesional di bidangnya, Logique selalu siap memberikan solusi terbaik bagi pembuatan dan pengembangan website Anda
+						</div>
 					</div>
 				</div>
 			</div>
@@ -95,6 +100,28 @@ if(isset($_POST['submitted']))
 							<h1><b>Mengapa harus memilih LOGIQUE?</b></h1>
 							<br>
 							<p class="p-b-20">Karena Logique telah mempunyai pengalaman serta kualitas yang Anda perlukan dalam pengembangan sistem web untuk kebutuhan bisnis digital saat ini. Dengan pengalaman serta kualitas kami, dapat menjadi suatu terobosan bagi bisnis Anda.</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10" style="padding: 0;">
+						<div class="col-md-4 text-center">
+							<div class="new-box min-h">
+								<h4>Berpengalaman selama lebih dari 6 tahun</h4>
+								<p>Berpengalaman selama lebih dari 6 tahun Logique merupakan perusahaan web developer dengan pengalaman di dunia digital selama lebih dari 6 tahun dan memiliki karyawan yang profesional di bidangnya sehingga dapat dengan mudah beradaptasi dengan berbagai proyek pekerjaan yang ada.</p>
+							</div>
+						</div>
+						<div class="col-md-4 text-center">
+							<div class="new-box min-h">
+								<h4>Dipercaya oleh perusahaan Nasional dan Internasional</h4>
+								<p>Kami telah dipercaya oleh banyak perusahaan, baik tingkat Nasional dan Internasional untuk membantu mereka dalam membuat, mengelola dan memperbaiki website atau berbagai masalah digital lainnya.</p>
+							</div>
+						</div>
+						<div class="col-md-4 text-center">
+							<div class="new-box min-h">
+								<h4>Cepat dan Fleksibel</h4>
+								<p><br>Logique Digital Indonesia mempunyai para pekerja profesional yang mampu bekerja secara cepat dan fleksibel sesuai dengan keinginan dan kebutuhan klien. Karena bagi kami klien merupakan raja dan rekan bisnis yang kami hormati.</p>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -325,7 +352,7 @@ if(isset($_POST['submitted']))
 						<h2 class="custom-3">Pengembangan Aplikasi Mobile</h2>
 						<p class="min-h">Kami melayani pengembangan aplikasi Android/ iOS yang sesuai dengan pasar Indonesia. Tidak hanya merancang atau mengimplementasikan teknologi baru, tetapi kami juga mengoptimalkan UI dan UX, desain, pengembangan aplikasi, hingga membantu Anda mendaftarkan aplikasi ke App Store / Google Play. Sebuah layanan yang komprehensif untuk Anda. </p>
 						<div>
-							<a href="" class="btn btn-default btn-logic btn-md">Info lebih lanjut</a>
+							<a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -333,16 +360,24 @@ if(isset($_POST['submitted']))
 						<h2 class="custom-3">Website Karir</h2>
 						<p class="min-h">Sekarang semakin sulit bagi perusahaan untuk mendapatkan karyawan ideal yang sesuai dan cocok dengan bisnis yang dijalankan. Halaman karir website perusahaan Anda adalah salah satu faktor penting untuk kesuksesan perekrutan. Halaman ini dapat menjadi kunci untuk memberitahu pengunjung tentang perusahaan Anda, suasana kerja, keuntungan bekerja diperusahaan Anda, dan karyawan yang Anda cari dengan jelas misalnya menggunakan video interview. Kami memiliki banyak pengalaman dalam pembuatan website yang terkait dengan rekrutmen atau halaman karir. </p>
 						<div>
-							<a href="" class="btn btn-default btn-logic btn-md">Info lebih lanjut</a>
+							<a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<h2 class="custom-3">Pengetesan Keamanan Website (VA Test)</h2>
 						<p class="min-h">Kami dapat melakukan pengetesan dan melaporkan temuan-temuan kami terkait celah keamanan website Anda. Dengan mengetahui celah keamanan tersebut Anda dapat melakukan tindakan pencegahan dari tindak kejahatan digital seperti injeksi SQL, cross-site scripting, session jacking, dan lain-lain. Tim ahli kami akan melakukan tes dengan menggunakan alat-alat pemindaian serta menganalisa temuan-temuan untuk dituangkan ke dalam laporan. Layanan ini kami sediakan mulai dari 10,000,000 Rupiah.</p>
 						<div>
-							<a href="" class="btn btn-default btn-logic btn-md">Info lebih lanjut</a>
+							<a href="/layanan/penetration-testing/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
 						</div>
 					</div>
+				</div>
+			</div>
+		</section>
+		<section style="padding: 2em">
+			<div class="row">
+				<div class="col-md-12 text-center" style=" background: #ffcd38; padding: 1.5em; border-radius: 1em; ">
+					<h4 style="margin-top: -5px;">Ingin tahu lebih banyak mengenai berbagai proyek yang telah kami kerjakan? Silahkan kunjungi link berikut ini!</h4>
+					<a href="/portofolio.php" target="_blank" class="btn btn-logic btn-lg btn-portfolio">Portfolio Kami</a>
 				</div>
 			</div>
 		</section>
@@ -353,7 +388,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-6 col-md-6">
 						<h4><b>Kami siap membantu Anda dalam pembuatan website untuk setiap kebutuhan Anda:</b></h4>
 						<ul>
-							<li class="m-b-5">Membuat dan/atau mengoperasikan homepage</li>
+							<li class="m-b-5">Membuat dan/atau mengoperasikan website</li>
 							<li class="m-b-5">Membangun kembali dan mengoptimalkannya untuk seluler/ponsel cerdas</li>
 							<li class="m-b-5">Mengembangkan aplikasi Android/iOS</li>
 							<li class="m-b-5">Mengoperasikan sistem manajemen in-house</li>
@@ -383,9 +418,38 @@ if(isset($_POST['submitted']))
 						Jalan Tb. Simatupang No. 5 Ragunan, <br>
 						Ps. Minggu, Jakarta Selatan, <br>Indonesia 12550</div>
 						<div>021) 22708935 / 36 <br>081296560380</div>
+						<br/>
+						<div class="row">
+							<div class="col-xs-6">
+								<div class="link-footer-webdev">
+									<a href="/index.php" target="_blank">Beranda</a>
+									<a href="/tentang-kami.php" target="_blank">Tentang Kami</a>
+									<a href="/portofolio.php" target="_blank">Portofolio</a>
+									<a href="/layanan.php" target="_blank">Layanan</a>
+								</div>
+							</div>
+							<div class="col-xs-6">
+								<div class="link-footer-webdev">
+									<a href="/karir.php" target="_blank">Karir</a>
+									<a href="/career/" target="_blank">Join LOGIQUE</a>
+									<a href="/hubungi-kami.php" target="_blank">Hubungi Kami</a>
+								</div>
+							</div>
+						</div>
 					</div>
 					<div class="col-md-4 hidden-md hidden-lg">
 						<span><hr>Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</span>
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="link-footer-webdev">
+									<br/>
+									<div style="margin-bottom:8px"><b>Produk LOGIQUE</b></div>
+									<a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
+									<a href="/produk/nippo.php" target="_blank">Nippo</a>
+									<a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
+								</div>
+							</div>
+						</div>
 					</div>
 					<div class="col-md-4">
 						<?php if(isset($msg)) { echo $msg; } ?>
@@ -397,17 +461,11 @@ if(isset($_POST['submitted']))
 									<div class="form-group">
 										<input type="text" class="form-control" placeholder="Nama" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 									</div>
-									<!-- <div class="form-group">
-										<input type="number" class="form-control" placeholder="No Ponsel" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
-									</div>
-									<div class="form-group">
-										<input type="text" class="form-control" placeholder="Perusahaan" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
-									</div> -->
 									<div class="form-group">
 										<input type="email" class="form-control" placeholder="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
 									</div>
 									<div class="form-group">
-										<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										<textarea style="resize:none" name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 									<div class="form-group">
 										<div class="g-recaptcha captcha-custom" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
@@ -421,6 +479,17 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-4 hidden-xs hidden-sm">
 						<p>Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="link-footer-webdev" style="padding-left:30px">
+									<br/>
+									<div style="margin-bottom:8px"><b>Produk LOGIQUE</b></div>
+									<a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
+									<a href="/produk/nippo.php" target="_blank">Nippo</a>
+									<a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>

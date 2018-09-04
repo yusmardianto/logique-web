@@ -21,7 +21,7 @@
 	
     <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
+	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     
     </head>
 	<body>
@@ -453,7 +453,56 @@
 									<br><div class="grey-clr">Optimisasi Mobile, Keamanan WEB,Public,Perjalanan</div><br><br><br>
 								</div>
 							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/arf.png" class="img-responsive center-block">
+								ASEAN (ARF)
+								<div class="addition-desc text-left">
+									<br>WEB Development (Design | Coding | CMS)<br>
+									<br><div class="grey-clr">Mobile Optimized, Wordpress, Public</div><br><br><br>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/sentraya.png" class="img-responsive center-block">
+								Menara Sentraya
+								<div class="addition-desc text-left">
+									<br>WEB Development (Design | Coding | CMS)<br>
+									<br><div class="grey-clr">Mobile Optimized, CMS, PHP, RealEstate, Property</div><br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.jtrustbank.co.id/" target="_blank">
+									<img src="/img/portfolio/jtrust-bank-new.png" class="img-responsive center-block">
+									JTrust Bank (Re-design)
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Re-Design (Design | Coding | Integrasi CMS)<br>
+									<br><div class="grey-clr">Mobile Optimized, Multi-bahasa, CMS, Bank</div><br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://warasahalal.com/" target="_blank">
+									<img src="/img/portfolio/warasa.png" class="img-responsive center-block">
+									WARASA
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Development (Design | Coding | AWS)<br>
+									<br><div class="grey-clr">Mobile Optimized, Multi-bahasa, Food</div><br><br><br>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<a href="https://opuspark.co.id/" target="_blank">
+									<img src="/img/portfolio/opus-park.png" class="img-responsive center-block">
+									Opus Park
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Operation (PDCA | SEO | AWS)<br>
+									<br><div class="grey-clr">Mobile Optimized, O2O, Properti</div><br><br><br>
+								</div>
+							</div>
 						</div>
+						<br/>
 						<span class="characteristic-title">Pengalaman kami dalam pengembangan sistem web</span>
 						<br/><br/>
 						<ul class="circle-list">
@@ -773,12 +822,30 @@
 								Product Design (Ikeda Toka)<br><br>
 							</div>
 							<div class="col-sm-4">
-								<img src="/img/portfolio/minum-warasa-1.jpg" class="img-responsive center-block">
+								<img src="/img/portfolio/minum-warasa-1.jpg" class="same-height img-responsive center-block">
 								Product Design (Ikeda Toka)<br><br>
 							</div>
 							<div class="col-sm-4">
-								<img src="/img/portfolio/video-jfe.jpg" class="img-responsive center-block">
+								<!--<img src="/img/portfolio/video-jfe.jpg" class="img-responsive center-block">
+								JFE Shoji Video<br><br>-->
+								<video class="vd-log same-height" poster="/img/portfolio/video-jfe.jpg" controls>
+								   <source src="/img/portfolio/JFE-video.webm" type="video/webm" />
+								   <source src="/img/portfolio/JFE-video.mp4" type="video/mp4" />
+								</video>	
 								JFE Shoji Video<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/caroline-1.jpg" class="img-responsive center-block" style="height: 224px"> 
+								Caroline Flyer<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/sunlife-book.jpg" class="img-responsive center-block" style="height: 224px"> 
+								SunLife Notebook 1<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/sunlife-book2.jpg" class="img-responsive center-block" style="height: 224px"> 
+								SunLife Notebook 2<br><br>
 							</div>
 						</div>
 						<br/>
@@ -814,14 +881,25 @@
 								<img src="/img/portfolio/otomartfb.png" class="img-responsive center-block">
 								OTOmart<br><br>
 							</div>
-
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/opus-park-facebook.png" class="img-responsive center-block">
+								Opus Park (Facebook)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/opus-park-ig.png" class="img-responsive center-block">
+								Opus Park (Instagram)<br><br>
+							</div>
 						</div> 
 					</div>
 				</div>
 			</div>
 			
 			<?php include 'footer.php';?>
-			
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
+			<script>
+				$('.same-height').matchHeight();
+			</script>
 		</div>
 	</body>
 </html>

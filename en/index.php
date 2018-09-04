@@ -32,7 +32,7 @@
 	
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-	<script src="https://use.fontawesome.com/df558bb4a1.js"></script>
+	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     
     </head>
 	<body>
@@ -120,7 +120,7 @@
 										<h1 class="title-index" style="font-size: 45px;">
 											LOGIQUE, the best <span class="yellow">Web Developer<br/> / IT Consultant Firm</span> in Jakarta, <br/>gets you conversion and growth
 										</h1>
-										LOGIQUE is a full-service Digital agency, WEB designer, System developer and IT consulting firm, located in Jakarta, founded by Japanese, helping our clients drive conversion and growth, via fully scalable, seamlessly integrated website / web system / mobile application or Digital marketing solution.<br/><br/>
+										LOGIQUE has the experience and quality you need in developing web systems for today's digital business trends. We have collaborated with many international clients for various needs such as E-Commerce, CRM, Online Auction Systems, Recruitment Systems, and CMS, and are accustomed to making these web systems to international standards. LOGIQUE is also ready to assist you in website creation, applications, digital marketing, content marketing, social media operations, video making, printing, SEO services, and server or infrastructure operations. The experience that we have for more than 5 years, also our proven quality and expertise can be a new breakthrough for your business.<br/><br/>
 										<div class="row">
 											<div class="col-lg-offset-1 col-lg-10">
 												<div class="row">
@@ -128,7 +128,7 @@
 														<div class="div-service-cat">
 															<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
 															<h2>Website <br/><span>Creation</span></h2>
-															<a href="services.php" class="btn">See Detail</a>
+															<a target="_blank" href="/en/services/mekanisme-pembuatan-website/" class="btn">See Detail</a>
 														</div>
 													</div>
 													<div class="col-md-3 col-sm-6">
@@ -142,7 +142,7 @@
 														<div class="div-service-cat">
 															<img src="/img/jasa-promosi-online.png" alt="Web System Development" class="center-block img-responsive"/>
 															<h2>Web System<br/><span>Development</span></h2>
-															<a href="services.php" class="btn">See Detail</a>
+															<a target="_blank" href="/layanan/pembuatan-sistem-web/" class="btn">See Detail</a>
 														</div>
 													</div>
 													<div class="col-md-3 col-sm-6">
@@ -221,11 +221,11 @@
 								</div>
 							  </div>
 							  <a class="left carousel-control" href="#myCarousel2" data-slide="prev">
-								<span class="glyphicon glyphicon-chevron-left"></span>
+								<span class="juggling glyphicon glyphicon-chevron-left"></span>
 								<span class="sr-only">Previous</span>
 							  </a>
 							  <a class="right carousel-control" href="#myCarousel2" data-slide="next">
-								<span class="glyphicon glyphicon-chevron-right"></span>
+								<span class="juggling glyphicon glyphicon-chevron-right"></span>
 								<span class="sr-only">Next</span>
 							  </a>
 							</div>
@@ -253,7 +253,7 @@
 									<h1 class="title-index" style="font-size: 45px;">
 										LOGIQUE, the best <span class="yellow">Web Developer<br/> / IT Consultant Firm</span> in Jakarta, <br/>gets you conversion and growth
 									</h1>
-									LOGIQUE is a full-service Digital agency, WEB designer, System developer and IT consulting firm, located in Jakarta, founded by Japanese, helping our clients drive conversion and growth, via fully scalable, seamlessly integrated website / web system / mobile application or Digital marketing solution.<br/><br/>
+									LOGIQUE has the experience and quality you need in developing web systems for today's digital business trends. We have collaborated with many international clients for various needs such as E-Commerce, CRM, Online Auction Systems, Recruitment Systems, and CMS, and are accustomed to making these web systems to international standards. LOGIQUE is also ready to assist you in website creation, applications, digital marketing, content marketing, social media operations, video making, printing, SEO services, and server or infrastructure operations. The experience that we have for more than 5 years, also our proven quality and expertise can be a new breakthrough for your business.<br/><br/>
 									<div class="row">
 										<div class="col-lg-offset-1 col-lg-10">
 											<div class="row">
@@ -261,7 +261,7 @@
 													<div class="div-service-cat">
 														<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
 														<h2>Website <br/><span>Creation</span></h2>
-														<a href="services.php" class="btn">See Detail</a>
+														<a target="_blank" href="/en/services/mekanisme-pembuatan-website/" class="btn">See Detail</a>
 													</div>
 												</div>
 												<div class="col-md-3 col-sm-6">
@@ -275,7 +275,7 @@
 													<div class="div-service-cat">
 														<img src="/img/jasa-promosi-online.png" alt="Web System Development" class="center-block img-responsive"/>
 														<h2>Web System<br/><span>Development</span></h2>
-														<a href="services.php" class="btn">See Detail</a>
+														<a target="_blank" href="/layanan/pembuatan-sistem-web/" class="btn">See Detail</a>
 													</div>
 												</div>
 												<div class="col-md-3 col-sm-6">
@@ -362,11 +362,11 @@
 							</div>
 						  </div>
 						  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-							<span class="glyphicon glyphicon-chevron-left"></span>
+							<span class="juggling glyphicon glyphicon-chevron-left"></span>
 							<span class="sr-only">Previous</span>
 						  </a>
 						  <a class="right carousel-control" href="#myCarousel" data-slide="next">
-							<span class="glyphicon glyphicon-chevron-right"></span>
+							<span class="juggling glyphicon glyphicon-chevron-right"></span>
 							<span class="sr-only">Next</span>
 						  </a>
 						</div>
