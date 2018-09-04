@@ -501,6 +501,16 @@
 									<br><div class="grey-clr">Mobile Optimized, O2O, Properti</div><br><br><br>
 								</div>
 							</div>
+							<div class="col-sm-4">
+								<a href="https://www.60jpid.com/music-festival.php" target="_blank">
+									<img src="/img/portfolio/music_festival.png" class="img-responsive center-block">
+									Music Festival Landing Page
+								</a>
+								<div class="addition-desc text-left">
+									<br>Landing Page Creation (Design | Coding | Digital AD)<br>
+									<br><div class="grey-clr">Mobile Optimized, Multi-bahasa, Event</div><br><br><br>
+								</div>
+							</div>
 						</div>
 						<br/>
 						<span class="characteristic-title">Pengalaman kami dalam pengembangan sistem web</span>

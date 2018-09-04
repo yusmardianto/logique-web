@@ -498,6 +498,16 @@
 									<br><div class="grey-clr">モバイル最適化, O2O, 不動産</div><br><br><br>
 								</div>
 							</div>
+							<div class="col-sm-4">
+								<a href="https://www.60jpid.com/music-festival.php" target="_blank">
+									<img src="/img/portfolio/music_festival.png" class="img-responsive center-block">
+									Music Festival Landing Page
+								</a>
+								<div class="addition-desc text-left">
+									<br>ランディングページ制作 (デザイン | マークアップ | 広告)<br>
+									<br><div class="grey-clr">モバイル最適化, 多言語, イベント</div><br><br><br>
+								</div>
+							</div>
 						</div>
 						<br/>
 						<span class="characteristic-title">システム構築実績</span>
