@@ -131,7 +131,7 @@
 														<div class="div-service-cat">
 															<img src="/img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
 															<h2 style="padding: 0 30px;">WEBシステム開発</h2>
-															<a target="_blank" href="/layanan/pembuatan-sistem-web/" class="btn">サービス詳細はこちら</a>
+															<a target="_blank" href="/jp/services/pembuatan-sistem-web/" class="btn">サービス詳細はこちら</a>
 														</div>
 													</div>
 													<div class="col-md-3 col-sm-6">
@@ -264,7 +264,7 @@
 													<div class="div-service-cat">
 														<img src="/img/jasa-promosi-online.png" alt="Jasa Promosi Online" class="center-block img-responsive"/>
 														<h2 style="padding: 0 30px;">WEBシステム開発</h2>
-														<a target="_blank" href="/layanan/pembuatan-sistem-web/" class="btn">サービス詳細はこちら</a>
+														<a target="_blank" href="/jp/services/pembuatan-sistem-web/" class="btn">サービス詳細はこちら</a>
 													</div>
 												</div>
 												<div class="col-md-3 col-sm-6">

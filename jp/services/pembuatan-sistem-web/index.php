@@ -44,7 +44,7 @@ if(isset($_POST['submitted']))
 	<meta name="keywords" content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Pembuatan Sistem Web di Logique</title>
+    <title>インドネシアでシステム開発が必要ならLOGIQUEにご相談ください</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style_systemdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">

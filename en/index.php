@@ -142,7 +142,7 @@
 														<div class="div-service-cat">
 															<img src="/img/jasa-promosi-online.png" alt="Web System Development" class="center-block img-responsive"/>
 															<h2>Web System<br/><span>Development</span></h2>
-															<a target="_blank" href="/layanan/pembuatan-sistem-web/" class="btn">See Detail</a>
+															<a target="_blank" href="/en/services/pembuatan-sistem-web/" class="btn">See Detail</a>
 														</div>
 													</div>
 													<div class="col-md-3 col-sm-6">
@@ -275,7 +275,7 @@
 													<div class="div-service-cat">
 														<img src="/img/jasa-promosi-online.png" alt="Web System Development" class="center-block img-responsive"/>
 														<h2>Web System<br/><span>Development</span></h2>
-														<a target="_blank" href="/layanan/pembuatan-sistem-web/" class="btn">See Detail</a>
+														<a target="_blank" href="/en/services/pembuatan-sistem-web/" class="btn">See Detail</a>
 													</div>
 												</div>
 												<div class="col-md-3 col-sm-6">
