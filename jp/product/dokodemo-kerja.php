@@ -337,7 +337,7 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-4">
 						<div class="card-harga">
-							<div class="title-card text-center">基本プラン</div>
+							<div class="title-card text-center">ライトプラン</div>
 							<div style="padding:30px 0;border-bottom: 1px solid #fff;">
 								<div class="price"><strong>1 JUTA IDR</strong></div>
 								<div class="price" style="font-size: 15px;">月額</div>
