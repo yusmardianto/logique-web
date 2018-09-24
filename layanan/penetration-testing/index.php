@@ -169,7 +169,7 @@
 						<div class="col-sm-10">
 							<div class="subtitle fs-18"><b>Grey Box Testing</b></div>
 							<div>
-							Merupakan metode pengujian yang berasal dari kombinasi Black Box dan White Box. Dimana pentester melakukan pengujian aplikasi berdasarkan spesifikasi namun menggunakan cara kerja dari dalam aplikasi tersebut alias source code program.
+							Merupakan metode pengujian yang berasal dari kombinasi Black Box dan White Box. Dimana pentester melakukan pengujian aplikasi berdasarkan spesifikasi namun menggunakan cara kerja dari dalam aplikasi tersebut alias source code program. 
 							</div>
 						</div>
 					</div>
@@ -283,7 +283,71 @@
 			<br/><br/>
 		</div>
 	</div>
-	
+	<div class="mengapa-harus">Layanan <b>Keamanan Siber</b> yang terdapat di Logique:</div>
+	<br><br>
+
+	<div class="metode">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-offset-1 col-md-10">
+
+					<div class="row row-center">
+						<div class="col-sm-12">
+							<div class="subtitle fs-18 f-s-22"><b>A. Pentest Aplikasi</b></div>
+							Tes keamanan merupakan sebuah metode untuk mengevaluasi keamanan sistem komputer atau jaringan menggunakan metode validasi dan memverifikasi keefektifan dari kontrol keamanan aplikasi, seperti: <br><br>
+							<div class="p-l-3">
+							<b>1. Web</b><br>
+							Pengujian keamanan untuk aplikasi Web hanya berfokus pada mengevaluasi keamanan sebuah aplikasi web. Prosesnya menggunakan analisis aktif dari aplikasi tersebut untuk menemukan semua kelemahan, mulai dari kelemahan teknis hingga kerentanan yang bisa terjadi. Semua masalah yang ditemukan nantinya akan disajikan kepada pemilik sistem, bersamaan dengan penilaian dari dampak yang dapat ditimbulkan serta proposal rencana untuk mengurangi resiko tersebut atau biasa disebut sebagai solusi teknis.<br><br>
+							<b>2. Aplikasi Seluler</b><br>
+							Pengujian keamanan aplikasi seluler berfokus kepada evaluasi kemanan ponsel di perangkat iOS atau Android. Prosesnya menggunakan analisis aktif dari aplikasi tersebut guna menemukan semua kelemahan, seperti kelemahan teknis hingga kerentanan yang dapat terjadi. Semua masalah yang ditemukan pada aplikasi ini nantinya akan diberikan kepada pembuat sistem bersamaan dengan dampak yang akan ditimbulkan, proposal rencana untuk mengatasi hal tersebut atau biasa disebut dengan solusi teknis.<br><br>
+							<b>3. Aplikasi Desktop</b><br>
+							Banyak orang bertanya, “Apakah aplikasi Desktop masih digunakan?” Jawabannya adalah iya, masih digunakan. Meskipun saat ini telah ada aplikasi web dan aplikasi seluler, Namun aplikasi desktop tetap saja mempunyai kategori tersendiri. Bahkan sebagian besar perusahaan aplikasi berbasis instalasi masih tetap berjalan dengan tetap menggunakan sumber daya perangkat kerasnya. Selain itu, sistem realtime banyak yang masih berbasis desktop karena kemampuan kinerjanya yang terbilang mumpuni untuk membaca sistem tersebut. Kita juga dapat menguji aplikasi ini guna memastikan seluruh fungsi berjalan dengan baik dan benar. Aplikasi desktop dapat digunakan baik di komputer pribadi maupun di komputer kerja Anda. Karena itu, lingkungan yang spesifik dapat membantu Anda untuk menentukan dasar rencana pengujian keamanan yang akan Anda lakukan atau dengan kata lain hanya dalam satu kali pengetesan Anda dapat melakukan pengujian secara lengkap, mulai dari grafis tampilan antarmuka, fungsi, serta beban aplikasi tersebut dan lain-lain. Sebuah aplikasi desktop biasanya digunakan oleh satu orang user pada satu waktu dan memerlukan penginstallan terlebih dahulu melalui file exe agar dapat dilakukan pengujian instalasi secara keseluruhan.
+							</div>
+						</div>
+					</div>
+					<hr/>
+					<div class="row row-center">
+						<div class="col-sm-12">
+							<div class="subtitle fs-18 f-s-22"><b>B. Pentest Jaringan dan Infrastruktur</b></div>
+							<div>
+							Melakukan pengujian pentest pada server, jaringan lokal serta pada komputer pribadi para staff merupakan salah satu metode pengujian infrastruktur yang terbilang efektif dan terbukti mampu mengevaluasi keamanan jaringan komputer Anda, mengetahui kelemahan infrastruktur dan aplikasi menggunakan simulasi malicious attack.
+							</div>
+						</div>
+					</div>
+					<hr/>
+					<div class="row row-center">
+						<div class="col-sm-12">
+							<div class="subtitle fs-18 f-s-22"><b>C. Peninjauan Kode</b></div>
+							<div>
+							Melakukan audit sumber kode aplikasi untuk mengetahui bahwa kontrol keamanan yang dilakukan telah tepat dan bekerja sesuai dengan fugnsinya masing-masing serta ditempatkan pada tempat yang tepat. Peninjauan kode dilakukan untuk memastikan bahwa aplikasi telah dikembangkan untuk dapat melakukan “pembelaan diri” sesuai dengan lingkungan yang dia hadapi.
+							</div>
+						</div>
+					</div>
+					<hr/>
+					<div class="row row-center">
+						<div class="col-sm-12">
+							<div class="subtitle fs-18 f-s-22"><b>D. Pelatihan Mengenai Pentingnya Keamanan Siber</b></div>
+							<div>
+							Melakukan pelatihan keamanan siber bagi para pengguna serta programmer tentu sangat penting. Keamanan siber terbaik tentunya tidak akan membuat Anda untuk memilih kata sandi yang lemah dan mengklik tautan yang buruk. Itulah mengapa Anda perlu pelatihan semacam ini.
+							</div>
+						</div>
+					</div>
+					<hr/>
+					<div class="row row-center">
+						<div class="col-sm-12">
+							<div class="subtitle fs-18 f-s-22"><b>E. Konsultasi Keamanan Siber</b></div>
+							<div>
+							Kami siap membantu tim IT klien kami untuk memecahkan masalah keamanan (memberikan solusi terbaik). Kami dapat memberikan saran teknis dan saran strategis kepada tim IT untuk memanajemen tim Anda mengenai keamanan siber tersebut.
+							</div>
+						</div>
+					</div>
+					<br>
+					<br>
+				</div>
+			</div>
+		</div>
+	</div>
+
 	<div class="harga">
 		<div class="container">
 			<div class="row">
