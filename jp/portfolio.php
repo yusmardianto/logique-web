@@ -131,7 +131,7 @@
 							</a>
 						</div>
 						<br/><br/>
-						<div class="characteristic-title text-center" style="font-size:22px">WEB制作実績</div><br/><br/>
+						<div class="characteristic-title" style="font-size:22px">WEB制作実績</div><br/><br/>
 						<div class="row text-center">
 							<div class="col-sm-4">
 								<a href="https://www.jtrustbank.co.id/" target="_blank">
@@ -508,6 +508,25 @@
 									<br><div class="grey-clr">モバイル最適化, 多言語, イベント</div><br><br><br>
 								</div>
 							</div>
+							<div class="col-sm-4">
+								<a href="https://jcinema2018.id/" target="_blank">
+									<img src="/img/portfolio/jff.jpg" class="img-responsive center-block">
+									Film festival Landing page
+								</a>
+								<div class="addition-desc text-left">
+									<br>ランディングページ制作 (デザイン | マークアップ)<br>
+									<br><div class="grey-clr">モバイル最適化, 多言語, イベント</div><br><br><br>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">								
+								<img src="/img/portfolio/eccj.jpg" class="img-responsive center-block">
+								ECCJ
+								<div class="addition-desc text-left">
+									<br>LP制作、申込みフォーム制作 (デザイン | プログラミング)<br>
+									<br><div class="grey-clr">モバイル最適化, 申込フォーム, イベント</div><br><br><br>
+								</div>
+							</div>
 						</div>
 						<br/>
 						<span class="characteristic-title">システム構築実績</span>
@@ -848,11 +867,16 @@
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/sunlife-book.jpg" class="img-responsive center-block" style="height: 224px"> 
-								SunLife Notebook 1<br><br>
+								SunLife Notebook<br><br>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/sunlife-book2.jpg" class="img-responsive center-block" style="height: 224px"> 
-								SunLife Notebook 2<br><br>
+								SunLife Notebook<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/60jpid_catalog.png" class="img-responsive center-block" style="height: 224px"> 
+								60th Anniversary catalog<br><br>
 							</div>
 						</div>
 						<br/>
