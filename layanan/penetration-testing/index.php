@@ -196,8 +196,8 @@
 							<img alt="Step 1" src="img/step1.png" class="img-responsive center-block"/><br/>
 						</div>
 						<div class="col-sm-8 text-justify">
-							<div class="title"><span>1</span> <b>Pre-engagement Interactions</b></div>
-							Yaitu tahapan dimana pentester Logique akan menjelaskan kegiatan apa saja yang akan dilakukan kepada pelanggan/ client, mulai dari hal pertama yang akan dilakukan hingga tujuan akhir yang akan dicapai dengan melakukan pentest ini.<br/><br/>
+							<div class="title"><span>1</span> <b>Reconnaissance</b></div>
+							Yaitu tahapan dimana pentester Logique akan mengumpulkan data awal atau beberapa hal yang diperlukan untuk klien. Setelah data dikumpulkan, maka pentester akan dapat dengan mudah merencanakan serangan secara lebih baik. Pengintaian ini dapat dilakukan dengan dua cara, yaitu secara aktif (secara langsung menyentuh target yang ditentukan) dan secara pasif (pengintaian dilakukan melalui perantara).<br/><br/>
 						</div>
 					</div>
 				</div>
@@ -207,8 +207,8 @@
 							<img alt="Step 2" src="img/step2.png" class="img-responsive center-block"/><br/>
 						</div>
 						<div class="col-sm-8 text-justify">
-							<div class="title"><span>2</span> <b>Intelligence Gathering</b></div>
-							Yaitu tahapan pengumpulan data informasi sebanyak-banyaknya mengenai target perusahaan yang akan dicapai dengan menggunakan berbagai metode yang telah ada.<br/><br/>
+							<div class="title"><span>2</span> <b>Scanning</b></div>
+							Pada tahapan ini diperlukan sebuah aplikasi sebagai alat teknis untuk mengumpulkan berbagai data lanjutan pada target yang telah kita tentukan. Pada tahapan ini data yang dicari lebih umum, yaitu mengenai sistem yang mereka miliki.<br/><br/>
 						</div>
 					</div>
 				</div>
@@ -221,8 +221,8 @@
 							<img alt="Step 3" src="img/step3.png" class="img-responsive center-block"/><br/>
 						</div>
 						<div class="col-sm-8 text-justify">
-							<div class="title"><span>3</span> <b>Threat Modelling</b></div>
-							Yaitu sebuah tahapan pengujian dimana pentester akan mencari celah keamanan (<i>vulnerabilities</i>) berdasarkan data yang telah dikumpulkan pada tahapan sebelumnya. Di Logique, pada tahapan ini pentester selain mencari celah sekaligus juga menentukan celah apa yang paling efektif untuk digunakan.
+							<div class="title"><span>3</span> <b>Gaining Access</b></div>
+							Pada fase ini, pentester perlu untuk mendapatkan akses untuk mengambil alih kendali dari satu atau lebih perangkat jaringan untuk selanjutnya mengekstrak data dari target, untuk selanjutnya menggunakan perangkat tersebut untuk meluncurkan serangan pada target lainnya.
 							<br/><br/>
 						</div>
 					</div>
@@ -233,35 +233,8 @@
 							<img alt="Step 4" src="img/step4.png" class="img-responsive center-block"/><br/>
 						</div>
 						<div class="col-sm-8 text-justify">
-							<div class="title"><span>4</span> <b>Vulnerability Analysis</b></div>
-							Yaitu tahapan dimana pentester akan melakukan kombinasi dari informasi yang telah didapatkan mengenai celah keamanan dengan melakukan serangan yang paling efektif ke aplikasi atau sistem.<br/><br/>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="hidden-xs"><br/></div>
-			<div class="row">
-				<div class="col-md-6">
-					<div class="row">
-						<div class="col-sm-4">
-							<img alt="Step 5" src="img/step5.png" class="img-responsive center-block"/><br/>
-						</div>
-						<div class="col-sm-8 text-justify">
-							<div class="title"><span>5</span> <b>Exploitation</b></div>
-							Yaitu tahapan dimana pentester melakukan penyempurnaan analisis untuk melakukan serangan yang efektif pada target yang telah ditentukan.
-							<br/><br/>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="row">
-						<div class="col-sm-4">
-							<img alt="Step 6" src="img/step6.png" class="img-responsive center-block"/><br/>
-						</div>
-						<div class="col-sm-8 text-justify">
-							<div class="title"><span>6</span> <b>Post Exploitation</b></div>
-							Yaitu tahapan dimana pentester berhasil masuk ke dalam sistem target, kemudian akan melakukan analisis menyeluruh terhadap infrastruktur yang ada serta menentukan bagian mana yang paling critical untuk perusahaan. Selain itu, di tahap ini pentester juga akan menjelaskan berbagai dampak serangan/ kerugian yang akan terjadi kepada perusahaan.
-							<br/><br/>
+							<div class="title"><span>4</span> <b>Maintaining Access</b></div>
+							Yaitu tahapan dimana pentester akan membuat beberapa langkah-langkah yang diperlukan agar tetap berada di lingkungan target dengan tujuan untuk mengumpulkan data sebanyak mungkin. Pada fase ini, penyerang harus tetap dalam kondisi diam agar tidak dapat tertangkap ketika sedang menggunakan lingkungan host.<br/><br/>
 						</div>
 					</div>
 				</div>
@@ -274,8 +247,8 @@
 							<img alt="Step 6" src="img/report.png" class="img-responsive center-block"/>
 						</div>
 						<div class="col-sm-10 text-justify">
-							<div class="title"><span>7</span> <b>Reporting</b></div>
-							Dalam kegiatan pentest, reporting merupakan hal yang paling penting. Pada tahapan ini, seorang pentester akan membuat laporan mengenai pentesting yang sudah dilakukan, resiko yang mungkin terjadi serta membuat solusi perbaikan sistem.
+							<div class="title"><span>5</span> <b>Covering Tracks</b></div>
+							Yaitu tahapan terakhir dimana pentester akan menutupi track sehingga memaksa penyerang untuk mengambil langkah-langkah yang diperlukan untuk menghapus semua kemiripan saat dilakukan pendeteksian. Setiap perubahan yang telah dilakukan, otorisasi yang telah ditingkatkan dan lain-lain. Semuanya harus kembali dalam keadaan non-recognition (tidak diakui) oleh seorang host administrator jaringan.
 						</div>
 					</div>
 				</div>
@@ -301,7 +274,7 @@
 							<b>2. Aplikasi Seluler</b><br>
 							Pengujian keamanan aplikasi seluler berfokus kepada evaluasi kemanan ponsel di perangkat iOS atau Android. Prosesnya menggunakan analisis aktif dari aplikasi tersebut guna menemukan semua kelemahan, seperti kelemahan teknis hingga kerentanan yang dapat terjadi. Semua masalah yang ditemukan pada aplikasi ini nantinya akan diberikan kepada pembuat sistem bersamaan dengan dampak yang akan ditimbulkan, proposal rencana untuk mengatasi hal tersebut atau biasa disebut dengan solusi teknis.<br><br>
 							<b>3. Aplikasi Desktop</b><br>
-							Banyak orang bertanya, “Apakah aplikasi Desktop masih digunakan?” Jawabannya adalah iya, masih digunakan. Meskipun saat ini telah ada aplikasi web dan aplikasi seluler, Namun aplikasi desktop tetap saja mempunyai kategori tersendiri. Bahkan sebagian besar perusahaan aplikasi berbasis instalasi masih tetap berjalan dengan tetap menggunakan sumber daya perangkat kerasnya. Selain itu, sistem realtime banyak yang masih berbasis desktop karena kemampuan kinerjanya yang terbilang mumpuni untuk membaca sistem tersebut. Kita juga dapat menguji aplikasi ini guna memastikan seluruh fungsi berjalan dengan baik dan benar. Aplikasi desktop dapat digunakan baik di komputer pribadi maupun di komputer kerja Anda. Karena itu, lingkungan yang spesifik dapat membantu Anda untuk menentukan dasar rencana pengujian keamanan yang akan Anda lakukan atau dengan kata lain hanya dalam satu kali pengetesan Anda dapat melakukan pengujian secara lengkap, mulai dari grafis tampilan antarmuka, fungsi, serta beban aplikasi tersebut dan lain-lain. Sebuah aplikasi desktop biasanya digunakan oleh satu orang user pada satu waktu dan memerlukan penginstallan terlebih dahulu melalui file exe agar dapat dilakukan pengujian instalasi secara keseluruhan.
+							Banyak orang bertanya, “Apakah aplikasi Desktop masih digunakan?” Jawabannya adalah iya, masih digunakan. Meskipun saat ini telah ada aplikasi web dan aplikasi seluler, Namun aplikasi desktop tetap saja mempunyai kategori tersendiri. Bahkan sebagian besar perusahaan aplikasi berbasis instalasi masih tetap berjalan dengan tetap menggunakan sumber daya perangkat kerasnya. Selain itu, sistem realtime banyak yang masih berbasis desktop karena kemampuan kinerjanya yang terbilang mumpuni untuk membaca sistem tersebut. Kita juga dapat menguji aplikasi ini guna memastikan seluruh fungsi berjalan dengan baik dan benar. <br><br>Aplikasi desktop dapat digunakan baik di komputer pribadi maupun di komputer kerja Anda. Karena itu, lingkungan yang spesifik dapat membantu Anda untuk menentukan dasar rencana pengujian keamanan yang akan Anda lakukan atau dengan kata lain hanya dalam satu kali pengetesan Anda dapat melakukan pengujian secara lengkap, mulai dari grafis tampilan antarmuka, fungsi, serta beban aplikasi tersebut dan lain-lain. Sebuah aplikasi desktop biasanya digunakan oleh satu orang user pada satu waktu dan memerlukan penginstallan terlebih dahulu melalui file exe agar dapat dilakukan pengujian instalasi secara keseluruhan.
 							</div>
 						</div>
 					</div>
