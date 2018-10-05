@@ -148,8 +148,8 @@
 												</div>
 												<div class="col-md-3 col-sm-6">
 													<div class="div-service-cat">
-														<img src="img/jasa-seo.png" alt="Jasa VA Test" class="center-block img-responsive"/>
-														<div>Jasa <br/><span>VA Test</span></div>
+														<img src="img/jasa-seo.png" alt="Jasa Penetration Testing" class="center-block img-responsive"/>
+														<div>Jasa <span>Penetration Testing</span></div>
 														<a target="_blank" href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
 													</div>
 												</div>
@@ -281,8 +281,8 @@
 												</div>
 												<div class="col-md-3 col-sm-6">
 													<div class="div-service-cat">
-														<img src="img/jasa-seo.png" alt="Jasa VA Test" class="center-block img-responsive"/>
-														<div>Jasa <br/><span>VA Test</span></div>
+														<img src="img/jasa-seo.png" alt="Jasa Penetration Testing" class="center-block img-responsive"/>
+														<div>Jasa <span>Penetration Testing</span></div>
 														<a target="_blank" href="/layanan/penetration-testing/" class="btn">Baca Selengkapnya</a>
 													</div>
 												</div>
