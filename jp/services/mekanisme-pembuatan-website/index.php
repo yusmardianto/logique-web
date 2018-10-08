@@ -384,7 +384,7 @@ if(isset($_POST['submitted']))
 						Ad Premier Building 19th Floor. <br>
 						Jalan Tb. Simatupang No. 5 Ragunan, <br>
 						Ps. Minggu, Jakarta Selatan, <br>Indonesia 12550</div>
-						<div>021) 22708935 / 36 <br>081296560380</div>
+						<div>021) 22708935 / 36 <br>0811870321</div>
 						<br/>
 						<div class="row">
 							<div class="col-xs-6">
