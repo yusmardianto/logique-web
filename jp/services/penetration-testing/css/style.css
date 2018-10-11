@@ -19,6 +19,55 @@ figure, figcaption, footer, header, hgroup,menu, nav, output, ruby, section, sum
 	color:#000;
 }
 /* HTML5 display-role reset for older browsers */
+
+/* footer */
+
+footer {
+    background-color: #000;
+    padding: 30px 10px;
+    z-index:5;
+    margin-bottom: -2rem;
+}
+
+footer .footer-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px
+}
+
+footer .link-footer {
+    text-align: left;
+}
+
+footer h5, footer h6 {
+    font-size: 14px;
+    line-height: 30px;
+}
+
+footer a {
+    color: #fff!important
+}
+
+footer a:hover {
+    color: #ffca13!important
+}
+
+.link-footer .medsos-new .fa {
+    font-size: 35px;
+    margin-top: 10px;
+}
+
+footer span,footer div, footer a {
+    font-size: 14px;
+    color: #fff !important;
+}
+
+.link-footer .medsos-new .fa-facebook-official:hover{color:#3b5999}
+.link-footer .medsos-new .fa-twitter:hover{color:#0084ff}
+.link-footer .medsos-new .fa-instagram:hover{color:#e4405f}
+.link-footer .medsos-new .fa-linkedin-square:hover{color:#0077B5}
+
+/* footer */
 article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section 
 {
     display: block;
