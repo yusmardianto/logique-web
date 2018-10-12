@@ -527,6 +527,26 @@
 									<br><div class="grey-clr">モバイル最適化, 申込フォーム, イベント</div><br><br><br>
 								</div>
 							</div>
+							<div class="col-sm-4">
+								<a href="https://promokreditbprks.com/" target="_blank">
+									<img src="/img/portfolio/bprks.jpg" class="img-responsive center-block">
+									BPR KS
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEB再制作 & 改善ワーク(デザイン | コーディング | コンテンツ制作 | 運用)<br>
+									<br><div class="grey-clr">CMS, モバイル, セキュアなWEB, 金融, 自動車ローン</div><br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://www.vipplaza.co.id/" target="_blank">
+									<img src="/img/portfolio/vipplaza.jpg" class="img-responsive center-block">
+									VIP Plaza
+								</a>
+								<div class="addition-desc text-left">
+									<br>スマホページ再制作 (PWAとして再開発)<br>
+									<br><div class="grey-clr">PWA, モバイル, Eコマース</div><br><br><br>
+								</div>
+							</div>
 						</div>
 						<br/>
 						<span class="characteristic-title">システム構築実績</span>
@@ -774,6 +794,49 @@
 							  </div>
 							</div>
 						</ul>
+						<br/>
+						<span class="characteristic-title">Mobile App</span>
+						<br/><br/>
+						<div class="row text-center">
+							<div class="col-sm-4">
+								<img src="/img/portfolio/frangipani-app.png" class="img-responsive center-block">
+								Frangipani Esthetics (Android) Guest Comment Management App<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/jba-inspection.png" class="img-responsive center-block">
+								JBA Indonesia -  Bike and Car Inspection App<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/otomart-app.png" class="img-responsive center-block">
+								Otomart -  Dealer Car App<br><br>
+							</div>
+						</div>
+						<br/>
+						<span class="characteristic-title">SNS Operation</span>
+						<br/><br/>
+						<div class="row text-center">
+							<div class="col-sm-4">
+								<img src="/img/portfolio/ajapan-sosmed.png" class="img-responsive center-block">
+								Ajapan Dance Instagram Competition - Waku Waku Japan<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/60jpid-sosmed.png" class="img-responsive center-block">
+								60th years Anniversary Japan Indonesia Relationship - 60jpid<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/otomartfb.png" class="img-responsive center-block">
+								OTOmart<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/opus-park-facebook.png" class="img-responsive center-block">
+								Opus Park (Facebook)<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/opus-park-ig.png" class="img-responsive center-block">
+								Opus Park (Instagram)<br><br>
+							</div>
+						</div> 
 						<br>
 						<span class="characteristic-title">その他</span>
 						<br/><br/>
@@ -879,50 +942,6 @@
 								60th Anniversary catalog<br><br>
 							</div>
 						</div>
-						<br/>
-						<span class="characteristic-title">Mobile App</span>
-						<br/><br/>
-						<div class="row text-center">
-							<div class="col-sm-4">
-								<img src="/img/portfolio/frangipani-app.png" class="img-responsive center-block">
-								Frangipani Esthetics (Android) Guest Comment Management App<br><br>
-							</div>
-							<div class="col-sm-4">
-								<img src="/img/portfolio/jba-inspection.png" class="img-responsive center-block">
-								JBA Indonesia -  Bike and Car Inspection App<br><br>
-							</div>
-							<div class="col-sm-4">
-								<img src="/img/portfolio/otomart-app.png" class="img-responsive center-block">
-								Otomart -  Dealer Car App<br><br>
-							</div>
-						</div>
-						<br/>
-						<span class="characteristic-title">SNS Operation</span>
-						<br/><br/>
-						<div class="row text-center">
-							<div class="col-sm-4">
-								<img src="/img/portfolio/ajapan-sosmed.png" class="img-responsive center-block">
-								Ajapan Dance Instagram Competition - Waku Waku Japan<br><br>
-							</div>
-							<div class="col-sm-4">
-								<img src="/img/portfolio/60jpid-sosmed.png" class="img-responsive center-block">
-								60th years Anniversary Japan Indonesia Relationship - 60jpid<br><br>
-							</div>
-							<div class="col-sm-4">
-								<img src="/img/portfolio/otomartfb.png" class="img-responsive center-block">
-								OTOmart<br><br>
-							</div>
-							<div class="clearfix"></div>
-							<div class="col-sm-4">
-								<img src="/img/portfolio/opus-park-facebook.png" class="img-responsive center-block">
-								Opus Park (Facebook)<br><br>
-							</div>
-							<div class="col-sm-4">
-								<img src="/img/portfolio/opus-park-ig.png" class="img-responsive center-block">
-								Opus Park (Instagram)<br><br>
-							</div>
-						</div> 
-						 
 					</div>
 				</div>
 			</div>
