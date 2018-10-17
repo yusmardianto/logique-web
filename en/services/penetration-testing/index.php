@@ -77,7 +77,7 @@
 			</div>
 		</div>
 	</div>
-	
+	<img src="img/typing.png" width="100%" alt="Typing">
 	<div class="plus-minus-bg">
 		<div class="container">
 			<div class="row">
@@ -85,99 +85,19 @@
 					<div class="text-left lh-30">
 						<div class="text-center"><span class="title fw-300">Why <b>website security assessment</b> is necessary?</span></div>
 						Websites owned by financial institutions are not the only ones who need security assessment and countermeasures. The ones who are not handling important and personal information also have a chance to get cyber-attacked.<br/><br/>
-						Also in Indonesia, attacks such as unauthorized access and falsification of data are frequently carried out against websites. As a result, it can cause severe damages, such as personal information leakage, system down, access trouble, up to falsification of identity. <br/><br/>
+						Also in Indonesia, attacks such as unauthorized access and falsification of data are frequently carried out against websites. As a result, it can cause severe damages, such as personal information leakage, system down, access trouble, up to falsification of identity.<br/><br/>
 						Most companies use websites as their communication channel with customers to convey the brand value and trust. There is a risk that the brand value will be greatly damaged if the security incident occurs on your website. To eliminate these risks and keep on maintaining a secure website, security vulnerability assessment is highly recommended.<br/><br/>
 						We need to perform a proper security assessment and grasp the security vulnerability of our company's website, even just a primary one. <br/><br/>
 						LOGIQUE will flexibly perform various security assessment according to the scale of the website. We also have a primary vulnerability assessment that can be easy and cheaper to start with.
 					</div>
 				</div>
-				<!--<div class="clearfix"></div><br/>
-				<div class="col-md-6">
-					<hr/>
-					<div class="each-plus-minus">
-						<div class="title-each"><img src="img/kelebihan.png" alt="Kelebihan"/>KELEBIHAN</div>
-						<ul>
-							<li><span>Dapat dilakukan secara cepat dengan sedikit waktu sehingga harganya murah</span></li>
-							<li><span>Keterampilan yang dibutuhkan untuk melakukan teknik pengujian pentest relative lebih rendah jika dibandingkan dengan melakukan teknik pengujian menggunakan pemeriksaan source code</span></li>
-							<li><span>Pengujian langsung dilakukan pada kode yang digunakan (exposed)</span></li>
-						</ul>
-					</div>
-					<hr/>
-				</div>
-				<div class="col-md-6">
-					<hr/>
-					<div class="each-plus-minus">
-						<div class="title-each"><img src="img/kekurangan.png" alt="Kekurangan"/>KEKURANGAN</div>
-						<ul>
-							<li><span>Terlalu lambat jika dilakukan dalam SDLC</span></li>
-							<li><span>Hanya melakukan pengujian pada dampak depannya saja</span></li>
-						</ul>
-					</div>
-					<hr/>
-				</div>	-->
 			</div>	
 		</div>	
 	</div>	
-	<br/>
-	<div class="mengapa-harus"><a href="https://www.logique.co.id/" target="_blank"><b>LOGIQUE</b></a> can help you.</div>
-	<br/>
-	<div class="metode">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-offset-1 col-md-10">
-					<p>
-					In Indonesia, we have performed security assessments on websites of a governmental organization, financial institution, up to a car manufacturer. Most of the cases, you will be shocked with the test result, but it is better at least you can notify the risk and make an appropriate strategy against it. <b>LOGIQUE</b> will help you lessen the risks until the risk gets almost none by monitoring its security constantly.
-					</p>
-
-					<!--<div class="title">Metode apa yang digunakan Logique Digital Indonesia dalam melakukan pentest?</div>
-					<center>Dalam melakukan pentest, Logique Digital Indonesia mempunyai 3 metode yang dapat digunakan, antara lain yaitu:</center>
-					<br/>
-					<div class="row row-center">
-						<div class="col-sm-2">
-							<img alt="Black Box" src="img/black-box.png" class="img-responsive center-block"/>
-						</div>
-						<div class="col-sm-10">
-							<div class="subtitle fs-18"><b>Black Box Testing</b></div>
-							<div>
-							Merupakan pengujian yang dilakukan berdasarkan detail aplikasi, seperti tampilan aplikasi, fungsi-fungsi yang terdapat pada aplikasi, serta penyesuaian alur fungsi pada aplikasi dengan bisnis yang diinginkan oleh pelanggan. Pengujian ini dilakukan tanpa melihat dan menguji source code program yang ada pada aplikasi.
-							</div>
-						</div>
-					</div>
-					<hr/>
-					<div class="row row-center">
-						<div class="col-sm-2">
-							<img alt="White Box" src="img/white-box.png" class="img-responsive center-block"/>
-						</div>
-						<div class="col-sm-10">
-							<div class="subtitle fs-18"><b>White Box Testing</b></div>
-							<div>
-							Merupakan pengujian yang dilakukan berdasarkan detail prosedur serta alur logika dari sebuah kode program. Pada metode ini, tester akan melihat keseluruhan source code sebuah program untuk menemukan bugs dari kode program tersebut.
-							</div>
-						</div>
-					</div>
-					<hr/>
-					<div class="row row-center">
-						<div class="col-sm-2">
-							<img alt="Grey Box" src="img/grey-box.png" class="img-responsive center-block"/>
-						</div>
-						<div class="col-sm-10">
-							<div class="subtitle fs-18"><b>Grey Box Testing</b></div>
-							<div>
-							Merupakan metode pengujian yang berasal dari kombinasi Black Box dan White Box. Dimana pentester melakukan pengujian aplikasi berdasarkan spesifikasi namun menggunakan cara kerja dari dalam aplikasi tersebut alias source code program.
-							</div>
-						</div>
-					</div>-->
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="clearfix"></div><br/><br/>
-	<!--<div class="tahapan-title">
-		<div class="question">
-			Apa saja tahapan-tahapan yang dilakukan <b>Logique</b> dalam melakukan penetration testing?
-		</div>
+	<div class="tahapan-title">
+		<div class="question">The steps taken by LOGIQUE in conducting a Website Security Assessment</div>
 		<div class="answer">
-			 <b>Logique Digital Indonesia </b> menggunakan standar penetration testing international sebagai acuan pelaksanaan dalam melakukan pengujian, antara lain yaitu:
+			 <b>In conducting a website security assessment, Logique Digital Indonesia uses international standards as the reference, including:</b>
 		</div>
 	</div>
 	<br/><br/>
@@ -190,8 +110,8 @@
 							<img alt="Step 1" src="img/step1.png" class="img-responsive center-block"/><br/>
 						</div>
 						<div class="col-sm-8 text-justify">
-							<div class="title"><span>1</span> <b>Pre-engagement Interactions</b></div>
-							Yaitu tahapan dimana pentester Logique akan menjelaskan kegiatan apa saja yang akan dilakukan kepada pelanggan/ client, mulai dari hal pertama yang akan dilakukan hingga tujuan akhir yang akan dicapai dengan melakukan pentest ini.<br/><br/>
+							<div class="title"><span>1</span> <b>Reconnaissance</b></div>
+							The stage where we will collect initial data or any other things needed for the client. After data is collected, we will be able to plan attacks more easily. Reconnaissance can be done in two ways, which are actively (directly touching the specified target) and passively (surveillance is done through intermediaries).<br/><br/>
 						</div>
 					</div>
 				</div>
@@ -201,8 +121,8 @@
 							<img alt="Step 2" src="img/step2.png" class="img-responsive center-block"/><br/>
 						</div>
 						<div class="col-sm-8 text-justify">
-							<div class="title"><span>2</span> <b>Intelligence Gathering</b></div>
-							Yaitu tahapan pengumpulan data informasi sebanyak-banyaknya mengenai target perusahaan yang akan dicapai dengan menggunakan berbagai metode yang telah ada.<br/><br/>
+							<div class="title"><span>2</span> <b>Scanning</b></div>
+							At this stage, an application is needed as a technical tool to collect various advanced data on the target that we have set. The data sought is more general, which is about the system they have.<br/><br/>
 						</div>
 					</div>
 				</div>
@@ -215,8 +135,8 @@
 							<img alt="Step 3" src="img/step3.png" class="img-responsive center-block"/><br/>
 						</div>
 						<div class="col-sm-8 text-justify">
-							<div class="title"><span>3</span> <b>Threat Modelling</b></div>
-							Yaitu sebuah tahapan pengujian dimana pentester akan mencari celah keamanan (<i>vulnerabilities</i>) berdasarkan data yang telah dikumpulkan pada tahapan sebelumnya. Di Logique, pada tahapan ini pentester selain mencari celah sekaligus juga menentukan celah apa yang paling efektif untuk digunakan.
+							<div class="title"><span>3</span> <b>Gaining Access</b></div>
+							We will gain access to take control of one or more network devices to further extract data from the target, then use the device to launch attacks on other targets.
 							<br/><br/>
 						</div>
 					</div>
@@ -227,35 +147,8 @@
 							<img alt="Step 4" src="img/step4.png" class="img-responsive center-block"/><br/>
 						</div>
 						<div class="col-sm-8 text-justify">
-							<div class="title"><span>4</span> <b>Vulnerability Analysis</b></div>
-							Yaitu tahapan dimana pentester akan melakukan kombinasi dari informasi yang telah didapatkan mengenai celah keamanan dengan melakukan serangan yang paling efektif ke aplikasi atau sistem.<br/><br/>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="hidden-xs"><br/></div>
-			<div class="row">
-				<div class="col-md-6">
-					<div class="row">
-						<div class="col-sm-4">
-							<img alt="Step 5" src="img/step5.png" class="img-responsive center-block"/><br/>
-						</div>
-						<div class="col-sm-8 text-justify">
-							<div class="title"><span>5</span> <b>Exploitation</b></div>
-							Yaitu tahapan dimana pentester melakukan penyempurnaan analisis untuk melakukan serangan yang efektif pada target yang telah ditentukan.
-							<br/><br/>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="row">
-						<div class="col-sm-4">
-							<img alt="Step 6" src="img/step6.png" class="img-responsive center-block"/><br/>
-						</div>
-						<div class="col-sm-8 text-justify">
-							<div class="title"><span>6</span> <b>Post Exploitation</b></div>
-							Yaitu tahapan dimana pentester berhasil masuk ke dalam sistem target, kemudian akan melakukan analisis menyeluruh terhadap infrastruktur yang ada serta menentukan bagian mana yang paling critical untuk perusahaan. Selain itu, di tahap ini pentester juga akan menjelaskan berbagai dampak serangan/ kerugian yang akan terjadi kepada perusahaan.
-							<br/><br/>
+							<div class="title"><span>4</span> <b>Maintaining Access</b></div>
+							That is the stage where we will make several steps needed to remain in the target environment with the aim of collecting as much data as possible. In this phase, the attacker must remain idle so that they cannot be caught while using the host environment.<br/><br/>
 						</div>
 					</div>
 				</div>
@@ -268,15 +161,97 @@
 							<img alt="Step 6" src="img/report.png" class="img-responsive center-block"/>
 						</div>
 						<div class="col-sm-10 text-justify">
-							<div class="title"><span>7</span> <b>Reporting</b></div>
-							Dalam kegiatan pentest, reporting merupakan hal yang paling penting. Pada tahapan ini, seorang pentester akan membuat laporan mengenai pentesting yang sudah dilakukan, resiko yang mungkin terjadi serta membuat solusi perbaikan sistem.
+							<div class="title"><span>5</span> <b>Covering Tracks</b></div>
+							The last stage where we will cover the track, forcing the attacker to take the steps needed to remove all the similarities during detection. Any changes that have been made, improved authorization, etc. All must return in a non-recognition state (not recognized) by a network administrator host.
 						</div>
 					</div>
 				</div>
 			</div>
 			<br/><br/>
 		</div>
-	</div>-->
+	</div>
+	<br/>
+
+	<div class="mengapa-harus">LOGIQUE provides a variety of Cyber Security services.</div>
+	<br><br>
+
+	<div class="metode">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-offset-1 col-md-10">
+
+					<div class="row row-center">
+						<div class="col-sm-12">
+							<div class="subtitle fs-18 f-s-22"><b>A. Application Penetration Testing</b></div>
+							A security test is a method of evaluating the security of a computer system or network by methodically validating and verifying the effectiveness of application security controls.<br><br>
+							<div class="p-l-3">
+							<b>1) Web Apps</b><br>
+							A web application security test focuses only on evaluating the security of a web application. The process involves an active analysis of the application for any weaknesses, technical flaws, or vulnerabilities. Any security issues that are found will be presented to the system owner, together with an assessment of the impact, a proposal for mitigation or a technical solution.<br><br>
+							<b>2) Mobile Apps</b><br>
+							The security test on mobile apps focuses only on evaluating the security of a mobile app on iOS or android devices. Like web apps, the process also involves an active analysis of the application for any weaknesses, technical flaws, or vulnerabilities. <br><br>
+							<b>3) Desktop Apps</b><br>
+							For those of you who might wonder if desktop app is still a thing, yes, of course. Most of enterprise applications are installation based and use hardware resources to run. Also, many real time systems are still desktop based due to their performance capabilities. In this case, LOGIQUE can also test these softwares for ensuring smooth functionality.<br><br>
+							Desktop apps run on personal computers and work stations, a specific environment acts as a baseline for your test plan. One can test the complete application broadly in categories like Graphical User Interface, Functionality, Load, etc. A desktop application is usually used by a single user at a time and needs to be installed as an exe file hence highlighting the need for installation testing.
+							</div>
+						</div>
+					</div>
+					<hr/>
+					<div class="row row-center">
+						<div class="col-sm-12">
+							<div class="subtitle fs-18 f-s-22"><b>B. Network & Infrastructure Penetration Testing</b></div>
+							<div>
+							Assessing security or penetration testing on servers, local network, and staff PC. This infrastructure test is a proven method of evaluating the security of your computing networks, infrastructure, and application weakness by simulating a malicious attack.
+							</div>
+						</div>
+					</div>
+					<hr/>
+					<div class="row row-center">
+						<div class="col-sm-12">
+							<div class="subtitle fs-18 f-s-22"><b>C. Code Review</b></div>
+							<div>
+							Auditing the source code for an application to verify that the proper security controls are present, that they work as intended, and that they have been invoked in all the right places. Code review is a way of ensuring that the application has been developed so as to be “self-defending” in its given environment.
+							</div>
+						</div>
+					</div>
+					<hr/>
+					<div class="row row-center">
+						<div class="col-sm-12">
+							<div class="subtitle fs-18 f-s-22"><b>D. Cyber Security Awareness Training</b></div>
+							<div>
+							Choosing a weak password or clicking a bad link is the example of personal decisions that even the best cyber security cannot help. This is the reason why cyber security awareness is vital especially among end users and programmers, and LOGIQUE can provide the training for you.
+							</div>
+						</div>
+					</div>
+					<hr/>
+					<div class="row row-center">
+						<div class="col-sm-12">
+							<div class="subtitle fs-18 f-s-22"><b>E. Cyber Security Consulting</b></div>
+							<div>
+							LOGIQUE is ready to help your IT team to solve security problems and provide the best solutions. We can give technical advices to your IT team and strategic advices to your management team.
+							</div>
+						</div>
+					</div>
+					<br>
+					<br>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="mengapa-harus"><a href="https://www.logique.co.id/" target="_blank"><b>LOGIQUE</b></a> can help you.</div>
+	<br/>
+	<div class="metode">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-offset-1 col-md-10">
+					<p>
+					In Indonesia, we have performed security assessments on websites of a governmental organization, financial institution, up to a car manufacturer. Most of the cases, you will be shocked with the test result, but it is better at least you can notify the risk and make an appropriate strategy against it. <b>LOGIQUE</b> will help you lessen the risks until the risk gets almost none by monitoring its security constantly.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="clearfix"></div><br/><br/>
 	
 	<div class="harga">
 		<div class="container">
@@ -293,8 +268,7 @@
 			<div class="row">
 				<div class="col-md-offset-1 col-md-10">
 					<div class="subtitle text-left">
-					Although it is a simple assessment, we recommend that you know the status of your website’s security and how critical they are. <br/>
-					Feel free to contact us for consultation. We would be pleased to respond to your questions in English, in Indonesian, or in Japanese about the details related to website security assessment service, such as assessment detail, report items, cost, duration, etc. </div>
+					Although it is a simple assessment, we recommend that you know the status of your website’s security and how critical they are. Feel free to contact us for consultation. We would be pleased to respond to your questions in English, in Indonesian, or in Japanese about the details related to website security assessment service, such as assessment detail, report items, cost, duration, etc. </div>
 				</div>
 			</div>
 		</div>

@@ -116,7 +116,7 @@ h1, h2, h3, h4{
 .header-top .top-banner{margin-top: -50px;}
 .logo{position:absolute;top: 35px;left:0;z-index: 999;}
 .apakah{padding: 0px 8px;background: #000;display: inline-block;color: #fff;letter-spacing: 5px;font-size: 24px;}
-.header-top .title{color:#000;font-size:40px;letter-spacing: 1.25px;font-weight:bold;line-height: 1;}
+.header-top .title{color:#000;font-size:33px;letter-spacing: 1.25px;font-weight:bold;line-height: 1;}
 
 .target-umum-bg{background: url(../img/target-umum-bg.png);background-size:cover;background-position:right;padding:75px 0;background-repeat:no-repeat;}
 .target-umum-bg .title{font-size:24px;color:#fff;letter-spacing:0.625px;}
@@ -177,6 +177,9 @@ h1, h2, h3, h4{
 .div-lang a{border: 1px solid #000;margin-right: 5px;width: 40px;height: 22px;display: inline-block;text-align: center;color: #fcc515;font-weight: bold;background: #fff;border-radius: 5px;font-size: 14px;}
 .div-lang a:last-child{margin-right:0}
 .garis{display:inline-block}
+.p-l-3 {
+    padding-left: 3em;
+}
 
 /* responsive */
 	@media (min-width:768px) {
@@ -222,6 +225,9 @@ h1, h2, h3, h4{
 	@media only screen and (max-width : 767px) {
         .footer-title {margin-top: 20px;border-bottom: 2px solid #ffca13;padding-bottom: 3px;display: inline-block;}
 		.garis{display:none}
+        .p-l-3 {
+            padding-left: 1em;
+        }
 	}
 
     /* Extra Small Devices, Phones */ 
