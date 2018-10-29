@@ -481,6 +481,24 @@ if(isset($_POST['submitted']))
 								</div>
 							</div>
 						</div>
+						<div class="link-footer-webdev">
+							<br/>
+							<div style="margin-bottom:8px"><b>Social Media</b></div>
+							<div class="row medsos-new">
+								<div class="col-xs-3">
+									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+								<div class="col-xs-3">
+									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+								<div class="col-xs-3">
+									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+								<div class="col-xs-3">
+									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+							</div>
+						</div>
 					</div>
 					<div class="col-md-4 hidden-md hidden-lg">
 						<span><hr>Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</span>
@@ -532,16 +550,6 @@ if(isset($_POST['submitted']))
 									<a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
 									<a href="/produk/nippo.php" target="_blank">Nippo</a>
 									<a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
-								</div>
-							</div>
-							<div class="col-sm-6">
-								<div class="link-footer-webdev" style="padding-left:30px">
-									<br/>
-									<div style="margin-bottom:8px"><b>Social Media</b></div>
-									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i> Facebook</a>
-									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
-									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a>
-									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i> Linkedin</a>
 								</div>
 							</div>
 						</div>
