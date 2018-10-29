@@ -84,10 +84,10 @@ if(isset($_POST['submitted']))
 						</div>
 					</div>
 					<div class="col-md-offset-3 col-md-7 m-t-7em">
-						<h1 class="text-right">Mekanisme Pembuatan Websi<span class="underline">te di <span class="c-logique">Logique</span></span></h1>
-						<div class="subtitle-header">
+						<h1 class="text-right"><span class="c-logique">LOGIQUE</span><br>Siap Melayani Pembuatan Website Anda!</h1>
+						<!-- <div class="subtitle-header">
 							Dengan pengalaman selama lebih dari 5 tahun dan telah bekerja sama dengan perusahaan baik di tingkat nasional maupun internasional, dan didukung dengan sumber daya yang profesional di bidangnya, Logique selalu siap memberikan solusi terbaik bagi pembuatan dan pengembangan website Anda
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -99,7 +99,8 @@ if(isset($_POST['submitted']))
 						<div class="panel text-center custom-1">
 							<h1><b>Mengapa harus memilih LOGIQUE?</b></h1>
 							<br>
-							<p class="p-b-20">Karena Logique telah mempunyai pengalaman serta kualitas yang Anda perlukan dalam pengembangan sistem web untuk kebutuhan bisnis digital saat ini. Dengan pengalaman serta kualitas kami, dapat menjadi suatu terobosan bagi bisnis Anda.</p>
+							<p class="p-b-20">LOGIQUE terdiri dari tim developer, designer, dan content writer yang profesional dan ahli di bidangnya. Kami menjamin akan menghasilkan website terbaik dengan standar internasional yang dapat memenuhi kebutuhan dan keinginan Anda.<br><br>
+							Selain itu, kami dapat membuat website dengan tiga bahasa, yakni Indonesia, Inggris, dan Jepang. Meskipun kami perusahaan internasional, kami memiliki pengetahuan yang luas mengenai bagaimana bisnis digital dapat berjalan dengan baik di Indonesia.</p>
 						</div>
 					</div>
 				</div>
@@ -107,20 +108,20 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-1 col-md-10" style="padding: 0;">
 						<div class="col-md-4 text-center">
 							<div class="new-box min-h">
-								<h4>Berpengalaman selama lebih dari 6 tahun</h4>
-								<p>Berpengalaman selama lebih dari 6 tahun Logique merupakan perusahaan web developer dengan pengalaman di dunia digital selama lebih dari 6 tahun dan memiliki karyawan yang profesional di bidangnya sehingga dapat dengan mudah beradaptasi dengan berbagai proyek pekerjaan yang ada.</p>
+								<h4>Pengalaman Lebih dari 6 Tahun</h4>
+								<p>LOGIQUE mempunyai pengalaman selama lebih dari 6 tahun di dunia digital, mulai dari produksi website, pengembangan website, dan berbagai produk digital lainnya. Selama itu pula, kami telah membuktikan kemampuan dan kesungguhan kami dalam mewujudkan keinginan klien-klien kami.</p>
 							</div>
 						</div>
 						<div class="col-md-4 text-center">
 							<div class="new-box min-h">
-								<h4>Dipercaya oleh perusahaan Nasional dan Internasional</h4>
-								<p>Kami telah dipercaya oleh banyak perusahaan, baik tingkat Nasional dan Internasional untuk membantu mereka dalam membuat, mengelola dan memperbaiki website atau berbagai masalah digital lainnya.</p>
+								<h4>Dipercaya Berbagai Perusahaan Nasional dan Internasional</h4>
+								<p>Dikerjakan oleh karyawan-karyawan yang profesional di bidangnya, membuat para klien kami merasa senang dengan pelayanan dan hasil yang kami berikan. Kami telah berhasil—dan masih terus dipercaya—mengerjakan projek-projek besar dari perusahaan nasional maupun internasional di berbagai bidang, mulai dari manufaktur, pemerintahan, finance, hingga asuransi. </p>
 							</div>
 						</div>
 						<div class="col-md-4 text-center">
 							<div class="new-box min-h">
-								<h4>Cepat dan Fleksibel</h4>
-								<p><br>Logique Digital Indonesia mempunyai para pekerja profesional yang mampu bekerja secara cepat dan fleksibel sesuai dengan keinginan dan kebutuhan klien. Karena bagi kami klien merupakan raja dan rekan bisnis yang kami hormati.</p>
+								<h4>Cepat, Efisien, dan Fleksibel</h4>
+								<p><br>Dengan tim yang cerdas dan alur kerja yang terencana dan efisien, kami dapat memastikan bahwa Anda akan menerima hasil yang diinginkan dalam waktu yang telah Anda tetapkan. Kami pun sangat fleksibel dan terbuka dengan segala bentuk perubahan. Jika Anda menginginkan penyesuaian, kami dapat segera membantu Anda. </p>
 							</div>
 						</div>
 					</div>
@@ -131,8 +132,8 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-7 border-l text-right">
-						<h2 class="text-right">Langkah-Langkah Pembuatan Website di Logique</h2>
-						<p class="text-right">Untuk pembuatan sebuah website misalnya website perusahaan atau portal website yang memiliki dukungan manajemen konten (CMS), waktu yang diperlukan dari awal hingga waktu peluncuran website adalah 1 hingga 3 bulan. Apa saja yang diperlukan dalam jangka waktu tersebut? Berikut kami coba jabarkan langkah-langkah layanan pengembangan website yang dilakukan oleh Logique dengan penjelasan yang mudah dipahami.</p>
+						<h2 class="text-right">Tahapan Pembuatan Website di LOGIQUE</h2>
+						<p class="text-right">LOGIQUE memiliki tahap-tahap produksi website yang terstruktur. Biasanya, untuk membuat website dengan tampilan sederhana, kami hanya membutuhkan waktu 3 minggu. Waktu tersebut akan disesuaikan berdasarkan tingkat kompleksitas permintaan Anda, seperti penambahan sistem manajemen konten (CMS) dan fitur-fitur lainnya. <br><b>Berikut rangkaian tahap produksi website di LOGIQUE.</b></p>
 					</div>
 					<div class="col-md-3 text-center hidden-xs hidden-sm">
 						<a href="/" target="_blank"><img src="img/webdev/logo.png" alt="Fitur Perusahaan" class="custom-2"></a>
@@ -156,7 +157,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Tim kami siap membantu Anda dalam melakukan pengembangan website perusahaan atau portal website yang memiliki dukungan manajemen konten (CMS). Anda bisa menghubungi kami melalui email <a style="color:#333" href="mailto:info@logique.co.id"><u>info@logique.co.id</u></a> atau <a style="color:#333" target="_blank" href="/hubungi-kami.php"><u>Formulir Pemesanan</u></a> yang tersedia.</p>
+									<p>Anda dapat langsung melakukan pemesanan dan menjelaskan kepada kami gambaran awal mengenai website seperti apa yang Anda inginkan. Hubungi kami melalui email <a style="color:#333" href="mailto:info@logique.co.id"><u>info@logique.co.id</u></a> atau <a style="color:#333" target="_blank" href="/hubungi-kami.php">isi <u>Formulir Pemesanan</u></a> yang tersedia. Kami akan segera menghubungi Anda untuk berdiskusi lebih lanjut.</p>
 								</div>
 							</div>
 							</section>
@@ -175,12 +176,12 @@ if(isset($_POST['submitted']))
 									<span class="title-custom">2</span>
 								</div>
 								<div class="col-xs-10 col-sm-10 col-md-10">
-									<p class="title-custom-p"><b>Tahap Mendengar Kebutuhan</b></p>
+									<p class="title-custom-p"><b>Tahap Mendengarkan Kebutuhan</b></p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Setiap individu atau perusahaan tentunya mempunyai kebutuhan yang berbeda. Hal ini tentunya memerlukan pendekatan yang berbeda, terutama dalam konteks pembuatan website. Karena itu, kami akan fokus mendengar setiap permasalahan yang ingin diatasi dan dipenuhi oleh klien. Melalui cara seperti ini, kami dapat memberikan sebuah penawaran bagi klien, baik dari sisi manfaat dan keefektifan website tersebut.</p>
+									<p>Pada tahap ini, Anda dapat menjelaskan seluruh detail kebutuhan Anda. Mulai dari struktur website, penyesuaian fitur, hingga desain yang Anda inginkan. Selanjutnya, kami akan memberikan penawaran dan menjelaskan bentuk pendekatan yang efektif sesuai dengan manfaat yang ingin Anda capai melalui website tersebut.</p>
 								</div>
 							</div>
 						</div>
@@ -197,7 +198,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Setelah memahami seluruh permasalahan serta kebutuhan yang Anda butuhkan, selanjutnya kami akan membuat kerangka rencana dalam bentuk proposal. Proposal tersebut juga disertakan harga layanan serta waktu pengerjaan yang diperlukan dalam pembuatan website tersebut. Harga serta waktu yang kami berikan telah berdasarkan metode transparan serta tingkat kesulitan dan banyaknya anggota tim yang diperlukan untuk menyelesaikannya. Hal ini tentu membuat budget menjadi lebih efektif. Selain itu, kami juga akan memberikan layanan opsional, seperti fotografi, videografi dan pembuatan konten.</p>
+									<p>Setelah menemukan konsep yang diinginkan, kami akan membuat kerangka perencanaan pembuatan website dalam bentuk proposal untuk Anda. Dalam perencanaan tersebut akan disertakan pula informasi tim yang akan dilibatkan, harga layanan, dan waktu pengerjaan yang diperlukan. </p>
 								</div>
 							</div>
 						</div>
@@ -214,7 +215,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Jika Anda sudah setuju dengan penawaran yang kami ajukan, maka proses berikutnya adalah penandatanganan kontrak dan pembayaran uang muka sebesar 50%. Segera setelah proses kontrak dan pembayaran selesai kami dapat mulai mengerjakan website Anda.</p>
+									<p>Pada tahap ini akan terjadi penandatanganan kontrak serta pembayaran uang muka sebesar 50%. Setelah proses penandatangan kontrak serta pembayaran selesai, tim kami akan langsung memulai operasi produksi website Anda.</p>
 								</div>
 							</div>
 						</div>
@@ -232,13 +233,13 @@ if(isset($_POST['submitted']))
 									<span class="custom-p-1">5</span>
 								</div>
 								<div class="col-xs-10">
-									<p class="custom-p-2"><b>Tahap Konfirmasi Kebutuhan</b></p>
+									<p class="custom-p-2"><b>Tahap Konfirmasi</b></p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<div class="border-right-custom"></div>
-									<p>Sebelum memulai proyek, kami akan melakukan konfirmasi serta melakukan pendetilan kebutuhan dengan Anda. Hal ini bertujuan agar tidak ada poin-poin yang terlewat sehingga menimbulkan kendala suatu saat nanti. Pada tahap ini, kami membutuhkan kerjasama Anda untuk meeting dan berdiskusi dengan kami. Setiap poin yang dibahas akan kami rangkum ke dalam dokumen daftar fitur yang selanjutnya akan kami buatkan kerangka (wireframe) yang dapat digunakan sebagai acuan di tahap selanjutnya.</p>
+									<p>Kami akan mengonfirmasi seluruh detail kebutuhan dan perencanaan struktur website Anda. Hal ini untuk memastikan bahwa tidak ada poin-poin yang terlewat dan menimbulkan kendala suatu saat nanti. Selain itu, kami juga akan menunjukkan kerangka website (wireframe) yang telah kami buat untuk Anda sebagai gambaran awal.</p>
 								</div>
 							</div>
 						</div>
@@ -257,7 +258,7 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<div class="border-right-custom"></div>
-									<p>Pada tahap ini, kami akan memulainya dengan membuat konsep halaman utama (homepage) yang telah disesuaikan dengan petunjuk dari desain perusahaan Anda atau referensi yang Anda berikan. Tim desainer kami selanjutnya akan memberikan beberapa alternatif desain kepada Anda untuk dipilih dan dilakukan revisi jika diperlukan. Biasanya maksimal revisi yang bisa kami berikan adalah sebanyak 3 kali. Setelah desain halaman utama Anda setujui, selanjutnya kami akan membuat desain untuk semua halaman yang lainnya.</p>
+									<p>Pada tahap ini, konsep halaman utama (homepage) akan dibuat dan didesain sesuai dengan referensi yang Anda berikan. Tim desain kami juga akan memberikan beberapa alternatif untuk kemudian dapat Anda setujui atau dilakukan revisi.</p>
 								</div>
 							</div>
 						</div>
@@ -274,7 +275,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Saat desain sedang diproses, kami akan mulai dengan mempersiapkan rancangan proyek fungsional dimana di dalamnya termasuk arsitektur data serta website itu sendiri. Setelah dasar arsitektur telah terbentuk, selanjutnya kami akan masuk ke dalam pengerjaan fungsional untuk setiap fitur. Konsep seperti ini kami buat demi memastikan website yang telah kami buat telah terstruktur dengan baik.</p>
+									<p>Di sini, kami akan mengeksekusi pengerjaan fungsi programming dari berbagai fitur yang telah direncanakan. Kami akan memastikan bahwa seluruh arsitektur data dan fitur dalam website berjalan dan berfungsi dengan baik.</p>
 								</div>
 							</div>
 						</div>
@@ -297,7 +298,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Terdapat beberapa kategori pengetesan yang kami lakukan di tahap ini, antara lain yaitu pengetesan internal, demonstrasi serta pengetesan yang melibatkan klien. Pengetesan internal dilakukan ketika setiap fitur telah dikerjakan oleh web developer. Hal ini bertujuan untuk memastikan website telah berjalan dengan baik sebelum diberikan kepada klien. Setelah semua selesai, kami secara berkala akan melakukan demonstrasi fitur-fitur yang telah selesai dikembangkan kepada klien, dimana klien akan dapat langsung memberikan masukan kepada kami mengenai fitur-fitur tersebut. Ketika proyek telah memasuki tahap finalisasi, maka akan dilakukan pengetesan bersama klien sebagai bukti bahwa semua fungsi telah dikonfirmasi oleh klien dan berjalan dengan baik.</p>
+									<p>Setelah website dibuat, kami akan melakukan beberapa pengetesan seperti pengetesan internal dan demonstrasi. Pengetesan juga akan melibatkan Anda sebagai pemilik agar Anda bisa langsung merasakan dan menilai hasil jadi website Anda.</p>
 								</div>
 							</div>
 						</div>
@@ -315,7 +316,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Tahapan ini merupakan yang paling ditunggu oleh para klien kami, dimana peluncuran website siap dilakukan pada tanggal yang telah disepakati bersama. Jika Anda mempunyai data lama dari website Anda, maka pemindahan data ke dalam website baru membutuhkan waktu selama 1-3 hari. Hal ini tentunya perlu diperhitungkan sebelum menentukan tanggal peluncuran website tersebut. Bersamaan dengan itu, kami juga akan menagih pembayaran terakhir sebesar 50% kepada Anda.</p>
+									<p>Setelah seluruh rangkaian pembuatan website telah dicapai, kami dapat membantu memindahkan data dari website lama Anda jika diperlukan. Pada tahap ini, Anda bisa langsung melunasi sisa pembayaran dan website Anda dapat segera digunakan. </p>
 								</div>
 							</div>
 						</div>
@@ -332,7 +333,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Setelah website diluncurkan bukanlah akhir dari semua, akan tetapi justru menjadi permulaan. Sebab, Anda perlu mengelola website tersebut dengan baik agar memberikan hasil yang maksimal. Logique menyediakan layanan pengelolaan, mulai dari pengamatan sistem atau melakukan pengoperasian sehari-hari sehingga memudahkan Anda. Banyak klien kami yang telah bekerja bersama kami selama lebih dari 3 tahun dan hingga kini kami terus memberikan layanan maksimal kepada mereka untuk menciptakan hubungan kerjasama jangka panjang.</p>
+									<p>Setelah website diluncurkan, kami tidak serta-merta meninggalkan Anda. Setiap website memerlukan pengelolaan jangka panjang, tidak terkecuali website Anda. Kami akan terus menjaga sistem website Anda agar tetap memberikan hasil yang Anda inginkan.</p>
 								</div>
 							</div>
 						</div>
@@ -344,31 +345,74 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row hidden-md hidden-lg">
 					<div class="col-md-12">
-						<h2 class="m-m-10">Layanan di LOGIQUE</h2>
+						<h2 class="m-m-10">BUTUH LAYANAN LAINNYA?</h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<h4 class="panel text-center custom-faq">Selain produksi website, LOGIQUE juga menyediakan beragam layanan lain yang dapat menjadi solusi untuk mengoptimalkan bisnis digital Anda.</h4>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-4">
 						<h2 class="custom-3">Pengembangan Aplikasi Mobile</h2>
-						<p class="min-h">Kami melayani pengembangan aplikasi Android/ iOS yang sesuai dengan pasar Indonesia. Tidak hanya merancang atau mengimplementasikan teknologi baru, tetapi kami juga mengoptimalkan UI dan UX, desain, pengembangan aplikasi, hingga membantu Anda mendaftarkan aplikasi ke App Store / Google Play. Sebuah layanan yang komprehensif untuk Anda. </p>
+						<p class="min-h">Kami melayani pengembangan aplikasi mobile untuk Android dan iOS dengan UI/UX yang user-friendly, stabil, dan mudah digunakan. Pengembangan aplikasi meliputi perancangan, implementasi teknologi baru, optimalisasi UI/UX, desain, hingga pendaftaran ke Google Play/App Store. Kami siap membantu mengoptimasi bisnis Anda dengan aplikasi mobile berteknologi terkini.</p>
 						<div>
 							<a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
 						</div>
 					</div>
 					<div class="col-md-4">
-						<div class="border-top-custom-2 hidden-xs hidden-sm">Layanan di LOGIQUE</div>
-						<h2 class="custom-3">Website Karir</h2>
-						<p class="min-h">Sekarang semakin sulit bagi perusahaan untuk mendapatkan karyawan ideal yang sesuai dan cocok dengan bisnis yang dijalankan. Halaman karir website perusahaan Anda adalah salah satu faktor penting untuk kesuksesan perekrutan. Halaman ini dapat menjadi kunci untuk memberitahu pengunjung tentang perusahaan Anda, suasana kerja, keuntungan bekerja diperusahaan Anda, dan karyawan yang Anda cari dengan jelas misalnya menggunakan video interview. Kami memiliki banyak pengalaman dalam pembuatan website yang terkait dengan rekrutmen atau halaman karir. </p>
+						<div class="border-top-custom-2 hidden-xs hidden-sm">BUTUH LAYANAN LAINNYA?</div>
+						<h2 class="custom-3">Pembuatan Website Karir</h2>
+						<p class="min-h">Untuk membantu perusahaan Anda menemukan calon karyawan yang sesuai, kami menyediakan layanan pembuatan halaman website karir yang terstruktur, dinamis, dan teroptimasi dengan baik. Halaman ini akan menunjukkan profesionalitas perusahaan Anda, sehingga akan ada banyak calon-calon pekerja yang tertarik untuk bekerja di perusahaan Anda.</p>
 						<div>
 							<a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
 						</div>
 					</div>
 					<div class="col-md-4">
-						<h2 class="custom-3">Pengetesan Keamanan Website (VA Test)</h2>
-						<p class="min-h">Kami dapat melakukan pengetesan dan melaporkan temuan-temuan kami terkait celah keamanan website Anda. Dengan mengetahui celah keamanan tersebut Anda dapat melakukan tindakan pencegahan dari tindak kejahatan digital seperti injeksi SQL, cross-site scripting, session jacking, dan lain-lain. Tim ahli kami akan melakukan tes dengan menggunakan alat-alat pemindaian serta menganalisa temuan-temuan untuk dituangkan ke dalam laporan. Layanan ini kami sediakan mulai dari 10,000,000 Rupiah.</p>
+						<h2 class="custom-3">Pengetesan Keamanan Website (Pen-Test)</h2>
+						<p class="min-h">Perlindungan keamanan website Anda sangat diperlukan agar tidak mudah disusupi oleh orang-orang yang tidak bertanggung jawab. Untuk itu, LOGIQUE menyediakan layanan tes keamanan website. Dengan layanan ini, kami akan melakukan penelusuran setiap celah dan potensi penyusupan, untuk kemudian dilakukan tindakan pencegahan, seperti injeksi SQL, cross-site scripting, session jacking, dan lain-lain. Layanan ini kami tawarkan dengan harga mulai Rp 10 juta.</p>
 						<div>
 							<a href="/layanan/penetration-testing/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
 						</div>
+					</div>
+				</div>
+				<br class="hidden-xs">
+				<div class="row">
+					<div class="col-md-4">
+						<h2 class="custom-3">Pengelolaan Website</h2>
+						<p class="min-h">Tidak hanya pembuatan website, LOGIQUE juga menyediakan layanan maintenance atau pengelolaan website. Mulai dari pemeliharaan, pembuatan konten dengan SEO, hingga pemasaran. Seluruh progres dan strategi peningkatan traffic ini nantinya akan dilaporkan langsung kepada Anda secara berkala. Selama pengelolaan ini, kami akan memastikan website Anda mendapatkan pengunjung potensial sebanyak-banyaknya sesuai dengan target bisnis Anda.</p>
+						<div>
+							<a href="/portofolio.php" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<h2 class="custom-3">Konsultasi Bisnis Digital</h2>
+						<p class="min-h">LOGIQUE memiliki pengalaman selama 6 tahun dalam menangani permasalahan digital serta membantu berbagai perusahaan membangun bisnis di dunia digital, baik dalam skala nasional maupun internasional. Jika Anda memiliki keraguan atau memiliki permasalahan terkait bisnis digital Anda, LOGIQUE menyediakan layanan konsultasi yang dapat memberikan solusi untuk Anda.</p>
+						<div>
+							<a href="/portofolio.php" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
+						</div>
+					</div>
+				</div>
+				<br><br class="hidden-xs">
+				<div class="row">
+					<div class="col-md-12">
+					  <div class="custom-faq">
+						<h3 class="text-center">Pertanyaan Yang Sering Diajukan (FAQ)</h3>
+						<hr>
+						<p><b>Berapa harga pembuatan website di LOGIQUE?</b><br>
+						LOGIQUE melayani pengerjaan website dengan harga yang disesuaikan dengan kebutuhan Anda. Untuk lebih detailnya, Anda dapat langsung menghubungi kami melalui email ke info@LOGIQUE.co.id, telepon di (021) 227 089 35/36, atau pesan WhatsApp di 0812 9656 0380.</p>
+						<p><b>Apa saja yang dibutuhkan LOGIQUE dari klien dalam pembuatan website?</b><br>
+						Untuk membuat website, klien hanya perlu menjelaskan proses bisnis yang akan dilakukan terhadap website yang akan dibuat. Data-data pendukung lainnya bisa diserahkan bila perlu. </p>
+						<p><b>Berapa lama waktu yang dibutuhkan LOGIQUE dalam pembuatan website?</b><br>
+						Biasanya, untuk membuat website dengan tampilan sederhana, kami hanya membutuhkan waktu 3 minggu. Waktu tersebut akan disesuaikan berdasarkan tingkat kompleksitas permintaan Anda, seperti penambahan sistem manajemen konten (CMS) dan fitur-fitur lainnya.</p>
+						<p><b>Bisakah LOGIQUE membuat website e-commerce?</b><br>
+						Tentu. LOGIQUE telah berpengalaman cukup lama dalam penggarapan website e-commerce dalam beragam bentuk dan tools. Untuk mengetahui website e-commerce apa saja yang telah kami kerjakan, Anda dapat melihat portofolio kami.</p>
+						<p><b>Bagaimana dengan biaya pengelolaan website di LOGIQUE?</b><br>
+						LOGIQUE melayani pengelolaan website secara profesional dan terencana. Untuk mengetahui harga pengelolaan website di LOGIQUE, Anda dapat langsung menghubungi kami melalui email ke info@LOGIQUE.co.id, telepon di (021) 227 089 35/36, atau pesan WhatsApp di 0812 9656 0380.</p>
+						<p><b>Bahasa pemrograman apa yang digunakan LOGIQUE dalam pembuatan website?</b><br>
+						LOGIQUE menggunakan beragam bahasa pemrograman terkini dan fungsional seperti PHP, HTML, CSS, hingga JavaScript, sehingga website yang dihasilkan bersifat dinamis, efektif, dan fleksibel. Kami juga selalu update dengan teknologi pemrograman terbaru dan penggunaannya dapat disesuaikan dengan keinginan Anda.</p>
+					  </div>
 					</div>
 				</div>
 			</div>
@@ -376,11 +420,12 @@ if(isset($_POST['submitted']))
 		<section style="padding: 2em">
 			<div class="row">
 				<div class="col-md-12 text-center" style=" background: #ffcd38; padding: 1.5em; border-radius: 1em; ">
-					<h4 style="margin-top: -5px;">Ingin tahu lebih banyak mengenai berbagai proyek yang telah kami kerjakan? Silahkan kunjungi link berikut ini!</h4>
+					<h4 style="margin-top: -5px;">Jika Anda tertarik dengan layanan LOGIQUE di atas, segera hubungi kami. Kami selalu siap membantu Anda.</h4>
 					<a href="/portofolio.php" target="_blank" class="btn btn-logic btn-lg btn-portfolio">Portfolio Kami</a>
 				</div>
 			</div>
 		</section>
+
 		<section class="tahap-pemesanan-list">
 			<div class="border-top-list hidden-xs hidden-sm"></div>
 			<div class="container">
@@ -480,13 +525,23 @@ if(isset($_POST['submitted']))
 					<div class="col-md-4 hidden-xs hidden-sm">
 						<p>Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>
 						<div class="row">
-							<div class="col-sm-12">
+							<div class="col-sm-6">
 								<div class="link-footer-webdev" style="padding-left:30px">
 									<br/>
 									<div style="margin-bottom:8px"><b>Produk LOGIQUE</b></div>
 									<a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
 									<a href="/produk/nippo.php" target="_blank">Nippo</a>
 									<a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
+								</div>
+							</div>
+							<div class="col-sm-6">
+								<div class="link-footer-webdev" style="padding-left:30px">
+									<br/>
+									<div style="margin-bottom:8px"><b>Social Media</b></div>
+									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i> Facebook</a>
+									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
+									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a>
+									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i> Linkedin</a>
 								</div>
 							</div>
 						</div>
@@ -517,7 +572,7 @@ if(isset($_POST['submitted']))
 			});
 
 			$('.min-h').matchHeight({
-				byRow: false
+				byRow: true
 			});
 		</script>
 	</body>

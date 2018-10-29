@@ -32,7 +32,7 @@ ga('send', 'pageview');
 							<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Klinik Gigi </a></h6>
 						<h5><a href="/layanan/pembuatan-sistem-web/" target="_blank">Jasa Pengembangan Sistem Web</a></h5>
 						<h5><a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank">Pengembangan Aplikasi Mobile </a></h5>
-						<h5><a href="/layanan/penetration-testing/" target="_blank">Pengetesan Keamanan Website (VA Test) </a></h5>
+						<h5><a href="/layanan/penetration-testing/" target="_blank">Pengetesan Keamanan Website (Pentest) </a></h5>
 					</div>
 					<div class="col-sm-4 link-footer">
 						<div class="footer-title">Produk LOGIQUE</div>

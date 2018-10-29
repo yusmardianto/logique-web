@@ -465,13 +465,23 @@ if(isset($_POST['submitted']))
 					<div class="col-md-4 hidden-xs hidden-sm">
 						<p>LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.</p>
 						<div class="row">
-							<div class="col-sm-12">
+							<div class="col-sm-6">
 								<div class="link-footer-webdev" style="padding-left:30px">
 									<br/>
 									<div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div>
 									<a href="/en/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
 									<a href="/en/product/nippo.php" target="_blank">Nippo</a>
 									<a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
+								</div>
+							</div>
+							<div class="col-sm-6">
+								<div class="link-footer-webdev" style="padding-left:30px">
+									<br/>
+									<div style="margin-bottom:8px"><b>Social Media</b></div>
+									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i> Facebook</a>
+									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
+									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a>
+									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i> Linkedin</a>
 								</div>
 							</div>
 						</div>
