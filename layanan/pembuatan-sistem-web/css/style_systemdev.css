@@ -33,10 +33,16 @@ header h1 {
 .style-2 {
     background: url(../img/webdev/img2.jpg);    
     color: #fff;
-    height: -webkit-fill-available;
+    height: 626px;
     background-repeat: no-repeat;
     background-size: 100%;}
 .style-3 {background: #fff;color: #111;padding-top: 0;}
+.card-top {padding:1em;font-size: 16px;
+    box-shadow: 0 0 10px #b9b9b9;
+    border-radius: 4px;}
+.card-top-2 {padding: 8px 0;
+    border-bottom: solid #ffbf00;
+    text-align: center;}
 .new1 {
     height: 55px;
     text-align: center;
@@ -84,7 +90,7 @@ header h1 {
 }
 .style-6{
     background: url(../img/webdev/img4.jpg); 
-    background-position: left center;background-size: cover;height: 570px;
+    background-position: left center;background-size: cover;height: auto;
     color: #fff;}
 .style-7{
     background: url(../img/webdev/img5.jpg);
@@ -336,4 +342,5 @@ footer {padding-bottom: 0}
 .m-m-10 {margin-top: -5px}
 .min-h {height: auto!important}
 .list-inline {margin-top: -12px;margin-right: 12px;}
+.card-top-2 {padding: 8px 1em}
 }
