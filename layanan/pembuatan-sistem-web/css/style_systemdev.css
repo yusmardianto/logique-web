@@ -16,9 +16,9 @@ header {
 }
 header h1 {
     font-family: 'Lato', serif;
-    font-size: 54px;
+    font-size: 45px;
     color: #333;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     padding-left: 1.5em;
     padding-right: 1em;
 }

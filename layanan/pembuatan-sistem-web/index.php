@@ -82,7 +82,7 @@ if(isset($_POST['submitted']))
 						</ul>
 					</div>
 					<div class="col-md-offset-7 col-md-5 m-t-10em">
-						<h1 class="text-left m-new">Pembuatan Sistem Web di Logique</h1>
+						<h1 class="text-left m-new">Cari Perusahaan Pembuatan Sistem Web? LOGIQUE AJA!</h1>
 					</div>
 				</div>
 			</div>
@@ -91,7 +91,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10 text-center">
-						<h1>“Pemanfaatan teknologi terkini untuk <br class="hidden-xs"> pelayanan maksimal terhadap klien dan <br class="hidden-xs"> pelanggan.”</h1>
+						<h1>“Pemanfaatan teknologi terkini untuk <br class="hidden-xs"> meningkatkan profit bisnis Anda.”</h1>
 					</div>
 				</div>
 			</div>
@@ -100,7 +100,8 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-7 col-md-5">
-						<h1 class="new5">Ringka<span class="underline">san Teknikal Logi</span>que</h1>
+						<h1 class="new5">Penerapan <span class="underline">Teknologi</span> Terbaru</h1>
+						<p>Demi memberikan layanan yang maksimal terhadap para kliennya, LOGIQUE menerapkan berbagai teknologi terbaru pada berbagai proyek yang dikerjakan. Berikut ini adalah bentuk penerapan teknologi terbaru yang kami lakukan dalam hal pengembangan sistem web, antara lain yaitu:</p>
 					</div>
 				</div>
 			</div>
@@ -109,7 +110,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-3">
-						<h3 class="new1">[Penggunaan Teknologi]</h3>
+						<h3 class="new1">[Penerapan Teknologi Terbaru]</h3>
 						<p class="new4">Teknologi berkembang sangat pesat. Penggunaan teknologi dan metode yang tepat akan memberikan manfaat maksimal untuk sistem Anda. Tim Logique menjadi salah satu yang terdepan dalam mengimplementasikan teknologi atau bahasa pemograman baru dalam pengembangan web, sistem web atau aplikasi. Beberapa yang telah kami implementasikan di antaranya adalah dengan AngularJS, Node.JS, Socket.IO, dan Ionic Framework.</p>
 					</div>
 					<div class="col-md-3">
