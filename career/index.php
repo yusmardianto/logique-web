@@ -524,7 +524,7 @@
 							<li>Up to date untuk konten situs web sesuai kebutuhan.</li>
 						</ul>
 						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
-							Apply for Content Writer
+							Apply for IT Content Writer
 						</a>
 					</div>
 				</div>
