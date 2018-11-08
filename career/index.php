@@ -357,7 +357,7 @@
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
-							<img alt="Quality Assurance" src="../img/frontend.png" class="img-responsive"/>
+							<img alt="Front End" src="../img/frontend.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Front End</h5>
 							<h6>Dibutuhkan di Jakarta</h6>
@@ -366,7 +366,11 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
-						
+						<div style="font-weight:bold;font-size:18px">
+							<span style="font-size:22px">URGENTLY NEEDED </span><br/>
+							Front End Developer (di Jakarta) dengan 1-2 tahun pengalaman untuk project React Js
+						</div>
+						<br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Berlatar belakang pendidikan dari Sistem Informasi, Teknologi Informasi atau sejenisnya.</li>
@@ -404,12 +408,17 @@
 							<img alt="Quality Assurance" src="../img/qa.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Quality Assurance</h5>
-							<h6>Dibutuhkan di Jakarta</h6>
+							<h6>Dibutuhkan di Yogyakarta</h6>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
+					    <div style="font-weight:bold;font-size:18px">
+							<span style="font-size:22px">URGENTLY NEEDED </span><br/>
+							Quality Assurance (di Yogyakarta) dengan 1-2 tahun pengalaman
+						</div>
+						<br/>
 						Quality Assurance berperan untuk memastikan semua hasil pekerjaan dan kualitas pembuatan website atau sistem web sudah memenuhi semua aspek yang sudah ditetapkan dengan membuat dokumentasi dan melakukan pengecekan secara komprehensif.<br/><br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
@@ -482,103 +491,9 @@
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
-							<img alt="Technical Consultant" src="../img/techcons.png" class="img-responsive"/>
-							<h4>Lowongan</h4>
-							<h5>Technical Consultant</h5>
-							<h6>Dibutuhkan di Jakarta</h6>
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-8">
-					<div class="div-job desc-job">
-						Technical Consultant merupakan partner terbaik kami dalam menganalisa dan merekomendasikan solusi sistem web dan website terbaik untuk memecahkan masalah yang ada dalam proses bisnis. Seorang Technical Consultant memiliki pengetahuan yang luas baik dari sisi bisnis maupun teknikal.<br/><br/>
-						<b>Persyaratan:</b><br/>
-						<ul class="joinus-ul">
-							<li>Memiliki pengalaman sebagai IT Consultant.</li>
-							<li>Memiliki kemampuan untuk memecahkan masalah perangkat keras, perangkat lunak dan jaringan.</li>
-							<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
-							<li>Mempunyai pengalaman dalam manajemen proyek.</li>
-							<li>Memiliki pikiran analitis dengan kemampuan memecahkan masalah.</li>
-							<li>Bisa bekerja dalam tim dengan kemampuan komunikasi dan presentasi yang sangat baik.</li>
-							<li>Orientasi layanan pelanggan.</li>
-							<li>Memiliki kemampuan interpesonal.</li>
-							<li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.</li>
-						</ul><br/>
-						
-						<b>Tanggung Jawab:</b><br/>
-						<ul class="joinus-ul">
-							<li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
-							<li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
-							<li>Mengelola inisiatif TI dan berkolaborasi dengan staf teknis internal.</li>
-							<li>Mendesain sistem dan jaringan TI memastikan arsitektur dan fungsionalitas yang tepat.</li>
-							<li>Mendukung implementasi teknologi baru.</li>
-							<li>Melatih pengguna dalam sistem TI baru dan yang sudah ada.</li>
-							<li>Berikan bantuan untuk masalah teknis.</li>
-							<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>
-							<li>Menghasilkan laporan.</li>
-						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
-							Apply for Technical Consultant
-						</a>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-			<hr class="separator-career"></hr>
-			<div class="one-job-opening">
-				<div class="col-sm-4" style="padding:0">
-					<div class="div-job title-job">
-						<div class="valign-center">
-							<img alt="Mobile App Developer" src="../img/mobdev.png" class="img-responsive"/>
-							<h4>Lowongan</h4>
-							<h5>Mobile App Developer</h5>
-							<h6>Dibutuhkan di Jakarta</h6>
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-8">
-					<div class="div-job desc-job">
-						Mobile Developer berperan dalam membuat dan mengembangkan <i>platform</i> mobile seperti Android dan iOS baik dengan metode <i>native</i> atau <i>hybrid</i>.<br/><br/>
-						<b>Persyaratan:</b><br/>
-						<ul class="joinus-ul">
-							<li>Mempunyai pengalaman kerja sebagai pengembang Mobile (iOS & Android).</li>
-							<li>Portofolio yang dapat dipamerkan dari aplikasi yang diluncurkan di App Store atau pasar Android.</li>
-							<li>Mempunyai pengetahuan mendalam tentang setidaknya satu bahasa pemrograman seperti Swift dan Java.</li>
-							<li>Pengalaman dengan perpustakaan dan API pihak ketiga.</li>
-							<li>Memiliki Keakraban dengan prinsip desain OOP.</li>
-							<li>Kemampuan analisis yang bagus dengan sikap pemecahan masalah yang baik.</li>
-							<li>Kemampuan untuk tampil di lingkungan tim.</li>
-							<li>Berpendidikan minimal S1 di bidang Ilmu Komputer/Teknologi Informasi atau yang setara.</li>
-						</ul><br/>
-						
-						<b>Tanggung Jawab:</b><br/>
-						<ul class="joinus-ul">
-							<li>Menghasilkan aplikasi mobile yang berfungsi penuh (iOS dan Android).</li>
-							<li>Mendukung seluruh siklus hidup aplikasi (konsep, desain, pengujian, pelepasan dan dukungan).</li>
-							<li>Mengumpulkan persyaratan khusus dan menyarankan solusi.</li>
-							<li>Tulis tes unit dan tes UI untuk mengidentifikasi malfungsi.</li>
-							<li>Memecahkan masalah dan melakukan debug untuk mengoptimalkan kinerja aplikasi seluler.</li>
-							<li>Desain antarmuka untuk meningkatkan pengalaman pengguna.</li>
-							<li>Berhubungan dengan tim Proyek untuk merencanakan fitur baru.</li>
-							<li>Pastikan aplikasi baru dan warisan memenuhi standar kualitas.</li>
-							<li>Meneliti dan menyarankan produk, aplikasi, dan protokol seluler baru.</li>
-							<li>Tetap up-to-date dengan tren teknologi baru.</li>
-						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
-							Apply for Mobile App Developer
-						</a>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-			<hr class="separator-career"></hr>
-			<div class="one-job-opening">
-				<div class="col-sm-4" style="padding:0">
-					<div class="div-job title-job">
-						<div class="valign-center">
 							<img alt="Content Writer" src="../img/contenwriter.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
-							<h5>Content Writer</h5>
+							<h5>IT Content Writer</h5>
 							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
@@ -620,10 +535,107 @@
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
+							<img alt="Technical Consultant" src="../img/techcons.png" class="img-responsive"/>
+							<h4>Lowongan</h4>
+							<h5>Technical Consultant</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
+							<div style="margin-top:10px;font-weight:400">(On Hold)</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						Technical Consultant merupakan partner terbaik kami dalam menganalisa dan merekomendasikan solusi sistem web dan website terbaik untuk memecahkan masalah yang ada dalam proses bisnis. Seorang Technical Consultant memiliki pengetahuan yang luas baik dari sisi bisnis maupun teknikal.<br/><br/>
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Memiliki pengalaman sebagai IT Consultant.</li>
+							<li>Memiliki kemampuan untuk memecahkan masalah perangkat keras, perangkat lunak dan jaringan.</li>
+							<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
+							<li>Mempunyai pengalaman dalam manajemen proyek.</li>
+							<li>Memiliki pikiran analitis dengan kemampuan memecahkan masalah.</li>
+							<li>Bisa bekerja dalam tim dengan kemampuan komunikasi dan presentasi yang sangat baik.</li>
+							<li>Orientasi layanan pelanggan.</li>
+							<li>Memiliki kemampuan interpesonal.</li>
+							<li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.</li>
+						</ul><br/>
+						
+						<b>Tanggung Jawab:</b><br/>
+						<ul class="joinus-ul">
+							<li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
+							<li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
+							<li>Mengelola inisiatif TI dan berkolaborasi dengan staf teknis internal.</li>
+							<li>Mendesain sistem dan jaringan TI memastikan arsitektur dan fungsionalitas yang tepat.</li>
+							<li>Mendukung implementasi teknologi baru.</li>
+							<li>Melatih pengguna dalam sistem TI baru dan yang sudah ada.</li>
+							<li>Berikan bantuan untuk masalah teknis.</li>
+							<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>
+							<li>Menghasilkan laporan.</li>
+						</ul>
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">
+							Apply for Technical Consultant
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
+							<img alt="Mobile App Developer" src="../img/mobdev.png" class="img-responsive"/>
+							<h4>Lowongan</h4>
+							<h5>Mobile App Developer</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
+							<div style="margin-top:10px;font-weight:400">(On Hold)</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						Mobile Developer berperan dalam membuat dan mengembangkan <i>platform</i> mobile seperti Android dan iOS baik dengan metode <i>native</i> atau <i>hybrid</i>.<br/><br/>
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Mempunyai pengalaman kerja sebagai pengembang Mobile (iOS & Android).</li>
+							<li>Portofolio yang dapat dipamerkan dari aplikasi yang diluncurkan di App Store atau pasar Android.</li>
+							<li>Mempunyai pengetahuan mendalam tentang setidaknya satu bahasa pemrograman seperti Swift dan Java.</li>
+							<li>Pengalaman dengan perpustakaan dan API pihak ketiga.</li>
+							<li>Memiliki Keakraban dengan prinsip desain OOP.</li>
+							<li>Kemampuan analisis yang bagus dengan sikap pemecahan masalah yang baik.</li>
+							<li>Kemampuan untuk tampil di lingkungan tim.</li>
+							<li>Berpendidikan minimal S1 di bidang Ilmu Komputer/Teknologi Informasi atau yang setara.</li>
+						</ul><br/>
+						
+						<b>Tanggung Jawab:</b><br/>
+						<ul class="joinus-ul">
+							<li>Menghasilkan aplikasi mobile yang berfungsi penuh (iOS dan Android).</li>
+							<li>Mendukung seluruh siklus hidup aplikasi (konsep, desain, pengujian, pelepasan dan dukungan).</li>
+							<li>Mengumpulkan persyaratan khusus dan menyarankan solusi.</li>
+							<li>Tulis tes unit dan tes UI untuk mengidentifikasi malfungsi.</li>
+							<li>Memecahkan masalah dan melakukan debug untuk mengoptimalkan kinerja aplikasi seluler.</li>
+							<li>Desain antarmuka untuk meningkatkan pengalaman pengguna.</li>
+							<li>Berhubungan dengan tim Proyek untuk merencanakan fitur baru.</li>
+							<li>Pastikan aplikasi baru dan warisan memenuhi standar kualitas.</li>
+							<li>Meneliti dan menyarankan produk, aplikasi, dan protokol seluler baru.</li>
+							<li>Tetap up-to-date dengan tren teknologi baru.</li>
+						</ul>
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">
+							Apply for Mobile App Developer
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
 							<img alt="Project Manager" src="../img/proj-manager.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Project Manager</h5>
 							<h6>Dibutuhkan di Jakarta</h6>
+							<div style="margin-top:10px;font-weight:400">(On Hold)</div>
 						</div>
 					</div>
 				</div>
@@ -648,7 +660,7 @@
 							<li>Mampu berpikir logis dan tegas dalam mengambil tindakan.</li>
 							<li>Memiliki pengetahuan tentang pemasaran digital dan keingintahuan yang tinggi akan hal-hal baru.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">
 							Apply for Project Manager
 						</a>
 					</div>
@@ -664,6 +676,7 @@
 							<h4>Lowongan</h4>
 							<h5>Designer</h5>
 							<h6>Dibutuhkan di Jakarta</h6>
+							<div style="margin-top:10px;font-weight:400">(On Hold)</div>
 						</div>
 					</div>
 				</div>
@@ -680,7 +693,7 @@
 						<ul class="joinus-ul">
 							<li>Memiliki kemampuan untuk menggunakan software desain (Photoshop, Illustrator, dll).</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">
 							Apply for Designer
 						</a>
 					</div>

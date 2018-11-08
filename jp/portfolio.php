@@ -547,6 +547,17 @@
 									<br><div class="grey-clr">PWA, モバイル, Eコマース</div><br><br><br>
 								</div>
 							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">								
+								<a href="https://cikarang-japanese-school.com/" target="_blank">
+									<img src="/img/portfolio/cjs.png" class="img-responsive center-block">
+									Cikarang Japanese School
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEB構築＆運用 (デザイン | Coding | Wordpress | AWS運用)<br>
+									<br><div class="grey-clr">日本語WEB,ブログ,モバイル最適化,願書受付,学校</div><br><br><br>
+								</div>
+							</div>
 						</div>
 						<br/>
 						<span class="characteristic-title">システム構築実績</span>
@@ -809,6 +820,11 @@
 							<div class="col-sm-4">
 								<img src="/img/portfolio/otomart-app.png" class="img-responsive center-block">
 								Otomart -  Dealer Car App<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/jba-bid.png" class="img-responsive center-block">
+								JBA Indonesia オークション入札Androidアプリ<br>
 							</div>
 						</div>
 						<br/>

@@ -549,6 +549,17 @@
 									<br><div class="grey-clr">PWA, Mobile, E-Commerce</div><br><br><br>
 								</div>
 							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">								
+								<a href="https://cikarang-japanese-school.com/" target="_blank">
+									<img src="/img/portfolio/cjs.png" class="img-responsive center-block">
+									Cikarang Japanese School
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | Coding | Wordpress | AWS Operation)<br>
+									<br><div class="grey-clr">Japanese WEB, Blog, Mobile, Application Form, School</div><br><br><br>
+								</div>
+							</div>
 						</div>
 						<br/>
 						<span class="characteristic-title">Our system development experiences</span>
@@ -813,6 +824,11 @@
 							<div class="col-sm-4">
 								<img src="/img/portfolio/otomart-app.png" class="img-responsive center-block">
 								Otomart -   Used Car on Sale Finder App<br><br>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/jba-bid.png" class="img-responsive center-block">
+								JBA Indonesia Auction Bidding App<br>
 							</div>
 						</div>
 						<br/>
