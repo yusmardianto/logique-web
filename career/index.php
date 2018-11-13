@@ -426,7 +426,7 @@
 							<li>Skill yang dibutuhkan: Pengalaman dengan berbagai jenis dan tingkat pengujian, pengalaman langsung dengan pengujian fungsional, pengujian integrasi, pengujian regresi, pengujian mobile, pengujian data yang besar, pengujian lintas platform, pengujian komponen, pengujian keamanan, pengujian kinerja, Pengujian UI/UX, pengujian A/B.</li>
 							<li>Keterampilan opsional: Pengalaman Pengujian Selenium.</li>
 							<li>Bahasa yang dibutuhkan: Bahasa Inggris, Bahasa Indonesia.</li>
-							<li>Pelamar harus bersedia bekerja di Jakarta.</li>
+							<li>Pelamar harus bersedia bekerja di Yogyakarta.</li>
 						</ul><br/>
 						
 						<b>Tanggung Jawab:</b><br/>
