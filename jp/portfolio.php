@@ -507,18 +507,7 @@
 									<br>ランディングページ制作 (デザイン | マークアップ | 広告)<br>
 									<br><div class="grey-clr">モバイル最適化, 多言語, イベント</div><br><br><br>
 								</div>
-							</div>
-							<div class="col-sm-4">
-								<a href="https://jcinema2018.id/" target="_blank">
-									<img src="/img/portfolio/jff.jpg" class="img-responsive center-block">
-									Film festival Landing page
-								</a>
-								<div class="addition-desc text-left">
-									<br>ランディングページ制作 (デザイン | マークアップ)<br>
-									<br><div class="grey-clr">モバイル最適化, 多言語, イベント</div><br><br><br>
-								</div>
-							</div>
-							<div class="clearfix"></div>
+							</div>							
 							<div class="col-sm-4">								
 								<img src="/img/portfolio/eccj.jpg" class="img-responsive center-block">
 								ECCJ
@@ -527,6 +516,7 @@
 									<br><div class="grey-clr">モバイル最適化, 申込フォーム, イベント</div><br><br><br>
 								</div>
 							</div>
+							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="https://promokreditbprks.com/" target="_blank">
 									<img src="/img/portfolio/bprks.jpg" class="img-responsive center-block">
@@ -547,7 +537,6 @@
 									<br><div class="grey-clr">PWA, モバイル, Eコマース</div><br><br><br>
 								</div>
 							</div>
-							<div class="clearfix"></div>
 							<div class="col-sm-4">								
 								<a href="https://cikarang-japanese-school.com/" target="_blank">
 									<img src="/img/portfolio/cjs.png" class="img-responsive center-block">
@@ -556,6 +545,17 @@
 								<div class="addition-desc text-left">
 									<br>WEB構築＆運用 (デザイン | Coding | Wordpress | AWS運用)<br>
 									<br><div class="grey-clr">日本語WEB,ブログ,モバイル最適化,願書受付,学校</div><br><br><br>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<a href="https://jcinema2018.id/" target="_blank">
+									<img src="/img/portfolio/jff.png" class="img-responsive center-block">
+									Film Festival
+								</a>
+								<div class="addition-desc text-left">
+									<br>ランディングページ制作 (デザイン | マークアップ)<br>
+									<br><div class="grey-clr">モバイル最適化, 多言語, イベント</div><br><br><br>
 								</div>
 							</div>
 						</div>

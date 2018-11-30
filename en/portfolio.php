@@ -510,17 +510,6 @@
 									<br><div class="grey-clr">Mobile Optimized, Multi-language, Event</div><br><br><br>
 								</div>
 							</div>
-							<div class="col-sm-4">
-								<a href="https://jcinema2018.id/" target="_blank">
-									<img src="/img/portfolio/jff.jpg" class="img-responsive center-block">
-									Film festival Landing page
-								</a>
-								<div class="addition-desc text-left">
-									<br>Landing Page Creation (Design | Coding)<br>
-									<br><div class="grey-clr">Mobile Optimized, Multi-language, Event</div><br><br><br>
-								</div>
-							</div>
-							<div class="clearfix"></div>
 							<div class="col-sm-4">								
 								<img src="/img/portfolio/eccj.jpg" class="img-responsive center-block">
 								ECCJ
@@ -529,6 +518,7 @@
 									<br><div class="grey-clr">Mobile Optimized, Application From, Event</div><br><br><br>
 								</div>
 							</div>
+							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<a href="https://promokreditbprks.com/" target="_blank">
 									<img src="/img/portfolio/bprks.jpg" class="img-responsive center-block">
@@ -549,7 +539,6 @@
 									<br><div class="grey-clr">PWA, Mobile, E-Commerce</div><br><br><br>
 								</div>
 							</div>
-							<div class="clearfix"></div>
 							<div class="col-sm-4">								
 								<a href="https://cikarang-japanese-school.com/" target="_blank">
 									<img src="/img/portfolio/cjs.png" class="img-responsive center-block">
@@ -558,6 +547,17 @@
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | Coding | Wordpress | AWS Operation)<br>
 									<br><div class="grey-clr">Japanese WEB, Blog, Mobile, Application Form, School</div><br><br><br>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<a href="https://jcinema2018.id/" target="_blank">
+									<img src="/img/portfolio/jff.png" class="img-responsive center-block">
+									Film Festival
+								</a>
+								<div class="addition-desc text-left">
+									<br>Landing Page Creation (Design | Coding)<br>
+									<br><div class="grey-clr">Mobile Optimized, Multi-language, Event</div><br><br><br>
 								</div>
 							</div>
 						</div>
