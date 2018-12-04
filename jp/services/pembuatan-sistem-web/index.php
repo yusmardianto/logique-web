@@ -63,6 +63,66 @@ if(isset($_POST['submitted']))
 </head>
 	<body>
 		<header class="header">
+			
+			<!-- NAVIGATION -->
+			<div class="nav-lp">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar first"></span>
+					<span class="icon-bar second"></span>
+					<span class="icon-bar third"></span> 
+				</button>
+				<div class="collapse navbar-collapse" id="myNavbar">
+				<div class="backdrop-test"></div>
+					<div class="logique-nav in-jp">
+						<div class="margin-for-nav">
+							<div class="text-center active">
+								<a href="/jp/">
+									<div class="img-home"></div>
+									Home
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/jp/about.php">
+									<div class="img-about"></div>
+									会社概要
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/jp/portfolio.php">
+									<div class="img-portfolio"></div>
+									制作実績
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/jp/services.php">
+									<div class="img-services"></div>
+									サービス
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/jp/joinus.php">
+									<div class="img-career"></div>
+									採用/<br>パートナー
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/jp/contact.php">
+									<div class="img-contact"></div>
+									お問い合わせ
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="https://www.logique.co.id/blog/ja" target="_blank">
+									<div class="img-blog"></div>
+									Blog
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- NAVIGATION -->
+			
 			<div class="container" style="position:relative">
 				<div class="row">
 					<!-- <div class="col-md-12">
@@ -284,7 +344,7 @@ if(isset($_POST['submitted']))
 							<input type='hidden' name='submitted' id='submitted' value='1'/>
 							<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-							<div class="row">
+							<div class="">
 									<div class="form-group">
 										<input type="text" class="form-control" placeholder="Nama" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 									</div>
