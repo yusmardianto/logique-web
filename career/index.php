@@ -449,6 +449,59 @@
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
+							<img alt="Technical Consultant" src="../img/techcons.png" class="img-responsive"/>
+							<h4>Lowongan</h4>
+							<h5>Technical Consultant</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
+							<!--<div style="margin-top:10px;font-weight:400">(On Hold)</div>-->
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						<div style="font-weight:bold;font-size:18px">
+							<span style="font-size:22px">URGENTLY NEEDED </span><br/>
+							Technical Consultant (di Jakarta) dengan 1-2 tahun pengalaman
+						</div>
+						<br/>
+						Technical Consultant merupakan partner terbaik kami dalam menganalisa dan merekomendasikan solusi sistem web dan website terbaik untuk memecahkan masalah yang ada dalam proses bisnis. Seorang Technical Consultant memiliki pengetahuan yang luas baik dari sisi bisnis maupun teknikal.<br/><br/>
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Memiliki pengalaman sebagai IT Consultant.</li>
+							<li>Memiliki kemampuan untuk memecahkan masalah perangkat keras, perangkat lunak dan jaringan.</li>
+							<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
+							<li>Mempunyai pengalaman dalam manajemen proyek.</li>
+							<li>Memiliki pikiran analitis dengan kemampuan memecahkan masalah.</li>
+							<li>Bisa bekerja dalam tim dengan kemampuan komunikasi dan presentasi yang sangat baik.</li>
+							<li>Orientasi layanan pelanggan.</li>
+							<li>Memiliki kemampuan interpesonal.</li>
+							<li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.</li>
+						</ul><br/>
+						
+						<b>Tanggung Jawab:</b><br/>
+						<ul class="joinus-ul">
+							<li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
+							<li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
+							<li>Mengelola inisiatif TI dan berkolaborasi dengan staf teknis internal.</li>
+							<li>Mendesain sistem dan jaringan TI memastikan arsitektur dan fungsionalitas yang tepat.</li>
+							<li>Mendukung implementasi teknologi baru.</li>
+							<li>Melatih pengguna dalam sistem TI baru dan yang sudah ada.</li>
+							<li>Berikan bantuan untuk masalah teknis.</li>
+							<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>
+							<li>Menghasilkan laporan.</li>
+						</ul>
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" > <!--style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">-->
+							Apply for Technical Consultant
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
 							<img alt="Web Developer" src="../img/webdev.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Web Developer</h5>
@@ -535,59 +588,10 @@
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
-							<img alt="Technical Consultant" src="../img/techcons.png" class="img-responsive"/>
-							<h4>Lowongan</h4>
-							<h5>Technical Consultant</h5>
-							<h6>Dibutuhkan di Jakarta</h6>
-							<div style="margin-top:10px;font-weight:400">(On Hold)</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-8">
-					<div class="div-job desc-job">
-						Technical Consultant merupakan partner terbaik kami dalam menganalisa dan merekomendasikan solusi sistem web dan website terbaik untuk memecahkan masalah yang ada dalam proses bisnis. Seorang Technical Consultant memiliki pengetahuan yang luas baik dari sisi bisnis maupun teknikal.<br/><br/>
-						<b>Persyaratan:</b><br/>
-						<ul class="joinus-ul">
-							<li>Memiliki pengalaman sebagai IT Consultant.</li>
-							<li>Memiliki kemampuan untuk memecahkan masalah perangkat keras, perangkat lunak dan jaringan.</li>
-							<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
-							<li>Mempunyai pengalaman dalam manajemen proyek.</li>
-							<li>Memiliki pikiran analitis dengan kemampuan memecahkan masalah.</li>
-							<li>Bisa bekerja dalam tim dengan kemampuan komunikasi dan presentasi yang sangat baik.</li>
-							<li>Orientasi layanan pelanggan.</li>
-							<li>Memiliki kemampuan interpesonal.</li>
-							<li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.</li>
-						</ul><br/>
-						
-						<b>Tanggung Jawab:</b><br/>
-						<ul class="joinus-ul">
-							<li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
-							<li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
-							<li>Mengelola inisiatif TI dan berkolaborasi dengan staf teknis internal.</li>
-							<li>Mendesain sistem dan jaringan TI memastikan arsitektur dan fungsionalitas yang tepat.</li>
-							<li>Mendukung implementasi teknologi baru.</li>
-							<li>Melatih pengguna dalam sistem TI baru dan yang sudah ada.</li>
-							<li>Berikan bantuan untuk masalah teknis.</li>
-							<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>
-							<li>Menghasilkan laporan.</li>
-						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">
-							Apply for Technical Consultant
-						</a>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-			<hr class="separator-career"></hr>
-			<div class="one-job-opening">
-				<div class="col-sm-4" style="padding:0">
-					<div class="div-job title-job">
-						<div class="valign-center">
 							<img alt="Mobile App Developer" src="../img/mobdev.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Mobile App Developer</h5>
 							<h6>Dibutuhkan di Jakarta</h6>
-							<div style="margin-top:10px;font-weight:400">(On Hold)</div>
 						</div>
 					</div>
 				</div>
@@ -619,7 +623,7 @@
 							<li>Meneliti dan menyarankan produk, aplikasi, dan protokol seluler baru.</li>
 							<li>Tetap up-to-date dengan tren teknologi baru.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Mobile App Developer
 						</a>
 					</div>
@@ -635,7 +639,6 @@
 							<h4>Lowongan</h4>
 							<h5>Project Manager</h5>
 							<h6>Dibutuhkan di Jakarta</h6>
-							<div style="margin-top:10px;font-weight:400">(On Hold)</div>
 						</div>
 					</div>
 				</div>
@@ -660,7 +663,7 @@
 							<li>Mampu berpikir logis dan tegas dalam mengambil tindakan.</li>
 							<li>Memiliki pengetahuan tentang pemasaran digital dan keingintahuan yang tinggi akan hal-hal baru.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">
+						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Project Manager
 						</a>
 					</div>

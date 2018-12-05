@@ -367,7 +367,7 @@
 				<span>
 				Departemen HRD LOGIQUE
 				<br>
-				0812-9656-0380 (Call/SMS/WhatsApp)
+				0811-870-321 (Call/SMS/WhatsApp)
 				</span>
 			</p>
 			<div class="container">
