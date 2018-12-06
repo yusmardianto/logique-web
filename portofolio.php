@@ -581,8 +581,8 @@
 									Opus Park
 								</a>
 								<div class="addition-desc text-left">
-									<br>WEB Operation (PDCA | SEO | AWS)<br>
-									<br><div class="grey-clr">Mobile Optimized, O2O, Properti</div><br><br><br>
+									<br>WEB Re-Design (Indonesian Contents | SEO | AWS)  <br>
+									<br><div class="grey-clr">Mobile Optimized, O2O, Property</div><br><br><br>
 								</div>
 							</div>
 							<div class="col-sm-4">
@@ -857,20 +857,20 @@
 						<div class="row text-center">
 							<div class="col-sm-4">
 								<img src="/img/portfolio/frangipani-app.png" class="img-responsive center-block">
-								Frangipani Esthetics (Android) Guest Comment Management App<br>
+								Frangipani Esthetics (Android) Guest Comment Management App<br><br>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/jba-inspection.png" class="img-responsive center-block">
-								JBA Indonesia -  Bike and Car Inspection App<br>
+								JBA Indonesia -  Bike and Car Inspection App<br><br>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/otomart-app.png" class="img-responsive center-block">
-								Otomart -  Dealer Car App<br>
+								Otomart -  Dealer Car App<br><br>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/jba-bid.png" class="img-responsive center-block">
-								JBA Indonesia Auction Bidding App<br>
+								JBA Indonesia Auction Bidding App<br><br>
 							</div>
 						</div>
 					<br/>

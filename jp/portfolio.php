@@ -867,7 +867,7 @@
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/jba-bid.png" class="img-responsive center-block">
-								JBA Indonesia オークション入札Androidアプリ<br>
+								JBA Indonesia オークション入札Androidアプリ<br><br>
 							</div>
 						</div>
 						<br/>

@@ -873,7 +873,7 @@
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/jba-bid.png" class="img-responsive center-block">
-								JBA Indonesia Auction Bidding App<br>
+								JBA Indonesia Auction Bidding App<br><br>
 							</div>
 						</div>
 						<br/>
