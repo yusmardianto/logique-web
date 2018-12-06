@@ -156,6 +156,56 @@ if(isset($_POST['submitted']))
 						<br/><br/>
 					</div>
 				</div>
+				<br/>
+				<div class="row visible-lg">
+					<div class="col-md-12">
+						<div class="poster-main screenshot-slide ">
+						  <div class="poster-btn poster-prev-btn"></div>
+						  <ul class="poster-list">
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss4.jpg"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss1.jpg"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss2.jpg"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss3.jpg"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss5.jpg"></li>
+						  </ul>
+						  <div class="poster-btn poster-next-btn"></div>
+						</div>
+					</div>
+				</div>
+				<div class="row hidden-lg">
+					<div class="col-md-12">
+						<div id="myCarousel" class="carousel slide" data-ride="carousel">
+						  <!-- Wrapper for slides -->
+						  <div class="carousel-inner">
+							<div class="item active">
+							  <img src="/produk/img/dokodemo-kerja/ss4.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="/produk/img/dokodemo-kerja/ss1.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="/produk/img/dokodemo-kerja/ss2.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="/produk/img/dokodemo-kerja/ss3.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="/produk/img/dokodemo-kerja/ss5.jpg" class="img-responsive center-block">
+							</div>
+						  </div>
+						  <!-- Left and right controls -->
+						  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+							<span class="glyphicon glyphicon-chevron-left"></span>
+							<span class="sr-only">Previous</span>
+						  </a>
+						  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+							<span class="glyphicon glyphicon-chevron-right"></span>
+							<span class="sr-only">Next</span>
+						  </a>
+						</div>
+					</div>
+				</div>
+				<div class="visible-lg"><br/><br/></div>
 			</div>
 		</div>
 		
@@ -592,8 +642,12 @@ if(isset($_POST['submitted']))
 			</div>
 		</footer>
 		
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 		<script src="/js/bootstrap.min.js"></script>
+		<script src="/produk/js/PicCarousel.min.js"></script>
+		<script>
+			$(".screenshot-slide").PicCarousel("init");
+		</script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<script type="text/javascript">			
 			$(function() {
