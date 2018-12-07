@@ -17,6 +17,7 @@
     <title>Penetration Test | Logique Digital Indonesia</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/animate.min.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
@@ -44,6 +45,152 @@
 						<a href="/jp/services/penetration-testing/">JPN</a>
 					</div>
 					<img class="img-responsive center-block top-banner" src="img/top-banner.png" alt="Top Banner"/>
+					<div class="div-question-top">
+						<div class="inside">
+							<div class="row">
+								<div class="col-md-offset-2 col-md-4">
+									<ul class="dashed left">
+										<li class="wow bounceInUp font-22" data-wow-delay="1s">Apa itu CyberSecurity?</li>
+										<li class="wow fadeInDown" data-wow-delay="1.8s">Apakah itu penting?</li>
+										<li class="wow zoomInLeft" data-wow-delay="2.6s">Seberapa bahaya ancaman siber tersebut?</li>
+										<li class="font-22 wow fadeInRight" data-wow-delay="3.4s">Apakah saya sudah terlindungi?</li>
+									</ul>
+								</div>
+								<div class="col-md-4">
+									<ul class="dashed">
+										<li class="wow rotateInDownLeft" data-wow-delay="4.2s">Bisakah para peretas mencuri data atau informasi saya?</li>
+										<li class="wow bounceInLeft" data-wow-delay="5s">Bagaimana pengaruhnya terhadap bisnis saya?</li>
+										<li class="wow flipInY font-22" data-wow-delay="5.8s">Bagaimana cara melindungi bisnis dan data saya?</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div><br/><br/>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<br/>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-offset-2 col-md-8">
+				<div class="tahukah-title">Tahukah Anda !</div><br/>
+				<p>
+					Masalah <b>keamanan cyber</b> selalu menjadi upaya yang terus dilakukan setiap harinya, terutama <b>dalam hal bisnis</b>. Jika Anda tidak pernah peduli terhadap keamanan data Anda dan bagaimana cara melindunginya, maka saat ini adalah waktu yang tepat untuk memulainya.<br/><br/>
+					Tren mengenai masalah keamanan cyber semakin lama <b>semakin meningkat</b> setiap harinya, bahkan masalah terbesar yang terjadi selama ini adalah banyaknya data yang diretas dan dilanggar dari berbagai sumber, terutama saat berada di tempat kerja, seperti peretasan pada perangkat seluler dan perangkat-perangkat yang terhubung ke Internet lainnya.<br/><br/>
+					Bahkan, <b>penelitian terbaru</b> menunjukkan jika sebagian besar perusahaan mempunyai <b>data yang tidak dilindungi</b> dengan baik dari praktik-praktik cybersecurity. Hal ini tentu membuat mereka rentan untuk diretas dan <b>kehilangan data tanpa mereka ketahui</b>.
+				</p>
+			</div>
+		</div>
+	</div>
+	
+	<br/><br/>
+	<div class="header-top">
+		<div class="container">
+			<br/><br/>
+			<div class="row">
+				<div class="col-md-offset-1 col-md-10">
+					<div class="kasus">
+						<div class="row">
+							<div class="col-md-offset-1 col-md-10">
+								<div class="text-center"><div class="kasus-title">Kasus Yang Pernah Terjadi</div></div>
+								<br/>
+								<div class="kasus-subtitle">Pelanggaran Data Berdasarkan Angka</div>
+								<div class="div-kasus">
+									Pernahkah Anda mengetahui, jika setiap hari terdapat 24.000 jenis aplikasi seluler yang diblokir karena berpotensi terjadi pelanggaran data di dalamnya. Selain itu, serangan terhadap seluruh perangkat yang terhubung ke Internet juga terus mengalami peningkatan. <br/><br/>
+									Bahkan di tahun 2017, angka ini naik sebanyak 600 persen. Bukan hanya itu saja, setiap tahunnya serangan ransomware juga terus mengalami pertumbuhan hingga lebih dari 350 persen setiap tahunnya.<br/><br/>
+									Berdasarkan data statistik tersebut dan dari berbagai kasus yang terjadi di seluruh dunia, peningkatan pelanggaran data terus terjadi dalam skala yang besar. Namun, bukannya membaik, pelanggaran data yang terjadi justru semakin lama semakin bertambah parah setiap harinya.
+								</div>
+								<div class="row">
+									<div class="col-sm-4">
+										<img alt="Sekitar 24.000 aplikasi seluler berbahaya diblokir setiap hari" src="img/kasus1-1.png" class="img-responsive center-block"/>
+									</div>
+									<div class="col-sm-4">
+										<img alt="Serangan IoT meningkat 600% pada 2017" src="img/kasus1-2.png" class="img-responsive center-block"/>
+									</div>
+									<div class="col-sm-4">
+										<img alt="serangan ransomware tumbuh lebih dari 350% setiap tahun" src="img/kasus1-3.png" class="img-responsive center-block"/>
+									</div>
+								</div>
+								
+								<br/><br/>
+								<div class="kasus-subtitle">Dari Mana Serangan-Serangan Tersebut Berasal?</div>
+								<div class="div-kasus">
+									Pelanggaran atau serangan-serangan cyber biasanya terjadi pada berbagai data yang sering Anda jumpai, seperti format Microsoft Office (Word, PowerPoint, dan Excel) yang membentuk file ekstensi. Jumlahnya pun cukup banyak, yaitu mencapai 38 persen. <br/><br/>
+									Berdasarkan data yang dirilis oleh Symantec, selama tahun 2017, serangan cyber paling banyak berasal dari China, yaitu sekitar 20 persen, disusul oleh AS sebesar 11 persen dan Rusia sebesar 6 persen. Dimana 71% nya menggunakan email spear-phishing untuk melakukan serangan cyber tersebut.
+								</div>
+								<img class="img-responsive center-block" src="img/line-serangan.png"/><br/>
+								<div class="row">
+									<div class="col-sm-4">
+										<div class="border-serangan">
+											<img class="img-responsive center-block" src="img/serangan1.png"/>
+											Format Microsoft Office (<i>Ppt, Word, dan Excel</i>) membuat,
+											<span>38%</span>
+											ekstensi file berbahaya
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="border-serangan cyber-attack">
+											Sumber serangan cyber pada <b>2017</b>
+										</div>
+										<div class="border-serangan cyber-attack">
+											<table class="cyber-table">
+												<tr>
+													<td>China</td>
+													<td>20%</td>
+												</tr>
+												<tr>
+													<td>USA</td>
+													<td>11%</td>
+												</tr>
+												<tr>
+													<td>Rusia</td>
+													<td>6%</td>
+												</tr>
+											</table>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="border-serangan phishing">
+											<img class="img-responsive center-block" src="img/serangan2.png"/>
+											<span>71%</span>
+											serangan cyber dimulai dengan email <strong>spear-phishing</strong>
+										</div>
+									</div>
+								</div>
+								
+								<br/><br/>
+								<div class="kasus-subtitle">Siapa Yang Akan Terpengaruh dari serangan cyber ini?</div>
+								<div class="div-kasus">
+									Serangan cyber yang terjadi tentunya mempengaruhi banyak pihak. Situs Verizon mencatat, sebanyak 61 persen korban dari serangan cyber ini adalah perusahaan bisnis yang mempunyai karyawan kurang dari 100 orang.<br/><br/> 
+									Amerika Serikat menjadi negara paling tinggi dari negara-negara dengan jumlah populasi yang terhubung dengan Internet, yaitu sebanyak 18,2 persen dari semua serangan ransomware yang ada.<br/><br/>
+									Industri yang paling banyak mendapatkan serangan dari ransomware adalah industri kesehatan, dan disinyalir serangan tersebut akan meningkat jumlahnya sebanyak empat kali lipat pada tahun 2020 mendatang.<br/><br/>
+									Namun, dari seluruh serangan tersebut, industri jasa keuangan menjadi salah satu industri yang paling dirugikan dari kejahatan cyber ini dengan rata-rata kerugian mencapai angka $ 18,3 juta per perusahaan.
+								</div>
+								
+								<br/><br/>
+								<div class="kasus-subtitle">Berapa Biaya Kerugian yang Terjadi?</div>
+								<div class="div-kasus">
+									Situs Accenture mencatat jika rata-rata serangan malware menyebabkan kerugian terhadap perusahaan sebesar $ 2,4 juta. Selain itu, berdasarkan studi yang dilakukan oleh Ponemon Institute’s pada tahun 2017 mengatakan jika rata-rata biaya yang hilang atau dicuri dari masing-masing individu adalah sebesar $ 141. Biaya ini bervariasi di tiap negara, dimana biaya pelanggaran paling mahal berada di wilayah Amerika Serikat ($ 225) dan Kanada ($ 190).<br/><br/>
+									Sebanyak 43 persen biaya dikeluarkan akibat dari serangan cyber yang menghilangkan informasi. Selain itu, kerusakan yang terjadi terkait dengan kejahatan cyber ini diproyeksikan mencapai angka $ 6 triliun per tahun pada 2021 mendatang.
+								</div>
+								
+								<br/><br/>
+								<div class="kasus-subtitle">Apakah Perusahaan Anda Mengalami Serangan Ini?</div>
+								<div class="div-kasus">
+									Saat ini, sebanyak 74% perusahaan mempunyai lebih dari 1.000 arsip yang sangat sensitif, dimana 21 persennya tidak diberikan perlindungan yang baik dan mumpuni. Selain itu, 41% perusahaan juga mempunyai lebih dari 1.000 file yang sensitif, termasuk nomor kartu kredit serta catatan keuangan lainnya yang tidak terlindungi dengan baik.<br/><br/>
+									Bukan hanya itu saja, berdasarkan data Varonis, 65% perusahaan mempunyai 500 pengguna yang tidak pernah mengubah kata sandi mereka. Bahkan, berdasarkan studi yang dilakukan oleh Ponemon Institute’s pada tahun 2017 mengatakan sebanyak 69% organisasi tidak percaya jika ancaman yang terjadi dapat diblokir oleh perangkat anti-virus milik mereka.
+								</div>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<br/><br/>
+			<div class="row">
+				<div class="col-md-12">
 					<div class="what-is">
 						<span class="apakah">Apakah</span><br/>
 						<div class="title">Penetration Testing?</div>
@@ -56,8 +203,8 @@
 								</p>
 							</div>
 						</div>
+						<br/><br/>
 					</div>
-					<br/><br/>
 				</div>
 			</div>
 		</div>
@@ -454,12 +601,13 @@
 		</div>
 	</footer>
 		<br/>
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script src="js/jquery.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/jquery.matchHeight.js"></script>
-		<script src="js/slick.min.js"></script>
+		<script src="js/wow.min.js"></script>
 	</body>
 	<script>
+		//new WOW().init();
 		$(function() {
 			$('.each-plus-minus').matchHeight();
 		});	
