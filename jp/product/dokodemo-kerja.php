@@ -149,13 +149,63 @@ if(isset($_POST['submitted']))
 
 						スタッフがいつ、どんな作業をしているのか確認することができます。作業タイプ（タスク種、プロジェクト名）を入力させることで作業時間を集計し管理会計に利用することも可能です。勤務開始時間、休憩時間、終了時間が記録に残りますので、勤務時間不足や逆に働きすぎのコントロールもできます。<br/>
 						スクリーンショットが取ることがスタッフのさぼりの抑止力になります。場所や時間に囚われず、決めた勤務時間中は集中して生産性高く作業する。<span class="blue">Dokodemo-Kerja</span>は現代の働き方をサポートします。
-						<br/><br/><br/>
+						<br/><br/>
 						<div class="text-center">
 							<a href="#divForm" class="smooth btn btn-coba">いますぐトライアルを申し込む</a>
 						</div>
-						<br/><br/>
+						<br/>
 					</div>
 				</div>
+				<br/>
+				<div class="row visible-lg">
+					<div class="col-md-12">
+						<div class="poster-main screenshot-slide ">
+						  <div class="poster-btn poster-prev-btn"></div>
+						  <ul class="poster-list">
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss4.jpg"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss1.jpg"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss2.jpg"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss3.jpg"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss5.jpg"></li>
+						  </ul>
+						  <div class="poster-btn poster-next-btn"></div>
+						</div>
+					</div>
+				</div>
+				<div class="row hidden-lg">
+					<div class="col-md-12">
+						<div id="myCarousel" class="carousel slide" data-ride="carousel">
+						  <!-- Wrapper for slides -->
+						  <div class="carousel-inner">
+							<div class="item active">
+							  <img src="/produk/img/dokodemo-kerja/ss4.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="/produk/img/dokodemo-kerja/ss1.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="/produk/img/dokodemo-kerja/ss2.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="/produk/img/dokodemo-kerja/ss3.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="/produk/img/dokodemo-kerja/ss5.jpg" class="img-responsive center-block">
+							</div>
+						  </div>
+						  <!-- Left and right controls -->
+						  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+							<span class="glyphicon glyphicon-chevron-left"></span>
+							<span class="sr-only">Previous</span>
+						  </a>
+						  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+							<span class="glyphicon glyphicon-chevron-right"></span>
+							<span class="sr-only">Next</span>
+						  </a>
+						</div>
+					</div>
+				</div>
+				<div class="visible-lg"><br/><br/></div>
 			</div>
 		</div>
 		
@@ -592,8 +642,12 @@ if(isset($_POST['submitted']))
 			</div>
 		</footer>
 		
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 		<script src="/js/bootstrap.min.js"></script>
+		<script src="/produk/js/PicCarousel.min.js"></script>
+		<script>
+			$(".screenshot-slide").PicCarousel("init");
+		</script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<script type="text/javascript">			
 			$(function() {
