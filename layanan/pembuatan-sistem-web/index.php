@@ -63,6 +63,66 @@ if(isset($_POST['submitted']))
 </head>
 	<body>
 		<header class="header">
+			
+			<!-- NAVIGATION -->
+			<div class="nav-lp">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar first"></span>
+					<span class="icon-bar second"></span>
+					<span class="icon-bar third"></span> 
+				</button>
+				<div class="collapse navbar-collapse" id="myNavbar">
+				<div class="backdrop-test"></div>
+					<div class="logique-nav">
+						<div class="margin-for-nav">
+							<div class="text-center ">
+								<a href="/">
+									<div class="img-home"></div>
+									Beranda
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/tentang-kami.php">
+									<div class="img-about"></div>
+									Tentang Kami
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/portofolio.php">
+									<div class="img-portfolio"></div>
+									Portfolio
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/layanan.php">
+									<div class="img-services"></div>
+									Layanan
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/karir.php">
+									<div class="img-career"></div>
+									Karir
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/hubungi-kami.php">
+									<div class="img-contact"></div>
+									Hubungi Kami
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="https://www.logique.co.id/blog/" target="_blank">
+									<div class="img-blog"></div>
+									Blog
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- NAVIGATION -->
+		
 			<div class="container" style="position:relative">
 				<div class="row">
 					<!-- <div class="col-md-12">
@@ -91,7 +151,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10 text-center">
-						<h1>“Pemanfaatan teknologi terkini untuk <br class="hidden-xs"> meningkatkan profit bisnis Anda.”</h1>
+						<h1>“Pemanfaatan teknologi terkini untuk meningkatkan profit bisnis Anda.”</h1>
 					</div>
 				</div>
 			</div>
@@ -100,7 +160,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-7 col-md-5">
-						<h1 class="new5">Penerapan <span class="underline">Teknologi</span> Terbaru</h1>
+						<h1 class="new5">Komponen Sistem Pengembangan Web di <span class="underline">Logique</span></h1>
 					</div>
 				</div>
 			</div>
@@ -109,13 +169,16 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<p class="text-justify card-top">Demi memberikan layanan yang maksimal terhadap para kliennya, LOGIQUE menerapkan berbagai teknologi terbaru pada berbagai proyek yang dikerjakan. Berikut ini adalah bentuk penerapan teknologi terbaru yang kami lakukan dalam hal pengembangan sistem web, antara lain yaitu:</p>
+						<h4 class="style-3-h1">
+						<span class="tambah-lg hidden-sm hidden-md hidden-lg">Komponen Sistem Pengembangan Web di Logique<br><br></span>
+						Sebagai web developer berkualitas di Indonesia, kami memberikan layanan yang terbaik dan maksimal kepada para klien kami, terutama dalam memberikan berbagai komponen untuk sistem pengembangan web. Berikut ini adalah beberapa komponen sistem pengembangan web yang kami berikan kepada klien kami, antara lain yaitu:
+						</h4>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-3">
 						<h3 class="new1">[Teknologi Mutakhir]</h3>
-						<p class="new4">Dengan semakin berkembangnya teknologi saat ini, terutama di dunia web development, tentu memacu kami untuk terus mengupdate, mempelajarinya dan menerapkannya pada sistem web Anda agar memberikan hasil yang maksimal sehingga mempengaruhi pada tingkat kunjungan website serta profit bisnis Anda. Beberapa teknologi yang telah kami kuasai antara lain yaitu, AngularJS, Node.JS, Socket.IO, dan Ionic Framework.</p>
+						<p class="new4">Dengan semakin berkembangnya teknologi saat ini, terutama di dunia web development, tentu memacu kami untuk terus mengupdate, mempelajarinya dan menerapkannya pada sistem web Anda agar memberikan hasil yang maksimal sehingga mempengaruhi pada tingkat kunjungan website serta profit bisnis Anda. Beberapa teknologi mutakhir yang telah kami terapkan kepada para klien kami antara lain yaitu, AngularJS, Node.JS, Socket.IO, dan Ionic Framework.</p>
 					</div>
 					<div class="col-md-3">
 						<h3 class="new1">[Infrastruktur Terencana]</h3>
@@ -130,18 +193,12 @@ if(isset($_POST['submitted']))
 						<p class="new4">Kami memahami pentingnya waktu bagi bisnis Anda. Karena itu, kami selalu berusaha memberikan layanan yang terbaik dan optimal bagi Anda dengan cara memangkas waktu dalam mengembangkan sistem web secara efisien dan seefektif mungkin tanpa mengurangi kualitas dari sistem tersebut sehingga hasil yang didapatkan sesuai dengan yang diinginkan dalam jangka waktu yang telah ditentukan bersama.</p>
 					</div>
 				</div>
-				<br>
-				<div class="row">
-					<div class="col-md-12">
-						<div class="text-justify card-top-2">
-						<h3>LOGIQUE telah terbukti membantu mencapai target bisnis para kliennya</h3>
-						<p>Kami telah mengerjakan proyek-proyek berskala nasional dan internasional, salah satunya yaitu pengembangan sistem lelang JBA. Berikut studi kasusnya.</p>
-						</div>
-					</div>
-				</div>
 			</div>
 		</section>
-		<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
+		<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em">
+			<h3>LOGIQUE telah terbukti membantu mencapai target bisnis para kliennya</h3>
+			<p>Kami telah mengerjakan proyek-proyek berskala nasional dan internasional, salah satunya yaitu pengembangan sistem lelang JBA. Berikut studi kasusnya.</p>
+		</section>
 		<section class="style-4">
 			<div class="container">
 				<div class="row">
@@ -153,11 +210,11 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10 m-t-10">
 									<h4><b>Sistem Lelang JBA</b></h4>
-									<p>JBA merupakan salah satu perusahaan lelang mobil dan motor asal Jepang yang terbesar di Indonesia. Perusahaan ini berlokasi di Meruya, Jakarta Barat dan telah bekerja sama dengan LOGIQUE mulai dari pembuatan website serta pengembangan sistem web yang komprehensif demi keperluan lelang, sehingga mampu memberikan dampak langsung terhadap bisnis mereka. Karena itu, kami membuat beberapa cakupan sistem yang mereka inginkan, mulai dari proses registrasi, inspeksi, perencanaan serta administrasi lelang, dukungan lelang melalui offline dan online hingga proses pelaporan dan modul akunting. Pengerjaan sistem web ini dilakukan secara massif dan intensif dengan melakukan komunikasi langsung kepada user yang sesuai dengan bidangnya. Dalam tiga tahun terakhir, sistem ini terus dikembangkan dalam bentuk sistem web dan aplikasi mobile.</p><br>
+									<p>JBA merupakan salah satu perusahaan lelang mobil dan motor asal Jepang yang terbesar di Indonesia. Perusahaan ini berlokasi di Meruya, Jakarta Barat dan telah bekerja sama dengan LOGIQUE mulai dari pembuatan website serta pengembangan sistem web yang komprehensif demi keperluan lelang, sehingga mampu memberikan dampak langsung terhadap bisnis mereka. Karena itu, kami membuat beberapa cakupan sistem yang mereka inginkan, mulai dari proses registrasi, inspeksi, perencanaan serta administrasi lelang, dukungan lelang melalui offline dan online hingga proses pelaporan dan modul akunting. Pengerjaan sistem web ini dilakukan secara massif dan intensif dengan melakukan komunikasi langsung kepada user yang sesuai dengan bidangnya. Dalam tiga tahun terakhir, sistem ini terus dikembangkan dalam bentuk sistem web dan aplikasi mobile.</p>
 								</div>
 							</div>
 							<div class="row">
-								<div class="box-2">Teknologi terbaru yang kami gunakan dalam sistem lelang JBA tersebut antara lain yaitu, NodeJS, SocketIO, dan Android Native.</div>
+								<div class="box-2">Beberapa teknologi yang kami gunakan dalam sistem lelang JBA tersebut antara lain yaitu, NodeJS, SocketIO, dan Android Native.</div>
 							</div>
 						</div>
 					</div>
@@ -168,7 +225,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
-						<h1 class="new6"><span class="underline2">Testimoni	</span><br>Klien</h1>
+						<h1 class="new6"><span class="underline2">Testimoni</span><br>Klien</h1>
 					</div>
 					<div class="col-md-6">
 						<div class="row">
@@ -200,11 +257,7 @@ if(isset($_POST['submitted']))
 						<div class="row">
 							<div class="col-md-9">
 								<h1 class="new2">Tingkatkan Bisnis Anda Bersama LOGIQUE</h2>
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-12">
-								<p>LOGIQUE selalu memberikan pelayanan yang optimal dengan mengedepankan kualitas terbaik terhadap seluruh kliennya. Semua hal tersebut karena LOGIQUE mempunyai 4 hal penting yang menjadi kunci utama dalam keberhasilan suatu proyek, antara lain yaitu:</p>
+								<div class="new2-div">LOGIQUE selalu memberikan pelayanan yang optimal dengan mengedepankan kualitas terbaik terhadap seluruh kliennya. Semua hal tersebut karena LOGIQUE mempunyai 4 hal penting yang menjadi kunci utama dalam keberhasilan suatu proyek, antara lain yaitu:</div>
 							</div>
 						</div>
 						<div class="row">
@@ -232,16 +285,74 @@ if(isset($_POST['submitted']))
 							</div>
 						</div>
 				</div>
+			</div>
+		</section>
+
+		<section class="layanan" style="margin-top: 0;padding-top: 1.5em;">
+			<div class="container">
+				<hr>
+					<h3 class="text-center"><b>Layanan Berbasis Sewa Developer (Resource Based)</b></h3>
+				<hr>
 				<div class="row">
 					<div class="col-md-12">
-						<div class="text-justify card-top-2">
-						<h3>Layanan Penggunaan Sumber Daya</h3>
-						<p class="text-justify">Untuk memberikan layanan berkualitas tinggi terhadap para klien kami, LOGIQUE memberikan penawaran kepada Anda berupa layanan penggunaan sumber daya, yaitu sebuah layanan dimana para klien kami dapat menggunakan tenaga sumber daya kami yang terbaik dan ahli dibidangnya, demi mempercepat pengembangan sistem web Anda jika Anda menginginkannya. Untuk informasi selengkapnya, Anda dapat menghubungi kami melalui email ke <a style="color:#333" href="mailto:info@logique.co.id"><u>info@logique.co.id</u></a> atau melalui nomor telepon di (021) 22708935/36.</p>
-						</div>
+						<p class="text-justify custom-faq" style="background: white;border: dotted 2px;padding: 1em;">Selain memberikan layanan berbasis proyek, LOGIQUE juga menyediakan layanan resource based khususnya bagi Anda yang mempunyai proyek dengan kebutuhan yang dinamis. Dengan layanan ini, Anda dapat menyewa resource atau sumber daya kami, seperti Web Developer, Web Designer, Mobile Application Developer dengan jumlah yang disesuaikan dengan kebutuhan Anda dalam jangka waktu tertentu. Dalam jangka waktu yang telah ditentukan tersebut, resource kami akan terdedikasi untuk mengerjakan seluruh proyek Anda secara profesional untuk mendapatkan hasil yang terbaik bagi bisnis Anda. Untuk informasi selengkapnya, Anda dapat menghubungi kami melalui email ke info@LOGIQUE.co.id atau melalui nomor telepon di (021) 22708935/36.</p>
+					</div>
+				</div>
+				<hr>
+					<h3 class="text-center"><b>BUTUH LAYANAN LAINNYA?</b></h3>
+				<hr>
+				<div style="background: white;border: dotted 2px;padding: 1em;">Selain melayani pembuatan & pengembangan sistem web, LOGIQUE juga menyediakan berbagai layanan lain yang dapat Anda pilih untuk mengatasi permasalahan bisnis digital Anda.</div>
+				<div class="row">
+					<div class="col-md-4">
+						<h2 class="custom-3">Pembuatan Sistem <br>Rekrutmen</h2>
+						<p class="min-h">Untuk memudahkan Anda dalam menyaring dan berkomunikasi dengan para pencari kerja, LOGIQUE menyediakan layanan pembuatan sistem rekrutmen berbasis web untuk perusahaan Anda. Melalui sistem ini, Anda dapat melakukan proses rekrutmen dengan sangat mudah dan efisien, karena sistem yang kami buat dapat diakses dan dipahami dengan mudah.</p>
+						<!-- <div>
+							<a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
+						</div> -->
+					</div>
+					<div class="col-md-4">
+						<h2 class="custom-3">Pembuatan Sistem <br>Evaluasi Pegawai</h2>
+						<p class="min-h">Jika Anda merupakan seorang manajer yang menaungi banyak pegawai dalam sebuah perusahaan, tentunya akan kesulitan dalam mengevaluasi kinerja para stafnya. Karena itu, LOGIQUE menawarkan kepada Anda sebuah sistem aplikasi yang mampu membantu Anda dalam mengevaluasi kinerja para staf, sehingga Anda dapat mengetahui dan memberikan penilaian dari kinerja pegawai Anda secara mendetail dan transparan.</p>
+						<!-- <div>
+							<a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
+						</div> -->
+					</div>
+					<div class="col-md-4">
+						<h2 class="custom-3">Pembuatan Aplikasi Untuk Meningkatkan Produktivitas Karyawan</h2>
+						<p class="min-h">Produktivitas karyawan merupakan salah satu penentu bagi sebuah perusahaan untuk terus maju dan berkembang. Oleh sebab itu, LOGIQUE memberikan Anda sebuah solusi cerdas yang mampu membuat produktivitas karyawan Anda meningkat, yaitu sebuah layanan pembuatan aplikasi yang mampu meningkatkan produktivitas karyawan secara mendetail dan transparan, meskipun karyawan tersebut bekerja dengan sistem jarak jauh (freelance, remote worker, dsb). Layanan ini kami berikan mulai dari Rp1 juta per-bulan.</p>
+						<!-- <div>
+							<a href="/layanan/penetration-testing/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
+						</div> -->
+					</div>
+				</div>
+				<br class="hidden-xs">
+				<div class="row">
+					<div class="col-md-12">
+					  <div class="custom-faq">
+					  	<hr>
+						<h3 class="text-center"><b>Pertanyaan Yang Sering Diajukan (FAQ)</b></h3>
+						<hr>
+						<h2 class="custom-3">Berapa harga pembuatan sistem web di LOGIQUE?</h2>
+						<p>
+						LOGIQUE melayani pembuatan sistem web dengan harga yang disesuaikan sesuai kebutuhan Anda. Untuk lebih detailnya, Anda dapat menghubungi kami melalui email ke info@logique.co.id atau melalui nomor telepon di (021) 227 089 35/36, atau dapat juga melalui WhatsApp di nomor 0812 9656 0380.</p>
+						<h2 class="custom-3">Apa saja yang dibutuhkan oleh LOGIQUE dari klien untuk pembuatan sistem web?</h2>
+						<p>
+						Dalam pembuatan sistem web, klien perlu memberikan konsep bisnis atau fitur-fitur yang diinginkan di dalam sistem web tersebut. Jika diperlukan, Anda juga dapat menyerahkan berbagai data pendukung lainnya kepada kami.</p>
+						<h2 class="custom-3">Berapa lama waktu yang dibutuhkan untuk pembuatan sistem web?</h2>
+						<p>
+						Pembuatan sistem web sangat bergantung dari tingkat kompleksitas dan banyaknya fitur yang diberikan oleh Anda. Untuk sistem web sederhana biasanya memerlukan waktu mulai dari 1 bulan.</p>
+						<h2 class="custom-3">Bisakah LOGIQUE membuat website e-commerce?</h2>
+						<p>
+						Tentu, LOGIQUE telah mempunyai banyak pengalaman dalam mengerjakan berbagai website e-commerce dalam beragam bentuk dan tools. Untuk mengetahui website e-commerce apa saja yang telah kami kerjakan, Anda dapat melihatnya pada portofolio kami.</p>
+						<h2 class="custom-3">Bagaimanakah LOGIQUE mengamankan sebuah sistem web?</h2>
+						<p>
+						LOGIQUE sadar jika keamanan sebuah sistem web merupakan hal yang paling penting, apalagi jika website tersebut adalah website e-commerce atau website yang digunakan untuk menyimpan berbagai data penting perusahaan. Karena itu, LOGIQUE memberikan layanan keamanan sistem web secara maksimal dan menyeluruh terhadap seluruh sistem web para klien kami.</p>
+					  </div>
 					</div>
 				</div>
 			</div>
 		</section>
+
 		<section class="tahap-pemesanan-list">
 			<div class="border-top-list hidden-xs hidden-sm"></div>
 			<div class="container">
@@ -297,6 +408,24 @@ if(isset($_POST['submitted']))
 								</div>
 							</div>
 						</div>
+						<div class="link-footer-webdev">
+							<br/>
+							<div style="margin-bottom:8px"><b>Social Media</b></div>
+							<div class="row medsos-new">
+								<div class="col-xs-3">
+									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+								<div class="col-xs-3">
+									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+								<div class="col-xs-3">
+									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+								<div class="col-xs-3">
+									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+							</div>
+						</div>
 					</div>
 					<div class="col-md-4 hidden-md hidden-lg">
 						<span><hr>Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</span>
@@ -318,7 +447,7 @@ if(isset($_POST['submitted']))
 							<input type='hidden' name='submitted' id='submitted' value='1'/>
 							<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-							<div class="row">
+							<div class="">
 									<div class="form-group">
 										<input type="text" class="form-control" placeholder="Nama" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 									</div>
@@ -347,23 +476,13 @@ if(isset($_POST['submitted']))
 					<div class="col-md-4 hidden-xs hidden-sm">
 						<p>Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>
 						<div class="row">
-							<div class="col-sm-6">
+							<div class="col-sm-12">
 								<div class="link-footer-webdev" style="padding-left:30px">
 									<br/>
 									<div style="margin-bottom:8px"><b>Produk LOGIQUE</b></div>
 									<a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
 									<a href="/produk/nippo.php" target="_blank">Nippo</a>
 									<a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
-								</div>
-							</div>
-							<div class="col-sm-6">
-								<div class="link-footer-webdev" style="padding-left:30px">
-									<br/>
-									<div style="margin-bottom:8px"><b>Social Media</b></div>
-									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i> Facebook</a>
-									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
-									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a>
-									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i> Linkedin</a>
 								</div>
 							</div>
 						</div>

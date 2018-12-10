@@ -132,13 +132,63 @@ if(isset($_POST['submitted']))
 					<div class="col-md-6 text-justify">
 						<h2 class="title2">What is <span class="blue">Dokodemo-Kerja?</span></h2>
 						<span class="blue">Dokodemo-Kerja</span> is a professional work system created to help increasing productivity for independent and flexible workers. Your company can now implement remote work system for employees anywhere and anytime. Employees are freed from the saturation and tight working atmosphere in the office. In addition to facilitate remote-work system, <span class="blue">Dokodemo-Kerja</span> can also be used to monitor productivity of employees in the office. Always track time your employees spent. Find out if they get their tasks done efficiently. See the performance of all employees in detail. With this, managers and HR can determine and evaluate the performance of each employee.
-						<br/><br/><br/>
+						<br/><br/>
 						<div class="text-center">
 							<a href="#divForm" class="smooth btn btn-coba">Try Now</a>
 						</div>
-						<br/><br/>
+						<br/>
 					</div>
 				</div>
+				<br/>
+				<div class="row visible-lg">
+					<div class="col-md-12">
+						<div class="poster-main screenshot-slide ">
+						  <div class="poster-btn poster-prev-btn"></div>
+						  <ul class="poster-list">
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss4.jpg"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss1.jpg"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss2.jpg"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss3.jpg"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss5.jpg"></li>
+						  </ul>
+						  <div class="poster-btn poster-next-btn"></div>
+						</div>
+					</div>
+				</div>
+				<div class="row hidden-lg">
+					<div class="col-md-12">
+						<div id="myCarousel" class="carousel slide" data-ride="carousel">
+						  <!-- Wrapper for slides -->
+						  <div class="carousel-inner">
+							<div class="item active">
+							  <img src="/produk/img/dokodemo-kerja/ss4.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="/produk/img/dokodemo-kerja/ss1.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="/produk/img/dokodemo-kerja/ss2.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="/produk/img/dokodemo-kerja/ss3.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="/produk/img/dokodemo-kerja/ss5.jpg" class="img-responsive center-block">
+							</div>
+						  </div>
+						  <!-- Left and right controls -->
+						  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+							<span class="glyphicon glyphicon-chevron-left"></span>
+							<span class="sr-only">Previous</span>
+						  </a>
+						  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+							<span class="glyphicon glyphicon-chevron-right"></span>
+							<span class="sr-only">Next</span>
+						  </a>
+						</div>
+					</div>
+				</div>
+				<div class="visible-lg"><br/><br/></div>
 			</div>
 		</div>
 		
@@ -505,14 +555,14 @@ if(isset($_POST['submitted']))
 						
 						<span class="blue2 fw-500">Bagaimana cara mengetahui apakah PC atau Mac saya dapat menjalankan <strong>Dokodemo-Kerja</strong>? </span><br/>
 						<strong>Dokodemo-Kerja</strong> mendukung PC yang menjalankan sistem operasi Windows, Linux, dan Macintosh.<br/><br/>
-					</div>
-					<div class="col-md-6">
+						
 						<span class="blue2 fw-500">Bahasa apa saja yang tersedia untuk <strong>Dokodemo-Kerja</strong>?</span><br/>
 						Untuk saat ini, <strong>Dokodemo-Kerja</strong> tersedia dalam Bahasa Indonesia dan Inggris.<br/><br/> 
 						 
 						<span class="blue2 fw-500">Dapatkah saya melakukan uji coba <strong>Dokodemo-Kerja</strong> terlebih dahulu sebelum membelinya?</span><br/>
 						Tentu saja. Untuk mendapatkan layanan uji coba, silakan hubungi kami.<br/><br/>
-						
+					</div>
+					<div class="col-md-6">						
 						<span class="blue2 fw-500">Bagaimana jika saya punya masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>?</span><br/>
 						Jangan khawatir. Jika Anda mengalami masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>, Anda dapat langsung menghubungi kami. Kami akan membantu Anda dengan senang hati.<br/><br/>
 						
@@ -528,6 +578,15 @@ if(isset($_POST['submitted']))
 						<span class="blue2 fw-500">Apa keuntungan yang didapatkan oleh perusahaan yang menerapkan <strong>Dokodemo-Kerja</strong>?</span><br/>
 						Dengan <strong>Dokodemo-Kerja</strong>, perusahaan akan diuntungkan dengan produktifitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.<br/><br/>
 						
+						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> dapat menyesuaikan waktu sesuai dengan zona waktu lokal yang ada?</span><br/>
+						Bisa, Jika Anda mengaktifkan <strong>Dokodemo-Kerja</strong>, maka secara otomatis aplikasi akan mendeteksi zona waktu lokal yang ada.<br/><br/>
+						
+						<span class="blue2 fw-500">Apa yang akan terjadi jika kita langsung mematikan OS (Operating System) tanpa menghentikan  <strong>Dokodemo-Kerja</strong> terlebih dahulu?</span><br/>
+						Jika hal ini terjadi, maka pencatatan waktu yang terekam akan berada pada waktu terakhir aplikasi menangkap layar monitor.<br/><br/>
+						
+						<span class="blue2 fw-500">Dapatkah <strong>Dokodemo-Kerja</strong> beroperasi di Background System?</span><br/>
+						Tidak bisa, Sebab ketika aplikasi ditutup, maka service secara otomatis juga akan berakhir.<br/><br/>
+						
 					</div>
 				</div>
 				<br/>
@@ -542,6 +601,119 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
+		
+		<div class="testi-div">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="anton title yellow text-center">Testimonial Dokodemo-Kerja</div>
+					</div>
+				</div>
+				<br/>
+				<div class="row">
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title"></div>
+							<div class="clearfix"></div>
+							<p>
+								The traffic jam to my office is quite stressful. My house is so far from the office and I have to take a very crowded bus. Every day I spend about 4 hours on the road, constantly like that. I’m so grateful when my company finally use Dokodemo-Kerja and implemented a remote work system in the office. With Dokodemo-Kerja, I can work anywhere I want now. I also can use the 4 hours road to do something more productive.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Rafid</strong></span> - <span class="fs-14">Front End Developer</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title"></div>
+							<div class="clearfix"></div>
+							<p>
+								It used to be so difficult for me to ask employees to stop spending too much time on social media, orYoutube, or playing games on working hours. Dokodemo-Kerja helps me so much with it. Its feature of capturing each employee’s computer screen at certain times makes them able to manage their working time. Now, everyone stops Dokodemo-Kerja if they want to check their social media or playing games, because those activities aren’t counted as their working hours.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Kevin</strong></span> - <span class="fs-14">HR Staff</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title"></div>
+							<div class="clearfix"></div>
+							<p>
+								Sometimes I noticed my staffs were having a break too long on prayer time. I just want everyone to have fair working hours, no matter what religion they believe in, but it’s difficult for me to discuss about it. Since we use Dokodemo-Kerja, all employees have fair working hours. If it’s time to have a praying break, they always stop the record and start again when they get back to work. Dokodemo-Kerja helps our company so much to stay productive.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Mizuho Yamada</strong></span> - <span class="fs-14">Manager of Back Office</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="clearfix"></div><hr class="hidden-sm hidden-xs"/>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title"></div>
+							<div class="clearfix"></div>
+							<p>
+								I’ve always wanted to go back to university to finish my degree. With Dokodemo-Kerja, I can prove my manager that I’m still able to work 8 hours every day. Some days, I work in the morning, and the other days, I work at night. Now, I can continue my study and still be able to work. Dokodemo-Kerja has helped me increasing the quality of my life. Thank you.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Angga</strong></span> - <span class="fs-14">Designer</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title"></div>
+							<div class="clearfix"></div>
+							<p>
+								I used to think that working full time remotely was absurd. I mean, if everyone is working remotely, how do we know if they are working fairly on working hours? But since we use Dokodemo-Kerja, we never worry about it anymore. This smart system makes it possible for us to monitor the working hours spent by all employees and how they spent it. Dokodemo-Kerja is indeed helping our company.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Arie</strong></span> - <span class="fs-14">HR Staff</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title"></div>
+							<div class="clearfix"></div>
+							<p>
+								Dokodemo-Kerja has changed the way I work in the most productive way possible. I’m a new mom and I don’t think I can trust my newborn son with some kind of a babysitter while I work at the office. I’m really happy because with Dokodemo-Kerja, the company lets me work at home. Now I can still work and be with my baby 24 hours every day.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Sisca</strong></span> - <span class="fs-14">Programmer</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="clearfix"></div><hr class="hidden-sm hidden-xs"/>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title"></div>
+							<div class="clearfix"></div>
+							<p>
+								I often reprimand employees who go out too long to smoke. The reason is that they don’t work according to working hours that should apply. I just want fair working hours to apply to all employees. After using the Dokodemo-Kerja, there are no more employees using the time to smoke too long. I can easily calculate employee work hours too.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Tiara</strong></span> - <span class="fs-14">HR Staff</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title"></div>
+							<div class="clearfix"></div>
+							<p>
+								My mother is ill, and I thought I had to give up my job because I needed to stay home to take care of her. But, I’m very grateful now, Dokodemo-Kerja has made it possible for me to work remotely from home. I can still be there for my mother while also working professionally at the same time.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Bobby Susanto</strong></span> - <span class="fs-14">Programmer</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+		
 		<a href="#" class="scrollToTop">Back to Top</a>
 		<footer>
 			<div class="container">
@@ -583,8 +755,12 @@ if(isset($_POST['submitted']))
 			</div>
 		</footer>
 		
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 		<script src="/js/bootstrap.min.js"></script>
+		<script src="/produk/js/PicCarousel.min.js"></script>
+		<script>
+			$(".screenshot-slide").PicCarousel("init");
+		</script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<script type="text/javascript">			
 			$(function() {

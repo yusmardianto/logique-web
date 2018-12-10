@@ -58,6 +58,16 @@ if(isset($_POST['submitted']))
 	ga('send', 'pageview');
 
 	</script>
+	<!-- Twitter universal website tag code -->
+	<script>
+	!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+	},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+	a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+	// Insert Twitter Pixel ID and Standard Event data below
+	twq('init','o0xru');
+	twq('track','PageView');
+	</script>
+	<!-- End Twitter universal website tag code -->
 </head>
 	<body class="dokodemo">
 		<header>
@@ -134,13 +144,63 @@ if(isset($_POST['submitted']))
 						<span class="blue">Dokodemo-Kerja</span> adalah sistem kerja profesional yang dibuat untuk para pekerja independen dan fleksibel, namun tetap ingin lebih dalam hal produktivitas kerja. Sistem kerja ini merupakan solusi terbaik bagi perusahaan agar dapat mengetahui secara detail kinerja dari seluruh karyawannya.<br/><br/>
 						Dengan menggunakan sistem teknologi ini, perusahaan dapat menerapkan sistem kerja remote bagi karyawannya di mana pun dan kapan pun. Karyawan pun dibebaskan dari kejenuhan dan ketatnya suasana kerja dalam kantor.<br/><br/>
 						Selain untuk karyawan dengan sistem <i>remote</i>, <span class="blue">Dokodemo-Kerja</span> ternyata juga dapat Anda pergunakan untuk memantau produktivitas karyawan di kantor. Selain untuk memantau pekerjaan, <span class="blue">Dokodemo-Kerja</span> juga dapat digunakan oleh HR dan Manajer sebagai salah satu syarat untuk menentukan kinerja para karyawan.
-						<br/><br/><br/>
+						<br/><br/>
 						<div class="text-center">
 							<a href="#divForm" class="smooth btn btn-coba">Coba Sekarang</a>
 						</div>
-						<br/><br/>
+						<br/>
 					</div>
 				</div>
+				<br/>
+				<div class="row visible-lg">
+					<div class="col-md-12">
+						<div class="poster-main screenshot-slide ">
+						  <div class="poster-btn poster-prev-btn"></div>
+						  <ul class="poster-list">
+							<li class="poster-item"><img src="img/dokodemo-kerja/ss4.jpg"></li>
+							<li class="poster-item"><img src="img/dokodemo-kerja/ss1.jpg"></li>
+							<li class="poster-item"><img src="img/dokodemo-kerja/ss2.jpg"></li>
+							<li class="poster-item"><img src="img/dokodemo-kerja/ss3.jpg"></li>
+							<li class="poster-item"><img src="img/dokodemo-kerja/ss5.jpg"></li>
+						  </ul>
+						  <div class="poster-btn poster-next-btn"></div>
+						</div>
+					</div>
+				</div>
+				<div class="row hidden-lg">
+					<div class="col-md-12">
+						<div id="myCarousel" class="carousel slide" data-ride="carousel">
+						  <!-- Wrapper for slides -->
+						  <div class="carousel-inner">
+							<div class="item active">
+							  <img src="img/dokodemo-kerja/ss4.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="img/dokodemo-kerja/ss1.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="img/dokodemo-kerja/ss2.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="img/dokodemo-kerja/ss3.jpg" class="img-responsive center-block">
+							</div>
+							<div class="item">
+							  <img src="img/dokodemo-kerja/ss5.jpg" class="img-responsive center-block">
+							</div>
+						  </div>
+						  <!-- Left and right controls -->
+						  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+							<span class="glyphicon glyphicon-chevron-left"></span>
+							<span class="sr-only">Previous</span>
+						  </a>
+						  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+							<span class="glyphicon glyphicon-chevron-right"></span>
+							<span class="sr-only">Next</span>
+						  </a>
+						</div>
+					</div>
+				</div>
+				<div class="visible-lg"><br/><br/></div>
 			</div>
 		</div>
 		
@@ -264,6 +324,29 @@ if(isset($_POST['submitted']))
 								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Mempermudah pencatatan dan pengelolaan aktivitas dan jam kerja karyawan secara tepat.</li>
 								<li><span class="fa-li"><i class="fa fa-circle"></i></span>Membantu mendorong karyawan untuk lebih bersemangat dalam bekerja dengan fleksibilitas waktu yang dimiliki.</li>
 							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="div-masalah-new">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-offset-2 col-md-8">
+						<div class="title anton">Anda Seorang Manager dan Merasa Tertekan Karena Masalah-masalah Ini?</div>
+						<br/>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+						<div class="list-masalah">Anda memiliki cukup banyak kantor dan tidak memiliki manager pada setiap kantor. Sulit bagi Anda untuk memantau pekerjaan karyawan dengan baik</div>
+						<div class="list-masalah">Anda tidak dapat memastikan apakah mereka bekerja dengan cukup baik. Staff Anda berbeda lantai dan ruangan dengan Anda dan Anda juga seringkali keluar kantor.</div>
+						<div class="list-masalah">Sulit untuk memantau jam kerja para karyawan. Anda menggunakan alat perekam kehadiran yang menggunakan sidik jari, namun masih terdapat celah dan kekurangan dari alat tersebut.</div>
+						<div class="list-masalah">Beberapa karyawan menonton Youtube untuk waktu yang lama pada saat jam kerja.</div>
+						
+						<div class="highlight-masalah">
+							<span>Dokodemo-Kerja</span> dapat membantu Anda untuk mengatasi masalah-masalah diatas.<br/>
+							Anda dapat mulai menggunakan <strong>Dokodemo-Kerja</strong> hari ini.
 						</div>
 					</div>
 				</div>
@@ -504,14 +587,14 @@ if(isset($_POST['submitted']))
 						
 						<span class="blue2 fw-500">Bagaimana cara mengetahui apakah PC atau Mac saya dapat menjalankan <strong>Dokodemo-Kerja</strong>? </span><br/>
 						<strong>Dokodemo-Kerja</strong> mendukung PC yang menjalankan sistem operasi Windows, Linux, dan Macintosh.<br/><br/>
-					</div>
-					<div class="col-md-6">
+						
 						<span class="blue2 fw-500">Bahasa apa saja yang tersedia untuk <strong>Dokodemo-Kerja</strong>?</span><br/>
 						Untuk saat ini, <strong>Dokodemo-Kerja</strong> tersedia dalam Bahasa Indonesia dan Inggris.<br/><br/> 
 						 
 						<span class="blue2 fw-500">Dapatkah saya melakukan uji coba <strong>Dokodemo-Kerja</strong> terlebih dahulu sebelum membelinya?</span><br/>
 						Tentu saja. Untuk mendapatkan layanan uji coba, silakan hubungi kami.<br/><br/>
-						
+					</div>
+					<div class="col-md-6">						
 						<span class="blue2 fw-500">Bagaimana jika saya punya masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>?</span><br/>
 						Jangan khawatir. Jika Anda mengalami masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>, Anda dapat langsung menghubungi kami. Kami akan membantu Anda dengan senang hati.<br/><br/>
 						
@@ -527,6 +610,15 @@ if(isset($_POST['submitted']))
 						<span class="blue2 fw-500">Apa keuntungan yang didapatkan oleh perusahaan yang menerapkan <strong>Dokodemo-Kerja</strong>?</span><br/>
 						Dengan <strong>Dokodemo-Kerja</strong>, perusahaan akan diuntungkan dengan produktifitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.<br/><br/>
 						
+						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> dapat menyesuaikan waktu sesuai dengan zona waktu lokal yang ada?</span><br/>
+						Bisa, Jika Anda mengaktifkan <strong>Dokodemo-Kerja</strong>, maka secara otomatis aplikasi akan mendeteksi zona waktu lokal yang ada.<br/><br/>
+						
+						<span class="blue2 fw-500">Apa yang akan terjadi jika kita langsung mematikan OS (Operating System) tanpa menghentikan  <strong>Dokodemo-Kerja</strong> terlebih dahulu?</span><br/>
+						Jika hal ini terjadi, maka pencatatan waktu yang terekam akan berada pada waktu terakhir aplikasi menangkap layar monitor.<br/><br/>
+						
+						<span class="blue2 fw-500">Dapatkah <strong>Dokodemo-Kerja</strong> beroperasi di Background System?</span><br/>
+						Tidak bisa, Sebab ketika aplikasi ditutup, maka service secara otomatis juga akan berakhir.<br/><br/>
+						
 					</div>
 				</div>
 				<br/>
@@ -541,6 +633,136 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
+		
+		<div class="testi-div">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="anton title yellow text-center">Testimonial Dokodemo-Kerja</div>
+					</div>
+				</div>
+				<br/>
+				<div class="row">
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title">
+								Bekerja secara fleksibel.
+							</div>
+							<div class="clearfix"></div>
+							<p>
+								Macetnya lalu lintas menuju kantor saya cukup membuat saya stress. Lelah dan stress saya menjadi bertambah, sebab rumah dengan kantor saya memiliki jarak yang cukup jauh. Setiap harinya saya menghabiskan waktu selama empat jam di jalan, terus menerus seperti itu. Pada akhirnya, perusahaan saya menggunakan Dokodemo-Kerja dan menerapkan sistem kerja remote di kantor. Dengan Dokodemo-Kerja saya bisa bekerja secara fleksibel.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Rafid</strong></span> - <span class="fs-14">Front End Developer</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title">
+								Dapat memantau seluruh karyawan
+							</div>
+							<div class="clearfix"></div>
+							<p>
+								Sangat sulit bagi saya untuk memantau seluruh karyawan untuk tidak membuka sosial media, youtube, dan bermain games. Setelah saya menggunakan Dokodemo-Kerja, saya dapat memantau seluruh karyawan yang membuka sosial media, youtube dan bermain games dari screen capture laptop masing-masing. Sekarang, para karyawan menon-aktifkan 
+								Dokodemo-Kerja apabila mereka sedang istirahat ataupun bermain games. Aktivitas tersebut tidak dihitung sebagai jam kerja mereka.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Kevin</strong></span> - <span class="fs-14">Staff HR</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title">
+								Sekarang  jam kerja yang adil dapat diberlakukan kepada seluruh karyawan.
+							</div>
+							<div class="clearfix"></div>
+							<p>
+								Saya merasa sungkan untuk menegur karyawan yang menggunakan waktu untuk beribadah terlalu lama. Saya ingin berlaku adil terhadap seluruh karyawan, apapun agama yang mereka anut. Sekarang  jam kerja yang adil dapat diberlakukan kepada seluruh karyawan. Saya merasa terbantu dengan Dokodemo-Kerja.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Mizuho Yamada</strong></span> - <span class="fs-14">Manager of Back Office</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="clearfix"></div><hr class="hidden-sm hidden-xs"/>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title">
+								Dokodemo-Kerja membuat kualitas hidup saya meningkat.
+							</div>
+							<div class="clearfix"></div>
+							<p>
+								Saya ingin melanjutkan pendidikan ke jenjang yang lebih tinggi. Dengan Dokodemo-Kerja saya bisa membuktikan bahwa saya benar-benar bekerja selama delapan jam setiap harinya. Saya bekerja di waktu siang untuk beberapa hari. Pada hari-hari selanjutnya, saya bekerja di waktu malam. Dokodemo-Kerja membuat kualitas hidup saya meningkat.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Angga</strong></span> - <span class="fs-14">Designer</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title">
+								Bisa mengetahui produktivitas dan jam kerja mereka.
+							</div>
+							<div class="clearfix"></div>
+							<p>
+								Melakukan monitoring terhadap karyawan remote cukup sulit. Perbedaan tempat dan jarak yang jauh membuat saya sulit untuk memantau karyawan. Semenjak menggunakan Dokodemo-Kerja, saya dapat memantau karyawan dengan lebih baik. Saya bisa mengetahui produktivitas dan jam kerja mereka. Terimakasih Dokodemo-Kerja.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Arie</strong></span> - <span class="fs-14">HR</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title">
+								Memperbolehkan karyawan untuk bekerja secara remote.
+							</div>
+							<div class="clearfix"></div>
+							<p>
+								Saya kira, bekerja secara full remote adalah sesuatu yang mustahil. Sebab, perusahaan akan sulit untuk memantau kinerja karyawan. Tapi anggapan saya berubah ketika saya mengenal Dokodemo-Kerja. Oleh karena sistem ini, perusahaan di tempat saya bekerja memperbolehkan karyawan untuk bekerja secara remote. Saya sangat bahagia sekali. Akhirnya saya dapat bekerja sembari mengurus anak di rumah.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Sisca</strong></span> - <span class="fs-14">Programmer</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="clearfix"></div><hr class="hidden-sm hidden-xs"/>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title">
+								Dapat dengan mudah mengalkulasi jam kerja karyawan.
+							</div>
+							<div class="clearfix"></div>
+							<p>
+								Seringkali saya menegur para karyawan yang terlalu lama keluar untuk merokok. Alasannya, mereka tidak bekerja sesuai dengan jam kerja yang seharusnya berlaku. Kedua, saya ingin jam kerja yang adil dapat berlaku untuk seluruh karyawan. Setelah menggunakan Dokodemo-Kerja, sudah tidak ada lagi karyawan menggunakan waktu merokok terlalu lama. Saya pun dapat dengan mudah mengalkulasi jam kerja karyawan. 
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Tiara</strong></span> - <span class="fs-14">Staff HR</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<div class="testi-title">
+								Bekerja profesional dengan sistem kerja remote.
+							</div>
+							<div class="clearfix"></div>
+							<p>
+								Saya tidak bisa bekerja secara on site karena ibu saya sakit. Saya kira, saya harus merelakan pekerjaan saya disaat-saat seperti ini. Namun, Dokodemo-Kerja dapat membantu saya untuk tetap bekerja profesional dengan sistem kerja remote.
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Bobby Susanto</strong></span> - <span class="fs-14">Programmer</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+		
 		<a href="#" class="scrollToTop">Back to Top</a>
 		<footer>
 			<div class="container">
@@ -550,8 +772,9 @@ if(isset($_POST['submitted']))
 						<p>
 							<strong>Dokodemo-Kerja</strong> adalah solusi sistem kerja berupa aplikasi yang mampu merekam, menghitung, serta mengelola aktivitas dan jam kerja karyawan guna meningkatkan produktivitas perusahaan.
 						</p>
-						<br/><br/>
+						<div class="hidden-xs"><br/><br/></div>
 						<div class="cr">© 2018<a href="/" class="yellow"> PT. Logique Digital Indonesia.</a> All Rights Reserved.</div>
+						<div class="visible-xs"><br/></div>
 					</div>
 					<div class="col-md-6 col-md-pull-6">
 						<ul class="fa-ul">
@@ -582,8 +805,12 @@ if(isset($_POST['submitted']))
 			</div>
 		</footer>
 		
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 		<script src="/js/bootstrap.min.js"></script>
+		<script src="js/PicCarousel.min.js"></script>
+		<script>
+			$(".screenshot-slide").PicCarousel("init");
+		</script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<script type="text/javascript">			
 			$(function() {

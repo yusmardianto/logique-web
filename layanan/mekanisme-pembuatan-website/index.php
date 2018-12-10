@@ -60,9 +60,78 @@ if(isset($_POST['submitted']))
 	ga('send', 'pageview');
 
 	</script>
+	<!-- Twitter universal website tag code -->
+	<script>
+	!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+	},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+	a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+	// Insert Twitter Pixel ID and Standard Event data below
+	twq('init','o0xru');
+	twq('track','PageView');
+	</script>
+	<!-- End Twitter universal website tag code -->
 </head>
 	<body>
 		<header>
+			<!-- NAVIGATION -->
+			<div class="nav-lp">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar first"></span>
+					<span class="icon-bar second"></span>
+					<span class="icon-bar third"></span> 
+				</button>
+				<div class="collapse navbar-collapse" id="myNavbar">
+				<div class="backdrop-test"></div>
+					<div class="logique-nav">
+						<div class="margin-for-nav">
+							<div class="text-center ">
+								<a href="/">
+									<div class="img-home"></div>
+									Beranda
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/tentang-kami.php">
+									<div class="img-about"></div>
+									Tentang Kami
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/portofolio.php">
+									<div class="img-portfolio"></div>
+									Portfolio
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/layanan.php">
+									<div class="img-services"></div>
+									Layanan
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/karir.php">
+									<div class="img-career"></div>
+									Karir
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/hubungi-kami.php">
+									<div class="img-contact"></div>
+									Hubungi Kami
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="https://www.logique.co.id/blog/" target="_blank">
+									<div class="img-blog"></div>
+									Blog
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- NAVIGATION -->
+			
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
@@ -114,7 +183,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<div class="col-md-4 text-center">
 							<div class="new-box min-h">
-								<h4>Dipercaya Berbagai Perusahaan Nasional dan Internasional</h4>
+								<h4>Dipercaya Perusahaan Nasional dan Internasional</h4>
 								<p>Dikerjakan oleh karyawan-karyawan yang profesional di bidangnya, membuat para klien kami merasa senang dengan pelayanan dan hasil yang kami berikan. Kami telah berhasil—dan masih terus dipercaya—mengerjakan projek-projek besar dari perusahaan nasional maupun internasional di berbagai bidang, mulai dari manufaktur, pemerintahan, finance, hingga asuransi. </p>
 							</div>
 						</div>
@@ -520,7 +589,7 @@ if(isset($_POST['submitted']))
 							<input type='hidden' name='submitted' id='submitted' value='1'/>
 							<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-							<div class="row">
+							<div class="">
 									<div class="form-group">
 										<input type="text" class="form-control" placeholder="Nama" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 									</div>

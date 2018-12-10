@@ -63,6 +63,66 @@ if(isset($_POST['submitted']))
 </head>
 	<body>
 		<header class="header">
+			
+			<!-- NAVIGATION -->
+			<div class="nav-lp">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar first"></span>
+					<span class="icon-bar second"></span>
+					<span class="icon-bar third"></span> 
+				</button>
+				<div class="collapse navbar-collapse" id="myNavbar">
+				<div class="backdrop-test"></div>
+					<div class="logique-nav">
+						<div class="margin-for-nav">
+							<div class="text-center ">
+								<a href="/en/">
+									<div class="img-home"></div>
+									Home
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/en/about.php">
+									<div class="img-about"></div>
+									About Us
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/en/portfolio.php">
+									<div class="img-portfolio"></div>
+									Portfolio
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/en/services.php">
+									<div class="img-services"></div>
+									Services
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/en/joinus.php">
+									<div class="img-career"></div>
+									Career
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/en/contact.php">
+									<div class="img-contact"></div>
+									Contact us
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="https://www.logique.co.id/blog/" target="_blank">
+									<div class="img-blog"></div>
+									Blog
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- NAVIGATION -->
+			
 			<div class="container" style="position:relative">
 				<div class="row">
 					<!-- <div class="col-md-12">
@@ -270,6 +330,24 @@ if(isset($_POST['submitted']))
 								</div>
 							</div>
 						</div>
+						<div class="link-footer-webdev">
+							<br/>
+							<div style="margin-bottom:8px"><b>Social Media</b></div>
+							<div class="row medsos-new">
+								<div class="col-xs-3">
+									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+								<div class="col-xs-3">
+									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+								<div class="col-xs-3">
+									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+								<div class="col-xs-3">
+									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+							</div>
+						</div>
 					</div>
 					<div class="col-md-4 hidden-md hidden-lg">
 						<span><hr>LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.</span>
@@ -291,7 +369,7 @@ if(isset($_POST['submitted']))
 							<input type='hidden' name='submitted' id='submitted' value='1'/>
 							<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-							<div class="row">
+							<div class="">
 									<div class="form-group">
 										<input type="text" class="form-control" placeholder="Name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 									</div>

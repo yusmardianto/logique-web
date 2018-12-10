@@ -63,6 +63,66 @@ if(isset($_POST['submitted']))
 </head>
 	<body>
 		<header>
+			
+			<!-- NAVIGATION -->
+			<div class="nav-lp">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar first"></span>
+					<span class="icon-bar second"></span>
+					<span class="icon-bar third"></span> 
+				</button>
+				<div class="collapse navbar-collapse" id="myNavbar">
+				<div class="backdrop-test"></div>
+					<div class="logique-nav in-jp">
+						<div class="margin-for-nav">
+							<div class="text-center active">
+								<a href="/jp/">
+									<div class="img-home"></div>
+									Home
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/jp/about.php">
+									<div class="img-about"></div>
+									会社概要
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/jp/portfolio.php">
+									<div class="img-portfolio"></div>
+									制作実績
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/jp/services.php">
+									<div class="img-services"></div>
+									サービス
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/jp/joinus.php">
+									<div class="img-career"></div>
+									採用/<br>パートナー
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/jp/contact.php">
+									<div class="img-contact"></div>
+									お問い合わせ
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="https://www.logique.co.id/blog/ja" target="_blank">
+									<div class="img-blog"></div>
+									Blog
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- NAVIGATION -->
+		
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
@@ -83,8 +143,17 @@ if(isset($_POST['submitted']))
 							</ul>
 						</div>
 					</div>
-					<div class="col-md-offset-3 col-md-7 m-t-10em">
-						<h1 class="text-right"><span class="c-logique"><span class="underline">LOGIQUE</span></span>のWEB制作の特徴</h1>
+					<div class="col-md-offset-2 col-md-9 m-t-10em">
+						<h1 class="text-left"><span class="c-logique"><span class="underline">LOGIQUEのWEB</span></span> / ホームページ制作サービス</h1>
+						<div class="subtitle-header">
+							LOGIQUEの作るWEB/ホームページは<br/>
+							集客ができる、お問い合わせを増やせる、コンバージョン獲得できる<br/><br/>
+
+							WEBチャネルを活用して営業を効率的に行いたい、他社と差別化したい、<br/>
+							カスタマーサービスを効率化したい、採用したい、<br/>
+							場合はLOGIQUEにお任せください。<br/>
+							インドネシアで歴史も実績もNo1のWEB制作会社です。<br/>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -97,6 +166,30 @@ if(isset($_POST['submitted']))
 							<h1><b>インドネシアでWEB制作するならLOGIQUE１択です！</b></h1>
 							<br>
 							<p class="p-b-20">インドネシアでのWEB制作の経験が違います。数多くのWEB、それも政府系団体や金融機関などのセキュアでミスの許されないものから、クリエイティブへの要求が高いWEB、複雑なプログラミングが必要なWEBなど様々なものを手がけてきました。スピード感をもって柔軟に進めます。インドネシアでWEB制作・運用が必要であればLOGIQUEにご相談ください。</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+						<div class="row">
+							<div class="col-md-4 text-center">
+								<div class="new-box min-h">
+									<h4>インドネシアで6年以上の経験</h4>
+									<p><br>インドネシアにて金融機関や政府系団体のプロジェクトを長期間行ってきました。インドネシア語のSEO対策を実装したインドネシアでコンバージョンがでるWEBを制作します。</p>
+								</div>
+							</div>
+							<div class="col-md-4 text-center">
+								<div class="new-box min-h">
+									<h4>品質＆テクノロジー＆セキュリティ</h4>
+									<p>最新テクノロジーを積極的に取り入れてセキュリティの専門家による脆弱性検査を行った上で納品します。サクサク動作してセキュリティ堅牢性の高いWEBを制作します。</p>
+								</div>
+							</div>
+							<div class="col-md-4 text-center">
+								<div class="new-box min-h">
+									<h4>スピード＆柔軟性</h4>
+									<p><br>スピードを重要視しています。素早く制作開発して公開するためにプロジェクトを素早く積極的にリードします。後で手戻り作業が必要になった場合でも柔軟に対応します。</p>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -442,7 +535,7 @@ if(isset($_POST['submitted']))
 							<input type='hidden' name='submitted' id='submitted' value='1'/>
 							<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-							<div class="row">
+							<div class="">
 									<div class="form-group">
 										<input type="text" class="form-control" placeholder="Name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 									</div>

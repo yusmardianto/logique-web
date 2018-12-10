@@ -307,3 +307,37 @@ footer p{padding: 22px 0px;}
         display: flex
     }
 }
+
+
+
+.poster-main {
+  width: 1000px;
+  height: 500px;
+  position: relative;
+  margin: 0 auto;
+}
+.poster-main a, .poster-main img { display: block; width:100%}
+.poster-main .poster-list .poster-item {
+  width: 200px;
+  height: 500px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.poster-main .poster-btn {
+  position: absolute;
+  top: 0;
+  z-index: 10;
+  cursor: pointer;
+}
+.poster-main .poster-prev-btn {
+  left: 0;
+  background: url(/produk/img/dokodemo-kerja/left.png) no-repeat left center;
+}
+.poster-main .poster-next-btn {
+  right: 0;
+  background: url(/produk/img/dokodemo-kerja/right.png) no-repeat right center;
+}
+@media (max-width:1199px) {
+	.poster-main{width: 100%!important;overflow: hidden;}
+}
