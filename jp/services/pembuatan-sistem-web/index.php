@@ -323,6 +323,24 @@ if(isset($_POST['submitted']))
 								</div>
 							</div>
 						</div>
+						<div class="link-footer-webdev">
+							<br/>
+							<div style="margin-bottom:8px"><b>Social Media</b></div>
+							<div class="row medsos-new">
+								<div class="col-xs-3">
+									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+								<div class="col-xs-3">
+									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+								<div class="col-xs-3">
+									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+								<div class="col-xs-3">
+									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+								</div>
+							</div>
+						</div>
 					</div>
 					<div class="col-md-4 hidden-md hidden-lg">
 						<span><hr>インドネシアでWEB系のシステム開発やWEBアプリ開発や、それらシステムの運用が必要な場合LOGIQUEにご相談ください。CMS構築、会員管理システム（CRM)、ECサイト構築、会計管理、人事管理、アンケートシステムなど様々なシステム構築運用を成功に導いてきました。PMOとして、テスト工程だけ、ラボ型開発を、など様々な形でのご支援が可能です。</span>
