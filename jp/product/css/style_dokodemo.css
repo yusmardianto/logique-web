@@ -47,13 +47,13 @@ header p{color:#000;}
 header .title{font-size:45px;color:#000;text-align:center;letter-spacing: 2px;text-shadow: 0 4px 3px rgba(2,2,2,0.23);padding:0 15px}
 .valign-center{top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);position:relative}
 header hr{border-top:5px solid #000;width:20%;margin: 30px auto;}
-.bg-black{background:#000;color:#fff;padding:45px 0;line-height: 30px;}
-.bg-black div, .bg-black span{font-size:18px;}
+.bg-black{background:#000;color:#fff;padding:45px 0;line-height: 20px;}
+.bg-black div, .bg-black span{font-size:16px;}
 .blue{color:#00aeef;font-weight: 500;}
 .bg-black .title{font-size:18px;font-weight: 100;}
 .bg-black .title2{font-size:30px;font-weight: 300;}
 .bg-black .title2 .blue{font-size:30px;}
-.bg-black .title .blue{font-size:30px;font-weight:700;display:block}
+.bg-black .title .blue{font-size:30px;font-weight:700;display:block;margin-bottom: 18px;}
 .btn-coba{font-size:24px;color:#0665a5!important;min-width:350px;background:#fff568;border-radius: 10px;margin-top: 10px;outline:none!important}
 .bg-why{background:url('../img/dokodemo-kerja/why.png') no-repeat;background-size:cover;padding:25px 0}
 .bg-why .title{text-align:right;font-size:24px;color:#000;padding:10px 55px 10px 25px;background:#bae3f5;width:41.66667%}
@@ -154,7 +154,7 @@ footer p{padding: 22px 0px;}
 .masalah1{position: absolute;width: 420px;right: -40px;top: -130px;}
 .masalah2{position: absolute;width: 621px;left: -83px;top: -62px;}
 .masalah3{position: absolute;width: 500px;right: -105px;top: -61px;}
-.bg-black div.quote{font-size: 100px;font-family: 'Anton';margin-bottom: 30px;float: left;margin-top: 35px;margin-right: 12px;}
+.bg-black div.quote{font-size: 100px;font-family: 'Anton';margin-bottom: 30px;float: left;margin-top: 20px;margin-right: 12px;}
 .bg-old-yellow{background:url('../img/dokodemo-kerja/bg-old-yellow.png') no-repeat;background-size:cover;background-position: 60% 0;padding: 45px 0 25px 0;}
 .image-fitur{position: absolute;top: -80px;left: 50px;}
 .one-fitur{color: #fff;border-left: 1px solid #fff;padding: 0 20px;margin: 25px 0 0 0;}
