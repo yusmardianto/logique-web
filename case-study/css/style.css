@@ -190,6 +190,12 @@ footer p:before {
         background-color: #fff;
         margin-left: 0rem;
     }
+    
+    .bg-atas-log-1 {
+        background-image: url('../img/bg-atas-res.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 
     .no-bg {
         margin-left: 0 !important;
