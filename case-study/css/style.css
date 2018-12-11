@@ -6,14 +6,14 @@ body {
     background-image: url('../img/bg-atas.png');
     background-repeat: no-repeat;
     background-size: cover;
-    margin-left: -3.5rem;
+    margin-left: -2.5rem;
 }
 
 .bg-atas-log-2 {
     background-image: url('../img/bg-atas-2.png');
     background-repeat: no-repeat;
     background-size: cover;
-    margin-left: -2em;
+    margin-left: -20rem;
 }
 
 .bg-atas-log-3 {
@@ -43,10 +43,10 @@ body {
 }
 
 .text-pl8 {
-    padding: 0 0 0 8em;
+    padding: 0 0 0 20em;
 }
 
-.ikon {
+.ikon{
     width: 53rem;
     height: 28rem;
     position: absolute;
@@ -186,6 +186,17 @@ footer p:before {
  .copyright{border-top:1px solid #fff;padding:20px 0;color:#ffc914;text-align:center;background:#000;font-family: 'Lato', sans-serif;}
 
 @media (max-width: 768px) {
+    .bg-atas-log-2 {
+        background-color: #fff;
+        margin-left: 0rem;
+    }
+    
+    .bg-atas-log-1 {
+        background-image: url('../img/bg-atas-res.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
     .no-bg {
         margin-left: 0 !important;
     }
@@ -204,6 +215,7 @@ footer p:before {
 
     .pr-ikon {
         padding-right: 0em;
+        margin-right: 0em;
     }
 
     .top-only {

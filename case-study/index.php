@@ -125,7 +125,7 @@
 					</div>
 
 					<div class="row col-md-12 set-first">
-						<div class="col-md-6 text-center pr-ikon">
+						<div class="col-md-6 text-right pr-ikon">
 							<img src="./img/ikon-1.png" class="ikon" alt="test">
 						</div> 
 						<div class="col-md-6 text-left text-pl2">
