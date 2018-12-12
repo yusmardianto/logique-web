@@ -178,12 +178,55 @@
 									Industri yang paling banyak mendapatkan serangan dari ransomware adalah industri kesehatan, dan disinyalir serangan tersebut akan meningkat jumlahnya sebanyak empat kali lipat pada tahun 2020 mendatang.<br/><br/>
 									Namun, dari seluruh serangan tersebut, industri jasa keuangan menjadi salah satu industri yang paling dirugikan dari kejahatan cyber ini dengan rata-rata kerugian mencapai angka $ 18,3 juta per perusahaan.
 								</div>
-								
+								<div class="row">
+									<div class="col-sm-4 mt-2m">
+										<img alt="Sekitar 24.000 aplikasi seluler berbahaya diblokir setiap hari" src="img/dampak1.png" class="img-responsive center-block"/>
+									</div>
+									<div class="col-sm-4 mt-2m">
+										<img alt="Serangan IoT meningkat 600% pada 2017" src="img/dampak2.png" class="img-responsive center-block"/>
+									</div>
+									<div class="col-sm-4 mt-2m">
+										<img alt="serangan ransomware tumbuh lebih dari 350% setiap tahun" src="img/dampak3.png" class="img-responsive center-block"/>
+									</div>
+								</div>
+								<img class="img-responsive left-block" src="img/garis-dampak4.png"/>
+								<div class="row">
+									<div class="col-sm-3">
+										<img class="img-responsive center-block" src="img/rumah-dampak.png"/>
+									</div>
+									<div class="col-sm-6"> 
+										<div class="border-serangan cyber-attack mt-0">
+											<b>INDUSTRI JASA KEUANGAN</b>
+										</div>
+										<div class="border-serangan cyber-attack">
+											<p class="text-center">Melihat Kejahatan tertinggi dari kejahatan dunia maya, biayanya rata-rata</p>
+										</div>
+									</div>
+									<div class="col-sm-3">
+										<img class="img-responsive center-block" src="img/dampak-ratio.png"/>
+									</div>
+								</div>
 								<br/><br/>
 								<div class="kasus-subtitle">Berapa Biaya Kerugian yang Terjadi?</div>
 								<div class="div-kasus">
 									Situs Accenture mencatat jika rata-rata serangan malware menyebabkan kerugian terhadap perusahaan sebesar $ 2,4 juta. Selain itu, berdasarkan studi yang dilakukan oleh Ponemon Institute’s pada tahun 2017 mengatakan jika rata-rata biaya yang hilang atau dicuri dari masing-masing individu adalah sebesar $ 141. Biaya ini bervariasi di tiap negara, dimana biaya pelanggaran paling mahal berada di wilayah Amerika Serikat ($ 225) dan Kanada ($ 190).<br/><br/>
 									Sebanyak 43 persen biaya dikeluarkan akibat dari serangan cyber yang menghilangkan informasi. Selain itu, kerusakan yang terjadi terkait dengan kejahatan cyber ini diproyeksikan mencapai angka $ 6 triliun per tahun pada 2021 mendatang.
+								</div>
+								<div class="row">
+									<div class="col-sm-4 mt-2m">
+										<img alt="Sekitar 24.000 aplikasi seluler berbahaya diblokir setiap hari" src="img/kerugian1.png" class="img-responsive center-block"/>
+									</div>
+									<div class="col-sm-4 mt-2m">
+										<img alt="Serangan IoT meningkat 600% pada 2017" src="img/kerugian2.png" class="img-responsive center-block"/>
+									</div>
+									<div class="col-sm-4 mt-2m">
+										<img alt="serangan ransomware tumbuh lebih dari 350% setiap tahun" src="img/kerugian3.png" class="img-responsive center-block"/>
+									</div>
+								</div>
+								<div class="row mt-2m p-special-grid">
+									<div style="background-color:black;color:white;">Kerusakan yang terkait dengan cybercrime diproyeksikan akan mencapai</div>
+									<div style="background-color:black;color:white;margin: 0 1px;"><p class="six-billion"><span>USD 6</span> Trilliun<br/>per tahun pada 2021</p></div>
+									<div style="background-color:black;color:white;"><img alt="Serangan IoT meningkat 600% pada 2017" src="img/image-risk-cmputer.png" class="img-responsive center-block"/></div>
 								</div>
 								
 								<br/><br/>
@@ -193,6 +236,24 @@
 									Bukan hanya itu saja, berdasarkan data Varonis, 65% perusahaan mempunyai 500 pengguna yang tidak pernah mengubah kata sandi mereka. Bahkan, berdasarkan studi yang dilakukan oleh Ponemon Institute’s pada tahun 2017 mengatakan sebanyak 69% organisasi tidak percaya jika ancaman yang terjadi dapat diblokir oleh perangkat anti-virus milik mereka.
 								</div>
 								
+								<div class="row text-center">
+									<div class="col-sm-3 mt-2m img-centered img-up">
+										<img alt="Sekitar 24.000 aplikasi seluler berbahaya diblokir setiap hari" src="img/mengalami/mengalami1.png" class="img-responsive center-block"/>
+									</div>
+									<div class="col-sm-3 mt-2m img-centered img-up">
+										<img alt="Serangan IoT meningkat 600% pada 2017" src="img/mengalami/mengalami2.png" class="img-responsive center-block"/>
+									</div>
+									<div class="col-sm-3 mt-2m img-centered img-up">
+										<img alt="serangan ransomware tumbuh lebih dari 350% setiap tahun" src="img/mengalami/mengalami3.png" class="img-responsive center-block"/>
+									</div>
+									<div class="col-sm-3 mt-2m img-centered">
+										<img alt="Serangan IoT meningkat 600% pada 2017" src="img/mengalami/mengalami2.png" class="img-responsive center-block"/>
+									</div>
+									<div class="col-sm-3 mt-2m img-centered">
+										<img alt="serangan ransomware tumbuh lebih dari 350% setiap tahun" src="img/mengalami/mengalami3.png" class="img-responsive center-block"/>
+									</div> 	
+								</div>
+
 							</div>
 						</div>
 					</div>
@@ -398,6 +459,32 @@
 			</div>
 			<div class="hidden-xs"><br/></div>
 			<div class="row">
+				<div class="col-md-6">
+					<div class="row">
+						<div class="col-sm-4">
+							<img alt="Step 5" src="img/step5.png" class="img-responsive center-block"/><br/>
+						</div>
+						<div class="col-sm-8 text-justify">
+							<div class="title"><span>3</span> <b>Gaining Access</b></div>
+							Pada fase ini, pentester perlu untuk mendapatkan akses untuk mengambil alih kendali dari satu atau lebih perangkat jaringan untuk selanjutnya mengekstrak data dari target, untuk selanjutnya menggunakan perangkat tersebut untuk meluncurkan serangan pada target lainnya.
+							<br/><br/>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="row">
+						<div class="col-sm-4">
+							<img alt="Step 6" src="img/step6.png" class="img-responsive center-block"/><br/>
+						</div>
+						<div class="col-sm-8 text-justify">
+							<div class="title"><span>4</span> <b>Maintaining Access</b></div>
+							Yaitu tahapan dimana pentester akan membuat beberapa langkah-langkah yang diperlukan agar tetap berada di lingkungan target dengan tujuan untuk mengumpulkan data sebanyak mungkin. Pada fase ini, penyerang harus tetap dalam kondisi diam agar tidak dapat tertangkap ketika sedang menggunakan lingkungan host.<br/><br/>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="hidden-xs"><br/></div>
+			<div class="row">
 				<div class="bg-yellow">
 					<div class="row">
 						<div class="col-sm-2">
@@ -413,7 +500,7 @@
 			<br/><br/>
 		</div>
 	</div>
-	<div class="mengapa-harus">Layanan <b>Keamanan Siber</b> yang terdapat di Logique:</div>
+	<!-- <div class="mengapa-harus">Layanan <b>Keamanan Siber</b> yang terdapat di Logique:</div>
 	<br><br>
 
 	<div class="metode">
@@ -476,7 +563,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<div class="harga">
 		<div class="container">
@@ -511,6 +598,12 @@
 					<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/">Pembuatan Aplikasi Mobile</a>
 				</div>
 			</div>
+		</div>
+	</div>
+
+	<br/><br/>
+	<div class="tahapan">
+		<div class="container">
 		</div>
 	</div>
 	
@@ -617,7 +710,7 @@
 		<script src="js/wow.min.js"></script>
 	</body>
 	<script>
-		//new WOW().init();
+		new WOW().init();
 		$(function() {
 			$('.each-plus-minus').matchHeight();
 		});	
