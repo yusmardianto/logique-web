@@ -99,47 +99,56 @@
 			<!-- NAVIGATION -->
 			
 			<div class="container-fluid">
-				<div class="row bg-atas-log-1">
+				<div class="header">
 					<div class="language-btn">
-						<ul class="list-inline">
-							<li class="active"><a href="#">EN</a></li>
-							<li><a href="/layanan/pembuatan-sistem-web/">ID</a></li>
-							<li><a href="/jp/services/pembuatan-sistem-web/">JP</a></li>
+						<div class="text-left row-header">
+							<img src="./img/logo.png" class="logo-atas" alt="logique"> STUDI KASUS
+						</div>
+						<ul class="list-inline text-right">
+							<li><a href="#">EN</a></li>
+							<li class="active"><a href="#">ID</a></li>
+							<li><a href="/#">JP</a></li>
 						</ul>
 					</div>
-					<div class="col-md-12 text-right">
-						<h1 class="title-JBA">JBA Auction System</h1>
-					</div> 
-
 				</div>
-				<div class="row bg-atas-log-2">
-
+				<div class="row bg-atas-log-1">
+					<div class="row col-md-12 first-div">
+						<div class="col-md-6 text-left">
+							<img src="./img/ikon-atas.png" class="icon-top" alt="ikon-atas">
+						</div> 
+						<div class="col-md-6 text-center">
+							<h1 class="top-title">JBA Auction System</h1>
+						</div>
+					</div>
+				</div>
+				<img src="./img/line/line1.png" class="first-line lines" alt="first-line">
+				<div class="row section-2">
 					<div class="row col-md-12 set-first">
-						<div class="col-md-6 text-left text-pl8">
-							<h1 class="h1-desc">JBA Indonesia</h1>
+						<div class="col-md-7 text-left text-padding-left">
+							<h1>JBA Indonesia</h1>
 							<p class="p-desc">JBA Indonesia adalah perusahaan yang bergerak di bidang jasa LELANG, khususnya untuk produk otomotif seperti MOBIL dan MOTOR. PT. JBA Indonesia salah satu perusahaan asing di bidang LELANG yang berskala besar berkantor pusat di Jepang, mulai berdiri di Indonesia pada tanggal 16 November 2011, dan telah meraih penghargaan sebagai balai LELANG di tingkat inovasi terbaik di tahun 2013 dan 2014. Terpercaya, Aman, Praktis dan Nyaman merupakan motto kami dalam memberikan pelayanan secara professional dan menciptakan kepuasan mitra kerja dan pelanggan.</p>
 						</div>
-						<div class="col-md-6 text-center pr-ikon">
-							<img src="./img/ikon-2.png" class="ikon" alt="test">
+						<div class="col-md-5 text-center pr-ikon">
+							<img src="./img/ikon-2.png" class="ikon" alt="icon">
 						</div>
 					</div>
-
-					<div class="row col-md-12 set-first">
-						<div class="col-md-6 text-right pr-ikon">
-							<img src="./img/ikon-1.png" class="ikon" alt="test">
-						</div> 
-						<div class="col-md-6 text-left text-pl2">
-							<h1 class="h1-desc">Latar Belakang</h1>
-							<p class="p-desc">Disamping itu, kami juga mendukung kebutuhan dari setiap pelanggan kami yang memiliki aktifitas terikat dengan bisnis mereka, dengan membangun sebuah sistem yang terpercaya, akurat dan real-time. Para pelanggan kami bisa mencari informasi secara lengkap dan terperinci melalui website dalam pemilihan unit dengan harga yang sangat competitive dan gambar fisik dari setiap unit yang hendak dilelang, dengan website yang userfriendly sehingga berdasarkan data sistem, 60% pengunjung website kami bisa mengakses melalui smartphone.</p>
-							<button class="btn btn-round">Details</button>
-						</div>
-					</div>
-
 				</div>
-
+				<img src="./img/line/line2.png" class="second-line lines" alt="second-line">
+				<div class="row col-md-12 set-first">
+					<div class="col-md-6 text-right pr-ikon">
+						<img src="./img/ikon-1.png" class="ikon" alt="test">
+					</div> 
+					<div class="col-md-6 text-left text-pl2">
+						<h1>Latar Belakang</h1>
+						<p class="p-desc">Disamping itu, kami juga mendukung kebutuhan dari setiap pelanggan kami yang memiliki aktifitas terikat dengan bisnis mereka, dengan membangun sebuah sistem yang terpercaya, akurat dan real-time. Para pelanggan kami bisa mencari informasi secara lengkap dan terperinci melalui website dalam pemilihan unit dengan harga yang sangat competitive dan gambar fisik dari setiap unit yang hendak dilelang, dengan website yang userfriendly sehingga berdasarkan data sistem, 60% pengunjung website kami bisa mengakses melalui smartphone.</p>
+						<button class="btn btn-round">Details</button>
+					</div>
+				</div>
+				<img src="./img/list-kanan.png" class="list-kanan" alt="list-kanan">
+				<img src="./img/line/line3.png" class="third-line lines" alt="third-line">
 				<div class="row no-bg">
 					<div class="col-md-12">
-						<div class="col-md-6 text-left text-pl2">
+						<div class="col-md-6 text-left text-padding-left-2">
 							<h1>Teknologi yang digunakan</h1>
 							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 						</div>
@@ -148,7 +157,7 @@
 						</div>
 					</div>
 				</div>
-
+				<img src="./img/line/line4.png" class="fourth-line lines" alt="fourth-line">
 				<div class="row bg-atas-log-3">
 					<div class="col-md-12 p12em">
 						<div class="text-center">
@@ -158,7 +167,7 @@
 						</div>
 					</div>
 				</div>
-
+				<img src="./img/list-kiri.png" class="list-kiri" alt="list-kiri">
 				<div class="row bg-atas-log-4">
 					<div class="col-md-12 p2em">
 						<div class="text-center">
@@ -167,11 +176,11 @@
 						</div>
 					</div>
 					<div class="row row-centered">
-						<button class="btn btn-round-group col-xs-4 col-centered">Kontak Kami</button>
-						<button class="btn btn-round-group col-xs-4 col-centered">Layanan Kami</button>
-						<button class="btn btn-round-group col-xs-4 col-centered">Portfolio</button>
-						<button class="btn btn-round-group col-xs-4 col-centered">Ingin Buat Website?</button>
-						<button class="btn btn-round-group col-xs-4 col-centered">Ingin Buat System?</button>
+						<button class="btn btn-round-group col-xs-3 col-centered">Kontak Kami</button>
+						<button class="btn btn-round-group col-xs-3 col-centered">Layanan Kami</button>
+						<button class="btn btn-round-group col-xs-3 col-centered">Portfolio</button>
+						<button class="btn btn-round-group col-xs-3 col-centered">Ingin Buat Website?</button>
+						<button class="btn btn-round-group col-xs-3 col-centered">Ingin Buat System?</button>
 					</div>
 				</div>
 			</div>

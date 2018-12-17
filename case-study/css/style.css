@@ -2,29 +2,106 @@ body {
     overflow-x: hidden;
 }
 
-.bg-atas-log-1 {
-    background-image: url('../img/bg-atas.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin-left: -2.5rem;
+.header {
+    background: #000;
+    margin: 0 -1.5rem;
+    padding: 9px 0px;
+    position: relative;
+    z-index: 10001;
 }
 
-.bg-atas-log-2 {
-    background-image: url('../img/bg-atas-2.png');
+.row-header {
+    width: 20%;
+    color: #ccc;
+}
+
+/* section atas */ 
+
+.bg-atas-log-1 {
+    background-image: url('../img/bg-atas-1.png');
     background-repeat: no-repeat;
     background-size: cover;
+    margin-left: 8rem;
+}
+
+.first-div {
+    padding: 0 0 57% 0;
+}
+
+.icon-top {
+    top: 0;
+    width: 60rem;
+    height: 50rem;
+    position: absolute;
+}
+
+.top-title {
+    font-size: 3em;
+    margin: 40% 15%;
+    position: absolute;
+}
+
+.lines {
+    position: absolute;
+}
+
+.first-line {
+    top: 15%;
+    left: 32%;
+    width: 42%;
+    height: 10%;
+}
+
+/* end */
+
+.text-padding-left {
+    padding-left: 23%;
+}
+
+.text-padding-left-2 {
+    padding-left: 6%;
+}
+
+.section-2 {
     margin-left: -20rem;
 }
 
-.bg-atas-log-3 {
-    background-image: url('../img/bg-atas-3.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin-left: -2em;
+.second-line {
+    top: 28%;
+    left: 42%;
+    width: 22%;
+    height: 13%;
 }
 
+.third-line {
+    top: 47%;
+    left: 26%;
+    width: 60%;
+    height: 6%;
+}
+
+.fourth-line {
+    top: 61%;
+    left: 36%;
+    width: 37%;
+    height: 5%;
+}
+
+.list-kiri {
+    top: 61%;
+    left: 0;
+    position: absolute;
+}
+
+.list-kanan {
+    top: 47%;
+    right: 0;
+    position: absolute;
+}
+
+
 .bg-atas-log-4 {
-    background-image: url('../img/bg-atas-4.png');
+    background-image: url('../img/bg-bawah.png');
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: -2em;
@@ -34,21 +111,16 @@ body {
     margin-left: 11vh;
 }
 
-.title-JBA {
-    padding: 7em 6em 15em 2em;
-}
 
 .text-pl2 {
-    padding: 0 12em 0 0;
-}
-
-.text-pl8 {
-    padding: 0 0 0 20em;
+    padding: 0 6em 0 0;
 }
 
 .ikon{
-    width: 53rem;
-    height: 28rem;
+    top: -2rem;
+    left: 10rem;
+    width: 43rem;
+    height: 25rem;
     position: absolute;
 }
 
@@ -69,6 +141,12 @@ body {
     margin: 1rem 0;
 }
 
+.logo-atas {
+    width: 11rem;
+    height: 2rem;
+    margin: 0.5rem 0;
+}
+
 .btn-round {
     border-radius: 2em;
     border: 1px solid rgba(190, 188, 186, 0.912);
@@ -79,13 +157,13 @@ body {
 
 .btn-round-group {
     border-radius: 2em;
-    margin: 1em 2px;
-    padding: 20px 1em;
+    margin: 1.5em 80px;
+    padding: 15px 1em;
     background-color: rgba(245, 243, 241, 0.912);
 }
 
 .set-first {
-    margin: 0 0 20em 0;
+    margin: 0 0 12em 0;
 }
 
 .p12em {
@@ -113,8 +191,11 @@ body {
     font-size: 15px;
 }
 
-.language-btn {position: absolute;right: 2em;top: 1em;}
-.list-inline>li.active {border: solid 2px #ebc033;border-radius: 1em;padding: 3px 6px;}
+.language-btn {display: flex;position: inherit;right: 0;top: 0;}
+.list-inline{margin-right: 22px !important; margin-left: 60% !important;}
+.list-inline>li {margin: 0 1rem;}
+.list-inline>li.active {background-color: #ebc033;border-radius: 1em;padding: 3px 21px;}
+.list-inline>li.active a {color: #000}
 .list-inline>li a {color: #fff}
 
 .row-centered {
@@ -186,13 +267,36 @@ footer p:before {
  .copyright{border-top:1px solid #fff;padding:20px 0;color:#ffc914;text-align:center;background:#000;font-family: 'Lato', sans-serif;}
 
 @media (max-width: 768px) {
+    .lines,.row-header {
+        display: none;
+    }
+
+    .header {
+        z-index: 1000;
+    }
+
+    .icon-top {
+        left: 14rem;
+        width: 58rem;
+        height: 37rem;
+    }
+
+    .list-inline {
+        margin-right: auto !important;
+        margin-left: auto !important;
+    }
+
+    .first-div {
+        padding: 0 0 50% 0;
+    }
+    
     .bg-atas-log-2 {
         background-color: #fff;
         margin-left: 0rem;
     }
     
     .bg-atas-log-1 {
-        background-image: url('../img/bg-atas-res.png');
+        background-image: url('../img/bg-atas-1.png');
         background-repeat: no-repeat;
         background-size: cover;
     }
