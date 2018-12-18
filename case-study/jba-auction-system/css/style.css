@@ -310,6 +310,27 @@ footer p:before {
         top: 56%;
     }
 }
+@media (max-width: 1124px) {
+    .text-padding-left {
+        padding-left: -1px;
+    }
+    .pr-ikon {
+        padding-right: 0;
+    }
+    .row-centered {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .ikon {
+        position: static;
+    }
+    .fourth-line {
+        top: 59%;
+    }
+    h2.subtitle {
+        font-size: 40px;
+    }
+}
 @media (max-width: 991px) {
     .first-line,
     .second-line,
@@ -325,6 +346,9 @@ footer p:before {
     }
     .section-2 {
         margin-left: -16rem;
+    }
+    .set-first {
+        padding-left: 45px;
     }
 }
 @media (max-width: 768px) {
@@ -367,7 +391,7 @@ footer p:before {
     }
 
     .btn-round-group {
-        font-size: 9px;
+        font-size: 12px;
     }
 
     .row-centered {
@@ -412,5 +436,14 @@ footer p:before {
     .ikon4 {
         width: 38rem;
         height: 16rem;
+    }
+    .list-kiri {
+        z-index: -1;
+    }
+    .row-centered {
+        margin: 20px
+    }
+    .text-padding-left {
+        padding-left: 16%;
     }
 }
