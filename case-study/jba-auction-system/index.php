@@ -28,14 +28,14 @@
 	</script>
     <title>Jasa Pembuatan Website dan SEO | LOGIQUE Digital Indonesia</title>
 
-	<link href="../css/bootstrap.min.css" rel="stylesheet">	
+	<link href="../../css/bootstrap.min.css" rel="stylesheet">	
 	<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" />
 	</noscript>
 	
-    <link href="../css/style.css" rel="stylesheet">
-    <link href="./css/style.css" rel="stylesheet">
+    <link href="../../css/style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-	<link href="../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+	<link href="../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     
     </head>
 	<body>
@@ -102,7 +102,7 @@
 				<div class="header">
 					<div class="language-btn">
 						<div class="text-left row-header">
-							<img src="./img/logo.png" class="logo-atas" alt="logique"> STUDI KASUS
+							<img src="img/logo.png" class="logo-atas" alt="logique"> STUDI KASUS
 						</div>
 						<ul class="list-inline text-right">
 							<li><a href="#">EN</a></li>
@@ -114,65 +114,65 @@
 				<div class="row bg-atas-log-1">
 					<div class="row col-md-12 first-div">
 						<div class="col-md-6 text-left">
-							<img src="./img/ikon-atas.png" class="icon-top" alt="ikon-atas">
+							<img src="img/ikon-atas.png" class="icon-top" alt="ikon-atas">
 						</div> 
 						<div class="col-md-6 text-center">
 							<h1 class="top-title">JBA Auction System</h1>
 						</div>
 					</div>
 				</div>
-				<img src="./img/line/line1.png" class="first-line lines" alt="first-line">
+				<img src="img/line/line1.png" class="first-line lines" alt="first-line">
 				<div class="row section-2">
 					<div class="row col-md-12 set-first">
 						<div class="col-md-7 text-left text-padding-left">
-							<h1>JBA Indonesia</h1>
+							<h2 class="subtitle">JBA Indonesia</h2>
 							<p class="p-desc">JBA Indonesia adalah perusahaan yang bergerak di bidang jasa LELANG, khususnya untuk produk otomotif seperti MOBIL dan MOTOR. PT. JBA Indonesia salah satu perusahaan asing di bidang LELANG yang berskala besar berkantor pusat di Jepang, mulai berdiri di Indonesia pada tanggal 16 November 2011, dan telah meraih penghargaan sebagai balai LELANG di tingkat inovasi terbaik di tahun 2013 dan 2014. Terpercaya, Aman, Praktis dan Nyaman merupakan motto kami dalam memberikan pelayanan secara professional dan menciptakan kepuasan mitra kerja dan pelanggan.</p>
 						</div>
 						<div class="col-md-5 text-center pr-ikon">
-							<img src="./img/ikon-2.png" class="ikon" alt="icon">
+							<img src="img/ikon-2.png" class="ikon" alt="icon">
 						</div>
 					</div>
 				</div>
-				<img src="./img/line/line2.png" class="second-line lines" alt="second-line">
+				<img src="img/line/line2.png" class="second-line lines" alt="second-line">
 				<div class="row col-md-12 set-first">
 					<div class="col-md-6 text-right pr-ikon">
-						<img src="./img/ikon-1.png" class="ikon" alt="test">
+						<img src="img/ikon-1.png" class="ikon" alt="test">
 					</div> 
 					<div class="col-md-6 text-left text-pl2">
-						<h1>Latar Belakang</h1>
+						<h2 class="subtitle">Latar Belakang</h2>
 						<p class="p-desc">Disamping itu, kami juga mendukung kebutuhan dari setiap pelanggan kami yang memiliki aktifitas terikat dengan bisnis mereka, dengan membangun sebuah sistem yang terpercaya, akurat dan real-time. Para pelanggan kami bisa mencari informasi secara lengkap dan terperinci melalui website dalam pemilihan unit dengan harga yang sangat competitive dan gambar fisik dari setiap unit yang hendak dilelang, dengan website yang userfriendly sehingga berdasarkan data sistem, 60% pengunjung website kami bisa mengakses melalui smartphone.</p>
-						<button class="btn btn-round">Details</button>
+						<a href="#" class="btn btn-round">Details</a>
 					</div>
 				</div>
-				<img src="./img/list-kanan.png" class="list-kanan" alt="list-kanan">
-				<img src="./img/line/line3.png" class="third-line lines" alt="third-line">
+				<img src="img/list-kanan.png" class="list-kanan" alt="list-kanan">
+				<img src="img/line/line3.png" class="third-line lines" alt="third-line">
 				<div class="row no-bg">
 					<div class="col-md-12">
 						<div class="col-md-6 text-left text-padding-left-2">
-							<h1>Teknologi yang digunakan</h1>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+							<h2 class="subtitle">Teknologi yang digunakan</h2>
+							<p class="p-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 						</div>
 						<div class="col-md-6 text-center">
-							<img src="./img/ikon-3.png" class="ikon-coding" alt="test">
+							<img src="img/ikon-3.png" class="ikon-coding" alt="test">
 						</div>
 					</div>
 				</div>
-				<img src="./img/line/line4.png" class="fourth-line lines" alt="fourth-line">
+				<img src="img/line/line4.png" class="fourth-line lines" alt="fourth-line">
 				<div class="row bg-atas-log-3">
 					<div class="col-md-12 p12em">
 						<div class="text-center">
-							<h1>JBA Auction System</h1>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been<br>the industry's standard dummy text ever since the 1500,.</p>
-							<img src="./img/ikon-4.png" class="ikon4" alt="test">
+							<h2 class="subtitle">JBA Auction System</h2>
+							<p class="p-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been<br>the industry's standard dummy text ever since the 1500,.</p>
+							<img src="img/ikon-4.png" class="ikon4" alt="test">
 						</div>
 					</div>
 				</div>
-				<img src="./img/list-kiri.png" class="list-kiri" alt="list-kiri">
+				<img src="img/list-kiri.png" class="list-kiri" alt="list-kiri">
 				<div class="row bg-atas-log-4">
 					<div class="col-md-12 p2em">
 						<div class="text-center">
-							<h1>Tentang <img src="./img/logo.png" class="logo" alt="test"></h1>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been<br>the industry's standard dummy text ever since the 1500,.</p>
+							<h2 class="subtitle">Tentang <img src="img/logo.png" class="logo" alt="test"></h2>
+							<p class="p-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been<br>the industry's standard dummy text ever since the 1500,.</p>
 						</div>
 					</div>
 					<div class="row row-centered">
@@ -195,7 +195,7 @@
 					</div>
 					<div class="col-md-4 contact-us-res">
 						<div><h2>Contact Us</h2></div>
-						<a href="/en/contact.php" target="_blank"><img alt="Logo" src="./img/logo.png" class="logo"/></a> <br />
+						<a href="/en/contact.php" target="_blank"><img alt="Logo" src="img/logo.png" class="logo"/></a> <br />
 						Ad Premier Building 19th Floor. <br/>
 						Jalan Tb. Simatupang No. 5 <br/>
 						Ragunan, Ps. Minggu, <br/>

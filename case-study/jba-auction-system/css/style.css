@@ -1,4 +1,21 @@
+@font-face {
+    font-family: 'Avenir Next Condensed';
+    src: url('AvenirNextCondensed-Regular.woff2') format('woff2'),
+        url('AvenirNextCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Condensed';
+    src: url('AvenirNextCondensed-Medium.woff2') format('woff2'),
+        url('AvenirNextCondensed-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
 body {
+    font-family: 'Avenir Next Condensed', sans-serif;
     overflow-x: hidden;
 }
 
@@ -36,9 +53,21 @@ body {
 }
 
 .top-title {
+    font-family: 'Avenir Next Condensed', sans-serif;
     font-size: 3em;
     margin: 40% 15%;
     position: absolute;
+}
+
+h2.subtitle {
+    font-size: 48px;
+    font-weight: 500;
+    font-family: 'Avenir Next Condensed', sans-serif;
+}
+
+.p-desc {
+    font-size: 18px;
+    font-family: 'Avenir Next Condensed', sans-serif;
 }
 
 .lines {
@@ -74,14 +103,15 @@ body {
 }
 
 .third-line {
-    top: 47%;
+    top: 44%;
     left: 26%;
     width: 60%;
     height: 6%;
+    z-index: -1;
 }
 
 .fourth-line {
-    top: 61%;
+    top: 58%;
     left: 36%;
     width: 37%;
     height: 5%;
@@ -136,8 +166,6 @@ body {
 }
 
 .logo {
-    width: 14rem;
-    height: 3rem;
     margin: 1rem 0;
 }
 
@@ -148,18 +176,24 @@ body {
 }
 
 .btn-round {
+    font-family: 'Avenir Next Condensed', sans-serif;
+    font-size: 22px;
     border-radius: 2em;
     border: 1px solid rgba(190, 188, 186, 0.912);
     margin: 1em 0;
     padding: 6px 3em;
+    color: #807f7f;
     background-color: rgba(245, 243, 241, 0.912);
+    cursor: pointer;
 }
 
 .btn-round-group {
+    font-family: 'Avenir Next Condensed', sans-serif;
+    font-size: 22px;
     border-radius: 2em;
     margin: 1.5em 80px;
     padding: 15px 1em;
-    background-color: rgba(245, 243, 241, 0.912);
+    background-color: #dde0ee;
 }
 
 .set-first {
@@ -187,10 +221,6 @@ body {
     font-size: 2em;
 }
 
-.p-desc {
-    font-size: 15px;
-}
-
 .language-btn {display: flex;position: inherit;right: 0;top: 0;}
 .list-inline{margin-right: 22px !important; margin-left: 60% !important;}
 .list-inline>li {margin: 0 1rem;}
@@ -200,7 +230,7 @@ body {
 
 .row-centered {
     text-align:center;
-    padding: 0 16em;
+    padding: 0 16em 70px 16em;
 }
 
 .col-centered {
@@ -209,8 +239,6 @@ body {
     text-align:left;
     margin-right:-4px;
     text-align: center;
-    background-color: #ccc;
-    border: 1px solid #ddd;
 }
 
 /* footer */
@@ -266,6 +294,39 @@ footer p:before {
 
  .copyright{border-top:1px solid #fff;padding:20px 0;color:#ffc914;text-align:center;background:#000;font-family: 'Lato', sans-serif;}
 
+@media (max-width: 1199px) {
+    .first-line {
+        top: 12%;
+        left: 35%;
+    }
+    .second-line {
+        top: 24%;
+        left: 45%;
+    }
+    .third-line {
+        top: 41%;
+    }
+    .fourth-line {
+        top: 56%;
+    }
+}
+@media (max-width: 991px) {
+    .first-line,
+    .second-line,
+    .third-line,
+    .fourth-line {
+        display: none;
+    }
+    .row-header {
+        width: 40%;
+    }
+    .list-inline {
+        margin-left: 35% !important;
+    }
+    .section-2 {
+        margin-left: -16rem;
+    }
+}
 @media (max-width: 768px) {
     .lines,.row-header {
         display: none;
