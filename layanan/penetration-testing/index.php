@@ -585,22 +585,6 @@
 		</div>
 	</div>
 	
-	<div class="footer">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-offset-3 col-lg-6">
-					Untuk informasi lengkapnya, Anda dapat menghubungi <b>Logique Digital Indonesia</b> melalui email di <a href="mailto:info@logique.co.id">info@logique.co.id</a> atau mendaftar melalui form yang ada di link berikut ini <br/><br/>
-					<a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
-					<br/>
-					Layanan Kami lainnya:<br/>
-					<a target="_blank" href="/layanan/pembuatan-website-karir-perusahaan/">Pembuatan Website Karir Perusahaan</a>
-					<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-					<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/">Pembuatan Aplikasi Mobile</a>
-				</div>
-			</div>
-		</div>
-	</div>
-
 	<div class="faq">
 		<div class="container-fluid">
 			<h2 class="faq-title">FAQ</h2>
@@ -655,7 +639,23 @@
 		</div>
 	</div>
 
-	<div class="contact-us">
+	<div class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-offset-3 col-lg-6">
+					Untuk informasi lengkapnya, Anda dapat menghubungi <b>Logique Digital Indonesia</b> melalui email di <a href="mailto:info@logique.co.id">info@logique.co.id</a> atau mendaftar melalui form yang ada di link berikut ini <br/><br/>
+					<a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
+					<br/>
+					Layanan Kami lainnya:<br/>
+					<a target="_blank" href="/layanan/pembuatan-website-karir-perusahaan/">Pembuatan Website Karir Perusahaan</a>
+					<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
+					<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/">Pembuatan Aplikasi Mobile</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="hidden contact-us">
 		<div class="container">
 			<h2 class="contact-title">
 				<img src="img/i-contact.png" alt="contact">Contact Us
