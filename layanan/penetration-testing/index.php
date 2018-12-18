@@ -601,9 +601,133 @@
 		</div>
 	</div>
 
-	<br/><br/>
-	<div class="tahapan">
+	<div class="faq">
+		<div class="container-fluid">
+			<h2 class="faq-title">FAQ</h2>
+		</div>
 		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<ul class="faq-list">
+						<li>
+							<h3>Sertifikat apakah yang dimiliki oleh team security dari LOGIQUE?</h3>
+							<p>Seluruh tim security LOGIQUE telah bersertifikasi CEH (Certified Ethical Hacker) dan CSCU (Certified Secure Computer User) dari EC-Coucil.</p>
+						</li>
+						<li>
+							<h3>Dalam melakukan pengetesan sistem, standar apakah yang digunakan oleh security team dari LOGIQUE?</h3>
+							<p>Standar yang digunakan oleh security team LOGIQUE dalam melakukan pengetesan sistem pada setiap project testing kami adalah OWASP (Open Web Application Security Project).</p>
+						</li>
+						<li>
+							<h3>Berapakah harga layanan pengetesan sistem keamanan dari LOGIQUE?</h3>
+							<p>Dalam melakukan pengetesan sistem mulai dari tahapan awal (preparation), tahapan pengujian (assessment) dan tahapan pelaporan (reporting), LOGIQUE menawarkan harga mulai dari Rp 10 juta, tergantung dari jenis aplikasi serta sistem yang akan diuji. Untuk mengetahui informasi lebih lanjut, Anda dapat langsung menghubungi kami melalui email ke info@logique.co.id atau di nomor telepon (021) 227 089 35/36 atau melalui pesan WhatsApp di nomor 0812 9656 0380.</p>
+						</li>
+						<li>
+							<h3>Dalam melakukan pengetesan, apakah security team LOGIQUE hanya mengandalkan automated tools?</h3>
+							<p>Tidak, automated tools hanya kami gunakan saat melakukan scanning. Sedangkan, untuk penetration testing, security team LOGIQUE menggunakan metode manual saat proses pengetesannya.</p>
+						</li>
+					</ul>
+				</div>
+				<div class="col-md-6">
+					<ul class="faq-list">
+						<li>
+							<h3>Berapa lama waktu yang dibutuhkan tim LOGIQUE dalam melakukan pengetesan sistem?</h3>
+							<p>Dalam melakukan pengetesan sistem, tergantung dari ruang lingkupnya. Namun, pada umumnya memakan waktu 1 minggu.</p>
+						</li>
+						<li>
+							<h3>Mengapa perlu dilakukan pentest pada sebuah sistem?</h3>
+							<p>Dengan melakukan pentest, Anda akan mendapatkan gambaran mengenai seberapa kuat pertahanan sistem Anda dalam menghadapi kejahatan cyber dan berbagai gangguan lainnya.</p>
+						</li>
+						<li>
+							<h3>Apa saja yang dibutuhkan sebelum melakukan pentest?</h3>
+							<p>Sebelum melakukan pengetesan sistem, klien hanya perlu menjelaskan proses sistem yang terjadi. Data-data pendukung lainnya juga dapat Anda serahkan jika diperlukan.</p>
+						</li>
+						<li>
+							<h3>Apa perbedaan antara VA test dan Pentest?</h3>
+							<p>VA test hanya mengandalkan automated tools dalam melakukan scanning terhadap “well-known” vulnerability dan seringkali tools tersebut sifatnya general sehingga tidak dapat menemukan case-case yang sifatnya lebih spesifik.</p>
+						</li>
+						<li>
+							<h3>Apa perbedaan antara whitebox dan blackbox?</h3>
+							<p>Dalam testing whitebox, pentester akan mendapatkan akses secara penuh ke dalam sistem yang diuji sehingga bisa melakukan static analisis terhadap berbagai hal, seperti kode, architecture analysis dan lain-lain. Sedangkan untuk blackbox, pentester akan berperan layaknya hacker yang akan menyerang dari luar dan berusaha masuk ke dalam sistem menggunakan informasi awal seminimal mungkin.</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="contact-us">
+		<div class="container">
+			<h2 class="contact-title">
+				<img src="img/i-contact.png" alt="contact">Contact Us
+			</h2>
+			<form action="">
+				<div class="row">
+					<div class="col-md-6">
+						<div class="form-group">
+							<div class="col-md-3">
+								<label for="">Company Name</label>
+							</div>
+							<div class="col-md-9">
+								<input type="text" class="form-control" placeholder="Company Name">
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="col-md-3">
+								<label for="">Name</label>
+							</div>
+							<div class="col-md-9">
+								<input type="text" class="form-control" placeholder="Name">
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="col-md-3">
+								<label for="">E-mail</label>
+							</div>
+							<div class="col-md-9">
+								<input type="text" class="form-control" placeholder="E-mail">
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="col-md-3">
+								<label for="">Type of Services</label>
+							</div>
+							<div class="col-md-9">
+								<div class="row">
+									<div class="col-xs-6">
+										<label for="service-1"><input type="checkbox" id="service-1"> Pentest Aplikasi</label>
+										<div class="radio-group">
+											<label for="radio-1"><input type="radio" id="radio-1" name="service-1"> Web</label>
+											<label for="radio-2"><input type="radio" id="radio-2" name="service-1"> Aplikasi Seluler</label>
+											<label for="radio-3"><input type="radio" id="radio-3" name="service-1"> Aplikasi Desktop</label>
+										</div>
+										<label for="service-5"><input type="checkbox" id="service-5"> Pentest Jaringan</label>
+									</div>
+									<div class="col-xs-6">
+										<label for="service-2"><input type="checkbox" id="service-2"> Peninjauan Kode</label>
+										<label for="service-3"><input type="checkbox" id="service-3"> Pelatihan Mengenai Pentingnya Keamanan Siber</label>
+										<label for="service-4"><input type="checkbox" id="service-4"> Konsultasi Keamanan Siber</label>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="form-group">
+							<div class="col-md-3">
+								<label for="">Messages</label>
+							</div>
+							<div class="col-md-9">
+								<textarea name="" id="" cols="30" rows="10" class="form-control" placeholder="write your text here..."></textarea>
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="col-md-9 col-md-offset-3">
+								<button type="submit" class="btn btn-contact">Kirim</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</form>
 		</div>
 	</div>
 	

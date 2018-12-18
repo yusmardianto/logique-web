@@ -269,6 +269,132 @@ ul.dashed > li:before {content: "-";margin-right: 10px;}
     height: 30%;
 }
 
+.faq {
+    background-color: #e5e4e4;
+    padding: 50px 0;
+    border-top: 15px solid #fff;
+    border-bottom: 15px solid #fff;
+}
+.faq-title {
+    position: relative;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 700;
+    padding: 5px 110px 5px 230px;
+    background-color: #fcc515;
+    border: 5px solid #000;
+    margin-left: -20px;
+    display: inline-block;
+}
+.faq-title:before {
+    position: absolute;
+    content: '';
+    background-image: url(../img/i-faq.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 94px;
+    height: 94px;
+    top: 0;
+    bottom: 0;
+    left: 80px;
+    margin: auto;
+}
+.faq-list {
+    margin-top: 20px;
+}
+.faq-list li {
+    position: relative;
+    margin-bottom: 30px;
+    padding-left: 50px;
+}
+.faq-list li:before {
+    position: absolute;
+    content: '';
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background-color: #fcc515;
+    border: 3px solid #000;
+    border-radius: 7.5px;
+    left: 20px;
+    top: 10px;
+}
+.faq-list li h3 {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0;
+    padding: 15px;
+    background-color: #fff;
+}
+.faq-list li p {
+    text-align: justify;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 8px;
+    margin-left: 20px;
+    padding: 10px;
+    border-left: 5px solid #d2d1d1;
+}
+
+.contact-us {
+    position: relative;
+    background-color: #000;
+    padding: 50px 0;
+}
+.contact-title {
+    position: absolute;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fcc515;
+    background-color: #000;
+    padding: 12px 80px;
+    width: 400px;
+    top: -40px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.contact-title img {
+    margin-right: 20px;
+}
+.contact-us form .form-group {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.contact-us form label {
+    font-size: 14px;
+    font-weight: 300;
+    color: #fff;
+    padding-top: 5px;
+}
+.contact-us form .form-control {
+    height: 32px;
+    border-radius: 3px;
+}
+.contact-us form input[type="checkbox"],
+.contact-us form input[type="radio"] {
+    margin-right: 8px;
+}
+.contact-us form .radio-group {
+    padding-left: 30px;
+}
+.contact-us textarea.form-control {
+    height: 140px;
+}
+.btn-contact {
+    font-size: 15px;
+    font-weight: 500;
+    color: #000;
+    background-color: #fcc515;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 3px;
+}
+
 /* responsive */
 @media (min-width:768px) {
 	.row-center {
