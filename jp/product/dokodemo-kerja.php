@@ -379,6 +379,19 @@ if(isset($_POST['submitted']))
 			</div>
 		</div>
 		
+		<div class="div-masalah-new">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-offset-1 col-md-5">
+						<a href="/pdf/manual-guide.pdf" target="_blank" class="dl-guide"><img src="/img/manual.png" style="width:100%"/></a>
+					</div>
+					<div class="col-md-5">
+						<a href="/pdf/install-guide.pdf" target="_blank" class="dl-guide"><img src="/img/install.png" style="width:100%"/></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		
 		<div class="harga" id="price">
 			<div class="container">
 				<div class="title anton">価格</div><br/>
