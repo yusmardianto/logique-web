@@ -57,14 +57,9 @@
 				<div class="div-begin">
 					<h1>Let’s work hard, enjoy hard and grow up together!</h1>
 					<p class="content-first">
-						LOGIQUE merupakan perusahaan <i>start-up</i> di bidang IT yang dibangun oleh tim yang cerdas, inovatif, dinamis, dan bertalenta. Dalam perkembangannya, LOGIQUE selalu menggali potensi anggota-anggota timnya yang tidak hanya berdomisili di Jakarta, namun juga kota-kota besar lainnya di Indonesia. 
-						<br><br>
-						Baru-baru ini, LOGIQUE telah membuka kantor cabang di Jetis, <b>Yogyakarta</b>. Kota ini dipilih karena LOGIQUE yakin, Yogyakarta memiliki potensi akan perkembangan para programmer-nya yang handal.<br><br>
-						Maka dari itu, LOGIQUE membuka kesempatan bagi Anda di <b>Yogyakarta</b> yang memiliki kompetisi di bidang IT untuk bergabung dan berkembang bersama LOGIQUE. 
-						<br><br>
-						Selain itu, LOGIQUE juga mengikuti tren kerja masa kini, yaitu Remote Worker atau Telework. Tren kerja ini memungkinkan Anda untuk bekerja tanpa harus terpaku dengan waktu yang monoton seperti para pekerja pada umumnya. Sistem kerja ini memungkinkan Anda untuk melakukan pekerjaan kapan pun dan dimana pun yang Anda sukai. 
-						<br><br>
-						Jika Anda berminat untuk bekerja di LOGIQUE, kami membuka lowongan kerja remote bagi Anda yang senang dengan sistem kerja tersebut untuk bergabung dan mengembangkan diri Anda bersama kami. Lowongan kerja menggunakan sistem remote ini tidak hanya berlaku untuk wilayah Jakarta dan Yogyakarta saja, namun berlaku untuk seluruh wilayah yang ada di Indonesia bahkan mancanegara.
+						LOGIQUE merupakan perusahaan <i>start-up</i> di bidang IT yang dibangun oleh tim yang cerdas, inovatif, dinamis, dan bertalenta. Dalam perkembangannya, LOGIQUE selalu menggali potensi anggota-anggota timnya yang tidak hanya berdomisili di Jakarta, namun juga kota-kota besar lainnya di Indonesia.<br/><br/>
+						Baru-baru ini, LOGIQUE telah membuka kantor cabang di Jetis, <b>Yogyakarta</b>. Di sana, kami sedang membuka lowongan kerja untuk Anda yang memiliki kompetensi di bidang IT untuk bergabung bersama LOGIQUE.<br/><br/>
+						Jika Anda berminat, LOGIQUE juga membuka lowongan kerja jarak jauh atau <i>remote-working</i> untuk Anda yang senang bekerja secara fleksibel. Sistem <i>remote-working</i> tidak hanya berlaku untuk Jakarta dan Yogyakarta, namun juga seluruh wilayah di Indonesia.
 					</p>
 					<br/>
 					<div class="div-black-career">
@@ -152,7 +147,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-sm-4 col-xs-6">
+							<div class="col-sm-4 col-xs-6 hidden-xs">
 								<div class="content-benefits black-bg">
 									<div class="valign-center">
 										Keuntungan<br/>lainnya:
@@ -203,10 +198,6 @@
 										<span>posisi manajerial</span> <br/>
 										sesuai kemampuan & minat
 									</div>
-								</div>
-							</div>
-							<div class="col-sm-4 col-xs-6 visible-xs">
-								<div class="content-benefits blank">
 								</div>
 							</div>
 						</div>
@@ -764,6 +755,15 @@
 				<a href="/career/intern/" class="btn btn-contact-us-black customizebtn">Lihat Informasi Lebih Lanjut</a>
 			</div>
 		</section>
+		
+		<div class="floating-banner">
+			<a class="smooth" href="#job-opening">
+				<div class="img-floating">
+					<img src="/img/urgently-needed-btn1.png" alt="Urgently Needed 1"/>
+					<img src="/img/urgently-needed-btn2.png" class="bubble-urgent juggling" alt="Urgently Needed 2"/>
+				</div>
+			</a>
+		</div>
 		
 		<div class="bg-footer-new-career">
 			<span>Jadi, apakah Anda tertarik untuk menjadi bagian dari kami?</span>
