@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Case Study - JBA Auction System | LOGIQUE Digital Indonesia</title>
+  <title>Case Study - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia</title>
 
 	<link href="../../css/bootstrap.min.css" rel="stylesheet">	
 	</noscript>
@@ -44,12 +44,12 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-6">
-              <img src="../../img/logo.png" alt="LOGIQUE"><span>STUDI KASUS</span>
+              <img src="../../img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
             </div>
             <div class="col-xs-6 text-right">
               <ul>
-                <li><a href="#">EN</a></li>
-                <li class="active"><a href="#">ID</a></li>
+                <li class="active"><a href="#">EN</a></li>
+                <li><a href="#">ID</a></li>
                 <li><a href="#">JP</a></li>
               </ul>
             </div>
@@ -70,13 +70,13 @@
 						<div class="text-center">
 							<a href="/">
 								<div class="img-home"></div>
-								Beranda
+								Home
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="/tentang-kami.php">
 								<div class="img-about"></div>
-								Tentang Kami
+								About Us
 							</a>
 						</div>
 						<div class="text-center">
@@ -88,19 +88,19 @@
 						<div class="text-center">
 							<a href="/layanan.php">
 								<div class="img-services"></div>
-								Layanan
+								Services
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="/karir.php">
 								<div class="img-career"></div>
-								Karir
+								Career
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="/hubungi-kami.php">
 								<div class="img-contact"></div>
-								Hubungi Kami
+								Contact Us
 							</a>
 						</div>
 						<div class="text-center">
@@ -117,7 +117,8 @@
       <div class="cs-wrap">
         <section class="cs-top">
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
-          <h1 class="cs-title">JBA Auction System</h1>
+          <h1 class="cs-title">ZuttoRide CRM</h1>
+          <h1 class="cs-title-2">Customer Management System</h1>
         </section>
         <section class="cs-section">
           <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">
@@ -126,9 +127,9 @@
               <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">JBA Indonesia</h2>
+              <h2 class="cs-subtitle">ZuttoRide Indonesia</h2>
               <p class="cs-desc">
-                JBA Indonesia adalah perusahaan yang bergerak di bidang jasa LELANG, khususnya untuk produk otomotif seperti MOBIL dan MOTOR. PT. JBA Indonesia salah satu perusahaan asing di bidang LELANG yang berskala besar berkantor pusat di Jepang, mulai berdiri di Indonesia pada tanggal 16 November 2011, dan telah meraih penghargaan sebagai balai LELANG di tingkat inovasi terbaik di tahun 2013 dan 2014. Terpercaya, Aman, Praktis dan Nyaman merupakan motto kami dalam memberikan pelayanan secara professional dan menciptakan kepuasan mitra kerja dan pelanggan.
+                ZuttoRide Indonesia is a consulting company oriented to the needs of the community and service to prosper the world of motorbikes in Indonesia. This company was founded to create a driving experience that has never existed in Indonesia. With our motto, "For All Riders", we intend to provide 24-hour service for motorbike riders spread throughout Indonesia.
               </p>
             </div>
           </div>
@@ -140,12 +141,11 @@
               <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2">
             </div>
             <div class="col-sm-6">
-              <h2 class="cs-subtitle">Latar Belakang</h2>
+              <h2 class="cs-subtitle">Background of System Development</h2>
               <p class="cs-desc">
-              Disamping itu, kami juga mendukung kebutuhan dari setiap pelanggan kami yang memiliki aktifitas terikat dengan bisnis mereka, dengan membangun sebuah sistem yang terpercaya, akurat dan real-time. Para pelanggan kami bisa mencari informasi secara lengkap dan terperinci melalui website dalam pemilihan unit dengan harga yang sangat competitive dan gambar fisik dari setiap unit yang hendak dilelang, dengan website yang userfriendly sehingga berdasarkan data sistem, 60% pengunjung website kami bisa mengakses melalui smartphone.
+              As a company engaged in consulting services and motorcycle insurance, ZuttoRide needs a system that is able to integrate and carry out management for motorbike insurance customers, especially for Kawasaki dealers who are official partners of ZuttoRide Indonesia. <br><br>To make this happen, ZuttoRide, in collaboration with LOGIQUE DIGITAL INDONESIA, decided to create a system called ZuttoRide CRM. The creation and development of ZuttoRide CRM system carried out between ZuttoRide and LOGIQUE DIGITAL INDONESIA has also been going on for a long time, which is almost around 4 years and is now entering the 14th phase in improving their systems.
               <br><br>
               </p>
-              <a href="#" class="btn btn-cs">Detail</a>
             </div>
           </div>
           <img src="img/orm-1.png" alt="case study logique" class="cs-orm cs-orm-1">
@@ -157,9 +157,9 @@
               <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">Teknologi yang digunakan</h2>
+              <h2 class="cs-subtitle">Technology Applied</h2>
               <p class="cs-desc">
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+              Before making a web system that is expected by ZuttoRide, LOGIQUE DIGITAL INDONESIA will  firstly discuss the system to be used. From the results of the discussion, the team from LOGIQUE understands that the website desired by ZuttoRide requires high customization and scalability. Therefore, LOGIQUE recommends the CakePHP framework-based web system development technology as the basis of the system. <br><br>CakePHP itself is a PHP framework that is generally used by developers of an application or website, starting from a simple level to a complex one. In addition, this framework also uses the latest technology that supports the latest PHP, namely PHP 5.4 which has the advantage of being able to access the database quite easily and flexibly. Not only that, CakePHP has also used Model View Controller (MVC) technology which is able to facilitate a programmer in developing a website. In terms of security, the CakePHP framework also has a very good security system to prevent data leakage or theft.
               </p>
             </div>
           </div>
@@ -168,10 +168,9 @@
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="cs-subtitle text-center">JBA Auction System</h2>
+              <h2 class="cs-subtitle text-center">ZuttoRide CRM System Results</h2>
               <p class="cs-desc text-center">
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been t
-              <br>he industry's standard dummy text ever since the 1500,.
+              After developing the customer management system (CRM) by ZuttoRide, they got positive results for both ZuttoRide, as well as dealers and customers, especially in terms of data integration, making it easier for ZuttoRide to know specifically the information about dealers and customers who work with them as motorcycle insurance provider/rider.
               </p>
               <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block">
             </div>
@@ -179,9 +178,9 @@
           <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
         </section>
         <section class="cs-bottom">
-          <h2 class="cs-subtitle">Tentang <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
+          <h2 class="cs-subtitle">About <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
           <p class="cs-desc">
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been <br> the industry's standard dummy text ever since the 1500,.
+          As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.
           </p>
           <a href="#" class="btn btn-cs-bottom">Kontak Kami</a>
           <a href="#" class="btn btn-cs-bottom">Layanan Kami</a>
@@ -193,13 +192,13 @@
           <div class="container-fluid">
             <div class="row">
               <div class="col-md-8">
-                <h2>Tentang Kami</h2>
+                <h2>About Me</h2>
                 <br/>
                 As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.<br/>
                 <div class="visible-sm visible-xs"><br/></div>
               </div>
               <div class="col-md-4">
-                <h2>Hubungi Kami</h2>
+                <h2>Contact Me</h2>
                 <a href="/en/contact.php" target="_blank"><img alt="Logo" src="../../img/logo.png" class="logo"/></a> <br />
                 Ad Premier Building 19th Floor. <br/>
                 Jalan Tb. Simatupang No. 5 <br/>

@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Case Study - JBA Auction System | LOGIQUE Digital Indonesia</title>
+  <title>Case Study - VIP Plaza PWA (Progressive Web App) | LOGIQUE Digital Indonesia</title>
 
 	<link href="../../css/bootstrap.min.css" rel="stylesheet">	
 	</noscript>
@@ -44,12 +44,12 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-6">
-              <img src="../../img/logo.png" alt="LOGIQUE"><span>STUDI KASUS</span>
+              <img src="../../img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
             </div>
             <div class="col-xs-6 text-right">
               <ul>
-                <li><a href="#">EN</a></li>
-                <li class="active"><a href="#">ID</a></li>
+                <li class="active"><a href="#">EN</a></li>
+                <li><a href="#">ID</a></li>
                 <li><a href="#">JP</a></li>
               </ul>
             </div>
@@ -70,13 +70,13 @@
 						<div class="text-center">
 							<a href="/">
 								<div class="img-home"></div>
-								Beranda
+								Home
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="/tentang-kami.php">
 								<div class="img-about"></div>
-								Tentang Kami
+								About Us
 							</a>
 						</div>
 						<div class="text-center">
@@ -88,19 +88,19 @@
 						<div class="text-center">
 							<a href="/layanan.php">
 								<div class="img-services"></div>
-								Layanan
+								Services
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="/karir.php">
 								<div class="img-career"></div>
-								Karir
+								Career
 							</a>
 						</div>
 						<div class="text-center">
 							<a href="/hubungi-kami.php">
 								<div class="img-contact"></div>
-								Hubungi Kami
+								Contact Us
 							</a>
 						</div>
 						<div class="text-center">
@@ -117,7 +117,8 @@
       <div class="cs-wrap">
         <section class="cs-top">
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
-          <h1 class="cs-title">JBA Auction System</h1>
+          <h1 class="cs-title">VIP Plaza</h1>
+          <h1 class="cs-title-2">Progressive Web App</h1>
         </section>
         <section class="cs-section">
           <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">
@@ -126,9 +127,9 @@
               <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">JBA Indonesia</h2>
+              <h2 class="cs-subtitle">VIP Plaza</h2>
               <p class="cs-desc">
-                JBA Indonesia adalah perusahaan yang bergerak di bidang jasa LELANG, khususnya untuk produk otomotif seperti MOBIL dan MOTOR. PT. JBA Indonesia salah satu perusahaan asing di bidang LELANG yang berskala besar berkantor pusat di Jepang, mulai berdiri di Indonesia pada tanggal 16 November 2011, dan telah meraih penghargaan sebagai balai LELANG di tingkat inovasi terbaik di tahun 2013 dan 2014. Terpercaya, Aman, Praktis dan Nyaman merupakan motto kami dalam memberikan pelayanan secara professional dan menciptakan kepuasan mitra kerja dan pelanggan.
+                VIP Plaza is an online store of fashion and beauty in Indonesia that continues to develop every day. This fashion online store offers more than 30,000 products from 800 favorite local brands and well-known international variety. Not only that, VIP Plaza also offers a "Flash Sale" shopping concept every day, making your shopping experience even more exciting and fun. In addition, this online store also provides a variety of interesting features which of course makes it easier for you to shop anytime and anywhere.
               </p>
             </div>
           </div>
@@ -140,12 +141,11 @@
               <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2">
             </div>
             <div class="col-sm-6">
-              <h2 class="cs-subtitle">Latar Belakang</h2>
+              <h2 class="cs-subtitle">Background</h2>
               <p class="cs-desc">
-              Disamping itu, kami juga mendukung kebutuhan dari setiap pelanggan kami yang memiliki aktifitas terikat dengan bisnis mereka, dengan membangun sebuah sistem yang terpercaya, akurat dan real-time. Para pelanggan kami bisa mencari informasi secara lengkap dan terperinci melalui website dalam pemilihan unit dengan harga yang sangat competitive dan gambar fisik dari setiap unit yang hendak dilelang, dengan website yang userfriendly sehingga berdasarkan data sistem, 60% pengunjung website kami bisa mengakses melalui smartphone.
+              Being one of the growing fashion online stores surely makes VIP Plaza feel the need to improve its technology in order to continue to compete. Therefore, they desire to create a Progressive Web App (PWA) which aims to attract visits of mobile users who want to buy various items of their personal needs, such as clothing, shoes, bags, watches, as well as various other accessories. They will experience shopping differently from other online fashion stores, without the need to install applications—that causes the smartphone performance to reduce—but still able to provide offline functionality even if the user has a slow or unstable internet connection.<br><br>To make the progressive web app they want, VIP Plaza feels the need to work together with LOGIQUE to help them develop the system. PWA is expected to improve the performance of the web app to make it better. In addition, PWA has also created new standards for applications that can be installed and have been supported by each platform to give different shopping experience for users.
               <br><br>
               </p>
-              <a href="#" class="btn btn-cs">Detail</a>
             </div>
           </div>
           <img src="img/orm-1.png" alt="case study logique" class="cs-orm cs-orm-1">
@@ -157,9 +157,9 @@
               <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">Teknologi yang digunakan</h2>
+              <h2 class="cs-subtitle">Technology Applied</h2>
               <p class="cs-desc">
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+              To create the PWA that they want, the technology used is Next.JS based on React.JS. This framework is a universal JavaScript framework that is capable of operating in browsers and servers. This framework comes from a start-up called zeit, and makes Next.js the universal and most popular choice framework in 2018. This framework offers an easy development method when you use React.js as a template.<br><br>Next.JS was chosen in the development of this system because it has advantages, such as all your components in the "pages" folder get server-rendered automatically, SEO Friendly, as well as various other benefits that support the development of the PWA system to be carried out.
               </p>
             </div>
           </div>
@@ -168,10 +168,9 @@
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="cs-subtitle text-center">JBA Auction System</h2>
+              <h2 class="cs-subtitle text-center">Results of PWA on VIP Plaza</h2>
               <p class="cs-desc text-center">
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been t
-              <br>he industry's standard dummy text ever since the 1500,.
+              The collaboration between VIP Plaza and LOGIQUE DIGITAL INDONESIA has succeeded in developing the PWA system on VIP Plaza in a period of 3 months. With this system, VIP Plaza is now able in increasing the number of visitors to the website as they also provide a new experience for mobile users in buying and selling transactions without installing applications that are quite complex and consume a lot of data.
               </p>
               <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block">
             </div>
@@ -179,9 +178,9 @@
           <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
         </section>
         <section class="cs-bottom">
-          <h2 class="cs-subtitle">Tentang <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
+          <h2 class="cs-subtitle">About <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
           <p class="cs-desc">
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been <br> the industry's standard dummy text ever since the 1500,.
+          As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.
           </p>
           <a href="#" class="btn btn-cs-bottom">Kontak Kami</a>
           <a href="#" class="btn btn-cs-bottom">Layanan Kami</a>
@@ -193,13 +192,13 @@
           <div class="container-fluid">
             <div class="row">
               <div class="col-md-8">
-                <h2>Tentang Kami</h2>
+                <h2>About Me</h2>
                 <br/>
                 As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.<br/>
                 <div class="visible-sm visible-xs"><br/></div>
               </div>
               <div class="col-md-4">
-                <h2>Hubungi Kami</h2>
+                <h2>Contact Me</h2>
                 <a href="/en/contact.php" target="_blank"><img alt="Logo" src="../../img/logo.png" class="logo"/></a> <br />
                 Ad Premier Building 19th Floor. <br/>
                 Jalan Tb. Simatupang No. 5 <br/>
