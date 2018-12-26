@@ -1,15 +1,15 @@
 @font-face {
   font-family: 'Avenir Next Condensed';
-  src: url('AvenirNextCondensed-Regular.woff2') format('woff2'),
-      url('AvenirNextCondensed-Regular.woff') format('woff');
+  src: url('../fonts/AvenirNextCondensed-Regular.woff2') format('woff2'),
+      url('../fonts/AvenirNextCondensed-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Avenir Next Condensed';
-  src: url('AvenirNextCondensed-Medium.woff2') format('woff2'),
-      url('AvenirNextCondensed-Medium.woff') format('woff');
+  src: url('../fonts/AvenirNextCondensed-Medium.woff2') format('woff2'),
+      url('../fonts/AvenirNextCondensed-Medium.woff') format('woff');
   font-weight: 500;
   font-style: normal;
 }
