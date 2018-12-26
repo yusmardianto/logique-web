@@ -128,7 +128,7 @@
             <div class="col-sm-6 col-md-pull-6">
               <h2 class="cs-subtitle">JBA Indonesia</h2>
               <p class="cs-desc">
-                JBA Indonesia adalah perusahaan yang bergerak di bidang jasa LELANG, khususnya untuk produk otomotif seperti MOBIL dan MOTOR. PT. JBA Indonesia salah satu perusahaan asing di bidang LELANG yang berskala besar berkantor pusat di Jepang, mulai berdiri di Indonesia pada tanggal 16 November 2011, dan telah meraih penghargaan sebagai balai LELANG di tingkat inovasi terbaik di tahun 2013 dan 2014. Terpercaya, Aman, Praktis dan Nyaman merupakan motto kami dalam memberikan pelayanan secara professional dan menciptakan kepuasan mitra kerja dan pelanggan.
+                JBA Indonesia merupakan salah satu perusahaan asing yang bergerak di bidang lelang dengan skala besar dan berkantor pusat di Jepang. Perusahaan ini khusus melelang berbagai produk otomotif, seperti mobil dan motor. JBA sendiri telah meraih penghargaan sebagai balai lelang dengan tingkat inovasi terbaik selama tahun 2013 dan 2014 di Indonesia. Dengan motto, terpercaya, aman, praktis dan nyaman, JBA mampu memberikan pelayanan secara profesional sehingga membuat para mitra kerja dan pelanggan menjadi puas.
               </p>
             </div>
           </div>
@@ -142,10 +142,10 @@
             <div class="col-sm-6">
               <h2 class="cs-subtitle">Latar Belakang</h2>
               <p class="cs-desc">
-              Disamping itu, kami juga mendukung kebutuhan dari setiap pelanggan kami yang memiliki aktifitas terikat dengan bisnis mereka, dengan membangun sebuah sistem yang terpercaya, akurat dan real-time. Para pelanggan kami bisa mencari informasi secara lengkap dan terperinci melalui website dalam pemilihan unit dengan harga yang sangat competitive dan gambar fisik dari setiap unit yang hendak dilelang, dengan website yang userfriendly sehingga berdasarkan data sistem, 60% pengunjung website kami bisa mengakses melalui smartphone.
+              Sebagai salah satu perusahaan lelang terbaik di Indonesia, tentu kami mempunyai banyak pelanggan yang harus kami layani. Selain itu, jumlah kendaraan yang harus kami lelang setiap bulannya semakin banyak. Hal tersebut tentunya membuat kami kesulitan jika kami lakukan secara manual. Karena itu, kami membutuhkan suatu sistem yang mampu membantu kami dalam menangani masalah-masalah tersebut agar dapat meningkatkan profit perusahaan. 
+              <br><br>Agar sistem yang kami inginkan terwujud, kami pun melakukan kerja sama dengan pihak LOGIQUE DIGITAL INDONESIA untuk pembuatan sistem web tersebut. LOGIQUE dipilih karena telah mempunyai reputasi yang baik di bidang web developer. Selain itu, LOGIQUE juga telah dipercaya oleh berbagai perusahaan nasional dan internasional untuk menangani berbagai persoalan di dunia digital.
               <br><br>
               </p>
-              <a href="#" class="btn btn-cs">Detail</a>
             </div>
           </div>
           <img src="img/orm-1.png" alt="case study logique" class="cs-orm cs-orm-1">
@@ -159,7 +159,11 @@
             <div class="col-sm-6 col-md-pull-6">
               <h2 class="cs-subtitle">Teknologi yang digunakan</h2>
               <p class="cs-desc">
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+              Untuk membuat sistem lelang JBA, LOGIQUE DIGITAL INDONESIA menggunakan teknologi web terbaru dan termutakhir yang biasanya digunakan oleh para web developer profesional, baik di dalam maupun di luar negeri, yaitu NodeJS, SocketIO dan Android Native.<br><br>
+              Ketiga teknologi ini telah dikenal secara luas oleh para programer serta para web developer profesional sebagai teknologi pengembangan sistem termutakhir yang mampu membantu para user untuk mengirimkan data secara cepat dan akurat.<br><br>
+              NodeJS dipilih karena LOGIQUE merasa dalam pembuatan sistem lelang secara online, dibutuhkan engine yang mampu untuk mengeksekusi Javascript dengan cepat serta mempunyai performa yang bagus. Hal ini terjadi lantaran sistem lelang JBA online melibatkan banyak user dan data sehingga dibutuhkan sistem engine berteknologi tinggi sebagai solusinya.<br><br>
+              Socket IO juga dipilih sebagai media perantara untuk dapat mengakomodasi seluruh pengiriman data secara real time sehingga data yang didapatkan oleh para user yang sedang melakukan lelang online di JBA betul-betul merupakan data sebenarnya atau real data.<br><br>
+              Agar para user dapat melakukan lelang online di JBA kapan pun dan dimana pun, LOGIQUE akhirnya menggunakan teknologi Android Native agar sistem lelang online dapat digunakan pada smartphone user namun dengan performa yang lebih baik dan lebih cepat sehingga data yang didapat merupakan data secara real time.
               </p>
             </div>
           </div>
@@ -170,8 +174,7 @@
             <div class="col-md-12">
               <h2 class="cs-subtitle text-center">JBA Auction System</h2>
               <p class="cs-desc text-center">
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been t
-              <br>he industry's standard dummy text ever since the 1500,.
+              Sebelum membuat sistem lelang online, JBA kesulitan dalam mengakomodasi kebutuhan para pelanggan yang ingin melakukan lelang. Belum lagi jika jumlah kendaraan yang dilelang cukup banyak, yang tentunya akan membuat para staff kami tidak fokus sehingga potensi terjadinya data yang hilang serta kesalahan dalam proses lelang cukup besar. Namun, setelah melakukan sistem JBA Auction System yang dibuat oleh LOGIQUE dan seluruh layanan kami telah terotomatisasi dengan baik, kami merasakan jika pekerjaan kami menjadi jauh lebih efektif dan efisien tanpa perlu khawatir data pelanggan hilang atau mengalami kerusakan.
               </p>
               <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block">
             </div>
@@ -183,11 +186,11 @@
           <p class="cs-desc">
           Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been <br> the industry's standard dummy text ever since the 1500,.
           </p>
-          <a href="#" class="btn btn-cs-bottom">Kontak Kami</a>
-          <a href="#" class="btn btn-cs-bottom">Layanan Kami</a>
-          <a href="#" class="btn btn-cs-bottom">Portfolio</a>
-          <a href="#" class="btn btn-cs-bottom">Ingin buat Website?</a>
-          <a href="#" class="btn btn-cs-bottom">Ingin buat Web System?</a>
+          <a href="/hubungi-kami.php" class="btn btn-cs-bottom">Kontak Kami</a>
+          <a href="/layanan.php" class="btn btn-cs-bottom">Layanan Kami</a>
+          <a href="/portofolio.php" class="btn btn-cs-bottom">Portfolio</a>
+          <a href="/layanan/mekanisme-pembuatan-website/" class="btn btn-cs-bottom">Ingin buat Website?</a>
+          <a href="/layanan/pembuatan-sistem-web/" class="btn btn-cs-bottom">Ingin buat Web System?</a>
         </section>
         <footer>
           <div class="container-fluid">

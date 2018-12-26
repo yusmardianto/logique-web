@@ -26,13 +26,13 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Case Study - VIP Plaza PWA (Progressive Web App) | LOGIQUE Digital Indonesia</title>
+  <title>Case Study - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia</title>
 
-	<link href="../../css/bootstrap.min.css" rel="stylesheet">	
+	<link href="../../../css/bootstrap.min.css" rel="stylesheet">	
 	</noscript>
 	
-  <link href="../../css/style.css" rel="stylesheet">
-	<link href="../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="../../../css/style.css" rel="stylesheet">
+	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <!-- case study style -->
   <link href="css/style.css" rel="stylesheet">
     
@@ -44,7 +44,7 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-6">
-              <img src="../../img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
+              <img src="../../../img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
             </div>
             <div class="col-xs-6 text-right">
               <ul>
@@ -68,37 +68,37 @@
 				<div class="logique-nav">
 					<div class="margin-for-nav">
 						<div class="text-center">
-							<a href="/">
+							<a href="/en">
 								<div class="img-home"></div>
 								Home
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/tentang-kami.php">
+							<a href="/en/about.php">
 								<div class="img-about"></div>
 								About Us
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/portofolio.php">
+							<a href="/en/portfolio.php">
 								<div class="img-portfolio"></div>
 								Portfolio
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/layanan.php">
+							<a href="/en/services.php">
 								<div class="img-services"></div>
 								Services
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/karir.php">
+							<a href="/en/joinus.php">
 								<div class="img-career"></div>
 								Career
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/hubungi-kami.php">
+							<a href="/en/contact.php">
 								<div class="img-contact"></div>
 								Contact Us
 							</a>
@@ -117,8 +117,8 @@
       <div class="cs-wrap">
         <section class="cs-top">
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
-          <h1 class="cs-title">VIP Plaza</h1>
-          <h1 class="cs-title-2">Progressive Web App</h1>
+          <h1 class="cs-title">ZuttoRide CRM</h1>
+          <h1 class="cs-title-2">Customer Management System</h1>
         </section>
         <section class="cs-section">
           <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">
@@ -127,9 +127,9 @@
               <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">VIP Plaza</h2>
+              <h2 class="cs-subtitle">ZuttoRide Indonesia</h2>
               <p class="cs-desc">
-                VIP Plaza is an online store of fashion and beauty in Indonesia that continues to develop every day. This fashion online store offers more than 30,000 products from 800 favorite local brands and well-known international variety. Not only that, VIP Plaza also offers a "Flash Sale" shopping concept every day, making your shopping experience even more exciting and fun. In addition, this online store also provides a variety of interesting features which of course makes it easier for you to shop anytime and anywhere.
+                ZuttoRide Indonesia is a consulting company oriented to the needs of the community and service to prosper the world of motorbikes in Indonesia. This company was founded to create a driving experience that has never existed in Indonesia. With our motto, "For All Riders", we intend to provide 24-hour service for motorbike riders spread throughout Indonesia.
               </p>
             </div>
           </div>
@@ -141,9 +141,9 @@
               <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2">
             </div>
             <div class="col-sm-6">
-              <h2 class="cs-subtitle">Background</h2>
+              <h2 class="cs-subtitle">Background of System Development</h2>
               <p class="cs-desc">
-              Being one of the growing fashion online stores surely makes VIP Plaza feel the need to improve its technology in order to continue to compete. Therefore, they desire to create a Progressive Web App (PWA) which aims to attract visits of mobile users who want to buy various items of their personal needs, such as clothing, shoes, bags, watches, as well as various other accessories. They will experience shopping differently from other online fashion stores, without the need to install applications—that causes the smartphone performance to reduce—but still able to provide offline functionality even if the user has a slow or unstable internet connection.<br><br>To make the progressive web app they want, VIP Plaza feels the need to work together with LOGIQUE to help them develop the system. PWA is expected to improve the performance of the web app to make it better. In addition, PWA has also created new standards for applications that can be installed and have been supported by each platform to give different shopping experience for users.
+              As a company engaged in consulting services and motorcycle insurance, ZuttoRide needs a system that is able to integrate and carry out management for motorbike insurance customers, especially for Kawasaki dealers who are official partners of ZuttoRide Indonesia. <br><br>To make this happen, ZuttoRide, in collaboration with LOGIQUE DIGITAL INDONESIA, decided to create a system called ZuttoRide CRM. The creation and development of ZuttoRide CRM system carried out between ZuttoRide and LOGIQUE DIGITAL INDONESIA has also been going on for a long time, which is almost around 4 years and is now entering the 14th phase in improving their systems.
               <br><br>
               </p>
             </div>
@@ -159,7 +159,7 @@
             <div class="col-sm-6 col-md-pull-6">
               <h2 class="cs-subtitle">Technology Applied</h2>
               <p class="cs-desc">
-              To create the PWA that they want, the technology used is Next.JS based on React.JS. This framework is a universal JavaScript framework that is capable of operating in browsers and servers. This framework comes from a start-up called zeit, and makes Next.js the universal and most popular choice framework in 2018. This framework offers an easy development method when you use React.js as a template.<br><br>Next.JS was chosen in the development of this system because it has advantages, such as all your components in the "pages" folder get server-rendered automatically, SEO Friendly, as well as various other benefits that support the development of the PWA system to be carried out.
+              Before making a web system that is expected by ZuttoRide, LOGIQUE DIGITAL INDONESIA will  firstly discuss the system to be used. From the results of the discussion, the team from LOGIQUE understands that the website desired by ZuttoRide requires high customization and scalability. Therefore, LOGIQUE recommends the CakePHP framework-based web system development technology as the basis of the system. <br><br>CakePHP itself is a PHP framework that is generally used by developers of an application or website, starting from a simple level to a complex one. In addition, this framework also uses the latest technology that supports the latest PHP, namely PHP 5.4 which has the advantage of being able to access the database quite easily and flexibly. Not only that, CakePHP has also used Model View Controller (MVC) technology which is able to facilitate a programmer in developing a website. In terms of security, the CakePHP framework also has a very good security system to prevent data leakage or theft.
               </p>
             </div>
           </div>
@@ -168,9 +168,9 @@
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="cs-subtitle text-center">Results of PWA on VIP Plaza</h2>
+              <h2 class="cs-subtitle text-center">ZuttoRide CRM System Results</h2>
               <p class="cs-desc text-center">
-              The collaboration between VIP Plaza and LOGIQUE DIGITAL INDONESIA has succeeded in developing the PWA system on VIP Plaza in a period of 3 months. With this system, VIP Plaza is now able in increasing the number of visitors to the website as they also provide a new experience for mobile users in buying and selling transactions without installing applications that are quite complex and consume a lot of data.
+              After developing the customer management system (CRM) by ZuttoRide, they got positive results for both ZuttoRide, as well as dealers and customers, especially in terms of data integration, making it easier for ZuttoRide to know specifically the information about dealers and customers who work with them as motorcycle insurance provider/rider.
               </p>
               <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block">
             </div>
@@ -182,11 +182,11 @@
           <p class="cs-desc">
           As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.
           </p>
-          <a href="#" class="btn btn-cs-bottom">Kontak Kami</a>
-          <a href="#" class="btn btn-cs-bottom">Layanan Kami</a>
-          <a href="#" class="btn btn-cs-bottom">Portfolio</a>
-          <a href="#" class="btn btn-cs-bottom">Ingin buat Website?</a>
-          <a href="#" class="btn btn-cs-bottom">Ingin buat Web System?</a>
+          <a href="/en/contact.php" class="btn btn-cs-bottom">Kontak Kami</a>
+          <a href="/en/services.php" class="btn btn-cs-bottom">Layanan Kami</a>
+          <a href="/en/portfolio.php" class="btn btn-cs-bottom">Portfolio</a>
+          <a href="/en/services/mekanisme-pembuatan-website/" class="btn btn-cs-bottom">Ingin buat Website?</a>
+          <a href="/en/services/pembuatan-sistem-web/" class="btn btn-cs-bottom">Ingin buat Web System?</a>
         </section>
         <footer>
           <div class="container-fluid">
@@ -199,7 +199,7 @@
               </div>
               <div class="col-md-4">
                 <h2>Contact Me</h2>
-                <a href="/en/contact.php" target="_blank"><img alt="Logo" src="../../img/logo.png" class="logo"/></a> <br />
+                <a href="/en/contact.php" target="_blank"><img alt="Logo" src="../../../img/logo.png" class="logo"/></a> <br />
                 Ad Premier Building 19th Floor. <br/>
                 Jalan Tb. Simatupang No. 5 <br/>
                 Ragunan, Ps. Minggu, <br/>
@@ -212,7 +212,7 @@
           © 2018 Logique Digital Indonesia. All Rights Reserved.
         </div>
       </div>
-      <?php include '../../footer.php';?>
+      <?php include '../../../footer.php';?>
 		</div>
 		<script type="application/ld+json">
 			{
