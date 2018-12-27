@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -49,7 +49,7 @@
             <div class="col-xs-6 text-right">
               <ul>
                 <li class="active"><a href="#">EN</a></li>
-                <li><a href="#">ID</a></li>
+                <li><a href="/case-study/vip-plaza-progressive-web-app/">ID</a></li>
                 <li><a href="#">JP</a></li>
               </ul>
             </div>
@@ -118,7 +118,7 @@
         <section class="cs-top">
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
           <h1 class="cs-title">VIP Plaza</h1>
-          <h1 class="cs-title-2">Progressive Web App</h1>
+          <h2 class="cs-title-2">Progressive Web App</h2>
         </section>
         <section class="cs-section">
           <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">
@@ -182,23 +182,23 @@
           <p class="cs-desc">
           As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.
           </p>
-          <a href="/en/contact.php" class="btn btn-cs-bottom">Kontak Kami</a>
-          <a href="/en/services.php" class="btn btn-cs-bottom">Layanan Kami</a>
+          <a href="/en/contact.php" class="btn btn-cs-bottom">Contact Us</a>
+          <a href="/en/services.php" class="btn btn-cs-bottom">Our Services</a>
           <a href="/en/portfolio.php" class="btn btn-cs-bottom">Portfolio</a>
-          <a href="/en/services/mekanisme-pembuatan-website/" class="btn btn-cs-bottom">Ingin buat Website?</a>
-          <a href="/en/services/pembuatan-sistem-web/" class="btn btn-cs-bottom">Ingin buat Web System?</a>
+          <a href="/en/services/mekanisme-pembuatan-website/" class="btn btn-cs-bottom">Web Development</a>
+          <a href="/en/services/pembuatan-sistem-web/" class="btn btn-cs-bottom">Web System Development</a>
         </section>
         <footer>
           <div class="container-fluid">
             <div class="row">
               <div class="col-md-8">
-                <h2>About Me</h2>
+                <h2>About Us</h2>
                 <br/>
                 As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.<br/>
                 <div class="visible-sm visible-xs"><br/></div>
               </div>
               <div class="col-md-4">
-                <h2>Contact Me</h2>
+                <h2>Contact Us</h2>
                 <a href="/en/contact.php" target="_blank"><img alt="Logo" src="../../../img/logo.png" class="logo"/></a> <br />
                 Ad Premier Building 19th Floor. <br/>
                 Jalan Tb. Simatupang No. 5 <br/>
