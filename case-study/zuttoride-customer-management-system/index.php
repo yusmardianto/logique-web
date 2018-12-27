@@ -26,13 +26,13 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Case Study - JBA Auction System | LOGIQUE Digital Indonesia</title>
+  <title>Case Study - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia</title>
 
-	<link href="../../css/bootstrap.min.css" rel="stylesheet">	
+	<link href="../../../css/bootstrap.min.css" rel="stylesheet">	
 	</noscript>
 	
-  <link href="../../css/style.css" rel="stylesheet">
-	<link href="../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="../../../css/style.css" rel="stylesheet">
+	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <!-- case study style -->
   <link href="css/style.css" rel="stylesheet">
     
@@ -44,11 +44,11 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-6">
-              <img src="../../img/logo.png" alt="LOGIQUE"><span>STUDI KASUS</span>
+              <img src="../../../img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
             </div>
             <div class="col-xs-6 text-right">
               <ul>
-                <li><a href="/en/case-study/">EN</a></li>
+                <li><a href="/en/case-study/zuttoride-customer-management-system/">EN</a></li>
                 <li class="active"><a href="#">ID</a></li>
                 <li><a href="#">JP</a></li>
               </ul>
@@ -65,7 +65,7 @@
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
-				<div class="logique-nav">
+      <div class="logique-nav">
 					<div class="margin-for-nav">
 						<div class="text-center">
 							<a href="/">
@@ -117,7 +117,8 @@
       <div class="cs-wrap">
         <section class="cs-top">
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
-          <h1 class="cs-title">JBA Auction System</h1>
+          <h1 class="cs-title">ZuttoRide CRM</h1>
+          <h2 class="cs-title-2">Sistem Management Pelanggan</h2>
         </section>
         <section class="cs-section">
           <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">
@@ -126,9 +127,9 @@
               <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">JBA Indonesia</h2>
+              <h2 class="cs-subtitle">ZuttoRide Indonesia</h2>
               <p class="cs-desc">
-                JBA Indonesia merupakan salah satu perusahaan asing yang bergerak di bidang lelang dengan skala besar dan berkantor pusat di Jepang. Perusahaan ini khusus melelang berbagai produk otomotif, seperti mobil dan motor. JBA sendiri telah meraih penghargaan sebagai balai lelang dengan tingkat inovasi terbaik selama tahun 2013 dan 2014 di Indonesia. Dengan motto, terpercaya, aman, praktis dan nyaman, JBA mampu memberikan pelayanan secara profesional sehingga membuat para mitra kerja dan pelanggan menjadi puas.
+              ZuttoRide Indonesia merupakan perusahaan konsultasi yang berorientasi pada kebutuhan masyarakat dan pengabdian untuk memakmurkan dunia sepeda motor yang ada di Indonesia. Perusahaan ini didirikan untuk menciptakan pengalaman berkendara yang belum pernah ada di Indonesia. Dengan motto kami adalah “For All Riders” kami bermaksud menyediakan pelayanan bagi para pengendara sepeda motor selama 24 jam yang tersebar di seluruh Indonesia. 
               </p>
             </div>
           </div>
@@ -140,10 +141,11 @@
               <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2">
             </div>
             <div class="col-sm-6">
-              <h2 class="cs-subtitle">Latar Belakang</h2>
+              <h2 class="cs-subtitle">Latar Belakang Pembuatan Sistem</h2>
               <p class="cs-desc">
-              Sebagai salah satu perusahaan lelang terbaik di Indonesia, tentu kami mempunyai banyak pelanggan yang harus kami layani. Selain itu, jumlah kendaraan yang harus kami lelang setiap bulannya semakin banyak. Hal tersebut tentunya membuat kami kesulitan jika kami lakukan secara manual. Karena itu, kami membutuhkan suatu sistem yang mampu membantu kami dalam menangani masalah-masalah tersebut agar dapat meningkatkan profit perusahaan. 
-              <br><br>Agar sistem yang kami inginkan terwujud, kami pun melakukan kerja sama dengan pihak LOGIQUE DIGITAL INDONESIA untuk pembuatan sistem web tersebut. LOGIQUE dipilih karena telah mempunyai reputasi yang baik di bidang web developer. Selain itu, LOGIQUE juga telah dipercaya oleh berbagai perusahaan nasional dan internasional untuk menangani berbagai persoalan di dunia digital.
+              Sebagai perusahaan yang bergerak dibidang jasa konsultasi serta asuransi sepeda motor, ZuttoRide membutuhkan sebuah sistem yang mampu untuk mengintegrasikan serta melakukan manajemen bagi para pelanggan asuransi motor, terutama bagi dealer-dealer Kawasaki yang merupakan partner resmi ZuttoRide Indonesia. 
+              <br><br>
+              Untuk mewujudkan hal tersebut, ZuttoRide bekerja sama dengan LOGIQUE DIGITAL INDONESIA memutuskan untuk membuat sebuah sistem yang diberi nama CRM ZuttoRide. Pembuatan serta pengembangan sistem CRM ZuttoRide yang dilakukan antara ZuttoRide dan LOGIQUE DIGITAL INDONESIA ini pun telah berlangsung lama, yaitu hampir sekitar 4 tahun dan saat ini telah memasuki Fase ke-14 dalam penyempurnaan sistem mereka.
               <br><br>
               </p>
             </div>
@@ -157,32 +159,11 @@
               <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">Teknologi yang digunakan</h2>
+              <h2 class="cs-subtitle">Teknologi yang diterapkan</h2>
               <p class="cs-desc">
-              Untuk membuat sistem lelang JBA, LOGIQUE DIGITAL INDONESIA menggunakan teknologi web terbaru dan termutakhir yang biasanya digunakan oleh para web developer profesional, baik di dalam maupun di luar negeri, yaitu NodeJS, SocketIO dan Android Native.<br><br>
-              Ketiga teknologi ini telah dikenal secara luas oleh para programer serta para web developer profesional sebagai teknologi pengembangan sistem termutakhir yang mampu membantu para user untuk mengirimkan data secara cepat dan akurat.<br><br>
-              
-              <a class="btn btn-cs" data-toggle="modal" href='#modal-id'>Detail</a>
-              <div class="modal fade" id="modal-id">
-                <div class="modal-dialog">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                      <h4 class="modal-title">Teknologi yang digunakan</h4>
-                    </div>
-                    <div class="modal-body">
-                    Untuk membuat sistem lelang JBA, LOGIQUE DIGITAL INDONESIA menggunakan teknologi web terbaru dan termutakhir yang biasanya digunakan oleh para web developer profesional, baik di dalam maupun di luar negeri, yaitu NodeJS, SocketIO dan Android Native.<br><br>
-                    Ketiga teknologi ini telah dikenal secara luas oleh para programer serta para web developer profesional sebagai teknologi pengembangan sistem termutakhir yang mampu membantu para user untuk mengirimkan data secara cepat dan akurat.<br><br>
-                    NodeJS dipilih karena LOGIQUE merasa dalam pembuatan sistem lelang secara online, dibutuhkan engine yang mampu untuk mengeksekusi Javascript dengan cepat serta mempunyai performa yang bagus. Hal ini terjadi lantaran sistem lelang JBA online melibatkan banyak user dan data sehingga dibutuhkan sistem engine berteknologi tinggi sebagai solusinya.<br><br>
-                    Socket IO juga dipilih sebagai media perantara untuk dapat mengakomodasi seluruh pengiriman data secara real time sehingga data yang didapatkan oleh para user yang sedang melakukan lelang online di JBA betul-betul merupakan data sebenarnya atau real data.<br><br>
-                    Agar para user dapat melakukan lelang online di JBA kapan pun dan dimana pun, LOGIQUE akhirnya menggunakan teknologi Android Native agar sistem lelang online dapat digunakan pada smartphone user namun dengan performa yang lebih baik dan lebih cepat sehingga data yang didapat merupakan data secara real time.
-                    </div>
-                    <div class="modal-footer">
-                      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    </div>
-                  </div>
-                </div>
-              </div>
+              Sebelum membuat sistem web yang diharapkan oleh ZuttoRide, terlebih dahulu LOGIQUE DIGITAL INDONESIA melakukan pembahasan mengenai sistem yang akan digunakan. Dari hasil pembahasan tersebut, Tim dari LOGIQUE memahami jika website yang diinginkan oleh ZuttoRide membutuhkan kustomisasi serta skalabilitas yang tinggi. Karena itu, Tim dari Logique merekomendasikan teknologi pengembangan sistem web berbasis framework CakePHP sebagai basis dari sistem tersebut.
+              <br><br>
+              Cake PHP sendiri merupakan framework PHP yang pada umumnya digunakan oleh para pengembang suatu aplikasi atau website, mulai dari tingkat yang sederhana hingga yang kompleks. Selain itu, Framework ini juga telah menggunakan teknologi terkini yang telah mendukung PHP terbaru, yaitu PHP 5.4 yang mempunyai kelebihan untuk dapat mengakses database dengan cukup mudah dan fleksibel. Bukan hanya itu saja, Cake PHP juga telah menggunakan teknologi Model View Controller (MVC) yang mampu memudahkan seorang programmer dalam mengembangkan suatu website. Dari segi keamanan, Framework Cake PHP juga terbilang mempunyai sistem keamanan yang sangat baik untuk mencegah terjadinya kebocoran atau pencurian data.
               </p>
             </div>
           </div>
@@ -191,9 +172,9 @@
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="cs-subtitle text-center">JBA Auction System</h2>
+              <h2 class="cs-subtitle text-center">Hasil Sistem ZuttoRide CRM</h2>
               <p class="cs-desc text-center">
-              Sebelum membuat sistem lelang online, JBA kesulitan dalam mengakomodasi kebutuhan para pelanggan yang ingin melakukan lelang. Belum lagi jika jumlah kendaraan yang dilelang cukup banyak, yang tentunya akan membuat para staff kami tidak fokus sehingga potensi terjadinya data yang hilang serta kesalahan dalam proses lelang cukup besar. Namun, setelah melakukan sistem JBA Auction System yang dibuat oleh LOGIQUE dan seluruh layanan kami telah terotomatisasi dengan baik, kami merasakan jika pekerjaan kami menjadi jauh lebih efektif dan efisien tanpa perlu khawatir data pelanggan hilang atau mengalami kerusakan.
+              Setelah dilakukan pengembangan sistem manajemen pelanggan (CRM) oleh ZuttoRide, mereka mendapatkan hasil yang positif baik bagi ZuttoRide maupun bagi para dealer dan pelanggan, terutama dalam hal integrasi data sehingga memudahkan ZuttoRide untuk mengetahui secara spesifik informasi mengenai dealer dan pelanggan yang bekerja sama dengan mereka sebagai penyedia asuransi motor/ rider.
               </p>
               <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block">
             </div>
@@ -203,13 +184,13 @@
         <section class="cs-bottom">
           <h2 class="cs-subtitle">Tentang <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
           <p class="cs-desc">
-          LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. 
+          LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. <br/>
           </p>
-          <a href="/hubungi-kami.php" class="btn btn-cs-bottom">Kontak Kami</a>
-          <a href="/layanan.php" class="btn btn-cs-bottom">Layanan Kami</a>
-          <a href="/portofolio.php" class="btn btn-cs-bottom">Portfolio</a>
-          <a href="/layanan/mekanisme-pembuatan-website/" class="btn btn-cs-bottom">Ingin buat Website?</a>
-          <a href="/layanan/pembuatan-sistem-web/" class="btn btn-cs-bottom">Ingin buat Web System?</a>
+          <a href="/en/contact.php" class="btn btn-cs-bottom">Kontak Kami</a>
+          <a href="/en/services.php" class="btn btn-cs-bottom">Layanan Kami</a>
+          <a href="/en/portfolio.php" class="btn btn-cs-bottom">Portfolio</a>
+          <a href="/en/services/mekanisme-pembuatan-website/" class="btn btn-cs-bottom">Ingin buat Website?</a>
+          <a href="/en/services/pembuatan-sistem-web/" class="btn btn-cs-bottom">Ingin buat Web System?</a>
         </section>
         <footer>
           <div class="container-fluid">
@@ -222,7 +203,7 @@
               </div>
               <div class="col-md-4">
                 <h2>Hubungi Kami</h2>
-                <a href="/en/contact.php" target="_blank"><img alt="Logo" src="../../img/logo.png" class="logo"/></a> <br />
+                <a href="/en/contact.php" target="_blank"><img alt="Logo" src="../../../img/logo.png" class="logo"/></a> <br />
                 Ad Premier Building 19th Floor. <br/>
                 Jalan Tb. Simatupang No. 5 <br/>
                 Ragunan, Ps. Minggu, <br/>
@@ -235,7 +216,7 @@
           © 2018 Logique Digital Indonesia. All Rights Reserved.
         </div>
       </div>
-      <?php include '../../footer.php';?>
+      <?php include '../../../footer.php';?>
 		</div>
 		<script type="application/ld+json">
 			{

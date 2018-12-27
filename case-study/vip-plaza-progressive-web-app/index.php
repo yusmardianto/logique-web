@@ -26,13 +26,13 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Case Study - JBA Auction System | LOGIQUE Digital Indonesia</title>
+  <title>Case Study - VIP Plaza PWA (Progressive Web App) | LOGIQUE Digital Indonesia</title>
 
-	<link href="../../css/bootstrap.min.css" rel="stylesheet">	
+	<link href="../../../css/bootstrap.min.css" rel="stylesheet">	
 	</noscript>
 	
-  <link href="../../css/style.css" rel="stylesheet">
-	<link href="../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="../../../css/style.css" rel="stylesheet">
+	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <!-- case study style -->
   <link href="css/style.css" rel="stylesheet">
     
@@ -44,11 +44,11 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-6">
-              <img src="../../img/logo.png" alt="LOGIQUE"><span>STUDI KASUS</span>
+              <img src="../../../img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
             </div>
             <div class="col-xs-6 text-right">
               <ul>
-                <li><a href="/en/case-study/">EN</a></li>
+                <li><a href="/en/case-study/vip-plaza-progressive-web-app/">EN</a></li>
                 <li class="active"><a href="#">ID</a></li>
                 <li><a href="#">JP</a></li>
               </ul>
@@ -65,7 +65,7 @@
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
-				<div class="logique-nav">
+      <div class="logique-nav">
 					<div class="margin-for-nav">
 						<div class="text-center">
 							<a href="/">
@@ -117,7 +117,8 @@
       <div class="cs-wrap">
         <section class="cs-top">
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
-          <h1 class="cs-title">JBA Auction System</h1>
+          <h1 class="cs-title">VIP Plaza</h1>
+          <h2 class="cs-title-2">Progressive Web App</h2>
         </section>
         <section class="cs-section">
           <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">
@@ -126,9 +127,9 @@
               <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">JBA Indonesia</h2>
+              <h2 class="cs-subtitle">VIP Plaza</h2>
               <p class="cs-desc">
-                JBA Indonesia merupakan salah satu perusahaan asing yang bergerak di bidang lelang dengan skala besar dan berkantor pusat di Jepang. Perusahaan ini khusus melelang berbagai produk otomotif, seperti mobil dan motor. JBA sendiri telah meraih penghargaan sebagai balai lelang dengan tingkat inovasi terbaik selama tahun 2013 dan 2014 di Indonesia. Dengan motto, terpercaya, aman, praktis dan nyaman, JBA mampu memberikan pelayanan secara profesional sehingga membuat para mitra kerja dan pelanggan menjadi puas.
+              VIP Plaza merupakan online store fashion dan kecantikan di Indonesia yang terus mengalami perkembangan setiap harinya. Online store fashion ini menawarkan lebih dari 30.000 produk dari 800 brand lokal favorit serta beragam internasional ternama. Bukan hanya itu saja, VIP Plaza juga menawarkan konsep belanja “Flash Sale” setiap harinya sehingga membuat pengalaman berbelanja Anda menjadi semakin seru dan menyenangkan. Selain itu, online store ini juga memberikan berbagai fitur menarik yang tentunya memudahkan Anda saat berbelanja.
               </p>
             </div>
           </div>
@@ -142,9 +143,9 @@
             <div class="col-sm-6">
               <h2 class="cs-subtitle">Latar Belakang</h2>
               <p class="cs-desc">
-              Sebagai salah satu perusahaan lelang terbaik di Indonesia, tentu kami mempunyai banyak pelanggan yang harus kami layani. Selain itu, jumlah kendaraan yang harus kami lelang setiap bulannya semakin banyak. Hal tersebut tentunya membuat kami kesulitan jika kami lakukan secara manual. Karena itu, kami membutuhkan suatu sistem yang mampu membantu kami dalam menangani masalah-masalah tersebut agar dapat meningkatkan profit perusahaan. 
-              <br><br>Agar sistem yang kami inginkan terwujud, kami pun melakukan kerja sama dengan pihak LOGIQUE DIGITAL INDONESIA untuk pembuatan sistem web tersebut. LOGIQUE dipilih karena telah mempunyai reputasi yang baik di bidang web developer. Selain itu, LOGIQUE juga telah dipercaya oleh berbagai perusahaan nasional dan internasional untuk menangani berbagai persoalan di dunia digital.
+              Sebagai salah satu online store fashion yang terus berkembang, tentunya membuat VIP Plaza merasa perlu untuk meningkatkan teknologi yang dimilikinya agar dapat terus bersaing. Karena itu, mereka mempunyai keinginan untuk membuat sebuah Progressive web app (PWA) yang bertujuan untuk menarik kunjungan para pengguna mobile yang ingin membeli berbagai barang kebutuhan pribadi mereka, seperti pakaian, sepatu, tas, jam tangan, serta berbagai aksesoris kebutuhan hidup lainnya dengan pengalaman berbelanja yang berbeda dari online store fashion lainnya, tanpa perlu menginstall atau memasang aplikasi yang menyebabkan performa smartphone menjadi berkurang, namun tetap mampu memberikan fungsionalitas offline meski pengguna mempunyai koneksi Internet yang lambat atau tidak stabil.
               <br><br>
+              Untuk membuat progressive web app yang mereka inginkan, VIP Plaza merasa perlu bekerja sama dengan LOGIQUE DIGITAL INDONESIA untuk membantu mereka dalam mengembangkan sistem yang akan mereka kembangkan tersebut. Sistem PWA ini diharapkan mampu meningkatkan performa web app agar menjadi lebih baik. Selain itu, sistem PWA juga telah menciptakan standar baru untuk aplikasi yang dapat diinstal dan telah didukung oleh setiap platform sehingga membuat user experience yang berbeda dalam berbelanja.
               </p>
             </div>
           </div>
@@ -157,32 +158,11 @@
               <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">Teknologi yang digunakan</h2>
+              <h2 class="cs-subtitle">Teknologi yang diterapkan</h2>
               <p class="cs-desc">
-              Untuk membuat sistem lelang JBA, LOGIQUE DIGITAL INDONESIA menggunakan teknologi web terbaru dan termutakhir yang biasanya digunakan oleh para web developer profesional, baik di dalam maupun di luar negeri, yaitu NodeJS, SocketIO dan Android Native.<br><br>
-              Ketiga teknologi ini telah dikenal secara luas oleh para programer serta para web developer profesional sebagai teknologi pengembangan sistem termutakhir yang mampu membantu para user untuk mengirimkan data secara cepat dan akurat.<br><br>
-              
-              <a class="btn btn-cs" data-toggle="modal" href='#modal-id'>Detail</a>
-              <div class="modal fade" id="modal-id">
-                <div class="modal-dialog">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                      <h4 class="modal-title">Teknologi yang digunakan</h4>
-                    </div>
-                    <div class="modal-body">
-                    Untuk membuat sistem lelang JBA, LOGIQUE DIGITAL INDONESIA menggunakan teknologi web terbaru dan termutakhir yang biasanya digunakan oleh para web developer profesional, baik di dalam maupun di luar negeri, yaitu NodeJS, SocketIO dan Android Native.<br><br>
-                    Ketiga teknologi ini telah dikenal secara luas oleh para programer serta para web developer profesional sebagai teknologi pengembangan sistem termutakhir yang mampu membantu para user untuk mengirimkan data secara cepat dan akurat.<br><br>
-                    NodeJS dipilih karena LOGIQUE merasa dalam pembuatan sistem lelang secara online, dibutuhkan engine yang mampu untuk mengeksekusi Javascript dengan cepat serta mempunyai performa yang bagus. Hal ini terjadi lantaran sistem lelang JBA online melibatkan banyak user dan data sehingga dibutuhkan sistem engine berteknologi tinggi sebagai solusinya.<br><br>
-                    Socket IO juga dipilih sebagai media perantara untuk dapat mengakomodasi seluruh pengiriman data secara real time sehingga data yang didapatkan oleh para user yang sedang melakukan lelang online di JBA betul-betul merupakan data sebenarnya atau real data.<br><br>
-                    Agar para user dapat melakukan lelang online di JBA kapan pun dan dimana pun, LOGIQUE akhirnya menggunakan teknologi Android Native agar sistem lelang online dapat digunakan pada smartphone user namun dengan performa yang lebih baik dan lebih cepat sehingga data yang didapat merupakan data secara real time.
-                    </div>
-                    <div class="modal-footer">
-                      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    </div>
-                  </div>
-                </div>
-              </div>
+              Dalam membuat sistem VIP Plaza PWA (Progressive Web App), teknologi yang digunakan adalah Next.JS yang berbasis React.JS. Framework ini merupakan kerangka JavaScript universal yang mampu beroperasi di browser dan server. Framework ini berasal dari sebuah start-up bernama zeit, dan menjadikan Next.js sebagai kerangka kerja pilihan universal dan terpopuler di tahun 2018. Framework ini menawarkan cara pengembangan yang mudah saat Anda menggunakan React.js sebagai template-nya.
+              <br><br>
+              Framework Next.JS ini dipilih dalam pengembangan sistem ini, karena memiliki keunggulan seperti, seluruh komponen Anda di dalam folder “pages” mendapatkan server-rendered secara otomatis, SEO Friendly, serta berbagai keuntungan lainnya yang mendukung pengembangan sistem PWA yang akan dilakukan. 
               </p>
             </div>
           </div>
@@ -191,9 +171,9 @@
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="cs-subtitle text-center">JBA Auction System</h2>
+              <h2 class="cs-subtitle text-center">Hasil VIP Plaza PWA (Progressive Web App)</h2>
               <p class="cs-desc text-center">
-              Sebelum membuat sistem lelang online, JBA kesulitan dalam mengakomodasi kebutuhan para pelanggan yang ingin melakukan lelang. Belum lagi jika jumlah kendaraan yang dilelang cukup banyak, yang tentunya akan membuat para staff kami tidak fokus sehingga potensi terjadinya data yang hilang serta kesalahan dalam proses lelang cukup besar. Namun, setelah melakukan sistem JBA Auction System yang dibuat oleh LOGIQUE dan seluruh layanan kami telah terotomatisasi dengan baik, kami merasakan jika pekerjaan kami menjadi jauh lebih efektif dan efisien tanpa perlu khawatir data pelanggan hilang atau mengalami kerusakan.
+              Kerjasama yang dilakukan antara VIP Plaza dengan LOGIQUE DIGITAL INDONESIA berhasil melakukan pengembangan sistem VIP Plaza PWA (Progressive Web App) dalam jangka waktu 3 bulan, dimana dengan adanya sistem ini mampu memberikan perubahan bagi bisnis yang dilakukan oleh pihak VIP Plaza dalam peningkatan jumlah visitor ke website mereka serta memberikan pengalaman yang baru bagi para pengguna mobile dalam melakukan transaksi jual-beli tanpa melakukan penginstallan aplikasi yang cukup kompleks dan memakan banyak data.
               </p>
               <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block">
             </div>
@@ -203,7 +183,7 @@
         <section class="cs-bottom">
           <h2 class="cs-subtitle">Tentang <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
           <p class="cs-desc">
-          LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. 
+          LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. <br/>
           </p>
           <a href="/hubungi-kami.php" class="btn btn-cs-bottom">Kontak Kami</a>
           <a href="/layanan.php" class="btn btn-cs-bottom">Layanan Kami</a>
@@ -222,7 +202,7 @@
               </div>
               <div class="col-md-4">
                 <h2>Hubungi Kami</h2>
-                <a href="/en/contact.php" target="_blank"><img alt="Logo" src="../../img/logo.png" class="logo"/></a> <br />
+                <a href="/en/contact.php" target="_blank"><img alt="Logo" src="../../../img/logo.png" class="logo"/></a> <br />
                 Ad Premier Building 19th Floor. <br/>
                 Jalan Tb. Simatupang No. 5 <br/>
                 Ragunan, Ps. Minggu, <br/>
@@ -235,7 +215,7 @@
           © 2018 Logique Digital Indonesia. All Rights Reserved.
         </div>
       </div>
-      <?php include '../../footer.php';?>
+      <?php include '../../../footer.php';?>
 		</div>
 		<script type="application/ld+json">
 			{
