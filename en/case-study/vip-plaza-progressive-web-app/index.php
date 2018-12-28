@@ -4,18 +4,18 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" itemprop="description" content="...">
+  <meta name="description" itemprop="description" content="VIP Plaza is an online store of fashion and beauty in Indonesia that continues to develop every day. This fashion online store offers more than 30,000 products from 800 favorite local brands and well-known international variety.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Case Study - JBA Auction System | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Case Study - VIP Plaza Progressive Web App | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="...">
+	<meta property="og:description" content="VIP Plaza is an online store of fashion and beauty in Indonesia that continues to develop every day. This fashion online store offers more than 30,000 products from 800 favorite local brands and well-known international variety.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

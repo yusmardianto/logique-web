@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" itemprop="description" content="...">
+  <meta name="description" itemprop="description" content="ZuttoRide Indonesia merupakan perusahaan konsultasi yang berorientasi pada kebutuhan masyarakat dan pengabdian untuk memakmurkan dunia sepeda motor yang ada di Indonesia. Perusahaan ini didirikan untuk menciptakan pengalaman berkendara yang belum pernah ada di Indonesia.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Case Study - JBA Auction System | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Studi Kasus - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="...">
+	<meta property="og:description" content="ZuttoRide Indonesia merupakan perusahaan konsultasi yang berorientasi pada kebutuhan masyarakat dan pengabdian untuk memakmurkan dunia sepeda motor yang ada di Indonesia. Perusahaan ini didirikan untuk menciptakan pengalaman berkendara yang belum pernah ada di Indonesia.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <script>
@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Case Study - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia</title>
+  <title>Studi Kasus - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">	
 	</noscript>
@@ -44,7 +44,7 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-6">
-              <img src="../../../img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
+              <img src="../../../img/logo.png" alt="LOGIQUE"><span>STUDI KASUS</span>
             </div>
             <div class="col-xs-6 text-right">
               <ul>
