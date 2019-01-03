@@ -242,8 +242,15 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
-						<div class="yellow-bg bg-black-title">Proses Kerja</div>
-						<br/><br/>
+						<div class="yellow-bg bg-black-title">Metode PDCA (Plan-Do-Check-Act)</div>
+						<div class="desc-proses">
+							<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+							Agar website Anda terus mendapatkan hasil yang baik sehingga bisnis Anda mengalami peningkatan, maka LOGIQUE menggunakan teknik PDCA yang merupakan sebuah teknik dalam Total Quality Management, di mana kami dapat terus melakukan perbaikan, baik dalam proses serta metode yang kami terapkan dan secara terus menerus melakukan evaluasi dari hasil yang didapatkan. <br/><br/>
+							Berikut ini adalah gambaran metode PDCA yang kami terapkan,<br/><br/>
+						</div>
+						</div>
+						</div>
 						<div class="row">
 							<div class="col-md-4">
 								<img src="img/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow1"/>
