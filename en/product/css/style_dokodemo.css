@@ -355,3 +355,7 @@ footer p{padding: 22px 0px;}
 .fs-16{font-size:16px}
 .fs-14{font-size:14px}
 .testi-div hr{border-top:5px solid #edecec;margin-bottom: 40px;}
+
+.div-masalah-new{background:#06182f;padding:40px 0;}
+.dl-guide img{position:relative;top:0;transition:all 0.1s linear;}
+.dl-guide:hover img{top:-4px;box-shadow:0 0 15px #fff}

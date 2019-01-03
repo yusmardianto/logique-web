@@ -1,138 +1,22 @@
 ﻿@charset "UTF-8";
 @import url(https://fonts.googleapis.com/css?family=Lato:300,400,700,900);
 @import url(https://fonts.googleapis.com/css?family=Francois+One);
-@-ms-viewport {
-    width: device-width
-}
-
-@-o-viewport {
-    width: device-width
-}
-
-@viewport {
-    width: device-width
-}
-
-a,
-abbr,
-acronym,
-address,
-applet,
-article,
-aside,
-audio,
-b,
-big,
-blockquote,
-body,
-canvas,
-caption,
-center,
-cite,
-code,
-dd,
-del,
-details,
-dfn,
-div,
-dl,
-dt,
-em,
-embed,
-fieldset,
-figcaption,
-figure,
-footer,
-form,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-header,
-hgroup,
-html,
-i,
-iframe,
-img,
-ins,
-kbd,
-label,
-legend,
-li,
-mark,
-menu,
-nav,
-object,
-ol,
-output,
-p,
-pre,
-q,
-ruby,
-s,
-samp,
-section,
-small,
-span,
-strike,
-strong,
-sub,
-summary,
-sup,
-table,
-tbody,
-td,
-tfoot,
-th,
-thead,
-time,
-tr,
-tt,
-u,
-ul,
-var,
-video {
+@-ms-viewport {width: device-width}
+@-o-viewport {width: device-width}
+@viewport {width: device-width}
+a,b,body,caption,center,dd,div,em,footer,form,h1,h2,h3,h4,h5,h6,header,html,i,iframe,img,label,li,menu,nav,ol,p,section,small,span,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,u,ul,video {
     margin: 0;
     padding: 0;
     border: 0;
     font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
     line-height: 1.5
 }
-
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-menu,
-nav,
-section {
-    display: block
-}
-
-a {
-    outline: 0!important
-}
-
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {display: block}
+a {outline: 0!important}
 a:focus,
-a:hover {
-    text-decoration: none
-}
-
-dfn,
-em {
-    font-style: italic!important
-}
-
-strong {
-    font-weight: 700!important
-}
-
+a:hover {text-decoration: none}
+em {font-style: italic!important}
+strong {font-weight: 700!important}
 .no-gap [class*="-6"],
 .no-gap [class*="-8"],
 .no-gap [class*="-3"],
@@ -144,13 +28,11 @@ strong {
     padding-left: 0;
     padding-right: 0
 }
-
 .wrapper {
     position: relative;
     max-width: 1600px;
     margin: 0 auto
 }
-
 .logique-nav {
     width: 95px;
     background: rgba(255, 202, 19, .9);
@@ -1620,7 +1502,8 @@ blockquote {
 
 #job-opening {
     background: #ffca13;
-    padding: 0 0 50px
+    padding: 0 0 50px;
+	z-index: 1001;
 }
 
 .title-job img {
@@ -3090,6 +2973,9 @@ video.vd-log{
     50% {margin-top: -10px;}
     100% {margin-top: 0px;}
 }
+.floating-banner{position: fixed;top: 300px;left: 0;cursor: pointer;-webkit-transition: all 0.5s ease-in-out;-o-transition: all 0.5s ease-in-out;transition: all 0.5s ease-in-out;z-index: 1000;}
+.img-floating{position: absolute;left: 15px;}
+.bubble-urgent{position: absolute;left: 40px;top: -75px;}
 
 
 @media (max-width:1199px) {
@@ -3110,6 +2996,9 @@ video.vd-log{
 	.onhover:hover {height: auto;}
 }
 @media (max-width:767px) {
+	.floating-banner {top: auto;bottom: 140px;}
+	.col-benefit .content-benefits .valign-center{padding:0}
+	.content-benefits{height: 245px;}
 	.footer-title {margin-top: 20px;border-bottom: 2px solid #ffca13;padding-bottom: 3px;display: inline-block;}
 	.carousel-home-new .carousel-control .icon-next, .carousel-home-new .carousel-control .glyphicon-chevron-right {right: 5.5%!important;position: fixed!important;top: 55%!important;}
 	.carousel-home-new .carousel-control .icon-prev, .carousel-home-new .carousel-control .glyphicon-chevron-left {left: 5%!important;position: fixed!important;top: 55%!important;}

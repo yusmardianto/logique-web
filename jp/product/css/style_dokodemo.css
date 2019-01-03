@@ -341,3 +341,7 @@ footer p{padding: 22px 0px;}
 @media (max-width:1199px) {
 	.poster-main{width: 100%!important;overflow: hidden;}
 }
+
+.div-masalah-new{background:#06182f;padding:40px 0;}
+.dl-guide img{position:relative;top:0;transition:all 0.1s linear;}
+.dl-guide:hover img{top:-4px;box-shadow:0 0 15px #fff}

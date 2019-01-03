@@ -130,8 +130,19 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
+					<div style="background:#fff">
+						<br/>
+						<div class="row">
+							<div class="col-sm-6">
+								<a href="/jp/services/mekanisme-pembuatan-website/" target="_blank"><img src="/img/banner1-jpn.jpg" alt="Mekanisme Pembuatan Website" style="width:100%"/></a>
+							</div>
+							<div class="col-sm-6">
+								<a href="/jp/services/pembuatan-sistem-web/" target="_blank"><img src="/img/banner2-jpn.jpg" alt="Pembuatan Sistem Website" style="width:100%"/></a>
+							</div>
+						</div>
+						<br/>
+					</div>
 					<div class="form-container">
-						<br/><br/>
 						<div class="panel-group" id="vacancy">
 						  <div class="panel panel-default">
 							<div class="panel-heading">

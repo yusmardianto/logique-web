@@ -34,8 +34,8 @@ header h1 {
 .about {
 	background-color: #fff;
 }
-.about h1 {font-weight: 200;font-size: 30px;}
-.about p {font-size: 18px}
+.about h1 {font-weight: 200;font-size: 26px;}
+.about p {font-size: 16px;text-align: justify;}
 .p-b-20 {padding-bottom: 20px}
 .custom-1 {background-color: #fef5cc;padding: 1em 4em}
 .custom-2 {width: 180px;margin-top: 11em;}
@@ -257,6 +257,18 @@ footer p:before {
 .margin-for-nav {
     margin-top: 0
 }
+
+h2.text-right:after {
+    content: "";
+    width: 17px;
+    height: 17px;
+    background: #ffce3c;
+    border: solid;
+    position: absolute;
+    border-radius: 2em;
+    right: -10px;
+}
+
 @media (min-width:1200px) {
     .margin-for-nav {
         top: 50%;
@@ -284,6 +296,7 @@ footer p:before {
         margin-right: 0;
         padding-top: 0
     }
+    h2.text-right:after {content: none;}
 }
 .img-about,
 .img-blog,
