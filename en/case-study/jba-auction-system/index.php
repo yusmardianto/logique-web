@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" itemprop="description" content="ZuttoRide Indonesia is a consulting company oriented to the needs of the community and service to prosper the world of motorbikes in Indonesia. This company was founded to create a driving experience that has never existed in Indonesia.">
+  <meta name="description" itemprop="description" content="JBA Indonesia is a company engaged in large scale auction and headquartered in Japan. This company specifically auctioned various automotive products, such as cars and motorbikes.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Case Study - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Case Study - JBA Auction System | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="ZuttoRide Indonesia is a consulting company oriented to the needs of the community and service to prosper the world of motorbikes in Indonesia. This company was founded to create a driving experience that has never existed in Indonesia.">
+	<meta property="og:description" content="JBA Indonesia is a company engaged in large scale auction and headquartered in Japan. This company specifically auctioned various automotive products, such as cars and motorbikes.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <script>
@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Case Study - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia</title>
+  <title>Case Study - JBA Auction System | LOGIQUE Digital Indonesia</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">	
 	</noscript>
@@ -49,7 +49,7 @@
             <div class="col-xs-6 text-right">
               <ul>
                 <li class="active"><a href="#">EN</a></li>
-                <li><a href="/case-study/zuttoride-customer-management-system/">ID</a></li>
+                <li><a href="/case-study/jba-auction-system/">ID</a></li>
                 <li><a href="#">JP</a></li>
               </ul>
             </div>
@@ -65,7 +65,7 @@
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
-				<div class="logique-nav">
+      <div class="logique-nav">
 					<div class="margin-for-nav">
 						<div class="text-center">
 							<a href="/en">
@@ -117,8 +117,7 @@
       <div class="cs-wrap">
         <section class="cs-top">
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
-          <h1 class="cs-title">ZuttoRide CRM</h1>
-          <h2 class="cs-title-2">Customer Management System</h2>
+          <h1 class="cs-title">JBA Auction System</h1>
         </section>
         <section class="cs-section">
           <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">
@@ -127,9 +126,9 @@
               <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">ZuttoRide Indonesia</h2>
+              <h2 class="cs-subtitle">JBA Indonesia</h2>
               <p class="cs-desc">
-                ZuttoRide Indonesia is a consulting company oriented to the needs of the community and service to prosper the world of motorbikes in Indonesia. This company was founded to create a driving experience that has never existed in Indonesia. With our motto, "For All Riders", we intend to provide 24-hour service for motorbike riders spread throughout Indonesia.
+              JBA Indonesia is a company engaged in large scale auction and headquartered in Japan. This company specifically auctioned various automotive products, such as cars and motorbikes. JBA itself won the award as the most innovative auction hall in 2013 and 2014 in Indonesia. With a motto of trustworthy, safe, practical, and comfortable, JBA is able to provide professional services to make partners and customers satisfied.
               </p>
             </div>
           </div>
@@ -141,9 +140,11 @@
               <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2">
             </div>
             <div class="col-sm-6">
-              <h2 class="cs-subtitle">Background of System Development</h2>
+              <h2 class="cs-subtitle">Background</h2>
               <p class="cs-desc">
-              As a company engaged in consulting services and motorcycle insurance, ZuttoRide needs a system that is able to integrate and carry out management for motorbike insurance customers, especially for Kawasaki dealers who are official partners of ZuttoRide Indonesia. <br><br>To make this happen, ZuttoRide, in collaboration with LOGIQUE DIGITAL INDONESIA, decided to create a system called ZuttoRide CRM. The creation and development of ZuttoRide CRM system carried out between ZuttoRide and LOGIQUE DIGITAL INDONESIA has also been going on for a long time, which is almost around 4 years and is now entering the 14th phase in improving their systems.
+              SAs one of the best auction companies in Indonesia, of course we have many customers that we must serve. In addition, there are more and more vehicles that we have to auction off every month. This certainly makes us difficult if we do it manually. Therefore, we need a system that is able to help us deal with these problems in order to increase company profits.
+              <br><br>
+              In order for such a system to be realized, we collaborated with LOGIQUE DIGITAL INDONESIA to create the web system. LOGIQUE was chosen because they have a good reputation in the field of web development. In addition, LOGIQUE has also been trusted by various national and international companies to deal with various problems in the digital world.
               <br><br>
               </p>
             </div>
@@ -157,9 +158,33 @@
               <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">Technology Applied</h2>
+              <h2 class="cs-subtitle">Teknologi yang digunakan</h2>
               <p class="cs-desc">
-              Before making a web system that is expected by ZuttoRide, LOGIQUE DIGITAL INDONESIA will  firstly discuss the system to be used. From the results of the discussion, the team from LOGIQUE understands that the website desired by ZuttoRide requires high customization and scalability. Therefore, LOGIQUE recommends the CakePHP framework-based web system development technology as the basis of the system. <br><br>CakePHP itself is a PHP framework that is generally used by developers of an application or website, starting from a simple level to a complex one. In addition, this framework also uses the latest technology that supports the latest PHP, namely PHP 5.4 which has the advantage of being able to access the database quite easily and flexibly. Not only that, CakePHP has also used Model View Controller (MVC) technology which is able to facilitate a programmer in developing a website. In terms of security, the CakePHP framework also has a very good security system to prevent data leakage or theft.
+              To create JBA auction system, LOGIQUE uses the latest web technology that is used by professional web developers, local and abroad, namely NodeJS, SocketIO, and Android Native.
+              <br><br>
+              These three technologies have been widely recognized by programmers and professional web developers as the latest technology development systems that can help users to send data quickly and accurately.
+              <br><br>
+              <a class="btn btn-cs" data-toggle="modal" href='#modal-id'>Detail</a>
+              <div class="modal fade" id="modal-id">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                      <h4 class="modal-title">The Technology Applied</h4>
+                    </div>
+                    <div class="modal-body">
+                    To create JBA auction system, LOGIQUE uses the latest web technology that is used by professional web developers, local and abroad, namely NodeJS, SocketIO, and Android Native.<br><br>
+                    These three technologies have been widely recognized by programmers and professional web developers as the latest technology development systems that can help users to send data quickly and accurately.<br><br>
+                    NodeJS was chosen because LOGIQUE felt that in making an online auction system, a machine that is able to execute Javascript is needed to run quickly and has good performance. This is because the online JBA auction system involves many users and data so that a high-tech engine system is needed as a solution.<br><br>
+                    SocketIO is also chosen as an intermediary media to accommodate all data shipments in real time so that the data obtained by users who are conducting online auctions in JBA is the actual real data.<br><br>
+                    In order for users to conduct online auctions at JBA anytime and anywhere, LOGIQUE finally uses Android Native technology so that the online auction system can be used on smartphone users with better and faster performance so that the data obtained is also the actual real time data.
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               </p>
             </div>
           </div>
@@ -168,9 +193,9 @@
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="cs-subtitle text-center">ZuttoRide CRM System Results</h2>
+              <h2 class="cs-subtitle text-center">JBA Auction System</h2>
               <p class="cs-desc text-center">
-              After developing the customer management system (CRM) by ZuttoRide, they got positive results for both ZuttoRide, as well as dealers and customers, especially in terms of data integration, making it easier for ZuttoRide to know specifically the information about dealers and customers who work with them as motorcycle insurance provider/rider.
+              Before creating an online auction system, we had difficulty in accommodating the needs of customers who wanted to conduct an auction. Not to mention if the number of vehicles auctioned is quite a lot, which of course will make our staff unable to focus so the potential for the occurrence of lost data and errors in the auction process is quite large. However, after carrying out the JBA Auction System made by LOGIQUE and all of our services made well-automated, we feel that our work is far more effective and efficient without worrying about customer data being lost or damaged.
               </p>
               <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block">
             </div>
@@ -194,7 +219,7 @@
               <div class="col-md-8">
                 <h2>About Us</h2>
                 <br/>
-                As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.<br/>
+                As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture. <br/>
                 <div class="visible-sm visible-xs"><br/></div>
               </div>
               <div class="col-md-4">

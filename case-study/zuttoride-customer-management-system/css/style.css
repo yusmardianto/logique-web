@@ -56,14 +56,23 @@ body, h1, h2, p {
   font-size: 48px;
   font-weight: 500;
 }
+.cs-title-2 {
+  position: absolute;
+  content: '';
+  display: inline-block;
+  top: 43%;
+  right: 10%;
+  font-size: 32px;
+  font-weight: 500;
+}
 
 .cs-subtitle {
-  font-size: 48px;
+  font-size: 32px;
   font-weight: 500;
 }
 
 .cs-desc {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .cs-section {
@@ -76,7 +85,7 @@ body, h1, h2, p {
 }
 
 .cs-section:nth-child(3) {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .cs-section:nth-child(4) {
@@ -119,15 +128,16 @@ body, h1, h2, p {
 
 .cs-orm {
   position: absolute;
-  z-index: -1;
 }
 
 .cs-orm-1 {
+  z-index: -1;
   right: 0;
   bottom: -130px;
 }
 
 .cs-orm-2 {
+  z-index: -1;
   left: 0;
   top: -50px;
 }
@@ -141,7 +151,7 @@ body, h1, h2, p {
 }
 
 .cs-img-3 {
-  top: -50px;
+  top: 10px;
   left: 70px;
 }
 

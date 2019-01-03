@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" itemprop="description" content="ZuttoRide Indonesia is a consulting company oriented to the needs of the community and service to prosper the world of motorbikes in Indonesia. This company was founded to create a driving experience that has never existed in Indonesia.">
+  <meta name="description" itemprop="description" content="VIP Plaza merupakan online store fashion dan kecantikan di Indonesia yang terus mengalami perkembangan setiap harinya. Online store fashion ini menawarkan lebih dari 30.000 produk dari 800 brand lokal favorit serta beragam internasional ternama.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Case Study - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Studi Kasus - VIP Plaza PWA (Progressive Web App) | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="ZuttoRide Indonesia is a consulting company oriented to the needs of the community and service to prosper the world of motorbikes in Indonesia. This company was founded to create a driving experience that has never existed in Indonesia.">
+	<meta property="og:description" content="VIP Plaza merupakan online store fashion dan kecantikan di Indonesia yang terus mengalami perkembangan setiap harinya. Online store fashion ini menawarkan lebih dari 30.000 produk dari 800 brand lokal favorit serta beragam internasional ternama.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Case Study - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia</title>
+  <title>Studi Kasus - VIP Plaza PWA (Progressive Web App) | LOGIQUE Digital Indonesia</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">	
 	</noscript>
@@ -44,12 +44,12 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-6">
-              <img src="../../../img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
+              <img src="../../../img/logo.png" alt="LOGIQUE"><span>STUDI KASUS</span>
             </div>
             <div class="col-xs-6 text-right">
               <ul>
-                <li class="active"><a href="#">EN</a></li>
-                <li><a href="/case-study/zuttoride-customer-management-system/">ID</a></li>
+                <li><a href="/en/case-study/vip-plaza-progressive-web-app/">EN</a></li>
+                <li class="active"><a href="#">ID</a></li>
                 <li><a href="#">JP</a></li>
               </ul>
             </div>
@@ -65,42 +65,42 @@
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
-				<div class="logique-nav">
+      <div class="logique-nav">
 					<div class="margin-for-nav">
 						<div class="text-center">
-							<a href="/en">
+							<a href="/">
 								<div class="img-home"></div>
-								Home
+								Beranda
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/en/about.php">
+							<a href="/tentang-kami.php">
 								<div class="img-about"></div>
-								About Us
+								Tentang Kami
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/en/portfolio.php">
+							<a href="/portofolio.php">
 								<div class="img-portfolio"></div>
 								Portfolio
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/en/services.php">
+							<a href="/layanan.php">
 								<div class="img-services"></div>
-								Services
+								Layanan
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/en/joinus.php">
+							<a href="/karir.php">
 								<div class="img-career"></div>
-								Career
+								Karir
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/en/contact.php">
+							<a href="/hubungi-kami.php">
 								<div class="img-contact"></div>
-								Contact Us
+								Hubungi Kami
 							</a>
 						</div>
 						<div class="text-center">
@@ -117,8 +117,8 @@
       <div class="cs-wrap">
         <section class="cs-top">
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
-          <h1 class="cs-title">ZuttoRide CRM</h1>
-          <h2 class="cs-title-2">Customer Management System</h2>
+          <h1 class="cs-title">VIP Plaza</h1>
+          <h2 class="cs-title-2">Progressive Web App</h2>
         </section>
         <section class="cs-section">
           <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">
@@ -127,9 +127,9 @@
               <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">ZuttoRide Indonesia</h2>
+              <h2 class="cs-subtitle">VIP Plaza</h2>
               <p class="cs-desc">
-                ZuttoRide Indonesia is a consulting company oriented to the needs of the community and service to prosper the world of motorbikes in Indonesia. This company was founded to create a driving experience that has never existed in Indonesia. With our motto, "For All Riders", we intend to provide 24-hour service for motorbike riders spread throughout Indonesia.
+              VIP Plaza merupakan online store fashion dan kecantikan di Indonesia yang terus mengalami perkembangan setiap harinya. Online store fashion ini menawarkan lebih dari 30.000 produk dari 800 brand lokal favorit serta beragam internasional ternama. Bukan hanya itu saja, VIP Plaza juga menawarkan konsep belanja “Flash Sale” setiap harinya sehingga membuat pengalaman berbelanja Anda menjadi semakin seru dan menyenangkan. Selain itu, online store ini juga memberikan berbagai fitur menarik yang tentunya memudahkan Anda saat berbelanja.
               </p>
             </div>
           </div>
@@ -141,10 +141,11 @@
               <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2">
             </div>
             <div class="col-sm-6">
-              <h2 class="cs-subtitle">Background of System Development</h2>
+              <h2 class="cs-subtitle">Latar Belakang</h2>
               <p class="cs-desc">
-              As a company engaged in consulting services and motorcycle insurance, ZuttoRide needs a system that is able to integrate and carry out management for motorbike insurance customers, especially for Kawasaki dealers who are official partners of ZuttoRide Indonesia. <br><br>To make this happen, ZuttoRide, in collaboration with LOGIQUE DIGITAL INDONESIA, decided to create a system called ZuttoRide CRM. The creation and development of ZuttoRide CRM system carried out between ZuttoRide and LOGIQUE DIGITAL INDONESIA has also been going on for a long time, which is almost around 4 years and is now entering the 14th phase in improving their systems.
+              Sebagai salah satu online store fashion yang terus berkembang, tentunya membuat VIP Plaza merasa perlu untuk meningkatkan teknologi yang dimilikinya agar dapat terus bersaing. Karena itu, mereka mempunyai keinginan untuk membuat sebuah Progressive web app (PWA) yang bertujuan untuk menarik kunjungan para pengguna mobile yang ingin membeli berbagai barang kebutuhan pribadi mereka, seperti pakaian, sepatu, tas, jam tangan, serta berbagai aksesoris kebutuhan hidup lainnya dengan pengalaman berbelanja yang berbeda dari online store fashion lainnya, tanpa perlu menginstall atau memasang aplikasi yang menyebabkan performa smartphone menjadi berkurang, namun tetap mampu memberikan fungsionalitas offline meski pengguna mempunyai koneksi Internet yang lambat atau tidak stabil.
               <br><br>
+              Untuk membuat progressive web app yang mereka inginkan, VIP Plaza merasa perlu bekerja sama dengan LOGIQUE DIGITAL INDONESIA untuk membantu mereka dalam mengembangkan sistem yang akan mereka kembangkan tersebut. Sistem PWA ini diharapkan mampu meningkatkan performa web app agar menjadi lebih baik. Selain itu, sistem PWA juga telah menciptakan standar baru untuk aplikasi yang dapat diinstal dan telah didukung oleh setiap platform sehingga membuat user experience yang berbeda dalam berbelanja.
               </p>
             </div>
           </div>
@@ -157,9 +158,11 @@
               <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">Technology Applied</h2>
+              <h2 class="cs-subtitle">Teknologi yang diterapkan</h2>
               <p class="cs-desc">
-              Before making a web system that is expected by ZuttoRide, LOGIQUE DIGITAL INDONESIA will  firstly discuss the system to be used. From the results of the discussion, the team from LOGIQUE understands that the website desired by ZuttoRide requires high customization and scalability. Therefore, LOGIQUE recommends the CakePHP framework-based web system development technology as the basis of the system. <br><br>CakePHP itself is a PHP framework that is generally used by developers of an application or website, starting from a simple level to a complex one. In addition, this framework also uses the latest technology that supports the latest PHP, namely PHP 5.4 which has the advantage of being able to access the database quite easily and flexibly. Not only that, CakePHP has also used Model View Controller (MVC) technology which is able to facilitate a programmer in developing a website. In terms of security, the CakePHP framework also has a very good security system to prevent data leakage or theft.
+              Dalam membuat sistem VIP Plaza PWA (Progressive Web App), teknologi yang digunakan adalah Next.JS yang berbasis React.JS. Framework ini merupakan kerangka JavaScript universal yang mampu beroperasi di browser dan server. Framework ini berasal dari sebuah start-up bernama zeit, dan menjadikan Next.js sebagai kerangka kerja pilihan universal dan terpopuler di tahun 2018. Framework ini menawarkan cara pengembangan yang mudah saat Anda menggunakan React.js sebagai template-nya.
+              <br><br>
+              Framework Next.JS ini dipilih dalam pengembangan sistem ini, karena memiliki keunggulan seperti, seluruh komponen Anda di dalam folder “pages” mendapatkan server-rendered secara otomatis, SEO Friendly, serta berbagai keuntungan lainnya yang mendukung pengembangan sistem PWA yang akan dilakukan. 
               </p>
             </div>
           </div>
@@ -168,9 +171,9 @@
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="cs-subtitle text-center">ZuttoRide CRM System Results</h2>
+              <h2 class="cs-subtitle text-center">Hasil VIP Plaza PWA (Progressive Web App)</h2>
               <p class="cs-desc text-center">
-              After developing the customer management system (CRM) by ZuttoRide, they got positive results for both ZuttoRide, as well as dealers and customers, especially in terms of data integration, making it easier for ZuttoRide to know specifically the information about dealers and customers who work with them as motorcycle insurance provider/rider.
+              Kerjasama yang dilakukan antara VIP Plaza dengan LOGIQUE DIGITAL INDONESIA berhasil melakukan pengembangan sistem VIP Plaza PWA (Progressive Web App) dalam jangka waktu 3 bulan, dimana dengan adanya sistem ini mampu memberikan perubahan bagi bisnis yang dilakukan oleh pihak VIP Plaza dalam peningkatan jumlah visitor ke website mereka serta memberikan pengalaman yang baru bagi para pengguna mobile dalam melakukan transaksi jual-beli tanpa melakukan penginstallan aplikasi yang cukup kompleks dan memakan banyak data.
               </p>
               <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block">
             </div>
@@ -178,27 +181,27 @@
           <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
         </section>
         <section class="cs-bottom">
-          <h2 class="cs-subtitle">About <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
+          <h2 class="cs-subtitle">Tentang <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
           <p class="cs-desc">
-          As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.
+          LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. <br/>
           </p>
-          <a href="/en/contact.php" class="btn btn-cs-bottom">Contact Us</a>
-          <a href="/en/services.php" class="btn btn-cs-bottom">Our Services</a>
-          <a href="/en/portfolio.php" class="btn btn-cs-bottom">Portfolio</a>
-          <a href="/en/services/mekanisme-pembuatan-website/" class="btn btn-cs-bottom">Web Development</a>
-          <a href="/en/services/pembuatan-sistem-web/" class="btn btn-cs-bottom">Web System Development</a>
+          <a href="/hubungi-kami.php" class="btn btn-cs-bottom">Kontak Kami</a>
+          <a href="/layanan.php" class="btn btn-cs-bottom">Layanan Kami</a>
+          <a href="/portofolio.php" class="btn btn-cs-bottom">Portfolio</a>
+          <a href="/layanan/mekanisme-pembuatan-website/" class="btn btn-cs-bottom">Ingin buat Website?</a>
+          <a href="/layanan/pembuatan-sistem-web/" class="btn btn-cs-bottom">Ingin buat Web System?</a>
         </section>
         <footer>
           <div class="container-fluid">
             <div class="row">
               <div class="col-md-8">
-                <h2>About Us</h2>
+                <h2>Tentang Kami</h2>
                 <br/>
-                As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.<br/>
+                LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. <br/>
                 <div class="visible-sm visible-xs"><br/></div>
               </div>
               <div class="col-md-4">
-                <h2>Contact Us</h2>
+                <h2>Hubungi Kami</h2>
                 <a href="/en/contact.php" target="_blank"><img alt="Logo" src="../../../img/logo.png" class="logo"/></a> <br />
                 Ad Premier Building 19th Floor. <br/>
                 Jalan Tb. Simatupang No. 5 <br/>
