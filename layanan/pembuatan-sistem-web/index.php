@@ -142,7 +142,7 @@ if(isset($_POST['submitted']))
 						</ul>
 					</div>
 					<div class="col-md-offset-7 col-md-5 m-t-10em">
-						<h1 class="text-left m-new">Cari Perusahaan Pembuatan Sistem Web? LOGIQUE AJA!</h1>
+						<h1 class="text-left m-new">Cari Perusahaan Pengembangan Sistem Web? LOGIQUE AJA!</h1>
 					</div>
 				</div>
 			</div>
@@ -160,7 +160,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-7 col-md-5">
-						<h1 class="new5">Komponen Sistem Pengembangan Web di <span class="underline">Logique</span></h1>
+						<h1 class="new5">Komponen Pengembangan Sistem Web di <span class="underline">LOGIQUE</span></h1>
 					</div>
 				</div>
 			</div>
@@ -170,8 +170,8 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-12">
 						<h4 class="style-3-h1">
-						<span class="tambah-lg hidden-sm hidden-md hidden-lg">Komponen Sistem Pengembangan Web di Logique<br><br></span>
-						Sebagai web developer berkualitas di Indonesia, kami memberikan layanan yang terbaik dan maksimal kepada para klien kami, terutama dalam memberikan berbagai komponen untuk sistem pengembangan web. Berikut ini adalah beberapa komponen sistem pengembangan web yang kami berikan kepada klien kami, antara lain yaitu:
+						<span class="tambah-lg hidden-sm hidden-md hidden-lg">Komponen Pengembangan Sistem Web di LOGIQUE<br><br></span>
+						Sebagai web developer berkualitas di Indonesia, kami memberikan layanan yang terbaik dan maksimal kepada para klien kami, terutama dalam memberikan berbagai komponen untuk pengembangan sistem web. Berikut ini adalah beberapa komponen pengembangan sistem web yang kami berikan kepada klien kami, antara lain yaitu:
 						</h4>
 					</div>
 				</div>
@@ -182,7 +182,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-3">
 						<h3 class="new1">[Infrastruktur Terencana]</h3>
-						<p class="new4">Perencanaan infrastruktur merupakan salah satu hal yang paling penting sebelum melakukan pengembangan sistem web. Karena itu, demi menjamin keberlangsungan bisnis Anda dari waktu ke waktu, LOGIQUE memberikan Anda layanan kelas atas dalam hal perancangan serta pengelolaan sistem web, dimana infrastruktur yang kami gunakan telah berbasis AWS (Amazon Web Service) yang merupakan standar layanan global cloud infrastruktur server yang cukup terkenal dan telah digunakan di berbagai perusahaan-perusahaan besar serta perusahaan startup terkenal lainnya.</p>
+						<p class="new4">Perencanaan infrastruktur merupakan salah satu hal yang paling penting sebelum melakukan pengembangan sistem web. Karena itu, demi menjamin keberlangsungan bisnis Anda dari waktu ke waktu, LOGIQUE memberikan Anda layanan kelas atas dalam hal perancangan serta pengelolaan sistem web, di mana infrastruktur yang kami gunakan telah berbasis AWS (Amazon Web Service) yang merupakan standar layanan global cloud infrastruktur server yang cukup terkenal dan telah digunakan di berbagai perusahaan-perusahaan besar serta perusahaan startup terkenal lainnya.</p>
 					</div>
 					<div class="col-md-3">
 						<h3 class="new1">[Sistem Keamanan Terkendali]</h3>
