@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" itemprop="description" content="VIP Plaza is an online store of fashion and beauty in Indonesia that continues to develop every day. This fashion online store offers more than 30,000 products from 800 favorite local brands and well-known international variety.">
+  <meta name="description" itemprop="description" content="Opus Park is an iconic suburban residential property developed by PT Izumi Sentul Realty, a Joint Venture (JV) company that consists of a leading property developer in Indonesia, Sentul City, and two well-known Japanese infrastructure companies, namely Sumitomo Corporation and Hankyu Hanshin Properties Corp.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Case Study - VIP Plaza Progressive Web App | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Case Study - Opus Park | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
+	<meta property="og:url" content="https://www.logique.co.id/en/case-study/opuspark/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="VIP Plaza is an online store of fashion and beauty in Indonesia that continues to develop every day. This fashion online store offers more than 30,000 products from 800 favorite local brands and well-known international variety.">
+	<meta property="og:description" content="Opus Park is an iconic suburban residential property developed by PT Izumi Sentul Realty, a Joint Venture (JV) company that consists of a leading property developer in Indonesia, Sentul City, and two well-known Japanese infrastructure companies, namely Sumitomo Corporation and Hankyu Hanshin Properties Corp.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <script>
@@ -49,7 +49,7 @@
             <div class="col-xs-6 text-right">
               <ul>
                 <li class="active"><a href="#">EN</a></li>
-                <li><a href="#">ID</a></li>
+                <li><a href="/case-study/opuspark/">ID</a></li>
                 <li><a href="#">JP</a></li>
               </ul>
             </div>

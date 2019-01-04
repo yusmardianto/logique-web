@@ -4,17 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" itemprop="description" content="ZuttoRide Indonesia is a consulting company oriented to the needs of the community and service to prosper the world of motorbikes in Indonesia. This company was founded to create a driving experience that has never existed in Indonesia.">
+  <meta name="description" itemprop="description" content="Caroline is a part of PT Triputra Group which is engaged in various industries such as agribusiness, manufacturing, and mining.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Case Study - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Case Study - Caroline, Cars Selling Site with Online Bidding System | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
+	<meta property="og:url" content="https://www.logique.co.id/en/case-study/caroline-bidding-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="ZuttoRide Indonesia is a consulting company oriented to the needs of the community and service to prosper the world of motorbikes in Indonesia. This company was founded to create a driving experience that has never existed in Indonesia.">
-	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
+	<meta property="og:description" content="Caroline is a part of PT Triputra Group which is engaged in various industries such as agribusiness, manufacturing, and mining.">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -49,7 +48,7 @@
             <div class="col-xs-6 text-right">
               <ul>
                 <li class="active"><a href="#">EN</a></li>
-                <li><a href="#">ID</a></li>
+                <li><a href="/case-study/caroline-bidding-system/">ID</a></li>
                 <li><a href="#">JP</a></li>
               </ul>
             </div>
