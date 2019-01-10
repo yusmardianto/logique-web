@@ -368,7 +368,7 @@
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
 						<div style="font-weight:bold;font-size:18px">
-							<span style="font-size:22px">URGENTLY NEEDED </span><br/>
+							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
 							Lead Consultant (di Jakarta) dengan minimal 3 tahun pengalaman
 						</div>
 						<br/>
@@ -413,7 +413,7 @@
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
 						<div style="font-weight:bold;font-size:18px">
-							<span style="font-size:22px">URGENTLY NEEDED </span><br/>
+							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
 							Pre-Sales Consultant (di Jakarta) dengan minimal 1 tahun pengalaman
 						</div>
 						<br/>
@@ -456,7 +456,7 @@
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
 						<div style="font-weight:bold;font-size:18px">
-							<span style="font-size:22px">URGENTLY NEEDED </span><br/>
+							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
 							Front End Developer (di Jakarta) dengan 1-2 tahun pengalaman untuk project React Js
 						</div>
 						<br/>
@@ -504,7 +504,7 @@
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
 					    <div style="font-weight:bold;font-size:18px">
-							<span style="font-size:22px">URGENTLY NEEDED </span><br/>
+							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
 							Quality Assurance (di Yogyakarta) dengan 1-2 tahun pengalaman
 						</div>
 						<br/>
@@ -549,7 +549,7 @@
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
 						<div style="font-weight:bold;font-size:18px">
-							<span style="font-size:22px">URGENTLY NEEDED </span><br/>
+							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
 							Technical Consultant (di Jakarta) dengan 1-2 tahun pengalaman
 						</div>
 						<br/>
@@ -581,6 +581,60 @@
 						</ul>
 						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" > <!--style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">-->
 							Apply for Technical Consultant
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
+							<img alt="Technical Consultant" src="../img/techcons.png" class="img-responsive"/>
+							<h4>Lowongan</h4>
+							<h5>Accounting & Tax Officer</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						<div style="font-weight:bold;font-size:18px">
+							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
+							Accounting & Tax Officer (di Jakarta) dengan 2 tahun pengalaman
+						</div>
+						<br/>
+						Bila Anda:
+						<ol style="margin-left:20px">
+							<li>Ahli dalam bidang accounting dan pajak</li>
+							<li>Menyukai hitung-berhitung mengenai perpajakan dan accounting</li>
+							<li>Up to date mengenai hukum perpajakan</li>
+						</ol>
+						LOGIQUE membuka peluang untuk Anda bergabung bersama kami.
+						<br/><br/>
+						<b>Tanggung jawab kerja:</b><br/>
+						<ul class="joinus-ul">
+							<li>Membuat Faktur Pajak dan e-faktur.</li>
+							<li>Mengisi formulir perpajakan PPN, PPh 21, PPh 23, dan lain-lain.</li>
+							<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
+							<li>Mempersiapkan permintaan pembayaran Pajak Bulanan dan SPT Tahunan.</li>
+							<li>Membuat rekap pajak.</li>
+							<li>Membuat laporan-laporan accounting.</li>
+							<li>Data entry bank payment dan rekonsiliasi bank.</li>
+							<li>Rekonsiliasi pemotongan PPH 23 dan Pasal 4 ayat 2.</li>
+						</ul><br/>
+						
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Berpengalaman minimal 2 tahun dibidang yang sama.</li>
+							<li>Pernah bekerja di KPP / Konsultan diutamakan.</li>
+							<li>Minimum pendidikan S1 dibidang accounting / pajak.</li>
+							<li>Brevet A B, diutamakan yang Brevet A B dan C.</li>
+							<li>Dapat mengoperasikan Microsoft Office dengan baik (terutama excel).</li>
+						</ul>
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" >
+							Apply for Accounting & Tax Officer
 						</a>
 					</div>
 				</div>
