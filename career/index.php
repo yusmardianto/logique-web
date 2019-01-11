@@ -449,7 +449,7 @@
 							<img alt="Front End" src="../img/frontend.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Front End</h5>
-							<h6>Dibutuhkan di Jakarta</h6>
+							<h6>Dibutuhkan di Jakarta dan Yogyakarta</h6>
 						</div>
 					</div>
 				</div>
@@ -457,7 +457,7 @@
 					<div class="div-job desc-job">
 						<div style="font-weight:bold;font-size:18px">
 							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
-							Front End Developer (di Jakarta) dengan 1-2 tahun pengalaman untuk project React Js
+							Front End Developer (di Jakarta dan Yogyakarta) dengan 1-2 tahun pengalaman untuk project React Js
 						</div>
 						<br/>
 						<b>Persyaratan:</b><br/>
