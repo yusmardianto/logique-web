@@ -142,7 +142,7 @@ if(isset($_POST['submitted']))
 						</ul>
 					</div>
 					<div class="col-md-offset-7 col-md-5 m-t-10em">
-						<h1 class="text-left m-new">The Making of Web Systems In Logique</h1>
+						<h1 class="text-left m-new">Looking for a Web System Development Company? LOGIQUE is at your service!</h1>
 					</div>
 				</div>
 			</div>
@@ -151,7 +151,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10 text-center">
-						<h1>“The definitive use of the latest technology for maximum service to clients and customers.”</h1>
+						<h1>"Utilizing the latest technology to increase your business profit."</h1>
 					</div>
 				</div>
 			</div>
@@ -160,7 +160,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-7 col-md-5">
-						<h1 class="new5">The <span class="underline">Technical</span> Summary</h1>
+						<h1 class="new5">Components of Web System Development at <span class="underline">LOGIQUE</span></h1>
 					</div>
 				</div>
 			</div>
@@ -168,26 +168,37 @@ if(isset($_POST['submitted']))
 		<section class="style-3">
 			<div class="container">
 				<div class="row">
+					<div class="col-md-12">
+						<h4 class="style-3-h1">
+						<span class="tambah-lg hidden-sm hidden-md hidden-lg">Komponen Pengembangan Sistem Web di LOGIQUE<br><br></span>
+						Sebagai web developer berkualitas di Indonesia, kami memberikan layanan yang terbaik dan maksimal kepada para klien kami, terutama dalam memberikan berbagai komponen untuk pengembangan sistem web. Berikut ini adalah beberapa komponen pengembangan sistem web yang kami berikan kepada klien kami, antara lain yaitu:
+						</h4>
+					</div>
+				</div>
+				<div class="row">
 					<div class="col-md-3">
-						<h3 class="new1">[Technology Usage]</h3>
-						<p class="new4">Technology is growing very rapidly. The proper use and methods of technology can provide maximum benefits for your system. As one of the top leading web development companies, Logique has been implementing the latest technology and programming language in web development, web systems, and mobile applications. Some of our implementations include AngularJS, Node.JS, Socket.IO, and Ionic Framework.</p>
+						<h3 class="new1">[Advanced Technology]</h3>
+						<p class="new4">With the development of technology nowadays, especially in the world of web development, it certainly encourages us to keep updating, studying, and applying it to the web system in order to provide maximum results so that it affects the level of website visits and your business profits. Some of the latest technologies that we have applied to our clients include AngularJS, Node.JS, Socket.IO, and Ionic Framework.</p>
 					</div>
 					<div class="col-md-3">
-						<h3 class="new1">[Infrastructure Planning]</h3>
-						<p class="new4">Amazon Web Service (AWS) has been widely recognized as a global standard of powerful server infrastructure cloud services. Both large and startup companies have used AWS services because they are able to provide high levels of security and availability as well as flexible scalability. In Indonesia, there are still very few companies that are able to make the most of AWS services. Logique comes with strong experience in designing and managing AWS-based infrastructure for companies in Indonesia.</p>
+						<h3 class="new1">[Planned Infrastructure]</h3>
+						<p class="new4">Infrastructure planning is one of the most important things before developing a web system. Therefore, in order to guarantee the sustainability of your business from time to time, LOGIQUE provides you with top-class services in terms of designing and managing web systems, where the infrastructure we use is based on AWS (Amazon Web Service) which is a standard global cloud infrastructure service server famous and has been used in various large companies and other well-known startup companies.</p>
 					</div>
 					<div class="col-md-3">
-						<h3 class="new1">[System Security]</h3>
-						<p class="new4">Security is one of the important factors in web systems development, especially if the system covers financial transactions such as e-commerce or storing important company data. As one of the most trusted developers in Indonesia, Logique provides a high level of security check services for websites and web systems.</p>
+						<h3 class="new1">[Controlled Security System]</h3>
+						<p class="new4">As the best web developer in Indonesia, LOGIQUE is aware that security is an important factor in the creation and development of web systems. Therefore, LOGIQUE provides security services on your web system optimally and thoroughly, especially for e-commerce websites or websites that are used to store various important data of the company so that it is not easy to be infiltrated by irresponsible people.</p>
 					</div>
 					<div class="col-md-3">
-						<h3 class="new1">[Development Speed]</h3>
-						<p class="new4">We understand the importance of your time and business. Therefore, we always try our best to produce the system in the most effective and efficient time without reducing the quality of the system.</p>
+						<h3 class="new1">[Quick & Precise]</h3>
+						<p class="new4">We understand the importance of time for your business. Therefore, we always strive to provide the best and optimal service for you by reducing the time in developing a web system efficiently and effectively as possible without reducing the quality of the system so that the results obtained are in accordance with what is desired in a predetermined period of time.</p>
 					</div>
 				</div>
 			</div>
 		</section>
-		<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
+		<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em">
+			<h3>LOGIQUE has been proven to help clients in achieving their business targets</h3>
+			<p>We have worked on national and international projects, one of which is the development of JBA auction system. Here's the case study.</p>
+		</section>
 		<section class="style-4">
 			<div class="container">
 				<div class="row">
@@ -199,11 +210,11 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10 m-t-10">
 									<h4><b>JBA Auction System</b></h4>
-									<p>JBA is one of the largest auction companies in Indonesia from Japan and currently located in Meruya. For JBA, we develop a comprehensive system for auction purposes that has a direct impact on their business. The system coverage that we make is from up to downstream, which includes registration, inspection, auction planning and administration, offline and online auction support, and reporting and accounting modules. Our work on this system is carried out with intensive communication and extreme details with each user according to their fields. This system continues to be developed over the past three years in the form of web systems and mobile applications.</p>
+									<p>BA is one of the largest Japanese car and motorcycle auction companies in Indonesia. The company is located in Meruya, West Jakarta and has collaborated with LOGIQUE in creating websites and developing a comprehensive web system for auction purposes, and the positive impact has been directly increasing to their business. That’s why we made a number of coverage systems that they wanted, starting from the registration, inspection, planning and administration process, auction support through offline and online, to the reporting process and the accounting module. The execution of this web system is carried out massively and intensively by communicating directly to users in accordance with their fields. In the last three years, this system has continued to be developed in the form of web systems and mobile applications.</p>
 								</div>
 							</div>
 							<div class="row">
-								<div class="box-2">Main Technology: NodeJS, SocketIO, Android Native</div>
+								<div class="box-2">Some of the technologies that we use in the JBA auction system include NodeJS, SocketIO, and Android Native.</div>
 							</div>
 						</div>
 					</div>
@@ -214,67 +225,134 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
-						<h1 class="new6"><span class="underline2">Q&A with</span><br>our clients</h1>
+						<h1 class="new6"><span class="underline2">Client</span><br>Testimonial</h1>
 					</div>
 					<div class="col-md-6">
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="new3">Q: How did you initially have the need to make this system?</h4>
-								<p>Client: At first we did a lot of things manually. With the number of vehicles that we had to auction in various branches in Indonesia, as well as the high interest of the customers, it made us difficult. There, we began to think about the need for an IT system that helps our business as a whole.</p>
+								<h4 class="new3">Q: How did the creation of this system begin?</h4>
+								<p>Client: We used to do a lot of things manually. With many vehicles that we have to auction at various branches in Indonesia and the high interest from customers, it’s certainly becoming more difficult for us to handle. It crossed our mind that there was a need for an IT system that helped our business as a whole so as to increase company profits.</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="new3">Q: What changes are felt after using the system created by Logique?</h4>
-								<p>Client: The impact is enormous. When everything is automated, the work we are doing becomes more effective and efficient. In terms of the risk of recording on books that may be damaged or lost, it is also avoided by the existing system. They also added a contribution to the environment by reducing paper use.</p>
+								<h4 class="new3">Q: What is the impact that is directly felt after using the system made by LOGIQUE?</h4>
+								<p>Client: The impact is enormous, when everything is well-automated, we feel that the work we do is far more effective and efficient. In terms of risk, recording on books that may be damaged or lost can be avoided by the current system. In addition, we also make a positive contribution to the surrounding environment by reducing the use of paper that we have been doing so far.</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="new3">Q: How is the experience of your collaboration with Logique in making this system?</h4>
-								<p>Client: We think that Logique team is really filled with competent people. I cannot imagine how our complex business processes can be made into a comprehensive system including small processes that cannot be missed, all can be fulfilled. We are satisfied with Logique&#39;s performance and recommend their services to all those in need.</p>
+								<h4 class="new3">Q: What is your collaboration experience with LOGIQUE in making this system?</h4>
+								<p>Client: We think the LOGIQUE team is really filled with people who are experts and experienced in their fields. I cannot imagine how our complex business processes can be made into a comprehensive system including small processes that cannot be missed so that everything can be fulfilled. We are very satisfied with LOGIQUE's performance with the team and recommend their services to all parties in need.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
+
 		<section class="style-7">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-4 col-md-7">
 						<div class="row">
 							<div class="col-md-9">
-								<h1 class="new2">The main keys to success of Logique’s system creation:</h2>
+								<h1 class="new2">Improve your business with LOGIQUE</h2>
+								<div class="new2-div">LOGIQUE always provides optimal service by prioritizing the best quality for all of our clients. That is because LOGIQUE has 4 important things which are the main keys in the success of a project, which are:</div>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
 								<h4 class="bold">Experience</h4>
-								<p>We have handled more than 200 projects from various industries in Indonesia, in terms of creating a website, web system, or mobile applications.</p>
+								<p>We have handled more than 200 projects from various industries in Indonesia, both in terms of website creation, web system development, and the creation and development of mobile applications.</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="bold">Acceleration</h4>
-								<p>Timeliness is very important to us. We always try to deliver results quickly so that the work we produce have an immediate impact on the client&#39;s business.</p>
+								<h4 class="bold">Speed</h4>
+								<p>For us, time is the most important thing we cannot just leave aside. Therefore, LOGIQUE always strives to work as effectively and efficiently as possible without reducing the quality of the project results.</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
 								<h4 class="bold">Quality</h4>
-								<p>We apply the best analysis and application methods in every development to produce high quality web systems and mobile applications, in functional, performance, and security aspects.</p>
+								<p>We apply analytical methods in order to be able to do the best application in every development and management of a project so that quality is maintained, both in the functional, performance, and safety aspects.</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
 								<h4 class="bold">Flexibility</h4>
-								<p>If you have a technical team, we are open for discussion about the details of the implementation, tools, or scheme that you want to use on a website, web system, or mobile application development.</p>
+								<p>We have a technical team that is always open to discuss with you, both in terms of details of the implementation, tools, or schemes that you want to use on the website, web system, or mobile application that you want to develop.</p>
 							</div>
 						</div>
 				</div>
 			</div>
 		</section>
+
+		<section class="layanan" style="margin-top: 0;padding-top: 1.5em;">
+			<div class="container">
+				<hr>
+					<h3 class="text-center"><b>Resource-Based System Developing Service</b></h3>
+				<hr>
+				<div class="row">
+					<div class="col-md-12">
+						<p class="text-justify custom-faq" style="background: white;border: dotted 2px;padding: 1em;">In addition to providing project-based services, LOGIQUE also provides resource-based services, especially for those of you who have projects with dynamic needs. With this service, you can rent our resources, such as Web Developers, Web Designers, and Mobile Application Developers with a number that is tailored to your needs in a certain period of time. Within the specified timeframe, our resources will be dedicated to working on your entire project professionally to get the best results for your business. For complete information, you can contact us by email to info@logique.co.id or via the telephone number at (021) 22708935/36. Feel free to talk to us in English, Indonesian, or Japanese.</p>
+					</div>
+				</div>
+				<hr>
+					<h3 class="text-center"><b>NEED OTHER SERVICES?</b></h3>
+				<hr>
+				<div style="background: white;border: dotted 2px;padding: 1em;">In addition to serving the creation and development of web systems, LOGIQUE also provides a variety of other services that you can choose to address all your digital business problems.</div>
+				<div class="row">
+					<div class="col-md-4">
+						<h2 class="custom-3">Creating a <br>Recruitment System</h2>
+						<p class="min-h">To make it easier for you to filter and communicate with job seekers, LOGIQUE provides a web-based recruitment system for your company. Through this system, you can do the recruitment process very easily and efficiently, because the system we create can be accessed and understood easily.</p>
+						<!-- <div>
+							<a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
+						</div> -->
+					</div>
+					<div class="col-md-4">
+						<h2 class="custom-3">Creating Employee <br>Evaluation System</h2>
+						<p class="min-h">If you are a manager who oversees many employees in a company, of course it will be difficult to evaluate the performance of its staff. Therefore, LOGIQUE offers you an application system that is able to assist you in evaluating the performance of staff, so that you can know and provide a detailed and transparent assessment of the performance of your employees.</p>
+						<!-- <div>
+							<a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
+						</div> -->
+					</div>
+					<div class="col-md-4">
+						<h2 class="custom-3">Creating Applications to Increase Employee Productivity</h2>
+						<p class="min-h">Employee productivity is one of the determinants for a company to move forward and develop. Therefore, LOGIQUE gives you a smart solution that can increase your employee productivity, which is an application creation service that can increase employee productivity in detail and transparently, even though the employee works with a remote system (freelance, remote worker, etc.). We provide this service starting from Rp1 million per month.</p>
+						<!-- <div>
+							<a href="/layanan/penetration-testing/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
+						</div> -->
+					</div>
+				</div>
+				<br class="hidden-xs">
+				<div class="row" style="background: rgba(255, 255, 255, 0.4);border: dotted 4px #ededed;">
+					<div class="col-md-12">
+					  <div class="custom-faq">
+						<h3 class="text-center"><b>Frequently Asked Questions (FAQ)</b></h3>
+						<hr>
+						<h2 class="custom-3">What is the price of creating a web system at LOGIQUE?</h2>
+						<p>
+						LOGIQUE serves creating web systems at customized prices according to your needs. For more details, you can contact us by email to info@logique.co.id or through the telephone number at (021) 227 089 35/36, or you can also via WhatsApp on the number 0812 9656 0380. You can talk to us in English, Indonesian, or Japanese.</p>
+						<h2 class="custom-3">What does LOGIQUE need from clients for the creation of web systems?</h2>
+						<p>
+						In creating a web system, clients need to provide business concepts or features that are desired in the web system. If needed, you can also submit various other supporting data to us.</p>
+						<h2 class="custom-3">How long does it take to create a web system?</h2>
+						<p>
+						Making a web system is very dependent on the level of complexity and the many features provided by you. For a simple web system it usually requires a start of 1 month.</p>
+						<h2 class="custom-3">Can LOGIQUE create an e-commerce website?</h2>
+						<p>
+						Of course, LOGIQUE has a lot of experience working on various e-commerce websites in various forms and tools. To find out what e-commerce websites we have done, you can see them in our portfolio.</p>
+						<h2 class="custom-3">How does LOGIQUE secure a web system?</h2>
+						<p>
+						LOGIQUE is aware that the security of a web system is the most important thing, especially if the website is an e-commerce website or website that is used to store various important data of the company. Therefore, LOGIQUE provides a full and comprehensive web system security service to all of our clients' web systems.</p>
+					  </div>
+					</div>
+				</div>
+			</div>
+		</section>
+
 		<section class="tahap-pemesanan-list">
 			<div class="border-top-list hidden-xs hidden-sm"></div>
 			<div class="container">
@@ -282,7 +360,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-6 col-md-6">
 						<h4><b>We are ready to assist you in creating web systems, and also:</b></h4>
 						<ul style="list-style-type: square;">
-							<li class="m-b-5">Make and/or operate the homepage</li>
+							<li class="m-b-5">Make and/or operate a homepage</li>
 							<li class="m-b-5">Rebuild and optimize it for mobile/smartphones</li>
 							<li class="m-b-5">Develop an Android/iOS application</li>
 							<li class="m-b-5">Operate an in-house management system</li>
