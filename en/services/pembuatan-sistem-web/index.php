@@ -171,7 +171,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-12">
 						<h4 class="style-3-h1">
 						<span class="tambah-lg hidden-sm hidden-md hidden-lg">Komponen Pengembangan Sistem Web di LOGIQUE<br><br></span>
-						Sebagai web developer berkualitas di Indonesia, kami memberikan layanan yang terbaik dan maksimal kepada para klien kami, terutama dalam memberikan berbagai komponen untuk pengembangan sistem web. Berikut ini adalah beberapa komponen pengembangan sistem web yang kami berikan kepada klien kami, antara lain yaitu:
+						As a quality web developer in Indonesia, we provide the best and maximum services to our clients, especially in providing various components for the web system development. Here are some crucial components of web system development that we provide to our clients:
 						</h4>
 					</div>
 				</div>
