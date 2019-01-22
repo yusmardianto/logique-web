@@ -358,7 +358,7 @@
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
-							<img alt="Front End" src="/img/techcons.png" class="img-responsive"/>
+							<img alt="Lead Consultant" src="/img/techcons.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Lead Consultant</h5>
 							<h6>Dibutuhkan di Jakarta</h6>
@@ -403,7 +403,7 @@
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
-							<img alt="Front End" src="/img/techcons.png" class="img-responsive"/>
+							<img alt="Pre-Sales Consultant" src="/img/techcons.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Pre-Sales Consultant</h5>
 							<h6>Dibutuhkan di Jakarta</h6>
@@ -462,25 +462,28 @@
 						<br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
-							<li>Berlatar belakang pendidikan dari Sistem Informasi, Teknologi Informasi atau sejenisnya.</li>
-							<li>Berpengalaman dalam pembuatan WEB/Sistem</li>
-							<li>Required Skill: HTML, CSS, ReactJS, NodeJS, Angular, Ionic, JQuery</li>
-							<li>Mengenal proses pengembangan website dengan baik.</li>
-							<li>Dapat belajar secara cepat dan mandiri.</li>
-							<li>Mempunyai minat yang besar terhadap bisnis Internet dan Web.</li>
-							<li>Mampu bekerja sebagai tim.</li>
-							<li>Berpendidikan minimal D3 dan berpengalaman minimal 2 tahun di bidang IT atau programmer</li>
+							<li>Berpengalaman menggunakan React.js</li>
+							<li>Berpengalaman menggunakan React.js workflow seperti Redux / Flux</li>
+							<li>Terbiasa menggunakan EcmaScript dengan versi terbaru</li>
+							<li>Terbiasa melakukan integrasi RESTful API</li>
+							<li>Memiliki kemampuan analisa dan debugging yang kuat</li>
+							<li>Berpengalaman menggunakan FrontEnd Development Tools seperti Babel, Webpack, NPM / Yarn atau sejenisnya</li>
+							<li>Familiar dengan versioning control system (VCS) seperti Git</li>
+							<li>Pengetahuan tentang PWA merupakan nilai tambah</li>
+							<li>Memiliki pengetahuan dalam isomorphic React merupakan nilai tambah</li>
+							<li>Pengalaman dalam coding PSD ke HTML-CSS merupakan nilai tambah</li>
+							<li>Pengalaman menggunakan CSS framework seperti bootstrap dan foundation merupakan nilai tambah</li>
+							<li>Pengalamaan dengan ExpressJS, mongoDB merupakan nilai tambah</li>
 						</ul><br/>
 						
 						<b>Job Description:</b><br/>
 						<ul class="joinus-ul">
-							<li>Memanfaatkan HTML, CSS, Javascript, atau bahasa pemrograman terkait tampilan lainnya untuk mengembangkan antarmuka pengguna yang efektif pada website dan aplikasi.</li>
-							<li>Bekerja sama dan berkolaborasi dengan tim developer dan desainer untuk membuat, memperbarui, atau memperbaiki UI/UX website dan aplikasi.</li>
-							<li>Memberikan kualitas hasil terbaik dan tepat waktu sesuai dengan teknologi UI/UX terkini dan/atau yang sesuai dengan kebutuhan proyek.</li>
-							<li>Memastikan kompatibilitas browser atau ukuran layar pada halaman-halaman website dan aplikasi yang dihasilkan.</li>
-							<li>Membuat kode yang terstruktur dan dapat digunakan kembali untuk kemudahan pengembangan atau perubahan di masa depan</li>
-							<li>Memonitor dan mengoptimalkan performa website atau aplikasi dari sisi front-end.</li>
-							<li>Berkomunikasi langsung dengan klien terkait UI/UX jika diperlukan.</li>
+							<li>Mengembangkan dan mengkonversi kode HTML ke ReactJS.</li>
+							<li>Mengintegrasikan ReactJS dengan API.</li>
+							<li>Sewaktu-waktu dapat melakukan coding HTML-CSS (responsive design and lintas browser).</li>
+							<li>Bekerjasama dan berkolaborasi dengan tim backend-developer dan designer dalam menghasilkan team-results yang optimal.</li>
+							<li>Melakukan perbaikan performance dengan optimasi code pada sisi aplikasi.</li>
+							<li>Melakukan analisa dan riset dalam menerapkan teknologi terkait terkini sesuai kebutuhan client.</li>
 						</ul>
 						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Front End

@@ -2384,7 +2384,7 @@ blockquote::before {
 }
 
 .paragraph-karir {
-    line-height: 30px;
+    line-height: unset;
     margin-top: 15px
 }
 
