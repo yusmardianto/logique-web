@@ -594,6 +594,65 @@
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
+							<img alt="Digital Marketing Strategist" src="../img/techcons.png" class="img-responsive"/>
+							<h4>Lowongan</h4>
+							<h5>Digital Marketing Strategist</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						<b>Tanggung jawab:</b><br/>
+						<ul class="joinus-ul">
+							<li>Menganalisis dan memantau kinerja situs web, iklan online, dan media sosial dengan berbagai platform.</li>
+							<li>Menyarankan strategi untuk meningkatkan kinerja berdasarkan analisis.</li>
+							<li>Terus menyesuaikan kinerja setiap platform dan situs web untuk mendapatkan hasil yang lebih baik dengan berkolaborasi dengan web developer dan content writer.</li>
+						</ul><br/>
+						
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Minimal 2 tahun pengalaman dalam web development / agensi digital marketing.</li>
+							<li>Mampu berpikir logis & strategis.</li>
+							<li>Terbiasa dengan SEO dan optimasi web dalam hal teknis dan konten.</li>
+							<li>Terbiasa dalam menganalisis dan mengoptimalkan tool yang terkait dengan digital marketing:
+								<ul class="joinus-ul">
+									<li>Google Analytics</li>
+									<li>Google Ads (Search Ads, GDN Ads, Youtube Ads)</li>
+									<li>Facebook / Instagram Ads</li>
+									<li>Twitter Ads</li>
+								</ul>
+							</li>
+							<li>Berpengalaman dalam hal konsultasi dengan klien
+								<ul class="joinus-ul">
+									<li>Pelaporan</li>
+									<li>Diskusi</li>
+									<li>Pemberian saran</li>
+								</ul>
+							</li>
+						</ul><br/>
+						
+						<b>Lebih disukai (tidak harus dimiliki):</b><br/>
+						<ul class="joinus-ul">
+							<li>Keterampilan programming.</li>
+							<li>Bahasa Inggris yang komunikatif.</li>
+							<li>Keterampilan menulis konten.</li>
+							<li>Keterampilan operasi media sosial.</li>
+							<li>Keterampilan desain.</li>
+						</ul>
+						
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" >
+							Apply for Digital Marketing Strategist
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
 							<img alt="Technical Consultant" src="../img/techcons.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Accounting & Tax Officer</h5>
@@ -690,50 +749,6 @@
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
-							<img alt="Content Writer" src="../img/contenwriter.png" class="img-responsive"/>
-							<h4>Lowongan</h4>
-							<h5>IT Content Writer</h5>
-							<h6>Dibutuhkan di Jakarta</h6>
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-8">
-					<div class="div-job desc-job">
-						Content Writer membantu menciptakan konten yang sesuai dengan perusahaan, produk, atau jasa yang ditampilkan pada website sehingga memudahkan pembaca memperoleh informasi yang sesuai.<br/><br/>
-						<b>Persyaratan:</b><br/>
-						<ul class="joinus-ul">
-							<li>Memiliki pengalaman kerja sebagai Content Writer, Copywriter atau peran serupa.</li>
-							<li>Mempunyai portofolio artikel yang pernah dipublikasikan adalah nilai tambah.</li>
-							<li>Berpengalaman melakukan penelitian menggunakan banyak sumber.</li>
-							<li>Familiar dengan publikasi web.</li>
-							<li>Memiliki kemampuan menulis dan mengedit yang sangat baik dalam bahasa Inggris dan Indonesia.</li>
-							<li>Mempunyai pengalaman langsung dengan Content Management Systems (misalnya WordPress).</li>
-							<li>Terbiasa bekerja dengan deadline.</li>
-							<li>Berpendidikan minimal D3 atau S1 Sastra Inggris, Ilmu Jurnalistik, Ilmu Komunikasi, Humas, atau yang relevan.</li>
-						</ul><br/>
-						
-						<b>Tanggung Jawab:</b><br/>
-						<ul class="joinus-ul">
-							<li>Meneliti topik yang berhubungan dengan industri penelitian (menggabungkan sumber online, wawancara, dan studi).</li>
-							<li>Membuat konten pemasaran yang jelas untuk mempromosikan produk/layanan kami.</li>
-							<li>Menyiapkan draft terstruktur dengan baik menggunakan Content Management Systems dan mengedit konten dan elemen blog sebelum dipublikasikan.</li>
-							<li>Berkoordinasi dengan tim untuk mengilustrasikan artikel.</li>
-							<li>Melakukan penelitian kata kunci sederhana dan gunakan panduan SEO untuk meningkatkan web traffic.</li>
-							<li>Mengidentifikasi kebutuhan dan kesenjangan pelanggan dalam konten kami dan rekomendasikan topik baru.</li>
-							<li>Up to date untuk konten situs web sesuai kebutuhan.</li>
-						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
-							Apply for IT Content Writer
-						</a>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-			<hr class="separator-career"></hr>
-			<div class="one-job-opening">
-				<div class="col-sm-4" style="padding:0">
-					<div class="div-job title-job">
-						<div class="valign-center">
 							<img alt="Mobile App Developer" src="../img/mobdev.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Mobile App Developer</h5>
@@ -811,6 +826,51 @@
 						</ul>
 						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Project Manager
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
+							<img alt="Content Writer" src="../img/contenwriter.png" class="img-responsive"/>
+							<h4>Lowongan</h4>
+							<h5>IT Content Writer</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
+							<div style="margin-top:10px;font-weight:400">(On Hold)</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						Content Writer membantu menciptakan konten yang sesuai dengan perusahaan, produk, atau jasa yang ditampilkan pada website sehingga memudahkan pembaca memperoleh informasi yang sesuai.<br/><br/>
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Memiliki pengalaman kerja sebagai Content Writer, Copywriter atau peran serupa.</li>
+							<li>Mempunyai portofolio artikel yang pernah dipublikasikan adalah nilai tambah.</li>
+							<li>Berpengalaman melakukan penelitian menggunakan banyak sumber.</li>
+							<li>Familiar dengan publikasi web.</li>
+							<li>Memiliki kemampuan menulis dan mengedit yang sangat baik dalam bahasa Inggris dan Indonesia.</li>
+							<li>Mempunyai pengalaman langsung dengan Content Management Systems (misalnya WordPress).</li>
+							<li>Terbiasa bekerja dengan deadline.</li>
+							<li>Berpendidikan minimal D3 atau S1 Sastra Inggris, Ilmu Jurnalistik, Ilmu Komunikasi, Humas, atau yang relevan.</li>
+						</ul><br/>
+						
+						<b>Tanggung Jawab:</b><br/>
+						<ul class="joinus-ul">
+							<li>Meneliti topik yang berhubungan dengan industri penelitian (menggabungkan sumber online, wawancara, dan studi).</li>
+							<li>Membuat konten pemasaran yang jelas untuk mempromosikan produk/layanan kami.</li>
+							<li>Menyiapkan draft terstruktur dengan baik menggunakan Content Management Systems dan mengedit konten dan elemen blog sebelum dipublikasikan.</li>
+							<li>Berkoordinasi dengan tim untuk mengilustrasikan artikel.</li>
+							<li>Melakukan penelitian kata kunci sederhana dan gunakan panduan SEO untuk meningkatkan web traffic.</li>
+							<li>Mengidentifikasi kebutuhan dan kesenjangan pelanggan dalam konten kami dan rekomendasikan topik baru.</li>
+							<li>Up to date untuk konten situs web sesuai kebutuhan.</li>
+						</ul>
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">
+							Apply for IT Content Writer
 						</a>
 					</div>
 				</div>
