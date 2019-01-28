@@ -500,7 +500,7 @@
 							<img alt="Quality Assurance" src="../img/qa.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Quality Assurance</h5>
-							<h6>Dibutuhkan di Yogyakarta</h6>
+							<h6>Dibutuhkan di Jakarta dan Yogyakarta</h6>
 						</div>
 					</div>
 				</div>
@@ -508,7 +508,7 @@
 					<div class="div-job desc-job">
 					    <div style="font-weight:bold;font-size:18px">
 							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
-							Quality Assurance (di Yogyakarta) dengan 1-2 tahun pengalaman
+							Quality Assurance (di Jakarta dan Yogyakarta) dengan 1-2 tahun pengalaman
 						</div>
 						<br/>
 						Quality Assurance berperan untuk memastikan semua hasil pekerjaan dan kualitas pembuatan website atau sistem web sudah memenuhi semua aspek yang sudah ditetapkan dengan membuat dokumentasi dan melakukan pengecekan secara komprehensif.<br/><br/>
@@ -518,7 +518,7 @@
 							<li>Skill yang dibutuhkan: Pengalaman dengan berbagai jenis dan tingkat pengujian, pengalaman langsung dengan pengujian fungsional, pengujian integrasi, pengujian regresi, pengujian mobile, pengujian data yang besar, pengujian lintas platform, pengujian komponen, pengujian keamanan, pengujian kinerja, Pengujian UI/UX, pengujian A/B.</li>
 							<li>Keterampilan opsional: Pengalaman Pengujian Selenium.</li>
 							<li>Bahasa yang dibutuhkan: Bahasa Inggris, Bahasa Indonesia.</li>
-							<li>Pelamar harus bersedia bekerja di Yogyakarta.</li>
+							<li>Pelamar harus bersedia bekerja di Jakarta/Yogyakarta.</li>
 						</ul><br/>
 						
 						<b>Tanggung Jawab:</b><br/>
