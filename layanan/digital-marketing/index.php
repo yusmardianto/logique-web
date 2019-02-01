@@ -55,7 +55,7 @@
 						<div class="bg-black-title inline-block">
 							 Sukseskan Bisnis Anda! 
 						</div>
-						<div class="font-14">
+						<div class="font-16">
 							<br/>
 							Menghadapi era digital saat ini tentunya membuat tantangan tersendiri, terutama bagi dunia bisnis dan usaha agar dapat sukses dan berhasil. LOGIQUE yang merupakan web developer terkemuka asal Jepang memberikan solusi atas tantangan tersebut dengan menawarkan jasa layanan digital marketing.<br/><br/>
 							Dengan pengalaman kami selama lebih dari 5 tahun di dunia digital, tentu membuat kami mengerti dan memahami secara menyeluruh mengenai dunia digital. Kami siap memberikan Anda solusi terhadap permasalahan digital marketing yang Anda hadapi!<br/><br/>
