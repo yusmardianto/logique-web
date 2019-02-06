@@ -604,11 +604,71 @@
 									<br><div class="grey-clr">Responsive WEB Dev, Multi-Language, Manufacturing Trader</div><br><br><br>
 								</div>
 							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<a href="https://www.jjs.or.id/50thanniversary" target="_blank">
+									<img src="/img/portfolio/jjs50.png" class="img-responsive center-block">
+									JJS 50 years special LP
+								</a>
+								<div class="addition-desc text-left">
+									<br>LP Creation (Bootstrap | Content Creation)<br>
+									<br><div class="grey-clr"> LP, Mobile Optimized, Education, School</div><br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.jba.co.id/id/hasil-harga-lelang" target="_blank">
+									<img src="/img/portfolio/jba-hasil-lelang.png" class="img-responsive center-block">
+									JBA Hasil Lelang
+								</a>
+								<div class="addition-desc text-left">
+									<br>AMP Creation (AMP | Dynamic Pages)<br>
+									<br><div class="grey-clr"> AMP, Mobile Optimized, Car Auction, Bike Auction</div><br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://webdev-id.com/" target="_blank">
+									<img src="/img/portfolio/wdi.png" class="img-responsive center-block">
+									WDI 
+								</a>
+								<div class="addition-desc text-left">
+									<br>Creators Market Place Development (Design | CMS | Security Assessment)<br>
+									<br><div class="grey-clr">Web system, Laravel, Mobile Optimized, Market Place</div><br><br><br>
+								</div>
+							</div>
 						</div>
 						
 						<br/>
 						<span class="characteristic-title">Our system development experiences</span>
 						<br/><br/>
+						<div class="">See Case Study:</div><br/>
+						<div class="row text-center studi-kasus">
+							<div class="col-sm-4">
+								<a target="_blank" href="/en/case-study/jba-auction-system/" class="btn">
+									JBA Auction System
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a target="_blank" href="/en/case-study/caroline-bidding-system/" class="btn">
+									Caroline Bidding System
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a target="_blank" href="/en/case-study/opuspark/" class="btn">
+									Opus Park
+								</a>
+							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<a target="_blank" href="/en/case-study/vip-plaza-progressive-web-app/" class="btn">
+									VIP Plaza
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a target="_blank" href="/en/case-study/zuttoride-customer-management-system/" class="btn">
+									ZuttoRide
+								</a>
+							</div>
+						</div>
 						<ul class="circle-list">
 							<li>
 								Beneficial Point Management & E-Commerce System Development.<br>
@@ -874,6 +934,14 @@
 							<div class="col-sm-4">
 								<img src="/img/portfolio/jba-bid.png" class="img-responsive center-block">
 								JBA Indonesia Auction Bidding App<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/nlec-pwa.png" class="img-responsive center-block">
+								NLEC Nihongo E-Learning PWA<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/vip-plaza-pwa.png" class="img-responsive center-block">
+								VIP Plaza PWA<br><br>
 							</div>
 						</div>
 						<br/>

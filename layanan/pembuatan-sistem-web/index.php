@@ -326,10 +326,9 @@ if(isset($_POST['submitted']))
 					</div>
 				</div>
 				<br class="hidden-xs">
-				<div class="row">
+				<div class="row" style="background: rgba(255, 255, 255, 0.4);border: dotted 4px #ededed;">
 					<div class="col-md-12">
 					  <div class="custom-faq">
-					  	<hr>
 						<h3 class="text-center"><b>Pertanyaan Yang Sering Diajukan (FAQ)</b></h3>
 						<hr>
 						<h2 class="custom-3">Berapa harga pembuatan sistem web di LOGIQUE?</h2>

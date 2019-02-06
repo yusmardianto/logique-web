@@ -1,24 +1,24 @@
 html,
 body {
-	font-family: 'Lato', serif;
-	background-color: #fff;
-	overflow-x: hidden;
+    font-family: 'Lato', serif;
+    background-color: #fff;
+    overflow-x: hidden;
 }
 header {
-	background: url(../img/webdev/img1.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
-	width: 100%;
-	height: 100vh;
-	text-align: center;
-	padding-top: 90px;
-	padding-bottom: 90px;
+    background: url(../img/webdev/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 90px;
 }
 header h1 {
     font-family: 'Lato', serif;
-    font-size: 50px;
+    font-size: 41px;
     color: #333;
-    letter-spacing: 2px;
+    letter-spacing: 1.8px;
     padding-left: 1.5em;
     padding-right: 1em;
 }
@@ -37,6 +37,13 @@ header h1 {
     background-repeat: no-repeat;
     background-size: 100%;}
 .style-3 {background: #fff;color: #111;padding-top: 0;}
+.style-3-h1 {
+    background: #151515;
+    color: #fff;
+    padding: 1em;
+    text-align: justify;
+    border-radius: 4px;
+}
 .new1 {
     height: 55px;
     text-align: center;
@@ -75,6 +82,7 @@ header h1 {
     top: 50%;
 }
 .new2 {font-weight: bold;letter-spacing: 2px;}
+.new2-div {border-bottom: double #eee;border-top: double #eee;padding: 1em 0;}
 .new3 {font-weight: bold;letter-spacing: 1px;}
 .new4 {text-align: justify;color: #666}
 .bold {font-weight: bold}
@@ -84,7 +92,7 @@ header h1 {
 }
 .style-6{
     background: url(../img/webdev/img4.jpg); 
-    background-position: left center;background-size: cover;height: 570px;
+    background-position: left center;background-size: cover;height: auto;
     color: #fff;}
 .style-7{
     background: url(../img/webdev/img5.jpg);
@@ -113,27 +121,27 @@ header h1 {
 .border-l { border-right: solid 3px #333333 }
 
 .obstacle {
-	background-color: #fff;
+    background-color: #fff;
 }
 .obstacle h2 {
-	font-size: 20px;
-	color: #333;
-	margin-top: 50px;
-	margin-bottom: 10px;
-	padding-right: 16px;
-	font-weight: 700;
+    font-size: 20px;
+    color: #333;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding-right: 16px;
+    font-weight: 700;
 }
 .obstacle p {
-	padding: 15px;
-	text-align: right;
-	font-size: 15px;
-	color: #4A4A4A;
-	letter-spacing: 0;
+    padding: 15px;
+    text-align: right;
+    font-size: 15px;
+    color: #4A4A4A;
+    letter-spacing: 0;
 }
 
 section {
-	padding-top: 55px;
-	padding-bottom: 55px;
+    padding-top: 55px;
+    padding-bottom: 55px;
 }
 
 .title-custom {font-family:'Open Sans', sans-serif; color: #b69426; font-size: 66px; font-weight: 700; position: absolute; top: -30px; right: -10px;} 
@@ -150,29 +158,31 @@ section {
 }
 
 .card2 {    
-	background: #feca38;
+    background: #feca38;
     padding: 10px;
     height: auto;
 }
 .tahap-pemesanan-2 {background-color: #ffcd38}
+.tahap-pemesanan-2 h3 {text-align: center;margin: 5px;}
+.tahap-pemesanan-2 p {text-align: center;margin: 5px;font-size: 15px}
 .tahap-pemesanan-3 {
-	background-image: url(../img/webdev/tiga.jpg);
+    background-image: url(../img/webdev/tiga.jpg);
     background-position: left center;
     background-size: cover;
     height: auto;}
 .card3 {    
-	background: transparent;
+    background: transparent;
     padding: 10px;
     height: auto;
 }
 .border-top-custom{
-	border: solid 10px #000;
+    border: solid 10px #000;
     position: absolute;
     width: 600px;
     top: -65px;
     left: -100px;}
 .border-top-custom-2{    
-	position: absolute;
+    position: absolute;
     width: auto;
     background: black;
     color: #fff;
@@ -180,13 +190,13 @@ section {
     padding: 15px 25px;
     top: -90px;}
 .border-right-custom{
-	border: solid 1px #000;
+    border: solid 1px #000;
     position: absolute;
     height: 250px;
     right: -40px;
     top: 15px;}
 .border-top-list{
-	border: solid 4px #000;
+    border: solid 4px #000;
     position: absolute;
     width: 600px;
     top: 0;
@@ -195,8 +205,8 @@ section {
     margin: auto;
    }
 .border-top-list-2{
-	position: absolute;
-	border: solid 4px #000;
+    position: absolute;
+    border: solid 4px #000;
     width: 600px;
     bottom: 0;
     left: 0;
@@ -217,8 +227,8 @@ section {
 }
 
 .row {
-	margin-left: -12px;
-	margin-right: -12px;
+    margin-left: -12px;
+    margin-right: -12px;
 }
 
 .captcha-custom {
@@ -229,45 +239,45 @@ section {
 }
 
 .img-fluid {
-	width: 100%;
+    width: 100%;
 }
 
 .contact {
-	background-color: #000;
-	color: #fff;
+    background-color: #000;
+    color: #fff;
 }
 
 .contact .form-control {
-	background-color: transparent;
-	color: #fff;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	border-radius: 0;
+    background-color: transparent;
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 0;
 }
 .cs-custom{padding-top: 10px;width: 150px}
 
 footer {
-	padding-top: 40px;
-	padding-bottom: 40px;
-	background-color: #000;
-	color: #fff;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #000;
+    color: #fff;
 }
 footer a {
-	color: #fff;
+    color: #fff;
 }
 footer a:hover,
 footer a:focus {
-	color: #fff;
-	text-decoration: none;
+    color: #fff;
+    text-decoration: none;
 }
 footer p {
-	position: relative;
-	padding-left: 30px;
+    position: relative;
+    padding-left: 30px;
 }
 footer p:before {
-	position: absolute;
-	top: 0;
-	left: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 [class*="btn btn-logic btn-sm"] {
    color: #333;
@@ -278,6 +288,7 @@ footer p:before {
 }
 .logo-header{width: 220px;background: #000;padding: 20px;position: absolute;top: -90px;right: 5%;}
 .link-footer-webdev a{display:block;margin-bottom:8px;text-decoration:underline!important}
+.tambah-lg {font-size: 22px;font-weight: bold;}
 
 /* NAVIGATION */
 .logique-nav {
@@ -292,7 +303,7 @@ footer p:before {
     font-weight: 300;
     transition: all .25s;
     overflow: auto;
-	left: 0;
+    left: 0;
 }
 .logique-nav .text-center {
     padding: 8px 10px
@@ -313,7 +324,7 @@ footer p:before {
 }
 .logique-nav a {
     color: #000;
-	text-decoration:none!important
+    text-decoration:none!important
 }
 .logique-nav .text-center.active a,
 .logique-nav .text-center.active:focus a,
@@ -341,15 +352,16 @@ footer p:before {
     }
 }
 @media (max-width:767px) {
-	.logique-nav {
+    .logique-nav {
         margin-right: -150px;
         margin-left: auto;
         position: relative
     }
-	.collapse.in .logique-nav {
+    .collapse.in .logique-nav {
         margin-right: 0;
         padding-top: 0
     }
+    .tambah-lg {font-size: 18px;}
 }
 .img-about,
 .img-blog,
@@ -447,17 +459,17 @@ footer p:before {
     opacity: .7;
     display: none;
     top: 0;
-	left: 0;
+    left: 0;
 }
 @media (max-width: 767px){
-	.backdrop-test {
-		display: block;
-	}
+    .backdrop-test {
+        display: block;
+    }
 }
 @media (max-width: 767px){
-	.nav-lp .navbar-collapse {
-		height: 100%!important;
-	}
+    .nav-lp .navbar-collapse {
+        height: 100%!important;
+    }
 }
 .nav-lp .navbar-collapse {
     padding: 0;
@@ -472,7 +484,7 @@ section,footer{margin-left:95px}
     background-color: #ffca13!important;
     position: relative!important;
     right: 0!important;
-	top: -80px;
+    top: -80px;
 }
 .nav-lp .navbar-toggle {
     background-color: #ffca13!important;
@@ -491,37 +503,38 @@ section,footer{margin-left:95px}
 .nav-lp .navbar-toggle .icon-bar.second {background: 0 0;}
 .nav-lp .navbar-toggle .icon-bar.third {transform: rotate(-45deg);margin-top: -8px;}
 @media (max-width: 1199px){
-	.container {width: 925px;}
-	.title-custom-p,.custom-p-2{width:auto}
+    .container {width: 925px;}
+    .title-custom-p,.custom-p-2{width:auto}
 }
 @media (max-width: 768px){
-	.container {width: 670px;}
-	.logo-header{left: 50px;}
-	.tahap-pemesanan-list{background:none;padding:0}
+    .container {width: 670px;}
+    .logo-header{left: 50px;}
+    .tahap-pemesanan-list{background:none;padding:0}
 }
 @media (max-width: 767px){
-	.container {width:auto;}
-	.logo-header{left: 0;}
-	section,footer{margin-left:0}
-	.nav-lp .navbar-collapse {margin-top: -90px;}
-	.language-btn {right: auto;left: 10px;}
-	.btn-portfolio {padding: 10px 15px;}
+    .container {width:auto;}
+    .logo-header{left: 0;}
+    section,footer{margin-left:0}
+    .nav-lp .navbar-collapse {margin-top: -90px;}
+    .language-btn {right: auto;left: 10px;}
+    .btn-portfolio {padding: 10px 15px;}
 }
 /* NAVIGATION */
 
 @media (min-width: 1400px){ 
 .header{height: auto!important} 
 }
+
 @media (max-width: 1199px){
-	header{height:auto}
-	.style-2{background-size: cover;}
-	.new5 {width: 500px;right: 0;}
+    header{height:auto}
+    .style-2{background-size: cover;}
+    .new5 {width: 500px;right: 0;}
 }
 @media (max-width: 768px){
-	.new5 .underline{border-bottom:0;}
-	.new5 {width:275px;right:0}
-	.new6 {margin-bottom: 30px;}
-	.style-6 {background: none;height: auto;color: #000;border-bottom: 3px solid #000;padding: 30px 0;}
+    .new5 .underline{border-bottom:0;}
+    .new5 {width:275px;right:0;display: none}
+    .new6 {margin-bottom: 30px;}
+    .style-6 {background: none;height: auto;color: #000;border-bottom: 3px solid #000;padding: 30px 0;}
 }
 @media (max-width: 767px){
 body {overflow-x: hidden;}
@@ -544,7 +557,7 @@ header{height:100%}
 .tahap-pemesanan-list{margin-bottom:0;padding:20px 0;padding-top: 0}
 .tahap-pemesanan-list{background: #feca38;padding-top: 1em;margin-top: 2em;}
 .style-1 h1 {font-size: 23px;}
-header h1{font-size: 40px;}
+header h1{font-size: 33px;}
 
 .no-10{right: -10px!important;font-size: 50px!important;top: -18px!important;}
 .card3, .card2{padding: 10px 0;}

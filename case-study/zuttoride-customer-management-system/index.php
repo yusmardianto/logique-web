@@ -15,7 +15,7 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="ZuttoRide Indonesia merupakan perusahaan konsultasi yang berorientasi pada kebutuhan masyarakat dan pengabdian untuk memakmurkan dunia sepeda motor yang ada di Indonesia. Perusahaan ini didirikan untuk menciptakan pengalaman berkendara yang belum pernah ada di Indonesia.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -186,8 +186,8 @@
           <p class="cs-desc">
           LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. <br/>
           </p>
-          <a href="/en/contact.php" class="btn btn-cs-bottom">Kontak Kami</a>
-          <a href="/en/services.php" class="btn btn-cs-bottom">Layanan Kami</a>
+          <a href="/en/contact.php" class="btn btn-cs-bottom">Kontak LOGIQUE</a>
+          <a href="/en/services.php" class="btn btn-cs-bottom">Layanan LOGIQUE</a>
           <a href="/en/portfolio.php" class="btn btn-cs-bottom">Portfolio</a>
           <a href="/en/services/mekanisme-pembuatan-website/" class="btn btn-cs-bottom">Ingin buat Website?</a>
           <a href="/en/services/pembuatan-sistem-web/" class="btn btn-cs-bottom">Ingin buat Web System?</a>
@@ -196,13 +196,13 @@
           <div class="container-fluid">
             <div class="row">
               <div class="col-md-8">
-                <h2>Tentang Kami</h2>
+                <h2>Tentang LOGIQUE</h2>
                 <br/>
                 LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. <br/>
                 <div class="visible-sm visible-xs"><br/></div>
               </div>
               <div class="col-md-4">
-                <h2>Hubungi Kami</h2>
+                <h2>Hubungi LOGIQUE</h2>
                 <a href="/en/contact.php" target="_blank"><img alt="Logo" src="../../../img/logo.png" class="logo"/></a> <br />
                 Ad Premier Building 19th Floor. <br/>
                 Jalan Tb. Simatupang No. 5 <br/>
@@ -216,7 +216,7 @@
           © 2018 Logique Digital Indonesia. All Rights Reserved.
         </div>
       </div>
-      <?php include '../../../footer.php';?>
+     <?php include '../../footer.php';?>
 		</div>
 		<script type="application/ld+json">
 			{

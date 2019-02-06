@@ -115,13 +115,18 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title"><b>Join</b><span class="yellow">Us</span></div>
-					<iframe style="width:100%;height:380px" src="https://www.youtube.com/embed/ZT9zR6d6JPA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<iframe style="width:100%;height:380px" src="https://www.youtube-nocookie.com/embed/250FrYLHytM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					<!--<img src="../img/career-main.png" class="img-in-joinus"/>-->
 					<div class="form-container">
 						<p>
 						<br/>
 							LOGIQUE is in a process to be the No.1 Web developing company in Indonesia. We already have numbers of big clients. You can be on a middle-management positions depending on your passion, as we are still in the middle of the flourishment and flexible. We prepare the environment and promise career growth. We support you to grow your both technic and work skills. We get rid of "Nonsense" from our work as much as possible. We prepare the environment that you can enjoy working effectively. Let's work hard, enjoy hard, and grow up hard together.
 						</p>
+						<div class="text-center">
+							<a href="/career" target="_blank" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Gabung-dengan-Kami-1', 'Action-Click', 'Button-Gabung-dengan-Kami-1-Label');">
+								Join LOGIQUE
+							</a>
+						</div>
 					</div>
 					<div class="bg-grey">
 						<center><span class="title-bg-grey">Why Join Us ?</span></center><br/>

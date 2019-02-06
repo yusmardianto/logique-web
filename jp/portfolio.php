@@ -601,6 +601,37 @@
 									<br><div class="grey-clr">レスポンシブ制作, 多言語WEB, コーポレート動画制作, 鉄鋼商社</div><br><br><br>
 								</div>
 							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<a href="https://www.jjs.or.id/50thanniversary" target="_blank">
+									<img src="/img/portfolio/jjs50.png" class="img-responsive center-block">
+									JJS 50 years special LP
+								</a>
+								<div class="addition-desc text-left">
+									<br>LP制作（Bootstrap | コンテンツ企画）<br>
+									<br><div class="grey-clr"> LP, スマホ最適化,教育, スクール</div><br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.jba.co.id/id/hasil-harga-lelang" target="_blank">
+									<img src="/img/portfolio/jba-hasil-lelang.png" class="img-responsive center-block">
+									JBA Hasil Lelang
+								</a>
+								<div class="addition-desc text-left">
+									<br>AMP制作（AMP | DB連動ダイナミックページ）<br>
+									<br><div class="grey-clr">AMP, モバイルSEO,オークション</div><br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://webdev-id.com/" target="_blank">
+									<img src="/img/portfolio/wdi.png" class="img-responsive center-block">
+									WDI 
+								</a>
+								<div class="addition-desc text-left">
+									<br>クリエイターズマーケットプレイス開発（デザイン制作 | WEBシステム開発 | セキュリティアセスメント）<br>
+									<br><div class="grey-clr">　WEBシステム, 検索システム,スマホ最適, マーケットプレイス</div><br><br><br>
+								</div>
+							</div>
 						</div>
 						<br/>
 						<span class="characteristic-title">システム構築実績</span>
@@ -869,6 +900,14 @@
 								<img src="/img/portfolio/jba-bid.png" class="img-responsive center-block">
 								JBA Indonesia オークション入札Androidアプリ<br><br>
 							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/nlec-pwa.png" class="img-responsive center-block">
+								NLEC Nihongo E-Learning PWA<br><br>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/vip-plaza-pwa.png" class="img-responsive center-block">
+								VIP Plaza PWA<br><br>
+							</div>
 						</div>
 						<br/>
 						<span class="characteristic-title">SNS Operation</span>
@@ -936,42 +975,42 @@
 							</div>
 							<div class="col-sm-4">
 								<img src="../img/portfolio/frangipani-photoshot.png" class="img-responsive center-block insta-vid">
-								Frangipani Photo Shooting<br><br>
+								Frangipani スパ 写真撮影<br><br>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/drone1.png" class="img-responsive center-block">
-								Drone Foto / Video (Partner)<br><br>
+								ドローン撮影<br><br>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/drone2.png" class="img-responsive center-block">
-								Drone Foto / Video (Partner)<br><br>
+								ドローン撮影<br><br>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/sunlife-flyer.jpg" class="img-responsive center-block">
-								Flyer<br><br>
+								リーフレット制作＆印刷<br><br>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/sunlife-banner.jpg" class="img-responsive center-block">
-								Roll Up Banner<br><br>
+								バナー制作<br><br>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/sunlife-polo-shirt.jpg" class="img-responsive center-block">
-								Polo Shirt<br><br>
+								ユニフォーム制作<br><br>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/Eria.jpg" class="img-responsive center-block">
-								ERIA<br><br>
+								チラシ制作＆印刷<br><br>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/bumbu-warasa-1.jpg" class="img-responsive center-block">
-								Product Design (Ikeda Toka)<br><br>
+								プロダクトデザイン<br><br>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/minum-warasa-1.jpg" class="same-height img-responsive center-block">
-								Product Design (Ikeda Toka)<br><br>
+								プロダクトデザイン<br><br>
 							</div>
 							<div class="col-sm-4">
 								<!--<img src="/img/portfolio/video-jfe.jpg" class="img-responsive center-block">
@@ -980,25 +1019,25 @@
 								   <source src="/img/portfolio/JFE-video.webm" type="video/webm" />
 								   <source src="/img/portfolio/JFE-video.mp4" type="video/mp4" />
 								</video>	
-								JFE Shoji Video<br><br>
+								コーポレート動画撮影＆制作<br><br>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/caroline-1.jpg" class="img-responsive center-block" style="height: 224px"> 
-								Caroline Flyer<br><br>
+								フライヤー制作＆印刷<br><br>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/sunlife-book.jpg" class="img-responsive center-block" style="height: 224px"> 
-								SunLife Notebook<br><br>
+								販促＆配布品制作<br><br>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/sunlife-book2.jpg" class="img-responsive center-block" style="height: 224px"> 
-								SunLife Notebook<br><br>
+								販促＆配布品制作<br><br>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/60jpid_catalog.png" class="img-responsive center-block" style="height: 224px"> 
-								60th Anniversary catalog<br><br>
+								カタログ制作＆印刷<br><br>
 							</div>
 						</div>
 					</div>
