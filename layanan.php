@@ -319,6 +319,7 @@
 										Silakan menghubungi kami jika Anda memerlukan bantuan untuk meningkatkan jumlah prospek atau konversi dengan menggunakan iklan, strategi pemasaran digital, pemasaran melalui media social, dll. Kami akan menyediakan layanan yang efektif bagi Anda melalui kerjasama dengan mitra kami.
 									</li>
 								</ol>
+								<div class="text-center"><a target="_blank" href="layanan/digital-marketing" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a></div>
 							  </div>
 							</div>
 						  </div>

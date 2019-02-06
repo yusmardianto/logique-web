@@ -38,8 +38,8 @@
 	<body>
 		<div class="language-btn">
 			<ul class="list-inline">
-				<li><a href="/../en/services/digital-marketing/index.php">EN</a></li>
-				<li class="active"><a href="/../layanan/digital-marketing/index.php">ID</a></li>
+				<li><a href="/en/services/digital-marketing/index.php">EN</a></li>
+				<li class="active"><a href="/layanan/digital-marketing/index.php">ID</a></li>
 				<li><a href="#">JP</a></li>
 			</ul>
 		</div>

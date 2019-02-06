@@ -38,8 +38,8 @@
 	<body>
 		<div class="language-btn">
 			<ul class="list-inline">
-				<li class="active"><a href="/../en/services/digital-marketing/index.php">EN</a></li>
-				<li><a href="/../layanan/digital-marketing/index.php">ID</a></li>
+				<li class="active"><a href="#">EN</a></li>
+				<li><a href="/layanan/digital-marketing">ID</a></li>
 				<li><a href="#">JP</a></li>
 			</ul>
 		</div>
@@ -370,17 +370,19 @@
 				</div>
 			</div>
 		</div>
+		
 		<div class="footer">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-offset-3 col-lg-6">
-						Untuk informasi lengkapnya, Anda dapat menghubungi <b>Logique Digital Indonesia</b> melalui email di <a href="mailto:info@logique.co.id">info@logique.co.id</a> atau mendaftar melalui form yang ada di link berikut ini <br/><br/>
-						<a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
+					<div class="col-md-offset-3 col-md-6">
+						Please send us an e-mail to <a href="mailto:info@logique.co.id">info@logique.co.id</a> or send an inquiry from <a href="https://www.logique.co.id/en/contact.php" target="_blank">here</a>. We would be happy to help you.
+						<br/><br/>
+						<a href="https://www.logique.co.id/en/contact.php" target="_blank"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
 						<br/>
-						Layanan Kami lainnya:<br/>
-						<a target="_blank" href="/layanan/pembuatan-website-karir-perusahaan/">Pembuatan Website Karir Perusahaan</a>
+						Our other services:<br/>
+						<a target="_blank" href="/en/services/pembuatan-website-karir-perusahaan/">Recruitment Website Creation</a>
 						<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-						<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/">Pembuatan Aplikasi Mobile</a>
+						<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/">Mobile Application Development</a>
 					</div>
 				</div>
 			</div>
