@@ -358,9 +358,9 @@
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
-							<img alt="Front End" src="../img/frontend.png" class="img-responsive"/>
+							<img alt="Lead Consultant" src="/img/techcons.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
-							<h5>Front End</h5>
+							<h5>Lead Consultant</h5>
 							<h6>Dibutuhkan di Jakarta</h6>
 						</div>
 					</div>
@@ -368,31 +368,122 @@
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
 						<div style="font-weight:bold;font-size:18px">
-							<span style="font-size:22px">URGENTLY NEEDED </span><br/>
-							Front End Developer (di Jakarta) dengan 1-2 tahun pengalaman untuk project React Js
+							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
+							Lead Consultant (di Jakarta) dengan minimal 3 tahun pengalaman
 						</div>
 						<br/>
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
-							<li>Berlatar belakang pendidikan dari Sistem Informasi, Teknologi Informasi atau sejenisnya.</li>
-							<li>Berpengalaman dalam pembuatan WEB/Sistem</li>
-							<li>Required Skill: HTML, CSS, ReactJS, NodeJS, Angular, Ionic, JQuery</li>
-							<li>Mengenal proses pengembangan website dengan baik.</li>
-							<li>Dapat belajar secara cepat dan mandiri.</li>
-							<li>Mempunyai minat yang besar terhadap bisnis Internet dan Web.</li>
-							<li>Mampu bekerja sebagai tim.</li>
-							<li>Berpendidikan minimal D3 dan berpengalaman minimal 2 tahun di bidang IT atau programmer</li>
+							<li>Memiliki pengalaman sebagai IT Consultant minimal selama 3 tahun.</li>
+							<li>Sering terlibat dalam konsultasi dan perencanaan sistem berskala besar.</li>
+							<li>Memiliki kemampuan analisa dan pemecahan masalah yang sangat baik.</li>
+							<li>Memiliki pengetahuan yang sangat baik dalam bidang pembuatan website, web sistem, atau aplikasi mobile.</li>
+							<li>Memiliki kemampuan komunikasi dan presentasi yang sangat baik.</li>
+							<li>Bisa bekerjasama dalam tim.</li>
+						</ul><br/>
+						<b>Job Description:</b><br/>
+						<ul class="joinus-ul">
+							<li>Terlibat dalam proyek berskala menengah ke atas, mulai dari konsultasi, perencanaan, serta pengelolaan tim untuk memastikan proyek yang dijalankan sesuai dengan rencana.</li>
+							<li>Memberikan inisiatif dan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
+							<li>Berkolaborasi dengan bagian RnD untuk mendapatkan pengetahuan terhadap teknologi baru, dan membagikan informasi tersebut kepada tim konsultan untuk meningkatkan kemampuan konsultasi atau perencanaan.</li>
+							<li>Terlibat dan memberikan dukungan dalam proses penawaran, khususnya dalam mengestimasi usaha yang diperlukan untuk mengimplementasikan kebutuhan pelanggan ke dalam sistem.</li>
+							<li>Membuat rencana penerapan proyek dan dokumen pendukung atau laporan yang diperlukan.</li>
+							<li>Melakukan analisa terhadap teknologi atau sistem untuk kebutuhan konsultasi atau penawaran.</li>
+							<li>Melakukan koordinasi dan mengarahkan tim konsultan agar dapat bekerja dengan efektif.</li>
+						</ul>
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+							Apply for Lead Consultant
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
+							<img alt="Pre-Sales Consultant" src="/img/techcons.png" class="img-responsive"/>
+							<h4>Lowongan</h4>
+							<h5>Pre-Sales Consultant</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						<div style="font-weight:bold;font-size:18px">
+							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
+							Pre-Sales Consultant (di Jakarta) dengan minimal 1 tahun pengalaman
+						</div>
+						<br/>
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Memiliki pengalaman sebagai IT Consultant minimal selama 1 tahun.</li>
+							<li>Memiliki kemampuan analisa dan pemecahan masalah yang baik.</li>
+							<li>Memiliki pengetahuan yang baik dalam bidang pembuatan website, web sistem, atau aplikasi mobile.</li>
+							<li>Memiliki kemampuan komunikasi dan presentasi yang baik.</li>
+							<li>Bisa bekerja sama dalam tim.</li>
+						</ul><br/>
+						<b>Job Description:</b><br/>
+						<ul class="joinus-ul">
+							<li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
+							<li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
+							<li>Terlibat dan memberikan dukungan dalam proses penawaran, khususnya dalam mengestimasi usaha yang diperlukan untuk mengimplementasikan kebutuhan pelanggan ke dalam sistem.</li>
+							<li>Membuat rencana penerapan proyek dan dokumen pendukung atau laporan yang diperlukan.</li>
+							<li>Melakukan analisa terhadap teknologi atau sistem untuk kebutuhan konsultasi atau penawaran.</li>
+							<li>Berkoordinasi dan mengelola tim terkait pengembangan proyek yang direncanakan jika diperlukan.</li>
+						</ul>
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+							Apply for Pre-Sales Consultant
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
+							<img alt="Front End" src="../img/frontend.png" class="img-responsive"/>
+							<h4>Lowongan</h4>
+							<h5>Front End</h5>
+							<h6>Dibutuhkan di Jakarta dan Yogyakarta</h6>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						<div style="font-weight:bold;font-size:18px">
+							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
+							Front End Developer (di Jakarta dan Yogyakarta) dengan 1-2 tahun pengalaman untuk project React Js
+						</div>
+						<br/>
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Berpengalaman menggunakan React.js</li>
+							<li>Berpengalaman menggunakan React.js workflow seperti Redux / Flux</li>
+							<li>Terbiasa menggunakan EcmaScript dengan versi terbaru</li>
+							<li>Terbiasa melakukan integrasi RESTful API</li>
+							<li>Memiliki kemampuan analisa dan debugging yang kuat</li>
+							<li>Berpengalaman menggunakan FrontEnd Development Tools seperti Babel, Webpack, NPM / Yarn atau sejenisnya</li>
+							<li>Familiar dengan versioning control system (VCS) seperti Git</li>
+							<li>Pengetahuan tentang PWA merupakan nilai tambah</li>
+							<li>Memiliki pengetahuan dalam isomorphic React merupakan nilai tambah</li>
+							<li>Pengalaman dalam coding PSD ke HTML-CSS merupakan nilai tambah</li>
+							<li>Pengalaman menggunakan CSS framework seperti bootstrap dan foundation merupakan nilai tambah</li>
+							<li>Pengalamaan dengan ExpressJS, mongoDB merupakan nilai tambah</li>
 						</ul><br/>
 						
 						<b>Job Description:</b><br/>
 						<ul class="joinus-ul">
-							<li>Memanfaatkan HTML, CSS, Javascript, atau bahasa pemrograman terkait tampilan lainnya untuk mengembangkan antarmuka pengguna yang efektif pada website dan aplikasi.</li>
-							<li>Bekerja sama dan berkolaborasi dengan tim developer dan desainer untuk membuat, memperbarui, atau memperbaiki UI/UX website dan aplikasi.</li>
-							<li>Memberikan kualitas hasil terbaik dan tepat waktu sesuai dengan teknologi UI/UX terkini dan/atau yang sesuai dengan kebutuhan proyek.</li>
-							<li>Memastikan kompatibilitas browser atau ukuran layar pada halaman-halaman website dan aplikasi yang dihasilkan.</li>
-							<li>Membuat kode yang terstruktur dan dapat digunakan kembali untuk kemudahan pengembangan atau perubahan di masa depan</li>
-							<li>Memonitor dan mengoptimalkan performa website atau aplikasi dari sisi front-end.</li>
-							<li>Berkomunikasi langsung dengan klien terkait UI/UX jika diperlukan.</li>
+							<li>Mengembangkan dan mengkonversi kode HTML ke ReactJS.</li>
+							<li>Mengintegrasikan ReactJS dengan API.</li>
+							<li>Sewaktu-waktu dapat melakukan coding HTML-CSS (responsive design and lintas browser).</li>
+							<li>Bekerjasama dan berkolaborasi dengan tim backend-developer dan designer dalam menghasilkan team-results yang optimal.</li>
+							<li>Melakukan perbaikan performance dengan optimasi code pada sisi aplikasi.</li>
+							<li>Melakukan analisa dan riset dalam menerapkan teknologi terkait terkini sesuai kebutuhan client.</li>
 						</ul>
 						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Front End
@@ -409,15 +500,15 @@
 							<img alt="Quality Assurance" src="../img/qa.png" class="img-responsive"/>
 							<h4>Lowongan</h4>
 							<h5>Quality Assurance</h5>
-							<h6>Dibutuhkan di Yogyakarta</h6>
+							<h6>Dibutuhkan di Jakarta dan Yogyakarta</h6>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
 					    <div style="font-weight:bold;font-size:18px">
-							<span style="font-size:22px">URGENTLY NEEDED </span><br/>
-							Quality Assurance (di Yogyakarta) dengan 1-2 tahun pengalaman
+							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
+							Quality Assurance (di Jakarta dan Yogyakarta) dengan 1-2 tahun pengalaman
 						</div>
 						<br/>
 						Quality Assurance berperan untuk memastikan semua hasil pekerjaan dan kualitas pembuatan website atau sistem web sudah memenuhi semua aspek yang sudah ditetapkan dengan membuat dokumentasi dan melakukan pengecekan secara komprehensif.<br/><br/>
@@ -427,7 +518,7 @@
 							<li>Skill yang dibutuhkan: Pengalaman dengan berbagai jenis dan tingkat pengujian, pengalaman langsung dengan pengujian fungsional, pengujian integrasi, pengujian regresi, pengujian mobile, pengujian data yang besar, pengujian lintas platform, pengujian komponen, pengujian keamanan, pengujian kinerja, Pengujian UI/UX, pengujian A/B.</li>
 							<li>Keterampilan opsional: Pengalaman Pengujian Selenium.</li>
 							<li>Bahasa yang dibutuhkan: Bahasa Inggris, Bahasa Indonesia.</li>
-							<li>Pelamar harus bersedia bekerja di Yogyakarta.</li>
+							<li>Pelamar harus bersedia bekerja di Jakarta/Yogyakarta.</li>
 						</ul><br/>
 						
 						<b>Tanggung Jawab:</b><br/>
@@ -461,7 +552,7 @@
 				<div class="col-sm-8">
 					<div class="div-job desc-job">
 						<div style="font-weight:bold;font-size:18px">
-							<span style="font-size:22px">URGENTLY NEEDED </span><br/>
+							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
 							Technical Consultant (di Jakarta) dengan 1-2 tahun pengalaman
 						</div>
 						<br/>
@@ -493,6 +584,119 @@
 						</ul>
 						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" > <!--style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">-->
 							Apply for Technical Consultant
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
+							<img alt="Digital Marketing Strategist" src="../img/techcons.png" class="img-responsive"/>
+							<h4>Lowongan</h4>
+							<h5>Digital Marketing Strategist</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						<b>Tanggung jawab:</b><br/>
+						<ul class="joinus-ul">
+							<li>Menganalisis dan memantau kinerja situs web, iklan online, dan media sosial dengan berbagai platform.</li>
+							<li>Menyarankan strategi untuk meningkatkan kinerja berdasarkan analisis.</li>
+							<li>Terus menyesuaikan kinerja setiap platform dan situs web untuk mendapatkan hasil yang lebih baik dengan berkolaborasi dengan web developer dan content writer.</li>
+						</ul><br/>
+						
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Minimal 2 tahun pengalaman dalam web development / agensi digital marketing.</li>
+							<li>Mampu berpikir logis & strategis.</li>
+							<li>Terbiasa dengan SEO dan optimasi web dalam hal teknis dan konten.</li>
+							<li>Terbiasa dalam menganalisis dan mengoptimalkan tool yang terkait dengan digital marketing:
+								<ul class="joinus-ul">
+									<li>Google Analytics</li>
+									<li>Google Ads (Search Ads, GDN Ads, Youtube Ads)</li>
+									<li>Facebook / Instagram Ads</li>
+									<li>Twitter Ads</li>
+								</ul>
+							</li>
+							<li>Berpengalaman dalam hal konsultasi dengan klien
+								<ul class="joinus-ul">
+									<li>Pelaporan</li>
+									<li>Diskusi</li>
+									<li>Pemberian saran</li>
+								</ul>
+							</li>
+						</ul><br/>
+						
+						<b>Lebih disukai (tidak harus dimiliki):</b><br/>
+						<ul class="joinus-ul">
+							<li>Keterampilan programming.</li>
+							<li>Bahasa Inggris yang komunikatif.</li>
+							<li>Keterampilan menulis konten.</li>
+							<li>Keterampilan operasi media sosial.</li>
+							<li>Keterampilan desain.</li>
+						</ul>
+						
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" >
+							Apply for Digital Marketing Strategist
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
+							<img alt="Technical Consultant" src="../img/techcons.png" class="img-responsive"/>
+							<h4>Lowongan</h4>
+							<h5>Accounting & Tax Officer</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						<div style="font-weight:bold;font-size:18px">
+							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
+							Accounting & Tax Officer (di Jakarta) dengan 2 tahun pengalaman
+						</div>
+						<br/>
+						Bila Anda:
+						<ol style="margin-left:20px">
+							<li>Ahli dalam bidang accounting dan pajak</li>
+							<li>Menyukai hitung-berhitung mengenai perpajakan dan accounting</li>
+							<li>Up to date mengenai hukum perpajakan</li>
+						</ol>
+						LOGIQUE membuka peluang untuk Anda bergabung bersama kami.
+						<br/><br/>
+						<b>Tanggung jawab kerja:</b><br/>
+						<ul class="joinus-ul">
+							<li>Membuat Faktur Pajak dan e-faktur.</li>
+							<li>Mengisi formulir perpajakan PPN, PPh 21, PPh 23, dan lain-lain.</li>
+							<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
+							<li>Mempersiapkan permintaan pembayaran Pajak Bulanan dan SPT Tahunan.</li>
+							<li>Membuat rekap pajak.</li>
+							<li>Membuat laporan-laporan accounting.</li>
+							<li>Data entry bank payment dan rekonsiliasi bank.</li>
+							<li>Rekonsiliasi pemotongan PPH 23 dan Pasal 4 ayat 2.</li>
+						</ul><br/>
+						
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Berpengalaman minimal 2 tahun dibidang yang sama.</li>
+							<li>Pernah bekerja di KPP / Konsultan diutamakan.</li>
+							<li>Minimum pendidikan S1 dibidang accounting / pajak.</li>
+							<li>Brevet A B, diutamakan yang Brevet A B dan C.</li>
+							<li>Dapat mengoperasikan Microsoft Office dengan baik (terutama excel).</li>
+						</ul>
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" >
+							Apply for Accounting & Tax Officer
 						</a>
 					</div>
 				</div>
@@ -535,50 +739,6 @@
 						</ul>
 						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Web Developer
-						</a>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-			<hr class="separator-career"></hr>
-			<div class="one-job-opening">
-				<div class="col-sm-4" style="padding:0">
-					<div class="div-job title-job">
-						<div class="valign-center">
-							<img alt="Content Writer" src="../img/contenwriter.png" class="img-responsive"/>
-							<h4>Lowongan</h4>
-							<h5>IT Content Writer</h5>
-							<h6>Dibutuhkan di Jakarta</h6>
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-8">
-					<div class="div-job desc-job">
-						Content Writer membantu menciptakan konten yang sesuai dengan perusahaan, produk, atau jasa yang ditampilkan pada website sehingga memudahkan pembaca memperoleh informasi yang sesuai.<br/><br/>
-						<b>Persyaratan:</b><br/>
-						<ul class="joinus-ul">
-							<li>Memiliki pengalaman kerja sebagai Content Writer, Copywriter atau peran serupa.</li>
-							<li>Mempunyai portofolio artikel yang pernah dipublikasikan adalah nilai tambah.</li>
-							<li>Berpengalaman melakukan penelitian menggunakan banyak sumber.</li>
-							<li>Familiar dengan publikasi web.</li>
-							<li>Memiliki kemampuan menulis dan mengedit yang sangat baik dalam bahasa Inggris dan Indonesia.</li>
-							<li>Mempunyai pengalaman langsung dengan Content Management Systems (misalnya WordPress).</li>
-							<li>Terbiasa bekerja dengan deadline.</li>
-							<li>Berpendidikan minimal D3 atau S1 Sastra Inggris, Ilmu Jurnalistik, Ilmu Komunikasi, Humas, atau yang relevan.</li>
-						</ul><br/>
-						
-						<b>Tanggung Jawab:</b><br/>
-						<ul class="joinus-ul">
-							<li>Meneliti topik yang berhubungan dengan industri penelitian (menggabungkan sumber online, wawancara, dan studi).</li>
-							<li>Membuat konten pemasaran yang jelas untuk mempromosikan produk/layanan kami.</li>
-							<li>Menyiapkan draft terstruktur dengan baik menggunakan Content Management Systems dan mengedit konten dan elemen blog sebelum dipublikasikan.</li>
-							<li>Berkoordinasi dengan tim untuk mengilustrasikan artikel.</li>
-							<li>Melakukan penelitian kata kunci sederhana dan gunakan panduan SEO untuk meningkatkan web traffic.</li>
-							<li>Mengidentifikasi kebutuhan dan kesenjangan pelanggan dalam konten kami dan rekomendasikan topik baru.</li>
-							<li>Up to date untuk konten situs web sesuai kebutuhan.</li>
-						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
-							Apply for IT Content Writer
 						</a>
 					</div>
 				</div>
@@ -666,6 +826,51 @@
 						</ul>
 						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
 							Apply for Project Manager
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
+							<img alt="Content Writer" src="../img/contenwriter.png" class="img-responsive"/>
+							<h4>Lowongan</h4>
+							<h5>IT Content Writer</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
+							<div style="margin-top:10px;font-weight:400">(On Hold)</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						Content Writer membantu menciptakan konten yang sesuai dengan perusahaan, produk, atau jasa yang ditampilkan pada website sehingga memudahkan pembaca memperoleh informasi yang sesuai.<br/><br/>
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Memiliki pengalaman kerja sebagai Content Writer, Copywriter atau peran serupa.</li>
+							<li>Mempunyai portofolio artikel yang pernah dipublikasikan adalah nilai tambah.</li>
+							<li>Berpengalaman melakukan penelitian menggunakan banyak sumber.</li>
+							<li>Familiar dengan publikasi web.</li>
+							<li>Memiliki kemampuan menulis dan mengedit yang sangat baik dalam bahasa Inggris dan Indonesia.</li>
+							<li>Mempunyai pengalaman langsung dengan Content Management Systems (misalnya WordPress).</li>
+							<li>Terbiasa bekerja dengan deadline.</li>
+							<li>Berpendidikan minimal D3 atau S1 Sastra Inggris, Ilmu Jurnalistik, Ilmu Komunikasi, Humas, atau yang relevan.</li>
+						</ul><br/>
+						
+						<b>Tanggung Jawab:</b><br/>
+						<ul class="joinus-ul">
+							<li>Meneliti topik yang berhubungan dengan industri penelitian (menggabungkan sumber online, wawancara, dan studi).</li>
+							<li>Membuat konten pemasaran yang jelas untuk mempromosikan produk/layanan kami.</li>
+							<li>Menyiapkan draft terstruktur dengan baik menggunakan Content Management Systems dan mengedit konten dan elemen blog sebelum dipublikasikan.</li>
+							<li>Berkoordinasi dengan tim untuk mengilustrasikan artikel.</li>
+							<li>Melakukan penelitian kata kunci sederhana dan gunakan panduan SEO untuk meningkatkan web traffic.</li>
+							<li>Mengidentifikasi kebutuhan dan kesenjangan pelanggan dalam konten kami dan rekomendasikan topik baru.</li>
+							<li>Up to date untuk konten situs web sesuai kebutuhan.</li>
+						</ul>
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">
+							Apply for IT Content Writer
 						</a>
 					</div>
 				</div>
