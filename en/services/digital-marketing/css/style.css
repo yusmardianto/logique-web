@@ -93,6 +93,7 @@ footer a:hover div{
 .list-inline>li.active {border: solid 2px #fff;border-radius: 1em;padding: 2px 5px;}
 .list-inline>li.active a {color:#fff;}
 
+
 @media (max-width:991px) {
 	.one-process{min-height:auto}
 	.img-mengapa{margin-top: 0;}

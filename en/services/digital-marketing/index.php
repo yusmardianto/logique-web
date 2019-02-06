@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Jika Anda tertarik menerapkan strategi digital marketing untuk bisnis Anda, LOGIQUE dapat membantu meningkatkan profit bisnis Anda lewat SEO, kampanye iklan Google Ads, Facebook Ads, dan lain-lain.">
-	<meta name="keywords" content="digital marketing, pemasaran digital, strategi digital marketing, layanan digital marketing, digital marketing logique">
+    <meta name="description" content="If you are interested in implementing a digital marketing strategy for your business, LOGIQUE can help increase your business profits through SEO, Google Ads ad campaigns, Facebook Ads, and others.">
+	<meta name="keywords" content="digital marketing, digital marketing, digital marketing strategy, digital marketing service, logique digital marketing">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Digital Marketing | LOGIQUE Digital Indonesia</title>
@@ -38,8 +38,8 @@
 	<body>
 		<div class="language-btn">
 			<ul class="list-inline">
-				<li><a href="/../en/services/digital-marketing/index.php">EN</a></li>
-				<li class="active"><a href="/../layanan/digital-marketing/index.php">ID</a></li>
+				<li class="active"><a href="/../en/services/digital-marketing/index.php">EN</a></li>
+				<li><a href="/../layanan/digital-marketing/index.php">ID</a></li>
 				<li><a href="#">JP</a></li>
 			</ul>
 		</div>
@@ -49,7 +49,7 @@
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<img src="img/logo.png" alt="Logo"/>
-							LOGIQUE Digital Marketing
+							LOGIQUE In-House Digital Marketing
 						</div>
 					</div>
 				</div>
@@ -60,11 +60,11 @@
 					<div class="col-md-7">
 						<div class="hidden-xs"><br/><br/></div>
 						<div class="bg-black-title inline-block">
-							 Sukseskan Bisnis Anda! 
+							Lead You to Success!
 						</div>
 						<div class="font-16">
 							<br/>
-							Menghadapi era digital saat ini tentunya membuat tantangan tersendiri, terutama bagi dunia bisnis dan usaha agar dapat sukses dan berhasil. LOGIQUE, perusahaan digital marketing profesional asal Jepang yang berpusat di Jakarta, memberikan solusi atas tantangan tersebut dengan menawarkan jasa layanan pemasaran digital.<br><br>Dengan pengalaman kami selama lebih dari 5 tahun di dunia digital, tentu membuat kami mengerti dan memahami secara menyeluruh terutama mengenai bagaimana bisnis bisa bersaing dan berhasil di dunia digital. Kami siap memberikan Anda solusi untuk meningkatkan profit bisnis Anda dengan pemanfaatan dunia digital!<br/><br/>
+							Facing the digital era today certainly creates its own challenges, especially for businesses in order to be competitive and successful. LOGIQUE, a Japanese professional digital marketing company based in Jakarta, provides solutions to this challenge by offering digital marketing services.<br><br>Our experience of more than 5 years in the digital world certainly makes us understand thoroughly about how business can compete and succeed in the digital world. We are ready to give you a solution to increase the profit of your business by utilizing the digital environment!<br/><br/>
 						</div>
 					</div>
 					<div class="col-md-5">
@@ -75,27 +75,27 @@
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
 						<div class="bg-black-title">
-							Masalah yang Sering Terjadi 
+							Problems that often occur
 						</div>
 						<div class="masalah-top">
 							<div class="row">
 								<div class="col-md-offset-2 col-md-8">
 									<div class="one-problem">
-										<b>Agensi Iklan Digital, SEO, dan Desain tidak dapat saling bekerja sama dengan baik</b><br/>
-										Selain pemasaran iklan, digital marketing sejatinya juga mencakup Search Engine Optimization (SEO) yang tepat dan desain yang menarik. Namun, masih sulit ditemukan perusahaan yang mampu menangani tiga elemen tersebut sekaligus. Untuk itu, banyak pelaku bisnis akhirnya menggunakan agensi-agensi terpisah. Dalam hal ini, masalah yang sering dikeluhkan adalah kegagalan komunikasi dan kerja sama yang terjalin di antara ketiganya. <br><br>Anda tidak akan menemukan masalah tersebut di LOGIQUE. Selain menjalankan kampanye iklan digital tertarget, kami juga menyediakan jasa maksimalisasi SEO untuk website, serta pembuatan desain baik untuk iklan, konten produk, maupun pembaharuan website Anda.
+										<b>Digital Advertising, SEO, and Design agencies cannot work with each other well</b><br/>
+										In addition to advertising, digital marketing actually includes the right Search Engine Optimization (SEO) and attractive design. However, it is still difficult to find companies that are able to handle these three elements at once. For this reason, many business people end up using separate agencies. In this case, the problem that is often complained about is the failure of communication and cooperation between the three.<br><br>You will not find that kind of problem at LOGIQUE. In addition to running targeted digital advertising campaigns, we also provide SEO maximization services for websites, as well as creating designs for both advertising, product content, and updating your website.
 
 									</div>
 									<div class="one-problem">
-										<b>Lalu lintas visitor website hanya bergantung pada iklan</b><br/>
-										Setelah masa berjalannya iklan digital berakhir, banyak pelaku bisnis menemukan bahwa traffic website mereka menjadi turun drastis. LOGIQUE menyajikan layanan yang menyeimbangkan Search Engine Marketing (SEM) dan SEO. Dengan demikian, traffic yang website Anda dapatkan tidak hanya dari iklan, melainkan juga secara organik dari target bisnis Anda lewat mesin pencarian populer (Google, Bing, dll). Optimasi ini akan kami lakukan secara berkala sesuai kebutuhan Anda.
+										<b>Most website visitor traffic only depends on advertising</b><br/>
+										After the digital advertising campaign ends, many businesses find that their website traffic has dropped dramatically. LOGIQUE provides services that balance Search Engine Marketing (SEM) and SEO. Thus, the traffic that your website gets not only from advertising, but also organically from your business target through popular search engines (Google, Bing, etc.). We will do this optimization regularly according to your needs.
 									</div>
 									<div class="one-problem">
-										<b>Strategi digital marketing yang diterapkan tidak sesuai dengan tujuan bisnis</b><br/>
-										Pemasaran digital memiliki banyak sekali varian objektif kampanye, dan strategi yang diterapkan pun bisa bermacam-macam. Banyak pelaku bisnis yang masih salah dalam menentukan objektif dan strategi digital marketing yang tepat dan sesuai dengan tujuan atau target bisnisnya, sehingga dana pemasaran produk pun terbuang sia-sia. <br><br>Dengan LOGIQUE, bisnis Anda akan dianalisis terlebih dahulu dengan cermat secara keseluruhan, termasuk kemungkinan kompetitor yang ada. Setelah itu, kami akan menawarkan strategi dan pendekatan terbaik yang sesuai dengan tujuan dan target bisnis Anda, sehingga Anda dapat memastikan bahwa bisnis Anda akan ditangani dengan tepat.
+										<b>The applied Digital Marketing strategy is not in accordance with business objectives</b><br/>
+										Digital marketing has many variants of campaign objectives, and the strategies implemented can vary. Many business people are still wrong in determining the right objective and digital marketing strategies that are appropriate and in accordance with their goals or business targets, so that product marketing funds are wasted.<br><br>With LOGIQUE, your business will be thoroughly analyzed in advance, including the possibility of existing competitors. After that, we will offer the best strategies and approaches that fit your business goals and objectives, so you can ensure that your business will be handled appropriately.
 									</div>
 									<div class="one-problem">
-										<b>Konten marketing yang dibuat kurang menarik target</b><br/>
-										Pembuatan konten yang terlalu kaku atau berlebihan tentu tidak akan menarik audiens yang menjadi target bisnis Anda. LOGIQUE paham, konten dalam SEM memiliki kemasan yang berbeda dengan SEO. Selain kreatif dan menarik audiens, konten marketing yang sukses perlu mengikuti karakter perhitungan algoritma masing-masing platform iklan digital (Search Ads, FB Ads, dll). LOGIQUE selalu memastikan konten marketing Anda dibuat secara kreatif, bila perlu dengan desain yang juga menarik, yang tertarget dan tentunya memberikan hasil (conversion) untuk bisnis Anda.
+										<b>Marketing contents are made less attractive to the target</b><br/>
+										Making content that is too rigid or excessive will certainly not attract an audience that is your business target. LOGIQUE understands, content in SEM has different packaging than SEO. Apart from being creative and attractive to the audience, successful marketing content needs to follow the algorithmic calculation characteristics of each digital advertising platform (Search Ads, FB Ads, etc.). LOGIQUE always ensures that your marketing content is creatively created, if necessary with a design that is also interesting, targeted and certainly gives a conversion for your business.
 									</div>
 								</div>
 							</div>
@@ -119,24 +119,24 @@
 					<div class="col-md-4">
 						<br/><img src="img/img-mengapa.png" class="img-mengapa img-responsive center-block"/>
 						<br/>
-						<div class="bg-black-title">Mengapa harus pilih Layanan Digital Marketing LOGIQUE?</div>
+						<div class="bg-black-title">Why should I choose LOGIQUE Digital Marketing service?</div>
 					</div>
 					<div class="col-md-8">
 						<br/><div class="hidden-sm hidden-xs"><br/><br/></div>
 						<div class="bg-mengapa">
 							<div class="row">
 								<div class="col-md-offset-2 col-md-8">
-									<b>Profesional di bidang teknologi digital dan website</b><br/><br/>
-									Selama lebih dari 5 tahun, LOGIQUE telah dipercaya oleh klien-klien lokal dan internasional dalam menangani segala permasalahan mereka mengenai pemasaran digital, mulai dari SEO website, pembaharuan desain UI/UX, hingga menjalankan kampanye iklan digital.
+									<b>Professional in the field of digital technology and websites</b><br/><br/>
+									For more than 5 years, LOGIQUE has been trusted by local and international clients in handling all their problems regarding digital marketing, from website SEO, UI/UX design updates, to running digital advertising campaigns.
 									<br/><br/>
-									<b>Memiliki tim yang lengkap dan kompeten di bidangnya masing-masing</b><br/><br/>
-									LOGIQUE memiliki tim yang lengkap dari segala bidang yang dibutuhkan, mulai dari social media dan digital ads strategist, SEO content writer, web designer, hingga web developer. Bisnis Anda akan ditangani oleh tim yang kreatif, kompeten, berpengalaman, dan profesional.
+									<b>Have everything that it takes</b><br/><br/>
+									LOGIQUE has a complete team from all fields needed, from social media and digital ads strategists, SEO content writers, web designers, to web developers. Your business will be handled by a team that is creative, competent, experienced, and professional.
 									<br/><br/>
-									<b>Menggunakan prosedur yang jelas</b><br/><br/>
-									LOGIQUE menggunakan prosedur pelaksanaan pemasaran digital yang jelas dan bertahap. Semua diawali oleh diskusi dan pemahaman mengenai keinginan Anda, lalu penawaran strategi, konfirmasi, eksekusi, hingga pelaporan hasil secara berkala. Setiap langkah ini dilakukan secara hati-hati agar memberikan hasil yang maksimal.
+									<b>Using clear procedures</b><br/><br/>
+									LOGIQUE uses clear and gradual procedures for implementing the digital marketing strategy. Everything begins with discussion and understanding of your desires, then offers strategies, confirmations, executions, and report the results regularly. Every step is done carefully so to give maximum results.
 									<br/><br/>
-									<b>Bekerja secara transparan dan fleksibel</b><br/><br/>
-									Selain memiliki prosedur yang jelas, LOGIQUE juga memberikan kebebasan bagi klien kami untuk selalu menghubungi kami jika perlu dilakukan perubahan atau tambahan dalam eksekusi strategi untuk bisnis Anda. Kami juga tidak serta-merta langsung mengeksekusi iklan digital atau optimasi lainnya tanpa persetujuan klien kami. Setiap strategi baru yang akan kami terapkan selalu kami laporkan secara transparan dan kami diskusikan dengan Anda, sehingga Anda selalu tahu sedang di tahap mana bisnis Anda sedang ditangani. 
+									<b>Transparent and Flexible</b><br/><br/>
+									In addition to having clear procedures, LOGIQUE also provides freedom for our clients to always contact us if there is a need to make changes or additions to the execution of strategies for your business. We also don’t immediately run digital ads or other optimizations without the approval of our clients. Every new strategy we will implement is always reported in a transparent manner and we discuss it with you, so you always know which stage your business is being handled.
 								</div>
 							</div>
 						</div>
@@ -150,7 +150,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
-						<div class="yellow-bg bg-black-title">Strategi Digital Marketing LOGIQUE</div>
+						<div class="yellow-bg bg-black-title">LOGIQUE Digital Marketing Strategy</div>
 						<br/><br/>
 						<div class="row">
 							<div class="col-sm-5">
@@ -160,10 +160,10 @@
 							</div>
 							<div class="col-sm-7">
 								<div class="bordered-white">
-									Google Ads (Search Ads, Display Ads/GDN Ads)<br/>
+									Google Ads (Search Ads, Display Ads/GDN)<br/>
 									Facebook/Instagram Ads<br/>
-									Desain Kreatif<br/>
-									Analisa dan Laporan
+									Creative Design<br/>
+									Analyze & Report
 								</div>
 							</div>
 						</div>
@@ -173,7 +173,7 @@
 								<div class="bg-grey">
 									<div class="row">
 										<div class="col-md-offset-1 col-md-10">
-											Paid Media adalah cara paling efektif untuk meningkatkan traffic dan engagement di akun media sosial bisnis Anda. Dengan ini, LOGIQUE dapat membantu mempromosikan bisnis Anda secara tepat dan cepat ke target yang Anda inginkan. Anda akan mendapatkan hasilnya dalam waktu singkat.
+											Paid Media is the most effective way to increase traffic and engagement on your business's social media accounts. With this strategy, LOGIQUE can help promote your business precisely and quickly to the target you want. You will get the result in a short time.
 										</div>
 									</div>
 								</div>
@@ -189,10 +189,10 @@
 							<div class="col-sm-7">
 								<div class="bordered-white">
 									SEO Website<br/>
-									Penulisan Konten<br/>
+									Content Creation<br/>
 									AMP<br/>
-									Desain Kreatif<br/>
-									Analisa dan Laporan
+									Creative Design<br/>
+									Analyze & Report
 								</div>
 							</div>
 						</div>
@@ -202,7 +202,7 @@
 								<div class="bg-grey">
 									<div class="row">
 										<div class="col-md-offset-1 col-md-10">
-											Untuk meningkatkan traffic secara organik melalui mesin pencari, khususnya Google, LOGIQUE akan memaksimalkan penggunaan akun media sosial serta SEO di website Anda, mulai dari menambahkan meta tag dan keyword yang tepat, rekreasi konten dan desain, listing, hingga perbaikan untuk halaman akses seluler (AMP).
+											To increase traffic organically through a search engine, especially Google, LOGIQUE will maximize the use of social media accounts as well as improving SEO on your website, starting from adding the right meta tags and keywords, design and content recreation, listings, to improvements for mobile access page (AMP).
 										</div>
 									</div>
 								</div>
@@ -217,11 +217,11 @@
 							</div>
 							<div class="col-sm-7">
 								<div class="bordered-white">
-									Penulisan Konten<br/>
-									Desain Kreatif<br/>
-									Pembuatan Event<br/>
-									Kampanye Hashtag<br/>
-									Analisa dan Laporan<br/>
+									Content Creation<br/>
+									Creative Design<br/>
+									Event Creation<br/>
+									Hashtag Campaign<br/>
+									Analyze & Report<br/>
 								</div>
 							</div>
 						</div>
@@ -231,7 +231,7 @@
 								<div class="bg-grey">
 									<div class="row">
 										<div class="col-md-offset-1 col-md-10">
-											Untuk mendapatkan hasil jangka panjang, penting untuk mengelola dan mengoptimalkan situs web dan akun media sosial yang Anda miliki. LOGIQUE akan membantu membuat dan menyebarkan konten dalam bentuk artikel, desain poster, banner, dan video, serta menjalankan kampanye event hingga kampanye hashtag untuk bisnis Anda di media sosial.
+											To get long-term results, it is necessary to manage and optimize the website and social media accounts that you have. LOGIQUE will help create and disseminate contents in the form of articles, poster designs, banner, and video, as well as running event campaigns to hashtag campaigns for your business on social media.
 										</div>
 									</div>
 								</div>
@@ -247,12 +247,12 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
-						<div class="yellow-bg bg-black-title">Metode PDCA (Plan-Do-Check-Act)</div>
+						<div class="yellow-bg bg-black-title">Plan, Do, Check, Act</div>
 						<div class="desc-proses">
 							<div class="row">
 					<div class="col-md-offset-1 col-md-10">
-							Agar website Anda terus mendapatkan hasil yang baik sehingga profit bisnis Anda mengalami peningkatan, maka LOGIQUE menggunakan metode PDCA yang merupakan sebuah teknik dalam Total Quality Management. Kami terus melakukan perbaikan selama dan secara terus-menerus melakukan evaluasi dari hasil yang didapatkan.<br/><br/>
-							Berikut ini adalah gambaran metode PDCA yang kami terapkan.<br/><br/>
+							In order for your business to continue to get good results, LOGIQUE uses the PDCA method which is a technique in Total Quality Management. We continue to make improvements, both in the process and methods that we apply and continuously evaluate results obtained.<br/><br/>
+							Here is a description of the PDCA method that we apply.<br/><br/>
 						</div>
 						</div>
 						</div>
@@ -262,8 +262,8 @@
 								<div class="hidden-xs hidden-sm one-process">
 									<img src="img/perbaikan.png" class="img-responsive center-block" alt="Perbaikan"/>
 									<br/>
-									<b>Perbaikan</b><br/>
-									Segala perbaikan yang kami lakukan, selanjutnya akan kami rencanakan dan akan kami analisis kembali untuk penyempurnaan website Anda. 
+									<b>IMPROVE</b><br/>
+									We will make improvements to both the website and your social media account management. This improvement is not only done at the beginning, but also periodically.
 								</div>
 								<img src="img/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow4"/>
 							</div>
@@ -271,8 +271,8 @@
 								<div class="one-process">
 									<img src="img/analisis.png" class="img-responsive center-block" alt="Analisis"/>
 									<br/>
-									<b>Analisis</b><br/>
-									Dimana kami akan melakukan berbagai analisa dari website klien untuk mengetahui berbagai permasalahan yang terdapat pada website Anda serta hasil dari implementasi yang telah dilakukan.
+									<b>ANALYZE</b><br/>
+									During the advertising and optimization process, we always carry out analysis, monitoring, and tracking of changes. This is so that the results obtained can increase gradually.
 								</div>
 								
 								<div class="visible-sm visible-xs">
@@ -280,8 +280,8 @@
 									<div class="one-process">
 										<img src="img/laporan.png" class="img-responsive center-block" alt="Laporan"/>
 										<br/>
-										<b>Laporan</b><br/>
-										Setelah kami melakukan analisa dan mengetahui permasalahan website Anda, selanjutnya kami akan membuat laporan mengenai seluruh masalah tersebut kepada Anda. Untuk dilakukan penelitian dan perencanaan lebih lanjut.
+										<b>REPORT</b><br/>
+										Every analysis and improvement made will be reported to you periodically. This report will later be used as a benchmark for further improvement of strategies, for websites, social media, and the results of the advertisements.
 									</div>
 								</div>
 								
@@ -289,8 +289,8 @@
 								<div class="one-process">
 									<img src="img/rencana.png" class="img-responsive center-block" alt="Rencana"/>
 									<br/>
-									<b>Rencana</b><br/>
-									Pada tahap ini, kami akan melakukan perencanaan baik jangka pendek maupun jangka panjang terhadap website Anda untuk meraih hasil yang optimal sesuai dengan keinginan Anda.
+									<b>PLAN</b><br/>
+									At this stage, we prepare a strategic plan and improvement to be carried out in the next period. Subsequent improvements are planned in stages according to the targets to be achieved each month.
 								</div>
 								
 								<div class="visible-sm visible-xs">
@@ -298,8 +298,8 @@
 									<div class="one-process">
 										<img src="img/perbaikan.png" class="img-responsive center-block" alt="Perbaikan"/>
 										<br/>
-										<b>Perbaikan</b><br/>
-										Segala perbaikan yang kami lakukan, selanjutnya akan kami rencanakan dan akan kami analisis kembali untuk penyempurnaan website Anda. 
+										<b>IMPROVE</b><br/>
+										We will make improvements to both the website and your social media account management. This improvement is not only done at the beginning, but also periodically.
 									</div>
 								</div>
 								
@@ -309,8 +309,8 @@
 								<div class="hidden-xs hidden-sm one-process">
 									<img src="img/laporan.png" class="img-responsive center-block" alt="Laporan"/>
 									<br/>
-									<b>Laporan</b><br/>
-									Setelah kami melakukan analisa dan mengetahui permasalahan website Anda, selanjutnya kami akan membuat laporan mengenai seluruh masalah tersebut kepada Anda. Untuk dilakukan penelitian dan perencanaan lebih lanjut.
+									<b>REPORT</b><br/>
+									Every analysis and improvement made will be reported to you periodically. This report will later be used as a benchmark for further improvement of strategies, for websites, social media, and the results of the advertisements.
 								</div>
 								<img src="img/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow3"/>
 							</div>
@@ -327,44 +327,44 @@
 						<div class="yellow-bg bg-black-title">FAQ</div>
 						<br/><br/>
 						<div class="one-faq">
-							<b>LOGIQUE telah menangani persoalan digital marketing di bidang apa saja?</b><br/>
-							Kami telah menangani berbagai macam bidang, mulai dari properti, otomotif, hingga pemerintahan. Untuk dapat melihat seluruh klien kami, Anda dapat berkunjung ke halaman portofolio kami atau menghubungi kami melalui email di info@logique.co.id, telpon di nomor (021) 227 089 35/36, atau kirim pesan WhatsApp di nomor 0811-870-321.
+							<b>What kind of field that LOGIQUE has handled regarding digital marketing issues?</b><br/>
+							We have handled various fields, ranging from automotive, property, to embassies. To be able to see all of our clients, you can visit our portfolio page or contact us by email at info@logique.co.id or phone at (021) 22708935/36 or you can send us message via WhatsApp at 0811-870- 321.
 						</div>
 						<div class="one-faq">
-							<b>Strategi digital marketing apa saja yang bisa LOGIQUE terapkan untuk bisnis saya?</b><br/>
-							LOGIQUE mampu menjalankan beragam strategi digital marketing, mulai dari menjalankan kampanye iklan, pengembangan media sosial (SNS), maksimalisasi SEO, dan sebagainya. Strategi ini tentunya tergantung pada target atau goal bisnis Anda seperti membangun brand awareness, meningkatkan traffic website, meningkatkan conversion/lead, dan sebagainya. 
+							<b>What digital marketing strategies can LOGIQUE apply to my business?</b><br/>
+							LOGIQUE is able to run a variety of digital marketing strategies, ranging from running ad campaigns, social media development (SNS), SEO improvement, and many more. These strategies certainly depend on your business goals or targets such as building brand awareness, increasing website traffic, increasing conversion/leads, and so on.
 						</div>
 						<div class="one-faq">
-							<b>Berapa biaya yang dibutuhkan untuk mendapatkan layanan pemasaran digital dari LOGIQUE?</b><br/>
-							LOGIQUE menyediakan layanan pemasaran digital dengan harga yang disesuaikan dengan kebutuhan Anda. Untuk mengetahui secara mendetil, Anda dapat menghubungi kami melalui email ke info@logique.co.id atau telpon di nomor (021) 227 089 35/36, atau melalui WhatsApp di nomor 0811-870-321.
+							<b>How much does it cost to get digital marketing services from LOGIQUE?</b><br/>
+							LOGIQUE provides digital marketing services at prices tailored to your needs. To find out in detail about our digital marketing services, you can contact us by email to info@logique.co.id or by phone at (021) 227 089 35/36, or via WhatsApp at 0811-870-321.
 						</div>
 						<div class="one-faq">
-							<b>Kapan saya bisa melihat hasil dari strategi digital marketing yang diterapkan?</b><br/>
-							Setiap strategi yang diterapkan biasanya membutuhkan waktu minimal satu bulan untuk diketahui hasil maksimalnya. Namun, kami biasanya memberikan laporan rutin setiap awal bulan dan pertengahan bulan (midterm) agar Anda dapat mengetahui perkembangan serta hasil sementara pemasaran digital bisnis Anda.
+							<b>When can I see the results of the digital marketing strategy being implemented?</b><br/>
+							Every strategy applied usually requires a minimum of one month to see the maximum results. However, we usually provide regular reports at the beginning of the month and mid-month (midterm) so you can find out the progress and temporary results.
 						</div>
 						<div class="one-faq">
-							<b>Apakah layanan Digital Marketing LOGIQUE telah mencakup SEM, SEO, dan Manajemen Media Sosial?</b><br/>
-							Setiap layanan yang kami tawarkan tentunya disesuaikan dengan kebutuhan dan target atau goal bisnis Anda. Namun, jika Anda berminat, kami juga bisa memberikan ketiga layanan tersebut demi hasil yang maksimal.
+							<b>Does Digital Marketing LOGIQUE service include SEM, SEO, and Social Media Management?</b><br/>
+							Every service we offer is of course tailored to the needs and targets or goals of your business. However, if you are interested, we can also provide these three services for maximum results.
 						</div>
 						<div class="one-faq">
-							<b>Apakah LOGIQUE dapat mengelola media sosial perusahaan kami?</b><br/>
-							Tentu. Kami juga menyediakan layanan pengelolaan dan pengembangan akun media sosial perusahaan Anda, mulai dari pemetaan strategi konten dan posting, pembuatan desain banner/video, hingga kampanye hashtag.
+							<b>Can LOGIQUE manage our company's social media?</b><br/>
+							Certainly. We also provide management and development services for your company's social media accounts, starting from content and post strategy mapping, creating banner/video designs, up to hashtag campaigns.
 						</div>
 						<div class="one-faq">
-							<b>Apakah saya bisa datang ke kantor LOGIQUE untuk membahas mengenai bisnis dan usaha saya?</b><br/>
-							LOGIQUE selalu siap menerima kedatangan Anda yang ingin berkonsultasi dengan kami. Kami berkomitmen untuk memberikan solusi dari seluruh permasalahan digital Anda.
+							<b>Can I come to LOGIQUE's office to discuss my business?</b><br/>
+							LOGIQUE is always ready to welcome your arrival to consult with us. Because we are committed to providing solutions to all your digital problems.
 						</div>
 						<div class="one-faq">
-							<b>Bagaimana prosedur layanan pemasaran digital yang diterapkan LOGIQUE?</b><br/>
-							LOGIQUE memiliki prosedur yang bertahap dan terstruktur dalam layanan ini, mulai dari diskusi mendalam mengenai target bisnis, riset mengenai tren, audiens, hingga kompetitor, lalu berlanjut pada penawaran strategi, konfirmasi, eksekusi, hingga pelaporan (report). Untuk mengetahui lebih detil, Anda bisa langsung menghubungi kami melalui email ke info@logique.co.id atau telpon di nomor (021) 227 089 35/36, atau melalui WhatsApp di nomor 0811-870-321.
+							<b>What is the procedure for digital marketing services implemented by LOGIQUE?</b><br/>
+							LOGIQUE has a gradual and structured procedure in this service, ranging from in-depth discussions about business targets, research on trends, audiences, to competitors, then continues on strategy offering, confirmation, execution, and reporting. To find out more details, you can directly contact us by email to info@logique.co.id or call on (021) 227 089 35/36, or via WhatsApp at 0811-870-321.
 						</div>
 						<div class="one-faq">
-							<b>Apa dampak pemasaran digital bagi bisnis atau perusahaan saya?</b><br/>
-							Tanpa Anda sadari, penerapan strategi pemasaran secara digital akan membawa dampak yang cukup besar bagi bisnis atau perusahaan Anda, di mana perusahaan Anda akan semakin dikenal oleh banyak orang bahkan hingga ke mancanegara melalui akses internet yang tanpa batas.
+							<b>What impact does digital marketing have on my business or company?</b><br/>
+							Without you realizing it, digital marketing will have a considerable impact on your business or company, where your company will be increasingly known by many people even to foreign countries through unlimited internet access.
 						</div>
 						<div class="one-faq">
-							<b>Layanan apa saja yang ditawarkan oleh LOGIQUE selain digital marketing?</b><br/>
-							Sebagai perusahaan digital marketing profesional di Indonesia dan telah mempunyai pengalaman selama lebih dari 5 tahun, LOGIQUE menawarkan Anda berbagai solusi untuk meningkatkan profit bisnis Anda. Segera kunjungi halaman layanan kami untuk mengetahui informasi selengkapnya, atau Anda dapat menghubungi kami melalui email di info@logique.co.id atau telpon di nomor (021) 227 089 35/36, atau kirim pesan ke nomor WhatsApp kami 0811-870-321.
+							<b>What services does LOGIQUE offer besides digital marketing?</b><br/>
+							As a professional digital marketing company in Indonesia and has more than 5 years of experience, LOGIQUE offers you various solutions for each of your digital problems. Please visit our service page to find out more information, or you can contact us by email at info@logique.co.id or by telephone at (021) 227 089 35/36 or WhatsApp 0811-870-321.
 						</div>
 					</div>
 				</div>
