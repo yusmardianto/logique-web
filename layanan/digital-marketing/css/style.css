@@ -88,8 +88,8 @@ footer a:hover div{
 .arrow4{margin-top:30px;margin-right:0;margin-left:auto;display: block;transform:rotate(270deg);}
 .desc-proses{padding: 30px 0 15px;background: #eeebeb;text-align: center;font-size: 16px;}
 
-.language-btn {position: absolute;right: 6px;top: 6px;}
-.list-inline>li a {color:#000;}
+.language-btn {position: absolute;right: 30px;top: 66px;z-index: 9;}
+.list-inline>li a {color:#fff;}
 .list-inline>li.active {border: solid 2px #fff;border-radius: 1em;padding: 2px 5px;}
 .list-inline>li.active a {color:#fff;}
 
@@ -115,6 +115,7 @@ footer a:hover div{
 	.bordered-white.one-sentence2,
 	.bg-grey{margin-bottom: 20px;}
 	.link-footer .medsos-new .fa {font-size: 35px;}
+    .language-btn {top: 6px;right: 6px;}
 }
 
 @media (max-width: 320px){

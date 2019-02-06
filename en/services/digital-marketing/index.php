@@ -320,7 +320,7 @@
 			</div>
 		</div>
 		
-		<div class="div-faq">
+		<div class="div-faq" style="margin-bottom:0;">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
@@ -390,85 +390,86 @@
 			<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-8 col-sm-push-4">
-						<div class="row">
-							<div class="col-sm-3 link-footer-nav">
-								<a href="/index.php">Beranda</a><br/><br/>
-								<a href="/tentang-kami.php">Tentang Kami</a><br/><br/>
-								<a href="/portofolio.php">Portofolio</a><br/><br/>
-								<a href="/layanan.php">Layanan</a><br/><br/>
-								<a href="/karir.php">Karir</a><br/><br/>
-								<a href="/career/">Join LOGIQUE</a><br/><br/>
-								<a href="/hubungi-kami.php">Hubungi Kami</a><br/>
-							</div>
-							<div class="col-sm-5 link-footer">
-								<div class="footer-title">Layanan Kami</div>
-								<h5><a href="/layanan/mekanisme-pembuatan-website/" target="_blank">Jasa Pembuatan Website</a></h5>
-									<h6><a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pembuatan Website Career</a></h6>
-									<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Restoran </a></h6>
-									<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Klinik Gigi </a></h6>
-								<h5><a href="/layanan/pembuatan-sistem-web/" target="_blank">Jasa Pengembangan Sistem Web</a></h5>
-								<h5><a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank">Pengembangan Aplikasi Mobile </a></h5>
-								<h5><a href="/layanan/penetration-testing/" target="_blank">Pengetesan Keamanan Website (VA Test) </a></h5>
-							</div>
-							<div class="col-sm-4 link-footer">
-								<div class="footer-title">Produk LOGIQUE</div>
-								<h5 style="margin-bottom: 10px;">
-									<a href="/produk/dokodemo-kerja.php" target="_blank">
-										Dokodemo-Kerja<br/><div style="font-size: 12px;">(Sistem aplikasi bagi pekerja remote)</div>
-									</a>
-								</h5>
-								<h5 style="margin-bottom: 10px;">
-									<a href="/produk/nippo.php" target="_blank">
-										Nippo<br/><div style="font-size: 12px;">(Sistem aplikasi laporan pegawai harian)</div>
-									</a>
-								</h5>
-								<h5>
-									<a href="/produk/sugoi-saiyo.php" target="_blank">
-										Sugoi Saiyo<br/><div style="font-size: 12px;">(Sistem aplikasi perekrutan pegawai)</div>
-									</a>
-								</h5>
-								<div class="hidden-xs"><br/></div>
-								<div class="footer-title">Media Sosial</div>
-								<div class="row medsos-new">
-									<div class="col-xs-3 text-center">
-										<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a>
-									</div>
-									<div class="col-xs-3 text-center">
-										<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-									</div>
-									<div class="col-xs-3 text-center">
-										<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-									</div>
-									<div class="col-xs-3 text-center">
-										<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-									</div>
+				<div class="col-sm-8 col-sm-push-4">
+					<div class="row">
+						<div class="col-sm-3 link-footer-nav">
+							<a href="/en/index.php">Home</a><br/><br/>
+							<a href="/en/about.php">About Us</a><br/><br/>
+							<a href="/en/portfolio.php">Portfolio</a><br/><br/>
+							<a href="/en/services.php">Service</a><br/><br/>
+							<a href="/en/joinus.php">Career</a><br/><br/>
+							<a href="/en/joinus.php">Join LOGIQUE</a><br/><br/>
+							<a href="/en/contact.php">Contact Us</a><br/>
+						</div>
+						<div class="col-sm-5 link-footer">
+							<div class="footer-title">Our Service</div>
+							<h5><a href="/en/services/mekanisme-pembuatan-website" target="_blank">Web Development</a></h5>
+								<h6><a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recruitment Website Creation</a></h6>
+								<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
+								<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dentist Website Creation</a></h6>
+							<h5><a href="/en/services/pembuatan-sistem-web/" target="_blank">Web System Development</a></h5>
+							<h5><a href="/en/services/pembuatan-aplikasi-mobile/">Mobile App Development</a></h5>
+							<h5><a href="/en/services/penetration-testing/">WEB Security Assesment (VA Test)</a></h5>
+						</div>
+						<div class="col-sm-4 link-footer">
+							<div class="footer-title">Our Product</div>
+							<h5 style="margin-bottom: 10px;">
+								<a href="/en/product/dokodemo-kerja.php" target="_blank">
+									Dokodemo-Kerja<br/><div style="font-size: 12px;">(Remote Working Tool)</div>
+								</a>
+							</h5>
+							<h5 style="margin-bottom: 10px;">
+								<a href="/en/product/nippo.php" target="_blank">
+									Nippo<br/><div style="font-size: 12px;">(Daily Report Tool)</div>
+								</a>
+							</h5>
+							<h5>
+								<a href="/en/product/sugoi-saiyo.php" target="_blank">
+									Sugoi Saiyo<br/><div style="font-size: 12px;">(Employee Recruitment System)</div>
+								</a>
+							</h5>
+							<div class="hidden-xs"><br/></div>
+							<div class="footer-title">Social Media</div>
+							<div class="row medsos-new">
+								<div class="col-xs-3 text-center">
+									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a>
+								</div>
+								<div class="col-xs-3 text-center">
+									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+								</div>
+								<div class="col-xs-3 text-center">
+									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+								</div>
+								<div class="col-xs-3 text-center">
+									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
 								</div>
 							</div>
 						</div>
-						<br/>
 					</div>
-					<div class="col-sm-4 col-sm-pull-8">
-						<div itemscope itemtype="http://schema.org/Organization">
-							<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
-							<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-							<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
-							Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span>
-							<br><br>
-							&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
-							<br>
-							<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
-							<br><br>
-							</div>
-						</div>
-						Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/mekanisme-pembuatan-website/" target="_blank"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.
-						<br/><br/>
-						<div itemscope itemtype="http://schema.org/CreativeWork">
-							<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
-							<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
-						</div>
+					<br/>
+				</div>
+				<div class="col-sm-4 col-sm-pull-8">
+				<div itemscope itemtype="http://schema.org/Organization">
+					<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
+					<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+					<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
+					Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span>
+					<br><br>
+					&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+					<br>
+					<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
+					<br><br>
 					</div>
 				</div>
+					LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.				
+					<br/><br/>
+					<div itemscope itemtype="http://schema.org/CreativeWork">
+						<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
+						<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
+					</div>
+					<br/><br/>
+				</div>
+			</div>
 			</div>
 		</footer>
 	
