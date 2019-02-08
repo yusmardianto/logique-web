@@ -262,8 +262,8 @@
 								<div class="hidden-xs hidden-sm one-process">
 									<img src="img/perbaikan.png" class="img-responsive center-block" alt="Perbaikan"/>
 									<br/>
-									<b>Perbaikan</b><br/>
-									Segala perbaikan yang kami lakukan, selanjutnya akan kami rencanakan dan akan kami analisis kembali untuk penyempurnaan website Anda. 
+									<b>LAPORAN</b><br/>
+									Setiap hasil analisa dan peningkatan yang dilakukan akan dilaporkan kepada Anda secara berkala. Laporan ini nantinya akan dijadikan tolok ukur untuk peningkatan strategi selanjutnya, baik untuk website, media sosial, dan hasil jalannya iklan.
 								</div>
 								<img src="img/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow4"/>
 							</div>
@@ -271,8 +271,8 @@
 								<div class="one-process">
 									<img src="img/analisis.png" class="img-responsive center-block" alt="Analisis"/>
 									<br/>
-									<b>Analisis</b><br/>
-									Dimana kami akan melakukan berbagai analisa dari website klien untuk mengetahui berbagai permasalahan yang terdapat pada website Anda serta hasil dari implementasi yang telah dilakukan.
+									<b>RENCANA</b><br/>
+									Pada tahap ini, kami menyiapkan rencana strategi dan peningkatan untuk dilakukan pada periode selanjutnya. Peningkatan selanjutnya direncanakan secara bertahap sesuai dengan target yang ingin dicapai setiap bulannya.
 								</div>
 								
 								<div class="visible-sm visible-xs">
@@ -280,8 +280,8 @@
 									<div class="one-process">
 										<img src="img/laporan.png" class="img-responsive center-block" alt="Laporan"/>
 										<br/>
-										<b>Laporan</b><br/>
-										Setelah kami melakukan analisa dan mengetahui permasalahan website Anda, selanjutnya kami akan membuat laporan mengenai seluruh masalah tersebut kepada Anda. Untuk dilakukan penelitian dan perencanaan lebih lanjut.
+										<b>PENINGKATAN</b><br/>
+										Kami akan melakukan peningkatan baik pada website, maupun media sosial Anda. Peningkatan ini tidak hanya dilakukan di awal, namun juga berkala.
 									</div>
 								</div>
 								
@@ -289,8 +289,8 @@
 								<div class="one-process">
 									<img src="img/rencana.png" class="img-responsive center-block" alt="Rencana"/>
 									<br/>
-									<b>Rencana</b><br/>
-									Pada tahap ini, kami akan melakukan perencanaan baik jangka pendek maupun jangka panjang terhadap website Anda untuk meraih hasil yang optimal sesuai dengan keinginan Anda.
+									<b>ANALISIS</b><br/>
+									Selama proses iklan dan optimasi berjalan, kami selalu melakukan analisis, monitor, dan pelacakan terhadap setiap perubahan. Hal ini agar hasil yang didapat bisa meningkat secara bertahap.
 								</div>
 								
 								<div class="visible-sm visible-xs">
@@ -298,8 +298,8 @@
 									<div class="one-process">
 										<img src="img/perbaikan.png" class="img-responsive center-block" alt="Perbaikan"/>
 										<br/>
-										<b>Perbaikan</b><br/>
-										Segala perbaikan yang kami lakukan, selanjutnya akan kami rencanakan dan akan kami analisis kembali untuk penyempurnaan website Anda. 
+										<b>LAPORAN</b><br/>
+										Setiap hasil analisa dan peningkatan yang dilakukan akan dilaporkan kepada Anda secara berkala. Laporan ini nantinya akan dijadikan tolok ukur untuk peningkatan strategi selanjutnya, baik untuk website, media sosial, dan hasil jalannya iklan.
 									</div>
 								</div>
 								
@@ -309,8 +309,8 @@
 								<div class="hidden-xs hidden-sm one-process">
 									<img src="img/laporan.png" class="img-responsive center-block" alt="Laporan"/>
 									<br/>
-									<b>Laporan</b><br/>
-									Setelah kami melakukan analisa dan mengetahui permasalahan website Anda, selanjutnya kami akan membuat laporan mengenai seluruh masalah tersebut kepada Anda. Untuk dilakukan penelitian dan perencanaan lebih lanjut.
+									<b>PENINGKATAN</b><br/>
+									Kami akan melakukan peningkatan baik pada website, maupun media sosial Anda. Peningkatan ini tidak hanya dilakukan di awal, namun juga berkala.
 								</div>
 								<img src="img/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow3"/>
 							</div>

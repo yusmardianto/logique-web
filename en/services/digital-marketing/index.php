@@ -38,8 +38,8 @@
 	<body>
 		<div class="language-btn">
 			<ul class="list-inline">
-				<li class="active"><a href="#">EN</a></li>
-				<li><a href="/layanan/digital-marketing">ID</a></li>
+				<li class="active"><a href="/../en/services/digital-marketing/index.php">EN</a></li>
+				<li><a href="/../layanan/digital-marketing/index.php">ID</a></li>
 				<li><a href="#">JP</a></li>
 			</ul>
 		</div>
@@ -262,32 +262,14 @@
 								<div class="hidden-xs hidden-sm one-process">
 									<img src="img/perbaikan.png" class="img-responsive center-block" alt="Perbaikan"/>
 									<br/>
-									<b>IMPROVE</b><br/>
-									We will make improvements to both the website and your social media account management. This improvement is not only done at the beginning, but also periodically.
+									<b>REPORT</b><br/>
+									Every analysis and improvement made will be reported to you periodically. This report will later be used as a benchmark for further improvement of strategies, for websites, social media, and the results of the advertisements.
 								</div>
 								<img src="img/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow4"/>
 							</div>
 							<div class="col-md-4">
 								<div class="one-process">
 									<img src="img/analisis.png" class="img-responsive center-block" alt="Analisis"/>
-									<br/>
-									<b>ANALYZE</b><br/>
-									During the advertising and optimization process, we always carry out analysis, monitoring, and tracking of changes. This is so that the results obtained can increase gradually.
-								</div>
-								
-								<div class="visible-sm visible-xs">
-									<br/><div class="hidden-sm hidden-xs"><br/><br/><br/></div>
-									<div class="one-process">
-										<img src="img/laporan.png" class="img-responsive center-block" alt="Laporan"/>
-										<br/>
-										<b>REPORT</b><br/>
-										Every analysis and improvement made will be reported to you periodically. This report will later be used as a benchmark for further improvement of strategies, for websites, social media, and the results of the advertisements.
-									</div>
-								</div>
-								
-								<br/><div class="hidden-sm hidden-xs"><br/><br/><br/></div>
-								<div class="one-process">
-									<img src="img/rencana.png" class="img-responsive center-block" alt="Rencana"/>
 									<br/>
 									<b>PLAN</b><br/>
 									At this stage, we prepare a strategic plan and improvement to be carried out in the next period. Subsequent improvements are planned in stages according to the targets to be achieved each month.
@@ -296,10 +278,28 @@
 								<div class="visible-sm visible-xs">
 									<br/><div class="hidden-sm hidden-xs"><br/><br/><br/></div>
 									<div class="one-process">
-										<img src="img/perbaikan.png" class="img-responsive center-block" alt="Perbaikan"/>
+										<img src="img/laporan.png" class="img-responsive center-block" alt="Laporan"/>
 										<br/>
 										<b>IMPROVE</b><br/>
 										We will make improvements to both the website and your social media account management. This improvement is not only done at the beginning, but also periodically.
+									</div>
+								</div>
+								
+								<br/><div class="hidden-sm hidden-xs"><br/><br/><br/></div>
+								<div class="one-process">
+									<img src="img/rencana.png" class="img-responsive center-block" alt="Rencana"/>
+									<br/>
+									<b>ANALYZE</b><br/>
+									During the advertising and optimization process, we always carry out analysis, monitoring, and tracking of changes. This is so that the results obtained can increase gradually.
+								</div>
+								
+								<div class="visible-sm visible-xs">
+									<br/><div class="hidden-sm hidden-xs"><br/><br/><br/></div>
+									<div class="one-process">
+										<img src="img/perbaikan.png" class="img-responsive center-block" alt="Perbaikan"/>
+										<br/>
+										<b>REPORT</b><br/>
+										Every analysis and improvement made will be reported to you periodically. This report will later be used as a benchmark for further improvement of strategies, for websites, social media, and the results of the advertisements.
 									</div>
 								</div>
 								
@@ -309,8 +309,8 @@
 								<div class="hidden-xs hidden-sm one-process">
 									<img src="img/laporan.png" class="img-responsive center-block" alt="Laporan"/>
 									<br/>
-									<b>REPORT</b><br/>
-									Every analysis and improvement made will be reported to you periodically. This report will later be used as a benchmark for further improvement of strategies, for websites, social media, and the results of the advertisements.
+									<b>IMPROVE</b><br/>
+									We will make improvements to both the website and your social media account management. This improvement is not only done at the beginning, but also periodically.
 								</div>
 								<img src="img/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow3"/>
 							</div>
@@ -370,19 +370,17 @@
 				</div>
 			</div>
 		</div>
-		
 		<div class="footer">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-offset-3 col-md-6">
-						Please send us an e-mail to <a href="mailto:info@logique.co.id">info@logique.co.id</a> or send an inquiry from <a href="https://www.logique.co.id/en/contact.php" target="_blank">here</a>. We would be happy to help you.
-						<br/><br/>
-						<a href="https://www.logique.co.id/en/contact.php" target="_blank"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
+					<div class="col-lg-offset-3 col-lg-6">
+						Untuk informasi lengkapnya, Anda dapat menghubungi <b>Logique Digital Indonesia</b> melalui email di <a href="mailto:info@logique.co.id">info@logique.co.id</a> atau mendaftar melalui form yang ada di link berikut ini <br/><br/>
+						<a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
 						<br/>
-						Our other services:<br/>
-						<a target="_blank" href="/en/services/pembuatan-website-karir-perusahaan/">Recruitment Website Creation</a>
+						Layanan Kami lainnya:<br/>
+						<a target="_blank" href="/layanan/pembuatan-website-karir-perusahaan/">Pembuatan Website Karir Perusahaan</a>
 						<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-						<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/">Mobile Application Development</a>
+						<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/">Pembuatan Aplikasi Mobile</a>
 					</div>
 				</div>
 			</div>
