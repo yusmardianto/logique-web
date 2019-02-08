@@ -632,6 +632,27 @@
 									<br><div class="grey-clr">　WEBシステム, 検索システム,スマホ最適, マーケットプレイス</div><br><br><br>
 								</div>
 							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<a href="https://lifenesia.com" target="_blank">
+									<img src="/img/portfolio/lifenesia.png" class="img-responsive center-block">
+									Lifenesia 
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEBホスティング (コーディング | CMSフィッティング)<br>
+									<br><div class="grey-clr">モバイル最適化, CMS, ニュースポータル</div><br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://wkvetter.com" target="_blank">
+									<img src="/img/portfolio/vetter.png" class="img-responsive center-block">
+									Vetter 
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEBホスティング (コーディング | CMSフィッティング)<br>
+									<br><div class="grey-clr">モバイル最適化, CMS, ニュースポータル</div><br><br><br>
+								</div>
+							</div>
 						</div>
 						<br/>
 						<span class="characteristic-title">システム構築実績</span>

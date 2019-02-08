@@ -635,6 +635,27 @@
 									<br><div class="grey-clr">Web system, Laravel, Mobile Optimized, Market Place</div><br><br><br>
 								</div>
 							</div>
+							<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<a href="https://lifenesia.com" target="_blank">
+									<img src="/img/portfolio/lifenesia.png" class="img-responsive center-block">
+									Lifenesia 
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Hosting (Coding | Integrasi CMS)  <br>
+									<br><div class="grey-clr">Mobile Optimized, CMS, News Portal</div><br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://wkvetter.com" target="_blank">
+									<img src="/img/portfolio/vetter.png" class="img-responsive center-block">
+									Vetter 
+								</a>
+								<div class="addition-desc text-left">
+									<br>WEB Hosting (Coding | Integrasi CMS)  <br>
+									<br><div class="grey-clr">Mobile Optimized, CMS, News Portal</div><br><br><br>
+								</div>
+							</div>
 						</div>
 						
 						<br/>
