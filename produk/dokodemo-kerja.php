@@ -520,7 +520,7 @@ if(isset($_POST['submitted']))
 				echo $msg;
 				} 
 				?>
-				<form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
+				<form class="form-dokodemo" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
 					<input type='hidden' name='submitted' id='submitted' value='1'/>
 					<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 					<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
