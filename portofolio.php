@@ -645,7 +645,7 @@
 									<br><div class="grey-clr">Mobile Optimized, CMS, News Portal</div><br><br><br>
 								</div>
 							</div>
-							<div class="col-sm-4">
+							<!--<div class="col-sm-4">
 								<a href="http://wkvetter.com" target="_blank">
 									<img src="/img/portfolio/vetter.png" class="img-responsive center-block">
 									Vetter 
@@ -654,7 +654,7 @@
 									<br>WEB Hosting (Coding | Integrasi CMS)  <br>
 									<br><div class="grey-clr">Mobile Optimized, CMS, News Portal</div><br><br><br>
 								</div>
-							</div>
+							</div>-->
 						</div>
 						
 						<br/>
