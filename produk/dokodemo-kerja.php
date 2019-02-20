@@ -68,8 +68,20 @@ if(isset($_POST['submitted']))
 	twq('track','PageView');
 	</script>
 	<!-- End Twitter universal website tag code -->
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-KT7GBKC');</script>
+	<!-- End Google Tag Manager -->
 </head>
 	<body class="dokodemo">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KT7GBKC"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
 		<header>
 			<nav class="navbar navbar-default navbar-dokdem">
 				<div class="container">
@@ -508,7 +520,7 @@ if(isset($_POST['submitted']))
 				echo $msg;
 				} 
 				?>
-				<form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
+				<form class="form-dokodemo" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
 					<input type='hidden' name='submitted' id='submitted' value='1'/>
 					<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 					<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
