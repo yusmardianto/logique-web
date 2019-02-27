@@ -15,7 +15,6 @@
 	<meta property="og:description" content="LOGIQUE adalah Web Developer asal Jepang yang bekerja dengan standar internasional serta mempunyai pengalaman lebih dari 5 tahun di Indonesia.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Web Developer Berkualitas Jepang | LOGIQUE Digital Indonesia</title>
-
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	
@@ -148,7 +147,7 @@
 					<div class="title"><b>Tentang</b><span class="yellow">Kami</span></div>
 					<div class="form-container">
 						LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. <br/><br/>
-						Dengan pengalaman lebih dari 5 tahun di Indonesia serta didukung dengan keahlian tinggi dari desainer, programmer, dan penulis kami, kami dapat memberikan layanan berkualitas tinggi untuk proyek Anda yang cocok dengan tujuan dan dana Anda.<br/><br/>
+						Dengan pengalaman lebih dari 7 tahun di Indonesia serta didukung dengan keahlian tinggi dari desainer, programmer, dan penulis kami, kami dapat memberikan layanan berkualitas tinggi untuk proyek Anda yang cocok dengan tujuan dan dana Anda.<br/><br/>
 						<span class="characteristic-title">Karakteristik LOGIQUE</span><br/><br>
 						<ul class="circle-list">
 							<li>LOGIQUE adalah satu dari sebagian kecil Web Developer Jepang yang berlokasi di Indonesia.</li>
@@ -170,13 +169,13 @@
 								<b>PT. Logique Digital Indonesia</b>
 								<br/><br/>
 								Bidang Usaha<br/>
-								<b>Konsultasi IT, Pembuatan Website, Pembuatan Desain, Pengembangan Sistem</b>
+								<b>Konsultasi IT, Pembuatan Website, Pembuatan Desain, Pengembangan Sistem, Pengembangan Aplikasi Mobile, Digital Marketing Consulting</b>
 								<br/><br/>
 								Direktur<br/>
 								<b>Takashi Yoshitsugu</b>
 								<br/><br/>
 								Jumlah Karyawan<br/>
-								<b>35 (as of June, 2018)</b>
+								<b>43 (hingga Feb 2019)</b>
 								<br/><br/>
 								Alamat Kantor Pusat<br/>
 								<b>Gedung AD Premier Lantai 19, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12550, INDONESIA</b>
@@ -185,7 +184,7 @@
 								<b>+62(21) 2270 8935 / 36</b>
 								<br/><br/>
 								Development Center<br/>
-								<b>Yogyakarta</b>
+								<b>Yogyakarta ( Umbulharjo, Kota Yogyakarta )</b>
 							</div>
 						</div>
 					</div>

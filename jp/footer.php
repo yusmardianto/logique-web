@@ -15,43 +15,47 @@ ga('send', 'pageview');
 		<div class="row">
 			<div class="col-sm-8 col-sm-push-4">
 				<div class="row">
-					<div class="col-sm-3 link-footer-nav">
+					<div class="col-sm-3 link-footer-nav" style="font-weight: normal;">
 						<a href="index.php">Home</a><br/><br/>
 						<a href="about.php">会社概要</a><br/><br/>
-						<a href="portfolio.php">制作実績</a><br/><br/>
 						<a href="services.php">サービス</a><br/><br/>
+						<a href="portfolio.php">制作開発実績</a><br/><br/>
+						<!-- <a href="product.php">プロダクト</a><br/><br/> -->
 						<a href="joinus.php">採用/パートナー</a><br/><br/>
-						<a href="/career/">Join LOGIQUE</a><br/><br/>
+						<a href="/career/">求人/インターン</a><br/><br/>
 						<a href="contact.php">お問い合わせ</a><br/>
 					</div>
 					<div class="col-sm-5 link-footer">
 						<div class="footer-title">LOGIQUEのサービス</div>
-						<h6><a href="/jp/services/mekanisme-pembuatan-website/" target="_blank">WEB制作</a></h6>
+						<h6><a href="/jp/services/mekanisme-pembuatan-website/" target="_blank">Web制作サービス</a></h6>
 							<h6><a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 採用サイト制作</a></h6>
+							<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 歯科クリニック向けWeb制作</a></h6>
 							<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
-							<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dentist Website Creation</a></h6>
-						<h6><a href="/jp/services/pembuatan-sistem-web/" target="_blank">WEBシステム開発</a></h6>
-						<h6><a href="/jp/services/pembuatan-aplikasi-mobile/">モバイルアプリ開発</a></h6>
-						<h6><a href="/jp/services/penetration-testing/">WEBセキュリティ診断</a></h6>
+						
+						<h6><a href="/jp/services/pembuatan-aplikasi-mobile/">モバイルApp開発</a></h6>
+						<h6><a href="/jp/services/penetration-testing/">Webセキュリティ診断サービス</a></h6>
+
+<!-- 							<h6><a href="/jp/product/dokodemo-kerja.php">Dokodemo-Kerja（リモートワーク管理ツール）</a></h6>
+						<h6><a href="/jp/product/sugoi-saiyo.php">Sugoi Saiyo（採用管理ツール）</a></h6>
+						<h6><a href="/jp/product/sugoi-saiyo.php">Nippo（日報＆人事評価ツール）</a></h6>
+
+				<h6><a href="/product.php">プロダクト</a></h6>
+						<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
+						<h6><a href="/jp/services/pembuatan-sistem-web/" target="_blank">WEBシステム開発</a></h6> -->
 						
 					</div>
 					<div class="col-sm-4 link-footer">
-						<div class="footer-title">Product</div>
-						<h5 style="margin-bottom: 10px;">
-							<a href="/jp/product/dokodemo-kerja.php" target="_blank">
-								Dokodemo-Kerja<br/><div style="font-size: 12px;">(Remote Working Tool)</div>
-							</a>
+						<div class="footer-title">プロダクト</div>
+						<h5 style="margin-bottom: 10px; line-height: normal;">
+							<a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja<br>（リモートワーク管理ツール）</a>
 						</h5>
 						<h5 style="margin-bottom: 10px;">
-							<a href="/jp/product/nippo.php" target="_blank">
-								Nippo<br/><div style="font-size: 12px;">(Daily Report Tool)</div>
-							</a>
+							<a href="/jp/product/sugoi-saiyo.php"  target="_blank">Sugoi Saiyo（採用管理ツール）</a>
 						</h5>
 						<h5>
-							<a href="/jp/product/sugoi-saiyo.php" target="_blank">
-								Sugoi Saiyo<br/><div style="font-size: 12px;">(Employee Recruitment System)</div>
-							</a>
+							<a href="/jp/product/sugoi-saiyo.php"  target="_blank">Nippo（日報＆人事評価ツール）</a>
 						</h5>
+
 						<div class="hidden-xs"><br/></div>
 						<div class="footer-title">Social Media</div>
 						<div class="row medsos-new">
@@ -86,7 +90,8 @@ ga('send', 'pageview');
 				<br><br>
 				</div>
 			</div>
-				LOGIQUEは、ジャカルタでWebコンサルティング、WEBサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、映像制作、会社案内・パンフレットデザイン・印刷サービスを提供しています。
+				LOGIQUEは、ジャカルタでWebコンサルティング、WEBサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。
+
 				<br/><br/>
 				<div itemscope itemtype="http://schema.org/CreativeWork">
 					<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  

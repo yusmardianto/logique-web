@@ -17,6 +17,12 @@ a:focus,
 a:hover {text-decoration: none}
 em {font-style: italic!important}
 strong {font-weight: 700!important}
+body #contents{
+    font-size: 16px;
+}
+body.jp-page  #contents{
+    font-size: 14px;
+}
 .no-gap [class*="-6"],
 .no-gap [class*="-8"],
 .no-gap [class*="-3"],
@@ -583,7 +589,13 @@ section.maintop {
     font-size: 25px;
     font-weight: 700
 }
-
+.custom-border{
+    border-top: 2px solid #ffca13; 
+    margin-bottom: 10px;
+}
+.banner-container{
+    margin-top: 15px;
+}
 footer {
     z-index:5;
     margin-left: 95px;
