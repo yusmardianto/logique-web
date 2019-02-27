@@ -119,14 +119,21 @@
 					<!--<img src="../img/about-us-main-visual.png" class="img-in-about"/>-->
 					<div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
 						  <div class="carousel-inner">
-							<div class="item active">
+						  	<div class="item active">
+								<img src="/img/banner-logo-logique.jpg" alt="Web Developer LOGIQUE 5">
+							</div>
+							<div class="item  ">
 								<img src="/img/slider5.jpg" alt="Web Developer LOGIQUE 5">
 							</div>
+							
 							<div class="item">
 								<img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
 							</div>
 							<div class="item">
 								<img style="object-position:0 0" src="/img/slider1.jpg" alt="Web Developer LOGIQUE 1">
+							</div>
+							<div class="item">
+								<img style="object-position:0 0" src="/img/banner-about-remote.jpg" alt="working remote from home">
 							</div>
 							<div class="item">
 								<img src="/img/career-main.png" alt="Web Developer LOGIQUE 2">
