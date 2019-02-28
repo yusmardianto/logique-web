@@ -24,7 +24,7 @@
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     
     </head>
-	<body>
+	<body class="jp-page">
 		<div class="wrapper">
 				
 			<!-- NAVIGATION -->
@@ -119,8 +119,14 @@
 					<!--<img src="../img/about-us-main-visual.png" class="img-in-about"/>-->
 					<div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
 						  <div class="carousel-inner">
-							<div class="item active">
+						  	<div class="item active">
+								<img src="/img/banner-logo-logique.jpg" alt="Web Developer LOGIQUE 5">
+							</div>
+							<div class="item  ">
 								<img src="/img/slider5.jpg" alt="Web Developer LOGIQUE 5">
+							</div>
+							<div class="item">
+								<img style="object-position:0 0" src="/img/banner-all-member.jpg" alt="logique member">
 							</div>
 							<div class="item">
 								<img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
@@ -128,6 +134,7 @@
 							<div class="item">
 								<img style="object-position:0 0" src="/img/slider1.jpg" alt="Web Developer LOGIQUE 1">
 							</div>
+							
 							<div class="item">
 								<img src="/img/career-main.png" alt="Web Developer LOGIQUE 2">
 							</div>
@@ -148,8 +155,8 @@
 					<div class="title" style="font-weight:normal"><span class="yellow">LOGIQUE</span>について</div>
 					<div class="form-container">	
 						
-						LOGIQUEはホームページ制作・WEBシステム開発会社です。日本人がインドネシアのジャカルタで設立しました。インドネシア国内の日系企業さま、また日本からオフショア先をお探しのお客様に対して、ウェブサイトやシステムの制作開発、運用のご支援をしています。 WEBサイト制作会社としてWEBデザイン制作やLP制作、システム開発会社としてモバイルアプリ開発、CMS構築や採用管理システム開発、Digital AgencyとしてSEO対策、FacebookやInstagram等のソーシャルメディアを活用したキャンペーン実施など、複数の顔をもち幅広くサービス提供しています。会社概要やカタログ、リーフレットのデザイン・印刷も行っています。<br/><br/>
-						インドネシアにて5年を超える豊富な経験をもっています。日系企業向けのプロジェクトも経験豊富なデザイナー、プログラマー、コンテンツライターが担当します。 ゴールとご予算に応じて最適なソリューションをご提供します。お見積のご依頼、業務提携の相談などお気軽にご連絡ください。
+						LOGIQUEはホームページ制作・WEBシステム開発会社です。日本人がインドネシアのジャカルタで設立しました。インドネシア国内の日系企業さま、また日本からオフショア先をお探しのお客様に対して、ウェブサイトやシステムの制作開発、運用のご支援をしています。 WEBサイト制作会社としてWEBデザイン制作やLP制作、システム開発会社としてモバイルアプリ開発、CMS構築や採用管理システム開発、Digital AgencyとしてSEO対策、FacebookやInstagram等のソーシャルメディアを活用したキャンペーン実施など、複数の顔をもち幅広くサービス提供しています。<br/><br/>
+						インドネシアにて7年を超える豊富な経験をもっています。日系企業向けのプロジェクトも経験豊富なデザイナー、プログラマー、デジタルマーケッターが担当します。 ゴールとご予算に応じて最適なソリューションをご提供します。お見積のご依頼、業務提携の相談などお気軽にご連絡ください。
 						<br/><br/>
 						
 						<span class="characteristic-title">特徴</span><br/><br>
@@ -163,7 +170,16 @@
 							<li>ある時は小回りのきく小さなWEB制作会社として、場合によってはセキュリティもしっかりした信頼できるシステム開発会社として、お客様からのご期待に応じてそのスタイルを変えながら御社のパートナーとして高いValueを提供していきたいと考えています。</li>
 						</ul>
 					</div>
-					
+					<div class="title" style="font-weight:normal; background: #ffca13; padding-top: 20px;"><span class="yellow" style="color: #fff">LOGIQUE</span>のミッション</div>
+					<div class="form-container" style="background: #ffca13;  ">
+						<div class="mission-content" style="border:1px solid #ffca13; padding:0px 30px 0px; font-size: 16px;">
+							<ul>
+								<li>インドネシアで戦っている企業をIT・デジタルマーケティング面でできる限り多くご支援したいと思っています。</li>
+								<li>インドネシアのWeb制作開発業界の発展に寄与し、インドネシア人のWebデベロッパーにより良い機会を与えます。</li>
+							</ul>
+						</div>
+					</div>
+
 					<div class="bg-grey profile-comp">
 						<div class="title" style="font-weight:normal"><span class="yellow">LOGIQUE</span>の概要</div>
 						<div class="row">
@@ -181,16 +197,17 @@
 								<b>Takashi Yoshitsugu (吉次 敬)</b>
 								<br/><br/>
 								従業員数<br/>
-								<b>35名（2018年6月現在）</b>
+								<b>43名 (2019年2月現在)</b>
 								<br/><br/>
 								本社住所<br/>
 								<b>Ad Premier Building 19<sup>th</sup> Floor, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12550, INDONESIA</b>
 								<br/><br/>
 								TEL<br/>
-								<b>+62(21) 2270 8935 / 36</b>
+								<b>+62(21) 2270 8935 / 36</b><br>
+								<b><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" style="vertical-align: top; color: #333"> <img src="../img/whatsapp.png" width="16" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a></b>
 								<br/><br/>
 								開発センター<br/>
-								<b>ジョグジャカルタ</b>
+								<b>ジョグジャカルタ  ( Umbulharjo, Kota Yogyakarta )</b>
 							</div>
 						</div>
 					</div>
@@ -198,17 +215,52 @@
 					<div class="title">代表者略歴＆メッセージ</div>
 					<div class="form-container">
 						<img src="/img/yoshi.jpg" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
-						1976年東京生まれ。1999年に早稲田大学理工学部経営システム工学科を卒業。株式会社日本総合研究所やCRMコンサルティングファームなどを経て2005年よりEコマース事業、輸入商社、コンサルティング会社を起業。2012年よりインドネシアで会社運営。
+						<span style="font-size: 17px;">1976年東京生まれ。1999年に早稲田大学理工学部経営システム工学科を卒業。株式会社日本総合研究所やCRMコンサルティングファームなどを経て2005年よりEコマース事業、輸入商社、コンサルティング会社を起業。2012年よりインドネシアで会社運営。</span>
 						<br/><br/>
-						LOGIQUEという名前はlogika-kuというインドネシア語が由来となっています。自分たちのロジック、思いを大事に、芯をもって事を成していきたいと思っています。東南アジア×ITという非常に変化の激しい領域にいますが、一時のトレンドや短期的な利益に惑わされず、自分たち、関係いただく皆さまの幸福度を最大化していきたいと思います。
+						<div style="background: #ececec; padding: 15px 20px; border-top: 2px solid #ffca13">LOGIQUEという名前はlogika-kuというインドネシア語が由来となっています。自分たちのロジック、思いを大事に、芯をもって事を成していきたいと思っています。東南アジア×ITという非常に変化の激しい領域にいますが、一時のトレンドや短期的な利益に惑わされず、自分たち、関係いただく皆さまの幸福度を最大化していきたいと思います。
 						<br/><br/>
-						2012年からインドネシアにてWEB・SI・デジタルマーケティング領域で多くのお客様にIT・WEB活用のご支援をして参りました。お陰様で業績は順調に拡大しております。2018年4月にはジョグジャカルタに開発センターを開設しました。2018年中に更に１拠点オープン予定です。
+						2012年からインドネシアにてWEB・SI・デジタルマーケティング領域で多くのお客様にIT・WEB活用のご支援をして参りました。お陰様で業績は順調に拡大しております。2018年4月にはジョグジャカルタに開発センターを開設しました。
 						<br/><br/>
 						インドネシアの社会環境を鑑みて、リモートワークや時短勤務などのフレキシブルな勤務体系を取り入れ、効率的に幸せに働いてもらうための取組を続けています。これら当社向けに試行したこと、当社向けに開発したシステムをインドネシアの他の会社さまにも提供していくつもりです。 
 						<br/><br/>
 						これからも慢心せず成長していきます。当社の事業を通じて、インドネシアに貢献し、クライアントの皆さまに喜んでもらい、仲間の成長に繋がれば、これほど嬉しいことはありません。
+						</div>
 					</div>
-					
+					 
+					<div class="form-container">
+						<div class="logique-do-container  " style="padding: 20px; border:1px solid #ffca13">
+							<h3 class="sub-title"><span class="yellow" style="font-weight:normal;">LOGIQUE</span><span>サービス・プロダクトについて</span></h3>
+							<p>クライアント向けにWeb制作、Webシステム開発、デジタルマーケティング実施などを行っているほかに、HR系のクラウドツールプロダクトを販売しています。インドネシアの企業の課題を解決するプロダクトです。どちらについてもお気軽にご相談いただければ幸いです。</p>
+							<div class="banner-container">
+							  <div class="row" >
+							  	<div class="col-sm-6">
+							  		<a href="service.php">
+							  			<img src="../img/service-banner-sm.png" alt="service banner" class="img-responsive">
+							  		</a>
+							  	</div>
+							  	<div class="col-sm-6">
+							  		<a href="#">
+							  			<img src="../img/product-banner-sm.png" alt="" class="img-responsive">
+							  		</a>
+							  	</div>
+							  </div>
+							</div>
+						</div>
+						<div class="banner-container">
+							  <div class="row" >
+							  	<div class="col-sm-6">
+							  		<a href="joinus.php">
+							  			<img src="../img/job-banner-sm.png" alt="service banner" class="img-responsive">
+							  		</a>
+							  	</div>
+							  	<div class="col-sm-6">
+							  		<a href="portfolio.php">
+							  			<img src="../img/portfolio-banner-sm.png" alt="" class="img-responsive">
+							  		</a>
+							  	</div>
+							  </div>
+							</div>
+					</div>
 					<div class="got-project">
 						<span style="font-size:30px;">WEB・IT関連でお困りのことがあれば</span><br/>
 						<div class="list-on-services" style="max-width:680px;">
@@ -223,6 +275,9 @@
 								<li><i class="fa-li fa fa-check"></i> インドネシア語でコンテンツを作る必要があるが翻訳会社に委託するしかないのか？</li>
 								<li><i class="fa-li fa fa-check"></i> インドネシア内でサーバーをレンタルしたい。運用保守会社も探している。</li>
 								<li><i class="fa-li fa fa-check"></i> メールサーバー、eメールサーバーが必要。</li>
+								<li><i class="fa-li fa fa-check"></i>FacebookやInstagramを活用して集客したい</li>
+								<li><i class="fa-li fa fa-check"></i>インターネット広告を出稿したい</li>
+								<li><i class="fa-li fa fa-check"></i>いまのWebにセキュリティ脆弱性がないのか診断してもら</li>
 							</ul>
 						</div>
 						お気軽にご相談ください。
