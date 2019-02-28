@@ -150,7 +150,7 @@
 					<div class="form-container">
 						Logique is a web developer that providing various services of web and internet such as digital marketing, website creating, and web system development. Our scopes of website creating are not only in the domestic area (Jakarta, Indonesia) but also abroad, like Japan. We are provide the other services like web design, SEO service, social media operating, and mobile application development. Also, we are providing design & printing services like company profile creating, catalogs, leaflets, etc. 
 						<br/><br/>
-						With 5 years experiences on Indonesia and supported by skillful designers, programmers, and content writers that we have, we can give you a high quality of service on your project that same as your goals and your budget estimation.  <br/><br/> 
+						With more than 7 years experience on Indonesia and supported by skillful designers, programmers, and content writers that we have, we can give you a high quality of service on your project that same as your goals and your budget estimation.  <br/><br/> 
 						<span class="characteristic-title">Characteristic of <span class="yellow">LOGIQUE</span></span><br/><br>
 						<ul class="circle-list">
 							<li>LOGIQUE is one of the Japanese web developers located in Jakarta, Indonesia.</li>
@@ -172,13 +172,13 @@
 								<b>PT. Logique Digital Indonesia</b>
 								<br/><br/>
 								Service<br/>
-								<b>IT Consultation, Website Creation, Design Making, System Development</b>
+								<b>IT Consultation, Website Creation, Design Making, System Development, Mobile App Development, Digital Marketing Consulting</b>
 								<br/><br/>
 								Director<br/>
 								<b>Takashi Yoshitsugu</b>
 								<br/><br/>
 								Number of employees<br/>
-								<b>35 (as of June, 2018)</b>
+								<b>43 (as of Feb 2019)</b>
 								<br/><br/>
 								Head Office Address<br/>
 								<b>Ad Premier Building 19<sup>th</sup> Floor, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12550, INDONESIA</b>
@@ -187,7 +187,7 @@
 								<b>+62(21) 2270 8935 / 36</b>
 								<br/><br/>
 								Development Center<br/>
-								<b>Yogyakarta</b>
+								<b>Yogyakarta ( Umbulharjo, Kota Yogyakarta )</b>
 							</div>
 						</div>
 					</div>

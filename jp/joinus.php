@@ -119,7 +119,9 @@
 					<div class="form-container">
 						<p style="padding-top: 5px;">
 						<br/>
-							LOGIQUEはインドネシア・ジャカルタのトップWEB制作／システム開発会社です。多くの大手企業と直接お取引いただいています。当社では新規案件をご紹介いただける、また共同提案していくことが可能な営業パートナーさんと協業したいと考えています。Photographerや専門分野の翻訳家、AIスペシャリストなど各分野の専門家ともパートナーシップを結びたいです。当社との提携・協業にご興味少しでもお有りでしたら、お気軽にご連絡ください。<br/> インドネシアでのパートナーや代理店として、日本のプロダクト、サービス、ソリューションをインドネシアで展開したいとお考えの企業さまからのご連絡、視察旅行時のご来社もお待ちしています。
+							LOGIQUEはインドネシア・ジャカルタのトップWEB制作／システム開発会社です。多くの大手企業と直接お取引いただいています。当社では新規案件をご紹介いただける、また共同提案していくことが可能な営業パートナーさんと協業したいと考えています。Photographerや専門分野の翻訳家、AIスペシャリストなど各分野の専門家ともパートナーシップを結びたいです。当社との提携・協業にご興味少しでもお有りでしたら、お気軽にご連絡ください。</p>
+							<p>
+インドネシアでのパートナーや代理店として、日本のプロダクト、サービス、ソリューションをインドネシアで展開したいとお考えの企業さまからのご連絡、視察旅行時のご来社もお待ちしています。 インターンとしてジャカルタやジョグジャカルタで働いてみたいという方もお問い合わせください。
 						</p>
 					</div>
 
@@ -275,7 +277,7 @@
 								<div class="answer">詳細はお気軽にご相談ください。自信がないものをお請けしてご紹介者様にご迷惑おかけするようなことはしません。できないものはできないとお伝えしますので、まずはホームページやWebページの制作・運用、モバイルアプリ開発、WEBシステム開発、システム運用、SNS運用、コンテンツ制作、販促物印刷などのニーズがあればお気軽にご相談いただければと思います。 </div><br/>
 								
 								<div class="question">紹介先に日本人はいないのだが</div>
-								<div class="answer">英語かインドネシア語でご相談ができるご紹介先であれば、ご相談に参ります。お気軽にご紹介いただければとおもいます。 </div>
+								<div class="answer">英語かインドネシア語でご相談ができるご紹介先であれば、ご相談に参ります。お気軽にご紹介いただければとおもいます。 </div><br/>
 								
 								<div class="question">インドネシアでサービス展開したい会社を知っているのだが</div>
 								<div class="answer">提携形態、ライセンスの問題など多くのことを議論しなくてはなりませんが、まずは展開したい製品やサービスについてお教えいただければと思います。NDAの締結が必要でしたらそうさせていただきます。 </div>
@@ -285,7 +287,7 @@
 
 					<div class="bg-grey" style="padding-top: 0;">
 						
-						<div class="text-center" style="font-size: 22px;"><b>インターンシップ受入について</b></div><br/><br/>
+						<div class="text-center" style="font-size: 22px;"><b>インターンシップで働きたい方へ</b></div><br/><br/>
 					
 						<span class="characteristic-title"><span class="yellow">LOGIQUE</span>で働くメリット :</span><br/>
 							LOGIQUEは、日本人創業者が経営しているインドネシアのWEB制作会社です、このため、LOGIQUEで働くと、外資系の大手企業との直接取引であるプロジェクトに関われ、外資系の企業とのプロジェクトを通してインターナショナルスタンダードな仕事のやり方を経験・学ぶことができます。 							プログラミングやデザインのクオリティも、マネジメントの方法も高い水準が求められますが、これはあなたの成長を促進します。新しい取組を受け入れるカルチャーがあります。あなたにアイデアがあれば、主体性をもってチャレンジすることが可能です。<br/><br/>
@@ -365,13 +367,23 @@
 							  <img src="../img/tour2.jpg" alt="Tour 2">
 							</div>
 							<div class="item">
+							  <img src="../img/banner-sunset.jpg" alt="Tour 2">
+							</div>
+							<div class="item">
 							  <img src="../img/tour3.jpg" alt="Tour 3">
 							</div>
 							<div class="item">
 							  <img src="../img/tour4.jpg" alt="Tour 4">
 							</div>
+							
 							<div class="item">
 							  <img src="../img/tour5.jpg" alt="Tour 5">
+							</div>
+							<div class="item">
+							  <img src="../img/career-main.png" alt="Tour 5">
+							</div>
+							<div class="item">
+							  <img src="../img/banner-group.jpg" alt="Tour 4">
 							</div>							
 						  </div>
 						  <!-- Left and right controls -->
@@ -670,11 +682,12 @@
 					</div>
 					
 					<div class="got-project">
-						<span>協業、営業パートナーシップ、インターンなどについて、お気軽にお問い合わせください。</span><br/>
+						<span>協業・パートナーシップについて、またインターンシップで働きたい方、お気軽にご連絡ください。日本語でどうぞ。</span><br/>
 						<div class="text-center">
-							<a href="contact.php" class="btn btn-contact-us-black">
-								お問い合わせ
+							<a href="contact.php" class="btn btn-contact-us-black custom-btn-contact" >
+								こちらからご連絡お待ちしています
 							</a>
+							<a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank"  class="btn btn-contact-us-black custom-btn-contact" > <img src="../img/whatsapp.png" width="20" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a>
 						</div>
 					</div>
 				</div>

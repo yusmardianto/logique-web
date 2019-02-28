@@ -617,6 +617,10 @@ section.maintop {
     font-size: 16px; 
     padding: 10px 20px;
 }
+.custom-btn-contact:hover{
+    background: #ffca13;
+    color: #333;
+}
 footer {
     z-index:5;
     margin-left: 95px;
@@ -678,7 +682,12 @@ footer a:hover {
     background: #fff;
     padding: 0 30px 30px
 }
-
+.form-container p{
+    margin-bottom: 15px;
+}
+.form-container p:last-child{
+    margin:0;
+}
 .form-contact::-webkit-input-placeholder {
     color: #666;
     font-weight: 700
@@ -745,7 +754,9 @@ footer a:hover {
     background: #f4f4f4;
     padding: 40px 30px
 }
-
+.nice-bg-grey {
+    background: #f4f4f4; 
+}
 .title-bg-grey {
     font-size: 24px;
     text-align: center
@@ -948,7 +959,12 @@ video {
 .sep-link {
     display: none
 }
-
+.dokodemo-part{
+    background: url(../img/product-acc.png) no-repeat bottom left #fff;
+}
+.sugoi-part{
+     background: url(../img/product-acc-rev.png) no-repeat top right #fff;
+}
 html[lang=ja] .partner-section .div-main p {
     width: 430px
 }
@@ -2836,6 +2852,15 @@ blockquote::before {
     section.maintop {
         background: url(../img/bg-career-new-main.png) -5px 0;
         background-size: cover
+    }
+     .product-page #contents .title{
+        padding-top: 30px;
+     }
+    .product-page .form-container .pull-right{
+        float: none !important;
+    }
+    .product-page .form-container img{
+        width: 100%;
     }
 }
 
