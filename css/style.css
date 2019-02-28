@@ -613,6 +613,10 @@ section.maintop {
     background: #333;
     color: #fff;
 }
+.custom-btn-contact{
+    font-size: 16px; 
+    padding: 10px 20px;
+}
 footer {
     z-index:5;
     margin-left: 95px;

@@ -367,13 +367,23 @@
 							  <img src="../img/tour2.jpg" alt="Tour 2">
 							</div>
 							<div class="item">
+							  <img src="../img/banner-sunset.jpg" alt="Tour 2">
+							</div>
+							<div class="item">
 							  <img src="../img/tour3.jpg" alt="Tour 3">
 							</div>
 							<div class="item">
 							  <img src="../img/tour4.jpg" alt="Tour 4">
 							</div>
+							
 							<div class="item">
 							  <img src="../img/tour5.jpg" alt="Tour 5">
+							</div>
+							<div class="item">
+							  <img src="../img/career-main.png" alt="Tour 5">
+							</div>
+							<div class="item">
+							  <img src="../img/banner-group.jpg" alt="Tour 4">
 							</div>							
 						  </div>
 						  <!-- Left and right controls -->
@@ -672,11 +682,12 @@
 					</div>
 					
 					<div class="got-project">
-						<span>協業、営業パートナーシップ、インターンなどについて、お気軽にお問い合わせください。</span><br/>
+						<span>協業・パートナーシップについて、またインターンシップで働きたい方、お気軽にご連絡ください。日本語でどうぞ。</span><br/>
 						<div class="text-center">
-							<a href="contact.php" class="btn btn-contact-us-black">
-								お問い合わせ
+							<a href="contact.php" class="btn btn-contact-us-black custom-btn-contact" >
+								こちらからご連絡お待ちしています
 							</a>
+							<a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank"  class="btn btn-contact-us-black custom-btn-contact" > <img src="../img/whatsapp.png" width="20" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a>
 						</div>
 					</div>
 				</div>
