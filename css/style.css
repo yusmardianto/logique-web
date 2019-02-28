@@ -2359,7 +2359,7 @@ blockquote::before {
     font-size: 29px;
     background: #000;
     color: #fff;
-    padding-left: 25px;
+    padding-left: 15px;
     font-weight: 100
 }
 

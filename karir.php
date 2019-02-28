@@ -122,7 +122,7 @@
 						</p>
 						<div class="text-center">
 							<a href="career/" target="_blank" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Gabung-dengan-Kami-1', 'Action-Click', 'Button-Gabung-dengan-Kami-1-Label');">
-								Gabung Dengan Kami
+								Ayo bergabung dengan LOGIQUE Sekarang?<br> / Melihat Open Positions
 							</a>
 						</div>
 					</div>
