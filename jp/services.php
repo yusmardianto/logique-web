@@ -169,7 +169,7 @@
 											<div class="col-sm-5">
 												<a href="http://sentraya.id/" target="_blank">
 												<img src="/img/portfolio/sentraya.png" class="img-responsive center-block">
-												MORESCO<br>
+												MENARA SENTRAYA<br>
 												</a>
 											</div>
 										</div>
@@ -255,7 +255,7 @@
 										インドネシアでの採用活動は大変です。質の低いレジュメが大量に送られてきてスクリーニングが大変だったり、インタビューをセットしてもNo showだったりと採用工数は大きくなってしまいがちです。当社が開発販売しているSugoi-Saiyoを使えば、各応募者向けにマイページを提供し、採用担当者はスコアに基づいた自動書類選考やWhatsApp連動のオンラインインタビューができるなど、効率的な採用ができます。
 									</li>
 								</ol>
-								<center><a href="/jp/product/sugoi-saiyo.php" style="display: block"><img src="../img/sugoi-banner.jpg" class="img-responsive" style="width: 100%; height: auto;"></center>
+								<center><a href="/jp/product/sugoi-saiyo.php" style="display: block" <target="_blank"><img src="../img/sugoi-banner.jpg" class="img-responsive" style="width: 100%; height: auto;"></center>
 							  </div>
 							</div>
 						  </div>
