@@ -125,16 +125,16 @@
 							<div class="item  ">
 								<img src="/img/slider5.jpg" alt="Web Developer LOGIQUE 5">
 							</div>
-							
+							<div class="item">
+								<img style="object-position:0 0" src="/img/banner-all-member.jpg" alt="logique member">
+							</div>
 							<div class="item">
 								<img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
 							</div>
 							<div class="item">
 								<img style="object-position:0 0" src="/img/slider1.jpg" alt="Web Developer LOGIQUE 1">
 							</div>
-							<div class="item">
-								<img style="object-position:0 0" src="/img/banner-about-remote.jpg" alt="working remote from home">
-							</div>
+							
 							<div class="item">
 								<img src="/img/career-main.png" alt="Web Developer LOGIQUE 2">
 							</div>
