@@ -646,6 +646,24 @@
 									<br><div class="grey-clr">Mobile Optimized, CMS, News Portal</div><br><br><br>
 								</div>
 							</div>
+							<div class="col-sm-4">
+								<a href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank">
+									<img src="/img/portfolio/jnto-campaign.png" class="img-responsive center-block">
+									JNTO Campaign Page 
+								</a>
+								<div class="addition-desc text-left">
+									<br>HTML/CSS Coding (Coding)<br>
+									<br><div class="grey-clr">Mobile Optimized, Campaign page</div><br><br><br>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/jba-redesign.png" class="img-responsive center-block">
+								JBA Re-design  
+								<div class="addition-desc text-left">
+									<br>WEB Dev & Operation (Design | CMS | System | Operation | AWS)<br>
+									<br><div class="grey-clr">Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial</div><br><br><br>
+								</div>
+							</div>
 							<!--<div class="col-sm-4">
 								<a href="http://wkvetter.com" target="_blank">
 									<img src="/img/portfolio/vetter.png" class="img-responsive center-block">
