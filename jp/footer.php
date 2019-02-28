@@ -53,7 +53,7 @@ ga('send', 'pageview');
 							<a href="/jp/product/sugoi-saiyo.php"  target="_blank">Sugoi Saiyo（採用管理ツール）</a>
 						</h5>
 						<h5>
-							<a href="/jp/product/sugoi-saiyo.php"  target="_blank">Nippo（日報＆人事評価ツール）</a>
+							<a href="/jp/product/nippo.php"  target="_blank">Nippo（日報＆人事評価ツール）</a>
 						</h5>
 
 						<div class="hidden-xs"><br/></div>

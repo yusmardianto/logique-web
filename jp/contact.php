@@ -190,7 +190,7 @@ if(isset($_POST['submitted']))
 					<img class="img-responsive kontak-img" src="../img/kontak-img.jpg" alt="Kontak Kami"/>
 					<div class="highlights-contact">
 						デジタルマーケティングやWeb、アプリ開発運用で課題があれば、LOGIQUEがご支援します！<br>
-						<span style="font-size: 18px;"><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" style="color: #111">  +62 811-870-321></a>  / +62 21-2270-8935 / infoアットマークlogique.co.id</span>
+						<span style="font-size: 18px;"><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" style="color: #111">  +62 811-870-321</a>  / +62 21-2270-8935 / infoアットマークlogique.co.id</span>
 					</div>
 					<div class="form-container">	
 					<br/> <!-- <span style="display: none">
