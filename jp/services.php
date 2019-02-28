@@ -24,7 +24,7 @@
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     
     </head>
-	<body>
+	<body  class="jp-page">
 		<div class="wrapper">
 		
 			<!-- NAVIGATION -->
@@ -118,15 +118,15 @@
 				<div id="contents">
 					<div class="title"><b>Our</b><span class="yellow">Services</span></div>
 					<div class="form-container">
-						LOGIQUEはインドネシア国内でウェブサイト(ホームページ)やウェブシステム、モバイルアプリケーションの開発、SNS活用などお客様がIT・インターネットを活用するためのご支援をしています。WEBやWEBシステムの制作・開発、運用からインターネットマーケティングやSEO対策などまで、Web、インターネットに関するサービスを幅広く提供しております。 プログラマー、デザイナー、コンテンツライターを自社内に抱えており、フレキシブルで安価な価格でのサービス提供が可能です。インドネシアにて長い経験と多くの実績を持っておりますので安心してご依頼ください。
+						LOGIQUEはインドネシア国内でウェブサイト(ホームページ)やウェブシステム、モバイルアプリケーションの開発、デジタルマーケティングの実行など、お客様がIT・インターネットを活用するためのご支援をしています。WebやWebシステムの制作・開発、運用からWebマーケティングやSEO対策などまで、Web、インターネットに関するサービスを幅広く提供しております。 プログラマー、デザイナー、コンテンツライターを自社内に抱えており、フレキシブルで安価な価格でのサービス提供が可能です。インドネシアにて長い経験と多くの実績を持っておりますので安心してご依頼ください。
 					</div>
 					<img class="img-responsive" src="../img/layanan-img.jpg" alt="Layanan"/>
 					<div class="feel-free row-center-sm" style="font-size: 18px;">
 						<div class="col-sm-8">
-							インドネシアでのIT・WEB活用関連について、お気軽にお問い合わせください。御社製品・サービスのインドネシアでの販売パートナー・代理店をお探しの方もお気軽にご連絡ください。
+							インドネシアでのIT・WEB活用等に関する課題についてお気軽にご相談ください
 						</div>
 						<div class="col-sm-4">
-							<a href="contact.php" class="btn btn-contact-service" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-1', 'Action-Click', 'Button-Hubungi-Logique-Layanan-1-Label');">お問い合わせ</a>
+							<a href="contact.php" class="btn btn-contact-service" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-1', 'Action-Click', 'Button-Hubungi-Logique-Layanan-1-Label');">ご相談はこちらから</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -148,7 +148,7 @@
 							<div class="panel-heading">
 								<a data-toggle="collapse" data-parent="#vacancy" href="#website-creation" class="collapsed">
 									<h2 class="panel-title">
-										<img src="../img/html.png" alt="Website Creation"/> WEB・ホームページ制作運用
+										<img src="../img/html.png" alt="Website Creation"/> Web・ホームページ制作運用
 									</h2>
 								</a>
 							</div>
@@ -156,8 +156,8 @@
 							  <div class="panel-body">
 								<ol class="fa-ul">
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>コーポレートWEB制作</b><br/>
-										会社の信頼感・ブランド価値を伝えるコーポレートWEB、ブランドWEBを制作します。多言語での制作やコンテンツ制作や写真・動画撮影も含めたホームページ制作などご要望に柔軟に応じます。ドメインやWEBサーバーの手配、SSL購入もご支援いたします。企画から運用まで纏めてお任せください。スムーズに進められれば1ヶ月程度で公開可能です。様々な業種のお客様のコーポレートWEBを制作しました。
+										<i class="fa-li fa fa-caret-right"></i> <b>コーポレート・ブランドWeb制作</b><br/>
+										会社の信頼感・ブランド価値を伝えるコーポレートWeb、ブランドWebを制作します。多言語での制作やコンテンツ制作や写真・動画撮影も含めたホームページ制作などご要望に柔軟に応じます。ドメインやWebサーバーの手配、SSL購入もご支援いたします。企画から運用まで纏めてお任せください。スムーズに進められれば1ヶ月程度で公開可能です。コンバージョンのでる、価値の高いWebを作ります。
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
@@ -167,8 +167,8 @@
 												</a>
 											</div>
 											<div class="col-sm-5">
-												<a href="http://www.moresco.co.id/" target="_blank">
-												<img src="/img/portfolio/moresco.png" class="img-responsive center-block">
+												<a href="http://sentraya.id/" target="_blank">
+												<img src="/img/portfolio/sentraya.png" class="img-responsive center-block">
 												MORESCO<br>
 												</a>
 											</div>
@@ -180,11 +180,11 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>サービスWEB構築</b><br/>
-										中古車売買マッチングサイト、ポイント管理サイト、人材マッチングサイト、E-Commerce、クローズドコミュニティWEBなど、会員管理CRM WEBなど、インターネットを活用した新ビジネス/新サービスを開始される際、ビジネス企画からデザイン制作、システム・サイト構築、運用までトータルでご支援可能です。適切なPhase分けや柔軟なスコープ調整などでサービスが軌道に乗るのをご支援します。
+										中古車売買マーケットプレイス、ポイント管理サイト、人材マッチングサイト、E-Commerce、クローズドコミュニティ、会員管理CRMウェブなど、インターネットを活用した新ビジネス/新サービスを開始される際、ビジネス企画からデザイン制作、システム・サイト構築、運用、デジタルマーケティングの実行までトータルでご支援可能です。適切なPhase分けや柔軟なスコープ調整などでサービスが軌道に乗るまでご支援します。
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>採用サイト制作</b><br/>
-										ジャカルタにて、ミスマッチングとならない良い人材の採用の難易度は非常に高くなっています。自社で採用サイトをもち、これを活用した採用活動をすることが一つの解決策となります。会社について、人について、求めている人材について、インタビュー動画なども交えて伝えることで効果的な採用が可能となります。求人ページ・サイトと採用管理システムを連動させる案件の実績も豊富にもっています。
+										ジャカルタにて、ミスマッチングとならない良い人材の採用の難易度は非常に高くなっています。自社で採用サイトをもち、これを受け皿としてデジタルを活用した採用活動をすることが一つの解決策となります。会社について、人について、求めている人材について、インタビュー動画なども交えて伝えることで効果的な採用が可能となります。求人ページ・サイトと採用管理システムを連動させる案件の実績も豊富にもっています。
 										<br/>
 										<a target="_blank" href="/jp/services/pembuatan-website-karir-perusahaan/" class="btn btn-service-link">もっと見る</a>
 										<br/><br/>
@@ -196,16 +196,16 @@
 												</a>
 											</div>
 											<div class="col-sm-5">
-												<a href="https://www.dipostar.com/id/tentang-hrd.htm" target="_blank">
-												<img src="/img/portfolio/dsf.png" class="img-responsive center-block">
-												DIPO STAR FINANCE<br><br>
+												<a href="https://career.sinarmasland.com/" target="_blank">
+												<img src="/img/portfolio/sinarmas.jpg" class="img-responsive center-block">
+												SINAR MAS LAND<br><br>
 												</a>
 											</div>
 										</div>
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>モバイルWEB制作・レスポンシブWEB制作</b><br/>
-										スマートフォンやタブレットなどマルチデバイス対応WEBとしてスタンダードになった技術ですが、LOGIQUEでは多くのWEBをレスポンシブWEBとして制作しています。Bootstrapだけでなく他のフレームワークで作られたレスポンシブWEBもメンテ可能です。スマートフォンからの閲覧が多いインドネシアならではの制作をご提案します。
+										<i class="fa-li fa fa-caret-right"></i> <b>モバイルWeb制作・レスポンシブWeb制作</b><br/>
+										スマートフォンやタブレットなどマルチデバイス対応WEBとして既にスタンダードになった技術ですが、LOGIQUEでは原則レスポンシブWebとして制作しています。Bootstrapだけでなく他のフレームワークで作られたレスポンシブWebもメンテナンス可能です。モバイル端末からの閲覧が多いインドネシアならではの制作をご提案します。
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>LP / キャンペーンWEB制作</b><br/>
@@ -223,14 +223,14 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#web-system" class="collapsed">
 								<h2 class="panel-title">
-									<img src="../img/web-system.png" alt="Website Creation"/>ITシステム開発・運用
+									<img src="../img/web-system.png" alt="Website Creation"/>IT・Webシステム開発・運用
 								</h2>
 							  </a>
 							</div>
 							<div id="web-system" class="panel-collapse collapse">
 							  <div class="panel-body">
 							  	<p>
-							  		最先端の技術を取り入れたハイクオリティなシステム開発を、柔軟にリーズナブルなコストで責任をもって完遂します。PHPフレームワークを使った開発を得意としています。Laravel, Symfony, CakePHPなどでの開発は豊富にあります。またAngularJS, Bootstrapなどと併せて開発することで迅速でメンテナンス性の高いシステム開発をしています。
+							  		最先端の技術でハイクオリティなシステム開発を、柔軟にリーズナブルなコストで責任をもって完遂します。PHPフレームワークを使った開発を得意としています。Laravel, Symfony,  CakePHPなどでの開発は豊富にあります。またReact.js, Node.js, Angularなどでの開発が増えています。メンテナンス性の高いシステム開発アジャイル型で行っています。
 							  	</p>
 							  	<br/>
 								<ol class="fa-ul">
@@ -244,7 +244,7 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>E-Commerce </b><br/>
-										マーケットプレイスやマルチレベルマーケティングに対応したE-Commerceなど複雑なE-Commerceサイトの構築も可能です。 決済や送料計算などインドネシアのルールに則ったシステム構築をします、様々なインドネシアのPayment Gatewayとの連携システムの構築経験も豊富です。 Magento、EC-CUBEなどのフレームワークを利用することもECプラットフォームへの出店支援も可能です。
+										マーケットプレイスやマルチレベルマーケティングに対応したE-Commerceなど複雑なE-Commerceサイトの構築も可能です。 決済や送料計算などインドネシアのルールに則ったシステム構築をします、様々なインドネシアのPayment Gatewayとの連携システムの構築経験も豊富です。 Magentoなどのフレームワークを利用することもスクラッチ開発することも可能です。
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>キャンペーン管理/コンテスト応募管理システム</b><br/>
@@ -255,6 +255,7 @@
 										インドネシアでの採用活動は大変です。質の低いレジュメが大量に送られてきてスクリーニングが大変だったり、インタビューをセットしてもNo showだったりと採用工数は大きくなってしまいがちです。当社が開発販売しているSugoi-Saiyoを使えば、各応募者向けにマイページを提供し、採用担当者はスコアに基づいた自動書類選考やWhatsApp連動のオンラインインタビューができるなど、効率的な採用ができます。
 									</li>
 								</ol>
+								<center><a href="/jp/product/sugoi-saiyo.php" style="display: block"><img src="../img/sugoi-banner.jpg" class="img-responsive" style="width: 100%; height: auto;"></center>
 							  </div>
 							</div>
 						  </div>
@@ -262,7 +263,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#mobile-solution" class="collapsed">
 								<h2 class="panel-title">
-									<img src="../img/mobile-solution.png" alt="Mobile Solution"/> モバイルソリューション
+									<img src="../img/mobile-solution.png" alt="Mobile Solution"/>モバイルソリューション | アプリ開発
 								</h2>
 							  </a>
 							</div>
@@ -270,13 +271,13 @@
 							  <div class="panel-body">
 								<ol class="fa-ul">
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>モバイルWEB制作 </b><br/>
-										インドネシアはモバイルからの閲覧比率が高くモバイル利用ユーザーに適切な対応をすることが重要です。 スマートフォン、タブレットで閲覧されたときにも最適化されたUIで表示するレスポンシブWEBを制作します。PWAやAMPなど新しいテクノロジーが求められる場面では積極的にご提案していきます。
+										<i class="fa-li fa fa-caret-right"></i> <b>モバイルWEB制作</b><br/>
+										インドネシアはモバイルからの閲覧比率が高くモバイル利用ユーザーに適切な対応をすることが重要です。 スマートフォン、タブレットで閲覧されたときにも最適化されたUIで表示するレスポンシブWEBを制作します。AMP制作やモバイルSEOの実績も豊富です。
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>モバイルアプリケーション制作 </b><br/>
-										アンドロイドApp、iOSアプリをインドネシアマーケットに合わせて開発できます。 企画や技術だけでなく、企画をUI、UXに落とし込み、デザイン制作からアプリケーション開発までワンストップで行い、申請登録、運用までしっかりご支援します。<br/>
-										<a target="_blank" href="/jp/services/pembuatan-aplikasi-mobile/" class="btn btn-service-link">もっと見る</a>
+										アンドロイドApp、iOSアプリをインドネシアマーケットに合わせて開発できます。 企画や技術だけでなく、企画をUI、UXに落とし込み、デザイン制作からアプリケーション開発までワンストップで行い、申請登録、運用までしっかりご支援します。PWA開発も豊富にあります。<br/>
+										<a target="_blank" href="/jp/services/pembuatan-aplikasi-mobile/" class="btn btn-service-link">モバイルApp開発についてもっとみる</a>
 									</li>
 								</ol>
 							  </div>
@@ -286,7 +287,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#digital-marketing" class="collapsed">
 								<h2 class="panel-title">
-									<img src="../img/digital-marketing.png" alt="Digital Marketing"/> デジタルマーケティング
+									<img src="../img/digital-marketing.png" alt="Digital Marketing"/> デジタルマーケティング | ITコンサルティング
 								</h2>
 							  </a>
 							</div>
@@ -295,11 +296,11 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>SEO対策</b><br/>
-										SEOコンサルティングだけで終わらずWEBページへの施策の実装まで責任をもって行うことで、結果にコミットします。 日本語、インドネシア語、英語でのSEO対策実績豊富にあります。インドネシア語で金融系ビッグキーワードで1位を長く維持した実績あります。
+										SEOコンサルティングだけで終わらずWEBページへの施策の実装まで責任をもって行うことで、結果にコミットします。 日本語、インドネシア語、英語でのSEO対策実績豊富にあります。インドネシア語で金融系ビッグキーワードや車系ビッグキーワードで1位を長く維持した実績あります。
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>インターネットビジネスコンサルティング</b><br/>
-										インターネットを活用した新ビジネスの立ち上げ支援、ビジネス企画、既存ビジネスをネットの力を使って拡大するための戦略策定など、お客様のアドバイザーとなり一緒にビジネスを作っていきます。
+										インターネットを活用した新規事業の立ち上げ支援、ビジネス企画、既存ビジネスをネットの力を使って拡大するための戦略策定など、お客様のアドバイザーとなり一緒にビジネスを作っていきます。
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>コンテンツ制作</b><br/>
@@ -307,7 +308,8 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>インターネット広告 / デジタルマーケティング支援</b><br/>
-										インターネット広告、ネット上でのPR施策、SNSを活用したマーケティングなど、ネットを活用した集客やコンバージョン増のための施策、OtoOなどご相談ください。 パートナーと協業して効果の高いソリューションをご提供します。
+										インターネット広告、オンラインPR施策、SNSを活用したマーケティングなど、ネットを活用した集客やコンバージョン増のための施策、OtoOなどご相談ください。 パートナーと協業して効果の高いソリューションをご提供します。<br>
+										<a target="_blank" href="#" class="btn btn-service-link">LOGIQUEのデジタルマーケティング サービスについて詳しくみる</a>
 									</li>
 								</ol>
 							  </div>
@@ -317,7 +319,7 @@
 							<div class="panel-heading">
 							  <a data-toggle="collapse" data-parent="#vacancy" href="#others" class="collapsed">
 								<h2 class="panel-title">
-									<img src="../img/others.png" alt="Digital Marketing"/> Others
+									<img src="../img/others.png" alt="Digital Marketing"/> その他のサービス
 								</h2>
 							  </a>
 							</div>
@@ -326,27 +328,29 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>会社案内 / カタログ / リーフレット デザイン制作＆印刷</b><br/>
-										商談時に使用する紙ものから、バッグやTシャツなど各種販促物までデザイン制作します。 またパートナー印刷事業者をコントロールして印刷物の納品まで責任をもって行います。 会社案内、各種チラシ、展示会配布物、その他販促物など、まずはご相談ください。
+										商談時に使用する紙ものから、バッグやTシャツなど各種販促物までデザイン制作します。 またパートナー印刷事業者をコントロールして印刷物の納品まで行うことも可能です。 会社案内、各種チラシ、展示会配布物、その他販促物など、まずはご相談ください。
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>WEBサーバー、ドメイン取得代行</b><br/>
-										インドネシアのコーポレートドメイン.co.idの取得管理、DNSの設定などを当社にて代行いたします。SSLの購入設定やWEBサーバーのレンタルも可能です。GlobalSign SSLの購入やWEBサーバーのレンタルも可能です。AWSの請求代行も可能です。
+										インドネシアのコーポレートドメイン.co.idの取得管理、DNSの設定などを当社にて代行いたします。SSLの購入＆設定やWEBサーバーのレンタルも可能です。GlobalSign SSLの購入やWEBサーバーのレンタルも可能です。AWSの請求代行も可能です。
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>ITビジネスコンサルティング</b><br/>
-										ITの導入による業務改善コンサルティング、ITツール選定アドバイザリー、ITセキュリティ診断、やインターネットビジネスの新規事業立ち上げ支援など“インドネシア×IT”領域で様々なコンサルティングやアドバイザリーサービスを行っています。
+										ITの導入による業務改善コンサルティング、ITツール選定アドバイザリー、ITセキュリティ診断、インターネットビジネスの新規事業立ち上げ支援など ”インドネシア × IT” 領域で様々なコンサルティングやアドバイザリーサービスを行っています。
 									</li>
 									<li>
-										<i class="fa-li fa fa-caret-right"></i> <b>WEBセキュリティ診断（脆弱性診断・検査）</b><br/>
-										Webアプリケーションの脆弱性を診断・レポートします。SQLインジェクション、クロスサイトスクリプティング、セッションハイジャックなどの攻撃による被害の発生を未然に防ぐことができます。診断ツール、経験豊富な担当者による診断の両方を併用して診断します。診断項目などによりますが10,000,000 IDRから診断可能です。
-										<br><a target="_blank" href="/jp/services/penetration-testing/" class="btn btn-service-link">もっと見る</a>
+										<i class="fa-li fa fa-caret-right"></i> <b>Webセキュリティ診断（脆弱性診断・検査）</b><br/>
+										Webサイトやアプリケーションの脆弱性を診断・レポートします。SQLインジェクション、クロスサイトスクリプティング、セッションハイジャックなどの攻撃による被害の発生を未然に防ぐことができます。診断ツール、経験豊富な担当者による診断の両方を併用して診断します。診断項目などによりますが15,000,000 IDRから診断可能です。 
+										<br><a target="_blank" href="/jp/services/penetration-testing/" class="btn btn-service-link">Webセキュリティ診断について詳しくみる</a>
 									</li>
 								</ol>
 							  </div>
 							</div>
 						  </div>
 						</div>
+ 
 					</div>
+					
 					<!--<div class="no-gap">
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
@@ -432,7 +436,7 @@
 					</div>-->
 					<div class="clearfix"></div>
 					<div class="workflow-container">
-						<div class="title-workflow">開発の流れ</div>
+						<div class="title-workflow">制作・開発の流れ</div>
 						<div class="row">
 							<div class="col-md-5ths">
 								<div class="div-for-workflow">
@@ -590,7 +594,7 @@
 						<div class="row testimony-client">
 							<div class="col-md-12" style="padding-bottom: 8px">
 								<br/>
-								<div class="title-workflow" style="margin-bottom:0">クライアントの証言</div>
+								<div class="title-workflow" style="margin-bottom:0">クライアントからのコメント</div>
 								<div id="myCarousel" class="carousel slide carousel-pesan-career">
 								  <ol class="carousel-indicators">
 									<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -633,6 +637,31 @@
 									<span class="sr-only">Next</span>
 								  </a>
 								</div>
+							</div>
+						</div>
+					</div>
+					<div class="form-container">
+						<div class="title-workflow" style="margin-bottom:0; padding-top: 30px;">Case Study</div>
+						<div class="casestudy-container">
+							<div class="row">
+								<div class="col-sm-4">
+									<a href="../case-study/opuspark/" class="casestudy-item" target="_blank">opus park</a>
+								</div>
+								<div class="col-sm-4">
+									<a href="../case-study/jba-auction-system/" class="casestudy-item"  target="_blank">JBA </a>
+								</div>
+								<div class="col-sm-4">
+									<a href="../case-study/vip-plaza-progressive-web-app/" class="casestudy-item"  target="_blank">VIP Plaza</a>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-4 col-md-offset-2">
+									<a href="../case-study/zuttoride-customer-management-system/" class="casestudy-item"  target="_blank">Zuttoride</a>
+								</div>
+								<div class="col-sm-4">
+									<a href="../case-study/caroline-bidding-system/" class="casestudy-item"  target="_blank">Caroline </a>
+								</div>
+
 							</div>
 						</div>
 					</div>

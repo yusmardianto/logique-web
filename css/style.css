@@ -571,7 +571,7 @@ section.maintop {
 .btn-contact-us-black {
     background: #000;
     border-radius: 5px;
-    color: #fff!important;
+    color: #fff !important;
     font-size: 24px;
     padding: 10px 60px;
     margin-top: 30px
@@ -595,6 +595,23 @@ section.maintop {
 }
 .banner-container{
     margin-top: 15px;
+}
+.casestudy-container{
+    padding-top:30px;
+}
+.casestudy-item {
+    display: block;
+    padding: 10px 0;
+    border: 1px solid #333;
+    font-size: 18px;
+    text-align: center; 
+    color:#ffca13; 
+    text-transform: uppercase;
+    margin-bottom:15px;
+}
+.casestudy-item:hover {
+    background: #333;
+    color: #fff;
 }
 footer {
     z-index:5;
