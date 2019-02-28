@@ -203,7 +203,8 @@
 								<b>Ad Premier Building 19<sup>th</sup> Floor, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12550, INDONESIA</b>
 								<br/><br/>
 								TEL<br/>
-								<b>+62(21) 2270 8935 / 36</b>
+								<b>+62(21) 2270 8935 / 36</b><br>
+								<b><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" style="vertical-align: top; color: #333"> <img src="../img/whatsapp.png" width="16" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a></b>
 								<br/><br/>
 								開発センター<br/>
 								<b>ジョグジャカルタ  ( Umbulharjo, Kota Yogyakarta )</b>
