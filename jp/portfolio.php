@@ -7,14 +7,14 @@
     <meta name="description" itemprop="description" content="LOGIQUEの制作実績を紹介します。LOGIQUEは、ジャカルタのウェブ制作会社です。ジャカルタを中心としたインドネシア国内で、数多くのWEBサイト(ホームページ)制作/システム構築、パンフレット、カタログ等印刷物のデザインまで制作を行ってまいりました。">
 	<meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, デザイン, 印刷, コーポレートサイト, ランディングページ">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="インドネシアのウェブデザイン制作会社 | ホームページ制作実績 | LOGIQUE">
+    <meta property="og:title" content="インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/portfolio.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUEの制作実績を紹介します。LOGIQUEは、ジャカルタのウェブ制作会社です。ジャカルタを中心としたインドネシア国内で、数多くのWEBサイト(ホームページ)制作/システム構築、パンフレット、カタログ等印刷物のデザインまで制作を行ってまいりました。">
+	<meta property="og:description" content="LOGIQUEの制作実績を紹介します。ホームページ制作、Webシステム開発、モバイルアプリ開発、SNS運用やSEO、インターネット広告などデジタルマーケティング実施の実績紹介です。LOGIQUEはジャカルタのウェブ制作会社です。インドネシアでの制作開発プロジェクトのケーススタディーも幾つか紹介します。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>インドネシアのウェブデザイン制作会社 | ホームページ制作実績 | LOGIQUE</title>
+    <title>インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -44,7 +44,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="about.php">
+							<a href="logique.php">
 								<div class="img-about"></div>
 								会社概要
 							</a>
@@ -104,7 +104,7 @@
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
 							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
-							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">WEB制作実績</span></a><meta itemprop="position" content="2" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">LOGIQUE制作開発実績</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
 							<h1 class="tagline">WEBサイト・ホームページ制作、システム開発実績、印刷物のデザイン事例を紹介します。</h1>
 						</div>

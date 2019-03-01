@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="インドネシアで求人採用サイトをつかって効率良い採用活動をしましょう。LOGIQUEはWEBサイト制作/システム構築、WEBマーケティング、(iOS / Andorid)、SNS運用など、WEB及びデザインに関する様々なサービスを幅広く提供しております。人事採用に関するご支援を行っております。">
+    <meta name="description" content="インドネシアでインターネット（求人ページ・採用サイト）を活用して効率良い採用活動をしましょう。LOGIQUEはWEBサイト制作/システム構築運用、デジタルマーケティング、SNS運用など、WEB及びデザインに関する様々なサービスを幅広く提供しております。ネットでの求人募集や、レジュメのオンライン受付、自動スクリーニングシステムの導入などのご支援を行っております。お気軽にお問い合わせください。">
 	<meta name="keywords" content="">
 	<meta name="author" content="Logique Digital Indonesia">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

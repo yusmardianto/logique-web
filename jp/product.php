@@ -7,14 +7,14 @@
     <meta name="description" itemprop="description" content="LOGIQUEデジタルインドネシアのの会社概要ページ。LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。WEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
 	<meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, パンフレット">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="ジャカルタのWEBサイト/デザイン制作会社 | LOGIQUE デジタルインドネシア">
+    <meta property="og:title" content="人事ITソリューション | テレワーク管理ツール | 採用管理クラウド | LOGIQUE DIGITAL INDONESIA>
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/jp/about.php">
+	<meta property="og:url" content="https://www.logique.co.id/jp/product.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUEデジタルインドネシアのの会社概要ページ。LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。WEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
+	<meta property="og:description" content="インドネシアの人事管理事情に沿ったクラウドプロダクトの提供をしています。リモートワークを許容しながら生産性を向上することが可能なテレワークマネジメントツール、日報を通じて人事評価を行うことが可能なツール、オフラインのインタビューをできる限り少なくしてプロセスをスピードアップすることが可能な採用管理ツールの展開を行っています。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>ジャカルタのWEBサイト/デザイン制作会社 | LOGIQUE デジタルインドネシア</title>
+    <title>人事ITソリューション | テレワーク管理ツール | 採用管理クラウド | LOGIQUE DIGITAL INDONESIA</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -44,7 +44,7 @@
 							</a>
 						</div>
 						<div class="text-center active">
-							<a href="about.php">
+							<a href="logique.php">
 								<div class="img-about"></div>
 								会社概要
 							</a>
@@ -104,7 +104,7 @@
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
 							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
-							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">OurProduct</span></a><meta itemprop="position" content="2" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">HRクラウドツール</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
 							<h1 class="tagline">インドネシアで人事業務を効果的に運営するために作成されたHRクラウドサービスを提供しています。生産性向上ツール、採用管理ツール、日報ツールを展開しています。</h1>
 						</div>

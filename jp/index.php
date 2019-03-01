@@ -13,7 +13,7 @@
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://logique.co.id/jp">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="インドネシア、ジャカルタでのWEBサイト(ホームページ)制作、システム構築、WEBマーケティング、モバイルアプリ開発(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等のデザインなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。">
+	<meta property="og:description" content="インドネシア、ジャカルタでのWEBサイト(ホームページ)制作、システム構築、Digitalマーケティング、モバイルアプリ開発(ハイブリッド / iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、コンテンツマーケティングなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。インドネシアで7年以上多くのお客様をご支援してきた実績があります。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <title>ジャカルタのWEBサイト/ホームページ制作会社 | LOGIQUE デジタルインドネシア</title>
 
@@ -61,7 +61,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="about.php">
+							<a href="logique.php">
 								<div class="img-about"></div>
 								会社概要
 							</a>

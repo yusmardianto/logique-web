@@ -17,10 +17,10 @@ ga('send', 'pageview');
 				<div class="row">
 					<div class="col-sm-3 link-footer-nav" style="font-weight: normal;">
 						<a href="index.php">Home</a><br/><br/>
-						<a href="about.php">会社概要</a><br/><br/>
+						<a href="logique.php">会社概要</a><br/><br/>
 						<a href="services.php">サービス</a><br/><br/>
 						<a href="portfolio.php">制作開発実績</a><br/><br/>
-						<!-- <a href="product.php">プロダクト</a><br/><br/> -->
+						<a href="product.php">プロダクト</a><br/><br/>
 						<a href="joinus.php">採用/パートナー</a><br/><br/>
 						<a href="/career/">求人/インターン</a><br/><br/>
 						<a href="contact.php">お問い合わせ</a><br/>
@@ -30,7 +30,7 @@ ga('send', 'pageview');
 						<h6><a href="/jp/services/mekanisme-pembuatan-website/" target="_blank">Web制作サービス</a></h6>
 							<h6><a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 採用サイト制作</a></h6>
 							<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 歯科クリニック向けWeb制作</a></h6>
-							<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
+							<!-- <h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6> -->
 						
 						<h6><a href="/jp/services/pembuatan-aplikasi-mobile/">モバイルApp開発</a></h6>
 						<h6><a href="/jp/services/penetration-testing/">Webセキュリティ診断サービス</a></h6>
@@ -45,7 +45,7 @@ ga('send', 'pageview');
 						
 					</div>
 					<div class="col-sm-4 link-footer">
-						<div class="footer-title">プロダクト</div>
+						<div class="footer-title"><a href="/jp/product.php">プロダクト</a></div>
 						<h5 style="margin-bottom: 10px; line-height: normal;">
 							<a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja<br>（リモートワーク管理ツール）</a>
 						</h5>

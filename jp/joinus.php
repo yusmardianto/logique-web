@@ -7,14 +7,14 @@
     <meta name="description" itemprop="description" content="LOGIQUEはジャカルタのウェブ制作会社です。ジャカルタを中心とするインドネシア国内でWEBサイト制作/システム構築、WEBマーケティング、(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
 	<meta name="keywords" content="採用情報, webデベロッパー, プログラマー, ウェブデザイナー, デザイナー, コンテンツライター">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="インドネシアのWEBサイト/ホームページ制作会社 | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="求人情報 | インドネシアのWEBサイト/ホームページ制作会社 | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/joinus.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUEはジャカルタのウェブ制作会社です。ジャカルタを中心とするインドネシア国内でWEBサイト制作/システム構築、WEBマーケティング、(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
+	<meta property="og:description" content="LOGIQUEはジャカルタのウェブ制作、デジタルマーケティング・コンサルティング会社です。ジャカルタを中心とするインドネシア国内でWEBサイト制作/システム構築、WEBマーケティング、新規事業立ち上げコンサルティングなどのサービスを幅広く提供しております。インドネシアでのパートナーをお探しの企業、インターンシップ先をお探しの方、お気軽にお問い合わせください。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>インドネシアのWEBサイト/ホームページ制作会社 | LOGIQUE Digital Indonesia</title>
+    <title>求人情報 | インドネシアのWEBサイト/ホームページ制作会社 | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -44,7 +44,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="about.php">
+							<a href="logique.php">
 								<div class="img-about"></div>
 								会社概要
 							</a>
@@ -101,7 +101,7 @@
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
 							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
-							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">採用 / パートナー</span></a><meta itemprop="position" content="2" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">LOGIQUEの求人</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
 							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社、システム開発会社。インドネシアでのパートナー・代理店としての提携問い合わせお待ちしてます。</h1>
 						</div>
