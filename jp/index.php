@@ -79,6 +79,12 @@
 							</a>
 						</div>
 						<div class="text-center">
+							<a href="product.php">
+								<div class="img-product"></div>
+								プロダクト
+							</a>
+						</div>
+						<div class="text-center">
 							<a href="joinus.php">
 								<div class="img-career"></div>
 								採用/<br>パートナー

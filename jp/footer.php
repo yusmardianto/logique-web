@@ -13,76 +13,68 @@ ga('send', 'pageview');
 </script>
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-8 col-sm-push-4">
+			<div class="col-sm-9 col-sm-push-3">
 				<div class="row">
-					<div class="col-sm-3 link-footer-nav" style="font-weight: normal;">
-						<a href="index.php">Home</a><br/><br/>
-						<a href="logique.php">会社概要</a><br/><br/>
-						<a href="services.php">サービス</a><br/><br/>
-						<a href="portfolio.php">制作開発実績</a><br/><br/>
-						<a href="product.php">プロダクト</a><br/><br/>
-						<a href="joinus.php">採用/パートナー</a><br/><br/>
-						<a href="/career/">求人/インターン</a><br/><br/>
-						<a href="contact.php">お問い合わせ</a><br/>
-					</div>
-					<div class="col-sm-5 link-footer">
-						<div class="footer-title">LOGIQUEのサービス</div>
-						<h6><a href="/jp/services/mekanisme-pembuatan-website/" target="_blank">Web制作サービス</a></h6>
-							<h6><a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 採用サイト制作</a></h6>
-							<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 歯科クリニック向けWeb制作</a></h6>
-							<!-- <h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6> -->
+					<div class="col-sm-2 link-footer-nav" style="font-weight: normal;">
+						<ul>
+							<li><a href="index.php">Home</a></li>
+							<li><a href="logique.php">会社概要</a></li>
+							<li><a href="services.php">サービス</a></li>
+							<li><a href="portfolio.php">制作開発実績</a></li>
+							<li><a href="product.php">プロダクト</a></li>
+							<li><a href="joinus.php">採用/パートナー</a></li>
+							<li><a href="/career/">求人/インターン</a></li>
+							<li><a href="contact.php">お問い合わせ</a></li>
+						</ul>
 						
-						<h6><a href="/jp/services/pembuatan-aplikasi-mobile/">モバイルApp開発</a></h6>
-						<h6><a href="/jp/services/penetration-testing/">Webセキュリティ診断サービス</a></h6>
+					</div>
+					<div class="col-sm-5 link-footer-nav">
+						<div class="footer-title">LOGIQUEのサービス</div>
+						<ul>
+							<li><a href="/jp/services/mekanisme-pembuatan-website/" target="_blank">Web制作サービス</a>
+								<ul>
+									<li><a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank">  採用サイト制作</a></li>
+									<li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">  歯科クリニック向けWeb制作</a></li>
+								</ul>
+							</li>
+							<li><a href="/jp/services/pembuatan-aplikasi-mobile/"> モバイルApp開発</a></li>
+							<li><a href="/jp/services/penetration-testing/"> Webセキュリティ診断サービス</a></li>
+						</ul>
+						<div class="footer-title" style="padding-top: 20px;"><a href="/jp/product.php">プロダクト</a></div>
+						<ul>
+							<li><a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja（リモートワーク管理ツール）</a></li>
+							<li><a href="/jp/product/sugoi-saiyo.php"  target="_blank">Sugoi Saiyo（採用管理ツール）</a></li>
+							<li><a href="/jp/product/nippo.php"  target="_blank">Nippo（日報＆人事評価ツール）</a></li>
+							<li></li>
+						</ul>
+ 	
+							<!-- <h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6> -->
+ 
 
 <!-- 							<h6><a href="/jp/product/dokodemo-kerja.php">Dokodemo-Kerja（リモートワーク管理ツール）</a></h6>
 						<h6><a href="/jp/product/sugoi-saiyo.php">Sugoi Saiyo（採用管理ツール）</a></h6>
 						<h6><a href="/jp/product/sugoi-saiyo.php">Nippo（日報＆人事評価ツール）</a></h6>
 
-				<h6><a href="/product.php">プロダクト</a></h6>
+						<h6><a href="/product.php">プロダクト</a></h6>
 						<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
 						<h6><a href="/jp/services/pembuatan-sistem-web/" target="_blank">WEBシステム開発</a></h6> -->
+					 
 						
+							 
 					</div>
-					<div class="col-sm-4 link-footer">
-						<div class="footer-title"><a href="/jp/product.php">プロダクト</a></div>
-						<h5 style="margin-bottom: 10px; line-height: normal;">
-							<a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja<br>（リモートワーク管理ツール）</a>
-						</h5>
-						<h5 style="margin-bottom: 10px;">
-							<a href="/jp/product/sugoi-saiyo.php"  target="_blank">Sugoi Saiyo（採用管理ツール）</a>
-						</h5>
-						<h5>
-							<a href="/jp/product/nippo.php"  target="_blank">Nippo（日報＆人事評価ツール）</a>
-						</h5>
-
-						<div class="hidden-xs"><br/></div>
-						<div class="footer-title">Social Media</div>
-						<div class="row medsos-new">
-							<div class="col-xs-3 text-center">
-								<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a>
-							</div>
-							<div class="col-xs-3 text-center">
-								<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-							</div>
-							<div class="col-xs-3 text-center">
-								<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-							</div>
-							<div class="col-xs-3 text-center">
-								<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-							</div>
-						</div>
-						<div class="hidden-xs"><br/><br/></div>
+					<div class="col-sm-5 link-footer"  >
+					
+ 						<p>LOGIQUEは、ジャカルタでWebコンサルティング、WEBサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。</p>
 					</div>
 				</div>
 				<br/>
 			</div>
-			<div class="col-sm-4 col-sm-pull-8">
+			<div class="col-sm-3 col-sm-pull-9">
 			<div itemscope itemtype="http://schema.org/Organization">
 				<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
 				<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-				<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
-				Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span>
+				<span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br/>Jalan Tb. Simatupang No. 5 
+				Ragunan, <br>Ps. Minggu,  Jakarta Selatan,<br> Indonesia </span><span itemprop="postalCode">12550</span>
 				<br><br>
 				&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
 				<br>
@@ -90,9 +82,22 @@ ga('send', 'pageview');
 				<br><br>
 				</div>
 			</div>
-				LOGIQUEは、ジャカルタでWebコンサルティング、WEBサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。
+				<div class="footer-title">Social Media</div>
+					<ul class=" medsos-new">
+						<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
+						<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+					</ul>
+ 
+				
 
 				<br/><br/>
+				
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12">
 				<div itemscope itemtype="http://schema.org/CreativeWork">
 					<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
 					<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>

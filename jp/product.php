@@ -43,7 +43,7 @@
 								Home
 							</a>
 						</div>
-						<div class="text-center active">
+						<div class="text-center ">
 							<a href="logique.php">
 								<div class="img-about"></div>
 								会社概要
@@ -59,6 +59,12 @@
 							<a href="services.php">
 								<div class="img-services"></div>
 								サービス
+							</a>
+						</div>
+						<div class="text-center active">
+							<a href="product.php">
+								<div class="img-product"></div>
+								プロダクト
 							</a>
 						</div>
 						<div class="text-center">
