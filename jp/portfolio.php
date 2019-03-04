@@ -112,7 +112,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">LOGIQUE制作開発実績</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">WEBサイト・ホームページ制作、システム開発実績、印刷物のデザイン事例を紹介します。</h1>
+							<h1 class="tagline">Webサイト・ホームページ制作、システム開発実績、モバイルアプリ開発、デジタルマーケティング実行事例などを紹介します。</h1>
 						</div>
 					</div>
 				</div>
