@@ -39,6 +39,9 @@ body.jp-page  #contents{
     max-width: 1600px;
     margin: 0 auto
 }
+a:focus, a:active, div:active, div:focus, button:active, button:focus{
+    outline: none;
+}
 .logique-nav {
     width: 95px;
     background: rgba(255, 202, 19, .9);
@@ -613,6 +616,15 @@ section.maintop {
     background: #333;
     color: #fff;
 }
+.btn-more-portfolio {
+    background: #333;
+    color: #fff;
+    transition: all .5s;
+
+    white-space: normal;
+    margin-bottom: 25px; 
+    margin-top: 20px    
+}
 .custom-btn-contact{
     font-size: 16px; 
     padding: 10px 20px;
@@ -620,6 +632,20 @@ section.maintop {
 .custom-btn-contact:hover{
     background: #ffca13;
     color: #333;
+}
+.system-development-client-container {
+    margin-bottom: 30px;
+}
+.system-development-client-container h3{
+    margin-bottom: 10px;
+}
+.img-thumbnail{
+    border:1px solid #ececec;
+border-radius: 0;
+}
+.slider-other-client-container .col-sm-4:focus, .slider-other-client-container .col-sm-4:active{
+
+
 }
 footer {
     z-index:5;
@@ -2589,7 +2615,90 @@ blockquote::before {
 .sosmed-contact a:last-child {
     margin-right: 0
 }
+.other-client-item{
+    padding:0 7px;
+}
+.slider-other-client-container {
+    overflow: hidden;
+}
+.slider-other-client-container .slick-list{
+    margin:0 -7px;
+}
+.other-client-item .img-thumb {
+    height: 240px;
+    overflow: hidden;
+}
 
+.slider-other-client-container .slick-prev, .slider-other-client-container .slick-next {
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 20px;
+    height: 40px;
+    padding: 0;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background: transparent;
+    z-index: 99;
+    font: normal normal normal 14px/1 FontAwesome;
+    margin-top: -30px;
+}
+.slider-other-client-container .slick-next {
+    right: 10px;
+
+}
+.slider-other-client-container .slick-prev {
+    left: 10px;
+}
+ 
+.slider-other-client-container .slick-prev:before, .slider-other-client-container .slick-next:before {
+ 
+    line-height: 1;
+    opacity: .9;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #ea7d2b;
+    font-size: 50px;
+    font-weight: bold;
+}
+.slider-other-client-container .slick-prev:before {
+       content: "\f104";
+
+}
+.slider-other-client-container .slick-next:before {
+       content: "\f105";
+}
+.mobile-app-container .slick-dots{
+ 
+    list-style: none
+
+}
+.mobile-app-container .slick-dots li{
+       display: inline-block;
+       font-size: 0;
+       padding: 0 5px;
+       vertical-align: top;
+}
+.mobile-app-container .slick-dots li button{
+    padding: 0;
+    margin: 0;
+    width: 7px;
+    height: 7px;
+    background: #111;
+    border:0;
+    border-radius: 20px;
+}
+.m-app-item img{
+ 
+}
 @media (max-width:1200px) {
     .klien-flow .div-for-workflow {
         font-size: 14px;
