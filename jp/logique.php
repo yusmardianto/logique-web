@@ -240,12 +240,12 @@
 							<div class="banner-container">
 							  <div class="row" >
 							  	<div class="col-sm-6">
-							  		<a href="service.php">
+							  		<a href="services.php">
 							  			<img src="../img/service-banner-sm.png" alt="service banner" class="img-responsive">
 							  		</a>
 							  	</div>
 							  	<div class="col-sm-6">
-							  		<a href="#">
+							  		<a href="product.php">
 							  			<img src="../img/product-banner-sm.png" alt="" class="img-responsive">
 							  		</a>
 							  	</div>
