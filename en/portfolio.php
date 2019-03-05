@@ -18,20 +18,31 @@
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
-	
+
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    
+
+    <style>
+      .studi-kasus {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+      }
+      .studi-kasus > div {
+        flex: 130px 0 130px;
+        margin: 5px;
+      }
+    </style>
     </head>
 	<body>
 		<div class="wrapper">
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 
 			<div class="collapse navbar-collapse" id="myNavbar">
@@ -84,7 +95,7 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
 				<video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
@@ -92,7 +103,7 @@
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
-			
+
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
@@ -111,8 +122,8 @@
 						</div>
 					</div>
 				</div>
-			</div>			
-			
+			</div>
+
 			<br/>
 			<style>
 				.addition-desc{font-size:12px}
@@ -332,7 +343,7 @@
 									<br>Campaign Page Creation (Design | Coding | CMS)<br>
 									<br><div class="grey-clr">Multi-language, Mobile, Campaign page, CMS, Financial, Bank</div><br><br><br>
 								</div>
-							</div>	
+							</div>
 							<div class="col-sm-4">
 								<a href="http://frangipanibalispa.com/contact.php" target="_blank">
 									<img src="/img/portfolio/frangipani.png" class="img-responsive center-block">
@@ -375,7 +386,7 @@
 									<br><div class="grey-clr">LP Creation, Conversion Oriented Web, Car Gurantee Service</div><br><br><br>
 								</div>
 							</div>
-							<div class="col-sm-4">								
+							<div class="col-sm-4">
 								<img src="/img/portfolio/eccj.jpg" class="img-responsive center-block">
 								ECCJ
 								<div class="addition-desc text-left">
@@ -433,7 +444,7 @@
 									<br><div class="grey-clr">Japanese WEB, Blog, Mobile, Application Form, School</div><br><br><br>
 								</div>
 							</div>
-							<div class="col-sm-4">								
+							<div class="col-sm-4">
 								<a href="https://cikarang-japanese-school.com/" target="_blank">
 									<img src="/img/portfolio/cjs.png" class="img-responsive center-block">
 									Cikarang Japanese School
@@ -533,7 +544,7 @@
 									<br>WEB Re-Design (Design | Coding)<br>
 									<br><div class="grey-clr">Multi-language, Mobile, Consulting, Accounting &amp; Tax</div><br><br><br>
 								</div>
-							</div>	
+							</div>
 							<div class="col-sm-4">
 								<a href="http://j-golfacademy.com/" target="_blank">
 									<img src="/img/portfolio/golfjkt.png" class="img-responsive center-block">
@@ -628,7 +639,7 @@
 							<div class="col-sm-4">
 								<a href="https://webdev-id.com/" target="_blank">
 									<img src="/img/portfolio/wdi.png" class="img-responsive center-block">
-									WDI 
+									WDI
 								</a>
 								<div class="addition-desc text-left">
 									<br>Creators Market Place Development (Design | CMS | Security Assessment)<br>
@@ -639,7 +650,7 @@
 							<div class="col-sm-4">
 								<a href="https://lifenesia.com" target="_blank">
 									<img src="/img/portfolio/lifenesia.png" class="img-responsive center-block">
-									Lifenesia 
+									Lifenesia
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Hosting (Coding | Integrasi CMS)  <br>
@@ -649,7 +660,7 @@
 							<div class="col-sm-4">
 								<a href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank">
 									<img src="/img/portfolio/jnto-campaign.png" class="img-responsive center-block">
-									JNTO Campaign Page 
+									JNTO Campaign Page
 								</a>
 								<div class="addition-desc text-left">
 									<br>HTML/CSS Coding (Coding)<br>
@@ -658,7 +669,7 @@
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/jba-redesign.png" class="img-responsive center-block">
-								JBA Re-design  
+								JBA Re-design
 								<div class="addition-desc text-left">
 									<br>WEB Dev & Operation (Design | CMS | System | Operation | AWS)<br>
 									<br><div class="grey-clr">Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial</div><br><br><br>
@@ -667,7 +678,7 @@
 							<!--<div class="col-sm-4">
 								<a href="http://wkvetter.com" target="_blank">
 									<img src="/img/portfolio/vetter.png" class="img-responsive center-block">
-									Vetter 
+									Vetter
 								</a>
 								<div class="addition-desc text-left">
 									<br>WEB Hosting (Coding | Integrasi CMS)  <br>
@@ -675,12 +686,39 @@
 								</div>
 							</div>-->
 						</div>
-						
+
 						<br/>
 						<span class="characteristic-title">Our system development experiences</span>
 						<br/><br/>
 						<div class="">See Case Study:</div><br/>
-						<div class="row text-center studi-kasus">
+            <div class="studi-kasus">
+              <div>
+                <a href="/en/case-study/jba-auction-system/" target="_blank">
+                  <img src="../img/case-study-jba-auction-system.jpg" alt="JBA Auction System">
+                </a>
+              </div>
+              <div>
+                <a href="/en/case-study/caroline-bidding-system/" target="_blank">
+                  <img src="../img/case-study-caroline-bidding-system.jpg" alt="Carolline Bidding System">
+                </a>
+              </div>
+              <div>
+                <a href="/en/case-study/opuspark/" target="_blank">
+                  <img src="../img/case-study-opus-park.jpg" alt="Opus Park">
+                </a>
+              </div>
+              <div>
+                <a href="/en/case-study/vip-plaza-progressive-web-app/" target="_blank">
+                  <img src="../img/case-study-vip-plaza.jpg" alt="VIP Plaza">
+                </a>
+              </div>
+              <div>
+                <a href="/en/case-study/zuttoride-customer-management-system/" target="_blank">
+                  <img src="../img/case-study-zuttoride.jpg" alt="ZuttoRide">
+                </a>
+              </div>
+            </div>
+						<!-- <div class="row text-center studi-kasus">
 							<div class="col-sm-4">
 								<a target="_blank" href="/en/case-study/jba-auction-system/" class="btn">
 									JBA Auction System
@@ -707,7 +745,7 @@
 									ZuttoRide
 								</a>
 							</div>
-						</div>
+						</div> -->
 						<ul class="circle-list">
 							<li>
 								Beneficial Point Management & E-Commerce System Development.<br>
@@ -1008,7 +1046,7 @@
 								<img src="/img/portfolio/opus-park-ig.png" class="img-responsive center-block">
 								Opus Park (Instagram)<br><br>
 							</div>
-						</div> 
+						</div>
 						<br/>
 						<span class="characteristic-title">Others</span>
 						<br/><br/>
@@ -1092,32 +1130,32 @@
 								<video class="vd-log same-height" poster="/img/portfolio/video-jfe.jpg" controls>
 								   <source src="/img/portfolio/JFE-video.webm" type="video/webm" />
 								   <source src="/img/portfolio/JFE-video.mp4" type="video/mp4" />
-								</video>	
+								</video>
 								JFE Shoji Video<br><br>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
-								<img src="/img/portfolio/caroline-1.jpg" class="img-responsive center-block" style="height: 224px"> 
+								<img src="/img/portfolio/caroline-1.jpg" class="img-responsive center-block" style="height: 224px">
 								Caroline Flyer<br><br>
 							</div>
 							<div class="col-sm-4">
-								<img src="/img/portfolio/sunlife-book.jpg" class="img-responsive center-block" style="height: 224px"> 
+								<img src="/img/portfolio/sunlife-book.jpg" class="img-responsive center-block" style="height: 224px">
 								SunLife Notebook<br><br>
 							</div>
 							<div class="col-sm-4">
-								<img src="/img/portfolio/sunlife-book2.jpg" class="img-responsive center-block" style="height: 224px"> 
+								<img src="/img/portfolio/sunlife-book2.jpg" class="img-responsive center-block" style="height: 224px">
 								SunLife Notebook<br><br>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
-								<img src="/img/portfolio/60jpid_catalog.png" class="img-responsive center-block" style="height: 224px"> 
+								<img src="/img/portfolio/60jpid_catalog.png" class="img-responsive center-block" style="height: 224px">
 								60th Anniversary catalog<br><br>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-			
+
 			<?php include 'footer.php';?>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
 			<script>
