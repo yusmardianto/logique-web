@@ -42,14 +42,14 @@ if(isset($_POST['submitted']))
     <meta name="description" itemprop="description" content="LOGIQUEはインドネシア、他の東南アジアの国でクライアントのWEBマーケティングをWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などで成功に導いてきました。インドネシアでWEBを成功のキーとお考えであれば、LOGIQUEにご相談ください。">
 	<meta name="keywords" content="お問い合わせ, WEBサイト制作, ホームページ制作,ウェブシステム構築, WEBマーケティング, パンフレット, モバイルアプリ構築">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="インドネシアのウェブ/ホームページの制作、運用に関するお問い合わせ | LOGIQUE デジタルインドネシア">
+    <meta property="og:title" content="Web / ホームページの制作運用 デジタルマーケティングに関するお問い合わせ | LOGIQUE デジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/contact.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUEはインドネシア、他の東南アジアの国でクライアントのWEBマーケティングをWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などで成功に導いてきました。インドネシアでWEBを成功のキーとお考えであれば、LOGIQUEにご相談ください。">
+	<meta property="og:description" content="LOGIQUEはインドネシアや他の東南アジアの国で、クライアントにWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などデジタルマーケティングサービスを提供してきました。7年間の大企業向けの豊富な実績があります。デジタル領域のベンダー選定がインドネシアでの成功のキーとお考えであれば、LOGIQUEにご相談ください。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>インドネシアのウェブ/ホームページの制作、運用に関するお問い合わせ | LOGIQUE デジタルインドネシア</title>
+    <title>Web / ホームページの制作運用 デジタルマーケティングに関するお問い合わせ | LOGIQUE デジタルインドネシア</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -79,7 +79,7 @@ if(isset($_POST['submitted']))
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="about.php">
+							<a href="logique.php">
 								<div class="img-about"></div>
 								会社概要
 							</a>
@@ -94,6 +94,12 @@ if(isset($_POST['submitted']))
 							<a href="services.php">
 								<div class="img-services"></div>
 								サービス
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="product.php">
+								<div class="img-product"></div>
+								プロダクト
 							</a>
 						</div>
 						<div class="text-center">
@@ -139,9 +145,9 @@ if(isset($_POST['submitted']))
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
 							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
-							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">お問い合わせ</span></a><meta itemprop="position" content="2" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">LOGIQUEへのお問い合わせ</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">WEBシステム開発、ホームページ制作、インターネットマーケティング、モバイルアプリ開発から印刷物のデザインまでお気軽にご相談ください。
+							<h1 class="tagline">Webシステム開発、ホームページ制作、デジタルマーケティング、モバイルアプリ開発、インドネシアでのITコンサルティングなどお気軽にご相談ください。
 							</h1>
 						</div>
 					</div>

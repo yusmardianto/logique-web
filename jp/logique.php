@@ -62,6 +62,12 @@
 							</a>
 						</div>
 						<div class="text-center">
+							<a href="product.php">
+								<div class="img-product"></div>
+								プロダクト
+							</a>
+						</div>
+						<div class="text-center">
 							<a href="joinus.php">
 								<div class="img-career"></div>
 								採用/<br>パートナー
@@ -234,12 +240,12 @@
 							<div class="banner-container">
 							  <div class="row" >
 							  	<div class="col-sm-6">
-							  		<a href="/jp/services.php">
+							  		<a href="services.php">
 							  			<img src="../img/service-banner-sm.png" alt="service banner" class="img-responsive">
 							  		</a>
 							  	</div>
 							  	<div class="col-sm-6">
-							  		<a href="/jp/products.php">
+							  		<a href="product.php">
 							  			<img src="../img/product-banner-sm.png" alt="" class="img-responsive">
 							  		</a>
 							  	</div>

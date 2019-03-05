@@ -39,6 +39,9 @@ body.jp-page  #contents{
     max-width: 1600px;
     margin: 0 auto
 }
+a:focus, a:active, div:active, div:focus, button:active, button:focus{
+    outline: none;
+}
 .logique-nav {
     width: 95px;
     background: rgba(255, 202, 19, .9);
@@ -97,9 +100,9 @@ section.maintop {
 @media (min-width:1200px) {
     .margin-for-nav {
         top: 50%;
-        transform: translateY(-50%);
-        -webkit-transform: translateY(-50%);
-        -ms-transform: translateY(-50%);
+        transform: translateY(-52%);
+        -webkit-transform: translateY(-52%);
+        -ms-transform: translateY(-52%);
         position: relative
     }
 }
@@ -613,6 +616,15 @@ section.maintop {
     background: #333;
     color: #fff;
 }
+.btn-more-portfolio {
+    background: #333;
+    color: #fff;
+    transition: all .5s;
+
+    white-space: normal;
+    margin-bottom: 25px; 
+    margin-top: 20px    
+}
 .custom-btn-contact{
     font-size: 16px; 
     padding: 10px 20px;
@@ -620,6 +632,20 @@ section.maintop {
 .custom-btn-contact:hover{
     background: #ffca13;
     color: #333;
+}
+.system-development-client-container {
+    margin-bottom: 30px;
+}
+.system-development-client-container h3{
+    margin-bottom: 10px;
+}
+.img-thumbnail{
+    border:1px solid #ececec;
+border-radius: 0;
+}
+.slider-other-client-container .col-sm-4:focus, .slider-other-client-container .col-sm-4:active{
+
+
 }
 footer {
     z-index:5;
@@ -644,7 +670,18 @@ footer h6 {
 .title-bg-grey {
     font-weight: 700
 }
-
+.link-footer-nav ul li{
+    list-style: none;
+    
+}
+.link-footer-nav ul li  ul{
+    padding-left: 20px;
+}
+.link-footer-nav li a{
+    font-weight: normal;
+    padding-bottom: 10px;
+    display: block;
+}
 footer a {
     color: #fff!important
 }
@@ -1883,7 +1920,7 @@ blockquote {
 .img-contact,
 .img-home,
 .img-portfolio,
-.img-services {
+.img-services, .img-product {
     height: 44px;
     width: 44px
 }
@@ -2036,6 +2073,7 @@ blockquote::before {
 .img-services {
     margin: auto;
     background: url(../img/nav-img.png) -2px -184px no-repeat
+
 }
 
 .logique-nav .text-center.active .img-services,
@@ -2044,6 +2082,19 @@ blockquote::before {
 .logique-nav .text-center:focus .img-services,
 .logique-nav .text-center:hover .img-services {
     background: url(../img/nav-img-white.png) -2px -184px no-repeat
+}
+.img-product {
+    margin: auto;
+    background: url(../img/nav-img.png) -2px -440px no-repeat;
+
+}
+
+.logique-nav .text-center.active .img-product,
+.logique-nav .text-center.active:focus .img-product,
+.logique-nav .text-center.active:hover .img-product,
+.logique-nav .text-center:focus .img-product,
+.logique-nav .text-center:hover .img-product {
+    background: url(../img/nav-img-white.png) -2px -440px no-repeat
 }
 
 .img-career {
@@ -2564,7 +2615,90 @@ blockquote::before {
 .sosmed-contact a:last-child {
     margin-right: 0
 }
+.other-client-item{
+    padding:0 7px;
+}
+.slider-other-client-container {
+    overflow: hidden;
+}
+.slider-other-client-container .slick-list{
+    margin:0 -7px;
+}
+.other-client-item .img-thumb {
+    height: 240px;
+    overflow: hidden;
+}
 
+.slider-other-client-container .slick-prev, .slider-other-client-container .slick-next {
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 20px;
+    height: 40px;
+    padding: 0;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background: transparent;
+    z-index: 99;
+    font: normal normal normal 14px/1 FontAwesome;
+    margin-top: -30px;
+}
+.slider-other-client-container .slick-next {
+    right: 10px;
+
+}
+.slider-other-client-container .slick-prev {
+    left: 10px;
+}
+ 
+.slider-other-client-container .slick-prev:before, .slider-other-client-container .slick-next:before {
+ 
+    line-height: 1;
+    opacity: .9;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #ea7d2b;
+    font-size: 50px;
+    font-weight: bold;
+}
+.slider-other-client-container .slick-prev:before {
+       content: "\f104";
+
+}
+.slider-other-client-container .slick-next:before {
+       content: "\f105";
+}
+.mobile-app-container .slick-dots{
+ 
+    list-style: none
+
+}
+.mobile-app-container .slick-dots li{
+       display: inline-block;
+       font-size: 0;
+       padding: 0 5px;
+       vertical-align: top;
+}
+.mobile-app-container .slick-dots li button{
+    padding: 0;
+    margin: 0;
+    width: 7px;
+    height: 7px;
+    background: #111;
+    border:0;
+    border-radius: 20px;
+}
+.m-app-item img{
+ 
+}
 @media (max-width:1200px) {
     .klien-flow .div-for-workflow {
         font-size: 14px;
@@ -3004,6 +3138,17 @@ blockquote::before {
 .link-footer .medsos-new .fa-twitter:hover{color:#0084ff}
 .link-footer .medsos-new .fa-instagram:hover{color:#e4405f}
 .link-footer .medsos-new .fa-linkedin-square:hover{color:#0077B5}
+ul.medsos-new li{
+    display: inline-block;
+    padding:0 5px;
+}
+
+ul.medsos-new{
+    padding: 0;
+}
+ul.medsos-new li a{
+    font-size: 26px;
+}
 video.vd-log{
     background: none;
     position: relative;

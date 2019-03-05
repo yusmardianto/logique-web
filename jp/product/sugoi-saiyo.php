@@ -40,7 +40,7 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="SugoiSaiyoはその名前のままインドネシアでの採用活動を凄く効率的に効果的にするための採用活動管理システムです。インドネシアの人事部、採用担当者のための管理機能と、応募者の為の機能の両方を兼ね備えています。">
+    <meta name="description" content="SugoiSaiyoはインドネシアでの採用活動を効率的に効果的に行うための採用業務管理システムです。インドネシアの人事部、採用担当者のための管理機能と、応募者（求職者）が直接専用Webから応募、オファーレターの受領まで行える機能の両方を兼ね備えています。LOGIQUEデジタルインドネシアが提供するクラウドツールです。">
 	<meta name="keywords" content="">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

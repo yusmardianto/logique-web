@@ -7,14 +7,14 @@
     <meta name="description" itemprop="description" content="LOGIQUEがインドネシアで提供しているサービスは、ジャカルタを中心とするインドネシア国内でWEBサイト制作/システム構築、WEBマーケティング、(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
 	<meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, 印刷">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="WEBサイト・デザイン制作、ウェブシステム・モバイルアプリ開発 | LOGIQUE デジタルインドネシア">
+    <meta property="og:title" content="WEBザイン制作、ウェブシステム開発運用・モバイルアプリ開発 | LOGIQUE デジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/services.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUEがインドネシアで提供しているサービスは、ジャカルタを中心とするインドネシア国内でWEBサイト制作/システム構築、WEBマーケティング、(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
+	<meta property="og:description" content="LOGIQUEは、WEBサイト・ホームページ制作、CMSやEC、会員管理システムなどの開発運用、Digitalマーケティング、アプリ開発、SNS運用、インターネットビジネスコンサルティングなどをインドネシアで提供しています。クライアントの新規事業をデジタル・IT面で幅広くご支援しています。お気軽に日本語でご連絡ください。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>WEBサイト・デザイン制作、ウェブシステム・モバイルアプリ開発 | LOGIQUE デジタルインドネシア</title>
+    <title>WEBザイン制作、ウェブシステム開発運用・モバイルアプリ開発 | LOGIQUE デジタルインドネシア</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -44,7 +44,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="about.php">
+							<a href="logique.php">
 								<div class="img-about"></div>
 								会社概要
 							</a>
@@ -59,6 +59,12 @@
 							<a href="services.php">
 								<div class="img-services"></div>
 								サービス
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="product.php">
+								<div class="img-product"></div>
+								プロダクト
 							</a>
 						</div>
 						<div class="text-center">
@@ -104,9 +110,9 @@
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
 							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
-							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">サービス</span></a><meta itemprop="position" content="2" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">LOGIQUEのサービス</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">WEBサイト/ホームページ制作、SEO対策、モバイルアプリ開発、システム開発、IT関連コンサルティング、印刷物デザインなど。</h1>
+							<h1 class="tagline">Webサイト・ホームページ制作、システム開発実績、モバイルアプリ開発、デジタルマーケティング実行事例などを紹介します。</h1>
 						</div>
 					</div>
 				</div>

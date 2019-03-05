@@ -7,14 +7,14 @@
     <meta name="description" itemprop="description" content="LOGIQUEデジタルインドネシアのの会社概要ページ。LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。WEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
 	<meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, パンフレット">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="ジャカルタのWEBサイト/デザイン制作会社 | LOGIQUE デジタルインドネシア">
+    <meta property="og:title" content="人事ITソリューション | テレワーク管理ツール | 採用管理クラウド | LOGIQUE DIGITAL INDONESIA>
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/jp/about.php">
+	<meta property="og:url" content="https://www.logique.co.id/jp/product.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUEデジタルインドネシアのの会社概要ページ。LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。WEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
+	<meta property="og:description" content="インドネシアの人事管理事情に沿ったクラウドプロダクトの提供をしています。リモートワークを許容しながら生産性を向上することが可能なテレワークマネジメントツール、日報を通じて人事評価を行うことが可能なツール、オフラインのインタビューをできる限り少なくしてプロセスをスピードアップすることが可能な採用管理ツールの展開を行っています。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>ジャカルタのWEBサイト/デザイン制作会社 | LOGIQUE デジタルインドネシア</title>
+    <title>人事ITソリューション | テレワーク管理ツール | 採用管理クラウド | LOGIQUE DIGITAL INDONESIA</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -43,8 +43,8 @@
 								Home
 							</a>
 						</div>
-						<div class="text-center active">
-							<a href="about.php">
+						<div class="text-center ">
+							<a href="logique.php">
 								<div class="img-about"></div>
 								会社概要
 							</a>
@@ -59,6 +59,12 @@
 							<a href="services.php">
 								<div class="img-services"></div>
 								サービス
+							</a>
+						</div>
+						<div class="text-center active">
+							<a href="product.php">
+								<div class="img-product"></div>
+								プロダクト
 							</a>
 						</div>
 						<div class="text-center">
@@ -104,9 +110,9 @@
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
 							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
-							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">LOGIQUEについて</span></a><meta itemprop="position" content="2" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">HRクラウドツール</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社。ウェブデザイン制作からITシステム開発までインドネシアでIT活用のご支援を幅広く行っています。</h1>
+							<h1 class="tagline">インドネシアで人事業務を効果的に運営するために作成されたHRクラウドサービスを提供しています。生産性向上ツール、採用管理ツール、日報ツールを展開しています。</h1>
 						</div>
 					</div>
 				</div>
@@ -124,7 +130,7 @@
 ほかに、採用企業と求職者の両者がより効率的な採用・求職活動ができるように、ITの力で、求職・採用プロセスの無駄を排除したクラウド採用管理ツールSugoiSaiyo、スタッフの日々の勤務状況・内容を管理しつつ管理会計に利用可能なデータの集計を行うための日報管理システム、Nippoも提供しております。いずれについてもお気軽にお問い合わせいただければ幸いです。</p>
 					</div>
 					<div class="img-container">
-						<img src="../img/slider4.jpg" align="product page banner" class="img-responsive">
+						<img src="../img/product-page-banner.jpg" align="product page banner" class="img-responsive">
 					</div>
 					<div class="feel-free row-center-sm" style="font-size: 18px;">
 						<div class="col-sm-8">
@@ -145,7 +151,7 @@
 							</div>
 							<div class="col-md-7 col-sm-8">
 								<p> リモートワーク（テレワーク）を可能にして、従業員の生産性を向上させ、管理者の管理工数を減らす画期的なツールです。
-スタッフがいつ、どんな作業をしているのか確認することができます。作業タイプ（タスク種、プロジェクト名）を入力させることで作業時間を集計し管理会計に利用することも可能です。勤務開始時間、休憩時間、終了時間がt記録に残りますので、勤務時間不足や逆に働きすぎのコントロールもできます。</p>
+スタッフがいつ、どんな作業をしているのか確認することができます。作業タイプ（タスク種、プロジェクト名）を入力させることで作業時間を集計し管理会計に利用することも可能です。勤務開始時間、休憩時間、終了時間が記録に残りますので、勤務時間不足や逆に働きすぎのコントロールもできます。</p>
 <p>
 スクリーンショットが取ることがスタッフのさぼりの抑止力になります。場所や時間に囚われず、決めた勤務時間中は集中して生産性高く作業する。Dokodemo-Kerjaは現代の働き方をサポートします。</p>
 							
@@ -154,7 +160,7 @@
 						
 						<div class="row">
 							<div class="col-sm-12">
-								<a href="/jp/product/dokodemo-kerja.php" target="_blank" class="btn btn-contact-us-black custom-btn-contact"> もっと見る </a>
+								<a href="/jp/product/dokodemo-kerja.php" target="_blank" class="btn btn-contact-us-black custom-btn-contact"> Dokodemo-Kerjaの詳細を確認 </a>
 							</div>
 						</div> 
 					</div>
@@ -174,7 +180,7 @@
 						</div>
 						 <div class="row">
 							<div class="col-sm-12">
-								<a href="/jp/product/nippo.php" target="_blank" class="btn btn-contact-us-black custom-btn-contact"> もっと見る </a>
+								<a href="/jp/product/nippo.php" target="_blank" class="btn btn-contact-us-black custom-btn-contact"> Nippoの詳細を確認 </a>
 							</div>
 						</div>
 					</div>
@@ -194,7 +200,7 @@ SUGOI採用は、これらの問題を解消し、採用業務の効率を向上
 						</div>
 						 <div class="row">
 							<div class="col-sm-12">
-								<a href="/jp/product/sugoi-saiyo.php" target="_blank" class="btn btn-contact-us-black custom-btn-contact"> もっと見る </a>
+								<a href="/jp/product/sugoi-saiyo.php" target="_blank" class="btn btn-contact-us-black custom-btn-contact"> Sugoi Saiyo の詳細を確認 </a>
 							</div>
 						</div>
 					</div>
