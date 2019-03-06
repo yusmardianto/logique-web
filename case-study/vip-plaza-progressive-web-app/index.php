@@ -28,14 +28,14 @@
 	</script>
   <title>Studi Kasus - VIP Plaza PWA (Progressive Web App) | LOGIQUE Digital Indonesia</title>
 
-	<link href="../../../css/bootstrap.min.css" rel="stylesheet">	
+	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
-	
+
   <link href="../../../css/style.css" rel="stylesheet">
 	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <!-- case study style -->
   <link href="css/style.css" rel="stylesheet">
-    
+
     </head>
 	<body>
 		<div class="wrapper o-wrapper top-only">
@@ -56,12 +56,12 @@
           </div>
         </div>
       </header>
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -113,7 +113,7 @@
 				</div>
 			</div>
       <!-- NAVIGATION -->
-      
+
       <div class="cs-wrap">
         <section class="cs-top">
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
@@ -162,7 +162,7 @@
               <p class="cs-desc">
               Dalam membuat sistem VIP Plaza PWA (Progressive Web App), teknologi yang digunakan adalah Next.JS yang berbasis React.JS. Framework ini merupakan kerangka JavaScript universal yang mampu beroperasi di browser dan server. Framework ini berasal dari sebuah start-up bernama zeit, dan menjadikan Next.js sebagai kerangka kerja pilihan universal dan terpopuler di tahun 2018. Framework ini menawarkan cara pengembangan yang mudah saat Anda menggunakan React.js sebagai template-nya.
               <br><br>
-              Framework Next.JS ini dipilih dalam pengembangan sistem ini, karena memiliki keunggulan seperti, seluruh komponen Anda di dalam folder “pages” mendapatkan server-rendered secara otomatis, SEO Friendly, serta berbagai keuntungan lainnya yang mendukung pengembangan sistem PWA yang akan dilakukan. 
+              Framework Next.JS ini dipilih dalam pengembangan sistem ini, karena memiliki keunggulan seperti, seluruh komponen Anda di dalam folder “pages” mendapatkan server-rendered secara otomatis, SEO Friendly, serta berbagai keuntungan lainnya yang mendukung pengembangan sistem PWA yang akan dilakukan.
               </p>
             </div>
           </div>
@@ -179,6 +179,33 @@
             </div>
           </div>
           <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
+        </section>
+        <section class="cs-section cs-others">
+          <div>
+            <h2 class="cs-subtitle text-center">Studi Kasus Lainnya</h2>
+            <div class="row text-center">
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/jba-auction-system/">
+                  <img class="img-responsive center-block" src="img/jba-auction-system.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/caroline-bidding-system/">
+                  <img class="img-responsive center-block" src="img/caroline-bidding-system.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/opuspark/">
+                  <img class="img-responsive center-block" src="img/opus-park.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/zuttoride-customer-management-system/">
+                  <img class="img-responsive center-block" src="img/zuttoride.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+            </div>
+          </div>
         </section>
         <section class="cs-bottom">
           <h2 class="cs-subtitle">Tentang <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
