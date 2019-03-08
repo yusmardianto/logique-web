@@ -28,14 +28,14 @@
 	</script>
   <title>Case Study - Opus Park | LOGIQUE Digital Indonesia</title>
 
-	<link href="../../../css/bootstrap.min.css" rel="stylesheet">	
+	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
-	
+
   <link href="../../../css/style.css" rel="stylesheet">
 	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <!-- case study style -->
   <link href="css/style.css" rel="stylesheet">
-    
+
     </head>
 	<body>
 		<div class="wrapper o-wrapper top-only">
@@ -56,12 +56,12 @@
           </div>
         </div>
       </header>
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -113,7 +113,7 @@
 				</div>
 			</div>
       <!-- NAVIGATION -->
-      
+
       <div class="cs-wrap">
         <section class="cs-top">
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
@@ -244,6 +244,33 @@
             </div>
           </div>
           <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
+        </section>
+        <section class="cs-section cs-others">
+          <div>
+            <h2 class="cs-subtitle text-center">Other Case Studies</h2>
+            <div class="row text-center">
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/en/case-study/jba-auction-system/">
+                  <img class="img-responsive center-block" src="img/jba-auction-system.png" alt="Other Case Studies">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/en/case-study/caroline-bidding-system/">
+                  <img class="img-responsive center-block" src="img/caroline-bidding-system.png" alt="Other Case Studies">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/en/case-study/vip-plaza-progressive-web-app/">
+                  <img class="img-responsive center-block" src="img/vip-plaza.png" alt="Other Case Studies">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/en/case-study/zuttoride-customer-management-system/">
+                  <img class="img-responsive center-block" src="img/zuttoride.png" alt="Other Case Studies">
+                </a>
+              </div>
+            </div>
+          </div>
         </section>
         <section class="cs-bottom">
           <h2 class="cs-subtitle">About <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>

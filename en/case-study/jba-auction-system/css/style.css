@@ -58,7 +58,7 @@ body, h1, h2, p {
 }
 
 .cs-subtitle {
-  font-size: 48px;
+  font-size: 32px;
   font-weight: 500;
 }
 
@@ -79,11 +79,8 @@ body, h1, h2, p {
   margin-bottom: 30px;
 }
 
-.cs-section:nth-child(4) {
+.cs-section:nth-child(4), .cs-section:nth-child(5), .cs-section:nth-child(6) {
   margin-bottom: 50px;
-}
-.cs-section:nth-child(5) {
-  padding-bottom: 0;
 }
 
 .cs-line {
@@ -145,6 +142,83 @@ body, h1, h2, p {
   left: 70px;
 }
 
+.cs-others {
+  background: url('../img/bg-yellow-other-case-study.jpg');
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+@media (min-width: 992px) {
+  .cs-others {
+    background-position: right;
+  }
+}
+
+.cs-others h2 {
+  color: black;
+}
+
+.cs-others:before {
+  content: '';
+  background-color: black;
+  height: 7px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+}
+
+.cs-others > div {
+  position: relative;
+}
+
+@media (min-width: 768px) {
+  .cs-others > div:before {
+    content: url('../img/three-arrows.png');
+    position: absolute;
+    top: 15%;
+    left: -25px;
+  }
+
+  .cs-others > div:after {
+    content: url('../img/three-arrows.png');
+    position: absolute;
+    top: 5%;
+    right: -30px;
+    transform: rotate(-45deg);
+  }
+}
+
+@media (min-width: 992px) {
+  .cs-others > div:before {
+    top: 20%;
+  }
+
+  .cs-others > div:after {
+    top: 0;
+  }
+}
+
+.cs-others .row {
+  padding: 25px;
+  margin-bottom: -25px;
+}
+
+@media (min-width: 768px) {
+  .cs-others .row {
+    background: url('../img/bg-grey-pattern-other-case-study.jpg');
+    background-position: bottom;
+    background-size: cover;
+  }
+}
+
+.cs-others .row a {
+  display: inline-block;
+  margin: 5px 0;
+}
+
 .btn {
   font-family: 'Avenir Next Condensed', serif;
 }
@@ -167,7 +241,7 @@ body, h1, h2, p {
   width: 260px;
   padding: 15px;
   margin: 30px 40px;
-  border-radius: 30px; 
+  border-radius: 30px;
 }
 
 header {
