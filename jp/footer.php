@@ -29,7 +29,7 @@ ga('send', 'pageview');
 						
 					</div>
 					<div class="col-sm-5 link-footer-nav">
-						<div class="footer-title">LOGIQUEのサービス</div>
+						<!-- <div class="footer-title">LOGIQUEのサービス</div> -->
 						<ul>
 							<li><a href="/jp/services/mekanisme-pembuatan-website/" target="_blank">Web制作サービス</a>
 								<ul>
@@ -40,7 +40,7 @@ ga('send', 'pageview');
 							<li><a href="/jp/services/pembuatan-aplikasi-mobile/"> モバイルApp開発</a></li>
 							<li><a href="/jp/services/penetration-testing/"> Webセキュリティ診断サービス</a></li>
 						</ul>
-						<div class="footer-title" style="padding-top: 20px;"><a href="/jp/product.php">プロダクト</a></div>
+						<!-- <div class="footer-title" style="padding-top: 20px;"><a href="/jp/product.php">プロダクト</a></div> -->
 						<ul>
 							<li><a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja（リモートワーク管理ツール）</a></li>
 							<li><a href="/jp/product/sugoi-saiyo.php"  target="_blank">Sugoi Saiyo（採用管理ツール）</a></li>
