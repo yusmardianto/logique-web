@@ -65,6 +65,13 @@ ga('send', 'pageview');
 					<div class="col-sm-5 link-footer"  >
 					
  						<p>LOGIQUEは、ジャカルタでWebコンサルティング、WEBサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。</p>
+ 					<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
+					<ul class=" medsos-new" sty>
+						<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
+						<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+					</ul>
 					</div>
 				</div>
 				<br/>
@@ -80,15 +87,12 @@ ga('send', 'pageview');
 				<br>
 				<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 				<br><br>
+				<div class="provacy-policy-container">
+					<a href="../en/privacy-policy.php">Privacy Policy</a>
+				</div>
 				</div>
 			</div>
-				<div class="footer-title">Social Media</div>
-					<ul class=" medsos-new">
-						<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
-						<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-						<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-						<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-					</ul>
+			
  
 				
 
