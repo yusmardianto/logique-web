@@ -202,8 +202,8 @@
 								<div class="clearfix"></div>
 							</div>
 							<center>
-								<a href="#" class="btn btn-more-portfolio custom-btn-contact">
-								Webサイト・ホームページ制作実績をもっとみる</a>
+								<a href="portfolio-web-development.php" class="btn btn-more-portfolio custom-btn-contact">
+								Web・ホームページ制作実績をもっとみる</a>
 							</center>
 						
 					 	</div>

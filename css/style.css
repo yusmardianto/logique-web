@@ -650,7 +650,7 @@ border-radius: 0;
     font-size: 20px;
 }
 .portfolio-webdev .row>div.col-sm-4, .system-development-client-container  .row>div.col-sm-4, .mobileapp-client-container .row>div.col-sm-4{
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 .system-development-client-container  .row>div.col-sm-4 h3{
     font-size: 16px;
@@ -3018,6 +3018,26 @@ blockquote::before {
     }
     .product-page .form-container img{
         width: 100%;
+    }
+    .system-development-client-container .img-thumbnail{
+        max-width: none;
+        width: 100%;
+        padding: 0;
+    }
+    .portfolio-webdev .row>div.col-sm-4, .system-development-client-container  .row>div.col-sm-4, .mobileapp-client-container .row>div.col-sm-4{
+    margin-bottom: 20px;
+    }
+    .our-portfolio .m-app-item img{
+        width: 100%;
+    }
+    .page-part-container .addition-desc{
+        text-align: center;
+    }
+     .portfolio-webdev .addition-desc {
+        padding-top: 5px;
+     }
+    .portfolio-webdev .addition-desc .grey-clr{
+        padding: 0
     }
 }
 
