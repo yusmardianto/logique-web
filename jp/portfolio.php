@@ -117,7 +117,7 @@
 					</div>
 				</div>
 			</div>			
-			<br/>
+			 
 			<style>
 				.addition-desc{font-size:12px}
 				.grey-clr{color:grey}
@@ -126,138 +126,143 @@
 			</style>
 			<div id="contentsArea">
 				<div id="contents">
+
 					<div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
 					<div class="form-container our-portfolio">
-						<!--<div style="text-align: center;font-size: 60px;padding: 150px 0;font-weight: bold;font-style: italic;">Coming Soon</div>-->
+						<div class="page-description page-part-container">
+						 
 						LOGIQUEはインドネシアの日系企業、外資企業、大手インドネシア企業との仕事を主に多くの実績を作ってきました。日本からのオフショア制作開発のお仕事も条件によってはお請けすることが可能ですのでお気軽にご相談ください。以下に、幾つかの公開可能なWEB制作、モバイルアプリ開発、WEBシステム開発、デジタルマーケティング・コンサルティングの実績を掲載します。政府系団体や大手金融機関と多く長い期間に渡りお仕事させていただいていることが当社の仕事のクオリティを裏付けるものと考えています。
-						<div class="text-center">
-							<a href="contact.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
-								制作開発実績のお問い合わせ
-							</a>
+							<div class="text-center">
+								<a href="contact.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
+									制作開発実績のお問い合わせ
+								</a>
+							</div> 
 						</div>
-						<br/><br/>
-						<div class="characteristic-title" style="font-size:22px">Webサイト（ホームページ）制作実績</div><br/><br/>
-						<div class="row text-center">
-							<div class="col-sm-4">
-								<a href="https://www.jtrustbank.co.id/" target="_blank">
-									<img src="/img/portfolio/jtrust-bank-new.png" class="img-responsive center-block">
-									JTrust Bank (Re-design)
-								</a>
-								<div class="addition-desc text-left">
-									<br>WEBリニューアル制作 (デザイン| コーディング |CMSフィッティング)<br>
-									<br><div class="grey-clr">モバイル最適化, 多言語, CMS, 銀行</div><br><br><br>
+						<div class="portfolio-webdev page-part-container">
+							<div class="characteristic-title">Webサイト（ホームページ）制作実績</div> 
+							<div class="row text-center">
+								<div class="col-sm-4">
+									<a href="https://www.jtrustbank.co.id/" target="_blank">
+										<img src="/img/portfolio/jtrust-bank-new.png" class="img-responsive center-block">
+										JTrust Bank (Re-design)
+									</a>
+									<div class="addition-desc text-left"> 
+										WEBリニューアル制作 (デザイン| コーディング |CMSフィッティング) 
+										<div class="grey-clr">モバイル最適化, 多言語, CMS, 銀行</div> 
+									</div>
 								</div>
+								<div class="col-sm-4">
+									<a href="https://www.bekalhidup.com" target="_blank">
+										<img src="/img/portfolio/panin.png" class="img-responsive center-block">
+										Panin Life Dai-ichi
+									</a>
+									<div class="addition-desc text-left">
+										 保険EC開発制作 (デザイン | プログラミング | CMS | 決済連携） <div class="grey-clr">CMS, 保険Eコマース, 金融, 保険</div> 
+									</div>
+								</div>
+								<div class="col-sm-4">
+									<a href="https://www.60jpid.com/" target="_blank">
+										<img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
+										60<sup>th</sup> Anniversary Japan-Indonesia
+									</a>
+									<div class="addition-desc text-left">
+										 WEB制作＆運用 (デザイン | コーディング | コンテンツ制作 | 運用) <div class="grey-clr">CMS, multi-bahasa, Mobile, Keamanan WEB, Publik</div> 
+									</div>
+								</div>
+							 	<div class="clearfix"></div>
+								<div class="col-sm-4">
+									<a href="https://www.otomart.id/" target="_blank">
+										<img src="/img/portfolio/otomart.png" class="img-responsive center-block">
+										OTOmart (used-car market place)
+									</a>
+									<div class="addition-desc text-left">
+										 WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用 | AWS運用) 
+										 <div class="grey-clr">CMS,マーケットプレイス,会員WEB,Mobile, WEBサービス,車</div>  
+									</div>
+							 	</div>
+							 	<div class="col-sm-4">
+									<a href="https://jba.co.id/" target="_blank">
+										<img src="/img/portfolio/jba-indonesia.png" class="img-responsive center-block">
+										JBA INDONESIA
+									</a>
+									<div class="addition-desc text-left">
+										 WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用) 
+										 <div class="grey-clr">オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</div>  
+									</div>
+								</div>
+								<div class="col-sm-4">
+									<a href="http://www.jnto.or.id/" target="_blank">
+										<img src="/img/portfolio/jnto.png" class="img-responsive center-block">
+										JNTO Indonesia
+									</a>
+									<div class="addition-desc text-left">
+										 WEBリニューアル＆運用 (デザイン| コーディング| 運用) <div class="grey-clr">モバイル最適化,セキュアなWEB,公共,旅行</div> 
+									</div>
+								</div>
+								<div class="clearfix"></div>
 							</div>
-							<div class="col-sm-4">
-								<a href="https://www.bekalhidup.com" target="_blank">
-									<img src="/img/portfolio/panin.png" class="img-responsive center-block">
-									Panin Life Dai-ichi
-								</a>
-								<div class="addition-desc text-left">
-									<br>保険EC開発制作 (デザイン | プログラミング | CMS | 決済連携）<br>
-									<br><div class="grey-clr">CMS, 保険Eコマース, 金融, 保険</div><br><br><br>
-								</div>
-							</div>
-							<div class="col-sm-4">
-								<a href="https://www.60jpid.com/" target="_blank">
-									<img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
-									60<sup>th</sup> Anniversary Japan-Indonesia
-								</a>
-								<div class="addition-desc text-left">
-									<br>WEB制作＆運用 (デザイン | コーディング | コンテンツ制作 | 運用)<br>
-									<br><div class="grey-clr">CMS, multi-bahasa, Mobile, Keamanan WEB, Publik</div><br><br><br>
-								</div>
-							</div>
-						 	<div class="clearfix"></div>
-							<div class="col-sm-4">
-								<a href="https://www.otomart.id/" target="_blank">
-									<img src="/img/portfolio/otomart.png" class="img-responsive center-block">
-									OTOmart (used-car market place)
-								</a>
-								<div class="addition-desc text-left">
-									<br>WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用 | AWS運用)<br>
-									<br><div class="grey-clr">CMS,マーケットプレイス,会員WEB,Mobile, WEBサービス,車</div><br> 
-								</div>
-						 	</div>
-						 	<div class="col-sm-4">
-								<a href="https://jba.co.id/" target="_blank">
-									<img src="/img/portfolio/jba-indonesia.png" class="img-responsive center-block">
-									JBA INDONESIA
-								</a>
-								<div class="addition-desc text-left">
-									<br>WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)<br>
-									<br><div class="grey-clr">オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</div><br> 
-								</div>
-							</div>
-							<div class="col-sm-4">
-								<a href="http://www.jnto.or.id/" target="_blank">
-									<img src="/img/portfolio/jnto.png" class="img-responsive center-block">
-									JNTO Indonesia
-								</a>
-								<div class="addition-desc text-left">
-									<br>WEBリニューアル＆運用 (デザイン| コーディング| 運用)<br>
-									<br><div class="grey-clr">モバイル最適化,セキュアなWEB,公共,旅行</div><br> 
-								</div>
-							</div>
-							<div class="clearfix"></div>
-						</div>
-						<center>
-							<a href="#" class="btn btn-more-portfolio custom-btn-contact">
-							Webサイト・ホームページ制作実績をもっとみる</a>
-						</center>
+							<center>
+								<a href="#" class="btn btn-more-portfolio custom-btn-contact">
+								Webサイト・ホームページ制作実績をもっとみる</a>
+							</center>
 						
-					 
-						<br/> 
-						<span class="characteristic-title">システム開発実績</span>
-						<br/><br/>
-						<div class="system-development-client-container">
-						<div class="row">
-							<div class="col-sm-4">
-								<a href="#" target="_blank" class="text-center" style="display: block;">
-									<div class="img-thumbnail">
-										<img src="/img/logo-jba.jpg" class="img-responsive center-block"  >
+					 	</div>
+				 		
+
+
+						
+						 
+						<div class="system-development-client-container  page-part-container">
+							<span class="characteristic-title">システム開発実績</span>
+							<div class="row">
+								<div class="col-sm-4">
+									<a href="#" target="_blank" class="text-center" style="display: block;">
+										<div class="img-thumbnail">
+											<img src="/img/logo-jba.jpg" class="img-responsive center-block"  >
+										</div>
+										<h3>JBA </h3>
+									</a>
+									<div class="addition-desc text-left">
+										<div class=" ">モバイルアプリ開発 (検品＆品質スコアリングシステム).</div>
+										<small class="text-muted">4months, Android, node.js, JAVA, AWS  </small>
 									</div>
-									<h3>JBA </h3>
-								</a>
-								<div class="addition-desc text-left">
-									<div class=" ">モバイルアプリ開発 (検品＆品質スコアリングシステム).</div>
-									<small class="text-muted">4months, Android, node.js, JAVA, AWS  </small>
+								</div>
+								<div class="col-sm-4">
+									<a href="#" target="_blank" class="text-center" style="display: block;">
+										<div class="img-thumbnail">
+											<img src="/img/logo-sinarmasland.jpg" class="img-responsive center-block"  >
+										</div>
+										<h3>PT. Sinarmas Land</h3>
+									</a>
+									<div class="addition-desc text-left">
+										<div class=" ">金融機関向け採用管理システムの構築.</div>
+										<small class="text-muted">3months, PHP Framework, HTML5/CSS3,MySQL </small>
+									</div>
+								</div>
+								<div class="col-sm-4">
+									<a href="#" target="_blank" class="text-center" style="display: block;">
+										<div class="img-thumbnail">
+											<img src="/img/logo-zuttoride.jpg" class="img-responsive center-block"  >
+										</div>
+										<h3>Zuttoride Indonesia</h3>
+									</a>
+									<div class="addition-desc text-left">
+										<div class=" ">ロードサービス事業者向けWEB-CRMシステム開発.</div>
+										<small class="text-muted">3months, PHP Framework, Payment Gateway, AWS </small>
+									</div>
 								</div>
 							</div>
-							<div class="col-sm-4">
-								<a href="#" target="_blank" class="text-center" style="display: block;">
-									<div class="img-thumbnail">
-										<img src="/img/logo-sinarmasland.jpg" class="img-responsive center-block"  >
-									</div>
-									<h3>PT. Sinarmas Land</h3>
-								</a>
-								<div class="addition-desc text-left">
-									<div class=" ">金融機関向け採用管理システムの構築.</div>
-									<small class="text-muted">3months, PHP Framework, HTML5/CSS3,MySQL </small>
-								</div>
-							</div>
-							<div class="col-sm-4">
-								<a href="#" target="_blank" class="text-center" style="display: block;">
-									<div class="img-thumbnail">
-										<img src="/img/logo-zuttoride.jpg" class="img-responsive center-block"  >
-									</div>
-									<h3>Zuttoride Indonesia</h3>
-								</a>
-								<div class="addition-desc text-left">
-									<div class=" ">ロードサービス事業者向けWEB-CRMシステム開発.</div>
-									<small class="text-muted">3months, PHP Framework, Payment Gateway, AWS </small>
-								</div>
-							</div>
+							<center>
+								<a href="#" class="btn btn-more-portfolio custom-btn-contact">
+								Web・ITシステム開発実績をもっとみる</a>
+							</center>
 						</div>
-						<center>
-							<a href="#" class="btn btn-more-portfolio custom-btn-contact">
-							Web・ITシステム開発実績をもっとみる</a>
-						</center>
-						</div>
- 						<div class="characteristic-title">Case Study</div>
- 						<div class="form-container">
-						<div class="title-workflow" style="margin-bottom:0; padding-top: 30px;"></div>
-						<div class="casestudy-container">
+
+ 						
+ 						 
+						 
+						<div class="casestudy-container  page-part-container">
+							<div class="characteristic-title">Case Study</div>
 							<div class="row">
 								<div class="col-sm-4">
 									<a href="../case-study/opuspark/" class="casestudy-item" target="_blank">opus park</a>
@@ -278,200 +283,204 @@
 								</div>
 
 							</div>
+						 
 						</div>
-					</div>
-						<br/>
-						<span class="characteristic-title">Mobile App Development</span>
-						<br/><br/>
-						<div class="mobileapp-client-container">
-						<div class="row text-center">
-							<div class="col-sm-4">
-								<div class="mobile-app-container">
-									<div class="m-app-item"><img src="/img/portfolio/apps-nlec.jpg" class="img-responsive center-block">
+						 
+						
+						 
+						<div class="mobileapp-client-container  page-part-container">
+							<span class="characteristic-title">Mobile App Development</span>
+							<div class="row text-center">
+								<div class="col-sm-4">
+									<div class="mobile-app-container">
+										<div class="m-app-item"><img src="/img/portfolio/apps-nlec.jpg" class="img-responsive center-block">
+										</div>
 									</div>
+									NLEC Nihongo E-Learning PWA
 								</div>
-								NLEC Nihongo E-Learning PWA<br><br>
-							</div>
-							<div class="col-sm-4">
-								 
-								<div class="mobile-app-container">
-									<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect1.jpg" class="img-responsive center-block"></div>
-									<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect2.jpg" class="img-responsive center-block"></div>
-									<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect3.jpg" class="img-responsive center-block"></div>
-								</div>
-								 
-								JBA Indonesia -  Bike and Car Inspection App<br><br>
-							</div>
-							<div class="col-sm-4">
-								<div class="mobile-app-container">
-									<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding.jpg" class="img-responsive center-block"></div>
-									<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding2.jpg" class="img-responsive center-block"></div>
-									<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding3.jpg" class="img-responsive center-block"></div>
-									<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding4.jpg" class="img-responsive center-block"></div> 
-								</div>`
-								JBA Indonesia オークション入札Androidアプリ<br><br>
-							</div>
-							<div class="clearfix"></div>
-							<div class="col-sm-4">
-								<div class="mobile-app-container">
-									<div class="m-app-item"><img src="/img/portfolio/apps-oto-1.jpg" class="img-responsive center-block"></div>
-									<div class="m-app-item"><img src="/img/portfolio/apps-oto-2.jpg" class="img-responsive center-block"></div>
+								<div class="col-sm-4">
 									 
+									<div class="mobile-app-container">
+										<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect1.jpg" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect2.jpg" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect3.jpg" class="img-responsive center-block"></div>
+									</div>
+									 
+									JBA Indonesia -  Bike and Car Inspection App
 								</div>
-								Otomart -  Dealer Car App<br><br>
+								<div class="col-sm-4">
+									<div class="mobile-app-container">
+										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding.jpg" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding2.jpg" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding3.jpg" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding4.jpg" class="img-responsive center-block"></div> 
+									</div>
+									JBA Indonesia オークション入札Androidアプリ
+								</div>
+								<div class="clearfix"></div>
+								<div class="col-sm-4">
+									<div class="mobile-app-container">
+										<div class="m-app-item"><img src="/img/portfolio/apps-oto-1.jpg" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-oto-2.jpg" class="img-responsive center-block"></div>
+										 
+									</div>
+									Otomart -  Dealer Car App
+								</div>
+								<div class="col-sm-4">
+									<div class="mobile-app-container">
+										<div class="m-app-item"><img src="/img/portfolio/apps-frangipani-1.jpg" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-frangipani-2.jpg" class="img-responsive center-block"></div> 
+									</div>
+									 
+									Frangipani Esthetics (Android) Guest Comment Management App
+								</div>
+								
+								
+								<div class="col-sm-4">
+									<div class="mobile-app-container">
+										<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-1.jpg" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-2.jpg" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-3.jpg" class="img-responsive center-block"></div>
+									</div>
+									VIP Plaza PWA
+								</div>
 							</div>
-							<div class="col-sm-4">
-								<div class="mobile-app-container">
-									<div class="m-app-item"><img src="/img/portfolio/apps-frangipani-1.jpg" class="img-responsive center-block"></div>
-									<div class="m-app-item"><img src="/img/portfolio/apps-frangipani-2.jpg" class="img-responsive center-block"></div> 
+						</div>
+						 
+						<div class="digital-marketing-container  page-part-container">
+							<span class="characteristic-title">Digital Marketing</span>
+							 
+							<div class="row text-center">
+								<div class="col-sm-4">
+									<img src="/img/portfolio/opus-park-facebook.png" class="img-responsive center-block">
+									Opus Park (Facebook)
+								</div>
+								<div class="col-sm-4">
+									<img src="/img/portfolio/mason-de-res.jpg" class="img-responsive center-block">
+									Mason de Res - (Facebook)
+								</div>
+								<div class="col-sm-4">
+									<img src="/img/portfolio/ajapan-sosmed.png" class="img-responsive center-block">
+									Ajapan Dance Instagram Competition - Waku Waku Japan
+								</div>
+								
+								
+							</div> 
+						</div>
+						<div class="other-portfolio-container  page-part-container">
+							<span class="characteristic-title">その他の実績</span>
+						 
+							<div class="slider-other-client-container">
+								<div class="other-client-item">
+									<div class="img-thumb">
+										<img src="../img/portfolio/video-mysunlife.jpg" class="img-responsive center-block">
+									</div>
+									2D ビデオ制作（SunLife)
+								</div>
+								<div class="other-client-item">
+									<div class="img-thumb">
+									<img src="../img/portfolio/video-mysunlife2.jpg" class="img-responsive center-block">
+									</div>
+									2D ビデオ制作（SunLife)
+								</div>
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="../img/portfolio/video-otomart.jpg" class="img-responsive center-block">
+									</div>
+									2D ビデオ制作 (OTOmart)
 								</div>
 								 
-								Frangipani Esthetics (Android) Guest Comment Management App<br><br>
-							</div>
-							
-							
-							<div class="col-sm-4">
-								<div class="mobile-app-container">
-									<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-1.jpg" class="img-responsive center-block"></div>
-									<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-2.jpg" class="img-responsive center-block"></div>
-									<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-3.jpg" class="img-responsive center-block"></div>
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="../img/portfolio/video-otomart2.jpg" class="img-responsive center-block"></div>
+									2D ビデオ制作 (OTOmart)
 								</div>
-								VIP Plaza PWA<br><br>
-							</div>
-						</div>
-						</div>
-						<br/>
-						<span class="characteristic-title">Digital Marketing</span>
-						<br/><br/>
-						<div class="row text-center">
-							<div class="col-sm-4">
-								<img src="/img/portfolio/opus-park-facebook.png" class="img-responsive center-block">
-								Opus Park (Facebook)<br><br>
-							</div>
-							<div class="col-sm-4">
-								<img src="/img/portfolio/mason-de-res.jpg" class="img-responsive center-block">
-								Mason de Res - (Facebook)<br><br>
-							</div>
-							<div class="col-sm-4">
-								<img src="/img/portfolio/ajapan-sosmed.png" class="img-responsive center-block">
-								Ajapan Dance Instagram Competition - Waku Waku Japan<br><br>
-							</div>
-							
-							
-						</div> 
-						<br>
-						<span class="characteristic-title">その他の実績</span>
-						<br/><br/>
-						<div class="slider-other-client-container">
-							<div class="other-client-item">
-								<div class="img-thumb">
-									<img src="../img/portfolio/video-mysunlife.jpg" class="img-responsive center-block">
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="../img/portfolio/mufg-mockup.png" class="img-responsive center-block"></div>
+									会社案内制作
 								</div>
-								2D ビデオ制作（SunLife)<br><br>
-							</div>
-							<div class="other-client-item">
-								<div class="img-thumb">
-								<img src="../img/portfolio/video-mysunlife2.jpg" class="img-responsive center-block">
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="../img/portfolio/onitsuka-mockup.jpg" class="img-responsive center-block"></div>
+									会社案内制作
 								</div>
-								2D ビデオ制作（SunLife)<br><br>
-							</div>
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="../img/portfolio/video-otomart.jpg" class="img-responsive center-block">
+								 
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="../img/portfolio/maison-news.png" class="img-responsive center-block"></div>
+									コンテンツ制作
 								</div>
-								2D ビデオ制作 (OTOmart)<br><br>
+								<div class="other-client-item" style="font-size:12px;">
+									<div class="img-thumb"><img src="../img/portfolio/insta-vid.png" class="img-responsive center-block insta-vid"></div>
+									インスタグラムビデオ投稿コンテスト
+								</div>
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="../img/portfolio/frangipani-photoshot.png" class="img-responsive center-block insta-vid"></div>
+									Frangipani スパ 写真撮影
+								</div>
+								 
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="/img/portfolio/drone1.png" class="img-responsive center-block"></div> 
+									ドローン撮影
+								</div>
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="/img/portfolio/drone2.png" class="img-responsive center-block"></div>
+									ドローン撮影
+								</div>
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="/img/portfolio/sunlife-flyer.jpg" class="img-responsive center-block"></div>
+									リーフレット制作＆印刷
+								</div>
+								 
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="/img/portfolio/sunlife-banner.jpg" class="img-responsive center-block"></div>
+									バナー制作
+								</div>
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="/img/portfolio/sunlife-polo-shirt.jpg" class="img-responsive center-block"></div>
+									ユニフォーム制作
+								</div>
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="/img/portfolio/Eria.jpg" class="img-responsive center-block"></div>
+									チラシ制作＆印刷
+								</div>
+						 
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="/img/portfolio/bumbu-warasa-1.jpg" class="img-responsive center-block"></div>
+									プロダクトデザイン
+								</div>
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="/img/portfolio/minum-warasa-1.jpg" class="same-height img-responsive center-block"></div>
+									プロダクトデザイン
+								</div>
+								<div class="other-client-item">
+									<!--<img src="/img/portfolio/video-jfe.jpg" class="img-responsive center-block">
+									JFE Shoji Video-->
+									<video class="vd-log same-height" poster="/img/portfolio/video-jfe.jpg" controls>
+									   <source src="/img/portfolio/JFE-video.webm" type="video/webm" />
+									   <source src="/img/portfolio/JFE-video.mp4" type="video/mp4" />
+									</video>	
+									コーポレート動画撮影＆制作
+								</div>
+								 
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="/img/portfolio/caroline-1.jpg" class="img-responsive center-block" style="height: 224px"> </div>
+									フライヤー制作＆印刷
+								</div>
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="/img/portfolio/sunlife-book.jpg" class="img-responsive center-block" style="height: 224px"> </div>
+									販促＆配布品制作
+								</div>
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="/img/portfolio/sunlife-book2.jpg" class="img-responsive center-block" style="height: 224px"> </div>
+									販促＆配布品制作
+								</div>
+								 
+								<div class="other-client-item">
+									<div class="img-thumb"><img src="/img/portfolio/60jpid_catalog.png" class="img-responsive center-block" style="height: 224px"> </div>
+									カタログ制作＆印刷
+								</div>
 							</div>
-							 
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="../img/portfolio/video-otomart2.jpg" class="img-responsive center-block"></div>
-								2D ビデオ制作 (OTOmart)<br><br>
+							<div class=" text-center">
+								<a href="contact.php" class="btn btn-contact-us-black">
+									<span style="font-size: 18px;">制作開発実績の詳細やLOGIQUEへのお問い合わせはこちらから</span></a>
 							</div>
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="../img/portfolio/mufg-mockup.png" class="img-responsive center-block"></div>
-								会社案内制作<br><br>
-							</div>
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="../img/portfolio/onitsuka-mockup.jpg" class="img-responsive center-block"></div>
-								会社案内制作<br><br>
-							</div>
-							 
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="../img/portfolio/maison-news.png" class="img-responsive center-block"></div>
-								コンテンツ制作<br><br>
-							</div>
-							<div class="other-client-item" style="font-size:12px;">
-								<div class="img-thumb"><img src="../img/portfolio/insta-vid.png" class="img-responsive center-block insta-vid"></div>
-								インスタグラムビデオ投稿コンテスト<br><br>
-							</div>
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="../img/portfolio/frangipani-photoshot.png" class="img-responsive center-block insta-vid"></div>
-								Frangipani スパ 写真撮影<br><br>
-							</div>
-							 
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="/img/portfolio/drone1.png" class="img-responsive center-block"></div> 
-								ドローン撮影<br><br>
-							</div>
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="/img/portfolio/drone2.png" class="img-responsive center-block"></div>
-								ドローン撮影<br><br>
-							</div>
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="/img/portfolio/sunlife-flyer.jpg" class="img-responsive center-block"></div>
-								リーフレット制作＆印刷<br><br>
-							</div>
-							 
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="/img/portfolio/sunlife-banner.jpg" class="img-responsive center-block"></div>
-								バナー制作<br><br>
-							</div>
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="/img/portfolio/sunlife-polo-shirt.jpg" class="img-responsive center-block"></div>
-								ユニフォーム制作<br><br>
-							</div>
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="/img/portfolio/Eria.jpg" class="img-responsive center-block"></div>
-								チラシ制作＆印刷<br><br>
-							</div>
-					 
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="/img/portfolio/bumbu-warasa-1.jpg" class="img-responsive center-block"></div>
-								プロダクトデザイン<br><br>
-							</div>
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="/img/portfolio/minum-warasa-1.jpg" class="same-height img-responsive center-block"></div>
-								プロダクトデザイン<br><br>
-							</div>
-							<div class="other-client-item">
-								<!--<img src="/img/portfolio/video-jfe.jpg" class="img-responsive center-block">
-								JFE Shoji Video<br><br>-->
-								<video class="vd-log same-height" poster="/img/portfolio/video-jfe.jpg" controls>
-								   <source src="/img/portfolio/JFE-video.webm" type="video/webm" />
-								   <source src="/img/portfolio/JFE-video.mp4" type="video/mp4" />
-								</video>	
-								コーポレート動画撮影＆制作<br><br>
-							</div>
-							 
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="/img/portfolio/caroline-1.jpg" class="img-responsive center-block" style="height: 224px"> </div>
-								フライヤー制作＆印刷<br><br>
-							</div>
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="/img/portfolio/sunlife-book.jpg" class="img-responsive center-block" style="height: 224px"> </div>
-								販促＆配布品制作<br><br>
-							</div>
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="/img/portfolio/sunlife-book2.jpg" class="img-responsive center-block" style="height: 224px"> </div>
-								販促＆配布品制作<br><br>
-							</div>
-							 
-							<div class="other-client-item">
-								<div class="img-thumb"><img src="/img/portfolio/60jpid_catalog.png" class="img-responsive center-block" style="height: 224px"> </div>
-								カタログ制作＆印刷<br><br>
-							</div>
-						</div>
-						<div class=" text-center">
-							<a href="contact.php" class="btn btn-contact-us-black">
-								<span style="font-size: 18px;">制作開発実績の詳細やLOGIQUEへのお問い合わせはこちらから</span></a>
 						</div>
 					</div>
 				</div>
@@ -494,7 +503,7 @@
 				      breakpoint: 1024,
 				      settings: {
 				        slidesToShow:3,
-				        slidesToScroll: 3,
+				        slidesToScroll: 1,
 				        infinite: true,
 				        dots: true
 				      }
@@ -503,14 +512,16 @@
 				      breakpoint: 600,
 				      settings: {
 				        slidesToShow: 2,
-				        slidesToScroll: 2
+				        slidesToScroll: 1,
+				         adaptiveHeight: true
 				      }
 				    },
 				    {
 				      breakpoint: 480,
 				      settings: {
 				        slidesToShow: 1,
-				        slidesToScroll: 1
+				        slidesToScroll: 1,
+				         adaptiveHeight: true
 				      }
 				    }
 				    // You can unslick at a given breakpoint now by adding:

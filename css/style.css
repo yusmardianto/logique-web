@@ -599,9 +599,7 @@ section.maintop {
 .banner-container{
     margin-top: 15px;
 }
-.casestudy-container{
-    padding-top:30px;
-}
+ 
 .casestudy-item {
     display: block;
     padding: 10px 0;
@@ -627,7 +625,7 @@ section.maintop {
 }
 .custom-btn-contact{
     font-size: 16px; 
-    padding: 10px 20px;
+    padding: 10px 20px; 
 }
 .custom-btn-contact:hover{
     background: #ffca13;
@@ -643,9 +641,34 @@ section.maintop {
     border:1px solid #ececec;
 border-radius: 0;
 }
-.slider-other-client-container .col-sm-4:focus, .slider-other-client-container .col-sm-4:active{
+.page-part-container{
+    margin-bottom: 20px;
+}
+.page-part-container .characteristic-title{
+    display: block;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.portfolio-webdev .row>div.col-sm-4, .system-development-client-container  .row>div.col-sm-4, .mobileapp-client-container .row>div.col-sm-4{
+    margin-bottom: 15px;
+}
+.system-development-client-container  .row>div.col-sm-4 h3{
+    font-size: 16px;
+    margin-bottom: 0;
+    line-height: 1.5;
+}
+.portfolio-webdev  .addition-desc  .grey-clr{
+    padding: 10px 0 0; 
+}
+.page-part-container .custom-btn-contact{
+    margin:0;
+}
+.our-portfolio .m-app-item img{
+    margin:0;
+}
 
-
+.system-development-client-container .addition-desc small{
+    padding-top: 10px;
 }
 footer {
     z-index:5;
@@ -2685,7 +2708,7 @@ blockquote::before {
        display: inline-block;
        font-size: 0;
        padding: 0 5px;
-       vertical-align: top;
+       vertical-align: middle;
 }
 .mobile-app-container .slick-dots li button{
     padding: 0;

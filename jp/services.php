@@ -4,10 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="LOGIQUEがインドネシアで提供しているサービスは、ジャカルタを中心とするインドネシア国内でWEBサイト制作/システム構築、WEBマーケティング、(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
+    <meta name="description" itemprop="description" content="LOGIQUEがインドネシアで作るWeb / ホームページは、集客ができる、お問い合わせが増える、採用応募者が増える、などコンバージョンが増える価値のあるWebです。WEBチャネルを活用して営業を効率的に行いたい、他社と差別化したい、カスタマーサービスを効率化したい、採用を強化したい、
+場合はLOGIQUEにお任せください。LOGIQUEのWeb制作サービス詳細。">
 	<meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, 印刷">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="WEBザイン制作、ウェブシステム開発運用・モバイルアプリ開発 | LOGIQUE デジタルインドネシア">
+    <meta property="og:title" content="Web制作サービス詳細 | ジャカルタのWeb制作会社LOGIQUEデジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/services.php">
