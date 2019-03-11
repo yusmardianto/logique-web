@@ -88,7 +88,7 @@ ga('send', 'pageview');
 				<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 				<br><br>
 				<div class="provacy-policy-container">
-					<a href="../en/privacy-policy.php">Privacy Policy</a>
+					<a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
 				</div>
 				</div>
 			</div>
