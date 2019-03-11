@@ -27,14 +27,14 @@
 	</script>
   <title>Studi Kasus - Caroline, Cars Selling Site with Online Bidding System | LOGIQUE Digital Indonesia</title>
 
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
-	
+
   <link href="/css/style.css" rel="stylesheet">
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <!-- case study style -->
   <link href="css/style.css" rel="stylesheet">
-    
+
     </head>
 	<body>
 		<div class="wrapper o-wrapper top-only">
@@ -55,12 +55,12 @@
           </div>
         </div>
       </header>
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -112,7 +112,7 @@
 				</div>
 			</div>
       <!-- NAVIGATION -->
-      
+
       <div class="cs-wrap">
         <section class="cs-top">
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
@@ -169,10 +169,37 @@
           </div>
           <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
         </section>
+        <section class="cs-section cs-others">
+          <div>
+            <h2 class="cs-subtitle text-center">Studi Kasus Lainnya</h2>
+            <div class="row text-center">
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/jba-auction-system/">
+                  <img class="img-responsive center-block" src="img/jba-auction-system.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/opuspark/">
+                  <img class="img-responsive center-block" src="img/opus-park.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/vip-plaza-progressive-web-app/">
+                  <img class="img-responsive center-block" src="img/vip-plaza.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/zuttoride-customer-management-system/">
+                  <img class="img-responsive center-block" src="img/zuttoride.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
         <section class="cs-bottom">
           <h2 class="cs-subtitle">Tentang <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
           <p class="cs-desc">
-          LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. 
+          LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll.
           </p>
           <a href="/hubungi-kami.php" class="btn btn-cs-bottom">Kontak LOGIQUE</a>
           <a href="/layanan.php" class="btn btn-cs-bottom">Layanan LOGIQUE</a>
