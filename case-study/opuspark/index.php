@@ -27,14 +27,14 @@
 	</script>
   <title>Studi Kasus - Opus Park | LOGIQUE Digital Indonesia</title>
 
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
-	
+
   <link href="/css/style.css" rel="stylesheet">
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <!-- case study style -->
   <link href="css/style.css" rel="stylesheet">
-    
+
     </head>
 	<body>
 		<div class="wrapper o-wrapper top-only">
@@ -55,12 +55,12 @@
           </div>
         </div>
       </header>
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -112,7 +112,7 @@
 				</div>
 			</div>
       <!-- NAVIGATION -->
-      
+
       <div class="cs-wrap">
         <section class="cs-top">
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
@@ -176,7 +176,7 @@
                     Opus Park menginginkan pengoperasian iklan dan media sosial untuk mendapatkan <i>traffic</i> secara berbayar, dan penerapan SEO pada website untuk <i>traffic</i> organic dari mesin penelusuran. Kedua jenis <i>traffic</i> ini sama-sama berperan besar dalam pencapaian goals yang diinginkan. <br><br>
 					Untuk itu, LOGIQUE menerapkan strategi <i>digital marketing</i> bertahap. Pertama, meningkatkan brand awareness di kalangan peminat hunian berupa apartemen dan <i>penthouse</i>. Kedua, menjadikan sebanyak- banyaknya mereka untuk mau mengetahui lebih lanjut mengenai unit Opus Park dengan mengunjungi website. Terakhir, membuat mereka yang berpotensial mempertimbangkan dan tertarik untuk membeli unit dengan mengisi formulir pengaturan jadwal kunjungan Show Unit yang tersedia di website. <br><br>
 					Strategi tersebut terdiri atas pengoperasian media sosial dan kampanye iklan dengan beragam objektif pada audiens tertarget melalui Facebook Ads yang sudah merangkap Facebook dan Instagram, serta Google Ads yang meliputi Search Ads, Display Ads, dan Youtube Ads. <br><br>
-					Selama kampanye iklan berjalan, LOGIQUE terus-menerus melakukan beragam pendekatan dan optimasi yang terstruktur guna meningkatkan <i>traffic</i> setiap bulannya. Dimulai dari produksi dan desain banner, pembuatan ad copy, evaluasi targeting, A/B testing, penambahan kata kunci (keywords), dan seluruh upaya untuk meningkatkan Quality Score agar biaya iklan tetap rendah. 
+					Selama kampanye iklan berjalan, LOGIQUE terus-menerus melakukan beragam pendekatan dan optimasi yang terstruktur guna meningkatkan <i>traffic</i> setiap bulannya. Dimulai dari produksi dan desain banner, pembuatan ad copy, evaluasi targeting, A/B testing, penambahan kata kunci (keywords), dan seluruh upaya untuk meningkatkan Quality Score agar biaya iklan tetap rendah.
 					Sementara itu, penerapan SEO pada website Opus Park juga dilakukan secara berkala. Dimulai dengan menambahkan kata kunci terkait, meta tags, pengaturan navigasi dan elemen-elemen pada website, penggarapan ulang konten, pembuatan halaman-halaman berbahasa Indonesia, hingga penerapan accelerated mobile pages (AMP) pada website. <br><br>
 					Berikut <i>Key Performance Indicator</i> (KPI) yang diterapkan: <br><br>
 					1. Meraih audiens tertarget sebanyak-banyaknya <br>
@@ -201,7 +201,7 @@
               <p class="text-center" style="font-size: 22px;font-weight: bold;">Hasil</p>
               <h2 class="cs-subtitle text-center">Konversi Tercapai</h2>
               <p class="cs-desc text-center">
-              Penerapan strategi digital marketing telah membantu Opus Park meningkatkan awareness di kalangan audiens yang tertarget. Tidak hanya itu, website Opus Park mengalami peningkatan traffic yang cukup signifikan. Engagement yang didapat pun terbilang memuaskan. Hasil yang baik ini bahkan sudah terlihat pada bulan 1-2 sejak operasi digital marketing dieksekusi dengan biaya yang efisien. 
+              Penerapan strategi digital marketing telah membantu Opus Park meningkatkan awareness di kalangan audiens yang tertarget. Tidak hanya itu, website Opus Park mengalami peningkatan traffic yang cukup signifikan. Engagement yang didapat pun terbilang memuaskan. Hasil yang baik ini bahkan sudah terlihat pada bulan 1-2 sejak operasi digital marketing dieksekusi dengan biaya yang efisien.
               <br><br>
               <a class="btn btn-cs" data-toggle="modal" href='#modal-id-2'>Detail</a>
               <div class="modal fade" id="modal-id-2">
@@ -231,10 +231,37 @@
           </div>
           <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
         </section>
+        <section class="cs-section cs-others">
+          <div>
+            <h2 class="cs-subtitle text-center">Studi Kasus Lainnya</h2>
+            <div class="row text-center">
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/jba-auction-system/">
+                  <img class="img-responsive center-block" src="img/jba-auction-system.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/caroline-bidding-system/">
+                  <img class="img-responsive center-block" src="img/caroline-bidding-system.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/vip-plaza-progressive-web-app/">
+                  <img class="img-responsive center-block" src="img/vip-plaza.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/zuttoride-customer-management-system/">
+                  <img class="img-responsive center-block" src="img/zuttoride.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
         <section class="cs-bottom">
           <h2 class="cs-subtitle">Tentang <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
           <p class="cs-desc">
-          LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. 
+          LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll.
           </p>
           <a href="/hubungi-kami.php" class="btn btn-cs-bottom">Kontak LOGIQUE</a>
           <a href="/layanan.php" class="btn btn-cs-bottom">Layanan LOGIQUE</a>

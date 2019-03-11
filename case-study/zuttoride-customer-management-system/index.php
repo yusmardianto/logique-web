@@ -28,14 +28,14 @@
 	</script>
   <title>Studi Kasus - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia</title>
 
-	<link href="../../../css/bootstrap.min.css" rel="stylesheet">	
+	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
-	
+
   <link href="../../../css/style.css" rel="stylesheet">
 	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <!-- case study style -->
   <link href="css/style.css" rel="stylesheet">
-    
+
     </head>
 	<body>
 		<div class="wrapper o-wrapper top-only">
@@ -56,12 +56,12 @@
           </div>
         </div>
       </header>
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -113,7 +113,7 @@
 				</div>
 			</div>
       <!-- NAVIGATION -->
-      
+
       <div class="cs-wrap">
         <section class="cs-top">
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
@@ -129,7 +129,7 @@
             <div class="col-sm-6 col-md-pull-6">
               <h2 class="cs-subtitle">ZuttoRide Indonesia</h2>
               <p class="cs-desc">
-              ZuttoRide Indonesia merupakan perusahaan konsultasi yang berorientasi pada kebutuhan masyarakat dan pengabdian untuk memakmurkan dunia sepeda motor yang ada di Indonesia. Perusahaan ini didirikan untuk menciptakan pengalaman berkendara yang belum pernah ada di Indonesia. Dengan motto kami adalah “For All Riders” kami bermaksud menyediakan pelayanan bagi para pengendara sepeda motor selama 24 jam yang tersebar di seluruh Indonesia. 
+              ZuttoRide Indonesia merupakan perusahaan konsultasi yang berorientasi pada kebutuhan masyarakat dan pengabdian untuk memakmurkan dunia sepeda motor yang ada di Indonesia. Perusahaan ini didirikan untuk menciptakan pengalaman berkendara yang belum pernah ada di Indonesia. Dengan motto kami adalah “For All Riders” kami bermaksud menyediakan pelayanan bagi para pengendara sepeda motor selama 24 jam yang tersebar di seluruh Indonesia.
               </p>
             </div>
           </div>
@@ -143,7 +143,7 @@
             <div class="col-sm-6">
               <h2 class="cs-subtitle">Latar Belakang Pembuatan Sistem</h2>
               <p class="cs-desc">
-              Sebagai perusahaan yang bergerak dibidang jasa konsultasi serta asuransi sepeda motor, ZuttoRide membutuhkan sebuah sistem yang mampu untuk mengintegrasikan serta melakukan manajemen bagi para pelanggan asuransi motor, terutama bagi dealer-dealer Kawasaki yang merupakan partner resmi ZuttoRide Indonesia. 
+              Sebagai perusahaan yang bergerak dibidang jasa konsultasi serta asuransi sepeda motor, ZuttoRide membutuhkan sebuah sistem yang mampu untuk mengintegrasikan serta melakukan manajemen bagi para pelanggan asuransi motor, terutama bagi dealer-dealer Kawasaki yang merupakan partner resmi ZuttoRide Indonesia.
               <br><br>
               Untuk mewujudkan hal tersebut, ZuttoRide bekerja sama dengan LOGIQUE DIGITAL INDONESIA memutuskan untuk membuat sebuah sistem yang diberi nama CRM ZuttoRide. Pembuatan serta pengembangan sistem CRM ZuttoRide yang dilakukan antara ZuttoRide dan LOGIQUE DIGITAL INDONESIA ini pun telah berlangsung lama, yaitu hampir sekitar 4 tahun dan saat ini telah memasuki Fase ke-14 dalam penyempurnaan sistem mereka.
               <br><br>
@@ -180,6 +180,33 @@
             </div>
           </div>
           <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
+        </section>
+        <section class="cs-section cs-others">
+          <div>
+            <h2 class="cs-subtitle text-center">Studi Kasus Lainnya</h2>
+            <div class="row text-center">
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/jba-auction-system/">
+                  <img class="img-responsive center-block" src="img/jba-auction-system.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/caroline-bidding-system/">
+                  <img class="img-responsive center-block" src="img/caroline-bidding-system.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/opuspark/">
+                  <img class="img-responsive center-block" src="img/opus-park.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/vip-plaza-progressive-web-app/">
+                  <img class="img-responsive center-block" src="img/vip-plaza.png" alt="Studi Kasus Lainnya">
+                </a>
+              </div>
+            </div>
+          </div>
         </section>
         <section class="cs-bottom">
           <h2 class="cs-subtitle">Tentang <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
