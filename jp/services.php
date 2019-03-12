@@ -19,20 +19,55 @@
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
-	
+
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    
+
+    <style>
+
+    .banner-services {
+      width: 100%;
+      max-height: 250px;
+    }
+
+    .banner-services > img {
+      width: 100%;
+      height: 250px;
+      object-fit: cover;
+      object-position: top center;
+    }
+
+    @media (min-width: 800px) {
+      .banner-services {
+        max-height: 300px;
+      }
+
+      .banner-services > img {
+        height: 300px;
+      }
+    }
+
+    @media (min-width: 980px) {
+      .banner-services {
+        max-height: 250px;
+      }
+
+      .banner-services > img {
+        height: 250px;
+      }
+    }
+
+    </style>
     </head>
 	<body  class="jp-page">
 		<div class="wrapper">
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -90,7 +125,7 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
 				<video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
@@ -98,7 +133,7 @@
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
-			
+
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
@@ -117,17 +152,19 @@
 						</div>
 					</div>
 				</div>
-			</div>			
-			
+			</div>
+
 			<br/>
-			
+
 			<div id="contentsArea" class="services">
 				<div id="contents">
 					<div class="title"><b>Our</b><span class="yellow">Services</span></div>
 					<div class="form-container">
 						LOGIQUEはインドネシア国内でウェブサイト(ホームページ)やウェブシステム、モバイルアプリケーションの開発、デジタルマーケティングの実行など、お客様がIT・インターネットを活用するためのご支援をしています。WebやWebシステムの制作・開発、運用からWebマーケティングやSEO対策などまで、Web、インターネットに関するサービスを幅広く提供しております。 プログラマー、デザイナー、コンテンツライターを自社内に抱えており、フレキシブルで安価な価格でのサービス提供が可能です。インドネシアにて長い経験と多くの実績を持っておりますので安心してご依頼ください。
 					</div>
-					<img class="img-responsive" src="../img/layanan-img.jpg" alt="Layanan"/>
+          <div class="banner-services">
+            <img src="../img/layanan-img.jpg" alt="Layanan"/>
+          </div>
 					<div class="feel-free row-center-sm" style="font-size: 18px;">
 						<div class="col-sm-8">
 							インドネシアでのIT・WEB活用等に関する課題についてお気軽にご相談ください
@@ -347,7 +384,7 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Webセキュリティ診断（脆弱性診断・検査）</b><br/>
-										Webサイトやアプリケーションの脆弱性を診断・レポートします。SQLインジェクション、クロスサイトスクリプティング、セッションハイジャックなどの攻撃による被害の発生を未然に防ぐことができます。診断ツール、経験豊富な担当者による診断の両方を併用して診断します。診断項目などによりますが15,000,000 IDRから診断可能です。 
+										Webサイトやアプリケーションの脆弱性を診断・レポートします。SQLインジェクション、クロスサイトスクリプティング、セッションハイジャックなどの攻撃による被害の発生を未然に防ぐことができます。診断ツール、経験豊富な担当者による診断の両方を併用して診断します。診断項目などによりますが15,000,000 IDRから診断可能です。
 										<br><a target="_blank" href="/jp/services/penetration-testing/" class="btn btn-service-link">Webセキュリティ診断について詳しくみる</a>
 									</li>
 								</ol>
@@ -355,9 +392,9 @@
 							</div>
 						  </div>
 						</div>
- 
+
 					</div>
-					
+
 					<!--<div class="no-gap">
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
@@ -426,7 +463,7 @@
 							<div class="text-center services-list tooltip-service">
 								<span class="tooltiptext-service">調査×分析×明確なゴール設定でWebマーケティング成功へのシナリオを策定・コンサルティングします。</span>
 								<div id="other-service"></div>
-								調査・分析<br/>／Webコンサル 
+								調査・分析<br/>／Webコンサル
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
@@ -697,9 +734,9 @@
 							</a>
 						</div>
 					</div>
-				</div>	
-			</div>	
-			
+				</div>
+			</div>
+
 			<?php include 'footer.php';?>
 			<script>
 				$(function () {
@@ -708,11 +745,11 @@
 						if(offset) {
 							$('html,body').animate({
 								scrollTop: $(offset).offset().top-10
-							}, 500); 
+							}, 500);
 						}
-					}); 
+					});
 				});
 			</script>
-		</div>	
+		</div>
 	</body>
 </html>
