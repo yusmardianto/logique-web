@@ -622,6 +622,18 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	-moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.2);
 	box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.2);
 }
+.d-layanan h2 {
+	font-family: 'avenir';
+	font-size: 22px;
+	color: #2b71c0;
+	text-transform: uppercase;
+}
+.d-layanan .l-logo {
+	box-shadow: none !important;
+}
+.d-layanan h2 span {
+	color: #ffca15;
+}
 .d-layanan h3 {
 	font-family: 'avenir';
 	font-size: 15px;
