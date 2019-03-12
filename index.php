@@ -45,23 +45,23 @@
 	</script>
     <title>Jasa Pembuatan Website dan SEO | LOGIQUE Digital Indonesia</title>
 
-	<link href="css/bootstrap.min.css" rel="stylesheet">	
+	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
 	</noscript>
-	
+
     <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    
+
     </head>
 	<body>
 		<div class="wrapper o-wrapper top-only">
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -113,7 +113,7 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
@@ -199,7 +199,7 @@
 														<a href="/produk/sugoi-saiyo.php" target="_blank">
 															<img src="/img/sugoi-index.png" class="center-block img-responsive"/>
 															<div class="div-explanation">
-																Sistem manajemen untuk menyederhanakan aktivitas rekrutmen bagi tim HRD dan para pencari kerja. 
+																Sistem manajemen untuk menyederhanakan aktivitas rekrutmen bagi tim HRD dan para pencari kerja.
 															</div>
 														</a>
 													</div>
@@ -237,9 +237,9 @@
 										</div>
 									</div>
 								</div>
-								
+
 							  </div>
-							  
+
 							  <a class="left carousel-control" href="#myCarousel2" data-slide="prev">
 								<span class="juggling glyphicon glyphicon-chevron-left"></span>
 								<span class="sr-only">Previous</span>
@@ -253,7 +253,7 @@
 					</div>
 				</div>
 			</div>
-			
+
 			<div class="contain-video">
 				<video poster="img/video-img.png" id="bgvid" playsinline autoplay muted loop style="display:block!important">
 					<source src="img/12377093.mp4" type="video/mp4">
@@ -262,7 +262,7 @@
 			<div class="bg-white-opacity"></div>
 			<div id="bgImg" style="height: auto;">
 				<div class="img">
-				
+
 					<div class="title-container hidden-xs">
 						<div id="myCarousel" class="carousel slide carousel-home-new" data-interval="false">
 						  <div class="carousel-inner">
@@ -271,7 +271,8 @@
 									<h1 class="title-index">
 										<span class="yellow">Web Developer</span> Terbaik Untuk Solusi <span class="yellow">Permasalahan Digital</span> Anda
 									</h1>
-									LOGIQUE memiliki pengalaman dan kualitas yang Anda perlukan dalam pengembangan sistem web untuk kebutuhan bisnis digital saat ini. Kami telah bekerjasama dengan banyak klien internasional untuk berbagai kebutuhan seperti E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS serta terbiasa membuat sistem web tersebut dengan standar internasional.  LOGIQUE juga  siap membantu Anda dalam pembuatan website, aplikasi, pemasaran digital, pemasaran konten, pengoperasian media sosial, pembuatan video, percetakan, jasa SEO, dan pengoperasian server atau infrastruktur. Pengalaman yang telah kami jalankan selama lebih dari 5 tahun serta kualitas dan keahlian kami dapat menjadi terobosan baru untuk bisnis Anda.<br/><br/>
+                  LOGIQUE DIGITAL INDONESIA, perusahaan Web Developer yang melayani jasa pembuatan dan pengembangan Website, Aplikasi dan Digital Marketing untuk perkembangan bisnis Anda. Kami telah melayani banyak klien besar baik dari dalam atau pun luar negeri untuk berbagai kebutuhan , mulai dari pembuatan E-Commerce, pembuatan Sistem Lelang Online, pembuatan Sistem Rekrutmen karyawan, dan Digital Marketing. Selain berbagai produk digital, Kami juga menawarkan kepada Anda layanan produk non-digital, seperti pembuatan brosur, katalog, video profil perusahaan dan lain-lain. Dengan tenaga profesional yang kami miliki, kami berkomitmen untuk menghasilkan berbagai produk digital yang berkualitas dan berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di era digital dengan solusi terbaik yang kami berikan.
+                  <br/><br/>
 									<div class="row">
 										<div class="col-lg-offset-1 col-lg-10">
 											<div class="row">
@@ -335,7 +336,7 @@
 														<img src="/img/sugoi-index.png" class="center-block img-responsive"/>
 														<div class="div-explanation">
 															<div class="valign-center">
-																Sistem manajemen untuk menyederhanakan aktivitas rekrutmen bagi tim HRD dan para pencari kerja. 
+																Sistem manajemen untuk menyederhanakan aktivitas rekrutmen bagi tim HRD dan para pencari kerja.
 															</div>
 														</div>
 													</a>
@@ -378,9 +379,9 @@
 									</div>
 								</div>
 							</div>
-							
+
 						  </div>
-						  
+
 						  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
 							<span class="juggling glyphicon glyphicon-chevron-left"></span>
 							<span class="sr-only">Previous</span>
@@ -391,10 +392,10 @@
 						  </a>
 						</div>
 					</div>
-					
+
 				</div>
 			</div>
-			
+
 			<br/>
 			<?php include 'footer.php';?>
 		</div>
