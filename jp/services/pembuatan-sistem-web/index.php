@@ -40,11 +40,11 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Dalam melakukan pembuatan website, pengembangan website, pembuatan aplikasi dan pengembangan aplikasi serta desain web. Logique sebagai perusahaan jasa konsultasi digital membuat beberapa mekanisme yang perlu diketahui. Berikut ini adalah beberapa mekanisme pembuatan website yang ada di Logique">
+    <meta name="description" content="LOGIQUEはジャカルタのWebシステム開発会社です。システム開発、高いから、時間かかるから、難しいから、必要なのに諦めていませんか？インドネシアでのIT/WEBシステム開発、LOGIQUEなら、もっと早く、効率的にできます。お気軽にご相談ください。インドネシアでアジャイル開発しています。システム開発の事例も照会しています。">
 	<meta name="keywords" content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>インドネシアでシステム開発が必要ならLOGIQUEにご相談ください</title>
+    <title>Webシステム開発サービス詳細 | ジャカルタのシステム開発会社LOGIQUEデジタルインドネシア</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style_systemdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
@@ -75,7 +75,7 @@ if(isset($_POST['submitted']))
 				<div class="backdrop-test"></div>
 					<div class="logique-nav in-jp">
 						<div class="margin-for-nav">
-							<div class="text-center active">
+							<div class="text-center ">
 								<a href="/jp/">
 									<div class="img-home"></div>
 									Home
@@ -93,7 +93,7 @@ if(isset($_POST['submitted']))
 									制作実績
 								</a>
 							</div>
-							<div class="text-center">
+							<div class="text-center active">
 								<a href="/jp/services.php">
 									<div class="img-services"></div>
 									サービス
@@ -160,7 +160,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-7 col-md-5">
-						<h1 class="new5">LOGIQUEのシステム開発・WEBアプリ開発</h1>
+						<h2 class="new5">LOGIQUEのシステム開発・WEBアプリ開発</h2>
 					</div>
 				</div>
 			</div>

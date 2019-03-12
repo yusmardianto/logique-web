@@ -39,6 +39,7 @@ ga('send', 'pageview');
 							</li>
 							<li><a href="/jp/services/pembuatan-aplikasi-mobile/"> モバイルApp開発</a></li>
 							<li><a href="/jp/services/penetration-testing/"> Webセキュリティ診断サービス</a></li>
+							<li><a href="/jp/services/pembuatan-sistem-web/" target="_blank">WEBシステム開発</a></li>
 						</ul>
 						<!-- <div class="footer-title" style="padding-top: 20px;"><a href="/jp/product.php">プロダクト</a></div> -->
 						<ul>
@@ -57,7 +58,7 @@ ga('send', 'pageview');
 
 						<h6><a href="/product.php">プロダクト</a></h6>
 						<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
-						<h6><a href="/jp/services/pembuatan-sistem-web/" target="_blank">WEBシステム開発</a></h6> -->
+						<h6></h6> -->
 					 
 						
 							 

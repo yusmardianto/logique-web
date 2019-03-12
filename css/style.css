@@ -663,6 +663,10 @@ border-radius: 0;
 .page-part-container .custom-btn-contact{
     margin:0;
 }
+.btn-more-portfolio:active, .btn-more-portfolio:focus{
+    color: #fff
+
+}
 .our-portfolio .m-app-item img{
     margin:0;
 }
