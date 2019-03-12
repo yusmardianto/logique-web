@@ -22,67 +22,6 @@
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-
-    <style>
-      .p-padding-v-15 {
-        padding: 15px 0;
-      }
-
-      body #contents {
-        font-size: 17px;
-      }
-
-      .list-on-services {
-        font-size: 17px;
-      }
-
-      .banner-services {
-        width: 100%;
-        max-height: 250px;
-      }
-
-      .banner-services > img {
-        width: 100%;
-        height: 250px;
-        object-fit: cover;
-        object-position: top center;
-      }
-
-      @media (min-width: 800px) {
-        .banner-services {
-          max-height: 300px;
-        }
-
-        .banner-services > img {
-          height: 300px;
-        }
-      }
-
-      @media (min-width: 980px) {
-        .banner-services {
-          max-height: 250px;
-        }
-
-        .banner-services > img {
-          height: 250px;
-        }
-      }
-
-      .wrap-link {
-        white-space: pre-wrap;
-        white-space: -moz-pre-wrap;
-        white-space: -pre-wrap;
-        white-space: -o-pre-wrap;
-        word-wrap: break-word;
-      }
-
-      @media (max-width: 768px) {
-        .wrap-link {
-          text-align: left;
-        }
-      }
-
-    </style>
     </head>
 	<body>
 		<div class="wrapper">

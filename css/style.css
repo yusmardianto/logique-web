@@ -18,7 +18,7 @@ a:hover {text-decoration: none}
 em {font-style: italic!important}
 strong {font-weight: 700!important}
 body #contents{
-    font-size: 16px;
+    font-size: 17px;
 }
 body.jp-page  #contents{
     font-size: 14px;
@@ -194,6 +194,28 @@ section.maintop {
     color: #ffca13
 }
 
+.p-padding-v-15 {
+  padding: 15px 0;
+}
+
+.title-30 {
+  font-size: 30px;
+}
+
+.wrap-link {
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
+
+@media (max-width: 768px) {
+  .wrap-link {
+    text-align: left;
+  }
+}
+
 .title-index {
     color: #000;
     font-size: 50px;
@@ -344,6 +366,38 @@ section.maintop {
     color: #727272;
     border-bottom: 1px solid #fff;
     height: 219px
+}
+
+.banner-services {
+  width: 100%;
+  max-height: 250px;
+}
+
+.banner-services > img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: top center;
+}
+
+@media (min-width: 800px) {
+  .banner-services {
+    max-height: 300px;
+  }
+
+  .banner-services > img {
+    height: 300px;
+  }
+}
+
+@media (min-width: 980px) {
+  .banner-services {
+    max-height: 250px;
+  }
+
+  .banner-services > img {
+    height: 250px;
+  }
 }
 
 .col-sm-4:nth-child(3n) .services-list {
@@ -593,20 +647,20 @@ section.maintop {
     font-weight: 700
 }
 .custom-border{
-    border-top: 2px solid #ffca13; 
+    border-top: 2px solid #ffca13;
     margin-bottom: 10px;
 }
 .banner-container{
     margin-top: 15px;
 }
- 
+
 .casestudy-item {
     display: block;
     padding: 10px 0;
     border: 1px solid #333;
     font-size: 18px;
-    text-align: center; 
-    color:#ffca13; 
+    text-align: center;
+    color:#ffca13;
     text-transform: uppercase;
     margin-bottom:15px;
 }
@@ -620,12 +674,12 @@ section.maintop {
     transition: all .5s;
 
     white-space: normal;
-    margin-bottom: 25px; 
-    margin-top: 20px    
+    margin-bottom: 25px;
+    margin-top: 20px
 }
 .custom-btn-contact{
-    font-size: 16px; 
-    padding: 10px 20px; 
+    font-size: 16px;
+    padding: 10px 20px;
 }
 .custom-btn-contact:hover{
     background: #ffca13;
@@ -658,7 +712,7 @@ border-radius: 0;
     line-height: 1.5;
 }
 .portfolio-webdev  .addition-desc  .grey-clr{
-    padding: 10px 0 0; 
+    padding: 10px 0 0;
 }
 .page-part-container .custom-btn-contact{
     margin:0;
@@ -699,7 +753,7 @@ footer h6 {
 }
 .link-footer-nav ul li{
     list-style: none;
-    
+
 }
 .link-footer-nav ul li  ul{
     padding-left: 20px;
@@ -819,7 +873,7 @@ footer a:hover {
     padding: 40px 30px
 }
 .nice-bg-grey {
-    background: #f4f4f4; 
+    background: #f4f4f4;
 }
 .title-bg-grey {
     font-size: 24px;
@@ -2055,7 +2109,7 @@ blockquote::before {
     text-align: left;
     max-width: 600px;
     margin: auto;
-    font-size: 15px
+    font-size: 17px;
 }
 
 .img-home {
@@ -2684,9 +2738,9 @@ blockquote::before {
 .slider-other-client-container .slick-prev {
     left: 10px;
 }
- 
+
 .slider-other-client-container .slick-prev:before, .slider-other-client-container .slick-next:before {
- 
+
     line-height: 1;
     opacity: .9;
     color: white;
@@ -2704,7 +2758,7 @@ blockquote::before {
        content: "\f105";
 }
 .mobile-app-container .slick-dots{
- 
+
     list-style: none
 
 }
@@ -2724,7 +2778,7 @@ blockquote::before {
     border-radius: 20px;
 }
 .m-app-item img{
- 
+
 }
 @media (max-width:1200px) {
     .klien-flow .div-for-workflow {
@@ -3173,7 +3227,7 @@ blockquote::before {
 .carousel-home-new .carousel-control.left{display:none}
 .carousel-home-new .carousel-control .icon-prev,
 .carousel-home-new .carousel-control .glyphicon-chevron-left {left: 15%;}
-.carousel-home-new .carousel-control .icon-next, 
+.carousel-home-new .carousel-control .icon-next,
 .carousel-home-new .carousel-control .glyphicon-chevron-right {right: 15%;}
 .contact-title-copies{font-size:30px;font-weight:bold;text-align:center;background:#fff;padding: 10px 30px;line-height: 1.3;}
 .contact-title-copies span{line-height: 1.3;}

@@ -22,40 +22,6 @@
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-
-    <style>
-
-    .p-padding-v-15 {
-      padding: 15px 0;
-    }
-
-    body #contents {
-      font-size: 17px;
-    }
-
-    .list-on-services {
-      font-size: 17px;
-    }
-
-    .wrap-link {
-      white-space: pre-wrap;
-      white-space: -moz-pre-wrap;
-      white-space: -pre-wrap;
-      white-space: -o-pre-wrap;
-      word-wrap: break-word;
-    }
-
-    @media (max-width: 768px) {
-      .wrap-link {
-        text-align: left;
-      }
-    }
-
-    .en-title {
-      font-size: 30px;
-    }
-
-    </style>
     </head>
 	<body>
 		<div class="wrapper">
@@ -185,7 +151,7 @@
 						<span class="sr-only">Next</span>
 					  </a>
 					</div>
-					<div class="title en-title"><b>About</b><span class="yellow">Us</span></div>
+					<div class="title title-30"><b>About</b><span class="yellow">Us</span></div>
 					<div class="form-container">
             LOGIQUE Digital Indonesia is a leading IT consultant and web developer company owned by a Japanese entrepreneur located in Jakarta, Indonesia. As a company with client-oriented services, we’re very open on IT consultation for clients who believe in the power of digital marketing. We contribute to the world of digital and IT development by providing various web-related services such as web & system development, SEO, mobile app development (Android and iOS), and digital marketing to help realizing and growing business in all fields.
 						<br/>
@@ -202,7 +168,7 @@
 							<li>LOGIQUE is a flexible web development company, depending on the situation we can be a trustworthy system development company to protect your web security. In respond to your expectation, we can adjust our style while providing high value as your partner.</li>
 						</ul>
 					</div>
-          <div class="title en-title" style="font-weight:normal; background: #ffca13; padding-top: 20px;"><span class="yellow" style="color: #fff">LOGIQUE's</span> Mission</div>
+          <div class="title title-30" style="font-weight:normal; background: #ffca13; padding-top: 20px;"><span class="yellow" style="color: #fff">LOGIQUE's</span> Mission</div>
 					<div class="form-container" style="background: #ffca13;  ">
 						<div class="mission-content" style="border:1px solid #ffca13; padding:0px 30px 0px; font-size: 16px;">
 							<ul>
@@ -214,7 +180,7 @@
 					</div>
 
 					<div class="bg-grey profile-comp">
-						<div class="title en-title"><b>Company</b><span class="yellow">Overview</span></div>
+						<div class="title title-30"><b>Company</b><span class="yellow">Overview</span></div>
 						<div class="row">
 							<div class="col-sm-5">
 								<img src="/img/slider1.jpg" class="img-responsive center-block" style="border: 1px solid #ccc;height: 462px;object-fit: cover;object-position: -245px 0;"/><br/>
@@ -245,7 +211,7 @@
 						</div>
 					</div>
 
-					<div class="title en-title"><b>Director’s</b><span class="yellow">Profile&amp;Message</span></div>
+					<div class="title title-30"><b>Director’s</b><span class="yellow">Profile&amp;Message</span></div>
 					<div class="form-container">
 						<img src="/img/yoshi.jpg" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
 						Born in Tokyo, Japan, in 1976. In 1999, he graduated from Department of Management Science, Waseda University in Tokyo. He has a plenty of experiences starting at Japan Research Institute, Inc., CRM consulting firm, etc. Until 2005, he had founded his own e-commerce business, import trading company, and consulting firm in Japan. He founded and has been operating this company in Indonesia since 2012.
