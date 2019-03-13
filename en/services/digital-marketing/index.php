@@ -9,7 +9,7 @@
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Digital Marketing | LOGIQUE Digital Indonesia</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -68,7 +68,7 @@
 						</div>
 					</div>
 					<div class="col-md-5">
-						<img src="img/img-top.png" class="img-fluid center-block"/>						
+						<img src="img/img-top.png" class="img-fluid center-block"/>
 					</div>
 				</div>
 				<br/><br/><br/>
@@ -111,7 +111,7 @@
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="mengapa">
 			<img src="img/bubble-yellow.png" class="img-fluid bubble-yellow" alt="Bubble Yellow"/>
 			<div class="container">
@@ -145,7 +145,7 @@
 			</div>
 			<br/><div class="hidden-xs"><br/></div>
 		</div>
-		
+
 		<div class="strategi">
 			<div class="container">
 				<div class="row">
@@ -242,7 +242,7 @@
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="bg-proses-kerja">
 			<div class="container">
 				<div class="row">
@@ -274,7 +274,7 @@
 									<b>PLAN</b><br/>
 									At this stage, we prepare a strategic plan and improvement to be carried out in the next period. Subsequent improvements are planned in stages according to the targets to be achieved each month.
 								</div>
-								
+
 								<div class="visible-sm visible-xs">
 									<br/><div class="hidden-sm hidden-xs"><br/><br/><br/></div>
 									<div class="one-process">
@@ -284,7 +284,7 @@
 										We will make improvements to both the website and your social media account management. This improvement is not only done at the beginning, but also periodically.
 									</div>
 								</div>
-								
+
 								<br/><div class="hidden-sm hidden-xs"><br/><br/><br/></div>
 								<div class="one-process">
 									<img src="img/rencana.png" class="img-responsive center-block" alt="Rencana"/>
@@ -292,7 +292,7 @@
 									<b>ANALYZE</b><br/>
 									During the advertising and optimization process, we always carry out analysis, monitoring, and tracking of changes. This is so that the results obtained can increase gradually.
 								</div>
-								
+
 								<div class="visible-sm visible-xs">
 									<br/><div class="hidden-sm hidden-xs"><br/><br/><br/></div>
 									<div class="one-process">
@@ -302,7 +302,7 @@
 										Every analysis and improvement made will be reported to you periodically. This report will later be used as a benchmark for further improvement of strategies, for websites, social media, and the results of the advertisements.
 									</div>
 								</div>
-								
+
 							</div>
 							<div class="col-md-4">
 								<img src="img/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow2"/>
@@ -319,7 +319,7 @@
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="div-faq" style="margin-bottom:0;">
 			<div class="container">
 				<div class="row">
@@ -385,113 +385,7 @@
 				</div>
 			</div>
 		</div>
-		
-		<footer>
-			<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>
-			<div class="container">
-				<div class="row">
-				<div class="col-sm-8 col-sm-push-4">
-					<div class="row">
-						<div class="col-sm-3 link-footer-nav">
-							<a href="/en/index.php">Home</a><br/><br/>
-							<a href="/en/about.php">About Us</a><br/><br/>
-							<a href="/en/portfolio.php">Portfolio</a><br/><br/>
-							<a href="/en/services.php">Service</a><br/><br/>
-							<a href="/en/joinus.php">Career</a><br/><br/>
-							<a href="/en/joinus.php">Join LOGIQUE</a><br/><br/>
-							<a href="/en/contact.php">Contact Us</a><br/>
-						</div>
-						<div class="col-sm-5 link-footer">
-							<div class="footer-title">Our Service</div>
-							<h5><a href="/en/services/mekanisme-pembuatan-website" target="_blank">Web Development</a></h5>
-								<h6><a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recruitment Website Creation</a></h6>
-								<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
-								<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dentist Website Creation</a></h6>
-							<h5><a href="/en/services/pembuatan-sistem-web/" target="_blank">Web System Development</a></h5>
-							<h5><a href="/en/services/pembuatan-aplikasi-mobile/">Mobile App Development</a></h5>
-							<h5><a href="/en/services/penetration-testing/">WEB Security Assesment (VA Test)</a></h5>
-						</div>
-						<div class="col-sm-4 link-footer">
-							<div class="footer-title">Our Product</div>
-							<h5 style="margin-bottom: 10px;">
-								<a href="/en/product/dokodemo-kerja.php" target="_blank">
-									Dokodemo-Kerja<br/><div style="font-size: 12px;">(Remote Working Tool)</div>
-								</a>
-							</h5>
-							<h5 style="margin-bottom: 10px;">
-								<a href="/en/product/nippo.php" target="_blank">
-									Nippo<br/><div style="font-size: 12px;">(Daily Report Tool)</div>
-								</a>
-							</h5>
-							<h5>
-								<a href="/en/product/sugoi-saiyo.php" target="_blank">
-									Sugoi Saiyo<br/><div style="font-size: 12px;">(Employee Recruitment System)</div>
-								</a>
-							</h5>
-							<div class="hidden-xs"><br/></div>
-							<div class="footer-title">Social Media</div>
-							<div class="row medsos-new">
-								<div class="col-xs-3 text-center">
-									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a>
-								</div>
-								<div class="col-xs-3 text-center">
-									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-								</div>
-								<div class="col-xs-3 text-center">
-									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-								</div>
-								<div class="col-xs-3 text-center">
-									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<br/>
-				</div>
-				<div class="col-sm-4 col-sm-pull-8">
-				<div itemscope itemtype="http://schema.org/Organization">
-					<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
-					<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-					<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
-					Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span>
-					<br><br>
-					&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
-					<br>
-					<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
-					<br><br>
-					</div>
-				</div>
-					LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.				
-					<br/><br/>
-					<div itemscope itemtype="http://schema.org/CreativeWork">
-						<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
-						<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
-					</div>
-					<br/><br/>
-				</div>
-			</div>
-			</div>
-		</footer>
-	
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="/js/bootstrap.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
-		<script type="text/javascript">			
-			$(function() {
-				$('.smooth').click(function() {
-				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-					var target = $(this.hash);
-					target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-					if (target.length) {
-					  $('html, body').animate({
-						scrollTop: target.offset().top
-					  }, 1000);
-					  return false;
-					}
-				  }
-				});
-			});
-			$('.bordered-white').matchHeight();
-		</script>
+
+		<?php include '../../footer.php'; ?>
 	</body>
 </html>

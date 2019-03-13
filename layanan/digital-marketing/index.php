@@ -9,7 +9,7 @@
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Digital Marketing | LOGIQUE Digital Indonesia</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -60,7 +60,7 @@
 					<div class="col-md-7">
 						<div class="hidden-xs"><br/><br/></div>
 						<div class="bg-black-title inline-block">
-							 Sukseskan Bisnis Anda! 
+							 Sukseskan Bisnis Anda!
 						</div>
 						<div class="font-16">
 							<br/>
@@ -68,14 +68,14 @@
 						</div>
 					</div>
 					<div class="col-md-5">
-						<img src="img/img-top.png" class="img-fluid center-block"/>						
+						<img src="img/img-top.png" class="img-fluid center-block"/>
 					</div>
 				</div>
 				<br/><br/><br/>
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
 						<div class="bg-black-title">
-							Masalah yang Sering Terjadi 
+							Masalah yang Sering Terjadi
 						</div>
 						<div class="masalah-top">
 							<div class="row">
@@ -111,7 +111,7 @@
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="mengapa">
 			<img src="img/bubble-yellow.png" class="img-fluid bubble-yellow" alt="Bubble Yellow"/>
 			<div class="container">
@@ -136,7 +136,7 @@
 									LOGIQUE menggunakan prosedur pelaksanaan pemasaran digital yang jelas dan bertahap. Semua diawali oleh diskusi dan pemahaman mengenai keinginan Anda, lalu penawaran strategi, konfirmasi, eksekusi, hingga pelaporan hasil secara berkala. Setiap langkah ini dilakukan secara hati-hati agar memberikan hasil yang maksimal.
 									<br/><br/>
 									<b>Bekerja secara transparan dan fleksibel</b><br/><br/>
-									Selain memiliki prosedur yang jelas, LOGIQUE juga memberikan kebebasan bagi klien kami untuk selalu menghubungi kami jika perlu dilakukan perubahan atau tambahan dalam eksekusi strategi untuk bisnis Anda. Kami juga tidak serta-merta langsung mengeksekusi iklan digital atau optimasi lainnya tanpa persetujuan klien kami. Setiap strategi baru yang akan kami terapkan selalu kami laporkan secara transparan dan kami diskusikan dengan Anda, sehingga Anda selalu tahu sedang di tahap mana bisnis Anda sedang ditangani. 
+									Selain memiliki prosedur yang jelas, LOGIQUE juga memberikan kebebasan bagi klien kami untuk selalu menghubungi kami jika perlu dilakukan perubahan atau tambahan dalam eksekusi strategi untuk bisnis Anda. Kami juga tidak serta-merta langsung mengeksekusi iklan digital atau optimasi lainnya tanpa persetujuan klien kami. Setiap strategi baru yang akan kami terapkan selalu kami laporkan secara transparan dan kami diskusikan dengan Anda, sehingga Anda selalu tahu sedang di tahap mana bisnis Anda sedang ditangani.
 								</div>
 							</div>
 						</div>
@@ -145,7 +145,7 @@
 			</div>
 			<br/><div class="hidden-xs"><br/></div>
 		</div>
-		
+
 		<div class="strategi">
 			<div class="container">
 				<div class="row">
@@ -242,7 +242,7 @@
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="bg-proses-kerja">
 			<div class="container">
 				<div class="row">
@@ -274,7 +274,7 @@
 									<b>RENCANA</b><br/>
 									Pada tahap ini, kami menyiapkan rencana strategi dan peningkatan untuk dilakukan pada periode selanjutnya. Peningkatan selanjutnya direncanakan secara bertahap sesuai dengan target yang ingin dicapai setiap bulannya.
 								</div>
-								
+
 								<div class="visible-sm visible-xs">
 									<br/><div class="hidden-sm hidden-xs"><br/><br/><br/></div>
 									<div class="one-process">
@@ -284,7 +284,7 @@
 										Kami akan melakukan peningkatan baik pada website, maupun media sosial Anda. Peningkatan ini tidak hanya dilakukan di awal, namun juga berkala.
 									</div>
 								</div>
-								
+
 								<br/><div class="hidden-sm hidden-xs"><br/><br/><br/></div>
 								<div class="one-process">
 									<img src="img/rencana.png" class="img-responsive center-block" alt="Rencana"/>
@@ -292,7 +292,7 @@
 									<b>ANALISIS</b><br/>
 									Selama proses iklan dan optimasi berjalan, kami selalu melakukan analisis, monitor, dan pelacakan terhadap setiap perubahan. Hal ini agar hasil yang didapat bisa meningkat secara bertahap.
 								</div>
-								
+
 								<div class="visible-sm visible-xs">
 									<br/><div class="hidden-sm hidden-xs"><br/><br/><br/></div>
 									<div class="one-process">
@@ -302,7 +302,7 @@
 										Setiap hasil analisa dan peningkatan yang dilakukan akan dilaporkan kepada Anda secara berkala. Laporan ini nantinya akan dijadikan tolok ukur untuk peningkatan strategi selanjutnya, baik untuk website, media sosial, dan hasil jalannya iklan.
 									</div>
 								</div>
-								
+
 							</div>
 							<div class="col-md-4">
 								<img src="img/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow2"/>
@@ -319,7 +319,7 @@
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="div-faq">
 			<div class="container">
 				<div class="row">
@@ -332,7 +332,7 @@
 						</div>
 						<div class="one-faq">
 							<b>Strategi digital marketing apa saja yang bisa LOGIQUE terapkan untuk bisnis saya?</b><br/>
-							LOGIQUE mampu menjalankan beragam strategi digital marketing, mulai dari menjalankan kampanye iklan, pengembangan media sosial (SNS), maksimalisasi SEO, dan sebagainya. Strategi ini tentunya tergantung pada target atau goal bisnis Anda seperti membangun brand awareness, meningkatkan traffic website, meningkatkan conversion/lead, dan sebagainya. 
+							LOGIQUE mampu menjalankan beragam strategi digital marketing, mulai dari menjalankan kampanye iklan, pengembangan media sosial (SNS), maksimalisasi SEO, dan sebagainya. Strategi ini tentunya tergantung pada target atau goal bisnis Anda seperti membangun brand awareness, meningkatkan traffic website, meningkatkan conversion/lead, dan sebagainya.
 						</div>
 						<div class="one-faq">
 							<b>Berapa biaya yang dibutuhkan untuk mendapatkan layanan pemasaran digital dari LOGIQUE?</b><br/>
@@ -385,112 +385,7 @@
 				</div>
 			</div>
 		</div>
-		
-		<footer>
-			<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-8 col-sm-push-4">
-						<div class="row">
-							<div class="col-sm-3 link-footer-nav">
-								<a href="/index.php">Beranda</a><br/><br/>
-								<a href="/tentang-kami.php">Tentang Kami</a><br/><br/>
-								<a href="/portofolio.php">Portofolio</a><br/><br/>
-								<a href="/layanan.php">Layanan</a><br/><br/>
-								<a href="/karir.php">Karir</a><br/><br/>
-								<a href="/career/">Join LOGIQUE</a><br/><br/>
-								<a href="/hubungi-kami.php">Hubungi Kami</a><br/>
-							</div>
-							<div class="col-sm-5 link-footer">
-								<div class="footer-title">Layanan Kami</div>
-								<h5><a href="/layanan/mekanisme-pembuatan-website/" target="_blank">Jasa Pembuatan Website</a></h5>
-									<h6><a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pembuatan Website Career</a></h6>
-									<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Restoran </a></h6>
-									<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Klinik Gigi </a></h6>
-								<h5><a href="/layanan/pembuatan-sistem-web/" target="_blank">Jasa Pengembangan Sistem Web</a></h5>
-								<h5><a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank">Pengembangan Aplikasi Mobile </a></h5>
-								<h5><a href="/layanan/penetration-testing/" target="_blank">Pengetesan Keamanan Website (VA Test) </a></h5>
-							</div>
-							<div class="col-sm-4 link-footer">
-								<div class="footer-title">Produk LOGIQUE</div>
-								<h5 style="margin-bottom: 10px;">
-									<a href="/produk/dokodemo-kerja.php" target="_blank">
-										Dokodemo-Kerja<br/><div style="font-size: 12px;">(Sistem aplikasi bagi pekerja remote)</div>
-									</a>
-								</h5>
-								<h5 style="margin-bottom: 10px;">
-									<a href="/produk/nippo.php" target="_blank">
-										Nippo<br/><div style="font-size: 12px;">(Sistem aplikasi laporan pegawai harian)</div>
-									</a>
-								</h5>
-								<h5>
-									<a href="/produk/sugoi-saiyo.php" target="_blank">
-										Sugoi Saiyo<br/><div style="font-size: 12px;">(Sistem aplikasi perekrutan pegawai)</div>
-									</a>
-								</h5>
-								<div class="hidden-xs"><br/></div>
-								<div class="footer-title">Media Sosial</div>
-								<div class="row medsos-new">
-									<div class="col-xs-3 text-center">
-										<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a>
-									</div>
-									<div class="col-xs-3 text-center">
-										<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-									</div>
-									<div class="col-xs-3 text-center">
-										<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-									</div>
-									<div class="col-xs-3 text-center">
-										<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-									</div>
-								</div>
-							</div>
-						</div>
-						<br/>
-					</div>
-					<div class="col-sm-4 col-sm-pull-8">
-						<div itemscope itemtype="http://schema.org/Organization">
-							<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
-							<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-							<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
-							Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span>
-							<br><br>
-							&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
-							<br>
-							<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
-							<br><br>
-							</div>
-						</div>
-						Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/mekanisme-pembuatan-website/" target="_blank"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.
-						<br/><br/>
-						<div itemscope itemtype="http://schema.org/CreativeWork">
-							<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
-							<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</footer>
-	
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="/js/bootstrap.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
-		<script type="text/javascript">			
-			$(function() {
-				$('.smooth').click(function() {
-				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-					var target = $(this.hash);
-					target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-					if (target.length) {
-					  $('html, body').animate({
-						scrollTop: target.offset().top
-					  }, 1000);
-					  return false;
-					}
-				  }
-				});
-			});
-			$('.bordered-white').matchHeight();
-		</script>
+
+		<?php include '../../footer.php'; ?>
 	</body>
 </html>
