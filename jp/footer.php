@@ -29,7 +29,7 @@ ga('send', 'pageview');
 						
 					</div>
 					<div class="col-sm-5 link-footer-nav">
-						<div class="footer-title">LOGIQUEのサービス</div>
+						<!-- <div class="footer-title">LOGIQUEのサービス</div> -->
 						<ul>
 							<li><a href="/jp/services/mekanisme-pembuatan-website/" target="_blank">Web制作サービス</a>
 								<ul>
@@ -39,8 +39,9 @@ ga('send', 'pageview');
 							</li>
 							<li><a href="/jp/services/pembuatan-aplikasi-mobile/"> モバイルApp開発</a></li>
 							<li><a href="/jp/services/penetration-testing/"> Webセキュリティ診断サービス</a></li>
+							<li><a href="/jp/services/pembuatan-sistem-web/" target="_blank">WEBシステム開発</a></li>
 						</ul>
-						<div class="footer-title" style="padding-top: 20px;"><a href="/jp/product.php">プロダクト</a></div>
+						<!-- <div class="footer-title" style="padding-top: 20px;"><a href="/jp/product.php">プロダクト</a></div> -->
 						<ul>
 							<li><a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja（リモートワーク管理ツール）</a></li>
 							<li><a href="/jp/product/sugoi-saiyo.php"  target="_blank">Sugoi Saiyo（採用管理ツール）</a></li>
@@ -57,7 +58,7 @@ ga('send', 'pageview');
 
 						<h6><a href="/product.php">プロダクト</a></h6>
 						<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
-						<h6><a href="/jp/services/pembuatan-sistem-web/" target="_blank">WEBシステム開発</a></h6> -->
+						<h6></h6> -->
 					 
 						
 							 
@@ -65,6 +66,13 @@ ga('send', 'pageview');
 					<div class="col-sm-5 link-footer"  >
 					
  						<p>LOGIQUEは、ジャカルタでWebコンサルティング、WEBサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。</p>
+ 					<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
+					<ul class=" medsos-new" sty>
+						<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
+						<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+					</ul>
 					</div>
 				</div>
 				<br/>
@@ -80,15 +88,12 @@ ga('send', 'pageview');
 				<br>
 				<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 				<br><br>
+				<div class="provacy-policy-container">
+					<a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
+				</div>
 				</div>
 			</div>
-				<div class="footer-title">Social Media</div>
-					<ul class=" medsos-new">
-						<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
-						<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-						<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-						<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-					</ul>
+			
  
 				
 

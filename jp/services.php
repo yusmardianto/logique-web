@@ -4,34 +4,35 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="LOGIQUEがインドネシアで提供しているサービスは、ジャカルタを中心とするインドネシア国内でWEBサイト制作/システム構築、WEBマーケティング、(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
+    <meta name="description" itemprop="description" content="LOGIQUEがインドネシアで作るWeb / ホームページは、集客ができる、お問い合わせが増える、採用応募者が増える、などコンバージョンが増える価値のあるWebです。WEBチャネルを活用して営業を効率的に行いたい、他社と差別化したい、カスタマーサービスを効率化したい、採用を強化したい、
+場合はLOGIQUEにお任せください。LOGIQUEのWeb制作サービス詳細。">
 	<meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, 印刷">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="WEBザイン制作、ウェブシステム開発運用・モバイルアプリ開発 | LOGIQUE デジタルインドネシア">
+    <meta property="og:title" content="Web制作サービス詳細 | ジャカルタのWeb制作会社LOGIQUEデジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/services.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="LOGIQUEは、WEBサイト・ホームページ制作、CMSやEC、会員管理システムなどの開発運用、Digitalマーケティング、アプリ開発、SNS運用、インターネットビジネスコンサルティングなどをインドネシアで提供しています。クライアントの新規事業をデジタル・IT面で幅広くご支援しています。お気軽に日本語でご連絡ください。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>WEBザイン制作、ウェブシステム開発運用・モバイルアプリ開発 | LOGIQUE デジタルインドネシア</title>
+    <title>Webサイト/ホームページ制作、SEO対策、モバイルアプリ開発、システム開発、IT・デジタルマーケティング関連コンサルティング。</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
-	
+
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    
+  
     </head>
 	<body  class="jp-page">
 		<div class="wrapper">
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -89,7 +90,7 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
 				<video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
@@ -97,7 +98,7 @@
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
-			
+
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
@@ -116,17 +117,19 @@
 						</div>
 					</div>
 				</div>
-			</div>			
-			
+			</div>
+
 			<br/>
-			
+
 			<div id="contentsArea" class="services">
 				<div id="contents">
 					<div class="title"><b>Our</b><span class="yellow">Services</span></div>
 					<div class="form-container">
 						LOGIQUEはインドネシア国内でウェブサイト(ホームページ)やウェブシステム、モバイルアプリケーションの開発、デジタルマーケティングの実行など、お客様がIT・インターネットを活用するためのご支援をしています。WebやWebシステムの制作・開発、運用からWebマーケティングやSEO対策などまで、Web、インターネットに関するサービスを幅広く提供しております。 プログラマー、デザイナー、コンテンツライターを自社内に抱えており、フレキシブルで安価な価格でのサービス提供が可能です。インドネシアにて長い経験と多くの実績を持っておりますので安心してご依頼ください。
 					</div>
-					<img class="img-responsive" src="../img/layanan-img.jpg" alt="Layanan"/>
+          <div class="banner-services">
+            <img src="../img/layanan-img.jpg" alt="Layanan"/>
+          </div>
 					<div class="feel-free row-center-sm" style="font-size: 18px;">
 						<div class="col-sm-8">
 							インドネシアでのIT・WEB活用等に関する課題についてお気軽にご相談ください
@@ -346,7 +349,7 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Webセキュリティ診断（脆弱性診断・検査）</b><br/>
-										Webサイトやアプリケーションの脆弱性を診断・レポートします。SQLインジェクション、クロスサイトスクリプティング、セッションハイジャックなどの攻撃による被害の発生を未然に防ぐことができます。診断ツール、経験豊富な担当者による診断の両方を併用して診断します。診断項目などによりますが15,000,000 IDRから診断可能です。 
+										Webサイトやアプリケーションの脆弱性を診断・レポートします。SQLインジェクション、クロスサイトスクリプティング、セッションハイジャックなどの攻撃による被害の発生を未然に防ぐことができます。診断ツール、経験豊富な担当者による診断の両方を併用して診断します。診断項目などによりますが15,000,000 IDRから診断可能です。
 										<br><a target="_blank" href="/jp/services/penetration-testing/" class="btn btn-service-link">Webセキュリティ診断について詳しくみる</a>
 									</li>
 								</ol>
@@ -354,9 +357,9 @@
 							</div>
 						  </div>
 						</div>
- 
+
 					</div>
-					
+
 					<!--<div class="no-gap">
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
@@ -425,7 +428,7 @@
 							<div class="text-center services-list tooltip-service">
 								<span class="tooltiptext-service">調査×分析×明確なゴール設定でWebマーケティング成功へのシナリオを策定・コンサルティングします。</span>
 								<div id="other-service"></div>
-								調査・分析<br/>／Webコンサル 
+								調査・分析<br/>／Webコンサル
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
@@ -696,9 +699,9 @@
 							</a>
 						</div>
 					</div>
-				</div>	
-			</div>	
-			
+				</div>
+			</div>
+
 			<?php include 'footer.php';?>
 			<script>
 				$(function () {
@@ -707,11 +710,11 @@
 						if(offset) {
 							$('html,body').animate({
 								scrollTop: $(offset).offset().top-10
-							}, 500); 
+							}, 500);
 						}
-					}); 
+					});
 				});
 			</script>
-		</div>	
+		</div>
 	</body>
 </html>

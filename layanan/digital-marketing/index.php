@@ -40,7 +40,7 @@
 			<ul class="list-inline">
 				<li><a href="/en/services/digital-marketing/index.php">EN</a></li>
 				<li class="active"><a href="/layanan/digital-marketing/index.php">ID</a></li>
-				<li><a href="#">JP</a></li>
+				<li><a href="/jp/services/digital-marketing/index.php">JP</a></li>
 			</ul>
 		</div>
 		<div class="div-top">

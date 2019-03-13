@@ -13,65 +13,64 @@ ga('send', 'pageview');
 </script>
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-8 col-sm-push-4">
+			<div class="col-sm-9 col-sm-push-3">
 				<div class="row">
-					<div class="col-sm-3 link-footer-nav">
-						<a href="index.php">Home</a><br/><br/>
-						<a href="about.php">About Us</a><br/><br/>
-						<a href="portfolio.php">Portfolio</a><br/><br/>
-						<a href="services.php">Service</a><br/><br/>
-						<a href="joinus.php">Career</a><br/><br/>
-						<a href="/career/">Join LOGIQUE</a><br/><br/>
-						<a href="contact.php">Contact Us</a><br/>
+					<div class="col-sm-2 link-footer-nav">
+						<ul>
+							<li><a href="index.php">Home</a></li>
+							<li><a href="about.php">About Us</a></li>
+							<li><a href="portfolio.php">Portfolio</a></li>
+							<li><a href="services.php">Service</a></li>
+							<li><a href="joinus.php">Career</a></li>
+							<li><a href="/career/">Join LOGIQUE</a></li>
+							<li><a href="contact.php">Contact Us</a></li>
+						</ul>
 					</div>
+					<div class="col-sm-5 link-footer-nav">
+						 <ul>
+							<li><a href="/en/services/mekanisme-pembuatan-website" target="_blank">Web Development</a>
+								<ul>
+									<li><a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank"> Recruitment Website Creation</a></li>
+									<li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank"> Dentist Website Creation</a></li>
+									<!-- <a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a> -->
+								</ul>
+							</li>
+							 <li><a href="/en/services/pembuatan-sistem-web/" target="_blank">Web System Development</a></li>
+							 <li><a href="/en/services/pembuatan-aplikasi-mobile/">Mobile App Development</a></li>
+							 <li><a href="/en/services/penetration-testing/">WEB Security Assesment (Pentest)</a></li>
+							 <li></li>
+						 </ul>
+						 <ul>
+						 	<li>
+						 		<a href="/en/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja <span style="font-size: 12px;">(Remote Working Tool)</span>
+							</a></li>
+							<li><a href="/en/product/nippo.php" target="_blank">Nippo<span style="font-size: 12px;">(Daily Report Tool)</span>
+							</a></li>
+							<li><a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo<span style="font-size: 12px;"> (Employee Recruitment System)</span>
+							</a></li>
+						 </ul>
+					</div>
+					<style type="text/css">
+						.link-footer-nav ul ul li{
+							list-style: disc;
+						}
+					</style>
 					<div class="col-sm-5 link-footer">
-						<div class="footer-title">Our Service</div>
-						<h5><a href="/en/services/mekanisme-pembuatan-website" target="_blank">Web Development</a></h5>
-							<h6><a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recruitment Website Creation</a></h6>
-							<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
-							<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dentist Website Creation</a></h6>
-						<h5><a href="/en/services/pembuatan-sistem-web/" target="_blank">Web System Development</a></h5>
-						<h5><a href="/en/services/pembuatan-aplikasi-mobile/">Mobile App Development</a></h5>
-						<h5><a href="/en/services/penetration-testing/">WEB Security Assesment (Pentest)</a></h5>
-					</div>
-					<div class="col-sm-4 link-footer">
-						<div class="footer-title">Our Product</div>
-						<h5 style="margin-bottom: 10px;">
-							<a href="/en/product/dokodemo-kerja.php" target="_blank">
-								Dokodemo-Kerja<br/><div style="font-size: 12px;">(Remote Working Tool)</div>
-							</a>
-						</h5>
-						<h5 style="margin-bottom: 10px;">
-							<a href="/en/product/nippo.php" target="_blank">
-								Nippo<br/><div style="font-size: 12px;">(Daily Report Tool)</div>
-							</a>
-						</h5>
-						<h5>
-							<a href="/en/product/sugoi-saiyo.php" target="_blank">
-								Sugoi Saiyo<br/><div style="font-size: 12px;">(Employee Recruitment System)</div>
-							</a>
-						</h5>
-						<div class="hidden-xs"><br/></div>
-						<div class="footer-title">Social Media</div>
-						<div class="row medsos-new">
-							<div class="col-xs-3 text-center">
-								<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a>
-							</div>
-							<div class="col-xs-3 text-center">
-								<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-							</div>
-							<div class="col-xs-3 text-center">
-								<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-							</div>
-							<div class="col-xs-3 text-center">
-								<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-							</div>
-						</div>
+						<p>LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.	</p>
+
+						<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
+						<ul class=" medsos-new" sty>
+							<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
+							<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+							<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+							<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+						</ul>
+						 
 					</div>
 				</div>
 				<br/>
 			</div>
-			<div class="col-sm-4 col-sm-pull-8">
+			<div class="col-sm-3 col-sm-pull-9">
 			<div itemscope itemtype="http://schema.org/Organization">
 				<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
 				<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -84,8 +83,15 @@ ga('send', 'pageview');
 				<br><br>
 				</div>
 			</div>
-				LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.				
-				<br/><br/>
+							
+				<div class="provacy-policy-container">
+					<a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
+				</div>
+				
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12">
 				<div itemscope itemtype="http://schema.org/CreativeWork">
 					<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
 					<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>

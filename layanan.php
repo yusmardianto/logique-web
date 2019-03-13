@@ -18,20 +18,19 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-	
+
     <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    
     </head>
 	<body>
 		<div class="wrapper">
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -83,7 +82,7 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
 				<video poster="img/video-img.png" id="bgvid" playsinline autoplay muted loop>
@@ -91,7 +90,7 @@
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
-			
+
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
@@ -110,17 +109,19 @@
 						</div>
 					</div>
 				</div>
-			</div>			
-			
+			</div>
+
 			<br/>
-			
+
 			<div id="contentsArea" class="services">
 				<div id="contents">
 					<div class="title"><b>Layanan</b><span class="yellow">Kami</span></div>
 					<div class="form-container">
 						LOGIQUE menyediakan layanan pembuatan sistem web berkualitas dengan standar internasional untuk aneka kebutuhan seperti E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS. Dengan pengalaman dan tim yang mahir di bidangnya, kami mampu menyediakan solusi sistem web dan website yang bermanfaat untuk bisnis digital Anda. LOGIQUE juga menyediakan bermacam-macam jasa terkait website seperti jasa pembuatan website / sistem web, aplikasi mobile, digital marketing, jasa SEO, dan lain-lain. Kami mampu menyediakan solusi berkualitas yang sesuai kebutuhan bisnis Anda dengan harga yang terjangkau.
 					</div>
-					<img class="img-responsive" src="img/layanan-img.jpg" alt="layanan pembuatan website"/>
+          <div class="banner-services">
+            <img src="img/layanan-img.jpg" alt="layanan pembuatan website"/>
+          </div>
 					<div class="feel-free row-center-sm">
 						<div class="col-sm-8">
 							Pembuatan sistem web dan website berkualitas dengan standar Internasional.
@@ -218,7 +219,7 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Halaman Landing / Kampanye</b><br/>
-										Jika Anda mencari layanan untuk memperbaharui desain halaman landing / kampanye atau mengkonversi desain ke dalam kode HTML, LOGIQUE adalah solusi terbaik bagi Anda untuk mengembangkan website yang mudah digunakan dan teroptimasi pada mesin pencarian. Kami juga dapat mengembangkan beberapa halaman untuk memfasilitasi tes A/B yang meningkatkan konversi target Anda. Tim LOGIQUE memiliki pengalaman mendesain dan mengembangkan landing page dari berbagai macam bidang usaha. Desainer kami dapat dengan baik menyesuaikan halaman yang sudah ada berdasarkan pengalaman pengintegrasian plugin atau aplikasi seperti Mailchimp dan yang lainnya. Kami juga cukup fleksibel untuk memenuhi kebutuhan Anda seperti instalasi AMP, melakukan tes A/B dengan beberapa halaman landing, pembaharuan hanya pada halaman kontak, banner iklan dengan HTML5 untuk menunjang kampanye iklan website Anda, dan masih banyak lagi. Silakan menghubungi kami terkait pembuatan halaman landing / kampanye untuk produk atau layanan Anda, kami akan membantu Anda walaupun hanya satu halaman. 
+										Jika Anda mencari layanan untuk memperbaharui desain halaman landing / kampanye atau mengkonversi desain ke dalam kode HTML, LOGIQUE adalah solusi terbaik bagi Anda untuk mengembangkan website yang mudah digunakan dan teroptimasi pada mesin pencarian. Kami juga dapat mengembangkan beberapa halaman untuk memfasilitasi tes A/B yang meningkatkan konversi target Anda. Tim LOGIQUE memiliki pengalaman mendesain dan mengembangkan landing page dari berbagai macam bidang usaha. Desainer kami dapat dengan baik menyesuaikan halaman yang sudah ada berdasarkan pengalaman pengintegrasian plugin atau aplikasi seperti Mailchimp dan yang lainnya. Kami juga cukup fleksibel untuk memenuhi kebutuhan Anda seperti instalasi AMP, melakukan tes A/B dengan beberapa halaman landing, pembaharuan hanya pada halaman kontak, banner iklan dengan HTML5 untuk menunjang kampanye iklan website Anda, dan masih banyak lagi. Silakan menghubungi kami terkait pembuatan halaman landing / kampanye untuk produk atau layanan Anda, kami akan membantu Anda walaupun hanya satu halaman.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Blog</b><br/>
@@ -280,7 +281,7 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Website versi Mobile</b><br/>
-										Sangat penting untuk menjangkau pengguna mobile dengan tepat karena kontribusi mereka terhadap tingkat kunjungan web di Indonesia sangat besar. LOGIQUE mengembangkan responsive website yang dapat mengoptimasi tampilan website (UI) sesuai dengan ukuran layar. Kami juga secara fleksibel dapat menawarkan dan mengimplementasikan penggunaan teknologi baru seperti PWA atau AMP. 
+										Sangat penting untuk menjangkau pengguna mobile dengan tepat karena kontribusi mereka terhadap tingkat kunjungan web di Indonesia sangat besar. LOGIQUE mengembangkan responsive website yang dapat mengoptimasi tampilan website (UI) sesuai dengan ukuran layar. Kami juga secara fleksibel dapat menawarkan dan mengimplementasikan penggunaan teknologi baru seperti PWA atau AMP.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Pengembangan Aplikasi Mobile</b><br/>
@@ -336,7 +337,7 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Desain dan Pencetakan Profil Perusahaan/ Katalog / Selebaran</b><br/>
-										LOGIQUE tidak hanya mampu mencetak pada media kertas untuk keperluan bisnis namun juga termasuk pembuatan tas, kaos, dan lain sebagainya. Layanan kami mencakup desain hingga pengiriman melalui kolaborasi dengan mitra perusahan percetakan kami. Silakan menghubungi kami jika Anda memerlukan bantuan terkait profil perusahaan, contoh selebaran untuk acara, atau produk promosi lainnya. 
+										LOGIQUE tidak hanya mampu mencetak pada media kertas untuk keperluan bisnis namun juga termasuk pembuatan tas, kaos, dan lain sebagainya. Layanan kami mencakup desain hingga pengiriman melalui kolaborasi dengan mitra perusahan percetakan kami. Silakan menghubungi kami jika Anda memerlukan bantuan terkait profil perusahaan, contoh selebaran untuk acara, atau produk promosi lainnya.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Agen Web Server dan Domain</b><br/>
@@ -362,14 +363,14 @@
 							<div class="text-center services-list tooltip-service">
 								<span class="tooltiptext-service">Kami memberikan dukungan bagi Anda dalam pembuatan website berskala besar termasuk perancangan arsitektur hingga pemeliharaan yang dapat membantu pemasaran website Anda.</span>
 								<div id="websitedevelopment"></div>
-								Pengembangan Website <br/>Berskala Besar								
+								Pengembangan Website <br/>Berskala Besar
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
 							<div class="text-center services-list tooltip-service">
 								<span class="tooltiptext-service">Kami memberikan perencanaan dan solusi yang lengkap untuk pembuatan website, desain, dan konten Anda dalam satu layanan terpadu.</span>
 								<div id="systemdevelopment"></div>
-								Pembuatan Website, <br/>Desain, dan Konten 
+								Pembuatan Website, <br/>Desain, dan Konten
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-6">
@@ -672,9 +673,9 @@
 							</a>
 						</div>
 					</div>
-				</div>	
-			</div>	
-			
+				</div>
+			</div>
+
 			<?php include 'footer.php';?>
 			<script>
 				$(function () {
@@ -683,11 +684,11 @@
 						if(offset) {
 							$('html,body').animate({
 								scrollTop: $(offset).offset().top-10
-							}, 500); 
+							}, 500);
 						}
-					}); 
+					});
 				});
 			</script>
-		</div>	
+		</div>
 	</body>
 </html>
