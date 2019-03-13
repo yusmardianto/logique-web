@@ -47,13 +47,13 @@
 			<div class="backdrop-test"></div>
 				<div class="logique-nav">
 					<div class="margin-for-nav">
-						<div class="text-center">
+						<div class="text-center active">
 							<a href="index.php">
 								<div class="img-home"></div>
 								Home
 							</a>
 						</div>
-						<div class="text-center active">
+						<div class="text-center">
 							<a href="about.php">
 								<div class="img-about"></div>
 								About Us
