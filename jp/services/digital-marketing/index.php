@@ -1,11 +1,11 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="jp">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Jika Anda tertarik menerapkan strategi digital marketing untuk bisnis Anda, LOGIQUE dapat membantu meningkatkan profit bisnis Anda lewat SEO, kampanye iklan Google Ads, Facebook Ads, dan lain-lain.">
-	<meta name="keywords" content="digital marketing, pemasaran digital, strategi digital marketing, layanan digital marketing, digital marketing logique">
+    <meta name="description" content="もし貴社のマーケティング活動において、デジタルマーケティングの活用をご検討されている場合は、お気軽にお問合せください。SEO対策からインターネット広告、SNSの運用など、幅広いサービスを取り扱っております。">
+	<meta name="keywords" content="デジタルマーケティグ, オンライン広告, SEO, 検索順位, ウェブ, WEB ">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Digital Marketing | LOGIQUE Digital Indonesia</title>
@@ -39,8 +39,8 @@
 		<div class="language-btn">
 			<ul class="list-inline">
 				<li><a href="/en/services/digital-marketing/index.php">EN</a></li>
-				<li class="active"><a href="/layanan/digital-marketing/index.php">ID</a></li>
-				<li><a href="/jp/services/digital-marketing/index.php">JP</a></li>
+				<li><a href="/layanan/digital-marketing/index.php">ID</a></li>
+				<li class="active"><a href="/jp/services/digital-marketing/index.php">JP</a></li>
 			</ul>
 		</div>
 		<div class="div-top">
@@ -49,7 +49,7 @@
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<img src="img/logo.png" alt="Logo"/>
-							LOGIQUE Digital Marketing
+							LOGIQUEならではのワンストップデジタルマーケティングが
 						</div>
 					</div>
 				</div>
@@ -60,11 +60,11 @@
 					<div class="col-md-7">
 						<div class="hidden-xs"><br/><br/></div>
 						<div class="bg-black-title inline-block">
-							 Sukseskan Bisnis Anda! 
+						あなたのビジネスを成功に導きます
 						</div>
 						<div class="font-16">
 							<br/>
-							Menghadapi era digital saat ini tentunya membuat tantangan tersendiri, terutama bagi dunia bisnis dan usaha agar dapat sukses dan berhasil. LOGIQUE, perusahaan digital marketing profesional asal Jepang yang berpusat di Jakarta, memberikan solusi atas tantangan tersebut dengan menawarkan jasa layanan pemasaran digital.<br><br>Dengan pengalaman kami selama lebih dari 5 tahun di dunia digital, tentu membuat kami mengerti dan memahami secara menyeluruh terutama mengenai bagaimana bisnis bisa bersaing dan berhasil di dunia digital. Kami siap memberikan Anda solusi untuk meningkatkan profit bisnis Anda dengan pemanfaatan dunia digital!<br/><br/>
+							LOGIQUEはジャカルタの日系ウェブ制作会社として、WEBサイト制作からSEO対策、デザイン、オンライン広告（SNS広告、Google広告）など、デジタルマーケティングの全工程をワンストップでご提供可能です。<br><br>インドネシアで5年以上のデジタルマーケティングの経験を活かし、デジタルマーケティングを通じてお客様のマーケティング活動を成功に導きます。<br/><br/>
 						</div>
 					</div>
 					<div class="col-md-5">
@@ -75,19 +75,18 @@
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
 						<div class="bg-black-title">
-							Masalah yang Sering Terjadi 
+						よくある問題点
 						</div>
 						<div class="masalah-top">
 							<div class="row">
 								<div class="col-md-offset-2 col-md-8">
 									<div class="one-problem">
-										<b>Agensi Iklan Digital, SEO, dan Desain tidak dapat saling bekerja sama dengan baik</b><br/>
-										Selain pemasaran iklan, digital marketing sejatinya juga mencakup Search Engine Optimization (SEO) yang tepat dan desain yang menarik. Namun, masih sulit ditemukan perusahaan yang mampu menangani tiga elemen tersebut sekaligus. Untuk itu, banyak pelaku bisnis akhirnya menggunakan agensi-agensi terpisah. Dalam hal ini, masalah yang sering dikeluhkan adalah kegagalan komunikasi dan kerja sama yang terjalin di antara ketiganya. <br><br>Anda tidak akan menemukan masalah tersebut di LOGIQUE. Selain menjalankan kampanye iklan digital tertarget, kami juga menyediakan jasa maksimalisasi SEO untuk website, serta pembuatan desain baik untuk iklan, konten produk, maupun pembaharuan website Anda.
-
+										<b>ウェブ制作・SEO・デザイン・デジタル広告等、それぞれ作業を行う会社間の連携がうまくとれていない。</b><br/>
+										弊社はウェブ制作を専門としている傍、プログラマーとデザイナーに加え、SEO対策、広告運用を行うチームも社内に常駐しているため、一貫したデジタルマーケティングの提供が可能となり、より素早いPDCAを回すことが可能です。
 									</div>
 									<div class="one-problem">
-										<b>Lalu lintas visitor website hanya bergantung pada iklan</b><br/>
-										Setelah masa berjalannya iklan digital berakhir, banyak pelaku bisnis menemukan bahwa traffic website mereka menjadi turun drastis. LOGIQUE menyajikan layanan yang menyeimbangkan Search Engine Marketing (SEM) dan SEO. Dengan demikian, traffic yang website Anda dapatkan tidak hanya dari iklan, melainkan juga secara organik dari target bisnis Anda lewat mesin pencarian populer (Google, Bing, dll). Optimasi ini akan kami lakukan secara berkala sesuai kebutuhan Anda.
+										<b>広告を打たないとウェブサイトに集客ができない。</b><br/>
+										多くの場合において、デジタル広告のキャンペーンを終えると、ほとんどWEBサイトへのトラフィックがなくなってしまう、つまり、オーガニックのトラフィックが殆ど無いということが見受けられます。弊社はウェブ制作のプロとして、検索エンジンの最適化 (SEO) 、検索エンジンを利用したマーケティング (SEM) のサポートも行っており、技術的な面とコンテンツ面の両方において、インドネシア語・英語・日本語の３言語で対策を行うことが可能です。
 									</div>
 									<div class="one-problem">
 										<b>Strategi digital marketing yang diterapkan tidak sesuai dengan tujuan bisnis</b><br/>
