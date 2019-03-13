@@ -5,8 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" itemprop="description" content="">
+    <meta name="keywords" content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
+  	<meta name="author" content="PT. Logique Digital Indonesia">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-      <title>The best website, mobile application developer and designer in Jakarta | LOGIQUE Digital Indonesia</title>
+      <title>The best website developer / designer in Jakarta | LOGIQUE Digital Indonesia</title>
 
       <!-- Bootstrap -->
       <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -105,8 +107,8 @@
             <div class="lang-logo">
               <ul class="list-inline">
 								<li class="active"><a href="#">EN</a></li>
-								<li><a href="../privasi.php">ID</a></li>
-								<li><a href="../jp/privacy-policy.php">JP</a></li>
+								<li><a href="#">ID</a></li>
+								<li><a href="#">JP</a></li>
               </ul>
               <a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
               <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
