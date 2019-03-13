@@ -17,13 +17,13 @@ ga('send', 'pageview');
 				<div class="row">
 					<div class="col-sm-2 link-footer-nav">
 						<ul>
-							<li><a href="index.php">Home</a></li>
-							<li><a href="about.php">About Us</a></li>
-							<li><a href="portfolio.php">Portfolio</a></li>
-							<li><a href="services.php">Service</a></li>
-							<li><a href="joinus.php">Career</a></li>
+							<li><a href="/en/index.php">Home</a></li>
+							<li><a href="/en/about.php">About Us</a></li>
+							<li><a href="/en/portfolio.php">Portfolio</a></li>
+							<li><a href="/en/services.php">Service</a></li>
+							<li><a href="/en/joinus.php">Career</a></li>
 							<li><a href="/career/">Join LOGIQUE</a></li>
-							<li><a href="contact.php">Contact Us</a></li>
+							<li><a href="/en/contact.php">Contact Us</a></li>
 						</ul>
 					</div>
 					<div class="col-sm-5 link-footer-nav">
@@ -65,7 +65,7 @@ ga('send', 'pageview');
 							<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
 							<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
 						</ul>
-						 
+
 					</div>
 				</div>
 				<br/>
@@ -77,23 +77,23 @@ ga('send', 'pageview');
 				<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
 				Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span>
 				<br><br>
-				&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+				&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
 				<br>
 				<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 				<br><br>
 				</div>
 			</div>
-							
+
 				<div class="provacy-policy-container">
 					<a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
 				</div>
-				
+
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-sm-12">
 				<div itemscope itemtype="http://schema.org/CreativeWork">
-					<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
+					<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>
 					<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
 				</div>
 			</div>

@@ -17,16 +17,16 @@ ga('send', 'pageview');
 				<div class="row">
 					<div class="col-sm-2 link-footer-nav" style="font-weight: normal;">
 						<ul>
-							<li><a href="index.php">Home</a></li>
-							<li><a href="logique.php">会社概要</a></li>
-							<li><a href="services.php">サービス</a></li>
-							<li><a href="portfolio.php">制作開発実績</a></li>
-							<li><a href="product.php">プロダクト</a></li>
-							<li><a href="joinus.php">採用/パートナー</a></li>
+							<li><a href="/jp/index.php">Home</a></li>
+							<li><a href="/jp/logique.php">会社概要</a></li>
+							<li><a href="/jp/services.php">サービス</a></li>
+							<li><a href="/jp/portfolio.php">制作開発実績</a></li>
+							<li><a href="/jp/product.php">プロダクト</a></li>
+							<li><a href="/jp/joinus.php">採用/パートナー</a></li>
 							<li><a href="/career/">求人/インターン</a></li>
-							<li><a href="contact.php">お問い合わせ</a></li>
+							<li><a href="/jp/contact.php">お問い合わせ</a></li>
 						</ul>
-						
+
 					</div>
 					<div class="col-sm-5 link-footer-nav">
 						<!-- <div class="footer-title">LOGIQUEのサービス</div> -->
@@ -48,9 +48,9 @@ ga('send', 'pageview');
 							<li><a href="/jp/product/nippo.php"  target="_blank">Nippo（日報＆人事評価ツール）</a></li>
 							<li></li>
 						</ul>
- 	
+
 							<!-- <h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6> -->
- 
+
 
 <!-- 							<h6><a href="/jp/product/dokodemo-kerja.php">Dokodemo-Kerja（リモートワーク管理ツール）</a></h6>
 						<h6><a href="/jp/product/sugoi-saiyo.php">Sugoi Saiyo（採用管理ツール）</a></h6>
@@ -59,12 +59,12 @@ ga('send', 'pageview');
 						<h6><a href="/product.php">プロダクト</a></h6>
 						<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6>
 						<h6></h6> -->
-					 
-						
-							 
+
+
+
 					</div>
 					<div class="col-sm-5 link-footer"  >
-					
+
  						<p>LOGIQUEは、ジャカルタでWebコンサルティング、WEBサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。</p>
  					<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
 					<ul class=" medsos-new" sty>
@@ -81,10 +81,10 @@ ga('send', 'pageview');
 			<div itemscope itemtype="http://schema.org/Organization">
 				<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
 				<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-				<span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br/>Jalan Tb. Simatupang No. 5 
+				<span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br/>Jalan Tb. Simatupang No. 5
 				Ragunan, <br>Ps. Minggu,  Jakarta Selatan,<br> Indonesia </span><span itemprop="postalCode">12550</span>
 				<br><br>
-				&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+				&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
 				<br>
 				<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 				<br><br>
@@ -93,18 +93,18 @@ ga('send', 'pageview');
 				</div>
 				</div>
 			</div>
-			
- 
-				
+
+
+
 
 				<br/><br/>
-				
+
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-sm-12">
 				<div itemscope itemtype="http://schema.org/CreativeWork">
-					<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
+					<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>
 					<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
 				</div>
 			</div>
