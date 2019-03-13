@@ -1,6 +1,13 @@
 ﻿@charset "UTF-8";
 @import url(https://fonts.googleapis.com/css?family=Lato:300,400,700,900);
 @import url(https://fonts.googleapis.com/css?family=Francois+One);
+@font-face {
+    font-family: 'Bebas';
+    src: url('Bebas.woff2') format('woff2'),
+        url('Bebas.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 @-ms-viewport {width: device-width}
 @-o-viewport {width: device-width}
 @viewport {width: device-width}
@@ -217,11 +224,16 @@ section.maintop {
 }
 
 .title-index {
+    font-family: 'Bebas';
     color: #000;
-    font-size: 50px;
+    font-size: 48px;
     margin-bottom: 25px;
     line-height: 50px;
-    text-shadow: 1px 1px 1px #555
+    text-shadow: 1px 1px 1px #fff;
+    word-spacing: 8px;
+}
+.title-index span {
+    font-family: 'Bebas';
 }
 
 .btn-see-more,
@@ -2382,13 +2394,13 @@ blockquote::before {
 }
 
 .div-service-cat {
-    border: 1px solid transparent;
+    /* border: 1px solid transparent; */
     padding: 8px;
     margin-bottom: 10px
 }
 
 .div-service-cat:hover {
-    border: 1px solid #000
+    /* border: 1px solid #000 */
 }
 
 .div-service-cat:hover .btn {
@@ -2407,7 +2419,7 @@ blockquote::before {
 .div-service-cat img {
     margin-top: 15px;
     margin-bottom: 15px;
-    max-width: 45px
+    /* max-width: 45px */
 }
 
 .div-service-cat div {
@@ -2420,8 +2432,10 @@ blockquote::before {
 }
 
 .div-service-cat h2 {
-    font-size: 22px;
-    font-weight: 100
+    font-size: 18px;
+    font-weight: 100;
+    color: #000;
+    line-height: 110%;
 }
 
 .div-service-cat h2 span {
@@ -3216,6 +3230,12 @@ blockquote::before {
     }
 }
 
+.carousel-home-new .text-link {
+    font-style: italic;
+    color: #000;
+    text-decoration: underline;
+}
+
 .title-index2{font-size: 50px;line-height: 60px;margin-bottom: 90px;}
 .onhover{position:relative}
 .div-explanation{text-align:center;position:absolute;width:100%;top:0;background:#ffca13;padding:10px 15px;height:100%;font-size:14px;font-weight:bold;opacity:0;transition:all 0.3s ease-in-out;color:#000}
@@ -3223,12 +3243,12 @@ blockquote::before {
 .onhover:hover .div-explanation{opacity:1}
 .carousel-home-new .carousel-inner>.item{height:546px}
 .carousel-home-new{padding: 0 75px;}
-.carousel-home-new .carousel-control {background: none!important;color: #ffca13;opacity:1}
-.carousel-home-new .carousel-control.left{display:none}
+.carousel-home-new .carousel-control {background: none!important;color: #000;opacity:1;font-size: 50px;text-shadow:none;height: 50px;width: 50px;margin: auto;top: 0;bottom: 0}
+/* .carousel-home-new .carousel-control.left{display:none} */
 .carousel-home-new .carousel-control .icon-prev,
-.carousel-home-new .carousel-control .glyphicon-chevron-left {left: 15%;}
+.carousel-home-new .carousel-control .fa-angle-left {left: -15%;}
 .carousel-home-new .carousel-control .icon-next,
-.carousel-home-new .carousel-control .glyphicon-chevron-right {right: 15%;}
+.carousel-home-new .carousel-control .fa-angle-right {right: -15%;}
 .contact-title-copies{font-size:30px;font-weight:bold;text-align:center;background:#fff;padding: 10px 30px;line-height: 1.3;}
 .contact-title-copies span{line-height: 1.3;}
 .btn-hubungi{padding: 10px 25px;font-size: 18px;background: #ffca13;color: #000;margin-top: 20px;}
@@ -3321,8 +3341,8 @@ video.vd-log{
 	.col-benefit .content-benefits .valign-center{padding:0}
 	.content-benefits{height: 245px;}
 	.footer-title {margin-top: 20px;border-bottom: 2px solid #ffca13;padding-bottom: 3px;display: inline-block;}
-	.carousel-home-new .carousel-control .icon-next, .carousel-home-new .carousel-control .glyphicon-chevron-right {right: 5.5%!important;position: fixed!important;top: 55%!important;}
-	.carousel-home-new .carousel-control .icon-prev, .carousel-home-new .carousel-control .glyphicon-chevron-left {left: 5%!important;position: fixed!important;top: 55%!important;}
+	.carousel-home-new .carousel-control .icon-next, .carousel-home-new .carousel-control .fa-angle-right {right: 5.5%!important;position: fixed!important;top: 55%!important;}
+	.carousel-home-new .carousel-control .icon-prev, .carousel-home-new .carousel-control .fa-angle-left {left: 5%!important;position: fixed!important;top: 55%!important;}
 	.onhover img{width:100%!important}
 	.div-explanation {height: auto;}
 	.title-index2 {margin-bottom: 25px;padding-top: 0;line-height: 40px;}
