@@ -73,6 +73,12 @@
 								Services
 							</a>
 						</div>
+            <div class="text-center">
+							<a href="product.php">
+								<div class="img-product"></div>
+								Product
+							</a>
+						</div>
 						<div class="text-center">
 							<a href="joinus.php">
 								<div class="img-career"></div>

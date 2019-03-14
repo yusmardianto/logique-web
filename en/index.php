@@ -46,20 +46,20 @@
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
-	
+
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    
+
     </head>
 	<body>
 		<div class="wrapper o-wrapper top-only">
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 
 			<div class="collapse navbar-collapse" id="myNavbar">
@@ -90,6 +90,12 @@
 								Services
 							</a>
 						</div>
+            <div class="text-center">
+							<a href="product.php">
+								<div class="img-product"></div>
+								Product
+							</a>
+						</div>
 						<div class="text-center">
 							<a href="joinus.php">
 								<div class="img-career"></div>
@@ -112,7 +118,7 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
@@ -129,7 +135,7 @@
 				<div class="row">
 					<div class="col-sm-12">
 						<div class="title-container visible-xs">
-						<br/>							
+						<br/>
 							<div id="myCarousel2" class="carousel slide carousel-home-new" data-interval="false">
 							  <div class="carousel-inner">
 								<div class="item active">
@@ -246,12 +252,12 @@
 								<span class="sr-only">Next</span>
 							  </a>
 							</div>
-							
+
 						</div>
 					</div>
 				</div>
 			</div>
-			
+
 			<div class="contain-video">
 				<video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop style="display:block!important">
 					<source src="../img/12377093.mp4" type="video/mp4">
@@ -260,9 +266,9 @@
 			<div class="bg-white-opacity"></div>
 			<div id="bgImg" style="height: auto;">
 				<div class="img">
-				
+
 					<div class="title-container hidden-xs">
-					
+
 						<div id="myCarousel" class="carousel slide carousel-home-new" data-interval="false">
 						  <div class="carousel-inner">
 							<div class="item active">
@@ -387,18 +393,18 @@
 							<span class="sr-only">Next</span>
 						  </a>
 						</div>
-						
+
 					</div>
-					
+
 				</div>
 			</div>
-			
+
 			<br/>
 			<?php include 'footer.php';?>
-		</div>	
+		</div>
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script src="../js/bootstrap.min.js"></script>
-		<script src="../js/slick.min.js"></script>		
+		<script src="../js/slick.min.js"></script>
 		<script type="application/ld+json">
 			{
 			  "@context": "http://schema.org",

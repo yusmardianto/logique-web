@@ -18,20 +18,20 @@
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
-	
+
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    
+
     </head>
 	<body>
 		<div class="wrapper">
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 
 			<div class="collapse navbar-collapse" id="myNavbar">
@@ -62,6 +62,12 @@
 								Services
 							</a>
 						</div>
+            <div class="text-center">
+							<a href="product.php">
+								<div class="img-product"></div>
+								Product
+							</a>
+						</div>
 						<div class="text-center active">
 							<a href="joinus.php">
 								<div class="img-career"></div>
@@ -84,12 +90,12 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
 				<img id="bgvid" style="width:100%" src="/img/video-img.png"/>
 			</div>
-			
+
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
@@ -108,10 +114,10 @@
 						</div>
 					</div>
 				</div>
-			</div>			
-			
+			</div>
+
 			<br/>
-			
+
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title"><b>Join</b><span class="yellow">Us</span></div>
@@ -182,7 +188,7 @@
 					</div>
 					<div class="form-container">
 						<p>
-						<br/>					
+						<br/>
 						<span class="characteristic-title">Our Vision and Policy</span><br/>
 						LOGIQUE believes it is important to always think Logically. We will get rid of everything that are not necessary or nonsense. We think and take actions logically considering clients’ benefits and our benefits. The amount / energy of action after thinking will be also considered importantly. Both persons who cannot think and who cannot take action will not be evaluated in a good way at LOGIQUE.<br/><br/>
 						We are aiming to be the strong company / the strong individuals that can survive in any times or period seeing current and future situation of Web industry. It shouldn’t be so hard for you to imagine that the trends change in 1-2 years and your current skill will be useless after 5 years from now. In this kind of situation, what is important is to obtain skills or strength (core competence) other than leaning necessary skills currently so that you can adopt yourself no matter how the trends change in the future. You will not be a truly strong professional if you keep on doing whatever that you already can do. LOGIQUE let you try many tasks in which you have no experience if you have passion and potential. We train and assign works to everyone to deepen each core skills.
@@ -218,7 +224,7 @@
 							</div>
 							<div class="item">
 							  <img src="../img/slider2.jpg" alt="Tour 5">
-							</div>							
+							</div>
 						  </div>
 						  <!-- Left and right controls -->
 						  <a class="left carousel-control" href="#tour-office" data-slide="prev">
@@ -231,10 +237,10 @@
 						  </a>
 						</div>
 						<br/>
-						<span class="characteristic-title">Message for Candidates</span><br/>						
+						<span class="characteristic-title">Message for Candidates</span><br/>
 						It is very important for your life about where & how you work. If you are living hard, thinking that work is important in your life, and thinking to contribute to a company, we promise to prepare the right environment for you. Let’s grow up together.
 						<br/><br/>
-						<span class="characteristic-title">Job Opening</span><br/>						
+						<span class="characteristic-title">Job Opening</span><br/>
 						We are always looking for candidates for the positions below. Feel free to contact us.<br/><br/><br/>
 						<center><span class="characteristic-title">Interview Process</span></center>
 						<br/>
@@ -315,7 +321,7 @@
 									<li>Required language(s): English, Bahasa Indonesia.</li>
 									<li>Applicants must be willing to work in Jakarta.</li>
 								</ul><br/>
-								
+
 								<b>Responsibility:</b><br/>
 								<ul class="joinus-ul">
 									<li>Develop and maintain software.</li>
@@ -387,12 +393,12 @@
 								<b>Responsibilities :</b><br/>
 								<ul class="joinus-ul">
 									<li>Understand customers’ requirements and business objectives during requirement-definition phase.</li>
-									<li>Provide strategic advice on using technology to achieve goals.</li>							
-									<li>Manage IT initiatives and collaborate with in-house Web System Development team.</li>							
-									<li>Assisting QA Engineer in creating a comprehensive test-plan.</li>							
-									<li>Collaborate with Technical Writer in creating miscellaneous documents (FSD / requirements definition document, etc).</li>							
-									<li>Collaborating with Sales team and Technical Team to do pre-sales activities.</li>							
-									<li>Handling Digital Marketing activities.</li>						
+									<li>Provide strategic advice on using technology to achieve goals.</li>
+									<li>Manage IT initiatives and collaborate with in-house Web System Development team.</li>
+									<li>Assisting QA Engineer in creating a comprehensive test-plan.</li>
+									<li>Collaborate with Technical Writer in creating miscellaneous documents (FSD / requirements definition document, etc).</li>
+									<li>Collaborating with Sales team and Technical Team to do pre-sales activities.</li>
+									<li>Handling Digital Marketing activities.</li>
 								</ul>
 							  </div>
 							</div>
@@ -418,7 +424,7 @@
 									<li>Ability to perform in a team environment.</li>
 									<li>Candidate must possess at least Bachelor's Degree in Computer Science/Information Technology or equivalent.</li>
 								</ul><br/>
-								
+
 								<b>Responsibilities:</b><br/>
 								<ul class="joinus-ul">
 									<li>Produce fully functional mobile applications (IOS and Android).</li>
@@ -447,16 +453,16 @@
 							  <div class="panel-body">
 								<b>Persyaratan:</b><br/>
 								<ul class="joinus-ul">
-									<li>Memiliki pengalaman kerja sebagai Content Writer, Copywriter atau peran serupa.</li>							
-									<li>Mempunyai portofolio artikel yang dipublikasikan adalah nilai tambah.</li>							
-									<li>Berpengalaman melakukan penelitian menggunakan banyak sumber.</li>							
-									<li>Familiar dengan publikasi web.</li>							
-									<li>Memiliki kemampuan menulis dan mengedit yang sangat baik dalam bahasa Inggris.</li>							
-									<li>Mempunyai pengalaman langsung dengan Content Management Systems (misalnya WordPress).</li>							
-									<li>Terbiasa bekerja dengan deadline.</li>							
-									<li>Lulusan dari Sastra, Jurnalisme atau bidang terkait.</li>							
+									<li>Memiliki pengalaman kerja sebagai Content Writer, Copywriter atau peran serupa.</li>
+									<li>Mempunyai portofolio artikel yang dipublikasikan adalah nilai tambah.</li>
+									<li>Berpengalaman melakukan penelitian menggunakan banyak sumber.</li>
+									<li>Familiar dengan publikasi web.</li>
+									<li>Memiliki kemampuan menulis dan mengedit yang sangat baik dalam bahasa Inggris.</li>
+									<li>Mempunyai pengalaman langsung dengan Content Management Systems (misalnya WordPress).</li>
+									<li>Terbiasa bekerja dengan deadline.</li>
+									<li>Lulusan dari Sastra, Jurnalisme atau bidang terkait.</li>
 								</ul><br/>
-								
+
 								<b>Bertanggungjawab:</b><br/>
 								<ul class="joinus-ul">
 									<li>Meneliti topik yang berhubungan dengan industri penelitian (menggabungkan sumber online, wawancara dan studi).</li>
@@ -600,7 +606,7 @@
 									<div class="col-md-5ths">
 										<div class="div-for-workflow">
 											<div class="valign-center">
-												We will contact them directly 
+												We will contact them directly
 											</div>
 										</div>
 									</div>
@@ -614,7 +620,7 @@
 									<div class="col-md-5ths">
 										<div class="div-for-workflow">
 											<div class="valign-center">
-												We will contact you if we got a contract with the ones you introduced to us. 
+												We will contact you if we got a contract with the ones you introduced to us.
 											</div>
 										</div>
 									</div>
@@ -659,9 +665,9 @@
 					</div>
 				</div>
 			</div>
-			
+
 			<?php include 'footer.php';?>
-			
+
 		</div>
 	</body>
 </html>
