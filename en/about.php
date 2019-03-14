@@ -241,7 +241,7 @@
 							  		</a>
 							  	</div>
 							  	<div class="col-sm-6">
-							  		<a href="/en/products.php">
+							  		<a href="/en/product.php">
 							  			<img src="../img/product-banner-sm-en.png" alt="" class="img-responsive">
 							  		</a>
 							  	</div>
