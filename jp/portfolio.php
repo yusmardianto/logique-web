@@ -898,27 +898,27 @@
 
 							 <div class="studi-kasus">
 					              <div>
-					                <a href="/case-study/jba-auction-system/" target="_blank">
+					                <a href="/en/case-study/jba-auction-system/" target="_blank">
 					                  <img src="../img/case-study-jba-auction-system.jpg" alt="JBA Auction System">
 					                </a>
 					              </div>
 					              <div>
-					                <a href="/case-study/caroline-bidding-system/" target="_blank">
+					                <a href="/en/case-study/caroline-bidding-system/" target="_blank">
 					                  <img src="../img/case-study-caroline-bidding-system.jpg" alt="Carolline Bidding System">
 					                </a>
 					              </div>
 					              <div>
-					                <a href="/case-study/opuspark/" target="_blank">
+					                <a href="/en/case-study/opuspark/" target="_blank">
 					                  <img src="../img/case-study-opus-park.jpg" alt="Opus Park">
 					                </a>
 					              </div>
 					              <div>
-					                <a href="/case-study/vip-plaza-progressive-web-app/" target="_blank">
+					                <a href="/en/case-study/vip-plaza-progressive-web-app/" target="_blank">
 					                  <img src="../img/case-study-vip-plaza.jpg" alt="VIP Plaza">
 					                </a>
 					              </div>
 					              <div>
-					                <a href="/case-study/zuttoride-customer-management-system/" target="_blank">
+					                <a href="/en/case-study/zuttoride-customer-management-system/" target="_blank">
 					                  <img src="../img/case-study-zuttoride.jpg" alt="ZuttoRide">
 					                </a>
 					              </div>
