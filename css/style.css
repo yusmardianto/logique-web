@@ -1098,7 +1098,18 @@ video {
 html[lang=ja] .partner-section .div-main p {
     width: 430px
 }
-
+.studi-kasus >div{
+    display: inline-block;
+    padding:0 8px;
+}
+.studi-kasus >div:first-child{
+    padding-left: 0;
+}
+.studi-kasus >div:last-child{
+    padding-right: 0;
+    margin-bottom: 0;
+}
+                                
 @media (max-width:1360px) {
     .workflow.nav-tabs.nav-justified>li>a {
         width: auto;
@@ -1181,6 +1192,10 @@ html[lang=ja] .partner-section .div-main p {
     .top-only {
         background-image: url(../img/video-img.png);
         background-size: cover
+    }
+     .studi-kasus >div{
+        margin-bottom: 10px;
+        
     }
 }
 
@@ -1321,6 +1336,14 @@ video {
     .title-container {
         font-size: 16px
     }
+      .studi-kasus >div{
+        margin-bottom: 10px;
+        width: 49%;
+        text-align: center;
+    }
+    .studi-kasus {
+        text-align: center;
+    }
 }
 
 @media (min-width:991px) {
@@ -1335,6 +1358,7 @@ video {
         float: left;
         width: 20%
     }
+
 }
 
 @media (min-width:768px) {
