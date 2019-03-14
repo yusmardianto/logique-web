@@ -35,9 +35,25 @@
 	</script>
 	<!-- End Twitter universal website tag code -->
   <style>
-  @media (max-width: 767px) {
-    #jp-dig-marketing-heading {
-      height: inherit;
+
+  #jp-dig-marketing-heading {
+    display: flex;
+    align-items: center;
+  }
+
+  #jp-dig-marketing-heading > img {
+    position: relative;
+    left: 0;
+    top: 0;
+  }
+
+  #jp-dig-marketing-heading p {
+    flex: 1 0 0;
+  }
+
+  @media (min-width: 768px) and (max-width: 810px) {
+    #jp-dig-marketing-heading p {
+      padding-right: 110px;
     }
   }
 
@@ -58,8 +74,8 @@
 						<div class="col-md-12 text-center">
               <div id="jp-dig-marketing-heading">
                 <img src="img/logo.png" alt="Logo"/>
+                <p>LOGIQUEならではのワンストップ<br class="hidden-xs"/>デジタルマーケティングが</p>
               </div>
-              LOGIQUEならではのワンストップ<br/>デジタルマーケティングが
 						</div>
 					</div>
 				</div>
