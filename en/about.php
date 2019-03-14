@@ -172,9 +172,9 @@
 					<div class="form-container" style="background: #ffca13;  ">
 						<div class="mission-content" style="border:1px solid #ffca13; padding:0px 30px 0px; font-size: 16px;">
 							<ul>
-								<li>Provide convenient and trusted services in IT & Digital Marketing areas for companies to grow in Indonesia.</li>
-								<li>Contribute to the growth of web development industry and provide wide opportunities for web developers in Indonesia.</li>
-                <li>Create new technologies and systems in order to tackle problems through IT & Digital in Indonesia.</li>
+								<li>Support as many companies as possible in Indonesia to grow and improve all types of businesses in IT and Digital Marketing field with excellent and high standard of values.</li>
+								<li>Consistently contribute to the growth of Web Development and Digital Marketing industry in Indonesia by always exploring new strategies and innovative solutions.</li>
+                <li>Give more and better opportunities to Indonesian Web Developers by constantly helping them explore and maximize their full potential for better future.</li>
 							</ul>
 						</div>
 					</div>
