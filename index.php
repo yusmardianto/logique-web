@@ -189,16 +189,16 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 										<br><br>
 										<div class="row">
 											<div class="col-md-3">
-												<a href="/produk/dokodemo-kerja.php" class="bounce-link"><img src="img/top/i-dokodemo.png" alt="dokodemo"></a>
+												<a href="/produk/dokodemo-kerja.php" class="flipp"><img src="img/top/i-dokodemo.png" alt="dokodemo"></a>
 											</div>
 											<div class="col-md-3">
-												<a href="/produk/sugoi-saiyo.php" class="bounce-link"><img src="img/top/i-sugoi-saiyo.png" alt="sugoi saiyo"></a>
+												<a href="/produk/sugoi-saiyo.php" class="flipp"><img src="img/top/i-sugoi-saiyo.png" alt="sugoi saiyo"></a>
 											</div>
 											<div class="col-md-3">
-												<a href="/produk/nippo.php" class="bounce-link"><img src="img/top/i-nippo.png" alt="nippo"></a>
+												<a href="/produk/nippo.php" class="flipp"><img src="img/top/i-nippo.png" alt="nippo"></a>
 											</div>
 											<div class="col-md-3">
-												<a href="/layanan/pembuatan-website-karir-perusahaan/" class="bounce-link"><img src="img/top/i-hr-site.png" alt="hr site"></a>
+												<a href="/layanan/pembuatan-website-karir-perusahaan/" class="flipp"><img src="img/top/i-hr-site.png" alt="hr site"></a>
 											</div>
 										</div>
 										</div>
@@ -215,19 +215,19 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 										<br><br><br>
 										<div class="row">
 											<div class="col-md-3">
-												<a href="/case-study/caroline-bidding-system/" class="bounce-link"><img src="img/top/i-caroline.png" alt="caroline"></a>
+												<a href="/case-study/caroline-bidding-system/" class="flipp"><img src="img/top/i-caroline.png" alt="caroline"></a>
 											</div>
 											<div class="col-md-2">
-												<a href="/case-study/jba-auction-system/" class="bounce-link"><img src="img/top/i-jba.png" alt="jba"></a>
+												<a href="/case-study/jba-auction-system/" class="flipp"><img src="img/top/i-jba.png" alt="jba"></a>
 											</div>
 											<div class="col-md-2">
-												<a href="/case-study/opuspark/" class="bounce-link"><img src="img/top/i-opus-park.png" alt="opus park"></a>
+												<a href="/case-study/opuspark/" class="flipp"><img src="img/top/i-opus-park.png" alt="opus park"></a>
 											</div>
 											<div class="col-md-2">
-												<a href="/case-study/zuttoride-customer-management-system/" class="bounce-link"><img src="img/top/i-zuttoride.png" alt="zuttoride"></a>
+												<a href="/case-study/zuttoride-customer-management-system/" class="flipp"><img src="img/top/i-zuttoride.png" alt="zuttoride"></a>
 											</div>
 											<div class="col-md-3">
-												<a href="/case-study/vip-plaza-progressive-web-app/" class="bounce-link"><img src="img/top/i-vipplaza.png" alt="vip plaza"></a>
+												<a href="/case-study/vip-plaza-progressive-web-app/" class="flipp"><img src="img/top/i-vipplaza.png" alt="vip plaza"></a>
 											</div>
 										</div>
 									</div>
@@ -321,16 +321,16 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 									<br><br>
 									<div class="row">
 										<div class="col-md-3">
-											<a href="/produk/dokodemo-kerja.php" class="bounce-link"><img src="img/top/i-dokodemo.png" alt="dokodemo"></a>
+											<a href="/produk/dokodemo-kerja.php" class="flipp"><img src="img/top/i-dokodemo.png" alt="dokodemo"></a>
 										</div>
 										<div class="col-md-3">
-											<a href="/produk/sugoi-saiyo.php" class="bounce-link"><img src="img/top/i-sugoi-saiyo.png" alt="sugoi saiyo"></a>
+											<a href="/produk/sugoi-saiyo.php" class="flipp"><img src="img/top/i-sugoi-saiyo.png" alt="sugoi saiyo"></a>
 										</div>
 										<div class="col-md-3">
-											<a href="/produk/nippo.php" class="bounce-link"><img src="img/top/i-nippo.png" alt="nippo"></a>
+											<a href="/produk/nippo.php" class="flipp"><img src="img/top/i-nippo.png" alt="nippo"></a>
 										</div>
 										<div class="col-md-3">
-											<a href="/layanan/pembuatan-website-karir-perusahaan/" class="bounce-link"><img src="img/top/i-hr-site.png" alt="hr site"></a>
+											<a href="/layanan/pembuatan-website-karir-perusahaan/" class="flipp"><img src="img/top/i-hr-site.png" alt="hr site"></a>
 										</div>
 									</div>
 									</div>
@@ -347,19 +347,19 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 										<br><br><br>
 										<div class="row">
 											<div class="col-md-3">
-												<a href="/case-study/caroline-bidding-system/" class="bounce-link"><img src="img/top/i-caroline.png" alt="caroline"></a>
+												<a href="/case-study/caroline-bidding-system/" class="flipp"><img src="img/top/i-caroline.png" alt="caroline"></a>
 											</div>
 											<div class="col-md-2">
-												<a href="/case-study/jba-auction-system/" class="bounce-link"><img src="img/top/i-jba.png" alt="jba"></a>
+												<a href="/case-study/jba-auction-system/" class="flipp"><img src="img/top/i-jba.png" alt="jba"></a>
 											</div>
 											<div class="col-md-2">
-												<a href="/case-study/opuspark/" class="bounce-link"><img src="img/top/i-opus-park.png" alt="opus park"></a>
+												<a href="/case-study/opuspark/" class="flipp"><img src="img/top/i-opus-park.png" alt="opus park"></a>
 											</div>
 											<div class="col-md-2">
-												<a href="/case-study/zuttoride-customer-management-system/" class="bounce-link"><img src="img/top/i-zuttoride.png" alt="zuttoride"></a>
+												<a href="/case-study/zuttoride-customer-management-system/" class="flipp"><img src="img/top/i-zuttoride.png" alt="zuttoride"></a>
 											</div>
 											<div class="col-md-3">
-												<a href="/case-study/vip-plaza-progressive-web-app/" class="bounce-link"><img src="img/top/i-vipplaza.png" alt="vip plaza"></a>
+												<a href="/case-study/vip-plaza-progressive-web-app/" class="flipp"><img src="img/top/i-vipplaza.png" alt="vip plaza"></a>
 											</div>
 										</div>
 									</div>
