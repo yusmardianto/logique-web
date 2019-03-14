@@ -138,11 +138,10 @@
 										<div class="title-index">
 											Web Developer <span class="yellow">Terbaik</span> Untuk Solusi <span class="yellow">Permasalahan Digital</span> Anda
 										</div>
-										<b>LOGIQUE DIGITAL INDONESIA</b>, perusahaan Web Developer yang melayani jasa pembuatan dan pengembangan Website, Aplikasi dan Digital 
-Marketing untuk perkembangan bisnis Anda. Kami telah melayani banyak klien besar baik dari dalam atau pun luar negeri untuk berbagai kebutuhan, mulai dari pembuatan E-Commerce, pembuatan Sistem Lelang Online, pembuatan Sistem Rekrutmen karyawan, dan Digital Marketing. Selain 
-berbagai produk digital, Kami juga menawarkan kepada Anda layanan produk non-digital, seperti pembuatan brosur, katalog, video profil perusahaan dan lain-lain. Dengan tenaga profesional yang kami miliki, kami berkomitmen untuk menghasilkan berbagai produk digital yang berkualitas dan 
+										<b>LOGIQUE DIGITAL INDONESIA</b>, perusahaan Web Developer yang melayani jasa pembuatan dan pengembangan Website, Aplikasi dan Digital
+Marketing untuk perkembangan bisnis Anda. Kami telah melayani banyak klien besar baik dari dalam atau pun luar negeri untuk berbagai kebutuhan, mulai dari pembuatan E-Commerce, Sistem Lelang Online, Sistem Rekrutmen karyawan, dan Digital Marketing. Selain
+berbagai produk digital, Kami juga menawarkan kepada Anda layanan produk non-digital, seperti pembuatan brosur, katalog, video profil perusahaan dan lain-lain. Dengan tenaga profesional yang kami miliki, kami berkomitmen untuk menghasilkan berbagai produk digital yang berkualitas dan
 berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di era digital dengan solusi terbaik yang kami berikan. <br>
-<a href="/layanan.php" class="text-link">Lihat selengkapnya di sini.</a>
 										<div class="row">
 											<div class="col-lg-offset-1 col-lg-10">
 												<div class="row">
@@ -205,14 +204,14 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 										</div>
 									</div>
 								</div>
-								
+
 								<div class="item">
 								<div class="text-center title-index title-index2">
 									Studi Kasus
 								</div>
 								<div class="row">
 									<div class="col-md-10 col-md-offset-1 text-center">
-									Dengan <b>pengalaman selama 7 tahun</b>, <b>LOGIQUE</b> telah bekerjasama dengan banyak klien baik dari dalam atau pun luar negri dalam pembuatan dan pengembangan Website, Aplikasi, dan Digital Marketing. Sesuai dengan tujuan kami, <b>LOGIQUE DIGITAL INDONESIA</b> berkomitmen untuk selalu memberikan solusi terbaik bagi kebutuhan para klien kami. Mulai dari pengembangan Aplikasi Mobile, pengembangan E-Commerce, sistem manajemen lelang mobil/ motor, sistem manajemen pelanggan, dan masih banyak lagi. 
+									Dengan <b>pengalaman selama 7 tahun</b>, <b>LOGIQUE</b> telah bekerjasama dengan banyak klien baik dari dalam atau pun luar negri dalam pembuatan dan pengembangan Website, Aplikasi, dan Digital Marketing. Sesuai dengan tujuan kami, <b>LOGIQUE DIGITAL INDONESIA</b> berkomitmen untuk selalu memberikan solusi terbaik bagi kebutuhan para klien kami. Mulai dari pengembangan Aplikasi Mobile, pengembangan E-Commerce, sistem manajemen lelang mobil/ motor, sistem manajemen pelanggan, dan masih banyak lagi.
 										<br><br><br>
 										<div class="row">
 											<div class="col-md-3">
@@ -268,11 +267,10 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 												<h1 class="title-index">
 											Web Developer <span class="yellow">Terbaik</span> Untuk Solusi <br><span class="yellow">Permasalahan Digital</span> Anda
 											</h1>
-											<b>LOGIQUE DIGITAL INDONESIA</b>, perusahaan Web Developer yang melayani jasa pembuatan dan pengembangan Website, Aplikasi dan Digital 
-		Marketing untuk perkembangan bisnis Anda. Kami telah melayani banyak klien besar baik dari dalam atau pun luar negeri untuk berbagai kebutuhan, mulai dari pembuatan E-Commerce, pembuatan Sistem Lelang Online, pembuatan Sistem Rekrutmen karyawan, dan Digital Marketing. Selain 
-		berbagai produk digital, Kami juga menawarkan kepada Anda layanan produk non-digital, seperti pembuatan brosur, katalog, video profil perusahaan dan lain-lain. Dengan tenaga profesional yang kami miliki, kami berkomitmen untuk menghasilkan berbagai produk digital yang berkualitas dan 
+											<b>LOGIQUE DIGITAL INDONESIA</b>, perusahaan Web Developer yang melayani jasa pembuatan dan pengembangan Website, Aplikasi dan Digital
+		Marketing untuk perkembangan bisnis Anda. Kami telah melayani banyak klien besar baik dari dalam atau pun luar negeri untuk berbagai kebutuhan, mulai dari pembuatan E-Commerce, Sistem Lelang Online, Sistem Rekrutmen karyawan, dan Digital Marketing. Selain
+		berbagai produk digital, Kami juga menawarkan kepada Anda layanan produk non-digital, seperti pembuatan brosur, katalog, video profil perusahaan dan lain-lain. Dengan tenaga profesional yang kami miliki, kami berkomitmen untuk menghasilkan berbagai produk digital yang berkualitas dan
 		berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di era digital dengan solusi terbaik yang kami berikan. <br>
-		<a href="/layanan.php" class="text-link">Lihat selengkapnya di sini.</a>
 											<br/><br/>
 										</div>
 									</div>
@@ -345,7 +343,7 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 								</div>
 								<div class="row">
 									<div class="col-md-10 col-md-offset-1 text-center">
-									Dengan <b>pengalaman selama 7 tahun</b>, <b>LOGIQUE</b> telah bekerjasama dengan banyak klien baik dari dalam atau pun luar negri dalam pembuatan dan pengembangan Website, Aplikasi, dan Digital Marketing. Sesuai dengan tujuan kami, <b>LOGIQUE DIGITAL INDONESIA</b> berkomitmen untuk selalu memberikan solusi terbaik bagi kebutuhan para klien kami. Mulai dari pengembangan Aplikasi Mobile, pengembangan E-Commerce, sistem manajemen lelang mobil/ motor, sistem manajemen pelanggan, dan masih banyak lagi. 
+									Dengan <b>pengalaman selama 7 tahun</b>, <b>LOGIQUE</b> telah bekerjasama dengan banyak klien baik dari dalam atau pun luar negri dalam pembuatan dan pengembangan Website, Aplikasi, dan Digital Marketing. Sesuai dengan tujuan kami, <b>LOGIQUE DIGITAL INDONESIA</b> berkomitmen untuk selalu memberikan solusi terbaik bagi kebutuhan para klien kami. Mulai dari pengembangan Aplikasi Mobile, pengembangan E-Commerce, sistem manajemen lelang mobil/ motor, sistem manajemen pelanggan, dan masih banyak lagi.
 										<br><br><br>
 										<div class="row">
 											<div class="col-md-3">
