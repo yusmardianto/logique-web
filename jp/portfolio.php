@@ -1014,15 +1014,24 @@
 							<div class="row text-center">
 								<div class="col-sm-4">
 									<img src="/img/portfolio/opus-park-facebook.png" class="img-responsive center-block">
-									Opus Park (Facebook)
+									Opus Park (Facebook)<br>
+									<div class="addition-desc text-center">
+										<small class="text-muted">(Google Ads, FB/IG Ads, SNS Operation, SEO Website)</small>
+									</div>
 								</div>
 								<div class="col-sm-4">
 									<img src="/img/portfolio/mason-de-res.jpg" class="img-responsive center-block">
 									Mason de Res - (Facebook)
+									<div class="addition-desc text-center">
+										<small class="text-muted">(Google Ads, SNS Operation, SEO Website, Articles)</small>
+									</div>
 								</div>
 								<div class="col-sm-4">
 									<img src="/img/portfolio/ajapan-sosmed.png" class="img-responsive center-block">
 									Ajapan Dance Instagram Competition - Waku Waku Japan
+									<div class="addition-desc text-center">
+										<small class="text-muted">(IG Ads, SNS Operation)</small>
+									</div>
 								</div>
 								
 								
