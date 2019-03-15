@@ -1088,7 +1088,13 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
     }
 
     /* Extra Small Devices, Phones */ 
-    @media only screen and (max-width : 480px) {
+    @media (max-width : 480px) {
+			.stats:first-child {
+				margin-top: 20px;
+			}
+			.stats img {
+				max-height: 120px;
+			}
     	header.head-banner{
     		background-position: 30% top;
     		height: auto;
