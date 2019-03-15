@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" itemprop="description" content="Opus Park is an iconic suburban residential property developed by PT Izumi Sentul Realty, a Joint Venture (JV) company that consists of a leading property developer in Indonesia, Sentul City, and two well-known Japanese infrastructure companies, namely Sumitomo Corporation and Hankyu Hanshin Properties Corp.">
+  <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia helped Opus Park in creating and implementing the right online marketing strategy to reach goals as they wanted across various platforms. It included targeted social media marketing, search and display network ads, also SEO for the website. Learn the case study here.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Case Study - Opus Park | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Online Marketing Strategy | Case Study | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/case-study/opuspark/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Opus Park is an iconic suburban residential property developed by PT Izumi Sentul Realty, a Joint Venture (JV) company that consists of a leading property developer in Indonesia, Sentul City, and two well-known Japanese infrastructure companies, namely Sumitomo Corporation and Hankyu Hanshin Properties Corp.">
+	<meta property="og:description" content="LOGIQUE Digital Indonesia helped Opus Park in creating and implementing the right online marketing strategy to reach goals as they wanted across various platforms. It included targeted social media marketing, search and display network ads, also SEO for the website. Learn the case study here.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <script>
@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Case Study - Opus Park | LOGIQUE Digital Indonesia</title>
+  <title>Online Marketing Strategy | Case Study | LOGIQUE Digital Indonesia</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
@@ -89,6 +89,12 @@
 							<a href="/en/services.php">
 								<div class="img-services"></div>
 								Services
+							</a>
+						</div>
+            <div class="text-center">
+							<a href="/en/product.php">
+								<div class="img-product"></div>
+								Product
 							</a>
 						</div>
 						<div class="text-center">

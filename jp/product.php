@@ -7,7 +7,7 @@
     <meta name="description" itemprop="description" content="LOGIQUEデジタルインドネシアのの会社概要ページ。LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。WEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
 	<meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, パンフレット">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="人事ITソリューション | テレワーク管理ツール | 採用管理クラウド | LOGIQUE DIGITAL INDONESIA>
+    <meta property="og:title" content="人事ITソリューション | テレワーク管理ツール | 採用管理クラウド | LOGIQUE DIGITAL INDONESIA">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/product.php">
@@ -18,20 +18,20 @@
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
-	
+
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    
+
     </head>
 	<body class="jp-page product-page">
 		<div class="wrapper">
-				
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -89,7 +89,7 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
 				<video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
@@ -97,13 +97,13 @@
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
-						
+
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
 						<div class="lang-logo">
 							<ul class="list-inline">
-								<li><a href="../en/about.php">EN</a></li>
+								<li><a href="../en/product.php">EN</a></li>
 								<li><a href="../tentang-kami.php">ID</a></li>
 								<li class="active"><a href="#">JP</a></li>
 							</ul>
@@ -116,13 +116,13 @@
 						</div>
 					</div>
 				</div>
-			</div>			
-			
+			</div>
+
 			<br/>
-			
+
 			<div id="contentsArea">
 				<div id="contents">
-					<div class="title" style="font-weight:normal"><span class="yellow">Our</span>Product</div>  
+					<div class="title" style="font-weight:normal"><span class="yellow">Our</span>Product</div>
 					<div class="form-container">
 						<p>LOGIQUEはHRテック領域でクラウドツールを販売展開しています。リモートワーク｜テレワークがインドネシアでより普及するのに貢献したく、リモートワーカーを管理しながら生産性向上にも寄与するDokodemo-Kerjaを販売しています。月額１万円以下の利用料で大きな効果が得られる優れたツールですのでまずはトライアル利用いただければと思います。<p>
 							<p>
@@ -154,15 +154,15 @@
 スタッフがいつ、どんな作業をしているのか確認することができます。作業タイプ（タスク種、プロジェクト名）を入力させることで作業時間を集計し管理会計に利用することも可能です。勤務開始時間、休憩時間、終了時間が記録に残りますので、勤務時間不足や逆に働きすぎのコントロールもできます。</p>
 <p>
 スクリーンショットが取ることがスタッフのさぼりの抑止力になります。場所や時間に囚われず、決めた勤務時間中は集中して生産性高く作業する。Dokodemo-Kerjaは現代の働き方をサポートします。</p>
-							
+
 							</div>
 						</div>
-						
+
 						<div class="row">
 							<div class="col-sm-12">
 								<a href="/jp/product/dokodemo-kerja.php" target="_blank" class="btn btn-contact-us-black custom-btn-contact"> Dokodemo-Kerjaの詳細を確認 </a>
 							</div>
-						</div> 
+						</div>
 					</div>
 					<div class="title nice-bg-grey" style="font-weight:normal">
 						<h3 class="sub-title">Nippo</h3>
@@ -215,9 +215,9 @@ SUGOI採用は、これらの問題を解消し、採用業務の効率を向上
 								<li><i class="fa-li fa fa-check"></i> インドネシアならではの人事課題に直面している</li>
 								<li><i class="fa-li fa fa-check"></i> 常にオフィスにいれないので人事管理に不安を抱えている</li>
 								<li><i class="fa-li fa fa-check"></i> 社内にIT担当者がいないため複雑なシステムは運用できない</li>
-								<li><i class="fa-li fa fa-check"></i> 実際の画面をまずは試用したい</li> 
+								<li><i class="fa-li fa fa-check"></i> 実際の画面をまずは試用したい</li>
 							</ul>
-						</div> 
+						</div>
 						<div class="text-center">
 							<a href="contact.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-2', 'Action-Click', 'Button-Hubungi-Logique-Layanan-2-Label');">
 								今すぐお問い合わせ
@@ -226,9 +226,9 @@ SUGOI採用は、これらの問題を解消し、採用業務の効率を向上
 					</div>
 				</div>
 			</div>
-			
+
 			<?php include 'footer.php';?>
-			
+
 		</div>
 	</body>
 </html>

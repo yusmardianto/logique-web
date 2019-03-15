@@ -4,18 +4,18 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="We are providing Website security assessment service, penetration test and WEB vulnerability assessment in Jakarta, Indonesia. It is a website vulnerability assessment service that can quickly scan the security level of your website.">
+    <meta name="description" content="Protect your website, web app, & e-commerce from any cyber attack. LOGIQUE provides web security, penetration test, vulnerability assessment service, to secure your confidential data against today's most advanced threats. Solve the risks now. Contact us.">
 	<meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing , logique">
 	<meta name="author" content="Logique Digital Indonesia">
-	<meta property="og:title" content="WEB Security | Penetration Test | Logique Digital Indonesia">
+	<meta property="og:title" content="Web Security | Penetration Test | Vulnerability Assessment | LOGIQUE DIGITAL INDONESIA">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/services/penetration-testing/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="We are providing Website security assessment service, penetration test and WEB vulnerability assessment in Jakarta, Indonesia. It is a website vulnerability assessment service that can quickly scan the security level of your website.">
+	<meta property="og:description" content="Protect your website, web app, & e-commerce from any cyber attack. LOGIQUE provides web security, penetration test, vulnerability assessment service, to secure your confidential data against today's most advanced threats. Solve the risks now. Contact us.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>WEB Security | Penetration Test | Logique Digital Indonesia</title>
-	<link href="css/bootstrap.min.css" rel="stylesheet">	 
+    <title>Web Security | Penetration Test | Vulnerability Assessment | LOGIQUE DIGITAL INDONESIA</title>
+	<link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -32,7 +32,7 @@
 	</script>
   </head>
 <body>
-	
+
 	<div class="header-top">
 		<div class="container">
 			<div class="row">
@@ -59,7 +59,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="target-umum-bg">
 		<div class="container">
 			<div class="row">
@@ -91,9 +91,9 @@
 						LOGIQUE will flexibly perform various security assessment according to the scale of the website. We also have a primary vulnerability assessment that can be easy and cheaper to start with.
 					</div>
 				</div>
-			</div>	
-		</div>	
-	</div>	
+			</div>
+		</div>
+	</div>
 	<div class="tahapan-title">
 		<div class="question">The steps taken by LOGIQUE in conducting a Website Security Assessment</div>
 		<div class="answer">
@@ -252,7 +252,7 @@
 		</div>
 	</div>
 	<div class="clearfix"></div><br/><br/>
-	
+
 	<div class="harga">
 		<div class="container">
 			<div class="row">
@@ -272,8 +272,8 @@
 				</div>
 			</div>
 		</div>
-	</div>	
-	
+	</div>
+
 	<div class="footer">
 		<div class="container">
 			<div class="row">
@@ -370,16 +370,16 @@
 					<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
 					Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span>
 					<br><br>
-					&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+					&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
 					<br>
 					<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 					<br><br>
 					</div>
 				</div>
-					LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.				
+					LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.
 					<br/><br/>
 					<div itemscope itemtype="http://schema.org/CreativeWork">
-						<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
+						<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>
 						<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
 					</div>
 					<br/><br/>
@@ -396,6 +396,6 @@
 	<script>
 		$(function() {
 			$('.each-plus-minus').matchHeight();
-		});	
+		});
 	</script>
 </html>

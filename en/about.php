@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="LOGIQUE is the No.1 web developer in Indonesia. We are expertised in website creation, web-system development, digital marketing, SEO, and much more. We offer a wide range of web and design related services, from website creation / system development, WEB marketing, mobile application development, SNS operation, pamphlets and other printed materials.">
+    <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia is a web developer company from Japan, has been trusted by local and international clients. The excellent Web Developer / Design, Mobile App, Digital Marketing in Jakarta. Our experienced team provides you the best solution to grow your business. Contact us now.">
 	<meta name="keywords" content="website creation, onstruction web, internet marketing, SEO, maintenance, mobile application, design, pamphlet">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="The best website developer / designer in Jakarta | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Web Developer, Mobile App, Digital Marketing Jakarta | LOGIQUE DIGITAL INDONESIA">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/about.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUE is the No.1 web developer in Indonesia. We are expertised in website creation, web-system development, digital marketing, SEO, and much more. We offer a wide range of web and design related services, from website creation / system development, WEB marketing, mobile application development, SNS operation, pamphlets and other printed materials.">
+	<meta property="og:description" content="LOGIQUE Digital Indonesia is a web developer company from Japan, has been trusted by local and international clients. The excellent Web Developer / Design, Mobile App, Digital Marketing in Jakarta. Our experienced team provides you the best solution to grow your business. Contact us now.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>The best website developer / designer in Jakarta | LOGIQUE Digital Indonesia</title>
+    <title>Web Developer, Mobile App, Digital Marketing Jakarta | LOGIQUE DIGITAL INDONESIA</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -59,6 +59,12 @@
 							<a href="services.php">
 								<div class="img-services"></div>
 								Services
+							</a>
+						</div>
+            <div class="text-center">
+							<a href="product.php">
+								<div class="img-product"></div>
+								Product
 							</a>
 						</div>
 						<div class="text-center">

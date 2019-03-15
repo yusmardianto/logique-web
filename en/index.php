@@ -4,16 +4,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="If you are seeking for a web developer to build websites, system development, web marketing, mobile application development, social media, pamphlets etc, please leave it to LOGIQUE Digital Indonesia, the No.1 website / web developer in Indonesia.">
+    <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia is the top in-house Web Developer / Design, Digital Marketing, & IT Consultant in Jakarta. Experienced in growing local and international business across ASEAN, especially Indonesia and Japan, by creating high quality websites, systems, and development in the digital world.">
 	<meta name="keywords" content="website creation, web-system development, internet marketing, SEO, designing, pamphlet, mobile application">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="The best website / web-system developer in Jakarta | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Web Developer / Design, Digital Marketing, IT Consultant | LOGIQUE DIGITAL INDONESIA">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://logique.co.id/en">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="If you are seeking for a web developer to build websites, system development, web marketing, mobile application development, social media, pamphlets etc, please leave it to LOGIQUE Digital Indonesia, the No.1 website / web developer in Indonesia.">
+	<meta property="og:description" content="LOGIQUE Digital Indonesia is the top in-house Web Developer / Design, Digital Marketing, & IT Consultant in Jakarta. Experienced in growing local and international business across ASEAN, especially Indonesia and Japan, by creating high quality websites, systems, and development in the digital world.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
 	<!-- Facebook Pixel Code -->
     <script>
@@ -42,24 +42,24 @@
 	ga('send', 'pageview');
 
 	</script>
-    <title>The best website / web-system developer in Jakarta | LOGIQUE Digital Indonesia</title>
+    <title>Web Developer / Design, Digital Marketing, IT Consultant | LOGIQUE DIGITAL INDONESIA</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
-	
+
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    
+
     </head>
 	<body>
 		<div class="wrapper o-wrapper top-only">
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 
 			<div class="collapse navbar-collapse" id="myNavbar">
@@ -90,6 +90,12 @@
 								Services
 							</a>
 						</div>
+            <div class="text-center">
+							<a href="product.php">
+								<div class="img-product"></div>
+								Product
+							</a>
+						</div>
 						<div class="text-center">
 							<a href="joinus.php">
 								<div class="img-career"></div>
@@ -112,7 +118,7 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
@@ -129,7 +135,7 @@
 				<div class="row">
 					<div class="col-sm-12">
 						<div class="title-container visible-xs">
-						<br/>							
+						<br/>
 							<div id="myCarousel2" class="carousel slide carousel-home-new" data-interval="false">
 							  <div class="carousel-inner">
 								<div class="item active">
@@ -246,12 +252,12 @@
 								<span class="sr-only">Next</span>
 							  </a>
 							</div>
-							
+
 						</div>
 					</div>
 				</div>
 			</div>
-			
+
 			<div class="contain-video">
 				<video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop style="display:block!important">
 					<source src="../img/12377093.mp4" type="video/mp4">
@@ -260,9 +266,9 @@
 			<div class="bg-white-opacity"></div>
 			<div id="bgImg" style="height: auto;">
 				<div class="img">
-				
+
 					<div class="title-container hidden-xs">
-					
+
 						<div id="myCarousel" class="carousel slide carousel-home-new" data-interval="false">
 						  <div class="carousel-inner">
 							<div class="item active">
@@ -387,18 +393,18 @@
 							<span class="sr-only">Next</span>
 						  </a>
 						</div>
-						
+
 					</div>
-					
+
 				</div>
 			</div>
-			
+
 			<br/>
 			<?php include 'footer.php';?>
-		</div>	
+		</div>
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script src="../js/bootstrap.min.js"></script>
-		<script src="../js/slick.min.js"></script>		
+		<script src="../js/slick.min.js"></script>
 		<script type="application/ld+json">
 			{
 			  "@context": "http://schema.org",

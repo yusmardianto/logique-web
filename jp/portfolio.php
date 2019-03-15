@@ -602,44 +602,290 @@
 							<span class="characteristic-title">システム開発実績</span>
 							<div class="row">
 								<div class="col-sm-4">
-									<a href="#" target="_blank" class="text-center" style="display: block;">
+									 
 										<div class="img-thumbnail">
 											<img src="/img/logo-jba.jpg" class="img-responsive center-block"  >
 										</div>
 										<h3>JBA </h3>
-									</a>
+									 
 									<div class="addition-desc text-left">
 										<div class=" ">モバイルアプリ開発 (検品＆品質スコアリングシステム).</div>
 										<small class="text-muted">4months, Android, node.js, JAVA, AWS  </small>
 									</div>
 								</div>
 								<div class="col-sm-4">
-									<a href="#" target="_blank" class="text-center" style="display: block;">
+									 
 										<div class="img-thumbnail">
 											<img src="/img/logo-sinarmasland.jpg" class="img-responsive center-block"  >
 										</div>
 										<h3>PT. Sinarmas Land</h3>
-									</a>
+									 
 									<div class="addition-desc text-left">
 										<div class=" ">金融機関向け採用管理システムの構築.</div>
 										<small class="text-muted">3months, PHP Framework, HTML5/CSS3,MySQL </small>
 									</div>
 								</div>
 								<div class="col-sm-4">
-									<a href="#" target="_blank" class="text-center" style="display: block;">
+								 
 										<div class="img-thumbnail">
 											<img src="/img/logo-zuttoride.jpg" class="img-responsive center-block"  >
 										</div>
 										<h3>Zuttoride Indonesia</h3>
-									</a>
+									 
 									<div class="addition-desc text-left">
 										<div class=" ">ロードサービス事業者向けWEB-CRMシステム開発.</div>
 										<small class="text-muted">3months, PHP Framework, Payment Gateway, AWS </small>
 									</div>
 								</div>
 							</div>
+							<div class="webapplist-container panel-collapse collapse" id="hide-webapplist" >
+								<ul class="circle-list">
+							<li>
+								会員向けポイント管理＆交換システム構築.<br>
+								<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework | <a data-toggle="modal" data-target="#pop1" href="#">See More</a></small>
+							</li>
+							<!-- modal 1 -->
+							<div id="pop1" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>会員向けポイント管理＆交換システム構築.</h4><hr>
+							        <p>ポイント付与＆交換をキーとしたE-Commerceを構築。マルチドメインで複数店舗を管理可能な高機能基幹システムをスクラッチ開発。クライアント企業の従業員を対象に付与されたポイントを管理、E-Commerceから利用できるクライアント用サブシステム、サプライヤー向けサブシステム、クライアント企業の管理を行うサブシステムなどからなるシステムを構築。<br><br> E-Commerce、決済、在庫管理、配送管理、承認ワークフロー、マルチドメイン。約6ヶ月かけてLAMP環境にてスクラッチ開発を行った。24時間止められないシステムであるためAWSにて冗長性の高い構成を組んでいる。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								マルチレベルE-Commerceシステム開発.<br>
+								<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework | <a data-toggle="modal" data-target="#pop2" href="#">See More</a></small>
+							</li>
+							<!-- modal 2 -->
+							<div id="pop2" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>マルチレベルE-Commerceシステム開発.</h4><hr>
+							        <p>マルチレベルマーケティング会社が代理店経由の販売をコントロール可能なE-Commerceシステムの開発。Admin向け管理、ディストリビュータ管理、顧客管理の３つのモジュールでなる大規模ECサイトの構築。E-Commerce、決済（Virtualアカウント、クレジットカード）、商品在庫管理、請求管理、など複雑なシステムであったが約6ヶ月で開発した。.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								自動車＆バイクオークションマネジメント基幹システム構築.<br>
+								<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework, Node.js  | <a data-toggle="modal" data-target="#pop3" href="#">See More</a></small>
+							</li>
+							<!-- modal 3 -->
+							<div id="pop3" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>自動車＆バイクオークションマネジメント基幹システム構築.</h4><hr>
+							        <p>オークション業務の基幹システムを構築。オークションコンダクターから在庫管理、オンラインオークションまで様々なシステムを開発＆統合してきた。ユーザーはWEBサイトからオークションに出品される車両情報を閲覧することができ、オンサイトでもオンラインでもオークション入札が可能。在庫管理や検品＆グレード管理、オークション、請求管理などが複雑に関連している、またトラフィックも多いことから難易度の高いシステムであるが、安定稼働を実現している。.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								モバイルアプリ開発（オークション入札アンドロイドアプリ）.<br>
+								<small class="text-muted">2months, Android, node.js, JAVA, AWS | <a data-toggle="modal" data-target="#pop4" href="#">See More</a></small>
+							</li>
+							<!-- modal 4 -->
+							<div id="pop4" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>モバイルアプリ開発（オークション入札アンドロイドアプリ）.</h4><hr>
+							        <p>車オークション会社向けにAndroidのオークション入札モバイルアプリの開発を行った。約600ユーザーが同時接続＆入札するシステムなので高いRealtime性とセキュリティ堅牢性、シンプルで使いやすいUIなどが求められたが、node.jsによる開発で実現した。ユーザー特定や請求情報など周辺機能との繋ぎ込み開発も。AWSサーバーの構成デザインやハイパフォーマンスなAPIの開発なども含めて全て開発し、安定稼働している.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								モバイルアプリ開発（検品＆品質スコアリングシステム）.<br>
+								<small class="text-muted">4months, Android, node.js, JAVA, AWS | <a data-toggle="modal" data-target="#pop5" href="#">See More</a></small>
+							</li>
+							<!-- modal 5 -->
+							<div id="pop5" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>モバイルアプリ開発（検品＆品質スコアリングシステム）.</h4><hr>
+							        <p>900もの検査項目を網羅して、検査受け入れ/スコアリングを検査官の熟練度に依存せず業務可能にするモAndroidモバイル・アプリケーションを開発した。車、バイクごとに検査アプリを開発、複数の車のタイプに対応している（検査項目が異なる）。入力された検査結果に応じて自動で該当車両のスコアリングを行い、検査証を印刷することを実現した。検査質問項目数はかなり多いが、中程度のスペックのスマホで十分にサクサク動くように軽量化に努めた。バックエンドとの連携APIなども全て開発。.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								ロードサービス事業者向けWEB-CRMシステム開発.<br>
+								<small class="text-muted">3months, PHP Framework, Payment Gateway, AWS | <a data-toggle="modal" data-target="#pop6" href="#">See More</a></small>
+							</li>
+							<!-- modal 6 -->
+							<div id="pop6" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>ロードサービス事業者向けWEB-CRMシステム開発.</h4><hr>
+							        <p>バイクのロードサービス、バイク保険の会員向けCRMシステムを開発・運用している。会員に会員証を発行するところから、会員自身がWEBから更新し、決済を行えるところまでシステム化。インドネシアの有力な決済代行システムと接続した。長期間に渡って機能追加、システム改善を継続している。AWSサーバーで運用.</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								バイヤーズMypage機能の開発、CRMシステム開発.<br>
+								<small class="text-muted">2months, PHP Framework, MySQL, AWS | <a data-toggle="modal" data-target="#pop7" href="#">See More</a></small>
+							</li>
+							<!-- modal 7 -->
+							<div id="pop7" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>バイヤーズMypage機能の開発、CRMシステム開発.</h4><hr>
+							        <p>オークションに参加するバイヤーにRewardポイントを付与している。このポイントを管理、特典に交換すること等ができるマイページ機能を開発。これに合わせ、ログイン後、参加したオークション履歴や請求情報も確認できるように実装した。LAMP環境でシステム構築を行った。付与されるポイントなどは基幹システム連携し動的にデータ連携される。短期間で不具合のないシステムの開発に成功した。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								出版社向け広告台割管理システム.<br>
+								<small class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop8" href="#">See More</a></small>
+							</li>
+							<!-- modal 8 -->
+							<div id="pop8" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>出版社向け広告台割管理システム.</h4><hr>
+							        <p>東南アジア一帯で、またハワイで、フリーペーパーを発行する出版社向けに、コンテンツ（特に広告コンテンツ）の台割管理システムを構築した。他システムから広告契約一覧データを取り込む。それをドラッグ＆ドロップで各ページのレイアウトに視覚的に配置し、漏れや重複がないように容易に管理することを可能にした。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								中古車マーケットプレイス構築、ディーラー向けアプリ開発、など.<br>
+								<small class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop9" href="#">See More</a></small>
+							</li>
+							<!-- modal 9 -->
+							<div id="pop9" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>中古車マーケットプレイス構築、ディーラー向けアプリ開発、など.</h4><hr>
+							        <p>中古車ディーラーと購入者をマッチングする中古車マーケットプレイスの構築を3ヶ月で行い。その後、プレミアムディーラー機能、ディーラー向け管理モバイル・アプリケーションなど、様々な追加機能を開発＆運用している。毎日3万を超えるユーザーに使われているサービスだが適切に負荷分散・冗長化されたAWSで運用していて安定稼働を実現している。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								デジタルマップシステム開発.<br>
+								<small class="text-muted">3 months, PHP Framework, MySQL, Google map API, Java Script | <a data-toggle="modal" data-target="#pop10" href="#">See More</a></small>
+							</li>
+							<!-- modal 10 -->
+							<div id="pop10" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>デジタルマップシステム開発.</h4><hr>
+							        <p>デジタルマップを開発。ASEANの9カ国の地図上に各地でのインフラ開発プロジェクトをマッピング、検索やフィルターをかけて地図上でプロジェクト状況を確認できるようにした。Google mapを活用。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								C2C自動車オークションシステム開発.<br>
+								<small class="text-muted">2 months, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 | <a data-toggle="modal" data-target="#pop11" href="#">See More</a></small>
+							</li>
+							<!-- modal 11 -->
+							<div id="pop11" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>C2C自動車オークションシステム開発.</h4><hr>
+							        <p>自動車のC2Cオークション事業を行うスタートアップのシステム・モバイルアプリを短期集中開発。Ajail型でスピード開発に成功。ロゴの制作から基幹システム構築までトータルにサポート。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								公共団体向けセキュアなCMS開発.<br>
+								<small class="text-muted">2 months, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop12" href="#">See More</a></small>
+							</li>
+							<!-- modal 12 -->
+							<div id="pop12" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>公共団体向けセキュアなCMS開発.</h4><hr>
+							        <p>公共団体向けにセキュアなCMSの構築。インドネシアの公共団体がセキュアなCMSを構築する必要があった。管理ユーザー数が多いため、ユーザー管理や権限管理に工夫を凝らし、セキュリティ脆弱性を潰したシステムを構築した。再構築前はWordpress上で動いていたが、Laravelフレームワークを使いスクラッチ開発を行った。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+
+							<li>
+								デジタルBook販売WEBサービス向けCMS構築.<br>
+								<small class="text-muted">2months, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop13" href="#">See More</a></small>
+							</li>
+							<!-- modal 13 -->
+							<div id="pop13" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>デジタルBook販売WEBサービス向けCMS構築.</h4><hr>
+							        <p>インドネシアでE-Book販売をしている会社のオンラインBook販売サイトのCMSを構築した。販売商品の管理＆更新が容易になり販売数の向上に寄与した。キャンペーンページのデザイン制作とCMSへのインテグレーションなども複数回行った。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								求人・求職マッチングポータルWEBの構築.<br>
+								<small class="text-muted">2 months, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop14" href="#">See More</a></small>
+							</li>
+							<!-- modal 14 -->
+							<div id="pop14" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>求人・求職マッチングポータルWEBの構築.</h4><hr>
+							        <p>人材紹介会社向けにJOBポータルWEBの構築をした。求人情報を掲載し、求職者からの応募を受け付けるWEBサイト。求職者はWEBサイトに会員登録することで直接該当ポジションに応募することができる。PHPフレームワークでスクラッチ開発した。開発期間は約3ヶ月。デザインから構築まで全てを行った。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<li>
+								金融機関向け採用管理システムの構築.<br>
+								<small class="text-muted">3months, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop15" href="#">See More</a></small>
+							</li>
+							<!-- modal 15 -->
+							<div id="pop15" class="modal fade" role="dialog">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-body">
+							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+							      	<h4>金融機関向け採用管理システムの構築.</h4><hr>
+							        <p>金融機関向けに採用管理WEBシステムを構築した。採用サイトの制作に合わせ、バックエンドで面談管理や承認フローを管理するシステムを構築した。納品前に外部のセキュリティ診断会社と協業し、セキュリティ脆弱性検査を行うなど個人情報を扱う金融機関のセキュリティ基準に見合うシステムを構築した。PHPフレームワークを使いスクラッチ開発で、約3ヶ月間。</p>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+						</ul> 
+						<br>
+							</div>
 							<center>
-								<a href="#" class="btn btn-more-portfolio custom-btn-contact">
+								<a class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse" href="#hide-webapplist" >
 								Web・ITシステム開発実績をもっとみる</a>
 							</center>
 						</div>
@@ -649,7 +895,36 @@
 						 
 						<div class="casestudy-container  page-part-container">
 							<div class="characteristic-title">Case Study</div>
-							<div class="row">
+
+							 <div class="studi-kasus">
+					              <div>
+					                <a href="/en/case-study/jba-auction-system/" target="_blank">
+					                  <img src="../img/case-study-jba-auction-system.jpg" alt="JBA Auction System">
+					                </a>
+					              </div>
+					              <div>
+					                <a href="/en/case-study/caroline-bidding-system/" target="_blank">
+					                  <img src="../img/case-study-caroline-bidding-system.jpg" alt="Carolline Bidding System">
+					                </a>
+					              </div>
+					              <div>
+					                <a href="/en/case-study/opuspark/" target="_blank">
+					                  <img src="../img/case-study-opus-park.jpg" alt="Opus Park">
+					                </a>
+					              </div>
+					              <div>
+					                <a href="/en/case-study/vip-plaza-progressive-web-app/" target="_blank">
+					                  <img src="../img/case-study-vip-plaza.jpg" alt="VIP Plaza">
+					                </a>
+					              </div>
+					              <div>
+					                <a href="/en/case-study/zuttoride-customer-management-system/" target="_blank">
+					                  <img src="../img/case-study-zuttoride.jpg" alt="ZuttoRide">
+					                </a>
+					              </div>
+					            </div>
+					            <?php /*
+							<div class="row" style="display: none;">
 								<div class="col-sm-4">
 									<a href="../case-study/opuspark/" class="casestudy-item" target="_blank">opus park</a>
 								</div>
@@ -660,7 +935,7 @@
 									<a href="../case-study/vip-plaza-progressive-web-app/" class="casestudy-item"  target="_blank">VIP Plaza</a>
 								</div>
 							</div>
-							<div class="row">
+							<div class="row"  style="display: none;">
 								<div class="col-sm-4 col-md-offset-2">
 									<a href="../case-study/zuttoride-customer-management-system/" class="casestudy-item"  target="_blank">Zuttoride</a>
 								</div>
@@ -668,7 +943,7 @@
 									<a href="../case-study/caroline-bidding-system/" class="casestudy-item"  target="_blank">Caroline </a>
 								</div>
 
-							</div>
+							</div>*/ ?>
 						 
 						</div>
 						 
@@ -739,15 +1014,24 @@
 							<div class="row text-center">
 								<div class="col-sm-4">
 									<img src="/img/portfolio/opus-park-facebook.png" class="img-responsive center-block">
-									Opus Park (Facebook)
+									Opus Park (Facebook)<br>
+									<div class="addition-desc text-center">
+										<small class="text-muted">(Google Ads, FB/IG Ads, SNS Operation, SEO Website)</small>
+									</div>
 								</div>
 								<div class="col-sm-4">
 									<img src="/img/portfolio/mason-de-res.jpg" class="img-responsive center-block">
 									Mason de Res - (Facebook)
+									<div class="addition-desc text-center">
+										<small class="text-muted">(Google Ads, SNS Operation, SEO Website, Articles)</small>
+									</div>
 								</div>
 								<div class="col-sm-4">
 									<img src="/img/portfolio/ajapan-sosmed.png" class="img-responsive center-block">
 									Ajapan Dance Instagram Competition - Waku Waku Japan
+									<div class="addition-desc text-center">
+										<small class="text-muted">(IG Ads, SNS Operation)</small>
+									</div>
 								</div>
 								
 								

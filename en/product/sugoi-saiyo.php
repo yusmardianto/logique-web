@@ -1,4 +1,4 @@
-﻿ <?php 
+﻿ <?php
 require_once("form/fgcontact_sugoi.php");
 
 $formproc = new FGContactForm();
@@ -40,13 +40,21 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Sugoi Saiyo is a recruitment tool that makes recruitment simple and efficient for both human resources staff and job applicants.">
+    <meta name="description" content="SugoiSaiyo, efficient and effective recruitment management system for HR, created by LOGIQUE Digital Indonesia to help you recruit, select, and score the perfect candidates based on your company needs, with less time and less energy. Contact us to try now.">
 	<meta name="keywords" content="recruitment, human resources, recruitment online, recruitment process, tool hire, employment services,
 staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Efficient Recruitment in Indonesia | SugoiSaiyo | LOGIQUE DIGITAL INDONESIA</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
+  <meta itemprop="name" content="PT. Logique Digital Indonesia">
+	<meta property="og:title" content="Recruitment Management System | Online Recruitment Tool | LOGIQUE Digital Indonesia">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:url" content="https://www.logique.co.id/en/product/sugoi-saiyo.php">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:description" content="SugoiSaiyo, efficient and effective recruitment management system for HR, created by LOGIQUE Digital Indonesia to help you recruit, select, and score the perfect candidates based on your company needs, with less time and less energy. Contact us to try now.">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <title>Recruitment Management System | Online Recruitment Tool | LOGIQUE Digital Indonesia</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style_sugoisaiyo.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
@@ -74,7 +82,7 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 						</ul>
 					</div>
 					<div class="col-md-offset-1 col-md-10">
-						<img src="img/sugoi-saiyo/logo.png" alt="Sugoi Saiyo Logo" class="img-responsive center-block"> 
+						<img src="img/sugoi-saiyo/logo.png" alt="Sugoi Saiyo Logo" class="img-responsive center-block">
 						<h1>Employee Recruitment System</h1>
 						<div class="text-center desc-first">
 							Are you tired of sifting through too many CV’s and communicating with too many unqualified job seekers? Now, you do not have to be anymore. With SUGOI SAIYO, the <b>recruitment process</b> can be done as efficient as selecting the best food from the menu.
@@ -403,7 +411,7 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 					<?php if(isset($msg))
 					{
 					echo $msg;
-					} 
+					}
 					?>
 					<form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
 						<input type='hidden' name='submitted' id='submitted' value='1'/>
@@ -463,12 +471,12 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 				</div>
 			</div>
 		</footer>
-		
+
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script src="/js/bootstrap.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
-		<script type="text/javascript">			
+		<script type="text/javascript">
 			$(function() {
 				$('.smooth').click(function() {
 				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {

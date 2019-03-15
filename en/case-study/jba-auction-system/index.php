@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" itemprop="description" content="JBA Indonesia is a company engaged in large scale auction and headquartered in Japan. This company specifically auctioned various automotive products, such as cars and motorbikes.">
+  <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia assisted JBA Indonesia in automotive, motorcycle and car, auction system development and creation, also mobile app development with a very complex and latest technology of web. Learn the case study here.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Case Study - JBA Auction System | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Auction System Development | Case Study | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="JBA Indonesia is a company engaged in large scale auction and headquartered in Japan. This company specifically auctioned various automotive products, such as cars and motorbikes.">
+	<meta property="og:description" content="LOGIQUE Digital Indonesia assisted JBA Indonesia in automotive, motorcycle and car, auction system development and creation, also mobile app development with a very complex and latest technology of web. Learn the case study here.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <script>
@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Case Study - JBA Auction System | LOGIQUE Digital Indonesia</title>
+  <title>Auction System Development | Case Study | LOGIQUE Digital Indonesia</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
@@ -89,6 +89,12 @@
 							<a href="/en/services.php">
 								<div class="img-services"></div>
 								Services
+							</a>
+						</div>
+            <div class="text-center">
+							<a href="/en/product.php">
+								<div class="img-product"></div>
+								Product
 							</a>
 						</div>
 						<div class="text-center">

@@ -1,4 +1,4 @@
-﻿ <?php 
+﻿ <?php
 require_once("form/fgcontactform.php");
 
 $formproc = new FGContactForm();
@@ -40,12 +40,17 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="We provide the best services and solutions in developing enterprise-scale or consumer-based mobile applications for iOS and Android smartphones/tablets.">
+    <meta name="description" content="LOGIQUE is the top mobile app developer in Jakarta, has been trusted to develop the highly responsive mobile app, Android and iOS, with native / hybrid app and PWA builder for enterprise clients. We develop apps, strategic plan, design, QA, user testing, etc. Contact us to create yours now.">
 	<meta name="keywords" content="jasa pengembangan aplikasi mobile, jasa pengembangan mobile app, jasa pembuatan aplikasi mobile, pengembangan aplikasi mobile">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Mobile Application Development | Logique Digital Indonesia</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
+  <meta property="og:title" content="Mobile App Developer | Native / Hybrid App, PWA Builder Jakarta | LOGIQUE DIGITAL INDONESIA">
+  <meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+  <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+  <meta property="og:description" content="LOGIQUE is the top mobile app developer in Jakarta, has been trusted to develop the highly responsive mobile app, Android and iOS, with native / hybrid app and PWA builder for enterprise clients. We develop apps, strategic plan, design, QA, user testing, etc. Contact us to create yours now.">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <title>Mobile App Developer | Native / Hybrid App, PWA Builder Jakarta | LOGIQUE DIGITAL INDONESIA</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -74,7 +79,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-7">
 						<br/><br/><br/>
 						<h1>TRUST YOUR <span class="yellow">MOBILE APPLICATION (Android | iOS | Hybrid)</span> DEVELOPMENT FUTURE IN <span class="yellow">LOGIQUE</span></h1>
-						<p>	
+						<p>
 						We provide the best services and solutions in developing enterprise-scale or consumer-based mobile applications for iOS and Android smartphones/tablets.
 						</p>
 						<div class="visible-md visible-lg"><br/><br/><br/><br/><br/><br/><br/><br/><br/></div>
@@ -325,7 +330,7 @@ if(isset($_POST['submitted']))
 						<p>
 							At the beginning of the project, we will discuss with you and ensure that all the needs of the company, service, or user have entered the scope of the application. We will provide the concept in a form of a wireframe draft as the final result.
 						</p>
-					</div>	
+					</div>
 					<div class="col-md-5ths">
 						<div class="contain-img">
 							<img class="img-responsive center-block" src="img/cara-kerja2.png" alt="Desain"/>
@@ -359,7 +364,7 @@ if(isset($_POST['submitted']))
 							<div class="text-center title">Launch Application</div>
 						</div>
 						<p>
-							Congratulations! After all the processes have finished, your Android or iOS app is ready to launch on the App Store or Google Play Store. 
+							Congratulations! After all the processes have finished, your Android or iOS app is ready to launch on the App Store or Google Play Store.
 						</p>
 					</div>
 				</div>
@@ -376,7 +381,7 @@ if(isset($_POST['submitted']))
 						  <div><img src="img/frangipani.png" class="img-responsive center-block"/></div>
 						  <div><img src="img/otomart.png" class="img-responsive center-block"/></div>
 						  <div><img src="img/otomart.png" class="img-responsive center-block"/></div>
-						</div>		
+						</div>
 					</div>
 				</div>
 			</div>
@@ -390,7 +395,7 @@ if(isset($_POST['submitted']))
 						<?php if(isset($msg))
 						{
 						echo $msg;
-						} 
+						}
 						?>
 						<form id="contact-form-mobile"  class="contactform-mobile" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
 						<input type='hidden' name='submitted' id='submitted' value='1'/>
@@ -477,12 +482,12 @@ if(isset($_POST['submitted']))
 		<script src="/js/jquery.matchHeight.js"></script>
 		<script src="/js/slick.min.js"></script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
-		<script type="text/javascript">			
+		<script type="text/javascript">
 			$(function() {
 				$('.div-help').matchHeight();
 				$('.layanan-kami').matchHeight();
-			});	
-			
+			});
+
 			$('.portfolio-slider').slick({
 			  dots: true,
 			  infinite: true,

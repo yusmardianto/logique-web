@@ -39,34 +39,34 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="Please feel free to contact us and ask anything about website creation, web-system development, web-marketing, designing, mobile application development etc, in Indonesia.">
+    <meta name="description" itemprop="description" content="Grow and increase your business profit through digital with LOGIQUE Digital Indonesia, the top Web Developer / Design, Digital Maketing, & IT Consultant in Jakarta. Contact us to ask more about digital marketing in Indonesia and how we can help your business.">
 	<meta name="keywords" content="Inquiries, contact us, website creation, web-system development, web marketing, pamphlet, mobile application">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Inquiry about website / web-system and maintenance in Jakarta | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Contact about Digital Marketing Indonesia | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/contact.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Please feel free to contact us and ask anything about website creation, web-system development, web-marketing, designing, mobile application development etc, in Indonesia.">
+	<meta property="og:description" content="Grow and increase your business profit through digital with LOGIQUE Digital Indonesia, the top Web Developer / Design, Digital Maketing, & IT Consultant in Jakarta. Contact us to ask more about digital marketing in Indonesia and how we can help your business.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>Inquiry about website / web-system and maintenance in Jakarta | LOGIQUE Digital Indonesia</title>
+    <title>Contact about Digital Marketing Indonesia | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
-	
+
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    
+
     </head>
 	<body>
 		<div class="wrapper">
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 
 			<div class="collapse navbar-collapse" id="myNavbar">
@@ -97,6 +97,12 @@ if(isset($_POST['submitted']))
 								Services
 							</a>
 						</div>
+            <div class="text-center">
+							<a href="product.php">
+								<div class="img-product"></div>
+								Product
+							</a>
+						</div>
 						<div class="text-center">
 							<a href="joinus.php">
 								<div class="img-career"></div>
@@ -119,7 +125,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
 				<video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
@@ -127,7 +133,7 @@ if(isset($_POST['submitted']))
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
-			
+
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
@@ -142,14 +148,14 @@ if(isset($_POST['submitted']))
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Contact Us</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">Contact us and ask us anything about website creation, web system development, internet marketing, design, and other various things related in the digital world.</h1>							
+							<h1 class="tagline">Contact us and ask us anything about website creation, web system development, internet marketing, design, and other various things related in the digital world.</h1>
 						</div>
 					</div>
 				</div>
-			</div>			
-			
+			</div>
+
 			<br/>
-			
+
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="contact-title-copies"><span class="yellow">LOGIQUE DIGITAL INDONESIA</span> offers you solutions to your business difficulty in the digital world anytime, anywhere.</div>
@@ -183,8 +189,8 @@ if(isset($_POST['submitted']))
 					</div>
 					<img class="img-responsive kontak-img" src="../img/kontak-img.jpg" alt="Kontak Kami"/>
 					<div class="highlights-contact">If you’re aware that web is the key to your business success, we can help you.</div>
-					<div class="form-container">	
-					<br/>					
+					<div class="form-container">
+					<br/>
 						<!--<b>Before contacting us.</b><br/>
 						We are consist of Japanese and Indonesian team. You can contact us either in Indonesian, English, or Japanese.<br/>
 						Many customers ask us “How much does it cost to develop a website?“ That is a very difficult question.<br/>
@@ -208,7 +214,7 @@ if(isset($_POST['submitted']))
 									<div class="form-group">
 										<input type="text" class="form-control" id="companyname" name="companyname" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="COMPANY NAME">
 									</div>
-								</div> 
+								</div>
 								<div class="col-lg-6">
 									<div class="form-group">
 										<input type="text" class="form-control" id="name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAME">
@@ -229,7 +235,7 @@ if(isset($_POST['submitted']))
 								<div class="col-lg-12">
 									<b>Inquiry item:</b>  <i>(Multiple answers allowed)</i>
 								</div>
-								<div class="clearfix"></div>  
+								<div class="clearfix"></div>
 								<div class="col-lg-5">
 									<div class="checkbox">
 									  <label><input type="checkbox" name="inquiry[]" value="About website creation">About website creation</label>
@@ -333,7 +339,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="clearfix"></div>
 						</div>
-					<!--<div class="form-container">	
+					<!--<div class="form-container">
 						<br/>
 						<span class="characteristic-title">Inquiry example</span><br/><br/>
 						<ul class="joinus-ul">
@@ -353,7 +359,7 @@ if(isset($_POST['submitted']))
 							<li>We are looking for a company that can design company profile or other printings for exhibition.</li>
 						</ul>
 					</div>-->
-						
+
 						<br/><br class="hidden-xs"/><div class="label-questions">Frequently asked questions:</div>
 						<h3 style=" line-height: 1; padding: 15px 0 20px;">Contact us and ask us anything about website creation, web system development, internet marketing, design, and other various things related in the digital world.</h3>
 						<div class="question">Is it possible for you to proceed the project communicating in English?</div>
@@ -370,13 +376,13 @@ if(isset($_POST['submitted']))
 
 						<div class="question">We want to have a partnership / distributor contract with LOGIQUE.</div>
 						<div class="answer">Let us talk about it with you in detail. Please feel free to visit our office if your planning any trips to Jakarta.</div><br/>
-						
+
 						<div class="question">We want to build an mobile application.</div>
 						<div class="answer">We are capable of developing both Android and iOS applications for you. We will conduct planning of the mobile application as well if you would like us to.</div><br/>
-						
+
 						<div class="question">We would like to print a marketing tool but are you providing printing service other than designing?</div>
 						<div class="answer">We can of course both design and print pamphlets. And we are also able to design and print other products such as T-shirts. In case you need to print something extremely difficult, you might better look for other company. We can also introduce you to the companies that we know if you would like us to.</div><br/>
-						
+
 						<div class="question">Are you capable of implementing SEO in Indonesian language?</div>
 						<div class="answer">Yes. We have proved our SEO skills showing various website on the upper ranks in many industries such as finance, travel, education, etc. Our team that consist of Indonesian contents writers and Indonesian marketer will provide you the best result in SEO. We are also able to implement SEO in English and Japanese as well.</div><br/>
 					</div>
@@ -385,7 +391,7 @@ if(isset($_POST['submitted']))
 					</div>
 				</div>
 			</div>
-			
+
 			<?php include 'footer.php';?>
 			<script>
 			$(function() {

@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" itemprop="description" content="Caroline is a part of PT Triputra Group which is engaged in various industries such as agribusiness, manufacturing, and mining.">
+  <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia in collaboration with Caroline. We assisted in car trading system development with online bidding system. In a short time, we developed a high quality car selling site center, easy to use by users. Learn the case study here.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Case Study - Caroline, Cars Selling Site with Online Bidding System | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Car Trading System Development | Case Study | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/case-study/caroline-bidding-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Caroline is a part of PT Triputra Group which is engaged in various industries such as agribusiness, manufacturing, and mining.">
+	<meta property="og:description" content="LOGIQUE Digital Indonesia in collaboration with Caroline. We assisted in car trading system development with online bidding system. In a short time, we developed a high quality car selling site center, easy to use by users. Learn the case study here.">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -25,7 +25,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Case Study - Caroline, Cars Selling Site with Online Bidding System | LOGIQUE Digital Indonesia</title>
+  <title>Car Trading System Development | Case Study | LOGIQUE Digital Indonesia</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
@@ -88,6 +88,12 @@
 							<a href="/en/services.php">
 								<div class="img-services"></div>
 								Services
+							</a>
+						</div>
+            <div class="text-center">
+							<a href="/en/product.php">
+								<div class="img-product"></div>
+								Product
 							</a>
 						</div>
 						<div class="text-center">
