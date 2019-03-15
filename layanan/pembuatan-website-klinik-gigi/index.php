@@ -74,26 +74,241 @@ ga('send', 'pageview');
 		<div class="wrapper">
 			<header class="head-banner">
 				<div class="container">
-					<div class="logo-logique">
-						<a href="https://www.logique.co.id/"><img src="images/logo_logique.png" alt="" class="img-responsive"></a>
-					</div>
-					<div class="banner-text text-center">
-						<h1 class="text-center avenirblack-text">
-							<span>Desain <span class="yel">Website</span> Menarik</span> <br>
-							<span>dan Pemasaran Efektif</span><br>
-							<span>untuk <span class="yel">Klinik Gigi</span></span>
-
-						</h1>
-				 
+					<div class="row">
+						<div class="col-md-7 col-sm-7 text-center">
+							<div class="text-box">
+								<div class="text-quote">
+								“Jumlah pasien klinik gigi kami meningkat 30% setiap bulannya setelah kami memiliki website.”
+								</div>
+								<p class="text-p">
+								Di era digital, ada banyak orang yang mencari klinik gigi yang terbaik melalui Internet. Oleh sebab itu, penting bagi klinik gigi dalam memiliki website berkualitas untuk memperoleh serta menjangkau pasien secara luas dan efektif.
+								</p>
+							</div>
+							<a href="#contact-form" class="btn btn-consult">Konsultasi Gratis Sekarang ! <img src="images/new/i-btn.png" alt="ring icon"></a>
+						</div>
+						<div class="col-md-5 col-sm-5">
+							<img src="images/new/drg.png" alt="dokter gigi" class="drg">
+						</div>
 					</div>
 				</div>
 			<div class="arraw-down text-center">
-				<a href="#masalah"><img src="images/arrowdown.png"></a>
+				<a href="#poin"><img src="images/new/arrow.png"></a>
 			</div>	
 			</header>
+
+			<section class="poin-penting" id="poin">
+				<div class="container">
+					<h1 class="s-title">Apa pentingnya website pribadi bagi klinik gigi?</h1>
+					<div class="row">
+						<div class="col-md-4 col-md-offset-1 col-sm-8">
+							<p>
+							Dengan memiliki website pribadi, Anda dapat memperkenalkan produk dan jasa klinik gigi Anda dengan tampilan yang unik dan berkarakter. Berbeda dengan menggunakan portal kesehatan atau media sosial, Anda dapat memilliki tampilan website yang berbeda dengan yang lain sehingga membuat para pengunjung yang juga pasien potensial tertarik mengunjungi klinik gigi Anda. 
+							Anda juga dapat meningkatkan jumlah pengunjung website melalui Search Engine Optimalization (SEO) jika menggunakan website sendiri. Selain itu, website Anda dapat memberikan informasi kepada pengunjung setiap saat tentang produk atau jasa yang klinik Anda tawarkan. Melalui website pribadi, Anda juga menciptakan brand yang mendorong kredibilitas klinik Anda melesat naik.
+							</p>
+							<ol>
+								<li>Membuat pengunjung tertarik dengan klinik gigi Anda dengan tampilan website yang unik dan berbeda.</li>
+								<li>Mendorong jumlah pengunjung website melalui Search Engine Optimalization (SEO).</li>
+								<li>Memberikan informasi kepada pengunjung setiap saat tentang produk atau jasa klinik.</li>
+								<li>Menciptakan brand yang mendorong kredibilitas klinik Anda.</li>
+							</ol>
+						</div>
+						<div class="col-md-5">
+							<div class="stats">
+								<div class="clearfix">
+									<img src="images/new/i-d1.png" alt="diagram 1">
+									<ul>
+										<li>Cara Pasien Mencari Klinik Gigi:</li>
+										<li class="c1">Digital (Online)</li>
+										<li class="c2">Lokasi Terdekat</li>
+										<li class="c3">Rekomendasi</li>
+										<li class="c4">Lain-lain</li>
+									</ul>
+								</div>
+								<p>*Berdasarkan data yang dikumpulkan dari hasil survey 100 orang, kebanyakan orang mencari klinik gigi secara online karena dapat mengetahui lebih detil mengenai klinik gigi yang dicarinya.</p>
+							</div>
+							<div class="stats">
+								<div class="clearfix">
+									<img src="images/new/i-d2.png" alt="diagram 2">
+									<ul>
+										<li>Pencarian Secara Online:</li>
+										<li class="c1">Google Search</li>
+										<li class="c2">Media Social</li>
+										<li class="c3">Web Portal</li>
+										<li class="c4">Lain-lain</li>
+									</ul>
+								</div>
+								<p>*Pencarian melalui Google dinilai lebih efektif dalam mencari klinik gigi, selain mudah memperoleh data user juga dapat mengakses langsung ke website yang tertera di halaman utama pencarian.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="masalah-1">
+				<div class="container">
+					<h2 class="s-title">Masalah yang Sering Dihadapi dalam Memiliki Website</h2>
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<div class="row">
+								<div class="col-md-4 col-sm-4 clearfix">
+									<img src="images/new/i-problem1.png" alt="masalah klinik gigi">
+									<p>Tidak tahu bagaimana membuat website</p>
+								</div>
+								<div class="col-md-4 col-sm-4 clearfix">
+									<img src="images/new/i-problem2.png" alt="masalah klinik gigi">
+									<p>Tidak punya staff yang mengurus website</p>
+								</div>
+								<div class="col-md-4 col-sm-4 clearfix">
+									<img src="images/new/i-problem3.png" alt="masalah klinik gigi">
+									<p>Terlalu mahal untuk membuat dan mengembangkan website</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="solusi">
+				<div class="container">
+					<img src="images/new/solution.png" alt="solusi klinik gigi" class="img-responsive solusi-title">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<div class="row">
+								<div class="col-md-4 col-sm-4 clearfix">
+									<img src="images/new/i-solution1.png" alt="solusi klinik gigi">
+									<p>Sampaikan kepada kami website seperti apa yang diharapkan, dengan tim profesional kami akan membantu Anda mewujudkannya.</p>
+								</div>
+								<div class="col-md-4 col-sm-4 clearfix">
+									<img src="images/new/i-solution2.png" alt="solusi klinik gigi">
+									<p>Layanan yang kami berikan sudah termasuk pengelolaan, sehingga Anda dapat fokus lebih banyak pada bisnis klinik gigi Anda.</p>
+								</div>
+								<div class="col-md-4 col-sm-4 clearfix">
+									<img src="images/new/i-solution3.png" alt="solusi klinik gigi">
+									<p>Hanya dengan Rp500.000/bulan website klinik gigi Anda melakukan promosi mandiri 24/7.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="layanan">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<div class="row">
+								<div class="col-md-4 col-sm-4">
+									<div class="d-layanan l1">
+										<h2><img src="images/new/logo.png" alt="LOGIQUE" class="l-logo"> siap memberikan solusi untuk klinik gigi Anda!</h2>
+										<h3>Berikut <b>layanan solusi</b> yang kami tawarkan.</h3>
+									</div>
+								</div>
+								<div class="col-md-4 col-sm-4">
+									<div class="d-layanan l1">
+										<img src="images/new/i-service1.png" alt="layanan website klinik gigi" class="img-fluid">
+										<div class="l-title"><h4>SEO</h4></div>
+										<p>SEO memudahkan orang untuk menemukan website Anda di posisi teratas dalam pencarian Google sehingga klinik gigi Anda dapat lebih dikenal dengan mudah.</p>
+									</div>
+								</div>
+								<div class="col-md-4 col-sm-4">
+									<div class="d-layanan l1">
+										<img src="images/new/i-service2.png" alt="layanan website klinik gigi" class="img-fluid">
+										<div class="l-title"><h4>Mempermudah Pencarian Klinik</h4></div>
+										<p>Memudahkan pengguna dalam menemukan lokasi klinik gigi Anda ketika melakukan pencarian di Google. Dengan begitu, pasien potensial klinik gigi Anda akan bertambah.</p>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-4 col-sm-4">
+									<div class="d-layanan">
+										<img src="images/new/i-service3.png" alt="layanan website klinik gigi">
+										<div class="l-title"><h4>Terhubung dengan Social Media</h4></div>
+										<p>Orang-orang yang melihat akun sosial media Anda dapat dialihkan ke website klinik gigi Anda dengan menggunakan hyperlink. Di sana mereka dapat menemukan informasi klinik gigi Anda secara langsung dan terpusat.</p>
+									</div>
+								</div>
+								<div class="col-md-4 col-sm-4">
+									<div class="d-layanan">
+										<img src="images/new/i-service4.png" alt="layanan website klinik gigi">
+										<div class="l-title"><h4>Internet AD</h4></div>
+										<p>Website klinik gigi Anda dapat menjadi landing page atas segala aktivitas marketing, seperti online advertising.</p>
+									</div>
+								</div>
+								<div class="col-md-4 col-sm-4">
+									<div class="d-layanan">
+										<img src="images/new/i-service5.png" alt="layanan website klinik gigi">
+										<div class="l-title"><h4>Non-stop Effortless Marketing</h4></div>
+										<p>Website klinik gigi Anda akan menjalankan aktivitas promosi di dunia digital secara non-stop walaupun klinik Anda telah tutup.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="templates">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<h2 class="s-title">Kami Mempunyai Beberapa Template untuk Klinik Gigi</h2>
+							<div class="choose-template">
+							Pilih template yang terbaik bagi klinik gigi Anda, dan dalam seminggu Anda akan memiliki Website terbaik!
+							</div>
+							<div class="include-template">
+							Sudah termasuk Optimasi Website di Mobile dan SEO. Pengambilan Foto/Video, Pembuatan Konten Profesional sebagai layanan opsional.
+							</div>
+						</div>
+					</div>
+				
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<div class="row">
+								<div class="col-md-4 col-sm-4">
+									<a href="#" class="a-template">
+										<div class="img-template template1"></div>
+										<div class="a-caption">Template 1</div>
+									</a>
+									<p>Template 1 ini cocok untuk semua klinik gigi baik yang sudah memiliki beberapa klinik maupun juga bagi klinik gigi baru.</p>
+								</div>
+								<div class="col-md-4 col-sm-4">
+									<a href="#" class="a-template">
+										<div class="img-template template2"></div>
+										<div class="a-caption">Template 2</div>
+									</a>
+									<p>Template ini khusus untuk dental klinik yang mengkhususkan perawatan gigi bagi para wanita yang menjunjung kecantikan lewat keindahan gigi.</p>
+								</div>
+								<div class="col-md-4 col-sm-4">
+									<a href="#" class="a-template">
+										<div class="img-template template3"></div>
+										<div class="a-caption">Template 3</div>
+									</a>
+									<p>Template untuk Premium dental klinik ini dibuat dengan unsur biru dan gold untuk menggambarkan kesan mewah dan biru untuk kesehatan gigi.</p>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-4 col-sm-4">
+									<a href="#" class="a-template">
+										<div class="img-template template4"></div>
+										<div class="a-caption">Template 4</div>
+									</a>
+									<p>Template dental klinik khusus untuk Anda yang memiliki target market para Remaja. Dengan design yg unik dan kekinian.</p>
+								</div>
+								<div class="col-md-4 col-sm-4">
+									<a href="#" class="a-template">
+										<div class="img-template template5"></div>
+										<div class="a-caption">Template 5</div>
+									</a>
+									<p>Template ini special untuk anak kecil hingga bayi dengan warna cerah membuat target market tidak takut lagi untuk ke dokter gigi.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
 			<section id="masalah" class="masalah-section">
 				<div class="container">
-					<h2 class="text-center">Masalah <span class="white-text">yang sering dihadapi</span> Klinik Gigi</h2>
+					<h2 class="text-center">Masalah <span class="white-text">yang Sering Dihadapi</span> Klinik Gigi</h2>
 					<div class="tooth-cont">
 								<img src="images/tooth2.png" class="img-responsive">
 							</div>
@@ -104,20 +319,100 @@ ga('send', 'pageview');
 
 						<div class="problem-list col-md-5 col-sm-6">
 							<ul>
-								<li>Tidak mempunyai website yang bagus</li>
+								<li>Tidak mempunyai website yang berkualitas</li>
 								<li>Sulit mendapatkan pasien baru</li>
-								<li>Tingginya persaingan antar Klinik</li>
-								<li>Fasilitas Klinik kurang dikenal</li>
-								<li>Lokasi sulit ditemukan</li>
-								<li>Promosi melalui iklan, mahal</li>
-								<li>Pasien sulit menentukan janji konsultasi karena tidak tahu informasi jadwal praktek dokter</li>
+								<li>Tingginya persaingan antar klinik gigi</li>
+								<li>Fasilitas klinik yang kurang memadai</li>
+								<li>Lokasi yang sulit ditemukan</li>
+								<li>Promosi melalui iklan yang mahal dan tidak efektif</li>
+								<li>Pasien sulit membuat janji konsultasi karena tidak tahu informasi tentang jadwal praktek dokter</li>
 							</ul>
 						</div>
 					</div>
 
 				</div>
 			</section>
-			<section id="solution" class="solution-section">
+
+			<section class="biaya">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3">
+							<h2 class="s-title">Semua masalah diatas dapat diselesaikan melalui website berkualitas hanya dengan:</h2>
+							<div class="price-badge">
+								<img src="images/new/i-tag.png" alt="harga website klinik gigi"> RP. 500,000<sub>/bulan</sub>
+							</div>
+							<div class="row">
+								<div class="col-md-6 col-sm-6">
+									<h4>Biaya Awal :</h4>
+									<p><b>Rp3.000.000</b> dengan masa kontrak <b>minimal 6 bulan.</b> Sudah termasuk Web Server, Domain, dan SSL.</p>
+								</div>
+								<div class="col-md-6 col-sm-6">
+									<h4>Selama Masa Kontrak :</h4>
+									<p>Jumlah permintaan update: <b>Unlimited</b> Jaminan kerja web: <b>24 jam / 7 hari</b></p>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-10 col-md-offset-1">
+									<p>** Biaya awal dengan “Blog” adalah Rp5.000.000 <br>Biaya bulanan: Rp9.000.000</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="situs">
+				<div class="container">
+					<img src="images/new/tmp-banner.png" alt="banner" class="s-banner">
+					<h2 class="s-title">Ingin situs klinik anda lebih dikenal?</h2>
+					<div class="row">
+						<div class="col-md-2 col-md-offset-2 col-sm-3 col-xs-6">
+							<img src="images/new/i-situs1.png" alt="situs klinik gigi">
+							<h4>SNS Operation</h4>
+						</div>
+						<div class="col-md-2 col-sm-3 col-xs-6">
+							<img src="images/new/i-situs2.png" alt="situs klinik gigi">
+							<h4>Digital Marketing</h4>
+						</div>
+						<div class="col-md-2 col-sm-3 col-xs-6">
+							<img src="images/new/i-situs3.png" alt="situs klinik gigi">
+							<h4>CRM System</h4>
+						</div>
+						<div class="col-md-2 col-sm-3 col-xs-6">
+							<img src="images/new/i-situs4.png" alt="situs klinik gigi">
+							<h4>Mobile App</h4>
+						</div>
+					</div>
+					<span>Silahkan bertanya tentang informasi lebih lanjut. <a href="#contact-form">Klik disini</a></span>
+				</div>
+			</section>
+
+			<section class="langkah">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<h2 class="s-title">Langkah menuju sasaran</h2>
+							<img src="images/new/img-steps.png" alt="langkah mudah" class="img-responsive">
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="contact">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<div class="contact-info">
+								Tlp. Number dan Whatsappp <br>
+								<img src="images/new/i-phone.png" alt="phone"> <a href="tel:02122708935">(021) 2270 8935/36</a> <br class="visible-xs">
+								<img src="images/new/i-whatsapp.png" alt="wa"> <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo%20Logique">0811870321</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section id="solution" class="solution-section hidden">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-4">
@@ -196,7 +491,7 @@ ga('send', 'pageview');
 					</div>
 				</div>
 			</section>
-			<section id="priceandfeature" class="priceandfeature-section">
+			<section id="priceandfeature" class="priceandfeature-section hidden">
 				
 				<div class="priceandfeature-banner">
 					<div class="container">
@@ -240,7 +535,7 @@ ga('send', 'pageview');
 					</div>
 				</div>
 			</section>
-			<section id="plusfeature" class="plusfeature-section">
+			<section id="plusfeature" class="plusfeature-section hidden">
 				<div class="container">
 					<div class="plusfeature-cont">
 					<div class="section-title"><h2>Fitur Tambahan</h2></div>
@@ -254,7 +549,7 @@ ga('send', 'pageview');
 				</div>
 				</div>
 			</section>
-			<section id="contactbtn" class="contactbtn-section">
+			<section id="contactbtn" class="contactbtn-section hidden">
 				<div class="container text-center">
 					<div class="btn-container"><a class="btn contactbtn" href="https://www.logique.co.id/hubungi-kami.php" target="_blank"> Hubungi Kami </a></div>
 				</div>
