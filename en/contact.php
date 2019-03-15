@@ -39,17 +39,17 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="Please feel free to contact us and ask anything about website creation, web-system development, web-marketing, designing, mobile application development etc, in Indonesia.">
+    <meta name="description" itemprop="description" content="Grow and increase your business profit through digital with LOGIQUE Digital Indonesia, the top Web Developer / Design, Digital Maketing, & IT Consultant in Jakarta. Contact us to ask more about digital marketing in Indonesia and how we can help your business.">
 	<meta name="keywords" content="Inquiries, contact us, website creation, web-system development, web marketing, pamphlet, mobile application">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Inquiry about website / web-system and maintenance in Jakarta | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Contact about Digital Marketing Indonesia | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/contact.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Please feel free to contact us and ask anything about website creation, web-system development, web-marketing, designing, mobile application development etc, in Indonesia.">
+	<meta property="og:description" content="Grow and increase your business profit through digital with LOGIQUE Digital Indonesia, the top Web Developer / Design, Digital Maketing, & IT Consultant in Jakarta. Contact us to ask more about digital marketing in Indonesia and how we can help your business.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>Inquiry about website / web-system and maintenance in Jakarta | LOGIQUE Digital Indonesia</title>
+    <title>Contact about Digital Marketing Indonesia | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

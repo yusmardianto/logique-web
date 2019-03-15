@@ -39,12 +39,17 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUE support your hiring activity utilizing recruitment website.">
+    <meta name="description" content="Have trouble hiring the right employee your company needs? LOGIQUE can help you create an effective recruitment web to ease you with online recruitment, with a built-in inquiry form, also easy-to-navigate and attractive design that appeal to all of your potential target candidates. Contact us to create yours now.">
 	<meta name="keywords" content="website karir, karir perusahaan, jasa website karir, logique">
 	<meta name="author" content="Logique Digital Indonesia">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Recruitment Website Creation | Logique Digital Indonesia</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
+  <meta property="og:title" content="Recruitment Web Creation | Online Recruitment | LOGIQUE DIGITAL INDONESIA">
+  <meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+  <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+  <meta property="og:description" content="Have trouble hiring the right employee your company needs? LOGIQUE can help you create an effective recruitment web to ease you with online recruitment, with a built-in inquiry form, also easy-to-navigate and attractive design that appeal to all of your potential target candidates. Contact us to create yours now.">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <title>Recruitment Web Creation | Online Recruitment | LOGIQUE DIGITAL INDONESIA</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -83,7 +88,7 @@ ga('send', 'pageview');
 						</div>
 					</div>
 				</div>
-				
+
 			</header>
 			<div class="offering-part">
 					<div class="container">
@@ -104,7 +109,7 @@ ga('send', 'pageview');
 							<div class="col-md-v col-sm-8">
 								<h3 style="text-align: left;">If you are an HR staff, you are probably struggling to hire a right person in Jakarta.</h3>
 								 <div class="row">
-								 	
+
 								 	<div class="col-sm-4">
 								 		<img src="images/img-problem2.png" class="img-responsive" >
 								 		<div>It is quite challenging to get enough candidates, to inform your job vacancy, or to find a recruitment agent service that is not expensive.</div>
@@ -118,16 +123,16 @@ ga('send', 'pageview');
 								 		<div>It takes too much time and cost to filter the massive candidates from JobStreet.</div>
 								 	</div>
 								 </div>
-							 
+
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="text-center problem-text">
-					
+
 					<div class="arrow-up"></div>
 					<div class="container">
-						
+
 					<h3><span class="custom-text">There are so many recruiters like you in Indonesia who are facing the same problems. LOGIQUE can help you solve the problems by creating a recruitment website for your company!
 					 </h3>
 					 <div class="row">
@@ -204,7 +209,7 @@ ga('send', 'pageview');
 							<div class="col-lg-5 col-md-6 col-sm-6 price-tag">
 								<div class="price-tag-text">
 									<div style="font-size: 30px; font-weight: 900;line-height: 30px">Low </div>
-									<div class="big-text"  style="font-size: 60px; font-weight: 900; line-height: 50px">Price</div> 
+									<div class="big-text"  style="font-size: 60px; font-weight: 900; line-height: 50px">Price</div>
 									<div class="custom-text" >Starting from:</div>
 									<div style="">
 										<center>
@@ -274,7 +279,7 @@ ga('send', 'pageview');
 					<h3><center>Langkah-Langkah Membuat Halaman Karir</center></h3>
 					<div class="stepbystep">
 						<div class="row">
-							 
+
 							<div class="col-md-3 col-sm-6 step step2">
 									<div class="step-number-cont"><span>1</span></div>
 									<img src="images/img-step2.jpg" class="img-responsive">
@@ -286,11 +291,11 @@ ga('send', 'pageview');
 									<div class="step-number-cont"><span>2</span></div>
 									<img src="images/img-step3.jpg" class="img-responsive">
 									<h4>Desain</h4>
-									<div class="step-text">Pembuatan desain yang menarik dan pengambilan foto akan dilakukan sebagai komponen penting dari halaman karir tersebut. 
+									<div class="step-text">Pembuatan desain yang menarik dan pengambilan foto akan dilakukan sebagai komponen penting dari halaman karir tersebut.
 									</div>
 							</div>
-							 
-						 
+
+
 							<div class="col-md-3 col-sm-6 step step5">
 									<div class="step-number-cont"><span>3</span></div>
 									<img src="images/img-step5.jpg" class="img-responsive">
@@ -298,7 +303,7 @@ ga('send', 'pageview');
 									<div class="step-text">Kami membantu Anda merangkum dan menampilkan konten yang mudah dimengerti oleh pengunjung.
 									</div>
 							</div>
-							 
+
 							<div class="col-md-3 col-sm-6 step step8">
 									<div class="step-number-cont"><span>4</span></div>
 									<img src="images/img-step8.jpg" class="img-responsive">
@@ -333,7 +338,7 @@ ga('send', 'pageview');
 									<div class="step-number-cont"><span>3</span></div>
 									<img src="images/img-step3.jpg" class="img-responsive">
 									<h4>Desain</h4>
-									<div class="step-text">Pembuatan desain yang menarik dan pengambilan foto akan dilakukan sebagai komponen penting dari halaman karir tersebut. 
+									<div class="step-text">Pembuatan desain yang menarik dan pengambilan foto akan dilakukan sebagai komponen penting dari halaman karir tersebut.
 									</div>
 							</div>
 							<div class="col-md-3 col-sm-6 step step4">
@@ -390,7 +395,7 @@ ga('send', 'pageview');
 									<div class="testi-box">
 										<div class="quoteicon quote-icon1">"</div>
 										<div class="testi-text">
-											Setelah menggunakan konsultasi dan hasil halaman karir yang diberikan oleh Logique, kuantitas dan kualitas pelamar kerja perusahaan kami meningkat. Hal ini membuat kami bisa mengefisiensikan kinerja staff HR dalam hal rekrutmen.  
+											Setelah menggunakan konsultasi dan hasil halaman karir yang diberikan oleh Logique, kuantitas dan kualitas pelamar kerja perusahaan kami meningkat. Hal ini membuat kami bisa mengefisiensikan kinerja staff HR dalam hal rekrutmen.
 										</div>
 										<div class="quoteicon quote-icon2 pull-right">"</div>
 										<div class="arrow-diagonal"></div>
@@ -404,7 +409,7 @@ ga('send', 'pageview');
 									<div class="testi-box">
 										<div class="quoteicon quote-icon1">"</div>
 										<div class="testi-text">
-											Solusi HR yang diberikan oleh LOGIQUE berhasil membuat perusahaan kami  berjalan lebih efektif, kami sangat puas dapat bekerjasama dengan LOGIQUE. 
+											Solusi HR yang diberikan oleh LOGIQUE berhasil membuat perusahaan kami  berjalan lebih efektif, kami sangat puas dapat bekerjasama dengan LOGIQUE.
 										</div>
 										<div class="quoteicon quote-icon2 pull-right">"</div>
 										<div class="arrow-diagonal"></div>
@@ -419,7 +424,7 @@ ga('send', 'pageview');
 										<div class="quoteicon quote-icon1">"</div>
 										<div class="testi-text">
 											Dulu kami sangat bergantung dengan agen dalam merekrut karyawan baru, hal ini membuat biaya operasional yang kami keluarkan sangat besar. Setelah menggunakan solusi yang diberikan oleh LOGIQUE kami berhasil mengefektifkan pengeluaran kami dan mendapatkan karyawan sesuai kriteria yang diinginkan perusahaan.
-	 
+
 										</div>
 										<div class="quoteicon quote-icon2 pull-right">"</div>
 										<div class="arrow-diagonal"></div>
@@ -433,8 +438,8 @@ ga('send', 'pageview');
 									<div class="testi-box">
 										<div class="quoteicon quote-icon1">"</div>
 										<div class="testi-text">
-											Kami sempat kesulitan untuk mendapatkan karyawan yang berkualitas dan sesuai dengan kriteria yang kami inginkan. Padahal, kami telah menggunakan situs pencari kerja serta mengeluarkan biaya yang cukup mahal, namun tetap kesulitan dalam mendapatkan yang kami mau. Namun, setelah kami mencoba penawaran yang diberikan oleh Logique, kami berhasil mendapatkan karyawan yang kami inginkan tanpa perlu mengeluarkan biaya yang cukup mahal dan efektif. 
-	 
+											Kami sempat kesulitan untuk mendapatkan karyawan yang berkualitas dan sesuai dengan kriteria yang kami inginkan. Padahal, kami telah menggunakan situs pencari kerja serta mengeluarkan biaya yang cukup mahal, namun tetap kesulitan dalam mendapatkan yang kami mau. Namun, setelah kami mencoba penawaran yang diberikan oleh Logique, kami berhasil mendapatkan karyawan yang kami inginkan tanpa perlu mengeluarkan biaya yang cukup mahal dan efektif.
+
 										</div>
 										<div class="quoteicon quote-icon2 pull-right">"</div>
 										<div class="arrow-diagonal"></div>
@@ -451,7 +456,7 @@ ga('send', 'pageview');
 				</div>
 			</section>
 			<section class="forwho-container">
-				<div class="text-center simul-text">					
+				<div class="text-center simul-text">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2">
@@ -494,11 +499,11 @@ ga('send', 'pageview');
 							<h3>CALL US </h3>
 							<a href="https://www.logique.co.id/" target="_blank"><img src="images/logo-y-logique.png" alt="logo-footer" class="img-responsive"></a>
 							<p>LOGIQUE DIGITAL INDONESIA<br>
-							Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5 
+							Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5
 							Ragunan, <br>Ps. Minggu, Jakarta Selatan,<br> Indonesia 12550
 
 							<br>
-							&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+							&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
 							<br>
 							<i class="fa fa-mobile-phone"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;0811870321
 						</p>
@@ -521,17 +526,17 @@ ga('send', 'pageview');
 									<input type="text" name="email" id=" email" class="input-email form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Email">
 								</fieldset>
 								<fieldset>
-		 
+
 									<textarea class="textarea-message form-control" name="message" placeholder="Message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</fieldset>
 								<fieldset>
-									 
+
 									<div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
 									<div class="clearfix"></div>
-									 
+
 								</fieldset>
 								<fieldset class="text-right">
-							 
+
 									<button type="submit" class="btn btn-submit submit-button">Send</button>
 								</fieldset>
 

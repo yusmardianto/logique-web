@@ -1,4 +1,4 @@
-﻿ <?php 
+﻿ <?php
 require_once("form/fgcontact_webdev.php");
 
 $formproc = new FGContactForm();
@@ -40,12 +40,19 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="As one of the best website developers in Indonesia, Logique has their own mechanism in website creation, website development, application development, and web design. Here are simple explanations of each step that Logique takes to create a website.">
+    <meta name="description" content="As one of the best website developers in Indonesia, LOGIQUE Digital Indonesia has their own mechanism in providing clients with the best web development service. Here are simple explanations of each step that we take to create a website.">
 	<meta name="keywords" content="create a website, website creation, web creation, website design, web builder, web developer, web development, website development, website developer, application development, web security, web design, web programming, logique digital indonesia.">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Mechanism of Creating a Website in LOGIQUE | LOGIQUE Digital Indonesia</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
+  <meta itemprop="name" content="PT. Logique Digital Indonesia">
+	<meta property="og:title" content="Web Development Service | LOGIQUE Digital Indonesia">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:description" content="As one of the best website developers in Indonesia, LOGIQUE Digital Indonesia has their own mechanism in providing clients with the best web development service. Here are simple explanations of each step that we take to create a website.">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <title>Web Development Service | LOGIQUE Digital Indonesia</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style_webdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -63,13 +70,13 @@ if(isset($_POST['submitted']))
 </head>
 	<body>
 		<header>
-			
+
 			<!-- NAVIGATION -->
 			<div class="nav-lp">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
-					<span class="icon-bar third"></span> 
+					<span class="icon-bar third"></span>
 				</button>
 				<div class="collapse navbar-collapse" id="myNavbar">
 				<div class="backdrop-test"></div>
@@ -122,7 +129,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-		
+
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
@@ -658,7 +665,7 @@ if(isset($_POST['submitted']))
 		<script src="/js/bootstrap.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
-		<script type="text/javascript">			
+		<script type="text/javascript">
 			$(function() {
 				$('.smooth').click(function() {
 				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {

@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" itemprop="description" content="ZuttoRide Indonesia is a consulting company oriented to the needs of the community and service to prosper the world of motorbikes in Indonesia. This company was founded to create a driving experience that has never existed in Indonesia.">
+  <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia helped Zuttoride Indonesia in creating and developing Customer Management System (CRM) Application with data integration system that has high customization and scalability. Learn the case study of a system that helps bike riders here.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Case Study - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Customer Management System (CRM) Application | Case Study | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="ZuttoRide Indonesia is a consulting company oriented to the needs of the community and service to prosper the world of motorbikes in Indonesia. This company was founded to create a driving experience that has never existed in Indonesia.">
+	<meta property="og:description" content="LOGIQUE Digital Indonesia helped Zuttoride Indonesia in creating and developing Customer Management System (CRM) Application with data integration system that has high customization and scalability. Learn the case study of a system that helps bike riders here.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <script>
@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Case Study - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia</title>
+  <title>Customer Management System (CRM) Application | Case Study | LOGIQUE Digital Indonesia</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>

@@ -1,4 +1,4 @@
- <?php 
+ <?php
 require_once("form/fgcontact_nippo.php");
 
 $formproc = new FGContactForm();
@@ -39,11 +39,19 @@ if(isset($_POST['submitted']))
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" content="Do you have trouble in calculating man-hours cost or monitoring employees’ performance? Nippo is here to help you. Nippo is a web-based system that can manage, monitor, and evaluate employees’ productivity through daily reports. Increase your company’s productivity now!">
+  <meta name="description" content="NIPPO, a daily report, evaluation, work time management system that provides you with quantity, quality, and contents of employees detailed works. Created by LOGIQUE Digital Indonesia to make monitoring and evaluating employee's daily works easier. Contact us to try now!">
   <meta name="keywords" content="assessment, performance, evaluation, self assessment, daily report, performance management, performance review, employee performance, performance evaluation, increase productivity, nippo system, logique digital indonesia">
   <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA">
+  <meta itemprop="name" content="PT. Logique Digital Indonesia">
+	<meta property="og:title" content="Daily Report, Evaluation, Work Time Management System | NIPPO | LOGIQUE Digital Indonesia">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:url" content="https://www.logique.co.id/en/product/nippo.php">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:description" content="NIPPO, a daily report, evaluation, work time management system that provides you with quantity, quality, and contents of employees detailed works. Created by LOGIQUE Digital Indonesia to make monitoring and evaluating employee's daily works easier. Contact us to try now!">
+
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Daily Report Tool | Nippo</title>
+  <title>Daily Report, Evaluation, Work Time Management System | NIPPO | LOGIQUE Digital Indonesia</title>
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style_nippo.css">
   <style type="text/css">
@@ -91,7 +99,7 @@ if(isset($_POST['submitted']))
     <div class="row" style="margin-right:0;margin-left:0;">
       <div class="col-md-12 text-center p-top-50" style=" padding-top: 18%; ">
         <img src="img/nippo/LogoNippo.png" alt="nippo" class="fade-in logo m-logo">
-        <p class="SISTEM-LAPORAN-KERJA fade-in">Daily report tool that can perform man-hour cost management 
+        <p class="SISTEM-LAPORAN-KERJA fade-in">Daily report tool that can perform man-hour cost management
           <br>and employee evaluation through daily reports</p>
       </div>
     </div>
@@ -104,7 +112,7 @@ if(isset($_POST['submitted']))
     <span class="APA-ITU">What Is Nippo?</span>
   </div>
   <div class="col-md-11 hidden-xs hidden-sm lg-1">
-      <span class="NIPPO-SYSTEM">NIPPO SYSTEM</span> 
+      <span class="NIPPO-SYSTEM">NIPPO SYSTEM</span>
       <span class="layer">?</span>
   </div>
   <section class="hidden-xs hidden-sm">  <!-- For Desktop -->
@@ -362,7 +370,7 @@ if(isset($_POST['submitted']))
       <?php if(isset($msg))
         {
         echo $msg;
-        } 
+        }
         ?>
       <form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
       <input type='hidden' name='submitted' id='submitted' value='1'/>
@@ -420,7 +428,7 @@ if(isset($_POST['submitted']))
 		<br/>
 		<p style="color:#9b9b9b;font-family: Avenir;font-size: 18px;">Other Products:</p>
 		<p>
-			<a target="_blank" href="/en/product/sugoi-saiyo.php" style="color:#fff;font-family: Avenir;font-size: 18px;">SUGOI-SAIYO</a> | 
+			<a target="_blank" href="/en/product/sugoi-saiyo.php" style="color:#fff;font-family: Avenir;font-size: 18px;">SUGOI-SAIYO</a> |
 			<a target="_blank" href="/produk/dokodemo-kerja.php" style="color:#fff;font-family: Avenir;font-size: 18px;">DOKODEMO KERJA</a></p>
 	  </div>
   </div>

@@ -4,16 +4,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="If you are seeking for a web developer to build websites, system development, web marketing, mobile application development, social media, pamphlets etc, please leave it to LOGIQUE Digital Indonesia, the No.1 website / web developer in Indonesia.">
+    <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia is the top in-house Web Developer / Design, Digital Marketing, & IT Consultant in Jakarta. Experienced in growing local and international business across ASEAN, especially Indonesia and Japan, by creating high quality websites, systems, and development in the digital world.">
 	<meta name="keywords" content="website creation, web-system development, internet marketing, SEO, designing, pamphlet, mobile application">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="The best website / web-system developer in Jakarta | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Web Developer / Design, Digital Marketing, IT Consultant | LOGIQUE DIGITAL INDONESIA">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://logique.co.id/en">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="If you are seeking for a web developer to build websites, system development, web marketing, mobile application development, social media, pamphlets etc, please leave it to LOGIQUE Digital Indonesia, the No.1 website / web developer in Indonesia.">
+	<meta property="og:description" content="LOGIQUE Digital Indonesia is the top in-house Web Developer / Design, Digital Marketing, & IT Consultant in Jakarta. Experienced in growing local and international business across ASEAN, especially Indonesia and Japan, by creating high quality websites, systems, and development in the digital world.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
 	<!-- Facebook Pixel Code -->
     <script>
@@ -42,7 +42,7 @@
 	ga('send', 'pageview');
 
 	</script>
-    <title>The best website / web-system developer in Jakarta | LOGIQUE Digital Indonesia</title>
+    <title>Web Developer / Design, Digital Marketing, IT Consultant | LOGIQUE DIGITAL INDONESIA</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
