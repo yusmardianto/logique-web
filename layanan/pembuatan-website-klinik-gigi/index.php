@@ -150,15 +150,15 @@ ga('send', 'pageview');
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
 							<div class="row">
-								<div class="col-md-4 col-sm-4">
+								<div class="col-md-4 col-sm-4 clearfix">
 									<img src="images/new/i-problem1.png" alt="masalah klinik gigi">
 									<p>Tidak tahu bagaimana membuat website</p>
 								</div>
-								<div class="col-md-4 col-sm-4">
+								<div class="col-md-4 col-sm-4 clearfix">
 									<img src="images/new/i-problem2.png" alt="masalah klinik gigi">
 									<p>Tidak punya staff yang mengurus website</p>
 								</div>
-								<div class="col-md-4 col-sm-4">
+								<div class="col-md-4 col-sm-4 clearfix">
 									<img src="images/new/i-problem3.png" alt="masalah klinik gigi">
 									<p>Terlalu mahal untuk membuat dan mengembangkan website</p>
 								</div>
@@ -174,15 +174,15 @@ ga('send', 'pageview');
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
 							<div class="row">
-								<div class="col-md-4 col-sm-4">
+								<div class="col-md-4 col-sm-4 clearfix">
 									<img src="images/new/i-solution1.png" alt="solusi klinik gigi">
 									<p>Sampaikan kepada kami website seperti apa yang diharapkan, dengan tim profesional kami akan membantu Anda mewujudkannya.</p>
 								</div>
-								<div class="col-md-4 col-sm-4">
+								<div class="col-md-4 col-sm-4 clearfix">
 									<img src="images/new/i-solution2.png" alt="solusi klinik gigi">
 									<p>Layanan yang kami berikan sudah termasuk pengelolaan, sehingga Anda dapat fokus lebih banyak pada bisnis klinik gigi Anda.</p>
 								</div>
-								<div class="col-md-4 col-sm-4">
+								<div class="col-md-4 col-sm-4 clearfix">
 									<img src="images/new/i-solution3.png" alt="solusi klinik gigi">
 									<p>Hanya dengan Rp500.000/bulan website klinik gigi Anda melakukan promosi mandiri 24/7.</p>
 								</div>
