@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUE menyediakan layanan Penetration testing untuk meningkatkan keamanan sistem atau aplikasi Anda">
+    <meta name="description" content="Perilaku cyber crime selalu meningkat setiap tahunnya. Karena itu, LOGIQUE menyediakan layanan jasa keamanan website menggunakan metode penetration testing sebagai solusi terbaik untuk melindungi data perusahaan Anda. Segera hubungi kami untuk mendapatkan layanan ini.">
 	<meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing , logique">
 	<meta name="author" content="Logique Digital Indonesia">
-	<meta property="og:title" content="Penetration Test | Logique Digital Indonesia">
+	<meta property="og:title" content="Keamanan Website | Penetration Testing | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/layanan/penetration-testing/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUE menyediakan layanan Penetration testing untuk lebih meningkatkan keamanan sistem atau aplikasi Anda">
+	<meta property="og:description" content="Perilaku cyber crime selalu meningkat setiap tahunnya. Karena itu, LOGIQUE menyediakan layanan jasa keamanan website menggunakan metode penetration testing sebagai solusi terbaik untuk melindungi data perusahaan Anda. Segera hubungi kami untuk mendapatkan layanan ini.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Penetration Test | Logique Digital Indonesia</title>
+    <title>Keamanan Website | Penetration Testing | LOGIQUE Digital Indonesia</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">
     <link href="css/animate.min.css" rel="stylesheet">

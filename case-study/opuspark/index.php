@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" itemprop="description" content="Opus Park adalah properti hunian suburban ikonis yang dikembangkan oleh PT Izumi Sentul Realty, yang merupakan hasil kerjasama perusahaan Joint Venture (JV) salah satu pengembang properti ternama di Indonesia, Sentul City, dan dua perusahaan infrastruktur terkemuka asal Jepang, yakni Sumitomo Corporation dan Hankyu Hanshin Properties Corp. ">
+  <meta name="description" itemprop="description" content="Sebagai perusahaan web developer terbaik, LOGIQUE memberikan layanan jasa marketing online kepada kliennya, seperti yang kami lakukan pada klien kami, yaitu apartemen Opus Park. Jika Anda ingin menggunakan jasa layanan ini, silahkan hubungi kami!">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Studi Kasus - Opus Park | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Jasa Strategi Marketing Online | Opus Park | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/opuspark/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Opus Park adalah properti hunian suburban ikonis yang dikembangkan oleh PT Izumi Sentul Realty, yang merupakan hasil kerjasama perusahaan Joint Venture (JV) salah satu pengembang properti ternama di Indonesia, Sentul City, dan dua perusahaan infrastruktur terkemuka asal Jepang, yakni Sumitomo Corporation dan Hankyu Hanshin Properties Corp.">
+	<meta property="og:description" content="Sebagai perusahaan web developer terbaik, LOGIQUE memberikan layanan jasa marketing online kepada kliennya, seperti yang kami lakukan pada klien kami, yaitu apartemen Opus Park. Jika Anda ingin menggunakan jasa layanan ini, silahkan hubungi kami!">
 	<link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -25,7 +25,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Studi Kasus - Opus Park | LOGIQUE Digital Indonesia</title>
+  <title>Jasa Strategi Marketing Online | Opus Park | LOGIQUE Digital Indonesia</title>
 
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
@@ -90,6 +90,12 @@
 								Layanan
 							</a>
 						</div>
+            <div class="text-center">
+              <a href="/produk.php">
+                <div class="img-product"></div>
+                Produk
+              </a>
+            </div>
 						<div class="text-center">
 							<a href="/karir.php">
 								<div class="img-career"></div>

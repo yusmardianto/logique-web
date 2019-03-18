@@ -52,9 +52,15 @@
 						<div class="text-center">
 							<a href="/layanan.php">
 								<div class="img-services"></div>
-								Services
+								Layanan
 							</a>
 						</div>
+						<div class="text-center">
+                            <a href="produk.php">
+                                <div class="img-product"></div>
+                                Produk
+                            </a>
+                        </div>
 						<div class="text-center">
 							<a href="/karir.php">
 								<div class="img-career"></div>

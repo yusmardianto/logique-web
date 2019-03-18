@@ -107,9 +107,9 @@ section.maintop {
 @media (min-width:1200px) {
     .margin-for-nav {
         top: 50%;
-        transform: translateY(-52%);
-        -webkit-transform: translateY(-52%);
-        -ms-transform: translateY(-52%);
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
         position: relative
     }
 }

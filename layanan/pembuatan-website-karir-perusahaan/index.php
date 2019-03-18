@@ -39,11 +39,18 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUE menyediakan layanan pembuatan website karir perusahaan untuk memudahkan pekerjaan HRD dan meningkatkan kualitas dalam rekrutmen.">
+    <meta name="description" content="LOGIQUE menyediakan layanan jasa pembuatan website info lowongan kerja untuk memudahkan dan membantu pekerjaan HRD dalam proses seleksi karyawan dan menemukan kandidat yang tepat. Hubungi LOGIQUE untuk mendapatkan layanan ini sekarang juga!">
 	<meta name="keywords" content="website karir, karir perusahaan, jasa website karir, logique">
 	<meta name="author" content="Logique Digital Indonesia">
+	<meta itemprop="name" content="PT. Logique Digital Indonesia">
+	<meta property="og:title" content="Jasa Pembuatan Website Info Lowongan Kerja | LOGIQUE Digital Indonesia">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-website-karir-perusahaan/">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:description" content="LOGIQUE menyediakan layanan jasa pembuatan website info lowongan kerja untuk memudahkan dan membantu pekerjaan HRD dalam proses seleksi karyawan dan menemukan kandidat yang tepat. Hubungi LOGIQUE untuk mendapatkan layanan ini sekarang juga!">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Layanan Website Karir Perusahaan | Logique Digital Indonesia</title>
+    <title>Jasa Pembuatan Website Info Lowongan Kerja | LOGIQUE Digital Indonesia</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
