@@ -15,39 +15,53 @@ ga('send', 'pageview');
 		<div class="row">
 			<div class="col-sm-9 col-sm-push-3">
 				<div class="row">
-					<div class="col-sm-2 link-footer-nav" style="font-weight: normal;">
+					<div class="col-sm-4 link-footer-nav" style="font-weight: normal;">
 						<ul>
 							<li><a href="/jp/index.php">Home</a></li>
 							<li><a href="/jp/logique.php">会社概要</a></li>
-							<li><a href="/jp/services.php">サービス</a></li>
-							<li><a href="/jp/portfolio.php">制作開発実績</a></li>
-							<li><a href="/jp/product.php">プロダクト</a></li>
-							<li><a href="/jp/joinus.php">採用/パートナー</a></li>
-							<li><a href="/career/">求人/インターン</a></li>
-							<li><a href="/jp/contact.php">お問い合わせ</a></li>
+							<li  class="have-submenu"><a href="/jp/services.php">サービス</a>
+								<ul>
+									<li  class="have-submenu">
+										<a href="/jp/services/mekanisme-pembuatan-website/" target="_blank">Web制作サービス</a>
+										<ul>
+											<li>
+												<a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank">  採用サイト制作</a></li>
+											<li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">  歯科クリニック向けWeb制作</a></li>
+										</ul>
+									</li>
+									<li><a href="/jp/services/pembuatan-aplikasi-mobile/"> モバイルApp開発</a></li>
+									<li><a href="/jp/services/penetration-testing/"> Webセキュリティ診断サービス</a></li>
+									<li><a href="/jp/services/pembuatan-sistem-web/" target="_blank">WEBシステム開発</a></li>
+								</ul>
+							</li>
+							
+
 						</ul>
 
 					</div>
-					<div class="col-sm-5 link-footer-nav">
+					<div class="col-sm-4 link-footer-nav">
 						<!-- <div class="footer-title">LOGIQUEのサービス</div> -->
-						<ul>
-							<li><a href="/jp/services/mekanisme-pembuatan-website/" target="_blank">Web制作サービス</a>
-								<ul>
-									<li><a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank">  採用サイト制作</a></li>
-									<li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">  歯科クリニック向けWeb制作</a></li>
-								</ul>
-							</li>
-							<li><a href="/jp/services/pembuatan-aplikasi-mobile/"> モバイルApp開発</a></li>
-							<li><a href="/jp/services/penetration-testing/"> Webセキュリティ診断サービス</a></li>
-							<li><a href="/jp/services/pembuatan-sistem-web/" target="_blank">WEBシステム開発</a></li>
-						</ul>
+						
 						<!-- <div class="footer-title" style="padding-top: 20px;"><a href="/jp/product.php">プロダクト</a></div> -->
 						<ul>
-							<li><a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja（リモートワーク管理ツール）</a></li>
-							<li><a href="/jp/product/sugoi-saiyo.php"  target="_blank">Sugoi Saiyo（採用管理ツール）</a></li>
-							<li><a href="/jp/product/nippo.php"  target="_blank">Nippo（日報＆人事評価ツール）</a></li>
-							<li></li>
+							<li  class="have-submenu"><a href="/jp/product.php">プロダクト</a>
+								<ul>
+								<li><a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja<br><span style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>
+								<li><a href="/jp/product/sugoi-saiyo.php"  target="_blank">Sugoi Saiyo  <span style="font-size: 12px;">(（採用管理ツール）</span></a></li>
+								<li><a href="/jp/product/nippo.php"  target="_blank">Nippo <span style="font-size: 12px;">(（日報＆人事評価ツール）</span></a></li>
+								<li></li>
+							</ul>
+							</li>
+							<li><a href="/jp/portfolio.php">制作開発実績</a></li>
+							
+							<li><a href="/career/">求人/インターン</a>
+								<ul>
+									<li><a href="/jp/joinus.php">採用/パートナー</a></li>
+								</ul>
+							</li>
+							<li><a href="/jp/contact.php">お問い合わせ</a></li>
 						</ul>
+						
 
 							<!-- <h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6> -->
 
@@ -63,7 +77,7 @@ ga('send', 'pageview');
 
 
 					</div>
-					<div class="col-sm-5 link-footer"  >
+					<div class="col-sm-4 link-footer"  >
 
  						<p>LOGIQUEは、ジャカルタでWebコンサルティング、WEBサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。</p>
  					<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
