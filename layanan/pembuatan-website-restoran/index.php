@@ -4,11 +4,18 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="LOGIQUE menyediakan layanan pembuatan website restoran untuk meningkatkan pemasaran resoran anda">
+    <meta name="description" content="LOGIQUE juga menyediakan layanan pembuatan website serta aplikasi mobile untuk bisnis restoran dengan tampilan menarik, baik untuk meningkatkan brand image maupun meningkatkan engagement dengan pelanggan Anda. Hubungi LOGIQUE untuk mendapatkan layanan ini segera!">
 	<meta name="keywords" content="website restoran, restoran, jasa website restoran, logique">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
+	<meta itemprop="name" content="PT. Logique Digital Indonesia">
+	<meta property="og:title" content="Jasa Pembuatan Website Restoran | LOGIQUE Digital Indonesia">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-website-restoran/">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:description" content="LOGIQUE juga menyediakan layanan pembuatan website serta aplikasi mobile untuk bisnis restoran dengan tampilan menarik, baik untuk meningkatkan brand image maupun meningkatkan engagement dengan pelanggan Anda. Hubungi LOGIQUE untuk mendapatkan layanan ini segera!">
 	<!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> -->
-    <title>Layanan Website Restoran | Logique Digital Indonesia</title>
+    <title>Jasa Pembuatan Website Restoran | LOGIQUE Digital Indonesia</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />

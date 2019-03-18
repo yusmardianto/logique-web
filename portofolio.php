@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="Jasa pembuatan website dan aplikasi untuk klien nasional dan internasional. Buka dan temukan contoh hasil kerja LOGIQUE di sini.">
+    <meta name="description" itemprop="description" content="LOGIQUE mempunyai banyak klien baik lokal maupun internasional. Kami telah membantu mereka untuk meningkatkan bisnis dan usaha mereka. Untuk melihat berbagai hasil karya portofolio yang telah kami lakukan, Anda dapat langsung melihatnya pada website kami.">
 	<meta name="keywords" content="karya Logique, website, aplikasi, pembuatan website, pembuat aplikasi, digital marketing, seo, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Portofolio Website dan Aplikasi | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Portofolio Hasil Pembuatan Website dan Aplikasi Mobile | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/portfolio.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Jasa pembuatan website dan aplikasi untuk klien nasional dan internasional. Buka dan temukan contoh hasil kerja LOGIQUE di sini.">
+	<meta property="og:description" content="LOGIQUE mempunyai banyak klien baik lokal maupun internasional. Kami telah membantu mereka untuk meningkatkan bisnis dan usaha mereka. Untuk melihat berbagai hasil karya portofolio yang telah kami lakukan, Anda dapat langsung melihatnya pada website kami.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Portofolio Website dan Aplikasi | LOGIQUE Digital Indonesia</title>
+    <title>Portofolio Hasil Pembuatan Website dan Aplikasi Mobile | LOGIQUE</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

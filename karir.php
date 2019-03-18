@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="LOGIQUE menyediakan lowongan kerja Web Developer dan kerjasama marketing menarik untuk Anda. Ayo bergabung sekarang!">
+    <meta name="description" itemprop="description" content="Kami memberikan kesempatan berkarir bagi para web developer, web designer, dan digital marketing untuk terus mengasah kemampuannya dengan bergabung bersama LOGIQUE Digital Indonesia. Segera bergabunglah bersama kami!">
 	<meta name="keywords" content="karir, bekerja di logique, magang di logique, web developer, project manager, desainer, tester">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Karir | Bergabung dengan Logique | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/joinus.php">
+	<meta property="og:url" content="https://www.logique.co.id/karir.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUE menyediakan lowongan kerja Web Developer dan kerjasama marketing menarik untuk Anda. Ayo bergabung sekarang!">
+	<meta property="og:description" content="Kami memberikan kesempatan berkarir bagi para web developer, web designer, dan digital marketing untuk terus mengasah kemampuannya dengan bergabung bersama LOGIQUE Digital Indonesia. Segera bergabunglah bersama kami!">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Karir | Bergabung dengan Logique | LOGIQUE Digital Indonesia</title>
+    <title>Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

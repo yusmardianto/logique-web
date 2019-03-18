@@ -40,11 +40,18 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Dalam melakukan pembuatan website, pengembangan website, pembuatan aplikasi dan pengembangan aplikasi serta desain web. Logique sebagai perusahaan jasa konsultasi digital membuat beberapa mekanisme yang perlu diketahui. Berikut ini adalah beberapa mekanisme pembuatan website yang ada di Logique">
+    <meta name="description" content="Sebagai web developer terbaik di Indonesia, LOGIQUE menawarkan layanan jasa pembuatan sistem web sebagai solusi bisnis digital Anda. Kami dapat membantu Anda membangun bisnis apa pun dengan pemanfaatkan teknologi digital, dimulai dengan pembuatan website.">
 	<meta name="keywords" content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
+	<meta itemprop="name" content="PT. Logique Digital Indonesia">
+	<meta property="og:title" content="Jasa Pembuatan dan Pengembangan Sistem Web di Jakarta | LOGIQUE">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-sistem-web/">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:description" content="Sebagai web developer terbaik di Indonesia, LOGIQUE menawarkan layanan jasa pembuatan sistem web sebagai solusi bisnis digital Anda. Kami dapat membantu Anda membangun bisnis apa pun dengan pemanfaatkan teknologi digital, dimulai dengan pembuatan website.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Pembuatan Sistem Web di Logique</title>
+    <title>Jasa Pembuatan dan Pengembangan Sistem Web di Jakarta | LOGIQUE</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style_systemdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">

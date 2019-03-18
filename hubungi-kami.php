@@ -40,17 +40,17 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="Punya kebutuhan jasa pembuatan website dan aplikasi atau percetakan kartu nama, pembuatan profile perusahaan dan brosur? LOGIQUE siap membantu Anda.">
+    <meta name="description" itemprop="description" content="LOGIQUE merupakan perusahaan web developer, web design, digital marketing terbaik di Jakarta yang menawarkan berbagai pelayanan serta produk digital untuk perkembangan bisnis Anda. Tertarik untuk mendapatkan layanan dan produk kami. Hubungi kami sekarang juga!">
 	<meta name="keywords" content="konsultasi website, pembuatan website, pembuatan aplikasi, hubungi kami, hubungi logique, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Jasa Pembuatan Website | Hubungi | LOGIQUE digital indonesia">
+    <meta property="og:title" content="Hubungi Kami | Web Developer, Designer, Digital Marketing | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/contact.php">
+	<meta property="og:url" content="https://www.logique.co.id/hubungi-kami.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Punya kebutuhan jasa pembuatan website dan aplikasi atau percetakan kartu nama, pembuatan profile perusahaan dan brosur? LOGIQUE siap membantu Anda.">
+	<meta property="og:description" content="LOGIQUE merupakan perusahaan web developer, web design, digital marketing terbaik di Jakarta yang menawarkan berbagai pelayanan serta produk digital untuk perkembangan bisnis Anda. Tertarik untuk mendapatkan layanan dan produk kami. Hubungi kami sekarang juga!">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Jasa Pembuatan Website | Hubungi | LOGIQUE digital indonesia</title>
+    <title>Hubungi Kami | Web Developer, Designer, Digital Marketing | LOGIQUE</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

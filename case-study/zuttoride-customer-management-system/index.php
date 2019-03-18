@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" itemprop="description" content="ZuttoRide Indonesia merupakan perusahaan konsultasi yang berorientasi pada kebutuhan masyarakat dan pengabdian untuk memakmurkan dunia sepeda motor yang ada di Indonesia. Perusahaan ini didirikan untuk menciptakan pengalaman berkendara yang belum pernah ada di Indonesia.">
+  <meta name="description" itemprop="description" content="Zuttoride Indonesia adalah klien LOGIQUE, kerja sama yang kami lakukan adalah untuk pembuatan aplikasi Customer Management System (CRM). Jika Anda tertarik mendapatkan layanan ini dan berbagai layanan kami lainnya, segera hubungi kami.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Studi Kasus - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Pembuatan Aplikasi Customer Management System (CRM) | Zuttoride | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="ZuttoRide Indonesia merupakan perusahaan konsultasi yang berorientasi pada kebutuhan masyarakat dan pengabdian untuk memakmurkan dunia sepeda motor yang ada di Indonesia. Perusahaan ini didirikan untuk menciptakan pengalaman berkendara yang belum pernah ada di Indonesia.">
+	<meta property="og:description" content="Zuttoride Indonesia adalah klien LOGIQUE, kerja sama yang kami lakukan adalah untuk pembuatan aplikasi Customer Management System (CRM). Jika Anda tertarik mendapatkan layanan ini dan berbagai layanan kami lainnya, segera hubungi kami.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <script>
@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Studi Kasus - ZuttoRide Customer Management System (CRM) | LOGIQUE Digital Indonesia</title>
+  <title>Pembuatan Aplikasi Customer Management System (CRM) | Zuttoride | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
