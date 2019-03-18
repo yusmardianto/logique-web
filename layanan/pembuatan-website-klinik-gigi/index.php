@@ -86,14 +86,12 @@ ga('send', 'pageview');
 							</div>
 							<a href="#contact-form" class="btn btn-consult">Konsultasi Gratis Sekarang ! <img src="images/new/i-btn.png" alt="ring icon"></a>
 						</div>
-						<div class="col-md-5 col-sm-5">
-							<img src="images/new/drg.png" alt="dokter gigi" class="drg">
-						</div>
 					</div>
 				</div>
 			<div class="arraw-down text-center">
 				<a href="#poin"><img src="images/new/arrow.png"></a>
 			</div>	
+			<img src="images/new/drg.png" alt="dokter gigi" class="drg">
 			</header>
 
 			<section class="poin-penting" id="poin">

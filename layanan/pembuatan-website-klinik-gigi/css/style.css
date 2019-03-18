@@ -100,7 +100,10 @@ header.head-banner{
 	position: relative;
 }
 header.head-banner .drg {
-	margin-top: 45px;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	z-index: 1;
 }
 header .arraw-down{
 	padding:10px 0;
@@ -110,6 +113,7 @@ header .arraw-down{
 	bottom: 0;
 	left:0;
 	right: 0;
+	z-index: 2;
 }
 header .text-box {
 	text-align: left;
@@ -789,19 +793,19 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	transition: background-position 5s linear;
 }
 .template1 {
-	background-image: url('../images/new/template1.png');
+	background-image: url('../images/new/template1.jpg');
 }
 .template2 {
-	background-image: url('../images/new/template2.png');
+	background-image: url('../images/new/template2.jpg');
 }
 .template3 {
-	background-image: url('../images/new/template3.png');
+	background-image: url('../images/new/template3.jpg');
 }
 .template4 {
-	background-image: url('../images/new/template4.png');
+	background-image: url('../images/new/template4.jpg');
 }
 .template5 {
-	background-image: url('../images/new/template5.png');
+	background-image: url('../images/new/template5.jpg');
 }
 .templates p {
 	position: relative;
