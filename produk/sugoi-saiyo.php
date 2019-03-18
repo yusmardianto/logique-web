@@ -40,11 +40,17 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Sugoi Saiyo adalah sistem rekrutmen yang membantu proses rekrutmen menjadi mudah dan terkelola, baik bagi HR maupun kandidat.">
+    <meta name="description" content="Sugoi Saiyo merupakan sistem rekrutmen karyawan berbasis web dari LOGIQUE yang dapat memudahkan HR dalam melakukan seleksi dan evaluasi calon karyawan, sehingga perusahaan bisa mendapatkan kandidat yang tepat dan sesuai dengan waktu yang singkat.">
 	<meta name="keywords" content="lowongan kerja, rekrutmen, seleksi sdm, hr tools, proses rekrutmen, perekrutan, metode rekrutmen, rekrutmen online, rekrutmen pegawai, logique digital Indonesia, sugoi saiyo">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
+	<meta property="og:title" content="Sistem Proses Rekrutmen Karyawan | Produk Digital | LOGIQUE">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:url" content="https://www.logique.co.id/produk/sugoi-saiyo.php">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:description" content="Sugoi Saiyo merupakan sistem rekrutmen karyawan berbasis web dari LOGIQUE yang dapat memudahkan HR dalam melakukan seleksi dan evaluasi calon karyawan, sehingga perusahaan bisa mendapatkan kandidat yang tepat dan sesuai dengan waktu yang singkat.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Rekrutmen yang mudah dan terkelola | SugoiSaiyo | LOGIQUE DIGITAL INDONESIA</title>
+    <title>Sistem Proses Rekrutmen Karyawan | Produk Digital | LOGIQUE</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style_sugoisaiyo.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700" rel="stylesheet">

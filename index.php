@@ -4,16 +4,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="Jasa pembuatan website dan SEO berkualitas di Jakarta, konsultasikan kebutuhan digital Anda melalui LOGIQUE, Web Developer asal Jepang no. 1 di Indonesia.">
+    <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia, perusahaan web developer yang menawarkan jasa pembuatan dan pengembangan website, aplikasi, dan digital marketing di Jakarta. Kembangkan dan tingkatkan keuntungan bisnis Anda di era digital dengan solusi terbaik dari kami. Lihat selengkapnya di sini.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Jasa Pembuatan Website dan SEO | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Jasa Pembuatan Website, Aplikasi, dan Digital Marketing | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Jasa pembuatan website dan SEO berkualitas di Jakarta, konsultasikan kebutuhan digital Anda melalui LOGIQUE, Web Developer asal Jepang no. 1 di Indonesia.">
+	<meta property="og:description" content="LOGIQUE Digital Indonesia, perusahaan web developer yang menawarkan jasa pembuatan dan pengembangan website, aplikasi, dan digital marketing di Jakarta. Kembangkan dan tingkatkan keuntungan bisnis Anda di era digital dengan solusi terbaik dari kami. Lihat selengkapnya di sini.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<!-- Facebook Pixel Code -->
@@ -43,7 +43,7 @@
 	ga('send', 'pageview');
 
 	</script>
-    <title>Jasa Pembuatan Website dan SEO | LOGIQUE Digital Indonesia</title>
+    <title>Jasa Pembuatan Website, Aplikasi, dan Digital Marketing | LOGIQUE</title>
 
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
@@ -91,6 +91,12 @@
 								Layanan
 							</a>
 						</div>
+						<div class="text-center">
+                            <a href="produk.php">
+                                <div class="img-product"></div>
+                                Produk
+                            </a>
+                        </div>
 						<div class="text-center">
 							<a href="karir.php">
 								<div class="img-career"></div>

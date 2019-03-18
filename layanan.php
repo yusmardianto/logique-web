@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="LOGIQUE menyediakan berbagai jasa pembuatan website dan aplikasi, SEO, pengoperasian media sosial, cetak kartu nama, desain profil perusahaan dan brosur.">
+    <meta name="description" itemprop="description" content="LOGIQUE memberikan layanan jasa pembuatan website, web design, digital marketing, dan pembuatan serta pengembangan aplikasi untuk berbagai kebutuhan bisnis Anda. Kami siap membantu mengoptimalkan bisnis Anda!">
 	<meta name="keywords" content="buat website, pembuatan website, pembuat aplikasi, buat web, aplikasi android, digital marketing, web developer, desain web, seo, aplikasi iphone, kartu nama, profil perusahaan, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Jasa Pembuatan Website, Web Sistem, dan Percetakan | LOGIQUE">
+    <meta property="og:title" content="Pembuatan Website, Design, Mobile App, Digital Marketing | Layanan LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/services.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUE menyediakan berbagai jasa pembuatan website dan aplikasi, SEO, pengoperasian media sosial, cetak kartu nama, desain profil perusahaan dan brosur.">
+	<meta property="og:description" content="LOGIQUE memberikan layanan jasa pembuatan website, web design, digital marketing, dan pembuatan serta pengembangan aplikasi untuk berbagai kebutuhan bisnis Anda. Kami siap membantu mengoptimalkan bisnis Anda!">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Jasa Pembuatan Website, Web Sistem, dan Percetakan | LOGIQUE</title>
+    <title>Pembuatan Website, Design, Mobile App, Digital Marketing | Layanan LOGIQUE</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -60,6 +60,12 @@
 								Layanan
 							</a>
 						</div>
+						<div class="text-center">
+                            <a href="produk.php">
+                                <div class="img-product"></div>
+                                Produk
+                            </a>
+                        </div>
 						<div class="text-center">
 							<a href="karir.php">
 								<div class="img-career"></div>
@@ -117,11 +123,22 @@
 				<div id="contents">
 					<div class="title"><b>Layanan</b><span class="yellow">Kami</span></div>
 					<div class="form-container">
-						LOGIQUE menyediakan layanan pembuatan sistem web berkualitas dengan standar internasional untuk aneka kebutuhan seperti E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS. Dengan pengalaman dan tim yang mahir di bidangnya, kami mampu menyediakan solusi sistem web dan website yang bermanfaat untuk bisnis digital Anda. LOGIQUE juga menyediakan bermacam-macam jasa terkait website seperti jasa pembuatan website / sistem web, aplikasi mobile, digital marketing, jasa SEO, dan lain-lain. Kami mampu menyediakan solusi berkualitas yang sesuai kebutuhan bisnis Anda dengan harga yang terjangkau.
+						<p class="p-padding-v-15">
+							Saat ini semua sudah sangat bergantung pada internet dan IT, LOGIQUE Digital Indonesia hadir membantu di bidang Internet dan IT untuk memudahkan klien dalam mengatur bisnis mereka. 
+							Kami memberikan layanan berkualitas tinggi dengan standar internasional untuk memenuhi harapan serta kebutuhan bisnis klien. 
+							Kami menyediakan berbagai layanan terkait pembuatan website seperti : web design & development, SEO, digital marketing, dan lain-lain.
+						</p>
 					</div>
-          <div class="banner-services">
-            <img src="img/layanan-img.jpg" alt="layanan pembuatan website"/>
-          </div>
+			        <div class="banner-services">
+			            <img src="img/layanan-img.jpg" alt="layanan pembuatan website"/>
+			        </div>
+			        <div class="form-container">
+			        	<p class="p-padding-v-15">
+			        		Dan jika Anda khawatir data penting Anda dicuri atau website Anda diretas, maka kami menawarkan solusinya dengan memberikan layanan penetration testing dan vulnerability assessment untuk Anda. LOGIQUE akan membantu Anda untuk mengurangi resiko serangan bahkan menghilangkannya dengan selalu memonitor sistem keamanan Anda.
+			        		Sebagai perusahaan web developer Indonesia dengan reputasi yang baik, LOGIQUE juga dapat membantu pembuatan sistem website mulai dari E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS. Dengan pengalaman kami selama 7 tahun, serta didukung oleh tim yang sangat kompeten di bidangnya, kami mampu memberikan solusi terbaik untuk perkembangan bisnis Anda.
+			        		LOGIQUE menyediakan layanan berkualitas tinggi dengan standar global, dan karena konsistensi yang yang kami miliki, membuat kami dipercaya oleh berbagai perusahaan besar yang berasal dari Indonesia hingga beberapa negara di Asia Tenggara, terutama Jepang. Optimalkan bisnis Anda sekarang juga!
+			        	</p>
+			        </div>
 					<div class="feel-free row-center-sm">
 						<div class="col-sm-8">
 							Pembuatan sistem web dan website berkualitas dengan standar Internasional.
@@ -158,7 +175,9 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Perusahaan</b><br/>
-										Kami memberikan layanan pembuatan website yang dapat secara efektif menyampaikan nilai perusahaan Anda secara profesional. Selain itu, kami juga menyediakan layanan pembelian domain, web server, SSL, layanan fotografi dan pembuatan video, serta pembuatan konten website sesuai kebutuhan Anda. Layanan yang kami berikan telah menjangkau bermacam-macam jenis usaha dan kami dapat mengembangkan website Anda hanya dalam satu bulan jika semuanya berjalan lancar. Kami dapat memberikan Anda solusi yang kreatif, fungsional, dan menarik sejalan dengan teknologi dan tren terkini di dunia online.
+										Kami dapat membantu Anda untuk menciptakan sebuah website profesional yang efektif untuk menyampaikan nilai-nilai perusahaan Anda. 
+										Kami juga menyediakan layanan pembelian domain, web server, SLL, layanan fotografi atau pembuatan video, serta pembuatan konten website sesuai dengan kebutuhan yang Anda inginkan. 
+										Sampai saat ini, jasa pembuatan website yang kami berikan telah menjangkau beragam jenis usaha. Dalam proses pengembangannya, kami akan selalu memberikan solusi kreatif dan fungsional sesuai dengan perkembangan teknologi dan tren terkini di dunia digital.
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
@@ -168,24 +187,24 @@
 												</a>
 											</div>
 											<div class="col-sm-5">
-												<a href="http://www.moresco.co.id/" target="_blank">
-												<img src="/img/portfolio/moresco.png" class="img-responsive center-block">
-												MORESCO<br>
+												<a href="http://sentraya.id/" target="_blank">
+												<img src="/img/portfolio/sentraya.png" class="img-responsive center-block">
+												MENARA SENTRAYA<br>
 												</a>
 											</div>
 										</div>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Multi Bahasa</b><br/>
-										Website multi bahasa dengan kualitas tinggi akan membuat Anda secara efektif menggapai pelanggan dari berbagai belahan dunia. LOGIQUE juga menyediakan layanan pembuatan website multi bahasa dengan biaya yang terjangkau yang membuat Anda dapat terhubung dengan pelanggan di pasar lokal. Kami dapat mengembangkan halaman website yang ringan untuk bisa ditampilkan dengan cepat dengan koneksi Internet di Indonesia berikut dengan desain yang menarik untuk pasar Indonesia. Kami punya banyak pengalaman dalam mengembangkan website multi bahasa yang mencakup Bahasa Inggris, Indonesia, dan Jepang. Selain pembuatan website atau konten, Anda juga dapat menghubungi kami jika memerlukan jasa penerjemah atau perbaikan tata bahasa pada konten website Anda.
+										Website Multi Bahasa dapat secara efektif menjangkau pelanggan dari berbagai belahan dunia. LOGIQUE menyediakan jasa pembuatan website multi bahasa berkualitas. Kami sudah sangat berpengalaman dalam pembuatan website multi bahasa mencakup Bahasa Indonesia, Inggris, dan Jepang. Anda juga dapat mengandalkan kami jika membutuhkan bantuan jasa penerjemah atau perbaikan tata bahasa untuk konten website Anda.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Layanan</b><br/>
-										Kami dapat membantu Anda mulai dari perencanaan ide bisnis, pembuatan desain, pengembangan sistem sampai dengan pengelolaan website, jika Anda ingin mengembangkan layanan berbasis web seperti lelang mobil bekas online, sistem pengelolaan poin hadiah, website pencarian dan kecocokan SDM, portal berita, toko online, website komunitas tertutup, dan manajemen keanggotaan (CRM).
+										Bagi Anda yang ingin mengembangkan bisnis layanan berbasis web, kami juga dapat mewujudkannya untuk Anda. Kami akan membantu mulai dari perencanaan ide bisnis, pembuatan desain, pengembangan sistem, sampai dengan pengelolaannya. Berbagai situs web layanan yang telah kami kembangkan sebelumnya adalah  website lelang mobil bekas online, sistem pengelolaan poin hadiah, portal berita, toko online, website komunitas, manajemen keanggotaan, dan masih banyak lagi.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Karir</b><br/>
-										Sekarang semakin sulit bagi perusahaan untuk mendapatkan karyawan ideal yang sesuai dan cocok dengan bisnis yang dijalankan. Halaman karir website perusahaan Anda adalah salah satu faktor penting untuk kesuksesan perekrutan. Halaman ini dapat menjadi kunci untuk memberitahu pengunjung tentang perusahaan Anda, suasana kerja, keuntungan bekerja diperusahaan Anda, dan karyawan yang Anda cari dengan jelas misalnya menggunakan video interview. Kami memiliki banyak pengalaman dalam pembuatan website yang terkait dengan rekrutmen atau halaman karir.
+										Logique menyadari banyak perusahaan mengalami kesulitan untuk mendapatkan karyawan dengan kriteria yang sesuai dengan kebutuhan perusahaan. LOGIQUE memberikan solusi pembuatan website karir yang dapat menjadi kunci kesuksesan dari proses rekrutmen perusahaan Anda. Melalui website karir, Anda dapat memberikan beragam informasi dengan jelas seperti lowongan kerja terbaru, suasana kerja, serta keuntungan yang didapat oleh calon kandidat jika bekerja di perusahaan Anda. Kami telah memiliki banyak pengalaman dalam pembuatan website karir untuk membantu proses rekrutmen karyawan di berbagai perusahaan klien kami.
 										<br><a target="_blank" href="layanan/pembuatan-website-karir-perusahaan/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 										<br/><br/>
 										<div class="row text-center service-portfolio">
@@ -196,34 +215,42 @@
 												</a>
 											</div>
 											<div class="col-sm-5">
-												<a href="https://www.dipostar.com/id/tentang-hrd.htm" target="_blank">
-												<img src="/img/portfolio/dsf.png" class="img-responsive center-block">
-												DIPO STAR FINANCE<br><br>
+												<a href="https://career.sinarmasland.com/" target="_blank">
+												<img src="/img/portfolio/sinarmas.jpg" class="img-responsive center-block">
+												SINAR MAS LAND<br><br>
 												</a>
 											</div>
 										</div>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Restoran</b><br/>
-										Kami menyediakan layanan pembuatan website untuk restoran yang dapat secara efektif membantu pemilik restoran menyampaikan informasi seputar restoran. Informasi tersebut dapat berupa menu terbaru, harga, kontak reservasi, lokasi, atau event yang berlangsung di restoran tersebut. Adanya website membantu mempromosikan restoran Anda tanpa henti 24/7.
+										Website restoran dapat membantu secara efektif dalam penyampaian berbagai informasi terbaru mengenai restoran yang Anda kelola. Informasi tersebut mencakup menu restoran, harga, reservasi, jam operasional, event, lokasi, kontak, promo dan info lainnya. Dengan adanya website, maka Anda dapat mempromosikan restoran Anda tanpa henti setiap hari.
 										<br><a target="_blank" href="layanan/pembuatan-website-restoran/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Klinik Gigi</b><br/>
-										Logique menyediakan layanan pembuatan website klinik gigi yang siap memberikan solusi digital untuk klinik gigi Anda. Website ini dapat secara efektif meningkatkan popularitas secara online serta membantu memudahkan pelanggan menemukan lokasi klinik Anda. Buatlah website sekarang dan dapatkan media promosi ke seluruh dunia setiap hari, setiap saat, bahkan saat Klinik Anda tutup.
+										Website yang Anda buat dapat membantu meningkatkan kredibilitas klinik gigi yang Anda miliki. Tidak hanya itu saja, website juga akan membantu meningkatkan popularitas secara online dan juga memudahkan pelanggan untuk menggunakan layanan dari klinik Anda. Website yang Anda buat dapat menjadi media promosi yang baik dengan jangkauan yang lebih luas tanpa ada batasan waktu.
 										<br><a target="_blank" href="layanan/pembuatan-website-klinik-gigi/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website dengan Desain Responsif </b><br/>
-										Desain responsif merupakan suatu teknologi yang saat ini sedang populer, yang mampu membuat website Anda dapat dilihat dengan baik pada tampilan berukuran smartphone atau tablet. Hal ini sangat penting karena website di Indonesia mempunyai tingkat kunjungan yang sangat besar dari pengguna smartphone atau tablet, dan LOGIQUE dapat membantu Anda dengan pengalaman dan pengetahuan yang kami miliki terhadap teknologi responsif ini. Kami juga dapat membantu Anda mengelola website responsif yang tidak dibangun menggunakan kerangka bootstrap.
+										Memiliki website dengan desain responsif merupakan hal yang penting karena begitu banyak tingkat kunjungan web melalui perangkat mobile. Desain responsif merupakan teknologi yang sedang populer, yang mampu membuat tampilan website secara otomatis menyesuaikan dengan layar yang digunakan baik dari PC atau pun smartphone. Dengan tim ahli yang kami miliki, LOGIQUE membantu mengoptimalkan desain web Anda menjadi jauh lebih menarik dengan desain yang responsif sehingga membuat para pengunjung merasa betah berada di dalamnya.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Halaman Landing / Kampanye</b><br/>
-										Jika Anda mencari layanan untuk memperbaharui desain halaman landing / kampanye atau mengkonversi desain ke dalam kode HTML, LOGIQUE adalah solusi terbaik bagi Anda untuk mengembangkan website yang mudah digunakan dan teroptimasi pada mesin pencarian. Kami juga dapat mengembangkan beberapa halaman untuk memfasilitasi tes A/B yang meningkatkan konversi target Anda. Tim LOGIQUE memiliki pengalaman mendesain dan mengembangkan landing page dari berbagai macam bidang usaha. Desainer kami dapat dengan baik menyesuaikan halaman yang sudah ada berdasarkan pengalaman pengintegrasian plugin atau aplikasi seperti Mailchimp dan yang lainnya. Kami juga cukup fleksibel untuk memenuhi kebutuhan Anda seperti instalasi AMP, melakukan tes A/B dengan beberapa halaman landing, pembaharuan hanya pada halaman kontak, banner iklan dengan HTML5 untuk menunjang kampanye iklan website Anda, dan masih banyak lagi. Silakan menghubungi kami terkait pembuatan halaman landing / kampanye untuk produk atau layanan Anda, kami akan membantu Anda walaupun hanya satu halaman.
+										LOGIQUE memberikan solusi terbaik jika Anda ingin mengembangkan website yang mudah untuk digunakan serta sudah teroptimasi dengan baik pada mesin pencari. 
+										Kami dapat membantu jika Anda ingin memperbarui desain halaman landing / kampanye atau mengkonversi desain ke dalam kode HTML. 
+										Kami juga dapat mengembangkan beberapa halaman untuk memfasilitasi tes A/B untuk meningkatkan konversi target Anda. 
+										LOGIQUE memiliki tim yang sangat berpengalaman dalam mendesain dan mengembangkan landing page. 
+										Desainer kami akan menyesuaikan halaman yang sudah ada berdasarkan pengalaman pengintegrasian plugin atau aplikasi seperti Mailchimp. 
+										Kami akan bekerja secara fleksibel sesuai dengan kebutuhan yang Anda inginkan seperti instalasi AMP, melakukan tes A/B, pembuatan banner iklan menggunakan HTML5 untuk menunjang kampanye iklan website, dan masih banyak lagi. 
+										Kami akan selalu siap membantu Anda walau hanya untuk satu halaman web saja.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Blog</b><br/>
-										LOGIQUE melayani instalasi dan kustomisasi Wordpress. Kami dapat mendesain, mengembangkan, dan meningkatkan keamanan blog Anda sesuai kebutuhan. Saat ini kami lihat ada banyak blog yang memiliki celah keamanan yang cukup signifikan, segera hubungi kami untuk memastikan dan meningkatkan keamanan Blog Anda.
+										Kami juga memberikan layanan instalasi dan kustomisasi Wordpress, mulai dari mendesain, mengembangkan, dan meningkatkan keamanan blog yang Anda miliki sesuai dengan kebutuhan yang Anda inginkan. 
+										Saat ini terdapat banyak blog yang memiliki celah keamanan yang dapat memberikan banyak kerugian. 
+										Oleh karena itu, segera hubungi kami untuk memastikan serta meningkatkan sistem keamanan blog Anda.
 									</li>
 								</ol>
 							  </div>
@@ -240,31 +267,50 @@
 							<div id="web-system" class="panel-collapse collapse">
 							  <div class="panel-body">
 								<p>
-							  		Kami menyediakan layanan pembuatan sistem web berkualitas tinggi dengan memanfaatkan teknologi terkini sesuai kebutuhan bisnis Anda dengan harga yang fleksibel. Tim kami memiliki banyak pengalaman dan kemampuan dalam pengembangan menggunakan framework PHP seperti Laravel, Symfony, CakePHP, dan lain-lain. Selain itu kami juga dapat mendukung pengembangan sistem dengan teknologi lainnya seperti AngularJS dan NodeJS. Kami selalu berusaha untuk mengembangkan sistem web yang cepat dibangun dan mudah dikelola.
+							  		LOGIQUE menyediakan jasa pengembangan sistem website berkualitas tinggi dengan memanfaatkan teknologi terbaru sesuai dengan kebutuhan bisnis Anda. 
+							  		Anda tidak perlu khawatir untuk menggunakan layanan kami , karena layanan yang kami berikan tersedia dengan harga yang cukup fleksibel. 
+							  		Tim kami sudah memiliki banyak pengalaman serta keahlian dalam pengembangan sistem web menggunakan beragam framework PHP seperti Laravel, Symfony, CakePHP, dan lain-lain. 
+							  		Selain itu, kami juga mendukung pengembangan sistem website dengan teknologi lain seperti AngularJS dan NodeJS. 
+							  		Kami selalu berusaha untuk mengembangkan sistem website dengan waktu yang singkat serta mudah untuk dikelola.
 							  	</p>
 							  	<br/>
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Pengembangan dan Pengelolaan Sistem Manajemen Konten (CMS)</b><br/>
-										LOGIQUE melayani pengembangan CMS yang fleksibel dan aman sehingga memungkinkan Anda dapat melakukan pengelolaan dengan mudah. Kami dapat mengembangkan CMS dari awal sesuai kebutuhan atau dengan memanfaatkan produk CMS yang telah ada. Kami juga dapat membantu mengelola CMS Anda. Saat ini, kami telah melakukan pengelolaan CMS untuk beberapa perusahaan besar dan bank yang ada di Indonesia.
+										LOGIQUE melayani jasa pengembangan CMS yang fleksibel serta aman sehingga mudah untuk Anda kelola. 
+										Kami akan membantu Anda mengembangkan CMS dari awal sesuai dengan kebutuhan. 
+										Saat ini, kami telah melakukan pengembangan dan pengelolaan CMS untuk beberapa perusaahan besar yang ada di Indonesia.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Sistem Manajemen Pelanggan atau Keanggotaan</b><br/>
-										LOGIQUE melayani pembuatan sistem manajemen pelanggan (CRM) atau sistem manajemen keanggotaan berskala besar. Kami memiliki standar keamanan yang komprehensif dengan pengalaman kami menyediakan sistem manajemen keanggotaan untuk bank.
+										LOGIQUE melayani pembuatan sistem manajemen pelanggan ( CRM ) atau pun sistem manajemen keanggotan dengan skala yang besar. 
+										Dalam proses pengembangan sistem, kami selalu memiliki standar keamanan yang komprehensif seperti yang telah kami lakukan di dalam sistem manajemen keanggotaan untuk bank.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Sistem Toko Online / E-Commerce</b><br/>
-										Kami mampu membuat dan mengembangkan toko online atau E-Commerce dengan tingkat kesulitan atau kompleksitas yang tinggi seperti marketplace B2B2C, termasuk perhitungan pembayaran dan pengiriman sesuai dengan peraturan atau layanan yang tersedia di Indonesia. Selain itu, kami juga punya banyak pengalaman mengintegrasikan berbagai macam gerbang pembayaran (payment gateway).
+										Kami akan membantu Anda dalam mengembangkan toko online atau E-Commerce dengan tingkat kesulitan atau kompleksitas yang tinggi seperti untuk market B2B2C. 
+										Sistem toko online Anda akan dilengkapi dengan sistem perhitungan pembayaran dan pengiriman sesuai dengan peraturan atau layanan yang tersedia di Indonesia. 
+										Selain itu, kami juga dapat membantu Anda untuk mengintegrasikan toko online dengan berbagai macam jenis pembayaran ( payment gateway ).
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Manajemen Kampanye / Kontes</b><br/>
-										Selain mengembangkan halaman web untuk keperluan kampanye atau kontes, kami juga sering mengembangkan sistem manajemen untuk keperluan tersebut. Sistem tersebut biasanya terintegrasi dengan berbagai fungsi seperti pengelolaan kontestan atau tugas perlombaan dan pemilihan atau informasi pemenang.
+										Selain menyediakan jasa pembuatan website untuk keperluan kampanye atau kontes, kami juga dapat mengembangkan sistem manajemen untuk keperluan tersebut. 
+										Sistem yang kami buat dapat terintegrasi dengan berbagai fungsi sehingga memudahkan penggunanya seperti pengelolaan konstestan dan tugas perlombaan, informasi pemenang, pemilihan pemenang, dan lain-lain.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Sistem Rekrutmen</b><br/>
-										Produk sistem manajemen rekrutmen kami, ‘Sugoi-Saiyo’ dapat mengubah aktivitas perekrutan karyawan Anda secara dramatis. Saat ini sangat sulit merekrut karyawan ideal untuk perusahaan Anda di Indonesia. Terkadang Anda menghabiskan banyak waktu untuk menyeleksi begitu banyak CV yang masuk atau jika ada kandidat yang tidak datang pada jadwal interview yang telah ditentukan. ‘Sugoi-Saiyo’ dapat membantu Anda sebagai sistem rekrutmen berbasis web yang lengkap mulai dari penerimaan CV, manajemen aplikasi, tes kemampuan dan psikotes online, pengaturan jadwal interview, input dan kalkulasi hasil tes atau interview, sampai kandidat masuk ke perusahaan Anda. Kami percaya dengan sistem rekrutmen ini perekrutan karyawan Anda menjadi semakin mudah dan efisien.
+										Aktivitas perekrutan karyawan dapat berubah menjadi sangat mudah dengan menggunakan sistem manajemen rekrutmen kami yaitu ‘Sugoi-Saiyo’. 
+										Kami mengetahui banyak perusahaan di Indonesia yang mengalami kesulitan untuk mendapatkan karyawan, sehingga membuat sebuah perusahaan harus menghabiskan banyak waktu untuk menyeleksi CV yang masuk atau banyaknya kandidat yang tidak hadir ketika jadwal interview sudah ditentukan. 
+										Jika Anda mengalami hal ini maka ‘Sugoi-Saiyo’ merupakan solusi terbaik yang bisa Anda gunakan. 
+										Sebagai sistem rekrutmen berbasis website, ‘Sugoi-Saiyo’ memiliki fitur yang lengkap mulai dari sistem untuk penerimaan CV, manajemen aplikasi, tes kemampuan dan psikotest online, pengaturan jadwal interview, input dan kalkulasi hasil tes serta interview, hingga pada proses kandidat masuk diterima di perusahaan Anda. 
+										Kami yakin bahwa dengan menggunakan ‘Sugoi-Saiyo’, maka perekrutan karyawan Anda akan menjadi jauh lebih mudah dan lebih efisien.
 									</li>
 								</ol>
+								<center>
+									<a href="/produk/sugoi-saiyo.php" style="display: block" target="_blank">
+										<img src="/img/sugoi-banner.jpg" class="img-responsive" style="width: 100%; height: auto;">
+									</a>	
+								</center>
 							  </div>
 							</div>
 						  </div>
@@ -281,11 +327,16 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Website versi Mobile</b><br/>
-										Sangat penting untuk menjangkau pengguna mobile dengan tepat karena kontribusi mereka terhadap tingkat kunjungan web di Indonesia sangat besar. LOGIQUE mengembangkan responsive website yang dapat mengoptimasi tampilan website (UI) sesuai dengan ukuran layar. Kami juga secara fleksibel dapat menawarkan dan mengimplementasikan penggunaan teknologi baru seperti PWA atau AMP.
+										Membuat website versi mobile menjadi hal yang sangat penting untuk Anda lakukan. 
+										Website versi mobile dapat Anda gunakan untuk menjangkau pengunjung dalam jumlah yang besar karena banyaknya kontribusi mereka terhadap tingkat kunjungan website di Indonesia. 
+										LOGIQUE akan membantu mengembangkan responsif website yang dapat mengoptimasi tampilan website ( UI ) sesuai dengan ukuran layar yang berbeda-beda. 
+										Kami juga secara fleksibel dapat membantu Anda untuk mengimplementasikan penggunaan teknologi baru seperti PWA atau AMP.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Pengembangan Aplikasi Mobile</b><br/>
-										Kami melayani pengembangan aplikasi Android/ iOS yang sesuai dengan pasar Indonesia. Tidak hanya merancang atau mengimplementasikan teknologi baru, tetapi kami juga mengoptimalkan UI dan UX, desain, pengembangan aplikasi, hingga membantu Anda mendaftarkan aplikasi ke App Store / Google Play. Sebuah layanan yang komprehensif untuk Anda.
+										Kami melayanai jasa pengembangan aplikasi Android/iOS yang sudah kami sesuaikan dengan pasar di Indonesia. 
+										Dalam proses pengembangannya, kami akan memberikan layanan yang komprehensif untuk Anda. 
+										Karena tidak hanya merancang dan mengimplementasikan teknologi terbaru, LOGIQUE juga mengoptimalkan UI dan UX, desain, pengembangan aplikasi, bahkan membantu Anda untuk mendaftarkan aplikasi yang Anda buat ke App Store / Google Play.
 										<br><a target="_blank" href="layanan/pembuatan-aplikasi-mobile/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 								</ol>
@@ -305,19 +356,28 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>SEO</b><br/>
-										Kami berfokus pada hasil dengan tidak hanya mengimplementasikan metode SEO saja namun termasuk peningkatan atau perbaikan website itu sendiri. Kami punya banyak pengalaman SEO dalam bahasa Jepang, Indonesia, dan Inggris. Salah satu contoh hasil implementasi SEO kami adalah kami berhasil membuat dan mempertahankan satu klien (perusahaan finansial di Indonesia) pada posisi pertama halaman pencarian Google untuk waktu yang lama.
+										Untuk mendapatkan hasil optimasi SEO terbaik, kami tidak hanya mengimplementasikan metode SEO saja, namun juga memberikan perhatian kepada peningkatan dan perbaikan website itu sendiri. 
+										Tim profesional kami dapat menangani optimasi SEO menggunakan keyword dalam bahasa Indonesia, Inggris, dan Jepang.  
+										Kami memiliki pengalaman mempertahankan salah satu perusahaan keuangan terbesar di Indonesia untuk menempati peringkat pertama di halaman pencarian Google dalam jangka waktu yang lama.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Konsultasi Bisnis Digital</b><br/>
-										Sebagai penasihat atau konsultan digital, kami akan membuat bisnis bersama dengan Anda. Kami dapat membantu Anda menciptakan bisnis baru atau mengembangkan bisnis Anda dengan memanfaatkan kekuatan Internet.
+										LOGIQUE memiliki solusi terbaik yang dapat Anda implementasikan untuk mengembangkan bisnis menjadi lebih besar. 
+										Dengan memanfaatkan kekuatan teknologi digital, kami akan membantu mengelola bisnis Anda untuk mendapatkan keuntungan yang maksimal.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Pembuatan Konten Website</b><br/>
-										LOGIQUE melayani pembuatan konten untuk website Anda seperti foto, video dan teks. Kami juga dapat membantu menerjemahkan konten yang Anda berikan ke dalam Bahasa Indonesia, Inggris, atau Jepang; serta melakukan pengambilan foto dengan fotografer atau drone melalui kerjasama dengan mitra kami. Penulis kami akan memberikan Anda konten yang cocok untuk SEO.
+										Kami melayani pembuatan konten berkualitas tinggi untuk website Anda. 
+										Kami akan menciptakan konten sesuai dengan tujuan bisnis Anda, sehingga dapat menarik banyak target audiens. 
+										Selain itu, kami juga dapat membantu menerjemahkan konten yang Anda miliki ke dalam Bahasa Indonesia, Inggris, dan Jepang. 
+										Selain itu, kami juga akan membuat konten dengan menerapkan SEO sehingga dapat membantu performa peringkat web Anda.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Iklan Digital / Konsultasi Pemasaran Digital</b><br/>
-										Silakan menghubungi kami jika Anda memerlukan bantuan untuk meningkatkan jumlah prospek atau konversi dengan menggunakan iklan, strategi pemasaran digital, pemasaran melalui media social, dll. Kami akan menyediakan layanan yang efektif bagi Anda melalui kerjasama dengan mitra kami.
+										LOGIQUE memiliki reputasi yang baik dari klien dalam meningkatkan bisnis melalui digital marketing. 
+										Baik dari Google Ads (Search & Display Ads) atau Social Media Ads (Facebook, Instagram, lainnya), kami dapat meningkatkan keuntungan bisnis Anda melalui semua platform yang ada. 
+										Kami dapat meningkatkan penjualan atau konversi, traffic website melalui pemasaran digital, content marketing, dan lain-lain. 
+										Hubungi kami untuk mengetahui lebih lanjut tentang layanan ini.
 									</li>
 								</ol>
 								<div class="text-center"><a target="_blank" href="layanan/digital-marketing" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a></div>
@@ -337,19 +397,26 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Desain dan Pencetakan Profil Perusahaan/ Katalog / Selebaran</b><br/>
-										LOGIQUE tidak hanya mampu mencetak pada media kertas untuk keperluan bisnis namun juga termasuk pembuatan tas, kaos, dan lain sebagainya. Layanan kami mencakup desain hingga pengiriman melalui kolaborasi dengan mitra perusahan percetakan kami. Silakan menghubungi kami jika Anda memerlukan bantuan terkait profil perusahaan, contoh selebaran untuk acara, atau produk promosi lainnya.
+										Untuk memperkuat bisnis Anda, LOGIQUE tidak hanya mampu mencetak desain pada media kertas saja, namun juga termasuk tas, kaos, dan lainnya. 
+										Tim produksi kami yang berpengalaman dapat membantu mengelola proyek Anda dari awal hingga selesai, serta memastikan secara langsung bahwa materi yang Anda gunakan sebagai media pemasaran memiliki kualitas yang baik untuk menarik perhatian audiens.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Agen Web Server dan Domain</b><br/>
-										Kami dapat berperan sebagai agen untuk Anda mendapatkan domain .co.id (domain perusahaan Indonesia) serta melakukan konfigurasi DNS atau SSL. Selain itu, kami juga dapat menyewakan layanan server WEB seperti AWS untuk kebutuhan hosting Anda.
+										LOGIQUE membantu Anda dalam melakukan pengaturan domain, DNS, atau SSL. 
+										Kami juga menyediakan web server terbaik seperti AWS (Web Hosting). 
+										Sekarang, mengatur web server & domain bukan lagi menjadi hal sulit dengan bantuan yang kami berikan.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Konsultan Bisnis IT</b><br/>
-										Kami menyediakan berbagai macam layanan konsultasi bisnis IT di Indonesia seperti konsultasi bagaimana IT dapat membantu pengoperasian bisnis Anda, pemilihan alat atau software IT yang tepat, pengetesan dan pengecekan keamanan sistem IT yang telah diimplementasikan, dukungan untuk pengembangan dan peluncuran bisnis Internet baru, dan masih banyak lagi.
+										LOGIQUE menyediakan berbagai macam layanan konsultasi bisnis IT di Indonesia. 
+										Kami siap membantu Anda dalam mengelola bisnis Anda di bidang IT, seperti membantu memilih software IT yang tepat, pengecekan keamanan sistem IT, membantu pengembangan bisnis internet, dan masih banyak lagi.
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Pengetesan Keamanan Website (VA Test)</b><br/>
-										Kami dapat melakukan pengetesan dan melaporkan temuan-temuan kami terkait celah keamanan website Anda. Dengan mengetahui celah keamanan tersebut Anda dapat melakukan tindakan pencegahan dari tindak kejahatan digital seperti injeksi SQL, cross-site scripting, session jacking, dan lain-lain. Tim ahli kami akan melakukan tes dengan menggunakan alat-alat pemindaian serta menganalisa temuan-temuan untuk dituangkan ke dalam laporan. Layanan ini kami sediakan mulai dari 10,000,000 Rupiah.
+										LOGIQUE membantu menguji sistem keamanan website untuk mengetahui celah keamanan web Anda. 
+										Hal ini perlu untuk Anda lakukan untuk menghindari tindak kejahatan digital yang dapat  membahayakan bisnis Anda, seperti injeksi SQL, cross-site scripting, session jacking, dan lain-lain. 
+										Tim ahli cyber security kami akan melakukan injection test dengan alat canggih untuk menganalisis dan melaporkannya. 
+										Dari laporan tersebut, kami akan melakukan sebuah tindakan untuk memperbaiki celah dan meningkatkan keamanan web Anda.
 										<br><a target="_blank" href="layanan/penetration-testing/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 								</ol>

@@ -39,11 +39,17 @@ if(isset($_POST['submitted']))
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" content="Kesulitan dalam mengkalkulasikan total jam dalam suatu proyek serta sulit untuk memantau kinerja karyawan pada suatu perkembangan proyek? Tidak perlu khawatir, sekarang Nippo hadir sebagai solusi dari semua masalah yang dialami oleh perusahaan Karena itu, dapatkan aplikasi Nippo sekarang juga!">
+  <meta name="description" content="Nippo merupakan sistem laporan kerja berbasis web dari LOGIQUE yang mampu membantu HR dan manager dalam menilai kinerja para karyawan. Dengan sistem ini, Anda dapat dengan mudah melakukan seleksi, monitor, penilaian, dan evaluasi kinerja harian karyawan Anda.">
   <meta name="keywords" content="Evaluasi kinerja, Manajemen kinerja, manajemen kerja, laporan kerja, laporan kerja harian, kerja partime, kerja remote, karyawan swasta, karyawan kontrak, laporan kinerja, laporan kinerja karyawan, sistem web, sistem informasi, Nippo">
   <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA">
+  <meta property="og:title" content="Laporan Kerja, Evaluasi Penilaian Kinerja Karyawan | Nippo | LOGIQUE">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Logique">
+  <meta property="og:url" content="https://www.logique.co.id/produk/nippo.php">
+  <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+  <meta property="og:description" content="Nippo merupakan sistem laporan kerja berbasis web dari LOGIQUE yang mampu membantu HR dan manager dalam menilai kinerja para karyawan. Dengan sistem ini, Anda dapat dengan mudah melakukan seleksi, monitor, penilaian, dan evaluasi kinerja harian karyawan Anda.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Sistem Laporan Kerja Karyawan | Nippo</title>
+  <title>Laporan Kerja, Evaluasi Penilaian Kinerja Karyawan | Nippo | LOGIQUE</title>
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style_nippo.css">
   <style type="text/css">

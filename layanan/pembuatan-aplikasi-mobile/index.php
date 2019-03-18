@@ -40,11 +40,18 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Kami menyediakan layanan dan solusi terbaik dalam mengembangkan aplikasi mobile berskala perusahaan atau berbasis konsumen untuk smartphone/tablet iOS dan Android.">
+    <meta name="description" content="LOGIQUE melayani pembuatan aplikasi mobile yang merupakan teknologi digital marketing terbaru dan termutakhir saat ini di dunia digital sehingga membantu meningkatkan keuntungan usaha dan bisnis Anda. Hubungi kami sekarang juga untuk mendapatkan layanan ini!">
 	<meta name="keywords" content="jasa pengembangan aplikasi mobile, jasa pengembangan mobile app, jasa pembuatan aplikasi mobile, pengembangan aplikasi mobile">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
+	<meta itemprop="name" content="PT. Logique Digital Indonesia">
+	<meta property="og:title" content="Jasa Pembuatan Aplikasi Mobile Android dan iOS | LOGIQUE">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile/">
+	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:description" content="LOGIQUE melayani pembuatan aplikasi mobile yang merupakan teknologi digital marketing terbaru dan termutakhir saat ini di dunia digital sehingga membantu meningkatkan keuntungan usaha dan bisnis Anda. Hubungi kami sekarang juga untuk mendapatkan layanan ini!">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Pengembangan Aplikasi Mobile | Logique Digital Indonesia</title>
+    <title>Jasa Pembuatan Aplikasi Mobile Android dan iOS | LOGIQUE</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />

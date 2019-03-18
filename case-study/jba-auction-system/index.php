@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" itemprop="description" content="JBA Indonesia merupakan salah satu perusahaan asing yang bergerak di bidang lelang dengan skala besar dan berkantor pusat di Jepang. Perusahaan ini khusus melelang berbagai produk otomotif, seperti mobil dan motor.">
+  <meta name="description" itemprop="description" content="LOGIQUE bekerja sama dengan balai lelang mobil bekas JBA. Mulai dari pembuatan dan pengembangan website lelang mobil dan lelang motor bekas, serta pembuatan aplikasi mobile lelang mobil dan lelang motor bekas. Jika Anda tertarik untuk membuat website dan aplikasi, hubungi kami sekarang juga!">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Studi Kasus - JBA Auction System | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Sistem Lelang Mobil dan Motor Bekas | JBA | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="JBA Indonesia merupakan salah satu perusahaan asing yang bergerak di bidang lelang dengan skala besar dan berkantor pusat di Jepang. Perusahaan ini khusus melelang berbagai produk otomotif, seperti mobil dan motor.">
+	<meta property="og:description" content="LOGIQUE bekerja sama dengan balai lelang mobil bekas JBA. Mulai dari pembuatan dan pengembangan website lelang mobil dan lelang motor bekas, serta pembuatan aplikasi mobile lelang mobil dan lelang motor bekas. Jika Anda tertarik untuk membuat website dan aplikasi, hubungi kami sekarang juga!">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
   <script>
@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Studi Kasus - JBA Auction System | LOGIQUE Digital Indonesia</title>
+  <title>Sistem Lelang Mobil dan Motor Bekas | JBA | LOGIQUE Digital Indonesia</title>
 
 	<link href="../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
@@ -91,6 +91,12 @@
 								Layanan
 							</a>
 						</div>
+            <div class="text-center">
+              <a href="/produk.php">
+                <div class="img-product"></div>
+                Produk
+              </a>
+            </div>
 						<div class="text-center">
 							<a href="/karir.php">
 								<div class="img-career"></div>
