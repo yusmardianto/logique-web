@@ -272,7 +272,11 @@
 										We know that many companies in Indonesia have difficulties in hiring new employees. Like when a company has to spend a lot of time selecting unqualified CVs. If you experience this, 'Sugoi-Saiyo' is the best solution that you can use. As a website-based recruitment system, 'Sugoi-Saiyo' has complete features ranging from systems for CV receipts, application management, online psychotest and technical test, setting up interview schedules, input and calculation of test results and interviews, to the process of incoming candidates being accepted at your company. We believe that by using 'Sugoi-Saiyo', the recruitment will be much easier and more efficient.
 									</li>
 								</ol>
-                <center><a href="/en/product/sugoi-saiyo.php" style="display: block" <target="_blank"><img src="../img/sugoi-banner.jpg" class="img-responsive" style="width: 100%; height: auto;"></center>
+                				<center>
+									<a href="/en/product/sugoi-saiyo.php" style="display: block" target="_blank">
+										<img src="../img/sugoi-banner.jpg" class="img-responsive" style="width: 100%; height: auto;">
+									</a>	
+								</center>
 							  </div>
 							</div>
 						  </div>
