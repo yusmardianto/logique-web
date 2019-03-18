@@ -84,12 +84,12 @@ ga('send', 'pageview');
 								Di era digital, ada banyak orang yang mencari klinik gigi yang terbaik melalui Internet. Oleh sebab itu, penting bagi klinik gigi dalam memiliki website berkualitas untuk memperoleh serta menjangkau pasien secara luas dan efektif.
 								</p>
 							</div>
-							<a href="#contact-form" class="btn btn-consult">Konsultasi Gratis Sekarang ! <img src="images/new/i-btn.png" alt="ring icon"></a>
+							<a href="#contact-form" class="btn btn-consult smooth">Konsultasi Gratis Sekarang ! <img src="images/new/i-btn.png" alt="ring icon"></a>
 						</div>
 					</div>
 				</div>
 			<div class="arraw-down text-center">
-				<a href="#poin"><img src="images/new/arrow.png"></a>
+				<a href="#poin" class="smooth"><img src="images/new/arrow.png"></a>
 			</div>	
 			<img src="images/new/drg.png" alt="dokter gigi" class="drg">
 			</header>
@@ -262,21 +262,21 @@ ga('send', 'pageview');
 						<div class="col-md-8 col-md-offset-2">
 							<div class="row">
 								<div class="col-md-4 col-sm-4">
-									<a href="#" class="a-template">
+									<a href="#modal-template" class="a-template" data-src="images/new/template1.jpg">
 										<div class="img-template template1"></div>
 										<div class="a-caption">Template 1</div>
 									</a>
 									<p>Template 1 ini cocok untuk semua klinik gigi baik yang sudah memiliki beberapa klinik maupun juga bagi klinik gigi baru.</p>
 								</div>
 								<div class="col-md-4 col-sm-4">
-									<a href="#" class="a-template">
+									<a href="#modal-template" class="a-template" data-src="images/new/template2.jpg">
 										<div class="img-template template2"></div>
 										<div class="a-caption">Template 2</div>
 									</a>
 									<p>Template ini khusus untuk dental klinik yang mengkhususkan perawatan gigi bagi para wanita yang menjunjung kecantikan lewat keindahan gigi.</p>
 								</div>
 								<div class="col-md-4 col-sm-4">
-									<a href="#" class="a-template">
+									<a href="#modal-template" class="a-template" data-src="images/new/template3.jpg">
 										<div class="img-template template3"></div>
 										<div class="a-caption">Template 3</div>
 									</a>
@@ -285,14 +285,14 @@ ga('send', 'pageview');
 							</div>
 							<div class="row">
 								<div class="col-md-4 col-sm-4">
-									<a href="#" class="a-template">
+									<a href="#modal-template" class="a-template" data-src="images/new/template4.jpg">
 										<div class="img-template template4"></div>
 										<div class="a-caption">Template 4</div>
 									</a>
 									<p>Template dental klinik khusus untuk Anda yang memiliki target market para Remaja. Dengan design yg unik dan kekinian.</p>
 								</div>
 								<div class="col-md-4 col-sm-4">
-									<a href="#" class="a-template">
+									<a href="#modal-template" class="a-template" data-src="images/new/template5.jpg">
 										<div class="img-template template5"></div>
 										<div class="a-caption">Template 5</div>
 									</a>
@@ -302,6 +302,20 @@ ga('send', 'pageview');
 						</div>
 					</div>
 				</div>
+
+				<div class="modal fade" id="modal-template">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+							</div>
+							<div class="modal-body">
+								<img src="" alt="template" class="tmp-image img-responsive">
+							</div>
+						</div>
+					</div>
+				</div>
+				
 			</section>
 
 			<section id="masalah" class="masalah-section">
@@ -381,7 +395,7 @@ ga('send', 'pageview');
 							<h4>Mobile App</h4>
 						</div>
 					</div>
-					<span>Silahkan bertanya tentang informasi lebih lanjut. <a href="#contact-form">Klik disini</a></span>
+					<span>Silahkan bertanya tentang informasi lebih lanjut. <a href="#contact-form" class="smooth">Klik disini</a></span>
 				</div>
 			</section>
 
@@ -675,7 +689,7 @@ ga('send', 'pageview');
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<script>
 		$(function() {
-		    $('a[href*="#"]:not([href="#"])').click(function() {
+		    $('.smooth').click(function() {
 		      if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
 		        var target = $(this.hash);
 		        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
@@ -686,7 +700,14 @@ ga('send', 'pageview');
 		          return false;
 		        }
 		      }
-		    });
+				});
+				
+				// modal template
+				$('.a-template').on('click', function(){
+					var img = $(this).data('src');
+					$('#modal-template').find('.tmp-image').attr('src', img);
+					$('#modal-template').modal('show');
+				});
 		});
 		</script>
 		

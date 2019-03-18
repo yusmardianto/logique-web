@@ -766,6 +766,7 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 .a-template {
 	display: block;
 	position: relative;
+	cursor: pointer;
 }
 .a-caption {
 	position: absolute;
@@ -825,6 +826,13 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	top: 3px;
 	left: 0;
 	background-color: #ffca15;
+}
+
+#modal-template .modal-body {
+	padding: 0;
+}
+#modal-template .modal-header .close {
+	margin-top: -10px;
 }
 
 .biaya {
