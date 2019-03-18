@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="LOGIQUE adalah Web Developer asal Jepang yang bekerja dengan standar internasional serta mempunyai pengalaman lebih dari 5 tahun di Indonesia.">
+    <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia, perusahaan Web Developer, Designer, dan Digital Marketing di Jakarta yang berikan solusi terbaik untuk bisnis seperti pengembangan website, web sistem, dan mobile app.">
 	<meta name="keywords" content="web developer, pembuatan website, pembuat aplikasi, buat web, aplikasi android, digital marketing, desain web, seo, aplikasi iphone, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Web Developer Berkualitas Jepang | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Web Developer, Designer, Digital Marketing Jakarta Terbaik | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/about.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUE adalah Web Developer asal Jepang yang bekerja dengan standar internasional serta mempunyai pengalaman lebih dari 5 tahun di Indonesia.">
+	<meta property="og:description" content="LOGIQUE Digital Indonesia, perusahaan Web Developer, Designer, dan Digital Marketing di Jakarta yang berikan solusi terbaik untuk bisnis seperti pengembangan website, web sistem, dan mobile app.">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Web Developer Berkualitas Jepang | LOGIQUE Digital Indonesia</title>
+    <title>Web Developer, Designer, Digital Marketing Jakarta Terbaik | LOGIQUE</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -60,6 +60,12 @@
 								Layanan
 							</a>
 						</div>
+                        <div class="text-center">
+                            <a href="produk.php">
+                                <div class="img-product"></div>
+                                Produk
+                            </a>
+                        </div>
 						<div class="text-center">
 							<a href="karir.php">
 								<div class="img-career"></div>
@@ -254,12 +260,12 @@
 							  <div class="row" >
 							  	<div class="col-sm-6">
 							  		<a href="/layanan.php">
-							  			<img src="../img/service-banner-sm-en.png" alt="service banner" class="img-responsive">
+							  			<img src="/img/service-banner-sm-id.png" alt="service banner" class="img-responsive">
 							  		</a>
 							  	</div>
 							  	<div class="col-sm-6">
-							  		<a href="/en/product.php">
-							  			<img src="../img/product-banner-sm-en.png" alt="" class="img-responsive">
+							  		<a href="produk.php">
+							  			<img src="/img/product-banner-sm-id.png" alt="" class="img-responsive">
 							  		</a>
 							  	</div>
 							  </div>
@@ -269,12 +275,12 @@
 							  <div class="row" >
 							  	<div class="col-sm-6">
 							  		<a href="/karir.php">
-							  			<img src="../img/job-banner-sm-en.png" alt="service banner" class="img-responsive">
+							  			<img src="/img/job-banner-sm-id.png" alt="service banner" class="img-responsive">
 							  		</a>
 							  	</div>
 							  	<div class="col-sm-6">
 							  		<a href="/portofolio.php">
-							  			<img src="../img/portfolio-banner-sm-en.png" alt="" class="img-responsive">
+							  			<img src="/img/portfolio-banner-sm-id.png" alt="" class="img-responsive">
 							  		</a>
 							  	</div>
 							  </div>
