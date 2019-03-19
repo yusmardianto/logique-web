@@ -391,7 +391,7 @@
 							<li>Melakukan analisa terhadap teknologi atau sistem untuk kebutuhan konsultasi atau penawaran.</li>
 							<li>Melakukan koordinasi dan mengarahkan tim konsultan agar dapat bekerja dengan efektif.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="gtag('event', 'Action-Click', {'event_category' : 'Lead-Consultant-Apply-Button', 'event_label' : 'Lead-Consultant-Apply-Button-Label'});fbq('track', 'SubmitApplication');" target="_blank">
 							Apply for Lead Consultant
 						</a>
 					</div>
@@ -434,7 +434,7 @@
 							<li>Melakukan analisa terhadap teknologi atau sistem untuk kebutuhan konsultasi atau penawaran.</li>
 							<li>Berkoordinasi dan mengelola tim terkait pengembangan proyek yang direncanakan jika diperlukan.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="gtag('event', 'Action-Click', {'event_category' : 'Pre-Sales-Apply-Button', 'event_label' : 'Pre-Sales-Apply-Button-Label'});fbq('track', 'SubmitApplication');" target="_blank">
 							Apply for Pre-Sales Consultant
 						</a>
 					</div>
@@ -485,7 +485,7 @@
 							<li>Melakukan perbaikan performance dengan optimasi code pada sisi aplikasi.</li>
 							<li>Melakukan analisa dan riset dalam menerapkan teknologi terkait terkini sesuai kebutuhan client.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="gtag('event', 'Action-Click', {'event_category' : 'Front-End-Apply-Button', 'event_label' : 'Front-End-Apply-Button-Label'});fbq('track', 'SubmitApplication');" target="_blank">
 							Apply for Front End
 						</a>
 					</div>
@@ -529,7 +529,7 @@
 							<li>Bertanggung jawab dalam memastikan dan merilis dokumentasi perangkat lunak dalam keadaan yang tepat, dipasang dengan benar dan dijalankan dengan kualitas yang baik.</li>
 							<li>Bertanggung jawab untuk membuat dan melaksanakan pengujian regresi dan pelaksanaan pembuatan aplikasi.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="gtag('event', 'Action-Click', {'event_category' : 'QA-Apply-Button', 'event_label' : 'QA-Apply-Button-Label'});fbq('track', 'SubmitApplication');" target="_blank">
 							Apply for Quality Assurance
 						</a>
 					</div>
@@ -582,7 +582,7 @@
 							<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>
 							<li>Menghasilkan laporan.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" > <!--style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">-->
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="gtag('event', 'Action-Click', {'event_category' : 'TC-Apply-Button', 'event_label' : 'TC-Apply-Button-Label'});fbq('track', 'SubmitApplication');" target="_blank" > <!--style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">-->
 							Apply for Technical Consultant
 						</a>
 					</div>
@@ -641,7 +641,7 @@
 							<li>Keterampilan desain.</li>
 						</ul>
 						
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" >
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="gtag('event', 'Action-Click', {'event_category' : 'DM-Apply-Button', 'event_label' : 'DM-Apply-Button-Label'});fbq('track', 'SubmitApplication');" target="_blank" >
 							Apply for Digital Marketing Strategist
 						</a>
 					</div>
@@ -695,8 +695,8 @@
 							<li>Brevet A B, diutamakan yang Brevet A B dan C.</li>
 							<li>Dapat mengoperasikan Microsoft Office dengan baik (terutama excel).</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" >
-							Apply for Accounting & Tax Officer
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="gtag('event', 'Action-Click', {'event_category' : 'Accounting-Apply-Button', 'event_label' : 'Accounting-Apply-Button-Label'});fbq('track', 'SubmitApplication');" target="_blank" >
+							Apply for Accounting &amp; Tax Officer
 						</a>
 					</div>
 				</div>
@@ -737,7 +737,7 @@
 							<li>Menganalisa masalah dan memberikan solusi dari sisi teknis.</li>
 							<li>Menyelesaikan pekerjaan atau tugas lain yang diberikan.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="gtag('event', 'Action-Click', {'event_category' : 'Web-Dev-Apply-Button', 'event_label' : 'Web-Dev-Apply-Button-Label'});fbq('track', 'SubmitApplication');" target="_blank">
 							Apply for Web Developer
 						</a>
 					</div>
@@ -784,7 +784,7 @@
 							<li>Meneliti dan menyarankan produk, aplikasi, dan protokol seluler baru.</li>
 							<li>Tetap up-to-date dengan tren teknologi baru.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="gtag('event', 'Action-Click', {'event_category' : 'Mobile-Dev-Apply-Button', 'event_label' : 'Mobile-Dev-Apply-Button-Label'});fbq('track', 'SubmitApplication');" target="_blank">
 							Apply for Mobile App Developer
 						</a>
 					</div>
@@ -824,7 +824,7 @@
 							<li>Mampu berpikir logis dan tegas dalam mengambil tindakan.</li>
 							<li>Memiliki pengetahuan tentang pemasaran digital dan keingintahuan yang tinggi akan hal-hal baru.</li>
 						</ul>
-						<a href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="gtag('event', 'Action-Click', {'event_category' : 'PM-Apply-Button', 'event_label' : 'PM-Apply-Button-Label'});fbq('track', 'SubmitApplication');" target="_blank">
 							Apply for Project Manager
 						</a>
 					</div>
