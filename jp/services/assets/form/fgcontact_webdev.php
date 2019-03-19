@@ -12,9 +12,9 @@ PARTICULAR PURPOSE.
 
 @copyright html-form-guide.com 2010
 */
-require $_SERVER['DOCUMENT_ROOT'] . '../PHPMailerAutoload.php';
-
-
+require $_SERVER['DOCUMENT_ROOT'] . '/jp/services/PHPMailerAutoload.php';
+//require $_SERVER['DOCUMENT_ROOT'] . 'jp/services/PHPMailerAutoload.php'
+//echo $_SERVER['DOCUMENT_ROOT'] ."/jp/services/PHPMailerAutoload.php";
 /*
 FGContactForm is a general purpose contact form class
 It supports Captcha, HTML Emails, sending emails

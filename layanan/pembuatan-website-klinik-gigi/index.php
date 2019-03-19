@@ -91,7 +91,7 @@ ga('send', 'pageview');
 								Di era digital, ada banyak orang yang mencari klinik gigi yang terbaik melalui Internet. Oleh sebab itu, penting bagi klinik gigi dalam memiliki website berkualitas untuk memperoleh serta menjangkau pasien secara luas dan efektif.
 								</p>
 							</div>
-							<a href="#contact-form" class="btn btn-consult smooth">Konsultasi Gratis Sekarang ! <img src="images/new/i-btn.png" alt="ring icon"></a>
+							<a href="#contact-info" class="btn btn-consult smooth">Konsultasi Gratis Sekarang ! <img src="images/new/i-btn.png" alt="ring icon"></a>
 						</div>
 					</div>
 				</div>
@@ -382,7 +382,7 @@ ga('send', 'pageview');
 
 			<section class="situs">
 				<div class="container">
-					<img src="images/new/tmp-banner.png" alt="banner" class="s-banner">
+					<a href="#contact-form" class="smooth"><img src="images/new/MoreInfo-Banner-ind.png" alt="banner" class="s-banner"></a>
 					<h2 class="s-title">Ingin situs klinik anda lebih dikenal?</h2>
 					<div class="row">
 						<div class="col-md-2 col-md-offset-2 col-sm-3 col-xs-6">
@@ -417,7 +417,7 @@ ga('send', 'pageview');
 				</div>
 			</section>
 
-			<section class="contact">
+			<section class="contact" id="contact-info">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
