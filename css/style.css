@@ -205,6 +205,14 @@ section.maintop {
   padding: 15px 0;
 }
 
+.section-margin-v-15 {
+  margin: 15px 0;
+}
+
+.section-margin-v-15 .characteristic-title{
+  margin-bottom: 15px;
+}
+
 .title-30 {
   font-size: 30px;
 }

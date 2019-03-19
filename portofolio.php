@@ -1244,7 +1244,7 @@
                 </div>
 							</div>
 							<div class=" text-center">
-								<a href="contact.php" class="btn btn-contact-us-black">
+								<a href="hubungi-kami.php" class="btn btn-contact-us-black">
 									<span style="font-size: 18px;">Cari tahu lebih banyak mengenai portofolio kami</span>
 								</a>
 							</div>

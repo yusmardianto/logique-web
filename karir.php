@@ -132,25 +132,74 @@
 							</a>
 						</div>
 					</div>
+					<div class="bg-grey">
+						<center><span class="title-bg-grey">Why Join Us ?</span></center>
+						<div class="section-margin-v-15">
+							<span class="characteristic-title">Keuntungan bekerja di <span class="yellow">LOGIQUE</span> :</span>
+							<p>
+								Logique adalah perusahaan web developer multinasional asal Jepang di Indonesia. 
+								Logique memberikan peluang besar bagi Anda untuk berkontribusi dalam menangani berbagai masalah klien baik dari dalam maupun luar negeri. 
+								Selain itu, Anda juga belajar bagaimana cara bekerja di perusahaan yang menerapkan standardisasi Internasional. Sebab, sebagian besar klien kami menginginkan hasil kerja dengan standardisasi yang tinggi. 
+								Hal tersebut tentu merupakan tantangan besar untuk mengembangkan diri Anda menjadi lebih berkompeten.
+							</p>
+						</div>
+						<div class="section-margin-v-15">
+							<span class="characteristic-title">Keuntungan Lainnya : </span>
+							<ul class="circle-list">
+								<li>Kantor baru dengan pemandangan yang indah</li>
+								<li>Bonus setiap bulan berdasarkan kinerja atau performa kerja Anda</li>
+								<li>Perusahaan yang memiliki potensi besar untuk berkembang</li>
+								<li>Penggunaan bahasa yang fleksibel untuk berkomunikasi. Anda dapat menggunakan bahasa Indonesia untuk berkomunikasi di kantor walaupun Logique bukan perusahaan yang berasal dari Indonesia.</li>
+								<li>Peraturan dan jam kerja yang fleksibel</li>
+								<li>Pengembangan jenjang karir yang menjanjikan. Anda dapat mencapai posisi manajerial secara singkat apabila kinerja dan performa Anda sangat memuaskan.</li>
+								<li>Logique memiliki berbagai layanan di bidang IT mulai dari konsultasi web hingga konsultasi digital marketing.</li>
+							</ul>
+						</div>
+					</div>
+					<div class="form-container">
+						<span class="characteristic-title">Visi dan Filosofi</span>
+						<p class="p-padding-v-15">
+							Peraturan HR yang kami terapkan berlandaskan dengan asas “Logika/Logic” dan “Adil/Fair”. 
+							Oleh sebab itu, LOGIQUE memperlakukan dan mengevaluasi para staf secara adil dengan berlandaskan logika. Kami yakin bahwa berpikir secara logis dalam setiap kesempatan adalah sesuatu yang sangat penting. 
+							Dengan begitu, kami dapat memilah suatu tindakan yang tidak diperlukan dan tidak penting untuk dilakukan. Dalam berpikir dan bertindak secara logis, kami mempertimbangkan keuntungan perusahaan dan juga klien. 
+							Staf yang dapat bertindak dan berfikir logis secara tepat akan mendapatkan penilaian yang cukup baik di sisi LOGIQUE.
+						</p>
+						<p class="p-padding-v-15">
+							Kami menerima segala bentuk kontribusi dan perbedaan diantara para staf. 
+							Kami tahu bahwa setiap karyawan tidak dapat disamakan dengan karyawan lainnya. 
+							Oleh sebab itu LOGIQUE memperlakukan staf secara adil berdasarkan situasi dan tujuan mereka. Untuk memperlakukan staf secara adil, peraturan HR yang ada dapat berubah secara fleksibel berdasarkan dengan situasi dan kondisi para staf. 
+							Contohnya, jika seorang karyawan harus merawat ibunya, LOGIQUE akan memberikan hak istimewa kepada mereka untuk bekerja secara remote. 
+							Hal inilah hal yang kami anggap sebagai adil.
+						</p>
+						<p class="p-padding-v-15">
+							Melihat situasi industri web yang terus berkembang, LOGIQUE berkeinginan untuk menjadi perusahaan yang dapat bertahan dan beradaptasi seiring dengan pesatnya perkembangan yang terjadi. 
+							Tentu tidak sulit bagi Anda untuk membayangkan bagaimana tren berubah dengan sangat cepat dalam kurun waktu satu atau dua tahun. 
+							Hal ini dapat membuat keterampilan yang Anda miliki menjadi terpendam dalam lima tahun ke depan. 
+							Pada situasi ini, penting bagi Anda untuk memiliki keterapilan utama (core competence) lainnya sehingga Anda dapat beradaptasi dengan perkembangan yang terjadi. 
+							Peluang untuk menjadi seorang profesional sejati sangatlah kecil apabila keterampilan Anda tidak berkembang dari sebelumnya karena Anda tidak mempelajari hal-hal baru. 
+							Jika Anda memiliki keinginan kuat untuk mempelajari hal baru, Logique dapat memberikan Anda berbagai pekerjaan yang belum Anda kuasai sebelumnya. 
+							Kami melatih dan memberikan pekerjaan bagi seluruh staf untuk memperdalam keterampilan inti masing-masing.
+						</p>
+					</div>
 					<div class="karir-new-img">
 						<div class="title">Orang-orang terbaik yang kami cari memiliki:</div>
 						<br/>
 						<div class="row">
 							<div class="col-sm-3">
 								<img src="img/syarat1.png" class="img-responsive center-block"/>
-								<div class="text-center exp-img"><b>Memiliki Minat Tinggi di Bidang Web</b></div>
+								<div class="text-center exp-img"><b>Minat yang Cukup Tinggi di Bidang Web dan Digital Marketing</b></div>
 							</div>
 							<div class="col-sm-3">
 								<img src="img/syarat2.png" class="img-responsive center-block"/>
-								<div class="text-center exp-img"><b>Kemampuan Terbaik di Bidangnya</b></div>
+								<div class="text-center exp-img"><b>Ahli di bidangnya</b></div>
 							</div>
 							<div class="col-sm-3">
 								<img src="img/syarat3.png" class="img-responsive center-block"/>
-								<div class="text-center exp-img"><b>Profesional dan Disiplin</b></div>
+								<div class="text-center exp-img"><b>Profesional dan Bertindak Secara Logis. Memiliki Keinginan Kuat untuk Berkembang</b></div>
 							</div>
 							<div class="col-sm-3">
 								<img src="img/syarat4.png" class="img-responsive center-block"/>
-								<div class="text-center exp-img"><b>Kreatif dan Berinisiatif</b></div>
+								<div class="text-center exp-img"><b>Kreatif dan Memiliki Inisiatif Tinggi</b></div>
 							</div>
 						</div>
 					</div>
@@ -183,7 +232,6 @@
 								<div class="clearfix"></div>
 							</div>
 						</div>
-						
 					</div>
 					
 					<a href="career/" target="_blank" onclick="ga('send', 'event', 'Button-Gabung-dengan-Kami-1', 'Action-Click', 'Button-Gabung-dengan-Kami-1-Label');">
