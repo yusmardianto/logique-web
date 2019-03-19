@@ -15,47 +15,50 @@ ga('send', 'pageview');
 		<div class="row">
 			<div class="col-sm-9 col-sm-push-3">
 				<div class="row">
-					<div class="col-sm-2 link-footer-nav">
+					<div class="col-sm-4 link-footer-nav">
 						<ul>
 							<li><a href="/en/index.php">Home</a></li>
 							<li><a href="/en/about.php">About Us</a></li>
-							<li><a href="/en/portfolio.php">Portfolio</a></li>
-							<li><a href="/en/services.php">Service</a></li>
-							<li><a href="/en/joinus.php">Career</a></li>
-							<li><a href="/career/">Join LOGIQUE</a></li>
-							<li><a href="/en/contact.php">Contact Us</a></li>
-						</ul>
-					</div>
-					<div class="col-sm-5 link-footer-nav">
-						 <ul>
-							<li><a href="/en/services/mekanisme-pembuatan-website" target="_blank">Web Development</a>
-								<ul>
-									<li><a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank"> Recruitment Website Creation</a></li>
-									<li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank"> Dentist Website Creation</a></li>
-									<!-- <a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a> -->
-								</ul>
-							</li>
-							 <li><a href="/en/services/pembuatan-sistem-web/" target="_blank">Web System Development</a></li>
+							
+							<li  class="have-submenu"><a href="/en/services.php">Service</a>
+								 <ul>
+									<li class="have-submenu"><a href="/en/services/mekanisme-pembuatan-website" target="_blank">Web Development</a>
+										<ul>
+											<li><a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank"> Recruitment Website Creation</a></li>
+											<li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank"> Dentist Website Creation</a></li>
+											<!-- <a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a> -->
+										</ul>
+									</li>
+							 		<li><a href="/en/services/pembuatan-sistem-web/" target="_blank">Web System Development</a></li>
 							 <li><a href="/en/services/pembuatan-aplikasi-mobile/">Mobile App Development</a></li>
 							 <li><a href="/en/services/penetration-testing/">WEB Security Assesment (Pentest)</a></li>
-							 <li></li>
-						 </ul>
-						 <ul>
-						 	<li>
-						 		<a href="/en/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja <span style="font-size: 12px;">(Remote Working Tool)</span>
-							</a></li>
-							<li><a href="/en/product/nippo.php" target="_blank">Nippo<span style="font-size: 12px;">(Daily Report Tool)</span>
-							</a></li>
-							<li><a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo<span style="font-size: 12px;"> (Employee Recruitment System)</span>
-							</a></li>
-						 </ul>
+						 
+								</ul>
+							</li>
+							
+						</ul>
 					</div>
-					<style type="text/css">
-						.link-footer-nav ul ul li{
-							list-style: disc;
-						}
-					</style>
-					<div class="col-sm-5 link-footer">
+					<div class="col-sm-4 link-footer-nav">
+						<ul>
+							<li  class="have-submenu"><a href="/en/product.php">Products</a>
+								<ul>
+						 			<li>
+						 				<a href="/en/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja <span style="font-size: 12px;">(Remote Working Tool)</span> </a></li>
+									<li><a href="/en/product/nippo.php" target="_blank">Nippo<span style="font-size: 12px;">(Daily Report Tool)</span> </a></li>
+									<li><a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo<span style="font-size: 12px;"> (Employee Recruitment System)</span> </a></li>
+						 		</ul>
+							</li>
+							<li><a href="/en/portfolio.php">Portfolio</a></li>
+							<li  class="have-submenu"><a href="/en/joinus.php">Career</a>
+								<ul><li><a href="/career/">Join LOGIQUE</a></li></ul>
+							</li>
+							
+							<li><a href="/en/contact.php">Contact Us</a></li>
+						</ul>
+						 
+					</div>
+			 
+					<div class="col-sm-4 link-footer">
 						<p>LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.	</p>
 
 						<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
@@ -74,8 +77,8 @@ ga('send', 'pageview');
 			<div itemscope itemtype="http://schema.org/Organization">
 				<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
 				<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-				<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
-				Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span>
+				<span itemprop="streetAddress"> Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5 <br/>
+				Ragunan, Ps. Minggu,  Jakarta Selatan, <br>Indonesia </span><span itemprop="postalCode">12550</span>
 				<br><br>
 				&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
 				<br>
