@@ -712,7 +712,7 @@
                   </div>
                   <h3>JBA</h3>
                   <div class="addition-desc text-left">
-										<div class=" ">Mobile App Development (Inspection & Quality Scoring System)</div>
+										<div class=" ">Pengembangan Aplikasi Mobile ( Pengembangan sistem pemeriksaan dan sistem penilaian )</div>
 										<small class="text-muted">4months, Android, node.js, JAVA, AWS</small>
 									</div>
                 </div>
@@ -723,7 +723,7 @@
                   </div>
                   <h3>PT. Sinarmas Land</h3>
                   <div class="addition-desc text-left">
-										<div class=" ">Creation of recruitment management system for a financial institution.</div>
+										<div class=" ">Pengembangan sistem manajemen rekrutmen  untuk lembaga keuangan.</div>
 										<small class="text-muted">3months, PHP Framework, HTML5/CSS3, MySQL</small>
 									</div>
                 </div>
@@ -734,7 +734,7 @@
                   </div>
                   <h3>Zuttoride Indonesia</h3>
                   <div class="addition-desc text-left">
-										<div class=" ">WEB-CRM system development for a motorcycle service company.</div>
+										<div class=" ">Pengembangan sistem manajemen pelanggan ( WEB-CRM ) untuk perusahaan layanan sepeda motor di Indonesia.</div>
 										<small class="text-muted">3months, PHP Framework, Payment Gateway, AWS</small>
 									</div>
                 </div>
@@ -1113,73 +1113,73 @@
                   <div class="img-thumb">
                     <img src="/img/portfolio/video-mysunlife.jpg" class="img-responsive center-block">
                   </div>
-                  2D Video Production(SunLife)
+                  Pembuatan Video 2D (SunLife)
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/video-mysunlife2.jpg" class="img-responsive center-block">
                   </div>
-                  2D Video Production(SunLife)
+                  Pembuatan Video 2D (SunLife)
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/video-otomart.jpg" class="img-responsive center-block">
                   </div>
-                  2D Video Production (OTOmart)
+                  Pembuatan Video 2D (OTOmart)
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/video-otomart2.jpg" class="img-responsive center-block">
                   </div>
-                  2D Video Production (OTOmart)
+                  Pembuatan Video 2D (OTOmart)
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/mufg-mockup.png" class="img-responsive center-block">
                   </div>
-                  Printing
+                  Percetakan
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/onitsuka-mockup.jpg" class="img-responsive center-block">
                   </div>
-                  Printing
+                  Percetakan
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/maison-news.png" class="img-responsive center-block">
                   </div>
-                  Content Creation
+                  Pembuatan Konten
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/insta-vid.png" class="img-responsive center-block insta-vid">
                   </div>
-                  Instagram Video Submission Contest
+                  Kontes pengiriman video Instagram
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/frangipani-photoshot.png" class="img-responsive center-block insta-vid">
                   </div>
-                  Frangipani Photo Shooting
+                  Pengambilan foto Frangipani
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/drone1.png" class="img-responsive center-block">
                   </div>
-                  Drone Foto / Video (Partner)
+                  Pengambilan foto / video menggunakan drone (Partner)
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/drone2.png" class="img-responsive center-block">
                   </div>
-                  Drone Foto / Video (Partner)
+                  Pengambilan foto / video menggunakan drone (Partner)
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/sunlife-flyer.jpg" class="img-responsive center-block">
                   </div>
-                  Flyer
+                  Flyer atau pamflet
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
@@ -1191,7 +1191,7 @@
                   <div class="img-thumb">
                     <img src="/img/portfolio/sunlife-polo-shirt.jpg" class="img-responsive center-block">
                   </div>
-                  Polo Shirt
+                  Kaos Polo
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
@@ -1203,49 +1203,49 @@
                   <div class="img-thumb">
                     <img src="/img/portfolio/bumbu-warasa-1.jpg" class="img-responsive center-block">
                   </div>
-                  Product Design (Ikeda Toka)
+                  Desain produk (Ikeda Toka)
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/minum-warasa-1.jpg" class="same-height img-responsive center-block">
                   </div>
-                  Product Design (Ikeda Toka)
+                  Desain produk (Ikeda Toka)
                 </div>
                 <div class="other-client-item">
                   <video class="vd-log same-height" poster="/img/portfolio/video-jfe.jpg" controls>
   								   <source src="/img/portfolio/JFE-video.webm" type="video/webm" />
   								   <source src="/img/portfolio/JFE-video.mp4" type="video/mp4" />
   								</video>
-                  JFE Shoji Video
+                  Video JFE Shoji
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/caroline-1.jpg" class="img-responsive center-block" style="height: 224px">
                   </div>
-                  Caroline Flyer
+                  Pamflet Caroline
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/sunlife-book.jpg" class="img-responsive center-block" style="height: 224px">
                   </div>
-                  SunLife Notebook
+                  Notebook SunLife
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/sunlife-book2.jpg" class="img-responsive center-block" style="height: 224px">
                   </div>
-                  SunLife Notebook
+                  Notebook SunLife
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
                     <img src="/img/portfolio/60jpid_catalog.png" class="img-responsive center-block" style="height: 224px">
                   </div>
-                  60th Anniversary catalog
+                  Katalog Peringatan 60 Tahun / katalog 60th Anniversary
                 </div>
 							</div>
 							<div class=" text-center">
-								<a href="contact.php" class="btn btn-contact-us-black">
-									<span style="font-size: 18px;">Would you like to know more details about our portfolio?</span>
+								<a href="hubungi-kami.php" class="btn btn-contact-us-black">
+									<span style="font-size: 18px;">Cari tahu lebih banyak mengenai portofolio kami</span>
 								</a>
 							</div>
 						</div>
