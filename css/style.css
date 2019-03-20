@@ -209,8 +209,24 @@ section.maintop {
   margin: 15px 0;
 }
 
+.link-long-text > a {
+    display: inline-block;
+    font-size: 17px;
+}
+
+@media (min-width: 1200px) {
+    .link-long-text > a {
+        font-size: 24px;
+    }
+}
+
 .section-margin-v-15 .characteristic-title{
   margin-bottom: 15px;
+}
+
+.sub-heading-margin-top-25 {
+    display: inline-block;
+    margin-top: 25px;
 }
 
 .title-30 {
@@ -2720,13 +2736,26 @@ blockquote::before {
 
 .div-alur {
     margin: 120px auto;
-    display: flex
+    display: flex;
+    font-size: 14px;
+}
+
+@media (min-width: 400px) {
+    .div-alur {
+        font-size: 15px;
+    }
 }
 
 .exp-step {
     position: absolute;
     padding-left: 46px;
     text-indent: -38px
+}
+
+@media (min-width: 768px) {
+    .exp-step {
+        min-width: 200px;
+    }
 }
 
 .exp-step span {
