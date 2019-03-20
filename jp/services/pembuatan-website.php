@@ -41,10 +41,10 @@ if(isset($_POST['submitted']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="Dalam melakukan pembuatan website, pengembangan website, pembuatan aplikasi dan pengembangan aplikasi serta desain web. Logique sebagai perusahaan jasa konsultasi digital membuat beberapa mekanisme yang perlu diketahui. Berikut ini adalah beberapa mekanisme pembuatan website yang ada di Logique">
-	<meta name="keywords" content="効果のある、コンバージョンのでる、意味のある、WEBサイトを予算内で、素早く、効率的に、先進テクノロジーを用い、セキュアに、作ります">
+	<meta name="keywords" content="LOGIQUEがインドネシアで作るWeb / ホームページは、集客ができる、お問い合わせが増える、採用応募者が増える、などコンバージョンが増える価値のあるWebです。WEBチャネルを活用して営業を効率的に行いたい、他社と差別化したい、カスタマーサービスを効率化したい、採用を強化したい、場合はLOGIQUEにお任せください。LOGIQUEのWeb制作サービス詳細。">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>LOGIQUEのWEB制作の特徴 | LOGIQUE Digital Indonesia</title>
+    <title>Web制作サービス詳細 | ジャカルタのWeb制作会社LOGIQUEデジタルインドネシア</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="assets/css/style_webdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
@@ -137,8 +137,8 @@ if(isset($_POST['submitted']))
 					<div style="position:relative">
 						<div class="language-btn">
 							<ul class="list-inline">
-								<li><a href="/layanan/mekanisme-pembuatan-website">ID</a></li>
-								<li><a href="/en/services/mekanisme-pembuatan-website">EN</a></li>
+								<li><a href="/layanan/web-dev.php">ID</a></li>
+								<li><a href="/en/services/web-dev.php">EN</a></li>
 								<li class="active"><a href="#">JP</a></li>
 							</ul>
 						</div>

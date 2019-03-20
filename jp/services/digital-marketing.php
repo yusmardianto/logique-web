@@ -62,9 +62,9 @@
 	<body>
 		<div class="language-btn">
 			<ul class="list-inline">
-				<li><a href="/en/services/digital-marketing/index.php">EN</a></li>
-				<li><a href="/layanan/digital-marketing/index.php">ID</a></li>
-				<li class="active"><a href="/jp/services/digital-marketing/index.php">JP</a></li>
+				<li><a href="/en/services/digital-marketing.php">EN</a></li>
+				<li><a href="/layanan/digital-marketing.php">ID</a></li>
+				<li class="active"><a href="#">JP</a></li>
 			</ul>
 		</div>
 		<div class="div-top">
@@ -428,7 +428,7 @@
 										<ul>
 											<li>
 												<a href="/jp/services/recruitment-web-dev.php" target="_blank">  採用サイト制作</a></li>
-											<li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">  歯科クリニック向けWeb制作</a></li>
+											<li><a href="/layanan/pembuatan-website-klinik-gigi.php" target="_blank">  歯科クリニック向けWeb制作</a></li>
 										</ul>
 									</li>
 									<li><a href="/jp/services/mobile-app-dev.php"> モバイルApp開発</a></li>
