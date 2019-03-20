@@ -424,7 +424,7 @@
 							<li  class="have-submenu"><a href="/jp/services.php">サービス</a>
 								<ul>
 									<li  class="have-submenu">
-										<a href="/jp/services/pembuatan-website.php" target="_blank">Web制作サービス</a>
+										<a href="/jp/services/web-dev.php" target="_blank">Web制作サービス</a>
 										<ul>
 											<li>
 												<a href="/jp/services/recruitment-web-dev.php" target="_blank">  採用サイト制作</a></li>

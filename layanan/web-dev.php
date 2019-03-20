@@ -148,7 +148,7 @@ if(isset($_POST['submitted']))
 							<ul class="list-inline">
 								<li class="active"><a href="#">ID</a></li>
 								<li><a href="/en/services/web-dev.php">EN</a></li>
-								<li><a href="/jp/services/pembuatan-website.php">JP</a></li>
+								<li><a href="/jp/services/web-dev.php">JP</a></li>
 							</ul>
 						</div>
 					</div>

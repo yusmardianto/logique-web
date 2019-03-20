@@ -1,37 +1,37 @@
 ﻿ <?php
-// require_once("assets/form/fgcontact_webdev.php");
+require_once("assets/form/fgcontact_webdev.php");
 
-// $formproc = new FGContactForm();
+$formproc = new FGContactForm();
 
-// //1. Add your email address here.
-// //You can add more than one receipients.
-// $formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
+//1. Add your email address here.
+//You can add more than one receipients.
+$formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
 
-// //2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
-// // and put it here
-// $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
+//2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
+// and put it here
+$formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
 
-// //$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
+//$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
 
-// if(isset($_POST['submitted']))
-// {
-//     if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
-//         $secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
-//         // $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
-//         $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
-//         // print_r($verifyResponse); exit;
-//         $responseData = json_decode($verifyResponse);
-//         if ($responseData->success) {
-//             if ($formproc->ProcessForm()) {
-//                 $msg = "<div class='alert alert-success' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
-//             }
-//         } else {
-//             $msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
-//         }
-//     } else {
-//         $msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
-//    }
-//  }
+if(isset($_POST['submitted']))
+{
+    if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
+        $secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
+        // $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
+        $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+        // print_r($verifyResponse); exit;
+        $responseData = json_decode($verifyResponse);
+        if ($responseData->success) {
+            if ($formproc->ProcessForm()) {
+                $msg = "<div class='alert alert-success' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+            }
+        } else {
+            $msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
+        }
+    } else {
+        $msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
+   }
+ }
 ?>
 
 <!DOCTYPE html>
@@ -146,7 +146,7 @@
 							<ul class="list-inline">
 								<li><a href="/layanan/web-dev.php">ID</a></li>
 								<li class="active"><a href="#">EN</a></li>
-								<li><a href="/jp/services/pembuatan-website.php">JP</a></li>
+								<li><a href="/jp/services/web-dev.php">JP</a></li>
 							</ul>
 						</div>
 					</div>
