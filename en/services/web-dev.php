@@ -150,12 +150,48 @@ if(isset($_POST['submitted']))
 							</ul>
 						</div>
 					</div>
-					<div class="col-md-offset-3 col-md-7 m-t-7em">
-						<h1 class="text-right">
-							Ready to Create<br class="hidden-xs"><span class="underline">Your Website</span>
+					<ol id="services-breadcrumb" class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+						<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+							<a itemprop="item" href="../index.php">
+								<span itemprop="name">Home</span>
+							</a>
+							<meta itemprop="position" content="1" />
+						</li>
+						<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+							<a itemprop="item" href="../services.php">
+								<span itemprop="name">Services</span>
+							</a>
+							<meta itemprop="position" content="2">
+						</li>
+						<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+							<a itemprop="item" href="#">
+								<span itemprop="name">Web Dev</span>
+							</a>
+							<meta itemprop="position" content="3">
+						</li>
+					</ol>
+					
+					<!-- <br class="hidden-xs"> -->
+					<!-- <span class="underline"> </span>-->
+					<div id="heading-service-web-dev" class="col-sm-offset-3 col-sm-7 m-t-7em">
+						<h1 class="text-left">
+							<p>
+								<span class="c-logique">LOGIQUE Web</span> / <br class="hidden-xs">Website Creation Service
+							</p>
+							<p>
+								<span class="underline">Ready to Create Your Website</span>
+							</p>
 						</h1>
 						<div class="subtitle-header">
-							Having a website can bring numerous benefits for your business. Attract customers, bring more inquiries, and increase conversions. All happens efficiently. And, if your website is great and beautifully designed, it can give class to your customers, higher branding, and well-built identity. But, how do you create a website with such advantages? Leave it all to LOGIQUE, the number one website creation company in Indonesia with variety of well-known achievements.
+							<p class="p-padding-v-15">
+								LOGIQUE creates Websites that can bring numerous benefits for your business. 
+								Attract customers, bring more inquiries, and increase conversions. 
+								All happens efficiently. 
+								Also, websites that are great and beautifully designed, which can give class to your customers, higher branding, and well-built identity.
+							</p>
+							<p class="p-padding-v-15">
+								LOGIQUE, founded by a Japanese entrepreneur, is the number one website creation company in Jakarta with variety of well-known achievements.
+							</p>
 						</div>
 					</div>
 				</div>
@@ -166,13 +202,194 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
 						<div class="panel text-center custom-1">
-							<h1><b>LOGIQUE, the number one choice to website creation in Indonesia</b></h1>
+							<h1><b>If you want to create a high-quality Website, LOGIQUE is the Web developer you should contact.</b></h1>
 							<br>
 							<p class="p-b-20">
-								LOGIQUE consists of developers, designers, and content writers who are professionals and experts in their fields. We guarantee that you will have a high quality website with international standards based on your needs and desires. We thoroughly understand how web works in Indonesia. It’s all very diverse, and we have handled many kinds of website in many fields, including government organizations and financial institutions. Those are made with variety of requests, from secure to miss-allowable websites, webs that require high creative demands, and complicated programming. It’s all taken care of with flexibility and speed. And, even though we are an international company, we have extensive knowledge of how digital business can work well in Indonesia. Therefore, if you need a great-built website in Indonesia, please consult LOGIQUE anytime.
+								LOGIQUE has created and developed more than 200 websites in Indonesia in many fields, from government organizations to financial institutions with high security. 
+								Those are made with variety of requests, from webs that require high creative demands, complicated programming, etc. 
+								We are trusted because we understand how growing business in digital will bring great success but also can be very hard without the right web system. 
+								We will proceed your request quickly with flexibility.
+							</p>
+							<p class="p-b-20">
+								As a professional web creation company, we serve the maximum quality with reasonable price. Our team consists of web developers, designers, and content writers – about 40 experienced experts in total, which is neither too large nor too small to work with. 
+								And, even though we are an international company, we have extensive knowledge of how digital business can bring high profit in Indonesia. 
+								So, if you need a great-built website in Indonesia, please consult LOGIQUE anytime.
 							</p>
 						</div>
 					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+						<div class="row">
+							<div class="col-md-4">
+								<div class="new-box min-h">
+									<h4>One-stop website Website production operation</h4>
+									<p>
+										Need web pages in Indonesian, English, and Japanese? 
+										LOGIQUE can create all three with SEO implementation. 
+										We also create a conversion design or inquiry form, even post-publication maintenance and digital marketing.
+									</p>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="new-box min-h">
+									<h4>Maximum quality, latest technology, and reliable security</h4>
+									<p>
+										We are also exceedingly experienced in implementing PWA, AMP, and complex functions for any website. 
+										Delivered after security checks by security experts. 
+										Produces a robust web that works lightly.
+									</p>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="new-box min-h">
+									<h4>Speed and& flexibility</h4>
+									<p>
+										We value speed. We are used to working quickly because we know how time matters the most to you. 
+										We are also very flexible and open to all forms of change. 
+										If you want adjustments, we can help you right away.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>		
+				</div>
+			</div>
+		</section>
+
+		<section class="section-layout web-service-flow">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="analysis-part flow-part">
+							<img src="assets/img/img-webdev/writing.png"> 
+							<h3>Analysis and Evaluation</h3>
+							<p>
+								If you already have a website, in order to improve it, we will analyze and evaluate the current situation of the website. 
+								We’ll examine why the traffic is very low? Is it the structure? Our teams are experts in getting the high valued analysis of the overall performance and extracting the issues.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="plan-part flow-part">
+							<img src="assets/img/img-webdev/intelligent.png"> 
+							<h3>Planning</h3>
+							<p>
+								In order to achieve the goal you want from the website, we will show you what the web should be, suggest what you should do now, and the improvisations needed for continual results from now on. 
+								The form of support will vary, depending on the website’s internal system.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="seo-part flow-part">
+							<img src="assets/img/img-webdev/analysis.png"> 
+							<h3>SEO / SEM</h3>
+							<p>
+								A website can’t collect much traffic just by making it public. 
+								Our experts are familiar with SEO measures in Indonesia, and will create a web that is highly visible in the organic search when relevant queries are entered into search engines. 
+								We can also conduct SEM strategies for a quick traffic rise through effective keywords.
+							</p>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+					<div class="col-sm-4">
+						<div class="info-part flow-part">
+							<img src="assets/img/img-webdev/ux.png"> 
+							<h3>Restructuring and Improvement</h3>
+							<p>
+								We don’t always need to recreate your website from scratch due to complicated issues found. 
+								Sometimes it can be too much work and too much cost. 
+								For this case, we offer you the best solution in organizing, collecting, and improving the website depending on your budget and the time you want.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="multiligual-part flow-part">
+							<img src="assets/img/img-webdev/language.png"> 
+							<h3>Multilingual Website Production and& Operation</h3>
+							<p>
+								We can support website production and operation in Indonesian, English, and Japanese. 
+								We understand that creative and segmented contents are very important for websites. 
+								Reach and engage with as many audience as possible.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="sosmed-part flow-part">
+							<img src="assets/img/img-webdev/customer.png"> 
+							<h3>Social Media Operation</h3>
+							<p>
+								Social media can be very powerful in increasing engagements with your customers. 
+								It can also help supporting traffic by sending customers from Social MediaSNS to the Web. 
+								We operate Social MediaSNS such as Facebook page, and Instagram Business account in Indonesian, English, and Japanese.
+							</p>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+					<div class="col-sm-4">
+						<div class="design-part flow-part">
+							<img src="assets/img/img-webdev/graphic-design.png"> 
+							<h3>Design Production</h3>
+							<p>
+								We design a user-friendly and conversion-friendly UI of your website. 
+								Our web design team will suggest designs of different tastes according to your requirements.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="markup-part flow-part">
+							<img src="assets/img/img-webdev/website.png"> 
+							<h3>Markup Coding</h3>
+							<p>
+								You can also request only HTML / CSS coding for your website. 
+								Our developer team is always catching up with the latest JavaScript-based front-end coding technology.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="responsive-part flow-part">
+							<img src="assets/img/img-webdev/devices.png"> 
+							<h3>Multi-device Support</h3>
+							<p>
+								We can create optimized and responsive sites for mobiles, smartphones, and tablets. 
+								We are experienced and have created many AMP and mobile friendly websites.
+							</p>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+					<div class="col-sm-4">
+						<div class="programing-part flow-part">
+							<img src="assets/img/img-webdev/programming.png"> 
+							<h3>Special Programming Features</h3>
+							<p>
+								You can request any programming features to add to websites such as Parallax motions. 
+								It is possible to correspond by JavaScript, HTML5, CSS3 etc. 
+								We propose the development of a website that attracts users according to your needs.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="system-part flow-part">
+							<img src="assets/img/img-webdev/engineering.png"> 
+							<h3>System Construction</h3>
+							<p>
+								Develop CMS systems, web systems, and business systems. 
+								It is possible to build and operate various systems that cooperate well with the website. 
+								We are good at website developments with PHP framework.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="apps-part flow-part">
+							<img src="assets/img/img-webdev/smartphone.png"> 
+							<h3>PWA as Mobile Apps</h3>
+							<p>
+								We can develop mobile apps as web apps instead of native apps with PWA. 
+								Push notification and offline operations are also possible.
+							</p>
+						</div>
+					</div>
+					<div class="clearfix"></div>
 				</div>
 			</div>
 		</section>
@@ -180,77 +397,46 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-7 border-l text-right">
-						<h2 class="text-right">More Than 6 Years of Experience</h2>
+						<h2 class="text-right">The flow of Website production in LOGIQUE</h2>
 						<p class="text-right">
-							LOGIQUE has more than 6 years of experience in the digital world, especially in relation to creating high quality websites with variety of requests, ranging from website creation, website development, maintenance, SEO implementation, and other various digital works. During that time, we have proven our ability and sincerity in realizing the desires of our clients.
+							The website creation by LOGIQUE always focuses on the compatibility of speed and quality. 
+							Our professionals and experts are in charge of every step. 
+							The flow when we create a website is highly structured, starting from planning and proposing to design, development, and operation, to actualize the best of a website. 
+							The stages LOGIQUE takes to create a website may vary depending on the type of the project (size of the website, CMS necessity, difficulty of system development, etc.). 
+							Here are the general flow of web creation in LOGIQUE.
 						</p>
 					</div>
 					<div class="col-md-3 text-center hidden-xs hidden-sm">
 						<a href="/en/" target="_blank"><img src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan" class="custom-2"></a>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-md-offset-1 col-md-7 border-l text-right">
-						<h2 class="text-right">Trusted by Many Companies from Local and International</h2>
-						<p class="text-right">
-							Made by the team who are professional in their fields, making our clients feel happy with the service and the results we provide. We have succeeded—and still keep on—working on major projects from national and international companies in various fields, from manufacturing, government, finance, to insurance.
-						</p>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-offset-1 col-md-7 border-l text-right">
-						<h2 class="text-right">Quick, Efficient, & Flexible</h2>
-						<p class="text-right">
-							We value speed. We are used to working quickly because we know how time matters the most to you. With a smart team and a planned and efficient workflow, we can ensure that you will receive the desired results in the time you set. We are also very flexible and open to all forms of change. If you want adjustments, we can help you right away.
-						</p>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-offset-1 col-md-7 border-l text-right">
-						<h2 class="text-right">Quality, Technology, & Security</h2>
-						<p class="text-right">
-							Need web pages in Indonesian, English, and Japanese? LOGIQUE can create all three with SEO implementation. And not only made with beautiful designs and high quality, we also incorporate the latest technology of programming to your website and deliver it after conducting vulnerability inspection by security experts. It works crisply and creates webs with high security robustness.
-						</p>
-					</div>
-				</div>
 			</div>
 		</section>
-		<section class="about" style="padding: 0;background-color: #fef5cc;">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-offset-1 col-md-10">
-						<div class="text-center custom-1">
-							<h1><b>The flow of website creation in LOGIQUE</b></h1>
-							<br>
-							<p class="p-b-20">
-								The website creation by LOGIQUE always focuses on the compatibility of speed and quality. Our professionals and experts are in charge of every step. The flow when we create a website is highly structured, starting from planning and proposing to design, development, and operation, to actualize the best of a website. The stages LOGIQUE takes to create a website may vary depending on the type of the project (size of the website, CMS necessity, difficulty of system development, etc). Here are the general flow of web creation in LOGIQUE.
-							</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+		
 		<section class="tahap-pemesanan">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-6 col-md-6">
 						<div class="card">
-							<section>
-							<div class="row">
-								<div class="col-xs-2 col-sm-2 col-md-2 text-right">
-									<span class="title-custom">1</span>
+								<div class="row">
+									<div class="col-xs-2 col-sm-2 col-md-2 text-right">
+										<span class="title-custom">1</span>
+									</div>
+									<div class="col-xs-10 col-sm-10 col-md-10">
+										<p class="title-custom-p"><b>Contact Us</b></p>
+									</div>
 								</div>
-								<div class="col-xs-10 col-sm-10 col-md-10">
-									<p class="title-custom-p"><b>Contact Us</b></p>
+								<div class="row">
+									<div class="col-md-offset-2 col-md-10 m-t-10">
+										<p>
+											Our team is ready to get your message anytime. 
+											You can immediately place an order and explain to us the initial description of the website as you want, from website creation, operation, CMS configuration, web system development, etc. 
+											Contact us via email <a style="color:#333" href="mailto:info@logique.co.id"><u>info@logique.co.id</u></a> or please fill in the available Order Form <a style="color:#333" target="_blank" href="/en/contact.php"><u>here</u></a>. You can also ask us anything regarding the web development, website design, or even the price. 
+											Feel free to talk to us in Indonesian, English, or Japanese. 
+											We will contact you immediately for further discussion.
+										</p>
+									</div>
 								</div>
-							</div>
-							<div class="row">
-								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>
-									Our team is ready to get your message anytime. You can immediately place an order and explain to us the initial description of the website as you want. Contact us via email <a style="color:#333" href="mailto:info@logique.co.id"><u>info@logique.co.id</u></a> or please fill in the available Order Form <a style="color:#333" target="_blank" href="/hubungi-kami.php"><u>here</u></a>. You can also ask us anything regarding the web development, website design, or even the price. Feel free to talk to us in Indonesian, English, or Japanese. We will contact you immediately for further discussion.</p>
-								</div>
-							</div>
-							</section>
 						</div>
 					</div>
 				</div>
@@ -272,7 +458,10 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<p>
-										You may have a specific vision and target to increase the profit of your business through the website. We would like to hear everything from you. We don’t have to meet up. If you want, we can reach you through Skype or other communication apps so we can talk further about your business. Then, we will give you some suggestions about the website that might suit your interest, also the most effective approach based on your needs.
+										You may have a specific vision and target, whether to increase the profit of your business through the website, improve your image and branding, IR activities, recruitments, etc. 
+										We would like to hear everything from you. We don’t have to meet up. 
+										If you want, we can reach you through Skype or other communication apps so we can talk further about your business. 
+										Then, we will give you some suggestions about the website that might suit your interest, also the most effective approach based on your needs.
 									</p>
 								</div>
 							</div>
@@ -290,7 +479,15 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>After understanding everything, we will propose the website creation and utilization to solve the problem. If necessary, we will also conduct research, including about competitors and heuristic task analysis of the current website. Even until the submission of the proposal, we are cherishing the sense of speed and keeping in mind the prompt proposal. In the proposal, we will also provide optional services, such as photography, videography, and content creation as necessary. You can freely consult us if you have something in mind. The proposal will also include the price service as well as how long the time needed in the website creation. It’s all based on our transparency method, the difficulty level, and the number of team members needed to complete it.</p>
+									<p>
+										After understanding everything, we will propose the website creation and utilization to solve the problem. 
+										If necessary, we will also conduct research, including about competitors and heuristic task analysis of the current website. 
+										Even until the submission of the proposal, we are cherishing the sense of speed and keeping in mind the prompt proposal. 
+										In the proposal, we will also provide optional services, such as photography, videography, and content creation as necessary. 
+										You can freely consult us if you have something in mind. 
+										The proposal will also include the price service as well as how long the time needed in the website creation. 
+										It’s all based on our transparency method, the difficulty level, and the number of team members needed to complete it.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -307,7 +504,10 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>If you’re down to what we offer, the next process is the contract signing and the payment of 50% in advance. Soon after it’s all done, our team can start to operate the website creation for you.</p>
+									<p>
+										If you’re down to what we offer, the next process is the contract signing and the payment of 50% in advance. 
+										Soon after it’s all done, our team can start to operate the website production for you.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -331,7 +531,13 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<div class="border-right-custom"></div>
-									<p>Before we create the website, we will confirm all the details of your website structure and requirements. This is to ensure that there are no missed points and cause obstacles in the future. In addition, we will also show the website framework (wireframe) that we have made for you as an initial description. Then, the concept, design, domain, and web server will be confirmed and decided. We will also decide on production schedule. We will ask you to prepare web content materials such as company logos and photos.</p>
+									<p>
+										First, we will confirm all the details of your website structure and requirements. 
+										This is to ensure that there are no missed points and cause obstacles in the future. 
+										In addition, we will also show the website framework (wireframe) that we have made for you as an initial description. 
+										Then, the concept, design, domain, and web server will be confirmed and decided. 
+										If you already have a website, you can share with us the access to Google Analytics.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -350,7 +556,11 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<div class="border-right-custom"></div>
-									<p>At this stage, the homepage concept will be created and designed according to the references you provide. Our website design team will also provide several alternatives for which you can then approve or revise. After your approval, we will then create the rest of the pages based on the main website design.</p>
+									<p>
+										At this stage, the homepage concept will be created and designed according to the references you provide. 
+										Our website design team will also provide several alternatives for which you can then approve or revise. 
+										After your approval, we will then create the rest of the pages based on the main website design.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -367,7 +577,12 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Here, we will execute a programming function from various features that have been planned, including the CMS. This stage also includes implementing SEO that follows the UI/UX design, and eliminating the security vulnerability of the web. We will ensure that the entire data architecture and features in the website are running and functioning properly. This concept is to ensure that the website is well structured for your targeted audience experience.</p>
+									<p>
+										Here, we will execute a programming function from various features that have been planned, including the CMS. 
+										This stage also includes implementing SEO that follows the UI/UX design, and eliminating the security vulnerability of the web. 
+										We will ensure that the entire data architecture and features in the website are running and functioning properly. 
+										This concept is to ensure that the website is well structured for your targeted audience experience.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -390,7 +605,13 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>After we create the website, we will perform appropriate tests according to the contents and website design. We make sure that there is no HTML syntax error, the website is fully mobile friendly, each page is loading quickly, and SEO countermeasure is done effectively. For security needs, we also conduct tests and security checks based on many test scenarios. Then, we will periodically demonstrate the features to you, where you will be able to directly provide us feedbacks for each feature. When the project has entered the finalization stage, you can perform test too as a proof that all functions have been confirmed and are running well.</p>
+									<p>
+										After we create the website, we will perform appropriate tests according to the contents and website design. 
+										We make sure that there is no HTML syntax error, the website is fully mobile friendly, each page is loading quickly, and SEO countermeasure is done effectively. 
+										For security needs, we also conduct tests and security checks based on many test scenarios. 
+										Then, we will periodically demonstrate the features to you, where you will be able to directly provide us feedbacks for each feature. 
+										When the project has entered the finalization stage, you can perform test too as a proof that all functions have been confirmed and are running well.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -408,7 +629,12 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>At this stage, your website will be deployed to the web server and made public. We can help move data from your old website if needed. After publication, we will do index registration on Google and setting up Google Analytics for further maintenance. You can also immediately pay off the remaining payments and your website can be used immediately. </p>
+									<p>
+										At this stage, your website will be deployed to the web server and made public. 
+										We can help move data from your old website if needed. 
+										After publication, we will do index registration on Google and setting up Google Analytics for further maintenance. 
+										You can also immediately pay off the remaining payments and your website can be used immediately.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -425,7 +651,13 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>After the website is launched, we don't leave you just yet. Every website requires long-term management, including yours. We will continue to maintain your website system in order to keep the results you want. LOGIQUE provides variety of management services, starting from observing the system, carrying out daily operations, even regular content creation, SNS operation, up to digital advertisement operation. All for the maximum results from your website.</p>
+									<p>
+										After the website is launched, we don't leave you just yet. 
+										Every website requires long-term management, including yours. 
+										We will continue to maintain your website system in order to keep the results you want. 
+										LOGIQUE provides variety of management services, starting from observing the system, carrying out daily operations, even regular content creation, Social MediaNS operation, up to digital advertisement operation. 
+										All for the maximum results from your website.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -435,53 +667,63 @@ if(isset($_POST['submitted']))
 		</section>
 		<section class="layanan p-t-10-m" style=" margin-top: 0; ">
 			<div class="container">
-				<div class="row">
+				<div class="row hidden-md hidden-lg">
 					<div class="col-md-12">
-						<h3><b># NEED OTHER SERVICE FROM LOGIQUE OTHER THAN WEB CREATION?</b></h3>
-						<p>Not only create a website, LOGIQUE also provides a variety of other services that can be a solution to optimize your digital business.</p>
+						<h2 class="m-m-10">NEED OTHER SERVICES?</h2>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-4">
-						<h2 class="custom-3">Mobile Apps Development</h2>
-						<p class="min-h">LOGIQUE also develops mobile apps for Android and iOS with UI/UX that are user-friendly, stable, and easy to use. This includes designing, implementing new technologies, optimizing UI/UX, and registering to Google Play/App Store. We also provide a lot of mobile related solutions, such as Progressive Web Apps (PWA) and Accelerated Mobile Pages (AMP). We have developed highly maintainable applications for numbers of clients in Indonesia.</p>
-						<!-- <div>
-							<a href="/en/services/pembuatan-aplikasi-mobile/" target="_blank" class="btn btn-logic btn-md">See More</a>
-						</div> -->
+						<h2 class="custom-3">Mobile (smartphone) Apps Development</h2>
+						<p class="min-h">
+							We can also develop Android apps, iOS apps, and hybrid apps. 
+							We have extensive experience with mobile related solutions such as PWA and AMP Production, so we can support a wide range. 
+							With API development and infrastructure construction such as AWS, we develop highly maintainable apps with one-stop support.
+						</p>
+						<div>
+							<a href="/en/services/mobile-app-dev.php" target="_blank" class="btn btn-logic btn-md">Learn more</a>
+						</div>
 					</div>
 					<div class="col-md-4">
-						<h2 class="custom-3">Website Creation for HR Related Solution/Recruitment</h2>
-						<p class="min-h">To help your company find suitable candidates, we provide structured, dynamic, and well-optimized career website pages. This page will show the professionalism of your company, so that there will be many prospective workers who are interested in working in your company. For HR solutions, we also provide activity management system, daily report management system, work situation management, & telework management system for productivity improvement.</p>
-						<!-- <div>
-							<a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank" class="btn btn-logic btn-md">See More</a>
-						</div> -->
+						<div class="border-top-custom-2 hidden-xs hidden-sm">NEED OTHER SERVICES?</div>
+						<h2 class="custom-3">HR Related Solution/Recruitment</h2>
+						<p class="min-h">
+							To help your company find suitable candidates, we provide structured, dynamic, professional, and well-optimized career website pages. 
+							For HR solutions, we also provide activity management system, daily report management system, work situation management, and& telework management system for productivity improvement.
+						</p>
+						<div>
+							<a href="/en/services/recruitment-web-dev.php" target="_blank" class="btn btn-logic btn-md">Learn more</a>
+						</div>
 					</div>
 					<div class="col-md-4">
 						<h2 class="custom-3">Web Security Assessment/Vulnerability Inspection</h2>
-						<p class="min-h">The security protection of your website is very necessary so that it is not easily infiltrated by irresponsible people. For this reason, LOGIQUE provides website security testing services. With this service, we will search for any gaps and potential infiltration, and then take precautions, such as SQL injection, cross-site scripting, session jacking, and others. We offer this service with prices starting from IDR 10 million.</p>
-						<!-- <div>
-							<a href="/en/services/penetration-testing/" target="_blank" class="btn btn-logic btn-md">See More</a>
-						</div> -->
+						<p class="min-h">
+							We conduct inspections to check for vulnerabilities in website security holes. 
+							There are various security risks such as hijacking and falsification on the web site. 
+							We will search for any gaps and potential infiltration, and then take precautions, such as SQL injection, cross-site scripting, session jacking etc.
+						</p>
+						<div>
+							<a href="/en/services/penetration-test.php" target="_blank" class="btn btn-logic btn-md">Learn more</a>
+						</div>
 					</div>
 				</div>
-				<div class="row">
+				<!-- <div class="row">
 					<div class="col-md-4">
 						<h2 class="custom-3">Website Management</h2>
 						<p class="min-h">Not only website creation, LOGIQUE also provides maintenance services or website management. Starting from maintenance, content creation with SEO, to digital marketing. All progress and strategies for increasing traffic will be reported directly to you periodically. During this management, we will ensure your website gets as many potential visitors as possible according to your business target.</p>
-						<!-- <div>
+						<div>
 							<a href="/en/services/pembuatan-aplikasi-mobile/" target="_blank" class="btn btn-logic btn-md">See More</a>
-						</div> -->
+						</div>
 					</div>
 					<div class="col-md-4">
 						<h2 class="custom-3">Digital Business Consultation</h2>
 						<p class="min-h">LOGIQUE has 6 years of experience in handling digital issues and helping various companies building businesses in the digital world, both on a national and international scale. If you have doubts or have problems related to your digital business, LOGIQUE provides consulting services that can provide solutions for you.<br>If you are interested in LOGIQUE services above, contact us immediately. </p>
-						<!-- <div>
+						<div>
 							<a href="/en/services/pembuatan-aplikasi-mobile/" target="_blank" class="btn btn-logic btn-md">See More</a>
-						</div> -->
+						</div>
 					</div>
-				</div>
-				<hr>
-				<div class="row">
+				</div> -->
+				<!-- <div class="row">
 					<div class="col-md-12">
 						<h3><b># FAQ</b></h3>
 						<p>Frequently Asked Questions</p>
@@ -509,7 +751,7 @@ if(isset($_POST['submitted']))
 						If you want to add additional features to the existing standard features, you will be charged additional fees according to the difficulty level.</p>
 					  </div>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</section>
 		<section class="tahap-pemesanan-list">
@@ -524,7 +766,7 @@ if(isset($_POST['submitted']))
 							<li class="m-b-5">Develop an Android/iOS application</li>
 							<li class="m-b-5">Operate an in-house management system</li>
 							<li class="m-b-5">Manage IT infrastructure</li>
-							<li class="m-b-5">Audit IT security, but is already structured from Japan</li>
+							<li class="m-b-5">Audit IT security, even if it’s already structured from Japan</li>
 							<li class="m-b-5">Increase awareness of your company/brand through digital marketing</li>
 							<li class="m-b-5">Achieve online marketing targets with online advertising</li>
 							<li class="m-b-5">Design and print company promotional materials for distribution</li>
@@ -534,8 +776,12 @@ if(isset($_POST['submitted']))
 						</ul>
 					</div>
 				</div>
+				<div class="text-center link-long-text" style="margin-top: 70px;">
+					<a href="/en/contact.php" target="_blank" class="btn-contact-us-black">
+						Please contact LOGIQUE about web production operation in Indonesia
+					</a>
+				</div>
 			</div>
-			<div class="border-top-list-2 hidden-xs hidden-sm"></div>
 		</section>
 		<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
 		<footer class="contact">
@@ -642,16 +888,6 @@ if(isset($_POST['submitted']))
 									<a href="/en/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
 									<a href="/en/product/nippo.php" target="_blank">Nippo</a>
 									<a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
-								</div>
-							</div>
-							<div class="col-sm-6">
-								<div class="link-footer-webdev" style="padding-left:30px">
-									<br/>
-									<div style="margin-bottom:8px"><b>Social Media</b></div>
-									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i> Facebook</a>
-									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
-									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a>
-									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i> Linkedin</a>
 								</div>
 							</div>
 						</div>
