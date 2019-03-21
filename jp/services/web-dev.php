@@ -99,6 +99,12 @@ if(isset($_POST['submitted']))
 									サービス
 								</a>
 							</div>
+													<div class="text-center active">
+							<a href="product.php">
+								<div class="img-product"></div>
+								プロダクト
+							</a>
+						</div>
 							<div class="text-center">
 								<a href="/jp/joinus.php">
 									<div class="img-career"></div>
@@ -131,6 +137,13 @@ if(isset($_POST['submitted']))
 								<img src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan" class="img-responsive">
 							</div>
 						</a>
+						<div class="breadcrumb-cont">
+						<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="../index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
+							  <li   itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" href="../services.php" ><span itemprop="name">LOGIQUEのサービス</span></a><meta itemprop="position" content="2" /></li>
+							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" " ><span itemprop="name">LOGIQUEホームページ制作サービス</span></a><meta itemprop="position" content="2" /></li>
+							</ol>
+						</div>
 					</div>
 				</div>
 				<div class="row">
@@ -144,15 +157,17 @@ if(isset($_POST['submitted']))
 						</div>
 					</div>
 					<div class="col-md-offset-2 col-md-9 m-t-10em">
-						<h1 class="text-left"><span class="c-logique"><span class="underline">LOGIQUEのWEB</span></span> / ホームページ制作サービス</h1>
+						<h1 class="text-left"><span class="c-logique"><span class="underline">LOGIQUEのWeb</span></span> /  ホームページ制作サービス</h1>
 						<div class="subtitle-header">
-							LOGIQUEの作るWEB/ホームページは<br/>
-							集客ができる、お問い合わせを増やせる、コンバージョン獲得できる<br/><br/>
+							<p>LOGIQUEが作るWeb / ホームページは、
+集客ができる、お問い合わせが増える、採用応募者が増える、<br>などコンバージョンが増える価値のあるWebです。
+</p>
 
-							WEBチャネルを活用して営業を効率的に行いたい、他社と差別化したい、<br/>
-							カスタマーサービスを効率化したい、採用したい、<br/>
-							場合はLOGIQUEにお任せください。<br/>
-							インドネシアで歴史も実績もNo1のWEB制作会社です。<br/>
+							<p>WEBチャネルを活用して営業を効率的に行いたい、 他社と差別化したい、<br>
+								カスタマーサービスを効率化したい、 採用を強化したい、<br>
+								場合はLOGIQUEにお任せください。<br>
+								インドネシアで歴史も実績もNo1のWEB制作会社です。<br/>
+						</p>
 						</div>
 					</div>
 				</div>
@@ -163,9 +178,8 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
 						<div class="panel text-center custom-1">
-							<h1><b>インドネシアでWEB制作するならLOGIQUE１択です！</b></h1>
-							<br>
-							<p class="p-b-20">インドネシアでのWEB制作の経験が違います。数多くのWEB、それも政府系団体や金融機関などのセキュアでミスの許されないものから、クリエイティブへの要求が高いWEB、複雑なプログラミングが必要なWEBなど様々なものを手がけてきました。スピード感をもって柔軟に進めます。インドネシアでWEB制作・運用が必要であればLOGIQUEにご相談ください。</p>
+							<h2 style="margin-bottom: 20px;"><b>インドネシアでWeb制作するならLOGIQUE一択です！</b></h2> 
+							<p class="p-b-20">インドネシアで200件以上のWebサイトを制作運営してきました。政府系団体や金融機関などのセキュアでミスの許されないものから、クリエイティブへの要求が高いWeb、複雑なプログラミングが必要なWebなど様々なものを手がけてきました。スピード感をもって柔軟に進めます。大きすぎず小さすぎない社員数40数名で運営していますので、リーズナブルだけれど安心してお取引いただけるWeb制作会社です。インドネシアでWeb制作・運用が必要であればLOGIQUEにご相談ください。</p>
 						</div>
 					</div>
 				</div>
@@ -174,20 +188,20 @@ if(isset($_POST['submitted']))
 						<div class="row">
 							<div class="col-md-4 text-center">
 								<div class="new-box min-h">
-									<h4>インドネシアで6年以上の経験</h4>
-									<p><br>インドネシアにて金融機関や政府系団体のプロジェクトを長期間行ってきました。インドネシア語のSEO対策を実装したインドネシアでコンバージョンがでるWEBを制作します。</p>
+									<h4>Webサイト制作運用をワンストップで</h4>
+									<p> 多言語Web、インドネシア語のSEO対策を実装したホームページ、コンバージョンがでるランディングページを制作してきました。公開後のメンテナンスやデジタルマーケティングなども含め関連サービスを幅広くご支援しています。</p>
 								</div>
 							</div>
 							<div class="col-md-4 text-center">
 								<div class="new-box min-h">
-									<h4>品質＆テクノロジー＆セキュリティ</h4>
-									<p>最新テクノロジーを積極的に取り入れてセキュリティの専門家による脆弱性検査を行った上で納品します。サクサク動作してセキュリティ堅牢性の高いWEBを制作します。</p>
+									<h4>品質・テクノロジー・セキュリティ</h4>
+									<p>PWAやAMPなど要件にもお応えしています。プログラマーが複雑な機能の実装も行います。セキュリティの専門家による脆弱性検査を行った上で納品します。軽快に動作するセキュリティ堅牢性の高いWebを制作します。</p>
 								</div>
 							</div>
 							<div class="col-md-4 text-center">
 								<div class="new-box min-h">
 									<h4>スピード＆柔軟性</h4>
-									<p><br>スピードを重要視しています。素早く制作開発して公開するためにプロジェクトを素早く積極的にリードします。後で手戻り作業が必要になった場合でも柔軟に対応します。</p>
+									<p><br>スピードを重要視しておりアジャイル制作開発を行っています。素早く制作開発して公開するためにプロジェクトを素早く積極的にリードします。特別なご要望にも柔軟に対応しています。</p>
 								</div>
 							</div>
 						</div>
@@ -195,12 +209,105 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</section>
-		<section class="obstacle" style="padding-top: 20px">
+	  
+		<section class="section-layout web-service-flow" >
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="analysis-part flow-part">
+							<img src="assets/img/img-webdev/writing.png"> 
+							<h3>アクセス解析・課題抽出</h3>
+							<p>Webサイトの現状分析を分析評価します。なぜ、トラフィックが少ないのか、問い合わせが得られないのか？アクセス解析に加え、インドネシアWeb運営の専門家がヒューリスティック分析して、課題を抽出します。</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="plan-part flow-part">
+							<img src="assets/img/img-webdev/intelligent.png"> 
+							<h3>プランニング</h3>
+							<p>Webサイトに求めるゴールを達成するために、Webのあるべき姿を示し、いまやるべきこと、今後、継続して改善していくべきことを提案し、ご支援していきます。お客様社内の体制によってご支援の形は様々となります</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="seo-part flow-part">
+							<img src="assets/img/img-webdev/analysis.png"> 
+							<h3>SEO / SEM</h3>
+							<p>Webサイトは、工夫なく公開するだけでは多くのトラフィックを集められません。インドネシアでのSEO対策に精通したエキスパートがオーガニック検索集客力のあるWebを制作します。PPC広告運用も効果的なキーワードを選定しご提案致します。</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="info-part flow-part">
+							<img src="assets/img/img-webdev/ux.png"> 
+							<h3>情報再構成・改善</h3>
+							<p>現状Webが実態にあわず再作成が必要だが、いちから作り直すのはもったいない、複雑すぎて修正が難しい、というケースがよくあります。Webサイトの整理・回収・改善も、ご予算とご希望の期間に応じて、最適なご提案を差し上げます。</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="multiligual-part flow-part">
+							<img src="assets/img/img-webdev/language.png"> 
+							<h3>多言語Webサイト制作運用</h3>
+							<p>インドネシア語、英語・日本語のサイト制作運用に対応可能です。コンテンツは非常に重要です。ただ翻訳するだけでなく、当社のコンテンツライターがコンテンツ制作することも可能です。<br><br></p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="sosmed-part flow-part">
+							<img src="assets/img/img-webdev/customer.png"> 
+							<h3>SNS運用</h3>
+							<p>Facebookページ、インスタグラムなどSNSをインドネシア語、英語、日本語で運用します。SNS上でのエンゲージメントのため、SNSからWebへの送客のためSNS運用も検討が必要です。<br/><br/></p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="design-part flow-part">
+							<img src="assets/img/img-webdev/graphic-design.png"> 
+							<h3>デザイン制作</h3>
+							<p>お客様の要件に沿った異なるテイストのデザインを複数のデザイナーが提案することでご希望に叶った、ユーザーフレンドリーでコンバージョンにつながるUI設計をします。<br/><br/></p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="markup-part flow-part">
+							<img src="assets/img/img-webdev/website.png"> 
+							<h3>マークアップ・コーディング</h3>
+							<p>HTML/CSSコーディングだけご依頼いただくことも可能です。Java Script系のフロントエンドコーディング技術は最新のものも常にキャッチアップしています。<br/><br/><br/></p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="responsive-part flow-part">
+							<img src="assets/img/img-webdev/devices.png"> 
+							<h3>マルチデバイス対応</h3>
+							<p>モバイル・スマートフォン、タブレット向け最適化サイト制作をします。レスポンシブWebの制作。AMPやモバイルフレンドリーWebの制作運用も経験豊富です。<br/><br/><br/></p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="programing-part flow-part">
+							<img src="assets/img/img-webdev/programming.png"> 
+							<h3>プログラミング</h3>
+							<p>パララックスなどWebサイトにモーションをつけられます。JavascriptやHTML5、CSS3などにより対応が可能です。ユーザーを惹きつけるWebサイトの開発をご要望にあわせご提案いたします。 </p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="system-part flow-part">
+							<img src="assets/img/img-webdev/engineering.png"> 
+							<h3>システム構築</h3>
+							<p>CMSシステムやWebシステム、業務システムを開発します。Webサイトと連携して動くシステムだけでなく各種システムを構築運用可能です。PHPフレームワークでの開発が得意です。<br/><br/> </p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="apps-part flow-part">
+							<img src="assets/img/img-webdev/smartphone.png"> 
+							<h3>モバイルアプリ対応</h3>
+							<p> PWAでネイティブアプリではなくウェブアプリとしてモバイルアプリを開発します。プッシュ通知やオフラインでの動作も可能です。<br/><br/><br/></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		 <section class="obstacle" style="padding-top: 20px; ">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-7 border-l text-right">
-						<h2 class="text-right">WEBサイト（ホームページ）制作の流れ</h2>
-						<p class="text-right">LOGIQUEのホームページ制作は、スピード感とクオリティを両立させてプロジェクトを進めていきます。企画・提案からデザイン、開発、運用までの全工程が対応可能です。各工程において高いスキルをもった専門家が担当します。ホームページ制作の流れは各プロジェクトの種類（WEBサイトの規模、CMS要否、システム開発の難易度、など）によって変わる場合もございますがおおよそ下記の流れになります。</p>
+						<h2 class="text-right">Webサイト（ホームページ）制作の流れ</h2>
+						
+						<p class="text-right">LOGIQUEのホームページ制作は、スピード感とクオリティを両立させてプロジェクトを進めていきます。企画・提案からデザイン、開発、運用までの全工程を対応可能です。各工程において高いスキルをもった専門家が担当します。ホームページ制作の流れ、必要期間は、各プロジェクトの種類（Webサイトの規模、CMS要否、システム開発の難易度、など）によって変わる場合もございますがおおよそ下記の流れになります。通常トータルで1ヶ月から2ヶ月で完成します。</p>
 					</div>
 					<div class="col-md-3 text-center hidden-xs hidden-sm">
 						<a href="/jp/" target="_blank"><img src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan" class="custom-2"></a>
@@ -224,7 +331,7 @@ if(isset($_POST['submitted']))
 								</div>
 								<div class="row">
 									<div class="col-md-offset-2 col-md-10 m-t-10">
-										<p>WEBサイト制作や運用について、CMSの構築やWEBシステム開発などもLOGIQUEはお客様のご支援をする準備ができていますので、どのようなご要望でもお聞かせいただければと思います。入札への参加リクエストなどもお気軽にご相談ください。提案や入札への参加リクエストなどはお気軽にinfoアットlogique.co.idか問い合わせフォームよりご連絡いただければ幸いです。日本語、英語、インドネシア語のお問い合わせにご対応いたします。</p>
+										<p>Webサイト制作や運用について、CMSの構築やWebシステム開発などもLOGIQUEはお客様のご支援をする準備ができていますので、どのようなご要望でもお聞かせいただければと思います。入札への参加リクエストなどもお気軽にご相談ください。提案や入札への参加リクエストなどはお気軽にinfoアットlogique.co.idか問い合わせフォームよりご連絡いただければ幸いです。日本語、英語、インドネシア語のお問い合わせにご対応いたします。</p>
 									</div>
 								</div>
 							</section>
@@ -248,7 +355,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>お客様がホームページに求めるゴールなどご要望をお聞かせいただきます。販売強化が必要、イメージ・ブランディング向上、IR活動、採用活動、などさまざまな目的がありますので、お客様のビジネス課題と併せてお聞かせいただきます。ジャカルタでのお打ち合わせが難しい場合などでもSKYPEなどを通じてヒアリングさせていただきます。ヒアリングさせていただいた内容でご提案を行いますので、ここでご要望やゴールなどの情報を漏れなくお聞きすること重要になります。</p>
+									<p>お客様がホームページに求めるゴールなどご要件をお聞かせいただきます。集客強化が必要、イメージ・ブランディング向上、IR活動、採用活動、などさまざまなお客様のビジネス課題と併せてお聞かせいただきます。ジャカルタでのお打ち合わせが難しい場合などでもSKYPEなどを通じてヒアリングさせていただきます。</p>
 								</div>
 							</div>
 						</div>
@@ -265,7 +372,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>ヒアリングで共有いただいた課題を解決するWEB活用・制作運用をご提案します。必要に応じて、同業・競合他社のリサーチや現行WEBサイトのヒューリスティックな課題分析なども行い企画・立案をおこないます。ご提案提出までもスピード感を大事にしており、迅速なご提案を心がけています。必要に応じて追加オプションのご提案などもしますのでお気軽にご相談ください。原則、提案費なしでの受注前デザイン制作などはお断りしております。</p>
+									<p>要件に応え、課題を解決するWeb活用・制作運用をご提案します。必要に応じて、同業・競合他社のリサーチや現行Webサイトのヒューリスティックな課題分析なども行い企画・立案をおこないます。スピード感を大事にしており、通常1週間以内の迅速なご提案を心がけています。必要に応じて追加オプションのご提案などもしますので</p>
 								</div>
 							</div>
 						</div>
@@ -306,7 +413,7 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<div class="border-right-custom"></div>
-									<p>改めてご要望・要件を確認しながら、ワイヤーフレームを作成し、WEBサイト構造を決めていくことになります。コンセプトやデザイン、ドメインやWEBサーバーについてなどについて確認決定していきます。制作・公開スケジュールについても決定します。会社ロゴや写真などWEBコンテンツ素材のご準備をお願いすることになります。現行ホームページがある場合はGoogle Analyticsアカウントの共有をお願いします。</p>
+									<p>改めてご要望・要件を確認しながら、ワイヤーフレームを作成し、Webサイト設計をします。コンテンツの準備もこのステップで進めます。現行ホームページがある場合はGoogle Analyticsアカウントの共有をお願いします。</p>
 								</div>
 							</div>
 						</div>
@@ -325,7 +432,7 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<div class="border-right-custom"></div>
-									<p>ワイヤーフレーム確定後、デザインを制作します。通常はTOPページについて2案デザインを制作してご提示します。採用いただいた1案をその後リバイズしていきます。TOPデザインの確定後、その他のWEBページのデザイン作成を行います。</p>
+									<p>ワイヤーフレーム確定後、デザインを制作します。通常はTOPページについて2案デザインを制作してご提示します。採用いただいた1案をその後リバイズしていきます。TOPデザインの確定後、その他のWebページのデザイン作成を行います。</p>
 								</div>
 							</div>
 						</div>
@@ -342,7 +449,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>デザインをhtml（WEBページ）にしていく、フォームやCMSなどが正常に機能するようにプログラミングします。SEO対策をしながら、WEBのセキュリティ脆弱性を消しながら、UI/UX設計どおりに実装します。実際のWEBページを確認いただきながら調整を繰り返して最終型までもっていきます。</p>
+									<p>デザインをhtmlコーディングして、Webページとしてご確認いただけるようにします。フォームやCMSなどが正常に機能するようにプログラミングします。UI/UX設計どおりに実装します。</p>
 								</div>
 							</div>
 						</div>
@@ -365,7 +472,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>制作するWEBサイトの内容に応じて適切なテストを行います。静的なWEBでも、HTMLシンタックスエラーがないか、Mobileフレンドリー性確認、ページLoadingスピード確認、SEO対策が効果的になされているか、からデザイン通りに実装されているか複数の環境で確認するなどテスト内容は多岐にわたります。さらにCMSやデータベース連携WEBなどの場合には、多くのテストシナリオに基づくテストやセキュリティ検査を行います。</p>
+									<p>HTMLシンタックスエラー、Mobileフレンドリー性、ページLoadingスピード、SEO対策が効果的になされているか、マルチデバイス確認など様々なテストを行います。さらにCMSやデータベース連携Webなどの場合には、多くのテストシナリオに基づくテストとセキュリティ検査を行います。</p>
 								</div>
 							</div>
 						</div>
@@ -383,7 +490,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>WEBサイトをWEBサーバーにDeployし各種設定を行い公開します。当社がドメインやサーバーなども管理する場合もあれば、必要なWEBファイルを納品しお客様にお客様管理WEBサーバーに公開作業を行っていただく場合もあります。公開後、GoogleへのIndex登録やGoogleアナリティクスの設定なども当社で行います。</p>
+									<p>WebファイルをWebサーバーにDeployし各種設定を行い公開します。当社がドメインやサーバーなども管理する場合もあれば、必要なWebファイルを納品しお客様に公開作業を行っていただく場合もあります。公開後のGoogleへのIndex登録やGoogleアナリティクスの設定なども当社で行います。</p>
 								</div>
 							</div>
 						</div>
@@ -400,7 +507,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>公開後の運用改善がより良いWEBサイトにしていくために重要なポイントになります。WEBサイトへのアクセス状況を分析することで改善すべき点が見えますので、日々ホームページをユーザーのニーズに沿ったものに改良していきます。WEBサイト、WEBサーバーのモニターから、障害時の復旧作業などの保守作業、日々の更新作業、コンテンツ作成、SNSの運用、アクセス解析、Digital広告運用までトータルに支援いたします。</p>
+									<p>公開後の運用改善がより良いWebサイトにしていくために重要です。Webサイトへのアクセス状況を分析し改善します。Webサイト、Webサーバーのモニターから、障害時の復旧作業などの保守作業、日々の更新作業、コンテンツ作成、SNSの運用、アクセス解析、Digital広告運用までトータルに支援いたします。</p>
 								</div>
 							</div>
 						</div>
@@ -412,7 +519,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row hidden-md hidden-lg">
 					<div class="col-md-12">
-						<h2 class="m-m-10">LOGIQUEのWEB制作以外のサービス</h2>
+						<h2 class="m-m-10">LOGIQUEのWeb制作以外のサービス</h2>
 					</div>
 				</div>
 				<div class="row">
@@ -420,7 +527,7 @@ if(isset($_POST['submitted']))
 						<h2 class="custom-3">モバイル(スマホ)アプリケーション開発</h2>
 						<p class="min-h">スマホやタブレットで動くモバイルアプリケーションの開発も行っています。Androidアプリ、iOSアプリ、ハイブリッドアプリの開発が可能です。PWAやAMP制作などモバイル関連ソリューションは数多く経験してますので幅広いサポートができます。APIの開発、AWSなどインフラ構築などと合わせてワンストップでご支援し保守性の高いアプリを開発します。</p>
 						<div>
-							<a href="/jp/services/pembuatan-aplikasi-mobile/" target="_blank" class="btn btn-logic btn-md">もっと見る</a>
+							<a href="/jp/services/pembuatan-aplikasi-mobile/" target="_blank" class="btn btn-logic btn-md">モバイルアプリ開発について詳しくみる</a>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -428,14 +535,14 @@ if(isset($_POST['submitted']))
 						<h2 class="custom-3">HR関連ソリューション</h2>
 						<p class="min-h">人事採用関連のソリューションを提供しています。応募者を増やすためブランディングのため採用サイトの制作運用をご支援しています。また、当社独自プロダクトとして採用活動管理システム、日報管理システム、生産性向上のための勤務状況管理＆テレワーク管理システムをご提供しています。</p>
 						<div>
-							<a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank"  class="btn btn-logic btn-md">もっと見る</a>
+							<a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank"  class="btn btn-logic btn-md">HR関連プロダクトついて詳しくみる</a>
 						</div>
 					</div>
 					<div class="col-md-4">
-						<h2 class="custom-3">WEBセキュリティ脆弱性検査</h2>
-						<p class="min-h">WEBサイトのセキュリティホールがないか、脆弱性について確認する検査を実施します。WEBサイトには乗っ取りや改竄など様々なセキュリティリスクがあります。お客様のWEBサイトに応じて必要なセキュリティテストを実施し、問題点とリスクを明らかにします。静的なホームページの場合には10ジュタの簡易テストもご用意しています。</p>
+						<h2 class="custom-3">Webセキュリティ脆弱性検査</h2>
+						<p class="min-h">Webサイトにセキュリティホールがないか、脆弱性について確認する検査を実施します。乗っ取りや改竄などに対する脆弱性を確認し、問題点とリスクを明らかにします。静的なホームページの場合には15ジュタの簡易診断もご用意しています。</p>
 						<div>
-							<a href="/jp/services/penetration-testing/" target="_blank"  class="btn btn-logic btn-md">もっと見る</a>
+							<a href="/jp/services/penetration-testing/" target="_blank"  class="btn btn-logic btn-md">Webサイトのセキュリティテスト</a>
 						</div>
 					</div>
 				</div>
@@ -446,22 +553,28 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-6 col-md-6">
-						<h4><b>WEBサイトに関連するどんな課題にもお応えします</b></h4>
+						<h4><b>Webサイトに関連するどんな課題にもお応えします</b></h4>
 						<ul>
 							<li class="m-b-5">ホームページ制作/運用をアウトソースしたい</li>
-							<li class="m-b-5">オンラインでもっと集客して、WEBを重要な営業チャネルとする</li>
-							<li class="m-b-5">モバイル最適化されたWEBサイトにリニューアルしたい</li>
-							<li class="m-b-5">基幹システムと連携するWEBサイトを開発する必要がある</li>
-							<li class="m-b-5">WEBサーバー利用料、保守費用をコストダウンしたい</li>
-							<li class="m-b-5">SNSと連携したWEBサイトに作り直したい</li>
-							<li class="m-b-5">動画を 制作したい、動画をWEBに掲載したい</li>
+							<li class="m-b-5">オンラインでもっと集客して、Webを重要な営業チャネルとする</li>
+							<li class="m-b-5">モバイル最適化されたWebサイトにリニューアルしたい</li>
+							<li class="m-b-5">基幹システムと連携するWebサイトを開発する必要がある</li>
+							<li class="m-b-5">Webサーバー利用料、保守費用をコストダウンしたい</li>
+							<li class="m-b-5">SNSと連携したWebサイトに作り直したい</li>
+							<li class="m-b-5">動画を 制作したい、動画をWebに掲載したい</li>
 							<li class="m-b-5">SEO対策が不十分。検索サイト経由でもっと集客したい。</li>
 							<li class="m-b-5">問い合わせフォームを最適化して問い合わせ数を増やしたい</li>
-							<li class="m-b-5">デジタルマーケティングを活用しWEBへのトラフィックを増やしたい</li>
-							<li class="m-b-5">WEBコンテンツ制作をアウトソースしたい</li>
+							<li class="m-b-5">デジタルマーケティングを活用しWebへのトラフィックを増やしたい</li>
+							<li class="m-b-5">Webコンテンツ制作をアウトソースしたい</li>
 							<li class="m-b-5">オンラインチャット、チャットBotを導入して自動化したい</li>
 						</ul>
 					</div>
+				</div>
+				
+				<div class="text-center" style="margin-top: 70px;">
+					<a href="contact.php" class="btn btn-contact-us-black">
+						インドネシアのWeb制作運用についてLOGIQUEにお問い合わせください
+					</a>
 				</div>
 			</div>
 			<div class="border-top-list-2 hidden-xs hidden-sm"></div>

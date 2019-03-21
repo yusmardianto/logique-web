@@ -17,7 +17,7 @@ a,b,body,caption,center,dd,div,em,footer,form,h1,h2,h3,h4,h5,h6,header,html,i,if
     border: 0;
     font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
     line-height: 1.5
-}
+} 
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {display: block}
 a {outline: 0!important}
 a:focus,
