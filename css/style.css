@@ -71,7 +71,8 @@ section.maintop {
 }
 
 .logique-nav .text-center {
-    padding: 5px 10px
+    padding: 5px 10px;
+
 }
 
 .logique-nav .text-center.active,
@@ -292,8 +293,11 @@ section.maintop {
     vertical-align: middle
 }
 
+.logique-nav.in-jp{
+    line-height: normal;
+}
 .logique-nav.in-jp a {
-    font-size: 12px
+    font-size: 12px; 
 }
 
 .wrapper .navbar-collapse {

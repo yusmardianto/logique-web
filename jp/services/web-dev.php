@@ -75,7 +75,7 @@ if(isset($_POST['submitted']))
 				<div class="backdrop-test"></div>
 					<div class="logique-nav in-jp">
 						<div class="margin-for-nav">
-							<div class="text-center active">
+							<div class="text-center  active">
 								<a href="/jp/">
 									<div class="img-home"></div>
 									Home
@@ -99,7 +99,7 @@ if(isset($_POST['submitted']))
 									サービス
 								</a>
 							</div>
-													<div class="text-center active">
+							 	<div class="text-center">
 							<a href="product.php">
 								<div class="img-product"></div>
 								プロダクト
@@ -213,84 +213,84 @@ if(isset($_POST['submitted']))
 		<section class="section-layout web-service-flow" >
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="analysis-part flow-part">
 							<img src="assets/img/img-webdev/writing.png"> 
 							<h3>アクセス解析・課題抽出</h3>
 							<p>Webサイトの現状分析を分析評価します。なぜ、トラフィックが少ないのか、問い合わせが得られないのか？アクセス解析に加え、インドネシアWeb運営の専門家がヒューリスティック分析して、課題を抽出します。</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="plan-part flow-part">
 							<img src="assets/img/img-webdev/intelligent.png"> 
 							<h3>プランニング</h3>
 							<p>Webサイトに求めるゴールを達成するために、Webのあるべき姿を示し、いまやるべきこと、今後、継続して改善していくべきことを提案し、ご支援していきます。お客様社内の体制によってご支援の形は様々となります</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="seo-part flow-part">
 							<img src="assets/img/img-webdev/analysis.png"> 
 							<h3>SEO / SEM</h3>
 							<p>Webサイトは、工夫なく公開するだけでは多くのトラフィックを集められません。インドネシアでのSEO対策に精通したエキスパートがオーガニック検索集客力のあるWebを制作します。PPC広告運用も効果的なキーワードを選定しご提案致します。</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="info-part flow-part">
 							<img src="assets/img/img-webdev/ux.png"> 
 							<h3>情報再構成・改善</h3>
 							<p>現状Webが実態にあわず再作成が必要だが、いちから作り直すのはもったいない、複雑すぎて修正が難しい、というケースがよくあります。Webサイトの整理・回収・改善も、ご予算とご希望の期間に応じて、最適なご提案を差し上げます。</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="multiligual-part flow-part">
 							<img src="assets/img/img-webdev/language.png"> 
 							<h3>多言語Webサイト制作運用</h3>
 							<p>インドネシア語、英語・日本語のサイト制作運用に対応可能です。コンテンツは非常に重要です。ただ翻訳するだけでなく、当社のコンテンツライターがコンテンツ制作することも可能です。<br><br></p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="sosmed-part flow-part">
 							<img src="assets/img/img-webdev/customer.png"> 
 							<h3>SNS運用</h3>
 							<p>Facebookページ、インスタグラムなどSNSをインドネシア語、英語、日本語で運用します。SNS上でのエンゲージメントのため、SNSからWebへの送客のためSNS運用も検討が必要です。<br/><br/></p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="design-part flow-part">
 							<img src="assets/img/img-webdev/graphic-design.png"> 
 							<h3>デザイン制作</h3>
 							<p>お客様の要件に沿った異なるテイストのデザインを複数のデザイナーが提案することでご希望に叶った、ユーザーフレンドリーでコンバージョンにつながるUI設計をします。<br/><br/></p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="markup-part flow-part">
 							<img src="assets/img/img-webdev/website.png"> 
 							<h3>マークアップ・コーディング</h3>
 							<p>HTML/CSSコーディングだけご依頼いただくことも可能です。Java Script系のフロントエンドコーディング技術は最新のものも常にキャッチアップしています。<br/><br/><br/></p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="responsive-part flow-part">
 							<img src="assets/img/img-webdev/devices.png"> 
 							<h3>マルチデバイス対応</h3>
 							<p>モバイル・スマートフォン、タブレット向け最適化サイト制作をします。レスポンシブWebの制作。AMPやモバイルフレンドリーWebの制作運用も経験豊富です。<br/><br/><br/></p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="programing-part flow-part">
 							<img src="assets/img/img-webdev/programming.png"> 
 							<h3>プログラミング</h3>
 							<p>パララックスなどWebサイトにモーションをつけられます。JavascriptやHTML5、CSS3などにより対応が可能です。ユーザーを惹きつけるWebサイトの開発をご要望にあわせご提案いたします。 </p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="system-part flow-part">
 							<img src="assets/img/img-webdev/engineering.png"> 
 							<h3>システム構築</h3>
 							<p>CMSシステムやWebシステム、業務システムを開発します。Webサイトと連携して動くシステムだけでなく各種システムを構築運用可能です。PHPフレームワークでの開発が得意です。<br/><br/> </p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="apps-part flow-part">
 							<img src="assets/img/img-webdev/smartphone.png"> 
 							<h3>モバイルアプリ対応</h3>
@@ -714,7 +714,10 @@ if(isset($_POST['submitted']))
 			});
 
 			$('.min-h').matchHeight({
-				byRow: false
+				 // byRow: false
+			});
+			$('.flow-part').matchHeight({
+				// byRow: false
 			});
 		</script>
 	</body>
