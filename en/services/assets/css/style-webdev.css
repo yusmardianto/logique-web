@@ -1,68 +1,87 @@
 html,
 body {
-	font-family: 'Lato', serif;
-	background-color: #fff;
-	overflow-x: hidden;
+    font-family: 'Lato', serif;
+    background-color: #fff;
+    overflow-x: hidden;
 }
 header {
-	background-image: url(../img/img-webdev//satu.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
-	width: 100%;
-	height: 630px;
-	text-align: center;
-	padding-top: 90px;
-	padding-bottom: 90px;
+    background-image: url(../img/img-webdev/satu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 630px;
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 90px;
 }
 header h1 {
-	font-family: 'Lato', serif;
-	font-weight: 700;
-	font-size: 55px;
-	color: #FFFFFF;
-	letter-spacing: 0;
+    font-family: 'Lato', serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    letter-spacing: 0;
 }
-
+.subtitle-header {
+    color: #fff;
+    text-align: left;
+    font-size: 16px;
+    margin-top:30px
+}
+.new-box {
+    box-shadow: 0 2px 5px #fff6cc;
+    padding: 10px;
+    border: solid 1px #fdeea9;
+    border-radius: 0 0 2em 0;
+    margin-bottom: 1em;
+}
+.new-box h4 {
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+.new-box p {
+    font-size: 15px!important;
+    color: #a59e81;
+}
 .language-btn {position: absolute;right: 0;top: -65px}
 .language-btn .list-inline>li.active {border: solid 2px #ebc033;border-radius: 1em;}
 .language-btn .list-inline>li{width: 40px;height: 25px;border: solid 2px #777;border-radius: 1em;}
 .list-inline>li a {color: #fff}
-.subtitle-header{color:#fff;text-align:right;font-size:16px}
-.m-t-7em{margin-top: 7em;}
+.m-t-10em{margin-top: 10em;}
 .m-b-5{margin-bottom: 5px;}
 .c-logique {color: rgb(255, 205, 56);text-shadow: 0 2px 4px #333;}
-.underline {border-bottom: solid 8px #ebc033;padding-bottom: 20px;display:inline-block}
+.underline {border-bottom: solid 8px #ebc033;padding-bottom: 10px;}
 .about {
-	background-color: #fff;
+    background-color: #fff;
 }
-.about h1 {font-weight: 200;font-size: 26px;}
-.about p {font-size: 16px;text-align: justify;}
+.about h1 {font-weight: 200;font-size: 30px;}
+.about p {font-size: 18px}
 .p-b-20 {padding-bottom: 20px}
 .custom-1 {background-color: #fef5cc;padding: 1em 4em}
 .custom-2 {width: 180px;margin-top: 11em;}
 .border-l { border-right: solid 3px #333333 }
 
 .obstacle {
-	background-color: #fff;
+    background-color: #fff;
 }
 .obstacle h2 {
-	font-size: 20px;
-	color: #333;
-	margin-top: 50px;
-	margin-bottom: 10px;
-	padding-right: 16px;
-	font-weight: 700;
+    font-size: 20px;
+    color: #333;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding-right: 16px;
+    font-weight: 700;
 }
 .obstacle p {
-	padding: 15px;
-	text-align: right;
-	font-size: 15px;
-	color: #4A4A4A;
-	letter-spacing: 0;
+    padding: 15px;
+    text-align: right;
+    font-size: 15px;
+    color: #4A4A4A;
+    letter-spacing: 0;
 }
 
 section {
-	padding-top: 55px;
-	padding-bottom: 55px;
+    padding-top: 55px;
+    padding-bottom: 55px;
 }
 
 .title-custom {font-family:'Open Sans', sans-serif; color: #b69426; font-size: 66px; font-weight: 700; position: absolute; top: -30px; right: -10px;} 
@@ -72,55 +91,55 @@ section {
 
 
 .tahap-pemesanan {
-    background-image: url(../img/img-webdev//dua.jpg);
+    background-image: url(../img/img-webdev/dua.jpg);
     background-position: left center;
     background-size: cover;
     height: 550px;
 }
 .card {    
-	background: #feca38;
+    background: #feca38;
     padding: 10px;
     height: 300px;
     margin-top: 5em;
 }
 .card2 {    
-	background: #feca38;
+    background: #feca38;
     padding: 10px;
     height: auto;
 }
 .tahap-pemesanan-2 {background-color: #ffcd38}
 .tahap-pemesanan-3 {
-	background-image: url(../img/img-webdev//tiga.jpg);
+    background-image: url(../img/img-webdev/tiga.jpg);
     background-position: left center;
     background-size: cover;
     height: auto;}
 .card3 {    
-	background: transparent;
+    background: transparent;
     padding: 10px;
     height: auto;
 }
 .border-top-custom{
-	border: solid 10px #000;
+    border: solid 10px #000;
     position: absolute;
     width: 600px;
     top: -65px;
     left: -100px;}
 .border-top-custom-2{    
-	position: absolute;
+    position: absolute;
     width: auto;
     background: black;
     color: #fff;
-    font-size: 30px;
+    font-size: 18px;
     padding: 15px 25px;
     top: -90px;}
 .border-right-custom{
-	border: solid 1px #000;
+    border: solid 1px #000;
     position: absolute;
     height: 250px;
     right: -40px;
     top: 15px;}
 .border-top-list{
-	border: solid 4px #000;
+    border: solid 4px #000;
     position: absolute;
     width: 600px;
     top: 0;
@@ -129,8 +148,8 @@ section {
     margin: auto;
    }
 .border-top-list-2{
-	position: absolute;
-	border: solid 4px #000;
+    position: absolute;
+    border: solid 4px #000;
     width: 600px;
     bottom: 0;
     left: 0;
@@ -143,16 +162,16 @@ section {
 .layanan{background-color: #fff7da;margin-top: 2.5em;}
 .btn-logic {border-radius:5px;background-color: #ffcd38;color:#000;margin-top: 15px;}
 .tahap-pemesanan-list {
-    background: url(../img/img-webdev//empat.jpg) no-repeat center;
+    background: url(../img/img-webdev/empat.jpg) no-repeat center;
     background-size: contain;
     position: relative;
-    padding: 80px 0;
+    padding: 80px 0 0;
     margin-bottom: 65px;
 }
 
 .row {
-	margin-left: -12px;
-	margin-right: -12px;
+    margin-left: -12px;
+    margin-right: -12px;
 }
 
 .captcha-custom {
@@ -163,45 +182,45 @@ section {
 }
 
 .img-fluid {
-	width: 100%;
+    width: 100%;
 }
 
 .contact {
-	background-color: #000;
-	color: #fff;
+    background-color: #000;
+    color: #fff;
 }
 
 .contact .form-control {
-	background-color: transparent;
-	color: #fff;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	border-radius: 0;
+    background-color: transparent;
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 0;
 }
 .cs-custom{padding-top: 10px;width: 150px}
 
 footer {
-	padding-top: 40px;
-	padding-bottom: 40px;
-	background-color: #000;
-	color: #fff;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #000;
+    color: #fff;
 }
 footer a {
-	color: #fff;
+    color: #fff;
 }
 footer a:hover,
 footer a:focus {
-	color: #fff;
-	text-decoration: none;
+    color: #fff;
+    text-decoration: none;
 }
 footer p {
-	position: relative;
-	padding-left: 30px;
+    position: relative;
+    padding-left: 30px;
 }
 footer p:before {
-	position: absolute;
-	top: 0;
-	left: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 [class*="btn btn-logic btn-sm"] {
    color: #333;
@@ -226,7 +245,7 @@ footer p:before {
     font-weight: 300;
     transition: all .25s;
     overflow: auto;
-	left: 0;
+    left: 0;
 }
 .logique-nav .text-center {
     padding: 8px 10px
@@ -247,7 +266,7 @@ footer p:before {
 }
 .logique-nav a {
     color: #000;
-	text-decoration:none!important
+    text-decoration:none!important
 }
 .logique-nav .text-center.active a,
 .logique-nav .text-center.active:focus a,
@@ -257,18 +276,6 @@ footer p:before {
 .margin-for-nav {
     margin-top: 0
 }
-
-h2.text-right:after {
-    content: "";
-    width: 17px;
-    height: 17px;
-    background: #ffce3c;
-    border: solid;
-    position: absolute;
-    border-radius: 2em;
-    right: -10px;
-}
-
 @media (min-width:1200px) {
     .margin-for-nav {
         top: 50%;
@@ -287,16 +294,15 @@ h2.text-right:after {
     }
 }
 @media (max-width:767px) {
-	.logique-nav {
+    .logique-nav {
         margin-right: -150px;
         margin-left: auto;
         position: relative
     }
-	.collapse.in .logique-nav {
+    .collapse.in .logique-nav {
         margin-right: 0;
         padding-top: 0
     }
-    h2.text-right:after {content: none;}
 }
 .img-about,
 .img-blog,
@@ -304,7 +310,7 @@ h2.text-right:after {
 .img-contact,
 .img-home,
 .img-portfolio,
-.img-services {
+.img-services , .img-product {
     height: 44px;
     width: 44px
 }
@@ -394,18 +400,21 @@ h2.text-right:after {
     opacity: .7;
     display: none;
     top: 0;
-	left: 0;
+    left: 0;
 }
-@media (max-width: 767px){
-	.backdrop-test {
-		display: block;
-	}
+.img-product {
+    margin: auto;
+    background: url(/img/nav-img.png) -2px -440px no-repeat;
+
 }
-@media (max-width: 767px){
-	.nav-lp .navbar-collapse {
-		height: 100%!important;
-	}
+.logique-nav .text-center.active .img-product,
+.logique-nav .text-center.active:focus .img-product,
+.logique-nav .text-center.active:hover .img-product,
+.logique-nav .text-center:focus .img-product,
+.logique-nav .text-center:hover .img-product {
+    background: url(../img/nav-img-white.png) -2px -440px no-repeat
 }
+
 .nav-lp .navbar-collapse {
     padding: 0;
     position: fixed;
@@ -419,7 +428,7 @@ section,footer{margin-left:95px}
     background-color: #ffca13!important;
     position: relative!important;
     right: 0!important;
-	top: -80px;
+    top: -80px;
 }
 .nav-lp .navbar-toggle {
     background-color: #ffca13!important;
@@ -437,64 +446,221 @@ section,footer{margin-left:95px}
 .nav-lp .navbar-toggle .icon-bar.first {transform: rotate(45deg);}
 .nav-lp .navbar-toggle .icon-bar.second {background: 0 0;}
 .nav-lp .navbar-toggle .icon-bar.third {transform: rotate(-45deg);margin-top: -8px;}
+.breadcrumb-cont{
+    display: inline-block;
+    float: left;
+}
+ .breadcrumb {
+    background-color: transparent;
+    padding-left: 0;
+    margin-bottom: 0;
+    font-size: 13px;
+    color: #fff
+}
+
+ .breadcrumb a {
+    color: #fff;
+}
+
+ .breadcrumb li.active a {
+    text-decoration: underline
+}
+
+  .breadcrumb>li+li:before {
+    color: #fff;
+    content: "\003e"
+}
+
+.breadcrumb>.active {
+    color: #ebc033;
+}
+.flow-part{
+    position: relative;
+    padding-left: 75px;
+    margin-bottom: 30px;
+
+}
+.flow-part h3{
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+.flow-part p{
+    line-height: 25px;
+    padding: 10px 15px 10px 50px;
+    background: #fff59e;
+    margin-left: -50px;
+}
+.flow-part >img{
+    position: absolute;
+    top: 2px;
+    left: 0;
+}
+.web-service-flow {
+    padding-bottom: 25px;
+}
+.btn-contact-us-black {
+    background: #000;
+    border-radius: 5px;
+    color: #fff !important;
+    font-size: 24px;
+    padding: 10px 60px;
+    margin-top: 30px;
+}
+.tahap-pemesanan-list
 @media (max-width: 1199px){
-	.container {width: 925px;}
-	.title-custom-p,.custom-p-2{width:auto}
+    .container {width: 925px;}
+    .title-custom-p,.custom-p-2{width:auto}
 }
 @media (max-width: 768px){
-	.container {width: 670px;}
-	.logo-header{left: 50px;}
-	.tahap-pemesanan-list{background:none;padding: 20px;margin-bottom: 0;}
-	header .m-t-7em{margin-left: 45px;}
+    .container {width: 670px;}
+    .logo-header{left: 50px;}
+    .tahap-pemesanan-list{background:none;padding: 20px;margin-bottom: 0;}
+    header .m-t-10em{margin-left:55px}
+    .underline {border-bottom: 0;}
 }
 @media (max-width: 767px){
-	header .m-t-7em {margin-left: 0;margin-top:0}
-	.container {width:auto;}
-	.logo-header{left: 0;}
-	section,footer{margin-left:0}
-	.nav-lp .navbar-collapse {margin-top: -90px;}
-	.language-btn{right: 10px;}
-	.btn-portfolio {padding: 10px 15px;}
+        .backdrop-test {
+        display: block;
+    }
+    
+    .nav-lp .navbar-collapse {
+        height: 100%!important;
+    }
+    .container {width:auto;}
+    .logo-header{left: 0;}
+    section,footer{margin-left:0}
+    .nav-lp .navbar-collapse {margin-top: -90px;}
+    .language-btn{right: 10px;}
+    .btn-portfolio {padding: 10px 15px;}
+    header .m-t-10em{margin-left:0}
+
 }
 /* NAVIGATION */
 
 @media (max-width: 767px){
-.about h1{font-size: 22px;}
-footer h2{font-size:25px}
-.logo-header{left: 0}
-.no-10{right: -10px!important;font-size: 50px!important;top: -18px!important;}
-.card3, .card2{padding: 10px 0;}
-.title-custom{right: 0;}
-.border-l.text-right .text-right{text-align:left!important}
-.btn-logic{margin-bottom: 15px;}
-.title-custom-p{width: auto;}
-.custom-p-2{width: auto;}
-.obstacle p {padding: 0;}
-header{height:auto}
-header h1{font-size: 40px;}
-.custom-1{padding: 0 15px;}
-section {padding-top: 25px;padding-bottom: 25px;}
-.underline{border: none;display: inline;}
-.border-l{border: none}
-.layanan{margin-top: 0}
-.tahap-pemesanan-list{background-image: none;}
-.obstacle h2{margin-top: 0}
-.m-t-2em{margin-top:0;}
-.custom-p-1{right: 0}
-form {padding: 1em}
-.captcha-custom {
-    transform:scale(1.1);
-    -webkit-transform:scale(1.1);
-    transform-origin:0 0;
-    -webkit-transform-origin:0 0;}
-.tahap-pemesanan{height: auto;padding: 0;background-image: none;background: #feca38;}
-.card{margin-top: 0;height: auto;padding: 0;}
-.tahap-pemesanan-list{margin-bottom:0;padding:20px 0;}
-footer {padding-bottom: 0}
-.m-m-10 {margin-top: -5px}
-.min-h {height: auto!important}
+    header .m-t-10em{margin-top:0}
+    .about h1{font-size: 22px;}
+    footer h2{font-size:25px}
+    .no-10{right: -10px!important;font-size: 50px!important;top: -18px!important;}
+    .card3, .card2{padding: 10px 0;}
+    .title-custom{right: 0;}
+    .border-l.text-right .text-right{text-align:left!important}
+    .btn-logic{margin-bottom: 15px;}
+    .title-custom-p{width: auto;}
+    .custom-p-2{width: auto;}
+    .obstacle p {padding: 0;}
+    header{height:auto}
+    header h1{font-size: 40px;}
+    .custom-1{padding: 0 15px;}
+    section {padding-top: 25px;padding-bottom: 25px;}
+    .underline{border: none;display: inline;}
+    .border-l{border: none}
+    .layanan{margin-top: 0}
+    .tahap-pemesanan-list{background-image: none;}
+    .obstacle h2{margin-top: 0}
+    .m-t-2em{margin-top:0;}
+    .custom-p-1{right: 0}
+    form {padding: 1em}
+    .captcha-custom {
+        transform:scale(1.1);
+        -webkit-transform:scale(1.1);
+        transform-origin:0 0;
+        -webkit-transform-origin:0 0;}
+    .tahap-pemesanan{height: auto;padding: 0;background-image: none;background: #feca38;}
+    .card{margin-top: 0;height: auto;padding: 0;}
+    .tahap-pemesanan-list{margin-bottom:0;padding:20px 0;}
+    footer {padding-bottom: 0}
+    .m-m-10 {margin-top: -5px}
+    .min-h {height: auto!important}
 }
 
 @media (max-width: 360px){
-	.logo-header {width: 165px;}
+    .logo-header {width: 165px;}
+}
+
+/* Additional css */
+a:hover {
+    text-decoration: none;
+}
+.underline {
+    border-bottom: solid 5px #ebc033;
+    padding-bottom: 20px;
+    display:inline-block
+}
+
+#heading-service-web-dev h1 {
+    font-size: 40px;
+}
+
+#heading-service-web-dev h1 > p > span.underline {
+    display: inline-block;
+    font-size: 25px;
+}
+
+.subtitle-header {
+    text-align: left;
+}
+
+#services-breadcrumb.breadcrumb {
+    position: absolute;
+    background: transparent;
+    left: calc(95px + 25px);
+}
+
+@media (max-width: 767px) {
+    #services-breadcrumb.breadcrumb {
+        position: absolute;
+        top: 100px;
+        left: 0;
+    }
+}
+
+#services-breadcrumb.breadcrumb li > a {
+    color: #fff;
+}
+
+.btn-contact-us-black {
+    background: #000;
+    border-radius: 5px;
+    color: #fff !important;
+    font-size: 24px;
+    padding: 10px 60px;
+    margin: 30px 0;
+}
+
+.card {
+    padding:  55px 15px 30px 15px;
+    height: auto;
+}
+
+@media (max-width: 767px) {
+    .card {
+        padding: 30px 0 0 0;
+        margin-bottom: -10px;
+    }
+}
+
+.tahap-pemesanan-list {
+    margin-bottom: 0;
+}
+
+.p-padding-v-15 {
+    margin: 0;
+  padding: 15px 0;
+}
+
+.margin-top-large {
+    margin-top: 75px;
+}
+
+.link-long-text > a {
+    display: inline-block;
+    font-size: 17px;
+}
+
+@media (min-width: 1200px) {
+    .link-long-text > a {
+        font-size: 24px;
+    }
 }
