@@ -142,13 +142,11 @@
 							<div class="characteristic-title">Webサイト（ホームページ）制作実績</div> 
 							<div class="row text-center">
 								<div class="col-sm-4">
-									<a href="https://www.jtrustbank.co.id/" target="_blank">
-										<img src="/img/portfolio/jtrust-bank-new.png" class="img-responsive center-block">
-										JTrust Bank (Re-design)
-									</a>
+										<img src="/img/portfolio/pertamina.png" class="img-responsive center-block">
+										Pertamina
 									<div class="addition-desc text-left"> 
-										WEBリニューアル制作 (デザイン| コーディング |CMSフィッティング) 
-										<div class="grey-clr">モバイル最適化, 多言語, CMS, 銀行</div> 
+										UI/UXデザイン (デザイン | HTML/CSSコーディング) 
+										<div class="grey-clr">  eラーニング, トレーニング, 資源ビジネス</div> 
 									</div>
 								</div>
 								<div class="col-sm-4">
@@ -161,12 +159,13 @@
 									</div>
 								</div>
 								<div class="col-sm-4">
-									<a href="https://www.60jpid.com/" target="_blank">
-										<img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
-										60<sup>th</sup> Anniversary Japan-Indonesia
+									<a href="https://www.jtrustbank.co.id/" target="_blank">
+										<img src="/img/portfolio/jtrust-bank-new.png" class="img-responsive center-block">
+										JTrust Bank (Re-design)
 									</a>
-									<div class="addition-desc text-left">
-										 WEB制作＆運用 (デザイン | コーディング | コンテンツ制作 | 運用) <div class="grey-clr">CMS, multi-bahasa, Mobile, Keamanan WEB, Publik</div> 
+									<div class="addition-desc text-left"> 
+										WEBリニューアル制作 (デザイン| コーディング |CMSフィッティング) 
+										<div class="grey-clr">モバイル最適化, 多言語, CMS, 銀行</div> 
 									</div>
 								</div>
 							 	<div class="clearfix"></div>
@@ -575,15 +574,36 @@
 										<div class="addition-desc text-left">WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)<div class="grey-clr">オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</div>
 										</div>
 									</div>
-									<!--<div class="col-sm-4">
-										<a href="http://wkvetter.com" target="_blank">
-											<img src="/img/portfolio/vetter.png" class="img-responsive center-block">
-											Vetter 
+									<div class="clearfix"></div>
+									<div class="col-sm-4">
+										<a href="https://www.60jpid.com/" target="_blank">
+											<img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
+											60<sup>th</sup> Anniversary Japan-Indonesia
 										</a>
-										<div class="addition-desc text-left">WEBホスティング (コーディング | CMSフィッティング)<div class="grey-clr">モバイル最適化, CMS, ニュースポータル</div>
+										<div class="addition-desc text-left">
+											 WEB制作＆運用 (デザイン | コーディング | コンテンツ制作 | 運用) <div class="grey-clr">CMS, multi-bahasa, Mobile, Keamanan WEB, Publik</div> 
 										</div>
-									</div>-->
+									</div>
+									<div class="col-sm-4">
+									
+										<img src="/img/portfolio/wantjp.png" class="img-responsive center-block">
+										Want.jp
+									<div class="addition-desc text-left">
+										<br>Eコマース (PWA | ReactJS | NodeJS)<br>
+										<br><div class="grey-clr">モバイル最適化EC, 越境EC</div><br><br><br>
+									</div>
 								</div>
+								<div class="col-sm-4">
+									<a href="https://banzaihobby.com/" target="_blank">
+										<img src="/img/portfolio/banzai-hobby.png" class="img-responsive center-block">
+										Banzai Hobby
+									</a>
+									<div class="addition-desc text-left">
+										<br>WEBサーバー＆データ移行 (移行 | ホスティング | AWS)<br>
+										<br><div class="grey-clr">Eコマース, Zenカート</div><br><br><br>
+									</div>
+								</div>
+							</div>
  
 						 </div>
 							<center>

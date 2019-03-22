@@ -154,14 +154,12 @@
   						<div class="characteristic-title" style="font-size:22px">Website Development Portfolio</div>
   						<div class="row text-center">
   							<div class="col-sm-4">
-  								<a href="https://www.jtrustbank.co.id/" target="_blank">
-  									<img src="/img/portfolio/jtrust-bank-new.png" class="img-responsive center-block">
-  									JTrust Bank (Re-design)
-  								</a>
-  								<div class="addition-desc text-left">
-  									<br>WEB Re-Design (Design | Coding | Integrasi CMS)<br>
-  									<br><div class="grey-clr">Mobile Optimized, Multi-bahasa, CMS, Bank</div><br><br><br>
-  								</div>
+									<img src="/img/portfolio/pertamina.png" class="img-responsive center-block">
+									Pertamina  
+								<div class="addition-desc text-left">
+									<br>UI / UX Design  (Design | HTML/CSS)<br>
+									<br><div class="grey-clr">Training, E-Learning, Pertamina</div><br>
+								</div>
   							</div>
   							<div class="col-sm-4">
   								<a href="https://www.bekalhidup.com" target="_blank">
@@ -170,30 +168,30 @@
   								</a>
   								<div class="addition-desc text-left">
   									<br>E-Commerce Dev (Design | Coding | CMS | Payment)<br>
-  									<br><div class="grey-clr">CMS, secure E-Commerce, Financial, Insurance</div><br><br><br>
+  									<br><div class="grey-clr">CMS, secure E-Commerce, Financial, Insurance</div><br>
   								</div>
   							</div>
   							<div class="col-sm-4">
-  								<a href="https://www.60jpid.com/" target="_blank">
-  									<img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
-  									60<sup>th</sup> Anniversary Japan-Indonesia
+  								<a href="https://www.jtrustbank.co.id/" target="_blank">
+  									<img src="/img/portfolio/jtrust-bank-new.png" class="img-responsive center-block">
+  									JTrust Bank (Re-design)
   								</a>
   								<div class="addition-desc text-left">
-  									<br>WEB Dev & Operation (Design | Coding | Content Creation | Operation)<br>
-  									<br><div class="grey-clr">CMS, multi-language, Mobile-Optimized, secure WEB, Public</div><br><br><br>
+  									<br>WEB Re-Design (Design | Coding | Integrasi CMS)<br>
+  									<br><div class="grey-clr">Mobile Optimized, Multi-bahasa, CMS, Bank</div><br>
   								</div>
   							</div>
   						 	<div class="clearfix"></div>
   							<div class="col-sm-4">
-  								<a href="https://www.otomart.id/" target="_blank">
-  									<img src="/img/portfolio/otomart.png" class="img-responsive center-block">
-  									OTOmart (used-car market place)
-  								</a>
-  								<div class="addition-desc text-left">
-  									<br>WEB Dev & Operation (Design | CMS | System | Content Creation | Operation | AWS)<br>
-  									<br><div class="grey-clr">CMS, Market Place, DB-WEB, Mobile, WEB service, Automobil</div><br><br><br>
-  								</div>
-  						 	</div>
+    								<a href="https://prolinefinance.co.id/" target="_blank">
+    									<img src="/img/portfolio/proline.png" class="img-responsive center-block">
+    									PROLINE FINANCE
+    								</a>
+    								<div class="addition-desc text-left">
+    									<br>WEB Development (Design | Coding | CMS) <br>
+    									<br><div class="grey-clr">CMS, Mobile, OJK, Finance</div><br>
+    								</div>
+    							</div>
   						 	<div class="col-sm-4">
   								<a href="https://jba.co.id/" target="_blank">
   									<img src="/img/portfolio/jba-indonesia.png" class="img-responsive center-block">
@@ -201,17 +199,17 @@
   								</a>
   								<div class="addition-desc text-left">
   									<br>WEB Dev & Operation (Design | CMS | System | Operation | AWS)<br>
-  									<br><div class="grey-clr">Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial</div><br><br><br>
+  									<br><div class="grey-clr">Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial</div><br>
   								</div>
   							</div>
-                <div class="col-sm-4">
+							<div class="col-sm-4">
   								<a href="http://www.jnto.or.id/" target="_blank">
   									<img src="/img/portfolio/jnto.png" class="img-responsive center-block">
   									JNTO Indonesia
   								</a>
   								<div class="addition-desc text-left">
   									<br>WEB Remake & Operation (Design | Coding | Operation)<br>
-  									<br><div class="grey-clr">Mobile Optimized, secure WEB, Public, Travel</div><br><br><br>
+  									<br><div class="grey-clr">Mobile Optimized, secure WEB, Public, Travel</div><br>
   								</div>
   							</div>
                 <div class="clearfix"></div>
@@ -225,27 +223,27 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>Event / Schedule Web Creation (Design | Coding)<br>
-    									<br><div class="grey-clr">Mobile Optimized, Multi-Language, Event</div><br><br><br>
+    									<br><div class="grey-clr">Mobile Optimized, Multi-Language, Event</div><br>
     								</div>
     							</div>
-                  <div class="col-sm-4">
-    								<a href="https://prolinefinance.co.id/" target="_blank">
-    									<img src="/img/portfolio/proline.png" class="img-responsive center-block">
-    									PROLINE FINANCE
-    								</a>
-    								<div class="addition-desc text-left">
-    									<br>WEB Development (Design | Coding | CMS) <br>
-    									<br><div class="grey-clr">CMS, Mobile, OJK, Finance</div><br><br><br>
-    								</div>
-    							</div>
-                  <div class="col-sm-4">
+								<div class="col-sm-4">
+									<a href="https://www.otomart.id/" target="_blank">
+										<img src="/img/portfolio/otomart.png" class="img-responsive center-block">
+										OTOmart (used-car market place)
+									</a>
+									<div class="addition-desc text-left">
+										<br>WEB Dev & Operation (Design | CMS | System | Content Creation | Operation | AWS)<br>
+										<br><div class="grey-clr">CMS, Market Place, DB-WEB, Mobile, WEB service, Automobil</div><br>
+									</div>
+								</div>			
+								<div class="col-sm-4">
     								<a href="http://jaif.asean.org/" target="_blank">
     									<img src="/img/portfolio/jaif.png" class="img-responsive center-block">
     									Japan Asean Integration Fund
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev & Operation (Design | Coding | Operation)<br>
-    									<br><div class="grey-clr">Mobile, Secure WEB, Public</div><br><br><br>
+    									<br><div class="grey-clr">Mobile, Secure WEB, Public</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -254,7 +252,7 @@
     								Shinoken Asset Management
     								<div class="addition-desc text-left">
     									<br>WEB Development (Design | Coding | AWS)<br>
-    									<br><div class="grey-clr">Multi-language, Mobile, Corporate WEB, AWS, Real Estate</div><br><br><br>
+    									<br><div class="grey-clr">Multi-language, Mobile, Corporate WEB, AWS, Real Estate</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -264,7 +262,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Development (Design | Coding | CMS)<br>
-    									<br><div class="grey-clr">Mobile Optimized, CMS, PHP, RealEstate, Property</div><br><br><br>
+    									<br><div class="grey-clr">Mobile Optimized, CMS, PHP, RealEstate, Property</div><br>
     								</div>
     							</div>
                   <div class="col-sm-4">
@@ -274,7 +272,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>E-Commerce Development (Design | E-Commerce | CMS | Maintenance)<br>
-    									<br><div class="grey-clr">E-Commerce, CMS, Payment Gateway, Multi-Level-Marketing</div><br><br><br>
+    									<br><div class="grey-clr">E-Commerce, CMS, Payment Gateway, Multi-Level-Marketing</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -285,7 +283,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>AMP Development (Design | AMP Coding)<br>
-    									<br><div class="grey-clr">AMP, Mobile Optimization, Beauty, SPA</div><br><br><br>
+    									<br><div class="grey-clr">AMP, Mobile Optimization, Beauty, SPA</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -295,7 +293,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Development (Design | Coding | AWS)<br>
-    									<br><div class="grey-clr">Mobile Optimized, Multi-bahasa, Food</div><br><br><br>
+    									<br><div class="grey-clr">Mobile Optimized, Multi-bahasa, Food</div><br>
     								</div>
     							</div>
                   <div class="col-sm-4">
@@ -305,7 +303,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev (Design | Coding | Operation) <br>
-    									<br><div class="grey-clr">Multi-language, Mobile, Manufacture, Beauty</div><br><br><br>
+    									<br><div class="grey-clr">Multi-language, Mobile, Manufacture, Beauty</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -314,7 +312,7 @@
     								ASEAN (ARF)
     								<div class="addition-desc text-left">
     									<br>WEB Development (Design | Coding | CMS)<br>
-    									<br><div class="grey-clr">Mobile Optimized, Wordpress, Public</div><br><br><br>
+    									<br><div class="grey-clr">Mobile Optimized, Wordpress, Public</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -322,7 +320,7 @@
     								Caroline
     								<div class="addition-desc text-left">
     									<br>Car Matching Web Development (Design | Coding | System)<br>
-    									<br><div class="grey-clr">Web System, Market Place, Automotive, Web service</div><br><br><br>
+    									<br><div class="grey-clr">Web System, Market Place, Automotive, Web service</div><br>
     								</div>
     							</div>
                   <div class="col-sm-4">
@@ -332,7 +330,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev & Operation (Design | CMS | System | Content Creation | Operation) <br>
-    									<br><div class="grey-clr">CMS, Market Place, DB, Mobile, secure WEB, WEB service</div><br><br><br>
+    									<br><div class="grey-clr">CMS, Market Place, DB, Mobile, secure WEB, WEB service</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -341,7 +339,7 @@
     								aJapan Campaign Page
     								<div class="addition-desc text-left">
     									<br>Campaign Microsite Dev & Operation (Design | Coding | Operation)<br>
-    									<br><div class="grey-clr">Multi-language, Mobile, Campaign</div><br><br><br>
+    									<br><div class="grey-clr">Multi-language, Mobile, Campaign</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -351,7 +349,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>Campaign Page Creation (Design | Coding | CMS)<br>
-    									<br><div class="grey-clr">Multi-language, Mobile, Campaign page, CMS, Financial, Bank</div><br><br><br>
+    									<br><div class="grey-clr">Multi-language, Mobile, Campaign page, CMS, Financial, Bank</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -361,7 +359,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev & Operation (Design | Coding | Operation)<br>
-    									<br><div class="grey-clr">Multi-language, Mobile, LPO, A/B test, Beauty</div><br><br><br>
+    									<br><div class="grey-clr">Multi-language, Mobile, LPO, A/B test, Beauty</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -370,14 +368,14 @@
     								OTO Siap!
     								<div class="addition-desc text-left">
     									<br>Landing Page Creation (Design | Coding)<br>
-    									<br><div class="grey-clr">Landing Page, Mobile Optimization, Mobile App, Lending</div><br><br><br>
+    									<br><div class="grey-clr">Landing Page, Mobile Optimization, Mobile App, Lending</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
     								<img src="/img/portfolio/oto-isuzu.png" class="img-responsive center-block">
     								<div class="addition-desc text-left">
     									<br>Landing Page Creation (Design | Coding)<br>
-    									<br><div class="grey-clr">Detail Page, Mobile Optimization, Car, Automotive</div><br><br><br>
+    									<br><div class="grey-clr">Detail Page, Mobile Optimization, Car, Automotive</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -385,7 +383,7 @@
     								OTOmart Concierge LP
     								<div class="addition-desc text-left">
     									<br>Landing Page Creation (Design | Coding)<br>
-    									<br><div class="grey-clr">Landing Page, Mobile Optimization, Consulting Service, Automotive</div><br><br><br>
+    									<br><div class="grey-clr">Landing Page, Mobile Optimization, Consulting Service, Automotive</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -393,7 +391,7 @@
     								<img src="/img/portfolio/oto-garansi.png" class="img-responsive center-block">
     								<div class="addition-desc text-left">
     									<br>Landing Page Creation (Design | Coding)<br>
-    									<br><div class="grey-clr">LP Creation, Conversion Oriented Web, Car Gurantee Service</div><br><br><br>
+    									<br><div class="grey-clr">LP Creation, Conversion Oriented Web, Car Gurantee Service</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -401,7 +399,7 @@
     								ECCJ
     								<div class="addition-desc text-left">
     									<br>LP and application form Creation (Design | programming)<br>
-    									<br><div class="grey-clr">Mobile Optimized, Application From, Event</div><br><br><br>
+    									<br><div class="grey-clr">Mobile Optimized, Application From, Event</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -409,7 +407,7 @@
     								Sumitomo Forestry LP
     								<div class="addition-desc text-left">
     									<br>Landing Page Creation (Design | Coding)<br>
-    									<br><div class="grey-clr">Mobile, Campaign</div><br><br><br>
+    									<br><div class="grey-clr">Mobile, Campaign</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -420,7 +418,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev & Operation (Design | Coding | Operation | WEB Server)<br>
-    									<br><div class="grey-clr">Multi-language, Mobile, AWS, Real Estate</div><br><br><br>
+    									<br><div class="grey-clr">Multi-language, Mobile, AWS, Real Estate</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -430,7 +428,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev & Operation (Design | CMS | Content Creation | Operation)<br>
-    									<br><div class="grey-clr">CMS, Portal, Mobile, Real Estate, WEB service</div><br><br><br>
+    									<br><div class="grey-clr">CMS, Portal, Mobile, Real Estate, WEB service</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -440,7 +438,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev & Operation (Design | Coding | Maintenance| WEB Server)<br>
-    									<br><div class="grey-clr">Multi-language, Mobile, motor-bike service</div><br><br><br>
+    									<br><div class="grey-clr">Multi-language, Mobile, motor-bike service</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -451,7 +449,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev & Operation (Design | Coding | Wordpress | Operation)<br>
-    									<br><div class="grey-clr">Japanese WEB, Blog, Mobile, Application Form, School</div><br><br><br>
+    									<br><div class="grey-clr">Japanese WEB, Blog, Mobile, Application Form, School</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -461,7 +459,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev & Operation (Design | Coding | Wordpress | AWS Operation)<br>
-    									<br><div class="grey-clr">Japanese WEB, Blog, Mobile, Application Form, School</div><br><br><br>
+    									<br><div class="grey-clr">Japanese WEB, Blog, Mobile, Application Form, School</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -471,7 +469,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>Application Form Creation (Design | PHP Form)<br>
-    									<br><div class="grey-clr">Multi-language,Mobile,Application Form,Public</div><br><br><br>
+    									<br><div class="grey-clr">Multi-language,Mobile,Application Form,Public</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -482,7 +480,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev (Design | Coding)<br>
-    									<br><div class="grey-clr">Multi-language, Mobile, Manufacture</div><br><br><br>
+    									<br><div class="grey-clr">Multi-language, Mobile, Manufacture</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -492,7 +490,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev (Design | Coding | Maintenance | WEB Server)<br>
-    									<br><div class="grey-clr">Multi-language, Mobile, Manufacture</div><br><br><br>
+    									<br><div class="grey-clr">Multi-language, Mobile, Manufacture</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -502,7 +500,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev (Design | Coding | Operation)<br>
-    									<br><div class="grey-clr">Mobile, Secure WEB, Public</div><br><br><br>
+    									<br><div class="grey-clr">Mobile, Secure WEB, Public</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -513,7 +511,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev & Operation (Design | Coding)<br>
-    									<br><div class="grey-clr">Multi-language, Mobile, IT Service</div><br><br><br>
+    									<br><div class="grey-clr">Multi-language, Mobile, IT Service</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -521,7 +519,7 @@
     								Salon De Res
     								<div class="addition-desc text-left">
     									<br>WEB Dev (Design | Coding)<br>
-    									<br><div class="grey-clr">Mobile, Multi-Language, Beauty</div><br><br><br>
+    									<br><div class="grey-clr">Mobile, Multi-Language, Beauty</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -531,7 +529,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev (Design | Coding | Maintenance)<br>
-    									<br><div class="grey-clr">Mobile, Multi-Language, Wordpress, Blog, RealEstate</div><br><br><br>
+    									<br><div class="grey-clr">Mobile, Multi-Language, Wordpress, Blog, RealEstate</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -542,7 +540,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Dev & Operation (Design | CMS | Operation) <br>
-    									<br><div class="grey-clr">Wordpress, Mobile, Member-only Web, Medical</div><br><br><br>
+    									<br><div class="grey-clr">Wordpress, Mobile, Member-only Web, Medical</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -552,7 +550,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Re-Design (Design | Coding)<br>
-    									<br><div class="grey-clr">Multi-language, Mobile, Consulting, Accounting &amp; Tax</div><br><br><br>
+    									<br><div class="grey-clr">Multi-language, Mobile, Consulting, Accounting &amp; Tax</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -562,7 +560,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Development & Operation (Design | Coding | Operation)<br>
-    									<br><div class="grey-clr">Mobile, Online Booking, Sports</div><br><br><br>
+    									<br><div class="grey-clr">Mobile, Online Booking, Sports</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -573,7 +571,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>Landing Page Creation (Design | Coding | Digital AD)<br>
-    									<br><div class="grey-clr">Mobile Optimized, Multi-bahasa, Event</div><br><br><br>
+    									<br><div class="grey-clr">Mobile Optimized, Multi-bahasa, Event</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -583,7 +581,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Remake & Growth-hack (Design | Coding | Content Creation | Operation)<br>
-    									<br><div class="grey-clr">CMS, Mobile, secure WEB, Finance, Mobile Loan</div><br><br><br>
+    									<br><div class="grey-clr">CMS, Mobile, secure WEB, Finance, Mobile Loan</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -593,7 +591,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Remake & PWA (Coding)<br>
-    									<br><div class="grey-clr">PWA, Mobile, E-Commerce</div><br><br><br>
+    									<br><div class="grey-clr">PWA, Mobile, E-Commerce</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -604,7 +602,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Operation (PDCA | SEO | AWS)<br>
-    									<br><div class="grey-clr">Mobile Optimized, O2O, Properti</div><br><br><br>
+    									<br><div class="grey-clr">Mobile Optimized, O2O, Properti</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -614,7 +612,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>E-Learning Web Development (Design | CMS | PWA)<br>
-    									<br><div class="grey-clr">PWA Development, Mobile Optimization, E-Learning</div><br><br><br>
+    									<br><div class="grey-clr">PWA Development, Mobile Optimization, E-Learning</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -622,7 +620,7 @@
     								JFE
     								<div class="addition-desc text-left">
     									<br>Corporate Web Creation (Design | Coding)<br>
-    									<br><div class="grey-clr">Responsive WEB Dev, Multi-Language, Manufacturing Trader</div><br><br><br>
+    									<br><div class="grey-clr">Responsive WEB Dev, Multi-Language, Manufacturing Trader</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -633,7 +631,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>LP Creation (Bootstrap | Content Creation)<br>
-    									<br><div class="grey-clr"> LP, Mobile Optimized, Education, School</div><br><br><br>
+    									<br><div class="grey-clr"> LP, Mobile Optimized, Education, School</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -643,7 +641,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>AMP Creation (AMP | Dynamic Pages)<br>
-    									<br><div class="grey-clr"> AMP, Mobile Optimized, Car Auction, Bike Auction</div><br><br><br>
+    									<br><div class="grey-clr"> AMP, Mobile Optimized, Car Auction, Bike Auction</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -653,7 +651,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>Creators Market Place Development (Design | CMS | Security Assessment)<br>
-    									<br><div class="grey-clr">Web system, Laravel, Mobile Optimized, Market Place</div><br><br><br>
+    									<br><div class="grey-clr">Web system, Laravel, Mobile Optimized, Market Place</div><br>
     								</div>
     							</div>
     							<div class="clearfix"></div>
@@ -664,7 +662,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>WEB Hosting (Coding | Integrasi CMS)  <br>
-    									<br><div class="grey-clr">Mobile Optimized, CMS, News Portal</div><br><br><br>
+    									<br><div class="grey-clr">Mobile Optimized, CMS, News Portal</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -674,7 +672,7 @@
     								</a>
     								<div class="addition-desc text-left">
     									<br>HTML/CSS Coding (Coding)<br>
-    									<br><div class="grey-clr">Mobile Optimized, Campaign page</div><br><br><br>
+    									<br><div class="grey-clr">Mobile Optimized, Campaign page</div><br>
     								</div>
     							</div>
     							<div class="col-sm-4">
@@ -682,19 +680,38 @@
     								JBA Re-design
     								<div class="addition-desc text-left">
     									<br>WEB Dev & Operation (Design | CMS | System | Operation | AWS)<br>
-    									<br><div class="grey-clr">Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial</div><br><br><br>
+    									<br><div class="grey-clr">Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial</div><br>
     								</div>
     							</div>
-                  <!--<div class="col-sm-4">
-    								<a href="http://wkvetter.com" target="_blank">
-    									<img src="/img/portfolio/vetter.png" class="img-responsive center-block">
-    									Vetter
-    								</a>
-    								<div class="addition-desc text-left">
-    									<br>WEB Hosting (Coding | Integrasi CMS)  <br>
-    									<br><div class="grey-clr">Mobile Optimized, CMS, News Portal</div><br><br><br>
-    								</div>
-    							</div>-->
+								<div class="clearfix"></div>
+								<div class="col-sm-4">
+									<a href="https://www.60jpid.com/" target="_blank">
+										<img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
+										60<sup>th</sup> Anniversary Japan-Indonesia
+									</a>
+									<div class="addition-desc text-left">
+										<br>Pengoperasian dan Pengembangan WEB  (Design | Coding | Content Creation | Operation)<br>
+										<br><div class="grey-clr">CMS, multi-bahasa, Mobile, Keamanan WEB, Publik</div><br>
+									</div>
+								</div>
+								<div class="col-sm-4">
+										<img src="/img/portfolio/wantjp.png" class="img-responsive center-block">
+										Want.jp
+									<div class="addition-desc text-left">
+										<br>E-Commerce Development (PWA | ReactJS | NodeJS) <br>
+										<br><div class="grey-clr">Mobile Optimized PWA, Cross Border E-Commerce</div><br>
+									</div>
+								</div>
+								<div class="col-sm-4">
+									<a href="https://banzaihobby.com/" target="_blank">
+										<img src="/img/portfolio/banzai-hobby.png" class="img-responsive center-block">
+										Banzai Hobby
+									</a>
+									<div class="addition-desc text-left">
+										<br>Server Migration to AWS (Migration | Hosting | AWS)<br>
+										<br><div class="grey-clr">E-Commerce, Zen Cart</div><br>
+									</div>
+								</div>
                 </div>
               </div>
               <center>
