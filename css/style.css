@@ -297,7 +297,8 @@ section.maintop {
     line-height: normal;
 }
 .logique-nav.in-jp a {
-    font-size: 12px; 
+    font-size: 12px;
+    line-height: normal;
 }
 
 .wrapper .navbar-collapse {

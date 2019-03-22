@@ -323,34 +323,56 @@ footer p:before {
 .margin-for-nav {
     margin-top: 0
 }
-@media (min-width:1200px) {
-    .margin-for-nav {
-        top: 50%;
-        transform: translateY(-50%);
-        -webkit-transform: translateY(-50%);
-        -ms-transform: translateY(-50%);
-        position: relative
-    }
+.btn-container-contact{
+    margin-top: 20px;
 }
-.logique-nav.in-jp a {
-    font-size: 12px
+.btn-contact-us-black {
+    background: #000;
+    border-radius: 5px;
+    color: #fff !important;
+    font-size: 18px;
+    padding: 10px 60px;
+    white-space: normal;
 }
-@media screen and (max-width:979px) {
-    .logique-nav {
-        background: rgba(255, 202, 19, 1)
-    }
+.style-4 .card{
+    height: auto;
+    padding-bottom: 0;
 }
-@media (max-width:767px) {
-	.logique-nav {
-        margin-right: -150px;
-        margin-left: auto;
-        position: relative
-    }
-	.collapse.in .logique-nav {
-        margin-right: 0;
-        padding-top: 0
-    }
+.style-4 .card .box-2{
+    margin-bottom: 0;
 }
+.nav-lp .navbar-collapse {
+    padding: 0;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    margin-top: -1px;
+}
+section,footer{margin-left:95px}
+.card section{margin-left:0}
+.nav-lp .navbar-toggle.collapsed {
+    background-color: #ffca13!important;
+    position: relative!important;
+    right: 0!important;
+    top: -80px;
+}
+.nav-lp .navbar-toggle {
+    background-color: #ffca13!important;
+    z-index: 9999;
+    position: fixed;
+    right: 80px;
+    border-radius: 0;
+    height: 34px;
+    top: -7px;
+}
+.nav-lp .navbar-toggle.collapsed .icon-bar.first {transform: rotate(0)!important;}
+.nav-lp .navbar-toggle.collapsed .icon-bar.second {background: #000!important;}
+.nav-lp .navbar-toggle.collapsed .icon-bar.third {transform: rotate(0)!important;margin-top: 4px!important;}
+.nav-lp .navbar-toggle .icon-bar {background: #000;transition: all .5s;}
+.nav-lp .navbar-toggle .icon-bar.first {transform: rotate(45deg);}
+.nav-lp .navbar-toggle .icon-bar.second {background: 0 0;}
+.nav-lp .navbar-toggle .icon-bar.third {transform: rotate(-45deg);margin-top: -8px;}
+
 .img-about,
 .img-blog,
 .img-career,
@@ -449,57 +471,52 @@ footer p:before {
     top: 0;
 	left: 0;
 }
-@media (max-width: 767px){
-	.backdrop-test {
-		display: block;
-	}
+@media (min-width:1200px) {
+    .margin-for-nav {
+        top: 50%;
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        position: relative
+    }
 }
-@media (max-width: 767px){
-	.nav-lp .navbar-collapse {
-		height: 100%!important;
-	}
+.logique-nav.in-jp a {
+    font-size: 12px
 }
-.nav-lp .navbar-collapse {
-    padding: 0;
-    position: fixed;
-    z-index: 99;
-    width: 100%;
-    margin-top: -1px;
-}
-section,footer{margin-left:95px}
-.card section{margin-left:0}
-.nav-lp .navbar-toggle.collapsed {
-    background-color: #ffca13!important;
-    position: relative!important;
-    right: 0!important;
-	top: -80px;
-}
-.nav-lp .navbar-toggle {
-    background-color: #ffca13!important;
-    z-index: 9999;
-    position: fixed;
-    right: 80px;
-    border-radius: 0;
-    height: 34px;
-    top: -7px;
-}
-.nav-lp .navbar-toggle.collapsed .icon-bar.first {transform: rotate(0)!important;}
-.nav-lp .navbar-toggle.collapsed .icon-bar.second {background: #000!important;}
-.nav-lp .navbar-toggle.collapsed .icon-bar.third {transform: rotate(0)!important;margin-top: 4px!important;}
-.nav-lp .navbar-toggle .icon-bar {background: #000;transition: all .5s;}
-.nav-lp .navbar-toggle .icon-bar.first {transform: rotate(45deg);}
-.nav-lp .navbar-toggle .icon-bar.second {background: 0 0;}
-.nav-lp .navbar-toggle .icon-bar.third {transform: rotate(-45deg);margin-top: -8px;}
+
+
 @media (max-width: 1199px){
 	.container {width: 925px;}
 	.title-custom-p,.custom-p-2{width:auto}
 }
+
+@media screen and (max-width:979px) {
+    .logique-nav {
+        background: rgba(255, 202, 19, 1)
+    }
+}
+
 @media (max-width: 768px){
 	.container {width: 670px;}
 	.logo-header{left: 50px;}
 	.tahap-pemesanan-list{background:none;padding:0}
 }
 @media (max-width: 767px){
+      .logique-nav {
+        margin-right: -150px;
+        margin-left: auto;
+        position: relative
+    }
+    .collapse.in .logique-nav {
+        margin-right: 0;
+        padding-top: 0
+    }
+    .backdrop-test {
+        display: block;
+    }
+    .nav-lp .navbar-collapse {
+        height: 100%!important;
+    }
 	.container {width:auto;}
 	.logo-header{left: 0;}
 	section,footer{margin-left:0}
@@ -576,4 +593,20 @@ footer {padding-bottom: 0}
 .m-m-10 {margin-top: -5px}
 .min-h {height: auto!important}
 .list-inline {margin-top: -12px;margin-right: 12px;}
+}
+@media (max-width: 480px){
+    .style-2{
+        position: relative;
+    }
+    .new5{
+        bottom: 0;
+        top: 35px;
+        right: 10px;
+        font-size: 24px;
+        width: 210px; 
+    }
+
+.btn-container-contact {
+    margin-bottom: 20px;
+}
 }

@@ -128,34 +128,41 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-		
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<a href="/jp/" target="_blank">
-							<div class="logo-header">
+			<div class="top-header-container">
+				<div class="container">
+					<div class="row">
+						<div class=" col-xs-7">
+							<div class="logo-header-container">
+								<a href="/jp/" target="_blank">
 								<img src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan" class="img-responsive">
+								</a>
 							</div>
-						</a>
-						<div class="breadcrumb-cont">
-						<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
-							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="../index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
-							  <li   itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" href="../services.php" ><span itemprop="name">LOGIQUEのサービス</span></a><meta itemprop="position" content="2" /></li>
-							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" " ><span itemprop="name">LOGIQUEホームページ制作サービス</span></a><meta itemprop="position" content="2" /></li>
-							</ol>
+							<div class="breadcrumb-cont">
+								<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+								  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="../index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
+								  <li   itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" href="../services.php" ><span itemprop="name">LOGIQUEのサービス</span></a><meta itemprop="position" content="2" /></li>
+								  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" " ><span itemprop="name">LOGIQUEホームページ制作サービス</span></a><meta itemprop="position" content="2" /></li>
+								</ol>
+							</div>
 						</div>
+						<div class=" col-xs-5">
+							 
+								<div class="language-btn">
+									<ul class="list-inline">
+										<li><a href="/layanan/web-dev.php">ID</a></li>
+										<li><a href="/en/services/web-dev.php">EN</a></li>
+										<li class="active"><a href="#">JP</a></li>
+									</ul>
+								</div>
+							 
+						</div>
+					 
 					</div>
 				</div>
+			</div>
+			<div class="container">
 				<div class="row">
-					<div style="position:relative">
-						<div class="language-btn">
-							<ul class="list-inline">
-								<li><a href="/layanan/web-dev.php">ID</a></li>
-								<li><a href="/en/services/web-dev.php">EN</a></li>
-								<li class="active"><a href="#">JP</a></li>
-							</ul>
-						</div>
-					</div>
+					
 					<div class="col-md-offset-2 col-md-9 m-t-10em">
 						<h1 class="text-left"><span class="c-logique"><span class="underline">LOGIQUEのWeb</span></span> /  ホームページ制作サービス</h1>
 						<div class="subtitle-header">
@@ -571,7 +578,7 @@ if(isset($_POST['submitted']))
 					</div>
 				</div>
 				
-				<div class="text-center" style="margin-top: 70px;">
+				<div class="text-center btn-container-contact"  >
 					<a href="contact.php" class="btn btn-contact-us-black">
 						インドネシアのWeb制作運用についてLOGIQUEにお問い合わせください
 					</a>

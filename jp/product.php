@@ -189,7 +189,7 @@
 					</div>
 					<div class="form-container  ">
 						<div class="row">
-							<div class="col-md-4  pull-right">
+							<div class="col-sm-4  pull-right">
 								<img src="../img/product-sugoi.jpg" alt="Sugoi Saiyo" class="img-responsive">
 							</div>
 							<div class="col-md-7 col-sm-8">

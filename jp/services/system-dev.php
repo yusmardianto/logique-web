@@ -151,7 +151,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10 text-center">
-						<h1>システム開発、高いから、時間かかるから、難しいから、必要なのに諦めていませんか？インドネシアでのIT/WEBシステム開発、LOGIQUEなら、もっと早く、効率的にできます。お気軽にご相談ください。</h1>
+						<h1>システム開発が必要なのに、コストが高いから、時間かかるから、難しいからと諦めていませんか？インドネシアでのIT/Webシステム開発はLOGIQUEにお任せください。柔軟にスピーディーにリーズナブルなコストで開発します。</h1>
 					</div>
 				</div>
 			</div>
@@ -178,11 +178,11 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-3">
 						<h3 class="new1">[セキュアなシステム構築]</h3>
-						<p class="new4">納品前に通常のテストに加えセキュリティ脆弱性テストを実施することをお奨めしています。SQLインジェクション、パストラバーサル、クロスサイトスクリプティングなど防ぐべきものをしっかり対策し、リスクを最小限にして納品します。</p>
+						<p class="new4">通常のテストに加えセキュリティ脆弱性テストを実施することをお奨めしています。SQLインジェクション、パストラバーサル、クロスサイトスクリプティングなどPenetrationテストを行いリスクを最小限にします。</p>
 					</div>
 					<div class="col-md-3">
 						<h3 class="new1">[スピーディーで柔軟な開発]</h3>
-						<p class="new4">アジャイル開発を基本としています。要件定義書を作るのに何ヶ月もかけるようなことは意味がないと考えています。クライアントと信頼関係を築き、当社がリードして柔軟でスピーディに開発していきます。ラボ型開発サービスも提供しています。</p>
+						<p class="new4">アジャイル開発を基本としています。要件定義書を作るのに何ヶ月もかけるようなことは意味がないと考えています。クライアントと信頼関係を築き、当社がリードして柔軟でスピーディに開発していきます。ラボ型開発サービスも提供しています。</p>
 					</div>
 				</div>
 			</div>
@@ -198,15 +198,22 @@ if(isset($_POST['submitted']))
 						<div class="card">
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10 m-t-10">
-									<h4><b>JBA Indonesia | オークション管理システム</b></h4>
-									<p>JBA adalah salah satu perusahaan lelang terbesar di Indonesia asal Jepang yang berlokasi di Meruya. Untuk JBA, kami mengembangkan sistem yang komprehensif untuk keperluan lelang yang memberikan dampak langsung terhadap bisnis mereka. Adapun cakupan sistem yang kami buat adalah dari hulu ke hilir meliputi proses registrasi, inspeksi, perencanaan dan administrasi lelang, dukungan lelang offline dan online, hingga pelaporan dan modul akunting. Pengerjaan sistem ini dilakukan secara intensif dengan komunikasi dan pendetilan terperinci dengan masing-masing user sesuai bidangnya. Sistem ini terus dikembangkan selama tiga tahun terakhir dalam bentuk sistem web dan aplikasi mobile.</p>
+									<h4><b>JBAインドネシア様向けオークション管理システム</b></h4>
+									<p>JBAインドネシアはインドネシア最大の車・バイクのオークションハウスです。当社では、Webサイトの制作運用、JBAのオークションコンダクターシステム、Biddingアプリ、オンラインオークション、検査モバイルアプリ、Financialシステムなど多くのシステム構築プロジェクトを通してご支援してきました。クリティカルなシステムなのでエラーのない開発が必要ですが、同時にスピードも求められるチャレンジングなプロジェクトを多く経験できています。定例でミーティングをしていて既存システムの改善も常に行っています。</p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="box-2">使用言語 PHP, NodeJS, SocketIO, Android Native</div>
 							</div>
+
 						</div>
+						<div class="text-center btn-container-contact"  >
+					<a href="../../case-study/jba-auction-system/" class="btn btn-contact-us-black">
+						See more details
+					</a>
+				</div>
 					</div>
+
 				</div>
 			</div>
 		</section>
@@ -245,33 +252,38 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-4 col-md-7">
 						<div class="row">
 							<div class="col-md-9">
-								<h1 class="new2">システム開発を成功させるためのキーポイント</h2>
+								<h2 class="new2">システム開発を成功させるためのキーポイント</h2>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
 								<h4 class="bold">経験</h4>
-								<p>LOGIQUEはインドネシアで豊富なシステム開発経験をもっています。スケジューリング、要件定義、インフラ設計、Deploy,ユーザートレーニングなど、各工程でこの経験が活きます。</p>
+								<p>LOGIQUEはインドネシアで豊富なシステム開発経験をもっています。スケジューリング、要件定義、システム開発、テスト、インフラ設計、Deploy、ユーザートレーニングなど、各工程でこの経験を活かします。</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
 								<h4 class="bold">スピード・柔軟性</h4>
-								<p>ビジネスのスピードはどんどん早くなっています。システム開発に6ヶ月も1年もかけていては、環境変化についていけません。LOGIQUEではスピードを重要視しています。要件のコンセンサスに時間がかかる場合も多いですが前に進むことをリードしてきます。</p>
+								<p>ビジネスのスピードは日に日に早くなっています。システム開発に6ヶ月以上もかけていては、環境変化についていけません。LOGIQUEではスピードを最重要視しています。アジャイル開発で迅速に、要件の変更などにも柔軟に対応します。</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
 								<h4 class="bold">品質・セキュリティ</h4>
-								<p>
-								クオリティは犠牲にしてはいけません。標準化された開発を行うことで不具合がすくなく、メンテナンス性の高いプログラミングをします。セキュリティ脆弱性のリスクも最小化した上で納品します。
+								<p>クオリティは犠牲にはできません。標準化された開発を行うことで不具合が少ない、メンテナンス性の高い開発をします。セキュリティ脆弱性のリスクも最小化した上で納品します。
 								</p>
 							</div>
 						</div>
+					</div>
+				</div>
+				<div class="text-center btn-container-contact"  >
+					<a href="contact.php" class="btn btn-contact-us-black">
+						インドネシアでシステム開発や運用が必要でしたらお気軽にご相談ください
+					</a>
 				</div>
 			</div>
 		</section>
-		<section class="tahap-pemesanan-list">
+		<?php /*<section class="tahap-pemesanan-list">
 			<div class="border-top-list hidden-xs hidden-sm"></div>
 			<div class="container">
 				<div class="row">
@@ -292,7 +304,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 			<div class="border-top-list-2 hidden-xs hidden-sm"></div>
-		</section>
+		</section> */ ?>
 		<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
 		<footer class="contact">
 			<div class="container">
