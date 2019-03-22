@@ -217,6 +217,49 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</section>
+		<section class="other-stydycase section-style">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="osc-item">
+							
+							<div class="">
+								<img src="assets/img/img-systemdev/logo-caroline.png">
+							</div>
+							<h4>スピーディーな開発</h4>
+							<div class="osc-desc"> 僅か3ヶ月でゼロから基幹業務システムを構築。オンラインで中古車を売買するマーケットプレイスを構築した。<a href="../../case-study/caroline-bidding-system/"  >もっと見る</a></div>
+							<div class="osc-worktodo">Caroline-id.com, マーケットプレイス構築, 中古車売買 PHP, Laravel, HTML5</div>
+						</div>
+
+					</div>
+					<div class="col-sm-4">
+						<div class="osc-item">
+							
+							<div class="">
+								<img src="assets/img/img-systemdev/logo-zutto.png">
+							</div>
+							<h4>長期間に渡りシステム改善PDCA</h4>
+							<div class="osc-desc"> 約5年に渡ってZuttoRide社のCRMシステムをゼロから開発、フェージングを適切にコントロールしながら機能追加、システム改善のPDCAサイクルを一緒に回してきた。<a href="../../case-study/zuttoride-customer-management-system/"  >もっと見る</a></div>
+							<div class="osc-worktodo">ZuttoRide Indonesia, CRMシステム, バイクロードサービス, バイク保険 PHP, CakePHP, HTML5</div>
+						</div>
+
+					</div>
+					<div class="col-sm-4">
+						<div class="osc-item">
+							
+							<div class="">
+								<img src="assets/img/img-systemdev/logo-vip.png">
+							</div>
+							<h4>PWAでE-Commerceを再構築</h4>
+							<div class="osc-desc">PWAでE-Commerceを作り直した。ダイナミックなUIでユーザーの購買意欲を直接購入へと導くことに成功。リソースベースのAgile型開発でご支援。
+
+<a href="../../case-study/vip-plaza-progressive-web-app/"  >もっと見る</a></div>
+							<div class="osc-worktodo">https://m.vipplaza.co.id/  ECサイト構築, インドネシアEC PWA, NodeJS, ReactJS</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
 		<section class="style-6">
 			<div class="container">
 				<div class="row">
