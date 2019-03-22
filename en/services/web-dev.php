@@ -82,7 +82,7 @@ if(isset($_POST['submitted']))
 				<div class="backdrop-test"></div>
 					<div class="logique-nav">
 						<div class="margin-for-nav">
-							<div class="text-center ">
+							<div class="text-center active">
 								<a href="/en/">
 									<div class="img-home"></div>
 									Home
@@ -104,6 +104,12 @@ if(isset($_POST['submitted']))
 								<a href="/en/services.php">
 									<div class="img-services"></div>
 									Services
+								</a>
+							</div>
+						 	<div class="text-center">
+								<a href="/en/product.php">
+									<div class="img-product"></div>
+									Product
 								</a>
 							</div>
 							<div class="text-center">
@@ -223,7 +229,7 @@ if(isset($_POST['submitted']))
 						<div class="row">
 							<div class="col-md-4">
 								<div class="new-box min-h">
-									<h4>One-stop website Website production operation</h4>
+									<h4>One-stop Website production operation</h4>
 									<p>
 										Need web pages in Indonesian, English, and Japanese? 
 										LOGIQUE can create all three with SEO implementation. 
@@ -320,8 +326,8 @@ if(isset($_POST['submitted']))
 							<h3>Social Media Operation</h3>
 							<p>
 								Social media can be very powerful in increasing engagements with your customers. 
-								It can also help supporting traffic by sending customers from Social MediaSNS to the Web. 
-								We operate Social MediaSNS such as Facebook page, and Instagram Business account in Indonesian, English, and Japanese.
+								It can also help supporting traffic by sending customers from Social Media to the Web. 
+								We operate Social Media such as Facebook page, and Instagram Business account in Indonesian, English, and Japanese.
 							</p>
 						</div>
 					</div>
@@ -655,7 +661,7 @@ if(isset($_POST['submitted']))
 										After the website is launched, we don't leave you just yet. 
 										Every website requires long-term management, including yours. 
 										We will continue to maintain your website system in order to keep the results you want. 
-										LOGIQUE provides variety of management services, starting from observing the system, carrying out daily operations, even regular content creation, Social MediaNS operation, up to digital advertisement operation. 
+										LOGIQUE provides variety of management services, starting from observing the system, carrying out daily operations, even regular content creation, Social Media operation, up to digital advertisement operation. 
 										All for the maximum results from your website.
 									</p>
 								</div>
@@ -689,7 +695,7 @@ if(isset($_POST['submitted']))
 						<h2 class="custom-3">HR Related Solution/Recruitment</h2>
 						<p class="min-h">
 							To help your company find suitable candidates, we provide structured, dynamic, professional, and well-optimized career website pages. 
-							For HR solutions, we also provide activity management system, daily report management system, work situation management, and& telework management system for productivity improvement.
+							For HR solutions, we also provide activity management system, daily report management system, work situation management, and telework management system for productivity improvement.
 						</p>
 						<div>
 							<a href="/en/services/recruitment-web-dev.php" target="_blank" class="btn btn-logic btn-md">Learn more</a>

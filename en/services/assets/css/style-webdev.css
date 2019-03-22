@@ -1,6 +1,6 @@
 html,
 body {
-    font-family: 'Lato', serif;
+    font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
     background-color: #fff;
     overflow-x: hidden;
 }
@@ -248,7 +248,7 @@ footer p:before {
     left: 0;
 }
 .logique-nav .text-center {
-    padding: 8px 10px
+    padding: 5px 10px
 }
 .logique-nav .text-center.active,
 .logique-nav .text-center.active:focus,
@@ -579,8 +579,8 @@ section,footer{margin-left:95px}
     .logo-header {width: 165px;}
 }
 
-/* Additional css */
-a:hover {
+/********** Additional css ***********/
+a:hover, a:focus {
     text-decoration: none;
 }
 .underline {
