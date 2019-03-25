@@ -141,7 +141,7 @@ if(isset($_POST['submitted']))
 							<li class="active"><a href="#">JP</a></li>
 						</ul>
 					</div>
-					<div class="col-md-offset-7 col-md-5 m-t-10em">
+					<div class=" col-sm-offset-6 col-sm-6 col-lg-offset-7 col-lg-5 m-t-10em">
 						<h1 class="text-left m-new">インドネシアでシステム開発が必要ならLOGIQUEにご相談ください</h1>
 					</div>
 				</div>

@@ -516,25 +516,60 @@ section,footer{margin-left:95px}
 }
 .logique-nav.in-jp a {
     font-size: 12px;
-    lie
 }
-
-
 @media (max-width: 1199px){
 	.container {width: 925px;}
 	.title-custom-p,.custom-p-2{width:auto}
 }
-
 @media screen and (max-width:979px) {
     .logique-nav {
         background: rgba(255, 202, 19, 1)
     }
-}
+} 
 
+/* NAVIGATION */
+@media (min-width: 1400px){ 
+.header{height: auto!important} 
+}
+@media (max-width: 1199px){
+	header{height:auto}
+	.style-2{background-size: cover;}
+	.new5 {width: 500px;right: 0;}
+}
 @media (max-width: 768px){
-	.container {width: 670px;}
-	.logo-header{left: 50px;}
-	.tahap-pemesanan-list{background:none;padding:0}
+	.new5 .underline{border-bottom:0;}
+	.new5 {width:275px;right:0}
+	.new6 {margin-bottom: 30px;}
+	.style-6 {background: none;height: auto;color: #000;border-bottom: 3px solid #000;padding: 30px 0;}
+    .container {width: 670px;}
+    .logo-header{left: 50px;}
+    .tahap-pemesanan-list{background:none;padding:0}
+    .style-2{
+        height: 400px;
+    }
+    .new5{
+        bottom: -7em;
+        width: 400px;
+        margin-top:0;
+
+    }
+
+    .m-new{
+
+    }
+    header{
+        padding-bottom: 40px;
+    } 
+    header .m-t-10em{
+        margin-top: 1em;
+    }
+    header  h1{
+        padding: 0;
+    }
+    .language-btn {
+        top: -80px;
+    }
+
 }
 @media (max-width: 767px){
       .logique-nav {
@@ -552,30 +587,13 @@ section,footer{margin-left:95px}
     .nav-lp .navbar-collapse {
         height: 100%!important;
     }
-	.container {width:auto;}
-	.logo-header{left: 0;}
-	section,footer{margin-left:0}
-	.nav-lp .navbar-collapse {margin-top: -90px;}
-	.language-btn {right: auto;left: 10px;}
-	.btn-portfolio {padding: 10px 15px;}
-}
-/* NAVIGATION */
+    .container {width:auto;}
+    .logo-header{left: 0;}
+    section,footer{margin-left:0}
+    .nav-lp .navbar-collapse {margin-top: -90px;}
+    .language-btn {right: auto;left: 10px;}
+    .btn-portfolio {padding: 10px 15px;}
 
-@media (min-width: 1400px){ 
-.header{height: auto!important} 
-}
-@media (max-width: 1199px){
-	header{height:auto}
-	.style-2{background-size: cover;}
-	.new5 {width: 500px;right: 0;}
-}
-@media (max-width: 768px){
-	.new5 .underline{border-bottom:0;}
-	.new5 {width:275px;right:0}
-	.new6 {margin-bottom: 30px;}
-	.style-6 {background: none;height: auto;color: #000;border-bottom: 3px solid #000;padding: 30px 0;}
-}
-@media (max-width: 767px){
 body {overflow-x: hidden;}
 header{height:100%}
 .m-new {
@@ -631,6 +649,9 @@ footer {padding-bottom: 0}
 }
 
 @media (max-width: 480px){
+    .language-btn {
+        top: -70px;
+    }
     .style-2{
         position: relative;
     }
