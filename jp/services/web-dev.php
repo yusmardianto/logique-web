@@ -40,8 +40,9 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Dalam melakukan pembuatan website, pengembangan website, pembuatan aplikasi dan pengembangan aplikasi serta desain web. Logique sebagai perusahaan jasa konsultasi digital membuat beberapa mekanisme yang perlu diketahui. Berikut ini adalah beberapa mekanisme pembuatan website yang ada di Logique">
-	<meta name="keywords" content="LOGIQUEがインドネシアで作るWeb / ホームページは、集客ができる、お問い合わせが増える、採用応募者が増える、などコンバージョンが増える価値のあるWebです。WEBチャネルを活用して営業を効率的に行いたい、他社と差別化したい、カスタマーサービスを効率化したい、採用を強化したい、場合はLOGIQUEにお任せください。LOGIQUEのWeb制作サービス詳細。">
+    <meta name="description" content="LOGIQUEがインドネシアで作るWeb / ホームページは、集客ができる、お問い合わせが増える、採用応募者が増える、などコンバージョンが増える価値のあるWebです。WEBチャネルを活用して営業を効率的に行いたい、他社と差別化したい、カスタマーサービスを効率化したい、採用を強化したい、
+場合はLOGIQUEにお任せください。LOGIQUEのWeb制作サービス詳細。">
+	<meta name="keywords" content="効果のある、コンバージョンのでる、意味のある、WEBサイトを予算内で、素早く、効率的に、先進テクノロジーを用い、セキュアに、作ります">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Web制作サービス詳細 | ジャカルタのWeb制作会社LOGIQUEデジタルインドネシア</title>
@@ -140,8 +141,8 @@ if(isset($_POST['submitted']))
 							<div class="breadcrumb-cont">
 								<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 								  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="../index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
-								  <li   itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" href="../services.php" ><span itemprop="name">LOGIQUEのサービス</span></a><meta itemprop="position" content="2" /></li>
-								  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" " ><span itemprop="name">LOGIQUEホームページ制作サービス</span></a><meta itemprop="position" content="2" /></li>
+								  <li   itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" href="../services.php" ><span itemprop="name">サービス</span></a><meta itemprop="position" content="2" /></li>
+								  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" " ><span itemprop="name">Web・ホームページ制作</span></a><meta itemprop="position" content="2" /></li>
 								</ol>
 							</div>
 						</div>
@@ -636,7 +637,7 @@ if(isset($_POST['submitted']))
 						</div>
 					</div>
 					<div class="col-md-4 hidden-md hidden-lg">
-						<span><hr>インドネシアでWEB系のシステム開発やWEBアプリ開発や、それらシステムの運用が必要な場合LOGIQUEにご相談ください。CMS構築、会員管理システム（CRM)、ECサイト構築、会計管理、人事管理、アンケートシステムなど様々なシステム構築運用を成功に導いてきました。PMOとして、テスト工程だけ、ラボ型開発を、など様々な形でのご支援が可能です。</span>
+						<span><hr>インドネシアでWeb制作・ホームページ制作や運用が必要な場合にはLOGIQUEにご相談ください。レスポンシブWeb、パララックスWeb、セキュアなWebなどいかなるご要望にも柔軟にお応えし、かつスピーディーに制作します。インドネシア語、日本語、英語の他言語Web制作の経験が豊富にあります。SEO / SEMの実績も豊富ですのでWeb公開後の運用もお任せください。</span>
 						<div class="row">
 							<div class="col-sm-12">
 								<div class="link-footer-webdev">
@@ -682,7 +683,7 @@ if(isset($_POST['submitted']))
 						</form>
 					</div>
 					<div class="col-md-4 hidden-xs hidden-sm">
-						<p>インドネシアでWEB系のシステム開発やWEBアプリ開発や、それらシステムの運用が必要な場合LOGIQUEにご相談ください。CMS構築、会員管理システム（CRM)、ECサイト構築、会計管理、人事管理、アンケートシステムなど様々なシステム構築運用を成功に導いてきました。PMOとして、テスト工程だけ、ラボ型開発を、など様々な形でのご支援が可能です。</p>
+						<p>  インドネシアでWeb制作・ホームページ制作や運用が必要な場合にはLOGIQUEにご相談ください。レスポンシブWeb、パララックスWeb、セキュアなWebなどいかなるご要望にも柔軟にお応えし、かつスピーディーに制作します。インドネシア語、日本語、英語の他言語Web制作の経験が豊富にあります。SEO / SEMの実績も豊富ですのでWeb公開後の運用もお任せください。</p>
 						<div class="row">
 							<div class="col-sm-6">
 								<div class="link-footer-webdev" style="padding-left:30px">
