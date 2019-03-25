@@ -86,7 +86,8 @@ header h1 {
 }
 .style-6{
     background: url(../img/img-systemdev/img4.jpg); 
-    background-position: left center;background-size: cover;height: 570px;
+    background-position: left center;background-size: cover;
+    height: auto;
     color: #fff;}
 .style-7{
     background: url(../img/img-systemdev/img5.jpg);
@@ -505,6 +506,23 @@ section,footer{margin-left:95px}
     font-size: 38px;
     margin-bottom: 0;
 }
+.list-study{
+    margin-top: 40px;
+}
+.list-study h3{
+    margin-bottom: 10px;
+}
+.list-study-container  .circle-list{
+    padding:0;
+}
+.list-study-container .circle-list li{
+    width: 49%;
+    display: inline-block;
+    margin-bottom: 10px;
+    background: url(../img/dot.gif) no-repeat;
+    padding-left: 23px;
+}
+
 @media (min-width:1200px) {
     .margin-for-nav {
         top: 50%;
