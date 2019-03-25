@@ -1,9 +1,9 @@
 html,
 body {
-    font-family: 'Lato', serif;
+    font-family:"メイリオ", Meiryo, Lato,  "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
     background-color: #fff;
     overflow-x: hidden;
-}
+} 
 header {
     background: url(../img/img-systemdev/img1.jpg);
     background-repeat: no-repeat;
@@ -16,26 +16,28 @@ header {
 }
 header h1 {
     font-family: 'Lato', serif;
-    font-size: 40px;
+    font-size: 36px;
     color: #333;
     letter-spacing: 2px;
-    padding-left: 1.5em;
+    padding-left: 1em;
     padding-right: 1em;
 }
 
 .style-1 {
     background-color: #fff;
 }
-.style-1 h1 {font-weight: 200;font-size: 30px;}
+.style-1 h2 {font-weight: 200;font-size: 28px; line-height: 40px}
 .style-1 p {font-size: 18px}
 .underline {border-bottom: solid 8px #ebc033;padding-bottom: 20px;}
 .underline2 {border-bottom: solid 8px #ebc033;padding-bottom: 1.2em;}
 .style-2 {
-    background: url(../img/img-systemdev/img2.jpg);    
+    background: url(../img/img-systemdev/img2.jpg)   ;    
     color: #fff;
-    height: 600px;
+    height: 500px;
     background-repeat: no-repeat;
-    background-size: 100%;}
+    background-size: 100%;
+    
+    }
 .style-3 {background: #fff;color: #111;padding-top: 0;}
 .new1 {
     height: 55px;
@@ -80,7 +82,7 @@ header h1 {
 .bold {font-weight: bold}
 .new5{
     position: absolute;
-    bottom: -11.5em;
+    bottom: -10.5em;
 }
 .style-6{
     background: url(../img/img-systemdev/img4.jpg); 
@@ -221,12 +223,7 @@ section {
     margin-right: -12px;
 }
 
-.captcha-custom {
-    transform:scale(1.26);
-    -webkit-transform:scale(1.26);
-    transform-origin:0 0;
-    -webkit-transform-origin:0 0;
-}
+
 
 .img-fluid {
     width: 100%;
@@ -494,6 +491,20 @@ section,footer{margin-left:95px}
     padding: 0px 20px 10px;
     margin: 0; 
 }
+.medsos-new ul {
+    margin:0;
+    padding:0;
+}
+.medsos-new ul li{
+    display: inline-block;
+    list-style: none;
+    padding-right: 10px;
+    vertical-align: top
+}
+.medsos-new ul li a{
+    font-size: 38px;
+    margin-bottom: 0;
+}
 @media (min-width:1200px) {
     .margin-for-nav {
         top: 50%;
@@ -504,7 +515,8 @@ section,footer{margin-left:95px}
     }
 }
 .logique-nav.in-jp a {
-    font-size: 12px
+    font-size: 12px;
+    lie
 }
 
 
@@ -622,6 +634,10 @@ footer {padding-bottom: 0}
     .style-2{
         position: relative;
     }
+    .style-1 h2{
+        font-size: 24px;
+        line-height: 36px;
+    }
     .new5{
         bottom: 0;
         top: 35px;
@@ -633,4 +649,39 @@ footer {padding-bottom: 0}
     .btn-container-contact {
     margin-bottom: 20px;
     }
+    header{
+        padding-bottom: 30px;
+    }
+    header h1.m-new{
+      background:rgba(225,225,225,0.6);
+       /*   background: rgba(1,1,1,0.5);*/
+        text-shadow: none;
+        padding:20px;
+        font-size: 28px;
+    }
+    .other-stydycase .row > div {
+        margin-bottom: 20px;
+
+    }
+    .style-6 .new3{
+        margin-top: 1em;
+    }
+    .captcha-custom {
+    transform:scale(0.9);
+    -webkit-transform:scale(0.9);
+    transform-origin:0 0;
+    -webkit-transform-origin:0 0;
+    }
+    .contact form{
+        padding:10px 0;
+    }
+    .contact form .btn-submit {
+        margin-bottom: 0;
+    }
+     .contact form .btn-submit br{
+        display: none;
+     }
+     .btn-contact-us-black{
+        padding:10px 20px;
+     }
 }

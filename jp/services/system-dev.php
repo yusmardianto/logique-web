@@ -151,7 +151,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10 text-center">
-						<h1>システム開発が必要なのに、コストが高いから、時間かかるから、難しいからと諦めていませんか？インドネシアでのIT/Webシステム開発はLOGIQUEにお任せください。柔軟にスピーディーにリーズナブルなコストで開発します。</h1>
+						<h2>システム開発が必要なのに、コストが高いから、時間かかるから、難しいからと諦めていませんか？インドネシアでのIT/Webシステム開発はLOGIQUEにお任せください。柔軟にスピーディーにリーズナブルなコストで開発します。</h2>
 					</div>
 				</div>
 			</div>
@@ -381,20 +381,15 @@ if(isset($_POST['submitted']))
 						<div class="link-footer-webdev">
 							<br/>
 							<div style="margin-bottom:8px"><b>Social Media</b></div>
-							<div class="row medsos-new">
-								<div class="col-xs-3">
-									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
-								<div class="col-xs-3">
-									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
-								<div class="col-xs-3">
-									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
-								<div class="col-xs-3">
-									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
+							<div class="medsos-new">
+								<ul>
+									<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"  ></i></a></li>
+									<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"  ></i></a></li>
+									<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"  ></i></a></li>
+									<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"  ></i></a></li>
+								</ul>
 							</div>
+ 
 						</div>
 					</div>
 					<div class="col-md-4 hidden-md hidden-lg">
