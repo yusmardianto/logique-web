@@ -141,7 +141,7 @@ if(isset($_POST['submitted']))
 							<li class="active"><a href="#">JP</a></li>
 						</ul>
 					</div>
-					<div class="col-md-offset-7 col-md-5 m-t-10em">
+					<div class=" col-sm-offset-6 col-sm-6 col-lg-offset-7 col-lg-5 m-t-10em">
 						<h1 class="text-left m-new">インドネシアでシステム開発が必要ならLOGIQUEにご相談ください</h1>
 					</div>
 				</div>
@@ -151,7 +151,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10 text-center">
-						<h1>システム開発が必要なのに、コストが高いから、時間かかるから、難しいからと諦めていませんか？インドネシアでのIT/Webシステム開発はLOGIQUEにお任せください。柔軟にスピーディーにリーズナブルなコストで開発します。</h1>
+						<h2>システム開発が必要なのに、コストが高いから、時間かかるから、難しいからと諦めていませんか？インドネシアでのIT/Webシステム開発はLOGIQUEにお任せください。柔軟にスピーディーにリーズナブルなコストで開発します。</h2>
 					</div>
 				</div>
 			</div>
@@ -214,6 +214,49 @@ if(isset($_POST['submitted']))
 				</div>
 					</div>
 
+				</div>
+			</div>
+		</section>
+		<section class="other-stydycase section-style">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="osc-item">
+							
+							<div class="">
+								<img src="assets/img/img-systemdev/logo-caroline.png">
+							</div>
+							<h4>スピーディーな開発</h4>
+							<div class="osc-desc"> 僅か3ヶ月でゼロから基幹業務システムを構築。オンラインで中古車を売買するマーケットプレイスを構築した。<a href="../../case-study/caroline-bidding-system/"  >もっと見る</a></div>
+							<div class="osc-worktodo">Caroline-id.com, マーケットプレイス構築, 中古車売買 PHP, Laravel, HTML5</div>
+						</div>
+
+					</div>
+					<div class="col-sm-4">
+						<div class="osc-item">
+							
+							<div class="">
+								<img src="assets/img/img-systemdev/logo-zutto.png">
+							</div>
+							<h4>長期間に渡りシステム改善PDCA</h4>
+							<div class="osc-desc"> 約5年に渡ってZuttoRide社のCRMシステムをゼロから開発、フェージングを適切にコントロールしながら機能追加、システム改善のPDCAサイクルを一緒に回してきた。<a href="../../case-study/zuttoride-customer-management-system/"  >もっと見る</a></div>
+							<div class="osc-worktodo">ZuttoRide Indonesia, CRMシステム, バイクロードサービス, バイク保険 PHP, CakePHP, HTML5</div>
+						</div>
+
+					</div>
+					<div class="col-sm-4">
+						<div class="osc-item">
+							
+							<div class="">
+								<img src="assets/img/img-systemdev/logo-vip.png">
+							</div>
+							<h4>PWAでE-Commerceを再構築</h4>
+							<div class="osc-desc">PWAでE-Commerceを作り直した。ダイナミックなUIでユーザーの購買意欲を直接購入へと導くことに成功。リソースベースのAgile型開発でご支援。
+
+<a href="../../case-study/vip-plaza-progressive-web-app/"  >もっと見る</a></div>
+							<div class="osc-worktodo">https://m.vipplaza.co.id/  ECサイト構築, インドネシアEC PWA, NodeJS, ReactJS</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</section>
@@ -338,20 +381,15 @@ if(isset($_POST['submitted']))
 						<div class="link-footer-webdev">
 							<br/>
 							<div style="margin-bottom:8px"><b>Social Media</b></div>
-							<div class="row medsos-new">
-								<div class="col-xs-3">
-									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
-								<div class="col-xs-3">
-									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
-								<div class="col-xs-3">
-									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
-								<div class="col-xs-3">
-									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
+							<div class="medsos-new">
+								<ul>
+									<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"  ></i></a></li>
+									<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"  ></i></a></li>
+									<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"  ></i></a></li>
+									<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"  ></i></a></li>
+								</ul>
 							</div>
+ 
 						</div>
 					</div>
 					<div class="col-md-4 hidden-md hidden-lg">
