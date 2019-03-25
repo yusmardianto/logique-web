@@ -140,41 +140,91 @@
 							  <div class="carousel-inner">
 								<div class="item active">
 									<div class="text-center">
-										<h1 class="title-index" style="font-size: 45px;">
-											LOGIQUE, the best <span class="yellow">Web Developer<br/> / IT Consultant Firm</span> in Jakarta, <br/>gets you conversion and growth
+										<h1 class="title-index" style="font-size: 40px;">
+											The <span class="yellow">Top</span> In-House Web Developer Company in Jakarta, Providing <span class="yellow">Digital Solutions</span> For Your Business
 										</h1>
-										LOGIQUE has the experience and quality you need in developing web systems for today's digital business trends. We have collaborated with many international clients for various needs such as E-Commerce, CRM, Online Auction Systems, Recruitment Systems, and CMS, and are accustomed to making these web systems to international standards. LOGIQUE is also ready to assist you in website creation, applications, digital marketing, content marketing, social media operations, video making, printing, SEO services, and server or infrastructure operations. The experience that we have for more than 5 years, also our proven quality and expertise can be a new breakthrough for your business.<br/><br/>
+										<p class="p-padding-v-15">
+											<b>LOGIQUE DIGITAL INDONESIA</b>, a professional in-house Web Developer company that serves Website and Apps creation and development, Web Design, also Digital Marketing services to improve your business and increase profits. 
+											We have served many large clients from local and international range with various needs, from creating E-Commerce, creating Online Auction Systems, creating employee recruitment systems, and Digital Marketing. 
+											We also offer you non-digital product services, such as brochures, catalogs, company profile videos, and other company branding products.
+										</p>
+										<p class="p-padding-v-15">
+											We are professional, flexible, and committed in producing a variety of high quality and international standard digital products. 
+											Grow and improve the profits of your business in the digital age with the best solutions that we provide. See the details below.
+										</p>
 										<div class="row">
 											<div class="col-lg-offset-1 col-lg-10">
 												<div class="row">
 													<div class="col-md-3 col-sm-6">
-														<div class="div-service-cat">
-															<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
-															<h2>Website <br/><span>Creation</span></h2>
-															<a target="_blank" href="/en/services/mekanisme-pembuatan-website/" class="btn">See Detail</a>
-														</div>
+														<a href="/en/services/web-dev.php" class="div-service-cat">
+															<img src="/img/top/i-top1.png" alt="Website Production Service" class="center-block img-responsive"/>
+															<h2>Website Production Service</h2>
+														</a>
 													</div>
 													<div class="col-md-3 col-sm-6">
-														<div class="div-service-cat">
-															<img src="/img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
-															<h2>Mobile <br/><span>Solution</span></h2>
-															<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/" class="btn">See Detail</a>
-														</div>
+														<a href="/en/services/mobile-app-dev.php" class="div-service-cat">
+															<img src="/img/top/i-top2.png" alt="Mobile Apps Development Service" class="center-block img-responsive"/>
+															<h2>Mobile Apps Development Service</h2>
+														</a>
 													</div>
 													<div class="col-md-3 col-sm-6">
-														<div class="div-service-cat">
-															<img src="/img/jasa-promosi-online.png" alt="Web System Development" class="center-block img-responsive"/>
-															<h2>Web System<br/><span>Development</span></h2>
-															<a target="_blank" href="/en/services/pembuatan-sistem-web/" class="btn">See Detail</a>
-														</div>
+														<a href="/en/services/system-dev.php" class="div-service-cat">
+															<img src="/img/top/i-top3.png" alt="Web System Development Service" class="center-block img-responsive"/>
+															<h2>Web System Development Service</h2>
+														</a>
 													</div>
 													<div class="col-md-3 col-sm-6">
-														<div class="div-service-cat">
-															<img src="/img/jasa-seo.png" alt="WEB Security Assessment" class="center-block img-responsive"/>
-															<div>WEB Security<br/><span>Assessment</span></div>
-															<a target="_blank" href="/en/services/penetration-testing/" class="btn">See Detail</a>
-														</div>
+														<a href="/en/services/penetration-test.php" class="div-service-cat">
+															<img src="/img/top/i-top4.png" alt="Penetration Testing Service" class="center-block img-responsive"/>
+															<h2>Penetration Testing Service</h2>
+														</a>
 													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+	
+								<div class="item">
+									<h1 class="text-center title-index title-index2">
+										We Provide <span class="yellow">HR-Tech</span> Solutions In Indonesia
+									</h1>
+									<div class="row">
+										<div class="col-md-10 col-md-offset-1 text-center">
+											<p class="p-padding-v-15">
+												With a high level of congestion, as well as various problems of each individual employee who are uncertain, thereby reducing the mobility of employees, certainly will make company productivity decrease. 
+												Therefore, LOGIQUE offers you a remote work tool called <b>Dokodemo-Kerja</b>. 
+												This system can monitor and calculate employee working hours accurately. 
+												In addition, this software is also equipped with various supporting features that work automatically so that company management can assess each employee efficiently.
+											</p>
+											<p class="p-padding-v-15">
+												We also offer a recruitment system that can help recruiting be more effective and efficient for HR teams or job seekers, called <b>Sugoi Saiyo</b>. 
+												This system will make it easier for HR to carry out the recruitment process, so that companies can get the right candidates in a short time and can determine when and where the interview process will take place.
+											</p>
+											<p class="p-padding-v-15">
+												To complete the HR-Tech solution, LOGIQUE also offers a daily reporting management system for employees, called <b>Nippo</b>. 
+												This system can help company managements easily monitor, evaluate employee performance every month.
+											</p>
+											<div class="row">
+												<div class="col-md-3">
+													<a href="/en/product/dokodemo-kerja.php" class="flipp">
+														<img src="/img/top/i-dokodemo.png" alt="dokodemo">
+													</a>
+												</div>
+												<div class="col-md-3">
+													<a href="/en/product/sugoi-saiyo.php" class="flipp">
+														<img src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
+													</a>
+												</div>
+												<div class="col-md-3">
+													<a href="/en/product/nippo.php" class="flipp">
+														<img src="/img/top/i-nippo.png" alt="nippo">
+													</a>
+												</div>
+												<div class="col-md-3">
+													<a href="/en/services/recruitment-web-dev.php" class="flipp">
+														<img src="/img/top/i-hr-site.png" alt="hr site">
+													</a>
 												</div>
 											</div>
 										</div>
@@ -183,72 +233,53 @@
 
 								<div class="item">
 									<h1 class="text-center title-index title-index2">
-										We Provide <span class="yellow">HR-Tech</span> Solutions In Indonesia
+										Case Study
 									</h1>
 									<div class="row">
-										<div class="col-md-6">
+										<div class="col-md-10 col-md-offset-1 text-center">
+											<p class="p-padding-v-15">
+												For 7 years, LOGIQUE has been supporting clients from local and international in creating and developing Websites, Mobile Apps, and Digital Marketing. 
+												In accordance with our goals, LOGIQUE commits to provide the best solutions for our clients. 
+												We have worked successfully on many projects, including e-commerce development, car/motorcycle auction management system development, content management system development, and many more.
+											</p>
 											<div class="row">
-												<div class="col-sm-6">
-													<div class="onhover">
-														<a href="/produk/dokodemo-kerja.php" target="_blank">
-															<img src="/img/dokodemo-index.png" class="center-block img-responsive"/>
-															<div class="div-explanation">
-																Tools to monitor works and improve productivity of employees, especially those who remote-work.
-															</div>
-														</a>
-													</div>
-													<br/>
+												<div class="col-md-3">
+													<a href="/en/case-study/caroline-bidding-system/" class="flipp">
+														<img src="/img/top/i-caroline.png" alt="caroline">
+													</a>
 												</div>
-												<div class="col-sm-6">
-													<div class="onhover">
-														<a href="/en/product/sugoi-saiyo.php" target="_blank">
-															<img src="/img/sugoi-index.png" class="center-block img-responsive"/>
-															<div class="div-explanation">
-																Recruitment management system for efficient and reasonable recruitment activities, incorporating interview through WhatsApp, and so on.
-															</div>
-														</a>
-													</div>
-													<br/>
+												<div class="col-md-2">
+													<a href="/en/case-study/jba-auction-system/" class="flipp">
+														<img src="/img/top/i-jba.png" alt="jba">
+													</a>
+												</div>
+												<div class="col-md-2">
+													<a href="/en/case-study/opuspark/" class="flipp">
+														<img src="/img/top/i-opus-park.png" alt="opus park">
+													</a>
+												</div>
+												<div class="col-md-2">
+													<a href="/en/case-study/zuttoride-customer-management-system/" class="flipp">
+														<img src="/img/top/i-zuttoride.png" alt="zuttoride">
+													</a>
+												</div>
+												<div class="col-md-3">
+													<a href="/en/case-study/vip-plaza-progressive-web-app/" class="flipp">
+														<img src="/img/top/i-vipplaza.png" alt="vip plaza">
+													</a>
 												</div>
 											</div>
-											<div class="row">
-												<div class="col-sm-6">
-													<div class="onhover">
-														<a href="/en/product/nippo.php" target="_blank">
-															<img src="/img/nippo-index.png" class="center-block img-responsive"/>
-															<div class="div-explanation">
-																A new daily report management system that manages staff's day-to-day activities and produces internal communication.
-															</div>
-														</a>
-													</div>
-													<br/>
-												</div>
-												<div class="col-sm-6">
-													<div class="onhover">
-														<a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank">
-															<img src="/img/hiring-index.png" class="center-block img-responsive"/>
-															<div class="div-explanation">
-																Job search site · We create a hiring page for your company. It is effective in relation to SugoiSaiyo.
-															</div>
-														</a>
-													</div>
-													<br/>
-												</div>
-											</div>
-										</div>
-										<div class="col-md-6">
-											<b>Remote work </b>| We support more people to remote-work through the use of IT so that Indonesians who are still capable don't need to give up their careers and can work flexibly. We provide remote working & productivity improvement tool called <b>Dokodemo-Kerja</b>.<br/><br/>
-											As benefits for both recruitment companies and job seekers, we also offer <b>SugoiSaiyo</b>, a recruitment management tool for smooth and efficient recruitment activities that eliminates waste of job seeking/recruiting processes with the power of IT. <b>Nippo</b> is also provided with a daily report management system for aggregating data available for management accounting while managing the daily work situation and contents of staff. Feel free to contact us for any inquiries.
 										</div>
 									</div>
 								</div>
+
 							  </div>
 							  <a class="left carousel-control" href="#myCarousel2" data-slide="prev">
-								<span class="juggling glyphicon glyphicon-chevron-left"></span>
+								<span class="fa fa-angle-left"></span>
 								<span class="sr-only">Previous</span>
 							  </a>
 							  <a class="right carousel-control" href="#myCarousel2" data-slide="next">
-								<span class="juggling glyphicon glyphicon-chevron-right"></span>
+								<span class="fa fa-angle-right"></span>
 								<span class="sr-only">Next</span>
 							  </a>
 							</div>
@@ -273,40 +304,44 @@
 						  <div class="carousel-inner">
 							<div class="item active">
 								<div class="text-center">
-									<h1 class="title-index" style="font-size: 45px;">
-										LOGIQUE, the best <span class="yellow">Web Developer<br/> / IT Consultant Firm</span> in Jakarta, <br/>gets you conversion and growth
+									<h1 class="title-index" style="font-size: 40px;">
+										The <span class="yellow">Top</span> In-House Web Developer Company in Jakarta, Providing <span class="yellow">Digital Solutions</span> For Your Business
 									</h1>
-									LOGIQUE has the experience and quality you need in developing web systems for today's digital business trends. We have collaborated with many international clients for various needs such as E-Commerce, CRM, Online Auction Systems, Recruitment Systems, and CMS, and are accustomed to making these web systems to international standards. LOGIQUE is also ready to assist you in website creation, applications, digital marketing, content marketing, social media operations, video making, printing, SEO services, and server or infrastructure operations. The experience that we have for more than 5 years, also our proven quality and expertise can be a new breakthrough for your business.<br/><br/>
+									<p class="p-padding-v-15">
+										<b>LOGIQUE DIGITAL INDONESIA</b>, a professional in-house Web Developer company that serves Website and Apps creation and development, Web Design, also Digital Marketing services to improve your business and increase profits. 
+										We have served many large clients from local and international range with various needs, from creating E-Commerce, creating Online Auction Systems, creating employee recruitment systems, and Digital Marketing. 
+										We also offer you non-digital product services, such as brochures, catalogs, company profile videos, and other company branding products.
+									</p>
+									<p class="p-padding-v-15">
+										We are professional, flexible, and committed in producing a variety of high quality and international standard digital products. 
+										Grow and improve the profits of your business in the digital age with the best solutions that we provide. See the details below.
+									</p>
 									<div class="row">
 										<div class="col-lg-offset-1 col-lg-10">
 											<div class="row">
 												<div class="col-md-3 col-sm-6">
-													<div class="div-service-cat">
-														<img src="/img/html.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
-														<h2>Website <br/><span>Creation</span></h2>
-														<a target="_blank" href="/en/services/mekanisme-pembuatan-website/" class="btn">See Detail</a>
-													</div>
+													<a href="/en/services/web-dev.php" class="div-service-cat">
+														<img src="/img/top/i-top1.png" alt="Website Production Service" class="center-block img-responsive"/>
+														<h2>Website Production Service</h2>
+													</a>
 												</div>
 												<div class="col-md-3 col-sm-6">
-													<div class="div-service-cat">
-														<img src="/img/mobile-solution.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
-														<h2>Mobile <br/><span>Solution</span></h2>
-														<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/" class="btn">See Detail</a>
-													</div>
+													<a href="/en/services/mobile-app-dev.php" class="div-service-cat">
+														<img src="/img/top/i-top2.png" alt="Mobile Apps Development Service" class="center-block img-responsive"/>
+														<h2>Mobile Apps Development Service</h2>
+													</a>
 												</div>
 												<div class="col-md-3 col-sm-6">
-													<div class="div-service-cat">
-														<img src="/img/jasa-promosi-online.png" alt="Web System Development" class="center-block img-responsive"/>
-														<h2>Web System<br/><span>Development</span></h2>
-														<a target="_blank" href="/en/services/pembuatan-sistem-web/" class="btn">See Detail</a>
-													</div>
+													<a href="/en/services/system-dev.php" class="div-service-cat">
+														<img src="/img/top/i-top3.png" alt="Web System Development Service" class="center-block img-responsive"/>
+														<h2>Web System Development Service</h2>
+													</a>
 												</div>
 												<div class="col-md-3 col-sm-6">
-													<div class="div-service-cat">
-														<img src="/img/jasa-seo.png" alt="WEB Security Assessment" class="center-block img-responsive"/>
-														<div>WEB Security<br/><span>Assessment</span></div>
-														<a target="_blank" href="/en/services/penetration-testing/" class="btn">See Detail</a>
-													</div>
+													<a href="/en/services/penetration-test.php" class="div-service-cat">
+														<img src="/img/top/i-top4.png" alt="Penetration Testing Service" class="center-block img-responsive"/>
+														<h2>Penetration Testing Service</h2>
+													</a>
 												</div>
 											</div>
 										</div>
@@ -319,77 +354,95 @@
 									We Provide <span class="yellow">HR-Tech</span> Solutions In Indonesia
 								</h1>
 								<div class="row">
-									<div class="col-md-6">
+									<div class="col-md-10 col-md-offset-1 text-center">
+										<p class="p-padding-v-15">
+											With a high level of congestion, as well as various problems of each individual employee who are uncertain, thereby reducing the mobility of employees, certainly will make company productivity decrease. 
+											Therefore, LOGIQUE offers you a remote work tool called <b>Dokodemo-Kerja</b>. 
+											This system can monitor and calculate employee working hours accurately. 
+											In addition, this software is also equipped with various supporting features that work automatically so that company management can assess each employee efficiently.
+										</p>
+										<p class="p-padding-v-15">
+											We also offer a recruitment system that can help recruiting be more effective and efficient for HR teams or job seekers, called <b>Sugoi Saiyo</b>. 
+											This system will make it easier for HR to carry out the recruitment process, so that companies can get the right candidates in a short time and can determine when and where the interview process will take place.
+										</p>
+										<p class="p-padding-v-15">
+											To complete the HR-Tech solution, LOGIQUE also offers a daily reporting management system for employees, called <b>Nippo</b>. 
+											This system can help company managements easily monitor, evaluate employee performance every month.
+										</p>
 										<div class="row">
-											<div class="col-sm-6">
-												<div class="onhover">
-													<a href="/produk/dokodemo-kerja.php" target="_blank">
-														<img src="/img/dokodemo-index.png" class="center-block img-responsive"/>
-														<div class="div-explanation">
-															<div class="valign-center">
-																Tools to monitor works and improve productivity of employees, especially those who remote-work.
-															</div>
-														</div>
-													</a>
-												</div>
-												<br/>
+											<div class="col-md-3">
+												<a href="/en/product/dokodemo-kerja.php" class="flipp">
+													<img src="/img/top/i-dokodemo.png" alt="dokodemo">
+												</a>
 											</div>
-											<div class="col-sm-6">
-												<div class="onhover">
-													<a href="/en/product/sugoi-saiyo.php" target="_blank">
-														<img src="/img/sugoi-index.png" class="center-block img-responsive"/>
-														<div class="div-explanation">
-															<div class="valign-center">
-																Recruitment management system for efficient and reasonable recruitment activities, incorporating interview through WhatsApp, and so on.
-															</div>
-														</div>
-													</a>
-												</div>
-												<br/>
+											<div class="col-md-3">
+												<a href="/en/product/sugoi-saiyo.php" class="flipp">
+													<img src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
+												</a>
 											</div>
-										</div>
-										<div class="row">
-											<div class="col-sm-6">
-												<div class="onhover">
-													<a href="/en/product/nippo.php" target="_blank">
-														<img src="/img/nippo-index.png" class="center-block img-responsive"/>
-														<div class="div-explanation">
-															<div class="valign-center">
-																A new daily report management system that manages staff's day-to-day activities and produces internal communication.
-															</div>
-														</div>
-													</a>
-												</div>
-												<br/>
+											<div class="col-md-3">
+												<a href="/en/product/nippo.php" class="flipp">
+													<img src="/img/top/i-nippo.png" alt="nippo">
+												</a>
 											</div>
-											<div class="col-sm-6">
-												<div class="onhover">
-													<a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank">
-														<img src="/img/hiring-index.png" class="center-block img-responsive"/>
-														<div class="div-explanation">
-															<div class="valign-center">
-																Job search site · We create a hiring page for your company. It is effective in relation to SugoiSaiyo.
-															</div>
-														</div>
-													</a>
-												</div>
-												<br/>
+											<div class="col-md-3">
+												<a href="/en/services/recruitment-web-dev.php" class="flipp">
+													<img src="/img/top/i-hr-site.png" alt="hr site">
+												</a>
 											</div>
 										</div>
 									</div>
-									<div class="col-md-6">
-										<b>Remote work </b>| We support more people to remote-work through the use of IT so that Indonesians who are still capable don't need to give up their careers and can work flexibly. We provide remote working & productivity improvement tool called <b>Dokodemo-Kerja</b>.<br/><br/>
-										As benefits for both recruitment companies and job seekers, we also offer <b>SugoiSaiyo</b>, a recruitment management tool for smooth and efficient recruitment activities that eliminates waste of job seeking/recruiting processes with the power of IT. <b>Nippo</b> is also provided with a daily report management system for aggregating data available for management accounting while managing the daily work situation and contents of staff. Feel free to contact us for any inquiries.
+								</div>
+							</div>
+
+							<div class="item">
+								<h1 class="text-center title-index title-index2">
+									Case Study
+								</h1>
+								<div class="row">
+									<div class="col-md-10 col-md-offset-1 text-center">
+										<p class="p-padding-v-15">
+											For 7 years, LOGIQUE has been supporting clients from local and international in creating and developing Websites, Mobile Apps, and Digital Marketing. 
+											In accordance with our goals, LOGIQUE commits to provide the best solutions for our clients. 
+											We have worked successfully on many projects, including e-commerce development, car/motorcycle auction management system development, content management system development, and many more.
+										</p>
+										<div class="row">
+											<div class="col-md-3">
+												<a href="/en/case-study/caroline-bidding-system/" class="flipp">
+													<img src="/img/top/i-caroline.png" alt="caroline">
+												</a>
+											</div>
+											<div class="col-md-2">
+												<a href="/en/case-study/jba-auction-system/" class="flipp">
+													<img src="/img/top/i-jba.png" alt="jba">
+												</a>
+											</div>
+											<div class="col-md-2">
+												<a href="/en/case-study/opuspark/" class="flipp">
+													<img src="/img/top/i-opus-park.png" alt="opus park">
+												</a>
+											</div>
+											<div class="col-md-2">
+												<a href="/en/case-study/zuttoride-customer-management-system/" class="flipp">
+													<img src="/img/top/i-zuttoride.png" alt="zuttoride">
+												</a>
+											</div>
+											<div class="col-md-3">
+												<a href="/en/case-study/vip-plaza-progressive-web-app/" class="flipp">
+													<img src="/img/top/i-vipplaza.png" alt="vip plaza">
+												</a>
+											</div>
+										</div>
 									</div>
 								</div>
 							</div>
 						  </div>
 						  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-							<span class="juggling glyphicon glyphicon-chevron-left"></span>
+							<span class="fa fa-angle-left"></span>
 							<span class="sr-only">Previous</span>
 						  </a>
 						  <a class="right carousel-control" href="#myCarousel" data-slide="next">
-							<span class="juggling glyphicon glyphicon-chevron-right"></span>
+							<span class="fa fa-angle-right"></span>
 							<span class="sr-only">Next</span>
 						  </a>
 						</div>

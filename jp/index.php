@@ -136,7 +136,7 @@
 										<h1 class="title-index" >
 											<span class="yellow">インドネシア</span>でお客様の課題を<br><span class="yellow">Web・IT</span>の活用で解決してきました。
 										</h1>
-										<p style="margin-bottom: 20px;">
+										<p class="p-padding-v-15">
 											Web・ホームページ制作・Webシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWeb戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWebを制作運用することを心がけています。デジタルマーケティングコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。採用管理システムやCRMシステム、ECサイト構築などシステム開発も数多く経験しています。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネット・ITを活用して貢献していきます。
 										</p>
 										<div class="row">
@@ -171,68 +171,58 @@
 										</div>
 									</div>
 								</div>
-
+								
 								<div class="item">
 									<h1 class="text-center title-index title-index2">
 										インドネシアで<span class="yellow">HRテック</span>ソリューションを提供しています。
 									</h1>
 									<div class="row">
-										<div class="col-md-6">
+										<div class="col-md-10 col-md-offset-1 text-center">
+											<p class="p-padding-v-15">
+												インドネシアのWeb制作開発・デジタルマーケティング業界の発展に貢献したいと考えています。当社で働くデザイナー、エンジニア、デジタルマーケッターが気持ちよく、効率的に働けるように、また的確な採用活動をして人事評価ができるように社内向けに３つのシステム開発をして、実際に使ってきました。
+												十分な効果を感じていて製品としても熟成されてきましたので、この３つのシステムツールを製品として販売することにいたしました。
+											</p>
+											<p class="p-padding-v-15">
+												ドコデモクルジャというクラウドツールは、Web制作者にリモートワーク｜テレワークを可能とするためのシステムです。
+												より多くの有能なインドネシア人が外部環境要因によりキャリアを諦める必要なく、多様な働き方をできるようにITの活用により支援していきます。
+												管理者にとっても効果的に社員の勤怠管理、勤務状況コントロールができるので双方にとってメリットのあるツールです。
+											</p>
+											<p class="p-padding-v-15">
+												スゴイ採用は、採用企業と求職者の両者にメリットあるように、ITの力で、求職・採用プロセスの無駄を排除した、スムーズで効率的な採用活動をするための採用管理ツールです。
+												スタッフの日々の勤務状況・内容を管理しつつ管理会計に利用可能なデータの集計を行うための日報管理システム、Nippoも提供しております。
+											</p>
+											<p class="p-padding-v-15">
+												ほかに御社の採用Webサイトを制作するソリューションも提供しています。デジタルマーケティングを実施してターゲットとなる求職者に御社での仕事をアピールし、採用Webでメリット訴求し、Sugoi採用でストレスなく採用プロセスに入ってもらうという一連の流れをご支援しています。
+											</p>
+											<p class="p-padding-v-15">
+												いずれについても無料試用期間を用意していますのでお気軽にご連絡いただければと思います。
+											</p>
 											<div class="row">
-												<div class="col-sm-6">
-													<div class="onhover">
-														<a href="/jp/product/dokodemo-kerja.php" target="_blank">
-															<img src="/img/dokodemo-index.png" class="center-block img-responsive"/>
-															<div class="div-explanation">
-																リモートで働くスタッフ、パートナーを管理し生産性を向上させるツールです。
-															</div>
-														</a>
-													</div>
-													<br/>
+												<div class="col-md-3">
+													<a href="/jp/product/dokodemo-kerja.php" class="flipp">
+														<img src="/img/top/i-dokodemo.png" alt="dokodemo">
+													</a>
 												</div>
-												<div class="col-sm-6">
-													<div class="onhover">
-														<a href="/jp/product/sugoi-saiyo.php" target="_blank">
-															<img src="/img/sugoi-index.png" class="center-block img-responsive"/>
-															<div class="div-explanation">
-																Whatsappインタビューなどを組み込んだ、効率的で合理的な採用活動のための採用管理システムです。
-															</div>
-														</a>
-													</div>
-													<br/>
+												<div class="col-md-3">
+													<a href="/jp/product/sugoi-saiyo.php" class="flipp">
+														<img src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
+													</a>
+												</div>
+												<div class="col-md-3">
+													<a href="/jp/product/nippo.php" class="flipp">
+														<img src="/img/top/i-nippo.png" alt="nippo">
+													</a>
+												</div>
+												<div class="col-md-3">
+													<a href="/jp/services/recruitment-web-dev.php" class="flipp">
+														<img src="/img/top/i-hr-site.png" alt="hr site">
+													</a>
 												</div>
 											</div>
-											<div class="row">
-												<div class="col-sm-6">
-													<div class="onhover">
-														<a href="/jp/product/nippo.php" target="_blank">
-															<img src="/img/nippo-index.png" class="center-block img-responsive"/>
-															<div class="div-explanation">
-																スタッフの日々の活動を管理し社内コミュニケーションを生む、新しい日報管理システムです。
-															</div>
-														</a>
-													</div>
-													<br/>
-												</div>
-												<div class="col-sm-6">
-													<div class="onhover">
-														<a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank">
-															<img src="/img/hiring-index.png" class="center-block img-responsive"/>
-															<div class="div-explanation">
-																求人サイト・採用ページの制作を行います。SugoiSaiyoと関連づけると効果的です。
-															</div>
-														</a>
-													</div>
-													<br/>
-												</div>
-											</div>
-										</div>
-										<div class="col-md-6">
-											リモートワーク｜テレワークの普及により、より多くの有能なインドネシア人がキャリアを諦める必要なく、多様な働き方をできるようにITの活用により支援していきます。Dokodemo-Kerjaというリモートワーク＆生産性向上ツールを提供しています。<br/><br/>
-											採用企業と求職者の両者にメリットあるように、ITの力で、求職・採用プロセスの無駄を排除した、スムーズで効率的な採用活動をするための採用管理ツール、SugoiSaiyoも提供しています。スタッフの日々の勤務状況・内容を管理しつつ管理会計に利用可能なデータの集計を行うための日報管理システム、Nippoも提供しております。いずれについてもお気軽にお問い合わせいただければ幸いです。
 										</div>
 									</div>
 								</div>
+								
 							  </div>
 							  <a class="left carousel-control" href="#myCarousel2" data-slide="prev">
 								<span class="fa fa-angle-left"></span>
@@ -262,116 +252,97 @@
 						
 						<div id="myCarousel" class="carousel slide carousel-home-new" data-interval="false">
 						  <div class="carousel-inner">
-							<div class="item active">
-								<div class="text-center">
-									<h1 class="title-index" style="font-size:40px">
-										<span class="yellow">インドネシア</span>でお客様の課題を<br><span class="yellow">Web・IT</span>の活用で解決してきました。
-									</h1>
-									<p style="margin-bottom: 20px;">
-										Web・ホームページ制作・Webシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWeb戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWebを制作運用することを心がけています。デジタルマーケティングコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。採用管理システムやCRMシステム、ECサイト構築などシステム開発も数多く経験しています。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネット・ITを活用して貢献していきます。
-									</p>
-									<div class="row">
-										<div class="col-lg-offset-1 col-lg-10">
-											<div class="row">
-												<div class="col-md-3 col-sm-6">
-													<a href="/jp/services/web-dev.php" class="div-service-cat">
-														<img src="/img/top/i-top1.png" alt="Website Creation Service" class="center-block img-responsive"/>
-														<h2>Webサイト / ホームページ制作</h2>
-													</a>
-												</div>
-												<div class="col-md-3 col-sm-6">
-													<a href="/jp/services/mobile-app-dev.php" class="div-service-cat">
-														<img src="/img/top/i-top2.png" alt="Mobile App Service" class="center-block img-responsive"/>
-														<h2>スマホ / モバイルApp開発</h2>
-													</a>
-												</div>
-												<div class="col-md-3 col-sm-6">
-													<a href="/jp/services/system-dev.php" class="div-service-cat">
-														<img src="/img/top/i-top3.png" alt="Web System" class="center-block img-responsive"/>
-														<h2 style="padding: 0 30px;">Webシステム開発</h2>
-													</a>
-												</div>
-												<div class="col-md-3 col-sm-6">
-													<a class="div-service-cat" href="/jp/services/penetration-test.php">
-														<img src="/img/top/i-top4.png" alt="Security and Penetration Testing Service" class="center-block img-responsive"/>
-														<h2>Webセキュリティ脆弱性テスト</h2>
-													</a>
+								<div class="item active">
+									<div class="text-center">
+										<h1 class="title-index" style="font-size:40px">
+											<span class="yellow">インドネシア</span>でお客様の課題を<br><span class="yellow">Web・IT</span>の活用で解決してきました。
+										</h1>
+										<p class="p-padding-v-15">
+											Web・ホームページ制作・Webシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWeb戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWebを制作運用することを心がけています。デジタルマーケティングコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。採用管理システムやCRMシステム、ECサイト構築などシステム開発も数多く経験しています。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネット・ITを活用して貢献していきます。
+										</p>
+										<div class="row">
+											<div class="col-lg-offset-1 col-lg-10">
+												<div class="row">
+													<div class="col-md-3 col-sm-6">
+														<a href="/jp/services/web-dev.php" class="div-service-cat">
+															<img src="/img/top/i-top1.png" alt="Website Creation Service" class="center-block img-responsive"/>
+															<h2>Webサイト / ホームページ制作</h2>
+														</a>
+													</div>
+													<div class="col-md-3 col-sm-6">
+														<a href="/jp/services/mobile-app-dev.php" class="div-service-cat">
+															<img src="/img/top/i-top2.png" alt="Mobile App Service" class="center-block img-responsive"/>
+															<h2>スマホ / モバイルApp開発</h2>
+														</a>
+													</div>
+													<div class="col-md-3 col-sm-6">
+														<a href="/jp/services/system-dev.php" class="div-service-cat">
+															<img src="/img/top/i-top3.png" alt="Web System" class="center-block img-responsive"/>
+															<h2 style="padding: 0 30px;">Webシステム開発</h2>
+														</a>
+													</div>
+													<div class="col-md-3 col-sm-6">
+														<a class="div-service-cat" href="/jp/services/penetration-test.php">
+															<img src="/img/top/i-top4.png" alt="Security and Penetration Testing Service" class="center-block img-responsive"/>
+															<h2>Webセキュリティ脆弱性テスト</h2>
+														</a>
+													</div>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
-							</div>
 
-							<div class="item">
-								<h1 class="text-center title-index title-index2">
-									インドネシアで<span class="yellow">HRテック</span>ソリューションを提供しています。
-								</h1>
-								<div class="row">
-									<div class="col-md-10 col-md-offset-1 text-center">
-										<div class="row">
-											<div class="col-sm-6">
-												<div class="onhover">
-													<a href="/jp/product/dokodemo-kerja.php" target="_blank">
-														<img src="/img/dokodemo-index.png" class="center-block img-responsive"/>
-														<div class="div-explanation">
-															<div class="valign-center">
-																リモートで働くスタッフ、パートナーを管理し生産性を向上させるツールです。
-															</div>
-														</div>
+								<div class="item">
+									<h1 class="text-center title-index title-index2">
+										インドネシアで<span class="yellow">HRテック</span>ソリューションを提供しています。
+									</h1>
+									<div class="row">
+										<div class="col-md-10 col-md-offset-1 text-center">
+											<p class="p-padding-v-15">
+												インドネシアのWeb制作開発・デジタルマーケティング業界の発展に貢献したいと考えています。当社で働くデザイナー、エンジニア、デジタルマーケッターが気持ちよく、効率的に働けるように、また的確な採用活動をして人事評価ができるように社内向けに３つのシステム開発をして、実際に使ってきました。
+												十分な効果を感じていて製品としても熟成されてきましたので、この３つのシステムツールを製品として販売することにいたしました。
+											</p>
+											<p class="p-padding-v-15">
+												ドコデモクルジャというクラウドツールは、Web制作者にリモートワーク｜テレワークを可能とするためのシステムです。
+												より多くの有能なインドネシア人が外部環境要因によりキャリアを諦める必要なく、多様な働き方をできるようにITの活用により支援していきます。
+												管理者にとっても効果的に社員の勤怠管理、勤務状況コントロールができるので双方にとってメリットのあるツールです。
+											</p>
+											<p class="p-padding-v-15">
+												スゴイ採用は、採用企業と求職者の両者にメリットあるように、ITの力で、求職・採用プロセスの無駄を排除した、スムーズで効率的な採用活動をするための採用管理ツールです。
+												スタッフの日々の勤務状況・内容を管理しつつ管理会計に利用可能なデータの集計を行うための日報管理システム、Nippoも提供しております。
+											</p>
+											<p class="p-padding-v-15">
+												ほかに御社の採用Webサイトを制作するソリューションも提供しています。デジタルマーケティングを実施してターゲットとなる求職者に御社での仕事をアピールし、採用Webでメリット訴求し、Sugoi採用でストレスなく採用プロセスに入ってもらうという一連の流れをご支援しています。
+											</p>
+											<p class="p-padding-v-15">
+												いずれについても無料試用期間を用意していますのでお気軽にご連絡いただければと思います。
+											</p>
+											<div class="row">
+												<div class="col-md-3">
+													<a href="/jp/product/dokodemo-kerja.php" class="flipp">
+														<img src="/img/top/i-dokodemo.png" alt="dokodemo">
 													</a>
 												</div>
-												<br/>
-											</div>
-											<div class="col-sm-6">
-												<div class="onhover">
-													<a href="/jp/product/sugoi-saiyo.php" target="_blank">
-														<img src="/img/sugoi-index.png" class="center-block img-responsive"/>
-														<div class="div-explanation">
-															<div class="valign-center">	
-																Whatsappインタビューなどを組み込んだ、効率的で合理的な採用活動のための採用管理システムです。
-															</div>
-														</div>
+												<div class="col-md-3">
+													<a href="/jp/product/sugoi-saiyo.php" class="flipp">
+														<img src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
 													</a>
 												</div>
-												<br/>
-											</div>
-										</div>
-										<div class="row">
-											<div class="col-sm-6">
-												<div class="onhover">
-													<a href="/jp/product/nippo.php" target="_blank">
-														<img src="/img/nippo-index.png" class="center-block img-responsive"/>
-														<div class="div-explanation">
-															<div class="valign-center">
-																スタッフの日々の活動を管理し社内コミュニケーションを生む、新しい日報管理システムです。
-															</div>
-														</div>
+												<div class="col-md-3">
+													<a href="/jp/product/nippo.php" class="flipp">
+														<img src="/img/top/i-nippo.png" alt="nippo">
 													</a>
 												</div>
-												<br/>
-											</div>
-											<div class="col-sm-6">
-												<div class="onhover">
-													<a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank">
-														<img src="/img/hiring-index.png" class="center-block img-responsive"/>
-														<div class="div-explanation">
-															<div class="valign-center">
-																求人サイト・採用ページの制作を行います。SugoiSaiyoと関連づけると効果的です。
-															</div>
-														</div>
+												<div class="col-md-3">
+													<a href="/jp/services/recruitment-web-dev.php" class="flipp">
+														<img src="/img/top/i-hr-site.png" alt="hr site">
 													</a>
 												</div>
-												<br/>
 											</div>
 										</div>
-									</div>
-									<div class="col-md-6">
-										リモートワーク｜テレワークの普及により、より多くの有能なインドネシア人がキャリアを諦める必要なく、多様な働き方をできるようにITの活用により支援していきます。Dokodemo-Kerjaというリモートワーク＆生産性向上ツールを提供しています。<br/><br/>
-										採用企業と求職者の両者にメリットあるように、ITの力で、求職・採用プロセスの無駄を排除した、スムーズで効率的な採用活動をするための採用管理ツール、SugoiSaiyoも提供しています。スタッフの日々の勤務状況・内容を管理しつつ管理会計に利用可能なデータの集計を行うための日報管理システム、Nippoも提供しております。いずれについてもお気軽にお問い合わせいただければ幸いです。
 									</div>
 								</div>
-							</div>
 						  </div>
 						  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
 							<span class="fa fa-angle-left"></span>

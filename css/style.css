@@ -3350,7 +3350,6 @@ blockquote::before {
     text-decoration: underline;
 }
 
-.title-index2{font-size: 50px;line-height: 60px;margin-bottom: 90px;}
 .onhover{position:relative}
 .div-explanation{text-align:center;position:absolute;width:100%;top:0;background:#ffca13;padding:10px 15px;height:100%;font-size:14px;font-weight:bold;opacity:0;transition:all 0.3s ease-in-out;color:#000}
 .div-explanation .valign-center{margin-top: 0!important;padding: 0!important;}
@@ -3437,7 +3436,6 @@ video.vd-log{
 	.div-explanation{height: 140px;font-size: 12px;opacity: 1;top: auto;position: relative;}
 	.onhover:hover{height: 220px;}
 	.carousel-home-new .carousel-control{width: 8%;}
-	.title-index2{margin-bottom: 40px;}
 	.carousel-home-new .carousel-inner>.item {
 		height: 715px;
 	}
