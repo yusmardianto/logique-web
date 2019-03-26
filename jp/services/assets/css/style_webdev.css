@@ -1,6 +1,6 @@
 html,
 body {
-	font-family: 'Lato', serif;
+	font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
 	background-color: #fff;
 	overflow-x: hidden;
 }
@@ -11,7 +11,7 @@ header {
 	width: 100%;
 	height: 630px;
 	text-align: center;
-	padding-top: 90px;
+	padding-top: 0px;
 	padding-bottom: 90px;
 }
 header h1 {
@@ -42,10 +42,10 @@ header h1 {
     font-size: 15px!important;
     color: #a59e81;
 }
-.language-btn {position: absolute;right: 0;top: -65px}
+.language-btn {display: block; text-align: right; padding-top: 30px;}
 .language-btn .list-inline>li.active {border: solid 2px #ebc033;border-radius: 1em;}
-.language-btn .list-inline>li{width: 40px;height: 25px;border: solid 2px #777;border-radius: 1em;}
-.list-inline>li a {color: #fff}
+.language-btn .list-inline>li{width: 40px;height: 25px;border: solid 2px #777;border-radius: 1em;text-align: center;}
+.list-inline>li a {color: #fff; }
 .m-t-10em{margin-top: 10em;}
 .m-b-5{margin-bottom: 5px;}
 .c-logique {color: rgb(255, 205, 56);text-shadow: 0 2px 4px #333;}
@@ -165,7 +165,7 @@ section {
     background: url(../img/img-webdev/empat.jpg) no-repeat center;
     background-size: contain;
     position: relative;
-    padding: 80px 0;
+    padding: 80px 0 0;
     margin-bottom: 65px;
 }
 
@@ -229,7 +229,7 @@ footer p:before {
 [class*="rc-anchor rc-anchor-normal"] {
     width: 100px;
 }
-.logo-header{width: 220px;background: #000;padding: 20px;position: absolute;top: -90px;}
+.logo-header-container{width: 220px;background: #000;padding: 20px;   }
 .link-footer-webdev a{display:block;margin-bottom:8px;text-decoration:underline!important}
 
 /* NAVIGATION */
@@ -248,7 +248,7 @@ footer p:before {
 	left: 0;
 }
 .logique-nav .text-center {
-    padding: 8px 10px
+    padding: 5px 10px
 }
 .logique-nav .text-center.active,
 .logique-nav .text-center.active:focus,
@@ -310,7 +310,7 @@ footer p:before {
 .img-contact,
 .img-home,
 .img-portfolio,
-.img-services {
+.img-services , .img-product {
     height: 44px;
     width: 44px
 }
@@ -402,16 +402,19 @@ footer p:before {
     top: 0;
 	left: 0;
 }
-@media (max-width: 767px){
-	.backdrop-test {
-		display: block;
-	}
+.img-product {
+    margin: auto;
+    background: url(/img/nav-img.png) -2px -440px no-repeat;
+
 }
-@media (max-width: 767px){
-	.nav-lp .navbar-collapse {
-		height: 100%!important;
-	}
+.logique-nav .text-center.active .img-product,
+.logique-nav .text-center.active:focus .img-product,
+.logique-nav .text-center.active:hover .img-product,
+.logique-nav .text-center:focus .img-product,
+.logique-nav .text-center:hover .img-product {
+    background: url(../img/nav-img-white.png) -2px -440px no-repeat
 }
+
 .nav-lp .navbar-collapse {
     padding: 0;
     position: fixed;
@@ -425,7 +428,7 @@ section,footer{margin-left:95px}
     background-color: #ffca13!important;
     position: relative!important;
     right: 0!important;
-	top: -80px;
+	top: 10px;
 }
 .nav-lp .navbar-toggle {
     background-color: #ffca13!important;
@@ -443,6 +446,70 @@ section,footer{margin-left:95px}
 .nav-lp .navbar-toggle .icon-bar.first {transform: rotate(45deg);}
 .nav-lp .navbar-toggle .icon-bar.second {background: 0 0;}
 .nav-lp .navbar-toggle .icon-bar.third {transform: rotate(-45deg);margin-top: -8px;}
+.breadcrumb-cont{
+    display: inline-block;
+    float: left;
+}
+ .breadcrumb {
+    background-color: transparent;
+    padding-left: 0;
+    margin-bottom: 0;
+    font-size: 13px;
+    color: #fff
+}
+
+ .breadcrumb a {
+    color: #fff;
+}
+
+ .breadcrumb li.active a {
+    text-decoration: underline
+}
+
+  .breadcrumb>li+li:before {
+    color: #fff;
+    content: "\003e"
+}
+
+.breadcrumb>.active {
+    color: #ebc033;
+}
+.flow-part{
+    position: relative;
+    padding-left: 75px;
+    margin-bottom: 30px;
+
+}
+.flow-part h3{
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+.flow-part p{
+    line-height: 25px;
+    padding: 10px 15px 10px 50px;
+    background: #fff59e;
+    margin-left: -50px;
+}
+.flow-part >img{
+    position: absolute;
+    top: 2px;
+    left: 0;
+}
+.web-service-flow {
+    padding-bottom: 25px;
+}
+.btn-contact-us-black {
+    background: #000;
+    border-radius: 5px;
+    color: #fff !important;
+    font-size: 24px;
+    padding: 10px 60px;
+    margin-top: 30px;
+}
+.btn-container-contact{
+    margin-top: 70px;
+}
 @media (max-width: 1199px){
 	.container {width: 925px;}
 	.title-custom-p,.custom-p-2{width:auto}
@@ -455,6 +522,13 @@ section,footer{margin-left:95px}
 	.underline {border-bottom: 0;}
 }
 @media (max-width: 767px){
+        .backdrop-test {
+        display: block;
+    }
+    
+    .nav-lp .navbar-collapse {
+        height: 100%!important;
+    }
 	.container {width:auto;}
 	.logo-header{left: 0;}
 	section,footer{margin-left:0}
@@ -462,46 +536,82 @@ section,footer{margin-left:95px}
 	.language-btn{right: 10px;}
 	.btn-portfolio {padding: 10px 15px;}
 	header .m-t-10em{margin-left:0}
+
 }
 /* NAVIGATION */
 
 @media (max-width: 767px){
-header .m-t-10em{margin-top:0}
-.about h1{font-size: 22px;}
-footer h2{font-size:25px}
-.no-10{right: -10px!important;font-size: 50px!important;top: -18px!important;}
-.card3, .card2{padding: 10px 0;}
-.title-custom{right: 0;}
-.border-l.text-right .text-right{text-align:left!important}
-.btn-logic{margin-bottom: 15px;}
-.title-custom-p{width: auto;}
-.custom-p-2{width: auto;}
-.obstacle p {padding: 0;}
-header{height:auto}
-header h1{font-size: 40px;}
-.custom-1{padding: 0 15px;}
-section {padding-top: 25px;padding-bottom: 25px;}
-.underline{border: none;display: inline;}
-.border-l{border: none}
-.layanan{margin-top: 0}
-.tahap-pemesanan-list{background-image: none;}
-.obstacle h2{margin-top: 0}
-.m-t-2em{margin-top:0;}
-.custom-p-1{right: 0}
-form {padding: 1em}
-.captcha-custom {
-    transform:scale(1.1);
-    -webkit-transform:scale(1.1);
-    transform-origin:0 0;
-    -webkit-transform-origin:0 0;}
-.tahap-pemesanan{height: auto;padding: 0;background-image: none;background: #feca38;}
-.card{margin-top: 0;height: auto;padding: 0;}
-.tahap-pemesanan-list{margin-bottom:0;padding:20px 0;}
-footer {padding-bottom: 0}
-.m-m-10 {margin-top: -5px}
-.min-h {height: auto!important}
+    header .m-t-10em{margin-top:0}
+    .about h1{font-size: 22px;}
+    footer h2{font-size:25px}
+    .no-10{right: -10px!important;font-size: 50px!important;top: -18px!important;}
+    .card3, .card2{padding: 10px 0;}
+    .title-custom{right: 0;}
+    .border-l.text-right .text-right{text-align:left!important}
+    .btn-logic{margin-bottom: 15px;}
+    .title-custom-p{width: auto;}
+    .custom-p-2{width: auto;}
+    .obstacle p {padding: 0;}
+    header{height:auto}
+    header h1{font-size: 40px;}
+    .custom-1{padding: 0 15px;}
+    section {padding-top: 25px;padding-bottom: 25px;}
+    .underline{border: none;display: inline;}
+    .border-l{border: none}
+    .layanan{margin-top: 0}
+    .tahap-pemesanan-list{background-image: none;}
+    .obstacle h2{margin-top: 0}
+    .m-t-2em{margin-top:0;}
+    .custom-p-1{right: 0}
+    form {padding: 1em}
+    .captcha-custom {
+        transform:scale(1.1);
+        -webkit-transform:scale(1.1);
+        transform-origin:0 0;
+        -webkit-transform-origin:0 0;}
+    .tahap-pemesanan{height: auto;padding: 0;background-image: none;background: #feca38;}
+    .card{margin-top: 0;height: auto;padding: 0;}
+    .tahap-pemesanan-list{margin-bottom:0;padding:20px 0;}
+    footer {padding-bottom: 0}
+    .m-m-10 {margin-top: -5px}
+    .min-h {height: auto!important}
+    .tahap-pemesanan-list .btn-contact-us-black {
+        white-space: normal;
+    }
 }
 
+@media (max-width: 480px){
+    header {
+        background-position: -200px ;
+        padding-bottom: 50px;
+    }
+    .top-header-container .logo-header-container {
+        width: 100%;
+    }
+    .language-btn {
+        padding-top: 30px;
+    }
+    .breadcrumb-cont{
+        text-align: left;
+    }
+    .breadcrumb-cont ol li a{
+        font-size: 10px;
+    }
+    .breadcrumb-cont .breadcrumb{
+        width: 100%;
+        padding: 10px 0 0
+    }
+    header h1{
+        font-size: 30px;
+        padding-top: 30px
+    }
+    header .subtitle-header br {
+        display: none;
+    }
+    .btn-container-contact {
+        margin-top: 30px
+    }
+}
 @media (max-width: 360px){
 	.logo-header {width: 165px;}
 }

@@ -1,0 +1,1220 @@
+
+@-webkit-viewport { width: device-width; }section .page-title-container h1.page-title
+@-moz-viewport { width: device-width; }
+@-ms-viewport { width: device-width; }
+@-o-viewport { width: device-width; }
+@viewport { width: device-width; }
+@charset "UTF-8";
+/**
+CSS Reset
+*/
+
+@font-face {
+   font-family: 'avenirblack';
+   src: url('../fonts/avenir/Avenir-Black.ttf') format('truetype');
+ }
+ @font-face {
+   font-family: 'avenirheavy';
+   src: url('../fonts/avenir/Avenir-Heavy.ttf') format('truetype');
+ }
+@font-face {
+   font-family: 'avenir';
+   src: url('../fonts/avenir/Avenir-Medium.ttf') format('truetype');
+ }
+ @font-face {
+   font-family: 'avenirlight';
+   src: url('../fonts/avenir/Avenir-Light.ttf') format('truetype');
+ }
+@font-face {
+    font-family: 'novecentomedium';
+    src: url('../fonts/novecento/Novecentosanswide-Medium.otf') format('truetype');
+}
+@font-face {
+    font-family: 'novecentolight';
+    src: url('../fonts/novecento/Novecentosanswide-Light.otf') format('truetype');
+}
+
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i,dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,menu, nav, output, ruby, section, summary,time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'avenir', sans-serif;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section 
+{
+    display: block;
+}
+ol, ul {
+    list-style: none;
+}
+a:hover{
+	text-decoration:none;
+}
+dfn, em {
+  font-style: italic!important;
+}
+strong{
+    font-weight: 700!important;
+}
+.no-gap [class*="-1"],
+.no-gap [class*="-6"],
+.no-gap [class*="-8"],
+.no-gap [class*="-3"],
+.no-gap [class*="-5"],
+.no-gap [class*="-9"],
+.no-gap [class*="-2"],
+.no-gap [class*="-10"],
+.no-gap [class*="-4"],
+.no-gap [class*="-12"]{
+	padding-left:0;
+    padding-right:0;
+}
+div, p, li{
+    font-size: 18px;
+
+}
+p{margin-bottom: 20px;
+}
+p:last-child{
+  margin-bottom: 0;
+}
+h1, h2, h3, h4{
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+img.pright{
+  float:right;
+  margin:0 0 30px 30px;
+}
+header.head-banner{
+	background: url(../img/img-dentist/new/bg-top.png) no-repeat;
+	background-size: cover;
+	height: 485px;
+	width: 100%;
+	display: block;
+	position: relative;
+}
+header.head-banner .drg {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	z-index: 1;
+}
+header .arraw-down{
+	padding:10px 0;
+	background: rgba(255,202,21,0.5);
+	position: absolute;;
+	width: 100%;
+	bottom: 0;
+	left:0;
+	right: 0;
+	z-index: 2;
+}
+header .text-box {
+	text-align: left;
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 35px 20px;
+	box-shadow: 0px 0px 13px 0px rgba(0, 0, 0, 0.1);
+	color: #335a79;
+	margin-bottom: 40px;
+}
+header .text-box .text-quote {
+	font-family: 'avenirlight';
+	font-size: 33px;
+	margin-bottom: 15px;
+}
+header .text-box .text-p {
+	font-family: 'avenirlight';
+	font-size: 18px;
+}
+header .btn-consult {
+	color: #335a79;
+	background-color: #ffca15;
+	font-family: 'avenir';
+	padding: 2.5px 2.5px 2.5px 18px;
+	border-radius: 25px;
+	box-shadow:
+		inset 0 1px 0 rgba(255,255,255,0.5),
+		inset 0 3px 2px rgba(255,255,255,.22), 
+		inset 0 -3px 2px rgba(0,0,0,.05), 
+		inset 0 20px 10px rgba(255,255,255,.12);
+}
+header .btn-consult img {
+	margin-left: 8px;
+}
+.white-text{
+	color: #fff !important;
+}
+.yellow-text{
+	color: #FFC914 !important;
+}
+.yellowbar{
+	background: #FFC914;
+	height: 5px;
+	width: 45px;
+	display: block;
+	margin-top: 10px;
+}
+.banner-text{
+	margin-top:55px;
+	display: block;
+}
+.banner-text h1 {
+	line-height: 90px;
+	display: inline-block;
+	font-size: 48px;
+
+
+}
+.banner-text h1 span{
+	background: rgba(0,120,217,0.8);
+	padding: 3px 10px;
+	color: #fff;
+	font-family: 'avenirblack', cursive;
+}
+.banner-text h1 span.yel{
+	background: 0;
+	color: #ffc100;
+	margin:0;
+	padding:0;
+}
+.masalah-section{
+	background: #95dcea;
+	border-bottom:2px solid #8dd2de;
+	padding:30px 0;
+}
+.masalah-section h2{
+	color: #2891d2;
+	font-weight: normal;
+	font-style: italic;
+	z-index: 99;
+	position: absolute;
+	left: 0;
+	right: 0;
+	font-family: 'avenirheavy', sans-serif;
+	font-size: 21px;
+	letter-spacing: 2px;
+}
+.masalah-section .container{
+	position: relative;
+}
+.masalah-section .problem-list{
+	margin-top:60px;
+}
+.masalah-section .problem-list li{
+	background: url(../img/img-dentist/problem-list.png) no-repeat left 10px;
+	padding-left: 20px;
+	margin-bottom: 5px;
+
+}
+.masalah-section .tooth-cont{
+	position: absolute;
+	left: 190px;
+	bottom:-70px;
+	background: #95dcea;
+	border-radius: 200px;
+	padding:75px;
+}
+.solution-section{
+	padding:70px;
+	background: url(../img/img-dentist/bg-solusi.jpg) no-repeat top;
+	background-size: cover;
+}
+.solution-section h2{
+	font-size: 30px;
+	font-weight: 300;
+	color: #666;
+	padding-right: 100px;
+	line-height: 40px;
+	font-family: avenirlight;
+}
+
+.solution-section h2 span{
+	font-weight: normal;
+	font-family:'novecentomedium', sans-serif;
+}
+.solutionfeature-item {
+	padding-bottom: 40px;
+
+}
+.solution-feature-icon{
+	width: 100px;
+	height: auto;
+}
+
+.solutionfeature-item h3{
+	padding-top: 10px;
+	margin-left: 50px;
+	color: #4A90E2;
+	font-style: italic;
+	line-height: 20px;
+	font-size: 16px;
+	font-family: avenirheavy, sans-serif;
+}
+.solutionfeature-item .solution-desc{
+	margin-left: 50px;
+	color: #4A4A4A;
+	font-size: 14px;
+	padding-right: 90px;
+	text-align: justify;
+	line-height: 25px;
+	letter-spacing: 0.2px;
+	font-family: 'avenirlight'
+}
+.solution-section .title-desc{
+	color: #4A90E2;
+	font-size: 20px;
+	font-family: avenirlight
+}
+.priceandfeature-section{
+	position: relative;
+	padding-top: 250px;
+}
+.priceandfeature-banner{
+	position: absolute;
+	top: 30px;
+	left: 0;
+	right: 0;
+}
+.priceandfeature-banner .price-cont{
+	background: #4A90E2;
+	border-radius: 250px 250px 0 0  ;
+	padding-top:30px;
+	margin-top: 50px;
+}
+
+.priceandfeature-banner .price-cont p{
+	text-align: center;
+	color: #fff;
+}
+.priceandfeature-banner .price-cont .realprice{
+	font-size: 200px;
+	line-height: 150px;
+	font-weight: bold;
+	color: #ffc800;
+	text-shadow: 2px 2px 0px rgba(0, 0, 0,0.5);
+    letter-spacing: -15px;
+}
+.priceandfeature-banner .price-cont .realprice span{
+	font-size: 50px;
+	    letter-spacing: 0px;
+    margin-left: 10px;
+    display: inline-block;
+}
+.priceandfeature-content{
+	background: #4A90E2;
+	padding:110px  0 30px;
+}
+.priceandfeature-content *{
+	color: #fff;
+}
+.priceandfeature-content h2{
+	font-size: 30px;
+	line-height: 40px;
+	font-family: avenirheavy, sans-serif;
+}
+.feature-item li{
+	margin-bottom: 15px;
+	background: url(../img/img-dentist/feature-list-icon.png) no-repeat left  5px ;
+	padding-left: 22px;
+	font-size: 16px;
+	font-family: avenirlight, sans-serif;
+}
+.footer-container{
+	background: #000000;
+	padding:30px 0;
+}
+.footer-container *{
+	color: #fff;
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 300;
+	font-family: avenirlight;
+}
+.footer-container h2{
+	font-weight: normal;
+	font-size: 24px;
+	padding-top: 15px;
+	margin-bottom: 20px;
+	color: #f9c512;
+}
+.footer-container img{
+ 
+}
+.contact-form-container fieldset{
+	margin-bottom: 10px;
+}
+.contact-form-container input[type="text"], .contact-form-container textarea{
+	padding: 10px;
+	width: 100%;
+	border-radius: 10px;
+	border:0;
+	background: #fff;
+	color: #111;
+	font-family: avenirlight
+}
+.contact-form-container textarea{
+	height: 110px;
+}
+.contact-form-container .submit-button{
+	background: #eab913;
+	color: #111;
+	border-radius: 10px;
+	border:0;
+	padding:5px 40px;
+}
+.plusfeature-section{
+	padding:30px 0 20px;
+	background: #ffc500;
+}
+.plusfeature-section .section-title, .plusfeature-section .plusfeature-list{
+	display: inline-block;
+}
+.plusfeature-section .section-title{
+	color: #4A90E2;
+	padding-right: 50px;
+}
+.plusfeature-section .plusfeature-list ul li{
+	display: inline-block;
+	background:url(../img/img-dentist/check-mark.png) no-repeat left  3px;
+	background-size: 15px;
+	padding-left: 30px;
+	padding-right: 50px;
+
+}
+.plusfeature-section .plusfeature-list ul li:last-child{
+	padding-right: 0;
+	}
+.contactbtn-section{
+	background: url(../img/img-dentist/bg-hubkami-section.jpg) no-repeat;
+	background-size: cover;
+	height: 350px;
+	display: flex;
+	position: relative;
+}
+.contactbtn-section .btn-container{
+	position: absolute;
+	top:40%;
+	left:0;
+	right:0;
+	text-align: center;
+}
+.btn-container .contactbtn{
+	font-size: 30px;
+	color: #fff;
+	background: #4A90E2;
+	border-radius: 15px;
+	border:2px solid #fff;
+	padding:10px 90px 15px;
+	-webkit-box-shadow: 2px 1px 2px 0px rgba(50, 50, 50, 0.5);
+-moz-box-shadow:    2px 1px 2px 0px rgba(50, 50, 50, 0.5);
+box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
+}
+.mesage-alert > .alert-warning, .mesage-alert > .alert-success{
+	padding: 0;
+    background: none;
+    color: #eab913;
+    border: 0;
+    margin-bottom: 5px;
+}
+.testimonial-section{
+	padding:40px 0;
+}
+.testimonial-section h2{
+	font-size: 30px;
+	color: #4A90E2;
+	letter-spacing: 3.2px;
+	font-weight: normal;
+	font-family: 'avenirlight';
+}
+.testimonial-content{
+	color: #9B9B9B;
+	line-height: 24px;
+	font-size: 14px;
+	font-family: 'avenirlight';
+}
+.testimonial-sender{
+	float: right;
+	color:  #4A90E2;
+	font-weight: 300;
+	font-size: 14px;
+	padding-top: 20px;
+	font-style: italic;
+}
+.contactform-section{
+	background: #f5fdfd;
+	padding:50px 0;
+}
+.contactform-section h2{
+	background:url(../img/img-dentist/typewriter.png) no-repeat top left;
+	background-size: 50px;
+	padding:10px 0px 10px 60px;
+	font-weight: normal;
+	font-family: 'avenirlight';
+}
+.contactform-dental{
+	padding-left: 60px;
+}
+.contactform-dental fieldset{
+	padding-bottom: 20px;
+}
+.contactform-dental input[type=text], .contactform-dental textarea{
+	border:1px solid #e9f1f1;
+	border-radius: 10px;
+	background:#fff;
+	box-shadow:none;
+	font-size: 18px;
+	font-weight: 300;
+	padding:10px 20px;
+	display: block;
+	font-family: avenirlight;
+	height: auto;
+}
+.contactform-dental textarea{
+	height: 200px;
+}
+.contactform-dental  button.submit-button{
+	background: #0093e5;
+	color: #fff;
+	border-radius: 10px;
+	padding: 10px 40px;
+	font-size: 18px;
+
+}
+.copyright-container *{
+	font-size: 14px;
+
+}
+.copyright-container {
+	padding:20px 0;
+	background: #eab913;
+}
+ 
+ .addres-footer{
+ 	padding-left: 20px;
+ }
+
+.poin-penting {
+	padding: 50px 0;
+}
+.s-title {
+	font-family: 'avenir';
+	color: #335a79;
+	font-size: 22px;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 30px;
+	font-weight: 500;
+}
+.poin-penting p,
+.poin-penting ol li {
+	font-family: 'avenir';
+	font-size: 15px;
+	color: #335a79;
+}
+.poin-penting ol {
+	list-style: decimal;
+	padding-left: 15px;
+}
+.poin-penting ol li {
+	margin-top: 20px;
+}
+.stats {
+	display: inline-block;
+	width: 100%;
+}
+.stats:first-child {
+	margin-bottom: 30px;
+}
+.stats:last-child {
+	margin-top: 30px;
+}
+.stats img {
+	float: left;
+}
+.stats ul {
+	overflow: hidden;
+	padding-left: 20px;
+}
+.stats ul li {
+	position: relative;
+	font-family: 'avenir';
+	font-size: 15px;
+	color: #335a79;
+	margin-bottom: 20px;
+	padding-left: 40px;
+}
+.stats ul li:before {
+	content: '';
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	border-radius: 7.5px;
+	display: inline-block;
+	background-color: #ccc;
+	top: 2.5px;
+	left: 0;
+}
+.stats ul li.c1:before {
+	background-color: #fac02c;
+}
+.stats ul li.c2:before {
+	background-color: #00796b;
+}
+.stats ul li.c3:before {
+	background-color: #689f38;
+}
+.stats ul li.c4:before {
+	background-color: #9e9d23;
+}
+.stats ul li:first-child {
+	font-family: 'avenirheavy';
+	padding-left: 0;
+}
+.stats ul li:first-child:before {
+	display: none;
+}
+.stats p {
+	display: block;
+	font-family: 'avenirblack';
+	font-style: italic;
+	font-size: 12px;
+}
+/* .poin-penting .i-graph {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.poin-penting ul li {
+	position: relative;
+	font-family: 'avenir';
+	color: #335a79;
+	font-size: 15px;
+	margin-bottom: 20px;
+	padding-left: 48px;
+}
+.poin-penting ul li:before {
+	content: '';
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	background-color: #ccc;
+	top: 5px;
+	left: 0;
+}
+.poin-penting ul li.green:before {
+	background-color: #92b703;
+}
+.poin-penting ul li.yellow:before {
+	background-color: #ffbc00;
+}
+.poin-penting ul li.red:before {
+	background-color: #ff6029;
+}
+.poin-penting ul li.blue:before {
+	background-color: #98c7e5;
+}
+.poin-penting small {
+	font-size: 13px;
+	font-style: italic;
+	color: #335a79;
+	line-height: 110%;
+} */
+
+.masalah-1 {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 80px;
+}
+.masalah-1 p {
+	padding-top: 10px;
+	font-family: 'avenir';
+	font-size: 15px;
+	color: #335a79;
+}
+.masalah-1 [class^="col-"] {
+	padding: 30px 20px;
+}
+
+.solusi {
+	padding-top: 60px;
+	padding-bottom: 40px;
+	text-align: center;
+	background-color: #dbe9f9;
+	position: relative;
+}
+.solusi-title {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	top: -76px;
+}
+.solusi p {
+	padding-top: 20px;
+	font-family: 'avenir';
+	font-size: 15px;
+	color: #335a79;
+}
+.solusi [class^="col-"] {
+	padding: 0 20px;
+}
+
+.img-fluid {
+	width: 100%;
+}
+.layanan {
+	padding: 32px 0;
+	background-image: url('../img/img-dentist/new/bg-service.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #2b71c0;
+	-webkit-box-shadow: 0px -3px 8px 0px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0px -3px 8px 0px rgba(0,0,0,0.1);
+	box-shadow: 0px -3px 8px 0px rgba(0,0,0,0.1);
+	position: relative;
+	z-index: 2;
+}
+.flex-middle {
+	display: flex;
+	align-items: center;
+}
+.d-layanan {
+	margin-bottom: 35px;
+}
+.d-layanan.l1 {
+	min-height: 390px;
+}
+.d-layanan.l1 img {
+	-webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.2);
+	box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.2);
+}
+.d-layanan h2 {
+	font-family: 'avenir';
+	font-size: 22px;
+	color: #2b71c0;
+	text-transform: uppercase;
+}
+.d-layanan .l-logo {
+	box-shadow: none !important;
+}
+.d-layanan h2 span {
+	color: #ffca15;
+}
+.d-layanan h3 {
+	font-family: 'avenir';
+	font-size: 15px;
+}
+.d-layanan h3 b {
+	font-family: 'avenirblack';
+}
+.layanan [class^="col-"] {
+	padding: 0 20px;
+}
+.layanan .l-title {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	height: 44px;
+}
+.layanan h4 {
+	font-family: 'avenirblack';
+	font-size: 18px;
+	border-left: 5px solid #ffca15;
+	padding: 3px 0 3px 10px;
+}
+.layanan p {
+	padding-left: 15px;
+	font-size: 15px;
+}
+
+.templates {
+	padding: 30px 0;
+}
+.templates .row {
+	margin: 0 -5px;
+}
+.templates [class^="col-"] {
+	padding: 0 5px;
+}
+.choose-template {
+	font-family: 'avenir';
+	font-size: 18px;
+	color: #fff;
+	background-color: #68aaf7;
+	background-image: url('../img/img-dentist/new/img-templates.png');
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding: 12.5px;
+	text-align: center;
+}
+.choose-template b {
+	font-family: 'avenirblack';
+}
+.include-template {
+	font-family: 'avenir';
+	font-size: 15px;
+	color: #335a79;
+	text-align: center;
+	padding: 24px;
+}
+.a-template {
+	display: block;
+	position: relative;
+	cursor: pointer;
+}
+.a-caption {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	font-family: 'avenir';
+	font-size: 17px;
+	color: #fff;
+	text-transform: uppercase;
+	padding: 15px;
+	text-align: center;
+	background-color: rgba(51, 90, 121, .9);
+}
+.img-template {
+	width: 100%;
+	height: 260px;
+	background-position: top center;
+	background-size: 100% auto!important;
+	background-repeat: no-repeat;
+}
+.a-template:hover  .img-template {
+	background-position: bottom center;
+	transition: background-position 5s linear;
+}
+.template1 {
+	background-image: url('../img/img-dentist/new/template1.jpg');
+}
+.template2 {
+	background-image: url('../img/img-dentist/new/template2.jpg');
+}
+.template3 {
+	background-image: url('../img/img-dentist/new/template3.jpg');
+}
+.template4 {
+	background-image: url('../img/img-dentist/new/template4.jpg');
+}
+.template5 {
+	background-image: url('../img/img-dentist/new/template5.jpg');
+}
+.templates p {
+	position: relative;
+	padding-left: 20px;
+	font-family: 'avenir';
+	font-size: 15px;
+	color: #335a79;
+	margin-top: 18px;
+	margin-bottom: 40px;
+}
+.templates p:before {
+	content: '';
+	display: inline-block;
+	width: 12px;
+	height: 12px;
+	position: absolute;
+	top: 3px;
+	left: 0;
+	background-color: #ffca15;
+}
+
+#modal-template .modal-body {
+	padding: 0;
+}
+#modal-template .modal-header .close {
+	margin-top: -10px;
+}
+
+.biaya {
+	padding-top: 75px;
+	padding-bottom: 45px;
+	background-image: url('../img/img-dentist/new/bg-cost.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.price-badge {
+	display: inline-block;
+	padding: 15px 40px;
+	background-color: #fff;
+	border: dashed 2px #335a79;
+	text-align: center;
+	font-size: 50px;
+	font-family: 'avenirblack';
+	border-radius: 71px;
+	color: #335a79;
+}
+.price-badge sub {
+	font-size: 23px;
+}
+.biaya h4 {
+	font-family: 'avenirblack';
+	font-size: 18px;
+	border-left: 20px solid #FFC914;
+	padding-left: 10px;
+	margin-top: 35px;
+	color: #335a79;
+}
+.biaya p {
+	font-family: 'avenir';
+	font-size: 16px;
+	color: #335a79;
+	padding-left: 30px;
+	margin-bottom: 20px;
+}
+.biaya p b {
+	font-family: 'avenirblack';
+}
+.situs {
+	padding: 50px 0;
+	text-align: center;
+}
+.s-banner {
+	margin-bottom: 75px;
+	max-width: 100%;
+}
+.situs h4 {
+	font-family: 'avenir';
+	font-size: 15px;
+	color: #335a79;
+	margin-top: 20px;
+	margin-bottom: 35px;
+}
+.situs span {
+	font-family: 'avenir';
+	font-size: 15px;
+	color: #ffca15;
+}
+.situs span a {
+	color: #335a79;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+.langkah {
+	padding: 40px 0;
+	background-color: #ffefb8;
+}
+
+.contact {
+	padding: 80px 0;
+	background-image: url('../img/img-dentist/new/bg-contact.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+.contact-info {
+	display: inline-block;
+	background-color: #fff;
+	padding: 10px 25px;
+	border-radius: 30px;
+	border: 1px solid #4a90e2;
+	font-family: 'avenir';
+	color: #335a79;
+	font-size: 17px;
+}
+.contact-info a {
+	font-family: 'avenir';
+	color: #335a79;
+	font-size: 17px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 15px;
+	display: inline-block;
+}
+/* responive */
+ 
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+
+    }
+ 	@media only screen and (max-width : 1024px) {
+ 		.price-tag-text{
+ 			padding:30px 0 0 0;
+ 		}
+ 		.step{
+ 			height: 355px;
+ 		}
+ 		.priceandfeature-banner .price-cont .realprice{
+ 			font-size: 150px;
+ 		}
+ 			.solutionfeature-item h3{
+    		margin:0;
+    	}
+    	.solutionfeature-item .solution-desc{
+    		margin:0;
+    		padding:0;
+    	}
+    	.solution-section{
+    		padding:70px 30px;
+    	}
+    }
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+			header .text-box {
+				padding: 15px;
+				margin-bottom: 10px;
+			}
+			header .text-box .text-quote {
+				font-size: 28px;
+			}
+			.price-badge {
+				width: 100%;
+			}
+			.s-banner {
+				margin-bottom: 40px;
+			}
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+    	header.head-banner{
+    		height: auto;
+    	}
+    	.banner-text{
+    		margin-top: 80px;
+    	}
+    	.big-text{
+    		font-size: 42px !important;
+    	}
+    	.masalah-section .tooth-cont{
+    		left: 0;
+    	}
+    	.solution-section{
+    		padding:70px 0 30px;
+    	}
+    	.solution-section h2{
+    		padding:0;
+    	}
+    	.solutionfeature-item h3{
+    		margin:0;
+    	}
+    	.solutionfeature-item .solution-desc{
+    		margin:0;
+    		padding:0;
+    	}
+    	.priceandfeature-banner .price-cont .realprice{
+    		font-size: 150px;
+    	}
+    	.priceandfeature-banner .price-cont{
+    		margin-top: 0;
+    	}
+    	.priceandfeature-section{
+    		padding-top: 150px;
+    	}
+    	.priceandfeature-banner .price-cont p{
+    		margin-bottom: 0;
+    	}
+    	.priceandfeature-content h2 br{
+    		display: none;
+    	}
+    	.plusfeature-cont{
+    		width: 60%;
+    		margin:0 auto;
+    	}
+    	.plusfeature-section .plusfeature-list ul li{
+    		margin-bottom: 20px;
+    	}
+    	.drg {
+				display: none;
+			}
+			.btn-consult {
+				margin-bottom: 60px;
+			}
+			.poin-penting p {
+				text-align: left;
+			}
+			.poin-penting,
+			.solusi,
+			.masalah-1,
+			.layanan,
+			.templates,
+			.biaya,
+			.situs,
+			.langkah,
+			.contact,
+			.contactform-section {
+				padding: 20px 0;
+			}
+			.contactform-section h2 {
+				font-size: 20px;
+			}
+			.solusi-title {
+				position: static;
+				margin-top: 0 !important;
+			}
+			.solusi img {
+				margin-top: 15px;
+			}
+			.s-title {
+				margin-bottom: 15px;
+				font-size: 18px;
+				line-height: 120%;
+			}
+			.masalah-1 [class^="col-"] {
+				padding: 15px;
+			}
+			.masalah-1 img,
+			.solusi img {
+				float: left;
+				max-height: 80px;
+			}
+			.masalah-1 p,
+			.solusi p {
+				text-align: left;
+				padding-left: 10px;
+				padding-top: 25px;
+				overflow: hidden;
+			}
+			.solusi p {
+				padding-top: 15px;
+				padding-bottom: 15px;
+			}
+			.d-layanan {
+				margin-bottom: 15px;
+			}
+			.d-layanan.l1 {
+				min-height: unset;
+			}
+			.templates p {
+				margin-bottom: 15px;
+			}
+			.price-badge {
+				font-size: 20px;
+			}
+			.price-badge img {
+				max-height: 30px;
+			}
+			.price-badge sub {
+				font-size: 15px;
+			}
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media (max-width : 480px) {
+			.stats:first-child {
+				margin-top: 20px;
+			}
+			.stats img {
+				max-height: 120px;
+			}
+    	header.head-banner{
+    		background-position: 30% top;
+    		height: auto;
+    	}
+    	.banner-text h1 span{
+    		font-size:28px;
+    		line-height: normal;
+    	 
+    	}
+    	.masalah-section .tooth-cont {
+    		position: static;
+    		padding:0;
+
+    	}
+    	.masalah-section .tooth-cont img{
+    		margin:0 auto;
+    	}
+    	 .masalah-section h2{
+    		position: static;
+    	}
+    	.masalah-section .problem-list {
+    		margin-top: 20px;
+    	}
+    	.solutionfeature-item {
+    		text-align: center;
+    	}
+    	.solutionfeature-item .solution-feature-icon{
+    		 display: block;
+    		 margin:0 auto;
+    	}
+    	.solutionfeature-item h3 {
+    		display: inline-block;
+    	}
+    	.solutionfeature-item h3 br, .solution-section h2 br{
+    		display: none;
+    	}
+    	.solution-section{
+    		padding:30px 0;
+    	}
+    	.solutionfeature-item{
+    		margin: 20px 0;
+    		padding:0 15px;
+
+    	}
+    	.solutionfeature-item .solution-desc{
+    		border-bottom: 1px solid #ececec;
+    		padding-bottom: 20px;
+    	}
+    	.solutionfeature-item:last-child .solution-desc{
+    		border-bottom:none;
+    		padding:0;
+    		
+    	}
+    	.priceandfeature-banner{
+    		position: static;
+    	}
+    	.priceandfeature-section {
+   			 padding-top: 50px;
+		}
+		.priceandfeature-banner .price-cont .realprice{
+			line-height: 120px
+		}
+		.priceandfeature-content{
+			padding:40px 0 30px;
+			margin-top: -50px;
+		}
+		.plusfeature-cont{
+			width: 100%;
+		}
+		.plusfeature-section .plusfeature-list ul li{
+			padding-right: 0px;
+		}
+		.btn-container .contactbtn{
+			padding:10px  50px 15px;
+		}
+		.contactbtn-section {
+			height: 200px;
+		}
+		.contactbtn-section .btn-container{
+			top: 35%;
+		}
+		.contactform-dental{
+			padding:0;
+		}
+		.footer-container img{
+			margin-left: -20px;
+		}
+
+		.addres-footer, .addres-footer img{
+			padding:0;
+			margin:0;
+		}
+		.footer-container .row >div{
+			margin-bottom: 10px
+		}
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        
+    }
+    	}
+
+
+
+
+
+
+
+

@@ -31,7 +31,7 @@ ga('send', 'pageview');
 									</li>
 									<li><a href="/jp/services/pembuatan-aplikasi-mobile/"> モバイルApp開発</a></li>
 									<li><a href="/jp/services/penetration-testing/"> Webセキュリティ診断サービス</a></li>
-									<li><a href="/jp/services/pembuatan-sistem-web/" target="_blank">WEBシステム開発</a></li>
+									<li><a href="/jp/services/pembuatan-sistem-web/" target="_blank">Webシステム開発</a></li>
 								</ul>
 							</li>
 							
@@ -79,7 +79,7 @@ ga('send', 'pageview');
 					</div>
 					<div class="col-sm-4 link-footer"  >
 
- 						<p>LOGIQUEは、ジャカルタでWebコンサルティング、WEBサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。</p>
+ 						<p>LOGIQUEは、ジャカルタでWebコンサルティング、Webサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。</p>
  					<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
 					<ul class=" medsos-new" sty>
 						<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
