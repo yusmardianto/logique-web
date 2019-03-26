@@ -8,7 +8,7 @@
   	<meta name="keywords" content="デジタルマーケティグ, オンライン広告, SEO, 検索順位, ウェブ, WEB">
   	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
   	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Digital Marketing | LOGIQUE Digital Indonesia</title>
+    <title>デジタルマーケティング | インターネット/SNS広告やSEO対策、コンテンツ制作等 | LOGIQUEデジタルインドネシア</title>
   	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
   	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
@@ -389,13 +389,13 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-offset-3 col-lg-6">
-						Untuk informasi lengkapnya, Anda dapat menghubungi <b>Logique Digital Indonesia</b> melalui email di <a href="mailto:info@logique.co.id">info@logique.co.id</a> atau mendaftar melalui form yang ada di link berikut ini <br/><br/>
-						<a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
+						より詳しい情報については、弊社に直接お問い合わせいただくか、以下のリンク内のフォームよりお問い合せを送信ください。<br/><br/>
+						<a href="/jp/contact.php"><img alt="Form" src="img/form-footer.png" class="img-responsive center-block"/></a>
 						<br/>
-						Layanan Kami lainnya:<br/>
-						<a target="_blank" href="/layanan/pembuatan-website-karir-perusahaan/">Pembuatan Website Karir Perusahaan</a>
+						その他のサービス:<br/>
+						<a target="_blank" href="/jp/services/pembuatan-website-karir-perusahaan/">企業採用ページ制作</a>
 						<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-						<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/">Pembuatan Aplikasi Mobile</a>
+						<a target="_blank" href="/jp/services/pembuatan-aplikasi-mobile/">モバイルアプリ開発</a>
 					</div>
 				</div>
 			</div>
