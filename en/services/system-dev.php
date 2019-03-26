@@ -100,7 +100,7 @@ if(isset($_POST['submitted']))
 									Portfolio
 								</a>
 							</div>
-							<div class="text-center">
+							<div class="text-center active">
 								<a href="/en/services.php">
 									<div class="img-services"></div>
 									Services
@@ -149,7 +149,7 @@ if(isset($_POST['submitted']))
 						</ul>
 					</div>
 					<div class="col-md-offset-7 col-md-5 m-t-10em">
-						<h1 class="text-left m-new">Looking for a Web System Development Company? LOGIQUE is at your service!</h1>
+						<h1 class="text-left m-new">Need Web Systems Development? LOGIQUE is at your service!</h1>
 					</div>
 				</div>
 			</div>
@@ -158,7 +158,11 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10 text-center">
-						<h1>"Utilizing the latest technology to increase your business profit."</h1>
+						<h2>
+							LOGIQUE has been known as the reputable IT/Web System Developer in Indonesia, helping clients reach their business target and goals through the latest and advanced web technology. 
+							We can build your web system faster, more efficient, and at reasonable cost. 
+							Feel free to contact us.
+						</h2>
 					</div>
 				</div>
 			</div>
@@ -167,7 +171,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-7 col-md-5">
-						<h1 class="new5">Components of Web System Development at <span class="underline">LOGIQUE</span></h1>
+						<h2 class="new5">LOGIQUE’s System & Web Application Development Service</h2>
 					</div>
 				</div>
 			</div>
@@ -175,56 +179,507 @@ if(isset($_POST['submitted']))
 		<section class="style-3">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-12">
-						<h4 class="style-3-h1">
-						<span class="tambah-lg hidden-sm hidden-md hidden-lg">Komponen Pengembangan Sistem Web di LOGIQUE<br><br></span>
-						As a quality web developer in Indonesia, we provide the best and maximum services to our clients, especially in providing various components for the web system development. Here are some crucial components of web system development that we provide to our clients:
-						</h4>
-					</div>
-				</div>
-				<div class="row">
 					<div class="col-md-3">
-						<h3 class="new1">[Advanced Technology]</h3>
-						<p class="new4">With the development of technology nowadays, especially in the world of web development, it certainly encourages us to keep updating, studying, and applying it to the web system in order to provide maximum results so that it affects the level of website visits and your business profits. Some of the latest technologies that we have applied to our clients include AngularJS, Node.JS, Socket.IO, and Ionic Framework.</p>
+						<h3 class="new1">[The Use of Latest & Cutting-Edge Technology]</h3>
+						<p class="new4">
+							We can deal with wide range of system development fields from work systems such as Financial Management & HR Management, to CMS, E-Commerce Site Creation, Survey System Development, Servers, Infrastructure, etc. 
+							We build a system that is fast, flexible, and high on long term performance by incorporating new and fully developed technologies into every step of the process.
+						</p>
 					</div>
 					<div class="col-md-3">
-						<h3 class="new1">[Planned Infrastructure]</h3>
-						<p class="new4">Infrastructure planning is one of the most important things before developing a web system. Therefore, in order to guarantee the sustainability of your business from time to time, LOGIQUE provides you with top-class services in terms of designing and managing web systems, where the infrastructure we use is based on AWS (Amazon Web Service) which is a standard global cloud infrastructure service server famous and has been used in various large companies and other well-known startup companies.</p>
+						<h3 class="new1">[Infrastructure Design & Construction]</h3>
+						<p class="new4">
+							We design and build cloud servers in Indonesia and abroad. 
+							We have abundant results such as AWS in Singapore Region and Ali Cloud in Indonesia. 
+							We also provide server maintenance application, and performance & tuning services. 
+							There are also many successful migrations from on-premises servers to cloud servers.
+						</p>
 					</div>
 					<div class="col-md-3">
-						<h3 class="new1">[Controlled Security System]</h3>
-						<p class="new4">As the best web developer in Indonesia, LOGIQUE is aware that security is an important factor in the creation and development of web systems. Therefore, LOGIQUE provides security services on your web system optimally and thoroughly, especially for e-commerce websites or websites that are used to store various important data of the company so that it is not easy to be infiltrated by irresponsible people.</p>
+						<h3 class="new1">[Secure System Construction]</h3>
+						<p class="new4">
+							It is recommended to conduct security vulnerability testing in addition to regular testing prior to delivery. 
+							We perform penetration tests such as SQL injection, path traversal, cross site scripting, etc., to minimize risk.
+						</p>
 					</div>
 					<div class="col-md-3">
-						<h3 class="new1">[Quick & Precise]</h3>
-						<p class="new4">We understand the importance of time for your business. Therefore, we always strive to provide the best and optimal service for you by reducing the time in developing a web system efficiently and effectively as possible without reducing the quality of the system so that the results obtained are in accordance with what is desired in a predetermined period of time.</p>
+						<h3 class="new1">[Quick, Precise, & Flexible Development]</h3>
+						<p class="new4">
+							Our progress is based on agile development. 
+							We always strive to provide optimal service as efficient as possible without reducing quality. 
+							We build trust with our clients and lead our company to develop with speed & flexibility to any request or change that you want. 
+							You will obtain results just as you desire in a short time.
+						</p>
 					</div>
 				</div>
 			</div>
 		</section>
-		<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em">
-			<h3>LOGIQUE has been proven to help clients in achieving their business targets</h3>
-			<p>We have worked on national and international projects, one of which is the development of JBA auction system. Here's the case study.</p>
-		</section>
+		<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
 		<section class="style-4">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-4 col-md-4 text-center">
-						<div class="box-1">CASE STUDY</div>
+						<div class="box-1">Case Study</div>
 					</div>
 					<div class="col-md-offset-5 col-md-7">
 						<div class="card">
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10 m-t-10">
-									<h4><b>JBA Auction System</b></h4>
-									<p>BA is one of the largest Japanese car and motorcycle auction companies in Indonesia. The company is located in Meruya, West Jakarta and has collaborated with LOGIQUE in creating websites and developing a comprehensive web system for auction purposes, and the positive impact has been directly increasing to their business. That’s why we made a number of coverage systems that they wanted, starting from the registration, inspection, planning and administration process, auction support through offline and online, to the reporting process and the accounting module. The execution of this web system is carried out massively and intensively by communicating directly to users in accordance with their fields. In the last three years, this system has continued to be developed in the form of web systems and mobile applications.</p>
+									<h4><b>JBA Indonesia | Auction Management System</b></h4>
+									<p>
+										JBA is the largest car & motorcycle auction house in Indonesia. 
+										We have supported a number of system construction projects such as web development & application, auction conductor system, bidding application, online auction, mobile application inspection, financial system, and so on. 
+										As a critical system, it requires error-free development, but at the same time we have experienced many challenging projects that require speed. 
+										We have regular meetings and constantly improving the existing system.
+									</p>
 								</div>
 							</div>
 							<div class="row">
-								<div class="box-2">Some of the technologies that we use in the JBA auction system include NodeJS, SocketIO, and Android Native.</div>
+								<div class="box-2">Main Technology: PHP, NodeJS, SocketIO, Android Native</div>
+							</div>
+						</div>
+						<div class="text-center btn-container-contact"  >
+							<a href="../case-study/jba-auction-system/" class="btn btn-contact-us-black">
+								See more details
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="other-stydycase section-style">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="osc-item">
+							<div class="">
+								<img src="assets/img/img-systemdev/logo-caroline.png">
+							</div>
+							<h4>Rapid Development</h4>
+							<div class="osc-desc">
+								Built a core business system from scratch in just three months. 
+								We built a market place to buy and sell used cars online.
+								<a href="../case-study/caroline-bidding-system/">
+									See More
+								</a>
+							</div>
+							<div class="osc-worktodo">
+								Caroline-id.com, Marketplace Construction, Used Car For Sale, PHP, Laravel, HTML5
 							</div>
 						</div>
 					</div>
+					<div class="col-sm-4">
+						<div class="osc-item">
+							<div class="">
+								<img src="assets/img/img-systemdev/logo-zutto.png">
+							</div>
+							<h4>Long-term PDCA Improvement System</h4>
+							<div class="osc-desc">
+								For about 5 years, ZuttoRide's CRM system has been developed from scratch with PDCA cycle. 
+								The system building is now entering the 14<sup>th</sup> phase of improvement.
+								<a href="../case-study/zuttoride-customer-management-system/">
+									See More
+								</a>
+							</div>
+							<div class="osc-worktodo">
+								ZuttoRide Indonesia, CRM System, Motorcycle Road Services, Motorcycle Insurance, PHP, CakePHP, HTML5
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="osc-item">
+							<div class="">
+								<img src="assets/img/img-systemdev/logo-vip.png">
+							</div>
+							<h4>Rebuild e-Commerce with PWA</h4>
+							<div class="osc-desc">
+								We’ve also rebuilt E-Commerce with PWA system. Succeeded in leading users visit directly into buying with dynamic UI. 
+								Supported using resource-based agile development.
+								<a href="../case-study/vip-plaza-progressive-web-app/">
+									See More
+								</a>
+							</div>
+							<div class="osc-worktodo">
+								https://m.vipplaza.co.id/ e-Commerce website construction, e-Commerce Indonesia, PWA, NodeJS, ReactJS
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="list-study-container">
+					<h3>Our Other System Development Achievements</h3>
+					<ul class="circle-list">
+						<li>
+							Beneficial Point Management & E-Commerce System Development.<br>
+							<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework | 
+								<a data-toggle="modal" data-target="#pop1" href="#">See More</a>
+							</small>
+						</li>
+						<!-- modal 1 -->
+						<div id="pop1" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>Beneficial Point Management & E-Commerce System Development.</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	A web-based system used to organize incentive points programs for employees of client companies. 
+						        	This system consists of several integrated sub-systems, namely: supplier systems (suppliers), user systems (users), and service providers admins.
+						        </p>
+						        <p class="p-padding-v-5-modal">
+						        	The development of this system takes 6 months. 
+						        	By bringing PHP platform with chosen frameworks, MySQL database, and hosting on Linux server on AWS cloud service, this system has proven to accommodate the business needs of incentive point program for company employees.
+						        </p>
+						        <p class="p-padding-v-5-modal">
+						        	To produce a system with high performance and stability, we developed an efficient approach to the application layer and database layer. 
+						        	Then on the server infrastructure side, we have implemented a modern server architecture and utilize the AWS autoscaling and loadbalancing features. 
+						        	So even though there are currently more than 10,000 active users spread across 3 sub-systems, system performance remains stable and maintained.
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						<li>
+							E-Commerce Development for MLM company.<br>
+							<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework | 
+								<a data-toggle="modal" data-target="#pop2" href="#">See More</a>
+							</small>
+						</li>
+						<!-- modal 2 -->
+						<div id="pop2" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>E-Commerce Development for MLM company.</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	MLM E-Commerce System with web-based technology. 
+						        	Consists of 3 modules, namely: admin management module, distributor module, and customer module. 
+						        	This system is equipped with features of postage calculations, profit margin calculation of distributors, distributors and users balance management, online registration, and purchase credit online.
+						        </p>
+						        <p class="p-padding-v-5-modal">
+						        	With the support of integration with payment gateway service, customer can do transaction with credit card and virtual account. 
+						        	This system is quite complex. 
+						        	A series of development process takes 6 months.
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						<li>
+							Automobil Auction Mission Critical System Development.<br>
+							<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework, Node.js  | 
+								<a data-toggle="modal" data-target="#pop3" href="#">See More</a>
+							</small>
+						</li>
+						<!-- modal 3 -->
+						<div id="pop3" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>Automobil Auction Mission Critical System Development.</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	Is an automotive auction system with a high level of complexity. 
+						        	It consists of an integrated online auction system, an auction object inventory management system, a financial system, and integrated mobile inspection based vehicle inspection systems, and mobile apps-based bidding applications. 
+						        	This system is integrated with core system and other support systems, so that customers can enjoy the experience of auction in realtime, either through PC browser or via mobile apps. 
+						        </p>
+						        <p class="p-padding-v-5-modal">
+						        	The system was developed with PHP platform with chosen frameworks, integrated with node.js technology, and using MySQL database. 
+						        	With an effective project management method, we successfully developed this application within 6 months. Performance of this system is quite critical. 
+						        	With a good application architecture design, as well as advanced server architecture design, the performance of this system is very stable, although the current user activity on this system is very active.
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						<li>
+							Mobile Application Development (Auction Bidding Android).<br>
+							<small class="text-muted">2months, Android, node.js, JAVA, AWS | 
+								<a data-toggle="modal" data-target="#pop4" href="#">See More</a>
+							</small>
+						</li>
+						<!-- modal 4 -->
+						<div id="pop4" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>Mobile Application Development (Auction Bidding Android).</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	Android based application that we designed to facilitate the customers of auction companies in the online auction in realtime. 
+						        	The integration of android platform with node.js, as well as good UI/UX design, brings experience like auctioning directly at the auction location. 
+						        	With the support of high-performance APIs design, and Linux server hosting servers, as well as server architectures that have adopted the AWS autoscaling and loadbalancing features, the performance of these bidding applications is unquestionable.
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						<li>
+							Mobile Application (Vehicle Inspection / Scoring System).<br>
+							<small class="text-muted">4months, Android, node.js, JAVA, AWS | 
+								<a data-toggle="modal" data-target="#pop5" href="#">See More</a>
+							</small>
+						</li>
+						<!-- modal 5 -->
+						<div id="pop5" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>Mobile Application (Vehicle Inspection / Scoring System).</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	The system we developed is an android-based applications used for vehicle inspection activities before it is auctioned. 
+						        	More than 900 vehicle parts are inspected through this application. 
+						        	With the help of the application, the inspection and recording of the results can be done very efficiently. 
+						        	The results are stored directly in the core system in realtime. 
+						        </p>
+						        <p class="p-padding-v-5-modal">
+						        	With a good UI/UX design, users of this application can easily perform the inspection process, no matter how many vehicle parts it involves. 
+						        	In terms of performance, this application is very stable. 
+						        	In addition to the android API designed with a good performance approach, this system is also supported by a good server architecture design and has taken advantage of AWS autoscaling and loadbalancing features.
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						<li>
+							CRM System for Motor-Bike Road Servicer.<br>
+							<small class="text-muted">3months, PHP Framework, Payment Gateway, AWS | 
+								<a data-toggle="modal" data-target="#pop6" href="#">See More</a>
+							</small>
+						</li>
+						<!-- modal 6 -->
+						<div id="pop6" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>CRM System for Motor-Bike Road Servicer.</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	What we developed and are still keep developing is a CRM system for motor insurance. 
+						        	With this system, admin team can easily manage customer data, manage insurance period extensions, manage policy payments, manage dealer partners, manage policy prices, and manage insurance claim data from customers. 
+						        	While for customers, this system provides easiness in terms of demand for insurance extension, insurance planning by simulating the premium price based on the price of the vehicle.
+						        </p>
+						        <p class="p-padding-v-5-modal">
+						        	This system is built with PHP technology with chosen platforms, HTML-CSS3, Javascript, JQuery/Ajax, and MySQL database. 
+						        	This system is integrated with gateway payment service from leading service providers, making it easier for customers to transact using credit card and electronic money.
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						<li>
+							CRM System for Auction Buyers.<br>
+							<small class="text-muted">2months, PHP Framework, MySQL, AWS | 
+								<a data-toggle="modal" data-target="#pop7" href="#">See More</a>
+							</small>
+						</li>
+						<!-- modal 7 -->
+						<div id="pop7" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>CRM System for Auction Buyers.</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	CRM system for auction company's customers (Buyers), that through this system, customers can check bills, get important information such as history of auction participation, and manage the reward points they get from purchase transactions that have been done.
+						        </p>
+						        <p class="p-padding-v-5-modal">
+						        	This system is developed with PHP platform with chosen frameworks, and using MySQL database. Customer can get real time information, because this system is connected to a real time core system via secured-API.
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						<li>
+							Component / Layout management Cloud System for Magazine Publisher.<br>
+							<small class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL | 
+								<a data-toggle="modal" data-target="#pop8" href="#">See More</a>
+							</small>
+						</li>
+						<!-- modal 8 -->
+						<div id="pop8" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>Component / Layout management Cloud System for Magazine Publisher.</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	Web-based layout management system for setting the layout of advertising columns for print media from leading Japanese Free-paper publisher. 
+						        	With good UI/UX design support, this web application is very easy to use (user-friendly). 
+						        	With drag-and-drop feature, the user can set the ad layout as desired. 
+						        	This system also features export and import layout settings in the form of csv files. 
+						        </p>
+						        <p class="p-padding-v-5-modal">
+						        	The system was developed with PHP technology with chosen framework, JQuery, and HTML5-CSS3. 
+						        	The process of developing this web application takes 3 months.
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						<li>
+							Used car market place development and operation.<br>
+							<small class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL | 
+								<a data-toggle="modal" data-target="#pop9" href="#">See More</a>
+							</small>
+						</li>
+						<!-- modal 9 -->
+						<div id="pop9" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>Used car market place development and operation.</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	Used car marketplace system used by many second-hand car dealers in Jakarta and outside Jakarta. 
+						        	The system is developed with PHP technology with chosen frameworks and runs on Linux platform on AWS server. 
+						        	The development process of this web-based marketplace application takes 3 months.
+						        </p>
+						        <p class="p-padding-v-5-modal">
+						        	The user's response to this service continues to increase over time. 
+						        	Currently the system serves more than 30,000 visitors every day. 
+						        	Although traffic is quite solid, the system is very stable.
+						        </p>
+						        <p class="p-padding-v-5-modal">
+						        	In addition to web-based technology, the system is also integrated with mobile apps based on Android (Native) and IOS (Swift).
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						<li>
+							Development system of a digital map.<br>
+							<small class="text-muted">3 months, PHP Framework, MySQL, Google map API, Java Script | 
+								<a data-toggle="modal" data-target="#pop10" href="#">See More</a>
+							</small>
+						</li>
+						<!-- modal 10 -->
+						<div id="pop10" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>Development system of a digital map.</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	Development system of a digital map. 
+						        	The system is used for mapping the progress of projects implemented in ASEAN countries. 
+						        	The system was developed with PHP technology with chosen framework, Google Maps API, HTML5-CSS3, and MySQL database. 
+						        	The process of this system development takes 3 months.
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						<li>
+							Vehicle C2C Auction System.<br>
+							<small class="text-muted">2 months, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 | 
+								<a data-toggle="modal" data-target="#pop11" href="#">See More</a>
+							</small>
+						</li>
+						<!-- modal 11 -->
+						<div id="pop11" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>Vehicle C2C Auction System.</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	C2C auction system. 
+						        	There are about 2,000 vehicles auctioned and divided into 4 auctions, followed by about 300 users each month. 
+						        	The system is developed with PHP technology with chosen frameworks, JQuery/Ajax, HTML5-CSS3, and MySQL database. 
+						        	The development of this system takes 2 months.
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						<li>
+							Secure CMS Development for public organization.<br>
+							<small class="text-muted">2 months, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop12" href="#">See More</a></small>
+						</li>
+						<!-- modal 12 -->
+						<div id="pop12" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>Secure CMS Development for public organization.</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	CMS web system for public organizations: The system was developed to manage the content of public organizations websites. 
+						        	With this system a web admin can easily manage the website content. 
+						        	This CMS web system is developed with PHP technology with chosen framework, HTML5-CSS3, javascript, JQuery, and MySQL database. 
+						        	This CMS web development process takes 2 months.
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						<li>
+							E-commerce (e-book) CMS development.<br>
+							<small class="text-muted">2months, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop13" href="#">See More</a></small>
+						</li>
+						<!-- modal 13 -->
+						<div id="pop13" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>E-commerce (e-book) CMS development.</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	E-Commerce CMS system used by a distributor of books from Japan. 
+						        	This system is developed with PHP technology with chosen framework, HTML5-CSS3, and MySQL database. 
+						        	With this web CMS, website administrator can easily manage the company's website content. 
+						        	This web development CMS takes 2 months.
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						<li>
+							Job Portal System Development.<br>
+							<small class="text-muted">2 months, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop14" href="#">See More</a></small>
+						</li>
+						<!-- modal 14 -->
+						<div id="pop14" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>Job Portal System Development.</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	Job portal system built with PHP technology, HTML5-CSS3, and MySQL database. 
+						        	This job portal is hosted on the AWS Linux server. Companies can search and find job seekers and job seekers can see vacant and open jobs on the website. 
+						        	Candidates can apply for the position directly. 
+						        	The percentage of users of this service is the majority of Japanese companies in Indonesia.
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+						<li>
+							Hiring (recruitment) Management System.<br>
+							<small class="text-muted">3months, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop15" href="#">See More</a></small>
+						</li>
+						<!-- modal 15 -->
+						<div id="pop15" class="modal fade" role="dialog">
+						  <div class="modal-dialog">
+						    <div class="modal-content">
+						      <div class="modal-body">
+						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+						      	<h4>Hiring (recruitment) Management System.</h4><hr>
+						        <p class="p-padding-v-5-modal">
+						        	Corporate website equipped with a recruitment system. 
+						        	Job seekers who are interested in working at this company can apply directly through the website. 
+						        	With a high level of security, the confidentiality of the applicant's data is more assured. 
+						        	The system is built with PHP technology, and uses the chosen frameworks, HTML5-CSS3, as well as the Ms. 
+						        	SQL Server database. The development process takes 3 months.
+						        </p>
+						      </div>
+						    </div>
+						  </div>
+						</div>
+					</ul>
 				</div>
 			</div>
 		</section>
@@ -264,127 +719,50 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-4 col-md-7">
 						<div class="row">
 							<div class="col-md-9">
-								<h1 class="new2">Improve your business with LOGIQUE</h2>
-								<div class="new2-div">LOGIQUE always provides optimal service by prioritizing the best quality for all of our clients. That is because LOGIQUE has 4 important things which are the main keys in the success of a project, which are:</div>
+								<h2 class="new2">Key Points for Successful Web Systems Developments</h2>
+								<div class="new2-div">LOGIQUE always provides optimal service by prioritizing the best quality for all of our clients. That is because LOGIQUE has 3 key points which are the main essences in the success of a project:</div>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="bold">Experience</h4>
-								<p>We have handled more than 200 projects from various industries in Indonesia, both in terms of website creation, web system development, and the creation and development of mobile applications.</p>
+								<h4 class="bold">Experiences</h4>
+								<p>
+									LOGIQUE has handled more than 200 projects from various industries in Indonesia. 
+									This experience applies to each process, such as scheduling, requirement definition, infrastructure design, deploy, and user training.
+								</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="bold">Speed</h4>
-								<p>For us, time is the most important thing we cannot just leave aside. Therefore, LOGIQUE always strives to work as effectively and efficiently as possible without reducing the quality of the project results.</p>
+								<h4 class="bold">Speed & Flexibility</h4>
+								<p>
+									The speed of business keeps getting faster and faster. 
+									If it takes 6 months or 1 year to develop a system, the business can’t keep up with the environmental changes. 
+									LOGIQUE places importance on speed. 
+									Consensus requirements often take time but will lead you to move forward.
+								</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="bold">Quality</h4>
-								<p>We apply analytical methods in order to be able to do the best application in every development and management of a project so that quality is maintained, both in the functional, performance, and safety aspects.</p>
+								<h4 class="bold">Quality & Security</h4>
+								<p>
+									With high speed, quality shouldn’t be sacrificed. 
+									There will be few problems and programming will have high maintainability with standardized development. 
+									We make sure the system developed will be delivered after we minimize the risk of security vulnerabilities.
+								</p>
 							</div>
 						</div>
-						<div class="row">
-							<div class="col-md-12">
-								<h4 class="bold">Flexibility</h4>
-								<p>We have a technical team that is always open to discuss with you, both in terms of details of the implementation, tools, or schemes that you want to use on the website, web system, or mobile application that you want to develop.</p>
-							</div>
-						</div>
+					</div>
+				</div>
+				<div class="text-center btn-container-contact" >
+					<a href="/en/contact.php" class="btn btn-contact-us-black">
+						Please feel free to contact us if you need system developments and operations in Indonesia
+					</a>
 				</div>
 			</div>
 		</section>
 
-		<section class="layanan" style="margin-top: 0;padding-top: 1.5em;">
-			<div class="container">
-				<hr>
-					<h3 class="text-center"><b>Resource-Based System Developing Service</b></h3>
-				<hr>
-				<div class="row">
-					<div class="col-md-12">
-						<p class="text-justify custom-faq" style="background: white;border: dotted 2px;padding: 1em;">In addition to providing project-based services, LOGIQUE also provides resource-based services, especially for those of you who have projects with dynamic needs. With this service, you can rent our resources, such as Web Developers, Web Designers, and Mobile Application Developers with a number that is tailored to your needs in a certain period of time. Within the specified timeframe, our resources will be dedicated to working on your entire project professionally to get the best results for your business. For complete information, you can contact us by email to info@logique.co.id or via the telephone number at (021) 22708935/36. Feel free to talk to us in English, Indonesian, or Japanese.</p>
-					</div>
-				</div>
-				<hr>
-					<h3 class="text-center"><b>NEED OTHER SERVICES?</b></h3>
-				<hr>
-				<div style="background: white;border: dotted 2px;padding: 1em;">In addition to serving the creation and development of web systems, LOGIQUE also provides a variety of other services that you can choose to address all your digital business problems.</div>
-				<div class="row">
-					<div class="col-md-4">
-						<h2 class="custom-3">Creating a <br>Recruitment System</h2>
-						<p class="min-h">To make it easier for you to filter and communicate with job seekers, LOGIQUE provides a web-based recruitment system for your company. Through this system, you can do the recruitment process very easily and efficiently, because the system we create can be accessed and understood easily.</p>
-						<!-- <div>
-							<a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
-						</div> -->
-					</div>
-					<div class="col-md-4">
-						<h2 class="custom-3">Creating Employee <br>Evaluation System</h2>
-						<p class="min-h">If you are a manager who oversees many employees in a company, of course it will be difficult to evaluate the performance of its staff. Therefore, LOGIQUE offers you an application system that is able to assist you in evaluating the performance of staff, so that you can know and provide a detailed and transparent assessment of the performance of your employees.</p>
-						<!-- <div>
-							<a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
-						</div> -->
-					</div>
-					<div class="col-md-4">
-						<h2 class="custom-3">Creating Applications to Increase Employee Productivity</h2>
-						<p class="min-h">Employee productivity is one of the determinants for a company to move forward and develop. Therefore, LOGIQUE gives you a smart solution that can increase your employee productivity, which is an application creation service that can increase employee productivity in detail and transparently, even though the employee works with a remote system (freelance, remote worker, etc.). We provide this service starting from Rp1 million per month.</p>
-						<!-- <div>
-							<a href="/layanan/penetration-testing/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
-						</div> -->
-					</div>
-				</div>
-				<br class="hidden-xs">
-				<div class="row" style="background: rgba(255, 255, 255, 0.4);border: dotted 4px #ededed;">
-					<div class="col-md-12">
-					  <div class="custom-faq">
-						<h3 class="text-center"><b>Frequently Asked Questions (FAQ)</b></h3>
-						<hr>
-						<h2 class="custom-3">What is the price of creating a web system at LOGIQUE?</h2>
-						<p>
-						LOGIQUE serves creating web systems at customized prices according to your needs. For more details, you can contact us by email to info@logique.co.id or through the telephone number at (021) 227 089 35/36, or you can also via WhatsApp on the number 0812 9656 0380. You can talk to us in English, Indonesian, or Japanese.</p>
-						<h2 class="custom-3">What does LOGIQUE need from clients for the creation of web systems?</h2>
-						<p>
-						In creating a web system, clients need to provide business concepts or features that are desired in the web system. If needed, you can also submit various other supporting data to us.</p>
-						<h2 class="custom-3">How long does it take to create a web system?</h2>
-						<p>
-						Making a web system is very dependent on the level of complexity and the many features provided by you. For a simple web system it usually requires a start of 1 month.</p>
-						<h2 class="custom-3">Can LOGIQUE create an e-commerce website?</h2>
-						<p>
-						Of course, LOGIQUE has a lot of experience working on various e-commerce websites in various forms and tools. To find out what e-commerce websites we have done, you can see them in our portfolio.</p>
-						<h2 class="custom-3">How does LOGIQUE secure a web system?</h2>
-						<p>
-						LOGIQUE is aware that the security of a web system is the most important thing, especially if the website is an e-commerce website or website that is used to store various important data of the company. Therefore, LOGIQUE provides a full and comprehensive web system security service to all of our clients' web systems.</p>
-					  </div>
-					</div>
-				</div>
-			</div>
-		</section>
-
-		<section class="tahap-pemesanan-list">
-			<div class="border-top-list hidden-xs hidden-sm"></div>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-offset-6 col-md-6">
-						<h4><b>We are ready to assist you in creating web systems, and also:</b></h4>
-						<ul style="list-style-type: square;">
-							<li class="m-b-5">Make and/or operate a homepage</li>
-							<li class="m-b-5">Rebuild and optimize it for mobile/smartphones</li>
-							<li class="m-b-5">Develop an Android/iOS application</li>
-							<li class="m-b-5">Operate an in-house management system</li>
-							<li class="m-b-5">Manage IT infrastructure</li>
-							<li class="m-b-5">Audit IT security, but is already structured from Japan</li>
-							<li class="m-b-5">Increase awareness of your company/brand through digital marketing</li>
-							<li class="m-b-5">Achieve online marketing targets with online advertising</li>
-							<li class="m-b-5">Design and print company promotional materials for distribution</li>
-							<li class="m-b-5">Manage the operation of SNS (Facebook, Instagram, Twitter, Youtube)</li>
-							<li class="m-b-5">Update the content and operation of your website</li>
-							<li class="m-b-5">Create and install chatbots online for your website</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="border-top-list-2 hidden-xs hidden-sm"></div>
-		</section>
 		<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
 		<footer class="contact">
 			<div class="container">
