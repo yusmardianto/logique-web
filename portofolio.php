@@ -141,14 +141,12 @@
 							<div class="characteristic-title" style="font-size:22px">WEB</div>
 							<div class="row text-center">
 								<div class="col-sm-4">
-									<a href="https://www.jtrustbank.co.id/" target="_blank">
-										<img src="/img/portfolio/jtrust-bank-new.png" class="img-responsive center-block">
-										JTrust Bank (Re-design)
-									</a>
-									<div class="addition-desc text-left">
-										WEB Re-Design (Design | Coding | Integrasi CMS)
-										<div class="grey-clr">Mobile Optimized, Multi-bahasa, CMS, Bank</div>
-									</div>
+								  <img src="/img/portfolio/pertamina.png" class="img-responsive center-block">
+								    Pertamina  
+								  <div class="addition-desc text-left">
+								    UI / UX Design  (Design | HTML/CSS)
+								    <div class="grey-clr">Training, E-Learning, Pertamina</div>
+								  </div>
 								</div>
 								<div class="col-sm-4">
 									<a href="https://www.bekalhidup.com" target="_blank">
@@ -161,25 +159,25 @@
 									</div>
 								</div>
 								<div class="col-sm-4">
-									<a href="https://www.60jpid.com/" target="_blank">
-										<img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
-										60<sup>th</sup> Anniversary Japan-Indonesia
+									<a href="https://www.jtrustbank.co.id/" target="_blank">
+										<img src="/img/portfolio/jtrust-bank-new.png" class="img-responsive center-block">
+										JTrust Bank (Re-design)
 									</a>
 									<div class="addition-desc text-left">
-										Pengoperasian dan Pengembangan WEB  (Design | Coding | Content Creation | Operation)
-										<div class="grey-clr">CMS, multi-bahasa, Mobile, Keamanan WEB, Publik</div>
+										WEB Re-Design (Design | Coding | Integrasi CMS)
+										<div class="grey-clr">Mobile Optimized, Multi-bahasa, CMS, Bank</div>
 									</div>
 								</div>
-						 		<div class="clearfix"></div>
-								<div class="col-sm-4">
-									<a href="https://www.otomart.id/" target="_blank">
-										<img src="/img/portfolio/otomart.png" class="img-responsive center-block">
-										OTOmart (used-car market place)
-									</a>
-									<div class="addition-desc text-left">
-										Pengembangan dan Pengoperasian WEB (Design | CMS | System | Content Creation | Operation | AWS)
-										<div class="grey-clr">CMS, Tempat Jual-Beli, DB-WEB, Mobile, Layanan WEB, Automobil</div>
-									</div>
+								<div class="clearfix"></div>
+							 	<div class="col-sm-4">
+							 		<a href="https://prolinefinance.co.id/" target="_blank">
+							 			<img src="/img/portfolio/proline.png" class="img-responsive center-block">
+							 			PROLINE FINANCE
+							 		</a>
+							 		<div class="addition-desc text-left">
+							 			Pengembangan WEB (Design | Coding | CMS) 
+							 			<div class="grey-clr">CMS, Mobile, OJK, Finansial</div>
+							 		</div>
 							 	</div>
 							 	<div class="col-sm-4">
 									<a href="https://jba.co.id/" target="_blank">
@@ -216,15 +214,15 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="https://prolinefinance.co.id/" target="_blank">
-											<img src="/img/portfolio/proline.png" class="img-responsive center-block">
-											PROLINE FINANCE
+										<a href="https://www.otomart.id/" target="_blank">
+											<img src="/img/portfolio/otomart.png" class="img-responsive center-block">
+											OTOmart (used-car market place)
 										</a>
 										<div class="addition-desc text-left">
-											Pengembangan WEB (Design | Coding | CMS) 
-											<div class="grey-clr">CMS, Mobile, OJK, Finansial</div>
+											Pengembangan dan Pengoperasian WEB (Design | CMS | System | Content Creation | Operation | AWS)
+											<div class="grey-clr">CMS, Tempat Jual-Beli, DB-WEB, Mobile, Layanan WEB, Automobil</div>
 										</div>
-									</div>
+								 	</div>
 									<div class="col-sm-4">
 										<a href="http://jaif.asean.org/" target="_blank">
 											<img src="/img/portfolio/jaif.png" class="img-responsive center-block">
@@ -671,6 +669,35 @@
 											Pengoperasian & Pengembangan WEB (Design | CMS | System | Operation | AWS)
 											<div class="grey-clr">Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</div>
 										</div>
+									</div>
+									<div class="clearfix"></div>
+									<div class="col-sm-4">
+										<a href="https://www.60jpid.com/" target="_blank">
+											<img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
+											60<sup>th</sup> Anniversary Japan-Indonesia
+										</a>
+										<div class="addition-desc text-left">
+											Pengoperasian dan Pengembangan WEB  (Design | Coding | Content Creation | Operation)
+											<div class="grey-clr">CMS, multi-bahasa, Mobile, Keamanan WEB, Publik</div>
+										</div>
+									</div>
+									<div class="col-sm-4">
+									  <img src="/img/portfolio/wantjp.png" class="img-responsive center-block">
+									    Want.jp
+									  <div class="addition-desc text-left">
+									    Pengembangan E-Commerce (PWA | ReactJS | NodeJS) 
+									    <div class="grey-clr">Mobile Optimized PWA, Cross Border E-Commerce</div>
+									  </div>
+									</div>
+									<div class="col-sm-4">
+									  <a href="https://banzaihobby.com/" target="_blank">
+									    <img src="/img/portfolio/banzai-hobby.png" class="img-responsive center-block">
+									    Banzai Hobby
+									  </a>
+									  <div class="addition-desc text-left">
+									    Migrasi Server ke AWS (Migration | Hosting | AWS)
+									    <div class="grey-clr">E-Commerce, Zen Cart</div>
+									  </div>
 									</div>
 								<!--<div class="col-sm-4">
 									<a href="http://wkvetter.com" target="_blank">
