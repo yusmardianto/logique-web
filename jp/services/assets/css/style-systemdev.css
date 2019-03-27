@@ -1,6 +1,6 @@
 html,
 body {
-    font-family:"メイリオ", Meiryo, Lato,  "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
+    font-family:"Lato, メイリオ", Meiryo,  "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
     background-color: #fff;
     overflow-x: hidden;
 } 
@@ -667,6 +667,12 @@ footer {padding-bottom: 0}
 }
 
 @media (max-width: 480px){
+    .list-study-container .circle-list li{
+        width: 100%;
+    }
+    .list-study {
+        margin-top: 0;
+    }
     .language-btn {
         top: -70px;
     }
