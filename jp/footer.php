@@ -22,16 +22,16 @@ ga('send', 'pageview');
 							<li  class="have-submenu"><a href="/jp/services.php">サービス</a>
 								<ul>
 									<li  class="have-submenu">
-										<a href="/jp/services/mekanisme-pembuatan-website/" target="_blank">Web制作サービス</a>
+										<a href="/jp/services/web-dev.php" target="_blank">Web制作サービス</a>
 										<ul>
 											<li>
-												<a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank">  採用サイト制作</a></li>
-											<li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">  歯科クリニック向けWeb制作</a></li>
+												<a href="/jp/services/recruitment-web-dev.php" target="_blank">  採用サイト制作</a></li>
+											<li><a href="/layanan/pembuatan-web-klinik-gigi.php" target="_blank">  歯科クリニック向けWeb制作</a></li>
 										</ul>
 									</li>
-									<li><a href="/jp/services/pembuatan-aplikasi-mobile/"> モバイルApp開発</a></li>
-									<li><a href="/jp/services/penetration-testing/"> Webセキュリティ診断サービス</a></li>
-									<li><a href="/jp/services/pembuatan-sistem-web/" target="_blank">Webシステム開発</a></li>
+									<li><a href="/jp/services/mobile-app-dev.php" target="_blank"> モバイルApp開発</a></li>
+									<li><a href="/jp/services/penetration-test.php" target="_blank"> Webセキュリティ診断サービス</a></li>
+									<li><a href="/jp/services/system-dev.php" target="_blank">Webシステム開発</a></li>
 								</ul>
 							</li>
 							

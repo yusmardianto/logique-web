@@ -100,6 +100,12 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
+							<a href="product.php">
+								<div class="img-product"></div>
+								プロダクト
+							</a>
+						</div>
+							<div class="text-center">
 								<a href="/jp/joinus.php">
 									<div class="img-career"></div>
 									採用/<br>パートナー
