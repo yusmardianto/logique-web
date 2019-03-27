@@ -10,6 +10,7 @@ body {
 .top-header-continer .logo {
 		padding: 10px 0 5px;
 		display: inline-block;
+		margin-left: 50px;
 
 }
 .top-header-continer .logo img{
@@ -91,7 +92,7 @@ body {
     display: flex;
     align-items: center;
 }
-section,footer{margin-left:95px}
+ 
 .card section{margin-left:0}
 .nav-lp .navbar-toggle.collapsed {
     background-color: #ffca13!important;
@@ -251,7 +252,8 @@ section,footer{margin-left:95px}
 .breadcrumb{
 	background: transparent;
 	padding:10px 0;
-	margin-bottom: 0
+	margin-bottom: 0;
+	margin-left:50px;
 }
  
 .top-pricerange  {
@@ -453,7 +455,7 @@ footer {
     background-color: #000;
     padding: 30px 10px;
     z-index:5;
-    margin-bottom: -2rem;
+ 
     margin-top: 50px;
 }
 footer .footer-title {
@@ -603,6 +605,19 @@ ul.medsos-new li a{
 .footer-title {
     font-size: 16px
 }
+    .backdrop-test {
+	    position: fixed;
+	    width: 100%;
+	    height: 100%;
+	    background-color: #000;
+	    z-index: 999;
+	    opacity: .7;
+	    display: none;
+	    top: 0;
+	}
+.logique-nav.in-jp {
+    line-height: normal;
+}
 @media (min-width:1200px) {
     .margin-for-nav {
         top: 50%;
@@ -612,14 +627,79 @@ ul.medsos-new li a{
         position: relative
     }
 }
+@media screen and (max-width:1024px) {
+		.top-header-continer .logo, .breadcrumb{
+		margin-left: 70px;
+		}
+	}
 @media screen and (max-width:979px) {
+	.top-header-continer .logo, .breadcrumb{
+		margin-left: 95px;
+	}
     .logique-nav {
         background: rgba(255, 202, 19, 1)
     }
     .top-pricerange{
-    	min-height: 600px; 
+ 		min-height: 0;
     	background-size: cover;
-    	background-position: -750px bottom ;	
+ 
+    }
+ 	.breadcrumb{
+ 		padding-bottom: 5px
+ 	}
+    section.section-style{
+    	padding-left: 0px;
+    }
+    .price-item h3 {
+    	margin-left: 125px;
+    }
+    .price-title, .price-cont{
+    	font-size: 14px;
+    }
+    .headerinfo{
+    	margin-bottom: 50px;
+    	background: rgba(0,0,0,0.7);
+    	padding: 20px;
+    	width: 300px;
+    }
+    .header-content h1{
+    	top: 0px;
+    	left: 42%;
+    	font-size: 30px;
+    }
+ 
+    .breadcrumb li, .breadcrumb>.active{
+
+    	font-size: 11px;
+    	color: #fff;
+    }
+    .breadcrumb a{
+    	font-size: 11px;
+    }
+    .estimate-title, .estimate-item, .other-price-container, .other-estimate-title{
+    	margin-left: 85px;
+    }
+    .estimate-title h2 {
+    	font-size: 24px;
+    }
+    .other-price-item{
+    	font-size: 16px;
+    }
+    footer{
+    	padding: 30px 0px;
+    }
+    .footer-container{
+    	padding-left: 95px;
+    }
+    .footer-container ul{
+    	padding: 0
+    }
+    .other-price-item .row > div{
+    	font-weight: bold;
+    }
+    .other-price-item .row > div:last-child{
+    	margin-top: 10px;
+    	font-weight: normal;
     }
 } 
 @media (max-width: 767px){
@@ -632,7 +712,118 @@ ul.medsos-new li a{
         margin-right: 0;
         padding-top: 0
     }
+    .backdrop-test {
+    display: block;
+	}
+	.margin-for-nav {
+    margin-top: 0;
+	}
+	.wrapper .navbar-collapse {
+    height: 100%!important;
+	}
 }
 @media (max-width: 480px){
+	.top-header-continer .logo{
+		margin-left: 0;
+	}
+	.breadcrumb-cont{
+		padding-left: 0;
+	}
+	.backdrop-test {
+        display: block
+    }
+	.nav-lp .navbar-toggle.collapsed{
+		top:0;
+	}
+	.logique-nav .text-center {
+		padding: 5px 10px;
+	}
+	.nav-lp .navbar-collapse{
+		height: 100% !important;
+		overflow-y: auto;
+	}
+	.language-btn{
+		text-align: left;
+		padding:0 0 10px;
+	}
+	.language-btn li{
+		padding-left: 0;
+	}
+	.navbar-toggle{
+		margin-top: 15px;
+	}
+	.top-pricerange{
+		background-size: 500%; 
+		background-position: bottom;
+	}
+	.breadcrumb{
+		padding: 5px 0;
+	}
+	.breadcrumb-cont{
+		background: #ffca13;
+	}
+	.header-content h1{
+		position: static;
+		background: rgba(0,0,0,0.7);
+    	padding: 20px 20px 0;
+    	margin-top: 90px;
+	}
+	.price.headerinfo{
+		margin-top: 0;
+		width: 100%;
+		padding: 10px 20px 20px;
+		margin-bottom: 0;
+		font-size: 16px;
+		line-height: normal;
+	}
+	.breadcrumb>li+li:before{
+		padding: 0;
+	}
+	 .price-item h3 {
+		margin:0;
+		font-size: 16px;
+		vertical-align: top;
+	} 
+	.price-title h3 span{
+		width: 100%;
+		padding-left: 0;
+	}
+	.price-title span{
+		width: 55%;
+		display: inline-block;
+		padding-left: 10px;
+
+	}
+ 	.price-title {
+ 		margin-bottom: 0;
+ 	}
+	.price-cont .row:last-child > div:first-child{
+		min-height: 150px;
+	}
+	.product-content{
+		margin-bottom: 0
+	}
+	.price-cont .row > div:last-child{
+		margin-left: -10px;
+		padding-left: 25px;
+ 
+	}
+	.price-cont{
+		margin-top:10px;
+	}
+ .estimate-title, .estimate-item, .other-price-container, .other-estimate-title, .footer-container{
+		margin-left: 0;
+	}
+	.other-price-item > .row > div:nth-child(2){
+		background: #ffca13;
+		padding: 5px 15px;
+		text-align: left !important;
+	}
+	.other-price-item > .row > div{
+		margin-bottom: 5px;
+	}
+	.footer-container{
+		padding: 0;
+	}
 
 }
