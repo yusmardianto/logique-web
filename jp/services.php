@@ -318,7 +318,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>インターネット広告 / デジタルマーケティング支援</b><br/>
 										インターネット広告、オンラインPR施策、SNSを活用したマーケティングなど、ネットを活用した集客やコンバージョン増のための施策、OtoOなどご相談ください。 パートナーと協業して効果の高いソリューションをご提供します。<br>
-										<a target="_blank" href="/jp/services/digital-marketing" class="btn btn-service-link">LOGIQUEのデジタルマーケティング サービスについて詳しくみる</a>
+										<a target="_blank" href="/jp/services/digital-marketing.php" class="btn btn-service-link">LOGIQUEのデジタルマーケティング サービスについて詳しくみる</a>
 									</li>
 								</ol>
 							  </div>
