@@ -380,7 +380,7 @@
 										Hubungi kami untuk mengetahui lebih lanjut tentang layanan ini.
 									</li>
 								</ol>
-								<div class="text-center"><a target="_blank" href="layanan/digital-marketing" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a></div>
+								<div class="text-center"><a target="_blank" href="layanan/digital-marketing.php" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a></div>
 							  </div>
 							</div>
 						  </div>
