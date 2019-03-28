@@ -84,7 +84,7 @@ if(isset($_POST['submitted']))
 				<div class="backdrop-test"></div>
 					<div class="logique-nav">
 						<div class="margin-for-nav">
-							<div class="text-center ">
+							<div class="text-center active">
 								<a href="/">
 									<div class="img-home"></div>
 									Beranda
@@ -108,6 +108,12 @@ if(isset($_POST['submitted']))
 									Layanan
 								</a>
 							</div>
+							 	<div class="text-center">
+									<a href="/produk.php">
+										<div class="img-product"></div>
+										Produk
+									</a>
+								</div>
 							<div class="text-center">
 								<a href="/karir.php">
 									<div class="img-career"></div>
@@ -152,11 +158,46 @@ if(isset($_POST['submitted']))
 							</ul>
 						</div>
 					</div>
-					<div class="col-md-offset-3 col-md-7 m-t-7em">
-						<h1 class="text-right"><span class="c-logique">LOGIQUE</span><br>Siap Melayani Pembuatan Website Anda!</h1>
-						<!-- <div class="subtitle-header">
-							Dengan pengalaman selama lebih dari 5 tahun dan telah bekerja sama dengan perusahaan baik di tingkat nasional maupun internasional, dan didukung dengan sumber daya yang profesional di bidangnya, Logique selalu siap memberikan solusi terbaik bagi pembuatan dan pengembangan website Anda
-						</div> -->
+					<ol id="services-breadcrumb" class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+						<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+							<a itemprop="item" href="../index.php">
+								<span itemprop="name">Beranda</span>
+							</a>
+							<meta itemprop="position" content="1" />
+						</li>
+						<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+							<a itemprop="item" href="../layanan.php">
+								<span itemprop="name">Layanan</span>
+							</a>
+							<meta itemprop="position" content="2">
+						</li>
+						<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+							<a itemprop="item" href="#">
+								<span itemprop="name">Web Dev</span>
+							</a>
+							<meta itemprop="position" content="3">
+						</li>
+					</ol>
+					<div id="heading-service-web-dev" class="col-sm-offset-3 col-sm-7 m-t-7em">
+						<h1 class="text-left">
+							<p>
+								<span class="c-logique">LOGIQUE Web</span> / <br class="hidden-xs">Melayani Pembuatan Website
+							</p>
+							<p>
+								<span class="underline">Kami Siap Membuat Website Yang Anda Inginkan</span>
+							</p>
+						</h1>
+						<div class="subtitle-header">
+							<p class="p-padding-v-15">
+								LOGIQUE membuat website yang dapat memberikan banyak manfaat bagi bisnis Anda. 
+								Mulai dari menarik pelanggan, memberikan banyak pengajuan, serta meningkatkan penjualan. 
+								Semua berlangsung secara efisien dan efektif. 
+								Selain itu, situs web yang hebat dan dirancang dengan indah, dapat memberikan kelas kepada pelanggan Anda, branding yang lebih tinggi, serta identitas perusahaan yang dibangun dengan lebih baik.
+							</p>
+							<p class="p-padding-v-15">
+								LOGIQUE yang didirikan oleh seorang pengusaha Jepang, merupakan perusahaan pembuatan situs web nomor satu di Jakarta dengan prestasi yang terbaik.
+							</p>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -166,34 +207,195 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
 						<div class="panel text-center custom-1">
-							<h1><b>Mengapa harus memilih LOGIQUE?</b></h1>
+							<h1><b>Ingin Membuat Website Berkualitas Terbaik. Hubungi LOGIQUE Sekarang!</b></h1>
 							<br>
-							<p class="p-b-20">LOGIQUE terdiri dari tim developer, designer, dan content writer yang profesional dan ahli di bidangnya. Kami menjamin akan menghasilkan website terbaik dengan standar internasional yang dapat memenuhi kebutuhan dan keinginan Anda.<br><br>
-							Selain itu, kami dapat membuat website dengan tiga bahasa, yakni Indonesia, Inggris, dan Jepang. Meskipun kami perusahaan internasional, kami memiliki pengetahuan yang luas mengenai bagaimana bisnis digital dapat berjalan dengan baik di Indonesia.</p>
+							<p class="p-b-20">
+								LOGIQUE telah banyak menciptakan dan mengembangkan lebih dari 200 situs web yang ada di Indonesia dari berbagai bidang, mulai dari organisasi pemerintah hingga lembaga keuangan dengan tingkat keamanan tinggi. 
+								Situs web tersebut dibuat berdasarkan permintaan klien yang membutuhkan situs web dengan tingkat kreatif tinggi, pemrograman yang rumit dan berbagai permintaan lainnya. 
+								Kami dipercaya oleh para klien kami, karena kami dapat memahami dan mengetahui bagaimana pertumbuhan bisnis di dunia digital akan dapat membawa kesuksesan yang besar namun juga akan menjadi sangat sulit tanpa memiliki sistem web yang tepat. 
+								Kami siap memproses permintaan Anda secara cepat dan fleksibel sesuai keinginan Anda.
+							</p>
+							<p class="p-b-20">
+								Sebagai perusahaan pembuat situs web profesional, kami melayani pembuatan situs web dengan kualitas terbaik sesuai dengan kesepakatan harga yang disetujui. 
+								Kami mempunyai tim yang terdiri dari pengembang web, desainer serta penulis konten. 
+								Total terdapat 40 ahli berpengalaman yang bekerja bersama kami, dimana mereka akan bekerja secara profesional dalam tim yang tidak terlalu besar atau terlalu kecil.
+							</p>
+							<p class="p-b-20">
+								Meskipun kami merupakan perusahaan internasional yang berlokasi di Jakarta, namun kami mempunyai pengetahuan yang luas mengenai cara untuk menghasilkan keuntungan yang tinggi di Indonesia. 
+								Jika Anda memerlukan situs web dengan penampilan yang indah dan sistem terbaik, jangan ragu untuk berkonsultasi dengan LOGIQUE kapan pun dan dimana pun Anda inginkan.
+							</p>
 						</div>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-offset-1 col-md-10" style="padding: 0;">
-						<div class="col-md-4 text-center">
-							<div class="new-box min-h">
-								<h4>Pengalaman Lebih dari 6 Tahun</h4>
-								<p>LOGIQUE mempunyai pengalaman selama lebih dari 6 tahun di dunia digital, mulai dari produksi website, pengembangan website, dan berbagai produk digital lainnya. Selama itu pula, kami telah membuktikan kemampuan dan kesungguhan kami dalam mewujudkan keinginan klien-klien kami.</p>
+					<div class="col-md-offset-1 col-md-10">
+						<div class="row">
+							<div class="col-md-4">
+								<div class="new-box min-h">
+									<h4>Proses Pembuatan Website dengan “One-Stop”</h4>
+									<p>
+										Anda butuh website dalam Bahasa Indonesia, Inggris dan Jepang? 
+										LOGIQUE siap membantu Anda untuk membuatnya dalam ketiga bahasa tersebut sekaligus dengan implementasi SEO. 
+										Kami juga dapat membuat konversi desain atau pun form persetujuan, pemeliharaan website dan pemasaran digital.
+									</p>
+								</div>
 							</div>
-						</div>
-						<div class="col-md-4 text-center">
-							<div class="new-box min-h">
-								<h4>Dipercaya Perusahaan Nasional dan Internasional</h4>
-								<p>Dikerjakan oleh karyawan-karyawan yang profesional di bidangnya, membuat para klien kami merasa senang dengan pelayanan dan hasil yang kami berikan. Kami telah berhasil—dan masih terus dipercaya—mengerjakan projek-projek besar dari perusahaan nasional maupun internasional di berbagai bidang, mulai dari manufaktur, pemerintahan, finance, hingga asuransi. </p>
+							<div class="col-md-4">
+								<div class="new-box min-h">
+									<h4>Kualitas Terbaik, Teknologi Terbaru dan Tingkat Keamanan Tinggi</h4>
+									<p>
+										Kami berpengalaman dalam mengimplementasikan PWA, AMP dan berbagai fungsi yang kompleks untuk berbagai situs web apa pun. 
+										Website akan langsung segera diaktifkan setelah dilakukan pemeriksaan keamanan oleh para pakar keamanan website kami sehingga menghasilkan web yang tangguh dengan fungsi yang ringan.
+									</p>
+								</div>
 							</div>
-						</div>
-						<div class="col-md-4 text-center">
-							<div class="new-box min-h">
-								<h4>Cepat, Efisien, dan Fleksibel</h4>
-								<p><br>Dengan tim yang cerdas dan alur kerja yang terencana dan efisien, kami dapat memastikan bahwa Anda akan menerima hasil yang diinginkan dalam waktu yang telah Anda tetapkan. Kami pun sangat fleksibel dan terbuka dengan segala bentuk perubahan. Jika Anda menginginkan penyesuaian, kami dapat segera membantu Anda. </p>
+							<div class="col-md-4">
+								<div class="new-box min-h">
+									<h4>Cepat dan Fleksibel</h4>
+									<p>
+										Kami terbiasa bekerja dengan cepat, karena kami mengerti betapa berartinya waktu bagi Anda. 
+										Kami bekerja secara fleksibel dan menerima segala bentuk perubahan yang Anda inginkan. 
+										Jika Anda ingin melakukan penyesuaian situs web, kami siap membantu Anda.
+									</p>
+								</div>
 							</div>
 						</div>
 					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="section-layout web-service-flow">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="analysis-part flow-part">
+							<img src="assets/img/img-webdev/writing.png"> 
+							<h3>Analisis dan Evaluasi</h3>
+							<p>
+								Anda sudah punya website dan berkeinginan untuk memperbaikinya? Kami siap untuk melakukan analisis dan mengevaluasi situasi situs web Anda saat ini. 
+								Kami akan mengevaluasi mengapa trafik website Anda sangat rendah, atau apakah hal ini berkaitan dengan struktur atau tidak. 
+								Tim kami merupakan para ahli dalam menganalisis kinerja website Anda secara keseluruhan dan mencarikan solusi dari permasalahan yang ada.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="plan-part flow-part">
+							<img src="assets/img/img-webdev/intelligent.png"> 
+							<h3>Perencanaan</h3>
+							<p>
+								Untuk mencapai tujuan yang Anda inginkan dari situs web, kami akan memberikan solusi kepada Anda bagaimana seharusnya situs web Anda, memberikan saran kepada Anda tentang apa yang harus dilakukan dan memberikan beberapa hal yang perlu ditingkatkan agar mendapatkan hasil yang berkepanjangan. 
+								Bentuk dukungan pada situs web Anda tentu sedikit berbeda, tergantung dari sistem internal situs web Anda.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="seo-part flow-part">
+							<img src="assets/img/img-webdev/analysis.png"> 
+							<h3>SEO / SEM</h3>
+							<p>
+								Hanya dengan menerbitkannya, sebuah website tidak dapat mendapatkan banyak traffic. 
+								Para ahli di perusahaan kami sangat mengenal dan memahami langkah-langkah dalam melakukan penerapan SEO di Indonesia sehingga akan membuat situs web Anda dapat terlihat pada halaman pencarian organic ketika kueri yang relevan dengan bisnis Anda dimasukkan ke dalam mesin pencari. 
+								Kami juga dapat melakukan strategi SEM untuk meningkatkan trafik secara cepat menggunakan kata kunci yang efektif.
+							</p>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+					<div class="col-sm-4">
+						<div class="info-part flow-part">
+							<img src="assets/img/img-webdev/ux.png"> 
+							<h3>Peningkatan dan Restrukturisasi</h3>
+							<p>
+								Kami tidak selalu membuat ulang situs web Anda dari awal karena masalah rumit yang ditemukan. 
+								Sebab, hal tersebut terkadang membutuhkan banyak pekerjaan serta biaya yang harus dikeluarkan. 
+								Untuk kasus seperti ini, kami akan menawarkan kepada Anda solusi terbaik dalam mengatur, mengumpulkan dan meningkatkan situs web sesuai dengan budget Anda serta berapa lama waktu yang Anda inginkan.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="multiligual-part flow-part">
+							<img src="assets/img/img-webdev/language.png"> 
+							<h3>Membuat dan Mengoperasikan Website Multi Bahasa</h3>
+							<p>
+								Kami dapat membuat dan mengoperasikan situs web dalam Bahasa Indonesia, Bahasa Inggris dan Bahasa Jepang. 
+								Kami mengerti dan memahami bahwa konten yang kreatif dan tersegmentasi dengan baik sangat penting bagi situs web untuk menjangkau dan melibatkan banyak kalangan.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="sosmed-part flow-part">
+							<img src="assets/img/img-webdev/customer.png"> 
+							<h3>Pengoperasian Media Sosial</h3>
+							<p>
+								Media sosial dapat memberi pengaruh yang sangat kuat dalam meningkatkan keterlibatan para pelanggan Anda. 
+								Media sosial juga dapat membantu mendukung trafik pengunjung dari media sosial ke situs web. 
+								Kami memberikan layanan dalam mengoperasikan media sosial, seperti Facebook dan Instagram untuk kepentingan bisnis Anda baik dalam Bahasa Indonesia, Bahasa Inggris dan Bahasa Jepang.
+							</p>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+					<div class="col-sm-4">
+						<div class="design-part flow-part">
+							<img src="assets/img/img-webdev/graphic-design.png"> 
+							<h3>Pembuatan Desain</h3>
+							<p>
+								Kami merancang UI yang ramah bagi pengguna serta ramah bagi perubahan sistem yang berasal dari situs web Anda. 
+								Tim desain kami akan menyarankan kepada Anda berbagai jenis desain yang berbeda sesuai dengan kebutuhan Anda.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="markup-part flow-part">
+							<img src="assets/img/img-webdev/website.png"> 
+							<h3>Markup Coding</h3>
+							<p>
+								Anda juga dapat meminta kepada kami hanya melakukan pengodean HTML/ CSS bagi situs web Anda. 
+								Tim developer kami akan mengejar ketertinggalan teknologi coding pada situs web Anda dan menggantinya dengan JavaScript dan teknologi coding front-end terbaru.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="responsive-part flow-part">
+							<img src="assets/img/img-webdev/devices.png"> 
+							<h3>Dukungan Multi Perangkat</h3>
+							<p>
+								Kami dapat membuat situs yang mampu dioptimalkan dan responsive untuk seluruh jenis perangkat, seperti ponsel, smartphone, dan tablet. 
+								Kami telah mempunyai banyak pengalaman untuk membuat situs web yang ramah seluler dan AMP.
+							</p>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+					<div class="col-sm-4">
+						<div class="programing-part flow-part">
+							<img src="assets/img/img-webdev/programming.png"> 
+							<h3>Fitur Pemrograman Khusus</h3>
+							<p>
+								Anda dapat meminta fitur pemrograman apapun yang Anda inginkan untuk ditambahkan ke dalam situs web Anda, seperti Parallax motions yang mungkin dapat terhubung dengan JavaScript, HTML5, CSS3 dan lain-lain. 
+								Kami akan mengusulkan pengembangan situs web yang menarik para pengguna yang telah disesuaikan dengan kebutuhan Anda.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="system-part flow-part">
+							<img src="assets/img/img-webdev/engineering.png"> 
+							<h3>Kontruksi Sistem</h3>
+							<p>
+								Mengembangkan sistem CMS, sistem web dan sistem bisnis yang dibangun dan dioperasikan dengan berbagai sistem melalui kerja sama yang baik dari situs web. 
+								Kami ahli dalam mengembangkan situs web melalui kerangka kerja PHP.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="apps-part flow-part">
+							<img src="assets/img/img-webdev/smartphone.png"> 
+							<h3>PWA sebagai Aplikasi Seluler</h3>
+							<p>
+								Kami dapat mengembangkan aplikasi seluler sebagai aplikasi web layaknya sebuah aplikasi asli dengan PWA. 
+								Pemberitahuan serta operasi offline juga dapat dilakukan melalui PWA.
+							</p>
+						</div>
+					</div>
+					<div class="clearfix"></div>
 				</div>
 			</div>
 		</section>
@@ -201,8 +403,14 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-7 border-l text-right">
-						<h2 class="text-right">Tahapan Pembuatan Website di LOGIQUE</h2>
-						<p class="text-right">LOGIQUE memiliki tahap-tahap produksi website yang terstruktur. Biasanya, untuk membuat website dengan tampilan sederhana, kami hanya membutuhkan waktu 3 minggu. Waktu tersebut akan disesuaikan berdasarkan tingkat kompleksitas permintaan Anda, seperti penambahan sistem manajemen konten (CMS) dan fitur-fitur lainnya. <br><b>Berikut rangkaian tahap produksi website di LOGIQUE.</b></p>
+						<h2 class="text-right">Alur Pembuatan Situs Web di LOGIQUE</h2>
+						<p class="text-right">
+							Pembuatan situs web dari LOGIQUE selalu berfokus pada penyesuaian antara kecepatan dan kualitas. 
+							Para ahli dan pekerja profesional kami siap bertanggung jawab terhadap setiap langkah yang dilakukan. 
+							Alur pembuatan situs web sangat terstruktur, mulai dari perencanaan dan pengajuan, desain, pengembangan, serta pengoperasian untuk mewujudkan situs web terbaik. 
+							Tahapan LOGIQUE untuk membuat sebuah situs web juga dapat bervariasi, tergantung dari jenis proyek (ukuran situs web, kebutuhan CMS, kesulitan dalam pengembangan sistem, dll). 
+							Berikut ini adalah alur umum dalam pembuatan situs web di LOGIQUE.
+						</p>
 					</div>
 					<div class="col-md-3 text-center hidden-xs hidden-sm">
 						<a href="/" target="_blank"><img src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan" class="custom-2"></a>
@@ -215,21 +423,24 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-offset-6 col-md-6">
 						<div class="card">
-							<section>
 							<div class="row">
 								<div class="col-xs-2 col-sm-2 col-md-2 text-right">
 									<span class="title-custom">1</span>
 								</div>
 								<div class="col-xs-10 col-sm-10 col-md-10">
-									<p class="title-custom-p"><b>Tahap Pemesanan</b></p>
+									<p class="title-custom-p"><b>Hubungi Kami</b></p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Anda dapat langsung melakukan pemesanan dan menjelaskan kepada kami gambaran awal mengenai website seperti apa yang Anda inginkan. Hubungi kami melalui email <a style="color:#333" href="mailto:info@logique.co.id"><u>info@logique.co.id</u></a> atau <a style="color:#333" target="_blank" href="/hubungi-kami.php">isi <u>Formulir Pemesanan</u></a> yang tersedia. Kami akan segera menghubungi Anda untuk berdiskusi lebih lanjut.</p>
+									<p>
+										Tim kami siap untuk menerima pesan Anda kapan saja. Anda juga dapat melakukan pemesanan dan menjelaskan secara jelas kepada kami mengenai deskripsi awal situs web seperti apa yang Anda inginkan, mulai dari pembuatan situs web, operasi, konfigurasi CMS, pengembangan sistem web, dan lain-lain. 
+										Hubungi kami sekarang melalui email ke <a style="color:#333" href="mailto:info@logique.co.id"><u>info@logique.co.id</u></a> atau melakukan pengisian formulir pemesanan yang tersedia <a style="color:#333" target="_blank" href="/hubungi-kami.php"> <u>di sini</u></a>.
+										Anda juga dapat bertanya kepada kami mengenai berbagai hal yang berkaitan dengan pengembangan web, mendesain web atau bahkan harganya. Jangan ragu untuk berbicara dengan kami dalam Bahasa Indonesia, Bahasa Inggris, atau Bahasa Jepang. 
+										Kami akan langsung menghubungi Anda untuk melanjutkan diskusi lebih lanjut.
+									</p>
 								</div>
 							</div>
-							</section>
 						</div>
 					</div>
 				</div>
@@ -245,12 +456,17 @@ if(isset($_POST['submitted']))
 									<span class="title-custom">2</span>
 								</div>
 								<div class="col-xs-10 col-sm-10 col-md-10">
-									<p class="title-custom-p"><b>Tahap Mendengarkan Kebutuhan</b></p>
+									<p class="title-custom-p"><b>Mendengar</b></p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Pada tahap ini, Anda dapat menjelaskan seluruh detail kebutuhan Anda. Mulai dari struktur website, penyesuaian fitur, hingga desain yang Anda inginkan. Selanjutnya, kami akan memberikan penawaran dan menjelaskan bentuk pendekatan yang efektif sesuai dengan manfaat yang ingin Anda capai melalui website tersebut.</p>
+									<p>
+										Anda mungkin mempunyai visi dan target yang lebih spesifik, seperti meningkatkan keuntungan bisnis Anda, citra dan merek Anda, kegiatan IR, perekrutan, dll. 
+										Kami ingin mendengar semuanya dari Anda. 
+										Tidak harus bertemu, namun jika Anda mau, kami dapat menghubungi Anda melalui Skype atau melalui aplikasi komunikasi lainnya, sehingga kami dapat berbicara lebih lanjut mengenai bisnis Anda. 
+										Setelah itu, kami akan memberikan beberapa saran yang telah disesuaikan berdasarkan minat Anda, serta beberapa pendekatan efektif sesuai dengan kebutuhan Anda.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -262,12 +478,20 @@ if(isset($_POST['submitted']))
 									<span class="title-custom">3</span>
 								</div>
 								<div class="col-xs-10 col-sm-10 col-md-10">
-									<p class="title-custom-p"><b>Tahap Pengajuan Proposal</b></p>
+									<p class="title-custom-p"><b>Perencanaan / Pengajuan Proposal</b></p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Setelah menemukan konsep yang diinginkan, kami akan membuat kerangka perencanaan pembuatan website dalam bentuk proposal untuk Anda. Dalam perencanaan tersebut akan disertakan pula informasi tim yang akan dilibatkan, harga layanan, dan waktu pengerjaan yang diperlukan. </p>
+									<p>
+										Setelah kami memahami segalanya, kami akan langsung mengusulkan situs web seperti apa yang Anda butuhkan untuk menyelesaikan permasalahan tersebut. 
+										Jika diperlukan, kami juga akan melakukan penelitian, termasuk mengenai pesaing serta menganalisis tugas pencarian dari situs web yang saat ini. 
+										Bahkan dalam pengajuan proposal, kami menghargai kecepatan dan mengingat bahwa proposal harus diselesaikan dalam waktu yang cepat. 
+										Dalam proposal, kami juga akan menyediakan layanan opsional, seperti fotografi, videografi dan pembuatan konten yang diperlukan. 
+										Anda juga dapat berkonsultasi kepada kami jika Anda mempunyai usulan tertentu yang ingin Anda lakukan. 
+										Dalam proposal tersebut juga terdapat layanan harga serta perkiraan berapa lama waktu yang dibutuhkan untuk pembuatan situs web Anda. 
+										Seluruhnya berdasarkan pada metode transparansi yang kami lakukan, tingkat kesulitan serta jumlah anggota tim yang diperlukan untuk menyelesaikan pekerjaan Anda.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -279,12 +503,15 @@ if(isset($_POST['submitted']))
 									<span class="title-custom">4</span>
 								</div>
 								<div class="col-xs-10 col-sm-10 col-md-10">
-									<p class="title-custom-p"><b>Tahap Kontrak</b></p>
+									<p class="title-custom-p"><b>Tanda Tangan Kontrak</b></p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Pada tahap ini akan terjadi penandatanganan kontrak serta pembayaran uang muka sebesar 50%. Setelah proses penandatangan kontrak serta pembayaran selesai, tim kami akan langsung memulai operasi produksi website Anda.</p>
+									<p>
+										Jika Anda menyetujui apa yang telah kami tawarkan, maka proses selanjutnya adalah penandatangan kontrak serta pembayaran uang muka sebesar 50% dari total anggaran biaya yang tertera di dalam proposal. 
+										Setelah pembayaran selesai dilakukan, maka tim kami akan langsung dapat memulai untuk melakukan operasi pembuatan situs web Anda.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -302,13 +529,19 @@ if(isset($_POST['submitted']))
 									<span class="custom-p-1">5</span>
 								</div>
 								<div class="col-xs-10">
-									<p class="custom-p-2"><b>Tahap Konfirmasi</b></p>
+									<p class="custom-p-2"><b>Konfirmasi</b></p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<div class="border-right-custom"></div>
-									<p>Kami akan mengonfirmasi seluruh detail kebutuhan dan perencanaan struktur website Anda. Hal ini untuk memastikan bahwa tidak ada poin-poin yang terlewat dan menimbulkan kendala suatu saat nanti. Selain itu, kami juga akan menunjukkan kerangka website (wireframe) yang telah kami buat untuk Anda sebagai gambaran awal.</p>
+									<p>
+										Pertama, kami akan melakukan konfirmasi mengenai seluruh detail struktur situs website Anda serta persyaratan yang dibutuhkan. 
+										Hal ini bertujuan untuk memastikan bahwa tidak ada poin yang terlewat sehingga menyebabkan terjadinya hambatan dalam proses pembuatan web ke depan. 
+										Selain itu, kami juga akan menunjukkan kerangka kerja untuk pembuatan situs web Anda (Wireframe) yang telah kami buat sebagai gambaran awal. 
+										Selanjutnya untuk konsep, desain, domain serta server web akan kami dikonfirmasikan dan diputuskan. 
+										Apabila sebelumnya Anda telah mempunyai situs web, maka Anda dapat membagikan akses Google Analytics situs website Anda kepada kami.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -321,13 +554,17 @@ if(isset($_POST['submitted']))
 									<span class="custom-p-1">6</span>
 								</div>
 								<div class="col-xs-10">
-									<p class="custom-p-2"><b>Tahap Pengerjaan Design</b></p>
+									<p class="custom-p-2"><b>Pembuatan Desain Situs Website</b></p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<div class="border-right-custom"></div>
-									<p>Pada tahap ini, konsep halaman utama (homepage) akan dibuat dan didesain sesuai dengan referensi yang Anda berikan. Tim desain kami juga akan memberikan beberapa alternatif untuk kemudian dapat Anda setujui atau dilakukan revisi.</p>
+									<p>
+										Pada tahap ini, konsep beranda atau situs web utama akan kami buat dan kami rancang sesuai dengan referensi yang Anda berikan. 
+										Tim desain situs web kami selanjutnya akan memberikan kepada Anda beberapa alternatif yang dapat Anda setujui atau Anda revisi. 
+										Setelah Anda setuju, maka langkah selanjutnya kami akan membuat sisa halaman berdasarkan desain yang berasal dari situs web utama.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -339,12 +576,16 @@ if(isset($_POST['submitted']))
 									<span class="custom-p-1">7</span>
 								</div>
 								<div class="col-xs-10">
-									<p class="custom-p-2"><b>Tahap Pengerjaan Fungsional</b></p>
+									<p class="custom-p-2"><b>Impelementasi, Pengodean dan Pemrograman</b></p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Di sini, kami akan mengeksekusi pengerjaan fungsi programming dari berbagai fitur yang telah direncanakan. Kami akan memastikan bahwa seluruh arsitektur data dan fitur dalam website berjalan dan berfungsi dengan baik.</p>
+									<p>
+										Pada tahap ini, kami akan menjalankan berbagai fungsi pemrograman dari berbagai fitur yang telah direncanakan, termasuk CMS. 
+										Pada tahap ini juga telah mencakup penerapan SEO mengikuti desain UI/ UX serta menghilangkan berbagai fitur yang rentan terhadap keamanan situs web Anda. 
+										Kami juga akan memastikan bahwa seluruh arsitektur serta berbagai fitur yang berada di situs web Anda telah berjalan dan berfungsi dengan semestinya. Konsep ini bertujuan untuk memastikan bahwa situs website Anda telah terstruktur dengan baik untuk mendapatkan pengalaman pengunjung sesuai dengan target yang ditentukan.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -362,12 +603,18 @@ if(isset($_POST['submitted']))
 									<span class="title-custom">8</span>
 								</div>
 								<div class="col-xs-10 col-sm-10 col-md-10">
-									<p class="title-custom-p"><b>Tahap Pengetesan</b></p>
+									<p class="title-custom-p"><b>Pengujian & Verifikasi</b></p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Setelah website dibuat, kami akan melakukan beberapa pengetesan seperti pengetesan internal dan demonstrasi. Pengetesan juga akan melibatkan Anda sebagai pemilik agar Anda bisa langsung merasakan dan menilai hasil jadi website Anda.</p>
+									<p>
+										Setelah kami membuat situs web, maka kami akan melakukas tes yang telah disesuaikan dengan isi serta desain situs web itu sendiri. 
+										Kami akan memastikan tidak ada kesalahan sintaks HTML, website sepenuhnya telah mobile-friendly, setiap halaman dapat dimuat dengan cepat, serta penerapan SEO telah dilakukan secara efektif. 
+										Untuk keamanan situs website Anda, maka kami juga akan melakukan pengujian dan pemeriksaan keamanan dengan melakukan banyak skenario pengujian. 
+										Kami selanjutnya akan mendemonstrasikan berbagai fitur tersebut kepada Anda secara berkala sehingga Anda dapat langsung memberikan feedback atau saran kepada kami dari setiap fitur yang telah kami buat. 
+										Ketika proyek telah memasuki tahap finalisasi, Anda juga dapat melakukan pengetesan untuk memastikan dan mengkonfirmasi bahwa seluruh fungsi yang diterapkan telah sesuai dan berjalan dengan baik.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -380,12 +627,17 @@ if(isset($_POST['submitted']))
 									<span class="title-custom">9</span>
 								</div>
 								<div class="col-xs-10 col-sm-10 col-md-10">
-									<p class="title-custom-p"><b>Tahap Peluncuran Website</b></p>
+									<p class="title-custom-p"><b>Peluncuran Situs Web</b></p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Setelah seluruh rangkaian pembuatan website telah dicapai, kami dapat membantu memindahkan data dari website lama Anda jika diperlukan. Pada tahap ini, Anda bisa langsung melunasi sisa pembayaran dan website Anda dapat segera digunakan. </p>
+									<p>
+										Pada tahapan ini, situs website Anda akan dimasukkan ke dalam web server untuk sekaligus dipublikasikan. 
+										Kami dapat membantu Anda untuk memindahkan seluruh data yang berasal dari situs lama Anda jika diperlukan. 
+										Setelah dipublikasi, selanjutnya kami akan melakukan registrasi indeks di Google serta menyiapkan Google Analytics untuk melakukan pemeliharaan lebih lanjut. 
+										Pada tahap ini juga, Anda dapat melunasi sisa pembayaran sehingga situs web Anda dapat langsung digunakan.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -397,12 +649,20 @@ if(isset($_POST['submitted']))
 									<span class="title-custom no-10">10</span>
 								</div>
 								<div class="col-xs-10 col-sm-10 col-md-10">
-									<p class="title-custom-p"><b>Tahap Pengelolaan</b></p>
+									<p class="title-custom-p"><b>Perbaikan & Pemeliharaan</b></p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
-									<p>Setelah website diluncurkan, kami tidak serta-merta meninggalkan Anda. Setiap website memerlukan pengelolaan jangka panjang, tidak terkecuali website Anda. Kami akan terus menjaga sistem website Anda agar tetap memberikan hasil yang Anda inginkan.</p>
+									<p>
+										Setelah diluncurkan, kami tidak akan meninggalkan Anda begitu saja. 
+										Kami sadar bahwa setiap situs website membutuhkan manajemen dalam jangka waktu yang panjang. 
+										Hal ini juga termasuk ke dalam situs website milik Anda. 
+										Karena itu, kami akan terus melakukan pemeliharaan sistem situs website Anda untuk menjaga agar hasil dapat sesuai dengan apa yang Anda inginkan. 
+										LOGIQUE menyediakan berbagai layanan manajemen yang Anda butuhkan, mulai dari mengamati sistem, melakukan operasi harian, bahkan untuk pembuatan konten reguler sekalipun. 
+										Kami juga dapat melakukan pengoperasian akun media sosial Anda, sampai melakukan operasi digital marketing. 
+										Semua itu untuk hasil yang maksimal dari situs web Anda.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -410,61 +670,49 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</section>
-		<section class="layanan p-t-10-m">
+		<section class="layanan p-t-10-m" style=" margin-top: 0; ">
 			<div class="container">
 				<div class="row hidden-md hidden-lg">
 					<div class="col-md-12">
-						<h2 class="m-m-10">BUTUH LAYANAN LAINNYA?</h2>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-12">
-						<h4 class="panel text-center custom-faq">Selain produksi website, LOGIQUE juga menyediakan beragam layanan lain yang dapat menjadi solusi untuk mengoptimalkan bisnis digital Anda.</h4>
+						<h2 class="m-m-10">Butuh Layanan Kami Lainnya?</h2>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-4">
-						<h2 class="custom-3">Pengembangan Aplikasi Mobile</h2>
-						<p class="min-h">Kami melayani pengembangan aplikasi mobile untuk Android dan iOS dengan UI/UX yang user-friendly, stabil, dan mudah digunakan. Pengembangan aplikasi meliputi perancangan, implementasi teknologi baru, optimalisasi UI/UX, desain, hingga pendaftaran ke Google Play/App Store. Kami siap membantu mengoptimasi bisnis Anda dengan aplikasi mobile berteknologi terkini.</p>
+						<h2 class="custom-3">Pengembangan Aplikasi Mobile (Smartphone)</h2>
+						<p class="min-h">
+							Kami juga dapat mengembangkan berbagai aplikasi mobile, seperti aplikasi Android, iOS dan hybrid. 
+							Kami mempunyai banyak pengalaman dan pengetahuan yang luas mengenai aplikasi mobile lainnya, seperti PWA dan AMP sebagai solusi dari permasalahan bisnis Anda, terutama pada perangkat mobile. 
+							Melalui pengembangan API serta pembangunan infrastruktur seperti AWS, kami mampu mengembangkan aplikasi yang sangat terpelihara melalui layanan terpadu kami.
+						</p>
 						<div>
-							<a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
+							<a href="/layanan/pembuatan-aplikasi-mobile.php" target="_blank" class="btn btn-logic btn-md">Pelajari lebih lanjut</a>
 						</div>
 					</div>
 					<div class="col-md-4">
-						<div class="border-top-custom-2 hidden-xs hidden-sm">BUTUH LAYANAN LAINNYA?</div>
-						<h2 class="custom-3">Pembuatan Website Karir</h2>
-						<p class="min-h">Untuk membantu perusahaan Anda menemukan calon karyawan yang sesuai, kami menyediakan layanan pembuatan halaman website karir yang terstruktur, dinamis, dan teroptimasi dengan baik. Halaman ini akan menunjukkan profesionalitas perusahaan Anda, sehingga akan ada banyak calon-calon pekerja yang tertarik untuk bekerja di perusahaan Anda.</p>
+						<div class="border-top-custom-2 hidden-xs hidden-sm">Butuh Layanan Kami Lainnya?</div>
+						<h2 class="custom-3">Solusi Sistem Perekrutan Karyawan</h2>
+						<p class="min-h">
+							Untuk membantu perusahaan dalam menemukan dan mendapatkan kandidat yang cocok dan sesuai dengan keinginan Anda, kami menyediakan halaman situs web karir yang telah terstruktur, dinamis, profesional dan telah dioptimalkan dengan baik sebagai solusi untuk divisi SDM Anda. 
+							Kami juga menyediakan sistem manajemen aktifitas, laporan harian, manajemen situasi kerja dan sistem menajemen kerja remote untuk meningkatkan produktivitas kerja.
+						</p>
 						<div>
-							<a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
+							<a href="/layanan/pembuatan-web-karir.php" target="_blank" class="btn btn-logic btn-md">Pelajari lebih lanjut</a>
 						</div>
 					</div>
 					<div class="col-md-4">
-						<h2 class="custom-3">Pengetesan Keamanan Website (Pen-Test)</h2>
-						<p class="min-h">Perlindungan keamanan website Anda sangat diperlukan agar tidak mudah disusupi oleh orang-orang yang tidak bertanggung jawab. Untuk itu, LOGIQUE menyediakan layanan tes keamanan website. Dengan layanan ini, kami akan melakukan penelusuran setiap celah dan potensi penyusupan, untuk kemudian dilakukan tindakan pencegahan, seperti injeksi SQL, cross-site scripting, session jacking, dan lain-lain. Layanan ini kami tawarkan dengan harga mulai Rp 10 juta.</p>
+						<h2 class="custom-3">Inspeksi / Pengetesan Keamanan Website</h2>
+						<p class="min-h">
+							Kami juga melakukan inspeksi untuk pemeriksaan kerentanan celah keamanan pada situs web Anda. 
+							Kami mengerti jika terdapat berbagai risiko keamanan yang bisa saja terjadi pada situs web, seperti pembajakan dan pemalsuan. 
+							Kami akan mencari celah dan mengetahui potensi penyusupan pada situs web Anda dan melakukan tindakan pencegahan, seperti melakukan injeksi SQL, skrip pada lalu lintas situs website, sesi jacking dan lain-lain.
+						</p>
 						<div>
-							<a href="/layanan/penetration-testing/" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
+							<a href="/layanan/penetration-test.php" target="_blank" class="btn btn-logic btn-md">Pelajari lebih lanjut</a>
 						</div>
 					</div>
 				</div>
-				<br class="hidden-xs">
-				<div class="row">
-					<div class="col-md-4">
-						<h2 class="custom-3">Pengelolaan Website</h2>
-						<p class="min-h">Tidak hanya pembuatan website, LOGIQUE juga menyediakan layanan maintenance atau pengelolaan website. Mulai dari pemeliharaan, pembuatan konten dengan SEO, hingga pemasaran. Seluruh progres dan strategi peningkatan traffic ini nantinya akan dilaporkan langsung kepada Anda secara berkala. Selama pengelolaan ini, kami akan memastikan website Anda mendapatkan pengunjung potensial sebanyak-banyaknya sesuai dengan target bisnis Anda.</p>
-						<div>
-							<a href="/portofolio.php" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<h2 class="custom-3">Konsultasi Bisnis Digital</h2>
-						<p class="min-h">LOGIQUE memiliki pengalaman selama 6 tahun dalam menangani permasalahan digital serta membantu berbagai perusahaan membangun bisnis di dunia digital, baik dalam skala nasional maupun internasional. Jika Anda memiliki keraguan atau memiliki permasalahan terkait bisnis digital Anda, LOGIQUE menyediakan layanan konsultasi yang dapat memberikan solusi untuk Anda.</p>
-						<div>
-							<a href="/portofolio.php" target="_blank" class="btn btn-logic btn-md">Info lebih lanjut</a>
-						</div>
-					</div>
-				</div>
-				<br><br class="hidden-xs">
-				<div class="row">
+				<!-- <div class="row">
 					<div class="col-md-12">
 					  <div class="custom-faq">
 						<h3 class="text-center">Pertanyaan Yang Sering Diajukan (FAQ)</h3>
@@ -483,15 +731,7 @@ if(isset($_POST['submitted']))
 						LOGIQUE menggunakan beragam bahasa pemrograman terkini dan fungsional seperti PHP, HTML, CSS, hingga JavaScript, sehingga website yang dihasilkan bersifat dinamis, efektif, dan fleksibel. Kami juga selalu update dengan teknologi pemrograman terbaru dan penggunaannya dapat disesuaikan dengan keinginan Anda.</p>
 					  </div>
 					</div>
-				</div>
-			</div>
-		</section>
-		<section style="padding: 2em">
-			<div class="row">
-				<div class="col-md-12 text-center" style=" background: #ffcd38; padding: 1.5em; border-radius: 1em; ">
-					<h4 style="margin-top: -5px;">Jika Anda tertarik dengan layanan LOGIQUE di atas, segera hubungi kami. Kami selalu siap membantu Anda.</h4>
-					<a href="/portofolio.php" target="_blank" class="btn btn-logic btn-lg btn-portfolio">Portfolio Kami</a>
-				</div>
+				</div> -->
 			</div>
 		</section>
 
@@ -500,25 +740,29 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-6 col-md-6">
-						<h4><b>Kami siap membantu Anda dalam pembuatan website untuk setiap kebutuhan Anda:</b></h4>
+						<h4><b>Kami selalu siap untuk membantu Anda dalam pembuatan dan pengembangan situs web, serta:</b></h4>
 						<ul>
-							<li class="m-b-5">Membuat dan/atau mengoperasikan website</li>
-							<li class="m-b-5">Membangun kembali dan mengoptimalkannya untuk seluler/ponsel cerdas</li>
-							<li class="m-b-5">Mengembangkan aplikasi Android/iOS</li>
-							<li class="m-b-5">Mengoperasikan sistem manajemen in-house</li>
+							<li class="m-b-5">Pembuatan dan /atau pengoperasian situs website</li>
+							<li class="m-b-5">Membangun kembali dan mengoptimalkannya untuk ponsel/ smartphone</li>
+							<li class="m-b-5">Mengembangkan aplikasi Android/ iOS</li>
+							<li class="m-b-5">Mengoperasikan sistem manajamen secara mandiri</li>
 							<li class="m-b-5">Mengelola infrastruktur IT</li>
-							<li class="m-b-5">Mengaudit keamanan IT, tetapi yang sudah terstruktur dari Jepang</li>
-							<li class="m-b-5">Meningkatkan awareness akan perusahaan/merek saya melalui pemasaran digital</li>
-							<li class="m-b-5">Meraih target pemasaran online dengan pemasangan iklan online</li>
+							<li class="m-b-5">Melakukan audit keamanan IT</li>
+							<li class="m-b-5">Meningkatkan awareness akan perusahaan/merek Anda melalui pemasaran digital</li>
+							<li class="m-b-5">Meraih target pemasaran online melalui pemasangan iklan online</li>
 							<li class="m-b-5">Mendesain dan mencetak materi promosi perusahaan untuk kemudian didistribusikan</li>
-							<li class="m-b-5">Mengelola pengoperasian SNS (Facebook, Instagram, Youtube)</li>
-							<li class="m-b-5">Memperbarui konten dan pengoperasian situs web saya</li>
-							<li class="m-b-5">Membuat dan memasang chatbot online</li>
+							<li class="m-b-5">Mengelola pengoperasian akun media sosial (Facebook, Instagram dan Youtube)</li>
+							<li class="m-b-5">Memperbarui konten dan mengoperasikan situs web Anda</li>
+							<li class="m-b-5">Membuat dan memasang chatbot online untuk situs website Anda</li>
 						</ul>
 					</div>
 				</div>
+				<div class="text-center link-long-text" style="margin-top: 70px;">
+					<a href="/hubungi-kami.php" target="_blank" class="btn-contact-us-black">
+						Silahkan hubungi LOGIQUE tentang pembuatan website di Indonesia
+					</a>
+				</div>
 			</div>
-			<div class="border-top-list-2 hidden-xs hidden-sm"></div>
 		</section>
 		<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
 		<footer class="contact">
