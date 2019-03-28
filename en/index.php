@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia is the top in-house Web Developer / Design, Digital Marketing, & IT Consultant in Jakarta. Experienced in growing local and international business across ASEAN, especially Indonesia and Japan, by creating high quality websites, systems, and development in the digital world.">
+    <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia is the top Web Developer / Design, Digital Marketing, & IT Consultant in Jakarta. Experienced in growing local and international business across ASEAN, especially Indonesia and Japan, by creating high quality websites, systems, and development in the digital world.">
 	<meta name="keywords" content="website creation, web-system development, internet marketing, SEO, designing, pamphlet, mobile application">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
@@ -13,7 +13,7 @@
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://logique.co.id/en">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUE Digital Indonesia is the top in-house Web Developer / Design, Digital Marketing, & IT Consultant in Jakarta. Experienced in growing local and international business across ASEAN, especially Indonesia and Japan, by creating high quality websites, systems, and development in the digital world.">
+	<meta property="og:description" content="LOGIQUE Digital Indonesia is the top Web Developer / Design, Digital Marketing, & IT Consultant in Jakarta. Experienced in growing local and international business across ASEAN, especially Indonesia and Japan, by creating high quality websites, systems, and development in the digital world.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
 	<!-- Facebook Pixel Code -->
     <script>
@@ -141,16 +141,17 @@
 								<div class="item active">
 									<div class="text-center">
 										<h1 class="title-index" style="font-size: 40px;">
-											The <span class="yellow">Top</span> In-House Web Developer Company in Jakarta, Providing <span class="yellow">Digital Solutions</span> For Your Business
+											The <span class="yellow">Top</span> Web Developer Company in Jakarta, Providing <span class="yellow">Digital Solutions</span> For Your Business
 										</h1>
 										<p class="p-padding-v-15">
-											<b>LOGIQUE DIGITAL INDONESIA</b>, a professional in-house Web Developer company that serves Website and Apps creation and development, Web Design, also Digital Marketing services to improve your business and increase profits. 
-											We have served many large clients from local and international range with various needs, from creating E-Commerce, creating Online Auction Systems, creating employee recruitment systems, and Digital Marketing. 
-											We also offer you non-digital product services, such as brochures, catalogs, company profile videos, and other company branding products.
+											<b>LOGIQUE DIGITAL INDONESIA</b>, a professional and experienced Web Developer company that serves Website and Apps creation and development, Web Design, also Digital Marketing operations to improve your business and increase profits. 
+											We have worked with many large clients from local and international range with various needs, from creating E-Commerce, Online Auction Systems, employee recruitment systems, to Digital Ads operations.
 										</p>
 										<p class="p-padding-v-15">
-											We are professional, flexible, and committed in producing a variety of high quality and international standard digital products. 
-											Grow and improve the profits of your business in the digital age with the best solutions that we provide. See the details below.
+											We commit in producing a variety of high quality and international standard digital products. 
+											We are the trustworthy experts and we work flexibly to your request. 
+											Grow and improve the profits of your business in the digital age with the best solutions that we provide. 
+											See the details below.
 										</p>
 										<div class="row">
 											<div class="col-lg-offset-1 col-lg-10">
@@ -163,8 +164,8 @@
 													</div>
 													<div class="col-md-3 col-sm-6">
 														<a href="/en/services/mobile-app-dev.php" class="div-service-cat">
-															<img src="/img/top/i-top2.png" alt="Mobile Apps Development Service" class="center-block img-responsive"/>
-															<h2>Mobile Apps Development Service</h2>
+															<img src="/img/top/i-top2.png" alt="Apps Development Service" class="center-block img-responsive"/>
+															<h2>Apps Development Service</h2>
 														</a>
 													</div>
 													<div class="col-md-3 col-sm-6">
@@ -192,18 +193,18 @@
 									<div class="row">
 										<div class="col-md-10 col-md-offset-1 text-center">
 											<p class="p-padding-v-15">
-												With a high level of congestion, as well as various problems of each individual employee who are uncertain, thereby reducing the mobility of employees, certainly will make company productivity decrease. 
-												Therefore, LOGIQUE offers you a remote work tool called <b>Dokodemo-Kerja</b>. 
+												The high level of congestion, as well as various uncertain problems of each employee, will surely reduce the mobility of employees. 
+												Therefore, company productivity decreases. LOGIQUE offers you a solution to flexible working or remote working for employees, a system called Dokodemo-Kerja. 
 												This system can monitor and calculate employee working hours accurately. 
 												In addition, this software is also equipped with various supporting features that work automatically so that company management can assess each employee efficiently.
 											</p>
 											<p class="p-padding-v-15">
 												We also offer a recruitment system that can help recruiting be more effective and efficient for HR teams or job seekers, called <b>Sugoi Saiyo</b>. 
-												This system will make it easier for HR to carry out the recruitment process, so that companies can get the right candidates in a short time and can determine when and where the interview process will take place.
+												This system will make it easier for HR to carry out the recruitment process, so that companies can get the right candidates in a short time and structured way, because it can even set up when and where the interview process will take place.
 											</p>
 											<p class="p-padding-v-15">
 												To complete the HR-Tech solution, LOGIQUE also offers a daily reporting management system for employees, called <b>Nippo</b>. 
-												This system can help company managements easily monitor, evaluate employee performance every month.
+												This system can help company managements easily monitor and evaluate employee performance every day.
 											</p>
 											<div class="row">
 												<div class="col-md-3">
@@ -240,7 +241,7 @@
 											<p class="p-padding-v-15">
 												For 7 years, LOGIQUE has been supporting clients from local and international in creating and developing Websites, Mobile Apps, and Digital Marketing. 
 												In accordance with our goals, LOGIQUE commits to provide the best solutions for our clients. 
-												We have worked successfully on many projects, including e-commerce development, car/motorcycle auction management system development, content management system development, and many more.
+												We have worked successfully on many projects, including e-commerce development, car/motorcycle auction management system development, customer management system development, and many more.
 											</p>
 											<div class="row">
 												<div class="col-md-3">
@@ -305,16 +306,17 @@
 							<div class="item active">
 								<div class="text-center">
 									<h1 class="title-index" style="font-size: 40px;">
-										The <span class="yellow">Top</span> In-House Web Developer Company in Jakarta, Providing <span class="yellow">Digital Solutions</span> For Your Business
+										The <span class="yellow">Top</span> Web Developer Company in Jakarta, Providing <span class="yellow">Digital Solutions</span> For Your Business
 									</h1>
 									<p class="p-padding-v-15">
-										<b>LOGIQUE DIGITAL INDONESIA</b>, a professional in-house Web Developer company that serves Website and Apps creation and development, Web Design, also Digital Marketing services to improve your business and increase profits. 
-										We have served many large clients from local and international range with various needs, from creating E-Commerce, creating Online Auction Systems, creating employee recruitment systems, and Digital Marketing. 
-										We also offer you non-digital product services, such as brochures, catalogs, company profile videos, and other company branding products.
+										<b>LOGIQUE DIGITAL INDONESIA</b>, a professional and experienced Web Developer company that serves Website and Apps creation and development, Web Design, also Digital Marketing operations to improve your business and increase profits. 
+										We have worked with many large clients from local and international range with various needs, from creating E-Commerce, Online Auction Systems, employee recruitment systems, to Digital Ads operations.
 									</p>
 									<p class="p-padding-v-15">
-										We are professional, flexible, and committed in producing a variety of high quality and international standard digital products. 
-										Grow and improve the profits of your business in the digital age with the best solutions that we provide. See the details below.
+										We commit in producing a variety of high quality and international standard digital products. 
+										We are the trustworthy experts and we work flexibly to your request. 
+										Grow and improve the profits of your business in the digital age with the best solutions that we provide. 
+										See the details below.
 									</p>
 									<div class="row">
 										<div class="col-lg-offset-1 col-lg-10">
@@ -327,8 +329,8 @@
 												</div>
 												<div class="col-md-3 col-sm-6">
 													<a href="/en/services/mobile-app-dev.php" class="div-service-cat">
-														<img src="/img/top/i-top2.png" alt="Mobile Apps Development Service" class="center-block img-responsive"/>
-														<h2>Mobile Apps Development Service</h2>
+														<img src="/img/top/i-top2.png" alt="Apps Development Service" class="center-block img-responsive"/>
+														<h2>Apps Development Service</h2>
 													</a>
 												</div>
 												<div class="col-md-3 col-sm-6">
@@ -356,18 +358,18 @@
 								<div class="row">
 									<div class="col-md-10 col-md-offset-1 text-center">
 										<p class="p-padding-v-15">
-											With a high level of congestion, as well as various problems of each individual employee who are uncertain, thereby reducing the mobility of employees, certainly will make company productivity decrease. 
-											Therefore, LOGIQUE offers you a remote work tool called <b>Dokodemo-Kerja</b>. 
+											The high level of congestion, as well as various uncertain problems of each employee, will surely reduce the mobility of employees. 
+											Therefore, company productivity decreases. LOGIQUE offers you a solution to flexible working or remote working for employees, a system called Dokodemo-Kerja. 
 											This system can monitor and calculate employee working hours accurately. 
 											In addition, this software is also equipped with various supporting features that work automatically so that company management can assess each employee efficiently.
 										</p>
 										<p class="p-padding-v-15">
 											We also offer a recruitment system that can help recruiting be more effective and efficient for HR teams or job seekers, called <b>Sugoi Saiyo</b>. 
-											This system will make it easier for HR to carry out the recruitment process, so that companies can get the right candidates in a short time and can determine when and where the interview process will take place.
+											This system will make it easier for HR to carry out the recruitment process, so that companies can get the right candidates in a short time and structured way, because it can even set up when and where the interview process will take place.
 										</p>
 										<p class="p-padding-v-15">
 											To complete the HR-Tech solution, LOGIQUE also offers a daily reporting management system for employees, called <b>Nippo</b>. 
-											This system can help company managements easily monitor, evaluate employee performance every month.
+											This system can help company managements easily monitor and evaluate employee performance every day.
 										</p>
 										<div class="row">
 											<div class="col-md-3">
@@ -404,7 +406,7 @@
 										<p class="p-padding-v-15">
 											For 7 years, LOGIQUE has been supporting clients from local and international in creating and developing Websites, Mobile Apps, and Digital Marketing. 
 											In accordance with our goals, LOGIQUE commits to provide the best solutions for our clients. 
-											We have worked successfully on many projects, including e-commerce development, car/motorcycle auction management system development, content management system development, and many more.
+											We have worked successfully on many projects, including e-commerce development, car/motorcycle auction management system development, customer management system development, and many more.
 										</p>
 										<div class="row">
 											<div class="col-md-3">

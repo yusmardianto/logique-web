@@ -1,6 +1,6 @@
 html,
 body {
-    font-family:"メイリオ", Meiryo, Lato,  "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
+    font-family:"Lato, メイリオ", Meiryo,  "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
     background-color: #fff;
     overflow-x: hidden;
 } 
@@ -377,7 +377,7 @@ section,footer{margin-left:95px}
 .img-contact,
 .img-home,
 .img-portfolio,
-.img-services {
+.img-services , .img-product {
     height: 44px;
     width: 44px
 }
@@ -457,6 +457,18 @@ section,footer{margin-left:95px}
 .logique-nav .text-center:focus .img-blog,
 .logique-nav .text-center:hover .img-blog {
     background: url(/img/nav-img-white.png) -2px -374px no-repeat
+}
+.img-product {
+    margin: auto;
+    background: url(/img/nav-img.png) -2px -440px no-repeat;
+
+}
+.logique-nav .text-center.active .img-product,
+.logique-nav .text-center.active:focus .img-product,
+.logique-nav .text-center.active:hover .img-product,
+.logique-nav .text-center:focus .img-product,
+.logique-nav .text-center:hover .img-product {
+    background: url(../img/nav-img-white.png) -2px -440px no-repeat
 }
 .backdrop-test {
     position: fixed;
@@ -667,6 +679,12 @@ footer {padding-bottom: 0}
 }
 
 @media (max-width: 480px){
+    .list-study-container .circle-list li{
+        width: 100%;
+    }
+    .list-study {
+        margin-top: 0;
+    }
     .language-btn {
         top: -70px;
     }

@@ -317,7 +317,7 @@
 									<li class="have-submenu"><a href="/en/services/web-dev.php" target="_blank">Web Development</a>
 										<ul>
 											<li><a href="/en/services/recruitment-web-dev.php" target="_blank"> Recruitment Website Creation</a></li>
-											<li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank"> Dentist Website Creation</a></li>
+											<li><a href="/layanan/pembuatan-web-klinik-gigi.php" target="_blank"> Dentist Website Creation</a></li>
 											<!-- <a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a> -->
 										</ul>
 									</li>

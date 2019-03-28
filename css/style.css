@@ -1402,6 +1402,9 @@ video {
     .studi-kasus {
         text-align: center;
     }
+    .btn-service-link{
+        white-space: normal;
+    }
 }
 
 @media (min-width:991px) {
