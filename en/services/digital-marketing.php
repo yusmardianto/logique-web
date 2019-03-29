@@ -374,13 +374,13 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-offset-3 col-lg-6">
-						Untuk informasi lengkapnya, Anda dapat menghubungi <b>Logique Digital Indonesia</b> melalui email di <a href="mailto:info@logique.co.id">info@logique.co.id</a> atau mendaftar melalui form yang ada di link berikut ini <br/><br/>
+						For more information, please contact us <a href="mailto:info@logique.co.id">directly</a> or send an inquiry from the form in the link below.<br/><br/>
 						<a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"><img alt="Form" src="assets/img/img-digital-marketing/form-footer.png" class="img-responsive center-block"/></a>
 						<br/>
-						Layanan Kami lainnya:<br/>
-						<a target="_blank" href="/layanan/pembuatan-website-karir-perusahaan/">Pembuatan Website Karir Perusahaan</a>
+						Other services:<br/>
+						<a target="_blank" href="/en/services/recruitment-web-dev.php">Company Recruitment Page Production</a>
 						<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-						<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/">Pembuatan Aplikasi Mobile</a>
+						<a target="_blank" href="/en/services/mobile-app-dev.php">Mobile Application Development</a>
 					</div>
 				</div>
 			</div>
