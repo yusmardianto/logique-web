@@ -728,7 +728,7 @@
                   <h3>JBA</h3>
                   <div class="addition-desc text-left">
 										<div class=" ">Pengembangan Aplikasi Mobile ( Pengembangan sistem pemeriksaan dan sistem penilaian )</div>
-										<small class="text-muted">4months, Android, node.js, JAVA, AWS</small>
+										<small class="text-muted">4 bulan, Android, node.js, JAVA, AWS</small>
 									</div>
                 </div>
 
@@ -739,7 +739,7 @@
                   <h3>PT. Sinarmas Land</h3>
                   <div class="addition-desc text-left">
 										<div class=" ">Pengembangan sistem manajemen rekrutmen  untuk lembaga keuangan.</div>
-										<small class="text-muted">3months, PHP Framework, HTML5/CSS3, MySQL</small>
+										<small class="text-muted">3 bulan, PHP Framework, HTML5/CSS3, MySQL</small>
 									</div>
                 </div>
 
@@ -750,7 +750,7 @@
                   <h3>Zuttoride Indonesia</h3>
                   <div class="addition-desc text-left">
 										<div class=" ">Pengembangan sistem manajemen pelanggan ( WEB-CRM ) untuk perusahaan layanan sepeda motor di Indonesia.</div>
-										<small class="text-muted">3months, PHP Framework, Payment Gateway, AWS</small>
+										<small class="text-muted">3 bulan, PHP Framework, Payment Gateway, AWS</small>
 									</div>
                 </div>
 							</div>
@@ -759,7 +759,7 @@
 								<ul class="circle-list">
 									<li>
 										Manajemen Poin Bermanfaat & Pengembangan Sistem E-Commerce.<br>
-										<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework | <a data-toggle="modal" data-target="#pop1" href="#">See More</a></small>
+										<small class="text-muted">6 bulan, AWS, Linux, MySQL, PHP Framework | <a data-toggle="modal" data-target="#pop1" href="#">See More</a></small>
 									</li>
 									<!-- modal 1 -->
 									<div id="pop1" class="modal fade" role="dialog">
@@ -775,7 +775,7 @@
 									</div>
 									<li>
 										Pengembangan E-Commerce untuk Perusahaan MLM.<br>
-										<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework | <a data-toggle="modal" data-target="#pop2" href="#">See More</a></small>
+										<small class="text-muted">6 bulan, AWS, Linux, MySQL, PHP Framework | <a data-toggle="modal" data-target="#pop2" href="#">See More</a></small>
 									</li>
 									<!-- modal 2 -->
 									<div id="pop2" class="modal fade" role="dialog">
@@ -791,7 +791,7 @@
 									</div>
 									<li>
 										Sistem Pengembangan Manajemen Lelang Kendaraan.<br>
-										<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework, Node.js  | <a data-toggle="modal" data-target="#pop3" href="#">See More</a></small>
+										<small class="text-muted">6 bulan, AWS, Linux, MySQL, PHP Framework, Node.js  | <a data-toggle="modal" data-target="#pop3" href="#">See More</a></small>
 									</li>
 									<!-- modal 3 -->
 									<div id="pop3" class="modal fade" role="dialog">
@@ -807,7 +807,7 @@
 									</div>
 									<li>
 										Pengembangan Aplikasi Mobile (Android Penawaran Lelang).<br>
-										<small class="text-muted">2months, Android, node.js, JAVA, AWS | <a data-toggle="modal" data-target="#pop4" href="#">See More</a></small>
+										<small class="text-muted">2 bulan, Android, node.js, JAVA, AWS | <a data-toggle="modal" data-target="#pop4" href="#">See More</a></small>
 									</li>
 									<!-- modal 4 -->
 									<div id="pop4" class="modal fade" role="dialog">
@@ -823,7 +823,7 @@
 									</div>
 									<li>
 										Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).<br>
-										<small class="text-muted">4months, Android, node.js, JAVA, AWS | <a data-toggle="modal" data-target="#pop5" href="#">See More</a></small>
+										<small class="text-muted">4 bulan, Android, node.js, JAVA, AWS | <a data-toggle="modal" data-target="#pop5" href="#">See More</a></small>
 									</li>
 									<!-- modal 5 -->
 									<div id="pop5" class="modal fade" role="dialog">
@@ -839,7 +839,7 @@
 									</div>
 									<li>
 										Sistem CRM untuk Pelayanan Jalan Kendaraan Bermotor.<br>
-										<small class="text-muted">3months, PHP Framework, Payment Gateway, AWS | <a data-toggle="modal" data-target="#pop6" href="#">See More</a></small>
+										<small class="text-muted">3 bulan, PHP Framework, Payment Gateway, AWS | <a data-toggle="modal" data-target="#pop6" href="#">See More</a></small>
 									</li>
 									<!-- modal 6 -->
 									<div id="pop6" class="modal fade" role="dialog">
@@ -855,7 +855,7 @@
 									</div>
 									<li>
 										Sistem CRM untuk Pembeli Lelang.<br>
-										<small class="text-muted">2months, PHP Framework, MySQL, AWS | <a data-toggle="modal" data-target="#pop7" href="#">See More</a></small>
+										<small class="text-muted">2 bulan, PHP Framework, MySQL, AWS | <a data-toggle="modal" data-target="#pop7" href="#">See More</a></small>
 									</li>
 									<!-- modal 7 -->
 									<div id="pop7" class="modal fade" role="dialog">
@@ -871,7 +871,7 @@
 									</div>
 									<li>
 										Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah.<br>
-										<small class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop8" href="#">See More</a></small>
+										<small class="text-muted">2.5 bulan, JQuery, HTML5, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop8" href="#">See More</a></small>
 									</li>
 									<!-- modal 8 -->
 									<div id="pop8" class="modal fade" role="dialog">
@@ -887,7 +887,7 @@
 									</div>
 									<li>
 										Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.<br>
-										<small class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop9" href="#">See More</a></small>
+										<small class="text-muted">2.5 bulan, JQuery, HTML5, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop9" href="#">See More</a></small>
 									</li>
 									<!-- modal 9 -->
 									<div id="pop9" class="modal fade" role="dialog">
@@ -903,7 +903,7 @@
 									</div>
 									<li>
 										Pengembangan Sistem Peta Digital.<br>
-										<small class="text-muted">3 months, PHP Framework, MySQL, Google map API, Java Script | <a data-toggle="modal" data-target="#pop10" href="#">See More</a></small>
+										<small class="text-muted">3 bulan, PHP Framework, MySQL, Google map API, Java Script | <a data-toggle="modal" data-target="#pop10" href="#">See More</a></small>
 									</li>
 									<!-- modal 10 -->
 									<div id="pop10" class="modal fade" role="dialog">
@@ -919,7 +919,7 @@
 									</div>
 									<li>
 										Pengembangan Sistem Lelang C2C.<br>
-										<small class="text-muted">2 months, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 | <a data-toggle="modal" data-target="#pop11" href="#">See More</a></small>
+										<small class="text-muted">2 bulan, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 | <a data-toggle="modal" data-target="#pop11" href="#">See More</a></small>
 									</li>
 									<!-- modal 11 -->
 									<div id="pop11" class="modal fade" role="dialog">
@@ -935,7 +935,7 @@
 									</div>
 									<li>
 										Pengembangan Sistem Web CMS Untuk Organisasi Publik.<br>
-										<small class="text-muted">2 months, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop12" href="#">See More</a></small>
+										<small class="text-muted">2 bulan, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop12" href="#">See More</a></small>
 									</li>
 									<!-- modal 12 -->
 									<div id="pop12" class="modal fade" role="dialog">
@@ -952,7 +952,7 @@
 
 									<li>
 										Pengembangan web CMS untuk e-book commerce.<br>
-										<small class="text-muted">2months, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop13" href="#">See More</a></small>
+										<small class="text-muted">2 bulan, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop13" href="#">See More</a></small>
 									</li>
 									<!-- modal 13 -->
 									<div id="pop13" class="modal fade" role="dialog">
@@ -968,7 +968,7 @@
 									</div>
 									<li>
 										Sistem Portal Lowongan Pekerjaan.<br>
-										<small class="text-muted">2 months, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop14" href="#">See More</a></small>
+										<small class="text-muted">2 bulan, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop14" href="#">See More</a></small>
 									</li>
 									<!-- modal 14 -->
 									<div id="pop14" class="modal fade" role="dialog">
@@ -984,7 +984,7 @@
 									</div>
 									<li>
 										Web Dengan Sistem Rekrutmen.<br>
-										<small class="text-muted">3months, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop15" href="#">See More</a></small>
+										<small class="text-muted">3 bulan, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop15" href="#">See More</a></small>
 									</li>
 									<!-- modal 15 -->
 									<div id="pop15" class="modal fade" role="dialog">
