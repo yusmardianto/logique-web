@@ -100,7 +100,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-							<a href="product.php">
+							<a href="/jp/product.php">
 								<div class="img-product"></div>
 								プロダクト
 							</a>
@@ -143,7 +143,7 @@ if(isset($_POST['submitted']))
 					<div class="language-btn">
 						<ul class="list-inline">
 							<li><a href="/en/services/system-dev.php">EN</a></li>
-							<li><a href="/layanan/system-dev.php">ID</a></li>
+							<li><a href="/layanan/pembuatan-sistem-web.php">ID</a></li>
 							<li class="active"><a href="#">JP</a></li>
 						</ul>
 					</div>
@@ -574,7 +574,7 @@ if(isset($_POST['submitted']))
 					</div>
 				</div>
 				<div class="text-center btn-container-contact"  >
-					<a href="contact.php" class="btn btn-contact-us-black">
+					<a href="/jp/contact.php" class="btn btn-contact-us-black">
 						インドネシアでシステム開発や運用が必要でしたらお気軽にご相談ください
 					</a>
 				</div>
