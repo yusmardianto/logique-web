@@ -29,10 +29,9 @@
 	<style type="text/css">
 		html, body {
 		    font-family: 'M PLUS 1p', sans-serif;
-		    background-color: #fff;
-		    overflow-x: hidden;
+ 
 		}
-		
+
 	</style>
 </head>
 	<body class="price-range-page">
