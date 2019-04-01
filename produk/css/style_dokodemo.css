@@ -40,6 +40,9 @@ p{margin-bottom: 20px;font-size:18px}
 p:last-child{margin-bottom: 0;}
 .anton{font-family: 'Anton', sans-serif;}
 
+body{
+  padding-left: 95px;
+}
 header{
 	background:url('../img/dokodemo-kerja/bg-header.png') no-repeat;
 	background-size:cover;
@@ -223,6 +226,7 @@ footer p{padding: 22px 0px;}
 .navbar-default.navbar-dokdem .navbar-toggle {border-color: #000;border-radius: 0;}
 .navbar-default.navbar-dokdem .navbar-toggle .icon-bar {background-color: #000;}
 .navbar-nav>li{border-bottom: 3px solid transparent;}
+.begin-dokdem{text-align:center}
 
 /*Navigation left*/
 .logique-nav {
@@ -394,8 +398,43 @@ footer p{padding: 22px 0px;}
 .logique-nav.in-jp a {
   font-size: 12px;
 }
-/*end navigation*/
-/*footer*/
+.language-btn {
+  padding: 7px 0;
+}
+.language-btn ul {
+  margin-bottom: 0;
+}
+.language-btn li{
+  padding-left: 10px;
+}
+.language-btn li a{
+  color: #fff;
+  font-size: 11px;
+  font-weight: bold;
+    padding: 0 5px;
+}
+.language-btn li.active a{
+  display: block;
+  background: #ffc914;
+  border-radius: 10px;
+  color:#111;
+  padding: 0 5px;
+}
+.language-btn li  a:hover{
+  display: block;
+  background: #ffc914;
+  border-radius: 10px;
+  color:#111;
+  padding: 0 5px;
+  text-decoration: none;
+}
+.margin-for-nav {
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    position: relative;
+}
 footer {
     padding: 30px 0 10px;
     background-color: #212425;
@@ -411,7 +450,16 @@ footer h6 {
     font-size: 14px;
     line-height: 30px
 }
-
+.backdrop-test {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    z-index: 999;
+    opacity: .7;
+    display: none;
+    top: 0
+}
 .footer-title,
 .link-footer-nav,
 .title-bg-grey {
@@ -494,7 +542,7 @@ ul.medsos-new li a{
 	.nav-lang li{float: none!important;margin-bottom: 3px;}
 	.navbar-dokdem .navbar-nav{margin-top: 24px;margin-left: 0;}
 	.logo-logique-header {margin-top: 27px;width: 150px;}
-	.nav>li>a{padding:10px}
+	.nav>li>a{padding:10px;font-size: 15px;}
 	.pl-25{padding-left:0;min-height:0!important}
 	.pr-25{padding-right:0;min-height:0!important}
 	.bg-masalah1,.bg-masalah2,.bg-masalah3{background:none}
@@ -506,6 +554,9 @@ ul.medsos-new li a{
 	.title-fitur{width:100%}
 	.dengan-fitur{padding-right: 0;}
 	.bg-one-fitur:last-child{background: #edb61a;margin-top: 20px;}
+}
+@media (max-width:1199px) {
+  .poster-main{width: 100%!important;overflow: hidden;}
 }
 @media (max-width:991px) {
 	.card-harga{margin-bottom:10px;}
@@ -524,14 +575,107 @@ ul.medsos-new li a{
 	footer img{float:none;display:block;margin:auto}
 	.cr{padding-left:0}
 	footer{padding: 15px 0;}
-	.bg-black .title{margin-bottom: 15px;font-size: 22px;}
+	.bg-black .title{margin-bottom: 15px;}
 	.nav-lang li {float: left!important;margin-bottom: 0;margin-top: 0;}
 	.navbar-dokdem .navbar-nav {margin-top: -70px;margin-left: 60px;}
 	.logo-logique-header {margin-top: 0;}
 }
+@media (min-width:991px) {
+  .row-center-md {
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        align-items: center;
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -moz-box;
+        display: -moz-flex;
+        display: -ms-flexbox;
+        display: flex
+    }
+}
+@media (max-width:1024px) and (min-width: 991px) {
+        body.dokodemo .container{
+      width: auto;
+    }
+    .logique-logo-link img{
+      float: none !important;
+    }
+    .btn-lang{
+      float: none !important;
+      display: inline-block;
+    }
+    .btn-lang ul li{ 
+      display: inline-block;
+      margin-right: 2px;
+     }
+  }
+  @media (max-width:990px) {
+    body.dokodemo .container{
+    width: auto;
+    }
+    .btn-lang ul li{ 
+    display: inline-block;
+    margin-right: 2px;
+    }
+    .btn-lang {
+    margin-right: 10px;
+    }
+    .nav.navbar-nav{
+    float: left;
+    width: 100%;
+    margin:0 ;
+    text-align: center;
+
+    }
+    .nav.navbar-nav li{
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+
+    }
+    .navbar-default.navbar-dokdem .navbar-collapse{
+      padding: 0;
+      position: relative; 
+    }
+    .nav.navbar-nav li a{
+    padding:10px 5px;
+    }
+    .nav.navbar-nav li:first-child a{
+      padding-left: 0;
+    }
+    .nav.navbar-nav li:last-child a{
+    padding-right: 0;
+    }
+    .logique-logo-link{
+      position: absolute;
+      top: 10px;
+      right:0px; 
+    }
+    .btn-lang{
+      position: absolute;
+      top: 10px;
+      right:170px;
+    }
+    .logo-logique-header{
+      margin:0;
+    }
+  }
 @media (max-width:767px) {
-	.harga .title {font-size: 30px;}
-	.bg-blue .title {font-size: 22px;}
+  body{
+    padding:0;
+  }
+  .nav.navbar-nav {
+    float: left;
+  }
+  .nav.navbar-nav li {
+       display: block;
+  }
+    .backdrop-test {
+        display: block
+    }
+	.bg-blue .title {font-size: 25px;}
 	.bg-black div, .bg-black span {font-size: 20px;}
 	.bg-black .title2 {font-size: 25px;}
 	.bg-black .title2 .blue {font-size: 25px;}
@@ -553,6 +697,34 @@ ul.medsos-new li a{
 	.one-fitur{margin: 10px 0 0 0;}
 	.btn-coba{min-width: 250px;}
 }
+@media (max-width: 480px){
+  .link-footer-nav {
+    margin-bottom: 20px;
+  }
+  .nav-lp .navbar-collapse {
+    padding: 0;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    margin-top: -1px;
+  }
+  .nav-lang {
+    margin-left:0; 
+  }
+  .nav-lp .navbar-toggle.collapsed{
+    top: 25px;
+  }
+  .navbar-header> button{
+    display: none;
+  }
+  .logique-nav{
+    right: 0;
+    left: auto;
+  }
+  .logique-nav .text-center{
+    padding-bottom: 6px;
+  }
+}
 @media (max-width:375px) {
 	.nav-lang {margin-left: 25px;}
 }
@@ -562,21 +734,6 @@ ul.medsos-new li a{
 @media (max-width:320px) {
 	.nav-lang {margin-left: 0;}
 	.nav-lang li{margin-right: 6px;}
-}
-@media (min-width:991px) {
-	.row-center-md {
-        -webkit-box-align: center;
-        -ms-flex-align: center;
-        -webkit-align-items: center;
-        -moz-align-items: center;
-        align-items: center;
-        display: -webkit-box;
-        display: -webkit-flex;
-        display: -moz-box;
-        display: -moz-flex;
-        display: -ms-flexbox;
-        display: flex
-    }
 }
 
 .poster-main {

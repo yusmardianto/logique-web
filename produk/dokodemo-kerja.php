@@ -181,9 +181,9 @@ if(isset($_POST['submitted']))
 					  <li><a href="#price" class="smooth li-mt">Harga</a></li>　
 					  <li><a href="#divForm" class="smooth li-mt">Hubungi Kami</a></li>
 					</ul>
-					<a href="/" target="_blank"><img class="pull-right img-responsive center-block logo-logique-header" src="img/dokodemo-kerja/logo_logique.png"/></a>
-					<div class="pull-right hidden-xs">
-						<ul class="nav-lang">
+					<a class="logique-logo-link" href="/" target="_blank"><img class="pull-right img-responsive center-block logo-logique-header" src="img/dokodemo-kerja/logo_logique.png"/></a>
+					<div class="pull-right btn-lang">
+						<ul class="nav-lang hidden-xs">
 							<li class="pull-left active">IND</li>
 							<li class="pull-left"><a href="/en/product/dokodemo-kerja.php">ENG</a></li>
 							<li class="pull-left"><a href="/jp/product/dokodemo-kerja.php">JPN</a></li>
