@@ -79,7 +79,7 @@ ga('send', 'pageview');
 </head>
 	<body class="dentalpage">
 		<div class="wrapper">
-			<div class="nav-lp">
+			<header class="head-banner">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
@@ -140,8 +140,6 @@ ga('send', 'pageview');
 						</div>
 					</div>
 				</div>
-			</div>
-			<header class="head-banner">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-7 col-sm-7 text-center">
