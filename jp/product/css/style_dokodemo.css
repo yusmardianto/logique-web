@@ -234,7 +234,7 @@ footer p{padding: 22px 0px;}
     font-weight: 300;
     transition: all .25s;
     overflow: auto;
-  left: 0;
+    left: 0;
 }
 .nav-lp .navbar-collapse {
     padding: 0;
@@ -284,7 +284,7 @@ footer p{padding: 22px 0px;}
     color: #fff;
 }
 .logique-nav .text-center {
-    padding: 8px 10px;
+    padding: 5px 10px;
 }
 .logique-nav .text-center:focus, .logique-nav .text-center:hover {
     background: #666;

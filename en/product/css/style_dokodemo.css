@@ -15,10 +15,10 @@ fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,ar
 figure, figcaption, footer, header, hgroup,menu, nav, output, ruby, section, summary,time, mark, audio, video {
     margin: 0;
     padding: 0;
-	font-size:16px;
+    font-size:14px;
     border: 0;
-	font-family: 'Roboto', serif;
-	font-weight:300;
+    font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
+    line-height: 1.5;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}
@@ -222,6 +222,271 @@ footer p{padding: 22px 0px;}
 .navbar-default.navbar-dokdem .navbar-toggle {border-color: #000;border-radius: 0;}
 .navbar-default.navbar-dokdem .navbar-toggle .icon-bar {background-color: #000;}
 .navbar-nav>li{border-bottom: 3px solid transparent;}
+
+/*Navigation left*/
+.logique-nav {
+    width: 95px;
+    background: rgba(255, 202, 19, .9);
+    height: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    perspective: 1000px;
+    padding: 0;
+    font-weight: 300;
+    transition: all .25s;
+    overflow: auto;
+    left: 0;
+}
+.nav-lp .navbar-collapse {
+    padding: 0;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    margin-top: -1px;
+}
+.vcenter {
+    display: flex;
+    align-items: center;
+}
+ 
+.card section{margin-left:0}
+
+.nav-lp .navbar-toggle.collapsed {
+    background-color: #ffca13!important;
+    position: relative!important;
+    right: 0!important;
+    top: -80px;
+}
+.nav-lp .navbar-toggle {
+    background-color: #ffca13!important;
+    z-index: 9999;
+    position: fixed;
+    right: 80px;
+    border-radius: 0;
+    height: 34px;
+    top: -7px;
+}
+.nav-lp .navbar-toggle.collapsed .icon-bar.first {transform: rotate(0)!important;}
+.nav-lp .navbar-toggle.collapsed .icon-bar.second {background: #000!important;}
+.nav-lp .navbar-toggle.collapsed .icon-bar.third {transform: rotate(0)!important;margin-top: 4px!important;}
+.nav-lp .navbar-toggle .icon-bar {background: #000;transition: all .5s;}
+.nav-lp .navbar-toggle .icon-bar.first {transform: rotate(45deg);}
+.nav-lp .navbar-toggle .icon-bar.second {background: 0 0;}
+.nav-lp .navbar-toggle .icon-bar.third {transform: rotate(-45deg);margin-top: -8px;}
+.logique-nav a {
+  color: #111;
+  font-size: 14px;
+}
+.logique-nav .text-center.active, .logique-nav .text-center.active:focus, .logique-nav .text-center.active:hover {
+    background: #212425;
+ 
+}
+.logique-nav .text-center.active a, .logique-nav .text-center.active:focus a, .logique-nav .text-center.active:hover a, .logique-nav a:hover {
+    color: #fff;
+}
+.logique-nav .text-center {
+    padding: 5px 10px;
+}
+.logique-nav .text-center:focus, .logique-nav .text-center:hover {
+    background: #666;
+}
+.img-about,
+.img-blog,
+.img-career,
+.img-contact,
+.img-home,
+.img-portfolio,
+.img-services , .img-product{
+    height: 44px;
+    width: 44px
+}
+.img-home {
+    margin: auto;
+    background: url(/img/nav-img.png) -2px -4px no-repeat
+}
+.logique-nav .text-center.active .img-home,
+.logique-nav .text-center.active:focus .img-home,
+.logique-nav .text-center.active:hover .img-home,
+.logique-nav .text-center:focus .img-home,
+.logique-nav .text-center:hover .img-home {
+    background: url(/img/nav-img-white.png) -2px -4px no-repeat
+}
+.img-about {
+    margin: auto;
+    background: url(/img/nav-img.png) -2px -62px no-repeat
+}
+.logique-nav .text-center.active .img-about,
+.logique-nav .text-center.active:focus .img-about,
+.logique-nav .text-center.active:hover .img-about,
+.logique-nav .text-center:focus .img-about,
+.logique-nav .text-center:hover .img-about {
+    background: url(/img/nav-img-white.png) -2px -62px no-repeat
+}
+.img-portfolio {
+    margin: auto;
+    background: url(/img/nav-img.png) -2px -123px no-repeat
+}
+.logique-nav .text-center.active .img-portfolio,
+.logique-nav .text-center.active:focus .img-portfolio,
+.logique-nav .text-center.active:hover .img-portfolio,
+.logique-nav .text-center:focus .img-portfolio,
+.logique-nav .text-center:hover .img-portfolio {
+    background: url(/img/nav-img-white.png) -2px -123px no-repeat
+}
+.img-services {
+    margin: auto;
+    background: url(/img/nav-img.png) -2px -184px no-repeat
+}
+.logique-nav .text-center.active .img-services,
+.logique-nav .text-center.active:focus .img-services,
+.logique-nav .text-center.active:hover .img-services,
+.logique-nav .text-center:focus .img-services,
+.logique-nav .text-center:hover .img-services {
+    background: url(/img/nav-img-white.png) -2px -184px no-repeat
+}
+.img-career {
+    margin: auto;
+    background: url(/img/nav-img.png) -2px -245px no-repeat
+}
+.logique-nav .text-center.active .img-career,
+.logique-nav .text-center.active:focus .img-career,
+.logique-nav .text-center.active:hover .img-career,
+.logique-nav .text-center:focus .img-career,
+.logique-nav .text-center:hover .img-career {
+    background: url(/img/nav-img-white.png) -2px -245px no-repeat
+}
+.img-contact {
+    margin: auto;
+    background: url(/img/nav-img.png) -2px -308px no-repeat
+}
+.logique-nav .text-center.active .img-contact,
+.logique-nav .text-center.active:focus .img-contact,
+.logique-nav .text-center.active:hover .img-contact,
+.logique-nav .text-center:focus .img-contact,
+.logique-nav .text-center:hover .img-contact {
+    background: url(/img/nav-img-white.png) -2px -308px no-repeat
+}
+.img-blog {
+    margin: auto;
+    background: url(/img/nav-img.png) -2px -374px no-repeat
+}
+.logique-nav .text-center.active .img-blog,
+.logique-nav .text-center.active:focus .img-blog,
+.logique-nav .text-center.active:hover .img-blog,
+.logique-nav .text-center:focus .img-blog,
+.logique-nav .text-center:hover .img-blog {
+    background: url(/img/nav-img-white.png) -2px -374px no-repeat
+}
+.img-product {
+    margin: auto;
+    background: url(/img/nav-img.png) -2px -440px no-repeat;
+
+}
+.logique-nav .text-center.active .img-product,
+.logique-nav .text-center.active:focus .img-product,
+.logique-nav .text-center.active:hover .img-product,
+.logique-nav .text-center:focus .img-product,
+.logique-nav .text-center:hover .img-product {
+    background: url(/img/nav-img-white.png) -2px -440px no-repeat
+}
+.logique-nav.in-jp a {
+  font-size: 12px;
+}
+/*end navigation*/
+/*footer*/
+footer {
+    padding: 30px 0 10px;
+    background-color: #212425;
+    position: relative;
+    color: #fff;
+    font-weight: 300;
+    font-size: 12px;
+    text-align: justify
+}
+
+footer h5,
+footer h6 {
+    font-size: 14px;
+    line-height: 30px
+}
+
+.footer-title,
+.link-footer-nav,
+.title-bg-grey {
+    font-weight: 700
+}
+.link-footer-nav ul li{
+    list-style: none;
+
+}
+.link-footer-nav ul li  ul{
+    padding-left: 20px;
+}
+.link-footer-nav li a{
+    font-weight: normal;
+    padding-bottom: 10px;
+    display: block;
+}
+.link-footer-nav .have-submenu a{
+    padding: 8px 0;
+    line-height: normal;
+
+}
+.link-footer-nav > ul > li{
+    border-bottom: 1px dotted #666;
+}
+.link-footer-nav > ul > li > a{
+    padding: 8px 0;
+    line-height: normal;
+    }
+    
+.link-footer-nav > ul > li.have-submenu > ul > li:first-child  > a{
+    padding-top: 0;
+ 
+}
+.link-footer-nav > ul > li.have-submenu > ul > li:last-child  > a{
+    padding-bottom: 8px;
+    }
+.link-footer-nav .have-submenu li.have-submenu li a{
+    font-size: 12px;
+    padding: 1px 0;
+    
+}
+.link-footer-nav .have-submenu li li {
+    list-style: disc;
+    
+}
+footer a {
+    color: #fff!important
+}
+
+footer a:hover {
+    color: #ffca13!important
+}
+ul.medsos-new li{
+    display: inline-block;
+    padding:0 5px;
+}
+footer div , footer a, ul li, footer span, footer p{
+  font-size: 14px;
+  line-height: 24px;
+}
+ul.medsos-new{
+    padding: 0;
+}
+ul.medsos-new li a{
+    font-size: 26px;
+}
+
+.link-footer {
+    line-height: 30px;
+    text-align: left
+}
+
+.footer-title {
+    font-size: 16px
+}
 
 @media (max-width:1199px) {
 	.nav-lang {margin-top: 8px;}

@@ -88,7 +88,70 @@ if(isset($_POST['submitted']))
 		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KT7GBKC"
 		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
+		
 		<header>
+			<div class="nav-lp">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar first"></span>
+					<span class="icon-bar second"></span>
+					<span class="icon-bar third"></span> 
+				</button>
+				<div class="collapse navbar-collapse" id="myNavbar">
+					<div class="backdrop-test"></div>
+					<div class="logique-nav">
+						<div class="margin-for-nav">
+							<div class="text-center">
+								<a href="/">
+									<div class="img-home"></div>
+									Beranda
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/tentang-kami.php">
+									<div class="img-about"></div>
+									Tentang Kami
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/portofolio.php">
+									<div class="img-portfolio"></div>
+									Portfolio
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/layanan.php">
+									<div class="img-services"></div>
+									Layanan
+								</a>
+							</div>
+						 	<div class="text-center active">
+								<a href="/produk.php">
+									<div class="img-product"></div>
+									Produk
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/karir.php">
+									<div class="img-career"></div>
+									Karir
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/hubungi-kami.php">
+									<div class="img-contact"></div>
+									Hubungi Kami
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="https://www.logique.co.id/blog/" target="_blank">
+									<div class="img-blog"></div>
+									Blog
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 			<nav class="navbar navbar-default navbar-dokdem">
 				<div class="container">
 				  <div class="navbar-header">
@@ -796,6 +859,119 @@ if(isset($_POST['submitted']))
 		
 		<a href="#" class="scrollToTop">Back to Top</a>
 		<footer>
+			<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>
+			<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-105878648-1', 'auto');
+			ga('send', 'pageview');
+
+			</script>
+			<div class="container">
+			  <div class="row">
+			    <div class="col-sm-9 col-sm-push-3">
+			      <div class="row">
+			        <div class="col-sm-4 link-footer-nav">
+			          <ul>
+			            <li><a href="/index.php">Beranda</a></li>
+			            <li><a href="/tentang-kami.php">Tentang Kami</a> </li>
+			            <li  class="have-submenu"><a href="/layanan.php">Layanan</a>
+			              <ul>
+			                <li class="have-submenu"><a href="/layanan/mekanisme-pembuatan-website/" target="_blank">Jasa Pembuatan Website</a>
+			                  <ul>
+			                    <li><a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank">  Pembuatan Website Career</a> </li>
+			                    <li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank"> Website Klinik Gigi </a></li>
+			                  </ul>
+			                </li>
+			                <li><a href="/layanan/pembuatan-sistem-web/" target="_blank">Jasa Pengembangan Sistem Web</a></li>
+			                <li><a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank">Pengembangan Aplikasi Mobile </a></li>
+			                <li class="text-left"><a href="/layanan/penetration-testing/" target="_blank">Pengetesan Keamanan Website (Pentest) </a></li>
+			              </ul>
+			            </li>
+			          </ul>
+			
+			           
+			        </div>
+			        <div class="col-sm-4 link-footer-nav">
+			           <ul>
+			            <li  class="have-submenu">
+			              <a href="/produk.php">Produk Kami</a>
+			              <ul>
+			                <li><a href="/produk/dokodemo-kerja.php" target="_blank">
+			                  Dokodemo-Kerja  <br><span style="font-size: 11px;">(Sistem aplikasi bagi pekerja remote) </span> </a>
+			                </li>
+			                <li>
+			                  <a href="/produk/nippo.php" target="_blank"> Nippo <br> <span style="font-size: 11px;">(Sistem aplikasi laporan pegawai harian)</span>  </a>
+			                </li>
+			                <li>
+			                  <a href="/produk/sugoi-saiyo.php" target="_blank"> Sugoi Saiyo <br> <span style="font-size: 11px;">(Sistem aplikasi perekrutan pegawai)</span></a>
+			                </li>
+			              </ul>
+			            </li>
+			            <li><a href="/portofolio.php">Portofolio</a></li>
+			            <li  class="have-submenu"><a href="/karir.php">Karir</a>
+			              <ul>
+			                <li><a href="/career/">Join LOGIQUE</a></li>
+			              </ul>
+			            </li>
+			            <li><a href="/hubungi-kami.php">Hubungi Kami</a></li>
+			           </ul>
+			            
+			            <!-- <h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Restoran </a></h6> -->
+			             
+			        </div>
+			        <div class="col-sm-4 link-footer">
+			        	<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
+			           <p style="margin-bottom: 0; padding-bottom: 0px; padding-top: 0px;">
+			           	<strong>Dokodemo-Kerja</strong> adalah sebuah tool yang dapat membuat karyawanmu bekerja remote, meningkatkan produktivitas dengan menghilangkan aktivitas yang membuang waktu dan tenaga, serta mengurangi beban HR dalam memantau kerjaan karyawan. Anda juga dapat menyesuaikan Dokodemo-Kerja berdasarkan kebutuhan perusahaan Anda. Hubungi kami jika Anda tertarik.
+			           </p>
+			
+			          <div class="footer-title"  style="margin-top: 20px; margin-bottom: 0;">Media Sosial</div>
+			         
+			            <ul class="medsos-new">
+			              <li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
+			              <li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+			              <li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+			              <li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+			            </ul>
+			       
+			        </div>
+			      </div>
+						<br>
+			    </div>
+			    <div class="col-sm-3 col-sm-pull-9">
+			      <div itemscope itemtype="http://schema.org/Organization">
+			        <div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
+			        <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+			        <span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br>Jalan Tb. Simatupang No. 5 <br/>
+			        Ragunan, Ps. Minggu,  Jakarta Selatan, <br>Indonesia </span><span itemprop="postalCode">12550</span>
+			        <br><br>
+			        &nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+			        <br>
+			        <a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
+			        <br><br>
+			        </div>
+			      </div> 
+			      <div class="provacy-policy-container">
+			        <a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
+			      </div>
+
+			    </div>
+			  </div>
+			  <div class="row">
+			    <div class="col-sm-12">
+			      <div itemscope itemtype="http://schema.org/CreativeWork">
+			        <div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>
+			        <span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
+			      </div>
+			    </div>
+			  </div>
+			</div>
+		</footer>
+		<!-- <footer>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-md-push-6">
@@ -834,7 +1010,7 @@ if(isset($_POST['submitted']))
 					</div>
 				</div>
 			</div>
-		</footer>
+		</footer> -->
 		
 		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 		<script src="/js/bootstrap.min.js"></script>
