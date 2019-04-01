@@ -79,6 +79,68 @@ ga('send', 'pageview');
 </head>
 	<body class="dentalpage">
 		<div class="wrapper">
+			<div class="nav-lp">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar first"></span>
+					<span class="icon-bar second"></span>
+					<span class="icon-bar third"></span> 
+				</button>
+				<div class="collapse navbar-collapse" id="myNavbar">
+					<div class="backdrop-test"></div>
+					<div class="logique-nav">
+						<div class="margin-for-nav">
+							<div class="text-center">
+								<a href="/">
+									<div class="img-home"></div>
+									Beranda
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/tentang-kami.php">
+									<div class="img-about"></div>
+									Tentang Kami
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/portofolio.php">
+									<div class="img-portfolio"></div>
+									Portfolio
+								</a>
+							</div>
+							<div class="text-center active">
+								<a href="/layanan.php">
+									<div class="img-services"></div>
+									Layanan
+								</a>
+							</div>
+						 	<div class="text-center">
+								<a href="/produk.php">
+									<div class="img-product"></div>
+									Produk
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/karir.php">
+									<div class="img-career"></div>
+									Karir
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/hubungi-kami.php">
+									<div class="img-contact"></div>
+									Hubungi Kami
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="https://www.logique.co.id/blog/" target="_blank">
+									<div class="img-blog"></div>
+									Blog
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 			<header class="head-banner">
 				<div class="container">
 					<div class="row">
@@ -304,6 +366,11 @@ ga('send', 'pageview');
 										<div class="a-caption">Template 5</div>
 									</a>
 									<p>Template ini special untuk anak kecil hingga bayi dengan warna cerah membuat target market tidak takut lagi untuk ke dokter gigi.</p>
+								</div>
+								<div class="col-md-4 col-sm-4">
+									<div class="more-template">						
+											<a href="#">More Templates</a>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -597,7 +664,7 @@ ga('send', 'pageview');
 					<div class="row">
 						<div class="col-sm-8 col-sm-offset-2">
 							<h2>Punya pertanyaan dan perlu informasi lebih lanjut ?</h2>
-							<div class="contactform-container">
+							<div class="contact-form-container">
 							<?php if(isset($msg))
 		                    {
 		                    echo $msg;
@@ -653,40 +720,102 @@ ga('send', 'pageview');
 				</div> 
 			</section>
 			<footer>
-				<div class="footer-container">
-					<div class="container">
-					<div class="row">
-						<div class="col-md-7 col-sm-8  col-md-offset-1">
-							<h2>Tentang Kami </h2>
-							<p style="line-height: 24px; text-align: justify;">
-							Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE
-							menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan
-							website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa
-							pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan.
-							Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website
-							perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan
-							kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>
-						</div>
-						 
-						<div class="col-md-3 col-sm-4">
-							
-							<a href="https://www.logique.co.id/" target="_blank"><img src="assets/img/img-dentist/logo_logique.png" alt="logo-footer" class="img-responsive"></a>
-							<div class="addres-footer">
-								<p > 	
-								Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5, <br>
-								Ragunan Ps. Minggu,<br> Jakarta Selatan, Indonesia 12550</p>
-								<img src="assets/img/img-dentist/email.png" style="width: 30px;">
-							</div>
-						</div>
-						 
-						
-					</div>
-					</div>
-				</div>
-				<div class="copyright-container">
-					<div class="container text-center">
-						&copy; 2017 Logique Digital Indonesia
-					</div>
+				<div class="container">
+				  <div class="row">
+				    <div class="col-sm-9 col-sm-push-3">
+				      <div class="row">
+				        <div class="col-sm-4 link-footer-nav">
+				          <ul>
+				            <li><a href="/index.php">Beranda</a></li>
+				            <li><a href="/tentang-kami.php">Tentang Kami</a> </li>
+				            <li  class="have-submenu"><a href="/layanan.php">Layanan</a>
+				              <ul>
+				                <li class="have-submenu"><a href="/layanan/mekanisme-pembuatan-website/" target="_blank">Jasa Pembuatan Website</a>
+				                  <ul>
+				                    <li><a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank">  Pembuatan Website Career</a> </li>
+				                    <li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank"> Website Klinik Gigi </a></li>
+				                  </ul>
+				                </li>
+				                <li><a href="/layanan/pembuatan-sistem-web/" target="_blank">Jasa Pengembangan Sistem Web</a></li>
+				                <li><a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank">Pengembangan Aplikasi Mobile </a></li>
+				                <li class="text-left"><a href="/layanan/penetration-testing/" target="_blank">Pengetesan Keamanan Website (Pentest) </a></li>
+				              </ul>
+				            </li>
+				          </ul>
+				
+				           
+				        </div>
+				        <div class="col-sm-4 link-footer-nav">
+				           <ul>
+				            <li  class="have-submenu">
+				              <a href="/produk.php">Produk Kami</a>
+				              <ul>
+				                <li><a href="/produk/dokodemo-kerja.php" target="_blank">
+				                  Dokodemo-Kerja  <br><span style="font-size: 11px;">(Sistem aplikasi bagi pekerja remote) </span> </a>
+				                </li>
+				                <li>
+				                  <a href="/produk/nippo.php" target="_blank"> Nippo <br> <span style="font-size: 11px;">(Sistem aplikasi laporan pegawai harian)</span>  </a>
+				                </li>
+				                <li>
+				                  <a href="/produk/sugoi-saiyo.php" target="_blank"> Sugoi Saiyo <br> <span style="font-size: 11px;">(Sistem aplikasi perekrutan pegawai)</span></a>
+				                </li>
+				              </ul>
+				            </li>
+				            <li><a href="/portofolio.php">Portofolio</a></li>
+				            <li  class="have-submenu"><a href="/karir.php">Karir</a>
+				              <ul>
+				                <li><a href="/career/">Join LOGIQUE</a></li>
+				              </ul>
+				            </li>
+				            <li><a href="/hubungi-kami.php">Hubungi Kami</a></li>
+				           </ul>
+				            
+				            <!-- <h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Restoran </a></h6> -->
+				             
+				        </div>
+				        <div class="col-sm-4 link-footer">
+				           <p >Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/mekanisme-pembuatan-website/" target="_blank"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>
+				
+				          <div class="footer-title"  style="margin-top: 20px; margin-bottom: 0;">Media Sosial</div>
+				         
+				            <ul class="medsos-new">
+				              <li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
+				              <li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+				              <li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+				              <li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+				            </ul>
+				       
+				        </div>
+				      </div>
+				
+				    </div>
+				    <div class="col-sm-3 col-sm-pull-9">
+				      <div itemscope itemtype="http://schema.org/Organization">
+				        <div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
+				        <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				        <span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br>Jalan Tb. Simatupang No. 5 <br/>
+				        Ragunan, Ps. Minggu,  Jakarta Selatan, <br>Indonesia </span><span itemprop="postalCode">12550</span>
+				        <br><br>
+				        &nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+				        <br>
+				        <a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
+				        <br><br>
+				        </div>
+				      </div> 
+				      <div class="provacy-policy-container">
+				        <a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
+				      </div>
+
+				    </div>
+				  </div>
+				  <div class="row">
+				    <div class="col-sm-12">
+				      <div itemscope itemtype="http://schema.org/CreativeWork">
+				        <div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>
+				        <span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
+				      </div>
+				    </div>
+				  </div>
 				</div>
 			</footer>
 		</div>

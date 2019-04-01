@@ -102,14 +102,14 @@ if(isset($_POST['submitted']))
 									制作実績
 								</a>
 							</div>
-							<div class="text-center   active">
+							<div class="text-center">
 								<a href="/jp/services.php">
 									<div class="img-services"></div>
 									サービス
 								</a>
 							</div>
-							 	<div class="text-center">
-							<a href="product.php">
+							 	<div class="text-center active">
+							<a href="/jp/product.php">
 								<div class="img-product"></div>
 								プロダクト
 							</a>
