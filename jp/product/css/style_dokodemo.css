@@ -20,6 +20,7 @@ figure, figcaption, footer, header, hgroup,menu, nav, output, ruby, section, sum
 	font-family: 'Roboto', serif;
 	font-weight:300;
 }
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}
 ol, ul {list-style: none;}
@@ -40,6 +41,9 @@ p{margin-bottom: 20px;font-size:18px}
 p:last-child{margin-bottom: 0;}
 .anton{font-family: 'Anton', sans-serif;}
 
+body{
+  padding-left: 95px;
+}
 header{background:#fff;}
 header p{color:#000;}
 .content-header{font-size:18px}
@@ -421,6 +425,13 @@ footer p{padding: 22px 0px;}
   padding: 0 5px;
   text-decoration: none;
 }
+.margin-for-nav {
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    position: relative;
+}
 footer {
     padding: 30px 0 10px;
     background-color: #212425;
@@ -436,7 +447,16 @@ footer h6 {
     font-size: 14px;
     line-height: 30px
 }
-
+.backdrop-test {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    z-index: 999;
+    opacity: .7;
+    display: none;
+    top: 0
+}
 .footer-title,
 .link-footer-nav,
 .title-bg-grey {
@@ -513,6 +533,7 @@ ul.medsos-new li a{
 .footer-title {
     font-size: 16px
 }
+
 @media (max-width:1199px) {
 	.nav-lang {margin-top: 8px;}
 	.nav-lang li{float: none!important;margin-bottom: 3px;}
@@ -571,7 +592,86 @@ ul.medsos-new li a{
         display: flex
     }
 }
+@media (max-width:1024px) and (min-width: 991px) {
+        body.dokodemo .container{
+      width: auto;
+    }
+    .logique-logo-link img{
+      float: none !important;
+    }
+    .btn-lang{
+      float: none !important;
+      display: inline-block;
+    }
+    .btn-lang ul li{ 
+      display: inline-block;
+      margin-right: 2px;
+     }
+  }
+  @media (max-width:990px) {
+    body.dokodemo .container{
+    width: auto;
+    }
+    .btn-lang ul li{ 
+    display: inline-block;
+    margin-right: 2px;
+    }
+    .btn-lang {
+    margin-right: 10px;
+    }
+    .nav.navbar-nav{
+    float: left;
+    width: 100%;
+    margin:0 ;
+    text-align: center;
+
+    }
+    .nav.navbar-nav li{
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+
+    }
+    .navbar-default.navbar-dokdem .navbar-collapse{
+      padding: 0;
+      position: relative; 
+    }
+    .nav.navbar-nav li a{
+    padding:10px 5px;
+    }
+    .nav.navbar-nav li:first-child a{
+      padding-left: 0;
+    }
+    .nav.navbar-nav li:last-child a{
+    padding-right: 0;
+    }
+    .logique-logo-link{
+      position: absolute;
+      top: 10px;
+      right:0px; 
+    }
+    .btn-lang{
+      position: absolute;
+      top: 10px;
+      right:170px;
+    }
+    .logo-logique-header{
+      margin:0;
+    }
+  }
 @media (max-width:767px) {
+  body{
+    padding:0;
+  }
+  .nav.navbar-nav {
+    float: left;
+  }
+  .nav.navbar-nav li {
+       display: block;
+  }
+    .backdrop-test {
+        display: block
+    }
 	.bg-blue .title {font-size: 25px;}
 	.div-form .title {font-size: 16px;}
 	.begin-dokdem{text-align:left}
@@ -602,7 +702,23 @@ ul.medsos-new li a{
     z-index: 99;
     width: 100%;
     margin-top: -1px;
-}
+  }
+  .nav-lang {
+    margin-left:0; 
+  }
+  .nav-lp .navbar-toggle.collapsed{
+    top: 25px;
+  }
+  .navbar-header> button{
+    display: none;
+  }
+  .logique-nav{
+    right: 0;
+    left: auto;
+  }
+  .logique-nav .text-center{
+    padding-bottom: 6px;
+  }
 }
 @media (max-width:375px) {
 	.nav-lang {margin-left: 25px;}
