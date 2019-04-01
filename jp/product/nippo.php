@@ -46,6 +46,7 @@ if(isset($_POST['submitted']))
   <title>日報を通じて人事評価＆原価工数管理を行うール | NIPPO | LOGIQUEデジタルインドネシア</title>
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style_nippo.css">
+  <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
   <style type="text/css">
   @font-face {
     font-family: HelveticaThin;

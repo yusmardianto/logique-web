@@ -1,7 +1,8 @@
 html, body {
 	background-color: #fff;
 	color: #000;
-	font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
+    font-family: 'M PLUS 1p',Lato, sans-serif;   
+	/*font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;*/
 }
 a,b,body,caption,center,dd,div,em,footer,form,h1,h2,h3,h4,h5,h6,header,html,i,iframe,img,label,li,menu,nav,ol,p,section,small,span,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,u,ul,video {
     margin: 0;
