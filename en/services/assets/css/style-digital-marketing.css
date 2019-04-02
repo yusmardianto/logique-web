@@ -1,13 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 html, body {
-	background-color: #fff;
-	color: #000;
-	font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
+    background-color: #fff;
+    color: #000;
+    font-family: 'Raleway', 'sans-serif';   
 }
 a,b,body,caption,center,dd,div,em,footer,form,h1,h2,h3,h4,h5,h6,header,html,i,iframe,img,label,li,menu,nav,ol,p,section,small,span,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,u,ul,video {
     margin: 0;
     padding: 0;
     border: 0;
-    line-height: 1.5
+    line-height: 1.7;
+}
+body {
+    font-size: 15px;
 }
 a:hover {text-decoration: none;}
 footer {
@@ -27,7 +31,7 @@ footer .link-footer {
 footer h5, footer h6 {
     font-size: 14px;
     line-height: 30px;
-	margin:0
+    margin:0
 }
 footer a {
     color: #fff!important
@@ -51,20 +55,20 @@ footer a:hover div{
 .link-footer .medsos-new .fa-twitter:hover{color:#0084ff}
 .link-footer .medsos-new .fa-instagram:hover{color:#e4405f}
 .link-footer .medsos-new .fa-linkedin-square:hover{color:#0077B5}
-.footer{background:#fcc515;padding:20px 0;text-align:center;letter-spacing:0.625px;font-size: 16px;}
+.footer{background:#fcc515;padding:20px 0;text-align:center;letter-spacing:0.625px;}
 .footer a{color:#000!important;text-decoration:underline;font-weight:bold}
 .garis {display: inline-block;}
 .div-top{padding:40px 0 60px;background:#ffca13;}
 .div-top .title{font-size:30px;color:#fff;padding:19.5px;background:#000;position:relative}
 .div-top .title img{position: absolute;left: 0;top: -19.5px;}
 .bg-black-title{font-size:24px;font-weight:700;color:#fff;background:#000;padding:10px 15px;text-align:center}
-.masalah-top{background:#f2c013;background-image:url('../img/img-digital-marketing/bg-masalah-top.png');background-size:100%;background-repeat:no-repeat;font-size:16px}
+.masalah-top{background:#f2c013;background-image:url('../img/img-digital-marketing/bg-masalah-top.png');background-size:100%;background-repeat:no-repeat;}
 .masalah-bottom{font-size:17px;font-weight:bold;text-align:center;background:#d4a811;padding:20px 0;color:#000}
 .one-problem{margin:20px 0;padding-left:20px;position:relative}
 .masalah-top .one-problem:first-child{margin-top: 30px;}
 .masalah-top .one-problem:last-child{margin-bottom: 30px;}
 .one-problem:before{
-	position: absolute;
+    position: absolute;
     content: '';
     width: 6px;
     height: 30px;
@@ -73,30 +77,30 @@ footer a:hover div{
     top: 3px;
 }
 .p-padding-v-15 {
-	margin: 0;
+    margin: 0;
   padding: 15px 0;
 }
-.bg-mengapa{background: url(../img/img-digital-marketing/bg-mengapa.png) no-repeat;background-size: cover;padding: 120px 0 80px;margin: -150px auto 0;background-position: left bottom;font-size: 16px;}
+.bg-mengapa{background: url(../img/img-digital-marketing/bg-mengapa.png) no-repeat;background-size: cover;padding: 120px 0 80px;margin: -150px auto 0;background-position: left bottom;}
 .img-mengapa{position: relative;z-index: 3;margin-top: -180px;}
 .bubble-yellow{margin-top: -60px;position: relative;z-index: 1;}
 .mengapa .bg-black-title{width:75%;margin:auto;text-align:left}
 .div-faq{background:#000;padding:50px 0 40px;margin-bottom:3px}
 .yellow-bg.bg-black-title{background:#ffca13;color:#000;}
-.one-faq{color:#fff;font-size:16px;padding-left: 50px;background: url(../img/img-digital-marketing/question-mark.png) 0 0 no-repeat;margin-bottom:20px}
+.one-faq{color:#fff;padding-left: 50px;background: url(../img/img-digital-marketing/question-mark.png) 0 0 no-repeat;margin-bottom:20px}
 .strategi{background:url('../img/img-digital-marketing/strategi.png') no-repeat;padding:80px 0;background-size:cover;background-position:bottom;position: relative;
     z-index: 1;}
-.bordered-white{border:1px solid #fff;color:#fff;font-size:16px;padding:12.5px 40px}
+.bordered-white{border:1px solid #fff;color:#fff;padding:12.5px 40px}
 .bordered-white.one-sentence2{padding:60px 0;font-size:18px;font-weight:700;text-align:center}
 .bordered-white.one-sentence{padding:50px 0;font-size:18px;font-weight:700;text-align:center}
-.bg-grey{background:#ebebeb;padding:20px;text-align:center;position: relative;z-index: 0;font-size:16px}
+.bg-grey{background:#ebebeb;padding:20px;text-align:center;position: relative;z-index: 0;}
 .bg-proses-kerja{background:url('../img/img-digital-marketing/bg-proses-kerja.png') no-repeat;background-size:cover;padding:60px 0 40px;margin-top: -25px;position: relative;z-index: 0;}
-.one-process{background:#fff;border-bottom:5px solid #000;padding:20px;font-size:16px;min-height:319px}
+.one-process{background:#fff;border-bottom:5px solid #000;padding:20px;min-height:319px}
 .one-process b{font-size:18px;display:block}
 .arrow1{margin-top:100px;margin-bottom:30px;margin-right:0;margin-left:auto;display: block;}
 .arrow2{margin-top:100px;margin-bottom:30px;display: block;transform:rotate(90deg);}
 .arrow3{margin-top:30px;display: block;transform:rotate(180deg);}
 .arrow4{margin-top:30px;margin-right:0;margin-left:auto;display: block;transform:rotate(270deg);}
-.desc-proses{padding: 30px 0 15px;background: #eeebeb;text-align: center;font-size: 16px;}
+.desc-proses{padding: 30px 0 15px;background: #eeebeb;text-align: center;}
 
 .language-btn {position: absolute;right: 30px;top: 66px;z-index: 9;}
 .list-inline>li a {color:#fff;}
@@ -200,30 +204,30 @@ ul.medsos-new li a{
     font-size: 26px;
 }
 @media (max-width:991px) {
-	.one-process{min-height:auto}
-	.img-mengapa{margin-top: 0;}
-	.bg-mengapa {padding: 30px 25px;margin: 0;background-position: center;}
-	.mengapa .bg-black-title {width: 100%;}
-	.masalah-top {background-repeat: repeat-y;padding: 0 30px;}
-	.masalah-bottom{padding: 20px;}
-	.bubble-yellow {margin-top: -15px;}
-	.link-footer .medsos-new .fa {font-size: 25px;}
+    .one-process{min-height:auto}
+    .img-mengapa{margin-top: 0;}
+    .bg-mengapa {padding: 30px 25px;margin: 0;background-position: center;}
+    .mengapa .bg-black-title {width: 100%;}
+    .masalah-top {background-repeat: repeat-y;padding: 0 30px;}
+    .masalah-bottom{padding: 20px;}
+    .bubble-yellow {margin-top: -15px;}
+    .link-footer .medsos-new .fa {font-size: 25px;}
 }
 
 @media (max-width:767px) {
-	.footer-title {margin-top: 20px;border-bottom: 2px solid #ffca13;padding-bottom: 3px;display: inline-block;}
-	.div-top .title {font-size: 18px;color: #fff;padding: 0;background: #000;position: relative;}
-	.div-top .title .text-center {text-align:left!important}
-	.div-top .title img {position: relative;left: 0;top: 0;margin-right: 10px;width: 65px;}
-	.bg-black-title {font-size: 18px;}
-	.strategi{padding: 30px 0;}
-	.bordered-white.one-sentence,
-	.bordered-white.one-sentence2,
-	.bg-grey{margin-bottom: 20px;}
-	.link-footer .medsos-new .fa {font-size: 35px;}
+    .footer-title {margin-top: 20px;border-bottom: 2px solid #ffca13;padding-bottom: 3px;display: inline-block;}
+    .div-top .title {font-size: 18px;color: #fff;padding: 0;background: #000;position: relative;}
+    .div-top .title .text-center {text-align:left!important}
+    .div-top .title img {position: relative;left: 0;top: 0;margin-right: 10px;width: 65px;}
+    .bg-black-title {font-size: 18px;}
+    .strategi{padding: 30px 0;}
+    .bordered-white.one-sentence,
+    .bordered-white.one-sentence2,
+    .bg-grey{margin-bottom: 20px;}
+    .link-footer .medsos-new .fa {font-size: 35px;}
     .language-btn {top: 6px;right: 6px;}
 }
 
 @media (max-width: 320px){
-	.div-top .title {font-size: 16px;}
+    .div-top .title {font-size: 16px;}
 }

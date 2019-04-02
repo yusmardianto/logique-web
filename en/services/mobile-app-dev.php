@@ -78,7 +78,7 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-7">
 						<br/><br/><br/>
-						<h1>TRUST YOUR <span class="yellow">MOBILE APPLICATION (Android | iOS | Hybrid)</span> DEVELOPMENT FUTURE IN <span class="yellow">LOGIQUE</span></h1>
+						<h1 style="font-size: 30px">TRUST YOUR <span class="yellow">MOBILE APPLICATION (Android | iOS | Hybrid)</span> DEVELOPMENT FUTURE IN <span class="yellow">LOGIQUE</span></h1>
 						<p>
 						We provide the best services and solutions in developing enterprise-scale or consumer-based mobile applications for iOS and Android smartphones/tablets.
 						</p>
@@ -250,7 +250,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-5">
 						<h2 class="font-28">Client/Portfolio</h2>
 						<br/>
-						<div class="font-20">We have experiences in working with clients from various industries and have helped developing mobile applications that solve operation problems, empower sales, and maintain customer relationships.
+						<div>We have experiences in working with clients from various industries and have helped developing mobile applications that solve operation problems, empower sales, and maintain customer relationships.
 						</div>
 						<br/><br/>
 					</div>
@@ -264,8 +264,8 @@ if(isset($_POST['submitted']))
 								<div class="col-sm-7">
 									<div class="caption-portfolio">
 										<div class="arrow-left"></div>
-										<div class="font-28">Category: Financial</div><br/>
-										<div class="font-20">
+										<h2 class="font-28">Category: Financial</h2><br/>
+										<div>
 										Application that helps customers get information about insurance policies and interact with agents that is one of the largest insurance companies in Indonesia.
 										</div>
 									</div>
@@ -280,8 +280,8 @@ if(isset($_POST['submitted']))
 								<div class="col-sm-7">
 									<div class="caption-portfolio">
 										<div class="arrow-left"></div>
-										<div class="font-28">Category: Automotive</div><br/>
-										<div class="font-20">
+										<h2 class="font-28">Category: Automotive</h2><br/>
+										<div>
 										Application that helps dealers manage car ads on one of the largest secondhand car portals in Indonesia.
 										</div>
 									</div>
@@ -296,8 +296,8 @@ if(isset($_POST['submitted']))
 								<div class="col-sm-7">
 									<div class="caption-portfolio">
 										<div class="arrow-left"></div>
-										<div class="font-28">Category: Service</div><br/>
-										<div class="font-20">
+										<h2 class="font-28">Category: Service</h2><br/>
+										<div>
 										Application that helps international spa managers to improve services and relationships with customers.
 										</div>
 									</div>

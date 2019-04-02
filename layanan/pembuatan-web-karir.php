@@ -92,10 +92,10 @@ ga('send', 'pageview');
 						<div class="banner-subt">
 							<div class="row">
 								<div class="col-md-10">
-									Mari Buat Website Perekrutan Karyawan Anda Sendiri<br><br>
-									Sebuah Website perekrutan karyawan yang efektif dan mempunyai biaya yang rendah! <br><br>
+									Mari Buat Website Perekrutan Karyawan Anda Sendiri<br>
+									Sebuah Website perekrutan karyawan yang efektif dan mempunyai biaya yang rendah! <br>
 									Kami sadar dan memahami bahwa menggunakan situs lowongan kerja mempunyai biaya yang mahal serta sulit untuk melakukan pemilihan karyawan yang Anda inginkan.
-									<br><br>
+									<br>
 									Karena itu, mari kita sedikit lebih bijak dengan mengeluarkan biaya yang rendah namun mempunyai efektivitas yang cukup tinggi sehingga membuat waktu Anda sebagai HRD menjadi lebih efisien dengan membuat sebuah website perekrutan karyawan yang sesuai dengan keinginan Anda.
 								</div>
 							</div>

@@ -1,6 +1,5 @@
 ﻿@charset "UTF-8";
-@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700,900);
-@import url(https://fonts.googleapis.com/css?family=Francois+One);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 @font-face {
     font-family: 'Bebas';
     src: url('../fonts/Bebas.woff2') format('woff2'),
@@ -11,22 +10,25 @@
 @-ms-viewport {width: device-width}
 @-o-viewport {width: device-width}
 @viewport {width: device-width}
+* {
+    font-family: 'Raleway', 'sans-serif';
+}
+
 a,b,body,caption,center,dd,div,em,footer,form,h1,h2,h3,h4,h5,h6,header,html,i,iframe,img,label,li,menu,nav,ol,p,section,small,span,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,u,ul,video {
     margin: 0;
     padding: 0;
     border: 0;
-    font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
-    line-height: 1.5
+    line-height: 1.7;
 } 
+body {
+    font-size: 15px;
+}
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {display: block}
 a {outline: 0!important}
 a:focus,
 a:hover {text-decoration: none}
 em {font-style: italic!important}
 strong {font-weight: 700!important}
-body #contents{
-    font-size: 17px;
-}
 body.jp-page  #contents{
     font-size: 14px;
 }
@@ -72,7 +74,7 @@ section.maintop {
 
 .logique-nav .text-center {
     padding: 5px 10px;
-
+    line-height: normal;
 }
 
 .logique-nav .text-center.active,
@@ -92,7 +94,8 @@ section.maintop {
 }
 
 .logique-nav a {
-    color: #000
+    color: #000;
+    font-size: 12px;
 }
 
 .logique-nav .text-center.active a,
@@ -251,7 +254,7 @@ section.maintop {
 .title-index {
     font-family: 'Bebas';
     color: #000;
-    font-size: 48px;
+    font-size: 40px;
     margin-bottom: 25px;
     line-height: 50px;
     text-shadow: 1px 1px 1px #fff;
@@ -259,6 +262,7 @@ section.maintop {
 }
 .title-index span {
     font-family: 'Bebas';
+    font-size: 40px;
 }
 
 .btn-see-more,
@@ -1191,6 +1195,9 @@ html[lang=ja] .partner-section .div-main p {
     .title-index {
         font-size: 40px
     }
+    .title-index span {
+        font-size: 40px;
+    }
 }
 
 @media screen and (max-width:979px) {
@@ -1389,7 +1396,10 @@ video {
     .profile-comp .title,
     .title-index {
         font-size: 30px!important;
-		line-height: 40px;
+        line-height: 40px;
+    }
+    .title-index span {
+        font-size: 30px!important;
     }
     .title-container {
         font-size: 16px
@@ -1632,7 +1642,6 @@ section.maintop video {
 }
 
 .career-page .navbar .navbar-nav>li>a {
-    font-family: 'Francois One', sans-serif;
     margin: 0 8px;
     color: #000
 }
@@ -1687,7 +1696,7 @@ blockquote {
 #internal-rules p {
     color: #fff;
     text-align: justify;
-    font-size: 16px;
+    /* font-size: 16px; */
     padding: 0 40px;
     margin-bottom: 20px
 }
@@ -1767,7 +1776,7 @@ blockquote {
 #job-opening {
     background: #ffca13;
     padding: 0 0 50px;
-	z-index: 1001;
+    z-index: 1001;
 }
 
 .title-job img {
@@ -2206,7 +2215,6 @@ blockquote::before {
     text-align: left;
     max-width: 600px;
     margin: auto;
-    font-size: 17px;
 }
 
 .img-home {
@@ -2399,7 +2407,6 @@ blockquote::before {
 .question {
     padding-left: 30px;
     padding-top: 2px;
-    font-size: 16px
 }
 
 .question {
@@ -2631,11 +2638,6 @@ blockquote::before {
 
 .contactform input[type=checkbox] {
     margin-top: 5px
-}
-
-.content-first {
-    line-height: 25px;
-    font-size: 14px
 }
 
 .carousel-pesan-career .carousel-control.left,
@@ -3367,7 +3369,7 @@ blockquote::before {
 .carousel-home-new .carousel-control .fa-angle-right {right: -15%;}
 .contact-title-copies{font-size:30px;font-weight:bold;text-align:center;background:#fff;padding: 10px 30px;line-height: 1.3;}
 .contact-title-copies span{line-height: 1.3;}
-.btn-hubungi{padding: 10px 25px;font-size: 18px;background: #ffca13;color: #000;margin-top: 20px;}
+.btn-hubungi{padding: 10px 25px;background: #ffca13;color: #000;margin-top: 20px;}
 .font-16{font-size:16px}
 .kontak-img{height: 400px;width: 100%;object-fit: cover;object-position: 0 -30px;}
 .link-footer .medsos-new .fa{font-size:35px;margin-top:10px}
@@ -3394,8 +3396,8 @@ video.vd-log{
     left: unset;
     transform: unset;
     width: 100%;
-	margin-bottom: 5px;
-	z-index: 1!important;
+    margin-bottom: 5px;
+    z-index: 1!important;
 }
 
 .juggling {
@@ -3416,7 +3418,7 @@ video.vd-log{
 .juggling-top{
     -webkit-animation: juggletop 1s infinite; /* Chrome, Safari, Opera */
     animation: juggletop 1s infinite;
-	position: relative;
+    position: relative;
 }
 /* Chrome, Safari, Opera */
 @-webkit-keyframes juggletop{
@@ -3436,31 +3438,31 @@ video.vd-log{
 .studi-kasus .btn:hover{background:#fff;}
 
 @media (max-width:1199px) {
-	.div-explanation{height: 140px;font-size: 12px;opacity: 1;top: auto;position: relative;}
-	.onhover:hover{height: 220px;}
-	.carousel-home-new .carousel-control{width: 8%;}
-	.carousel-home-new .carousel-inner>.item {
-		height: 715px;
-	}
+    .div-explanation{height: 140px;font-size: 12px;opacity: 1;top: auto;position: relative;}
+    .onhover:hover{height: 220px;}
+    .carousel-home-new .carousel-control{width: 8%;}
+    .carousel-home-new .carousel-inner>.item {
+        height: 715px;
+    }
 }
 @media (max-width:991px) {
-	.div-explanation{height: 125px;}
-	.carousel-home-new .carousel-control {width: 15%;}
-	.title-index2 {margin-bottom: 30px;font-size: 40px;padding-top: 10px;line-height: 45px;}
-	.carousel-home-new .carousel-inner>.item {height: 945px;}
-	.div-explanation{font-size: 13px;height: 100px;}
-	.onhover:hover {height: auto;}
+    .div-explanation{height: 125px;}
+    .carousel-home-new .carousel-control {width: 15%;}
+    .title-index2 {margin-bottom: 30px;font-size: 40px;padding-top: 10px;line-height: 45px;}
+    .carousel-home-new .carousel-inner>.item {height: 945px;}
+    .div-explanation{font-size: 13px;height: 100px;}
+    .onhover:hover {height: auto;}
 }
 @media (max-width:767px) {
-	.floating-banner {top: auto;bottom: 140px;}
-	.col-benefit .content-benefits .valign-center{padding:0}
-	.content-benefits{height: 245px;}
-	.footer-title {margin-top: 20px;border-bottom: 2px solid #ffca13;padding-bottom: 3px;display: inline-block;}
-	.carousel-home-new .carousel-control .icon-next, .carousel-home-new .carousel-control .fa-angle-right {right: 5.5%!important;position: fixed!important;top: 55%!important;}
-	.carousel-home-new .carousel-control .icon-prev, .carousel-home-new .carousel-control .fa-angle-left {left: 5%!important;position: fixed!important;top: 55%!important;}
-	.onhover img{width:100%!important}
-	.div-explanation {height: auto;}
-	.title-index2 {margin-bottom: 25px;padding-top: 0;line-height: 40px;}
-	.carousel-home-new {padding: 0 25px;}
-	.carousel-home-new .carousel-inner>.item {height: auto;}
+    .floating-banner {top: auto;bottom: 140px;}
+    .col-benefit .content-benefits .valign-center{padding:0}
+    .content-benefits{height: 245px;}
+    .footer-title {margin-top: 20px;border-bottom: 2px solid #ffca13;padding-bottom: 3px;display: inline-block;}
+    .carousel-home-new .carousel-control .icon-next, .carousel-home-new .carousel-control .fa-angle-right {right: 5.5%!important;position: fixed!important;top: 55%!important;}
+    .carousel-home-new .carousel-control .icon-prev, .carousel-home-new .carousel-control .fa-angle-left {left: 5%!important;position: fixed!important;top: 55%!important;}
+    .onhover img{width:100%!important}
+    .div-explanation {height: auto;}
+    .title-index2 {margin-bottom: 25px;padding-top: 0;line-height: 40px;}
+    .carousel-home-new {padding: 0 25px;}
+    .carousel-home-new .carousel-inner>.item {height: auto;}
 }

@@ -7,6 +7,7 @@
 /**
 CSS Reset
 */
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 
 html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i,dl, dt, dd, ol, ul, li,
@@ -15,6 +16,13 @@ figure, figcaption, footer, header, hgroup,menu, nav, output, ruby, section, sum
     margin: 0;
     padding: 0;
     border: 0;
+    line-height: 1.7;
+}
+body {
+    font-size: 15px;
+    font-family: 'Raleway', 'sans-serif';
+}
+h1, h2, h3, h4, h5, h6 {
 	font-family: 'Rokkitt', serif;
 }
 /* HTML5 display-role reset for older browsers */
@@ -33,7 +41,7 @@ strong{font-weight: 700!important;}
 .no-gap [class*="-10"],
 .no-gap [class*="-4"],
 .no-gap [class*="-12"]{padding-left:0;padding-right:0;}
-p{margin-bottom: 20px;font-size:18px}
+p{margin-bottom: 20px;}
 p:last-child{margin-bottom: 0;}
 
 header{
@@ -63,7 +71,7 @@ h2.first span{color:#5f1cc9;font-weight:bold;}
 }
 .solusi .title{font-size:28px;text-align:right}
 .solusi .title span{display:block}
-.solusi ul li{font-size:18px;padding:8px 0}
+.solusi ul li{font-size:15px;padding:8px 0}
 .solusi ul .fa-li{top:9px}
 .div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps/bg-div-form.png') no-repeat;background-size:cover}
 .div-form form{margin-top:20px;}
@@ -127,12 +135,12 @@ footer .title{font-size:24px;}
 .font-28{font-size:28px;}
 .font-20{font-size:20px;}
 .logique-help{}
-.div-help{font-size:18px;padding:20px;text-align:center;border:2px solid #ccc;margin-bottom:35px}
+.div-help{font-size:15px;padding:20px;text-align:center;border:2px solid #ccc;margin-bottom:35px}
 .div-help .div-title{margin-top: -34px;margin-bottom: 15px;}
 .div-help .title{background: #fff;padding: 0 8px;font-size:24px;margin:auto}
 .valign-center{top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);position:relative}
 .m-t-30{margin-top: 30px;}
-.solusi.revision{background:url(../img/img-mobileapps/div-solusi.png);background-size:cover;font-size:18px}
+.solusi.revision{background:url(../img/img-mobileapps/div-solusi.png);background-size:cover;font-size:15px}
 .layanan-kami{background:rgba(255,255,255,0.1);padding:15px;margin-bottom:10px}
 .layanan-kami .title{font-size:20px;text-align:center;padding: 0 35px;}
 .bg-grey{background:#ececec;padding:50px 0}

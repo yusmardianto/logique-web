@@ -179,7 +179,7 @@ if(isset($_POST['submitted']))
 							</div>
 						</div>
 						<br/>-->
-						<div class="font-16">
+						<div>
 						Terima kasih Anda telah tertarik dengan seluruh layanan yang kami tawarkan. Jika Anda ingin mendapatkan informasi lebih lanjut dengan seluruh layanan kami, seperti pembuatan web, pengembangan sistem web, seo dan berbagai permasalahan di dunia digital lainnya, Kalian dapat menghubungi dan bertanya apapun kepada kami melalui tombol di bawah ini:
 						</div>
 						<div class="text-center">
@@ -197,7 +197,7 @@ if(isset($_POST['submitted']))
 						Banyak klien yang bertanya kepada kami “Berapa biaya untuk mengembangkan sebuah website?” Ini merupakan pertanyaan yang sangat sulit.<br/>
 						Kami berpengalaman mengembangkan website sederhana seharga Rp.15.000.000 namun sulit bagi kami untuk mengatakan bahwa website sederhana seperti itu akan memberikan dampak bagi bisnis Anda. Jika Anda membandingkan, tentu ada banyak perusahaan pengembang web yang mempunyai harga lebih murah dibandingkan kami. Namun, kami yakin bahwa kami dapat memberikan Anda nilai tersediri jika Anda mencari web developer yang dapat diandalkan yang mampu membawa Anda menuju kesuksesan bisnis.<br/>
 						Kami juga siap membantu Anda dalam mengembangkan website berskala kecil dengan anggaran yang terbatas.-->
-						<div class="font-16">Dengan pengalaman selama lebih dari 5 tahun, membuat Logique banyak dipercaya oleh berbagai perusahaan baik ditingkat nasional maupun internasional. Selain itu, dengan tenaga profesional yang kami miliki, kami dapat memberikan layanan berkualitas tinggi bagi seluruh proyek Anda.</div>
+						<div>Dengan pengalaman selama lebih dari 5 tahun, membuat Logique banyak dipercaya oleh berbagai perusahaan baik ditingkat nasional maupun internasional. Selain itu, dengan tenaga profesional yang kami miliki, kami dapat memberikan layanan berkualitas tinggi bagi seluruh proyek Anda.</div>
 						<div class="highlights2-contact" id="anchorForm">
 							Silakan menghubungi kami untuk pembuatan website, media sosial, konsultasi seputar web, atau desain.
 						</div>
@@ -294,7 +294,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<br/>
 						<div class="row">
-							<div class="col-md-12 font-16">
+							<div class="col-md-12">
 								Jika Anda ingin mendapatkan informasi lebih lanjut mengenai berbagai hal yang berkaitan dengan Logique, silahkan pilih salah satu opsi di bawah ini:
 							</div>
 							<div class="col-md-4">

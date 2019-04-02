@@ -62,7 +62,7 @@
 						<div class="bg-black-title inline-block">
 							Lead You to Success!
 						</div>
-						<div class="font-16">
+						<div>
 							<br/>
 							Facing the digital era today certainly creates its own challenges, especially for businesses in order to be competitive and successful. LOGIQUE, a Japanese professional digital marketing company based in Jakarta, provides solutions to this challenge by offering digital marketing services.<br><br>Our experience of more than 5 years in the digital world certainly makes us understand thoroughly about how business can compete and succeed in the digital world. We are ready to give you a solution to increase the profit of your business by utilizing the digital environment!<br/><br/>
 						</div>

@@ -4,10 +4,15 @@
 @-o-viewport { width: device-width; }
 @viewport { width: device-width; }
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css?family=Anton|Roboto:100,300,500,700');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 /**
 CSS Reset
 */
+
+* {
+    font-family: 'Raleway', 'sans-serif';
+}
 
 html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,small, strike, sub, sup, tt, var,b, u,dl, dt, dd, ol, ul, li,
@@ -15,10 +20,11 @@ fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,ar
 figure, figcaption, footer, header, hgroup,menu, nav, output, ruby, section, summary,time, mark, audio, video {
     margin: 0;
     padding: 0;
-	  font-size:14px;
     border: 0;
-    font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
-    line-height: 1.5;
+    line-height: 1.7;
+}
+body {
+  font-size: 15px;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}
@@ -281,7 +287,7 @@ footer p{padding: 22px 0px;}
 .nav-lp .navbar-toggle .icon-bar.third {transform: rotate(-45deg);margin-top: -8px;}
 .logique-nav a {
   color: #111;
-  font-size: 14px;
+  font-size: 12px;
 }
 .logique-nav .text-center.active, .logique-nav .text-center.active:focus, .logique-nav .text-center.active:hover {
     background: #212425;
@@ -292,6 +298,7 @@ footer p{padding: 22px 0px;}
 }
 .logique-nav .text-center {
     padding: 5px 10px;
+    line-height: normal;
 }
 .logique-nav .text-center:focus, .logique-nav .text-center:hover {
     background: #666;
@@ -787,7 +794,7 @@ ul.medsos-new li a{
 .testi-content{background:#fff;padding:10px 30px 30px 30px}
 .testi-content .quotes-mark{color:#dcdcdc;font-size:80px;position: absolute;}
 .testi-content .testi-title{font-size:20px;color:#4d91cd;text-align:center;padding: 20px 20px 20px 50px;}
-.testi-content p{font-size:16px;}
+.testi-content p{font-size:15px;}
 .fs-16{font-size:16px}
 .fs-14{font-size:14px}
 .testi-div hr{border-top:5px solid #edecec;margin-bottom: 40px;}

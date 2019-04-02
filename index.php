@@ -389,8 +389,8 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 			</div>
 
 			<br/>
-			<?php include 'footer.php';?>
 		</div>
+		<?php include 'footer.php';?>
 		<script type="application/ld+json">
 			{
 			  "@context": "http://schema.org",

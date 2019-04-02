@@ -1,6 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
 html{overflow-x: hidden;}
+* {
+  font-family: 'Raleway', 'sans-serif';
+}
 body {
-background-color: rgba(80, 227, 194, 0.12);
+  background-color: rgba(80, 227, 194, 0.12);
+  font-size: 15px;
+  line-height: 1.7;
 }
 
 img:hover {opacity: 0.8}
@@ -34,7 +41,6 @@ span, p {cursor: default;}
   text-align: center;
 }
 .SISTEM-LAPORAN-KERJA {
-  font-family: Allerta;
   font-size: 24px;
   font-weight: normal;
   font-style: normal;
@@ -55,7 +61,6 @@ span, p {cursor: default;}
   margin-left: -8em;
 }
 .APA-ITU {
-  font-family: Allerta;
   font-size: 24px;
   font-weight: normal;
   font-style: normal;
@@ -67,7 +72,6 @@ span, p {cursor: default;}
 }
 .NIPPO-SYSTEM {
   height: 83px;
-  font-family: HelveticaBold;
   font-size: 70px;
   font-style: normal;
   font-stretch: normal;
@@ -78,7 +82,6 @@ span, p {cursor: default;}
 }
 .layer {
   height: 170px;
-  font-family: HelveticaThin;
   font-size: 144px;
   font-weight: 100;
   font-style: normal;
@@ -89,7 +92,6 @@ span, p {cursor: default;}
   color: #50e3c2;
 }
 .Nippo-adalah-aplikas {
-  font-family: Avenir;
   font-size: 18px;
   font-weight: normal;
   font-style: normal;
@@ -115,7 +117,6 @@ span, p {cursor: default;}
 .Kenapa-Harus-Menggun {
   width: 423px;
   height: 31px;
-  font-family: Allerta;
   font-size: 24px;
   font-weight: normal;
   font-style: normal;
@@ -130,7 +131,6 @@ span, p {cursor: default;}
   font-size: 2em;
 }
 .Dapat-diakses-melalu {
-  font-family: Avenir;
   font-size: 18px;
   font-weight: normal;
   font-style: normal;
@@ -155,7 +155,6 @@ span, p {cursor: default;}
 .Masalah-yang-sering {
   width: 598px;
   height: 31px;
-  font-family: Allerta;
   font-size: 24px;
   font-weight: normal;
   font-style: normal;
@@ -178,7 +177,6 @@ span, p {cursor: default;}
 .Evaluasi-kinerja-sel {
   width: 490px;
   height: 62px;
-  font-family: Avenir;
   font-size: 22px;
   font-weight: 500;
   font-style: normal;
@@ -212,7 +210,6 @@ span, p {cursor: default;}
 .NIPPO-SYSTEM-Copy {
   width: 763px;
   height: 83px;
-  font-family: HelveticaBold;
   font-size: 70px;
   font-style: normal;
   font-stretch: normal;
@@ -224,7 +221,6 @@ span, p {cursor: default;}
 .Fitur {
   width: 212px;
   height: 24px;
-  font-family: Allerta;
   font-size: 24px;
   font-weight: normal;
   font-style: normal;
@@ -245,7 +241,6 @@ span, p {cursor: default;}
 .Keuntungan-Perusahaa {
   width: 350px;
   height: 86px;
-  font-family: Allerta;
   font-size: 19.9px;
   font-weight: normal;
   font-style: normal;
@@ -257,7 +252,6 @@ span, p {cursor: default;}
   cursor: default;
 }
 .Keuntungan-Perusahaa .text-style-1 {
-  font-family: HelveticaBold;
   font-size: 50px;
   letter-spacing: 3px;
 }
@@ -304,7 +298,6 @@ span, p {cursor: default;}
 .Pertanyaan-Yang-Seri {
   width: 491px;
   height: 31px;
-  font-family: Allerta;
   font-size: 24px;
   font-weight: normal;
   font-style: normal;
@@ -322,7 +315,6 @@ span, p {cursor: default;}
   top: 20px;
 }
 .-Bagaimana-cara-ke {
-  font-family: HelveticaBold;
   font-size: 24px;
   font-style: normal;
   font-stretch: normal;
@@ -333,7 +325,6 @@ span, p {cursor: default;}
   cursor: default;
 }
 .Nippo-merupakan-sist {
-  font-family: Avenir;
   font-size: 18px;
   font-weight: normal;
   font-style: normal;
@@ -358,7 +349,6 @@ span, p {cursor: default;}
   border-bottom: solid 20px #fff;
 }
 .KONTAK-KAMI {
-  font-family: HelveticaBold;
   font-size: 44px;
   font-style: normal;
   font-stretch: normal;
@@ -376,7 +366,6 @@ span, p {cursor: default;}
   margin-top: 10px;
 }
 .KIRIM {
-  font-family: Avenir;
   font-size: 21px;
   font-style: normal;
   font-stretch: normal;
@@ -392,7 +381,6 @@ span, p {cursor: default;}
   background-color: #4a4a4a;
 }
 .Nippo-adalah-aplikas2 {
-  font-family: Avenir;
   font-size: 18px;
   font-weight: normal;
   font-style: normal;
@@ -420,7 +408,6 @@ span, p {cursor: default;}
 .Basis-Data-Karyawan {
   width: 100%;
   height: auto;
-  font-family: Allerta;
   font-size: 20px;
   font-weight: normal;
   font-style: normal;
@@ -433,7 +420,6 @@ span, p {cursor: default;}
 .NIPPO-system-menyedi {
   width: 100%;
   height: 105px;
-  font-family: Avenir;
   font-size: 13px;
   font-weight: normal;
   font-style: normal;
@@ -445,7 +431,6 @@ span, p {cursor: default;}
 }
 
 .Rectangle-9 {
-  font-family: Avenir;
   height: 60px;
   border-radius: 8px;
   background-color: #ffffff;

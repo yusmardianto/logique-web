@@ -178,7 +178,7 @@ if(isset($_POST['submitted']))
 								</div>
 							</div>
 						</div><br/>	-->
-						<div class="font-16">
+						<div>
 							Thank you for your interest in our products. If you wish to obtain further information about our services, such as web creation, web system development, SEO, and other IT related issues, you can contact us and ask us anything by clicking the button below.
 						</div>
 						<div class="text-center">
@@ -196,7 +196,7 @@ if(isset($_POST['submitted']))
 						Many customers ask us “How much does it cost to develop a website?“ That is a very difficult question.<br/>
 						We have experienced developing a simple website with around 15,000,000 IDR, but it is hard to tell you that the website is going to bring you any results. If you compare web developers in Indonesia there are a lot of companies that are much cheaper than us. We are sure that we can deliver a value in case you are looking for a reliable web developer that leads you to the goal and success for your business.<br/>
 						Of course we also will help you as well in case you would like to develop a minimum-scaled website with limited budget.<br/><br/>-->
-						<div class="font-16">With more than 6 years of experience, LOGIQUE has been trusted by various companies both at national and international levels. In addition, with our professional team, we can provide high quality services for all of your projects.</div>
+						<div>With more than 6 years of experience, LOGIQUE has been trusted by various companies both at national and international levels. In addition, with our professional team, we can provide high quality services for all of your projects.</div>
 						<div class="highlights2-contact" id="anchorForm">
 						Feel free to contact LOGIQUE about website creation, SEO, social media, inquiry about web-related consultation, or designing.
 						</div><br/>
@@ -292,7 +292,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<br/>
 						<div class="row">
-							<div class="col-md-12 font-16">
+							<div class="col-md-12">
 								If you want to get more information about various matters related to Logique, please select one of the options below:
 							</div>
 							<div class="col-md-4">
