@@ -1,0 +1,11 @@
+ 
+    	.title-index span {
+    		font-family: initial;
+    	}
+    	a,b,body,caption,center,dd,div,em,footer,form,h1,h2,h3,h4,h5,h6,header,html,i,iframe,img,label,li,menu,nav,ol,p,section,small,span,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,u,ul,video {
+    		font-family: 'M PLUS 1p', sans-serif;	
+    	}
+    	.title-index{
+    		font-weight: bold;
+    	}
+ 

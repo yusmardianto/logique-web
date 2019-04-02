@@ -23,7 +23,8 @@
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  
+  	<link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+     <link href="../css/jpstyle.css" rel="stylesheet">
     </head>
 	<body  class="jp-page">
 		<div class="wrapper">

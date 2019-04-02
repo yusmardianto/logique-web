@@ -49,7 +49,7 @@ twq('track','PageView');
 					<div class="col-sm-4 link-footer-nav">
 						 <ul>
 						 	<li  class="have-submenu">
-						 		<a href="/product.php">Produk Kami</a>
+						 		<a href="/produk.php">Produk Kami</a>
 						 		<ul>
 						 			<li><a href="/produk/dokodemo-kerja.php" target="_blank">
 										Dokodemo-Kerja  <br><span style="font-size: 11px;">(Sistem aplikasi bagi pekerja remote) </span> </a>

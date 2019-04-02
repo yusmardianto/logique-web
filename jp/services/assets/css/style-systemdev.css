@@ -1,6 +1,7 @@
 html,
 body {
-    font-family:"Lato, メイリオ", Meiryo,  "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
+     font-family: 'M PLUS 1p',Lato, sans-serif;   
+    /*font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;*/
     background-color: #fff;
     overflow-x: hidden;
 } 
@@ -293,7 +294,7 @@ footer p:before {
 	left: 0;
 }
 .logique-nav .text-center {
-    padding: 8px 10px
+    padding: 5px 10px
 }
 .logique-nav .text-center.active,
 .logique-nav .text-center.active:focus,
