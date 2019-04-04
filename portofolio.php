@@ -709,6 +709,27 @@
 										<div class="grey-clr">Mobile Optimized, CMS, News Portal</div>
 									</div>
 								</div>-->
+									<div class="clearfix"></div>
+									<div class="col-sm-4">
+										<a href="https://jjc.or.id/hojin/annai/" target="_blank">
+											<img src="/img/portfolio/jjc_hojin.png" class="img-responsive center-block">
+											JJC Hojin
+										</a>
+										<div class="addition-desc text-left">
+											Web Re-Design (Design | CMS | Coding)
+											<div class="grey-clr">WordPress, Mobile Optimized, Member System</div>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<a href="https://jjc.or.id/kojin/tosho/" target="_blank">
+											<img src="/img/portfolio/jjc_kojin.png" class="img-responsive center-block">
+											JJC Kojin
+										</a>
+									  <div class="addition-desc text-left">
+									    Web Re-Design (Design | CMS | Coding)
+									    <div class="grey-clr">WordPress, Mobile Optimized, Member Management System, Booking System </div>
+									  </div>
+									</div>
 								</div>
 							</div>
 							<center>
