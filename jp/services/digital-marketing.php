@@ -62,6 +62,68 @@
 
 </head>
 	<body>
+		<div class="nav-lp">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+				<span class="icon-bar first"></span>
+				<span class="icon-bar second"></span>
+				<span class="icon-bar third"></span> 
+			</button>
+			<div class="collapse navbar-collapse" id="myNavbar">
+				<div class="backdrop-test"></div>
+				<div class="logique-nav in-jp">
+					<div class="margin-for-nav">
+						<div class="text-center">
+							<a href="/jp/">
+								<div class="img-home"></div>
+								Home
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/jp/about.php">
+								<div class="img-about"></div>
+								会社概要
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/jp/portfolio.php">
+								<div class="img-portfolio"></div>
+								制作実績
+							</a>
+						</div>
+						<div class="text-center active">
+							<a href="/jp/services.php">
+								<div class="img-services"></div>
+								サービス
+							</a>
+						</div>
+						 	<div class="text-center">
+						<a href="/jp/product.php">
+							<div class="img-product"></div>
+							プロダクト
+						</a>
+					</div>
+						<div class="text-center">
+							<a href="/jp/joinus.php">
+								<div class="img-career"></div>
+								採用/<br>パートナー
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/jp/contact.php">
+								<div class="img-contact"></div>
+								お問い合わせ
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="https://www.logique.co.id/blog/ja" target="_blank">
+								<div class="img-blog"></div>
+								Blog
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 		<div class="language-btn">
 			<ul class="list-inline">
 				<li><a href="/en/services/digital-marketing.php">EN</a></li>
@@ -507,7 +569,7 @@
 				<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 				<br><br>
 				<div class="provacy-policy-container">
-					<a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
+					<a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
 				</div>
 				</div>
 			</div>
