@@ -58,7 +58,7 @@
 					<h1>Let’s work hard, enjoy hard and grow up together!</h1>
 					<p class="content-first">
 						LOGIQUE merupakan perusahaan <i>start-up</i> di bidang IT yang dibangun oleh tim yang cerdas, inovatif, dinamis, dan bertalenta. Dalam perkembangannya, LOGIQUE selalu menggali potensi anggota-anggota timnya yang tidak hanya berdomisili di Jakarta, namun juga kota-kota besar lainnya di Indonesia.<br/><br/>
-						Baru-baru ini, LOGIQUE telah membuka kantor cabang di Jetis, <b>Yogyakarta</b>. Di sana, kami sedang membuka lowongan kerja untuk Anda yang memiliki kompetensi di bidang IT untuk bergabung bersama LOGIQUE.<br/><br/>
+						Baru-baru ini, LOGIQUE telah membuka kantor cabang di Umbulharjo, <b>Yogyakarta</b>. Di sana, kami sedang membuka lowongan kerja untuk Anda yang memiliki kompetensi di bidang IT untuk bergabung bersama LOGIQUE.<br/><br/>
 						Jika Anda berminat, LOGIQUE juga membuka lowongan kerja jarak jauh atau <i>remote-working</i> untuk Anda yang senang bekerja secara fleksibel. Sistem <i>remote-working</i> tidak hanya berlaku untuk Jakarta dan Yogyakarta, namun juga seluruh wilayah di Indonesia.
 					</p>
 					<br/>
