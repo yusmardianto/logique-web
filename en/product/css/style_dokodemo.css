@@ -185,18 +185,18 @@ footer p{padding: 22px 0px;}
 .bg-masalah1{background:url('../img/dokodemo-kerja/bg-masalah1.png') no-repeat;background-position: center;background-size: contain;padding: 40px 0;background-color: #eceef2;}
 .bg-masalah2{background:url('../img/dokodemo-kerja/bg-masalah2.png') no-repeat;background-position: center;background-size: contain;padding: 40px 0;background-color: #eceef2;}
 .bg-masalah3{background:url('../img/dokodemo-kerja/bg-masalah3.png') no-repeat;background-position: center;background-size: contain;padding: 40px 0;background-color: #eceef2;}
-.desc-bantu{font-size:16px;color:#0072bc;margin-top: 10px;}
+.desc-bantu{font-size:15px;color:#0072bc;margin-top: 10px;}
 .desc-bantu .quote{font-size: 50px;font-family: 'Anton';margin-bottom: 30px;float: left;margin-top: -10px;margin-right: 10px;}
 .font18{font-size:18px;}
 .blue2{color:#008ec4}
-.bg-masalah2 .fa-ul>li,.bg-masalah3 .fa-ul>li{color:#008ec4}
+.bg-masalah2 .fa-ul>li,.bg-masalah3 .fa-ul>li{color:#008ec4; font-size: 15px;}
 .pl-25{padding-left:25px}
 .pr-25{padding-right:25px}
 .bg-blue hr{border:2px solid #fff;width: 500px;max-width: 100%;}
 .card-harga{background:#f5f5f5;}
 .title-card{font-size:20px;background:#008ec4;padding:15px;color:#fff}
 .price{background:#f5f5f5;font-size:50px;text-align:center;color:#0072bc}
-.price strong{font-size:50px}
+.price strong{font-size:50px; font-family: 'Lato', sans-serif;}
 .plan-list{padding:15px}
 .harga {padding:30px 0}
 .harga .title{font-size: 36px;padding: 0 15px;text-align: center;color: #0072bc;}
@@ -525,7 +525,7 @@ ul.medsos-new li{
     padding:0 5px;
 }
 footer div , footer a, ul li, footer span, footer p{
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
 }
 ul.medsos-new{
@@ -777,7 +777,7 @@ ul.medsos-new li a{
 
 .div-masalah-new{background:#06182f;padding:40px 0;}
 .div-masalah-new .title{font-size:36px;color:#edb41a;text-align:center}
-.list-masalah{color: #fff;font-size: 16px;margin-bottom: 15px;padding: 2px 15px;position: relative;}
+.list-masalah{color: #fff;font-size: 15px;margin-bottom: 15px;padding: 2px 15px;position: relative;}
 .list-masalah:before{
   content:'';
   position:absolute;
@@ -792,7 +792,7 @@ ul.medsos-new li a{
 .testi-div{background:#f5f5f5;padding:40px 0}
 .testi-div .title{font-size:36px}
 .testi-content{background:#fff;padding:10px 30px 30px 30px}
-.testi-content .quotes-mark{color:#dcdcdc;font-size:80px;position: absolute; top: -10px;}
+.testi-content .quotes-mark{color:#dcdcdc;font-size:80px;position: absolute;}
 .testi-content .testi-title{font-size:20px;color:#4d91cd;text-align:center;padding: 20px 20px 20px 50px;}
 .testi-content p{font-size:15px;}
 .fs-16{font-size:16px}

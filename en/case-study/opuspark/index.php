@@ -133,7 +133,7 @@
               <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <p style="font-size: 22px;font-weight: bold;">Opus Park</p>
+              <p class="cs-subtitle-top">Opus Park</p>
               <h2 class="cs-subtitle">World Class Property in Sentul City</h2>
               <p class="cs-desc">
                 Opus Park is an iconic suburban residential property developed by PT Izumi Sentul Realty, a Joint Venture (JV) company that consists of a leading property developer in Indonesia, Sentul City, and two well-known Japanese infrastructure companies, namely Sumitomo Corporation and Hankyu Hanshin Properties Corp. Opus Park consists of three premium quality apartment towers with 1,095 units in total. Located in Central Business District (CBD) area of ​​Sentul City, Bogor, Opus Park offers strategic housings in the form of luxury apartments and penthouses with world-class facilities. In the area, also built a shopping center from Japan, AEON Mall, offices, and five-star hotels with a total building area of ​​500 thousand square meters.
@@ -147,7 +147,7 @@
               <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2 custom1">
             </div>
             <div class="col-sm-6">
-              <p style="font-size: 22px;font-weight: bold;">Targets Opus Park Wants to Achieve</p>
+              <p class="cs-subtitle-top">Targets Opus Park Wants to Achieve</p>
               <h2 class="cs-subtitle">Find the right people</h2>
               <p class="cs-desc">
               Opus Park sees the online digital world as the largest potential source of sales of their units. They want targeted marketing through digital marketing to find potential buyers. By using the operation of online advertising and the application of SEO on the website, they have at least two goals. First, they want the right people to contact them—either by telephone, WhatsApp, or email—to ask related questions, and register a schedule to visit the Show Unit with the sales team of Opus Park. Second, so that the number of callers/users increases and they actually meet the schedule to visit the Show Unit.
@@ -164,7 +164,7 @@
               <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3 custom2">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <p style="font-size: 22px;font-weight: bold;">The Strategy Applied by LOGIQUE</p>
+              <p class="cs-subtitle-top">The Strategy Applied by LOGIQUE</p>
               <h2 class="cs-subtitle">Maximizing Digital Marketing</h2>
               <p class="cs-desc custom4">
               Opus Park wants the operation of ads and social media to get paid traffic, and the implementation of SEO on the website for organic traffic from search engines. Both types of traffic play a major role in achieving the desired goals.
@@ -219,7 +219,7 @@
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
-              <p class="text-center" style="font-size: 22px;font-weight: bold;">Results</p>
+              <p class="text-center cs-subtitle-top">Results</p>
               <h2 class="cs-subtitle text-center">Reached Conversions</h2>
               <p class="cs-desc text-center">
               Implementing a digital marketing strategy has helped Opus Park increase awareness among a targeted audience. Not only that, the Opus Park website has a significant increase in traffic. The engagement that was obtained was fairly satisfying. This good result has even been seen in 1-2 months since the digital marketing operations were executed in a cost-efficient manner.

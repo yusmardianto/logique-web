@@ -265,7 +265,7 @@ ga('send', 'pageview');
 								<div class="col-md-4 col-sm-4">
 									<div class="d-layanan l1">
 										<h2><img src="assets/img/img-dentist/new/logo.png" alt="LOGIQUE" class="l-logo"> siap memberikan solusi untuk klinik gigi Anda!</h2>
-										<h3>Berikut <b>layanan solusi</b> yang kami tawarkan.</h3>
+										<h3>Berikut layanan solusi yang kami tawarkan.</h3>
 									</div>
 								</div>
 								<div class="col-md-4 col-sm-4">

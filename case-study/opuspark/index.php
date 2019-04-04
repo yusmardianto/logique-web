@@ -132,7 +132,7 @@
               <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <p style="font-size: 22px;font-weight: bold;">Opus Park</p>
+              <p class="cs-subtitle-top">Opus Park</p>
               <h2 class="cs-subtitle">Properti Berkelas Dunia di Sentul City</h2>
               <p class="cs-desc">
                 Opus Park adalah properti hunian suburban ikonis yang dikembangkan oleh PT Izumi Sentul Realty, yang merupakan hasil kerjasama perusahaan Joint Venture (JV) salah satu pengembang properti ternama di Indonesia, Sentul City, dan dua perusahaan infrastruktur terkemuka asal Jepang, yakni Sumitomo Corporation dan Hankyu Hanshin Properties Corp. <br/><br/>
@@ -147,7 +147,7 @@
               <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2 custom1">
             </div>
             <div class="col-sm-6">
-              <p style="font-size: 22px;font-weight: bold;">Target yang Ingin Dicapai Opus Park</p>
+              <p class="cs-subtitle-top">Target yang Ingin Dicapai Opus Park</p>
               <h2 class="cs-subtitle">Menemukan orang-orang yang tepat</h2>
               <p class="cs-desc">
               Opus Park melihat dunia <i>online digital </i>sebagai sumber potensial terbesar dari penjualan unit mereka. Mereka menginginkan pemasaran yang tertarget melalui digital marketing agar menemukan calon pembeli yang potensial. <br/><br/>
@@ -165,7 +165,7 @@
               <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3 custom2">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <p style="font-size: 22px;font-weight: bold;">Strategi yang Diterapkan LOGIQUE</p>
+              <p class="cs-subtitle-top">Strategi yang Diterapkan LOGIQUE</p>
               <h2 class="cs-subtitle">Memaksimalkan Digital Marketing</h2>
               <p class="cs-desc custom4">
               Opus Park menginginkan pengoperasian iklan dan media sosial untuk mendapatkan <i>traffic</i> secara berbayar, dan penerapan SEO pada website untuk <i>traffic</i> organic dari mesin penelusuran. Kedua jenis <i>traffic</i> ini sama-sama berperan besar dalam pencapaian goals yang diinginkan.
@@ -204,7 +204,7 @@
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
-              <p class="text-center" style="font-size: 22px;font-weight: bold;">Hasil</p>
+              <p class="text-center cs-subtitle-top">Hasil</p>
               <h2 class="cs-subtitle text-center">Konversi Tercapai</h2>
               <p class="cs-desc text-center">
               Penerapan strategi digital marketing telah membantu Opus Park meningkatkan awareness di kalangan audiens yang tertarget. Tidak hanya itu, website Opus Park mengalami peningkatan traffic yang cukup signifikan. Engagement yang didapat pun terbilang memuaskan. Hasil yang baik ini bahkan sudah terlihat pada bulan 1-2 sejak operasi digital marketing dieksekusi dengan biaya yang efisien.

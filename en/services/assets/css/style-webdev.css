@@ -1,8 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+* {
+    font-family: 'Raleway', 'sans-serif';
+}
 html,
 body {
-    font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
     background-color: #fff;
     overflow-x: hidden;
+    line-height: 1.7;
+    font-size: 15px;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif;
+}
+h1 p,h1 span,h1 b,
+h2 p h2 span, 
+h3 p h3 span,
+h4 p h4 span,
+h5 p h5 span,
+h6 p h6 span {
+    font-family: 'Lato', sans-serif;
 }
 header {
     background-image: url(../img/img-webdev/satu.jpg);
@@ -14,6 +30,11 @@ header {
     padding-top: 90px;
     padding-bottom: 90px;
 }
+@media (min-width: 768px) and (max-width: 1199px) {
+    header {
+        height: auto; 
+    }
+}
 header h1 {
     font-family: 'Lato', serif;
     font-weight: 700;
@@ -24,7 +45,7 @@ header h1 {
 .subtitle-header {
     color: #fff;
     text-align: left;
-    font-size: 16px;
+    font-size: 15px;
     margin-top:30px
 }
 .new-box {
@@ -54,7 +75,7 @@ header h1 {
     background-color: #fff;
 }
 .about h1 {font-weight: 200;font-size: 30px;}
-.about p {font-size: 18px}
+.about p {font-size: 15px}
 .p-b-20 {padding-bottom: 20px}
 .custom-1 {background-color: #fef5cc;padding: 1em 4em}
 .custom-2 {width: 180px;margin-top: 11em;}
@@ -248,7 +269,8 @@ footer p:before {
     left: 0;
 }
 .logique-nav .text-center {
-    padding: 5px 10px
+    padding: 5px 10px;
+    line-height: normal;
 }
 .logique-nav .text-center.active,
 .logique-nav .text-center.active:focus,
@@ -266,7 +288,8 @@ footer p:before {
 }
 .logique-nav a {
     color: #000;
-    text-decoration:none!important
+    text-decoration:none!important;
+     font-size: 12px;
 }
 .logique-nav .text-center.active a,
 .logique-nav .text-center.active:focus a,

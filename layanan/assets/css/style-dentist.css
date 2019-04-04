@@ -8,6 +8,7 @@
 /**
 CSS Reset
 */
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 
 @font-face {
    font-family: 'avenirblack';
@@ -34,6 +35,10 @@ CSS Reset
     src: url('../fonts/novecento/Novecentosanswide-Light.otf') format('truetype');
 }
 
+* {
+    font-family: 'Raleway', 'sans-serif';
+}
+
 html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i,dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed,
@@ -41,8 +46,11 @@ figure, figcaption, footer, header, hgroup,menu, nav, output, ruby, section, sum
     margin: 0;
     padding: 0;
     border: 0;
-    font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
-		line-height: 1.5;
+	line-height: 1.7;
+}
+
+body {
+    font-size: 15px;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -125,13 +133,11 @@ header .text-box .text-quote {
 	margin-bottom: 15px;
 }
 header .text-box .text-p {
-	font-family: 'avenirlight';
-	font-size: 18px;
+	font-size: 16px;
 }
 header .btn-consult {
 	color: #335a79;
 	background-color: #ffca15;
-	font-family: 'avenir';
 	padding: 2.5px 2.5px 2.5px 18px;
 	border-radius: 25px;
 	box-shadow:
@@ -160,7 +166,8 @@ header .btn-consult img {
     left: 0;
 }
 .logique-nav .text-center {
-    padding: 5px 10px
+    padding: 5px 10px;
+    line-height: normal;
 }
 .logique-nav .text-center.active,
 .logique-nav .text-center.active:focus,
@@ -178,7 +185,8 @@ header .btn-consult img {
 }
 .logique-nav a {
     color: #000;
-    text-decoration:none!important
+    text-decoration:none!important;
+    font-size: 12px;
 }
 .logique-nav .text-center.active a,
 .logique-nav .text-center.active:focus a,
@@ -713,8 +721,6 @@ ul.medsos-new li a{
 	margin-bottom: 15px;
 	background: url(../img/img-dentist/feature-list-icon.png) no-repeat left  5px ;
 	padding-left: 22px;
-	font-size: 16px;
-	font-family: avenirlight, sans-serif;
 }
 
 .contact-form-container fieldset{
@@ -727,7 +733,6 @@ ul.medsos-new li a{
 	border:0;
 	background: #fff;
 	color: #111;
-	font-family: avenirlight
 }
 .contact-form-container textarea{
 	height: 110px;
@@ -806,8 +811,6 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 .testimonial-content{
 	color: #9B9B9B;
 	line-height: 24px;
-	font-size: 14px;
-	font-family: 'avenirlight';
 }
 .testimonial-sender{
 	float: right;
@@ -843,7 +846,6 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	font-weight: 300;
 	padding:10px 20px;
 	display: block;
-	font-family: avenirlight;
 	height: auto;
 }
 .contactform-dental textarea{
@@ -880,7 +882,6 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 }
 .poin-penting p,
 .poin-penting ol li {
-	font-family: 'avenir';
 	font-size: 15px;
 	color: #335a79;
 }
@@ -910,7 +911,6 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 }
 .stats ul li {
 	position: relative;
-	font-family: 'avenir';
 	font-size: 15px;
 	color: #335a79;
 	margin-bottom: 20px;
@@ -940,7 +940,7 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	background-color: #9e9d23;
 }
 .stats ul li:first-child {
-	font-family: 'avenirheavy';
+    font-weight: 700;
 	padding-left: 0;
 }
 .stats ul li:first-child:before {
@@ -948,7 +948,7 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 }
 .stats p {
 	display: block;
-	font-family: 'avenirblack';
+    font-weight: 700;
 	font-style: italic;
 	font-size: 12px;
 }
@@ -1000,8 +1000,6 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 }
 .masalah-1 p {
 	padding-top: 10px;
-	font-family: 'avenir';
-	font-size: 15px;
 	color: #335a79;
 }
 .masalah-1 [class^="col-"] {
@@ -1024,8 +1022,6 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 }
 .solusi p {
 	padding-top: 20px;
-	font-family: 'avenir';
-	font-size: 15px;
 	color: #335a79;
 }
 .solusi [class^="col-"] {
@@ -1075,11 +1071,7 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	color: #ffca15;
 }
 .d-layanan h3 {
-	font-family: 'avenir';
 	font-size: 15px;
-}
-.d-layanan h3 b {
-	font-family: 'avenirblack';
 }
 .layanan [class^="col-"] {
 	padding: 0 20px;
@@ -1090,8 +1082,7 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	height: 44px;
 }
 .layanan h4 {
-	font-family: 'avenirblack';
-	font-size: 18px;
+	font-size: 17px;
 	border-left: 5px solid #ffca15;
 	padding: 3px 0 3px 10px;
 }
@@ -1124,8 +1115,6 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	font-family: 'avenirblack';
 }
 .include-template {
-	font-family: 'avenir';
-	font-size: 15px;
 	color: #335a79;
 	text-align: center;
 	padding: 24px;
@@ -1141,7 +1130,6 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	right: 0;
 	bottom: 0;
 	margin: auto;
-	font-family: 'avenir';
 	font-size: 17px;
 	color: #fff;
 	text-transform: uppercase;
@@ -1236,8 +1224,6 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 .templates p {
 	position: relative;
 	padding-left: 20px;
-	font-family: 'avenir';
-	font-size: 15px;
 	color: #335a79;
 	margin-top: 18px;
 	margin-bottom: 40px;
@@ -1282,7 +1268,6 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	font-size: 23px;
 }
 .biaya h4 {
-	font-family: 'avenirblack';
 	font-size: 18px;
 	border-left: 20px solid #FFC914;
 	padding-left: 10px;
@@ -1290,14 +1275,9 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	color: #335a79;
 }
 .biaya p {
-	font-family: 'avenir';
-	font-size: 16px;
 	color: #335a79;
 	padding-left: 30px;
 	margin-bottom: 20px;
-}
-.biaya p b {
-	font-family: 'avenirblack';
 }
 .situs {
 	padding: 50px 0;
@@ -1308,16 +1288,14 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	max-width: 100%;
 }
 .situs h4 {
-	font-family: 'avenir';
 	font-size: 15px;
 	color: #335a79;
 	margin-top: 20px;
 	margin-bottom: 35px;
 }
 .situs span {
-	font-family: 'avenir';
-	font-size: 15px;
 	color: #ffca15;
+    font-weight: 700;
 }
 .situs span a {
 	color: #335a79;
@@ -1343,12 +1321,10 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	padding: 10px 25px;
 	border-radius: 30px;
 	border: 1px solid #4a90e2;
-	font-family: 'avenir';
 	color: #335a79;
 	font-size: 17px;
 }
 .contact-info a {
-	font-family: 'avenir';
 	color: #335a79;
 	font-size: 17px;
 	margin-left: 10px;

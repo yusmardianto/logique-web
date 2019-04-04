@@ -8,6 +8,11 @@
 /**
 CSS Reset
 */
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+* {
+    font-family: 'Raleway', 'sans-serif';
+}
+
 html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i,dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed,
@@ -15,7 +20,13 @@ figure, figcaption, footer, header, hgroup,menu, nav, output, ruby, section, sum
     margin: 0;
     padding: 0;
     border: 0;
-    font-family: 'Lato', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif;
+}
+body {
+  font-size: 15px;
+  line-height: 1.7;
 }
 .custom-text{
 	font-family: 'Architects Daughter', cursive;
@@ -71,6 +82,7 @@ img.pright{
 	font-weight: 900 !important;
 }
 .sp-text.red{
+  font-family: 'Lato', sans-serif;
 	color: #ff1515!important;
 }
 .sp-text.black{
@@ -162,8 +174,7 @@ section h2, footer h2{
 	margin-bottom: 30px;
 }
 .solpart p{
-	font-size: 14px;
-
+	font-size: 16px;
 }
 .solpart h3{
 	font-size: 20px;
@@ -353,14 +364,14 @@ footer *{
 	padding: 50px 0 30px;
 }
 .footer-text p{
-	font-size: 14px;
+	font-size: 15px;
 }
 .copyright-container{
 	border-top: 1px solid #393939;
 	padding: 20px 0;
 }
 .copyright-container div{
-	font-size: 14px;
+	font-size: 15px;
 }
 /* responive */
  

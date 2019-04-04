@@ -217,7 +217,7 @@ bingung bagaimana cara memulainya. Dam Logique memberi kemudahan dan dapat memen
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-8 bartext">
-								Memiliki perntanyaan dan perlu informasi lebih lanjut ?
+								Memiliki pertanyaan dan perlu informasi lebih lanjut ?
 							</div>
 							<div class="col-sm-4 text-right">
 								<a  href="https://www.logique.co.id/hubungi-kami.php" target="_blank"  class="btn btn-black makebtn">Buat Sekarang</a>
