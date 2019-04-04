@@ -671,36 +671,36 @@
     									<div class="grey-clr">Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial</div>
     								</div>
     							</div>
-                  <div class="clearfix"></div>
-                  <div class="col-sm-4">
-                    <a href="https://www.60jpid.com/" target="_blank">
-                      <img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
-                      60<sup>th</sup> Anniversary Japan-Indonesia
-                    </a>
-                    <div class="addition-desc text-left">
-                      WEB Operation and WEB Development  (Design | Coding | Content Creation | Operation)
-                      <div class="grey-clr">CMS, Multi-Language, Mobile, Web Security, Public</div>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <img src="/img/portfolio/wantjp.png" class="img-responsive center-block">
-                      Want.jp
-                    <div class="addition-desc text-left">
-                      E-Commerce Development (PWA | ReactJS | NodeJS) 
-                      <div class="grey-clr">Mobile Optimized PWA, Cross Border E-Commerce</div>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <a href="https://banzaihobby.com/" target="_blank">
-                      <img src="/img/portfolio/banzai-hobby.png" class="img-responsive center-block">
-                      Banzai Hobby
-                    </a>
-                    <div class="addition-desc text-left">
-                      Server Migration to AWS (Migration | Hosting | AWS)
-                      <div class="grey-clr">E-Commerce, Zen Cart</div>
-                    </div>
-                  </div>
-                  <!--<div class="col-sm-4">
+							  <div class="clearfix"></div>
+							  <div class="col-sm-4">
+								<a href="https://www.60jpid.com/" target="_blank">
+								  <img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
+								  60<sup>th</sup> Anniversary Japan-Indonesia
+								</a>
+								<div class="addition-desc text-left">
+								  WEB Operation and WEB Development  (Design | Coding | Content Creation | Operation)
+								  <div class="grey-clr">CMS, Multi-Language, Mobile, Web Security, Public</div>
+								</div>
+							  </div>
+							  <div class="col-sm-4">
+								<img src="/img/portfolio/wantjp.png" class="img-responsive center-block">
+								  Want.jp
+								<div class="addition-desc text-left">
+								  E-Commerce Development (PWA | ReactJS | NodeJS) 
+								  <div class="grey-clr">Mobile Optimized PWA, Cross Border E-Commerce</div>
+								</div>
+							  </div>
+							  <div class="col-sm-4">
+								<a href="https://banzaihobby.com/" target="_blank">
+								  <img src="/img/portfolio/banzai-hobby.png" class="img-responsive center-block">
+								  Banzai Hobby
+								</a>
+								<div class="addition-desc text-left">
+								  Server Migration to AWS (Migration | Hosting | AWS)
+								  <div class="grey-clr">E-Commerce, Zen Cart</div>
+								</div>
+							  </div>
+							  <!--<div class="col-sm-4">
     								<a href="http://wkvetter.com" target="_blank">
     									<img src="/img/portfolio/vetter.png" class="img-responsive center-block">
     									Vetter
@@ -710,6 +710,27 @@
     									<div class="grey-clr">Mobile Optimized, CMS, News Portal</div>
     								</div>
     							</div>-->
+								<div class="clearfix"></div>
+								<div class="col-sm-4">
+									<a href="https://jjc.or.id/hojin/annai/" target="_blank">
+										<img src="/img/portfolio/jjc_hojin.png" class="img-responsive center-block">
+										JJC Hojin
+									</a>
+									<div class="addition-desc text-left">
+										Web Re-Design (Design | CMS | Coding)
+										<div class="grey-clr">WordPress, Mobile Optimized, Member System</div>
+									</div>
+								</div>
+								<div class="col-sm-4">
+									<a href="https://jjc.or.id/kojin/tosho/" target="_blank">
+										<img src="/img/portfolio/jjc_kojin.png" class="img-responsive center-block">
+										JJC Kojin
+									</a>
+								  <div class="addition-desc text-left">
+									Web Re-Design (Design | CMS | Coding)
+									<div class="grey-clr">WordPress, Mobile Optimized, Member Management System, Booking System </div>
+								  </div>
+								</div>	
                 </div>
               </div>
               <center>
