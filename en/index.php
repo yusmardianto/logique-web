@@ -140,7 +140,7 @@
 							  <div class="carousel-inner">
 								<div class="item active">
 									<div class="text-center">
-										<h1 class="title-index" style="font-size: 40px;">
+										<h1 class="title-index">
 											The <span class="yellow">Top</span> Web Developer Company in Jakarta, Providing <span class="yellow">Digital Solutions</span> For Your Business
 										</h1>
 										<p class="p-padding-v-15">
@@ -305,7 +305,7 @@
 						  <div class="carousel-inner">
 							<div class="item active">
 								<div class="text-center">
-									<h1 class="title-index" style="font-size: 40px;">
+									<h1 class="title-index">
 										The <span class="yellow">Top</span> Web Developer Company in Jakarta, Providing <span class="yellow">Digital Solutions</span> For Your Business
 									</h1>
 									<p class="p-padding-v-15">

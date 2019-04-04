@@ -60,17 +60,17 @@
 							<div class="row">
 								<div class="col-md-offset-2 col-md-4">
 									<ul class="dashed left">
-										<li class="wow bounceInUp font-22" data-wow-delay="1s">Apa itu CyberSecurity?</li>
+										<li class="wow bounceInUp" data-wow-delay="1s">Apa itu CyberSecurity?</li>
 										<li class="wow fadeInDown" data-wow-delay="1.8s">Apakah itu penting?</li>
 										<li class="wow zoomInLeft" data-wow-delay="2.6s">Seberapa bahaya ancaman siber tersebut?</li>
-										<li class="font-22 wow fadeInRight" data-wow-delay="3.4s">Apakah saya sudah terlindungi?</li>
+										<li class="wow fadeInRight" data-wow-delay="3.4s">Apakah saya sudah terlindungi?</li>
 									</ul>
 								</div>
 								<div class="col-md-4">
 									<ul class="dashed">
 										<li class="wow rotateInDownLeft" data-wow-delay="4.2s">Bisakah para peretas mencuri data atau informasi saya?</li>
 										<li class="wow bounceInLeft" data-wow-delay="5s">Bagaimana pengaruhnya terhadap bisnis saya?</li>
-										<li class="wow flipInY font-22" data-wow-delay="5.8s">Bagaimana cara melindungi bisnis dan data saya?</li>
+										<li class="wow flipInY" data-wow-delay="5.8s">Bagaimana cara melindungi bisnis dan data saya?</li>
 									</ul>
 								</div>
 							</div>

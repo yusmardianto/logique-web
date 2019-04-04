@@ -286,7 +286,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-5">
 						<h2 class="font-28">Klien / Portofolio</h2>
 						<br/>
-						<div class="font-20">Kami memiliki pengalaman bekerja sama dengan klien dari berbagai sektor industri dan telah membantu menghasilkan aplikasi mobile yang mampu memecahkan masalah perusahaan, meningkatkan penjualan, dan menjaga relasi pelanggan.
+						<div>Kami memiliki pengalaman bekerja sama dengan klien dari berbagai sektor industri dan telah membantu menghasilkan aplikasi mobile yang mampu memecahkan masalah perusahaan, meningkatkan penjualan, dan menjaga relasi pelanggan.
 						</div>
 						<br/><br/>
 					</div>
@@ -300,8 +300,8 @@ if(isset($_POST['submitted']))
 								<div class="col-sm-7">
 									<div class="caption-portfolio">
 										<div class="arrow-left"></div>
-										<div class="font-28">Kategori Finansial:</div><br/>
-										<div class="font-20">
+										<h2 class="font-28">Kategori Finansial:</h2><br/>
+										<div>
 										Aplikasi yang membantu pelanggan mendapatkan informasi seputar polis asuransi dan berinteraksi dengan agen untuk salah satu asuransi terbesar di Indonesia. Aplikasi ini dikembangkan menggunakan teknologi: Ionic Framework, AngularJS, HTML5, dan CSS3.
 										</div>
 									</div>
@@ -316,8 +316,8 @@ if(isset($_POST['submitted']))
 								<div class="col-sm-7">
 									<div class="caption-portfolio">
 										<div class="arrow-left"></div>
-										<div class="font-28">Kategori Jasa:</div><br/>
-										<div class="font-20">
+										<h2 class="font-28">Kategori Jasa:</h2><br/>
+										<div>
 										Aplikasi yang membantu pengelola spa internasional untuk meningkatkan layanan dan relasi dengan pelanggan. Aplikasi ini dikembangkan menggunakan teknologi Java pada Android serta Laravel Lument sebagai pendukung API.
 										</div>
 									</div>
@@ -332,8 +332,8 @@ if(isset($_POST['submitted']))
 								<div class="col-sm-7">
 									<div class="caption-portfolio">
 										<div class="arrow-left"></div>
-										<div class="font-28">Kategori Otomotif:</div><br/>
-										<div class="font-20">
+										<h2 class="font-28">Kategori Otomotif:</h2><br/>
+										<div>
 										Aplikasi yang membantu dealer mengelola iklan mobil pada salah satu portal mobil bekas terbesar di Indonesia. Aplikasi ini dikembangkan menggunakan teknologi Java untuk Android dan Swift untuk iOS serta CakePHP sebagai pendukung API.
 										</div>
 									</div>

@@ -252,7 +252,7 @@
 						  <div class="carousel-inner">
 								<div class="item active">
 									<div class="text-center">
-										<h1 class="title-index" style="font-size:40px">
+										<h1 class="title-index">
 											<span class="yellow">インドネシア</span>でお客様の課題を<br><span class="yellow">Web・IT</span>の活用で解決してきました。
 										</h1>
 										<p class="p-padding-v-15">

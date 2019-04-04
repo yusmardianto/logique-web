@@ -8,6 +8,7 @@
 /**
 CSS Reset
 */
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i,dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed,
@@ -15,6 +16,13 @@ figure, figcaption, footer, header, hgroup,menu, nav, output, ruby, section, sum
     margin: 0;
     padding: 0;
     border: 0;
+    line-height: 1.7;
+}
+body {
+    font-size: 15px;
+    font-family: 'Raleway', 'sans-serif';
+}
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', sans-serif;
 }
 .custom-text{
@@ -51,7 +59,7 @@ strong{
     padding-right:0;
 }
 div, p, li{
-    font-size: 18px;
+    font-size: 15px;
 
 }
 p{margin-bottom: 20px;
@@ -162,7 +170,7 @@ header.head-banner{
 }
 .problem-content .row div {
 	text-align: left;
-	font-size: 16px;
+	font-size: 15px;
 }
 .problem-content .row div img{
 	max-width: 180px; margin-bottom: 10px;
@@ -196,7 +204,7 @@ header.head-banner{
 	padding-top: 40px;
 }
 .solution-text *{
- 	font-size: 16px;
+ 	font-size: 15px;
 }
  
 
@@ -209,7 +217,7 @@ header.head-banner{
 	background: url(../img/img-recruitment-website/icon-list1.png) no-repeat left 5px; ;
 	padding-left: 35px;
 	text-align: justify;
-	font-size: 16px;
+	font-size: 15px;
 }
 
 .simul-cont1{
@@ -416,7 +424,7 @@ header.head-banner{
 	;
 }
 .testi-text{
-	font-size: 14px;
+	font-size: 15px;
 	line-height: 30px;
 }
 .quoteicon{

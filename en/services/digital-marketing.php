@@ -36,6 +36,68 @@
 	<!-- End Twitter universal website tag code -->
 </head>
 	<body>
+		<div class="nav-lp">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+				<span class="icon-bar first"></span>
+				<span class="icon-bar second"></span>
+				<span class="icon-bar third"></span> 
+			</button>
+			<div class="collapse navbar-collapse" id="myNavbar">
+				<div class="backdrop-test"></div>
+				<div class="logique-nav">
+					<div class="margin-for-nav">
+						<div class="text-center">
+							<a href="/en/index.php">
+								<div class="img-home"></div>
+								Home
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/en/about.php">
+								<div class="img-about"></div>
+								About Us
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/en/portfolio.php">
+								<div class="img-portfolio"></div>
+								Portfolio
+							</a>
+						</div>
+						<div class="text-center active">
+							<a href="/en/services.php">
+								<div class="img-services"></div>
+								Services
+							</a>
+						</div>
+					 	<div class="text-center">
+							<a href="/en/product.php">
+								<div class="img-product"></div>
+								Product
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/en/joinus.php">
+								<div class="img-career"></div>
+								Career
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/en/contact.php">
+								<div class="img-contact"></div>
+								Contact Us
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="https://www.logique.co.id/blog/" target="_blank">
+								<div class="img-blog"></div>
+								Blog
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 		<div class="language-btn">
 			<ul class="list-inline">
 				<li class="active"><a href="#">EN</a></li>
@@ -62,7 +124,7 @@
 						<div class="bg-black-title inline-block">
 							Lead You to Success!
 						</div>
-						<div class="font-16">
+						<div>
 							<br/>
 							Facing the digital era today certainly creates its own challenges, especially for businesses in order to be competitive and successful. LOGIQUE, a Japanese professional digital marketing company based in Jakarta, provides solutions to this challenge by offering digital marketing services.<br><br>Our experience of more than 5 years in the digital world certainly makes us understand thoroughly about how business can compete and succeed in the digital world. We are ready to give you a solution to increase the profit of your business by utilizing the digital environment!<br/><br/>
 						</div>

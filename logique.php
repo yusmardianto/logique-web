@@ -177,7 +177,7 @@
 
           <div class="title title-30" style="font-weight:normal; background: #ffca13; padding-top: 20px;"><span class="yellow" style="color: #fff">Misi</span> LOGIQUE</div>
           <div class="form-container" style="background: #ffca13;  ">
-            <div class="mission-content" style="border:1px solid #ffca13; padding:0px 30px 0px; font-size: 16px;">
+            <div class="mission-content" style="border:1px solid #ffca13; padding:0px 30px 0px;">
               <ul>
                 <li>Mendukung berbagai perusahaan di Indonesia untuk berkembang dan meningkatkan bisnis mereka di bidang IT dan digital marketing dengan standar nilai yang tinggi dan memuaskan</li>
                 <li>Berkontribusi terhadap perkembangan web dan industri digital marketing di Indonesia dengan terus mengembangkan strategi baru dan solusi yang inovatif</li>
