@@ -30,9 +30,9 @@ ga('send', 'pageview');
 										</ul>
 									</li>
 							 		<li><a href="/en/services/pembuatan-sistem-web/" target="_blank">Web System Development</a></li>
-							 <li><a href="/en/services/pembuatan-aplikasi-mobile/">Mobile App Development</a></li>
-							 <li><a href="/en/services/penetration-testing/">WEB Security Assesment (Pentest)</a></li>
-						 
+							 <li><a href="/en/services/pembuatan-aplikasi-mobile/" target="_blank">Mobile App Development</a></li>
+							 <li><a href="/en/services/penetration-testing/" target="_blank">WEB Security Assesment (Pentest)</a></li>
+							 <li><a href="/en/services/digital-marketing.php" target="_blank">Digital Marketing </a></li>
 								</ul>
 							</li>
 							

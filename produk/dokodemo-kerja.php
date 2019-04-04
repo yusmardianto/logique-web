@@ -889,6 +889,7 @@ if(isset($_POST['submitted']))
 			                <li><a href="/layanan/pembuatan-sistem-web/" target="_blank">Jasa Pengembangan Sistem Web</a></li>
 			                <li><a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank">Pengembangan Aplikasi Mobile </a></li>
 			                <li class="text-left"><a href="/layanan/penetration-testing/" target="_blank">Pengetesan Keamanan Website (Pentest) </a></li>
+			              	<li class="text-left"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital Marketing </a></li>
 			              </ul>
 			            </li>
 			          </ul>

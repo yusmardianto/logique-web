@@ -355,9 +355,10 @@
 											<li><a href="/layanan/pembuatan-web-klinik-gigi.php" target="_blank">  歯科クリニック向けWeb制作</a></li>
 										</ul>
 									</li>
-									<li><a href="/jp/services/mobile-app-dev.php"> モバイルApp開発</a></li>
-									<li><a href="/jp/services/penetration-test.php"> Webセキュリティ診断サービス</a></li>
+									<li><a href="/jp/services/mobile-app-dev.php" target="_blank"> モバイルApp開発</a></li>
+									<li><a href="/jp/services/penetration-test.php" target="_blank"> Webセキュリティ診断サービス</a></li>
 									<li><a href="/jp/services/system-dev.php" target="_blank">WEBシステム開発</a></li>
+									<li><a href="/jp/services/digital-marketing.php" target="_blank">デジタルマーケティング活用支援 </a></li>
 								</ul>
 							</li>
 							

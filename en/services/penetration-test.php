@@ -324,6 +324,7 @@
 							 		<li><a href="/en/services/system-dev.php" target="_blank">Web System Development</a></li>
 							 <li><a href="/en/services/mobile-app-dev.php">Mobile App Development</a></li>
 							 <li><a href="/en/services/penetration-test.php">WEB Security Assesment (Pentest)</a></li>
+							 <li><a href="/en/services/digital-marketing.php" target="_blank">Digital Marketing </a></li>
 						 
 								</ul>
 							</li>

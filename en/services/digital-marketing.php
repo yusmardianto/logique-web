@@ -440,7 +440,7 @@
 						<a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"><img alt="Form" src="assets/img/img-digital-marketing/form-footer.png" class="img-responsive center-block"/></a>
 						<br/>
 						Other services:<br/>
-						<a target="_blank" href="/en/services/recruitment-web-dev.php">Company Recruitment Page Production</a>
+						<a target="_blank" href="/en/services/recruitment-web-dev.php">Recruitment Website Creation</a>
 						<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
 						<a target="_blank" href="/en/services/mobile-app-dev.php">Mobile Application Development</a>
 					</div>
