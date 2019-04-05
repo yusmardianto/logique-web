@@ -616,3 +616,41 @@ section,footer{margin-left:95px}
 @media (max-width: 360px){
 	.logo-header {width: 165px;}
 }
+
+/*Additional design for two buttons*/
+.link-page-price-and-portfolio {
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+.link-yellow-white {
+    flex: 1 0 250px;
+    background: #ffca13;
+    color: #000;
+    transition: all .5s;
+    border: 2px solid #ffca13;
+    white-space: normal;
+    font-size: 21px;
+    font-weight: 700;
+    padding: 20px 25px;
+    margin: 15px 25px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+@media (max-width: 991px) {
+    .link-yellow-white {
+        font-size: 16px;
+        padding: 15px 20px;
+    }
+}
+
+.link-yellow-white:hover {
+    background: #fff;
+    text-decoration: none;
+    color: #000;
+}
+.link-yellow-white:focus {
+    color: #000;
+    text-decoration: none;
+}

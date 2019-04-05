@@ -307,6 +307,10 @@ if(isset($_POST['submitted']))
 						</div>
 					</div>
 				</div>
+				<div class="link-page-price-and-portfolio">
+					<a class="link-yellow-white" href="/jp/services/webdev-price-range.php">Webサイト制作運用の費用について</a>
+					<a class="link-yellow-white" href="/jp/portfolio.php">Webサイト制作実績</a>
+				</div>
 			</div>
 		</section>
 

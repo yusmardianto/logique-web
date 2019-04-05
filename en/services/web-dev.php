@@ -397,6 +397,10 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="clearfix"></div>
 				</div>
+				<div class="link-page-price-and-portfolio">
+					<a class="link-yellow-white" href="/en/services/webdev-price-range.php">See the price of Website production and operation</a>
+					<a class="link-yellow-white" href="/en/portfolio.php">See our Website production results</a>
+				</div>
 			</div>
 		</section>
 		<section class="obstacle" style="padding-top: 20px">

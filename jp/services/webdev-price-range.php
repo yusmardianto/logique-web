@@ -107,8 +107,8 @@
 						<div class="col-xs-6  col-sm-6 text-right">
 							<div class="language-btn">
 								<ul class="list-inline">
-									<li><a href="/en/services/system-dev.php">EN</a></li>
-									<li><a href="/layanan/system-dev.php">ID</a></li>
+									<li><a href="/en/services/webdev-price-range.php">EN</a></li>
+									<li><a href="/layanan/webdev-price-range.php">ID</a></li>
 									<li class="active"><a href="#">JP</a></li>
 								</ul>
 							</div>
@@ -299,109 +299,109 @@
 				<div class="other-price-container">
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">HTML / CSS コーディング (1サイト） </div>
-							<div class="col-sm-4 col-md-2 text-right">15,000,000 IDR 〜</div>
+							<div class="col-sm-8 col-md-4">HTML / CSS コーディング (1サイト） </div>
+							<div class="col-sm-4 col-md-3">15,000,000 IDR 〜</div>
 							<div class="col-sm-12 col-md-5 ">Webサイトの構成によりますが、通常のコーポレートWeb（合計10ページ程度まで）ですと15,000,000 IDRで全ページHTML/CSSマークアップすることが可能です。標準的なコーディングをしますしGAタグの設置やご指定のメタタグ記述もいたします。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">HTML / CSS コーディング (1ページあたり）  </div>
-							<div class="col-sm-4 col-md-2 text-right">500,000 IDR</div>
+							<div class="col-sm-8 col-md-4 ">HTML / CSS コーディング (1ページあたり）  </div>
+							<div class="col-sm-4 col-md-3">500,000 IDR</div>
 							<div class="col-sm-12 col-md-5 ">ページ内コンテンツのボリュームや構成により大きく異なる可能性はありますが、目安としては1ページ500,000 IDRとお考えください。10ページあるWebサイトのデザインとコンテンツが全て準備出来ている場合、5,000,000 IDRで全てコーディングすることが可能です。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">モーションコーディング  </div>
-							<div class="col-sm-4 col-md-2 text-right">5,000,000 IDR〜</div>
+							<div class="col-sm-8 col-md-4">モーションコーディング  </div>
+							<div class="col-sm-4 col-md-3">5,000,000 IDR 〜</div>
 							<div class="col-sm-12 col-md-5 ">JQueryやHTML5などを使用したパララックス効果をつける動きなどのビジュアルプログラミングを行います。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">ロゴ・イラスト作成 </div>
-							<div class="col-sm-4 col-md-2 text-right">10,000,000 IDR〜</div>
+							<div class="col-sm-8 col-md-4">ロゴ・イラスト作成 </div>
+							<div class="col-sm-4 col-md-3">10,000,000 IDR 〜</div>
 							<div class="col-sm-12 col-md-5 ">新規事業でロゴがまだない場合などがあります。複数パターンを作成しながら理想のロゴに近づけるご支援をしんがら完成まで導きます。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">オンラインチャット機能 </div>
-							<div class="col-sm-4 col-md-2 text-right">5,000,000 IDR</div>
+							<div class="col-sm-8 col-md-4">オンラインチャット機能 </div>
+							<div class="col-sm-4 col-md-3">5,000,000 IDR</div>
 							<div class="col-sm-12 col-md-5 ">オンラインチャットツールを御社WebサイトにImplementします。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">お問い合わせページ最適化 </div>
-							<div class="col-sm-4 col-md-2 text-right">15,000,000 IDR 〜</div>
-							<div class="col-sm-12 col-md-5 ">お問い合わせページのコンテンツの最適化、フォーム最適化により、問い合わせ数の最大化、ドロップ率の最小化を実現します。</div>
+							<div class="col-sm-8 col-md-4">お問い合わせページ最適化 </div>
+							<div class="col-sm-4 col-md-3">15,000,000 IDR 〜</div>
+							<div class="col-sm-12 col-md-5">お問い合わせページのコンテンツの最適化、フォーム最適化により、問い合わせ数の最大化、ドロップ率の最小化を実現します。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">採用ページ最適化 </div>
-							<div class="col-sm-4 col-md-2 text-right">15,000,000 IDR</div>
-							<div class="col-sm-12 col-md-5 "><p>採用ページのコンテンツを最適化してWeb経由の応募数を増やします。採用サイトを特設サイトとして構築することも可能です。詳細はこちら。</p><p>
+							<div class="col-sm-8 col-md-4">採用ページ最適化 </div>
+							<div class="col-sm-4 col-md-3">15,000,000 IDR</div>
+							<div class="col-sm-12 col-md-5"><p>採用ページのコンテンツを最適化してWeb経由の応募数を増やします。採用サイトを特設サイトとして構築することも可能です。 <a href="/jp/services/recruitment-web-dev.php">詳細はこちら。</a></p><p>
 				採用業務を効率的に行うためのクラウドツールの販売もしています。Sugoi Saiyo </p></div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">ショッピング・カート機能作成   </div>
-							<div class="col-sm-4 col-md-2 text-right">20,000,000 IDR 〜</div>
-							<div class="col-sm-12 col-md-5 ">E-Commerceフレームワークを使用してショッピング機能を御社のWebに付与します。要件によって大きな幅が出ますので詳細はご相談ください。</div>
+							<div class="col-sm-8 col-md-4">ショッピング・カート機能作成   </div>
+							<div class="col-sm-4 col-md-3">20,000,000 IDR 〜</div>
+							<div class="col-sm-12 col-md-5">E-Commerceフレームワークを使用してショッピング機能を御社のWebに付与します。要件によって大きな幅が出ますので詳細はご相談ください。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5  ">ペイメントゲートウェイ連携 </div>
-							<div class="col-sm-4 col-md-2 text-right">15,000,000 IDR 〜</div>
-							<div class="col-sm-12 col-md-5 ">インドネシアで利用可能な各社のペイメントゲートウェイサービスとの連携機能構築の実績があります。サブスクリプション決済なども可能ですのでご相談ください。</div>
+							<div class="col-sm-8 col-md-4">ペイメントゲートウェイ連携 </div>
+							<div class="col-sm-4 col-md-3">15,000,000 IDR 〜</div>
+							<div class="col-sm-12 col-md-5">インドネシアで利用可能な各社のペイメントゲートウェイサービスとの連携機能構築の実績があります。サブスクリプション決済なども可能ですのでご相談ください。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">API作成  </div>
-							<div class="col-sm-4 col-md-2 text-right">15,000,000 IDR 〜</div>
+							<div class="col-sm-8 col-md-4">API作成  </div>
+							<div class="col-sm-4 col-md-3">15,000,000 IDR 〜</div>
 							<div class="col-sm-12 col-md-5 ">他システムや他Webサイト、モバイルアプリ、サービスとの機能・情報連携のためにAPI作成を行います。送受信されるデータ形式（XML,HTML,JSONなど）に合わせ開発します。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">コンテンツ作成 </div>
-							<div class="col-sm-4 col-md-2 text-right">ご相談ください</div>
-							<div class="col-sm-12 col-md-5 ">定期的なコンテンツ作成運用もワンショットのコンテンツ作成（Webサイト作成時のコンテンツ作成）も可能です。ボリューム、作成するコンテンツの特殊性、作成コンテンツの言語、などによって料金に幅がありますのでご相談ください。
+							<div class="col-sm-8 col-md-4">コンテンツ作成 </div>
+							<div class="col-sm-4 col-md-3">ご相談ください</div>
+							<div class="col-sm-12 col-md-5">定期的なコンテンツ作成運用もワンショットのコンテンツ作成（Webサイト作成時のコンテンツ作成）も可能です。ボリューム、作成するコンテンツの特殊性、作成コンテンツの言語、などによって料金に幅がありますのでご相談ください。
 							</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">写真撮影  </div>
-							<div class="col-sm-4 col-md-2 text-right">5,000,000 〜</div>
-							<div class="col-sm-12 col-md-5 ">1撮影場所、カット数5〜10、撮影時間4時間までで5,000,000 IDRとなります。屋外や工場内での撮影などは詳細をご相談ください。
+							<div class="col-sm-8 col-md-4">写真撮影  </div>
+							<div class="col-sm-4 col-md-3">5,000,000 IDR 〜</div>
+							<div class="col-sm-12 col-md-5">1撮影場所、カット数5〜10、撮影時間4時間までで5,000,000 IDRとなります。屋外や工場内での撮影などは詳細をご相談ください。
 							</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">ドローン撮影 </div>
-							<div class="col-sm-4 col-md-2 text-right">5,000,000 〜</div>
+							<div class="col-sm-8 col-md-4">ドローン撮影 </div>
+							<div class="col-sm-4 col-md-3">5,000,000 IDR 〜</div>
 							<div class="col-sm-12 col-md-5 ">1撮影場所、1フライト、撮影時間15分まで、成果物動画データ。飛行許可取得などは含んでいません。
 							</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">動画撮影編集 </div>
-							<div class="col-sm-4 col-md-2 text-right">20,000,000 〜  </div>
+							<div class="col-sm-8 col-md-4 ">動画撮影編集 </div>
+							<div class="col-sm-4 col-md-3">20,000,000 IDR 〜</div>
 							<div class="col-sm-12 col-md-5 ">グラフィックのみで制作する動画から、撮影を行い制作するムービーまで、様々なニーズにお応えします。
 							</div>
 						</div>
 					</div>
 					<div class="btn-container text-center">
-						<a href="contact.php" class="btn btn-contact-us-black">
+						<a href="/jp/contact.php" class="btn btn-contact-us-black">
 						こちらから詳細なお見積りをご相談いただけます
 						</a>
 					</div>
