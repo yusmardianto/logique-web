@@ -451,7 +451,7 @@ if(isset($_POST['submitted']))
 						<li>
 							Sistem CRM untuk Pelayanan Jalan Kendaraan Bermotor.<br>
 							<small class="text-muted">3 bulan, PHP Framework, Payment Gateway, AWS | 
-								<a data-toggle="modal" data-target="#pop6" href="#">See More</a>
+								<a data-toggle="modal" data-target="#pop6" href="#">Lihat lebih detail</a>
 							</small>
 						</li>
 						<!-- modal 6 -->
@@ -596,7 +596,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<li>
 							Pengembangan Sistem Web CMS Untuk Organisasi Publik.<br>
-							<small class="text-muted">2 bulan, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop12" href="#">See More</a></small>
+							<small class="text-muted">2 bulan, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop12" href="#">Lihat lebih detail</a></small>
 						</li>
 						<!-- modal 12 -->
 						<div id="pop12" class="modal fade" role="dialog">
@@ -617,7 +617,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<li>
 							Pengembangan web CMS untuk e-book commerce.<br>
-							<small class="text-muted">2 bulan, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop13" href="#">See More</a></small>
+							<small class="text-muted">2 bulan, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop13" href="#">Lihat lebih detail</a></small>
 						</li>
 						<!-- modal 13 -->
 						<div id="pop13" class="modal fade" role="dialog">
@@ -638,7 +638,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<li>
 							Sistem Portal Lowongan Pekerjaan.<br>
-							<small class="text-muted">2 bulan, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop14" href="#">See More</a></small>
+							<small class="text-muted">2 bulan, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop14" href="#">Lihat lebih detail</a></small>
 						</li>
 						<!-- modal 14 -->
 						<div id="pop14" class="modal fade" role="dialog">
@@ -660,7 +660,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<li>
 							Web Dengan Sistem Rekrutmen.<br>
-							<small class="text-muted">3 bulan, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop15" href="#">See More</a></small>
+							<small class="text-muted">3 bulan, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal" data-target="#pop15" href="#">Lihat lebih detail</a></small>
 						</li>
 						<!-- modal 15 -->
 						<div id="pop15" class="modal fade" role="dialog">
