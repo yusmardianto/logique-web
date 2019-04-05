@@ -133,7 +133,7 @@
 				<div class="container">
 					<h1>PRICE RANGE</h1>
 					<h2 class="price headerinfo">
-						様々な複合要因によりWeb制作料金は変わってきます。下記は目安としてお考えいただければと思います。下のケースに含まれないようなご要件についてはお気軽にお見積り依頼のご連絡いただければと思います。
+						参考までに当社のWeb・ホームページ制作関連費用の参考価格をこのページでご紹介します。ただし、様々な複合要因によりWeb制作料金は変わりますので、あくまでも目安としてお考えいただければと思います。以下のケースに含まれないようなご要件については、お気軽にお見積り依頼のご連絡いただければ幸いです。
 					</h2>
 				</div>
 			</div>
@@ -238,7 +238,7 @@
 					</div>
 				</div>
 				<div class="row price-item pt-4">
-					<div class="col-sm-12 price-title"><h3><span>ケース4</span></h3><span>CMSサイト（中規模）</span></div>
+					<div class="col-sm-12 price-title"><h3><span>ケース4</span></h3><span>会員管理、決済機能付き、CMSサイト</span></div>
 					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-4.png" class="img-responsive"></div>
 					<div class="col-md-6 col-sm-7">
 						<div class="price-cont">
@@ -287,7 +287,7 @@
 					<div class="row ">
 						<div class="col-sm-5 ">ヒアリング・初回ご提案 </div>
 						<div class="col-sm-2 text-right">無料</div>
-						<div class="col-sm-5">せを含みます。通常、ご提案段階でのデザイン制作はしておりません。どうしてもラフデザインの制作が必要な場合、提案デザイン制作費をいただく場合があります。</div>
+						<div class="col-sm-5">ご提案するためのやりとりや打ち合わせを含みます。通常、ご提案段階でのデザイン制作はしておりません。どうしてもラフデザインの制作が必要な場合、提案デザイン制作費をいただく場合があります。</div>
 					</div>
 				</div>	
 				<div class="other-estimate">
@@ -370,14 +370,7 @@
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">コンテンツ作成   </div>
-							<div class="col-sm-4 col-md-2 text-right">15,000,000 IDR 〜</div>
-							<div class="col-sm-12 col-md-5 ">お問い合わせページのコンテンツの最適化、フォーム最適化により、問い合わせ数の最大化、ドロップ率の最小化を実現します。</div>
-						</div>
-					</div>
-					<div class="other-price-item">
-						<div class="row">
-							<div class="col-sm-8 col-md-5 ">採用ページ最適化 </div>
+							<div class="col-sm-8 col-md-5 ">コンテンツ作成 </div>
 							<div class="col-sm-4 col-md-2 text-right">ご相談ください</div>
 							<div class="col-sm-12 col-md-5 ">定期的なコンテンツ作成運用もワンショットのコンテンツ作成（Webサイト作成時のコンテンツ作成）も可能です。ボリューム、作成するコンテンツの特殊性、作成コンテンツの言語、などによって料金に幅がありますのでご相談ください。
 							</div>

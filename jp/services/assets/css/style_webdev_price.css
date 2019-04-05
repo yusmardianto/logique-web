@@ -4,7 +4,7 @@ body {
 	/*font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;*/
     background-color: #fff;
     overflow-x: hidden;
-} 
+}
 .top-header-continer {
 	background: #000000;
 }
@@ -36,7 +36,8 @@ body {
 	left: 0;
 }
 .logique-nav .text-center {
-    padding: 8px 10px
+    padding: 5px 10px;
+    line-height: normal;
 }
 .logique-nav .text-center.active,
 .logique-nav .text-center.active:focus,
@@ -277,7 +278,7 @@ body {
 	font-size: 18px;
 	color: #fff;
 	float: right;
-	margin-top: 100px;
+	margin-top: 35px;
 	line-height: 28px;
 	font-weight: normal;
 }
