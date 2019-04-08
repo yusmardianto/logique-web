@@ -832,3 +832,19 @@ ul.medsos-new li a{
   }
 
 }
+
+/* additional */
+.disclaimer-container p {
+  background: #ffca13;
+  margin: 0 auto;
+  max-width: 700px;
+  color: #000;
+  padding: 15px 25px;
+  font-weight: 700;
+}
+@media (min-width: 500px) {
+  .disclaimer-container p {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+}

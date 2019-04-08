@@ -125,11 +125,20 @@
       <div class="container">
         <h1>PRICE RANGE</h1>
         <h2 class="price headerinfo">
-          The price range for website productions will change depending on various factors. The following should be considered as the standard estimation cost. If you want another particular website production service that isn’t mentioned below, feel free to contact us with a quote request.
+          LOGIQUE has developed websites from various types: government, finance, to lifestyle websites that drive conversions with high level of security and beautiful designs. 
+          All produced neatly and always met our clients’ satisfactions. 
+          Here is the standard price range set by LOGIQUE in producing any kind of website.
         </h2>
       </div>
     </div>
   </header>
+  <section class="section-style disclaimer-container">
+    <div class="container">
+      <p>
+          Please note that the price range and production period below should be considered as the standard estimation and can change depending on various factors, such as the size of website, complexity, amount of content, functionality, and your goals.
+      </p>
+    </div>
+  </section>
   <section class="section-style pricelist-container">
     <div class="container">
       <div class="row price-item pt-1">
@@ -230,7 +239,7 @@
         </div>
       </div>
       <div class="row price-item pt-4">
-        <div class="col-sm-12 price-title"><h3><span>Case 4</span></h3><span>CMS Site (medium scale)</span></div>
+        <div class="col-sm-12 price-title"><h3><span>Case 4</span></h3><span>Membership Website / E-Commerce / CMS Website (medium scale)</span></div>
         <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-4.png" class="img-responsive"></div>
         <div class="col-md-6 col-sm-7">
           <div class="price-cont">
@@ -269,7 +278,7 @@
         <div class="col-sm-8">
           <div class="estimate-title">
             <h2>Estimated Cost per Website Production</h2>
-            From hearing to the first proposal.
+            From gaining information about your website to the first proposal.
           </div>
         </div>
         <div class="col-sm-4">
@@ -278,23 +287,23 @@
       </div>
       <div class="estimate-item">
         <div class="row ">
-          <div class="col-sm-5 ">Initial Proposal </div>
-          <div class="col-sm-2 text-right">Free</div>
-          <div class="col-sm-5">Includes exchanges and meetings to make a proposal. Usually, we don’t create the design production at the proposal stage. However, if you really need one, we can create the rough design and you may be charged for proposing design production.</div>
+          <div class="col-sm-5 col-md-4 col-lg-4">Initial Proposal </div>
+          <div class="col-sm-2 col-md-3 col-lg-2">Free</div>
+          <div class="col-sm-5 col-md-5 col-lg-6">Includes interviews and meetings to make a proposal. Usually, we don’t create the design at the proposal stage. However, if you really need one, we can create the rough design and you may be charged for proposing design production.</div>
         </div>
       </div>
       <div class="other-estimate">
         <div class="other-estimate-title">
           <h3>Standard Price of Other Website Production</h3>
-          <div>Our prices vary depending on the level of difficulty, schedule tension, etc., but the individual work requests are as follows. Please note that the price below is the standard estimation.</div>
+          <div>Our prices vary depending on the level of difficulty, schedule tension, etc. Here is the price of each work request. Please note that the price below is also the standard estimation.</div>
         </div>
       </div>
       <div class="other-price-container">
         <div class="other-price-item">
           <div class="row">
-            <div class="col-sm-8 col-md-4">HTML/CSS Coding (1 Website)</div>
-            <div class="col-sm-4 col-md-3">15,000,000 IDR ～</div>
-            <div class="col-sm-12 col-md-5 ">
+            <div class="col-sm-8 col-md-4 col-lg-4">HTML/CSS Coding (1 Website)</div>
+            <div class="col-sm-4 col-md-3 col-lg-2">15,000,000 IDR ～</div>
+            <div class="col-sm-12 col-md-5 col-lg-6 ">
               Depending on the configuration of the website, it is possible to mark up the previous page HTML / CSS with 15,000,000 IDR if it is a normal corporate web (up to about 10 pages in total). 
               We will do standard coding, install Google Analytics tags, and write your specified meta tags.
             </div>
@@ -302,9 +311,9 @@
         </div>
         <div class="other-price-item">
           <div class="row">
-            <div class="col-sm-8 col-md-4 ">HTML/CSS Coding (Per 1 Page)</div>
-            <div class="col-sm-4 col-md-3">500,000 IDR</div>
-            <div class="col-sm-12 col-md-5 ">
+            <div class="col-sm-8 col-md-4 col-lg-4">HTML/CSS Coding (Per 1 Page)</div>
+            <div class="col-sm-4 col-md-3 col-lg-2">500,000 IDR</div>
+            <div class="col-sm-12 col-md-5 col-lg-6">
               Although it may differ depending on the volume and configuration of the content in the page, please note that 500,000 IDR per page is the standard estimation. 
               If all design and contents of the 10-page website are ready, it is possible to code all with 5,000,000 IDR.
             </div>
@@ -312,18 +321,18 @@
         </div>
         <div class="other-price-item">
           <div class="row">
-            <div class="col-sm-8 col-md-4">Motion Coding </div>
-            <div class="col-sm-4 col-md-3">5,000,000 IDR 〜</div>
-            <div class="col-sm-12 col-md-5 ">
+            <div class="col-sm-8 col-md-4 col-lg-4">Motion Coding</div>
+            <div class="col-sm-4 col-md-3 col-lg-2">5,000,000 IDR 〜</div>
+            <div class="col-sm-12 col-md-5 col-lg-6">
               Implement visual programming such as motion with parallax effect using jQuery, HTML5, etc.
             </div>
           </div>
         </div>
         <div class="other-price-item">
           <div class="row">
-            <div class="col-sm-8 col-md-4">Logo and Illustration Creation </div>
-            <div class="col-sm-4 col-md-3">10,000,000 IDR 〜</div>
-            <div class="col-sm-12 col-md-5 ">
+            <div class="col-sm-8 col-md-4 col-lg-4">Logo and Illustration Creation </div>
+            <div class="col-sm-4 col-md-3 col-lg-2">10,000,000 IDR 〜</div>
+            <div class="col-sm-12 col-md-5 col-lg-6">
               If your company does not have a logo yet, we can help you create one. 
               We will help you get close to the ideal logo and create multiple patterns of illustrations.
             </div>
@@ -331,36 +340,36 @@
         </div>
         <div class="other-price-item">
           <div class="row">
-            <div class="col-sm-8 col-md-4">Online Chat Function </div>
-            <div class="col-sm-4 col-md-3">5,000,000 IDR</div>
-            <div class="col-sm-12 col-md-5 ">
+            <div class="col-sm-8 col-md-4 col-lg-4">Online Chat Function </div>
+            <div class="col-sm-4 col-md-3 col-lg-2">5,000,000 IDR</div>
+            <div class="col-sm-12 col-md-5 col-lg-6">
               Implement an online chat tool on your website either for easier and instant customer support or even to increase your sales.
             </div>
           </div>
         </div>
         <div class="other-price-item">
           <div class="row">
-            <div class="col-sm-8 col-md-4">Inquiry page optimization </div>
-            <div class="col-sm-4 col-md-3">15,000,000 IDR 〜</div>
-            <div class="col-sm-12 col-md-5">
-              By optimizing the content of the inquiry page and the form, you can maximize the number of queries and minimize the drop rate from users who visit your website.
+            <div class="col-sm-8 col-md-4 col-lg-4">Inquiry page optimization </div>
+            <div class="col-sm-4 col-md-3 col-lg-2">15,000,000 IDR 〜</div>
+            <div class="col-sm-12 col-md-5 col-lg-6">
+              By optimizing the content of the inquiry page and the form, you can maximize the number of queries/leads and minimize the drop rate from users who visit your website.
             </div>
           </div>
         </div>
         <div class="other-price-item">
           <div class="row">
-            <div class="col-sm-8 col-md-4">Recruitment page optimization </div>
-            <div class="col-sm-4 col-md-3">15,000,000 IDR</div>
-            <div class="col-sm-12 col-md-5">
+            <div class="col-sm-8 col-md-4 col-lg-4">Recruitment page optimization </div>
+            <div class="col-sm-4 col-md-3 col-lg-2">15,000,000 IDR</div>
+            <div class="col-sm-12 col-md-5 col-lg-6">
               <p>Optimize the content on the recruiting page to increase the number of submissions through the website. It is also possible to build a hiring site as a special site. <a href="/en/services/recruitment-web-dev.php">Click here for details.</a></p>
               <p>We also sell cloud tools for efficient hiring operations, <b>Sugoi Saiyo</b>.</p></div>
           </div>
         </div>
         <div class="other-price-item">
           <div class="row">
-            <div class="col-sm-8 col-md-4">Create shopping cart function</div>
-            <div class="col-sm-4 col-md-3">20,000,000 IDR 〜</div>
-            <div class="col-sm-12 col-md-5">
+            <div class="col-sm-8 col-md-4 col-lg-4">Create shopping cart function</div>
+            <div class="col-sm-4 col-md-3 col-lg-2">20,000,000 IDR 〜</div>
+            <div class="col-sm-12 col-md-5 col-lg-6">
               We can use the e-commerce framework to grant shopping capabilities to your web. 
               There is a wide range of this feature depending on the requirements, so please contact us for details.
             </div>
@@ -368,9 +377,9 @@
         </div>
         <div class="other-price-item">
           <div class="row">
-            <div class="col-sm-8 col-md-4">Payment gateway cooperation </div>
-            <div class="col-sm-4 col-md-3">15,000,000 IDR 〜</div>
-            <div class="col-sm-12 col-md-5">
+            <div class="col-sm-8 col-md-4 col-lg-4">Payment gateway cooperation </div>
+            <div class="col-sm-4 col-md-3 col-lg-2">15,000,000 IDR 〜</div>
+            <div class="col-sm-12 col-md-5 col-lg-6">
               We have a track record of establishing linkage functions with the payment gateway service for notable companies in Indonesia. 
               Please contact us as subscription settlement is also possible.
             </div>
@@ -378,9 +387,9 @@
         </div>
         <div class="other-price-item">
           <div class="row">
-            <div class="col-sm-8 col-md-4">API Creation </div>
-            <div class="col-sm-4 col-md-3">15,000,000 IDR 〜</div>
-            <div class="col-sm-12 col-md-5 ">
+            <div class="col-sm-8 col-md-4 col-lg-4">API Creation </div>
+            <div class="col-sm-4 col-md-3 col-lg-2">15,000,000 IDR 〜</div>
+            <div class="col-sm-12 col-md-5 col-lg-6">
               We will create an API for linking functions/information with other systems, other websites, mobile apps, and services. 
               We develop the system according to the data format (XML, HTML, JSON, etc.) to be sent and received.
             </div>
@@ -388,9 +397,9 @@
         </div>
         <div class="other-price-item">
           <div class="row">
-            <div class="col-sm-8 col-md-4">Content Creation </div>
-            <div class="col-sm-4 col-md-3">Please contact us for price.</div>
-            <div class="col-sm-12 col-md-5">
+            <div class="col-sm-8 col-md-4 col-lg-4">Content Creation </div>
+            <div class="col-sm-4 col-md-3 col-lg-2">Please contact us for price.</div>
+            <div class="col-sm-12 col-md-5 col-lg-6">
               Regular content creation operation or one-time content creation (content creation at the time of website creation) is also possible. 
               There is a range of price depending on the volume, the peculiarity of the content to be created, the language of the created content, etc. 
               Please consult us first.
@@ -399,9 +408,9 @@
         </div>
         <div class="other-price-item">
           <div class="row">
-            <div class="col-sm-8 col-md-4">Photography </div>
-            <div class="col-sm-4 col-md-3">5,000,000 IDR 〜</div>
-            <div class="col-sm-12 col-md-5">
+            <div class="col-sm-8 col-md-4 col-lg-4">Photography </div>
+            <div class="col-sm-4 col-md-3 col-lg-2">5,000,000 IDR 〜</div>
+            <div class="col-sm-12 col-md-5 col-lg-6">
               The price includes shooting in 1 location, 5 to 10 cuts, and 4 hours shooting time. 
               Please contact us for details on shooting outdoors and in the factory.
             </div>
@@ -409,9 +418,9 @@
         </div>
         <div class="other-price-item">
           <div class="row">
-            <div class="col-sm-8 col-md-4">Drone shooting </div>
-            <div class="col-sm-4 col-md-3">5,000,000 IDR 〜</div>
-            <div class="col-sm-12 col-md-5 ">
+            <div class="col-sm-8 col-md-4 col-lg-4">Drone shooting </div>
+            <div class="col-sm-4 col-md-3 col-lg-2">5,000,000 IDR 〜</div>
+            <div class="col-sm-12 col-md-5 col-lg-6">
               1 shooting location, 1 flight, up to 15 minutes shooting time, deliverable animation data. 
               It doesn’t include the acquisition of flight permits.
             </div>
@@ -419,10 +428,10 @@
         </div>
         <div class="other-price-item">
           <div class="row">
-            <div class="col-sm-8 col-md-4 ">Movie shooting editing </div>
-            <div class="col-sm-4 col-md-3">20,000,000 IDR 〜</div>
-            <div class="col-sm-12 col-md-5 ">
-              We create movies with various needs, from videos created with graphics only to full movie shooting and productions.
+            <div class="col-sm-8 col-md-4 col-lg-4">Movie shooting editing </div>
+            <div class="col-sm-4 col-md-3 col-lg-2">20,000,000 IDR 〜</div>
+            <div class="col-sm-12 col-md-5 col-lg-6">
+              We create movies with various needs, from videos created with graphics/animation only to full movie shooting and productions.
             </div>
           </div>
         </div>
