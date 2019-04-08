@@ -510,15 +510,6 @@
          
             <div class="col-sm-4 link-footer">
               <p>LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design. </p>
-
-              <div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
-              <ul class=" medsos-new" sty>
-                <li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
-                <li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                <li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                <li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-              </ul>
-
             </div>
           </div>
           <br/>
@@ -540,7 +531,13 @@
           <div class="provacy-policy-container">
             <a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
           </div>
-
+          <div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
+          <ul class=" medsos-new">
+            <li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
+            <li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+          </ul>
         </div>
       </div>
       <div class="row">

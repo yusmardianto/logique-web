@@ -4,11 +4,11 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-	<meta name="description" content=" ">
+	<meta name="description" content="Standar Biaya Produksi Situs Web di LOGIQUE">
 	<meta name="keywords" content=" ">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<title></title>
+	<title>Kisaran Biaya dan Harga Produksi Situs Web</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
 	<link href="assets/css/style_webdev_price.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
@@ -125,13 +125,20 @@
 		  <div class="container">
 		    <h1>PRICE RANGE</h1>
 		    <h2 class="price headerinfo">
-		      Kisaran harga untuk produksi website dapat berubah tergantung dari berbagai faktor. 
-		      Berikut ini merupakan informasi biaya estimasi standar untuk pembuatan situs website. 
-		      Jika Anda menginginkan layanan produksi situs web tertentu yang tidak kami sebutkan di bawah, jangan ragu untuk menghubungi kami dengan mengajukan permintaan penawaran.
+		    	LOGIQUE telah mengembangkan berbagai jenis situs web, mulai dari situs web pemerintah, keuangan, hingga mengubah website gaya hidup dengan keamanan tingkat tinggi serta desain yang indah. 
+		    	Semua diproduksi dengan rapi dan selalu dapat memenuhi kepuasan klien kami. 
+		    	Berikut ini adalah harga standar yang telah ditetapkan oleh LOGIQUE dalam memproduksi segala jenis situs web.
 		    </h2>
 		  </div>
 		</div>
 	</header>
+	<section class="section-style disclaimer-container">
+	  <div class="container">
+	    <p>
+	    	Harap Diperhatikan: kisaran harga dan periode produksi pembuatan website di bawah ini merupakan estimasi standar dan dapat berubah sewaktu-waktu tergantung berbagai faktor, seperti ukuran situs web, kompleksitas, jumlah konten, fungsionalitas serta tujuan Anda.
+	    </p>
+	  </div>
+	</section>
 	<section class="section-style pricelist-container">
 		<div class="container">
 			<div class="row price-item pt-1">
@@ -167,7 +174,7 @@
 			  </div>
 			</div>
 			<div class="row price-item pt-2">
-			  <div class="col-sm-12 price-title"><h3><span>Kasus 2</span></h3><span>Branding Website / Web Perusahaan (skala kecil)</span></div>
+			  <div class="col-sm-12 price-title"><h3><span>Kasus 2</span></h3><span>Branding Website / Website Perusahaan (skala kecil)</span></div>
 			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-2.png"  class="img-responsive"></div>
 			  <div class="col-md-6 col-sm-7">
 			    <div class="price-cont">
@@ -199,7 +206,7 @@
 			  </div>
 			</div>
 			<div class="row price-item pt-3">
-			  <div class="col-sm-12 price-title"><h3><span>Kasus 3</span></h3><span>Situs Web Perusahaan (skala menengah ke atas)</span></div>
+			  <div class="col-sm-12 price-title"><h3><span>Kasus 3</span></h3><span>Situs Website Perusahaan (skala menengah ke atas)</span></div>
 			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-3.png"  class="img-responsive"></div>
 			  <div class="col-md-6 col-sm-7">
 			    <div class="price-cont">
@@ -231,7 +238,7 @@
 			  </div>
 			</div>
 			<div class="row price-item pt-4">
-			  <div class="col-sm-12 price-title"><h3><span>Kasus 4</span></h3><span>Website dengan CMS (skala menengah)</span></div>
+			  <div class="col-sm-12 price-title"><h3><span>Kasus 4</span></h3><span>Website / E-Commerce / Website dengan CMS (skala menengah)</span></div>
 			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-4.png" class="img-responsive"></div>
 			  <div class="col-md-6 col-sm-7">
 			    <div class="price-cont">
@@ -270,7 +277,7 @@
 				<div class="col-sm-8">
 				  <div class="estimate-title">
 				    <h2>Perkiraan Biaya untuk Setiap Produksi Website</h2>
-				    Sejak pertama kali melakukan pengajuan proposal
+				    Sejak mendapatkan informasi mengenai situs web Anda hingga proposal awal
 				  </div>
 				</div>
 				<div class="col-sm-4">
@@ -283,8 +290,8 @@
 			    <div class="col-sm-2 col-md-3 col-lg-2">Gratis</div>
 			    <div class="col-sm-5 col-md-5 col-lg-7">
 			    	Sudah termasuk pengajuan penawaran dan pertemuan untuk pembuatan proposal. 
-			    	Biasanya kami tidak membuat desain produksi ketika berada di tahap pengajuan proposal. 
-			    	Namun, jika Anda membutuhkannya, maka kami dapat membuat desain secara kasar, dan mungkin Anda akan dikenai biaya tambahan untuk permintaan pengajuan desain.
+			    	Biasanya kami tidak membuat desain ketika berada di tahap pengajuan proposal. 
+			    	Namun, jika Anda membutuhkannya, maka kami dapat membuat desain kasar, dan mungkin Anda akan dikenai biaya tambahan untuk permintaan pengajuan desain tersebut.
 			    </div>
 			  </div>
 			</div>
@@ -292,9 +299,9 @@
 			  <div class="other-estimate-title">
 			    <h3>Harga Standar Produksi Situs Web Lainnya</h3>
 			    <div>
-			    	Harga yang kami sediakan bervariasi tergantung pada tingkat kesulitan, kepadatan jadwal, dll., 
-			    	Namun untuk detail biaya pengerjaan setiap fitur adalah sebagai berikut. 
-			    	Mohon diperhatikan sebelumnya, bahwa informasi di bawah ini merupakan estimasi biaya standar.
+			    	Harga yang kami sediakan bervariasi tergantung pada tingkat kesulitan, kepadatan jadwal, dll.
+			    	Berikut ini adalah detail biaya pengerjaan untuk setiap fiturnya. 
+			    	Mohon diperhatikan, bahwa informasi di bawah ini juga merupakan estimasi biaya standar.
 			    </div>
 			  </div>
 			</div>
@@ -304,8 +311,7 @@
 				    <div class="col-sm-8 col-md-4 col-lg-4">HTML/CSS Coding (1 Website)</div>
 				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 15,000,000 ～</div>
 				    <div class="col-sm-12 col-md-5 col-lg-6">
-				    	Biaya yang dikeluarkan tergantung pada konfigurasi website, pembuatan halaman HTML/CSS akan dikenai biaya Rp 15.000.000 jika website merupakan web perusahaan standar ( total mencapai 10 halaman ). 
-				    	Proses yang akan kami lakukan antara lain, coding standar, memasang Google Analytics, dan menulis meta tag yang ditentukan. 	
+				    	Biaya yang dikeluarkan tergantung pada konfigurasi website, pembuatan halaman HTML/CSS akan dikenai biaya Rp 15.000.000 jika website merupakan web perusahaan standar ( dengan total mencapai 10 halaman ). Proses yang akan kami lakukan antara lain, coding standar, memasang Google Analytics, dan menulis meta tag yang ditentukan.
 				    </div>
 				  </div>
 				</div>
@@ -314,9 +320,8 @@
 				    <div class="col-sm-8 col-md-4 col-lg-4">HTML/CSS Coding (Per 1 halaman)</div>
 				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 500,000</div>
 				    <div class="col-sm-12 col-md-5 col-lg-6">
-				    	Biaya dapat berubah tergantung pada volume dan konfigurasi konten yang dibutuhkan di dalam halaman, namun mohon diperhatikan bahwa RP 500.000 per-halaman adalah estimasi standar. 
-				    	Jika semua desain dan konten dipersiapkan untuk 10 halaman website, maka memungkinkan biaya yang dikeluarkan adalah Rp 5.000.000.
-				     </div>
+				    	Meskipun biaya dapat berubah tergantung pada volume dan konfigurasi konten yang dibutuhkan di dalam halaman, namun mohon diperhatikan bahwa RP 500.000 per-halaman adalah estimasi harga standar. Jika semua desain dan konten dipersiapkan untuk 10 halaman website, maka kemungkinan biaya yang dikeluarkan adalah Rp 5.000.000.
+				    </div>
 				  </div>
 				</div>
 				<div class="other-price-item">
@@ -334,8 +339,8 @@
 				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 10.000.000 〜</div>
 				    <div class="col-sm-12 col-md-5 col-lg-6">
 				    	Jika perusahaan Anda belum memiliki logo, maka kami dapat membantu Anda membuatkannya. 
-				    	Kami akan membuat logo yang ideal dengan perusahaan Anda dan beberapa pola ilustrasi.
-				     </div>
+				    	Kami akan membuat logo yang ideal dengan perusahaan Anda dengan beberapa pola ilustrasi.
+				    </div>
 				  </div>
 				</div>
 				<div class="other-price-item">
@@ -352,7 +357,7 @@
 				    <div class="col-sm-8 col-md-4 col-lg-4">Optimasi halaman permintaan </div>
 				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 15.000.000</div>
 				    <div class="col-sm-12 col-md-5 col-lg-6">
-				    	Dengan mengoptimasi konten yang ada pada halaman permintaan dan formulir, Anda dapat memaksimalkan jumlah kueri dan meminimalkan terjadinya penurunan peniliaian dari pengguna yang mengunjungi situs web Anda.
+				    	Dengan mengoptimasi konten yang ada pada halaman permintaan dan formulir, Anda dapat memaksimalkan jumlah kueri dan meminimalkan terjadinya penurunan penilaian dari pengguna yang mengunjungi situs web Anda.
 				    </div>
 				  </div>
 				</div>
@@ -361,7 +366,7 @@
 				    <div class="col-sm-8 col-md-4 col-lg-4">Optimasi halaman rekrutmen </div>
 				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 15.000.000</div>
 				    <div class="col-sm-12 col-md-5 col-lg-6">
-				      <p>Optimalkan konten di halaman rekrutmen untuk meningkatkan masuknya jumlah lamaran melalui situs web Anda. Kami juga dapat membangun situs perekrutan sebagai situs web khusus. <a href="/en/services/recruitment-web-dev.php">Klik di sini untuk lebih detail.</a></p>
+				      <p>Optimalkan konten di halaman rekrutmen untuk meningkatkan masuknya jumlah lamaran melalui situs web Anda. Kami juga dapat membangun web dengan sistem perekrutan sebagai situs web khusus. <a href="/en/services/recruitment-web-dev.php">Klik di sini untuk lebih detail.</a></p>
 				      <p>Kami juga menyediakan cloud untuk operasi perekrutan yang lebih efisien, yaitu <b>Sugoi Saiyo</b>.</p></div>
 				  </div>
 				</div>
@@ -371,7 +376,7 @@
 				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 20.000.000 〜</div>
 				    <div class="col-sm-12 col-md-5 col-lg-6">
 				    	Kami dapat menggunakan kerangka kerja e-commerce untuk memberikan kemampuan berbelanja di dalam web Anda. 
-				    	Terdapat beragam fitur yang membutuhkan persyaratan khusus, silahkan hubungi kami untuk detail infromasinya.
+				    	Terdapat beragam fitur yang membutuhkan persyaratan khusus, jadi silahkan hubungi kami terlebih dahulu untuk detail infromasinya.
 				    </div>
 				  </div>
 				</div>
@@ -380,8 +385,8 @@
 				    <div class="col-sm-8 col-md-4 col-lg-4">Payment gateway </div>
 				    <div class="col-sm-4 col-md-3 col-lg-2"> Rp 15.000.000 〜</div>
 				    <div class="col-sm-12 col-md-5 col-lg-6">
-				      Kami memiliki pengalaman dalam membangun fungsi tautan dengan layanan payment gateway untuk perusahaan terkemuka di Indonesia. 
-				      Silakan hubungi kami karena penyelesaian masalah subscription juga dapat kami selesaikan.
+				    	Kami memiliki pengalaman dalam membangun fungsi tautan dengan layanan payment gateway untuk perusahaan terkemuka di Indonesia. 
+				    	Silakan hubungi kami karena penyelesaian masalah berlangganan juga dapat kami selesaikan.
 				    </div>
 				  </div>
 				</div>
@@ -421,7 +426,7 @@
 				    <div class="col-sm-8 col-md-4 col-lg-4">Pengambilan Gambar menggunakan Drone </div>
 				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 5.000.000 〜</div>
 				    <div class="col-sm-12 col-md-5 col-lg-6">
-				      Pengambilan gambar di 1 lokasi, 1 penerbangan, durasi pengambilan gambar selama 15 menit , data animasi yang dapat dikirim. 
+				      Pengambilan gambar di 1 lokasi, 1 kali penerbangan, durasi pengambilan gambar selama 15 menit , disampaikan dengan data animasi. 
 				      Layanan ini tidak termasuk permintaan izin penerbangan.
 				    </div>
 				  </div>
@@ -431,14 +436,19 @@
 				    <div class="col-sm-8 col-md-4 col-lg-4">Pengeditan pembuatan film</div>
 				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 20.000.000 〜</div>
 				    <div class="col-sm-12 col-md-5 col-lg-6">
-				    	Kami membuat film untuk berbagai kebutuhan, mulai dari video yang dibuat hanya dengan grafik sampai pembuatan dan produksi film secara lengkap.
+				    	Kami membuat film untuk berbagai kebutuhan, mulai dari video yang dibuat hanya dengan grafik / animasi saja sampai pembuatan dan produksi film secara lengkap.
 				    </div>
 				  </div>
 				</div>
-				<div class="btn-container text-center">
-				  <a href="/hubungi-kami.php" class="btn btn-contact-us-black">
-				  Klik di sini untuk menghubungi kami mengenai detail lainnya
-				  </a>
+				<div class="btn-contact-price-range">
+					<p>
+						Jika Anda ingin mendapatkan layanan produksi atau pembuatan website tertentu yang tidak kami sebutkan di atas, jangan ragu untuk menghubungi kami untuk melakukan permintaan penawaran.
+					</p>
+					<div class="btn-container text-center">
+					  <a href="/hubungi-kami.php" class="btn btn-contact-us-black">
+					  Klik di sini untuk menghubungi kami mengenai detail lainnya
+					  </a>
+					</div>
 				</div>
 			</div>
 		</div>
