@@ -435,10 +435,15 @@
             </div>
           </div>
         </div>
-        <div class="btn-container text-center">
-          <a href="/en/contact.php" class="btn btn-contact-us-black">
-          Click here to contact us for more detailed quote
-          </a>
+        <div class="btn-contact-price-range">
+          <p>
+            If you want another particular website production service that isn’t mentioned above, feel free to contact us with a quote request.
+          </p>
+          <div class="btn-container text-center">
+            <a href="/en/contact.php" class="btn btn-contact-us-black">
+            Click here to contact us for more detailed quote
+            </a>
+          </div>
         </div>
       </div>
     </div>
