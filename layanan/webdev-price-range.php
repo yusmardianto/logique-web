@@ -279,9 +279,9 @@
 			</div>
 			<div class="estimate-item">
 			  <div class="row ">
-			    <div class="col-sm-5 ">Proposal Awal </div>
-			    <div class="col-sm-2 text-right">Gratis</div>
-			    <div class="col-sm-5">
+			    <div class="col-sm-5 col-md-4 col-lg-3">Proposal Awal </div>
+			    <div class="col-sm-2 col-md-3 col-lg-2">Gratis</div>
+			    <div class="col-sm-5 col-md-5 col-lg-7">
 			    	Sudah termasuk pengajuan penawaran dan pertemuan untuk pembuatan proposal. 
 			    	Biasanya kami tidak membuat desain produksi ketika berada di tahap pengajuan proposal. 
 			    	Namun, jika Anda membutuhkannya, maka kami dapat membuat desain secara kasar, dan mungkin Anda akan dikenai biaya tambahan untuk permintaan pengajuan desain.
@@ -301,9 +301,9 @@
 			<div class="other-price-container">
 				<div class="other-price-item">
 				  <div class="row">
-				    <div class="col-sm-8 col-md-4">HTML/CSS Coding (1 Website)</div>
-				    <div class="col-sm-4 col-md-3">Rp 15,000,000 ～</div>
-				    <div class="col-sm-12 col-md-5 ">
+				    <div class="col-sm-8 col-md-4 col-lg-4">HTML/CSS Coding (1 Website)</div>
+				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 15,000,000 ～</div>
+				    <div class="col-sm-12 col-md-5 col-lg-6">
 				    	Biaya yang dikeluarkan tergantung pada konfigurasi website, pembuatan halaman HTML/CSS akan dikenai biaya Rp 15.000.000 jika website merupakan web perusahaan standar ( total mencapai 10 halaman ). 
 				    	Proses yang akan kami lakukan antara lain, coding standar, memasang Google Analytics, dan menulis meta tag yang ditentukan. 	
 				    </div>
@@ -311,9 +311,9 @@
 				</div>
 				<div class="other-price-item">
 				  <div class="row">
-				    <div class="col-sm-8 col-md-4 ">HTML/CSS Coding (Per 1 halaman)</div>
-				    <div class="col-sm-4 col-md-3">Rp 500,000</div>
-				    <div class="col-sm-12 col-md-5 ">
+				    <div class="col-sm-8 col-md-4 col-lg-4">HTML/CSS Coding (Per 1 halaman)</div>
+				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 500,000</div>
+				    <div class="col-sm-12 col-md-5 col-lg-6">
 				    	Biaya dapat berubah tergantung pada volume dan konfigurasi konten yang dibutuhkan di dalam halaman, namun mohon diperhatikan bahwa RP 500.000 per-halaman adalah estimasi standar. 
 				    	Jika semua desain dan konten dipersiapkan untuk 10 halaman website, maka memungkinkan biaya yang dikeluarkan adalah Rp 5.000.000.
 				     </div>
@@ -321,18 +321,18 @@
 				</div>
 				<div class="other-price-item">
 				  <div class="row">
-				    <div class="col-sm-8 col-md-4">Motion Coding </div>
-				    <div class="col-sm-4 col-md-3">Rp 5.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5 ">
+				    <div class="col-sm-8 col-md-4 col-lg-4">Motion Coding </div>
+				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 5.000.000 〜</div>
+				    <div class="col-sm-12 col-md-5 col-lg-6">
 				      Menerapkan pemrograman visual seperti gerakan dengan efek parallax menggunakan jQuery, HTML5, dll.
 				    </div>
 				  </div>
 				</div>
 				<div class="other-price-item">
 				  <div class="row">
-				    <div class="col-sm-8 col-md-4">Pembuatan Logo dan Ilustrasi </div>
-				    <div class="col-sm-4 col-md-3">Rp 10.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5 ">
+				    <div class="col-sm-8 col-md-4 col-lg-4">Pembuatan Logo dan Ilustrasi </div>
+				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 10.000.000 〜</div>
+				    <div class="col-sm-12 col-md-5 col-lg-6">
 				    	Jika perusahaan Anda belum memiliki logo, maka kami dapat membantu Anda membuatkannya. 
 				    	Kami akan membuat logo yang ideal dengan perusahaan Anda dan beberapa pola ilustrasi.
 				     </div>
@@ -340,36 +340,36 @@
 				</div>
 				<div class="other-price-item">
 				  <div class="row">
-				    <div class="col-sm-8 col-md-4">Fitur Online Chat </div>
-				    <div class="col-sm-4 col-md-3">Rp 5.000.000</div>
-				    <div class="col-sm-12 col-md-5 ">
+				    <div class="col-sm-8 col-md-4 col-lg-4">Fitur Online Chat </div>
+				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 5.000.000</div>
+				    <div class="col-sm-12 col-md-5 col-lg-6">
 				    	Menerapkan fitur online chat di dalam situs web Anda, merupakan langkah yang baik sebagai pelayanan pelanggan yang mudah dan cepat, fitur ini juga dapat membantu meningkatkan penjualan Anda.
 				    </div>
 				  </div>
 				</div>
 				<div class="other-price-item">
 				  <div class="row">
-				    <div class="col-sm-8 col-md-4">Optimasi halaman permintaan </div>
-				    <div class="col-sm-4 col-md-3">Rp 15.000.000</div>
-				    <div class="col-sm-12 col-md-5">
+				    <div class="col-sm-8 col-md-4 col-lg-4">Optimasi halaman permintaan </div>
+				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 15.000.000</div>
+				    <div class="col-sm-12 col-md-5 col-lg-6">
 				    	Dengan mengoptimasi konten yang ada pada halaman permintaan dan formulir, Anda dapat memaksimalkan jumlah kueri dan meminimalkan terjadinya penurunan peniliaian dari pengguna yang mengunjungi situs web Anda.
 				    </div>
 				  </div>
 				</div>
 				<div class="other-price-item">
 				  <div class="row">
-				    <div class="col-sm-8 col-md-4">Optimasi halaman rekrutmen </div>
-				    <div class="col-sm-4 col-md-3">Rp 15.000.000</div>
-				    <div class="col-sm-12 col-md-5">
+				    <div class="col-sm-8 col-md-4 col-lg-4">Optimasi halaman rekrutmen </div>
+				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 15.000.000</div>
+				    <div class="col-sm-12 col-md-5 col-lg-6">
 				      <p>Optimalkan konten di halaman rekrutmen untuk meningkatkan masuknya jumlah lamaran melalui situs web Anda. Kami juga dapat membangun situs perekrutan sebagai situs web khusus. <a href="/en/services/recruitment-web-dev.php">Klik di sini untuk lebih detail.</a></p>
 				      <p>Kami juga menyediakan cloud untuk operasi perekrutan yang lebih efisien, yaitu <b>Sugoi Saiyo</b>.</p></div>
 				  </div>
 				</div>
 				<div class="other-price-item">
 				  <div class="row">
-				    <div class="col-sm-8 col-md-4">Fitur keranjang belanja</div>
-				    <div class="col-sm-4 col-md-3">Rp 20.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5">
+				    <div class="col-sm-8 col-md-4 col-lg-4">Fitur keranjang belanja</div>
+				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 20.000.000 〜</div>
+				    <div class="col-sm-12 col-md-5 col-lg-6">
 				    	Kami dapat menggunakan kerangka kerja e-commerce untuk memberikan kemampuan berbelanja di dalam web Anda. 
 				    	Terdapat beragam fitur yang membutuhkan persyaratan khusus, silahkan hubungi kami untuk detail infromasinya.
 				    </div>
@@ -377,9 +377,9 @@
 				</div>
 				<div class="other-price-item">
 				  <div class="row">
-				    <div class="col-sm-8 col-md-4">Payment gateway </div>
-				    <div class="col-sm-4 col-md-3"> Rp 15.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5">
+				    <div class="col-sm-8 col-md-4 col-lg-4">Payment gateway </div>
+				    <div class="col-sm-4 col-md-3 col-lg-2"> Rp 15.000.000 〜</div>
+				    <div class="col-sm-12 col-md-5 col-lg-6">
 				      Kami memiliki pengalaman dalam membangun fungsi tautan dengan layanan payment gateway untuk perusahaan terkemuka di Indonesia. 
 				      Silakan hubungi kami karena penyelesaian masalah subscription juga dapat kami selesaikan.
 				    </div>
@@ -387,9 +387,9 @@
 				</div>
 				<div class="other-price-item">
 				  <div class="row">
-				    <div class="col-sm-8 col-md-4">Pembuatan API </div>
-				    <div class="col-sm-4 col-md-3">Rp 15.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5 ">
+				    <div class="col-sm-8 col-md-4 col-lg-4">Pembuatan API </div>
+				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 15.000.000 〜</div>
+				    <div class="col-sm-12 col-md-5 col-lg-6">
 				    	Kami akan membuat API untuk menghubungkan fungsi / informasi dengan sistem lain, situs web lain, aplikasi seluler, dan layanan lain. 
 				    	Kami dapat mengembangkan sistem sesuai dengan format data (XML, HTML, JSON, dll) untuk dikirim dan diterima.
 				    </div>
@@ -397,9 +397,9 @@
 				</div>
 				<div class="other-price-item">
 				  <div class="row">
-				    <div class="col-sm-8 col-md-4">Pembuatan Konten </div>
-				    <div class="col-sm-4 col-md-3">Silakan hubungi kami untuk detail harga.</div>
-				    <div class="col-sm-12 col-md-5">
+				    <div class="col-sm-8 col-md-4 col-lg-4">Pembuatan Konten </div>
+				    <div class="col-sm-4 col-md-3 col-lg-2">Silakan hubungi kami untuk detail harga.</div>
+				    <div class="col-sm-12 col-md-5 col-lg-6">
 				      Pembuatan konten reguler atau pembuatan konten untuk satu kali (pembuatan konten pada saat pembuatan situs web) juga dapat kami layani. 
 				      Kisaran harga tergantung pada volume, ciri khas konten yang akan dibuat, bahasa konten yang akan dibuat, dll. 
 				      Silahkan berkonsultasi dengan kami untuk informasi lebih lanjut.
@@ -408,9 +408,9 @@
 				</div>
 				<div class="other-price-item">
 				  <div class="row">
-				    <div class="col-sm-8 col-md-4">Fotografi </div>
-				    <div class="col-sm-4 col-md-3">Rp 5.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5">
+				    <div class="col-sm-8 col-md-4 col-lg-4">Fotografi </div>
+				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 5.000.000 〜</div>
+				    <div class="col-sm-12 col-md-5 col-lg-6">
 				      Harga sudah termasuk pemotretan untuk 1 lokasi, 5 sampai 10 foto, dengan durasi pemotretan selama 4 jam. 
 				      Silakan hubungi kami untuk rincian informasi mengenai pengambilan gambar di luar ruangan atau di pabrik.
 				    </div>
@@ -418,9 +418,9 @@
 				</div>
 				<div class="other-price-item">
 				  <div class="row">
-				    <div class="col-sm-8 col-md-4">Pengambilan Gambar menggunakan Drone </div>
-				    <div class="col-sm-4 col-md-3">Rp 5.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5 ">
+				    <div class="col-sm-8 col-md-4 col-lg-4">Pengambilan Gambar menggunakan Drone </div>
+				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 5.000.000 〜</div>
+				    <div class="col-sm-12 col-md-5 col-lg-6">
 				      Pengambilan gambar di 1 lokasi, 1 penerbangan, durasi pengambilan gambar selama 15 menit , data animasi yang dapat dikirim. 
 				      Layanan ini tidak termasuk permintaan izin penerbangan.
 				    </div>
@@ -428,9 +428,9 @@
 				</div>
 				<div class="other-price-item">
 				  <div class="row">
-				    <div class="col-sm-8 col-md-4 ">Pengeditan pembuatan film</div>
-				    <div class="col-sm-4 col-md-3">Rp 20.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5 ">
+				    <div class="col-sm-8 col-md-4 col-lg-4">Pengeditan pembuatan film</div>
+				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 20.000.000 〜</div>
+				    <div class="col-sm-12 col-md-5 col-lg-6">
 				    	Kami membuat film untuk berbagai kebutuhan, mulai dari video yang dibuat hanya dengan grafik sampai pembuatan dan produksi film secara lengkap.
 				    </div>
 				  </div>
