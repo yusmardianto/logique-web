@@ -52,8 +52,9 @@
     flex: 1 0 0;
   }
 
-  @media (min-width: 768px) and (max-width: 810px) {
+  @media (min-width: 768px) and (max-width: 850px) {
     #jp-dig-marketing-heading p {
+    	font-size: 24px;
       padding-right: 110px;
     }
   }
@@ -138,7 +139,7 @@
 						<div class="col-md-12 text-center">
               <div id="jp-dig-marketing-heading">
                 <img src="assets/img/img-digital-marketing/logo.png" alt="Logo"/>
-                <p>LOGIQUEならではのワンストップ<br class="hidden-xs"/>デジタルマーケティングが</p>
+                <p>LOGIQUEならではの<br class="hidden-xs"/>ワンストップデジタルマーケティング</p>
               </div>
 						</div>
 					</div>
