@@ -816,13 +816,6 @@ ga('send', 'pageview');
 						<p style="margin-bottom: 0; padding-bottom: 0px; padding-top: 0px;">
 							Dokodemo-Kerjaは、従業員がリモートワークすることを可能にし、無駄な時間と労力を排除して生産性を向上することを助け、管理者の従業員を監視する工数も減らすことができるツールです。個社別のカスタマイズも可能ですのでお問い合わせお待ちしております。
 						</p>
- 					<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
-					<ul class=" medsos-new" sty>
-						<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
-						<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-						<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-						<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-					</ul>
 					</div>
 				</div>
 				<br/>
@@ -841,6 +834,13 @@ ga('send', 'pageview');
 				<div class="provacy-policy-container">
 					<a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
 				</div>
+				<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
+				<ul class=" medsos-new" sty>
+					<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
+					<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+					<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+				</ul>
 				</div>
 			</div>
 

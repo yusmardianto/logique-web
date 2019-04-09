@@ -875,15 +875,6 @@ if(isset($_POST['submitted']))
 								<p style="margin-bottom: 0; padding-bottom: 0px; padding-top: 0px;">
 									<strong>Dokodemo-Kerja</strong> is a tool that makes your employees able to work remotely, improves productivity by removing unnecessary work that wastes a lot of time and energy, and decreases HR's workload in monitoring employees' work. You can also customize Dokodemo-Kerja to your company's needs. Feel free to contact us.
 								</p>
-
-								<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
-								<ul class=" medsos-new" sty>
-									<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
-									<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-									<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-								</ul>
-
 							</div>
 						</div>
 						<br/>
@@ -905,6 +896,13 @@ if(isset($_POST['submitted']))
 						<div class="provacy-policy-container">
 							<a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
 						</div>
+						<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
+						<ul class=" medsos-new" sty>
+							<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
+							<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+							<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+							<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+						</ul>
 
 					</div>
 				</div>

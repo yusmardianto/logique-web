@@ -31,15 +31,15 @@ twq('track','PageView');
 							<li><a href="/tentang-kami.php">Tentang Kami</a> </li>
 							<li  class="have-submenu"><a href="/layanan.php">Layanan</a>
 								<ul>
-									<li class="have-submenu"><a href="/layanan/mekanisme-pembuatan-website/" target="_blank">Jasa Pembuatan Website</a>
+									<li class="have-submenu"><a href="/layanan/web-dev.php" target="_blank">Jasa Pembuatan Website</a>
 										<ul>
-											<li><a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank">  Pembuatan Website Career</a> </li>
-											<li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank"> Website Klinik Gigi </a></li>
+											<li><a href="/layanan/pembuatan-web-karir.php" target="_blank">  Pembuatan Website Career</a> </li>
+											<li><a href="/layanan/pembuatan-web-klinik-gigi.php" target="_blank"> Website Klinik Gigi </a></li>
 										</ul>
 									</li>
-									<li><a href="/layanan/pembuatan-sistem-web/" target="_blank">Jasa Pengembangan Sistem Web</a></li>
-									<li><a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank">Pengembangan Aplikasi Mobile </a></li>
-									<li class="text-left"><a href="/layanan/penetration-testing/" target="_blank">Pengetesan Keamanan Website (Pentest) </a></li>
+									<li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem Web</a></li>
+									<li><a href="/layanan/pembuatan-aplikasi-mobile.php" target="_blank">Pengembangan Aplikasi Mobile </a></li>
+									<li class="text-left"><a href="/layanan/penetration-test.php" target="_blank">Pengetesan Keamanan Website (Pentest) </a></li>
 									<li class="text-left"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital Marketing </a></li>
 								</ul>
 							</li>
@@ -76,17 +76,7 @@ twq('track','PageView');
 							 
 					</div>
 					<div class="col-sm-4 link-footer">
-						 <p >Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/mekanisme-pembuatan-website/" target="_blank"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>
- 
-						<div class="footer-title"  style="margin-top: 20px; margin-bottom: 0;">Media Sosial</div>
-					 
-							<ul class="medsos-new">
-								<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
-								<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-								<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-								<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-							</ul>
-				 
+						 <p >Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/mekanisme-pembuatan-website/" target="_blank"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>				 
 					</div>
 				</div>
  
@@ -105,8 +95,15 @@ twq('track','PageView');
 					</div>
 				</div> 
 				<div class="provacy-policy-container">
-					<a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
+					<a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
 				</div>
+				<div class="footer-title"  style="margin-top: 20px; margin-bottom: 0;">Media Sosial</div>
+				<ul class="medsos-new">
+					<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
+					<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+					<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+				</ul>
 
 			</div>
 		</div>

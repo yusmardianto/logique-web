@@ -114,7 +114,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">LOGIQUEのサービス</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">Webサイト・ホームページ制作、システム開発実績、モバイルアプリ開発、デジタルマーケティング実行事例などを紹介します。</h1>
+							<h1 class="tagline">デジタルマーケティング関連の様々なサービスをインドネシアでワンストップでご提供しています。Webサイト・ホームページ制作から、システム開発、モバイルアプリ開発までインドネシアで戦うためのご支援をしています。</h1>
 						</div>
 					</div>
 				</div>

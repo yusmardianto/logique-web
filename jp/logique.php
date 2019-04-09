@@ -113,7 +113,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">LOGIQUEについて</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社。ウェブデザイン制作からITシステム開発までインドネシアでIT活用のご支援を幅広く行っています。</h1>
+							<h1 class="tagline">日系のWebサイト/ホームページ制作会社。ウェブデザイン制作からITシステム開発、モバイルApp開発、デジタルマーケティングまでインドネシアでIT活用のご支援を幅広く行っています。日本国大使館や商工会議所とも取引があります。安心してご相談いただければ幸いです。</h1>
 						</div>
 					</div>
 				</div>

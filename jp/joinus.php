@@ -110,7 +110,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">LOGIQUEの求人</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社、システム開発会社。インドネシアでのパートナー・代理店としての提携問い合わせお待ちしてます。</h1>
+							<h1 class="tagline">日系のWebサイト/ホームページ制作会社、システム開発、デジタルマーケティング会社。インドネシアでインターンとして働きたい方からのご連絡お待ちしています。インドネシアでのパートナー・代理店としての提携問い合わせもお待ちしてます。</h1>
 						</div>
 					</div>
 				</div>
