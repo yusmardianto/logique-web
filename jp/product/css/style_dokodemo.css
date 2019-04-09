@@ -442,11 +442,6 @@ footer {
     text-align: justify
 }
 
-footer h5,
-footer h6 {
-    font-size: 14px;
-    line-height: 30px
-}
 .backdrop-test {
     position: fixed;
     width: 100%;
@@ -531,8 +526,13 @@ ul.medsos-new li a{
 }
 
 .link-footer {
-    line-height: 30px;
     text-align: left
+}
+
+@media (min-width: 768px) {
+    .link-footer p {
+        margin-bottom: 45px;
+    }
 }
 
 .footer-title {

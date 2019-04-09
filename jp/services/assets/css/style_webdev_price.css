@@ -468,11 +468,6 @@ footer .footer-title {
 footer .link-footer {
     text-align: left;
 }
-footer h5, footer h6 {
-    font-size: 14px;
-    line-height: 30px;
-	margin:0
-}
 .link-footer-nav .medsos-new .fa {
     font-size: 35px;
     margin-top: 10px;
@@ -598,12 +593,16 @@ ul.medsos-new li a{
     
 }
 .link-footer {
-    line-height: 30px;
     text-align: left;
     color: #fff;
 }
 .link-footer p{
     color: #fff;
+}
+@media (min-width: 768px) {
+    .link-footer p {
+        margin-bottom: 45px;
+    }
 }
 .footer-title {
     font-size: 16px

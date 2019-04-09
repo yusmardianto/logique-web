@@ -506,8 +506,13 @@ footer a:hover {
 }
 
 .link-footer {
-    line-height: 30px;
-    text-align: left
+    text-align: left;
+}
+
+@media (min-width: 768px) {
+    .link-footer p {
+        margin-bottom: 45px;
+    }
 }
 
 .medsos-new .fa{font-size:35px;margin-top:10px}

@@ -813,7 +813,7 @@ ga('send', 'pageview');
 <!-- 
  						<p>LOGIQUEは、ジャカルタでWebコンサルティング、Webサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。</p> -->
  						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
-						<p style="margin-bottom: 0; padding-bottom: 0px; padding-top: 0px;">
+						<p style="padding-bottom: 0px; padding-top: 0px;">
 							Dokodemo-Kerjaは、従業員がリモートワークすることを可能にし、無駄な時間と労力を排除して生産性を向上することを助け、管理者の従業員を監視する工数も減らすことができるツールです。個社別のカスタマイズも可能ですのでお問い合わせお待ちしております。
 						</p>
 					</div>

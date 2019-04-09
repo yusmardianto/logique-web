@@ -926,7 +926,7 @@ if(isset($_POST['submitted']))
 			        </div>
 			        <div class="col-sm-4 link-footer">
 			        	<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
-			           <p style="margin-bottom: 0; padding-bottom: 0px; padding-top: 0px;">
+			           <p style=" padding-bottom: 0px; padding-top: 0px;">
 			           	<strong>Dokodemo-Kerja</strong> adalah sebuah tool yang dapat membuat karyawanmu bekerja remote, meningkatkan produktivitas dengan menghilangkan aktivitas yang membuang waktu dan tenaga, serta mengurangi beban HR dalam memantau kerjaan karyawan. Anda juga dapat menyesuaikan Dokodemo-Kerja berdasarkan kebutuhan perusahaan Anda. Hubungi kami jika Anda tertarik.
 			           </p>
 			       

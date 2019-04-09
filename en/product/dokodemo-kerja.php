@@ -872,7 +872,7 @@ if(isset($_POST['submitted']))
 					 
 							<div class="col-sm-4 link-footer">
 								<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
-								<p style="margin-bottom: 0; padding-bottom: 0px; padding-top: 0px;">
+								<p style="padding-bottom: 0px; padding-top: 0px;">
 									<strong>Dokodemo-Kerja</strong> is a tool that makes your employees able to work remotely, improves productivity by removing unnecessary work that wastes a lot of time and energy, and decreases HR's workload in monitoring employees' work. You can also customize Dokodemo-Kerja to your company's needs. Feel free to contact us.
 								</p>
 							</div>
