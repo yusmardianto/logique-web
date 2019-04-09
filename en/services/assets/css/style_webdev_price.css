@@ -486,7 +486,9 @@ footer span,footer div, footer a {
 }
 footer a:hover,
 footer a:hover div,
-footer a:hover span{
+footer a:hover span,
+footer a:focus, 
+footer a:focus span{
     color: #ffca13;
     text-decoration: none;
 }
@@ -498,7 +500,7 @@ footer a:hover span{
 .medsos-new .fa-instagram:hover{color:#e4405f}
 .medsos-new .fa-linkedin-square:hover{color:#0077B5}
 .footer{background:#fcc515;padding:20px 0;text-align:center;letter-spacing:0.625px;font-size: 16px;}
-.footer a{text-decoration:underline;font-weight:bold}
+.footer a{font-weight:bold}
 .garis {display: inline-block;}
 .div-top{padding:40px 0 60px;background:#ffca13;}
 .div-top .title{font-size:30px;color:#fff;padding:19.5px;background:#000;position:relative}
