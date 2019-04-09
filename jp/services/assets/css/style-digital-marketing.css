@@ -329,6 +329,12 @@ footer a:hover {
     text-align: left
 }
 
+@media (min-width: 768px) {
+    .link-footer p {
+        margin-bottom: 45px;
+    }
+}
+
 .medsos-new .fa{font-size:35px;margin-top:10px}
 .medsos-new .fa-facebook-official:hover{color:#3b5999}
 .medsos-new .fa-twitter:hover{color:#0084ff}
