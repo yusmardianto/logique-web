@@ -834,16 +834,16 @@ if(isset($_POST['submitted']))
 									
 									<li  class="have-submenu"><a href="/en/services.php">Service</a>
 										 <ul>
-											<li class="have-submenu"><a href="/en/services/mekanisme-pembuatan-website" target="_blank">Web Development</a>
+											<li class="have-submenu"><a href="/en/services/web-dev.php" target="_blank">Web Development</a>
 												<ul>
-													<li><a href="/en/services/pembuatan-website-karir-perusahaan/" target="_blank"> Recruitment Website Creation</a></li>
-													<li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank"> Dentist Website Creation</a></li>
+													<li><a href="/en/services/recruitment-web-dev.php" target="_blank"> Recruitment Website Creation</a></li>
+													<li><a href="/layanan/pembuatan-web-klinik-gigi.php" target="_blank"> Dentist Website Creation</a></li>
 													<!-- <a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a> -->
 												</ul>
 											</li>
-									 		<li><a href="/en/services/pembuatan-sistem-web/" target="_blank">Web System Development</a></li>
-									 <li><a href="/en/services/pembuatan-aplikasi-mobile/">Mobile App Development</a></li>
-									 <li><a href="/en/services/penetration-testing/">WEB Security Assesment (Pentest)</a></li>
+									 		<li><a href="/en/services/system-dev.php" target="_blank">Web System Development</a></li>
+									 <li><a href="/en/services/mobile-app-dev.php">Mobile App Development</a></li>
+									 <li><a href="/en/services/penetration-test.php">WEB Security Assesment (Pentest)</a></li>
 								 		<li><a href="/en/services/digital-marketing.php" target="_blank">Digital Marketing </a></li>
 										</ul>
 									</li>
