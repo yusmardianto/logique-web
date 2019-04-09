@@ -104,7 +104,7 @@ ga('send', 'pageview');
 				<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 				<br><br>
 				<div class="provacy-policy-container">
-					<a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
+					<a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
 				</div>
 				</div>
 			</div>
@@ -127,8 +127,8 @@ ga('send', 'pageview');
 	</div>
 </footer>
 <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="../js/bootstrap.min.js"></script>
-<script src="../js/slick.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/slick.min.js"></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <script src="//cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script>
 <script>
