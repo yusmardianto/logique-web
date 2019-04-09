@@ -366,7 +366,7 @@
 				    <div class="col-sm-8 col-md-4 col-lg-4">Optimasi halaman rekrutmen </div>
 				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 15.000.000</div>
 				    <div class="col-sm-12 col-md-5 col-lg-6">
-				      <p>Optimalkan konten di halaman rekrutmen untuk meningkatkan masuknya jumlah lamaran melalui situs web Anda. Kami juga dapat membangun web dengan sistem perekrutan sebagai situs web khusus. <a href="/en/services/recruitment-web-dev.php">Klik di sini untuk lebih detail.</a></p>
+				      <p>Optimalkan konten di halaman rekrutmen untuk meningkatkan masuknya jumlah lamaran melalui situs web Anda. Kami juga dapat membangun web dengan sistem perekrutan sebagai situs web khusus. <a href="/layanan/pembuatan-web-karir.php">Klik di sini untuk lebih detail.</a></p>
 				      <p>Kami juga menyediakan cloud untuk operasi perekrutan yang lebih efisien, yaitu <b>Sugoi Saiyo</b>.</p></div>
 				  </div>
 				</div>
