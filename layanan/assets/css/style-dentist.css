@@ -498,11 +498,11 @@ footer h6 {
     
 }
 footer a {
-    color: #fff!important
+    color: #fff;
 }
 
 footer a:hover {
-    color: #ffca13!important
+    color: #ffca13;
 }
 
 .link-footer {
@@ -510,11 +510,11 @@ footer a:hover {
     text-align: left
 }
 
-.link-footer .medsos-new .fa{font-size:35px;margin-top:10px}
-.link-footer .medsos-new .fa-facebook-official:hover{color:#3b5999}
-.link-footer .medsos-new .fa-twitter:hover{color:#0084ff}
-.link-footer .medsos-new .fa-instagram:hover{color:#e4405f}
-.link-footer .medsos-new .fa-linkedin-square:hover{color:#0077B5}
+.medsos-new .fa{font-size:35px;margin-top:10px}
+.medsos-new .fa-facebook-official:hover{color:#3b5999}
+.medsos-new .fa-twitter:hover{color:#0084ff}
+.medsos-new .fa-instagram:hover{color:#e4405f}
+.medsos-new .fa-linkedin-square:hover{color:#0077B5}
 ul.medsos-new li{
     display: inline-block;
     padding:0 5px;
