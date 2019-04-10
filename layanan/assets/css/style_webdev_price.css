@@ -539,6 +539,9 @@ ul.medsos-new li a{
 .title-bg-grey {
     font-weight: 700
 }
+.link-footer-nav ul {
+  padding: 0;
+}
 .link-footer-nav ul li{
     list-style: none;
 }
@@ -554,10 +557,6 @@ ul.medsos-new li a{
 .link-footer-nav,
 .title-bg-grey {
     font-weight: 700
-}
-.link-footer-nav ul li{
-    list-style: none;
-
 }
 .link-footer-nav ul li  ul{
     padding-left: 20px;
