@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="インドネシアのWebシステム開発会社LOGIQUEのモバイルアプリ開発サービスのご紹介。ネイティブアプリ開発、ハイブリッドアプリ、PWAの開発の豊富な実績があります。E-ラーニング、会員管理アプリ、e-コマースなどのモバイルアプリを開発してきました。インドネシアでお客様のニーズに沿ったモバイル・ソリューションの提供を行っていますのでお気軽に問い合わせください。">
 	<meta name="keywords" content="">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">

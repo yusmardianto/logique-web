@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="Jika Anda tertarik menerapkan strategi digital marketing untuk bisnis Anda, LOGIQUE dapat membantu meningkatkan profit bisnis Anda lewat SEO, kampanye iklan Google Ads, Facebook Ads, dan lain-lain.">
 	<meta name="keywords" content="digital marketing, pemasaran digital, strategi digital marketing, layanan digital marketing, digital marketing logique">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">

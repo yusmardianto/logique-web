@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="Perilaku cyber crime selalu meningkat setiap tahunnya. Karena itu, LOGIQUE menyediakan layanan jasa keamanan website menggunakan metode penetration testing sebagai solusi terbaik untuk melindungi data perusahaan Anda. Segera hubungi kami untuk mendapatkan layanan ini.">
 	<meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing , logique">
 	<meta name="author" content="Logique Digital Indonesia">

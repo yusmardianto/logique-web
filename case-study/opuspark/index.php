@@ -3,7 +3,7 @@
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description" content="Sebagai perusahaan web developer terbaik, LOGIQUE memberikan layanan jasa marketing online kepada kliennya, seperti yang kami lakukan pada klien kami, yaitu apartemen Opus Park. Jika Anda ingin menggunakan jasa layanan ini, silahkan hubungi kami!">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">

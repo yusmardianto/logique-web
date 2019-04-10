@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="もし貴社のマーケティング活動において、デジタルマーケティングの活用をご検討されている場合は、お気軽にお問合せください。SEO対策からインターネット広告、SNSの運用など、幅広いサービスを取り扱っております。">
   	<meta name="keywords" content="デジタルマーケティグ, オンライン広告, SEO, 検索順位, ウェブ, WEB">
   	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">

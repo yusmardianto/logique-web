@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="SugoiSaiyo, efficient and effective recruitment management system for HR, created by LOGIQUE Digital Indonesia to help you recruit, select, and score the perfect candidates based on your company needs, with less time and less energy. Contact us to try now.">
 	<meta name="keywords" content="recruitment, human resources, recruitment online, recruitment process, tool hire, employment services,
 staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">

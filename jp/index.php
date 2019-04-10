@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="インドネシア、ジャカルタでのWebサイト(ホームページ)制作、システム構築、Webマーケティング、モバイルアプリ開発(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等のデザインなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。">
 	<meta name="keywords" content="Webサイト制作, ホームページ制作, ウェブシステム構築, インターネットマーケティング, SEO, デザイン, パンフレット, モバイルアプリ">
 	<meta name="author" content="PT. Logique Digital Indonesia">
@@ -359,20 +359,5 @@
 			<br/>
 		  <?php include 'footer.php';?>
 		</div>
-		<script type="application/ld+json">
-			{
-			  "@context": "http://schema.org",
-			  "@type": "Organization",
-			  "address": {
-					"@type": "PostalAddress",
-					"addressLocality": "Jakarta, Indonesia",
-					"postalCode": "12550",
-					"streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
-			  },
-			  "logo": "https://www.logique.co.id/img/logo.png",
-			  "email": "info(at)logique.co.id",
-			  "telephone": "+62 (21) 2270 8935/36"
-			}
-		</script>
 	</body>
 </html>

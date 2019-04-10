@@ -38,7 +38,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUEはインドネシア、他の東南アジアの国でクライアントのWEBマーケティングをWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などで成功に導いてきました。インドネシアでWEBを成功のキーとお考えであれば、LOGIQUEにご相談ください。">
 	<meta name="keywords" content="お問い合わせ, WEBサイト制作, ホームページ制作,ウェブシステム構築, WEBマーケティング, パンフレット, モバイルアプリ構築">
 	<meta name="author" content="PT. Logique Digital Indonesia">

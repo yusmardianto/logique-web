@@ -38,7 +38,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="Grow and increase your business profit through digital with LOGIQUE Digital Indonesia, the top Web Developer / Design, Digital Maketing, & IT Consultant in Jakarta. Contact us to ask more about digital marketing in Indonesia and how we can help your business.">
 	<meta name="keywords" content="Inquiries, contact us, website creation, web-system development, web marketing, pamphlet, mobile application">
 	<meta name="author" content="PT. Logique Digital Indonesia">

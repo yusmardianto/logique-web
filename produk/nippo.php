@@ -38,7 +38,7 @@ if(isset($_POST['submitted']))
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" content="Nippo merupakan sistem laporan kerja berbasis web dari LOGIQUE yang mampu membantu HR dan manager dalam menilai kinerja para karyawan. Dengan sistem ini, Anda dapat dengan mudah melakukan seleksi, monitor, penilaian, dan evaluasi kinerja harian karyawan Anda.">
   <meta name="keywords" content="Evaluasi kinerja, Manajemen kinerja, manajemen kerja, laporan kerja, laporan kerja harian, kerja partime, kerja remote, karyawan swasta, karyawan kontrak, laporan kinerja, laporan kinerja karyawan, sistem web, sistem informasi, Nippo">
   <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA">

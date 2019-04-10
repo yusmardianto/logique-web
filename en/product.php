@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUE provides you with various digital products to improve your business productivity. HR Cloud Tool, daily report & evaluation tool, and recruitment management system for HR. Try our products now! We ensure your work will be much easier & efficient!">
     <meta name="keywords" content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
   	<meta name="author" content="PT. Logique Digital Indonesia">

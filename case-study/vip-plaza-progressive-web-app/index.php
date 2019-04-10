@@ -3,7 +3,7 @@
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description" content="LOGIQUE menawarkan layanan untuk perkembangan bisnis Anda dengan sebuah teknologi baru, yaitu jasa pembuatan progressive web apps, seperti yang dilakukan pada VIP Plaza. Ingin mendapatkan layanan ini, silahkan kunjungi website kami!">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">

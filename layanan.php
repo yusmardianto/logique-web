@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUE memberikan layanan jasa pembuatan website, web design, digital marketing, dan pembuatan serta pengembangan aplikasi untuk berbagai kebutuhan bisnis Anda. Kami siap membantu mengoptimalkan bisnis Anda!">
 	<meta name="keywords" content="buat website, pembuatan website, pembuat aplikasi, buat web, aplikasi android, digital marketing, web developer, desain web, seo, aplikasi iphone, kartu nama, profil perusahaan, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">

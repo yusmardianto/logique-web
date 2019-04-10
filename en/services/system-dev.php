@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="As one of the top leading web developers in Indonesia, LOGIQUE has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed. Learn more about our web system development service here.">
 	<meta name="keywords" content="web systems, web developer, web design, mobile app, mobile applications, web development, web services, web development services, web security, logique digital Indonesia">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">

@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="LOGIQUE is the top mobile app developer in Jakarta, has been trusted to develop the highly responsive mobile app, Android and iOS, with native / hybrid app and PWA builder for enterprise clients. We develop apps, strategic plan, design, QA, user testing, etc. Contact us to create yours now.">
 	<meta name="keywords" content="jasa pengembangan aplikasi mobile, jasa pengembangan mobile app, jasa pembuatan aplikasi mobile, pengembangan aplikasi mobile">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">

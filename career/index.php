@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUE membuka lowongan kerja bagi web developer, digital marketing strategist, mobile developer, technical consultant, dan accounting & tax officer untuk mengembangkan kemampuannya bersama kami. Hubungi kami segera.">
 	<meta name="keywords" content="lowongan kerja IT, lowongan web developer, lowongan web designer, lowongan mobile app developer, lowongan technical consultant, lowongan content writer, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">

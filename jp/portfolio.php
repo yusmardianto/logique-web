@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUEの制作実績を紹介します。LOGIQUEは、ジャカルタのウェブ制作会社です。ジャカルタを中心としたインドネシア国内で、数多くのWEBサイト(ホームページ)制作/システム構築、パンフレット、カタログ等印刷物のデザインまで制作を行ってまいりました。">
 	<meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, デザイン, 印刷, コーポレートサイト, ランディングページ">
 	<meta name="author" content="PT. Logique Digital Indonesia">

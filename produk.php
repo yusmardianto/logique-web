@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUE menawarkan berbagai produk digital untuk meningkatkan profit bisnis Anda, mulai dari software kerja remote, sistem laporan kerja karyawan, hingga sistem rekrutmen karyawan untuk HR. Hubungi sekarang juga jika Anda tertarik untuk mendapatkan layanan kami.">
     <meta name="keywords" content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
     <meta name="author" content="PT. Logique Digital Indonesia">
