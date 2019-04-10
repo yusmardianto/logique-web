@@ -4,11 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content=" ">
-    <meta name="keywords" content=" ">
+    <meta name="description" content="LOGIQUE Digital Indonesia creates and develops web and web systems with high quality and international standard, professional, speed, and flexible to any change requested. See our web development price here.">
+    <meta name="keywords" content="">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
+    <meta itemprop="name" content="PT. Logique Digital Indonesia">
+    <meta property="og:title" content="Web Development Price | LOGIQUE Digital Indonesia">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Logique">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:description" content="LOGIQUE Digital Indonesia creates and develops web and web systems with high quality and international standard, professional, speed, and flexible to any change requested. See our web development price here.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title></title>
+    <title>Web Development Price | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/style_webdev_price.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
