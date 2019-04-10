@@ -99,10 +99,10 @@ twq('track','PageView');
 				</div>
 				<div class="footer-title"  style="margin-top: 20px; margin-bottom: 0;">Media Sosial</div>
 				<ul class="medsos-new">
-					<li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer"><i class="fa fa-facebook-official"></i></a></li>
-					<li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer"><i class="fa fa-twitter"></i></a></li>
-					<li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer"><i class="fa fa-instagram"></i></a></li>
-					<li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer"><i class="fa fa-linkedin-square"></i></a></li>
+					<li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer" aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
+					<li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer" aria-label="Twitter"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer" aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer" aria-label="LinkedIn"><i class="fa fa-linkedin-square"></i></a></li>
 				</ul>
 
 			</div>

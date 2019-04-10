@@ -83,10 +83,10 @@ ga('send', 'pageview');
 				</div>
 				<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
 				<ul class=" medsos-new" sty>
-					<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
-					<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter"></i></a></li>
-					<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-					<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
+					<li><a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
+					<li><a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn"><i class="fa fa-linkedin-square"></i></a></li>
 				</ul>
 			</div>
 		</div>
