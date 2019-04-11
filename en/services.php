@@ -27,7 +27,7 @@
 		<div class="wrapper">
 
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>
@@ -80,7 +80,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank">
+							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>
@@ -178,13 +178,13 @@
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
-												<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank">
+												<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/dmi.png" class="img-responsive center-block">
 												DMI<br>
 												</a>
 											</div>
                       <div class="col-sm-5">
-												<a href="http://sentraya.id/" target="_blank">
+												<a href="http://sentraya.id/" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/sentraya.png" class="img-responsive center-block">
 												MENARA SENTRAYA<br>
 												</a>
@@ -206,13 +206,13 @@
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
-												<a href="http://trendpot-recruit.asia/index.php" target="_blank">
+												<a href="http://trendpot-recruit.asia/index.php" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/trendpot.png" class="img-responsive center-block">
 												TRENDPOT<br><br>
 												</a>
 											</div>
                       <div class="col-sm-5">
-												<a href="https://career.sinarmasland.com/" target="_blank">
+												<a href="https://career.sinarmasland.com/" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/sinarmas.jpg" class="img-responsive center-block">
 												SINAR MAS LAND<br><br>
 												</a>

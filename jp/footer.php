@@ -93,17 +93,17 @@ ga('send', 'pageview');
 				<br><br>
 				&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
 				<br>
-				<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
+				<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 				<br><br>
 				<div class="provacy-policy-container">
 					<a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
 				</div>
 				<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
 				<ul class=" medsos-new" sty>
-					<li><a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
-					<li><a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter"><i class="fa fa-twitter"></i></a></li>
-					<li><a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
-					<li><a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn"><i class="fa fa-linkedin-square"></i></a></li>
+					<li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer" aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
+					<li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer" aria-label="Twitter"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer" aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer" aria-label="LinkedIn"><i class="fa fa-linkedin-square"></i></a></li>
 				</ul>
 				</div>
 			</div>

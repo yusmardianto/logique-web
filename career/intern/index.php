@@ -49,7 +49,7 @@
 		<nav class="navbar" id="navbar">
 		  <div class="container">
 			<div class="navbar-header">
-			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			  <button type="button" class="navbar-toggle collapsed" aria-label="data-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>  
