@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia is an international IT company, has a professional team, comfortable environment, and has been working on numerous projects, a perfect place to grow your career and improve your skills. If you have passion in the digital and IT field, we open for recruitment. Join us.">
 	<meta name="keywords" content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
 	<meta name="author" content="PT. Logique Digital Indonesia">
@@ -28,7 +28,7 @@
 		<div class="wrapper">
 
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>
@@ -81,7 +81,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank">
+							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>

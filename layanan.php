@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUE memberikan layanan jasa pembuatan website, web design, digital marketing, dan pembuatan serta pengembangan aplikasi untuk berbagai kebutuhan bisnis Anda. Kami siap membantu mengoptimalkan bisnis Anda!">
-	<meta name="keywords" content="buat website, pembuatan website, pembuat aplikasi, buat web, aplikasi android, digital marketing, web developer, desain web, seo, aplikasi iphone, kartu nama, profil perusahaan, logique">
+	<meta name="keywords" content="jasa pembuatan website, jasa pengembangan sistem website, digital marketing, toko online, pemasaran digital, web server, sistem website, pengetesan keamanan website, pengembangan aplikasi mobile, klinik gigi, pembuatan konten website, aplikasi android ios">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Pembuatan Website, Design, Mobile App, Digital Marketing | Layanan LOGIQUE">
 	<meta property="og:type" content="website">
@@ -27,7 +27,7 @@
 		<div class="wrapper">
 
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>
@@ -79,7 +79,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank">
+							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>
@@ -181,13 +181,13 @@
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
-												<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank">
+												<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/dmi.png" class="img-responsive center-block">
 												DMI<br>
 												</a>
 											</div>
 											<div class="col-sm-5">
-												<a href="http://sentraya.id/" target="_blank">
+												<a href="http://sentraya.id/" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/sentraya.png" class="img-responsive center-block">
 												MENARA SENTRAYA<br>
 												</a>
@@ -209,13 +209,13 @@
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
-												<a href="http://trendpot-recruit.asia/index.php" target="_blank">
+												<a href="http://trendpot-recruit.asia/index.php" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/trendpot.png" class="img-responsive center-block">
 												TRENDPOT<br><br>
 												</a>
 											</div>
 											<div class="col-sm-5">
-												<a href="https://career.sinarmasland.com/" target="_blank">
+												<a href="https://career.sinarmasland.com/" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/sinarmas.jpg" class="img-responsive center-block">
 												SINAR MAS LAND<br><br>
 												</a>

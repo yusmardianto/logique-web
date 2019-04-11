@@ -38,7 +38,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="LOGIQUE bisa membantu Anda dalam pembuatan website dan aplikasi mobile untuk bisnis klinik gigi dengan tampilan profesional dan user friendly. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
 	<meta name="keywords" content="website dental, dokter gigi, klinik gigi, jasa website dental dan klinik dental, logique">
 	<meta name="author" content="Logique Digital Indonesia">
@@ -80,7 +80,7 @@ ga('send', 'pageview');
 	<body class="dentalpage">
 		<div class="wrapper">
 			<header class="head-banner">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
 					<span class="icon-bar third"></span> 
@@ -132,7 +132,7 @@ ga('send', 'pageview');
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="https://www.logique.co.id/blog/" target="_blank">
+								<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 									<div class="img-blog"></div>
 									Blog
 								</a>

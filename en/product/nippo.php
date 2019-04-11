@@ -38,7 +38,7 @@ if(isset($_POST['submitted']))
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" content="NIPPO, a daily report, evaluation, work time management system that provides you with quantity, quality, and contents of employees detailed works. Created by LOGIQUE Digital Indonesia to make monitoring and evaluating employee's daily works easier. Contact us to try now!">
   <meta name="keywords" content="assessment, performance, evaluation, self assessment, daily report, performance management, performance review, employee performance, performance evaluation, increase productivity, nippo system, logique digital indonesia">
   <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA">

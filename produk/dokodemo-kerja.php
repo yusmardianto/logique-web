@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan kerja remote. Aplikasi ini mampu monitor dan kalkulasi jam kerja karyawan secara akurat, dilengkapi feature screencapture otomatis. Dengan begitu, perusahaan Anda menjadi lebih produktif.">
 	<meta name="keywords" content="">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -91,7 +91,7 @@ if(isset($_POST['submitted']))
 		
 		<header>
 			<div class="nav-lp">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
 					<span class="icon-bar third"></span> 
@@ -143,7 +143,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="https://www.logique.co.id/blog/" target="_blank">
+								<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 									<div class="img-blog"></div>
 									Blog
 								</a>
@@ -952,10 +952,10 @@ if(isset($_POST['submitted']))
 			      </div>
 			      <div class="footer-title"  style="margin-top: 20px; margin-bottom: 0;">Media Sosial</div>
 		        <ul class="medsos-new">
-		          <li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
-		          <li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-		          <li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-		          <li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+		          <li><a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
+		          <li><a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter"><i class="fa fa-twitter"></i></a></li>
+		          <li><a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
+		          <li><a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn"><i class="fa fa-linkedin-square"></i></a></li>
 		        </ul>
 
 			    </div>

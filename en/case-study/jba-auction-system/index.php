@@ -3,7 +3,7 @@
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia assisted JBA Indonesia in automotive, motorcycle and car, auction system development and creation, also mobile app development with a very complex and latest technology of web. Learn the case study here.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
@@ -58,7 +58,7 @@
       </header>
 
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>
@@ -110,7 +110,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank">
+							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>

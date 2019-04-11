@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="Dokodemo-Kerja, a remote work / tele-work management system to improve your company's productivity with flexible working hours. Created by LOGIQUE Digital Indonesia to help managers and HR monitor employees work hours and project progress. Contact us for a free trial!">
 	<meta name="keywords" content="productivity, increase productivity, time tracker, productivity measurement, remote work, work from home, remote jobs, flexible working, dokodemo kerja, logique digital indonesia">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -898,10 +898,10 @@ if(isset($_POST['submitted']))
 						</div>
 						<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
 						<ul class=" medsos-new" sty>
-							<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
-							<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-							<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-							<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+							<li><a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
+							<li><a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+							<li><a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+							<li><a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
 						</ul>
 
 					</div>

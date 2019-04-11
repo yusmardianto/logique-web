@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="LOGIQUEがインドネシアで作るWeb / ホームページは、集客ができる、お問い合わせが増える、採用応募者が増える、などコンバージョンが増える価値のあるWebです。WEBチャネルを活用して営業を効率的に行いたい、他社と差別化したい、カスタマーサービスを効率化したい、採用を強化したい、
 場合はLOGIQUEにお任せください。LOGIQUEのWeb制作サービス詳細。">
 	<meta name="keywords" content="効果のある、コンバージョンのでる、意味のある、WEBサイトを予算内で、素早く、効率的に、先進テクノロジーを用い、セキュアに、作ります">
@@ -68,7 +68,7 @@ if(isset($_POST['submitted']))
 			
 			<!-- NAVIGATION -->
 			<div class="nav-lp">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
 					<span class="icon-bar third"></span> 
@@ -120,7 +120,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="https://www.logique.co.id/blog/ja" target="_blank">
+								<a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
 									<div class="img-blog"></div>
 									Blog
 								</a>

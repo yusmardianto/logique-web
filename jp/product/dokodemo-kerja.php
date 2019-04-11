@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="Dokodemo-Kerjaは、LOGIQUEが提供しているリモートワーク管理ツールです。リモートワーク / テレワークにて、フレキシブルに生産性をあげることに集中して効率的に働きたい従業員にも、皆にフェアな機会を与えて、さぼりを抑止したい経営者、人事マネージャーの両者にメリットのある製品・ソリューションです。トライアル利用可能ですのでお問い合わせください。">
 	<meta name="keywords" content="">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -127,7 +127,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="https://www.logique.co.id/blog/ja" target="_blank">
+								<a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
 									<div class="img-blog"></div>
 									Blog
 								</a>
@@ -139,7 +139,7 @@ if(isset($_POST['submitted']))
 			<nav class="navbar navbar-default navbar-dokdem">
 				<div class="container">
 				  <div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 					  <span class="sr-only">Toggle navigation</span>
 					  <span class="icon-bar"></span>
 					  <span class="icon-bar"></span>
@@ -836,10 +836,10 @@ ga('send', 'pageview');
 				</div>
 				<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
 				<ul class=" medsos-new" sty>
-					<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
-					<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-					<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-					<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+					<li><a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
+					<li><a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+					<li><a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
 				</ul>
 				</div>
 			</div>

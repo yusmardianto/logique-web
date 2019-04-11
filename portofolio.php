@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUE mempunyai banyak klien baik lokal maupun internasional. Kami telah membantu mereka untuk meningkatkan bisnis dan usaha mereka. Untuk melihat berbagai hasil karya portofolio yang telah kami lakukan, Anda dapat langsung melihatnya pada website kami.">
-	<meta name="keywords" content="karya Logique, website, aplikasi, pembuatan website, pembuat aplikasi, digital marketing, seo, logique">
+	<meta name="keywords" content="web design, design coding, pengembangan web, jasa pembuatan website, pengembangan aplikasi mobile, database mysql, node js, sistem crm, payment gateway, mobile optimization, page creation, sistem lelang online">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Portofolio Hasil Pembuatan Website dan Aplikasi Mobile | LOGIQUE">
 	<meta property="og:type" content="website">
@@ -27,7 +27,7 @@
 		<div class="wrapper">
 
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>
@@ -79,7 +79,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank">
+							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>

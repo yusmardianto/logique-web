@@ -38,7 +38,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="LOGIQUE menyediakan layanan jasa pembuatan website info lowongan kerja untuk memudahkan dan membantu pekerjaan HRD dalam proses seleksi karyawan dan menemukan kandidat yang tepat. Hubungi LOGIQUE untuk mendapatkan layanan ini sekarang juga!">
 	<meta name="keywords" content="website karir, karir perusahaan, jasa website karir, logique">
 	<meta name="author" content="Logique Digital Indonesia">

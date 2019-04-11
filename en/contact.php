@@ -38,7 +38,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="Grow and increase your business profit through digital with LOGIQUE Digital Indonesia, the top Web Developer / Design, Digital Maketing, & IT Consultant in Jakarta. Contact us to ask more about digital marketing in Indonesia and how we can help your business.">
 	<meta name="keywords" content="Inquiries, contact us, website creation, web-system development, web marketing, pamphlet, mobile application">
 	<meta name="author" content="PT. Logique Digital Indonesia">
@@ -63,7 +63,7 @@ if(isset($_POST['submitted']))
 		<div class="wrapper">
 
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>
@@ -116,7 +116,7 @@ if(isset($_POST['submitted']))
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank">
+							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>
@@ -283,11 +283,11 @@ if(isset($_POST['submitted']))
 						<br/>
 						<div class="row">
 							<div class="col-md-12 text-center sosmed-contact">
-								<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="color:#3b5999"></i></a>
-								<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="color:#0084ff"></i></a>
-								<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="color:#e4405f"></i></a>
-								<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="color:#0077B5"></i></a>
-								<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank"><i class="fa fa-whatsapp" style="color:#25D366"></i></a>
+								<a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook" rel="noreferrer"><i class="fa fa-facebook-official" style="color:#3b5999"></i></a>
+								<a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter" rel="noreferrer"><i class="fa fa-twitter" aria-hidden="true" style="color:#0084ff"></i></a>
+								<a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram" rel="noreferrer"><i class="fa fa-instagram" aria-hidden="true" style="color:#e4405f"></i></a>
+								<a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn" rel="noreferrer"><i class="fa fa-linkedin-square" aria-hidden="true" style="color:#0077B5"></i></a>
+								<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank" rel="noreferrer"><i class="fa fa-whatsapp" style="color:#25D366"></i></a>
 							</div>
 						</div>
 						<br/>

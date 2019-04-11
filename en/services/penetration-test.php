@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="Protect your website, web app, & e-commerce from any cyber attack. LOGIQUE provides web security, penetration test, vulnerability assessment service, to secure your confidential data against today's most advanced threats. Solve the risks now. Contact us.">
 	<meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing , logique">
 	<meta name="author" content="Logique Digital Indonesia">
