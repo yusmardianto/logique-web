@@ -190,7 +190,7 @@
             <div class="title title-30"><b>Profil</b><span class="yellow">Perusahaan</span></div>
             <div class="row">
               <div class="col-sm-5">
-                <img src="img/slider1.jpg" class="img-responsive center-block" style="border: 1px solid #ccc;height: 462px;object-fit: cover;object-position: -245px 0;"/><br/>
+                <img src="img/slider1.jpg" alt="PT. Logique Digital Indonesia" class="img-responsive center-block" style="border: 1px solid #ccc;height: 462px;object-fit: cover;object-position: -245px 0;"/><br/>
               </div>
               <div class="col-sm-7">
                 Nama Perusahaan<br/>
@@ -210,7 +210,7 @@
                 <br/><br/>
                 Phone<br/>
                 <b>+62(21) 2270 8935 / 36</b><br>
-                <b><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" style="vertical-align: top; color: #333"> <img src="../img/whatsapp.png" width="16" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a></b>
+                <b><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" rel="noreferrer" style="vertical-align: top; color: #333"> <img src="../img/whatsapp.png" alt="WhatsApp" width="16" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a></b>
                 <br/><br/>
                 Development Center<br/>
                 <b>Yogyakarta ( Umbulharjo, Kota Yogyakarta )</b>
@@ -220,7 +220,7 @@
 
           <div class="title title-30"><b>Profil&amp;Pesan</b><span class="yellow">Direktur</span></div>
           <div class="form-container">
-            <img src="img/yoshi.jpg" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
+            <img src="img/yoshi.jpg" alt="Takashi Yoshitsugu" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
             <p>
               Lahir di Tokyo, Jepang pada tahun 1976. Pada tahun 1999, ia lulus dari Departemen Teknik Sistem Manajemen, Waseda University di Tokyo.
               Ia memiliki cukup banyak pengalaman dimulai dengan Japan Research Institute, Inc., perusahaan konsultan CRM, dll.
@@ -260,12 +260,12 @@
                 <div class="row" >
                   <div class="col-sm-6">
                     <a href="/layanan.php">
-                      <img src="/img/service-banner-sm-id.png" alt="service banner" class="img-responsive">
+                      <img src="/img/service-banner-sm-id.png" alt="Layanan banner" class="img-responsive">
                     </a>
                   </div>
                   <div class="col-sm-6">
-                    <a href="produk.php">
-                      <img src="/img/product-banner-sm-id.png" alt="" class="img-responsive">
+                    <a href="/produk.php">
+                      <img src="/img/product-banner-sm-id.png" alt="Produk banner" class="img-responsive">
                     </a>
                   </div>
                 </div>
@@ -275,12 +275,12 @@
                 <div class="row" >
                   <div class="col-sm-6">
                     <a href="/karir.php">
-                      <img src="/img/job-banner-sm-id.png" alt="service banner" class="img-responsive">
+                      <img src="/img/job-banner-sm-id.png" alt="Karir banner" class="img-responsive">
                     </a>
                   </div>
                   <div class="col-sm-6">
                     <a href="/portofolio.php">
-                      <img src="/img/portfolio-banner-sm-id.png" alt="" class="img-responsive">
+                      <img src="/img/portfolio-banner-sm-id.png" alt="Portofolio banner" class="img-responsive">
                     </a>
                   </div>
                 </div>

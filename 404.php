@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="">
+    <meta name="description" itemprop="description" content="404 Not Found Page">
 	<meta name="keywords" content="">
 	<meta name="author" content="">
     
@@ -16,7 +16,8 @@
     <link href="/css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    
+	<link rel="dns-prefetch preconnect" href="https://www.gstatic.com" crossorigin>
+	<link rel="dns-prefetch preconnect" href="https://www.google-analytics.com" crossorigin>
     </head>
 	<body>
 		<div class="wrapper">

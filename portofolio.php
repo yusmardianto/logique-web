@@ -141,7 +141,7 @@
 							<div class="characteristic-title" style="font-size:22px">WEB</div>
 							<div class="row text-center">
 								<div class="col-sm-4">
-								  <img src="/img/portfolio/pertamina.png" class="img-responsive center-block">
+								  <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
 								    Pertamina  
 								  <div class="addition-desc text-left">
 								    UI / UX Design  (Design | HTML/CSS)
@@ -149,8 +149,8 @@
 								  </div>
 								</div>
 								<div class="col-sm-4">
-									<a href="https://www.bekalhidup.com" target="_blank">
-										<img src="/img/portfolio/panin.png" class="img-responsive center-block">
+									<a href="https://www.bekalhidup.com" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/panin.png" alt="Panin Life Dai-ichi" class="img-responsive center-block">
 										Panin Life Dai-ichi
 									</a>
 									<div class="addition-desc text-left">
@@ -159,8 +159,8 @@
 									</div>
 								</div>
 								<div class="col-sm-4">
-									<a href="https://www.jtrustbank.co.id/" target="_blank">
-										<img src="/img/portfolio/jtrust-bank-new.png" class="img-responsive center-block">
+									<a href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/jtrust-bank-new.png" alt="JTrust Bank (Re-design)" class="img-responsive center-block">
 										JTrust Bank (Re-design)
 									</a>
 									<div class="addition-desc text-left">
@@ -170,8 +170,8 @@
 								</div>
 								<div class="clearfix"></div>
 							 	<div class="col-sm-4">
-							 		<a href="https://prolinefinance.co.id/" target="_blank">
-							 			<img src="/img/portfolio/proline.png" class="img-responsive center-block">
+							 		<a href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
+							 			<img src="/img/portfolio/proline.png" alt="PROLINE FINANCE" class="img-responsive center-block">
 							 			PROLINE FINANCE
 							 		</a>
 							 		<div class="addition-desc text-left">
@@ -180,8 +180,8 @@
 							 		</div>
 							 	</div>
 							 	<div class="col-sm-4">
-									<a href="https://jba.co.id/" target="_blank">
-										<img src="/img/portfolio/jba-indonesia.png" class="img-responsive center-block">
+									<a href="https://jba.co.id/" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/jba-indonesia.png" alt="JBA INDONESIA" class="img-responsive center-block">
 										JBA INDONESIA
 									</a>
 									<div class="addition-desc text-left">
@@ -190,8 +190,8 @@
 									</div>
 								</div>
 								<div class="col-sm-4">
-									<a href="http://www.jnto.or.id/" target="_blank">
-										<img src="/img/portfolio/jnto.png" class="img-responsive center-block">
+									<a href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/jnto.png" alt="JNTO Indonesia" class="img-responsive center-block">
 										JNTO Indonesia
 									</a>
 									<div class="addition-desc text-left">
@@ -204,8 +204,8 @@
 							<div class="portfolio-webdev page-part-container panel-collapse collapse" id="hide-portfolio">
 								<div class="row text-center">
 									<div class="col-sm-4">
-										<a href="https://jcinema2018.id/" target="_blank">
-											<img src="/img/portfolio/jff.png" class="img-responsive center-block">
+										<a href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/jff.png" alt="Film Festival" class="img-responsive center-block">
 											Film Festival
 										</a>
 										<div class="addition-desc text-left">
@@ -214,8 +214,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="https://www.otomart.id/" target="_blank">
-											<img src="/img/portfolio/otomart.png" class="img-responsive center-block">
+										<a href="https://www.otomart.id/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/otomart.png" alt="OTOmart (used-car market place)" class="img-responsive center-block">
 											OTOmart (used-car market place)
 										</a>
 										<div class="addition-desc text-left">
@@ -224,8 +224,8 @@
 										</div>
 								 	</div>
 									<div class="col-sm-4">
-										<a href="http://jaif.asean.org/" target="_blank">
-											<img src="/img/portfolio/jaif.png" class="img-responsive center-block">
+										<a href="http://jaif.asean.org/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/jaif.png" alt="Japan Asean Integration Fund" class="img-responsive center-block">
 											Japan Asean Integration Fund
 										</a>
 										<div class="addition-desc text-left">
@@ -235,7 +235,7 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<img src="/img/portfolio/shinoken.png" class="img-responsive center-block">
+										<img src="/img/portfolio/shinoken.png" alt="Shinoken Asset Management" class="img-responsive center-block">
 										Shinoken Asset Management
 										<div class="addition-desc text-left">
 											Pengembangan WEB (Design | Coding | AWS)
@@ -243,8 +243,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="http://sentraya.id/" target="_blank">
-											<img src="/img/portfolio/sentraya.png" class="img-responsive center-block">
+										<a href="http://sentraya.id/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/sentraya.png" alt="Menara Sentraya" class="img-responsive center-block">
 											Menara Sentraya
 										</a>
 										<div class="addition-desc text-left">
@@ -253,8 +253,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="https://bisnissaya.com" target="_blank">
-											<img src="/img/portfolio/bisnissaya.png" class="img-responsive center-block">
+										<a href="https://bisnissaya.com" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/bisnissaya.png" alt="BisnisSaya.com (MLM E-Commerce)" class="img-responsive center-block">
 											BisnisSaya.com (MLM E-Commerce)
 										</a>
 										<div class="addition-desc text-left">
@@ -264,8 +264,8 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<a href="https://frangipanibalispa.com/" target="_blank">
-											<img src="/img/portfolio/frangipani-amp.png" class="img-responsive center-block">
+										<a href="https://frangipanibalispa.com/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/frangipani-amp.png" alt="Frangipani" class="img-responsive center-block">
 											Frangipani
 										</a>
 										<div class="addition-desc text-left">
@@ -274,8 +274,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="http://warasahalal.com/" target="_blank">
-											<img src="/img/portfolio/warasa.png" class="img-responsive center-block">
+										<a href="http://warasahalal.com/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/warasa.png" alt="WARASA" class="img-responsive center-block">
 											WARASA
 										</a>
 										<div class="addition-desc text-left">
@@ -284,8 +284,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="http://hoyu.co.id/" target="_blank">
-											<img src="/img/portfolio/hoyu.png" class="img-responsive center-block">
+										<a href="http://hoyu.co.id/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/hoyu.png" alt="Hoyu Indonesia" class="img-responsive center-block">
 											Hoyu Indonesia
 										</a>
 										<div class="addition-desc text-left">
@@ -295,7 +295,7 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<img src="/img/portfolio/arf.png" class="img-responsive center-block">
+										<img src="/img/portfolio/arf.png" alt="ASEAN (ARF)" class="img-responsive center-block">
 										ASEAN (ARF)
 										<div class="addition-desc text-left">
 											WEB Development (Design | Coding | CMS)
@@ -311,8 +311,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="https://jualbeliweb.id/" target="_blank">
-											<img src="/img/portfolio/jualbeliweb.png" class="img-responsive center-block">
+										<a href="https://jualbeliweb.id/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/jualbeliweb.png" alt="JualBeliWEB.id (Website market place)" class="img-responsive center-block">
 											JualBeliWEB.id (Website market place)
 										</a>
 										<div class="addition-desc text-left">
@@ -322,7 +322,7 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<img src="/img/portfolio/ajapan.png" class="img-responsive center-block">
+										<img src="/img/portfolio/ajapan.png" alt="aJapan Campaign Page" class="img-responsive center-block">
 										aJapan Campaign Page
 										<div class="addition-desc text-left">
 											Pengoperasian & Pengembangan Kampanye Microsite (Design | Coding | Operation)
@@ -330,8 +330,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="https://www.jtrustbank.co.id/id/moe" target="_blank">
-											<img src="/img/portfolio/moe.png" class="img-responsive center-block">
+										<a href="https://www.jtrustbank.co.id/id/moe" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/moe.png" alt="JTrust Bank Indonesia" class="img-responsive center-block">
 											JTrust Bank Indonesia
 										</a>
 										<div class="addition-desc text-left">
@@ -340,8 +340,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="http://frangipanibalispa.com/contact.php" target="_blank">
-											<img src="/img/portfolio/frangipani.png" class="img-responsive center-block">
+										<a href="http://frangipanibalispa.com/contact.php" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/frangipani.png" alt="Frangipani Esthetics Bali" class="img-responsive center-block">
 											Frangipani Esthetics Bali
 										</a>
 										<div class="addition-desc text-left">
@@ -351,7 +351,7 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<img src="/img/portfolio/otosiap.png" class="img-responsive center-block">
+										<img src="/img/portfolio/otosiap.png" alt="OTO Siap!" class="img-responsive center-block">
 										OTO Siap!
 										<div class="addition-desc text-left">
 											Landing Page Creation (Design | Coding)
@@ -359,14 +359,14 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<img src="/img/portfolio/oto-isuzu.png" class="img-responsive center-block">
+										<img src="/img/portfolio/oto-isuzu.png" alt="Oto Isuzu" class="img-responsive center-block">
 										<div class="addition-desc text-left">
 											Landing Page Creation (Design | Coding)
 											<div class="grey-clr">Detail Page, Mobile Optimization, Car, Automotive</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<img src="/img/portfolio/oto-conc.png" class="img-responsive center-block">
+										<img src="/img/portfolio/oto-conc.png" alt="OTOmart Concierge LP" class="img-responsive center-block">
 										OTOmart Concierge LP
 										<div class="addition-desc text-left">
 											Landing Page Creation (Design | Coding)
@@ -375,14 +375,14 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<img src="/img/portfolio/oto-garansi.png" class="img-responsive center-block">
+										<img src="/img/portfolio/oto-garansi.png" alt="Oto Garansi" class="img-responsive center-block">
 										<div class="addition-desc text-left">
 											Landing Page Creation (Design | Coding)
 											<div class="grey-clr">LP Creation, Conversion Oriented Web, Car Gurantee Service</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<img src="/img/portfolio/eccj.jpg" class="img-responsive center-block">
+										<img src="/img/portfolio/eccj.jpg" alt="ECCJ" class="img-responsive center-block">
 										ECCJ
 										<div class="addition-desc text-left">
 											LP and application form Creation (Design | programming)
@@ -390,7 +390,7 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<img src="/img/portfolio/sfi.png" class="img-responsive center-block">
+										<img src="/img/portfolio/sfi.png" alt="Sumitomo Forestry LP" class="img-responsive center-block">
 										Sumitomo Forestry LP
 										<div class="addition-desc text-left">
 											Pembuatan Landing Page (Design | Coding)
@@ -399,8 +399,8 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<a href="https://hajime-indonesia.co.id/about/" target="_blank">
-											<img src="/img/portfolio/hajime.png" class="img-responsive center-block">
+										<a href="https://hajime-indonesia.co.id/about/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/hajime.png" alt="Hajime Indonesia" class="img-responsive center-block">
 											Hajime Indonesia
 										</a>
 										<div class="addition-desc text-left">
@@ -409,8 +409,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="http://maisonderes.com/" target="_blank">
-											<img src="/img/portfolio/mdr.png" class="img-responsive center-block">
+										<a href="http://maisonderes.com/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/mdr.png" alt="Maison de Res (Condominium Portal)" class="img-responsive center-block">
 											Maison de Res (Condominium Portal)
 										</a>
 										<div class="addition-desc text-left">
@@ -419,8 +419,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="http://www.zuttoride.id/" target="_blank">
-											<img src="/img/portfolio/zutto.png" class="img-responsive center-block">
+										<a href="http://www.zuttoride.id/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/zutto.png" alt="ZuttoRide Indonesia" class="img-responsive center-block">
 											ZuttoRide Indonesia
 										</a>
 										<div class="addition-desc text-left">
@@ -430,8 +430,8 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<a href="http://jjs.or.id/" target="_blank">
-											<img src="/img/portfolio/jjs.png" class="img-responsive center-block">
+										<a href="http://jjs.or.id/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/jjs.png" alt="Jakarta Japanese School" class="img-responsive center-block">
 											Jakarta Japanese School
 										</a>
 										<div class="addition-desc text-left">
@@ -440,8 +440,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="https://cikarang-japanese-school.com/" target="_blank">
-											<img src="/img/portfolio/cjs.png" class="img-responsive center-block">
+										<a href="https://cikarang-japanese-school.com/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/cjs.png" alt="Cikarang Japanese School" class="img-responsive center-block">
 											Cikarang Japanese School
 										</a>
 										<div class="addition-desc text-left">
@@ -450,8 +450,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="https://www.60jpid.com/symposium.php" target="_blank">
-											<img src="/img/portfolio/symposium.png" class="img-responsive center-block">
+										<a href="https://www.60jpid.com/symposium.php" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/symposium.png" alt="Symposium Application LP" class="img-responsive center-block">
 											Symposium Application LP
 										</a>
 										<div class="addition-desc text-left">
@@ -461,8 +461,8 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<a href="https://www.ikeuchi.id/lp/eng/" target="_blank">
-											<img src="/img/portfolio/ikeuchi.png" class="img-responsive center-block">
+										<a href="https://www.ikeuchi.id/lp/eng/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/ikeuchi.png" alt="Ikeuchi Indonesia" class="img-responsive center-block">
 											Ikeuchi Indonesia
 										</a>
 										<div class="addition-desc text-left">
@@ -471,8 +471,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="http://www.moresco.co.id/" target="_blank">
-											<img src="/img/portfolio/moresco.png" class="img-responsive center-block">
+										<a href="http://www.moresco.co.id/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/moresco.png" alt="MORESCO INDONESIA" class="img-responsive center-block">
 											MORESCO INDONESIA
 										</a>
 										<div class="addition-desc text-left">
@@ -481,8 +481,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="http://trendpot-recruit.asia/index.php" target="_blank">
-											<img src="/img/portfolio/trendpot.png" class="img-responsive center-block">
+										<a href="http://trendpot-recruit.asia/index.php" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/trendpot.png" alt="TRENDPOT" class="img-responsive center-block">
 											TRENDPOT
 										</a>
 										<div class="addition-desc text-left">
@@ -492,8 +492,8 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank">
-											<img src="/img/portfolio/dmi.png" class="img-responsive center-block">
+										<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/dmi.png" alt="Digital Marketing Indonesia" class="img-responsive center-block">
 											Digital Marketing Indonesia
 										</a>
 										<div class="addition-desc text-left">
@@ -502,7 +502,7 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<img src="/img/portfolio/salon-de-res.png" class="img-responsive center-block">
+										<img src="/img/portfolio/salon-de-res.png" alt="Salon De Res" class="img-responsive center-block">
 										Salon De Res
 										<div class="addition-desc text-left">
 											Pengembangan WEB (Design | Coding)
@@ -510,8 +510,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="http://www.kumomiland.co.id/" target="_blank">
-											<img src="/img/portfolio/kumomiland.png" class="img-responsive center-block">
+										<a href="http://www.kumomiland.co.id/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/kumomiland.png" alt="KUMOMI LAND INDONESIA" class="img-responsive center-block">
 											KUMOMI LAND INDONESIA
 										</a>
 										<div class="addition-desc text-left">
@@ -521,8 +521,8 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<a href="https://4dentist.jp/" target="_blank">
-											<img src="/img/portfolio/4dentist.png" class="img-responsive center-block">
+										<a href="https://4dentist.jp/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/4dentist.png" alt="4Dentist.jp (Dentist Portal)" class="img-responsive center-block">
 											4Dentist.jp (Dentist Portal)
 										</a>
 										<div class="addition-desc text-left">
@@ -531,8 +531,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="http://omc.co.id/" target="_blank">
-											<img src="/img/portfolio/omc.png" class="img-responsive center-block">
+										<a href="http://omc.co.id/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/omc.png" alt="Onitsuka Management Consulting" class="img-responsive center-block">
 											Onitsuka Management Consulting
 										</a>
 										<div class="addition-desc text-left">
@@ -541,8 +541,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="http://j-golfacademy.com/" target="_blank">
-											<img src="/img/portfolio/golfjkt.png" class="img-responsive center-block">
+										<a href="http://j-golfacademy.com/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/golfjkt.png" alt="Jakarta Golf Academy" class="img-responsive center-block">
 											Jakarta Golf Academy
 										</a>
 										<div class="addition-desc text-left">
@@ -552,8 +552,8 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<a href="https://www.60jpid.com/music-festival.php" target="_blank">
-											<img src="/img/portfolio/music_festival.png" class="img-responsive center-block">
+										<a href="https://www.60jpid.com/music-festival.php" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/music_festival.png" alt="Music Festival Landing Page" class="img-responsive center-block">
 											Music Festival Landing Page
 										</a>
 										<div class="addition-desc text-left">
@@ -562,8 +562,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="https://promokreditbprks.com/" target="_blank">
-											<img src="/img/portfolio/bprks.jpg" class="img-responsive center-block">
+										<a href="https://promokreditbprks.com/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/bprks.jpg" alt="BPR KS" class="img-responsive center-block">
 											BPR KS
 										</a>
 										<div class="addition-desc text-left">
@@ -572,8 +572,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="http://www.vipplaza.co.id/" target="_blank">
-											<img src="/img/portfolio/vipplaza.jpg" class="img-responsive center-block">
+										<a href="http://www.vipplaza.co.id/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/vipplaza.jpg" alt="VIP Plaza" class="img-responsive center-block">
 											VIP Plaza
 										</a>
 										<div class="addition-desc text-left">
@@ -583,8 +583,8 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<a href="https://opuspark.co.id/" target="_blank">
-											<img src="/img/portfolio/opus-park.png" class="img-responsive center-block">
+										<a href="https://opuspark.co.id/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/opus-park.png" alt="Opus Park" class="img-responsive center-block">
 											Opus Park
 										</a>
 										<div class="addition-desc text-left">
@@ -593,8 +593,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="http://nlecnihongo.com/" target="_blank">
-											<img src="/img/portfolio/nlec.png" class="img-responsive center-block">
+										<a href="http://nlecnihongo.com/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/nlec.png" alt="NLEC" class="img-responsive center-block">
 											NLEC
 										</a>
 										<div class="addition-desc text-left">
@@ -603,7 +603,7 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<img src="/img/portfolio/jfe.png" class="img-responsive center-block">
+										<img src="/img/portfolio/jfe.png" alt="JFE" class="img-responsive center-block">
 										JFE
 										<div class="addition-desc text-left">
 											Corporate Web Creation (Design | Coding)
@@ -612,8 +612,8 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<a href="https://www.jjs.or.id/50thanniversary" target="_blank">
-											<img src="/img/portfolio/jjs50.png" class="img-responsive center-block">
+										<a href="https://www.jjs.or.id/50thanniversary" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/jjs50.png" alt="JJS 50 years special LP" class="img-responsive center-block">
 											JJS 50 years special LP
 										</a>
 										<div class="addition-desc text-left">
@@ -622,8 +622,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="https://www.jba.co.id/id/hasil-harga-lelang" target="_blank">
-											<img src="/img/portfolio/jba-hasil-lelang.png" class="img-responsive center-block">
+										<a href="https://www.jba.co.id/id/hasil-harga-lelang" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/jba-hasil-lelang.png" alt="JBA Hasil Lelang" class="img-responsive center-block">
 											JBA Hasil Lelang
 										</a>
 										<div class="addition-desc text-left">
@@ -632,8 +632,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="https://webdev-id.com/" target="_blank">
-											<img src="/img/portfolio/wdi.png" class="img-responsive center-block">
+										<a href="https://webdev-id.com/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/wdi.png" alt="WDI" class="img-responsive center-block">
 											WDI
 										</a>
 										<div class="addition-desc text-left">
@@ -643,8 +643,8 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<a href="https://lifenesia.com" target="_blank">
-											<img src="/img/portfolio/lifenesia.png" class="img-responsive center-block">
+										<a href="https://lifenesia.com" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/lifenesia.png" alt="Lifenesia" class="img-responsive center-block">
 											Lifenesia
 										</a>
 										<div class="addition-desc text-left">
@@ -653,8 +653,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank">
-											<img src="/img/portfolio/jnto-campaign.png" class="img-responsive center-block">
+										<a href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/jnto-campaign.png" alt="JNTO Campaign Page" class="img-responsive center-block">
 											JNTO Campaign Page
 										</a>
 										<div class="addition-desc text-left">
@@ -663,7 +663,7 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<img src="/img/portfolio/jba-redesign.png" class="img-responsive center-block">
+										<img src="/img/portfolio/jba-redesign.png" alt="JBA Re-design" class="img-responsive center-block">
 										JBA Re-design
 										<div class="addition-desc text-left">
 											Pengoperasian & Pengembangan WEB (Design | CMS | System | Operation | AWS)
@@ -672,8 +672,8 @@
 									</div>
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<a href="https://www.60jpid.com/" target="_blank">
-											<img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
+										<a href="https://www.60jpid.com/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/60jpid.png" alt="60th Anniversary Japan-Indonesia" class="img-responsive center-block">
 											60<sup>th</sup> Anniversary Japan-Indonesia
 										</a>
 										<div class="addition-desc text-left">
@@ -682,7 +682,7 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-									  <img src="/img/portfolio/wantjp.png" class="img-responsive center-block">
+									  <img src="/img/portfolio/wantjp.png" alt="Want.jp" class="img-responsive center-block">
 									    Want.jp
 									  <div class="addition-desc text-left">
 									    Pengembangan E-Commerce (PWA | ReactJS | NodeJS) 
@@ -690,8 +690,8 @@
 									  </div>
 									</div>
 									<div class="col-sm-4">
-									  <a href="https://banzaihobby.com/" target="_blank">
-									    <img src="/img/portfolio/banzai-hobby.png" class="img-responsive center-block">
+									  <a href="https://banzaihobby.com/" target="_blank" rel="noreferrer">
+									    <img src="/img/portfolio/banzai-hobby.png" alt="Banzai Hobby" class="img-responsive center-block">
 									    Banzai Hobby
 									  </a>
 									  <div class="addition-desc text-left">
@@ -700,8 +700,8 @@
 									  </div>
 									</div>
 								<!--<div class="col-sm-4">
-									<a href="http://wkvetter.com" target="_blank">
-										<img src="/img/portfolio/vetter.png" class="img-responsive center-block">
+									<a href="http://wkvetter.com" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/vetter.png" alt="Vetter" class="img-responsive center-block">
 										Vetter
 									</a>
 									<div class="addition-desc text-left">
@@ -711,8 +711,8 @@
 								</div>-->
 									<div class="clearfix"></div>
 									<div class="col-sm-4">
-										<a href="https://jjc.or.id/hojin/annai/" target="_blank">
-											<img src="/img/portfolio/jjc_hojin.png" class="img-responsive center-block">
+										<a href="https://jjc.or.id/hojin/annai/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/jjc_hojin.png" alt="JJC Hojin" class="img-responsive center-block">
 											JJC Hojin
 										</a>
 										<div class="addition-desc text-left">
@@ -721,8 +721,8 @@
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<a href="https://jjc.or.id/kojin/tosho/" target="_blank">
-											<img src="/img/portfolio/jjc_kojin.png" class="img-responsive center-block">
+										<a href="https://jjc.or.id/kojin/tosho/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/jjc_kojin.png" alt="JJC Kojin" class="img-responsive center-block">
 											JJC Kojin
 										</a>
 									  <div class="addition-desc text-left">

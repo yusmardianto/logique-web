@@ -150,7 +150,7 @@
                   </div>
                 </div>
                 <div class="col-sm-4">
-                  <a href="https://www.bekalhidup.com" target="_blank">
+                  <a href="https://www.bekalhidup.com" target="_blank" rel="noreferrer">
                     <img src="/img/portfolio/panin.png" class="img-responsive center-block">
                     Panin Life Dai-ichi
                   </a>
@@ -160,7 +160,7 @@
                   </div>
                 </div>
   							<div class="col-sm-4">
-  								<a href="https://www.jtrustbank.co.id/" target="_blank">
+  								<a href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
   									<img src="/img/portfolio/jtrust-bank-new.png" class="img-responsive center-block">
   									JTrust Bank (Re-design)
   								</a>
@@ -171,7 +171,7 @@
   							</div>
                 <div class="clearfix"></div>
                 <div class="col-sm-4">
-                  <a href="https://prolinefinance.co.id/" target="_blank">
+                  <a href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
                     <img src="/img/portfolio/proline.png" class="img-responsive center-block">
                     PROLINE FINANCE
                   </a>
@@ -181,7 +181,7 @@
                   </div>
                 </div>
                 <div class="col-sm-4">
-                  <a href="https://jba.co.id/" target="_blank">
+                  <a href="https://jba.co.id/" target="_blank" rel="noreferrer">
                     <img src="/img/portfolio/jba-indonesia.png" class="img-responsive center-block">
                     JBA INDONESIA
                   </a>
@@ -191,7 +191,7 @@
                   </div>
                 </div>
                 <div class="col-sm-4">
-                  <a href="http://www.jnto.or.id/" target="_blank">
+                  <a href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
                     <img src="/img/portfolio/jnto.png" class="img-responsive center-block">
                     JNTO Indonesia
                   </a>
@@ -205,7 +205,7 @@
               <div class="portfolio-webdev page-part-container panel-collapse collapse" id="hide-portfolio">
                 <div class="row text-center">
                   <div class="col-sm-4">
-    								<a href="https://jcinema2018.id/" target="_blank">
+    								<a href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/jff.png" class="img-responsive center-block">
     									Film Festival
     								</a>
@@ -215,7 +215,7 @@
     								</div>
     							</div>
                   <div class="col-sm-4">
-                     <a href="https://www.otomart.id/" target="_blank">
+                     <a href="https://www.otomart.id/" target="_blank" rel="noreferrer">
                        <img src="/img/portfolio/otomart.png" class="img-responsive center-block">
                        OTOmart (used-car market place)
                      </a>
@@ -225,7 +225,7 @@
                      </div>
                    </div>
                   <div class="col-sm-4">
-    								<a href="http://jaif.asean.org/" target="_blank">
+    								<a href="http://jaif.asean.org/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/jaif.png" class="img-responsive center-block">
     									Japan Asean Integration Fund
     								</a>
@@ -244,7 +244,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="http://sentraya.id/" target="_blank">
+    								<a href="http://sentraya.id/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/sentraya.png" class="img-responsive center-block">
     									Menara Sentraya
     								</a>
@@ -254,7 +254,7 @@
     								</div>
     							</div>
                   <div class="col-sm-4">
-    								<a href="https://bisnissaya.com" target="_blank">
+    								<a href="https://bisnissaya.com" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/bisnissaya.png" class="img-responsive center-block">
     									BisnisSaya.com (MLM E-Commerce)
     								</a>
@@ -265,7 +265,7 @@
     							</div>
     							<div class="clearfix"></div>
                   <div class="col-sm-4">
-    								<a href="https://frangipanibalispa.com/" target="_blank">
+    								<a href="https://frangipanibalispa.com/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/frangipani-amp.png" class="img-responsive center-block">
     									Frangipani
     								</a>
@@ -275,7 +275,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="http://warasahalal.com/" target="_blank">
+    								<a href="http://warasahalal.com/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/warasa.png" class="img-responsive center-block">
     									WARASA
     								</a>
@@ -285,7 +285,7 @@
     								</div>
     							</div>
                   <div class="col-sm-4">
-    								<a href="http://hoyu.co.id/" target="_blank">
+    								<a href="http://hoyu.co.id/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/hoyu.png" class="img-responsive center-block">
     									Hoyu Indonesia
     								</a>
@@ -312,7 +312,7 @@
     								</div>
     							</div>
                   <div class="col-sm-4">
-    								<a href="https://jualbeliweb.id/" target="_blank">
+    								<a href="https://jualbeliweb.id/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/jualbeliweb.png" class="img-responsive center-block">
     									JualBeliWEB.id (Website market place)
     								</a>
@@ -331,7 +331,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="https://www.jtrustbank.co.id/id/moe" target="_blank">
+    								<a href="https://www.jtrustbank.co.id/id/moe" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/moe.png" class="img-responsive center-block">
     									JTrust Bank Indonesia
     								</a>
@@ -341,7 +341,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="http://frangipanibalispa.com/contact.php" target="_blank">
+    								<a href="http://frangipanibalispa.com/contact.php" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/frangipani.png" class="img-responsive center-block">
     									Frangipani Esthetics Bali
     								</a>
@@ -400,7 +400,7 @@
     							</div>
     							<div class="clearfix"></div>
                   <div class="col-sm-4">
-    								<a href="https://hajime-indonesia.co.id/about/" target="_blank">
+    								<a href="https://hajime-indonesia.co.id/about/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/hajime.png" class="img-responsive center-block">
     									Hajime Indonesia
     								</a>
@@ -410,7 +410,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="http://maisonderes.com/" target="_blank">
+    								<a href="http://maisonderes.com/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/mdr.png" class="img-responsive center-block">
     									Maison de Res (Condominium Portal)
     								</a>
@@ -420,7 +420,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="http://www.zuttoride.id/" target="_blank">
+    								<a href="http://www.zuttoride.id/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/zutto.png" class="img-responsive center-block">
     									ZuttoRide Indonesia
     								</a>
@@ -431,7 +431,7 @@
     							</div>
     							<div class="clearfix"></div>
                   <div class="col-sm-4">
-    								<a href="http://jjs.or.id/" target="_blank">
+    								<a href="http://jjs.or.id/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/jjs.png" class="img-responsive center-block">
     									Jakarta Japanese School
     								</a>
@@ -441,7 +441,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="https://cikarang-japanese-school.com/" target="_blank">
+    								<a href="https://cikarang-japanese-school.com/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/cjs.png" class="img-responsive center-block">
     									Cikarang Japanese School
     								</a>
@@ -451,7 +451,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="https://www.60jpid.com/symposium.php" target="_blank">
+    								<a href="https://www.60jpid.com/symposium.php" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/symposium.png" class="img-responsive center-block">
     									Symposium Application LP
     								</a>
@@ -462,7 +462,7 @@
     							</div>
     							<div class="clearfix"></div>
                   <div class="col-sm-4">
-    								<a href="https://www.ikeuchi.id/lp/eng/" target="_blank">
+    								<a href="https://www.ikeuchi.id/lp/eng/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/ikeuchi.png" class="img-responsive center-block">
     									Ikeuchi Indonesia
     								</a>
@@ -472,7 +472,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="http://www.moresco.co.id/" target="_blank">
+    								<a href="http://www.moresco.co.id/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/moresco.png" class="img-responsive center-block">
     									MORESCO INDONESIA
     								</a>
@@ -482,7 +482,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="http://trendpot-recruit.asia/index.php" target="_blank">
+    								<a href="http://trendpot-recruit.asia/index.php" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/trendpot.png" class="img-responsive center-block">
     									TRENDPOT
     								</a>
@@ -493,7 +493,7 @@
     							</div>
     							<div class="clearfix"></div>
                   <div class="col-sm-4">
-    								<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank">
+    								<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/dmi.png" class="img-responsive center-block">
     									Digital Marketing Indonesia
     								</a>
@@ -511,7 +511,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="http://www.kumomiland.co.id/" target="_blank">
+    								<a href="http://www.kumomiland.co.id/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/kumomiland.png" class="img-responsive center-block">
     									KUMOMI LAND INDONESIA
     								</a>
@@ -522,7 +522,7 @@
     							</div>
     							<div class="clearfix"></div>
                   <div class="col-sm-4">
-    								<a href="https://4dentist.jp/" target="_blank">
+    								<a href="https://4dentist.jp/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/4dentist.png" class="img-responsive center-block">
     									4Dentist.jp (Dentist Portal)
     								</a>
@@ -532,7 +532,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="http://omc.co.id/" target="_blank">
+    								<a href="http://omc.co.id/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/omc.png" class="img-responsive center-block">
     									Onitsuka Management Consulting
     								</a>
@@ -542,7 +542,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="http://j-golfacademy.com/" target="_blank">
+    								<a href="http://j-golfacademy.com/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/golfjkt.png" class="img-responsive center-block">
     									Jakarta Golf Academy
     								</a>
@@ -553,7 +553,7 @@
     							</div>
     							<div class="clearfix"></div>
                   <div class="col-sm-4">
-    								<a href="https://www.60jpid.com/music-festival.php" target="_blank">
+    								<a href="https://www.60jpid.com/music-festival.php" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/music_festival.png" class="img-responsive center-block">
     									Music Festival Landing Page
     								</a>
@@ -563,7 +563,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="https://promokreditbprks.com/" target="_blank">
+    								<a href="https://promokreditbprks.com/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/bprks.jpg" class="img-responsive center-block">
     									BPR KS
     								</a>
@@ -573,7 +573,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="http://www.vipplaza.co.id/" target="_blank">
+    								<a href="http://www.vipplaza.co.id/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/vipplaza.jpg" class="img-responsive center-block">
     									VIP Plaza
     								</a>
@@ -584,7 +584,7 @@
     							</div>
     							<div class="clearfix"></div>
                   <div class="col-sm-4">
-    								<a href="https://opuspark.co.id/" target="_blank">
+    								<a href="https://opuspark.co.id/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/opus-park.png" class="img-responsive center-block">
     									Opus Park
     								</a>
@@ -594,7 +594,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="http://nlecnihongo.com/" target="_blank">
+    								<a href="http://nlecnihongo.com/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/nlec.png" class="img-responsive center-block">
     									NLEC
     								</a>
@@ -613,7 +613,7 @@
     							</div>
     							<div class="clearfix"></div>
                   <div class="col-sm-4">
-    								<a href="https://www.jjs.or.id/50thanniversary" target="_blank">
+    								<a href="https://www.jjs.or.id/50thanniversary" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/jjs50.png" class="img-responsive center-block">
     									JJS 50 years special LP
     								</a>
@@ -623,7 +623,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="https://www.jba.co.id/id/hasil-harga-lelang" target="_blank">
+    								<a href="https://www.jba.co.id/id/hasil-harga-lelang" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/jba-hasil-lelang.png" class="img-responsive center-block">
     									JBA Hasil Lelang
     								</a>
@@ -633,7 +633,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="https://webdev-id.com/" target="_blank">
+    								<a href="https://webdev-id.com/" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/wdi.png" class="img-responsive center-block">
     									WDI
     								</a>
@@ -644,7 +644,7 @@
     							</div>
     							<div class="clearfix"></div>
                   <div class="col-sm-4">
-    								<a href="https://lifenesia.com" target="_blank">
+    								<a href="https://lifenesia.com" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/lifenesia.png" class="img-responsive center-block">
     									Lifenesia
     								</a>
@@ -654,7 +654,7 @@
     								</div>
     							</div>
     							<div class="col-sm-4">
-    								<a href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank">
+    								<a href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/jnto-campaign.png" class="img-responsive center-block">
     									JNTO Campaign Page
     								</a>
@@ -673,7 +673,7 @@
     							</div>
 							  <div class="clearfix"></div>
 							  <div class="col-sm-4">
-								<a href="https://www.60jpid.com/" target="_blank">
+								<a href="https://www.60jpid.com/" target="_blank" rel="noreferrer">
 								  <img src="/img/portfolio/60jpid.png" class="img-responsive center-block">
 								  60<sup>th</sup> Anniversary Japan-Indonesia
 								</a>
@@ -691,7 +691,7 @@
 								</div>
 							  </div>
 							  <div class="col-sm-4">
-								<a href="https://banzaihobby.com/" target="_blank">
+								<a href="https://banzaihobby.com/" target="_blank" rel="noreferrer">
 								  <img src="/img/portfolio/banzai-hobby.png" class="img-responsive center-block">
 								  Banzai Hobby
 								</a>
@@ -701,7 +701,7 @@
 								</div>
 							  </div>
 							  <!--<div class="col-sm-4">
-    								<a href="http://wkvetter.com" target="_blank">
+    								<a href="http://wkvetter.com" target="_blank" rel="noreferrer">
     									<img src="/img/portfolio/vetter.png" class="img-responsive center-block">
     									Vetter
     								</a>
@@ -712,7 +712,7 @@
     							</div>-->
 								<div class="clearfix"></div>
 								<div class="col-sm-4">
-									<a href="https://jjc.or.id/hojin/annai/" target="_blank">
+									<a href="https://jjc.or.id/hojin/annai/" target="_blank" rel="noreferrer">
 										<img src="/img/portfolio/jjc_hojin.png" class="img-responsive center-block">
 										JJC Hojin
 									</a>
@@ -722,7 +722,7 @@
 									</div>
 								</div>
 								<div class="col-sm-4">
-									<a href="https://jjc.or.id/kojin/tosho/" target="_blank">
+									<a href="https://jjc.or.id/kojin/tosho/" target="_blank" rel="noreferrer">
 										<img src="/img/portfolio/jjc_kojin.png" class="img-responsive center-block">
 										JJC Kojin
 									</a>
