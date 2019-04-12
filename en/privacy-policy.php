@@ -4,18 +4,25 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="">
-    <meta name="keywords" content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
-  	<meta name="author" content="PT. Logique Digital Indonesia">
+    <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia respects the privacy of its customers and the visitors and users of this website. We pay close attention to how Personal Information is used and shared, to maintain a long term service. Here’s our Privacy Policy.">
+    <meta name="keywords" content="logique privacy policy, web privacy">
+    <meta name="author" content="PT. Logique Digital Indonesia">
+    <meta property="og:title" content="Privacy Policy | Web Developer Jakarta | LOGIQUE Digital Indonesia">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Logique">
+    <meta property="og:url" content="https://www.logique.co.id/en/privacy-policy.php">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:description" content="LOGIQUE Digital Indonesia respects the privacy of its customers and the visitors and users of this website. We pay close attention to how Personal Information is used and shared, to maintain a long term service. Here’s our Privacy Policy.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-      <title>The best website developer / designer in Jakarta | LOGIQUE Digital Indonesia</title>
+      <title>Privacy Policy | Web Developer Jakarta | LOGIQUE Digital Indonesia</title>
 
       <!-- Bootstrap -->
       <link href="../css/bootstrap.min.css" rel="stylesheet">
 
       <link href="../css/style.css" rel="stylesheet">
       <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-  	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
     <style>
       .policy-subtitle {
         font-weight: 700;

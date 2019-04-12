@@ -191,7 +191,7 @@
 						<div class="title" style="font-weight:normal"><span class="yellow">LOGIQUE</span>の概要</div>
 						<div class="row">
 							<div class="col-sm-5">
-								<img src="/img/slider1.jpg" class="img-responsive center-block" style="border: 1px solid #ccc;height: 462px;object-fit: cover;object-position: -245px 0;"/><br/>
+								<img src="/img/slider1.jpg" alt="PT. Logique Digital Indonesia" class="img-responsive center-block" style="border: 1px solid #ccc;height: 462px;object-fit: cover;object-position: -245px 0;"/><br/>
 							</div>
 							<div class="col-sm-7">
 								会社名<br/>
@@ -211,7 +211,7 @@
 								<br/><br/>
 								TEL<br/>
 								<b>+62(21) 2270 8935 / 36</b><br>
-								<b><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" style="vertical-align: top; color: #333"> <img src="../img/whatsapp.png" width="16" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a></b>
+								<b><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" rel="noreferrer" style="vertical-align: top; color: #333"> <img src="../img/whatsapp.png" alt="WhatsApp" width="16" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a></b>
 								<br/><br/>
 								開発センター<br/>
 								<b>ジョグジャカルタ  ( Umbulharjo, Kota Yogyakarta )</b>
@@ -221,7 +221,7 @@
 					
 					<div class="title">代表者略歴＆メッセージ</div>
 					<div class="form-container">
-						<img src="/img/yoshi.jpg" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
+						<img src="/img/yoshi.jpg" alt="Takashi Yoshitsugu" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
 						<span style="font-size: 17px;">1976年東京生まれ。1999年に早稲田大学理工学部経営システム工学科を卒業。株式会社日本総合研究所やCRMコンサルティングファームなどを経て2005年よりEコマース事業、輸入商社、コンサルティング会社を起業。2012年よりインドネシアで会社運営。</span>
 						<br/><br/>
 						<div style="background: #ececec; padding: 15px 20px; border-top: 2px solid #ffca13">LOGIQUEという名前はlogika-kuというインドネシア語が由来となっています。自分たちのロジック、思いを大事に、芯をもって事を成していきたいと思っています。東南アジア×ITという非常に変化の激しい領域にいますが、一時のトレンドや短期的な利益に惑わされず、自分たち、関係いただく皆さまの幸福度を最大化していきたいと思います。
@@ -242,12 +242,12 @@
 							  <div class="row" >
 							  	<div class="col-sm-6">
 							  		<a href="services.php">
-							  			<img src="../img/service-banner-sm.png" alt="service banner" class="img-responsive">
+							  			<img src="../img/service-banner-sm.png" alt="Service banner" class="img-responsive">
 							  		</a>
 							  	</div>
 							  	<div class="col-sm-6">
 							  		<a href="product.php">
-							  			<img src="../img/product-banner-sm.png" alt="" class="img-responsive">
+							  			<img src="../img/product-banner-sm.png" alt="Product Banner" class="img-responsive">
 							  		</a>
 							  	</div>
 							  </div>
@@ -257,12 +257,12 @@
 							  <div class="row" >
 							  	<div class="col-sm-6">
 							  		<a href="joinus.php">
-							  			<img src="../img/job-banner-sm.png" alt="service banner" class="img-responsive">
+							  			<img src="../img/job-banner-sm.png" alt="Job banner" class="img-responsive">
 							  		</a>
 							  	</div>
 							  	<div class="col-sm-6">
 							  		<a href="portfolio.php">
-							  			<img src="../img/portfolio-banner-sm.png" alt="" class="img-responsive">
+							  			<img src="../img/portfolio-banner-sm.png" alt="Portfolio Banner" class="img-responsive">
 							  		</a>
 							  	</div>
 							  </div>

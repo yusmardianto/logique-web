@@ -189,7 +189,7 @@
             <div class="title title-30"><b>Company</b><span class="yellow">Overview</span></div>
             <div class="row">
               <div class="col-sm-5">
-                <img src="/img/slider1.jpg" class="img-responsive center-block" style="border: 1px solid #ccc;height: 462px;object-fit: cover;object-position: -245px 0;"/><br/>
+                <img src="/img/slider1.jpg" alt="PT. Logique Digital Indonesia" class="img-responsive center-block" style="border: 1px solid #ccc;height: 462px;object-fit: cover;object-position: -245px 0;"/><br/>
               </div>
               <div class="col-sm-7">
                 Company Name<br/>
@@ -209,7 +209,7 @@
                 <br/><br/>
                 Phone<br/>
                 <b>+62(21) 2270 8935 / 36</b><br>
-                <b><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" style="vertical-align: top; color: #333"> <img src="../img/whatsapp.png" width="16" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a></b>
+                <b><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" rel="noreferrer" style="vertical-align: top; color: #333"> <img src="../img/whatsapp.png" alt="WhatsApp" width="16" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a></b>
                 <br/><br/>
                 Development Center<br/>
                 <b>Yogyakarta ( Umbulharjo, Kota Yogyakarta )</b>
@@ -219,7 +219,7 @@
 
           <div class="title title-30"><b>Director’s</b><span class="yellow">Profile&amp;Message</span></div>
           <div class="form-container">
-            <img src="/img/yoshi.jpg" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
+            <img src="/img/yoshi.jpg" alt="Takashi Yoshitsugu" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
             Born in Tokyo, Japan, in 1976. In 1999, he graduated from Department of Management Science, Waseda University in Tokyo. He has a plenty of experiences starting at Japan Research Institute, Inc., CRM consulting firm, etc. Until 2005, he had founded his own e-commerce business, import trading company, and consulting firm in Japan. He founded and has been operating this company in Indonesia since 2012.
             <br/><br/>
             <div style="background: #ececec; padding: 15px 20px; border-top: 2px solid #ffca13">
@@ -243,12 +243,12 @@
                 <div class="row" >
                   <div class="col-sm-6">
                     <a href="/en/services.php">
-                      <img src="../img/service-banner-sm-en.png" alt="service banner" class="img-responsive">
+                      <img src="../img/service-banner-sm-en.png" alt="Service Banner" class="img-responsive">
                     </a>
                   </div>
                   <div class="col-sm-6">
                     <a href="/en/product.php">
-                      <img src="../img/product-banner-sm-en.png" alt="" class="img-responsive">
+                      <img src="../img/product-banner-sm-en.png" alt="Product Banner" class="img-responsive">
                     </a>
                   </div>
                 </div>
@@ -258,12 +258,12 @@
                 <div class="row" >
                   <div class="col-sm-6">
                     <a href="/en/joinus.php">
-                      <img src="../img/job-banner-sm-en.png" alt="service banner" class="img-responsive">
+                      <img src="../img/job-banner-sm-en.png" alt="Job Banner" class="img-responsive">
                     </a>
                   </div>
                   <div class="col-sm-6">
                     <a href="/en/portfolio.php">
-                      <img src="../img/portfolio-banner-sm-en.png" alt="" class="img-responsive">
+                      <img src="../img/portfolio-banner-sm-en.png" alt="Portfolio Banner" class="img-responsive">
                     </a>
                   </div>
                 </div>

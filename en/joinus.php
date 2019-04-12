@@ -93,7 +93,7 @@
 
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
-				<img id="bgvid" style="width:100%" src="/img/video-img.png"/>
+				<img id="bgvid" alt="Bg Video" style="width:100%" src="/img/video-img.png"/>
 			</div>
 
 			<div class="container-fluid">
@@ -121,7 +121,7 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title"><b>Join</b><span class="yellow">Us</span></div>
-					<iframe style="width:100%;height:380px" src="https://www.youtube-nocookie.com/embed/250FrYLHytM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe style="width:100%;height:380px" title="Logique Digital Indonesia - Career" src="https://www.youtube-nocookie.com/embed/250FrYLHytM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					<!--<img src="../img/career-main.png" class="img-in-joinus"/>-->
 					<div class="form-container">
 						<p>
@@ -244,7 +244,7 @@
 						We are always looking for candidates for the positions below. Feel free to contact us.<br/><br/><br/>
 						<center><span class="characteristic-title">Interview Process</span></center>
 						<br/>
-						<img src="../img/job-application-en.png" class="center-block img-responsive"/>
+						<img src="../img/job-application-en.png" alt="Job Application" class="center-block img-responsive"/>
 						<br/>
 						</p>
 						<br/>

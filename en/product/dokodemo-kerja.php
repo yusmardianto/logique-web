@@ -82,7 +82,7 @@ if(isset($_POST['submitted']))
 		<!-- End Google Tag Manager (noscript) -->
 		<header>
 			<div class="nav-lp">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
 					<span class="icon-bar third"></span> 
@@ -134,7 +134,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="https://www.logique.co.id/blog/" target="_blank">
+								<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 									<div class="img-blog"></div>
 									Blog
 								</a>
@@ -146,14 +146,14 @@ if(isset($_POST['submitted']))
 			<nav class="navbar navbar-default navbar-dokdem">
 				<div class="container">
 				  <div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 					  <span class="sr-only">Toggle navigation</span>
 					  <span class="icon-bar"></span>
 					  <span class="icon-bar"></span>
 					  <span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#">
-						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="" class="img-responsive center-block">
+					<a class="navbar-brand" href="#" aria-label="Dokodemo Kerja Logo">
+						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Dokodemo Kerja Logo" class="img-responsive center-block">
 					</a>
 					<div class="pull-left visible-xs">
 						<ul class="nav-lang">
@@ -172,7 +172,7 @@ if(isset($_POST['submitted']))
 					  <li><a href="#price" class="smooth li-mt">Price</a></li>　
 					  <li><a href="#divForm" class="smooth li-mt">Contact Me</a></li>
 					</ul>
-					<a class="logique-logo-link" href="/en/" target="_blank"><img class="pull-right img-responsive center-block logo-logique-header" src="img/dokodemo-kerja/logo_logique.png"/></a>
+					<a class="logique-logo-link" href="/en/" target="_blank" aria-label="Logique Logo"><img class="pull-right img-responsive center-block logo-logique-header" src="img/dokodemo-kerja/logo_logique.png" alt="Logo Logique" /></a>
 					<div class="pull-right btn-lang">	
 						<ul class="nav-lang hidden-xs">
 							<li class="pull-left"><a href="/produk/dokodemo-kerja.php">IND</a></li>
@@ -227,11 +227,11 @@ if(isset($_POST['submitted']))
 						<div class="poster-main screenshot-slide ">
 						  <div class="poster-btn poster-prev-btn"></div>
 						  <ul class="poster-list">
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss4.jpg"></li>
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss1.jpg"></li>
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss2.jpg"></li>
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss3.jpg"></li>
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss5.jpg"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss1.jpg" alt="Dokodemo Kerja"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss2.jpg" alt="Dokodemo Kerja"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss3.jpg" alt="Dokodemo Kerja"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss5.jpg" alt="Dokodemo Kerja"></li>
 						  </ul>
 						  <div class="poster-btn poster-next-btn"></div>
 						</div>
@@ -243,19 +243,19 @@ if(isset($_POST['submitted']))
 						  <!-- Wrapper for slides -->
 						  <div class="carousel-inner">
 							<div class="item active">
-							  <img src="/produk/img/dokodemo-kerja/ss4.jpg" class="img-responsive center-block">
+							  <img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
 							</div>
 							<div class="item">
-							  <img src="/produk/img/dokodemo-kerja/ss1.jpg" class="img-responsive center-block">
+							  <img src="/produk/img/dokodemo-kerja/ss1.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
 							</div>
 							<div class="item">
-							  <img src="/produk/img/dokodemo-kerja/ss2.jpg" class="img-responsive center-block">
+							  <img src="/produk/img/dokodemo-kerja/ss2.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
 							</div>
 							<div class="item">
-							  <img src="/produk/img/dokodemo-kerja/ss3.jpg" class="img-responsive center-block">
+							  <img src="/produk/img/dokodemo-kerja/ss3.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
 							</div>
 							<div class="item">
-							  <img src="/produk/img/dokodemo-kerja/ss5.jpg" class="img-responsive center-block">
+							  <img src="/produk/img/dokodemo-kerja/ss5.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
 							</div>
 						  </div>
 						  <!-- Left and right controls -->
@@ -275,14 +275,14 @@ if(isset($_POST['submitted']))
 		</div>
 
 		<div class="bg-yellow" id="fitur">
-			<img src="img/dokodemo-kerja/image-fitur.png" class="image-fitur img-responsive"/>
+			<img src="img/dokodemo-kerja/image-fitur.png" alt="Fitur" class="image-fitur img-responsive"/>
 			<div class="container-fluid">
 				<div class="bg-old-yellow">
 					<div class="row" style="margin:0">
 						<div class="col-md-6 col-md-offset-6">
 							<div class="bg-one-fitur">
 								<div class="one-fitur" style="margin-bottom: 0;">
-									<img src="img/dokodemo-kerja/fitur1.png" class="img-responsive"/>
+									<img src="img/dokodemo-kerja/fitur1.png" alt="Fitur" class="img-responsive"/>
 									Track time and monitor tasks.<br/>
 									Takes a screen capture of the employee's work activity on their computer screen in random times and directly sends it to the management team.
 								</div>
@@ -302,28 +302,28 @@ if(isset($_POST['submitted']))
 					<div class="col-md-6 one-fitur-btm">
 						<div class="bg-one-fitur visible-sm visible-xs">
 							<div class="one-fitur">
-								<img src="img/dokodemo-kerja/fitur1.png" class="img-responsive"/>
+								<img src="img/dokodemo-kerja/fitur1.png" alt="Fitur" class="img-responsive"/>
 								Melacak dan memantau tugas karyawan hanya dalam satu klik.<br/>
 								<strong>Dokodemo-Kerja</strong> mengambil cuplikan layar (screen capture) aktivitas kerja karyawan pada layar perangkat komputernya dalam waktu yang acak (random) dan mengirimnya pada tim manajemen (administrator).
 							</div>
 						</div>
 						<div class="bg-one-fitur">
 							<div class="one-fitur">
-								<img src="img/dokodemo-kerja/fitur2.png" class="img-responsive"/>
+								<img src="img/dokodemo-kerja/fitur2.png" alt="Fitur" class="img-responsive"/>
 								Get the accurate time reports<br/>
 								Accurately calculates the total working hours of employees, including break times, based on employee’s real work activities. All with just one easy click.
 							</div>
 						</div>
 						<div class="bg-one-fitur">
 							<div class="one-fitur">
-								<img src="img/dokodemo-kerja/fitur3.png" class="img-responsive"/>
+								<img src="img/dokodemo-kerja/fitur3.png" alt="Fitur" class="img-responsive"/>
 								Manage employees man-hours<br/>
 								Manages the total man-hours spent by employees to do a particular project, so companies are able to predict a proper deadline or target time that can be generally done by employees.
 							</div>
 						</div>
 						<div class="bg-one-fitur">
 							<div class="one-fitur">
-								<img src="img/dokodemo-kerja/fitur4.png" class="img-responsive"/>
+								<img src="img/dokodemo-kerja/fitur4.png" alt="Fitur" class="img-responsive"/>
 								All on one screen<br/>
 								Displays the total working hours of all employees in a single screen display, making it more efficient for the company to determine the performance of all employees transparently.
 							</div>
@@ -456,10 +456,10 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-5">
-						<a href="/pdf/manual-guide.pdf" target="_blank" class="dl-guide"><img src="/img/manual.png" style="width:100%"/></a>
+						<a href="/pdf/manual-guide.pdf" target="_blank" aria-label="Manual Guide" class="dl-guide"><img src="/img/manual.png" alt="Manual Guide" style="width:100%"/></a>
 					</div>
 					<div class="col-md-5">
-						<a href="/pdf/install-guide.pdf" target="_blank" class="dl-guide"><img src="/img/install.png" style="width:100%"/></a>
+						<a href="/pdf/install-guide.pdf" target="_blank" aria-label="Manual Guide" class="dl-guide"><img src="/img/install.png" alt="Install Guide" style="width:100%"/></a>
 					</div>
 				</div>
 			</div>
@@ -565,19 +565,19 @@ if(isset($_POST['submitted']))
 					<div class="row">
 						<div class="form-group">
 							<div class="col-md-offset-1 col-md-5">
-								<input type="text" class="form-control" name="name" placeholder="Name" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
+								<input type="text" class="form-control" name="name" aria-label="Name" placeholder="Name" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
 							</div>
 							<div class="col-md-5">
-								<input type="text" class="form-control" name="company" placeholder="Company" value='<?php echo $formproc->SafeDisplay('company') ?>'/>
+								<input type="text" class="form-control" name="company" aria-label="Company" placeholder="Company" value='<?php echo $formproc->SafeDisplay('company') ?>'/>
 							</div>
 							<div class="clearfix"></div>
 						</div>
 						<div class="form-group">
 							<div class="col-md-offset-1 col-md-5">
-								<input type="number" class="form-control" name="phone" placeholder="Phone Number" value='<?php echo $formproc->SafeDisplay('phone') ?>'/>
+								<input type="number" class="form-control" name="phone" aria-label="Phone" placeholder="Phone Number" value='<?php echo $formproc->SafeDisplay('phone') ?>'/>
 							</div>
 							<div class="col-md-5">
-								<input type="email" class="form-control" name="email" placeholder="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'/>
+								<input type="email" class="form-control" name="email" aria-label="Email" placeholder="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'/>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -607,7 +607,7 @@ if(isset($_POST['submitted']))
 								<br/>
 							</div>
 							<div class="col-md-5">
-								<textarea name="message" class="form-control" placeholder="Description"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+								<textarea name="message" class="form-control" aria-label="Message" placeholder="Description"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -888,7 +888,7 @@ if(isset($_POST['submitted']))
 						<br><br>
 						&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
 						<br>
-						<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
+						<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 						<br><br>
 						</div>
 					</div>
@@ -898,10 +898,10 @@ if(isset($_POST['submitted']))
 						</div>
 						<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
 						<ul class=" medsos-new" sty>
-							<li><a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
-							<li><a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-							<li><a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-							<li><a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+							<li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer" aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
+							<li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer" aria-label="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+							<li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer" aria-label="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+							<li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer" aria-label="LinkedIn"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
 						</ul>
 
 					</div>

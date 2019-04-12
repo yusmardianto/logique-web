@@ -131,7 +131,7 @@
 ほかに、採用企業と求職者の両者がより効率的な採用・求職活動ができるように、ITの力で、求職・採用プロセスの無駄を排除したクラウド採用管理ツールSugoiSaiyo、スタッフの日々の勤務状況・内容を管理しつつ管理会計に利用可能なデータの集計を行うための日報管理システム、Nippoも提供しております。いずれについてもお気軽にお問い合わせいただければ幸いです。</p>
 					</div>
 					<div class="img-container">
-						<img src="../img/product-page-banner.jpg" align="product page banner" class="img-responsive">
+						<img src="../img/product-page-banner.jpg" alt="Product page banner" class="img-responsive">
 					</div>
 					<div class="feel-free row-center-sm" style="font-size: 18px;">
 						<div class="col-sm-8">
