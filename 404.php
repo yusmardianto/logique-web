@@ -16,8 +16,6 @@
     <link href="/css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<link rel="dns-prefetch preconnect" href="https://www.gstatic.com" crossorigin>
-	<link rel="dns-prefetch preconnect" href="https://www.google-analytics.com" crossorigin>
     </head>
 	<body>
 		<div class="wrapper">

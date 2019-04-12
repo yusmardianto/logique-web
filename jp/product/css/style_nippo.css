@@ -333,6 +333,9 @@ span, p {cursor: default;}
   color: #000000;
   cursor: default;
 }
+.-Bagaimana-cara-ke h3 {
+  margin: 0;
+}
 .Nippo-merupakan-sist {
   font-family: Avenir;
   font-size: 18px;
@@ -346,7 +349,6 @@ span, p {cursor: default;}
   padding-bottom: 1em;
   padding-top: 10px;
 }
-
 
 .Rectangle-8 {
   width: 100%;

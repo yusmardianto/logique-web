@@ -93,7 +93,7 @@
 			
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
-				<img id="bgvid" style="width:100%" src="/img/video-img.png"/>
+				<img id="bgvid" alt="Bg Video" style="width:100%" src="/img/video-img.png"/>
 			</div>
 			
 			<div class="container-fluid">
@@ -121,7 +121,7 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title" style="font-size: 28px;"><b>営業パートナー／インターン採用について</b></div>
-					<iframe style="width:100%;height:380px" src="https://www.youtube-nocookie.com/embed/250FrYLHytM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe style="width:100%;height:380px" title="Logique Digital Indonesia - Career" src="https://www.youtube-nocookie.com/embed/250FrYLHytM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					<!--<img src="../img/career-main.png" class="img-in-joinus"/>-->
 					<div class="form-container">
 						<p style="padding-top: 5px;">
@@ -412,7 +412,7 @@
 						VISAの問題をクリアできれば短期から長期まで柔軟に受入可能です。<br/><br/><br/>
 						<center><span class="characteristic-title">選考プロセスは</span></center>
 						<br/>
-						<img src="../img/job-application-jp.png" class="center-block img-responsive"/>
+						<img src="../img/job-application-jp.png" alt="Job Application" class="center-block img-responsive"/>
 						<br/>
 						</p>
 						<br/>
@@ -694,7 +694,7 @@
 							<a href="contact.php" class="btn btn-contact-us-black custom-btn-contact" >
 								こちらからご連絡お待ちしています
 							</a>
-							<a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank"  class="btn btn-contact-us-black custom-btn-contact" > <img src="../img/whatsapp.png" width="20" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a>
+							<a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" rel="noreferrer" target="_blank"  class="btn btn-contact-us-black custom-btn-contact" > <img src="../img/whatsapp.png" alt="WhatsApp" width="20" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a>
 						</div>
 					</div>
 				</div>

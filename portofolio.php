@@ -744,7 +744,7 @@
 							<div class="row">
 								<div class="col-sm-4">
                   <div class="img-thumbnail">
-                    <img src="/img/logo-jba.jpg" class="img-responsive center-block"  >
+                    <img src="/img/logo-jba.jpg" alt="JBA" class="img-responsive center-block"  >
                   </div>
                   <h3>JBA</h3>
                   <div class="addition-desc text-left">
@@ -755,7 +755,7 @@
 
                 <div class="col-sm-4">
                   <div class="img-thumbnail">
-                    <img src="/img/logo-sinarmasland.jpg" class="img-responsive center-block"  >
+                    <img src="/img/logo-sinarmasland.jpg" alt="PT. Sinarmas Land" class="img-responsive center-block"  >
                   </div>
                   <h3>PT. Sinarmas Land</h3>
                   <div class="addition-desc text-left">
@@ -766,7 +766,7 @@
 
                 <div class="col-sm-4">
                   <div class="img-thumbnail">
-                    <img src="/img/logo-zuttoride.jpg" class="img-responsive center-block"  >
+                    <img src="/img/logo-zuttoride.jpg" alt="Zuttoride Indonesia" class="img-responsive center-block"  >
                   </div>
                   <h3>Zuttoride Indonesia</h3>
                   <div class="addition-desc text-left">
@@ -1067,48 +1067,48 @@
 								<div class="col-sm-4">
 									<div class="mobile-app-container">
 										<div class="m-app-item">
-											<img src="/img/portfolio/apps-nlec.jpg" class="img-responsive center-block">
+											<img src="/img/portfolio/apps-nlec.jpg" alt="NLEC Nihongo E-Learning PWA" class="img-responsive center-block">
 										</div>
 									</div>								
 									NLEC Nihongo E-Learning PWA
 								</div>
 								<div class="col-sm-4">
 									<div class="mobile-app-container">
-										<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect1.jpg" class="img-responsive center-block"></div>
-										<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect2.jpg" class="img-responsive center-block"></div>
-										<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect3.jpg" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect1.jpg" alt="JBA Indonesia -  Bike and Car Inspection App" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect2.jpg" alt="JBA Indonesia -  Bike and Car Inspection App" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect3.jpg" alt="JBA Indonesia -  Bike and Car Inspection App" class="img-responsive center-block"></div>
 									</div>
 									JBA Indonesia -  Bike and Car Inspection App
 								</div>
 								<div class="col-sm-4">
 									<div class="mobile-app-container">
-										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding.jpg" class="img-responsive center-block"></div>
-										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding2.jpg" class="img-responsive center-block"></div>
-										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding3.jpg" class="img-responsive center-block"></div>
-										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding4.jpg" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding.jpg"  alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding2.jpg" alt="JBA Indonesia Auction Bidding App"  class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding3.jpg" alt="JBA Indonesia Auction Bidding App"  class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding4.jpg" alt="JBA Indonesia Auction Bidding App"  class="img-responsive center-block"></div>
 									</div>
 									JBA Indonesia Auction Bidding App
 								</div>
 								<div class="clearfix"></div>
 								<div class="col-sm-4">
 									<div class="mobile-app-container">
-										<div class="m-app-item"><img src="/img/portfolio/apps-oto-1.jpg" class="img-responsive center-block"></div>
-										<div class="m-app-item"><img src="/img/portfolio/apps-oto-2.jpg" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-oto-1.jpg" alt="Otomart -  Dealer Car App" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-oto-2.jpg" alt="Otomart -  Dealer Car App" class="img-responsive center-block"></div>
 									</div>
 									Otomart -  Dealer Car App
 								</div>
 								<div class="col-sm-4">
 									<div class="mobile-app-container">
-										<div class="m-app-item"><img src="/img/portfolio/apps-frangipani-1.jpg" class="img-responsive center-block"></div>
-										<div class="m-app-item"><img src="/img/portfolio/apps-frangipani-2.jpg" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-frangipani-1.jpg" alt="Frangipani Guest Comment Management App" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-frangipani-2.jpg" alt="Frangipani Guest Comment Management App" class="img-responsive center-block"></div>
 									</div>
 									Frangipani Esthetics (Android) Guest Comment Management App
 								</div>
 								<div class="col-sm-4">
 									<div class="mobile-app-container">
-										<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-1.jpg" class="img-responsive center-block"></div>
-										<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-2.jpg" class="img-responsive center-block"></div>
-										<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-3.jpg" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-1.jpg" alt="VIP Plaza PWA" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-2.jpg" alt="VIP Plaza PWA" class="img-responsive center-block"></div>
+										<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-3.jpg" alt="VIP Plaza PWA" class="img-responsive center-block"></div>
 									</div>					
 									VIP Plaza PWA
 								</div>
@@ -1119,21 +1119,21 @@
 							<span class="characteristic-title">Digital Marketing</span>
 							<div class="row text-center">
 								<div class="col-sm-4">
-									<img src="/img/portfolio/opus-park-facebook.png" class="img-responsive center-block">
+									<img src="/img/portfolio/opus-park-facebook.png" alt="Opus Park (Facebook)" class="img-responsive center-block">
 									Opus Park (Facebook)
 									<div class="addition-desc text-center">
 										<small class="text-muted">(Google Ads, FB/IG Ads, SNS Operation, SEO Website)</small>
 									</div>
 								</div>
 								<div class="col-sm-4">
-									<img src="/img/portfolio/mason-de-res.jpg" class="img-responsive center-block">
+									<img src="/img/portfolio/mason-de-res.jpg" alt="Mason de Res - (Facebook)" class="img-responsive center-block">
 									Mason de Res - (Facebook)
                   <div class="addition-desc text-center">
 										<small class="text-muted">(Google Ads, SNS Operation, SEO Website, Articles)</small>
 									</div>
 								</div>
 								<div class="col-sm-4">
-  								<img src="/img/portfolio/ajapan-sosmed.png" class="img-responsive center-block">
+  								<img src="/img/portfolio/ajapan-sosmed.png" alt="Ajapan Dance Instagram Competition - Waku Waku Japan" class="img-responsive center-block">
   								Ajapan Dance Instagram Competition - Waku Waku Japan
                   <div class="addition-desc text-center">
 										<small class="text-muted">(IG Ads, SNS Operation)</small>
@@ -1147,103 +1147,103 @@
 							<div class="slider-other-client-container">
 								<div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/video-mysunlife.jpg" class="img-responsive center-block">
+                    <img src="/img/portfolio/video-mysunlife.jpg" alt="Pembuatan Video 2D (SunLife)" class="img-responsive center-block">
                   </div>
                   Pembuatan Video 2D (SunLife)
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/video-mysunlife2.jpg" class="img-responsive center-block">
+                    <img src="/img/portfolio/video-mysunlife2.jpg" alt="Pembuatan Video 2D (SunLife)" class="img-responsive center-block">
                   </div>
                   Pembuatan Video 2D (SunLife)
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/video-otomart.jpg" class="img-responsive center-block">
+                    <img src="/img/portfolio/video-otomart.jpg" alt="Pembuatan Video 2D (OTOmart)" class="img-responsive center-block">
                   </div>
                   Pembuatan Video 2D (OTOmart)
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/video-otomart2.jpg" class="img-responsive center-block">
+                    <img src="/img/portfolio/video-otomart2.jpg" alt="Pembuatan Video 2D (OTOmart)" class="img-responsive center-block">
                   </div>
                   Pembuatan Video 2D (OTOmart)
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/mufg-mockup.png" class="img-responsive center-block">
+                    <img src="/img/portfolio/mufg-mockup.png" alt="Percetakan" class="img-responsive center-block">
                   </div>
                   Percetakan
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/onitsuka-mockup.jpg" class="img-responsive center-block">
+                    <img src="/img/portfolio/onitsuka-mockup.jpg" alt="Percetakan" class="img-responsive center-block">
                   </div>
                   Percetakan
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/maison-news.png" class="img-responsive center-block">
+                    <img src="/img/portfolio/maison-news.png" alt="Pembuatan Konten" class="img-responsive center-block">
                   </div>
                   Pembuatan Konten
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/insta-vid.png" class="img-responsive center-block insta-vid">
+                    <img src="/img/portfolio/insta-vid.png" alt="Kontes pengiriman video Instagram" class="img-responsive center-block insta-vid">
                   </div>
                   Kontes pengiriman video Instagram
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/frangipani-photoshot.png" class="img-responsive center-block insta-vid">
+                    <img src="/img/portfolio/frangipani-photoshot.png" alt="Pengambilan foto Frangipani" class="img-responsive center-block insta-vid">
                   </div>
                   Pengambilan foto Frangipani
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/drone1.png" class="img-responsive center-block">
+                    <img src="/img/portfolio/drone1.png" alt="Pengambilan foto / video menggunakan drone (Partner)" class="img-responsive center-block">
                   </div>
                   Pengambilan foto / video menggunakan drone (Partner)
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/drone2.png" class="img-responsive center-block">
+                    <img src="/img/portfolio/drone2.png" alt="Pengambilan foto / video menggunakan drone (Partner)" class="img-responsive center-block">
                   </div>
                   Pengambilan foto / video menggunakan drone (Partner)
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/sunlife-flyer.jpg" class="img-responsive center-block">
+                    <img src="/img/portfolio/sunlife-flyer.jpg" alt="Flyer atau pamflet" class="img-responsive center-block">
                   </div>
                   Flyer atau pamflet
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/sunlife-banner.jpg" class="img-responsive center-block">
+                    <img src="/img/portfolio/sunlife-banner.jpg" alt="Roll Up Banner" class="img-responsive center-block">
                   </div>
                   Roll Up Banner
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/sunlife-polo-shirt.jpg" class="img-responsive center-block">
+                    <img src="/img/portfolio/sunlife-polo-shirt.jpg" alt="Kaos Polo" class="img-responsive center-block">
                   </div>
                   Kaos Polo
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/Eria.jpg" class="img-responsive center-block">
+                    <img src="/img/portfolio/Eria.jpg" alt="ERIA" class="img-responsive center-block">
                   </div>
                   ERIA
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/bumbu-warasa-1.jpg" class="img-responsive center-block">
+                    <img src="/img/portfolio/bumbu-warasa-1.jpg" alt="Desain produk (Ikeda Toka)" class="img-responsive center-block">
                   </div>
                   Desain produk (Ikeda Toka)
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/minum-warasa-1.jpg" class="same-height img-responsive center-block">
+                    <img src="/img/portfolio/minum-warasa-1.jpg" alt="Desain produk (Ikeda Toka)" class="same-height img-responsive center-block">
                   </div>
                   Desain produk (Ikeda Toka)
                 </div>
@@ -1256,25 +1256,25 @@
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/caroline-1.jpg" class="img-responsive center-block" style="height: 224px">
+                    <img src="/img/portfolio/caroline-1.jpg" alt="Pamflet Caroline" class="img-responsive center-block" style="height: 224px">
                   </div>
                   Pamflet Caroline
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/sunlife-book.jpg" class="img-responsive center-block" style="height: 224px">
+                    <img src="/img/portfolio/sunlife-book.jpg" alt="Notebook SunLife" class="img-responsive center-block" style="height: 224px">
                   </div>
                   Notebook SunLife
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/sunlife-book2.jpg" class="img-responsive center-block" style="height: 224px">
+                    <img src="/img/portfolio/sunlife-book2.jpg" alt="Notebook SunLife" class="img-responsive center-block" style="height: 224px">
                   </div>
                   Notebook SunLife
                 </div>
                 <div class="other-client-item">
                   <div class="img-thumb">
-                    <img src="/img/portfolio/60jpid_catalog.png" class="img-responsive center-block" style="height: 224px">
+                    <img src="/img/portfolio/60jpid_catalog.png" alt="Katalog Peringatan 60th jpid" class="img-responsive center-block" style="height: 224px">
                   </div>
                   Katalog Peringatan 60 Tahun / katalog 60th Anniversary
                 </div>

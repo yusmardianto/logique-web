@@ -333,7 +333,11 @@ span, p {cursor: default;}
   color: #000000;
   cursor: default;
 }
-.Nippo-merupakan-sist {  
+.-Bagaimana-cara-ke h3 {
+  margin: 0;
+}
+.Nippo-merupakan-sist {
+  font-family: 'Raleway', 'sans-serif';
   font-size: 15px;
   font-weight: normal;
   font-style: normal;

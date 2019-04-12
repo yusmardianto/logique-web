@@ -127,7 +127,7 @@
             </p>
           </div>
           <div class="img-container">
-						<img src="../img/product-page-banner.jpg" align="product page banner" class="img-responsive">
+						<img src="../img/product-page-banner.jpg" alt="product page banner" class="img-responsive">
 					</div>
           <div class="feel-free row-center-sm" style="font-size: 18px;">
 						<div class="col-sm-8">

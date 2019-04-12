@@ -34,7 +34,7 @@ if(isset($_POST['submitted']))
  }
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -143,22 +143,22 @@ if(isset($_POST['submitted']))
   <div class="container">
   <div class="col-md-12 text-center" style="padding: 45px 0">
   <span class="Kenapa-Harus-Menggun">Manfaat Menggunakan Nippo</span><br>
-  <img src="img/nippo/LogoNippo-kecil.png" style="padding: 10px">
+  <img src="img/nippo/LogoNippo-kecil.png" alt="Logo Nippo" style="padding: 10px">
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-1.png" width="204px" height="206px">
+    <img src="img/nippo/kenapa-1.png" alt="Manfaat Nippo" width="204px" height="206px">
     <div class="Dapat-diakses-melalu">Dapat diakses melalui desktop maupun mobile secara responsif</div>
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-2.png" width="204px" height="206px">
+    <img src="img/nippo/kenapa-2.png" alt="Manfaat Nippo" width="204px" height="206px">
     <div class="Dapat-diakses-melalu">Memiliki user-interface yang sederhana sehingga mudah untuk dipahami</div>
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-3.png" width="204px" height="206px">
+    <img src="img/nippo/kenapa-3.png" alt="Manfaat Nippo" width="204px" height="206px">
     <div class="Dapat-diakses-melalu">Membantu manajer dalam menentukan performa/kinerja para staf</div>
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-4.png" width="204px" height="206px">
+    <img src="img/nippo/kenapa-4.png" alt="Manfaat Nippo" width="204px" height="206px">
     <div class="Dapat-diakses-melalu">Anda dapat mengetahui pengeluaran projek berdasarkan jam kerja serta mengalkulasikan total jam
 kerja pengerjaan suatu projek.</div>
   </div>
@@ -174,20 +174,20 @@ kerja pengerjaan suatu projek.</div>
   <div class="col-md-12" style=" padding-top: 7em; ">
     <div class="col-md-6 text-right">
       <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Sulit untuk mengkalkulasikan total jam pengerjaan suatu projek</span></div>
-      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
+      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Masalah perusahaan" width="77px" height="77px"></div>
     </div>
     <div class="col-md-6 text-left">
-      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
+      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Masalah perusahaan" width="77px" height="77px"></div>
       <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Evaluasi kinerja seluruh karyawan yang menghabiskan cukup banyak waktu</span></div>
     </div>
   </div>
   <div class="col-md-12" style=" padding-top: 2em; ">
     <div class="col-md-6 text-right">
       <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Sulit untuk memantau manajemen kerja karyawan dan perkembangan projek</span></div>
-      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
+      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Masalah perusahaan" width="77px" height="77px"></div>
     </div>
     <div class="col-md-6 text-left">
-      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
+      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Masalah perusahaan" width="77px" height="77px"></div>
       <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Laporan pekerjaan harian yang dibuat karyawan tidak spesifik dan kurang jelas</span></div>
     </div>
   </div>
@@ -233,14 +233,14 @@ kerja pengerjaan suatu projek.</div>
   <div class="row row-fix-3">
     <div class="col-md-offset-2 col-md-8 text-center">
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-1.png">
+          <img src="img/nippo/fitur-1.png" alt="Fitur">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Manajemen Karyawan</p>
           <p class="NIPPO-system-menyedi">Perusahaan dapat membuat serta menambahkan informasi secara lengkap mengenai organisasi atau perusahaan. Dengan menggunakan Nippo, Anda dapat membuat informasi mengenai karyawan, supervisor, administrator, dan lain lain.</p>
       </div>
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-4.png">
+          <img src="img/nippo/fitur-4.png" alt="Fitur">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan" style="font-size: 17px">Pengeluaran Projek Berdasarkan Jam Kerja</p>
@@ -251,14 +251,14 @@ kerja pengerjaan suatu projek.</div>
   <div class="row row-fix-3">
     <div class="col-md-offset-2 col-md-8 text-center">
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-2.png">
+          <img src="img/nippo/fitur-2.png" alt="Fitur">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Tag Person</p>
           <p class="NIPPO-system-menyedi">Karyawan dapat menambahkan karyawan lain dalam laporan harian kerjanya jika mereka bekerja bersama melalui fitur Tag Person. Dengan begitu, perusahaan dapat mengetahui apabila terdapat pengisian laporan kerja yang cukup berbeda oleh kedua karyawan tersebut dengan membandingkan kedua laporan kerja mereka.</p>
       </div>
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-3.png">
+          <img src="img/nippo/fitur-3.png" alt="Fitur">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Evaluasi Karyawan</p>
@@ -269,14 +269,14 @@ kerja pengerjaan suatu projek.</div>
   <div class="row row-fix-3">
     <div class="col-md-offset-2 col-md-8 text-center">
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-5.png">
+          <img src="img/nippo/fitur-5.png" alt="Fitur">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Project Management</p>
           <p class="NIPPO-system-menyedi">Perusahaan dapat menambahkan batas waktu pekerjaan berdasarkan hari dan jumlah jam kerja melalui fitur Project Master. Selain itu, perusahaan dapat menambahkan informasi projek, serta tipe dan spefikasi pekerjaan melalui fitur ini.</p>
       </div>
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-6.png">
+          <img src="img/nippo/fitur-6.png" alt="Fitur">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Comment Management</p>
@@ -338,30 +338,45 @@ kerja pengerjaan suatu projek.</div>
       <div class="Rectangle-2-Copy-4">
         <span class="Pertanyaan-Yang-Seri">Pertanyaan Yang Sering Diajukan</span>
       </div>
-      <img src="img/nippo/question.png" class="question">
+      <img src="img/nippo/question.png" alt="Pertanyaan" class="question">
     </div>
   </div>
 
   <div class="row row-fix-2">
     <div class="col-md-offset-1 col-md-10">
     <ol>
-      <li class="-Bagaimana-cara-ke">Bagaimana cara kerja Nippo?</li>
-      <p class="Nippo-merupakan-sist">Nippo merupakan sistem yang dibuat untuk mempermudah karyawan dalam melakukan laporan manajemen kerja harian. Selain itu, sistem ini juga dibuat untuk membantu manajerial dalam memantau <b>manajemen kinerja</b> harian karyawan.</p>
-      <li class="-Bagaimana-cara-ke">Bagaimana Nippo dapat membantu manager dan staf HR?</li>
-      <p class="Nippo-merupakan-sist">Dengan fitur-fitur yang ada pada Nippo, manajer atau supervisor dapat memantau manajemen kinerja dan produktivitas harian karyawan</p>
-      <li class="-Bagaimana-cara-ke">Sepertinya saya akan membutuhkan panduan yang lebih jelas dalam menggunakan  Nippo.  Apa saya akan mendapatkannya?</li>
-      <p class="Nippo-merupakan-sist">Jangan khawatir. Kami menyediakan panduan penggunaannya untuk Anda. Jika Anda masih menemukan kesulitan, Anda bisa langsung menghubungi kami.</p>
-      <li class="-Bagaimana-cara-ke">Kami tertarik menggunakan Nippo untuk perusahaan kami. Bagaimana kami bisa mendapatkannya?</li>
-      <p class="Nippo-merupakan-sist">Anda bisa langsung menghubungi kami melalui salah satu kontak yang kami sediakan. Kami siap melayani Anda dengan senang hati.</p>
-      <li class="-Bagaimana-cara-ke">Apa perbedaan laman kelola untuk staf dengan manajerial?</li>
-      <p class="Nippo-merupakan-sist">Pada halaman manajerial terdapat fungsi evaluasi sehingga manajer dapat memberikan skor evaluasi kepada stafnya. Sedangkan untuk halaman staf hanya terdapat fungsi laporan harian saja.</p>
-      <li class="-Bagaimana-cara-ke">Apakah Nippo bisa diakses oleh browser apa pun?</li>
-      <p class="Nippo-merupakan-sist">Ya, Nippo dapat diakses menggunakan browser apapun, termasuk oleh browser di perangkat seluler. Jika Anda mengalami masalah dan membutuhkan bantuan, jangan ragu untuk menghubungi Kami.</p>
-      <li class="-Bagaimana-cara-ke">Apakah Nippo hanya diperuntukkan bagi perusahaan jenis tertentu?</li>
-      <p class="Nippo-merupakan-sist">Tidak. Nippo dirancang untuk memenuhi kebutuhan dari jenis perusahaan apa pun.</p>
-      <li class="-Bagaimana-cara-ke">Apakah Nippo dapat diakses dari telepon seluler?</li>
-      <p class="Nippo-merupakan-sist">Ya, Nippo dapat berfungsi dengan baik pada platform mobile.</p>
-      <br>
+      <li class="-Bagaimana-cara-ke">
+        <h3>Bagaimana cara kerja Nippo?</h3>
+        <p class="Nippo-merupakan-sist">Nippo merupakan sistem yang dibuat untuk mempermudah karyawan dalam melakukan laporan manajemen kerja harian. Selain itu, sistem ini juga dibuat untuk membantu manajerial dalam memantau <b>manajemen kinerja</b> harian karyawan.</p>
+      </li>
+      <li class="-Bagaimana-cara-ke">
+        <h3>Bagaimana Nippo dapat membantu manager dan staf HR?</h3>
+        <p class="Nippo-merupakan-sist">Dengan fitur-fitur yang ada pada Nippo, manajer atau supervisor dapat memantau manajemen kinerja dan produktivitas harian karyawan</p>
+      </li>
+      <li class="-Bagaimana-cara-ke">
+        <h3>Sepertinya saya akan membutuhkan panduan yang lebih jelas dalam menggunakan  Nippo.  Apa saya akan mendapatkannya?</h3>
+        <p class="Nippo-merupakan-sist">Jangan khawatir. Kami menyediakan panduan penggunaannya untuk Anda. Jika Anda masih menemukan kesulitan, Anda bisa langsung menghubungi kami.</p>
+      </li>
+      <li class="-Bagaimana-cara-ke">
+        <h3>Kami tertarik menggunakan Nippo untuk perusahaan kami. Bagaimana kami bisa mendapatkannya?</h3>
+        <p class="Nippo-merupakan-sist">Anda bisa langsung menghubungi kami melalui salah satu kontak yang kami sediakan. Kami siap melayani Anda dengan senang hati.</p>
+      </li>
+      <li class="-Bagaimana-cara-ke">
+        <h3>Apa perbedaan laman kelola untuk staf dengan manajerial?</h3>
+        <p class="Nippo-merupakan-sist">Pada halaman manajerial terdapat fungsi evaluasi sehingga manajer dapat memberikan skor evaluasi kepada stafnya. Sedangkan untuk halaman staf hanya terdapat fungsi laporan harian saja.</p>
+      </li> 
+      <li class="-Bagaimana-cara-ke">
+        <h3>Apakah Nippo bisa diakses oleh browser apa pun?</h3>
+        <p class="Nippo-merupakan-sist">Ya, Nippo dapat diakses menggunakan browser apapun, termasuk oleh browser di perangkat seluler. Jika Anda mengalami masalah dan membutuhkan bantuan, jangan ragu untuk menghubungi Kami.</p>
+      </li>
+      <li class="-Bagaimana-cara-ke">
+        <h3>Apakah Nippo hanya diperuntukkan bagi perusahaan jenis tertentu?</h3>
+        <p class="Nippo-merupakan-sist">Tidak. Nippo dirancang untuk memenuhi kebutuhan dari jenis perusahaan apa pun.</p>
+      </li>
+      <li class="-Bagaimana-cara-ke">
+        <h3>Apakah Nippo dapat diakses dari telepon seluler?</h3>
+        <p class="Nippo-merupakan-sist">Ya, Nippo dapat berfungsi dengan baik pada platform mobile.</p>
+      </li>
     </ol>
     </div>
   </div>
@@ -386,23 +401,23 @@ kerja pengerjaan suatu projek.</div>
       <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
       <div class="row">
           <div class="col-sm-6 form-group">
-            <input type="text" class="form-control Rectangle-9" name="name" placeholder="NAMA" value='<?php echo $formproc->SafeDisplay('name') ?>' >
+            <input type="text" class="form-control Rectangle-9" name="name" aria-label="Name" placeholder="NAMA" value='<?php echo $formproc->SafeDisplay('name') ?>' >
           </div>
           <div class="col-sm-6 form-group">
-            <input type="text" class="form-control Rectangle-9" name="company" placeholder="NAMA PERUSAHAAN" value='<?php echo $formproc->SafeDisplay('company') ?>' >
+            <input type="text" class="form-control Rectangle-9" name="company" aria-label="Company" placeholder="NAMA PERUSAHAAN" value='<?php echo $formproc->SafeDisplay('company') ?>' >
           </div>
       </div>
       <div class="row">
           <div class="col-sm-6 form-group">
-            <input type="email" class="form-control Rectangle-9" name="email" placeholder="EMAIL" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+            <input type="email" class="form-control Rectangle-9" name="email" aria-label="Email" placeholder="EMAIL" value='<?php echo $formproc->SafeDisplay('email') ?>'>
           </div>
           <div class="col-sm-6 form-group">
-            <input type="number" class="form-control Rectangle-9" name="phone" placeholder="NO HP / TELEPON" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
+            <input type="number" class="form-control Rectangle-9" name="phone" aria-label="Phone" placeholder="NO HP / TELEPON" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
           </div>
       </div>
       <div class="row">
           <div class="col-sm-12 form-group">
-            <textarea class="form-control Rectangle-9" name="message" rows="8" placeholder="PESAN" style="width: 100%;padding:  1em;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+            <textarea class="form-control Rectangle-9" name="message" aria-label="Message" rows="8" placeholder="PESAN" style="width: 100%;padding:  1em;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
           </div>
       </div>
 
@@ -426,7 +441,7 @@ kerja pengerjaan suatu projek.</div>
   <div class="row" style="margin: 0">
     <div class="col-md-12 text-center">
       <div class="col-md-12">
-        <img src="img/nippo/logo-nippo-footer.png" style="padding-top: 49.2px">
+        <img src="img/nippo/logo-nippo-footer.png" alt="Logo Nippo Footer" style="padding-top: 49.2px">
         <p class="Nippo-adalah-aplikas2">Nippo adalah aplikasi berbasis web yang dapat membantu para manajer dalam memantau produktivitas kerja stafnya. Aplikasi ini merupakan solusi tepat bagi perusahaan untuk mengetahui kinerja karyawan secara detail.</p>
       </div>
     </div>
@@ -442,15 +457,15 @@ kerja pengerjaan suatu projek.</div>
   </div>
   <div class="row text-center" style="margin: 0">
     <div class="col-md-4" style="margin-top: 3em">
-      <img src="img/nippo/placeholder.png">
+      <img src="img/nippo/placeholder.png" alt="Location">
       <p class="Nippo-adalah-aplikas2">Ad Premier Building 19th Floor Jalan Tb. Simatupang No. 5 Ragunan, Ps. Minggu, Jakarta Selatan, Indonesia 12550</p>
     </div>
     <div class="col-md-4" style="margin-top: 3em">
-      <img src="img/nippo/email.png">
+      <img src="img/nippo/email.png" alt="Email">
       <p class="Nippo-adalah-aplikas2">info@logique.co.id</p>
     </div>
     <div class="col-md-4" style="margin-top: 3em">
-      <img src="img/nippo/phone-call.png">
+      <img src="img/nippo/phone-call.png" alt="Phone Number">
       <p class="Nippo-adalah-aplikas2">+62(21) 2270 8935 / 36</p>
     </div>
   </div>
@@ -461,7 +476,7 @@ kerja pengerjaan suatu projek.</div>
   <div class="container">
   <div class="row text-center" style="margin: 0;padding-top: 1em">
     <div class="col-md-12">
-      <a href="https://www.logique.co.id/" target="_blank"><img src="img/nippo/logo-Logique.png" class="FA-Logique"></a>
+      <a href="https://www.logique.co.id/" target="_blank" rel="noreferrer" aria-label="Logo Logique"><img src="img/nippo/logo-Logique.png" alt="Logo Logique" class="FA-Logique"></a>
     </div>
   </div>
   </div>
