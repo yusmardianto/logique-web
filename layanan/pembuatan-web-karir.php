@@ -111,7 +111,7 @@ ga('send', 'pageview');
 								<h2 style="padding-top: 15px;">Kami siap memberikan solusi sesuai keinginan Anda!</h2>
 							</div>
 							<div class="col-sm-4 text-right">
-								 <a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"" target="_blank"><img class="logo-logique img-responsive" src="assets/img/img-recruitment-website/logo-y-logique.png" alt="" style="float: right; margin-top:10px;"></a>
+								 <a href="/hubungi-kami.php" target="_blank" aria-label="Contact Us" rel="noreferrer"><img class="logo-logique img-responsive" src="assets/img/img-recruitment-website/logo-y-logique.png" alt="" style="float: right; margin-top:10px;"></a>
 							</div>
 						</div>
 					</div>
@@ -125,15 +125,15 @@ ga('send', 'pageview');
 								 <div class="row">
 								 	
 								 	<div class="col-sm-4">
-								 		<img src="assets/img/img-recruitment-website/img-problem2.png" class="img-responsive" >
+								 		<img src="assets/img/img-recruitment-website/img-problem2.png" alt="Masalah HRD" class="img-responsive" >
 								 		<div>Menggunakan layanan situs pencari kerja namun hasilnya tidak menentu, terkadang jumlah pencari kerja banyak, tapi kualitasnya tidak bagus atau sebaliknya.</div>
 								 	</div>
 								 	<div class="col-sm-4">
-								 		<img src="assets/img/img-recruitment-website/img-problem3.png" class="img-responsive">
+								 		<img src="assets/img/img-recruitment-website/img-problem3.png" alt="Masalah HRD" class="img-responsive">
 								 		<div>Menggunakan jasa agen penyalur tenaga kerja, tapi harganya sangat mahal dan terkadang kualitas karyawan tidak bagus.</div>
 								 	</div>
 								 	<div class="col-sm-4">
-								 		<center><img src="assets/img/img-recruitment-website/img-problem1.png" class="img-responsive"  ></center>
+								 		<center><img src="assets/img/img-recruitment-website/img-problem1.png" alt="Masalah HRD" class="img-responsive"  ></center>
 								 		<div>Tidak mempunyai media untuk memberikan informasi kepada para pelamar kerja tentang informasi rekrutmen sehingga antara efektivitas waktu dan biaya tidak seimbang.</div>
 								 	</div>
 								 </div>
@@ -170,7 +170,7 @@ ga('send', 'pageview');
 				</div>
 			</section>
 			<section class="simulation-container">
-				<img src="assets/img/img-recruitment-website/img-simulation2.png" class="img-responsive " style="width: 100%;">
+				<img src="assets/img/img-recruitment-website/img-simulation2.png" alt="Simulasi Biaya" class="img-responsive " style="width: 100%;">
 				<div class="container">
 					<h2 class="text-center">
 						Mari Kita lihat Simulasi Biaya Perekrutan dibawah ini
@@ -178,12 +178,12 @@ ga('send', 'pageview');
 					<div class="simul-cont1">
 						<div class="simul-1">Jika Anda ingin merekrut</div>
 						<div class="simul-2">
-							<img src="assets/img/img-recruitment-website/img-simulation1.png" alt="" class="img-responsive">
+							<img src="assets/img/img-recruitment-website/img-simulation1.png" alt="Simulasi Biaya" class="img-responsive">
 						10 karyawan baru</div>
 						<div class="simul-3">untuk 10 posisi berbeda,</div>
 					</div>
 					<center>
-						<img src="assets/img/img-recruitment-website/simulation-dot.png" class="img-responsive" style="margin-top: 10px;">
+						<img src="assets/img/img-recruitment-website/simulation-dot.png" alt="Simulasi Biaya" class="img-responsive" style="margin-top: 10px;">
 					</center>
 				</div>
 				<div class="simul-container">
@@ -191,12 +191,12 @@ ga('send', 'pageview');
 					<div class="row">
 						<div class="col-sm-6 simul-2">
 							<center><h4>Melalui Situs Lowongan Kerja</h4></center>
-							<img src="assets/img/img-recruitment-website/simulation1.png" class="img-responsive center-block">
+							<img src="assets/img/img-recruitment-website/simulation1.png" alt="Simulasi Biaya" class="img-responsive center-block">
 						</div>
 						<div class="visible-xs"><br/><br/></div>
 						<div class="col-sm-6 simul-3">
 							<center><h4>Melalui Agen Penyalur Tenaga Kerja</h4></center>
-							<img src="assets/img/img-recruitment-website/simulation2.png" class="img-responsive center-block">
+							<img src="assets/img/img-recruitment-website/simulation2.png" alt="Simulasi Biaya" class="img-responsive center-block">
 						</div>
 					</div>
 					<div class="col-sm-12 simul-description">
@@ -223,7 +223,7 @@ ga('send', 'pageview');
 				<div class="solution-container">
 					<div class="container">
 						<div class="row">
-							<div class="col-lg-7 col-md-6 col-sm-6 "><img src="assets/img/img-recruitment-website/buble-text.png" class="img-responsive"></div>
+							<div class="col-lg-7 col-md-6 col-sm-6 "><img src="assets/img/img-recruitment-website/buble-text.png" alt="Bubble Text" class="img-responsive"></div>
 							<div class="col-lg-5 col-md-6 col-sm-6 price-tag">
 								<div class="price-tag-text">
 									<div style="font-size: 30px; font-weight: 900;line-height: 30px">Lebih </div>
@@ -300,14 +300,14 @@ ga('send', 'pageview');
 							 
 							<div class="col-md-3 col-sm-6 step step2">
 									<div class="step-number-cont"><span>1</span></div>
-									<img src="assets/img/img-recruitment-website/img-step2.jpg" class="img-responsive">
+									<img src="assets/img/img-recruitment-website/img-step2.jpg" alt="Image Step" class="img-responsive">
 									<h4>Perencanaan</h4>
 									<div class="step-text">Kami akan berdiskusi dengan Anda mengenai preferensi dan konsep halaman karir. <br>&nbsp;
 									</div>
 							</div>
 							<div class="col-md-3 col-sm-6  step step3">
 									<div class="step-number-cont"><span>2</span></div>
-									<img src="assets/img/img-recruitment-website/img-step3.jpg" class="img-responsive">
+									<img src="assets/img/img-recruitment-website/img-step3.jpg" alt="Image Step" class="img-responsive">
 									<h4>Desain</h4>
 									<div class="step-text">Pembuatan desain yang menarik dan pengambilan foto akan dilakukan sebagai komponen penting dari halaman karir tersebut. 
 									</div>
@@ -316,7 +316,7 @@ ga('send', 'pageview');
 						 
 							<div class="col-md-3 col-sm-6 step step5">
 									<div class="step-number-cont"><span>3</span></div>
-									<img src="assets/img/img-recruitment-website/img-step5.jpg" class="img-responsive">
+									<img src="assets/img/img-recruitment-website/img-step5.jpg" alt="Image Step" class="img-responsive">
 									<h4>Penulisan</h4>
 									<div class="step-text">Kami membantu Anda merangkum dan menampilkan konten yang mudah dimengerti oleh pengunjung.
 									</div>
@@ -324,7 +324,7 @@ ga('send', 'pageview');
 							 
 							<div class="col-md-3 col-sm-6 step step8">
 									<div class="step-number-cont"><span>4</span></div>
-									<img src="assets/img/img-recruitment-website/img-step8.jpg" class="img-responsive">
+									<img src="assets/img/img-recruitment-website/img-step8.jpg" alt="Image Step" class="img-responsive">
 									<h4>Halaman karir selesai!</h4>
 									<div class="step-text">Halaman karir siap digunakan untuk membantu proses rekrutmen perusahaan Anda.
 									</div>
@@ -420,7 +420,7 @@ ga('send', 'pageview');
 									</div>
 									<div class="testi-owner-container pull-right">
 										Mr. Tatsuya Miyoshi<br>
-										<span style="font-style: italic;">TrendPot </span><a style="color:#000" href="http://trendpot-recruit.asia/" target="_blank"><u>(http://trendpot-recruit.asia/)</u></a>
+										<span style="font-style: italic;">TrendPot </span><a style="color:#000" href="http://trendpot-recruit.asia/" target="_blank" rel="noreferrer"><u>(http://trendpot-recruit.asia/)</u></a>
 									</div>
 								</div>
 								<div class="testi-container">
@@ -491,18 +491,18 @@ ga('send', 'pageview');
 					<div class="row">
 						<div class="col-sm-6 ">
 							<center>
-								<img src="assets/img/img-recruitment-website/sugoisaiyo-logo.png" alt=""  class="img-responsive">
+								<img src="assets/img/img-recruitment-website/sugoisaiyo-logo.png" alt="Sugoi Saiyo Logo"  class="img-responsive">
 								<div class="produk">Jalankan proses rekrutmen dengan mudah dan efektif secara online. Kandidat dapat memasukkan data mereka via sistem dan Anda dapat melakukan proses rekrutmen mulai dari pemeriksaan CV, psikotes, tes teknikal, pengaturan jadwal interview, hingga memberikan surat penawaran. Semuanya dapat di monitor dengan mudah melalui satu sistem terintegrasi.</div>
 								<br>
-								<a href="https://www.logique.co.id/produk/sugoi-saiyo.php" class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a>
+								<a href="/produk/sugoi-saiyo.php" class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a>
 							</center>
 						</div>
 						<div class="col-sm-6 ">
 							<center>
-								<img src="assets/img/img-recruitment-website/dokodemo-logo.png" alt=""  class="img-responsive">
+								<img src="assets/img/img-recruitment-website/dokodemo-logo.png" alt="Dokodemo logo"  class="img-responsive">
 								<div class="produk">Masalah dan waktu yang kurang efektif ketika karyawan Anda tinggal jauh dari kantor mungkin membuat Anda berpikir untuk menerapkan sistem kerja remote. Namun tentu saja sistem kerja seperti ini dikhawatirkan akan membuat karyawan tidak efisien dalam bekerja. Dengan Dokodemo Kerja, Anda tidak perlu khawatir karena sistem ini akan membantu menciptakan kondisi kerja yang profesional antara perusahaan dan karyawan. Karyawan dapat mencatat waktu mulai, istirahat, dan berhenti kerja untuk perhitungan pembayaran, disisi lain perusahaan juga dapat menerima informasi tambahan berupa screenshot yang diambil pada waktu acak untuk memonitor tingkat efisiensi karyawan.</div>
 								<br>
-								<a href="https://www.logique.co.id/produk/dokodemo-kerja.php" class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a>
+								<a href="/produk/dokodemo-kerja.php" class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a>
 							</center>
 						</div>
 					</div>
@@ -515,7 +515,7 @@ ga('send', 'pageview');
 					<div class="row">
 						<div class="col-md-3 col-sm-4">
 							<h3>HUBUNGI KAMI </h3>
-							<a href="https://www.logique.co.id/" target="_blank"><img src="assets/img/img-recruitment-website/logo-y-logique.png" alt="logo-footer" class="img-responsive"></a>
+							<a href="/" target="_blank"><img src="assets/img/img-recruitment-website/logo-y-logique.png" alt="logo-footer" class="img-responsive"></a>
 							<p>LOGIQUE DIGITAL INDONESIA<br>
 							Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5 
 							Ragunan, <br>Ps. Minggu, Jakarta Selatan,<br> Indonesia 12550
@@ -538,14 +538,14 @@ ga('send', 'pageview');
 								<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 								<fieldset><div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div></fieldset>
 								<fieldset>
-									<input type="text" name="name" id="name" class="input-name form-control"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Nama">
+									<input type="text" name="name" aria-label="Name" id="name" class="input-name form-control"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Nama">
 								</fieldset>
 								<fieldset>
-									<input type="text" name="email" id=" email" class="input-email form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Alamat Email">
+									<input type="text" name="email" aria-label="Email" id="email" class="input-email form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Alamat Email">
 								</fieldset>
 								<fieldset>
 		 
-									<textarea class="textarea-message form-control" name="message" placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+									<textarea class="textarea-message form-control" name="message" aria-label="Message" placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</fieldset>
 								<fieldset>
 									 

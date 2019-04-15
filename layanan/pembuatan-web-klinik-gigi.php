@@ -156,7 +156,7 @@ ga('send', 'pageview');
 					</div>
 				</div>
 			<div class="arraw-down text-center">
-				<a href="#poin" class="smooth"><img src="assets/img/img-dentist/new/arrow.png"></a>
+				<a href="#poin" aria-label="Pentingnya website pribadi klinik gigi" class="smooth"><img src="assets/img/img-dentist/new/arrow.png" alt="Arrow"></a>
 			</div>	
 			<img src="assets/img/img-dentist/new/drg.png" alt="dokter gigi" class="drg">
 			</header>
@@ -394,7 +394,7 @@ ga('send', 'pageview');
 				<div class="container">
 					<h2 class="text-center">Masalah <span class="white-text">yang Sering Dihadapi</span> Klinik Gigi</h2>
 					<div class="tooth-cont">
-								<img src="assets/img/img-dentist/tooth2.png" class="img-responsive">
+								<img src="assets/img/img-dentist/tooth2.png" alt="Tooth Image" class="img-responsive">
 							</div>
 					<div class="row ">
 						<div class="col-md-6 col-sm-5">
@@ -635,7 +635,7 @@ ga('send', 'pageview');
 			</section>
 			<section id="contactbtn" class="contactbtn-section hidden">
 				<div class="container text-center">
-					<div class="btn-container"><a class="btn contactbtn" href="https://www.logique.co.id/hubungi-kami.php" target="_blank"> Hubungi Kami </a></div>
+					<div class="btn-container"><a class="btn contactbtn" href="/hubungi-kami.php" target="_blank"> Hubungi Kami </a></div>
 				</div>
 			</section>
 			<section id="testimonial" class="testimonial-section hidden">
@@ -673,14 +673,14 @@ ga('send', 'pageview');
 								<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 								<fieldset><div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div></fieldset>
 								<fieldset>
-									<input type="text" name="name" id="name" class="input-name form-control"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Nama">
+									<input type="text" name="name" id="name" class="input-name form-control" aria-label="Name"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Nama">
 								</fieldset>
 								<fieldset>
-									<input type="text" name="email" id=" email" class="input-email form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Alamat Email">
+									<input type="text" name="email" id=" email" class="input-email form-control" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Alamat Email">
 								</fieldset>
 								<fieldset>
 		 
-									<textarea class="textarea-message form-control" name="message" placeholder="Pesan"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+									<textarea class="textarea-message form-control" name="message" aria-label="Message" placeholder="Pesan"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</fieldset>
 								<fieldset>
 									 

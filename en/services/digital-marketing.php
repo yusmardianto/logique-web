@@ -106,7 +106,7 @@
 			</ul>
 		</div>
 		<div class="div-top">
-			<div class="title">
+			<h1 class="title">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 text-center">
@@ -115,7 +115,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</h1>
 			<br/><br/><div class="hidden-xs"><br/></div>
 			<div class="container">
 				<div class="row">
@@ -130,7 +130,7 @@
 						</div>
 					</div>
 					<div class="col-md-5">
-						<img src="assets/img/img-digital-marketing/img-top.png" class="img-fluid center-block"/>
+						<img src="assets/img/img-digital-marketing/img-top.png" alt="Image Top" class="img-fluid center-block"/>
 					</div>
 				</div>
 				<br/><br/><br/>
@@ -179,7 +179,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4">
-						<br/><img src="assets/img/img-digital-marketing/img-mengapa.png" class="img-mengapa img-responsive center-block"/>
+						<br/><img src="assets/img/img-digital-marketing/img-mengapa.png" alt="Why Choose Logique Services?" class="img-mengapa img-responsive center-block"/>
 						<br/>
 						<div class="bg-black-title">Why should I choose LOGIQUE Digital Marketing service?</div>
 					</div>
@@ -437,7 +437,7 @@
 				<div class="row">
 					<div class="col-lg-offset-3 col-lg-6">
 						For more information, please contact us <a href="mailto:info@logique.co.id">directly</a> or send an inquiry from the form in the link below.<br/><br/>
-						<a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"><img alt="Form" src="assets/img/img-digital-marketing/form-footer.png" class="img-responsive center-block"/></a>
+						<a href="/en/contact.php" target="_blank"><img alt="Form" src="assets/img/img-digital-marketing/form-footer.png" class="img-responsive center-block"/></a>
 						<br/>
 						Other services:<br/>
 						<a target="_blank" href="/en/services/recruitment-web-dev.php">Recruitment Website Creation</a>

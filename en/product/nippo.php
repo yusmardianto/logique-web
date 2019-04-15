@@ -139,19 +139,19 @@ if(isset($_POST['submitted']))
   <img src="img/nippo/LogoNippo-kecil.png" alt="Nippo Logo" style="padding: 10px">
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-1.png" width="204px" height="206px">
+    <img src="img/nippo/kenapa-1.png" alt="Why Nippo?">
     <div class="Dapat-diakses-melalu">Accessible and easy input through desktop and mobile</div>
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-2.png" width="204px" height="206px">
+    <img src="img/nippo/kenapa-2.png" alt="Why Nippo?">
     <div class="Dapat-diakses-melalu">Very simple and responsive UI</div>
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-3.png" width="204px" height="206px">
+    <img src="img/nippo/kenapa-3.png" alt="Why Nippo?">
     <div class="Dapat-diakses-melalu">Man-hour cost management can be summed up and is possible for each project, task, and person</div>
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-4.png" width="204px" height="206px">
+    <img src="img/nippo/kenapa-4.png" alt="Why Nippo?">
     <div class="Dapat-diakses-melalu">Evaluation and self assessment can be done every day</div>
   </div>
   </div>
@@ -166,20 +166,20 @@ if(isset($_POST['submitted']))
   <div class="col-md-12" style=" padding-top: 7em; ">
     <div class="col-md-6 text-right">
       <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Appropriate and fair personnel evaluation hasn’t been done. Managers and HRD need objective numerical values to conduct this.</span></div>
-      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
+      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Company Problems" width="77px" height="77px"></div>
     </div>
     <div class="col-md-6 text-left">
-      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
+      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Company Problems" width="77px" height="77px"></div>
       <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Managers and HRD can’t track what the staff is doing every day. Their work content, quantity, and quality are surreptitiously insufficient.</span></div>
     </div>
   </div>
   <div class="col-md-12" style=" padding-top: 2em; ">
     <div class="col-md-6 text-right">
       <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Internal communication is in short supply, whereas employees themselves need to evaluate each other so managers and HRD can raise them.</span></div>
-      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
+      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Company Problems" width="77px" height="77px"></div>
     </div>
     <div class="col-md-6 text-left">
-      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
+      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Company Problems" width="77px" height="77px"></div>
       <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Task/projects are done inefficiently. Managers can’t even figure out who is spending time on them.</span></div>
     </div>
   </div>
@@ -187,21 +187,21 @@ if(isset($_POST['submitted']))
   <section class="hidden-md hidden-lg">  <!-- For Mobile -->
   <div class="col-md-12" style=" padding-top: 2em; ">
     <div class="col-md-6">
-      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
+      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Company Problems" style="padding: 10px;height: 50px"></div>
       <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Appropriate and fair personnel evaluation hasn’t been done. Managers and HRD need objective numerical values to conduct this.</span></div>
     </div>
     <div class="col-md-6">
-      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
+      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Company Problems" style="padding: 10px;height: 50px"></div>
       <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Managers and HRD can’t track what the staff is doing every day. Their work content, quantity, and quality are surreptitiously insufficient.</span></div>
     </div>
   </div>
   <div class="col-md-12">
     <div class="col-md-6">
-      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
+      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Company Problems" style="padding: 10px;height: 50px"></div>
       <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Internal communication is in short supply, whereas employees themselves need to evaluate each other so managers and HRD can raise them.</span></div>
     </div>
     <div class="col-md-6">
-      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
+      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Company Problems" style="padding: 10px;height: 50px"></div>
       <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Task/projects are done inefficiently. Managers can’t even figure out who is spending time on them.</span></div>
     </div>
     <div class="clearfix"></div>
@@ -225,14 +225,14 @@ if(isset($_POST['submitted']))
   <div class="row row-fix-3">
     <div class="col-md-offset-2 col-md-8 text-center">
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-1.png">
+          <img src="img/nippo/fitur-1.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Employee Management</p>
           <p class="NIPPO-system-menyedi">Create and manage employee and organization information, associations with supervisors, and many more.</p>
       </div>
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-4.png">
+          <img src="img/nippo/fitur-4.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan" style="font-size: 17px">Project/Task Management</p>
@@ -243,14 +243,14 @@ if(isset($_POST['submitted']))
   <div class="row row-fix-3">
     <div class="col-md-offset-2 col-md-8 text-center">
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-2.png">
+          <img src="img/nippo/fitur-2.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Tag People</p>
           <p class="NIPPO-system-menyedi">By tagging colleagues who employees collaborated with, managers can check the daily report mutually. If there’s something different, the tagged person can confirm.</p>
       </div>
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-3.png">
+          <img src="img/nippo/fitur-3.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Man-hour Cost Management</p>
@@ -261,14 +261,14 @@ if(isset($_POST['submitted']))
   <div class="row row-fix-3">
     <div class="col-md-offset-2 col-md-8 text-center">
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-5.png">
+          <img src="img/nippo/fitur-5.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Personnel Assessment</p>
           <p class="NIPPO-system-menyedi">Manage self assessment from other people’s evaluation. It is also possible to compile monthly and annual evaluations.</p>
       </div>
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-6.png">
+          <img src="img/nippo/fitur-6.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Engage Each Other</p>
@@ -289,13 +289,13 @@ if(isset($_POST['submitted']))
     </div>
     <div class="col-md-4 text-center">
         <div class="OH1E290">
-          <img src="img/nippo/keuntungan-1.png" alt="San Francisco" width="100%" height="300">
+          <img src="img/nippo/keuntungan-1.png" alt="San Francisco">
           <div class="Rectangle">Managers can easily grasp work contents done by employees.</div>
         </div>
     </div>
     <div class="col-md-4 text-center">
       <div class="OH1E290">
-        <img src="img/nippo/keuntungan-2.png" alt="San Francisco" width="100%" height="300">
+        <img src="img/nippo/keuntungan-2.png" alt="San Francisco">
         <div class="Rectangle"><b>Assessment</b> becomes practical and fair among employees. It can be done daily by managers.</div>
       </div>
     </div>
@@ -303,19 +303,19 @@ if(isset($_POST['submitted']))
   <div class="row m-top-0" style=" margin-right: 0; margin-top: 4em">
     <div class="col-md-4 text-center">
         <div class="OH1E290">
-          <img src="img/nippo/keuntungan-3.png" alt="San Francisco" width="100%" height="300">
+          <img src="img/nippo/keuntungan-3.png" alt="San Francisco">
           <div class="Rectangle">Since both <b>self assessment</b> and supervisor’s <b>assessment</b> are managed, HRD can give a clear explanation of evaluation to the staff.</div>
         </div>
     </div>
     <div class="col-md-4 text-center">
       <div class="OH1E290">
-        <img src="img/nippo/keuntungan-4.png" alt="San Francisco" width="100%" height="300">
+        <img src="img/nippo/keuntungan-4.png" alt="San Francisco">
         <div class="Rectangle">Internal communication will be revitalized. Likes or comments on the report will create a sense of being recognized and evaluated by others.</div>
       </div>
     </div>
     <div class="col-md-4 text-center">
         <div class="OH1E290">
-          <img src="img/nippo/keuntungan-5.png" alt="San Francisco" width="100%" height="300">
+          <img src="img/nippo/keuntungan-5.png" alt="San Francisco">
           <div class="Rectangle">Remote workers get the chance of improvement and assessment just the same as regular employees.</div>
         </div>
     </div>
@@ -330,7 +330,7 @@ if(isset($_POST['submitted']))
       <div class="Rectangle-2-Copy-4">
         <span class="Pertanyaan-Yang-Seri">Frequently Asked Questions</span>
       </div>
-      <img src="img/nippo/question.png" class="question">
+      <img src="img/nippo/question.png" alt="Frequently Asked Questions" class="question">
     </div>
   </div>
 
@@ -433,7 +433,7 @@ if(isset($_POST['submitted']))
   <div class="row" style="margin: 0">
     <div class="col-md-12 text-center">
       <div class="col-md-12">
-        <img src="img/nippo/logo-nippo-footer.png" style="padding-top: 49.2px">
+        <img src="img/nippo/logo-nippo-footer.png" alt="Nippo Logo" style="padding-top: 49.2px">
         <p class="Nippo-adalah-aplikas2">Nippo is a web-based system that can manage, monitor, and evaluate employees’ productivity through daily reports. Nippo provides systemized daily reports that can be customized to show tasks, projects, cost management, and employees’ assessment.</p>
       </div>
     </div>
@@ -449,15 +449,15 @@ if(isset($_POST['submitted']))
   </div>
   <div class="row text-center" style="margin: 0">
     <div class="col-md-4" style="margin-top: 3em">
-      <img src="img/nippo/placeholder.png">
+      <img src="img/nippo/placeholder.png" alt="Location">
       <p class="Nippo-adalah-aplikas2">Ad Premier Building 19th Floor Jalan Tb. Simatupang No. 5 Ragunan, Ps. Minggu, Jakarta Selatan, Indonesia 12550</p>
     </div>
     <div class="col-md-4" style="margin-top: 3em">
-      <img src="img/nippo/email.png">
+      <img src="img/nippo/email.png" alt="Email">
       <p class="Nippo-adalah-aplikas2">info@logique.co.id</p>
     </div>
     <div class="col-md-4" style="margin-top: 3em">
-      <img src="img/nippo/phone-call.png">
+      <img src="img/nippo/phone-call.png" alt="Phone">
       <p class="Nippo-adalah-aplikas2">+62(21) 2270 8935 / 36</p>
     </div>
   </div>

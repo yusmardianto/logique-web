@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html lang="jp">
+<html lang="ja">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -133,7 +133,7 @@
 			</ul>
 		</div>
 		<div class="div-top">
-			<div class="title">
+			<h1 class="title">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 text-center">
@@ -144,7 +144,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</h1>
 			<br/><br/><div class="hidden-xs"><br/></div>
 			<div class="container">
 				<div class="row">
@@ -164,7 +164,7 @@
 						</div>
 					</div>
 					<div class="col-md-5">
-						<img src="assets/img/img-digital-marketing/img-top.png" class="img-fluid center-block"/>
+						<img src="assets/img/img-digital-marketing/img-top.png" alt="Image Top" class="img-fluid center-block"/>
 					</div>
 				</div>
 				<br/><br/><br/>
@@ -207,7 +207,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4">
-						<br/><img src="assets/img/img-digital-marketing/img-mengapa.png" class="img-mengapa img-responsive center-block"/>
+						<br/><img src="assets/img/img-digital-marketing/img-mengapa.png" alt="Why Choose Logique Services?" class="img-mengapa img-responsive center-block"/>
 						<br/>
 						<div class="bg-black-title">なぜLOGIQUE？</div>
 					</div>
