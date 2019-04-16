@@ -10,7 +10,7 @@
 	<meta property="og:title" content="Web Security | Penetration Test | Vulnerability Assessment | LOGIQUE DIGITAL INDONESIA">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/en/services/penetration-testing/">
+	<meta property="og:url" content="https://www.logique.co.id/en/services/penetration-test.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Protect your website, web app, & e-commerce from any cyber attack. LOGIQUE provides web security, penetration test, vulnerability assessment service, to secure your confidential data against today's most advanced threats. Solve the risks now. Contact us.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -37,7 +37,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<a href="https://www.logique.co.id"><img class="img-responsive logo" src="assets/img/img-pentest/logo.png" alt="Logique"/></a>
+					<a href="/en/"><img class="img-responsive logo" src="assets/img/img-pentest/logo.png" alt="Logique"/></a>
 					<div class="div-lang">
 						<a href="/layanan/penetration-test.php">IND</a>
 						<a class="active" href="#">ENG</a>
@@ -45,7 +45,7 @@
 					</div>
 					<img class="img-responsive center-block top-banner" src="assets/img/img-pentest/top-banner.png" alt="Top Banner"/>
 					<div class="what-is">
-						<div class="title">Website security assessment service | WEB vulnerability assessment</div>
+						<h1 class="title" style="margin-bottom: 0;">Website security assessment service | WEB vulnerability assessment</h1>
 						<div class="row">
 							<div class="col-md-offset-1 col-md-11">
 								<p><br/>
@@ -238,7 +238,7 @@
 		</div>
 	</div>
 
-	<div class="mengapa-harus"><a href="https://www.logique.co.id/" target="_blank"><b>LOGIQUE</b></a> can help you.</div>
+	<div class="mengapa-harus"><a href="/en/" target="_blank"><b>LOGIQUE</b></a> can help you.</div>
 	<br/>
 	<div class="metode">
 		<div class="container">
@@ -278,14 +278,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-offset-3 col-md-6">
-					Please send us an e-mail to <a href="mailto:info@logique.co.id">info@logique.co.id</a> or send an inquiry from <a href="https://www.logique.co.id/en/contact.php" target="_blank">here</a>. We would be happy to help you.
+					Please send us an e-mail to <a href="mailto:info@logique.co.id">info@logique.co.id</a> or send an inquiry from <a href="/en/contact.php" target="_blank">here</a>. We would be happy to help you.
 					<br/><br/>
-					<a href="https://www.logique.co.id/en/contact.php" target="_blank"><img alt="Form" src="assets/img/img-pentest/form-footer.png" class="img-responsive center-block"/></a>
+					<a href="/en/contact.php" target="_blank"><img alt="Form" src="assets/img/img-pentest/form-footer.png" class="img-responsive center-block"/></a>
 					<br/>
 					Our other services:<br/>
-					<a target="_blank" href="/en/services/pembuatan-website-karir-perusahaan/">Recruitment Website Creation</a>
+					<a target="_blank" href="/en/services/recruitment-web-dev.php">Recruitment Website Creation</a>
 					<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-					<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/">Mobile Application Development</a>
+					<a target="_blank" href="/en/services/mobile-app-dev.php">Mobile Application Development</a>
 				</div>
 			</div>
 		</div>

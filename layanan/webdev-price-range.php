@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -149,7 +149,7 @@
 		<div class="container">
 			<div class="row price-item pt-1">
 			  <div class="col-sm-12 price-title"><h3><span>Kasus 1</span></h3><span>Halaman Landing / Kampanye</span></div>
-			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-1.png"  class="img-responsive"></div>
+			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-1.png" alt="Kasus 1"  class="img-responsive"></div>
 			  <div class="col-md-6  col-sm-7">
 			    <div class="price-cont">
 			      <div class="row ">
@@ -181,7 +181,7 @@
 			</div>
 			<div class="row price-item pt-2">
 			  <div class="col-sm-12 price-title"><h3><span>Kasus 2</span></h3><span>Branding Website / Website Perusahaan (skala kecil)</span></div>
-			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-2.png"  class="img-responsive"></div>
+			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-2.png" alt="Kasus 2"  class="img-responsive"></div>
 			  <div class="col-md-6 col-sm-7">
 			    <div class="price-cont">
 			      <div class="row">
@@ -213,7 +213,7 @@
 			</div>
 			<div class="row price-item pt-3">
 			  <div class="col-sm-12 price-title"><h3><span>Kasus 3</span></h3><span>Situs Website Perusahaan (skala menengah ke atas)</span></div>
-			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-3.png"  class="img-responsive"></div>
+			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-3.png" alt="Kasus 3"  class="img-responsive"></div>
 			  <div class="col-md-6 col-sm-7">
 			    <div class="price-cont">
 			      <div class="row">
@@ -245,7 +245,7 @@
 			</div>
 			<div class="row price-item pt-4">
 			  <div class="col-sm-12 price-title"><h3><span>Kasus 4</span></h3><span>Website / E-Commerce / Website dengan CMS (skala menengah)</span></div>
-			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-4.png" class="img-responsive"></div>
+			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-4.png" alt="Kasus 4" class="img-responsive"></div>
 			  <div class="col-md-6 col-sm-7">
 			    <div class="price-cont">
 			      <div class="row">
@@ -287,7 +287,7 @@
 				  </div>
 				</div>
 				<div class="col-sm-4">
-				  <img src="assets/img/img-price-range/img-meeting.png" class="img-responsive">
+				  <img src="assets/img/img-price-range/img-meeting.png" alt="Perkiraan Biaya untuk Setiap Produksi Website" class="img-responsive">
 				</div>
 			</div>
 			<div class="estimate-item">
