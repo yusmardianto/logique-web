@@ -259,7 +259,7 @@ if(isset($_POST['submitted']))
 					<div class="col-sm-4">
 						<div class="osc-item">
 							<div class="">
-								<img src="assets/img/img-systemdev/logo-caroline.png">
+								<img src="assets/img/img-systemdev/logo-caroline.png" alt="Logo Caroline">
 							</div>
 							<h4>Perkembangan yang cepat</h4>
 							<div class="osc-desc">
@@ -277,7 +277,7 @@ if(isset($_POST['submitted']))
 					<div class="col-sm-4">
 						<div class="osc-item">
 							<div class="">
-								<img src="assets/img/img-systemdev/logo-zutto.png">
+								<img src="assets/img/img-systemdev/logo-zutto.png" alt="Logo Zutto">
 							</div>
 							<h4>Sistem peningkatan PDCA jangka panjang</h4>
 							<div class="osc-desc">
@@ -295,7 +295,7 @@ if(isset($_POST['submitted']))
 					<div class="col-sm-4">
 						<div class="osc-item">
 							<div class="">
-								<img src="assets/img/img-systemdev/logo-vip.png">
+								<img src="assets/img/img-systemdev/logo-vip.png" alt="Logo VIP Plaza">
 							</div>
 							<h4>Membangun kembali situs e-Commerce dengan PWA</h4>
 							<div class="osc-desc">
@@ -800,16 +800,16 @@ if(isset($_POST['submitted']))
 							<div style="margin-bottom:8px"><b>Social Media</b></div>
 							<div class="row medsos-new">
 								<div class="col-xs-3">
-									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook" rel="noreferrer"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 								<div class="col-xs-3">
-									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter" rel="noreferrer"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 								<div class="col-xs-3">
-									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram" rel="noreferrer"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 								<div class="col-xs-3">
-									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn" rel="noreferrer"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 							</div>
 						</div>
@@ -836,7 +836,7 @@ if(isset($_POST['submitted']))
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
 							<div class="">
 									<div class="form-group">
-										<input type="text" class="form-control" placeholder="Nama" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
+										<input type="text" class="form-control" placeholder="Nama" name="name" aria-label="Name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 									</div>
 									<!-- <div class="form-group">
 										<input type="number" class="form-control" placeholder="No Ponsel" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
@@ -845,10 +845,10 @@ if(isset($_POST['submitted']))
 										<input type="text" class="form-control" placeholder="Perusahaan" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
 									</div> -->
 									<div class="form-group">
-										<input type="email" class="form-control" placeholder="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+										<input type="email" class="form-control" placeholder="Email" name="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
 									</div>
 									<div class="form-group">
-										<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message" style="resize:vertical;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message" aria-label="Message" style="resize:vertical;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 									<div class="form-group">
 										<div class="g-recaptcha captcha-custom" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>

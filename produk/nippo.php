@@ -146,19 +146,19 @@ if(isset($_POST['submitted']))
   <img src="img/nippo/LogoNippo-kecil.png" alt="Logo Nippo" style="padding: 10px">
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-1.png" alt="Manfaat Nippo" width="204px" height="206px">
+    <img src="img/nippo/kenapa-1.png" alt="Manfaat Nippo">
     <div class="Dapat-diakses-melalu">Dapat diakses melalui desktop maupun mobile secara responsif</div>
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-2.png" alt="Manfaat Nippo" width="204px" height="206px">
+    <img src="img/nippo/kenapa-2.png" alt="Manfaat Nippo">
     <div class="Dapat-diakses-melalu">Memiliki user-interface yang sederhana sehingga mudah untuk dipahami</div>
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-3.png" alt="Manfaat Nippo" width="204px" height="206px">
+    <img src="img/nippo/kenapa-3.png" alt="Manfaat Nippo">
     <div class="Dapat-diakses-melalu">Membantu manajer dalam menentukan performa/kinerja para staf</div>
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-4.png" alt="Manfaat Nippo" width="204px" height="206px">
+    <img src="img/nippo/kenapa-4.png" alt="Manfaat Nippo">
     <div class="Dapat-diakses-melalu">Anda dapat mengetahui pengeluaran projek berdasarkan jam kerja serta mengalkulasikan total jam
 kerja pengerjaan suatu projek.</div>
   </div>
@@ -195,21 +195,21 @@ kerja pengerjaan suatu projek.</div>
   <section class="hidden-md hidden-lg">  <!-- For Mobile -->
   <div class="col-md-12" style=" padding-top: 2em; ">
     <div class="col-md-6">
-      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
+      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Masalah Perusahaan" style="padding: 10px;height: 50px"></div>
       <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Sulit untuk mengkalkulasikan total jam pengerjaan suatu projek</span></div>
     </div>
     <div class="col-md-6">
-      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
+      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Masalah Perusahaan" style="padding: 10px;height: 50px"></div>
       <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Evaluasi kinerja seluruh karyawan yang menghabiskan cukup banyak waktu</span></div>
     </div>
   </div>
   <div class="col-md-12">
     <div class="col-md-6">
-      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
+      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Masalah Perusahaan" style="padding: 10px;height: 50px"></div>
       <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Sulit untuk memantau manajemen kerja karyawan dan perkembangan suatu projek</span></div>
     </div>
     <div class="col-md-6">
-      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
+      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Masalah Perusahaan" style="padding: 10px;height: 50px"></div>
       <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Laporan pekerjaan harian yang dibuat karyawan tidak spesifik dan kurang jelas</span></div>
     </div>
     <div class="clearfix"></div>
@@ -297,13 +297,13 @@ kerja pengerjaan suatu projek.</div>
     </div>
     <div class="col-md-4 text-center">
         <div class="OH1E290">
-          <img src="img/nippo/keuntungan-1.png" alt="San Francisco" width="100%" height="300">
+          <img src="img/nippo/keuntungan-1.png" alt="San Francisco">
           <div class="Rectangle">Mempermudah manajer dan direksi untuk memantau perkembangan suatu projek.</div>
         </div>
     </div>
     <div class="col-md-4 text-center">
       <div class="OH1E290">
-        <img src="img/nippo/keuntungan-2.png" alt="San Francisco" width="100%" height="300">
+        <img src="img/nippo/keuntungan-2.png" alt="San Francisco">
         <div class="Rectangle">Mempermudah manajer dalam melakukan <b>evaluasi kinerja</b> para staf</div>
       </div>
     </div>
@@ -311,19 +311,19 @@ kerja pengerjaan suatu projek.</div>
   <div class="row m-top-0" style=" margin-right: 0; margin-top: 4em">
     <div class="col-md-4 text-center">
         <div class="OH1E290">
-          <img src="img/nippo/keuntungan-3.png" alt="San Francisco" width="100%" height="300">
+          <img src="img/nippo/keuntungan-3.png" alt="San Francisco">
           <div class="Rectangle"><b>Manajemen kinerja</b> seluruh karyawan dapat diketahui oleh para manajer secara transparan & fleksibel</div>
         </div>
     </div>
     <div class="col-md-4 text-center">
       <div class="OH1E290">
-        <img src="img/nippo/keuntungan-4.png" alt="San Francisco" width="100%" height="300">
+        <img src="img/nippo/keuntungan-4.png" alt="San Francisco">
         <div class="Rectangle">Mempererat komunikasi internal. Meninggalkan like dan comment pada suatu laporan kerja dapat menumbuhkan rasa penghargaan dan apresiasi pada diri karyawan atas pekerjaannya.</div>
       </div>
     </div>
     <div class="col-md-4 text-center">
         <div class="OH1E290">
-          <img src="img/nippo/keuntungan-5.png" alt="San Francisco" width="100%" height="300">
+          <img src="img/nippo/keuntungan-5.png" alt="San Francisco">
           <div class="Rectangle">Walaupun perusahaan memiliki pekerja remote, Anda dapat tetap memantau kinerja dan membangun komunikasi yang baik dengan mereka.</div>
         </div>
     </div>

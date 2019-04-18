@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,7 +8,7 @@
 	<meta name="keywords" content=" ">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title> </title>
+    <title>Web Development Price | LOGIQUE Digital Indonesia</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="assets/css/style_webdev_price.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
@@ -142,7 +142,7 @@
 			<div class="container">
 				<div class="row price-item pt-1">
 					<div class="col-sm-12 price-title"><h3><span>ケース1</span></h3><span>ランディングページ・キャンペーンページ</span></div>
-					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-1.png"  class="img-responsive"></div>
+					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-1.png" alt="ケース1"  class="img-responsive"></div>
 					<div class="col-md-6  col-sm-7">
 						<div class="price-cont">
 							<div class="row ">
@@ -175,7 +175,7 @@
 				</div>
 				<div class="row price-item pt-2">
 					<div class="col-sm-12 price-title"><h3><span>ケース2</span></h3><span>コーポレートサイト・ブランドサイト（小規模）</span></div>
-					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-2.png"  class="img-responsive"></div>
+					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-2.png" alt="ケース2"  class="img-responsive"></div>
 					<div class="col-md-6 col-sm-7">
 						<div class="price-cont">
 							<div class="row">
@@ -207,7 +207,7 @@
 				</div>
 				<div class="row price-item pt-3">
 					<div class="col-sm-12 price-title"><h3><span>ケース3</span></h3><span>コーポレートサイト・サービスサイト（中規模以上）</span></div>
-					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-3.png"  class="img-responsive"></div>
+					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-3.png" alt="ケース3"  class="img-responsive"></div>
 					<div class="col-md-6 col-sm-7">
 						<div class="price-cont">
 							<div class="row">
@@ -239,7 +239,7 @@
 				</div>
 				<div class="row price-item pt-4">
 					<div class="col-sm-12 price-title"><h3><span>ケース4</span></h3><span>会員管理、決済機能付き、CMSサイト</span></div>
-					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-4.png" class="img-responsive"></div>
+					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-4.png" alt="ケース4" class="img-responsive"></div>
 					<div class="col-md-6 col-sm-7">
 						<div class="price-cont">
 							<div class="row">
@@ -280,7 +280,7 @@
 							 ヒアリングから初回のご提案まで 
 						</div>
 					</div>
-					<div class="col-sm-4"><img src="assets/img/img-price-range/img-meeting.png" class="img-responsive"></div>
+					<div class="col-sm-4"><img src="assets/img/img-price-range/img-meeting.png" alt="Webサイト制作料金単価の目安" class="img-responsive"></div>
 				</div>
 				
 				<div class="estimate-item">

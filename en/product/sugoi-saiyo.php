@@ -420,21 +420,21 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 						<div class="row">
 							<div class="col-md-6">
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
+									<input type="text" class="form-control" placeholder="Name" name="name" aria-label="Name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 								</div>
 								<div class="form-group">
-									<input type="number" class="form-control" placeholder="Phone" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
+									<input type="number" class="form-control" placeholder="Phone" name="phone" aria-label="Phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
 								</div>
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Company" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
+									<input type="text" class="form-control" placeholder="Company" name="company" aria-label="Company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
 								</div>
 								<div class="form-group">
-									<input type="email" class="form-control" placeholder="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+									<input type="email" class="form-control" placeholder="Email" name="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Message" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+									<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Message" name="message" aria-label="Message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</div>
 								<div class="form-group">
 									<div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>

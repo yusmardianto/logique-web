@@ -10,7 +10,7 @@
 	<meta property="og:title" content="WEBサイト脆弱性セキュリティ診断サービス｜ジャカルタのWEB制作・システム開発会社LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/layanan/jp/penetration-testing/">
+	<meta property="og:url" content="https://www.logique.co.id/jp/services/penetration-test.php">
 	<meta property="og:image" content="https://www.logique.co.id/assets/img/img-pentest/og-image.png">
 	<meta property="og:description" content="LOGIQUEのWEBサイトセキュリティ診断サービスは、お客様のWEBサイト、E-Commerce、WEBアプリケーションの脆弱性を診断し、レポート、対策案を提案します。Penetrationテストを行い、Webサイトへの攻撃、乗っ取り、改ざんなどから守ります。インドネシアの首都ジャカルタのWEB制作・システム開発会社LOGIQUEにセキュリティ対策についてご相談ください。">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -37,7 +37,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<a href="https://www.logique.co.id"><img class="img-responsive logo" src="assets/img/img-pentest/logo.png" alt="Logique"/></a>
+					<a href="/jp/"><img class="img-responsive logo" src="assets/img/img-pentest/logo.png" alt="Logique"/></a>
 					<div class="div-lang">
 						<a href="/layanan/penetration-test.php">IND</a>
 						<a href="/en/services/penetration-test.php">ENG</a>
@@ -45,7 +45,7 @@
 					</div>
 					<img class="img-responsive center-block top-banner" src="assets/img/img-pentest/top-banner.png" alt="Top Banner"/>
 					<div class="what-is">
-						<div class="title">Webサイトのセキュリティ診断サービス｜WEB脆弱性診断</div>
+						<h1 class="title" style="margin-bottom: 0;">Webサイトのセキュリティ診断サービス｜WEB脆弱性診断</h1>
 						<div class="row">
 							<div class="col-md-offset-1 col-md-11">
 								<p><br/>
@@ -129,7 +129,7 @@
 		</div>	
 	</div>	
 	<br/>
-	<div class="mengapa-harus">WEBサイトのセキュリティ脆弱性診断については<a href="https://www.logique.co.id/" target="_blank"><b>LOGIQUE</b></a>にご相談ください。</div>
+	<div class="mengapa-harus">WEBサイトのセキュリティ脆弱性診断については<a href="/jp/" target="_blank"><b>LOGIQUE</b></a>にご相談ください。</div>
 	<br/>
 	<div class="metode">
 		<div class="container">
@@ -316,9 +316,9 @@
 					<a href="/jp/contact.php" target="_blank"><img alt="Form" src="assets/img/img-pentest/form-footer.png" class="img-responsive center-block"/></a>
 					<br/>
 					Our other services:<br/>
-					<a target="_blank" href="/jp/services/pembuatan-website-karir-perusahaan/">採用サイト制作</a>
+					<a target="_blank" href="/jp/services/recruitment-web-dev.php">採用サイト制作</a>
 					<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-					<a target="_blank" href="/jp/services/pembuatan-aplikasi-mobile/">モバイルアプリケーション制作 </a>
+					<a target="_blank" href="/jp/services/mobile-app-dev.php">モバイルアプリケーション制作 </a>
 				</div>
 			</div>
 		</div>

@@ -440,24 +440,24 @@ if(isset($_POST['submitted']))
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-12">
-										<input type="text" name="name" placeholder="Nama Anda" class="form-control name-input" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
+										<input type="text" name="name" aria-label="Name" placeholder="Nama Anda" class="form-control name-input" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
 									</div>
 								</div>
 							</div>
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-6">
-										<input type="email" name="email" placeholder="Alamat Email" class="form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' />
+										<input type="email" name="email" aria-label="Email" placeholder="Alamat Email" class="form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' />
 									</div>
 									<div class="col-md-6">
-										<input type="number" name="phone" placeholder="Nomor Telepon" class="form-control" value='<?php echo $formproc->SafeDisplay('phone') ?>' />
+										<input type="number" name="phone" aria-label="Phone" placeholder="Nomor Telepon" class="form-control" value='<?php echo $formproc->SafeDisplay('phone') ?>' />
 									</div>
 								</div>
 							</div>
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-12">
-										<textarea class="form-control" placeholder="Pertanyaan" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										<textarea class="form-control" placeholder="Pertanyaan" name="message" aria-label="Message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 								</div>
 							</div>

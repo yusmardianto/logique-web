@@ -268,7 +268,7 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-sm-4">
 						<div class="analysis-part flow-part">
-							<img src="assets/img/img-webdev/writing.png"> 
+							<img src="assets/img/img-webdev/writing.png" alt="Analysis and Evaluation"> 
 							<h3>Analysis and Evaluation</h3>
 							<p>
 								If you already have a website, in order to improve it, we will analyze and evaluate the current situation of the website. 
@@ -278,7 +278,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="plan-part flow-part">
-							<img src="assets/img/img-webdev/intelligent.png"> 
+							<img src="assets/img/img-webdev/intelligent.png" alt="Planning"> 
 							<h3>Planning</h3>
 							<p>
 								In order to achieve the goal you want from the website, we will show you what the web should be, suggest what you should do now, and the improvisations needed for continual results from now on. 
@@ -288,7 +288,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="seo-part flow-part">
-							<img src="assets/img/img-webdev/analysis.png"> 
+							<img src="assets/img/img-webdev/analysis.png" alt="SEO / SEM"> 
 							<h3>SEO / SEM</h3>
 							<p>
 								A website can’t collect much traffic just by making it public. 
@@ -300,7 +300,7 @@ if(isset($_POST['submitted']))
 					<div class="clearfix"></div>
 					<div class="col-sm-4">
 						<div class="info-part flow-part">
-							<img src="assets/img/img-webdev/ux.png"> 
+							<img src="assets/img/img-webdev/ux.png" alt="Restructuring and Improvement"> 
 							<h3>Restructuring and Improvement</h3>
 							<p>
 								We don’t always need to recreate your website from scratch due to complicated issues found. 
@@ -311,7 +311,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="multiligual-part flow-part">
-							<img src="assets/img/img-webdev/language.png"> 
+							<img src="assets/img/img-webdev/language.png" alt="Multilingual Website Production and& Operation"> 
 							<h3>Multilingual Website Production and& Operation</h3>
 							<p>
 								We can support website production and operation in Indonesian, English, and Japanese. 
@@ -322,7 +322,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="sosmed-part flow-part">
-							<img src="assets/img/img-webdev/customer.png"> 
+							<img src="assets/img/img-webdev/customer.png" alt="Social Media Operation"> 
 							<h3>Social Media Operation</h3>
 							<p>
 								Social media can be very powerful in increasing engagements with your customers. 
@@ -334,7 +334,7 @@ if(isset($_POST['submitted']))
 					<div class="clearfix"></div>
 					<div class="col-sm-4">
 						<div class="design-part flow-part">
-							<img src="assets/img/img-webdev/graphic-design.png"> 
+							<img src="assets/img/img-webdev/graphic-design.png" alt="Design Production"> 
 							<h3>Design Production</h3>
 							<p>
 								We design a user-friendly and conversion-friendly UI of your website. 
@@ -344,7 +344,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="markup-part flow-part">
-							<img src="assets/img/img-webdev/website.png"> 
+							<img src="assets/img/img-webdev/website.png" alt="Markup Coding"> 
 							<h3>Markup Coding</h3>
 							<p>
 								You can also request only HTML / CSS coding for your website. 
@@ -354,7 +354,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="responsive-part flow-part">
-							<img src="assets/img/img-webdev/devices.png"> 
+							<img src="assets/img/img-webdev/devices.png" alt="Multi-device Support"> 
 							<h3>Multi-device Support</h3>
 							<p>
 								We can create optimized and responsive sites for mobiles, smartphones, and tablets. 
@@ -365,7 +365,7 @@ if(isset($_POST['submitted']))
 					<div class="clearfix"></div>
 					<div class="col-sm-4">
 						<div class="programing-part flow-part">
-							<img src="assets/img/img-webdev/programming.png"> 
+							<img src="assets/img/img-webdev/programming.png" alt="Special Programming Features"> 
 							<h3>Special Programming Features</h3>
 							<p>
 								You can request any programming features to add to websites such as Parallax motions. 
@@ -376,7 +376,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="system-part flow-part">
-							<img src="assets/img/img-webdev/engineering.png"> 
+							<img src="assets/img/img-webdev/engineering.png" alt="System Construction"> 
 							<h3>System Construction</h3>
 							<p>
 								Develop CMS systems, web systems, and business systems. 
@@ -387,7 +387,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="apps-part flow-part">
-							<img src="assets/img/img-webdev/smartphone.png"> 
+							<img src="assets/img/img-webdev/smartphone.png" alt="PWA as Mobile Apps"> 
 							<h3>PWA as Mobile Apps</h3>
 							<p>
 								We can develop mobile apps as web apps instead of native apps with PWA. 
@@ -828,16 +828,16 @@ if(isset($_POST['submitted']))
 							<div style="margin-bottom:8px"><b>Social Media</b></div>
 							<div class="row medsos-new">
 								<div class="col-xs-3">
-									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook" rel="noreferrer"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 								<div class="col-xs-3">
-									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter" rel="noreferrer"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 								<div class="col-xs-3">
-									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram" rel="noreferrer"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 								<div class="col-xs-3">
-									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn" rel="noreferrer"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 							</div>
 						</div>
@@ -864,7 +864,7 @@ if(isset($_POST['submitted']))
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
 							<div class="">
 									<div class="form-group">
-										<input type="text" class="form-control" placeholder="Name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
+										<input type="text" class="form-control" placeholder="Name" name="name" aria-label="Name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 									</div>
 									<!-- <div class="form-group">
 										<input type="number" class="form-control" placeholder="No Ponsel" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
@@ -873,10 +873,10 @@ if(isset($_POST['submitted']))
 										<input type="text" class="form-control" placeholder="Perusahaan" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
 									</div> -->
 									<div class="form-group">
-										<input type="email" class="form-control" placeholder="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+										<input type="email" class="form-control" placeholder="Email" name="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
 									</div>
 									<div class="form-group">
-										<textarea style="resize:none" name="" id="" cols="30" rows="6" class="form-control" placeholder="Message" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										<textarea style="resize:none" name="" id="" cols="30" rows="6" class="form-control" placeholder="Message" name="message" aria-label="Message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 									<div class="form-group">
 										<div class="g-recaptcha captcha-custom" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>

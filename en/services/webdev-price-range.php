@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -149,7 +149,7 @@
     <div class="container">
       <div class="row price-item pt-1">
         <div class="col-sm-12 price-title"><h3><span>Case 1</span></h3><span>Landing Page / Campaign Page</span></div>
-        <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-1.png"  class="img-responsive"></div>
+        <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-1.png" alt="Case 1"  class="img-responsive"></div>
         <div class="col-md-6  col-sm-7">
           <div class="price-cont">
             <div class="row ">
@@ -182,7 +182,7 @@
       </div>
       <div class="row price-item pt-2">
         <div class="col-sm-12 price-title"><h3><span>Case 2</span></h3><span>Branding Website / Corporate Website (small scale)</span></div>
-        <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-2.png"  class="img-responsive"></div>
+        <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-2.png" alt="Case 2"  class="img-responsive"></div>
         <div class="col-md-6 col-sm-7">
           <div class="price-cont">
             <div class="row">
@@ -214,7 +214,7 @@
       </div>
       <div class="row price-item pt-3">
         <div class="col-sm-12 price-title"><h3><span>Case 3</span></h3><span>Corporate Website (medium scale or more)</span></div>
-        <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-3.png"  class="img-responsive"></div>
+        <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-3.png" alt="Case 3"  class="img-responsive"></div>
         <div class="col-md-6 col-sm-7">
           <div class="price-cont">
             <div class="row">
@@ -246,7 +246,7 @@
       </div>
       <div class="row price-item pt-4">
         <div class="col-sm-12 price-title"><h3><span>Case 4</span></h3><span>Membership Website / E-Commerce / CMS Website (medium scale)</span></div>
-        <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-4.png" class="img-responsive"></div>
+        <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-4.png" alt="Case 4" class="img-responsive"></div>
         <div class="col-md-6 col-sm-7">
           <div class="price-cont">
             <div class="row">
@@ -288,7 +288,7 @@
           </div>
         </div>
         <div class="col-sm-4">
-          <img src="assets/img/img-price-range/img-meeting.png" class="img-responsive">
+          <img src="assets/img/img-price-range/img-meeting.png" alt="Estimated Cost per Website Production" class="img-responsive">
         </div>
       </div>
       <div class="estimate-item">

@@ -10,7 +10,7 @@
 	<meta property="og:title" content="Keamanan Website | Penetration Testing | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/layanan/penetration-testing/">
+	<meta property="og:url" content="https://www.logique.co.id/layanan/penetration-test.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Perilaku cyber crime selalu meningkat setiap tahunnya. Karena itu, LOGIQUE menyediakan layanan jasa keamanan website menggunakan metode penetration testing sebagai solusi terbaik untuk melindungi data perusahaan Anda. Segera hubungi kami untuk mendapatkan layanan ini.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -48,7 +48,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<a href="https://www.logique.co.id"><img class="img-responsive logo" src="assets/img/img-pentest/logo.png" alt="Logique"/></a>
+					<a href="/"><img class="img-responsive logo" src="assets/img/img-pentest/logo.png" alt="Logique"/></a>
 					<div class="div-lang">
 						<a class="active" href="#">IND</a>
 						<a href="/en/services/penetration-test.php">ENG</a>
@@ -130,11 +130,11 @@
 									Pelanggaran atau serangan-serangan cyber biasanya terjadi pada berbagai data yang sering Anda jumpai, seperti format Microsoft Office (Word, PowerPoint, dan Excel) yang membentuk file ekstensi. Jumlahnya pun cukup banyak, yaitu mencapai 38 persen. <br/><br/>
 									Berdasarkan data yang dirilis oleh Symantec, selama tahun 2017, serangan cyber paling banyak berasal dari China, yaitu sekitar 20 persen, disusul oleh AS sebesar 11 persen dan Rusia sebesar 6 persen. Dimana 71% nya menggunakan email spear-phishing untuk melakukan serangan cyber tersebut.
 								</div>
-								<img class="img-responsive center-block" src="assets/img/img-pentest/line-serangan.png"/><br/>
+								<img class="img-responsive center-block" src="assets/img/img-pentest/line-serangan.png" alt="Line Serangan" /><br/>
 								<div class="row">
 									<div class="col-sm-4">
 										<div class="border-serangan">
-											<img class="img-responsive center-block" src="assets/img/img-pentest/serangan1.png"/>
+											<img class="img-responsive center-block" src="assets/img/img-pentest/serangan1.png" alt="Serangan 1" />
 											Format Microsoft Office (<i>Ppt, Word, dan Excel</i>) membuat,
 											<span>38%</span>
 											ekstensi file berbahaya
@@ -163,7 +163,7 @@
 									</div>
 									<div class="col-sm-4">
 										<div class="border-serangan phishing">
-											<img class="img-responsive center-block" src="assets/img/img-pentest/serangan2.png"/>
+											<img class="img-responsive center-block" src="assets/img/img-pentest/serangan2.png" alt="Serangan 2" />
 											<span>71%</span>
 											serangan cyber dimulai dengan email <strong>spear-phishing</strong>
 										</div>
@@ -192,7 +192,7 @@
 								<img class="img-responsive left-block" src="assets/img/img-pentest/garis-dampak4.png"/>
 								<div class="row">
 									<div class="col-sm-3">
-										<img class="img-responsive center-block" src="assets/img/img-pentest/rumah-dampak.png"/>
+										<img class="img-responsive center-block" src="assets/img/img-pentest/rumah-dampak.png" alt="Rumah Dampak" />
 									</div>
 									<div class="col-sm-6"> 
 										<div class="border-serangan cyber-attack mt-0">
@@ -203,7 +203,7 @@
 										</div>
 									</div>
 									<div class="col-sm-3">
-										<img class="img-responsive center-block" src="assets/img/img-pentest/dampak-ratio.png"/>
+										<img class="img-responsive center-block" src="assets/img/img-pentest/dampak-ratio.png" alt="Dampak Ratio" />
 									</div>
 								</div>
 								<br/><br/>
@@ -343,7 +343,7 @@
 		</div>	
 	</div>	
 	<br/>	
-	<div class="mengapa-harus">Mengapa harus memilih <a href="https://www.logique.co.id/" target="_blank"><b>Logique Digital Indonesia</b></a> untuk melakukan pentest?</div>
+	<div class="mengapa-harus">Mengapa harus memilih <a href="/" target="_blank"><b>Logique Digital Indonesia</b></a> untuk melakukan pentest?</div>
 	<br/>
 	<div class="metode">
 		<div class="container">
@@ -644,12 +644,12 @@
 			<div class="row">
 				<div class="col-lg-offset-3 col-lg-6">
 					Untuk informasi lengkapnya, Anda dapat menghubungi <b>Logique Digital Indonesia</b> melalui email di <a href="mailto:info@logique.co.id">info@logique.co.id</a> atau mendaftar melalui form yang ada di link berikut ini <br/><br/>
-					<a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"><img alt="Form" src="assets/img/img-pentest/form-footer.png" class="img-responsive center-block"/></a>
+					<a href="/hubungi-kami.php" target="_blank"><img alt="Form" src="assets/img/img-pentest/form-footer.png" class="img-responsive center-block"/></a>
 					<br/>
 					Layanan Kami lainnya:<br/>
-					<a target="_blank" href="/layanan/pembuatan-website-karir-perusahaan/">Pembuatan Website Karir Perusahaan</a>
+					<a target="_blank" href="/layanan/pembuatan-web-karir.php">Pembuatan Website Karir Perusahaan</a>
 					<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-					<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/">Pembuatan Aplikasi Mobile</a>
+					<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile.php">Pembuatan Aplikasi Mobile</a>
 				</div>
 			</div>
 		</div>
