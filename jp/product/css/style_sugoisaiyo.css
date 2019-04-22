@@ -453,6 +453,7 @@ ul.medsos-new li a{
 	letter-spacing: 0;
 	line-height: 25px;
 	text-align: justify;
+  margin: 15px 0;
 }
 .obstacle {
 	background-color: #fff;
