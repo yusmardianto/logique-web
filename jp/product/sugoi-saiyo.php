@@ -63,6 +63,68 @@ if(isset($_POST['submitted']))
 	</script>
 </head>
 	<body>
+		<div class="nav-lp">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+				<span class="icon-bar first"></span>
+				<span class="icon-bar second"></span>
+				<span class="icon-bar third"></span> 
+			</button>
+			<div class="collapse navbar-collapse" id="myNavbar">
+				<div class="backdrop-test"></div>
+				<div class="logique-nav in-jp">
+					<div class="margin-for-nav">
+						<div class="text-center">
+							<a href="/jp/">
+								<div class="img-home"></div>
+								Home
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/jp/about.php">
+								<div class="img-about"></div>
+								会社概要
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/jp/portfolio.php">
+								<div class="img-portfolio"></div>
+								制作実績
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/jp/services.php">
+								<div class="img-services"></div>
+								サービス
+							</a>
+						</div>
+						 	<div class="text-center active">
+						<a href="/jp/product.php">
+							<div class="img-product"></div>
+							プロダクト
+						</a>
+					</div>
+						<div class="text-center">
+							<a href="/jp/joinus.php">
+								<div class="img-career"></div>
+								採用/<br>パートナー
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/jp/contact.php">
+								<div class="img-contact"></div>
+								お問い合わせ
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
+								<div class="img-blog"></div>
+								Blog
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 		<header>
 			<img src="img/sugoi-saiyo/logo.png" alt="Sugoi Saiyo Logo" class="img-responsive center-block"> 
 			<h1>インドネシアでの採用を効率的に変える、<br>
@@ -73,7 +135,8 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<a href="/"><img src="img/sugoi-saiyo/logo_logique.png" alt="Sugoi Saiyo Logo" style="position:absolute;top: 0;"></a>
 				<h2>SUGOI採用ってなに？どんなツールなの？</h2>
-				<p>SUGOI採用は、インドネシアの人事部、採用担当者のためのITシステムです。要件に合わない大量のCVのスクリーニング、応募者との連絡の難しさ、ノーShowの多さ、など採用活動には無駄が非常に多いです。<br><br>SUGOI採用は、これら問題を解消し、人事部の、採用担当者のストレスをなくします。応募者にとってもWEBで応募からステータス確認、テスト、オファーレター受領まで簡単に管理できるのでとても便利です。</p>
+				<p>SUGOI採用は、インドネシアの人事部、採用担当者のためのITシステムです。要件に合わない大量のCVのスクリーニング、応募者との連絡の難しさ、ノーShowの多さ、など採用活動には無駄が非常に多いです。</p>
+				<p>SUGOI採用は、これら問題を解消し、人事部の、採用担当者のストレスをなくします。応募者にとっても専用マイページで、応募からステータス確認、テスト、オファーレター受領までの全行程を簡単に管理できるのでとても便利です。</p>
 			</div>
 		</section>
 		<section class="obstacle">
@@ -87,8 +150,8 @@ if(isset($_POST['submitted']))
 						</ul>
 					</div>
 					<div class="col-md-4 obstacle-title">
-						<h2>インドネシアの採用の難しさ採用担当者が抱える課題</h2>
-						<a href="#contact" class="smooth btn-ss">Try Sugoi Saiyo</a>
+						<h2>インドネシアでの採用活動の難しさ / 採用担当者が抱える課題</h2>
+						<a href="#contact" class="smooth btn-ss">今すぐ試用を申し込む</a>
 					</div>
 					<div class="col-md-8">
 						<div class="row">
@@ -354,36 +417,63 @@ if(isset($_POST['submitted']))
 						<img src="img/sugoi-saiyo/qna.png" alt="Sugoi Saiyo">
 					</div>
 					<div class="col-md-9">
-						<h2>PERTANYAAN YANG SERING DIAJUKAN : </h2>
+						<h2>Sugoi採用に関するよくある質問</h2>
 					</div>
 				</div>
 				<div class="row m-50">
 					<div class="col-sm-6">
-						<h3>Bagaimana cara kerja   SAIYO? </h3>
-						<p>SUGOI SAIYO mempertemukan tim rekrutmen dengan kandidat yang sesuai secara terarah dengan menyediakan proses rekrutmen yang singkat dan mudah dikelola oleh kedua belah pihak.</p>
-						<h3>Bagaimana tim rekrutmen tahu jika seorang kandidat mengajukan lamaran?</h3>
-						<p>Tim rekrutmen akan dikirimkan notifikasi melalui email. Email tersebut akan menyebutkan nama kandidat dan tim rekrutmen bisa langsung memeriksa detil data dirinya.</p>
-						<h3>Apakah ada batasan jumlah lowongan yang bisa dipos oleh tim rekrutmen di SUGOI SAIYO? </h3>
-						<p>Tidak ada. Tim rekrutmen bisa membuat daftar lowongan posisi yang tersedia sebanyak mungkin.</p>
-						<h3>Apakah SUGOI SAIYO hanya diperuntukkan bagi departemen SDM perusahaan? </h3>
-						<p>SUGOI SAIYO menyediakan laman kelola yang berbeda untuk level departemen SDM (tim rekrutmen) dan level manajer (person in charge).</p>
-						<h3>Apa perbedaan laman kelola untuk tim rekrutmen dengan manajer?</h3>
-						<p>Laman kelola untuk level manajer hanya menampilkan hasil technical test, jadwal interview, dan laporan hasil interview. </p>
-						<h3>Bagaimana standar tahapan rekrutmen yang diadopsi SUGOI SAIYO? </h3>
-						<p>SUGOI SAIYO mengadopsi standar rekrutmen perusahaan pada  umumnya.</p>
+						<h3>Q.Sugoi Saiyoはクラウドツールなのか？</h3>
+						<p>
+							Sugoi Saiyoは当社が管理するクラウドサーバー上で動作します。ご利用にあたりサーバーなどをご用意いただく必要はありません。ご契約後ただちに利用開始可能です。
+							<br>
+							ただし、御社管理のサーバーにインストールしてご利用いただくことも可能です。お気軽にご相談ください。
+						</p>
+						<h3>Q. ユーザー（応募者）の使用環境に制限は？</h3>
+						<p>
+							ブラウザをご利用いただきます。Chrome、Firefox、Safari、Edgeなど主要ブラウザの最新版をご使用いただいていれば問題なくご利用いただけます。
+						</p>
+						<h3>Q. 料金は？月額制か、一括システム買い上げは可能か？</h3>
+						<p>
+							基本的には初期費用なしで月額利用料金のご請求を差し上げます。ただしシステム一式をカスタマイズして御社サーバーへ納品して一括ご請求するということも可能ですのでご相談ください。料金はゆー
+						</p>
+						<h3>Q. 利用期間に制限はあるのか？</h3>
+						<p>
+							いまのところ制限は設けていません。カスタマイズなしでご利用いただく場合、1ヶ月だけの利用も可能です。
+						</p>
+						<h3>Q. メインターゲットとなる企業は？</h3>
+						<p>
+							様々な企業さまでも活用いただけると考えていますが、月に2,3人以上の採用を行っている会社さんにご利用いただくとより効果を感じていただけると思います。複数支店があり、全支店には採用担当がいないケースなどでオンラインで一括管理できるSugoiSaiyoは威力を発揮します。
+						</p>
+						<h3>Q. 心理テストは含まれているか？</h3>
+						<p>
+							外部の心理テストと連携してそのテスト結果を保存する機能は含まれています。独自の心理テストを実施する場合はカスタマイズ対応となります。
+						</p>
 					</div>
 					<div class="col-sm-6">
-						<p> Namun, standar tahapan ini bisa dimodifikasi dan disesuaikan dengan permintaan Anda.</p>
-						<h3>Apakah ada batasan jumlah kandidat yang bisa saya terima untuk setiap posisi?</h3>
-						<p>Tidak ada. Setiap posisi bisa menerima sebanyak mungkin kandidat. Begitu juga sebaliknya, kandidat bisa mengajukan lamaran ke lebih dari satu posisi.</p>
-						<h3>Bagaimana cara kandidat mengajukan lamaran untuk posisi yang tersedia? </h3>
-						<p>Cukup dengan memilih posisi yang ingin dilamar, lalu mengisi data diri di formulir yang disediakan.</p>
-						<h3>Bagaimana cara kandidat mendapatkan informasi lanjutan dari tahap seleksi lamarannya? </h3>
-						<p>Informasi hasil dari setiap proses rekrutmen selalu diperbarui oleh tim rekrutmen, dan kandidat dapat melihat pembaharuan tersebut, baik di laman dashboard-nya sendiri maupun melalui email notifikasi otomatis.</p>
-						<h3>Apakah SUGOI SAIYO bisa diakses oleh browser apa pun?</h3>
-						<p>Situs kami bisa diakses oleh browser mana pun, termasuk oleh browser bawaan perangkat seluler. Jika Anda mengalami masalah, silakan hubungi kami untuk bantuan.</p>
-						<h3>Saya tertarik menggunakan SUGOI SAIYO untuk perusahaan saya. Bagaimana cara saya bisa mulai menggunakannya? </h3>
-						<p>Anda bisa langsung menghubungi kami lewat salah satu kontak yang kami sediakan. Kami siap melayani Anda dengan senang hati. </p>
+						<h3>Q. JobStreetとの連携は可能なのか？</h3>
+						<p>
+							JobStreetに御社SugoiSaiyoの入り口URLを掲載することをお奨めしています。そうすればJobStreetの使い難い管理画面が必要なくなり、SugoiSaiyoだけで一括管理できます。
+						</p>
+						<h3>Q. 面接のスケジュール管理ができるということだが、会議室予約と連携できないか？</h3>
+						<p>
+							カスタマイズすることにより実現可能です。
+						</p>
+						<h3>Q. AI機能は含まれていないのか？</h3>
+						<p>
+							まだ実装していませんが、ご要望があればカスタマイズ対応いたします。
+						</p>
+						<h3>Q. 新らしい応募に関するNotificationを受け取ることはできるのか？</h3>
+						<p>
+							採用担当として登録されたユーザーは新規応募があったことをeメールで通知を受けることができます。
+						</p>
+						<h3>Q. 求人数、求人職種数、ポジション数などに制限はあるのか？</h3>
+						<p>
+							制限はありません。同時に何ポジションでも募集可能です。
+						</p>
+						<h3>Q. HR部（採用担当）だけが使うものか？</h3>
+						<p>
+							複雑な権限管理設定が可能です。採用担当、各部門の面接担当、経営層もSugoi Saiyoのユーザーとなることで自社の採用進捗の把握、面接のスケジュール管理、候補者情報の詳細閲覧などが可能となります。
+						</p>
 					</div>
 				</div>
 			</div>
@@ -391,7 +481,10 @@ if(isset($_POST['submitted']))
 		<section class="contact" id="contact">
 			<div class="container">
 				<div class="box">
-					<h2>Sugoi Saiyoに関するお問い合わせ</h2>
+					<div class="box-title">
+						<h2>Sugoi採用に関するよくある質問</h2>
+						<p>採用管理システムSugoi Saiyoに関するお問い合わせ、トライアル利用のお申込み、その他、採用管理システムの開発についてなど、お気軽にお問い合わせください。</p>
+					</div>
 					<?php if(isset($msg))
 					{
 					echo $msg;
@@ -432,34 +525,9 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</section>
-		<footer>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4">
-						<img src="img/sugoi-saiyo/logo.png" alt="Sugoi Saiyo Logo" class="img-responsive">
-					</div>
-					<div class="col-md-4">
-						<p class="address">
-							Ad Premier Building 19th Floor Jalan Tb. Simatupang No. 5 Ragunan, Ps. Minggu, Jakarta Selatan, Indonesia 12550
-						</p>
-						<p class="link">
-							<span>Product LOGIQUE :</span>
-							<a href="/../jp/product/nippo.php">Nippo</a>
-							<a href="/../jp/product/dokodemo-kerja.php">Dokodemo-Kerja</a>
-						</p>
-					</div>
-					<div class="col-md-4">
-						<p class="phone">+62(21) 2270 8935 / 36</p>
-						<p class="email"><a href="mailto:info@sugoi-saiyo.co.id">info@logique.co.id</a></p>
-					</div>
-				</div>
-			</div>
-		</footer>
+		<?php include '../footer.php'; ?>
 		
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="/js/bootstrap.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
-		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<script type="text/javascript">			
 			$(function() {
 				$('.smooth').click(function() {
