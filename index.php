@@ -217,7 +217,7 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 								</div>
 								<div class="row">
 									<div class="col-md-10 col-md-offset-1 text-center">
-									Dengan <b>pengalaman selama 7 tahun</b>, <b>LOGIQUE</b> telah bekerjasama dengan banyak klien baik dari dalam atau pun luar negri dalam pembuatan dan pengembangan Website, Aplikasi, dan Digital Marketing. Sesuai dengan tujuan kami, <b>LOGIQUE DIGITAL INDONESIA</b> berkomitmen untuk selalu memberikan solusi terbaik bagi kebutuhan para klien kami. Mulai dari pengembangan Aplikasi Mobile, pengembangan E-Commerce, sistem manajemen lelang mobil/ motor, sistem manajemen pelanggan, dan masih banyak lagi.
+									Dengan <b>pengalaman selama 7 tahun</b>, <b>LOGIQUE</b> telah bekerjasama dengan banyak klien baik dari dalam atau pun luar negeri dalam pembuatan dan pengembangan Website, Aplikasi, dan Digital Marketing. Sesuai dengan tujuan kami, <b>LOGIQUE DIGITAL INDONESIA</b> berkomitmen untuk selalu memberikan solusi terbaik bagi kebutuhan para klien kami. Mulai dari pengembangan Aplikasi Mobile, pengembangan E-Commerce, sistem manajemen lelang mobil/ motor, sistem manajemen pelanggan, dan masih banyak lagi.
 										<br><br><br>
 										<div class="row">
 											<div class="col-md-3">
@@ -349,7 +349,7 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 								</div>
 								<div class="row">
 									<div class="col-md-10 col-md-offset-1 text-center">
-									Dengan <b>pengalaman selama 7 tahun</b>, <b>LOGIQUE</b> telah bekerjasama dengan banyak klien baik dari dalam atau pun luar negri dalam pembuatan dan pengembangan Website, Aplikasi, dan Digital Marketing. Sesuai dengan tujuan kami, <b>LOGIQUE DIGITAL INDONESIA</b> berkomitmen untuk selalu memberikan solusi terbaik bagi kebutuhan para klien kami. Mulai dari pengembangan Aplikasi Mobile, pengembangan E-Commerce, sistem manajemen lelang mobil/ motor, sistem manajemen pelanggan, dan masih banyak lagi.
+									Dengan <b>pengalaman selama 7 tahun</b>, <b>LOGIQUE</b> telah bekerjasama dengan banyak klien baik dari dalam atau pun luar negeri dalam pembuatan dan pengembangan Website, Aplikasi, dan Digital Marketing. Sesuai dengan tujuan kami, <b>LOGIQUE DIGITAL INDONESIA</b> berkomitmen untuk selalu memberikan solusi terbaik bagi kebutuhan para klien kami. Mulai dari pengembangan Aplikasi Mobile, pengembangan E-Commerce, sistem manajemen lelang mobil/ motor, sistem manajemen pelanggan, dan masih banyak lagi.
 										<br><br><br>
 										<div class="row">
 											<div class="col-md-3">

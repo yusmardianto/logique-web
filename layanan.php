@@ -126,7 +126,7 @@
 						<p class="p-padding-v-15">
 							Saat ini semua sudah sangat bergantung pada internet dan IT, LOGIQUE Digital Indonesia hadir membantu di bidang Internet dan IT untuk memudahkan klien dalam mengatur bisnis mereka. 
 							Kami memberikan layanan berkualitas tinggi dengan standar internasional untuk memenuhi harapan serta kebutuhan bisnis klien. 
-							Kami menyediakan berbagai layanan terkait pembuatan website seperti : web design & development, SEO, digital marketing, dan lain-lain.
+							Kami menyediakan berbagai layanan terkait pembuatan website seperti: web design & development, SEO, digital marketing, dan lain-lain.
 						</p>
 					</div>
 			        <div class="banner-services">
@@ -134,9 +134,9 @@
 			        </div>
 			        <div class="form-container">
 			        	<p class="p-padding-v-15">
-			        		Dan jika Anda khawatir data penting Anda dicuri atau website Anda diretas, maka kami menawarkan solusinya dengan memberikan layanan penetration testing dan vulnerability assessment untuk Anda. LOGIQUE akan membantu Anda untuk mengurangi resiko serangan bahkan menghilangkannya dengan selalu memonitor sistem keamanan Anda.
+			        		Jika Anda khawatir data penting Anda dicuri atau website Anda diretas, kami menawarkan solusinya dengan memberikan layanan penetration testing dan vulnerability assessment untuk Anda. LOGIQUE akan membantu Anda untuk mengurangi resiko serangan bahkan menghilangkannya dengan selalu memonitor sistem keamanan Anda.
 			        		Sebagai perusahaan web developer Indonesia dengan reputasi yang baik, LOGIQUE juga dapat membantu pembuatan sistem website mulai dari E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS. Dengan pengalaman kami selama 7 tahun, serta didukung oleh tim yang sangat kompeten di bidangnya, kami mampu memberikan solusi terbaik untuk perkembangan bisnis Anda.
-			        		LOGIQUE menyediakan layanan berkualitas tinggi dengan standar global, dan karena konsistensi yang yang kami miliki, membuat kami dipercaya oleh berbagai perusahaan besar yang berasal dari Indonesia hingga beberapa negara di Asia Tenggara, terutama Jepang. Optimalkan bisnis Anda sekarang juga!
+			        		LOGIQUE menyediakan layanan berkualitas tinggi dengan standar global, dan karena konsistensi yang kami miliki, membuat kami dipercaya oleh berbagai perusahaan besar yang berasal dari Indonesia hingga beberapa negara di Asia Tenggara, terutama Jepang. Optimalkan bisnis Anda sekarang juga!
 			        	</p>
 			        </div>
 					<div class="feel-free row-center-sm">
