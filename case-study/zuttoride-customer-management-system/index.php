@@ -219,11 +219,11 @@
           <p class="cs-desc">
           LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. <br/>
           </p>
-          <a href="/en/contact.php" class="btn btn-cs-bottom">Kontak LOGIQUE</a>
-          <a href="/en/services.php" class="btn btn-cs-bottom">Layanan LOGIQUE</a>
-          <a href="/en/portfolio.php" class="btn btn-cs-bottom">Portfolio</a>
-          <a href="/en/services/mekanisme-pembuatan-website/" class="btn btn-cs-bottom">Ingin buat Website?</a>
-          <a href="/en/services/pembuatan-sistem-web/" class="btn btn-cs-bottom">Ingin buat Web System?</a>
+          <a href="/hubungi-kami.php" class="btn btn-cs-bottom">Kontak LOGIQUE</a>
+          <a href="/layanan.php" class="btn btn-cs-bottom">Layanan LOGIQUE</a>
+          <a href="/portofolio.php" class="btn btn-cs-bottom">Portfolio</a>
+          <a href="/layanan/web-dev.php" class="btn btn-cs-bottom">Ingin buat Website?</a>
+          <a href="/layanan/pembuatan-sistem-web.php" class="btn btn-cs-bottom">Ingin buat Web System?</a>
         </section>
         <footer>
           <div class="container-fluid">
@@ -236,7 +236,7 @@
               </div>
               <div class="col-md-4">
                 <h2>Hubungi LOGIQUE</h2>
-                <a href="/en/contact.php" target="_blank"><img alt="Logo" src="../../../img/logo.png" class="logo"/></a> <br />
+                <a href="/hubungi-kami.php" target="_blank"><img alt="Logo" src="../../../img/logo.png" class="logo"/></a> <br />
                 Ad Premier Building 19th Floor. <br/>
                 Jalan Tb. Simatupang No. 5 <br/>
                 Ragunan, Ps. Minggu, <br/>
