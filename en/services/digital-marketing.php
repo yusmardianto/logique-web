@@ -53,7 +53,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/en/about.php">
+							<a href="/en/logique.php">
 								<div class="img-about"></div>
 								About Us
 							</a>

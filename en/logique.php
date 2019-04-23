@@ -10,7 +10,7 @@
     <meta property="og:title" content="Web Developer, Mobile App, Digital Marketing Jakarta | LOGIQUE DIGITAL INDONESIA">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
-  <meta property="og:url" content="https://www.logique.co.id/en/about.php">
+  <meta property="og:url" content="https://www.logique.co.id/en/logique.php">
   <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
   <meta property="og:description" content="LOGIQUE Digital Indonesia is a web developer company from Japan, has been trusted by local and international clients. The excellent Web Developer / Design, Mobile App, Digital Marketing in Jakarta. Our experienced team provides you the best solution to grow your business. Contact us now.">
   <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
@@ -44,7 +44,7 @@
               </a>
             </div>
             <div class="text-center active">
-              <a href="about.php">
+              <a href="logique.php">
                 <div class="img-about"></div>
                 About Us
               </a>
@@ -104,8 +104,8 @@
             <div class="lang-logo">
               <ul class="list-inline">
                 <li class="active"><a href="#">EN</a></li>
-                <li><a href="../tentang-kami.php">ID</a></li>
-                <li><a href="../jp/about.php">JP</a></li>
+                <li><a href="../logique.php">ID</a></li>
+                <li><a href="../jp/logique.php">JP</a></li>
               </ul>
               <a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
               <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">

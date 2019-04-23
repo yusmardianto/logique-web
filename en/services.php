@@ -44,7 +44,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="about.php">
+							<a href="logique.php">
 								<div class="img-about"></div>
 								About Us
 							</a>
@@ -151,10 +151,10 @@
 						<br/>
 						<div class="row">
 							<div class="col-sm-6">
-								<a href="/en/services/mekanisme-pembuatan-website/" target="_blank"><img src="/img/banner1-eng.jpg" alt="Mekanisme Pembuatan Website" style="width:100%"/></a>
+								<a href="/en/services/web-dev.php" target="_blank"><img src="/img/banner1-eng.jpg" alt="Web Dev" style="width:100%"/></a>
 							</div>
 							<div class="col-sm-6">
-								<a href="/en/services/pembuatan-sistem-web/" target="_blank"><img src="/img/banner2-en.png" alt="Pembuatan Sistem Website" style="width:100%"/></a>
+								<a href="/en/services/system-dev.php" target="_blank"><img src="/img/banner2-en.png" alt="System Dev" style="width:100%"/></a>
 							</div>
 						</div>
 						<br/>
@@ -202,7 +202,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Recruitment Website Creation</b><br/>
 										We realize that many companies have difficulty in getting employees with the needs of your company. LOGIQUE provides solutions for making career websites that can be the key to the success of your company's recruitment activities. Through career websites, you can provide a variety of information with clear messages, such as the latest job vacancies, work atmosphere, and the benefits of prospective candidates if you work in your company.
-										<br><a target="_blank" href="/en/services/pembuatan-website-karir-perusahaan/" class="btn btn-service-link wrap-link">See more details about Recruitment Web Dev Service</a>
+										<br><a target="_blank" href="/en/services/recruitment-web-dev.php" class="btn btn-service-link wrap-link">See more details about Recruitment Web Dev Service</a>
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
@@ -301,7 +301,7 @@
                     We provide comprehensive mobile app development services for you. Not only plannig and consulting about implementation of the latest technology,
                     LOGIQUE also optimizes UI and UX, design, application development, and even help you register applications onto the App Store / Google Play. Get in touch with our team to discuss mobile app development (iOS / Android / Hybrid / PWA).
 										<br/>
-										<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/" class="btn btn-service-link wrap-link">See Further Info about Mobile App Dev</a>
+										<a target="_blank" href="/en/services/mobile-app-dev.php" class="btn btn-service-link wrap-link">See Further Info about Mobile App Dev</a>
 									</li>
 								</ol>
 							  </div>
@@ -365,7 +365,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>WEB Security Assesment (Vulnerability Scanning / Test)</b><br/>
 										We do penetration test and report the vulnerability of your Website / Web-application. You can prevent your Website / Web-application from being attacked by SQL injection, cross-site scripting, session-jacking, etc. At least you can minimize the risk of Web security. Our experts conduct the security assessment in reasonable price so that you don't need to hesitate to do pen-test for your Web assets.
-										<br><a target="_blank" href="/en/services/penetration-testing/" class="btn btn-service-link wrap-link">See more about Web Security Test</a>
+										<br><a target="_blank" href="/en/services/penetration-test.php" class="btn btn-service-link wrap-link">See more about Web Security Test</a>
 									</li>
 								</ol>
 							  </div>

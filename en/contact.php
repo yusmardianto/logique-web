@@ -80,7 +80,7 @@ if(isset($_POST['submitted']))
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="about.php">
+							<a href="logique.php">
 								<div class="img-about"></div>
 								About Us
 							</a>
@@ -299,7 +299,7 @@ if(isset($_POST['submitted']))
 								<a target="_blank" href="services.php" class="btn btn-hubungi btn-block">LOGIQUE Services</a>
 							</div>
 							<div class="col-md-4">
-								<a target="_blank" href="about.php" class="btn btn-hubungi btn-block">About LOGIQUE</a>
+								<a target="_blank" href="logique.php" class="btn btn-hubungi btn-block">About LOGIQUE</a>
 							</div>
 							<div class="col-md-4">
 								<a target="_blank" href="/career/" class="btn btn-hubungi btn-block">LOGIQUE Career</a>
