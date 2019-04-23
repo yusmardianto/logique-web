@@ -107,7 +107,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="/tentang-kami.php">
+								<a href="/logique.php">
 									<div class="img-about"></div>
 									Tentang Kami
 								</a>
@@ -877,7 +877,7 @@ if(isset($_POST['submitted']))
 			        <div class="col-sm-4 link-footer-nav">
 			          <ul>
 			            <li><a href="/index.php">Beranda</a></li>
-			            <li><a href="/tentang-kami.php">Tentang Kami</a> </li>
+			            <li><a href="/logique.php">Tentang Kami</a> </li>
 			            <li  class="have-submenu"><a href="/layanan.php">Layanan</a>
 			              <ul>
 			                <li class="have-submenu"><a href="/layanan/web-dev.php" target="_blank">Jasa Pembuatan Website</a>

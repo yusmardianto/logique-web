@@ -10,7 +10,7 @@
     <meta property="og:title" content="Web Developer, Designer, Digital Marketing Jakarta Terbaik | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
-  <meta property="og:url" content="https://www.logique.co.id/about.php">
+  <meta property="og:url" content="https://www.logique.co.id/logique.php">
   <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
   <meta property="og:description" content="LOGIQUE Digital Indonesia, perusahaan Web Developer, Designer, dan Digital Marketing di Jakarta yang berikan solusi terbaik untuk bisnis seperti pengembangan website, web sistem, dan mobile app.">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -102,9 +102,9 @@
           <div class="col-sm-offset-1 col-sm-10">
             <div class="lang-logo">
               <ul class="list-inline">
-                <li><a href="en/about.php">EN</a></li>
+                <li><a href="/en/logique.php">EN</a></li>
                 <li class="active"><a href="#">ID</a></li>
-                <li><a href="jp/about.php">JP</a></li>
+                <li><a href="/jp/logique.php">JP</a></li>
               </ul>
               <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo"/></a>
               <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">

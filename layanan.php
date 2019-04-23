@@ -43,7 +43,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="tentang-kami.php">
+							<a href="logique.php">
 								<div class="img-about"></div>
 								Tentang Kami
 							</a>
@@ -152,10 +152,10 @@
 						<br/>
 						<div class="row">
 							<div class="col-sm-6">
-								<a href="/layanan/mekanisme-pembuatan-website/" target="_blank"><img src="/img/banner1.jpg" alt="Mekanisme Pembuatan Website" style="width:100%"/></a>
+								<a href="/layanan/web-dev.php" target="_blank"><img src="/img/banner1.jpg" alt="Mekanisme Pembuatan Website" style="width:100%"/></a>
 							</div>
 							<div class="col-sm-6">
-								<a href="/layanan/pembuatan-sistem-web/" target="_blank"><img src="/img/banner2.jpg" alt="Pembuatan Sistem Website" style="width:100%"/></a>
+								<a href="/layanan/pembuatan-sistem-web.php" target="_blank"><img src="/img/banner2.jpg" alt="Pembuatan Sistem Website" style="width:100%"/></a>
 							</div>
 						</div>
 						<br/>
@@ -205,7 +205,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Karir</b><br/>
 										Logique menyadari banyak perusahaan mengalami kesulitan untuk mendapatkan karyawan dengan kriteria yang sesuai dengan kebutuhan perusahaan. LOGIQUE memberikan solusi pembuatan website karir yang dapat menjadi kunci kesuksesan dari proses rekrutmen perusahaan Anda. Melalui website karir, Anda dapat memberikan beragam informasi dengan jelas seperti lowongan kerja terbaru, suasana kerja, serta keuntungan yang didapat oleh calon kandidat jika bekerja di perusahaan Anda. Kami telah memiliki banyak pengalaman dalam pembuatan website karir untuk membantu proses rekrutmen karyawan di berbagai perusahaan klien kami.
-										<br><a target="_blank" href="layanan/pembuatan-website-karir-perusahaan/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
+										<br><a target="_blank" href="/layanan/pembuatan-web-karir.php" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
@@ -225,12 +225,12 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Restoran</b><br/>
 										Website restoran dapat membantu secara efektif dalam penyampaian berbagai informasi terbaru mengenai restoran yang Anda kelola. Informasi tersebut mencakup menu restoran, harga, reservasi, jam operasional, event, lokasi, kontak, promo dan info lainnya. Dengan adanya website, maka Anda dapat mempromosikan restoran Anda tanpa henti setiap hari.
-										<br><a target="_blank" href="layanan/pembuatan-website-restoran/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
+										<br><a target="_blank" href="/layanan/pembuatan-website-restoran/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website Klinik Gigi</b><br/>
 										Website yang Anda buat dapat membantu meningkatkan kredibilitas klinik gigi yang Anda miliki. Tidak hanya itu saja, website juga akan membantu meningkatkan popularitas secara online dan juga memudahkan pelanggan untuk menggunakan layanan dari klinik Anda. Website yang Anda buat dapat menjadi media promosi yang baik dengan jangkauan yang lebih luas tanpa ada batasan waktu.
-										<br><a target="_blank" href="layanan/pembuatan-website-klinik-gigi/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
+										<br><a target="_blank" href="/layanan/pembuatan-web-klinik-gigi.php" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Website dengan Desain Responsif </b><br/>
@@ -337,7 +337,7 @@
 										Kami melayanai jasa pengembangan aplikasi Android/iOS yang sudah kami sesuaikan dengan pasar di Indonesia. 
 										Dalam proses pengembangannya, kami akan memberikan layanan yang komprehensif untuk Anda. 
 										Karena tidak hanya merancang dan mengimplementasikan teknologi terbaru, LOGIQUE juga mengoptimalkan UI dan UX, desain, pengembangan aplikasi, bahkan membantu Anda untuk mendaftarkan aplikasi yang Anda buat ke App Store / Google Play.
-										<br><a target="_blank" href="layanan/pembuatan-aplikasi-mobile/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
+										<br><a target="_blank" href="/layanan/pembuatan-aplikasi-mobile.php" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 								</ol>
 							  </div>
@@ -380,7 +380,7 @@
 										Hubungi kami untuk mengetahui lebih lanjut tentang layanan ini.
 									</li>
 								</ol>
-								<div class="text-center"><a target="_blank" href="layanan/digital-marketing.php" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a></div>
+								<div class="text-center"><a target="_blank" href="/layanan/digital-marketing.php" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a></div>
 							  </div>
 							</div>
 						  </div>
@@ -417,7 +417,7 @@
 										Hal ini perlu untuk Anda lakukan untuk menghindari tindak kejahatan digital yang dapat  membahayakan bisnis Anda, seperti injeksi SQL, cross-site scripting, session jacking, dan lain-lain. 
 										Tim ahli cyber security kami akan melakukan injection test dengan alat canggih untuk menganalisis dan melaporkannya. 
 										Dari laporan tersebut, kami akan melakukan sebuah tindakan untuk memperbaiki celah dan meningkatkan keamanan web Anda.
-										<br><a target="_blank" href="layanan/penetration-testing/" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
+										<br><a target="_blank" href="/layanan/penetration-test.php" class="btn btn-service-link">Lihat Informasi Lebih lanjut</a>
 									</li>
 								</ol>
 							  </div>

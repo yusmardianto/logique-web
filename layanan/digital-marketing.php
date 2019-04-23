@@ -53,7 +53,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/tentang-kami.php">
+							<a href="/logique.php">
 								<div class="img-about"></div>
 								Tentang Kami
 							</a>
@@ -440,9 +440,9 @@
 						<a href="/hubungi-kami.php" target="_blank"><img alt="Form" src="assets/img/img-digital-marketing/form-footer.png" class="img-responsive center-block"/></a>
 						<br/>
 						Layanan Kami lainnya:<br/>
-						<a target="_blank" href="/layanan/pembuatan-website-karir-perusahaan/">Pembuatan Website Karir Perusahaan</a>
+						<a target="_blank" href="/layanan/pembuatan-web-karir.php">Pembuatan Website Karir Perusahaan</a>
 						<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-						<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/">Pembuatan Aplikasi Mobile</a>
+						<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile.php">Pembuatan Aplikasi Mobile</a>
 					</div>
 				</div>
 			</div>
