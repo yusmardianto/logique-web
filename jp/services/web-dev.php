@@ -84,7 +84,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="/jp/about.php">
+								<a href="/jp/logique.php">
 									<div class="img-about"></div>
 									会社概要
 								</a>
@@ -540,7 +540,7 @@ if(isset($_POST['submitted']))
 						<h2 class="custom-3">モバイル(スマホ)アプリケーション開発</h2>
 						<p class="min-h">スマホやタブレットで動くモバイルアプリケーションの開発も行っています。Androidアプリ、iOSアプリ、ハイブリッドアプリの開発が可能です。PWAやAMP制作などモバイル関連ソリューションは数多く経験してますので幅広いサポートができます。APIの開発、AWSなどインフラ構築などと合わせてワンストップでご支援し保守性の高いアプリを開発します。</p>
 						<div>
-							<a href="/jp/services/pembuatan-aplikasi-mobile/" target="_blank" class="btn btn-logic btn-md">モバイルアプリ開発について詳しくみる</a>
+							<a href="/jp/services/mobile-app-dev.php" target="_blank" class="btn btn-logic btn-md">モバイルアプリ開発について詳しくみる</a>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -548,14 +548,14 @@ if(isset($_POST['submitted']))
 						<h2 class="custom-3">HR関連ソリューション</h2>
 						<p class="min-h">人事採用関連のソリューションを提供しています。応募者を増やすためブランディングのため採用サイトの制作運用をご支援しています。また、当社独自プロダクトとして採用活動管理システム、日報管理システム、生産性向上のための勤務状況管理＆テレワーク管理システムをご提供しています。</p>
 						<div>
-							<a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank"  class="btn btn-logic btn-md">HR関連プロダクトついて詳しくみる</a>
+							<a href="/jp/services/recruitment-web-dev.php" target="_blank"  class="btn btn-logic btn-md">HR関連プロダクトついて詳しくみる</a>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<h2 class="custom-3">Webセキュリティ脆弱性検査</h2>
 						<p class="min-h">Webサイトにセキュリティホールがないか、脆弱性について確認する検査を実施します。乗っ取りや改竄などに対する脆弱性を確認し、問題点とリスクを明らかにします。静的なホームページの場合には15ジュタの簡易診断もご用意しています。</p>
 						<div>
-							<a href="/jp/services/penetration-testing/" target="_blank"  class="btn btn-logic btn-md">Webサイトのセキュリティテスト</a>
+							<a href="/jp/services/penetration-test.php" target="_blank"  class="btn btn-logic btn-md">Webサイトのセキュリティテスト</a>
 						</div>
 					</div>
 				</div>
@@ -609,7 +609,7 @@ if(isset($_POST['submitted']))
 							<div class="col-xs-6">
 								<div class="link-footer-webdev">
 									<a href="/jp/index.php" target="_blank">Home</a>
-									<a href="/jp/about.php" target="_blank">会社概要</a>
+									<a href="/jp/logique.php" target="_blank">会社概要</a>
 									<a href="/jp/portfolio.php" target="_blank">制作実績</a>
 									<a href="/jp/services.php" target="_blank">サービス</a>
 								</div>

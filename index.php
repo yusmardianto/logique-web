@@ -74,7 +74,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="tentang-kami.php">
+							<a href="logique.php">
 								<div class="img-about"></div>
 								Tentang Kami
 							</a>
@@ -152,25 +152,25 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 											<div class="col-lg-offset-1 col-lg-10">
 												<div class="row">
 												<div class="col-md-3 col-sm-6">
-													<a href="/layanan/mekanisme-pembuatan-website/" class="div-service-cat">
+													<a href="/layanan/web-dev.php" class="div-service-cat">
 														<img src="img/top/i-top1.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
 														<h2>Jasa Pembuatan <br/>Website</h2>
 													</a>
 												</div>
 												<div class="col-md-3 col-sm-6">
-													<a href="/layanan/pembuatan-aplikasi-mobile/" class="div-service-cat">
+													<a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
 														<img src="img/top/i-top2.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
 														<h2>Jasa Pembuatan <br/>Aplikasi</h2>
 													</a>
 												</div>
 												<div class="col-md-3 col-sm-6">
-													<a href="/layanan/pembuatan-sistem-web/" class="div-service-cat">
+													<a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
 														<img src="img/top/i-top3.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
 														<h2>Jasa Pembuatan<br/>Sistem Web</h2>
 													</a>
 												</div>
 												<div class="col-md-3 col-sm-6">
-													<a href="/layanan/penetration-testing/" class="div-service-cat">
+													<a href="/layanan/penetration-test.php" class="div-service-cat">
 														<img src="img/top/i-top4.png" alt="Jasa Penetration Testing" class="center-block img-responsive"/>
 														<h2>Jasa Penetration<br/>Testing</h2>
 													</a>
@@ -204,7 +204,7 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 												<a href="/produk/nippo.php" class="flipp"><img src="img/top/i-nippo.png" alt="nippo"></a>
 											</div>
 											<div class="col-md-3">
-												<a href="/layanan/pembuatan-website-karir-perusahaan/" class="flipp"><img src="img/top/i-hr-site.png" alt="hr site"></a>
+												<a href="/layanan/pembuatan-web-karir.php" class="flipp"><img src="img/top/i-hr-site.png" alt="hr site"></a>
 											</div>
 										</div>
 										</div>
@@ -217,7 +217,7 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 								</div>
 								<div class="row">
 									<div class="col-md-10 col-md-offset-1 text-center">
-									Dengan <b>pengalaman selama 7 tahun</b>, <b>LOGIQUE</b> telah bekerjasama dengan banyak klien baik dari dalam atau pun luar negri dalam pembuatan dan pengembangan Website, Aplikasi, dan Digital Marketing. Sesuai dengan tujuan kami, <b>LOGIQUE DIGITAL INDONESIA</b> berkomitmen untuk selalu memberikan solusi terbaik bagi kebutuhan para klien kami. Mulai dari pengembangan Aplikasi Mobile, pengembangan E-Commerce, sistem manajemen lelang mobil/ motor, sistem manajemen pelanggan, dan masih banyak lagi.
+									Dengan <b>pengalaman selama 7 tahun</b>, <b>LOGIQUE</b> telah bekerjasama dengan banyak klien baik dari dalam atau pun luar negeri dalam pembuatan dan pengembangan Website, Aplikasi, dan Digital Marketing. Sesuai dengan tujuan kami, <b>LOGIQUE DIGITAL INDONESIA</b> berkomitmen untuk selalu memberikan solusi terbaik bagi kebutuhan para klien kami. Mulai dari pengembangan Aplikasi Mobile, pengembangan E-Commerce, sistem manajemen lelang mobil/ motor, sistem manajemen pelanggan, dan masih banyak lagi.
 										<br><br><br>
 										<div class="row">
 											<div class="col-md-3">
@@ -284,25 +284,25 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 										<div class="col-md-10 col-md-offset-1">
 											<div class="row">
 												<div class="col-md-3 col-sm-6">
-													<a href="/layanan/mekanisme-pembuatan-website/" class="div-service-cat">
+													<a href="/layanan/web-dev.php" class="div-service-cat">
 														<img src="img/top/i-top1.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
 														<h2>Jasa Pembuatan <br/>Website</h2>
 													</a>
 												</div>
 												<div class="col-md-3 col-sm-6">
-													<a href="/layanan/pembuatan-aplikasi-mobile/" class="div-service-cat">
+													<a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
 														<img src="img/top/i-top2.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
 														<h2>Jasa Pembuatan <br/>Aplikasi</h2>
 													</a>
 												</div>
 												<div class="col-md-3 col-sm-6">
-													<a href="/layanan/pembuatan-sistem-web/" class="div-service-cat">
+													<a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
 														<img src="img/top/i-top3.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
 														<h2>Jasa Pembuatan<br/>Sistem Web</h2>
 													</a>
 												</div>
 												<div class="col-md-3 col-sm-6">
-													<a href="/layanan/penetration-testing/" class="div-service-cat">
+													<a href="/layanan/penetration-test.php" class="div-service-cat">
 														<img src="img/top/i-top4.png" alt="Jasa Penetration Testing" class="center-block img-responsive"/>
 														<h2>Jasa Penetration<br/>Testing</h2>
 													</a>
@@ -336,7 +336,7 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 											<a href="/produk/nippo.php" class="flipp"><img src="img/top/i-nippo.png" alt="nippo"></a>
 										</div>
 										<div class="col-md-3">
-											<a href="/layanan/pembuatan-website-karir-perusahaan/" class="flipp"><img src="img/top/i-hr-site.png" alt="hr site"></a>
+											<a href="/layanan/pembuatan-web-karir.php" class="flipp"><img src="img/top/i-hr-site.png" alt="hr site"></a>
 										</div>
 									</div>
 									</div>
@@ -349,7 +349,7 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 								</div>
 								<div class="row">
 									<div class="col-md-10 col-md-offset-1 text-center">
-									Dengan <b>pengalaman selama 7 tahun</b>, <b>LOGIQUE</b> telah bekerjasama dengan banyak klien baik dari dalam atau pun luar negri dalam pembuatan dan pengembangan Website, Aplikasi, dan Digital Marketing. Sesuai dengan tujuan kami, <b>LOGIQUE DIGITAL INDONESIA</b> berkomitmen untuk selalu memberikan solusi terbaik bagi kebutuhan para klien kami. Mulai dari pengembangan Aplikasi Mobile, pengembangan E-Commerce, sistem manajemen lelang mobil/ motor, sistem manajemen pelanggan, dan masih banyak lagi.
+									Dengan <b>pengalaman selama 7 tahun</b>, <b>LOGIQUE</b> telah bekerjasama dengan banyak klien baik dari dalam atau pun luar negeri dalam pembuatan dan pengembangan Website, Aplikasi, dan Digital Marketing. Sesuai dengan tujuan kami, <b>LOGIQUE DIGITAL INDONESIA</b> berkomitmen untuk selalu memberikan solusi terbaik bagi kebutuhan para klien kami. Mulai dari pengembangan Aplikasi Mobile, pengembangan E-Commerce, sistem manajemen lelang mobil/ motor, sistem manajemen pelanggan, dan masih banyak lagi.
 										<br><br><br>
 										<div class="row">
 											<div class="col-md-3">

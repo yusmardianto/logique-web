@@ -83,7 +83,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="/jp/about.php">
+								<a href="/jp/logique.php">
 									<div class="img-about"></div>
 									会社概要
 								</a>
@@ -620,7 +620,7 @@ if(isset($_POST['submitted']))
 							<div class="col-xs-6">
 								<div class="link-footer-webdev">
 									<a href="/jp/index.php" target="_blank">Home</a>
-									<a href="/jp/about.php" target="_blank">会社概要</a>
+									<a href="/jp/logique.php" target="_blank">会社概要</a>
 									<a href="/jp/portfolio.php" target="_blank">制作実績</a>
 									<a href="/jp/services.php" target="_blank">サービス</a>
 								</div>

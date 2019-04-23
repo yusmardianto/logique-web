@@ -28,7 +28,7 @@ twq('track','PageView');
 					<div class="col-sm-4 link-footer-nav">
 						<ul>
 							<li><a href="/index.php">Beranda</a></li>
-							<li><a href="/tentang-kami.php">Tentang Kami</a> </li>
+							<li><a href="/logique.php">Tentang Kami</a> </li>
 							<li  class="have-submenu"><a href="/layanan.php">Layanan</a>
 								<ul>
 									<li class="have-submenu"><a href="/layanan/web-dev.php" target="_blank">Jasa Pembuatan Website</a>
@@ -76,7 +76,7 @@ twq('track','PageView');
 							 
 					</div>
 					<div class="col-sm-4 link-footer">
-						 <p >Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/mekanisme-pembuatan-website/" target="_blank"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>				 
+						 <p >Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/web-dev.php" target="_blank"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>				 
 					</div>
 				</div>
  

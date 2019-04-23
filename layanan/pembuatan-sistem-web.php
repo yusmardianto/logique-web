@@ -47,7 +47,7 @@ if(isset($_POST['submitted']))
 	<meta property="og:title" content="Jasa Pembuatan Sistem Web | Pengembangan Sistem Web | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-sistem-web/">
+	<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-sistem-web.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="LOGIQUE menyediakan layanan jasa pembuatan sistem web dengan teknologi terkini, perencanaan infrastruktur, sistem keamanan, dan kecepatan. Dalam pembuatan dan pengembangan sistem web ini, kami terus meningkatkan dan mengembangkan hasil yang didapat. Segera hubungi LOGIQUE.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -89,7 +89,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="/tentang-kami.php">
+								<a href="/logique.php">
 									<div class="img-about"></div>
 									Tentang Kami
 								</a>
@@ -782,7 +782,7 @@ if(isset($_POST['submitted']))
 							<div class="col-xs-6">
 								<div class="link-footer-webdev">
 									<a href="/index.php" target="_blank">Beranda</a>
-									<a href="/tentang-kami.php" target="_blank">Tentang Kami</a>
+									<a href="/logique.php" target="_blank">Tentang Kami</a>
 									<a href="/portofolio.php" target="_blank">Portofolio</a>
 									<a href="/layanan.php" target="_blank">Layanan</a>
 								</div>

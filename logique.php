@@ -10,7 +10,7 @@
     <meta property="og:title" content="Web Developer, Designer, Digital Marketing Jakarta Terbaik | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
-  <meta property="og:url" content="https://www.logique.co.id/about.php">
+  <meta property="og:url" content="https://www.logique.co.id/logique.php">
   <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
   <meta property="og:description" content="LOGIQUE Digital Indonesia, perusahaan Web Developer, Designer, dan Digital Marketing di Jakarta yang berikan solusi terbaik untuk bisnis seperti pengembangan website, web sistem, dan mobile app.">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -102,9 +102,9 @@
           <div class="col-sm-offset-1 col-sm-10">
             <div class="lang-logo">
               <ul class="list-inline">
-                <li><a href="en/about.php">EN</a></li>
+                <li><a href="/en/logique.php">EN</a></li>
                 <li class="active"><a href="#">ID</a></li>
-                <li><a href="jp/about.php">JP</a></li>
+                <li><a href="/jp/logique.php">JP</a></li>
               </ul>
               <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo"/></a>
               <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
@@ -163,15 +163,15 @@
               Sebagai perusahaan yang menaruh perhatian khusus kepada klien, kami sangat terbuka untuk melayani konsultasi IT kepada klien yang percaya dengan kemampuan digital marketing. Kontribusi kami dalam dunia digital dan pengembangan IT adalah dengan menyediakan berbagai layanan yang terkait dengan web seperti web & system development, SEO, mobile app development (Android and iOS), dan digital marketing untuk membantu merealisasikan serta mengembangkan bisnis Anda di segala lini.
             </p>
             <p class="p-padding-15">
-              Dengan pengalaman lebih dari 7 tahun di Indonesia, kami dapat memecahkan masalah yang pada umumnya terjadi di Indonesia. Kami dapat menghasilkan hasil kerja yang berkualitas yang tinggi dengan standardisasi global karena kami memiliki berbagai pengalaman dalam berbisnis dengan perusahaan internasional. Mari lakukan konsultasi dengan kami, LOGIQUE dapat menjadi rekan kerja dan pakar digital untuk membantu meningkatkan bisnis Anda.
+              Dengan pengalaman lebih dari 7 tahun di Indonesia, kami dapat memecahkan masalah yang pada umumnya terjadi di Indonesia. Kami dapat menghasilkan hasil kerja yang berkualitas yang tinggi dengan standarisasi global karena kami memiliki berbagai pengalaman dalam berbisnis dengan perusahaan internasional. Mari lakukan konsultasi dengan kami, LOGIQUE dapat menjadi rekan kerja dan pakar digital untuk membantu meningkatkan bisnis Anda.
             </p>
             <span class="characteristic-title">Karakteristik <span class="yellow">LOGIQUE</span></span>
             <ul class="circle-list">
-              <li>LOGIQUE berfokus pada kecepatan dan sigap dalam menghadapi perubahan yang terjadi. Karena perkembangan yang cukup pesat pada saat ini, kecepatan merupakan hal yang cukup penting untuk menghasilkan perubahan yang signifikan di Indonesia.</li>
-              <li>LOGIQUE menyediakan layanan dengan hasil yang maksimal berdasarkan kebutuhan klien. Kami telah dipercaya oleh berbagai klien dari perusahaan besar karena banyaknya pengalaman dan layanan yang berkualitas tinggi dari LOGIQUE</li>
-              <li>Agar tetap terus berkembang, Logique selalu menerima tantangan dalam membuat teknologi dan sistem terbaru dengan berani menghadapi perubahan yang terjadi.</li>
+              <li>LOGIQUE berfokus pada kecepatan dan sigap dalam menghadapi perubahan yang terjadi karena perkembangan yang cukup pesat pada saat ini, kecepatan merupakan hal yang cukup penting untuk menghasilkan perubahan yang signifikan di Indonesia.</li>
+              <li>LOGIQUE menyediakan layanan dengan hasil yang maksimal berdasarkan kebutuhan klien. Kami telah dipercaya oleh berbagai klien dari perusahaan besar karena banyaknya pengalaman dan layanan yang berkualitas tinggi dari LOGIQUE.</li>
+              <li>Agar tetap terus berkembang, LOGIQUE selalu menerima tantangan dalam membuat teknologi dan sistem terbaru dengan berani menghadapi perubahan yang terjadi.</li>
               <li>LOGIQUE akan selalu meningkatkan pekerjaan dari segi hasil maupun kecepatan untuk kesuksesan bisnis klien, bahkan klien dapat meminta kami untuk bekerja dengan lebih cepat.</li>
-              <li>LOGIQUE adalah perusahaan web developer yang fleksibel dengan segala situasi. Kami dapat menjadi perusahaan pengembangan sistem terpercaya yang melindungi keamanan situs Anda. Untuk menyesuaikan ekspektasi Anda, kami dapat mengubah metode kerja yang kami terapkan ketika memberikan layanan yang bernilai tinggi kepada Anda. </li>
+              <li>LOGIQUE adalah perusahaan web developer yang fleksibel dalam segala situasi. Kami dapat menjadi perusahaan pengembangan sistem terpercaya yang melindungi keamanan situs Anda. Untuk menyesuaikan ekspektasi Anda, kami dapat mengubah metode kerja yang kami terapkan ketika memberikan layanan yang bernilai tinggi kepada Anda. </li>
             </ul>
           </div>
 
@@ -179,8 +179,8 @@
           <div class="form-container" style="background: #ffca13;  ">
             <div class="mission-content" style="border:1px solid #ffca13; padding:0px 30px 0px;">
               <ul>
-                <li>Mendukung berbagai perusahaan di Indonesia untuk berkembang dan meningkatkan bisnis mereka di bidang IT dan digital marketing dengan standar nilai yang tinggi dan memuaskan</li>
-                <li>Berkontribusi terhadap perkembangan web dan industri digital marketing di Indonesia dengan terus mengembangkan strategi baru dan solusi yang inovatif</li>
+                <li>Mendukung berbagai perusahaan di Indonesia untuk berkembang dan meningkatkan bisnis mereka di bidang IT dan digital marketing dengan standar nilai yang tinggi dan memuaskan.</li>
+                <li>Berkontribusi terhadap perkembangan web dan industri digital marketing di Indonesia dengan terus mengembangkan strategi baru dan solusi yang inovatif.</li>
                 <li>Memberikan kesempatan lebih dan peluang besar kepada para web developer di Indonesia dengan membantu mereka dalam mengembangkan dan memaksimalkan potensinya untuk masa depan yang lebih baik.</li>
               </ul>
             </div>
@@ -222,16 +222,16 @@
           <div class="form-container">
             <img src="img/yoshi.jpg" alt="Takashi Yoshitsugu" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
             <p>
-              Lahir di Tokyo, Jepang pada tahun 1976. Pada tahun 1999, ia lulus dari Departemen Teknik Sistem Manajemen, Waseda University di Tokyo.
+              Lahir di Tokyo, Jepang pada tahun 1976. Pada tahun 1999, Ia lulus dari Departemen Teknik Sistem Manajemen, Waseda University di Tokyo.
               Ia memiliki cukup banyak pengalaman dimulai dengan Japan Research Institute, Inc., perusahaan konsultan CRM, dll.
-              Hingga pada tahun 2005, ia mulai mendirikan bisnis e-commerce, perusahaan perdagangan impor, dan perusahaan konsultan sendiri di Jepang.
-              Ia telah mendirikan dan masih mengelola LOGIQUE di Indonesia sejak tahun 2012.
+              Hingga pada tahun 2005, Ia mulai mendirikan bisnis e-commerce, perusahaan perdagangan impor, dan perusahaan konsultan sendiri di Jepang.
+              Ia mendirikan dan mengelola LOGIQUE di Indonesia sejak tahun 2012.
             </p>
             <div style="background: #ececec; padding: 15px 20px; border-top: 2px solid #ffca13">
               <p>
                 Nama LOGIQUE berasal dari bahasa Indonesia yaitu “logika-ku”, yang artinya adalah “logika saya”.
                 Ide dibalik pemilihan nama itu adalah bahwa saya ingin mencapai tujuan kami dengan kuatnya keyakinan, kepercayaan, dan yang paling utama adalah logika kami.
-                Kami akan memaksimalkan manfaat serta kepuasan jangka menengah dan jangka panjang seluruh klien, rekan kerja, dan kami sendiri meskipun kami berada di Asia Tenggara, wilayah yang dinamis dan dapat berkembang setiap harinya.
+                Kami akan memaksimalkan manfaat serta kepuasan jangka menengah dan jangka panjang seluruh klien, rekan kerja, dan kami sendiri meskipun berada di Asia Tenggara, wilayah yang dinamis dan dapat berkembang setiap harinya.
               </p>
               <p>
                 Sejak tahun 2012, kami telah membimbing klien kami di bidang web, SI, dan digital marketing di Indonesia dengan memaksimalkan teknologi IT dan web.
@@ -242,7 +242,7 @@
                 Kami membuat sistem tersebut dengan maksud untuk membantu berbagai perusahaan di Indonesia.
               </p>
               <p>
-                Sekarang, kami akan berupaya untuk terus berkembang dengan bekerja lebih keras. Dengan melanjutkan bisnis ini, saya sangat senang jika bisnis kami dapat memberikan kontribusi untuk Indonesia, kepuasan klien kami, dan kesuksesan rekan kerja kami.
+                Sekarang, kami akan berupaya untuk terus berkembang dengan bekerja lebih keras. Dengan melanjutkan bisnis ini, saya sangat senang jika bisnis kami dapat memberikan kontribusi untuk Indonesia, kepuasan klien, dan kesuksesan rekan kerja kami.
               </p>
             </div>
           </div>

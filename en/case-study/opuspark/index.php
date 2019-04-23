@@ -74,7 +74,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/en/about.php">
+							<a href="/en/logique.php">
 								<div class="img-about"></div>
 								About Us
 							</a>
@@ -286,8 +286,8 @@
           <a href="/en/contact.php" class="btn btn-cs-bottom">Contact Us</a>
           <a href="/en/services.php" class="btn btn-cs-bottom">Our Services</a>
           <a href="/en/portfolio.php" class="btn btn-cs-bottom">Portfolio</a>
-          <a href="/en/services/mekanisme-pembuatan-website/" class="btn btn-cs-bottom">Web Development</a>
-          <a href="/en/services/pembuatan-sistem-web/" class="btn btn-cs-bottom">Web System Development</a>
+          <a href="/en/services/web-dev.php" class="btn btn-cs-bottom">Web Development</a>
+          <a href="/en/services/system-dev.php" class="btn btn-cs-bottom">Web System Development</a>
         </section>
         <footer>
           <div class="container-fluid">

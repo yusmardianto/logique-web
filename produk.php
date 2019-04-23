@@ -39,7 +39,7 @@
                             </a>
                         </div>
                         <div class="text-center">
-                            <a href="tentang-kami.php">
+                            <a href="logique.php">
                                 <div class="img-about"></div>
                                 Tentang Kami
                             </a>

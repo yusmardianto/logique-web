@@ -18,7 +18,7 @@ ga('send', 'pageview');
 					<div class="col-sm-4 link-footer-nav">
 						<ul>
 							<li><a href="/en/index.php">Home</a></li>
-							<li><a href="/en/about.php">About Us</a></li>
+							<li><a href="/en/logique.php">About Us</a></li>
 							
 							<li  class="have-submenu"><a href="/en/services.php">Service</a>
 								 <ul>

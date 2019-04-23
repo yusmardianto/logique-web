@@ -144,10 +144,10 @@
 						<br/>
 						<div class="row">
 							<div class="col-sm-6">
-								<a href="/jp/services/mekanisme-pembuatan-website/" target="_blank"><img src="/img/banner1-jpn.jpg" alt="Mekanisme Pembuatan Website" style="width:100%"/></a>
+								<a href="/jp/services/web-dev.php" target="_blank"><img src="/img/banner1-jpn.jpg" alt="Web Dev" style="width:100%"/></a>
 							</div>
 							<div class="col-sm-6">
-								<a href="/jp/services/pembuatan-sistem-web/" target="_blank"><img src="/img/banner2-jpn.jpg" alt="Pembuatan Sistem Website" style="width:100%"/></a>
+								<a href="/jp/services/system-dev.php" target="_blank"><img src="/img/banner2-jpn.jpg" alt="System Dev" style="width:100%"/></a>
 							</div>
 						</div>
 						<br/>
@@ -196,7 +196,7 @@
 										<i class="fa-li fa fa-caret-right"></i> <b>採用サイト制作</b><br/>
 										ジャカルタにて、ミスマッチングとならない良い人材の採用の難易度は非常に高くなっています。自社で採用サイトをもち、これを受け皿としてデジタルを活用した採用活動をすることが一つの解決策となります。会社について、人について、求めている人材について、インタビュー動画なども交えて伝えることで効果的な採用が可能となります。求人ページ・サイトと採用管理システムを連動させる案件の実績も豊富にもっています。
 										<br/>
-										<a target="_blank" href="/jp/services/pembuatan-website-karir-perusahaan/" class="btn btn-service-link">もっと見る</a>
+										<a target="_blank" href="/jp/services/recruitment-web-dev.php" class="btn btn-service-link">もっと見る</a>
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
@@ -287,7 +287,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>モバイルアプリケーション制作 </b><br/>
 										アンドロイドApp、iOSアプリをインドネシアマーケットに合わせて開発できます。 企画や技術だけでなく、企画をUI、UXに落とし込み、デザイン制作からアプリケーション開発までワンストップで行い、申請登録、運用までしっかりご支援します。PWA開発も豊富にあります。<br/>
-										<a target="_blank" href="/jp/services/pembuatan-aplikasi-mobile/" class="btn btn-service-link">モバイルApp開発についてもっとみる</a>
+										<a target="_blank" href="/jp/services/mobile-app-dev.php" class="btn btn-service-link">モバイルApp開発についてもっとみる</a>
 									</li>
 								</ol>
 							  </div>
@@ -351,7 +351,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Webセキュリティ診断（脆弱性診断・検査）</b><br/>
 										Webサイトやアプリケーションの脆弱性を診断・レポートします。SQLインジェクション、クロスサイトスクリプティング、セッションハイジャックなどの攻撃による被害の発生を未然に防ぐことができます。診断ツール、経験豊富な担当者による診断の両方を併用して診断します。診断項目などによりますが15,000,000 IDRから診断可能です。
-										<br><a target="_blank" href="/jp/services/penetration-testing/" class="btn btn-service-link">Webセキュリティ診断について詳しくみる</a>
+										<br><a target="_blank" href="/jp/services/penetration-test.php" class="btn btn-service-link">Webセキュリティ診断について詳しくみる</a>
 									</li>
 								</ol>
 							  </div>

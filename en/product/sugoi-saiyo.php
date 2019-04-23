@@ -88,7 +88,7 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/en/about.php">
+							<a href="/en/logique.php">
 								<div class="img-about"></div>
 								About Us
 							</a>
@@ -159,15 +159,15 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 				<h2>What is SUGOI SAIYO?</h2>
 				<p>SUGOI SAIYO is an IT Cloud system for <b>human resources</b> department in Indonesia in recruiting prospective employees. There are many obstacles they usually face in the HR selection process, such as filtering out too many CVs that do not meet the requirements, difficulty in communicating with applicants, applicants who bail on interview schedules, and many more. All of these can waste too much time and effort.</p>
 				<h3>SUGOI SAIYO is the solution of the problem.</h3>
-				<p>In addition to helping human resources department, SUGOI SAIYO is also useful for applicants. They can apply directly to certain positions and can easily find out the status of their application, starting from the testing stage, confirmation of the accepted status, up to the offering letter from the company submitted through the website.</p>
+				<p>In addition to help and reduce stress in human resources department, SUGOI SAIYO is also very convenient for the applicants. They can easily manage the entire process from application to status confirmation, test, up to the offering letter from the company through the designated MY PAGE feature.</p>
 			</div>
 		</section>
 		<section class="obstacle">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4 obstacle-title">
-						<h2>OBSTACLES COMPANIES OFTEN FACE IN RECRUITMENT PROCESS</h2>
-						<a href="#contact" class="smooth btn-ss">Try Sugoi Saiyo</a>
+						<h2>Recruitment Challenges in Indonesia / Challenges for Recruiters</h2>
+						<a href="#contact" class="smooth btn-ss">Start Your Trial Now</a>
 					</div>
 					<div class="col-md-8">
 						<div class="row">
@@ -438,30 +438,61 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 				</div>
 				<div class="row m-50">
 					<div class="col-sm-6">
-						<h3>How does SUGOI SAIYO work?</h3>
-						<p>SUGOI SAIYO brings recruitment teams with the right targeted candidates together by providing a simple and manageable recruitment process by both parties.</p>
-						<h3>How does the recruitment team know if a candidate submits an application?</h3>
-						<p>Human resources staff will be notified via email. The email will mention the names of candidates and HR staff can directly check the details of his data.</p>
-						<h3>Is there a limit on the number of vacancies that can be posted by the recruitment team at SUGOI SAIYO?</h3>
-						<p>Of course not! Human resources staff can list available vacancy positions as many as possible.</p>
-						<h3>Is SUGOI SAIYO only for the company’s HR department?</h3>
-						<p>SUGOI SAIYO provides different management pages for human resources department level (recruitment team) and manager level (person in charge).</p>
-						<h3>What’s the difference between managing pages for recruitment teams with managers?</h3>
-						<p>Managers page for manager level only shows the results of technical test, interview schedule, and interview report.</p>
-						<h3>What is the standard of recruitment stages adopted by SUGOI SAIYO?</h3>
-						<p>SUGOI SAIYO adopts standard HR selection in general. However, the standard of this stage can be modified and adjusted to your request.</p>
+						<h3>Q. Is Sugoi Saiyo a cloud system?</h3>
+						<p>
+							Sugoi Saiyo runs on our managed cloud server. There is no need to prepare any kind of server. You can start using it immediately after your contract.
+							<br>
+							However, you can install and use it on your managed server. Please feel free to contact us for further information.
+						</p>
+						<h3>Q. Are there any restrictions for user to access?</h3>
+						<p>
+							You can use a browser. If you use the latest version of main browser such as Chrome, Firefox, Safari, Edge, you can use without any problem.
+						</p>
+						<h3>Q. How much is it? Is it possible to purchase a single system or a batch system?</h3>
+						<p>
+							Basically, we will charge you a monthly fee with no initial cost. However, you can customize the complete system and deliver it to your company server.
+							<br>
+							Please contact us as it is possible to make a batch request.
+						</p>
+						<h3>Q. Is there any limited period of time to use?</h3>
+						<p>
+							There is no time restriction at present. If you use it without customization, you can use it for only one month
+						</p>
+						<h3>Q. Who is your main target company?</h3>
+						<p>
+							We think that it can be used by various companies, but it will be more effective for company that recruit more than a 2 or 3 people a month. 
+							SugoiSaiyo is powerful because it has multiple branch offices and all branch offices can be managed collectively at once.
+						</p>
+						<h3>Q. Is a psychological test included?</h3>
+						<p>
+							Our system can cooperate with external psychological tests and save the test results. You can conduct your own customized psychological test.
+						</p>
 					</div>
 					<div class="col-sm-6">
-						<h3>Is there a limit on the number of candidates I can receive for each position?</h3>
-						<p>Nope. Each position can receive as many candidates as possible. Vice versa, candidates can apply to more than one position.</p>
-						<h3>How does the candidate apply for an available position?</h3>
-						<p>Simply by choosing the position you want to apply, then fill in the data in the form provided.</p>
-						<h3>How does the candidate obtain further information from the selection stage of his application?</h3>
-						<p>Result information of each recruitment process is always updated by human resources staff, and candidates can see the updates, either on their own dashboard page or via automated notification email.</p>
-						<h3>Is SUGOI SAIYO accessible by any browser?</h3>
-						<p>Our site can be accessed by any browser, including by the mobile device&#39;s built-in browser. If you have any problem, you can contact us for assistance.</p>
-						<h3>I am interested in using SUGOI SAIYO for my company. How can I start using it?</h3>
-						<p>You can contact us directly through one of the contacts we provide. We are ready to serve you gladly.</p>
+						<h3>Q. Can I collaborate with JobStreet?</h3>
+						<p>
+							We recommend that you post the entrance URL of your company in Sugoi Saiyo on JobStreet. If you do so, you don't have to manage from Jobstreet system because you can manage it collectively with SugoiSaiyo at once.
+						</p>
+						<h3>Q. You can manage the schedule of interviews, but can you cooperate with the reservation of the interview meeting room?</h3>
+						<p>
+							Yes, we can cooperate the reservation if you request for customization
+						</p>
+						<h3>Q. Is it included with an AI function?</h3>
+						<p>
+							It has not been implemented yet, but it can be customized if requested.
+						</p>
+						<h3>Q. Can I receive Notifications about new applications?</h3>
+						<p>
+							Users registered as recruiters can be notified by email that new applications have been submitted.
+						</p>
+						<h3>Q. Is there any limit on the number of jobs, job types, positions, etc.?</h3>
+						<p>
+							There is no limit. You can open up as many number of positions at the same time.
+						</p>
+						<h3>Q. Is Sugoi Saiyo only for the recruiter or company’s HR department?</h3>
+						<p>
+							You can authorize complex management settings. Recruiting staff, interviewers in each department, and management are able to become users of Sugoi Saiyo, and it is possible to grasp the progress of their hiring, manage the schedule of interviews, and view detailed information on candidate information.
+						</p>
 					</div>
 				</div>
 			</div>
@@ -469,7 +500,11 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 		<section class="contact" id="contact">
 			<div class="container">
 				<div class="box">
-					<h2>Contact Us</h2>
+					<div class="box-title">
+						<h2>Contact Us</h2>
+						<p>Please feel free to contact us regarding inquiries about recruitment management system, trial request, and development of a recruitment management system or anything from Sugoi Saiyo.</p>
+					</div>
+					
 					<?php if(isset($msg))
 					{
 					echo $msg;

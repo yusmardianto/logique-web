@@ -10,7 +10,7 @@
     <meta property="og:title" content="WEBデザイン制作 | システム開発会社 | LOGIQUE デジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/jp/about.php">
+	<meta property="og:url" content="https://www.logique.co.id/jp/logique.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="LOGIQUEデジタルインドネシアのの会社概要。インドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム/モバイルアプリ開発会社です。コーポレートWEBサイト制作から大規模なシステム構築、システムの運用保守、SNS運用、Google広告運用まで、Digital Marketingコンサルティングを実施してクライアントのインドネシアでの成功を支援します。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
@@ -104,8 +104,8 @@
 					<div class="col-sm-offset-1 col-sm-10">
 						<div class="lang-logo">
 							<ul class="list-inline">
-								<li><a href="../en/about.php">EN</a></li>
-								<li><a href="../tentang-kami.php">ID</a></li>
+								<li><a href="../en/logique.php">EN</a></li>
+								<li><a href="/logique.php">ID</a></li>
 								<li class="active"><a href="#">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>

@@ -385,7 +385,7 @@
 					<div class="col-lg-12">
 						<div class="text-center">
 							<ul class="list-inline little-nav">
-								<li><a target="_blank" href="/tentang-kami.php">Tentang LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
+								<li><a target="_blank" href="/logique.php">Tentang LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
 								<li><a target="_blank" href="/layanan.php">Layanan LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
 								<li><a target="_blank" href="/hubungi-kami.php">Hubungi LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
 							</ul>

@@ -47,7 +47,7 @@ if(isset($_POST['submitted']))
 	<meta property="og:title" content="Jasa Pembuatan Aplikasi Mobile Android dan iOS | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile/">
+	<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile.php">
 	<meta property="og:image" content="https://www.logique.co.id/assets/img/img-mobileapps/og-image.png">
 	<meta property="og:description" content="Perilaku cyber crime selalu meningkat setiap tahunnya. Karena itu, LOGIQUE menyediakan layanan jasa keamanan website menggunakan metode penetration testing sebagai solusi terbaik untuk melindungi data perusahaan Anda. Segera hubungi kami untuk mendapatkan layanan ini.!">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
