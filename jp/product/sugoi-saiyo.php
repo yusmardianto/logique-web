@@ -482,7 +482,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="box">
 					<div class="box-title">
-						<h2>Sugoi採用に関するよくある質問</h2>
+						<h2>SUGOI SAIYOに関するお問い合わせ</h2>
 						<p>採用管理システムSugoi Saiyoに関するお問い合わせ、トライアル利用のお申込み、その他、採用管理システムの開発についてなど、お気軽にお問い合わせください。</p>
 					</div>
 					<?php if(isset($msg))
