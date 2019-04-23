@@ -80,7 +80,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/jp/about.php">
+							<a href="/jp/logique.php">
 								<div class="img-about"></div>
 								会社概要
 							</a>
@@ -458,9 +458,9 @@
 						<a href="/jp/contact.php"><img alt="Form" src="assets/img/img-digital-marketing/form-footer.png" class="img-responsive center-block"/></a>
 						<br/>
 						その他のサービス:<br/>
-						<a target="_blank" href="/jp/services/pembuatan-website-karir-perusahaan/">企業採用ページ制作</a>
+						<a target="_blank" href="/jp/services/recruitment-web-dev.php">企業採用ページ制作</a>
 						<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-						<a target="_blank" href="/jp/services/pembuatan-aplikasi-mobile/">モバイルアプリ開発</a>
+						<a target="_blank" href="/jp/services/mobile-app-dev.php">モバイルアプリ開発</a>
 					</div>
 				</div>
 			</div>

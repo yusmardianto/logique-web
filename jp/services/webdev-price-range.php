@@ -47,7 +47,7 @@
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="/jp/about.php">
+								<a href="/jp/logique.php">
 									<div class="img-about"></div>
 									会社概要
 								</a>
