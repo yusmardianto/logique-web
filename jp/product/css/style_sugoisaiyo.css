@@ -47,7 +47,7 @@ section {
 	font-size: 22px;
 	color: #FFFFFF;
 	letter-spacing: 0;
-	padding: 10px 60px;
+	padding: 10px 35px;
 	border: 0;
 	transition: 0.3s;
 }
@@ -270,17 +270,14 @@ a:hover {text-decoration: none;}
   background: url(/img/nav-img-white.png) -2px -440px no-repeat
 }
 
-.nav-lp .navbar-collapse {
-  padding: 0;
-  position: fixed;
-  width: 100%;
-  margin-top: -1px;
-  height: 100% !important;
-}
 @media (max-width: 767px) {
   .nav-lp .navbar-collapse {
-      z-index: 99;
-  }
+        padding: 0;
+        position: fixed;
+        width: 100%;
+        height: 100% !important;
+        z-index: 99;
+    }
 }
 
 .card section{margin-left:0}
@@ -734,7 +731,7 @@ ul.medsos-new li a{
 
 @media (max-width: 767px){
 	.btn-ss {
-		padding: 10px 30px;
+		padding: 10px 25px;
 	}
 	.feature,
 	.benefit {
