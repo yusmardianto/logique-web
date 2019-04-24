@@ -51,7 +51,7 @@ section {
 	font-size: 22px;
 	color: #FFFFFF;
 	letter-spacing: 0;
-	padding: 10px 45px;
+	padding: 10px 35px;
 	border: 0;
 	transition: 0.3s;
 }
@@ -454,6 +454,7 @@ ul.medsos-new li a{
 	letter-spacing: 0;
 	line-height: 25px;
 	text-align: justify;
+  margin: 15px 0;
 }
 .obstacle {
 	background-color: #fff;
@@ -652,6 +653,7 @@ ul.medsos-new li a{
 	font-size: 15px;
 	color: #000;
 	text-align: justify;
+  margin-bottom: 15px;
 }
 .qna .row {
 	margin-left: -30px;
@@ -675,10 +677,17 @@ ul.medsos-new li a{
 	border-radius: 23px;
 	padding: 50px 80px;
 }
+.box-title {
+  margin-bottom: 40px;
+}
+
+.box-title p {
+  text-align: center;
+  margin: 0 auto;
+}
 .contact h2 {
 	font-family: Baskerville-SemiBold, 'Libre Baskerville', serif;
 	text-align: center;
-	padding-bottom: 40px;
 	font-size: 24px;
 	color: #000000;
 	letter-spacing: 0;
@@ -711,6 +720,13 @@ ul.medsos-new li a{
 }
 .list-inline>li.active {border: solid 2px #1484e2;border-radius: 1em;padding: 3px 6px;}
 
+@media (max-width: 1199px) {
+  .btn-ss {
+    font-size: 20px;
+    padding: 10px 20px;
+  }
+}
+
 @media (max-width: 991px) {
 	.obstacle-title {
 		padding-bottom: 50px;
@@ -724,7 +740,8 @@ ul.medsos-new li a{
 
 @media (max-width: 767px){
 	.btn-ss {
-		padding: 10px 30px;
+    font-size: 18px;
+		padding: 10px 20px;
 	}
 	.feature,
 	.benefit {

@@ -159,15 +159,15 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 				<h2>What is SUGOI SAIYO?</h2>
 				<p>SUGOI SAIYO is an IT Cloud system for <b>human resources</b> department in Indonesia in recruiting prospective employees. There are many obstacles they usually face in the HR selection process, such as filtering out too many CVs that do not meet the requirements, difficulty in communicating with applicants, applicants who bail on interview schedules, and many more. All of these can waste too much time and effort.</p>
 				<h3>SUGOI SAIYO is the solution of the problem.</h3>
-				<p>In addition to help and reduce stress in human resources department, SUGOI SAIYO is also very convenient for the applicants. They can easily manage the entire process from application to status confirmation, test, up to the offering letter from the company through the designated MY PAGE feature.</p>
+				<p>In addition to help and reduce stress in human resources department, SUGOI SAIYO is also very convenient for applicants. It can easily manage the entire process from application to status confirmation, test, up to the offering letter from the company through the designated MY PAGE feature.</p>
 			</div>
 		</section>
 		<section class="obstacle">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4 obstacle-title">
-						<h2>Recruitment Challenges in Indonesia / Challenges for Recruiters</h2>
-						<a href="#contact" class="smooth btn-ss">Start Your Trial Now</a>
+						<h2>Difficulties in recruitment activities in Indonesia / Challenges for Recruiters</h2>
+						<a href="#contact" class="smooth btn-ss">Apply for a trial now</a>
 					</div>
 					<div class="col-md-8">
 						<div class="row">
@@ -440,21 +440,20 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 					<div class="col-sm-6">
 						<h3>Q. Is Sugoi Saiyo a cloud system?</h3>
 						<p>
-							Sugoi Saiyo runs on our managed cloud server. There is no need to prepare any kind of server. You can start using it immediately after your contract.
-							<br>
+							Sugoi Saiyo runs on our managed cloud server. There is no need for you to prepare any kind of server. You can start using it immediately after your contract.
 							However, you can install and use it on your managed server. Please feel free to contact us for further information.
 						</p>
-						<h3>Q. Are there any restrictions for user to access?</h3>
+						<h3>Q. Are there any restrictions for user to use?</h3>
 						<p>
 							You can use a browser. If you use the latest version of main browser such as Chrome, Firefox, Safari, Edge, you can use without any problem.
 						</p>
-						<h3>Q. How much is it? Is it possible to purchase a single system or a batch system?</h3>
+						<h3>Q. Price? Is it possible to pay one time for buying the system right?</h3>
 						<p>
 							Basically, we will charge you a monthly fee with no initial cost. However, you can customize the complete system and deliver it to your company server.
 							<br>
 							Please contact us as it is possible to make a batch request.
 						</p>
-						<h3>Q. Is there any limited period of time to use?</h3>
+						<h3>Q. Is there a minimum contract term?</h3>
 						<p>
 							There is no time restriction at present. If you use it without customization, you can use it for only one month
 						</p>
