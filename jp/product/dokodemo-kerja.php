@@ -555,7 +555,7 @@ if(isset($_POST['submitted']))
 						<div class="testi-content">
 							<div class="anton quotes-mark">“</div>
 							<p>
-								それまでのスタッフの評価が間違っていました。　残業代の削減につながりました。
+								それまでのスタッフの評価が間違っていました。残業代の削減につながりました。
 							</p>
 							<div class="text-center"><span class="fs-16"><strong>Director Mr. Nishikawa</strong></span> - <span class="fs-14">IIJ Indonesia</span></div>
 						</div>
