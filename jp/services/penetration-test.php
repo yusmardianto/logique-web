@@ -7,14 +7,14 @@
     <meta name="description" content="LOGIQUEのWEBサイトセキュリティ診断サービスは、お客様のWEBサイト、E-Commerce、WEBアプリケーションの脆弱性を診断し、レポート、対策案を提案します。インドネシアの首都ジャカルタのWEB制作・システム開発会社LOGIQUEにセキュリティ対策についてご相談ください。">
 	<meta name="keywords" content="">
 	<meta name="author" content="Logique Digital Indonesia">
-	<meta property="og:title" content="WEBサイト脆弱性セキュリティ診断サービス｜ジャカルタのWEB制作・システム開発会社LOGIQUE">
+	<meta property="og:title" content="Webサイト脆弱性セキュリティテスト｜LOGIQUEデジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/jp/services/penetration-test.php">
 	<meta property="og:image" content="https://www.logique.co.id/assets/img/img-pentest/og-image.png">
 	<meta property="og:description" content="LOGIQUEのWEBサイトセキュリティ診断サービスは、お客様のWEBサイト、E-Commerce、WEBアプリケーションの脆弱性を診断し、レポート、対策案を提案します。Penetrationテストを行い、Webサイトへの攻撃、乗っ取り、改ざんなどから守ります。インドネシアの首都ジャカルタのWEB制作・システム開発会社LOGIQUEにセキュリティ対策についてご相談ください。">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>WEBサイト脆弱性セキュリティ診断サービス｜ジャカルタのWEB制作・システム開発会社LOGIQUE</title>
+    <title>Webサイト脆弱性セキュリティテスト｜LOGIQUEデジタルインドネシア</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="assets/css/style-pentest.css" rel="stylesheet">
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -45,14 +45,15 @@
 					</div>
 					<img class="img-responsive center-block top-banner" src="assets/img/img-pentest/top-banner.png" alt="Top Banner"/>
 					<div class="what-is">
-						<h1 class="title" style="margin-bottom: 0;">Webサイトのセキュリティ診断サービス｜WEB脆弱性診断</h1>
+						<h1 class="title" style="margin-bottom: 0;">Webサイトのセキュリティ診断サービス｜Web脆弱性テスト</h1>
 						<div class="row">
 							<div class="col-md-offset-1 col-md-11">
-								<p><br/>
-								LOGIQUEのWEBサイトセキュリティ診断サービスは、お客様のWEBサイト、E-Commerce、WEBアプリケーションの脆弱性を診断し、レポート、対策案を提案します。インドネシアではまだまだ企業のWEBセキュリティ意識が低いのが実状です。それに対し、攻撃側、セキュリティホールを突こうとする立場側の数も質もインターナショナルレベルなので、セキュリティインシデントが頻繁に発生しています。問題が起こってからでは遅いです。サイバー攻撃手法やソフトウェア脆弱性の観点からWebサイトのセキュリティをチェックしておく必要があります。<br/>
-								金融機関ではないから、重要な個人情報は扱ってないから、などでセキュリティ診断・対策が必要でないとお考えの企業もありますが、WEBサイトが改ざんされる、踏み台にされ大きな事件に関与してしまうなどのリスクがあります。<br/>
-								簡易なWEBについても、それなりのセキュリティ診断をし自社WEBサイトのセキュリティ脆弱性について把握しておく必要があります。WEBサイトの規模に合わせた様々なセキュリティ診断を柔軟に実施します。手軽にハジメられる簡易な診断メニューも用意しておりますのでご相談ください。
-
+								<p>
+									LOGIQUEのWebサイトセキュリティ診断サービスは、お客様のWebサイト、E-Commerce、Webアプリケーションの脆弱性を診断し、セキュリティリスクをレポートします。インドネシアではまだまだWebセキュリティ意識が低いのが実状です。そのためセキュリティインシデントが頻繁に発生しています。問題が起こってからでは遅いです。定期的にセキュリティ検査を行い、サイバーセキィリティリスクの把握をする必要があります。
+									<br>
+									金融機関ではないから、重要な個人情報は扱ってないから、などでセキュリティ診断・対策が必要でないとお考えの企業もありますが、Webサイトが改ざんされる、踏み台にされる等で、大きな事件に関与してしまうリスクがあります。
+									<br>
+									簡易なWebについても、適切なセキュリティ診断をし自社Webサイトのセキュリティ脆弱性について把握しておく必要があります。Webサイトの規模に合わせた様々なセキュリティ診断を柔軟に実施します。手軽にハジメられる簡易な診断メニューも用意しておりますのでご相談ください。
 								</p>
 							</div>
 						</div>
@@ -67,13 +68,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-7">
-					<div class="title fw-300"><span class="yellow">WEBサイトセキュリティ診断内容</span><br/>把握できるWEBのセキュリティリスク</div>
+					<div class="title fw-300"><span class="yellow">Webセキュリティ診断内容</span><br/>把握できるWebのセキュリティリスク</div>
 					<br/>
 					<ul style="color:#fff">
-						<li>12項目の診断項目について確認、レポートします。WEBサイトのセキュリティレベルを素早く把握できるWEBサイト脆弱性診断アセスメントサービスです。</li>
-						<li>セキュリティ診断対象WEBサイトの規模（ページ数や検索機能やフォームの有無や数）により診断対象を限定する場合があります。</li>
+						<li>12項目の診断項目について確認、レポートします。Webサイトのセキュリティレベルを素早く把握できるWebサイト脆弱性診断アセスメントサービスです。</li>
+						<li>セキュリティ診断対象Webサイトの規模（ページ数や検索機能やフォームの有無や数）により診断対象を限定する場合があります。</li>
 						<li>セキュリティ診断ツールを用いた診断を行います。網羅的な確認が可能です。</li>
 						<li>必要に応じてソース解析診断などのマニュアル診断を行います。セキュリティ上の重要事項について潜在的なリスクを発見します。</li>
+						<li>ケースごとにBlack Box, Gray Box, White Boxテストのいずれを実施するか判断します。</li>
 						<li>診断結果の報告に加えて改善方法や優先順位付けなどを提言します。</li>
 					</ul>
 				</div>
@@ -88,18 +90,13 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="text-left lh-30">
-						<div class="text-center"><span class="title fw-300"><b>WEBサイトセキュリティ診断</b>が必要な理由</span></div>
-						インドネシアにおいても、企業に対して、不正アクセス、WEBサイトの改ざんをはじめとするWEBサーバー、WEBサイトへの攻撃が頻繁に行われています。結果として個人情報漏えい、WEBサイトの改ざん、システムダウンやアクセス障害、踏み台化などの被害が起こっています。<br/>
-						企業のブランド価値や信頼感を伝えるためのお客様とのコミュニケーションチャネルであるWEBサイトを安心してユーザーにご利用いただくために、脆弱性を払拭した安全なWEBサイトを提供することは、企業の義務だと考えます。WEBサイトでセキュリティ事件が発生することでブランド価値が大きい毀損するリスクがあります。<br/>
-						こういったリスクを取り除き、安全なWEBサイトであることを維持し続けるために、WEBサイトのセキュリティ脆弱性診断は欠かすことはできません。
-					</div>	
-					<br/><br/>
-					<div class="text-left lh-30">
-						<div class="text-center"><span class="title fw-300"><b>WEBサイトセキュリティ脆弱性診断</b>のカバー範囲</span></div>
-						WEB、WEBサーバーのセキュリティリスクは複雑です。ミドルウェアやインフラのセキュリティ、ネットワークセキュリティ、ソーシャルエンジニアリングのリスクなど広範囲で非常に多くの考えなくてはいけないこと、対策しなくてはいけないことがあります。<br/>
-						ただし、この困難さ、複雑さ、高コストを理由として何もしないのではなく、低コストで短期間で実施できるLOGIQUEのWEBサイトセキュリティ診断を受診されることをお奨めいたします。
-
-					</div>	
+						<div class="text-center"><span class="title fw-300"><b>Webサイトセキュリティ診断</b>が必要な理由</span></div>
+						インドネシアにおいても、企業に対して、不正アクセス、Webサイトの改ざんをはじめとするWebサーバー、Webサイトへの攻撃が頻繁に行われています。結果として個人情報漏えい、Webサイトの改ざん、システムダウンやアクセス障害、踏み台化などの被害が起こっています。
+						<br>
+						企業のブランド価値や信頼感を伝えるためのお客様とのコミュニケーションチャネルであるWebサイトを安心してユーザーにご利用いただくために、脆弱性を払拭した安全なWebサイトを提供することは、企業の義務だと考えます。Webサイトでセキュリティ事件が発生することでブランド価値が大きく毀損するリスクがあります。
+						<br>
+						こういったリスクを取り除き、安全なWebサイトであることを維持し続けるために、Webサイトのセキュリティ脆弱性診断は必要なものです。
+					</div>
 				</div>
 				<!--<div class="clearfix"></div><br/>
 				<div class="col-md-6">
@@ -129,14 +126,14 @@
 		</div>	
 	</div>	
 	<br/>
-	<div class="mengapa-harus">WEBサイトのセキュリティ脆弱性診断については<a href="/jp/" target="_blank"><b>LOGIQUE</b></a>にご相談ください。</div>
+	<div class="mengapa-harus">インドネシアでのサイバーセキュリティ検査については<a href="/jp/" target="_blank"><b>LOGIQUE</b></a>にご相談ください</div>
 	<br/>
 	<div class="metode">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-offset-1 col-md-10">
 					<p>
-					インドネシアにて政府系期間や金融機関、自動車メーカーWEBサイトのセキュリティ診断をしてきました。第一回アセスメント結果は多くのケースでショッキングな結果になることが多いです。但しそこから優先度をつけて対策をしていけばリスクを軽減することができますし、しっかりと定期的な診断を続けていけばリスクはほぼなくなります。
+					インドネシアにて政府系機関や金融機関、自動車メーカーのWebサイトやモバイルAppのセキュリティ診断をしてきました。第一回アセスメント結果は多くのケースでショッキングな結果になることが多いです。但しそこから優先度をつけて対策をしていくことでリスクを軽減することができますし、適切に定期的な診断を続けていくことでリスクをゼロに近づけることができます。
 					</p>
 
 					<!--<div class="title">Metode apa yang digunakan Logique Digital Indonesia dalam melakukan pentest?</div>
@@ -292,7 +289,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-offset-2 col-md-8">
-					<div class="title">WEBサイトの簡易セキュリティ脆弱性診断サービスをお試し価格でご提供しています。</div>
+					<div class="title">Webサイトの簡易セキュリティ脆弱性診断サービスをお試し価格でご提供しています。</div>
 				</div>
 			</div>
 			<div class="row">
@@ -302,7 +299,7 @@
 			</div><br/>
 			<div class="row">
 				<div class="col-md-offset-1 col-md-10">
-					<div class="subtitle text-left">まず簡易診断ではありますが、自社WEBサイトがどのようなセキュリティ状態にあり、どの程度のリスクにさらされているのか把握されることをお奨めいたします。	お気軽にご相談のご連絡をください。日本語でお問い合わせいただけます。</div>
+					<div class="subtitle text-left">簡易診断ではありますが、自社Webサイトにどのようなセキュリティリスクがあるのか把握されることをお奨めいたします。お気軽にご相談ください。日本語でお問い合わせいただけます。</div>
 				</div>
 			</div>
 		</div>
@@ -312,10 +309,19 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-offset-1 col-md-10">
-					WEBサイトセキュリティ診断サービスに関する、診断内容、レポート項目、費用、期間など詳細に関してはお気軽に日本語でお問い合わせいただければ幸いです。またSSL証明書の購入と設定に関しても良くお問い合わせいただきます。当社ではGlobalSign社のSSL証明書を扱っております。こちらまで(infologique.co.id）メールお送りいただくかこちらから問い合わせ送信いただきますようお願いいたします。<br/><br/>
+					Webサイトセキュリティ診断サービスに関する、診断内容、レポート項目、費用、期間など詳細に関してはお気軽に日本語でお問い合わせいただければ幸いです。またSSL証明書の購入と設定に関しても良くお問い合わせいただきます。当社ではGlobalSign社のSSL証明書を扱っております。こちらまで(infoアットマークlogique.co.id）メールお送りいただくかこちらから問い合わせ送信いただきますようお願いいたします。<br/><br/>
 					<a href="/jp/contact.php" target="_blank"><img alt="Form" src="assets/img/img-pentest/form-footer.png" class="img-responsive center-block"/></a>
-					<br/>
-					Our other services:<br/>
+					<br>
+					<div class="phone-contact">
+						<div>Phone : </div>
+						<b>+62(21) 2270 8935 / 36</b>
+						<br>
+						<a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" rel="noreferrer" style="vertical-align: top; color: #333"> <img src="/img/whatsapp.png" alt="WhatsApp" width="16" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a>
+						
+					</div>
+					<br>
+					Our other services:
+					<br>
 					<a target="_blank" href="/jp/services/recruitment-web-dev.php">採用サイト制作</a>
 					<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
 					<a target="_blank" href="/jp/services/mobile-app-dev.php">モバイルアプリケーション制作 </a>

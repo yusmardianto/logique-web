@@ -4,7 +4,8 @@
 @-o-viewport { width: device-width; }
 @viewport { width: device-width; }
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css?family=Anton|Roboto:100,300,500,700');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700');
 /**
 CSS Reset
 */
@@ -17,7 +18,7 @@ figure, figcaption, footer, header, hgroup,menu, nav, output, ruby, section, sum
     padding: 0;
 	font-size:16px;
     border: 0;
-	font-family: 'Roboto', serif;
+	font-family: 'M PLUS 1p', sans-serif;
 	font-weight:300;
 }
 
@@ -37,16 +38,15 @@ strong{font-weight: 700!important;}
 .no-gap [class*="-10"],
 .no-gap [class*="-4"],
 .no-gap [class*="-12"]{padding-left:0;padding-right:0;}
-p{margin-bottom: 20px;font-size:18px}
-p:last-child{margin-bottom: 0;}
+p{margin-bottom: 20px;}
 .anton{font-family: 'Anton', sans-serif;}
 
 body{
   padding-left: 95px;
 }
 header{background:#fff;}
-header p{color:#000;}
-.content-header{font-size:18px}
+header p{color:#333333;}
+.content-header p {font-size:18px; margin: 20px 0;}
 .height100vh{height:100vh;}
 header .title{font-size:45px;color:#000;text-align:center;letter-spacing: 2px;text-shadow: 0 4px 3px rgba(2,2,2,0.23);padding:0 15px}
 .valign-center{top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);position:relative}
@@ -143,14 +143,31 @@ header hr{border-top:5px solid #000;width:20%;margin: 30px auto;}
 .div-form textarea.form-control{resize: none;height: 242px;}
 .div-faq{padding:40px 0}
 .div-faq .title{font-size:36px;padding:0 15px;text-align:center}
+.div-faq p {margin: 10px 0 20px 0;}
+
+.testi-div{background:#f5f5f5;padding:40px 0}
+.testi-div .title{font-size:36px}
+.testi-content{background:#fff;padding:10px 30px 30px 30px}
+.testi-content .quotes-mark{color:#dcdcdc;font-size:80px;}
+.testi-content .testi-title{font-size:20px;color:#4d91cd;text-align:center;padding: 20px 20px 20px 50px;}
+.testi-content p{font-size:15px; margin-top: -55px;}
+@media (max-width: 991px) {
+  .testi-content p {
+    text-align: center;
+  }
+}
+.fs-16{font-size:16px}
+.fs-14{font-size:14px}
+.testi-div hr{border-top:5px solid #edecec;margin-bottom: 40px;}
+
 .yellow{color:#edb41a}
 .fw-500{font-weight:500}
 footer{background:#000;padding:40px 0;color:#fff}
 footer .fa-ul .fa{font-size:18px;color:##004660}
 footer img{float:left;max-width:120px;margin-right:15px}
 footer p{padding: 22px 0px;}
-.cr{padding-left:135px;font-size:14px}
-.cr a{font-size:14px}
+.cr{padding-left:135px;font-size:15px}
+.cr a{font-size:15px}
 .cr a:hover, .cr a:focus{color:#edb41a}
 .div-masalah{background:#eceef2;padding:20px 0;overflow:hidden}
 .div-masalah li{color:#008ec4}

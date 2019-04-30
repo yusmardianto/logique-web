@@ -216,7 +216,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<br/>
 						<div class="hidden-xs"><br/><br/></div>
-						<video width="100%" height="300" controls>
+						<video width="100%" height="300" controls poster="/produk/img/dokodemo-kerja/thumb-dokodemo.png">
 						   <source src="/produk/img/dokodemo-kerja/dokodemo-kerja.webm" type="video/webm" />
 						</video><br/><br/>						
 					</div>
@@ -561,172 +561,6 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		<br/>
-		
-		<!--<div class="div-dokodemo">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6">
-						<div class="title">Dokodemo-Kerja</div>
-						<p>Direkomendasikan bagi perusahaan yang mempertimbangkan pekerja jarak jauh (freelencer, remote worker,etc), perusahaan yang ingin meningkatkan produktifitas karyawan, perusahaan yang ingin membatasi penggunaan waktu kerja yang tidak efisien (merokok, istirahat setelah solat, etc)</p>
-					</div>
-				</div>
-			</div>
-		</div>-->
-		<div class="div-form" id="divForm">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-12">
-						<div class="title text-center">
-							<span class="blue2">Untuk informasi lebih lanjut mengenai <strong>Dokodemo-Kerja</strong>, </span><br/>
-							silahkan hubungi kami dengan mengisi form dibawah ini!
-						</div>
-					</div>
-				</div>
-				<br/>
-				<?php if(isset($msg))
-				{
-				echo $msg;
-				} 
-				?>
-				<form class="form-dokodemo" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
-					<input type='hidden' name='submitted' id='submitted' value='1'/>
-					<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
-					<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-					<div class="row">
-						<div class="form-group">
-							<div class="col-md-offset-1 col-md-5">
-								<input type="text" class="form-control" name="name" aria-label="Name" placeholder="Nama" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
-							</div>
-							<div class="col-md-5">
-								<input type="text" class="form-control" name="company" aria-label="Company" placeholder="Perusahaan" value='<?php echo $formproc->SafeDisplay('company') ?>'/>
-							</div>
-							<div class="clearfix"></div>
-						</div>
-						<div class="form-group">
-							<div class="col-md-offset-1 col-md-5">
-								<input type="number" class="form-control" name="phone" aria-label="Phone" placeholder="Nomor Ponsel" value='<?php echo $formproc->SafeDisplay('phone') ?>'/>
-							</div>
-							<div class="col-md-5">
-								<input type="email" class="form-control" name="email" aria-label="Email" placeholder="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'/>
-							</div>
-							<div class="clearfix"></div>
-						</div>
-						<div class="form-group">
-							<div class="col-md-offset-1 col-md-5">
-								<div style="padding:10px;background:#fff">
-									<span class="blue fw-300">Jenis Kebutuhan yang spesifik</span>
-									<div class="radiobuttons">
-										<div class="rdio">
-										  <input name="needs" value="Cara menggunakan Dokodemo-Kerja" id="radio2" type="radio" checked>
-										  <label for="radio2">Tentang cara dan penggunaan <strong>Dokodemo-Kerja</strong></label>
-										</div>
-										<div class="rdio">
-										  <input name="needs" value="Untuk kerja jarak jauh" id="radio3" type="radio">
-										  <label for="radio3">Tentang sistem kerja jarak jauh</label>
-										</div>
-										<div class="rdio">
-										  <input name="needs" value="Untuk meningkatkan produktivitas karyawan" id="radio4" type="radio">
-										  <label for="radio4">Tentang produktivitas karyawan</label>
-										</div>
-										<div class="rdio">
-										  <input name="needs" value="Untuk kontrol jam kerja karyawan" id="radio5" type="radio">
-										  <label for="radio5">Tentang kontrol jam kerja karyawan</label>
-										</div>
-									</div>
-								</div>
-								<br/>
-							</div>
-							<div class="col-md-5">
-								<textarea name="message" aria-label="Message" class="form-control" placeholder="Deskripsi"><?php echo $formproc->SafeDisplay('message') ?></textarea>
-							</div>
-							<div class="clearfix"></div>
-						</div>
-						<div class="form-group">
-							<div class="col-md-offset-1 col-md-5">
-								<div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
-							</div>
-							<div class="clearfix"></div>
-						</div>
-						<center>
-							<button type="submit" href="#" class="btn btn-coba">Kirim</button>
-						</center>
-					</div>
-				</form>
-			</div>
-		</div>
-		<div class="div-faq">
-			<div class="anton title yellow">Pertanyaan yang sering diajukan:</div>
-			<br/>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6">
-						<span class="blue2 fw-500">Bagaimana <strong>Dokodemo-Kerja</strong> merekam jam kerja karyawan?</span><br/>
-						<strong>Dokodemo-Kerja</strong> merekam aktivitas dan jam kerja untuk setiap proyek yang dikerjakan karyawan pada layar perangkat komputernya. Perhitungan akan dimulai dan dihentikan dengan perintah <i>start/stop</i>.<br/><br/>
-						 
-						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> memerlukan akses internet?</span><br/>
-						Akses internet diperlukan untuk mengaktifkan dan mengelola akun <strong>Dokodemo-Kerja</strong>, serta mengirim data rekaman aktivitas dan jam kerja ke database.<br/><br/>
-						 
-						<span class="blue2 fw-500">Bagaimana jika akses internet saya putus saat <strong>Dokodemo-Kerja</strong> berjalan?</span><br/>
-						Tidak masalah. Akses internet tidak dibutuhkan selama proses penghitungan. Namun, Anda membutuhkan koneksi internet saat tombol stop diklik untuk mengirim data ke database.<br/><br/>
-						 
-						<span class="blue2 fw-500">Berapa jumlah pengguna yang didukung oleh <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Jumlah pengguna bisa disesuaikan menurut kebutuhan perusahaan.<br/><br/>
-						 
-						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> bisa diakses lewat perangkat seluler?</span><br/>
-						Untuk saat ini, perangkat seluler hanya bisa mengakses <strong>Dokodemo-Kerja</strong> melalui browser.<br/><br/>
-						
-						<span class="blue2 fw-500">Bagaimana cara menyiapkan layanan <strong>Dokodemo-Kerja</strong>? </span><br/>
-						Kami akan menyediakan panduan menyiapkan layanan <strong>Dokodemo-Kerja</strong> langkah demi langkah. Mulai dari cara mengakses akun master, mengakses aplikasi dan menginstalnya, hingga penggunaannya bagi karyawan.<br/><br/>
-						
-						<span class="blue2 fw-500">Bagaimana cara mengetahui apakah PC atau Mac saya dapat menjalankan <strong>Dokodemo-Kerja</strong>? </span><br/>
-						<strong>Dokodemo-Kerja</strong> mendukung PC yang menjalankan sistem operasi Windows, Linux, dan Macintosh.<br/><br/>
-						
-						<span class="blue2 fw-500">Bahasa apa saja yang tersedia untuk <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Untuk saat ini, <strong>Dokodemo-Kerja</strong> tersedia dalam Bahasa Indonesia dan Inggris.<br/><br/> 
-						 
-						<span class="blue2 fw-500">Dapatkah saya melakukan uji coba <strong>Dokodemo-Kerja</strong> terlebih dahulu sebelum membelinya?</span><br/>
-						Tentu saja. Untuk mendapatkan layanan uji coba, silakan hubungi kami.<br/><br/>
-					</div>
-					<div class="col-md-6">						
-						<span class="blue2 fw-500">Bagaimana jika saya punya masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Jangan khawatir. Jika Anda mengalami masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>, Anda dapat langsung menghubungi kami. Kami akan membantu Anda dengan senang hati.<br/><br/>
-						
-						<span class="blue2 fw-500">Saya tertarik menggunakan <strong>Dokodemo-Kerja</strong> untuk perusahaan saya. Bagaimana saya bisa mendapatkannya?</span><br/>
-						Anda hanya perlu menghubungi kami dengan mengisi formulir yang kami sediakan. Kami siap melayani Anda.<br/><br/>
-						
-						<span class="blue2 fw-500">Seberapa efektifkah <strong>Dokodemo-Kerja</strong> pada produktivitas karyawan?</span><br/>
-						Sangat efektif, karena <strong>Dokodemo-Kerja</strong> mampu mengkalkulasikan total jam kerja karyawan secara real time dan transparan.<br/><br/>
-						
-						<span class="blue2 fw-500">Untuk siapakah <strong>Dokodemo-Kerja</strong> dibuat?</span><br/>
-						<strong>Dokodemo-Kerja</strong> dibuat untuk para perusahaan yang menggunakan karyawan dengan sistem kerja remote dan independen agar meningkatkan produktifitas perusahaan.<br/><br/>
-						
-						<span class="blue2 fw-500">Apa keuntungan yang didapatkan oleh perusahaan yang menerapkan <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Dengan <strong>Dokodemo-Kerja</strong>, perusahaan akan diuntungkan dengan produktifitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.<br/><br/>
-						
-						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> dapat menyesuaikan waktu sesuai dengan zona waktu lokal yang ada?</span><br/>
-						Bisa, Jika Anda mengaktifkan <strong>Dokodemo-Kerja</strong>, maka secara otomatis aplikasi akan mendeteksi zona waktu lokal yang ada.<br/><br/>
-						
-						<span class="blue2 fw-500">Apa yang akan terjadi jika kita langsung mematikan OS (Operating System) tanpa menghentikan  <strong>Dokodemo-Kerja</strong> terlebih dahulu?</span><br/>
-						Jika hal ini terjadi, maka pencatatan waktu yang terekam akan berada pada waktu terakhir aplikasi menangkap layar monitor.<br/><br/>
-						
-						<span class="blue2 fw-500">Dapatkah <strong>Dokodemo-Kerja</strong> beroperasi di Background System?</span><br/>
-						Tidak bisa, Sebab ketika aplikasi ditutup, maka service secara otomatis juga akan berakhir.<br/><br/>
-						
-					</div>
-				</div>
-				<br/>
-				<div class="row">
-					<div class="col-md-offset-1 col-md-10">
-						<div style="padding:10px;border:1px solid #edb41a">
-							<div class="div-above-footer">
-								<strong>Dokodemo-Kerja</strong> adalah solusi sistem kerja berupa aplikasi yang mampu merekam, menghitung, serta mengelola aktivitas dan jam kerja karyawan guna meningkatkan produktivitas perusahaan.
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
 		
 		<div class="testi-div">
 			<div class="container">
@@ -856,6 +690,162 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
+
+		<div class="div-faq">
+			<div class="anton title yellow">Pertanyaan yang sering diajukan:</div>
+			<br/>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<span class="blue2 fw-500">Bagaimana <strong>Dokodemo-Kerja</strong> merekam jam kerja karyawan?</span><br/>
+						<strong>Dokodemo-Kerja</strong> merekam aktivitas dan jam kerja untuk setiap proyek yang dikerjakan karyawan pada layar perangkat komputernya. Perhitungan akan dimulai dan dihentikan dengan perintah <i>start/stop</i>.<br/><br/>
+						 
+						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> memerlukan akses internet?</span><br/>
+						Akses internet diperlukan untuk mengaktifkan dan mengelola akun <strong>Dokodemo-Kerja</strong>, serta mengirim data rekaman aktivitas dan jam kerja ke database.<br/><br/>
+						 
+						<span class="blue2 fw-500">Bagaimana jika akses internet saya putus saat <strong>Dokodemo-Kerja</strong> berjalan?</span><br/>
+						Tidak masalah. Akses internet tidak dibutuhkan selama proses penghitungan. Namun, Anda membutuhkan koneksi internet saat tombol stop diklik untuk mengirim data ke database.<br/><br/>
+						 
+						<span class="blue2 fw-500">Berapa jumlah pengguna yang didukung oleh <strong>Dokodemo-Kerja</strong>?</span><br/>
+						Jumlah pengguna bisa disesuaikan menurut kebutuhan perusahaan.<br/><br/>
+						 
+						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> bisa diakses lewat perangkat seluler?</span><br/>
+						Untuk saat ini, perangkat seluler hanya bisa mengakses <strong>Dokodemo-Kerja</strong> melalui browser.<br/><br/>
+						
+						<span class="blue2 fw-500">Bagaimana cara menyiapkan layanan <strong>Dokodemo-Kerja</strong>? </span><br/>
+						Kami akan menyediakan panduan menyiapkan layanan <strong>Dokodemo-Kerja</strong> langkah demi langkah. Mulai dari cara mengakses akun master, mengakses aplikasi dan menginstalnya, hingga penggunaannya bagi karyawan.<br/><br/>
+						
+						<span class="blue2 fw-500">Bagaimana cara mengetahui apakah PC atau Mac saya dapat menjalankan <strong>Dokodemo-Kerja</strong>? </span><br/>
+						<strong>Dokodemo-Kerja</strong> mendukung PC yang menjalankan sistem operasi Windows, Linux, dan Macintosh.<br/><br/>
+						
+						<span class="blue2 fw-500">Bahasa apa saja yang tersedia untuk <strong>Dokodemo-Kerja</strong>?</span><br/>
+						Untuk saat ini, <strong>Dokodemo-Kerja</strong> tersedia dalam Bahasa Indonesia dan Inggris.<br/><br/> 
+						 
+						<span class="blue2 fw-500">Dapatkah saya melakukan uji coba <strong>Dokodemo-Kerja</strong> terlebih dahulu sebelum membelinya?</span><br/>
+						Tentu saja. Untuk mendapatkan layanan uji coba, silakan hubungi kami.<br/><br/>
+					</div>
+					<div class="col-md-6">						
+						<span class="blue2 fw-500">Bagaimana jika saya punya masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>?</span><br/>
+						Jangan khawatir. Jika Anda mengalami masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>, Anda dapat langsung menghubungi kami. Kami akan membantu Anda dengan senang hati.<br/><br/>
+						
+						<span class="blue2 fw-500">Saya tertarik menggunakan <strong>Dokodemo-Kerja</strong> untuk perusahaan saya. Bagaimana saya bisa mendapatkannya?</span><br/>
+						Anda hanya perlu menghubungi kami dengan mengisi formulir yang kami sediakan. Kami siap melayani Anda.<br/><br/>
+						
+						<span class="blue2 fw-500">Seberapa efektifkah <strong>Dokodemo-Kerja</strong> pada produktivitas karyawan?</span><br/>
+						Sangat efektif, karena <strong>Dokodemo-Kerja</strong> mampu mengkalkulasikan total jam kerja karyawan secara real time dan transparan.<br/><br/>
+						
+						<span class="blue2 fw-500">Untuk siapakah <strong>Dokodemo-Kerja</strong> dibuat?</span><br/>
+						<strong>Dokodemo-Kerja</strong> dibuat untuk para perusahaan yang menggunakan karyawan dengan sistem kerja remote dan independen agar meningkatkan produktifitas perusahaan.<br/><br/>
+						
+						<span class="blue2 fw-500">Apa keuntungan yang didapatkan oleh perusahaan yang menerapkan <strong>Dokodemo-Kerja</strong>?</span><br/>
+						Dengan <strong>Dokodemo-Kerja</strong>, perusahaan akan diuntungkan dengan produktifitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.<br/><br/>
+						
+						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> dapat menyesuaikan waktu sesuai dengan zona waktu lokal yang ada?</span><br/>
+						Bisa, Jika Anda mengaktifkan <strong>Dokodemo-Kerja</strong>, maka secara otomatis aplikasi akan mendeteksi zona waktu lokal yang ada.<br/><br/>
+						
+						<span class="blue2 fw-500">Apa yang akan terjadi jika kita langsung mematikan OS (Operating System) tanpa menghentikan  <strong>Dokodemo-Kerja</strong> terlebih dahulu?</span><br/>
+						Jika hal ini terjadi, maka pencatatan waktu yang terekam akan berada pada waktu terakhir aplikasi menangkap layar monitor.<br/><br/>
+						
+						<span class="blue2 fw-500">Dapatkah <strong>Dokodemo-Kerja</strong> beroperasi di Background System?</span><br/>
+						Tidak bisa, Sebab ketika aplikasi ditutup, maka service secara otomatis juga akan berakhir.<br/><br/>
+						
+					</div>
+				</div>
+				<br/>
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+						<div style="padding:10px;border:1px solid #edb41a">
+							<div class="div-above-footer">
+								<strong>Dokodemo-Kerja</strong> adalah solusi sistem kerja berupa aplikasi yang mampu merekam, menghitung, serta mengelola aktivitas dan jam kerja karyawan guna meningkatkan produktivitas perusahaan.
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="div-form" id="divForm">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="title text-center">
+							<span class="blue2">Untuk informasi lebih lanjut mengenai <strong>Dokodemo-Kerja</strong>, </span><br/>
+							silahkan hubungi kami dengan mengisi form dibawah ini!
+						</div>
+					</div>
+				</div>
+				<br/>
+				<?php if(isset($msg))
+				{
+				echo $msg;
+				} 
+				?>
+				<form class="form-dokodemo" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
+					<input type='hidden' name='submitted' id='submitted' value='1'/>
+					<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
+					<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
+					<div class="row">
+						<div class="form-group">
+							<div class="col-md-offset-1 col-md-5">
+								<input type="text" class="form-control" name="name" aria-label="Name" placeholder="Nama" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
+							</div>
+							<div class="col-md-5">
+								<input type="text" class="form-control" name="company" aria-label="Company" placeholder="Perusahaan" value='<?php echo $formproc->SafeDisplay('company') ?>'/>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="form-group">
+							<div class="col-md-offset-1 col-md-5">
+								<input type="number" class="form-control" name="phone" aria-label="Phone" placeholder="Nomor Ponsel" value='<?php echo $formproc->SafeDisplay('phone') ?>'/>
+							</div>
+							<div class="col-md-5">
+								<input type="email" class="form-control" name="email" aria-label="Email" placeholder="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'/>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="form-group">
+							<div class="col-md-offset-1 col-md-5">
+								<div style="padding:10px;background:#fff">
+									<span class="blue fw-300">Jenis Kebutuhan yang spesifik</span>
+									<div class="radiobuttons">
+										<div class="rdio">
+										  <input name="needs" value="Cara menggunakan Dokodemo-Kerja" id="radio2" type="radio" checked>
+										  <label for="radio2">Tentang cara dan penggunaan <strong>Dokodemo-Kerja</strong></label>
+										</div>
+										<div class="rdio">
+										  <input name="needs" value="Untuk kerja jarak jauh" id="radio3" type="radio">
+										  <label for="radio3">Tentang sistem kerja jarak jauh</label>
+										</div>
+										<div class="rdio">
+										  <input name="needs" value="Untuk meningkatkan produktivitas karyawan" id="radio4" type="radio">
+										  <label for="radio4">Tentang produktivitas karyawan</label>
+										</div>
+										<div class="rdio">
+										  <input name="needs" value="Untuk kontrol jam kerja karyawan" id="radio5" type="radio">
+										  <label for="radio5">Tentang kontrol jam kerja karyawan</label>
+										</div>
+									</div>
+								</div>
+								<br/>
+							</div>
+							<div class="col-md-5">
+								<textarea name="message" aria-label="Message" class="form-control" placeholder="Deskripsi"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="form-group">
+							<div class="col-md-offset-1 col-md-5">
+								<div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<center>
+							<button type="submit" href="#" class="btn btn-coba">Kirim</button>
+						</center>
+					</div>
+				</form>
+			</div>
+		</div>
 		
 		<a href="#" class="scrollToTop">Back to Top</a>
 		<footer>
@@ -948,7 +938,7 @@ if(isset($_POST['submitted']))
 			        </div>
 			      </div> 
 			      <div class="provacy-policy-container">
-			        <a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
+			        <a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
 			      </div>
 			      <div class="footer-title"  style="margin-top: 20px; margin-bottom: 0;">Media Sosial</div>
 		        <ul class="medsos-new">
