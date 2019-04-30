@@ -183,20 +183,27 @@ if(isset($_POST['submitted']))
 							<h1 class="anton title"> 自由と生産性を追求した働き方を！</h1>
 							<hr/>
 							<div class="content-header">
-								<div class="begin-dokdem"><span style="font-size: 20px;">インドネシアでリモートワークを推進しています。 <br/>柔軟に、独立した、プロフェッショナルな勤務体系で、会社も従業員もハッピーに！</span>
-								<br/><br/></div>
-								従業員の皆さん、毎日の通勤ストレスですよね？小さい子供の世話を誰かが代わりに見てくれれば自分の専門性を活かせるのに。もっとフレキシブルに働かせて貰えれば今よりずっと生産性発揮するのに、などなどの不満ありませんか？<br/><br/>
-
-								経営者・人事マネージャの皆さん、従業員の遅刻欠勤を管理、取り締まるのに飽き飽きですよね。真面目なだけが取り柄の生産性が低いスタッフが残っても本末転倒ですよね。従業員には幸せに活き活きと仕事をし、かつ高い生産性を生んでもらいたいですよね？<br/><br/>
-
-								<strong>Dokodemo-Kerja</strong>は上記を全て解決する画期的なITソリューションです。<br/><br/>
-
-								このサービスを利用すれば、従業員は勤務場所の制約から開放され、好きな時間に好きな場所からのリモートワークが可能となります。いままで問題と考えられていた、さぼり、非集中などについては、ランダムにラップトップのスクリーンショットが撮られ管理者に送信されることで管理することができます。管理者は従業員の勤務時間と作業内容を突き合わせて管理することが可能となり、従業員の虚偽報告を防ぐことができます。<br/><br/>
-
-								今までのリモートワーク管理ツールは、どうしてもリモートワーカーに面倒な報告を義務付ける必要がありましたが、<strong>Dokodemo-Kerja</strong>は従業員にも管理者の双方に手間がかかりません。<br/><br/>
-
-								インドネシアの交通事情を考えると、幸福感を大きくUPする画期的なソリューションだと自負しています。雨が多い時期にだけ週に2回自宅勤務とする、出産前後だけ実家で勤務などの柔軟な勤務方法を許容する、などが可能になる他、オフィスでの勤務者にも<strong>Dokodemo-Kerja</strong>を導入することで出退勤や休憩時間の管理、過度なビデオやSNSの視聴を防ぐことが可能となります。
-							</p>
+								<div class="begin-dokdem"><span style="font-size: 20px;">インドネシアでリモートワークを推進しています。 <br/>柔軟に、独立した、プロフェッショナルな働き方で、会社も従業員もハッピーに！</span>
+									<br/>
+								</div>
+								<p>
+									従業員の皆さん、毎日の通勤ストレスですよね？小さい子供の世話を誰かが代わりに見てくれれば自分の専門性を活かせるのに、もっとフレキシブルに働かせて貰えれば今よりずっと生産性発揮できるのに、などの不満ありませんか？
+								</p>
+								<p>
+									経営者・人事マネージャの皆さん、従業員の勤怠や勤務態度の管理が大変ではないでしょうか？管理を容易にするために勤怠は悪いけど生産性は高いスタッフを切り捨ててしまったりしないでしょうか？本質的には個々のスタッフが最大限の生産性を発揮しチームとしても最大の成果を上げることがゴールです。成果をあげられるなら、自由と柔軟さを与え、高い生産性を生んでもらいたいですよね？
+								</p>
+								<p>
+									<strong>Dokodemo-Kerja</strong>は上記を全て解決する画期的なITソリューションです。
+								</p>
+								<p>
+									このクラウドツールを利用すれば、従業員は勤務場所の制約から開放され、好きな時間に好きな場所からのリモートワークが可能となります。いままで問題と考えられていた、さぼり、非集中などについては、ランダムにラップトップのスクリーンショットが撮られ管理者に送信されることで管理することができます。管理者は従業員の勤務時間と作業内容を突き合わせて管理することが可能となり、従業員の虚偽報告を防ぐことができます。
+								</p>
+								<p>
+									<strong>Dokodemo-Kerja</strong>は従業員にも管理者の双方に手間がかかりません。そして従業員に手間や管理されている強いストレスを与えないことが特徴です。
+								</p>
+								<p>
+									インドネシアの交通事情を考えると、幸福感を大きくUPする画期的なソリューションだと自負しています。雨が多い時期にだけ週に2回自宅勤務とする、出産前後だけ実家で勤務などの柔軟な勤務方法を許容する、などが可能になる他、オフィスでの勤務者にもDokodemo-Kerjaを導入することで出退勤や休憩時間の管理、過度なビデオやSNSの視聴を防ぐことが可能となります。御社においても劇的な生産性向上効果があるはずです。お試しください！
+								</p>
 							</div>
 						</div>
 					</div>
@@ -213,20 +220,22 @@ if(isset($_POST['submitted']))
 						</div>
 						<br/>
 						<div class="hidden-xs"><br/><br/></div>
-						<video width="100%" height="300" controls>
-						   <source src="/produk/img/dokodemo-kerja/dokodemo-kerja.webm" type="video/webm" />
+						<video width="100%" height="300" controls poster="/jp/product/img/dokodemo-kerja/thumb-dokodemo.png">
+						   <source src="/jp/product/img/dokodemo-kerja/dokodemo-kerja.webm" type="video/webm" />
 						</video><br/><br/>
 					</div>
 					<div class="col-md-6 text-justify">
-						<span class="blue">Dokodemo-Kerja</span>は、リモートワーク / テレワークにて、フレキシブルに生産性をあげることに集中して効率的に働きたい従業員にも、皆にフェアな機会を与えて、さぼりを抑止したい経営者、人事マネージャーの両者にメリットのある製品・ソリューションです。<br/><br/>
-
-						従業員の使用端末にインストールするだけですぐに利用可能です。クロスプラットフォーム（Windows、Mac、Linuxに対応）で利用可能です。<br/><br/>
-
-						スタッフがいつ、どんな作業をしているのか確認することができます。作業タイプ（タスク種、プロジェクト名）を入力させることで作業時間を集計し管理会計に利用することも可能です。勤務開始時間、休憩時間、終了時間が記録に残りますので、勤務時間不足や逆に働きすぎのコントロールもできます。<br/>
-						スクリーンショットが取ることがスタッフのさぼりの抑止力になります。場所や時間に囚われず、決めた勤務時間中は集中して生産性高く作業する。<span class="blue">Dokodemo-Kerja</span>は現代の働き方をサポートします。
-						<br/><br/>
+						<p>
+							<span class="blue">Dokodemo-Kerja</span>は、リモートワーク / テレワークにて、生産性を高めることに集中してフレキシブルかつ効率的に働きたい従業員にも、皆にフェアな機会を与えて、さぼりを抑止したい経営者、人事マネージャーにもメリットのある製品・ソリューションです。
+						</p>
+						<p>
+							従業員の使用端末にインストールするだけですぐに利用可能です。クロスプラットフォーム（Windows、Mac、Linuxに対応）で利用可能です。
+						</p>
+						<p>
+							スタッフがいつ、どんな作業をしているのか確認することができます。作業タイプ（タスク種、プロジェクト名）を入力させることで作業時間を集計し管理会計に利用することも可能です。勤務開始時間、休憩時間、終了時間が記録に残りますので、勤務時間不足や逆に働きすぎのコントロールもできます。 管理される画面キャプチャがスタッフのさぼりを抑止します。場所や時間に囚われず、決めた勤務時間中は集中して生産性高く作業してもらうことが可能になります。<span class="blue">Dokodemo-Kerja</span>は現代の働き方をサポートします。
+						</p>
 						<div class="text-center">
-							<a href="#divForm" class="smooth btn btn-coba">いますぐトライアルを申し込む</a>
+							<a href="#divForm" class="smooth btn btn-coba">いますぐ無料トライアルに申し込む</a>
 						</div>
 						<br/>
 					</div>
@@ -532,18 +541,113 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		<br/>
-		
-		<!--<div class="div-dokodemo">
+
+		<div class="testi-div">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="anton title yellow text-center">事例 / お客様の声</div>
+					</div>
+				</div>
+				<br/>
+				<div class="row">
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<p>
+								それまでのスタッフの評価が間違っていました。　残業代の削減につながりました。
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Director Mr. Nishikawa</strong></span> - <span class="fs-14">IIJ Indonesia</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<p>
+								スタッフのQoLが上がり、皆いきいきと働いています。結果、仕事の実績も上がっています。
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>HR Manager Mr. Subianto</strong></span> - <span class="fs-14">PT. Karisma Zona Kreatifku</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<p>
+								完全リモートワークを実現できた。オフィス家賃の削減効果があった。
+							</p>
+							<div class="text-center"><span class="fs-14">IT Consulting Company</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="clearfix"></div><hr class="hidden-sm hidden-xs"/>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<p>
+								断食期間中なども自由な勤務時間設定ができるので生産性の高い働き方ができています
+							</p>
+							<div class="text-center"><span class="fs-14">Software Developing Company</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+
+		<div class="div-faq">
+			<div class="anton title yellow">FAQ:</div>
+			<br/>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
-						<div class="title">Dokodemo-Kerja</div>
-						<p>Direkomendasikan bagi perusahaan yang mempertimbangkan pekerja jarak jauh (freelencer, remote worker,etc), perusahaan yang ingin meningkatkan produktifitas karyawan, perusahaan yang ingin membatasi penggunaan waktu kerja yang tidak efisien (merokok, istirahat setelah solat, etc)</p>
+						<h3 class="blue2 fw-500">Q. どのような環境で動くのか？なにを用意すればいいのか？</h3>
+						<p>
+							A. 各ユーザーはお使いの端末（Windows, Mac, Linux）に<strong>Dokodemo-Kerja</strong>アプリをインストールするだけで使えます。管理者はブラウザから管理画面にアクセスできます。サーバーを用意するなどは必要なく、すぐに利用スタートすることが可能です。
+						</p>
+						<h3 class="blue2 fw-500">Q. モバイル端末では動かくのか？</h3>
+						<p>
+							A. まだモバイル端末で勤務するスタッフを対象にはしていません。スマートフォンは対象外です。
+						</p>
+						<h3 class="blue2 fw-500">Q. フィールドサービススタッフや外回りの営業スタッフなどはどのように管理できるのか？</h3>
+						<p>
+							A. ラップトップを使用していなかった時間も後から勤務時間の編集を行うことはできます。<strong>Dokodemo-Kerja</strong>は基本的にはデスクワークが多い方に向いていると思います。
+						</p>
+						<h3 class="blue2 fw-500">Q. インドネシア国外でも使えるのか？</h3>
+						<p>
+							A. 問題なく使えます。同日中にタイムゾーンが異なるところに移動して使った場合に管理が少し複雑にはなりますが、使用に問題はありません。
+						</p>
+					</div>
+					<div class="col-md-6">
+						<h3 class="blue2 fw-500">Q. スクリーンショットを撮影、送信する頻度は変更できるのか？</h3>
+						<p>
+							A. Light版では10分間に1回ランダムに送信しています。Standard版では1分間に1回です。ランダムにキャプチャしていますのでユーザーはいつ撮影＆送信されるか把握することはできません。
+						</p>
+						<h3 class="blue2 fw-500">Q. スクリーンショット画像の精度はどうなっているのか？</h3>
+						<p>
+							A. どんな画面であったかは分かります。ただし文字までは判読不可能です。ですのでメールクライアントが開かれていたことは分かりますが、その文面は分かりません。またチャットツールが使われたいたことは分かってもどんなメッセージのやり取りがされていたのかは不明です。Privacyに配慮した解像度となっています。
+						</p>
+						<h3 class="blue2 fw-500">Q. ミニマム契約期間はあるのか？支払方法は？</h3>
+						<p>
+							A. ありません。1ヶ月から利用可能です。月末に利用ユーザー数を集計し請求書を発行いたします。翌月末までに銀行振込にてお支払いいただきます。
+						</p>
+					</div>
+				</div>
+				<br/>
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+						<div style="padding:10px;border:1px solid #edb41a">
+							<div class="div-above-footer">
+								<strong>Dokodemo-Kerja</strong>は、従業員がリモートワークすることを可能にし、無駄な時間と労力を排除して生産性を向上することを助け、管理者の従業員を監視する工数も減らすことができるツールです。個社別のカスタマイズも可能ですのでお問い合わせお待ちしております。
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>-->
+		</div>
+		
 		<div class="div-form" id="divForm">
 			<div class="container">
 				<div class="row">
@@ -626,69 +730,7 @@ if(isset($_POST['submitted']))
 				</form>
 			</div>
 		</div>
-		<div class="div-faq" style="display:none">
-			<div class="anton title yellow">Pertanyaan yang sering diajukan:</div>
-			<br/>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6">
-						<span class="blue2 fw-500">Bagaimana <strong>Dokodemo-Kerja</strong> merekam jam kerja karyawan?</span><br/>
-						Dokodemo-Kerja merekam aktivitas dan jam kerja untuk setiap proyek yang dikerjakan karyawan pada layar perangkat komputernya. Perhitungan akan dimulai dan dihentikan dengan perintah <i>start/stop</i>.<br/><br/>
-						 
-						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> memerlukan akses internet?</span><br/>
-						Akses internet diperlukan untuk mengaktifkan dan mengelola akun Dokodemo-Kerja, serta mengirim data rekaman aktivitas dan jam kerja ke database.<br/><br/>
-						 
-						<span class="blue2 fw-500">Bagaimana jika akses internet saya putus saat <strong>Dokodemo-Kerja</strong> berjalan?</span><br/>
-						Tidak masalah. Akses internet tidak dibutuhkan selama proses penghitungan. Namun, Anda membutuhkan koneksi internet saat tombol stop diklik untuk mengirim data ke database.<br/><br/>
-						 
-						<span class="blue2 fw-500">Berapa jumlah pengguna yang didukung oleh <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Jumlah pengguna bisa disesuaikan menurut kebutuhan perusahaan.<br/><br/>
-						 
-						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> bisa diakses lewat perangkat seluler?</span><br/>
-						Untuk saat ini, perangkat seluler hanya bisa mengakses Dokodemo-Kerja melalui browser.<br/><br/>
-						
-						<span class="blue2 fw-500">Bagaimana cara menyiapkan layanan <strong>Dokodemo-Kerja</strong>? </span><br/>
-						Kami akan menyediakan panduan menyiapkan layanan Dokodemo-Kerja langkah demi langkah. Mulai dari cara mengakses akun master, mengakses aplikasi dan menginstalnya, hingga penggunaannya bagi karyawan.<br/><br/>
-						
-						<span class="blue2 fw-500">Bagaimana cara mengetahui apakah PC atau Mac saya dapat menjalankan <strong>Dokodemo-Kerja</strong>? </span><br/>
-						Dokodemo-Kerja mendukung PC yang menjalankan sistem operasi Windows, Linux, dan Macintosh.<br/><br/>
-					</div>
-					<div class="col-md-6">
-						<span class="blue2 fw-500">Bahasa apa saja yang tersedia untuk <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Untuk saat ini, Dokodemo-Kerja tersedia dalam Bahasa Indonesia dan Inggris.<br/><br/> 
-						 
-						<span class="blue2 fw-500">Dapatkah saya melakukan uji coba <strong>Dokodemo-Kerja</strong> terlebih dahulu sebelum membelinya?</span><br/>
-						Tentu saja. Untuk mendapatkan layanan uji coba, silakan hubungi kami.<br/><br/>
-						
-						<span class="blue2 fw-500">Bagaimana jika saya punya masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Jangan khawatir. Jika Anda mengalami masalah dalam menggunakan Dokodemo-Kerja, Anda dapat langsung menghubungi kami. Kami akan membantu Anda dengan senang hati.<br/><br/>
-						
-						<span class="blue2 fw-500">Saya tertarik menggunakan <strong>Dokodemo-Kerja</strong> untuk perusahaan saya. Bagaimana saya bisa mendapatkannya?</span><br/>
-						Anda hanya perlu menghubungi kami dengan mengisi formulir yang kami sediakan. Kami siap melayani Anda.<br/><br/>
-						
-						<span class="blue2 fw-500">Seberapa efektifkah <strong>Dokodemo-Kerja</strong> pada produktivitas karyawan?</span><br/>
-						Sangat efektif, karena Dokodemo-Kerja mampu mengkalkulasikan total jam kerja karyawan secara real time dan transparan.<br/><br/>
-						
-						<span class="blue2 fw-500">Untuk siapakah <strong>Dokodemo-Kerja</strong> dibuat?</span><br/>
-						Dokodemo-Kerja dibuat untuk para perusahaan yang menggunakan karyawan dengan sistem kerja remote dan independen agar meningkatkan produktifitas perusahaan.<br/><br/>
-						
-						<span class="blue2 fw-500">Apa keuntungan yang didapatkan oleh perusahaan yang menerapkan <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Dengan Dokodemo-Kerja, perusahaan akan diuntungkan dengan produktifitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.<br/><br/>
-						
-					</div>
-				</div>
-				<br/>
-				<div class="row">
-					<div class="col-md-offset-1 col-md-10">
-						<div style="padding:10px;border:1px solid #edb41a">
-							<div class="div-above-footer">
-								Dokodemo-Kerjaは、従業員がリモートワークすることを可能にし、無駄な時間と労力を排除して生産性を向上することを助け、管理者の従業員を監視する工数も減らすことができるツールです。個社別のカスタマイズも可能ですのでお問い合わせお待ちしております。
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+		
 		<a href="#" class="scrollToTop">Back to Top</a>
 <?php /*		<footer>
 			<div class="container">
@@ -832,7 +874,7 @@ ga('send', 'pageview');
 				<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 				<br><br>
 				<div class="provacy-policy-container">
-					<a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
+					<a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
 				</div>
 				<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
 				<ul class=" medsos-new" sty>
@@ -843,9 +885,6 @@ ga('send', 'pageview');
 				</ul>
 				</div>
 			</div>
-
-
-
 
 				<br/><br/>
 
