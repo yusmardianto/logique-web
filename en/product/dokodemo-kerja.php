@@ -216,7 +216,9 @@ if(isset($_POST['submitted']))
 						<span class="blue">Dokodemo-Kerja</span> is a professional work system created to help increasing productivity for independent and flexible workers. Your company can now implement remote work system for employees anywhere and anytime. Employees are freed from the saturation and tight working atmosphere in the office. In addition to facilitate remote-work system, <span class="blue">Dokodemo-Kerja</span> can also be used to monitor productivity of employees in the office. Always track time your employees spent. Find out if they get their tasks done efficiently. See the performance of all employees in detail. With this, managers and HR can determine and evaluate the performance of each employee.
 						<br/><br/>
 						<div class="text-center">
-							<a href="#divForm" class="smooth btn btn-coba">Try Now</a>
+							<a href="#divForm" class="btn btn-start-trial">
+								<img class="img-responsive" src="/en/product/img/dokodemo-kerja/30-days-trial.png" alt="30 Days Trial">
+							</a>
 						</div>
 						<br/>
 					</div>
@@ -528,6 +530,11 @@ if(isset($_POST['submitted']))
 							</div>
 						</div>
 					</div>
+				</div>
+				<div class="banner-trial-30-days text-center">
+					<a href="#divForm" class="btn">
+						<img class="img-responsive" src="/en/product/img/dokodemo-kerja/dokodemo-30-days.png" alt="Banner Free Trials">
+					</a>
 				</div>
 			</div>
 		</div>

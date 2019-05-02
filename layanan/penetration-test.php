@@ -48,11 +48,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<a href="/"><img class="img-responsive logo" src="assets/img/img-pentest/logo.png" alt="Logique"/></a>
-					<div class="div-lang">
-						<a class="active" href="#">IND</a>
-						<a href="/en/services/penetration-test.php">ENG</a>
-						<a href="/jp/services/penetration-test.php">JPN</a>
+					<div class="nav-security clearfix">
+						<a href="/"><img class="img-responsive logo" src="assets/img/img-pentest/logo.png" alt="Logique"/></a>
+						<div class="div-lang">
+							<a class="active" href="#">IND</a>
+							<a href="/en/services/penetration-test.php">ENG</a>
+							<a href="/jp/services/penetration-test.php">JPN</a>
+						</div>
 					</div>
 					<img class="img-responsive center-block top-banner" src="assets/img/img-pentest/top-banner.png" alt="Top Banner"/>
 					<div class="div-question-top">
