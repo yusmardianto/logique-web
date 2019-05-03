@@ -806,5 +806,26 @@ ul.medsos-new li a{
 @media (max-width:767px) {
   .div-masalah-new .title {font-size: 25px;}
 }
-.dl-guide img{position:relative;top:0;transition:all 0.1s linear;}
-.dl-guide:hover img{top:-4px;box-shadow:0 0 15px #fff}
+.dl-guide img, 
+.btn-start-trial img{
+  position:relative;
+  top:0;
+  transition:all 0.1s linear;
+}
+@media (min-width: 500px) {
+  .btn-start-trial img {
+    max-width: 425px;
+  }
+}
+.dl-guide:hover img,
+.btn-start-trial:hover img{
+  top:-4px;box-shadow:0 0 15px #fff
+}
+.banner-trial-30-days {
+  padding: 40px 0;
+}
+@media (min-width: 500px) {
+  .banner-trial-30-days {
+    padding: 40px 20px;
+  }
+}
