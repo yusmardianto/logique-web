@@ -100,7 +100,6 @@ header hr{border-top:5px solid #fff;width:20%}
   padding-left: 10px;
   cursor: pointer;
   margin-bottom: 15px !important;
-  color: #acacac;
 }
 .rdio label:before {
   width: 16px;
@@ -147,6 +146,20 @@ header hr{border-top:5px solid #fff;width:20%}
 }
 .rdio input[type="radio"]:checked + label::after {
   background-color: #000;
+}
+
+.radiobuttons label {
+  margin-left: 10px;
+  padding: 0;
+  font-size: 14px;
+}
+label.highlight-radio {
+  background-color: rgba(255, 202, 19, .9);
+  color: #000;
+  font-weight: 700;
+  border: solid 1px #000;
+  padding: 0 5px;
+  font-size: 13px;
 }
 .div-form .form-control{font-size: 16px;height: 45px;border-radius: 0;box-shadow: none;border: 0;}
 .div-form textarea.form-control{resize: none;height: 242px;}
