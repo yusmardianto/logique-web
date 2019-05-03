@@ -730,19 +730,19 @@ if(isset($_POST['submitted']))
 					<div class="row">
 						<div class="form-group">
 							<div class="col-md-offset-1 col-md-5">
-								<input type="text" class="form-control" name="name" aria-label="Name" placeholder="Name" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
+								<input required type="text" class="form-control" name="name" aria-label="Name" placeholder="Name" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
 							</div>
 							<div class="col-md-5">
-								<input type="text" class="form-control" name="company" aria-label="Company" placeholder="Company" value='<?php echo $formproc->SafeDisplay('company') ?>'/>
+								<input required type="text" class="form-control" name="company" aria-label="Company" placeholder="Company" value='<?php echo $formproc->SafeDisplay('company') ?>'/>
 							</div>
 							<div class="clearfix"></div>
 						</div>
 						<div class="form-group">
 							<div class="col-md-offset-1 col-md-5">
-								<input type="number" class="form-control" name="phone" aria-label="Phone" placeholder="Phone Number" value='<?php echo $formproc->SafeDisplay('phone') ?>'/>
+								<input required type="number" class="form-control" name="phone" aria-label="Phone" placeholder="Phone Number" value='<?php echo $formproc->SafeDisplay('phone') ?>'/>
 							</div>
 							<div class="col-md-5">
-								<input type="email" class="form-control" name="email" aria-label="Email" placeholder="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'/>
+								<input required type="email" class="form-control" name="email" aria-label="Email" placeholder="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'/>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -752,27 +752,35 @@ if(isset($_POST['submitted']))
 									<span class="blue fw-300">Types of specific needs</span>
 									<div class="radiobuttons">
 										<div class="rdio">
-										  <input name="needs" value="Cara menggunakan Dokodemo-Kerja" id="radio2" type="radio" checked>
-										  <label for="radio2">Tentang cara dan penggunaan <strong>Dokodemo-Kerja</strong></label>
+										  <input name="needs" value="About Dokodemo-Kerja free trial" id="radio2" type="radio" required>
+										  <label class="highlight-radio" for="radio2">About Dokodemo-Kerja free trial</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="Untuk kerja jarak jauh" id="radio3" type="radio">
-										  <label for="radio3">Tentang sistem kerja jarak jauh</label>
+										  <input name="needs" value="About Dokodemo-Kerja registration" id="radio3" type="radio" required>
+										  <label class="highlight-radio" for="radio3">About Dokodemo-Kerja registration</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="Untuk meningkatkan produktivitas karyawan" id="radio4" type="radio">
-										  <label for="radio4">Tentang produktivitas karyawan</label>
+										  <input name="needs" value="How to operate Dokodemo-Kerja" id="radio4" type="radio" required>
+										  <label for="radio4">About how to operate Dokodemo-Kerja</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="Untuk kontrol jam kerja karyawan" id="radio5" type="radio">
-										  <label for="radio5">Tentang kontrol jam kerja karyawan</label>
+										  <input name="needs" value="About remote work system" id="radio5" type="radio" required>
+										  <label for="radio5">About remote work system</label>
+										</div>
+										<div class="rdio">
+										  <input name="needs" value="About employee productivity" id="radio6" type="radio" required>
+										  <label for="radio6">About employee productivity</label>
+										</div>
+										<div class="rdio">
+										  <input name="needs" value="About employee working hours management" id="radio7" type="radio" required>
+										  <label for="radio7">About employee working hours management</label>
 										</div>
 									</div>
 								</div>
 								<br/>
 							</div>
 							<div class="col-md-5">
-								<textarea name="message" class="form-control" aria-label="Message" placeholder="Description"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+								<textarea required name="message" class="form-control" aria-label="Message" placeholder="Description"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -932,7 +940,12 @@ if(isset($_POST['submitted']))
 					}
 				});
 
-
+				$('.form-dokodemo').on('submit', function () {
+					if (grecaptcha.getResponse() == '') {
+						alert("Please verify that you are not a robot");
+						return false;
+					}
+				});
 			});
 
 			//Click event to scroll to top

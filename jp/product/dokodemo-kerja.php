@@ -671,19 +671,19 @@ if(isset($_POST['submitted']))
 					<div class="row">
 						<div class="form-group">
 							<div class="col-md-offset-1 col-md-5">
-								<input type="text" class="form-control" name="name" aria-label="Name" placeholder="お名前" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
+								<input required type="text" class="form-control" name="name" aria-label="Name" placeholder="お名前" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
 							</div>
 							<div class="col-md-5">
-								<input type="text" class="form-control" name="company" aria-label="Company" placeholder="会社名" value='<?php echo $formproc->SafeDisplay('company') ?>'/>
+								<input required type="text" class="form-control" name="company" aria-label="Company" placeholder="会社名" value='<?php echo $formproc->SafeDisplay('company') ?>'/>
 							</div>
 							<div class="clearfix"></div>
 						</div>
 						<div class="form-group">
 							<div class="col-md-offset-1 col-md-5">
-								<input type="number" class="form-control" name="phone" aria-label="Phone" placeholder="TEL" value='<?php echo $formproc->SafeDisplay('phone') ?>'/>
+								<input required type="number" class="form-control" name="phone" aria-label="Phone" placeholder="TEL" value='<?php echo $formproc->SafeDisplay('phone') ?>'/>
 							</div>
 							<div class="col-md-5">
-								<input type="email" class="form-control" name="email" aria-label="Email" placeholder="E-mail" value='<?php echo $formproc->SafeDisplay('email') ?>'/>
+								<input required type="email" class="form-control" name="email" aria-label="Email" placeholder="E-mail" value='<?php echo $formproc->SafeDisplay('email') ?>'/>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -693,19 +693,19 @@ if(isset($_POST['submitted']))
 									<span class="blue fw-300">お問い合わせ種</span>
 									<div class="radiobuttons">
 										<div class="rdio">
-										  <input name="needs" value="Dokodemo-Kerjaを試用したい" id="radio2" type="radio" checked>
+										  <input required name="needs" value="Dokodemo-Kerjaを試用したい" id="radio2" type="radio" checked>
 										  <label for="radio2">Dokodemo-Kerjaを試用したい</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="人事管理システムの導入を検討している" id="radio3" type="radio">
+										  <input required name="needs" value="人事管理システムの導入を検討している" id="radio3" type="radio">
 										  <label for="radio3">人事管理システムの導入を検討している</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="採用管理システムの導入を検討している" id="radio4" type="radio">
+										  <input required name="needs" value="採用管理システムの導入を検討している" id="radio4" type="radio">
 										  <label for="radio4">採用管理システムの導入を検討している</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="リモートワーク制の導入を考えている" id="radio5" type="radio">
+										  <input required name="needs" value="リモートワーク制の導入を考えている" id="radio5" type="radio">
 										  <label for="radio5">リモートワーク制の導入を考えている</label>
 										</div>
 									</div>
@@ -713,7 +713,7 @@ if(isset($_POST['submitted']))
 								<br/>
 							</div>
 							<div class="col-md-5">
-								<textarea name="message" class="form-control" aria-label="Message" placeholder="お問い合わせ内容"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+								<textarea required name="message" class="form-control" aria-label="Message" placeholder="お問い合わせ内容"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -940,7 +940,12 @@ ga('send', 'pageview');
 					}
 				});
 
-				
+				$('.form-dokodemo').on('submit', function () {
+					if (grecaptcha.getResponse() == '') {
+						alert("Please verify that you are not a robot");
+						return false;
+					}
+				});
 			});
 			
 			//Click event to scroll to top
