@@ -470,7 +470,7 @@ if(isset($_POST['submitted']))
 		<div class="harga" id="price">
 			<div class="container">
 				<div class="title anton">Dokodemo-Kerja Price</div><br/>
-				<div class="text-center"><strong>Dokodemo-Kerja</strong> Dokodemo-Kerja is created for companies to monitor and track the working time of their employees, freelancers, or remote workers so that the company's productivity increases. Here are the plans offered by Dokodemo-Kerja.</div><br/>
+				<div class="text-center"><strong>Dokodemo-Kerja</strong> is created for companies to monitor and track the working time of their employees, freelancers, or remote workers so that the company's productivity increases. Here are the plans offered by <strong>Dokodemo-Kerja</strong>.</div><br/>
 				<br/>
 				<div class="row">
 					<div class="col-md-4">
