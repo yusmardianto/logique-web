@@ -749,31 +749,31 @@ if(isset($_POST['submitted']))
 						<div class="form-group">
 							<div class="col-md-offset-1 col-md-5">
 								<div style="padding:10px;background:#fff">
-									<span class="blue fw-300">Types of specific needs</span>
+									<span class="blue fw-300">What do you want to know from Dokodemo-Kerja?</span>
 									<div class="radiobuttons">
 										<div class="rdio">
 										  <input name="needs" value="About Dokodemo-Kerja free trial" id="radio2" type="radio" required>
 										  <label class="highlight-radio" for="radio2">About Dokodemo-Kerja free trial</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="About Dokodemo-Kerja registration" id="radio3" type="radio" required>
-										  <label class="highlight-radio" for="radio3">About Dokodemo-Kerja registration</label>
+										  <input name="needs" value="About Dokodemo-Kerja purchase" id="radio3" type="radio" required>
+										  <label class="highlight-radio" for="radio3">About Dokodemo-Kerja purchase</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="How to operate Dokodemo-Kerja" id="radio4" type="radio" required>
-										  <label for="radio4">About how to operate Dokodemo-Kerja</label>
+										  <input name="needs" value="About Dokodemo-Kerja operation" id="radio4" type="radio" required>
+										  <label for="radio4">About Dokodemo-Kerja operation</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="About remote work system" id="radio5" type="radio" required>
-										  <label for="radio5">About remote work system</label>
+										  <input name="needs" value="About remote work system with Dokodemo-Kerja" id="radio5" type="radio" required>
+										  <label for="radio5">About remote work system with Dokodemo-Kerja</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="About employee productivity" id="radio6" type="radio" required>
-										  <label for="radio6">About employee productivity</label>
+										  <input name="needs" value="About increased productivity with Dokodemo-Kerja" id="radio6" type="radio" required>
+										  <label for="radio6">About increased productivity with Dokodemo-Kerja</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="About employee working hours management" id="radio7" type="radio" required>
-										  <label for="radio7">About employee working hours management</label>
+										  <input name="needs" value="About monitor employee working hours with Dokodemo-Kerja" id="radio7" type="radio" required>
+										  <label for="radio7">About monitor employee working hours with Dokodemo-Kerja</label>
 										</div>
 									</div>
 								</div>
