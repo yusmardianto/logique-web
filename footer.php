@@ -82,9 +82,9 @@ twq('track','PageView');
  
 			</div>
 			<div class="col-sm-3 col-sm-pull-9">
-				<div itemscope itemtype="http://schema.org/Organization">
+				<div itemscope itemtype="https://schema.org/Organization">
 					<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
-					<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+					<div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
 					<span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br>Jalan Tb. Simatupang No. 5 <br/>
 					Ragunan, Ps. Minggu,  Jakarta Selatan, <br>Indonesia </span><span itemprop="postalCode">12550</span>
 					<br><br>
@@ -109,19 +109,19 @@ twq('track','PageView');
 		</div>
 		<div class="row">
 			<div class="col-sm-12">
-				<div itemscope itemtype="http://schema.org/CreativeWork">
+				<div itemscope itemtype="https://schema.org/CreativeWork">
 					<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>
-					<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
+					<span itemprop="copyrightHolder" itemtype="https://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
 				</div>
 			</div>
 		</div>
 	</div>
 </footer>
-<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="/js/jquery-3.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/slick.min.js"></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<script src="//cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script>
+<script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script>
 <script>
 $('.map-container')
     .click(function(){
@@ -131,7 +131,7 @@ $('.map-container')
 </script>
 <script type="application/ld+json">
 	{
-	  "@context": "http://schema.org",
+	  "@context": "https://schema.org",
 	  "@type": "Organization",
 	  "address": {
 			"@type": "PostalAddress",

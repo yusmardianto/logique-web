@@ -45,7 +45,6 @@
 	</script>
     <title>Jasa Pembuatan Website, Aplikasi, dan Digital Marketing | LOGIQUE</title>
 
-	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
 	</noscript>
 
