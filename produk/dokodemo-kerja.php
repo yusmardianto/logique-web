@@ -563,7 +563,7 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="banner-trial-30-days text-center">
 					<a href="#divForm" class="btn">
-						<img class="img-responsive" src="/produk/img/dokodemo-kerja/dokodemo-30-days.png" alt="Banner Free Trials">
+						<img class="img-responsive" src="/produk/img/dokodemo-kerja/dokodemo-30-days-ind-banner.png" alt="Banner Free Trials">
 					</a>
 				</div>
 			</div>
