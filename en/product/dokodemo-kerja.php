@@ -641,58 +641,36 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
-						<span class="blue2 fw-500">Bagaimana <strong>Dokodemo-Kerja</strong> merekam jam kerja karyawan?</span><br/>
-						<strong>Dokodemo-Kerja</strong> merekam aktivitas dan jam kerja untuk setiap proyek yang dikerjakan karyawan pada layar perangkat komputernya. Perhitungan akan dimulai dan dihentikan dengan perintah <i>start/stop</i>.<br/><br/>
-
-						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> memerlukan akses internet?</span><br/>
-						Akses internet diperlukan untuk mengaktifkan dan mengelola akun <strong>Dokodemo-Kerja</strong>, serta mengirim data rekaman aktivitas dan jam kerja ke database.<br/><br/>
-
-						<span class="blue2 fw-500">Bagaimana jika akses internet saya putus saat <strong>Dokodemo-Kerja</strong> berjalan?</span><br/>
-						Tidak masalah. Akses internet tidak dibutuhkan selama proses penghitungan. Namun, Anda membutuhkan koneksi internet saat tombol stop diklik untuk mengirim data ke database.<br/><br/>
-
-						<span class="blue2 fw-500">Berapa jumlah pengguna yang didukung oleh <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Jumlah pengguna bisa disesuaikan menurut kebutuhan perusahaan.<br/><br/>
-
-						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> bisa diakses lewat perangkat seluler?</span><br/>
-						Untuk saat ini, perangkat seluler hanya bisa mengakses <strong>Dokodemo-Kerja</strong> melalui browser.<br/><br/>
-
-						<span class="blue2 fw-500">Bagaimana cara menyiapkan layanan <strong>Dokodemo-Kerja</strong>? </span><br/>
-						Kami akan menyediakan panduan menyiapkan layanan <strong>Dokodemo-Kerja</strong> langkah demi langkah. Mulai dari cara mengakses akun master, mengakses aplikasi dan menginstalnya, hingga penggunaannya bagi karyawan.<br/><br/>
-
-						<span class="blue2 fw-500">Bagaimana cara mengetahui apakah PC atau Mac saya dapat menjalankan <strong>Dokodemo-Kerja</strong>? </span><br/>
-						<strong>Dokodemo-Kerja</strong> mendukung PC yang menjalankan sistem operasi Windows, Linux, dan Macintosh.<br/><br/>
-
-						<span class="blue2 fw-500">Bahasa apa saja yang tersedia untuk <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Untuk saat ini, <strong>Dokodemo-Kerja</strong> tersedia dalam Bahasa Indonesia dan Inggris.<br/><br/>
-
-						<span class="blue2 fw-500">Dapatkah saya melakukan uji coba <strong>Dokodemo-Kerja</strong> terlebih dahulu sebelum membelinya?</span><br/>
-						Tentu saja. Untuk mendapatkan layanan uji coba, silakan hubungi kami.<br/><br/>
+						<h3 class="blue2 fw-500">Q. On what OS <strong>Dokodemo-Kerja</strong> can operate? What should be prepared to run it?</h3>
+						<p>
+							A. <strong>Dokodemo-Kerja</strong> can operate on any popular OS, such as Windows, Macintosh, and Linux. You don’t have to prepare a server. All you have to do is simply install <strong>Dokodemo-Kerja</strong>, and you can start using it right away. The administrator can access the management screen through browser.
+						</p>
+						<h3 class="blue2 fw-500">Q. Can <strong>Dokodemo-Kerja</strong> operate on mobile devices?</h3>
+						<p>
+							A. <strong>Dokodemo-Kerja</strong> doesn’t yet cover staffs who work on mobile device. It is still out of our service.
+						</p>
+						<h3 class="blue2 fw-500">Q. How does <strong>Dokodemo-Kerja</strong> manage staffs who work outside of office?</h3>
+						<p>
+							A. Work hours can be edited later when staffs use computers again. <strong>Dokodemo-Kerja</strong> is fundamentally targeted for employees who mainly do desk work.
+						</p>
+						<h3 class="blue2 fw-500">Q. Can <strong>Dokodemo-Kerja</strong> be used outside Indonesia?</h3>
+						<p>
+							A. You can use it with no problem. If you use <strong>Dokodemo-Kerja</strong> while moving to a place with different time zone during the same day, there will be no problem but the monitoring process will be a little bit complicated.
+						</p>
 					</div>
 					<div class="col-md-6">
-						<span class="blue2 fw-500">Bagaimana jika saya punya masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Jangan khawatir. Jika Anda mengalami masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>, Anda dapat langsung menghubungi kami. Kami akan membantu Anda dengan senang hati.<br/><br/>
-
-						<span class="blue2 fw-500">Saya tertarik menggunakan <strong>Dokodemo-Kerja</strong> untuk perusahaan saya. Bagaimana saya bisa mendapatkannya?</span><br/>
-						Anda hanya perlu menghubungi kami dengan mengisi formulir yang kami sediakan. Kami siap melayani Anda.<br/><br/>
-
-						<span class="blue2 fw-500">Seberapa efektifkah <strong>Dokodemo-Kerja</strong> pada produktivitas karyawan?</span><br/>
-						Sangat efektif, karena <strong>Dokodemo-Kerja</strong> mampu mengkalkulasikan total jam kerja karyawan secara real time dan transparan.<br/><br/>
-
-						<span class="blue2 fw-500">Untuk siapakah <strong>Dokodemo-Kerja</strong> dibuat?</span><br/>
-						<strong>Dokodemo-Kerja</strong> dibuat untuk para perusahaan yang menggunakan karyawan dengan sistem kerja remote dan independen agar meningkatkan produktifitas perusahaan.<br/><br/>
-
-						<span class="blue2 fw-500">Apa keuntungan yang didapatkan oleh perusahaan yang menerapkan <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Dengan <strong>Dokodemo-Kerja</strong>, perusahaan akan diuntungkan dengan produktifitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.<br/><br/>
-
-						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> dapat menyesuaikan waktu sesuai dengan zona waktu lokal yang ada?</span><br/>
-						Bisa, Jika Anda mengaktifkan <strong>Dokodemo-Kerja</strong>, maka secara otomatis aplikasi akan mendeteksi zona waktu lokal yang ada.<br/><br/>
-
-						<span class="blue2 fw-500">Apa yang akan terjadi jika kita langsung mematikan OS (Operating System) tanpa menghentikan  <strong>Dokodemo-Kerja</strong> terlebih dahulu?</span><br/>
-						Jika hal ini terjadi, maka pencatatan waktu yang terekam akan berada pada waktu terakhir aplikasi menangkap layar monitor.<br/><br/>
-
-						<span class="blue2 fw-500">Dapatkah <strong>Dokodemo-Kerja</strong> beroperasi di Background System?</span><br/>
-						Tidak bisa, Sebab ketika aplikasi ditutup, maka service secara otomatis juga akan berakhir.<br/><br/>
-
+						<h3 class="blue2 fw-500">Q. Can I change the frequency of capturing and sending screenshots in <strong>Dokodemo-Kerja?</strong></h3>
+						<p>
+							A. In Light version, the screenshot will be captured randomly every 10 minutes. In Standard version, one screenshot per 1 minute. Those screenshots will be captured at random time, therefore users can’t know when it will be captured and sent.
+						</p>
+						<h3 class="blue2 fw-500">Q. What about the resolution of screenshot image used by <strong>Dokodemo-Kerja?</strong></h3>
+						<p>
+							A. <strong>Dokodemo-Kerja</strong> uses image resolution that considers privacy. You can see what the image is, but you can’t see the small detail within it. For instance, you can see a user has opened a client’s email, but you can’t see the content clearly. Also, if a user opens a chat tool, you can’t see what kind of message they have.
+						</p>
+						<h3 class="blue2 fw-500">Q. Is there a minimum contract period needed to use <strong>Dokodemo-Kerja?</strong> And how do I purchase it?</h3>
+						<p>
+							A. There is no minimum contract period. <strong>Dokodemo-Kerja</strong> is available from the first month of contract. At the end of the month, we will count the number of users and issue an invoice. You can pay it via bank transfer until the end of next month.
+						</p>
 					</div>
 				</div>
 				<br/>
