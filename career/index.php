@@ -355,6 +355,52 @@
 			<h3 class="jobs-subtitle">LOWONGAN FULL-TIME</h3>
 			<hr class="separator-career" style="margin-top: 0;border-style: solid;"></hr>
 			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding: 0">
+					<div class="div-job title-job">
+						<div class="valign-center">
+							<img alt="IT Account Executive" src="/img/executive.png" class="img-responsive">
+							<h4>Lowongan</h4>
+							<h5>IT Account Executive</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						<div style="font-weight:bold;font-size:18px">
+							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
+						</div>
+						<br>
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Kandidat harus memiliki gelar D3/S1 di bidang Bisnis/Marketing/IT, atau lainnya yang relevan.</li>
+							<li>Minimal 2 tahun pengalaman di bidang yang sejenis.</li>
+							<li>Memahami proses dan dinamika dunia sales.</li>
+							<li>Mampu bekerja berdasarkan target.</li>
+							<li>Memiliki komitmen yang tinggi pada kualitas pelayanan untuk pelanggan.</li>
+							<li>Memiliki keahlian interpersonal yang luar biasa, termasuk ketangkasan dalam membangun hubungan baik dengan klien.</li>
+							<li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik.</li>
+							<li>Memiliki pengalaman menggunakan komputer untuk berbagai tugas.</li>
+						</ul><br>
+						<b>Job Description:</b><br/>
+						<ul class="joinus-ul">
+							<li>Mengembangkan dan memperluas jaringan klien perusahaan melalui strategi networking dan marketing dengan berbagai instansi, grup, komunitas, dan perusahaan.</li>
+							<li>Menemukan dan membangun relasi yang baik dengan klien baru maupun yang sudah ada.</li>
+							<li>Melakukan telepon dengan calon klien, serta menindaklanjuti proposal dan penawaran kepada klien.</li>
+							<li>Membuat laporan mingguan untuk mengetahui kemajuan target penjualan serta mendokumentasikan kinerja penjualan.</li>
+							<li>Menjawab pertanyaan, menjelaskan manfaat, dan membahas pro dan kontra berbagai produk atau layanan perusahaan.</li>
+							<li>Mampu bekerja sama dengan departemen lainnya.</li>
+							<li>Mampu mencapai target penjualan secara individu.</li>
+						</ul>
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'IT-Account-Executive-Apply-Button', 'Action-Click', 'IT-Account-Executive-Apply-Button-Label');" target="_blank" rel="noreferrer">
+							Apply for IT Account Executive
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
+			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
 						<div class="valign-center">
