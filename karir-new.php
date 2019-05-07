@@ -111,17 +111,19 @@
 			
  			<section class="main-content" id="newkarir-page-content">
  				<div class="container">
-	 				<div class="top-content">
+	 				<div class="top-content sidemargin">
 	 					<div class="row">
-	 						<div class="col-sm-5 text-center">
+	 						<div class="col-md-5 col-sm-12 text-center">
 	 							<a href="index.php" class="main-logo"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo"/></a>
 	 							<h1>Let’s work hard, enjoy hard <br>and grow up together!</h1>
 	 							<p>LOGIQUE is in a process to be the No.1 Web developing<br> company in Indonesia. We already have numbers of big<br> clients. LOGIQUE open big opportunity for you to<br> improve and grow with us in Digital and IT world. </p>
 	 							<a href="#" class="btn-lowongan">Check Our Latest Vacancies</a>
 
 	 						</div>
-	 						<div class="col-sm-7">
-	 							<iframe style="width:100%;height:370px" title="Logique Digital Indonesia - Karir" src="https://www.youtube-nocookie.com/embed/250FrYLHytM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	 						<div class="col-md-7 col-sm-12">
+	 							<div class="karir-video-container">
+	 							<iframe  title="Logique Digital Indonesia - Karir" src="https://www.youtube-nocookie.com/embed/250FrYLHytM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	 							</div>
 	 						</div>
 	 					</div>
 	 				</div>
@@ -131,7 +133,7 @@
 	 					<div class="container-fluid">
 	 					<h2>Gabung Bersama LOGIQUE</h2>
 	 					<div class="row">
-	 						<div class="col-sm-5 col-centered">
+	 						<div class="col-md-5 col-sm-11 col-centered">
 	 							<p>LOGIQUE membuka peluang yang sebesar-besarnya bagi <br>Web Developer, PHP Programmer, Web Designer, Technical Consultant,<br>  Digital Marketing Strategist, dan Content Writer, untuk turut mengambil<br> bagian dalam perkembangan digital dan IT bersama LOGIQUE.</p>
 							</div>
 	 					</div>
@@ -140,15 +142,15 @@
 	 				<div class="message-slider-container  sidemargin">
 	 					<div class="container-fluid">
 	 					<div class="row no-gap">
-	 						<div class="col-sm-4">
-			 					<div class="photo-boss-containe photoslider">
+	 						<div class="col-sm-3">
+			 					<div class="photo-boss-container photoslider">
 			 						<div class="photo-item"> <img src="img/yoshi-photo.jpg" class="img-responsive"></div>
 			 						<div class="photo-item"> <img src="img/yoshi-photo.jpg" class="img-responsive"></div>
 			 						<div class="photo-item"> <img src="img/yoshi-photo.jpg" class="img-responsive"></div>
 			 						<div class="photo-item"> <img src="img/yoshi-photo.jpg" class="img-responsive"></div>
 			 					</div>
 			 				</div>
-			 				<div class="col-sm-8">
+			 				<div class="col-sm-9">
 			 					<div class="message-content-container">
 			 						<h2>Message for Candidates</h2>
 			 						<div class="message-content-slider">
@@ -186,7 +188,7 @@
 	 					</div>
 	 					</div>
 	 				</div>
-	 				<div class="benefit-container">
+	 				<div class="benefit-container  sidemargin">
 	 					<div class="container">
 	 						<h2>Benefit Working for Logique</h2>
 	 						<div class="benefit-desc">LOGIQUE merupakan perusahaan start-up di bidang IT yang dibangun oleh tim yang cerdas, inovatif, dinamis, dan memiliki misi untuk bersama-sama berkontribusi pada perkembangan WEB dan industri Digital di Indonesia.</div>
@@ -205,28 +207,28 @@
 	 							<h3>Other Benefits</h3>
 	 							<div class="other-benefit-list">
 	 								<div class="row">
-	 									<div class="col-sm-4">
+	 									<div class="col-md-4 col-sm-6">
 	 										<div class=" other-benefit-item">
 	 											<img src="img/icon-benefit-health-care.png">Healthcare Insurance</div>
 	 									</div>
-	 									<div class="col-sm-4  ">
+	 									<div class="col-md-4 col-sm-6">
 	 										<div class=" other-benefit-item">
 	 											<img src="img/icon-benefit-device-allowence.png">Device Allowances</div>
 	 									</div>
-	 									<div class="col-sm-4 ">
+	 									<div class="col-md-4 col-sm-6">
 	 										<div class=" other-benefit-item">
 	 											<img src="img/icon-benefit-remote.png">Remote Working Day</div>
 	 									</div>
 	 								 
-	 									<div class="col-sm-4 ">
+	 									<div class="col-md-4 col-sm-6">
 	 										<div class=" other-benefit-item">
 	 											<img src="img/icon-benefit-casual-dresscode.png">Casual Dresscode</div>
 	 									</div>
-	 									<div class="col-sm-4 ">
+	 									<div class="col-md-4 col-sm-6">
 	 										<div class=" other-benefit-item">
 	 											<img src="img/icon-benefit-unofficial-events.png">Fun Unofficial Events</div>
 	 									</div>
-	 									<div class="col-sm-4  ">
+	 									<div class="col-md-4 col-sm-6">
 	 										<div class=" other-benefit-item">
 	 											<img src="img/icon-benefit-performence-bonus.png">Performance Bonus</div>
 	 									</div>
@@ -235,7 +237,7 @@
 	 						</div>
 	 					</div>
 	 				</div>
-	 				<div class="carrer-simulation">
+	 				<div class="carrer-simulation  sidemargin">
 	 					<div class="container">
 	 						<h2>Career Simulation</h2>
 	 						<div class="carrer-simulation-list">
@@ -261,12 +263,12 @@
 	 						</div>
 	 					</div>
 	 				</div>
-	 				<div class="visi-and-filisofi">
+	 				<div class="visi-and-filisofi  sidemargin">
 	 					<div class="container">
 	 						<h2>Visi & Filosofi</h2>
 	 						<div class="vision-list">
 	 							<div class="row">
-	 								<div class="col-sm-4">
+	 								<div class="col-md-4">
 	 									<div class="vision-item">
 	 									<center><h3>Keadilan Berasas Logika</h3>
 	 									<img src="img/icon-justice.png">
@@ -274,7 +276,7 @@
 	 									</p></center>
 	 									</div>
 	 								</div>
-	 								<div class="col-sm-4">
+	 								<div class="col-md-4">
 	 									<div class="vision-item">
 	 									<center><h3>Fleksibilitas</h3>
 	 									<img src="img/icon-flexibility.png">
@@ -282,7 +284,7 @@
 	 									</p></center>
 	 									</div>
 	 								</div>
-	 								<div class="col-sm-4">
+	 								<div class="col-md-4">
 	 									<div class="vision-item">
 	 									<center><h3>Mandiri dan Terampil</h3>
 	 									<img src="img/icon-independence.png">
@@ -294,7 +296,7 @@
 	 						</div>
 	 					</div>
 	 				</div>
-	 				<div class="employee-activity">
+	 				<div class="employee-activity  sidemargin">
 	 					<div class="container">
 	 						<h2 class="text-center">Aktifitas di LOGIQUE</h2>
 	 						<div class="photo-activity-container">
@@ -321,7 +323,7 @@
 	 						<h2 class="text-center">Proses Recruitment</h2>
 	 					</div>
 	 				</div>
-	 				<div class="vacancies-list" >
+	 				<div class="vacancies-list  sidemargin" >
 	 					<div class="title-vacanies-container">
 	 						<div class="container">
 	 							<h2 class="text-center">Lowongan Kerja di LOGIQUE</h2>
@@ -330,7 +332,7 @@
 	 					<div class="container">
 	 						<div class="lowongaan-list">
 	 							<div class="row">
-	 								<div class="col-sm-3">
+	 								<div class="col-md-3 col-sm-6">
 	 									<div class="vacancies-item">
 	 										<div class="img-container">
 	 											<div class="job-location">
@@ -348,7 +350,7 @@
 	 										</div>
 	 									</div>
 	 								</div>
-	 								<div class="col-sm-3">
+	 								<div class="col-md-3 col-sm-6">
 	 									<div class="vacancies-item">
 	 										<div class="img-container">
 	 											<div class="job-location">
@@ -366,7 +368,7 @@
 	 										</div>
 	 									</div>
 	 								</div>
-	 								<div class="col-sm-3">
+	 								<div class="col-md-3 col-sm-6">
 	 									<div class="vacancies-item">
 	 										<div class="img-container">
 	 											<div class="job-location">
@@ -384,7 +386,7 @@
 	 										</div>
 	 									</div>
 	 								</div>
-	 								<div class="col-sm-3">
+	 								<div class="col-md-3 col-sm-6">
 	 									<div class="vacancies-item">
 	 										<div class="img-container">
 	 											<div class="job-location">
@@ -402,7 +404,7 @@
 	 										</div>
 	 									</div>
 	 								</div>
-	 								<div class="col-sm-3">
+	 								<div class="col-md-3 col-sm-6">
 	 									<div class="vacancies-item">
 	 										<div class="img-container">
 	 											<div class="job-location">
@@ -420,7 +422,7 @@
 	 										</div>
 	 									</div>
 	 								</div>
-	 								<div class="col-sm-3">
+	 								<div class="col-md-3 col-sm-6">
 	 									<div class="vacancies-item">
 	 										<div class="img-container">
 	 											<div class="job-location">
@@ -438,7 +440,7 @@
 	 										</div>
 	 									</div>
 	 								</div>
-	 								<div class="col-sm-3">
+	 								<div class="col-md-3 col-sm-6">
 	 									<div class="vacancies-item">
 	 										<div class="img-container">
 	 											<div class="job-location">
@@ -456,7 +458,7 @@
 	 										</div>
 	 									</div>
 	 								</div>
-	 								<div class="col-sm-3">
+	 								<div class="col-md-3 col-sm-6">
 	 									<div class="vacancies-item">
 	 										<div class="img-container">
 	 											<div class="job-location">
@@ -478,7 +480,7 @@
 	 						</div>
 	 					</div>
 	 				</div>
-	 				<div class="magang-banner">
+	 				<div class="magang-banner  sidemargin">
 	 					<div class="container">
 	 						<div class="magang-content-cont">
 	 						<div class="row">
@@ -497,7 +499,7 @@
 			 			</div>
 	 					</div>
 	 				</div>
-	 				<div class="faq-req-container">
+	 				<div class="faq-req-container  sidemargin">
 	 					<div class="container">
 	 						<h2>FAQ about Recruitment</h2>
 	 						<div class="faq-accordion-container">
@@ -576,6 +578,10 @@
  					padding: 8px 25px;
  					color: #111;
  				}
+ 				.karir-video-container iframe{
+ 					width: 100%;
+ 					height: 370px;
+ 				}
  				.message-container{
 					background: url(img/bg-message.jpg) no-repeat;
 					background-size: cover;
@@ -628,20 +634,24 @@
 					color: #111;
  					display: inline-block;
 					font-size: 14px;
-					font-style: normal;
-					margin-top: 10px;
+					font-style: normal; 
 				}
 				.message-content-item{
-					padding: 30px 80px;
+					padding: 30px 30px 10px;
+					 
+				}
+				.message-content-item p{
+					font-size: 14px;
 				}
 				.message-content-slider .slick-dots {
 					text-align: right; 
-					margin-right: 80px;
+					margin-right: 30px;
+					line-height: 9px;
 				}
 				.message-content-slider .slick-dots li{
 					display: inline-block;
 					padding:0 3px;
-
+					line-height: 9px;
 				}
 				.message-content-slider .slick-dots li button{
 					font-size: 0;
@@ -693,7 +703,7 @@
 				.other-benefit-item img{
 					margin-right: 10px;
 				}
-				.carrer-simulation, .visi-and-filisofi{
+				.carrer-simulation{
 					padding:50px 0;
 				}
 				.carrer-simulation{
@@ -864,6 +874,122 @@
  				}
  				.faq-accordion-container .panel-body{
  					padding: 5px 40px 15px;
+ 				}
+ 				.lang-logo{
+ 					z-index: 999;
+ 				}
+ 				@media (max-width:1024px) {
+					#newkarir-page-content .container{
+ 						width: 100%;
+ 						
+ 					}
+ 					.big-benefit h4 span{
+ 						line-height: normal;
+ 					}
+ 					.other-benefit-item{
+ 						padding-left: 0;
+ 					}
+ 					  
+ 					.simulation-item img{
+ 						height: 110px !important;
+ 					}
+ 					.carrer-simulation3 img{
+ 						height: auto !important;
+ 					}
+ 					.simulation-item br{
+ 						display: none;
+ 					}
+ 					.benefit-container h2, .title-vacanies-container h2, .vision-item h3,.magang-cont h2, 
+ 					.faq-req-container h2{
+ 						line-height: normal;
+ 					}
+ 					 .vision-list > .row >div {
+ 						margin-bottom: 20px
+ 					}
+ 					.vacancies-item .img-container img{
+ 						width: 100% !important;
+ 					}
+ 					.faq-req-container h2,
+ 					.btn-lowongan,
+ 					.message-content-slider .slick-dots{
+ 						margin-bottom: 20px;
+ 					}
+ 				}
+ 				@media (max-width:992px) {
+
+ 				}
+ 				@media (max-width: 768px) {
+ 					#newkarir-page-content .top-content br{
+ 						display: none;
+ 					}
+ 				}
+ 				@media (max-width:468px) {
+ 					#newkarir-page-content .top-content .btn-lowongan{
+ 						margin-bottom: 15px;
+ 					}
+ 					#newkarir-page-content .top-content br{
+ 						display: none;
+ 					}
+ 					#newkarir-page-content  .top-content p{
+ 						margin-bottom: 15px;
+ 					}
+ 					.karir-video-container iframe{
+ 						width: 100%;
+ 						height: 165px;
+ 					}
+ 					.sidemargin{
+ 						margin:0;
+ 					}
+ 					.message-content-item{
+ 						padding: 30px 30px 15px; ;
+ 					}
+ 					.message-content-slider .slick-dots{
+ 						margin-bottom: 30px;
+ 					}
+ 					.message-content-item .interview-btn{
+ 						margin-top: 20px;
+ 					}
+ 					.benefit-container h2, .title-vacanies-container h2, .vision-item h3,.magang-cont h2, 
+ 					.faq-req-container h2{
+ 						line-height: normal;
+ 					}
+ 					.big-benefit > .row > div, .carrer-simulation-list > .row > div {
+ 						margin-bottom: 20px
+ 					}
+ 					.other-benefit h3{
+ 						margin-top: 10px;
+ 					}
+ 					.other-benefit-item{
+ 						padding: 0 ;
+ 					}
+ 					.simulation-item img{
+ 						height: 200px !important;
+ 					}
+ 					.vision-item{
+ 						padding: 20px;
+ 					}
+ 					.visi-and-filisofi{
+ 						padding:30px 0 0;
+ 					}
+ 					.visi-and-filisofi h2{
+ 						margin-bottom: 20px;
+ 					}
+ 					.employee-activity{
+ 						padding-bottom: 10px;
+ 					}
+ 					.carrer-simulation{
+ 						padding: 30px 0;
+ 					}
+ 					.magang-content-cont{
+ 						padding: 20px;
+ 					}
+ 					.vacancies-list{
+ 						padding-bottom: 10px;
+ 					}
+ 					
+ 				}
+ 				@media (max-width:320px) {
+
  				}
  			</style>
  			
