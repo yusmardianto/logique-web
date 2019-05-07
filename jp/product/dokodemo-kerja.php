@@ -235,7 +235,9 @@ if(isset($_POST['submitted']))
 							スタッフがいつ、どんな作業をしているのか確認することができます。作業タイプ（タスク種、プロジェクト名）を入力させることで作業時間を集計し管理会計に利用することも可能です。勤務開始時間、休憩時間、終了時間が記録に残りますので、勤務時間不足や逆に働きすぎのコントロールもできます。 管理される画面キャプチャがスタッフのさぼりを抑止します。場所や時間に囚われず、決めた勤務時間中は集中して生産性高く作業してもらうことが可能になります。<span class="blue">Dokodemo-Kerja</span>は現代の働き方をサポートします。
 						</p>
 						<div class="text-center">
-							<a href="#divForm" class="smooth btn btn-coba">いますぐ無料トライアルに申し込む</a>
+							<a href="#divForm" class="btn btn-start-trial">
+								<img class="img-responsive" src="/jp/product/img/dokodemo-kerja/30-days-trial.png" alt="30 Days Trial">
+							</a>
 						</div>
 						<br/>
 					</div>
@@ -539,6 +541,11 @@ if(isset($_POST['submitted']))
 						</div>
 					</div>
 				</div>
+				<div class="banner-trial-30-days text-center">
+					<a href="#divForm" class="btn">
+						<img class="img-responsive" src="/jp/product/img/dokodemo-kerja/dokodemo-30days-jp-banner.png" alt="Banner Free Trials">
+					</a>
+				</div>
 			</div>
 		</div>
 
@@ -575,13 +582,34 @@ if(isset($_POST['submitted']))
 						<div class="testi-content">
 							<div class="anton quotes-mark">“</div>
 							<p>
+								お祈りの前後で長い休憩を取るスタッフがいることには気付いていましたが、宗教が関わると指摘するのは難しいです。ただドコデモを使って以来、皆に公平な休憩管理ができるようになりました。
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Mizuho Yamada</strong></span> - <span class="fs-14">Manager of Back Office</span></div>
+						</div>
+						<br/>
+					</div>
+					
+					<div class="clearfix"></div><hr class="hidden-sm hidden-xs"/>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<p>
+								病気の母の世話をするために家に居る必要があり、仕事を続けることを諦めかけました。ですが、今はリモートワークが可能で、仕事を続けながら母を介護できています。
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Bobby Susanto</strong></span> - <span class="fs-14">Programmer</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<p>
 								完全リモートワークを実現できた。オフィス家賃の削減効果があった。
 							</p>
 							<div class="text-center"><span class="fs-14">IT Consulting Company</span></div>
 						</div>
 						<br/>
 					</div>
-					<div class="clearfix"></div><hr class="hidden-sm hidden-xs"/>
 					<div class="col-md-4">
 						<div class="testi-content">
 							<div class="anton quotes-mark">“</div>

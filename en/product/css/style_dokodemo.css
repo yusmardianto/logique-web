@@ -42,7 +42,7 @@ strong{font-weight: 700!important;}
 .no-gap [class*="-10"],
 .no-gap [class*="-4"],
 .no-gap [class*="-12"]{padding-left:0;padding-right:0;}
-p{margin-bottom: 20px;font-size:18px}
+p{margin-bottom: 20px;}
 p:last-child{margin-bottom: 0;}
 .anton{font-family: 'Anton', sans-serif;}
 
@@ -165,6 +165,7 @@ label.highlight-radio {
 .div-form textarea.form-control{resize: none;height: 242px;}
 .div-faq{padding:40px 0}
 .div-faq .title{font-size:36px;padding:0 15px;text-align:center}
+.div-faq h3 {font-size: 15px;}
 .yellow{color:#edb41a}
 .fw-500{font-weight:500}
 footer{background:#000;padding:40px 0;color:#fff}
@@ -218,6 +219,7 @@ footer p{padding: 22px 0px;}
 .bg-old-yellow  .bg-one-fitur{background: #edaf1a;}
 .heightauto{height: 427px}
 .div-top{padding:65px 0}
+.div-top p {font-size:18px;}
 .navbar-default.navbar-dokdem {width: 100%;background-color:#fff;border: 0;border-bottom: 2px solid #EDB61B;margin-bottom: 0;z-index:1;border-radius: 0;}
 .navbar-dokdem .navbar-brand {height: auto;padding: 10px 15px;}
 .navbar-dokdem .navbar-brand>img {width: 75px;transition: all 0.5s ease-in-out;}
