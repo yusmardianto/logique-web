@@ -104,6 +104,15 @@
 					<div class="csection1" data-aos="zoom-in" data-aos-duration="500">
 						<div class="container">
 							<div class="row">
+								<div class="lang-logo">
+									<ul class="list-inline">
+										<li><a href="en/joinus.php">EN</a></li>
+										<li class="active"><a href="#">ID</a></li>
+										<li><a href="jp/joinus.php">JP</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="row">
 								<div class="col-md-6">
 									<img src="img/career/Logique.png" />
 									<h1>Let’s work hard, enjoy hard<br>and grow up together!</h1>
@@ -134,10 +143,12 @@
 									<!-- Slider 1 -->
 									<div class="row">
 										<div class="col-md-5 text-center">
+											<br>
+											<div class="text-message hidden-sm hidden-md hidden-lg">Message for Candidates</div>
 											<img class="img-people_" src="img/career/img1.png" />
 										</div>
 										<div class="col-md-7 text-center">
-											<div class="text-message">Message for Candidates</div>
+											<div class="text-message hidden-xs">Message for Candidates</div>
 											<p class="sliderx_">“Terima kasih telah mengunjungi halaman karir LOGIQUE. LOGIQUE adalah perusahaan yang menyenangkan, digerakkan oleh orang-orang hebat yang profesional, bekerja keras, dan senang bekerja dalam tim yang bersahabat. Tujuan saya adalah mengembangkan potensi penuh yang dimiliki orang-orang hebat ini sehingga LOGIQUE juga ikut menjadi perusahaan hebat. Saya suka orang yang rajin dan mau berjuang. Saya terus berusaha memberi mereka peluang terbaik untuk bisa sukses besar. Jika Anda mau bergabung bersama kami, tim kami adalah fondasi dari kesuksesan masa depan perusahaan. Perjalanan kita di sini akan menantang sekaligus memberikan manfaat. Mari berkembang dan meraih kesuksesan besar bersama-sama.”</p>
 											<p class="sliderx__">-- Yoshi, CEO / Founder</p>
 											<a class="btn btn-yellow pull-right" data-toggle="modal" href='#pesan1'>Interview with CEO</a>
@@ -148,10 +159,12 @@
 									<!-- Slider 2 -->
 									<div class="row">
 										<div class="col-md-5 text-center">
+											<br>
+											<div class="text-message hidden-sm hidden-md hidden-lg">Message for Candidates</div>
 											<img class="img-people_" src="img/career/ghitta.jpg" />
 										</div>
 										<div class="col-md-7 text-center">
-											<div class="text-message">Message for Candidates</div>
+											<div class="text-message hidden-xs">Message for Candidates</div>
 											<p class="sliderx_">“Sangat penting bagi Anda untuk mengetahui di mana dan bagaimana Anda bekerja. Jika Anda bekerja keras, merasakan bahwa bekerja penting untuk kehidupan Anda, dan ingin berkontribusi kepada perusahaan, kami berjanji akan menyediakan lingkungan kerja yang baik untuk Anda. Di LOGIQUE, kami menyambut individu yang kreatif dan dinamis serta berusaha untuk pengembangan pribadi dan profesional. Sebagai gantinya, maka kami berkomitmen untuk menghasilkan yang terbaik dari diri Anda dengan menawarkan kesempatan untuk kemajuan dan pertumbuhan, dan memberikan karir yang mengubah hidup tidak seperti yang lain. Mari berkembang bersama LOGIQUE!”</p>
 											<p class="sliderx__">-- Ghitta, HRD</p>
 											<a class="btn btn-yellow pull-right" data-toggle="modal" href='#pesan2'>Interview with HRD</a>
@@ -162,10 +175,12 @@
 									<!-- Slider 3 -->
 									<div class="row">
 										<div class="col-md-5 text-center">
+											<br>
+											<div class="text-message hidden-sm hidden-md hidden-lg">Message for Candidates</div>
 											<img class="img-people_" src="img/career/muklis.jpg" />
 										</div>
 										<div class="col-md-7 text-center">
-											<div class="text-message">Message for Candidates</div>
+											<div class="text-message hidden-xs">Message for Candidates</div>
 											<p class="sliderx_">“LOGIQUE tidak hanya melihat technical skill seseorang tetapi juga soft skill dan attitude. Selain itu, selama Anda merasa dapat memberikan kontribusi di bidang Anda, LOGIQUE akan mempertimbangkan hal itu baik-baik. Namun, jika Anda mempunyai target untuk menjadi yang Back-End Developer terbaik, saya menyarankan Anda untuk terbiasa dalam menggunakan berbagai bahasa pemrograman, framework, cloud server topology AWS, dan semacamnya.”</p>
 											<p class="sliderx__">-- Muklis, Senior Back End Developer</p>
 											<a class="btn btn-yellow pull-right" data-toggle="modal" href='#pesan3'>Interview with Senior Back End Developer</a>
@@ -176,10 +191,12 @@
 									<!-- Slider 4 -->
 									<div class="row">
 										<div class="col-md-5 text-center">
+											<br>
+											<div class="text-message hidden-sm hidden-md hidden-lg">Message for Candidates</div>
 											<img class="img-people_" src="img/career/taufik.jpg" />
 										</div>
 										<div class="col-md-7 text-center">
-											<div class="text-message">Message for Candidates</div>
+											<div class="text-message hidden-xs">Message for Candidates</div>
 											<p class="sliderx_">“Show your best. Pastikan kalau kamu memiliki pengalaman dan menguasai bidang yang kamu lamar. Ibaratnya mau jadi atlet renang, kamu tentu harus bisa berenang (haha). Selain itu, tunjukkan juga kalau kamu profesional dan punya minat belajar yang tinggi. Untuk kamu yang senang bekerja cepat, kamu bakal suka bekerja di LOGIQUE.”</p>
 											<p class="sliderx__">-- Taufik, Senior Front End Developer</p>
 											<a class="btn btn-yellow pull-right" data-toggle="modal" href='#pesan4'>Interview with Senior Front End Developer</a>

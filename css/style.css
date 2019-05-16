@@ -3490,6 +3490,7 @@ video.vd-log{
 
 .career-new .csection3 {
     background:#f5f5f5;
+    overflow: hidden;
 }
 
 .career-new .csection4 {
@@ -3777,6 +3778,10 @@ margin-left: 60px;
     margin-top: 2em;
 }
 
+.csection1 .lang-logo {
+    top: 0;padding-left: 1em;
+}
+
 .sliderx_ {
     margin-top: 2em;
     text-align: left;
@@ -3859,4 +3864,6 @@ margin-left: 60px;
     .carousel-indicators {margin-bottom: 20px;right: 44%!important;left: 66%!important;}
     .csection8 .box-faq h3 {font-size: 18px;}
     .csection8 .box-faq p {margin-left: 0;}
+    .sliderx_ {margin-top: 1em;}
+    .csection1 .lang-logo {top: -20px;}
 }
