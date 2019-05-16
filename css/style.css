@@ -3599,7 +3599,7 @@ margin-left: 60px;
     margin-top:1em;
     height: 460px;
 }
-.csection5 .w100 {width: 100%;}
+.csection5 .w100 {width: 100%;height: 180px;object-fit: cover;}
 
 .csection6 h1 {
     font-size: 30px;

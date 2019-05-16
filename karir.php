@@ -447,12 +447,36 @@
 							<div class="row">
 								<div class="col-md-4 text-center p-t-5em" style="z-index:1;">
 									<img src="img/career/wiz1.png" class="wizart-m_" data-aos="fade-right" data-aos-duration="1000" />
+									<div class="col-md-4 text-center boximg-fe hidden-sm hidden-md hidden-lg">
+										<h3>Mei 2018</h3>
+										<p>A memiliki keahlian di bidang html, CSS, JavaScript</p>
+										<div class="box-FE">
+											Jabatan A<br>
+											<b style="font-size:16px;">Junior FE Developer</b>
+										</div><br>
+									</div>
 								</div>
 								<div class="col-md-4 text-center" style="z-index:2;">
 									<img src="img/career/wiz2.png" class="wizart-m_" data-aos="fade-up" data-aos-duration="2000"/>
+									<div class="col-md-4 text-center boximg-fe hidden-sm hidden-md hidden-lg">
+										<h3>Oktober 2018</h3>
+										<p style="font-size:13px;">A meningkatkan keahlian untuk juga menguasai: teknik slicing dari design ke web, React JS (beginner)</p>
+										<div class="box-FE">
+											Jabatan A<br>
+											<b style="font-size:16px;">Middle FE Developer</b>
+										</div><br>
+									</div>
 								</div>
 								<div class="col-md-4 text-center" style="z-index:3;">
 									<img src="img/career/wiz3.png" class="wizart-m_" data-aos="fade-left" data-aos-duration="1000"/>
+									<div class="col-md-4 text-center boximg-fe hidden-sm hidden-md hidden-lg">
+										<h3>Februari 2019</h3>
+										<p>A meningkatkan keahlian untuk juga menguasai: React JS (expert</p>
+										<div class="box-FE">
+											Jabatan A<br>
+											<b style="font-size:16px;">Senior FE Developer</b>
+										</div><br>
+									</div>
 								</div>
 								<div class="col-md-12 text-center margin-fix">
 									<img src="img/career/arrow.png" />
@@ -460,7 +484,7 @@
 							</div>
 
 							<div class="row">
-								<div class="col-md-4 text-center boximg-fe">
+								<div class="col-md-4 text-center boximg-fe hidden-xs">
 									<h3>Mei 2018</h3>
 									<p>A memiliki keahlian di bidang html, CSS, JavaScript</p>
 									<div class="box-FE">
@@ -468,7 +492,7 @@
 										<b style="font-size:16px;">Junior FE Developer</b>
 									</div>
 								</div>
-								<div class="col-md-4 text-center boximg-fe">
+								<div class="col-md-4 text-center boximg-fe hidden-xs">
 									<h3>Oktober 2018</h3>
 									<p>A meningkatkan keahlian untuk juga menguasai: teknik slicing dari design ke web, React JS (beginner)</p>
 									<div class="box-FE">
@@ -476,7 +500,7 @@
 										<b style="font-size:16px;">Middle FE Developer</b>
 									</div>
 								</div>
-								<div class="col-md-4 text-center boximg-fe">
+								<div class="col-md-4 text-center boximg-fe hidden-xs">
 									<h3>Februari 2019</h3>
 									<p>A meningkatkan keahlian untuk juga menguasai: React JS (expert</p>
 									<div class="box-FE">
@@ -546,7 +570,7 @@
 										<img src="img/career/a3.png" class="w100" />
 								</div>
 								<div class="col-md-3">
-										<img src="img/career/a4.png" class="w100" />
+										<img src="img/career/jogja.jpeg" class="w100" />
 								</div>
 							</div>
 
@@ -970,7 +994,7 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p><img src="img/career/siren.png" /> Urgently Needed</p>
+											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" data-toggle="modal" href='#vacancy7'>Detail</a>
 												<div class="modal fade" id="vacancy7">
@@ -1041,7 +1065,7 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p><img src="img/career/siren.png" /> Urgently Needed</p>
+											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" data-toggle="modal" href='#vacancy8'>Detail</a>
 												<div class="modal fade" id="vacancy8">
@@ -1098,7 +1122,7 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p><img src="img/career/siren.png" /> Urgently Needed</p>
+											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" data-toggle="modal" href='#vacancy9'>Detail</a>
 												<div class="modal fade" id="vacancy9">
@@ -1158,7 +1182,7 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p><img src="img/career/siren.png" /> Urgently Needed</p>
+											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" data-toggle="modal" href='#vacancy10'>Detail</a>
 												<div class="modal fade" id="vacancy10">
