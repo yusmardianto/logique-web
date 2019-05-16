@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia is the top Web Developer / Design, Digital Marketing, & IT Consultant in Jakarta. Experienced in growing local and international business across ASEAN, especially Indonesia and Japan, by creating high quality websites, systems, and development in the digital world.">
 	<meta name="keywords" content="website creation, web-system development, internet marketing, SEO, designing, pamphlet, mobile application">
 	<meta name="author" content="PT. Logique Digital Indonesia">
@@ -56,7 +56,7 @@
 		<div class="wrapper o-wrapper top-only">
 
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>
@@ -73,7 +73,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="about.php">
+							<a href="logique.php">
 								<div class="img-about"></div>
 								About Us
 							</a>
@@ -109,7 +109,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank">
+							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>
@@ -457,23 +457,5 @@
 			<br/>
 			<?php include 'footer.php';?>
 		</div>
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="../js/bootstrap.min.js"></script>
-		<script src="../js/slick.min.js"></script>
-		<script type="application/ld+json">
-			{
-			  "@context": "http://schema.org",
-			  "@type": "Organization",
-			  "address": {
-					"@type": "PostalAddress",
-					"addressLocality": "Jakarta, Indonesia",
-					"postalCode": "12550",
-					"streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
-			  },
-			  "logo": "https://www.logique.co.id/img/logo.png",
-			  "email": "info(at)logique.co.id",
-			  "telephone": "+62 (21) 2270 8935/36"
-			}
-		</script>
 	</body>
 </html>

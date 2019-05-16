@@ -1,9 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+* {
+    font-family: 'Raleway', 'sans-serif';
+}
 html,
 body {
-    font-family:"メイリオ", Meiryo, Lato,  "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
+    /* font-family:"メイリオ", Meiryo, Lato,  "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif; */
     background-color: #fff;
     overflow-x: hidden;
-} 
+    line-height: 1.7;
+    font-size: 15px;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif;
+}
 header {
     background: url(../img/img-systemdev/img1.jpg);
     background-repeat: no-repeat;
@@ -293,7 +302,8 @@ footer p:before {
     left: 0;
 }
 .logique-nav .text-center {
-    padding: 5px 10px
+    padding: 5px 10px;
+    line-height: normal;
 }
 .logique-nav .text-center.active,
 .logique-nav .text-center.active:focus,
@@ -311,7 +321,8 @@ footer p:before {
 }
 .logique-nav a {
     color: #000;
-    text-decoration:none!important
+    text-decoration:none!important;
+    font-size: 12px;
 }
 .logique-nav .text-center.active a,
 .logique-nav .text-center.active:focus a,

@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="Jika Anda tertarik menerapkan strategi digital marketing untuk bisnis Anda, LOGIQUE dapat membantu meningkatkan profit bisnis Anda lewat SEO, kampanye iklan Google Ads, Facebook Ads, dan lain-lain.">
 	<meta name="keywords" content="digital marketing, pemasaran digital, strategi digital marketing, layanan digital marketing, digital marketing logique">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -37,7 +37,7 @@
 </head>
 	<body>
 		<div class="nav-lp">
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span> 
@@ -53,7 +53,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/tentang-kami.php">
+							<a href="/logique.php">
 								<div class="img-about"></div>
 								Tentang Kami
 							</a>
@@ -89,7 +89,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank">
+							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>
@@ -106,7 +106,7 @@
 			</ul>
 		</div>
 		<div class="div-top">
-			<div class="title">
+			<h1 class="title">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 text-center">
@@ -115,7 +115,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</h1>
 			<br/><br/><div class="hidden-xs"><br/></div>
 			<div class="container">
 				<div class="row">
@@ -130,7 +130,7 @@
 						</div>
 					</div>
 					<div class="col-md-5">
-						<img src="assets/img/img-digital-marketing/img-top.png" class="img-fluid center-block"/>
+						<img src="assets/img/img-digital-marketing/img-top.png" alt="Image Top" class="img-fluid center-block"/>
 					</div>
 				</div>
 				<br/><br/><br/>
@@ -179,7 +179,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4">
-						<br/><img src="assets/img/img-digital-marketing/img-mengapa.png" class="img-mengapa img-responsive center-block"/>
+						<br/><img src="assets/img/img-digital-marketing/img-mengapa.png" alt="Why Choose Logique Services?" class="img-mengapa img-responsive center-block"/>
 						<br/>
 						<div class="bg-black-title">Mengapa harus pilih Layanan Digital Marketing LOGIQUE?</div>
 					</div>
@@ -437,12 +437,12 @@
 				<div class="row">
 					<div class="col-lg-offset-3 col-lg-6">
 						Untuk informasi lengkapnya, Anda dapat menghubungi <b>Logique Digital Indonesia</b> melalui email di <a href="mailto:info@logique.co.id">info@logique.co.id</a> atau mendaftar melalui form yang ada di link berikut ini <br/><br/>
-						<a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"><img alt="Form" src="assets/img/img-digital-marketing/form-footer.png" class="img-responsive center-block"/></a>
+						<a href="/hubungi-kami.php" target="_blank"><img alt="Form" src="assets/img/img-digital-marketing/form-footer.png" class="img-responsive center-block"/></a>
 						<br/>
 						Layanan Kami lainnya:<br/>
-						<a target="_blank" href="/layanan/pembuatan-website-karir-perusahaan/">Pembuatan Website Karir Perusahaan</a>
+						<a target="_blank" href="/layanan/pembuatan-web-karir.php">Pembuatan Website Karir Perusahaan</a>
 						<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-						<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/">Pembuatan Aplikasi Mobile</a>
+						<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile.php">Pembuatan Aplikasi Mobile</a>
 					</div>
 				</div>
 			</div>

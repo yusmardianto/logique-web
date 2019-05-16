@@ -3,14 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia is a web developer company from Japan, has been trusted by local and international clients. The excellent Web Developer / Design, Mobile App, Digital Marketing in Jakarta. Our experienced team provides you the best solution to grow your business. Contact us now.">
   <meta name="keywords" content="website creation, onstruction web, internet marketing, SEO, maintenance, mobile application, design, pamphlet">
   <meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Web Developer, Mobile App, Digital Marketing Jakarta | LOGIQUE DIGITAL INDONESIA">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
-  <meta property="og:url" content="https://www.logique.co.id/en/about.php">
+  <meta property="og:url" content="https://www.logique.co.id/en/logique.php">
   <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
   <meta property="og:description" content="LOGIQUE Digital Indonesia is a web developer company from Japan, has been trusted by local and international clients. The excellent Web Developer / Design, Mobile App, Digital Marketing in Jakarta. Our experienced team provides you the best solution to grow your business. Contact us now.">
   <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
@@ -27,7 +27,7 @@
     <div class="wrapper">
 
       <!-- NAVIGATION -->
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+      <button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar first"></span>
         <span class="icon-bar second"></span>
         <span class="icon-bar third"></span>
@@ -44,7 +44,7 @@
               </a>
             </div>
             <div class="text-center active">
-              <a href="about.php">
+              <a href="logique.php">
                 <div class="img-about"></div>
                 About Us
               </a>
@@ -80,7 +80,7 @@
               </a>
             </div>
             <div class="text-center">
-              <a href="https://www.logique.co.id/blog/" target="_blank">
+              <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
                 <div class="img-blog"></div>
                 Blog
               </a>
@@ -104,8 +104,8 @@
             <div class="lang-logo">
               <ul class="list-inline">
                 <li class="active"><a href="#">EN</a></li>
-                <li><a href="../tentang-kami.php">ID</a></li>
-                <li><a href="../jp/about.php">JP</a></li>
+                <li><a href="../logique.php">ID</a></li>
+                <li><a href="../jp/logique.php">JP</a></li>
               </ul>
               <a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
               <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
@@ -189,7 +189,7 @@
             <div class="title title-30"><b>Company</b><span class="yellow">Overview</span></div>
             <div class="row">
               <div class="col-sm-5">
-                <img src="/img/slider1.jpg" class="img-responsive center-block" style="border: 1px solid #ccc;height: 462px;object-fit: cover;object-position: -245px 0;"/><br/>
+                <img src="/img/slider1.jpg" alt="PT. Logique Digital Indonesia" class="img-responsive center-block" style="border: 1px solid #ccc;height: 462px;object-fit: cover;object-position: -245px 0;"/><br/>
               </div>
               <div class="col-sm-7">
                 Company Name<br/>
@@ -209,7 +209,7 @@
                 <br/><br/>
                 Phone<br/>
                 <b>+62(21) 2270 8935 / 36</b><br>
-                <b><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" style="vertical-align: top; color: #333"> <img src="../img/whatsapp.png" width="16" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a></b>
+                <b><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" rel="noreferrer" style="vertical-align: top; color: #333"> <img src="../img/whatsapp.png" alt="WhatsApp" width="16" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a></b>
                 <br/><br/>
                 Development Center<br/>
                 <b>Yogyakarta ( Umbulharjo, Kota Yogyakarta )</b>
@@ -219,7 +219,7 @@
 
           <div class="title title-30"><b>Director’s</b><span class="yellow">Profile&amp;Message</span></div>
           <div class="form-container">
-            <img src="/img/yoshi.jpg" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
+            <img src="/img/yoshi.jpg" alt="Takashi Yoshitsugu" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
             Born in Tokyo, Japan, in 1976. In 1999, he graduated from Department of Management Science, Waseda University in Tokyo. He has a plenty of experiences starting at Japan Research Institute, Inc., CRM consulting firm, etc. Until 2005, he had founded his own e-commerce business, import trading company, and consulting firm in Japan. He founded and has been operating this company in Indonesia since 2012.
             <br/><br/>
             <div style="background: #ececec; padding: 15px 20px; border-top: 2px solid #ffca13">
@@ -243,12 +243,12 @@
                 <div class="row" >
                   <div class="col-sm-6">
                     <a href="/en/services.php">
-                      <img src="../img/service-banner-sm-en.png" alt="service banner" class="img-responsive">
+                      <img src="../img/service-banner-sm-en.png" alt="Service Banner" class="img-responsive">
                     </a>
                   </div>
                   <div class="col-sm-6">
                     <a href="/en/product.php">
-                      <img src="../img/product-banner-sm-en.png" alt="" class="img-responsive">
+                      <img src="../img/product-banner-sm-en.png" alt="Product Banner" class="img-responsive">
                     </a>
                   </div>
                 </div>
@@ -258,12 +258,12 @@
                 <div class="row" >
                   <div class="col-sm-6">
                     <a href="/en/joinus.php">
-                      <img src="../img/job-banner-sm-en.png" alt="service banner" class="img-responsive">
+                      <img src="../img/job-banner-sm-en.png" alt="Job Banner" class="img-responsive">
                     </a>
                   </div>
                   <div class="col-sm-6">
                     <a href="/en/portfolio.php">
-                      <img src="../img/portfolio-banner-sm-en.png" alt="" class="img-responsive">
+                      <img src="../img/portfolio-banner-sm-en.png" alt="Portfolio Banner" class="img-responsive">
                     </a>
                   </div>
                 </div>

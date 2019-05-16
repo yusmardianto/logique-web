@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUEがインドネシアで作るWeb / ホームページは、集客ができる、お問い合わせが増える、採用応募者が増える、などコンバージョンが増える価値のあるWebです。WEBチャネルを活用して営業を効率的に行いたい、他社と差別化したい、カスタマーサービスを効率化したい、採用を強化したい、
 場合はLOGIQUEにお任せください。LOGIQUEのWeb制作サービス詳細。">
 	<meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, 印刷">
@@ -30,7 +30,7 @@
 		<div class="wrapper">
 
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>
@@ -82,7 +82,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/ja" target="_blank">
+							<a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>
@@ -114,7 +114,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">LOGIQUEのサービス</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">Webサイト・ホームページ制作、システム開発実績、モバイルアプリ開発、デジタルマーケティング実行事例などを紹介します。</h1>
+							<h1 class="tagline">デジタルマーケティング関連の様々なサービスをインドネシアでワンストップでご提供しています。Webサイト・ホームページ制作から、システム開発、モバイルアプリ開発までインドネシアで戦うためのご支援をしています。</h1>
 						</div>
 					</div>
 				</div>
@@ -144,10 +144,10 @@
 						<br/>
 						<div class="row">
 							<div class="col-sm-6">
-								<a href="/jp/services/mekanisme-pembuatan-website/" target="_blank"><img src="/img/banner1-jpn.jpg" alt="Mekanisme Pembuatan Website" style="width:100%"/></a>
+								<a href="/jp/services/web-dev.php" target="_blank"><img src="/img/banner1-jpn.jpg" alt="Web Dev" style="width:100%"/></a>
 							</div>
 							<div class="col-sm-6">
-								<a href="/jp/services/pembuatan-sistem-web/" target="_blank"><img src="/img/banner2-jpn.jpg" alt="Pembuatan Sistem Website" style="width:100%"/></a>
+								<a href="/jp/services/system-dev.php" target="_blank"><img src="/img/banner2-jpn.jpg" alt="System Dev" style="width:100%"/></a>
 							</div>
 						</div>
 						<br/>
@@ -171,13 +171,13 @@
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
-												<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank">
+												<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/dmi.png" class="img-responsive center-block">
 												DMI<br>
 												</a>
 											</div>
 											<div class="col-sm-5">
-												<a href="http://sentraya.id/" target="_blank">
+												<a href="http://sentraya.id/" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/sentraya.png" class="img-responsive center-block">
 												MENARA SENTRAYA<br>
 												</a>
@@ -196,17 +196,17 @@
 										<i class="fa-li fa fa-caret-right"></i> <b>採用サイト制作</b><br/>
 										ジャカルタにて、ミスマッチングとならない良い人材の採用の難易度は非常に高くなっています。自社で採用サイトをもち、これを受け皿としてデジタルを活用した採用活動をすることが一つの解決策となります。会社について、人について、求めている人材について、インタビュー動画なども交えて伝えることで効果的な採用が可能となります。求人ページ・サイトと採用管理システムを連動させる案件の実績も豊富にもっています。
 										<br/>
-										<a target="_blank" href="/jp/services/pembuatan-website-karir-perusahaan/" class="btn btn-service-link">もっと見る</a>
+										<a target="_blank" href="/jp/services/recruitment-web-dev.php" class="btn btn-service-link">もっと見る</a>
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
-												<a href="http://trendpot-recruit.asia/index.php" target="_blank">
+												<a href="http://trendpot-recruit.asia/index.php" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/trendpot.png" class="img-responsive center-block">
 												TRENDPOT<br><br>
 												</a>
 											</div>
 											<div class="col-sm-5">
-												<a href="https://career.sinarmasland.com/" target="_blank">
+												<a href="https://career.sinarmasland.com/" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/sinarmas.jpg" class="img-responsive center-block">
 												SINAR MAS LAND<br><br>
 												</a>
@@ -265,7 +265,7 @@
 										インドネシアでの採用活動は大変です。質の低いレジュメが大量に送られてきてスクリーニングが大変だったり、インタビューをセットしてもNo showだったりと採用工数は大きくなってしまいがちです。当社が開発販売しているSugoi-Saiyoを使えば、各応募者向けにマイページを提供し、採用担当者はスコアに基づいた自動書類選考やWhatsApp連動のオンラインインタビューができるなど、効率的な採用ができます。
 									</li>
 								</ol>
-								<center><a href="/jp/product/sugoi-saiyo.php" style="display: block" <target="_blank"><img src="../img/sugoi-banner.jpg" class="img-responsive" style="width: 100%; height: auto;"></center>
+								<center><a href="/jp/product/sugoi-saiyo.php" aria-label="Sugoi Saiyo" style="display: block" target="_blank"><img src="../img/sugoi-banner.jpg" class="img-responsive" style="width: 100%; height: auto;"></a></center>
 							  </div>
 							</div>
 						  </div>
@@ -287,7 +287,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>モバイルアプリケーション制作 </b><br/>
 										アンドロイドApp、iOSアプリをインドネシアマーケットに合わせて開発できます。 企画や技術だけでなく、企画をUI、UXに落とし込み、デザイン制作からアプリケーション開発までワンストップで行い、申請登録、運用までしっかりご支援します。PWA開発も豊富にあります。<br/>
-										<a target="_blank" href="/jp/services/pembuatan-aplikasi-mobile/" class="btn btn-service-link">モバイルApp開発についてもっとみる</a>
+										<a target="_blank" href="/jp/services/mobile-app-dev.php" class="btn btn-service-link">モバイルApp開発についてもっとみる</a>
 									</li>
 								</ol>
 							  </div>
@@ -351,7 +351,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Webセキュリティ診断（脆弱性診断・検査）</b><br/>
 										Webサイトやアプリケーションの脆弱性を診断・レポートします。SQLインジェクション、クロスサイトスクリプティング、セッションハイジャックなどの攻撃による被害の発生を未然に防ぐことができます。診断ツール、経験豊富な担当者による診断の両方を併用して診断します。診断項目などによりますが15,000,000 IDRから診断可能です。
-										<br><a target="_blank" href="/jp/services/penetration-testing/" class="btn btn-service-link">Webセキュリティ診断について詳しくみる</a>
+										<br><a target="_blank" href="/jp/services/penetration-test.php" class="btn btn-service-link">Webセキュリティ診断について詳しくみる</a>
 									</li>
 								</ol>
 							  </div>

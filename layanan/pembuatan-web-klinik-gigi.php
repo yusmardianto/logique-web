@@ -38,7 +38,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="LOGIQUE bisa membantu Anda dalam pembuatan website dan aplikasi mobile untuk bisnis klinik gigi dengan tampilan profesional dan user friendly. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
 	<meta name="keywords" content="website dental, dokter gigi, klinik gigi, jasa website dental dan klinik dental, logique">
 	<meta name="author" content="Logique Digital Indonesia">
@@ -46,7 +46,7 @@ if(isset($_POST['submitted']))
 	<meta property="og:title" content="Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-website-klinik-gigi/">
+	<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-web-klinik-gigi.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="LOGIQUE bisa membantu Anda dalam pembuatan website dan aplikasi mobile untuk bisnis klinik gigi dengan tampilan profesional dan user friendly. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
 	<!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> -->
@@ -80,7 +80,7 @@ ga('send', 'pageview');
 	<body class="dentalpage">
 		<div class="wrapper">
 			<header class="head-banner">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
 					<span class="icon-bar third"></span> 
@@ -96,7 +96,7 @@ ga('send', 'pageview');
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="/tentang-kami.php">
+								<a href="/logique.php">
 									<div class="img-about"></div>
 									Tentang Kami
 								</a>
@@ -132,7 +132,7 @@ ga('send', 'pageview');
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="https://www.logique.co.id/blog/" target="_blank">
+								<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 									<div class="img-blog"></div>
 									Blog
 								</a>
@@ -156,7 +156,7 @@ ga('send', 'pageview');
 					</div>
 				</div>
 			<div class="arraw-down text-center">
-				<a href="#poin" class="smooth"><img src="assets/img/img-dentist/new/arrow.png"></a>
+				<a href="#poin" aria-label="Pentingnya website pribadi klinik gigi" class="smooth"><img src="assets/img/img-dentist/new/arrow.png" alt="Arrow"></a>
 			</div>	
 			<img src="assets/img/img-dentist/new/drg.png" alt="dokter gigi" class="drg">
 			</header>
@@ -265,7 +265,7 @@ ga('send', 'pageview');
 								<div class="col-md-4 col-sm-4">
 									<div class="d-layanan l1">
 										<h2><img src="assets/img/img-dentist/new/logo.png" alt="LOGIQUE" class="l-logo"> siap memberikan solusi untuk klinik gigi Anda!</h2>
-										<h3>Berikut <b>layanan solusi</b> yang kami tawarkan.</h3>
+										<h3>Berikut layanan solusi yang kami tawarkan.</h3>
 									</div>
 								</div>
 								<div class="col-md-4 col-sm-4">
@@ -394,7 +394,7 @@ ga('send', 'pageview');
 				<div class="container">
 					<h2 class="text-center">Masalah <span class="white-text">yang Sering Dihadapi</span> Klinik Gigi</h2>
 					<div class="tooth-cont">
-								<img src="assets/img/img-dentist/tooth2.png" class="img-responsive">
+								<img src="assets/img/img-dentist/tooth2.png" alt="Tooth Image" class="img-responsive">
 							</div>
 					<div class="row ">
 						<div class="col-md-6 col-sm-5">
@@ -635,7 +635,7 @@ ga('send', 'pageview');
 			</section>
 			<section id="contactbtn" class="contactbtn-section hidden">
 				<div class="container text-center">
-					<div class="btn-container"><a class="btn contactbtn" href="https://www.logique.co.id/hubungi-kami.php" target="_blank"> Hubungi Kami </a></div>
+					<div class="btn-container"><a class="btn contactbtn" href="/hubungi-kami.php" target="_blank"> Hubungi Kami </a></div>
 				</div>
 			</section>
 			<section id="testimonial" class="testimonial-section hidden">
@@ -673,14 +673,14 @@ ga('send', 'pageview');
 								<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 								<fieldset><div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div></fieldset>
 								<fieldset>
-									<input type="text" name="name" id="name" class="input-name form-control"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Nama">
+									<input type="text" name="name" id="name" class="input-name form-control" aria-label="Name"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Nama">
 								</fieldset>
 								<fieldset>
-									<input type="text" name="email" id=" email" class="input-email form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Alamat Email">
+									<input type="text" name="email" id=" email" class="input-email form-control" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Alamat Email">
 								</fieldset>
 								<fieldset>
 		 
-									<textarea class="textarea-message form-control" name="message" placeholder="Pesan"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+									<textarea class="textarea-message form-control" name="message" aria-label="Message" placeholder="Pesan"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</fieldset>
 								<fieldset>
 									 
@@ -717,110 +717,8 @@ ga('send', 'pageview');
 				
 				</div> 
 			</section>
-			<footer>
-				<div class="container">
-				  <div class="row">
-				    <div class="col-sm-9 col-sm-push-3">
-				      <div class="row">
-				        <div class="col-sm-4 link-footer-nav">
-				          <ul>
-				            <li><a href="/index.php">Beranda</a></li>
-				            <li><a href="/tentang-kami.php">Tentang Kami</a> </li>
-				            <li  class="have-submenu"><a href="/layanan.php">Layanan</a>
-				              <ul>
-				                <li class="have-submenu"><a href="/layanan/mekanisme-pembuatan-website/" target="_blank">Jasa Pembuatan Website</a>
-				                  <ul>
-				                    <li><a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank">  Pembuatan Website Career</a> </li>
-				                    <li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank"> Website Klinik Gigi </a></li>
-				                  </ul>
-				                </li>
-				                <li><a href="/layanan/pembuatan-sistem-web/" target="_blank">Jasa Pengembangan Sistem Web</a></li>
-				                <li><a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank">Pengembangan Aplikasi Mobile </a></li>
-				                <li class="text-left"><a href="/layanan/penetration-testing/" target="_blank">Pengetesan Keamanan Website (Pentest) </a></li>
-				              </ul>
-				            </li>
-				          </ul>
-				
-				           
-				        </div>
-				        <div class="col-sm-4 link-footer-nav">
-				           <ul>
-				            <li  class="have-submenu">
-				              <a href="/produk.php">Produk Kami</a>
-				              <ul>
-				                <li><a href="/produk/dokodemo-kerja.php" target="_blank">
-				                  Dokodemo-Kerja  <br><span style="font-size: 11px;">(Sistem aplikasi bagi pekerja remote) </span> </a>
-				                </li>
-				                <li>
-				                  <a href="/produk/nippo.php" target="_blank"> Nippo <br> <span style="font-size: 11px;">(Sistem aplikasi laporan pegawai harian)</span>  </a>
-				                </li>
-				                <li>
-				                  <a href="/produk/sugoi-saiyo.php" target="_blank"> Sugoi Saiyo <br> <span style="font-size: 11px;">(Sistem aplikasi perekrutan pegawai)</span></a>
-				                </li>
-				              </ul>
-				            </li>
-				            <li><a href="/portofolio.php">Portofolio</a></li>
-				            <li  class="have-submenu"><a href="/karir.php">Karir</a>
-				              <ul>
-				                <li><a href="/career/">Join LOGIQUE</a></li>
-				              </ul>
-				            </li>
-				            <li><a href="/hubungi-kami.php">Hubungi Kami</a></li>
-				           </ul>
-				            
-				            <!-- <h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Restoran </a></h6> -->
-				             
-				        </div>
-				        <div class="col-sm-4 link-footer">
-				           <p >Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/mekanisme-pembuatan-website/" target="_blank"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>
-				
-				          <div class="footer-title"  style="margin-top: 20px; margin-bottom: 0;">Media Sosial</div>
-				         
-				            <ul class="medsos-new">
-				              <li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
-				              <li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-				              <li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-				              <li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-				            </ul>
-				       
-				        </div>
-				      </div>
-				
-				    </div>
-				    <div class="col-sm-3 col-sm-pull-9">
-				      <div itemscope itemtype="http://schema.org/Organization">
-				        <div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
-				        <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-				        <span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br>Jalan Tb. Simatupang No. 5 <br/>
-				        Ragunan, Ps. Minggu,  Jakarta Selatan, <br>Indonesia </span><span itemprop="postalCode">12550</span>
-				        <br><br>
-				        &nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
-				        <br>
-				        <a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
-				        <br><br>
-				        </div>
-				      </div> 
-				      <div class="provacy-policy-container">
-				        <a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
-				      </div>
-
-				    </div>
-				  </div>
-				  <div class="row">
-				    <div class="col-sm-12">
-				      <div itemscope itemtype="http://schema.org/CreativeWork">
-				        <div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>
-				        <span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
-				      </div>
-				    </div>
-				  </div>
-				</div>
-			</footer>
+			<?php include '../footer.php'; ?>
 		</div>
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="/js/bootstrap.min.js"></script>
-		<script src="/js/slick.min.js"></script>
-		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<script>
 		$(function() {
 		    $('.smooth').click(function() {

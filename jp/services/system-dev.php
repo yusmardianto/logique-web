@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="LOGIQUEは、WEBサイト・ホームページ制作、CMSやEC、会員管理システムなどの開発運用、Digitalマーケティング、アプリ開発、SNS運用、インターネットビジネスコンサルティングなどをインドネシアで提供しています。クライアントの新規事業をデジタル・IT面で幅広くご支援しています。お気軽に日本語でご連絡ください。">
 	<meta name="keywords" content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -67,7 +67,7 @@ if(isset($_POST['submitted']))
 			
 			<!-- NAVIGATION -->
 			<div class="nav-lp">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
 					<span class="icon-bar third"></span> 
@@ -83,7 +83,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="/jp/about.php">
+								<a href="/jp/logique.php">
 									<div class="img-about"></div>
 									会社概要
 								</a>
@@ -119,7 +119,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="https://www.logique.co.id/blog/ja" target="_blank">
+								<a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
 									<div class="img-blog"></div>
 									Blog
 								</a>
@@ -231,7 +231,7 @@ if(isset($_POST['submitted']))
 						<div class="osc-item">
 							
 							<div class="">
-								<img src="assets/img/img-systemdev/logo-caroline.png">
+								<img src="assets/img/img-systemdev/logo-caroline.png" alt="Caroline Logo">
 							</div>
 							<h4>スピーディーな開発</h4>
 							<div class="osc-desc"> 僅か3ヶ月でゼロから基幹業務システムを構築。オンラインで中古車を売買するマーケットプレイスを構築した。<a href="../../case-study/caroline-bidding-system/"  >もっと見る</a></div>
@@ -243,7 +243,7 @@ if(isset($_POST['submitted']))
 						<div class="osc-item">
 							
 							<div class="">
-								<img src="assets/img/img-systemdev/logo-zutto.png">
+								<img src="assets/img/img-systemdev/logo-zutto.png" alt="Zutto Logo">
 							</div>
 							<h4>長期間に渡りシステム改善PDCA</h4>
 							<div class="osc-desc"> 約5年に渡ってZuttoRide社のCRMシステムをゼロから開発、フェージングを適切にコントロールしながら機能追加、システム改善のPDCAサイクルを一緒に回してきた。<a href="../../case-study/zuttoride-customer-management-system/"  >もっと見る</a></div>
@@ -255,7 +255,7 @@ if(isset($_POST['submitted']))
 						<div class="osc-item">
 							
 							<div class="">
-								<img src="assets/img/img-systemdev/logo-vip.png">
+								<img src="assets/img/img-systemdev/logo-vip.png" alt="VIP Plaza Logo">
 							</div>
 							<h4>PWAでE-Commerceを再構築</h4>
 							<div class="osc-desc">PWAでE-Commerceを作り直した。ダイナミックなUIでユーザーの購買意欲を直接購入へと導くことに成功。リソースベースのAgile型開発でご支援。
@@ -620,7 +620,7 @@ if(isset($_POST['submitted']))
 							<div class="col-xs-6">
 								<div class="link-footer-webdev">
 									<a href="/jp/index.php" target="_blank">Home</a>
-									<a href="/jp/about.php" target="_blank">会社概要</a>
+									<a href="/jp/logique.php" target="_blank">会社概要</a>
 									<a href="/jp/portfolio.php" target="_blank">制作実績</a>
 									<a href="/jp/services.php" target="_blank">サービス</a>
 								</div>
@@ -638,10 +638,10 @@ if(isset($_POST['submitted']))
 							<div style="margin-bottom:8px"><b>Social Media</b></div>
 							<div class="medsos-new">
 								<ul>
-									<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"  ></i></a></li>
-									<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"  ></i></a></li>
-									<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"  ></i></a></li>
-									<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"  ></i></a></li>
+									<li><a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook" rel="noreferrer"><i class="fa fa-facebook-official"  ></i></a></li>
+									<li><a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter" rel="noreferrer"><i class="fa fa-twitter" aria-hidden="true"  ></i></a></li>
+									<li><a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram" rel="noreferrer"><i class="fa fa-instagram" aria-hidden="true"  ></i></a></li>
+									<li><a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn" rel="noreferrer"><i class="fa fa-linkedin-square" aria-hidden="true"  ></i></a></li>
 								</ul>
 							</div>
  
@@ -669,7 +669,7 @@ if(isset($_POST['submitted']))
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
 							<div class="">
 									<div class="form-group">
-										<input type="text" class="form-control" placeholder="Nama" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
+										<input type="text" class="form-control" placeholder="Nama" name="name" aria-label="Name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 									</div>
 									<!-- <div class="form-group">
 										<input type="number" class="form-control" placeholder="No Ponsel" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
@@ -678,10 +678,10 @@ if(isset($_POST['submitted']))
 										<input type="text" class="form-control" placeholder="Perusahaan" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
 									</div> -->
 									<div class="form-group">
-										<input type="email" class="form-control" placeholder="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+										<input type="email" class="form-control" placeholder="Email" name="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
 									</div>
 									<div class="form-group">
-										<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message" style="resize:vertical;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message" aria-label="Message" style="resize:vertical;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 									<div class="form-group">
 										<div class="g-recaptcha captcha-custom" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>

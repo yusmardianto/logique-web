@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content=" ">
 	<meta name="keywords" content=" ">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title> </title>
+    <title>Web Development Price | LOGIQUE Digital Indonesia</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="assets/css/style_webdev_price.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
@@ -31,7 +31,7 @@
 	<body class="price-range-page">
 		<header class="top-pricerange">
 			<div class="nav-lp">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
 					<span class="icon-bar third"></span> 
@@ -47,7 +47,7 @@
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="/jp/about.php">
+								<a href="/jp/logique.php">
 									<div class="img-about"></div>
 									会社概要
 								</a>
@@ -83,7 +83,7 @@
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="https://www.logique.co.id/blog/ja" target="_blank">
+								<a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
 									<div class="img-blog"></div>
 									Blog
 								</a>
@@ -107,8 +107,8 @@
 						<div class="col-xs-6  col-sm-6 text-right">
 							<div class="language-btn">
 								<ul class="list-inline">
-									<li><a href="/en/services/system-dev.php">EN</a></li>
-									<li><a href="/layanan/system-dev.php">ID</a></li>
+									<li><a href="/en/services/webdev-price-range.php">EN</a></li>
+									<li><a href="/layanan/webdev-price-range.php">ID</a></li>
 									<li class="active"><a href="#">JP</a></li>
 								</ul>
 							</div>
@@ -133,7 +133,7 @@
 				<div class="container">
 					<h1>PRICE RANGE</h1>
 					<h2 class="price headerinfo">
-						様々な複合要因によりWeb制作料金は変わってきます。下記は目安としてお考えいただければと思います。下のケースに含まれないようなご要件についてはお気軽にお見積り依頼のご連絡いただければと思います。
+						参考までに当社のWeb・ホームページ制作関連費用の参考価格をこのページでご紹介します。ただし、様々な複合要因によりWeb制作料金は変わりますので、あくまでも目安としてお考えいただければと思います。以下のケースに含まれないようなご要件については、お気軽にお見積り依頼のご連絡いただければ幸いです。
 					</h2>
 				</div>
 			</div>
@@ -142,7 +142,7 @@
 			<div class="container">
 				<div class="row price-item pt-1">
 					<div class="col-sm-12 price-title"><h3><span>ケース1</span></h3><span>ランディングページ・キャンペーンページ</span></div>
-					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-1.png"  class="img-responsive"></div>
+					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-1.png" alt="ケース1"  class="img-responsive"></div>
 					<div class="col-md-6  col-sm-7">
 						<div class="price-cont">
 							<div class="row ">
@@ -175,7 +175,7 @@
 				</div>
 				<div class="row price-item pt-2">
 					<div class="col-sm-12 price-title"><h3><span>ケース2</span></h3><span>コーポレートサイト・ブランドサイト（小規模）</span></div>
-					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-2.png"  class="img-responsive"></div>
+					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-2.png" alt="ケース2"  class="img-responsive"></div>
 					<div class="col-md-6 col-sm-7">
 						<div class="price-cont">
 							<div class="row">
@@ -207,7 +207,7 @@
 				</div>
 				<div class="row price-item pt-3">
 					<div class="col-sm-12 price-title"><h3><span>ケース3</span></h3><span>コーポレートサイト・サービスサイト（中規模以上）</span></div>
-					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-3.png"  class="img-responsive"></div>
+					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-3.png" alt="ケース3"  class="img-responsive"></div>
 					<div class="col-md-6 col-sm-7">
 						<div class="price-cont">
 							<div class="row">
@@ -238,8 +238,8 @@
 					</div>
 				</div>
 				<div class="row price-item pt-4">
-					<div class="col-sm-12 price-title"><h3><span>ケース4</span></h3><span>CMSサイト（中規模）</span></div>
-					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-4.png" class="img-responsive"></div>
+					<div class="col-sm-12 price-title"><h3><span>ケース4</span></h3><span>会員管理、決済機能付き、CMSサイト</span></div>
+					<div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-4.png" alt="ケース4" class="img-responsive"></div>
 					<div class="col-md-6 col-sm-7">
 						<div class="price-cont">
 							<div class="row">
@@ -280,14 +280,14 @@
 							 ヒアリングから初回のご提案まで 
 						</div>
 					</div>
-					<div class="col-sm-4"><img src="assets/img/img-price-range/img-meeting.png" class="img-responsive"></div>
+					<div class="col-sm-4"><img src="assets/img/img-price-range/img-meeting.png" alt="Webサイト制作料金単価の目安" class="img-responsive"></div>
 				</div>
 				
 				<div class="estimate-item">
 					<div class="row ">
 						<div class="col-sm-5 ">ヒアリング・初回ご提案 </div>
 						<div class="col-sm-2 text-right">無料</div>
-						<div class="col-sm-5">せを含みます。通常、ご提案段階でのデザイン制作はしておりません。どうしてもラフデザインの制作が必要な場合、提案デザイン制作費をいただく場合があります。</div>
+						<div class="col-sm-5">ご提案するためのやりとりや打ち合わせを含みます。通常、ご提案段階でのデザイン制作はしておりません。どうしてもラフデザインの制作が必要な場合、提案デザイン制作費をいただく場合があります。</div>
 					</div>
 				</div>	
 				<div class="other-estimate">
@@ -299,240 +299,116 @@
 				<div class="other-price-container">
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">HTML / CSS コーディング (1サイト） </div>
-							<div class="col-sm-4 col-md-2 text-right">15,000,000 IDR 〜</div>
+							<div class="col-sm-8 col-md-4">HTML / CSS コーディング (1サイト） </div>
+							<div class="col-sm-4 col-md-3">15,000,000 IDR 〜</div>
 							<div class="col-sm-12 col-md-5 ">Webサイトの構成によりますが、通常のコーポレートWeb（合計10ページ程度まで）ですと15,000,000 IDRで全ページHTML/CSSマークアップすることが可能です。標準的なコーディングをしますしGAタグの設置やご指定のメタタグ記述もいたします。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">HTML / CSS コーディング (1ページあたり）  </div>
-							<div class="col-sm-4 col-md-2 text-right">500,000 IDR</div>
+							<div class="col-sm-8 col-md-4 ">HTML / CSS コーディング (1ページあたり）  </div>
+							<div class="col-sm-4 col-md-3">500,000 IDR</div>
 							<div class="col-sm-12 col-md-5 ">ページ内コンテンツのボリュームや構成により大きく異なる可能性はありますが、目安としては1ページ500,000 IDRとお考えください。10ページあるWebサイトのデザインとコンテンツが全て準備出来ている場合、5,000,000 IDRで全てコーディングすることが可能です。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">モーションコーディング  </div>
-							<div class="col-sm-4 col-md-2 text-right">5,000,000 IDR〜</div>
+							<div class="col-sm-8 col-md-4">モーションコーディング  </div>
+							<div class="col-sm-4 col-md-3">5,000,000 IDR 〜</div>
 							<div class="col-sm-12 col-md-5 ">JQueryやHTML5などを使用したパララックス効果をつける動きなどのビジュアルプログラミングを行います。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">ロゴ・イラスト作成 </div>
-							<div class="col-sm-4 col-md-2 text-right">10,000,000 IDR〜</div>
+							<div class="col-sm-8 col-md-4">ロゴ・イラスト作成 </div>
+							<div class="col-sm-4 col-md-3">10,000,000 IDR 〜</div>
 							<div class="col-sm-12 col-md-5 ">新規事業でロゴがまだない場合などがあります。複数パターンを作成しながら理想のロゴに近づけるご支援をしんがら完成まで導きます。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">オンラインチャット機能 </div>
-							<div class="col-sm-4 col-md-2 text-right">5,000,000 IDR</div>
+							<div class="col-sm-8 col-md-4">オンラインチャット機能 </div>
+							<div class="col-sm-4 col-md-3">5,000,000 IDR</div>
 							<div class="col-sm-12 col-md-5 ">オンラインチャットツールを御社WebサイトにImplementします。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">お問い合わせページ最適化 </div>
-							<div class="col-sm-4 col-md-2 text-right">15,000,000 IDR 〜</div>
-							<div class="col-sm-12 col-md-5 ">お問い合わせページのコンテンツの最適化、フォーム最適化により、問い合わせ数の最大化、ドロップ率の最小化を実現します。</div>
+							<div class="col-sm-8 col-md-4">お問い合わせページ最適化 </div>
+							<div class="col-sm-4 col-md-3">15,000,000 IDR 〜</div>
+							<div class="col-sm-12 col-md-5">お問い合わせページのコンテンツの最適化、フォーム最適化により、問い合わせ数の最大化、ドロップ率の最小化を実現します。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">採用ページ最適化 </div>
-							<div class="col-sm-4 col-md-2 text-right">15,000,000 IDR</div>
-							<div class="col-sm-12 col-md-5 "><p>採用ページのコンテンツを最適化してWeb経由の応募数を増やします。採用サイトを特設サイトとして構築することも可能です。詳細はこちら。</p><p>
+							<div class="col-sm-8 col-md-4">採用ページ最適化 </div>
+							<div class="col-sm-4 col-md-3">15,000,000 IDR</div>
+							<div class="col-sm-12 col-md-5"><p>採用ページのコンテンツを最適化してWeb経由の応募数を増やします。採用サイトを特設サイトとして構築することも可能です。 <a href="/jp/services/recruitment-web-dev.php">詳細はこちら。</a></p><p>
 				採用業務を効率的に行うためのクラウドツールの販売もしています。Sugoi Saiyo </p></div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">ショッピング・カート機能作成   </div>
-							<div class="col-sm-4 col-md-2 text-right">20,000,000 IDR 〜</div>
-							<div class="col-sm-12 col-md-5 ">E-Commerceフレームワークを使用してショッピング機能を御社のWebに付与します。要件によって大きな幅が出ますので詳細はご相談ください。</div>
+							<div class="col-sm-8 col-md-4">ショッピング・カート機能作成   </div>
+							<div class="col-sm-4 col-md-3">20,000,000 IDR 〜</div>
+							<div class="col-sm-12 col-md-5">E-Commerceフレームワークを使用してショッピング機能を御社のWebに付与します。要件によって大きな幅が出ますので詳細はご相談ください。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5  ">ペイメントゲートウェイ連携 </div>
-							<div class="col-sm-4 col-md-2 text-right">15,000,000 IDR 〜</div>
-							<div class="col-sm-12 col-md-5 ">インドネシアで利用可能な各社のペイメントゲートウェイサービスとの連携機能構築の実績があります。サブスクリプション決済なども可能ですのでご相談ください。</div>
+							<div class="col-sm-8 col-md-4">ペイメントゲートウェイ連携 </div>
+							<div class="col-sm-4 col-md-3">15,000,000 IDR 〜</div>
+							<div class="col-sm-12 col-md-5">インドネシアで利用可能な各社のペイメントゲートウェイサービスとの連携機能構築の実績があります。サブスクリプション決済なども可能ですのでご相談ください。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">API作成  </div>
-							<div class="col-sm-4 col-md-2 text-right">15,000,000 IDR 〜</div>
+							<div class="col-sm-8 col-md-4">API作成  </div>
+							<div class="col-sm-4 col-md-3">15,000,000 IDR 〜</div>
 							<div class="col-sm-12 col-md-5 ">他システムや他Webサイト、モバイルアプリ、サービスとの機能・情報連携のためにAPI作成を行います。送受信されるデータ形式（XML,HTML,JSONなど）に合わせ開発します。</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">コンテンツ作成   </div>
-							<div class="col-sm-4 col-md-2 text-right">15,000,000 IDR 〜</div>
-							<div class="col-sm-12 col-md-5 ">お問い合わせページのコンテンツの最適化、フォーム最適化により、問い合わせ数の最大化、ドロップ率の最小化を実現します。</div>
-						</div>
-					</div>
-					<div class="other-price-item">
-						<div class="row">
-							<div class="col-sm-8 col-md-5 ">採用ページ最適化 </div>
-							<div class="col-sm-4 col-md-2 text-right">ご相談ください</div>
-							<div class="col-sm-12 col-md-5 ">定期的なコンテンツ作成運用もワンショットのコンテンツ作成（Webサイト作成時のコンテンツ作成）も可能です。ボリューム、作成するコンテンツの特殊性、作成コンテンツの言語、などによって料金に幅がありますのでご相談ください。
+							<div class="col-sm-8 col-md-4">コンテンツ作成 </div>
+							<div class="col-sm-4 col-md-3">ご相談ください</div>
+							<div class="col-sm-12 col-md-5">定期的なコンテンツ作成運用もワンショットのコンテンツ作成（Webサイト作成時のコンテンツ作成）も可能です。ボリューム、作成するコンテンツの特殊性、作成コンテンツの言語、などによって料金に幅がありますのでご相談ください。
 							</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">写真撮影  </div>
-							<div class="col-sm-4 col-md-2 text-right">5,000,000 〜</div>
-							<div class="col-sm-12 col-md-5 ">1撮影場所、カット数5〜10、撮影時間4時間までで5,000,000 IDRとなります。屋外や工場内での撮影などは詳細をご相談ください。
+							<div class="col-sm-8 col-md-4">写真撮影  </div>
+							<div class="col-sm-4 col-md-3">5,000,000 IDR 〜</div>
+							<div class="col-sm-12 col-md-5">1撮影場所、カット数5〜10、撮影時間4時間までで5,000,000 IDRとなります。屋外や工場内での撮影などは詳細をご相談ください。
 							</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">ドローン撮影 </div>
-							<div class="col-sm-4 col-md-2 text-right">5,000,000 〜</div>
+							<div class="col-sm-8 col-md-4">ドローン撮影 </div>
+							<div class="col-sm-4 col-md-3">5,000,000 IDR 〜</div>
 							<div class="col-sm-12 col-md-5 ">1撮影場所、1フライト、撮影時間15分まで、成果物動画データ。飛行許可取得などは含んでいません。
 							</div>
 						</div>
 					</div>
 					<div class="other-price-item">
 						<div class="row">
-							<div class="col-sm-8 col-md-5 ">動画撮影編集 </div>
-							<div class="col-sm-4 col-md-2 text-right">20,000,000 〜  </div>
+							<div class="col-sm-8 col-md-4 ">動画撮影編集 </div>
+							<div class="col-sm-4 col-md-3">20,000,000 IDR 〜</div>
 							<div class="col-sm-12 col-md-5 ">グラフィックのみで制作する動画から、撮影を行い制作するムービーまで、様々なニーズにお応えします。
 							</div>
 						</div>
 					</div>
 					<div class="btn-container text-center">
-						<a href="contact.php" class="btn btn-contact-us-black">
+						<a href="/jp/contact.php" class="btn btn-contact-us-black">
 						こちらから詳細なお見積りをご相談いただけます
 						</a>
 					</div>
 				</div>
 			</div>
 		</section>
-		<footer>
-	<!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>
-	<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>-->
-	<script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-	ga('create', 'UA-105878648-1', 'auto');
-	ga('send', 'pageview');
-
-	</script>
-		<div class="container">
-			<div class="footer-container">
-		<div class="row">
-			<div class="col-sm-9 col-sm-push-3">
-				<div class="row">
-					<div class="col-sm-4 link-footer-nav" style="font-weight: normal;">
-						<ul>
-							<li><a href="/jp/index.php">Home</a></li>
-							<li><a href="/jp/logique.php">会社概要</a></li>
-							<li  class="have-submenu"><a href="/jp/services.php">サービス</a>
-								<ul>
-									<li  class="have-submenu">
-										<a href="/jp/services/web-dev.php" target="_blank">Web制作サービス</a>
-										<ul>
-											<li>
-												<a href="/jp/services/recruitment-web-dev.php" target="_blank">  採用サイト制作</a></li>
-											<li><a href="/layanan/pembuatan-website-klinik-gigi.php" target="_blank">  歯科クリニック向けWeb制作</a></li>
-										</ul>
-									</li>
-									<li><a href="/jp/services/mobile-app-dev.php"> モバイルApp開発</a></li>
-									<li><a href="/jp/services/penetration-test.php"> Webセキュリティ診断サービス</a></li>
-									<li><a href="/jp/services/system-dev.php" target="_blank">WEBシステム開発</a></li>
-								</ul>
-							</li>
-							
-
-						</ul>
-
-					</div>
-					<div class="col-sm-4 link-footer-nav">
-						<!-- <div class="footer-title">LOGIQUEのサービス</div> -->
-						
-						<!-- <div class="footer-title" style="padding-top: 20px;"><a href="/jp/product.php">プロダクト</a></div> -->
-						<ul>
-							<li  class="have-submenu"><a href="/jp/product.php">プロダクト</a>
-								<ul>
-								<li><a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja<br><span style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>
-								<li><a href="/jp/product/sugoi-saiyo.php"  target="_blank">Sugoi Saiyo  <span style="font-size: 12px;">(（採用管理ツール）</span></a></li>
-								<li><a href="/jp/product/nippo.php"  target="_blank">Nippo <span style="font-size: 12px;">(（日報＆人事評価ツール）</span></a></li>
-								<li></li>
-							</ul>
-							</li>
-							<li><a href="/jp/portfolio.php">制作開発実績</a></li>
-							
-							<li><a href="/career/">求人/インターン</a>
-								<ul>
-									<li><a href="/jp/joinus.php">採用/パートナー</a></li>
-								</ul>
-							</li>
-							<li><a href="/jp/contact.php">お問い合わせ</a></li>
-						</ul>
-						
- 
-
-
-					</div>
-					<div class="col-sm-4 link-footer"  >
-
- 						<p>LOGIQUEは、ジャカルタでWebコンサルティング、WEBサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。</p>
- 					<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
-					<ul class=" medsos-new" sty>
-						<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
-						<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-						<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-						<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-					</ul>
-					</div>
-				</div>
-				<br/>
-			</div>
-			<div class="col-sm-3 col-sm-pull-9">
-			<div itemscope itemtype="http://schema.org/Organization">
-				<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
-				<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-				<span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br/>Jalan Tb. Simatupang No. 5
-				Ragunan, <br>Ps. Minggu,  Jakarta Selatan,<br> Indonesia </span><span itemprop="postalCode">12550</span>
-				<br><br>
-				&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
-				<br>
-				<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
-				<br><br>
-				<div class="provacy-policy-container">
-					<a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
-				</div>
-				</div>
-			</div>
-
-
-				<br/><br/>
-
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">
-				<div itemscope itemtype="http://schema.org/CreativeWork">
-					<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>
-					<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
-				</div>
-			</div>
-		</div>
-	</div>
-		</div>
-	</footer>
-	<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="/js/bootstrap.min.js"></script>
+		<?php include '../footer.php'; ?>
 		<script src="/js/jquery.matchHeight.js"></script>
 	</body>
 </html>

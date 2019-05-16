@@ -3,14 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUEデジタルインドネシアのの会社概要ページ。LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。WEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
 	<meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, パンフレット">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="WEBデザイン制作 | システム開発会社 | LOGIQUE デジタルインドネシア">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/jp/about.php">
+	<meta property="og:url" content="https://www.logique.co.id/jp/logique.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="LOGIQUEデジタルインドネシアのの会社概要。インドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム/モバイルアプリ開発会社です。コーポレートWEBサイト制作から大規模なシステム構築、システムの運用保守、SNS運用、Google広告運用まで、Digital Marketingコンサルティングを実施してクライアントのインドネシアでの成功を支援します。">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
@@ -29,7 +29,7 @@
 		<div class="wrapper">
 				
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span> 
@@ -81,7 +81,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/ja" target="_blank">
+							<a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>
@@ -104,8 +104,8 @@
 					<div class="col-sm-offset-1 col-sm-10">
 						<div class="lang-logo">
 							<ul class="list-inline">
-								<li><a href="../en/about.php">EN</a></li>
-								<li><a href="../tentang-kami.php">ID</a></li>
+								<li><a href="../en/logique.php">EN</a></li>
+								<li><a href="/logique.php">ID</a></li>
 								<li class="active"><a href="#">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
@@ -113,7 +113,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">LOGIQUEについて</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社。ウェブデザイン制作からITシステム開発までインドネシアでIT活用のご支援を幅広く行っています。</h1>
+							<h1 class="tagline">日系のWebサイト/ホームページ制作会社。ウェブデザイン制作からITシステム開発、モバイルApp開発、デジタルマーケティングまでインドネシアでIT活用のご支援を幅広く行っています。日本国大使館や商工会議所とも取引があります。安心してご相談いただければ幸いです。</h1>
 						</div>
 					</div>
 				</div>
@@ -191,7 +191,7 @@
 						<div class="title" style="font-weight:normal"><span class="yellow">LOGIQUE</span>の概要</div>
 						<div class="row">
 							<div class="col-sm-5">
-								<img src="/img/slider1.jpg" class="img-responsive center-block" style="border: 1px solid #ccc;height: 462px;object-fit: cover;object-position: -245px 0;"/><br/>
+								<img src="/img/slider1.jpg" alt="PT. Logique Digital Indonesia" class="img-responsive center-block" style="border: 1px solid #ccc;height: 462px;object-fit: cover;object-position: -245px 0;"/><br/>
 							</div>
 							<div class="col-sm-7">
 								会社名<br/>
@@ -211,7 +211,7 @@
 								<br/><br/>
 								TEL<br/>
 								<b>+62(21) 2270 8935 / 36</b><br>
-								<b><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" style="vertical-align: top; color: #333"> <img src="../img/whatsapp.png" width="16" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a></b>
+								<b><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" rel="noreferrer" style="vertical-align: top; color: #333"> <img src="../img/whatsapp.png" alt="WhatsApp" width="16" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a></b>
 								<br/><br/>
 								開発センター<br/>
 								<b>ジョグジャカルタ  ( Umbulharjo, Kota Yogyakarta )</b>
@@ -221,7 +221,7 @@
 					
 					<div class="title">代表者略歴＆メッセージ</div>
 					<div class="form-container">
-						<img src="/img/yoshi.jpg" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
+						<img src="/img/yoshi.jpg" alt="Takashi Yoshitsugu" class="img-responsive pull-right" style="width:185px;margin:0 0 15px 15px"/>
 						<span style="font-size: 17px;">1976年東京生まれ。1999年に早稲田大学理工学部経営システム工学科を卒業。株式会社日本総合研究所やCRMコンサルティングファームなどを経て2005年よりEコマース事業、輸入商社、コンサルティング会社を起業。2012年よりインドネシアで会社運営。</span>
 						<br/><br/>
 						<div style="background: #ececec; padding: 15px 20px; border-top: 2px solid #ffca13">LOGIQUEという名前はlogika-kuというインドネシア語が由来となっています。自分たちのロジック、思いを大事に、芯をもって事を成していきたいと思っています。東南アジア×ITという非常に変化の激しい領域にいますが、一時のトレンドや短期的な利益に惑わされず、自分たち、関係いただく皆さまの幸福度を最大化していきたいと思います。
@@ -242,12 +242,12 @@
 							  <div class="row" >
 							  	<div class="col-sm-6">
 							  		<a href="services.php">
-							  			<img src="../img/service-banner-sm.png" alt="service banner" class="img-responsive">
+							  			<img src="../img/service-banner-sm.png" alt="Service banner" class="img-responsive">
 							  		</a>
 							  	</div>
 							  	<div class="col-sm-6">
 							  		<a href="product.php">
-							  			<img src="../img/product-banner-sm.png" alt="" class="img-responsive">
+							  			<img src="../img/product-banner-sm.png" alt="Product Banner" class="img-responsive">
 							  		</a>
 							  	</div>
 							  </div>
@@ -257,12 +257,12 @@
 							  <div class="row" >
 							  	<div class="col-sm-6">
 							  		<a href="joinus.php">
-							  			<img src="../img/job-banner-sm.png" alt="service banner" class="img-responsive">
+							  			<img src="../img/job-banner-sm.png" alt="Job banner" class="img-responsive">
 							  		</a>
 							  	</div>
 							  	<div class="col-sm-6">
 							  		<a href="portfolio.php">
-							  			<img src="../img/portfolio-banner-sm.png" alt="" class="img-responsive">
+							  			<img src="../img/portfolio-banner-sm.png" alt="Portfolio Banner" class="img-responsive">
 							  		</a>
 							  	</div>
 							  </div>

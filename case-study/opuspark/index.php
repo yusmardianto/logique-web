@@ -3,7 +3,7 @@
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description" content="Sebagai perusahaan web developer terbaik, LOGIQUE memberikan layanan jasa marketing online kepada kliennya, seperti yang kami lakukan pada klien kami, yaitu apartemen Opus Park. Jika Anda ingin menggunakan jasa layanan ini, silahkan hubungi kami!">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
@@ -57,7 +57,7 @@
       </header>
 
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>
@@ -73,7 +73,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/tentang-kami.php">
+							<a href="/logique.php">
 								<div class="img-about"></div>
 								Tentang Kami
 							</a>
@@ -109,7 +109,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank">
+							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>
@@ -132,7 +132,7 @@
               <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <p style="font-size: 22px;font-weight: bold;">Opus Park</p>
+              <p class="cs-subtitle-top">Opus Park</p>
               <h2 class="cs-subtitle">Properti Berkelas Dunia di Sentul City</h2>
               <p class="cs-desc">
                 Opus Park adalah properti hunian suburban ikonis yang dikembangkan oleh PT Izumi Sentul Realty, yang merupakan hasil kerjasama perusahaan Joint Venture (JV) salah satu pengembang properti ternama di Indonesia, Sentul City, dan dua perusahaan infrastruktur terkemuka asal Jepang, yakni Sumitomo Corporation dan Hankyu Hanshin Properties Corp. <br/><br/>
@@ -147,7 +147,7 @@
               <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2 custom1">
             </div>
             <div class="col-sm-6">
-              <p style="font-size: 22px;font-weight: bold;">Target yang Ingin Dicapai Opus Park</p>
+              <p class="cs-subtitle-top">Target yang Ingin Dicapai Opus Park</p>
               <h2 class="cs-subtitle">Menemukan orang-orang yang tepat</h2>
               <p class="cs-desc">
               Opus Park melihat dunia <i>online digital </i>sebagai sumber potensial terbesar dari penjualan unit mereka. Mereka menginginkan pemasaran yang tertarget melalui digital marketing agar menemukan calon pembeli yang potensial. <br/><br/>
@@ -165,7 +165,7 @@
               <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3 custom2">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <p style="font-size: 22px;font-weight: bold;">Strategi yang Diterapkan LOGIQUE</p>
+              <p class="cs-subtitle-top">Strategi yang Diterapkan LOGIQUE</p>
               <h2 class="cs-subtitle">Memaksimalkan Digital Marketing</h2>
               <p class="cs-desc custom4">
               Opus Park menginginkan pengoperasian iklan dan media sosial untuk mendapatkan <i>traffic</i> secara berbayar, dan penerapan SEO pada website untuk <i>traffic</i> organic dari mesin penelusuran. Kedua jenis <i>traffic</i> ini sama-sama berperan besar dalam pencapaian goals yang diinginkan.
@@ -204,7 +204,7 @@
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
-              <p class="text-center" style="font-size: 22px;font-weight: bold;">Hasil</p>
+              <p class="text-center cs-subtitle-top">Hasil</p>
               <h2 class="cs-subtitle text-center">Konversi Tercapai</h2>
               <p class="cs-desc text-center">
               Penerapan strategi digital marketing telah membantu Opus Park meningkatkan awareness di kalangan audiens yang tertarget. Tidak hanya itu, website Opus Park mengalami peningkatan traffic yang cukup signifikan. Engagement yang didapat pun terbilang memuaskan. Hasil yang baik ini bahkan sudah terlihat pada bulan 1-2 sejak operasi digital marketing dieksekusi dengan biaya yang efisien.
@@ -272,8 +272,8 @@
           <a href="/hubungi-kami.php" class="btn btn-cs-bottom">Kontak LOGIQUE</a>
           <a href="/layanan.php" class="btn btn-cs-bottom">Layanan LOGIQUE</a>
           <a href="/portofolio.php" class="btn btn-cs-bottom">Portfolio</a>
-          <a href="/layanan/mekanisme-pembuatan-website/" class="btn btn-cs-bottom">Ingin buat Website?</a>
-          <a href="/layanan/pembuatan-sistem-web/" class="btn btn-cs-bottom">Ingin buat Web System?</a>
+          <a href="/layanan/web-dev.php" class="btn btn-cs-bottom">Ingin buat Website?</a>
+          <a href="/layanan/pembuatan-sistem-web.php" class="btn btn-cs-bottom">Ingin buat Web System?</a>
         </section>
         <footer>
           <div class="container-fluid">
@@ -286,7 +286,7 @@
               </div>
               <div class="col-md-4">
                 <h2>Hubungi LOGIQUE</h2>
-                <a href="/en/contact.php" target="_blank"><img alt="Logo" src="../../img/logo.png" class="logo"/></a> <br />
+                <a href="/hubungi-kami.php" target="_blank"><img alt="Logo" src="../../img/logo.png" class="logo"/></a> <br />
                 Ad Premier Building 19th Floor. <br/>
                 Jalan Tb. Simatupang No. 5 <br/>
                 Ragunan, Ps. Minggu, <br/>

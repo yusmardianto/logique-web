@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="Dokodemo-Kerjaは、LOGIQUEが提供しているリモートワーク管理ツールです。リモートワーク / テレワークにて、フレキシブルに生産性をあげることに集中して効率的に働きたい従業員にも、皆にフェアな機会を与えて、さぼりを抑止したい経営者、人事マネージャーの両者にメリットのある製品・ソリューションです。トライアル利用可能ですのでお問い合わせください。">
 	<meta name="keywords" content="">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -75,7 +75,7 @@ if(isset($_POST['submitted']))
 		<!-- End Google Tag Manager (noscript) -->
 		<header>
 			<div class="nav-lp">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
 					<span class="icon-bar third"></span> 
@@ -91,7 +91,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="/jp/about.php">
+								<a href="/jp/logique.php">
 									<div class="img-about"></div>
 									会社概要
 								</a>
@@ -127,7 +127,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="https://www.logique.co.id/blog/ja" target="_blank">
+								<a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
 									<div class="img-blog"></div>
 									Blog
 								</a>
@@ -139,13 +139,13 @@ if(isset($_POST['submitted']))
 			<nav class="navbar navbar-default navbar-dokdem">
 				<div class="container">
 				  <div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 					  <span class="sr-only">Toggle navigation</span>
 					  <span class="icon-bar"></span>
 					  <span class="icon-bar"></span>
 					  <span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#">
+					<a class="navbar-brand" href="#" aria-label="Dokodemo Kerja Logo">
 						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="" class="img-responsive center-block">
 					</a>
 					<div class="pull-left visible-xs">
@@ -165,7 +165,7 @@ if(isset($_POST['submitted']))
 					  <li><a href="#price" class="smooth li-mt">価格</a></li>　
 					  <li><a href="#divForm" class="smooth li-mt">お問い合わせ</a></li>
 					</ul>
-					<a class="logique-logo-link" href="/jp/" target="_blank"><img class="pull-right img-responsive center-block logo-logique-header" src="img/dokodemo-kerja/logo_logique.png"/></a>
+					<a class="logique-logo-link" href="/jp/" target="_blank" aria-label="Logique Logo"><img class="pull-right img-responsive center-block logo-logique-header" src="img/dokodemo-kerja/logo_logique.png" alt="Logo Logique" /></a>
 					<div class="pull-right btn-lang">
 						<ul class="nav-lang hidden-xs">
 							<li class="pull-left"><a href="/produk/dokodemo-kerja.php">IND</a></li>
@@ -183,20 +183,27 @@ if(isset($_POST['submitted']))
 							<h1 class="anton title"> 自由と生産性を追求した働き方を！</h1>
 							<hr/>
 							<div class="content-header">
-								<div class="begin-dokdem"><span style="font-size: 20px;">インドネシアでリモートワークを推進しています。 <br/>柔軟に、独立した、プロフェッショナルな勤務体系で、会社も従業員もハッピーに！</span>
-								<br/><br/></div>
-								従業員の皆さん、毎日の通勤ストレスですよね？小さい子供の世話を誰かが代わりに見てくれれば自分の専門性を活かせるのに。もっとフレキシブルに働かせて貰えれば今よりずっと生産性発揮するのに、などなどの不満ありませんか？<br/><br/>
-
-								経営者・人事マネージャの皆さん、従業員の遅刻欠勤を管理、取り締まるのに飽き飽きですよね。真面目なだけが取り柄の生産性が低いスタッフが残っても本末転倒ですよね。従業員には幸せに活き活きと仕事をし、かつ高い生産性を生んでもらいたいですよね？<br/><br/>
-
-								<strong>Dokodemo-Kerja</strong>は上記を全て解決する画期的なITソリューションです。<br/><br/>
-
-								このサービスを利用すれば、従業員は勤務場所の制約から開放され、好きな時間に好きな場所からのリモートワークが可能となります。いままで問題と考えられていた、さぼり、非集中などについては、ランダムにラップトップのスクリーンショットが撮られ管理者に送信されることで管理することができます。管理者は従業員の勤務時間と作業内容を突き合わせて管理することが可能となり、従業員の虚偽報告を防ぐことができます。<br/><br/>
-
-								今までのリモートワーク管理ツールは、どうしてもリモートワーカーに面倒な報告を義務付ける必要がありましたが、<strong>Dokodemo-Kerja</strong>は従業員にも管理者の双方に手間がかかりません。<br/><br/>
-
-								インドネシアの交通事情を考えると、幸福感を大きくUPする画期的なソリューションだと自負しています。雨が多い時期にだけ週に2回自宅勤務とする、出産前後だけ実家で勤務などの柔軟な勤務方法を許容する、などが可能になる他、オフィスでの勤務者にも<strong>Dokodemo-Kerja</strong>を導入することで出退勤や休憩時間の管理、過度なビデオやSNSの視聴を防ぐことが可能となります。
-							</p>
+								<div class="begin-dokdem"><span style="font-size: 20px;">インドネシアでリモートワークを推進しています。 <br/>柔軟に、独立した、プロフェッショナルな働き方で、会社も従業員もハッピーに！</span>
+									<br/>
+								</div>
+								<p>
+									従業員の皆さん、毎日の通勤ストレスですよね？小さい子供の世話を誰かが代わりに見てくれれば自分の専門性を活かせるのに、もっとフレキシブルに働かせて貰えれば今よりずっと生産性発揮できるのに、などの不満ありませんか？
+								</p>
+								<p>
+									経営者・人事マネージャの皆さん、従業員の勤怠や勤務態度の管理が大変ではないでしょうか？管理を容易にするために勤怠は悪いけど生産性は高いスタッフを切り捨ててしまったりしないでしょうか？本質的には個々のスタッフが最大限の生産性を発揮しチームとしても最大の成果を上げることがゴールです。成果をあげられるなら、自由と柔軟さを与え、高い生産性を生んでもらいたいですよね？
+								</p>
+								<p>
+									<strong>Dokodemo-Kerja</strong>は上記を全て解決する画期的なITソリューションです。
+								</p>
+								<p>
+									このクラウドツールを利用すれば、従業員は勤務場所の制約から開放され、好きな時間に好きな場所からのリモートワークが可能となります。いままで問題と考えられていた、さぼり、非集中などについては、ランダムにラップトップのスクリーンショットが撮られ管理者に送信されることで管理することができます。管理者は従業員の勤務時間と作業内容を突き合わせて管理することが可能となり、従業員の虚偽報告を防ぐことができます。
+								</p>
+								<p>
+									<strong>Dokodemo-Kerja</strong>は従業員にも管理者の双方に手間がかかりません。そして従業員に手間や管理されている強いストレスを与えないことが特徴です。
+								</p>
+								<p>
+									インドネシアの交通事情を考えると、幸福感を大きくUPする画期的なソリューションだと自負しています。雨が多い時期にだけ週に2回自宅勤務とする、出産前後だけ実家で勤務などの柔軟な勤務方法を許容する、などが可能になる他、オフィスでの勤務者にもDokodemo-Kerjaを導入することで出退勤や休憩時間の管理、過度なビデオやSNSの視聴を防ぐことが可能となります。御社においても劇的な生産性向上効果があるはずです。お試しください！
+								</p>
 							</div>
 						</div>
 					</div>
@@ -213,20 +220,24 @@ if(isset($_POST['submitted']))
 						</div>
 						<br/>
 						<div class="hidden-xs"><br/><br/></div>
-						<video width="100%" height="300" controls>
-						   <source src="/produk/img/dokodemo-kerja/dokodemo-kerja.webm" type="video/webm" />
+						<video width="100%" height="300" controls poster="/jp/product/img/dokodemo-kerja/thumb-dokodemo.png">
+						   <source src="/jp/product/img/dokodemo-kerja/dokodemo-kerja.webm" type="video/webm" />
 						</video><br/><br/>
 					</div>
 					<div class="col-md-6 text-justify">
-						<span class="blue">Dokodemo-Kerja</span>は、リモートワーク / テレワークにて、フレキシブルに生産性をあげることに集中して効率的に働きたい従業員にも、皆にフェアな機会を与えて、さぼりを抑止したい経営者、人事マネージャーの両者にメリットのある製品・ソリューションです。<br/><br/>
-
-						従業員の使用端末にインストールするだけですぐに利用可能です。クロスプラットフォーム（Windows、Mac、Linuxに対応）で利用可能です。<br/><br/>
-
-						スタッフがいつ、どんな作業をしているのか確認することができます。作業タイプ（タスク種、プロジェクト名）を入力させることで作業時間を集計し管理会計に利用することも可能です。勤務開始時間、休憩時間、終了時間が記録に残りますので、勤務時間不足や逆に働きすぎのコントロールもできます。<br/>
-						スクリーンショットが取ることがスタッフのさぼりの抑止力になります。場所や時間に囚われず、決めた勤務時間中は集中して生産性高く作業する。<span class="blue">Dokodemo-Kerja</span>は現代の働き方をサポートします。
-						<br/><br/>
+						<p>
+							<span class="blue">Dokodemo-Kerja</span>は、リモートワーク / テレワークにて、生産性を高めることに集中してフレキシブルかつ効率的に働きたい従業員にも、皆にフェアな機会を与えて、さぼりを抑止したい経営者、人事マネージャーにもメリットのある製品・ソリューションです。
+						</p>
+						<p>
+							従業員の使用端末にインストールするだけですぐに利用可能です。クロスプラットフォーム（Windows、Mac、Linuxに対応）で利用可能です。
+						</p>
+						<p>
+							スタッフがいつ、どんな作業をしているのか確認することができます。作業タイプ（タスク種、プロジェクト名）を入力させることで作業時間を集計し管理会計に利用することも可能です。勤務開始時間、休憩時間、終了時間が記録に残りますので、勤務時間不足や逆に働きすぎのコントロールもできます。 管理される画面キャプチャがスタッフのさぼりを抑止します。場所や時間に囚われず、決めた勤務時間中は集中して生産性高く作業してもらうことが可能になります。<span class="blue">Dokodemo-Kerja</span>は現代の働き方をサポートします。
+						</p>
 						<div class="text-center">
-							<a href="#divForm" class="smooth btn btn-coba">いますぐトライアルを申し込む</a>
+							<a href="#divForm" class="btn btn-start-trial">
+								<img class="img-responsive" src="/jp/product/img/dokodemo-kerja/30-days-trial.png" alt="30 Days Trial">
+							</a>
 						</div>
 						<br/>
 					</div>
@@ -237,11 +248,11 @@ if(isset($_POST['submitted']))
 						<div class="poster-main screenshot-slide ">
 						  <div class="poster-btn poster-prev-btn"></div>
 						  <ul class="poster-list">
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss4.jpg"></li>
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss1.jpg"></li>
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss2.jpg"></li>
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss3.jpg"></li>
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss5.jpg"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss1.jpg" alt="Dokodemo Kerja"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss2.jpg" alt="Dokodemo Kerja"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss3.jpg" alt="Dokodemo Kerja"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss5.jpg" alt="Dokodemo Kerja"></li>
 						  </ul>
 						  <div class="poster-btn poster-next-btn"></div>
 						</div>
@@ -253,19 +264,19 @@ if(isset($_POST['submitted']))
 						  <!-- Wrapper for slides -->
 						  <div class="carousel-inner">
 							<div class="item active">
-							  <img src="/produk/img/dokodemo-kerja/ss4.jpg" class="img-responsive center-block">
+							  <img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
 							</div>
 							<div class="item">
-							  <img src="/produk/img/dokodemo-kerja/ss1.jpg" class="img-responsive center-block">
+							  <img src="/produk/img/dokodemo-kerja/ss1.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
 							</div>
 							<div class="item">
-							  <img src="/produk/img/dokodemo-kerja/ss2.jpg" class="img-responsive center-block">
+							  <img src="/produk/img/dokodemo-kerja/ss2.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
 							</div>
 							<div class="item">
-							  <img src="/produk/img/dokodemo-kerja/ss3.jpg" class="img-responsive center-block">
+							  <img src="/produk/img/dokodemo-kerja/ss3.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
 							</div>
 							<div class="item">
-							  <img src="/produk/img/dokodemo-kerja/ss5.jpg" class="img-responsive center-block">
+							  <img src="/produk/img/dokodemo-kerja/ss5.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
 							</div>
 						  </div>
 						  <!-- Left and right controls -->
@@ -285,14 +296,14 @@ if(isset($_POST['submitted']))
 		</div>
 		
 		<div class="bg-yellow" id="fitur">
-			<img src="img/dokodemo-kerja/image-fitur.png" class="image-fitur img-responsive"/>
+			<img src="img/dokodemo-kerja/image-fitur.png" alt="Fitur" class="image-fitur img-responsive"/>
 			<div class="container-fluid">
 				<div class="bg-old-yellow">
 					<div class="row" style="margin:0">
 						<div class="col-md-6 col-md-offset-6">
 							<div class="bg-one-fitur">
 								<div class="one-fitur" style="margin-bottom: 0;">
-									<img src="img/dokodemo-kerja/fitur1.png" class="img-responsive"/>
+									<img src="img/dokodemo-kerja/fitur1.png" alt="Fitur" class="img-responsive"/>
 									ユーザーの作業時間を記録します。ユーザーは開始・終了ボタンをクリックするだけです。併せて作業種、プロジェクト名などを入力させ記録、集計することも可能です。各ユーザーが日別に何時に開始、休憩をどのようにとり、何時まで勤務したのか把握可能です。
 								</div>
 							</div>
@@ -311,25 +322,25 @@ if(isset($_POST['submitted']))
 					<div class="col-md-6 one-fitur-btm">
 						<div class="bg-one-fitur visible-sm visible-xs">
 							<div class="one-fitur">
-								<img src="img/dokodemo-kerja/fitur1.png" class="img-responsive"/>
+								<img src="img/dokodemo-kerja/fitur1.png" alt="Fitur" class="img-responsive"/>
 								ユーザーの作業時間を記録します。ユーザーは開始・終了ボタンをクリックするだけです。併せて作業種、プロジェクト名などを入力させ記録、集計することも可能です。各ユーザーが日別に何時に開始、休憩をどのようにとり、何時まで勤務したのか把握可能です。
 							</div>
 						</div>
 						<div class="bg-one-fitur">
 							<div class="one-fitur">
-								<img src="img/dokodemo-kerja/fitur2.png" class="img-responsive"/>
+								<img src="img/dokodemo-kerja/fitur2.png" alt="Fitur" class="img-responsive"/>
 								ユーザーは自分の勤務状況を確認できるので、1日の規定労働時間や契約で定められた月の労働時間に達しているか等を確認することができます。
 							</div>
 						</div>
 						<div class="bg-one-fitur">
 							<div class="one-fitur">
-								<img src="img/dokodemo-kerja/fitur3.png" class="img-responsive"/>
+								<img src="img/dokodemo-kerja/fitur3.png" alt="Fitur" class="img-responsive"/>
 								管理者はユーザーの勤務状況を閲覧可能で、各種集計ができます。規定の勤務時間に不足していないか、働きすぎていないか管理できます。
 							</div>
 						</div>
 						<div class="bg-one-fitur">
 							<div class="one-fitur">
-								<img src="img/dokodemo-kerja/fitur4.png" class="img-responsive"/>
+								<img src="img/dokodemo-kerja/fitur4.png" alt="Fitur" class="img-responsive"/>
 								管理者は各ユーザーのスクリーンショットを閲覧できます。スクリーンショットにはタイムスタンプが付いていますので、長時間同じスクリーンのままであったり、業務と関係ないスクリーンがないか管理可能です。スクリーンショットはプライバシーに配慮しており、メールや文書中の文字などは識別できません。
 							</div>
 						</div>
@@ -458,10 +469,10 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-5">
-						<a href="/pdf/manual-guide.pdf" target="_blank" class="dl-guide"><img src="/img/manual.png" style="width:100%"/></a>
+						<a href="/pdf/manual-guide.pdf" target="_blank" aria-label="Manual Guide" class="dl-guide"><img src="/img/manual.png" alt="Manual Guide" style="width:100%"/></a>
 					</div>
 					<div class="col-md-5">
-						<a href="/pdf/install-guide.pdf" target="_blank" class="dl-guide"><img src="/img/install.png" style="width:100%"/></a>
+						<a href="/pdf/install-guide.pdf" target="_blank" aria-label="Manual Guide" class="dl-guide"><img src="/img/install.png" alt="Install Guide" style="width:100%"/></a>
 					</div>
 				</div>
 			</div>
@@ -530,20 +541,141 @@ if(isset($_POST['submitted']))
 						</div>
 					</div>
 				</div>
+				<div class="banner-trial-30-days text-center">
+					<a href="#divForm" class="btn">
+						<img class="img-responsive" src="/jp/product/img/dokodemo-kerja/dokodemo-30days-jp-banner.png" alt="Banner Free Trials">
+					</a>
+				</div>
 			</div>
 		</div>
-		<br/>
-		
-		<!--<div class="div-dokodemo">
+
+		<div class="testi-div">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="anton title yellow text-center">事例 / お客様の声</div>
+					</div>
+				</div>
+				<br/>
+				<div class="row">
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<p>
+								それまでのスタッフの評価が間違っていました。残業代の削減につながりました。
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Director Mr. Nishikawa</strong></span> - <span class="fs-14">IIJ Indonesia</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<p>
+								スタッフのQoLが上がり、皆いきいきと働いています。結果、仕事の実績も上がっています。
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>HR Manager Mr. Subianto</strong></span> - <span class="fs-14">PT. Karisma Zona Kreatifku</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<p>
+								お祈りの前後で長い休憩を取るスタッフがいることには気付いていましたが、宗教が関わると指摘するのは難しいです。ただドコデモを使って以来、皆に公平な休憩管理ができるようになりました。
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Mizuho Yamada</strong></span> - <span class="fs-14">Manager of Back Office</span></div>
+						</div>
+						<br/>
+					</div>
+					
+					<div class="clearfix"></div><hr class="hidden-sm hidden-xs"/>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<p>
+								病気の母の世話をするために家に居る必要があり、仕事を続けることを諦めかけました。ですが、今はリモートワークが可能で、仕事を続けながら母を介護できています。
+							</p>
+							<div class="text-center"><span class="fs-16"><strong>Bobby Susanto</strong></span> - <span class="fs-14">Programmer</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<p>
+								完全リモートワークを実現できた。オフィス家賃の削減効果があった。
+							</p>
+							<div class="text-center"><span class="fs-14">IT Consulting Company</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="col-md-4">
+						<div class="testi-content">
+							<div class="anton quotes-mark">“</div>
+							<p>
+								断食期間中なども自由な勤務時間設定ができるので生産性の高い働き方ができています
+							</p>
+							<div class="text-center"><span class="fs-14">Software Developing Company</span></div>
+						</div>
+						<br/>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+
+		<div class="div-faq">
+			<div class="anton title yellow">FAQ:</div>
+			<br/>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
-						<div class="title">Dokodemo-Kerja</div>
-						<p>Direkomendasikan bagi perusahaan yang mempertimbangkan pekerja jarak jauh (freelencer, remote worker,etc), perusahaan yang ingin meningkatkan produktifitas karyawan, perusahaan yang ingin membatasi penggunaan waktu kerja yang tidak efisien (merokok, istirahat setelah solat, etc)</p>
+						<h3 class="blue2 fw-500">Q. どのような環境で動くのか？なにを用意すればいいのか？</h3>
+						<p>
+							A. 各ユーザーはお使いの端末（Windows, Mac, Linux）に<strong>Dokodemo-Kerja</strong>アプリをインストールするだけで使えます。管理者はブラウザから管理画面にアクセスできます。サーバーを用意するなどは必要なく、すぐに利用スタートすることが可能です。
+						</p>
+						<h3 class="blue2 fw-500">Q. モバイル端末では動かくのか？</h3>
+						<p>
+							A. まだモバイル端末で勤務するスタッフを対象にはしていません。スマートフォンは対象外です。
+						</p>
+						<h3 class="blue2 fw-500">Q. フィールドサービススタッフや外回りの営業スタッフなどはどのように管理できるのか？</h3>
+						<p>
+							A. ラップトップを使用していなかった時間も後から勤務時間の編集を行うことはできます。<strong>Dokodemo-Kerja</strong>は基本的にはデスクワークが多い方に向いていると思います。
+						</p>
+						<h3 class="blue2 fw-500">Q. インドネシア国外でも使えるのか？</h3>
+						<p>
+							A. 問題なく使えます。同日中にタイムゾーンが異なるところに移動して使った場合に管理が少し複雑にはなりますが、使用に問題はありません。
+						</p>
+					</div>
+					<div class="col-md-6">
+						<h3 class="blue2 fw-500">Q. スクリーンショットを撮影、送信する頻度は変更できるのか？</h3>
+						<p>
+							A. Light版では10分間に1回ランダムに送信しています。Standard版では1分間に1回です。ランダムにキャプチャしていますのでユーザーはいつ撮影＆送信されるか把握することはできません。
+						</p>
+						<h3 class="blue2 fw-500">Q. スクリーンショット画像の精度はどうなっているのか？</h3>
+						<p>
+							A. どんな画面であったかは分かります。ただし文字までは判読不可能です。ですのでメールクライアントが開かれていたことは分かりますが、その文面は分かりません。またチャットツールが使われたいたことは分かってもどんなメッセージのやり取りがされていたのかは不明です。Privacyに配慮した解像度となっています。
+						</p>
+						<h3 class="blue2 fw-500">Q. ミニマム契約期間はあるのか？支払方法は？</h3>
+						<p>
+							A. ありません。1ヶ月から利用可能です。月末に利用ユーザー数を集計し請求書を発行いたします。翌月末までに銀行振込にてお支払いいただきます。
+						</p>
+					</div>
+				</div>
+				<br/>
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+						<div style="padding:10px;border:1px solid #edb41a">
+							<div class="div-above-footer">
+								<strong>Dokodemo-Kerja</strong>は、従業員がリモートワークすることを可能にし、無駄な時間と労力を排除して生産性を向上することを助け、管理者の従業員を監視する工数も減らすことができるツールです。個社別のカスタマイズも可能ですのでお問い合わせお待ちしております。
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>-->
+		</div>
+		
 		<div class="div-form" id="divForm">
 			<div class="container">
 				<div class="row">
@@ -567,19 +699,19 @@ if(isset($_POST['submitted']))
 					<div class="row">
 						<div class="form-group">
 							<div class="col-md-offset-1 col-md-5">
-								<input type="text" class="form-control" name="name" placeholder="お名前" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
+								<input required type="text" class="form-control" name="name" aria-label="Name" placeholder="お名前" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
 							</div>
 							<div class="col-md-5">
-								<input type="text" class="form-control" name="company" placeholder="会社名" value='<?php echo $formproc->SafeDisplay('company') ?>'/>
+								<input required type="text" class="form-control" name="company" aria-label="Company" placeholder="会社名" value='<?php echo $formproc->SafeDisplay('company') ?>'/>
 							</div>
 							<div class="clearfix"></div>
 						</div>
 						<div class="form-group">
 							<div class="col-md-offset-1 col-md-5">
-								<input type="number" class="form-control" name="phone" placeholder="TEL" value='<?php echo $formproc->SafeDisplay('phone') ?>'/>
+								<input required type="number" class="form-control" name="phone" aria-label="Phone" placeholder="TEL" value='<?php echo $formproc->SafeDisplay('phone') ?>'/>
 							</div>
 							<div class="col-md-5">
-								<input type="email" class="form-control" name="email" placeholder="E-mail" value='<?php echo $formproc->SafeDisplay('email') ?>'/>
+								<input required type="email" class="form-control" name="email" aria-label="Email" placeholder="E-mail" value='<?php echo $formproc->SafeDisplay('email') ?>'/>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -589,19 +721,19 @@ if(isset($_POST['submitted']))
 									<span class="blue fw-300">お問い合わせ種</span>
 									<div class="radiobuttons">
 										<div class="rdio">
-										  <input name="needs" value="Dokodemo-Kerjaを試用したい" id="radio2" type="radio" checked>
+										  <input required name="needs" value="Dokodemo-Kerjaを試用したい" id="radio2" type="radio" checked>
 										  <label for="radio2">Dokodemo-Kerjaを試用したい</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="人事管理システムの導入を検討している" id="radio3" type="radio">
+										  <input required name="needs" value="人事管理システムの導入を検討している" id="radio3" type="radio">
 										  <label for="radio3">人事管理システムの導入を検討している</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="採用管理システムの導入を検討している" id="radio4" type="radio">
+										  <input required name="needs" value="採用管理システムの導入を検討している" id="radio4" type="radio">
 										  <label for="radio4">採用管理システムの導入を検討している</label>
 										</div>
 										<div class="rdio">
-										  <input name="needs" value="リモートワーク制の導入を考えている" id="radio5" type="radio">
+										  <input required name="needs" value="リモートワーク制の導入を考えている" id="radio5" type="radio">
 										  <label for="radio5">リモートワーク制の導入を考えている</label>
 										</div>
 									</div>
@@ -609,7 +741,7 @@ if(isset($_POST['submitted']))
 								<br/>
 							</div>
 							<div class="col-md-5">
-								<textarea name="message" class="form-control" placeholder="お問い合わせ内容"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+								<textarea required name="message" class="form-control" aria-label="Message" placeholder="お問い合わせ内容"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -626,69 +758,7 @@ if(isset($_POST['submitted']))
 				</form>
 			</div>
 		</div>
-		<div class="div-faq" style="display:none">
-			<div class="anton title yellow">Pertanyaan yang sering diajukan:</div>
-			<br/>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6">
-						<span class="blue2 fw-500">Bagaimana <strong>Dokodemo-Kerja</strong> merekam jam kerja karyawan?</span><br/>
-						Dokodemo-Kerja merekam aktivitas dan jam kerja untuk setiap proyek yang dikerjakan karyawan pada layar perangkat komputernya. Perhitungan akan dimulai dan dihentikan dengan perintah <i>start/stop</i>.<br/><br/>
-						 
-						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> memerlukan akses internet?</span><br/>
-						Akses internet diperlukan untuk mengaktifkan dan mengelola akun Dokodemo-Kerja, serta mengirim data rekaman aktivitas dan jam kerja ke database.<br/><br/>
-						 
-						<span class="blue2 fw-500">Bagaimana jika akses internet saya putus saat <strong>Dokodemo-Kerja</strong> berjalan?</span><br/>
-						Tidak masalah. Akses internet tidak dibutuhkan selama proses penghitungan. Namun, Anda membutuhkan koneksi internet saat tombol stop diklik untuk mengirim data ke database.<br/><br/>
-						 
-						<span class="blue2 fw-500">Berapa jumlah pengguna yang didukung oleh <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Jumlah pengguna bisa disesuaikan menurut kebutuhan perusahaan.<br/><br/>
-						 
-						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> bisa diakses lewat perangkat seluler?</span><br/>
-						Untuk saat ini, perangkat seluler hanya bisa mengakses Dokodemo-Kerja melalui browser.<br/><br/>
-						
-						<span class="blue2 fw-500">Bagaimana cara menyiapkan layanan <strong>Dokodemo-Kerja</strong>? </span><br/>
-						Kami akan menyediakan panduan menyiapkan layanan Dokodemo-Kerja langkah demi langkah. Mulai dari cara mengakses akun master, mengakses aplikasi dan menginstalnya, hingga penggunaannya bagi karyawan.<br/><br/>
-						
-						<span class="blue2 fw-500">Bagaimana cara mengetahui apakah PC atau Mac saya dapat menjalankan <strong>Dokodemo-Kerja</strong>? </span><br/>
-						Dokodemo-Kerja mendukung PC yang menjalankan sistem operasi Windows, Linux, dan Macintosh.<br/><br/>
-					</div>
-					<div class="col-md-6">
-						<span class="blue2 fw-500">Bahasa apa saja yang tersedia untuk <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Untuk saat ini, Dokodemo-Kerja tersedia dalam Bahasa Indonesia dan Inggris.<br/><br/> 
-						 
-						<span class="blue2 fw-500">Dapatkah saya melakukan uji coba <strong>Dokodemo-Kerja</strong> terlebih dahulu sebelum membelinya?</span><br/>
-						Tentu saja. Untuk mendapatkan layanan uji coba, silakan hubungi kami.<br/><br/>
-						
-						<span class="blue2 fw-500">Bagaimana jika saya punya masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Jangan khawatir. Jika Anda mengalami masalah dalam menggunakan Dokodemo-Kerja, Anda dapat langsung menghubungi kami. Kami akan membantu Anda dengan senang hati.<br/><br/>
-						
-						<span class="blue2 fw-500">Saya tertarik menggunakan <strong>Dokodemo-Kerja</strong> untuk perusahaan saya. Bagaimana saya bisa mendapatkannya?</span><br/>
-						Anda hanya perlu menghubungi kami dengan mengisi formulir yang kami sediakan. Kami siap melayani Anda.<br/><br/>
-						
-						<span class="blue2 fw-500">Seberapa efektifkah <strong>Dokodemo-Kerja</strong> pada produktivitas karyawan?</span><br/>
-						Sangat efektif, karena Dokodemo-Kerja mampu mengkalkulasikan total jam kerja karyawan secara real time dan transparan.<br/><br/>
-						
-						<span class="blue2 fw-500">Untuk siapakah <strong>Dokodemo-Kerja</strong> dibuat?</span><br/>
-						Dokodemo-Kerja dibuat untuk para perusahaan yang menggunakan karyawan dengan sistem kerja remote dan independen agar meningkatkan produktifitas perusahaan.<br/><br/>
-						
-						<span class="blue2 fw-500">Apa keuntungan yang didapatkan oleh perusahaan yang menerapkan <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Dengan Dokodemo-Kerja, perusahaan akan diuntungkan dengan produktifitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.<br/><br/>
-						
-					</div>
-				</div>
-				<br/>
-				<div class="row">
-					<div class="col-md-offset-1 col-md-10">
-						<div style="padding:10px;border:1px solid #edb41a">
-							<div class="div-above-footer">
-								Dokodemo-Kerjaは、従業員がリモートワークすることを可能にし、無駄な時間と労力を排除して生産性を向上することを助け、管理者の従業員を監視する工数も減らすことができるツールです。個社別のカスタマイズも可能ですのでお問い合わせお待ちしております。
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+		
 		<a href="#" class="scrollToTop">Back to Top</a>
 <?php /*		<footer>
 			<div class="container">
@@ -763,6 +833,7 @@ ga('send', 'pageview');
 									<li><a href="/jp/services/mobile-app-dev.php" target="_blank"> モバイルApp開発</a></li>
 									<li><a href="/jp/services/penetration-test.php" target="_blank"> Webセキュリティ診断サービス</a></li>
 									<li><a href="/jp/services/system-dev.php" target="_blank">Webシステム開発</a></li>
+									<li><a href="/jp/services/digital-marketing.php" target="_blank">デジタルマーケティング活用支援 </a></li>
 								</ul>
 							</li>
 							
@@ -812,16 +883,9 @@ ga('send', 'pageview');
 <!-- 
  						<p>LOGIQUEは、ジャカルタでWebコンサルティング、Webサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。</p> -->
  						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
-						<p style="margin-bottom: 0; padding-bottom: 0px; padding-top: 0px;">
+						<p style="padding-bottom: 0px; padding-top: 0px;">
 							Dokodemo-Kerjaは、従業員がリモートワークすることを可能にし、無駄な時間と労力を排除して生産性を向上することを助け、管理者の従業員を監視する工数も減らすことができるツールです。個社別のカスタマイズも可能ですのでお問い合わせお待ちしております。
 						</p>
- 					<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
-					<ul class=" medsos-new" sty>
-						<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
-						<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-						<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-						<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-					</ul>
 					</div>
 				</div>
 				<br/>
@@ -835,16 +899,20 @@ ga('send', 'pageview');
 				<br><br>
 				&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
 				<br>
-				<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
+				<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 				<br><br>
 				<div class="provacy-policy-container">
-					<a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
+					<a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
 				</div>
+				<div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
+				<ul class=" medsos-new" sty>
+					<li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer" aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
+					<li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer" aria-label="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+					<li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer" aria-label="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer" aria-label="LinkedIn"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+				</ul>
 				</div>
 			</div>
-
-
-
 
 				<br/><br/>
 
@@ -900,7 +968,12 @@ ga('send', 'pageview');
 					}
 				});
 
-				
+				$('.form-dokodemo').on('submit', function () {
+					if (grecaptcha.getResponse() == '') {
+						alert("Please verify that you are not a robot");
+						return false;
+					}
+				});
 			});
 			
 			//Click event to scroll to top

@@ -1,13 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway);
-
 html{overflow-x: hidden;}
-* {
-  font-family: 'Raleway', 'sans-serif';
-}
 body {
   background-color: rgba(80, 227, 194, 0.12);
-  font-size: 15px;
   line-height: 1.7;
+  font-size: 15px;
+  font-family: 'Raleway', 'sans-serif';
 }
 
 img:hover {opacity: 0.8}
@@ -41,6 +38,7 @@ span, p {cursor: default;}
   text-align: center;
 }
 .SISTEM-LAPORAN-KERJA {
+  font-family: Allerta;
   font-size: 24px;
   font-weight: normal;
   font-style: normal;
@@ -61,6 +59,7 @@ span, p {cursor: default;}
   margin-left: -8em;
 }
 .APA-ITU {
+  font-family: Allerta;
   font-size: 24px;
   font-weight: normal;
   font-style: normal;
@@ -72,6 +71,7 @@ span, p {cursor: default;}
 }
 .NIPPO-SYSTEM {
   height: 83px;
+  font-family: HelveticaBold;
   font-size: 70px;
   font-style: normal;
   font-stretch: normal;
@@ -82,6 +82,7 @@ span, p {cursor: default;}
 }
 .layer {
   height: 170px;
+  font-family: HelveticaThin;
   font-size: 144px;
   font-weight: 100;
   font-style: normal;
@@ -117,6 +118,7 @@ span, p {cursor: default;}
 .Kenapa-Harus-Menggun {
   width: 423px;
   height: 31px;
+  font-family: Allerta;
   font-size: 24px;
   font-weight: normal;
   font-style: normal;
@@ -155,6 +157,7 @@ span, p {cursor: default;}
 .Masalah-yang-sering {
   width: 598px;
   height: 31px;
+  font-family: Allerta;
   font-size: 24px;
   font-weight: normal;
   font-style: normal;
@@ -210,6 +213,7 @@ span, p {cursor: default;}
 .NIPPO-SYSTEM-Copy {
   width: 763px;
   height: 83px;
+  font-family: HelveticaBold;
   font-size: 70px;
   font-style: normal;
   font-stretch: normal;
@@ -221,6 +225,7 @@ span, p {cursor: default;}
 .Fitur {
   width: 212px;
   height: 24px;
+  font-family: Allerta;
   font-size: 24px;
   font-weight: normal;
   font-style: normal;
@@ -241,6 +246,7 @@ span, p {cursor: default;}
 .Keuntungan-Perusahaa {
   width: 350px;
   height: 86px;
+  font-family: Allerta;
   font-size: 19.9px;
   font-weight: normal;
   font-style: normal;
@@ -252,6 +258,7 @@ span, p {cursor: default;}
   cursor: default;
 }
 .Keuntungan-Perusahaa .text-style-1 {
+  font-family: HelveticaBold;
   font-size: 50px;
   letter-spacing: 3px;
 }
@@ -263,20 +270,41 @@ span, p {cursor: default;}
 }
 .Rectangle {
   width: 345px;
-  height: 114px;
+  min-height: 155px;
   background-blend-mode: multiply;
-  background-image: linear-gradient(rgba(6, 6, 6, 0.8), rgba(74, 74, 77, 0.9));
-  top: 13.5em;
+  background-image: linear-gradient(rgba(6, 6, 6, 0.65), rgba(74, 74, 77, 0.9));
+  bottom: 0;
   position: absolute;
   color: #ffffff;
-  padding: 20px;
+  padding: 15px;
   text-align: left;
   cursor: pointer;
+}
+@media (min-width: 500px) {
+  .Rectangle {
+    min-height: 130px;
+  }
+}
+
+@media (min-width: 600px) {
+  .Rectangle {
+    min-height: 105px;
+  }
+}
+@media (min-width: 992px) {
+  .Rectangle {
+    min-height: 155px;
+  }
 }
 .Rectangle:hover {background-color: #4fe3c3;}
 .OH1E290 {
   width: 345px;
   height: 286px;
+}
+
+.OH1E290 img {
+  width: 100%;
+  height: 100%;
 }
 
 .Rectangle-7 {
@@ -298,6 +326,7 @@ span, p {cursor: default;}
 .Pertanyaan-Yang-Seri {
   width: 491px;
   height: 31px;
+  font-family: Allerta;
   font-size: 24px;
   font-weight: normal;
   font-style: normal;
@@ -315,6 +344,7 @@ span, p {cursor: default;}
   top: 20px;
 }
 .-Bagaimana-cara-ke {
+  font-family: HelveticaBold;
   font-size: 24px;
   font-style: normal;
   font-stretch: normal;
@@ -324,8 +354,12 @@ span, p {cursor: default;}
   color: #000000;
   cursor: default;
 }
+.-Bagaimana-cara-ke h3 {
+  margin: 0;
+}
 .Nippo-merupakan-sist {
-  font-size: 18px;
+  font-family: 'Raleway', 'sans-serif';
+  font-size: 15px;
   font-weight: normal;
   font-style: normal;
   font-stretch: normal;
@@ -349,6 +383,7 @@ span, p {cursor: default;}
   border-bottom: solid 20px #fff;
 }
 .KONTAK-KAMI {
+  font-family: HelveticaBold;
   font-size: 44px;
   font-style: normal;
   font-stretch: normal;
@@ -366,6 +401,7 @@ span, p {cursor: default;}
   margin-top: 10px;
 }
 .KIRIM {
+  font-family: Avenir;
   font-size: 21px;
   font-style: normal;
   font-stretch: normal;
@@ -408,6 +444,7 @@ span, p {cursor: default;}
 .Basis-Data-Karyawan {
   width: 100%;
   height: auto;
+  font-family: Allerta;
   font-size: 20px;
   font-weight: normal;
   font-style: normal;
@@ -431,6 +468,7 @@ span, p {cursor: default;}
 }
 
 .Rectangle-9 {
+  font-family: Avenir;
   height: 60px;
   border-radius: 8px;
   background-color: #ffffff;

@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="インドネシアのWebシステム開発会社LOGIQUEのモバイルアプリ開発サービスのご紹介。ネイティブアプリ開発、ハイブリッドアプリ、PWAの開発の豊富な実績があります。E-ラーニング、会員管理アプリ、e-コマースなどのモバイルアプリを開発してきました。インドネシアでお客様のニーズに沿ったモバイル・ソリューションの提供を行っていますのでお気軽に問い合わせください。">
 	<meta name="keywords" content="">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -402,24 +402,24 @@ if(isset($_POST['submitted']))
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-12">
-										<input type="text" name="name" placeholder="お名前" class="form-control name-input" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
+										<input type="text" name="name" aria-label="Name" placeholder="お名前" class="form-control name-input" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
 									</div>
 								</div>
 							</div>
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-6">
-										<input type="email" name="email" placeholder="Email" class="form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' />
+										<input type="email" name="email" aria-label="Email" placeholder="Email" class="form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' />
 									</div>
 									<div class="col-md-6">
-										<input type="number" name="phone" placeholder="TEL" class="form-control" value='<?php echo $formproc->SafeDisplay('phone') ?>' />
+										<input type="number" name="phone" aria-label="Phone" placeholder="TEL" class="form-control" value='<?php echo $formproc->SafeDisplay('phone') ?>' />
 									</div>
 								</div>
 							</div>
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-12">
-										<textarea class="form-control" placeholder="お問い合わせ" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										<textarea class="form-control" placeholder="お問い合わせ" name="message" aria-label="Message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 								</div>
 							</div>

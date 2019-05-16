@@ -2,7 +2,7 @@
 html, body {
     background-color: #fff;
     color: #000;
-    font-family: 'Raleway', 'sans-serif';   
+    font-family: 'M PLUS 1p','Raleway', sans-serif; 
 }
 a,b,body,caption,center,dd,div,em,footer,form,h1,h2,h3,h4,h5,h6,header,html,i,iframe,img,label,li,menu,nav,ol,p,section,small,span,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,u,ul,video {
     margin: 0;
@@ -329,11 +329,17 @@ footer a:hover {
     text-align: left
 }
 
-.link-footer .medsos-new .fa{font-size:35px;margin-top:10px}
-.link-footer .medsos-new .fa-facebook-official:hover{color:#3b5999}
-.link-footer .medsos-new .fa-twitter:hover{color:#0084ff}
-.link-footer .medsos-new .fa-instagram:hover{color:#e4405f}
-.link-footer .medsos-new .fa-linkedin-square:hover{color:#0077B5}
+@media (min-width: 768px) {
+    .link-footer p {
+        margin-bottom: 45px;
+    }
+}
+
+.medsos-new .fa{font-size:35px;margin-top:10px}
+.medsos-new .fa-facebook-official:hover{color:#3b5999}
+.medsos-new .fa-twitter:hover{color:#0084ff}
+.medsos-new .fa-instagram:hover{color:#e4405f}
+.medsos-new .fa-linkedin-square:hover{color:#0077B5}
 ul.medsos-new li{
     display: inline-block;
     padding:0 5px;

@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="LOGIQUE is the top mobile app developer in Jakarta, has been trusted to develop the highly responsive mobile app, Android and iOS, with native / hybrid app and PWA builder for enterprise clients. We develop apps, strategic plan, design, QA, user testing, etc. Contact us to create yours now.">
 	<meta name="keywords" content="jasa pengembangan aplikasi mobile, jasa pengembangan mobile app, jasa pembuatan aplikasi mobile, pengembangan aplikasi mobile">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -404,24 +404,24 @@ if(isset($_POST['submitted']))
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-12">
-										<input type="text" name="name" placeholder="Your Name" class="form-control name-input" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
+										<input type="text" name="name" aria-label="Name" placeholder="Your Name" class="form-control name-input" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
 									</div>
 								</div>
 							</div>
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-6">
-										<input type="email" name="email" placeholder="Email Address" class="form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' />
+										<input type="email" name="email" aria-label="Email" placeholder="Email Address" class="form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' />
 									</div>
 									<div class="col-md-6">
-										<input type="number" name="phone" placeholder="Telephone Number" class="form-control" value='<?php echo $formproc->SafeDisplay('phone') ?>' />
+										<input type="number" name="phone" aria-label="Phone" placeholder="Telephone Number" class="form-control" value='<?php echo $formproc->SafeDisplay('phone') ?>' />
 									</div>
 								</div>
 							</div>
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-12">
-										<textarea class="form-control" placeholder="Question" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										<textarea class="form-control" placeholder="Question" name="message" aria-label="Message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 								</div>
 							</div>

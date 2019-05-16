@@ -38,7 +38,7 @@ if(isset($_POST['submitted']))
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" content="NIPPOは日報管理ツールです。日々の日報を通じて、スタッフの作業内容・量・質を把握し、スタッフ間でのコミュニケーションを促進することができます。管理者者は部下の評価を行います。プロジェクト毎、タスク毎の原価工数集計も可能です。月額1ジュタからのクラウドツールですがカスタマイズ導入も可能です。デモ環境の試用も可能ですのでお問い合わせください。">
   <meta name="keywords" content="laporan kerja, laporan kerja harian, kerja partime, kerja remote, karyawan swasta, karyawan kontrak, laporan kinerja, laporan kinerja karyawan, sistem web, sistem informasi, Nippo">
   <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA">
@@ -128,22 +128,22 @@ if(isset($_POST['submitted']))
   <div class="container">
   <div class="col-md-12 text-center" style="padding: 45px 0">
   <span class="Kenapa-Harus-Menggun">Nippo導入のメリット</span><br>
-  <img src="img/nippo/LogoNippo-kecil.png" style="padding: 10px">
+  <img src="img/nippo/LogoNippo-kecil.png" alt="Nippo Logo" style="padding: 10px">
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-1.png" width="204px" height="206px">
+    <img src="img/nippo/kenapa-1.png" alt="Nippo導入のメリット">
     <div class="Dapat-diakses-melalu">モバイルからも入力可能なので出先からの日報入力が可能です。</div>
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-2.png" width="204px" height="206px">
+    <img src="img/nippo/kenapa-2.png" alt="Nippo導入のメリット">
     <div class="Dapat-diakses-melalu">とても簡単で直感的なUIです。</div>
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-3.png" width="204px" height="206px">
+    <img src="img/nippo/kenapa-3.png" alt="Nippo導入のメリット">
     <div class="Dapat-diakses-melalu">プロジェクト毎、タスク毎、人別に、原価工数管理・集計が可能です。</div>
   </div>
   <div class="col-md-3 text-center">
-    <img src="img/nippo/kenapa-4.png" width="204px" height="206px">
+    <img src="img/nippo/kenapa-4.png" alt="Nippo導入のメリット">
     <div class="Dapat-diakses-melalu">スタッフの自己評価、スーパーバイザーの評価を日々管理でき、集計も可能です。</div>
   </div>
   </div>
@@ -158,20 +158,20 @@ if(isset($_POST['submitted']))
   <div class="col-md-12" style=" padding-top: 7em; ">
     <div class="col-md-6 text-right">
       <div class="col-md-10"><span class="Evaluasi-kinerja-sel">適切でフェアな人事評価ができていない。客観性のある数値で管理された評価を行いたい。</span></div>
-      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
+      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Company Problems" width="77px" height="77px"></div>
     </div>
     <div class="col-md-6 text-left">
-      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
+      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Company Problems" width="77px" height="77px"></div>
       <div class="col-md-10"><span class="Evaluasi-kinerja-sel">スタッフが日々なにをしているのか管理したい。自分が不在にしているときの部下の作業内容・量・質が不十分。</span></div>
     </div>
   </div>
   <div class="col-md-12" style=" padding-top: 2em; ">
     <div class="col-md-6 text-right">
       <div class="col-md-10"><span class="Evaluasi-kinerja-sel">社内コミュニケーションが不足している。従業員同士で評価をしあって高めっていってもらいたい。</span></div>
-      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
+      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Company Problems" width="77px" height="77px"></div>
     </div>
     <div class="col-md-6 text-left">
-      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" width="77px" height="77px"></div>
+      <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Company Problems" width="77px" height="77px"></div>
       <div class="col-md-10"><span class="Evaluasi-kinerja-sel">誰がどんなタスクにどれだけの時間を割いているのか把握できていない。無駄な仕事を排除したい。</span></div>
     </div>
   </div>
@@ -179,21 +179,21 @@ if(isset($_POST['submitted']))
   <section class="hidden-md hidden-lg">  <!-- For Mobile -->
   <div class="col-md-12" style=" padding-top: 2em; ">
     <div class="col-md-6">
-      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
+      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Company Problems" style="padding: 10px;height: 50px"></div>
       <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">適切でフェアな人事評価ができていない。客観性のある数値で管理された評価を行いたい。</span></div>
     </div>
     <div class="col-md-6">
-      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
+      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Company Problems" style="padding: 10px;height: 50px"></div>
       <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">スタッフが日々なにをしているのか管理したい。自分が不在にしているときの部下の作業内容・量・質が不十分。</span></div>
     </div>
   </div>
   <div class="col-md-12">
     <div class="col-md-6">
-      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
+      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Company Problems" style="padding: 10px;height: 50px"></div>
       <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">社内コミュニケーションが不足している。従業員同士で評価をしあって高めっていってもらいたい。</span></div>
     </div>
     <div class="col-md-6">
-      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" style="padding: 10px;height: 50px"></div>
+      <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Company Problems" style="padding: 10px;height: 50px"></div>
       <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">誰がどんなタスクにどれだけの時間を割いているのか把握できていない。無駄な仕事を排除したい。</span></div>
     </div>
     <div class="clearfix"></div>
@@ -217,14 +217,14 @@ if(isset($_POST['submitted']))
   <div class="row row-fix-3">
     <div class="col-md-offset-2 col-md-8 text-center">
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-1.png">
+          <img src="img/nippo/fitur-1.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">従業員管理</p>
           <p class="NIPPO-system-menyedi">従業員情報を登録します。組織の情報、スーパーバイザーとの関連付けなども管理します。</p>
       </div>
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-4.png">
+          <img src="img/nippo/fitur-4.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">プロジェクト・タスク管理</p>
@@ -235,14 +235,14 @@ if(isset($_POST['submitted']))
   <div class="row row-fix-3">
     <div class="col-md-offset-2 col-md-8 text-center">
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-2.png">
+          <img src="img/nippo/fitur-2.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">タグ人</p>
           <p class="NIPPO-system-menyedi">共同作業した同僚をタグ付けすることで日報を相互に確認できます。共同作業者とレポート内容が大きく異ならないかなど確認になります。</p>
       </div>
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-5.png">
+          <img src="img/nippo/fitur-5.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">プロジェクト原価工数管理</p>
@@ -253,14 +253,14 @@ if(isset($_POST['submitted']))
   <div class="row row-fix-3">
     <div class="col-md-offset-2 col-md-8 text-center">
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-3.png">
+          <img src="img/nippo/fitur-3.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">人事評価</p>
           <p class="NIPPO-system-menyedi">毎日、自己評価を他者からの評価を管理します。集計して月次や年次評価することも可能となります。</p>
       </div>
       <div class="col-md-2 text-center">
-          <img src="img/nippo/fitur-6.png">
+          <img src="img/nippo/fitur-6.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">コメント管理</p>
@@ -281,13 +281,13 @@ if(isset($_POST['submitted']))
     </div>
     <div class="col-md-4 text-center">
         <div class="OH1E290">
-          <img src="img/nippo/keuntungan-1.png" alt="San Francisco" width="100%" height="300">
+          <img src="img/nippo/keuntungan-1.png" alt="San Francisco">
           <div class="Rectangle">マネージャーや人事担当者は従業員の作業内容を簡単に把握可能です。</div>
         </div>
     </div>
     <div class="col-md-4 text-center">
       <div class="OH1E290">
-        <img src="img/nippo/keuntungan-2.png" alt="San Francisco" width="100%" height="300">
+        <img src="img/nippo/keuntungan-2.png" alt="San Francisco">
         <div class="Rectangle">マネージャは管理下のスタッフの評価を容易に行えます。頻度が稀だとアンフェアな評価になりがちですが、NippoではDailyで評価可能です。</div>
       </div>
     </div>
@@ -295,19 +295,19 @@ if(isset($_POST['submitted']))
   <div class="row m-top-0" style=" margin-right: 0; margin-top: 4em">
     <div class="col-md-4 text-center">
         <div class="OH1E290">
-          <img src="img/nippo/keuntungan-3.png" alt="San Francisco" width="100%" height="300">
+          <img src="img/nippo/keuntungan-3.png" alt="San Francisco">
           <div class="Rectangle">自己評価とスーパーバイザーの評価の両方が管理されるので、評価をスタッフに伝える際に明快な説明が可能になります。</div>
         </div>
     </div>
     <div class="col-md-4 text-center">
       <div class="OH1E290">
-        <img src="img/nippo/keuntungan-4.png" alt="San Francisco" width="100%" height="300">
+        <img src="img/nippo/keuntungan-4.png" alt="San Francisco">
         <div class="Rectangle">社内コミュニケーションを活性化させます。Likeやコメントを残すことで他人から見られている・評価されている緊張感を生みます。</div>
       </div>
     </div>
     <div class="col-md-4 text-center">
         <div class="OH1E290">
-          <img src="img/nippo/keuntungan-5.png" alt="San Francisco" width="100%" height="300">
+          <img src="img/nippo/keuntungan-5.png" alt="San Francisco">
           <div class="Rectangle">評価者と物理的に場所が離れている、リモートワークしている場合などでも、適切な管理が可能で、Nippoがコミュニケーションを生みます。</div>
         </div>
     </div>
@@ -322,26 +322,37 @@ if(isset($_POST['submitted']))
       <div class="Rectangle-2-Copy-4">
         <span class="Pertanyaan-Yang-Seri">Nippoに関するよくあるお問い合わせ</span>
       </div>
-      <img src="img/nippo/question.png" class="question">
+      <img src="img/nippo/question.png" class="question" alt="Nippoに関するよくあるお問い合わせ">
     </div>
   </div>
 
   <div class="row row-fix-2">
     <div class="col-md-offset-1 col-md-10">
     <ol>
-      <li class="-Bagaimana-cara-ke">Bagaimana cara kerja Nippo?</li>
-      <p class="Nippo-merupakan-sist">Nippo merupakan sistem yang dibuat untuk mempermudah karyawan dalam melakukan laporan kerja harian. Selain itu, sistem ini juga dibuat untuk membantu manajerial dalam memantau kinerja harian karyawan.</p>
-      <li class="-Bagaimana-cara-ke">Bagaimana Nippo dapat membantu manager dan staf HR?</li>
-      <p class="Nippo-merupakan-sist">Dengan fitur-fitur yang ada pada Nippo, manajer atau supervisor dapat memantau kinerja dan produktivitas harian karyawan.</p>
-      <li class="-Bagaimana-cara-ke">Sepertinya saya akan membutuhkan panduan yang lebih jelas dalam menggunakan  Nippo.  Apa saya akan mendapatkannya?</li>
-      <p class="Nippo-merupakan-sist">Jangan khawatir. Kami menyediakan panduan penggunaannya untuk Anda. Jika Anda masih menemukan kesulitan, Anda bisa langsung menghubungi kami.</p>
-      <li class="-Bagaimana-cara-ke">Kami tertarik menggunakan Nippo untuk perusahaan kami. Bagaimana kami bisa mendapatkannya?</li>
-      <p class="Nippo-merupakan-sist">Anda bisa langsung menghubungi kami melalui salah satu kontak yang kami sediakan. Kami siap melayani Anda dengan senang hati.</p>
-      <li class="-Bagaimana-cara-ke">Apa perbedaan laman kelola untuk staf dengan manajerial?</li>
-      <p class="Nippo-merupakan-sist">Pada halaman manajerial terdapat fungsi evaluasi sehingga manajer dapat memberikan skor evaluasi kepada stafnya. Sedangkan untuk halaman staf hanya terdapat fungsi laporan harian saja.</p>
-      <li class="-Bagaimana-cara-ke">Apakah Nippo bisa diakses oleh browser apa pun?</li>
-      <p class="Nippo-merupakan-sist">Ya, Nippo dapat diakses menggunakan browser apapun, termasuk oleh browser di perangkat seluler. Jika Anda mengalami masalah dan membutuhkan bantuan, jangan ragu untuk menghubungi Kami.</p>
-      <br>
+      <li class="-Bagaimana-cara-ke">
+        <h3>Bagaimana cara kerja Nippo?</h3>
+        <p class="Nippo-merupakan-sist">Nippo merupakan sistem yang dibuat untuk mempermudah karyawan dalam melakukan laporan kerja harian. Selain itu, sistem ini juga dibuat untuk membantu manajerial dalam memantau kinerja harian karyawan.</p>
+      </li>
+      <li class="-Bagaimana-cara-ke">
+        <h3>Bagaimana Nippo dapat membantu manager dan staf HR?</h3>
+        <p class="Nippo-merupakan-sist">Dengan fitur-fitur yang ada pada Nippo, manajer atau supervisor dapat memantau kinerja dan produktivitas harian karyawan.</p>
+      </li>
+      <li class="-Bagaimana-cara-ke">
+        <h3>Sepertinya saya akan membutuhkan panduan yang lebih jelas dalam menggunakan  Nippo.  Apa saya akan mendapatkannya?</h3>
+        <p class="Nippo-merupakan-sist">Jangan khawatir. Kami menyediakan panduan penggunaannya untuk Anda. Jika Anda masih menemukan kesulitan, Anda bisa langsung menghubungi kami.</p>
+      </li>
+      <li class="-Bagaimana-cara-ke">
+        <h3>Kami tertarik menggunakan Nippo untuk perusahaan kami. Bagaimana kami bisa mendapatkannya?</h3>
+        <p class="Nippo-merupakan-sist">Anda bisa langsung menghubungi kami melalui salah satu kontak yang kami sediakan. Kami siap melayani Anda dengan senang hati.</p>
+      </li>
+      <li class="-Bagaimana-cara-ke">
+        <h3>Apa perbedaan laman kelola untuk staf dengan manajerial?</h3>
+        <p class="Nippo-merupakan-sist">Pada halaman manajerial terdapat fungsi evaluasi sehingga manajer dapat memberikan skor evaluasi kepada stafnya. Sedangkan untuk halaman staf hanya terdapat fungsi laporan harian saja.</p>
+      </li>
+      <li class="-Bagaimana-cara-ke">
+        <h3>Apakah Nippo bisa diakses oleh browser apa pun?</h3>
+        <p class="Nippo-merupakan-sist">Ya, Nippo dapat diakses menggunakan browser apapun, termasuk oleh browser di perangkat seluler. Jika Anda mengalami masalah dan membutuhkan bantuan, jangan ragu untuk menghubungi Kami.</p>
+      </li>
     </ol>
     </div>
   </div>
@@ -366,23 +377,23 @@ if(isset($_POST['submitted']))
       <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
       <div class="row">
           <div class="col-sm-6 form-group">
-            <input type="text" class="form-control Rectangle-9" name="name" placeholder="お名前" value='<?php echo $formproc->SafeDisplay('name') ?>' >
+            <input type="text" class="form-control Rectangle-9" name="name" aria-label="Name" placeholder="お名前" value='<?php echo $formproc->SafeDisplay('name') ?>' >
           </div>
           <div class="col-sm-6 form-group">
-            <input type="text" class="form-control Rectangle-9" name="company" placeholder="会社名" value='<?php echo $formproc->SafeDisplay('company') ?>' >
+            <input type="text" class="form-control Rectangle-9" name="company" aria-label="Company" placeholder="会社名" value='<?php echo $formproc->SafeDisplay('company') ?>' >
           </div>
       </div>
       <div class="row">
           <div class="col-sm-6 form-group">
-            <input type="email" class="form-control Rectangle-9" name="email" placeholder="EMAIL" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+            <input type="email" class="form-control Rectangle-9" name="email" aria-label="Email" placeholder="EMAIL" value='<?php echo $formproc->SafeDisplay('email') ?>'>
           </div>
           <div class="col-sm-6 form-group">
-            <input type="number" class="form-control Rectangle-9" name="phone" placeholder="TEL" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
+            <input type="number" class="form-control Rectangle-9" name="phone" aria-label="Phone" placeholder="TEL" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
           </div>
       </div>
       <div class="row">
           <div class="col-sm-12 form-group">
-            <textarea class="form-control Rectangle-9" name="message" rows="8" placeholder="お問い合わせ内容" style="width: 100%;padding:  1em;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+            <textarea class="form-control Rectangle-9" name="message" aria-label="Message" rows="8" placeholder="お問い合わせ内容" style="width: 100%;padding:  1em;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
           </div>
       </div>
 
@@ -406,7 +417,7 @@ if(isset($_POST['submitted']))
   <div class="row" style="margin: 0">
     <div class="col-md-12 text-center">
       <div class="col-md-12">
-        <img src="img/nippo/logo-nippo-footer.png" style="padding-top: 49.2px">
+        <img src="img/nippo/logo-nippo-footer.png" alt="Nippo Logo" style="padding-top: 49.2px">
         <p class="Nippo-adalah-aplikas2">Nippoは従業員の日報を通して現状を把握し改善していくためのツールです。誰がなにをどれくらいの時間かけて作業しているか把握します。またその作業に対して自己評価とスーパーバイザーからの評価を行い管理することが可能となります。</p>
       </div>
     </div>
@@ -422,15 +433,15 @@ if(isset($_POST['submitted']))
   </div>
   <div class="row text-center" style="margin: 0">
     <div class="col-md-4" style="margin-top: 3em">
-      <img src="img/nippo/placeholder.png">
+      <img src="img/nippo/placeholder.png" alt="Office Location">
       <p class="Nippo-adalah-aplikas2">Ad Premier Building 19th Floor Jalan Tb. Simatupang No. 5 Ragunan, Ps. Minggu, Jakarta Selatan, Indonesia 12550</p>
     </div>
     <div class="col-md-4" style="margin-top: 3em">
-      <img src="img/nippo/email.png">
+      <img src="img/nippo/email.png" alt="Email">
       <p class="Nippo-adalah-aplikas2">info@logique.co.id</p>
     </div>
     <div class="col-md-4" style="margin-top: 3em">
-      <img src="img/nippo/phone-call.png">
+      <img src="img/nippo/phone-call.png" alt="Phone">
       <p class="Nippo-adalah-aplikas2">+62(21) 2270 8935 / 36</p>
     </div>
   </div>
@@ -441,7 +452,7 @@ if(isset($_POST['submitted']))
   <div class="container">
   <div class="row text-center" style="margin: 0;padding-top: 1em">
     <div class="col-md-12">
-      <a href="https://www.logique.co.id/jp/" target="_blank"><img src="img/nippo/logo-Logique.png" class="FA-Logique"></a>
+      <a href="https://www.logique.co.id/jp/" target="_blank" rel="noreferrer" aria-label="Logo Logique"><img src="img/nippo/logo-Logique.png" alt="Logo Logique" class="FA-Logique"></a>
     </div>
   </div>
   </div>

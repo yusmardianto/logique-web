@@ -3,7 +3,7 @@
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia helped Opus Park in creating and implementing the right online marketing strategy to reach goals as they wanted across various platforms. It included targeted social media marketing, search and display network ads, also SEO for the website. Learn the case study here.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
@@ -58,7 +58,7 @@
       </header>
 
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>
@@ -74,7 +74,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/en/about.php">
+							<a href="/en/logique.php">
 								<div class="img-about"></div>
 								About Us
 							</a>
@@ -110,7 +110,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank">
+							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>
@@ -133,7 +133,7 @@
               <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <p style="font-size: 22px;font-weight: bold;">Opus Park</p>
+              <p class="cs-subtitle-top">Opus Park</p>
               <h2 class="cs-subtitle">World Class Property in Sentul City</h2>
               <p class="cs-desc">
                 Opus Park is an iconic suburban residential property developed by PT Izumi Sentul Realty, a Joint Venture (JV) company that consists of a leading property developer in Indonesia, Sentul City, and two well-known Japanese infrastructure companies, namely Sumitomo Corporation and Hankyu Hanshin Properties Corp. Opus Park consists of three premium quality apartment towers with 1,095 units in total. Located in Central Business District (CBD) area of ​​Sentul City, Bogor, Opus Park offers strategic housings in the form of luxury apartments and penthouses with world-class facilities. In the area, also built a shopping center from Japan, AEON Mall, offices, and five-star hotels with a total building area of ​​500 thousand square meters.
@@ -147,7 +147,7 @@
               <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2 custom1">
             </div>
             <div class="col-sm-6">
-              <p style="font-size: 22px;font-weight: bold;">Targets Opus Park Wants to Achieve</p>
+              <p class="cs-subtitle-top">Targets Opus Park Wants to Achieve</p>
               <h2 class="cs-subtitle">Find the right people</h2>
               <p class="cs-desc">
               Opus Park sees the online digital world as the largest potential source of sales of their units. They want targeted marketing through digital marketing to find potential buyers. By using the operation of online advertising and the application of SEO on the website, they have at least two goals. First, they want the right people to contact them—either by telephone, WhatsApp, or email—to ask related questions, and register a schedule to visit the Show Unit with the sales team of Opus Park. Second, so that the number of callers/users increases and they actually meet the schedule to visit the Show Unit.
@@ -164,7 +164,7 @@
               <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3 custom2">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <p style="font-size: 22px;font-weight: bold;">The Strategy Applied by LOGIQUE</p>
+              <p class="cs-subtitle-top">The Strategy Applied by LOGIQUE</p>
               <h2 class="cs-subtitle">Maximizing Digital Marketing</h2>
               <p class="cs-desc custom4">
               Opus Park wants the operation of ads and social media to get paid traffic, and the implementation of SEO on the website for organic traffic from search engines. Both types of traffic play a major role in achieving the desired goals.
@@ -219,7 +219,7 @@
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
-              <p class="text-center" style="font-size: 22px;font-weight: bold;">Results</p>
+              <p class="text-center cs-subtitle-top">Results</p>
               <h2 class="cs-subtitle text-center">Reached Conversions</h2>
               <p class="cs-desc text-center">
               Implementing a digital marketing strategy has helped Opus Park increase awareness among a targeted audience. Not only that, the Opus Park website has a significant increase in traffic. The engagement that was obtained was fairly satisfying. This good result has even been seen in 1-2 months since the digital marketing operations were executed in a cost-efficient manner.
@@ -286,8 +286,8 @@
           <a href="/en/contact.php" class="btn btn-cs-bottom">Contact Us</a>
           <a href="/en/services.php" class="btn btn-cs-bottom">Our Services</a>
           <a href="/en/portfolio.php" class="btn btn-cs-bottom">Portfolio</a>
-          <a href="/en/services/mekanisme-pembuatan-website/" class="btn btn-cs-bottom">Web Development</a>
-          <a href="/en/services/pembuatan-sistem-web/" class="btn btn-cs-bottom">Web System Development</a>
+          <a href="/en/services/web-dev.php" class="btn btn-cs-bottom">Web Development</a>
+          <a href="/en/services/system-dev.php" class="btn btn-cs-bottom">Web System Development</a>
         </section>
         <footer>
           <div class="container-fluid">

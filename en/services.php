@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia is highly experienced in website creation, mobile app development, Web Vulnerability Assessment, digital marketing, and any kind of service you need for growing business through digital. We serve a one package of solutions for your business. See all of our services here.">
 	<meta name="keywords" content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
 	<meta name="author" content="PT. Logique Digital Indonesia">
@@ -27,7 +27,7 @@
 		<div class="wrapper">
 
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>
@@ -44,7 +44,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="about.php">
+							<a href="logique.php">
 								<div class="img-about"></div>
 								About Us
 							</a>
@@ -80,7 +80,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank">
+							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>
@@ -151,10 +151,10 @@
 						<br/>
 						<div class="row">
 							<div class="col-sm-6">
-								<a href="/en/services/mekanisme-pembuatan-website/" target="_blank"><img src="/img/banner1-eng.jpg" alt="Mekanisme Pembuatan Website" style="width:100%"/></a>
+								<a href="/en/services/web-dev.php" target="_blank"><img src="/img/banner1-eng.jpg" alt="Web Dev" style="width:100%"/></a>
 							</div>
 							<div class="col-sm-6">
-								<a href="/en/services/pembuatan-sistem-web/" target="_blank"><img src="/img/banner2-en.png" alt="Pembuatan Sistem Website" style="width:100%"/></a>
+								<a href="/en/services/system-dev.php" target="_blank"><img src="/img/banner2-en.png" alt="System Dev" style="width:100%"/></a>
 							</div>
 						</div>
 						<br/>
@@ -178,13 +178,13 @@
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
-												<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank">
+												<a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/dmi.png" class="img-responsive center-block">
 												DMI<br>
 												</a>
 											</div>
                       <div class="col-sm-5">
-												<a href="http://sentraya.id/" target="_blank">
+												<a href="http://sentraya.id/" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/sentraya.png" class="img-responsive center-block">
 												MENARA SENTRAYA<br>
 												</a>
@@ -202,17 +202,17 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Recruitment Website Creation</b><br/>
 										We realize that many companies have difficulty in getting employees with the needs of your company. LOGIQUE provides solutions for making career websites that can be the key to the success of your company's recruitment activities. Through career websites, you can provide a variety of information with clear messages, such as the latest job vacancies, work atmosphere, and the benefits of prospective candidates if you work in your company.
-										<br><a target="_blank" href="/en/services/pembuatan-website-karir-perusahaan/" class="btn btn-service-link wrap-link">See more details about Recruitment Web Dev Service</a>
+										<br><a target="_blank" href="/en/services/recruitment-web-dev.php" class="btn btn-service-link wrap-link">See more details about Recruitment Web Dev Service</a>
 										<br/><br/>
 										<div class="row text-center service-portfolio">
 											<div class="col-sm-5 col-sm-offset-1">
-												<a href="http://trendpot-recruit.asia/index.php" target="_blank">
+												<a href="http://trendpot-recruit.asia/index.php" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/trendpot.png" class="img-responsive center-block">
 												TRENDPOT<br><br>
 												</a>
 											</div>
                       <div class="col-sm-5">
-												<a href="https://career.sinarmasland.com/" target="_blank">
+												<a href="https://career.sinarmasland.com/" target="_blank" rel="noreferrer">
 												<img src="/img/portfolio/sinarmas.jpg" class="img-responsive center-block">
 												SINAR MAS LAND<br><br>
 												</a>
@@ -301,7 +301,7 @@
                     We provide comprehensive mobile app development services for you. Not only plannig and consulting about implementation of the latest technology,
                     LOGIQUE also optimizes UI and UX, design, application development, and even help you register applications onto the App Store / Google Play. Get in touch with our team to discuss mobile app development (iOS / Android / Hybrid / PWA).
 										<br/>
-										<a target="_blank" href="/en/services/pembuatan-aplikasi-mobile/" class="btn btn-service-link wrap-link">See Further Info about Mobile App Dev</a>
+										<a target="_blank" href="/en/services/mobile-app-dev.php" class="btn btn-service-link wrap-link">See Further Info about Mobile App Dev</a>
 									</li>
 								</ol>
 							  </div>
@@ -365,7 +365,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>WEB Security Assesment (Vulnerability Scanning / Test)</b><br/>
 										We do penetration test and report the vulnerability of your Website / Web-application. You can prevent your Website / Web-application from being attacked by SQL injection, cross-site scripting, session-jacking, etc. At least you can minimize the risk of Web security. Our experts conduct the security assessment in reasonable price so that you don't need to hesitate to do pen-test for your Web assets.
-										<br><a target="_blank" href="/en/services/penetration-testing/" class="btn btn-service-link wrap-link">See more about Web Security Test</a>
+										<br><a target="_blank" href="/en/services/penetration-test.php" class="btn btn-service-link wrap-link">See more about Web Security Test</a>
 									</li>
 								</ol>
 							  </div>

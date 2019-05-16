@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUEはジャカルタのウェブ制作会社です。ジャカルタを中心とするインドネシア国内でWEBサイト制作/システム構築、WEBマーケティング、(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
 	<meta name="keywords" content="採用情報, webデベロッパー, プログラマー, ウェブデザイナー, デザイナー, コンテンツライター">
 	<meta name="author" content="PT. Logique Digital Indonesia">
@@ -29,7 +29,7 @@
 		<div class="wrapper">
 		
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span> 
@@ -81,7 +81,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/ja" target="_blank">
+							<a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>
@@ -93,7 +93,7 @@
 			
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
-				<img id="bgvid" style="width:100%" src="/img/video-img.png"/>
+				<img id="bgvid" alt="Bg Video" style="width:100%" src="/img/video-img.png"/>
 			</div>
 			
 			<div class="container-fluid">
@@ -110,7 +110,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">LOGIQUEの求人</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">日系のWEBサイト/ホームページ制作会社、システム開発会社。インドネシアでのパートナー・代理店としての提携問い合わせお待ちしてます。</h1>
+							<h1 class="tagline">日系のWebサイト/ホームページ制作会社、システム開発、デジタルマーケティング会社。インドネシアでインターンとして働きたい方からのご連絡お待ちしています。インドネシアでのパートナー・代理店としての提携問い合わせもお待ちしてます。</h1>
 						</div>
 					</div>
 				</div>
@@ -121,7 +121,7 @@
 			<div id="contentsArea">
 				<div id="contents">
 					<div class="title" style="font-size: 28px;"><b>営業パートナー／インターン採用について</b></div>
-					<iframe style="width:100%;height:380px" src="https://www.youtube-nocookie.com/embed/250FrYLHytM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe style="width:100%;height:380px" title="Logique Digital Indonesia - Career" src="https://www.youtube-nocookie.com/embed/250FrYLHytM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					<!--<img src="../img/career-main.png" class="img-in-joinus"/>-->
 					<div class="form-container">
 						<p style="padding-top: 5px;">
@@ -412,7 +412,7 @@
 						VISAの問題をクリアできれば短期から長期まで柔軟に受入可能です。<br/><br/><br/>
 						<center><span class="characteristic-title">選考プロセスは</span></center>
 						<br/>
-						<img src="../img/job-application-jp.png" class="center-block img-responsive"/>
+						<img src="../img/job-application-jp.png" alt="Job Application" class="center-block img-responsive"/>
 						<br/>
 						</p>
 						<br/>
@@ -694,7 +694,7 @@
 							<a href="contact.php" class="btn btn-contact-us-black custom-btn-contact" >
 								こちらからご連絡お待ちしています
 							</a>
-							<a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank"  class="btn btn-contact-us-black custom-btn-contact" > <img src="../img/whatsapp.png" width="20" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a>
+							<a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" rel="noreferrer" target="_blank"  class="btn btn-contact-us-black custom-btn-contact" > <img src="../img/whatsapp.png" alt="WhatsApp" width="20" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a>
 						</div>
 					</div>
 				</div>

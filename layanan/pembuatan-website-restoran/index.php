@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="LOGIQUE juga menyediakan layanan pembuatan website serta aplikasi mobile untuk bisnis restoran dengan tampilan menarik, baik untuk meningkatkan brand image maupun meningkatkan engagement dengan pelanggan Anda. Hubungi LOGIQUE untuk mendapatkan layanan ini segera!">
 	<meta name="keywords" content="website restoran, restoran, jasa website restoran, logique">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -48,7 +48,7 @@
 			<header>
 				<div class="container">
 					<center><h1>bangun <span class="sp-text red">website</span> yang menakjubkan<br>untuk <span class="sp-text red">restoran</span> anda</h1>
-					<a href="https://www.logique.co.id/hubungi-kami.php" target="_blank" class="btn btn-red makebtn">Buat Sekarang</a>
+					<a href="/hubungi-kami.php" target="_blank" class="btn btn-red makebtn">Buat Sekarang</a>
 				</center>
 				</div>
 			</header>
@@ -139,7 +139,7 @@ untuk <span class="sp-text black">Restoran</span> Anda, Apa saja <span class="sp
 							<li><i class="fa fa-square" aria-hidden="true"></i>Terhubung dengan  Jejaring Sosial</li>
 							<li><i class="fa fa-square" aria-hidden="true"></i>Mudah diakses dengan Ponsel</li>
 						</ul>
-						<center><a  href="https://www.logique.co.id/hubungi-kami.php" target="_blank"  class="btn btn-red makebtn">Buat Sekarang</a></center>
+						<center><a  href="/hubungi-kami.php" target="_blank"  class="btn btn-red makebtn">Buat Sekarang</a></center>
 					</div>
 				</div>
 				<div class="custom-feature">
@@ -169,7 +169,7 @@ untuk <span class="sp-text black">Restoran</span> Anda, Apa saja <span class="sp
 				<div class="row">
 					<div class="col-sm-8 pull-right">
 						<h2>Buat Website untuk Restoran Anda Sekarang <br>dan Nikmati Keuntungan yang diberikan.</h2>
-						<a  href="https://www.logique.co.id/hubungi-kami.php" target="_blank"  class="btn btn-red makebtn">Buat Sekarang</a>
+						<a  href="/hubungi-kami.php" target="_blank"  class="btn btn-red makebtn">Buat Sekarang</a>
 					</div>
 				</div>
 				</div>
@@ -180,13 +180,13 @@ untuk <span class="sp-text black">Restoran</span> Anda, Apa saja <span class="sp
 					<div class="row">
 					<div class="col-sm-10 col-sm-push-1">
 					<div class="slider-template-cont">
-						<div><img src="images/template-1.jpg" class="img-responsive"></div>
-						<div><img src="images/template-2.jpg" class="img-responsive"></div>
+						<div><img src="images/template-1.jpg" alt="Template website" class="img-responsive"></div>
+						<div><img src="images/template-2.jpg" alt="Template website" class="img-responsive"></div>
 						 
 						 
 					</div>
 
-					<center><a  href="https://www.logique.co.id/hubungi-kami.php" target="_blank"  class="btn btn-black makebtn">Buat Sekarang</a></center>
+					<center><a  href="/hubungi-kami.php" target="_blank"  class="btn btn-black makebtn">Buat Sekarang</a></center>
 					</div>
 					</div>
 				</div>
@@ -201,7 +201,7 @@ untuk <span class="sp-text black">Restoran</span> Anda, Apa saja <span class="sp
 							<div class="testi-cont">
 							<div class="testi-text">
 								“ Sudah lama kami ingin memiliki website untuk mendukung restoran kami tapi 
-bingung bagaimana cara memulainya. Dam Logique memberi kemudahan dan dapat memenuhi sagala keinginan kami atas website kami.  Hasilnya sungguh diatas harapan kami sekarang restoran kami tampil lebih profesional dan mendapatkan hasil yang lebih baik dan semoga kedepannya kami cdapat bekerja sama lagi dengan Logique.
+bingung bagaimana cara memulainya. Dan Logique memberi kemudahan dan dapat memenuhi sagala keinginan kami atas website kami.  Hasilnya sungguh diatas harapan kami sekarang restoran kami tampil lebih profesional dan mendapatkan hasil yang lebih baik dan semoga kedepannya kami dapat bekerja sama lagi dengan Logique.
 							</div>
 							<div class="testi-owner">
 								Joko Tingkir<br>
@@ -217,10 +217,10 @@ bingung bagaimana cara memulainya. Dam Logique memberi kemudahan dan dapat memen
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-8 bartext">
-								Memiliki perntanyaan dan perlu informasi lebih lanjut ?
+								Memiliki pertanyaan dan perlu informasi lebih lanjut ?
 							</div>
 							<div class="col-sm-4 text-right">
-								<a  href="https://www.logique.co.id/hubungi-kami.php" target="_blank"  class="btn btn-black makebtn">Buat Sekarang</a>
+								<a  href="/hubungi-kami.php" target="_blank"  class="btn btn-black makebtn">Buat Sekarang</a>
 							</div>
 						</div>
 					</div>

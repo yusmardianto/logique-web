@@ -39,9 +39,9 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUE merupakan perusahaan web developer, web design, digital marketing terbaik di Jakarta yang menawarkan berbagai pelayanan serta produk digital untuk perkembangan bisnis Anda. Tertarik untuk mendapatkan layanan dan produk kami. Hubungi kami sekarang juga!">
-	<meta name="keywords" content="konsultasi website, pembuatan website, pembuatan aplikasi, hubungi kami, hubungi logique, logique">
+	<meta name="keywords" content="pengembangan sistem web, digital marketing, pembuatan aplikasi android, media sosial, sistem aplikasi, hubungi kami, pembuatan website, konten, pemasaran, konsultasi, seo">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Hubungi Kami | Web Developer, Designer, Digital Marketing | LOGIQUE">
 	<meta property="og:type" content="website">
@@ -64,7 +64,7 @@ if(isset($_POST['submitted']))
 		<div class="wrapper">
 		
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span> 
@@ -80,7 +80,7 @@ if(isset($_POST['submitted']))
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="tentang-kami.php">
+							<a href="logique.php">
 								<div class="img-about"></div>
 								Tentang Kami
 							</a>
@@ -116,7 +116,7 @@ if(isset($_POST['submitted']))
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank">
+							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>
@@ -214,23 +214,23 @@ if(isset($_POST['submitted']))
 								<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
 								<div class="col-lg-6">
 									<div class="form-group">
-										<input type="text" class="form-control" id="companyname" name="companyname" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="NAMA PERUSAHAAN">
+										<input type="text" class="form-control" id="companyname" name="companyname" aria-label="Company Name" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="NAMA PERUSAHAAN">
 									</div>
 								</div> 
 								<div class="col-lg-6">
 									<div class="form-group">
-										<input type="text" class="form-control" id="name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAMA">
+										<input type="text" class="form-control" id="name" name="name" aria-label="Name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAMA">
 									</div>
 								</div>
 								<div class="clearfix"></div>
 								<div class="col-lg-6">
 									<div class="form-group">
-										<input type="number" class="form-control" id="phone" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="NOMOR TELEPON">
+										<input type="number" class="form-control" id="phone" name="phone" aria-label="Phone" value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="NOMOR TELEPON">
 									</div>
 								</div>
 								<div class="col-lg-6">
 									<div class="form-group">
-									  <input type="email" class="form-control" id="email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
+									  <input type="email" class="form-control" id="email" name="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
 									</div>
 								</div>
 								<div class="clearfix"></div>
@@ -269,7 +269,7 @@ if(isset($_POST['submitted']))
 								<div class="clearfix"></div><br/>
 								<div class="col-lg-12">
 									<div class="form-group">
-										<textarea class="form-control" name="message" placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										<textarea class="form-control" name="message" aria-label="Message" placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 								</div>
 								<div class="clearfix"></div>
@@ -285,11 +285,11 @@ if(isset($_POST['submitted']))
 						<br/>
 						<div class="row">
 							<div class="col-md-12 text-center sosmed-contact">
-								<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="color:#3b5999"></i></a>
-								<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="color:#0084ff"></i></a>
-								<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="color:#e4405f"></i></a>
-								<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="color:#0077B5"></i></a>
-								<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank"><i class="fa fa-whatsapp" style="color:#25D366"></i></a>
+								<a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook" rel="noreferrer"><i class="fa fa-facebook-official" style="color:#3b5999"></i></a>
+								<a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter" rel="noreferrer"><i class="fa fa-twitter" style="color:#0084ff"></i></a>
+								<a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram" rel="noreferrer"><i class="fa fa-instagram" style="color:#e4405f"></i></a>
+								<a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn" rel="noreferrer"><i class="fa fa-linkedin-square" style="color:#0077B5"></i></a>
+								<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank" aria-label="WhatsApp" rel="noreferrer"><i class="fa fa-whatsapp" style="color:#25D366"></i></a>
 							</div>
 						</div>
 						<br/>
@@ -301,7 +301,7 @@ if(isset($_POST['submitted']))
 								<a target="_blank" href="/layanan.php" class="btn btn-hubungi btn-block">Layanan LOGIQUE</a>
 							</div>
 							<div class="col-md-4">
-								<a target="_blank" href="/tentang-kami.php" class="btn btn-hubungi btn-block">Tentang LOGIQUE</a>
+								<a target="_blank" href="/logique.php" class="btn btn-hubungi btn-block">Tentang LOGIQUE</a>
 							</div>
 							<div class="col-md-4">
 								<a target="_blank" href="/career/" class="btn btn-hubungi btn-block">Karir LOGIQUE</a>
@@ -387,7 +387,7 @@ if(isset($_POST['submitted']))
 						<div class="answer">Ya, kami mempunyai keahlian SEO yang kami tunjukkan di berbagai situs yang telah berada di deretan paling atas pada berbagai industri, seperti keuangan, perjalanan, pendidikan, dan lain-lain. Tim kami terdiri dari penulis konten dan pemasaran yang berasal dari Indonesia yang akan memberikan hasil terbaik untuk pelayanan SEO bagi Anda. Selain itu, kami juga dapat menerapkan SEO dalam bahasa Inggris dan Jepang dengan baik.</div><br/>						
 					</div>
 					<div class="map-container">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1982.8748090433066!2d106.82702104991579!3d-6.296598097694437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f206effdebf1%3A0xca2d9403de2bfbe1!2sAD+Premier+Office+Park!5e0!3m2!1sen!2sid!4v1499330296225" allowfullscreen></iframe>
+						<iframe title="Office Map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1982.8748090433066!2d106.82702104991579!3d-6.296598097694437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f206effdebf1%3A0xca2d9403de2bfbe1!2sAD+Premier+Office+Park!5e0!3m2!1sen!2sid!4v1499330296225" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>

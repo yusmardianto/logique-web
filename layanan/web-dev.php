@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="Sebagai salah satu pembuat website terkemuka di Indonesia, LOGIQUE memiliki tahapan pembuatan website tersendiri yang terstruktur dan profesional dalam memberikan jasa dan layanan terbaiknya pada klien. Berikut penjelasan sederhana dari tiap tahap pembuatan website dari LOGIQUE.">
 	<meta name="keywords" content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -75,7 +75,7 @@ if(isset($_POST['submitted']))
 		<header>
 			<!-- NAVIGATION -->
 			<div class="nav-lp">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
 					<span class="icon-bar third"></span> 
@@ -91,7 +91,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="/tentang-kami.php">
+								<a href="/logique.php">
 									<div class="img-about"></div>
 									Tentang Kami
 								</a>
@@ -127,7 +127,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="https://www.logique.co.id/blog/" target="_blank">
+								<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 									<div class="img-blog"></div>
 									Blog
 								</a>
@@ -270,7 +270,7 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-sm-4">
 						<div class="analysis-part flow-part">
-							<img src="assets/img/img-webdev/writing.png"> 
+							<img src="assets/img/img-webdev/writing.png" alt="Analisis dan Evaluasi"> 
 							<h3>Analisis dan Evaluasi</h3>
 							<p>
 								Anda sudah punya website dan berkeinginan untuk memperbaikinya? Kami siap untuk melakukan analisis dan mengevaluasi situasi situs web Anda saat ini. 
@@ -281,7 +281,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="plan-part flow-part">
-							<img src="assets/img/img-webdev/intelligent.png"> 
+							<img src="assets/img/img-webdev/intelligent.png" alt="Perencanaan"> 
 							<h3>Perencanaan</h3>
 							<p>
 								Untuk mencapai tujuan yang Anda inginkan dari situs web, kami akan memberikan solusi kepada Anda bagaimana seharusnya situs web Anda, memberikan saran kepada Anda tentang apa yang harus dilakukan dan memberikan beberapa hal yang perlu ditingkatkan agar mendapatkan hasil yang berkepanjangan. 
@@ -291,7 +291,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="seo-part flow-part">
-							<img src="assets/img/img-webdev/analysis.png"> 
+							<img src="assets/img/img-webdev/analysis.png" alt="SEO / SEM"> 
 							<h3>SEO / SEM</h3>
 							<p>
 								Hanya dengan menerbitkannya, sebuah website tidak dapat mendapatkan banyak traffic. 
@@ -303,7 +303,7 @@ if(isset($_POST['submitted']))
 					<div class="clearfix"></div>
 					<div class="col-sm-4">
 						<div class="info-part flow-part">
-							<img src="assets/img/img-webdev/ux.png"> 
+							<img src="assets/img/img-webdev/ux.png" alt="Peningkatan dan Restrukturisasi"> 
 							<h3>Peningkatan dan Restrukturisasi</h3>
 							<p>
 								Kami tidak selalu membuat ulang situs web Anda dari awal karena masalah rumit yang ditemukan. 
@@ -314,7 +314,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="multiligual-part flow-part">
-							<img src="assets/img/img-webdev/language.png"> 
+							<img src="assets/img/img-webdev/language.png" alt="Membuat dan Mengoperasikan Website Multi Bahasa"> 
 							<h3>Membuat dan Mengoperasikan Website Multi Bahasa</h3>
 							<p>
 								Kami dapat membuat dan mengoperasikan situs web dalam Bahasa Indonesia, Bahasa Inggris dan Bahasa Jepang. 
@@ -324,7 +324,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="sosmed-part flow-part">
-							<img src="assets/img/img-webdev/customer.png"> 
+							<img src="assets/img/img-webdev/customer.png" alt="Pengoperasian Media Sosial"> 
 							<h3>Pengoperasian Media Sosial</h3>
 							<p>
 								Media sosial dapat memberi pengaruh yang sangat kuat dalam meningkatkan keterlibatan para pelanggan Anda. 
@@ -336,7 +336,7 @@ if(isset($_POST['submitted']))
 					<div class="clearfix"></div>
 					<div class="col-sm-4">
 						<div class="design-part flow-part">
-							<img src="assets/img/img-webdev/graphic-design.png"> 
+							<img src="assets/img/img-webdev/graphic-design.png" alt="Pembuatan Desain"> 
 							<h3>Pembuatan Desain</h3>
 							<p>
 								Kami merancang UI yang ramah bagi pengguna serta ramah bagi perubahan sistem yang berasal dari situs web Anda. 
@@ -346,7 +346,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="markup-part flow-part">
-							<img src="assets/img/img-webdev/website.png"> 
+							<img src="assets/img/img-webdev/website.png" alt="Markup Coding"> 
 							<h3>Markup Coding</h3>
 							<p>
 								Anda juga dapat meminta kepada kami hanya melakukan pengodean HTML/ CSS bagi situs web Anda. 
@@ -356,7 +356,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="responsive-part flow-part">
-							<img src="assets/img/img-webdev/devices.png"> 
+							<img src="assets/img/img-webdev/devices.png" alt="Dukungan Multi Perangkat"> 
 							<h3>Dukungan Multi Perangkat</h3>
 							<p>
 								Kami dapat membuat situs yang mampu dioptimalkan dan responsive untuk seluruh jenis perangkat, seperti ponsel, smartphone, dan tablet. 
@@ -367,7 +367,7 @@ if(isset($_POST['submitted']))
 					<div class="clearfix"></div>
 					<div class="col-sm-4">
 						<div class="programing-part flow-part">
-							<img src="assets/img/img-webdev/programming.png"> 
+							<img src="assets/img/img-webdev/programming.png" alt="Fitur Pemrograman Khusus"> 
 							<h3>Fitur Pemrograman Khusus</h3>
 							<p>
 								Anda dapat meminta fitur pemrograman apapun yang Anda inginkan untuk ditambahkan ke dalam situs web Anda, seperti Parallax motions yang mungkin dapat terhubung dengan JavaScript, HTML5, CSS3 dan lain-lain. 
@@ -377,7 +377,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="system-part flow-part">
-							<img src="assets/img/img-webdev/engineering.png"> 
+							<img src="assets/img/img-webdev/engineering.png" alt="Kontruksi Sistem"> 
 							<h3>Kontruksi Sistem</h3>
 							<p>
 								Mengembangkan sistem CMS, sistem web dan sistem bisnis yang dibangun dan dioperasikan dengan berbagai sistem melalui kerja sama yang baik dari situs web. 
@@ -387,7 +387,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="apps-part flow-part">
-							<img src="assets/img/img-webdev/smartphone.png"> 
+							<img src="assets/img/img-webdev/smartphone.png" alt="PWA sebagai Aplikasi Seluler"> 
 							<h3>PWA sebagai Aplikasi Seluler</h3>
 							<p>
 								Kami dapat mengembangkan aplikasi seluler sebagai aplikasi web layaknya sebuah aplikasi asli dengan PWA. 
@@ -396,6 +396,10 @@ if(isset($_POST['submitted']))
 						</div>
 					</div>
 					<div class="clearfix"></div>
+				</div>
+				<div class="link-page-price-and-portfolio">
+					<a class="link-yellow-white" href="/layanan/webdev-price-range.php">Lihat Harga Produksi dan Pengoperasian Website</a>
+					<a class="link-yellow-white" href="/portofolio.php">Lihat Website Hasil Produksi Kami</a>
 				</div>
 			</div>
 		</section>
@@ -781,7 +785,7 @@ if(isset($_POST['submitted']))
 							<div class="col-xs-6">
 								<div class="link-footer-webdev">
 									<a href="/index.php" target="_blank">Beranda</a>
-									<a href="/tentang-kami.php" target="_blank">Tentang Kami</a>
+									<a href="/logique.php" target="_blank">Tentang Kami</a>
 									<a href="/portofolio.php" target="_blank">Portofolio</a>
 									<a href="/layanan.php" target="_blank">Layanan</a>
 								</div>
@@ -799,16 +803,16 @@ if(isset($_POST['submitted']))
 							<div style="margin-bottom:8px"><b>Social Media</b></div>
 							<div class="row medsos-new">
 								<div class="col-xs-3">
-									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook" rel="noreferrer" ><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 								<div class="col-xs-3">
-									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter" rel="noreferrer" ><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 								<div class="col-xs-3">
-									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram" rel="noreferrer" ><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 								<div class="col-xs-3">
-									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn" rel="noreferrer" ><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 							</div>
 						</div>
@@ -835,13 +839,13 @@ if(isset($_POST['submitted']))
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
 							<div class="">
 									<div class="form-group">
-										<input type="text" class="form-control" placeholder="Nama" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
+										<input type="text" class="form-control" placeholder="Nama" aria-label="Name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 									</div>
 									<div class="form-group">
-										<input type="email" class="form-control" placeholder="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+										<input type="email" class="form-control" placeholder="Email" aria-label="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
 									</div>
 									<div class="form-group">
-										<textarea style="resize:none" name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										<textarea style="resize:none" name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message" aria-label="Message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 									<div class="form-group">
 										<div class="g-recaptcha captcha-custom" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>

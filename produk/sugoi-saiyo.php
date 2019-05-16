@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="Sugoi Saiyo merupakan sistem rekrutmen karyawan berbasis web dari LOGIQUE yang dapat memudahkan HR dalam melakukan seleksi dan evaluasi calon karyawan, sehingga perusahaan bisa mendapatkan kandidat yang tepat dan sesuai dengan waktu yang singkat.">
 	<meta name="keywords" content="lowongan kerja, rekrutmen, seleksi sdm, hr tools, proses rekrutmen, perekrutan, metode rekrutmen, rekrutmen online, rekrutmen pegawai, logique digital Indonesia, sugoi saiyo">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -78,6 +78,68 @@ if(isset($_POST['submitted']))
 	<!-- End Twitter universal website tag code -->
 </head>
 	<body>
+		<div class="nav-lp">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+				<span class="icon-bar first"></span>
+				<span class="icon-bar second"></span>
+				<span class="icon-bar third"></span> 
+			</button>
+			<div class="collapse navbar-collapse" id="myNavbar">
+				<div class="backdrop-test"></div>
+				<div class="logique-nav">
+					<div class="margin-for-nav">
+						<div class="text-center">
+							<a href="/">
+								<div class="img-home"></div>
+								Beranda
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/logique.php">
+								<div class="img-about"></div>
+								Tentang Kami
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/portofolio.php">
+								<div class="img-portfolio"></div>
+								Portfolio
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/layanan.php">
+								<div class="img-services"></div>
+								Layanan
+							</a>
+						</div>
+					 	<div class="text-center active">
+							<a href="/produk.php">
+								<div class="img-product"></div>
+								Produk
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/karir.php">
+								<div class="img-career"></div>
+								Karir
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/hubungi-kami.php">
+								<div class="img-contact"></div>
+								Hubungi Kami
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
+								<div class="img-blog"></div>
+								Blog
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 		<header>
 			<div class="container">
 				<div class="row">
@@ -104,15 +166,15 @@ if(isset($_POST['submitted']))
 				<h2>Apa Itu Sugoi Saiyo?</h2>
 				<p>SUGOI SAIYO adalah sistem IT untuk para staf departemen sumber daya manusia di Indonesia dalam merekrut calon karyawan. Banyak kendala yang biasa mereka hadapi dalam proses <b>seleksi SDM</b>, seperti menyaring terlalu banyak CV yang tidak memenuhi persyaratan, kesulitan dalam melakukan komunikasi dengan pelamar, banyaknya pelamar yang tidak menghadiri <i>interview</i>, dan lain-lain. Hal ini bisa membuang terlalu banyak waktu dan tenaga.</p>
 				<h3>SUGOI SAIYO merupakan solusi dari masalah tersebut.</h3>
-				<p>Selain bisa membantu staf HR, sistem ini juga bermanfaat untuk para pelamar. Mereka bisa langsung mengajukan lamaran pada posisi tertentu dan dengan mudah mengetahui status lamaran mereka, mulai dari hasil tahap pengujian, konfirmasi status diterima atau tidak, hingga surat penawaran kerja dari perusahaan yang dikirimkan melalui <i>website</i>.</p>
+				<p>Selain membantu dan mengurangi tingkat stres para staf dari divisi HR, Sugoi Saiyo juga memberikan kenyamanan bagi para pelamar. Mereka dapat dengan mudah mengelola seluruh proses lamaran mereka dari pelamaran hingga konfirmasi status, test, sampai surat penawaran yang berasal dari perusahaan melalui fitur MY PAGE..</p>
 			</div>
 		</section>
 		<section class="obstacle">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4 obstacle-title">
-						<h2>Kendala yang <br> sering <br> dihadapi <br> perusahaan <br> dalam <br> merekrut <br> karyawan.</h2>
-						<a href="#contact" class="smooth btn-ss">Coba Sugoi Saiyo</a>
+						<h2>Kesulitan dalam proses rekrutmen di Indonesia / Tantangan bagi Perekrut</h2>
+						<a href="#contact" class="smooth btn-ss">Lakukan Uji Coba Sekarang</a>
 					</div>
 					<div class="col-md-8">
 						<div class="row">
@@ -383,30 +445,62 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="row m-50">
 					<div class="col-sm-6">
-						<h3>Bagaimana cara kerja SUGOI SAIYO? </h3>
-						<p>SUGOI SAIYO mempertemukan tim rekrutmen dengan kandidat yang sesuai secara terarah dengan menyediakan proses rekrutmen yang singkat dan mudah dikelola oleh kedua belah pihak.</p>
-						<h3>Bagaimana tim rekrutmen tahu jika seorang kandidat mengajukan lamaran?</h3>
-						<p>Staf HR akan dikirimkan notifikasi melalui <i>email</i>. <i>Email</i> tersebut akan menyebutkan nama kandidat dan staf HR bisa langsung memeriksa detil data dirinya.</p>
-						<h3>Apakah ada batasan jumlah lowongan yang bisa dipos oleh tim rekrutmen di SUGOI SAIYO? </h3>
-						<p>Tidak ada. Staf HR bisa membuat daftar lowongan posisi yang tersedia sebanyak mungkin.</p>
-						<h3>Apakah SUGOI SAIYO hanya diperuntukkan bagi departemen SDM perusahaan? </h3>
-						<p>SUGOI SAIYO menyediakan laman kelola yang berbeda untuk level departemen SDM (tim rekrutmen) dan level manajer (<i>person in charge</i>).</p>
-						<h3>Apa perbedaan laman kelola untuk tim rekrutmen dengan manajer?</h3>
-						<p>Laman kelola untuk level manajer hanya menampilkan hasil <i>technical test</i>, jadwal <i>interview</i>, dan laporan hasil <i>interview</i>.</p>
-						<h3>Bagaimana standar tahapan rekrutmen yang diadopsi SUGOI SAIYO? </h3>
-						<p>SUGOI SAIYO mengadopsi standar seleksi SDM perusahaan pada umumnya. Namun, standar tahapan ini bisa dimodifikasi dan disesuaikan dengan permintaan Anda.</p>
+						<h3>Q. Apakah Sugoi Saiyo merupakan sistem cloud? </h3>
+						<p>
+							Sugoi Saiyo berjalan pada server yang kami kelola sehingga Anda tidak perlu menyiapkan server jenis apapun lagi. 
+							Anda dapat langsung menggunakannya setelah menandatangani kontrak. Namun, Anda juga bisa menginstal dan menggunakannya di server Anda sendiri. Silakan menghubungi kami untuk informasi lebih detail.
+						</p>
+						<h3>Q. Bagaimanakah cara user dapat menggunakan Sugoi Saiyo?</h3>
+						<p>
+							Sugoi Saiyo dapat digunakan tanpa masalah melalui browser populer apapun dengan versi terkini, seperti Chrome, Firefox, Safari, dan Edge.
+						</p>
+						<h3>Q. Berapa harga Sugoi Saiyo? Bisakah membeli sistem ini dalam sekali bayar?</h3>
+						<p>
+							Pada dasarnya, kami akan membebankan kepada Anda biaya bulanan tanpa uang muka. 
+							Namun, Anda tetap bisa membeli dengan sekali bayar untuk modifikasi dan mengirimkan sistem ke server perusahaan Anda. 
+							Untuk pembayaran dengan sistem bulanan, silakan menghubungi kami.
+						</p>
+						<h3>Q. Apakah ada ketentuan kontrak minimum untuk sistem Sugoi Saiyo?</h3>
+						<p>
+							Untuk saat ini tidak ada batasan waktu. Jika Anda menggunakannya tanpa modifikasi, Anda hanya dapat menggunakan selama satu bulan.
+						</p>
+						<h3>Q. Perusahaan apa saja yang bisa menggunakan Sugoi Saiyo?</h3>
+						<p>
+							Sugoi Saiyo dapat digunakan oleh berbagai jenis perusahaan, terutama bagi perusahaan yang ingin merekrut lebih dari 2 atau 3 orang karyawan dalam satu bulan. 
+							Jika perusahaan Anda memiliki banyak kantor cabang, Sugoi Saiyo dapat diandalkan untuk mengelola rekrutmen di semua kantor cabang secara bersamaan.
+						</p>
+						<h3>Q. Apakah pada Sugoi Saiyo sudah termasuk tes psikologi?</h3>
+						<p>
+							Sistem kami dapat beroperasi dengan baik dengan tes psikologi eksternal dan menyimpan hasil tes tersebut. 
+							Selain itu, Anda juga dapat menggunakan tes psikologi khusus milik Anda sendiri.
+						</p>
 					</div>
 					<div class="col-sm-6">
-						<h3>Apakah ada batasan jumlah kandidat yang bisa saya terima untuk setiap posisi?</h3>
-						<p>Tidak ada. Setiap posisi bisa menerima sebanyak mungkin kandidat. Begitu juga sebaliknya, kandidat bisa mengajukan lamaran ke lebih dari satu posisi.</p>
-						<h3>Bagaimana cara kandidat mengajukan lamaran untuk posisi yang tersedia? </h3>
-						<p>Cukup dengan memilih posisi yang ingin dilamar, lalu mengisi data diri di formulir yang disediakan.</p>
-						<h3>Bagaimana cara kandidat mendapatkan informasi lanjutan dari tahap seleksi lamarannya? </h3>
-						<p>Informasi hasil dari setiap proses rekrutmen selalu diperbarui oleh staf HR, dan kandidat dapat melihat pembaharuan tersebut, baik di laman dashboard-nya sendiri maupun melalui email notifikasi otomatis.</p>
-						<h3>Apakah SUGOI SAIYO bisa diakses oleh <i>browser</i> apa pun?</h3>
-						<p>Situs kami bisa diakses oleh <i>browser</i> mana pun, termasuk oleh <i>browser</i> bawaan perangkat seluler. Jika Anda mengalami masalah, silakan hubungi kami untuk bantuan.</p>
-						<h3>Saya tertarik menggunakan SUGOI SAIYO untuk perusahaan saya. Bagaimana cara saya bisa mulai menggunakannya? </h3>
-						<p>Anda bisa langsung menghubungi kami lewat salah satu kontak yang kami sediakan. Kami siap melayani Anda dengan senang hati. </p>
+						<h3>Q. Bisakah Sugoi Saiyo dikolaborasikan dengan JobStreet?</h3>
+						<p>
+							Kami merekomendasikan agar Anda memposting URL untuk masuk ke dalam Sugoi Saiyo perusahaan Anda di JobStreet. 
+							Jika Anda melakukannya, maka Anda tidak perlu lagi mengelolanya melalui sistem JobStreet, karena Anda dapat mengelolanya secara bersamaan hanya melalui Sugoi Saiyo.
+						</p>
+						<h3>Q. Selain mengatur jadwal wawancara, bisakah Sugoi Saiyo melakukan reservasi ruang pertemuan untuk wawancara?</h3>
+						<p>
+							Tentu saja, Sugoi Saiyo dapat beroperasi dengan sistem reservasi jika Anda mau.
+						</p>
+						<h3>Q. Apakah Sugoi Saiyo telah dilengkapi dengan fungsi AI?</h3>
+						<p>
+							Untuk saat ini fungsi AI belum diimplementasikan. Namun, jika Anda meminta, kami dapat melakukannya.
+						</p>
+						<h3>Q. Bisakah saya menerima pemberitahuan jika ada orang yang melamar?</h3>
+						<p>
+							Pengguna atau user yang telah terdaftar sebagai tim perekrut karyawan akan mendapatkan notifikasi atau pemberitahuan melalui email jika ada orang yang mengajukan lamaran kerja.
+						</p>
+						<h3>Q. Apakah ada jumlah batasan untuk memposting pekerjaan yang dibutuhkan, jenis pekerjaan, posisi yang dibutuhkan, dll.?</h3>
+						<p>
+							Tidak ada batasan sama sekali. Anda dapat membuka banyak posisi sekaligus dalam waktu yang bersamaan.
+						</p>
+						<h3>Q. Apakah Sugoi Saiyo hanya diperuntukkan bagi perekrut atau divisi HR perusahaan saja?</h3>
+						<p>
+							Anda bisa membuat pengaturan manajemen yang cukup kompleks, di mana para staf perekrutan karyawan, pewawancara pada setiap departemen, bahkan manajemen dapat menjadi pengguna atau user Sugoi Saiyo. Hal ini bertujuan agar mereka dapat mengetahui proses kemajuan rekrutan mereka, mengelola jadwal wawancara, serta melihat informasi kandidat secara lebih mendetail.
+						</p>
 					</div>
 				</div>
 			</div>
@@ -414,7 +508,11 @@ if(isset($_POST['submitted']))
 		<section class="contact" id="contact">
 			<div class="container">
 				<div class="box">
-					<h2>Punya pertanyaan dan perlu informasi lebih lanjut ?</h2>
+					<div class="box-title">
+						<h2>Punya pertanyaan dan perlu informasi lebih lanjut ?</h2>
+						<p>Silakan menghubungi kami, jika ada pertanyaan mengenai sistem manajemen rekrutmen, permintaan trial atau percobaan serta pengembangan sistem manajemen rekrutmen atau apapun dari Sugoi Saiyo.</p>
+					</div>
+					
 					<?php if(isset($msg))
 					{
 					echo $msg;
@@ -427,21 +525,21 @@ if(isset($_POST['submitted']))
 						<div class="row">
 							<div class="col-md-6">
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Nama" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
+									<input type="text" class="form-control" placeholder="Nama" name="name" aria-label="Name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 								</div>
 								<div class="form-group">
-									<input type="number" class="form-control" placeholder="No Ponsel" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
+									<input type="number" class="form-control" placeholder="No Ponsel" name="phone" aria-label="Phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
 								</div>
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Perusahaan" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
+									<input type="text" class="form-control" placeholder="Perusahaan" name="company" aria-label="Company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
 								</div>
 								<div class="form-group">
-									<input type="email" class="form-control" placeholder="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+									<input type="email" class="form-control" placeholder="Email" name="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+									<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message" aria-label="Message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</div>
 								<div class="form-group">
 									<div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
@@ -455,34 +553,9 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</section>
-		<footer>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4">
-						<img src="img/sugoi-saiyo/logo.png" alt="Sugoi Saiyo Logo" class="img-responsive">
-					</div>
-					<div class="col-md-4">
-						<p class="address">
-							Ad Premier Building 19th Floor Jalan Tb. Simatupang No. 5 Ragunan, Ps. Minggu, Jakarta Selatan, Indonesia 12550
-						</p>
-						<p class="link">
-							<span>Product LOGIQUE :</span>
-							<a href="/../produk/nippo.php">Nippo</a>
-							<a href="/../produk/dokodemo-kerja.php">Dokodemo-Kerja</a>
-						</p>
-					</div>
-					<div class="col-md-4">
-						<p class="phone">+62(21) 2270 8935 / 36</p>
-						<p class="email"><a href="mailto:info@sugoi-saiyo.co.id">info@logique.co.id</a></p>
-					</div>
-				</div>
-			</div>
-		</footer>
-		
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="/js/bootstrap.min.js"></script>
+		<?php include '../footer.php'; ?>
+	
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
-		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<script type="text/javascript">			
 			$(function() {
 				$('.smooth').click(function() {

@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="Perilaku cyber crime selalu meningkat setiap tahunnya. Karena itu, LOGIQUE menyediakan layanan jasa keamanan website menggunakan metode penetration testing sebagai solusi terbaik untuk melindungi data perusahaan Anda. Segera hubungi kami untuk mendapatkan layanan ini.">
 	<meta name="keywords" content="jasa pengembangan aplikasi mobile, jasa pengembangan mobile app, jasa pembuatan aplikasi mobile, pengembangan aplikasi mobile">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -47,7 +47,7 @@ if(isset($_POST['submitted']))
 	<meta property="og:title" content="Jasa Pembuatan Aplikasi Mobile Android dan iOS | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile/">
+	<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile.php">
 	<meta property="og:image" content="https://www.logique.co.id/assets/img/img-mobileapps/og-image.png">
 	<meta property="og:description" content="Perilaku cyber crime selalu meningkat setiap tahunnya. Karena itu, LOGIQUE menyediakan layanan jasa keamanan website menggunakan metode penetration testing sebagai solusi terbaik untuk melindungi data perusahaan Anda. Segera hubungi kami untuk mendapatkan layanan ini.!">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -440,24 +440,24 @@ if(isset($_POST['submitted']))
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-12">
-										<input type="text" name="name" placeholder="Nama Anda" class="form-control name-input" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
+										<input type="text" name="name" aria-label="Name" placeholder="Nama Anda" class="form-control name-input" value='<?php echo $formproc->SafeDisplay('name') ?>'/>
 									</div>
 								</div>
 							</div>
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-6">
-										<input type="email" name="email" placeholder="Alamat Email" class="form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' />
+										<input type="email" name="email" aria-label="Email" placeholder="Alamat Email" class="form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' />
 									</div>
 									<div class="col-md-6">
-										<input type="number" name="phone" placeholder="Nomor Telepon" class="form-control" value='<?php echo $formproc->SafeDisplay('phone') ?>' />
+										<input type="number" name="phone" aria-label="Phone" placeholder="Nomor Telepon" class="form-control" value='<?php echo $formproc->SafeDisplay('phone') ?>' />
 									</div>
 								</div>
 							</div>
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-12">
-										<textarea class="form-control" placeholder="Pertanyaan" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										<textarea class="form-control" placeholder="Pertanyaan" name="message" aria-label="Message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 								</div>
 							</div>

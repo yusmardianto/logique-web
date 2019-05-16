@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="LOGIQUE membuka lowongan kerja internship/magang bagi mahasiswa baik yang sekadar ingin mengaplikasikan ilmu yang dipelajari maupun menurut tuntutan universitas pada periode yang telah ditentukan.">
 	<meta name="keywords" content="lowongan magang IT, lowongan kerja IT, lowongan magang web developer, lowongan magang web designer, lowongan magang mobile app developer, lowongan magang technical consultant, lowongan magang content writer, lowongan magang logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
@@ -37,9 +37,9 @@
     <title>Keseharian Aktivitas Magang di Logique | Career | LOGIQUE DIGITAL INDONESIA</title>
 
     <!-- Bootstrap -->
-    <link href="/../../css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
 	
-    <link href="/../../css/style.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     
@@ -49,7 +49,7 @@
 		<nav class="navbar" id="navbar">
 		  <div class="container">
 			<div class="navbar-header">
-			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			  <button type="button" class="navbar-toggle collapsed" aria-label="data-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>  
@@ -360,7 +360,7 @@
 							<li>Terlibat dalam pengelolaan dan pembaharuan dokumen dalam lingkup HR (peraturan perusahaan, surat kontrak untuk karyawan baru, dan surat penawaran kerja untuk kandidat).</li>
 							<li>Membantu melaksanakan tugas-tugas departemen GA.</li>
 						</ul>
-						<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="https://logique.sugoisaiyo.com/" target="_blank" class="btn btn-contact-us-black customizebtn">
+						<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="https://logique.sugoisaiyo.com/" target="_blank" rel="noreferrer" class="btn btn-contact-us-black customizebtn">
 							Apply for HR/GA
 						</a>
 					</div>
@@ -385,7 +385,7 @@
 					<div class="col-lg-12">
 						<div class="text-center">
 							<ul class="list-inline little-nav">
-								<li><a target="_blank" href="/tentang-kami.php">Tentang LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
+								<li><a target="_blank" href="/logique.php">Tentang LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
 								<li><a target="_blank" href="/layanan.php">Layanan LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
 								<li><a target="_blank" href="/hubungi-kami.php">Hubungi LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
 							</ul>
@@ -401,9 +401,9 @@
 		<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>
 		
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="../js/jquery.matchHeight.js"></script>
-		<script src="../js/bootstrap.min.js"></script>
-		<script src="../js/slick.min.js"></script>
+		<script src="/js/jquery.matchHeight.js"></script>
+		<script src="/js/bootstrap.min.js"></script>
+		<script src="/js/slick.min.js"></script>
 		<script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
 		<script>
 		$(function() {

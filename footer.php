@@ -28,18 +28,19 @@ twq('track','PageView');
 					<div class="col-sm-4 link-footer-nav">
 						<ul>
 							<li><a href="/index.php">Beranda</a></li>
-							<li><a href="/tentang-kami.php">Tentang Kami</a> </li>
+							<li><a href="/logique.php">Tentang Kami</a> </li>
 							<li  class="have-submenu"><a href="/layanan.php">Layanan</a>
 								<ul>
-									<li class="have-submenu"><a href="/layanan/mekanisme-pembuatan-website/" target="_blank">Jasa Pembuatan Website</a>
+									<li class="have-submenu"><a href="/layanan/web-dev.php" target="_blank">Jasa Pembuatan Website</a>
 										<ul>
-											<li><a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank">  Pembuatan Website Career</a> </li>
-											<li><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank"> Website Klinik Gigi </a></li>
+											<li><a href="/layanan/pembuatan-web-karir.php" target="_blank">  Pembuatan Website Career</a> </li>
+											<li><a href="/layanan/pembuatan-web-klinik-gigi.php" target="_blank"> Website Klinik Gigi </a></li>
 										</ul>
 									</li>
-									<li><a href="/layanan/pembuatan-sistem-web/" target="_blank">Jasa Pengembangan Sistem Web</a></li>
-									<li><a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank">Pengembangan Aplikasi Mobile </a></li>
-									<li class="text-left"><a href="/layanan/penetration-testing/" target="_blank">Pengetesan Keamanan Website (Pentest) </a></li>
+									<li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem Web</a></li>
+									<li><a href="/layanan/pembuatan-aplikasi-mobile.php" target="_blank">Pengembangan Aplikasi Mobile </a></li>
+									<li class="text-left"><a href="/layanan/penetration-test.php" target="_blank">Pengetesan Keamanan Website (Pentest) </a></li>
+									<li class="text-left"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital Marketing </a></li>
 								</ul>
 							</li>
 						</ul>
@@ -75,55 +76,52 @@ twq('track','PageView');
 							 
 					</div>
 					<div class="col-sm-4 link-footer">
-						 <p >Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/mekanisme-pembuatan-website/" target="_blank"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>
- 
-						<div class="footer-title"  style="margin-top: 20px; margin-bottom: 0;">Media Sosial</div>
-					 
-							<ul class="medsos-new">
-								<li><a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
-								<li><a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-								<li><a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-								<li><a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-							</ul>
-				 
+						 <p >Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/web-dev.php" target="_blank"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>				 
 					</div>
 				</div>
  
 			</div>
 			<div class="col-sm-3 col-sm-pull-9">
-				<div itemscope itemtype="http://schema.org/Organization">
+				<div itemscope itemtype="https://schema.org/Organization">
 					<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
-					<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+					<div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
 					<span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br>Jalan Tb. Simatupang No. 5 <br/>
 					Ragunan, Ps. Minggu,  Jakarta Selatan, <br>Indonesia </span><span itemprop="postalCode">12550</span>
 					<br><br>
 					&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
 					<br>
-					<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
+					<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 					<br><br>
 					</div>
 				</div> 
 				<div class="provacy-policy-container">
-					<a href="../en/privacy-policy.php" target="_blank">Privacy Policy</a>
+					<a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
 				</div>
+				<div class="footer-title"  style="margin-top: 20px; margin-bottom: 0;">Media Sosial</div>
+				<ul class="medsos-new">
+					<li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer" aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
+					<li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer" aria-label="Twitter"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer" aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer" aria-label="LinkedIn"><i class="fa fa-linkedin-square"></i></a></li>
+				</ul>
 
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-sm-12">
-				<div itemscope itemtype="http://schema.org/CreativeWork">
+				<div itemscope itemtype="https://schema.org/CreativeWork">
 					<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>
-					<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
+					<span itemprop="copyrightHolder" itemtype="https://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
 				</div>
 			</div>
 		</div>
 	</div>
 </footer>
-<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="/js/jquery-3.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/slick.min.js"></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<script src="//cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script>
+<script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script>
 <script>
 $('.map-container')
     .click(function(){
@@ -132,14 +130,17 @@ $('.map-container')
             $(this).find('iframe').removeClass('clicked')});
 </script>
 <script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Organization",
-   "address": {
-		"@type": "PostalAddress",
-		"addressLocality": "Jakarta, Indonesia"
-	},
-  "email": "info(at)logique.co.id",
-  "telephone": "+62 (21) 2270 8935/36"
-}
+	{
+	  "@context": "https://schema.org",
+	  "@type": "Organization",
+	  "address": {
+			"@type": "PostalAddress",
+			"addressLocality": "Jakarta, Indonesia",
+			"postalCode": "12550",
+			"streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
+	  },
+	  "logo": "https://www.logique.co.id/img/logo.png",
+	  "email": "info(at)logique.co.id",
+	  "telephone": "+62 (21) 2270 8935/36"
+	}
 </script>

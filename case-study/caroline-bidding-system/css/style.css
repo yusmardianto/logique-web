@@ -13,8 +13,15 @@
   font-weight: 500;
   font-style: normal;
 }
-i{font-family: 'Avenir Next Condensed', sans-serif!important;}
-body, h1, h2, p {
+
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+body {
+  font-family: 'Raleway', 'sans-serif';
+  line-height: 1.7;
+  font-size: 15px;
+}
+
+h1, h2, h3, h4, h5, h6 {
   font-family: 'Avenir Next Condensed', sans-serif;
 }
 
@@ -74,7 +81,7 @@ body, h1, h2, p {
 }
 
 .cs-desc {
-  font-size: 16px;
+  font-size: 15px;
 }
 
 .cs-section {
@@ -232,10 +239,6 @@ body, h1, h2, p {
   margin: 5px 0;
 }
 
-.btn {
-  font-family: 'Avenir Next Condensed', serif;
-}
-
 .btn-cs {
   font-size: 20px;
   font-weight: 400;
@@ -247,7 +250,7 @@ body, h1, h2, p {
 }
 
 .btn-cs-bottom {
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 400;
   color: #000;
   background-color: #dde0ee;
@@ -397,7 +400,7 @@ footer {
     font-size: 30px;
   }
   .cs-desc {
-    font-size: 16px;
+    font-size: 15px;
   }
   .cs-wrap footer {
     padding: 15px;
@@ -409,7 +412,7 @@ footer {
     margin: 5px;
     padding: 10px;
     width: 160px;
-    font-size: 14px;
+    font-size: 12px;
   }
   .cs-img-2 {
     margin-bottom: 1em;

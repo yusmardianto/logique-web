@@ -3,14 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="Perilaku cyber crime selalu meningkat setiap tahunnya. Karena itu, LOGIQUE menyediakan layanan jasa keamanan website menggunakan metode penetration testing sebagai solusi terbaik untuk melindungi data perusahaan Anda. Segera hubungi kami untuk mendapatkan layanan ini.">
 	<meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing , logique">
 	<meta name="author" content="Logique Digital Indonesia">
 	<meta property="og:title" content="Keamanan Website | Penetration Testing | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/layanan/penetration-testing/">
+	<meta property="og:url" content="https://www.logique.co.id/layanan/penetration-test.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Perilaku cyber crime selalu meningkat setiap tahunnya. Karena itu, LOGIQUE menyediakan layanan jasa keamanan website menggunakan metode penetration testing sebagai solusi terbaik untuk melindungi data perusahaan Anda. Segera hubungi kami untuk mendapatkan layanan ini.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -48,11 +48,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<a href="https://www.logique.co.id"><img class="img-responsive logo" src="assets/img/img-pentest/logo.png" alt="Logique"/></a>
-					<div class="div-lang">
-						<a class="active" href="#">IND</a>
-						<a href="/en/services/penetration-test.php">ENG</a>
-						<a href="/jp/services/penetration-test.php">JPN</a>
+					<div class="nav-security clearfix">
+						<a href="/"><img class="img-responsive logo" src="assets/img/img-pentest/logo.png" alt="Logique"/></a>
+						<div class="div-lang">
+							<a class="active" href="#">IND</a>
+							<a href="/en/services/penetration-test.php">ENG</a>
+							<a href="/jp/services/penetration-test.php">JPN</a>
+						</div>
 					</div>
 					<img class="img-responsive center-block top-banner" src="assets/img/img-pentest/top-banner.png" alt="Top Banner"/>
 					<div class="div-question-top">
@@ -130,11 +132,11 @@
 									Pelanggaran atau serangan-serangan cyber biasanya terjadi pada berbagai data yang sering Anda jumpai, seperti format Microsoft Office (Word, PowerPoint, dan Excel) yang membentuk file ekstensi. Jumlahnya pun cukup banyak, yaitu mencapai 38 persen. <br/><br/>
 									Berdasarkan data yang dirilis oleh Symantec, selama tahun 2017, serangan cyber paling banyak berasal dari China, yaitu sekitar 20 persen, disusul oleh AS sebesar 11 persen dan Rusia sebesar 6 persen. Dimana 71% nya menggunakan email spear-phishing untuk melakukan serangan cyber tersebut.
 								</div>
-								<img class="img-responsive center-block" src="assets/img/img-pentest/line-serangan.png"/><br/>
+								<img class="img-responsive center-block" src="assets/img/img-pentest/line-serangan.png" alt="Line Serangan" /><br/>
 								<div class="row">
 									<div class="col-sm-4">
 										<div class="border-serangan">
-											<img class="img-responsive center-block" src="assets/img/img-pentest/serangan1.png"/>
+											<img class="img-responsive center-block" src="assets/img/img-pentest/serangan1.png" alt="Serangan 1" />
 											Format Microsoft Office (<i>Ppt, Word, dan Excel</i>) membuat,
 											<span>38%</span>
 											ekstensi file berbahaya
@@ -163,7 +165,7 @@
 									</div>
 									<div class="col-sm-4">
 										<div class="border-serangan phishing">
-											<img class="img-responsive center-block" src="assets/img/img-pentest/serangan2.png"/>
+											<img class="img-responsive center-block" src="assets/img/img-pentest/serangan2.png" alt="Serangan 2" />
 											<span>71%</span>
 											serangan cyber dimulai dengan email <strong>spear-phishing</strong>
 										</div>
@@ -192,7 +194,7 @@
 								<img class="img-responsive left-block" src="assets/img/img-pentest/garis-dampak4.png"/>
 								<div class="row">
 									<div class="col-sm-3">
-										<img class="img-responsive center-block" src="assets/img/img-pentest/rumah-dampak.png"/>
+										<img class="img-responsive center-block" src="assets/img/img-pentest/rumah-dampak.png" alt="Rumah Dampak" />
 									</div>
 									<div class="col-sm-6"> 
 										<div class="border-serangan cyber-attack mt-0">
@@ -203,7 +205,7 @@
 										</div>
 									</div>
 									<div class="col-sm-3">
-										<img class="img-responsive center-block" src="assets/img/img-pentest/dampak-ratio.png"/>
+										<img class="img-responsive center-block" src="assets/img/img-pentest/dampak-ratio.png" alt="Dampak Ratio" />
 									</div>
 								</div>
 								<br/><br/>
@@ -343,7 +345,7 @@
 		</div>	
 	</div>	
 	<br/>	
-	<div class="mengapa-harus">Mengapa harus memilih <a href="https://www.logique.co.id/" target="_blank"><b>Logique Digital Indonesia</b></a> untuk melakukan pentest?</div>
+	<div class="mengapa-harus">Mengapa harus memilih <a href="/" target="_blank"><b>Logique Digital Indonesia</b></a> untuk melakukan pentest?</div>
 	<br/>
 	<div class="metode">
 		<div class="container">
@@ -644,12 +646,12 @@
 			<div class="row">
 				<div class="col-lg-offset-3 col-lg-6">
 					Untuk informasi lengkapnya, Anda dapat menghubungi <b>Logique Digital Indonesia</b> melalui email di <a href="mailto:info@logique.co.id">info@logique.co.id</a> atau mendaftar melalui form yang ada di link berikut ini <br/><br/>
-					<a href="https://www.logique.co.id/hubungi-kami.php" target="_blank"><img alt="Form" src="assets/img/img-pentest/form-footer.png" class="img-responsive center-block"/></a>
+					<a href="/hubungi-kami.php" target="_blank"><img alt="Form" src="assets/img/img-pentest/form-footer.png" class="img-responsive center-block"/></a>
 					<br/>
 					Layanan Kami lainnya:<br/>
-					<a target="_blank" href="/layanan/pembuatan-website-karir-perusahaan/">Pembuatan Website Karir Perusahaan</a>
+					<a target="_blank" href="/layanan/pembuatan-web-karir.php">Pembuatan Website Karir Perusahaan</a>
 					<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-					<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile/">Pembuatan Aplikasi Mobile</a>
+					<a target="_blank" href="/layanan/pembuatan-aplikasi-mobile.php">Pembuatan Aplikasi Mobile</a>
 				</div>
 			</div>
 		</div>
@@ -732,92 +734,6 @@
 	</div>
 	 
 	<?php include '../footer.php'; ?>
-	<!-- <footer>
-	<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-8 col-sm-push-4">
-					<div class="row">
-						<div class="col-sm-3 link-footer-nav">
-							<a href="/index.php">Beranda</a><br/><br/>
-							<a href="/tentang-kami.php">Tentang Kami</a><br/><br/>
-							<a href="/portofolio.php">Portofolio</a><br/><br/>
-							<a href="/layanan.php">Layanan</a><br/><br/>
-							<a href="/karir.php">Karir</a><br/><br/>
-							<a href="/career/">Join LOGIQUE</a><br/><br/>
-							<a href="/hubungi-kami.php">Hubungi Kami</a><br/>
-						</div>
-						<div class="col-sm-5 link-footer">
-							<div class="footer-title">Layanan Kami</div>
-							<h5><a href="/layanan/mekanisme-pembuatan-website/" target="_blank">Jasa Pembuatan Website</a></h5>
-								<h6><a href="/layanan/pembuatan-website-karir-perusahaan/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pembuatan Website Career</a></h6>
-								<h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Restoran </a></h6>
-								<h6><a href="/layanan/pembuatan-website-klinik-gigi/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Klinik Gigi </a></h6>
-							<h5><a href="/layanan/pembuatan-sistem-web/" target="_blank">Jasa Pengembangan Sistem Web</a></h5>
-							<h5><a href="/layanan/pembuatan-aplikasi-mobile/" target="_blank">Pengembangan Aplikasi Mobile </a></h5>
-							<h5><a href="/layanan/penetration-testing/" target="_blank">Pengetesan Keamanan Website (VA Test) </a></h5>
-						</div>
-						<div class="col-sm-4 link-footer">
-							<div class="footer-title">Produk LOGIQUE</div>
-							<h5 style="margin-bottom: 10px;">
-								<a href="/produk/dokodemo-kerja.php" target="_blank">
-									Dokodemo-Kerja<br/><div style="font-size: 12px;">(Sistem aplikasi bagi pekerja remote)</div>
-								</a>
-							</h5>
-							<h5 style="margin-bottom: 10px;">
-								<a href="/produk/nippo.php" target="_blank">
-									Nippo<br/><div style="font-size: 12px;">(Sistem aplikasi laporan pegawai harian)</div>
-								</a>
-							</h5>
-							<h5>
-								<a href="/produk/sugoi-saiyo.php" target="_blank">
-									Sugoi Saiyo<br/><div style="font-size: 12px;">(Sistem aplikasi perekrutan pegawai)</div>
-								</a>
-							</h5>
-							<div class="hidden-xs"><br/></div>
-							<div class="footer-title">Media Sosial</div>
-							<div class="row medsos-new">
-								<div class="col-xs-3 text-center">
-									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i></a>
-								</div>
-								<div class="col-xs-3 text-center">
-									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-								</div>
-								<div class="col-xs-3 text-center">
-									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-								</div>
-								<div class="col-xs-3 text-center">
-									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<br/>
-				</div>
-				<div class="col-sm-4 col-sm-pull-8">
-					<div itemscope itemtype="http://schema.org/Organization">
-						<div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
-						<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-						<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
-						Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span>
-						<br><br>
-						&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
-						<br>
-						<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
-						<br><br>
-						</div>
-					</div>
-					Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/mekanisme-pembuatan-website/" target="_blank"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.
-					<br/><br/>
-					<div itemscope itemtype="http://schema.org/CreativeWork">
-						<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
-						<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</footer> -->
-		<br/>
 		<script src="/js/jquery.min.js"></script>
 		<script src="/js/bootstrap.min.js"></script>
 		<script src="assets/js/jquery.matchHeight.js"></script>

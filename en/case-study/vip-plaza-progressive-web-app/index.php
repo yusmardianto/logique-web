@@ -3,7 +3,7 @@
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia helped VIP Plaza Indonesia in Progressive Web Apps (PWA) development for their e-commerce site. Highly stable, secured, fast, with great UI and UX for users. Learn the case study in creating 'an app without install' here.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
@@ -58,7 +58,7 @@
       </header>
 
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>
@@ -74,7 +74,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/en/about.php">
+							<a href="/en/logique.php">
 								<div class="img-about"></div>
 								About Us
 							</a>
@@ -110,7 +110,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank">
+							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>
@@ -218,8 +218,8 @@
           <a href="/en/contact.php" class="btn btn-cs-bottom">Contact Us</a>
           <a href="/en/services.php" class="btn btn-cs-bottom">Our Services</a>
           <a href="/en/portfolio.php" class="btn btn-cs-bottom">Portfolio</a>
-          <a href="/en/services/mekanisme-pembuatan-website/" class="btn btn-cs-bottom">Web Development</a>
-          <a href="/en/services/pembuatan-sistem-web/" class="btn btn-cs-bottom">Web System Development</a>
+          <a href="/en/services/web-dev.php" class="btn btn-cs-bottom">Web Development</a>
+          <a href="/en/services/system-dev.php" class="btn btn-cs-bottom">Web System Development</a>
         </section>
         <footer>
           <div class="container-fluid">

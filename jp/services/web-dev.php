@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="LOGIQUEがインドネシアで作るWeb / ホームページは、集客ができる、お問い合わせが増える、採用応募者が増える、などコンバージョンが増える価値のあるWebです。WEBチャネルを活用して営業を効率的に行いたい、他社と差別化したい、カスタマーサービスを効率化したい、採用を強化したい、
 場合はLOGIQUEにお任せください。LOGIQUEのWeb制作サービス詳細。">
 	<meta name="keywords" content="効果のある、コンバージョンのでる、意味のある、WEBサイトを予算内で、素早く、効率的に、先進テクノロジーを用い、セキュアに、作ります">
@@ -68,7 +68,7 @@ if(isset($_POST['submitted']))
 			
 			<!-- NAVIGATION -->
 			<div class="nav-lp">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
 					<span class="icon-bar third"></span> 
@@ -84,7 +84,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="/jp/about.php">
+								<a href="/jp/logique.php">
 									<div class="img-about"></div>
 									会社概要
 								</a>
@@ -120,7 +120,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="https://www.logique.co.id/blog/ja" target="_blank">
+								<a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
 									<div class="img-blog"></div>
 									Blog
 								</a>
@@ -224,88 +224,92 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="analysis-part flow-part">
-							<img src="assets/img/img-webdev/writing.png"> 
+							<img src="assets/img/img-webdev/writing.png" alt="アクセス解析・課題抽出"> 
 							<h3>アクセス解析・課題抽出</h3>
 							<p>Webサイトの現状分析を分析評価します。なぜ、トラフィックが少ないのか、問い合わせが得られないのか？アクセス解析に加え、インドネシアWeb運営の専門家がヒューリスティック分析して、課題を抽出します。</p>
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="plan-part flow-part">
-							<img src="assets/img/img-webdev/intelligent.png"> 
+							<img src="assets/img/img-webdev/intelligent.png" alt="プランニング"> 
 							<h3>プランニング</h3>
 							<p>Webサイトに求めるゴールを達成するために、Webのあるべき姿を示し、いまやるべきこと、今後、継続して改善していくべきことを提案し、ご支援していきます。お客様社内の体制によってご支援の形は様々となります</p>
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="seo-part flow-part">
-							<img src="assets/img/img-webdev/analysis.png"> 
+							<img src="assets/img/img-webdev/analysis.png" alt="SEO / SEM"> 
 							<h3>SEO / SEM</h3>
 							<p>Webサイトは、工夫なく公開するだけでは多くのトラフィックを集められません。インドネシアでのSEO対策に精通したエキスパートがオーガニック検索集客力のあるWebを制作します。PPC広告運用も効果的なキーワードを選定しご提案致します。</p>
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="info-part flow-part">
-							<img src="assets/img/img-webdev/ux.png"> 
+							<img src="assets/img/img-webdev/ux.png" alt="情報再構成・改善"> 
 							<h3>情報再構成・改善</h3>
 							<p>現状Webが実態にあわず再作成が必要だが、いちから作り直すのはもったいない、複雑すぎて修正が難しい、というケースがよくあります。Webサイトの整理・回収・改善も、ご予算とご希望の期間に応じて、最適なご提案を差し上げます。</p>
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="multiligual-part flow-part">
-							<img src="assets/img/img-webdev/language.png"> 
+							<img src="assets/img/img-webdev/language.png" alt="多言語Webサイト制作運用"> 
 							<h3>多言語Webサイト制作運用</h3>
 							<p>インドネシア語、英語・日本語のサイト制作運用に対応可能です。コンテンツは非常に重要です。ただ翻訳するだけでなく、当社のコンテンツライターがコンテンツ制作することも可能です。<br><br></p>
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="sosmed-part flow-part">
-							<img src="assets/img/img-webdev/customer.png"> 
+							<img src="assets/img/img-webdev/customer.png" alt="SNS運用"> 
 							<h3>SNS運用</h3>
 							<p>Facebookページ、インスタグラムなどSNSをインドネシア語、英語、日本語で運用します。SNS上でのエンゲージメントのため、SNSからWebへの送客のためSNS運用も検討が必要です。<br/><br/></p>
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="design-part flow-part">
-							<img src="assets/img/img-webdev/graphic-design.png"> 
+							<img src="assets/img/img-webdev/graphic-design.png" alt="デザイン制作"> 
 							<h3>デザイン制作</h3>
 							<p>お客様の要件に沿った異なるテイストのデザインを複数のデザイナーが提案することでご希望に叶った、ユーザーフレンドリーでコンバージョンにつながるUI設計をします。<br/><br/></p>
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="markup-part flow-part">
-							<img src="assets/img/img-webdev/website.png"> 
+							<img src="assets/img/img-webdev/website.png" alt="マークアップ・コーディング"> 
 							<h3>マークアップ・コーディング</h3>
 							<p>HTML/CSSコーディングだけご依頼いただくことも可能です。Java Script系のフロントエンドコーディング技術は最新のものも常にキャッチアップしています。<br/><br/><br/></p>
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="responsive-part flow-part">
-							<img src="assets/img/img-webdev/devices.png"> 
+							<img src="assets/img/img-webdev/devices.png" alt="マルチデバイス対応"> 
 							<h3>マルチデバイス対応</h3>
 							<p>モバイル・スマートフォン、タブレット向け最適化サイト制作をします。レスポンシブWebの制作。AMPやモバイルフレンドリーWebの制作運用も経験豊富です。<br/><br/><br/></p>
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="programing-part flow-part">
-							<img src="assets/img/img-webdev/programming.png"> 
+							<img src="assets/img/img-webdev/programming.png" alt="プログラミング"> 
 							<h3>プログラミング</h3>
 							<p>パララックスなどWebサイトにモーションをつけられます。JavascriptやHTML5、CSS3などにより対応が可能です。ユーザーを惹きつけるWebサイトの開発をご要望にあわせご提案いたします。 </p>
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="system-part flow-part">
-							<img src="assets/img/img-webdev/engineering.png"> 
+							<img src="assets/img/img-webdev/engineering.png" alt="システム構築"> 
 							<h3>システム構築</h3>
 							<p>CMSシステムやWebシステム、業務システムを開発します。Webサイトと連携して動くシステムだけでなく各種システムを構築運用可能です。PHPフレームワークでの開発が得意です。<br/><br/> </p>
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-5 col-lg-4">
 						<div class="apps-part flow-part">
-							<img src="assets/img/img-webdev/smartphone.png"> 
+							<img src="assets/img/img-webdev/smartphone.png" alt="モバイルアプリ対応"> 
 							<h3>モバイルアプリ対応</h3>
 							<p> PWAでネイティブアプリではなくウェブアプリとしてモバイルアプリを開発します。プッシュ通知やオフラインでの動作も可能です。<br/><br/><br/></p>
 						</div>
 					</div>
+				</div>
+				<div class="link-page-price-and-portfolio">
+					<a class="link-yellow-white" href="/jp/services/webdev-price-range.php">Webサイト制作運用の費用について</a>
+					<a class="link-yellow-white" href="/jp/portfolio.php">Webサイト制作実績</a>
 				</div>
 			</div>
 		</section>
@@ -536,7 +540,7 @@ if(isset($_POST['submitted']))
 						<h2 class="custom-3">モバイル(スマホ)アプリケーション開発</h2>
 						<p class="min-h">スマホやタブレットで動くモバイルアプリケーションの開発も行っています。Androidアプリ、iOSアプリ、ハイブリッドアプリの開発が可能です。PWAやAMP制作などモバイル関連ソリューションは数多く経験してますので幅広いサポートができます。APIの開発、AWSなどインフラ構築などと合わせてワンストップでご支援し保守性の高いアプリを開発します。</p>
 						<div>
-							<a href="/jp/services/pembuatan-aplikasi-mobile/" target="_blank" class="btn btn-logic btn-md">モバイルアプリ開発について詳しくみる</a>
+							<a href="/jp/services/mobile-app-dev.php" target="_blank" class="btn btn-logic btn-md">モバイルアプリ開発について詳しくみる</a>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -544,14 +548,14 @@ if(isset($_POST['submitted']))
 						<h2 class="custom-3">HR関連ソリューション</h2>
 						<p class="min-h">人事採用関連のソリューションを提供しています。応募者を増やすためブランディングのため採用サイトの制作運用をご支援しています。また、当社独自プロダクトとして採用活動管理システム、日報管理システム、生産性向上のための勤務状況管理＆テレワーク管理システムをご提供しています。</p>
 						<div>
-							<a href="/jp/services/pembuatan-website-karir-perusahaan/" target="_blank"  class="btn btn-logic btn-md">HR関連プロダクトついて詳しくみる</a>
+							<a href="/jp/services/recruitment-web-dev.php" target="_blank"  class="btn btn-logic btn-md">HR関連プロダクトついて詳しくみる</a>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<h2 class="custom-3">Webセキュリティ脆弱性検査</h2>
 						<p class="min-h">Webサイトにセキュリティホールがないか、脆弱性について確認する検査を実施します。乗っ取りや改竄などに対する脆弱性を確認し、問題点とリスクを明らかにします。静的なホームページの場合には15ジュタの簡易診断もご用意しています。</p>
 						<div>
-							<a href="/jp/services/penetration-testing/" target="_blank"  class="btn btn-logic btn-md">Webサイトのセキュリティテスト</a>
+							<a href="/jp/services/penetration-test.php" target="_blank"  class="btn btn-logic btn-md">Webサイトのセキュリティテスト</a>
 						</div>
 					</div>
 				</div>
@@ -605,7 +609,7 @@ if(isset($_POST['submitted']))
 							<div class="col-xs-6">
 								<div class="link-footer-webdev">
 									<a href="/jp/index.php" target="_blank">Home</a>
-									<a href="/jp/about.php" target="_blank">会社概要</a>
+									<a href="/jp/logique.php" target="_blank">会社概要</a>
 									<a href="/jp/portfolio.php" target="_blank">制作実績</a>
 									<a href="/jp/services.php" target="_blank">サービス</a>
 								</div>
@@ -623,16 +627,16 @@ if(isset($_POST['submitted']))
 							<div style="margin-bottom:8px"><b>Social Media</b></div>
 							<div class="row medsos-new">
 								<div class="col-xs-3">
-									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook" rel="noreferrer"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 								<div class="col-xs-3">
-									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter" rel="noreferrer"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 								<div class="col-xs-3">
-									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram" rel="noreferrer"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 								<div class="col-xs-3">
-									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
+									<a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn" rel="noreferrer"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
 								</div>
 							</div>
 						</div>
@@ -659,7 +663,7 @@ if(isset($_POST['submitted']))
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
 							<div class="">
 									<div class="form-group">
-										<input type="text" class="form-control" placeholder="Name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
+										<input type="text" class="form-control" placeholder="Name" name="name" aria-label="Name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 									</div>
 									<!-- <div class="form-group">
 										<input type="number" class="form-control" placeholder="No Ponsel" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
@@ -668,10 +672,10 @@ if(isset($_POST['submitted']))
 										<input type="text" class="form-control" placeholder="Perusahaan" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
 									</div> -->
 									<div class="form-group">
-										<input type="email" class="form-control" placeholder="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+										<input type="email" class="form-control" placeholder="Email" name="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
 									</div>
 									<div class="form-group">
-										<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Message" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Message" name="message" aria-label="Message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 									<div class="form-group">
 										<div class="g-recaptcha captcha-custom" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>

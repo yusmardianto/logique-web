@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="LOGIQUE membuka lowongan kerja bagi web developer, digital marketing strategist, mobile developer, technical consultant, dan accounting & tax officer untuk mengembangkan kemampuannya bersama kami. Hubungi kami segera.">
 	<meta name="keywords" content="lowongan kerja IT, lowongan web developer, lowongan web designer, lowongan mobile app developer, lowongan technical consultant, lowongan content writer, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
@@ -38,11 +38,11 @@
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
-	
+
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    
+
     </head>
 	<body class="career-page">
 		<section class="maintop" id="maintop">
@@ -68,17 +68,17 @@
 				</div>
 			</div>
 			<div id="scroll">
-				<a class="smooth" href="#navbar"><span><img src="../img/scrollarrow.png"/></span></a>
+				<a class="smooth" href="#navbar" aria-label="btn-scroll-to-navbar"><span><img src="../img/scrollarrow.png" alt="scroll arrow"></span></a>
 			</div>
 		</section>
-		
+
 		<nav class="navbar" id="navbar">
 		  <div class="container">
 			<div class="navbar-header">
-			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+			  <button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span>  
+				<span class="icon-bar third"></span>
 			  </button>
 			  <a class="navbar-brand smooth" href="/"><img src="../img/logo.png" alt="Logo"/></a>
 			</div>
@@ -93,9 +93,9 @@
 			</div>
 		  </div>
 		</nav>
-		
+
 		<img class="image-career" src="../img/career-main2.png" alt="Logo"/>
-		
+
 		<section id="benefits" class="jumptarget">
 			<div class="header-career">
 				<div><h2>Keuntungan</h2></div>
@@ -113,7 +113,7 @@
 								Sistem kerja remote yang kami tawarkan ini berlaku bagi seluruh wilayah Indonesia dan mancanegara yang berminat untuk bergabung bersama kami.
 							</p>
 							<div class="text-center">
-								<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="margin-top:0">
+								<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer" style="margin-top:0">
 									Apply
 								</a>
 							</div>
@@ -167,7 +167,7 @@
 								<div class="content-benefits flexible">
 									<div class="valign-center text-center">
 										<img src="../img/benefits4.png" alt="Flexible" class="img-responsive center-block"/>
-										Jam masuk kerja yang 
+										Jam masuk kerja yang
 										<span>fleksibel</span>
 									</div>
 								</div>
@@ -205,7 +205,7 @@
 				</div>
 			</div>
 		</section>
-		
+
 		<section id="internal-rules">
 			<div class="container">
 				<!--<div class="title text-center">Pengenalan Terkait Peraturan Internal</div>-->
@@ -223,7 +223,7 @@
 						<img alt="Monthly Evaluation" src="../img/bonus.jpg"/>
 						<div class="subtitle text-center">Bonus</div>
 						<p>
-							LOGIQUE memberikan bonus kinerja menarik bagi Anda yang berdedikasi dan berkontribusi dengan baik. 
+							LOGIQUE memberikan bonus kinerja menarik bagi Anda yang berdedikasi dan berkontribusi dengan baik.
 							<br><br>
 							Setiap bulannya, kinerja Anda akan dievaluasi oleh supervisor. Jika Anda menunjukkan hasil yang luar biasa, Anda akan mendapatkan bonus.
 							<br><br>
@@ -237,24 +237,24 @@
 						<p>
 							Bagi Anda yang ingin bekerja di kantor, LOGIQUE juga memberikan Anda kebebasan dalam memilih jam masuk kerja antara jam 8-10 pagi mulai dari Senin-Jum’at. Fleksibilitas waktu kerja ini memungkinkan Anda untuk dapat meluangkan sedikit waktu bersama dengan keluarga Anda atau mempersiapkan diri untuk bekerja tanpa perlu takut terjebak padatnya lalu lintas yang menyebabkan Anda terlambat masuk kantor.
 						</p>
-					</div>					
+					</div>
 				</div>
 				<div class="row no-gap" style="padding: 0 15px;">
 					<div class="col-md-8 col-md-offset-2">
 						<div class="subtitle text-center">Sistem Kerja Remote</div>
 						<p>
-							LOGIQUE mengikuti tren pekerjaan masa kini, yaitu sistem kerja remote. Dimana Anda dapat menentukan waktu kerja dimana pun dan kapan pun Anda inginkan sesuai dengan kesepakatan bersama sehingga Anda tetap dapat mencari penghasilan secara optimal meskipun Anda berada di rumah, di café atau dimana pun Anda berada, baik di Indonesia atau mancanegara. 
+							LOGIQUE mengikuti tren pekerjaan masa kini, yaitu sistem kerja remote. Dimana Anda dapat menentukan waktu kerja dimana pun dan kapan pun Anda inginkan sesuai dengan kesepakatan bersama sehingga Anda tetap dapat mencari penghasilan secara optimal meskipun Anda berada di rumah, di café atau dimana pun Anda berada, baik di Indonesia atau mancanegara.
 						</p>
-					</div>			
+					</div>
 				</div>
 				<div class="text-center">
-					<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank">
+					<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer">
 						Apply
 					</a>
-				</div>			
-			</div>			
+				</div>
+			</div>
 		</section>
-		
+
 		<section id="our-policy" class="jumptarget">
 			<!--<div class="container">
 				<div class="title">Visi dan Kebijakan Kami</div>
@@ -341,7 +341,7 @@
 			</div>
 		</section>
 		<div class="bg-hrd"></div>
-		
+
 		<section id="job-opening" class="jumptarget">
 			<!-- <div class="title text-left">We are Hiring!</div> -->
 			<div class="header-career">
@@ -350,10 +350,56 @@
 				<div>
 					<p>Saat ini, LOGIQUE sedang membuka lowongan kerja untuk Quality Assurance, Front End, Web Developer, Technical Consultant, Mobile App Developer, Content Writer, Project Manager, Designer, dan Asisten HR/GA.</p>
 				</div>
-				
+
 			</div>
 			<h3 class="jobs-subtitle">LOWONGAN FULL-TIME</h3>
 			<hr class="separator-career" style="margin-top: 0;border-style: solid;"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding: 0">
+					<div class="div-job title-job">
+						<div class="valign-center">
+							<img alt="IT Account Executive" src="/img/executive.png" class="img-responsive">
+							<h4>Lowongan</h4>
+							<h5>IT Account Executive</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						<div style="font-weight:bold;font-size:18px">
+							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
+						</div>
+						<br>
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Kandidat harus memiliki gelar D3/S1 di bidang Bisnis/Marketing/IT, atau lainnya yang relevan.</li>
+							<li>Minimal 2 tahun pengalaman di bidang yang sejenis.</li>
+							<li>Memahami proses dan dinamika dunia sales.</li>
+							<li>Mampu bekerja berdasarkan target.</li>
+							<li>Memiliki komitmen yang tinggi pada kualitas pelayanan untuk pelanggan.</li>
+							<li>Memiliki keahlian interpersonal yang luar biasa, termasuk ketangkasan dalam membangun hubungan baik dengan klien.</li>
+							<li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik.</li>
+							<li>Memiliki pengalaman menggunakan komputer untuk berbagai tugas.</li>
+						</ul><br>
+						<b>Job Description:</b><br/>
+						<ul class="joinus-ul">
+							<li>Mengembangkan dan memperluas jaringan klien perusahaan melalui strategi networking dan marketing dengan berbagai instansi, grup, komunitas, dan perusahaan.</li>
+							<li>Menemukan dan membangun relasi yang baik dengan klien baru maupun yang sudah ada.</li>
+							<li>Melakukan telepon dengan calon klien, serta menindaklanjuti proposal dan penawaran kepada klien.</li>
+							<li>Membuat laporan mingguan untuk mengetahui kemajuan target penjualan serta mendokumentasikan kinerja penjualan.</li>
+							<li>Menjawab pertanyaan, menjelaskan manfaat, dan membahas pro dan kontra berbagai produk atau layanan perusahaan.</li>
+							<li>Mampu bekerja sama dengan departemen lainnya.</li>
+							<li>Mampu mencapai target penjualan secara individu.</li>
+						</ul>
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'IT-Account-Executive-Apply-Button', 'Action-Click', 'IT-Account-Executive-Apply-Button-Label');" target="_blank" rel="noreferrer">
+							Apply for IT Account Executive
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<hr class="separator-career"></hr>
 			<div class="one-job-opening">
 				<div class="col-sm-4" style="padding:0">
 					<div class="div-job title-job">
@@ -391,7 +437,7 @@
 							<li>Melakukan analisa terhadap teknologi atau sistem untuk kebutuhan konsultasi atau penawaran.</li>
 							<li>Melakukan koordinasi dan mengarahkan tim konsultan agar dapat bekerja dengan efektif.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Lead-Consultant-Apply-Button', 'Action-Click', 'Lead-Consultant-Apply-Button-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Lead-Consultant-Apply-Button', 'Action-Click', 'Lead-Consultant-Apply-Button-Label');" target="_blank" rel="noreferrer">
 							Apply for Lead Consultant
 						</a>
 					</div>
@@ -434,7 +480,7 @@
 							<li>Melakukan analisa terhadap teknologi atau sistem untuk kebutuhan konsultasi atau penawaran.</li>
 							<li>Berkoordinasi dan mengelola tim terkait pengembangan proyek yang direncanakan jika diperlukan.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Pre-Sales-Apply-Button', 'Action-Click', 'Pre-Sales-Apply-Button-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Pre-Sales-Apply-Button', 'Action-Click', 'Pre-Sales-Apply-Button-Label');" target="_blank" rel="noreferrer">
 							Apply for Pre-Sales Consultant
 						</a>
 					</div>
@@ -475,7 +521,7 @@
 							<li>Pengalaman menggunakan CSS framework seperti bootstrap dan foundation merupakan nilai tambah</li>
 							<li>Pengalamaan dengan ExpressJS, mongoDB merupakan nilai tambah</li>
 						</ul><br/>
-						
+
 						<b>Job Description:</b><br/>
 						<ul class="joinus-ul">
 							<li>Mengembangkan dan mengkonversi kode HTML ke ReactJS.</li>
@@ -485,7 +531,7 @@
 							<li>Melakukan perbaikan performance dengan optimasi code pada sisi aplikasi.</li>
 							<li>Melakukan analisa dan riset dalam menerapkan teknologi terkait terkini sesuai kebutuhan client.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Front-End-Apply-Button', 'Action-Click', 'Front-End-Apply-Button-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Front-End-Apply-Button', 'Action-Click', 'Front-End-Apply-Button-Label');" target="_blank" rel="noreferrer">
 							Apply for Front End
 						</a>
 					</div>
@@ -520,7 +566,7 @@
 							<li>Bahasa yang dibutuhkan: Bahasa Inggris, Bahasa Indonesia.</li>
 							<li>Pelamar harus bersedia bekerja di Jakarta/Yogyakarta.</li>
 						</ul><br/>
-						
+
 						<b>Tanggung Jawab:</b><br/>
 						<ul class="joinus-ul">
 							<li>Mengembangkan dan memelihara skenario pengujian software.</li>
@@ -529,7 +575,7 @@
 							<li>Bertanggung jawab dalam memastikan dan merilis dokumentasi perangkat lunak dalam keadaan yang tepat, dipasang dengan benar dan dijalankan dengan kualitas yang baik.</li>
 							<li>Bertanggung jawab untuk membuat dan melaksanakan pengujian regresi dan pelaksanaan pembuatan aplikasi.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'QA-Apply-Button', 'Action-Click', 'QA-Apply-Button-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'QA-Apply-Button', 'Action-Click', 'QA-Apply-Button-Label');" target="_blank" rel="noreferrer">
 							Apply for Quality Assurance
 						</a>
 					</div>
@@ -569,7 +615,7 @@
 							<li>Memiliki kemampuan interpesonal.</li>
 							<li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.</li>
 						</ul><br/>
-						
+
 						<b>Tanggung Jawab:</b><br/>
 						<ul class="joinus-ul">
 							<li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
@@ -582,7 +628,7 @@
 							<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>
 							<li>Menghasilkan laporan.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'TC-Apply-Button', 'Action-Click', 'TC-Apply-Button-Label');" target="_blank" > <!--style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">-->
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'TC-Apply-Button', 'Action-Click', 'TC-Apply-Button-Label');" target="_blank" rel="noreferrer"> <!--style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">-->
 							Apply for Technical Consultant
 						</a>
 					</div>
@@ -609,7 +655,7 @@
 							<li>Menyarankan strategi untuk meningkatkan kinerja berdasarkan analisis.</li>
 							<li>Terus menyesuaikan kinerja setiap platform dan situs web untuk mendapatkan hasil yang lebih baik dengan berkolaborasi dengan web developer dan content writer.</li>
 						</ul><br/>
-						
+
 						<b>Persyaratan:</b><br/>
 						<ul class="joinus-ul">
 							<li>Minimal 2 tahun pengalaman dalam web development / agensi digital marketing.</li>
@@ -631,7 +677,7 @@
 								</ul>
 							</li>
 						</ul><br/>
-						
+
 						<b>Lebih disukai (tidak harus dimiliki):</b><br/>
 						<ul class="joinus-ul">
 							<li>Keterampilan programming.</li>
@@ -640,63 +686,9 @@
 							<li>Keterampilan operasi media sosial.</li>
 							<li>Keterampilan desain.</li>
 						</ul>
-						
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'DM-Apply-Button', 'Action-Click', 'DM-Apply-Button-Label');" target="_blank" >
+
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'DM-Apply-Button', 'Action-Click', 'DM-Apply-Button-Label');" target="_blank" rel="noreferrer">
 							Apply for Digital Marketing Strategist
-						</a>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-			<hr class="separator-career"></hr>
-			<div class="one-job-opening">
-				<div class="col-sm-4" style="padding:0">
-					<div class="div-job title-job">
-						<div class="valign-center">
-							<img alt="Technical Consultant" src="../img/techcons.png" class="img-responsive"/>
-							<h4>Lowongan</h4>
-							<h5>Accounting & Tax Officer</h5>
-							<h6>Dibutuhkan di Jakarta</h6>
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-8">
-					<div class="div-job desc-job">
-						<div style="font-weight:bold;font-size:18px">
-							<span class="juggling-top" style="font-size:22px">URGENTLY NEEDED </span><br/>
-							Accounting & Tax Officer (di Jakarta) dengan 2 tahun pengalaman
-						</div>
-						<br/>
-						Bila Anda:
-						<ol style="margin-left:20px">
-							<li>Ahli dalam bidang accounting dan pajak</li>
-							<li>Menyukai hitung-berhitung mengenai perpajakan dan accounting</li>
-							<li>Up to date mengenai hukum perpajakan</li>
-						</ol>
-						LOGIQUE membuka peluang untuk Anda bergabung bersama kami.
-						<br/><br/>
-						<b>Tanggung jawab kerja:</b><br/>
-						<ul class="joinus-ul">
-							<li>Membuat Faktur Pajak dan e-faktur.</li>
-							<li>Mengisi formulir perpajakan PPN, PPh 21, PPh 23, dan lain-lain.</li>
-							<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
-							<li>Mempersiapkan permintaan pembayaran Pajak Bulanan dan SPT Tahunan.</li>
-							<li>Membuat rekap pajak.</li>
-							<li>Membuat laporan-laporan accounting.</li>
-							<li>Data entry bank payment dan rekonsiliasi bank.</li>
-							<li>Rekonsiliasi pemotongan PPH 23 dan Pasal 4 ayat 2.</li>
-						</ul><br/>
-						
-						<b>Persyaratan:</b><br/>
-						<ul class="joinus-ul">
-							<li>Berpengalaman minimal 2 tahun dibidang yang sama.</li>
-							<li>Pernah bekerja di KPP / Konsultan diutamakan.</li>
-							<li>Minimum pendidikan S1 dibidang accounting / pajak.</li>
-							<li>Brevet A B, diutamakan yang Brevet A B dan C.</li>
-							<li>Dapat mengoperasikan Microsoft Office dengan baik (terutama excel).</li>
-						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Accounting-Apply-Button', 'Action-Click', 'Accounting-Apply-Button-Label');" target="_blank" >
-							Apply for Accounting &amp; Tax Officer
 						</a>
 					</div>
 				</div>
@@ -737,7 +729,7 @@
 							<li>Menganalisa masalah dan memberikan solusi dari sisi teknis.</li>
 							<li>Menyelesaikan pekerjaan atau tugas lain yang diberikan.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Web-Dev-Apply-Button', 'Action-Click', 'Web-Dev-Apply-Button-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Web-Dev-Apply-Button', 'Action-Click', 'Web-Dev-Apply-Button-Label');" target="_blank" rel="noreferrer">
 							Apply for Web Developer
 						</a>
 					</div>
@@ -770,7 +762,7 @@
 							<li>Kemampuan untuk tampil di lingkungan tim.</li>
 							<li>Berpendidikan minimal S1 di bidang Ilmu Komputer/Teknologi Informasi atau yang setara.</li>
 						</ul><br/>
-						
+
 						<b>Tanggung Jawab:</b><br/>
 						<ul class="joinus-ul">
 							<li>Menghasilkan aplikasi mobile yang berfungsi penuh (iOS dan Android).</li>
@@ -784,7 +776,7 @@
 							<li>Meneliti dan menyarankan produk, aplikasi, dan protokol seluler baru.</li>
 							<li>Tetap up-to-date dengan tren teknologi baru.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Mobile-Dev-Apply-Button', 'Action-Click', 'Mobile-Dev-Apply-Button-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Mobile-Dev-Apply-Button', 'Action-Click', 'Mobile-Dev-Apply-Button-Label');" target="_blank" rel="noreferrer">
 							Apply for Mobile App Developer
 						</a>
 					</div>
@@ -824,8 +816,62 @@
 							<li>Mampu berpikir logis dan tegas dalam mengambil tindakan.</li>
 							<li>Memiliki pengetahuan tentang pemasaran digital dan keingintahuan yang tinggi akan hal-hal baru.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'PM-Apply-Button', 'Action-Click', 'PM-Apply-Button-Label');" target="_blank">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'PM-Apply-Button', 'Action-Click', 'PM-Apply-Button-Label');" target="_blank" rel="noreferrer">
 							Apply for Project Manager
+						</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+      <hr class="separator-career"></hr>
+			<div class="one-job-opening">
+				<div class="col-sm-4" style="padding:0">
+					<div class="div-job title-job">
+						<div class="valign-center">
+							<img alt="Technical Consultant" src="../img/techcons.png" class="img-responsive"/>
+							<h4>Lowongan</h4>
+							<h5>Accounting & Tax Officer</h5>
+							<h6>Dibutuhkan di Jakarta</h6>
+              <div style="margin-top:10px;font-weight:400">(On Hold)</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8">
+					<div class="div-job desc-job">
+						<div style="font-weight:bold;font-size:18px">
+							Accounting & Tax Officer (di Jakarta) dengan 2 tahun pengalaman
+						</div>
+						<br/>
+						Bila Anda:
+						<ol style="margin-left:20px">
+							<li>Ahli dalam bidang accounting dan pajak</li>
+							<li>Menyukai hitung-berhitung mengenai perpajakan dan accounting</li>
+							<li>Up to date mengenai hukum perpajakan</li>
+						</ol>
+						LOGIQUE membuka peluang untuk Anda bergabung bersama kami.
+						<br/><br/>
+						<b>Tanggung jawab kerja:</b><br/>
+						<ul class="joinus-ul">
+							<li>Membuat Faktur Pajak dan e-faktur.</li>
+							<li>Mengisi formulir perpajakan PPN, PPh 21, PPh 23, dan lain-lain.</li>
+							<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
+							<li>Mempersiapkan permintaan pembayaran Pajak Bulanan dan SPT Tahunan.</li>
+							<li>Membuat rekap pajak.</li>
+							<li>Membuat laporan-laporan accounting.</li>
+							<li>Data entry bank payment dan rekonsiliasi bank.</li>
+							<li>Rekonsiliasi pemotongan PPH 23 dan Pasal 4 ayat 2.</li>
+						</ul><br/>
+
+						<b>Persyaratan:</b><br/>
+						<ul class="joinus-ul">
+							<li>Berpengalaman minimal 2 tahun dibidang yang sama.</li>
+							<li>Pernah bekerja di KPP / Konsultan diutamakan.</li>
+							<li>Minimum pendidikan S1 dibidang accounting / pajak.</li>
+							<li>Brevet A B, diutamakan yang Brevet A B dan C.</li>
+							<li>Dapat mengoperasikan Microsoft Office dengan baik (terutama excel).</li>
+						</ul>
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Accounting-Apply-Button', 'Action-Click', 'Accounting-Apply-Button-Label');" target="_blank" rel="noreferrer" style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">
+							Apply for Accounting &amp; Tax Officer
 						</a>
 					</div>
 				</div>
@@ -858,7 +904,7 @@
 							<li>Terbiasa bekerja dengan deadline.</li>
 							<li>Berpendidikan minimal D3 atau S1 Sastra Inggris, Ilmu Jurnalistik, Ilmu Komunikasi, Humas, atau yang relevan.</li>
 						</ul><br/>
-						
+
 						<b>Tanggung Jawab:</b><br/>
 						<ul class="joinus-ul">
 							<li>Meneliti topik yang berhubungan dengan industri penelitian (menggabungkan sumber online, wawancara, dan studi).</li>
@@ -869,7 +915,7 @@
 							<li>Mengidentifikasi kebutuhan dan kesenjangan pelanggan dalam konten kami dan rekomendasikan topik baru.</li>
 							<li>Up to date untuk konten situs web sesuai kebutuhan.</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer" style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">
 							Apply for IT Content Writer
 						</a>
 					</div>
@@ -902,7 +948,7 @@
 						<ul class="joinus-ul">
 							<li>Memiliki kemampuan untuk menggunakan software desain (Photoshop, Illustrator, dll).</li>
 						</ul>
-						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">
+						<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black customizebtn" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer" style="pointer-events:none;color: #ccc!important;border: 2px solid #ccc;background: #fff;">
 							Apply for Designer
 						</a>
 					</div>
@@ -960,7 +1006,7 @@
 				<a href="/career/intern/" class="btn btn-contact-us-black customizebtn">Lihat Informasi Lebih Lanjut</a>
 			</div>
 		</section>
-		
+
 		<div class="floating-banner">
 			<a class="smooth" href="#job-opening">
 				<div class="img-floating">
@@ -969,14 +1015,14 @@
 				</div>
 			</a>
 		</div>
-		
+
 		<div class="bg-footer-new-career">
 			<span>Jadi, apakah Anda tertarik untuk menjadi bagian dari kami?</span>
 			<br/>
-			<div>Jika Anda memenuhi kriteria salah satu posisi yang kami butuhkan, segera kirim CV beserta portofolio terbaik Anda 
+			<div>Jika Anda memenuhi kriteria salah satu posisi yang kami butuhkan, segera kirim CV beserta portofolio terbaik Anda
 			<br/>dengan cara klik tombol di bawah ini !</div>
 			<div>
-				<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" style="margin-bottom: 50px;" target="_blank">
+				<a href="https://logique.sugoisaiyo.com/" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" style="margin-bottom: 50px;" target="_blank" rel="noreferrer">
 					Apply
 				</a>
 			</div>
@@ -994,7 +1040,7 @@
 					<div class="col-lg-12">
 						<div class="text-center">
 							<ul class="list-inline little-nav">
-								<li><a target="_blank" href="/tentang-kami.php">Tentang LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
+								<li><a target="_blank" href="/logique.php">Tentang LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
 								<li><a target="_blank" href="/layanan.php">Layanan LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
 								<li><a target="_blank" href="/hubungi-kami.php">Hubungi LOGIQUE</a>&nbsp;&nbsp;&nbsp;|</li>
 							</ul>
@@ -1008,7 +1054,7 @@
 		</div>
 
 		<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>
-		
+
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script src="../js/jquery.matchHeight.js"></script>
 		<script src="../js/bootstrap.min.js"></script>
@@ -1026,46 +1072,46 @@
 				} else {
 					$('.div-black-career').removeClass('scrolled');
 				}
-			});	
-		});	
+			});
+		});
 		</script>
 		<script>
 			/* var texttyping = $('.typing').text();
 			var length1 = texttyping.length;
 			var timeOut1;
 			var character1 = 0;
-			(function typeWriter1() { 
+			(function typeWriter1() {
 				timeOut1 = setTimeout(function() {
 					character1++;
 					var type = texttyping.substring(0, character1);
 					$('.typing').text(type);
 					typeWriter1();
-					
+
 					if (character1 == length1) {
 						clearTimeout(timeOut1);
 					}
-					
+
 				}, 7);
 			}()); */
-			
+
 			/* var text = $('.div-black-career').text();
 			var length = text.length;
 			var timeOut;
 			var character = 0;
-			(function typeWriter() { 
+			(function typeWriter() {
 				timeOut = setTimeout(function() {
 					character++;
 					var type = text.substring(0, character);
 					$('.div-black-career').text(type);
 					typeWriter();
-					
+
 					if (character == length) {
 						clearTimeout(timeOut);
 					}
-					
+
 				}, 100);
 			}()); */
-			
+
 			// var text = "Mengapa saya harus bekerja di LOGIQUE?                   ";
 			// var chars = text.split('');
 			// var container = document.getElementById("id-black-career");
@@ -1079,24 +1125,24 @@
 			// 		container.innerHTML = "";
 			// 	}
 			// }, 100);
-		
+
 			$(document).ready(function(){
 				/* $('.typing').show(200); */
 				$('.div-black-career').show();
 				$(window).scroll(function () {
 				 if($(window).scrollTop() > $(".maintop").height()) {
 					$('#navbar').css('position','fixed');
-					$('#navbar').css('top','0'); 
-					$('#navbar').css('border-bottom','1px solid #ffca13'); 
+					$('#navbar').css('top','0');
+					$('#navbar').css('border-bottom','1px solid #ffca13');
 				 }
 				 else if ($(window).scrollTop() <= 670) {
 					$('#navbar').css('position','');
 					$('#navbar').css('top','');
-					$('#navbar').css('border-bottom','0'); 
-				 }				 
+					$('#navbar').css('border-bottom','0');
+				 }
 				});
 			});
-			
+
 			$(function() {
 				$('.smooth').click(function() {
 				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -1111,7 +1157,7 @@
 				  }
 				});
 			});
-			
+
 			$(document).ready(function(){
 				$(window).resize(function(){
 					if ($(window).width() < 768) {
@@ -1121,7 +1167,7 @@
 						});
 					}
 				});
-			
+
 				//Check to see if the window is top if not then display button
 				$(window).scroll(function(){
 					if ($(this).scrollTop() > 100) {
@@ -1129,7 +1175,7 @@
 					} else {
 						$('.scrollToTop').fadeOut();
 					}
-				});	
+				});
 				/* //Click event to scroll to top
 				$('.scrollToTop').click(function(){
 					$('html, body').animate({scrollTop : 0},800);

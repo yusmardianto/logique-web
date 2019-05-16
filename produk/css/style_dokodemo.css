@@ -100,7 +100,6 @@ header hr{border-top:5px solid #fff;width:20%}
   padding-left: 10px;
   cursor: pointer;
   margin-bottom: 15px !important;
-  color: #acacac;
 }
 .rdio label:before {
   width: 16px;
@@ -148,6 +147,20 @@ header hr{border-top:5px solid #fff;width:20%}
 .rdio input[type="radio"]:checked + label::after {
   background-color: #000;
 }
+
+.radiobuttons label {
+  margin-left: 10px;
+  padding: 0;
+  font-size: 14px;
+}
+label.highlight-radio {
+  background-color: rgba(255, 202, 19, .9);
+  color: #000;
+  font-weight: 700;
+  border: solid 1px #000;
+  padding: 0 5px;
+  font-size: 13px;
+}
 .div-form .form-control{font-size: 16px;height: 45px;border-radius: 0;box-shadow: none;border: 0;}
 .div-form textarea.form-control{resize: none;height: 242px;}
 .div-faq{padding:40px 0}
@@ -185,18 +198,18 @@ footer p{padding: 22px 0px;}
 .bg-masalah1{background:url('../img/dokodemo-kerja/bg-masalah1.png') no-repeat;background-position: center;background-size: contain;padding: 40px 0;background-color: #eceef2;}
 .bg-masalah2{background:url('../img/dokodemo-kerja/bg-masalah2.png') no-repeat;background-position: center;background-size: contain;padding: 40px 0;background-color: #eceef2;}
 .bg-masalah3{background:url('../img/dokodemo-kerja/bg-masalah3.png') no-repeat;background-position: center;background-size: contain;padding: 40px 0;background-color: #eceef2;}
-.desc-bantu{font-size:16px;color:#0072bc;margin-top: 10px;}
+.desc-bantu{font-size:15px;color:#0072bc;margin-top: 10px;}
 .desc-bantu .quote{font-size: 50px;font-family: 'Anton';margin-bottom: 30px;float: left;margin-top: -10px;margin-right: 10px;}
 .font18{font-size:18px;}
 .blue2{color:#008ec4}
-.bg-masalah2 .fa-ul>li,.bg-masalah3 .fa-ul>li{color:#008ec4}
+.bg-masalah2 .fa-ul>li,.bg-masalah3 .fa-ul>li{color:#008ec4; font-size: 15px;}
 .pl-25{padding-left:25px}
 .pr-25{padding-right:25px}
 .bg-blue hr{border:2px solid #fff;width: 500px;max-width: 100%;}
 .card-harga{background:#f5f5f5;}
 .title-card{font-size:20px;background:#008ec4;padding:15px;color:#fff}
 .price{background:#f5f5f5;font-size:50px;text-align:center;color:#0072bc}
-.price strong{font-size:50px}
+.price strong{font-size:50px; font-family: 'Lato', sans-serif;}
 .plan-list{padding:15px}
 .harga {padding:30px 0}
 .harga .title{font-size: 36px;padding: 0 15px;text-align: center;color: #0072bc;}
@@ -452,11 +465,6 @@ footer {
     text-align: justify
 }
 
-footer h5,
-footer h6 {
-    font-size: 14px;
-    line-height: 30px
-}
 .backdrop-test {
     position: fixed;
     width: 100%;
@@ -520,12 +528,17 @@ footer a {
 footer a:hover {
     color: #ffca13!important
 }
+.medsos-new .fa{font-size:35px;margin-top:10px}
+.medsos-new .fa-facebook-official:hover{color:#3b5999}
+.medsos-new .fa-twitter:hover{color:#0084ff}
+.medsos-new .fa-instagram:hover{color:#e4405f}
+.medsos-new .fa-linkedin-square:hover{color:#0077B5}
 ul.medsos-new li{
     display: inline-block;
     padding:0 5px;
 }
 footer div , footer a, ul li, footer span, footer p{
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
 }
 ul.medsos-new{
@@ -536,8 +549,13 @@ ul.medsos-new li a{
 }
 
 .link-footer {
-    line-height: 30px;
-    text-align: left
+    text-align: left;
+}
+
+@media (min-width: 768px) {
+    .link-footer p {
+        margin-bottom: 45px;
+    }
 }
 
 .footer-title {
@@ -777,7 +795,7 @@ ul.medsos-new li a{
 
 .div-masalah-new{background:#06182f;padding:40px 0;}
 .div-masalah-new .title{font-size:36px;color:#edb41a;text-align:center}
-.list-masalah{color: #fff;font-size: 16px;margin-bottom: 15px;padding: 2px 15px;position: relative;}
+.list-masalah{color: #fff;font-size: 15px;margin-bottom: 15px;padding: 2px 15px;position: relative;}
 .list-masalah:before{
 	content:'';
 	position:absolute;
@@ -801,5 +819,26 @@ ul.medsos-new li a{
 @media (max-width:767px) {
 	.div-masalah-new .title {font-size: 25px;}
 }
-.dl-guide img{position:relative;top:0;transition:all 0.1s linear;}
-.dl-guide:hover img{top:-4px;box-shadow:0 0 15px #fff}
+.dl-guide img, 
+.btn-start-trial img{
+  position:relative;
+  top:0;
+  transition:all 0.1s linear;
+}
+@media (min-width: 500px) {
+  .btn-start-trial img {
+    max-width: 425px;
+  }
+}
+.dl-guide:hover img,
+.btn-start-trial:hover img{
+  top:-4px;box-shadow:0 0 15px #fff
+}
+.banner-trial-30-days {
+  padding: 40px 0;
+}
+@media (min-width: 500px) {
+  .banner-trial-30-days {
+    padding: 40px 20px;
+  }
+}
