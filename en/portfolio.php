@@ -130,35 +130,37 @@
 					<div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
 					<div class="form-container our-portfolio">
 						<div class="page-description page-part-container">
-              LOGIQUE has various experiences in developing. In the near future we will update our portfolio of website / web-system development, mobile application development, and printing design.<br/><br/>
-  						Contact us and we will introduce you our past portfolios of development, maintenance, and operation. Contact us from here:
-  						<div class="text-center">
-  							<a href="contact.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
-  								Contact us for LOGIQUE's portfolio
-  							</a>
-  						</div>
-            </div>
+						  LOGIQUE has various experiences in developing. In the near future we will update our portfolio of website / web-system development, mobile application development, and printing design.<br/><br/>
+									Contact us and we will introduce you our past portfolios of development, maintenance, and operation. Contact us from here:
+									<div class="text-center">
+										<a href="contact.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
+											Contact us for LOGIQUE's portfolio
+										</a>
+									</div>
+						</div>
 						<div class="portfolio-webdev page-part-container">
   						<div class="characteristic-title" style="font-size:22px">Website Development Portfolio</div>
   						<div class="row text-center">
-                <div class="col-sm-4">
-                  <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
-                    Pertamina  
-                  <div class="addition-desc text-left">
-                    UI / UX Design  (Design | HTML/CSS)
-                    <div class="grey-clr">Training, E-Learning, Pertamina</div>
-                  </div>
-                </div>
-                <div class="col-sm-4">
-                  <a href="https://www.bekalhidup.com" target="_blank" rel="noreferrer">
-                    <img src="/img/portfolio/panin.png" alt="Panin Life Dai-ichi" class="img-responsive center-block">
-                    Panin Life Dai-ichi
-                  </a>
-                  <div class="addition-desc text-left">
-                    E-Commerce Dev (Design | Coding | CMS | Payment)
-                    <div class="grey-clr">CMS, secure E-Commerce, Financial, Insurance</div>
-                  </div>
-                </div>
+							<div class="col-sm-4">
+								<a href="https://aiaberbagi.com" target="_blank" rel="noreferrer">
+									<img src="/img/portfolio/aia.png" alt="AIA" class="img-responsive center-block">
+									AIA 
+								</a>
+								<div class="addition-desc text-left">
+									Campaign Page Creation (Coding | Hosting)  
+									<div class="grey-clr">Mobile Optimized, Campaign page, Insurance</div>
+								</div>
+							</div>
+							<div class="col-sm-4">
+							  <a href="https://www.bekalhidup.com" target="_blank" rel="noreferrer">
+								<img src="/img/portfolio/panin.png" alt="Panin Life Dai-ichi" class="img-responsive center-block">
+								Panin Life Dai-ichi
+							  </a>
+							  <div class="addition-desc text-left">
+								E-Commerce Dev (Design | Coding | CMS | Payment)
+								<div class="grey-clr">CMS, secure E-Commerce, Financial, Insurance</div>
+							  </div>
+							</div>
   							<div class="col-sm-4">
   								<a href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
   									<img src="/img/portfolio/jtrust-bank-new.png" alt="JTrust Bank (Re-design)" class="img-responsive center-block">
@@ -171,15 +173,13 @@
   							</div>
                 <div class="clearfix"></div>
                 <div class="col-sm-4">
-                  <a href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
-                    <img src="/img/portfolio/proline.png" alt="PROLINE FINANCE" class="img-responsive center-block">
-                    PROLINE FINANCE
-                  </a>
-                  <div class="addition-desc text-left">
-                    <br>WEB Development (Design | Coding | CMS) <br>
-                    <br><div class="grey-clr">CMS, Mobile, OJK, Finance</div><br>
-                  </div>
-                </div>
+				  <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
+					Pertamina  
+				  <div class="addition-desc text-left">
+					UI / UX Design  (Design | HTML/CSS)
+					<div class="grey-clr">Training, E-Learning, Pertamina</div>
+				  </div>
+				</div>
                 <div class="col-sm-4">
                   <a href="https://jba.co.id/" target="_blank" rel="noreferrer">
                     <img src="/img/portfolio/jba-indonesia.png" alt="JBA INDONESIA" class="img-responsive center-block">
@@ -731,6 +731,27 @@
 									<div class="grey-clr">WordPress, Mobile Optimized, Member Management System, Booking System </div>
 								  </div>
 								</div>	
+								<div class="col-sm-4">
+									<a href="https://www.jba.co.id/id/poin-rewards" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/jba-lp.png" alt="JBA LP" class="img-responsive center-block">
+										JBA LP
+									</a>
+								  <div class="addition-desc text-left">
+									Web Page Creation (Design | Coding | CMS Integration) 
+									<div class="grey-clr"> Mobile Optimized, CMS, Campaign page </div>
+								  </div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="col-sm-4">
+									<a href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/proline.png" alt="PROLINE FINANCE" class="img-responsive center-block">
+										PROLINE FINANCE
+									</a>
+									<div class="addition-desc text-left">
+										WEB Development (Design | Coding | CMS)
+										<div class="grey-clr">CMS, Mobile, OJK, Finance</div>
+									</div>
+								</div>
                 </div>
               </div>
               <center>
@@ -1116,6 +1137,15 @@
 									</div>
                   VIP Plaza PWA
                 </div>
+				<div class="clearfix"></div>
+				<div class="col-sm-4">
+                  <div class="mobile-app-container">
+					<div class="m-app-item"><img src="/img/portfolio/investindo-1.png" alt="investindo" class="img-responsive center-block"></div>
+					<div class="m-app-item"><img src="/img/portfolio/investindo-2.png" alt="investindo" class="img-responsive center-block"></div>
+					<div class="m-app-item"><img src="/img/portfolio/investindo-3.png" alt="investindo" class="img-responsive center-block"></div>
+			      </div>
+                  Investindo
+                </div>
               </div>
             </div>
 
@@ -1136,13 +1166,21 @@
 										<small class="text-muted">(Google Ads, SNS Operation, SEO Website, Articles)</small>
 									</div>
 								</div>
-                <div class="col-sm-4">
+							<div class="col-sm-4">
   								<img src="/img/portfolio/ajapan-sosmed.png" alt="Ajapan Dance Instagram Competition - Waku Waku Japan" class="img-responsive center-block">
   								Ajapan Dance Instagram Competition - Waku Waku Japan
-                  <div class="addition-desc text-center">
-										<small class="text-muted">(IG Ads, SNS Operation)</small>
-									</div>
+								<div class="addition-desc text-center">
+									<small class="text-muted">(IG Ads, SNS Operation)</small>
+								</div>
   							</div>
+							<!--<div class="clearfix"></div>
+							<div class="col-sm-4">
+								<img src="/img/portfolio/azalea.png" alt="Azalea" class="img-responsive center-block">
+								Azalea
+								<div class="addition-desc text-center">
+									<small class="text-muted">(SEO, content writing, UX/UI, page speed, search rank)</small>
+								</div>
+							</div>-->
               </div>
             </div>
 

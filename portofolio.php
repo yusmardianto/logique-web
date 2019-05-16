@@ -141,12 +141,14 @@
 							<div class="characteristic-title" style="font-size:22px">WEB</div>
 							<div class="row text-center">
 								<div class="col-sm-4">
-								  <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
-								    Pertamina  
-								  <div class="addition-desc text-left">
-								    UI / UX Design  (Design | HTML/CSS)
-								    <div class="grey-clr">Training, E-Learning, Pertamina</div>
-								  </div>
+									<a href="https://aiaberbagi.com" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/aia.png" alt="AIA" class="img-responsive center-block">
+										AIA 
+									</a>
+									<div class="addition-desc text-left">
+										Campaign Page Creation (Coding | Hosting)  
+										<div class="grey-clr">Optimasi Mobile, Campaign page, Insurance</div>
+									</div>
 								</div>
 								<div class="col-sm-4">
 									<a href="https://www.bekalhidup.com" target="_blank" rel="noreferrer">
@@ -165,20 +167,18 @@
 									</a>
 									<div class="addition-desc text-left">
 										WEB Re-Design (Design | Coding | Integrasi CMS)
-										<div class="grey-clr">Mobile Optimized, Multi-bahasa, CMS, Bank</div>
+										<div class="grey-clr">Optimasi Mobile, Multi-bahasa, CMS, Bank</div>
 									</div>
 								</div>
 								<div class="clearfix"></div>
-							 	<div class="col-sm-4">
-							 		<a href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
-							 			<img src="/img/portfolio/proline.png" alt="PROLINE FINANCE" class="img-responsive center-block">
-							 			PROLINE FINANCE
-							 		</a>
-							 		<div class="addition-desc text-left">
-							 			Pengembangan WEB (Design | Coding | CMS) 
-							 			<div class="grey-clr">CMS, Mobile, OJK, Finansial</div>
-							 		</div>
-							 	</div>
+								<div class="col-sm-4">
+								  <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
+								    Pertamina  
+								  <div class="addition-desc text-left">
+								    UI / UX Design  (Design | HTML/CSS)
+								    <div class="grey-clr">Training, E-Learning, Pertamina</div>
+								  </div>
+								</div>
 							 	<div class="col-sm-4">
 									<a href="https://jba.co.id/" target="_blank" rel="noreferrer">
 										<img src="/img/portfolio/jba-indonesia.png" alt="JBA INDONESIA" class="img-responsive center-block">
@@ -196,7 +196,7 @@
 									</a>
 									<div class="addition-desc text-left">
 										Pembaharuan & Pengoperasian WEB (Design | Coding | Operation)
-										<div class="grey-clr">Optimisasi Mobile, Keamanan WEB,Public,Perjalanan</div>
+										<div class="grey-clr">Optimasi Mobile, Keamanan WEB,Public,Perjalanan</div>
 									</div>
 								</div>
 								<div class="clearfix"></div>
@@ -210,7 +210,7 @@
 										</a>
 										<div class="addition-desc text-left">
 											Event / Schedule Web Creation (Design | Coding)
-											<div class="grey-clr">Mobile Optimized, Multi-Language, Event</div>
+											<div class="grey-clr">Optimasi Mobile, Multi-Language, Event</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
@@ -249,7 +249,7 @@
 										</a>
 										<div class="addition-desc text-left">
 											WEB Development (Design | Coding | CMS)
-											<div class="grey-clr">Mobile Optimized, CMS, PHP, RealEstate, Property</div>
+											<div class="grey-clr">Optimasi Mobile, CMS, PHP, RealEstate, Property</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
@@ -280,7 +280,7 @@
 										</a>
 										<div class="addition-desc text-left">
 											WEB Development (Design | Coding | AWS)
-											<div class="grey-clr">Mobile Optimized, Multi-bahasa, Food</div>
+											<div class="grey-clr">Optimasi Mobile, Multi-bahasa, Food</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
@@ -299,7 +299,7 @@
 										ASEAN (ARF)
 										<div class="addition-desc text-left">
 											WEB Development (Design | Coding | CMS)
-											<div class="grey-clr">Mobile Optimized, Wordpress, Public</div>
+											<div class="grey-clr">Optimasi Mobile, Wordpress, Public</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
@@ -386,7 +386,7 @@
 										ECCJ
 										<div class="addition-desc text-left">
 											LP and application form Creation (Design | programming)
-											<div class="grey-clr">Mobile Optimized, Application From, Event</div>
+											<div class="grey-clr">Optimasi Mobile, Application From, Event</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
@@ -558,7 +558,7 @@
 										</a>
 										<div class="addition-desc text-left">
 											Landing Page Creation (Design | Coding | Digital AD)
-											<div class="grey-clr">Mobile Optimized, Multi-bahasa, Event</div>
+											<div class="grey-clr">Optimasi Mobile, Multi-bahasa, Event</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
@@ -589,7 +589,7 @@
 										</a>
 										<div class="addition-desc text-left">
 											WEB Re-Design (Indonesian Contents | SEO | AWS)  
-											<div class="grey-clr">Mobile Optimized, O2O, Property</div>
+											<div class="grey-clr">Optimasi Mobile, O2O, Property</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
@@ -618,7 +618,7 @@
 										</a>
 										<div class="addition-desc text-left">
 											LP Creation (Bootstrap | Content Creation)
-											<div class="grey-clr"> LP, Mobile Optimized, Education, School</div>
+											<div class="grey-clr"> LP, Optimasi Mobile, Education, School</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
@@ -628,7 +628,7 @@
 										</a>
 										<div class="addition-desc text-left">
 											AMP Creation (AMP | Dynamic Pages)
-											<div class="grey-clr"> AMP, Mobile Optimized, Car Auction, Bike Auction</div>
+											<div class="grey-clr"> AMP, Optimasi Mobile, Car Auction, Bike Auction</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
@@ -638,7 +638,7 @@
 										</a>
 										<div class="addition-desc text-left">
 											Creators Market Place Development (Design | CMS | Security Assessment)
-											<div class="grey-clr">Web system, Laravel, Mobile Optimized, Market Place</div>
+											<div class="grey-clr">Web system, Laravel, Optimasi Mobile, Market Place</div>
 										</div>
 									</div>
 									<div class="clearfix"></div>
@@ -649,7 +649,7 @@
 										</a>
 										<div class="addition-desc text-left">
 											WEB Hosting (Coding | Integrasi CMS)  
-											<div class="grey-clr">Mobile Optimized, CMS, News Portal</div>
+											<div class="grey-clr">Optimasi Mobile, CMS, News Portal</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
@@ -659,7 +659,7 @@
 										</a>
 										<div class="addition-desc text-left">
 											HTML/CSS Coding (Coding)
-											<div class="grey-clr">Mobile Optimized, Campaign page</div>
+											<div class="grey-clr">Optimasi Mobile, Campaign page</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
@@ -686,7 +686,7 @@
 									    Want.jp
 									  <div class="addition-desc text-left">
 									    Pengembangan E-Commerce (PWA | ReactJS | NodeJS) 
-									    <div class="grey-clr">Mobile Optimized PWA, Cross Border E-Commerce</div>
+									    <div class="grey-clr">Optimasi Mobile PWA, Cross Border E-Commerce</div>
 									  </div>
 									</div>
 									<div class="col-sm-4">
@@ -706,7 +706,7 @@
 									</a>
 									<div class="addition-desc text-left">
 										WEB Hosting (Coding | Integrasi CMS)  
-										<div class="grey-clr">Mobile Optimized, CMS, News Portal</div>
+										<div class="grey-clr">Optimasi Mobile, CMS, News Portal</div>
 									</div>
 								</div>-->
 									<div class="clearfix"></div>
@@ -717,7 +717,7 @@
 										</a>
 										<div class="addition-desc text-left">
 											Web Re-Design (Design | CMS | Coding)
-											<div class="grey-clr">WordPress, Mobile Optimized, Member System</div>
+											<div class="grey-clr">WordPress, Optimasi Mobile, Member System</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
@@ -727,8 +727,29 @@
 										</a>
 									  <div class="addition-desc text-left">
 									    Web Re-Design (Design | CMS | Coding)
-									    <div class="grey-clr">WordPress, Mobile Optimized, Member Management System, Booking System </div>
+									    <div class="grey-clr">WordPress, Optimasi Mobile, Member Management System, Booking System </div>
 									  </div>
+									</div>
+									<div class="col-sm-4">
+										<a href="https://www.jba.co.id/id/poin-rewards" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/jba-lp.png" alt="JBA LP" class="img-responsive center-block">
+											JBA LP
+										</a>
+									  <div class="addition-desc text-left">
+									    Web Page Creation (Design | Coding | Integrasi CMS) 
+									    <div class="grey-clr"> Optimasi Mobile, CMS, Campaign page </div>
+									  </div>
+									</div>
+									<div class="clearfix"></div>
+									<div class="col-sm-4">
+										<a href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/proline.png" alt="PROLINE FINANCE" class="img-responsive center-block">
+											PROLINE FINANCE
+										</a>
+										<div class="addition-desc text-left">
+											Pengembangan WEB (Design | Coding | CMS) 
+											<div class="grey-clr">CMS, Mobile, OJK, Finansial</div>
+										</div>
 									</div>
 								</div>
 							</div>
@@ -1112,6 +1133,15 @@
 									</div>					
 									VIP Plaza PWA
 								</div>
+								<div class="clearfix"></div>
+								<div class="col-sm-4">
+								  <div class="mobile-app-container">
+									<div class="m-app-item"><img src="/img/portfolio/investindo-1.png" alt="investindo" class="img-responsive center-block"></div>
+									<div class="m-app-item"><img src="/img/portfolio/investindo-2.png" alt="investindo" class="img-responsive center-block"></div>
+									<div class="m-app-item"><img src="/img/portfolio/investindo-3.png" alt="investindo" class="img-responsive center-block"></div>
+								  </div>
+								  Investindo
+								</div>
 							</div>
 						</div>
 						
@@ -1128,17 +1158,25 @@
 								<div class="col-sm-4">
 									<img src="/img/portfolio/mason-de-res.jpg" alt="Mason de Res - (Facebook)" class="img-responsive center-block">
 									Mason de Res - (Facebook)
-                  <div class="addition-desc text-center">
+									<div class="addition-desc text-center">
 										<small class="text-muted">(Google Ads, SNS Operation, SEO Website, Articles)</small>
 									</div>
 								</div>
 								<div class="col-sm-4">
-  								<img src="/img/portfolio/ajapan-sosmed.png" alt="Ajapan Dance Instagram Competition - Waku Waku Japan" class="img-responsive center-block">
-  								Ajapan Dance Instagram Competition - Waku Waku Japan
-                  <div class="addition-desc text-center">
+									<img src="/img/portfolio/ajapan-sosmed.png" alt="Ajapan Dance Instagram Competition - Waku Waku Japan" class="img-responsive center-block">
+									Ajapan Dance Instagram Competition - Waku Waku Japan
+									<div class="addition-desc text-center">
 										<small class="text-muted">(IG Ads, SNS Operation)</small>
 									</div>
-  							</div>
+								</div>
+								<!--<div class="clearfix"></div>
+								<div class="col-sm-4">
+									<img src="/img/portfolio/azalea.png" alt="Azalea" class="img-responsive center-block">
+									Azalea
+									<div class="addition-desc text-center">
+										<small class="text-muted">(SEO, content writing, UX/UI, page speed, search rank)</small>
+									</div>
+								</div>-->
 							</div>
 						</div>
 						

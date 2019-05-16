@@ -143,12 +143,14 @@
 							<div class="characteristic-title">Webサイト（ホームページ）制作実績</div> 
 							<div class="row text-center">
 								<div class="col-sm-4">
-								  <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
-								    Pertamina  
-								  <div class="addition-desc text-left">
-								    UI/UXデザイン (デザイン | HTML/CSSコーディング)
-								    <div class="grey-clr">eラーニング, トレーニング, 資源ビジネス</div>
-								  </div>
+									<a href="https://aiaberbagi.com" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/aia.png" alt="AIA" class="img-responsive center-block">
+										AIA 
+									</a>
+									<div class="addition-desc text-left">
+										Webページ制作 (コーディング | ホスティング)     
+										<div class="grey-clr">モバイル最適化, キャンペーンページ, 保険</div>
+									</div>
 								</div>
 								<div class="col-sm-4">
 									<a href="https://www.bekalhidup.com" target="_blank" rel="noreferrer">
@@ -170,15 +172,14 @@
 									</div>
 								</div>
 								<div class="clearfix"></div>
-								
-							 	<div class="col-sm-4">
-							 		<a href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
-							 			<img src="/img/portfolio/proline.png" alt="PROLINE FINANCE" class="img-responsive center-block">
-							 			PROLINE FINANCE
-							 		</a>
-							 		<div class="addition-desc text-left">CMS WEBサイト制作 (デザイン | コーディング | CMS))<div class="grey-clr">CMS,モバイル対応,金融</div>
-							 		</div>
-							 	</div>
+								<div class="col-sm-4">
+								  <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
+								    Pertamina  
+								  <div class="addition-desc text-left">
+								    UI/UXデザイン (デザイン | HTML/CSSコーディング)
+								    <div class="grey-clr">eラーニング, トレーニング, 資源ビジネス</div>
+								  </div>
+								</div>
 							 	<div class="col-sm-4">
 									<a href="https://jba.co.id/" target="_blank" rel="noreferrer">
 										<img src="/img/portfolio/jba-indonesia.png" alt="JBA INDONESIA" class="img-responsive center-block">
@@ -633,6 +634,25 @@
 									    <div class="grey-clr">WordPress, スマホ最適化, クラブ会員Web, 会議室予約</div>
 									  </div>
 									</div>
+									<div class="col-sm-4">
+										<a href="https://www.jba.co.id/id/poin-rewards" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/jba-lp.png" alt="JBA LP" class="img-responsive center-block">
+											JBA LP
+										</a>
+									  <div class="addition-desc text-left">
+									    Webページ制作 (デザイン | コーディング | CMS) 
+									    <div class="grey-clr"> モバイル最適化, CMS, キャンペーンページ </div>
+									  </div>
+									</div>
+									<div class="clearfix"></div>
+									<div class="col-sm-4">
+										<a href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
+											<img src="/img/portfolio/proline.png" alt="PROLINE FINANCE" class="img-responsive center-block">
+											PROLINE FINANCE
+										</a>
+										<div class="addition-desc text-left">CMS WEBサイト制作 (デザイン | コーディング | CMS))<div class="grey-clr">CMS,モバイル対応,金融</div>
+										</div>
+									</div>
 								</div>
  
 						 </div>
@@ -1055,6 +1075,15 @@
 									</div>
 									VIP Plaza PWA
 								</div>
+								<div class="clearfix"></div>
+								<div class="col-sm-4">
+								  <div class="mobile-app-container">
+									<div class="m-app-item"><img src="/img/portfolio/investindo-1.png" alt="investindo" class="img-responsive center-block"></div>
+									<div class="m-app-item"><img src="/img/portfolio/investindo-2.png" alt="investindo" class="img-responsive center-block"></div>
+									<div class="m-app-item"><img src="/img/portfolio/investindo-3.png" alt="investindo" class="img-responsive center-block"></div>
+								  </div>
+								  Investindo
+								</div>
 							</div>
 						</div>
 						 
@@ -1083,8 +1112,14 @@
 										<small class="text-muted">(IG Ads, SNS Operation)</small>
 									</div>
 								</div>
-								
-								
+								<!--<div class="clearfix"></div>
+								<div class="col-sm-4">
+									<img src="/img/portfolio/azalea.png" alt="Azalea" class="img-responsive center-block">
+									Azalea
+									<div class="addition-desc text-center">
+										<small class="text-muted">(SEO対策、コンテンツ制作、ページ速度、検索順位)</small>
+									</div>
+								</div>-->
 							</div> 
 						</div>
 						<div class="other-portfolio-container  page-part-container">
