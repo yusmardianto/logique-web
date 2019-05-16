@@ -3470,3 +3470,393 @@ video.vd-log{
     .carousel-home-new {padding: 0 25px;}
     .carousel-home-new .carousel-inner>.item {height: auto;}
 }
+
+/* Update Career Page 15-05-2019 */
+
+.career-new {
+    margin: -65px 0 0 95px!important;
+    min-width: -webkit-fill-available;
+    padding-bottom: 0!important;
+}
+.career-new .csection1 {
+    background: #fff;
+    padding: 5em 0 3em;
+}
+.career-new .csection2 {
+    background: #000;
+    padding: 6.5em 0 7em;
+    color: #fff;
+}
+
+.career-new .csection3 {
+    background:#f5f5f5;
+}
+
+.career-new .csection4 {
+    background: #fff;
+    padding: 2em;
+}
+
+.career-new .csection5 {
+    background: #eeeeee;
+    padding: 2em;
+}
+
+.career-new .bg-abu-abu {
+    background: #fff;
+    padding: 2em;
+}
+
+.career-new .csection6 {
+    background: #000;
+    color:rgba(255, 202, 19);
+    padding: 12px;
+}
+
+.career-new .csection7 {
+    background: #fff;
+    padding: 5em 0;
+}
+
+.career-new a.btn.btn-yellow {
+    background: rgba(255, 202, 19, .9);
+    padding: 10px 2em;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.csection3 .img-slideshow {
+    position: absolute;
+    display: inline;
+}
+
+.csection3 .text-message {
+    background: #000;
+    width: 300px;
+    font-size: 24px;
+    color: rgba(255, 202, 19);
+    padding: 5px;
+}
+
+.csection4 .icon {
+font-size: 40px;
+color: orange;
+float: left;
+position: relative;
+top: 10px;
+margin-bottom: 1em;
+}
+
+.csection4 .content {
+margin-top: 0px;
+margin-left: 60px;
+}
+
+.csection5 .margin-fix {
+    margin-top: -70px;
+    z-index: 0;
+}
+
+.csection8 {
+    background: #f9f9f9;
+    padding: 2em 0 3em;
+}
+
+.p-t-5em {
+    padding-top: 5em;
+}
+
+.csection5 .box-FE {
+    background: #fff;
+    border-radius: 1.5em;
+    width: 250px;
+    padding: 5px;
+    margin: auto;
+}
+
+.csection5 .grafik2 {
+    position: absolute;
+    left: 0;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+.csection5 .box-visi {
+    background: #fff;
+    padding: 2em;
+    box-shadow: 0 0 15px #848484;
+    text-align: center;
+}
+
+.csection5 .kuning_ {
+    background: rgba(255, 202, 19, .9);
+    height: 490px;
+}
+
+.csection5 .margin_ {
+    margin-top:1em;
+    height: 460px;
+}
+.csection5 .w100 {width: 100%;}
+
+.csection6 h1 {
+    font-size: 30px;
+}
+
+.csection7 .panel-body {
+    background: rgba(255, 202, 19);
+}
+
+.csection7 .panel-footer {
+    background:#fff;
+}
+
+.csection7 .panel-default {
+    border-color:#b2b2b2;
+}
+
+.csection7 .panel-body h3 {
+    font-size: 22px;
+    font-weight: normal;
+}
+
+.csection7 .panel-body .map {
+    position: absolute;
+    right: 16px;
+    background: #000;
+    color: #fff;
+    padding: 5px 10px;
+    margin-top: -15px;
+    border-radius: 0 2px 0 5px;
+}
+
+.csection7 .panel-body .boxfull {
+    background: #7ca72d;
+    width: max-content;
+    padding: 0 1em;
+    color: #fff;
+    margin-bottom: -15px;
+}
+
+.csection7 .panel-footer .btn-apply {
+    background: rgba(255, 202, 19);
+    color:#000;
+    border-radius: 0;
+    font-size: 16px;
+    padding: 7px 1.8em;
+    margin: 0 5px;
+}
+.csection7 .panel-footer .btn-detail {
+    background: #000;
+    color:#fff;
+    border-radius: 0;
+    font-size: 16px;
+    padding: 7px 1.8em;
+    margin: 0 5px;
+}
+
+.csection7 .panel-footer p {
+    height: 36px;
+    margin-left: 5px;
+}
+
+.csection7 .panel-footer p img {
+    vertical-align: sub;
+}
+
+.csection7 .bg-lowongan {
+    background: url(../img/career/bottom.png);
+    padding: 1.3em 2em;
+    margin-top: 2em;
+}
+
+.csection7 .btn-lihat-keseharian {
+    padding: 1em;
+    background: #000;
+    color: #fff;
+    font-size: 16px;
+    margin: auto;
+    margin-top: 1.1em;
+}
+
+.csection8 .box-faq {
+    background: #fff;
+    padding: 1em 2em;
+    margin: 10px 0 15px;
+}
+
+.csection1 h1 {
+    line-height: normal;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px 0 10px 2em;
+}
+
+.csection1 p {
+    margin: 0 0 10px 4em;
+}
+
+.csection1 .btn-yellow {
+    margin-left: 3.2em!important;
+}
+.csection2 h1 {
+    font-size: 28px;
+    margin-bottom: 1em;
+}
+.csection4 h2 {
+    font-size: 26px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.csection4 h3 {
+    font-size: 22px;
+    margin-top: 15px;
+}
+.csection4 .content p {
+    font-size: 18px;
+    padding: 40px 1em 0;
+    line-height: normal;
+}
+
+.csection5 .style1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.csection5 .style2 {
+    margin-left: 8em;
+    font-size: 18px;
+    line-height: 1.3;
+}
+
+.csection5 .boximg-fe {
+    padding: 1em 2em;
+}
+
+.csection5 .boximg-fe p {
+    height: 100px;
+}
+
+.csection5 .img-grafik_ {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.csection5 .visi__ {
+    margin: 1em;
+}
+.csection5 .visi___ {
+    margin: 1.5em;
+}
+.csection5 .visi____ {
+    margin: 1.5em 0 0;
+}
+.csection5 .jika-ada-class {margin-bottom: 3em;}
+
+.csection5 .img-icon-xx {
+    margin-bottom: 1em;
+}
+
+.csection5 .img-icon-h3 {
+    font-size: 20px;
+    line-height: normal;
+    padding-bottom: 2em;
+}
+
+.csection5 .box-visi p {
+    font-size: 18px;
+    line-height: 1.4;
+}
+.csection5 .box-visi img {
+    margin: 15px 0;
+}
+
+.csection7 .panel-body img {
+    margin-top: 2em;
+}
+
+.sliderx_ {
+    margin-top: 2em;
+    text-align: left;
+    line-height: 1.5;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.sliderx__ {
+    text-align: left;
+    margin: 1em 0;
+    font-style: italic;
+}
+
+.img-people_ {
+    margin-left: -11em;
+    height: 485px;
+}
+
+.pull-rows {
+    padding-left: 4em;
+}
+
+.benefits-margin {margin-bottom: 5px!important;}
+.carousel-inner {
+    overflow: unset;
+}
+
+.carousel-indicators .active{background: #f4cb54;border: solid #f4cb54;}
+.carousel-indicators li {background: #cdcdcd;border: solid #cdcdcd;}
+#jobvacancy .div-job {
+    text-align: left;
+}
+.csection8 .box-faq h3 {font-size: 22px;line-height: normal;}
+.csection8 .box-faq p {margin-left: 1em;margin-top: 8px;}
+
+.csection3 .carousel-indicators {
+    width: 113px;
+    left: unset;
+    right: 5em;
+}
+
+.csection7 .div-job {
+    text-align: left;
+}
+
+.modal-body .box-faq h4 {margin-top: 10px;}
+
+@media (max-width: 768px) {
+    .career-new {margin: auto!important;}
+    .csection5 .margin-fix {display: none;}
+    .csection5 .img-grafik_ img {width: 100%;}
+    .csection5 .grafik2 {top: 0;margin-left: auto;}
+    .career-new .csection1 {padding: 0;}
+    .csection1 h1 {margin: 25px 0 10px;font-size: 20px;}
+    .csection1 p {margin:10px 0 10px;font-size: 16px;}
+    .csection1 .btn-yellow {margin-left: auto!important;width: 100%;margin-bottom: 1em!important;}
+    .career-new .csection2 {padding: 4em 0 4em;}
+    .img-people_ {margin-left: auto;width: 200px;margin: 20px;height: auto;}
+    .csection3 .text-message{width:100%;}
+    .career-new a.btn.btn-yellow {float: none!important;margin-bottom: 6em;font-size: 14px;}
+    .csection4 .col-md-4 img {width: 100%;}
+    .pull-rows {padding-left: 0;}
+    .csection4 .icon {margin-bottom: 0;}
+    .csection4 .content p {font-size: 16px;}
+    .career-new .csection4 .pull-rows .col-md-4 {margin-bottom: 2em;}
+    .csection5 .style2 {margin-left:auto;font-size: 16px;}
+    .p-t-5em {padding-top: 1em;}
+    .wizart-m_ {padding: 1.5em 3em;border: solid 1px #fff;width: 100%;margin: 1em 0;}
+    .contain-video {max-width: 0;}
+    .keuntungan_m {margin-bottom: 2em;}
+    html {overflow-x: hidden!important;}
+    .csection5 .kuning_ {margin-top:15px;height: auto;}
+    .csection5 .box-visi p {font-size: 14px;}
+    .csection5 .margin_{height: auto;}
+    .career-new .csection7 {padding: 1em 0;}
+    .csection6 h1 {font-size: 20px;}
+    .csection7 .panel-body img {margin-top: 0;}
+    .box-faq h3 {line-height: 1;}
+    .carousel-indicators {margin-bottom: 20px;right: 44%!important;left: 66%!important;}
+    .csection8 .box-faq h3 {font-size: 18px;}
+    .csection8 .box-faq p {margin-left: 0;}
+}
