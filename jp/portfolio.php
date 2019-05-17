@@ -1112,14 +1112,28 @@
 										<small class="text-muted">(IG Ads, SNS Operation)</small>
 									</div>
 								</div>
-								<!--<div class="clearfix"></div>
+								<div class="clearfix"></div>
+								<div class="col-sm-4">
+									<img src="/img/portfolio/60jpid-DM.png" alt="Azalea" class="img-responsive center-block">
+									日本インドネシア国交樹立60周年記念事業
+									<div class="addition-desc text-center">
+										<small class="text-muted">(SNSマーケティング, フェイスブック広告, インスタグラム広告, Youtube広告, ソーシャルメディア)</small>
+									</div>
+								</div>
+								<div class="col-sm-4">
+									<img src="/img/portfolio/japan-embassy-DM.png" alt="Azalea" class="img-responsive center-block">
+									在インドネシア日本国大使館
+									<div class="addition-desc text-center">
+										<small class="text-muted">(SNSマーケティング, SNS運用, SNS広告, インスタグラム広告, フェイスブック広告, ソーシャルメディア)</small>
+									</div>
+								</div>
 								<div class="col-sm-4">
 									<img src="/img/portfolio/azalea.png" alt="Azalea" class="img-responsive center-block">
-									Azalea
+									Azalea Suites
 									<div class="addition-desc text-center">
 										<small class="text-muted">(SEO対策、コンテンツ制作、ページ速度、検索順位)</small>
 									</div>
-								</div>-->
+								</div>
 							</div> 
 						</div>
 						<div class="other-portfolio-container  page-part-container">
