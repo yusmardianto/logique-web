@@ -2914,6 +2914,7 @@ blockquote::before {
     border:0;
     border-radius: 20px;
 }
+.mobile-app-container .slick-dots li.slick-active button{background: #ffca13;}
 .m-app-item img{
 
 }
