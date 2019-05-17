@@ -69,7 +69,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="joinus.php">
+							<a href="/career/">
 								<div class="img-career"></div>
 								採用/<br>パートナー
 							</a>
@@ -256,7 +256,7 @@
 						<div class="banner-container">
 							  <div class="row" >
 							  	<div class="col-sm-6">
-							  		<a href="joinus.php">
+							  		<a href="/career/">
 							  			<img src="../img/job-banner-sm.png" alt="Job banner" class="img-responsive">
 							  		</a>
 							  	</div>

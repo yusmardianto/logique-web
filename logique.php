@@ -67,7 +67,7 @@
                             </a>
                         </div>
             <div class="text-center">
-              <a href="karir.php">
+              <a href="/career/">
                 <div class="img-career"></div>
                 Karir
               </a>

@@ -64,7 +64,7 @@ twq('track','PageView');
 						 		</ul>
 						 	</li>
 						 	<li><a href="/portofolio.php">Portofolio</a></li>
-						 	<li  class="have-submenu"><a href="/karir.php">Karir</a>
+						 	<li  class="have-submenu"><a href="/career/">Karir</a>
 						 		<ul>
 						 			<li><a href="/career/">Join LOGIQUE</a></li>
 						 		</ul>

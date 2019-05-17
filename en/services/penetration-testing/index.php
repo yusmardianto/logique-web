@@ -312,7 +312,7 @@
 							<a href="about.php">About Us</a><br/><br/>
 							<a href="portfolio.php">Portfolio</a><br/><br/>
 							<a href="services.php">Service</a><br/><br/>
-							<a href="joinus.php">Career</a><br/><br/>
+							<a href="/career/">Career</a><br/><br/>
 							<a href="/career/">Join LOGIQUE</a><br/><br/>
 							<a href="contact.php">Contact Us</a><br/>
 						</div>

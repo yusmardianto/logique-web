@@ -67,7 +67,7 @@
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="joinus.php">
+							<a href="/career/">
 								<div class="img-career"></div>
 								Career
 							</a>

@@ -69,7 +69,7 @@
 							</a>
 						</div>
 						<div class="text-center active">
-							<a href="joinus.php">
+							<a href="/career/">
 								<div class="img-career"></div>
 								Career
 							</a>
