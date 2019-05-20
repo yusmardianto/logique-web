@@ -23,7 +23,7 @@ if(isset($_POST['submitted']))
         $responseData = json_decode($verifyResponse);
         if ($responseData->success) {
             if ($formproc->ProcessForm()) {
-                $msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+                $msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us an inquiry!</div>";
             }
         } else {
             $msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
@@ -42,6 +42,7 @@ if(isset($_POST['submitted']))
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="LOGIQUE bisa membantu Anda dalam pembuatan website dan aplikasi mobile untuk bisnis klinik gigi dengan tampilan profesional dan user friendly. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
 		<meta name="keywords" content="website dental, dokter gigi, klinik gigi, jasa website dental dan klinik dental, logique">
+		<meta name="title" content="Cari Dokter">
 		<meta name="author" content="Logique Digital Indonesia">
 		<meta itemprop="name" content="PT. Logique Digital Indonesia">
 		<meta property="og:title" content="Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia">
@@ -58,23 +59,28 @@ if(isset($_POST['submitted']))
 		<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
 	<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		function recaptcha_callback() {
+			$('#kirim-form-klinik-gigi').removeAttr('disabled');
+		};
+	</script>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-ga('create', 'UA-105878648-1', 'auto');
-ga('send', 'pageview');
+		ga('create', 'UA-105878648-1', 'auto');
+		ga('send', 'pageview');
+	</script>
 
-</script>
 	<!-- Twitter universal website tag code -->
 	<script>
-	!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
-	},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
-	a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
-	// Insert Twitter Pixel ID and Standard Event data below
-	twq('init','o0xru');
-	twq('track','PageView');
+		!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+		},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+		a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+		// Insert Twitter Pixel ID and Standard Event data below
+		twq('init','o0xru');
+		twq('track','PageView');
 	</script>
 	<!-- End Twitter universal website tag code -->
 </head>
@@ -144,9 +150,9 @@ ga('send', 'pageview');
 				</div>
 				<div class="container">
 					<div class="row">
-						<div class="col-md-7 col-sm-7 text-center">
+						<div class="col-md-7 col-sm-7 text-center header-box">
 							<div class="text-box">
-								<div class="text-quote">
+							<div class="text-quote">
 								“Jumlah pasien klinik gigi kami meningkat 30% setiap bulannya setelah kami memiliki website.”
 								</div>
 								<p class="text-p">
@@ -675,44 +681,28 @@ ga('send', 'pageview');
 								<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 								<fieldset><div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div></fieldset>
 								<fieldset>
-									<input type="text" name="name" id="name" class="input-name form-control" aria-label="Name"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Nama">
+									<input type="text" name="name" id="name" class="input-name form-control" aria-label="Name"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Nama" required>
 								</fieldset>
 								<fieldset>
-									<input type="text" name="email" id=" email" class="input-email form-control" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Alamat Email">
+									<input type="text" name="email" id="email" class="input-email form-control" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Alamat Email" required>
 								</fieldset>
 								<fieldset>
 		 
-									<textarea class="textarea-message form-control" name="message" aria-label="Message" placeholder="Pesan"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+									<textarea class="textarea-message form-control" name="message" id="message" aria-label="Message" placeholder="Pesan" required><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</fieldset>
 								<fieldset>
 									 
-									<div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
+									<div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp" data-callback="recaptcha_callback"></div>
 									<div class="clearfix"></div>
 									 
 								</fieldset>  
 								<fieldset class="text-right">
-							 
-									<button type="submit" id="kirim-form-klinik-gigi" class="btn btn-submit submit-button">Kirim</button>
+								<div id="button">
+									<input disabled="disabled" id="kirim-form-klinik-gigi" type="submit" name="submit" class="btn btn-submit submit-button" value="Kirim">
+								</div>
 								</fieldset>
 
-							</form>  
-							<!-- <form>
-								<fieldset>
-									<input type="text" name="name" id="name" class="input-name form-control"  placeholder="Nama">
-								</fieldset>
-								<fieldset>
-									<input type="text" name="email" id=" email" class="input-email form-control"  placeholder="Alamat Email">
-								</fieldset>
-								<fieldset>
-									<input type="text" name="phone" id=" phone" class="input-phone form-control" placeholder="Nomor Hp">
-								</fieldset>
-								<fieldset>
-									<textarea class="textarea-message form-control" name="message" placeholder="Pesan"></textarea>
-								</fieldset>
-								<fieldset class="text-right">
-									<button type="submit" class="btn btn-submit submit-button">Kirim</button>
-								</fieldset>
-							</form> -->
+							</form>
 							</div>
 						</div>
 					</div>
