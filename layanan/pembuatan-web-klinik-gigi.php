@@ -1,4 +1,4 @@
-﻿ <?php 
+﻿<?php 
 require_once("assets/form/fgcontact_dentist.php");
 
 $formproc = new FGContactForm();
@@ -36,25 +36,26 @@ if(isset($_POST['submitted']))
 ?><!DOCTYPE html>
 <html lang="en">
   <head>
+		<?php include '../google/tag-head.php'?>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="LOGIQUE bisa membantu Anda dalam pembuatan website dan aplikasi mobile untuk bisnis klinik gigi dengan tampilan profesional dan user friendly. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
-	<meta name="keywords" content="website dental, dokter gigi, klinik gigi, jasa website dental dan klinik dental, logique">
-	<meta name="author" content="Logique Digital Indonesia">
-	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia">
-	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-web-klinik-gigi.php">
-	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUE bisa membantu Anda dalam pembuatan website dan aplikasi mobile untuk bisnis klinik gigi dengan tampilan profesional dan user friendly. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
-	<!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> -->
+		<meta name="keywords" content="website dental, dokter gigi, klinik gigi, jasa website dental dan klinik dental, logique">
+		<meta name="author" content="Logique Digital Indonesia">
+		<meta itemprop="name" content="PT. Logique Digital Indonesia">
+		<meta property="og:title" content="Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia">
+		<meta property="og:type" content="website">
+		<meta property="og:site_name" content="Logique">
+		<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-web-klinik-gigi.php">
+		<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+		<meta property="og:description" content="LOGIQUE bisa membantu Anda dalam pembuatan website dan aplikasi mobile untuk bisnis klinik gigi dengan tampilan profesional dan user friendly. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
+		<!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> -->
     <title>Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
+		<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="assets/css/style-dentist.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
-	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+		<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
 	<script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -78,6 +79,7 @@ ga('send', 'pageview');
 	<!-- End Twitter universal website tag code -->
 </head>
 	<body class="dentalpage">
+	<?php include '../google/tag-body.php'?>
 		<div class="wrapper">
 			<header class="head-banner">
 				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -690,7 +692,7 @@ ga('send', 'pageview');
 								</fieldset>  
 								<fieldset class="text-right">
 							 
-									<button type="submit" class="btn btn-submit submit-button">Kirim</button>
+									<button type="submit" id="kirim-form-klinik-gigi" class="btn btn-submit submit-button">Kirim</button>
 								</fieldset>
 
 							</form>  
