@@ -23,7 +23,7 @@ if(isset($_POST['submitted']))
         $responseData = json_decode($verifyResponse);
         if ($responseData->success) {
             if ($formproc->ProcessForm()) {
-                $msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+                $msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us an inquiry!</div>";
             }
         } else {
             $msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
@@ -41,7 +41,8 @@ if(isset($_POST['submitted']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="LOGIQUE bisa membantu Anda dalam pembuatan website dan aplikasi mobile untuk bisnis klinik gigi dengan tampilan profesional dan user friendly. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
-		<meta name="keywords" content="website dental, dokter gigi, klinik gigi, jasa website dental dan klinik dental, logique">
+		<meta name="keywords" content="website dental, dokter gigi, klinik gigi, jasa website dental dan klinik dental, logique, buat website dokter, template website dokter, website dokter gigi">
+		<meta name="title" content="Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia">
 		<meta name="author" content="Logique Digital Indonesia">
 		<meta itemprop="name" content="PT. Logique Digital Indonesia">
 		<meta property="og:title" content="Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia">
@@ -58,23 +59,28 @@ if(isset($_POST['submitted']))
 		<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
 	<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		function recaptcha_callback() {
+			$('#kirim-form-klinik-gigi').removeAttr('disabled');
+		};
+	</script>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-ga('create', 'UA-105878648-1', 'auto');
-ga('send', 'pageview');
+		ga('create', 'UA-105878648-1', 'auto');
+		ga('send', 'pageview');
+	</script>
 
-</script>
 	<!-- Twitter universal website tag code -->
 	<script>
-	!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
-	},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
-	a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
-	// Insert Twitter Pixel ID and Standard Event data below
-	twq('init','o0xru');
-	twq('track','PageView');
+		!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+		},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+		a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+		// Insert Twitter Pixel ID and Standard Event data below
+		twq('init','o0xru');
+		twq('track','PageView');
 	</script>
 	<!-- End Twitter universal website tag code -->
 </head>
@@ -144,9 +150,9 @@ ga('send', 'pageview');
 				</div>
 				<div class="container">
 					<div class="row">
-						<div class="col-md-7 col-sm-7 text-center">
+						<div class="col-md-7 col-sm-7 text-center header-box">
 							<div class="text-box">
-								<div class="text-quote">
+							<div class="text-quote">
 								“Jumlah pasien klinik gigi kami meningkat 30% setiap bulannya setelah kami memiliki website.”
 								</div>
 								<p class="text-p">
@@ -167,7 +173,7 @@ ga('send', 'pageview');
 				<div class="container">
 					<h1 class="s-title">Apa pentingnya website pribadi bagi klinik gigi?</h1>
 					<div class="row">
-						<div class="col-md-4 col-md-offset-1 col-sm-8">
+						<div class="col-md-5 col-md-offset-1 col-sm-8">
 							<p>
 							Dengan memiliki website pribadi, Anda dapat memperkenalkan produk dan jasa klinik gigi Anda dengan tampilan yang unik dan berkarakter. Berbeda dengan menggunakan portal kesehatan atau media sosial, Anda dapat memilliki tampilan website yang berbeda dengan yang lain sehingga membuat para pengunjung yang juga pasien potensial tertarik mengunjungi klinik gigi Anda. 
 							Anda juga dapat meningkatkan jumlah pengunjung website melalui Search Engine Optimalization (SEO) jika menggunakan website sendiri. Selain itu, website Anda dapat memberikan informasi kepada pengunjung setiap saat tentang produk atau jasa yang klinik Anda tawarkan. Melalui website pribadi, Anda juga menciptakan brand yang mendorong kredibilitas klinik Anda melesat naik.
@@ -215,7 +221,7 @@ ga('send', 'pageview');
 				<div class="container">
 					<h2 class="s-title">Masalah yang Sering Dihadapi dalam Memiliki Website</h2>
 					<div class="row">
-						<div class="col-md-8 col-md-offset-2">
+						<div class="col-md-10 col-md-offset-1">
 							<div class="row">
 								<div class="col-md-4 col-sm-4 clearfix">
 									<img src="assets/img/img-dentist/new/i-problem1.png" alt="masalah klinik gigi">
@@ -237,9 +243,12 @@ ga('send', 'pageview');
 
 			<section class="solusi">
 				<div class="container">
-					<img src="assets/img/img-dentist/new/solution.png" alt="solusi klinik gigi" class="img-responsive solusi-title">
 					<div class="row">
-						<div class="col-md-8 col-md-offset-2">
+						<img src="assets/img/img-dentist/new/solution.png" alt="solusi klinik gigi" class="img-responsive solusi-title">
+					</div>
+
+					<div class="row">
+						<div class="col-md-10 col-md-offset-1">
 							<div class="row">
 								<div class="col-md-4 col-sm-4 clearfix">
 									<img src="assets/img/img-dentist/new/i-solution1.png" alt="solusi klinik gigi">
@@ -262,7 +271,7 @@ ga('send', 'pageview');
 			<section class="layanan">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-8 col-md-offset-2">
+						<div class="col-md-10 col-md-offset-1">
 							<div class="row">
 								<div class="col-md-4 col-sm-4">
 									<div class="d-layanan l1">
@@ -422,7 +431,7 @@ ga('send', 'pageview');
 			<section class="biaya">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-6 col-md-offset-3">
+						<div class="col-md-8 col-md-offset-2"><br>
 							<h2 class="s-title">Semua masalah diatas dapat diselesaikan melalui website berkualitas hanya dengan:</h2>
 							<div class="price-badge">
 								<img src="assets/img/img-dentist/new/i-tag.png" alt="harga website klinik gigi"> RP. 500,000<sub>/bulan</sub>
@@ -430,7 +439,7 @@ ga('send', 'pageview');
 							<div class="row">
 								<div class="col-md-6 col-sm-6">
 									<h4>Biaya Awal :</h4>
-									<p><b>Rp3.000.000</b> dengan masa kontrak <b>minimal 6 bulan.</b> Sudah termasuk Web Server, Domain, dan SSL.</p>
+									<p><b>Rp3.000.000**</b> dengan masa kontrak <b>minimal 6 bulan.</b> Sudah termasuk Web Server, Domain, dan SSL.</p>
 								</div>
 								<div class="col-md-6 col-sm-6">
 									<h4>Selama Masa Kontrak :</h4>
@@ -439,7 +448,8 @@ ga('send', 'pageview');
 							</div>
 							<div class="row">
 								<div class="col-md-10 col-md-offset-1">
-									<p>** Biaya awal dengan “Blog” adalah Rp5.000.000 <br>Biaya bulanan: Rp9.000.000</p>
+									<p>** Biaya awal dengan “Blog” adalah Rp5.000.000 <br>Biaya bulanan: Rp900.000</p>
+									<p>Dapatkan potongan harga untuk kontrak jangka panjang</p>
 								</div>
 							</div>
 						</div>
@@ -675,44 +685,28 @@ ga('send', 'pageview');
 								<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 								<fieldset><div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div></fieldset>
 								<fieldset>
-									<input type="text" name="name" id="name" class="input-name form-control" aria-label="Name"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Nama">
+									<input type="text" name="name" id="name" class="input-name form-control" aria-label="Name"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Nama" required>
 								</fieldset>
 								<fieldset>
-									<input type="text" name="email" id=" email" class="input-email form-control" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Alamat Email">
+									<input type="text" name="email" id="email" class="input-email form-control" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Alamat Email" required>
 								</fieldset>
 								<fieldset>
 		 
-									<textarea class="textarea-message form-control" name="message" aria-label="Message" placeholder="Pesan"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+									<textarea class="textarea-message form-control" name="message" id="message" aria-label="Message" placeholder="Pesan" required><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</fieldset>
 								<fieldset>
 									 
-									<div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
+									<div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp" data-callback="recaptcha_callback"></div>
 									<div class="clearfix"></div>
 									 
 								</fieldset>  
 								<fieldset class="text-right">
-							 
-									<button type="submit" id="kirim-form-klinik-gigi" class="btn btn-submit submit-button">Kirim</button>
+								<div id="button">
+									<input disabled="disabled" id="kirim-form-klinik-gigi" type="submit" name="submit" class="btn btn-submit submit-button" value="Kirim">
+								</div>
 								</fieldset>
 
-							</form>  
-							<!-- <form>
-								<fieldset>
-									<input type="text" name="name" id="name" class="input-name form-control"  placeholder="Nama">
-								</fieldset>
-								<fieldset>
-									<input type="text" name="email" id=" email" class="input-email form-control"  placeholder="Alamat Email">
-								</fieldset>
-								<fieldset>
-									<input type="text" name="phone" id=" phone" class="input-phone form-control" placeholder="Nomor Hp">
-								</fieldset>
-								<fieldset>
-									<textarea class="textarea-message form-control" name="message" placeholder="Pesan"></textarea>
-								</fieldset>
-								<fieldset class="text-right">
-									<button type="submit" class="btn btn-submit submit-button">Kirim</button>
-								</fieldset>
-							</form> -->
+							</form>
 							</div>
 						</div>
 					</div>
