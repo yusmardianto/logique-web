@@ -41,8 +41,8 @@ if(isset($_POST['submitted']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="LOGIQUE bisa membantu Anda dalam pembuatan website dan aplikasi mobile untuk bisnis klinik gigi dengan tampilan profesional dan user friendly. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
-		<meta name="keywords" content="website dental, dokter gigi, klinik gigi, jasa website dental dan klinik dental, logique">
-		<meta name="title" content="Cari Dokter">
+		<meta name="keywords" content="website dental, dokter gigi, klinik gigi, jasa website dental dan klinik dental, logique, buat website dokter, template website dokter, website dokter gigi">
+		<meta name="title" content="Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia">
 		<meta name="author" content="Logique Digital Indonesia">
 		<meta itemprop="name" content="PT. Logique Digital Indonesia">
 		<meta property="og:title" content="Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia">
