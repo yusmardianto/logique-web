@@ -1037,6 +1037,7 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	text-align: center;
 	background-color: #dbe9f9;
 	position: relative;
+	width: 100%;
 }
 .solusi-title {
 	position: absolute;
