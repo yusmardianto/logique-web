@@ -40,8 +40,8 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" content="LOGIQUE bisa membantu Anda dalam pembuatan website dan aplikasi mobile untuk bisnis klinik gigi dengan tampilan profesional dan user friendly. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
-		<meta name="keywords" content="website dental, dokter gigi, klinik gigi, jasa website dental dan klinik dental, logique, buat website dokter, template website dokter, website dokter gigi">
+    <meta name="description" content="LOGIQUE bisa membantu Anda dalam pembuatan website untuk bisnis klinik gigi dengan tampilan yang user friendly, unik dan modern. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
+		<meta name="keywords" content="klinik dokter gigi, klinik gigi jakarta, dental klinik, website klinik gigi, website templates, template design, pembuatan website klinik gigi, family dental clinic">
 		<meta name="title" content="Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia">
 		<meta name="author" content="Logique Digital Indonesia">
 		<meta itemprop="name" content="PT. Logique Digital Indonesia">
@@ -50,7 +50,7 @@ if(isset($_POST['submitted']))
 		<meta property="og:site_name" content="Logique">
 		<meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-web-klinik-gigi.php">
 		<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-		<meta property="og:description" content="LOGIQUE bisa membantu Anda dalam pembuatan website dan aplikasi mobile untuk bisnis klinik gigi dengan tampilan profesional dan user friendly. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
+		<meta property="og:description" content="LOGIQUE bisa membantu Anda dalam pembuatan website untuk bisnis klinik gigi dengan tampilan yang user friendly, unik dan modern. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
 		<!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> -->
     <title>Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia</title>
 		<link href="/css/bootstrap.min.css" rel="stylesheet">	 
@@ -224,15 +224,15 @@ if(isset($_POST['submitted']))
 						<div class="col-md-10 col-md-offset-1">
 							<div class="row">
 								<div class="col-md-4 col-sm-4 clearfix">
-									<img src="assets/img/img-dentist/new/i-problem1.png" alt="masalah klinik gigi">
+									<img src="assets/img/img-dentist/new/i-problem1.png" alt="masalah klinik gigi 1">
 									<p>Tidak tahu bagaimana membuat website</p>
 								</div>
 								<div class="col-md-4 col-sm-4 clearfix">
-									<img src="assets/img/img-dentist/new/i-problem2.png" alt="masalah klinik gigi">
+									<img src="assets/img/img-dentist/new/i-problem2.png" alt="masalah klinik gigi 2">
 									<p>Tidak punya staff yang mengurus website</p>
 								</div>
 								<div class="col-md-4 col-sm-4 clearfix">
-									<img src="assets/img/img-dentist/new/i-problem3.png" alt="masalah klinik gigi">
+									<img src="assets/img/img-dentist/new/i-problem3.png" alt="masalah klinik gigi 3">
 									<p>Terlalu mahal untuk membuat dan mengembangkan website</p>
 								</div>
 							</div>
@@ -251,15 +251,15 @@ if(isset($_POST['submitted']))
 						<div class="col-md-10 col-md-offset-1">
 							<div class="row">
 								<div class="col-md-4 col-sm-4 clearfix">
-									<img src="assets/img/img-dentist/new/i-solution1.png" alt="solusi klinik gigi">
+									<img src="assets/img/img-dentist/new/i-solution1.png" alt="solusi klinik gigi 1">
 									<p>Sampaikan kepada kami website seperti apa yang diharapkan, dengan tim profesional kami akan membantu Anda mewujudkannya.</p>
 								</div>
 								<div class="col-md-4 col-sm-4 clearfix">
-									<img src="assets/img/img-dentist/new/i-solution2.png" alt="solusi klinik gigi">
+									<img src="assets/img/img-dentist/new/i-solution2.png" alt="solusi klinik gigi 2">
 									<p>Layanan yang kami berikan sudah termasuk pengelolaan, sehingga Anda dapat fokus lebih banyak pada bisnis klinik gigi Anda.</p>
 								</div>
 								<div class="col-md-4 col-sm-4 clearfix">
-									<img src="assets/img/img-dentist/new/i-solution3.png" alt="solusi klinik gigi">
+									<img src="assets/img/img-dentist/new/i-solution3.png" alt="solusi klinik gigi 3">
 									<p>Hanya dengan Rp500.000/bulan website klinik gigi Anda melakukan promosi mandiri 24/7.</p>
 								</div>
 							</div>
@@ -281,14 +281,14 @@ if(isset($_POST['submitted']))
 								</div>
 								<div class="col-md-4 col-sm-4">
 									<div class="d-layanan l1">
-										<img src="assets/img/img-dentist/new/i-service1.png" alt="layanan website klinik gigi" class="img-fluid">
+										<img src="assets/img/img-dentist/new/i-service1.png" alt="layanan website klinik gigi 1" class="img-fluid">
 										<div class="l-title"><h4>SEO</h4></div>
 										<p>SEO memudahkan orang untuk menemukan website Anda di posisi teratas dalam pencarian Google sehingga klinik gigi Anda dapat lebih dikenal dengan mudah.</p>
 									</div>
 								</div>
 								<div class="col-md-4 col-sm-4">
 									<div class="d-layanan l1">
-										<img src="assets/img/img-dentist/new/i-service2.png" alt="layanan website klinik gigi" class="img-fluid">
+										<img src="assets/img/img-dentist/new/i-service2.png" alt="layanan website klinik gigi 2" class="img-fluid">
 										<div class="l-title"><h4>Mempermudah Pencarian Klinik</h4></div>
 										<p>Memudahkan pengguna dalam menemukan lokasi klinik gigi Anda ketika melakukan pencarian di Google. Dengan begitu, pasien potensial klinik gigi Anda akan bertambah.</p>
 									</div>
@@ -297,21 +297,21 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-4 col-sm-4">
 									<div class="d-layanan">
-										<img src="assets/img/img-dentist/new/i-service3.png" alt="layanan website klinik gigi">
+										<img src="assets/img/img-dentist/new/i-service3.png" alt="layanan website klinik gigi 3">
 										<div class="l-title"><h4>Terhubung dengan Social Media</h4></div>
 										<p>Orang-orang yang melihat akun sosial media Anda dapat dialihkan ke website klinik gigi Anda dengan menggunakan hyperlink. Di sana mereka dapat menemukan informasi klinik gigi Anda secara langsung dan terpusat.</p>
 									</div>
 								</div>
 								<div class="col-md-4 col-sm-4">
 									<div class="d-layanan">
-										<img src="assets/img/img-dentist/new/i-service4.png" alt="layanan website klinik gigi">
+										<img src="assets/img/img-dentist/new/i-service4.png" alt="layanan website klinik gigi 4">
 										<div class="l-title"><h4>Internet AD</h4></div>
 										<p>Website klinik gigi Anda dapat menjadi landing page atas segala aktivitas marketing, seperti online advertising.</p>
 									</div>
 								</div>
 								<div class="col-md-4 col-sm-4">
 									<div class="d-layanan">
-										<img src="assets/img/img-dentist/new/i-service5.png" alt="layanan website klinik gigi">
+										<img src="assets/img/img-dentist/new/i-service5.png" alt="layanan website klinik gigi 5">
 										<div class="l-title"><h4>Non-stop Effortless Marketing</h4></div>
 										<p>Website klinik gigi Anda akan menjalankan aktivitas promosi di dunia digital secara non-stop walaupun klinik Anda telah tutup.</p>
 									</div>
@@ -463,19 +463,19 @@ if(isset($_POST['submitted']))
 					<h2 class="s-title">Ingin situs klinik anda lebih dikenal?</h2>
 					<div class="row">
 						<div class="col-md-2 col-md-offset-2 col-sm-3 col-xs-6">
-							<img src="assets/img/img-dentist/new/i-situs1.png" alt="situs klinik gigi">
+							<img src="assets/img/img-dentist/new/i-situs1.png" alt="situs klinik gigi 1">
 							<h4>SNS Operation</h4>
 						</div>
 						<div class="col-md-2 col-sm-3 col-xs-6">
-							<img src="assets/img/img-dentist/new/i-situs2.png" alt="situs klinik gigi">
+							<img src="assets/img/img-dentist/new/i-situs2.png" alt="situs klinik gigi 2">
 							<h4>Digital Marketing</h4>
 						</div>
 						<div class="col-md-2 col-sm-3 col-xs-6">
-							<img src="assets/img/img-dentist/new/i-situs3.png" alt="situs klinik gigi">
+							<img src="assets/img/img-dentist/new/i-situs3.png" alt="situs klinik gigi 3">
 							<h4>CRM System</h4>
 						</div>
 						<div class="col-md-2 col-sm-3 col-xs-6">
-							<img src="assets/img/img-dentist/new/i-situs4.png" alt="situs klinik gigi">
+							<img src="assets/img/img-dentist/new/i-situs4.png" alt="situs klinik gigi 4">
 							<h4>Mobile App</h4>
 						</div>
 					</div>
@@ -519,7 +519,7 @@ if(isset($_POST['submitted']))
 								<span class="title-desc">Berikut <strong>layanan solusi</strong> yang kami tawarkan</span>
 						</div>
 						<div class="col-sm-4 solutionfeature-item">
-							<img src="assets/img/img-dentist/screen.png" class="solution-feature-icon">
+							<img src="assets/img/img-dentist/screen.png" alt="solution feature icon1" class="solution-feature-icon">
 							<h3>EFFECTIVE<br/>PROMOTION
 								<div class="yellowbar"></div>
 							</h3>
@@ -532,7 +532,7 @@ if(isset($_POST['submitted']))
 							</div>
 						</div>
 						<div class="col-sm-4 solutionfeature-item">
-							<img src="assets/img/img-dentist/social-media.png" class="solution-feature-icon">
+							<img src="assets/img/img-dentist/social-media.png" alt="solution feature icon2" class="solution-feature-icon">
 							<h3>ONLINE REPUTATION <br>MANAGEMENT
 								<div class="yellowbar"></div>
 							</h3>
@@ -546,7 +546,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="row">
 						<div class="col-sm-4 solutionfeature-item">
-							<img src="assets/img/img-dentist/domain-registration.png" class="solution-feature-icon">
+							<img src="assets/img/img-dentist/domain-registration.png" alt="solution feature icon3" class="solution-feature-icon">
 							<h3>EXCLUSIVE DESIGN<br>& DOMAIN NAME
 								<div class="yellowbar"></div>
 							</h3>
@@ -561,7 +561,7 @@ if(isset($_POST['submitted']))
 							</div>
 						</div>
 						<div class="col-sm-4 solutionfeature-item">
-							<img src="assets/img/img-dentist/blogging.png" class="solution-feature-icon">
+							<img src="assets/img/img-dentist/blogging.png" alt="solution feature icon4" class="solution-feature-icon">
 							<h3>EASY CONSULTATION <br>APPOINTMENT
 								<div class="yellowbar"></div>
 							</h3>
@@ -573,7 +573,7 @@ if(isset($_POST['submitted']))
 							</div>
 						</div>
 						<div class="col-sm-4 solutionfeature-item">
-							<img src="assets/img/img-dentist/viral-marketing.png" class="solution-feature-icon">
+							<img src="assets/img/img-dentist/viral-marketing.png" alt="solution feature icon5" class="solution-feature-icon">
 							<h3>NON-STOP EFFORTLESS<br>MARKETING
 								<div class="yellowbar"></div>
 							</h3>
@@ -593,7 +593,7 @@ if(isset($_POST['submitted']))
 					<div class="container">
 						<div class="row">
 							<div class="col-md-8 col-sm-6">
-								<img src="assets/img/img-dentist/priceandfeature-banner.png" class="img-responsive">
+								<img src="assets/img/img-dentist/priceandfeature-banner.png" alt="price-and-feature-banner" class="img-responsive">
 							</div>
 							<div class="col-md-4 col-sm-5">
 								<div class="price-cont">
