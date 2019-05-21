@@ -159,12 +159,12 @@ if(isset($_POST['submitted']))
 								Di era digital, ada banyak orang yang mencari klinik gigi yang terbaik melalui Internet. Oleh sebab itu, penting bagi klinik gigi dalam memiliki website berkualitas untuk memperoleh serta menjangkau pasien secara luas dan efektif.
 								</p>
 							</div>
-							<a href="#contact-info" class="btn btn-consult smooth">Konsultasi Gratis Sekarang ! <img src="assets/img/img-dentist/new/i-btn.png" alt="ring icon"></a>
+							<a href="#contact-info" class="btn btn-consult smooth">Konsultasi Gratis Sekarang ! <img src="assets/img/img-dentist/new/i-btn.png" alt="konsultasi gratis"></a>
 						</div>
 					</div>
 				</div>
 			<div class="arraw-down text-center">
-				<a href="#poin" aria-label="Pentingnya website pribadi klinik gigi" class="smooth"><img src="assets/img/img-dentist/new/arrow.png" alt="Arrow"></a>
+				<a href="#poin" aria-label="Pentingnya website pribadi klinik gigi" class="smooth"><img src="assets/img/img-dentist/new/arrow.png" alt="dentist web"></a>
 			</div>	
 			<img src="assets/img/img-dentist/new/drg.png" alt="dokter gigi" class="drg">
 			</header>
@@ -188,7 +188,7 @@ if(isset($_POST['submitted']))
 						<div class="col-md-5">
 							<div class="stats">
 								<div class="clearfix">
-									<img src="assets/img/img-dentist/new/i-d1.png" alt="diagram 1">
+									<img src="assets/img/img-dentist/new/i-d1.png" alt="dentist statistic">
 									<ul>
 										<li>Cara Pasien Mencari Klinik Gigi:</li>
 										<li class="c1">Digital (Online)</li>
@@ -201,7 +201,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="stats">
 								<div class="clearfix">
-									<img src="assets/img/img-dentist/new/i-d2.png" alt="diagram 2">
+									<img src="assets/img/img-dentist/new/i-d2.png" alt="dentist diagram">
 									<ul>
 										<li>Pencarian Secara Online:</li>
 										<li class="c1">Google Search</li>
@@ -224,15 +224,15 @@ if(isset($_POST['submitted']))
 						<div class="col-md-10 col-md-offset-1">
 							<div class="row">
 								<div class="col-md-4 col-sm-4 clearfix">
-									<img src="assets/img/img-dentist/new/i-problem1.png" alt="masalah klinik gigi 1">
+									<img src="assets/img/img-dentist/new/i-problem1.png" alt="clinic problem">
 									<p>Tidak tahu bagaimana membuat website</p>
 								</div>
 								<div class="col-md-4 col-sm-4 clearfix">
-									<img src="assets/img/img-dentist/new/i-problem2.png" alt="masalah klinik gigi 2">
+									<img src="assets/img/img-dentist/new/i-problem2.png" alt="masalah klinik">
 									<p>Tidak punya staff yang mengurus website</p>
 								</div>
 								<div class="col-md-4 col-sm-4 clearfix">
-									<img src="assets/img/img-dentist/new/i-problem3.png" alt="masalah klinik gigi 3">
+									<img src="assets/img/img-dentist/new/i-problem3.png" alt="dentist problem">
 									<p>Terlalu mahal untuk membuat dan mengembangkan website</p>
 								</div>
 							</div>
@@ -251,15 +251,15 @@ if(isset($_POST['submitted']))
 						<div class="col-md-10 col-md-offset-1">
 							<div class="row">
 								<div class="col-md-4 col-sm-4 clearfix">
-									<img src="assets/img/img-dentist/new/i-solution1.png" alt="solusi klinik gigi 1">
+									<img src="assets/img/img-dentist/new/i-solution1.png" alt="solution dentist">
 									<p>Sampaikan kepada kami website seperti apa yang diharapkan, dengan tim profesional kami akan membantu Anda mewujudkannya.</p>
 								</div>
 								<div class="col-md-4 col-sm-4 clearfix">
-									<img src="assets/img/img-dentist/new/i-solution2.png" alt="solusi klinik gigi 2">
+									<img src="assets/img/img-dentist/new/i-solution2.png" alt="more customer dentist">
 									<p>Layanan yang kami berikan sudah termasuk pengelolaan, sehingga Anda dapat fokus lebih banyak pada bisnis klinik gigi Anda.</p>
 								</div>
 								<div class="col-md-4 col-sm-4 clearfix">
-									<img src="assets/img/img-dentist/new/i-solution3.png" alt="solusi klinik gigi 3">
+									<img src="assets/img/img-dentist/new/i-solution3.png" alt="dentist website">
 									<p>Hanya dengan Rp500.000/bulan website klinik gigi Anda melakukan promosi mandiri 24/7.</p>
 								</div>
 							</div>
@@ -281,14 +281,14 @@ if(isset($_POST['submitted']))
 								</div>
 								<div class="col-md-4 col-sm-4">
 									<div class="d-layanan l1">
-										<img src="assets/img/img-dentist/new/i-service1.png" alt="layanan website klinik gigi 1" class="img-fluid">
+										<img src="assets/img/img-dentist/new/i-service1.png" alt="layanan website klinik gigi" class="img-fluid">
 										<div class="l-title"><h4>SEO</h4></div>
 										<p>SEO memudahkan orang untuk menemukan website Anda di posisi teratas dalam pencarian Google sehingga klinik gigi Anda dapat lebih dikenal dengan mudah.</p>
 									</div>
 								</div>
 								<div class="col-md-4 col-sm-4">
 									<div class="d-layanan l1">
-										<img src="assets/img/img-dentist/new/i-service2.png" alt="layanan website klinik gigi 2" class="img-fluid">
+										<img src="assets/img/img-dentist/new/i-service2.png" alt="website solution dentist" class="img-fluid">
 										<div class="l-title"><h4>Mempermudah Pencarian Klinik</h4></div>
 										<p>Memudahkan pengguna dalam menemukan lokasi klinik gigi Anda ketika melakukan pencarian di Google. Dengan begitu, pasien potensial klinik gigi Anda akan bertambah.</p>
 									</div>
@@ -459,23 +459,23 @@ if(isset($_POST['submitted']))
 
 			<section class="situs">
 				<div class="container">
-					<a href="#contact-form" class="smooth"><img src="assets/img/img-dentist/new/MoreInfo-Banner-ind.png" alt="banner" class="s-banner"></a>
+					<a href="#contact-form" class="smooth"><img src="assets/img/img-dentist/new/MoreInfo-Banner-ind.png" alt="website klinik dental" class="s-banner"></a>
 					<h2 class="s-title">Ingin situs klinik anda lebih dikenal?</h2>
 					<div class="row">
 						<div class="col-md-2 col-md-offset-2 col-sm-3 col-xs-6">
-							<img src="assets/img/img-dentist/new/i-situs1.png" alt="situs klinik gigi 1">
+							<img src="assets/img/img-dentist/new/i-situs1.png" alt="promosi klinik gigi">
 							<h4>SNS Operation</h4>
 						</div>
 						<div class="col-md-2 col-sm-3 col-xs-6">
-							<img src="assets/img/img-dentist/new/i-situs2.png" alt="situs klinik gigi 2">
+							<img src="assets/img/img-dentist/new/i-situs2.png" alt="klinik gigi marketing">
 							<h4>Digital Marketing</h4>
 						</div>
 						<div class="col-md-2 col-sm-3 col-xs-6">
-							<img src="assets/img/img-dentist/new/i-situs3.png" alt="situs klinik gigi 3">
+							<img src="assets/img/img-dentist/new/i-situs3.png" alt="klinik gigi management">
 							<h4>CRM System</h4>
 						</div>
 						<div class="col-md-2 col-sm-3 col-xs-6">
-							<img src="assets/img/img-dentist/new/i-situs4.png" alt="situs klinik gigi 4">
+							<img src="assets/img/img-dentist/new/i-situs4.png" alt="aplikasi klinik gigi">
 							<h4>Mobile App</h4>
 						</div>
 					</div>
@@ -488,7 +488,7 @@ if(isset($_POST['submitted']))
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
 							<h2 class="s-title">Langkah menuju sasaran</h2>
-							<img src="assets/img/img-dentist/new/img-steps.png" alt="langkah mudah" class="img-responsive">
+							<img src="assets/img/img-dentist/new/img-steps.png" alt="langkah mudah web klinik" class="img-responsive">
 						</div>
 					</div>
 				</div>
@@ -519,7 +519,7 @@ if(isset($_POST['submitted']))
 								<span class="title-desc">Berikut <strong>layanan solusi</strong> yang kami tawarkan</span>
 						</div>
 						<div class="col-sm-4 solutionfeature-item">
-							<img src="assets/img/img-dentist/screen.png" alt="solution feature icon1" class="solution-feature-icon">
+							<img src="assets/img/img-dentist/screen.png" alt="seo dentist" class="solution-feature-icon">
 							<h3>EFFECTIVE<br/>PROMOTION
 								<div class="yellowbar"></div>
 							</h3>
@@ -532,7 +532,7 @@ if(isset($_POST['submitted']))
 							</div>
 						</div>
 						<div class="col-sm-4 solutionfeature-item">
-							<img src="assets/img/img-dentist/social-media.png" alt="solution feature icon2" class="solution-feature-icon">
+							<img src="assets/img/img-dentist/social-media.png" alt="google dentist" class="solution-feature-icon">
 							<h3>ONLINE REPUTATION <br>MANAGEMENT
 								<div class="yellowbar"></div>
 							</h3>
@@ -546,7 +546,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="row">
 						<div class="col-sm-4 solutionfeature-item">
-							<img src="assets/img/img-dentist/domain-registration.png" alt="solution feature icon3" class="solution-feature-icon">
+							<img src="assets/img/img-dentist/domain-registration.png" alt="beli website dentist" class="solution-feature-icon">
 							<h3>EXCLUSIVE DESIGN<br>& DOMAIN NAME
 								<div class="yellowbar"></div>
 							</h3>
@@ -561,7 +561,7 @@ if(isset($_POST['submitted']))
 							</div>
 						</div>
 						<div class="col-sm-4 solutionfeature-item">
-							<img src="assets/img/img-dentist/blogging.png" alt="solution feature icon4" class="solution-feature-icon">
+							<img src="assets/img/img-dentist/blogging.png" alt="marketing consult dentist" class="solution-feature-icon">
 							<h3>EASY CONSULTATION <br>APPOINTMENT
 								<div class="yellowbar"></div>
 							</h3>
@@ -573,7 +573,7 @@ if(isset($_POST['submitted']))
 							</div>
 						</div>
 						<div class="col-sm-4 solutionfeature-item">
-							<img src="assets/img/img-dentist/viral-marketing.png" alt="solution feature icon5" class="solution-feature-icon">
+							<img src="assets/img/img-dentist/viral-marketing.png" alt="seo dokter gigi" class="solution-feature-icon">
 							<h3>NON-STOP EFFORTLESS<br>MARKETING
 								<div class="yellowbar"></div>
 							</h3>
@@ -593,7 +593,7 @@ if(isset($_POST['submitted']))
 					<div class="container">
 						<div class="row">
 							<div class="col-md-8 col-sm-6">
-								<img src="assets/img/img-dentist/priceandfeature-banner.png" alt="price-and-feature-banner" class="img-responsive">
+								<img src="assets/img/img-dentist/priceandfeature-banner.png" alt="harga fitur web dental" class="img-responsive">
 							</div>
 							<div class="col-md-4 col-sm-5">
 								<div class="price-cont">
