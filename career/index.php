@@ -143,9 +143,8 @@
 									<!-- Slider 1 -->
 									<div class="row">
 										<div class="col-md-5 text-center">
-											<br>
 											<div class="text-message hidden-sm hidden-md hidden-lg">Message for Candidates</div>
-											<img class="img-people_" src="/img/career/img1.png" />
+											<img class="img-people_" src="/img/career/yoshi.jpg" />
 										</div>
 										<div class="col-md-7 text-center">
 											<div class="text-message hidden-xs">Message for Candidates</div>
@@ -159,7 +158,6 @@
 									<!-- Slider 2 -->
 									<div class="row">
 										<div class="col-md-5 text-center">
-											<br>
 											<div class="text-message hidden-sm hidden-md hidden-lg">Message for Candidates</div>
 											<img class="img-people_" src="/img/career/ghitta.jpg" />
 										</div>
@@ -175,7 +173,6 @@
 									<!-- Slider 3 -->
 									<div class="row">
 										<div class="col-md-5 text-center">
-											<br>
 											<div class="text-message hidden-sm hidden-md hidden-lg">Message for Candidates</div>
 											<img class="img-people_" src="/img/career/muklis.jpg" />
 										</div>
@@ -191,7 +188,6 @@
 									<!-- Slider 4 -->
 									<div class="row">
 										<div class="col-md-5 text-center">
-											<br>
 											<div class="text-message hidden-sm hidden-md hidden-lg">Message for Candidates</div>
 											<img class="img-people_" src="/img/career/taufik.jpg" />
 										</div>
@@ -385,17 +381,17 @@
 							<div class="row">
 								
 								<div class="col-md-4 text-center">
-									<img src="/img/career/menu1.png" />
+									<img src="/img/career/menu1.jpg" />
 									<h3>Bebas Kembangkan Potensi</h3>
 									<p class="keuntungan_m" style=" line-height: 1.5; ">Para anggota tim dibebaskan untuk menggali dan mengeksplor potensi mereka, bahkan hingga di luar lingkup kerjanya, untuk memaksimalkan keahlian yang dimiliki masing-masing individu.</p>
 								</div>
 								<div class="col-md-4 text-center">
-									<img src="/img/career/menu2.png" />
+									<img src="/img/career/menu2.jpg" />
 									<h3>Pertumbuhan Karir</h3>
 									<p class="keuntungan_m" style=" line-height: 1.5; ">Jika Anda memiliki kemampuan yang terus-menerus meningkat, termasuk dalam memimpin suatu tim, Anda bisa dipromosikan langsung tanpa syarat.</p>
 								</div>
 								<div class="col-md-4 text-center">
-									<img src="/img/career/menu3.png" />
+									<img src="/img/career/menu3.jpg" />
 									<h3>Fleksibel</h3>
 									<p class="keuntungan_m" style=" line-height: 1.5; ">Kami bekerja tanpa keterikatan waktu. Anda tidak harus bekerja 8 jam per hari, asalkan dalam seminggu Anda bisa bekerja 40 jam.</p>
 								</div>
@@ -576,18 +572,63 @@
 										<h3 class="text-center visi___">Aktifitas di LOGIQUE</h3>
 								</div>
 							</div>
-							<div class="row">
-								<div class="col-md-3">
-										<img src="/img/career/a1.png" class="w100" />
-								</div>
-								<div class="col-md-3">
-										<img src="/img/career/a2.png" class="w100" />
-								</div>
-								<div class="col-md-3">
-										<img src="/img/career/a3.png" class="w100" />
-								</div>
-								<div class="col-md-3">
-										<img src="/img/career/jogja.jpeg" class="w100" />
+
+							<div class='row' style="overflow:hidden;">
+								<div class='col-md-12'>
+									<div class="carousel slide media-carousel" id="media">
+										<div class="carousel-inner">
+											<div class="item  active">
+												<div class="row">
+													<div class="col-md-3">
+														<a class="thumbnail"><img alt="" src="/img/career/a1.png"></a>
+													</div>          
+													<div class="col-md-3">
+														<a class="thumbnail"><img alt="" src="/img/career/a2.png"></a>
+													</div>
+													<div class="col-md-3">
+														<a class="thumbnail"><img alt="" src="/img/career/a3.png"></a>
+													</div>  
+													<div class="col-md-3">
+														<a class="thumbnail"><img alt="" src="/img/career/jogja.jpeg"></a>
+													</div>        
+												</div>
+											</div>
+											<div class="item">
+												<div class="row">
+													<div class="col-md-3">
+														<a class="thumbnail"><img alt="" src="/img/career/slide1.jpg"></a>
+													</div>          
+													<div class="col-md-3">
+														<a class="thumbnail"><img alt="" src="/img/career/slide2.jpg"></a>
+													</div>
+													<div class="col-md-3">
+														<a class="thumbnail"><img alt="" src="/img/career/slide3.jpg"></a>
+													</div>   
+													<div class="col-md-3">
+														<a class="thumbnail"><img alt="" src="/img/career/slide4.jpg"></a>
+													</div>        
+												</div>
+											</div>
+											<div class="item">
+												<div class="row">
+													<div class="col-md-3">
+														<a class="thumbnail"><img alt="" src="/img/career/slide5.jpg"></a>
+													</div>          
+													<div class="col-md-3">
+														<a class="thumbnail"><img alt="" src="/img/career/slide6.jpg"></a>
+													</div>
+													<div class="col-md-3">
+														<a class="thumbnail"><img alt="" src="/img/career/slide7.jpg"></a>
+													</div>   
+													<div class="col-md-3">
+														<a class="thumbnail"><img alt="" src="/img/career/slide8.jpg"></a>
+													</div>        
+												</div>
+											</div>
+										</div>
+										<a data-slide="prev" href="#media" class="left carousel-control">‹</a>
+										<a data-slide="next" href="#media" class="right carousel-control">›</a>
+									</div>                          
 								</div>
 							</div>
 
@@ -645,7 +686,7 @@
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/lowongan1.png" />
+											<img src="/img/career/accounting.png" />
 											<h3>IT Account Executive</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
@@ -704,7 +745,7 @@
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/lowongan1.png" />
+											<img src="/img/career/consultant.png" />
 											<h3>Lead Consultant</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
@@ -762,7 +803,7 @@
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/lowongan1.png" />
+											<img src="/img/career/sales.png" />
 											<h3>Pre-Sales Consultant</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
@@ -818,7 +859,7 @@
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Jogja</div>
-											<img src="/img/career/lowongan1.png" />
+											<img src="/img/career/fe.png" />
 											<h3>Front End</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
@@ -884,7 +925,7 @@
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Jogja</div>
-											<img src="/img/career/lowongan1.png" />
+											<img src="/img/career/qa.png" />
 											<h3>Quality Assurance</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
@@ -941,7 +982,7 @@
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/lowongan1.png" />
+											<img src="/img/career/tc.png" />
 											<h3>Technical Consultant</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
@@ -1006,7 +1047,7 @@
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/lowongan1.png" />
+											<img src="/img/career/marketing.png" />
 											<h3>Digital Marketing Str...</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
@@ -1077,7 +1118,7 @@
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Jogja</div>
-											<img src="/img/career/lowongan1.png" />
+											<img src="/img/career/contentwriter.png" />
 											<h3>Web Developer</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
@@ -1134,7 +1175,7 @@
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/lowongan1.png" />
+											<img src="/img/career/mobile.png" />
 											<h3>Mobile App Developer</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
@@ -1194,7 +1235,7 @@
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/lowongan1.png" />
+											<img src="/img/career/pm.png" />
 											<h3>Project Manager</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
@@ -1247,7 +1288,7 @@
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/lowongan1.png" />
+											<img src="/img/career/accounting.png" />
 											<h3>Accounting & Tax Off...</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
@@ -1313,7 +1354,7 @@
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/lowongan1.png" />
+											<img src="/img/career/contentwriter.png" />
 											<h3>IT Content Writer</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
@@ -1372,7 +1413,7 @@
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/lowongan1.png" />
+											<img src="/img/career/designer.png" />
 											<h3>Designer</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
