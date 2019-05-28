@@ -3889,6 +3889,124 @@ margin-left: 60px;
 }
 /* End carousel */
 
+.detailcareer .breadcrumb {    
+    background: transparent;
+    padding: 1em 0;
+}
+.detailcareer .breadcrumb a {color: #aaa;}
+.detailcareer1{color: #fff!important;padding: 15px!important;}
+.breadcrumb>li+li:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: ">"!important;
+}
+ol.breadcrumb li a:hover {
+    text-decoration: underline;
+}
+#detail-vacancy .container .row h1 {
+    font-size: 24px;
+    text-transform: uppercase;
+    line-height: 2;
+}
+#detail-vacancy .container .row img {
+    vertical-align: bottom;
+}
+.btn-detail-vacancy {
+    padding: 6px 2em;
+    margin-top: 5px;
+    background: #fff;
+    color: red;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+.btn-detail-vacancy img {height: 26px;}
+.btn-detail-vacancy:hover {opacity: 0.8;}
+#detail-vacancy .content-vacancy {}
+.detailcareer .csection7 {padding: 1.5em;}
+.detailcareer hr {border-top: 2px solid #777;}
+.content-vacancy .desc-job {
+    padding-left: 8em;
+    padding-right: 8em;
+}
+.detailcareer .content-vacancy h3 {
+    font-size: 20px;
+}
+.detailcareer .getN {font-size: 22px; font-weight: normal;}
+.detailcareer .joinus-ul {
+    padding-left: 50px;
+}
+.detailcareer .joinus-ul li {
+    padding-left: 1em;
+}
+.detailcareer .btn-yellow {
+    padding: 8px 4em!important;
+    text-transform: uppercase;
+}
+
+.detailcareer .panel-default {margin-bottom: 0;}
+.detailcareer .seemore_ {
+    padding: 7em 2em;
+}
+.detailcareer .seemore_ a {
+    color: #333;
+}
+.detailcareer .seemore_ a:hover {text-decoration: underline;}
+
+.career-new a.btn.btn-yellow.smooth:hover {
+    opacity: 0.5;
+}
+
+.detail-message-career {
+    background: url(../img/career/interview-bg.png)!important;
+    background-size: cover!important;
+    padding: 2em!important;    
+}
+
+.detail-message-career .img-people {height:350px ;}
+.detail-message-career .get-box-title {position: relative;height: 340px;}
+.detail-message-career .get-box-title h3 {position: absolute;bottom: 0;color: #fff;font-style: italic;}
+.lang-on-message {
+    position: relative;
+    max-width: initial;
+    padding: 0;
+}
+.logo-padding {padding: 25px 0;}
+.career-new .remove-padding-top {padding-top: 3em;padding-bottom: 3em!important;}
+.lang-on-message .list-inline li {
+    padding: 14px;
+    margin-top: 5px;
+}
+.lang-on-message .list-inline li a {
+    font-size: 14px;
+    padding-top: 1px;
+}
+.message-qa {margin-bottom: 1em;}
+.message-qa h4 {margin-bottom: 10px;}
+
+.message-recent_ .panel-body {
+    background-size: cover!important;
+    height: 252px;
+    padding: 0;
+    border-radius: 5px;
+}
+.message-recent_ .panel-body h3 {
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    font-size: 14px!important;
+    padding: 14px;
+    text-align: center;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    line-height: normal;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.message-recent-hover .panel-body:hover {opacity: 0.8!important;}
+.message-recent_ .panel {border-radius: 6px;} 
+
 @media (max-width: 768px) {
     .career-new {margin: auto!important;}
     .csection5 .margin-fix {display: none;}
@@ -3927,6 +4045,22 @@ margin-left: 60px;
     .csection1 .lang-logo {top: -20px;}
     .media-carousel .carousel-control.left{margin-top: 100%;}
     .media-carousel .carousel-control.right{margin-top: 100%;}
+    .detailcareer .joinus-ul {padding-left: 0;}
+    .detailcareer .content-vacancy .desc-job {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .detailcareer .seemore_ {
+        padding: 1em 2em;
+        border: solid 1px #b9b9b9;
+        text-align: center;
+    }
+    .detailcareer .panel-default {margin-bottom: 1em;}
+    .detailcareer a.btn.btn-yellow {margin-bottom: 10px;}
+    .detail-message-career .get-box-title {height: 55px;}
+    .detail-message-career .get-box-title h3 {font-size: 16px;}
+    .lang-on-message {text-align: left;padding-top: 5px;padding-left: 5px!important;}
+    .career-new .remove-padding-top {padding-bottom: 0!important;}
 }
 @media (min-width: 1600px) {
     .csection3 .carousel-indicators {right: 10em;}
