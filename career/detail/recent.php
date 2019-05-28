@@ -14,7 +14,7 @@
 					<div class="panel-footer">
 						<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="it-account-executive.php">Detail</a>
 						</div>
 					</div>
 				</div>
@@ -30,7 +30,7 @@
 					<div class="panel-footer">
 						<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="lead-consultant.php">Detail</a>
 						</div>
 					</div>
 				</div>
@@ -46,7 +46,7 @@
 					<div class="panel-footer">
 						<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="presales.php">Detail</a>
 						</div>
 					</div>
 				</div>
@@ -71,7 +71,7 @@
 					<div class="panel-footer">
 						<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="front-end.php">Detail</a>
 						</div>
 					</div>
 				</div>
@@ -87,7 +87,7 @@
 					<div class="panel-footer">
 						<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="quality-assurance.php">Detail</a>
 						</div>
 					</div>
 				</div>
@@ -103,7 +103,7 @@
 					<div class="panel-footer">
 						<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="technical-consultant.php">Detail</a>
 						</div>
 					</div>
 				</div>
@@ -128,7 +128,7 @@
 					<div class="panel-footer">
 						<p></p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="digital-marketing.php">Detail</a>
 						</div>
 					</div>
 				</div>
@@ -144,7 +144,7 @@
 					<div class="panel-footer">
 						<p></p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="web-developer.php">Detail</a>
 						</div>
 					</div>
 				</div>
@@ -160,7 +160,7 @@
 					<div class="panel-footer">
 						<p></p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="mobile-developer.php">Detail</a>
 						</div>
 					</div>
 				</div>
@@ -185,7 +185,7 @@
 					<div class="panel-footer">
 						<p></p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="project-manager.php">Detail</a>
 						</div>
 					</div>
 				</div>
@@ -201,7 +201,7 @@
 					<div class="panel-footer">
 						<p><img src="/img/career/pause.png" /> On Hold</p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="accounting.php">Detail</a>
 						</div>
 					</div>
 				</div>
@@ -217,7 +217,7 @@
 					<div class="panel-footer">
 						<p><img src="/img/career/pause.png" /> On Hold</p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="content-writer.php">Detail</a>
 						</div>
 					</div>
 				</div>
@@ -242,7 +242,7 @@
 					<div class="panel-footer">
 						<p><img src="/img/career/pause.png" /> On Hold</p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="designer.php">Detail</a>
 						</div>
 					</div>
 				</div>
@@ -258,7 +258,7 @@
 					<div class="panel-footer">
 						<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="front-end.php">Detail</a>
 						</div>
 					</div>
 				</div>
@@ -274,7 +274,7 @@
 					<div class="panel-footer">
 						<p></p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="mobile-developer.php">Detail</a>
 						</div>
 					</div>
 				</div>
