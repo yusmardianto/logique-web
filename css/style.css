@@ -4007,6 +4007,26 @@ ol.breadcrumb li a:hover {
 .message-recent-hover .panel-body:hover {opacity: 0.8!important;}
 .message-recent_ .panel {border-radius: 6px;} 
 
+.career-new .csection7 .btn-detail {width: -webkit-fill-available;}
+.career-new .csection7 .btn-detail:hover {opacity:0.7}
+
+.detailcareer .breadcrumb-interview {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.csection9 {
+    background: #fff;
+    border: solid 1px #eee;
+    border-left: none;
+    border-right: none;
+    padding: 20px;
+}
+
+.csection9 .row h4 {
+    text-shadow: 0 1px 2px #fff;
+}
+
 @media (max-width: 768px) {
     .career-new {margin: auto!important;}
     .csection5 .margin-fix {display: none;}
@@ -4061,6 +4081,7 @@ ol.breadcrumb li a:hover {
     .detail-message-career .get-box-title h3 {font-size: 16px;}
     .lang-on-message {text-align: left;padding-top: 5px;padding-left: 5px!important;}
     .career-new .remove-padding-top {padding-bottom: 0!important;}
+    .csection9 .btn-yellow {margin-bottom: 5px!important;}
 }
 @media (min-width: 1600px) {
     .csection3 .carousel-indicators {right: 10em;}

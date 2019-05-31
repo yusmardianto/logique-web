@@ -108,11 +108,11 @@
 									<a href="/" class="logo-padding">
 										<img src="/img/career/Logique.png" />
 									</a>
-									<!-- <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+									<ol class="breadcrumb breadcrumb-interview" itemscope itemtype="http://schema.org/BreadcrumbList">
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/career"><span itemprop="name">Karir</span></a><meta itemprop="position" content="1" /></li>
-										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Yoshi<meta itemprop="position" content="2" /></li>
-									</ol> -->
+										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Muklis<meta itemprop="position" content="2" /></li>
+									</ol>
 								</div>
 								<div class="col-md-offset-4 col-md-2 text-right">
 									<div class="lang-logo lang-on-message">

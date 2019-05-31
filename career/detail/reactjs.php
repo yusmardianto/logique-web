@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Dibutuhkan Front End Web Developer yang berpengalaman dalam pembuatan WEB/Sistem WEB (PHP, MySQL, HTML/CSS), Framework PHP seperti CakePHP, Laravel, atau sejenisnya, dan mempunyai minat yang besar terhadap bisnis Internet dan Web.">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, indonesia, web developer, web development, php framework, cakephp, laravel, programmer, web programmming, perancangan web application, perancangan website, website developer, mysql, php,html css">
+    <meta name="description" itemprop="description" content="Dicari React JS Developer yang berpengalaman dengan React.js, terbiasa menggunakan EcmaScript, integrasi RESTful API, dan HTML/CSS. Segera daftarkan diri anda di LOGIQUE.">
+	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, React JS end developer, react js developer, indonesia, RESTful API, Redux / Flux, pwa, html, css, expressJS, mongoDB">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Dibutuhkan Front End Web Developer yang berpengalaman dalam pembuatan WEB/Sistem WEB (PHP, MySQL, HTML/CSS), Framework PHP seperti CakePHP, Laravel, atau sejenisnya, dan mempunyai minat yang besar terhadap bisnis Internet dan Web.">
+	<meta property="og:description" content="Dicari Frontend Developer yang berpengalaman dengan React.js, terbiasa menggunakan EcmaScript, integrasi RESTful API, dan HTML/CSS. Segera daftarkan diri anda di LOGIQUE.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Lowongan - Web Developer</title>
+    <title>Lowongan - React JS Developer</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -120,7 +120,7 @@
 									<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/career"><span itemprop="name">Karir</span></a><meta itemprop="position" content="1" /></li>
-										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Web Developer<meta itemprop="position" content="2" /></li>
+										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >React JS Developer<meta itemprop="position" content="2" /></li>
 									</ol>
 								</div>
 							</div>
@@ -131,7 +131,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-6 text-center">
-									<h1><img src="/img/career/contentwriter.png" style="filter: contrast(0%) brightness(150%);"> Web Developer</h1>
+									<h1><img src="/img/career/fe.png" style="filter: contrast(0%) brightness(150%);"> React JS Developer</h1>
 								</div>
 								<div class="col-md-6 text-center">
 									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
@@ -145,32 +145,35 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-										<h3 class="text-center"> Web Developer di (Jakarta)</h3>
-										<hr>
 										<div class="div-job desc-job">
-											<p>Web Developer adalah penggerak utama dalam pembuatan website atau sistem web yang mampu mengimplementasikan kebutuhan bisnis ke dalam sistem dengan bahasa programming. Seorang web developer yang baik dapat selalu meningkatkan pengetahuan yang mereka miliki dengan teknologi-teknologi terbaru.</p><br>
+											<p>React JS Developer (di Jakarta dan Yogyakarta) dengan 1-2 tahun pengalaman untuk project React Js.</p><br>
 											<b class="getN">Requirement:</b><br>
 											<ul class="joinus-ul">
-												<li>Berpendidikan minimal D3 dari Sistem Informasi, Teknologi Informasi atau sejenisnya.</li>
-												<li>Berpengalaman minimal 2 tahun di bidang IT atau programming.</li>
-												<li>Berpengalaman dalam pembuatan WEB/Sistem WEB (PHP, MySQL, HTML/CSS).</li>
-												<li>Berpengalaman dalam menggunakan Framework PHP seperti CakePHP, Laravel, atau sejenisnya.</li>
-												<li>Memahami proses pengembangan website dengan baik.</li>
-												<li>Dapat belajar secara cepat dan mandiri.</li>
-												<li>Mempunyai minat yang besar terhadap bisnis Internet dan Web.</li>
-												<li>Mampu bekerja sebagai tim.</li>
+												<li>Berpengalaman menggunakan React.js</li>
+												<li>Berpengalaman menggunakan React.js workflow seperti Redux / Flux</li>
+												<li>Terbiasa menggunakan EcmaScript dengan versi terbaru</li>
+												<li>Terbiasa melakukan integrasi RESTful API</li>
+												<li>Memiliki kemampuan analisa dan debugging yang kuat dan teliti</li>
+												<li>Berpengalaman menggunakan Front End Development Tools seperti Babel, Webpack, NPM / Yarn atau sejenisnya</li>
+												<li>Familiar dengan version control system (VCS) seperti Git</li>
+												<li>Pengetahuan tentang PWA merupakan nilai tambah</li>
+												<li>Memiliki pengetahuan dalam isomorphic React merupakan nilai tambah</li>
+												<li>Pengalaman dalam coding PSD ke HTML-CSS merupakan nilai tambah</li>
+												<li>Pengalaman menggunakan CSS framework seperti bootstrap dan foundation merupakan nilai tambah</li>
+												<li>Pengalaman dengan ExpressJS, mongoDB merupakan nilai tambah</li>
 											</ul><br>
 											<b class="getN">Job Description:</b><br>
 											<ul class="joinus-ul">
-												<li>Merancang, membuat, dan mengelola aplikasi web</li>
-												<li>Menyelesaikan pekerjaan yang diberikan dengan kemampuan teknikal yang dimiliki.</li>
-												<li>Melakukan pengujian terhadap hasil yang dikerjakan, termasuk sistem pengujian terintegrasi.</li>
-												<li>Menganalisa masalah dan memberikan solusi dari sisi teknis.</li>
-												<li>Menyelesaikan pekerjaan atau tugas lain yang diberikan dengan tepat waktu</li>
+												<li>Mengembangkan dan mengkonversi kode HTML ke React.js.</li>
+												<li>Mengintegrasikan React.js dengan API.</li>
+												<li>Sewaktu-waktu dapat melakukan coding HTML-CSS (responsive design and cross browser).</li>
+												<li>Bekerja sama dan berkolaborasi dengan tim backend-developer dan designer dalam menghasilkan team-results yang optimal.</li>
+												<li>Melakukan perbaikan performance dengan optimasi code pada sisi aplikasi.</li>
+												<li>Melakukan analisa dan riset dalam menerapkan teknologi relevan yang update sesuai kebutuhan client/customer</li>
 											</ul>
 											<div class="text-center">
-											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Web-Dev-Apply-Button', 'Action-Click', 'Web-Dev-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<br>
+												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>

@@ -14,7 +14,7 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Dicari Frontend Developer yang berpengalaman dengan React.js, terbiasa menggunakan EcmaScript, integrasi RESTful API, dan HTML/CSS. Segera daftarkan diri anda di LOGIQUE.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Lowongan - Front End</title>
+    <title>Lowongan - Front End Developer</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -145,32 +145,28 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-										<h3 class="text-center"> Front End Developer (di Jakarta dan Yogyakarta) dengan 1-2 tahun pengalaman untuk project React Js</h3>
-										<hr>
 										<div class="div-job desc-job">
 											<b class="getN">Persyaratan:</b><br>
 											<ul class="joinus-ul">
-											<li>Berpengalaman menggunakan React.js</li>
-											<li>Berpengalaman menggunakan React.js workflow seperti Redux / Flux</li>
-											<li>Terbiasa menggunakan EcmaScript dengan versi terbaru</li>
-											<li>Terbiasa melakukan integrasi RESTful API</li>
-											<li>Memiliki kemampuan analisa dan debugging yang kuat</li>
-											<li>Berpengalaman menggunakan FrontEnd Development Tools seperti Babel, Webpack, NPM / Yarn atau sejenisnya</li>
-											<li>Familiar dengan versioning control system (VCS) seperti Git</li>
-											<li>Pengetahuan tentang PWA merupakan nilai tambah</li>
-											<li>Memiliki pengetahuan dalam isomorphic React merupakan nilai tambah</li>
-											<li>Pengalaman dalam coding PSD ke HTML-CSS merupakan nilai tambah</li>
-											<li>Pengalaman menggunakan CSS framework seperti bootstrap dan foundation merupakan nilai tambah</li>
-											<li>Pengalamaan dengan ExpressJS, mongoDB merupakan nilai tambah</li>
+												<li>Berlatar belakang pendidikan dari Sistem Informasi, Teknologi Informasi atau sejenisnya.</li>
+												<li>Berpendidikan minimal D3 dan berpengalaman minimal 2 tahun di bidang IT atau programmer</li>
+												<li>Berpengalaman dalam pembuatan WEB/Sistem </li>
+												<li>Required Skill: HTML, CSS Framework ( Bootstrap ), Javascript</li>
+												<li>Additional Skill: React JS, Ionic, Angular, Node JS, </li>
+												<li>Mengenal proses pengembangan website dengan baik.</li>
+												<li>Dapat belajar secara cepat dan mandiri.</li>
+												<li>Mempunyai minat yang besar terhadap bisnis Internet dan Web.</li>
+												<li>Mampu bekerja sebagai tim.</li>
 											</ul><br>
 											<b class="getN">Job Description:</b><br>
 											<ul class="joinus-ul">
-											<li>Mengembangkan dan mengkonversi kode HTML ke ReactJS.</li>
-											<li>Mengintegrasikan ReactJS dengan API.</li>
-											<li>Sewaktu-waktu dapat melakukan coding HTML-CSS (responsive design and lintas browser).</li>
-											<li>Bekerjasama dan berkolaborasi dengan tim backend-developer dan designer dalam menghasilkan team-results yang optimal.</li>
-											<li>Melakukan perbaikan performance dengan optimasi code pada sisi aplikasi.</li>
-											<li>Melakukan analisa dan riset dalam menerapkan teknologi terkait terkini sesuai kebutuhan client.</li>
+												<li>Memanfaatkan HTML, CSS, Javascript, atau bahasa pemrograman terkait tampilan lainnya untuk mengembangkan antarmuka pengguna yang efektif pada website dan aplikasi.</li>
+												<li>Bekerja sama dan berkolaborasi dengan tim developer dan desainer untuk membuat, memperbarui, atau memperbaiki UI/UX website dan aplikasi.</li>
+												<li>Memberikan kualitas hasil terbaik dan tepat waktu sesuai dengan teknologi UI/UX terkini dan/atau yang sesuai dengan kebutuhan proyek.</li>
+												<li>Memastikan kompatibilitas browser atau ukuran layar pada halaman-halaman website dan aplikasi yang dihasilkan.</li>
+												<li>Membuat kode yang terstruktur dan dapat digunakan kembali untuk kemudahan pengembangan atau perubahan di masa depan</li>
+												<li>Memonitor dan mengoptimalkan performa website atau aplikasi dari sisi front-end.</li>
+												<li>Berkomunikasi langsung dengan klien terkait UI/UX jika diperlukan.</li>
 											</ul>
 											<div class="text-center">
 											<br>

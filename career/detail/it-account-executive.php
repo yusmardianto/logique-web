@@ -145,29 +145,31 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-										<h3 class="text-center"> IT Account Executive di (Jakarta) dengan minimal 2 Tahun pengalaman</h3>
+										<h3 class="text-center">IT Account Executive (di Jakarta) dengan minimal 2 Tahun pengalaman</h3>
 										<hr>
 										<div class="div-job desc-job">
-											<b class="getN">Persyaratan:</b><br>
+											<b class="getN">Requirement:</b><br>
 											<ul class="joinus-ul">
-												<li>Kandidat harus memiliki gelar D3/S1 di bidang Bisnis/Marketing/IT, atau lainnya yang relevan.</li>
-												<li>Minimal 2 tahun pengalaman di bidang yang sejenis.</li>
+												<li>Memiliki gelar minimal D3/S1 di bidang Bisnis/Marketing/IT, atau lainnya yang relevan</li>
+												<li>Memiliki minimal 2 tahun pengalaman di bidang yang sejenis</li>
 												<li>Memahami proses dan dinamika dunia sales.</li>
-												<li>Mampu bekerja berdasarkan target.</li>
-												<li>Memiliki komitmen yang tinggi pada kualitas pelayanan untuk pelanggan.</li>
-												<li>Memiliki keahlian interpersonal yang luar biasa, termasuk ketangkasan dalam membangun hubungan baik dengan klien.</li>
-												<li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik.</li>
-												<li>Memiliki pengalaman menggunakan komputer untuk berbagai tugas.</li>
+												<li>Mampu bekerja sesuai target.</li>
+												<li>Memiliki komitmen yang tinggi pada kualitas pelayanan untuk client/customer</li>
+												<li>Memiliki keahlian interpersonal yang luar biasa, termasuk ketangkasan dalam membangun hubungan baik dengan client/customer</li>
+												<li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik</li>
+												<li>Terbiasa menggunakan software komputer basic seperti Ms. Word, Excel, Power Point, dsb. untuk berbagai tugas</li>
+
 											</ul><br>
 											<b class="getN">Job Description:</b><br>
 											<ul class="joinus-ul">
-												<li>Mengembangkan dan memperluas jaringan klien perusahaan melalui strategi networking dan marketing dengan berbagai instansi, grup, komunitas, dan perusahaan.</li>
-												<li>Menemukan dan membangun relasi yang baik dengan klien baru maupun yang sudah ada.</li>
-												<li>Melakukan telepon dengan calon klien, serta menindaklanjuti proposal dan penawaran kepada klien.</li>
-												<li>Membuat laporan mingguan untuk mengetahui kemajuan target penjualan serta mendokumentasikan kinerja penjualan.</li>
-												<li>Menjawab pertanyaan, menjelaskan manfaat, dan membahas pro dan kontra berbagai produk atau layanan perusahaan.</li>
-												<li>Mampu bekerja sama dengan departemen lainnya.</li>
-												<li>Mampu mencapai target penjualan secara individu.</li>
+												<li>Mengembangkan dan memperluas jaringan client/customer perusahaan melalui strategi networking dan marketing dengan berbagai instansi, grup, komunitas, dan perusahaan.</li>
+												<li>Menemukan dan membangun relasi yang baik dengan client/customer baru maupun yang sudah ada.</li>
+												<li>Melakukan telepon dengan calon client/customer, serta menindaklanjuti proposal dan penawaran kepada client/customer</li>
+												<li>Membuat laporan mingguan untuk mengetahui kemajuan target sales serta mendokumentasikan performa sales</li>
+												<li>Menjawab pertanyaan, menjelaskan manfaat, dan membahas pro dan kontra berbagai produk atau layanan perusahaan</li>
+												<li>Mampu bekerja sama dengan departemen lainnya</li>
+												<li>Mampu mencapai target sales secara individu.</li>
+
 											</ul>
 											<div class="text-center">
 											<br>

@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Dibutuhkan Front End Web Developer yang berpengalaman dalam pembuatan WEB/Sistem WEB (PHP, MySQL, HTML/CSS), Framework PHP seperti CakePHP, Laravel, atau sejenisnya, dan mempunyai minat yang besar terhadap bisnis Internet dan Web.">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, indonesia, web developer, web development, php framework, cakephp, laravel, programmer, web programmming, perancangan web application, perancangan website, website developer, mysql, php,html css">
+    <meta name="description" itemprop="description" content="Dicari React Native Developer yang berpengalaman dengan React.js, terbiasa menggunakan EcmaScript, integrasi RESTful API, dan HTML/CSS. Segera daftarkan diri anda di LOGIQUE.">
+	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, React Native end developer, reactnative developer, indonesia, RESTful API, Redux / Flux, pwa, html, css, expressJS, mongoDB">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Dibutuhkan Front End Web Developer yang berpengalaman dalam pembuatan WEB/Sistem WEB (PHP, MySQL, HTML/CSS), Framework PHP seperti CakePHP, Laravel, atau sejenisnya, dan mempunyai minat yang besar terhadap bisnis Internet dan Web.">
+	<meta property="og:description" content="Dicari Frontend Developer yang berpengalaman dengan React.js, terbiasa menggunakan EcmaScript, integrasi RESTful API, dan HTML/CSS. Segera daftarkan diri anda di LOGIQUE.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Lowongan - Web Developer</title>
+    <title>Lowongan - React Native Developer</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -120,7 +120,7 @@
 									<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/career"><span itemprop="name">Karir</span></a><meta itemprop="position" content="1" /></li>
-										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Web Developer<meta itemprop="position" content="2" /></li>
+										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >React Native Developer<meta itemprop="position" content="2" /></li>
 									</ol>
 								</div>
 							</div>
@@ -131,7 +131,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-6 text-center">
-									<h1><img src="/img/career/contentwriter.png" style="filter: contrast(0%) brightness(150%);"> Web Developer</h1>
+									<h1><img src="/img/career/fe.png" style="filter: contrast(0%) brightness(150%);"> React Native Developer</h1>
 								</div>
 								<div class="col-md-6 text-center">
 									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
@@ -145,32 +145,34 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-										<h3 class="text-center"> Web Developer di (Jakarta)</h3>
-										<hr>
 										<div class="div-job desc-job">
-											<p>Web Developer adalah penggerak utama dalam pembuatan website atau sistem web yang mampu mengimplementasikan kebutuhan bisnis ke dalam sistem dengan bahasa programming. Seorang web developer yang baik dapat selalu meningkatkan pengetahuan yang mereka miliki dengan teknologi-teknologi terbaru.</p><br>
 											<b class="getN">Requirement:</b><br>
 											<ul class="joinus-ul">
-												<li>Berpendidikan minimal D3 dari Sistem Informasi, Teknologi Informasi atau sejenisnya.</li>
-												<li>Berpengalaman minimal 2 tahun di bidang IT atau programming.</li>
-												<li>Berpengalaman dalam pembuatan WEB/Sistem WEB (PHP, MySQL, HTML/CSS).</li>
-												<li>Berpengalaman dalam menggunakan Framework PHP seperti CakePHP, Laravel, atau sejenisnya.</li>
-												<li>Memahami proses pengembangan website dengan baik.</li>
-												<li>Dapat belajar secara cepat dan mandiri.</li>
-												<li>Mempunyai minat yang besar terhadap bisnis Internet dan Web.</li>
-												<li>Mampu bekerja sebagai tim.</li>
+												<li>Pengalaman pada bidang  software development minimal 2 tahun.</li>
+												<li>Memiliki ijazah S1 atau S2 / pengalaman dalam bidang Ilmu Teknologi atau relevant</li>
+												<li>Dapat mendemonstrasikan kelebihan dalam bidang React Native</li>
+												<li>Pernah menerbitkan 1 atau lebih aplikasi Android/iOS</li>
+												<li>Memiliki kemampuan komunikasi yang baik, lisan maupun tertulis.</li>
+												<li>Memiliki pemahaman yang mendalam terhadap JavaScript dan Type Script</li>
+												<li>Memiliki pengalaman yang luas dengan React Native dan RESTful APIs</li>
+												<li>Memiliki pengalaman yang cukup dengan ReactJS menjadi nilai tambah.</li>
+												<li>Mahir dalam menggunakan HTML dan CSS</li>
+												<li>Memiliki kebiasaan menggunakan native build tools,(Xcode, Android Studio/IntelliJ, dan Gradle)</li>
+												<li>Kandidat diutamakan memiliki pengalaman dengan Native Android dan iOS SDKs</li>
 											</ul><br>
 											<b class="getN">Job Description:</b><br>
 											<ul class="joinus-ul">
-												<li>Merancang, membuat, dan mengelola aplikasi web</li>
-												<li>Menyelesaikan pekerjaan yang diberikan dengan kemampuan teknikal yang dimiliki.</li>
-												<li>Melakukan pengujian terhadap hasil yang dikerjakan, termasuk sistem pengujian terintegrasi.</li>
-												<li>Menganalisa masalah dan memberikan solusi dari sisi teknis.</li>
-												<li>Menyelesaikan pekerjaan atau tugas lain yang diberikan dengan tepat waktu</li>
+												<li>Membuat UI yang untuk mobile platform.</li>
+												<li>Menggunakan Native API agar dapat diintegrasikan secara mendalam untuk mobile platform Android/iOS</li>
+												<li>Bekerja sama dengan tim design agar dapat direalisasikan dalam bentuk desain UI/UX</li>
+												<li>Mendiagnosa dan memperbaiki masalah aplikasi </li>
+												<li>Kontribusi  dalam komunias React Native untuk melakukan pelaporan, permintaan, dan membantu dalam mengimplementasikan sebuah perbaikan. </li>
+												<li>Memelihara sistem React Native agar tetap stabil </li>
+												<li>Selalu Up to date terhadap perkembangan platform terbaru</li>
 											</ul>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Web-Dev-Apply-Button', 'Action-Click', 'Web-Dev-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
