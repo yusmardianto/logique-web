@@ -535,7 +535,6 @@
 											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/it-account-executive.php">Detail</a>
-												<a class="btn btn-apply" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'IT-Account-Executive-Apply-Button', 'Action-Click', 'IT-Account-Executive-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
@@ -552,7 +551,6 @@
 											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/lead-consultant.php">Detail</a>
-												<a class="btn btn-apply customizebtn" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Lead-Consultant-Apply-Button', 'Action-Click', 'Lead-Consultant-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
@@ -569,7 +567,6 @@
 											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/presales.php">Detail</a>
-												<a class="btn btn-apply customizebtn" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Pre-Sales-Apply-Button', 'Action-Click', 'Pre-Sales-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
@@ -586,7 +583,6 @@
 											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/front-end.php">Detail</a>
-												<a class="btn btn-apply customizebtn" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Front-End-Apply-Button', 'Action-Click', 'Front-End-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
@@ -605,7 +601,6 @@
 											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/quality-assurance.php">Detail</a>
-												<a class="btn btn-apply" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'QA-Apply-Button', 'Action-Click', 'QA-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
@@ -622,7 +617,6 @@
 											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/technical-consultant.php">Detail</a>
-												<a class="btn btn-apply customizebtn" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'TC-Apply-Button', 'Action-Click', 'TC-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
@@ -639,7 +633,6 @@
 											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/digital-marketing.php">Detail</a>
-												<a class="btn btn-apply customizebtn" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'DM-Apply-Button', 'Action-Click', 'DM-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
@@ -656,7 +649,6 @@
 											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/web-developer.php">Detail</a>
-												<a class="btn btn-apply customizebtn" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Web-Dev-Apply-Button', 'Action-Click', 'Web-Dev-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
@@ -675,7 +667,6 @@
 											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/mobile-developer.php">Detail</a>
-												<a class="btn btn-apply" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Mobile-Dev-Apply-Button', 'Action-Click', 'Mobile-Dev-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
@@ -692,7 +683,6 @@
 											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/project-manager.php">Detail</a>
-												<a class="btn btn-apply customizebtn" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'PM-Apply-Button', 'Action-Click', 'PM-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
@@ -709,7 +699,6 @@
 											<p><img src="/img/career/pause.png" /> On Hold</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/accounting.php">Detail</a>
-												<a class="btn btn-apply customizebtn" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Accounting-Apply-Button', 'Action-Click', 'Accounting-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
@@ -726,7 +715,6 @@
 											<p><img src="/img/career/pause.png" /> On Hold</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/content-writer.php">Detail</a>
-												<a class="btn btn-apply customizebtn" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
@@ -745,7 +733,38 @@
 											<p><img src="/img/career/pause.png" /> On Hold</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/designer.php">Detail</a>
-												<a class="btn btn-apply" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'IT-Account-Executive-Apply-Button', 'Action-Click', 'IT-Account-Executive-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Jogja</div>
+											<img src="/img/career/fe.png" />
+											<h3>React JS Developer</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/reactjs.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Jogja</div>
+											<img src="/img/career/fe.png" />
+											<h3 style=" font-size: 20px; ">React Native Developer</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/reactnative.php">Detail</a>
 											</div>
 										</div>
 									</div>
@@ -822,7 +841,21 @@
 						</div>
 					</div>
 
-					
+					<div class="csection9">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-12">
+									<h4 class="text-center">Jika Anda butuh informasi lebih lanjut mengenai lowongan kerja dan magang di LOGIQUE, silakan hubungi:</h4>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-offset-3 col-md-6 text-center">
+									<a class="btn btn-yellow smooth" href="https://api.whatsapp.com/send?phone=0811870321" target="_blank" rel="noreferrer"> <i class="fa fa-whatsapp"></i> WA HRD</a>
+									<a class="btn btn-yellow smooth" href="mailto:recruit@logique.co.id" target="_top"> <i class="fa fa-envelope-o"></i> EMAIL HRD</a>
+								</div>
+							</div>
+						</div>
+					</div>
 
 				</div>
 			</div>

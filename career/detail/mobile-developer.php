@@ -148,30 +148,30 @@
 										<h3 class="text-center"> Mobile App Developer di (Jakarta)</h3>
 										<hr>
 										<div class="div-job desc-job">
-											<p>Mobile Developer berperan dalam membuat dan mengembangkan platform mobile seperti Android dan iOS baik dengan metode native atau hybrid.</p><br>
-											<b class="getN">Persyaratan:</b><br>
+											<p>Mobile Developer berperan dalam membuat dan mengembangkan aplikasi mobile seperti Android dan iOS, baik dengan metode native atau hybrid.</p><br>
+											<b class="getN">Requirement:</b><br>
 											<ul class="joinus-ul">
-											<li>Mempunyai pengalaman kerja sebagai pengembang Mobile (iOS &amp; Android).</li>
-											<li>Portofolio yang dapat dipamerkan dari aplikasi yang diluncurkan di App Store atau pasar Android.</li>
-											<li>Mempunyai pengetahuan mendalam tentang setidaknya satu bahasa pemrograman seperti Swift dan Java.</li>
-											<li>Pengalaman dengan perpustakaan dan API pihak ketiga.</li>
-											<li>Memiliki Keakraban dengan prinsip desain OOP.</li>
-											<li>Kemampuan analisis yang bagus dengan sikap pemecahan masalah yang baik.</li>
-											<li>Kemampuan untuk tampil di lingkungan tim.</li>
-											<li>Berpendidikan minimal S1 di bidang Ilmu Komputer/Teknologi Informasi atau yang setara.</li>
+												<li>Berpendidikan minimal S1 di bidang Ilmu Komputer/Teknologi Informasi atau yang setara.</li>
+												<li>Mempunyai pengalaman kerja sebagai pengembang aplikasi Mobile (iOS & Android).</li>
+												<li>Portofolio yang dapat dipamerkan dari aplikasi yang diluncurkan di App Store iOS atau Play Store Android.</li>
+												<li>Mempunyai pengetahuan mendalam tentang setidaknya satu bahasa pemrograman seperti Swift dan Java.</li>
+												<li>Berpengalaman dalam mengelola library dan API pihak ketiga.</li>
+												<li>Familiar dengan prinsip desain OOP.</li>
+												<li>Memiliki kemampuan analisis yang bagus dengan sikap pemecahan masalah yang baik.</li>
+												<li>Mampu bekerja dalam tim.</li>
 											</ul><br>
 											<b class="getN">Job Description:</b><br>
 											<ul class="joinus-ul">
-											<li>Menghasilkan aplikasi mobile yang berfungsi penuh (iOS dan Android).</li>
-											<li>Mendukung seluruh siklus hidup aplikasi (konsep, desain, pengujian, pelepasan dan dukungan).</li>
-											<li>Mengumpulkan persyaratan khusus dan menyarankan solusi.</li>
-											<li>Tulis tes unit dan tes UI untuk mengidentifikasi malfungsi.</li>
-											<li>Memecahkan masalah dan melakukan debug untuk mengoptimalkan kinerja aplikasi seluler.</li>
-											<li>Desain antarmuka untuk meningkatkan pengalaman pengguna.</li>
-											<li>Berhubungan dengan tim Proyek untuk merencanakan fitur baru.</li>
-											<li>Pastikan aplikasi baru dan warisan memenuhi standar kualitas.</li>
-											<li>Meneliti dan menyarankan produk, aplikasi, dan protokol seluler baru.</li>
-											<li>Tetap up-to-date dengan tren teknologi baru.</li>
+												<li>Menghasilkan aplikasi mobile yang berfungsi secara penuh (iOS dan Android).</li>
+												<li>Mendukung seluruh aspek dalam pembuatan aplikasi (konsep, desain, pengujian, deployment).</li>
+												<li>Menganalisis dan Mengumpulkan kebutuhan dari client serta memberikan saran dan solusi dalam hal aplikasi mobile</li>
+												<li>Melakukan pengecekan dan mengidentifikasi malfungsi dalam aplikasi mobile.</li>
+												<li>Memecahkan masalah dan melakukan debug untuk mengoptimalkan kinerja aplikasi mobile.</li>
+												<li>Mengoptimalkan desain interface untuk meningkatkan user experience yang lebih baik.</li>
+												<li>Berhubungan dengan tim proyek untuk merencanakan fitur baru.</li>
+												<li>Memastikan aplikasi untuk terus update dan memenuhi standar kualitas.</li>
+												<li>Meneliti dan menyarankan produk, aplikasi, dan protokol seluler baru.</li>
+												<li>Tetap up-to-date dengan tren teknologi baru, terutama untuk pengembangan aplikasi mobile.</li>
 											</ul>
 											<div class="text-center">
 											<br>

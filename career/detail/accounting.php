@@ -145,39 +145,35 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-										<h3 class="text-center"> Accounting & Tax Officer di (Jakarta) dengan 2 tahun pengalaman</h3>
+										<h3 class="text-center"> Accounting & Tax Officer (di Jakarta) dengan 2 tahun pengalaman</h3>
 										<hr>
 										<div class="div-job desc-job">
-											<b class="getN">Bila Anda:</b><br>
+											<b class="getN">Requirement:</b><br>
 											<ol class="joinus-ul">
-											<li>Ahli dalam bidang accounting dan pajak</li>
-											<li>Menyukai hitung-berhitung mengenai perpajakan dan accounting</li>
-											<li>Up to date mengenai hukum perpajakan</li>
+												<li>Ahli dalam bidang accounting dan pajak</li>
+												<li>Menyukai hitung-berhitung mengenai perpajakan dan accounting</li>
+												<li>Up to date, teliti, dan memiliki pemahaman yang kuat mengenai hukum perpajakan</li>
+												<li>Berpengalaman minimal 2 tahun di bidang yang sama.</li>
+												<li>Pernah bekerja di KPP / Konsultan diutamakan.</li>
+												<li>Minimum pendidikan S1 di bidang accounting / pajak.</li>
+												<li>Brevet A B, diutamakan yang Brevet A B dan C.</li>
+												<li>Dapat mengoperasikan Microsoft Office dengan baik (terutama excel).</li>
 											</ol>
-											<br>
-											<b class="getN">Tanggung jawab kerja:</b><br>
-											<ul class="joinus-ul">
-											<li>Membuat Faktur Pajak dan e-faktur.</li>
-											<li>Mengisi formulir perpajakan PPN, PPh 21, PPh 23, dan lain-lain.</li>
-											<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
-											<li>Mempersiapkan permintaan pembayaran Pajak Bulanan dan SPT Tahunan.</li>
-											<li>Membuat rekap pajak.</li>
-											<li>Membuat laporan-laporan accounting.</li>
-											<li>Data entry bank payment dan rekonsiliasi bank.</li>
-											<li>Rekonsiliasi pemotongan PPH 23 dan Pasal 4 ayat 2.</li>
-											</ul>
 											<br>
 											<b class="getN">Job Description:</b><br>
 											<ul class="joinus-ul">
-											<li>Berpengalaman minimal 2 tahun dibidang yang sama.</li>
-											<li>Pernah bekerja di KPP / Konsultan diutamakan.</li>
-											<li>Minimum pendidikan S1 dibidang accounting / pajak.</li>
-											<li>Brevet A B, diutamakan yang Brevet A B dan C.</li>
-											<li>Dapat mengoperasikan Microsoft Office dengan baik (terutama excel).</li>
+												<li>Membuat Faktur Pajak dan e-faktur.</li>
+												<li>Mengisi formulir perpajakan PPN, PPh 21, PPh 23, dan lain-lain.</li>
+												<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
+												<li>Mempersiapkan permintaan pembayaran Pajak Bulanan dan SPT Tahunan.</li>
+												<li>Membuat rekap pajak.</li>
+												<li>Membuat laporan-laporan accounting.</li>
+												<li>Data entry bank payment dan rekonsiliasi bank.</li>
+												<li>Rekonsiliasi pemotongan PPH 23 dan Pasal 4 ayat 2.</li>
 											</ul>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Accounting-Apply-Button', 'Action-Click', 'Accounting-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Accounting-Apply-Button', 'Action-Click', 'Accounting-Apply-Button-Label');" target="_blank" rel="noreferrer" disabled>Apply</a>
 											</div>
 										</div>
 									</div>

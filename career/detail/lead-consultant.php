@@ -145,27 +145,27 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-										<h3 class="text-center"> Lead Consultant di (Jakarta) dengan minimal 3 tahun pengalaman</h3>
+										<h3 class="text-center"> Lead Consultant (di Jakarta) dengan minimal 3 tahun pengalaman</h3>
 										<hr>
 										<div class="div-job desc-job">
-											<b class="getN">Persyaratan:</b><br>
+											<b class="getN">Requirement:</b><br>
 											<ul class="joinus-ul">
-											<li>Memiliki pengalaman sebagai IT Consultant minimal selama 3 tahun.</li>
-											<li>Sering terlibat dalam konsultasi dan perencanaan sistem berskala besar.</li>
-											<li>Memiliki kemampuan analisa dan pemecahan masalah yang sangat baik.</li>
-											<li>Memiliki pengetahuan yang sangat baik dalam bidang pembuatan website, web sistem, atau aplikasi mobile.</li>
-											<li>Memiliki kemampuan komunikasi dan presentasi yang sangat baik.</li>
-											<li>Bisa bekerjasama dalam tim.</li>
+												<li>Memiliki pengalaman sebagai IT Consultant minimal selama 3 tahun.</li>
+												<li>Sering terlibat dalam konsultasi dan perencanaan sistem berskala besar.</li>
+												<li>Memiliki kemampuan analisa dan pemecahan masalah yang sangat baik.</li>
+												<li>Memiliki pengetahuan yang sangat baik dalam bidang pembuatan website, web system, atau aplikasi mobile.</li>
+												<li>Memiliki kemampuan komunikasi dan presentasi yang sangat baik.</li>
+												<li>Mampu bekerja sama dalam tim.</li>
 											</ul><br>
 											<b class="getN">Job Description:</b><br>
 											<ul class="joinus-ul">
-											<li>Terlibat dalam proyek berskala menengah ke atas, mulai dari konsultasi, perencanaan, serta pengelolaan tim untuk memastikan proyek yang dijalankan sesuai dengan rencana.</li>
-											<li>Memberikan inisiatif dan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
-											<li>Berkolaborasi dengan bagian RnD untuk mendapatkan pengetahuan terhadap teknologi baru, dan membagikan informasi tersebut kepada tim konsultan untuk meningkatkan kemampuan konsultasi atau perencanaan.</li>
-											<li>Terlibat dan memberikan dukungan dalam proses penawaran, khususnya dalam mengestimasi usaha yang diperlukan untuk mengimplementasikan kebutuhan pelanggan ke dalam sistem.</li>
-											<li>Membuat rencana penerapan proyek dan dokumen pendukung atau laporan yang diperlukan.</li>
-											<li>Melakukan analisa terhadap teknologi atau sistem untuk kebutuhan konsultasi atau penawaran.</li>
-											<li>Melakukan koordinasi dan mengarahkan tim konsultan agar dapat bekerja dengan efektif.</li>
+												<li>Terlibat dalam proyek berskala menengah ke atas, mulai dari konsultasi, perencanaan, serta pengelolaan tim untuk memastikan proyek yang dijalankan sesuai dengan rencana.</li>
+												<li>Memberikan inisiatif dan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
+												<li>Berkolaborasi dengan bagian RnD untuk mendapatkan pengetahuan terhadap teknologi baru, dan membagikan informasi tersebut kepada tim konsultan untuk meningkatkan kemampuan konsultasi atau perencanaan.</li>
+												<li>Terlibat dan memberikan dukungan dalam proses penawaran, khususnya dalam mengestimasi usaha yang diperlukan untuk mengimplementasikan kebutuhan pelanggan ke dalam sistem.</li>
+												<li>Membuat rencana penerapan proyek dan dokumen pendukung atau laporan yang diperlukan.</li>
+												<li>Melakukan analisa terhadap teknologi atau sistem untuk kebutuhan konsultasi atau penawaran.</li>
+												<li>Melakukan koordinasi dan mengarahkan tim konsultan agar dapat bekerja dengan efektif.</li>
 											</ul>
 											<div class="text-center">
 											<br>

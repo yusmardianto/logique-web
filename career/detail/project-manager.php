@@ -148,24 +148,24 @@
 										<h3 class="text-center"> Project Manager di (Jakarta)</h3>
 										<hr>
 										<div class="div-job desc-job">
-											<p>Project Manager memiliki andil yang penting dalam manajemen dan pengawasan proyek agar keberlangsungan pengembangan sistem web atau website yang dilakukan dapat sesuai dengan target, baik dari sisi ruang lingkup ataupun waktu penyelesaian.</p><br>
-											<b class="getN">Deskripsi Pekerjaan:</b><br>
+											<p>Project Manager memiliki andil yang penting dalam manajemen dan mengawasi proyek agar keberlangsungan pengembangan sistem web atau website yang dilakukan dapat sesuai dengan target, baik dari sisi ruang lingkup ataupun waktu penyelesaian.</p><br>
+											<b class="getN">Requirement:</b><br>
 											<ul class="joinus-ul">
-											<li>Manajemen daftar jadwal pekerjaan serta berkomunikasi dengan tim development dan klien.</li>
-											<li>Membuat dokumen untuk kebutuhan proyek.</li>
-											<li>Menangani manajemen proyek secara keseluruhan mulai dari perencanaan, proposal, hingga pengembangan.</li>
+												<li>Berpengalaman di bidang IT dan Web selama lebih dari 3 tahun.</li>
+												<li>Berpengalaman atau memiliki pengetahuan yang luas dari sisi programming dan desain.</li>
+												<li>Memiliki kemampuan berbahasa Inggris yang baik (tingkat bisnis).</li>
 											</ul><br>
-											<b class="getN">Kriteria:</b><br>
+											<b class="getN">Job Description:</b><br>
 											<ul class="joinus-ul">
-											<li>Berpengalaman di bidang IT dan Web lebih dari 3 tahun.</li>
-											<li>Berpengalaman atau memiliki pengetahuan yang luas dari sisi programming dan desain.</li>
-											<li>Memiliki kemampuan berbahasa Inggris yang baik (tingkat bisnis).</li>
+												<li>Manajemen daftar jadwal pekerjaan serta berkomunikasi dengan tim development dan client/customer.</li>
+												<li>Membuat dokumen atau proposal untuk kebutuhan proyek.</li>
+												<li>Menangani manajemen proyek secara keseluruhan mulai dari perencanaan, proposal, hingga pengembangan.</li>
 											</ul><br>
 											<b class="getN">Kandidat Ideal:</b><br>
 											<ul class="joinus-ul">
-											<li>Menyukai web/Internet dan selalu menggunakannya.</li>
-											<li>Mampu berpikir logis dan tegas dalam mengambil tindakan.</li>
-											<li>Memiliki pengetahuan tentang pemasaran digital dan keingintahuan yang tinggi akan hal-hal baru.</li>
+												<li>Menyukai web/Internet dan selalu menggunakannya.</li>
+												<li>Mampu berpikir logis dan tegas dalam mengambil tindakan.</li>
+												<li>Memiliki pengetahuan tentang pemasaran digital dan keingintahuan yang tinggi akan hal-hal baru.</li>
 											</ul>
 											<div class="text-center">
 											<br>

@@ -149,19 +149,20 @@
 										<hr>
 										<div class="div-job desc-job">
 											<p>Designer adalah elemen kreatif perusahaan yang mampu menghasilkan ide dan unsur-unsur visual dengan menciptakan dan mengintegrasikan berbagai komponen seperti warna, bentuk, foto, dan video. Selain itu, mereka juga memastikan tampilan website dan sistem web terlihat baik dan mudah digunakan.</p><br>
-											<b class="getN">Deskripsi Pekerjaan:</b><br>
-											<ul class="joinus-ul">
-											<li>Mendesain tampilan/UI untuk website dan aplikasi mobile.</li>
-											<li>Mendesain video dan produk yang dicetak (misalnya: brosur, profil perusahaan, dll).</li>
-											<li>Merancang, memberi arahan terkait desain, dan dukungan terkait pekerjaan desain di atas.</li>
-											</ul><br>
-											<b class="getN">Kriteria:</b><br>
+											<b class="getN">Requirement:</b><br>
 											<ul class="joinus-ul">
 												<li>Memiliki kemampuan untuk menggunakan software desain (Photoshop, Illustrator, dll).</li>
+												<li>Mampu menerjemahkan wireframe ke bentuk desain sesuai dengan yang dibutuhkan</li>
+											</ul><br>
+											<b class="getN">Job Description:</b><br>
+											<ul class="joinus-ul">
+												<li>Mendesain tampilan/UI untuk website dan aplikasi mobile.</li>
+												<li>Mendesain video dan produk yang dicetak (misalnya: brosur, profil perusahaan, dll).</li>
+												<li>Merancang, memberi arahan terkait desain, dan dukungan terkait pekerjaan desain di atas.</li>
 											</ul>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer" disabled>Apply</a>
 											</div>
 										</div>
 									</div>

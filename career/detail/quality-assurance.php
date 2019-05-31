@@ -145,26 +145,26 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-										<h3 class="text-center"> Quality Assurance di (Jakarta) dengan 1-2 tahun pengalaman</h3>
+										<h3 class="text-center"> Quality Assurance di (Jakarta dan Yogyakarta) dengan 1-2 tahun pengalaman</h3>
 										<hr>
 										<div class="div-job desc-job">
-											<p>Quality Assurance berperan untuk memastikan semua hasil pekerjaan dan kualitas pembuatan website atau sistem web sudah memenuhi semua aspek yang sudah ditetapkan dengan membuat dokumentasi dan melakukan pengecekan secara komprehensif.</p>
+											<p>Quality Assurance berperan dalam memastikan semua hasil pekerjaan dan kualitas pembuatan website atau sistem web sudah memenuhi semua aspek yang ditetapkan dengan membuat dokumentasi dan melakukan pengecekan secara komprehensif.</p>
 											<br>
-											<b class="getN">Persyaratan:</b><br>
+											<b class="getN">Requirement:</b><br>
 											<ul class="joinus-ul">
-											<li>Berpendidikan minimal D3 atau S1 Ilmu Komputer/Teknologi Informasi, Teknik (Komputer/Telekomunikasi), Sains &amp; Teknologi, atau yang setara (jurusan yang berbeda dipersilahkan tapi harus mengirimkan portofolio).</li>
-											<li>Skill yang dibutuhkan: Pengalaman dengan berbagai jenis dan tingkat pengujian, pengalaman langsung dengan pengujian fungsional, pengujian integrasi, pengujian regresi, pengujian mobile, pengujian data yang besar, pengujian lintas platform, pengujian komponen, pengujian keamanan, pengujian kinerja, Pengujian UI/UX, pengujian A/B.</li>
-											<li>Keterampilan opsional: Pengalaman Pengujian Selenium.</li>
-											<li>Bahasa yang dibutuhkan: Bahasa Inggris, Bahasa Indonesia.</li>
-											<li>Pelamar harus bersedia bekerja di Jakarta/Yogyakarta.</li>
+												<li>Berpendidikan minimal D3 atau S1 Ilmu Komputer/Teknologi Informasi, Teknik (Komputer/Telekomunikasi), Sains & Teknologi, atau yang setara (jurusan yang berbeda dipersilakan tapi harus mengirimkan portofolio).</li>
+												<li>Skill yang dibutuhkan: Pengalaman dengan berbagai jenis dan tingkat pengujian, pengalaman langsung dengan pengujian UI/UX, fungsional, integrasi, regression, mobile, Big Data, cross platform, komponen, security, performance, hingga A/B testing.</li>
+												<li>Keterampilan opsional: Pengalaman Pengujian Selenium.</li>
+												<li>Bahasa yang dibutuhkan: Bahasa Inggris, Bahasa Indonesia.</li>
+												<li>Pelamar harus bersedia bekerja di Jakarta/Yogyakarta.</li>
 											</ul><br>
 											<b class="getN">Job Description:</b><br>
 											<ul class="joinus-ul">
-											<li>Mengembangkan dan memelihara skenario pengujian software.</li>
-											<li>Memastikan bahwa fungsi-fungsi baru yang dirancang sudah tepat sesuai dengan kebutuhan pelanggan.</li>
-											<li>Teliti dalam memastikan bahwa software web beroperasi dengan benar dan mampu mendokumentasikan serta menyelesaikan semua masalah secara tepat.</li>
-											<li>Bertanggung jawab dalam memastikan dan merilis dokumentasi perangkat lunak dalam keadaan yang tepat, dipasang dengan benar dan dijalankan dengan kualitas yang baik.</li>
-											<li>Bertanggung jawab untuk membuat dan melaksanakan pengujian regresi dan pelaksanaan pembuatan aplikasi.</li>
+												<li>Mengembangkan dan memelihara skenario pengujian software.</li>
+												<li>Memastikan bahwa fungsi-fungsi baru yang dirancang sudah tepat sesuai dengan kebutuhan pelanggan.</li>
+												<li>Teliti dalam memastikan bahwa software web beroperasi dengan benar dan mampu mendokumentasikan serta menyelesaikan semua masalah secara tepat.</li>
+												<li>Bertanggung jawab dalam memastikan dan merilis dokumentasi software dalam keadaan yang tepat, dipasang dengan benar, dan dijalankan dengan kualitas yang baik.</li>
+												<li>Bertanggung jawab untuk membuat dan melaksanakan pengujian regression dan pelaksanaan pembuatan aplikasi.</li>
 											</ul>
 											<div class="text-center">
 											<br>
