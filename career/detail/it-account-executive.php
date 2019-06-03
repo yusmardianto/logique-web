@@ -4,15 +4,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai IT Account Executive.">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, networking, marketing, IT account executive, indonesia,">
+    <meta name="description" itemprop="description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Inside Sales">
+	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, networking, bisnis, sales, digital, marketing, IT, Inside Sales, Jakarta">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Lowongan - Inside Sales">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai IT Account Executive.">
+	<meta property="og:description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Inside Sales">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Lowongan - Inside Sales</title>
 
@@ -26,12 +26,12 @@
     </head>
 	<body>
 		<div class="wrapper">
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -89,15 +89,15 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
 				<img id="bgvid" alt="bg video" style="width:100%" src="/img/video-img.png"/>
 			</div>
 
-			
+
 			<br/>
-			
+
 			<div id="contentsArea" class="career-new detailcareer">
 				<div id="contents">
 					<style type="text/css">.modal-open .modal{background: rgba(255, 255, 255, .8)!important;}</style>
@@ -126,7 +126,7 @@
 							</div>
 						</div>
 					</div>
-	
+
 					<div class="csection6 detailcareer1"  id="detail-vacancy">
 						<div class="container">
 							<div class="row">
@@ -211,9 +211,9 @@
 				// Random Recent Vacancy
 				var randomdiv = Math.floor(Math.random() * $('.itemdiv').length);
 				$('.itemdiv').hide().eq(randomdiv).show();
-				
+
 			</script>
-			
+
 		</div>
 	</body>
 </html>
