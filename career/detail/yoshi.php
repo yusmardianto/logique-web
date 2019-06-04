@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai IT Account Executive.">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, networking, marketing, IT account executive, indonesia,">
+    <meta name="description" itemprop="description" content="Ingin pengalaman bekerja di sebuah PMA dengan startup culture yang dipimpin oleh sosok yang kompeten dan people oriented? PT Logique Digital Indonesia merupakan peluang karir yang tepat untuk anda. Simak interview eksklusif dari CEO Logique, Yoshi-san.">
+	<meta name="keywords" content="lowongan, kerja, jakarta, yogyakarta, remote job jakarta, kerja remote jakarta, interview, logique interview, pt logique, Takashi Yoshitsugu, pma, Konsultasi IT, Pembuatan Website, Pembuatan Desain, Pengembangan Sistem, Pengembangan Aplikasi Mobile, Digital Marketing, IT Consultation, Website Creation, web development, Design Making, System Development, Mobile App Development, Digital Marketing Consulting, social media">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Interview Detail Logique - Yoshi">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai IT Account Executive.">
+	<meta property="og:description" content="Ingin pengalaman bekerja di sebuah PMA dengan startup culture yang dipimpin oleh sosok yang kompeten dan people oriented? PT Logique Digital Indonesia merupakan peluang karir yang tepat untuk anda. Simak interview eksklusif dari CEO Logique, Yoshi-san.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Message for Candidates - Yoshi</title>
+    <title>Interview Detail Logique - Yoshi</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
