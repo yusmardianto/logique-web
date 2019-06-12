@@ -63,7 +63,7 @@
 			<div class="col-md-3">
 				<div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
 					<div class="panel-body">
-						<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Jogja</div>
+						<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
 						<img src="/img/career/fe.png" />
 						<h3>Front End Developer</h3>
 						<div class="boxfull">Fulltime</div>
@@ -79,7 +79,7 @@
 			<div class="col-md-3">
 				<div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
 					<div class="panel-body">
-						<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Jogja</div>
+						<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
 						<img src="/img/career/qa.png" />
 						<h3>Quality Assurance</h3>
 						<div class="boxfull">Fulltime</div>
@@ -250,7 +250,7 @@
 			<div class="col-md-3">
 				<div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
 					<div class="panel-body">
-						<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Jogja</div>
+						<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
 						<img src="/img/career/fe.png" />
 						<h3 style=" font-size: 20px; height: 37px; ">React JS Developer</h3>
 						<div class="boxfull">Fulltime</div>
@@ -266,7 +266,7 @@
 			<div class="col-md-3">
 				<div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
 					<div class="panel-body">
-						<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Jogja</div>
+						<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
 						<img src="/img/career/fe.png" />
 						<h3 style=" font-size: 20px; height: 37px; ">React Native Developer</h3>
 						<div class="boxfull">Fulltime</div>
