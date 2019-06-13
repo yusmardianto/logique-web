@@ -612,7 +612,7 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/reactnative.php">Detail</a>
 											</div>
@@ -644,7 +644,7 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p></p>
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/web-developer.php">Detail</a>
 											</div>
@@ -660,7 +660,7 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p></p>
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/quality-assurance.php">Detail</a>
 											</div>
@@ -692,7 +692,7 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer" data-name="2">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/project-manager.php">Detail</a>
 											</div>
