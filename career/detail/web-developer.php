@@ -145,29 +145,63 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-										<h3 class="text-center"> Web Developer di (Jakarta)</h3>
-										<hr>
 										<div class="div-job desc-job">
-											<p>Web Developer adalah penggerak utama dalam pembuatan website atau sistem web yang mampu mengimplementasikan kebutuhan bisnis ke dalam sistem dengan bahasa programming. Seorang web developer yang baik dapat selalu meningkatkan pengetahuan yang mereka miliki dengan teknologi-teknologi terbaru.</p><br>
-											<b class="getN">Requirement:</b><br>
-											<ul class="joinus-ul">
-												<li>Berpendidikan minimal D3 dari Sistem Informasi, Teknologi Informasi atau sejenisnya.</li>
-												<li>Berpengalaman minimal 2 tahun di bidang IT atau programming.</li>
-												<li>Berpengalaman dalam pembuatan WEB/Sistem WEB (PHP, MySQL, HTML/CSS).</li>
-												<li>Berpengalaman dalam menggunakan Framework PHP seperti CakePHP, Laravel, atau sejenisnya.</li>
-												<li>Memahami proses pengembangan website dengan baik.</li>
-												<li>Dapat belajar secara cepat dan mandiri.</li>
-												<li>Mempunyai minat yang besar terhadap bisnis Internet dan Web.</li>
-												<li>Mampu bekerja sebagai tim.</li>
-											</ul><br>
-											<b class="getN">Job Description:</b><br>
-											<ul class="joinus-ul">
-												<li>Merancang, membuat, dan mengelola aplikasi web</li>
-												<li>Menyelesaikan pekerjaan yang diberikan dengan kemampuan teknikal yang dimiliki.</li>
-												<li>Melakukan pengujian terhadap hasil yang dikerjakan, termasuk sistem pengujian terintegrasi.</li>
-												<li>Menganalisa masalah dan memberikan solusi dari sisi teknis.</li>
-												<li>Menyelesaikan pekerjaan atau tugas lain yang diberikan dengan tepat waktu</li>
-											</ul>
+										<b class="getN">Job Description:</b><br>
+										<ul class="joinus-ul">
+										<li>Merancang, membuat, dan mengelola aplikasi web</li>
+										<li>Menyelesaikan pekerjaan yang diberikan dengan kemampuan teknikal yang dimiliki.</li>
+										<li>Melakukan pengujian terhadap hasil yang dikerjakan, termasuk sistem pengujian terintegrasi.</li>
+										<li>Menganalisa masalah dan memberikan solusi dari sisi teknis.</li>
+										</ul>
+										<br>
+
+										<b class="getN">Must Skill/Experience:</b><br>
+										<ul class="joinus-ul">
+										<li>Berpendidikan minimal D3 dari Sistem Informasi, Teknologi Informasi atau sejenisnya.</li>
+										<li>Berpengalaman minimal 2 tahun di bidang IT atau programming.</li>
+										<li>Berpengalaman dalam pembuatan WEB/Sistem WEB (PHP, MySQL, HTML, dll).</li>
+										<li>Berpengalaman dalam menggunakan Framework PHP seperti Laravel, Cake PHP atau sejenisnya.</li>
+										<li>Memahami prinsip yang mendasari Database pemrograman</li>
+										<li>Memahami dasar-dasar dari logika pemrograman </li>
+										<li>Mampu menggunakan atau membuat RESTful API</li>
+										<li>Familiar dengan version control system (VCS) seperti Git</li>
+										</ul>
+										<br>
+
+										<b class="getN">Required Skill</b><br>
+										<ul class="joinus-ul">
+										<li>Memiliki kemampuan analisa dan pemecahan masalah yang baik.</li>
+										<li>Mampu bekerja sebagai tim antar divisi</li>
+										<li>Dapat belajar secara cepat dan mandiri.</li>
+										<li>Mampunyai rasa tanggung jawab yang tinggi</li>
+										</ul>
+										<br>
+
+										<b class="getN">Preferable</b><br>
+										<ul class="joinus-ul">
+										<li>Mempunyai minat yang besar terhadap bisnis Internet dan Web.</li>
+										<li>Terbiasa menggunakan magento </li>
+										<li>Memiliki pengetahuan tentang Project Management </li>
+										<li>Memiliki pengetahuan tentang server </li>
+										<li>Memiliki pengetahuan dan pernah menggunakan framework JS </li>
+										<li>Memiliki pengetahuan tentang Golang</li>
+										</ul>
+										<br>
+
+										<b class="getN">Rewards dan Worthwhile</b><br>
+										<ul class="joinus-ul">
+										<li>Akan selalu update tentang dunia pemrograman </li>
+										<li>Kami memiliki banyak project menarik yang akan meningkatkan skill Anda dengan technology terbaru</li>
+										<li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya)</li>
+										</ul>
+										<br>
+										<b class="getN">Location</b><br>
+										<ul class="joinus-ul">
+										<li>Jakarta</li>
+										<li>Yogya</li>
+										<li>Remote Working</li>
+										</ul>
+										<br>
 											<div class="text-center">
 											<br>
 												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Web-Dev-Apply-Button', 'Action-Click', 'Web-Dev-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>

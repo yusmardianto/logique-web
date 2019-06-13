@@ -145,28 +145,54 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-										<h3 class="text-center"> Project Manager di (Jakarta)</h3>
-										<hr>
 										<div class="div-job desc-job">
-											<p>Project Manager memiliki andil yang penting dalam manajemen dan mengawasi proyek agar keberlangsungan pengembangan sistem web atau website yang dilakukan dapat sesuai dengan target, baik dari sisi ruang lingkup ataupun waktu penyelesaian.</p><br>
-											<b class="getN">Requirement:</b><br>
-											<ul class="joinus-ul">
-												<li>Berpengalaman di bidang IT dan Web selama lebih dari 3 tahun.</li>
-												<li>Berpengalaman atau memiliki pengetahuan yang luas dari sisi programming dan desain.</li>
-												<li>Memiliki kemampuan berbahasa Inggris yang baik (tingkat bisnis).</li>
-											</ul><br>
-											<b class="getN">Job Description:</b><br>
-											<ul class="joinus-ul">
-												<li>Manajemen daftar jadwal pekerjaan serta berkomunikasi dengan tim development dan client/customer.</li>
-												<li>Membuat dokumen atau proposal untuk kebutuhan proyek.</li>
-												<li>Menangani manajemen proyek secara keseluruhan mulai dari perencanaan, proposal, hingga pengembangan.</li>
-											</ul><br>
-											<b class="getN">Kandidat Ideal:</b><br>
-											<ul class="joinus-ul">
-												<li>Menyukai web/Internet dan selalu menggunakannya.</li>
-												<li>Mampu berpikir logis dan tegas dalam mengambil tindakan.</li>
-												<li>Memiliki pengetahuan tentang pemasaran digital dan keingintahuan yang tinggi akan hal-hal baru.</li>
-											</ul>
+										<b class="getN">Job Description</b><br>
+										<ul class="joinus-ul">
+										<li>Melakukan pengawasan kinerja team member dalam suatu project.</li>
+										<li>Manajemen pembagian kerja dengan tim development internal  maupun vendor untuk memenuhi kebutuhan klien.</li>
+										<li>Memastikan alur dan jangkauan kerja sebuah project berjalan sesuai timeline dan tujuan.</li>
+										<li>Melakukan dokumentasi progress sebuah project untuk klien jika diperlukan.</li>
+										<li>Melakukan negosiasi agar kebutuhan klien dan budget secara efektif.</li>
+										<li>Menangani manajemen project secara keseluruhan termasuk perencanaan,  proposal/kontrak. hingga pengembangan dan pemeliharaan.</li>
+										</ul>
+										<br>
+
+										<b class="getN">Must Skill / Experience</b><br>
+										<ul class="joinus-ul">
+										<li>Memiliki pengalaman sebelumnya minimal 2 tahun pada bidang  Web dan System Development</li>
+										<li>Memiliki pemahaman yang mendalam mengenai Web dan IT System</li>
+										<li>Memiliki Skill management yang baik dalam mengelola team member yang ada</li>
+										<li>Memiliki cara pikir yang logical untuk menangani masalah</li>
+										<li>Dapat bekerja di bawah tekanan</li>
+										</ul>
+										<br>
+
+										<b class="getN">Required Skill</b><br>
+										<ul class="joinus-ul">
+										<li>Memiliki pengetahuan yang baik tentang cloud server</li>
+										<li>Memiliki kemampuan interpersonal yang baik</li>
+										<li>Project Management </li>
+										</ul>
+										<br>
+
+										<b class="getN">Preferable</b><br>
+										<ul class="joinus-ul">
+										<li>Memiliki PMP Certification</li>
+										</ul>
+										<br>
+
+										<b class="getN">Rewards and worthwhile</b><br>
+										<ul class="joinus-ul">
+										<li>Mendapatkan pengalaman menangani berbagai macam project unik dari berbagai jenis bidang/industri.</li>
+										<li>Dengan jumlah project yang tidak sedikit, dapat mudah mengasah manajemen dalam bidang IT dan juga networking yang lebih luas</li>
+										<li>Menangani masalah sesuai dengan ide/pemikiran pribadi selama project dapat berjalan sebagaimana mestinya.</li>
+										</ul>
+										<br>
+										<b class="getN">Location</b><br>
+										<ul class="joinus-ul">
+										<li>Jakarta</li>
+										</ul>
+										<br>
 											<div class="text-center">
 											<br>
 												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'PM-Apply-Button', 'Action-Click', 'PM-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>

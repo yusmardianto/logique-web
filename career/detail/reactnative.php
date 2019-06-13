@@ -146,30 +146,60 @@
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
 										<div class="div-job desc-job">
-											<b class="getN">Requirement:</b><br>
-											<ul class="joinus-ul">
-                        <li>Pengalaman pada bidang software development minimal 2 tahun.</li>
-                        <li>Memiliki ijazah S1 atau S2 / pengalaman dalam bidang Ilmu Teknologi atau relevant</li>
-                        <li>Dapat mendemonstrasikan kelebihan dalam bidang React Native</li>
-                        <li>Pernah merilis 1 atau lebih aplikasi Android/iOS</li>
-                        <li>Memiliki kemampuan komunikasi yang baik, lisan maupun tertulis.</li>
-                        <li>Memiliki pemahaman yang mendalam terhadap JavaScript dan Type Script</li>
-                        <li>Memiliki pengalaman yang luas dengan React Native dan RESTful APIs</li>
-                        <li>Memiliki pengalaman yang cukup dengan ReactJS menjadi nilai tambah.</li>
-                        <li>Mahir dalam menggunakan HTML dan CSS</li>
-                        <li>Terbiasa menggunakan native build tools,(Xcode, Android Studio/IntelliJ, dan Gradle)</li>
-                        <li>Kandidat diutamakan memiliki pengalaman dengan Native Android dan iOS SDKs</li>
-											</ul><br>
-											<b class="getN">Job Description:</b><br>
-											<ul class="joinus-ul">
-                        <li>Membuat UI yang untuk mobile platform.</li>
-                        <li>Menggunakan Native API agar dapat diintegrasikan secara mendalam untuk mobile platform Android/iOS</li>
-                        <li>Bekerja sama dengan tim design agar dapat direalisasikan dalam bentuk desain UI/UX</li>
-                        <li>Mendiagnosa dan memperbaiki masalah aplikasi</li>
-                        <li>Berkontribusi  untuk melakukan pelaporan, permintaan, dan membantu dalam mengimplementasikan sebuah perbaikan aplikasi</li>
-                        <li>Memelihara sistem React Native agar tetap stabil</li>
-                        <li>Selalu Up to date terhadap perkembangan platform terbaru</li>
-											</ul>
+										<b class="getN">Job Desc:</b><br>
+										<ul class="joinus-ul">
+										<li>Membuat UI yang untuk mobile platform.</li>
+										<li>Menggunakan Native API agar dapat diintegrasikan secara mendalam untuk mobile platform Android/iOS</li>
+										<li>Bekerja sama dengan tim design agar dapat direalisasikan dalam bentuk desain UI/UX</li>
+										<li>Mendiagnosa dan memperbaiki masalah aplikasi </li>
+										<li>Kontribusi  dalam komunitas React Native untuk melakukan pelaporan, permintaan, dan membantu dalam mengimplementasikan sebuah perbaikan. </li>
+										<li>Memelihara sistem React Native agar tetap stabil </li>
+										<li>Selalu Up to date terhadap perkembangan platform terbaru</li>
+										</ul>
+										<br>
+
+										<b class="getN">Requirement</b><br>
+										<ul class="joinus-ul">
+										<li>Pengalaman pada bidang  software development minimal 2 tahun.</li>
+										<li>Memiliki ijazah S1 atau S2 / pengalaman dalam bidang Ilmu Teknologi atau relevant</li>
+										<li>Memiliki pemahaman yang mendalam terhadap JavaScript dan Type Script</li>
+										<li>Memiliki pengalaman yang luas dengan React Native dan RESTful APIs</li>
+										<li>Mahir dalam menggunakan HTML dan CSS</li>
+										<li>Memiliki kebiasaan menggunakan native build tools,(Xcode, Android Studio/IntelliJ, danGradle)</li>
+										</ul>
+										<br>
+
+										<b class="getN">Required Skill</b><br>
+										<ul class="joinus-ul">
+										<li>Memiliki kemampuan komunikasi yang baik, lisan maupun tertulis.</li>
+										<li>Pernah menerbitkan 1 atau lebih aplikasi Android/iOS</li>
+										<li>Dapat mendemonstrasikan kelebihan dalam bidang React Native</li>
+										<li>Memiliki pengalaman dengan Native Android dan iOS SDKs </li>
+										</ul>
+										<br>
+
+										<b class="getN">Preferable</b><br>
+										<ul class="joinus-ul">
+										<li>Memiliki pengalaman dan pengetahuan yang cukup dengan ReactJS </li>
+										</ul>
+										<br>
+
+										<b class="getN">Rewards and worthwhile</b><br>
+										<ul class="joinus-ul">
+										<li>Menangani masalah sesuai dengan ide/pemikiran pribadi selama project dapat berjalan sebagaimana mestinya.</li>
+										<li>Bisa memberikan kemudahan bagi masyarakat dengan aplikasi yang dibuat </li>
+										<li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya)</li>
+										</ul>
+
+										<br>
+										<b class="getN">Location</b><br>
+										<ul class="joinus-ul">
+										<li>Jakarta</li>
+										<li>Yogya</li>
+										<li>Remote Working</li>
+										</ul>
+										
+										<br>
 											<div class="text-center">
 											<br>
 												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer">Apply</a>
