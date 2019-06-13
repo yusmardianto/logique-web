@@ -146,28 +146,57 @@
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
 										<div class="div-job desc-job">
-											<b class="getN">Persyaratan:</b><br>
-											<ul class="joinus-ul">
-												<li>Berlatar belakang pendidikan dari Sistem Informasi, Teknologi Informasi atau sejenisnya.</li>
-												<li>Berpendidikan minimal D3 dan berpengalaman minimal 2 tahun di bidang IT atau programmer</li>
-												<li>Berpengalaman dalam pembuatan WEB/Sistem </li>
-												<li>Required Skill: HTML, CSS Framework ( Bootstrap ), Javascript</li>
-												<li>Additional Skill: React JS, Ionic, Angular, Node JS, </li>
-												<li>Mengenal proses pengembangan website dengan baik.</li>
-												<li>Dapat belajar secara cepat dan mandiri.</li>
-												<li>Mempunyai minat yang besar terhadap bisnis Internet dan Web.</li>
-												<li>Mampu bekerja sebagai tim.</li>
-											</ul><br>
-											<b class="getN">Job Description:</b><br>
-											<ul class="joinus-ul">
-												<li>Memanfaatkan HTML, CSS, Javascript, atau bahasa pemrograman terkait tampilan lainnya untuk mengembangkan antarmuka pengguna yang efektif pada website dan aplikasi.</li>
-												<li>Bekerja sama dan berkolaborasi dengan tim developer dan desainer untuk membuat, memperbarui, atau memperbaiki UI/UX website dan aplikasi.</li>
-												<li>Memberikan kualitas hasil terbaik dan tepat waktu sesuai dengan teknologi UI/UX terkini dan/atau yang sesuai dengan kebutuhan proyek.</li>
-												<li>Memastikan kompatibilitas browser atau ukuran layar pada halaman-halaman website dan aplikasi yang dihasilkan.</li>
-												<li>Membuat kode yang terstruktur dan dapat digunakan kembali untuk kemudahan pengembangan atau perubahan di masa depan</li>
-												<li>Memonitor dan mengoptimalkan performa website atau aplikasi dari sisi front-end.</li>
-												<li>Berkomunikasi langsung dengan klien terkait UI/UX jika diperlukan.</li>
-											</ul>
+										<b class="getN">Job Description </b><br>
+										<ul class="joinus-ul">
+										<li>Memanfaatkan HTML, CSS, Javascript, atau bahasa pemrograman terkait tampilan lainnya untuk mengembangkan user interface yang efektif pada website dan aplikasi.</li>
+										<li>Bekerja sama dan berkolaborasi dengan tim developer dan desainer untuk membuat, memperbarui, atau memperbaiki UI/UX website dan aplikasi.</li>
+										<li>Memberikan kualitas hasil terbaik dan tepat waktu sesuai dengan teknologi UI/UX terkini dan/atau yang sesuai dengan kebutuhan proyek.</li>
+										<li>Memastikan kompatibilitas browser atau ukuran layar pada halaman-halaman website dan aplikasi yang dihasilkan.</li>
+										<li>Membuat kode yang terstruktur dan dapat digunakan kembali untuk kemudahan pengembangan atau perubahan di masa depan</li>
+										<li>Memonitor dan mengoptimalkan performa website atau aplikasi dari sisi front-end.</li>
+										<li>Berkomunikasi langsung dengan klien terkait UI/UX jika diperlukan.</li>
+										</ul>
+										<br>
+										<b class="getN">Persyaratan</b><br>
+										<ul class="joinus-ul">
+										<li>Berpendidikan minimal D3 dan berpengalaman minimal 2 tahun di bidang IT atau programmer</li>
+										<li>Berpengalaman dalam pembuatan WEB/Sistem </li>
+										<li>Pengalaman dalam coding PSD ke HTML-CSS </li>
+										<li>Mampu membuat responsive website</li>
+										<li>Mengenal proses pengembangan website dengan baik.</li>
+										<li>Dapat belajar secara cepat dan mandiri</li>
+										<li>Mampu bekerja dengan tim antar divisi</li>
+										<li>Mampu beradaptasi dengan cepat dalam penggunaan teknologi baru </li>
+										</ul>
+										<br>
+										<b class="getN">Required Skill</b><br>
+										<ul class="joinus-ul">
+										<li>Memahami basic bahasa pemrograman PHP</li>
+										<li>HTML 5</li>
+										<li>CSS 3 ( Bootstrap, Foundation, Material UI )</li>
+										<li>JavaScript ( JQuery)</li>
+										</ul>
+										<br>
+										<b class="getN">Preferable </b><br>
+										<ul class="joinus-ul">
+										<li>Additional Skill: React JS, Ionic, Angular, Node JS, </li>
+										<li>Mempunyai minat yang besar terhadap bisnis Internet dan Web.</li>
+										<li>Memahami pembuatan template wordpress </li>
+										</ul>
+										<br>
+										<b class="getN">Rewards and worthwhile</b><br>
+										<ul class="joinus-ul">
+										<li>Menambah pengetahuan dan pengalaman tentang technology baru dalam front end development</li>
+										<li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya)</li>
+										</ul>
+										<br>
+										<b class="getN">Location</b><br>
+										<ul class="joinus-ul">
+										<li>Jakarta</li>
+										<li>Yogya</li>
+										<li>Remote Working</li>
+										</ul>
+										<br>
 											<div class="text-center">
 											<br>
 												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Front-End-Apply-Button', 'Action-Click', 'Front-End-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>

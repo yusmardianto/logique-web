@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Inside Sales">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, networking, bisnis, sales, digital, marketing, IT, Inside Sales, Jakarta">
+    <meta name="description" itemprop="description" content="Dicari Project Manager yang telah berpengalaman di bidang IT dan Web selama lebih dari 3 tahun, terampil dalam management dan komunikasi antar tim development dan klien, serta menangani proyek secara keseluruhan mulai dari perencanaan, proposal, hingga pengembangan.">
+	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, indonesia, Project Manager, IT project manager, web development manager, project management, planning, proposal, report">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Lowongan - Inside Sales">
+    <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Inside Sales">
+	<meta property="og:description" content="Dicari Project Manager yang telah berpengalaman di bidang IT dan Web selama lebih dari 3 tahun, terampil dalam management dan komunikasi antar tim development dan klien, serta menangani proyek secara keseluruhan mulai dari perencanaan, proposal, hingga pengembangan.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Lowongan - Inside Sales</title>
+    <title>Lowongan - Senior Project Manager</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -26,12 +26,12 @@
     </head>
 	<body>
 		<div class="wrapper">
-
+		
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span>
+				<span class="icon-bar third"></span> 
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -89,15 +89,15 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-
+			
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
 				<img id="bgvid" alt="bg video" style="width:100%" src="/img/video-img.png"/>
 			</div>
 
-
+			
 			<br/>
-
+			
 			<div id="contentsArea" class="career-new detailcareer">
 				<div id="contents">
 					<style type="text/css">.modal-open .modal{background: rgba(255, 255, 255, .8)!important;}</style>
@@ -120,18 +120,18 @@
 									<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/career"><span itemprop="name">Karir</span></a><meta itemprop="position" content="1" /></li>
-										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Inside Sales<meta itemprop="position" content="2" /></li>
+										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Senior Project Manager<meta itemprop="position" content="2" /></li>
 									</ol>
 								</div>
 							</div>
 						</div>
 					</div>
-
+	
 					<div class="csection6 detailcareer1"  id="detail-vacancy">
 						<div class="container">
 							<div class="row">
 								<div class="col-md-6 text-center">
-									<h1><img src="/img/career/accounting.png" style="filter: contrast(0%) brightness(150%);"> Inside Sales</h1>
+									<h1><img src="/img/career/pm.png" style="filter: contrast(0%) brightness(150%);"> Senior Project Manager</h1>
 								</div>
 								<div class="col-md-6 text-center">
 									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
@@ -146,48 +146,48 @@
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
 										<div class="div-job desc-job">
-										<b class="getN">Job Description:</b><br>
+										<b class="getN">Job Description </b><br>
 										<ul class="joinus-ul">
-										<li>Mengembangkan dan memperluas jaringan client/customer perusahaan melalui strategi networking dan marketing dengan berbagai instansi, grup, komunitas, dan perusahaan.</li>
-										<li>Menemukan dan membangun relasi yang baik dengan client/customer baru maupun yang sudah ada.</li>
-										<li>Melakukan telepon dengan calon client/customer, serta menindaklanjuti proposal dan penawaran kepada client/customer</li>
-										<li>Membuat laporan mingguan untuk mengetahui kemajuan target sales serta mendokumentasikan performa sales</li>
-										<li>Menjawab pertanyaan, menjelaskan manfaat, dan membahas pro dan kontra berbagai produk atau layanan perusahaan</li>
-										<li>Mampu bekerja sama dengan departemen lainnya</li>
-										<li>Mampu mencapai target sales secara individu</li>
+										<li>Melakukan pengawasan kinerja team member dalam suatu project.</li>
+										<li>Manajemen pembagian kerja dengan tim development internal  maupun vendor untuk memenuhi kebutuhan klien.</li>
+										<li>Memastikan alur dan jangkauan kerja sebuah project berjalan sesuai timeline dan tujuan.</li>
+										<li>Melakukan negosiasi agar kebutuhan klien dan budget secara efektif.</li>
+										<li>Menangani manajemen project secara keseluruhan termasuk perencanaan,  proposal/kontrak. hingga pengembangan dan pemeliharaan.</li>
+										<li>Memastikan alur dan jangkauan kerja sebuah project berjalan sesuai timeline dan tujuan.</li>
+										<li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
 										</ul>
 										<br>
-
-										<b class="getN">Must Skill/Experience </b><br>
+										<b class="getN">Must Skill / Experience</b><br>
 										<ul class="joinus-ul">
-										<li>Memiliki gelar minimal D3/S1 di bidang Bisnis/Marketing/IT, atau lainnya yang relevan</li>
-										<li>Memiliki minimal 2 tahun pengalaman di bidang yang sejenis</li>
-										<li>Memahami proses dan dinamika dunia sales.</li>
-										<li>Mampu bekerja sesuai target.</li>
-										<li>Memiliki komitmen yang tinggi pada kualitas pelayanan untuk client/customer</li>
-										<li>Memiliki keahlian interpersonal yang luar biasa, termasuk ketangkasan dalam membangun hubungan baik dengan client/customer</li>
+										<li>Memiliki pengalaman sebelumnya minimal 5 tahun pada bidang  Web dan System Development</li>
+										<li>Memiliki pemahaman yang mendalam mengenai Web dan IT System</li>
+										<li>Memiliki Skill management yang baik dalam mengelola team member yang ada</li>
+										<li>Memiliki cara pikir yang logical untuk menangani masalah</li>
+										<li>Dapat bekerja di bawah tekanan</li>
+										<li>Memiliki kemampuan untuk memecahkan masalah pada hardware, software, dan network.</li>
+										<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
+										<li>Memiliki kemampuan interpesonal yang luar biasa.</li>
 										</ul>
 										<br>
-
 										<b class="getN">Required Skill</b><br>
 										<ul class="joinus-ul">
 										<li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik</li>
-										<li>Multitasking </li>
-										<li>Terbiasa menggunakan software komputer basic seperti Ms. Word, Excel, Power Point, dsb. untuk berbagai tugas</li>
-										</ul>
-										<br>
-
-										<b class="getN">Preferable </b><br>
-										<ul class="joinus-ul">
+										<li>Memiliki kemampuan komunikasi dan presentasi yang sangat baik</li>
+										<li>Kemampuan analisa yang baik </li>
+										<li>Memiliki pengetahuan yang luas dengan dunia IT.</li>
+										<li>Project Management</li>
 										<li>Bahasa Inggris</li>
 										</ul>
 										<br>
-
+										<b class="getN">Preferable</b><br>
+										<ul class="joinus-ul">
+										<li>Memiliki PMP Certification</li>
+										</ul>
+										<br>
 										<b class="getN">Rewards and worthwhile</b><br>
 										<ul class="joinus-ul">
-										<li>Prospek karier menarik</li>
-										<li>Meningkatkan kepercayaan diri dan kemampuan komunikasi</li>
-										<li>Terbiasa untuk menggunakan digital tools</li>
+										<li>Dengan jumlah project yang tidak sedikit, dapat mudah mengasah manajemen dalam bidang IT dan juga networking yang lebih luas</li>
+										<li>Menangani masalah sesuai dengan ide/pemikiran pribadi selama project dapat berjalan sebagaimana mestinya.</li>
 										<li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya)</li>
 										</ul>
 										<br>
@@ -198,7 +198,7 @@
 										<br>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'IT-Account-Executive-Apply-Button', 'Action-Click', 'IT-Account-Executive-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'PM-Apply-Button', 'Action-Click', 'PM-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
@@ -236,9 +236,9 @@
 				// Random Recent Vacancy
 				var randomdiv = Math.floor(Math.random() * $('.itemdiv').length);
 				$('.itemdiv').hide().eq(randomdiv).show();
-
+				
 			</script>
-
+			
 		</div>
 	</body>
 </html>

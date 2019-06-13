@@ -521,91 +521,9 @@
 
 					<div class="csection7">
 						<div class="container">
+							<div class="row" id="getjob">
 							<!-- Vacancies -->
-							<div class="row">
-								<div class="col-md-3">
-									<div class="panel panel-default">
-										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/accounting.png" />
-											<h3>Inside Sales</h3>
-											<div class="boxfull">Fulltime</div>
-										</div>
-										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
-											<div class="text-center">
-												<a class="btn btn-detail" href="detail/it-account-executive.php">Detail</a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-3">
-									<div class="panel panel-default">
-										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/consultant.png" />
-											<h3>Lead Consultant</h3>
-											<div class="boxfull">Fulltime</div>
-										</div>
-										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
-											<div class="text-center">
-												<a class="btn btn-detail" href="detail/lead-consultant.php">Detail</a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-3">
-									<div class="panel panel-default">
-										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/sales.png" />
-											<h3>Pre-Sales Consultant</h3>
-											<div class="boxfull">Fulltime</div>
-										</div>
-										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
-											<div class="text-center">
-												<a class="btn btn-detail" href="detail/presales.php">Detail</a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-3">
-									<div class="panel panel-default">
-										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Jogja</div>
-											<img src="/img/career/fe.png" />
-											<h3>Front End Developer</h3>
-											<div class="boxfull">Fulltime</div>
-										</div>
-										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
-											<div class="text-center">
-												<a class="btn btn-detail" href="detail/front-end.php">Detail</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="row">
-								<div class="col-md-3">
-									<div class="panel panel-default">
-										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Jogja</div>
-											<img src="/img/career/qa.png" />
-											<h3>Quality Assurance</h3>
-											<div class="boxfull">Fulltime</div>
-										</div>
-										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
-											<div class="text-center">
-												<a class="btn btn-detail" href="detail/quality-assurance.php">Detail</a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-3">
+								<div class="col-md-3" data-name="1">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -621,26 +539,106 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3">
+								<div class="col-md-3" data-name="3">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/marketing.png" />
-											<h3>Digital Marketing Str...</h3>
+											<img src="/img/career/pm.png" />
+											<h3 style="font-size:20px;">Senior Project Manager</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
-										<div class="panel-footer">
-											<p></p>
+										<div class="panel-footer" data-name="2">
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
-												<a class="btn btn-detail" href="detail/digital-marketing.php">Detail</a>
+												<a class="btn btn-detail" href="detail/senior-project-manager.php">Detail</a>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3">
+								<div class="col-md-3" data-name="8">
 									<div class="panel panel-default">
 										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Jogja</div>
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+											<img src="/img/career/accounting.png" />
+											<h3>Inside Sales</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/it-account-executive.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3" data-name="6">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+											<img src="/img/career/sales.png" />
+											<h3>Pre Sales Consultant</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/presales.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3" data-name="4">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+											<img src="/img/career/fe.png" />
+											<h3>Front End Developer</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/front-end.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3" data-name="9">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+											<img src="/img/career/fe.png" />
+											<h3 style=" font-size: 20px; ">React Native Developer</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/reactnative.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3" data-name="2">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+											<img src="/img/career/fe.png" />
+											<h3>React JS Developer</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/reactjs.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3" data-name="5">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
 											<img src="/img/career/contentwriter.png" />
 											<h3>Web Developer</h3>
 											<div class="boxfull">Fulltime</div>
@@ -653,12 +651,26 @@
 										</div>
 									</div>
 								</div>
-							</div>
-							<div class="row">
-								<div class="col-md-3">
+								<div class="col-md-3" data-name="7">
 									<div class="panel panel-default">
 										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+											<img src="/img/career/qa.png" />
+											<h3>Quality Assurance</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p></p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/quality-assurance.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3" data-name="11">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
 											<img src="/img/career/mobile.png" />
 											<h3>Mobile App Developer</h3>
 											<div class="boxfull">Fulltime</div>
@@ -671,39 +683,41 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3">
+								<div class="col-md-3" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
 											<img src="/img/career/pm.png" />
-											<h3>Project Manager</h3>
+											<h3 style="font-size:20px;">Project Manager</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
-										<div class="panel-footer">
-											<p></p>
+										<div class="panel-footer" data-name="2">
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/project-manager.php">Detail</a>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3">
+
+								<!-- On Hold -->
+								<div class="col-md-3 hidden" data-name="3">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/accounting.png" />
-											<h3>Accounting & Tax Off...</h3>
+											<img src="/img/career/marketing.png" />
+											<h3>Digital Marketing Str...</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
 											<p><img src="/img/career/pause.png" /> On Hold</p>
 											<div class="text-center">
-												<a class="btn btn-detail" href="detail/accounting.php">Detail</a>
+												<a class="btn btn-detail" href="detail/digital-marketing.php">Detail</a>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3">
+								<div class="col-md-3 hidden" data-name="3">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -719,9 +733,7 @@
 										</div>
 									</div>
 								</div>
-							</div>
-							<div class="row">
-								<div class="col-md-3">
+								<div class="col-md-3 hidden" data-name="3">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -737,38 +749,39 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3">
+								<div class="col-md-3 hidden" data-name="3">
 									<div class="panel panel-default">
 										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Jogja</div>
-											<img src="/img/career/fe.png" />
-											<h3>React JS Developer</h3>
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+											<img src="/img/career/consultant.png" />
+											<h3>Lead Consultant</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<p><img src="/img/career/pause.png" /> On Hold</p>
 											<div class="text-center">
-												<a class="btn btn-detail" href="detail/reactjs.php">Detail</a>
+												<a class="btn btn-detail" href="detail/lead-consultant.php">Detail</a>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3">
+								<div class="col-md-3 hidden" data-name="3">
 									<div class="panel panel-default">
 										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Jogja</div>
-											<img src="/img/career/fe.png" />
-											<h3 style=" font-size: 20px; ">React Native Developer</h3>
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+											<img src="/img/career/accounting.png" />
+											<h3>Accounting & Tax Off...</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<p><img src="/img/career/pause.png" /> On Hold</p>
 											<div class="text-center">
-												<a class="btn btn-detail" href="detail/reactnative.php">Detail</a>
+												<a class="btn btn-detail" href="detail/accounting.php">Detail</a>
 											</div>
 										</div>
 									</div>
 								</div>
+								<div class="clearfix"></div>
 							</div>
 							<!-- End Vacancies -->
 							<div class="bg-lowongan">
@@ -879,6 +892,11 @@
 					});
 				});
 				AOS.init();
+				var $wrapper = $('#getjob');
+				$wrapper.find('.col-md-3').sort(function (a, b) {
+					return +a.dataset.name - +b.dataset.name;
+				})
+				.appendTo( $wrapper );
 			</script>
 			
 		</div>

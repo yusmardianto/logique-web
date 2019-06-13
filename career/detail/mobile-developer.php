@@ -133,9 +133,9 @@
 								<div class="col-md-6 text-center">
 									<h1><img src="/img/career/mobile.png" style="filter: contrast(0%) brightness(150%);"> Mobile App Developer</h1>
 								</div>
-								<div class="col-md-6 text-center">
+								<!-- <div class="col-md-6 text-center">
 									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
@@ -145,34 +145,65 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-										<h3 class="text-center"> Mobile App Developer di (Jakarta)</h3>
-										<hr>
 										<div class="div-job desc-job">
-											<p>Mobile Developer berperan dalam membuat dan mengembangkan aplikasi mobile seperti Android dan iOS, baik dengan metode native atau hybrid.</p><br>
-											<b class="getN">Requirement:</b><br>
-											<ul class="joinus-ul">
-												<li>Berpendidikan minimal S1 di bidang Ilmu Komputer/Teknologi Informasi atau yang setara.</li>
-												<li>Mempunyai pengalaman kerja sebagai pengembang aplikasi Mobile (iOS & Android).</li>
-												<li>Portofolio yang dapat dipamerkan dari aplikasi yang diluncurkan di App Store iOS atau Play Store Android.</li>
-												<li>Mempunyai pengetahuan mendalam tentang setidaknya satu bahasa pemrograman seperti Swift dan Java.</li>
-												<li>Berpengalaman dalam mengelola library dan API pihak ketiga.</li>
-												<li>Familiar dengan prinsip desain OOP.</li>
-												<li>Memiliki kemampuan analisis yang bagus dengan sikap pemecahan masalah yang baik.</li>
-												<li>Mampu bekerja dalam tim.</li>
-											</ul><br>
-											<b class="getN">Job Description:</b><br>
-											<ul class="joinus-ul">
-												<li>Menghasilkan aplikasi mobile yang berfungsi secara penuh (iOS dan Android).</li>
-												<li>Mendukung seluruh aspek dalam pembuatan aplikasi (konsep, desain, pengujian, deployment).</li>
-												<li>Menganalisis dan Mengumpulkan kebutuhan dari client serta memberikan saran dan solusi dalam hal aplikasi mobile</li>
-												<li>Melakukan pengecekan dan mengidentifikasi malfungsi dalam aplikasi mobile.</li>
-												<li>Memecahkan masalah dan melakukan debug untuk mengoptimalkan kinerja aplikasi mobile.</li>
-												<li>Mengoptimalkan desain interface untuk meningkatkan user experience yang lebih baik.</li>
-												<li>Berhubungan dengan tim proyek untuk merencanakan fitur baru.</li>
-												<li>Memastikan aplikasi untuk terus update dan memenuhi standar kualitas.</li>
-												<li>Meneliti dan menyarankan produk, aplikasi, dan protokol seluler baru.</li>
-												<li>Tetap up-to-date dengan tren teknologi baru, terutama untuk pengembangan aplikasi mobile.</li>
-											</ul>
+										<b class="getN">Job Description:</b><br>
+										<ul class="joinus-ul">
+										<li>Menghasilkan aplikasi mobile yang berfungsi secara penuh (iOS dan Android).</li>
+										<li>Mendukung seluruh aspek dalam pembuatan aplikasi (konsep, desain, pengujian, deployment).</li>
+										<li>Menganalisis dan mengumpulkan kebutuhan dari client serta memberikan saran dan solusi dalam hal aplikasi mobile</li>
+										<li>Melakukan pengecekan dan mengidentifikasi malfungsi dalam aplikasi mobile.</li>
+										<li>Memecahkan masalah dan melakukan debug untuk mengoptimalkan kinerja aplikasi mobile.</li>
+										<li>Mengoptimalkan desain interface untuk meningkatkan user experience yang lebih baik.</li>
+										<li>Berhubungan dengan tim proyek untuk merencanakan fitur baru.</li>
+										<li>Memastikan aplikasi untuk terus update dan memenuhi standar kualitas.</li>
+										<li>Meneliti dan menyarankan produk, aplikasi, dan protokol seluler baru.</li>
+										</ul>
+										<br>
+
+										<b class="getN">Requirement:</b><br>
+										<ul class="joinus-ul">
+										<li>Berpendidikan minimal S1 di bidang Ilmu Komputer/Teknologi Informasi atau yang setara.</li>
+										<li>Mempunyai pengalaman kerja sebagai pengembang aplikasi Mobile (iOS & Android).</li>
+										<li>Mempunyai pengetahuan mendalam minimal satu bahasa pemrograman seperti Swift dan Java.</li>
+										<li>Berpengalaman dalam mengelola library dan API pihak ketiga.</li>
+										<li>Tetap up-to-date dengan tren teknologi baru, terutama untuk pengembangan aplikasi mobile.</li>
+										<li>Memiliki pengalaman dengan Native Android dan iOS SDKs </li>
+										<li>Familiar dengan prinsip desain OOP.</li>
+										<li>Memiliki kemampuan analisis yang bagus dengan sikap pemecahan masalah yang baik.</li>
+										<li>Mampu bekerja dalam tim.</li>
+										</ul>
+										<br>
+
+										<b class="getN">Required Skill</b><br>
+										<ul class="joinus-ul">
+										<li>Pernah menerbitkan 1 atau lebih aplikasi Android/iOS</li>
+										<li>Dapat mendemonstrasikan kelebihan dalam bidang React Native</li>
+										<li>Tetap up-to-date dengan tren teknologi baru, terutama untuk pengembangan aplikasi mobile.</li>
+										</ul>
+										<br>
+										
+										<b class="getN">Preferable</b><br>
+										<ul class="joinus-ul">
+										<li>Memiliki pengalaman dan pengetahuan yang cukup dengan ReactJS </li>
+										</ul>
+										<br>
+
+										<b class="getN">Rewards and worthwhile</b><br>
+										<ul class="joinus-ul">
+										<li>Menangani masalah sesuai dengan ide/pemikiran pribadi selama project dapat berjalan sebagaimana mestinya.</li>
+										<li>Bisa memberikan kemudahan bagi masyarakat dengan aplikasi yang dibuat </li>
+										<li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya)</li>
+										</ul>
+
+										<br>
+										<b class="getN">Location</b><br>
+										<ul class="joinus-ul">
+										<li>Jakarta</li>
+										<li>Yogya</li>
+										<li>Remote Working</li>
+										</ul>
+										
+										<br>
 											<div class="text-center">
 											<br>
 												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Mobile-Dev-Apply-Button', 'Action-Click', 'Mobile-Dev-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
