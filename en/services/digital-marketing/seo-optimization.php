@@ -60,49 +60,49 @@
 				<div class="logique-nav">
 					<div class="margin-for-nav">
 						<div class="text-center">
-							<a href="/">
+							<a href="/en/index.php">
 								<div class="img-home"></div>
-								Beranda
+								Home
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/logique.php">
+							<a href="/en/logique.php">
 								<div class="img-about"></div>
-								Tentang Kami
+								About Us
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/portofolio.php">
+							<a href="/en/portfolio.php">
 								<div class="img-portfolio"></div>
 								Portfolio
 							</a>
 						</div>
 						<div class="text-center active">
-							<a href="/layanan.php">
+							<a href="/en/services.php">
 								<div class="img-services"></div>
-								Layanan
+								Services
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/produk.php">
+							<a href="/en/product.php">
 								<div class="img-product"></div>
-								Produk
+								Product
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/karir.php">
+							<a href="/career/">
 								<div class="img-career"></div>
-								Karir
+								Career
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="/hubungi-kami.php">
+							<a href="/en/contact.php">
 								<div class="img-contact"></div>
-								Hubungi Kami
+								Contact Us
 							</a>
 						</div>
 						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
+							<a href="https://www.logique.co.id/blog/en" target="_blank" rel="noreferrer">
 								<div class="img-blog"></div>
 								Blog
 							</a>
@@ -114,8 +114,8 @@
 		<div class="content-area">
 			<div class="language-btn">
 				<ul class="list-inline">
-					<li><a href="/en/services/digital-marketing.php">EN</a></li>
-					<li class="active"><a href="#">ID</a></li>
+					<li class="active"><a href="/en/services/digital-marketing.php">EN</a></li>
+					<li><a href="#">ID</a></li>
 					<li><a href="/jp/services/digital-marketing.php">JP</a></li>
 				</ul>
 			</div>
@@ -133,26 +133,26 @@
 				<div class="breadcrumb-section">
 					<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 						<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-							<a itemprop="item" href="/index.php">
-								<span itemprop="name">Beranda</span>
+							<a itemprop="item" href="/en/index.php">
+								<span itemprop="name">Home</span>
 								<meta itemprop="position" content="1" />
 							</a>
 						</li>
 						<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-							<a itemprop="item" href="/layanan.php">
-								<span itemprop="name">Layanan</span>
+							<a itemprop="item" href="/en/services.php">
+								<span itemprop="name">Services</span>
 								<meta itemprop="position" content="2" />
 							</a>
 						</li>
 						<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-							<a itemprop="item" href="/layanan/digital-marketing.php">
+							<a itemprop="item" href="/en/services/digital-marketing.php">
 								<span itemprop="name">Digital Marketing</span>
 								<meta itemprop="position" content="3" />
 							</a>
 						</li>
 						<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
 							<a itemprop="item">
-								<span itemprop="name">Optimasi SEO</span>
+								<span itemprop="name">SEO Optimization</span>
 								<meta itemprop="position" content="4" />
 							</a>
 						</li>
@@ -165,7 +165,7 @@
 						<div class="col-lg-6 col-md-6 col-sm-10">
 							<div class="banner-text-wrapper">
 								<h1><strong>LOGIQUE,</strong></h1>
-								<p> Web Developer Profesional Untuk Maksimalisasi SEO secara Menyeluruh</p>
+								<p> Professional Web Developer for The Complete SEO Optimization</p>
 
 							</div>
 							<img class="img-fly-paper" src="img/img-seo-optimization/fly-paper.png" />
@@ -184,9 +184,9 @@
 						<img class="img-working-guy" src="img/img-seo-optimization/working-guy.png" />
 					</div>
 					<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 description">
-						<p>Sebagai perusahaan web developer, <strong>LOGIQUE</strong> tidak hanya mampu membuat dan mengembangkan website, namun juga <strong>mengoptimalisasi penerapan SEO secara teknis pada website tersebut.</strong> Mulai dari pemasangan schema markup, optimasi URL, meta tag, pengaturan redirect, hingga optimasi tampilan dan struktur versi mobile.</p>
+						<p>As a professional web developer company in Jakarta, <strong>LOGIQUE</strong> always gives maximum results in developing a website with a complete technical SEO implementation. Starting from the installation of markup schema, URL optimization, meta tags, redirect settings, <strong>to the optimization of the appearance, navigation, structure of the mobile version, and many more.</strong></p>
 						<br>
-						<p>Hal-hal ini sangat penting, mengingat algoritma mesin pencarian saat ini semakin rumit dengan juga melibatkan UI/UX yang baik. Semakin banyak interaksi positif yang dilakukan visitor pada website Anda, mesin pencarian Google akan semakin meningkatkan peringkat website Anda pada hasil pencarian dari keyword yang Anda targetkan. </p>
+						<p>These things are very important, considering that search engine algorithms are now increasingly complicated and also involve good UI/UX. The more positive interactions visitors make on your website, Google search engine will further increase the rank of your website on the search results of the keywords you are targeting. </p>
 					</div>
 				</div>
 			</div>
@@ -195,24 +195,24 @@
 					<div class="col-lg-4 col-md-5 col-sm-8 col-xs-10 col-lg-offset-2 col-md-offset-1 col-sm-offset-2 col-xs-offset-1">
 						<div class="card">
 							<div class="card-ribbon">
-								<h3>Meningkatkan SEO Dari Perspektif Web Development</h3>
+								<h3>Improve SEO From a Web Development Perspective</h3>
 								<img class="img-responsive" src="img/img-seo-optimization/yellow-ribbon.png" />
 							</div>
 							<div class="card-content">
 								<img class="center-block img-responsive" src="img/img-seo-optimization/web-structure.png" />
-								<p>SEO bukan hanya tentang optimasi keyword, maksimalisasi query berkaitan yang dicari user, atau konten yang menarik. Ada banyak aspek teknis yang bekerja di belakangnya, yang mendukung agar sebuah web page dapat menduduki peringkat satu di halaman pertama hasil pencarian. Sebuah website dapat meraih posisi tersebut tidak hanya dengan konten yang baik, namun juga bagaimana website tersebut bisa seresponsif mungkin jika sudah diakses visitor. Sebab, ini akan berdampak langsung pada pengalaman menjelajah visitor pada website Anda (user experience).</p>
+								<p>SEO is not just about keyword optimization, maximizing related queries that users are looking for, or interesting contents. There are many technical aspects that work behind it, so your web page can show up on the first page of search results. A website can reach that position not only with good contents, but also how the website can be as responsive as possible if it's already accessed by a visitor. This will have a direct impact on visitors' experience in exploring your website (user experience).</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-5 col-sm-8 col-xs-10 col-md-offset-0 col-sm-offset-2 col-xs-offset-1">
 						<div class="card">
 							<div class="card-ribbon">
-								<h3>LOGIQUE, Web Developer Profesional di Bidang SEO</h3>
+								<h3>LOGIQUE Is The Professional Web Developer in SEO Field</h3>
 								<img class="img-responsive" src="img/img-seo-optimization/yellow-ribbon.png" />
 							</div>
 							<div class="card-content">
 								<img class="center-block img-responsive" src="img/img-seo-optimization/increasing.png" />
-								<p>Dengan para ahli di bidangnya, kami mampu menjadikan website Anda responsif, dinamis, loading cepat, user-friendly, dan memiliki tampilan yang fleksibel serta konsisten di segala perangkat, terutama pada mobile dengan pembuatan AMP. Pengaturan desain juga penting untuk menarik sebanyak mungkin visitor yang cocok dengan bisnis Anda. Web Designer kami akan memasang fitur desain, widget, style element, gambar, dan teks yang menarik secara khusus untuk target Anda. Fitur-fitur seperti ini seringkali tidak dapat Anda temukan di platform situs pengembang website praktis seperti Wordpress atau Joomla.</p>
+								<p>With our experts, we can make your website responsive, dynamic, fast loading, user-friendly, and has a flexible and consistent display on all devices, especially on mobile with AMP or PWA development. Design improvisations are also important to attract as many visitors as possible that fit your business. Our Web Designers will install design features, widgets, style elements, images, and text that are interesting specifically for your target. These features often cannot be found on practical site platforms such as WordPress or Joomla.</p>
 							</div>
 						</div>
 					</div>
@@ -238,14 +238,14 @@
 			<div class="thats-why">
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3 col-xs-8 col-xs-offset-2">
-						<p class="text-center" style="letter-spacing: 0.7px;">Itulah mengapa implementasi SEO website Anda harus juga dibangun dan dimodifikasi oleh developer yang sudah ahli dan profesional seperti di LOGIQUE.</p>
+						<p class="text-center" style="letter-spacing: 0.7px;">That is why the SEO implementation of your website must also be built and modified by skilled and professional developers like LOGIQUE.</p>
 					</div>
 				</div>
 			</div>
 			<div class="see-details">
 				<div class="row">
 					<div class="col-sm-6 col-sm-offset-3">
-						<a href="/layanan/digital-marketing/jasa-seo.php"><img class="center-block img-responsive" src="img/img-seo-optimization/click-detail-w-text.png" /></a>
+						<a href="/en/services/digital-marketing/seo-service.php"><img class="center-block img-responsive" src="img/img-seo-optimization/click-detail-w-text.png" /></a>
 					</div>
 				</div>
 			</div>
@@ -254,7 +254,7 @@
 				<div class="three-languages">
 					<div class="row">
 						<div class="col-md-4 col-xs-10 col-md-offset-2 col-xs-offset-1">
-							<p>LOGIQUE memberikan Jasa Optimasi SEO Professional dalam 3 Bahasa</p>
+							<p>LOGIQUE Provides Best SEO Optimization Services in 3 Languages</p>
 						</div>
 						<div class="col-md-6">
 							<img class="center-block img-responsive img-discuss" src="img/img-seo-optimization/discuss.png" />
@@ -264,7 +264,7 @@
 				<div class="mission">
 					<div class="row">
 						<div class="col-lg-5 col-md-7 col-sm-10 col-xs-11 col-lg-offset-4 col-md-offset-4 col-sm-offset-2 col-xs-offset-1">
-							<p>Salah satu misi LOGIQUE adalah memberikan kontribusi terhadap perkembangan industri web dan digital marketing di Indonesia. Untuk merealisasikannya, LOGIQUE selalu mempertahankan proses pengerjaan yang cepat, tepat, dan menyeluruh agar dapat memberikan hasil yang maksimal atas praktik optimasi SEO kedalam 3 bahasa (Bahasa Indonesia, Inggris, dan Jepang).</p>
+							<p>One of LOGIQUE’s missions is to contribute to the development of web and digital marketing industry in Indonesia. To realize it, LOGIQUE has always been maintaining fast, precise, and comprehensive process of work in order to provide maximum results of SEO Optimization in 3 languages (Bahasa Indonesia, English, and Japanese).</p>
 						</div>
 					</div>
 				</div>
@@ -273,20 +273,21 @@
 						<div class="col-lg-4 col-xs-12 col-lg-offset-0">
 							<div class="content">
 								<img class="img-rounded-shadow" src="img/img-seo-optimization/badge.png" />
-								<p>LOGIQUE adalah perusahaan web developer dan digital marketing terbaik yang mempunyai standar internasional. Untuk membantu meningkatkan potensi bisnis klien serta memudahkan klien dalam menjangkau pelanggan berpotensi yang berada di mancanegara, LOGIQUE menyediakan jasa SEO profesional ke dalam 3 bahasa, yaitu: Bahasa Indonesia, Inggris, dan Jepang. Optimasi SEO dilakukan dengan berdasarkan lokasi pencarian, tren yang sedang populer belakangan ini, serta pembuatan keyword yang unik dan relevan dengan konten halaman situs dan wilayah target pasar.</p>
+								<p>LOGIQUE is the top web developer & digital marketing company in Jakarta with international standard. To help widen our clients' business opportunities and facilitate them in reaching out potential customer outside Indonesia, LOGIQUE provides SEO optimization services in 3 languages: Bahasa Indonesia, English, and Japanese. Our SEO optimization services are based on search location, recent popular trends, and unique keywords that are relevant to the page content of your website and your market target area.</p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-xs-12 col-lg-offset-0">
 							<div class="content">
 								<img class="img-rounded-shadow" src="img/img-seo-optimization/certificate.png" />
-								<p>Dengan menyediakan layanan berkualitas tinggi dan konsistensi yang dimiliki, LOGIQUE telah dipercaya oleh perusahaan besar baik dari dalam negeri maupun internasional.
-									Di era globalisasi ini, kami sadar pentingnya penggunaan bahasa internasional untuk menjangkau klien dari luar negeri. Oleh karena itu, LOGIQUE menyiapkan tim yang kompeten, andal di bidangnya, serta ahli dan berpengalaman dalam praktik optimasi SEO ke Bahasa Inggris.</p>
+								<p>For many years, we've been trusted by big companies both local and international to provide high quality services, adaptability, and consistency throughout the process.
+									In this era of globalization, we realize how significant international language in reaching out for clients overseas. And for that, LOGIQUE provides competent team who are expert in their field, skilled, and experienced in SEO Optimization in English. </p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-xs-12 col-lg-offset-0">
 							<div class="content">
 								<img class="img-rounded-shadow" src="img/img-seo-optimization/rounded-children.png" />
-								<p>Selain itu, sebagai perusahaan yang dipimpin oleh seorang wirausahawan asal Jepang, LOGIQUE berkembang dalam lingkungan multikultural sehingga setiap karyawannya memiliki gagasan dan wawasan yang beranekaragam yang menjadikannya sebuah perusahaan kreatif dan inovatif. Dengan didukung oleh karyawan native dari Jepang, LOGIQUE telah mempunyai banyak pengalaman bisnis dengan klien asal Jepang. Oleh karena itu, Anda tidak perlu khawatir lagi mencari jasa optimasi SEO terbaik, LOGIQUE siap membantu Anda dalam menghasilkan optimasi SEO yang dapat memenuhi kebutuhan bisnis Anda.</p>
+								<p>
+									Futhermore, as a web developer and digital marketing company under Japanese entrepreneur, LOGIQUE is grown in multicultural environment, where every employee has different ideas and insights that make our company more creative and innovative. Supported by a Japanese native employee, LOGIQUE has abundant business experience with clients from Japan. You don't have to worry looking for best SEO Optimization services, we are ready to help you deliver SEO Optimization that can fulfill your business needs in these 3 big languages.</p>
 							</div>
 						</div>
 					</div>
@@ -295,7 +296,7 @@
 			<div class="see-details">
 				<div class="row">
 					<div class="col-sm-6 col-sm-offset-3">
-						<a href="/layanan/digital-marketing/jasa-seo.php"><img class="center-block img-responsive" src="img/img-seo-optimization/click-detail-w-text.png" /></a>
+						<a href="/en/services/digital-marketing/seo-service.php"><img class="center-block img-responsive" src="img/img-seo-optimization/click-detail-w-text.png" /></a>
 					</div>
 				</div>
 			</div>
@@ -309,47 +310,47 @@
 						<div class="col-lg-2 col-sm-4 col-xs-10 col-lg-offset-2 col-sm-offset-2 col-xs-offset-1">
 							<div class="industry-mobile">
 								<img class="img-industries center-block" src="img/img-seo-optimization/bank-industry.png" />
-								<h4 class="industry-name">INDUSTRI PERBANKAN</h4>
-								<p class="industry-content">Kami berhasil membantu salah satu industri perbankan untuk mencapai target dari strategi dan taktik SEO yang kami implementasikan untuk lembaga keuangan yang melayani perkreditan. Kami mampu untuk mendapatkan traffic pada halaman situs tertentu dari kata kunci yang sudah tertarget, meningkatkan peringkat kata kunci, memperbaiki peringkat halaman situs dengan melakukan optimasi SEO On-Page, meningkatkan visibilitas kata kunci, dan menganalisa indikasi masalah yang berkaitan dengan SEO serta melakukan optimasi berdasarkan masalah dan analisa mendalam. Dengan melakukan hal tersebut, situs klien kami berhasil mendapatkan pengunjung sejumlah dua kali lipat dari sebelumnya.</p>
+								<h4 class="industry-name">BANK INDUSTRY</h4>
+								<p class="industry-content">We have succeeded in helping financial institutions in banking field to reach their goals with our best SEO strategies. They wanted us to increase traffic on certain site pages from targeted keywords, and by only a couple of months, we have managed to increase their keywords' rankings and gathered much more visitors than before. We improved their site page rankings by doing On-Page SEO optimization, and deeply analyzing indications of problems related to SEO and performed optimizations based. </p>
 							</div>
 							<div data-tab="tab-1" class="industry active">
 								<img class="img-industries center-block" src="img/img-seo-optimization/bank-industry.png" />
-								<h4 class="industry-name">INDUSTRI PERBANKAN</h4>
+								<h4 class="industry-name">BANK INDUSTRY</h4>
 							</div>
 						</div>
 						<div class="col-lg-2 col-sm-4 col-xs-10 col-sm-offset-0 col-xs-offset-1">
 							<div class="industry-mobile">
 								<img class="img-industries center-block" src="img/img-seo-optimization/automotive.png" />
-								<h4 class="industry-name">INDUSTRI OTOMOTIF</h4>
-								<p class="industry-content">Dengan penerapan strategi digital marketing yang tepat, kami berhasil membantu sejumlah klien di bidang otomotif untuk mendapatkan jumlah pengunjung situs yang lebih banyak dari sebelumnya. Kami terus menganalisa tren industri mobil yang sedang terjadi, mengkonversi tren tersebut pada suatu kata kunci, dan mencantumkan kata kunci terkait pada artikel dan juga situs. Kami juga melakukan analisa dari strategi SEO yang dilakukan oleh kompetitor dan bersaing secara sehat.</p>
+								<h4 class="industry-name">AUTOMOTIVE INDUSTRY</h4>
+								<p class="industry-content">By implementing the right digital marketing strategy, we have helped automotive companies to get high quality visitors, more than before. We analyzed and incorporated the latest trends in car industry, converted these trends into relevant keywords, and included those keywords to articles and also the site. We also analyzed the SEO strategies carried out by competitors and competed in a healthy manner.</p>
 							</div>
 							<div data-tab="tab-2" class="industry">
 								<img class="img-industries center-block" src="img/img-seo-optimization/automotive.png" />
-								<h4 class="industry-name">INDUSTRI OTOMOTIF</h4>
+								<h4 class="industry-name">AUTOMOTIVE INDUSTRY</h4>
 							</div>
 
 						</div>
 						<div class="col-lg-2 col-sm-4 col-xs-10 col-lg-offset-0 col-sm-offset-2 col-xs-offset-1">
 							<div class="industry-mobile">
 								<img class="img-industries center-block" src="img/img-seo-optimization/tourism.png" />
-								<h4 class="industry-name">INDUSTRI PARIWISATA</h4>
-								<p class="industry-content">Kami membantu beberapa klien di bidang pariwisata untuk meningkatkan traffic situs mereka dari penerapan optimasi SEO. Strategi yang kami terapkan dimulai dari menganalisa kata kunci populer yang dapat digunakan pada situs klien untuk meningkatkan traffic berdasarkan competition dan average monthly search. Setelah itu, kami mencoba untuk memberikan rekomendasi perbaikan SEO berdasarkan analisa dan riset. Dan yang terakhir, penerapan SEO tersebut dievaluasi dan dipresentasikan kepada klien dalam bentuk report. Oleh karena skema kerja analisa, implementasi, dan evaluasi, klien kami cukup puas atas hasil akhir dari penerapan SEO yang kami lakukan. Selain itu, Strategi kami telah terbukti meningkatkan jumlah pemesanan/reservasi langsung melalui website dengan Customer Acquisition Cost (CAC) yang rendah.</p>
+								<h4 class="industry-name">TOURISM INDUSTRY</h4>
+								<p class="industry-content">Tourism nowadays is about getting anywhere with just a few steps online. That's what our clients are aware of, and we have helped them get as many customers as possible through SEO optimizations. The strategy that we implemented include analyzing popular keywords that could be used in their web pages to increase traffic based on each competition value and average monthly search. After that, we give SEO recommendations to improve the website traffic based on analysis and research. And finally, the application of SEO is evaluated and presented to clients in the form of a report. Because of the regular analysis, implementation, and evaluation, our clients are quite satisfied with the final results of the implementation of SEO that we did on their websites. In addition, our strategy has been proven to increase the number of bookings/reservations directly through the website with low Customer Acquisition Cost (CAC).</p>
 							</div>
 							<div data-tab="tab-3" class="industry">
 								<img class="img-industries center-block" src="img/img-seo-optimization/tourism.png" />
-								<h4 class="industry-name">INDUSTRI PARIWISATA</h4>
+								<h4 class="industry-name">TOURISM INDUSTRY</h4>
 							</div>
 
 						</div>
 						<div class="col-lg-2 col-sm-4 col-xs-10 col-sm-offset-0 col-xs-offset-1">
 							<div class="industry-mobile">
 								<img class="img-industries center-block" src="img/img-seo-optimization/property.png" />
-								<h4 class="industry-name">INDUSTRI PROPERTI</h4>
-								<p class="industry-content">Beberapa klien kami yang memiliki bisnis di bidang properti juga melihat dunia online digital sebagai potensi pasar terbesar dari penjualan unit mereka. Dari mesin pencari, mereka ingin agar situs properti mereka langsung ditemukan saat user membutuhkan. Dengan penerapan strategi SEO yang tepat, LOGIQUE berhasil membantu klien mencapai target mereka untuk menemukan pembeli potensial dan meningkatkan engagement dengan mereka. Kami terus melakukan optimasi mulai dari improvisasi keyword, meta tag, pemasangan schema, hingga optimasi tampilan website agar mobile friendly. Kami berhasil mendapatkan traffic organik yang tinggi dan klien kami cukup puas dengan jumlah konversi yang dihasilkan</p>
+								<h4 class="industry-name">PROPERTY INDUSTRY</h4>
+								<p class="industry-content">Some of our clients who have businesses in the property sector also see the digital online world as the biggest market potential of their unit sales. From search engines, they want their property sites to be found immediately when users need them. With the implementation of the right SEO strategy, LOGIQUE successfully helps clients reach their targets to find potential buyers and increase engagement with them. We continue to carry out optimizations ranging from improvising keywords, meta tags, installing schema, to optimizing the appearance of the website to be mobile friendly. We managed to get high organic traffic and our clients were quite satisfied with the number of conversions produced.</p>
 							</div>
 							<div data-tab="tab-4" class="industry">
 								<img class="img-industries center-block" src="img/img-seo-optimization/property.png" />
-								<h4 class="industry-name">INDUSTRI PROPERTI</h4>
+								<h4 class="industry-name">PROPERTY INDUSTRY</h4>
 							</div>
 						</div>
 					</div>

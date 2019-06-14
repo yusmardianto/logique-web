@@ -250,7 +250,7 @@
 							</div>
 							<div class="col-sm-7">
 								<div class="bordered-white">
-									SEO Website<br/>
+									<a class="white-link" href="/en/services/digital-marketing/seo-optimization.php">SEO Website</a><br/>
 									Content Creation<br/>
 									AMP<br/>
 									Creative Design<br/>

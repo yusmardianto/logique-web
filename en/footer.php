@@ -30,9 +30,14 @@ ga('send', 'pageview');
 										</ul>
 									</li>
 							 		<li><a href="/en/services/system-dev.php" target="_blank">Web System Development</a></li>
-							 <li><a href="/en/services/mobile-app-dev.php" target="_blank">Mobile App Development</a></li>
-							 <li><a href="/en/services/penetration-test.php" target="_blank">WEB Security Assesment (Pentest)</a></li>
-							 <li><a href="/en/services/digital-marketing.php" target="_blank">Digital Marketing </a></li>
+								 <li><a href="/en/services/mobile-app-dev.php" target="_blank">Mobile App Development</a></li>
+							 	<li><a href="/en/services/penetration-test.php" target="_blank">WEB Security Assesment (Pentest)</a></li>
+								 <li class="have-submenu"><a href="/en/services/digital-marketing.php" target="_blank">Digital Marketing </a>
+									<ul>
+										<li><a href="/en/services/digital-marketing/seo-optimization.php" target="_blank"> SEO Optimization</a></li>
+										<li><a href="/en/services/digital-marketing/seo-service.php" target="_blank"> SEO Service</a></li>
+										<!-- <a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a> -->
+									</ul>
 								</ul>
 							</li>
 							
