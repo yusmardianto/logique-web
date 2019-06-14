@@ -146,31 +146,59 @@
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
 										<div class="div-job desc-job">
-											<p>React JS Developer (di Jakarta dan Yogyakarta) dengan 1-2 tahun pengalaman untuk project React Js.</p><br>
-											<b class="getN">Requirement:</b><br>
-											<ul class="joinus-ul">
-												<li>Berpengalaman menggunakan React.js</li>
-												<li>Berpengalaman menggunakan React.js workflow seperti Redux / Flux</li>
-												<li>Terbiasa menggunakan EcmaScript dengan versi terbaru</li>
-												<li>Terbiasa melakukan integrasi RESTful API</li>
-												<li>Memiliki kemampuan analisa dan debugging yang kuat dan teliti</li>
-												<li>Berpengalaman menggunakan Front End Development Tools seperti Babel, Webpack, NPM / Yarn atau sejenisnya</li>
-												<li>Familiar dengan version control system (VCS) seperti Git</li>
-												<li>Pengetahuan tentang PWA merupakan nilai tambah</li>
-												<li>Memiliki pengetahuan dalam isomorphic React merupakan nilai tambah</li>
-												<li>Pengalaman dalam coding PSD ke HTML-CSS merupakan nilai tambah</li>
-												<li>Pengalaman menggunakan CSS framework seperti bootstrap dan foundation merupakan nilai tambah</li>
-												<li>Pengalaman dengan ExpressJS, mongoDB merupakan nilai tambah</li>
-											</ul><br>
-											<b class="getN">Job Description:</b><br>
-											<ul class="joinus-ul">
-												<li>Mengembangkan dan mengkonversi kode HTML ke React.js.</li>
-												<li>Mengintegrasikan React.js dengan API.</li>
-												<li>Sewaktu-waktu dapat melakukan coding HTML-CSS (responsive design and cross browser).</li>
-												<li>Bekerja sama dan berkolaborasi dengan tim backend-developer dan designer dalam menghasilkan team-results yang optimal.</li>
-												<li>Melakukan perbaikan performance dengan optimasi code pada sisi aplikasi.</li>
-												<li>Melakukan analisa dan riset dalam menerapkan teknologi relevan yang update sesuai kebutuhan client/customer</li>
-											</ul>
+										<b class="getN">Job Description:</b><br>
+										<ul class="joinus-ul">
+										<li>Mengembangkan dan mengkonversi kode HTML ke React.js.</li>
+										<li>Mengintegrasikan React.js dengan API.</li>
+										<li>Sewaktu-waktu dapat melakukan coding HTML-CSS (responsive design and cross browser).</li>
+										<li>Bekerja sama dan berkolaborasi dengan tim backend-developer dan designer dalam menghasilkan team-results yang optimal.</li>
+										<li>Melakukan perbaikan performance dengan optimasi code pada sisi aplikasi.</li>
+										<li>Melakukan analisa dan riset dalam menerapkan teknologi relevan yang update sesuai kebutuhan client/customer</li>
+										</ul>
+										<br>
+										<b class="getN">Must Skill/Experience </b><br>
+										<ul class="joinus-ul">
+										<li>Pengalaman dalam bidang  software development minimal 2 tahun.</li>
+										<li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.</li>
+										<li>Berpengalaman menggunakan React.js setahun terakhir</li>
+										<li>Terbiasa menggunakan EcmaScript dengan versi terbaru</li>
+										<li>Terbiasa melakukan integrasi RESTful API</li>
+										<li>Berpengalaman menggunakan Front End Development Tools seperti Babel, Webpack, NPM / Yarn atau sejenisnya</li>
+										<li>Familiar dengan version control system (VCS) seperti Git</li>
+										</ul>
+										<br>
+										<b class="getN">Required Skill</b><br>
+										<ul class="joinus-ul">
+										<li>Berpengalaman menggunakan React.js workflow seperti Redux / Flux</li>
+										<li>Memiliki kemampuan analisa dan debugging yang kuat dan teliti</li>
+										<li>HTML</li>
+										<li>CSS</li>
+										<li>JavaScript</li>
+										</ul>
+										<br>
+										<b class="getN">Preferable </b><br>
+										<ul class="joinus-ul">
+										<li>Pengetahuan tentang PWA </li>
+										<li>Memiliki pengetahuan dalam isomorphic React </li>
+										<li>Pengalaman dalam coding PSD ke HTML-CSS </li>
+										<li>Pengalaman menggunakan CSS framework seperti bootstrap dan foundation </li>
+										<li>Pengalaman dengan ExpressJS, mongoDB </li>
+										</ul>
+										<br>
+										<b class="getN">Rewards and worthwhile</b><br>
+										<ul class="joinus-ul">
+										<li>Mengembangkan dan meningkatkan skill React JS </li>
+										<li>Dapat meningkatkan kemampuan untuk mobile app development</li>
+										<li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya)</li>
+										</ul>
+										<br>
+										<b class="getN">Location</b><br>
+										<ul class="joinus-ul">
+										<li>Jakarta</li>
+										<li>Yogya</li>
+										<li>Remote Working</li>
+										</ul>
+										<br>
 											<div class="text-center">
 												<br>
 												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer">Apply</a>
