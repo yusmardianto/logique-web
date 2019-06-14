@@ -131,11 +131,11 @@
 					</div>
 				</h1>
 				<div class="breadcrumb-section">
-					<ol class="breadcrumb">
-						<li><a href="#">Beranda</a></li>
-						<li><a href="#">Layanan</a></li>
-						<li><a href="#">Digital Marketing</a></li>
-						<li class="active"><a href="#">Layanan SEO</a></li>
+					<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+						<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1"></li>
+						<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/layanan.php"><span itemprop="name">Layanan</span></a><meta itemprop="position" content="2"></li>
+						<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/layanan/digital-marketing.php"><span itemprop="name">Digital Marketing</span></a> <meta itemprop="position" content="3"></li>
+						<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="#"><span itemprop="name">Layanan SEO</span></a> <meta itemprop="position" content="4"></li>
 					</ol>
 				</div>
         <!-- Banner -->
@@ -239,8 +239,6 @@
 								</div>
 							</div>
 						</div>
-
-
           </div>
         </div>
 				<div class="black-separation"></div>
@@ -248,7 +246,7 @@
 					<div class="row equal-height">
 						<div class="col-xs-12 col-sm-offset-1 col-sm-5 col-lg-offset-2 col-lg-4">
 							<div class="center-v-h">
-								<h3><strong>LOGIQUE</strong> Provides Service with White Hat SEO</h3>
+								<h3><strong>LOGIQUE</strong> Menyediakan Jasa untuk SEO White Hat.</h3>
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-5 col-lg-4">
@@ -260,7 +258,7 @@
 					<div class="row">
 						<div class="col-sm-offset-1 col-sm-10 col-lg-offset-2 col-lg-8">
 							<div class="crowd-banner">
-								<p class="text-center">Kenapa Anda harus memilih kami? Sebab, LOGIQUE menyediakan jasa SEO profesional dengan penerapan strategi SEO White Hat yang terbukti telah membantu berbagai klien nasional dan internasional mencapai target bisnisnya.</p>
+								<p class="text-center">Kenapa Anda harus memilih kami? Sebab, LOGIQUE menyediakan <strong>jasa SEO profesional</strong> dengan penerapan strategi SEO White Hat yang terbukti telah membantu berbagai klien nasional dan internasional mencapai target bisnisnya.</p>
 							</div>
 						</div>
 					</div>
@@ -275,7 +273,7 @@
 									<img class="img-responsive center-block" src="img/img-seo-maintenance/white-hat.png" alt="White Hat SEO">
 								</div>
 								<div class="col-md-7">
-									<p>What Is White Hat SEO? White Hat SEO is one of SEO strategies that follows search engines regulations. The goal in implementing the White Hat SEO technique is to acquire first position on the search engine. Companies or agencies that provide professional SEO services will use White Hat SEO strategies.</p>
+									<p><strong>Apa Itu SEO White Hat?</strong> SEO White Hat adalah salah satu strategi atau teknik SEO yang sesuai dengan regulasi yang ditetapkan oleh mesin pencari.</p>
 								</div>
 							</div>
 						</div>
@@ -287,7 +285,7 @@
 									<img class="img-responsive center-block" src="img/img-seo-maintenance/black-hat.png" alt="Black Hat SEO">
 								</div>
 								<div class="col-md-7">
-									<p>The opposite one is Black Hat SEO. Black Hat SEO is an SEO strategy that is opposite with SEO White Hat. This SEO strategy does not follow the search engines regulations.</p>
+									<p><strong>SEO Black Hat</strong> adalah strategi SEO yang bersebrangan dengan SEO White Hat. Strategi SEO ini tidak mengikuti regulasi yang telah ditetapkan oleh mesin pencari.</p>
 								</div>
 							</div>
 						</div>
@@ -302,7 +300,11 @@
 						</div>
 					</div>
 					<div class="col-md-6 col-lg-8">
-						<p>Therefore, SEO practitioners who implement this strategy will not create an informative content to the users. SEO optimization is only intended to make the page appear on the first page of search engines. After the user searched and read the contents, the information in the content is less than SEO White Hat content. Companies or agencies that provide professional SEO services will not implementing a Black Hat SEO strategy to minimize the risks.</p>
+						<p>
+							Oleh karena itu, praktisi SEO yang mengimplementasikan strategi ini akan mengindahkan pembuatan konten-konten informatif dan berkualitas untuk disajikan kepada pengguna.
+							Optimasi SEO yang dilakukan hanya bertujuan untuk membuat suatu halaman tampil pada halaman pertama mesin pencari.
+							Setelah pengguna mencari dan membaca isi konten dari halaman tersebut, informasinya sungguh minim dan kurang berkualitas. Perusahaan atau agensi yang menyediakan jasa SEO profesional akan menghindari penerapan strategi SEO Black Hat untuk meminimalisir resiko yang terjadi terhadap projek projek atau klien.
+						</p>
 					</div>
 				</div>
 			</div>
@@ -310,44 +312,44 @@
 				<div class="row equal-height">
 					<div class="col-xs-12 col-sm-offset-1 col-sm-5">
 						<div class="card-info">
-							<h4 class="text-center">White Hat SEO</h4>
+							<h4 class="text-center">SEO White Hat</h4>
 							<ul>
-								<li>Analyze keywords that are relevant to the content</li>
-								<li>Create link building that relevant with the content</li>
-								<li>Write articles and informative content for users</li>
-								<li>Create user-friendly navigation website page</li>
-								<li>Input relevant keywords in meta tags of a site's page</li>
+								<li>Analisa kata kunci yang relevan dengan konten.</li>
+								<li>Pembuatan link building yang sesuai dengan tema atau topik konten.</li>
+								<li>Menulis artikel dan konten informatif bagi para pengguna.</li>
+								<li>Membuat tampilan situs dengan navigasi yang mudah untuk dimengerti oleh pengguna.</li>
+								<li>Pencantuman kata kunci yang relevan pada meta tags suatu halaman situs.</li>
 							</ul>
 						</div>
 					</div>
 					<div class="col-xs-12 col-sm-5">
 						<div class="card-info">
-							<h4 class="text-center">Black Hat SEO</h4>
+							<h4 class="text-center">SEO Black Hat</h4>
 							<ul>
-								<li>Keyword stuffing (Input a large number of keywords)</li>
-								<li>Enter irrelevant keywords</li>
-								<li>Hidden text (hiding text to trick search engine crawlers)</li>
-								<li>hange the site page after page has been ranked in a search engine.</li>
+								<li>Keyword stuffing (memasukkan kata kunci dalam jumlah yang cukup banyak).</li>
+								<li>Memasukkan kata kunci yang tidak relevan.</li>
+								<li>Hidden text (menyembunyikan teks untuk mencurangi crawler mesin pencari).</li>
+								<li>Mengganti halaman situs setelah mendapatkan peringkat dari mesin pencari.</li>
 							</ul>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="is-it-important">
-				<h3><strong>Is It Important to Choose Companies that Implement White Hat SEO?</strong></h3>
+				<h3><strong>Apakah Penting untuk Memilih Perusahaan yang Mengimplementasikan SEO White Hat?</strong></h3>
 				<p>
-					Yes, it is. The implementation of Black Hat SEO can make your site pages being block by Google and other search engines.
+					Ya, cukup penting. Penerapan SEO Black Hat dapat membuat halaman situs Anda dibanned atau diblokir oleh Google dan mesin pencari lainnya.
 				</p>
 				<p>
-					As the most popular search engine, Google has been visited by billions of users every day. Your site has great potential to get traffic and new users from those large number of visits.
+					Sebagai mesin pencari yang paling populer, Google telah dikunjungi oleh milyaran pengguna setiap harinya. Situs Anda memiliki potensi besar untuk mendapatkan traffic dan pengguna baru dari banyaknya jumlah kunjungan tersebut.
 				</p>
 				<p>
-					Google is an important source to your website traffic. Blocked by Google can dramatically reduce your business traffic. In addition, Google does not guarantee that your site will acquire a rank in search engine again after your site has been blocked.
+					Google merupakan sumber traffic yang cukup berpengaruh pada situs Anda. Diblokir oleh Google dapat mengakibatkan penurunan traffic bahkan bisnis Anda secara drastis. Selain itu, Google tidak memberikan jaminan bahwa situs Anda akan mendapatkan peringkat kembali setelah situs Anda diblokir.
 				</p>
 				<p>
-					It can be a serious risk to your site and business if your site has been blocked by Google. So why do you have to take enormous risks?
+					Pemblokiran situs oleh Google dapat memberikan resiko serius pada situs dan bisnis Anda. Jadi, mengapa Anda harus mengambil resiko yang sangat besar seperti yang sudah dijelaskan sebelumnya?
 				</p>
-				<span>LOGIQUE is ready to help implement White Hat SEO for your business!</span>
+				<span>LOGIQUE siap membantu menerapkan SEO White Hat untuk bisnis Anda!</span>
 			</div>
       <?php include '../../footer.php'; ?>
     </div>

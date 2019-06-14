@@ -422,13 +422,8 @@ ul.medsos-new li a{
     }
 }
 
-.banner-seo-service {
-	padding-bottom: 50px;
-}
-
 .banner-heading {
-	margin: 40px 0 85px 0;
-	padding: 0 15px;
+	padding: 40px 15px 0 15px;
 }
 
 .banner-seo-service h2 {
@@ -445,12 +440,33 @@ ul.medsos-new li a{
 	color: #000;
 }
 
+.list-seo-services {
+	padding: 85px 0 50px 0;
+}
+
+/* @media (min-width: 992px) {
+	.list-seo-services {
+		background: url('../img/img-seo-maintenance/seo-service-pattern.png');
+		background-size: auto;
+		background-position: 80% 13%;
+		background-repeat: no-repeat;
+		background-color: #fff;
+	}
+}
+
+@media (min-width: 1100px) {
+	.list-seo-services {
+		background-position: 80% 25%;
+	}
+} */
+
 @media (max-width: 991px) {
 	.banner-seo-service h2 {
 		margin-top: 40px;
 	}
-	.banner-heading {
-		margin: 40px 0 40px 0;
+
+	.list-seo-services {
+		padding: 40px 0 50px 0;
 	}
 }
 
@@ -624,7 +640,6 @@ ul.medsos-new li a{
 	margin: 0 8% 0 13%;
 	background-color: #fff;
 	padding: 25px 12px 20px 12px;
-	font-weight: 600;
 }
 
 @media (min-width: 421px) {
