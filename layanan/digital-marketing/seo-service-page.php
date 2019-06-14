@@ -140,59 +140,100 @@
 				</div>
         <!-- Banner -->
         <div class="banner-seo-service">
-          <div class="row">
-            <div class="col-md-6 col-lg-5 col-lg-offset-1">
-              <img class="img-responsive" src="img/img-seo-maintenance/seo-maintenance-banner1.png" alt="Seo Maintenance">
-            </div>
-            <div class="col-md-5 col-lg-5">
-              <h2><strong>Seo Maintenance</strong></h2>
-              <p>
-                <strong style="font-size: 26px;">LOGIQUE</strong>
-                <br>
-                memberikan layanan SEO maintenance yang dilakukan secara berkala untuk meningkatkan jumlah traffic pengunjung dan menjaga agar website Anda tetap berada di posisi teratas dari mesin pencari. Dengan harga mulai dari <strong style="font-size: 20px;">Rp5.000.000/bulan</strong> Anda sudah bisa mendapatkan banyak layanan SEO dari kami, seperti: search rank report, analytics report, konsultasi SEO, search console and web maintenance (termasuk SEO), serta penulisan/ penyesuaian konten.
-              </p>
-            </div>
-          </div>
+					<div class="banner-heading">
+						<div class="row">
+	            <div class="col-md-6 col-lg-5 col-lg-offset-1">
+	              <img class="img-responsive center-block" src="img/img-seo-maintenance/seo-maintenance-banner1.png" alt="Seo Maintenance">
+	            </div>
+	            <div class="col-md-5 col-lg-5">
+	              <h2><strong>Seo Maintenance</strong></h2>
+	              <p>
+	                <strong style="font-size: 26px;">LOGIQUE</strong>
+	                <br>
+	                memberikan layanan SEO maintenance yang dilakukan secara berkala untuk meningkatkan jumlah traffic pengunjung dan menjaga agar website Anda tetap berada di posisi teratas dari mesin pencari. Dengan harga mulai dari <strong style="font-size: 20px;">Rp5.000.000/bulan</strong> Anda sudah bisa mendapatkan banyak layanan SEO dari kami, seperti: search rank report, analytics report, konsultasi SEO, search console and web maintenance (termasuk SEO), serta penulisan/ penyesuaian konten.
+	              </p>
+	            </div>
+	          </div>
+					</div>
           <div class="list-seo-services">
 						<div class="row">
 							<div class="col-lg-offset-2 col-lg-8">
 								<div class="row">
 									<div class="col-sm-4">
-										<div class="seo-services">
+										<div class="seo-services row-1">
 											<img class="img-responsive" src="img/img-seo-maintenance/search-robot.png" alt="Search Rank Report">
 											<span>SEARCH RANK REPORT</span>
+											<div class="visible-xs">
+												<p>
+													Sebagai penyedia layanan SEO profesional, kami memberikan layanan Search Rank Report, dimana kami akan melakukan pengecekan secara berkala atas posisi keyword website Anda di mesin pencari. Dengan menganalisa naik turunnya peringkat keyword, Anda dapat memaksimalkan pembaruan keyword untuk menjaga website Anda tetap berada di posisi teratas dari mesin pencari.
+												</p>
+											</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<div class="seo-services">
+										<div class="seo-services row-1">
 											<img class="img-responsive" src="img/img-seo-maintenance/analytics-report.png" alt="Analytics Report">
 											<span>ANALYTICS REPORT</span>
+											<div class="visible-xs">
+												<p>
+													Dalam layanan SEO maintenance yang kami berikan, kami akan memberikan laporan kepada Anda mengenai berapakah jumlah traffic pengunjung pada keseluruhan website Anda saat ini, halaman website mana yang ramai dikunjungi, informasi demografis pengunjung, device apakah yang paling banyak digunakan untuk mengunjungi halaman Anda, dan beberapa informasi lain yang Anda butuhkan.
+													Hal ini bertujuan agar Anda dapat mengidentifikasi tren dan peluang untuk meningkatkan jumlah traffic kunjungan pada website Anda.
+												</p>
+											</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<div class="seo-services">
+										<div class="seo-services row-1">
 											<img class="img-responsive" src="img/img-seo-maintenance/speaker.png" alt="Konsultasi SEO">
 											<span>KONSULTASI SEO</span>
+											<div class="visible-xs">
+												<p>
+													Kami memiliki pakar SEO yang berpengalaman dan profesional di bidangnya. Kami menyediakan layanan Google Analytic report, layanan Search Console, dan layanan konsultasi SEO kepada para klien kami.
+													Kami memberikan layanan berupa analisa secara menyeluruh, rekomendasi strategi yang terbaik, seperti meningkatkan impression, menurunkan bounce rate dan mencapai target conversion klien, sehingga posisi website Anda meningkat dan berada di posisi teratas pada hasil mesin pencari.
+												</p>
+											</div>
 										</div>
 									</div>
 								</div>
+								<div class="seo-services-bubble hidden-xs">
+									<p></p>
+								</div>
 								<div class="row">
 									<div class="col-sm-4">
-										<div class="seo-services">
+										<div class="seo-services row-2">
 											<img class="img-responsive" src="img/img-seo-maintenance/search-service.png" alt="Search Console Services">
 											<span>SEARCH CONSOLE SERVICES</span>
+											<div class="visible-xs">
+												<p>
+													Kami juga memberikan Anda layanan pembuatan Search Console yang bertujuan untuk membantu Anda dalam menganalisa search query yang digunakan para pengunjung untuk merujuk pada website Anda, melihat website yang menautkan link menuju website Anda, hingga menemukan HTML error yang ada pada website Anda.
+													Layanan pembuatan Search Console yang kami berikan selain untuk memperbaiki website Anda sehingga sesuai dengan pedoman dari mesin pencari, juga dapat membantu Anda dalam melakukan optimasi website serta menemukan keyword baru yang menurut mesin pencari relevan dengan website Anda saat Googlebot melakukan crawling dan indexing.
+												</p>
+											</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<div class="seo-services">
+										<div class="seo-services row-2">
 											<img class="img-responsive" src="img/img-seo-maintenance/web-maintenance.png" alt="WEB MAINTENANCE INCLUDE SEO">
 											<span>PEMELIHARAAN WEB (WEB MAINTENANCE) TERMASUK SEO</span>
+											<div class="visible-xs">
+												<p>
+													Tidak seperti perusahaan lain yang hanya menyediakan jasa layanan SEO saja, LOGIQUE tidak hanya menyediakan layanan SEO saja, namun juga menyediakan layanan pemeliharaan web atau Web Maintenance untuk membantu mendukung kinerja dari penerapan SEO itu sendiri, seperti melakukan pengecekan dan perbaikan pada Java Script, CSS, HTML, dan lain-lain.
+													Kami juga telah menggunakan sertifikat SSL yang mendukung penerapan SEO pada website sehingga mesin pencari dapat dengan cepat mengatur ranking website Anda sehingga mendapatkan posisi tinggi di mesin pencari yang akhirnya membuat situs Anda mendapatkan traffic kunjungan lebih banyak.
+												</p>
+											</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
-										<div class="seo-services">
+										<div class="seo-services row-2">
 											<img class="img-responsive" src="img/img-seo-maintenance/content-writing.png" alt="Penulisan / Penyesuaian Konten">
 											<span>PENULISAN / PENYESUAIAN KONTEN</span>
+											<div class="visible-xs">
+												<p>
+													Penulisan atau penyesuaian konten merupakan layanan SEO maintenance kami lainnya.
+													Pada layanan penulisan dan penyesuaian konten ini, kami akan membuat konten yang telah disesuaikan dengan kaidah-kaidah SEO berupa artikel maupun landing page sehingga membantu meningkatkan traffic kunjungan website Anda melalui sumber organic yang relevan dengan bisnis Anda.
+													Kami mempunyai para content writer profesional yang telah mempunyai banyak pengalaman di bidang penulisan artikel dan konten sesuai dengan kaidah-kaidah SEO menggunakan SEO Tools terbaik.
+												</p>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -205,13 +246,13 @@
 				<div class="black-separation"></div>
 				<div class="banner-black-white-hat">
 					<div class="row equal-height">
-						<div class="col-sm-offset-1 col-sm-5 col-lg-offset-2 col-lg-4">
+						<div class="col-xs-12 col-sm-offset-1 col-sm-5 col-lg-offset-2 col-lg-4">
 							<div class="center-v-h">
 								<h3><strong>LOGIQUE</strong> Provides Service with White Hat SEO</h3>
 							</div>
 						</div>
-						<div class="col-sm-6 col-md-5 col-lg-4">
-							<img class="img-responsive" src="img/img-seo-maintenance/laptop-white-hat.png" alt="White Hat SEO">
+						<div class="col-xs-12 col-sm-6 col-md-5 col-lg-4">
+							<img class="img-responsive center-block" src="img/img-seo-maintenance/laptop-white-hat.png" alt="White Hat SEO">
 						</div>
 					</div>
 				</div>
@@ -219,33 +260,43 @@
 					<div class="row">
 						<div class="col-sm-offset-1 col-sm-10 col-lg-offset-2 col-lg-8">
 							<div class="crowd-banner">
-								<p class="text-center">LOGIQUE is the best SEO service company in Jakarta those provides SEO services with white Hat SEO implementation strategies. Logique is proven to help various national and international clients to reach their business goals.</p>
+								<p class="text-center">Kenapa Anda harus memilih kami? Sebab, LOGIQUE menyediakan jasa SEO profesional dengan penerapan strategi SEO White Hat yang terbukti telah membantu berbagai klien nasional dan internasional mencapai target bisnisnya.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-			<div class="row">
-				<div class="col-md-6">
-					<div class="">
-						<div class="">
-							<img class="img-responsive" src="img/img-seo-maintenance/white-hat.png" alt="White Hat SEO">
+			<div class="black-white-hat-seo">
+				<div class="row equal-height">
+					<div class="col-xs-12 col-sm-offset-1 col-sm-5">
+						<div class="card-info">
+							<div class="row equal-height">
+								<div class="col-xs-12 col-md-5">
+									<img class="img-responsive center-block" src="img/img-seo-maintenance/white-hat.png" alt="White Hat SEO">
+								</div>
+								<div class="col-md-7">
+									<p>What Is White Hat SEO? White Hat SEO is one of SEO strategies that follows search engines regulations. The goal in implementing the White Hat SEO technique is to acquire first position on the search engine. Companies or agencies that provide professional SEO services will use White Hat SEO strategies.</p>
+								</div>
+							</div>
 						</div>
-						<p>What Is White Hat SEO? White Hat SEO is one of SEO strategies that follows search engines regulations. The goal in implementing the White Hat SEO technique is to acquire first position on the search engine. Companies or agencies that provide professional SEO services will use White Hat SEO strategies.</p>
 					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="">
-						<div class="">
-							<img class="img-responsive" src="img/img-seo-maintenance/black-hat.png" alt="Black Hat SEO">
+					<div class="col-xs-12 col-sm-5">
+						<div class="card-info">
+							<div class="row equal-height">
+								<div class="col-xs-12 col-md-5">
+									<img class="img-responsive center-block" src="img/img-seo-maintenance/black-hat.png" alt="Black Hat SEO">
+								</div>
+								<div class="col-md-7">
+									<p>The opposite one is Black Hat SEO. Black Hat SEO is an SEO strategy that is opposite with SEO White Hat. This SEO strategy does not follow the search engines regulations.</p>
+								</div>
+							</div>
 						</div>
-						<p>The opposite one is Black Hat SEO. Black Hat SEO is an SEO strategy that is opposite with SEO White Hat. This SEO strategy does not follow the search engines regulations.</p>
 					</div>
 				</div>
 			</div>
 			<div class="reason-black-hat-bad">
 				<div class="row equal-height">
-					<div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-5 col-lg-offset-0 col-lg-4">
+					<div class="col-xs-12 col-md-offset-1 col-md-5 col-lg-offset-0 col-lg-4">
 						<div class="center-v-h">
 							<img class="img-responsive" src="img/img-seo-maintenance/laptop-rocket.png" alt="Reason Black Hat Bad">
 						</div>
@@ -257,7 +308,7 @@
 			</div>
 			<div class="seo-hat-characteristics">
 				<div class="row equal-height">
-					<div class="col-sm-offset-1 col-sm-5">
+					<div class="col-xs-12 col-sm-offset-1 col-sm-5">
 						<div class="card-info">
 							<h4 class="text-center">White Hat SEO</h4>
 							<ul>
@@ -269,7 +320,7 @@
 							</ul>
 						</div>
 					</div>
-					<div class="col-sm-5">
+					<div class="col-xs-12 col-sm-5">
 						<div class="card-info">
 							<h4 class="text-center">Black Hat SEO</h4>
 							<ul>
@@ -301,6 +352,35 @@
       <?php include '../../footer.php'; ?>
     </div>
   </div>
+	<script type="text/javascript">
+		//ambil konten dari button seo services dan menaruh ke bubble container
+		window.addEventListener('load' ,function () {
+			var seo_services_btn = document.querySelectorAll('.seo-services');
+			var bubble_paragraph = document.querySelector('.seo-services-bubble p');
+
+			//initial active content
+			var bubble_content = seo_services_btn[0].querySelector('p').textContent;
+			seo_services_btn[0].classList.add('active');
+			bubble_paragraph.textContent = bubble_content;
+
+			//ketika diclick
+			seo_services_btn.forEach( function (btn) {
+				btn.addEventListener('click', function (event) {
+					if (window.innerWidth >= 768) {
+						var current_target = event.target;
+
+						seo_services_btn.forEach( function (seo_btn) {
+							seo_btn.classList.remove('active');
+						});
+						current_target.classList.add('active');
+
+						var bubble_content = current_target.querySelector('p').textContent;
+						bubble_paragraph.textContent = bubble_content;
+					}
+				});
+			});
+		});
+	</script>
 </body>
 
 </html>
