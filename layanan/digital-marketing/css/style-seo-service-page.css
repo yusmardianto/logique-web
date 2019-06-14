@@ -423,7 +423,12 @@ ul.medsos-new li a{
 }
 
 .banner-seo-service {
-	padding: 50px 0;
+	padding-bottom: 50px;
+}
+
+.banner-heading {
+	margin: 40px 0 85px 0;
+	padding: 0 15px;
 }
 
 .banner-seo-service h2 {
@@ -440,14 +445,60 @@ ul.medsos-new li a{
 	color: #000;
 }
 
+@media (max-width: 991px) {
+	.banner-seo-service h2 {
+		margin-top: 40px;
+	}
+	.banner-heading {
+		margin: 40px 0 40px 0;
+	}
+}
+
 .seo-services {
 	background-color: #fff;
 	box-shadow: 0 0 3px 2px rgba(11, 34, 47, 0.2);
 	padding: 20px;
-	border-radius: 10px;
 	width: 180px;
+	border-radius: 10px;
 	min-height: 180px;
 	margin: 30px auto;
+}
+
+.seo-services * {
+	pointer-events: none;
+}
+
+@media (min-width: 768px) {
+	.seo-services:hover {
+		background-color: #e4e4e4;
+		cursor: pointer;
+	}
+
+	.seo-services.active {
+		position: relative;
+		background-color: #e4e4e4;
+	}
+
+	.seo-services.active::after {
+		content: '';
+		position: absolute;
+		left: 50%;
+		transform: translateX(-50%);
+		width: 0;
+		height: 0;
+		border-left: solid 15px transparent;
+		border-right: solid 15px transparent;
+	}
+
+	.seo-services.row-1.active::after {
+		bottom: -30px;
+		border-bottom: solid 20px #efefef;
+	}
+
+	.seo-services.row-2.active::after {
+		top: -30px;
+		border-top: solid 20px #efefef;
+	}
 }
 
 .seo-services img {
@@ -457,7 +508,46 @@ ul.medsos-new li a{
 .seo-services span {
 	display: block;
 	text-align: center;
+	font-size: 14px;
+	font-weight: 600;
 }
+
+.seo-services p {
+	margin-top: 15px;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+.seo-services-bubble {
+	background-color: #efefef;
+	border-radius: 75px;
+	min-height: 125px;
+	padding: 25px 65px;
+	margin: 0 30px;
+}
+
+.seo-services-bubble p {
+	text-align: justify;
+	text-justify: inter-word;
+	font-size: 15px;
+}
+
+@media (max-width: 767px) {
+	.seo-services {
+		max-width: 320px;
+		width: auto;
+	}
+
+	.seo-services:hover {
+		background-color: #fff;
+		cursor: initial;
+	}
+
+	.seo-services span {
+		font-size: 16px;
+	}
+}
+
 
 .black-separation {
 	width: 100%;
@@ -474,7 +564,26 @@ ul.medsos-new li a{
 }
 
 .banner-black-white-hat h3 {
-	font-size: 28px;
+	font-size: 30px;
+}
+
+@media (max-width: 767px) {
+	.banner-black-white-hat {
+		min-height: 450px;
+	}
+	.banner-black-white-hat .equal-height > div:nth-child(1) {
+		order: 2;
+	}
+
+	.banner-black-white-hat .equal-height > div:nth-child(2) {
+		order: 1;
+	}
+
+	.banner-black-white-hat h3 {
+		font-size: 26px;
+		margin-top: 35px;
+		text-align: center;
+	}
 }
 
 .row.equal-height {
@@ -505,22 +614,71 @@ ul.medsos-new li a{
 	background-position: center;
 	background-size: contain;
 	min-height: 400px;
+	max-width: 800px;
+	margin: 0 auto;
 	background-repeat: no-repeat;
-	padding-top: 200px;
+	padding-top: 180px;
 }
 
 .crowd-banner p {
-	/* width: 100%; */
-	margin: 0 10% 0 15%;
+	margin: 0 8% 0 13%;
 	background-color: #fff;
-	padding-bottom: 20px;
+	padding: 25px 12px 20px 12px;
 	font-weight: 600;
-	/* margin: 0 20% 0 23%; */
+}
+
+@media (min-width: 421px) {
+	.crowd-banner p {
+		margin: 0 calc(8% + 1px) 0 13%;
+	}
+}
+
+@media (min-width: 620px) {
+	.crowd-banner p {
+		padding: 10px 12px 20px 12px;
+	}
+	.crowd-banner p {
+		margin: 0 17% 0 22%;
+	}
+}
+
+@media (min-width: 768px) {
+	.crowd-banner p {
+		margin: 0 calc(8% + 2px) 0 12%;
+	}
+}
+
+@media (min-width: 880px) {
+	.crowd-banner p {
+		margin: 0 14% 0 20%;
+	}
+}
+
+@media (min-width: 992px) {
+	.crowd-banner p {
+		margin: 0 18% 0 22%;
+	}
+}
+
+@media (min-width: 1101px) {
+	.crowd-banner p {
+		margin: 0 23% 0 25%;
+	}
 }
 
 .display-flex {
 	display: flex;
 	flex-direction: row;
+}
+
+.black-white-hat-seo {
+	margin: 50px 0;
+}
+
+@media (max-width: 991px) {
+	.black-white-hat-seo p {
+		margin-top: 25px;
+	}
 }
 
 .reason-black-hat-bad {
@@ -549,15 +707,22 @@ ul.medsos-new li a{
 }
 
 .seo-hat-characteristics {
-	margin: 50px 0;
+	margin: 50px auto;
 }
 
 .card-info {
 	border: solid 2px #dbd8d8;
 	border-radius: 10px;
 	padding: 20px;
-	height: 100%;
+	margin: 25px auto;
 	max-width: 440px;
+}
+
+@media (min-width: 768px) {
+	.card-info {
+		margin: 0 auto;
+		height: 100%;
+	}
 }
 
 .card-info h4 {
