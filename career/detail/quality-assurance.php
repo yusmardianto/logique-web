@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Lowongan Quality Assurance. Dicari yang berpengalaman dengan berbagai jenis dan tingkat pengujian, pengujian integrasi, pengujian regresi, pengujian mobile, pengujian data yang besar, pengujian lintas platform, pengujian komponen, pengujian keamanan, pengujian kinerja, Pengujian UI/UX, pengujian A/B.">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, networking, marketing, quality assurance, indonesia, ui, ux, ui/ux, ab testing, a/b testing, pengujian fungsional, pengujian integrasi, pengujian regresi, pengujian mobile, pengujian data yang besar, pengujian lintas platform, pengujian komponen, pengujian keamanan, pengujian kinerja">
+    <meta name="description" itemprop="description" content="Dicari Quality Assurance yang berpengalaman dengan berbagai jenis dan tingkat pengujian, terbiasa menggunakan Git, JIRA, Mantis,TestRail, mampu mengembangkan dan memelihara pengujian skenario dan end user script, serta memiliki pengetahuan yang dalam tentang metodologi / siklus QA">
+	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta,  networking, marketing, quality assurance, indonesia, ui, ux, ui/ux, ab testing, a/b testing, pengujian fungsional, pengujian integrasi, pengujian regresi, pengujian mobile, pengujian data yang besar, pengujian lintas platform, pengujian komponen, pengujian keamanan, pengujian kinerja">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">

@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Dicari Technical Consultant yang mampu menganalisa dan merekomendasikan solusi sistem web dan website terbaik untuk memecahkan masalah dalam proses bisnis. Seorang Technical Consultant harus memiliki pengetahuan yang luas baik dari sisi bisnis maupun teknikal.">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, networking, marketing, Technical Consultant, indonesia, web development, digital marketing, software consultation">
+    <meta name="description" itemprop="description" content="Dicari Technical Consultant yang mampu memberi saran strategis seputar teknologi, mendesain sistem dan IT network, merevisi sistem dan membantu masalah teknis. Must skill: sarjana, pengalaman IT consultant, sistem operasi dan database. Salary negotiable.">
+	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta,  networking, Technical Consultant, indonesia, web development, digital marketing, software consultation, salary, negotiable, sistem IT, komputer, IT, sistem operasi, database, analisa, skill, pengalaman, sarjana">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">

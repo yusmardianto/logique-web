@@ -651,6 +651,22 @@
 										</div>
 									</div>
 								</div>
+								<div class="col-md-3" data-name="5">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+											<img src="/img/career/consultant.png" />
+											<h3 style="font-size:20px;">Web Security Specialist</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/web-security.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
 								<div class="col-md-3" data-name="7">
 									<div class="panel panel-default">
 										<div class="panel-body">
