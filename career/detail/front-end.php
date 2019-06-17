@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Dicari Frontend Developer yang berpengalaman dengan React.js, terbiasa menggunakan EcmaScript, integrasi RESTful API, dan HTML/CSS. Segera daftarkan diri anda di LOGIQUE.">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, Front end developer, frontend developer, indonesia, RESTful API, Redux / Flux, pwa, html, css, expressJS, mongoDB">
+    <meta name="description" itemprop="description" content="Dicari Frontend Developer yang berpengalaman minimal 2 tahun dalam membuat web/sistem dengan React.js, terbiasa menggunakan EcmaScript, integrasi RESTful API, dan HTML5/CSS3, jQuery. Lebih disukai jika menguasai Ionic, Angular, Node JS. Salary negotiable">
+	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, Front end developer, frontend developer, indonesia, RESTful API, Redux / Flux, pwa,  html, css, expressJS, mongoDB, ionic, angular, node JS, jquery, ecmascript, react js, Jogya, Yogyakarta, coding, website, aplikasi, sistem, bootstrap, foundation, material UI">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
@@ -14,7 +14,7 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Dicari Frontend Developer yang berpengalaman dengan React.js, terbiasa menggunakan EcmaScript, integrasi RESTful API, dan HTML/CSS. Segera daftarkan diri anda di LOGIQUE.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Lowongan - Front End Developer</title>
+    <title>Lowongan - Front End</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
