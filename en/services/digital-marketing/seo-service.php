@@ -180,7 +180,7 @@
 											<span>ANALYTICS REPORT</span>
 											<div class="visible-xs">
 												<p>
-                          As part of our service in SEO maintenance services, we will give you a comprehensive and analytical report about your website's traffic. This includes your visitors' behavior, demographics, which web pages are visited, most used devices to visit your website, and many useful information that you need. With this report, you can identify trends and opportunities to increase the amount of traffic on your website.
+                          As part of our service in SEO maintenance services, we will give you a comprehensive and analytical report about your website's traffic. This includes your visitors' behavior, demographics, which web pages are visited, most used devices to visit your website, and many useful information that you need. With this report, you can identify trends and opportunities to increase the amount of traffic on your website.
 												</p>
 											</div>
 										</div>
