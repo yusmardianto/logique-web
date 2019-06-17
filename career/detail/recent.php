@@ -216,7 +216,7 @@
 						<div class="boxfull">Fulltime</div>
 					</div>
 					<div class="panel-footer">
-						<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+						<p></p>
 						<div class="text-center">
 							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="web-security.php">Detail</a>
 						</div>

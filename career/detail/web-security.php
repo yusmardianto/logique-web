@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Tertarik dan berpengetahuan yang baik dalam bidang pembuatan website, web sistem, atau aplikasi mobile? Bisa bekerja dibawah tekanan dan berkoordinasi dengan baik? Bergabunglah dengan PT LOGIQUE sebagai Pre-sales Consultant.">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, networking, marketing, sales consultant, pre-sales consultant, indonesia, problem solving">
+    <meta name="description" itemprop="description" content="Dicari Web Security Specialist yang tersertifikasi sebagai CEH dan CSCU yang mampu mengevaluasi hasil VATest / Pentest, mengimplementasi dan merekomendasikan tindakan preventif. Diutamakan pemahaman kode etik hacking, thread modelling, commercial mapping, penetration testing web, app, dan network.">
+	<meta name="keywords" content="lowongan, kerja, jakarta, yogyakarta, remote job jakarta, kerja remote jakarta, indonesia, web security specialist, certified ethical hacker, certified secure computer user, ec council, information security architecture, penetration testing, thread modelling tool, commercial mapping, open source modelling tool, penetration system testing, web based app, aplikasi web based, metworking, network security, working independently, hacking code of ethics, kode etik hacking, scripting, CEH, CSCU, vatest, pentest, preventive measure, API, Yogya">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
@@ -133,9 +133,9 @@
 								<div class="col-md-6 text-center">
 									<h1><img src="/img/career/consultant.png" style="filter: contrast(0%) brightness(150%);"> Web Security Specialist</h1>
 								</div>
-								<div class="col-md-6 text-center">
+								<!-- <div class="col-md-6 text-center">
 									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
