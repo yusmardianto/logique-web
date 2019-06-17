@@ -211,14 +211,14 @@
 				<div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
 					<div class="panel-body">
 						<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
-						<img src="/img/career/fe.png" />
-						<h3>Front End Developer</h3>
+						<img src="/img/career/consultant.png" />
+						<h3 style=" font-size: 21px; ">Web Security Specialist</h3>
 						<div class="boxfull">Fulltime</div>
 					</div>
 					<div class="panel-footer">
 						<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 						<div class="text-center">
-							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="front-end.php">Detail</a>
+							<a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="web-security.php">Detail</a>
 						</div>
 					</div>
 				</div>

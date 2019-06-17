@@ -150,16 +150,17 @@
 									<li>Merencanakan dan mengeksekusi VATest / Pentest terhadap jaringan, server, web aplikasi / API, dan mobile apps.</li>
 									<li>Mengevaluasi hasil VATest / Pentest, memberikan rekomendasi sesuai best practice, serta membuat laporan resmi kepada management.</li>
 									<li>Memberikan layanan konsultasi dalam analisis dan implementasi keamanan cyber untuk klien</li>
-									<li>Melakukan riset serta studi dari berbagai sumber secara berkelanjutan serta meremomendasikan tindakan preventif.</li>
-									<li>Melakuan analisis resiko keamanan dalam cakupan system secara menyeluruh.</li>
+									<li>Melakukan riset serta studi dari berbagai sumber secara berkelanjutan serta merekomendasikan tindakan preventif.</li>
+									<li>Melakukan analisis resiko keamanan dalam cakupan system secara menyeluruh.</li>
 									<li>Membuat dokumentasi security yang akurat </li>
 									</ul><br>
 									<b class="getN">Must Skill/Experience:</b><br>
 									<ul class="joinus-ul">
 									<li>Memiliki gelar minimal S1 dalam bidang Software Design, Engineering Computer Science atau setingkat.</li>
 									<li>Tersertifikasi sebagai CEH (Certified Ethical Hacker) dan CSCU (Certified Secure Computer User) dari EC-Coucil.</li>
-									<li>Memiliki kemampuan teknikal yang mendalam dibidang information security architecture dan penetration testing.</li>
-									<li>Dapat melakukan dokumentasi dan presentasi laporan dengan baikTerbiasa melaukan pengujian</li>
+									<li>Memiliki kemampuan teknikal yang mendalam di bidang information security architecture dan penetration testing.</li>
+									<li>Dapat melakukan dokumentasi dan presentasi laporan dengan baik </li>
+									<li>Terbiasa melakukan pengujian</li>
 									<li>Memiliki pemahaman dan pengalaman yang mendalam tentang penggunaan berbagai jenis pengujian penetrasi atau threat modelling tools termasuk open source dan commercial mapping.</li>
 									<li>Berpengalaman dalam bidang pengujian penetrasi sistem, aplikasi web-based, dan jaringan.</li>
 									<li>Dapat bekerja secara independen dalam sebuah tim..</li>
@@ -171,7 +172,7 @@
 									<li>Memiliki kemampuan presentasi yang baik kepada pihak profesional (non IT) Preferable</li>
 									<li>Memiliki kemampuan scripting dan pengalaman programming</li>
 									<li>Kemampuan scripting dan pengalaman reverse engineering</li>
-									<li>Berpengalaman dalam bidang consulting dan dapat menunjukan keahlian dalam memahami kebutuhan klien, membangun hubungan dengan klien Rewards dan Worthwhile</li>
+									<li>Berpengalaman dalam bidang consulting dan dapat menunjukkan keahlian dalam memahami kebutuhan klien, membangun hubungan dengan klien Rewards dan Worthwhile</li>
 									<li>Anda akan merasa tertantang untuk mengetahui seberapa aman kah web atau aplikasi</li>
 									<li>Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang dihadapi.</li>
 									</ul><br>

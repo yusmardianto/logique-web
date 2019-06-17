@@ -325,7 +325,7 @@
 									<img src="/img/career/wiz3.png" class="wizart-m_" data-aos="fade-left" data-aos-duration="1000"/>
 									<div class="col-md-4 text-center boximg-fe hidden-sm hidden-md hidden-lg">
 										<h3>Februari 2019</h3>
-										<p>A meningkatkan keahlian untuk juga menguasai: React JS (expert</p>
+										<p>A meningkatkan keahlian untuk juga menguasai: React JS (expert)</p>
 										<div class="box-FE">
 											Jabatan A<br>
 											<b style="font-size:16px;">Senior FE Developer</b>
@@ -356,7 +356,7 @@
 								</div>
 								<div class="col-md-4 text-center boximg-fe hidden-xs">
 									<h3>Februari 2019</h3>
-									<p>A meningkatkan keahlian untuk juga menguasai: React JS (expert</p>
+									<p>A meningkatkan keahlian untuk juga menguasai: React JS (expert)</p>
 									<div class="box-FE">
 										Jabatan A<br>
 										<b style="font-size:16px;">Senior FE Developer</b>
