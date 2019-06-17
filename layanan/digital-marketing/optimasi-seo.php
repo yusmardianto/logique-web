@@ -244,7 +244,7 @@
 			</div>
 			<div class="see-details">
 				<div class="row">
-					<div class="col-sm-6 col-sm-offset-3">
+					<div class="col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
 						<a href="/layanan/digital-marketing/jasa-seo.php"><img class="center-block img-responsive" src="img/img-seo-optimization/click-detail-w-text.png" /></a>
 					</div>
 				</div>
@@ -294,7 +294,7 @@
 			</div>
 			<div class="see-details">
 				<div class="row">
-					<div class="col-sm-6 col-sm-offset-3">
+					<div class="col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
 						<a href="/layanan/digital-marketing/jasa-seo.php"><img class="center-block img-responsive" src="img/img-seo-optimization/click-detail-w-text.png" /></a>
 					</div>
 				</div>

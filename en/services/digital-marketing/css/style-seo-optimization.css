@@ -716,7 +716,7 @@ ul.medsos-new li a{
 
 @media (max-width: 991px) {
     .img-fly-paper{
-      top: -20px;
+      top: 80px;
       
     }
     .img-web-illustration{
@@ -750,6 +750,12 @@ ul.medsos-new li a{
     }
     .breadcrumb {
         padding: 8px 15px;
+    }
+    .img-fly-paper{
+      
+    }
+    .banner-text-wrapper h1, .banner-text-wrapper p{
+      padding: 5px 5% 5px 10%
     }
     .card .card-ribbon h3{
       font-size: 18px;

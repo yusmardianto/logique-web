@@ -162,7 +162,7 @@
 
 				<div class="banner">
 					<div class="row">
-						<div class="col-lg-6 col-md-6 col-sm-10">
+						<div class="col-lg-6 col-md-6 col-sm-10 col-xs-10">
 							<div class="banner-text-wrapper">
 								<h1><strong>LOGIQUE,</strong></h1>
 								<p> Professional Web Developer for The Complete SEO Optimization</p>
@@ -244,7 +244,7 @@
 			</div>
 			<div class="see-details">
 				<div class="row">
-					<div class="col-sm-6 col-sm-offset-3">
+					<div class="col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
 						<a href="/en/services/digital-marketing/seo-service.php"><img class="center-block img-responsive" src="img/img-seo-optimization/click-detail-w-text.png" /></a>
 					</div>
 				</div>
@@ -295,7 +295,7 @@
 			</div>
 			<div class="see-details">
 				<div class="row">
-					<div class="col-sm-6 col-sm-offset-3">
+					<div class="col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
 						<a href="/en/services/digital-marketing/seo-service.php"><img class="center-block img-responsive" src="img/img-seo-optimization/click-detail-w-text.png" /></a>
 					</div>
 				</div>
