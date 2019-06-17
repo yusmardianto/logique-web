@@ -183,7 +183,7 @@
 					<div class="col-lg-4 col-md-4 col-sm-12">
 						<img class="img-working-guy" src="img/img-seo-optimization/working-guy.png" />
 					</div>
-					<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 description">
+					<div class="col-lg-5 col-md-5 col-sm-8 col-xs-10 description">
 						<p>Sebagai perusahaan web developer, <strong>LOGIQUE</strong> tidak hanya mampu membuat dan mengembangkan website, namun juga <strong>mengoptimalisasi penerapan SEO secara teknis pada website tersebut.</strong> Mulai dari pemasangan schema markup, optimasi URL, meta tag, pengaturan redirect, hingga optimasi tampilan dan struktur versi mobile.</p>
 						<br>
 						<p>Hal-hal ini sangat penting, mengingat algoritma mesin pencarian saat ini semakin rumit dengan juga melibatkan UI/UX yang baik. Semakin banyak interaksi positif yang dilakukan visitor pada website Anda, mesin pencarian Google akan semakin meningkatkan peringkat website Anda pada hasil pencarian dari keyword yang Anda targetkan. </p>
