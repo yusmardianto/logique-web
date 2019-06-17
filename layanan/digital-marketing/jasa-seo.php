@@ -298,12 +298,12 @@
 			</div>
 			<div class="reason-black-hat-bad">
 				<div class="row equal-height">
-					<div class="col-xs-12 col-md-offset-1 col-md-5 col-lg-offset-0 col-lg-4">
+					<div class="col-xs-12 col-md-4">
 						<div class="center-v-h">
 							<img class="img-responsive" src="img/img-seo-maintenance/laptop-rocket.png" alt="Reason Black Hat Bad">
 						</div>
 					</div>
-					<div class="col-md-6 col-lg-8">
+					<div class="col-md-8">
 						<p>
 							Oleh karena itu, praktisi SEO yang mengimplementasikan strategi ini akan mengindahkan pembuatan konten-konten informatif dan berkualitas untuk disajikan kepada pengguna.
 							Optimasi SEO yang dilakukan hanya bertujuan untuk membuat suatu halaman tampil pada halaman pertama mesin pencari.
