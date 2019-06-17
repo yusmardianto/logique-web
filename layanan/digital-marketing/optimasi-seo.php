@@ -114,8 +114,8 @@
 		<div class="content-area">
 			<div class="language-btn">
 				<ul class="list-inline">
-					<li><a href="/en/services/digital-marketing.php">EN</a></li>
-					<li class="active"><a href="#">ID</a></li>
+					<li><a href="/en/services/digital-marketing/seo-optimization.php">EN</a></li>
+					<li class="active"><a href="/layanan/digital-marketing/optimasi-seo.php">ID</a></li>
 					<li><a href="/jp/services/digital-marketing.php">JP</a></li>
 				</ul>
 			</div>
@@ -151,7 +151,7 @@
 							</a>
 						</li>
 						<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-							<a itemprop="item">
+							<a itemprop="item" href="#">
 								<span itemprop="name">Optimasi SEO</span>
 								<meta itemprop="position" content="4" />
 							</a>
@@ -162,7 +162,7 @@
 
 				<div class="banner">
 					<div class="row">
-						<div class="col-lg-6 col-md-6 col-sm-10">
+						<div class="col-lg-6 col-md-6 col-sm-10 col-xs-10">
 							<div class="banner-text-wrapper">
 								<h1><strong>LOGIQUE,</strong></h1>
 								<p> Web Developer Profesional Untuk Maksimalisasi SEO secara Menyeluruh</p>

@@ -115,7 +115,7 @@
 			<div class="language-btn">
 				<ul class="list-inline">
 					<li class="active"><a href="/en/services/digital-marketing.php">EN</a></li>
-					<li><a href="#">ID</a></li>
+					<li><a href="/layanan/digital-marketing/optimasi-seo.php">ID</a></li>
 					<li><a href="/jp/services/digital-marketing.php">JP</a></li>
 				</ul>
 			</div>
@@ -389,7 +389,7 @@
 			<div class="bottom-banner">
 				<div class="row">
 					<div class="col-lg-7 col-xs-10 col-lg-offset-2 col-xs-offset-1">
-						<a href="/hubungi-kami.php">
+						<a href="/en/contact.php">
 							<img class="img-responsive" src="img/img-seo-optimization/red-ribbon.png" />
 						</a>
 					</div>

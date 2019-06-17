@@ -556,15 +556,21 @@ ul.medsos-new li a{
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
-  /* padding-top: 2em; */
+  padding-top: 3em;
 }
 
 .three-languages p{
   font-size: 30px;
   color: black; 
-  margin: 2.5em 0;
   padding-left: 0.7em;
   border-left: 5px solid #f2bf10;
+  margin-top: 2em;
+}
+
+.img-discuss{
+  display: flex;
+  flex-direction: column;
+  vertical-align: bottom;
 }
 
 .mission{
@@ -727,6 +733,9 @@ ul.medsos-new li a{
     }
     .card{
       min-height: 600px;
+    }
+    .three-languages p{
+      margin-bottom: 2em;
     }
 }
 
