@@ -141,23 +141,27 @@
         <!-- Banner -->
         <div class="banner-seo-service">
 					<div class="banner-heading">
-						<div class="row">
-	            <div class="col-md-6 col-lg-5 col-lg-offset-1">
-	              <img class="img-responsive center-block" src="img/img-seo-maintenance/seo-maintenance-banner1.png" alt="Seo Maintenance">
+						<div class="row equal-height cloud-bg">
+	            <div class="col-xs-12 col-md-6 col-lg-5 col-lg-offset-1 cloud-bg-mobile">
+								<div class="center-v-h">
+									<img class="img-responsive" src="img/img-seo-maintenance/seo-maintenance-banner1.png" alt="Seo Maintenance">
+								</div>
 	            </div>
-	            <div class="col-md-5 col-lg-5">
-	              <h2><strong>Seo Maintenance</strong></h2>
-	              <p>
-	                <strong style="font-size: 26px;">LOGIQUE</strong>
-	                <br>
-	                memberikan layanan SEO maintenance yang dilakukan secara berkala untuk meningkatkan jumlah traffic pengunjung dan menjaga agar website Anda tetap berada di posisi teratas dari mesin pencari. Dengan harga mulai dari <strong style="font-size: 20px;">Rp5.000.000/bulan</strong> Anda sudah bisa mendapatkan banyak layanan SEO dari kami, seperti: search rank report, analytics report, konsultasi SEO, search console and web maintenance (termasuk SEO), serta penulisan/ penyesuaian konten.
-	              </p>
+	            <div class="col-xs-12 col-md-5 col-lg-5 banner-mobile-content-style">
+								<div class="banner-mobile-content-style2">
+									<h2><strong>Seo Maintenance</strong></h2>
+									<p>
+										<strong style="font-size: 26px;">LOGIQUE</strong>
+										<br>
+										memberikan layanan SEO maintenance yang dilakukan secara berkala untuk meningkatkan jumlah traffic pengunjung dan menjaga agar website Anda tetap berada di posisi teratas dari mesin pencari. Dengan harga mulai dari <strong style="font-size: 20px;">Rp5.000.000/bulan</strong> Anda sudah bisa mendapatkan banyak layanan SEO dari kami, seperti: search rank report, analytics report, konsultasi SEO, search console and web maintenance (termasuk SEO), serta penulisan/ penyesuaian konten.
+									</p>
+								</div>
 	            </div>
 	          </div>
 					</div>
           <div class="list-seo-services">
 						<div class="row">
-							<div class="col-lg-offset-2 col-lg-8">
+							<div class="col-lg-offset-1 col-lg-10">
 								<div class="row">
 									<div class="col-sm-4">
 										<div class="seo-services row-1">
