@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai IT Account Executive.">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, networking, marketing, IT account executive, indonesia,">
+    <meta name="description" itemprop="description" content="Ingin tempat kerja yang menambah pengalaman dan penuh tantangan? PT Logique Digital Indonesia merupakan peluang karir yang tepat untuk Anda. Bekerja dan belajar seiring project berjalan. Simak interview eksklusif dari Senior Front End Developer Logique, Taufik-san.">
+	<meta name="keywords" content="lowongan, kerja, jakarta, yogyakarta, remote job jakarta, kerja remote jakarta, interview, logique interview, pt logique, Taufik bahri, pma, front end developer, Konsultasi IT, Pembuatan Website, Pembuatan Desain, Pengembangan Sistem, Pengembangan Aplikasi Mobile, Digital Marketing Consulting, IT Consultation, Website Creation, web development, Design Making, System Development, Mobile App Development, Digital Marketing">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Interview Detail Logique - Taufiq">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai IT Account Executive.">
+	<meta property="og:description" content="Ingin tempat kerja yang menambah pengalaman dan penuh tantangan? PT Logique Digital Indonesia merupakan peluang karir yang tepat untuk Anda. Bekerja dan belajar seiring project berjalan. Simak interview eksklusif dari Senior Front End Developer Logique, Taufik-san.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Message for Candidates - Taufik</title>
+    <title>Interview Detail Logique - Taufiq</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -108,11 +108,11 @@
 									<a href="/" class="logo-padding">
 										<img src="/img/career/Logique.png" />
 									</a>
-									<!-- <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+									<ol class="breadcrumb breadcrumb-interview" itemscope itemtype="http://schema.org/BreadcrumbList">
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/career"><span itemprop="name">Karir</span></a><meta itemprop="position" content="1" /></li>
-										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Yoshi<meta itemprop="position" content="2" /></li>
-									</ol> -->
+										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Taufik<meta itemprop="position" content="2" /></li>
+									</ol>
 								</div>
 								<div class="col-md-offset-4 col-md-2 text-right">
 									<div class="lang-logo lang-on-message">

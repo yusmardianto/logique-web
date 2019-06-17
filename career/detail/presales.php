@@ -145,26 +145,60 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-										<h3 class="text-center"> Pre-Sales Consultant di (Jakarta) dengan minimal 1 tahun pengalaman</h3>
-										<hr>
 										<div class="div-job desc-job">
-											<b class="getN">Persyaratan:</b><br>
-											<ul class="joinus-ul">
-											<li>Memiliki pengalaman sebagai IT Consultant minimal selama 1 tahun.</li>
-											<li>Memiliki kemampuan analisa dan pemecahan masalah yang baik.</li>
-											<li>Memiliki pengetahuan yang baik dalam bidang pembuatan website, web sistem, atau aplikasi mobile.</li>
-											<li>Memiliki kemampuan komunikasi dan presentasi yang baik.</li>
-											<li>Bisa bekerja sama dalam tim.</li>
-											</ul><br>
-											<b class="getN">Job Description:</b><br>
-											<ul class="joinus-ul">
-											<li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
-											<li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
-											<li>Terlibat dan memberikan dukungan dalam proses penawaran, khususnya dalam mengestimasi usaha yang diperlukan untuk mengimplementasikan kebutuhan pelanggan ke dalam sistem.</li>
-											<li>Membuat rencana penerapan proyek dan dokumen pendukung atau laporan yang diperlukan.</li>
-											<li>Melakukan analisa terhadap teknologi atau sistem untuk kebutuhan konsultasi atau penawaran.</li>
-											<li>Berkoordinasi dan mengelola tim terkait pengembangan proyek yang direncanakan jika diperlukan.</li>
-											</ul>
+										<b class="getN">Job Description:</b><br>
+										<ul class="joinus-ul">
+										<li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
+										<li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
+										<li>Terlibat dan memberikan dukungan dalam proses penawaran, khususnya dalam mengestimasi usaha yang diperlukan untuk mengimplementasikan kebutuhan pelanggan ke dalam sistem.</li>
+										<li>Membuat rencana penerapan proyek dan dokumen pendukung atau laporan yang diperlukan.</li>
+										<li>Melakukan analisa terhadap teknologi atau sistem untuk kebutuhan konsultasi atau penawaran.</li>
+										<li>Berkoordinasi dan mengelola tim terkait pengembangan proyek yang direncanakan jika diperlukan.</li>
+										<li>Membuat laporan mingguan untuk mengetahui kemajuan target penjualan serta mendokumentasikan kinerja penjualan.</li>
+										<li>Mampu bekerja sama dengan departemen lainnya.</li>
+										<li>Mampu mencapai target penjualan secara individu.</li>
+										</ul>
+										<br>
+
+										<b class="getN">Must Skill/Experience:</b><br>
+										<ul class="joinus-ul">
+										<li>Memiliki gelar minimal D3/S1 di bidang Bisnis/Marketing/IT, atau lainnya yang relevan</li>
+										<li>Memiliki pengalaman sebagai IT Consultant minimal selama 2 tahun.</li>
+										<li>Memiliki kemampuan analisa dan pemecahan masalah yang baik.</li>
+										<li>Memiliki pengetahuan yang baik dalam bidang pembuatan website, web system, atau aplikasi mobile.</li>
+										<li>Memiliki kemampuan komunikasi verbal dan tertulis yang efektif.</li>
+										<li>Memiliki kemampuan presentasi dan interpersonal yang baik.</li>
+										<li>Memahami proses dan dinamika dunia sales.</li>
+										</ul>
+										<br>
+
+										<b class="getN">Required Skill</b><br>
+										<ul class="joinus-ul">
+										<li>Mampu bekerja sama dalam tim.</li>
+										<li>Memiliki komitmen yang tinggi pada kualitas pelayanan untuk klien</li>
+										<li>Mampu bekerja dengan orientasi target.</li>
+										</ul>
+										<br>
+
+										<b class="getN">Preferable</b><br>
+										<ul class="joinus-ul">
+										<li>Project Management</li>
+										<li>Bahasa Inggris</li>
+										<li>Memiliki Kendaraan Bermotor Pribadi</li>
+										</ul>
+										<br>
+
+										<b class="getN">Rewards dan Worthwhile</b><br>
+										<ul class="joinus-ul">
+										<li>Kesempatan bertemu banyak klien dari berbagai macam bidang dan industri.</li>
+										<li>Dapat beradaptasi dalam hal komunikasi kepada banyak klien yang multikultural.</li>
+										</ul>
+										<br>
+										<b class="getN">Location</b><br>
+										<ul class="joinus-ul">
+										<li>Jakarta</li>
+										</ul>
+										<br>
 											<div class="text-center">
 											<br>
 												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Pre-Sales-Apply-Button', 'Action-Click', 'Pre-Sales-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>

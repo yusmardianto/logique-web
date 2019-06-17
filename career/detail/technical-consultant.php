@@ -145,34 +145,56 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-										<h3 class="text-center"> Technical Consultant di (Jakarta) dengan 1-2 tahun pengalaman</h3>
-										<hr>
 										<div class="div-job desc-job">
-											<p>Technical Consultant merupakan partner terbaik kami dalam menganalisa dan merekomendasikan solusi sistem web dan website terbaik untuk memecahkan masalah yang ada dalam proses bisnis. Seorang Technical Consultant memiliki pengetahuan yang luas baik dari sisi bisnis maupun teknikal.</p><br>
-											<b class="getN">Persyaratan:</b><br>
-											<ul class="joinus-ul">
-											<li>Memiliki pengalaman sebagai IT Consultant.</li>
-											<li>Memiliki kemampuan untuk memecahkan masalah perangkat keras, perangkat lunak dan jaringan.</li>
-											<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
-											<li>Mempunyai pengalaman dalam manajemen proyek.</li>
-											<li>Memiliki pikiran analitis dengan kemampuan memecahkan masalah.</li>
-											<li>Bisa bekerja dalam tim dengan kemampuan komunikasi dan presentasi yang sangat baik.</li>
-											<li>Orientasi layanan pelanggan.</li>
-											<li>Memiliki kemampuan interpesonal.</li>
-											<li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.</li>
-											</ul><br>
-											<b class="getN">Job Description:</b><br>
-											<ul class="joinus-ul">
-											<li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
-											<li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
-											<li>Mengelola inisiatif TI dan berkolaborasi dengan staf teknis internal.</li>
-											<li>Mendesain sistem dan jaringan TI memastikan arsitektur dan fungsionalitas yang tepat.</li>
-											<li>Mendukung implementasi teknologi baru.</li>
-											<li>Melatih pengguna dalam sistem TI baru dan yang sudah ada.</li>
-											<li>Berikan bantuan untuk masalah teknis.</li>
-											<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>
-											<li>Menghasilkan laporan.</li>
-											</ul>
+										<b class="getN">Job Description:</b><br>
+										<ul class="joinus-ul">
+										<li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
+										<li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
+										<li>Berkolaborasi dengan tim developer.</li>
+										<li>Mendesain sistem dan IT network, serta memastikan arsitektur dan fungsionalitas yang tepat.</li>
+										<li>Mendukung implementasi teknologi baru.</li>
+										<li>Melatih user dalam sistem IT baru dan yang sudah ada.</li>
+										<li>Memberikan bantuan untuk masalah teknis.</li>
+										<li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>
+										<li>Menyajikan laporan yang tepat dan terstruktur.</li>
+										</ul>
+										<br>
+										<b class="getN">Must Skill/Experience</b><br>
+										<ul class="joinus-ul">
+										<li>Memiliki pengalaman sebagai IT Consultant minimal 1-2 tahun</li>
+										<li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.</li>
+										<li>Memiliki kemampuan untuk memecahkan masalah pada hardware, software, dan network.</li>
+										<li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
+										<li>Bisa bekerja dalam tim.</li>
+										<li>Berorientasi pada pelayanan terhadap client/customer.</li>
+										<li>Memiliki kemampuan interpesonal yang luar biasa.</li>
+										</ul>
+										<br>
+										<b class="getN">Required Skill</b><br>
+										<ul class="joinus-ul">
+										<li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik</li>
+										<li>Memiliki kemampuan komunikasi dan presentasi yang sangat baik</li>
+										<li>Kemampuan analisa yang baik </li>
+										<li>Memiliki pengetahuan yang luas dengan dunia IT.</li>
+										</ul>
+										<br>
+										<b class="getN">Preferable</b><br>
+										<ul class="joinus-ul">
+										<li>Project Management</li>
+										<li>Bahasa Inggris</li>
+										</ul>
+										<br>
+										<b class="getN">Rewards and worthwhile</b><br>
+										<ul class="joinus-ul">
+										<li>Akan selalu up to date tentang perkembangan dunia IT</li>
+										<li>Kami memiliki client dari berbagai bidang industry, dan Anda bisa berhubungan dengan salah satunya. Hal itu bisa meningkatkan networking Anda</li>
+										<li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya)</li>
+										</ul>
+										<br>
+										<b class="getN">Location</b><br>
+										<ul class="joinus-ul">
+										<li>Jakarta</li>
+										</ul>
 											<div class="text-center">
 											<br>
 												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'TC-Apply-Button', 'Action-Click', 'TC-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>

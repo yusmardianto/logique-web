@@ -145,43 +145,37 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-										<h3 class="text-center"> Digital Marketing Strategist di (Jakarta)</h3>
+										<h3 class="text-center"> Digital Marketing Strategist (di Jakarta)</h3>
 										<hr>
 										<div class="div-job desc-job">
-											<b class="getN">Tanggung jawab:</b><br>
+											<b class="getN">Requirement:</b><br>
 											<ul class="joinus-ul">
-											<li>Menganalisis dan memantau kinerja situs web, iklan online, dan media sosial dengan berbagai platform.</li>
-											<li>Menyarankan strategi untuk meningkatkan kinerja berdasarkan analisis.</li>
-											<li>Terus menyesuaikan kinerja setiap platform dan situs web untuk mendapatkan hasil yang lebih baik dengan berkolaborasi dengan web developer dan content writer.</li>
+												<li>Memiliki minimal 2 tahun pengalaman dalam web development / agensi digital marketing.</li>
+												<li>Mampu berpikir logis & strategis.</li>
+												<li>Terbiasa dengan SEO dan optimasi web dalam hal teknis dan konten.</li>
+												<li>Terbiasa dalam menganalisis dan mengoptimalkan tool yang terkait dengan digital marketing, seperti:</li>
+												<li>Google Analytics</li>
+												<li>Google Ads (Search Ads, GDN Ads, Youtube Ads)</li>
+												<li>Facebook / Instagram Ads</li>
+												<li>Twitter Ads</li>
+												<li>Linked In Ads</li>
+												<li>Berpengalaman dalam hal memberikan konsultasi/saran/diskusi dengan client/customer</li>
+												<li>Mampu menyajikan laporan yang analitis dan terstruktur sesuai kebutuhan client/customer</li>
 											</ul><br>
-											<b class="getN">Persyaratan:</b><br>
+											<b class="getN">Job Description:</b><br>
 											<ul class="joinus-ul">
-											<li>Minimal 2 tahun pengalaman dalam web development / agensi digital marketing.</li>
-											<li>Mampu berpikir logis &amp; strategis.</li>
-											<li>Terbiasa dengan SEO dan optimasi web dalam hal teknis dan konten.</li>
-											<li>Terbiasa dalam menganalisis dan mengoptimalkan tool yang terkait dengan digital marketing:
-											<ul class="joinus-ul">
-											<li>Google Analytics</li>
-											<li>Google Ads (Search Ads, GDN Ads, Youtube Ads)</li>
-											<li>Facebook / Instagram Ads</li>
-											<li>Twitter Ads</li>
-											</ul>
-											</li>
-											<li>Berpengalaman dalam hal konsultasi dengan klien
-											<ul class="joinus-ul">
-											<li>Pelaporan</li>
-											<li>Diskusi</li>
-											<li>Pemberian saran</li>
-											</ul>
-											</li>
-											</ul>
+												<li>Menganalisis dan memantau kinerja situs web, digital ads, dan media sosial dengan di berbagai platform.</li>
+												<li>Menyarankan strategi untuk meningkatkan kinerja berdasarkan analisis.</li>
+												<li>Terus menyesuaikan performa setiap platform dan situs web untuk mendapatkan hasil yang lebih baik dengan berkolaborasi dengan web developer, content writer, dan design.</li>
+												<li>Mengoptimalkan performa dengan orientasi terhadap target hasil atau conversion yang dibutuhkan client/customer</li>
+											</ul><br>
 											<b class="getN">Lebih disukai (tidak harus dimiliki):</b><br>
 											<ul class="joinus-ul">
-											<li>Keterampilan programming.</li>
-											<li>Bahasa Inggris yang komunikatif.</li>
-											<li>Keterampilan menulis konten.</li>
-											<li>Keterampilan operasi media sosial.</li>
-											<li>Keterampilan desain.</li>
+												<li>Keterampilan programming.</li>
+												<li>Bahasa Inggris yang komunikatif.</li>
+												<li>Keterampilan menulis konten.</li>
+												<li>Keterampilan manajemen media sosial.</li>
+												<li>Keterampilan desain</li>
 											</ul><br>
 											<div class="text-center">
 											<br>

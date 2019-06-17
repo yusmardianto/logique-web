@@ -40,7 +40,12 @@ twq('track','PageView');
 									<li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem Web</a></li>
 									<li><a href="/layanan/pembuatan-aplikasi-mobile.php" target="_blank">Pengembangan Aplikasi Mobile </a></li>
 									<li class="text-left"><a href="/layanan/penetration-test.php" target="_blank">Pengetesan Keamanan Website (Pentest) </a></li>
-									<li class="text-left"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital Marketing </a></li>
+									<li class="have-submenu"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital Marketing </a>
+										<ul>
+											<li><a href="/layanan/digital-marketing/optimasi-seo.php" target="_blank"> Optimasi SEO</a> </li>
+											<li><a href="/layanan/digital-marketing/jasa-seo.php" target="_blank"> Jasa SEO </a></li>
+										</ul>
+									</li>
 								</ul>
 							</li>
 						</ul>

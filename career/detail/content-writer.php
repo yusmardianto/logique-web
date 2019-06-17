@@ -148,31 +148,31 @@
 										<h3 class="text-center"> IT Content Writer di (Jakarta)</h3>
 										<hr>
 										<div class="div-job desc-job">
-											<p>Content Writer membantu menciptakan konten yang sesuai dengan perusahaan, produk, atau jasa yang ditampilkan pada website sehingga memudahkan pembaca memperoleh informasi yang sesuai.</p><br>
-											<b class="getN">Persyaratan:</b><br>
+											<p>IT Content Writer membantu menciptakan konten yang sesuai dengan perusahaan, produk, atau jasa yang ditampilkan pada website sehingga memudahkan pembaca memperoleh informasi yang sesuai.</p><br>
+											<b class="getN">Requirement:</b><br>
 											<ul class="joinus-ul">
-											<li>Memiliki pengalaman kerja sebagai Content Writer, Copywriter atau peran serupa.</li>
-											<li>Mempunyai portofolio artikel yang pernah dipublikasikan adalah nilai tambah.</li>
-											<li>Berpengalaman melakukan penelitian menggunakan banyak sumber.</li>
-											<li>Familiar dengan publikasi web.</li>
-											<li>Memiliki kemampuan menulis dan mengedit yang sangat baik dalam bahasa Inggris dan Indonesia.</li>
-											<li>Mempunyai pengalaman langsung dengan Content Management Systems (misalnya WordPress).</li>
-											<li>Terbiasa bekerja dengan deadline.</li>
-											<li>Berpendidikan minimal D3 atau S1 Sastra Inggris, Ilmu Jurnalistik, Ilmu Komunikasi, Humas, atau yang relevan.</li>
+												<li>Berpendidikan minimal D3 atau S1 Sastra Inggris, Ilmu Jurnalistik, Ilmu Komunikasi, Humas, atau yang relevan.</li>
+												<li>Memiliki pengalaman kerja sebagai Content Writer, Copywriter atau peran yang serupa.</li>
+												<li>Mempunyai portofolio artikel yang pernah dipublikasikan adalah nilai tambah.</li>
+												<li>Berpengalaman melakukan penelitian dengan menggunakan banyak sumber.</li>
+												<li>Familiar dengan publikasi web.</li>
+												<li>Memiliki kemampuan menulis dan mengedit yang sangat baik dalam bahasa Inggris dan Indonesia.</li>
+												<li>Mempunyai pengalaman langsung dengan Content Management Systems (misalnya WordPress).</li>
+												<li>Terbiasa bekerja sesuai deadline.</li>
 											</ul><br>
-											<b class="getN">Tanggung Jawab:</b><br>
+											<b class="getN">Job Description:</b><br>
 											<ul class="joinus-ul">
-											<li>Meneliti topik yang berhubungan dengan industri penelitian (menggabungkan sumber online, wawancara, dan studi).</li>
-											<li>Membuat konten pemasaran yang jelas untuk mempromosikan produk/layanan kami.</li>
-											<li>Menyiapkan draft terstruktur dengan baik menggunakan Content Management Systems dan mengedit konten dan elemen blog sebelum dipublikasikan.</li>
-											<li>Berkoordinasi dengan tim untuk mengilustrasikan artikel.</li>
-											<li>Melakukan penelitian kata kunci sederhana dan gunakan panduan SEO untuk meningkatkan web traffic.</li>
-											<li>Mengidentifikasi kebutuhan dan kesenjangan pelanggan dalam konten kami dan rekomendasikan topik baru.</li>
-											<li>Up to date untuk konten situs web sesuai kebutuhan.</li>
+												<li>Meneliti topik yang berhubungan dengan industri penelitian (menggabungkan sumber online, wawancara, dan studi).</li>
+												<li>Membuat konten pemasaran yang jelas untuk mempromosikan produk/layanan kami.</li>
+												<li>Menyiapkan draft terstruktur dengan baik menggunakan Content Management Systems dan mengedit konten dan elemen blog sebelum dipublikasikan.</li>
+												<li>Berkoordinasi dengan tim untuk mengilustrasikan artikel.</li>
+												<li>Melakukan penelitian kata kunci sederhana dan menggunakan panduan SEO untuk meningkatkan web traffic.</li>
+												<li>Mengidentifikasi kebutuhan dan kesenjangan pelanggan dalam konten kami dan merekomendasikan topik baru.</li>
+												<li>Up to date dengan konten situs web yang disesuaikan dengan kebutuhan.</li>
 											</ul>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer" disabled>Apply</a>
 											</div>
 										</div>
 									</div>
