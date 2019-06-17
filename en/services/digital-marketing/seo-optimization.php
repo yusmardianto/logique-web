@@ -183,7 +183,7 @@
 					<div class="col-lg-4 col-md-4 col-sm-12">
 						<img class="img-working-guy" src="img/img-seo-optimization/working-guy.png" />
 					</div>
-					<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 description">
+					<div class="col-lg-5 col-md-5 col-sm-8 col-xs-10 description">
 						<p>As a professional web developer company in Jakarta, <strong>LOGIQUE</strong> always gives maximum results in developing a website with a complete technical SEO implementation. Starting from the installation of markup schema, URL optimization, meta tags, redirect settings, <strong>to the optimization of the appearance, navigation, structure of the mobile version, and many more.</strong></p>
 						<br>
 						<p>These things are very important, considering that search engine algorithms are now increasingly complicated and also involve good UI/UX. The more positive interactions visitors make on your website, Google search engine will further increase the rank of your website on the search results of the keywords you are targeting. </p>

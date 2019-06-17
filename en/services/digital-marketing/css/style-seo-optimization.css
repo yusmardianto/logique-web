@@ -633,6 +633,7 @@ ul.medsos-new li a{
   padding: 0 1.2em;
   display: inline;
   font-weight: bold;
+  text-align: center;
   font-size: 30px;
   color: black;
 }
@@ -751,8 +752,8 @@ ul.medsos-new li a{
     .breadcrumb {
         padding: 8px 15px;
     }
-    .img-fly-paper{
-      
+    .explanation .description{
+      margin-left: 40px;
     }
     .banner-text-wrapper h1, .banner-text-wrapper p{
       padding: 5px 5% 5px 10%
@@ -790,8 +791,19 @@ ul.medsos-new li a{
     font-size: 16px;
     margin: -0.2em 0.1em;
   }
+  .explanation .description{
+    margin-left: 0px;
+  }
   .logique-is .content{
     font-size: 15px;
+  }
+  .three-things{
+    padding: 2em 1em;
+    margin-top: 2em;
+  }  
+
+  .three-things .content{
+    font-size: 16px;
   }
 }
 
