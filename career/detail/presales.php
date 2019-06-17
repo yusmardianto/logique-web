@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Kami memberikan kesempatan berkarir bagi para web developer, web designer, dan digital marketing untuk terus mengasah kemampuannya dengan bergabung bersama LOGIQUE Digital Indonesia. Segera bergabunglah bersama kami!">
-	<meta name="keywords" content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
+    <meta name="description" itemprop="description" content="Dibutuhkan Pre-sales Consultant yang dapat memberi saran strategi dalam teknologi, memahami kebutuhan IT dan tujuan bisnis klien, terlibat dalam perencanaan, konsultasi, negosiasi, dan penawaran proyek. Must skill: Berpengetahuan yang baik dalam pembuatan website, web system, atau aplikasi mobile">
+	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta,  networking, marketing, sales consultant, pre-sales consultant, indonesia, problem solving, strategis, bisnis, analisa, IT, customer oriented, target penjualan">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
@@ -14,7 +14,7 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Kami memberikan kesempatan berkarir bagi para web developer, web designer, dan digital marketing untuk terus mengasah kemampuannya dengan bergabung bersama LOGIQUE Digital Indonesia. Segera bergabunglah bersama kami!">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia</title>
+    <title>Lowongan - Pre-Sales Consultant</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">

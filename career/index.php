@@ -325,7 +325,7 @@
 									<img src="/img/career/wiz3.png" class="wizart-m_" data-aos="fade-left" data-aos-duration="1000"/>
 									<div class="col-md-4 text-center boximg-fe hidden-sm hidden-md hidden-lg">
 										<h3>Februari 2019</h3>
-										<p>A meningkatkan keahlian untuk juga menguasai: React JS (expert</p>
+										<p>A meningkatkan keahlian untuk juga menguasai: React JS (expert)</p>
 										<div class="box-FE">
 											Jabatan A<br>
 											<b style="font-size:16px;">Senior FE Developer</b>
@@ -356,7 +356,7 @@
 								</div>
 								<div class="col-md-4 text-center boximg-fe hidden-xs">
 									<h3>Februari 2019</h3>
-									<p>A meningkatkan keahlian untuk juga menguasai: React JS (expert</p>
+									<p>A meningkatkan keahlian untuk juga menguasai: React JS (expert)</p>
 									<div class="box-FE">
 										Jabatan A<br>
 										<b style="font-size:16px;">Senior FE Developer</b>
@@ -555,7 +555,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3" data-name="8">
+								<div class="col-md-3" data-name="5">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -612,7 +612,7 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/reactnative.php">Detail</a>
 											</div>
@@ -644,9 +644,25 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p></p>
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/web-developer.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3" data-name="11">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+											<img src="/img/career/consultant.png" />
+											<h3 style="font-size:20px;">Web Security Specialist</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p></p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/web-security.php">Detail</a>
 											</div>
 										</div>
 									</div>
@@ -660,14 +676,14 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p></p>
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/quality-assurance.php">Detail</a>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3" data-name="11">
+								<div class="col-md-3" data-name="8">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -692,7 +708,7 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer" data-name="2">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/project-manager.php">Detail</a>
 											</div>

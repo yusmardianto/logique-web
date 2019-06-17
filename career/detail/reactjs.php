@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Dicari developer React JS yang berpengalaman menggunakan workflow seperti Redux/Flux, development tool seperti Babel, Webpack, NPM/Yarn, EcmaScript, dan integrasi RESTful API. Diharapkan dapat menganalisa, memperbaiki performance, dan kolaborasi tim. Berpengalaman ExpressJS, mongoDB lebih disukai">
-	<meta name="keywords" content="lowongan, kerja, jakarta, yogyakarta, remote job jakarta, kerja remote jakarta, software developer, software development, IT, information technology, ilmu teknologi, react.js, reactjs, redux, flux, restful api, restfulapi, debugger, debugging, front end developer, front end development, front end dev,babel, webpack, npm, yarn, git, pwa, isomorphic React, html css, foundation framework, expressJS, mongoDB">
+    <meta name="description" itemprop="description" content="Dicari developer React JS yang berpengalaman menggunakan workflow seperti Redux/Flux, development tool seperti Babel, Webpack, NPM/Yarn, GIT, EcmaScript, dan integrasi RESTful API.  Berpengalaman isomorphic react, HTML, CSS, ExpressJS, mongoDB lebih disukai. Salary negotiable.">
+	<meta name="keywords" content="lowongan, kerja, jakarta, yogyakarta, remote job jakarta, kerja remote jakarta, software developer, software development, IT, information technology, ilmu teknologi, react.js, reactjs, redux, flux, restful api, restfulapi, debugger, debugging, front end developer, front end development, front end dev,babel, webpack, npm, yarn, git, pwa, isomorphic React, html css, foundation framework, expressJS, mongoDB, any location, salary, negotiable, code optimization">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Lowongan - React JS Developer">
 	<meta property="og:type" content="website">

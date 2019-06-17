@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Lowongan pekerjaan Mobile App Developer bagi yang berpengalaman sebagai pengembang Mobile app (iOS dan Android), memiliki pengetahuan tentang Swift / Java / bahasa pemrograman lainnya. Segera daftarkan diri di website LOGIQUE.">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, indonesia, mobile developer, app developer, mobile app developer, swift, java, programmer, android studio, mobile platform, native, hybrid">
+    <meta name="description" itemprop="description" content="Lowongan pekerjaan Mobile App Developer bagi yang berpengalaman sebagai pengembang Mobile app, mengelola library dan API, memiliki pengetahuan tentang Swift / Java / bahasa pemrograman lainnya. Pernah merilis aplikasi Android/IOS dan familiar dengan prinsip desain OOP. Salary negotiable.">
+	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, indonesia, mobile developer, app developer, mobile app developer, swift, java, programmer, android studio, mobile platform, native, hybrid, library, API, Jogja, Yogyakarta, iOS SDKs, OOP, komputer, teknologi, reactJS, android">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">

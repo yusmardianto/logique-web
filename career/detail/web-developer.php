@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Dibutuhkan Front End Web Developer yang berpengalaman dalam pembuatan WEB/Sistem WEB (PHP, MySQL, HTML/CSS), Framework PHP seperti CakePHP, Laravel, atau sejenisnya, dan mempunyai minat yang besar terhadap bisnis Internet dan Web.">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, indonesia, web developer, web development, php framework, cakephp, laravel, programmer, web programmming, perancangan web application, perancangan website, website developer, mysql, php,html css">
+    <meta name="description" itemprop="description" content="Dibutuhkan Web Developer yang berpengalaman minimal 2 tahun dalam pembuatan WEB/Sistem WEB (PHP, MySQL, HTML/CSS), Framework PHP seperti CakePHP, Laravel, atau sejenisnya. Lebih disukai jika berpengalaman menggunakan Magento, framework JS dan memahami Golang. Salary negotiable">
+	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, indonesia, web developer, web development, php framework, cakephp, laravel, programmer, web programmming, perancangan web application, perancangan website, website developer, mysql, php,html css, magento, framework js, golang, jogja, yogyakarta">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
@@ -133,9 +133,9 @@
 								<div class="col-md-6 text-center">
 									<h1><img src="/img/career/contentwriter.png" style="filter: contrast(0%) brightness(150%);"> Web Developer</h1>
 								</div>
-								<!-- <div class="col-md-6 text-center">
+								<div class="col-md-6 text-center">
 									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
-								</div> -->
+								</div>
 							</div>
 						</div>
 					</div>
