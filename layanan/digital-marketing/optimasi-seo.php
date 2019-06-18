@@ -5,11 +5,11 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-	<meta name="description" content="Jika Anda tertarik menerapkan strategi digital marketing untuk bisnis Anda, LOGIQUE dapat membantu meningkatkan profit bisnis Anda lewat SEO, kampanye iklan Google Ads, Facebook Ads, dan lain-lain.">
-	<meta name="keywords" content="digital marketing, pemasaran digital, strategi digital marketing, layanan digital marketing, digital marketing logique">
+	<meta name="description" content="Logique sebagai web developer profesional dapat membantu Anda mengoptimalkan penerapan SEO teknis di situs web Anda hingga ke halaman pertama Google, dengan desain web modern, dan konten dalam banyak bahasa: ID, ENG, JP. Kami telah membantu berbagai industri seperti bank, otomotif, travel, properti">
+	<meta name="keywords" content="logique, optimasi web, digital marketing, pemasaran digital, responsive web, optimasi SEO, web development, SEO content creator, web design, web redesign, SEO service, seo perbankan, seo automotif, seo pariwisata, seo property, seo finansial, servis optimasi seo bisnis, seo service jakarta, multilanguage content, website jepang, website portfolio">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<title>Digital Marketing | LOGIQUE Digital Indonesia</title>
+	<title>Logique Digital Marketing - Optimasi SEO</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/style-seo-optimization.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">

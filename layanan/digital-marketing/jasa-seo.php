@@ -5,11 +5,11 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-	<meta name="description" content="">
-	<meta name="keywords" content="">
+	<meta name="description" content="Logique menyediakan layanan SEO maintenance untuk membantu web Anda berada di posisi teratas dari mesin pencari. Tim kami menyediakan Analytics report, konsultasi SEO, Search Console Service, Pemeliharaan Web, dan Pembuatan Konten. Kami membantu bisnis Anda tumbuh melalui strategi white hat SEO.">
+	<meta name="keywords" content="logique, seo maintenance, search rank report, analytic report, konsultasi SEO, search console service, web maintenance, pemeliharaan web, penulisan konten, konten kreatif, seo service provider, seo service jakarta, seo service indonesia, digital marketing, website marketing, white hat marketing, whitehat, white hat SEO, pengakuan merek, multilanguage content, website portfolio, strategi SEO">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<title>Digital Marketing | LOGIQUE Digital Indonesia</title>
+	<title>Logique Digital Marketing - Halaman Service SEO</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
