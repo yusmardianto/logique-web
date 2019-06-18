@@ -1055,6 +1055,10 @@ video {
     margin-top: 0
 }
 
+.black-link b{
+    color: black;
+}
+
 .bg-grey .col-sm-9 {
     text-align: justify
 }
