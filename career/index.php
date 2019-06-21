@@ -120,7 +120,7 @@
 									<a class="btn btn-yellow smooth" href="#jobvacancy">Check Our Latest Vacancies</a>
 								</div>
 								<div class="col-md-6">
-									<iframe style="width:100%;height:300px" title="Logique Digital Indonesia - Karir" src="https://www.youtube-nocookie.com/embed/250FrYLHytM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+									<iframe style="width:100%;height:300px" title="Logique Digital Indonesia - Karir" src="https://www.youtube-nocookie.com/embed/46jDdfPG0cA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 							</div>
 						</div>
