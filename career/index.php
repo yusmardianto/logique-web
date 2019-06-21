@@ -879,7 +879,7 @@
 							</div>
 							<div class="row">
 								<div class="col-md-offset-3 col-md-6 text-center">
-									<a class="btn btn-yellow smooth" href="https://api.whatsapp.com/send?phone=0811870321" target="_blank" rel="noreferrer"> <i class="fa fa-whatsapp"></i> WA HRD</a>
+									<a class="btn btn-yellow smooth" href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" rel="noreferrer"> <i class="fa fa-whatsapp"></i> WA HRD</a>
 									<a class="btn btn-yellow smooth" href="mailto:recruit@logique.co.id" target="_top"> <i class="fa fa-envelope-o"></i> EMAIL HRD</a>
 								</div>
 							</div>
