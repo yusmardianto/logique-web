@@ -120,7 +120,7 @@
 									<a class="btn btn-yellow smooth" href="#jobvacancy">Check Our Latest Vacancies</a>
 								</div>
 								<div class="col-md-6">
-									<iframe style="width:100%;height:300px" title="Logique Digital Indonesia - Karir" src="https://www.youtube-nocookie.com/embed/250FrYLHytM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+									<iframe style="width:100%;height:300px" title="Logique Digital Indonesia - Karir" src="https://www.youtube-nocookie.com/embed/46jDdfPG0cA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 							</div>
 						</div>
@@ -879,7 +879,7 @@
 							</div>
 							<div class="row">
 								<div class="col-md-offset-3 col-md-6 text-center">
-									<a class="btn btn-yellow smooth" href="https://api.whatsapp.com/send?phone=0811870321" target="_blank" rel="noreferrer"> <i class="fa fa-whatsapp"></i> WA HRD</a>
+									<a class="btn btn-yellow smooth" href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" rel="noreferrer"> <i class="fa fa-whatsapp"></i> WA HRD</a>
 									<a class="btn btn-yellow smooth" href="mailto:recruit@logique.co.id" target="_top"> <i class="fa fa-envelope-o"></i> EMAIL HRD</a>
 								</div>
 							</div>
