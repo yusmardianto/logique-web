@@ -8,7 +8,7 @@
 					<div class="panel-body">
 						<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
 						<img src="/img/career/accounting.png" />
-						<h3>Inside Sales</h3>
+						<h3>IT Account Executive</h3>
 						<div class="boxfull">Fulltime</div>
 					</div>
 					<div class="panel-footer">

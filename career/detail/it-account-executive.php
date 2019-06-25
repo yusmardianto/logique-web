@@ -7,14 +7,14 @@
     <meta name="description" itemprop="description" content="Multinasional Digital Agency membuka lowongan Inside Sales yang handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital. Berpengalaman minimal 2 tahun, mampu bekerja sesuai target dan customer oriented. Salary negotiable">
 	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta,  networking, marketing, quality assurance, ui, ux, ui/ux, ab testing, a/b testing, pengujian produk, Git, JIRA, Mantis, TestRail, API test, mysql, postgres, linux, windows, software design, Engineering Computer Science, siklus QA, metodologi QA, documentation, problem solving, product execution, analysis, end user script, pengujian skenario, app performance testing">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Lowongan - Inside Sales">
+    <meta property="og:title" content="Lowongan - IT Account Executive">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Inside Sales">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Lowongan - Inside Sales</title>
+    <title>Lowongan - IT Account Executive</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -120,7 +120,7 @@
 									<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/career"><span itemprop="name">Karir</span></a><meta itemprop="position" content="1" /></li>
-										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Inside Sales<meta itemprop="position" content="2" /></li>
+										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >IT Account Executive<meta itemprop="position" content="2" /></li>
 									</ol>
 								</div>
 							</div>
@@ -131,7 +131,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-6 text-center">
-									<h1><img src="/img/career/accounting.png" style="filter: contrast(0%) brightness(150%);"> Inside Sales</h1>
+									<h1><img src="/img/career/accounting.png" style="filter: contrast(0%) brightness(150%);"> IT Account Executive</h1>
 								</div>
 								<div class="col-md-6 text-center">
 									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
