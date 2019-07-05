@@ -289,7 +289,7 @@ if(isset($_POST['submitted']))
 								<a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter" rel="noreferrer"><i class="fa fa-twitter" style="color:#0084ff"></i></a>
 								<a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram" rel="noreferrer"><i class="fa fa-instagram" style="color:#e4405f"></i></a>
 								<a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn" rel="noreferrer"><i class="fa fa-linkedin-square" style="color:#0077B5"></i></a>
-								<a href="https://api.whatsapp.com/send?phone=0811870321" target="_blank" aria-label="WhatsApp" rel="noreferrer"><i class="fa fa-whatsapp" style="color:#25D366"></i></a>
+								<a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" aria-label="WhatsApp" rel="noreferrer"><i class="fa fa-whatsapp" style="color:#25D366"></i></a>
 							</div>
 						</div>
 						<br/>

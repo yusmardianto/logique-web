@@ -135,21 +135,21 @@
 								<a href="hubungi-kami.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
 									Hubungi LOGIQUE terkait portofolio pembuatan Website
 								</a>
-							</div>	
+							</div>
 						</div>
 						<div class="portfolio-webdev page-part-container">
 							<div class="characteristic-title" style="font-size:22px">WEB</div>
 							<div class="row text-center">
-								<div class="col-sm-4">
-									<a href="https://aiaberbagi.com" target="_blank" rel="noreferrer">
-										<img src="/img/portfolio/aia.png" alt="AIA" class="img-responsive center-block">
-										AIA 
-									</a>
-									<div class="addition-desc text-left">
-										Campaign Page Creation (Coding | Hosting)  
-										<div class="grey-clr">Optimasi Mobile, Campaign page, Insurance</div>
-									</div>
-								</div>
+                <div class="col-sm-4">
+                  <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
+                    <img src="/img/portfolio/aiapremieracademy.png" alt="AIA Premier Academy" class="img-responsive center-block">
+                    AIA 2nd Project
+                  </a>
+                  <div class="addition-desc text-left">
+                    Campaign Page Creation (Design | Coding | Hosting)
+                    <div class="grey-clr">Mobile Optimized, Campaign page, Insurance</div>
+                  </div>
+                </div>
 								<div class="col-sm-4">
 									<a href="https://www.bekalhidup.com" target="_blank" rel="noreferrer">
 										<img src="/img/portfolio/panin.png" alt="Panin Life Dai-ichi" class="img-responsive center-block">
@@ -173,7 +173,7 @@
 								<div class="clearfix"></div>
 								<div class="col-sm-4">
 								  <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
-								    Pertamina  
+								    Pertamina
 								  <div class="addition-desc text-left">
 								    UI / UX Design  (Design | HTML/CSS)
 								    <div class="grey-clr">Training, E-Learning, Pertamina</div>
@@ -289,7 +289,7 @@
 											Hoyu Indonesia
 										</a>
 										<div class="addition-desc text-left">
-											Pengembangan WEB (Design | Coding | Operation) 
+											Pengembangan WEB (Design | Coding | Operation)
 											<div class="grey-clr">Multi-bahasa, Mobile, Manufaktur, Kecantikan</div>
 										</div>
 									</div>
@@ -316,7 +316,7 @@
 											JualBeliWEB.id (Website market place)
 										</a>
 										<div class="addition-desc text-left">
-											Pengoperasian & Pengembangan WEB (Design | CMS | System | Content Creation | Operation) 
+											Pengoperasian & Pengembangan WEB (Design | CMS | System | Content Creation | Operation)
 											<div class="grey-clr">CMS, Jual-Beli, DB, Mobile, Keamanan WEB, Layanan WEB</div>
 										</div>
 									</div>
@@ -404,7 +404,7 @@
 											Hajime Indonesia
 										</a>
 										<div class="addition-desc text-left">
-											Pengoperasian & Pengembangan WEB (Design | Coding | Operation | WEB Server) 
+											Pengoperasian & Pengembangan WEB (Design | Coding | Operation | WEB Server)
 											<div class="grey-clr">Multi-bahasa, Mobile, AWS, Perumahan</div>
 										</div>
 									</div>
@@ -424,7 +424,7 @@
 											ZuttoRide Indonesia
 										</a>
 										<div class="addition-desc text-left">
-											Pengoperasian & Pengembangan WEB (Design | Coding | Maintenance| WEB Server) 
+											Pengoperasian & Pengembangan WEB (Design | Coding | Maintenance| WEB Server)
 											<div class="grey-clr">Multi-bahasa, Mobile, Layanan Sepeda Motor</div>
 										</div>
 									</div>
@@ -435,7 +435,7 @@
 											Jakarta Japanese School
 										</a>
 										<div class="addition-desc text-left">
-											Pengoperasian & Pengembangan WEB (Design | Coding | Wordpress | Operation) 
+											Pengoperasian & Pengembangan WEB (Design | Coding | Wordpress | Operation)
 											<div class="grey-clr">WEB Bahasa Jepang, Blog, Mobile, Form Aplikasi, Sekolah </div>
 										</div>
 									</div>
@@ -526,7 +526,7 @@
 											4Dentist.jp (Dentist Portal)
 										</a>
 										<div class="addition-desc text-left">
-											Pengoperasian & Pengembangan WEB (Design | CMS | Operation) 
+											Pengoperasian & Pengembangan WEB (Design | CMS | Operation)
 											<div class="grey-clr">Wordpress, Mobile, Member-only WEB, Kesehatan</div>
 										</div>
 									</div>
@@ -536,7 +536,7 @@
 											Onitsuka Management Consulting
 										</a>
 										<div class="addition-desc text-left">
-											Pembaharuan Design WEB (Design | Coding) 
+											Pembaharuan Design WEB (Design | Coding)
 											<div class="grey-clr">Multi-bahasa, Mobile, Konsultasi, Akuntansi &amp; Pajak </div>
 										</div>
 									</div>
@@ -588,7 +588,7 @@
 											Opus Park
 										</a>
 										<div class="addition-desc text-left">
-											WEB Re-Design (Indonesian Contents | SEO | AWS)  
+											WEB Re-Design (Indonesian Contents | SEO | AWS)
 											<div class="grey-clr">Optimasi Mobile, O2O, Property</div>
 										</div>
 									</div>
@@ -648,7 +648,7 @@
 											Lifenesia
 										</a>
 										<div class="addition-desc text-left">
-											WEB Hosting (Coding | Integrasi CMS)  
+											WEB Hosting (Coding | Integrasi CMS)
 											<div class="grey-clr">Optimasi Mobile, CMS, News Portal</div>
 										</div>
 									</div>
@@ -685,7 +685,7 @@
 									  <img src="/img/portfolio/wantjp.png" alt="Want.jp" class="img-responsive center-block">
 									    Want.jp
 									  <div class="addition-desc text-left">
-									    Pengembangan E-Commerce (PWA | ReactJS | NodeJS) 
+									    Pengembangan E-Commerce (PWA | ReactJS | NodeJS)
 									    <div class="grey-clr">Optimasi Mobile PWA, Cross Border E-Commerce</div>
 									  </div>
 									</div>
@@ -705,7 +705,7 @@
 										Vetter
 									</a>
 									<div class="addition-desc text-left">
-										WEB Hosting (Coding | Integrasi CMS)  
+										WEB Hosting (Coding | Integrasi CMS)
 										<div class="grey-clr">Optimasi Mobile, CMS, News Portal</div>
 									</div>
 								</div>-->
@@ -736,7 +736,7 @@
 											JBA LP
 										</a>
 									  <div class="addition-desc text-left">
-									    Web Page Creation (Design | Coding | Integrasi CMS) 
+									    Web Page Creation (Design | Coding | Integrasi CMS)
 									    <div class="grey-clr"> Optimasi Mobile, CMS, Campaign page </div>
 									  </div>
 									</div>
@@ -747,10 +747,26 @@
 											PROLINE FINANCE
 										</a>
 										<div class="addition-desc text-left">
-											Pengembangan WEB (Design | Coding | CMS) 
+											Pengembangan WEB (Design | Coding | CMS)
 											<div class="grey-clr">CMS, Mobile, OJK, Finansial</div>
 										</div>
 									</div>
+                  <div class="col-sm-4">
+  									<a href="https://aiaberbagi.com" target="_blank" rel="noreferrer">
+  										<img src="/img/portfolio/aia.png" alt="AIA" class="img-responsive center-block">
+  										AIA
+  									</a>
+  									<div class="addition-desc text-left">
+  										Campaign Page Creation (Coding | Hosting)
+  										<div class="grey-clr">Optimasi Mobile, Campaign page, Insurance</div>
+  									</div>
+  								</div>
+                  <div class="col-sm-4">
+  									<a href="https://www.kbrprime.id/" target="_blank" rel="noreferrer">
+  										<img src="/img/portfolio/KBR_ID.png" alt="KBR_ID" class="img-responsive center-block">
+  										KBR
+  									</a>
+  								</div>
 								</div>
 							</div>
 							<center>
@@ -759,7 +775,7 @@
 								</a>
 							</center>
 						</div>
-						
+
 						<div class="system-development-client-container  page-part-container">
 							<span class="characteristic-title">Portofolio Pengembangan Sistem</span>
 							<div class="row">
@@ -796,7 +812,7 @@
 									</div>
                 </div>
 							</div>
-							
+
 							<div class="webapplist-container panel-collapse collapse" id="hide-webapplist">
 								<ul class="circle-list">
 									<li>
@@ -1081,16 +1097,16 @@
 	              </div>
 							</div>
 						</div>
-						
+
 						<div class="mobileapp-client-container  page-part-container">
-							<span class="characteristic-title">Mobile App</span>
+							<span class="characteristic-title">Mobile App / PWA</span>
 							<div class="row text-center">
 								<div class="col-sm-4">
 									<div class="mobile-app-container">
 										<div class="m-app-item">
 											<img src="/img/portfolio/apps-nlec.jpg" alt="NLEC Nihongo E-Learning PWA" class="img-responsive center-block">
 										</div>
-									</div>								
+									</div>
 									NLEC Nihongo E-Learning PWA
 								</div>
 								<div class="col-sm-4">
@@ -1130,7 +1146,7 @@
 										<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-1.jpg" alt="VIP Plaza PWA" class="img-responsive center-block"></div>
 										<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-2.jpg" alt="VIP Plaza PWA" class="img-responsive center-block"></div>
 										<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-3.jpg" alt="VIP Plaza PWA" class="img-responsive center-block"></div>
-									</div>					
+									</div>
 									VIP Plaza PWA
 								</div>
 								<div class="clearfix"></div>
@@ -1142,9 +1158,18 @@
 								  </div>
 								  Investindo
 								</div>
+                <div class="col-sm-4">
+								  <div class="mobile-app-container">
+									<div class="m-app-item"><img src="/img/portfolio/wantjp1.png" alt="want.jp" class="img-responsive center-block"></div>
+									<div class="m-app-item"><img src="/img/portfolio/wantjp2.png" alt="want.jp" class="img-responsive center-block"></div>
+									<div class="m-app-item"><img src="/img/portfolio/wantjp3.png" alt="want.jp" class="img-responsive center-block"></div>
+									<div class="m-app-item"><img src="/img/portfolio/wantjp4.png" alt="want.jp" class="img-responsive center-block"></div>
+								  </div>
+								  Want.jp
+								</div>
 							</div>
 						</div>
-						
+
 						<div class="digital-marketing-container page-part-container">
 							<span class="characteristic-title">Digital Marketing</span>
 							<div class="row text-center">
@@ -1196,7 +1221,7 @@
 								</div>
 							</div>
 						</div>
-						
+
 						<div class="other-portfolio-container  page-part-container">
 							<span class="characteristic-title">Lainnya</span>
 							<div class="slider-other-client-container">
