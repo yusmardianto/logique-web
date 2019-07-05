@@ -18,7 +18,7 @@
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
-	
+
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -27,12 +27,12 @@
     </head>
 	<body>
 		<div class="wrapper">
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -90,7 +90,7 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
 				<video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
@@ -98,7 +98,7 @@
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
-			
+
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
@@ -117,8 +117,8 @@
 						</div>
 					</div>
 				</div>
-			</div>			
-			 
+			</div>
+
 			<style>
 				.addition-desc{font-size:12px}
 				.grey-clr{color:grey}
@@ -131,34 +131,34 @@
 					<div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
 					<div class="form-container our-portfolio">
 						<div class="page-description page-part-container">
-						 
+
 						LOGIQUEはインドネシアの日系企業、外資企業、大手インドネシア企業との仕事を主に多くの実績を作ってきました。日本からのオフショア制作開発のお仕事も条件によってはお請けすることが可能ですのでお気軽にご相談ください。以下に、幾つかの公開可能なWEB制作、モバイルアプリ開発、WEBシステム開発、デジタルマーケティング・コンサルティングの実績を掲載します。政府系団体や大手金融機関と多く長い期間に渡りお仕事させていただいていることが当社の仕事のクオリティを裏付けるものと考えています。
 							<div class="text-center">
 								<a href="contact.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
 									制作開発実績のお問い合わせ
 								</a>
-							</div> 
+							</div>
 						</div>
 						<div class="portfolio-webdev page-part-container">
-							<div class="characteristic-title">Webサイト（ホームページ）制作実績</div> 
+							<div class="characteristic-title">Webサイト（ホームページ）制作実績</div>
 							<div class="row text-center">
-								<div class="col-sm-4">
-									<a href="https://aiaberbagi.com" target="_blank" rel="noreferrer">
-										<img src="/img/portfolio/aia.png" alt="AIA" class="img-responsive center-block">
-										AIA 
-									</a>
-									<div class="addition-desc text-left">
-										Webページ制作 (コーディング | ホスティング)     
-										<div class="grey-clr">モバイル最適化, キャンペーンページ, 保険</div>
-									</div>
-								</div>
+                <div class="col-sm-4">
+                  <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
+                    <img src="/img/portfolio/aiapremieracademy.png" alt="AIA Premier Academy" class="img-responsive center-block">
+                    AIA 2nd Project
+                  </a>
+                  <div class="addition-desc text-left">
+                    Webページ制作 (デザイン | コーディング | ホスティング)
+                    <div class="grey-clr">モバイル最適化, キャンペーンページ, 保険</div>
+                  </div>
+                </div>
 								<div class="col-sm-4">
 									<a href="https://www.bekalhidup.com" target="_blank" rel="noreferrer">
 										<img src="/img/portfolio/panin.png" alt="Panin Life Dai-ichi" class="img-responsive center-block">
 										Panin Life Dai-ichi
 									</a>
 									<div class="addition-desc text-left">
-										 保険EC開発制作 (デザイン | プログラミング | CMS | 決済連携） <div class="grey-clr">CMS, 保険Eコマース, 金融, 保険</div> 
+										 保険EC開発制作 (デザイン | プログラミング | CMS | 決済連携） <div class="grey-clr">CMS, 保険Eコマース, 金融, 保険</div>
 									</div>
 								</div>
 								<div class="col-sm-4">
@@ -166,15 +166,15 @@
 										<img src="/img/portfolio/jtrust-bank-new.png" alt="JTrust Bank (Re-design)" class="img-responsive center-block">
 										JTrust Bank (Re-design)
 									</a>
-									<div class="addition-desc text-left"> 
-										WEBリニューアル制作 (デザイン| コーディング |CMSフィッティング) 
-										<div class="grey-clr">モバイル最適化, 多言語, CMS, 銀行</div> 
+									<div class="addition-desc text-left">
+										WEBリニューアル制作 (デザイン| コーディング |CMSフィッティング)
+										<div class="grey-clr">モバイル最適化, 多言語, CMS, 銀行</div>
 									</div>
 								</div>
 								<div class="clearfix"></div>
 								<div class="col-sm-4">
 								  <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
-								    Pertamina  
+								    Pertamina
 								  <div class="addition-desc text-left">
 								    UI/UXデザイン (デザイン | HTML/CSSコーディング)
 								    <div class="grey-clr">eラーニング, トレーニング, 資源ビジネス</div>
@@ -186,8 +186,8 @@
 										JBA INDONESIA
 									</a>
 									<div class="addition-desc text-left">
-										 WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用) 
-										 <div class="grey-clr">オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</div>  
+										 WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)
+										 <div class="grey-clr">オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</div>
 									</div>
 								</div>
 								<div class="col-sm-4">
@@ -196,14 +196,14 @@
 										JNTO Indonesia
 									</a>
 									<div class="addition-desc text-left">
-										 WEBリニューアル＆運用 (デザイン| コーディング| 運用) <div class="grey-clr">モバイル最適化,セキュアなWEB,公共,旅行</div> 
+										 WEBリニューアル＆運用 (デザイン| コーディング| 運用) <div class="grey-clr">モバイル最適化,セキュアなWEB,公共,旅行</div>
 									</div>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 							<div class="portfolio-webdev page-part-container panel-collapse collapse" id="hide-portfolio">
 								<div class="row text-center">
-								  
+
 									<div class="col-sm-4">
 										<a href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
 											<img src="/img/portfolio/jff.png" alt="Film Festival" class="img-responsive center-block">
@@ -218,8 +218,8 @@
 											OTOmart (used-car market place)
 										</a>
 										<div class="addition-desc text-left">
-											 WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用 | AWS運用) 
-											 <div class="grey-clr">CMS,マーケットプレイス,会員WEB,Mobile, WEBサービス,車</div>  
+											 WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用 | AWS運用)
+											 <div class="grey-clr">CMS,マーケットプレイス,会員WEB,Mobile, WEBサービス,車</div>
 										</div>
 								 	</div>
 									<div class="col-sm-4">
@@ -313,7 +313,7 @@
 										</a>
 										<div class="addition-desc text-left">キャンペーンページ制作 (デザイン | コーディング | CMS開発)<div class="grey-clr">多言語,モバイル対応, キャンペーンページ,CMS,金融,銀行</div>
 										</div>
-									</div>	
+									</div>
 									<div class="col-sm-4">
 										<a href="http://frangipanibalispa.com/contact.php" target="_blank" rel="noreferrer">
 											<img src="/img/portfolio/frangipani.png" alt="Frangipani Esthetics Bali" class="img-responsive center-block">
@@ -346,7 +346,7 @@
 										<div class="addition-desc text-left">保証サービスランディングページ  (デザイン | コーディング）<div class="grey-clr">ランディングページ制作, モバイル, 車両保証</div>
 										</div>
 									</div>
-									<div class="col-sm-4">								
+									<div class="col-sm-4">
 										<img src="/img/portfolio/eccj.jpg" alt="ECCJ" class="img-responsive center-block">
 										ECCJ
 										<div class="addition-desc text-left">LP制作、申込みフォーム制作 (デザイン | プログラミング)<div class="grey-clr">モバイル最適化, 申込フォーム, イベント</div>
@@ -392,7 +392,7 @@
 										<div class="addition-desc text-left">WEB構築＆運用 (デザイン | Coding | Wordpress | 運用)<div class="grey-clr">日本語WEB,ブログ,モバイル最適化,願書受付,学校</div>
 										</div>
 									</div>
-									<div class="col-sm-4">								
+									<div class="col-sm-4">
 										<a href="https://cikarang-japanese-school.com/" target="_blank" rel="noreferrer">
 											<img src="/img/portfolio/cjs.png" alt="Cikarang Japanese School" class="img-responsive center-block">
 											Cikarang Japanese School
@@ -472,7 +472,7 @@
 										</a>
 										<div class="addition-desc text-left">WEBリデザイン(デザイン | コーディング)<div class="grey-clr">多言語,モバイル,AWS,コンサルティング,会計税務</div>
 										</div>
-									</div>	
+									</div>
 									<div class="col-sm-4">
 										<a href="http://j-golfacademy.com/" target="_blank" rel="noreferrer">
 											<img src="/img/portfolio/golfjkt.png" alt="Jakarta Golf Academy" class="img-responsive center-block">
@@ -549,7 +549,7 @@
 									<div class="col-sm-4">
 										<a href="https://webdev-id.com/" target="_blank" rel="noreferrer">
 											<img src="/img/portfolio/wdi.png" alt="WDI" class="img-responsive center-block">
-											WDI 
+											WDI
 										</a>
 										<div class="addition-desc text-left">クリエイターズマーケットプレイス開発（デザイン制作 | WEBシステム開発 | セキュリティアセスメント）<div class="grey-clr">　WEBシステム, 検索システム,スマホ最適, マーケットプレイス</div>
 										</div>
@@ -558,7 +558,7 @@
 									<div class="col-sm-4">
 										<a href="https://lifenesia.com" target="_blank" rel="noreferrer">
 											<img src="/img/portfolio/lifenesia.png" alt="Lifenesia" class="img-responsive center-block">
-											Lifenesia 
+											Lifenesia
 										</a>
 										<div class="addition-desc text-left">WEBホスティング (コーディング | CMSフィッティング)<div class="grey-clr">モバイル最適化, CMS, ニュースポータル</div>
 										</div>
@@ -566,14 +566,14 @@
 									<div class="col-sm-4">
 										<a href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank" rel="noreferrer">
 											<img src="/img/portfolio/jnto-campaign.png" alt="JNTO Campaign Page " class="img-responsive center-block">
-											JNTO Campaign Page 
+											JNTO Campaign Page
 										</a>
 										<div class="addition-desc text-left">HTML/CSSコーディング (コーディング) <div class="grey-clr">モバイル最適化, キャンペーンページ</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
 										<img src="/img/portfolio/jba-redesign.png" alt="JBA Re-design" class="img-responsive center-block">
-										JBA Re-design  
+										JBA Re-design
 										<div class="addition-desc text-left">WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)<div class="grey-clr">オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</div>
 										</div>
 									</div>
@@ -584,14 +584,14 @@
 											60<sup>th</sup> Anniversary Japan-Indonesia
 										</a>
 										<div class="addition-desc text-left">
-											 WEB制作＆運用 (デザイン | コーディング | コンテンツ制作 | 運用) <div class="grey-clr">CMS, multi-bahasa, Mobile, Keamanan WEB, Publik</div> 
+											 WEB制作＆運用 (デザイン | コーディング | コンテンツ制作 | 運用) <div class="grey-clr">CMS, multi-bahasa, Mobile, Keamanan WEB, Publik</div>
 										</div>
 									</div>
 									<div class="col-sm-4">
 									  <img src="/img/portfolio/wantjp.png" alt="Want.jp" class="img-responsive center-block">
 									    Want.jp
 									  <div class="addition-desc text-left">
-									    Eコマース (PWA | ReactJS | NodeJS) 
+									    Eコマース (PWA | ReactJS | NodeJS)
 									    <div class="grey-clr">モバイル最適化EC, 越境EC</div>
 									  </div>
 									</div>
@@ -608,7 +608,7 @@
 									<!--<div class="col-sm-4">
 										<a href="http://wkvetter.com" target="_blank" rel="noreferrer">
 											<img src="/img/portfolio/vetter.png" class="img-responsive center-block">
-											Vetter 
+											Vetter
 										</a>
 										<div class="addition-desc text-left">WEBホスティング (コーディング | CMSフィッティング)<div class="grey-clr">モバイル最適化, CMS, ニュースポータル</div>
 										</div>
@@ -640,7 +640,7 @@
 											JBA LP
 										</a>
 									  <div class="addition-desc text-left">
-									    Webページ制作 (デザイン | コーディング | CMS) 
+									    Webページ制作 (デザイン | コーディング | CMS)
 									    <div class="grey-clr"> モバイル最適化, CMS, キャンペーンページ </div>
 									  </div>
 									</div>
@@ -653,55 +653,71 @@
 										<div class="addition-desc text-left">CMS WEBサイト制作 (デザイン | コーディング | CMS))<div class="grey-clr">CMS,モバイル対応,金融</div>
 										</div>
 									</div>
+                  <div class="col-sm-4">
+  									<a href="https://aiaberbagi.com" target="_blank" rel="noreferrer">
+  										<img src="/img/portfolio/aia.png" alt="AIA" class="img-responsive center-block">
+  										AIA
+  									</a>
+  									<div class="addition-desc text-left">
+  										Webページ制作 (コーディング | ホスティング)
+  										<div class="grey-clr">モバイル最適化, キャンペーンページ, 保険</div>
+  									</div>
+  								</div>
+                  <div class="col-sm-4">
+                    <a href="https://www.kbrprime.id/" target="_blank" rel="noreferrer">
+                      <img src="/img/portfolio/KBR_ID.png" alt="KBR_ID" class="img-responsive center-block">
+                      KBR
+                    </a>
+                  </div>
 								</div>
- 
+
 						 </div>
 							<center>
 
 								<a  class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse" href="#hide-portfolio" >
 								Web・ホームページ制作実績をもっとみる</a>
 							</center>
-						
+
 					 	</div>
-				 		
 
 
-						
-						 
+
+
+
 						<div class="system-development-client-container  page-part-container">
 							<span class="characteristic-title">システム開発実績</span>
 							<div class="row">
 								<div class="col-sm-4">
-									 
+
 										<div class="img-thumbnail">
 											<img src="/img/logo-jba.jpg" alt="JBA" class="img-responsive center-block"  >
 										</div>
 										<h3>JBA </h3>
-									 
+
 									<div class="addition-desc text-left">
 										<div class=" ">モバイルアプリ開発 (検品＆品質スコアリングシステム).</div>
 										<small class="text-muted">4months, Android, node.js, JAVA, AWS  </small>
 									</div>
 								</div>
 								<div class="col-sm-4">
-									 
+
 										<div class="img-thumbnail">
 											<img src="/img/logo-sinarmasland.jpg" alt="PT. Sinarmas Land" class="img-responsive center-block"  >
 										</div>
 										<h3>PT. Sinarmas Land</h3>
-									 
+
 									<div class="addition-desc text-left">
 										<div class=" ">金融機関向け採用管理システムの構築.</div>
 										<small class="text-muted">3months, PHP Framework, HTML5/CSS3,MySQL </small>
 									</div>
 								</div>
 								<div class="col-sm-4">
-								 
+
 										<div class="img-thumbnail">
 											<img src="/img/logo-zuttoride.jpg" alt="Zuttoride Indonesia" class="img-responsive center-block"  >
 										</div>
 										<h3>Zuttoride Indonesia</h3>
-									 
+
 									<div class="addition-desc text-left">
 										<div class=" ">ロードサービス事業者向けWEB-CRMシステム開発.</div>
 										<small class="text-muted">3months, PHP Framework, Payment Gateway, AWS </small>
@@ -951,7 +967,7 @@
 							    </div>
 							  </div>
 							</div>
-						</ul> 
+						</ul>
 						<br>
 							</div>
 							<center>
@@ -960,9 +976,9 @@
 							</center>
 						</div>
 
- 						
- 						 
-						 
+
+
+
 						<div class="casestudy-container  page-part-container">
 							<div class="characteristic-title">Case Study</div>
 
@@ -1014,13 +1030,13 @@
 								</div>
 
 							</div>*/ ?>
-						 
+
 						</div>
-						 
-						
-						 
+
+
+
 						<div class="mobileapp-client-container  page-part-container">
-							<span class="characteristic-title">Mobile App Development</span>
+							<span class="characteristic-title">Mobile App / PWA</span>
 							<div class="row text-center">
 								<div class="col-sm-4">
 									<div class="mobile-app-container">
@@ -1030,13 +1046,13 @@
 									NLEC Nihongo E-Learning PWA
 								</div>
 								<div class="col-sm-4">
-									 
+
 									<div class="mobile-app-container">
 										<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect1.jpg" alt="JBA Indonesia - Bike and Car Inspection App" class="img-responsive center-block"></div>
 										<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect2.jpg" alt="JBA Indonesia - Bike and Car Inspection App" class="img-responsive center-block"></div>
 										<div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect3.jpg" alt="JBA Indonesia - Bike and Car Inspection App" class="img-responsive center-block"></div>
 									</div>
-									 
+
 									JBA Indonesia -  Bike and Car Inspection App
 								</div>
 								<div class="col-sm-4">
@@ -1044,7 +1060,7 @@
 										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding.jpg"  alt="JBA Indonesia オークション入札Androidアプリ" class="img-responsive center-block"></div>
 										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding2.jpg" alt="JBA Indonesia オークション入札Androidアプリ"  class="img-responsive center-block"></div>
 										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding3.jpg" alt="JBA Indonesia オークション入札Androidアプリ"  class="img-responsive center-block"></div>
-										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding4.jpg" alt="JBA Indonesia オークション入札Androidアプリ"  class="img-responsive center-block"></div> 
+										<div class="m-app-item"><img src="/img/portfolio/app-jba-bidding4.jpg" alt="JBA Indonesia オークション入札Androidアプリ"  class="img-responsive center-block"></div>
 									</div>
 									JBA Indonesia オークション入札Androidアプリ
 								</div>
@@ -1053,20 +1069,20 @@
 									<div class="mobile-app-container">
 										<div class="m-app-item"><img src="/img/portfolio/apps-oto-1.jpg" alt="Otomart - Dealer Car App" class="img-responsive center-block"></div>
 										<div class="m-app-item"><img src="/img/portfolio/apps-oto-2.jpg" alt="Otomart - Dealer Car App" class="img-responsive center-block"></div>
-										 
+
 									</div>
 									Otomart -  Dealer Car App
 								</div>
 								<div class="col-sm-4">
 									<div class="mobile-app-container">
 										<div class="m-app-item"><img src="/img/portfolio/apps-frangipani-1.jpg" alt="Frangipani Guest Comment Management App" class="img-responsive center-block"></div>
-										<div class="m-app-item"><img src="/img/portfolio/apps-frangipani-2.jpg" alt="Frangipani Guest Comment Management App" class="img-responsive center-block"></div> 
+										<div class="m-app-item"><img src="/img/portfolio/apps-frangipani-2.jpg" alt="Frangipani Guest Comment Management App" class="img-responsive center-block"></div>
 									</div>
-									 
+
 									Frangipani Esthetics (Android) Guest Comment Management App
 								</div>
-								
-								
+
+
 								<div class="col-sm-4">
 									<div class="mobile-app-container">
 										<div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-1.jpg" alt="VIP Plaza PWA" class="img-responsive center-block"></div>
@@ -1084,12 +1100,21 @@
 								  </div>
 								  Investindo
 								</div>
+                <div class="col-sm-4">
+								  <div class="mobile-app-container">
+									<div class="m-app-item"><img src="/img/portfolio/wantjp1.png" alt="want.jp" class="img-responsive center-block"></div>
+									<div class="m-app-item"><img src="/img/portfolio/wantjp2.png" alt="want.jp" class="img-responsive center-block"></div>
+									<div class="m-app-item"><img src="/img/portfolio/wantjp3.png" alt="want.jp" class="img-responsive center-block"></div>
+									<div class="m-app-item"><img src="/img/portfolio/wantjp4.png" alt="want.jp" class="img-responsive center-block"></div>
+								  </div>
+								  Want.jp
+								</div>
 							</div>
 						</div>
-						 
+
 						<div class="digital-marketing-container  page-part-container">
 							<span class="characteristic-title">Digital Marketing</span>
-							 
+
 							<div class="row text-center">
 								<div class="col-sm-4">
 									<img src="/img/portfolio/opus-park-facebook.png" alt="Opus Park (Facebook)" class="img-responsive center-block">
@@ -1137,11 +1162,11 @@
 										<small class="text-muted">(SEO対策、コンテンツ制作、ページ速度、検索順位)</small>
 									</div>
 								</div>
-							</div> 
+							</div>
 						</div>
 						<div class="other-portfolio-container  page-part-container">
 							<span class="characteristic-title">その他の実績</span>
-						 
+
 							<div class="slider-other-client-container">
 								<div class="other-client-item">
 									<div class="img-thumb">
@@ -1160,7 +1185,7 @@
 									</div>
 									2D ビデオ制作 (OTOmart)
 								</div>
-								 
+
 								<div class="other-client-item">
 									<div class="img-thumb"><img src="../img/portfolio/video-otomart2.jpg" alt="2D ビデオ制作 (OTOmart)" class="img-responsive center-block"></div>
 									2D ビデオ制作 (OTOmart)
@@ -1173,7 +1198,7 @@
 									<div class="img-thumb"><img src="../img/portfolio/onitsuka-mockup.jpg" alt="会社案内制作" class="img-responsive center-block"></div>
 									会社案内制作
 								</div>
-								 
+
 								<div class="other-client-item">
 									<div class="img-thumb"><img src="../img/portfolio/maison-news.png" alt="コンテンツ制作" class="img-responsive center-block"></div>
 									コンテンツ制作
@@ -1186,9 +1211,9 @@
 									<div class="img-thumb"><img src="../img/portfolio/frangipani-photoshot.png" alt="Frangipani スパ 写真撮影" class="img-responsive center-block insta-vid"></div>
 									Frangipani スパ 写真撮影
 								</div>
-								 
+
 								<div class="other-client-item">
-									<div class="img-thumb"><img src="/img/portfolio/drone1.png" alt="ドローン撮影" class="img-responsive center-block"></div> 
+									<div class="img-thumb"><img src="/img/portfolio/drone1.png" alt="ドローン撮影" class="img-responsive center-block"></div>
 									ドローン撮影
 								</div>
 								<div class="other-client-item">
@@ -1199,7 +1224,7 @@
 									<div class="img-thumb"><img src="/img/portfolio/sunlife-flyer.jpg" alt="リーフレット制作＆印刷" class="img-responsive center-block"></div>
 									リーフレット制作＆印刷
 								</div>
-								 
+
 								<div class="other-client-item">
 									<div class="img-thumb"><img src="/img/portfolio/sunlife-banner.jpg" alt="バナー制作" class="img-responsive center-block"></div>
 									バナー制作
@@ -1212,7 +1237,7 @@
 									<div class="img-thumb"><img src="/img/portfolio/Eria.jpg" alt="チラシ制作＆印刷" class="img-responsive center-block"></div>
 									チラシ制作＆印刷
 								</div>
-						 
+
 								<div class="other-client-item">
 									<div class="img-thumb"><img src="/img/portfolio/bumbu-warasa-1.jpg" alt="プロダクトデザイン" class="img-responsive center-block"></div>
 									プロダクトデザイン
@@ -1227,10 +1252,10 @@
 									<video class="vd-log same-height" poster="/img/portfolio/video-jfe.jpg" controls>
 									   <source src="/img/portfolio/JFE-video.webm" type="video/webm" />
 									   <source src="/img/portfolio/JFE-video.mp4" type="video/mp4" />
-									</video>	
+									</video>
 									コーポレート動画撮影＆制作
 								</div>
-								 
+
 								<div class="other-client-item">
 									<div class="img-thumb"><img src="/img/portfolio/caroline-1.jpg" alt="フライヤー制作＆印刷" class="img-responsive center-block" style="height: 224px"> </div>
 									フライヤー制作＆印刷
@@ -1243,7 +1268,7 @@
 									<div class="img-thumb"><img src="/img/portfolio/sunlife-book2.jpg" alt="販促＆配布品制作" class="img-responsive center-block" style="height: 224px"> </div>
 									販促＆配布品制作
 								</div>
-								 
+
 								<div class="other-client-item">
 									<div class="img-thumb"><img src="/img/portfolio/60jpid_catalog.png" alt="カタログ制作＆印刷" class="img-responsive center-block" style="height: 224px"> </div>
 									カタログ制作＆印刷
@@ -1257,7 +1282,7 @@
 					</div>
 				</div>
 			</div>
-			
+
 			<?php include 'footer.php';?>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
 			<script>

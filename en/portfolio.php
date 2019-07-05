@@ -141,16 +141,16 @@
 						<div class="portfolio-webdev page-part-container">
   						<div class="characteristic-title" style="font-size:22px">Website Development Portfolio</div>
   						<div class="row text-center">
-							<div class="col-sm-4">
-								<a href="https://aiaberbagi.com" target="_blank" rel="noreferrer">
-									<img src="/img/portfolio/aia.png" alt="AIA" class="img-responsive center-block">
-									AIA 
-								</a>
-								<div class="addition-desc text-left">
-									Campaign Page Creation (Coding | Hosting)  
-									<div class="grey-clr">Mobile Optimized, Campaign page, Insurance</div>
-								</div>
-							</div>
+                <div class="col-sm-4">
+                  <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
+                    <img src="/img/portfolio/aiapremieracademy.png" alt="AIA Premier Academy" class="img-responsive center-block">
+                    AIA 2nd Project
+                  </a>
+                  <div class="addition-desc text-left">
+                    Campaign Page Creation (Design | Coding | Hosting)
+                    <div class="grey-clr">Mobile Optimized, Campaign page, Insurance</div>
+                  </div>
+                </div>
 							<div class="col-sm-4">
 							  <a href="https://www.bekalhidup.com" target="_blank" rel="noreferrer">
 								<img src="/img/portfolio/panin.png" alt="Panin Life Dai-ichi" class="img-responsive center-block">
@@ -174,7 +174,7 @@
                 <div class="clearfix"></div>
                 <div class="col-sm-4">
 				  <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
-					Pertamina  
+					Pertamina
 				  <div class="addition-desc text-left">
 					UI / UX Design  (Design | HTML/CSS)
 					<div class="grey-clr">Training, E-Learning, Pertamina</div>
@@ -290,7 +290,7 @@
     									Hoyu Indonesia
     								</a>
     								<div class="addition-desc text-left">
-    									WEB Dev (Design | Coding | Operation) 
+    									WEB Dev (Design | Coding | Operation)
     									<div class="grey-clr">Multi-language, Mobile, Manufacture, Beauty</div>
     								</div>
     							</div>
@@ -317,7 +317,7 @@
     									JualBeliWEB.id (Website market place)
     								</a>
     								<div class="addition-desc text-left">
-    									WEB Dev & Operation (Design | CMS | System | Content Creation | Operation) 
+    									WEB Dev & Operation (Design | CMS | System | Content Creation | Operation)
     									<div class="grey-clr">CMS, Market Place, DB, Mobile, secure WEB, WEB service</div>
     								</div>
     							</div>
@@ -527,7 +527,7 @@
     									4Dentist.jp (Dentist Portal)
     								</a>
     								<div class="addition-desc text-left">
-    									WEB Dev & Operation (Design | CMS | Operation) 
+    									WEB Dev & Operation (Design | CMS | Operation)
     									<div class="grey-clr">Wordpress, Mobile, Member-only Web, Medical</div>
     								</div>
     							</div>
@@ -649,7 +649,7 @@
     									Lifenesia
     								</a>
     								<div class="addition-desc text-left">
-    									WEB Hosting (Coding | Integrasi CMS)  
+    									WEB Hosting (Coding | Integrasi CMS)
     									<div class="grey-clr">Mobile Optimized, CMS, News Portal</div>
     								</div>
     							</div>
@@ -686,7 +686,7 @@
 								<img src="/img/portfolio/wantjp.png" alt="Want.jp" class="img-responsive center-block">
 								  Want.jp
 								<div class="addition-desc text-left">
-								  E-Commerce Development (PWA | ReactJS | NodeJS) 
+								  E-Commerce Development (PWA | ReactJS | NodeJS)
 								  <div class="grey-clr">Mobile Optimized PWA, Cross Border E-Commerce</div>
 								</div>
 							  </div>
@@ -706,7 +706,7 @@
     									Vetter
     								</a>
     								<div class="addition-desc text-left">
-    									WEB Hosting (Coding | Integrasi CMS)  
+    									WEB Hosting (Coding | Integrasi CMS)
     									<div class="grey-clr">Mobile Optimized, CMS, News Portal</div>
     								</div>
     							</div>-->
@@ -730,14 +730,14 @@
 									Web Re-Design (Design | CMS | Coding)
 									<div class="grey-clr">WordPress, Mobile Optimized, Member Management System, Booking System </div>
 								  </div>
-								</div>	
+								</div>
 								<div class="col-sm-4">
 									<a href="https://www.jba.co.id/id/poin-rewards" target="_blank" rel="noreferrer">
 										<img src="/img/portfolio/jba-lp.png" alt="JBA LP" class="img-responsive center-block">
 										JBA LP
 									</a>
 								  <div class="addition-desc text-left">
-									Web Page Creation (Design | Coding | CMS Integration) 
+									Web Page Creation (Design | Coding | CMS Integration)
 									<div class="grey-clr"> Mobile Optimized, CMS, Campaign page </div>
 								  </div>
 								</div>
@@ -752,6 +752,22 @@
 										<div class="grey-clr">CMS, Mobile, OJK, Finance</div>
 									</div>
 								</div>
+                <div class="col-sm-4">
+  								<a href="https://aiaberbagi.com" target="_blank" rel="noreferrer">
+  									<img src="/img/portfolio/aia.png" alt="AIA" class="img-responsive center-block">
+  									AIA
+  								</a>
+  								<div class="addition-desc text-left">
+  									Campaign Page Creation (Coding | Hosting)
+  									<div class="grey-clr">Mobile Optimized, Campaign page, Insurance</div>
+  								</div>
+  							</div>
+                <div class="col-sm-4">
+                  <a href="https://www.kbrprime.id/" target="_blank" rel="noreferrer">
+                    <img src="/img/portfolio/KBR_ID.png" alt="KBR_ID" class="img-responsive center-block">
+                    KBR
+                  </a>
+                </div>
                 </div>
               </div>
               <center>
@@ -1086,7 +1102,7 @@
             </div>
 
 						<div class="mobileapp-client-container  page-part-container">
-              <span class="characteristic-title">Mobile App Development</span>
+              <span class="characteristic-title">Mobile App / PWA</span>
               <div class="row text-center">
                 <div class="col-sm-4">
                   <div class="mobile-app-container">
@@ -1137,15 +1153,24 @@
 									</div>
                   VIP Plaza PWA
                 </div>
-				<div class="clearfix"></div>
-				<div class="col-sm-4">
+				        <div class="clearfix"></div>
+				        <div class="col-sm-4">
                   <div class="mobile-app-container">
-					<div class="m-app-item"><img src="/img/portfolio/investindo-1.png" alt="investindo" class="img-responsive center-block"></div>
-					<div class="m-app-item"><img src="/img/portfolio/investindo-2.png" alt="investindo" class="img-responsive center-block"></div>
-					<div class="m-app-item"><img src="/img/portfolio/investindo-3.png" alt="investindo" class="img-responsive center-block"></div>
-			      </div>
+          					<div class="m-app-item"><img src="/img/portfolio/investindo-1.png" alt="investindo" class="img-responsive center-block"></div>
+          					<div class="m-app-item"><img src="/img/portfolio/investindo-2.png" alt="investindo" class="img-responsive center-block"></div>
+          					<div class="m-app-item"><img src="/img/portfolio/investindo-3.png" alt="investindo" class="img-responsive center-block"></div>
+  			          </div>
                   Investindo
                 </div>
+                <div class="col-sm-4">
+								  <div class="mobile-app-container">
+									<div class="m-app-item"><img src="/img/portfolio/wantjp1.png" alt="want.jp" class="img-responsive center-block"></div>
+									<div class="m-app-item"><img src="/img/portfolio/wantjp2.png" alt="want.jp" class="img-responsive center-block"></div>
+									<div class="m-app-item"><img src="/img/portfolio/wantjp3.png" alt="want.jp" class="img-responsive center-block"></div>
+									<div class="m-app-item"><img src="/img/portfolio/wantjp4.png" alt="want.jp" class="img-responsive center-block"></div>
+								  </div>
+								  Want.jp
+								</div>
               </div>
             </div>
 
