@@ -143,7 +143,7 @@
                 <div class="col-sm-4">
                   <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
                     <img src="/img/portfolio/aiapremieracademy.png" alt="AIA Premier Academy" class="img-responsive center-block">
-                    AIA 2nd Project
+                    AIA Premier Academy
                   </a>
                   <div class="addition-desc text-left">
                     Campaign Page Creation (Design | Coding | Hosting)
