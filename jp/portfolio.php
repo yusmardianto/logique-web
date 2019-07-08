@@ -669,6 +669,13 @@
                       KBR
                     </a>
                   </div>
+                  <div class="clearfix"></div>
+                  <div class="col-sm-4">
+                    <a href="https://unitedconcepts.com/" target="_blank" rel="noreferrer">
+                      <img src="/img/portfolio/royal-amanda.png" alt="Royal Amanda" class="img-responsive center-block">
+                      Royal Amanda
+                    </a>
+                  </div>
 								</div>
 
 						 </div>
