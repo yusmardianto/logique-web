@@ -523,7 +523,7 @@
 						<div class="container">
 							<div class="row" id="getjob">
 							<!-- Vacancies -->
-								<div class="col-md-3" data-name="1">
+								<div class="col-md-3" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -532,14 +532,14 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/technical-consultant.php">Detail</a>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3" data-name="3">
+								<div class="col-md-3" data-name="1">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -547,7 +547,7 @@
 											<h3 style="font-size:20px;">Senior Project Manager</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
-										<div class="panel-footer" data-name="2">
+										<div class="panel-footer">
 											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/senior-project-manager.php">Detail</a>
@@ -555,23 +555,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3" data-name="5">
-									<div class="panel panel-default">
-										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/accounting.png" />
-											<h3>IT Account Executive</h3>
-											<div class="boxfull">Fulltime</div>
-										</div>
-										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
-											<div class="text-center">
-												<a class="btn btn-detail" href="detail/it-account-executive.php">Detail</a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-3" data-name="6">
+								<div class="col-md-3" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -580,14 +564,14 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/presales.php">Detail</a>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3" data-name="4">
+								<div class="col-md-3" data-name="2">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -603,7 +587,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3" data-name="9">
+								<div class="col-md-3" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -619,7 +603,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3" data-name="2">
+								<div class="col-md-3" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -628,14 +612,14 @@
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/reactjs.php">Detail</a>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3" data-name="5">
+								<div class="col-md-3" data-name="3">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -651,7 +635,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3" data-name="11">
+								<div class="col-md-3" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -667,7 +651,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3" data-name="7">
+								<div class="col-md-3" data-name="4">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -683,7 +667,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3" data-name="8">
+								<div class="col-md-3" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -707,7 +691,7 @@
 											<h3 style="font-size:20px;">Project Manager</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
-										<div class="panel-footer" data-name="2">
+										<div class="panel-footer">
 											<p></p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/project-manager.php">Detail</a>
@@ -717,7 +701,23 @@
 								</div>
 
 								<!-- On Hold -->
-								<div class="col-md-3 hidden" data-name="3">
+								<div class="col-md-3 hidden" data-name="">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+											<img src="/img/career/accounting.png" />
+											<h3>IT Account Executive</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/it-account-executive.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3 hidden" data-name="">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -733,7 +733,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3 hidden" data-name="3">
+								<div class="col-md-3 hidden" data-name="">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -749,7 +749,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3 hidden" data-name="3">
+								<div class="col-md-3 hidden" data-name="">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -765,7 +765,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3 hidden" data-name="3">
+								<div class="col-md-3 hidden" data-name="">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -781,7 +781,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3 hidden" data-name="3">
+								<div class="col-md-3 hidden" data-name="">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -797,7 +797,6 @@
 										</div>
 									</div>
 								</div>
-								<div class="clearfix"></div>
 							</div>
 							<!-- End Vacancies -->
 							<div class="bg-lowongan">
