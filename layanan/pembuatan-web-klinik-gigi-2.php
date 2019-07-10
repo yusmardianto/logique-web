@@ -1,17 +1,17 @@
 <?php
-// require_once("assets/form/fgcontact_dentist.php");
+require_once("assets/form/fgcontact_dentist.php");
 
-// $formproc = new FGContactForm();
+$formproc = new FGContactForm();
 
-// //1. Add your email address here.
-// //You can add more than one receipients.
-// $formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
+//1. Add your email address here.
+//You can add more than one receipients.
+$formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
 
-// //2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
-// // and put it here
-// $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
+//2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
+// and put it here
+$formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
 
-// //$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
+//$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
 
 if (isset($_POST['submitted'])) {
     if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
@@ -56,7 +56,8 @@ if (isset($_POST['submitted'])) {
     <title>Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/style-new-dentist.css" rel="stylesheet">
-    <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/npm/slick-carousel@1.6.0/slick/slick.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/npm/slick-carousel@1.6.0/slick/slick-theme.css" rel="stylesheet" type="text/css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
     <script>
@@ -170,7 +171,7 @@ if (isset($_POST['submitted'])) {
             <div class="logo-top">
                 <div class="row">
                     <div class="col-md-8 col-sm-offset-1">
-                        <img src="assets/img/img-new-dentist/logo_logique.png">
+                        <img src="assets/img/img-new-dentist/logo_logique.png" alt="logo">
                     </div>
                 </div>
             </div>
@@ -190,7 +191,7 @@ if (isset($_POST['submitted'])) {
                             </div>
                             <a href="#" class="contact-us-btn">CONTACT US</a>
                         </div>
-                        <img src="assets/img/img-new-dentist/drg.png" class="img-doc img-responsive" />
+                        <img src="assets/img/img-new-dentist/drg.png" class="img-doc img-responsive" alt="img-banner" />
                     </div>
                 </div>
             </div>
@@ -201,9 +202,9 @@ if (isset($_POST['submitted'])) {
             <div class="ready-to-use">
                 <div class="container">
                     <h3 class="text-center">Ready-to-use dental website with templates of your choice!</h3>
-                    <img src="assets/img/img-new-dentist/3_people.png" class="img-center img-responsive" />
+                    <img src="assets/img/img-new-dentist/3_people.png" class="img-center img-responsive" alt="3-people" />
                     <div class="can-help">
-                        <img src="assets/img/img-new-dentist/logo_logique.png">
+                        <img src="assets/img/img-new-dentist/logo_logique.png" alt="logo">
                         <span>CAN HELP YOU</span>
                     </div>
                 </div>
@@ -218,6 +219,23 @@ if (isset($_POST['submitted'])) {
                         <h5>TEMPLATE</h5>
                         <p>Choose the best template for your dental clinic, with guaranteed delivery within 5-7 working days.</p>
                         <small>Website Optimization in Mobile and SEO included. Photo / Video Retrieval, Professional Content Making are optional.</small>
+                    </div>
+                    <div class="template-slide">
+                        <div><img onclick="openModalTemplate(this)" alt="template" src="assets/img/img-new-dentist/4-premium-sample.jpg" /></div>
+                        <div><img onclick="openModalTemplate(this)" alt="template" src="assets/img/img-new-dentist/dental-for-teenager-sample.jpg" /></div>
+                        <div><img onclick="openModalTemplate(this)" alt="template" src="assets/img/img-new-dentist/5-kids-sample.jpg" /></div>
+                        <div><img onclick="openModalTemplate(this)" alt="template" src="assets/img/img-new-dentist/2-GeneralDentalClinic-sample.jpg" /></div>
+                        <div><img onclick="openModalTemplate(this)" alt="template" src="assets/img/img-new-dentist/4-Beauty_Dental_-sample.jpg" /></div>
+                    </div>
+                    <small>*Click template for full page review</small>
+                    <a href="#" class="more-template-btn">MORE TEMPLATE</a>
+                </div>
+                <div class="modal" id="modal">
+                    <span class="close-btn" onclick="closeModalTemplate()">×</span>
+                    <div class="modal-content">
+                        <div id="slides">
+                            
+                        </div>
                     </div>
                 </div>
                 <div class="step-two">
@@ -345,8 +363,8 @@ if (isset($_POST['submitted'])) {
                                 </div>
                             </div>
                             <div class="marketing-fee col-xs-10 col-xs-offset-1">
-                                    Marketing Fee (Optional) : Rp. 1.000.000 - Rp. 3.000.000
-                            </div> 
+                                Marketing Fee (Optional) : Rp. 1.000.000 - Rp. 3.000.000
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -367,14 +385,47 @@ if (isset($_POST['submitted'])) {
                 </div>
             </div>
 
+
             <div class="message-form">
                 <h5>Leave us a message or a question if you have any</h5>
                 <div class="row">
-                    <div class="col-md-3">
-                        <img src="assets/img/img-new-dentist/group_50.png"/>
+                    <img src="assets/img/img-new-dentist/group_50.png" class="img-responsive img-form-left hide-mobile" alt="img-form" />
+                    <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
+
+                        <form id="form-message" class="form-horizontal">
+                            <div class="form-group">
+                                <label for="name" class="col-sm-2 label-item">Name</label>
+                                <div class="col-sm-10">
+                                    <input type="text" class="form-item" id="name" placeholder="Your Name" required>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="email" class="col-sm-2 label-item">Email</label>
+                                <div class="col-sm-10">
+                                    <input type="email" class="form-item" id="email" placeholder="Your Email" required>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="message" class="col-sm-2 label-item">Message</label>
+                                <div class="col-sm-10">
+                                    <textarea class="form-item" id="message" name="message" placeholder="Your Message" rows="3" required></textarea>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-sm-offset-2 col-sm-10">
+                                    <div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp" data-callback="enableSubmitMsg"></div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-sm-offset-2 col-sm-10">
+                                    <button type="submit" id="submit-msg" class="submit-btn disabled" disabled>SEND MESSAGE</button>
+                                </div>
+                            </div>
+                        </form>
+
                     </div>
-                    <div class="col-md-6"></div>
-                    <div class="col-md-3"></div>
+                    <img src="assets/img/img-new-dentist/group_69.png" class="img-responsive img-form-right hide-mobile" class="img-form" />
                 </div>
             </div>
         </div>
