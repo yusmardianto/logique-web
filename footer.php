@@ -170,54 +170,7 @@
 			$(this).find('iframe').removeClass('clicked')
 		});
 
-	function enableSubmitMsg() {
-		$('#submit-msg').prop("disabled", false);
-		$('#submit-msg').removeClass("disabled");
-	}
-
-	function openModalTemplate(event){
-		var imgUrl = $(event).attr("src").replace("-sample","");
-		$("#slides").append('<img alt="template" src="'+imgUrl+'" />');
-		$(".modal").css('display','block');
-	}
-
-	function closeModalTemplate(){
-		$(".modal").css('display','none');
-		$("#slides").empty();
-	}
-
-	window.onclick = function(event){
-		if (event.target === document.getElementById('modal')){
-			closeModalTemplate();
-		}
-	}
-
-	$(document).ready(function() {
-		$(".template-slide").slick({
-			centerMode: true,
-			centerPadding: '0px',
-			slidesToShow: 3, 	
-			responsive: [{
-					breakpoint: 768,
-					settings: {
-						arrows: true,
-						centerMode: true,
-						centerPadding: '0px',
-						slidesToShow: 3
-					}
-				},
-				{
-					breakpoint: 480,
-					settings: {
-						arrows: false,
-						centerMode: true,
-						centerPadding: '0px',
-						slidesToShow: 1
-					}
-				}
-			]
-		});
-	});
+	
 </script>
 <script type="application/ld+json">
 	{

@@ -11,7 +11,7 @@ $formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address h
 // and put it here
 $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
 
-//$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
+// $formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
 
 if (isset($_POST['submitted'])) {
     if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
@@ -228,7 +228,7 @@ if (isset($_POST['submitted'])) {
                         <div><img onclick="openModalTemplate(this)" alt="template" src="assets/img/img-new-dentist/4-Beauty_Dental_-sample.jpg" /></div>
                     </div>
                     <small>*Click template for full page review</small>
-                    <a href="#" class="more-template-btn">MORE TEMPLATE</a>
+                    <!-- <a href="#" class="more-template-btn">MORE TEMPLATE</a> -->
                 </div>
                 <div class="modal" id="modal">
                     <span class="close-btn" onclick="closeModalTemplate()">×</span>
@@ -388,27 +388,34 @@ if (isset($_POST['submitted'])) {
 
             <div class="message-form">
                 <h5>Leave us a message or a question if you have any</h5>
+                <?php if(isset($msg))
+                {
+                echo $msg;
+                } 
+                ?>
                 <div class="row">
                     <img src="assets/img/img-new-dentist/group_50.png" class="img-responsive img-form-left hide-mobile" alt="img-form" />
                     <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
-
-                        <form id="form-message" class="form-horizontal">
+                        <form id="form-message" class="form-horizontal" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
+                            <input type='hidden' name='submitted' id='submitted' value='1'/>
+                            <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
+                            <fieldset><div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div></fieldset>
                             <div class="form-group">
                                 <label for="name" class="col-sm-2 label-item">Name</label>
                                 <div class="col-sm-10">
-                                    <input type="text" class="form-item" id="name" placeholder="Your Name" required>
+                                    <input type="text" class="form-item" id="name" aria-label="Name"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Your Name" required>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label for="email" class="col-sm-2 label-item">Email</label>
                                 <div class="col-sm-10">
-                                    <input type="email" class="form-item" id="email" placeholder="Your Email" required>
+                                    <input type="email" class="form-item" id="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Your Email" required>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label for="message" class="col-sm-2 label-item">Message</label>
                                 <div class="col-sm-10">
-                                    <textarea class="form-item" id="message" name="message" placeholder="Your Message" rows="3" required></textarea>
+                                    <textarea class="form-item" id="message" name="message" placeholder="Your Message" rows="3" aria-label="Message" required><?php echo $formproc->SafeDisplay('message') ?></textarea>
                                 </div>
                             </div>
                             <div class="form-group">
@@ -433,7 +440,57 @@ if (isset($_POST['submitted'])) {
 
         <?php include '../footer.php'; ?>
     </div>
+    <script>
+    function enableSubmitMsg() {
+		$('#submit-msg').prop("disabled", false);
+		$('#submit-msg').removeClass("disabled");
+	}
 
+	function openModalTemplate(event){
+		var imgUrl = $(event).attr("src").replace("-sample","");
+		$("#slides").append('<img alt="template" src="'+imgUrl+'" />');
+		$(".modal").css('display','block');
+		$(".modal-content").show().scrollTop(0);
+	}
+
+	function closeModalTemplate(){
+		$(".modal").css('display','none');
+		$("#slides").empty();
+	}
+
+	window.onclick = function(event){
+		if (event.target === document.getElementById('modal')){
+			closeModalTemplate();
+		}
+	}
+
+	$(document).ready(function() {
+		$(".template-slide").slick({
+			centerMode: true,
+			centerPadding: '0px',
+			slidesToShow: 3, 	
+			responsive: [{
+					breakpoint: 768,
+					settings: {
+						arrows: true,
+						centerMode: true,
+						centerPadding: '0px',
+						slidesToShow: 3
+					}
+				},
+				{
+					breakpoint: 480,
+					settings: {
+						arrows: false,
+						centerMode: true,
+						centerPadding: '0px',
+						slidesToShow: 1
+					}
+				}
+			]
+		});
+	});
+    </script>
 </body>
 
 </html>

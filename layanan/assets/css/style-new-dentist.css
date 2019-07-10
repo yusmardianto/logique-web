@@ -960,6 +960,7 @@ header {
 .slick-slide {
   position: relative;
   transition: transform 150ms;
+  height: auto !important;
 }
 
 .step-description {
