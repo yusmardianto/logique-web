@@ -83,6 +83,8 @@ CSS Reset
 
 * {
   font-family: "Raleway", "sans-serif";
+  margin: 0;
+  padding: 0;
 }
 
 html,
@@ -242,10 +244,12 @@ img.pright {
   margin: 0 0 30px 30px;
 }
 
+header{
+  
+}
+
 header.head-banner {
-  background: url(../img/img-new-dentist/bg-top.png) no-repeat;
-  background-size: cover;
-  height: 485px;
+
   width: 100%;
   display: block;
   position: relative;
@@ -428,6 +432,7 @@ header.head-banner .drg {
   position: relative;
   max-width: 1600px;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 .wrapper .navbar-collapse {
@@ -696,11 +701,6 @@ ul.medsos-new li a {
   font-size: 12px;
 }
 /*End Footer*/
-
-header {
-  height: 400px;
-}
-
 .logo-top {
   background: black;
   display: block;
@@ -711,6 +711,10 @@ header {
 
 .banner-content {
   padding-top: 4em;
+  background: url(../img/img-new-dentist/bg-top.png) no-repeat;
+  background-size: cover;
+  height: 400px;
+  position: relative;
 }
 
 .text-box {
@@ -829,6 +833,7 @@ header {
   color: white;
   font-size: 2em;
   background: #00a9f9;
+  line-height: 1px;
 }
 
 .sticky-whatsapp {

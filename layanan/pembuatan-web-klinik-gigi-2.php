@@ -101,13 +101,6 @@ if (isset($_POST['submitted'])) {
     <?php include '../google/tag-body.php' ?>
     <div class="wrapper">
         <header class="head-banner">
-
-            <!-- <div class="row">
-                    <div class="col-md-8 col-xs-8 col-xs-offset-1">
-                        
-                    </div>
-                </div> -->
-            <!--  -->
             <button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
                 <span class="icon-bar first"></span>
                 <span class="icon-bar second"></span>
@@ -168,14 +161,8 @@ if (isset($_POST['submitted'])) {
                     </div>
                 </div>
             </div>
-            <div class="logo-top">
-                <div class="row">
-                    <div class="col-md-8 col-sm-offset-1">
-                        <img src="assets/img/img-new-dentist/logo_logique.png" alt="logo">
-                    </div>
-                </div>
-            </div>
-            <div class="sticky-menu">
+        </header>
+        <div class="sticky-menu">
                 <a href="tel:+6222708935">
                     <div class="sticky-phone">
                         <i class="fa fa-phone"></i>
@@ -192,6 +179,15 @@ if (isset($_POST['submitted'])) {
                     </div>
                 </a>
             </div>
+        <div class="content-area">
+            <div class="logo-top">
+                <div class="row">
+                    <div class="col-md-8 col-sm-offset-1">
+                        <img src="assets/img/img-new-dentist/logo_logique.png" alt="logo">
+                    </div>
+                </div>
+            </div>
+            
             <div class="banner-content">
                 <div class="container">
                     <div class="row">
@@ -212,10 +208,6 @@ if (isset($_POST['submitted'])) {
                     </div>
                 </div>
             </div>
-
-
-        </header>
-        <div class="content-area">
             <div class="ready-to-use">
                 <div class="container">
                     <h3 class="text-center">Ready-to-use dental website with templates of your choice!</h3>
