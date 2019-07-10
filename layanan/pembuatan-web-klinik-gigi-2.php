@@ -403,13 +403,13 @@ if (isset($_POST['submitted'])) {
                             <div class="form-group">
                                 <label for="name" class="col-sm-2 label-item">Name</label>
                                 <div class="col-sm-10">
-                                    <input type="text" class="form-item" id="name" aria-label="Name"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Your Name" required>
+                                    <input type="text" name="name" class="form-item" id="name" aria-label="Name"  value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Your Name" required>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label for="email" class="col-sm-2 label-item">Email</label>
                                 <div class="col-sm-10">
-                                    <input type="email" class="form-item" id="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Your Email" required>
+                                    <input type="email" name="email" class="form-item" id="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Your Email" required>
                                 </div>
                             </div>
                             <div class="form-group">
