@@ -175,6 +175,23 @@ if (isset($_POST['submitted'])) {
                     </div>
                 </div>
             </div>
+            <div class="sticky-menu">
+                <a href="tel:+6222708935">
+                    <div class="sticky-phone">
+                        <i class="fa fa-phone"></i>
+                    </div>
+                </a>
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=62811870321&text=Halo%2C%20saya%20ingin%20bertanya%20tentang%20layanan%20website%20dental%20Logique">
+                    <div class="sticky-whatsapp">
+                        <i class="fa fa-whatsapp"></i>
+                    </div>
+                </a>
+                <a href="mailto:info@logique.co.id">
+                    <div class="sticky-mail">
+                        <i class="fa fa-envelope"></i>
+                    </div>
+                </a>
+            </div>
             <div class="banner-content">
                 <div class="container">
                     <div class="row">
@@ -189,7 +206,7 @@ if (isset($_POST['submitted'])) {
                                     <span><strong>Rp 500.000</strong> / month </span>
                                 </div>
                             </div>
-                            <a href="#" class="contact-us-btn">CONTACT US</a>
+                            <a href="#message-form" class="contact-us-btn">CONTACT US</a>
                         </div>
                         <img src="assets/img/img-new-dentist/drg.png" class="img-doc img-responsive" alt="img-banner" />
                     </div>
@@ -211,8 +228,10 @@ if (isset($_POST['submitted'])) {
 
             </div>
             <div class="three-steps-away">
-                <h4>You are 3 steps away from your website!</h4>
-                <div class="steps">Choose Template - Choose Plan - Consult</div>
+                <div class="section-header">
+                    <h4>You are 3 steps away from your website!</h4>
+                    <div class="steps">Choose Template - Choose Plan - Consult</div>
+                </div>
                 <div class="step-one">
                     <div class="step-description">
                         <span class="step-number">01</span>
@@ -221,13 +240,23 @@ if (isset($_POST['submitted'])) {
                         <small>Website Optimization in Mobile and SEO included. Photo / Video Retrieval, Professional Content Making are optional.</small>
                     </div>
                     <div class="template-slide">
-                        <div><img onclick="openModalTemplate(this)" alt="template" src="assets/img/img-new-dentist/4-premium-sample.jpg" /></div>
-                        <div><img onclick="openModalTemplate(this)" alt="template" src="assets/img/img-new-dentist/dental-for-teenager-sample.jpg" /></div>
-                        <div><img onclick="openModalTemplate(this)" alt="template" src="assets/img/img-new-dentist/5-kids-sample.jpg" /></div>
-                        <div><img onclick="openModalTemplate(this)" alt="template" src="assets/img/img-new-dentist/2-GeneralDentalClinic-sample.jpg" /></div>
-                        <div><img onclick="openModalTemplate(this)" alt="template" src="assets/img/img-new-dentist/4-Beauty_Dental_-sample.jpg" /></div>
+                        <div>
+                            <img onclick="openModalTemplate(this)" alt="template-premium" src="assets/img/img-new-dentist/4-premium-sample.jpg" />
+                        </div>
+                        <div>
+                            <img onclick="openModalTemplate(this)" alt="template-teenager" src="assets/img/img-new-dentist/dental-for-teenager-sample.jpg" />
+                        </div>
+                        <div>
+                            <img onclick="openModalTemplate(this)" alt="template-kids" src="assets/img/img-new-dentist/5-kids-sample.jpg" />
+                        </div>
+                        <div>
+                            <img onclick="openModalTemplate(this)" alt="template-general" src="assets/img/img-new-dentist/2-GeneralDentalClinic-sample.jpg" />
+                        </div>
+                        <div>
+                            <img onclick="openModalTemplate(this)" alt="template-beauty" src="assets/img/img-new-dentist/4-Beauty_Dental_-sample.jpg" />
+                        </div>
                     </div>
-                    <small>*Click template for full page review</small>
+                    <small>*Click to view template in full screen</small>
                     <!-- <a href="#" class="more-template-btn">MORE TEMPLATE</a> -->
                 </div>
                 <div class="modal" id="modal">
@@ -298,7 +327,11 @@ if (isset($_POST['submitted'])) {
                                             </tr>
                                             <tr>
                                                 <td></td>
-                                                <td colspan="2">Rp. 8.500.000</td>
+                                                <td colspan="2"><s>Rp. 9.000.000</s></td>
+                                            </tr>
+                                            <tr>
+                                                <td></td>
+                                                <td colspan="2"><strong>Rp. 8.500.000</strong></td>
                                             </tr>
                                             <tr>
                                                 <td colspan="3" align="center">save (500k)</td>
@@ -353,7 +386,11 @@ if (isset($_POST['submitted'])) {
                                             </tr>
                                             <tr>
                                                 <td></td>
-                                                <td colspan="2">Rp. 15.000.000</td>
+                                                <td colspan="2"><s>Rp. 15.800.000</s></td>
+                                            </tr>
+                                            <tr>
+                                                <td></td>
+                                                <td colspan="2"><strong>Rp. 15.000.000</strong></td>
                                             </tr>
                                             <tr>
                                                 <td colspan="3" align="center">save (800k)</td>
@@ -386,17 +423,28 @@ if (isset($_POST['submitted'])) {
             </div>
 
 
-            <div class="message-form">
+            <div class="message-form" id="message-form">
                 <h5>Leave us a message or a question if you have any</h5>
                 <?php if(isset($msg))
                 {
                 echo $msg;
                 } 
                 ?>
+                <div class="contact-info-mobile">
+                    <a href="tel:+6222708935">
+                        <span><i class="fa fa-phone"></i></span>
+                    </a>
+                    <a target="_blank" href="https://api.whatsapp.com/send?phone=62811870321&text=Halo%2C%20saya%20ingin%20bertanya%20tentang%20layanan%20website%20dental%20Logique">
+                        <span><i class="fa fa-whatsapp"></i></span>
+                    </a>
+                    <a href="mailto:info@logique.co.id">
+                        <span><i class="fa fa-envelope"></i></span>
+                    </a>
+                </div>
                 <div class="row">
                     <img src="assets/img/img-new-dentist/group_50.png" class="img-responsive img-form-left hide-mobile" alt="img-form" />
                     <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
-                        <form id="form-message" class="form-horizontal" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
+                        <form class="form-horizontal" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
                             <input type='hidden' name='submitted' id='submitted' value='1'/>
                             <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
                             <fieldset><div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div></fieldset>
@@ -419,12 +467,14 @@ if (isset($_POST['submitted'])) {
                                 </div>
                             </div>
                             <div class="form-group">
-                                <div class="col-sm-offset-2 col-sm-10">
-                                    <div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp" data-callback="enableSubmitMsg"></div>
+                                <div class="row">
+                                    <div class="col-sm-offset-2 col-sm-10">
+                                        <div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp" data-callback="enableSubmitMsg"></div>
+                                    </div>
+                                    <div class="clearfix"></div>
                                 </div>
-                                <div class="clearfix"></div>
                             </div>
-                            <div class="form-group">
+                            <div class="form-group mb-3">
                                 <div class="col-sm-offset-2 col-sm-10">
                                     <button type="submit" id="submit-msg" class="submit-btn disabled" disabled>SEND MESSAGE</button>
                                 </div>
@@ -468,7 +518,8 @@ if (isset($_POST['submitted'])) {
 		$(".template-slide").slick({
 			centerMode: true,
 			centerPadding: '0px',
-			slidesToShow: 3, 	
+            slidesToShow: 3, 
+            dots: true,	
 			responsive: [{
 					breakpoint: 768,
 					settings: {
@@ -481,7 +532,7 @@ if (isset($_POST['submitted'])) {
 				{
 					breakpoint: 480,
 					settings: {
-						arrows: false,
+						arrows: true,
 						centerMode: true,
 						centerPadding: '0px',
 						slidesToShow: 1
