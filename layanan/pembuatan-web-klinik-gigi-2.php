@@ -417,11 +417,14 @@ if (isset($_POST['submitted'])) {
 
             <div class="message-form" id="message-form">
                 <h5>Leave us a message or a question if you have any</h5>
-                <?php if(isset($msg))
-                {
-                echo $msg;
-                } 
-                ?>
+                <div class="message-alert">
+                    <?php if(isset($msg))
+                    {
+                    echo $msg;
+                    } 
+                    ?>
+                </div>
+                
                 <div class="contact-info-mobile">
                     <a href="tel:+6222708935">
                         <span><i class="fa fa-phone"></i></span>

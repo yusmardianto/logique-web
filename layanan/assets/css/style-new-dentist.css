@@ -809,7 +809,7 @@ ul.medsos-new li a {
 .img-doc {
   position: absolute;
   right: 0px;
-  width: 500px;
+  width: 400px;
   height: auto;
   bottom: 0;
 }
@@ -838,6 +838,16 @@ ul.medsos-new li a {
 
 .sticky-whatsapp {
   background: #25d366;
+}
+
+.sticky-phone:hover,
+.sticky-mail:hover{
+  background: #019ce4;
+  
+}
+
+.sticky-whatsapp:hover{
+  background: #23bb5b;
 }
 
 .content-area {
@@ -1032,6 +1042,7 @@ div.slick-list.draggable{
   background: black;
 }
 
+
 .step-description {
   position: relative;
   width: 45%;
@@ -1083,6 +1094,7 @@ div.slick-list.draggable{
 }
 
 .modal-content {
+  background: none !important;
   position: relative;
   margin: auto;
   padding: 0;
@@ -1211,6 +1223,12 @@ div.slick-list.draggable{
   padding: 2em 0 1em;
   width: 40%;
   margin: 2em auto 0;
+}
+
+.message-alert{
+  width: 60%;
+  margin: 1em auto 3em;
+  
 }
 
 .message-form .row {
@@ -1381,8 +1399,8 @@ textarea.form-item {
 
 /* Extra Small Devices, Phones */
 @media (max-width: 480px) {
-  header.head-banner {
-    height: 350px;
+  .banner-content{
+    height: 300px;
   }
 
   .text-box .large-text {
