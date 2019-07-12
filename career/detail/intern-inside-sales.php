@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Dicari developer React JS yang berpengalaman menggunakan workflow seperti Redux/Flux, development tool seperti Babel, Webpack, NPM/Yarn, GIT, EcmaScript, dan integrasi RESTful API.  Berpengalaman isomorphic react, HTML, CSS, ExpressJS, mongoDB lebih disukai. Salary negotiable.">
-	<meta name="keywords" content="lowongan, kerja, jakarta, yogyakarta, remote job jakarta, kerja remote jakarta, software developer, software development, IT, information technology, ilmu teknologi, react.js, reactjs, redux, flux, restful api, restfulapi, debugger, debugging, front end developer, front end development, front end dev,babel, webpack, npm, yarn, git, pwa, isomorphic React, html css, foundation framework, expressJS, mongoDB, any location, salary, negotiable, code optimization">
+    <meta name="description" itemprop="description" content="Multinasional Digital Agency membuka lowongan Inside Sales yang handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital. Berpengalaman minimal 2 tahun, mampu bekerja sesuai target dan customer oriented. Salary negotiable">
+	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta,  networking, marketing, quality assurance, ui, ux, ui/ux, ab testing, a/b testing, pengujian produk, Git, JIRA, Mantis, TestRail, API test, mysql, postgres, linux, windows, software design, Engineering Computer Science, siklus QA, metodologi QA, documentation, problem solving, product execution, analysis, end user script, pengujian skenario, app performance testing">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Lowongan - React JS Developer">
+    <meta property="og:title" content="Lowongan - Intern Inside Sales">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Dicari developer React JS yang berpengalaman menggunakan workflow seperti Redux/Flux, development tool seperti Babel, Webpack, NPM/Yarn, EcmaScript, dan integrasi RESTful API. Diharapkan dapat menganalisa, memperbaiki performance, dan kolaborasi tim. Berpengalaman ExpressJS, mongoDB lebih disukai">
+	<meta property="og:description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Inside Sales">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Lowongan - React JS Developer</title>
+    <title>Lowongan - Intern Inside Sales</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -120,7 +120,7 @@
 									<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/career"><span itemprop="name">Karir</span></a><meta itemprop="position" content="1" /></li>
-										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >React JS Developer<meta itemprop="position" content="2" /></li>
+										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Intern Inside Sales<meta itemprop="position" content="2" /></li>
 									</ol>
 								</div>
 							</div>
@@ -131,11 +131,11 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-6 text-center">
-									<h1><img src="/img/career/fe.png" style="filter: contrast(0%) brightness(150%);"> React JS Developer</h1>
+									<h1><img src="/img/career/accounting.png" style="filter: contrast(0%) brightness(150%);"> Intern Inside Sales</h1>
 								</div>
-								<!-- <div class="col-md-6 text-center">
-									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
-								</div> -->
+								<div class="col-md-6 text-center">
+									<!-- <a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a> -->
+								</div>
 							</div>
 						</div>
 					</div>
@@ -148,59 +148,56 @@
 										<div class="div-job desc-job">
 										<b class="getN">Job Description:</b><br>
 										<ul class="joinus-ul">
-										<li>Mengembangkan dan mengkonversi kode HTML ke React.js.</li>
-										<li>Mengintegrasikan React.js dengan API.</li>
-										<li>Sewaktu-waktu dapat melakukan coding HTML-CSS (responsive design and cross browser).</li>
-										<li>Bekerja sama dan berkolaborasi dengan tim backend-developer dan designer dalam menghasilkan team-results yang optimal.</li>
-										<li>Melakukan perbaikan performance dengan optimasi code pada sisi aplikasi.</li>
-										<li>Melakukan analisa dan riset dalam menerapkan teknologi relevan yang update sesuai kebutuhan client/customer</li>
+										<li>Mengembangkan dan memperluas jaringan client/customer perusahaan melalui strategi networking dan marketing dengan berbagai instansi, grup, komunitas, dan perusahaan.</li>
+										<li>Menemukan dan membangun relasi yang baik dengan client/customer baru maupun yang sudah ada.</li>
+										<li>Melakukan telepon dengan calon client/customer, serta menindaklanjuti proposal dan penawaran kepada client/customer</li>
+										<li>Membuat laporan mingguan untuk mengetahui kemajuan target sales serta mendokumentasikan performa sales</li>
+										<li>Menjawab pertanyaan, menjelaskan manfaat, dan membahas pro dan kontra berbagai produk atau layanan perusahaan</li>
+										<li>Mampu bekerja sama dengan departemen lainnya</li>
+										<li>Mampu mencapai target sales secara individu</li>
 										</ul>
 										<br>
+
 										<b class="getN">Must Skill/Experience </b><br>
 										<ul class="joinus-ul">
-										<li>Pengalaman dalam bidang  software development minimal 2 tahun.</li>
-										<li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.</li>
-										<li>Berpengalaman menggunakan React.js setahun terakhir</li>
-										<li>Terbiasa menggunakan EcmaScript dengan versi terbaru</li>
-										<li>Terbiasa melakukan integrasi RESTful API</li>
-										<li>Berpengalaman menggunakan Front End Development Tools seperti Babel, Webpack, NPM / Yarn atau sejenisnya</li>
-										<li>Familiar dengan version control system (VCS) seperti Git</li>
+										<li>Memiliki gelar minimal D3/S1 di bidang Bisnis/Marketing/IT, atau lainnya yang relevan</li>
+										<li>Memiliki minimal 2 tahun pengalaman di bidang yang sejenis</li>
+										<li>Memahami proses dan dinamika dunia sales.</li>
+										<li>Mampu bekerja sesuai target.</li>
+										<li>Memiliki komitmen yang tinggi pada kualitas pelayanan untuk client/customer</li>
+										<li>Memiliki keahlian interpersonal yang luar biasa, termasuk ketangkasan dalam membangun hubungan baik dengan client/customer</li>
 										</ul>
 										<br>
+
 										<b class="getN">Required Skill</b><br>
 										<ul class="joinus-ul">
-										<li>Berpengalaman menggunakan React.js workflow seperti Redux / Flux</li>
-										<li>Memiliki kemampuan analisa dan debugging yang kuat dan teliti</li>
-										<li>HTML</li>
-										<li>CSS</li>
-										<li>JavaScript</li>
+										<li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik</li>
+										<li>Multitasking </li>
+										<li>Terbiasa menggunakan software komputer basic seperti Ms. Word, Excel, Power Point, dsb. untuk berbagai tugas</li>
 										</ul>
 										<br>
+
 										<b class="getN">Preferable </b><br>
 										<ul class="joinus-ul">
-										<li>Pengetahuan tentang PWA </li>
-										<li>Memiliki pengetahuan dalam isomorphic React </li>
-										<li>Pengalaman dalam coding PSD ke HTML-CSS </li>
-										<li>Pengalaman menggunakan CSS framework seperti bootstrap dan foundation </li>
-										<li>Pengalaman dengan ExpressJS, mongoDB </li>
+										<li>Bahasa Inggris</li>
 										</ul>
 										<br>
+
 										<b class="getN">Rewards and worthwhile</b><br>
 										<ul class="joinus-ul">
-										<li>Mengembangkan dan meningkatkan skill React JS </li>
-										<li>Dapat meningkatkan kemampuan untuk mobile app development</li>
+										<li>Prospek karier menarik</li>
+										<li>Meningkatkan kepercayaan diri dan kemampuan komunikasi</li>
+										<li>Terbiasa untuk menggunakan digital tools</li>
 										<li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya)</li>
 										</ul>
 										<br>
 										<b class="getN">Location</b><br>
 										<ul class="joinus-ul">
 										<li>Jakarta</li>
-										<li>Yogya</li>
-										<li>Remote Working</li>
 										</ul>
 										<br>
 											<div class="text-center">
-												<br>
+											<br>
 												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
