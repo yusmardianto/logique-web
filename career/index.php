@@ -699,9 +699,25 @@
 										</div>
 									</div>
 								</div>
+								<div class="col-md-3" data-name="10">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Yogya</div>
+											<img src="/img/career/pm.png" />
+											<h3 style="font-size:20px;">Intern HR</h3>
+											<div class="boxfull" style=" background: #e60000; ">Internship</div>
+										</div>
+										<div class="panel-footer">
+											<p></p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/intern-hr.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
 
 								<!-- On Hold -->
-								<div class="col-md-3 hidden" data-name="">
+								<div class="col-md-3 hidden" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -717,7 +733,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3 hidden" data-name="">
+								<div class="col-md-3 hidden" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -733,7 +749,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3 hidden" data-name="">
+								<div class="col-md-3 hidden" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -749,7 +765,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3 hidden" data-name="">
+								<div class="col-md-3 hidden" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -765,7 +781,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3 hidden" data-name="">
+								<div class="col-md-3 hidden" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -781,7 +797,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3 hidden" data-name="">
+								<div class="col-md-3 hidden" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -793,6 +809,25 @@
 											<p><img src="/img/career/pause.png" /> On Hold</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/accounting.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+
+							</div>
+							<div class="row">
+								<div class="col-md-3" data-name="10">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+											<img src="/img/career/consultant.png" />
+											<h3>Intern Inside Sales</h3>
+											<div class="boxfull" style="background: #e60000; ">Internship</div>
+										</div>
+										<div class="panel-footer">
+											<p></p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/intern-inside-sales.php">Detail</a>
 											</div>
 										</div>
 									</div>
