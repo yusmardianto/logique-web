@@ -521,24 +521,7 @@
 
 					<div class="csection7">
 						<div class="container">
-							<div class="row" id="getjob">
-							<!-- Vacancies -->
-								<div class="col-md-3" data-name="10">
-									<div class="panel panel-default">
-										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/tc.png" />
-											<h3>Technical Consultant</h3>
-											<div class="boxfull">Fulltime</div>
-										</div>
-										<div class="panel-footer">
-											<p></p>
-											<div class="text-center">
-												<a class="btn btn-detail" href="detail/technical-consultant.php">Detail</a>
-											</div>
-										</div>
-									</div>
-								</div>
+							<div class="row">
 								<div class="col-md-3" data-name="1">
 									<div class="panel panel-default">
 										<div class="panel-body">
@@ -551,22 +534,6 @@
 											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/senior-project-manager.php">Detail</a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-3" data-name="10">
-									<div class="panel panel-default">
-										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/sales.png" />
-											<h3>Pre Sales Consultant</h3>
-											<div class="boxfull">Fulltime</div>
-										</div>
-										<div class="panel-footer">
-											<p></p>
-											<div class="text-center">
-												<a class="btn btn-detail" href="detail/presales.php">Detail</a>
 											</div>
 										</div>
 									</div>
@@ -587,6 +554,88 @@
 										</div>
 									</div>
 								</div>
+								<div class="col-md-3" data-name="3">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+											<img src="/img/career/contentwriter.png" />
+											<h3>Web Developer</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/web-developer.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div><div class="col-md-3" data-name="4">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+											<img src="/img/career/consultant.png" />
+											<h3>Full Stack Developer</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/full-stack-developer.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-3" data-name="5">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+											<img src="/img/career/qa.png" />
+											<h3>Quality Assurance</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p></p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/quality-assurance.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3" data-name="10">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+											<img src="/img/career/tc.png" />
+											<h3>Technical Consultant</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p></p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/technical-consultant.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3" data-name="10">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+											<img src="/img/career/sales.png" />
+											<h3>Pre Sales Consultant</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p></p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/presales.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
 								<div class="col-md-3" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
@@ -603,6 +652,9 @@
 										</div>
 									</div>
 								</div>
+							</div>
+							
+							<div class="row">
 								<div class="col-md-3" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
@@ -619,22 +671,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3" data-name="3">
-									<div class="panel panel-default">
-										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
-											<img src="/img/career/contentwriter.png" />
-											<h3>Web Developer</h3>
-											<div class="boxfull">Fulltime</div>
-										</div>
-										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
-											<div class="text-center">
-												<a class="btn btn-detail" href="detail/web-developer.php">Detail</a>
-											</div>
-										</div>
-									</div>
-								</div>
+								
 								<div class="col-md-3" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
@@ -651,22 +688,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-3" data-name="4">
-									<div class="panel panel-default">
-										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
-											<img src="/img/career/qa.png" />
-											<h3>Quality Assurance</h3>
-											<div class="boxfull">Fulltime</div>
-										</div>
-										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
-											<div class="text-center">
-												<a class="btn btn-detail" href="detail/quality-assurance.php">Detail</a>
-											</div>
-										</div>
-									</div>
-								</div>
+								
 								<div class="col-md-3" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
@@ -699,6 +721,8 @@
 										</div>
 									</div>
 								</div>
+							</div>
+							<div class="row">
 								<div class="col-md-3" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
@@ -715,8 +739,26 @@
 										</div>
 									</div>
 								</div>
+								<div class="col-md-3" data-name="10">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+											<img src="/img/career/consultant.png" />
+											<h3>Intern Inside Sales</h3>
+											<div class="boxfull" style="background: #e60000; ">Internship</div>
+										</div>
+										<div class="panel-footer">
+											<p></p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/intern-inside-sales.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
 
-								<!-- On Hold -->
+							<!-- On Hold -->
+							<div class="row">
 								<div class="col-md-3 hidden" data-name="10">
 									<div class="panel panel-default">
 										<div class="panel-body">
@@ -813,26 +855,8 @@
 										</div>
 									</div>
 								</div>
+							</div>
 
-							</div>
-							<div class="row">
-								<div class="col-md-3" data-name="10">
-									<div class="panel panel-default">
-										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-											<img src="/img/career/consultant.png" />
-											<h3>Intern Inside Sales</h3>
-											<div class="boxfull" style="background: #e60000; ">Internship</div>
-										</div>
-										<div class="panel-footer">
-											<p></p>
-											<div class="text-center">
-												<a class="btn btn-detail" href="detail/intern-inside-sales.php">Detail</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
 							<!-- End Vacancies -->
 							<div class="bg-lowongan">
 								<div class="row">

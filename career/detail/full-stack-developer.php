@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Dicari Quality Assurance yang berpengalaman dengan berbagai jenis dan tingkat pengujian, terbiasa menggunakan Git, JIRA, Mantis,TestRail, mampu mengembangkan dan memelihara pengujian skenario dan end user script, serta memiliki pengetahuan yang dalam tentang metodologi / siklus QA">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta,  networking, marketing, quality assurance, indonesia, ui, ux, ui/ux, ab testing, a/b testing, pengujian fungsional, pengujian integrasi, pengujian regresi, pengujian mobile, pengujian data yang besar, pengujian lintas platform, pengujian komponen, pengujian keamanan, pengujian kinerja">
+    <meta name="description" itemprop="description" content="Dicari Full Stack Developer yang tersertifikasi sebagai CEH dan CSCU yang mampu mengevaluasi hasil VATest / Pentest, mengimplementasi dan merekomendasikan tindakan preventif. Diutamakan pemahaman kode etik hacking, thread modelling, commercial mapping, penetration testing web, app, dan network.">
+	<meta name="keywords" content="lowongan, kerja, jakarta, yogyakarta, remote job jakarta, kerja remote jakarta, indonesia, web security, specialist, certified ethical hacker, certified secure computer user, ec council, information security architecture, penetration testing, thread modelling tool, commercial mapping, open source modelling tool, penetration system testing, web based app, aplikasi web based, networking, network security, working independently, hacking code of ethics, kode etik hacking, scripting, CEH, CSCU, vatest, pentest, preventive measure, API, Yogya">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Lowongan Quality Assurance. Dicari yang berpengalaman dengan berbagai jenis dan tingkat pengujian, pengujian integrasi, pengujian regresi, pengujian mobile, pengujian data yang besar, pengujian lintas platform, pengujian komponen, pengujian keamanan, pengujian kinerja, Pengujian UI/UX, pengujian A/B.">
+	<meta property="og:description" content="Tertarik dan berpengetahuan yang baik dalam bidang pembuatan website, web sistem, atau aplikasi mobile? Bisa bekerja dibawah tekanan dan berkoordinasi dengan baik? Bergabunglah dengan PT LOGIQUE sebagai Pre-sales Consultant.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Lowongan - Quality Assurance</title>
+    <title>Lowongan - Full Stack Developer</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -120,7 +120,7 @@
 									<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/career"><span itemprop="name">Karir</span></a><meta itemprop="position" content="1" /></li>
-										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Quality Assurance<meta itemprop="position" content="2" /></li>
+										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Full Stack Developer<meta itemprop="position" content="2" /></li>
 									</ol>
 								</div>
 							</div>
@@ -131,11 +131,11 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-6 text-center">
-									<h1><img src="/img/career/qa.png" style="filter: contrast(0%) brightness(150%);"> Quality Assurance</h1>
+									<h1><img src="/img/career/consultant.png" style="filter: contrast(0%) brightness(150%);"> Full Stack Developer</h1>
 								</div>
-								<!-- <div class="col-md-6 text-center">
+								<div class="col-md-6 text-center">
 									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
-								</div> -->
+								</div>
 							</div>
 						</div>
 					</div>
@@ -145,60 +145,49 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
+									<b class="getN">Job Description:</b><br>
+									<ul class="joinus-ul">
+									<li>Melakukan monitoring terhadap progress proyek agar berjalan sesuai dengan timeline dan kebutuhan klien.</li>
+									<li>Melakukan perancangan, pengujian, pemeliharaan dan pengembangan Web sesuai dengan kebutuhan klien.</li>
+									<li>Melakukan analisa masalah serta mengumpulkan kebutuhan untuk mencari solusi teknis yang tepat dan efektif.</li>
+									<li>Melakukan dokumentasi terhadap alur pengembangan dan revisi aplikasi web.</li>
+									<li>Melakukan integrasi data dari Back End dan database.</li>
+									<li>Bekerja sama dengan divisi lain lain untuk membangun UI/UX yang dibutuhkan secara efektif.</li>
+									<li>Membangun kode yang terstruktur dan dapat digunakan kembali untuk kemudahan pengembangan atau perubahan di masa depan</li>
+									</ul><br>
+									<b class="getN">Must Skill/Experience:</b><br>
+									<ul class="joinus-ul">
+									<li>Memiliki gelar pendidikan D3/S1 di bidang IT, atau lainnya yang relevan.</li>
+									<li>Memiliki pengalaman  lebih dari 1 tahun sebagai Full<li>Stack.</li>
+									<li>Memiliki pemahaman yang mendalam tentang frameworks PHP seperti Laravel, Cake PHP, atau sejenisnya.</li>
+									<li>Mampu menggunakan atau membuat RESTful API dengan baik.</li>
+									<li>Mampu menggunakan  HTML, CSS, Javascript, atau sejenis untuk pembuatan user interface pada website.</li>
+									</ul><br>
+									<b class="getN">Required skill:</b><br>
+									<ul class="joinus-ul">
+									<li>Memiliki kemampuan pemecahan masalah yang baik dan efisien.</li>
+									<li>Mampu bekerja dalam tekanan dan deadline sesuai dengan kebutuhan klien.</li>
+									<li>Berpengalaman dalam pembuatan WEB/Sistem</li>
+									</ul><br>
+									<b class="getN">Preferable</b><br>
+									<ul class="joinus-ul">
+									<li>Mampu bekerja sama dalam tim maupun individu.</li>
+									<li>Dapat melakukan kerja sama secara efektif dengan divisi lain.</li>
+									<li>Dapat bekeja dengan teliti  dan timely manner.</li>
+									<li>High motivated and initiative person.</li>
+									</ul><br>
+									<b class="getN">Rewards dan Worthwhile</b><br>
+									<ul class="joinus-ul">
+									<li>Menangani berbagai macam jenis proyek dengan kebutuhan yang berbeda-beda.</li>
+									</ul><br>
+									<b class="getN">Location</b><br>
+									<ul class="joinus-ul">
+									<li>Jakarta</li>
+									</ul><br>
 										<div class="div-job desc-job">
-										<b class="getN">Job Description:</b><br>
-										<ul class="joinus-ul">
-										<li>Mengembangkan dan memelihara pengujian skenario dan end user script untuk verifikasi fungsi yang diinginkan klien.</li>
-										<li>Memastikan pengujian software atau aplikasi berbasis web agar berjalan dengan semestinya, dan mendokumentasikan bug serta mencari solusinya.</li>
-										<li>Bertanggung jawab dalam perilisan software dan mendokumentasikan kebutuhan klien sehingga dapat terpenuhi dengan kualitas yang baik.</li>
-										<li>Bertanggung jawab dalam pembentukan dan eksekusi sebuah pengujian, rencana pengujian, dan performa sebuah aplikasi.</li>
-										</ul>
-										<br>
-
-										<b class="getN">Must Skill/Experience:</b><br>
-										<ul class="joinus-ul">
-										<li>Memiliki gelar minimal S1 dalam bidang Software Design, Engineering Computer Science atau setingkat.</li>
-										<li>Memiliki pengetahuan yang mendalam tentang metodologi software QA dan siklus QA (rencana pengujian, desain pengujian, pengujian, pelacakan dan pelaporan bug)</li>
-										<li>Terbiasa menggunakan SQL Script seperti MySQL, Postgres, Linux, Windows</li>
-										<li>Terbiasa melakukan pengujian pada web dan mobile (iOS dan Android)</li>
-										<li>Terbiasa menggunakan Git, JIRA, Mantis,TestRail, dan beberapa tools lain.</li>
-										<li>Memiliki pengalaman dalam bidang UI dan API Test</li>
-										<li>Memiliki kemampuan komunikasi yang baik (lisan dan tertulis)</li>
-										</ul>
-										<br>
-
-										<b class="getN">Required skill:</b><br>
-										<ul class="joinus-ul">
-										<li>Memiliki pemikiran yang kritis, kemampuan analisa yang baik, dan fokus terhadap detail.</li>
-										<li>Dapat bekerja dalam tim</li>
-										<li>Memiliki target pencapaian yang tinggi, ambisius, dan memiliki keinginan belajar yang tinggi.</li>
-										</ul>
-										<br>
-
-										<b class="getN">Preferable</b><br>
-										<ul class="joinus-ul">
-										<li>Sertifikat Seminar/Pelatihan QA</li>
-										</ul>
-										<br>
-
-										<b class="getN">Rewards dan Worthwhile</b><br>
-										<ul class="joinus-ul">
-										<li>Dengan jumlah project yang banyak, anda akan menemukan berbagai macam jenis masalah dalam konteks pengujian QA.</li>
-										<li>Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang dihadapi.</li>
-										</ul>
-
-										<br>
-										<b class="getN">Location</b><br>
-										<ul class="joinus-ul">
-										<li>Jakarta</li>
-										<li>Yogya</li>
-										<li>Remote Working</li>
-										</ul>
-										
-										<br>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'QA-Apply-Button', 'Action-Click', 'QA-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
