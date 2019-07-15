@@ -191,7 +191,7 @@ if (isset($_POST['submitted'])) {
             <div class="banner-content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-6 col-sm-offset-2 col-xs-10 col-xs-offset-1">
+                        <div class="col-sm-6 col-sm-offset-1 col-xs-10 col-xs-offset-1">
                             <div class="text-box">
                                 <span class="large-text">DENTISTS!</span>
                                 <p>
@@ -211,7 +211,7 @@ if (isset($_POST['submitted'])) {
             <div class="ready-to-use">
                 <div class="container">
                     <h3 class="text-center">Ready-to-use dental website with templates of your choice!</h3>
-                    <img src="assets/img/img-new-dentist/3_people.png" class="img-center img-responsive" alt="3-people" />
+                    <img src="assets/img/img-new-dentist/3_people.png" class="img-3-people img-center img-responsive" alt="3-people" />
                     <div class="can-help">
                         <img src="assets/img/img-new-dentist/logo_logique.png" alt="logo">
                         <span>CAN HELP YOU</span>
@@ -274,7 +274,7 @@ if (isset($_POST['submitted'])) {
                     </div>
                     <div class="plans">
                         <div class="row">
-                            <div class="col-md-5 col-md-offset-1 col-xs-12">
+                            <div class="col-md-5 col-md-offset-1 col-xs-12 table-1">
                                 <div class="plan-item">
                                     <h5>Basic Plan</h5>
                                     <table>
@@ -333,7 +333,7 @@ if (isset($_POST['submitted'])) {
                                 </div>
 
                             </div>
-                            <div class="col-md-5 col-xs-12">
+                            <div class="col-md-5 col-xs-12 table-2">
                                 <div class="plan-item">
                                     <h5>Blog Plan</h5>
                                     <table>
