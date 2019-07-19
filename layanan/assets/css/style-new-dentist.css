@@ -1091,6 +1091,7 @@ div.slick-list.draggable{
 .step-description ul li {
   list-style: disc;
   margin-left: 1.5em;
+  position: relative;
 }
 
 .modal {
@@ -1412,6 +1413,7 @@ textarea.form-item {
   .step-description {
     width: 55%;
   }
+
 
   .can-help::before {
     width: 80%;
