@@ -76,7 +76,6 @@
 									<li class="text-left"><a href="/layanan/penetration-test.php" target="_blank">Pengetesan Keamanan Website (Pentest) </a></li>
 									<li class="have-submenu"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital Marketing </a>
 										<ul>
-											<li><a href="/layanan/digital-marketing/optimasi-seo.php" target="_blank"> Optimasi SEO</a> </li>
 											<li><a href="/layanan/digital-marketing/jasa-seo.php" target="_blank"> Jasa SEO </a></li>
 										</ul>
 									</li>
