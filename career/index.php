@@ -522,7 +522,24 @@
 					<div class="csection7">
 						<div class="container">
 							<div class="row">
+
 								<div class="col-md-3" data-name="1">
+									<div class="panel panel-default">
+										<div class="panel-body">
+											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+											<img src="/img/career/consultant.png" />
+											<h3>Full Stack Developer</h3>
+											<div class="boxfull">Fulltime</div>
+										</div>
+										<div class="panel-footer">
+											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<div class="text-center">
+												<a class="btn btn-detail" href="detail/full-stack-developer.php">Detail</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-3" data-name="2">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -534,22 +551,6 @@
 											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 											<div class="text-center">
 												<a class="btn btn-detail" href="detail/senior-project-manager.php">Detail</a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-3" data-name="2">
-									<div class="panel panel-default">
-										<div class="panel-body">
-											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
-											<img src="/img/career/fe.png" />
-											<h3>Front End Developer</h3>
-											<div class="boxfull">Fulltime</div>
-										</div>
-										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
-											<div class="text-center">
-												<a class="btn btn-detail" href="detail/front-end.php">Detail</a>
 											</div>
 										</div>
 									</div>
@@ -569,22 +570,24 @@
 											</div>
 										</div>
 									</div>
-								</div><div class="col-md-3" data-name="4">
+								</div>
+								<div class="col-md-3" data-name="4">
 									<div class="panel panel-default">
 										<div class="panel-body">
 											<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
-											<img src="/img/career/consultant.png" />
-											<h3>Full Stack Developer</h3>
+											<img src="/img/career/fe.png" />
+											<h3>Front End Developer</h3>
 											<div class="boxfull">Fulltime</div>
 										</div>
 										<div class="panel-footer">
-											<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+											<p></p>
 											<div class="text-center">
-												<a class="btn btn-detail" href="detail/full-stack-developer.php">Detail</a>
+												<a class="btn btn-detail" href="detail/front-end.php">Detail</a>
 											</div>
 										</div>
 									</div>
 								</div>
+								
 							</div>
 
 							<div class="row">

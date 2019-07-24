@@ -163,7 +163,7 @@ if (isset($_POST['submitted'])) {
             </div>
         </header>
         <div class="sticky-menu">
-                <a href="tel:+6222708935">
+                <a href="tel:022708935">
                     <div class="sticky-phone">
                         <i class="fa fa-phone"></i>
                     </div>
@@ -233,10 +233,10 @@ if (isset($_POST['submitted'])) {
                     </div>
                     <div class="template-slide">
                         <div>
-                            <img onclick="openModalTemplate(this)" alt="template-premium" src="assets/img/img-new-dentist/4-premium-sample.jpg" />
+                            <img onclick="openModalTemplate(this)" alt="template-teenager" src="assets/img/img-new-dentist/dental-for-teenager-sample.jpg" />
                         </div>
                         <div>
-                            <img onclick="openModalTemplate(this)" alt="template-teenager" src="assets/img/img-new-dentist/dental-for-teenager-sample.jpg" />
+                            <img onclick="openModalTemplate(this)" alt="template-premium" src="assets/img/img-new-dentist/4-premium-sample.jpg" />
                         </div>
                         <div>
                             <img onclick="openModalTemplate(this)" alt="template-kids" src="assets/img/img-new-dentist/5-kids-sample.jpg" />
@@ -274,7 +274,7 @@ if (isset($_POST['submitted'])) {
                     </div>
                     <div class="plans">
                         <div class="row">
-                            <div class="col-md-5 col-md-offset-1 col-xs-12 table-1">
+                            <div class="col-lg-4 col-lg-offset-2 col-md-5 col-md-offset-1 col-xs-12 table-1">
                                 <div class="plan-item">
                                     <h5>Basic Plan</h5>
                                     <table>
@@ -333,7 +333,7 @@ if (isset($_POST['submitted'])) {
                                 </div>
 
                             </div>
-                            <div class="col-md-5 col-xs-12 table-2">
+                            <div class="col-lg-4 col-md-5 col-xs-12 table-2">
                                 <div class="plan-item">
                                     <h5>Blog Plan</h5>
                                     <table>
@@ -391,7 +391,7 @@ if (isset($_POST['submitted'])) {
                                     </table>
                                 </div>
                             </div>
-                            <div class="marketing-fee col-xs-10 col-xs-offset-1">
+                            <div class="marketing-fee col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1 px-2">
                                 Marketing Fee (Optional) : Rp. 1.000.000 - Rp. 3.000.000
                             </div>
                         </div>
@@ -426,7 +426,7 @@ if (isset($_POST['submitted'])) {
                 </div>
                 
                 <div class="contact-info-mobile">
-                    <a href="tel:+6222708935">
+                    <a href="tel:022708935">
                         <span><i class="fa fa-phone"></i></span>
                     </a>
                     <a target="_blank" href="https://api.whatsapp.com/send?phone=62811870321&text=Halo%2C%20saya%20ingin%20bertanya%20tentang%20layanan%20website%20dental%20Logique">

@@ -1091,6 +1091,7 @@ div.slick-list.draggable{
 .step-description ul li {
   list-style: disc;
   margin-left: 1.5em;
+  position: relative;
 }
 
 .modal {
@@ -1224,7 +1225,7 @@ div.slick-list.draggable{
 
 .marketing-fee {
   text-align: center;
-  padding: 1em 0;
+  padding: 1em;
   font-family: "poppins";
   letter-spacing: 2.7px;
   color: white;
@@ -1284,7 +1285,7 @@ div.slick-list.draggable{
 }
 
 .img-form-right {
-  width: 300px;
+  width: 350px;
   position: absolute;
   bottom: 0;
   right: 20px;
@@ -1339,6 +1340,12 @@ textarea.form-item {
 @media only screen and (max-width: 1366px) {
   .slick-initialized .slick-slide {
     margin-left: -50px;
+  }
+  .img-form-left{
+    width: 250px;
+  }
+  .img-form-right{
+    width: 300px;
   }
 }
 @media only screen and (max-width: 1024px) {
@@ -1406,6 +1413,7 @@ textarea.form-item {
   .step-description {
     width: 55%;
   }
+
 
   .can-help::before {
     width: 80%;

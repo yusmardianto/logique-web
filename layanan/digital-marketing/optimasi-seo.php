@@ -392,9 +392,7 @@
 							<img class="img-responsive" src="img/img-seo-optimization/red-ribbon.png" />
 						</a>
 					</div>
-				</div>
-
-
+				</div>	
 			</div>
 
 			<?php include '../../footer.php'; ?>
