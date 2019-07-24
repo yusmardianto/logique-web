@@ -125,7 +125,7 @@
 						<div class="row">
 							<div class="col-md-12 text-center">
 								<img src="../assets/img/img-digital-marketing/logo.png" alt="Logo" />
-								LOGIQUE Digital Marketing
+								<a class="top-title" href="/layanan/digital-marketing.php">LOGIQUE Digital Marketing</a>
 							</div>
 						</div>
 					</div>
@@ -269,7 +269,7 @@
 													<span>SEARCH RANK REPORT</span>
 													<div class="visible-xs">
 														<p>
-														Kami memberikan laporan lengkap mengenai ranking keyword-keyword website Anda di mesin pencari dalam Search Rank Report yang mendetail. Dengan menganalisis naik turunnya peringkat keyword, Anda dapat melakukan improvisasi atau pembaruan keyword untuk menjaga website Anda tetap berada di posisi teratas di hasil pencarian.
+															Kami memberikan laporan lengkap mengenai ranking keyword-keyword website Anda di mesin pencari dalam Search Rank Report yang mendetail. Dengan menganalisis naik turunnya peringkat keyword, Anda dapat melakukan improvisasi atau pembaruan keyword untuk menjaga website Anda tetap berada di posisi teratas di hasil pencarian.
 														</p>
 													</div>
 												</div>
@@ -280,7 +280,7 @@
 													<span>ANALYTICS REPORT</span>
 													<div class="visible-xs">
 														<p>
-														Kami akan memberikan insight lengkap tentang seluruh aktivitas traffic website Anda, seperti jumlah traffic pengunjung pada keseluruhan website Anda saat ini, halaman website mana yang ramai dikunjungi, informasi demografis pengunjung, device yang paling banyak digunakan untuk mengunjungi halaman Anda, serta informasi lainnya yang dibutuhkan. Hal ini bertujuan agar Anda dapat mengidentifikasi tren dan peluang untuk meningkatkan traffic kunjungan pada website Anda.
+															Kami akan memberikan insight lengkap tentang seluruh aktivitas traffic website Anda, seperti jumlah traffic pengunjung pada keseluruhan website Anda saat ini, halaman website mana yang ramai dikunjungi, informasi demografis pengunjung, device yang paling banyak digunakan untuk mengunjungi halaman Anda, serta informasi lainnya yang dibutuhkan. Hal ini bertujuan agar Anda dapat mengidentifikasi tren dan peluang untuk meningkatkan traffic kunjungan pada website Anda.
 														</p>
 													</div>
 												</div>
@@ -291,7 +291,7 @@
 													<span>KONSULTASI SEO</span>
 													<div class="visible-xs">
 														<p>
-														Kami memiliki pakar SEO yang berpengalaman dan profesional di bidangnya. Kami memberikan layanan berupa analisa secara menyeluruh serta rekomendasi strategi yang terbaik, seperti dalam pemilihan keyword, menurunkan bounce rate, hingga pengaturan struktur desain dan konten pada website, sehingga dapat meningkatkan conversion, dan website Anda dapat berada di posisi teratas pada hasil mesin pencari.
+															Kami memiliki pakar SEO yang berpengalaman dan profesional di bidangnya. Kami memberikan layanan berupa analisa secara menyeluruh serta rekomendasi strategi yang terbaik, seperti dalam pemilihan keyword, menurunkan bounce rate, hingga pengaturan struktur desain dan konten pada website, sehingga dapat meningkatkan conversion, dan website Anda dapat berada di posisi teratas pada hasil mesin pencari.
 														</p>
 													</div>
 												</div>
@@ -307,7 +307,7 @@
 													<span>LAYANAN SEARCH CONSOLE</span>
 													<div class="visible-xs">
 														<p>
-														Search Console merupakan tool terpenting yang harus dimiliki setiap website. Kami dapat membantu Anda menginstal Search Console pada website Anda, sehingga Anda dapat menganalisis aktivitas pengunjung serta aspek teknis yang website Anda perlukan sesuai pedoman mesin pencari. Misalnya daftar search query yang digunakan para pengunjung untuk merujuk pada website Anda, melihat website yang menautkan link menuju website Anda, hingga menemukan HTML error yang ada pada website Anda. Tool ini juga akan membantu Anda dalam melakukan optimasi website serta menemukan keyword baru yang menurut mesin pencari relevan dengan website Anda saat Googlebot melakukan crawling dan indexing.
+															Search Console merupakan tool terpenting yang harus dimiliki setiap website. Kami dapat membantu Anda menginstal Search Console pada website Anda, sehingga Anda dapat menganalisis aktivitas pengunjung serta aspek teknis yang website Anda perlukan sesuai pedoman mesin pencari. Misalnya daftar search query yang digunakan para pengunjung untuk merujuk pada website Anda, melihat website yang menautkan link menuju website Anda, hingga menemukan HTML error yang ada pada website Anda. Tool ini juga akan membantu Anda dalam melakukan optimasi website serta menemukan keyword baru yang menurut mesin pencari relevan dengan website Anda saat Googlebot melakukan crawling dan indexing.
 														</p>
 													</div>
 												</div>
@@ -318,7 +318,7 @@
 													<span>WEB MAINTENANCE</span>
 													<div class="visible-xs">
 														<p>
-														LOGIQUE tidak hanya menyediakan layanan SEO saja, namun juga menyediakan layanan pemeliharaan web atau Web Maintenance untuk membantu mendukung kinerja dari penerapan SEO itu sendiri, seperti melakukan pengecekan dan perbaikan pada JavaScript, CSS, HTML, dan lain-lain. Kami juga telah menggunakan sertifikat SSL yang mendukung penerapan SEO pada website sehingga mesin pencari dapat dengan cepat meningkatkan ranking website Anda di mesin pencari yang akhirnya membuat situs Anda mendapatkan traffic kunjungan lebih 
+															LOGIQUE tidak hanya menyediakan layanan SEO saja, namun juga menyediakan layanan pemeliharaan web atau Web Maintenance untuk membantu mendukung kinerja dari penerapan SEO itu sendiri, seperti melakukan pengecekan dan perbaikan pada JavaScript, CSS, HTML, dan lain-lain. Kami juga telah menggunakan sertifikat SSL yang mendukung penerapan SEO pada website sehingga mesin pencari dapat dengan cepat meningkatkan ranking website Anda di mesin pencari yang akhirnya membuat situs Anda mendapatkan traffic kunjungan lebih
 														</p>
 													</div>
 												</div>
@@ -329,7 +329,7 @@
 													<span>PENULISAN & PENYESUAIAN KONTEN</span>
 													<div class="visible-xs">
 														<p>
-														Penulisan atau penyesuaian konten merupakan layanan SEO maintenance kami lainnya. Pada layanan penulisan dan penyesuaian konten ini, kami akan membuat konten yang telah disesuaikan dengan kaidah-kaidah SEO berupa artikel maupun landing page sehingga membantu meningkatkan traffic kunjungan website Anda melalui sumber organic yang relevan dengan bisnis Anda. Kami mempunyai para content writer profesional yang telah mempunyai banyak pengalaman di bidang penulisan artikel dan konten sesuai dengan kaidah-kaidah SEO menggunakan SEO Tools terbaik.
+															Penulisan atau penyesuaian konten merupakan layanan SEO maintenance kami lainnya. Pada layanan penulisan dan penyesuaian konten ini, kami akan membuat konten yang telah disesuaikan dengan kaidah-kaidah SEO berupa artikel maupun landing page sehingga membantu meningkatkan traffic kunjungan website Anda melalui sumber organic yang relevan dengan bisnis Anda. Kami mempunyai para content writer profesional yang telah mempunyai banyak pengalaman di bidang penulisan artikel dan konten sesuai dengan kaidah-kaidah SEO menggunakan SEO Tools terbaik.
 														</p>
 													</div>
 												</div>
@@ -357,34 +357,34 @@
 									</div>
 								</div>
 							</div>
-							<div class="cards">
-								<div class="row">
-									<div class="col-lg-4 col-md-5 col-sm-8 col-xs-10 col-lg-offset-2 col-md-offset-1 col-sm-offset-2 col-xs-offset-1">
-										<div class="card">
-											<div class="card-ribbon">
-												<h3>Meningkatkan SEO Dari Perspektif Web Development</h3>
-												<img class="img-responsive" src="img/img-seo-optimization/yellow-ribbon.png" />
-											</div>
-											<div class="card-content">
-												<img class="center-block img-responsive" src="img/img-seo-optimization/web-structure.png" />
-												<p>SEO bukan hanya tentang optimasi keyword, maksimalisasi query berkaitan yang dicari user, atau konten yang menarik. Ada banyak aspek teknis yang bekerja di belakangnya, yang mendukung agar sebuah website dapat menduduki peringkat satu di halaman pertama hasil pencarian. Sebuah website dapat meraih posisi tersebut tidak hanya dengan konten yang baik, namun juga bagaimana website tersebut bisa seresponsif mungkin jika sudah diakses visitor. Hal ini merupakan salah satu faktor yang memengaruhi ranking website Anda.</p>
-											</div>
-										</div>
+							<div class="cards row">
+
+								<div class="card col-lg-5 col-md-5 col-xs-10 col-lg-offset-2 col-md-offset-1 col-sm-offset-2 col-xs-offset-1">
+
+									<div class="card-ribbon">
+										<h3>Meningkatkan SEO Dari Perspektif Web Development</h3>
+										<img class="img-responsive" src="img/img-seo-optimization/yellow-ribbon.png" />
 									</div>
-									<div class="col-lg-4 col-md-5 col-sm-8 col-xs-10 col-md-offset-0 col-sm-offset-2 col-xs-offset-1">
-										<div class="card">
-											<div class="card-ribbon">
-												<h3>LOGIQUE, Web Developer Profesional di Bidang SEO</h3>
-												<img class="img-responsive" src="img/img-seo-optimization/yellow-ribbon.png" />
-											</div>
-											<div class="card-content">
-												<img class="center-block img-responsive" src="img/img-seo-optimization/increasing.png" />
-												<p>Kami mampu menjadikan website Anda responsif, dinamis, loading cepat, user-friendly, dan memiliki tampilan yang fleksibel serta konsisten di segala perangkat, terutama pada mobile dengan pembuatan AMP. Pengaturan desain juga penting untuk menarik sebanyak mungkin visitor yang cocok dengan bisnis Anda. Web Designer kami akan memasang fitur desain, widget, style element, gambar, dan teks yang menarik secara khusus untuk target Anda. Fitur-fitur seperti ini seringkali tidak dapat Anda temukan di platform situs pengembang website praktis seperti Wordpress atau Joomla.</p>
-											</div>
-										</div>
+									<div class="card-content">
+										<img class="center-block img-responsive" src="img/img-seo-optimization/web-structure.png" />
+										<p>SEO bukan hanya tentang optimasi keyword, maksimalisasi query berkaitan yang dicari user, atau konten yang menarik. Ada banyak aspek teknis yang bekerja di belakangnya, yang mendukung agar sebuah website dapat menduduki peringkat satu di halaman pertama hasil pencarian. Sebuah website dapat meraih posisi tersebut tidak hanya dengan konten yang baik, namun juga bagaimana website tersebut bisa seresponsif mungkin jika sudah diakses visitor. Hal ini merupakan salah satu faktor yang memengaruhi ranking website Anda.</p>
 									</div>
 								</div>
+								<div class="col-lg-5 col-md-5 col-xs-10 col-md-offset-0 col-sm-offset-2 col-xs-offset-1 card">
+
+									<div class="card-ribbon">
+										<h3>LOGIQUE, Web Developer Profesional di Bidang SEO</h3>
+										<img class="img-responsive" src="img/img-seo-optimization/yellow-ribbon.png" />
+									</div>
+									<div class="card-content">
+										<img class="center-block img-responsive" src="img/img-seo-optimization/increasing.png" />
+										<p>Kami mampu menjadikan website Anda responsif, dinamis, loading cepat, user-friendly, dan memiliki tampilan yang fleksibel serta konsisten di segala perangkat, terutama pada mobile dengan pembuatan AMP. Pengaturan desain juga penting untuk menarik sebanyak mungkin visitor yang cocok dengan bisnis Anda. Web Designer kami akan memasang fitur desain, widget, style element, gambar, dan teks yang menarik secara khusus untuk target Anda. Fitur-fitur seperti ini seringkali tidak dapat Anda temukan di platform situs pengembang website praktis seperti Wordpress atau Joomla.</p>
+									</div>
+
+
+								</div>
 							</div>
+
 
 							<div class="first-page">
 								<div class="no-1">
@@ -490,7 +490,25 @@
 									</div>
 								</div>
 								<div class="three-things">
-									<div class="row">
+									<!-- Test -->
+									<div class="three-things-wrapper row">
+										<div class="content col-lg-4 col-xs-10 col-xs-offset-1">
+											<img class="img-rounded-shadow" src="img/img-seo-optimization/badge.png" />
+											<p>Selama bertahun-tahun, kami telah dipercaya oleh perusahaan besar baik lokal maupun internasional untuk memberikan layanan berkualitas tinggi. Kami juga mampu beradaptasi pada setiap perubahan global, dan konsisten dengan target dalam setiap prosesnya. Di era globalisasi ini, kami menyadari betapa pentingnya bahasa internasional dalam menjangkau klien di luar negeri. </p>
+										</div>
+										<div class="content col-lg-4 col-xs-10 col-xs-offset-1">
+											<img class="img-rounded-shadow" src="img/img-seo-optimization/certificate.png" />
+											<p>LOGIQUE memiliki tim kompeten yang ahli di bidangnya, terampil, dan berpengalaman untuk implementasi SEO dalam bahasa internasional, yakni Inggris dan Jepang.</p>
+										</div>
+
+										<div class="content col-lg-4 col-xs-10 col-xs-offset-1">
+											<img class="img-rounded-shadow" src="img/img-seo-optimization/rounded-children.png" />
+											<p>Sebagai perusahaan web developer dan digital marketing di bawah wirausahawan Jepang, LOGIQUE tumbuh di lingkungan multikultural, di mana setiap karyawan memiliki ide dan wawasan berbeda yang membuat perusahaan kami lebih kreatif dan inovatif. Didukung oleh karyawan native Jepang, LOGIQUE memiliki pengalaman bisnis yang berlimpah dengan klien dari Jepang. Kami siap membantu Anda implementasi SEO yang dapat memenuhi kebutuhan bisnis Anda dalam 3 bahasa besar ini.</p>
+										</div>
+									</div>
+
+									<!-- end test -->
+									<!-- <div class="row">
 										<div class="col-lg-4 col-xs-12 col-lg-offset-0">
 											<div class="content">
 												<img class="img-rounded-shadow" src="img/img-seo-optimization/badge.png" />
@@ -509,12 +527,12 @@
 												<p>Sebagai perusahaan web developer dan digital marketing di bawah wirausahawan Jepang, LOGIQUE tumbuh di lingkungan multikultural, di mana setiap karyawan memiliki ide dan wawasan berbeda yang membuat perusahaan kami lebih kreatif dan inovatif. Didukung oleh karyawan native Jepang, LOGIQUE memiliki pengalaman bisnis yang berlimpah dengan klien dari Jepang. Kami siap membantu Anda implementasi SEO yang dapat memenuhi kebutuhan bisnis Anda dalam 3 bahasa besar ini.</p>
 											</div>
 										</div>
-									</div>
+									</div> -->
 								</div>
 							</div>
 						</div>
 						<div role="tabpanel" class="tab-pane" id="top-seo-portfolio">
-						<h2>LOGIQUE memiliki pengalaman luas dalam meningkatkan ranking website di berbagai bidang bisnis.</h2>
+							<h2>LOGIQUE memiliki pengalaman luas dalam meningkatkan ranking website di berbagai bidang bisnis.</h2>
 							<div class="logiques-work">
 								<div class="title">
 									<h3>LOGIQUE'S WORKS</h3>
@@ -606,7 +624,7 @@
 				<!-- <div class="black-separation"></div> -->
 				<div class="bottom-banner">
 					<div class="row">
-						<div class="col-lg-7 col-xs-10 col-lg-offset-2 col-xs-offset-1">
+						<div class="col-lg-7 col-xs-10 col-lg-offset-1 col-xs-offset-1">
 							<a href="/hubungi-kami.php">
 								<img class="img-responsive" src="img/img-seo-optimization/red-ribbon.png" />
 							</a>
@@ -645,15 +663,25 @@
 				});
 			});
 
-			$(document).ready(function(){
+			$(document).ready(function() {
+				$(window).on("scroll",function(event){
+					if($(window).scrollTop() > 156){
+						$(".top-tabs").addClass("sticky-top");
+					} else {
+						$(".top-tabs").removeClass("sticky-top");
+					}
+				})
+
 				// Scroll ke konten tab ketika tab diklik
-				$('a.scroll').click(function(event){	
-					$('html,body').animate({scrollTop: $("#bottom-tab-content").offset().top}, "slow");
+				$('a.scroll').click(function(event) {
+					$('html,body').animate({
+						scrollTop: $("#bottom-tab-content").offset().top
+					}, "slow");
 					event.preventDefault();
 				})
 
 				// Memberi class active di top-tabs ketika btn-see-more diklik
-				$(".btn-see-more").click(function(){
+				$(".btn-see-more").click(function() {
 					$(".top-tabs ul li").siblings('li').removeClass('active');
 					$($(this).data().btn).addClass("active");
 				})

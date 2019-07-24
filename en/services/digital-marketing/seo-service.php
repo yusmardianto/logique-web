@@ -125,7 +125,7 @@
 						<div class="row">
 							<div class="col-md-12 text-center">
 								<img src="../assets/img/img-digital-marketing/logo.png" alt="Logo" />
-								LOGIQUE Digital Marketing
+								<a class="top-title" href="/en/services/digital-marketing.php">LOGIQUE Digital Marketing</a>
 							</div>
 						</div>
 					</div>
@@ -280,7 +280,7 @@
 													<span>ANALYTICS REPORT</span>
 													<div class="visible-xs">
 														<p>
-														As part of our service in SEO maintenance services, we will give you a comprehensive and analytical report about your website's traffic. This includes your visitors' behavior, demographics, which web pages are visited, most used devices to visit your website, and many useful information that you need. With this report, you can identify trends and opportunities to increase the amount of traffic on your website.
+															As part of our service in SEO maintenance services, we will give you a comprehensive and analytical report about your website's traffic. This includes your visitors' behavior, demographics, which web pages are visited, most used devices to visit your website, and many useful information that you need. With this report, you can identify trends and opportunities to increase the amount of traffic on your website.
 														</p>
 													</div>
 												</div>
@@ -291,7 +291,7 @@
 													<span>SEO CONSULTATION</span>
 													<div class="visible-xs">
 														<p>
-														LOGIQUE have long-experienced and professional SEO experts. We can help you analyze your website completely and give recommendations of the best SEO strategies for your business needs, such as in keywords selections, lowering the bounce rate, and achieving target conversion from clients. We give the best solution for small, medium, and large companies to drive success through their websites.
+															LOGIQUE have long-experienced and professional SEO experts. We can help you analyze your website completely and give recommendations of the best SEO strategies for your business needs, such as in keywords selections, lowering the bounce rate, and achieving target conversion from clients. We give the best solution for small, medium, and large companies to drive success through their websites.
 														</p>
 													</div>
 												</div>
@@ -318,7 +318,7 @@
 													<span>WEB MAINTENANCE</span>
 													<div class="visible-xs">
 														<p>
-														To keep your websites as friendly as possible both to search engines and your visitors for a long term, LOGIQUE also provides a regular web maintenance service, such as checking and repairing JavaScript, CSS, HTML, etc. Regular improvement is needed to help supporting the performance of SEO implementation itself. We also use SSL certificates that support the search engines to quickly set your website rank to high position which ultimately makes your site get more traffic.
+															To keep your websites as friendly as possible both to search engines and your visitors for a long term, LOGIQUE also provides a regular web maintenance service, such as checking and repairing JavaScript, CSS, HTML, etc. Regular improvement is needed to help supporting the performance of SEO implementation itself. We also use SSL certificates that support the search engines to quickly set your website rank to high position which ultimately makes your site get more traffic.
 														</p>
 													</div>
 												</div>
@@ -329,7 +329,7 @@
 													<span>WRITING & ADJUSTING CONTENT</span>
 													<div class="visible-xs">
 														<p>
-														Writing and customizing contents is mainly included in our SEO maintenance service. We have professional content writers who have a lot of experience in creating high quality contents that are accordance with SEO rules in any form, such as landing page contents and articles, using high-advanced SEO tools. This will help increasing your website traffic through organic resources that are relevant to your business.
+															Writing and customizing contents is mainly included in our SEO maintenance service. We have professional content writers who have a lot of experience in creating high quality contents that are accordance with SEO rules in any form, such as landing page contents and articles, using high-advanced SEO tools. This will help increasing your website traffic through organic resources that are relevant to your business.
 														</p>
 													</div>
 												</div>
@@ -357,32 +357,31 @@
 									</div>
 								</div>
 							</div>
-							<div class="cards">
-								<div class="row">
-									<div class="col-lg-4 col-md-5 col-sm-8 col-xs-10 col-lg-offset-2 col-md-offset-1 col-sm-offset-2 col-xs-offset-1">
-										<div class="card">
-											<div class="card-ribbon">
-												<h3>Improve SEO From a Web Development Perspective</h3>
-												<img class="img-responsive" src="img/img-seo-optimization/yellow-ribbon.png" />
-											</div>
-											<div class="card-content">
-												<img class="center-block img-responsive" src="img/img-seo-optimization/web-structure.png" />
-												<p>SEO is not just about keyword optimization, maximizing related queries that users are looking for, or interesting contents. There are many technical aspects that work behind it, so your website can show up on the first page of search results. A website can reach that position not only with good contents, but also how the website can be as responsive as possible if it's already accessed by a visitor. This is one of the factors that affects your website ranking.</p>
-											</div>
-										</div>
+							<div class="cards row">
+
+								<div class="card col-lg-5 col-md-5 col-xs-10 col-lg-offset-2 col-md-offset-1 col-sm-offset-2 col-xs-offset-1">
+
+									<div class="card-ribbon">
+										<h3>Meningkatkan SEO Dari Perspektif Web Development</h3>
+										<img class="img-responsive" src="img/img-seo-optimization/yellow-ribbon.png" />
 									</div>
-									<div class="col-lg-4 col-md-5 col-sm-8 col-xs-10 col-md-offset-0 col-sm-offset-2 col-xs-offset-1">
-										<div class="card">
-											<div class="card-ribbon">
-												<h3>LOGIQUE Is The Professional Web Developer for SEO</h3>
-												<img class="img-responsive" src="img/img-seo-optimization/yellow-ribbon.png" />
-											</div>
-											<div class="card-content">
-												<img class="center-block img-responsive" src="img/img-seo-optimization/increasing.png" />
-												<p>With our experts, we can make your website responsive, dynamic, fast loading, user-friendly, and has a flexible and consistent display on all devices, especially on mobile with AMP or PWA development. Design improvisations are also important to attract as many visitors as possible that fit your business. Our Web Designers will install design features, widgets, style elements, images, and text that are interesting specifically for your target. These features often cannot be found on practical site platforms such as WordPress or Joomla.</p>
-											</div>
-										</div>
+									<div class="card-content">
+										<img class="center-block img-responsive" src="img/img-seo-optimization/web-structure.png" />
+										<p>SEO bukan hanya tentang optimasi keyword, maksimalisasi query berkaitan yang dicari user, atau konten yang menarik. Ada banyak aspek teknis yang bekerja di belakangnya, yang mendukung agar sebuah website dapat menduduki peringkat satu di halaman pertama hasil pencarian. Sebuah website dapat meraih posisi tersebut tidak hanya dengan konten yang baik, namun juga bagaimana website tersebut bisa seresponsif mungkin jika sudah diakses visitor. Hal ini merupakan salah satu faktor yang memengaruhi ranking website Anda.</p>
 									</div>
+								</div>
+								<div class="col-lg-5 col-md-5 col-xs-10 col-md-offset-0 col-sm-offset-2 col-xs-offset-1 card">
+
+									<div class="card-ribbon">
+										<h3>LOGIQUE, Web Developer Profesional di Bidang SEO</h3>
+										<img class="img-responsive" src="img/img-seo-optimization/yellow-ribbon.png" />
+									</div>
+									<div class="card-content">
+										<img class="center-block img-responsive" src="img/img-seo-optimization/increasing.png" />
+										<p>Kami mampu menjadikan website Anda responsif, dinamis, loading cepat, user-friendly, dan memiliki tampilan yang fleksibel serta konsisten di segala perangkat, terutama pada mobile dengan pembuatan AMP. Pengaturan desain juga penting untuk menarik sebanyak mungkin visitor yang cocok dengan bisnis Anda. Web Designer kami akan memasang fitur desain, widget, style element, gambar, dan teks yang menarik secara khusus untuk target Anda. Fitur-fitur seperti ini seringkali tidak dapat Anda temukan di platform situs pengembang website praktis seperti Wordpress atau Joomla.</p>
+									</div>
+
+
 								</div>
 							</div>
 
@@ -456,16 +455,16 @@
 							<div class="is-it-important">
 								<h3><strong>Is It Important to Choose Companies that Implement White Hat SEO?</strong></h3>
 								<p>
-								Very important. Implementation of prohibited SEO methods, such as Black Hat SEO, will make your website blocked from search engines, especially Google.
+									Very important. Implementation of prohibited SEO methods, such as Black Hat SEO, will make your website blocked from search engines, especially Google.
 								</p>
 								<p>
-								As the most popular search engine, Google has been visited by billions of users every day. Your website has great potential to get traffic and new users from the large number of visits.
+									As the most popular search engine, Google has been visited by billions of users every day. Your website has great potential to get traffic and new users from the large number of visits.
 								</p>
 								<p>
-								Google is a source of traffic that is quite influential on your website. Blocked by Google can dramatically reduce your business traffic. In addition, Google does not guarantee that your site will get ranked again after your site is blocked.
+									Google is a source of traffic that is quite influential on your website. Blocked by Google can dramatically reduce your business traffic. In addition, Google does not guarantee that your site will get ranked again after your site is blocked.
 								</p>
 								<p>
-								White Hat SEO implementation is the only method that is search engine friendly. With precise and structured optimization, we can help you implement White Hat SEO on your website to reach the top search engine position.
+									White Hat SEO implementation is the only method that is search engine friendly. With precise and structured optimization, we can help you implement White Hat SEO on your website to reach the top search engine position.
 								</p>
 								<span>LOGIQUE is ready to help implement White Hat SEO for your business!</span>
 							</div>
@@ -490,24 +489,19 @@
 									</div>
 								</div>
 								<div class="three-things">
-									<div class="row">
-										<div class="col-lg-4 col-xs-12 col-lg-offset-0">
-											<div class="content">
-												<img class="img-rounded-shadow" src="img/img-seo-optimization/badge.png" />
-												<p>For many years, we've been trusted by big companies both local and international to provide high quality services. We are also able to adapt to every global change, and are consistent with the targets in each process. In this era of globalization, we realize how significant international language in reaching out for clients overseas. </p>
-											</div>
+									<div class="three-things-wrapper row">
+										<div class="content col-lg-4 col-xs-10 col-xs-offset-1">
+											<img class="img-rounded-shadow" src="img/img-seo-optimization/badge.png" />
+											<p>For many years, we've been trusted by big companies both local and international to provide high quality services. We are also able to adapt to every global change, and are consistent with the targets in each process. In this era of globalization, we realize how significant international language in reaching out for clients overseas.</p>
 										</div>
-										<div class="col-lg-4 col-xs-12 col-lg-offset-0">
-											<div class="content">
-												<img class="img-rounded-shadow" src="img/img-seo-optimization/certificate.png" />
-												<p>LOGIQUE has a competent team who are expert in their field, skilled, and experienced in implementing SEO in international languages, which are English and Japanese.</p>
-											</div>
+										<div class="content col-lg-4 col-xs-10 col-xs-offset-1">
+											<img class="img-rounded-shadow" src="img/img-seo-optimization/certificate.png" />
+											<p>LOGIQUE has a competent team who are expert in their field, skilled, and experienced in implementing SEO in international languages, which are English and Japanese.</p>
 										</div>
-										<div class="col-lg-4 col-xs-12 col-lg-offset-0">
-											<div class="content">
-												<img class="img-rounded-shadow" src="img/img-seo-optimization/rounded-children.png" />
-												<p>As a web developer and digital marketing company under a Japanese entrepreneur, LOGIQUE is grown in multicultural environment, where every employee has different ideas and insights that make our company more creative and innovative. Supported by a Japanese native employee, LOGIQUE has abundant business experience with clients from Japan. You don't have to worry looking for best SEO Optimization services, we are ready to help you deliver SEO Optimization that can fulfill your business needs in these 3 big languages.</p>
-											</div>
+
+										<div class="content col-lg-4 col-xs-10 col-xs-offset-1">
+											<img class="img-rounded-shadow" src="img/img-seo-optimization/rounded-children.png" />
+											<p>As a web developer and digital marketing company under a Japanese entrepreneur, LOGIQUE is grown in multicultural environment, where every employee has different ideas and insights that make our company more creative and innovative. Supported by a Japanese native employee, LOGIQUE has abundant business experience with clients from Japan. You don't have to worry looking for best SEO Optimization services, we are ready to help you deliver SEO Optimization that can fulfill your business needs in these 3 big languages.</p>
 										</div>
 									</div>
 								</div>
@@ -606,7 +600,7 @@
 				<!-- <div class="black-separation"></div> -->
 				<div class="bottom-banner">
 					<div class="row">
-						<div class="col-lg-7 col-xs-10 col-lg-offset-2 col-xs-offset-1">
+						<div class="col-lg-7 col-xs-10 col-lg-offset-1 col-xs-offset-1">
 							<a href="/hubungi-kami.php">
 								<img class="img-responsive" src="img/img-seo-optimization/red-ribbon.png" />
 							</a>

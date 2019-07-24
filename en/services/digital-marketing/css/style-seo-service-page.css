@@ -461,8 +461,15 @@ ul.medsos-new li a {
 }
 /*End Footer*/
 
+.top-title,
+.top-title:hover,
+.top-title:focus{
+  color: white;
+  text-decoration: none;
+}
+
 .div-top {
-	padding-top: 40px;
+  padding-top: 40px;
   background: #ffca13;
 }
 .div-top .title {
@@ -599,6 +606,19 @@ ul.medsos-new li a {
   }
 }
 
+.top-tabs ul {
+  /* position: fixed;
+  top: 0; */
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.top-tabs ul li {
+  flex: 1 0 150px;
+  height: 65px;
+}
+
+
 .top-tabs .nav-tabs.nav-justified > li {
   background: white;
   height: 65%;
@@ -612,11 +632,12 @@ ul.medsos-new li a {
   font-size: 16px;
   font-weight: bold;
   letter-spacing: 2px;
-  height: 100%;
+  /* height: 100%; */
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 0;
+  height: 64px;
 }
 
 .top-tabs .nav-tabs > li.active > a,
@@ -673,7 +694,10 @@ ul.medsos-new li a {
 
 .cards {
   background: white;
-  padding-top: 2em;
+  padding: 7em 0 5em;
+  display: table;
+    border-collapse: separate;
+  border-spacing: 1em 0;
 }
 
 .card section {
@@ -681,11 +705,13 @@ ul.medsos-new li a {
 }
 
 .card {
-  margin: 3em 0;
+  display: table-cell;
+  float: none;
+  margin: 3em auto;
   border: 2px solid #e5e5e5;
   border-radius: 10px;
   position: relative;
-  min-height: 900px;
+  /* min-height: 900px; */
 }
 
 .card .card-ribbon {
@@ -712,7 +738,8 @@ ul.medsos-new li a {
   color: black;
 }
 
-.first-page {
+
+.first-page{
   background-image: url("../img/img-seo-optimization/bg-yellow.png");
   background-size: cover;
   background-position: center;
@@ -743,6 +770,9 @@ ul.medsos-new li a {
 @media (max-width: 1219px) {
   .top-tabs .nav-tabs.nav-justified > li {
     height: 60px;
+  }
+  .top-tabs .nav-tabs.nav-justified > li > a{
+    height: 64px;
   }
 }
 
@@ -1096,7 +1126,7 @@ ul.medsos-new li a {
 .crowd-banner p {
   margin: 07px 10% 0 14%;
   background-color: #fff;
-  padding: 4px 15px 12px 8px;
+  padding: 4px 15px 12px 8px; 
   font-size: 11px;
 }
 
@@ -1158,11 +1188,32 @@ ul.medsos-new li a {
 }
 
 .three-things {
-  padding: 2em 4em;
+  padding: 2em 0;
   margin-top: 2em;
 }
 
-.three-things .content {
+.three-things-wrapper{
+  margin: 4em 0;
+  display: table;
+  border-collapse: separate;
+  border-spacing: 1em 0;
+}
+
+.three-things-wrapper .content {
+  border-radius: 10px;
+  background: white;
+  padding: 1.7em;
+  text-align: center;
+  font-size: 18px;
+  margin: 3em auto;
+  color: black;
+  /* min-height: 640px; */
+  display: table-cell;
+  float: none;
+  border: 2px solid #dfdfdf;
+}
+
+/* .three-things .content {
   border-radius: 10px;
   background: white;
   padding: 1.7em;
@@ -1172,7 +1223,7 @@ ul.medsos-new li a {
   color: black;
   min-height: 640px;
   border: 2px solid #dfdfdf;
-}
+} */
 
 .three-things .content .img-rounded-shadow {
   background: white;
@@ -1184,9 +1235,17 @@ ul.medsos-new li a {
   margin-bottom: 1em;
 }
 
+
 @media (max-width: 1199px) {
   .three-things .content {
     min-height: 200px;
+  }
+  .three-things-wrapper{
+    display: flex;
+    flex-direction: column;
+  }
+  .top-tabs .nav-tabs.nav-justified > li > a{
+    height: 100%;
   }
 }
 
@@ -1215,6 +1274,7 @@ ul.medsos-new li a {
 @media (min-width: 880px) {
   .crowd-banner p {
     margin: 0 10% 0 14%;
+
   }
 }
 
@@ -1301,9 +1361,9 @@ ul.medsos-new li a {
   }
 
   .stack-tab ul {
-    flex-direction: column;
+    flex-direction: column;    
   }
-  .stack-tab ul li {
+  .stack-tab ul li{
     width: 100%;
     margin: 0.2em 0;
   }
@@ -1524,5 +1584,13 @@ ul.medsos-new li a {
   }
   .black-white-hat-seo p {
     margin-top: 25px;
+  }
+  .three-things-wrapper{
+    display: flex;
+    flex-direction: column;
+  }
+  .cards{
+    display: flex;
+    flex-direction: column; 
   }
 }
