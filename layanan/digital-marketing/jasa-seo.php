@@ -188,11 +188,31 @@
 						</div>
 					</div>
 					<div class="seo-service-description">
+						<div class="top-tabs-mobile">
+							<ul class="nav nav-tabs nav-justified" role="tablist">
+								<li role="presentation" id="btn-seo-mt-tab">
+									<a href="#top-seo-maintenance" aria-controls="top-seo-maintenance" role="tab" data-toggle="tab" class="scroll"><span>SEO Maintenance</span></a>
+								</li>
+								<li role="presentation" id="btn-audit-seo-tab">
+									<a href="#top-audit-seo" aria-controls="top-audit-seo" role="tab" data-toggle="tab" class="scroll">Audit Technical SEO</a>
+								</li>
+								<li role="presentation" id="btn-white-hat-tab">
+									<a href="#top-white-hat" aria-controls="top-white-hat" role="tab" data-toggle="tab" class="scroll">White Hat SEO</a>
+								</li>
+								<li role="presentation" id="btn-top-multilanguage-tab">
+									<a href="#top-multilanguage" aria-controls="top-multilanguage" role="tab" data-toggle="tab" class="scroll">Multilanguages Services</a>
+								</li>
+								<li role="presentation" id="btn-seo-portfolio-tab">
+									<a href="#top-seo-portfolio" aria-controls="top-seo-portfolio" role="tab" data-toggle="tab" class="scroll">SEO Portfolio</a>
+								</li>
+							</ul>
+						</div>
 						<div class="row">
 							<div class="col-xs-8 col-xs-offset-2">
 								<p class="description-title">Kami memberikan layanan optimasi SEO terlengkap yang Anda butuhkan, termasuk mengaudit SEO teknis dari perspektif Web Development, untuk memaksimalkan pendapatan bisnis Anda.</p>
 							</div>
 						</div>
+
 						<div class="container">
 							<div class="stack-tab">
 								<ul role="tablist">
@@ -664,8 +684,8 @@
 			});
 
 			$(document).ready(function() {
-				$(window).on("scroll",function(event){
-					if($(window).scrollTop() > 156){
+				$(window).on("scroll", function(event) {
+					if ($(window).scrollTop() > 156) {
 						$(".top-tabs").addClass("sticky-top");
 					} else {
 						$(".top-tabs").removeClass("sticky-top");
@@ -683,6 +703,7 @@
 				// Memberi class active di top-tabs ketika btn-see-more diklik
 				$(".btn-see-more").click(function() {
 					$(".top-tabs ul li").siblings('li').removeClass('active');
+					$(".top-tabs-mobile ul li").siblings('li').removeClass('active');
 					$($(this).data().btn).addClass("active");
 				})
 			});
