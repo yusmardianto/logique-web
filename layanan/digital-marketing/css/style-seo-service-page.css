@@ -619,22 +619,14 @@ ul.medsos-new li a {
   padding-top: 65px;
 }
 
-
-@media (max-width: 622px){
-  .sticky-top + .banner-seo-service{
-    padding-top: 120px;
-  }
-  
+.top-tabs-mobile{
+  border-top: 3px solid #dfdfdf;
+  border-bottom: 3px solid #dfdfdf;
+  display: none;
 }
 
-@media (max-width: 844px){
-  .sticky-top + .banner-seo-service{
-    padding-top: 110px;
-  }
-  
-}
 .top-tabs ul,
-.top-tabs-mobile ul, {
+.top-tabs-mobile ul{
   /* position: fixed;
   top: 0; */
   display: flex;
@@ -795,6 +787,23 @@ ul.medsos-new li a {
   .card .card-ribbon h3 {
     font-size: 16px;
     margin: -0.2em 0.1em;
+  }
+}
+
+@media (max-width: 767px){
+
+  .top-tabs-mobile{
+    display: block;
+  }
+
+  .top-tabs{
+    display: none;
+  }
+  .top-tabs.sticky-top{
+    position: relative;
+  }
+  .sticky-top + .banner-seo-service{
+    padding-top: 0;
   }
 }
 
