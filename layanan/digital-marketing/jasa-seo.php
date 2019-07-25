@@ -188,7 +188,7 @@
 						</div>
 					</div>
 					<div class="seo-service-description">
-						<div class="top-tabs-mobile">
+						<!-- <div class="top-tabs-mobile">
 							<ul class="nav nav-tabs nav-justified" role="tablist">
 								<li role="presentation" id="btn-seo-mt-tab">
 									<a href="#top-seo-maintenance" aria-controls="top-seo-maintenance" role="tab" data-toggle="tab" class="scroll"><span>SEO Maintenance</span></a>
@@ -206,7 +206,7 @@
 									<a href="#top-seo-portfolio" aria-controls="top-seo-portfolio" role="tab" data-toggle="tab" class="scroll">SEO Portfolio</a>
 								</li>
 							</ul>
-						</div>
+						</div> -->
 						<div class="row">
 							<div class="col-xs-8 col-xs-offset-2">
 								<p class="description-title">Kami memberikan layanan optimasi SEO terlengkap yang Anda butuhkan, termasuk mengaudit SEO teknis dari perspektif Web Development, untuk memaksimalkan pendapatan bisnis Anda.</p>
