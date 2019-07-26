@@ -606,27 +606,50 @@ ul.medsos-new li a {
   }
 }
 
-.top-tabs ul {
+.top-tabs.sticky-top{
+  position: fixed;
+  width: 100%;
+  top: 0;
+  padding-left: 95px;
+  margin-left: -95px;
+  z-index: 10;
+}
+
+.sticky-top + .banner-seo-service{
+  padding-top: 65px;
+}
+
+.top-tabs-mobile{
+  border-top: 3px solid #dfdfdf;
+  border-bottom: 3px solid #dfdfdf;
+  display: none;
+}
+
+.top-tabs ul,
+.top-tabs-mobile ul{
   /* position: fixed;
   top: 0; */
   display: flex;
   flex-flow: row wrap;
 }
 
-.top-tabs ul li {
+.top-tabs ul li,
+.top-tabs-mobile ul li {
   flex: 1 0 150px;
   height: 65px;
 }
 
 
-.top-tabs .nav-tabs.nav-justified > li {
+.top-tabs .nav-tabs.nav-justified > li,
+.top-tabs-mobile .nav-tabs.nav-justified > li {
   background: white;
   height: 65%;
   vertical-align: middle;
   /* width: 0; */
   line-height: 1 !important;
 }
-.top-tabs .nav-tabs.nav-justified > li > a {
+.top-tabs .nav-tabs.nav-justified > li > a,
+.top-tabs-mobile .nav-tabs.nav-justified > li > a {
   border: 0;
   color: black;
   font-size: 16px;
@@ -642,7 +665,10 @@ ul.medsos-new li a {
 
 .top-tabs .nav-tabs > li.active > a,
 .top-tabs .nav-tabs > li.active > a:hover,
-.top-tabs .nav-tabs > li.active > a:focus {
+.top-tabs .nav-tabs > li.active > a:focus,
+.top-tabs-mobile .nav-tabs > li.active > a,
+.top-tabs-mobile .nav-tabs > li.active > a:hover,
+.top-tabs-mobile .nav-tabs > li.active > a:focus {
   border: none;
   background: #eee;
 }
@@ -764,14 +790,33 @@ ul.medsos-new li a {
   }
 }
 
+@media (max-width: 767px){
+
+  .top-tabs-mobile{
+    display: block;
+  }
+
+  .top-tabs{
+    display: none;
+  }
+  .top-tabs.sticky-top{
+    position: relative;
+  }
+  .sticky-top + .banner-seo-service{
+    padding-top: 0;
+  }
+}
+
 @media (max-width: 991px) {
 }
 
 @media (max-width: 1219px) {
-  .top-tabs .nav-tabs.nav-justified > li {
+  .top-tabs .nav-tabs.nav-justified > li,
+  .top-tabs-mobile .nav-tabs.nav-justified > li {
     height: 60px;
   }
-  .top-tabs .nav-tabs.nav-justified > li > a{
+  .top-tabs .nav-tabs.nav-justified > li > a,
+  .top-tabs-mobile .nav-tabs.nav-justified > li > a{
     height: 64px;
   }
 }
@@ -1020,6 +1065,11 @@ ul.medsos-new li a {
 }
 
 @media (max-width: 767px) {
+  .top-tabs.sticky-top{
+    padding-left:0;
+    margin-left: 0;
+  }
+  
   .seo-services {
     max-width: 320px;
     width: auto;
@@ -1244,7 +1294,8 @@ ul.medsos-new li a {
     display: flex;
     flex-direction: column;
   }
-  .top-tabs .nav-tabs.nav-justified > li > a{
+  .top-tabs .nav-tabs.nav-justified > li > a,
+  .top-tabs-mobile .nav-tabs.nav-justified > li > a{
     height: 100%;
   }
 }
