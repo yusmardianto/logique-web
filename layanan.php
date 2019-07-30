@@ -359,6 +359,7 @@
 										Untuk mendapatkan hasil optimasi SEO terbaik, kami tidak hanya mengimplementasikan metode SEO saja, namun juga memberikan perhatian kepada peningkatan dan perbaikan website itu sendiri. 
 										Tim profesional kami dapat menangani optimasi SEO menggunakan keyword dalam bahasa Indonesia, Inggris, dan Jepang.  
 										Kami memiliki pengalaman mempertahankan salah satu perusahaan keuangan terbesar di Indonesia untuk menempati peringkat pertama di halaman pencarian Google dalam jangka waktu yang lama.
+										<a target="_blank" href="/layanan/digital-marketing/jasa-seo.php" class="btn btn-service-link wrap-link">Lihat informasi lebih lanjut tentang Jasa SEO</a>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Konsultasi Bisnis Digital</b><br/>

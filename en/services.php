@@ -321,6 +321,7 @@
 									<li>
 										<i class="fa-li fa fa-caret-right"></i><a class="black-link" href="/en/services/digital-marketing/seo-service.php"><b>SEO</b></a><br/>
 										We carry out an in-depth analysis of the on-page optimization of your website on an ongoing basis, and identify all areas where there's scope for improvement. We analyze in a precise manner, going beyond simple data tracking and user behavior. We're masters at tracking, analyzing and improving keywordrankings, and we utilize the tools to best suit your specific strategy, environment, internal resources and budget. We commit to the result by not only implementing SEO but website improvement. We have great experience in SEO for Japanese, Indonesian, and English language. We had succeeded to keep one of our clients (Indonesian finance company) on the 1st place in Google search result for a long time, as a notable example. A solid SEO strategy combines technical optimization, content optimization, and authority optimization. At LOGIQUE we have practitioners in each of these, ensuring your page ranks well in the search results and drives traffic to your website.
+										<a target="_blank" href="/en/services/digital-marketing/seo-service.php" class="btn btn-service-link wrap-link">See Further info about SEO Service</a>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Internet Business Consulting</b><br/>
