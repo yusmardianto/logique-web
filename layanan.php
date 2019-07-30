@@ -355,7 +355,7 @@
 							  <div class="panel-body">
 								<ol class="fa-ul">
 									<li>
-										<i class="fa-li fa fa-caret-right"></i><a class="black-link" href="/layanan/digital-marketing/optimasi-seo.php"><b>SEO</b></a><br/>
+										<i class="fa-li fa fa-caret-right"></i><a class="black-link" href="/layanan/digital-marketing/jasa-seo.php"><b>SEO</b></a><br/>
 										Untuk mendapatkan hasil optimasi SEO terbaik, kami tidak hanya mengimplementasikan metode SEO saja, namun juga memberikan perhatian kepada peningkatan dan perbaikan website itu sendiri. 
 										Tim profesional kami dapat menangani optimasi SEO menggunakan keyword dalam bahasa Indonesia, Inggris, dan Jepang.  
 										Kami memiliki pengalaman mempertahankan salah satu perusahaan keuangan terbesar di Indonesia untuk menempati peringkat pertama di halaman pencarian Google dalam jangka waktu yang lama.
