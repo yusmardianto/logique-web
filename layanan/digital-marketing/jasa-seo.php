@@ -281,7 +281,7 @@
 						<div role="tabpanel" class="tab-pane" id="top-seo-maintenance">
 							<div class="list-seo-services">
 								<div class="row">
-									<div class="col-lg-offset-1 col-lg-10">
+									<div class="col-lg-offset-2 col-lg-8">
 										<div class="row">
 											<div class="col-sm-4">
 												<div class="seo-services row-1">
