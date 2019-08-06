@@ -752,7 +752,7 @@
 										<div class="grey-clr">CMS, Mobile, OJK, Finance</div>
 									</div>
 								</div>
-                <div class="col-sm-4">
+								<div class="col-sm-4">
   								<a href="https://aiaberbagi.com" target="_blank" rel="noreferrer">
   									<img src="/img/portfolio/aia.png" alt="AIA" class="img-responsive center-block">
   									AIA
@@ -761,28 +761,57 @@
   									Campaign Page Creation (Coding | Hosting)
   									<div class="grey-clr">Mobile Optimized, Campaign page, Insurance</div>
   								</div>
-  							</div>
-                <div class="col-sm-4">
-                  <a href="https://www.kbrprime.id/" target="_blank" rel="noreferrer">
-                    <img src="/img/portfolio/KBR_ID.png" alt="KBR_ID" class="img-responsive center-block">
-                    KBR
-                  </a>
-                </div>
-                <div class="clearfix"></div>
-                <div class="col-sm-4">
-                  <a href="https://unitedconcepts.com/" target="_blank" rel="noreferrer">
-                    <img src="/img/portfolio/royal-amanda.png" alt="Royal Amanda" class="img-responsive center-block">
-                    Royal Amanda
-                  </a>
-                </div>
-                </div>
-              </div>
-              <center>
-                <a  class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse" href="#hide-portfolio" >
-                See more web development portfolios
-                </a>
-              </center>
-            </div>
+								</div>
+								<div class="col-sm-4">
+								  <a href="https://www.kbrprime.id/" target="_blank" rel="noreferrer">
+									<img src="/img/portfolio/KBR_ID.png" alt="KBR_ID" class="img-responsive center-block">
+									KBR
+								  </a>
+								</div>
+								<div class="clearfix"></div>
+								<div class="col-sm-4">
+								  <a href="https://unitedconcepts.com/" target="_blank" rel="noreferrer">
+									<img src="/img/portfolio/royal-amanda.png" alt="Royal Amanda" class="img-responsive center-block">
+									Royal Amanda
+								  </a>
+								</div>
+								<div class="col-sm-4">
+									<a href="https://premium-garansi.co.id/" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/premiumgaransi.jpg" alt="Premium Garansi" class="img-responsive center-block">
+										Premium-Garansi.co.id
+									</a>
+									<div class="addition-desc text-left">
+										Web Page Creation (Coding | Integrasi CMS)
+										<div class="grey-clr">Mobile Optimized, CMS, Corporate web</div>
+									</div>
+								</div>
+								<div class="col-sm-4">
+									<img src="/img/portfolio/ligohome.jpg" alt="Premium Garansi" class="img-responsive center-block">
+									LIGO-Home
+									<div class="addition-desc text-left">
+										Web Page Creation (Design | Coding | Integrasi CMS)  
+										<div class="grey-clr">Mobile Optimized, CMS, Corporate web</div>
+									</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="col-sm-4">
+									<a href="https://www.otomart.id/oto-garansi.html" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/otogaransi.jpg" alt="OTO-Garansi Campaign Page" class="img-responsive center-block">
+										OTO-Garansi Campaign Page
+									</a>
+									<div class="addition-desc text-left">
+										Campaign Page Creation (Design | Coding)  
+										<div class="grey-clr">Mobile Optimized, CMS, Campaign Page</div>
+									</div>
+								</div>
+							</div>
+						  </div>
+						  <center>
+							<a  class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse" href="#hide-portfolio" >
+							See more web development portfolios
+							</a>
+						  </center>
+						</div>
 
             <div class="system-development-client-container  page-part-container">
               <span class="characteristic-title">System Development Portfolio</span>
@@ -1189,21 +1218,21 @@
   								Opus Park (Facebook)
                   <div class="addition-desc text-center">
 										<small class="text-muted">(Google Ads, FB/IG Ads, SNS Operation, SEO Website)</small>
-									</div>
+									</div><br/>
   							</div>
                 <div class="col-sm-4">
 									<img src="/img/portfolio/mason-de-res.jpg" alt="Mason de Res - (Facebook)" class="img-responsive center-block">
 									Mason de Res - (Facebook)
                   <div class="addition-desc text-center">
 										<small class="text-muted">(Google Ads, SNS Operation, SEO Website, Articles)</small>
-									</div>
+									</div><br/>
 								</div>
 							<div class="col-sm-4">
   								<img src="/img/portfolio/ajapan-sosmed.png" alt="Ajapan Dance Instagram Competition - Waku Waku Japan" class="img-responsive center-block">
   								Ajapan Dance Instagram Competition - Waku Waku Japan
 								<div class="addition-desc text-center">
 									<small class="text-muted">(IG Ads, SNS Operation)</small>
-								</div>
+								</div><br/>
   							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-4">
@@ -1211,7 +1240,7 @@
 								60th Anniversary of Diplomatic Relations between Japan and Indonesia
 								<div class="addition-desc text-center">
 									<small class="text-muted">(SNS Marketing, SNS Operation, Facebook Ads, Instagram Ads, Youtube Ads, Social Media)</small>
-								</div>
+								</div><br/>
 							</div>
 							<div class="col-sm-4">
 								<div class="mobile-app-container">
@@ -1221,15 +1250,30 @@
 								Embassy of Japan in Indonesia
 								<div class="addition-desc text-center">
 									<small class="text-muted">(SNS Operation, Social Media Marketing, SNS Ads, Instagram Ads, Facebook Ads, Social Media)</small>
-								</div>
+								</div><br/>
 							</div>
 							<div class="col-sm-4">
 								<img src="/img/portfolio/azalea.png" alt="Azalea Suites" class="img-responsive center-block">
 								Azalea Suites
 								<div class="addition-desc text-center">
 									<small class="text-muted">(SEO, content writing, UX/UI, page speed, search rank)</small>
-								</div>
+								</div><br/>
 							</div>
+							<div class="clearfix"></div>
+								<div class="col-sm-4">
+									<img src="/img/portfolio/tsubame.jpg" alt="Tsubame Japanese School" class="img-responsive center-block">
+									Tsubame Japanese School
+									<div class="addition-desc text-center">
+										<small class="text-muted">(SEO, UX/UI, page speed, search rank)</small>
+									</div><br/>
+								</div>
+								<div class="col-sm-4">
+									<img src="/img/portfolio/kbj.jpg" alt="KBJ" class="img-responsive center-block">
+									KBJ
+									<div class="addition-desc text-center">
+										<small class="text-muted">(Google Ads, Facebook Ads, Instagram Ads, SEO, UX/UI, page speed, search rank)</small>
+									</div><br/>
+								</div>
               </div>
             </div>
 
