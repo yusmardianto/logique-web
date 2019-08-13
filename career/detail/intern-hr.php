@@ -134,7 +134,7 @@
 									<h1><img src="/img/career/pm.png" style="filter: contrast(0%) brightness(150%);"> Intern HR</h1>
 								</div>
 								<div class="col-md-6 text-center">
-									<!-- <a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a> -->
+									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
 								</div>
 							</div>
 						</div>

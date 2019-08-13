@@ -631,41 +631,6 @@
 							<div class="col-md-3" data-name="10">
 								<div class="panel panel-default">
 									<div class="panel-body">
-										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-										<img src="/img/career/sales.png" />
-										<h3>Pre Sales Consultant</h3>
-										<div class="boxfull">Fulltime</div>
-									</div>
-									<div class="panel-footer">
-										<p></p>
-										<div class="text-center">
-											<a class="btn btn-detail" href="detail/presales.php">Detail</a>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3" data-name="10">
-								<div class="panel panel-default">
-									<div class="panel-body">
-										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
-										<img src="/img/career/fe.png" />
-										<h3 style=" font-size: 20px; ">React Native Developer</h3>
-										<div class="boxfull">Fulltime</div>
-									</div>
-									<div class="panel-footer">
-										<p></p>
-										<div class="text-center">
-											<a class="btn btn-detail" href="detail/reactnative.php">Detail</a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="row">
-							<div class="col-md-3" data-name="10">
-								<div class="panel panel-default">
-									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
 										<img src="/img/career/fe.png" />
 										<h3>React JS Developer</h3>
@@ -683,9 +648,9 @@
 							<div class="col-md-3" data-name="10">
 								<div class="panel panel-default">
 									<div class="panel-body">
-										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
 										<img src="/img/career/consultant.png" />
-										<h3 style="font-size:20px;">Web Security Specialist</h3>
+										<h3 style="font-size:20px;">IT Security Specialist</h3>
 										<div class="boxfull">Fulltime</div>
 									</div>
 									<div class="panel-footer">
@@ -696,6 +661,10 @@
 									</div>
 								</div>
 							</div>
+						</div>
+
+						<div class="row">
+							
 
 							<div class="col-md-3" data-name="10">
 								<div class="panel panel-default">
@@ -729,8 +698,6 @@
 									</div>
 								</div>
 							</div>
-						</div>
-						<div class="row">
 							<div class="col-md-3" data-name="10">
 								<div class="panel panel-default">
 									<div class="panel-body">
@@ -740,7 +707,7 @@
 										<div class="boxfull" style=" background: #e60000; ">Internship</div>
 									</div>
 									<div class="panel-footer">
-										<p></p>
+										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/intern-hr.php">Detail</a>
 										</div>
@@ -767,6 +734,38 @@
 
 						<!-- On Hold -->
 						<div class="row">
+							<div class="col-md-3 hidden" data-name="10">
+								<div class="panel panel-default">
+									<div class="panel-body">
+										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+										<img src="/img/career/fe.png" />
+										<h3 style=" font-size: 20px; ">React Native Developer</h3>
+										<div class="boxfull">Fulltime</div>
+									</div>
+									<div class="panel-footer">
+										<p></p>
+										<div class="text-center">
+											<a class="btn btn-detail" href="detail/reactnative.php">Detail</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 hidden" data-name="10">
+								<div class="panel panel-default">
+									<div class="panel-body">
+										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+										<img src="/img/career/sales.png" />
+										<h3>Pre Sales Consultant</h3>
+										<div class="boxfull">Fulltime</div>
+									</div>
+									<div class="panel-footer">
+										<p></p>
+										<div class="text-center">
+											<a class="btn btn-detail" href="detail/presales.php">Detail</a>
+										</div>
+									</div>
+								</div>
+							</div>
 							<div class="col-md-3 hidden" data-name="10">
 								<div class="panel panel-default">
 									<div class="panel-body">
