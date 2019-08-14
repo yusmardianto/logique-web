@@ -57,7 +57,7 @@ if(isset($_POST['submitted']))
     <link href="assets/css/style-dentist.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
 		<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-
+		<link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-web-klinik-gigi-2.php" />
 	<script>
 		function recaptcha_callback() {
 			$('#kirim-form-klinik-gigi').removeAttr('disabled');
@@ -83,7 +83,31 @@ if(isset($_POST['submitted']))
 		twq('track','PageView');
 	</script>
 	<!-- End Twitter universal website tag code -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105878648-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'UA-105878648-1', { 'optimize_id': 'GTM-PMV6V9D'});
+	</script>
 </head>
+
+<!-- Google Analytics Content Experiment code -->
+<script>function utmx_section(){}function utmx(){}(function(){var
+k='159506621-0',d=document,l=d.location,c=d.cookie;
+if(l.search.indexOf('utm_expid='+k)>0)return;
+function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
+indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
+length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
+'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
+'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
+valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
+</script><script>utmx('url','A/B');</script>
+<!-- End of Google Analytics Content Experiment code -->
+
 	<body class="dentalpage">
 	<?php include '../google/tag-body.php'?>
 		<div class="wrapper">

@@ -68,7 +68,7 @@
 									<li class="have-submenu"><a href="/layanan/web-dev.php" target="_blank">Jasa Pembuatan Website</a>
 										<ul>
 											<li><a href="/layanan/pembuatan-web-karir.php" target="_blank"> Pembuatan Website Career</a> </li>
-											<li><a href="/layanan/pembuatan-web-klinik-gigi.php" target="_blank"> Website Klinik Gigi </a></li>
+											<li><a href="/layanan/pembuatan-web-klinik-gigi-2.php" target="_blank"> Website Klinik Gigi </a></li>
 										</ul>
 									</li>
 									<li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem Web</a></li>
@@ -76,7 +76,6 @@
 									<li class="text-left"><a href="/layanan/penetration-test.php" target="_blank">Pengetesan Keamanan Website (Pentest) </a></li>
 									<li class="have-submenu"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital Marketing </a>
 										<ul>
-											<li><a href="/layanan/digital-marketing/optimasi-seo.php" target="_blank"> Optimasi SEO</a> </li>
 											<li><a href="/layanan/digital-marketing/jasa-seo.php" target="_blank"> Jasa SEO </a></li>
 										</ul>
 									</li>
@@ -160,7 +159,7 @@
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/slick.min.js"></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script>
+<!-- <script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script> -->
 <script>
 	$('.map-container')
 		.click(function() {

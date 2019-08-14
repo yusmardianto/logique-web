@@ -95,7 +95,30 @@ if (isset($_POST['submitted'])) {
         twq('track', 'PageView');
     </script>
     <!-- End Twitter universal website tag code -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105878648-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-105878648-1', { 'optimize_id': 'GTM-PMV6V9D'});
+    </script>
 </head>
+
+<!-- Google Analytics Content Experiment code -->
+<script>function utmx_section(){}function utmx(){}(function(){var
+k='159506621-0',d=document,l=d.location,c=d.cookie;
+if(l.search.indexOf('utm_expid='+k)>0)return;
+function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
+indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
+length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
+'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
+'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
+valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
+</script><script>utmx('url','A/B');</script>
+<!-- End of Google Analytics Content Experiment code -->
 
 <body class="dentalpage">
     <?php include '../google/tag-body.php' ?>
@@ -163,7 +186,7 @@ if (isset($_POST['submitted'])) {
             </div>
         </header>
         <div class="sticky-menu">
-                <a href="tel:+6222708935">
+                <a href="tel:022708935">
                     <div class="sticky-phone">
                         <i class="fa fa-phone"></i>
                     </div>
@@ -191,7 +214,7 @@ if (isset($_POST['submitted'])) {
             <div class="banner-content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-6 col-sm-offset-2 col-xs-10 col-xs-offset-1">
+                        <div class="col-sm-6 col-sm-offset-1 col-xs-10 col-xs-offset-1">
                             <div class="text-box">
                                 <span class="large-text">DENTISTS!</span>
                                 <p>
@@ -211,7 +234,7 @@ if (isset($_POST['submitted'])) {
             <div class="ready-to-use">
                 <div class="container">
                     <h3 class="text-center">Ready-to-use dental website with templates of your choice!</h3>
-                    <img src="assets/img/img-new-dentist/3_people.png" class="img-center img-responsive" alt="3-people" />
+                    <img src="assets/img/img-new-dentist/3_people.png" class="img-3-people img-center img-responsive" alt="3-people" />
                     <div class="can-help">
                         <img src="assets/img/img-new-dentist/logo_logique.png" alt="logo">
                         <span>CAN HELP YOU</span>
@@ -233,10 +256,10 @@ if (isset($_POST['submitted'])) {
                     </div>
                     <div class="template-slide">
                         <div>
-                            <img onclick="openModalTemplate(this)" alt="template-premium" src="assets/img/img-new-dentist/4-premium-sample.jpg" />
+                            <img onclick="openModalTemplate(this)" alt="template-teenager" src="assets/img/img-new-dentist/dental-for-teenager-sample.jpg" />
                         </div>
                         <div>
-                            <img onclick="openModalTemplate(this)" alt="template-teenager" src="assets/img/img-new-dentist/dental-for-teenager-sample.jpg" />
+                            <img onclick="openModalTemplate(this)" alt="template-premium" src="assets/img/img-new-dentist/4-premium-sample.jpg" />
                         </div>
                         <div>
                             <img onclick="openModalTemplate(this)" alt="template-kids" src="assets/img/img-new-dentist/5-kids-sample.jpg" />
@@ -274,7 +297,7 @@ if (isset($_POST['submitted'])) {
                     </div>
                     <div class="plans">
                         <div class="row">
-                            <div class="col-md-5 col-md-offset-1 col-xs-12">
+                            <div class="col-lg-4 col-lg-offset-2 col-md-5 col-md-offset-1 col-xs-12 table-1">
                                 <div class="plan-item">
                                     <h5>Basic Plan</h5>
                                     <table>
@@ -333,7 +356,7 @@ if (isset($_POST['submitted'])) {
                                 </div>
 
                             </div>
-                            <div class="col-md-5 col-xs-12">
+                            <div class="col-lg-4 col-md-5 col-xs-12 table-2">
                                 <div class="plan-item">
                                     <h5>Blog Plan</h5>
                                     <table>
@@ -391,7 +414,7 @@ if (isset($_POST['submitted'])) {
                                     </table>
                                 </div>
                             </div>
-                            <div class="marketing-fee col-xs-10 col-xs-offset-1">
+                            <div class="marketing-fee col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1 px-2">
                                 Marketing Fee (Optional) : Rp. 1.000.000 - Rp. 3.000.000
                             </div>
                         </div>
@@ -426,7 +449,7 @@ if (isset($_POST['submitted'])) {
                 </div>
                 
                 <div class="contact-info-mobile">
-                    <a href="tel:+6222708935">
+                    <a href="tel:022708935">
                         <span><i class="fa fa-phone"></i></span>
                     </a>
                     <a target="_blank" href="https://api.whatsapp.com/send?phone=62811870321&text=Halo%2C%20saya%20ingin%20bertanya%20tentang%20layanan%20website%20dental%20Logique">

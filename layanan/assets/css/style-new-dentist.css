@@ -713,12 +713,12 @@ ul.medsos-new li a {
   padding-top: 4em;
   background: url(../img/img-new-dentist/bg-top.png) no-repeat;
   background-size: cover;
-  height: 400px;
+  height: 450px;
   position: relative;
 }
 
 .text-box {
-  margin-bottom: 3em;
+  margin-bottom: 40px;
 }
 
 .text-box .large-text {
@@ -809,7 +809,7 @@ ul.medsos-new li a {
 .img-doc {
   position: absolute;
   right: 0px;
-  width: 400px;
+  width: 550px;
   height: auto;
   bottom: 0;
 }
@@ -857,11 +857,17 @@ ul.medsos-new li a {
 .ready-to-use h3 {
   padding: 2em 0;
   font-family: "dmserif";
-  letter-spacing: 1.5px;
+  letter-spacing: 1.7px;
+  font-weight: normal;
   color: #355fad;
-  font-size: 22px;
+  font-size: 25px;
   width: 80%;
   margin: 0 auto;
+}
+
+.ready-to-use .img-3-people{
+  width: 520px;
+  height: auto;
 }
 
 .img-center {
@@ -880,10 +886,16 @@ ul.medsos-new li a {
   position: relative;
   margin-bottom: 1em;
 }
+
+.can-help img{
+  width: 220px;
+  height: auto;
+}
+
 .can-help span {
-  margin-left: 1.5em;
+  margin-left: 1.7em;
   font-size: 1.4em;
-  letter-spacing: 2px;
+  letter-spacing: 2.2px;
   color: #0c337b;
   font-family: "poppins";
   font-weight: 600;
@@ -1073,11 +1085,13 @@ div.slick-list.draggable{
   font-family: "poppins";
   letter-spacing: 2.5px;
   color: #0c337b;
+  text-align: left;
 }
 
 .step-description ul li {
   list-style: disc;
   margin-left: 1.5em;
+  position: relative;
 }
 
 .modal {
@@ -1143,6 +1157,18 @@ div.slick-list.draggable{
   cursor: pointer;
 }
 
+.step-three li{
+  padding: 0.2em 0;
+}
+
+.plans .table-1{
+  padding-left: 0 !important;
+}
+
+.plans .table-2{
+  padding-right:0 !important;
+}
+
 .plans h5 {
   font-family: "dmserif";
   font-size: 30px;
@@ -1166,7 +1192,7 @@ div.slick-list.draggable{
 .plans td {
   font-family: "poppins";
   color: #0c337b;
-  padding: 0.4em 0;
+  padding: 0.7em 0;
 }
 
 .plans table tbody tr:nth-child(1),
@@ -1189,22 +1215,24 @@ div.slick-list.draggable{
 
 .plan-item {
   padding: 1em;
-  width: 90%;
-  margin: 3em auto;
+  width: 100%;
+  margin: 3em 0;
   -webkit-box-shadow: 0px 0px 5px -2px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 0px 5px -2px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 0px 5px -2px rgba(0, 0, 0, 0.75);
 }
 
+
 .marketing-fee {
   text-align: center;
-  padding: 1em 0;
+  padding: 1em;
   font-family: "poppins";
   letter-spacing: 2.7px;
   color: white;
   background: #0c337b;
   font-size: 16px;
   border-radius: 5px;
+  /* width: 75%; */
 }
 
 .message-form {
@@ -1218,10 +1246,10 @@ div.slick-list.draggable{
   color: #0c337b;
   font-family: "dmserif";
   letter-spacing: 2px;
-  font-size: 25px;
+  font-size: 30px;
   text-align: center;
   padding: 2em 0 1em;
-  width: 40%;
+  width: 30%;
   margin: 2em auto 0;
 }
 
@@ -1250,17 +1278,17 @@ div.slick-list.draggable{
 }
 
 .img-form-left {
-  width: 200px;
+  width: 300px;
   position: absolute;
   bottom: 0;
   left: 0;
 }
 
 .img-form-right {
-  width: 200px;
+  width: 350px;
   position: absolute;
   bottom: 0;
-  right: 0;
+  right: 20px;
 }
 
 .label-item {
@@ -1313,6 +1341,12 @@ textarea.form-item {
   .slick-initialized .slick-slide {
     margin-left: -50px;
   }
+  .img-form-left{
+    width: 250px;
+  }
+  .img-form-right{
+    width: 300px;
+  }
 }
 @media only screen and (max-width: 1024px) {
 }
@@ -1327,8 +1361,15 @@ textarea.form-item {
   .plans table {
     width: 100%;
   }
+  .plans .table-1,
+  .plans .table-2{
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+
   .plan-item {
     width: 70%;
+    margin: 3em auto;
   }
   .hide-mobile {
     display: none;
@@ -1340,6 +1381,9 @@ textarea.form-item {
   .slick-next {
     z-index: 5;
     top: 50% !important;
+  }
+  .message-form h5 {
+    width: 50%;
   }
 }
 
@@ -1369,6 +1413,7 @@ textarea.form-item {
   .step-description {
     width: 55%;
   }
+
 
   .can-help::before {
     width: 80%;

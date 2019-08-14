@@ -25,7 +25,7 @@ ga('send', 'pageview');
 									<li class="have-submenu"><a href="/en/services/web-dev.php" target="_blank">Web Development</a>
 										<ul>
 											<li><a href="/en/services/recruitment-web-dev.php" target="_blank"> Recruitment Website Creation</a></li>
-											<li><a href="/layanan/pembuatan-web-klinik-gigi.php" target="_blank"> Dentist Website Creation</a></li>
+											<li><a href="/layanan/pembuatan-web-klinik-gigi-2.php" target="_blank"> Dentist Website Creation</a></li>
 											<!-- <a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a> -->
 										</ul>
 									</li>
@@ -34,7 +34,7 @@ ga('send', 'pageview');
 							 	<li><a href="/en/services/penetration-test.php" target="_blank">WEB Security Assesment (Pentest)</a></li>
 								 <li class="have-submenu"><a href="/en/services/digital-marketing.php" target="_blank">Digital Marketing </a>
 									<ul>
-										<li><a href="/en/services/digital-marketing/seo-optimization.php" target="_blank"> SEO Optimization</a></li>
+										<!-- <li><a href="/en/services/digital-marketing/seo-optimization.php" target="_blank"> SEO Optimization</a></li> -->
 										<li><a href="/en/services/digital-marketing/seo-service.php" target="_blank"> SEO Service</a></li>
 										<!-- <a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a> -->
 									</ul>
@@ -109,7 +109,7 @@ ga('send', 'pageview');
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/slick.min.js"></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script>
+<!-- <script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script> -->
 <script>
 $('.map-container')
     .click(function(){

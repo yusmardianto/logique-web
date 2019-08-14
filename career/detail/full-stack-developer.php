@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Dicari Frontend Developer yang berpengalaman minimal 2 tahun dalam membuat web/sistem dengan React.js, terbiasa menggunakan EcmaScript, integrasi RESTful API, dan HTML5/CSS3, jQuery. Lebih disukai jika menguasai Ionic, Angular, Node JS. Salary negotiable">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, Front end developer, frontend developer, indonesia, RESTful API, Redux / Flux, pwa,  html, css, expressJS, mongoDB, ionic, angular, node JS, jquery, ecmascript, react js, Jogya, Yogyakarta, coding, website, aplikasi, sistem, bootstrap, foundation, material UI">
+    <meta name="description" itemprop="description" content="Dicari Full Stack Developer yang tersertifikasi sebagai CEH dan CSCU yang mampu mengevaluasi hasil VATest / Pentest, mengimplementasi dan merekomendasikan tindakan preventif. Diutamakan pemahaman kode etik hacking, thread modelling, commercial mapping, penetration testing web, app, dan network.">
+	<meta name="keywords" content="lowongan, kerja, jakarta, yogyakarta, remote job jakarta, kerja remote jakarta, indonesia, web security, specialist, certified ethical hacker, certified secure computer user, ec council, information security architecture, penetration testing, thread modelling tool, commercial mapping, open source modelling tool, penetration system testing, web based app, aplikasi web based, networking, network security, working independently, hacking code of ethics, kode etik hacking, scripting, CEH, CSCU, vatest, pentest, preventive measure, API, Yogya">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Dicari Frontend Developer yang berpengalaman dengan React.js, terbiasa menggunakan EcmaScript, integrasi RESTful API, dan HTML/CSS. Segera daftarkan diri anda di LOGIQUE.">
+	<meta property="og:description" content="Tertarik dan berpengetahuan yang baik dalam bidang pembuatan website, web sistem, atau aplikasi mobile? Bisa bekerja dibawah tekanan dan berkoordinasi dengan baik? Bergabunglah dengan PT LOGIQUE sebagai Pre-sales Consultant.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Lowongan - Front End</title>
+    <title>Lowongan - Full Stack Developer</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -120,7 +120,7 @@
 									<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/career"><span itemprop="name">Karir</span></a><meta itemprop="position" content="1" /></li>
-										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Front End Developer<meta itemprop="position" content="2" /></li>
+										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Full Stack Developer<meta itemprop="position" content="2" /></li>
 									</ol>
 								</div>
 							</div>
@@ -131,11 +131,11 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-6 text-center">
-									<h1><img src="/img/career/fe.png" style="filter: contrast(0%) brightness(150%);"> Front End Developer</h1>
+									<h1><img src="/img/career/consultant.png" style="filter: contrast(0%) brightness(150%);"> Full Stack Developer</h1>
 								</div>
-								<!-- <div class="col-md-6 text-center">
+								<div class="col-md-6 text-center">
 									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
-								</div> -->
+								</div>
 							</div>
 						</div>
 					</div>
@@ -145,61 +145,49 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
+									<b class="getN">Job Description:</b><br>
+									<ul class="joinus-ul">
+									<li>Melakukan monitoring terhadap progress proyek agar berjalan sesuai dengan timeline dan kebutuhan klien.</li>
+									<li>Melakukan perancangan, pengujian, pemeliharaan dan pengembangan Web sesuai dengan kebutuhan klien.</li>
+									<li>Melakukan analisa masalah serta mengumpulkan kebutuhan untuk mencari solusi teknis yang tepat dan efektif.</li>
+									<li>Melakukan dokumentasi terhadap alur pengembangan dan revisi aplikasi web.</li>
+									<li>Melakukan integrasi data dari Back End dan database.</li>
+									<li>Bekerja sama dengan divisi lain lain untuk membangun UI/UX yang dibutuhkan secara efektif.</li>
+									<li>Membangun kode yang terstruktur dan dapat digunakan kembali untuk kemudahan pengembangan atau perubahan di masa depan</li>
+									</ul><br>
+									<b class="getN">Must Skill/Experience:</b><br>
+									<ul class="joinus-ul">
+									<li>Memiliki gelar pendidikan D3/S1 di bidang IT, atau lainnya yang relevan.</li>
+									<li>Memiliki pengalaman  lebih dari 1 tahun sebagai Full<li>Stack.</li>
+									<li>Memiliki pemahaman yang mendalam tentang frameworks PHP seperti Laravel, Cake PHP, atau sejenisnya.</li>
+									<li>Mampu menggunakan atau membuat RESTful API dengan baik.</li>
+									<li>Mampu menggunakan  HTML, CSS, Javascript, atau sejenis untuk pembuatan user interface pada website.</li>
+									</ul><br>
+									<b class="getN">Required skill:</b><br>
+									<ul class="joinus-ul">
+									<li>Memiliki kemampuan pemecahan masalah yang baik dan efisien.</li>
+									<li>Mampu bekerja dalam tekanan dan deadline sesuai dengan kebutuhan klien.</li>
+									<li>Berpengalaman dalam pembuatan WEB/Sistem</li>
+									</ul><br>
+									<b class="getN">Preferable</b><br>
+									<ul class="joinus-ul">
+									<li>Mampu bekerja sama dalam tim maupun individu.</li>
+									<li>Dapat melakukan kerja sama secara efektif dengan divisi lain.</li>
+									<li>Dapat bekeja dengan teliti  dan timely manner.</li>
+									<li>High motivated and initiative person.</li>
+									</ul><br>
+									<b class="getN">Rewards dan Worthwhile</b><br>
+									<ul class="joinus-ul">
+									<li>Menangani berbagai macam jenis proyek dengan kebutuhan yang berbeda-beda.</li>
+									</ul><br>
+									<b class="getN">Location</b><br>
+									<ul class="joinus-ul">
+									<li>Jakarta</li>
+									</ul><br>
 										<div class="div-job desc-job">
-										<b class="getN">Job Description </b><br>
-										<ul class="joinus-ul">
-										<li>Memanfaatkan HTML, CSS, Javascript, atau bahasa pemrograman terkait tampilan lainnya untuk mengembangkan user interface yang efektif pada website dan aplikasi.</li>
-										<li>Bekerja sama dan berkolaborasi dengan tim developer dan desainer untuk membuat, memperbarui, atau memperbaiki UI/UX website dan aplikasi.</li>
-										<li>Memberikan kualitas hasil terbaik dan tepat waktu sesuai dengan teknologi UI/UX terkini dan/atau yang sesuai dengan kebutuhan proyek.</li>
-										<li>Memastikan kompatibilitas browser atau ukuran layar pada halaman-halaman website dan aplikasi yang dihasilkan.</li>
-										<li>Membuat kode yang terstruktur dan dapat digunakan kembali untuk kemudahan pengembangan atau perubahan di masa depan</li>
-										<li>Memonitor dan mengoptimalkan performa website atau aplikasi dari sisi front-end.</li>
-										<li>Berkomunikasi langsung dengan klien terkait UI/UX jika diperlukan.</li>
-										</ul>
-										<br>
-										<b class="getN">Persyaratan</b><br>
-										<ul class="joinus-ul">
-										<li>Berpendidikan minimal D3 dan berpengalaman minimal 2 tahun di bidang IT atau programmer</li>
-										<li>Berpengalaman dalam pembuatan WEB/Sistem </li>
-										<li>Pengalaman dalam coding PSD ke HTML-CSS </li>
-										<li>Mampu membuat responsive website</li>
-										<li>Mengenal proses pengembangan website dengan baik.</li>
-										<li>Dapat belajar secara cepat dan mandiri</li>
-										<li>Mampu bekerja dengan tim antar divisi</li>
-										<li>Mampu beradaptasi dengan cepat dalam penggunaan teknologi baru </li>
-										</ul>
-										<br>
-										<b class="getN">Required Skill</b><br>
-										<ul class="joinus-ul">
-										<li>Memahami basic bahasa pemrograman PHP</li>
-										<li>HTML 5</li>
-										<li>CSS 3 ( Bootstrap, Foundation, Material UI )</li>
-										<li>JavaScript ( JQuery)</li>
-										</ul>
-										<br>
-										<b class="getN">Preferable </b><br>
-										<ul class="joinus-ul">
-										<li>Additional Skill: React JS, Ionic, Angular, Node JS, </li>
-										<li>Mempunyai minat yang besar terhadap bisnis Internet dan Web.</li>
-										<li>Memahami pembuatan template wordpress </li>
-										</ul>
-										<br>
-										<b class="getN">Rewards and worthwhile</b><br>
-										<ul class="joinus-ul">
-										<li>Menambah pengetahuan dan pengalaman tentang technology baru dalam front end development</li>
-										<li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya)</li>
-										</ul>
-										<br>
-										<b class="getN">Location</b><br>
-										<ul class="joinus-ul">
-										<li>Jakarta</li>
-										<li>Yogya</li>
-										<li>Remote Working</li>
-										</ul>
-										<br>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Front-End-Apply-Button', 'Action-Click', 'Front-End-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
