@@ -68,7 +68,7 @@
 									<li class="have-submenu"><a href="/layanan/web-dev.php" target="_blank">Jasa Pembuatan Website</a>
 										<ul>
 											<li><a href="/layanan/pembuatan-web-karir.php" target="_blank"> Pembuatan Website Career</a> </li>
-											<li><a href="/layanan/pembuatan-web-klinik-gigi.php" target="_blank"> Website Klinik Gigi </a></li>
+											<li><a href="/layanan/pembuatan-web-klinik-gigi-2.php" target="_blank"> Website Klinik Gigi </a></li>
 										</ul>
 									</li>
 									<li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem Web</a></li>
