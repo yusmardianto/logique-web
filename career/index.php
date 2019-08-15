@@ -866,13 +866,13 @@
 									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
 										<img src="/img/career/consultant.png" />
-										<h3>Inside Sales</h3>
+										<h3>Sales Admin</h3>
 										<div class="boxfull" style="background: #e60000; ">Internship</div>
 									</div>
 									<div class="panel-footer">
 									<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/intern-inside-sales.php">Detail</a>
+											<a class="btn btn-detail" href="detail/intern-sales-admin.php">Detail</a>
 										</div>
 									</div>
 								</div>
