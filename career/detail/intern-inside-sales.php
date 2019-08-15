@@ -161,8 +161,7 @@
 										<b class="getN">Must Skill/Experience </b><br>
 										<ul class="joinus-ul">
 										<li>Memiliki gelar minimal D3/S1 di bidang Bisnis/Marketing/IT, atau lainnya yang relevan</li>
-										<li>Memiliki minimal 2 tahun pengalaman di bidang yang sejenis</li>
-										<li>Memahami proses dan dinamika dunia sales.</li>
+										<li>Memiliki minat untuk mendalami proses dan dinamika dunia sales.</li>
 										<li>Mampu bekerja sesuai target.</li>
 										<li>Memiliki komitmen yang tinggi pada kualitas pelayanan untuk client/customer</li>
 										<li>Memiliki keahlian interpersonal yang luar biasa, termasuk ketangkasan dalam membangun hubungan baik dengan client/customer</li>
@@ -188,7 +187,6 @@
 										<li>Prospek karier menarik</li>
 										<li>Meningkatkan kepercayaan diri dan kemampuan komunikasi</li>
 										<li>Terbiasa untuk menggunakan digital tools</li>
-										<li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya)</li>
 										</ul>
 										<br>
 										<b class="getN">Location</b><br>

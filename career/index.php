@@ -565,13 +565,13 @@
 									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
 										<img src="/img/career/consultant.png" />
-										<h3>Full Stack Developer</h3>
+										<h3>Product Developer</h3>
 										<div class="boxfull">Fulltime</div>
 									</div>
 									<div class="panel-footer">
 										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/full-stack-developer.php">Detail</a>
+											<a class="btn btn-detail" href="detail/product-developer.php">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -694,38 +694,6 @@
 										<p></p>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/project-manager.php">Detail</a>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3" data-name="10">
-								<div class="panel panel-default">
-									<div class="panel-body">
-										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
-										<img src="/img/career/pm.png" />
-										<h3 style="font-size:20px;">Intern HR</h3>
-										<div class="boxfull" style=" background: #e60000; ">Internship</div>
-									</div>
-									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
-										<div class="text-center">
-											<a class="btn btn-detail" href="detail/intern-hr.php">Detail</a>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3" data-name="10">
-								<div class="panel panel-default">
-									<div class="panel-body">
-										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-										<img src="/img/career/consultant.png" />
-										<h3>Intern Inside Sales</h3>
-										<div class="boxfull" style="background: #e60000; ">Internship</div>
-									</div>
-									<div class="panel-footer">
-										<p></p>
-										<div class="text-center">
-											<a class="btn btn-detail" href="detail/intern-inside-sales.php">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -873,6 +841,56 @@
 								</div>
 								<div class="col-md-4 text-center">
 									<a class="btn btn-lihat-keseharian" href="/career/intern">Lihat Keseharian Magang di LOGIQUE</a>
+								</div>
+							</div>
+						</div>
+							<div class="row">
+							<div class="col-md-3" data-name="10">
+								<div class="panel panel-default">
+									<div class="panel-body">
+										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+										<img src="/img/career/pm.png" />
+										<h3 style="font-size:20px;">HR/GA</h3>
+										<div class="boxfull" style=" background: #e60000; ">Internship</div>
+									</div>
+									<div class="panel-footer">
+										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="text-center">
+											<a class="btn btn-detail" href="detail/intern-hr.php">Detail</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3" data-name="10">
+								<div class="panel panel-default">
+									<div class="panel-body">
+										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+										<img src="/img/career/consultant.png" />
+										<h3>Inside Sales</h3>
+										<div class="boxfull" style="background: #e60000; ">Internship</div>
+									</div>
+									<div class="panel-footer">
+									<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="text-center">
+											<a class="btn btn-detail" href="detail/intern-inside-sales.php">Detail</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3" data-name="10">
+								<div class="panel panel-default">
+									<div class="panel-body">
+										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+										<img src="/img/career/consultant.png" />
+										<h3>Sales IT Product</h3>
+										<div class="boxfull" style="background: #e60000; ">Internship</div>
+									</div>
+									<div class="panel-footer">
+										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="text-center">
+											<a class="btn btn-detail" href="detail/intern-sales-it.php">Detail</a>
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>

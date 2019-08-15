@@ -3676,6 +3676,7 @@ margin-left: 60px;
     background: url(../img/career/bottom.png);
     padding: 1.3em 2em;
     margin-top: 2em;
+    margin-bottom: 5em;
 }
 
 .csection7 .btn-lihat-keseharian {
@@ -4059,6 +4060,7 @@ ol.breadcrumb li a:hover {
     .csection5 .box-visi p {font-size: 14px;}
     .csection5 .margin_{height: auto;}
     .career-new .csection7 {padding: 1em 0;}
+    .csection7 .bg-lowongan {margin-bottom: 1em;}
     .csection6 h1 {font-size: 20px;}
     .csection7 .panel-body img {margin-top: 0;}
     .box-faq h3 {line-height: 1;}
