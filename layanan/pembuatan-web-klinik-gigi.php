@@ -874,6 +874,10 @@ if (isset($_POST['submitted'])) {
 			</div>
 		</footer>
 	</div>
+	<script src="/js/jquery-3.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<script src="/js/slick.min.js"></script>
+	<script src='https://www.google.com/recaptcha/api.js'></script>
 	<script>
 		$(function() {
 			$('.smooth').click(function() {
