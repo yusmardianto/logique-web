@@ -663,29 +663,57 @@
   										<div class="grey-clr">モバイル最適化, キャンペーンページ, 保険</div>
   									</div>
   								</div>
-                  <div class="col-sm-4">
-                    <a href="https://www.kbrprime.id/" target="_blank" rel="noreferrer">
-                      <img src="/img/portfolio/KBR_ID.png" alt="KBR_ID" class="img-responsive center-block">
-                      KBR
-                    </a>
-                  </div>
-                  <div class="clearfix"></div>
-                  <div class="col-sm-4">
-                    <a href="https://unitedconcepts.com/" target="_blank" rel="noreferrer">
-                      <img src="/img/portfolio/royal-amanda.png" alt="Royal Amanda" class="img-responsive center-block">
-                      Royal Amanda
-                    </a>
-                  </div>
+							    <div class="col-sm-4">
+								  <a href="https://www.kbrprime.id/" target="_blank" rel="noreferrer">
+								    <img src="/img/portfolio/KBR_ID.png" alt="KBR_ID" class="img-responsive center-block">
+								    KBR
+								  </a>
+							    </div>
+							    <div class="clearfix"></div>
+							    <div class="col-sm-4">
+								  <a href="https://unitedconcepts.com/" target="_blank" rel="noreferrer">
+								    <img src="/img/portfolio/royal-amanda.png" alt="Royal Armada" class="img-responsive center-block">
+								    Royal Armada
+								  </a>
+							    </div>
+							    <div class="col-sm-4">
+									<a href="https://premium-garansi.co.id/" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/premiumgaransi.jpg" alt="Premium Garansi" class="img-responsive center-block">
+										Premium-Garansi.co.id
+									</a>
+									<div class="addition-desc text-left">
+										Webページ制作 (コーディング | CMS)
+										<div class="grey-clr">モバイル最適化, CMS, コーポレートWeb</div>
+									</div>
 								</div>
+								<div class="col-sm-4">
+									<img src="/img/portfolio/ligohome.jpg" alt="Premium Garansi" class="img-responsive center-block">
+									LIGO-Home
+									<div class="addition-desc text-left">
+										Webページ制作 (デザイン | コーディング | CMS)
+										<div class="grey-clr">モバイル最適化, CMS, コーポレートWeb</div>
+									</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="col-sm-4">
+									<a href="https://www.otomart.id/oto-garansi.html" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/otogaransi.jpg" alt="OTO-Garansi Campaign Page" class="img-responsive center-block">
+										OTO-Garansi Campaign Page
+									</a>
+									<div class="addition-desc text-left">
+										Webページ制作 (デザイン | コーディング)
+										<div class="grey-clr">モバイル最適化, CMS, キャンペーンページ</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					<center>
 
-						 </div>
-							<center>
+						<a  class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse" href="#hide-portfolio" >
+						Web・ホームページ制作実績をもっとみる</a>
+					</center>
 
-								<a  class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse" href="#hide-portfolio" >
-								Web・ホームページ制作実績をもっとみる</a>
-							</center>
-
-					 	</div>
+				</div>
 
 
 
@@ -1128,21 +1156,21 @@
 									Opus Park (Facebook)<br>
 									<div class="addition-desc text-center">
 										<small class="text-muted">(Google Ads, FB/IG Ads, SNS Operation, SEO Website)</small>
-									</div>
+									</div><br/>
 								</div>
 								<div class="col-sm-4">
 									<img src="/img/portfolio/mason-de-res.jpg" alt="Mason de Res - (Facebook)" class="img-responsive center-block">
 									Mason de Res - (Facebook)
 									<div class="addition-desc text-center">
 										<small class="text-muted">(Google Ads, SNS Operation, SEO Website, Articles)</small>
-									</div>
+									</div><br/>
 								</div>
 								<div class="col-sm-4">
 									<img src="/img/portfolio/ajapan-sosmed.png" alt="Ajapan Dance Instagram Competition - Waku Waku Japan" class="img-responsive center-block">
 									Ajapan Dance Instagram Competition - Waku Waku Japan
 									<div class="addition-desc text-center">
 										<small class="text-muted">(IG Ads, SNS Operation)</small>
-									</div>
+									</div><br/>
 								</div>
 								<div class="clearfix"></div>
 								<div class="col-sm-4">
@@ -1150,7 +1178,7 @@
 									日本インドネシア国交樹立60周年記念事業
 									<div class="addition-desc text-center">
 										<small class="text-muted">(SNSマーケティング, フェイスブック広告, インスタグラム広告, Youtube広告, ソーシャルメディア)</small>
-									</div>
+									</div><br/>
 								</div>
 								<div class="col-sm-4">
 									<div class="mobile-app-container">
@@ -1160,14 +1188,29 @@
 									在インドネシア日本国大使館
 									<div class="addition-desc text-center">
 										<small class="text-muted">(SNSマーケティング, SNS運用, SNS広告, インスタグラム広告, フェイスブック広告, ソーシャルメディア)</small>
-									</div>
+									</div><br/>
 								</div>
 								<div class="col-sm-4">
 									<img src="/img/portfolio/azalea.png" alt="Azalea Suites" class="img-responsive center-block">
 									Azalea Suites
 									<div class="addition-desc text-center">
 										<small class="text-muted">(SEO対策、コンテンツ制作、ページ速度、検索順位)</small>
-									</div>
+									</div><br/>
+								</div>
+								<div class="clearfix"></div>
+								<div class="col-sm-4">
+									<img src="/img/portfolio/tsubame.jpg" alt="Tsubame Japanese School" class="img-responsive center-block">
+									Tsubame Japanese School
+									<div class="addition-desc text-center">
+										<small class="text-muted">(SEO, UX/UI, page speed, search rank)</small>
+									</div><br/>
+								</div>
+								<div class="col-sm-4">
+									<img src="/img/portfolio/kbj.jpg" alt="KBJ" class="img-responsive center-block">
+									KBJ
+									<div class="addition-desc text-center">
+										<small class="text-muted">(Google Ads, Facebook Ads, Instagram Ads, SEO, UX/UI, page speed, search rank)</small>
+									</div><br/>
 								</div>
 							</div>
 						</div>

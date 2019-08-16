@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Dicari Full Stack Developer yang tersertifikasi sebagai CEH dan CSCU yang mampu mengevaluasi hasil VATest / Pentest, mengimplementasi dan merekomendasikan tindakan preventif. Diutamakan pemahaman kode etik hacking, thread modelling, commercial mapping, penetration testing web, app, dan network.">
-	<meta name="keywords" content="lowongan, kerja, jakarta, yogyakarta, remote job jakarta, kerja remote jakarta, indonesia, web security, specialist, certified ethical hacker, certified secure computer user, ec council, information security architecture, penetration testing, thread modelling tool, commercial mapping, open source modelling tool, penetration system testing, web based app, aplikasi web based, networking, network security, working independently, hacking code of ethics, kode etik hacking, scripting, CEH, CSCU, vatest, pentest, preventive measure, API, Yogya">
+    <meta name="description" itemprop="description" content="Multinasional Digital Agency membuka lowongan Sales Admin yang handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital. Berpengalaman minimal 2 tahun, mampu bekerja sesuai target dan customer oriented. Salary negotiable">
+	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta,  networking, marketing, quality assurance, ui, ux, ui/ux, ab testing, a/b testing, pengujian produk, Git, JIRA, Mantis, TestRail, API test, mysql, postgres, linux, windows, software design, Engineering Computer Science, siklus QA, metodologi QA, documentation, problem solving, product execution, analysis, end user script, pengujian skenario, app performance testing">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Lowongan - Intern Sales Admin">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Tertarik dan berpengetahuan yang baik dalam bidang pembuatan website, web sistem, atau aplikasi mobile? Bisa bekerja dibawah tekanan dan berkoordinasi dengan baik? Bergabunglah dengan PT LOGIQUE sebagai Pre-sales Consultant.">
+	<meta property="og:description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Sales Admin">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Lowongan - Full Stack Developer</title>
+    <title>Lowongan - Intern Sales Admin</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -26,12 +26,12 @@
     </head>
 	<body>
 		<div class="wrapper">
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -89,15 +89,15 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
 				<img id="bgvid" alt="bg video" style="width:100%" src="/img/video-img.png"/>
 			</div>
 
-			
+
 			<br/>
-			
+
 			<div id="contentsArea" class="career-new detailcareer">
 				<div id="contents">
 					<style type="text/css">.modal-open .modal{background: rgba(255, 255, 255, .8)!important;}</style>
@@ -120,21 +120,21 @@
 									<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/career"><span itemprop="name">Karir</span></a><meta itemprop="position" content="1" /></li>
-										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Full Stack Developer<meta itemprop="position" content="2" /></li>
+										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Intern Sales Admin<meta itemprop="position" content="2" /></li>
 									</ol>
 								</div>
 							</div>
 						</div>
 					</div>
-	
+
 					<div class="csection6 detailcareer1"  id="detail-vacancy">
 						<div class="container">
 							<div class="row">
 								<div class="col-md-6 text-center">
-									<h1><img src="/img/career/consultant.png" style="filter: contrast(0%) brightness(150%);"> Full Stack Developer</h1>
+									<h1><img src="/img/career/accounting.png" style="filter: contrast(0%) brightness(150%);"> Intern Sales Admin</h1>
 								</div>
 								<div class="col-md-6 text-center">
-									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
+									<!-- <a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a> -->
 								</div>
 							</div>
 						</div>
@@ -145,46 +145,55 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-									<b class="getN">Job Description:</b><br>
-									<ul class="joinus-ul">
-									<li>Melakukan monitoring terhadap progress proyek agar berjalan sesuai dengan timeline dan kebutuhan klien.</li>
-									<li>Melakukan perancangan, pengujian, pemeliharaan dan pengembangan Web sesuai dengan kebutuhan klien.</li>
-									<li>Melakukan analisa masalah serta mengumpulkan kebutuhan untuk mencari solusi teknis yang tepat dan efektif.</li>
-									<li>Melakukan dokumentasi terhadap alur pengembangan dan revisi aplikasi web.</li>
-									<li>Melakukan integrasi data dari Back End dan database.</li>
-									<li>Bekerja sama dengan divisi lain lain untuk membangun UI/UX yang dibutuhkan secara efektif.</li>
-									<li>Membangun kode yang terstruktur dan dapat digunakan kembali untuk kemudahan pengembangan atau perubahan di masa depan</li>
-									</ul><br>
-									<b class="getN">Must Skill/Experience:</b><br>
-									<ul class="joinus-ul">
-									<li>Memiliki gelar pendidikan D3/S1 di bidang IT, atau lainnya yang relevan.</li>
-									<li>Memiliki pengalaman  lebih dari 1 tahun sebagai Full<li>Stack.</li>
-									<li>Memiliki pemahaman yang mendalam tentang frameworks PHP seperti Laravel, Cake PHP, atau sejenisnya.</li>
-									<li>Mampu menggunakan atau membuat RESTful API dengan baik.</li>
-									<li>Mampu menggunakan  HTML, CSS, Javascript, atau sejenis untuk pembuatan user interface pada website.</li>
-									</ul><br>
-									<b class="getN">Required skill:</b><br>
-									<ul class="joinus-ul">
-									<li>Memiliki kemampuan pemecahan masalah yang baik dan efisien.</li>
-									<li>Mampu bekerja dalam tekanan dan deadline sesuai dengan kebutuhan klien.</li>
-									<li>Berpengalaman dalam pembuatan WEB/Sistem</li>
-									</ul><br>
-									<b class="getN">Preferable</b><br>
-									<ul class="joinus-ul">
-									<li>Mampu bekerja sama dalam tim maupun individu.</li>
-									<li>Dapat melakukan kerja sama secara efektif dengan divisi lain.</li>
-									<li>Dapat bekeja dengan teliti  dan timely manner.</li>
-									<li>High motivated and initiative person.</li>
-									</ul><br>
-									<b class="getN">Rewards dan Worthwhile</b><br>
-									<ul class="joinus-ul">
-									<li>Menangani berbagai macam jenis proyek dengan kebutuhan yang berbeda-beda.</li>
-									</ul><br>
-									<b class="getN">Location</b><br>
-									<ul class="joinus-ul">
-									<li>Jakarta</li>
-									</ul><br>
 										<div class="div-job desc-job">
+										<b class="getN">Job Description:</b><br>
+										<ul class="joinus-ul">
+										<li>Mengembangkan dan memperluas jaringan client/customer perusahaan melalui strategi networking dan marketing dengan berbagai instansi, grup, komunitas, dan perusahaan.</li>
+										<li>Menemukan dan membangun relasi yang baik dengan client/customer baru maupun yang sudah ada.</li>
+										<li>Melakukan telepon dengan calon client/customer, serta menindaklanjuti proposal dan penawaran kepada client/customer</li>
+										<li>Membuat laporan mingguan untuk mengetahui kemajuan target sales serta mendokumentasikan performa sales</li>
+										<li>Menjawab pertanyaan, menjelaskan manfaat, dan membahas pro dan kontra berbagai produk atau layanan perusahaan</li>
+										<li>Mampu bekerja sama dengan departemen lainnya</li>
+										<li>Mampu mencapai target sales secara individu</li>
+										</ul>
+										<br>
+
+										<b class="getN">Must Skill/Experience </b><br>
+										<ul class="joinus-ul">
+										<li>Memiliki gelar minimal D3/S1 di bidang Bisnis/Marketing/IT, atau lainnya yang relevan</li>
+										<li>Memiliki minat untuk mendalami proses dan dinamika dunia sales.</li>
+										<li>Mampu bekerja sesuai target.</li>
+										<li>Memiliki komitmen yang tinggi pada kualitas pelayanan untuk client/customer</li>
+										<li>Memiliki keahlian interpersonal yang luar biasa, termasuk ketangkasan dalam membangun hubungan baik dengan client/customer</li>
+										</ul>
+										<br>
+
+										<b class="getN">Required Skill</b><br>
+										<ul class="joinus-ul">
+										<li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik</li>
+										<li>Multitasking </li>
+										<li>Terbiasa menggunakan software komputer basic seperti Ms. Word, Excel, Power Point, dsb. untuk berbagai tugas</li>
+										</ul>
+										<br>
+
+										<b class="getN">Preferable </b><br>
+										<ul class="joinus-ul">
+										<li>Bahasa Inggris</li>
+										</ul>
+										<br>
+
+										<b class="getN">Rewards and worthwhile</b><br>
+										<ul class="joinus-ul">
+										<li>Prospek karier menarik</li>
+										<li>Meningkatkan kepercayaan diri dan kemampuan komunikasi</li>
+										<li>Terbiasa untuk menggunakan digital tools</li>
+										</ul>
+										<br>
+										<b class="getN">Location</b><br>
+										<ul class="joinus-ul">
+										<li>Jakarta</li>
+										</ul>
+										<br>
 											<div class="text-center">
 											<br>
 												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer">Apply</a>
@@ -225,9 +234,9 @@
 				// Random Recent Vacancy
 				var randomdiv = Math.floor(Math.random() * $('.itemdiv').length);
 				$('.itemdiv').hide().eq(randomdiv).show();
-				
+
 			</script>
-			
+
 		</div>
 	</body>
 </html>

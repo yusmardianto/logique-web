@@ -7,14 +7,14 @@
     <meta name="description" itemprop="description" content="Multinasional Digital Agency membuka lowongan Inside Sales yang handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital. Berpengalaman minimal 2 tahun, mampu bekerja sesuai target dan customer oriented. Salary negotiable">
 	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta,  networking, marketing, quality assurance, ui, ux, ui/ux, ab testing, a/b testing, pengujian produk, Git, JIRA, Mantis, TestRail, API test, mysql, postgres, linux, windows, software design, Engineering Computer Science, siklus QA, metodologi QA, documentation, problem solving, product execution, analysis, end user script, pengujian skenario, app performance testing">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Lowongan - Intern HR/GA">
+    <meta property="og:title" content="Lowongan - Intern Sales IT Product">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Inside Sales">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Lowongan - Intern HR/GA</title>
+    <title>Lowongan - Sales IT Product</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -120,7 +120,7 @@
 									<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/career"><span itemprop="name">Karir</span></a><meta itemprop="position" content="1" /></li>
-										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Intern HR/GA<meta itemprop="position" content="2" /></li>
+										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Sales IT Product<meta itemprop="position" content="2" /></li>
 									</ol>
 								</div>
 							</div>
@@ -131,7 +131,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-6 text-center">
-									<h1><img src="/img/career/pm.png" style="filter: contrast(0%) brightness(150%);"> Intern HR/GA</h1>
+									<h1><img src="/img/career/pm.png" style="filter: contrast(0%) brightness(150%);"> Sales IT Product</h1>
 								</div>
 								<div class="col-md-6 text-center">
 									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
@@ -148,47 +148,48 @@
 										<div class="div-job desc-job">
 										<b class="getN">Job Description:</b><br>
 										<ul class="joinus-ul">
-										<li>Melakukan dokumentasi terhadap pekerjaan karyawan setiap hari.</li>
-										<li>Melakukan kegiatan administrasi terkait dengan HR dan GA</li>
-										<li>Melakukan kegiatan surat-menyurat elektronik kepada klien.</li>
-										<li>Merencanakan kegiatan outing per bulan.</li>
-										<li>Terlibat dalam pengelolaan dan pembaharuan dokumen dalam lingkup HR (peraturan perusahaan, kontrak karyawan, dan penawaran kerja)</li>
-										<li>Memonitoring penggunaan HR Tools </li>
+										<li>Merencanakan perkembangan dalam proses penjualan produk.</li>
+										<li>Berkomunikasi dengan potensial klien dan klien dengan tujuan meningkatkan penjualan produk.</li>
+										<li>Memberikan masukan terhadap perkembangan produk sesuai kebutuhan dan memberikan bantuan dalam proses penerapan.</li>
+										<li>Membuat laporan terkait penjualan dan peningkatan kualitas produk.</li>
 										</ul>
 										<br>
 
 										<b class="getN">Must Skill/Experience </b><br>
 										<ul class="joinus-ul">
-										<li>Memiliki ijazah atau sedang menempuh pendidikan D3/S1 Psikologi, Manajemen, Administrasi.</li>
-										<li>Memiliki kemampuan interpersonal yang baik.</li>
-										<li>Mampu melakukan Multitasking dengan baik.</li>
-										<li>Mahir mengoperasikan Ms. Office.</li>
+										<li>Segala jurusan, diutamakan Bisnis/ Pemasaran.</li>
+										<li>Menyukai dan mengikuti segala hal tentang teknologi.</li>
+										<li>Memiliki sikap dan motivasi yang tinggi terhadap sebuah tujuan.</li>
+										<li>Mudah di arahkan, beradaptasi dan dalam berkomunikasi dengan orang lain.</li>
+										<li>Mengikuti perkembangan zaman.</li>
+										<li>Self-learner and self-mover.</li>
+										<li>Mempunyai semangat yang tinggi dan kemampuan analis yang baik.</li>
 										</ul>
 										<br>
 
 										<b class="getN">Required Skill</b><br>
 										<ul class="joinus-ul">
-										<li>Memiliki inisiatif dan minat belajar yang tinggi</li>
-										<li>Memiliki jiwa disiplin, kerja keras, dan bekerja sama dengan tim maupun individu.</li>
-										<li>Mampu belajar dengan cepat (fast learner).</li>
+										<li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik.</li>
+										<li>Multitasking.</li>
+										<li>Terbiasa menggunakan software komputer basic seperti Ms. Word, Excel, Power Point, dsb. untuk berbagai tugas.</li>
 										</ul>
 										<br>
 
 										<b class="getN">Preferable </b><br>
 										<ul class="joinus-ul">
-										<li>Memiliki kendaraan (motor) pribadi.</li>
-										<li>Dapat berkomitmen menjalankan internship selama 6 bulan.</li>
+										<li>Bahasa Inggris.</li>
 										</ul>
 										<br>
 
 										<b class="getN">Rewards and worthwhile</b><br>
 										<ul class="joinus-ul">
-										<li>Pekerjaan mencakup berbagai macam bidang dan client.</li>
+										<li>Prospek karier menarik.</li>
+										<li>Meningkatkan kepercayaan diri dan kemampuan komunikasi.</li>
+										<li>Terbiasa untuk menggunakan digital toolsLocation.</li>
 										</ul>
 										<br>
 										<b class="getN">Location</b><br>
 										<ul class="joinus-ul">
-										<li>Yogyakarta</li>
 										<li>Jakarta</li>
 										</ul>
 										<br>
