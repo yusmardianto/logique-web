@@ -153,6 +153,10 @@
 									<li>Melakukan riset serta studi dari berbagai sumber secara berkelanjutan serta merekomendasikan tindakan preventif.</li>
 									<li>Melakukan analisis resiko keamanan dalam cakupan system secara menyeluruh.</li>
 									<li>Membuat dokumentasi security yang akurat </li>
+									<li>Memahami kebutuhan pelanggan dan tujuan bisnis terkait bidang IT Security</li>
+									<li>Melakukan persentasi kepada potensial klien atau klien terkait dengan service ITsecurity</li>
+									<li>Berkolaborasi dengan partner terkait dengan bisnis IT security</li>
+									
 									</ul><br>
 									<b class="getN">Must Skill/Experience:</b><br>
 									<ul class="joinus-ul">
@@ -169,11 +173,17 @@
 									<ul class="joinus-ul">
 									<li>Memiliki pemahaman yang baik mengenai network protocol</li>
 									<li>Memahami kode etik dalam hacking.</li>
-									<li>Memiliki kemampuan presentasi yang baik kepada pihak profesional (non IT) Preferable</li>
+									<li>Memiliki kemampuan presentasi yang baik kepada pihak profesional (non IT)</li>
+									</ul><br>
+									<b class="getN">Preferable</b><br>
+									<ul class="joinus-ul">
 									<li>Memiliki kemampuan scripting dan pengalaman programming</li>
 									<li>Kemampuan scripting dan pengalaman reverse engineering</li>
-									<li>Berpengalaman dalam bidang consulting dan dapat menunjukkan keahlian dalam memahami kebutuhan klien, membangun hubungan dengan klien Rewards dan Worthwhile</li>
-									<li>Anda akan merasa tertantang untuk mengetahui seberapa aman kah web atau aplikasi</li>
+									<li>Berpengalaman dalam bidang consulting dan dapat menunjukan keahlian dalam memahami kebutuhan klien, membangun hubungan dengan klien</li>
+									</ul><br>
+									<b class="getN">Rewards dan Worthwhile</b><br>
+									<ul class="joinus-ul">
+									<li>Anda akan merasa tertantang untuk mengetahui seberapa aman kah web atau aplikasi </li>
 									<li>Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang dihadapi.</li>
 									</ul><br>
 									<b class="getN">Location</b><br>
