@@ -437,12 +437,12 @@ if (isset($_POST['submitted'])) {
                         <h5>CONSULT</h5>
                         <p>If you have these problems, you probably need a website.</p>
                         <ul>
-                            <li><small>It's hard to get new patiens</small></li>
-                            <li><small>High competition between dental clinics</small></li>
+                            <li><small>It's hard to get new patients</small></li>
+                            <li><small>High competition among dental clinics</small></li>
                             <li><small>Inadequate clinical facilities</small></li>
                             <li><small>Location that is hard to find</small></li>
                             <li><small>Promotion through expensive and ineffective advertisements</small></li>
-                            <li><small>Patients find it diffiult to make an appointment because they don't know the doctor's practice schedule</small></li>
+                            <li><small>Patients find it difficult to make an appointment because they don't know the doctor's practice schedule</small></li>
                         </ul>
                     </div>
                 </div>
