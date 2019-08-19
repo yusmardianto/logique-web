@@ -190,13 +190,12 @@ if(isset($_POST['submitted']))
 						</h1>
 						<div class="subtitle-header">
 							<p class="p-padding-v-15">
-								LOGIQUE creates Websites that can bring numerous benefits for your business. 
-								Attract customers, bring more inquiries, and increase conversions. 
-								All happens efficiently. 
-								Also, websites that are great and beautifully designed, which can give class to your customers, higher branding, and well-built identity.
+							LOGIQUE is a website development company that strives to raise your business. It is important
+							to know how an efficient website, beautifully designed, can improve your site’s prestige,
+							thereby establishing a well-built identity for you, further affecting your brand.
 							</p>
 							<p class="p-padding-v-15">
-								LOGIQUE, founded by a Japanese entrepreneur, is the number one website creation company in Jakarta with variety of well-known achievements.
+							LOGIQUE was founded by a Japanese entrepreneur and is ranked among the top web development companies in Jakarta, with a variety of achievements. 
 							</p>
 						</div>
 					</div>
@@ -208,18 +207,22 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
 						<div class="panel text-center custom-1">
-							<h1><b>If you want to create a high-quality Website, LOGIQUE is the Web developer you should contact.</b></h1>
+							<h1><b>If you seek to develop a high quality website, contact LOGIQUE for our professional web design and development services.</b></h1>
 							<br>
 							<p class="p-b-20">
-								LOGIQUE has created and developed more than 200 websites in Indonesia in many fields, from government organizations to financial institutions with high security. 
-								Those are made with variety of requests, from webs that require high creative demands, complicated programming, etc. 
-								We are trusted because we understand how growing business in digital will bring great success but also can be very hard without the right web system. 
-								We will proceed your request quickly with flexibility.
+								LOGIQUE has developed over 200 websites spanning various fields throughout Indonesia; from
+								government organizations, to financial institutions, many of which require high levels of
+								security. Such are made in regards to a client’s specific and creative demands, methods of
+								programming, etc. We are trusted for the emphasis we put on business growth in regards to
+								the digital world, which ultimately means greater profits for your company.
 							</p>
 							<p class="p-b-20">
-								As a professional web creation company, we serve the maximum quality with reasonable price. Our team consists of web developers, designers, and content writers – about 40 experienced experts in total, which is neither too large nor too small to work with. 
-								And, even though we are an international company, we have extensive knowledge of how digital business can bring high profit in Indonesia. 
-								So, if you need a great-built website in Indonesia, please consult LOGIQUE anytime.
+								As a professional web development company, we work to create the maximum quality of
+								output for a reasonable price, through our team, consisting of experienced web developers,
+								designers and content writers; all of whom constitute 40 hardworking and experienced
+								individuals in total. Further, although we are an international company, we have extensive
+								knowledge of the digital world’s applicability on a local level. Therefore, if you are looking for
+								an Indonesian-built high quality website, feel free to consult LOGIQUE anytime.
 							</p>
 						</div>
 					</div>
@@ -229,31 +232,32 @@ if(isset($_POST['submitted']))
 						<div class="row">
 							<div class="col-md-4">
 								<div class="new-box min-h">
-									<h4>One-stop Website production operation</h4>
+									<h4>A one-stop web production operation.</h4>
 									<p>
-										Need web pages in Indonesian, English, and Japanese? 
-										LOGIQUE can create all three with SEO implementation. 
-										We also create a conversion design or inquiry form, even post-publication maintenance and digital marketing.
+										If you require web pages in Indonesian, English and Japanese, LOGIQUE seeks help you through
+										SEO implementation and can further assist you through applying production design, inquiry
+										form, and even with post publication maintenance, in addition to any digital marketing matters
+										you may have.
 									</p>
 								</div>
 							</div>
 							<div class="col-md-4">
 								<div class="new-box min-h">
-									<h4>Maximum quality, latest technology, and reliable security</h4>
+									<h4>Maximum Quality, Latest technology, and Reliable security.</h4>
 									<p>
-										We are also exceedingly experienced in implementing PWA, AMP, and complex functions for any website. 
-										Delivered after security checks by security experts. 
-										Produces a robust web that works lightly.
+										We utilize reliable security systems of the highest quality through the latest digital technology
+										available. We are also experienced in implementing PWA, AMP and other complex functions for
+										websites which can be delivered after security checks by experts. 
 									</p>
 								</div>
 							</div>
 							<div class="col-md-4">
 								<div class="new-box min-h">
-									<h4>Speed and& flexibility</h4>
+									<h4>Speed and flexibility.</h4>
 									<p>
-										We value speed. We are used to working quickly because we know how time matters the most to you. 
-										We are also very flexible and open to all forms of change. 
-										If you want adjustments, we can help you right away.
+										We value the ability to produce high quality work in a rapid and efficient manner, as we are
+										aware of the time constraints you might possibly have. Therefore, our timeframe is flexible and
+										can be adjusted into your schedule
 									</p>
 								</div>
 							</div>
@@ -271,8 +275,11 @@ if(isset($_POST['submitted']))
 							<img src="assets/img/img-webdev/writing.png" alt="Analysis and Evaluation"> 
 							<h3>Analysis and Evaluation</h3>
 							<p>
-								If you already have a website, in order to improve it, we will analyze and evaluate the current situation of the website. 
-								We’ll examine why the traffic is very low? Is it the structure? Our teams are experts in getting the high valued analysis of the overall performance and extracting the issues.
+								If you already have a website, we will be able to analyze and evaluate its progress through
+								services which include examining the rate of traffic and also by interpreting the overall
+								structure of your website, among other things. Our team is experienced in retrieving a highly
+								accurate analysis of your website and examining the issues within it in order to improve its
+								overall user experience. 
 							</p>
 						</div>
 					</div>
@@ -281,19 +288,23 @@ if(isset($_POST['submitted']))
 							<img src="assets/img/img-webdev/intelligent.png" alt="Planning"> 
 							<h3>Planning</h3>
 							<p>
-								In order to achieve the goal you want from the website, we will show you what the web should be, suggest what you should do now, and the improvisations needed for continual results from now on. 
-								The form of support will vary, depending on the website’s internal system.
+								In order to achieve the set goals desired for your website, we aim to show you what a
+								professionally designed site should look like, as well as offer suggestions for potential
+								improvements required for continual results. Such advice varies depending on your site’s
+								internal system.
 							</p>
 						</div>
 					</div>
 					<div class="col-sm-4">
 						<div class="seo-part flow-part">
 							<img src="assets/img/img-webdev/analysis.png" alt="SEO / SEM"> 
-							<h3>SEO / SEM</h3>
+							<h3>SEO/SEM</h3>
 							<p>
-								A website can’t collect much traffic just by making it public. 
-								Our experts are familiar with SEO measures in Indonesia, and will create a web that is highly visible in the organic search when relevant queries are entered into search engines. 
-								We can also conduct SEM strategies for a quick traffic rise through effective keywords.
+								A website is unlikely to receive much traffic simply through having an online presence. Our
+								experts are familiar with SEO measures specified for Indonesia. We strive to create websites
+								that are highly visible through organic search methods when relevant queries are entered into
+								the search engine. We are also able to conduct an SEM strategy in order to ensure a quick rise
+								in traffic through the use of effective keywords.
 							</p>
 						</div>
 					</div>
@@ -303,20 +314,21 @@ if(isset($_POST['submitted']))
 							<img src="assets/img/img-webdev/ux.png" alt="Restructuring and Improvement"> 
 							<h3>Restructuring and Improvement</h3>
 							<p>
-								We don’t always need to recreate your website from scratch due to complicated issues found. 
-								Sometimes it can be too much work and too much cost. 
-								For this case, we offer you the best solution in organizing, collecting, and improving the website depending on your budget and the time you want.
+								As performance issues are commonly found through a thorough scan, your website doesn’t
+								necessarily need to be recreated from scratch, as occasionally, the cost and work involved can
+								exceed a specified budget. In this case, we offer practical solutions for organizing, collecting and
+								improving the website according to your specified budget, within the timeframe you require
 							</p>
 						</div>
 					</div>
 					<div class="col-sm-4">
 						<div class="multiligual-part flow-part">
 							<img src="assets/img/img-webdev/language.png" alt="Multilingual Website Production and& Operation"> 
-							<h3>Multilingual Website Production and& Operation</h3>
+							<h3>Multilingual Website Production and Operation</h3>
 							<p>
-								We can support website production and operation in Indonesian, English, and Japanese. 
-								We understand that creative and segmented contents are very important for websites. 
-								Reach and engage with as many audience as possible.
+								We can facilitate web development in Indonesian, English and Japanese, as we understand that
+								creating unique and multi-paged content is important to reach and engage as large an audience
+								as possible
 							</p>
 						</div>
 					</div>
@@ -325,9 +337,10 @@ if(isset($_POST['submitted']))
 							<img src="assets/img/img-webdev/customer.png" alt="Social Media Operation"> 
 							<h3>Social Media Operation</h3>
 							<p>
-								Social media can be very powerful in increasing engagements with your customers. 
-								It can also help supporting traffic by sending customers from Social Media to the Web. 
-								We operate Social Media such as Facebook page, and Instagram Business account in Indonesian, English, and Japanese.
+								Social media can be a powerful tool to increase the level of interaction with your customers. It
+								can also facilitate web traffic by directing frequenters of social media to your website. We
+								operate on several Social Media platforms such as Facebook and Instagram in the Indonesian,
+								English and Japanese languages. 
 							</p>
 						</div>
 					</div>
@@ -337,8 +350,8 @@ if(isset($_POST['submitted']))
 							<img src="assets/img/img-webdev/graphic-design.png" alt="Design Production"> 
 							<h3>Design Production</h3>
 							<p>
-								We design a user-friendly and conversion-friendly UI of your website. 
-								Our web design team will suggest designs of different tastes according to your requirements.
+								We aim to design a user and conversion friendly UI for your website. Our web design team will
+								suggest different design styles according to your specific requirements.
 							</p>
 						</div>
 					</div>
@@ -347,8 +360,8 @@ if(isset($_POST['submitted']))
 							<img src="assets/img/img-webdev/website.png" alt="Markup Coding"> 
 							<h3>Markup Coding</h3>
 							<p>
-								You can also request only HTML / CSS coding for your website. 
-								Our developer team is always catching up with the latest JavaScript-based front-end coding technology.
+								You can also request simple HTML/CSS coding for your website, as our team is always up to
+								date in regards to the latest JavaScript-based front-end coding technology. 
 							</p>
 						</div>
 					</div>
@@ -357,8 +370,8 @@ if(isset($_POST['submitted']))
 							<img src="assets/img/img-webdev/devices.png" alt="Multi-device Support"> 
 							<h3>Multi-device Support</h3>
 							<p>
-								We can create optimized and responsive sites for mobiles, smartphones, and tablets. 
-								We are experienced and have created many AMP and mobile friendly websites.
+								We aim to create an optimized and responsive site for smartphones and tablets. We have
+								ample experience on the subject and have created many AMP and mobile friendly websites. 
 							</p>
 						</div>
 					</div>
@@ -368,9 +381,9 @@ if(isset($_POST['submitted']))
 							<img src="assets/img/img-webdev/programming.png" alt="Special Programming Features"> 
 							<h3>Special Programming Features</h3>
 							<p>
-								You can request any programming features to add to websites such as Parallax motions. 
-								It is possible to correspond by JavaScript, HTML5, CSS3 etc. 
-								We propose the development of a website that attracts users according to your needs.
+								You can add various features such as Motion Parallax to your website, which can be developed
+								by using JavaScript, HTML5, CSS3, etc. We propose developing a website that attracts users
+								according to their specified needs.
 							</p>
 						</div>
 					</div>
@@ -379,9 +392,9 @@ if(isset($_POST['submitted']))
 							<img src="assets/img/img-webdev/engineering.png" alt="System Construction"> 
 							<h3>System Construction</h3>
 							<p>
-								Develop CMS systems, web systems, and business systems. 
-								It is possible to build and operate various systems that cooperate well with the website. 
-								We are good at website developments with PHP framework.
+								We aim to develop and operate various systems compatible with your website, such as CMS,
+								web and business systems. Our services are effective, practical and are developed through PHP
+								frameworks. 
 							</p>
 						</div>
 					</div>
@@ -390,8 +403,8 @@ if(isset($_POST['submitted']))
 							<img src="assets/img/img-webdev/smartphone.png" alt="PWA as Mobile Apps"> 
 							<h3>PWA as Mobile Apps</h3>
 							<p>
-								We can develop mobile apps as web apps instead of native apps with PWA. 
-								Push notification and offline operations are also possible.
+								We are able to develop mobile and web applications through PWA. Creating push notifications
+								and offline operations is also possible.
 							</p>
 						</div>
 					</div>
@@ -407,13 +420,13 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-7 border-l text-right">
-						<h2 class="text-right">The flow of Website production in LOGIQUE</h2>
+						<h2 class="text-right">Website Production Flow in LOGIQUE</h2>
 						<p class="text-right">
-							The website creation by LOGIQUE always focuses on the compatibility of speed and quality. 
-							Our professionals and experts are in charge of every step. 
-							The flow when we create a website is highly structured, starting from planning and proposing to design, development, and operation, to actualize the best of a website. 
-							The stages LOGIQUE takes to create a website may vary depending on the type of the project (size of the website, CMS necessity, difficulty of system development, etc.). 
-							Here are the general flow of web creation in LOGIQUE.
+								LOGIQUE’s website design strategy puts an emphasis on the collaboration of speed and quality.
+								Our professionals are involved in each step of the site’s development. We begin by thoroughly
+								planning and proposing a design, before developing it. The aforementioned stages may vary
+								depending on the type of project being implemented, and takes into account the website’s size,
+								CMS necessity, and the level of difficulty regarding the system’s development. 
 						</p>
 					</div>
 					<div class="col-md-3 text-center hidden-xs hidden-sm">

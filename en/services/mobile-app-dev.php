@@ -78,9 +78,11 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-7">
 						<br/><br/><br/>
-						<h1 style="font-size: 30px">TRUST YOUR <span class="yellow">MOBILE APPLICATION (Android | iOS | Hybrid)</span> DEVELOPMENT FUTURE IN <span class="yellow">LOGIQUE</span></h1>
+						<h1 style="font-size: 30px">TRUST THE DEVELOPMENT OF YOUR <span class="yellow">MOBILE APPLICATION (ANDROID | iOS | HYBRID)</span> WITH <span class="yellow">LOGIQUE</span></h1>
 						<p>
-						We provide the best services and solutions in developing enterprise-scale or consumer-based mobile applications for iOS and Android smartphones/tablets.
+							Our services provide the efficient solutions needed to develop and promote your mobile
+							application for iOS and Android smartphone/tablet, facilitating the overall goal of raising your
+							enterprise.
 						</p>
 						<div class="visible-md visible-lg"><br/><br/><br/><br/><br/><br/><br/><br/><br/></div>
 					</div>
@@ -109,10 +111,18 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="col-md-7">
 					<p>
-						The mobile applications that we create are designed with the philosophy which is information that is in the right person has great ability in a change. We focus on delivering user-oriented mobile applications to deliver maximum experience of digital changes in their lives.<br/><br/>
-						We are also aware that, in today's digital era, technology continues to develop and evolve. Therefore, we always try to help providing concepts that are in line with the latest technology so that mobile applications that we create can be able to experience growth and success. <br/><br/>
-						Our designers and application developers will not only help creating great products, we are also ready to help you to ensure that the final results we provide are the best.<br/><br/>
-						If anything goes wrong during the development, we will notify you. We want your product to be successful just like you are. With an efficient process, our team knows what works the best with mobile application development.
+						The Mobile Applications that we develop are created in line with our philosophy: “the right
+						person in the right position has the potential to grow.” Therefore, our team is dedicated to
+						focusing their abilities in delivering user orientated mobile applications, so as to provide you
+						with the optimum digital experience. <br/><br/>
+						We are also aware that, in today’s digitalized era, technology is evolving at a rapid pace.
+						Therefore, we aim to provide concepts and solutions compatible to the most contemporary
+						forms of technology, in the service of our client’s continual success in the digital world.<br/><br/>
+						Our designers and application developers will not only assist you in creating a great product, but
+						also are ready to help ensure that the finalized product is running according to your standard.<br/><br/>
+						Further, if there are any problems during the development process, it is part of our policy to
+						notify you. Our team is comprised of competent and experienced specialists who seek to
+						provide you with the best digital technology applicable to your business. 
 					</p>
 				</div>
 			</div>
@@ -123,14 +133,14 @@ if(isset($_POST['submitted']))
 				<br/><br/>
 				<div class="row">
 					<div class="col-md-4">
-						<h2 class="title">LOGIQUE is One of the Best <b>Mobile Application</b> Developers in Indonesia</h2>
+						<h2 class="title">LOGIQUE is a leading <b>Mobile App Development</b> Company based in Indonesia</h2>
 					</div>
 					<div class="col-md-8">
 						<ul class="fa-ul">
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>LOGIQUE can customize the client's needs and wants with the latest technology to produce iOS and Android apps at the forefront and international scale.</li>
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>The iOS and Android apps we developed have gone through a thorough design planning process by experienced UI/UX Designers so the resulting look is very user friendly.</li>
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>The security, optimization, and scalability of the application are taken into account with details by our technical experts in order to deliver the maximum usable results to users.</li>
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>With more than five years of experience, LOGIQUE team's ability and expertise have been tested on a variety of clients and projects coming from local and abroad.</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>LOGIQUE aims to customize a client’s requirements with the latest digital technology available in order to create iOS and Android apps of international quality.</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>The iOS and Android apps we have developed have been designed by UI/UX designers so the resulting look is very user friendly.</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>We security, optimization and scalability of the applications we creates are always taken into detailed account by our technical experts, so as to deliver the maximum level of results to our users.</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>With more than five years of experience, the ability of LOGIQUE’s team has been tested through a wide variety of clients; locally and internationally. </li>
 						</ul>
 					</div>
 				</div>
@@ -150,7 +160,7 @@ if(isset($_POST['submitted']))
 						<h3 class="div-title"><span class="title purple"><b>Innovative Application Ideas</b></span></h3>
 						<div class="">
 						<img alt="Ide Aplikasi Inovatif" class="img-responsive center-block" src="assets/img/img-mobileapps/inovatif.png"/><br/>
-						Have you come up with ideas for developing millions of dollars worth of mobile apps like Go-Jek, Traveloka, or Tokopedia? With the security of information through our Confidential Agreement, we can help analyzing your idea and make it happen. We will help you to become the next great App-Enterpreneur in this rapidly growing industry.</div>
+						By adhering to our confidentiality agreement, we can make sure millions of dollars’ worth of mobile app data is kept secure; thereby further helping you realize your ideas in potentially creating the highest-quality, multi-million dollar project, in the same vein as Go-Jek, Traveloka or Tokopedia. </div>
 					</div>
 				</div>
 				<div class="col-md-4">
@@ -158,15 +168,15 @@ if(isset($_POST['submitted']))
 						<h3 class="div-title"><span class="title purple"><b>Provide Additional Values</b></span></h3>
 						<div class="">
 						<img alt="Memberikan Nilai Tambahan" class="img-responsive center-block" src="assets/img/img-mobileapps/nilai-tambah.png"/><br/>
-						Already providing products and services to your customers? We can help you use application-based technology to deliver additional values on your business. The convenience, capabilities, and connectivity of smartphones make it an ideal platform to bring additional values to your current services.</div>
+						If you are currently providing your customers with your services, we can assist through appbased technology so as to further add value to your business, as the wide reaching capabilities of smartphones make it an ideal platform to add additional value to your business. </div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="div-help">
-						<h3 class="div-title"><span class="title purple"><b>Improve Business Process</b></span></h3>
+						<h3 class="div-title"><span class="title purple"><b>Improving your Business’s Work Flow</b></span></h3>
 						<div class="">
 						<img alt="Meningkatkan Proses Bisnis" class="img-responsive center-block" src="assets/img/img-mobileapps/proses-bisnis.png"/><br/>
-						Have you ever considered how you can streamline your business or company using mobile app technology? Applications provide an enormous opportunity to empower staff and improve efficiency. Mobile application solutions with a company-centric planning have proven to increase daily work activities that enable better performance than your business competitors.</div>
+						Consider streamlining your business by utilizing mobile app technology. Applications provide an enormous opportunity to empower your staff and improve overall efficiency. Mobile App based solutions with a company centered strategy have shown to increase the output of those in your employ, hence increasing your company’s general levels of productivity</div>
 					</div>
 				</div>
 			</div>
@@ -177,14 +187,14 @@ if(isset($_POST['submitted']))
 				<br/><br/>
 				<div class="row row-center-md">
 					<div class="col-md-offset-1 col-md-3">
-						<h2 class="title">Solutions gained from <span><b>Mobile Application</b></span> development</h2>
+						<h2 class="title"><span><b>Mobile Application</b></span> based solutions can be utilized in the following ways</h2>
 					</div>
 					<div class="col-md-8">
 						<ul class="fa-ul">
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Mobile applications as your own products and assets.</li>
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Mobile applications as a communication tool between employers and employees.</li>
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Mobile applications as a marketing tool of your products and services.</li>
-							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>Mobile applications as a supportive tool of your product usage.</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>As a personally owned product and asset.</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>As a means of communication between employers and employees.</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>As a tool to market your products and services.</li>
+							<li><span class="fa-li"><i class="fa fa-check-square"></i></span>As a tool to support your product’s functionality.</li>
 						</ul>
 					</div>
 				</div>
@@ -192,17 +202,17 @@ if(isset($_POST['submitted']))
 				<h2 class="font-28 text-center">Our Services</h2><br/>
 				<div class="row">
 					<div class="col-md-10 col-md-offset-1 text-center">
-						We offer complete services ranging from application development concept, creation, launch, up to sustainable management for your application. All of our services are aimed at building applications that offer the maximum user experience and great business transformation results.
+					We offer a comprehensive range of IT services, from App development and creation to the sustainable management of your application. All of our services are aimed at building apps which maximize user experience and produce great business transformation results.
 					</div>
 				</div>
 				<br/>
 				<div class="row">
 					<div class="col-md-4">
 						<div class="layanan-kami">
-							<h3 class="title">iOS Application Development for iPhone/iPad</h3>
+							<h3 class="title">iOS Application development for iPhone/iPad</h3>
 							<br/>
 							<img alt="Pengembangan Aplikasi iOS untuk iPhone / iPad" src="assets/img/img-mobileapps/apple.png" class="img-responsive center-block"/><br/>
-							We are experienced in developing apps that have compatibility on different iOS versions using Swift languages ranging from Swift 1 to 4 which are trending today.
+							We are highly experienced in developing apps with a compatibility with different iOS versions using various Swift languages ranging from swift 1 to 4, which are trending today. 
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -210,7 +220,7 @@ if(isset($_POST['submitted']))
 							<h3 class="title">Android Application Development</h3>
 							<br/>
 							<img alt="Pengembangan Aplikasi Android" src="assets/img/img-mobileapps/android.png" class="img-responsive center-block"/><br/>
-							A wide range of native Java-based Android applications ranging from simple, multi-lingual, up to the high complexity.
+							We provide a wide range of native Java-based Android applications ranging from the most basic, with multi lingual features, up to apps which utilize the highest levels of complexity
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -218,7 +228,7 @@ if(isset($_POST['submitted']))
 							<h3 class="title">Hybrid Application Development</h3>
 							<br/>
 							<img alt="Pengembangan Aplikasi Hybrid" src="assets/img/img-mobileapps/hybrid.png" class="img-responsive center-block"/><br/>
-							If you want to have apps for both Android and iOS, we can also develop hybrid apps by utilizing technologies such as Ionic, Adobe PhoneGap, Apache Cordova, Xamarin, AngularJS, and so on.
+							If you are seeking apps that can be utilized across both Android and iOS platforms, we also offer the development of hybrid apps through the use of technologies such as Ionic, Adobe PhoneGap, Apache Cordova, Xamgrin, AngularJS, and so on.
 						</div>
 					</div>
 				</div>
@@ -229,15 +239,15 @@ if(isset($_POST['submitted']))
 							<h3 class="title">UI/UX Mobile Application Design</h3>
 							<br/>
 							<img alt="Desain UI/UX Aplikasi Mobile" src="assets/img/img-mobileapps/ux.png" class="img-responsive center-block"/><br/>
-							All of our mobile apps are developed with design aesthetics that fit their function. With high design standards, we ensure that customers will love the ongoing interaction. In addition, the implementation of responsive design that we do also provides maximum experience for users.
+							All of our mobile apps have been designed using the appropriate aesthetics befitting to their function. By upholding high standards of design, we seek to ensure that our customers enjoy ongoing interaction. Additionally, implementing responsive designs further maximizes the experience of our users. 
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="layanan-kami">
-							<h3 class="title">Development of CMS/API</h3>
+							<h3 class="title">Developing CMS/API</h3>
 							<br/>
 							<img alt="Pengembangan CMS / API" src="assets/img/img-mobileapps/cms.png" class="img-responsive center-block"/><br/>
-							To support mobile application development, we also provide CMS and API in various platforms, especially PHP.
+							To support the development of Mobile Apps, we also provide CMS and API supported through various platforms, especially PHP.
 						</div>
 					</div>
 				</div>
@@ -248,9 +258,9 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-5">
-						<h2 class="font-28">Client/Portfolio</h2>
+						<h2 class="font-28">Client Portfolio</h2>
 						<br/>
-						<div>We have experiences in working with clients from various industries and have helped developing mobile applications that solve operation problems, empower sales, and maintain customer relationships.
+						<div>We are highly experienced in working with clients from various industries and have helped develop certain mobile applications in order to solve operation problems, empower sales and maintain customer relationships. 
 						</div>
 						<br/><br/>
 					</div>
@@ -316,7 +326,7 @@ if(isset($_POST['submitted']))
 						<h2 class="font-28 text-center">How LOGIQUE Works</h2>
 						<br/>
 						<p class="text-center">
-							Whether for a B2C, B2B, startup, or enterprise operations solution, first of all, we'll take the time to understand your business, the products and the needs of the users. The way of committing the results on our works is highly reviewed by users and clients because we are able to create applications that are optimal and provide additional values in terms of business.
+							Whether for a B2C, B2B, startup or an enterprise operation solution, we always make time to thoroughly understand your business, as well as its products and the needs of its users. The way results show through our works is highly transparent, as we are committed to working with the involvement of our clients.
 						</p>
 					</div>
 				</div>
@@ -328,7 +338,7 @@ if(isset($_POST['submitted']))
 							<div class="text-center title">Planning</div>
 						</div>
 						<p>
-							At the beginning of the project, we will discuss with you and ensure that all the needs of the company, service, or user have entered the scope of the application. We will provide the concept in a form of a wireframe draft as the final result.
+							At the beginning of a project, we will seek to ensure that the application focuses on the specific needs of the company, service or user as a top priority. We will provide the concept in the form of a wireframe draft as the final result.
 						</p>
 					</div>
 					<div class="col-md-5ths">
@@ -337,7 +347,7 @@ if(isset($_POST['submitted']))
 							<div class="text-center title">Design</div>
 						</div>
 						<p>
-							From the concept that has been generated, our designers will start to create the page design. We can provide several options for the main page design that you can choose. A specific design requirements will be reflected in while we proceed the designs for other pages.
+							From the initially drafted concept, our designers will begin to create the page’s main design. We can provide several templates for the main page which you can choose from. A specific design requirement will be reflected on while we proceed with the designs for the following pages.
 						</p>
 					</div>
 					<div class="col-md-5ths">
@@ -346,7 +356,7 @@ if(isset($_POST['submitted']))
 							<div class="text-center title">Development</div>
 						</div>
 						<p>
-							Based on functional concepts, our technical team will start developing mobile apps that work better than the existing development and security standard of applications.
+							Based on the function of existing concepts, our technical team will begin developing mobile applications which have proved more efficient than the standard levels of security commonly used for applications.
 						</p>
 					</div>
 					<div class="col-md-5ths">
@@ -355,7 +365,7 @@ if(isset($_POST['submitted']))
 							<div class="text-center title">Testing</div>
 						</div>
 						<p>
-							Our QA team will ensure that the features developed by the technical team are running as it should be so that you can see & trust the quality of apps.
+							Our QA team will ensure that the features developed by our technical experts are running appropriately so that the overall quality of the applications provided is transparent and trustable.
 						</p>
 					</div>
 					<div class="col-md-5ths">
@@ -364,7 +374,7 @@ if(isset($_POST['submitted']))
 							<div class="text-center title">Launch Application</div>
 						</div>
 						<p>
-							Congratulations! After all the processes have finished, your Android or iOS app is ready to launch on the App Store or Google Play Store.
+							Congratulations! The development process has been completed, and your android/iOS app is ready to launch through the App Store/Google Play Store
 						</p>
 					</div>
 				</div>

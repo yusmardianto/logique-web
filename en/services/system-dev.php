@@ -165,9 +165,9 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10 text-center">
 						<h2>
-							LOGIQUE has been known as the reputable IT/Web System Developer in Indonesia, helping clients reach their business target and goals through the latest and advanced web technology. 
-							We can build your web system faster, more efficient, and at reasonable cost. 
-							Feel free to contact us.
+							LOGIQUE is a reputable Indonesian IT/Web Development company that aims to assist its clients
+							in directly reaching their targeted business goals through the latest advancements in web based
+							technology. We can build faster, more efficient web systems at a reasonable cost.
 						</h2>
 					</div>
 				</div>
@@ -186,35 +186,35 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-3">
-						<h3 class="new1">[The Use of Latest & Cutting-Edge Technology]</h3>
+						<h3 class="new1">[The Use of the Latest Cutting-Edge Technology ]</h3>
 						<p class="new4">
-							We can deal with wide range of system development fields from work systems such as Financial Management & HR Management, to CMS, E-Commerce Site Creation, Survey System Development, Servers, Infrastructure, etc. 
-							We build a system that is fast, flexible, and high on long term performance by incorporating new and fully developed technologies into every step of the process.
+							We deal in a wide range of systems in regards to several fields of development, such as financial & HR management systems, to CMS, E-Commerce, Survey, Servers, Infrastructure, and Development systems, among others. We aim to create digital platforms which are fast, flexible and optimized for long term performance, through applying the latest technologies during every step of the process.
 						</p>
 					</div>
 					<div class="col-md-3">
 						<h3 class="new1">[Infrastructure Design & Construction]</h3>
 						<p class="new4">
-							We design and build cloud servers in Indonesia and abroad. 
-							We have abundant results such as AWS in Singapore Region and Ali Cloud in Indonesia. 
-							We also provide server maintenance application, and performance & tuning services. 
-							There are also many successful migrations from on-premises servers to cloud servers.
+							We design and build cloud servers both locally and internationally. Our professional profile,
+							which includes clients such as AWS in Singapore, and Ali Cloud in Indonesia, also provides
+							server maintenance applications, and performance and tuning services. Additionally, there are
+							also many successful migrations from on-premises to cloud servers.
 						</p>
 					</div>
 					<div class="col-md-3">
 						<h3 class="new1">[Secure System Construction]</h3>
 						<p class="new4">
-							It is recommended to conduct security vulnerability testing in addition to regular testing prior to delivery. 
-							We perform penetration tests such as SQL injection, path traversal, cross site scripting, etc., to minimize risk.
+							It is recommended to conduct security vulnerability testing in addition to regular testing prior
+							to delivery. We can perform penetration tests, such as an SQL injection, path traversal, cross
+							site scripting, etc. in order to minimize any risk of a potential security breach.
 						</p>
 					</div>
 					<div class="col-md-3">
 						<h3 class="new1">[Quick, Precise, & Flexible Development]</h3>
 						<p class="new4">
-							Our progress is based on agile development. 
-							We always strive to provide optimal service as efficient as possible without reducing quality. 
-							We build trust with our clients and lead our company to develop with speed & flexibility to any request or change that you want. 
-							You will obtain results just as you desire in a short time.
+							Our work is based on Agile software development methods. We strive to provide efficient
+							digital services without diminishing the quality of our work. We aim to build a level of trust with
+							our clients and lead our company towards developing technology in a prompt manner, so you
+							may obtain results in just a short period of time.
 						</p>
 					</div>
 				</div>
@@ -233,10 +233,11 @@ if(isset($_POST['submitted']))
 								<div class="col-md-offset-1 col-md-10 m-t-10">
 									<h4><b>JBA Indonesia | Auction Management System</b></h4>
 									<p>
-										JBA is the largest car & motorcycle auction house in Indonesia. 
-										We have supported a number of system construction projects such as web development & application, auction conductor system, bidding application, online auction, mobile application inspection, financial system, and so on. 
-										As a critical system, it requires error-free development, but at the same time we have experienced many challenging projects that require speed. 
-										We have regular meetings and constantly improving the existing system.
+										JBA is the largest car and motorcycle auction house in Indonesia, supporting various system
+										construction projects relating to web development and application, auction conduction, bidding
+										application, online auctioning, mobile app inspection, and so on. As a complex system, it
+										requires a systematic process of development, but nonetheless can always be efficiently and
+										speedily produced
 									</p>
 								</div>
 							</div>
@@ -698,20 +699,20 @@ if(isset($_POST['submitted']))
 					<div class="col-md-6">
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="new3">Q: How did the creation of this system begin?</h4>
-								<p>Client: We used to do a lot of things manually. With many vehicles that we have to auction at various branches in Indonesia and the high interest from customers, it’s certainly becoming more difficult for us to handle. It crossed our mind that there was a need for an IT system that helped our business as a whole so as to increase company profits.</p>
+								<h4 class="new3">Q: How did creating this system begin?</h4>
+								<p>Client: We used to do a lot of things manually. With many vehicles that needed to be auctioned at various branches around the country, and the high levels of interest from customers, it had certainly become increasingly difficult for us to handle. It was at that point that the need for an IT system which could help our business as a whole crossed our minds.</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="new3">Q: What is the impact that is directly felt after using the system made by LOGIQUE?</h4>
-								<p>Client: The impact is enormous, when everything is well-automated, we feel that the work we do is far more effective and efficient. In terms of risk, recording on books that may be damaged or lost can be avoided by the current system. In addition, we also make a positive contribution to the surrounding environment by reducing the use of paper that we have been doing so far.</p>
+								<h4 class="new3">Q: What was the impact which was directly felt after using the application made by LOGIQUE</h4>
+								<p>Client: The impact was enormously helpful. When everything was well-automated, we felt that the work we did was more effective and efficient. In terms of risk, recording books that may have been damaged or lost could now be avoided. In addition, we also made a positive  contribution to the surrounding environment by reducing the use of paper, which we have been doing so far.</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="new3">Q: What is your collaboration experience with LOGIQUE in making this system?</h4>
-								<p>Client: We think the LOGIQUE team is really filled with people who are experts and experienced in their fields. I cannot imagine how our complex business processes can be made into a comprehensive system including small processes that cannot be missed so that everything can be fulfilled. We are very satisfied with LOGIQUE's performance with the team and recommend their services to all parties in need.</p>
+								<h4 class="new3">Q: What was your collaborative experience with LOGIQUE in making the system?</h4>
+								<p>Client: We think the team at LOGIQUE is really filled with people who are professionally experienced in their fields. I cannot begin to imagine how the complexities of our business process could be made into a comprehensive system, and also account for the small details within the process which were necessary, but so easily overlooked. We are very satisfied with LOGIQUE’s performance, and we recommend their services highly. </p>
 							</div>
 						</div>
 					</div>
@@ -725,16 +726,17 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-4 col-md-7">
 						<div class="row">
 							<div class="col-md-9">
-								<h2 class="new2">Key Points for Successful Web Systems Developments</h2>
-								<div class="new2-div">LOGIQUE always provides optimal service by prioritizing the best quality for all of our clients. That is because LOGIQUE has 3 key points which are the main essences in the success of a project:</div>
+								<h2 class="new2">Key Points for Successfully Developing a Website</h2>
+								<div class="new2-div">LOGIQUE aims to provide optimal services through delivering the best quality service for all of our clients. This is because LOGIQUE follows 3 key procedures which lead to the success of a project: </div>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="bold">Experiences</h4>
+								<h4 class="bold">Experience</h4>
 								<p>
-									LOGIQUE has handled more than 200 projects from various industries in Indonesia. 
-									This experience applies to each process, such as scheduling, requirement definition, infrastructure design, deploy, and user training.
+									LOGIQUE has handled over 200 projects from various industries across Indonesia. Such
+									experience is applied to each of the processes we take; which includes scheduling, requirement
+									definition, infrastructure, design, deployment, and user training.
 								</p>
 							</div>
 						</div>
@@ -742,10 +744,9 @@ if(isset($_POST['submitted']))
 							<div class="col-md-12">
 								<h4 class="bold">Speed & Flexibility</h4>
 								<p>
-									The speed of business keeps getting faster and faster. 
-									If it takes 6 months or 1 year to develop a system, the business can’t keep up with the environmental changes. 
-									LOGIQUE places importance on speed. 
-									Consensus requirements often take time but will lead you to move forward.
+									The pace at which businesses develop keeps getting faster. If it took a year, or even half a year
+									to develop a system, the business still would struggle keeping up with environmental changes.
+									LOGIQUE places a certain importance on speed.
 								</p>
 							</div>
 						</div>
@@ -753,9 +754,11 @@ if(isset($_POST['submitted']))
 							<div class="col-md-12">
 								<h4 class="bold">Quality & Security</h4>
 								<p>
-									With high speed, quality shouldn’t be sacrificed. 
-									There will be few problems and programming will have high maintainability with standardized development. 
-									We make sure the system developed will be delivered after we minimize the risk of security vulnerabilities.
+									Through conducting our work with speed, quality should not be sacrificed. Any potential risks
+									will be minimized and programming with have a high level of maintainability. We make sure
+									that systems we develop will be delivered only after any risk to of security vulnerabilities have
+									been taken care of.
+
 								</p>
 							</div>
 						</div>
