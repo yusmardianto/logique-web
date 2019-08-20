@@ -123,7 +123,7 @@
 								<img src="/img/career/Logique.png" />
 								<h1>Let’s work hard, enjoy hard<br>and grow up together!</h1>
 								<p>LOGIQUE membuka lowongan Web Developer, PHP Programmer, Web Designer, Technical Consultant, Digital Marketing Strategist, dan Content Writer, untuk turut mengambil bagian dalam perkembangan digital dan IT.</p>
-								<a class="btn btn-yellow smooth" href="#jobvacancy">Check Our Latest Vacancies</a>
+								<a class="btn btn-yellow smooth" href="#jobvacancy" id="latest-vacancies">Check Our Latest Vacancies</a>
 							</div>
 							<div class="col-md-6">
 								<iframe style="width:100%;height:300px" title="Logique Digital Indonesia - Karir" src="https://www.youtube-nocookie.com/embed/46jDdfPG0cA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -156,7 +156,7 @@
 										<div class="text-message hidden-xs">Message for Candidates</div>
 										<p class="sliderx_">“Terima kasih telah mengunjungi halaman karir LOGIQUE. LOGIQUE adalah perusahaan yang menyenangkan, digerakkan oleh orang-orang hebat yang profesional, bekerja keras, dan senang bekerja dalam tim yang bersahabat. Tujuan saya adalah mengembangkan potensi penuh yang dimiliki orang-orang hebat ini sehingga LOGIQUE juga ikut menjadi perusahaan hebat. Saya suka orang yang rajin dan mau berjuang. Saya terus berusaha memberi mereka peluang terbaik untuk bisa sukses besar. Jika Anda mau bergabung bersama kami, tim kami adalah fondasi dari kesuksesan masa depan perusahaan. Perjalanan kita di sini akan menantang sekaligus memberikan manfaat. Mari berkembang dan meraih kesuksesan besar bersama-sama.”</p>
 										<p class="sliderx__">-- Yoshi, CEO / Founder</p>
-										<a class="btn btn-yellow pull-right" href="detail/yoshi.php">Interview with CEO</a>
+										<a class="btn btn-yellow pull-right" href="detail/yoshi.php" id="interview-ceo">Interview with CEO</a>
 									</div>
 								</div>
 							</div>
@@ -171,7 +171,7 @@
 										<div class="text-message hidden-xs">Message for Candidates</div>
 										<p class="sliderx_">“Sangat penting bagi Anda untuk mengetahui di mana dan bagaimana Anda bekerja. Jika Anda bekerja keras, merasakan bahwa bekerja penting untuk kehidupan Anda, dan ingin berkontribusi kepada perusahaan, kami berjanji akan menyediakan lingkungan kerja yang baik untuk Anda. Di LOGIQUE, kami menyambut individu yang kreatif dan dinamis serta berusaha untuk pengembangan pribadi dan profesional. Sebagai gantinya, maka kami berkomitmen untuk menghasilkan yang terbaik dari diri Anda dengan menawarkan kesempatan untuk kemajuan dan pertumbuhan, dan memberikan karir yang mengubah hidup tidak seperti yang lain. Mari berkembang bersama LOGIQUE!”</p>
 										<p class="sliderx__">-- Ghitta, HRD</p>
-										<a class="btn btn-yellow pull-right" href="detail/ghitta.php">Interview with HRD</a>
+										<a class="btn btn-yellow pull-right" href="detail/ghitta.php" id="interview-hr">Interview with HRD</a>
 									</div>
 								</div>
 							</div>
@@ -186,7 +186,7 @@
 										<div class="text-message hidden-xs">Message for Candidates</div>
 										<p class="sliderx_">“LOGIQUE tidak hanya melihat technical skill seseorang tetapi juga soft skill dan attitude. Selain itu, selama Anda merasa dapat memberikan kontribusi di bidang Anda, LOGIQUE akan mempertimbangkan hal itu baik-baik. Namun, jika Anda mempunyai target untuk menjadi yang Back-End Developer terbaik, saya menyarankan Anda untuk terbiasa dalam menggunakan berbagai bahasa pemrograman, framework, cloud server topology AWS, dan semacamnya.”</p>
 										<p class="sliderx__">-- Muklis, Senior Back End Developer</p>
-										<a class="btn btn-yellow pull-right" href="detail/muklis.php">Interview with Senior Back End Developer</a>
+										<a class="btn btn-yellow pull-right" href="detail/muklis.php" id="interview-back-end">Interview with Senior Back End Developer</a>
 									</div>
 								</div>
 							</div>
@@ -201,7 +201,7 @@
 										<div class="text-message hidden-xs">Message for Candidates</div>
 										<p class="sliderx_">“Show your best. Pastikan kalau kamu memiliki pengalaman dan menguasai bidang yang kamu lamar. Ibaratnya mau jadi atlet renang, kamu tentu harus bisa berenang (haha). Selain itu, tunjukkan juga kalau kamu profesional dan punya minat belajar yang tinggi. Untuk kamu yang senang bekerja cepat, kamu bakal suka bekerja di LOGIQUE.”</p>
 										<p class="sliderx__">-- Taufik, Senior Front End Developer</p>
-										<a class="btn btn-yellow pull-right" href="detail/taufik.php">Interview with Senior Front End Developer</a>
+										<a class="btn btn-yellow pull-right" href="detail/taufik.php" id="interview-front-end">Interview with Senior Front End Developer</a>
 									</div>
 								</div>
 							</div>
@@ -539,7 +539,7 @@
 									<div class="panel-footer">
 										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/web-developer.php">Detail</a>
+											<a class="btn btn-detail" href="detail/web-developer.php" id="web-developer">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -555,7 +555,7 @@
 									<div class="panel-footer">
 										<p></p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/project-manager.php">Detail</a>
+											<a class="btn btn-detail" href="detail/project-manager.php" id="project-manager">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -587,7 +587,7 @@
 									<div class="panel-footer">
 										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/product-developer.php">Detail</a>
+											<a class="btn btn-detail" href="detail/product-developer.php" id="product-developer">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -603,7 +603,7 @@
 									<div class="panel-footer">
 										<p></p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/web-security.php">Detail</a>
+											<a class="btn btn-detail" href="detail/web-security.php" id="it-security">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -622,7 +622,7 @@
 									<div class="panel-footer">
 										<p></p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/front-end.php">Detail</a>
+											<a class="btn btn-detail" href="detail/front-end.php" id="front-end">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -638,7 +638,7 @@
 									<div class="panel-footer">
 										<p></p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/quality-assurance.php">Detail</a>
+											<a class="btn btn-detail" href="detail/quality-assurance.php" id="quality-assurance">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -654,7 +654,7 @@
 									<div class="panel-footer">
 										<p></p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/technical-consultant.php">Detail</a>
+											<a class="btn btn-detail" href="detail/technical-consultant.php" id="tech-consultant">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -670,7 +670,7 @@
 									<div class="panel-footer">
 										<p></p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/reactjs.php">Detail</a>
+											<a class="btn btn-detail" href="detail/reactjs.php" id="react-developer">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -691,7 +691,7 @@
 									<div class="panel-footer">
 										<p></p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/mobile-developer.php">Detail</a>
+											<a class="btn btn-detail" href="detail/mobile-developer.php" id="mobile-developer">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -838,7 +838,7 @@
 									<p>Kami membuka lowongan magang bagi mahasiswa atau mahasiswi sesuai dengan kompetensi yang dimiliki.</p>
 								</div>
 								<div class="col-md-4 text-center">
-									<a class="btn btn-lihat-keseharian" href="/career/intern">Lihat Keseharian Magang di LOGIQUE</a>
+									<a class="btn btn-lihat-keseharian" href="/career/intern" id="intern-activities">Lihat Keseharian Magang di LOGIQUE</a>
 								</div>
 							</div>
 						</div>
@@ -854,7 +854,7 @@
 									<div class="panel-footer">
 										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/intern-hr.php">Detail</a>
+											<a class="btn btn-detail" href="detail/intern-hr.php" id="intern-hr">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -870,7 +870,7 @@
 									<div class="panel-footer">
 									<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/intern-sales-admin.php">Detail</a>
+											<a class="btn btn-detail" href="detail/intern-sales-admin.php" id="intern-sales-admin">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -886,7 +886,7 @@
 									<div class="panel-footer">
 										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/intern-sales-it.php">Detail</a>
+											<a class="btn btn-detail" href="detail/intern-sales-it.php" id="intern-sales-it">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -960,8 +960,8 @@
 						</div>
 						<div class="row">
 							<div class="col-md-offset-3 col-md-6 text-center">
-								<a class="btn btn-yellow smooth" href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" rel="noreferrer"> <i class="fa fa-whatsapp"></i> WA HRD</a>
-								<a class="btn btn-yellow smooth" href="mailto:recruit@logique.co.id" target="_top"> <i class="fa fa-envelope-o"></i> EMAIL HRD</a>
+								<a class="btn btn-yellow smooth" href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" rel="noreferrer" id="wa-hrd"> <i class="fa fa-whatsapp"></i> WA HRD</a>
+								<a class="btn btn-yellow smooth" href="mailto:recruit@logique.co.id" target="_top" id="email-hrd"> <i class="fa fa-envelope-o"></i> EMAIL HRD</a>
 							</div>
 						</div>
 					</div>
