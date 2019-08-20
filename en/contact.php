@@ -39,7 +39,7 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Grow and increase your business profit through digital with LOGIQUE Digital Indonesia, the top Web Developer / Design, Digital Maketing, & IT Consultant in Jakarta. Contact us to ask more about digital marketing in Indonesia and how we can help your business.">
+    <meta name="description" itemprop="description" content="Maximize and increase your business profits through digital growth with LOGIQUE Digital Indonesia, the top Web Development/Design, Digital Marketing and IT consultancy in Jakarta. Contact us to ask more about digital marketing in Indonesia, and how we can help grow your company.">
 	<meta name="keywords" content="Inquiries, contact us, website creation, web-system development, web marketing, pamphlet, mobile application">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Contact about Digital Marketing Indonesia | LOGIQUE Digital Indonesia">
@@ -47,7 +47,7 @@ if(isset($_POST['submitted']))
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/contact.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Grow and increase your business profit through digital with LOGIQUE Digital Indonesia, the top Web Developer / Design, Digital Maketing, & IT Consultant in Jakarta. Contact us to ask more about digital marketing in Indonesia and how we can help your business.">
+	<meta property="og:description" content="Grow and increase your business profit through digital with LOGIQUE Digital Indonesia, the top Web Developer / Design, Digital Maketing, & IT Consultant in Jakarta. Contact us to ask more about digital marketing in Indonesia and how we can help your business.Maximize and increase your business profits through digital growth with LOGIQUE Digital Indonesia, the top Web Development/Design, Digital Marketing and IT consultancy in Jakarta. Contact us to ask more about digital marketing in Indonesia, and how we can help grow your company.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <title>Contact about Digital Marketing Indonesia | LOGIQUE Digital Indonesia</title>
 
@@ -148,7 +148,7 @@ if(isset($_POST['submitted']))
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Contact Us</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">Contact us and ask us anything about website creation, web system development, internet marketing, design, and other various things related in the digital world.</h1>
+							<h1 class="tagline">Contact us and ask us about anything to do with Web Creation/Development, Internet Marketing, Design, and anything else related to the digital world.</h1>
 						</div>
 					</div>
 				</div>
@@ -158,7 +158,7 @@ if(isset($_POST['submitted']))
 
 			<div id="contentsArea">
 				<div id="contents">
-					<div class="contact-title-copies"><span class="yellow">LOGIQUE DIGITAL INDONESIA</span> offers you solutions to your business difficulty in the digital world anytime, anywhere.</div>
+					<div class="contact-title-copies"><span class="yellow">LOGIQUE DIGITAL INDONESIA</span> offers you solutions for your digital business problems, anytime and anywhere.</div>
 					<div class="form-container"  style="padding-top: 10px;">
 						<!--<div class="box-jika">
 							<div class="row">
@@ -179,7 +179,7 @@ if(isset($_POST['submitted']))
 							</div>
 						</div><br/>	-->
 						<div>
-							Thank you for your interest in our products. If you wish to obtain further information about our services, such as web creation, web system development, SEO, and other IT related issues, you can contact us and ask us anything by clicking the button below.
+						Thank you for showing interest in our products. If you wish to obtain further information about our service, such as web creation and development, SEO and other IT related issues, please contact us and ask us about anything by clicking the button below.
 						</div>
 						<div class="text-center">
 							<a class="btn btn-hubungi smooth" href="#anchorForm">
@@ -188,7 +188,7 @@ if(isset($_POST['submitted']))
 						</div>
 					</div>
 					<img class="img-responsive kontak-img" src="../img/kontak-img.jpg" alt="Kontak Kami"/>
-					<div class="highlights-contact">If you’re aware that web is the key to your business success, we can help you.</div>
+					<div class="highlights-contact">If you are aware that the Web is the key to your business’s success, we are ready to help you.</div>
 					<div class="form-container">
 					<br/>
 						<!--<b>Before contacting us.</b><br/>
@@ -196,9 +196,9 @@ if(isset($_POST['submitted']))
 						Many customers ask us “How much does it cost to develop a website?“ That is a very difficult question.<br/>
 						We have experienced developing a simple website with around 15,000,000 IDR, but it is hard to tell you that the website is going to bring you any results. If you compare web developers in Indonesia there are a lot of companies that are much cheaper than us. We are sure that we can deliver a value in case you are looking for a reliable web developer that leads you to the goal and success for your business.<br/>
 						Of course we also will help you as well in case you would like to develop a minimum-scaled website with limited budget.<br/><br/>-->
-						<div>With more than 6 years of experience, LOGIQUE has been trusted by various companies both at national and international levels. In addition, with our professional team, we can provide high quality services for all of your projects.</div>
+						<div>With 7 years of experience, LOGIQUE is trusted by various companies at both the national and international levels. In addition, through our professional team, we will be able to provide to you high quality service for all of your projects.</div>
 						<div class="highlights2-contact" id="anchorForm">
-						Feel free to contact LOGIQUE about website creation, SEO, social media, inquiry about web-related consultation, or designing.
+						Feel free to contact LOGIQUE about creating a website, or inquire about any SEO, social media, web or design related questions you may have.
 						</div><br/>
 	                    <?php if(isset($msg))
 	                    {
@@ -258,10 +258,10 @@ if(isset($_POST['submitted']))
 									  <label><input type="checkbox" name="inquiry[]" value="We are looking for companies that would join the tender">We are looking for companies that would join the tender</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry[]" value="We are looking for consultant to start a business in Indonesia">We are looking for consultant to start a business in Indonesia</label>
+									  <label><input type="checkbox" name="inquiry[]" value="We are looking for consultants to start a business in Indonesia">We are looking for consultants to start a business in Indonesia</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry[]" value="We would like to visit your office when we are going to Jakarta for a business trip">We would like to visit your office when we are going to Jakarta for a business trip</label>
+									  <label><input type="checkbox" name="inquiry[]" value="We would like to visit your office when visiting Jakarta for a business trip">We would like to visit your office when visiting Jakarta for a business trip.</label>
 									</div>
 								</div>
 								<div class="clearfix"></div><br/>
@@ -293,7 +293,7 @@ if(isset($_POST['submitted']))
 						<br/>
 						<div class="row">
 							<div class="col-md-12">
-								If you want to get more information about various matters related to Logique, please select one of the options below:
+								If you are seeking further information about various matters related to our company, please select one of the options below:
 							</div>
 							<div class="col-md-4">
 								<a target="_blank" href="services.php" class="btn btn-hubungi btn-block">LOGIQUE Services</a>
@@ -319,21 +319,21 @@ if(isset($_POST['submitted']))
 							<div class="col-sm-3">
 								<div class="div-for-workflow">
 									<div class="valign-center">
-										We will do confirmation with you.
+										We will confirm with you.
 									</div>
 								</div>
 							</div>
 							<div class="col-sm-3">
 								<div class="div-for-workflow">
 									<div class="valign-center">
-										Deeper hearing, proposal, and quotation.
+										A more in-depth hearing, a proposal and quotation
 									</div>
 								</div>
 							</div>
 							<div class="col-sm-3">
 								<div class="div-for-workflow">
 									<div class="valign-center">
-										Contract signing and start the project.
+										Contract signing and project initiation
 									</div>
 								</div>
 							</div>
@@ -361,30 +361,30 @@ if(isset($_POST['submitted']))
 					</div>-->
 
 						<br/><br class="hidden-xs"/><div class="label-questions">Frequently asked questions:</div>
-						<h3 style=" line-height: 1; padding: 15px 0 20px;">Contact us and ask us anything about website creation, web system development, internet marketing, design, and other various things related in the digital world.</h3>
-						<div class="question">Is it possible for you to proceed the project communicating in English?</div>
-						<div class="answer">It is basically possible, thought there might be some difficult cases to proceed in English. Most of our staffs are able to communicate in English enough to proceed the projects. We are also open to the projects with companies in overseas.</div>
+						<h3 style=" line-height: 1; padding: 15px 0 20px;">Contact us regarding anything about web creation, system development, online marketing, design or various other topics related to the digital world.</h3>
+						<div class="question">Is it possible to proceed with a project using the English language?</div>
+						<div class="answer">It is possible, though there may be some difficulties. Most of our staff is able to communicate in English at a practical level. We have also ventured to start projects with overseas companies.</div>
 						<br/>
-						<div class="question">Is it possible for you to have meetings overseas?</div>
-						<div class="answer">Let us discuss about it with you first. Mostly we are offering video conference, but we might be able to go flexible depending on the case.</div><br/>
+						<div class="question">Is it possible for you to have a meeting overseas?</div>
+						<div class="answer">Let us discuss the matter with you first. Mostly, we offer video conference calls, but we might be able to be flexible depending on the case.</div><br/>
 
-						<div class="question">We are thinking to change our current web / system outsourcer and replace them with you.</div>
-						<div class="answer">Please contact us without any hesitation first and you do not need to worry too much about documentation and so on. In most of the cases we experienced, we are able to manage and operate the web / system even when there is not much handover documents, as long as the previous outsourcer was using general technologies.</div><br/>
+						<div class="question">We are thinking about changing out current web/system outsourcer and replace them with you.</div>
+						<div class="answer">Please contact us without any further hesitation. There is no need to worry too much about documentation, etc. In most cases he have experienced, we are able to operate the web / system even when there isn’t many handover documents, as long as the previous outsourcer used general technologies.</div><br/>
 
-						<div class="question">We are looking for a developer to build a management system for our business.</div>
-						<div class="answer">We are capable of developing various kinds of system with experiences of system developing such as customer management system, loan management system, recruitment system, pointing system, e-Commerce, contents management system, and more. We are expertized in system-developing with open web technologies. Please contact us to discuss more details with us.</div><br/>
+						<div class="question">We are seeking a developer to build a management system for our business.</div>
+						<div class="answer">We are capable of developing various kinds of systems through previous experience in the field of customer management systems development, as well as developing systems for improved recruitment, e-commerce, pointing, and content and loan management, among many others. We are experts in system development, utilizing open web technologies. Please contact us for further details.</div><br/>
 
 						<div class="question">We want to have a partnership / distributor contract with LOGIQUE.</div>
-						<div class="answer">Let us talk about it with you in detail. Please feel free to visit our office if your planning any trips to Jakarta.</div><br/>
+						<div class="answer">Let us talk about it with you in further detail. Please feel free to visit our office if you are planning any trips to Jakarta.</div><br/>
 
-						<div class="question">We want to build an mobile application.</div>
-						<div class="answer">We are capable of developing both Android and iOS applications for you. We will conduct planning of the mobile application as well if you would like us to.</div><br/>
+						<div class="question">We want to build a mobile application.</div>
+						<div class="answer">We are capable of developing both Android and iOS applications for you. We can begin planning the development of the mobile app as well, if you require it.</div><br/>
 
-						<div class="question">We would like to print a marketing tool but are you providing printing service other than designing?</div>
+						<div class="question">We would like to print a marketing tool, are you able to offer printing as well as designing services?</div>
 						<div class="answer">We can of course both design and print pamphlets. And we are also able to design and print other products such as T-shirts. In case you need to print something extremely difficult, you might better look for other company. We can also introduce you to the companies that we know if you would like us to.</div><br/>
 
-						<div class="question">Are you capable of implementing SEO in Indonesian language?</div>
-						<div class="answer">Yes. We have proved our SEO skills showing various website on the upper ranks in many industries such as finance, travel, education, etc. Our team that consist of Indonesian contents writers and Indonesian marketer will provide you the best result in SEO. We are also able to implement SEO in English and Japanese as well.</div><br/>
+						<div class="question">Are you capable of implementing SEO in the Indonesian Language?</div>
+						<div class="answer">Yes, and we have a proven track record of excellence in that area; helping many industries in the finance, travel and education fields promote their website so that it’s found in the upper ranks of the search results. Our team, consisting of many Indonesian content writers and marketers, will help provide you with the best SEO results. We are also able to implement SEO in the English and Japanese languages, as well.</div><br/>
 					</div>
 					<div class="map-container">
 						<iframe title="Office Map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1982.8748090433066!2d106.82702104991579!3d-6.296598097694437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f206effdebf1%3A0xca2d9403de2bfbe1!2sAD+Premier+Office+Park!5e0!3m2!1sen!2sid!4v1499330296225" allowfullscreen></iframe>

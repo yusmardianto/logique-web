@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia has done numerous of web development works from web system, design, mobile app, digital marketing, etc. Our works in Digital & IT area cover ASEAN countries, especially Indonesia and Japan. See our best achievements and portfolio with our clients here.">
+    <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia is frequently involved in numerous web development projects, ranging from designing web systems, mobile applications, digital marketing campaigns, and many other IT related ventures. Our work within the Digital and IT areas cover ASEAN countries; especially Indonesia and Japan. Click here to see our top achievements and clientele portfolio.">
 	<meta name="keywords" content="website creation, web-system development, designing, printing, corporate site, landing page">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Web Development Works | Portfolio | LOGIQUE Digital Indonesia">
@@ -12,7 +12,7 @@
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/portfolio.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUE Digital Indonesia has done numerous of web development works from web system, design, mobile app, digital marketing, etc. Our works in Digital & IT area cover ASEAN countries, especially Indonesia and Japan. See our best achievements and portfolio with our clients here.">
+	<meta property="og:description" content="LOGIQUE Digital Indonesia is frequently involved in numerous web development projects, ranging from designing web systems, mobile applications, digital marketing campaigns, and many other IT related ventures. Our work within the Digital and IT areas cover ASEAN countries; especially Indonesia and Japan. Click here to see our top achievements and clientele portfolio.">
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <title>Web Development Works | Portfolio | LOGIQUE Digital Indonesia</title>
 
@@ -130,8 +130,8 @@
 					<div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
 					<div class="form-container our-portfolio">
 						<div class="page-description page-part-container">
-						  LOGIQUE has various experiences in developing. In the near future we will update our portfolio of website / web-system development, mobile application development, and printing design.<br/><br/>
-									Contact us and we will introduce you our past portfolios of development, maintenance, and operation. Contact us from here:
+						LOGIQUE enjoys a wide range of experience in IT development. In the near future, we will update our website portfolio regarding our works in web-systems and mobile application development, and in printing design.<br/><br/>
+						Contact us and we will present to you our previous portfolios regarding development, maintenance and operation. You can contact us from here:
 									<div class="text-center">
 										<a href="contact.php" class="btn btn-contact-us-black" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
 											Contact us for LOGIQUE's portfolio
@@ -864,9 +864,9 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>Beneficial Point Management & E-Commerce System Development.</h4><hr>
-    							        <p>A web-based system used to organize incentive points programs for employees of client companies. This system consists of several integrated sub-systems, namely: supplier systems (suppliers), user systems (users), and service providers admins.</p>
-    							        <p>The development of this system takes 6 months. By bringing PHP platform with chosen frameworks, MySQL database, and hosting on Linux server on AWS cloud service, this system has proven to accommodate the business needs of incentive point program for company employees.</p><br>
-    							    	<p>To produce a system with high performance and stability, we developed an efficient approach to the application layer and database layer. Then on the server infrastructure side, we have implemented a modern server architecture and utilize the AWS autoscaling and loadbalancing features. So even though there are currently more than 10,000 active users spread across 3 sub-systems, system performance remains stable and maintained.</p>
+    							        <p>A web-based system used to organize a program based on incentive points for those in the employ of our clients. This system consists of several integrated subsystems, namely: supplier systems (suppliers), user systems (users), and service provider admins.</p>
+    							        <p>Developing this system takes 6 months to complete. By bringing PHP platforms within chosen frameworks, a MySQL database, and through hosting on Linux’s servers through an AWS cloud service, this system has proven to accommodate the business needs of companies that require the utilization of an incentive point program for their employees.</p><br>
+    							    	<p>In producing a stable system with a high performance capacity, we have developed an efficient approach to both the application and database layers. Then, In terms of the server’s infrastructure, we have implemented a more modern system of server architecture, utilizing AWS autoscaling and loadbalancing features. Therefore, regardless of the 10,000 currently active users across 3 sub-systems, its system performance maintains stability.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -882,7 +882,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>E-Commerce Development for MLM company.</h4><hr>
-    							        <p>MLM E-Commerce System with web-based technology. Consists of 3 modules, namely: admin management module, distributor module, and customer module. This system is equipped with features of postage calculations, profit margin calculation of distributors, distributors and users balance management, online registration, and purchase credit online. <br><br>With the support of integration with payment gateway service, customer can do transaction with credit card and virtual account. This system is quite complex. A series of development process takes 6 months.</p>
+    							        <p>The MLM E-Commerce system which utilizes web based technology consists of 3 modules; namely, an admin management module, a distributor module, and a customer module. This system is equipped with postage calculating features, the ability to calculate a distributor’s profit margin, a distributor-user balance management system, an online registration structure and an online credit purchasing system. Through the integration of a payment gateway service, customers can do transactions via credit card and a virtual account. Because of its complex and multifaceted system, its development takes 6 months.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -898,7 +898,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>Automobil Auction Mission Critical System Development.</h4><hr>
-    							        <p>Is an automotive auction system with a high level of complexity. It consists of an integrated online auction system, an auction object inventory management system, a financial system, and integrated mobile inspection based vehicle inspection systems, and mobile apps-based bidding applications. This system is integrated with core system and other support systems, so that customers can enjoy the experience of auction in realtime, either through PC browser or via mobile apps. <br><br>The system was developed with PHP platform with chosen frameworks, integrated with node.js technology, and using MySQL database. With an effective project management method, we successfully developed this application within 6 months. Performance of this system is quite critical. With a good application architecture design, as well as advanced server architecture design, the performance of this system is very stable, although the current user activity on this system is very active.</p>
+    							        <p>A highly complex automotive auctioning system consisting of an integrated online auction system as well as auction-object management, financial and mobile based vehicle inspection systems, with a mobile bidding application. The structure is integrated within a core system, supported by various other mechanics, so that customers can enjoy the experience of auctioning in real time, either through a PC browser or via mobile apps.<br><br>This system was developed on a PHP platform with chosen frameworks, and integrated using node.js technology and uses a MySQL database. Utilizing an effective project management strategy, we have successfully developed the following application within a 6 month timeframe. Furthermore, the use of comprehensive application design and server architecture has made the performance of this system very stable, despite having high levels of user activity.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -914,7 +914,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>Mobile Application Development (Auction Bidding Android).</h4><hr>
-    							        <p>Android based application that we designed to facilitate the customers of auction companies in the online auction in realtime. The integration of android platform with node.js, as well as good UI/UX design, brings experience like auctioning directly at the auction location. With the support of high-performance APIs design, and Linux server hosting servers, as well as server architectures that have adopted the AWS autoscaling and loadbalancing features, the performance of these bidding applications is unquestionable.</p>
+    							        <p>This Android based application is used to facilitate customers of auction companies functioning online and in real-time. Through integrating this android platform through node.js, as well as making use of a thorough UI/UX design, it is able to bring the auctioning experience directly to the auction location. With the support of high-performance API designs, Linux hosting servers, as well as server architectures which have adapted AWS autoscaling and loadbalancing features, the performance quality of our bidding application is undeniable.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -930,7 +930,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>Mobile Application (Vehicle Inspection / Scoring System).</h4><hr>
-    							        <p>The system we developed is an android-based applications used for vehicle inspection activities before it is auctioned. More than 900 vehicle parts are inspected through this application. With the help of the application, the inspection and recording of the results can be done very efficiently. The results are stored directly in the core system in realtime. <br><br>With a good UI/UX design, users of this application can easily perform the inspection process, no matter how many vehicle parts it involves. <br>In terms of performance, this application is very stable. In addition to the android API designed with a good performance approach, this system is also supported by a good server architecture design and has taken advantage of AWS autoscaling and loadbalancing features.</p>
+    							        <p>This system is an android based application used for inspecting vehicles before they are auctioned. More than 900 vehicle parts are inspected through this application, after which the results are efficiently recorded and sorted directly into its core system in real-time.<br><br>Utilizing a thorough UI/UX design, users of this application can easily perform the inspection process, regardless of how many vehicle parts are involved. In terms of performance, it is very stable. In addition to the android API, its system is further supported by a good server architecture design and utilizes AWS autoscaling and loadbalancing features.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -946,7 +946,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>CRM System for Motor-Bike Road Servicer.</h4><hr>
-    							        <p>What we developed and are still keep developing is a CRM system for motor insurance. With this system, admin team can easily manage customer data, manage insurance period extensions, manage policy payments, manage dealer partners, manage policy prices, and manage insurance claim data from customers. While for customers, this system provides easiness in terms of demand for insurance extension, insurance planning by simulating the premium price based on the price of the vehicle. <br><br>This system is built with PHP technology with chosen platforms, HTML-CSS3, Javascript, JQuery/Ajax, and MySQL database. This system is integrated with gateway payment service from leading service providers, making it easier for customers to transact using credit card and electronic money.</p>
+    							        <p>We have developed the following CRM system for motor insurance, and are currently further adding to its features. Through this system, an administration team can easily manage customer data, as well as insurance period extensions, policy payments, dealer partners, policy prices and customer insurance claim data. For customers, the system can provide a comprehensive outline regarding the demand for insurance extension and planning by simulating premium prices based on the cost of a vehicle. <br><br>This system was built with PHP technology with chosen platforms, HTML-CSS3, Javascript, JQuery/Ajax and utilizes a MySQL database. Is it integrated with a gateway payment service from leading service providers, making it easier for customers to make transactions using a credit card and/or electronic money.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -962,7 +962,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>CRM System for Auction Buyers.</h4><hr>
-    							        <p>CRM system for auction company's customers (Buyers), that through this system, customers can check bills, get important information such as history of auction participation, and manage the reward points they get from purchase transactions that have been done. <br><br>This system is developed with PHP platform with chosen frameworks, and using MySQL database. Customer can get real time information, because this system is connected to a real time core system via secured-API.</p>
+    							        <p>Through this system, customers are able to check bills, receive important information such as auction history and participation, and further manage any reward points accumulated from their purchases. This system was developed using a PHP platform with chosen frameworks, and utilizes a MySQL database. Customers can receive information in real-time as the system is connected to a live core system via secured-API.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -978,7 +978,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>Component / Layout management Cloud System for Magazine Publisher.</h4><hr>
-    							        <p>Web-based layout management system for setting the layout of advertising columns for print media from leading Japanese Free-paper publisher. With good UI/UX design support, this web application is very easy to use (user-friendly). With drag-and-drop feature, the user can set the ad layout as desired. This system also features export and import layout settings in the form of csv files. <br><br>The system was developed with PHP technology with chosen framework, JQuery, and HTML5-CSS3. The process of developing this web application takes 3 months.</p>
+    							        <p>This is a web-based management system used for setting advertisement column layouts and for printing media from a leading Japanese Free-paper publisher supports a through UI/UX design. Further, this application is very user friendly; with its drag-and-drop feature, users can set the ad layout to their specific requirements. This system also features export and import layout settings in the form of CSV files. <br><br>The system was developed with PHP technology with chosen framework, JQuery, and HTML5-CSS3. The process of developing this web application takes 3 months.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -994,7 +994,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>Used car market place development and operation.</h4><hr>
-    							        <p>Used car marketplace system used by many second-hand car dealers in Jakarta and outside Jakarta. The system is developed with PHP technology with chosen frameworks and runs on Linux platform on AWS server. The development process of this web-based marketplace application takes 3 months.<br><br>The user's response to this service continues to increase over time. Currently the system serves more than 30,000 visitors every day. Although traffic is quite solid, the system is very stable. <br><br>In addition to web-based technology, the system is also integrated with mobile apps based on Android (Native) and IOS (Swift)</p>
+    							        <p>The following application is a second hand marketplace system used by many car dealerships inside and outside of Jakarta. It was developed using PHP technology with Chosen Frameworks and runs on a Linux platform through a AWS server. The prcess of developing this service in ongoing; currently, the system boasts more than 30,000 visitors daily. Although traffic is quite solid, the system is very stable. In addition to web based technology, the system is also integrated with mobile apps based on Android (Native) and iOS (Swift).<br><br>The user's response to this service continues to increase over time. Currently the system serves more than 30,000 visitors every day. Although traffic is quite solid, the system is very stable. <br><br>In addition to web-based technology, the system is also integrated with mobile apps based on Android (Native) and IOS (Swift)</p>
     							      </div>
     							    </div>
     							  </div>
@@ -1010,7 +1010,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>Development system of a digital map.</h4><hr>
-    							        <p>Development system of a digital map. The system is used for mapping the progress of projects implemented in ASEAN countries. The system was developed with PHP technology with chosen framework, Google Maps API, HTML5-CSS3, and MySQL database. The process of this system development takes 3 months.</p>
+    							        <p>A Digital map system used for coordinating the progress of projects implemented within ASEAN countries. The system was developed using PHP technology utilizing chosen frameworks, Google Maps API, HTML5-CSS3 and a MySQL database. The development process takes 3 months.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -1026,7 +1026,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>Vehicle C2C Auction System.</h4><hr>
-    							        <p>C2C auction system. There are about 2,000 vehicles auctioned and divided into 4 auctions, followed by about 300 users each month. The system is developed with PHP technology with chosen frameworks, JQuery/Ajax, HTML5-CSS3, and MySQL database. The development of this system takes 2 months.</p>
+    							        <p>Through the C2C aution system, there are around 2000 vehicles auctioned and divided into 4 sale categories. This application garners around 300 users per month, and was developed using PHP technology with chosen frameworks, JQuery/Ajax, HTML5-CSS3 and uses a MySQL database. Developing this system takes 2 months.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -1042,7 +1042,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>Secure CMS Development for public organization.</h4><hr>
-    							        <p>CMS web system for public organizations: The system was developed to manage the content of public organizations websites. With this system a web admin can easily manage the website content. This CMS web system is developed with PHP technology with chosen framework, HTML5-CSS3, javascript, JQuery, and MySQL database. This CMS web development process takes 2 months.</p>
+    							        <p>The CMC Web System was developed for public organizations and to manage their website content. Through this system, admin can easily manage their website’s content. This application was developed with PHP technology with chosen frameworks, HTML5-CSS3, javascript, JQuery, and utilizes a MySQL database.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -1059,7 +1059,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>E-commerce (e-book) CMS development.</h4><hr>
-    							        <p>E-Commerce CMS system used by a distributor of books from Japan. This system is developed with PHP technology with chosen framework, HTML5-CSS3, and MySQL database. With this web CMS, website administrator can easily manage the company's website content. This web development CMS takes 2 months.</p>
+    							        <p>An E-Commerce CMC system used by a book distributor from Japan. This system was developed using PHP technology with chosen framework, HTML5-CSS3, and utilizes a MySQL database. With this web CMS, website administrators can easily manage a company’s website content. Developing this CMS takes 2 months.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -1075,7 +1075,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>Job Portal System Development.</h4><hr>
-    							        <p>Job portal system built with PHP technology, HTML5-CSS3, and MySQL database. This job portal is hosted on the AWS Linux server. Companies can search and find job seekers and job seekers can see vacant and open jobs on the website. Candidates can apply for the position directly. The percentage of users of this service is the majority of Japanese companies in Indonesia.</p>
+    							        <p>A job portal system built with PHP technology, HTML5-CSS and utilizes a MySQL database. This job portal is hosted on the AWS Linux server. Companies can connect with job seekers, while potential employees can see which jobs are vacant on the website, and can apply for the position directly. The percentage of those who use this service constitutes the majority of Japanese companies in Indonesia.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -1091,7 +1091,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>Hiring (recruitment) Management System.</h4><hr>
-    							        <p>Corporate website equipped with a recruitment system. Job seekers who are interested in working at this company can apply directly through the website. With a high level of security, the confidentiality of the applicant's data is more assured. The system is built with PHP technology, and uses the chosen frameworks, HTML5-CSS3, as well as the Ms. SQL Server database. The development process takes 3 months.</p>
+    							        <p>A corporate website equipped with a recruitment system. Potential employees who are interested in working with us can apply directly through the website. Maintaining a high level of security, the confidentiality of the applicant’s data is assured. The system is built with PHP technology, and uses the chosen frameworks, HTML5-CSS3, as well as utilizing the Ms.SQL server database. The development process takes 3 months.</p>
     							      </div>
     							    </div>
     							  </div>

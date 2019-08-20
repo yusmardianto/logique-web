@@ -64,7 +64,11 @@ ga('send', 'pageview');
 					</div>
 			 
 					<div class="col-sm-4 link-footer">
-						<p>LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.	</p>
+						<p>LOGIQUE seeks to provide the best solutions to your problems, optimized for your
+							business. Through an innovative combination of artistic design and information
+							architecture, our professional team specializes in the creation of a wide range of
+							systems; from large scale corporate websites, to smartphones, responsive web
+							design, system development, graphic design and more. </p>
 					</div>
 				</div>
 				<br/>

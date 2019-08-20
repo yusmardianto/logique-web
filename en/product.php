@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="LOGIQUE provides you with various digital products to improve your business productivity. HR Cloud Tool, daily report & evaluation tool, and recruitment management system for HR. Try our products now! We ensure your work will be much easier & efficient!">
+    <meta name="description" itemprop="description" content="LOGIQUE aims to provide you with various digital products to improve your business productivity. HR Cloud tools, daily report and evaluation tools, as well as recruitment and managements systems for HR. Try our products now! We ensure your work will be much easier and more efficient!">
     <meta name="keywords" content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
   	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="HR Cloud Tool | Daily Report, Recruitment Management System | LOGIQUE Digital Indonesia">
@@ -12,7 +12,7 @@
   	<meta property="og:site_name" content="Logique">
   	<meta property="og:url" content="https://www.logique.co.id/en/product.php">
   	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-  	<meta property="og:description" content="LOGIQUE provides you with various digital products to improve your business productivity. HR Cloud Tool, daily report & evaluation tool, and recruitment management system for HR. Try our products now! We ensure your work will be much easier & efficient!">
+  	<meta property="og:description" content="LOGIQUE aims to provide you with various digital products to improve your business productivity. HR Cloud tools, daily report and evaluation tools, as well as recruitment and managements systems for HR. Try our products now! We ensure your work will be much easier and more efficient!">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <title>HR Cloud Tool | Daily Report, Recruitment Management System | LOGIQUE Digital Indonesia</title>
     <!-- Bootstrap -->
@@ -110,7 +110,7 @@
 							  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 							  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Product</span></a><meta itemprop="position" content="2" /></li>
 							</ol>
-							<h1 class="tagline">We create functional digital products, especially HR Management Systems to improve companies productivity.</h1>
+							<h1 class="tagline">We create efficient digital products, especially HR management systems to improve company productivity.</h1>
 						</div>
 					</div>
         </div>
@@ -123,7 +123,7 @@
           <div class="title" style="font-weight:normal"><span class="yellow">Our</span>Product</div>
           <div class="form-container">
             <p>
-              In order to help companies growing and improving in the digital era, LOGIQUE creates and develops digital products of HR management system for easier employee managements and higher productivity. Ranging from solutions for increasing productivity through flexible work, man-hour cost management through daily reports, to recruitment management system to recruit the right employees easily and efficiently.
+              In order to help companies grow and improve in a digital ear, LOGIQUE creates and develops digital products regarding HR management systems for better employee organization and therefore improved productivity. Ranging from solutions to increase worker output through flexible working methods, man-hour cost management through daily reports, to recruitment management systems which greatly assist in finding the most qualified employees in the most efficient manner possible.
             </p>
           </div>
           <div class="img-container">
@@ -131,7 +131,7 @@
 					</div>
           <div class="feel-free row-center-sm" style="font-size: 18px;">
 						<div class="col-sm-8">
-							Feel free to consult us about how HR Management Systems can help you.
+							Feel free to inquire further about how our HR Management products can help you.
 						</div>
 						<div class="col-sm-4">
 							<a href="contact.php" class="btn btn-contact-service" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-1', 'Action-Click', 'Button-Hubungi-Logique-Layanan-1-Label');">Contact LOGIQUE</a>
@@ -148,10 +148,10 @@
 							</div>
               <div class="col-md-7 col-sm-8">
                 <p>
-                  Solution For Working Flexibly and Be More Productive
+					A solution to flexible working while maximizing productivity.
                 </p>
                 <p>
-                  Do you have trouble monitoring your employees’ productivity? This system can monitor, even possibly increase your employees productivity by keeping a track of how they’re spending their work-hours real time with auto-screencapture feature. Find out if they get their tasks done efficiently. With Dokodemo-Kerja, remote work system is possible. Let your workers be happy and be more productive with flexible work-hours anywhere.
+					Do you experience trouble keeping track of your employee’s productivity? Our software can monitor and potentially increase employee productivity through keeping track of how they spend their working hours in real-time through an auto screen capture feature. Find out if they are conducting their tasks efficiently. Also, Dokodemo-Kerja allows for more effective remote working, and lets those in your employ, through flexible working hours, work anywhere, thereby potentially maximizing employee happiness as well as efficiency.
                 </p>
               </div>
             </div>
@@ -171,10 +171,10 @@
 							</div>
 							<div class="col-md-7 col-sm-8">
 								<p>
-                  Daily Report and Man-Hour Cost Management System
+                  	Daily Report and Man-Hour Cost Management System
                 </p>
 								<p>
-                  See if your employees spend man-hours on each project efficiently through their daily reports with Nippo. Nippo is a daily report tool where employees can report their works and how many man-hours spent for each project. They also can tag and give feedbacks to each other for collaboration projects. You can see the calculations of man-hour cost for each project done by your employees. With Nippo, evaluation and self-assessment can be done every day.
+					See how your employees are spending their working hours through writing daily reports with Nippo, a daily recording tool where employees document their work and the hours put into each project. They can also tag and give feedback to one another for collaborative assignments. This is useful for HR, as management can calculate the man-hour cost for each project done by your employees. With Nippo, evaluation and self-assessment can be done every day.
                 </p>
 							</div>
 						</div>
@@ -194,10 +194,10 @@
 							</div>
 							<div class="col-md-7 col-sm-8">
 								<p>
-                  Recruitment Management System to Make Recruitment Easy
+					A management system which makes recruitment easy.
                 </p>
                 <p>
-                  Are you tired of sifting through too many unqualified job applicants? Now, it can be done easily and efficiently with Sugoi Saiyo. Sugoi Saiyo is an IT cloud system for HR department to recruit the right employees, and for applicants to apply a job with simple steps and clear score assessment. The system includes all basic process of recruitment, from CV receptions, test, interview scheduling, up to the offering letter submitted through the website.
+					Are you tired of sifting through unqualified job applicants? Now, the process can be done easily and efficiently, through SugoiSaiyo, an IT cloud system utilized by the HR department in order to recruit the right employees, and for applicants to apply for jobs through simple steps and a clear score assessment. The system includes all of the basic recruitment processes, from CV receptions, testing, interview scheduling, to providing the offering letter submitted through the website.
                 </p>
 							</div>
 						</div>
@@ -211,13 +211,13 @@
             <span style="font-size:30px;">Ask us more about our products.</span><br/>
             <div class="list-on-services">
               <ul class="fa-ul">
-                <li><i class="fa-li fa fa-check"></i>Do you want to implement remote working system but don’t know how?</li>
-                <li><i class="fa-li fa fa-check"></i>Are you looking for a cloud tool of remote workers management system?</li>
-                <li><i class="fa-li fa fa-check"></i>Do you need a system / tool to make recruitment process easy?</li>
-                <li><i class="fa-li fa fa-check"></i>Do you have trouble in monitoring and evaluating how all employees did their tasks?</li>
-                <li><i class="fa-li fa fa-check"></i>Are you looking for an easy-to-use tool for employee managements?</li>
-                <li><i class="fa-li fa fa-check"></i>Do you need HR Management Systems but don’t have IT expert in your company?</li>
-                <li><i class="fa-li fa fa-check"></i>Do you have a company that needs affordable HR Management Systems start from IDR 1M/month?</li>
+                <li><i class="fa-li fa fa-check"></i>Do you want to implement remote working systems, but don’t know how to?</li>
+                <li><i class="fa-li fa fa-check"></i>Are you looking for a cloud tool based remote working management system?</li>
+                <li><i class="fa-li fa fa-check"></i>Do you need a tool to make the recruitment process easier?</li>
+                <li><i class="fa-li fa fa-check"></i>Do you have trouble monitoring and evaluating how your employees are conducting their work?</li>
+                <li><i class="fa-li fa fa-check"></i>Are you looking for an easy-to-use tool for managing your employees?</li>
+                <li><i class="fa-li fa fa-check"></i>Do you need an HR management system, but don’t have an IT expert in your company?</li>
+                <li><i class="fa-li fa fa-check"></i>Do you have a company they needs affordable HR management software starting from IDR 1M/Month?</li>
               </ul>
             </div>
             <div class="text-center">

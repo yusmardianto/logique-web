@@ -742,7 +742,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="bold">Speed & Flexibility</h4>
+								<h4 class="bold">Speed and Flexibility</h4>
 								<p>
 									The pace at which businesses develop keeps getting faster. If it took a year, or even half a year
 									to develop a system, the business still would struggle keeping up with environmental changes.
@@ -752,7 +752,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h4 class="bold">Quality & Security</h4>
+								<h4 class="bold">Quality and Security</h4>
 								<p>
 									Through conducting our work with speed, quality should not be sacrificed. Any potential risks
 									will be minimized and programming with have a high level of maintainability. We make sure
