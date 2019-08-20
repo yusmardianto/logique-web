@@ -327,15 +327,23 @@
 										The <span class="yellow">Top</span> Web Developer Company in Jakarta, Providing <span class="yellow">Digital Solutions</span> For Your Business
 									</h1>
 									<p class="p-padding-v-15">
-										<b>LOGIQUE DIGITAL INDONESIA</b>, a professional and experienced Web Developer company that serves Website and Apps creation and development, Web Design, also Digital Marketing operations to improve your business and increase profits. 
-										We have worked with many large clients from local and international range with various needs, from creating E-Commerce, Online Auction Systems, employee recruitment systems, to Digital Ads operations.
-									</p>
-									<p class="p-padding-v-15">
-										We commit in producing a variety of high quality and international standard digital products. 
-										We are the trustworthy experts and we work flexibly to your request. 
-										Grow and improve the profits of your business in the digital age with the best solutions that we provide. 
-										See the details below.
-									</p>
+									<b>LOGIQUE DIGITAL INDONESIA</b> is a professional Web Development company that
+												specializes in creating and designing Websites and Apps, with an emphasis on
+												Digital Marketing operations with the end goal of improving your business and
+												maximizing profits.
+												Having worked with many high-end clients ranging from the local to international
+												levels, our company has catered to various requests, such as creating online 
+												auction systems, E-Commerce, employee recruitment systems and digital ads
+												operations. 
+										</p>
+										<p class="p-padding-v-15">
+												We are committed to producing a variety of high quality digital products for our
+												clients which conform to an international standard of excellence. We are
+												trustworthy experts and can work flexibly according to your specific requests.
+												Working with us and utilizing the best solutions provided by our team is an
+												opportunity to grow and improve your business’s overall profits in a digitalized
+												age. 
+										</p>
 									<div class="row">
 										<div class="col-lg-offset-1 col-lg-10">
 											<div class="row">
@@ -375,20 +383,27 @@
 								</h1>
 								<div class="row">
 									<div class="col-md-10 col-md-offset-1 text-center">
-										<p class="p-padding-v-15">
-											The high level of congestion, as well as various uncertain problems of each employee, will surely reduce the mobility of employees. 
-											Therefore, company productivity decreases. LOGIQUE offers you a solution to flexible working or remote working for employees, a system called Dokodemo-Kerja. 
-											This system can monitor and calculate employee working hours accurately. 
-											In addition, this software is also equipped with various supporting features that work automatically so that company management can assess each employee efficiently.
-										</p>
-										<p class="p-padding-v-15">
-											We also offer a recruitment system that can help recruiting be more effective and efficient for HR teams or job seekers, called <b>Sugoi Saiyo</b>. 
-											This system will make it easier for HR to carry out the recruitment process, so that companies can get the right candidates in a short time and structured way, because it can even set up when and where the interview process will take place.
-										</p>
-										<p class="p-padding-v-15">
-											To complete the HR-Tech solution, LOGIQUE also offers a daily reporting management system for employees, called <b>Nippo</b>. 
-											This system can help company managements easily monitor and evaluate employee performance every day.
-										</p>
+											<p class="p-padding-v-15">
+												Due to high levels of traffic congestion, as well as numerous other performance
+												hindering circumstances, overall employee mobility will likely be affected. As a
+												result, the productivity of the company declines. LOGIQUE offers a flexible
+												solution to the limitations of remote working for employees; our software,
+												Dokodemo-Kerja. This system can accurately monitor and calculate employee
+												working hours.
+											</p>
+											<p class="p-padding-v-15">
+												We also offer recruitment software which can assist Human Resources through
+												connecting job seekers and employers in a more effective manner. Sugoi Saiyo is
+												a system designed to carry out the recruitment process so that the most suitable
+												candidates can be filtered through to HR quickly and more efficiently,
+												automatically structuring the time and place of the interview.
+											</p>
+											<p class="p-padding-v-15">
+												Through bridging the link between HR and Technology, LOGIQUE also offers a
+												helpful way to assist management in easily monitoring and evaluating the
+												progression of employee performance through a daily reporting system called
+												Nippo.
+											</p>
 										<div class="row">
 											<div class="col-md-3">
 												<a href="/en/product/dokodemo-kerja.php" class="flipp">
@@ -421,11 +436,14 @@
 								</h1>
 								<div class="row">
 									<div class="col-md-10 col-md-offset-1 text-center">
-										<p class="p-padding-v-15">
-											For 7 years, LOGIQUE has been supporting clients from local and international in creating and developing Websites, Mobile Apps, and Digital Marketing. 
-											In accordance with our goals, LOGIQUE commits to provide the best solutions for our clients. 
-											We have worked successfully on many projects, including e-commerce development, car/motorcycle auction management system development, customer management system development, and many more.
-										</p>
+											<p class="p-padding-v-15">
+												For 7 years, LOGIQUE has helped many high-end clients, ranging from the local to
+												international levels, by developing and designing various Websites and Mobile 
+												Apps. In accordance to our goals, LOGIQUE commits to providing the best
+												solutions to our clients; having worked successfully on many products regarding
+												e-commerce development, car/motorcycle auction management, customer
+												management system development and much more.
+											</p>
 										<div class="row">
 											<div class="col-md-3">
 												<a href="/en/case-study/caroline-bidding-system/" class="flipp">
