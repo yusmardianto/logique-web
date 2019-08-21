@@ -524,7 +524,7 @@
 						</div>
 					</div>
 				</div>
-
+										<!-- FIRST LINE -->
 				<div class="csection7">
 					<div class="container">
 						<div class="row">
@@ -547,15 +547,15 @@
 							<div class="col-md-3 card" data-name="5">
 								<div class="panel panel-default">
 									<div class="panel-body">
-										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
 										<img src="/img/career/qa.png" />
-										<h3>Quality Assurance</h3>
+										<h3>Lead Quality Assurance</h3>
 										<div class="boxfull">Fulltime</div>
 									</div>
 									<div class="panel-footer">
 										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/quality-assurance.php" id="quality-assurance">Detail</a>
+											<a class="btn btn-detail" href="detail/lead-quality-assurance.php" id="lead-quality-assurance">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -611,6 +611,8 @@
 							
 						</div>
 
+										<!-- SECOND LINE -->
+
 						<div class="row">
 						<div class="col-md-3 card" data-name="10">
 								<div class="panel panel-default">
@@ -624,6 +626,22 @@
 										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/web-security.php" id="it-security">Detail</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						<div class="col-md-3 card" data-name="5">
+								<div class="panel panel-default">
+									<div class="panel-body">
+										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+										<img src="/img/career/qa.png" />
+										<h3>Quality Assurance</h3>
+										<div class="boxfull">Fulltime</div>
+									</div>
+									<div class="panel-footer">
+										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="text-center">
+											<a class="btn btn-detail" href="detail/quality-assurance.php" id="quality-assurance">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -660,6 +678,11 @@
 									</div>
 								</div>
 							</div>
+							
+						</div>
+
+										<!-- THIRD LINE -->
+						<div class="row">
 							<div class="col-md-3 card" data-name="10">
 								<div class="panel panel-default">
 									<div class="panel-body">
@@ -676,11 +699,6 @@
 									</div>
 								</div>
 							</div>
-						</div>
-
-						<div class="row">
-							
-
 							<div class="col-md-3 card" data-name="10">
 								<div class="panel panel-default">
 									<div class="panel-body">
@@ -698,6 +716,7 @@
 								</div>
 							</div>
 						</div>
+						
 
 						<!-- On Hold -->
 						<div class="row">
