@@ -603,7 +603,7 @@
 									<div class="panel-footer">
 										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/product-developer.php" id="product-developer">Detail</a>
+											<a class="btn btn-detail" href="detail/fullstack-product-developer.php" id="fullstack-product-developer">Detail</a>
 										</div>
 									</div>
 								</div>
