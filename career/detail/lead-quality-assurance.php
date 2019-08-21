@@ -133,8 +133,8 @@
 								<div class="col-md-6 text-center">
 									<h1><img src="/img/career/qa.png" style="filter: contrast(0%) brightness(150%);"> Lead Quality Assurance</h1>
 								</div>
-								<div class="col-md-6 text-center">
-									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
+								<div class="col-md-5 text-center">
+									<div class="urgent-need"><img src="/img/career/urgent.png"></div>
 								</div>
 							</div>
 						</div>
@@ -206,7 +206,7 @@
 										<br>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'QA-Apply-Button', 'Action-Click', 'QA-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Lead-QA-Apply-Button', 'Action-Click', 'Lead-QA-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>

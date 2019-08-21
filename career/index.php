@@ -23,10 +23,20 @@
 	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link href="/css/aos.css" rel="stylesheet">
-
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+	<!-- End Google Tag Manager -->	
 </head>
 
 <body>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 	<div class="wrapper">
 
 		<!-- NAVIGATION -->
@@ -530,14 +540,21 @@
 						<div class="row">
 							<div class="col-md-3 card" data-name="1">
 								<div class="panel panel-default">
+									
 									<div class="panel-body">
+										
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
 										<img src="/img/career/contentwriter.png" />
 										<h3>Web Developer</h3>
 										<div class="boxfull">Fulltime</div>
+										
 									</div>
+									
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<!-- <p><img src="/img/career/siren.png" /> Urgently Needed</p> -->
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/web-developer.php" id="web-developer">Detail</a>
 										</div>
@@ -553,7 +570,9 @@
 										<div class="boxfull">Fulltime</div>
 									</div>
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/lead-quality-assurance.php" id="lead-quality-assurance">Detail</a>
 										</div>
@@ -569,7 +588,9 @@
 										<div class="boxfull">Fulltime</div>
 									</div>
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/project-manager.php" id="project-manager">Detail</a>
 										</div>
@@ -601,7 +622,9 @@
 										<div class="boxfull">Fulltime</div>
 									</div>
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/fullstack-product-developer.php" id="fullstack-product-developer">Detail</a>
 										</div>
@@ -623,7 +646,9 @@
 										<div class="boxfull">Fulltime</div>
 									</div>
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/web-security.php" id="it-security">Detail</a>
 										</div>
@@ -639,7 +664,9 @@
 										<div class="boxfull">Fulltime</div>
 									</div>
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/quality-assurance.php" id="quality-assurance">Detail</a>
 										</div>
@@ -872,7 +899,9 @@
 										<div class="boxfull" style=" background: #3e64ff; ">Internship</div>
 									</div>
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/intern-hr.php" id="intern-hr">Detail</a>
 										</div>
@@ -888,7 +917,9 @@
 										<div class="boxfull" style="background: #3e64ff; ">Internship</div>
 									</div>
 									<div class="panel-footer">
-									<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/intern-sales-admin.php" id="intern-sales-admin">Detail</a>
 										</div>
@@ -904,7 +935,9 @@
 										<div class="boxfull" style="background: #3e64ff; ">Internship</div>
 									</div>
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/intern-sales-it.php" id="intern-sales-it">Detail</a>
 										</div>
