@@ -528,7 +528,7 @@
 				<div class="csection7">
 					<div class="container">
 						<div class="row">
-							<div class="col-md-3" data-name="1">
+							<div class="col-md-3 card" data-name="1">
 								<div class="panel panel-default">
 									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -544,7 +544,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3" data-name="5">
+							<div class="col-md-3 card" data-name="5">
 								<div class="panel panel-default">
 									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -560,7 +560,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3" data-name="10">
+							<div class="col-md-3 card" data-name="10">
 								<div class="panel panel-default">
 									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -592,7 +592,7 @@
 									</div>
 								</div>
 							</div> -->
-							<div class="col-md-3" data-name="3">
+							<div class="col-md-3 card" data-name="3">
 								<div class="panel panel-default">
 									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -603,7 +603,7 @@
 									<div class="panel-footer">
 										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
 										<div class="text-center">
-											<a class="btn btn-detail" href="detail/product-developer.php" id="product-developer">Detail</a>
+											<a class="btn btn-detail" href="detail/fullstack-product-developer.php" id="fullstack-product-developer">Detail</a>
 										</div>
 									</div>
 								</div>
@@ -612,7 +612,7 @@
 						</div>
 
 						<div class="row">
-						<div class="col-md-3" data-name="10">
+						<div class="col-md-3 card" data-name="10">
 								<div class="panel panel-default">
 									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -628,7 +628,7 @@
 									</div>
 								</div>
 							</div>
-						<div class="col-md-3" data-name="4">
+						<div class="col-md-3 card" data-name="4">
 								<div class="panel panel-default">
 									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -644,7 +644,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3" data-name="10">
+							<div class="col-md-3 card" data-name="10">
 								<div class="panel panel-default">
 									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -660,7 +660,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3" data-name="10">
+							<div class="col-md-3 card" data-name="10">
 								<div class="panel panel-default">
 									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -681,7 +681,7 @@
 						<div class="row">
 							
 
-							<div class="col-md-3" data-name="10">
+							<div class="col-md-3 card" data-name="10">
 								<div class="panel panel-default">
 									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -844,7 +844,7 @@
 							</div>
 						</div>
 							<div class="row">
-							<div class="col-md-3" data-name="10">
+							<div class="col-md-3 card" data-name="10">
 								<div class="panel panel-default">
 									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -860,7 +860,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3" data-name="10">
+							<div class="col-md-3 card" data-name="10">
 								<div class="panel panel-default">
 									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -876,7 +876,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3" data-name="10">
+							<div class="col-md-3 card" data-name="10">
 								<div class="panel panel-default">
 									<div class="panel-body">
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -974,8 +974,11 @@
 		<?php include '../footer.php'; ?>
 
 		<script src="/js/aos.js"></script>
+		<script src="/js/jquery.matchHeight.js"></script>
 		<script type="text/javascript">
 			$(function() {
+				$(".panel-body").matchHeight()
+				$(".bofxull").matchHeight()
 				$('.smooth').click(function() {
 					if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
 						var target = $(this.hash);

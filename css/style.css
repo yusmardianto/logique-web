@@ -3613,6 +3613,8 @@ margin-left: 60px;
 
 .csection7 .panel-body {
     background: rgba(255, 202, 19);
+    position: relative;
+    padding-bottom: 2em;
 }
 
 .csection7 .panel-footer {
@@ -3643,7 +3645,9 @@ margin-left: 60px;
     width: max-content;
     padding: 0 1em;
     color: #fff;
-    margin-bottom: -15px;
+    position: absolute;
+    bottom: 0;
+    
 }
 
 .csection7 .panel-footer .btn-apply {
