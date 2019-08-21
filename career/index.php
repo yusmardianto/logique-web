@@ -540,14 +540,21 @@
 						<div class="row">
 							<div class="col-md-3 card" data-name="1">
 								<div class="panel panel-default">
+									
 									<div class="panel-body">
+										
 										<div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
 										<img src="/img/career/contentwriter.png" />
 										<h3>Web Developer</h3>
 										<div class="boxfull">Fulltime</div>
+										
 									</div>
+									
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<!-- <p><img src="/img/career/siren.png" /> Urgently Needed</p> -->
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/web-developer.php" id="web-developer">Detail</a>
 										</div>
@@ -563,7 +570,9 @@
 										<div class="boxfull">Fulltime</div>
 									</div>
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/lead-quality-assurance.php" id="lead-quality-assurance">Detail</a>
 										</div>
@@ -579,7 +588,9 @@
 										<div class="boxfull">Fulltime</div>
 									</div>
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/project-manager.php" id="project-manager">Detail</a>
 										</div>
@@ -611,7 +622,9 @@
 										<div class="boxfull">Fulltime</div>
 									</div>
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/fullstack-product-developer.php" id="fullstack-product-developer">Detail</a>
 										</div>
@@ -633,7 +646,9 @@
 										<div class="boxfull">Fulltime</div>
 									</div>
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/web-security.php" id="it-security">Detail</a>
 										</div>
@@ -649,7 +664,9 @@
 										<div class="boxfull">Fulltime</div>
 									</div>
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/quality-assurance.php" id="quality-assurance">Detail</a>
 										</div>
@@ -882,7 +899,9 @@
 										<div class="boxfull" style=" background: #3e64ff; ">Internship</div>
 									</div>
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/intern-hr.php" id="intern-hr">Detail</a>
 										</div>
@@ -898,7 +917,9 @@
 										<div class="boxfull" style="background: #3e64ff; ">Internship</div>
 									</div>
 									<div class="panel-footer">
-									<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/intern-sales-admin.php" id="intern-sales-admin">Detail</a>
 										</div>
@@ -914,7 +935,9 @@
 										<div class="boxfull" style="background: #3e64ff; ">Internship</div>
 									</div>
 									<div class="panel-footer">
-										<p><img src="/img/career/siren.png" /> Urgently Needed</p>
+										<div class="urgent-front">
+											<img src="/img/career/urgent.png">
+										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/intern-sales-it.php" id="intern-sales-it">Detail</a>
 										</div>
