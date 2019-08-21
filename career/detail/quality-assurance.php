@@ -133,9 +133,9 @@
 								<div class="col-md-6 text-center">
 									<h1><img src="/img/career/qa.png" style="filter: contrast(0%) brightness(150%);"> Quality Assurance</h1>
 								</div>
-								<!-- <div class="col-md-6 text-center">
+								<div class="col-md-6 text-center">
 									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
-								</div> -->
+								</div>
 							</div>
 						</div>
 					</div>
@@ -192,7 +192,6 @@
 										<ul class="joinus-ul">
 										<li>Jakarta</li>
 										<li>Yogya</li>
-										<li>Remote Working</li>
 										</ul>
 										
 										<br>

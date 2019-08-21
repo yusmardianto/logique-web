@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Dicari Product Developer yang tersertifikasi sebagai CEH dan CSCU yang mampu mengevaluasi hasil VATest / Pentest, mengimplementasi dan merekomendasikan tindakan preventif. Diutamakan pemahaman kode etik hacking, thread modelling, commercial mapping, penetration testing web, app, dan network.">
+    <meta name="description" itemprop="description" content="Dicari Full Stack Product Developer yang tersertifikasi sebagai CEH dan CSCU yang mampu mengevaluasi hasil VATest / Pentest, mengimplementasi dan merekomendasikan tindakan preventif. Diutamakan pemahaman kode etik hacking, thread modelling, commercial mapping, penetration testing web, app, dan network.">
 	<meta name="keywords" content="lowongan, kerja, jakarta, yogyakarta, remote job jakarta, kerja remote jakarta, indonesia, web security, specialist, certified ethical hacker, certified secure computer user, ec council, information security architecture, penetration testing, thread modelling tool, commercial mapping, open source modelling tool, penetration system testing, web based app, aplikasi web based, networking, network security, working independently, hacking code of ethics, kode etik hacking, scripting, CEH, CSCU, vatest, pentest, preventive measure, API, Yogya">
 	<meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
@@ -14,7 +14,7 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Tertarik dan berpengetahuan yang baik dalam bidang pembuatan website, web sistem, atau aplikasi mobile? Bisa bekerja dibawah tekanan dan berkoordinasi dengan baik? Bergabunglah dengan PT LOGIQUE sebagai Pre-sales Consultant.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Lowongan - Product Developer</title>
+    <title>Lowongan - Full Stack Product Developer</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -120,7 +120,7 @@
 									<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/career"><span itemprop="name">Karir</span></a><meta itemprop="position" content="1" /></li>
-										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Product Developer<meta itemprop="position" content="2" /></li>
+										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Full Stack Product Developer<meta itemprop="position" content="2" /></li>
 									</ol>
 								</div>
 							</div>
@@ -131,7 +131,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-6 text-center">
-									<h1><img src="/img/career/consultant.png" style="filter: contrast(0%) brightness(150%);"> Product Developer</h1>
+									<h1><img src="/img/career/consultant.png" style="filter: contrast(0%) brightness(150%);"> Full Stack Product Developer</h1>
 								</div>
 								<div class="col-md-6 text-center">
 									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
