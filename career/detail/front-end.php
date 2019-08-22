@@ -199,7 +199,7 @@
 										<br>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Front-End-Apply-Button', 'Action-Click', 'Front-End-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" id="apply-front-end" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Front-End-Apply-Button', 'Action-Click', 'Front-End-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>

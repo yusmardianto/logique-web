@@ -206,7 +206,7 @@
 										<br>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Mobile-Dev-Apply-Button', 'Action-Click', 'Mobile-Dev-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" id="apply-mobile-dev" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Mobile-Dev-Apply-Button', 'Action-Click', 'Mobile-Dev-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>

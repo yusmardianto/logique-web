@@ -195,7 +195,7 @@
 										<br>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Intern-Sales-IT', 'Action-Click', 'Intern-Sales-IT-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" id="apply-intern-sales-it" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Intern-Sales-IT', 'Action-Click', 'Intern-Sales-IT-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>

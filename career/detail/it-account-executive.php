@@ -198,7 +198,7 @@
 										<br>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'IT-Account-Executive-Apply-Button', 'Action-Click', 'IT-Account-Executive-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" id="apply-it-account-executive" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'IT-Account-Executive-Apply-Button', 'Action-Click', 'IT-Account-Executive-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
