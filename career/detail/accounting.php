@@ -173,7 +173,7 @@
 											</ul>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Accounting-Apply-Button', 'Action-Click', 'Accounting-Apply-Button-Label');" target="_blank" rel="noreferrer" disabled>Apply</a>
+												<a class="btn btn-yellow smooth" id="apply-accounting" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Accounting-Apply-Button', 'Action-Click', 'Accounting-Apply-Button-Label');" target="_blank" rel="noreferrer" disabled>Apply</a>
 											</div>
 										</div>
 									</div>

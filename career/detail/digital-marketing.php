@@ -179,7 +179,7 @@
 											</ul><br>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'DM-Apply-Button', 'Action-Click', 'DM-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" id="apply-digital-marketing" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'DM-Apply-Button', 'Action-Click', 'DM-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
