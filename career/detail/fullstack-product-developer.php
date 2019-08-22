@@ -183,7 +183,7 @@
 										<div class="div-job desc-job">
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" id="apply-full-stack" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" id="apply-full-stack" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Full-Stack-Product-Dev-Apply-Button', 'Action-Click', 'Full-Stack-Product-Dev-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>

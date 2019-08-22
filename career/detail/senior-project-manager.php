@@ -198,7 +198,7 @@
 										<br>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" id="apply-senior-pm" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'PM-Apply-Button', 'Action-Click', 'PM-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" id="apply-senior-pm" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Senior-PM-Apply-Button', 'Action-Click', 'Senior-PM-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
