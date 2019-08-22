@@ -133,8 +133,8 @@
 								<div class="col-md-6 text-center">
 									<h1><img src="/img/career/qa.png" style="filter: contrast(0%) brightness(150%);"> Quality Assurance</h1>
 								</div>
-								<div class="col-md-6 text-center">
-									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
+								<div class="col-md-5 text-center">
+									<div class="urgent-need"><img src="/img/career/urgent.png"></div>
 								</div>
 							</div>
 						</div>

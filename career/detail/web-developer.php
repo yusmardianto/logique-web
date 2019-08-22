@@ -133,9 +133,8 @@
 								<div class="col-md-6 text-center">
 									<h1><img src="/img/career/contentwriter.png" style="filter: contrast(0%) brightness(150%);"> Web Developer</h1>
 								</div>
-								<div class="col-md-6 text-center">
-									<!-- <input type="image" src="/img/urgent.png" name="saveForm" class="btn lp-urgent" id="saveForm"/> -->
-									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
+								<div class="col-md-5 text-center">
+									<div class="urgent-need"><img src="/img/career/urgent.png"></div>
 								</div>
 							</div>
 						</div>

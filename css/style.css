@@ -1383,6 +1383,7 @@ html[lang=ja] .partner-section .div-main p {
         float: none;
         margin-top: 10px
     }
+    
 }
 
 .contain-video,
@@ -1423,6 +1424,7 @@ video {
     .btn-service-link{
         white-space: normal;
     }
+    
 }
 
 @media (min-width:991px) {
@@ -3478,6 +3480,19 @@ video.vd-log{
 
 /* Update Career Page 15-05-2019 */
 
+.urgent-need img{
+    width: 50%;
+    float: right;
+    margin-left: -500px;
+}
+
+.urgent-front img{
+    width: 40%;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    float:right;
+}
+
 .career-new {
     margin: -65px 0 0 95px!important;
     min-width: -webkit-fill-available;
@@ -4084,6 +4099,10 @@ ol.breadcrumb li a:hover {
         padding: 1em 2em;
         border: solid 1px #b9b9b9;
         text-align: center;
+    }
+    .urgent-need img{
+        width: 40%;
+        float: right;
     }
     .detailcareer .panel-default {margin-bottom: 1em;}
     .detailcareer a.btn.btn-yellow {margin-bottom: 10px;}
