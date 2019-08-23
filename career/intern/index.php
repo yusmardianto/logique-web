@@ -64,7 +64,7 @@
 		  </div>
 		</nav>
 
-		<section id="job-opening" class="jumptarget" style="margin-top: 0"	>
+		<section id="job-opening" style="padding-top: 71px;padding-bottom: 0;">
 			<div class="karir-bg1">
 				<div class="container">
 					<div class="intership">
@@ -198,174 +198,180 @@
 				LOGIQUE merupakan tempat magang yang tepat untuk Anda yang ingin memperoleh pengalaman bekerja di perusahaan asing, dalam hal kami adalah Jepang. Seluruh tantangan dan profesionalitas kerja dengan standar internasional akan Anda dapatkan di LOGIQUE. 
 				<br><br>
 				Untuk universitas, LOGIQUE juga membuka peluang kerjasama terkait magang ataupun lowongan kerja untuk alumni.
+				<br/>
+				<a href="/career#internvacancy" class="btn" style="display: block;width: 400px;margin: auto;border: 4px solid #000;max-width: 100%;font-size: 22px;margin-top: 30px;margin-bottom: 15px;color: #000;padding: 12px;">
+					Lihat Lowongan Magang
+				</a>
 			</div>
-			<div class="one-job-opening">
-				<div class="col-sm-4" style="padding:0">
-					<div class="div-job title-job">
-						<div class="valign-center">
-							<img alt="Web Developer" src="/../../img/webdev.png" class="img-responsive"/>
-							<h4>Lowongan Magang</h4>
-							<h5>Web Developer</h5>
-							<h6>Dibutuhkan di Jakarta dan Yogyakarta</h6>
+			<div class="hidden">
+				<div class="one-job-opening">
+					<div class="col-sm-4" style="padding:0">
+						<div class="div-job title-job">
+							<div class="valign-center">
+								<img alt="Web Developer" src="/../../img/webdev.png" class="img-responsive"/>
+								<h4>Lowongan Magang</h4>
+								<h5>Web Developer</h5>
+								<h6>Dibutuhkan di Jakarta dan Yogyakarta</h6>
+							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-sm-8">
-					<div class="div-job desc-job">
-						Web Developer adalah penggerak utama dalam pembuatan website atau sistem web yang mampu mengimplementasikan kebutuhan bisnis ke dalam sistem dengan bahasa programming. Seorang web developer yang baik selalu meningkatkan pengetahuan yang mereka miliki dengan teknologi-teknologi terbaru.<br/><br/>
-						<b>Persyaratan:</b><br/>
-						<ul class="joinus-ul">
-							<li>Berpendidikan minimal S1 di bidang Ilmu Komputer/Teknologi Informasi atau yang setara.</li>
-							<li>Memahami proses Web Development (PHP, MySQL, HTML/CSS, Javascript).</li>
-							<li>Memahami framework PHP (CakePHP, Laravel, dll).</li>
-							<li>Mampu belajar dengan cepat (fast learner).</li>
-							<li>Bisa bekerja secara tim.</li>
-							<li>Bersedia bekerja di Jakarta Selatan.</li>
-							<li>Tidak memerlukan pengalaman kerja.</li>
-						</ul>
-						<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
-							Apply for Web Developer
-						</a>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-			<hr class="separator-career"><hr>
-			<div class="one-job-opening">
-				<div class="col-sm-4" style="padding:0">
-					<div class="div-job title-job">
-						<div class="valign-center">
-							<img alt="Content Writer" src="/../../img/contenwriter.png" class="img-responsive"/>
-							<h4>Lowongan Magang</h4>
-							<h5>Content Writer</h5>
-							<h6>Dibutuhkan di Jakarta</h6>
+					<div class="col-sm-8">
+						<div class="div-job desc-job">
+							Web Developer adalah penggerak utama dalam pembuatan website atau sistem web yang mampu mengimplementasikan kebutuhan bisnis ke dalam sistem dengan bahasa programming. Seorang web developer yang baik selalu meningkatkan pengetahuan yang mereka miliki dengan teknologi-teknologi terbaru.<br/><br/>
+							<b>Persyaratan:</b><br/>
+							<ul class="joinus-ul">
+								<li>Berpendidikan minimal S1 di bidang Ilmu Komputer/Teknologi Informasi atau yang setara.</li>
+								<li>Memahami proses Web Development (PHP, MySQL, HTML/CSS, Javascript).</li>
+								<li>Memahami framework PHP (CakePHP, Laravel, dll).</li>
+								<li>Mampu belajar dengan cepat (fast learner).</li>
+								<li>Bisa bekerja secara tim.</li>
+								<li>Bersedia bekerja di Jakarta Selatan.</li>
+								<li>Tidak memerlukan pengalaman kerja.</li>
+							</ul>
+							<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
+								Apply for Web Developer
+							</a>
 						</div>
 					</div>
+					<div class="clearfix"></div>
 				</div>
-				<div class="col-sm-8">
-					<div class="div-job desc-job">
-						Content Writer membantu menciptakan konten yang sesuai dengan perusahaan, produk, atau jasa yang ditampilkan pada website sehingga memudahkan pembaca memperoleh informasi yang sesuai.<br/><br/>
-						<b>Persyaratan:</b><br/>
-						<ul class="joinus-ul">
-							<li>Kemampuan berbahasa yang baik.</li>
-							<li>Familiar dengan penulisan konten secara online.</li>
-							<li>Berpendidikan minimal D3 atau S1 Sastra Inggris, Ilmu Jurnalistik, Ilmu Komunikasi, Humas, atau yang setara.</li>
-							<li>Memiliki kemampuan tata bahasa dan kosa kata Bahasa Indonesia dan Bahasa Inggris yang baik.</li>
-							<li>Memiliki kemampuan yang baik dalam komunikasi lisan dan tulisan.</li>
-							<li>Bersedia bekerja di Jakarta Selatan.</li>
-							<li>Tidak memerlukan pengalaman kerja.</li>
-						</ul>
-						<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
-							Apply for Content Writer
-						</a>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-			<hr class="separator-career"><hr>
-			<div class="one-job-opening">
-				<div class="col-sm-4" style="padding:0">
-					<div class="div-job title-job">
-						<div class="valign-center">
-							<img alt="UI - UX Designer" src="/../../img/designer.png" class="img-responsive"/>
-							<h4>Lowongan Magang</h4>
-							<h5>UI/UX Designer</h5>
-							<h6>Dibutuhkan di Jakarta</h6>
+				<hr class="separator-career"><hr>
+				<div class="one-job-opening">
+					<div class="col-sm-4" style="padding:0">
+						<div class="div-job title-job">
+							<div class="valign-center">
+								<img alt="Content Writer" src="/../../img/contenwriter.png" class="img-responsive"/>
+								<h4>Lowongan Magang</h4>
+								<h5>Content Writer</h5>
+								<h6>Dibutuhkan di Jakarta</h6>
+							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-sm-8">
-					<div class="div-job desc-job">
-						Designer adalah elemen kreatif perusahaan yang mampu menghasilkan ide dan unsur-unsur visual dengan menciptakan dan mengintegrasikan berbagai komponen seperti warna, bentuk, foto, dan video. Mereka dapat memastikan tampilan website dan sistem web terlihat baik dan mudah digunakan.<br/><br/>
-						<b>Persyaratan:</b><br/>
-						<ul class="joinus-ul">
-							<li>Berpendidikan minimal D3 atau S1 di bidang DKV atau Teknologi Informasi.</li>
-							<li>Memiliki selera yang baik dan passion untuk tampilan desain.</li>
-							<li>Berorientasi pada detil (detail oriented).</li>
-							<li>Familiar dengan desain yang responsif dan interaktif.</li>
-							<li>Familiar dengan UI dan UX.</li>
-							<li>Familiar dengan Adobe Photoshop, Illustrator, atau software desain lainnya.</li>
-							<li>Bisa belajar dengan cepat.</li>
-							<li>Bisa bekerja dalam sebuah tim.</li>
-							<li>Bersedia bekerja di Jakarta Selatan.</li>
-							<li>Tidak memerlukan pengalaman kerja.</li>
-						</ul>
-						<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
-							Apply for UI/UX Designer
-						</a>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-			<hr class="separator-career"><hr>
-			<div class="one-job-opening">
-				<div class="col-sm-4" style="padding:0">
-					<div class="div-job title-job">
-						<div class="valign-center">
-							<img alt="Front End Developer" src="/../../img/frontend.png" class="img-responsive"/>
-							<h4>Lowongan Magang</h4>
-							<h5>Front End Developer</h5>
-							<h6>Dibutuhkan di Jakarta</h6>
+					<div class="col-sm-8">
+						<div class="div-job desc-job">
+							Content Writer membantu menciptakan konten yang sesuai dengan perusahaan, produk, atau jasa yang ditampilkan pada website sehingga memudahkan pembaca memperoleh informasi yang sesuai.<br/><br/>
+							<b>Persyaratan:</b><br/>
+							<ul class="joinus-ul">
+								<li>Kemampuan berbahasa yang baik.</li>
+								<li>Familiar dengan penulisan konten secara online.</li>
+								<li>Berpendidikan minimal D3 atau S1 Sastra Inggris, Ilmu Jurnalistik, Ilmu Komunikasi, Humas, atau yang setara.</li>
+								<li>Memiliki kemampuan tata bahasa dan kosa kata Bahasa Indonesia dan Bahasa Inggris yang baik.</li>
+								<li>Memiliki kemampuan yang baik dalam komunikasi lisan dan tulisan.</li>
+								<li>Bersedia bekerja di Jakarta Selatan.</li>
+								<li>Tidak memerlukan pengalaman kerja.</li>
+							</ul>
+							<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
+								Apply for Content Writer
+							</a>
 						</div>
 					</div>
+					<div class="clearfix"></div>
 				</div>
-				<div class="col-sm-8">
-					<div class="div-job desc-job">
-						Front End Developer berperan sebagai penghubung antara Desainer dan Web Developer. Mereka memiliki keahlian untuk mengubah desain ke dalam kode sehingga bisa diakses oleh pengguna.<br/><br/>
-						<b>Persyaratan:</b><br/>
-						<ul class="joinus-ul">
-							<li>Berpendidikan minimal D3 atau S1 di bidang Teknologi Informasi.</li>
-							<li>Memahami proses Web Development (PHP, MySQL, HTML/CSS, Javascript).</li>
-							<li>Memahami Jquery, Bootstrap, SVG, dll.</li>
-							<li>Bisa belajar dengan cepat.</li>
-							<li>Bisa bekerja dalam sebuah tim.</li>
-							<li>Bersedia bekerja di Jakarta Selatan.</li>
-							<li>Tidak memerlukan pengalaman kerja.</li>
-						</ul>
-						<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
-							Apply for Front End Developer
-						</a>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-			<hr class="separator-career"><hr>
-			<div class="one-job-opening">
-				<div class="col-sm-4" style="padding:0">
-					<div class="div-job title-job" style="height:420px;">
-						<div class="valign-center">
-							<img alt="Front End Developer" src="/../../img/hrga.png" class="img-responsive"/>
-							<h4>Lowongan Magang</h4>
-							<h5>Human Resources (HR)/General Affairs (GA)</h5>
-							<h6>Dibutuhkan di Jakarta</h6>
+				<hr class="separator-career"><hr>
+				<div class="one-job-opening">
+					<div class="col-sm-4" style="padding:0">
+						<div class="div-job title-job">
+							<div class="valign-center">
+								<img alt="UI - UX Designer" src="/../../img/designer.png" class="img-responsive"/>
+								<h4>Lowongan Magang</h4>
+								<h5>UI/UX Designer</h5>
+								<h6>Dibutuhkan di Jakarta</h6>
+							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-sm-8">
-					<div class="div-job desc-job">
-						HR/GA bertanggung jawab penuh dalam pengembangan dan pengelolaan sumber daya manusia dan kebutuhan yang ada di LOGIQUE.<br/><br/>
-						<b>Persyaratan:</b><br/>
-						<ul class="joinus-ul">
-							<li>Berpendidikan minimal D3 atau S1 Manajemen SDM, Ilmu Bisnis/Administrasi/Manajemen, Psikologi, Hukum, atau Bahasa Jepang.</li>
-							<li>Mampu mengoperasikan Microsoft Office dan perangkat lunak komputer dasar lainnya.</li>
-							<li>Memiliki pengetahuan dalam hal psikotes merupakan nilai tambah.</li>
-							<li>Mampu belajar dengan cepat (fast learner).</li>
-							<li>Fokus pada hal yang detil dan mampu multitasking.</li>
-							<li>Lebih disukai jika dapat langsung bekerja.</li>
-						</ul>
-						<br>
-						<b>Tanggung Jawab:</b><br/>
-						<ul class="joinus-ul">
-							<li>Melakukan aktivitas HR termasuk administrasi, rekrutmen, dan manajemen HR dalam keseharian perusahaan.</li>
-							<li>Terlibat dalam pengelolaan dan pembaharuan dokumen dalam lingkup HR (peraturan perusahaan, surat kontrak untuk karyawan baru, dan surat penawaran kerja untuk kandidat).</li>
-							<li>Membantu melaksanakan tugas-tugas departemen GA.</li>
-						</ul>
-						<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="https://logique.sugoisaiyo.com/" target="_blank" rel="noreferrer" class="btn btn-contact-us-black customizebtn">
-							Apply for HR/GA
-						</a>
+					<div class="col-sm-8">
+						<div class="div-job desc-job">
+							Designer adalah elemen kreatif perusahaan yang mampu menghasilkan ide dan unsur-unsur visual dengan menciptakan dan mengintegrasikan berbagai komponen seperti warna, bentuk, foto, dan video. Mereka dapat memastikan tampilan website dan sistem web terlihat baik dan mudah digunakan.<br/><br/>
+							<b>Persyaratan:</b><br/>
+							<ul class="joinus-ul">
+								<li>Berpendidikan minimal D3 atau S1 di bidang DKV atau Teknologi Informasi.</li>
+								<li>Memiliki selera yang baik dan passion untuk tampilan desain.</li>
+								<li>Berorientasi pada detil (detail oriented).</li>
+								<li>Familiar dengan desain yang responsif dan interaktif.</li>
+								<li>Familiar dengan UI dan UX.</li>
+								<li>Familiar dengan Adobe Photoshop, Illustrator, atau software desain lainnya.</li>
+								<li>Bisa belajar dengan cepat.</li>
+								<li>Bisa bekerja dalam sebuah tim.</li>
+								<li>Bersedia bekerja di Jakarta Selatan.</li>
+								<li>Tidak memerlukan pengalaman kerja.</li>
+							</ul>
+							<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
+								Apply for UI/UX Designer
+							</a>
+						</div>
 					</div>
+					<div class="clearfix"></div>
 				</div>
-				<div class="clearfix"></div>
+				<hr class="separator-career"><hr>
+				<div class="one-job-opening">
+					<div class="col-sm-4" style="padding:0">
+						<div class="div-job title-job">
+							<div class="valign-center">
+								<img alt="Front End Developer" src="/../../img/frontend.png" class="img-responsive"/>
+								<h4>Lowongan Magang</h4>
+								<h5>Front End Developer</h5>
+								<h6>Dibutuhkan di Jakarta</h6>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-8">
+						<div class="div-job desc-job">
+							Front End Developer berperan sebagai penghubung antara Desainer dan Web Developer. Mereka memiliki keahlian untuk mengubah desain ke dalam kode sehingga bisa diakses oleh pengguna.<br/><br/>
+							<b>Persyaratan:</b><br/>
+							<ul class="joinus-ul">
+								<li>Berpendidikan minimal D3 atau S1 di bidang Teknologi Informasi.</li>
+								<li>Memahami proses Web Development (PHP, MySQL, HTML/CSS, Javascript).</li>
+								<li>Memahami Jquery, Bootstrap, SVG, dll.</li>
+								<li>Bisa belajar dengan cepat.</li>
+								<li>Bisa bekerja dalam sebuah tim.</li>
+								<li>Bersedia bekerja di Jakarta Selatan.</li>
+								<li>Tidak memerlukan pengalaman kerja.</li>
+							</ul>
+							<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="mailto:recruit@logique.co.id" class="btn btn-contact-us-black customizebtn">
+								Apply for Front End Developer
+							</a>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				<hr class="separator-career"><hr>
+				<div class="one-job-opening">
+					<div class="col-sm-4" style="padding:0">
+						<div class="div-job title-job" style="height:420px;">
+							<div class="valign-center">
+								<img alt="Front End Developer" src="/../../img/hrga.png" class="img-responsive"/>
+								<h4>Lowongan Magang</h4>
+								<h5>Human Resources (HR)/General Affairs (GA)</h5>
+								<h6>Dibutuhkan di Jakarta</h6>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-8">
+						<div class="div-job desc-job">
+							HR/GA bertanggung jawab penuh dalam pengembangan dan pengelolaan sumber daya manusia dan kebutuhan yang ada di LOGIQUE.<br/><br/>
+							<b>Persyaratan:</b><br/>
+							<ul class="joinus-ul">
+								<li>Berpendidikan minimal D3 atau S1 Manajemen SDM, Ilmu Bisnis/Administrasi/Manajemen, Psikologi, Hukum, atau Bahasa Jepang.</li>
+								<li>Mampu mengoperasikan Microsoft Office dan perangkat lunak komputer dasar lainnya.</li>
+								<li>Memiliki pengetahuan dalam hal psikotes merupakan nilai tambah.</li>
+								<li>Mampu belajar dengan cepat (fast learner).</li>
+								<li>Fokus pada hal yang detil dan mampu multitasking.</li>
+								<li>Lebih disukai jika dapat langsung bekerja.</li>
+							</ul>
+							<br>
+							<b>Tanggung Jawab:</b><br/>
+							<ul class="joinus-ul">
+								<li>Melakukan aktivitas HR termasuk administrasi, rekrutmen, dan manajemen HR dalam keseharian perusahaan.</li>
+								<li>Terlibat dalam pengelolaan dan pembaharuan dokumen dalam lingkup HR (peraturan perusahaan, surat kontrak untuk karyawan baru, dan surat penawaran kerja untuk kandidat).</li>
+								<li>Membantu melaksanakan tugas-tugas departemen GA.</li>
+							</ul>
+							<a onclick="ga('send', 'event', 'Button-CV', 'Action-Click', 'Button-CV-Label');" href="https://logique.sugoisaiyo.com/" target="_blank" rel="noreferrer" class="btn btn-contact-us-black customizebtn">
+								Apply for HR/GA
+							</a>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
 			</div>
 		</section>
 

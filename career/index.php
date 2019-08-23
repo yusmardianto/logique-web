@@ -896,7 +896,7 @@
 						</div>
 
 						<!-- End Vacancies -->
-						<div class="bg-lowongan">
+						<div class="bg-lowongan" id="internvacancy">
 							<div class="row">
 								<div class="col-md-8">
 									<h3>LOWONGAN MAGANG</h3>
@@ -958,6 +958,22 @@
 										</div>
 										<div class="text-center">
 											<a class="btn btn-detail" href="detail/intern-sales-it.php" id="intern-sales-it">Detail</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 card">
+								<div class="panel panel-default">
+									<div class="panel-body">
+										<div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+										<img src="/img/career/designer.png" />
+										<h3>Designer</h3>
+										<div class="boxfull" style="background: #3e64ff; ">Internship</div>
+									</div>
+									<div class="panel-footer">
+										<p></p>
+										<div class="text-center">
+											<a class="btn btn-detail" href="detail/intern-designer.php" id="intern-designer">Detail</a>
 										</div>
 									</div>
 								</div>
