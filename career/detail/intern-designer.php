@@ -4,15 +4,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Multinasional Digital Agency membuka lowongan Sales Admin yang handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital. Berpengalaman minimal 2 tahun, mampu bekerja sesuai target dan customer oriented. Salary negotiable">
-	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta,  networking, marketing, quality assurance, ui, ux, ui/ux, ab testing, a/b testing, pengujian produk, Git, JIRA, Mantis, TestRail, API test, mysql, postgres, linux, windows, software design, Engineering Computer Science, siklus QA, metodologi QA, documentation, problem solving, product execution, analysis, end user script, pengujian skenario, app performance testing">
+    <meta name="description" itemprop="description" content="Dicari designer yang mampu mendesain video dan produk yang bisa dicetak (misalnya: brosur, profil perusahaan, dll), mendesain tampilan/UI untuk website dan aplikasi mobile, menggunakan Photoshop, Illustrator, Premiere, dll.">
+	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, UI designer, web design, web designer, graphic designer, user interface specialist, indonesia, adobe, photoshop, illustrator, premiere, indesign, aftereffect, video editing, photo editing, design, creative content">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Lowongan - Intern Sales Admin">
+    <meta property="og:title" content="Lowongan - Intern Designer">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Sales Admin">
+	<meta property="og:description" content="Dicari designer yang mampu mendesain video dan produk yang bisa dicetak (misalnya: brosur, profil perusahaan, dll), mendesain tampilan/UI untuk website dan aplikasi mobile, menggunakan Photoshop, Illustrator, Premiere, dll.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Lowongan - Intern Designer</title>
 
@@ -187,7 +187,7 @@
 										<br>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" id="apply-intern-sales-admin" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Intern-Sales-Admin-Apply-Button', 'Action-Click', 'Intern-Sales-Admin-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
+												<a class="btn btn-yellow smooth" id="apply-intern-desginer" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Intern-Designer-Apply-Button', 'Action-Click', 'Intern-Designer-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
