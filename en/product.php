@@ -151,8 +151,7 @@
 					A solution to flexible working while maximizing productivity.
                 </p>
                 <p>
-					Do you experience trouble keeping track of your employee’s productivity? Our software can monitor and potentially increase employee productivity through keeping track of how they spend their working hours in real-time through an auto screen capture feature. Find out if they are conducting their tasks efficiently. Also, Dokodemo-Kerja allows for more effective remote working, and lets those in your employ, through flexible working hours, work anywhere, thereby potentially maximizing employee happiness as well as efficiency.
-                </p>
+				Do you experience trouble keeping track of your employee’s levels of productivity? Our software can monitor and potentially increase overall employee output through keeping track of how they spend their working hours in real-time through an auto screen capturing feature. Find out if they are conducting their tasks efficiently. Also, Dokodemo-Kerja allows for a more effective remote working experience, and lets those in your employ, through flexible working hours, work anywhere, thereby potentially maximizing employee happiness as well.                </p>
               </div>
             </div>
             <div class="row">
@@ -171,11 +170,10 @@
 							</div>
 							<div class="col-md-7 col-sm-8">
 								<p>
-                  	Daily Report and Man-Hour Cost Management System
+								A Daily Reporting and Man-Hour Cost Management System
                 </p>
 								<p>
-					See how your employees are spending their working hours through writing daily reports with Nippo, a daily recording tool where employees document their work and the hours put into each project. They can also tag and give feedback to one another for collaborative assignments. This is useful for HR, as management can calculate the man-hour cost for each project done by your employees. With Nippo, evaluation and self-assessment can be done every day.
-                </p>
+								See how your employees are spending their working hours by using Nippo, a daily reporting tool where employees document their work and the hours they put into each project. They can also tag and give feedback to one another for collaborative assignments. This is useful for HR to manage and calculate the man-hour cost for each project done by your employees. With Nippo, evaluation and self- assessment can be conducted every day.                </p>
 							</div>
 						</div>
             <div class="row">
@@ -197,8 +195,7 @@
 					A management system which makes recruitment easy.
                 </p>
                 <p>
-					Are you tired of sifting through unqualified job applicants? Now, the process can be done easily and efficiently, through SugoiSaiyo, an IT cloud system utilized by the HR department in order to recruit the right employees, and for applicants to apply for jobs through simple steps and a clear score assessment. The system includes all of the basic recruitment processes, from CV receptions, testing, interview scheduling, to providing the offering letter submitted through the website.
-                </p>
+				Are you tired of sifting through unqualified job applications? Now, the process can be done easily and efficiently, through Sugoi Saiyo, an IT cloud system utilized by the HR department in order to recruit the right employees, and for applicants to apply for jobs through simple steps and a clear score assessment. The system includes all of the basic recruitment processes, from CV receptions, testing, interview scheduling, to providing the offering letter submitted through the website.                </p>
 							</div>
 						</div>
             <div class="row">
@@ -212,12 +209,12 @@
             <div class="list-on-services">
               <ul class="fa-ul">
                 <li><i class="fa-li fa fa-check"></i>Do you want to implement remote working systems, but don’t know how to?</li>
-                <li><i class="fa-li fa fa-check"></i>Are you looking for a cloud tool based remote working management system?</li>
+                <li><i class="fa-li fa fa-check"></i>Are you looking for a cloud-based remote working management system?</li>
                 <li><i class="fa-li fa fa-check"></i>Do you need a tool to make the recruitment process easier?</li>
                 <li><i class="fa-li fa fa-check"></i>Do you have trouble monitoring and evaluating how your employees are conducting their work?</li>
                 <li><i class="fa-li fa fa-check"></i>Are you looking for an easy-to-use tool for managing your employees?</li>
                 <li><i class="fa-li fa fa-check"></i>Do you need an HR management system, but don’t have an IT expert in your company?</li>
-                <li><i class="fa-li fa fa-check"></i>Do you have a company they needs affordable HR management software starting from IDR 1M/Month?</li>
+                <li><i class="fa-li fa fa-check"></i>Do you have a company that needs affordable HR management software starting from IDR 1M/Month?</li>
               </ul>
             </div>
             <div class="text-center">

@@ -64,11 +64,12 @@ ga('send', 'pageview');
 					</div>
 			 
 					<div class="col-sm-4 link-footer">
-						<p>LOGIQUE seeks to provide the best solutions to your problems, optimized for your
-							business. Through an innovative combination of artistic design and information
-							architecture, our professional team specializes in the creation of a wide range of
-							systems; from large scale corporate websites, to smartphones, responsive web
-							design, system development, graphic design and more. </p>
+						<p>LOGIQUE aims to provide you with the best solutions tailored to your company’s
+							specific digital requirements. Through an innovative combination of artistic design
+							and information architecture, our professional team specializes in the creation of
+							a wide range of systems: from large scale corporate websites, to smartphones,
+							responsive web design implementation, systems development, graphic design
+							and more. </p>
 					</div>
 				</div>
 				<br/>

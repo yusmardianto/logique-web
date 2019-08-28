@@ -125,7 +125,7 @@
 					<div class="title"><b>Our</b><span class="yellow">Services</span></div>
 					<div class="form-container">
             <p class="p-padding-v-15">
-			In the modern age, where everything relies heavily on the internet and technology, LOGIQUE Digital Indonesia strives to assist clients in areas regarding digital and IT matters. We conduct our services to a high quality and international standard, proudly meeting our clients’ expectations and fulfilling their business needs. We provide various web-related services, such as web design and development
+			In this modern day and age, where everything relies heavily on the internet and technology, LOGIQUE Digital Indonesia is striving to assist our clients in areas regarding digital and IT matters. We conduct our services to a high quality and international standard, proudly meeting our clients’ expectations and fulfilling their business needs. We provide various web-related services, such as web design and development.
             </p>
 					</div>
           <div class="banner-services">
@@ -193,12 +193,10 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Multilingual Website Creation</b><br/>
-										High-quality multilingual Websites can bring prospects customers to you from all around the worlds. LOGIQUE delivers cost-effective multilingual Website that enable you to connect and engage with customers in local and global markets. We have much developing experiences in multilingual website with English, Indonesian, and Japanese language. Other than the creation of website itself, also feel free to contact us for also translation / correction as well.High-quality multilingual websites can help provide you with prospective international customers. LOGIQUE delivers a cost effective multilingual website that enables you to connect with potential customers within both local and global markets. We have a wide range of experience in regards developing sites in a trilingual format; specifically in the English, Indonesian and Japanese languages.
-									</li>
+										High-quality multilingual websites can help provide you with prospective international customers. LOGIQUE delivers a cost effective multilingual website that enables you to connect with potential customers within both local and global markets. We have a wide range of experience in regards to developing sites in a trilingual format; specifically in the English, Indonesian and Japanese languages.									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Service Website Development</b><br/>
-										We can service you in the development of your Website in regards to business planning and design creation, to the advancement and maintenance of your website system, used in a number of website formats, such as car auction, point management, human resource matching, E-commerce, closed community and member management CRM websites.
-									</li>
+										We can assist you through the various stages of developing your Website; from drafting a plan, to creating a design template, up to the phase of maintaining your website system in whatever its current format, be it in regards to E-commerce, a car auctioning system, human resource matching, point management system, closed community or a member management CRM website.									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Recruitment Website Creation</b><br/>
 										We realize that many companies experience difficulties in the recruitment of potential employees who can meet the standards of your company. LOGIQUE provides a solution for making career websites orientated around successful recruitment strategies. Through such career websites, the company can provide a varied range of necessary information pertaining to the latest available job vacancies, work atmosphere, and the benefits offered to prospective candidates.
@@ -229,8 +227,7 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Blog</b><br/>
-										We also provide WordPress installation and customization services. Will can design, implement and improve the security of your blog in accordance to your specific requirements. Currently, there are many blogs which suffer from secutiry vulnerability. Therefore, please contact us immediately so that we can ensure the integrity of your blog’s security system.
-									</li>
+										We also provide WordPress installation and customization services. We can design, implement and improve the security of your blog according to your specific requirements. Currently, there are many blogs which suffer from security vulnerability issues. Therefore, please contact us immediately so that we can ensure the integrity of your blog’s security system.									</li>
 								</ol>
 							  </div>
 							</div>
@@ -246,8 +243,7 @@
 							<div id="web-system" class="panel-collapse collapse">
 							  <div class="panel-body">
 								<p>
-								LOGIQUE provides high quality systems development services through utilizing the latsts technology to facilitate your specifica business needs. We already have much experience and are experts in developing web systems using a variety of PHP frameworks, such as Laravel, Symfony, CakePHP, and others. In addition, we can also support the development of web systems through other suchnologies, such as AngularJS, NodelJS and RecatJS. We develop systems using the Agile Method.
-							  </p>
+								LOGIQUE provides high quality systems development services through utilizing the latest technologies to facilitate your specific business needs. We already have much experience and are experts in developing web systems using a variety of PHP frameworks, such as Laravel, Symfony, CakePHP, and others. In addition, we can also support the development your web system through other technologies, such as AngularJS, NodelJS and RecatJS. We develop our systems using the Agile Method.							  </p>
 							  	<br/>
 								<ol class="fa-ul">
 									<li>
@@ -257,12 +253,10 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Member Management / Contract Management system</b><br/>
-										LOGIQUE serves the creation of a Customer Relationship Mamagement system (CRM) or a large scale membership management system, which, in its development process
-									</li>
+										LOGIQUE serves the creation of a Customer Relationship Management system (CRM) or a large scale membership management system, which, in its development process, we apply the highest security measures possible, as we have done previously for the membership managements systems we have previously created for banks.									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>E-Commerce / Online Shop System</b><br/>
-										We can help you develop your online store/E-commerce while following the unique Indonesian rules and customs. Further, we can help develop not only the standard E-Commerce (Through Shopify/Woocommerce/Magneto), but also a complex market place, or B2B2C E-commerce . Additionally, we can also help you integrate online stores by way of various payment gateways.
-									</li>
+										We can help you develop your online store/E-commerce while carefully regarding the unique rules and customs of Indonesian law and society. Further, we can help develop not only the standard E-Commerce (Through Shopify/Woocommerce/Magneto), but also a complex market place, or B2B2C E- commerce. Additionally, we can also help you integrate online stores by way of various payment gateways.									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Campaign Management / Contest Application Management System</b><br/>
 										We often develop back-end management systems other than the campaign web page itself. We have developed a campaign/contest application system which integrates various functions, such as applicant managing, which informs the results to the winners.
@@ -297,8 +291,7 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Mobile Application Development</b><br/>
-										We serve Android/iOS application development services which are adjusted for the Indonesian market. We provide comprehensive mobile app development services for you. Further, we are not just a planning and IT consultancy, but we can also optimize UI and UX designs, develop applications and even help you register your applications onto the App Store/Google Play. Get in touch with our team to discuss mobile app development (iOS/Android/Hybrid/PWA).
-										<br/>
+										We provide comprehensive Android/iOS application development services adjusted for the Indonesian market, and can further facilitate the development of mobile applications as well. Further, we are not just a planning and IT consultancy; we can also optimize UI and UX designs, develop applications and even help you register your applications onto the App Store/Google Play. Get in touch with our team to discuss mobile app development (iOS/Android/Hybrid/PWA)										<br/>
 										<a target="_blank" href="/en/services/mobile-app-dev.php" class="btn btn-service-link wrap-link">See Further Info about Mobile App Dev</a>
 									</li>
 								</ol>
@@ -318,8 +311,7 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i><a class="black-link" href="/en/services/digital-marketing/seo-service.php"><b>SEO</b></a><br/>
-										We can carry out an in-depth analysis of the on-page optimization of your website, identifying all areas needing improvement. Through our precise analysis, our services go beyond simply data tracking and user behavior study. In fact, we’re extremely efficient professionals when it comes to tracking, analyzing and improving keyword rankings, and utilize tools to best suit your specific requirements; in resources and budget. We commit to our results not only by implementing SEO, but also general website improvement, as we have thorough experience in SEO optimizing for the Japanese, Indonesian and English languages. We have succeeded in keeping one of our clients (An Indonesian finance company) on 1st place within Google’s search results for a considerable period of time. Further, a solid SEO strategy combines technical, content and authority optimization. At LOGIQUE, we have specialists in all three fields, ensuring your page ranks well within the search results, thereby driving your traffic up.
-										<a target="_blank" href="/en/services/digital-marketing/seo-service.php" class="btn btn-service-link wrap-link">See Further info about SEO Service</a>
+										We can carry out an in-depth analysis of the on-page optimization of your website, identifying all areas needing improvement. Through our services, we are able to go beyond simple methods of data tracking and user behavior analysis. In fact, our highly trained professionals are specialized in a wide range of technical disciplines, such as tracking, analyzing and improving keyword rankings, and utilizing tools to best suit your specific requirements; in resources and budget. We attest to our results not only by implementing SEO, but also through the general improvement to our client’s websites, as we have thorough experience in SEO optimizing in the Japanese, Indonesian and English languages. We have succeeded in keeping one of our clients (An Indonesian finance company) on 1 st place within Google’s search results for a considerable period of time. Further, a solid SEO strategy combines technical, content and authority optimization. At LOGIQUE, we have specialists in all three fields, ensuring your page ranks well within the search results list, thereby driving your traffic up.										<a target="_blank" href="/en/services/digital-marketing/seo-service.php" class="btn btn-service-link wrap-link">See Further info about SEO Service</a>
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Internet Business Consulting</b><br/>
@@ -331,8 +323,7 @@
 									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Online / Digital Marketing Operation</b><br/>
-										We offer a results driven approach to pay-per-click management, providing transparent and measurable campaigns which allow you to evaluate your success against your own targets. We are thoroughly experiences across a wide range of industry verticals and offer proactive, strategic and highly communicative services. We know that a successful campaign comes down to continual optimization and refinement. Only through a highly targeted and tightly managed structure can you achieve a higher conversion rate for a better price. Feel free to contact us to increase your prospects and conversions through online advertisements, an internet PR strategy, or SNS marketing.
-									</li>
+										We offer a results driven approach to pay-per-click management, providing transparent and measurable campaigns, allowing you to evaluate your success against your own targets. We are thoroughly experienced across a wide range of industry verticals and offer proactive, strategic and highly communicative services. We know that a successful campaign comes down to continual optimization and refinement. Only through a highly targeted and tightly managed structure can you achieve a higher conversion rate for a better price. Feel free to contact us to increase your prospects and conversions through online advertisements, an internet PR strategy, or SNS marketing.									</li>
 								</ol>
 								<div class="text-center"><a target="_blank" href="/en/services/digital-marketing.php" class="btn btn-service-link wrap-link">See Further Info about Digital Marketing Service</a></div>
 							  </div>
@@ -351,8 +342,7 @@
 								<ol class="fa-ul">
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Company Profile / Catalog / Leaflet Design Creation & Printing</b><br/>
-										We create flyer/brochure designs and markeing collateral which amplifies your key message in a memorable and effective way. From a single information leaflet to an ongoing direct marketing campaign, our creative team seeks to design and produce powerful business tools aimed at strengthening your brand credibility and assist you in building targeted and authentic connections through the use of innovative materials and the latest print design techniques; maximizing the effectiveness of your collateral and ensuring that your flyer design is cost effective. Additionally, out experienced production team can manage your project from start to finish, ensuring your direct marketing materials are of the highest quality to capture the attention of your desired audience. We are further able to print, not only paper based collateral for your business, but also bags, T-shirts and even more. Feel free to contact us.　
-									</li>
+										Through creating flyer/brochure designs and marketing collateral, we will be able to amplify your key message in a memorable and effective way. From a single information leaflet to an ongoing direct marketing campaign, our creative team seeks to design and produce powerful business tools aimed at strengthening your brand credibility and assist you in building targeted and authentic connections through the use of innovative materials and the latest print design techniques; maximizing the effectiveness of your collateral and ensuring that your flyer design is cost effective. Additionally, our experienced production team can manage your project from start to finish, ensuring your direct marketing materials are of the highest quality to capture the attention of your desired audience. We are further able to print, not only paper based collateral for your business, but also bags, T- shirts and even more. Feel free to contact us.									</li>
 									<li>
 										<i class="fa-li fa fa-caret-right"></i> <b>Web Server & Domain Agent Service</b><br/>
 										We are able to provide you with an agent service to obtain an Indonesian Corporate Domain (“co.id”). We can also set up a DNS and Global SSL for you, further providing a rent web server space such as AWS, Ali Cloud and GioCloud.
@@ -605,7 +595,7 @@
 						<div class="row">
 							<div class="col-md-12 text-left" style="padding-bottom: 8px">
 								<p class="characteristic-title">We are agile and flexible in our development of web, system, and mobile app.</p><br>
-								<p>Speed is key when determining the success or failure of a business nowadays. Meanwhile, the changing pace of IT and WEB trends is accelerating year by year. In order to keep up, agility and flexibility are two vital assets which a company must utilize and, indeed maximize.</p><br>
+								<p>Speed is a key factor in determining the success or failure of a business nowadays. Meanwhile, the changing pace of IT and WEB trends is accelerating year by year. In order to keep up, agility and flexibility are two vital assets which a company must utilize and, indeed maximize.</p><br>
 								<p>That’s why in order to promote your business successfully, we develop web and mobile systems for you in a flexible and agile manner; speedily producing good results and flexibly adapting to your specific requirements. </p><br>
 							</div>
 						</div>
@@ -627,13 +617,13 @@
 								  <div class="carousel-inner">
 									<div class="item active">
 									  <blockquote>
-										<p>As one of the fastest growing life insurance companies, serving our clients online is one of our key principals. LOGIQUE has become an indespensible partner for their work on My SunLife, the Indonesian app UI/UX strategy. As a result, our application has become among the highest rates insurance apps to date. We have frequently assigned LOGIQUE tasks that needed to be done hastily, and they have always delivered the best for us and have never failed our trust. Thank you for your continued cooperation.</p>
+										<p>As one of the fastest growing life insurance companies, serving our clients online is one of our key principals. LOGIQUE has become an indispensable partner for their work on My SunLife, the Indonesian app UI/UX strategy. As a result, our application has become among the highest rated insurance apps to date. We have frequently assigned LOGIQUE tasks that needed to be done hastily, and they have always delivered the best for us and have never failed our trust. Thank you for your continued cooperation.</p>
 										<small>Mr. Jodie Pratomo, Head of the Digital Experience for Sun Life Financial.</small>
 									 </blockquote>
 									</div>
 									<div class="item">
 									 <blockquote>
-										<p>LOGIQUE has a firm grasp of its client’s requirements and needs. Its approach to delivering its service is collaborative, and thus results in a shared ownership of the project it is helping to develop.</p>
+										<p>LOGIQUE has a firm grasp of its client’s requirements and needs. Its approach to delivering its service is collaborative, and thus results in the shared ownership of the project it is helping to develop.</p>
 										<small>Armiliza Cruz Magno , JAIF</small>
 									 </blockquote>
 									</div>
@@ -645,7 +635,7 @@
 									</div>
 									<div class="item">
 									  <blockquote>
-										<p>We are a car and motorcycle auctioning business. LOGIQUE has helped us to develop various systems which require specific customizations in order to fit our process which cannot be covered by any existing systems software. We appreciate how LOGIQUE has been working steadily and flexibly with us, even though our requirements can be sometimes quite high, as the systems that we require demand the utmost security.</p>
+										<p>We are a car and motorcycle auctioning business. LOGIQUE has helped us to develop various systems which require specific customizations in order to fit our process which cannot be covered by any existing systems software. We appreciate how LOGIQUE has been working steadily and flexibly with us, even though our requirements are sometimes quite high, as the systems that we require demand the utmost security.</p>
 										<small>Mr. Kazuhiro Shioyama, President Director, PT. JBA Indonesia</small>
 									 </blockquote>
 									</div>
