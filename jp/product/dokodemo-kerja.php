@@ -516,7 +516,7 @@ if(isset($_POST['submitted']))
 								<ul class="fa-ul">
 									<li><span class="fa-li"><i class="fa fa-circle"></i></span>勤務時間計測</li>
 									<li><span class="fa-li"><i class="fa fa-circle"></i></span>スクリーンショット保存</li>
-									<li><span class="fa-li"><i class="fa fa-circle"></i></span>毎分1スクリーン保存（ランダム）</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>3分に1スクリーン保存（ランダム）</li>
 									<li><span class="fa-li"><i class="fa fa-circle"></i></span>スクリーンショット6ヶ月間保存</li>
 									<li><span class="fa-li"><i class="fa fa-circle"></i></span>
 									10ユーザーまで試用可能<br/>

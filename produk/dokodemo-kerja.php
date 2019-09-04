@@ -537,7 +537,7 @@ if(isset($_POST['submitted']))
 								<ul class="fa-ul">
 									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Pelacakan waktu</li>
 									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Screenshot monitoring</li>
-									<li><span class="fa-li"><i class="fa fa-circle"></i></span>1 tangkapan layar per menit</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>1 tangkapan layar per 3 menit</li>
 									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Screenshot disimpan selama 6 bulan</li>
 									<li><span class="fa-li"><i class="fa fa-circle"></i></span>
 									Untuk 10 orang pengguna*<br/>

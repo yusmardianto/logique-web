@@ -505,7 +505,7 @@ if(isset($_POST['submitted']))
 								<ul class="fa-ul">
 									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Time tracking</li>
 									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Screenshot monitoring</li>
-									<li><span class="fa-li"><i class="fa fa-circle"></i></span>1 screenshot per minute</li>
+									<li><span class="fa-li"><i class="fa fa-circle"></i></span>1 screenshot per 3 minutes</li>
 									<li><span class="fa-li"><i class="fa fa-circle"></i></span>Screenshots saved for 6 months</li>
 									<li><span class="fa-li"><i class="fa fa-circle"></i></span>
 									For 10 users *<br/>
