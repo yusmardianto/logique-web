@@ -158,7 +158,7 @@ if(isset($_POST['submitted']))
 
 			<div id="contentsArea">
 				<div id="contents">
-					<div class="contact-title-copies"><span class="yellow">LOGIQUE DIGITAL INDONESIA</span> offers you solutions for your digital business problems, anytime and anywhere.</div>
+					<div class="contact-title-copies"><span class="yellow">LOGIQUE DIGITAL INDONESIA</span> offers solutions for your digital business problems, anytime and anywhere.</div>
 					<div class="form-container"  style="padding-top: 10px;">
 						<!--<div class="box-jika">
 							<div class="row">
@@ -179,8 +179,7 @@ if(isset($_POST['submitted']))
 							</div>
 						</div><br/>	-->
 						<div>
-						Thank you for showing interest in our products. If you wish to obtain further information about our service, such as web creation and development, SEO and other IT related issues, please contact us and ask us about anything by clicking the button below.
-						</div>
+					Thank you for showing interest in our products. If you wish to obtain further information about our services in regards to web creation/development, SEO optimization and in other IT related matters, please contact us and ask us about anything by clicking the button below.						</div>
 						<div class="text-center">
 							<a class="btn btn-hubungi smooth" href="#anchorForm">
 								Contact Us Now
@@ -188,7 +187,7 @@ if(isset($_POST['submitted']))
 						</div>
 					</div>
 					<img class="img-responsive kontak-img" src="../img/kontak-img.jpg" alt="Kontak Kami"/>
-					<div class="highlights-contact">If you are aware that the Web is the key to your business’s success, we are ready to help you.</div>
+					<div class="highlights-contact">If you feel that improving your website is the key to your business’s success, we are ready to help you.</div>
 					<div class="form-container">
 					<br/>
 						<!--<b>Before contacting us.</b><br/>
@@ -196,7 +195,7 @@ if(isset($_POST['submitted']))
 						Many customers ask us “How much does it cost to develop a website?“ That is a very difficult question.<br/>
 						We have experienced developing a simple website with around 15,000,000 IDR, but it is hard to tell you that the website is going to bring you any results. If you compare web developers in Indonesia there are a lot of companies that are much cheaper than us. We are sure that we can deliver a value in case you are looking for a reliable web developer that leads you to the goal and success for your business.<br/>
 						Of course we also will help you as well in case you would like to develop a minimum-scaled website with limited budget.<br/><br/>-->
-						<div>With 7 years of experience, LOGIQUE is trusted by various companies at both the national and international levels. In addition, through our professional team, we will be able to provide to you high quality service for all of your projects.</div>
+						<div>With 7 years of experience, LOGIQUE is trusted by various companies at both the national and international levels. In addition, through our professional team, we will be able to offer you with the highest quality of service for all of your projects.</div>
 						<div class="highlights2-contact" id="anchorForm">
 						Feel free to contact LOGIQUE about creating a website, or inquire about any SEO, social media, web or design related questions you may have.
 						</div><br/>
@@ -261,7 +260,7 @@ if(isset($_POST['submitted']))
 									  <label><input type="checkbox" name="inquiry[]" value="We are looking for consultants to start a business in Indonesia">We are looking for consultants to start a business in Indonesia</label>
 									</div>
 									<div class="checkbox">
-									  <label><input type="checkbox" name="inquiry[]" value="We would like to visit your office when visiting Jakarta for a business trip">We would like to visit your office when visiting Jakarta for a business trip.</label>
+									  <label><input type="checkbox" name="inquiry[]" value="We would like to visit your office when visiting Jakarta for a business trip">We would like to visit your office the next time you are in Jakarta for a business trip.</label>
 									</div>
 								</div>
 								<div class="clearfix"></div><br/>
@@ -368,8 +367,8 @@ if(isset($_POST['submitted']))
 						<div class="question">Is it possible for you to have a meeting overseas?</div>
 						<div class="answer">Let us discuss the matter with you first. Mostly, we offer video conference calls, but we might be able to be flexible depending on the case.</div><br/>
 
-						<div class="question">We are thinking about changing out current web/system outsourcer and replace them with you.</div>
-						<div class="answer">Please contact us without any further hesitation. There is no need to worry too much about documentation, etc. In most cases he have experienced, we are able to operate the web / system even when there isn’t many handover documents, as long as the previous outsourcer used general technologies.</div><br/>
+						<div class="question">We are thinking about changing our current web/system outsourcer and seek to replace them with you.</div>
+						<div class="answer">Please contact us without any further hesitation. There is no need to worry too much about documentation, etc. In most cases, We are able to develop a wide range of digital products through years of experience in the field of customer management systems development. We are also capable of developing systems to improve recruitment, e-commerce, pointing, and content and loan management, among many other things. We are experts in systems development, further utilizing open web technologies to their highest utility. Please contact us for further details.</div><br/>
 
 						<div class="question">We are seeking a developer to build a management system for our business.</div>
 						<div class="answer">We are capable of developing various kinds of systems through previous experience in the field of customer management systems development, as well as developing systems for improved recruitment, e-commerce, pointing, and content and loan management, among many others. We are experts in system development, utilizing open web technologies. Please contact us for further details.</div><br/>

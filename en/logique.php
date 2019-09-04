@@ -168,7 +168,7 @@
             <span class="characteristic-title">Principals of <span class="yellow">LOGIQUE</span></span>
             <ul class="circle-list">
               <li>LOGIQUE emphasizes speed and agility as a response to an era where punctuality is essential for a company to thrive in Indonesia.</li>
-              <li>LOGIQUE seeks to provide services which respond to our client’s needs with a the maximum desired result.</li>
+              <li>LOGIQUE seeks to provide high quality services which respond to our client’s needs with the maximum desired result.</li>
               <li>We are the trusted associates of many high end financial companies and government related organizations whose requirements concerning quality and security are always strictly defined.</li>
               <li>LOGIQUE frequently takes on new challenges within the frontier of IT development; creating new tech systems in order to evolve and adapt in the burgeoning world of the tech industry, without the fear of change.</li>
               <li>LOGIQUE is flexible. Our trustworthy web development team is expected to adapt depending on the situation. Therefore, in response to your expectations, we can adjust our style to your requirements, while providing you with the highest value of production.</li>
@@ -270,16 +270,16 @@
           </div>
 
           <div class="got-project">
-            <span>Contact LOGIQUE if you need help for:</span><br/>
+            <span>Contact LOGIQUE if you need help with:</span><br/>
             <div class="list-on-services">
               <ul class="fa-ul">
                 <li><i class="fa-li fa fa-check"></i> Developing a website</li>
-                <li><i class="fa-li fa fa-check"></i> Updating your website system</li>
+                <li><i class="fa-li fa fa-check"></i> Updating your website’s system</li>
                 <li><i class="fa-li fa fa-check"></i> Developing a web system</li>
                 <li><i class="fa-li fa fa-check"></i> Creating and designing a campaign or website landing page </li>
                 <li><i class="fa-li fa fa-check"></i> Outsourcing website operations.</li>
                 <li><i class="fa-li fa fa-check"></i> Increasing access to your website with SEO.</li>
-                <li><i class="fa-li fa fa-check"></i> Organizing and running and online promotion strategy.</li>
+                <li><i class="fa-li fa fa-check"></i> Organizing and running an online promotion strategy.</li>
                 <li><i class="fa-li fa fa-check"></i> Searching for leasing web servers and companies to manage them.</li>
                 <li><i class="fa-li fa fa-check"></i> Searching for a printing service catering to company profiles and brochures.</li>
                 <li><i class="fa-li fa fa-check"></i> etc.</li>

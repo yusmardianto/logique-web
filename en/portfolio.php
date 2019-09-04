@@ -914,7 +914,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>Mobile Application Development (Auction Bidding Android).</h4><hr>
-    							        <p>This Android based application is used to facilitate customers of auction companies functioning online and in real-time. Through integrating this android platform through node.js, as well as making use of a thorough UI/UX design, it is able to bring the auctioning experience directly to the auction location. With the support of high-performance API designs, Linux hosting servers, as well as server architectures which have adapted AWS autoscaling and loadbalancing features, the performance quality of our bidding application is undeniable.</p>
+    							        <p>This Android based application is used to facilitate customers of auction companies functioning online and in real-time. By integrating this android platform with node.js, as well as making use of a thorough UI/UX design, it is able to bring the auctioning experience directly to the auction location. With the support of high-performance API designs, Linux hosting servers, as well as server architectures adapting AWS autoscaling and loadbalancing into its features, the performance quality of our bidding application is undeniable.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -946,7 +946,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>CRM System for Motor-Bike Road Servicer.</h4><hr>
-    							        <p>We have developed the following CRM system for motor insurance, and are currently further adding to its features. Through this system, an administration team can easily manage customer data, as well as insurance period extensions, policy payments, dealer partners, policy prices and customer insurance claim data. For customers, the system can provide a comprehensive outline regarding the demand for insurance extension and planning by simulating premium prices based on the cost of a vehicle. <br><br>This system was built with PHP technology with chosen platforms, HTML-CSS3, Javascript, JQuery/Ajax and utilizes a MySQL database. Is it integrated with a gateway payment service from leading service providers, making it easier for customers to make transactions using a credit card and/or electronic money.</p>
+    							        <p>We have developed the following CRM system for motor insurance, and are currently further adding to its features. Through this system, an administration team can easily manage customer data, as well as insurance period extensions, policy payments, dealer partners, policy prices and customer insurance claim data. For customers, the system can provide a comprehensive outline regarding the demand for insurance extensions and planning by simulating premium prices based on the cost of a vehicle. <br><br>This system was built with PHP technology with chosen platforms, HTML-CSS3, Javascript, JQuery/Ajax and utilizes a MySQL database. Is it integrated with a gateway payment service from leading service providers, making it easier for customers to make transactions using a credit card and/or electronic money.</p>
     							      </div>
     							    </div>
     							  </div>
@@ -994,7 +994,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>Used car market place development and operation.</h4><hr>
-    							        <p>The following application is a second hand marketplace system used by many car dealerships inside and outside of Jakarta. It was developed using PHP technology with Chosen Frameworks and runs on a Linux platform through a AWS server. The prcess of developing this service in ongoing; currently, the system boasts more than 30,000 visitors daily. Although traffic is quite solid, the system is very stable. In addition to web based technology, the system is also integrated with mobile apps based on Android (Native) and iOS (Swift).<br><br>The user's response to this service continues to increase over time. Currently the system serves more than 30,000 visitors every day. Although traffic is quite solid, the system is very stable. <br><br>In addition to web-based technology, the system is also integrated with mobile apps based on Android (Native) and IOS (Swift)</p>
+    							        <p>The following application is a second hand marketplace system used by many car dealerships inside and outside of Jakarta. It was developed using PHP technology with Chosen Frameworks and runs on a Linux platform through an AWS server. The process of developing this service is ongoing; currently, the system boasts more than 30,000 visitors daily. Although traffic is quite solid, the system is very stable. In addition to web based technology, the system is also integrated with mobile apps based on Android (Native) and iOS (Swift).<br><br>The user's response to this service continues to increase over time. Currently the system serves more than 30,000 visitors every day. Although traffic is quite solid, the system is very stable. <br><br>In addition to web-based technology, the system is also integrated with mobile apps based on Android (Native) and IOS (Swift)</p>
     							      </div>
     							    </div>
     							  </div>
@@ -1026,7 +1026,7 @@
     							      <div class="modal-body">
     							      	<button type="button" class="close" data-dismiss="modal">&times;</button>
     							      	<h4>Vehicle C2C Auction System.</h4><hr>
-    							        <p>Through the C2C aution system, there are around 2000 vehicles auctioned and divided into 4 sale categories. This application garners around 300 users per month, and was developed using PHP technology with chosen frameworks, JQuery/Ajax, HTML5-CSS3 and uses a MySQL database. Developing this system takes 2 months.</p>
+    							        <p>Through the C2C auction system, there are around 2000 vehicles auctioned and divided into 4 sale categories. This application receives around 300 users per month, and was developed using PHP technology with chosen frameworks, JQuery/Ajax, HTML5-CSS3 and uses a MySQL database. Developing this system takes 2 months.</p>
     							      </div>
     							    </div>
     							  </div>
