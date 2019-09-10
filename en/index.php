@@ -324,7 +324,7 @@
 							<div class="item active">
 								<div class="text-center">
 									<h1 class="title-index">
-										The <span class="yellow">Top</span>  Development Company in Jakarta, Providing <span class="yellow">Digital Solutions</span> For Your Business
+										The <span class="yellow">Top</span> Web Development Company in Jakarta, Providing <span class="yellow">Digital Solutions</span> For Your Business
 									</h1>
 									<p class="p-padding-v-15">
 									<b>LOGIQUE DIGITAL INDONESIA</b> is a professional Web Development company that
