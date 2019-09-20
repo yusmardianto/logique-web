@@ -705,6 +705,37 @@
 										<div class="grey-clr">モバイル最適化, CMS, キャンペーンページ</div>
 									</div>
 								</div>
+								<div class="col-sm-4">
+									<a href="https://timscorp.co.id/en" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/timscorp.png" alt="Timscorp" class="img-responsive center-block">
+										PT. TOYOTA ENTERPRISE INDONESIA MANAGEMENT SERVICE
+									</a>
+									<div class="addition-desc text-left">
+										Web 構築（デザイン制作 | CMS | コーディング）  
+										<div class="grey-clr">独自CMS, スマホ最適, カンパニーWeb, 不動産情報Web</div>
+									</div>
+								</div>
+								<div class="col-sm-4">
+									<a href="https://www.bambootajur.com/" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/bambootajur.png" alt="Green Bamboo Terace" class="img-responsive center-block">
+										Green Bamboo Terace
+									</a>
+									<div class="addition-desc text-left">
+										Web 再制作（デザイン制作 | CMS | コーディング）  
+										<div class="grey-clr">WordPress, スマホ最適, 不動産</div>
+									</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="col-sm-4">
+									<a href="https://hmw-rehab.com/en" target="_blank" rel="noreferrer">
+										<img src="/img/portfolio/hmw.png" alt="HMW Rehabilitation Clinic" class="img-responsive center-block">
+										HMW Rehabilitation Clinic
+									</a>
+									<div class="addition-desc text-left">
+										Web 構築（デザイン制作 | CMS | コーディング）   
+										<div class="grey-clr">独自CMS, スマホ最適, カンパニーWeb, 医療サービス </div>
+									</div>
+								</div>
 							</div>
 						</div>
 					<center>
@@ -1128,21 +1159,27 @@
 								</div>
 								<div class="clearfix"></div>
 								<div class="col-sm-4">
-								  <div class="mobile-app-container">
+								  <div class="mobile-app-container same-height">
 									<div class="m-app-item"><img src="/img/portfolio/investindo-1.png" alt="investindo" class="img-responsive center-block"></div>
 									<div class="m-app-item"><img src="/img/portfolio/investindo-2.png" alt="investindo" class="img-responsive center-block"></div>
 									<div class="m-app-item"><img src="/img/portfolio/investindo-3.png" alt="investindo" class="img-responsive center-block"></div>
 								  </div>
 								  Investindo
+								<div class="addition-desc text-center">
+									<small class="text-muted">Car Inspection App, Android App</small>
+								</div>
 								</div>
                 <div class="col-sm-4">
-								  <div class="mobile-app-container">
+								  <div class="mobile-app-container same-height">
 									<div class="m-app-item"><img src="/img/portfolio/wantjp1.png" alt="want.jp" class="img-responsive center-block"></div>
 									<div class="m-app-item"><img src="/img/portfolio/wantjp2.png" alt="want.jp" class="img-responsive center-block"></div>
 									<div class="m-app-item"><img src="/img/portfolio/wantjp3.png" alt="want.jp" class="img-responsive center-block"></div>
 									<div class="m-app-item"><img src="/img/portfolio/wantjp4.png" alt="want.jp" class="img-responsive center-block"></div>
 								  </div>
 								  Want.jp
+								  <div class="addition-desc text-center">
+									<small class="text-muted">E-commerce, PWA (React JS, Express JS)</small>
+								</div>
 								</div>
 							</div>
 						</div>
