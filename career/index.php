@@ -676,7 +676,7 @@
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
                     <img src="/img/career/pm.png" />
-                    <h3 style="font-size:20px;">Project Manager</h3>
+                    <h3 style="font-size:20px;">Product Manager</h3>
                     <div class="boxfull">Fulltime</div>
                   </div>
                   <div class="panel-footer">
@@ -684,7 +684,7 @@
                       <img src="/img/career/urgent.png">
                     </div>
                     <div class="text-center">
-                      <a class="btn btn-detail" href="detail/project-manager.php" id="project-manager">Detail</a>
+                      <a class="btn btn-detail" href="detail/product-manager.php" id="product-manager">Detail</a>
                     </div>
                   </div>
                 </div>
@@ -694,8 +694,8 @@
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-                    <img src="/img/career/consultant.png" />
-                    <h3 style="font-size:20px;">IT Security Specialist</h3>
+                    <img src="/img/career/pm.png" />
+                    <h3 style="font-size:20px;">Project Manager</h3>
                     <div class="boxfull">Fulltime</div>
                   </div>
                   <div class="panel-footer">
@@ -703,7 +703,7 @@
                       <img src="/img/career/urgent.png">
                     </div>
                     <div class="text-center">
-                      <a class="btn btn-detail" href="detail/web-security.php" id="it-security">Detail</a>
+                      <a class="btn btn-detail" href="detail/project-manager.php" id="project-manager">Detail</a>
                     </div>
                   </div>
                 </div>
@@ -730,6 +730,25 @@
             <!-- SECOND LINE -->
 
             <div class="row">
+
+              <div class="col-md-3 card" data-name="10">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+                    <img src="/img/career/consultant.png" />
+                    <h3 style="font-size:20px;">IT Security Specialist</h3>
+                    <div class="boxfull">Fulltime</div>
+                  </div>
+                  <div class="panel-footer">
+                    <div class="urgent-front">
+                      <img src="/img/career/urgent.png">
+                    </div>
+                    <div class="text-center">
+                      <a class="btn btn-detail" href="detail/web-security.php" id="it-security">Detail</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
 
               <div class="col-md-3 card" data-name="3">
                 <div class="panel panel-default">
@@ -789,6 +808,10 @@
                 </div>
               </div>
 
+            </div>
+
+            <!-- THIRD LINE -->
+            <div class="row">
 
               <div class="col-md-3 card" data-name="5">
                 <div class="panel panel-default">
@@ -810,13 +833,6 @@
                 </div>
               </div>
 
-
-
-
-            </div>
-
-            <!-- THIRD LINE -->
-            <div class="row">
               <div class="col-md-3 card" data-name="10">
                 <div class="panel panel-default">
                   <div class="panel-body">
