@@ -6,9 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="Dicari Project Manager yang berpengalaman di bidang Web dan development system minimal 2 tahun, terampil dalam management dan komunikasi antar tim development dan klien, menangani  keseluruhan proyek mulai dari perencanaan, proposal, hingga pengembangan. Memiliki PMP certification lebih disukai">
+        content="Dicari Product Manager yang berpengalaman di bidang Web dan development system minimal 2 tahun, terampil dalam management dan komunikasi antar tim development dan klien, menangani  keseluruhan proyek mulai dari perencanaan, proposal, hingga pengembangan. Memiliki PMP certification lebih disukai">
     <meta name="keywords"
-        content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, indonesia, Project Manager, IT project manager, web development manager, project management, planning, proposal, report, cloud server, PMP certification">
+        content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, indonesia, Product Manager, IT Product manager, web development manager, Product management, planning, proposal, report, cloud server, PMP certification">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
@@ -16,7 +16,7 @@
     <meta property="og:url" content="https://www.logique.co.id/career/">
     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
     <meta property="og:description"
-        content="Dicari Project Manager yang telah berpengalaman di bidang IT dan Web selama lebih dari 3 tahun, terampil dalam management dan komunikasi antar tim development dan klien, serta menangani proyek secara keseluruhan mulai dari perencanaan, proposal, hingga pengembangan.">
+        content="Dicari Product Manager yang telah berpengalaman di bidang IT dan Web selama lebih dari 3 tahun, terampil dalam management dan komunikasi antar tim development dan klien, serta menangani proyek secara keseluruhan mulai dari perencanaan, proposal, hingga pengembangan.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Lowongan - Product Manager</title>
 
