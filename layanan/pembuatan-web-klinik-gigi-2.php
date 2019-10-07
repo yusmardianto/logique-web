@@ -554,7 +554,7 @@ if (isset($_POST['submitted'])) {
                                     <li class="have-submenu">
                                         <a href="/produk.php">Produk Kami</a>
                                         <ul>
-                                            <li><a href="/produk/dokodemo-kerja.php" target="_blank">
+                                            <li><a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">
                                                     Dokodemo-Kerja <br><span style="font-size: 11px;">(Sistem aplikasi bagi pekerja remote) </span> </a>
                                             </li>
                                             <li>

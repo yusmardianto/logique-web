@@ -1,4 +1,4 @@
- <?php 
+ <?php
 require_once("assets/form/fgcontact_systemdev.php");
 
 $formproc = new FGContactForm();
@@ -45,7 +45,7 @@ if(isset($_POST['submitted']))
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>WEBザイン制作、ウェブシステム開発運用・モバイルアプリ開発 | LOGIQUE デジタルインドネシア</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/style-systemdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -64,13 +64,13 @@ if(isset($_POST['submitted']))
 </head>
 	<body>
 		<header class="header">
-			
+
 			<!-- NAVIGATION -->
 			<div class="nav-lp">
 				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
-					<span class="icon-bar third"></span> 
+					<span class="icon-bar third"></span>
 				</button>
 				<div class="collapse navbar-collapse" id="myNavbar">
 				<div class="backdrop-test"></div>
@@ -129,7 +129,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<div class="container" style="position:relative">
 				<div class="row">
 					<!-- <div class="col-md-12">
@@ -229,7 +229,7 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-sm-4">
 						<div class="osc-item">
-							
+
 							<div class="">
 								<img src="assets/img/img-systemdev/logo-caroline.png" alt="Caroline Logo">
 							</div>
@@ -241,7 +241,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="osc-item">
-							
+
 							<div class="">
 								<img src="assets/img/img-systemdev/logo-zutto.png" alt="Zutto Logo">
 							</div>
@@ -253,7 +253,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="osc-item">
-							
+
 							<div class="">
 								<img src="assets/img/img-systemdev/logo-vip.png" alt="VIP Plaza Logo">
 							</div>
@@ -510,7 +510,7 @@ if(isset($_POST['submitted']))
 									    </div>
 									  </div>
 									</div>
-								</ul> 
+								</ul>
 					</div>
 				</div>
 			</div>
@@ -644,7 +644,7 @@ if(isset($_POST['submitted']))
 									<li><a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn" rel="noreferrer"><i class="fa fa-linkedin-square" aria-hidden="true"  ></i></a></li>
 								</ul>
 							</div>
- 
+
 						</div>
 					</div>
 					<div class="col-md-4 hidden-md hidden-lg">
@@ -654,7 +654,7 @@ if(isset($_POST['submitted']))
 								<div class="link-footer-webdev">
 									<br/>
 									<div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div>
-									<a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
+									<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
 									<a href="/jp/product/nippo.php" target="_blank">Nippo</a>
 									<a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
 								</div>
@@ -700,7 +700,7 @@ if(isset($_POST['submitted']))
 								<div class="link-footer-webdev" style="padding-left:30px">
 									<br/>
 									<div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div>
-									<a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
+									<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
 									<a href="/jp/product/nippo.php" target="_blank">Nippo</a>
 									<a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
 								</div>
@@ -716,7 +716,7 @@ if(isset($_POST['submitted']))
 		<script src="/js/bootstrap.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
-		<script type="text/javascript">			
+		<script type="text/javascript">
 			$(function() {
 				$('.smooth').click(function() {
 				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -738,7 +738,7 @@ if(isset($_POST['submitted']))
 			$('.osc-desc').matchHeight({
 				byRow: false
 			});
-			
+
 		</script>
 	</body>
 </html>

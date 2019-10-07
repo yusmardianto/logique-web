@@ -41,17 +41,17 @@
      src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
     /></noscript>
     <!-- End Facebook Pixel Code -->
- 
-    
+
+
     </head>
 	<body>
 		<div class="wrapper o-wrapper top-only">
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -109,7 +109,7 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
@@ -126,7 +126,7 @@
 				<div class="row">
 					<div class="col-sm-12">
 						<div class="title-container visible-xs">
-							<br/>							
+							<br/>
 							<div id="myCarousel2" class="carousel slide carousel-home-new" data-interval="false">
 							  <div class="carousel-inner">
 								<div class="item active">
@@ -169,7 +169,7 @@
 										</div>
 									</div>
 								</div>
-								
+
 								<div class="item">
 									<h1 class="text-center title-index title-index2">
 										インドネシアで<span class="yellow">HRテック</span>ソリューションを提供しています。
@@ -197,7 +197,7 @@
 											</p>
 											<div class="row">
 												<div class="col-md-3">
-													<a href="/jp/product/dokodemo-kerja.php" class="flipp">
+													<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="flipp">
 														<img src="/img/top/i-dokodemo.png" alt="dokodemo">
 													</a>
 												</div>
@@ -220,7 +220,7 @@
 										</div>
 									</div>
 								</div>
-								
+
 							  </div>
 							  <a class="left carousel-control" href="#myCarousel2" data-slide="prev">
 								<span class="fa fa-angle-left"></span>
@@ -231,13 +231,13 @@
 								<span class="sr-only">Next</span>
 							  </a>
 							</div>
-								
+
 							<br/><br/>
 						</div>
 					</div>
 				</div>
 			</div>
-			
+
 			<div class="contain-video">
 				<video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
 					<source src="../img/12377093.mp4" type="video/mp4">
@@ -247,7 +247,7 @@
 			<div id="bgImg"  style="height: auto;">
 				<div class="img">
 					<div class="title-container hidden-xs">
-						
+
 						<div id="myCarousel" class="carousel slide carousel-home-new" data-interval="false">
 						  <div class="carousel-inner">
 								<div class="item active">
@@ -318,7 +318,7 @@
 											</p>
 											<div class="row">
 												<div class="col-md-3">
-													<a href="/jp/product/dokodemo-kerja.php" class="flipp">
+													<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="flipp">
 														<img src="/img/top/i-dokodemo.png" alt="dokodemo">
 													</a>
 												</div>
@@ -351,11 +351,11 @@
 							<span class="sr-only">Next</span>
 						  </a>
 						</div>
-						
+
 					</div>
 				</div>
 			</div>
-			
+
 			<br/>
 		  <?php include 'footer.php';?>
 		</div>

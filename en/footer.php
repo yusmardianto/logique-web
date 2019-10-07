@@ -19,7 +19,7 @@ ga('send', 'pageview');
 						<ul>
 							<li><a href="/en/index.php">Home</a></li>
 							<li><a href="/en/logique.php">About Us</a></li>
-							
+
 							<li  class="have-submenu"><a href="/en/services.php">Service</a>
 								 <ul>
 									<li class="have-submenu"><a href="/en/services/web-dev.php" target="_blank">Web Development</a>
@@ -40,7 +40,7 @@ ga('send', 'pageview');
 									</ul>
 								</ul>
 							</li>
-							
+
 						</ul>
 					</div>
 					<div class="col-sm-4 link-footer-nav">
@@ -48,7 +48,7 @@ ga('send', 'pageview');
 							<li  class="have-submenu"><a href="/en/product.php">Products</a>
 								<ul>
 						 			<li>
-						 				<a href="/en/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja <span style="font-size: 12px;">(Remote Working Tool)</span> </a></li>
+						 				<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja <span style="font-size: 12px;">(Remote Working Tool)</span> </a></li>
 									<li><a href="/en/product/nippo.php" target="_blank">Nippo<span style="font-size: 12px;">(Daily Report Tool)</span> </a></li>
 									<li><a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo<span style="font-size: 12px;"> (Employee Recruitment System)</span> </a></li>
 						 		</ul>
@@ -57,12 +57,12 @@ ga('send', 'pageview');
 							<li  class="have-submenu"><a href="/en/joinus.php">Career</a>
 								<ul><li><a href="/career/">Join LOGIQUE</a></li></ul>
 							</li>
-							
+
 							<li><a href="/en/contact.php">Contact Us</a></li>
 						</ul>
-						 
+
 					</div>
-			 
+
 					<div class="col-sm-4 link-footer">
 						<p>LOGIQUE aims to provide you with the best solutions tailored to your company’s
 							specific digital requirements. Through an innovative combination of artistic design

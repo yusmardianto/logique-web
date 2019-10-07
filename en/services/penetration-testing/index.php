@@ -329,7 +329,7 @@
 						<div class="col-sm-4 link-footer">
 							<div class="footer-title">Our Product</div>
 							<h5 style="margin-bottom: 10px;">
-								<a href="/en/product/dokodemo-kerja.php" target="_blank">
+								<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">
 									Dokodemo-Kerja<br/><div style="font-size: 12px;">(Remote Working Tool)</div>
 								</a>
 							</h5>

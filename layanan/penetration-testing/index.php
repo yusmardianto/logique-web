@@ -15,7 +15,7 @@
 	<meta property="og:description" content="Perilaku cyber crime selalu meningkat setiap tahunnya. Karena itu, LOGIQUE menyediakan layanan jasa keamanan website menggunakan metode penetration testing sebagai solusi terbaik untuk melindungi data perusahaan Anda. Segera hubungi kami untuk mendapatkan layanan ini.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Keamanan Website | Penetration Testing | LOGIQUE Digital Indonesia</title>
-	<link href="css/bootstrap.min.css" rel="stylesheet">	 
+	<link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href="css/animate.min.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
@@ -43,7 +43,7 @@
 	<!-- End Twitter universal website tag code -->
   </head>
 <body>
-	
+
 	<div class="header-top">
 		<div class="container">
 			<div class="row">
@@ -80,7 +80,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<br/>
 	<div class="container">
 		<div class="row">
@@ -94,7 +94,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<br/><br/>
 	<div class="header-top">
 		<div class="container">
@@ -123,7 +123,7 @@
 										<img alt="serangan ransomware tumbuh lebih dari 350% setiap tahun" src="img/kasus1-3.png" class="img-responsive center-block"/>
 									</div>
 								</div>
-								
+
 								<br/><br/>
 								<div class="kasus-subtitle">Dari Mana Serangan-Serangan Tersebut Berasal?</div>
 								<div class="div-kasus">
@@ -169,11 +169,11 @@
 										</div>
 									</div>
 								</div>
-								
+
 								<br/><br/>
 								<div class="kasus-subtitle">Siapa Yang Akan Terpengaruh dari serangan cyber ini?</div>
 								<div class="div-kasus">
-									Serangan cyber yang terjadi tentunya mempengaruhi banyak pihak. Situs Verizon mencatat, sebanyak 61 persen korban dari serangan cyber ini adalah perusahaan bisnis yang mempunyai karyawan kurang dari 100 orang.<br/><br/> 
+									Serangan cyber yang terjadi tentunya mempengaruhi banyak pihak. Situs Verizon mencatat, sebanyak 61 persen korban dari serangan cyber ini adalah perusahaan bisnis yang mempunyai karyawan kurang dari 100 orang.<br/><br/>
 									Amerika Serikat menjadi negara paling tinggi dari negara-negara dengan jumlah populasi yang terhubung dengan Internet, yaitu sebanyak 18,2 persen dari semua serangan ransomware yang ada.<br/><br/>
 									Industri yang paling banyak mendapatkan serangan dari ransomware adalah industri kesehatan, dan disinyalir serangan tersebut akan meningkat jumlahnya sebanyak empat kali lipat pada tahun 2020 mendatang.<br/><br/>
 									Namun, dari seluruh serangan tersebut, industri jasa keuangan menjadi salah satu industri yang paling dirugikan dari kejahatan cyber ini dengan rata-rata kerugian mencapai angka $ 18,3 juta per perusahaan.
@@ -194,7 +194,7 @@
 									<div class="col-sm-3">
 										<img class="img-responsive center-block" src="img/rumah-dampak.png"/>
 									</div>
-									<div class="col-sm-6"> 
+									<div class="col-sm-6">
 										<div class="border-serangan cyber-attack mt-0">
 											<b>INDUSTRI JASA KEUANGAN</b>
 										</div>
@@ -228,14 +228,14 @@
 									<div style="background-color:black;color:white;margin: 0 1px;"><p class="six-billion"><span>USD 6</span> Trilliun<br/>per tahun pada 2021</p></div>
 									<div style="background-color:black;color:white;"><img alt="Serangan IoT meningkat 600% pada 2017" src="img/image-risk-cmputer.png" class="img-responsive center-block"/></div>
 								</div>
-								
+
 								<br/><br/>
 								<div class="kasus-subtitle">Apakah Perusahaan Anda Mengalami Serangan Ini?</div>
 								<div class="div-kasus">
 									Saat ini, sebanyak 74% perusahaan mempunyai lebih dari 1.000 arsip yang sangat sensitif, dimana 21 persennya tidak diberikan perlindungan yang baik dan mumpuni. Selain itu, 41% perusahaan juga mempunyai lebih dari 1.000 file yang sensitif, termasuk nomor kartu kredit serta catatan keuangan lainnya yang tidak terlindungi dengan baik.<br/><br/>
 									Bukan hanya itu saja, berdasarkan data Varonis, 65% perusahaan mempunyai 500 pengguna yang tidak pernah mengubah kata sandi mereka. Bahkan, berdasarkan studi yang dilakukan oleh Ponemon Institute’s pada tahun 2017 mengatakan sebanyak 69% organisasi tidak percaya jika ancaman yang terjadi dapat diblokir oleh perangkat anti-virus milik mereka.
 								</div>
-								
+
 								<div class="row text-center">
 									<div class="col-sm-3 mt-2m img-centered img-up">
 										<img alt="Sekitar 24.000 aplikasi seluler berbahaya diblokir setiap hari" src="img/mengalami/mengalami1.png" class="img-responsive center-block"/>
@@ -251,7 +251,7 @@
 									</div>
 									<div class="col-sm-3 mt-2m img-centered">
 										<img alt="serangan ransomware tumbuh lebih dari 350% setiap tahun" src="img/mengalami/mengalami3.png" class="img-responsive center-block"/>
-									</div> 	
+									</div>
 								</div>
 
 							</div>
@@ -280,7 +280,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="target-umum-bg">
 		<div class="container">
 			<div class="row">
@@ -298,9 +298,9 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<img src="img/typing.png" width="100%" alt="Typing"/><br/><br/>
-	
+
 	<div class="plus-minus-bg">
 		<div class="container">
 			<div class="row">
@@ -308,12 +308,12 @@
 					<div class="text-center lh-30">
 						<span class="title fw-300">Lalu mengapa <b>pentest</b> diperlukan?</span><br/>
 						Pentest dilakukan sebenarnya untuk mengidentifikasi apakan terdapat kelemahan keamanan di dalam sebuah aplikasi, komputer atau jaringan. Jika kelemahan ditemukan dan dapat dibuktikan dengan beberapa analisa resikonya, maka Anda akan mempunyai waktu untuk dapat memperbaikinya sebelum seseorang yang tidak bertanggung jawab mengambil kesempatan dari kelemahan yang ditemukan tersebut.
-					</div>	
+					</div>
 					<br/><br/>
 					<div class="text-center lh-30">
 						<span class="title fw-300">Apa kelebihan dan kekurangan pentest?</span><br/>
 						Teknik penetration testing mempunyai beberapa kelebihan dan kekurangan, antara lain yaitu:
-					</div>	
+					</div>
 				</div>
 				<div class="clearfix"></div><br/>
 				<div class="col-md-6">
@@ -338,11 +338,11 @@
 						</ul>
 					</div>
 					<hr/>
-				</div>	
-			</div>	
-		</div>	
-	</div>	
-	<br/>	
+				</div>
+			</div>
+		</div>
+	</div>
+	<br/>
 	<div class="mengapa-harus">Mengapa harus memilih <a href="https://www.logique.co.id/" target="_blank"><b>Logique Digital Indonesia</b></a> untuk melakukan pentest?</div>
 	<br/>
 	<div class="metode">
@@ -387,7 +387,7 @@
 						<div class="col-sm-10">
 							<div class="subtitle fs-18"><b>Grey Box Testing</b></div>
 							<div>
-							Merupakan metode pengujian yang berasal dari kombinasi Black Box dan White Box. Dimana pentester melakukan pengujian aplikasi berdasarkan spesifikasi namun menggunakan cara kerja dari dalam aplikasi tersebut alias source code program. 
+							Merupakan metode pengujian yang berasal dari kombinasi Black Box dan White Box. Dimana pentester melakukan pengujian aplikasi berdasarkan spesifikasi namun menggunakan cara kerja dari dalam aplikasi tersebut alias source code program.
 							</div>
 						</div>
 					</div>
@@ -584,7 +584,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="faq">
 		<div class="container-fluid">
 			<h2 class="faq-title">FAQ</h2>
@@ -654,7 +654,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="hidden contact-us">
 		<div class="container">
 			<h2 class="contact-title">
@@ -730,7 +730,7 @@
 			</form>
 		</div>
 	</div>
-	
+
 	<footer>
 	<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>
 		<div class="container">
@@ -759,7 +759,7 @@
 						<div class="col-sm-4 link-footer">
 							<div class="footer-title">Produk LOGIQUE</div>
 							<h5 style="margin-bottom: 10px;">
-								<a href="/produk/dokodemo-kerja.php" target="_blank">
+								<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">
 									Dokodemo-Kerja<br/><div style="font-size: 12px;">(Sistem aplikasi bagi pekerja remote)</div>
 								</a>
 							</h5>
@@ -800,7 +800,7 @@
 						<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
 						Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span>
 						<br><br>
-						&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+						&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
 						<br>
 						<a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 						<br><br>
@@ -809,7 +809,7 @@
 					Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/mekanisme-pembuatan-website/" target="_blank"><b>jasa pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.
 					<br/><br/>
 					<div itemscope itemtype="http://schema.org/CreativeWork">
-						<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
+						<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>
 						<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
 					</div>
 				</div>
@@ -826,6 +826,6 @@
 		new WOW().init();
 		$(function() {
 			$('.each-plus-minus').matchHeight();
-		});	
+		});
 	</script>
 </html>

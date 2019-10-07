@@ -1,4 +1,4 @@
-﻿ <?php 
+﻿ <?php
 require_once("form/fgcontact_dokodemo.php");
 
 $formproc = new FGContactForm();
@@ -51,7 +51,7 @@ if(isset($_POST['submitted']))
     <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan kerja remote. Aplikasi ini mampu monitor dan kalkulasi jam kerja karyawan secara akurat, dilengkapi feature screencapture otomatis. Dengan begitu, perusahaan Anda menjadi lebih produktif.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja | LOGIQUE</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style_dokodemo.css" rel="stylesheet">
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<script>
@@ -64,7 +64,7 @@ if(isset($_POST['submitted']))
 	ga('send', 'pageview');
 
 	</script>
-	
+
 	<!-- Twitter universal website tag code -->
 	<script>
 	!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
@@ -89,13 +89,13 @@ if(isset($_POST['submitted']))
 		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KT7GBKC"
 		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
-		
+
 		<header>
 			<div class="nav-lp">
 				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
-					<span class="icon-bar third"></span> 
+					<span class="icon-bar third"></span>
 				</button>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<div class="backdrop-test"></div>
@@ -190,7 +190,7 @@ if(isset($_POST['submitted']))
 							<li class="pull-left"><a href="/jp/product/dokodemo-kerja.php">JPN</a></li>
 						</ul>
 					</div>
-				  </div><!--/.nav-collapse -->  
+				  </div><!--/.nav-collapse -->
 				</div><!--/.container-fluid -->
 			</nav>
 			<div class="container" id="introduction">
@@ -219,7 +219,7 @@ if(isset($_POST['submitted']))
 						<div class="hidden-xs"><br/><br/></div>
 						<video width="100%" height="300" controls poster="/produk/img/dokodemo-kerja/thumb-dokodemo.png">
 						   <source src="/produk/img/dokodemo-kerja/dokodemo-kerja.webm" type="video/webm" />
-						</video><br/><br/>						
+						</video><br/><br/>
 					</div>
 					<div class="col-md-6 text-justify">
 						<h2 class="title2">Apa Itu <span class="blue">Dokodemo-Kerja?</span></h2>
@@ -287,7 +287,7 @@ if(isset($_POST['submitted']))
 				<div class="visible-lg"><br/><br/></div>
 			</div>
 		</div>
-		
+
 		<div class="bg-yellow" id="fitur">
 			<img src="img/dokodemo-kerja/image-fitur.png" alt="Fitur" class="image-fitur img-responsive"/>
 			<div class="container-fluid">
@@ -301,16 +301,16 @@ if(isset($_POST['submitted']))
 									<strong>Dokodemo-Kerja</strong> mengambil cuplikan layar (screen capture) aktivitas kerja karyawan pada layar perangkat komputernya dalam waktu yang acak (random) dan mengirimnya pada tim manajemen (administrator).
 								</div>
 							</div>
-						</div>				
+						</div>
 					</div>
-				</div>				
+				</div>
 				<div class="row" style="margin:0">
 					<div class="col-md-6" style="padding: 0;">
 						<div class="title-fitur anton">
 							<span class="anton">Fitur</span><br/> Dokodemo-Kerja
 						</div>
 						<div class="dengan-fitur">
-							<div class="quote">“</div>Dengan fitur-fitur tersebut, <strong>Dokodemo-Kerja</strong> dapat menjadi revolusi sistem kerja baru bagi perusahaan dan karyawan Anda. 
+							<div class="quote">“</div>Dengan fitur-fitur tersebut, <strong>Dokodemo-Kerja</strong> dapat menjadi revolusi sistem kerja baru bagi perusahaan dan karyawan Anda.
 						</div>
 					</div>
 					<div class="col-md-6 one-fitur-btm">
@@ -346,7 +346,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		
+
 		<!-- <div class="bg-why">
 			<h2 class="title">Mengapa Memakai Dokodemo-Kerja?</h2>
 			<div class="container">
@@ -427,7 +427,7 @@ if(isset($_POST['submitted']))
 						<div class="list-masalah">Anda tidak dapat memastikan apakah mereka bekerja dengan cukup baik. Staff Anda berbeda lantai dan ruangan dengan Anda dan Anda juga seringkali keluar kantor.</div>
 						<div class="list-masalah">Sulit untuk memantau jam kerja para karyawan. Anda menggunakan alat perekam kehadiran yang menggunakan sidik jari, namun masih terdapat celah dan kekurangan dari alat tersebut.</div>
 						<div class="list-masalah">Beberapa karyawan menonton Youtube untuk waktu yang lama pada saat jam kerja.</div>
-						
+
 						<div class="highlight-masalah">
 							<span>Dokodemo-Kerja</span> dapat membantu Anda untuk mengatasi masalah-masalah diatas.<br/>
 							Anda dapat mulai menggunakan <strong>Dokodemo-Kerja</strong> hari ini.
@@ -485,7 +485,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="div-masalah-new">
 			<div class="container">
 				<div class="row">
@@ -498,7 +498,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="harga" id="price">
 			<div class="container">
 				<div class="title anton">Harga Dokodemo-Kerja</div><br/>
@@ -550,7 +550,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-4">
 						<div class="card-harga">
 							<div class="title-card text-center">Enterprise Plan</div>
-							
+
 							<div class="text-center heightauto" style="padding:15px;">
 							<div class="valign-center">
 							Silahkan hubungi kami untuk mendapatkan informasi secara detail.
@@ -569,7 +569,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="testi-div">
 			<div class="container">
 				<div class="row">
@@ -601,7 +601,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="clearfix"></div>
 							<p>
-								Sangat sulit bagi saya untuk memantau seluruh karyawan untuk tidak membuka sosial media, youtube, dan bermain games. Setelah saya menggunakan Dokodemo-Kerja, saya dapat memantau seluruh karyawan yang membuka sosial media, youtube dan bermain games dari screen capture laptop masing-masing. Sekarang, para karyawan menon-aktifkan 
+								Sangat sulit bagi saya untuk memantau seluruh karyawan untuk tidak membuka sosial media, youtube, dan bermain games. Setelah saya menggunakan Dokodemo-Kerja, saya dapat memantau seluruh karyawan yang membuka sosial media, youtube dan bermain games dari screen capture laptop masing-masing. Sekarang, para karyawan menon-aktifkan
 								Dokodemo-Kerja apabila mereka sedang istirahat ataupun bermain games. Aktivitas tersebut tidak dihitung sebagai jam kerja mereka.
 							</p>
 							<div class="text-center"><span class="fs-16"><strong>Kevin</strong></span> - <span class="fs-14">Staff HR</span></div>
@@ -674,7 +674,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="clearfix"></div>
 							<p>
-								Seringkali saya menegur para karyawan yang terlalu lama keluar untuk merokok. Alasannya, mereka tidak bekerja sesuai dengan jam kerja yang seharusnya berlaku. Kedua, saya ingin jam kerja yang adil dapat berlaku untuk seluruh karyawan. Setelah menggunakan Dokodemo-Kerja, sudah tidak ada lagi karyawan menggunakan waktu merokok terlalu lama. Saya pun dapat dengan mudah mengalkulasi jam kerja karyawan. 
+								Seringkali saya menegur para karyawan yang terlalu lama keluar untuk merokok. Alasannya, mereka tidak bekerja sesuai dengan jam kerja yang seharusnya berlaku. Kedua, saya ingin jam kerja yang adil dapat berlaku untuk seluruh karyawan. Setelah menggunakan Dokodemo-Kerja, sudah tidak ada lagi karyawan menggunakan waktu merokok terlalu lama. Saya pun dapat dengan mudah mengalkulasi jam kerja karyawan.
 							</p>
 							<div class="text-center"><span class="fs-16"><strong>Tiara</strong></span> - <span class="fs-14">Staff HR</span></div>
 						</div>
@@ -707,56 +707,56 @@ if(isset($_POST['submitted']))
 					<div class="col-md-6">
 						<span class="blue2 fw-500">Bagaimana <strong>Dokodemo-Kerja</strong> merekam jam kerja karyawan?</span><br/>
 						<strong>Dokodemo-Kerja</strong> merekam aktivitas dan jam kerja untuk setiap proyek yang dikerjakan karyawan pada layar perangkat komputernya. Perhitungan akan dimulai dan dihentikan dengan perintah <i>start/stop</i>.<br/><br/>
-						 
+
 						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> memerlukan akses internet?</span><br/>
 						Akses internet diperlukan untuk mengaktifkan dan mengelola akun <strong>Dokodemo-Kerja</strong>, serta mengirim data rekaman aktivitas dan jam kerja ke database.<br/><br/>
-						 
+
 						<span class="blue2 fw-500">Bagaimana jika akses internet saya putus saat <strong>Dokodemo-Kerja</strong> berjalan?</span><br/>
 						Tidak masalah. Akses internet tidak dibutuhkan selama proses penghitungan. Namun, Anda membutuhkan koneksi internet saat tombol stop diklik untuk mengirim data ke database.<br/><br/>
-						 
+
 						<span class="blue2 fw-500">Berapa jumlah pengguna yang didukung oleh <strong>Dokodemo-Kerja</strong>?</span><br/>
 						Jumlah pengguna bisa disesuaikan menurut kebutuhan perusahaan.<br/><br/>
-						 
+
 						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> bisa diakses lewat perangkat seluler?</span><br/>
 						Untuk saat ini, perangkat seluler hanya bisa mengakses <strong>Dokodemo-Kerja</strong> melalui browser.<br/><br/>
-						
+
 						<span class="blue2 fw-500">Bagaimana cara menyiapkan layanan <strong>Dokodemo-Kerja</strong>? </span><br/>
 						Kami akan menyediakan panduan menyiapkan layanan <strong>Dokodemo-Kerja</strong> langkah demi langkah. Mulai dari cara mengakses akun master, mengakses aplikasi dan menginstalnya, hingga penggunaannya bagi karyawan.<br/><br/>
-						
+
 						<span class="blue2 fw-500">Bagaimana cara mengetahui apakah PC atau Mac saya dapat menjalankan <strong>Dokodemo-Kerja</strong>? </span><br/>
 						<strong>Dokodemo-Kerja</strong> mendukung PC yang menjalankan sistem operasi Windows, Linux, dan Macintosh.<br/><br/>
-						
+
 						<span class="blue2 fw-500">Bahasa apa saja yang tersedia untuk <strong>Dokodemo-Kerja</strong>?</span><br/>
-						Untuk saat ini, <strong>Dokodemo-Kerja</strong> tersedia dalam Bahasa Indonesia dan Inggris.<br/><br/> 
-						 
+						Untuk saat ini, <strong>Dokodemo-Kerja</strong> tersedia dalam Bahasa Indonesia dan Inggris.<br/><br/>
+
 						<span class="blue2 fw-500">Dapatkah saya melakukan uji coba <strong>Dokodemo-Kerja</strong> terlebih dahulu sebelum membelinya?</span><br/>
 						Tentu saja. Untuk mendapatkan layanan uji coba, silakan hubungi kami.<br/><br/>
 					</div>
-					<div class="col-md-6">						
+					<div class="col-md-6">
 						<span class="blue2 fw-500">Bagaimana jika saya punya masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>?</span><br/>
 						Jangan khawatir. Jika Anda mengalami masalah dalam menggunakan <strong>Dokodemo-Kerja</strong>, Anda dapat langsung menghubungi kami. Kami akan membantu Anda dengan senang hati.<br/><br/>
-						
+
 						<span class="blue2 fw-500">Saya tertarik menggunakan <strong>Dokodemo-Kerja</strong> untuk perusahaan saya. Bagaimana saya bisa mendapatkannya?</span><br/>
 						Anda hanya perlu menghubungi kami dengan mengisi formulir yang kami sediakan. Kami siap melayani Anda.<br/><br/>
-						
+
 						<span class="blue2 fw-500">Seberapa efektifkah <strong>Dokodemo-Kerja</strong> pada produktivitas karyawan?</span><br/>
 						Sangat efektif, karena <strong>Dokodemo-Kerja</strong> mampu mengkalkulasikan total jam kerja karyawan secara real time dan transparan.<br/><br/>
-						
+
 						<span class="blue2 fw-500">Untuk siapakah <strong>Dokodemo-Kerja</strong> dibuat?</span><br/>
 						<strong>Dokodemo-Kerja</strong> dibuat untuk para perusahaan yang menggunakan karyawan dengan sistem kerja remote dan independen agar meningkatkan produktifitas perusahaan.<br/><br/>
-						
+
 						<span class="blue2 fw-500">Apa keuntungan yang didapatkan oleh perusahaan yang menerapkan <strong>Dokodemo-Kerja</strong>?</span><br/>
 						Dengan <strong>Dokodemo-Kerja</strong>, perusahaan akan diuntungkan dengan produktifitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.<br/><br/>
-						
+
 						<span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> dapat menyesuaikan waktu sesuai dengan zona waktu lokal yang ada?</span><br/>
 						Bisa, Jika Anda mengaktifkan <strong>Dokodemo-Kerja</strong>, maka secara otomatis aplikasi akan mendeteksi zona waktu lokal yang ada.<br/><br/>
-						
+
 						<span class="blue2 fw-500">Apa yang akan terjadi jika kita langsung mematikan OS (Operating System) tanpa menghentikan  <strong>Dokodemo-Kerja</strong> terlebih dahulu?</span><br/>
 						Jika hal ini terjadi, maka pencatatan waktu yang terekam akan berada pada waktu terakhir aplikasi menangkap layar monitor.<br/><br/>
-						
+
 						<span class="blue2 fw-500">Dapatkah <strong>Dokodemo-Kerja</strong> beroperasi di Background System?</span><br/>
 						Tidak bisa, Sebab ketika aplikasi ditutup, maka service secara otomatis juga akan berakhir.<br/><br/>
-						
+
 					</div>
 				</div>
 				<br/>
@@ -786,7 +786,7 @@ if(isset($_POST['submitted']))
 				<?php if(isset($msg))
 				{
 				echo $msg;
-				} 
+				}
 				?>
 				<form class="form-dokodemo" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
 					<input type='hidden' name='submitted' id='submitted' value='1'/>
@@ -862,7 +862,7 @@ if(isset($_POST['submitted']))
 				</form>
 			</div>
 		</div>
-		
+
 		<a href="#" class="scrollToTop">Back to Top</a>
 		<footer>
 			<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>
@@ -889,15 +889,15 @@ if(isset($_POST['submitted']))
 			              </ul>
 			            </li>
 			          </ul>
-			
-			           
+
+
 			        </div>
 			        <div class="col-sm-4 link-footer-nav">
 			           <ul>
 			            <li  class="have-submenu">
 			              <a href="/produk.php">Produk Kami</a>
 			              <ul>
-			                <li><a href="/produk/dokodemo-kerja.php" target="_blank">
+			                <li><a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">
 			                  Dokodemo-Kerja  <br><span style="font-size: 11px;">(Sistem aplikasi bagi pekerja remote) </span> </a>
 			                </li>
 			                <li>
@@ -916,16 +916,16 @@ if(isset($_POST['submitted']))
 			            </li>
 			            <li><a href="/hubungi-kami.php">Hubungi Kami</a></li>
 			           </ul>
-			            
+
 			            <!-- <h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website Restoran </a></h6> -->
-			             
+
 			        </div>
 			        <div class="col-sm-4 link-footer">
 			        	<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
 			           <p style=" padding-bottom: 0px; padding-top: 0px;">
 			           	<strong>Dokodemo-Kerja</strong> adalah sebuah tool yang dapat membuat karyawanmu bekerja remote, meningkatkan produktivitas dengan menghilangkan aktivitas yang membuang waktu dan tenaga, serta mengurangi beban HR dalam memantau kerjaan karyawan. Anda juga dapat menyesuaikan Dokodemo-Kerja berdasarkan kebutuhan perusahaan Anda. Hubungi kami jika Anda tertarik.
 			           </p>
-			       
+
 			        </div>
 			      </div>
 						<br>
@@ -937,12 +937,12 @@ if(isset($_POST['submitted']))
 			        <span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br>Jalan Tb. Simatupang No. 5 <br/>
 			        Ragunan, Ps. Minggu,  Jakarta Selatan, <br>Indonesia </span><span itemprop="postalCode">12550</span>
 			        <br><br>
-			        &nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+			        &nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
 			        <br>
 			        <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 			        <br><br>
 			        </div>
-			      </div> 
+			      </div>
 			      <div class="provacy-policy-container">
 			        <a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
 			      </div>
@@ -1006,7 +1006,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</footer> -->
-		
+
 		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 		<script src="/js/bootstrap.min.js"></script>
 		<script src="js/PicCarousel.min.js"></script>
@@ -1014,7 +1014,7 @@ if(isset($_POST['submitted']))
 			$(".screenshot-slide").PicCarousel("init");
 		</script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
-		<script type="text/javascript">			
+		<script type="text/javascript">
 			$(function() {
 				$('.smooth').click(function() {
 				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -1029,9 +1029,9 @@ if(isset($_POST['submitted']))
 				  }
 				});
 			});
-			
+
 			$(document).ready(function(){
-				
+
 				//Check to see if the window is top if not then display button
 				$(window).scroll(function(){
 					if ($(this).scrollTop() > 100) {
@@ -1048,7 +1048,7 @@ if(isset($_POST['submitted']))
 					}
 				});
 			});
-			
+
 			//Click event to scroll to top
 			$('.scrollToTop').click(function(){
 				$('html, body').animate({scrollTop : 0},800);

@@ -65,8 +65,8 @@ if(isset($_POST['submitted']))
 	ga('create', 'UA-105878648-1', 'auto');
 	ga('send', 'pageview');
 
-	</script>	
-	
+	</script>
+
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -85,7 +85,7 @@ if(isset($_POST['submitted']))
 				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
-					<span class="icon-bar third"></span> 
+					<span class="icon-bar third"></span>
 				</button>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<div class="backdrop-test"></div>
@@ -173,7 +173,7 @@ if(isset($_POST['submitted']))
 					  <li><a href="#divForm" class="smooth li-mt">Contact Me</a></li>
 					</ul>
 					<a class="logique-logo-link" href="/en/" target="_blank" aria-label="Logique Logo"><img class="pull-right img-responsive center-block logo-logique-header" src="img/dokodemo-kerja/logo_logique.png" alt="Logo Logique" /></a>
-					<div class="pull-right btn-lang">	
+					<div class="pull-right btn-lang">
 						<ul class="nav-lang hidden-xs">
 							<li class="pull-left"><a href="/produk/dokodemo-kerja.php">IND</a></li>
 							<li class="pull-left active">ENG</li>
@@ -634,7 +634,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="div-faq">
 			<div class="anton title yellow">FAQ:</div>
 			<br/>
@@ -788,7 +788,7 @@ if(isset($_POST['submitted']))
 								<ul>
 									<li><a href="/en/index.php">Home</a></li>
 									<li><a href="/en/logique.php">About Us</a></li>
-									
+
 									<li  class="have-submenu"><a href="/en/services.php">Service</a>
 										 <ul>
 											<li class="have-submenu"><a href="/en/services/web-dev.php" target="_blank">Web Development</a>
@@ -804,7 +804,7 @@ if(isset($_POST['submitted']))
 								 		<li><a href="/en/services/digital-marketing.php" target="_blank">Digital Marketing </a></li>
 										</ul>
 									</li>
-									
+
 								</ul>
 							</div>
 							<div class="col-sm-4 link-footer-nav">
@@ -812,7 +812,7 @@ if(isset($_POST['submitted']))
 									<li  class="have-submenu"><a href="/en/product.php">Products</a>
 										<ul>
 								 			<li>
-								 				<a href="/en/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja <span style="font-size: 12px;">(Remote Working Tool)</span> </a></li>
+								 				<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja <span style="font-size: 12px;">(Remote Working Tool)</span> </a></li>
 											<li><a href="/en/product/nippo.php" target="_blank">Nippo<span style="font-size: 12px;">(Daily Report Tool)</span> </a></li>
 											<li><a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo<span style="font-size: 12px;"> (Employee Recruitment System)</span> </a></li>
 								 		</ul>
@@ -821,12 +821,12 @@ if(isset($_POST['submitted']))
 									<li  class="have-submenu"><a href="/en/joinus.php">Career</a>
 										<ul><li><a href="/career/">Join LOGIQUE</a></li></ul>
 									</li>
-									
+
 									<li><a href="/en/contact.php">Contact Us</a></li>
 								</ul>
-								 
+
 							</div>
-					 
+
 							<div class="col-sm-4 link-footer">
 								<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
 								<p style="padding-bottom: 0px; padding-top: 0px;">

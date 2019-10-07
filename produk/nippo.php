@@ -1,4 +1,4 @@
- <?php 
+ <?php
 require_once("form/fgcontact_nippo.php");
 
 $formproc = new FGContactForm();
@@ -119,7 +119,7 @@ if(isset($_POST['submitted']))
     <span class="APA-ITU">APA ITU</span>
   </div>
   <div class="col-md-11 hidden-xs hidden-sm lg-1">
-      <span class="NIPPO-SYSTEM">NIPPO SYSTEM</span> 
+      <span class="NIPPO-SYSTEM">NIPPO SYSTEM</span>
       <span class="layer">?</span>
   </div>
   <section class="hidden-xs hidden-sm">  <!-- For Desktop -->
@@ -364,7 +364,7 @@ kerja pengerjaan suatu projek.</div>
       <li class="-Bagaimana-cara-ke">
         <h3>Apa perbedaan laman kelola untuk staf dengan manajerial?</h3>
         <p class="Nippo-merupakan-sist">Pada halaman manajerial terdapat fungsi evaluasi sehingga manajer dapat memberikan skor evaluasi kepada stafnya. Sedangkan untuk halaman staf hanya terdapat fungsi laporan harian saja.</p>
-      </li> 
+      </li>
       <li class="-Bagaimana-cara-ke">
         <h3>Apakah Nippo bisa diakses oleh browser apa pun?</h3>
         <p class="Nippo-merupakan-sist">Ya, Nippo dapat diakses menggunakan browser apapun, termasuk oleh browser di perangkat seluler. Jika Anda mengalami masalah dan membutuhkan bantuan, jangan ragu untuk menghubungi Kami.</p>
@@ -393,7 +393,7 @@ kerja pengerjaan suatu projek.</div>
       <?php if(isset($msg))
         {
         echo $msg;
-        } 
+        }
         ?>
       <form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
       <input type='hidden' name='submitted' id='submitted' value='1'/>
@@ -451,8 +451,8 @@ kerja pengerjaan suatu projek.</div>
 		<br/>
 		<p style="color:#9b9b9b;font-family: Avenir;font-size: 18px;">Other Products:</p>
 		<p>
-			<a target="_blank" href="/produk/sugoi-saiyo.php" style="color:#fff;font-family: Avenir;font-size: 18px;">SUGOI-SAIYO</a> | 
-			<a target="_blank" href="/produk/dokodemo-kerja.php" style="color:#fff;font-family: Avenir;font-size: 18px;">DOKODEMO KERJA</a></p>
+			<a target="_blank" href="/produk/sugoi-saiyo.php" style="color:#fff;font-family: Avenir;font-size: 18px;">SUGOI-SAIYO</a> |
+			<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" style="color:#fff;font-family: Avenir;font-size: 18px;">DOKODEMO KERJA</a></p>
 	  </div>
   </div>
   <div class="row text-center" style="margin: 0">

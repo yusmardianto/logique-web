@@ -264,7 +264,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<h4>Rapid Development</h4>
 							<div class="osc-desc">
-								Built a core business system from scratch in just three months. 
+								Built a core business system from scratch in just three months.
 								We built a market place to buy and sell used cars online.
 								<a href="../case-study/caroline-bidding-system/">
 									See More
@@ -282,7 +282,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<h4>Long-term PDCA Improvement System</h4>
 							<div class="osc-desc">
-								For about 5 years, ZuttoRide's CRM system has been developed from scratch with PDCA cycle. 
+								For about 5 years, ZuttoRide's CRM system has been developed from scratch with PDCA cycle.
 								The system building is now entering the 14<sup>th</sup> phase of improvement.
 								<a href="../case-study/zuttoride-customer-management-system/">
 									See More
@@ -300,7 +300,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<h4>Rebuild e-Commerce with PWA</h4>
 							<div class="osc-desc">
-								We’ve also rebuilt E-Commerce with PWA system. Succeeded in leading users visit directly into buying with dynamic UI. 
+								We’ve also rebuilt E-Commerce with PWA system. Succeeded in leading users visit directly into buying with dynamic UI.
 								Supported using resource-based agile development.
 								<a href="../case-study/vip-plaza-progressive-web-app/">
 									See More
@@ -317,7 +317,7 @@ if(isset($_POST['submitted']))
 					<ul class="circle-list">
 						<li>
 							Beneficial Point Management & E-Commerce System Development.<br>
-							<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework | 
+							<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework |
 								<a data-toggle="modal" data-target="#pop1" href="#">See More</a>
 							</small>
 						</li>
@@ -329,16 +329,16 @@ if(isset($_POST['submitted']))
 						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 						      	<h4>Beneficial Point Management & E-Commerce System Development.</h4><hr>
 						        <p class="p-padding-v-5-modal">
-						        	A web-based system used to organize incentive points programs for employees of client companies. 
+						        	A web-based system used to organize incentive points programs for employees of client companies.
 						        	This system consists of several integrated sub-systems, namely: supplier systems (suppliers), user systems (users), and service providers admins.
 						        </p>
 						        <p class="p-padding-v-5-modal">
-						        	The development of this system takes 6 months. 
+						        	The development of this system takes 6 months.
 						        	By bringing PHP platform with chosen frameworks, MySQL database, and hosting on Linux server on AWS cloud service, this system has proven to accommodate the business needs of incentive point program for company employees.
 						        </p>
 						        <p class="p-padding-v-5-modal">
-						        	To produce a system with high performance and stability, we developed an efficient approach to the application layer and database layer. 
-						        	Then on the server infrastructure side, we have implemented a modern server architecture and utilize the AWS autoscaling and loadbalancing features. 
+						        	To produce a system with high performance and stability, we developed an efficient approach to the application layer and database layer.
+						        	Then on the server infrastructure side, we have implemented a modern server architecture and utilize the AWS autoscaling and loadbalancing features.
 						        	So even though there are currently more than 10,000 active users spread across 3 sub-systems, system performance remains stable and maintained.
 						        </p>
 						      </div>
@@ -347,7 +347,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<li>
 							E-Commerce Development for MLM company.<br>
-							<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework | 
+							<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework |
 								<a data-toggle="modal" data-target="#pop2" href="#">See More</a>
 							</small>
 						</li>
@@ -359,13 +359,13 @@ if(isset($_POST['submitted']))
 						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 						      	<h4>E-Commerce Development for MLM company.</h4><hr>
 						        <p class="p-padding-v-5-modal">
-						        	MLM E-Commerce System with web-based technology. 
-						        	Consists of 3 modules, namely: admin management module, distributor module, and customer module. 
+						        	MLM E-Commerce System with web-based technology.
+						        	Consists of 3 modules, namely: admin management module, distributor module, and customer module.
 						        	This system is equipped with features of postage calculations, profit margin calculation of distributors, distributors and users balance management, online registration, and purchase credit online.
 						        </p>
 						        <p class="p-padding-v-5-modal">
-						        	With the support of integration with payment gateway service, customer can do transaction with credit card and virtual account. 
-						        	This system is quite complex. 
+						        	With the support of integration with payment gateway service, customer can do transaction with credit card and virtual account.
+						        	This system is quite complex.
 						        	A series of development process takes 6 months.
 						        </p>
 						      </div>
@@ -374,7 +374,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<li>
 							Automobil Auction Mission Critical System Development.<br>
-							<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework, Node.js  | 
+							<small class="text-muted">6months, AWS, Linux, MySQL, PHP Framework, Node.js  |
 								<a data-toggle="modal" data-target="#pop3" href="#">See More</a>
 							</small>
 						</li>
@@ -386,13 +386,13 @@ if(isset($_POST['submitted']))
 						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 						      	<h4>Automobil Auction Mission Critical System Development.</h4><hr>
 						        <p class="p-padding-v-5-modal">
-						        	Is an automotive auction system with a high level of complexity. 
-						        	It consists of an integrated online auction system, an auction object inventory management system, a financial system, and integrated mobile inspection based vehicle inspection systems, and mobile apps-based bidding applications. 
-						        	This system is integrated with core system and other support systems, so that customers can enjoy the experience of auction in realtime, either through PC browser or via mobile apps. 
+						        	Is an automotive auction system with a high level of complexity.
+						        	It consists of an integrated online auction system, an auction object inventory management system, a financial system, and integrated mobile inspection based vehicle inspection systems, and mobile apps-based bidding applications.
+						        	This system is integrated with core system and other support systems, so that customers can enjoy the experience of auction in realtime, either through PC browser or via mobile apps.
 						        </p>
 						        <p class="p-padding-v-5-modal">
-						        	The system was developed with PHP platform with chosen frameworks, integrated with node.js technology, and using MySQL database. 
-						        	With an effective project management method, we successfully developed this application within 6 months. Performance of this system is quite critical. 
+						        	The system was developed with PHP platform with chosen frameworks, integrated with node.js technology, and using MySQL database.
+						        	With an effective project management method, we successfully developed this application within 6 months. Performance of this system is quite critical.
 						        	With a good application architecture design, as well as advanced server architecture design, the performance of this system is very stable, although the current user activity on this system is very active.
 						        </p>
 						      </div>
@@ -401,7 +401,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<li>
 							Mobile Application Development (Auction Bidding Android).<br>
-							<small class="text-muted">2months, Android, node.js, JAVA, AWS | 
+							<small class="text-muted">2months, Android, node.js, JAVA, AWS |
 								<a data-toggle="modal" data-target="#pop4" href="#">See More</a>
 							</small>
 						</li>
@@ -413,8 +413,8 @@ if(isset($_POST['submitted']))
 						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 						      	<h4>Mobile Application Development (Auction Bidding Android).</h4><hr>
 						        <p class="p-padding-v-5-modal">
-						        	Android based application that we designed to facilitate the customers of auction companies in the online auction in realtime. 
-						        	The integration of android platform with node.js, as well as good UI/UX design, brings experience like auctioning directly at the auction location. 
+						        	Android based application that we designed to facilitate the customers of auction companies in the online auction in realtime.
+						        	The integration of android platform with node.js, as well as good UI/UX design, brings experience like auctioning directly at the auction location.
 						        	With the support of high-performance APIs design, and Linux server hosting servers, as well as server architectures that have adopted the AWS autoscaling and loadbalancing features, the performance of these bidding applications is unquestionable.
 						        </p>
 						      </div>
@@ -423,7 +423,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<li>
 							Mobile Application (Vehicle Inspection / Scoring System).<br>
-							<small class="text-muted">4months, Android, node.js, JAVA, AWS | 
+							<small class="text-muted">4months, Android, node.js, JAVA, AWS |
 								<a data-toggle="modal" data-target="#pop5" href="#">See More</a>
 							</small>
 						</li>
@@ -435,14 +435,14 @@ if(isset($_POST['submitted']))
 						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 						      	<h4>Mobile Application (Vehicle Inspection / Scoring System).</h4><hr>
 						        <p class="p-padding-v-5-modal">
-						        	The system we developed is an android-based applications used for vehicle inspection activities before it is auctioned. 
-						        	More than 900 vehicle parts are inspected through this application. 
-						        	With the help of the application, the inspection and recording of the results can be done very efficiently. 
-						        	The results are stored directly in the core system in realtime. 
+						        	The system we developed is an android-based applications used for vehicle inspection activities before it is auctioned.
+						        	More than 900 vehicle parts are inspected through this application.
+						        	With the help of the application, the inspection and recording of the results can be done very efficiently.
+						        	The results are stored directly in the core system in realtime.
 						        </p>
 						        <p class="p-padding-v-5-modal">
-						        	With a good UI/UX design, users of this application can easily perform the inspection process, no matter how many vehicle parts it involves. 
-						        	In terms of performance, this application is very stable. 
+						        	With a good UI/UX design, users of this application can easily perform the inspection process, no matter how many vehicle parts it involves.
+						        	In terms of performance, this application is very stable.
 						        	In addition to the android API designed with a good performance approach, this system is also supported by a good server architecture design and has taken advantage of AWS autoscaling and loadbalancing features.
 						        </p>
 						      </div>
@@ -451,7 +451,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<li>
 							CRM System for Motor-Bike Road Servicer.<br>
-							<small class="text-muted">3months, PHP Framework, Payment Gateway, AWS | 
+							<small class="text-muted">3months, PHP Framework, Payment Gateway, AWS |
 								<a data-toggle="modal" data-target="#pop6" href="#">See More</a>
 							</small>
 						</li>
@@ -463,12 +463,12 @@ if(isset($_POST['submitted']))
 						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 						      	<h4>CRM System for Motor-Bike Road Servicer.</h4><hr>
 						        <p class="p-padding-v-5-modal">
-						        	What we developed and are still keep developing is a CRM system for motor insurance. 
-						        	With this system, admin team can easily manage customer data, manage insurance period extensions, manage policy payments, manage dealer partners, manage policy prices, and manage insurance claim data from customers. 
+						        	What we developed and are still keep developing is a CRM system for motor insurance.
+						        	With this system, admin team can easily manage customer data, manage insurance period extensions, manage policy payments, manage dealer partners, manage policy prices, and manage insurance claim data from customers.
 						        	While for customers, this system provides easiness in terms of demand for insurance extension, insurance planning by simulating the premium price based on the price of the vehicle.
 						        </p>
 						        <p class="p-padding-v-5-modal">
-						        	This system is built with PHP technology with chosen platforms, HTML-CSS3, Javascript, JQuery/Ajax, and MySQL database. 
+						        	This system is built with PHP technology with chosen platforms, HTML-CSS3, Javascript, JQuery/Ajax, and MySQL database.
 						        	This system is integrated with gateway payment service from leading service providers, making it easier for customers to transact using credit card and electronic money.
 						        </p>
 						      </div>
@@ -477,7 +477,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<li>
 							CRM System for Auction Buyers.<br>
-							<small class="text-muted">2months, PHP Framework, MySQL, AWS | 
+							<small class="text-muted">2months, PHP Framework, MySQL, AWS |
 								<a data-toggle="modal" data-target="#pop7" href="#">See More</a>
 							</small>
 						</li>
@@ -500,7 +500,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<li>
 							Component / Layout management Cloud System for Magazine Publisher.<br>
-							<small class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL | 
+							<small class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL |
 								<a data-toggle="modal" data-target="#pop8" href="#">See More</a>
 							</small>
 						</li>
@@ -512,13 +512,13 @@ if(isset($_POST['submitted']))
 						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 						      	<h4>Component / Layout management Cloud System for Magazine Publisher.</h4><hr>
 						        <p class="p-padding-v-5-modal">
-						        	Web-based layout management system for setting the layout of advertising columns for print media from leading Japanese Free-paper publisher. 
-						        	With good UI/UX design support, this web application is very easy to use (user-friendly). 
-						        	With drag-and-drop feature, the user can set the ad layout as desired. 
-						        	This system also features export and import layout settings in the form of csv files. 
+						        	Web-based layout management system for setting the layout of advertising columns for print media from leading Japanese Free-paper publisher.
+						        	With good UI/UX design support, this web application is very easy to use (user-friendly).
+						        	With drag-and-drop feature, the user can set the ad layout as desired.
+						        	This system also features export and import layout settings in the form of csv files.
 						        </p>
 						        <p class="p-padding-v-5-modal">
-						        	The system was developed with PHP technology with chosen framework, JQuery, and HTML5-CSS3. 
+						        	The system was developed with PHP technology with chosen framework, JQuery, and HTML5-CSS3.
 						        	The process of developing this web application takes 3 months.
 						        </p>
 						      </div>
@@ -527,7 +527,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<li>
 							Used car market place development and operation.<br>
-							<small class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL | 
+							<small class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL |
 								<a data-toggle="modal" data-target="#pop9" href="#">See More</a>
 							</small>
 						</li>
@@ -539,13 +539,13 @@ if(isset($_POST['submitted']))
 						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 						      	<h4>Used car market place development and operation.</h4><hr>
 						        <p class="p-padding-v-5-modal">
-						        	Used car marketplace system used by many second-hand car dealers in Jakarta and outside Jakarta. 
-						        	The system is developed with PHP technology with chosen frameworks and runs on Linux platform on AWS server. 
+						        	Used car marketplace system used by many second-hand car dealers in Jakarta and outside Jakarta.
+						        	The system is developed with PHP technology with chosen frameworks and runs on Linux platform on AWS server.
 						        	The development process of this web-based marketplace application takes 3 months.
 						        </p>
 						        <p class="p-padding-v-5-modal">
-						        	The user's response to this service continues to increase over time. 
-						        	Currently the system serves more than 30,000 visitors every day. 
+						        	The user's response to this service continues to increase over time.
+						        	Currently the system serves more than 30,000 visitors every day.
 						        	Although traffic is quite solid, the system is very stable.
 						        </p>
 						        <p class="p-padding-v-5-modal">
@@ -557,7 +557,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<li>
 							Development system of a digital map.<br>
-							<small class="text-muted">3 months, PHP Framework, MySQL, Google map API, Java Script | 
+							<small class="text-muted">3 months, PHP Framework, MySQL, Google map API, Java Script |
 								<a data-toggle="modal" data-target="#pop10" href="#">See More</a>
 							</small>
 						</li>
@@ -569,9 +569,9 @@ if(isset($_POST['submitted']))
 						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 						      	<h4>Development system of a digital map.</h4><hr>
 						        <p class="p-padding-v-5-modal">
-						        	Development system of a digital map. 
-						        	The system is used for mapping the progress of projects implemented in ASEAN countries. 
-						        	The system was developed with PHP technology with chosen framework, Google Maps API, HTML5-CSS3, and MySQL database. 
+						        	Development system of a digital map.
+						        	The system is used for mapping the progress of projects implemented in ASEAN countries.
+						        	The system was developed with PHP technology with chosen framework, Google Maps API, HTML5-CSS3, and MySQL database.
 						        	The process of this system development takes 3 months.
 						        </p>
 						      </div>
@@ -580,7 +580,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<li>
 							Vehicle C2C Auction System.<br>
-							<small class="text-muted">2 months, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 | 
+							<small class="text-muted">2 months, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 |
 								<a data-toggle="modal" data-target="#pop11" href="#">See More</a>
 							</small>
 						</li>
@@ -592,9 +592,9 @@ if(isset($_POST['submitted']))
 						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 						      	<h4>Vehicle C2C Auction System.</h4><hr>
 						        <p class="p-padding-v-5-modal">
-						        	C2C auction system. 
-						        	There are about 2,000 vehicles auctioned and divided into 4 auctions, followed by about 300 users each month. 
-						        	The system is developed with PHP technology with chosen frameworks, JQuery/Ajax, HTML5-CSS3, and MySQL database. 
+						        	C2C auction system.
+						        	There are about 2,000 vehicles auctioned and divided into 4 auctions, followed by about 300 users each month.
+						        	The system is developed with PHP technology with chosen frameworks, JQuery/Ajax, HTML5-CSS3, and MySQL database.
 						        	The development of this system takes 2 months.
 						        </p>
 						      </div>
@@ -613,9 +613,9 @@ if(isset($_POST['submitted']))
 						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 						      	<h4>Secure CMS Development for public organization.</h4><hr>
 						        <p class="p-padding-v-5-modal">
-						        	CMS web system for public organizations: The system was developed to manage the content of public organizations websites. 
-						        	With this system a web admin can easily manage the website content. 
-						        	This CMS web system is developed with PHP technology with chosen framework, HTML5-CSS3, javascript, JQuery, and MySQL database. 
+						        	CMS web system for public organizations: The system was developed to manage the content of public organizations websites.
+						        	With this system a web admin can easily manage the website content.
+						        	This CMS web system is developed with PHP technology with chosen framework, HTML5-CSS3, javascript, JQuery, and MySQL database.
 						        	This CMS web development process takes 2 months.
 						        </p>
 						      </div>
@@ -634,9 +634,9 @@ if(isset($_POST['submitted']))
 						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 						      	<h4>E-commerce (e-book) CMS development.</h4><hr>
 						        <p class="p-padding-v-5-modal">
-						        	E-Commerce CMS system used by a distributor of books from Japan. 
-						        	This system is developed with PHP technology with chosen framework, HTML5-CSS3, and MySQL database. 
-						        	With this web CMS, website administrator can easily manage the company's website content. 
+						        	E-Commerce CMS system used by a distributor of books from Japan.
+						        	This system is developed with PHP technology with chosen framework, HTML5-CSS3, and MySQL database.
+						        	With this web CMS, website administrator can easily manage the company's website content.
 						        	This web development CMS takes 2 months.
 						        </p>
 						      </div>
@@ -655,9 +655,9 @@ if(isset($_POST['submitted']))
 						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 						      	<h4>Job Portal System Development.</h4><hr>
 						        <p class="p-padding-v-5-modal">
-						        	Job portal system built with PHP technology, HTML5-CSS3, and MySQL database. 
-						        	This job portal is hosted on the AWS Linux server. Companies can search and find job seekers and job seekers can see vacant and open jobs on the website. 
-						        	Candidates can apply for the position directly. 
+						        	Job portal system built with PHP technology, HTML5-CSS3, and MySQL database.
+						        	This job portal is hosted on the AWS Linux server. Companies can search and find job seekers and job seekers can see vacant and open jobs on the website.
+						        	Candidates can apply for the position directly.
 						        	The percentage of users of this service is the majority of Japanese companies in Indonesia.
 						        </p>
 						      </div>
@@ -676,10 +676,10 @@ if(isset($_POST['submitted']))
 						      	<button type="button" class="close" data-dismiss="modal">&times;</button>
 						      	<h4>Hiring (recruitment) Management System.</h4><hr>
 						        <p class="p-padding-v-5-modal">
-						        	Corporate website equipped with a recruitment system. 
-						        	Job seekers who are interested in working at this company can apply directly through the website. 
-						        	With a high level of security, the confidentiality of the applicant's data is more assured. 
-						        	The system is built with PHP technology, and uses the chosen frameworks, HTML5-CSS3, as well as the Ms. 
+						        	Corporate website equipped with a recruitment system.
+						        	Job seekers who are interested in working at this company can apply directly through the website.
+						        	With a high level of security, the confidentiality of the applicant's data is more assured.
+						        	The system is built with PHP technology, and uses the chosen frameworks, HTML5-CSS3, as well as the Ms.
 						        	SQL Server database. The development process takes 3 months.
 						        </p>
 						      </div>
@@ -828,7 +828,7 @@ if(isset($_POST['submitted']))
 								<div class="link-footer-webdev">
 									<br/>
 									<div style="margin-bottom:8px"><b>Produk LOGIQUE</b></div>
-									<a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
+									<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
 									<a href="/produk/nippo.php" target="_blank">Nippo</a>
 									<a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
 								</div>
@@ -874,7 +874,7 @@ if(isset($_POST['submitted']))
 								<div class="link-footer-webdev" style="padding-left:30px">
 									<br/>
 									<div style="margin-bottom:8px"><b>LOGIQUE Product</b></div>
-									<a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
+									<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
 									<a href="/produk/nippo.php" target="_blank">Nippo</a>
 									<a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
 								</div>

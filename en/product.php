@@ -156,7 +156,7 @@
             </div>
             <div class="row">
               <div class="col-sm-12">
-                <a href="/en/product/dokodemo-kerja.php" target="_blank" class="btn btn-contact-us-black custom-btn-contact"> See more about Dokodemo-Kerja </a>
+                <a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="btn btn-contact-us-black custom-btn-contact"> See more about Dokodemo-Kerja </a>
               </div>
             </div>
           </div>

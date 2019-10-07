@@ -35,26 +35,26 @@ ga('send', 'pageview');
 									<li><a href="/jp/services/digital-marketing.php" target="_blank">デジタルマーケティング活用支援 </a></li>
 								</ul>
 							</li>
-							
+
 
 						</ul>
 
 					</div>
 					<div class="col-sm-4 link-footer-nav">
 						<!-- <div class="footer-title">LOGIQUEのサービス</div> -->
-						
+
 						<!-- <div class="footer-title" style="padding-top: 20px;"><a href="/jp/product.php">プロダクト</a></div> -->
 						<ul>
 							<li  class="have-submenu"><a href="/jp/product.php">プロダクト</a>
 								<ul>
-								<li><a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja<br><span style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>
+								<li><a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja<br><span style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>
 								<li><a href="/jp/product/sugoi-saiyo.php"  target="_blank">Sugoi Saiyo  <span style="font-size: 12px;">(（採用管理ツール）</span></a></li>
 								<li><a href="/jp/product/nippo.php"  target="_blank">Nippo <span style="font-size: 12px;">(（日報＆人事評価ツール）</span></a></li>
 								<li></li>
 							</ul>
 							</li>
 							<li><a href="/jp/portfolio.php">制作開発実績</a></li>
-							
+
 							<li><a href="/career/">求人/インターン</a>
 								<ul>
 									<li><a href="/jp/joinus.php">採用/パートナー</a></li>
@@ -62,12 +62,12 @@ ga('send', 'pageview');
 							</li>
 							<li><a href="/jp/contact.php">お問い合わせ</a></li>
 						</ul>
-						
+
 
 							<!-- <h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6> -->
 
 
-<!-- 							<h6><a href="/jp/product/dokodemo-kerja.php">Dokodemo-Kerja（リモートワーク管理ツール）</a></h6>
+<!-- 							<h6><a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja（リモートワーク管理ツール）</a></h6>
 						<h6><a href="/jp/product/sugoi-saiyo.php">Sugoi Saiyo（採用管理ツール）</a></h6>
 						<h6><a href="/jp/product/sugoi-saiyo.php">Nippo（日報＆人事評価ツール）</a></h6>
 

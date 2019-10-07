@@ -593,7 +593,7 @@ if(isset($_POST['submitted']))
 								<div class="link-footer-webdev">
 									<br/>
 									<div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div>
-									<a href="/en/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
+									<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
 									<a href="/en/product/nippo.php" target="_blank">Nippo</a>
 									<a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
 								</div>
@@ -639,7 +639,7 @@ if(isset($_POST['submitted']))
 								<div class="link-footer-webdev" style="padding-left:30px">
 									<br/>
 									<div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div>
-									<a href="/en/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
+									<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
 									<a href="/en/product/nippo.php" target="_blank">Nippo</a>
 									<a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
 								</div>

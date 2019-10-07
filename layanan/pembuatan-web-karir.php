@@ -51,7 +51,7 @@ if(isset($_POST['submitted']))
 	<meta property="og:description" content="LOGIQUE menyediakan layanan jasa pembuatan website info lowongan kerja untuk memudahkan dan membantu pekerjaan HRD dalam proses seleksi karyawan dan menemukan kandidat yang tepat. Hubungi LOGIQUE untuk mendapatkan layanan ini sekarang juga!">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Jasa Pembuatan Website Info Lowongan Kerja | LOGIQUE Digital Indonesia</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/style-recruitment-website.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -102,7 +102,7 @@ ga('send', 'pageview');
 						</div>
 					</div>
 				</div>
-				
+
 			</header>
 			<div class="offering-part">
 					<div class="container">
@@ -123,7 +123,7 @@ ga('send', 'pageview');
 							<div class="col-md-v col-sm-8">
 								<h3 style="text-align: left;">Masalah-masalah yang seringkali dialami oleh HRD dalam melakukan proses perekrutan karyawan, yaitu:</h3>
 								 <div class="row">
-								 	
+
 								 	<div class="col-sm-4">
 								 		<img src="assets/img/img-recruitment-website/img-problem2.png" alt="Masalah HRD" class="img-responsive" >
 								 		<div>Menggunakan layanan situs pencari kerja namun hasilnya tidak menentu, terkadang jumlah pencari kerja banyak, tapi kualitasnya tidak bagus atau sebaliknya.</div>
@@ -137,16 +137,16 @@ ga('send', 'pageview');
 								 		<div>Tidak mempunyai media untuk memberikan informasi kepada para pelamar kerja tentang informasi rekrutmen sehingga antara efektivitas waktu dan biaya tidak seimbang.</div>
 								 	</div>
 								 </div>
-							 
+
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="text-center problem-text">
-					
+
 					<div class="arrow-up"></div>
 					<div class="container">
-						
+
 					<h3><span class="custom-text">Banyak Perusahaan dan HRD yang Menderita dengan Kendala-kendala seperti ini,</span>
 					Karena itu, Logique memberikan solusi pembuatan website karir perusahaan dengan berbagai keuntungan, seperti:
 					 </h3>
@@ -158,7 +158,7 @@ ga('send', 'pageview');
 						<div class="col-sm-4"> <div>Website karir yang dikelola sendiri oleh Anda sehingga Anda dapat memperbarui jenis pekerjaan serta syarat-syarat pelamar yang Anda inginkan dengan bebas sesuai keinginan Anda.</div></div>
 						<div class="col-sm-4"> <div>Anda dapat melakukan screening secara ketat dan otomatis kepada para pelamar yang Anda cari dengan memberikan tes sederhana melalui form aplikasi yang disediakan untuk mencegah perusahaan mendapatkan pekerja dengan kualitas rendah.</div></div>
 					<div class="col-sm-12">
-						 
+
 						<center>Kami dapat membuat halaman WEB yang efektif sehingga meningkatkan efektivitas Anda dalam melakukan proses kegiatan rekrutmen lainnya. Selain itu, pada Website karir page tersebut, Anda juga dapat melakukan iklan lowongan kerja secara digital agar mendapatkan lebih banyak kandidat atau mengarahkan halaman situs pencari kerja ke halaman ini sehingga Anda dapat menjelaskan berbagai hal yang tidak dapat dijelaskan di dalam situs pencari kerja tersebut.
 						<br><br>
 						Anda juga dapat menuliskan persyaratan secara detail di halaman website perekrutan dengan menjelaskan secara tegas bahwa “Saya tidak ingin pekerja dengan kriteria seperti di bawah ini” agar mendapatkan pelamar yang sesuai dengan kriteria yang Anda dan perusahaan inginkan.
@@ -227,7 +227,7 @@ ga('send', 'pageview');
 							<div class="col-lg-5 col-md-6 col-sm-6 price-tag">
 								<div class="price-tag-text">
 									<div style="font-size: 30px; font-weight: 900;line-height: 30px">Lebih </div>
-									<div class="big-text"  style="font-size: 60px; font-weight: 900; line-height: 50px">Murah & Efektif</div> 
+									<div class="big-text"  style="font-size: 60px; font-weight: 900; line-height: 50px">Murah & Efektif</div>
 									<div class="custom-text" >Mulai dari</div>
 									<div style="">
 										<center>
@@ -297,7 +297,7 @@ ga('send', 'pageview');
 					<h3><center>Langkah-Langkah Membuat Halaman Karir</center></h3>
 					<div class="stepbystep">
 						<div class="row">
-							 
+
 							<div class="col-md-3 col-sm-6 step step2">
 									<div class="step-number-cont"><span>1</span></div>
 									<img src="assets/img/img-recruitment-website/img-step2.jpg" alt="Image Step" class="img-responsive">
@@ -309,11 +309,11 @@ ga('send', 'pageview');
 									<div class="step-number-cont"><span>2</span></div>
 									<img src="assets/img/img-recruitment-website/img-step3.jpg" alt="Image Step" class="img-responsive">
 									<h4>Desain</h4>
-									<div class="step-text">Pembuatan desain yang menarik dan pengambilan foto akan dilakukan sebagai komponen penting dari halaman karir tersebut. 
+									<div class="step-text">Pembuatan desain yang menarik dan pengambilan foto akan dilakukan sebagai komponen penting dari halaman karir tersebut.
 									</div>
 							</div>
-							 
-						 
+
+
 							<div class="col-md-3 col-sm-6 step step5">
 									<div class="step-number-cont"><span>3</span></div>
 									<img src="assets/img/img-recruitment-website/img-step5.jpg" alt="Image Step" class="img-responsive">
@@ -321,7 +321,7 @@ ga('send', 'pageview');
 									<div class="step-text">Kami membantu Anda merangkum dan menampilkan konten yang mudah dimengerti oleh pengunjung.
 									</div>
 							</div>
-							 
+
 							<div class="col-md-3 col-sm-6 step step8">
 									<div class="step-number-cont"><span>4</span></div>
 									<img src="assets/img/img-recruitment-website/img-step8.jpg" alt="Image Step" class="img-responsive">
@@ -356,7 +356,7 @@ ga('send', 'pageview');
 									<div class="step-number-cont"><span>3</span></div>
 									<img src="assets/img/img-recruitment-website/img-step3.jpg" class="img-responsive">
 									<h4>Desain</h4>
-									<div class="step-text">Pembuatan desain yang menarik dan pengambilan foto akan dilakukan sebagai komponen penting dari halaman karir tersebut. 
+									<div class="step-text">Pembuatan desain yang menarik dan pengambilan foto akan dilakukan sebagai komponen penting dari halaman karir tersebut.
 									</div>
 							</div>
 							<div class="col-md-3 col-sm-6 step step4">
@@ -413,7 +413,7 @@ ga('send', 'pageview');
 									<div class="testi-box">
 										<div class="quoteicon quote-icon1">"</div>
 										<div class="testi-text">
-											Setelah menggunakan konsultasi dan hasil halaman karir yang diberikan oleh Logique, kuantitas dan kualitas pelamar kerja perusahaan kami meningkat. Hal ini membuat kami bisa mengefisiensikan kinerja staff HR dalam hal rekrutmen.  
+											Setelah menggunakan konsultasi dan hasil halaman karir yang diberikan oleh Logique, kuantitas dan kualitas pelamar kerja perusahaan kami meningkat. Hal ini membuat kami bisa mengefisiensikan kinerja staff HR dalam hal rekrutmen.
 										</div>
 										<div class="quoteicon quote-icon2 pull-right">"</div>
 										<div class="arrow-diagonal"></div>
@@ -427,7 +427,7 @@ ga('send', 'pageview');
 									<div class="testi-box">
 										<div class="quoteicon quote-icon1">"</div>
 										<div class="testi-text">
-											Solusi HR yang diberikan oleh LOGIQUE berhasil membuat perusahaan kami  berjalan lebih efektif, kami sangat puas dapat bekerjasama dengan LOGIQUE. 
+											Solusi HR yang diberikan oleh LOGIQUE berhasil membuat perusahaan kami  berjalan lebih efektif, kami sangat puas dapat bekerjasama dengan LOGIQUE.
 										</div>
 										<div class="quoteicon quote-icon2 pull-right">"</div>
 										<div class="arrow-diagonal"></div>
@@ -442,7 +442,7 @@ ga('send', 'pageview');
 										<div class="quoteicon quote-icon1">"</div>
 										<div class="testi-text">
 											Dulu kami sangat bergantung dengan agen dalam merekrut karyawan baru, hal ini membuat biaya operasional yang kami keluarkan sangat besar. Setelah menggunakan solusi yang diberikan oleh LOGIQUE kami berhasil mengefektifkan pengeluaran kami dan mendapatkan karyawan sesuai kriteria yang diinginkan perusahaan.
-	 
+
 										</div>
 										<div class="quoteicon quote-icon2 pull-right">"</div>
 										<div class="arrow-diagonal"></div>
@@ -456,8 +456,8 @@ ga('send', 'pageview');
 									<div class="testi-box">
 										<div class="quoteicon quote-icon1">"</div>
 										<div class="testi-text">
-											Kami sempat kesulitan untuk mendapatkan karyawan yang berkualitas dan sesuai dengan kriteria yang kami inginkan. Padahal, kami telah menggunakan situs pencari kerja serta mengeluarkan biaya yang cukup mahal, namun tetap kesulitan dalam mendapatkan yang kami mau. Namun, setelah kami mencoba penawaran yang diberikan oleh Logique, kami berhasil mendapatkan karyawan yang kami inginkan tanpa perlu mengeluarkan biaya yang cukup mahal dan efektif. 
-	 
+											Kami sempat kesulitan untuk mendapatkan karyawan yang berkualitas dan sesuai dengan kriteria yang kami inginkan. Padahal, kami telah menggunakan situs pencari kerja serta mengeluarkan biaya yang cukup mahal, namun tetap kesulitan dalam mendapatkan yang kami mau. Namun, setelah kami mencoba penawaran yang diberikan oleh Logique, kami berhasil mendapatkan karyawan yang kami inginkan tanpa perlu mengeluarkan biaya yang cukup mahal dan efektif.
+
 										</div>
 										<div class="quoteicon quote-icon2 pull-right">"</div>
 										<div class="arrow-diagonal"></div>
@@ -474,7 +474,7 @@ ga('send', 'pageview');
 				</div>
 			</section>
 			<section class="forwho-container">
-				<div class="text-center simul-text">					
+				<div class="text-center simul-text">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2">
@@ -502,7 +502,7 @@ ga('send', 'pageview');
 								<img src="assets/img/img-recruitment-website/dokodemo-logo.png" alt="Dokodemo logo"  class="img-responsive">
 								<div class="produk">Masalah dan waktu yang kurang efektif ketika karyawan Anda tinggal jauh dari kantor mungkin membuat Anda berpikir untuk menerapkan sistem kerja remote. Namun tentu saja sistem kerja seperti ini dikhawatirkan akan membuat karyawan tidak efisien dalam bekerja. Dengan Dokodemo Kerja, Anda tidak perlu khawatir karena sistem ini akan membantu menciptakan kondisi kerja yang profesional antara perusahaan dan karyawan. Karyawan dapat mencatat waktu mulai, istirahat, dan berhenti kerja untuk perhitungan pembayaran, disisi lain perusahaan juga dapat menerima informasi tambahan berupa screenshot yang diambil pada waktu acak untuk memonitor tingkat efisiensi karyawan.</div>
 								<br>
-								<a href="/produk/dokodemo-kerja.php" class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a>
+								<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a>
 							</center>
 						</div>
 					</div>
@@ -517,11 +517,11 @@ ga('send', 'pageview');
 							<h3>HUBUNGI KAMI </h3>
 							<a href="/" target="_blank"><img src="assets/img/img-recruitment-website/logo-y-logique.png" alt="logo-footer" class="img-responsive"></a>
 							<p>LOGIQUE DIGITAL INDONESIA<br>
-							Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5 
+							Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5
 							Ragunan, <br>Ps. Minggu, Jakarta Selatan,<br> Indonesia 12550
 
 							<br>
-							&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+							&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
 							<br>
 							<i class="fa fa-mobile-phone"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;0811870321
 						</p>
@@ -544,17 +544,17 @@ ga('send', 'pageview');
 									<input type="text" name="email" aria-label="Email" id="email" class="input-email form-control" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Alamat Email">
 								</fieldset>
 								<fieldset>
-		 
+
 									<textarea class="textarea-message form-control" name="message" aria-label="Message" placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</fieldset>
 								<fieldset>
-									 
+
 									<div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
 									<div class="clearfix"></div>
-									 
+
 								</fieldset>
 								<fieldset class="text-right">
-							 
+
 									<button type="submit" class="btn btn-submit submit-button">Kirim</button>
 								</fieldset>
 

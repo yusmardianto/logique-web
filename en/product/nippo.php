@@ -444,7 +444,7 @@ if(isset($_POST['submitted']))
 		<p style="color:#9b9b9b;font-family: Avenir;font-size: 18px;">Other Products:</p>
 		<p>
 			<a target="_blank" href="/en/product/sugoi-saiyo.php" style="color:#fff;font-family: Avenir;font-size: 18px;">SUGOI-SAIYO</a> |
-			<a target="_blank" href="/produk/dokodemo-kerja.php" style="color:#fff;font-family: Avenir;font-size: 18px;">DOKODEMO KERJA</a></p>
+			<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" style="color:#fff;font-family: Avenir;font-size: 18px;">DOKODEMO KERJA</a></p>
 	  </div>
   </div>
   <div class="row text-center" style="margin: 0">

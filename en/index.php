@@ -149,9 +149,9 @@
 												Digital Marketing operations with the end goal of improving your business and
 												maximizing profits.
 												Having worked with many high-end clients ranging from the local to international
-												levels, our company has catered to various requests, such as creating online 
+												levels, our company has catered to various requests, such as creating online
 												auction systems, E-Commerce, employee recruitment systems and digital ads
-												operations. 
+												operations.
 										</p>
 										<p class="p-padding-v-15">
 												We are committed to producing a variety of high quality digital products for our
@@ -159,7 +159,7 @@
 												trustworthy experts and can work flexibly according to your specific requests.
 												Working with us and utilizing the best solutions provided by our team is an
 												opportunity to grow and improve your business’s overall profits in a digitalized
-												age. 
+												age.
 										</p>
 										<div class="row">
 											<div class="col-lg-offset-1 col-lg-10">
@@ -193,7 +193,7 @@
 										</div>
 									</div>
 								</div>
-	
+
 								<div class="item">
 									<h1 class="text-center title-index title-index2">
 										We Provide <span class="yellow">HR-Tech</span> Solutions for Indonesia’s Digital Market
@@ -223,7 +223,7 @@
 											</p>
 											<div class="row">
 												<div class="col-md-3">
-													<a href="/en/product/dokodemo-kerja.php" class="flipp">
+													<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="flipp">
 														<img src="/img/top/i-dokodemo.png" alt="dokodemo">
 													</a>
 												</div>
@@ -255,7 +255,7 @@
 										<div class="col-md-10 col-md-offset-1 text-center">
 											<p class="p-padding-v-15">
 												For 7 years, LOGIQUE has helped many high-end clients, ranging from the local to
-												international levels, by developing and designing various Websites and Mobile 
+												international levels, by developing and designing various Websites and Mobile
 												Apps. In accordance to our goals, LOGIQUE commits to providing the best
 												solutions to our clients; having worked successfully on many products regarding
 												e-commerce development, car/motorcycle auction management, customer
@@ -332,9 +332,9 @@
 												Digital Marketing operations with the end goal of improving your business and
 												maximizing profits.
 												Having worked with many high-end clients ranging from the local to international
-												levels, our company has catered to various requests, such as creating online 
+												levels, our company has catered to various requests, such as creating online
 												auction systems, E-Commerce, employee recruitment systems and digital ads
-												operations. 
+												operations.
 										</p>
 										<p class="p-padding-v-15">
 												We are committed to producing a variety of high quality digital products for our
@@ -342,7 +342,7 @@
 												trustworthy experts and can work flexibly according to your specific requests.
 												Working with us and utilizing the best solutions provided by our team is an
 												opportunity to grow and improve your business’s overall profits in a digitalized
-												age. 
+												age.
 										</p>
 									<div class="row">
 										<div class="col-lg-offset-1 col-lg-10">
@@ -406,7 +406,7 @@
 											</p>
 										<div class="row">
 											<div class="col-md-3">
-												<a href="/en/product/dokodemo-kerja.php" class="flipp">
+												<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="flipp">
 													<img src="/img/top/i-dokodemo.png" alt="dokodemo">
 												</a>
 											</div>
@@ -438,7 +438,7 @@
 									<div class="col-md-10 col-md-offset-1 text-center">
 											<p class="p-padding-v-15">
 												For 7 years, LOGIQUE has helped many high-end clients, ranging from the local to
-												international levels, by developing and designing various Websites and Mobile 
+												international levels, by developing and designing various Websites and Mobile
 												Apps. In accordance to our goals, LOGIQUE commits to providing the best
 												solutions to our clients; having worked successfully on many products regarding
 												e-commerce development, car/motorcycle auction management, customer

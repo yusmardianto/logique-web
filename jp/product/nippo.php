@@ -1,4 +1,4 @@
- <?php 
+ <?php
 require_once("form/fgcontact_nippo.php");
 
 $formproc = new FGContactForm();
@@ -104,7 +104,7 @@ if(isset($_POST['submitted']))
     <span class="APA-ITU">Nippoとは</span>
   </div>
   <div class="col-md-11 hidden-xs hidden-sm lg-1">
-      <span class="NIPPO-SYSTEM">Nippoはどんな日報システム</span> 
+      <span class="NIPPO-SYSTEM">Nippoはどんな日報システム</span>
       <span class="layer">?</span>
   </div>
   <section class="hidden-xs hidden-sm">  <!-- For Desktop -->
@@ -369,7 +369,7 @@ if(isset($_POST['submitted']))
       <?php if(isset($msg))
         {
         echo $msg;
-        } 
+        }
         ?>
       <form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
       <input type='hidden' name='submitted' id='submitted' value='1'/>
@@ -427,8 +427,8 @@ if(isset($_POST['submitted']))
 		<br/>
 		<p style="color:#9b9b9b;font-family: Avenir;font-size: 18px;">Other Products:</p>
 		<p>
-			<a target="_blank" href="/jp/product/sugoi-saiyo.php" style="color:#fff;font-family: Avenir;font-size: 18px;">SUGOI-SAIYO</a> | 
-			<a target="_blank" href="/jp/product/dokodemo-kerja.php" style="color:#fff;font-family: Avenir;font-size: 18px;">DOKODEMO KERJA</a></p>
+			<a target="_blank" href="/jp/product/sugoi-saiyo.php" style="color:#fff;font-family: Avenir;font-size: 18px;">SUGOI-SAIYO</a> |
+			<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" style="color:#fff;font-family: Avenir;font-size: 18px;">DOKODEMO KERJA</a></p>
 	  </div>
   </div>
   <div class="row text-center" style="margin: 0">

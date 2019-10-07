@@ -176,7 +176,7 @@ if(isset($_POST['submitted']))
 							<meta itemprop="position" content="3">
 						</li>
 					</ol>
-					
+
 					<!-- <br class="hidden-xs"> -->
 					<!-- <span class="underline"> </span>-->
 					<div id="heading-service-web-dev" class="col-sm-offset-3 col-sm-7 m-t-7em">
@@ -195,7 +195,7 @@ if(isset($_POST['submitted']))
 							thereby establishing a well-built identity for you, further affecting your brand.
 							</p>
 							<p class="p-padding-v-15">
-							LOGIQUE was founded by a Japanese entrepreneur and is ranked among the top web development companies in Jakarta, with a variety of achievements. 
+							LOGIQUE was founded by a Japanese entrepreneur and is ranked among the top web development companies in Jakarta, with a variety of achievements.
 							</p>
 						</div>
 					</div>
@@ -247,7 +247,7 @@ if(isset($_POST['submitted']))
 									<p>
 										We utilize reliable security systems of the highest quality through the latest digital technology
 										available. We are also experienced in implementing PWA, AMP and other complex functions for
-										websites which can be delivered after security checks by experts. 
+										websites which can be delivered after security checks by experts.
 									</p>
 								</div>
 							</div>
@@ -262,7 +262,7 @@ if(isset($_POST['submitted']))
 								</div>
 							</div>
 						</div>
-					</div>		
+					</div>
 				</div>
 			</div>
 		</section>
@@ -272,20 +272,20 @@ if(isset($_POST['submitted']))
 				<div class="row">
 					<div class="col-sm-4">
 						<div class="analysis-part flow-part">
-							<img src="assets/img/img-webdev/writing.png" alt="Analysis and Evaluation"> 
+							<img src="assets/img/img-webdev/writing.png" alt="Analysis and Evaluation">
 							<h3>Analysis and Evaluation</h3>
 							<p>
 								If you already have a website, we will be able to analyze and evaluate its progress through
 								services which include examining the rate of traffic and also by interpreting the overall
 								structure of your website, among other things. Our team is experienced in retrieving a highly
 								accurate analysis of your website and examining the issues within it in order to improve its
-								overall user experience. 
+								overall user experience.
 							</p>
 						</div>
 					</div>
 					<div class="col-sm-4">
 						<div class="plan-part flow-part">
-							<img src="assets/img/img-webdev/intelligent.png" alt="Planning"> 
+							<img src="assets/img/img-webdev/intelligent.png" alt="Planning">
 							<h3>Planning</h3>
 							<p>
 								In order to achieve the set goals desired for your website, we aim to show you what a
@@ -297,7 +297,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="seo-part flow-part">
-							<img src="assets/img/img-webdev/analysis.png" alt="SEO / SEM"> 
+							<img src="assets/img/img-webdev/analysis.png" alt="SEO / SEM">
 							<h3>SEO/SEM</h3>
 							<p>
 								A website is unlikely to receive much traffic simply through having an online presence. Our
@@ -311,7 +311,7 @@ if(isset($_POST['submitted']))
 					<div class="clearfix"></div>
 					<div class="col-sm-4">
 						<div class="info-part flow-part">
-							<img src="assets/img/img-webdev/ux.png" alt="Restructuring and Improvement"> 
+							<img src="assets/img/img-webdev/ux.png" alt="Restructuring and Improvement">
 							<h3>Restructuring and Improvement</h3>
 							<p>
 								As performance issues are commonly found through a thorough scan, your website doesn’t
@@ -323,7 +323,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="multiligual-part flow-part">
-							<img src="assets/img/img-webdev/language.png" alt="Multilingual Website Production and& Operation"> 
+							<img src="assets/img/img-webdev/language.png" alt="Multilingual Website Production and& Operation">
 							<h3>Multilingual Website Production and Operation</h3>
 							<p>
 								We can facilitate web development in Indonesian, English and Japanese, as we understand that
@@ -334,20 +334,20 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="sosmed-part flow-part">
-							<img src="assets/img/img-webdev/customer.png" alt="Social Media Operation"> 
+							<img src="assets/img/img-webdev/customer.png" alt="Social Media Operation">
 							<h3>Social Media Operation</h3>
 							<p>
 								Social media can be a powerful tool to increase the level of interaction with your customers. It
 								can also facilitate web traffic by directing frequenters of social media to your website. We
 								operate on several Social Media platforms such as Facebook and Instagram in the Indonesian,
-								English and Japanese languages. 
+								English and Japanese languages.
 							</p>
 						</div>
 					</div>
 					<div class="clearfix"></div>
 					<div class="col-sm-4">
 						<div class="design-part flow-part">
-							<img src="assets/img/img-webdev/graphic-design.png" alt="Design Production"> 
+							<img src="assets/img/img-webdev/graphic-design.png" alt="Design Production">
 							<h3>Design Production</h3>
 							<p>
 								We aim to design a user and conversion friendly UI for your website. Our web design team will
@@ -357,28 +357,28 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="markup-part flow-part">
-							<img src="assets/img/img-webdev/website.png" alt="Markup Coding"> 
+							<img src="assets/img/img-webdev/website.png" alt="Markup Coding">
 							<h3>Markup Coding</h3>
 							<p>
 								You can also request simple HTML/CSS coding for your website, as our team is always up to
-								date in regards to the latest JavaScript-based front-end coding technology. 
+								date in regards to the latest JavaScript-based front-end coding technology.
 							</p>
 						</div>
 					</div>
 					<div class="col-sm-4">
 						<div class="responsive-part flow-part">
-							<img src="assets/img/img-webdev/devices.png" alt="Multi-device Support"> 
+							<img src="assets/img/img-webdev/devices.png" alt="Multi-device Support">
 							<h3>Multi-device Support</h3>
 							<p>
 								We aim to create an optimized and responsive site for smartphones and tablets. We have
-								ample experience on the subject and have created many AMP and mobile friendly websites. 
+								ample experience on the subject and have created many AMP and mobile friendly websites.
 							</p>
 						</div>
 					</div>
 					<div class="clearfix"></div>
 					<div class="col-sm-4">
 						<div class="programing-part flow-part">
-							<img src="assets/img/img-webdev/programming.png" alt="Special Programming Features"> 
+							<img src="assets/img/img-webdev/programming.png" alt="Special Programming Features">
 							<h3>Special Programming Features</h3>
 							<p>
 								You can add various features such as Motion Parallax to your website, which can be developed
@@ -389,18 +389,18 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-sm-4">
 						<div class="system-part flow-part">
-							<img src="assets/img/img-webdev/engineering.png" alt="System Construction"> 
+							<img src="assets/img/img-webdev/engineering.png" alt="System Construction">
 							<h3>System Construction</h3>
 							<p>
 								We aim to develop and operate various systems compatible with your website, such as CMS,
 								web and business systems. Our services are effective, practical and are developed through PHP
-								frameworks. 
+								frameworks.
 							</p>
 						</div>
 					</div>
 					<div class="col-sm-4">
 						<div class="apps-part flow-part">
-							<img src="assets/img/img-webdev/smartphone.png" alt="PWA as Mobile Apps"> 
+							<img src="assets/img/img-webdev/smartphone.png" alt="PWA as Mobile Apps">
 							<h3>PWA as Mobile Apps</h3>
 							<p>
 								We are able to develop mobile and web applications through PWA. Creating push notifications
@@ -426,7 +426,7 @@ if(isset($_POST['submitted']))
 								Our professionals are involved in each step of the site’s development. We begin by thoroughly
 								planning and proposing a design, before developing it. The aforementioned stages may vary
 								depending on the type of project being implemented, and takes into account the website’s size,
-								CMS necessity, and the level of difficulty regarding the system’s development. 
+								CMS necessity, and the level of difficulty regarding the system’s development.
 						</p>
 					</div>
 					<div class="col-md-3 text-center hidden-xs hidden-sm">
@@ -435,7 +435,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</section>
-		
+
 		<section class="tahap-pemesanan">
 			<div class="container">
 				<div class="row">
@@ -452,10 +452,10 @@ if(isset($_POST['submitted']))
 								<div class="row">
 									<div class="col-md-offset-2 col-md-10 m-t-10">
 										<p>
-											Our team is ready to get your message anytime. 
-											You can immediately place an order and explain to us the initial description of the website as you want, from website creation, operation, CMS configuration, web system development, etc. 
-											Contact us via email <a style="color:#333" href="mailto:info@logique.co.id"><u>info@logique.co.id</u></a> or please fill in the available Order Form <a style="color:#333" target="_blank" href="/en/contact.php"><u>here</u></a>. You can also ask us anything regarding the web development, website design, or even the price. 
-											Feel free to talk to us in Indonesian, English, or Japanese. 
+											Our team is ready to get your message anytime.
+											You can immediately place an order and explain to us the initial description of the website as you want, from website creation, operation, CMS configuration, web system development, etc.
+											Contact us via email <a style="color:#333" href="mailto:info@logique.co.id"><u>info@logique.co.id</u></a> or please fill in the available Order Form <a style="color:#333" target="_blank" href="/en/contact.php"><u>here</u></a>. You can also ask us anything regarding the web development, website design, or even the price.
+											Feel free to talk to us in Indonesian, English, or Japanese.
 											We will contact you immediately for further discussion.
 										</p>
 									</div>
@@ -481,9 +481,9 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<p>
-										You may have a specific vision and target, whether to increase the profit of your business through the website, improve your image and branding, IR activities, recruitments, etc. 
-										We would like to hear everything from you. We don’t have to meet up. 
-										If you want, we can reach you through Skype or other communication apps so we can talk further about your business. 
+										You may have a specific vision and target, whether to increase the profit of your business through the website, improve your image and branding, IR activities, recruitments, etc.
+										We would like to hear everything from you. We don’t have to meet up.
+										If you want, we can reach you through Skype or other communication apps so we can talk further about your business.
 										Then, we will give you some suggestions about the website that might suit your interest, also the most effective approach based on your needs.
 									</p>
 								</div>
@@ -503,12 +503,12 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<p>
-										After understanding everything, we will propose the website creation and utilization to solve the problem. 
-										If necessary, we will also conduct research, including about competitors and heuristic task analysis of the current website. 
-										Even until the submission of the proposal, we are cherishing the sense of speed and keeping in mind the prompt proposal. 
-										In the proposal, we will also provide optional services, such as photography, videography, and content creation as necessary. 
-										You can freely consult us if you have something in mind. 
-										The proposal will also include the price service as well as how long the time needed in the website creation. 
+										After understanding everything, we will propose the website creation and utilization to solve the problem.
+										If necessary, we will also conduct research, including about competitors and heuristic task analysis of the current website.
+										Even until the submission of the proposal, we are cherishing the sense of speed and keeping in mind the prompt proposal.
+										In the proposal, we will also provide optional services, such as photography, videography, and content creation as necessary.
+										You can freely consult us if you have something in mind.
+										The proposal will also include the price service as well as how long the time needed in the website creation.
 										It’s all based on our transparency method, the difficulty level, and the number of team members needed to complete it.
 									</p>
 								</div>
@@ -528,7 +528,7 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<p>
-										If you’re down to what we offer, the next process is the contract signing and the payment of 50% in advance. 
+										If you’re down to what we offer, the next process is the contract signing and the payment of 50% in advance.
 										Soon after it’s all done, our team can start to operate the website production for you.
 									</p>
 								</div>
@@ -555,10 +555,10 @@ if(isset($_POST['submitted']))
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<div class="border-right-custom"></div>
 									<p>
-										First, we will confirm all the details of your website structure and requirements. 
-										This is to ensure that there are no missed points and cause obstacles in the future. 
-										In addition, we will also show the website framework (wireframe) that we have made for you as an initial description. 
-										Then, the concept, design, domain, and web server will be confirmed and decided. 
+										First, we will confirm all the details of your website structure and requirements.
+										This is to ensure that there are no missed points and cause obstacles in the future.
+										In addition, we will also show the website framework (wireframe) that we have made for you as an initial description.
+										Then, the concept, design, domain, and web server will be confirmed and decided.
 										If you already have a website, you can share with us the access to Google Analytics.
 									</p>
 								</div>
@@ -580,8 +580,8 @@ if(isset($_POST['submitted']))
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<div class="border-right-custom"></div>
 									<p>
-										At this stage, the homepage concept will be created and designed according to the references you provide. 
-										Our website design team will also provide several alternatives for which you can then approve or revise. 
+										At this stage, the homepage concept will be created and designed according to the references you provide.
+										Our website design team will also provide several alternatives for which you can then approve or revise.
 										After your approval, we will then create the rest of the pages based on the main website design.
 									</p>
 								</div>
@@ -601,9 +601,9 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<p>
-										Here, we will execute a programming function from various features that have been planned, including the CMS. 
-										This stage also includes implementing SEO that follows the UI/UX design, and eliminating the security vulnerability of the web. 
-										We will ensure that the entire data architecture and features in the website are running and functioning properly. 
+										Here, we will execute a programming function from various features that have been planned, including the CMS.
+										This stage also includes implementing SEO that follows the UI/UX design, and eliminating the security vulnerability of the web.
+										We will ensure that the entire data architecture and features in the website are running and functioning properly.
 										This concept is to ensure that the website is well structured for your targeted audience experience.
 									</p>
 								</div>
@@ -629,10 +629,10 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<p>
-										After we create the website, we will perform appropriate tests according to the contents and website design. 
-										We make sure that there is no HTML syntax error, the website is fully mobile friendly, each page is loading quickly, and SEO countermeasure is done effectively. 
-										For security needs, we also conduct tests and security checks based on many test scenarios. 
-										Then, we will periodically demonstrate the features to you, where you will be able to directly provide us feedbacks for each feature. 
+										After we create the website, we will perform appropriate tests according to the contents and website design.
+										We make sure that there is no HTML syntax error, the website is fully mobile friendly, each page is loading quickly, and SEO countermeasure is done effectively.
+										For security needs, we also conduct tests and security checks based on many test scenarios.
+										Then, we will periodically demonstrate the features to you, where you will be able to directly provide us feedbacks for each feature.
 										When the project has entered the finalization stage, you can perform test too as a proof that all functions have been confirmed and are running well.
 									</p>
 								</div>
@@ -653,9 +653,9 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<p>
-										At this stage, your website will be deployed to the web server and made public. 
-										We can help move data from your old website if needed. 
-										After publication, we will do index registration on Google and setting up Google Analytics for further maintenance. 
+										At this stage, your website will be deployed to the web server and made public.
+										We can help move data from your old website if needed.
+										After publication, we will do index registration on Google and setting up Google Analytics for further maintenance.
 										You can also immediately pay off the remaining payments and your website can be used immediately.
 									</p>
 								</div>
@@ -675,10 +675,10 @@ if(isset($_POST['submitted']))
 							<div class="row">
 								<div class="col-md-offset-2 col-md-10 m-t-10">
 									<p>
-										After the website is launched, we don't leave you just yet. 
-										Every website requires long-term management, including yours. 
-										We will continue to maintain your website system in order to keep the results you want. 
-										LOGIQUE provides variety of management services, starting from observing the system, carrying out daily operations, even regular content creation, Social Media operation, up to digital advertisement operation. 
+										After the website is launched, we don't leave you just yet.
+										Every website requires long-term management, including yours.
+										We will continue to maintain your website system in order to keep the results you want.
+										LOGIQUE provides variety of management services, starting from observing the system, carrying out daily operations, even regular content creation, Social Media operation, up to digital advertisement operation.
 										All for the maximum results from your website.
 									</p>
 								</div>
@@ -699,8 +699,8 @@ if(isset($_POST['submitted']))
 					<div class="col-md-4">
 						<h2 class="custom-3">Mobile (smartphone) Apps Development</h2>
 						<p class="min-h">
-							We can also develop Android apps, iOS apps, and hybrid apps. 
-							We have extensive experience with mobile related solutions such as PWA and AMP Production, so we can support a wide range. 
+							We can also develop Android apps, iOS apps, and hybrid apps.
+							We have extensive experience with mobile related solutions such as PWA and AMP Production, so we can support a wide range.
 							With API development and infrastructure construction such as AWS, we develop highly maintainable apps with one-stop support.
 						</p>
 						<div>
@@ -711,7 +711,7 @@ if(isset($_POST['submitted']))
 						<div class="border-top-custom-2 hidden-xs hidden-sm">NEED OTHER SERVICES?</div>
 						<h2 class="custom-3">HR Related Solution/Recruitment</h2>
 						<p class="min-h">
-							To help your company find suitable candidates, we provide structured, dynamic, professional, and well-optimized career website pages. 
+							To help your company find suitable candidates, we provide structured, dynamic, professional, and well-optimized career website pages.
 							For HR solutions, we also provide activity management system, daily report management system, work situation management, and telework management system for productivity improvement.
 						</p>
 						<div>
@@ -721,8 +721,8 @@ if(isset($_POST['submitted']))
 					<div class="col-md-4">
 						<h2 class="custom-3">Web Security Assessment/Vulnerability Inspection</h2>
 						<p class="min-h">
-							We conduct inspections to check for vulnerabilities in website security holes. 
-							There are various security risks such as hijacking and falsification on the web site. 
+							We conduct inspections to check for vulnerabilities in website security holes.
+							There are various security risks such as hijacking and falsification on the web site.
 							We will search for any gaps and potential infiltration, and then take precautions, such as SQL injection, cross-site scripting, session jacking etc.
 						</p>
 						<div>
@@ -862,7 +862,7 @@ if(isset($_POST['submitted']))
 								<div class="link-footer-webdev">
 									<br/>
 									<div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div>
-									<a href="/en/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
+									<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
 									<a href="/en/product/nippo.php" target="_blank">Nippo</a>
 									<a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
 								</div>
@@ -908,7 +908,7 @@ if(isset($_POST['submitted']))
 								<div class="link-footer-webdev" style="padding-left:30px">
 									<br/>
 									<div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div>
-									<a href="/en/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
+									<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
 									<a href="/en/product/nippo.php" target="_blank">Nippo</a>
 									<a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
 								</div>

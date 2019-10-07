@@ -1,4 +1,4 @@
- <?php 
+ <?php
 require_once("form/fgcontact_dokodemo.php");
 
 $formproc = new FGContactForm();
@@ -45,7 +45,7 @@ if(isset($_POST['submitted']))
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>リモートワーク・テレワーク管理｜生産性向上のための勤務管理ツール｜Dokodemo-Kerja｜LOGIQUEデジタルインドネシア</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style_dokodemo.css" rel="stylesheet">
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	  <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
@@ -59,7 +59,7 @@ if(isset($_POST['submitted']))
 	ga('send', 'pageview');
 
 	</script>
-	
+
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -78,7 +78,7 @@ if(isset($_POST['submitted']))
 				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
-					<span class="icon-bar third"></span> 
+					<span class="icon-bar third"></span>
 				</button>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<div class="backdrop-test"></div>
@@ -173,7 +173,7 @@ if(isset($_POST['submitted']))
 							<li class="pull-left active">JPN</li>
 						</ul>
 					</div>
-				  </div><!--/.nav-collapse -->  
+				  </div><!--/.nav-collapse -->
 				</div><!--/.container-fluid -->
 			</nav>
 			<div class="container" id="introduction">
@@ -294,7 +294,7 @@ if(isset($_POST['submitted']))
 				<div class="visible-lg"><br/><br/></div>
 			</div>
 		</div>
-		
+
 		<div class="bg-yellow" id="fitur">
 			<img src="img/dokodemo-kerja/image-fitur.png" alt="Fitur" class="image-fitur img-responsive"/>
 			<div class="container-fluid">
@@ -307,9 +307,9 @@ if(isset($_POST['submitted']))
 									ユーザーの作業時間を記録します。ユーザーは開始・終了ボタンをクリックするだけです。併せて作業種、プロジェクト名などを入力させ記録、集計することも可能です。各ユーザーが日別に何時に開始、休憩をどのようにとり、何時まで勤務したのか把握可能です。
 								</div>
 							</div>
-						</div>				
+						</div>
 					</div>
-				</div>				
+				</div>
 				<div class="row" style="margin:0">
 					<div class="col-md-6" style="padding: 0;">
 						<div class="title-fitur anton">
@@ -348,7 +348,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		
+
 		<!-- <div class="bg-why">
 			<h2 class="title">Mengapa Memakai Dokodemo-Kerja?</h2>
 			<div class="container">
@@ -464,7 +464,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="div-masalah-new">
 			<div class="container">
 				<div class="row">
@@ -477,7 +477,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="harga" id="price">
 			<div class="container">
 				<div class="title anton">価格</div><br/>
@@ -529,7 +529,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-4">
 						<div class="card-harga">
 							<div class="title-card text-center">エンタープライズプラン</div>
-							
+
 							<div class="text-center heightauto" style="padding:15px;">
 							<div class="valign-center">
 							様々なカスタマイズでの特別対応が可能です。詳細はお問い合わせください。
@@ -588,7 +588,7 @@ if(isset($_POST['submitted']))
 						</div>
 						<br/>
 					</div>
-					
+
 					<div class="clearfix"></div><hr class="hidden-sm hidden-xs"/>
 					<div class="col-md-4">
 						<div class="testi-content">
@@ -675,7 +675,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="div-form" id="divForm">
 			<div class="container">
 				<div class="row">
@@ -690,7 +690,7 @@ if(isset($_POST['submitted']))
 				<?php if(isset($msg))
 				{
 				echo $msg;
-				} 
+				}
 				?>
 				<form class="form-dokodemo" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
 					<input type='hidden' name='submitted' id='submitted' value='1'/>
@@ -758,7 +758,7 @@ if(isset($_POST['submitted']))
 				</form>
 			</div>
 		</div>
-		
+
 		<a href="#" class="scrollToTop">Back to Top</a>
 <?php /*		<footer>
 			<div class="container">
@@ -826,26 +826,26 @@ if(isset($_POST['submitted']))
 									<li><a href="/jp/services/digital-marketing.php" target="_blank">デジタルマーケティング活用支援 </a></li>
 								</ul>
 							</li>
-							
+
 
 						</ul>
 
 					</div>
 					<div class="col-sm-4 link-footer-nav">
 						<!-- <div class="footer-title">LOGIQUEのサービス</div> -->
-						
+
 						<!-- <div class="footer-title" style="padding-top: 20px;"><a href="/jp/product.php">プロダクト</a></div> -->
 						<ul>
 							<li  class="have-submenu"><a href="/jp/product.php">プロダクト</a>
 								<ul>
-								<li><a href="/jp/product/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja<br><span style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>
+								<li><a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja<br><span style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>
 								<li><a href="/jp/product/sugoi-saiyo.php"  target="_blank">Sugoi Saiyo  <span style="font-size: 12px;">(（採用管理ツール）</span></a></li>
 								<li><a href="/jp/product/nippo.php"  target="_blank">Nippo <span style="font-size: 12px;">(（日報＆人事評価ツール）</span></a></li>
 								<li></li>
 							</ul>
 							</li>
 							<li><a href="/jp/portfolio.php">制作開発実績</a></li>
-							
+
 							<li><a href="/career/">求人/インターン</a>
 								<ul>
 									<li><a href="/jp/joinus.php">採用/パートナー</a></li>
@@ -853,12 +853,12 @@ if(isset($_POST['submitted']))
 							</li>
 							<li><a href="/jp/contact.php">お問い合わせ</a></li>
 						</ul>
-						
+
 
 							<!-- <h6><a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a></h6> -->
 
 
-<!-- 							<h6><a href="/jp/product/dokodemo-kerja.php">Dokodemo-Kerja（リモートワーク管理ツール）</a></h6>
+<!-- 							<h6><a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja（リモートワーク管理ツール）</a></h6>
 						<h6><a href="/jp/product/sugoi-saiyo.php">Sugoi Saiyo（採用管理ツール）</a></h6>
 						<h6><a href="/jp/product/sugoi-saiyo.php">Nippo（日報＆人事評価ツール）</a></h6>
 
@@ -870,7 +870,7 @@ if(isset($_POST['submitted']))
 
 					</div>
 					<div class="col-sm-4 link-footer"  >
-<!-- 
+<!--
  						<p>LOGIQUEは、ジャカルタでWebコンサルティング、Webサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。</p> -->
  						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
 						<p style="padding-bottom: 0px; padding-top: 0px;">
@@ -918,12 +918,12 @@ if(isset($_POST['submitted']))
 		</div>
 	</div>
 </footer>
- 
- 
- 
 
 
-		
+
+
+
+
 		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 		<script src="/js/bootstrap.min.js"></script>
 		<script src="/produk/js/PicCarousel.min.js"></script>
@@ -931,7 +931,7 @@ if(isset($_POST['submitted']))
 			$(".screenshot-slide").PicCarousel("init");
 		</script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
-		<script type="text/javascript">			
+		<script type="text/javascript">
 			$(function() {
 				$('.smooth').click(function() {
 				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -946,9 +946,9 @@ if(isset($_POST['submitted']))
 				  }
 				});
 			});
-			
+
 			$(document).ready(function(){
-				
+
 				//Check to see if the window is top if not then display button
 				$(window).scroll(function(){
 					if ($(this).scrollTop() > 100) {
@@ -965,7 +965,7 @@ if(isset($_POST['submitted']))
 					}
 				});
 			});
-			
+
 			//Click event to scroll to top
 			$('.scrollToTop').click(function(){
 				$('html, body').animate({scrollTop : 0},800);

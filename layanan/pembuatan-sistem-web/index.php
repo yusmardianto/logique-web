@@ -1,4 +1,4 @@
-﻿ <?php 
+﻿ <?php
 require_once("form/fgcontact_systemdev.php");
 
 $formproc = new FGContactForm();
@@ -52,7 +52,7 @@ if(isset($_POST['submitted']))
 	<meta property="og:description" content="Sebagai web developer terbaik di Indonesia, LOGIQUE menawarkan layanan jasa pembuatan sistem web sebagai solusi bisnis digital Anda. Kami dapat membantu Anda membangun bisnis apa pun dengan pemanfaatkan teknologi digital, dimulai dengan pembuatan website.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Jasa Pembuatan dan Pengembangan Sistem Web di Jakarta | LOGIQUE</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style_systemdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -70,13 +70,13 @@ if(isset($_POST['submitted']))
 </head>
 	<body>
 		<header class="header">
-			
+
 			<!-- NAVIGATION -->
 			<div class="nav-lp">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar first"></span>
 					<span class="icon-bar second"></span>
-					<span class="icon-bar third"></span> 
+					<span class="icon-bar third"></span>
 				</button>
 				<div class="collapse navbar-collapse" id="myNavbar">
 				<div class="backdrop-test"></div>
@@ -129,7 +129,7 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-		
+
 			<div class="container" style="position:relative">
 				<div class="row">
 					<!-- <div class="col-md-12">
@@ -440,7 +440,7 @@ if(isset($_POST['submitted']))
 								<div class="link-footer-webdev">
 									<br/>
 									<div style="margin-bottom:8px"><b>Produk LOGIQUE</b></div>
-									<a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
+									<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
 									<a href="/produk/nippo.php" target="_blank">Nippo</a>
 									<a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
 								</div>
@@ -486,7 +486,7 @@ if(isset($_POST['submitted']))
 								<div class="link-footer-webdev" style="padding-left:30px">
 									<br/>
 									<div style="margin-bottom:8px"><b>Produk LOGIQUE</b></div>
-									<a href="/produk/dokodemo-kerja.php" target="_blank">Dokodemo-Kerja</a>
+									<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
 									<a href="/produk/nippo.php" target="_blank">Nippo</a>
 									<a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
 								</div>
@@ -502,7 +502,7 @@ if(isset($_POST['submitted']))
 		<script src="/js/bootstrap.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
-		<script type="text/javascript">			
+		<script type="text/javascript">
 			$(function() {
 				$('.smooth').click(function() {
 				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {

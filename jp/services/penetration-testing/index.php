@@ -15,7 +15,7 @@
 	<meta property="og:description" content="LOGIQUEのWEBサイトセキュリティ診断サービスは、お客様のWEBサイト、E-Commerce、WEBアプリケーションの脆弱性を診断し、レポート、対策案を提案します。インドネシアの首都ジャカルタのWEB制作・システム開発会社LOGIQUEにセキュリティ対策についてご相談ください。">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>WEBサイト脆弱性セキュリティ診断サービス｜ジャカルタのWEB制作・システム開発会社LOGIQUE</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
@@ -31,7 +31,7 @@
 	</script>
   </head>
 <body>
-	
+
 	<div class="header-top">
 		<div class="container">
 			<div class="row">
@@ -61,7 +61,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="target-umum-bg">
 		<div class="container">
 			<div class="row">
@@ -79,9 +79,9 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<img src="img/typing.png" width="100%" alt="Typing"/><br/><br/>
-	
+
 	<div class="plus-minus-bg">
 		<div class="container">
 			<div class="row">
@@ -91,14 +91,14 @@
 						インドネシアにおいても、企業に対して、不正アクセス、WEBサイトの改ざんをはじめとするWEBサーバー、WEBサイトへの攻撃が頻繁に行われています。結果として個人情報漏えい、WEBサイトの改ざん、システムダウンやアクセス障害、踏み台化などの被害が起こっています。<br/>
 						企業のブランド価値や信頼感を伝えるためのお客様とのコミュニケーションチャネルであるWEBサイトを安心してユーザーにご利用いただくために、脆弱性を払拭した安全なWEBサイトを提供することは、企業の義務だと考えます。WEBサイトでセキュリティ事件が発生することでブランド価値が大きい毀損するリスクがあります。<br/>
 						こういったリスクを取り除き、安全なWEBサイトであることを維持し続けるために、WEBサイトのセキュリティ脆弱性診断は欠かすことはできません。
-					</div>	
+					</div>
 					<br/><br/>
 					<div class="text-left lh-30">
 						<div class="text-center"><span class="title fw-300"><b>WEBサイトセキュリティ脆弱性診断</b>のカバー範囲</span></div>
 						WEB、WEBサーバーのセキュリティリスクは複雑です。ミドルウェアやインフラのセキュリティ、ネットワークセキュリティ、ソーシャルエンジニアリングのリスクなど広範囲で非常に多くの考えなくてはいけないこと、対策しなくてはいけないことがあります。<br/>
 						ただし、この困難さ、複雑さ、高コストを理由として何もしないのではなく、低コストで短期間で実施できるLOGIQUEのWEBサイトセキュリティ診断を受診されることをお奨めいたします。
 
-					</div>	
+					</div>
 				</div>
 				<!--<div class="clearfix"></div><br/>
 				<div class="col-md-6">
@@ -124,9 +124,9 @@
 					</div>
 					<hr/>
 				</div>	-->
-			</div>	
-		</div>	
-	</div>	
+			</div>
+		</div>
+	</div>
 	<br/>
 	<div class="mengapa-harus">WEBサイトのセキュリティ脆弱性診断については<a href="https://www.logique.co.id/" target="_blank"><b>LOGIQUE</b></a>にご相談ください。</div>
 	<br/>
@@ -286,7 +286,7 @@
 			<br/><br/>
 		</div>
 	</div>-->
-	
+
 	<div class="harga">
 		<div class="container">
 			<div class="row">
@@ -306,7 +306,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="footer">
 		<div class="container">
 			<div class="row">
@@ -322,7 +322,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<footer>
 	<!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
 	<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>
@@ -358,12 +358,12 @@
 							<h6><a href="/jp/services/pembuatan-sistem-web/" target="_blank">WEBシステム開発</a></h6>
 							<h6><a href="/jp/services/pembuatan-aplikasi-mobile/">モバイルアプリ開発</a></h6>
 							<h6><a href="/jp/services/penetration-testing/">WEBセキュリティ診断</a></h6>
-							
+
 						</div>
 						<div class="col-sm-4 link-footer">
 							<div class="footer-title">Product</div>
 							<h5 style="margin-bottom: 10px;">
-								<a href="/jp/product/dokodemo-kerja.php" target="_blank">
+								<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">
 									Dokodemo-Kerja<br/><div style="font-size: 12px;">(Remote Working Tool)</div>
 								</a>
 							</h5>
@@ -405,7 +405,7 @@
 					<span itemprop="streetAddress"> Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5 <br/>
 					Ragunan, Ps. Minggu,  Jakarta Selatan, Indonesia </span><span itemprop="postalCode">12550</span>
 					<br><br>
-					&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36 
+					&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
 					<br>
 					<a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile" style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
 					<br><br>
@@ -414,7 +414,7 @@
 					LOGIQUEは、ジャカルタでWebコンサルティング、WEBサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、映像制作、会社案内・パンフレットデザイン・印刷サービスを提供しています。
 					<br/><br/>
 					<div itemscope itemtype="http://schema.org/CreativeWork">
-						<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>  
+						<div class="copyright">&copy; <span itemprop="copyrightYear">2017</span>
 						<span itemprop="copyrightHolder" itemtype="http://schema.org/Organization"><span itemprop="name">Logique Digital Indonesia. All Rights Reserved.</span></span></div>
 					</div>
 				</div>
@@ -429,6 +429,6 @@
 	<script>
 		$(function() {
 			$('.each-plus-minus').matchHeight();
-		});	
+		});
 	</script>
 </html>

@@ -484,7 +484,7 @@ ga('send', 'pageview');
 								<img src="assets/img/img-recruitment-website/dokodemo-logo.png" alt=""  class="img-responsive">
 								<div class="produk">Masalah dan waktu yang kurang efektif ketika karyawan Anda tinggal jauh dari kantor mungkin membuat Anda berpikir untuk menerapkan sistem kerja remote. Namun tentu saja sistem kerja seperti ini dikhawatirkan akan membuat karyawan tidak efisien dalam bekerja. Dengan Dokodemo Kerja, Anda tidak perlu khawatir karena sistem ini akan membantu menciptakan kondisi kerja yang profesional antara perusahaan dan karyawan. Karyawan dapat mencatat waktu mulai, istirahat, dan berhenti kerja untuk perhitungan pembayaran, disisi lain perusahaan juga dapat menerima informasi tambahan berupa screenshot yang diambil pada waktu acak untuk memonitor tingkat efisiensi karyawan.</div>
 								<br>
-								<a href="/en/product/dokodemo-kerja.php" class="btn btn-lg btn-yellow">More Detail...</a>
+								<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="btn btn-lg btn-yellow">More Detail...</a>
 							</center>
 						</div>
 					</div>

@@ -161,7 +161,7 @@
 
 						<div class="row">
 							<div class="col-sm-12">
-								<a href="/jp/product/dokodemo-kerja.php" target="_blank" class="btn btn-contact-us-black custom-btn-contact"> Dokodemo-Kerjaの詳細を確認 </a>
+								<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="btn btn-contact-us-black custom-btn-contact"> Dokodemo-Kerjaの詳細を確認 </a>
 							</div>
 						</div>
 					</div>

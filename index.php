@@ -194,7 +194,7 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 										<br><br>
 										<div class="row">
 											<div class="col-md-3">
-												<a href="/produk/dokodemo-kerja.php" class="flipp"><img src="img/top/i-dokodemo.png" alt="dokodemo"></a>
+												<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="flipp"><img src="img/top/i-dokodemo.png" alt="dokodemo"></a>
 											</div>
 											<div class="col-md-3">
 												<a href="/produk/sugoi-saiyo.php" class="flipp"><img src="img/top/i-sugoi-saiyo.png" alt="sugoi saiyo"></a>
@@ -326,7 +326,7 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 									<br><br>
 									<div class="row">
 										<div class="col-md-3">
-											<a href="/produk/dokodemo-kerja.php" class="flipp"><img src="img/top/i-dokodemo.png" alt="dokodemo"></a>
+											<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="flipp"><img src="img/top/i-dokodemo.png" alt="dokodemo"></a>
 										</div>
 										<div class="col-md-3">
 											<a href="/produk/sugoi-saiyo.php" class="flipp"><img src="img/top/i-sugoi-saiyo.png" alt="sugoi saiyo"></a>
