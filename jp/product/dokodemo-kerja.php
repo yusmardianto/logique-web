@@ -234,10 +234,10 @@ if(isset($_POST['submitted']))
 						<p>
 							スタッフがいつ、どんな作業をしているのか確認することができます。作業タイプ（タスク種、プロジェクト名）を入力させることで作業時間を集計し管理会計に利用することも可能です。勤務開始時間、休憩時間、終了時間が記録に残りますので、勤務時間不足や逆に働きすぎのコントロールもできます。 管理される画面キャプチャがスタッフのさぼりを抑止します。場所や時間に囚われず、決めた勤務時間中は集中して生産性高く作業してもらうことが可能になります。<span class="blue">Dokodemo-Kerja</span>は現代の働き方をサポートします。
 						</p>
-						<div class="text-center">
-							<a href="#divForm" class="btn btn-start-trial">
-								<img class="img-responsive" src="/jp/product/img/dokodemo-kerja/30-days-trial.png" alt="30 Days Trial">
-							</a>
+            <div class="text-center">
+              <a style="margin-top: 10px;" href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="btn-learn-more">
+                Learn More
+              </a>
 						</div>
 						<br/>
 					</div>
@@ -541,10 +541,10 @@ if(isset($_POST['submitted']))
 						</div>
 					</div>
 				</div>
-				<div class="banner-trial-30-days text-center">
-					<a href="#divForm" class="btn">
-						<img class="img-responsive" src="/jp/product/img/dokodemo-kerja/dokodemo-30days-jp-banner.png" alt="Banner Free Trials">
-					</a>
+        <div class="text-center">
+          <a style="margin: 50px 0 35px 0;" href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="btn-learn-more">
+            Learn More
+          </a>
 				</div>
 			</div>
 		</div>

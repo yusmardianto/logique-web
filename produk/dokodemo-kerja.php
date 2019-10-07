@@ -228,9 +228,9 @@ if(isset($_POST['submitted']))
 						Selain untuk karyawan dengan sistem <i>remote</i>, <span class="blue">Dokodemo-Kerja</span> ternyata juga dapat Anda pergunakan untuk memantau produktivitas karyawan di kantor. Selain untuk memantau pekerjaan, <span class="blue">Dokodemo-Kerja</span> juga dapat digunakan oleh HR dan Manajer sebagai salah satu syarat untuk menentukan kinerja para karyawan.
 						<br/><br/>
 						<div class="text-center">
-							<a href="#divForm" class="btn btn-start-trial">
-								<img class="img-responsive" src="/produk/img/dokodemo-kerja/30-days-trial.png" alt="30 Days Trial">
-							</a>
+              <a style="margin-top: 10px;" href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="btn-learn-more">
+                Learn More
+              </a>
 						</div>
 						<br/>
 					</div>
@@ -562,10 +562,10 @@ if(isset($_POST['submitted']))
 						</div>
 					</div>
 				</div>
-				<div class="banner-trial-30-days text-center">
-					<a href="#divForm" class="btn">
-						<img class="img-responsive" src="/produk/img/dokodemo-kerja/dokodemo-30-days-ind-banner.png" alt="Banner Free Trials">
-					</a>
+				<div class="text-center">
+          <a style="margin: 50px 0 35px 0;" href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="btn-learn-more">
+            Learn More
+          </a>
 				</div>
 			</div>
 		</div>

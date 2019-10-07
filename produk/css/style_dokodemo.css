@@ -273,7 +273,7 @@ footer p{padding: 22px 0px;}
     display: flex;
     align-items: center;
 }
- 
+
 .card section{margin-left:0}
 
 .nav-lp .navbar-toggle.collapsed {
@@ -304,7 +304,7 @@ footer p{padding: 22px 0px;}
 }
 .logique-nav .text-center.active, .logique-nav .text-center.active:focus, .logique-nav .text-center.active:hover {
     background: #212425;
- 
+
 }
 .logique-nav .text-center.active a, .logique-nav .text-center.active:focus a, .logique-nav .text-center.active:hover a, .logique-nav a:hover {
     color: #fff;
@@ -504,10 +504,10 @@ footer {
     padding: 8px 0;
     line-height: normal;
     }
-    
+
 .link-footer-nav > ul > li.have-submenu > ul > li:first-child  > a{
     padding-top: 0;
- 
+
 }
 .link-footer-nav > ul > li.have-submenu > ul > li:last-child  > a{
     padding-bottom: 8px;
@@ -515,11 +515,11 @@ footer {
 .link-footer-nav .have-submenu li.have-submenu li a{
     font-size: 12px;
     padding: 1px 0;
-    
+
 }
 .link-footer-nav .have-submenu li li {
     list-style: disc;
-    
+
 }
 footer a {
     color: #fff!important
@@ -631,7 +631,7 @@ ul.medsos-new li a{
       float: none !important;
       display: inline-block;
     }
-    .btn-lang ul li{ 
+    .btn-lang ul li{
       display: inline-block;
       margin-right: 2px;
      }
@@ -640,7 +640,7 @@ ul.medsos-new li a{
     body.dokodemo .container{
     width: auto;
     }
-    .btn-lang ul li{ 
+    .btn-lang ul li{
     display: inline-block;
     margin-right: 2px;
     }
@@ -662,7 +662,7 @@ ul.medsos-new li a{
     }
     .navbar-default.navbar-dokdem .navbar-collapse{
       padding: 0;
-      position: relative; 
+      position: relative;
     }
     .nav.navbar-nav li a{
     padding:10px 5px;
@@ -676,7 +676,7 @@ ul.medsos-new li a{
     .logique-logo-link{
       position: absolute;
       top: 10px;
-      right:0px; 
+      right:0px;
     }
     .btn-lang{
       position: absolute;
@@ -734,7 +734,7 @@ ul.medsos-new li a{
     margin-top: -1px;
   }
   .nav-lang {
-    margin-left:0; 
+    margin-left:0;
   }
   .nav-lp .navbar-toggle.collapsed{
     top: 25px;
@@ -819,7 +819,7 @@ ul.medsos-new li a{
 @media (max-width:767px) {
 	.div-masalah-new .title {font-size: 25px;}
 }
-.dl-guide img, 
+.dl-guide img,
 .btn-start-trial img{
   position:relative;
   top:0;
@@ -841,4 +841,20 @@ ul.medsos-new li a{
   .banner-trial-30-days {
     padding: 40px 20px;
   }
+}
+
+.btn-learn-more {
+  display: inline-block;
+  background: #ffca13;
+  color: #000;
+  font-size: 20px;
+  border-radius: 5px;
+  padding: 8px 25px;
+  transition: all 150ms;
+  text-decoration: none;
+}
+
+.btn-learn-more:hover, .btn-learn-more:focus {
+  color: #fff;
+  text-decoration: none;
 }
