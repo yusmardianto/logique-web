@@ -376,7 +376,7 @@
                                 </div>
 
                                 <br /><br />
-                                <div class="kasus-subtitle">Apakah Perusahaan Anda Mengalami Serangan Ini?</div>
+                                <div class="kasus-subtitle">Apakah Perusahaan Anda Dapat Mengalami Serangan Ini?</div>
                                 <div class="div-kasus">
                                     Saat ini, sebanyak 74% perusahaan mempunyai lebih dari 1.000 arsip yang sangat
                                     sensitif, dimana 21 persennya tidak diberikan perlindungan yang baik dan mumpuni.
@@ -484,8 +484,7 @@
                     <br />
                     <ul>
                         <li><span class="yellow">Layanan yang menggunakan koneksi internet (website, VPN endpoint, infrastruktur e-mail, extranet, dan lain-lain).</span></li>
-                        <li><span class="yellow">Sistem internal atau servis yang terdapat di dalam jaringan (<i>Active
-                                    Drectory</i>, <i>Exchange</i>, dan lain-lain)</span></li>
+                        <li><span class="yellow">Sistem internal atau servis yang terdapat di dalam jaringan</li>
                         <li><span class="yellow">Aplikasi mobile (iOs & Android ), web, dan desktop</span></li>
                         <li><span class="yellow">Jaringan internal</span></li>
                         <li><span class="yellow">Karyawan perusahaan</span></li>

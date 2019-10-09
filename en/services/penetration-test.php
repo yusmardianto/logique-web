@@ -164,6 +164,7 @@
         </div>
     </div>
     <img src="assets/img/img-pentest/typing.png" width="100%" alt="Typing">
+
     <div class="plus-minus-bg">
         <div class="container">
             <div class="row">
@@ -180,28 +181,28 @@
                         It is important to know how a weak security system can result in financial, reputational, and
                         legal consequences.
                         <ol>
-                            <li>1. Financial Impact.<br>
+                            <li><b>1. Financial Impact.</b><br>
                                 Cyber Attacks can often result in financial losses arising from:
-                                <ul>
-                                    <li>- Theft of Corporate Information</li>
-                                    <li>- Theft of Financial Information</li>
-                                    <li>- Sales Disruptions (Example: Customers being unable to conduct online
+                                <ul class="plus-minus-list">
+                                    <li>Theft of Corporate Information</li>
+                                    <li>Theft of Financial Information</li>
+                                    <li>Sales Disruptions (Example: Customers being unable to conduct online
                                         transactions)</li>
-                                    <li>- Loss of Business or Employment Contracts</li>
+                                    <li>Loss of Business or Employment Contracts</li>
                                     <br />
                                 </ul>
                             </li>
-                            <li>2. Reputational Impact<br />
+                            <li><b>2. Reputational Impact</b><br />
                                 Cyber attacks can damage your business’s reputation and potentially lead to:
-                                <ul>
-                                    <li>- Loss of customer Trust</li>
-                                    <li>- Loss of Customers</li>
-                                    <li>- Decrease in Sales</li>
-                                    <li>- Reduction of Profits</li>
+                                <ul class="plus-minus-list">
+                                    <li>Loss of customer Trust</li>
+                                    <li>Loss of Customers</li>
+                                    <li>Decrease in Sales</li>
+                                    <li>Reduction of Profits</li>
                                     <br />
                                 </ul>
                             </li>
-                            <li>3. Legal Impact<br />
+                            <li><b>3. Legal Impact</b><br />
                                 As a business owner, you are obliged to protect your company, its customers and the data
                                 of its
                                 employees. If you are unwilling to fulfill such basic requirements, if you are bound by
