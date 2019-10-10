@@ -674,7 +674,7 @@
                 industri mulai dari fintech, e-commerce, otomotif, dan masih banyak lagi.<br /><br />
                 Selama melakukan penetration testing untuk berbagai perusahaan, kami telah menemukan beberapa celah
                 keamanan atau bug sehingga patch atau penambalan dapat segera dilakukan. Beberapa bugs yang telah kami
-                temukan seperti seperti:
+                temukan seperti:
                 <ol>
                     <li>1. Injection</li>
                     <li>2. Cross-Site Scripting (XSS)</li>
