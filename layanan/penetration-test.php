@@ -447,7 +447,6 @@
                         <li><span class="yellow">Aplikasi mobile (iOs & Android ), web, dan desktop.</span></li>
                         <li><span class="yellow">Jaringan internal.</span></li>
                         <li><span class="yellow">Karyawan perusahaan.</span></li>
-                        <li><span class="yellow">Stress testing.</span></li>
                     </ul>
                 </div>
             </div>
