@@ -441,9 +441,9 @@
                     <br />
                     <ul>
                         <li><span class="yellow">Layanan yang menggunakan koneksi internet (website, VPN endpoint,
-                                infrastruktur
-                                e-mail, extranet, dan lain-lain).</span></li>
-                        <li><span class="yellow">Sistem internal atau servis yang terdapat di dalam jaringan.</li>
+                                infrastruktur e-mail, extranet, dan lain-lain).</span></li>
+                        <li><span class="yellow">Sistem internal atau servis yang terdapat di dalam jaringan (<i>Active
+                                    Directory</i>, <i>Exchange</i>, dan lain-lain).</li>
                         <li><span class="yellow">Aplikasi mobile (iOs & Android ), web, dan desktop.</span></li>
                         <li><span class="yellow">Jaringan internal.</span></li>
                         <li><span class="yellow">Karyawan perusahaan.</span></li>
