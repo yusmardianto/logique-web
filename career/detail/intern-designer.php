@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="Dicari designer yang mampu mendesain video dan produk yang bisa dicetak (misalnya: brosur, profil perusahaan, dll), mendesain tampilan/UI untuk website dan aplikasi mobile, menggunakan Photoshop, Illustrator, Premiere, dll.">
+    <meta name="description" itemprop="description" content="Dicari UI/UX designer yang mampu mendesain video dan produk yang bisa dicetak (misalnya: brosur, profil perusahaan, dll), mendesain tampilan/UI untuk website dan aplikasi mobile, menggunakan Photoshop, Illustrator, Premiere, dll.">
 	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, UI designer, web design, web designer, graphic designer, user interface specialist, indonesia, adobe, photoshop, illustrator, premiere, indesign, aftereffect, video editing, photo editing, design, creative content">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Lowongan - Intern Designer">
+    <meta property="og:title" content="Lowongan - Intern UI/UX designer">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
 	<meta property="og:description" content="Dicari designer yang mampu mendesain video dan produk yang bisa dicetak (misalnya: brosur, profil perusahaan, dll), mendesain tampilan/UI untuk website dan aplikasi mobile, menggunakan Photoshop, Illustrator, Premiere, dll.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Lowongan - Intern Designer</title>
+    <title>Lowongan - Intern UI/UX designer</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -120,7 +120,7 @@
 									<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
 										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/career"><span itemprop="name">Karir</span></a><meta itemprop="position" content="1" /></li>
-										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Intern Designer<meta itemprop="position" content="2" /></li>
+										<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >Intern UI/UX designer<meta itemprop="position" content="2" /></li>
 									</ol>
 								</div>
 							</div>
@@ -131,7 +131,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-6 text-center">
-									<h1><img src="/img/career/designer.png" style="filter: contrast(0%) brightness(150%);"> Intern Designer</h1>
+									<h1><img src="/img/career/designer.png" style="filter: contrast(0%) brightness(150%);"> Intern UI/UX designer</h1>
 								</div>
 							</div>
 						</div>

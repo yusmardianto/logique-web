@@ -775,7 +775,7 @@
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
                     <img src="/img/career/designer.png" />
-                    <h3>Designer</h3>
+                    <h3>UI/UX designer</h3>
                     <div class="boxfull">Fulltime</div>
                   </div>
                   <div class="panel-footer">
@@ -1000,7 +1000,7 @@
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
                     <img src="/img/career/designer.png" />
-                    <h3>Designer</h3>
+                    <h3>UI/UX designer</h3>
                     <div class="boxfull">Fulltime</div>
                   </div>
                   <div class="panel-footer">
@@ -1139,7 +1139,7 @@
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
                     <img src="/img/career/designer.png" />
-                    <h3>Designer</h3>
+                    <h3>UI/UX designer</h3>
                     <div class="boxfull" style="background: #3e64ff; ">Internship</div>
                   </div>
                   <div class="panel-footer">
