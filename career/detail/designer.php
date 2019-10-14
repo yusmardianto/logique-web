@@ -7,7 +7,7 @@
     <meta name="description" itemprop="description" content="Dicari designer yang mampu mendesain video dan produk yang bisa dicetak (misalnya: brosur, profil perusahaan, dll), mendesain tampilan/UI untuk website dan aplikasi mobile, menggunakan Photoshop, Illustrator, Premiere, dll.">
 	<meta name="keywords" content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, UI designer, web design, web designer, graphic designer, user interface specialist, indonesia, adobe, photoshop, illustrator, premiere, indesign, aftereffect, video editing, photo editing, design, creative content">
 	<meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Lowongan - Designer">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/">
@@ -26,12 +26,12 @@
     </head>
 	<body>
 		<div class="wrapper">
-		
+
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
+				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
@@ -89,15 +89,15 @@
 				</div>
 			</div>
 			<!-- NAVIGATION -->
-			
+
 			<!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
 			<div class="contain-video">
 				<img id="bgvid" alt="bg video" style="width:100%" src="/img/video-img.png"/>
 			</div>
 
-			
+
 			<br/>
-			
+
 			<div id="contentsArea" class="career-new detailcareer">
 				<div id="contents">
 					<style type="text/css">.modal-open .modal{background: rgba(255, 255, 255, .8)!important;}</style>
@@ -126,15 +126,12 @@
 							</div>
 						</div>
 					</div>
-	
+
 					<div class="csection6 detailcareer1"  id="detail-vacancy">
 						<div class="container">
 							<div class="row">
 								<div class="col-md-6 text-center">
-									<h1><img src="/img/career/accounting.png" style="filter: contrast(0%) brightness(150%);"> Designer</h1>
-								</div>
-								<div class="col-md-6 text-center">
-									<a class="btn btn-detail-vacancy"><img src="/img/career/siren.png"> Urgently Needed</a>
+									<h1><img src="/img/career/designer.png" style="filter: contrast(0%) brightness(150%);">Designer</h1>
 								</div>
 							</div>
 						</div>
@@ -145,24 +142,52 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
 									<div class="content-vacancy">
-										<h3 class="text-center"> Designer di (Jakarta)</h3>
-										<hr>
 										<div class="div-job desc-job">
-											<p>Designer adalah elemen kreatif perusahaan yang mampu menghasilkan ide dan unsur-unsur visual dengan menciptakan dan mengintegrasikan berbagai komponen seperti warna, bentuk, foto, dan video. Selain itu, mereka juga memastikan tampilan website dan sistem web terlihat baik dan mudah digunakan.</p><br>
-											<b class="getN">Requirement:</b><br>
-											<ul class="joinus-ul">
-												<li>Memiliki kemampuan untuk menggunakan software desain (Photoshop, Illustrator, dll).</li>
-												<li>Mampu menerjemahkan wireframe ke bentuk desain sesuai dengan yang dibutuhkan</li>
-											</ul><br>
-											<b class="getN">Job Description:</b><br>
-											<ul class="joinus-ul">
-												<li>Mendesain tampilan/UI untuk website dan aplikasi mobile.</li>
-												<li>Mendesain video dan produk yang dicetak (misalnya: brosur, profil perusahaan, dll).</li>
-												<li>Merancang, memberi arahan terkait desain, dan dukungan terkait pekerjaan desain di atas.</li>
-											</ul>
+										<b class="getN">Job Description:</b><br>
+										<ul class="joinus-ul">
+											<li>Pendidikan minimal D3 Jurusan Komputer, Design Komunikasi Visual</li>
+											<li>Membuat design untuk tampila website, mobile app dan printing (flyer, brochure etc)</li>
+											<li>Kolaborasi dengan Project Manager, dan Departemen lainnya terkait project.</li>
+											<li>Mampu membuat ilustrasi design dengan menggunakan storyboard, proses by proses dan sitemap</li>
+											<li>Mampu mempresentasikan draft design kepada internal team maupun klien</li>
+											<li>Dapat mengidentifikasi dan memberi solusi terkait permasalahan baik secara UI maupun UX</li>
+										</ul>
+										<br>
+										<b class="getN">Requirements </b><br>
+										<ul class="joinus-ul">
+											<li>Pernah bekerja sebagai UI/UX designer (terbuka untuk fresh graduate)</li>
+											<li>memiliki portfolio design</li>
+											<li>Dapat membuat wireframe dengan menggunakan standar tools wireframe (balsamiq, moqups)</li>
+											<li>Dapat membuat prototyping menggunakan marvelapp, inVision</li>
+											<li>mempunyai semangat kerja yang tinggi, baik dalam berkomunikasi serta memiliki manajemen waktu yang baik.</li>
+										</ul>
+										<br>
+										<b class="getN">Required Skill</b><br>
+										<ul class="joinus-ul">
+											<li>Memiliki kemampuan untuk menggunakan software desain (Photoshop, Illustrator, dll).</li>
+											<li>Terbiasa menggunakan profesional standar design tools seperti sketch, adobe illustrator, photoshop, zeplin </li>
+										</ul>
+										<br>
+										<b class="getN">Preferable </b><br>
+										<ul class="joinus-ul">
+										<li>Dapat membuat video 2D menggunakan after effect, adobe premiere adalah nilai plus</li>
+										</ul>
+										<br>
+										<b class="getN">Rewards and worthwhile</b><br>
+										<ul class="joinus-ul">
+										<li>Anda akan merasa tertantang untuk mendesign berbagai macam web, mobile aplikasi</li>
+										<li>Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang dihadapi.</li>
+										</ul>
+										<br>
+										<b class="getN">Location</b><br>
+										<ul class="joinus-ul">
+										<li>Jakarta</li>
+										<li>Yogya</li>
+										</ul>
+										<br>
 											<div class="text-center">
 											<br>
-												<a class="btn btn-yellow smooth" id="apply-designer" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Designer-Apply-Button', 'Action-Click', 'Designer-Apply-Button-Label');" target="_blank" rel="noreferrer" disabled>Apply</a>
+												<a class="btn btn-yellow smooth" id="apply-desginer" href="https://logique.sugoisaiyo.com/" onclick="ga('send', 'event', 'Designer-Apply-Button', 'Action-Click', 'Designer-Apply-Button-Label');" target="_blank" rel="noreferrer">Apply</a>
 											</div>
 										</div>
 									</div>
@@ -200,9 +225,9 @@
 				// Random Recent Vacancy
 				var randomdiv = Math.floor(Math.random() * $('.itemdiv').length);
 				$('.itemdiv').hide().eq(randomdiv).show();
-				
+
 			</script>
-			
+
 		</div>
 	</body>
 </html>
