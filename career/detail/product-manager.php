@@ -20,6 +20,52 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Lowongan - Product Manager</title>
 
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "title": "Product Manager",
+        "url": "https://www.logique.co.id/career/detail/product-manager.php",
+        "hiringOrganization": {
+            "@type": "Corporation",
+            "name": "Logique Digital Indonesia",
+            "url": "https://www.logique.co.id",
+            "logo": "https://www.logique.co.id/img/logo.png",
+            "contactPoint": [{
+                "@type": "ContactPoint",
+                "telephone": "(+6221) 22708935",
+                "contactType": "customer service"
+            }, {
+                "@type": "ContactPoint",
+                "telephone": "(+6221) 22708936",
+                "contactType": "customer service"
+            }]
+        },
+        "jobBenefits": "Medical, Life, Dental",
+        "datePosted": "2019-10-14",
+        "description": "Dicari Product Manager yang telah berpengalaman di bidang IT dan Web selama lebih dari 3 tahun, terampil dalam management dan komunikasi antar tim development dan klien, serta menangani proyek secara keseluruhan mulai dari perencanaan, proposal, hingga pengembangan.<br><br>Job Description<ul><li>Menyusun rencana skema penjualan produk.</li><li>Berkomunikasi dengan prospek atau klien untuk keperluan penjualan atau pengelolaan produk.</li><li>Memberikan saran terhadap peningkatan produk sesuai kebutuhan dan bekerjasama dengan tim terkait dalam membantu proses implementasi.</li><li>Menyusun laporan terkait penjualan dan peningkatan produk kepada supervisor atau atasan.</li><li>Melakukan segala aktifitas sales yang berkaitan dengan produk.</li><li>Melakukan pemasaran dan branding produk secara digital (online).</li><li>Membantu dan berkolaborasi dengan tim digital marketing.</li></ul><br><br>Must Skill / Experience<ul><li>Memiliki pengalaman sebagai Product Consultant atau setara minimal selama 3 tahun.</li><li>Memiliki kemampuan analisa dan pemecahan masalah yang baik.</li><li>Memiliki pengetahuan yang baik dalam bidang pembuatan website, web system, atau aplikasi mobile.</li><li>Memiliki kemampuan komunikasi verbal dan tertulis yang efektif.</li><li>Memiliki kemampuan presentasi dan interpersonal yang baik.</li><li> Memahami proses dan dinamika dunia sales.</li></ul>",
+        "educationRequirements": "Memiliki pemahaman yang mendalam mengenai Web dan IT System.",
+        "employmentType": "FULL_TIME",
+        "experienceRequirements": "Memiliki pengalaman sebagai Product Consultant atau setara minimal selama 3 tahun.",
+        "industry": "Computer Software",
+        "jobLocation": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Jakarta",
+                "addressRegion": "D.K.I. Jakarta",
+                "postalCode": "12550",
+                "streetAddress": "19th Floor, AD Premier, Jl. TB Simatupang No.5, RT.5/RW.7, Ragunan, Kec. Ps. Minggu"
+            }
+        },
+        "occupationalCategory": "Software Developers, Application, Website Developers",
+        "qualifications": "Memiliki pengalaman sebagai Product Consultant atau setara minimal selama 3 tahun.",
+        "responsibilities": "Berkomunikasi dengan prospek atau klien untuk keperluan penjualan atau pengelolaan produk.",
+        "skills": "Memiliki pengetahuan yang baik dalam bidang pembuatan website, web system, atau aplikasi mobile.",
+        "workHours": "40 hours per week"
+    }
+    </script>
+
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">

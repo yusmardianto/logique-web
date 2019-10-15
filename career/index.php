@@ -773,6 +773,23 @@
               <div class="col-md-3 card" data-name="4">
                 <div class="panel panel-default">
                   <div class="panel-body">
+                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+                    <img src="/img/career/designer.png" />
+                    <h3>UI/UX designer</h3>
+                    <div class="boxfull">Fulltime</div>
+                  </div>
+                  <div class="panel-footer">
+                    <p></p>
+                    <div class="text-center">
+                      <a class="btn btn-detail" href="detail/designer.php" id="designer">Detail</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-3 card" data-name="4">
+                <div class="panel panel-default">
+                  <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
                     <img src="/img/career/fe.png" />
                     <h3>Front End Developer</h3>
@@ -787,7 +804,14 @@
                 </div>
               </div>
 
-              <div class="col-md-3 card" data-name="5">
+              
+
+            </div>
+
+            <!-- THIRD LINE -->
+            <div class="row">
+
+            <div class="col-md-3 card" data-name="5">
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -807,11 +831,6 @@
                   </div>
                 </div>
               </div>
-
-            </div>
-
-            <!-- THIRD LINE -->
-            <div class="row">
 
               <div class="col-md-3 card" data-name="5">
                 <div class="panel panel-default">
@@ -866,7 +885,14 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-3 card" data-name="10">
+              
+
+            </div>
+
+            <!-- FOURTH LINE -->
+            <div class="row">
+
+            <div class="col-md-3 card" data-name="10">
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
@@ -882,6 +908,8 @@
                   </div>
                 </div>
               </div>
+
+              
             </div>
 
 
@@ -972,7 +1000,7 @@
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
                     <img src="/img/career/designer.png" />
-                    <h3>Designer</h3>
+                    <h3>UI/UX designer</h3>
                     <div class="boxfull">Fulltime</div>
                   </div>
                   <div class="panel-footer">
@@ -1086,12 +1114,32 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-3 card">
+              <div class="col-md-3 card" data-name="10">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta </div>
+                    <img src="/img/career/pm.png" />
+                    <h3 style="font-size:20px;">Digital Marketing Strategist</h3>
+                    <div class="boxfull" style=" background: #3e64ff; ">Internship</div>
+                  </div>
+                  <div class="panel-footer">
+                    <div class="urgent-front">
+                      <img src="/img/career/urgent.png">
+                    </div>
+                    <div class="text-center">
+                      <a class="btn btn-detail" href="detail/intern-dm-strategist.php" id="intern-dm-strategist">Detail</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+            <div class="col-md-3 card">
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
                     <img src="/img/career/designer.png" />
-                    <h3>Designer</h3>
+                    <h3>UI/UX designer</h3>
                     <div class="boxfull" style="background: #3e64ff; ">Internship</div>
                   </div>
                   <div class="panel-footer">
@@ -1101,10 +1149,13 @@
                     </div>
                   </div>
                 </div>
-              </div>
+              </div>      
             </div>
           </div>
         </div>
+          </div>
+        </div>
+        
 
         <div class="csection8">
           <div class="container">
