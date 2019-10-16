@@ -316,7 +316,11 @@
         AOS.init();
 
         // Random Recent Vacancy
-        var randomdiv = Math.floor(Math.random() * $('.itemdiv').length);
+        // random vacancies for tech related range = 0-3
+        // random vacancies for non-tech related range = 4-5
+        // random vacancies for intern related range = 6-7
+        // var randomdiv = Math.floor(Math.random() * $('.itemdiv').length);
+        var randomdiv = Math.floor(Math.random() * (6 - 4) + 4);
         $('.itemdiv').hide().eq(randomdiv).show();
         </script>
 
