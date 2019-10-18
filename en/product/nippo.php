@@ -99,8 +99,8 @@ if(isset($_POST['submitted']))
     <div class="row" style="margin-right:0;margin-left:0;">
       <div class="col-md-12 text-center p-top-50" style=" padding-top: 18%; ">
         <img src="img/nippo/LogoNippo.png" alt="nippo" class="fade-in logo m-logo">
-        <p class="SISTEM-LAPORAN-KERJA fade-in">Daily report tool that can perform man-hour cost management
-          <br>and employee evaluation through daily reports</p>
+        <p class="SISTEM-LAPORAN-KERJA fade-in">A Daily Reporting Tool that manages man-hour cost effectiveness
+          <br>and conducts employee evaluations through daily reports.</p>
       </div>
     </div>
   </div>
@@ -117,16 +117,23 @@ if(isset($_POST['submitted']))
   </div>
   <section class="hidden-xs hidden-sm">  <!-- For Desktop -->
   <div class="col-md-push-3 col-md-8 col-md-pull-1">
-    <p class="Nippo-adalah-aplikas"><b>Nippo</b> is a web-based system that can manage, monitor, and evaluate employees’ productivity through daily reports. Nippo provides systemized daily reports that can be customized to show tasks, projects, cost management, and employees’ <b>assessment.</b><br><br>
-    With Nippo, managers and HRD can grasp the work content, determine quantity and quality of staff, and promote communication among staff. Therefore, <b>evaluation</b> can be done fairly.</p>
+    <p class="Nippo-adalah-aplikas"><b>Nippo</b>  is a web-based application that assists managers in monitoring the overall productivity of 
+    their workers. This application is the perfect solution for conducting detailed <b>staff-oriented</b> 
+    managerial work.</p>
+    <p class="Nippo-adalah-aplikas">
+    Through Nippo, the company can increase its knowledge of each employee’s daily work 
+    routines in a comprehensive manner, so that managers will then be able to use these reports in 
+    evaluating staff performance.
+    </p>
   </div>
   </section>
   <section class="hidden-md hidden-lg">  <!-- For Mobile -->
   <div class="col-md-12">
     <br>
     <span class="NIPPO-SYSTEM">NIPPO SYSTEM ?</span>
-    <p class="Nippo-adalah-aplikas"><b>Nippo</b> adalah aplikasi berbasis web yang dapat membantu para manajer dalam memantau produktivitas dan manajemen kerja stafnya. Aplikasi ini merupakan solusi tepat bagi perusahaan untuk mengetahui <b>manajemen kerja</b> karyawan secara detail.<br><br>
-    Dengan Nippo, perusahaan dapat mengetahui laporan harian kerja karyawan secara komprehensif sehingga manajer dapat menggunakannya sebagai bahan pertimbangan untuk melakukan <b>evaluasi kinerja</b> para karyawan.</p>
+    <p class="Nippo-adalah-aplikas"><b>Nippo</b> is a web-based application that assists managers in monitoring the overall productivity of 
+    their workers. This application is the perfect solution for conducting detailed <b>staff-oriented</b> 
+    managerial work.</p>
   </div>
   </section>
   </div>
@@ -140,19 +147,19 @@ if(isset($_POST['submitted']))
   </div>
   <div class="col-md-3 text-center">
     <img src="img/nippo/kenapa-1.png" alt="Why Nippo?">
-    <div class="Dapat-diakses-melalu">Accessible and easy input through desktop and mobile</div>
+    <div class="Dapat-diakses-melalu">Accessible and User Friendly with both Desktop and Mobile Platforms</div>
   </div>
   <div class="col-md-3 text-center">
     <img src="img/nippo/kenapa-2.png" alt="Why Nippo?">
-    <div class="Dapat-diakses-melalu">Very simple and responsive UI</div>
+    <div class="Dapat-diakses-melalu">Simple and Responsive UI</div>
   </div>
   <div class="col-md-3 text-center">
     <img src="img/nippo/kenapa-3.png" alt="Why Nippo?">
-    <div class="Dapat-diakses-melalu">Man-hour cost management can be summed up and is possible for each project, task, and person</div>
+    <div class="Dapat-diakses-melalu">Man-Hour cost management can be summarized for each project conducted by every employee.</div>
   </div>
   <div class="col-md-3 text-center">
     <img src="img/nippo/kenapa-4.png" alt="Why Nippo?">
-    <div class="Dapat-diakses-melalu">Evaluation and self assessment can be done every day</div>
+    <div class="Dapat-diakses-melalu">Evaluation and Self-Assessment can be conducted on a daily basis.</div>
   </div>
   </div>
 </div>
@@ -165,22 +172,25 @@ if(isset($_POST['submitted']))
   <section class="hidden-xs hidden-sm">  <!-- For Desktop -->
   <div class="col-md-12" style=" padding-top: 7em; ">
     <div class="col-md-6 text-right">
-      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Appropriate and fair personnel evaluation hasn’t been done. Managers and HRD need objective numerical values to conduct this.</span></div>
+      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">A lack of objective and fair employee evaluation. To conduct this, numerically based assessments are needed.</span></div>
       <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Company Problems" width="77px" height="77px"></div>
     </div>
     <div class="col-md-6 text-left">
       <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Company Problems" width="77px" height="77px"></div>
-      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Managers and HRD can’t track what the staff is doing every day. Their work content, quantity, and quality are surreptitiously insufficient.</span></div>
+      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Managers are unable to constantly regulate the activities of those in their employ. Therefore, the quantity and quality of their work can remain surreptitiously inefficient for long periods of 
+      time.</span></div>
     </div>
   </div>
   <div class="col-md-12" style=" padding-top: 2em; ">
     <div class="col-md-6 text-right">
-      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Internal communication is in short supply, whereas employees themselves need to evaluate each other so managers and HRD can raise them.</span></div>
+      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Where internal communication is lacking, employees themselves must find ways to evaluate 
+        each other so that HRD and Managers can advance their positions.</span></div>
       <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Company Problems" width="77px" height="77px"></div>
     </div>
     <div class="col-md-6 text-left">
       <div class="col-md-2" style="margin-top:-5px;"><img src="img/nippo/checked.png" alt="Company Problems" width="77px" height="77px"></div>
-      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Task/projects are done inefficiently. Managers can’t even figure out who is spending time on them.</span></div>
+      <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Tasks are done in an inefficient manner. Managers will be unable to figure out who is spending 
+        time on them.</span></div>
     </div>
   </div>
   </section>
@@ -188,21 +198,24 @@ if(isset($_POST['submitted']))
   <div class="col-md-12" style=" padding-top: 2em; ">
     <div class="col-md-6">
       <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Company Problems" style="padding: 10px;height: 50px"></div>
-      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Appropriate and fair personnel evaluation hasn’t been done. Managers and HRD need objective numerical values to conduct this.</span></div>
+      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">A lack of objective and fair employee evaluation. To conduct this, numerically based assessments are needed.</span></div>
     </div>
     <div class="col-md-6">
       <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Company Problems" style="padding: 10px;height: 50px"></div>
-      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Managers and HRD can’t track what the staff is doing every day. Their work content, quantity, and quality are surreptitiously insufficient.</span></div>
+      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Managers are unable to constantly regulate the activities of those in their employ. Therefore, the quantity and quality of their work can remain surreptitiously inefficient for long periods of 
+      time.</span></div>
     </div>
   </div>
   <div class="col-md-12">
     <div class="col-md-6">
       <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Company Problems" style="padding: 10px;height: 50px"></div>
-      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Internal communication is in short supply, whereas employees themselves need to evaluate each other so managers and HRD can raise them.</span></div>
+      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Where internal communication is lacking, employees themselves must find ways to evaluate 
+        each other so that HRD and Managers can advance their positions.</span></div>
     </div>
     <div class="col-md-6">
       <div class="col-xs-3 text-center"><img src="img/nippo/checked.png" alt="Company Problems" style="padding: 10px;height: 50px"></div>
-      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Task/projects are done inefficiently. Managers can’t even figure out who is spending time on them.</span></div>
+      <div class="col-xs-9"><span class="Evaluasi-kinerja-sel">Tasks are done in an inefficient manner. Managers will be unable to figure out who is spending 
+        time on them.</span></div>
     </div>
     <div class="clearfix"></div>
   </div>
@@ -229,14 +242,14 @@ if(isset($_POST['submitted']))
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Employee Management</p>
-          <p class="NIPPO-system-menyedi">Create and manage employee and organization information, associations with supervisors, and many more.</p>
+          <p class="NIPPO-system-menyedi">Create and organize employee information and data, associations with supervisors and many more.</p>
       </div>
       <div class="col-md-2 text-center">
           <img src="img/nippo/fitur-4.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan" style="font-size: 17px">Project/Task Management</p>
-          <p class="NIPPO-system-menyedi">Register and manage project information, task types, and details of the tasks.</p>
+          <p class="NIPPO-system-menyedi">Register and manage project information, task types and the specific details of each task.</p>
       </div>
     </div>
   </div>
@@ -247,14 +260,16 @@ if(isset($_POST['submitted']))
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Tag People</p>
-          <p class="NIPPO-system-menyedi">By tagging colleagues who employees collaborated with, managers can check the daily report mutually. If there’s something different, the tagged person can confirm.</p>
+          <p class="NIPPO-system-menyedi">Through tagging the colleagues each employee has collaborated with on every individual task, 
+            managers are able to check if there is a mismatch, and take the appropriate steps to confirm 
+            the duties of the individual in question.</p>
       </div>
       <div class="col-md-2 text-center">
           <img src="img/nippo/fitur-3.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Man-hour Cost Management</p>
-          <p class="NIPPO-system-menyedi">Work hours can be calculated for each project/task. The report is provided with calculations of each hour spent. Analyze who works more productive than expected and has the best performance.</p>
+          <p class="NIPPO-system-menyedi">The total number of working hours can be summarized for each task, and is supported with a calculation of the number of hours spent on each task.</p>
       </div>
     </div>
   </div>
@@ -265,14 +280,15 @@ if(isset($_POST['submitted']))
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Personnel Assessment</p>
-          <p class="NIPPO-system-menyedi">Manage self assessment from other people’s evaluation. It is also possible to compile monthly and annual evaluations.</p>
+          <p class="NIPPO-system-menyedi">Manage your employee’s self-assessment evaluation score. It is also possible to compile and analyze monthly and annual evaluations.</p>
       </div>
       <div class="col-md-2 text-center">
           <img src="img/nippo/fitur-6.png" alt="Features of Nippo">
       </div>
       <div class="col-md-4 text-left" style="padding:0;">
           <p class="Basis-Data-Karyawan">Engage Each Other</p>
-          <p class="NIPPO-system-menyedi">Leave a like and comment on people’s reports. Give a thumb up on each task/project performance. Motivate each other.</p>
+          <p class="NIPPO-system-menyedi">Leave a like and comment on people’s work. You can also give a thumbs-up in regards to each 
+            task/project performance, so as to motivate one another.</p>
       </div>
     </div>
   </div>
@@ -290,13 +306,13 @@ if(isset($_POST['submitted']))
     <div class="col-md-4 text-center">
         <div class="OH1E290">
           <img src="img/nippo/keuntungan-1.png" alt="San Francisco">
-          <div class="Rectangle">Managers can easily grasp work contents done by employees.</div>
+          <div class="Rectangle">Through this format, managers can easily keep tabs on and track the work content done by each employee.</div>
         </div>
     </div>
     <div class="col-md-4 text-center">
       <div class="OH1E290">
         <img src="img/nippo/keuntungan-2.png" alt="San Francisco">
-        <div class="Rectangle"><b>Assessment</b> becomes practical and fair among employees. It can be done daily by managers.</div>
+        <div class="Rectangle">Through Nippo, assessment is done in a <b>fair</b> and <b>practical manner</b>, and can be conducted in this way on a daily basis by mangers.</div>
       </div>
     </div>
   </div>
@@ -304,19 +320,19 @@ if(isset($_POST['submitted']))
     <div class="col-md-4 text-center">
         <div class="OH1E290">
           <img src="img/nippo/keuntungan-3.png" alt="San Francisco">
-          <div class="Rectangle">Since both <b>self assessment</b> and supervisor’s <b>assessment</b> are managed, HRD can give a clear explanation of evaluation to the staff.</div>
+          <div class="Rectangle">Since both <b>self assessment</b> and supervisor <b>evaluations</b> are managed through the interface, HRD is able to bring up any problems in a clear way to staff.</div>
         </div>
     </div>
     <div class="col-md-4 text-center">
       <div class="OH1E290">
         <img src="img/nippo/keuntungan-4.png" alt="San Francisco">
-        <div class="Rectangle">Internal communication will be revitalized. Likes or comments on the report will create a sense of being recognized and evaluated by others.</div>
+        <div class="Rectangle">Internal communication is revitalized through a more interactive interface scheme. The ability to leave likes and comments will create a sense of comradery and recognition between team members.</div>
       </div>
     </div>
     <div class="col-md-4 text-center">
         <div class="OH1E290">
           <img src="img/nippo/keuntungan-5.png" alt="San Francisco">
-          <div class="Rectangle">Remote workers get the chance of improvement and assessment just the same as regular employees.</div>
+          <div class="Rectangle">Remote workers get a chance to assess their skills based on the same criteria as regular workers.</div>
         </div>
     </div>
   </div>
@@ -338,36 +354,42 @@ if(isset($_POST['submitted']))
     <div class="col-md-offset-1 col-md-10">
     <ol>
       <li class="-Bagaimana-cara-ke">
-        <h3>How does Nippo work?</h3>
-        <p class="Nippo-merupakan-sist">Nippo provides a daily report master and calculates man-hour cost of each employee so managers and HRD can acknowledge the daily performance of employees.</p>
+        <h3>How does NIPPO work?</h3>
+        <p class="Nippo-merupakan-sist">Nippo provides a daily reporting mechanism which calculates the man-hour cost of each 
+          employee so that managers and HRD can have a better grasp of the daily performances of each 
+          staff member.</p>
       </li>
       <li class="-Bagaimana-cara-ke">
-        <h3>How can Nippo help managers and HRD?</h3>
-        <p class="Nippo-merupakan-sist">With Nippo’s features, managers and HRD can monitor how productive each employee is for the day. Therefore, they can immediately evaluate them and eliminate wasteful works.</p>
+        <h3>How can Nippo help managers and HRD</h3>
+        <p class="Nippo-merupakan-sist">With Nippo’s features, managers and HRD can accurately monitor the productivity of each 
+          employee on a day-by-day basis, therefore allowing them to immediately evaluate their work 
+          and bring to light any wasteful or unnecessary tasks within each of their routines.</p>
       </li>
       <li class="-Bagaimana-cara-ke">
-        <h3>I might need a clearer guide in using Nippo. Will I get it?</h3>
-        <p class="Nippo-merupakan-sist">Don’t worry. We provide usage guidelines for you. If you still find it difficult, you can contact us directly.</p>
+        <h3>I might require clearer guidelines in regards to the application. Will this be possible?</h3>
+        <p class="Nippo-merupakan-sist">Don’t worry, we provide user guidelines along with the application. If you are still uncertain about some features, then you can contact us directly.</p>
       </li>
       <li class="-Bagaimana-cara-ke">
-        <h3>We are interested in using Nippo for our company. How can we get it?</h3>
-        <p class="Nippo-merupakan-sist">You can contact us directly through one of the contacts we provide. We are ready to serve you.</p>
+        <h3>Our company is interested in using the Nippo System. How do we proceed?</h3>
+        <p class="Nippo-merupakan-sist">Thank you for using our services. You can inform us directly through one of the contacts we have provided.</p>
       </li>
       <li class="-Bagaimana-cara-ke">
-        <h3>What’s the different between managing page for staff and for managers?</h3>
-        <p class="Nippo-merupakan-sist">Managers page has an evaluation function so they can give evaluation scores to the staff instantly. Staff page only has a daily report function.</p>
+        <h3>What’s the difference in interface options available to staff and managers?</h3>
+        <p class="Nippo-merupakan-sist">Managers are able to evaluate each employee based on their overall working performance in 
+          the form of a score. Staff, on the other hand, can only input their daily report.</p>
       </li>
       <li class="-Bagaimana-cara-ke">
-        <h3>Is Nippo accessible to any browser?</h3>
-        <p class="Nippo-merupakan-sist">Yes, Nippo can be accessed by any browser, including by browsers on mobile devices. If you have a problem and need assistance, please do not hesitate to contact us.</p>
+        <h3>Is Nippo compatible with any browser?</h3>
+        <p class="Nippo-merupakan-sist">Yes, Nippo can be accessed through any browser, including mobile device based browsers. If 
+          you have a problem and require assistance, please do not hesitate to contact us.</p>
       </li>
       <li class="-Bagaimana-cara-ke">
-        <h3>Is Nippo only for certain types of companies?</h3>
+        <h3>Is Nippo only compatible with certain types of companies?</h3>
         <p class="Nippo-merupakan-sist">No. Nippo is designed to meet the needs of any type of company.</p>
       </li>
       <li class="-Bagaimana-cara-ke">
         <h3>Is Nippo accessible on mobile phones?</h3>
-        <p class="Nippo-merupakan-sist">Yes, Nippo works well on mobile platforms.</p>
+        <p class="Nippo-merupakan-sist">Yes, Nippo can function on mobile platforms.</p>
       </li>
     </ol>
     </div>
@@ -434,7 +456,9 @@ if(isset($_POST['submitted']))
     <div class="col-md-12 text-center">
       <div class="col-md-12">
         <img src="img/nippo/logo-nippo-footer.png" alt="Nippo Logo" style="padding-top: 49.2px">
-        <p class="Nippo-adalah-aplikas2">Nippo is a web-based system that can manage, monitor, and evaluate employees’ productivity through daily reports. Nippo provides systemized daily reports that can be customized to show tasks, projects, cost management, and employees’ assessment.</p>
+        <p class="Nippo-adalah-aplikas2">Nippo is a web-based system that can manage, monitor and evaluate each employee’s 
+          productivity through the use of daily reports. Nippo provides a systemized daily reporting 
+          system that can be customized to fit individual employee’s tasks and work assessment.</p>
       </div>
     </div>
   </div>
