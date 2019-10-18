@@ -1248,6 +1248,12 @@ html[lang=ja] .partner-section .div-main p {
     }
 }
 
+@media (max-width: 1030px) and (orientation: landscape) {
+    .studi-kasus {
+        text-align: center;
+    }
+}
+
 @media (max-width:768px) {
     .tagline {
         margin-bottom: 18px
