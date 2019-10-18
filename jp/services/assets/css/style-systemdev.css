@@ -5,6 +5,11 @@ body {
     background-color: #fff;
     overflow-x: hidden;
 } 
+.justify-content-center{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 header {
     background: url(../img/img-systemdev/img1.jpg);
     background-repeat: no-repeat;
@@ -12,36 +17,59 @@ header {
     width: 100%;
     height: 100vh;
     text-align: center;
-    padding-top: 90px;
-    padding-bottom: 90px;
+    padding-top: 120px; /** was 90px **/
+    padding-bottom: 240px;
 }
-header h1 {
+header h1{
     font-family: 'Lato', serif;
     font-size: 36px;
     color: #333;
     letter-spacing: 2px;
     padding-left: 1em;
-    padding-right: 1em;
+    /* padding-right: 1em; */
+}
+
+header h2 {
+    font-family: 'Lato', serif;
+    font-size: 28px;
+    color: #333;
+    letter-spacing: 2px;
+    padding-left: 1em;
+}
+
+.yellow-stripes{
+    width: calc(100% - 1em);
+    height: fit-content;
+    object-fit: cover;
+    margin-bottom: 20px;
 }
 
 .style-1 {
     background-color: #fff;
+    font-family: 'Lato', serif;
+    font-weight: 500px;
 }
 .style-1 h2 {font-weight: 200;font-size: 28px; line-height: 40px}
 .style-1 p {font-size: 18px}
 .underline {border-bottom: solid 8px #ebc033;padding-bottom: 20px;}
 .underline2 {border-bottom: solid 8px #ebc033;padding-bottom: 1.2em;}
 .style-2 {
-    background: url(../img/img-systemdev/img2.jpg)   ;    
+    background: url(../img/img-systemdev/banner.png);    
     color: #fff;
     height: 500px;
     background-repeat: no-repeat;
     background-size: 100%;
     
     }
-.style-3 {background: #fff;color: #111;padding-top: 0;}
+.style-3 {
+    background: url(../img/img-systemdev/black-line-1.png) no-repeat;
+    background-color: rgba(225,225,225,0.6);
+    background-position: center;
+    background-size: cover;
+    color: #111;
+    padding-top: 0;}
 .new1 {
-    height: 55px;
+    height: 35px;
     text-align: center;
     font-weight: 600;
     font-size: 19px;
@@ -56,6 +84,24 @@ header h1 {
     color: #ffff;
     font-weight: 800;
     letter-spacing: 1px;}
+.supposedly-style4{
+    background: url(../img/img-systemdev/black-line-2.png) no-repeat;
+    background-color: #fff;
+    background-position-y: bottom;
+    background-size: contain;
+    font-family: 'Lota', serif;
+}
+.supposedly-style4 p{
+    font-weight: 500;
+}
+.dark-gold-title{
+    background-color: #000;
+    color: rgb(255, 205, 56);
+    font-family: 'Lato', serif;
+    font-weight: 500;
+    width: fit-content;
+    padding: 12px 24px;
+}
 .style-4{
     background: url(../img/img-systemdev/img3.jpg); 
     background-position: left center;background-size: cover;height: -webkit-fill-available;}
@@ -78,12 +124,13 @@ header h1 {
     top: 50%;
 }
 .new2 {font-weight: bold;letter-spacing: 2px;}
-.new3 {font-weight: bold;letter-spacing: 1px;}
+.new3 {font-weight: 500;letter-spacing: 1px; font-family: 'Lato', serif;}
 .new4 {text-align: justify;color: #666}
 .bold {font-weight: bold}
 .new5{
     position: absolute;
-    bottom: -10.5em;
+    bottom: -25em; /** was -6.5 **/
+    font-family: 'Lato', serif; 
 }
 .style-6{
     background: url(../img/img-systemdev/img4.jpg); 
@@ -103,7 +150,7 @@ header h1 {
 
 
 
-.language-btn {position: absolute;right: 0;top: -65px;}
+.language-btn {position: absolute;right: 0;top: -115px;} /** top was -65px **/
 .list-inline>li.active {border: solid 2px #ebc033;border-radius: 1em;padding: 3px 6px;}
 .list-inline>li a {color: #fff}
 .m-t-15em{margin-top: 15em;}
@@ -225,7 +272,25 @@ section {
     margin-right: -12px;
 }
 
+.breadcrumb-position{
+    position: absolute;
+    top: -115px;
+    left: calc(20vh - 2em);
+}
+.breadcrumb>li a{
+    color: #ffca13;
+    font-family: 'Lato', serif;
+}
 
+.breadcrumb> .active >a{
+    color: #fff;
+}
+
+.breadcrumb>li+li:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: ">"!important;
+}
 
 .img-fluid {
     width: 100%;
@@ -577,12 +642,18 @@ section,footer{margin-left:95px}
     .tahap-pemesanan-list{background:none;padding:0}
     .style-2{
         height: 400px;
+        background-position-x: -100px;
+        width:100%;
     }
     .new5{
-        bottom: -7em;
-        width: 400px;
+        bottom: -16em; /** was -6em **/
+        right: 3em; /** was 2em **/
+        width: calc(50vw - 1vh);
         margin-top:0;
-
+        padding-bottom: 1em;
+        font-size: 18px;
+        font-family: 'Lato', serif;
+        font-weight: 100;
     }
 
     .m-new{
@@ -594,11 +665,17 @@ section,footer{margin-left:95px}
     header .m-t-10em{
         margin-top: 1em;
     }
-    header  h1{
+    header  h1, header h2{
         padding: 0;
     }
+    .bg-header-txt{
+        background-color: rgba(225,225,225,0.6);
+    }
     .language-btn {
-        top: -80px;
+        top: -115px; /** was -80px */
+    }
+    .breadcrumb-position {
+        left: 65px;
     }
 
 }
@@ -623,6 +700,7 @@ section,footer{margin-left:95px}
     section,footer{margin-left:0}
     .nav-lp .navbar-collapse {margin-top: -90px;}
     .language-btn {right: auto;left: 10px;}
+    .breadcrumb-position{right: auto; left: -5px;}
     .btn-portfolio {padding: 10px 15px;}
 
 body {overflow-x: hidden;}
@@ -687,21 +765,28 @@ footer {padding-bottom: 0}
         margin-top: 0;
     }
     .language-btn {
-        top: -70px;
+        top: -75px; /** was -70px **/
     }
     .style-2{
         position: relative;
+        background-position-x: -50px;
     }
     .style-1 h2{
         font-size: 24px;
         line-height: 36px;
+        font-weight: 595;
     }
     .new5{
         bottom: 0;
-        top: 35px;
+        top: 15px;
         right: 10px;
         font-size: 24px;
-        width: 210px; 
+        width: 245px; 
+        font-family: 'Lato', serif;
+    }
+    .new5 h2{
+        font-size: 1.2rem;
+        font-weight: 100;
     }
 
     .btn-container-contact {
@@ -710,12 +795,16 @@ footer {padding-bottom: 0}
     header{
         padding-bottom: 30px;
     }
-    header h1.m-new{
-      background:rgba(225,225,225,0.6);
+    header h1.m-new, header h2.m-new{
+      /* background:rgba(225,225,225,0.6); */
        /*   background: rgba(1,1,1,0.5);*/
         text-shadow: none;
         padding:20px;
         font-size: 28px;
+        font-weight: 595;
+    }
+    .bg-header-txt{
+        background-color: rgba(225,225,225,0.6);
     }
     .other-stydycase .row > div {
         margin-bottom: 20px;
