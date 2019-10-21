@@ -145,8 +145,13 @@ header h2 {
     font-size: 40px;
     font-weight: bold;
     padding-left: 10px;
-    letter-spacing: 2px;}
+    letter-spacing: 2px;
+}
 
+.bg-header-txt{
+    position: relative;
+    top: 10vh;
+}
 
 
 .language-btn {position: absolute;right: 0;top: -115px;} /** top was -65px **/
@@ -668,7 +673,9 @@ section,footer{margin-left:95px}
         padding: 0;
     }
     .bg-header-txt{
-        background-color: rgba(225,225,225,0.6);
+        background-color: rgb(252,203,13,0.7);
+        margin-left: 55%;
+        position: unset;
     }
     .language-btn {
         top: -115px; /** was -80px */
@@ -798,12 +805,18 @@ footer {padding-bottom: 0}
       /* background:rgba(225,225,225,0.6); */
        /*   background: rgba(1,1,1,0.5);*/
         text-shadow: none;
-        padding:20px;
-        font-size: 28px;
+        padding:10px;
+        font-size: large;
         font-weight: 595;
     }
     .bg-header-txt{
-        background-color: rgba(225,225,225,0.6);
+        margin-left: 0;
+        margin-top: 29vh;
+        position: relative;
+        top: 39px;
+        font-size: 2px!important;
+        color: #fff;
+        background: rgb(252,203,13,0.7);
     }
     .other-stydycase .row > div {
         margin-bottom: 20px;
