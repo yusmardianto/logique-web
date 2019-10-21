@@ -6,9 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Dicari Full Stack Product Developer yang tersertifikasi sebagai CEH dan CSCU yang mampu mengevaluasi hasil VATest / Pentest, mengimplementasi dan merekomendasikan tindakan preventif. Diutamakan pemahaman kode etik hacking, thread modelling, commercial mapping, penetration testing web, app, dan network.">
+    content="Dicari Product Developer yang berpengalaman di bidang Web dan development system minimal 2 tahun, terampil dalam management dan komunikasi antar tim development dan klien, menangani  keseluruhan proyek mulai dari perencanaan, proposal, hingga pengembangan. Memiliki PMP certification lebih disukai">
   <meta name="keywords"
-    content="lowongan, kerja, jakarta, yogyakarta, remote job jakarta, kerja remote jakarta, indonesia, web security, specialist, certified ethical hacker, certified secure computer user, ec council, information security architecture, penetration testing, thread modelling tool, commercial mapping, open source modelling tool, penetration system testing, web based app, aplikasi web based, networking, network security, working independently, hacking code of ethics, kode etik hacking, scripting, CEH, CSCU, vatest, pentest, preventive measure, API, Yogya">
+    content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, indonesia, Product Manager, IT Product manager, web development manager, Product management, planning, proposal, report, cloud server, PMP certification">
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
@@ -16,16 +16,16 @@
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
   <meta property="og:description"
-    content="Tertarik dan berpengetahuan yang baik dalam bidang pembuatan website, web sistem, atau aplikasi mobile? Bisa bekerja dibawah tekanan dan berkoordinasi dengan baik? Bergabunglah dengan PT LOGIQUE sebagai Pre-sales Consultant.">
+    content="Dicari Product Developer yang telah berpengalaman di bidang IT dan Web selama lebih dari 3 tahun, terampil dalam management dan komunikasi antar tim development dan klien, serta menangani proyek secara keseluruhan mulai dari perencanaan, proposal, hingga pengembangan.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan - Full Stack Product Developer</title>
+  <title>Lowongan - Product Developer</title>
 
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "JobPosting",
-    "title": "Full Stack Product Developer",
-    "url": "https://www.logique.co.id/career/detail/fullstack-product-developer.php",
+    "title": "Product Developer",
+    "url": "https://www.logique.co.id/career/detail/product-manager.php",
     "hiringOrganization": {
       "@type": "Corporation",
       "name": "Logique Digital Indonesia",
@@ -182,8 +182,8 @@
                       href="/career"><span itemprop="name">Karir</span></a>
                     <meta itemprop="position" content="1" />
                   </li>
-                  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">Full
-                    Stack Product Developer
+                  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">Product
+                    Developer
                     <meta itemprop="position" content="2" />
                   </li>
                 </ol>
@@ -196,12 +196,11 @@
           <div class="container">
             <div class="row">
               <div class="col-md-6 text-center">
-                <h1><img src="/img/career/consultant.png" style="filter: contrast(0%) brightness(150%);"> Full Stack
-                  Product Developer
-                </h1>
+                <h1><img src="/img/career/pm.png" style="filter: contrast(0%) brightness(150%);">
+                  Product Developer</h1>
               </div>
               <div class="col-md-5 text-center">
-                <!-- <div class="urgent-need"><img src="/img/career/urgent.png"></div> -->
+                <div class="urgent-need"><img src="/img/career/urgent.png"></div>
               </div>
             </div>
           </div>
@@ -212,52 +211,58 @@
             <div class="row">
               <div class="col-md-offset-1 col-md-10">
                 <div class="content-vacancy">
-                  <b class="getN">Job Description:</b><br>
-                  <ul class="joinus-ul">
-                    <li>Merancang dan mengembangkan aplikasi web.</li>
-                    <li>Melakukan perancangan, pengujian, pemeliharaan dan pengembangan product.
-                    </li>
-                    <li>Melakukan analisa masalah untuk mencari solusi teknis yang tepat dan efektif
-                      dalam pengembangan product.</li>
-                  </ul><br>
-                  <b class="getN">Must Skill/Experience:</b><br>
-                  <ul class="joinus-ul">
-                    <li>Memiliki gelar pendidikan D3/S1 di bidang IT, atau lainnya yang relevan.
-                    </li>
-                    <li>Memiliki pengalaman lebih dari 1 tahun sebagai FullStack</li>
-                    <li>Memiliki pemahaman yang mendalam tentang frameworks PHP seperti Laravel,
-                      Cake PHP, atau sejenisnya.</li>
-                    <li>Mampu menggunakan atau membuat RESTful API dengan baik.</li>
-                    <li>Mampu menggunakan HTML, CSS, Javascript, atau sejenis untuk pembuatan user
-                      interface pada website.</li>
-                  </ul><br>
-                  <b class="getN">Required skill:</b><br>
-                  <ul class="joinus-ul">
-                    <li>Memiliki kemampuan pemecahan masalah yang baik dan efisien.</li>
-                    <li>Mampu bekerja dalam tekanan dan deadline sesuai dengan kebutuhan klien.</li>
-                    <li>Berpengalaman dalam pembuatan WEB/Sistem</li>
-                  </ul><br>
-                  <b class="getN">Preferable</b><br>
-                  <ul class="joinus-ul">
-                    <li>Mampu bekerja sama dalam tim maupun individu.</li>
-                    <li>Dapat melakukan kerja sama secara efektif dengan divisi lain.</li>
-                    <li>Dapat bekeja dengan teliti dan timely manner.</li>
-                    <li>High motivated and initiative person.</li>
-                  </ul><br>
-                  <b class="getN">Rewards dan Worthwhile</b><br>
-                  <ul class="joinus-ul">
-                    <li>Menangani berbagai macam jenis proyek dengan kebutuhan yang berbeda-beda.
-                    </li>
-                  </ul><br>
-                  <b class="getN">Location</b><br>
-                  <ul class="joinus-ul">
-                    <li>Jakarta</li>
-                  </ul><br>
                   <div class="div-job desc-job">
+                    <b class="getN">Job Description</b><br>
+                    <ul class="joinus-ul">
+                      <li>Merancang dan mengembangkan aplikasi web.</li>
+                      <li>Melakukan perancangan, pengujian, pemeliharaan dan pengembangan product.
+                      </li>
+                      <li>Melakukan analisa masalah untuk mencari solusi teknis yang tepat dan efektif
+                        dalam pengembangan product.</li>
+                    </ul><br>
+
+                    <b class="getN">Must Skill/Experience</b><br>
+                    <ul class="joinus-ul">
+                      <li>Memiliki gelar pendidikan D3/S1 di bidang IT, atau lainnya yang relevan.
+                      </li>
+                      <li>Memiliki pengalaman lebih dari 1 tahun sebagai FullStack</li>
+                      <li>Memiliki pemahaman yang mendalam tentang frameworks PHP seperti Laravel,
+                        Cake PHP, atau sejenisnya.</li>
+                      <li>Mampu menggunakan atau membuat RESTful API dengan baik.</li>
+                      <li>Mampu menggunakan HTML, CSS, Javascript, atau sejenis untuk pembuatan user
+                        interface pada website.</li>
+                    </ul><br>
+
+                    <b class="getN">Required Skill</b><br>
+                    <ul class="joinus-ul">
+                      <li>Good in English</li>
+                      <li>Memiliki kemampuan pemecahan masalah yang baik dan efisien.</li>
+                      <li>Mampu bekerja dalam tekanan dan deadline sesuai dengan kebutuhan klien.</li>
+                      <li>Berpengalaman dalam pembuatan WEB/Sistem</li>
+                    </ul><br>
+
+                    <b class="getN">Preferable</b><br>
+                    <ul class="joinus-ul">
+                      <li>Mampu bekerja sama dalam tim maupun individu.</li>
+                      <li>Dapat melakukan kerja sama secara efektif dengan divisi lain.</li>
+                      <li>Dapat bekeja dengan teliti dan timely manner.</li>
+                      <li>High motivated and initiative person.</li>
+                    </ul><br>
+
+                    <b class="getN">Rewards and worthwhile</b><br>
+                    <ul class="joinus-ul">
+                      <li>Menangani berbagai macam jenis proyek dengan kebutuhan yang berbeda-beda.
+                      </li>
+                    </ul><br>
+                    <b class="getN">Location</b><br>
+                    <ul class="joinus-ul">
+                      <li>Jakarta</li>
+                    </ul>
+                    <br>
                     <div class="text-center">
                       <br>
-                      <a class="btn btn-yellow smooth" id="apply-full-stack" href="https://logique.sugoisaiyo.com/"
-                        onclick="ga('send', 'event', 'Full-Stack-Product-Dev-Apply-Button', 'Action-Click', 'Full-Stack-Product-Dev-Apply-Button-Label');"
+                      <a class="btn btn-yellow smooth" id="apply-pm" href="https://logique.sugoisaiyo.com/"
+                        onclick="ga('send', 'event', 'PD-Apply-Button', 'Action-Click', 'PD-Apply-Button-Label');"
                         target="_blank" rel="noreferrer">Apply</a>
                     </div>
                   </div>
@@ -280,7 +285,8 @@
     $(function() {
       $('.smooth').click(function() {
         if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location
-          .hostname == this.hostname) {
+          .hostname ==
+          this.hostname) {
           var target = $(this.hash);
           target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
           if (target.length) {
@@ -299,7 +305,7 @@
     // random vacancies for non-tech related range = 4-5
     // random vacancies for intern related range = 6-7
     // var randomdiv = Math.floor(Math.random() * $('.itemdiv').length);
-    var randomdiv = Math.floor(Math.random() * (4 - 0) + 0);
+    var randomdiv = Math.floor(Math.random() * (6 - 4) + 4);
     $('.itemdiv').hide().eq(randomdiv).show();
     </script>
 

@@ -87,7 +87,8 @@
             <div class="boxfull">Fulltime</div>
           </div>
           <div class="panel-footer">
-            <p><img src="/img/career/siren.png" /> Urgently Needed</p>
+            <!-- <p><img src="/img/career/siren.png" /> Urgently Needed</p> -->
+            <p></p>
             <div class="text-center">
               <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;"
                 href="fullstack-product-developer.php">Detail</a>
@@ -318,13 +319,14 @@
           <div class="panel-body">
             <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
             <img src="/img/career/pm.png" />
-            <h3 style=" font-size: 20px; height: 37px; ">Product Manager</h3>
+            <h3 style=" font-size: 20px; height: 37px; ">Product Developer</h3>
             <div class="boxfull">Fulltime</div>
           </div>
           <div class="panel-footer">
             <p><img src="/img/career/siren.png" /> Urgently Needed</p>
             <div class="text-center">
-              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="product-manager.php">Detail</a>
+              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;"
+                href="product-developer.php">Detail</a>
             </div>
           </div>
         </div>
