@@ -6,19 +6,65 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Multinasional Digital Agency membuka lowongan Inside Sales yang handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital. Berpengalaman minimal 2 tahun, mampu bekerja sesuai target dan customer oriented. Salary negotiable">
+    content="Lowongan Sr. Digital Marketing Strategist untuk yang telah tebiasa dengan SEO dan optimasi web dari sisi teknis / konten, menganalisis dan mengoptimalkan web menggunakan analytical tools. Kemampuan programming dan copywriting merupakan nilai plus.">
   <meta name="keywords"
-    content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta,  networking, marketing, quality assurance, ui, ux, ui/ux, ab testing, a/b testing, pengujian produk, Git, JIRA, Mantis, TestRail, API test, mysql, postgres, linux, windows, software design, Engineering Computer Science, siklus QA, metodologi QA, documentation, problem solving, product execution, analysis, end user script, pengujian skenario, app performance testing">
+    content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, networking, marketing, digital marketing, digital marketing specialist, digital marketing strategist, indonesia, seo, web optimization, copywriting, content creator, web traffic, boosting, creative content">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Lowongan - Intern Digital Marketing Strategist">
+  <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
   <meta property="og:description"
-    content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Inside Sales">
+    content="Lowongan Sr. Digital Marketing Strategist untuk yang telah tebiasa dengan SEO dan optimasi web dari sisi teknis / konten, menganalisis dan mengoptimalkan web menggunakan analytical tools. Kemampuan programming dan copywriting merupakan nilai plus.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan - Intern Digital Marketing Strategist</title>
+  <title>Lowongan - Sr. Digital Marketing Strategist</title>
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "title": "Sr. Digital Marketing Strategist",
+    "url": "https://www.logique.co.id/career/detail/sr-digital-marketing.php",
+    "hiringOrganization": {
+      "@type": "Corporation",
+      "name": "Logique Digital Indonesia",
+      "url": "https://www.logique.co.id",
+      "logo": "https://www.logique.co.id/img/logo.png",
+      "contactPoint": [{
+        "@type": "ContactPoint",
+        "telephone": "(+6221) 22708935",
+        "contactType": "customer service"
+      }, {
+        "@type": "ContactPoint",
+        "telephone": "(+6221) 22708936",
+        "contactType": "customer service"
+      }]
+    },
+    "jobBenefits": "Medical, Life, Dental",
+    "datePosted": "2019-10-14",
+    "description": "Job Description:<ul><li>Menganalisis dan memantau website performance, digital ads, dan media sosial di berbagai platform</li><li>Membuat strategi berdasarkan analisis untuk meningkatkan web performance</li><li>Berkolaborasi dengan developer, designers, dan content writers dalam mengoptimasi setiap platform dan website untuk mendapatkan hasil yang lebih baik</li><li>Menjaga hubungan baik dengan klien dan membantu mereka mencapai business goals dengan strategi digital marketing</li></ul><br><br>Requirements:<ul><li>Berpengalaman minimal 3 tahun di dunia digital marketing</li><li>Data-driven, logis, dan dapat berpikir strategis</li><li>Terbiasa menganalisa dan mengoptimasi dengan menggunakan digital marketing tools seperti: Google Analytics, Google Ads (Search Ads, GDN Ads, Youtube Ads), Facebook / Instagram Ads, Twitter Ads, Linked In Ads</li></ul> ",
+    "educationRequirements": "Berpengalaman minimal 3 tahun di dunia digital marketing.",
+    "employmentType": "FULL_TIME",
+    "experienceRequirements": "Berpengalaman minimal 3 tahun di dunia digital marketing.",
+    "industry": "Computer Software",
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Jakarta",
+        "addressRegion": "D.K.I. Jakarta",
+        "postalCode": "12550",
+        "streetAddress": "19th Floor, AD Premier, Jl. TB Simatupang No.5, RT.5/RW.7, Ragunan, Kec. Ps. Minggu"
+      }
+    },
+    "occupationalCategory": "Software Developers, Application, Website Developers",
+    "qualifications": "Berpengalaman minimal 3 tahun di dunia digital marketing",
+    "responsibilities": "Menganalisis dan memantau website performance, digital ads, dan media sosial di berbagai platform",
+    "skills": "Terbiasa menganalisa dan mengoptimasi dengan menggunakan digital marketing tools seperti: Google Analytics, Google Ads (Search Ads, GDN Ads, Youtube Ads), Facebook / Instagram Ads, Twitter Ads, Linked In Ads",
+    "workHours": "40 hours per week"
+  }
+  </script>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -136,7 +182,7 @@
                       href="/career"><span itemprop="name">Karir</span></a>
                     <meta itemprop="position" content="1" />
                   </li>
-                  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">Intern
+                  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">Sr.
                     Digital Marketing Strategist
                     <meta itemprop="position" content="2" />
                   </li>
@@ -150,7 +196,7 @@
           <div class="container">
             <div class="row">
               <div class="col-md-6 text-center">
-                <h1><img src="/img/career/marketing.png" style="filter: contrast(0%) brightness(150%);"> Intern
+                <h1><img src="/img/career/marketing.png" style="filter: contrast(0%) brightness(150%);"> Sr.
                   Digital Marketing Strategist</h1>
               </div>
               <div class="col-md-5 text-center">
@@ -168,55 +214,47 @@
                   <div class="div-job desc-job">
                     <b class="getN">Job Description:</b><br>
                     <ul class="joinus-ul">
-                      <li>Menganalisis dan memantau kinerja situs web, digital ads, dan media
-                        sosial dengan di berbagai platform.</li>
-                      <li>Menyarankan strategi untuk meningkatkan kinerja berdasarkan analisis
+                      <li>Menganalisis dan memantau website performance, digital ads, dan media
+                        sosial di berbagai platform</li>
+                      <li>Membuat strategi berdasarkan analisis untuk meningkatkan web performance
                       </li>
-                      <li>Terus menyesuaikan performa setiap platform dan situs web untuk
-                        mendapatkan hasil yang lebih baik dengan berkolaborasi dengan web
-                        developer, content writer, dan design.</li>
-                      <li>Mengoptimalkan performa dengan orientasi terhadap target hasil atau
-                        conversion yang dibutuhkan client/customer</li>
+                      <li>Berkolaborasi dengan developer, designers, dan content writers dalam
+                        mengoptimasi setiap platform dan website untuk mendapatkan hasil yang
+                        lebih baik</li>
+                      <li>Menjaga hubungan baik dengan klien dan membantu mereka mencapai business
+                        goals dengan strategi digital marketing</li>
                     </ul>
                     <br>
 
-                    <b class="getN">Terbiasa dalam menganalisis dan mengoptimalkan tool yang terkait
-                      dengan digital marketing, seperti: </b><br>
+                    <b class="getN">Requirements:</b><br>
                     <ul class="joinus-ul">
-                      <li>Google Analytics</li>
-                      <li>Google Ads (Search Ads, GDN Ads, Youtube Ads)</li>
-                      <li>Facebook / Instagram Ads</li>
-                      <li>Twitter Ads</li>
-                      <li>Linked In Ads</li>
-                      <li>Berpengalaman dalam hal memberikan konsultasi/saran/diskusi dengan
-                        client/customer</li>
-                      <li>Mampu menyajikan laporan yang analitis dan terstruktur sesuai kebutuhan
-                        client/customer</li>
+                      <li>Berpengalaman minimal 3 tahun di dunia digital marketing</li>
+                      <li>Data-driven, logis, dan dapat berpikir strategis</li>
+                      <li>Terbiasa menganalisa dan mengoptimasi dengan menggunakan digital
+                        marketing tools seperti:
+                        <ol style="list-style-type: lower-alpha; padding-left: 20px;">
+                          <li>Google Analytics</li>
+                          <li>Google Ads (Search Ads, GDN Ads, Youtube Ads)</li>
+                          <li>Facebook / Instagram Ads</li>
+                          <li>Twitter Ads</li>
+                          <li>Linked In Ads</li>
+                        </ol>
+                      </li>
                     </ul>
                     <br>
 
-                    <b class="getN">Requirement</b><br>
+                    <b class="getN">Preferable:</b><br>
                     <ul class="joinus-ul">
-                      <li>Mampu berpikir logis & strategis.</li>
-                      <li>Terbiasa dengan SEO dan optimasi web dalam hal teknis dan konten.</li>
+                      <li>Berbahasa Inggris</li>
+                      <li>Presentasi</li>
+                      <li>Coding</li>
+                      <li>Design</li>
+                      <li>SEO</li>
+                      <li>Social Media Management</li>
+                      <li>Content writing</li>
                     </ul>
                     <br>
 
-                    <b class="getN">Lebih disukai (tidak harus dimiliki) </b><br>
-                    <ul class="joinus-ul">
-                      <li>Keterampilan programming.</li>
-                      <li>Bahasa Inggris yang komunikatif.</li>
-                      <li>Keterampilan menulis konten</li>
-                      <li>Keterampilan manajemen media sosial</li>
-                      <li>Keterampilan desain</li>
-                    </ul>
-                    <br>
-
-                    <!-- <b class="getN">Rewards and worthwhile</b><br>
-										<ul class="joinus-ul">
-										<li>Pekerjaan mencakup berbagai macam bidang dan client.</li>
-										</ul>
-										<br> -->
                     <b class="getN">Location</b><br>
                     <ul class="joinus-ul">
                       <li>Jakarta</li>
@@ -224,9 +262,8 @@
                     <br>
                     <div class="text-center">
                       <br>
-                      <a class="btn btn-yellow smooth" id="apply-intern-dm-strategist"
-                        href="https://logique.sugoisaiyo.com/"
-                        onclick="ga('send', 'event', ' Intern-DM-Strategist-Apply-Button', 'Action-Click', ' Intern-DM-Strategist-Apply-Button-Label');"
+                      <a class="btn btn-yellow smooth" id="apply-web-dev" href="https://logique.sugoisaiyo.com/"
+                        onclick="ga('send', 'event', 'Web-Dev-Apply-Button', 'Action-Click', 'Web-Dev-Apply-Button-Label');"
                         target="_blank" rel="noreferrer">Apply</a>
                     </div>
                   </div>
@@ -268,7 +305,7 @@
     // random vacancies for non-tech related range = 4-5
     // random vacancies for intern related range = 6-7
     // var randomdiv = Math.floor(Math.random() * $('.itemdiv').length);
-    var randomdiv = Math.floor(Math.random() * (8 - 6) + 6);
+    var randomdiv = Math.floor(Math.random() * (6 - 4) + 4);
     $('.itemdiv').hide().eq(randomdiv).show();
     </script>
 
