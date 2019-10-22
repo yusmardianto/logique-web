@@ -277,14 +277,13 @@
           <div class="panel-body" style="height:198px;">
             <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
             <img src="/img/career/tc.png" />
-            <h3 style=" font-size: 21px; ">Technical Consultant</h3>
+            <h3 style=" font-size: 21px; ">Consultant</h3>
             <div class="boxfull">Fulltime</div>
           </div>
           <div class="panel-footer">
             <p></p>
             <div class="text-center">
-              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;"
-                href="technical-consultant.php">Detail</a>
+              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="consultant.php">Detail</a>
             </div>
           </div>
         </div>
@@ -336,14 +335,13 @@
           <div class="panel-body">
             <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
             <img src="/img/career/tc.png" />
-            <h3 style=" font-size: 21px; ">Technical Consultant</h3>
+            <h3 style=" font-size: 21px; ">Business Analyst</h3>
             <div class="boxfull">Fulltime</div>
           </div>
           <div class="panel-footer">
-            <p></p>
+            <p><img src="/img/career/siren.png" /> Urgently Needed</p>
             <div class="text-center">
-              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;"
-                href="technical-consultant.php">Detail</a>
+              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="business-analyst.php">Detail</a>
             </div>
           </div>
         </div>

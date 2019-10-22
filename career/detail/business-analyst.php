@@ -6,9 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Dicari Product Developer yang berpengalaman di bidang Web dan development system minimal 2 tahun, terampil dalam management dan komunikasi antar tim development dan klien, menangani  keseluruhan proyek mulai dari perencanaan, proposal, hingga pengembangan. Memiliki PMP certification lebih disukai">
+    content="Dicari Business Analyst yang mampu memberi saran strategis seputar teknologi, mendesain sistem dan IT network, merevisi sistem dan membantu masalah teknis. Must skill: sarjana, pengalaman IT consultant, sistem operasi dan database. Salary negotiable.">
   <meta name="keywords"
-    content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, indonesia, Product Manager, IT Product manager, web development manager, Product management, planning, proposal, report, cloud server, PMP certification">
+    content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta,  networking, Business Analyst, indonesia, web development, digital marketing, software consultation, salary, negotiable, sistem IT, komputer, IT, sistem operasi, database, analisa, skill, pengalaman, sarjana">
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
@@ -16,16 +16,16 @@
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
   <meta property="og:description"
-    content="Dicari Product Developer yang telah berpengalaman di bidang IT dan Web selama lebih dari 3 tahun, terampil dalam management dan komunikasi antar tim development dan klien, serta menangani proyek secara keseluruhan mulai dari perencanaan, proposal, hingga pengembangan.">
+    content="Dicari Business Analyst yang mampu menganalisa dan merekomendasikan solusi sistem web dan website terbaik untuk memecahkan masalah dalam proses bisnis. Seorang Business Analyst harus memiliki pengetahuan yang luas baik dari sisi bisnis maupun teknikal.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan - Product Developer</title>
+  <title>Lowongan - Business Analyst</title>
 
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "JobPosting",
-    "title": "Product Developer",
-    "url": "https://www.logique.co.id/career/detail/product-developer.php",
+    "title": "Business Analyst",
+    "url": "https://www.logique.co.id/career/detail/business-analyst.php",
     "hiringOrganization": {
       "@type": "Corporation",
       "name": "Logique Digital Indonesia",
@@ -43,10 +43,10 @@
     },
     "jobBenefits": "Medical, Life, Dental",
     "datePosted": "2019-10-14",
-    "description": "Job Description:<ul><li>Merancang dan mengembangkan aplikasi web.</li><li>Melakukan perancangan, pengujian, pemeliharaan dan pengembangan product.</li><li>Melakukan analisa masalah untuk mencari solusi teknis yang tepat dan efektif dalam pengembangan product.</li></ul><br><br>Must Skill/Experience:<ul><li>Memiliki gelar pendidikan D3/S1 di bidang IT, atau lainnya yang relevan.</li><li>Memiliki pengalaman lebih dari 1 tahun sebagai FullStack.</li><li>Memiliki pemahaman yang mendalam tentang frameworks PHP seperti Laravel, Cake PHP, atau sejenisnya.</li><li>Mampu menggunakan atau membuat RESTful API dengan baik.</li><li>Mampu menggunakan HTML, CSS, Javascript, atau sejenis untuk pembuatan user interface pada website.</li></ul>",
-    "educationRequirements": "Memiliki gelar pendidikan D3/S1 di bidang IT, atau lainnya yang relevan.",
+    "description": "Dicari Business Analyst yang mampu menganalisa dan merekomendasikan solusi sistem web dan website terbaik untuk memecahkan masalah dalam proses bisnis. Seorang Business Analyst harus memiliki pengetahuan yang luas baik dari sisi bisnis maupun teknikal.<br/><br/>Job Description:<br/><ul><li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li><li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li><li>Berkolaborasi dengan tim developer.</li><li>Mendesain sistem dan IT network, serta memastikan arsitektur dan fungsionalitas yang tepat.</li><li>Mendukung implementasi teknologi baru.</li><li>Melatih user dalam sistem IT baru dan yang sudah ada.</li><li>Memberikan bantuan untuk masalah teknis.</li><li>Merevisi sistem yang ada dan menyarankan perbaikan.</li><li>Menyajikan laporan yang tepat dan terstruktur.</li></ul><br/><br/>Required Skills:<br/><ul><li>Memiliki pengalaman sebagai IT Consultant minimal 1-2 tahun.</li><li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.</li><li>Memiliki kemampuan untuk memecahkan masalah pada hardware, software, dan network.</li><li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li><li>Bisa bekerja dalam tim.</li><li>Berorientasi pada pelayanan terhadap client/customer.</li><li>Memiliki kemampuan interpesonal yang luar biasa.</li></ul>",
+    "educationRequirements": "Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.",
     "employmentType": "FULL_TIME",
-    "experienceRequirements": "Memiliki pengalaman lebih dari 1 tahun sebagai FullStack",
+    "experienceRequirements": "Memiliki pengalaman sebagai IT Consultant minimal 1-2 tahun",
     "industry": "Computer Software",
     "jobLocation": {
       "@type": "Place",
@@ -59,9 +59,9 @@
       }
     },
     "occupationalCategory": "Software Developers, Application, Website Developers",
-    "qualifications": "Memiliki pengalaman lebih dari 1 tahun sebagai FullStack",
-    "responsibilities": "Merancang dan mengembangkan aplikasi web.",
-    "skills": "Memiliki pemahaman yang mendalam tentang frameworks PHP seperti Laravel, Cake PHP, atau sejenisnya.",
+    "qualifications": "Memiliki pengalaman sebagai IT Consultant minimal 1-2 tahun",
+    "responsibilities": "Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.",
+    "skills": "Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik",
     "workHours": "40 hours per week"
   }
   </script>
@@ -182,8 +182,8 @@
                       href="/career"><span itemprop="name">Karir</span></a>
                     <meta itemprop="position" content="1" />
                   </li>
-                  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">Product
-                    Developer
+                  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">Business
+                    Analyst
                     <meta itemprop="position" content="2" />
                   </li>
                 </ol>
@@ -196,8 +196,8 @@
           <div class="container">
             <div class="row">
               <div class="col-md-6 text-center">
-                <h1><img src="/img/career/pm.png" style="filter: contrast(0%) brightness(150%);">
-                  Product Developer</h1>
+                <h1><img src="/img/career/tc.png" style="filter: contrast(0%) brightness(150%);">
+                  Business Analyst</h1>
               </div>
               <div class="col-md-5 text-center">
                 <div class="urgent-need"><img src="/img/career/urgent.png"></div>
@@ -212,57 +212,64 @@
               <div class="col-md-offset-1 col-md-10">
                 <div class="content-vacancy">
                   <div class="div-job desc-job">
-                    <b class="getN">Job Description</b><br>
+                    <b class="getN">Job Description:</b><br>
                     <ul class="joinus-ul">
-                      <li>Merancang dan mengembangkan aplikasi web.</li>
-                      <li>Melakukan perancangan, pengujian, pemeliharaan dan pengembangan product.
+                      <li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
+                      <li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
+                      <li>Mengelola berkolaborasi dengan tim developer.</li>
+                      <li>Mendesain sistem dan IT network, serta memastikan arsitektur dan fungsionalitas yang tepat.
                       </li>
-                      <li>Melakukan analisa masalah untuk mencari solusi teknis yang tepat dan efektif
-                        dalam pengembangan product.</li>
-                    </ul><br>
-
+                      <li>Mendukung implementasi teknologi baru.</li>
+                      <li>Melatih pengguna dalam sistem IT baru dan yang sudah ada.</li>
+                      <li>Memberikan bantuan untuk masalah teknis.</li>
+                      <li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>
+                      <li>Menyajikan laporan yang tepat dan terstruktur.</li>
+                    </ul>
+                    <br>
                     <b class="getN">Must Skill/Experience</b><br>
                     <ul class="joinus-ul">
-                      <li>Memiliki gelar pendidikan D3/S1 di bidang IT, atau lainnya yang relevan.
-                      </li>
-                      <li>Memiliki pengalaman lebih dari 1 tahun sebagai FullStack</li>
-                      <li>Memiliki pemahaman yang mendalam tentang frameworks PHP seperti Laravel,
-                        Cake PHP, atau sejenisnya.</li>
-                      <li>Mampu menggunakan atau membuat RESTful API dengan baik.</li>
-                      <li>Mampu menggunakan HTML, CSS, Javascript, atau sejenis untuk pembuatan user
-                        interface pada website.</li>
-                    </ul><br>
-
+                      <li>Memiliki pengalaman sebagai IT Consultant minimal 1-2 tahun</li>
+                      <li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.</li>
+                      <li>Memiliki kemampuan untuk memecahkan masalah pada hardware, software, dan network.</li>
+                      <li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
+                      <li>Bisa bekerja dalam tim.</li>
+                      <li>Berorientasi pada pelayanan terhadap client/customer.</li>
+                      <li>Memiliki kemampuan interpesonal yang luar biasa.</li>
+                    </ul>
+                    <br>
                     <b class="getN">Required Skill</b><br>
                     <ul class="joinus-ul">
-                      <li>Good in English</li>
-                      <li>Memiliki kemampuan pemecahan masalah yang baik dan efisien.</li>
-                      <li>Mampu bekerja dalam tekanan dan deadline sesuai dengan kebutuhan klien.</li>
-                      <li>Berpengalaman dalam pembuatan WEB/Sistem</li>
-                    </ul><br>
-
+                      <li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik
+                      </li>
+                      <li>Memiliki kemampuan komunikasi dan presentasi yang sangat baik</li>
+                      <li>Kemampuan analisa yang baik </li>
+                      <li>Memiliki pengetahuan yang luas dengan dunia IT.</li>
+                    </ul>
+                    <br>
                     <b class="getN">Preferable</b><br>
                     <ul class="joinus-ul">
-                      <li>Mampu bekerja sama dalam tim maupun individu.</li>
-                      <li>Dapat melakukan kerja sama secara efektif dengan divisi lain.</li>
-                      <li>Dapat bekeja dengan teliti dan timely manner.</li>
-                      <li>High motivated and initiative person.</li>
-                    </ul><br>
-
+                      <li>Project Management</li>
+                      <li>Bahasa Inggris</li>
+                    </ul>
+                    <br>
                     <b class="getN">Rewards and worthwhile</b><br>
                     <ul class="joinus-ul">
-                      <li>Menangani berbagai macam jenis proyek dengan kebutuhan yang berbeda-beda.
-                      </li>
-                    </ul><br>
+                      <li>Akan selalu up to date tentang perkembangan dunia IT</li>
+                      <li>Kami memiliki client dari berbagai bidang industry, dan Anda bisa
+                        berhubungan dengan salah satunya. Hal itu bisa meningkatkan networking
+                        Anda</li>
+                      <li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji
+                        sebelumnya)</li>
+                    </ul>
+                    <br>
                     <b class="getN">Location</b><br>
                     <ul class="joinus-ul">
                       <li>Jakarta</li>
                     </ul>
-                    <br>
                     <div class="text-center">
                       <br>
-                      <a class="btn btn-yellow smooth" id="apply-pm" href="https://logique.sugoisaiyo.com/"
-                        onclick="ga('send', 'event', 'PD-Apply-Button', 'Action-Click', 'PD-Apply-Button-Label');"
+                      <a class="btn btn-yellow smooth" id="apply-ba" href="https://logique.sugoisaiyo.com/"
+                        onclick="ga('send', 'event', 'BA-Apply-Button', 'Action-Click', 'BA-Apply-Button-Label');"
                         target="_blank" rel="noreferrer">Apply</a>
                     </div>
                   </div>
@@ -285,8 +292,7 @@
     $(function() {
       $('.smooth').click(function() {
         if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location
-          .hostname ==
-          this.hostname) {
+          .hostname == this.hostname) {
           var target = $(this.hash);
           target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
           if (target.length) {
