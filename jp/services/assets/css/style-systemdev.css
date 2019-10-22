@@ -49,7 +49,7 @@ header h2 {
     font-family: 'Lato', serif;
     font-weight: 500px;
 }
-.style-1 h2 {font-weight: 200;font-size: 28px; line-height: 40px}
+.style-1 h2 {font-weight: 595;font-size: 28px; line-height: 40px}
 .style-1 p {font-size: 18px}
 .underline {border-bottom: solid 8px #ebc033;padding-bottom: 20px;}
 .underline2 {border-bottom: solid 8px #ebc033;padding-bottom: 1.2em;}
@@ -764,6 +764,15 @@ footer {padding-bottom: 0}
 }
 
 @media (max-width: 480px){
+    .breadcrumb-position{
+        top: -7vh;
+        background: #000;
+        width: 100vw;
+        left: 0;
+        right: 0;
+        text-align: left;
+        z-index: 2;
+    }
     .list-study-container .circle-list li{
         width: 100%;
     }
@@ -772,6 +781,10 @@ footer {padding-bottom: 0}
     }
     .language-btn {
         top: -75px; /** was -70px **/
+        width: 100%;
+        background: #000;
+        padding-bottom: 6px;
+        text-align: left;
     }
     .style-2{
         position: relative;
@@ -800,6 +813,7 @@ footer {padding-bottom: 0}
     }
     header{
         padding-bottom: 30px;
+        padding-top: 90px;
     }
     header h1.m-new, header h2.m-new{
       /* background:rgba(225,225,225,0.6); */

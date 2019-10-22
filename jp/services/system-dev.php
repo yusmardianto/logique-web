@@ -141,7 +141,7 @@
 				</div> -->
 			</div>
 			<div class="row">
-				<div style="background: #000;">
+				<div style="background: #000; font-weight: bold;">
 					<!-- breadcrumb -->
 					<div class="breadcrumb-position">
 						<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList" style="background:transparent;">
@@ -621,8 +621,6 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6">
-							<h1 class="new6"><span class="underline2">Wawancara</span><br>Klien</h1>
-							<br>
 							<h1 class="new6"><span class="underline2" style="padding: 0;">お客様の声</span></h1>
 						</div>
 						<div class="col-md-6">
