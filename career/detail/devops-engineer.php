@@ -197,7 +197,7 @@
                                         style="filter: contrast(0%) brightness(150%);"> DevOps Engineer</h1>
                             </div>
                             <div class="col-md-5 text-center">
-                                <div class="urgent-need"><img src="/img/career/urgent.png"></div>
+                                <!-- <div class="urgent-need"><img src="/img/career/urgent.png"></div> -->
                             </div>
                         </div>
                     </div>
@@ -268,23 +268,6 @@
                                         <li>Merancang, mengimplementasi dan menguji infrastruktur yang disepakati.</li>
                                         <li>Mengotomatiskan deployment aplikasi Linux, konfigurasi sistem dan pengaturan
                                             keamanan.</li>
-                                        <!-- </ul><br>
-									<b class="getN">Required skill:</b><br>
-									<ul class="joinus-ul">
-									<li>Memiliki kemampuan pemecahan masalah yang baik dan efisien.</li>
-									<li>Mampu bekerja dalam tekanan dan deadline sesuai dengan kebutuhan klien.</li>
-									<li>Berpengalaman dalam pembuatan WEB/Sistem</li>
-									</ul><br>
-									<b class="getN">Preferable</b><br>
-									<ul class="joinus-ul">
-									<li>Mampu bekerja sama dalam tim maupun individu.</li>
-									<li>Dapat melakukan kerja sama secara efektif dengan divisi lain.</li>
-									<li>Dapat bekeja dengan teliti  dan timely manner.</li>
-									<li>High motivated and initiative person.</li>
-									</ul><br>
-									<b class="getN">Rewards dan Worthwhile</b><br>
-									<ul class="joinus-ul">
-									<li>Menangani berbagai macam jenis proyek dengan kebutuhan yang berbeda-beda.</li> -->
                                     </ul><br>
                                     <b class="getN">Location</b><br>
                                     <ul class="joinus-ul">
