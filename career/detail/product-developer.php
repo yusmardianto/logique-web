@@ -6,9 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Lowongan Sr. Digital Marketing Strategist untuk yang telah tebiasa dengan SEO dan optimasi web dari sisi teknis / konten, menganalisis dan mengoptimalkan web menggunakan analytical tools. Kemampuan programming dan copywriting merupakan nilai plus.">
+    content="Dicari Product Developer yang berpengalaman di bidang Web dan development system minimal 2 tahun, terampil dalam management dan komunikasi antar tim development dan klien, menangani  keseluruhan proyek mulai dari perencanaan, proposal, hingga pengembangan. Memiliki PMP certification lebih disukai">
   <meta name="keywords"
-    content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, networking, marketing, digital marketing, digital marketing specialist, digital marketing strategist, indonesia, seo, web optimization, copywriting, content creator, web traffic, boosting, creative content">
+    content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta, indonesia, Product Manager, IT Product manager, web development manager, Product management, planning, proposal, report, cloud server, PMP certification">
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
@@ -16,16 +16,16 @@
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
   <meta property="og:description"
-    content="Lowongan Sr. Digital Marketing Strategist untuk yang telah tebiasa dengan SEO dan optimasi web dari sisi teknis / konten, menganalisis dan mengoptimalkan web menggunakan analytical tools. Kemampuan programming dan copywriting merupakan nilai plus.">
+    content="Dicari Product Developer yang telah berpengalaman di bidang IT dan Web selama lebih dari 3 tahun, terampil dalam management dan komunikasi antar tim development dan klien, serta menangani proyek secara keseluruhan mulai dari perencanaan, proposal, hingga pengembangan.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan - Sr. Digital Marketing Strategist</title>
+  <title>Lowongan - Product Developer</title>
 
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "JobPosting",
-    "title": "Sr. Digital Marketing Strategist",
-    "url": "https://www.logique.co.id/career/detail/sr-digital-marketing.php",
+    "title": "Product Developer",
+    "url": "https://www.logique.co.id/career/detail/product-manager.php",
     "hiringOrganization": {
       "@type": "Corporation",
       "name": "Logique Digital Indonesia",
@@ -43,10 +43,10 @@
     },
     "jobBenefits": "Medical, Life, Dental",
     "datePosted": "2019-10-14",
-    "description": "Job Description:<ul><li>Menganalisis dan memantau website performance, digital ads, dan media sosial di berbagai platform</li><li>Membuat strategi berdasarkan analisis untuk meningkatkan web performance</li><li>Berkolaborasi dengan developer, designers, dan content writers dalam mengoptimasi setiap platform dan website untuk mendapatkan hasil yang lebih baik</li><li>Menjaga hubungan baik dengan klien dan membantu mereka mencapai business goals dengan strategi digital marketing</li></ul><br><br>Requirements:<ul><li>Berpengalaman minimal 3 tahun di dunia digital marketing</li><li>Data-driven, logis, dan dapat berpikir strategis</li><li>Terbiasa menganalisa dan mengoptimasi dengan menggunakan digital marketing tools seperti: Google Analytics, Google Ads (Search Ads, GDN Ads, Youtube Ads), Facebook / Instagram Ads, Twitter Ads, Linked In Ads</li></ul> ",
-    "educationRequirements": "Berpengalaman minimal 3 tahun di dunia digital marketing.",
+    "description": "Job Description:<ul><li>Merancang dan mengembangkan aplikasi web.</li><li>Melakukan perancangan, pengujian, pemeliharaan dan pengembangan product.</li><li>Melakukan analisa masalah untuk mencari solusi teknis yang tepat dan efektif dalam pengembangan product.</li></ul><br><br>Must Skill/Experience:<ul><li>Memiliki gelar pendidikan D3/S1 di bidang IT, atau lainnya yang relevan.</li><li>Memiliki pengalaman lebih dari 1 tahun sebagai FullStack.</li><li>Memiliki pemahaman yang mendalam tentang frameworks PHP seperti Laravel, Cake PHP, atau sejenisnya.</li><li>Mampu menggunakan atau membuat RESTful API dengan baik.</li><li>Mampu menggunakan HTML, CSS, Javascript, atau sejenis untuk pembuatan user interface pada website.</li></ul>",
+    "educationRequirements": "Memiliki gelar pendidikan D3/S1 di bidang IT, atau lainnya yang relevan.",
     "employmentType": "FULL_TIME",
-    "experienceRequirements": "Berpengalaman minimal 3 tahun di dunia digital marketing.",
+    "experienceRequirements": "Memiliki pengalaman lebih dari 1 tahun sebagai FullStack",
     "industry": "Computer Software",
     "jobLocation": {
       "@type": "Place",
@@ -59,9 +59,9 @@
       }
     },
     "occupationalCategory": "Software Developers, Application, Website Developers",
-    "qualifications": "Berpengalaman minimal 3 tahun di dunia digital marketing",
-    "responsibilities": "Menganalisis dan memantau website performance, digital ads, dan media sosial di berbagai platform",
-    "skills": "Terbiasa menganalisa dan mengoptimasi dengan menggunakan digital marketing tools seperti: Google Analytics, Google Ads (Search Ads, GDN Ads, Youtube Ads), Facebook / Instagram Ads, Twitter Ads, Linked In Ads",
+    "qualifications": "Memiliki pengalaman lebih dari 1 tahun sebagai FullStack",
+    "responsibilities": "Merancang dan mengembangkan aplikasi web.",
+    "skills": "Memiliki pemahaman yang mendalam tentang frameworks PHP seperti Laravel, Cake PHP, atau sejenisnya.",
     "workHours": "40 hours per week"
   }
   </script>
@@ -182,8 +182,8 @@
                       href="/career"><span itemprop="name">Karir</span></a>
                     <meta itemprop="position" content="1" />
                   </li>
-                  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">Sr.
-                    Digital Marketing Strategist
+                  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">Product
+                    Developer
                     <meta itemprop="position" content="2" />
                   </li>
                 </ol>
@@ -196,8 +196,8 @@
           <div class="container">
             <div class="row">
               <div class="col-md-6 text-center">
-                <h1><img src="/img/career/marketing.png" style="filter: contrast(0%) brightness(150%);"> Sr.
-                  Digital Marketing Strategist</h1>
+                <h1><img src="/img/career/pm.png" style="filter: contrast(0%) brightness(150%);">
+                  Product Developer</h1>
               </div>
               <div class="col-md-5 text-center">
                 <div class="urgent-need"><img src="/img/career/urgent.png"></div>
@@ -212,49 +212,48 @@
               <div class="col-md-offset-1 col-md-10">
                 <div class="content-vacancy">
                   <div class="div-job desc-job">
-                    <b class="getN">Job Description:</b><br>
+                    <b class="getN">Job Description</b><br>
                     <ul class="joinus-ul">
-                      <li>Menganalisis dan memantau website performance, digital ads, dan media
-                        sosial di berbagai platform</li>
-                      <li>Membuat strategi berdasarkan analisis untuk meningkatkan web performance
+                      <li>Merancang dan mengembangkan aplikasi web.</li>
+                      <li>Melakukan perancangan, pengujian, pemeliharaan dan pengembangan product.
                       </li>
-                      <li>Berkolaborasi dengan developer, designers, dan content writers dalam
-                        mengoptimasi setiap platform dan website untuk mendapatkan hasil yang
-                        lebih baik</li>
-                      <li>Menjaga hubungan baik dengan klien dan membantu mereka mencapai business
-                        goals dengan strategi digital marketing</li>
-                    </ul>
-                    <br>
+                      <li>Melakukan analisa masalah untuk mencari solusi teknis yang tepat dan efektif
+                        dalam pengembangan product.</li>
+                    </ul><br>
 
-                    <b class="getN">Requirements:</b><br>
+                    <b class="getN">Must Skill/Experience</b><br>
                     <ul class="joinus-ul">
-                      <li>Berpengalaman minimal 3 tahun di dunia digital marketing</li>
-                      <li>Data-driven, logis, dan dapat berpikir strategis</li>
-                      <li>Terbiasa menganalisa dan mengoptimasi dengan menggunakan digital
-                        marketing tools seperti:
-                        <ol style="list-style-type: lower-alpha; padding-left: 20px;">
-                          <li>Google Analytics</li>
-                          <li>Google Ads (Search Ads, GDN Ads, Youtube Ads)</li>
-                          <li>Facebook / Instagram Ads</li>
-                          <li>Twitter Ads</li>
-                          <li>Linked In Ads</li>
-                        </ol>
+                      <li>Memiliki gelar pendidikan D3/S1 di bidang IT, atau lainnya yang relevan.
                       </li>
-                    </ul>
-                    <br>
+                      <li>Memiliki pengalaman lebih dari 1 tahun sebagai FullStack</li>
+                      <li>Memiliki pemahaman yang mendalam tentang frameworks PHP seperti Laravel,
+                        Cake PHP, atau sejenisnya.</li>
+                      <li>Mampu menggunakan atau membuat RESTful API dengan baik.</li>
+                      <li>Mampu menggunakan HTML, CSS, Javascript, atau sejenis untuk pembuatan user
+                        interface pada website.</li>
+                    </ul><br>
 
-                    <b class="getN">Preferable:</b><br>
+                    <b class="getN">Required Skill</b><br>
                     <ul class="joinus-ul">
-                      <li>Berbahasa Inggris</li>
-                      <li>Presentasi</li>
-                      <li>Coding</li>
-                      <li>Design</li>
-                      <li>SEO</li>
-                      <li>Social Media Management</li>
-                      <li>Content writing</li>
-                    </ul>
-                    <br>
+                      <li>Good in English</li>
+                      <li>Memiliki kemampuan pemecahan masalah yang baik dan efisien.</li>
+                      <li>Mampu bekerja dalam tekanan dan deadline sesuai dengan kebutuhan klien.</li>
+                      <li>Berpengalaman dalam pembuatan WEB/Sistem</li>
+                    </ul><br>
 
+                    <b class="getN">Preferable</b><br>
+                    <ul class="joinus-ul">
+                      <li>Mampu bekerja sama dalam tim maupun individu.</li>
+                      <li>Dapat melakukan kerja sama secara efektif dengan divisi lain.</li>
+                      <li>Dapat bekeja dengan teliti dan timely manner.</li>
+                      <li>High motivated and initiative person.</li>
+                    </ul><br>
+
+                    <b class="getN">Rewards and worthwhile</b><br>
+                    <ul class="joinus-ul">
+                      <li>Menangani berbagai macam jenis proyek dengan kebutuhan yang berbeda-beda.
+                      </li>
+                    </ul><br>
                     <b class="getN">Location</b><br>
                     <ul class="joinus-ul">
                       <li>Jakarta</li>
@@ -262,8 +261,8 @@
                     <br>
                     <div class="text-center">
                       <br>
-                      <a class="btn btn-yellow smooth" id="apply-web-dev" href="https://logique.sugoisaiyo.com/"
-                        onclick="ga('send', 'event', 'SR-Digital-Marketing-Apply-Button', 'Action-Click', 'SR-Digital-Marketing-Apply-Button-label');"
+                      <a class="btn btn-yellow smooth" id="apply-pm" href="https://logique.sugoisaiyo.com/"
+                        onclick="ga('send', 'event', 'PD-Apply-Button', 'Action-Click', 'PD-Apply-Button-Label');"
                         target="_blank" rel="noreferrer">Apply</a>
                     </div>
                   </div>
@@ -286,7 +285,8 @@
     $(function() {
       $('.smooth').click(function() {
         if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location
-          .hostname == this.hostname) {
+          .hostname ==
+          this.hostname) {
           var target = $(this.hash);
           target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
           if (target.length) {

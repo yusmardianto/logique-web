@@ -656,6 +656,25 @@
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+                    <img src="/img/career/pm.png" />
+                    <h3 style="font-size:20px;">Product Developer</h3>
+                    <div class="boxfull">Fulltime</div>
+                  </div>
+                  <div class="panel-footer">
+                    <div class="urgent-front">
+                      <img src="/img/career/urgent.png">
+                    </div>
+                    <div class="text-center">
+                      <a class="btn btn-detail" href="detail/product-developer.php" id="product-developer">Detail</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-3 card" data-name="10">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
                     <img src="/img/career/consultant.png" />
                     <h3 style="font-size:20px;">DevOps Engineer</h3>
                     <div class="boxfull">Fulltime</div>
@@ -666,25 +685,6 @@
                     </div>
                     <div class="text-center">
                       <a class="btn btn-detail" href="detail/devops-engineer.php" id="devops-engineer">Detail</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-md-3 card" data-name="10">
-                <div class="panel panel-default">
-                  <div class="panel-body">
-                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-                    <img src="/img/career/pm.png" />
-                    <h3 style="font-size:20px;">Product Manager</h3>
-                    <div class="boxfull">Fulltime</div>
-                  </div>
-                  <div class="panel-footer">
-                    <div class="urgent-front">
-                      <img src="/img/career/urgent.png">
-                    </div>
-                    <div class="text-center">
-                      <a class="btn btn-detail" href="detail/product-manager.php" id="product-manager">Detail</a>
                     </div>
                   </div>
                 </div>
@@ -780,7 +780,8 @@
                   </div>
                   <div class="panel-footer">
                     <div class="urgent-front">
-                      <img src="/img/career/urgent.png">
+                      <!-- <img src="/img/career/urgent.png"> -->
+                      <p></p>
                     </div>
                     <div class="text-center">
                       <a class="btn btn-detail" href="detail/fullstack-product-developer.php"
