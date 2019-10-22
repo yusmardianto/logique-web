@@ -263,7 +263,7 @@
                     <div class="text-center">
                       <br>
                       <a class="btn btn-yellow smooth" id="apply-web-dev" href="https://logique.sugoisaiyo.com/"
-                        onclick="ga('send', 'event', 'Web-Dev-Apply-Button', 'Action-Click', 'Web-Dev-Apply-Button-Label');"
+                        onclick="ga('send', 'event', 'SR-Digital-Marketing-Apply-Button', 'Action-Click', 'SR-Digital-Marketing-Apply-Button-label');"
                         target="_blank" rel="noreferrer">Apply</a>
                     </div>
                   </div>
