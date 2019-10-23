@@ -38,6 +38,11 @@ header h2 {
     font-weight: 200;
 }
 
+.ol-position{
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
 .gold-bar{
     margin:0; border-top: 3px solid gold; 
     padding: 0; 
@@ -668,6 +673,9 @@ section,footer{margin-left:95px}
     }
 }
 @media (max-width: 768px){
+    .ol-position{
+        padding-left: 6px;
+    }
     .gold-bar{
         width: 60%;
     }
