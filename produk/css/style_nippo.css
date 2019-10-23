@@ -171,8 +171,11 @@ span, p {cursor: default;}
 }
 .OPSA3E0 {
   background: url(../img/nippo/bg-Masalah.png);
+  background-size: cover;
   width: 100%;
-  height: 565px;
+  /* height: 565px; */
+  height: auto;
+  padding-bottom: 6em;
   padding-top: 74px;
 }
 .checked-kanan {
@@ -484,6 +487,22 @@ span, p {cursor: default;}
 .p-t-9 {padding-top: 9%;}
 .p-l-25 {padding-left: 25%;}
 .lg-1{margin-top: -3.5em;}
+
+/* Half Size Desktop */
+@media (min-width: 1031px) and (max-width: 1199px) {
+  .NIPPO-SYSTEM {font-size: 50px;}
+  .NIPPO-SYSTEM-Copy {font-size: 36px;}
+  .layer {font-size: 110px;}
+  .Rectangle-2-Copy {width: 85%;}
+  .Rectangle-2-Copy-2 {margin-top: 4.8em;}
+  .Rectangle-3 {height: auto; padding-bottom: 4em;}
+  .laptop {background-size: 120%; background-position-x: center;}
+  .laptop .div-fitur {margin-top: 5.3em;}
+  .laptop .row-fix-3 .col-md-offset-2 {margin-left: 4%;}
+  .laptop .row-fix-3 .col-md-8 {width: 89%;}
+  .OH1E290 {height: auto; width: 300px;}
+  .OH1E290 .Rectangle {width: 300px;}
+}
 
 /* iPad Pro Settings */
 @media (min-height: 1030px) and (max-height: 1370px) and (min-width: 1020px) and (max-width: 1030px) and (orientation: portrait) {
