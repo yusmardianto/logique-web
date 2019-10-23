@@ -130,19 +130,19 @@ if(isset($_POST['submitted']))
   <span class="Kenapa-Harus-Menggun">Nippo導入のメリット</span><br>
   <img src="img/nippo/LogoNippo-kecil.png" alt="Nippo Logo" style="padding: 10px">
   </div>
-  <div class="col-md-3 text-center">
+  <div class="col-lg-3 col-md-6 text-center">
     <img src="img/nippo/kenapa-1.png" alt="Nippo導入のメリット">
     <div class="Dapat-diakses-melalu">モバイルからも入力可能なので出先からの日報入力が可能です。</div>
   </div>
-  <div class="col-md-3 text-center">
+  <div class="col-lg-3 col-md-6 text-center">
     <img src="img/nippo/kenapa-2.png" alt="Nippo導入のメリット">
-    <div class="Dapat-diakses-melalu">とても簡単で直感的なUIです。</div>
+    <div class="Dapat-diakses-melalu">とても簡単で直感的なUIです。<br><br><br><br></div>
   </div>
-  <div class="col-md-3 text-center">
+  <div class="col-lg-3 col-md-6 text-center">
     <img src="img/nippo/kenapa-3.png" alt="Nippo導入のメリット">
     <div class="Dapat-diakses-melalu">プロジェクト毎、タスク毎、人別に、原価工数管理・集計が可能です。</div>
   </div>
-  <div class="col-md-3 text-center">
+  <div class="col-lg-3 col-md-6 text-center">
     <img src="img/nippo/kenapa-4.png" alt="Nippo導入のメリット">
     <div class="Dapat-diakses-melalu">スタッフの自己評価、スーパーバイザーの評価を日々管理でき、集計も可能です。</div>
   </div>
@@ -273,19 +273,19 @@ if(isset($_POST['submitted']))
 <div class="Mask-Copy">
   <div class="container">
   <div class="row" style=" margin-right: 0; ">
-    <div class="col-md-4 text-left p-t-9">
+    <div class="col-md-4 col-xs-12 text-left p-t-9">
         <span class="Keuntungan-Perusahaa">Nippo<br>
             <span class="text-style-1">の主な機能</span>
             <div class="Rectangle-6"></div>
         </span>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-md-4 col-xs-12 text-center">
         <div class="OH1E290">
           <img src="img/nippo/keuntungan-1.png" alt="San Francisco">
           <div class="Rectangle">マネージャーや人事担当者は従業員の作業内容を簡単に把握可能です。</div>
         </div>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-md-4 col-xs-12 text-center">
       <div class="OH1E290">
         <img src="img/nippo/keuntungan-2.png" alt="San Francisco">
         <div class="Rectangle">マネージャは管理下のスタッフの評価を容易に行えます。頻度が稀だとアンフェアな評価になりがちですが、NippoではDailyで評価可能です。</div>
@@ -293,19 +293,19 @@ if(isset($_POST['submitted']))
     </div>
   </div>
   <div class="row m-top-0" style=" margin-right: 0; margin-top: 4em">
-    <div class="col-md-4 text-center">
+    <div class="col-md-4 col-xs-12 text-center">
         <div class="OH1E290">
           <img src="img/nippo/keuntungan-3.png" alt="San Francisco">
           <div class="Rectangle">自己評価とスーパーバイザーの評価の両方が管理されるので、評価をスタッフに伝える際に明快な説明が可能になります。</div>
         </div>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-md-4 col-xs-12 text-center">
       <div class="OH1E290">
         <img src="img/nippo/keuntungan-4.png" alt="San Francisco">
         <div class="Rectangle">社内コミュニケーションを活性化させます。Likeやコメントを残すことで他人から見られている・評価されている緊張感を生みます。</div>
       </div>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-md-4 col-xs-12 text-center">
         <div class="OH1E290">
           <img src="img/nippo/keuntungan-5.png" alt="San Francisco">
           <div class="Rectangle">評価者と物理的に場所が離れている、リモートワークしている場合などでも、適切な管理が可能で、Nippoがコミュニケーションを生みます。</div>

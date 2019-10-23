@@ -145,19 +145,19 @@ if(isset($_POST['submitted']))
   <span class="Kenapa-Harus-Menggun">Why Nippo?</span><br>
   <img src="img/nippo/LogoNippo-kecil.png" alt="Nippo Logo" style="padding: 10px">
   </div>
-  <div class="col-md-3 text-center">
+  <div class="col-lg-3 col-md-6 text-center">
     <img src="img/nippo/kenapa-1.png" alt="Why Nippo?">
     <div class="Dapat-diakses-melalu">Accessible and User Friendly with both Desktop and Mobile Platforms</div>
   </div>
-  <div class="col-md-3 text-center">
+  <div class="col-lg-3 col-md-6 text-center">
     <img src="img/nippo/kenapa-2.png" alt="Why Nippo?">
-    <div class="Dapat-diakses-melalu">Simple and Responsive UI</div>
+    <div class="Dapat-diakses-melalu">Simple and Responsive UI <br><br></div>
   </div>
-  <div class="col-md-3 text-center">
+  <div class="col-lg-3 col-md-6 text-center">
     <img src="img/nippo/kenapa-3.png" alt="Why Nippo?">
     <div class="Dapat-diakses-melalu">Man-Hour cost management can be summarized for each project conducted by every employee.</div>
   </div>
-  <div class="col-md-3 text-center">
+  <div class="col-lg-3 col-md-6 text-center">
     <img src="img/nippo/kenapa-4.png" alt="Why Nippo?">
     <div class="Dapat-diakses-melalu">Evaluation and Self-Assessment can be conducted on a daily basis.</div>
   </div>
@@ -297,19 +297,19 @@ if(isset($_POST['submitted']))
 <div class="Mask-Copy">
   <div class="container">
   <div class="row" style=" margin-right: 0; ">
-    <div class="col-md-4 text-left p-t-9">
+    <div class="col-md-4 col-xs-12 text-left p-t-9">
         <span class="Keuntungan-Perusahaa">Benefits of<br>
             <span class="text-style-1">Using Nippo</span>
             <div class="Rectangle-6"></div>
         </span>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-md-4 col-xs-12 text-center">
         <div class="OH1E290">
           <img src="img/nippo/keuntungan-1.png" alt="San Francisco">
           <div class="Rectangle">Through this format, managers can easily keep tabs on and track the work content done by each employee.</div>
         </div>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-md-4 col-xs-12 text-center">
       <div class="OH1E290">
         <img src="img/nippo/keuntungan-2.png" alt="San Francisco">
         <div class="Rectangle">Through Nippo, assessment is done in a <b>fair</b> and <b>practical manner</b>, and can be conducted in this way on a daily basis by mangers.</div>
@@ -317,19 +317,19 @@ if(isset($_POST['submitted']))
     </div>
   </div>
   <div class="row m-top-0" style=" margin-right: 0; margin-top: 4em">
-    <div class="col-md-4 text-center">
+    <div class="col-md-4 col-xs-12 text-center">
         <div class="OH1E290">
           <img src="img/nippo/keuntungan-3.png" alt="San Francisco">
           <div class="Rectangle">Since both <b>self assessment</b> and supervisor <b>evaluations</b> are managed through the interface, HRD is able to bring up any problems in a clear way to staff.</div>
         </div>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-md-4 col-xs-12 text-center">
       <div class="OH1E290">
         <img src="img/nippo/keuntungan-4.png" alt="San Francisco">
         <div class="Rectangle">Internal communication is revitalized through a more interactive interface scheme. The ability to leave likes and comments will create a sense of comradery and recognition between team members.</div>
       </div>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-md-4 col-xs-12 text-center">
         <div class="OH1E290">
           <img src="img/nippo/keuntungan-5.png" alt="San Francisco">
           <div class="Rectangle">Remote workers get a chance to assess their skills based on the same criteria as regular workers.</div>
