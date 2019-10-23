@@ -55,6 +55,7 @@ if(isset($_POST['submitted']))
    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
    <title>Laporan Kerja, Evaluasi Penilaian Kinerja Karyawan | Nippo | LOGIQUE</title>
    <link rel="stylesheet" href="/css/bootstrap.min.css">
+   <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="css/style_nippo.css">
    <style type="text/css">
    @font-face {
@@ -117,6 +118,12 @@ if(isset($_POST['submitted']))
 
    <div class="div-one">
      <div class="container">
+
+       <div class="logo-top__absolute">
+         <a href="https://www.logique.co.id/" target="_blank" rel="noreferrer" aria-label="Logo Logique"><img
+             src="img/nippo/logo-Logique-white.png" alt="Logo Logique"></a>
+       </div>
+
        <div class="language-btn">
          <ul class="list-inline">
            <li><a href="/../en/product/nippo.php">EN</a></li>
@@ -124,6 +131,7 @@ if(isset($_POST['submitted']))
            <li><a href="/../jp/product/nippo.php">JP</a></li>
          </ul>
        </div>
+
        <div class="row" style="margin-right:0;margin-left:0;">
          <div class="col-md-12 text-center p-top-50" style=" padding-top: 18%; ">
            <img src="img/nippo/LogoNippo.png" alt="nippo" class="fade-in logo m-logo">
@@ -569,6 +577,10 @@ if(isset($_POST['submitted']))
          </div>
        </div>
      </div>
+   </div>
+
+   <div class="nippo__footer">
+     <?php include '../footer.php'; ?>
    </div>
 
    <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
