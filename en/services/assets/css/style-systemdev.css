@@ -750,6 +750,7 @@ section,footer{margin-left:95px}
     }
     header  h1, header h2{
         padding: 0;
+        font-size: 1.6em;
     }
     .language-btn {
         top: -115px;

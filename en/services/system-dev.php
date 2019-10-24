@@ -169,9 +169,10 @@
 					</div>
 					
 					<div class="col-lg-offset-7  col-lg-6 col-sm-offset-6 col-sm-6 bg-header-txt">
-						<h2 class="text-left m-new">Do you require professional expertise in System Design & App Development?  
-						</h2>
 						<h2 class="text-left m-new">
+							Do you require professional expertise in System Design & App Development?  
+						</h2>
+						<h2 class="text-left m-new" style="color: #555;">
 							Look no further: Logique is at your service! 
 							We develop IT systems to an international standard with Japanese quality and 
 							Indonesian speed and cost efficiency.
