@@ -43,6 +43,12 @@
     },
     "jobBenefits": "Medical, Life, Dental",
     "datePosted": "2019-10-14",
+    "validThrough": "2020-10-14",
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "value": "18000000",
+      "currency": "IDR"
+    },
     "description": "Dicari Consultant yang mampu menganalisa dan merekomendasikan solusi sistem web dan website terbaik untuk memecahkan masalah dalam proses bisnis. Seorang Consultant harus memiliki pengetahuan yang luas baik dari sisi bisnis maupun teknikal.<br/><br/>Job Description:<br/><ul><li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li><li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li><li>Berkolaborasi dengan tim developer.</li><li>Mendesain sistem dan IT network, serta memastikan arsitektur dan fungsionalitas yang tepat.</li><li>Mendukung implementasi teknologi baru.</li><li>Melatih user dalam sistem IT baru dan yang sudah ada.</li><li>Memberikan bantuan untuk masalah teknis.</li><li>Merevisi sistem yang ada dan menyarankan perbaikan.</li><li>Menyajikan laporan yang tepat dan terstruktur.</li></ul><br/><br/>Required Skills:<br/><ul><li>Memiliki pengalaman sebagai IT Consultant minimal 1-2 tahun.</li><li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.</li><li>Memiliki kemampuan untuk memecahkan masalah pada hardware, software, dan network.</li><li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li><li>Bisa bekerja dalam tim.</li><li>Berorientasi pada pelayanan terhadap client/customer.</li><li>Memiliki kemampuan interpesonal yang luar biasa.</li></ul>",
     "educationRequirements": "Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.",
     "employmentType": "FULL_TIME",

@@ -43,6 +43,12 @@
     },
     "jobBenefits": "Medical, Life, Dental",
     "datePosted": "2019-10-14",
+    "validThrough": "2020-10-14",
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "value": "20000000",
+      "currency": "IDR"
+    },
     "description": "Job Description:<ul><li>Menganalisis dan memantau website performance, digital ads, dan media sosial di berbagai platform</li><li>Membuat strategi berdasarkan analisis untuk meningkatkan web performance</li><li>Berkolaborasi dengan developer, designers, dan content writers dalam mengoptimasi setiap platform dan website untuk mendapatkan hasil yang lebih baik</li><li>Menjaga hubungan baik dengan klien dan membantu mereka mencapai business goals dengan strategi digital marketing</li></ul><br><br>Requirements:<ul><li>Berpengalaman minimal 3 tahun di dunia digital marketing</li><li>Data-driven, logis, dan dapat berpikir strategis</li><li>Terbiasa menganalisa dan mengoptimasi dengan menggunakan digital marketing tools seperti: Google Analytics, Google Ads (Search Ads, GDN Ads, Youtube Ads), Facebook / Instagram Ads, Twitter Ads, Linked In Ads</li></ul> ",
     "educationRequirements": "Berpengalaman minimal 3 tahun di dunia digital marketing.",
     "employmentType": "FULL_TIME",

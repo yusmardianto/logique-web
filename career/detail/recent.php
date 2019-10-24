@@ -62,6 +62,7 @@
     <!-- End Vacancies -->
     <!-- Vacancies 2 Technical Related-->
     <div class="row itemdiv">
+
       <div class="col-md-3">
         <div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
           <div class="panel-body" style="height:198px;">
@@ -79,7 +80,26 @@
           </div>
         </div>
       </div>
+
       <div class="col-md-3">
+        <div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
+          <div class="panel-body">
+            <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+            <img src="/img/career/consultant.png" />
+            <h3>DevOps Engineer</h3>
+            <div class="boxfull">Fulltime</div>
+          </div>
+          <div class="panel-footer">
+            <!-- <img src="/img/career/siren.png" /> Urgently Needed -->
+            <p></p>
+            <div class="text-center">
+              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="devops-engineer.php">Detail</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- <div class="col-md-3">
         <div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
           <div class="panel-body">
             <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -88,7 +108,7 @@
             <div class="boxfull">Fulltime</div>
           </div>
           <div class="panel-footer">
-            <!-- <p><img src="/img/career/siren.png" /> Urgently Needed</p> -->
+            <p><img src="/img/career/siren.png" /> Urgently Needed</p>
             <p></p>
             <div class="text-center">
               <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;"
@@ -96,8 +116,9 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="col-md-3">
+      </div> -->
+
+      <!-- <div class="col-md-3">
         <div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
           <div class="panel-body" style="height:198px;">
             <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -113,7 +134,26 @@
             </div>
           </div>
         </div>
+      </div> -->
+
+      <div class="col-md-3">
+        <div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
+          <div class="panel-body">
+            <div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+            <img src="/img/career/qa.png" />
+            <h3>Quality Assurance</h3>
+            <div class="boxfull">Fulltime</div>
+          </div>
+          <div class="panel-footer">
+            <p></p>
+            <div class="text-center">
+              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;"
+                href="quality-assurance.php">Detail</a>
+            </div>
+          </div>
+        </div>
       </div>
+
       <div class="col-md-3">
         <div class="seemore_" data-aos="zoom-in" data-aos-duration="1500">
           <h4><a href="/career#jobvacancy">See More >></a></h4>
@@ -155,6 +195,7 @@
           </div>
         </div>
       </div>
+
       <div class="col-md-3">
         <div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
           <div class="panel-body">
@@ -172,6 +213,7 @@
           </div>
         </div>
       </div>
+
       <div class="col-md-3">
         <div class="seemore_" data-aos="zoom-in" data-aos-duration="1500">
           <h4><a href="/career#jobvacancy">See More >></a></h4>
@@ -181,6 +223,7 @@
     <!-- End Vacancies -->
     <!-- Vacancies 4 Technical Related -->
     <div class="row itemdiv">
+
       <div class="col-md-3">
         <div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
           <div class="panel-body">
@@ -198,6 +241,7 @@
           </div>
         </div>
       </div>
+
       <div class="col-md-3">
         <div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
           <div class="panel-body">

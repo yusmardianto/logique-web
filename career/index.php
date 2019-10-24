@@ -790,7 +790,7 @@
                 </div>
               </div>
 
-              <div class="col-md-3 card" data-name="3">
+              <!-- <div class="col-md-3 card hidden" data-name="3">
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -800,7 +800,7 @@
                   </div>
                   <div class="panel-footer">
                     <div class="urgent-front">
-                      <!-- <img src="/img/career/urgent.png"> -->
+                       <img src="/img/career/urgent.png"> 
                       <p></p>
                     </div>
                     <div class="text-center">
@@ -809,19 +809,14 @@
                     </div>
                   </div>
                 </div>
-              </div>
-
-            </div>
-
-            <!-- THIRD LINE -->
-            <div class="row">
+              </div> -->
 
               <div class="col-md-3 card" data-name="4">
                 <div class="panel panel-default">
-                  <div class="panel-body">
+                  <div class="panel-body" style="height: 198px;">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
                     <img src="/img/career/designer.png" />
-                    <h3>UI/UX designer</h3>
+                    <h3>UI/UX designer</h3><br>
                     <div class="boxfull">Fulltime</div>
                   </div>
                   <div class="panel-footer">
@@ -832,6 +827,11 @@
                   </div>
                 </div>
               </div>
+
+            </div>
+
+            <!-- THIRD LINE -->
+            <div class="row">
 
               <div class="col-md-3 card" data-name="4">
                 <div class="panel panel-default">
@@ -850,7 +850,7 @@
                 </div>
               </div>
 
-              <div class="col-md-3 card" data-name="5">
+              <div class="col-md-3 card hidden" data-name="5">
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -891,11 +891,6 @@
                 </div>
               </div>
 
-            </div>
-
-            <!-- FOURTH LINE -->
-            <div class="row">
-
               <div class="col-md-3 card" data-name="10">
                 <div class="panel panel-default">
                   <div class="panel-body">
@@ -929,6 +924,11 @@
                   </div>
                 </div>
               </div>
+
+            </div>
+
+            <!-- FOURTH LINE -->
+            <div class="row">
 
               <div class="col-md-3 card" data-name="10">
                 <div class="panel panel-default">

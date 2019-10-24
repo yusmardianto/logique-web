@@ -43,6 +43,12 @@
     },
     "jobBenefits": "Medical, Life, Dental",
     "datePosted": "2019-10-14",
+    "validThrough": "2020-10-14",
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "value": "18000000",
+      "currency": "IDR"
+    },
     "description": "Job Description:<ul><li>Merancang dan mengembangkan aplikasi web.</li><li>Melakukan perancangan, pengujian, pemeliharaan dan pengembangan product.</li><li>Melakukan analisa masalah untuk mencari solusi teknis yang tepat dan efektif dalam pengembangan product.</li></ul><br><br>Must Skill/Experience:<ul><li>Memiliki gelar pendidikan D3/S1 di bidang IT, atau lainnya yang relevan.</li><li>Memiliki pengalaman lebih dari 1 tahun sebagai FullStack.</li><li>Memiliki pemahaman yang mendalam tentang frameworks PHP seperti Laravel, Cake PHP, atau sejenisnya.</li><li>Mampu menggunakan atau membuat RESTful API dengan baik.</li><li>Mampu menggunakan HTML, CSS, Javascript, atau sejenis untuk pembuatan user interface pada website.</li></ul>",
     "educationRequirements": "Memiliki gelar pendidikan D3/S1 di bidang IT, atau lainnya yang relevan.",
     "employmentType": "FULL_TIME",
