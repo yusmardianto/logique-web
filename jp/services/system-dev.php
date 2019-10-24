@@ -131,7 +131,7 @@
 		<!-- NAVIGATION -->
 		
 		<div class="container" style="position:relative">
-			<div class="row">
+			<!-- <div class="row"> -->
 				<!-- <div class="col-md-12">
 					<a href="/jp/" target="_blank">
 						<div class="logo-header">
@@ -139,7 +139,7 @@
 						</div>
 					</a>
 				</div> -->
-			</div>
+			<!-- </div> -->
 			<div class="row">
 				<div style="background: #000; font-weight: bold;">
 					<!-- breadcrumb -->
@@ -164,7 +164,7 @@
 				</div>
 				<div class="col-lg-offset-6 col-lg-7 col-sm-offset-6 col-sm-6 bg-header-txt">
 					<h1 class="text-left m-new">インドネシアでシステム開発が必要ならLOGIQUEにご相談ください</h1>
-					<h2 class="text-left m-new">豊富な実績をベースに,<br> 早い、安い、でもクオリティは高いシステムを開発します。</h2>
+					<h2 class="text-left m-new">豊富な実績をベースに、<br> 早い、安い、でもクオリティは高いシステムを開発します。</h2>
 				</div>
 			</div>
 		</div>
@@ -181,11 +181,11 @@
 	<section class="style-2">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-offset-5 col-md-7">
+				<div class="col-lg-offset-5 col-lg-7 col-md-offset-3 col-md-9 col-sm-offset-4 col-sm-10 col-xs-offset-3 col-xs-9">
 					<div class="new5">
-						<h2 class="h2 text-right" style="padding-bottom: 12px;">LOGIQUEのシステム開発・WEBアプリ開発</h2>
-						<hr class="gold-bar" class="">
-						<h2 class="h2" style="padding-top: 12px;">
+						<h2 class="h2 text-right" style="margin-bottom: 1em;">LOGIQUEのシステム開発・WEBアプリ開発</h2>
+						<hr class="gold-bar">
+						<h2 class="h2" style="margin-top: 2em;">
 							自動車産業、保険など金融機関、政府団体向けの大規模なシステム開発からスタートアップ向けのアジャイル開発までインドネシアにて豊富な実績があります。
 						</h2>
 					</div>
@@ -205,6 +205,7 @@
 					<h3 class="new1">高品質でセキュアなシステム</h3>
 					<img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
 					<p class="new4">高品質なシステム構築を行います。通常のテストに加えセキュリティ脆弱性テストを実施することをお奨めしています。SQLインジェクション、パストラバーサル、クロスサイトスクリプティングなどPenetrationテストを行いリスクを最小限にします</p>
+					<a href="../services/penetration-test.php" class="btn-contact-us-black-pent col-md-12">セキュリティ脆弱性診断はこちら</a>
 				</div>
 				<div class="col-md-3 justify-content-center">
 					<h3 class="new1">インドネシアでの豊富な経験</h3>
@@ -215,13 +216,6 @@
 					<h3 class="new1">インフラ設計・構築</h3>
 					<img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
 					<p class="new4">インドネシア国内外のクラウドサーバーの設計構築を行います。AWSやGCP、Alibabaクラウドなどの環境構築＆雲鷹経験が豊富です。オンプレミスサーバーからクラウドサーバーへのマイグレーションも多数実績あります。</p>
-				</div>
-			</div>
-			<div class="row" style="margin-top: 24px;">
-				<div class="col-md-12 col-sm-12">
-					<div class="justify-content-center">
-						<a href="../services/penetration-test.php" class="btn-contact-us-black">セキュリティ脆弱性診断はこちら</a>
-					</div>
 				</div>
 			</div>
 		</div>
@@ -627,13 +621,13 @@
 							<div class="row">
 								<div class="col-md-12">
 									<ol class="ol-position">
-										<li>
+										<li class="h4">
 											<h4 class="new3">IT Department Headとして今まで数多くのシステム開発プロジェクトを経験したが、LOGIQUEほど、柔軟に対応してくれて、しかもそのクオリティーが高い開発会社はなかった。どうしてもユーザー部門から開発後期になってからの変更要望が出てしまったが、素早く対応して貰ったことに大変満足している。システム保守についてもお願いし、変わらずタイムリーで間違いのない対応をしてもらっており感謝している。</h4>
 										</li>
-										<li>
+										<li class="h4">
 											<h4 class="new3">前開発会社と契約解消することになったために、LOGIQUEに引き継ぎ開発や既存システムの保守依頼をすることになった。ドキュメントや十分な情報がないなかで柔軟に効果的な仕事をしてくれて感謝している。私達も把握していなかった仕様上の問題点などを指摘していただき、依頼されたことだけをやるのとは真逆のことをしていただいた。</h4>
 										</li>
-										<li>
+										<li class="h4">
 											<h4 class="new3">毎月決まった人日分だけ作業していただく定額制開発をお願いしている。作業が早いので、結果としてコスト効率の良い開発ができていて非常に満足している。次の大きな開発案件では、ラボ型開発でお願いしようと考えています。</h4>
 										</li>
 									</ol>
@@ -797,7 +791,7 @@
 										</div>
 										<div class="form-group btn-submit text-right text-L">
 											<br>
-											<button type="submit" class="btn btn-logic btn-sm">Kirim</button>
+											<button type="submit" class="btn btn-logic btn-sm">送信</button>
 										</div>
 									</div>
 								</form>
