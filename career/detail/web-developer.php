@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/career/">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
     <meta property="og:description"
         content="Dibutuhkan Front End Web Developer yang berpengalaman dalam pembuatan WEB/Sistem WEB (PHP, MySQL, HTML/CSS), Framework PHP seperti CakePHP, Laravel, atau sejenisnya, dan mempunyai minat yang besar terhadap bisnis Internet dan Web.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

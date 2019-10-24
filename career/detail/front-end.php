@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/career/">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
     <meta property="og:description"
         content="Dicari Frontend Developer yang berpengalaman dengan React.js, terbiasa menggunakan EcmaScript, integrasi RESTful API, dan HTML/CSS. Segera daftarkan diri anda di LOGIQUE.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

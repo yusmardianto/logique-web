@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/career/">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
     <meta property="og:description"
         content="Dicari Web Security Specialist yang tersertifikasi sebagai CEH dan CSCU yang mampu mengevaluasi hasil VATest / Pentest, mengimplementasi dan merekomendasikan tindakan preventif. Diutamakan pemahaman kode etik hacking, thread modelling, commercial mapping, penetration testing web, app, dan network.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
