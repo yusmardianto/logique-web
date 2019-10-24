@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/career/">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
     <meta property="og:description"
         content="Dicari developer React JS yang berpengalaman menggunakan workflow seperti Redux/Flux, development tool seperti Babel, Webpack, NPM/Yarn, EcmaScript, dan integrasi RESTful API. Diharapkan dapat menganalisa, memperbaiki performance, dan kolaborasi tim. Berpengalaman ExpressJS, mongoDB lebih disukai">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

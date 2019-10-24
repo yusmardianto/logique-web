@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/career/">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
     <meta property="og:description"
         content="Lowongan Quality Assurance. Dicari yang berpengalaman dengan berbagai jenis dan tingkat pengujian, pengujian integrasi, pengujian regresi, pengujian mobile, pengujian data yang besar, pengujian lintas platform, pengujian komponen, pengujian keamanan, pengujian kinerja, Pengujian UI/UX, pengujian A/B.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
