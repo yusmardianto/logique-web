@@ -592,10 +592,10 @@
 								</div>
 								<li>
 									レンタカー会社向け フリートManagementシステム開発<br>
-									<small class="text-muted">6monts, AWS, Linux, MySQL, SAP connection, PHP Framework | <a data-toggle="modal" data-target="#pop16" href="#">See More</a></small>
+									<small class="text-muted">6monts, AWS, Linux, MySQL, SAP connection, PHP Framework</small>
 								</li>
 								<!-- modal 16 -->
-								<div id="pop16" class="modal fade" role="dialog">
+								<!-- <div id="pop16" class="modal fade" role="dialog">
 									<div class="modal-dialog">
 										<div class="modal-content">
 											<div class="modal-body">
@@ -605,7 +605,7 @@
 											</div>
 										</div>
 									</div>
-								</div>
+								</div> -->
 							</ul>
 						</div>
 					</div>

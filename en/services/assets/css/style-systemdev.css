@@ -41,6 +41,12 @@ header h2 {
     padding-right: 1em;
 }
 
+.breadcrumb>li+li:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: ">"!important;
+}
+
 .breadcrumb>li a {
     color: #ffca13;
     font-weight: 300;
