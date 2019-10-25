@@ -3065,19 +3065,16 @@ blockquote::before {
         overflow: hidden
     }
 }
-
+.mobile-app-container{margin-top:10px}
+.portfolio-webdev .addition-desc .grey-clr{margin-bottom: 20px;}
+.system-development-client-container .addition-desc small{margin-bottom: 10px;display: block;}
 @media (max-width:767px) {
-	.mobile-app-container{margin-top:10px}
 	.portfolio-webdev .clearfix {display:none}
 	.portfolio-webdev .addition-desc .grey-clr{
         padding: 0;
-		margin-bottom: 20px;
     }
 	.other-client-item .img-thumb {
 		height: auto; 
-	}
-	.system-development-client-container .addition-desc small{
-		margin-bottom: 10px;display: block;
 	}
     .sosmed-contact a {
         font-size: 35px
