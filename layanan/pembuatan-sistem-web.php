@@ -227,7 +227,7 @@
 							Kami merancang sistem berkualitas tinggi karena pengujian keamanan wajib dilakukan sebelum delivery. 
 							Kami dapat melakukan penetration testing seperti SQL injection, path traversal, dan x-site scripting untuk mengurangi risiko.
 						</p>
-						<a href="../services/penetration-test.php" class="btn-contact-us-black-pent col-md-12">Diagnosa Kelemahan Web</a>
+						<a href="penetration-testing/index.php" class="btn-contact-us-black-pent col-md-12">Diagnosa Kelemahan Web</a>
 					</div>
 					<div class="col-md-3 justify-content-center">
 						<h3 class="new1">Pengalaman luas tentang Pasar Indonesia</h3>
