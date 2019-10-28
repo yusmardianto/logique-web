@@ -951,6 +951,37 @@
                                             Service Web </div>
                                     </div>
                                 </div>
+								<div class="col-md-4 col-xs-6">
+                                    <a href="https://weeo.com/" target="_blank" rel="noreferrer">
+                                        <img src="/img/portfolio/weeo.png" alt="Weeo" class="img-responsive center-block">
+										Weeo
+                                    </a>
+                                    <div class="addition-desc text-left">
+                                        Web Design (Design | Coding | Maintenance)  
+                                        <div class="grey-clr">Mobile Optimized, Corporate Web, IoT Service</div>
+                                    </div>
+                                </div>
+								<div class="col-md-4 col-xs-6">
+                                    <a href="https://scskidn.com/" target="_blank" rel="noreferrer">
+                                        <img src="/img/portfolio/scsk.png" alt="SCSK" class="img-responsive center-block">
+                                        SCSK
+                                    </a>
+                                    <div class="addition-desc text-left">
+                                        Web Creation (Design | Coding | Maintenance)
+                                        <div class="grey-clr">Quick Built, Corporate Web, IT Service</div>
+                                    </div>
+                                </div>
+								<div class="clearfix"></div>
+                                <div class="col-md-4 col-xs-6">
+                                    <a href="https://grahamirai.co.id/" target="_blank" rel="noreferrer">
+                                        <img src="/img/portfolio/graha-mirai.png" alt="Graha Mirai" class="img-responsive center-block">
+                                        Graha Mirai
+                                    </a>
+                                    <div class="addition-desc text-left">
+                                        Web Design (Design | Coding | Maintenance)  
+                                        <div class="grey-clr">Mobile Optimized, Service Web, Real Estate</div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <center>
@@ -1829,6 +1860,7 @@
         </script>
         <script>
         $('.same-height').matchHeight();
+        $('.col-md-4.col-xs-6').matchHeight();
 
         $('.slider-other-client-container').slick({
             dots: false,

@@ -280,7 +280,7 @@
 								</div>
 								<div class="row">
 									<div class="col-md-12">
-										<h4 class="dark-gold-title">Lab Type Outsourcing Development (Charge Based on the Number of Man-Days Worked)</h4>
+										<h4 class="dark-gold-title">Lab Type Outsourcing Development (Charge Based on Man-Days Worked)</h4>
 										<div style="margin-left: 12px;">
 											<p class="h4">
 												Effective in cases where the requirements / work scope has
@@ -790,10 +790,10 @@
 							</div>
 							<li>
 								A Fleet Management System for a Rent-a-car company.<br>
-								<small class="text-muted">6 Months, AWS, Linux, MySQL, SAP Connection, PHP Framework | <a data-toggle="modal" data-target="#pop16" href="#">See More</a></small>
+								<small class="text-muted">6 Months, AWS, Linux, MySQL, SAP Connection, PHP Framework</small>
 							</li>
 							<!-- modal 16 -->
-							<div id="pop16" class="modal fade" role="dialog">
+							<!-- <div id="pop16" class="modal fade" role="dialog">
 								<div class="modal-dialog">
 									<div class="modal-content">
 										<div class="modal-body">
@@ -809,7 +809,7 @@
 										</div>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</ul>
 					</div>
 				</div>
@@ -963,9 +963,11 @@
 										<div class="link-footer-webdev">
 											<br/>
 											<div style="margin-bottom:8px"><b>Produk LOGIQUE</b></div>
-											<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
-											<a href="/produk/nippo.php" target="_blank">Nippo</a>
-											<a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
+											<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">
+												<img src="assets/img/img-systemdev/dokodemo-ads.jpg" alt="" style="width: 100%; height: auto; object-fit: scale-down;">
+											</a>
+											<!-- <a href="/produk/nippo.php" target="_blank">Nippo</a> -->
+											<!-- <a href="/produk/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a> -->
 										</div>
 									</div>
 								</div>
