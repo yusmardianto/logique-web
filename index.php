@@ -476,7 +476,7 @@
 				<div class="container ">
 					<div class="row">
 						<div class="col-sm-offset-1 col-sm-11">
-							<img class="portofolio__illus" src="/img/our-portofolio.png" alt="">	
+							<img class="portofolio__illus" src="/img/our-portofolio.png" alt="portfolio">	
 							<div class="custombox__portfolio">
 								<h1 class="title-index">Portofolio Kami</h1>
 								<hr class="title__yellow-line">

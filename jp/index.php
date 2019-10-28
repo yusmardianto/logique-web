@@ -353,7 +353,7 @@
 				<div class="container ">
 					<div class="row">
 						<div class="col-sm-offset-1 col-sm-11">
-							<img class="portofolio__illus--jp" src="/img/our-portofolio.png" alt="">	
+							<img class="portofolio__illus--jp" src="/img/our-portofolio.png" alt="portfolio">	
 							<div class="custombox__portfolio">
 								<h1 class="title-index">制作開発実績</h1>
 								<hr class="title__yellow-line">
