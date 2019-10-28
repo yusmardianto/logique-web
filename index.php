@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html lang="id">
+<html lang="id" style="overflow-x: hidden;">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,9 +46,12 @@
     <title>Jasa Pembuatan Website, Aplikasi, dan Digital Marketing | LOGIQUE</title>
 
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
-	</noscript>
+</noscript>
 
+		<!-- <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" /> -->
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/slick.css" rel="stylesheet">
+    <link href="css/slick-theme.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
@@ -117,58 +120,101 @@
 					</div>
 				</div>
 			</div>
-			<!-- NAVIGATION -->
+			<!-- END NAVIGATION -->
 
 			<div class="container-fluid">
-				<div class="row">
-					<div class="col-sm-offset-1 col-sm-10">
-						<div class="lang-logo" style="position:relative;z-index:1">
-							<ul class="list-inline">
-								<li><a href="en/index.php">EN</a></li>
-								<li class="active"><a href="#">ID</a></li>
-								<li><a href="jp/index.php">JP</a></li>
-							</ul>
-							<a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo"/></a>
+			
+				<div class="row lang-logo--update-design">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-offset-1 col-sm-11">
+									<div class="container">
+										<ul class="list-inline">
+											<li><a href="en/index.php">EN</a></li>
+											<li class="active"><a href="#">ID</a></li>
+											<li><a href="jp/index.php">JP</a></li>
+										</ul>
+										<a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design"/></a>
+									</div>
+							</div>
 						</div>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-sm-12">
-						<div class="title-container visible-xs">
-							<br/>
-							<div id="myCarousel2" class="carousel slide carousel-home-new" data-interval="false">
-							  <div class="carousel-inner">
-								<div class="item active">
-									<div class="text-center">
+
+				<div class="row" >
+					<div class="col-sm-offset-1 col-sm-11">
+						<div class="title-container visible-sm visible-xs">
+
+						<div class="text-center container__custom-white" style="background: none;">
 										<div class="title-index">
-											Web Developer <span class="yellow">Terbaik</span> Untuk Solusi <span class="yellow">Permasalahan Digital</span> Anda
+										Web Developer Terbaik Untuk Solusi Permasalahan Digital Anda 
 										</div>
-										<b>LOGIQUE DIGITAL INDONESIA</b>, perusahaan Web Developer yang melayani jasa pembuatan dan pengembangan Website, Aplikasi dan Digital
-Marketing untuk perkembangan bisnis Anda. Kami telah melayani banyak klien besar baik dari dalam atau pun luar negeri untuk berbagai kebutuhan, mulai dari pembuatan E-Commerce, Sistem Lelang Online, Sistem Rekrutmen karyawan, dan Digital Marketing. Selain
-berbagai produk digital, Kami juga menawarkan kepada Anda layanan produk non-digital, seperti pembuatan brosur, katalog, video profil perusahaan dan lain-lain. Dengan tenaga profesional yang kami miliki, kami berkomitmen untuk menghasilkan berbagai produk digital yang berkualitas dan
-berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di era digital dengan solusi terbaik yang kami berikan. <br>
+										<hr class="title__yellow-line">
+										<p><b>LOGIQUE DIGITAL INDONESIA</b>, perusahaan Web Developer yang melayani jasa pembuatan dan pengembangan Website, Aplikasi dan Digital Marketing untuk perkembangan bisnis Anda. <br><br>
+										Kami telah melayani banyak klien besar baik dari dalam atau pun luar negeri untuk berbagai kebutuhan, mulai dari pembuatan E-Commerce, Sistem Lelang Online, Sistem Rekrutmen karyawan, dan Digital Marketing.</p><br>
 										<div class="row">
 											<div class="col-lg-offset-1 col-lg-10">
 												<div class="row">
-												<div class="col-md-3 col-sm-6">
+												<div class="col-xs-6">
 													<a href="/layanan/web-dev.php" class="div-service-cat">
 														<img src="img/top/i-top1.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
 														<h2>Jasa Pembuatan <br/>Website</h2>
 													</a>
 												</div>
-												<div class="col-md-3 col-sm-6">
+												<div class="col-xs-6">
 													<a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
 														<img src="img/top/i-top2.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
 														<h2>Jasa Pembuatan <br/>Aplikasi</h2>
 													</a>
 												</div>
-												<div class="col-md-3 col-sm-6">
+												<div class="col-xs-6">
 													<a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
 														<img src="img/top/i-top3.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
 														<h2>Jasa Pembuatan<br/>Sistem Web</h2>
 													</a>
 												</div>
-												<div class="col-md-3 col-sm-6">
+												<div class="col-xs-6">
+													<a href="/layanan/penetration-test.php" class="div-service-cat">
+														<img src="img/top/i-top4.png" alt="Jasa Penetration Testing" class="center-block img-responsive"/>
+														<h2>Jasa Penetration<br/>Testing</h2>
+													</a>
+												</div>
+											</div>
+											</div>
+										</div>
+									</div>
+
+							<!-- <br/>
+							<div id="myCarousel2" class="carousel slide carousel-home-new" data-interval="false">
+							  <div class="carousel-inner">
+								<div class="item active">
+									<div class="text-center">
+										<div class="title-index">
+										Web Developer <span class="yellow">Terbaik</span> Untuk Solusi <br><span class="yellow">Permasalahan Digital</span> Anda 
+										</div>
+										<b>LOGIQUE DIGITAL INDONESIA</b>, perusahaan Web Developer yang melayani jasa pembuatan dan pengembangan Website, Aplikasi dan Digital Marketing untuk perkembangan bisnis Anda. Kami telah melayani banyak klien besar baik dari dalam atau pun luar negeri untuk berbagai kebutuhan, mulai dari pembuatan E-Commerce, Sistem Lelang Online, Sistem Rekrutmen karyawan, dan Digital Marketing. Selain berbagai produk digital, Kami juga menawarkan kepada Anda layanan produk non-digital, seperti pembuatan brosur, katalog, video profil perusahaan dan lain-lain. Dengan tenaga profesional yang kami miliki, kami berkomitmen untuk menghasilkan berbagai produk digital yang berkualitas dan berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di era digital dengan solusi terbaik yang kami berikan. <br>
+										<div class="row">
+											<div class="col-lg-offset-1 col-lg-10">
+												<div class="row">
+												<div class="col-xs-6">
+													<a href="/layanan/web-dev.php" class="div-service-cat">
+														<img src="img/top/i-top1.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
+														<h2>Jasa Pembuatan <br/>Website</h2>
+													</a>
+												</div>
+												<div class="col-xs-6">
+													<a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
+														<img src="img/top/i-top2.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
+														<h2>Jasa Pembuatan <br/>Aplikasi</h2>
+													</a>
+												</div>
+												<div class="col-xs-6">
+													<a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
+														<img src="img/top/i-top3.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
+														<h2>Jasa Pembuatan<br/>Sistem Web</h2>
+													</a>
+												</div>
+												<div class="col-xs-6">
 													<a href="/layanan/penetration-test.php" class="div-service-cat">
 														<img src="img/top/i-top4.png" alt="Jasa Penetration Testing" class="center-block img-responsive"/>
 														<h2>Jasa Penetration<br/>Testing</h2>
@@ -182,7 +228,7 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 
 								<div class="item">
 									<div class="text-center title-index title-index2">
-										Kami Menyediakan Solusi <span class="yellow">HR-Tech</span> <br>di Indonesia
+										Web Developer <span class="yellow">Terbaik</span> Untuk Solusi <span class="yellow">Permasalahan Digital</span> Anda
 									</div>
 									<div class="row">
 										<div class="col-md-10 col-md-offset-1 text-center">
@@ -248,7 +294,8 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 								<span class="sr-only">Next</span>
 							  </a>
 							</div>
-						</div>
+						</div> -->
+
 					</div>
 				</div>
 			</div>
@@ -259,23 +306,61 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
+
 			<div id="bgImg" style="height: auto;">
 				<div class="img">
 
-					<div class="title-container hidden-xs">
-						<div id="myCarousel" class="carousel slide carousel-home-new" data-interval="false">
+					<div class="title-container hidden-sm">
+						<div class="row">
+							<div class="container">
+								<div class="row">
+									<div class="col-md-offset-1 col-md-6">
+										<h1 class="title-index">Web Developer Terbaik Untuk Solusi Permasalahan Digital Anda </h1>
+										<hr class="title__yellow-line">
+										<p><b>LOGIQUE DIGITAL INDONESIA</b>, perusahaan Web Developer yang melayani jasa pembuatan dan pengembangan Website, Aplikasi dan Digital Marketing untuk perkembangan bisnis Anda. <br><br>
+										Kami telah melayani banyak klien besar baik dari dalam atau pun luar negeri untuk berbagai kebutuhan, mulai dari pembuatan E-Commerce, Sistem Lelang Online, Sistem Rekrutmen karyawan, dan Digital Marketing.</p>
+									</div>
+									<div class="col-md-5">
+										<div class="row">
+											<div class="col-xs-6">
+												<a href="/layanan/web-dev.php" class="div-service-cat">
+													<img src="img/top/i-top1.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
+													<h2>Jasa Pembuatan <br/>Website</h2>
+												</a>
+											</div>
+											<div class="col-xs-6">
+												<a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
+													<img src="img/top/i-top2.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
+													<h2>Jasa Pembuatan <br/>Aplikasi</h2>
+												</a>
+											</div>
+											<div class="col-xs-6">
+												<a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
+													<img src="img/top/i-top3.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
+													<h2>Jasa Pembuatan<br/>Sistem Web</h2>
+												</a>
+											</div>
+											<div class="col-xs-6">
+												<a href="/layanan/penetration-test.php" class="div-service-cat">
+													<img src="img/top/i-top4.png" alt="Jasa Penetration Testing" class="center-block img-responsive"/>
+													<h2>Jasa Penetration<br/>Testing</h2>
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<!-- <div id="myCarousel" class="carousel slide carousel-home-new" data-interval="false">
 						  <div class="carousel-inner">
 							<div class="item active">
 								<div class="text-center">
 									<div class="row">
 										<div class="col-md-10 col-md-offset-1">
 												<h1 class="title-index">
-											Web Developer <span class="yellow">Terbaik</span> Untuk Solusi <br><span class="yellow">Permasalahan Digital</span> Anda
-											</h1>
-											<b>LOGIQUE DIGITAL INDONESIA</b>, perusahaan Web Developer yang melayani jasa pembuatan dan pengembangan Website, Aplikasi dan Digital
-		Marketing untuk perkembangan bisnis Anda. Kami telah melayani banyak klien besar baik dari dalam atau pun luar negeri untuk berbagai kebutuhan, mulai dari pembuatan E-Commerce, Sistem Lelang Online, Sistem Rekrutmen karyawan, dan Digital Marketing. Selain
-		berbagai produk digital, Kami juga menawarkan kepada Anda layanan produk non-digital, seperti pembuatan brosur, katalog, video profil perusahaan dan lain-lain. Dengan tenaga profesional yang kami miliki, kami berkomitmen untuk menghasilkan berbagai produk digital yang berkualitas dan
-		berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di era digital dengan solusi terbaik yang kami berikan. <br>
+											Web Developer <span class="yellow">Terbaik</span> Untuk Solusi <br><span class="yellow">Permasalahan Digital</span> Anda </h1>
+											<b>LOGIQUE DIGITAL INDONESIA</b>, perusahaan Web Developer yang melayani jasa pembuatan dan pengembangan Website, Aplikasi dan Digital Marketing untuk perkembangan bisnis Anda. Kami telah melayani banyak klien besar baik dari dalam atau pun luar negeri untuk berbagai kebutuhan, mulai dari pembuatan E-Commerce, Sistem Lelang Online, Sistem Rekrutmen karyawan, dan Digital Marketing. <br>
 											<br/><br/>
 										</div>
 									</div>
@@ -381,14 +466,149 @@ berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di er
 							<span class="fa fa-angle-right"></span>
 							<span class="sr-only">Next</span>
 						  </a>
-						</div>
+						</div> -->
 					</div>
 
 				</div>
 			</div>
 
-			<br/>
+			<div class="row container__custom-white">
+				<div class="container ">
+					<div class="row">
+						<div class="col-sm-offset-1 col-sm-11">
+							<img class="portofolio__illus" src="/img/our-portofolio.png" alt="">	
+							<div class="custombox__portfolio">
+								<h1 class="title-index">Portofolio Kami</h1>
+								<hr class="title__yellow-line">
+								Selain berbagai produk digital, Kami juga menawarkan kepada Anda layanan produk non-digital, seperti pembuatan brosur, katalog, video profil perusahaan dan lain-lain. <br><br>
+								Dengan tenaga profesional yang kami miliki, kami berkomitmen untuk menghasilkan berbagai produk digital yang berkualitas dan berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis Anda di era digital dengan solusi terbaik yang kami berikan. <br>
+								<button class="custombox__btn">See more</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row container__custom-white">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-offset-1 col-sm-11">
+							<h1 class="title-index--light">
+							Kami Menyediakan <span class="title-index--bold">Solusi HR-Tech</span> di Indonesia</h1>
+							<hr class="title__yellow-line">
+							<p>Dengan tingkat kemacetan yang tinggi, serta berbagai persoalan masing-masing individu karyawan yang tidak menentu sehingga mengurangi mobilitas para karyawan, tentu akan membuat produktivitas karyawan berkurang. LOGIQUE juga menawarkan sistem manajemen pelaporan harian untuk karyawan yang bernama Nippo. Sistem ini memberikan solusi bagi perusahaan, dimana perusahaan dapat dengan mudah melakukan monitoring, penilaian, dan evaluasi kinerja karyawan setiap bulan.</p>
+
+							<div class="product__slide" style="width: 95%; margin: 20px auto 0;">
+
+							<div class="custombox__product-wrapper">
+								<div class="custombox__product">
+									<div class="custombox__head">
+										<img class="custombox__product-img" src="/img/top/i-dokodemo.png" alt="dokodemo">
+									</div>
+									<h1 class="custombox__product-title">Dokodemo Kerja</h1>
+									<p class="custombox__product-content">LOGIQUE menawarkan kepada Anda sebuah sistem web untuk bekerja remote bernama Dokodemo-Kerja. Sistem ini mampu memonitor dan mengkalkulasi jam kerja karyawan secara akurat.</p>
+									<a href="/produk/dokodemo-kerja.php" class="custombox__btn-product">Learn More</a>
+								</div>
+							</div>
+							<div class="custombox__product-wrapper">
+								<div class="custombox__product">
+									<div class="custombox__head">
+										<img class="custombox__product-img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
+									</div>
+									<h1 class="custombox__product-title">Nippo</h1>
+									<p class="custombox__product-content">LOGIQUE menawarkan sistem manajemen pelaporan harian untuk karyawan yang bernama Nippo. Sistem ini memberikan solusi bagi perusahaan, dimana perusahaan dapat dengan mudah melakukan monitoring, penilaian, dan evaluasi kinerja karyawan setiap bulan.</p>
+									<a href="/produk/nippo.php" class="custombox__btn-product">Learn More</a>
+								</div>
+							</div>
+							<div class="custombox__product-wrapper">
+								<div class="custombox__product">
+									<div class="custombox__head">
+										<img class="custombox__product-img" src="/img/top/i-nippo-update.png" alt="nippo">
+									</div>
+									<h1 class="custombox__product-title">Sugoisaiyo</h1>
+									<p class="custombox__product-content">Sugoi Saiyo adalah sebuah sistem manajemen yang dapat membantu aktivitas rekrutmen menjadi lebih efektif dan efisien bagi tim HRD atau para pencari kerja. Sistem ini akan menentukan kapan dan dimana proses interview akan dilaksanakan.</p>
+										<a href="/produk/sugoi-saiyo.php" class="custombox__btn-product">Learn More</a>
+								</div>
+							</div>
+							<div class="custombox__product-wrapper">
+								<div class="custombox__product">
+									<div class="custombox__head">
+										<img class="custombox__product-img" src="/img/top/i-hiring-site.png" alt="hr-site">
+									</div>
+									<h1 class="custombox__product-title">Custom Hiring Site</h1>
+									<p class="custombox__product-content">Situs web rekrutmen Anda sendiri dapat menjadi kunci untuk membuat recruitment efektif dan efisien! Kami menawarkan pembuatan web/software yang dapat membantu HRD untuk menghubungkan perusahaan dan kandidat.</p>
+									<a href="/layanan/pembuatan-web-karir.php" class="custombox__btn-product">Learn More</a>
+								</div>
+							</div>
+
+							</div>
+
+
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row container__custom-white">
+				<div class="container text-center">
+					<div class="row">
+						<div class="col-sm-offset-1 col-sm-11 text-center">
+							<h1 class="title-index">STUDI KASUS</h1>
+							<hr class="title__yellow-line--center">
+							<p>Dengan pengalaman selama 7 tahun, LOGIQUE telah bekerjasama dengan banyak klien baik dari dalam atau pun luar negeri dalam pembuatan dan pengembangan Website, Aplikasi, dan Digital Marketing. Sesuai dengan tujuan kami,</p>
+	
+							<div class="case-study__img-wrapper">
+								<a href="/case-study/caroline-bidding-system/" class="flipp">
+									<img src="/img/top/i-caroline.png" alt="">
+								</a>
+								<a href="/case-study/jba-auction-system/" class="flipp">
+									<img src="/img/top/i-jba.png" alt="">
+								</a>
+								<a href="/case-study/opuspark/" class="flipp">
+									<img src="/img/top/i-opus-park.png" alt="">
+								</a>
+								<a href="/case-study/zuttoride-customer-management-system/" class="flipp">
+									<img src="/img/top/i-zuttoride.png" alt="">
+								</a>
+								<a href="/case-study/vip-plaza-progressive-web-app/" class="flipp">
+									<img src="/img/top/i-vipplaza.png" alt="">
+								</a>
+							</div>
+	
+							<p>LOGIQUE DIGITAL INDONESIA berkomitmen untuk selalu memberikan solusi terbaik bagi kebutuhan para klien kami. Mulai dari pengembangan Aplikasi Mobile, pengembangan E-Commerce, sistem manajemen lelang mobil/ motor, sistem manajemen pelanggan, dan masih banyak lagi.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			
 		</div>
 		<?php include 'footer.php';?>
+
+		<script>
+			$('.product__slide').slick({
+				infinite: true,
+				slidesToShow: 3,
+				slidesToScroll: 1,
+				// adaptiveHeight: true,
+				responsive: [
+					{
+						breakpoint: 1100,
+						settings: {
+							slidesToShow: 2,
+							slidesToScroll: 1,
+							infinite: true,
+						}
+					},
+					{
+						breakpoint: 700,
+						settings: {
+							slidesToShow: 1,
+							slidesToScroll: 1
+						}
+					},
+				]
+			});
+		</script>
 	</body>
 </html>
