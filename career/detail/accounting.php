@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/career/">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
     <meta property="og:description"
         content="Bila Anda ahli dalam bidang accounting dan perpajakan, menyukai hitung-berhitung mengenai perpajakan dan accounting, up-to-date mengenai hukum perpajakan, LOGIQUE membuka peluang untuk Anda bergabung bersama kami.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -43,6 +43,7 @@
         },
         "jobBenefits": "Medical, Life, Dental",
         "datePosted": "2019-10-14",
+        "validThrough": "2020-10-14",
         "description": "Bila Anda ahli dalam bidang accounting dan perpajakan, menyukai hitung-berhitung mengenai perpajakan dan accounting, up-to-date mengenai hukum perpajakan, LOGIQUE membuka peluang untuk Anda bergabung bersama kami.<br><br>Requirement:<ol><li>Ahli dalam bidang accounting dan pajak</li><li>Menyukai hitung-berhitung mengenai perpajakan dan accounting</li><li>Up to date, teliti, dan memiliki pemahaman yang kuat mengenai hukum perpajakan</li><li>Berpengalaman minimal 2 tahun di bidang yang sama.</li><li>Pernah bekerja di KPP / Konsultan diutamakan.</li><li>Minimum pendidikan S1 di bidang accounting / pajak.</li><li>Brevet A B, diutamakan yang Brevet A B dan C.</li><li>Dapat mengoperasikan Microsoft Office dengan baik (terutama excel).</li></ol><br><br>Job Description:<ul><li>Membuat Faktur Pajak dan e-faktur.</li><li>Mengisi formulir perpajakan PPN, PPh 21, PPh 23, dan lain-lain.</li><li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li><li>Mempersiapkan permintaan pembayaran Pajak Bulanan dan SPT Tahunan.</li><li>Membuat rekap pajak.</li><li>Membuat laporan-laporan accounting.</li><li>Data entry bank payment dan rekonsiliasi bank.</li><li>Rekonsiliasi pemotongan PPH 23 dan Pasal 4 ayat 2.</li></ul>",
         "educationRequirements": "Ahli dalam bidang accounting dan pajak",
         "employmentType": "FULL_TIME",

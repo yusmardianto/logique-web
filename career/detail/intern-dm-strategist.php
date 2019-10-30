@@ -14,11 +14,57 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+  <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
   <meta property="og:description"
     content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Inside Sales">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <title>Lowongan - Intern Digital Marketing Strategist</title>
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "title": "Intern Digital Marketing Strategist",
+    "url": "https://www.logique.co.id/career/detail/intern-dm-strategist.php",
+    "hiringOrganization": {
+      "@type": "Corporation",
+      "name": "Logique Digital Indonesia",
+      "url": "https://www.logique.co.id",
+      "logo": "https://www.logique.co.id/img/logo.png",
+      "contactPoint": [{
+        "@type": "ContactPoint",
+        "telephone": "(+6221) 22708935",
+        "contactType": "customer service"
+      }, {
+        "@type": "ContactPoint",
+        "telephone": "(+6221) 22708936",
+        "contactType": "customer service"
+      }]
+    },
+    "jobBenefits": "Medical, Life, Dental",
+    "datePosted": "2019-10-14",
+    "validThrough": "2020-10-14",
+    "description": "Job Description:<ul><li>Menganalisis dan memantau kinerja situs web, digital ads, dan media sosial dengan di berbagai platform.</li><li>Menyarankan strategi untuk meningkatkan kinerja berdasarkan analisis.</li><li>Terus menyesuaikan performa setiap platform dan situs web untuk mendapatkan hasil yang lebih baik dengan berkolaborasi dengan web developer, content writer, dan design. </li><li>Mengoptimalkan performa dengan orientasi terhadap target hasil atau conversion yang dibutuhkan client/customer.</li></ul><br><br>Terbiasa dalam menganalisis dan mengoptimalkan tool yang terkait dengan digital marketing, seperti: <ul><li> Google Analytics </li><li>Google Ads (Search Ads, GDN Ads, Youtube Ads)</li><li>Facebook / Instagram Ads </li><li>Twitter Ads</li><li> Linked In Ads </li><li>Berpengalaman dalam hal memberikan konsultasi/saran / diskusi dengan client / customer </li><li>Mampu menyajikan laporan yang analitis dan terstruktur sesuai kebutuhan client/customer </li></ul>",
+    "employmentType": "INTERN",
+    "experienceRequirements": "Terbiasa dalam menganalisis dan mengoptimalkan tool yang terkait dengan digital marketing",
+    "industry": "Computer Software",
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Jakarta",
+        "addressRegion": "D.K.I. Jakarta",
+        "postalCode": "12550",
+        "streetAddress": "19th Floor, AD Premier, Jl. TB Simatupang No.5, RT.5/RW.7, Ragunan, Kec. Ps. Minggu"
+      }
+    },
+    "occupationalCategory": "Software Developers, Application, Website Developers",
+    "qualifications": "Terbiasa dalam menganalisis dan mengoptimalkan tool yang terkait dengan digital marketing",
+    "responsibilities": "Menganalisis dan memantau kinerja situs web, digital ads, dan media sosial dengan di berbagai platform.",
+    "skills": "Mengoptimalkan performa dengan orientasi terhadap target hasil atau conversion yang dibutuhkan client/customer.",
+    "workHours": "40 hours per week"
+  }
+  </script>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

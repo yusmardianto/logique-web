@@ -14,9 +14,9 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+  <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
   <meta property="og:description"
-    content="Kami memberikan kesempatan berkarir bagi para web developer, web designer, dan digital marketing untuk terus mengasah kemampuannya dengan bergabung bersama LOGIQUE Digital Indonesia. Segera bergabunglah bersama kami!">
+    content="Saatnya berkarir dan kembangkan potensimu - Career at Logique Bergabunglah dan jadilah bagian dari perkembangan teknologi digital di Indonesia bersama Logique. Anda juga akan memiliki kesempatan luas untuk mengembangkan potensi dan karir Anda, serta berkarya dengan jam kerja yang fleksibel.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <title>Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia</title>
 
@@ -656,8 +656,46 @@
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+                    <img src="/img/career/pm.png" />
+                    <h3 style="font-size:20px;">Product Developer</h3>
+                    <div class="boxfull">Fulltime</div>
+                  </div>
+                  <div class="panel-footer">
+                    <div class="urgent-front">
+                      <img src="/img/career/urgent.png">
+                    </div>
+                    <div class="text-center">
+                      <a class="btn btn-detail" href="detail/product-developer.php" id="product-developer">Detail</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-3 card" data-name="10">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+                    <img src="/img/career/tc.png" />
+                    <h3 style="font-size:20px;">Business Analyst</h3>
+                    <div class="boxfull">Fulltime</div>
+                  </div>
+                  <div class="panel-footer">
+                    <div class="urgent-front">
+                      <img src="/img/career/urgent.png">
+                    </div>
+                    <div class="text-center">
+                      <a class="btn btn-detail" href="detail/business-analyst.php" id="business-analyst">Detail</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-3 card" data-name="10">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
                     <img src="/img/career/consultant.png" />
-                    <h3 style="font-size:20px;">DevOps Engineer</h3>
+                    <h3 style="font-size:20px;">IT Security Specialist</h3>
                     <div class="boxfull">Fulltime</div>
                   </div>
                   <div class="panel-footer">
@@ -665,45 +703,7 @@
                       <img src="/img/career/urgent.png">
                     </div>
                     <div class="text-center">
-                      <a class="btn btn-detail" href="detail/devops-engineer.php" id="devops-engineer">Detail</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-md-3 card" data-name="10">
-                <div class="panel panel-default">
-                  <div class="panel-body">
-                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-                    <img src="/img/career/pm.png" />
-                    <h3 style="font-size:20px;">Product Manager</h3>
-                    <div class="boxfull">Fulltime</div>
-                  </div>
-                  <div class="panel-footer">
-                    <div class="urgent-front">
-                      <img src="/img/career/urgent.png">
-                    </div>
-                    <div class="text-center">
-                      <a class="btn btn-detail" href="detail/product-manager.php" id="product-manager">Detail</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-md-3 card" data-name="10">
-                <div class="panel panel-default">
-                  <div class="panel-body">
-                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-                    <img src="/img/career/pm.png" />
-                    <h3 style="font-size:20px;">Project Manager</h3>
-                    <div class="boxfull">Fulltime</div>
-                  </div>
-                  <div class="panel-footer">
-                    <div class="urgent-front">
-                      <img src="/img/career/urgent.png">
-                    </div>
-                    <div class="text-center">
-                      <a class="btn btn-detail" href="detail/project-manager.php" id="project-manager">Detail</a>
+                      <a class="btn btn-detail" href="detail/web-security.php" id="it-security">Detail</a>
                     </div>
                   </div>
                 </div>
@@ -735,8 +735,8 @@
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-                    <img src="/img/career/consultant.png" />
-                    <h3 style="font-size:20px;">IT Security Specialist</h3>
+                    <img src="/img/career/pm.png" />
+                    <h3 style="font-size:20px;">Project Manager</h3>
                     <div class="boxfull">Fulltime</div>
                   </div>
                   <div class="panel-footer">
@@ -744,7 +744,7 @@
                       <img src="/img/career/urgent.png">
                     </div>
                     <div class="text-center">
-                      <a class="btn btn-detail" href="detail/web-security.php" id="it-security">Detail</a>
+                      <a class="btn btn-detail" href="detail/project-manager.php" id="project-manager">Detail</a>
                     </div>
                   </div>
                 </div>
@@ -770,7 +770,27 @@
                 </div>
               </div>
 
-              <div class="col-md-3 card" data-name="3">
+              <div class="col-md-3 card" data-name="10">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+                    <img src="/img/career/consultant.png" />
+                    <h3 style="font-size:20px;">DevOps Engineer</h3>
+                    <div class="boxfull">Fulltime</div>
+                  </div>
+                  <div class="panel-footer">
+                    <div class="urgent-front">
+                      <!-- <img src="/img/career/urgent.png"> -->
+                      <p></p>
+                    </div>
+                    <div class="text-center">
+                      <a class="btn btn-detail" href="detail/devops-engineer.php" id="devops-engineer">Detail</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- <div class="col-md-3 card hidden" data-name="3">
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -780,7 +800,8 @@
                   </div>
                   <div class="panel-footer">
                     <div class="urgent-front">
-                      <img src="/img/career/urgent.png">
+                       <img src="/img/career/urgent.png"> 
+                      <p></p>
                     </div>
                     <div class="text-center">
                       <a class="btn btn-detail" href="detail/fullstack-product-developer.php"
@@ -788,14 +809,14 @@
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> -->
 
               <div class="col-md-3 card" data-name="4">
                 <div class="panel panel-default">
-                  <div class="panel-body">
+                  <div class="panel-body" style="height: 198px;">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
                     <img src="/img/career/designer.png" />
-                    <h3>UI/UX designer</h3>
+                    <h3>UI/UX designer</h3><br>
                     <div class="boxfull">Fulltime</div>
                   </div>
                   <div class="panel-footer">
@@ -829,7 +850,7 @@
                 </div>
               </div>
 
-              <div class="col-md-3 card" data-name="5">
+              <div class="col-md-3 card hidden" data-name="5">
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -875,22 +896,17 @@
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
                     <img src="/img/career/tc.png" />
-                    <h3>Technical Consultant</h3>
+                    <h3>Consultant</h3>
                     <div class="boxfull">Fulltime</div>
                   </div>
                   <div class="panel-footer">
                     <p></p>
                     <div class="text-center">
-                      <a class="btn btn-detail" href="detail/technical-consultant.php" id="tech-consultant">Detail</a>
+                      <a class="btn btn-detail" href="detail/consultant.php" id="consultant">Detail</a>
                     </div>
                   </div>
                 </div>
               </div>
-
-            </div>
-
-            <!-- FOURTH LINE -->
-            <div class="row">
 
               <div class="col-md-3 card" data-name="10">
                 <div class="panel panel-default">
@@ -908,6 +924,11 @@
                   </div>
                 </div>
               </div>
+
+            </div>
+
+            <!-- FOURTH LINE -->
+            <div class="row">
 
               <div class="col-md-3 card" data-name="10">
                 <div class="panel panel-default">

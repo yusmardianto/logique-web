@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/career/">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
     <meta property="og:description"
         content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Inside Sales">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -43,6 +43,7 @@
         },
         "jobBenefits": "Medical, Life, Dental",
         "datePosted": "2019-10-14",
+        "validThrough": "2020-10-14",
         "description": "Multinasional Digital Agency membuka lowongan Inside Sales yang handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital. Berpengalaman minimal 2 tahun, mampu bekerja sesuai target dan customer oriented.<br><br>Job Description:<ul><li>Merencanakan perkembangan dalam proses penjualan produk.</li><li>Berkomunikasi dengan potensial klien dan klien dengan tujuan meningkatkan penjualan produk.</li><li>Memberikan masukan terhadap perkembangan produk sesuai kebutuhan dan memberikan bantuan dalam proses penerapan.</li><li>Membuat laporan terkait penjualan dan peningkatan kualitas produk.</li></ul><br><br>Must Skill/Experience<ul><li>Segala jurusan, diutamakan Bisnis/ Pemasaran.</li><li>Menyukai dan mengikuti segala hal tentang teknologi.</li><li>Memiliki sikap dan motivasi yang tinggi terhadap sebuah tujuan.</li><li>Mudah di arahkan, beradaptasi dan dalam berkomunikasi dengan orang lain.</li><li>Mengikuti perkembangan zaman.</li><li>Self-learner and self-mover.</li><li>Mempunyai semangat yang tinggi dan kemampuan analis yang baik.</li></ul>",
         "educationRequirements": "Segala jurusan, diutamakan Bisnis/ Pemasaran..",
         "employmentType": "INTERN",

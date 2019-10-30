@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/career/">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
     <meta property="og:description"
         content="Dicari Project Manager yang telah berpengalaman di bidang IT dan Web selama lebih dari 3 tahun, terampil dalam management dan komunikasi antar tim development dan klien, serta menangani proyek secara keseluruhan mulai dari perencanaan, proposal, hingga pengembangan.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -43,6 +43,7 @@
         },
         "jobBenefits": "Medical, Life, Dental",
         "datePosted": "2019-10-14",
+        "validThrough": "2020-10-14",
         "description": "Dicari Project Manager yang telah berpengalaman di bidang IT dan Web selama lebih dari 3 tahun, terampil dalam management dan komunikasi antar tim development dan klien, serta menangani proyek secara keseluruhan mulai dari perencanaan, proposal, hingga pengembangan.<br><br>Job Description:<ul><li>Melakukan pengawasan kinerja team member dalam suatu project.</li><li>Manajemen pembagian kerja dengan tim development internal maupun vendor untuk memenuhi kebutuhan klien.</li><li>Memastikan alur dan jangkauan kerja sebuah project berjalan sesuai timeline dan tujuan.</li><li>Melakukan negosiasi agar kebutuhan klien dan budget secara efektif.</li><li>Menangani manajemen project secara keseluruhan termasuk perencanaan, proposal/kontrak. hingga pengembangan dan pemeliharaan.</li><li>Memastikan alur dan jangkauan kerja sebuah project berjalan sesuai timeline dan tujuan.</li><li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li></ul><br><br>Must Skills:<ul><li>Memiliki pengalaman sebelumnya minimal 5 tahun pada bidang Web dan System Development</li><li>Memiliki pemahaman yang mendalam mengenai Web dan IT System</li><li>Memiliki Skill management yang baik dalam mengelola team member yang ada</li><li>Memiliki cara pikir yang logical untuk menangani masalah</li><li>Dapat bekerja di bawah tekanan</li><li>Memiliki kemampuan untuk memecahkan masalah pada hardware, software, dan network.</li><li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li><li>Memiliki kemampuan interpesonal yang luar biasa.</li></ul>",
         "educationRequirements": "Memiliki pemahaman yang mendalam mengenai Web dan IT System.",
         "employmentType": "FULL_TIME",

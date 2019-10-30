@@ -1,6 +1,6 @@
 html,
 body {
-     font-family: 'M PLUS 1p',Lato, sans-serif;   
+     font-family: 'M PLUS 1p', Lato, sans-serif;   
     /*font-family: Lato, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;*/
     background-color: #fff;
     overflow-x: hidden;
@@ -21,20 +21,33 @@ header {
     padding-bottom: 240px;
 }
 header h1{
-    font-family: 'Lato', serif;
-    font-size: 36px;
+    /* font-family: 'Lato', serif; */
+    font-size: 34px;
     color: #333;
     letter-spacing: 2px;
-    padding-left: 1em;
+    padding-left: 2em;
     /* padding-right: 1em; */
 }
 
 header h2 {
-    font-family: 'Lato', serif;
+    /* font-family: 'Lato', serif; */
     font-size: 28px;
-    color: #333;
+    color: #555;
     letter-spacing: 2px;
-    padding-left: 1em;
+    padding-left: 3em;
+    font-weight: unset;
+}
+
+.ol-position{
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.gold-bar{
+    margin:0; border-top: 3px solid gold; 
+    padding: 0; 
+    width: 32%; 
+    float:right
 }
 
 .yellow-stripes{
@@ -46,20 +59,19 @@ header h2 {
 
 .style-1 {
     background-color: #fff;
-    font-family: 'Lato', serif;
     font-weight: 500px;
 }
-.style-1 h2 {font-weight: 595;font-size: 28px; line-height: 40px}
+.style-1 h2 {font-weight: 200;font-size: 28px; line-height: 40px}
 .style-1 p {font-size: 18px}
 .underline {border-bottom: solid 8px #ebc033;padding-bottom: 20px;}
 .underline2 {border-bottom: solid 8px #ebc033;padding-bottom: 1.2em;}
 .style-2 {
-    background: url(../img/img-systemdev/banner.png);    
+    background: url(../img/img-systemdev/banner.png)   ;    
     color: #fff;
-    height: 500px;
+    height: 400px;
     background-repeat: no-repeat;
     background-size: 100%;
-    
+    background-position-y: -20vh;
     }
 .style-3 {
     background: url(../img/img-systemdev/black-line-1.png) no-repeat;
@@ -89,7 +101,6 @@ header h2 {
     background-color: #fff;
     background-position-y: bottom;
     background-size: contain;
-    font-family: 'Lota', serif;
 }
 .supposedly-style4 p{
     font-weight: 500;
@@ -97,7 +108,7 @@ header h2 {
 .dark-gold-title{
     background-color: #000;
     color: rgb(255, 205, 56);
-    font-family: 'Lato', serif;
+    /* font-family: 'Lato', serif; */
     font-weight: 500;
     width: fit-content;
     padding: 12px 24px;
@@ -124,13 +135,15 @@ header h2 {
     top: 50%;
 }
 .new2 {font-weight: bold;letter-spacing: 2px;}
-.new3 {font-weight: 500;letter-spacing: 1px; font-family: 'Lato', serif;}
-.new4 {text-align: justify;color: #666}
+.new3 {font-weight: 200;letter-spacing: 1px; margin-bottom: 2em;}
+.new4 {text-align: justify;color: #666; font-size: 1.2em;}
 .bold {font-weight: bold}
 .new5{
-    position: absolute;
-    bottom: -25em; /** was -6.5 **/
-    font-family: 'Lato', serif; 
+    /* position: absolute; */
+    /* bottom: -25em; * was -6.5 * */
+}
+.new5 h2{
+    font-weight: 200;
 }
 .style-6{
     background: url(../img/img-systemdev/img4.jpg); 
@@ -142,7 +155,15 @@ header h2 {
 }
 .new6 {    
     color: #161616;
-    font-size: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 10px;
+    letter-spacing: 2px;
+}
+
+.new7 {    
+    color: #161616;
+    font-size: 28px;
     font-weight: bold;
     padding-left: 10px;
     letter-spacing: 2px;
@@ -279,11 +300,11 @@ section {
 .breadcrumb-position{
     position: absolute;
     top: -115px;
-    left: calc(20vh - 2em);
+    left: calc(1vh - 3em);
 }
 .breadcrumb>li a{
     color: #ffca13;
-    font-family: 'Lato', serif;
+    font-weight: 300;
 }
 
 .breadcrumb> .active >a{
@@ -400,6 +421,14 @@ footer p:before {
     color: #fff !important;
     font-size: 18px;
     padding: 10px 60px;
+    white-space: normal;
+}
+.btn-contact-us-black-pent {
+    background: #000;
+    border-radius: 5px;
+    color: #fff !important;
+    font-size: 1.6rem;
+    padding: 4px 8px;
     white-space: normal;
 }
 .style-4 .card{
@@ -613,13 +642,36 @@ section,footer{margin-left:95px}
         -ms-transform: translateY(-50%);
         position: relative
     }
+
 }
 .logique-nav.in-jp a {
     font-size: 12px;
 }
 @media (max-width: 1199px){
-	.container {width: 925px;}
-	.title-custom-p,.custom-p-2{width:auto}
+    .style-2{
+        /* background-size: cover;
+        background-position-x: -130px; */
+        background-size: contain;
+        background-position-x: -1vw;
+        background-position-y: 0;
+        background-color: #000;
+        height: auto;
+    }
+    .sect-3-txt{
+        font-size: 24px;
+    }
+    .breadcrumb-position{
+        left: calc(7vh - 2em);
+    }
+    .container {width: 925px;}
+    
+	.title-custom-p,.custom-p-2{
+        width:auto
+    }
+    .btn-contact-us-black-pent{
+        font-size: 1.2rem;
+        padding: 4px 8px;
+    }
 }
 @media screen and (max-width:979px) {
     .logique-nav {
@@ -633,31 +685,57 @@ section,footer{margin-left:95px}
 }
 @media (max-width: 1199px){
 	header{height:auto}
-	.style-2{background-size: cover;}
-	.new5 {width: 500px;right: 0;}
+	/* .new5 {width: 500px;right: 0;} */
+}
+@media(max-width: 1024px){
+    .new5 h2{
+        font-size: 24px;
+    }
+    .new6{
+        text-align: center;
+    }
+    .style-6{
+        background-position-x: -7em;
+    }
+    .gold-bar{
+        width: 26%;
+    }
 }
 @media (max-width: 768px){
+    .ol-position{
+        padding-left: 1em;
+    }
+    .gold-bar{
+        width: 34%;
+    }
 	.new5 .underline{border-bottom:0;}
-	.new5 {width:275px;right:0}
+	.new5 {width:275px;right:0;}
 	.new6 {margin-bottom: 30px;}
 	.style-6 {background: none;height: auto;color: #000;border-bottom: 3px solid #000;padding: 30px 0;}
     .container {width: 670px;}
     .logo-header{left: 50px;}
     .tahap-pemesanan-list{background:none;padding:0}
     .style-2{
-        height: 400px;
+        /* height: 400px;
         background-position-x: -100px;
-        width:100%;
+        width:100%; */
+        height: auto;
+        background-size: cover;
+        background-position-x: -1vw;
+        background-position-y: 0;
+        background-color: #000;
     }
     .new5{
-        bottom: -16em; /** was -6em **/
+        bottom: -19em; /** was -6em **/
         right: 3em; /** was 2em **/
         width: calc(50vw - 1vh);
         margin-top:0;
         padding-bottom: 1em;
-        font-size: 18px;
-        font-family: 'Lato', serif;
+        /* font-family: 'Lato', serif; */
         font-weight: 100;
+    }
+    .new5 h2{
+        font-size: 1.8rem;
     }
 
     .m-new{
@@ -686,6 +764,9 @@ section,footer{margin-left:95px}
 
 }
 @media (max-width: 767px){
+    .gold-bar{
+        width: 36%;
+    }
       .logique-nav {
         margin-right: -150px;
         margin-left: auto;
@@ -735,6 +816,7 @@ header h1{font-size: 40px;}
 .card3, .card2{padding: 10px 0;}
 .title-custom{right: 0;}
 .border-l.text-right .text-right{text-align:left!important}
+.text-left{text-align: left;}
 .btn-logic{margin-bottom: 15px;}
 .title-custom-p{width: auto;}
 .custom-p-2{width: auto;}
@@ -788,10 +870,11 @@ footer {padding-bottom: 0}
     }
     .style-2{
         position: relative;
-        background-position-x: -50px;
+        background-position-x: -13vw;
+        background-size: cover;
     }
     .style-1 h2{
-        font-size: 24px;
+        font-size: 2rem;
         line-height: 36px;
         font-weight: 595;
     }
@@ -801,7 +884,7 @@ footer {padding-bottom: 0}
         right: 10px;
         font-size: 24px;
         width: 245px; 
-        font-family: 'Lato', serif;
+        /* font-family: 'Lato', serif; */
     }
     .new5 h2{
         font-size: 1.2rem;

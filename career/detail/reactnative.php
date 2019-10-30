@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/career/">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
     <meta property="og:description"
         content="Dicari React native developer yang terbiasa menggunakan native build tools, pernah merilis aplikasi android/iOS, serta memiliki pengetahuan mendalam tentang JavaScript dan TypeScript, HTML, CSS, dan RESTful APIs. Diutamakan berpengalaman dengan Native Android dan iOs SDKs">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -43,6 +43,7 @@
         },
         "jobBenefits": "Medical, Life, Dental",
         "datePosted": "2019-10-14",
+        "validThrough": "2020-10-14",
         "description": "Dicari React native developer yang terbiasa menggunakan native build tools, pernah merilis aplikasi android/iOS, serta memiliki pengetahuan mendalam tentang JavaScript dan TypeScript, HTML, CSS, dan RESTful APIs. Diutamakan berpengalaman dengan Native Android dan iOs SDKs.<br><br>Job Description:<ul><li>Membuat UI yang untuk mobile platform.</li><li>Menggunakan Native API agar dapat diintegrasikan secara mendalam untuk mobile platform Android/iOS.</li><li>Bekerja sama dengan tim design agar dapat direalisasikan dalam bentuk desain UI/UX.</li><li>Mendiagnosa dan memperbaiki masalah aplikasi.</li><li>Kontribusi dalam komunitas React Native untuk melakukan pelaporan, permintaan, dan membantu dalam mengimplementasikan sebuah perbaikan.</li><li>Memelihara sistem React Native agar tetap stabil.</li><li>Selalu Up to date terhadap perkembangan platform terbaru.</li></ul><br><br>Requirement:<ul><li>Pengalaman pada bidang software development minimal 2 tahun.</li><li>Memiliki ijazah S1 atau S2 / pengalaman dalam bidang Ilmu Teknologi atau relevant.</li><li>Memiliki pemahaman yang mendalam terhadap JavaScript dan Type Script.</li><li>Memiliki pengalaman yang luas dengan React Native dan RESTful APIs.</li><li>Mahir dalam menggunakan HTML dan CSS.</li><li>Memiliki kebiasaan menggunakan native build tools,(Xcode, Android Studio/IntelliJ, danGradle).</li></ul>",
         "educationRequirements": "Memiliki ijazah S1 atau S2 / pengalaman dalam bidang Ilmu Teknologi atau relevant.",
         "employmentType": "FULL_TIME",

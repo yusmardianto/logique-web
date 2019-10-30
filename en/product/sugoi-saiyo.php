@@ -145,9 +145,9 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 					</div>
 					<div class="col-md-offset-1 col-md-10">
 						<img src="img/sugoi-saiyo/logo.png" alt="Sugoi Saiyo Logo" class="img-responsive center-block">
-						<h1>Employee Recruitment System</h1>
+						<h1>A Better Employee Recruitment System</h1>
 						<div class="text-center desc-first">
-							Are you tired of sifting through too many CV’s and communicating with too many unqualified job seekers? Now, you do not have to be anymore. With SUGOI SAIYO, the <b>recruitment process</b> can be done as efficient as selecting the best food from the menu.
+							Are you tired of sifting through bundles of CVs, only to communicate with unqualified job seekers? Now, you don’t have to be anymore. With SUGOI SAIYO, therecruitment process is as easy as picking out the best food from a buffet.
 						</div>
 					</div>
 				</div>
@@ -157,35 +157,35 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 			<div class="container">
 				<a href="/"><img src="img/sugoi-saiyo/logo_logique.png" alt="Sugoi Saiyo Logo" style="position:absolute;top: 0;"></a>
 				<h2>What is SUGOI SAIYO?</h2>
-				<p>SUGOI SAIYO is an IT Cloud system for <b>human resources</b> department in Indonesia in recruiting prospective employees. There are many obstacles they usually face in the HR selection process, such as filtering out too many CVs that do not meet the requirements, difficulty in communicating with applicants, applicants who bail on interview schedules, and many more. All of these can waste too much time and effort.</p>
-				<h3>SUGOI SAIYO is the solution of the problem.</h3>
-				<p>In addition to help and reduce stress in human resources department, SUGOI SAIYO is also very convenient for applicants. It can easily manage the entire process from application to status confirmation, test, up to the offering letter from the company through the designated MY PAGE feature.</p>
+				<p>Sugoi Saiyo is an IT Cloud System built for <b>human resources</b> to recruit prospective employees efficiently. There are many obstacles that HR must face during the selection process, including filtering out the many CVs that don’t meet the standard requirement, a difficulty in communicating with applicants, and applicants who bail on planned interviews. Such issues can waste your company’s time and effort. </p>
+				<h3>SUGOI SAIYO is an Effective Management Solution to your Recruitment Problem</h3>
+				<p>In addition to helping reduce the strain on the human resources department, SUGOI SAIYO is also convenient for candidates on the other end, as its interface can manage the entire application process: from CV submission, status confirmation, testing, right up to the presentation of the company’s final offering letter through the designated MY PAGE feature.</p>
 			</div>
 		</section>
 		<section class="obstacle">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4 obstacle-title">
-						<h2>Difficulties in recruitment activities in Indonesia / Challenges for Recruiters</h2>
+						<h2>Difficulties Faced During the Recruitment Process in Indonesia / Challenges for Recruiters</h2>
 						<a href="#contact" class="smooth btn-ss">Apply for a trial now</a>
 					</div>
 					<div class="col-md-8">
 						<div class="row">
 							<div class="col-md-6 col-sm-6">
 								<img src="img/sugoi-saiyo/kendala-1.png" alt="Kendala" class="img-responsive center-block">
-								<p>Get a lot of job applications but not meet the requirements required by the company, thus making the selection phase of HR becomes inefficient.</p>
+								<p>Receive many job applications that don’t fit the standard requirements of the position, thereby making the selection process more inefficient.</p>
 							</div>
 							<div class="col-md-6 col-sm-6">
 								<img src="img/sugoi-saiyo/kendala-2.png" alt="Kendala" class="img-responsive center-block">
-								<p>Human resources staff can’t contact applicants to provide updated information on their status, and vice versa, applicants are not aware of the latest information regarding the status of applications that have been submitted.</p>
+								<p>The Human Resources Department is unable to contact applicants to update them as to their potential employment. Therefore, candidates will be left unaware about their current application status throughout the process.</p>
 							</div>
 							<div class="col-md-6 col-sm-6">
 								<img src="img/sugoi-saiyo/kendala-3.png" alt="Kendala" class="img-responsive center-block">
-								<p>Applicants arrive late from the specified interview time, or don’t even show up.</p>
+								<p>Applicants arrive late during the interview, or fail to even show up.</p>
 							</div>
 							<div class="col-md-6 col-sm-6">
 								<img src="img/sugoi-saiyo/kendala-4.png" alt="Kendala" class="img-responsive center-block">
-								<p>Human resources staff should get candidates that meet the requirements in a short time.</p>
+								<p>Human recourses staff should get candidates who meet the requirements, quickly and efficiently.</p>
 							</div>
 						</div>
 					</div>
@@ -205,77 +205,77 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 						<div class="feature f-company">
 							<div class="number">1</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-1.png" alt="Fitur Perusahaan"></div>
-							<p>SUGOI SAIYO is able to display the list of CVs that have been accepted so they can be managed very easily.</p>
+							<p>Sugoi Saiyo is able to display the CV list in a comprehensible and easy to read manner, making sorting through the pile an easy task.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">2</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-2.png" alt="Fitur Perusahaan"></div>
-							<p>Companies can schedule interviews with candidates in a flexible and transparent way.</p>
+							<p>Companies are now able to schedule interviews with candidates in a flexible and transparent way.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">3</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-3.png" alt="Fitur Perusahaan"></div>
-							<p>Create a digital report with numeric scoring of each interview with candidates so that HRD can decide the selection logically.</p>
+							<p>Create a digital report with a numerically based scoring system regarding the selection process so that HRD can logically proceed with the selection process.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">4</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-4.png" alt="Fitur Perusahaan"></div>
-							<p>Sending and receiving documents related to the selection process of candidates, such as technical test, offering letter, etc. can be done as easy as sending an email.</p>
+							<p>Sending and receiving documents related to each step of the selection process, (technical tests, the offering , etc.) is as easy as sending an email. </p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">5</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-5.png" alt="Fitur Perusahaan"></div>
-							<p>Can perform input, edit, and delete data and information about the position available very easily by human resources staff.</p>
+							<p>SUGOI SAIYO can perform inputting, editing and data deletion functions regarding each potential candidate’s position. Such options will be readily accessible to the human resources staff.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">6</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-6.png" alt="Fitur Perusahaan"></div>
-							<p>Give scores to each recruitment process of each candidate in a transparent way so that candidates are able to know the results real time and anywhere.</p>
+							<p>Score each step of the recruitment process in a transparent way so that each candidate will be able to know the results anywhere and in real time.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">7</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-7.png" alt="Fitur Perusahaan"></div>
-							<p>Manage every stage of HR selection process with just one click (process/reject).</p>
+							<p>Manage every stage of the HR selection process through just one click (Process/Reject).</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">8</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-8.png" alt="Fitur Perusahaan"></div>
-							<p>Displays the total of each stage of HR selection that is being processed, from CV screening, interview schedule, to total offering letter status in one dashboard page.</p>
+							<p>Display the overall progress regarding each candidate on one dashboard page for activities such as CV screening, interview schedule, and the status of the offering letter.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">9</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-9.png" alt="Fitur Perusahaan"></div>
-							<p>Manage the list of person in charge (PIC) users for each position very easily.</p>
+							<p>Manages and lists the person in charge of each position in a user friendly manner.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">10</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-10.png" alt="Fitur Perusahaan"></div>
-							<p>Create offering letters for qualified candidates automatically.</p>
+							<p>Automatically creates offering letters for qualified candidates.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-company">
 							<div class="number">11</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-p-11.png" alt="Fitur Perusahaan"></div>
-							<p>Notify via email for every progress of the selection stage of the candidate.</p>
+							<p>Each progressive stage of the application process is notified via email. </p>
 						</div>
 					</div>
 				</div>
@@ -293,35 +293,35 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 						<div class="feature f-candidate">
 							<div class="number">1</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-k-1.png" alt="Fitur Perusahaan"></div>
-							<p>Register and submit documents related to HR selection process, such as CV, photo, certificate, to technical test at the desired position. All done digitally without the hassle of bringing it all to the selection site.</p>
+							<p>Submit documents appropriate to the HR selection process, such as your CV, photo, certificates and technical tests in regards to the desired position. Everything is donedigitally without the hassle of brining everything to the selection site.</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-candidate">
 							<div class="number">2</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-k-2.png" alt="Fitur Perusahaan"></div>
-							<p>Display the history time of every process that candidates have passed or will be done, ranging from the CV screening to the interview in a transparent and real time.</p>
+							<p>Display the progress of each candidate in a fluid and easy to read manner, in regards to their current application stage and those yet to be completed. </p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="feature f-candidate">
 							<div class="number">3</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-k-3.png" alt="Fitur Perusahaan"></div>
-							<p>Display the interview schedule which will be executed by candidate, either interview with human resources staff, or with PIC user of every position (manager) and director.</p>
+							<p>Better employer-candidate coordination through conveniently displaying the interview schedule, which can then be conducted through a human resources staff or with a Person In Charge of a managerial or directorial position.</p>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-12">
 						<div class="feature f-candidate-2">
 							<div class="number">4</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-k-4.png" alt="Fitur Perusahaan"></div>
-							<p>Display the pass status of candidates from each stage of the recruitment process in a dashboard view.</p>
+							<p>Display the pass/fail status of each candidate throughout each stage of the recruitment process through the dashboard view.</p>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-12">
 						<div class="feature f-candidate-2">
 							<div class="number">5</div>
 							<div class="img-feature-o"><img src="img/sugoi-saiyo/fitur-k-5.png" alt="Fitur Perusahaan"></div>
-							<p>Notify via email of every selection process results and confirmation of interview schedule.</p>
+							<p>Notifications via Email are sent after every stage passed as well as confirmations about interview schedules.</p>
 						</div>
 					</div>
 				</div>
@@ -340,7 +340,7 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 						<div class="row">
 							<div class="col-md-4 col-sm-6 col-xs-12">
 								<div class="benefit">
-									Can have candidates assessment standards based on scoring each stage of HR selection.
+									Candidate assessment standards based off of scores received during each stage of the HR selection process.
 								</div>
 							</div>
 							<div class="col-md-4 col-sm-6 col-xs-12">
@@ -350,22 +350,22 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 							</div>
 							<div class="col-md-4 col-sm-6 col-xs-12">
 								<div class="benefit">
-									References of qualified candidates become more numerous and varied.
+									References of qualified candidates are more numerous and varied.
 								</div>
 							</div>
 							<div class="col-md-4 col-sm-6 col-xs-12">
 								<div class="benefit">
-									Easy to control, supervise, visualize, and perform candidate filtration.
+									Easy to control, supervise and perform candidate filtration.
 								</div>
 							</div>
 							<div class="col-md-4 col-sm-6 col-xs-12">
 								<div class="benefit">
-									Candidates data are guaranteed stored safely (secure) in the system.
+									The personal data of each candidate is stored safety and securely within the system. 
 								</div>
 							</div>
 							<div class="col-md-4 col-sm-6 col-xs-12">
 								<div class="benefit">
-									Information about the candidate is accurate and detailed.
+									Information about each candidate is accurate and detailed.
 								</div>
 							</div>
 						</div>
@@ -383,22 +383,22 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 				<div class="row m-50">
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="benefit">
-							Take the test online without having to come to the company.
+							Take the test online without having to be present at an interview location.
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="benefit">
-							Know the status of each stage of the recruitment process directly.
+							Receive direct information about the status of each stage of the recruitment process. 
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="benefit">
-							Simplify the job application process only by registration step and fill out the form online.
+							A Simplified Application Process.
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="benefit">
-							Save cost and time with a short and simple process.
+							Save time and money through a short and simple process
 						</div>
 					</div>
 				</div>
@@ -440,53 +440,51 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 					<div class="col-sm-6">
 						<h3>Q. Is Sugoi Saiyo a cloud system?</h3>
 						<p>
-							Sugoi Saiyo runs on our managed cloud server. There is no need for you to prepare any kind of server. You can start using it immediately after your contract.
-							However, you can install and use it on your managed server. Please feel free to contact us for further information.
+							Sugoi Saiyo runs on our managed cloud server. There is no need for you to prepare any type of server and you can start using it immediately after the completion of your contract. However, you can also install it and use it in your managed server. Please feel free to contact us in regards to further information.
 						</p>
-						<h3>Q. Are there any restrictions for user to use?</h3>
+						<h3>Q. Are there any restrictions regarding the user’s side? </h3>
 						<p>
-							You can use a browser. If you use the latest version of main browser such as Chrome, Firefox, Safari, Edge, you can use without any problem.
+							You can use the latest version of the main browser, such as Chrome, Firefox, Safari and Edge. 
 						</p>
-						<h3>Q. Price? Is it possible to pay one time for buying the system right?</h3>
+						<h3>Q. It’s possible to buy the system in a single purchase payment, right?</h3>
 						<p>
-							Basically, we will charge you a monthly fee with no initial cost. However, you can customize the complete system and deliver it to your company server.
+							We charge a monthly fee without any initial cost. However, you can customize the system so as to have it delivered to your company’s server. 
 							<br>
-							Please contact us as it is possible to make a batch request.
+							Please contact us so as to make a batch request
 						</p>
 						<h3>Q. Is there a minimum contract term?</h3>
 						<p>
-							There is no time restriction at present. If you use it without customization, you can use it for only one month
+							There are presently no time restrictions. Without customization, you will be able to use it for one month.
 						</p>
-						<h3>Q. Who is your main target company?</h3>
+						<h3>Q. What type of company is this software targeted to?</h3>
 						<p>
-							We think that it can be used by various companies, but it will be more effective for company that recruit more than a 2 or 3 people a month. 
-							SugoiSaiyo is powerful because it has multiple branch offices and all branch offices can be managed collectively at once.
+							We think that it can be used by a wide range of enterprises, though it would be more effective for companies seeking to recruit more than 2 or 3 people a month. Sugoi Saiyo is a powerful tool as it utilizes multiple branch offices that can all be managed at once.
 						</p>
-						<h3>Q. Is a psychological test included?</h3>
+						<h3>Q. Does it come with a psychological test?</h3>
 						<p>
-							Our system can cooperate with external psychological tests and save the test results. You can conduct your own customized psychological test.
+							Our system is compatible with external psychological tests, of which the results can be saved. Additionally, you can conduct your own customized psychological test. 
 						</p>
 					</div>
 					<div class="col-sm-6">
-						<h3>Q. Can I collaborate with JobStreet?</h3>
+						<h3>Q. Would it be possible to collaborate with JobStreet?</h3>
 						<p>
-							We recommend that you post the entrance URL of your company in Sugoi Saiyo on JobStreet. If you do so, you don't have to manage from Jobstreet system because you can manage it collectively with SugoiSaiyo at once.
+							We recommend that you post the entrance URL of your company in Sugoi Saiyo on Jobstreet. If you do so, you won’t have to manage anything from Jobstreet, as everything can collectively be managed through SugoiSaiyo.
 						</p>
 						<h3>Q. You can manage the schedule of interviews, but can you cooperate with the reservation of the interview meeting room?</h3>
 						<p>
 							Yes, we can cooperate the reservation if you request for customization
 						</p>
-						<h3>Q. Is it included with an AI function?</h3>
+						<h3>Q. Does it include AI functions?</h3>
 						<p>
-							It has not been implemented yet, but it can be customized if requested.
+							This has not been implemented yet, but we can include a customization if requested.
 						</p>
-						<h3>Q. Can I receive Notifications about new applications?</h3>
+						<h3>Q. Is it possible to receive notifications about new applications?</h3>
 						<p>
-							Users registered as recruiters can be notified by email that new applications have been submitted.
+							Users registered as recruiters can notify through email that new applications have been submitted
 						</p>
-						<h3>Q. Is there any limit on the number of jobs, job types, positions, etc.?</h3>
+						<h3>Q. Is there any limit on the number of jobs, job types, positions, etc. available?</h3>
 						<p>
-							There is no limit. You can open up as many number of positions at the same time.
+							There is no limit. You can open up as many positions at the same time.
 						</p>
 						<h3>Q. Is Sugoi Saiyo only for the recruiter or company’s HR department?</h3>
 						<p>

@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/career/">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
     <meta property="og:description"
         content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Inside Sales">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -43,6 +43,7 @@
         },
         "jobBenefits": "Medical, Life, Dental",
         "datePosted": "2019-10-14",
+        "validThrough": "2020-10-14",
         "description": "Multinasional Digital Agency membuka lowongan Inside Sales yang handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital.Berpengalaman minimal 2 tahun, mampu bekerja sesuai target dan customer oriented.<br><br>Job Description:<ul><li>Mengembangkan dan memperluas jaringan client/customer perusahaan melalui strategi networking dan marketing dengan berbagai instansi, grup, komunitas, dan perusahaan.</li><li>Menemukan dan membangun relasi yang baik dengan client/customer baru maupun yang sudah ada.</li><li>Melakukan telepon dengan calon client/customer, serta menindaklanjuti proposal dan penawaran kepada client/customer.</li><li>Membuat laporan mingguan untuk mengetahui kemajuan target sales serta mendokumentasikan performa sales.</li><li>Menjawab pertanyaan, menjelaskan manfaat, dan membahas pro dan kontra berbagai produk atau layanan perusahaan.</li><li>Mampu bekerja sama dengan departemen lainnya.</li><li>Mampu mencapai target sales secara individu.</li></ul><br><br>Must Skill/Experience<ul><li>Memiliki gelar minimal D3/S1 di bidang Bisnis/Marketing/IT, atau lainnya yang relevan.</li><li>Memiliki minimal 2 tahun pengalaman di bidang yang sejenis.</li><li>Memahami proses dan dinamika dunia sales.</li><li>Mampu bekerja sesuai target.</li><li>Memiliki komitmen yang tinggi pada kualitas pelayanan untuk client/customer.</li><li>Memiliki keahlian interpersonal yang luar biasa, termasuk ketangkasan dalam membangun hubungan baik dengan client/customer.</li></ul>",
         "educationRequirements": "Memiliki gelar minimal D3/S1 di bidang Bisnis/Marketing/IT, atau lainnya yang relevan.",
         "employmentType": "FULL_TIME",

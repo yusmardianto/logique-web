@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style="overflow-x: hidden;">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -47,9 +47,11 @@
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="../css/style.css" rel="stylesheet">
+		<link href="../css/style.css" rel="stylesheet">
+		<link href="../css/slick.css" rel="stylesheet">
+    <link href="../css/slick-theme.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+		<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
     </head>
 	<body>
@@ -117,195 +119,74 @@
 					</div>
 				</div>
 			</div>
-			<!-- NAVIGATION -->
+			<!-- END NAVIGATION -->
 
 			<div class="container-fluid">
-				<div class="row">
-					<div class="col-sm-offset-1 col-sm-10">
-						<div class="lang-logo" style="position:relative;z-index:1">
-							<ul class="list-inline">
-								<li class="active"><a href="#">EN</a></li>
-								<li><a href="../index.php">ID</a></li>
-								<li><a href="../jp/index.php">JP</a></li>
-							</ul>
-							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-sm-12">
-						<div class="title-container visible-xs">
-						<br/>
-							<div id="myCarousel2" class="carousel slide carousel-home-new" data-interval="false">
-							  <div class="carousel-inner">
-								<div class="item active">
-									<div class="text-center">
-										<h1 class="title-index">
-											The <span class="yellow">Top</span> Web Development Company in Jakarta, Providing <span class="yellow">Digital Solutions</span> For Your Business
-										</h1>
-										<p class="p-padding-v-15">
-											<b>LOGIQUE DIGITAL INDONESIA</b> is a professional Web Development company that
-												specializes in creating and designing Websites and Apps, with an emphasis on
-												Digital Marketing operations with the end goal of improving your business and
-												maximizing profits.
-												Having worked with many high-end clients ranging from the local to international
-												levels, our company has catered to various requests, such as creating online
-												auction systems, E-Commerce, employee recruitment systems and digital ads
-												operations.
-										</p>
-										<p class="p-padding-v-15">
-												We are committed to producing a variety of high quality digital products for our
-												clients which conform to an international standard of excellence. We are
-												trustworthy experts and can work flexibly according to your specific requests.
-												Working with us and utilizing the best solutions provided by our team is an
-												opportunity to grow and improve your business’s overall profits in a digitalized
-												age.
-										</p>
-										<div class="row">
-											<div class="col-lg-offset-1 col-lg-10">
-												<div class="row">
-													<div class="col-md-3 col-sm-6">
-														<a href="/en/services/web-dev.php" class="div-service-cat">
-															<img src="/img/top/i-top1.png" alt="Website Production Service" class="center-block img-responsive"/>
-															<h2>Website Production Service</h2>
-														</a>
-													</div>
-													<div class="col-md-3 col-sm-6">
-														<a href="/en/services/mobile-app-dev.php" class="div-service-cat">
-															<img src="/img/top/i-top2.png" alt="Apps Development Service" class="center-block img-responsive"/>
-															<h2>Apps Development Service</h2>
-														</a>
-													</div>
-													<div class="col-md-3 col-sm-6">
-														<a href="/en/services/system-dev.php" class="div-service-cat">
-															<img src="/img/top/i-top3.png" alt="Web System Development Service" class="center-block img-responsive"/>
-															<h2>Web System Development Service</h2>
-														</a>
-													</div>
-													<div class="col-md-3 col-sm-6">
-														<a href="/en/services/penetration-test.php" class="div-service-cat">
-															<img src="/img/top/i-top4.png" alt="Penetration Testing Service" class="center-block img-responsive"/>
-															<h2>Penetration Testing Service</h2>
-														</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
 
-								<div class="item">
-									<h1 class="text-center title-index title-index2">
-										We Provide <span class="yellow">HR-Tech</span> Solutions for Indonesia’s Digital Market
-									</h1>
-									<div class="row">
-										<div class="col-md-10 col-md-offset-1 text-center">
-											<p class="p-padding-v-15">
-												Due to high levels of traffic congestion, as well as numerous other performance
-												hindering circumstances, overall employee mobility will likely be affected. As a
-												result, the productivity of the company declines. LOGIQUE offers a flexible
-												solution to the limitations of remote working for employees; our software,
-												Dokodemo-Kerja. This system can accurately monitor and calculate employee
-												working hours.
-											</p>
-											<p class="p-padding-v-15">
-												We also offer recruitment software which can assist Human Resources through
-												connecting job seekers and employers in a more effective manner. Sugoi Saiyo is
-												a system designed to carry out the recruitment process so that the most suitable
-												candidates can be filtered through to HR quickly and more efficiently,
-												automatically structuring the time and place of the interview.
-											</p>
-											<p class="p-padding-v-15">
-												Through bridging the link between HR and Technology, LOGIQUE also offers a
-												helpful way to assist management in easily monitoring and evaluating the
-												progression of employee performance through a daily reporting system called
-												Nippo.
-											</p>
-											<div class="row">
-												<div class="col-md-3">
-													<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="flipp">
-														<img src="/img/top/i-dokodemo.png" alt="dokodemo">
-													</a>
-												</div>
-												<div class="col-md-3">
-													<a href="/en/product/sugoi-saiyo.php" class="flipp">
-														<img src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
-													</a>
-												</div>
-												<div class="col-md-3">
-													<a href="/en/product/nippo.php" class="flipp">
-														<img src="/img/top/i-nippo.png" alt="nippo">
-													</a>
-												</div>
-												<div class="col-md-3">
-													<a href="/en/services/recruitment-web-dev.php" class="flipp">
-														<img src="/img/top/i-hr-site.png" alt="hr site">
-													</a>
-												</div>
-											</div>
-										</div>
+				<div class="row lang-logo--update-design">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-offset-1 col-sm-11">
+									<div class="container">
+										<ul class="list-inline">
+											<li class="active"><a href="#">EN</a></li>
+											<li><a href="../index.php">ID</a></li>
+											<li><a href="../jp/index.php">JP</a></li>
+										</ul>
+										<a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design"/></a>
 									</div>
-								</div>
-
-								<div class="item">
-									<h1 class="text-center title-index title-index2">
-										Case Study
-									</h1>
-									<div class="row">
-										<div class="col-md-10 col-md-offset-1 text-center">
-											<p class="p-padding-v-15">
-												For 7 years, LOGIQUE has helped many high-end clients, ranging from the local to
-												international levels, by developing and designing various Websites and Mobile
-												Apps. In accordance to our goals, LOGIQUE commits to providing the best
-												solutions to our clients; having worked successfully on many products regarding
-												e-commerce development, car/motorcycle auction management, customer
-												management system development and much more.
-											</p>
-											<div class="row">
-												<div class="col-md-3">
-													<a href="/en/case-study/caroline-bidding-system/" class="flipp">
-														<img src="/img/top/i-caroline.png" alt="caroline">
-													</a>
-												</div>
-												<div class="col-md-2">
-													<a href="/en/case-study/jba-auction-system/" class="flipp">
-														<img src="/img/top/i-jba.png" alt="jba">
-													</a>
-												</div>
-												<div class="col-md-2">
-													<a href="/en/case-study/opuspark/" class="flipp">
-														<img src="/img/top/i-opus-park.png" alt="opus park">
-													</a>
-												</div>
-												<div class="col-md-2">
-													<a href="/en/case-study/zuttoride-customer-management-system/" class="flipp">
-														<img src="/img/top/i-zuttoride.png" alt="zuttoride">
-													</a>
-												</div>
-												<div class="col-md-3">
-													<a href="/en/case-study/vip-plaza-progressive-web-app/" class="flipp">
-														<img src="/img/top/i-vipplaza.png" alt="vip plaza">
-													</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-
-							  </div>
-							  <a class="left carousel-control" href="#myCarousel2" data-slide="prev">
-								<span class="fa fa-angle-left"></span>
-								<span class="sr-only">Previous</span>
-							  </a>
-							  <a class="right carousel-control" href="#myCarousel2" data-slide="next">
-								<span class="fa fa-angle-right"></span>
-								<span class="sr-only">Next</span>
-							  </a>
 							</div>
-
 						</div>
 					</div>
 				</div>
+
+				<div class="row" >
+					<div class="col-sm-offset-1 col-sm-11">
+						<div class="title-container visible-sm visible-xs">
+
+							<div class="text-center container__custom-white" style="background: none;">
+								<div class="title-index">
+								The Top Web Development Company in Jakarta, Providing Digital Solutions for Your Business
+								</div>
+								<hr class="title__yellow-line">
+								<p>LOGIQUE DIGITAL INDONESIA is a professional Web Development company that specializes in creating and designing Websites and Apps, with an emphasis on Digital Marketing operations with the end goal of improving your business and maximizing profits. <br><br>
+								Having worked with many high-end clients ranging from the local to international levels, our company has catered to various requests, such as creating online auction systems, E-Commerce, employee recruitment systems and digital ads operations.</p><br>
+
+								<div class="row">
+									<div class="col-lg-offset-1 col-lg-10">
+										<div class="row">
+										<div class="col-xs-6">
+											<a href="/en/services/web-dev.php" class="div-service-cat">
+												<img src="/img/top/i-top1.png" alt="Website Production Service" class="center-block img-responsive"/>
+												<h2>Website Production Service</h2>
+											</a>
+										</div>
+										<div class="col-xs-6">
+											<a href="/en/services/pembuatan-aplikasi-mobile.php" class="div-service-cat">
+												<img src="/img/top/i-top2.png" alt="Apps Development Service" class="center-block img-responsive"/>
+												<h2>Apps Development Service</h2>
+											</a>
+										</div>
+										<div class="col-xs-6">
+											<a href="/en/services/pembuatan-sistem-web.php" class="div-service-cat">
+												<img src="/img/top/i-top3.png" alt="Web System Development Service" class="center-block img-responsive"/>
+												<h2>Web System Development Service</h2>
+											</a>
+										</div>
+										<div class="col-xs-6">
+											<a href="/en/services/penetration-test.php" class="div-service-cat">
+												<img src="/img/top/i-top4.png" alt="Penetration Testing Service" class="center-block img-responsive"/>
+												<h2>Penetration Testing Service</h2>
+											</a>
+										</div>
+									</div>
+									</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
 			</div>
 
 			<div class="contain-video">
@@ -314,175 +195,50 @@
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
+
 			<div id="bgImg" style="height: auto;">
 				<div class="img">
 
-					<div class="title-container hidden-xs">
-
-						<div id="myCarousel" class="carousel slide carousel-home-new" data-interval="false">
-						  <div class="carousel-inner">
-							<div class="item active">
-								<div class="text-center">
-									<h1 class="title-index">
-										The <span class="yellow">Top</span> Web Development Company in Jakarta, Providing <span class="yellow">Digital Solutions</span> For Your Business
-									</h1>
-									<p class="p-padding-v-15">
-									<b>LOGIQUE DIGITAL INDONESIA</b> is a professional Web Development company that
-												specializes in creating and designing Websites and Apps, with an emphasis on
-												Digital Marketing operations with the end goal of improving your business and
-												maximizing profits.
-												Having worked with many high-end clients ranging from the local to international
-												levels, our company has catered to various requests, such as creating online
-												auction systems, E-Commerce, employee recruitment systems and digital ads
-												operations.
-										</p>
-										<p class="p-padding-v-15">
-												We are committed to producing a variety of high quality digital products for our
-												clients which conform to an international standard of excellence. We are
-												trustworthy experts and can work flexibly according to your specific requests.
-												Working with us and utilizing the best solutions provided by our team is an
-												opportunity to grow and improve your business’s overall profits in a digitalized
-												age.
-										</p>
-									<div class="row">
-										<div class="col-lg-offset-1 col-lg-10">
-											<div class="row">
-												<div class="col-md-3 col-sm-6">
-													<a href="/en/services/web-dev.php" class="div-service-cat">
-														<img src="/img/top/i-top1.png" alt="Website Production Service" class="center-block img-responsive"/>
-														<h2>Website Production Service</h2>
-													</a>
-												</div>
-												<div class="col-md-3 col-sm-6">
-													<a href="/en/services/mobile-app-dev.php" class="div-service-cat">
-														<img src="/img/top/i-top2.png" alt="Apps Development Service" class="center-block img-responsive"/>
-														<h2>Apps Development Service</h2>
-													</a>
-												</div>
-												<div class="col-md-3 col-sm-6">
-													<a href="/en/services/system-dev.php" class="div-service-cat">
-														<img src="/img/top/i-top3.png" alt="Web System Development Service" class="center-block img-responsive"/>
-														<h2>Web System Development Service</h2>
-													</a>
-												</div>
-												<div class="col-md-3 col-sm-6">
-													<a href="/en/services/penetration-test.php" class="div-service-cat">
-														<img src="/img/top/i-top4.png" alt="Penetration Testing Service" class="center-block img-responsive"/>
-														<h2>Penetration Testing Service</h2>
-													</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<div class="item">
-								<h1 class="text-center title-index title-index2">
-									We Provide <span class="yellow">HR-Tech</span> Solutions In Indonesia
-								</h1>
+					<div class="title-container hidden-sm">
+						<div class="row">
+							<div class="container">
 								<div class="row">
-									<div class="col-md-10 col-md-offset-1 text-center">
-											<p class="p-padding-v-15">
-												Due to high levels of traffic congestion, as well as numerous other performance
-												hindering circumstances, overall employee mobility will likely be affected. As a
-												result, the productivity of the company declines. LOGIQUE offers a flexible
-												solution to the limitations of remote working for employees; our software,
-												Dokodemo-Kerja. This system can accurately monitor and calculate employee
-												working hours.
-											</p>
-											<p class="p-padding-v-15">
-												We also offer recruitment software which can assist Human Resources through
-												connecting job seekers and employers in a more effective manner. Sugoi Saiyo is
-												a system designed to carry out the recruitment process so that the most suitable
-												candidates can be filtered through to HR quickly and more efficiently,
-												automatically structuring the time and place of the interview.
-											</p>
-											<p class="p-padding-v-15">
-												Through bridging the link between HR and Technology, LOGIQUE also offers a
-												helpful way to assist management in easily monitoring and evaluating the
-												progression of employee performance through a daily reporting system called
-												Nippo.
-											</p>
+									<div class="col-md-offset-1 col-md-6">
+										<h1 class="title-index">The Top Web Development Company in Jakarta, Providing Digital Solutions for Your Business</h1>
+										<hr class="title__yellow-line">
+										<p>LOGIQUE DIGITAL INDONESIA is a professional Web Development company that specializes in creating and designing Websites and Apps, with an emphasis on Digital Marketing operations with the end goal of improving your business and maximizing profits. <br><br>
+										Having worked with many high-end clients ranging from the local to international levels, our company has catered to various requests, such as creating online auction systems, E-Commerce, employee recruitment systems and digital ads operations.</p>
+									</div>
+									<div class="col-md-5">
 										<div class="row">
-											<div class="col-md-3">
-												<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="flipp">
-													<img src="/img/top/i-dokodemo.png" alt="dokodemo">
+											<div class="col-xs-6">
+												<a href="/en/services/web-dev.php" class="div-service-cat">
+													<img src="/img/top/i-top1.png" alt="Website Production Service" class="center-block img-responsive"/>
+													<h2>Website Production Service</h2>
 												</a>
 											</div>
-											<div class="col-md-3">
-												<a href="/en/product/sugoi-saiyo.php" class="flipp">
-													<img src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
+											<div class="col-xs-6">
+												<a href="/en/services/pembuatan-aplikasi-mobile.php" class="div-service-cat">
+													<img src="/img/top/i-top2.png" alt="Apps Development Service" class="center-block img-responsive"/>
+													<h2>Apps Development Service</h2>
 												</a>
 											</div>
-											<div class="col-md-3">
-												<a href="/en/product/nippo.php" class="flipp">
-													<img src="/img/top/i-nippo.png" alt="nippo">
+											<div class="col-xs-6">
+												<a href="/en/services/pembuatan-sistem-web.php" class="div-service-cat">
+													<img src="/img/top/i-top3.png" alt="Web System Development Service" class="center-block img-responsive"/>
+													<h2>Web System Development Service</h2>
 												</a>
 											</div>
-											<div class="col-md-3">
-												<a href="/en/services/recruitment-web-dev.php" class="flipp">
-													<img src="/img/top/i-hr-site.png" alt="hr site">
+											<div class="col-xs-6">
+												<a href="/en/services/penetration-test.php" class="div-service-cat">
+													<img src="/img/top/i-top4.png" alt="Penetration Testing Service" class="center-block img-responsive"/>
+													<h2>Penetration Testing Service</h2>
 												</a>
 											</div>
 										</div>
 									</div>
 								</div>
 							</div>
-
-							<div class="item">
-								<h1 class="text-center title-index title-index2">
-									Case Study
-								</h1>
-								<div class="row">
-									<div class="col-md-10 col-md-offset-1 text-center">
-											<p class="p-padding-v-15">
-												For 7 years, LOGIQUE has helped many high-end clients, ranging from the local to
-												international levels, by developing and designing various Websites and Mobile
-												Apps. In accordance to our goals, LOGIQUE commits to providing the best
-												solutions to our clients; having worked successfully on many products regarding
-												e-commerce development, car/motorcycle auction management, customer
-												management system development and much more.
-											</p>
-										<div class="row">
-											<div class="col-md-3">
-												<a href="/en/case-study/caroline-bidding-system/" class="flipp">
-													<img src="/img/top/i-caroline.png" alt="caroline">
-												</a>
-											</div>
-											<div class="col-md-2">
-												<a href="/en/case-study/jba-auction-system/" class="flipp">
-													<img src="/img/top/i-jba.png" alt="jba">
-												</a>
-											</div>
-											<div class="col-md-2">
-												<a href="/en/case-study/opuspark/" class="flipp">
-													<img src="/img/top/i-opus-park.png" alt="opus park">
-												</a>
-											</div>
-											<div class="col-md-2">
-												<a href="/en/case-study/zuttoride-customer-management-system/" class="flipp">
-													<img src="/img/top/i-zuttoride.png" alt="zuttoride">
-												</a>
-											</div>
-											<div class="col-md-3">
-												<a href="/en/case-study/vip-plaza-progressive-web-app/" class="flipp">
-													<img src="/img/top/i-vipplaza.png" alt="vip plaza">
-												</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						  </div>
-						  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-							<span class="fa fa-angle-left"></span>
-							<span class="sr-only">Previous</span>
-						  </a>
-						  <a class="right carousel-control" href="#myCarousel" data-slide="next">
-							<span class="fa fa-angle-right"></span>
-							<span class="sr-only">Next</span>
-						  </a>
 						</div>
 
 					</div>
@@ -490,8 +246,145 @@
 				</div>
 			</div>
 
-			<br/>
-			<?php include 'footer.php';?>
+			<div class="row container__custom-white">
+				<div class="container ">
+					<div class="row">
+						<div class="col-sm-offset-1 col-sm-11">
+							<img class="portofolio__illus" src="/img/our-portofolio.png" alt="portfolio">	
+							<div class="custombox__portfolio">
+								<h1 class="title-index">Our Portfolio</h1>
+								<hr class="title__yellow-line">
+								We are committed to producing a variety of high quality digital products for our clients which conform to an international standard of excellence. <br><br>
+								We are trustworthy experts and can work flexibly according to your specific requests. Working with us and utilizing the best solutions provided by our team is an opportunity to grow and improve your business’s overall profits in a digitalized age.<br>
+								<a class="custombox__btn" href="portfolio.php">See more</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row container__custom-white">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-offset-1 col-sm-11">
+							<h1 class="title-index--light">We Provide <span class="title-index--bold">HR-Tech Solutions</span> In Indonesia</h1>
+							<hr class="title__yellow-line">
+							<p>Due to high levels of traffic congestion, as well as numerous other performance hindering circumstances, overall employee mobility will likely be affected. As a result, the productivity of the company declines. We offer recruitment software which can assist Human Resources through connecting job seekers and employers in a more effective manner.</p>
+
+							<div class="product__slide" style="width: 95%; margin: 20px auto 0;">
+
+							<div class="custombox__product-wrapper">
+								<div class="custombox__product">
+									<div class="custombox__head">
+										<img class="custombox__product-img" src="/img/top/i-dokodemo.png" alt="dokodemo">
+									</div>
+									<h1 class="custombox__product-title">Dokodemo Kerja</h1>
+									<p class="custombox__product-content">LOGIQUE offers a flexible solution to the limitations of remote working for employees; our software, Dokodemo-Kerja. This system can accurately monitor and calculate employee working hours.</p>
+									<a class="custombox__btn-product" href="en/product/dokodemo-kerja.php">Learn More</a>
+								</div>
+							</div>
+							<div class="custombox__product-wrapper">
+								<div class="custombox__product">
+									<div class="custombox__head">
+										<img class="custombox__product-img" src="/img/top/i-nippo-update.png" alt="nippo">
+									</div>
+									<h1 class="custombox__product-title">Nippo</h1>
+									<p class="custombox__product-content">LOGIQUE offers a helpful way to assist management in easily monitoring and evaluating the progression of employee performance through a daily reporting system called Nippo.</p>
+									<a class="custombox__btn-product" href="/en/product/nippo.php">Learn More</a>
+								</div>
+							</div>
+								<div class="custombox__product-wrapper">
+								<div class="custombox__product">
+									<div class="custombox__head">
+										<img class="custombox__product-img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
+									</div>
+									<h1 class="custombox__product-title">Sugoisaiyo</h1>
+									<p class="custombox__product-content">Sugoi Saiyo is a system designed to carry out the recruitment process so that the most suitable candidates can be filtered through to HR quickly and more efficiently, automatically structuring the time and place of the interview.</p>									
+									<a class="custombox__btn-product" href="/en/product/sugoi-saiyo.php">Learn More</a>
+								</div>
+								</div>
+								<div class="custombox__product-wrapper">
+								<div class="custombox__product">
+									<div class="custombox__head">
+										<img class="custombox__product-img" src="/img/top/i-hiring-site.png" alt="hr site">
+									</div>
+									<h1 class="custombox__product-title">Custom Hiring Site</h1>
+									<p class="custombox__product-content">Your own recruitment website can be the key to make the process effective and efficient! We offer recruitment software which can assist Human Resources through connecting job seekers and employers.</p>
+									<a class="custombox__btn-product" href="/en/services/recruitment-web-dev.php">Learn More</a>
+								</div>
+								</div>
+
+							</div>
+
+
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row container__custom-white">
+				<div class="container text-center">
+					<div class="row">
+						<div class="col-sm-offset-1 col-sm-11 text-center">
+							<h1 class="title-index">CASE STUDY</h1>
+							<hr class="title__yellow-line--center">
+							<p>For 7 years, LOGIQUE has helped many high-end clients, ranging from the local to international levels, by developing and designing various Websites and Mobile Apps. In accordance to our goals, </p>
+	
+							<div class="case-study__img-wrapper">
+								<a href="/en/case-study/caroline-bidding-system" class="flipp">
+									<img src="/img/top/i-caroline.png" alt="caroline">
+								</a>
+								<a href="/en/case-study/jba-auction-system" class="flipp">
+									<img src="/img/top/i-jba.png" alt="jba">
+								</a>
+								<a href="/en/case-study/opuspark" class="flipp">
+									<img src="/img/top/i-opus-park.png" alt="opus">
+								</a>
+								<a href="/en/case-study/zuttoride-customer-management-system" class="flipp">
+									<img src="/img/top/i-zuttoride.png" alt="zuttoride">
+								</a>
+								<a href="/en/case-study/vip-plaza-progressive-web-app/" class="flipp">
+									<img src="/img/top/i-vipplaza.png" alt="vip plaza">
+								</a>
+							</div>
+	
+							<p>LOGIQUE commits to providing the best solutions to our clients; having worked successfully on many products regarding e-commerce development, car/motorcycle auction management, customer management system development and much more.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
 		</div>
+
+	<?php include 'footer.php';?>
+
+	<script>
+		$('.product__slide').slick({
+			infinite: true,
+			slidesToShow: 3,
+			slidesToScroll: 1,
+			// adaptiveHeight: true,
+			responsive: [
+				{
+					breakpoint: 1100,
+					settings: {
+						slidesToShow: 2,
+						slidesToScroll: 1,
+						infinite: true,
+						// dots: true
+					}
+				},
+				{
+					breakpoint: 700,
+					settings: {
+						slidesToShow: 1,
+						slidesToScroll: 1
+					}
+				}
+			]
+		});
+	</script>
+
+		
 	</body>
 </html>

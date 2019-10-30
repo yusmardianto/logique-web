@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/career/">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
     <meta property="og:description"
         content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Inside Sales">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -43,6 +43,7 @@
         },
         "jobBenefits": "Medical, Life, Dental",
         "datePosted": "2019-10-14",
+        "validThrough": "2020-10-14",
         "description": "Job Description:<ul><li>Melakukan dokumentasi terhadap pekerjaan karyawan setiap hari.</li><li>Melakukan kegiatan administrasi terkait dengan HR dan GA.</li><li>Melakukan kegiatan surat-menyurat elektronik kepada klien.</li><li>Merencanakan kegiatan outing per bulan.</li><li>Terlibat dalam pengelolaan dan pembaharuan dokumen dalam lingkup HR (peraturan perusahaan, kontrak karyawan, dan penawaran kerja).</li><li>Memonitoring penggunaan HR Tools.</li></ul><br><br>Must Skill/Experience<ul><li>Memiliki ijazah atau sedang menempuh pendidikan D3/S1 Psikologi, Manajemen, Administrasi.</li><li>Memiliki kemampuan interpersonal yang baik.</li><li>Mampu melakukan Multitasking dengan baik.</li><li>Mahir mengoperasikan Ms. Office.</li></ul>",
         "educationRequirements": "Memiliki ijazah atau sedang menempuh pendidikan D3/S1 Psikologi, Manajemen, Administrasi.",
         "employmentType": "INTERN",

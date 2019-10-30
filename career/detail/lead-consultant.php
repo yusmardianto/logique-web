@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/career/">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
     <meta property="og:description"
         content="Tertarik dan berpengetahuan yang baik dalam bidang pembuatan website, web sistem, atau aplikasi mobile? Bisa bekerja dibawah tekanan dan berkoordinasi dengan baik? Bergabunglah dengan PT LOGIQUE sebagai Pre-sales Consultant.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -43,6 +43,7 @@
         },
         "jobBenefits": "Medical, Life, Dental",
         "datePosted": "2019-10-14",
+        "validThrough": "2020-10-14",
         "description": "Requirement:<ul><li>Memiliki pengalaman sebagai IT Consultant minimal selama 3 tahun.</li><li>Sering terlibat dalam konsultasi dan perencanaan sistem berskala besar.</li><li>Memiliki kemampuan analisa dan pemecahan masalah yang sangat baik.</li><li>Memiliki pengetahuan yang sangat baik dalam bidang pembuatan website, web system, atau aplikasi mobile.</li><li>Memiliki kemampuan komunikasi dan presentasi yang sangat baik.</li><li>Mampu bekerja sama dalam tim.</li></ul><br><br>Job Description:<ul><li>Terlibat dalam proyek berskala menengah ke atas, mulai dari konsultasi, perencanaan, serta pengelolaan tim untuk memastikan proyek yang dijalankan sesuai dengan rencana.</li><li>Memberikan inisiatif dan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li><li>Berkolaborasi dengan bagian RnD untuk mendapatkan pengetahuan terhadap teknologi baru, dan membagikan informasi tersebut kepada tim konsultan untuk meningkatkan kemampuan konsultasi atau perencanaan.</li><li>Terlibat dan memberikan dukungan dalam proses penawaran, khususnya dalam mengestimasi usaha yang diperlukan untuk mengimplementasikan kebutuhan pelanggan ke dalam sistem.</li><li>Membuat rencana penerapan proyek dan dokumen pendukung atau laporan yang diperlukan.</li><li>Melakukan analisa terhadap teknologi atau sistem untuk kebutuhan konsultasi atau penawaran.</li><li>Melakukan koordinasi dan mengarahkan tim konsultan agar dapat bekerja dengan efektif.</li></ul>",
         "educationRequirements": "Memiliki pengalaman sebagai IT Consultant minimal selama 3 tahun.",
         "employmentType": "FULL_TIME",

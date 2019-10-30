@@ -40,11 +40,11 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-	<meta name="description" content="LOGIQUEは、WEBサイト・ホームページ制作、CMSやEC、会員管理システムなどの開発運用、Digitalマーケティング、アプリ開発、SNS運用、インターネットビジネスコンサルティングなどをインドネシアで提供しています。クライアントの新規事業をデジタル・IT面で幅広くご支援しています。お気軽に日本語でご連絡ください。">
+	<meta name="description" content="LOGIQUEは、E-Commerceシステム、CRMシステム、会計管理システムなど各種システム開発運用やアプリ開発、システムコンサルティングをインドネシアで行っています。クライアントの新規事業をデジタル・IT面で幅広くご支援しています。お気軽に日本語でご連絡ください。">
 	<meta name="keywords" content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<title>WEBザイン制作、ウェブシステム開発運用・モバイルアプリ開発 | LOGIQUE デジタルインドネシア</title>
+	<title>システム開発運用・アプリ開発 | LOGIQUE デジタルインドネシア</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
 	<link href="assets/css/style-systemdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
@@ -131,7 +131,7 @@
 		<!-- NAVIGATION -->
 		
 		<div class="container" style="position:relative">
-			<div class="row">
+			<!-- <div class="row"> -->
 				<!-- <div class="col-md-12">
 					<a href="/jp/" target="_blank">
 						<div class="logo-header">
@@ -139,7 +139,7 @@
 						</div>
 					</a>
 				</div> -->
-			</div>
+			<!-- </div> -->
 			<div class="row">
 				<div style="background: #000; font-weight: bold;">
 					<!-- breadcrumb -->
@@ -162,9 +162,9 @@
 					</div>
 					<!-- end of language -->
 				</div>
-				<div class=" col-sm-offset-6 col-sm-6 col-lg-offset-6 col-lg-6 bg-header-txt">
-					<h1 class="text-right m-new">インドネシアでシステム開発が必要ならLOGIQUEにご相談ください</h1>
-					<h2 class="text-right m-new">豊富な実績をベースに、早い、安い、でもクオリティは高いシステムを開発します。</h2>
+				<div class="col-lg-offset-6 col-lg-7 col-sm-offset-6 col-sm-6 bg-header-txt">
+					<h1 class="text-left m-new">インドネシアでシステム開発が必要ならLOGIQUEにご相談ください</h1>
+					<h2 class="text-left m-new">豊富な実績をベースに、<br> 早い、安い、でもクオリティは高いシステムを開発します。</h2>
 				</div>
 			</div>
 		</div>
@@ -172,7 +172,7 @@
 	<section class="style-1" style="padding-bottom: 0;padding-top:20px;">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-offset-1 col-md-10 text-center">
+				<div class="col-md-offset-1 col-md-10 text-left">
 					<h2>システム開発が必要なのに、コストが高いから、時間かかるから、難しいからと諦めていませんか？インドネシアでのIT/Webシステム開発はLOGIQUEにお任せください。柔軟にスピーディーにリーズナブルなコストで開発します。</h2>
 				</div>
 			</div>
@@ -181,11 +181,11 @@
 	<section class="style-2">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-offset-7 col-md-5">
+				<div class="col-lg-offset-5 col-lg-7 col-md-offset-3 col-md-9 col-sm-offset-4 col-sm-10 col-xs-offset-3 col-xs-9">
 					<div class="new5">
-						<h2 class="h2" style="padding-bottom: 12px;">LOGIQUEのシステム開発・WEBアプリ開発</h2>
-						<hr style="margin:0; border-top: 3px solid gold; padding: 0; width: 40%; float:right">
-						<h2 class="h2" style="padding-top: 12px;">
+						<h2 class="h2 text-right" style="margin-bottom: 1em;">LOGIQUEのシステム開発・WEBアプリ開発</h2>
+						<hr class="gold-bar">
+						<h2 class="h2" style="margin-top: 2em;">
 							自動車産業、保険など金融機関、政府団体向けの大規模なシステム開発からスタートアップ向けのアジャイル開発までインドネシアにて豊富な実績があります。
 						</h2>
 					</div>
@@ -197,31 +197,25 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-3 justify-content-center">
-					<h3 class="new1">高い技術力、最先端の技術の利用</h3>
+					<h3 class="new1">スピーディーで柔軟な開発</h3>
 					<img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
-					<p class="new4">会計管理、人事管理などの業務システムから、CMS、ECサイト構築、アンケートシステム開発、サーバ、インフラまで、幅広い分野のシステム開発をワンストップで対応することができます。多数のインドネシアでの開発実績と恐れずに新しい技術を取り入れていくことにより、素早く、柔軟で、長く使えるシステム構築を行います。</p>
+					<p class="new4">アジャイル開発を基本としています。スピード感こそが最も大事だと思います。当社がリードして柔軟でスピーディに開発していきます。ニーズに合わせた開発体制を敷きます。ラボ型開発サービスも提供しています。</p>
+				</div>
+				<div class="col-md-3 justify-content-center">
+					<h3 class="new1">高品質でセキュアなシステム</h3>
+					<img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
+					<p class="new4">高品質なシステム構築を行います。通常のテストに加えセキュリティ脆弱性テストを実施することをお奨めしています。SQLインジェクション、パストラバーサル、クロスサイトスクリプティングなどPenetrationテストを行いリスクを最小限にします</p>
+					<a href="../services/penetration-test.php" class="btn-contact-us-black-pent col-md-12">セキュリティ脆弱性診断はこちら</a>
+				</div>
+				<div class="col-md-3 justify-content-center">
+					<h3 class="new1">インドネシアでの豊富な経験</h3>
+					<img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
+					<p class="new4">自動車産業、金融、政府系団体など向けにインドネシアで多くのシステム開発を行ってきました。E-Commerceを構築するなかでインドネシアの決済連携事情なども熟知しています。業務理解が早く、要件定義コンサルティングもいたします。</p>
 				</div>
 				<div class="col-md-3 justify-content-center">
 					<h3 class="new1">インフラ設計・構築</h3>
 					<img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
-					<p class="new4">インドネシア国内外のクラウドサーバーの設計構築を行います。シンガポールリージョンのAWSや、インドネシア国内のAliクラウドなどの実績を豊富にもっています。サーバーの保守運用、パフォーマンス・チューニングサービスも提供しています。オンプレミスサーバーからクラウドサーバーへのマイグレーションも多数実績あります。</p>
-				</div>
-				<div class="col-md-3 justify-content-center">
-					<h3 class="new1">セキュアなシステム構築</h3>
-					<img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
-					<p class="new4">通常のテストに加えセキュリティ脆弱性テストを実施することをお奨めしています。SQLインジェクション、パストラバーサル、クロスサイトスクリプティングなどPenetrationテストを行いリスクを最小限にします。</p>
-				</div>
-				<div class="col-md-3 justify-content-center">
-					<h3 class="new1">スピーディーで柔軟な開発</h3>
-					<img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
-					<p class="new4">アジャイル開発を基本としています。要件定義書を作るのに何ヶ月もかけるようなことは意味がないと考えています。クライアントと信頼関係を築き、当社がリードして柔軟でスピーディに開発していきます。ラボ型開発サービスも提供しています。</p>
-				</div>
-			</div>
-			<div class="row" style="margin-top: 24px;">
-				<div class="col-md-12 col-sm-12">
-					<div class="justify-content-center">
-						<a href="../services/penetration-test.php" class="btn-contact-us-black">セキュリティ脆弱性診断はこちら</a>
-					</div>
+					<p class="new4">インドネシア国内外のクラウドサーバーの設計構築を行います。AWSやGCP、Alibabaクラウドなどの環境構築＆雲鷹経験が豊富です。オンプレミスサーバーからクラウドサーバーへのマイグレーションも多数実績あります。</p>
 				</div>
 			</div>
 		</div>
@@ -232,7 +226,7 @@
 				<div class="container">
 					<div class="row" style="display: flex; flex-wrap: wrap;">
 						<div class="col-md-4">
-							<h1 class="new6" style="font-weight: 500!important;">ご要望に応じて柔軟な開発体制 / 開発メソッドでサポートいたします</h1>
+							<h1 class="new7" style="font-weight: 500!important;">ご要望に応じて柔軟な開発体制 / 開発メソッドでサポートいたします</h1>
 							<br>
 							<div class="justify-content-center">
 								<img src="assets/img/img-systemdev/laptop-img.png" alt="" class="img img-responsive">
@@ -598,10 +592,10 @@
 								</div>
 								<li>
 									レンタカー会社向け フリートManagementシステム開発<br>
-									<small class="text-muted">6monts, AWS, Linux, MySQL, SAP connection, PHP Framework | <a data-toggle="modal" data-target="#pop16" href="#">See More</a></small>
+									<small class="text-muted">6monts, AWS, Linux, MySQL, SAP connection, PHP Framework</small>
 								</li>
 								<!-- modal 16 -->
-								<div id="pop16" class="modal fade" role="dialog">
+								<!-- <div id="pop16" class="modal fade" role="dialog">
 									<div class="modal-dialog">
 										<div class="modal-content">
 											<div class="modal-body">
@@ -611,7 +605,7 @@
 											</div>
 										</div>
 									</div>
-								</div>
+								</div> -->
 							</ul>
 						</div>
 					</div>
@@ -626,23 +620,17 @@
 						<div class="col-md-6">
 							<div class="row">
 								<div class="col-md-12">
-									<h4 class="new3">IT Department Headとして今まで数多くのシステム開発プロジェクトを経験したが、LOGIQUEほど、柔軟に対応してくれて、しかもそのクオリティーが高い開発会社はなかった。どうしてもユーザー部門から開発後期になってからの変更要望が出てしまったが、素早く対応して貰ったことに大変満足している。システム保守についてもお願いし、変わらずタイムリーで間違いのない対応をしてもらっており感謝している。</h4>
-									<!-- <h4 class="new3">Q: Bagaimana awal mula Anda memiliki kebutuhan pembuatan sistem ini?</h4> -->
-									<!-- <p>Klien: Pada mulanya kami melakukan banyak hal secara manual. Dengan banyaknya kendaraan yang harus kami lelang di berbagai cabang di Indonesia serta tingginya minat dari para pelanggan membuat kami kesulitan. Disitu kami mulai berpikir perlunya sebuah sistem IT yang membantu bisnis kami secara keseluruhan.</p> -->
-								</div>
-							</div>
-							<div class="row">
-								<div class="col-md-12">
-									<h4 class="new3">前開発会社と契約解消することになったために、LOGIQUEに引き継ぎ開発や既存システムの保守依頼をすることになった。ドキュメントや十分な情報がないなかで柔軟に効果的な仕事をしてくれて感謝している。私達も把握していなかった仕様上の問題点などを指摘していただき、依頼されたことだけをやるのとは真逆のことをしていただいた。</h4>
-									<!-- <h4 class="new3">Q: Apa perubahan yang dirasakan setelah menggunakan sistem yang dibuat oleh Logique?</h4> -->
-									<!-- <p>Klien: Dampaknya luar biasa besar, ketika semuanya terotomatisasi kami merasakan pekerjaan yang kami lakukan lebih efektif dan efisien. Dari sisi resiko pencatatan pada buku yang mungkin rusak atau hilang pun terhindari dengan sistem yang ada, selain itu ada nilai tambah kontribusi kepada lingkungan dengan mengurangi penggunaan kertas.</p> -->
-								</div>
-							</div>
-							<div class="row">
-								<div class="col-md-12">
-									<h4 class="new3">毎月決まった人日分だけ作業していただく定額制開発をお願いしている。作業が早いので、結果としてコスト効率の良い開発ができていて非常に満足している。次の大きな開発案件では、ラボ型開発でお願いしようと考えています。</h4>
-									<!-- <h4 class="new3">Q: Bagaimana pengalaman kerjasama Anda dengan Logique dalam pembuatan sistem ini?</h4> -->
-									<!-- <p>Klien: Menurut kami tim Logique benar-benar diisi oleh orang-orang yang kompeten. Saya tidak bisa membayangkan bagaimana proses bisnis kami yang kompleks bisa dibuat menjadi sistem yang komprehensif termasuk proses-proses kecil yang tidak boleh terlewat semua bisa dipenuhi. Kami puas dengan kinerja Logique dan merekomendasikan layanan mereka ke semua pihak yang membutuhkan.</p> -->
+									<ol class="ol-position">
+										<li class="h4">
+											<h4 class="new3">IT Department Headとして今まで数多くのシステム開発プロジェクトを経験したが、LOGIQUEほど、柔軟に対応してくれて、しかもそのクオリティーが高い開発会社はなかった。どうしてもユーザー部門から開発後期になってからの変更要望が出てしまったが、素早く対応して貰ったことに大変満足している。システム保守についてもお願いし、変わらずタイムリーで間違いのない対応をしてもらっており感謝している。</h4>
+										</li>
+										<li class="h4">
+											<h4 class="new3">前開発会社と契約解消することになったために、LOGIQUEに引き継ぎ開発や既存システムの保守依頼をすることになった。ドキュメントや十分な情報がないなかで柔軟に効果的な仕事をしてくれて感謝している。私達も把握していなかった仕様上の問題点などを指摘していただき、依頼されたことだけをやるのとは真逆のことをしていただいた。</h4>
+										</li>
+										<li class="h4">
+											<h4 class="new3">毎月決まった人日分だけ作業していただく定額制開発をお願いしている。作業が早いので、結果としてコスト効率の良い開発ができていて非常に満足している。次の大きな開発案件では、ラボ型開発でお願いしようと考えています。</h4>
+										</li>
+									</ol>
 								</div>
 							</div>
 						</div>
@@ -650,214 +638,215 @@
 				</div>
 			</section>
 			<section class="style-7">
-					<div class="row">
-						<div class="container">
-							<div class="row" style="display: flex; flex-wrap: wrap;">
-								<div class="col-md-4">
-									<div class="justify-content-center">
-										<img src="assets/img/img-systemdev/key.png" alt="" class="img img-responsive">
-									</div>
-								</div>
-								<div class="col-md-8">
-									<div class="row">
-										<div class="col-md-12">
-											<h2 class="new2">システム開発を成功させるためのキーポイント</h2>
-										</div>
-									</div>
-									<div class="row">
-										<div class="col-md-12">
-											<h4 class="bold">経験</h4>
-											<p>LOGIQUEはインドネシアで豊富なシステム開発経験をもっています。スケジューリング、要件定義、システム開発、テスト、インフラ設計、Deploy、ユーザートレーニングなど、各工程でこの経験を活かします。</p>
-										</div>
-									</div>
-									<div class="row">
-										<div class="col-md-12">
-											<h4 class="bold">スピード・柔軟性</h4>
-											<p>ビジネスのスピードは日に日に早くなっています。システム開発に6ヶ月以上もかけていては、環境変化についていけません。LOGIQUEではスピードを最重要視しています。アジャイル開発で迅速に、要件の変更などにも柔軟に対応します。</p>
-										</div>
-									</div>
-									<div class="row">
-										<div class="col-md-12">
-											<h4 class="bold">品質・セキュリティ</h4>
-											<p>クオリティは犠牲にはできません。標準化された開発を行うことで不具合が少ない、メンテナンス性の高い開発をします。セキュリティ脆弱性のリスクも最小化した上で納品します。</p>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-12">
-									<div class="text-center btn-container-contact"  >
-										<a href="/jp/contact.php" class="btn btn-contact-us-black">
-											インドネシアでシステム開発や運用が必要でしたらお気軽にご相談ください
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
-				<?php /*<section class="tahap-pemesanan-list">
-					<div class="border-top-list hidden-xs hidden-sm"></div>
+				<div class="row">
 					<div class="container">
-						<div class="row">
-							<div class="col-md-offset-6 col-md-6">
-								<h4><b>システム開発、WEBアプリ開発、システム保守運用などで以下のようなお悩みないですか？LOGIQUEがご支援します。</b></h4>
-								<ul style="list-style-type: square;">
-									<li class="m-b-5">社内システムが必要だがIT部門がなく進め方すら分からない</li>
-									<li class="m-b-5">現行システムの保守契約がなく、変更したいのだが、協力会社が不在</li>
-									<li class="m-b-5">パッケージシステムを導入すべきかスクラッチ開発すべきか分からない</li>
-									<li class="m-b-5">IT部門があり内製できるのだがリソースが不足している</li>
-									<li class="m-b-5">必要なシステム開発プロジェクトのRFPを作ってもらいたい</li>
-									<li class="m-b-5">委託業者から納品されたシステムがバグだらけで困っている</li>
-									<li class="m-b-5">OSやブラウザのバージョンに合わせてシステムもバージョンUPしたい</li>
-									<li class="m-b-5">日本本社で使っている社内システムをインドネシアローカライズしたい</li>
-									<li class="m-b-5">インドネシア国内のデータセンターにシステムを配置したい</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="border-top-list-2 hidden-xs hidden-sm"></div>
-				</section> */ ?>
-				<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
-				<footer class="contact">
-					<div class="container">
-						<div class="row">
+						<div class="row" style="display: flex; flex-wrap: wrap;">
 							<div class="col-md-4">
-								<h2 style="margin-top: 0">お問い合わせ</h2>
-								<a href="/jp/" target="_blank"><img src="assets/img/img-systemdev/logo.png" alt="Fitur Perusahaan" class="cs-custom"></a>
-								<div class="m-t-10 text-left">LOGIQUE DIGITAL INDONESIA<br>
-									Ad Premier Building 19th Floor. <br>
-									Jalan Tb. Simatupang No. 5 Ragunan, <br>
-									Ps. Minggu, Jakarta Selatan, <br>Indonesia 12550</div>
-									<div><i class="fa fa-phone fa-lg" style="padding-right: 5px"></i> 021) 22708935 / 36 <br><i class="fa fa-whatsapp fa-lg" style="padding-right: 5px"></i> 0811870321</div>
+								<div class="justify-content-center">
+									<img src="assets/img/img-systemdev/key.png" alt="" class="img img-responsive">
+								</div>
+							</div>
+							<div class="col-md-8">
+								<div class="row">
+									<div class="col-md-12">
+										<h2 class="new2">システム開発を成功させるためのキーポイント</h2>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-md-12">
+										<h4 class="bold">経験</h4>
+										<h4 class="" style="font-weight: 200;">LOGIQUEはインドネシアで豊富なシステム開発経験をもっています。スケジューリング、要件定義、システム開発、テスト、インフラ設計、Deploy、ユーザートレーニングなど、各工程でこの経験を活かします。</h4>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-md-12">
+										<h4 class="bold">スピード・柔軟性</h4>
+										<h4 class="" style="font-weight: 200;">ビジネスのスピードは日に日に早くなっています。システム開発に6ヶ月以上もかけていては、環境変化についていけません。LOGIQUEではスピードを最重要視しています。アジャイル開発で迅速に、要件の変更などにも柔軟に対応します。</h4>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-md-12">
+										<h4 class="bold">品質・セキュリティ</h4>
+										<h4 class="" style="font-weight: 200;">クオリティは犠牲にはできません。標準化された開発を行うことで不具合が少ない、メンテナンス性の高い開発をします。セキュリティ脆弱性のリスクも最小化した上で納品します。</h4>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-12">
+								<div class="text-center btn-container-contact"  >
+									<a href="/jp/contact.php" class="btn btn-contact-us-black">
+										インドネシアでシステム開発や運用が必要でしたらお気軽にご相談ください
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<?php /*<section class="tahap-pemesanan-list">
+				<div class="border-top-list hidden-xs hidden-sm"></div>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-offset-6 col-md-6">
+							<h4><b>システム開発、WEBアプリ開発、システム保守運用などで以下のようなお悩みないですか？LOGIQUEがご支援します。</b></h4>
+							<ul style="list-style-type: square;">
+								<li class="m-b-5">社内システムが必要だがIT部門がなく進め方すら分からない</li>
+								<li class="m-b-5">現行システムの保守契約がなく、変更したいのだが、協力会社が不在</li>
+								<li class="m-b-5">パッケージシステムを導入すべきかスクラッチ開発すべきか分からない</li>
+								<li class="m-b-5">IT部門があり内製できるのだがリソースが不足している</li>
+								<li class="m-b-5">必要なシステム開発プロジェクトのRFPを作ってもらいたい</li>
+								<li class="m-b-5">委託業者から納品されたシステムがバグだらけで困っている</li>
+								<li class="m-b-5">OSやブラウザのバージョンに合わせてシステムもバージョンUPしたい</li>
+								<li class="m-b-5">日本本社で使っている社内システムをインドネシアローカライズしたい</li>
+								<li class="m-b-5">インドネシア国内のデータセンターにシステムを配置したい</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="border-top-list-2 hidden-xs hidden-sm"></div>
+			</section> */ ?>
+			<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
+			<footer class="contact">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-4">
+							<h2 style="margin-top: 0">お問い合わせ</h2>
+							<a href="/jp/" target="_blank"><img src="assets/img/img-systemdev/logo.png" alt="Fitur Perusahaan" class="cs-custom"></a>
+							<div class="m-t-10 text-left">LOGIQUE DIGITAL INDONESIA<br>
+								Ad Premier Building 19th Floor. <br>
+								Jalan Tb. Simatupang No. 5 Ragunan, <br>
+								Ps. Minggu, Jakarta Selatan, <br>Indonesia 12550</div>
+								<div><i class="fa fa-phone fa-lg" style="padding-right: 5px"></i> 021) 22708935 / 36 <br><i class="fa fa-whatsapp fa-lg" style="padding-right: 5px"></i> 0811870321</div>
+								<br/>
+								<div class="row">
+									<div class="col-xs-6">
+										<div class="link-footer-webdev">
+											<a href="/jp/index.php" target="_blank">Home</a>
+											<a href="/jp/logique.php" target="_blank">会社概要</a>
+											<a href="/jp/portfolio.php" target="_blank">制作実績</a>
+											<a href="/jp/services.php" target="_blank">サービス</a>
+										</div>
+									</div>
+									<div class="col-xs-6">
+										<div class="link-footer-webdev">
+											<a href="/jp/joinus.php" target="_blank">採用/パートナー</a>
+											<a href="/career/" target="_blank">Join LOGIQUE</a>
+											<a href="/jp/contact.php" target="_blank">お問い合わせ</a>
+										</div>
+									</div>
+								</div>
+								<div class="link-footer-webdev">
 									<br/>
-									<div class="row">
-										<div class="col-xs-6">
-											<div class="link-footer-webdev">
-												<a href="/jp/index.php" target="_blank">Home</a>
-												<a href="/jp/logique.php" target="_blank">会社概要</a>
-												<a href="/jp/portfolio.php" target="_blank">制作実績</a>
-												<a href="/jp/services.php" target="_blank">サービス</a>
-											</div>
-										</div>
-										<div class="col-xs-6">
-											<div class="link-footer-webdev">
-												<a href="/jp/joinus.php" target="_blank">採用/パートナー</a>
-												<a href="/career/" target="_blank">Join LOGIQUE</a>
-												<a href="/jp/contact.php" target="_blank">お問い合わせ</a>
-											</div>
-										</div>
+									<div style="margin-bottom:8px"><b>Social Media</b></div>
+									<div class="medsos-new">
+										<ul>
+											<li><a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook" rel="noreferrer"><i class="fa fa-facebook-official"  ></i></a></li>
+											<li><a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter" rel="noreferrer"><i class="fa fa-twitter" aria-hidden="true"  ></i></a></li>
+											<li><a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram" rel="noreferrer"><i class="fa fa-instagram" aria-hidden="true"  ></i></a></li>
+											<li><a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn" rel="noreferrer"><i class="fa fa-linkedin-square" aria-hidden="true"  ></i></a></li>
+										</ul>
 									</div>
-									<div class="link-footer-webdev">
-										<br/>
-										<div style="margin-bottom:8px"><b>Social Media</b></div>
-										<div class="medsos-new">
-											<ul>
-												<li><a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook" rel="noreferrer"><i class="fa fa-facebook-official"  ></i></a></li>
-												<li><a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter" rel="noreferrer"><i class="fa fa-twitter" aria-hidden="true"  ></i></a></li>
-												<li><a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram" rel="noreferrer"><i class="fa fa-instagram" aria-hidden="true"  ></i></a></li>
-												<li><a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn" rel="noreferrer"><i class="fa fa-linkedin-square" aria-hidden="true"  ></i></a></li>
-											</ul>
-										</div>
-										
-									</div>
+									
 								</div>
-								<div class="col-md-4 hidden-md hidden-lg">
-									<span><hr>インドネシアでシステムやWeb、アプリの開発、インフラの構築が必要な場合LOGIQUEにご相談ください。CMS、ECサイト、CRMシステム、会計システム、人事管理システムの構築運用を得意にしています。自動車産業、金融、スタートアップへのご支援を多数経験していて、システムコンサルティングからご支援可能です。AWS,Alibabaクラウドなどインフラの構築も行います。</span>
-									<div class="row">
-										<div class="col-sm-12">
-											<div class="link-footer-webdev">
-												<br/>
-												<!-- <div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div> -->
-												<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">
-													<img src="assets/img/img-systemdev/dokodemo-ads.jpg" alt="" style="width: 100%; height: auto; object-fit: scale-down;">
-												</a>
-												<!-- <a href="/jp/product/nippo.php" target="_blank">Nippo</a> -->
-												<!-- <a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a> -->
-											</div>
+							</div>
+							<div class="col-md-4 hidden-md hidden-lg">
+								<span><hr>インドネシアでシステムやWeb、アプリの開発、インフラの構築が必要な場合LOGIQUEにご相談ください。CMS、ECサイト、CRMシステム、会計システム、人事管理システムの構築運用を得意にしています。自動車産業、金融、スタートアップへのご支援を多数経験していて、システムコンサルティングからご支援可能です。AWS,Alibabaクラウドなどインフラの構築も行います。</span>
+								<div class="row">
+									<div class="col-sm-12">
+										<div class="link-footer-webdev">
+											<br/>
+											<!-- <div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div> -->
+											<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">
+												<img src="assets/img/img-systemdev/dokodemo-ads.jpg" alt="" style="width: 100%; height: auto; object-fit: scale-down;">
+											</a>
+											<!-- <a href="/jp/product/nippo.php" target="_blank">Nippo</a> -->
+											<!-- <a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a> -->
 										</div>
 									</div>
 								</div>
-								<div class="col-md-4">
-									<?php if(isset($msg)) { echo $msg; } ?>
-									<form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
-										<input type='hidden' name='submitted' id='submitted' value='1'/>
-										<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
-										<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-										<div class="">
-											<div class="form-group">
-												<input type="text" class="form-control" placeholder="Nama" name="name" aria-label="Name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
-											</div>
-											<!-- <div class="form-group">
-												<input type="number" class="form-control" placeholder="No Ponsel" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
-											</div>
-											<div class="form-group">
-												<input type="text" class="form-control" placeholder="Perusahaan" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
-											</div> -->
-											<div class="form-group">
-												<input type="email" class="form-control" placeholder="Email" name="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
-											</div>
-											<div class="form-group">
-												<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message" aria-label="Message" style="resize:vertical;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
-											</div>
-											<div class="form-group">
-												<div class="g-recaptcha captcha-custom" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
-											</div>
-											<div class="form-group btn-submit text-right text-L">
-												<br>
-												<button type="submit" class="btn btn-logic btn-sm">Kirim</button>
-											</div>
+							</div>
+							<div class="col-md-4">
+								<?php if(isset($msg)) { echo $msg; } ?>
+								<form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
+									<input type='hidden' name='submitted' id='submitted' value='1'/>
+									<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
+									<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
+									<div class="">
+										<div class="form-group">
+											<input type="text" class="form-control" placeholder="Nama" name="name" aria-label="Name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
 										</div>
-									</form>
-								</div>
-								<div class="col-md-4 hidden-xs hidden-sm">
-									<p>インドネシアでシステムやWeb、アプリの開発、インフラの構築が必要な場合LOGIQUEにご相談ください。CMS、ECサイト、CRMシステム、会計システム、人事管理システムの構築運用を得意にしています。自動車産業、金融、スタートアップへのご支援を多数経験していて、システムコンサルティングからご支援可能です。AWS,Alibabaクラウドなどインフラの構築も行います。</p>
-									<div class="row">
-										<div class="col-sm-12">
-											<div class="link-footer-webdev" style="padding-left:30px">
-												<br/>
-												<!-- <div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div> -->
-												<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">
-													<img src="assets/img/img-systemdev/dokodemo-ads.jpg" alt="" style="width: 100%; height: auto; object-fit: scale-down;">
-												</a>
-												<!-- <a href="/jp/product/nippo.php" target="_blank">Nippo</a> -->
-												<!-- <a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a> -->
-												
-											</div>
+										<!-- <div class="form-group">
+											<input type="number" class="form-control" placeholder="No Ponsel" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
+										</div>
+										<div class="form-group">
+											<input type="text" class="form-control" placeholder="Perusahaan" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
+										</div> -->
+										<div class="form-group">
+											<input type="email" class="form-control" placeholder="Email" name="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+										</div>
+										<div class="form-group">
+											<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Pesan" name="message" aria-label="Message" style="resize:vertical;"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+										</div>
+										<div class="form-group">
+											<div class="g-recaptcha captcha-custom" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
+										</div>
+										<div class="form-group btn-submit text-right text-L">
+											<br>
+											<button type="submit" class="btn btn-logic btn-sm">送信</button>
+										</div>
+									</div>
+								</form>
+							</div>
+							<div class="col-md-4 hidden-xs hidden-sm">
+								<p>インドネシアでシステムやWeb、アプリの開発、インフラの構築が必要な場合LOGIQUEにご相談ください。CMS、ECサイト、CRMシステム、会計システム、人事管理システムの構築運用を得意にしています。自動車産業、金融、スタートアップへのご支援を多数経験していて、システムコンサルティングからご支援可能です。AWS,Alibabaクラウドなどインフラの構築も行います。</p>
+								<div class="row">
+									<div class="col-sm-12">
+										<div class="link-footer-webdev" style="padding-left:30px">
+											<br/>
+											<!-- <div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div> -->
+											<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">
+												<img src="assets/img/img-systemdev/dokodemo-ads.jpg" alt="" style="width: 100%; height: auto; object-fit: scale-down;">
+											</a>
+											<!-- <a href="/jp/product/nippo.php" target="_blank">Nippo</a> -->
+											<!-- <a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a> -->
+											
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
-					</footer>
-					<section class="tahap-pemesanan-2 text-center hidden-md hidden-lg" style="padding: 2em">Copyright 2018 Logique</section>
-					
-					<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-					<script src="/js/bootstrap.min.js"></script>
-					<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
-					<script src='https://www.google.com/recaptcha/api.js'></script>
-					<script type="text/javascript">
-						$(function() {
-							$('.smooth').click(function() {
-								if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-									var target = $(this.hash);
-									target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-									if (target.length) {
-										$('html, body').animate({
-											scrollTop: target.offset().top
-										}, 1000);
-										return false;
-									}
-								}
-							});
-						});
-						
-						$('.min-h').matchHeight({
-							byRow: false
-						});
-						$('.osc-desc').matchHeight({
-							byRow: false
-						});
-						
-					</script>
-				</body>
-				</html>
+					</div>
+				</footer>
+				<section class="tahap-pemesanan-2 text-center hidden-md hidden-lg" style="padding: 2em">Copyright 2018 Logique</section>
 				
+				<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+				<script src="/js/bootstrap.min.js"></script>
+				<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
+				<script src='https://www.google.com/recaptcha/api.js'></script>
+				<script type="text/javascript">
+					$(function() {
+						$('.smooth').click(function() {
+							if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+								var target = $(this.hash);
+								target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+								if (target.length) {
+									$('html, body').animate({
+										scrollTop: target.offset().top
+									}, 1000);
+									return false;
+								}
+							}
+						});
+					});
+					
+					$('.min-h').matchHeight({
+						byRow: false
+					});
+					$('.osc-desc').matchHeight({
+						byRow: false
+					});
+					
+				</script>
+			</body>
+			</html>
+			
+			

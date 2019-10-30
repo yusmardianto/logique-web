@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/career/">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
     <meta property="og:description"
         content="Dicari designer yang mampu mendesain video dan produk yang bisa dicetak (misalnya: brosur, profil perusahaan, dll), mendesain tampilan/UI untuk website dan aplikasi mobile, menggunakan Photoshop, Illustrator, Premiere, dll.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -43,6 +43,7 @@
         },
         "jobBenefits": "Medical, Life, Dental",
         "datePosted": "2019-10-14",
+        "validThrough": "2020-10-14",
         "description": "Dicari designer yang mampu mendesain video dan produk yang bisa dicetak (misalnya: brosur, profil perusahaan, dll), mendesain tampilan/UI untuk website dan aplikasi mobile, menggunakan Photoshop, Illustrator, Premiere, dll.<br><br>Job Description:<ul><li>Mendesain tampilan/UI untuk website dan aplikasi mobile maupun untuk produksicetak / printing (misal : brosur, flyer, name card).</li><li>Memahami konsep video animasi (2D).</li><li>Merancang, memberi arahan terkait desain, dan dukungan terkait pekerjaan desain di atas.</li><li>Berkolaborasi dengan department yang lain terkait dengan pekerjaan design.</li></ul><br><br>Must Skill/Experience<ul><li>Segala jurusan, diutamakan related dengan Design</li><li>Mudah di arahkan, beradaptasi dan dalam berkomunikasi dengan orang lain.</li><li>Self-learner and self-mover.</li><li>Mempunyai semangat yang tinggi dan kemampuan analis yang baik.</li><li>Memiliki kemampuan untuk menggunakan software desain (Photoshop, Illustrator, Sketch, Balsamiq, dll).</li><li> Mampu menerjemahkan wireframe ke bentuk desain sesuai dengan yang dibutuhkan.</li></ul>",
         "employmentType": "INTERN",
         "experienceRequirements": "Segala jurusan, diutamakan related dengan Design",

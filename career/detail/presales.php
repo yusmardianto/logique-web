@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/career/">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
     <meta property="og:description"
         content="Kami memberikan kesempatan berkarir bagi para web developer, web designer, dan digital marketing untuk terus mengasah kemampuannya dengan bergabung bersama LOGIQUE Digital Indonesia. Segera bergabunglah bersama kami!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -43,6 +43,7 @@
         },
         "jobBenefits": "Medical, Life, Dental",
         "datePosted": "2019-10-14",
+        "validThrough": "2020-10-14",
         "description": "Dibutuhkan Pre-sales Consultant yang dapat memberi saran strategi dalam teknologi, memahami kebutuhan IT dan tujuan bisnis klien, terlibat dalam perencanaan, konsultasi, negosiasi, dan penawaran proyek. Must skill: Berpengetahuan yang baik dalam pembuatan website, web system, atau aplikasi mobile.<br><br>Job Description:<ul><li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li><li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li><li>Terlibat dan memberikan dukungan dalam proses penawaran, khususnya dalam mengestimasi usaha yang diperlukan untuk mengimplementasikan kebutuhan pelanggan ke dalam sistem.</li><li>Membuat rencana penerapan proyek dan dokumen pendukung atau laporan yang diperlukan.</li><li>Melakukan analisa terhadap teknologi atau sistem untuk kebutuhan konsultasi atau penawaran.</li><li>Berkoordinasi dan mengelola tim terkait pengembangan proyek yang direncanakan jika diperlukan.</li><li>Membuat laporan mingguan untuk mengetahui kemajuan target penjualan serta mendokumentasikan kinerja penjualan.</li><li>Mampu bekerja sama dengan departemen lainnya.</li><li>Mampu mencapai target penjualan secara individu.</li></ul><br><br>Must Skill/Experience:<ul><li>Memiliki gelar minimal D3/S1 di bidang Bisnis/Marketing/IT, atau lainnya yang relevan</li><li>Memiliki pengalaman sebagai IT Consultant minimal selama 2 tahun.</li><li>Memiliki kemampuan analisa dan pemecahan masalah yang baik.</li><li>Memiliki pengetahuan yang baik dalam bidang pembuatan website, web system, atau aplikasi mobile.</li><li>Memiliki kemampuan komunikasi verbal dan tertulis yang efektif.</li><li>Memiliki kemampuan presentasi dan interpersonal yang baik.</li><li>Memahami proses dan dinamika dunia sales.</li></ul>",
         "educationRequirements": "Memiliki gelar minimal D3/S1 di bidang Bisnis/Marketing/IT, atau lainnya yang relevan",
         "employmentType": "FULL_TIME",
