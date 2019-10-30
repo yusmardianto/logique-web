@@ -144,10 +144,10 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 						</ul>
 					</div>
 					<div class="col-md-offset-1 col-md-10">
-						<img src="img/sugoi-saiyo/logo.png" alt="Sugoi Saiyo Logo" class="img-responsive center-block">
+						<img src="img/sugoi-saiyo/logo.png" alt="Sugoi Saiyo Logo" class="img-responsive center-block main-img">
 						<h1>A Better Employee Recruitment System</h1>
 						<div class="text-center desc-first">
-							Are you tired of sifting through bundles of CVs, only to communicate with unqualified job seekers? Now, you don’t have to be anymore. With SUGOI SAIYO, therecruitment process is as easy as picking out the best food from a buffet.
+							Are you tired of sifting through bundles of CVs, only to communicate with unqualified job seekers? Now, you don’t have to be anymore. With SUGOI SAIYO, the recruitment process is as easy as picking out the best food from a buffet.
 						</div>
 					</div>
 				</div>
@@ -196,7 +196,7 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 		<section class="feature-company">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="col-md-3 col-sm-6 col-xs-12 text-center fitur-p-img">
 						<img src="img/sugoi-saiyo/fitur-p.png" alt="Fitur Perusahaan" class="img-feature">
 						<hr>
 						<h2>For Companies</h2>
@@ -284,7 +284,7 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 		<section class="feature-candidate">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="col-md-3 col-sm-6 col-xs-12 text-center fitur-p-img">
 						<img src="img/sugoi-saiyo/fitur-k.png" alt="Fitur Perusahaan" class="img-feature">
 						<hr>
 						<h2>For Candidates</h2>
@@ -335,7 +335,7 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 						<h2>For Companies</h2>
 					</div>
 				</div>
-				<div class="row">
+				<div class="row m-50 qna-space">
 					<div class="col-md-9 col-md-offset-3 col-sm-12">
 						<div class="row">
 							<div class="col-md-4 col-sm-6 col-xs-12">
@@ -380,7 +380,7 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 						<h2>For Candidate</h2>
 					</div>
 				</div>
-				<div class="row m-50">
+				<div class="row m-50 qna-space">
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="benefit">
 							Take the test online without having to be present at an interview location.
@@ -410,16 +410,16 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 		<section class="why-ss">
 			<div class="container">
 				<h2>WHY SUGOI SAIYO?</h2>
-				<div class="row m-50">
-					<div class="col-md-4">
+				<div class="row m-50 qna-space">
+					<div class="col-md-4 flex-layout">
 						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-1.png" alt="Kenapa Sugoi Saiyo"></div>
 						<p>Extremely accessible and easy to use, by both HR staff and candidates.</p>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 flex-layout">
 						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-2.png" alt="Kenapa Sugoi Saiyo"></div>
 						<p>Very simple user interface.</p>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 flex-layout">
 						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-3.png" alt="Kenapa Sugoi Saiyo"></div>
 						<p>Recruitment process can be monitored, from registration to pass status.</p>
 					</div>
@@ -429,14 +429,14 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 		<section class="qna">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-3">
+					<div class="col-md-3 qna-icon">
 						<img src="img/sugoi-saiyo/qna.png" alt="Sugoi Saiyo">
 					</div>
-					<div class="col-md-9">
+					<div class="col-md-9 qna-title">
 						<h2>FREQUENTLY ASKED QUESTIONS</h2>
 					</div>
 				</div>
-				<div class="row m-50">
+				<div class="row m-50 qna-space">
 					<div class="col-sm-6">
 						<h3>Q. Is Sugoi Saiyo a cloud system?</h3>
 						<p>
