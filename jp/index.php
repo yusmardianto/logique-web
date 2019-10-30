@@ -137,7 +137,7 @@
 
 						<div class="text-center container__custom-white" style="background: none;">
 							<div class="title-index">
-							インドネシア でお客様の課題を<br>Web・IT の活用で解決してきました。
+							インドネシア でお客様の課題を<br class="visible-md visible-lg">Web・IT の活用で解決してきました。
 							</div>
 							<hr class="title__yellow-line">
 							<p>Web・ホームページ制作・Webシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWeb戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWebを制作運用することを心がけています。 <br><br>
@@ -196,7 +196,7 @@
 							<div class="container">
 								<div class="row">
 									<div class="col-md-offset-1 col-md-6">
-										<h1 class="title-index">インドネシア でお客様の課題を<br>Web・IT の活用で解決してきました。</h1>
+										<h1 class="title-index">インドネシア でお客様の課題を<br class="visible-md visible-lg">Web・IT の活用で解決してきました。</h1>
 										<hr class="title__yellow-line">
 										<p>Web・ホームページ制作・Webシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWeb戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWebを制作運用することを心がけています。 <br><br>
 										デジタルマーケティングコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。</p>
