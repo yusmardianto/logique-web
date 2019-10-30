@@ -11,6 +11,7 @@ ga('create', 'UA-105878648-1', 'auto');
 ga('send', 'pageview');
 
 </script>
+<footer class="footer-section">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-9 col-sm-push-3">
