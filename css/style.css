@@ -169,9 +169,6 @@ section.maintop {
     .lang-logo--update-design .list-inline {
         right: 5em !important;
     }
-    .lang-logo--update-design {
-        padding: 10px 0 5px !important;
-    }
 }
 
 @media (max-width: 415px) {
@@ -199,10 +196,13 @@ section.maintop {
 
 .lang-logo--update-design {
     padding: 10px 0 15px;
-    position: relative;
-    position: relative;
-    z-index: 1;
+    /* position: relative; */
+    /* z-index: 1; */
     background-color: white;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    box-shadow: 2px 4px 9px 0px #ccc;
 }
 
 .lang-logo {
@@ -266,7 +266,8 @@ section.maintop {
     max-width: 1600px;
     height: 500px;
     top: 0;
-    z-index: 1
+    z-index: 1;
+    margin-top: 4em;
 }
 
 #bgImg {
@@ -387,17 +388,11 @@ section.maintop {
     .container__custom-white {
         padding-left: 2em;
     }
-    .container__custom-white .container {
-        padding-right: 3em;
-    }
 }
 
 @media (max-width: 415px) {
     .container__custom-white {
         padding-left: 0;
-    }
-    .container__custom-white .container {
-        padding-right: 15px;
     }
 }
 
@@ -448,6 +443,10 @@ section.maintop {
     height: 100%;
     font-size: 16px;
     padding: 0 20px
+}
+
+.title-container.visible-xs {
+    margin-top: 4em;
 }
 
 .title-container .container {
@@ -504,14 +503,12 @@ section.maintop {
     .portofolio__illus {
         position: relative;
         width: 90%;
-        left: 52%;
+        left: 50%;
         transform: translateX(-50%);
     }
     .custombox__portfolio {
         margin: 0 auto;
-        margin-left: auto;
-        width: 95%;
-        transform: translateX(1%);
+        width: 90%;
         padding: 2em 2em 3em 2em;
     }
     .custombox__btn {
@@ -560,6 +557,23 @@ section.maintop {
     height: 610px !important;
 }
 
+.product__slide {
+    width: 95%;
+    margin-top: 35px;
+}
+
+@media (min-width:1100px) and (max-width:1200px) {
+    .custombox__product {
+        height: 700px !important;
+    }
+    .custombox__product .custombox__product-title {
+        font-size: 25px;
+    }
+    .custombox__product .custombox__product-content {
+        font-size: 17px;
+    }
+}
+
 @media (min-width: 415px) and (max-width:768px) {
     .custombox__product {
         height: 650px !important;
@@ -600,11 +614,6 @@ section.maintop {
     font-size: 18px;
 }
 
-.custombox__product:hover {
-    /* background-color: rgba(255, 255, 255, .4); */
-    /* color: red; */
-}
-
 .custombox__btn {
     position: absolute;
     background-color: #ffca13;
@@ -614,7 +623,7 @@ section.maintop {
     border-radius: 5px;
     bottom: -20px;
     right: 20%;
-    /* z-index: 1; */
+    text-align: center;
 }
 
 .custombox__btn-product {
@@ -686,9 +695,13 @@ section.maintop {
 
 .wrapper .navbar-toggle.collapsed {
     background-color: #ffca13!important;
-    position: relative!important;
+    position: relative;
     right: 0!important;
     margin-top: 18px
+}
+
+.navbar-toggle--update-design {
+    position: fixed !important;
 }
 
 .wrapper .navbar-toggle.collapsed .icon-bar.first {
@@ -753,6 +766,159 @@ section.maintop {
     background: #fff;
     padding: 10px 30px
 }
+
+.title__description {
+    width: 75%;
+    margin: 15px auto 50px;
+}
+
+.page-nav {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: stretch;
+    align-self: stretch;
+    margin: 15px auto;
+    padding: 15px 0;
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+}
+
+.page-nav__btn {
+    background-color: #ffca13;
+    border-radius: 8px;
+    border: 1px solid #e8ba1a;
+    color: #000;
+    font-weight: 800;
+    min-height: 50px;
+    margin: 10px;
+    padding: 5px 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 2px 4px 9px 2px #ccc;
+}
+
+.page-nav__btn:hover {
+    background-color: #ffd74f;
+    color: #000;
+}
+
+.portfolio-sec__head {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0 25px;
+}
+
+.portfolio-sec__title {
+    font-weight: 800;
+}
+
+@media (max-width: 500px) {
+    .portfolio-sec__title {
+        font-size: 20px;
+    }
+}
+
+.portfolio-sec__back {
+    align-self: flex-end;
+    align-self: center;
+}
+
+#webDev .col-md-4.col-xs-6,
+#PWA .col-md-4.col-xs-6 {
+    margin-bottom: 30px;
+}
+
+.portfolio-sec-system__item {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.portfolio-sec-system__img {
+    flex-basis: 200px;
+    min-width: 200px;
+    border: 1px solid #ccc;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    padding: 0 15px;
+    border-radius: 8px;
+    box-shadow: 2px 4px 9px 2px #ccc;
+}
+
+.portfolio-sec-system__see-details {
+    flex-basis: 200px;
+    border-radius: 8px;
+    min-width: 200px;
+    text-align: center;
+    border: 1px solid #ccc;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    padding: 45px 15px;
+    box-shadow: 2px 4px 9px 2px #ccc;
+}
+
+.portfolio-sec-system__see-details a {
+    color: #777;
+}
+
+.portfolio-sec-system__see-details a:hover {
+    color: #ffca13;
+}
+
+.portfolio-sec-system__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media (max-width: 500px) {
+    .portfolio-sec-system__item {
+        flex-direction: column;
+    }
+    .portfolio-sec-system__see-details {
+        flex-basis: auto;
+    }
+    .portfolio-sec-system__img {
+        max-width: 150px;
+        align-self: center;
+        flex-basis: auto;
+    }
+}
+
+.portfolio-sec-cs {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.portfolio-sec-cs__item {
+    margin: 15px 5px;
+}
+
+.portfolio-sec-cs__img {
+    border: solid 1px #ccc;
+    padding: 15px 25px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    box-shadow: 2px 4px 9px 2px #ccc;
+}
+
+.modal-open .modal {
+    top: 10%;
+}
+
+:target::before {
+    content: "";
+    display: block;
+    height: 120px; /* fixed header height*/
+    margin: -120px 0 0; /* negative fixed header height */
+    visibility: hidden;
+  }
+
+  section#webDev, section#sysDev, section#caseStudy, section#PWA, section#others {
+    padding: 0 15px;
+  }
 
 .service-portfolio img {
     height: auto!important;
@@ -1036,7 +1202,9 @@ section.maintop {
     color: #fff !important;
     font-size: 24px;
     padding: 10px 60px;
-    margin-top: 30px
+    margin-top: 30px;
+    width: 90%;
+    white-space: normal;
 }
 
 .got-project {
@@ -3782,6 +3950,7 @@ video.vd-log{
     left: unset;
     transform: unset;
     width: 100%;
+    height: 240px !important;
     margin-bottom: 5px;
     z-index: 1!important;
 }

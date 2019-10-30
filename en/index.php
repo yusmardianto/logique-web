@@ -58,67 +58,67 @@
 		<div class="wrapper o-wrapper top-only">
 
 			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+			<button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
 				<span class="icon-bar second"></span>
 				<span class="icon-bar third"></span>
 			</button>
 
 			<div class="collapse navbar-collapse" id="myNavbar">
-			<div class="backdrop-test"></div>
-				<div class="logique-nav">
-					<div class="margin-for-nav">
-						<div class="text-center active">
-							<a href="index.php">
-								<div class="img-home"></div>
-								Home
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="logique.php">
-								<div class="img-about"></div>
-								About Us
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="portfolio.php">
-								<div class="img-portfolio"></div>
-								Portfolio
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="services.php">
-								<div class="img-services"></div>
-								Services
-							</a>
-						</div>
-            <div class="text-center">
-							<a href="product.php">
-								<div class="img-product"></div>
-								Product
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/career/">
-								<div class="img-career"></div>
-								Career
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="contact.php">
-								<div class="img-contact"></div>
-								Contact Us
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-								<div class="img-blog"></div>
-								Blog
-							</a>
+				<div class="backdrop-test"></div>
+					<div class="logique-nav">
+						<div class="margin-for-nav">
+							<div class="text-center active">
+								<a href="index.php">
+									<div class="img-home"></div>
+									Home
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="logique.php">
+									<div class="img-about"></div>
+									About Us
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="portfolio.php">
+									<div class="img-portfolio"></div>
+									Portfolio
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="services.php">
+									<div class="img-services"></div>
+									Services
+								</a>
+							</div>
+					<div class="text-center">
+								<a href="product.php">
+									<div class="img-product"></div>
+									Product
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="/career/">
+									<div class="img-career"></div>
+									Career
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="contact.php">
+									<div class="img-contact"></div>
+									Contact Us
+								</a>
+							</div>
+							<div class="text-center">
+								<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
+									<div class="img-blog"></div>
+									Blog
+								</a>
+							</div>
 						</div>
 					</div>
 				</div>
-			</div>
 			<!-- END NAVIGATION -->
 
 			<div class="container-fluid">
@@ -140,7 +140,7 @@
 					</div>
 				</div>
 
-				<div class="row" >
+				<div class="row">
 					<div class="col-sm-offset-1 col-sm-11">
 						<div class="title-container visible-sm visible-xs">
 
@@ -162,13 +162,13 @@
 											</a>
 										</div>
 										<div class="col-xs-6">
-											<a href="/en/services/pembuatan-aplikasi-mobile.php" class="div-service-cat">
+											<a href="/en/services/mobile-app-dev.php" class="div-service-cat">
 												<img src="/img/top/i-top2.png" alt="Apps Development Service" class="center-block img-responsive"/>
 												<h2>Apps Development Service</h2>
 											</a>
 										</div>
 										<div class="col-xs-6">
-											<a href="/en/services/pembuatan-sistem-web.php" class="div-service-cat">
+											<a href="/en/services/system-dev.php" class="div-service-cat">
 												<img src="/img/top/i-top3.png" alt="Web System Development Service" class="center-block img-responsive"/>
 												<h2>Web System Development Service</h2>
 											</a>
@@ -180,7 +180,7 @@
 											</a>
 										</div>
 									</div>
-									</div>
+								</div>
 							</div>
 						</div>
 
@@ -218,13 +218,13 @@
 												</a>
 											</div>
 											<div class="col-xs-6">
-												<a href="/en/services/pembuatan-aplikasi-mobile.php" class="div-service-cat">
+												<a href="/en/services/mobile-app-dev.php" class="div-service-cat">
 													<img src="/img/top/i-top2.png" alt="Apps Development Service" class="center-block img-responsive"/>
 													<h2>Apps Development Service</h2>
 												</a>
 											</div>
 											<div class="col-xs-6">
-												<a href="/en/services/pembuatan-sistem-web.php" class="div-service-cat">
+												<a href="/en/services/system-dev.php" class="div-service-cat">
 													<img src="/img/top/i-top3.png" alt="Web System Development Service" class="center-block img-responsive"/>
 													<h2>Web System Development Service</h2>
 												</a>
@@ -271,7 +271,7 @@
 							<hr class="title__yellow-line">
 							<p>Due to high levels of traffic congestion, as well as numerous other performance hindering circumstances, overall employee mobility will likely be affected. As a result, the productivity of the company declines. We offer recruitment software which can assist Human Resources through connecting job seekers and employers in a more effective manner.</p>
 
-							<div class="product__slide" style="width: 95%; margin: 20px auto 0;">
+							<div class="product__slide">
 
 							<div class="custombox__product-wrapper">
 								<div class="custombox__product">
@@ -280,7 +280,17 @@
 									</div>
 									<h1 class="custombox__product-title">Dokodemo Kerja</h1>
 									<p class="custombox__product-content">LOGIQUE offers a flexible solution to the limitations of remote working for employees; our software, Dokodemo-Kerja. This system can accurately monitor and calculate employee working hours.</p>
-									<a class="custombox__btn-product" href="en/product/dokodemo-kerja.php">Learn More</a>
+									<a class="custombox__btn-product" target="_blank" href="http://dokodemo-kerja.com/">Learn More</a>
+								</div>
+							</div>
+							<div class="custombox__product-wrapper">
+								<div class="custombox__product">
+									<div class="custombox__head">
+										<img class="custombox__product-img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
+									</div>
+									<h1 class="custombox__product-title">Sugoisaiyo</h1>
+									<p class="custombox__product-content">Sugoi Saiyo is a system designed to carry out the recruitment process so that the most suitable candidates can be filtered through to HR quickly and more efficiently, automatically structuring the time and place of the interview.</p>									
+									<a class="custombox__btn-product" href="product/sugoi-saiyo.php">Learn More</a>
 								</div>
 							</div>
 							<div class="custombox__product-wrapper">
@@ -290,19 +300,9 @@
 									</div>
 									<h1 class="custombox__product-title">Nippo</h1>
 									<p class="custombox__product-content">LOGIQUE offers a helpful way to assist management in easily monitoring and evaluating the progression of employee performance through a daily reporting system called Nippo.</p>
-									<a class="custombox__btn-product" href="/en/product/nippo.php">Learn More</a>
+									<a class="custombox__btn-product" href="product/nippo.php">Learn More</a>
 								</div>
 							</div>
-								<div class="custombox__product-wrapper">
-								<div class="custombox__product">
-									<div class="custombox__head">
-										<img class="custombox__product-img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
-									</div>
-									<h1 class="custombox__product-title">Sugoisaiyo</h1>
-									<p class="custombox__product-content">Sugoi Saiyo is a system designed to carry out the recruitment process so that the most suitable candidates can be filtered through to HR quickly and more efficiently, automatically structuring the time and place of the interview.</p>									
-									<a class="custombox__btn-product" href="/en/product/sugoi-saiyo.php">Learn More</a>
-								</div>
-								</div>
 								<div class="custombox__product-wrapper">
 								<div class="custombox__product">
 									<div class="custombox__head">
@@ -310,7 +310,7 @@
 									</div>
 									<h1 class="custombox__product-title">Custom Hiring Site</h1>
 									<p class="custombox__product-content">Your own recruitment website can be the key to make the process effective and efficient! We offer recruitment software which can assist Human Resources through connecting job seekers and employers.</p>
-									<a class="custombox__btn-product" href="/en/services/recruitment-web-dev.php">Learn More</a>
+									<a class="custombox__btn-product" href="services/recruitment-web-dev.php">Learn More</a>
 								</div>
 								</div>
 
