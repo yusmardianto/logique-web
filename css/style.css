@@ -292,6 +292,7 @@ section.maintop {
 .container__ {
     padding-top: 2.5em;
     padding-bottom: 2.5em;
+    margin: 0 auto;
 }
 
 @media (max-width: 500px) {
@@ -309,7 +310,18 @@ section.maintop {
 @media (min-width: 1200px) {
     .container__ {
         width: 1170px;
-        margin: 0 auto;
+    }
+}
+
+@media (min-width: 992px) {
+    .container__ {
+        width: 970px;
+    }
+}
+
+@media (min-width: 768px) {
+    .container__ {
+        width: 610px;
     }
 }
 
