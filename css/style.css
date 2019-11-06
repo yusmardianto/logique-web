@@ -313,13 +313,13 @@ section.maintop {
     }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 992px) and (max-width: 1119px) {
     .container__ {
         width: 970px;
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 768px) and (max-width: 991px) {
     .container__ {
         width: 610px;
     }
