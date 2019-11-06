@@ -126,8 +126,7 @@
 
         </div>
 
-        <div class="row container__custom-white" style="padding-bottom: 0">
-
+        <div class="row container__custom-white" style="margin-top: 4.5em;">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
@@ -139,13 +138,13 @@
                                 <p class="title__description">
                                     LOGIQUEはホームページ制作・WEBシステム開発会社です。日本人がインドネシアのジャカルタで設立しました。インドネシア国内の日系企業さま、また日本からオフショア先をお探しのお客様に対して、ウェブサイトやシステムの制作開発、運用のご支援をしています。
                                     WEBサイト制作会社としてWEBデザイン制作やLP制作、システム開発会社としてモバイルアプリ開発、CMS構築や採用管理システム開発、Digital
-                                    AgencyとしてSEO対策、FacebookやInstagram等のソーシャルメディアを活用したキャンペーン実施など、複数の顔をもち幅広くサービス提供しています。</p>
+                                    AgencyとしてSEO対策、FacebookやInstagram等のソーシャルメディアを活用したキャンペーン実施など。</p>
                             </div>
 
                             <div class="row">
                                 <div class="col-md-offset-2 col-md-8">
                                     <!-- SLIDER -->
-                                    <div class="custombox__slider" style="display:">
+                                    <div class="custombox__slider">
 
                                         <div class="custombox__custom-slider">
                                             <div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
@@ -153,52 +152,29 @@
                                                     <div class="item active">
                                                         <img src="/img/banner-logo-logique.jpg" alt="Web Developer LOGIQUE 5">
                                                         <div class="custombox__slider-text-wrapper">
-                                                            <p class="custombox__slider-text">With over 7 years’ experience in
-                                                                Indonesia, our team is ready to engage in problems specific to the
-                                                                local area.</p>
+                                                            <p class="custombox__slider-text">インドネシアにて7年を超える豊富な経験をもっています。</p>
                                                         </div>
                                                     </div>
                                                     <div class="item">
                                                         <img src="/img/slider5.jpg" alt="Web Developer LOGIQUE 5">
                                                         <div class="custombox__slider-text-wrapper">
-                                                            <p class="custombox__slider-text">We provide employee monitoring
-                                                                software catering to remote work, which bypasses Jakarta’s high
-                                                                traffic congestion problem. </p>
+                                                            <p class="custombox__slider-text">
+                                                                日系企業向けのプロジェクトも経験豊富なデザイナー、プログラマー、デジタルマーケッターが担当します。 </p>
                                                         </div>
                                                     </div>
                                                     <div class="item">
                                                         <img style="object-position:0 0" src="/img/banner-all-member.jpg"
                                                             alt="logique member">
                                                         <div class="custombox__slider-text-wrapper">
-                                                            <p class="custombox__slider-text">In addition, our high quality
-                                                                software produces results conforming to an international standard,
-                                                                as we have much experience serving a wide range of global
-                                                                clientele. </p>
+                                                            <p class="custombox__slider-text">ゴールとご予算に応じて最適なソリューションをご提供します。</p>
                                                         </div>
                                                     </div>
                                                     <div class="item">
                                                         <img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
                                                         <div class="custombox__slider-text-wrapper">
-                                                            <p class="custombox__slider-text">Consult with us so that we may
-                                                                become your partners in assisting you with improving your
-                                                                enterprise.
-
+                                                            <p class="custombox__slider-text">お見積のご依頼、業務提携の相談などお気軽にご連絡ください。
                                                             </p>
                                                         </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <img style="object-position:0 0" src="/img/slider1.jpg"
-                                                            alt="Web Developer LOGIQUE 1">
-                                                        <div class="custombox__slider-text-wrapper">
-                                                            <p class="custombox__slider-text">Consult with us, we can be your
-                                                                partner and digital specialist to help improve your business.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <img src="/img/career-main.png" alt="Web Developer LOGIQUE 2">
-                                                    </div>
-                                                    <div class="item">
-                                                        <img src="/img/slider2.jpg" alt="Web Developer LOGIQUE 3">
                                                     </div>
                                                 </div>
                                                 <!-- Left and right controls -->
@@ -214,29 +190,35 @@
                                         </div>
 
                                         <a href="#" class="custombox__slider-btn">
-                                            Through these means, we strive to help you realize and grow your business in all
-                                            fields.
+                                            複数の顔をもち幅広くサービス提供しています。
                                         </a>
                                     </div>
                                 </div>
                             </div>
-
                         </section>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row container__custom-white">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-offset-1 col-sm-11">
 
                         <section class="section__custom-padding" id="principle">
                             <div class="row">
-
                                 <div class="col-md-3">
                                     <h1 class="title-index">特徴</h1>
                                     <hr class="title__yellow-line">
                                     <br>
-                                    <a class="career-section__btn" href="portfolio.php">See Portfolio</a>
+                                    <a class="career-section__btn" href="portfolio.php">製品についてみる</a>
                                 </div>
 
                                 <div class="col-md-9">
-
                                     <div class="principle">
-
                                         <div class="principle__illus">
                                             <img src="../img/principle/bullseye.png" alt="bullseye">
                                             <img src="../img/principle/gear.png" alt="gear">
@@ -257,16 +239,13 @@
                                             </p>
                                         </div>
                                     </div>
-
                                 </div>
-
                             </div>
                         </section>
 
                     </div>
                 </div>
             </div>
-
         </div>
 
         <div class="row container__custom-gray">
@@ -276,17 +255,17 @@
                     <div class="col-sm-11">
 
                         <section class="section__custom-gray" id="missionStatement">
-                            <h1 class="title-index">LOGIQUEのミッション</h1>
-                            <hr class="title__yellow-line"><br>
+                            <div class="text-center">
+                                <h1 class="title-index">LOGIQUEのミッション</h1>
+                                <hr class="title__yellow-line--center"><br>
+                            </div>
                             <div class="row">
 
                                 <div class="col-sm-6">
-                                    <h4 class="title-index--bold">GROWTH</h4><br>
                                     <p>インドネシアで戦っている企業をIT・デジタルマーケティング面でできる限り多くご支援したいと思っています。</p>
                                 </div>
 
                                 <div class="col-sm-6">
-                                    <h4 class="title-index--bold">INNOVATION</h4><br>
                                     <p>インドネシアのWeb制作開発業界の発展に寄与し、インドネシア人のWebデベロッパーにより良い機会を与えます。</p>
                                 </div>
 
@@ -301,12 +280,11 @@
 
         <div class="row container__custom-black" id="careerOpportunity">
             <section class="career-section">
-                <a class="career-section__btn" href="../career/">See Career Opportunity</a>
+                <a class="career-section__btn" href="../career/">求人について詳しく見る</a>
             </section>
         </div>
 
         <div class="row container__custom-white">
-
             <div class="container">
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
@@ -354,7 +332,7 @@
                                         <hr class="company__divider">
 
                                         <li>開発センター</li>
-                                        <li class="company__bold">ジョグジャカルタ ( Umbulharjo, Kota Yogyakarta )</li>
+                                        <li class="company__bold">ジョグジャカルタ ( Kledokan, Kota Yogyakarta )</li>
                                         <hr class="company__divider">
                                     </ul>
 
@@ -371,7 +349,6 @@
         </div>
 
         <div class="row container__custom-black">
-
             <div class="container">
                 <div class="row">
                     <div class="col-sm-11">
@@ -410,8 +387,8 @@
                                         <br><br>
                                         これからも慢心せず成長していきます。当社の事業を通じて、インドネシアに貢献し、クライアントの皆さまに喜んでもらい、仲間の成長に繋がれば、これほど嬉しいことはありません。</p>
                                 </div>
-
                             </div>
+
                         </section>
                     </div>
                 </div>
@@ -419,7 +396,6 @@
         </div>
 
         <div class="row container__custom-white">
-
             <div class="container">
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
@@ -440,8 +416,7 @@
                                     <div class="custombox__product-wrapper">
                                         <div class="custombox__product-list">
                                             <img class="custombox__product-list-img" src="/img/servicelist.png" alt="servicelist">
-                                            <a href="services.php" class="custombox__btn-product">See Service
-                                                List</a>
+                                            <a href="services.php" class="custombox__btn-product">サービスを詳しくみる</a>
                                         </div>
                                     </div>
                                 </div>
@@ -450,8 +425,7 @@
                                     <div class="custombox__product-wrapper">
                                         <div class="custombox__product-list">
                                             <img class="custombox__product-list-img" src="/img/productlist.png" alt="productlist">
-                                            <a href="product.php" class="custombox__btn-product">See Product
-                                                List</a>
+                                            <a href="product.php" class="custombox__btn-product">求人について詳しくみる</a>
                                         </div>
                                     </div>
                                 </div>
@@ -461,13 +435,21 @@
 
                         </section>
 
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row container__custom-white" style="padding:0;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-offset-1 col-sm-11">
+
                         <section class="section__custom-padding" style="margin-top: 1rem;" id="contact">
-
                             <div class="row">
-
                                 <div class="col-sm-5">
-                                    <h1 class="title-index" style="margin-bottom:0">Contact Logique</h1>
-                                    <p>if you need help with:</p>
+                                    <h1 class="title-index" style="margin-bottom:0">お問い合わせ</h1>
+                                    <p>人事管理クラウドツールについてお気軽にお問い合わせください</p>
                                     <br>
                                     <hr class="title__yellow-line">
                                     <img src="../img/contact.png" style="width:100%" alt="contact">
@@ -489,14 +471,9 @@
                                         <li>インターネット広告を出稿したい</li>
                                         <li>いまのWebにセキュリティ脆弱性がないのか診断してもら</li>
                                     </ul>
-
                                     <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">お問い合わせ</a>
-
-
                                 </div>
-
                             </div>
-
                         </section>
 
                     </div>

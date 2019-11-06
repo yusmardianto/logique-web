@@ -188,7 +188,7 @@ section.maintop {
 }
 
 .container__custom-white {
-    padding: 5em 0;
+    padding: 2.5em 0;
     background-color: white;
     z-index: 1;
     position: relative;
@@ -197,6 +197,7 @@ section.maintop {
 
 @media (max-width: 414px) {
     .row.container__custom-black,
+    .row.container__custom-black--2,
     .row.container__custom-gray {
         margin-left: 0;
     }
@@ -204,6 +205,7 @@ section.maintop {
 
 @media (max-width: 800px) and (max-height: 415px) and (orientation: landscape) {
     .row.container__custom-black,
+    .row.container__custom-black--2,
     .row.container__custom-gray {
         margin-left: 0;
     }
@@ -213,7 +215,17 @@ section.maintop {
 }
 
 .container__custom-black {
-    padding: 5em 0;
+    padding: 2.5em 0;
+    background-color: black;
+    color: white;
+    z-index: 1;
+    position: relative;
+    margin-left: 95px;
+    margin-right: 0;
+    overflow-x: hidden;
+}
+
+.container__custom-black--2 {
     background-color: black;
     color: white;
     z-index: 1;
@@ -224,7 +236,7 @@ section.maintop {
 }
 
 .container__custom-gray {
-    padding: 5em 0;
+    padding: 2.5em 0;
     background-color: #eae9eb;
     /* color: white; */
     z-index: 1;
@@ -251,8 +263,13 @@ section.maintop {
     margin-left: 4%;
 }
 
+.section__custom-gray--2 {
+    margin-left: 4%;
+}
+
 @media (max-width: 1024px) {
     .section__custom-black,
+    .section__custom-gray--2,
     .section__custom-gray {
         margin-left: 5px;
     }
@@ -443,6 +460,10 @@ section.maintop {
 .title-index span {
     font-family: 'Bebas';
     font-size: 40px;
+}
+
+.title-index__sub {
+    font-size: 26px;
 }
 
 .title__yellow-line {
@@ -1086,6 +1107,49 @@ section.maintop {
     padding: 0;
 }
 
+.product-list {
+    width: 75%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+.product-list__img {
+    max-height: 100px;
+    max-width: 200px;
+}
+
+.product-snap-shot {
+    background: linear-gradient(#000, #000) bottom/100% 50% no-repeat;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 3%;
+}
+
+.product-snap-shot__dummy-img {
+    height: 250px;
+    width: 100%;
+    background-color: #fff;
+    border: solid 1px #000;
+    margin-bottom: 15px;
+}
+
+.product-snap-shot__text {
+    width: 80%;
+    text-align: center;
+}
+
+.btn--yellow {
+    background-color: #ffca13;
+    border-radius: 10px;
+    padding: 10px 35px;
+    color: #000;
+}
+
 .div-service-cat h2 {
     text-align: center;
 }
@@ -1218,6 +1282,10 @@ section.maintop {
 .title__description {
     width: 75%;
     margin: 15px auto 50px;
+}
+
+.title__description--full {
+    margin: 15px 0;
 }
 
 .page-nav {

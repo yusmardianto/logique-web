@@ -104,7 +104,6 @@
         <div class="bg-white-opacity"></div> -->
 
         <div class="container-fluid">
-
             <div class="row lang-logo--update-design">
                 <div class="container">
                     <div class="row">
@@ -125,8 +124,7 @@
 
         </div>
 
-        <div class="row container__custom-white" style="padding-bottom: 0">
-
+        <div class="row container__custom-white" style="margin-top:4.5em;">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
@@ -142,67 +140,50 @@
                                     sangat terbuka untuk melayani konsultasi IT kepada klien yang percaya dengan kemampuan digital
                                     marketing. Kontribusi kami dalam dunia digital dan pengembangan IT adalah dengan menyediakan
                                     berbagai layanan yang terkait dengan web seperti web & system development, SEO, mobile app
-                                    development (Android and iOS), dan digital marketing untuk membantu merealisasikan serta
-                                    mengembangkan bisnis Anda di segala lini.</p>
+                                    development (Android and iOS), dan digital marketing.</p>
                             </div>
 
                             <div class="row">
                                 <div class="col-md-offset-2 col-md-8">
                                     <!-- SLIDER -->
-                                    <div class="custombox__slider" style="display:">
-
+                                    <div class="custombox__slider">
                                         <div class="custombox__custom-slider">
                                             <div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
                                                 <div class="carousel-inner">
                                                     <div class="item active">
                                                         <img src="/img/banner-logo-logique.jpg" alt="Web Developer LOGIQUE 5">
                                                         <div class="custombox__slider-text-wrapper">
-                                                            <p class="custombox__slider-text">With over 7 years’ experience in
-                                                                Indonesia, our team is ready to engage in problems specific to the
-                                                                local area.</p>
+                                                            <p class="custombox__slider-text">Dengan pengalaman lebih dari 7 tahun
+                                                                di Indonesia, kami dapat memecahkan masalah yang pada umumnya
+                                                                terjadi di Indonesia.</p>
                                                         </div>
                                                     </div>
                                                     <div class="item">
                                                         <img src="/img/slider5.jpg" alt="Web Developer LOGIQUE 5">
                                                         <div class="custombox__slider-text-wrapper">
-                                                            <p class="custombox__slider-text">We provide employee monitoring
-                                                                software catering to remote work, which bypasses Jakarta’s high
-                                                                traffic congestion problem. </p>
+                                                            <p class="custombox__slider-text">Kami juga menyediakan software
+                                                                monitoring untuk mendukung kerja remote, yang dapat menjadi solusi
+                                                                kemacetan di Jakarta.</p>
                                                         </div>
                                                     </div>
                                                     <div class="item">
                                                         <img style="object-position:0 0" src="/img/banner-all-member.jpg"
                                                             alt="logique member">
                                                         <div class="custombox__slider-text-wrapper">
-                                                            <p class="custombox__slider-text">In addition, our high quality
-                                                                software produces results conforming to an international standard,
-                                                                as we have much experience serving a wide range of global
-                                                                clientele. </p>
+                                                            <p class="custombox__slider-text">Kami menghasilkan hasil kerja yang
+                                                                berkualitas yang tinggi dengan standarisasi global karena kami
+                                                                memiliki berbagai pengalaman dalam berbisnis dengan perusahaan
+                                                                internasional.</p>
                                                         </div>
                                                     </div>
                                                     <div class="item">
                                                         <img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
                                                         <div class="custombox__slider-text-wrapper">
-                                                            <p class="custombox__slider-text">Consult with us so that we may
-                                                                become your partners in assisting you with improving your
-                                                                enterprise.
-
+                                                            <p class="custombox__slider-text">Mari lakukan konsultasi dengan kami,
+                                                                LOGIQUE dapat menjadi rekan kerja dan pakar digital untuk membantu
+                                                                meningkatkan bisnis Anda.
                                                             </p>
                                                         </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <img style="object-position:0 0" src="/img/slider1.jpg"
-                                                            alt="Web Developer LOGIQUE 1">
-                                                        <div class="custombox__slider-text-wrapper">
-                                                            <p class="custombox__slider-text">Consult with us, we can be your
-                                                                partner and digital specialist to help improve your business.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <img src="/img/career-main.png" alt="Web Developer LOGIQUE 2">
-                                                    </div>
-                                                    <div class="item">
-                                                        <img src="/img/slider2.jpg" alt="Web Developer LOGIQUE 3">
                                                     </div>
                                                 </div>
                                                 <!-- Left and right controls -->
@@ -218,14 +199,22 @@
                                         </div>
 
                                         <a href="#" class="custombox__slider-btn">
-                                            Through these means, we strive to help you realize and grow your business in all
-                                            fields.
+                                            Kami akan membantu merealisasikan serta mengembangkan bisnis Anda dari segala sisi.
                                         </a>
                                     </div>
                                 </div>
                             </div>
-
                         </section>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row container__custom-white">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-offset-1 col-sm-11">
 
                         <section class="section__custom-padding" id="principle">
                             <div class="row">
@@ -278,7 +267,6 @@
                     </div>
                 </div>
             </div>
-
         </div>
 
         <div class="row container__custom-gray">
@@ -293,19 +281,19 @@
                             <div class="row">
 
                                 <div class="col-sm-4">
-                                    <h4 class="title-index--bold">GROWTH</h4><br>
+                                    <h4 class="title-index--bold">PERKEMBANGAN</h4><br>
                                     <p>Mendukung berbagai perusahaan di Indonesia untuk berkembang dan meningkatkan bisnis mereka
                                         di bidang IT dan digital marketing dengan standar nilai yang tinggi dan memuaskan.</p>
                                 </div>
 
                                 <div class="col-sm-4">
-                                    <h4 class="title-index--bold">INNOVATION</h4><br>
+                                    <h4 class="title-index--bold">INOVASI</h4><br>
                                     <p>Berkontribusi terhadap perkembangan web dan industri digital marketing di Indonesia dengan
                                         terus mengembangkan strategi baru dan solusi yang inovatif.</p>
                                 </div>
 
                                 <div class="col-sm-4">
-                                    <h4 class="title-index--bold">OPPORTUNITY</h4><br>
+                                    <h4 class="title-index--bold">PELUANG</h4><br>
                                     <p>Memberikan kesempatan lebih dan peluang besar kepada para web developer di Indonesia dengan
                                         membantu mereka dalam mengembangkan dan memaksimalkan potensinya untuk masa depan yang
                                         lebih baik.
@@ -323,7 +311,7 @@
 
         <div class="row container__custom-black" id="careerOpportunity">
             <section class="career-section">
-                <a class="career-section__btn" href="career/">See Career Opportunity</a>
+                <a class="career-section__btn" href="career/">Lihat Lowongan di Logique</a>
             </section>
         </div>
 
@@ -377,7 +365,7 @@
                                         <hr class="company__divider">
 
                                         <li>Development Center</li>
-                                        <li class="company__bold">Yogyakarta ( Umbulharjo, Kota Yogyakarta )</li>
+                                        <li class="company__bold">Yogyakarta ( Kledokan, Kota Yogyakarta )</li>
                                         <hr class="company__divider">
                                     </ul>
 
@@ -459,13 +447,11 @@
         </div>
 
         <div class="row container__custom-white">
-
             <div class="container">
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
 
                         <section class="section__custom-padding" id="lgqDoes">
-
                             <div class="text-center">
                                 <h1 class="title-index">Layanan LOGIQUE</h1>
                                 <hr class="title__yellow-line--center">
@@ -478,7 +464,6 @@
                             </div>
 
                             <div class="row">
-
                                 <div class="col-sm-6">
                                     <div class="custombox__product-wrapper">
                                         <div class="custombox__product-list">
@@ -498,19 +483,24 @@
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
-
-
                         </section>
 
-                        <section class="section__custom-padding" style="margin-top: 1rem;" id="contact">
+                    </div>
+                </div>
+            </div>
+        </div>
 
+        <div class="row container__custom-white" style="padding:0;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-offset-1 col-sm-11">
+
+                        <section class="section__custom-padding" id="contact">
                             <div class="row">
-
                                 <div class="col-sm-5">
                                     <h1 class="title-index" style="margin-bottom:0">Hubungi Logique</h1>
-                                    <p>apabila Anda membutuhkan bantuan untuk:</p>
+                                    <p>LOGIQUE siap membantu Anda.</p>
                                     <br>
                                     <hr class="title__yellow-line">
                                     <img src="../img/contact.png" style="width:100%" alt="contact">
@@ -529,15 +519,10 @@
                                         <li>Mencari layanan printing untuk company profiles atau brosur</li>
                                         <li>dll.</li>
                                     </ul>
-
                                     <a href="hubungi-kami.php" class="btn btn-contact-us-black" style="width: auto">Hubungi
                                         LOGIQUE</a>
-
-
                                 </div>
-
                             </div>
-
                         </section>
 
                     </div>

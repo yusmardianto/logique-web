@@ -126,8 +126,7 @@
 
         </div>
 
-        <div class="row container__custom-white" style="padding-bottom: 0">
-
+        <div class="row container__custom-white" style="margin-top:4.5em">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
@@ -150,7 +149,7 @@
                             <div class="row">
                                 <div class="col-md-offset-2 col-md-8">
                                     <!-- SLIDER -->
-                                    <div class="custombox__slider" style="display:">
+                                    <div class="custombox__slider">
 
                                         <div class="custombox__custom-slider">
                                             <div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
@@ -199,12 +198,6 @@
                                                                 partner and digital specialist to help improve your business.</p>
                                                         </div>
                                                     </div>
-                                                    <div class="item">
-                                                        <img src="/img/career-main.png" alt="Web Developer LOGIQUE 2">
-                                                    </div>
-                                                    <div class="item">
-                                                        <img src="/img/slider2.jpg" alt="Web Developer LOGIQUE 3">
-                                                    </div>
                                                 </div>
                                                 <!-- Left and right controls -->
                                                 <a class="left carousel-control" href="#profile" data-slide="prev">
@@ -228,9 +221,18 @@
 
                         </section>
 
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row container__custom-white">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-offset-1 col-sm-11">
+
                         <section class="section__custom-padding" id="principle">
                             <div class="row">
-
                                 <div class="col-md-3">
                                     <h1 class="title-index">Principles of LOGIQUE</h1>
                                     <hr class="title__yellow-line">
@@ -239,9 +241,7 @@
                                 </div>
 
                                 <div class="col-md-9">
-
                                     <div class="principle">
-
                                         <div class="principle__illus">
                                             <img src="../img/principle/bullseye.png" alt="bullseye">
                                             <img src="../img/principle/gear.png" alt="gear">
@@ -271,16 +271,13 @@
                                             </p>
                                         </div>
                                     </div>
-
                                 </div>
-
                             </div>
                         </section>
 
                     </div>
                 </div>
             </div>
-
         </div>
 
         <div class="row container__custom-gray">
@@ -380,7 +377,7 @@
                                         <hr class="company__divider">
 
                                         <li>Development Center</li>
-                                        <li class="company__bold">Yogyakarta ( Umbulharjo, Kota Yogyakarta )</li>
+                                        <li class="company__bold">Yogyakarta ( Kledokan, Kota Yogyakarta )</li>
                                         <hr class="company__divider">
                                     </ul>
 
@@ -469,13 +466,11 @@
         </div>
 
         <div class="row container__custom-white">
-
             <div class="container">
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
 
                         <section class="section__custom-padding" id="lgqDoes">
-
                             <div class="text-center">
                                 <h1 class="title-index">What LOGIQUE Does</h1>
                                 <hr class="title__yellow-line--center">
@@ -488,7 +483,6 @@
                             </div>
 
                             <div class="row">
-
                                 <div class="col-sm-6">
                                     <div class="custombox__product-wrapper">
                                         <div class="custombox__product-list">
@@ -508,13 +502,21 @@
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
-
 
                         </section>
 
-                        <section class="section__custom-padding" style="margin-top: 1rem;" id="contact">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row container__custom-white" style="padding:0;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-offset-1 col-sm-11">
+
+                        <section class="section__custom-padding" id="contact">
 
                             <div class="row">
 
