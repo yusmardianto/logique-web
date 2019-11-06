@@ -28,7 +28,7 @@
 
 </head>
 
-<body style="overflow-x: hidden">
+<body>
     <div class="wrapper">
 
         <!-- NAVIGATION -->
@@ -124,12 +124,12 @@
 
         </div>
 
-        <div class="row container__custom-white" style="margin-top:4.5em;">
-            <div class="container">
+        <div class="content-wrapper__" style="margin-top:4.5em;">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-padding" id="about">
+                        <section id="about">
                             <div class="text-center">
                                 <h1 class="title-index">Tentang Kami</h1>
                                 <hr class="title__yellow-line--center">
@@ -198,9 +198,9 @@
                                             </div>
                                         </div>
 
-                                        <a href="#" class="custombox__slider-btn">
+                                        <p class="custombox__slider-btn">
                                             Kami akan membantu merealisasikan serta mengembangkan bisnis Anda dari segala sisi.
-                                        </a>
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -211,14 +211,12 @@
             </div>
         </div>
 
-        <div class="row container__custom-white">
-            <div class="container">
+        <div class="content-wrapper__">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
-
-                        <section class="section__custom-padding" id="principle">
+                    <div class="col-sm-12">
+                        <section id="principle">
                             <div class="row">
-
                                 <div class="col-md-3">
                                     <h1 class="title-index">Karakteristik LOGIQUE</h1>
                                     <hr class="title__yellow-line">
@@ -227,9 +225,7 @@
                                 </div>
 
                                 <div class="col-md-9">
-
                                     <div class="principle">
-
                                         <div class="principle__illus">
                                             <img src="../img/principle/bullseye.png" alt="bullseye">
                                             <img src="../img/principle/gear.png" alt="gear">
@@ -258,9 +254,7 @@
                                             </p>
                                         </div>
                                     </div>
-
                                 </div>
-
                             </div>
                         </section>
 
@@ -269,13 +263,12 @@
             </div>
         </div>
 
-        <div class="row container__custom-gray">
-
-            <div class="container">
+        <div class="content-wrapper__">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-gray" id="missionStatement">
+                        <section id="missionStatement">
                             <h1 class="title-index">Misi LOGIQUE</h1>
                             <hr class="title__yellow-line"><br>
                             <div class="row">
@@ -299,31 +292,27 @@
                                         lebih baik.
                                     </p>
                                 </div>
-
                             </div>
                         </section>
 
                     </div>
                 </div>
             </div>
-
         </div>
 
-        <div class="row container__custom-black" id="careerOpportunity">
+        <div class="content-wrapper__" id="careerOpportunity">
             <section class="career-section">
                 <a class="career-section__btn" href="career/">Lihat Lowongan di Logique</a>
             </section>
         </div>
 
-        <div class="row container__custom-white">
-
-            <div class="container">
+        <div class="content-wrapper__">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-padding" id="companyOverview">
+                        <section id="companyOverview">
                             <div class="row">
-
                                 <div class="col-sm-4">
                                     <img src="../img/company-overview.png" alt="company overview" style="width: 100%">
                                 </div>
@@ -331,7 +320,6 @@
                                 <div class="col-sm-8">
                                     <h1 class="title-index">Profil Perusahaan</h1>
                                     <hr class="title__yellow-line">
-
                                     <ul class="company__content">
                                         <li>Nama Perusahaan</li>
                                         <li class="company__bold">PT. Logique Digital Indonesia</li>
@@ -368,25 +356,20 @@
                                         <li class="company__bold">Yogyakarta ( Kledokan, Kota Yogyakarta )</li>
                                         <hr class="company__divider">
                                     </ul>
-
                                 </div>
-
                             </div>
-
                         </section>
 
                     </div>
                 </div>
             </div>
-
         </div>
 
-        <div class="row container__custom-black">
-
-            <div class="container">
+        <div class="content-wrapper__black">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-11">
-                        <section class="section__custom-black" id="directorMessage">
+                    <div class="col-sm-12">
+                        <section id="directorMessage">
                             <div class="row">
 
                                 <div class="col-sm-6">
@@ -438,20 +421,20 @@
                                         melanjutkan bisnis ini, saya sangat senang jika bisnis kami dapat memberikan kontribusi
                                         untuk Indonesia, kepuasan klien, dan kesuksesan rekan kerja kami.</p>
                                 </div>
-
                             </div>
                         </section>
+
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="row container__custom-white">
-            <div class="container">
+        <div class="content-wrapper__">
+            <div class="container__">
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
 
-                        <section class="section__custom-padding" id="lgqDoes">
+                        <section id="lgqDoes">
                             <div class="text-center">
                                 <h1 class="title-index">Layanan LOGIQUE</h1>
                                 <hr class="title__yellow-line--center">
@@ -468,7 +451,7 @@
                                     <div class="custombox__product-wrapper">
                                         <div class="custombox__product-list">
                                             <img class="custombox__product-list-img" src="/img/servicelist.png" alt="servicelist">
-                                            <a href="services.php" class="custombox__btn-product">See Service
+                                            <a href="layanan.php" class="custombox__btn-product">See Service
                                                 List</a>
                                         </div>
                                     </div>
@@ -478,7 +461,7 @@
                                     <div class="custombox__product-wrapper">
                                         <div class="custombox__product-list">
                                             <img class="custombox__product-list-img" src="/img/productlist.png" alt="productlist">
-                                            <a href="product.php" class="custombox__btn-product">See Product
+                                            <a href="produk.php" class="custombox__btn-product">See Product
                                                 List</a>
                                         </div>
                                     </div>
@@ -491,12 +474,12 @@
             </div>
         </div>
 
-        <div class="row container__custom-white" style="padding:0;">
-            <div class="container">
+        <div class="content-wrapper__" style="padding:0;">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-padding" id="contact">
+                        <section id="contact">
                             <div class="row">
                                 <div class="col-sm-5">
                                     <h1 class="title-index" style="margin-bottom:0">Hubungi Logique</h1>

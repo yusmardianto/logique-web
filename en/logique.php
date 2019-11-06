@@ -126,12 +126,12 @@
 
         </div>
 
-        <div class="row container__custom-white" style="margin-top:4.5em">
-            <div class="container">
+        <div class="content-wrapper__" style="margin-top:4.5em">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-padding" id="about">
+                        <section id="about">
                             <div class="text-center">
                                 <h1 class="title-index">About Us</h1>
                                 <hr class="title__yellow-line--center">
@@ -211,10 +211,10 @@
                                             </div>
                                         </div>
 
-                                        <a href="#" class="custombox__slider-btn">
+                                        <p class="custombox__slider-btn">
                                             Through these means, we strive to help you realize and grow your business in all
                                             fields.
-                                        </a>
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -226,12 +226,12 @@
             </div>
         </div>
 
-        <div class="row container__custom-white">
-            <div class="container">
+        <div class="content-wrapper__">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-padding" id="principle">
+                        <section id="principle">
                             <div class="row">
                                 <div class="col-md-3">
                                     <h1 class="title-index">Principles of LOGIQUE</h1>
@@ -280,13 +280,12 @@
             </div>
         </div>
 
-        <div class="row container__custom-gray">
-
-            <div class="container">
+        <div class="content-wrapper__">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-gray" id="missionStatement">
+                        <section id="missionStatement">
                             <h1 class="title-index">Mission Statement</h1>
                             <hr class="title__yellow-line"><br>
                             <div class="row">
@@ -295,19 +294,19 @@
                                     <h4 class="title-index--bold">GROWTH</h4><br>
                                     <p>To support a vast range of companies in Indonesia with the goal of growing and improving
                                         all types of businesses in the IT and Digital Marketing fields while maintaining a high
-                                        standard of excellence and values.</p>
+                                        standard of excellence and values.</p><br>
                                 </div>
 
                                 <div class="col-sm-4">
                                     <h4 class="title-index--bold">INNOVATION</h4><br>
                                     <p>To contribute to the growth of Web Development and Digital Marketing through changing and
-                                        improving our strategies and solutions.</p>
+                                        improving our strategies and solutions.</p><br>
                                 </div>
 
                                 <div class="col-sm-4">
                                     <h4 class="title-index--bold">OPPORTUNITY</h4><br>
                                     <p>To provide better opportunities to Indonesian Web Developers by helping them to maximize
-                                        their potential for a better future.</p>
+                                        their potential for a better future.</p><br>
                                 </div>
 
                             </div>
@@ -319,19 +318,19 @@
 
         </div>
 
-        <div class="row container__custom-black" id="careerOpportunity">
+        <div class="content-wrapper__" id="careerOpportunity">
             <section class="career-section">
                 <a class="career-section__btn" href="../career/">See Career Opportunity</a>
             </section>
         </div>
 
-        <div class="row container__custom-white">
+        <div class="content-wrapper__">
 
-            <div class="container">
+            <div class="container__">
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
 
-                        <section class="section__custom-padding" id="companyOverview">
+                        <section id="companyOverview">
                             <div class="row">
 
                                 <div class="col-sm-4">
@@ -393,12 +392,12 @@
 
         </div>
 
-        <div class="row container__custom-black">
+        <div class="content-wrapper__black">
 
-            <div class="container">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-11">
-                        <section class="section__custom-black" id="directorMessage">
+                    <div class="col-sm-12">
+                        <section id="directorMessage">
                             <div class="row">
 
                                 <div class="col-sm-6">
@@ -465,12 +464,12 @@
             </div>
         </div>
 
-        <div class="row container__custom-white">
-            <div class="container">
+        <div class="content-wrapper__">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-padding" id="lgqDoes">
+                        <section id="lgqDoes">
                             <div class="text-center">
                                 <h1 class="title-index">What LOGIQUE Does</h1>
                                 <hr class="title__yellow-line--center">
@@ -511,12 +510,12 @@
             </div>
         </div>
 
-        <div class="row container__custom-white" style="padding:0;">
-            <div class="container">
+        <div class="content-wrapper__" style="padding:0;">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-padding" id="contact">
+                        <section id="contact">
 
                             <div class="row">
 

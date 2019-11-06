@@ -29,7 +29,7 @@
     <link href="../css/jpstyle.css" rel="stylesheet">
 </head>
 
-<body class="jp-page" style="overflow-x: hidden">
+<body class="jp-page">
     <div class="wrapper">
 
         <!-- NAVIGATION -->
@@ -126,12 +126,12 @@
 
         </div>
 
-        <div class="row container__custom-white" style="margin-top: 4.5em;">
-            <div class="container">
+        <div class="content-wrapper__" style="margin-top: 4.5em;">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-padding" id="about">
+                        <section id="about">
                             <div class="text-center">
                                 <h1 class="title-index">LOGIQUEについて</h1>
                                 <hr class="title__yellow-line--center">
@@ -189,9 +189,9 @@
                                             </div>
                                         </div>
 
-                                        <a href="#" class="custombox__slider-btn">
+                                        <p class="custombox__slider-btn">
                                             複数の顔をもち幅広くサービス提供しています。
-                                        </a>
+</p>
                                     </div>
                                 </div>
                             </div>
@@ -203,18 +203,18 @@
 
         </div>
 
-        <div class="row container__custom-white">
-            <div class="container">
+        <div class="content-wrapper__">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-padding" id="principle">
+                        <section id="principle">
                             <div class="row">
                                 <div class="col-md-3">
                                     <h1 class="title-index">特徴</h1>
                                     <hr class="title__yellow-line">
                                     <br>
-                                    <a class="career-section__btn" href="portfolio.php">製品についてみる</a>
+                                    <a class="career-section__btn" style="white-space: nowrap" href="portfolio.php">製品についてみる</a>
                                 </div>
 
                                 <div class="col-md-9">
@@ -228,11 +228,9 @@
                                         </div>
 
                                         <div class="principle__content">
-                                            <p>LOGIQUEは数少ないインドネシアにベースを置く日系のWEB制作/システム開発会社です。<br><br>
-                                                豊富な実績と確かなクオリティで信頼いただいていて大手のお客様にもお取引いただいています。LOGIQUEは、お客様のご要望に応じて最適なご提案をして最大の効果をあげるサービスを提供することに努めています。
+                                            <p>LOGIQUEは数少ないインドネシアにベースを置く日系のWEB制作/システム開発会社です。豊富な実績と確かなクオリティで信頼いただいていて大手のお客様にもお取引いただいています。LOGIQUEは、お客様のご要望に応じて最適なご提案をして最大の効果をあげるサービスを提供することに努めています。
                                                 <br><br>
-                                                スピードが重要な時代です。特に変化のスピードが早く変化量も大きいインドネシアにおいて、LOGIQUEはスピードとAgilityを重視しています。<br><br>
-                                                時にはお客様を急かしてでもプロジェクトを前へ進めていくようなつもりでお客様のビジネスを成長させていきたいと思っています。<br><br>
+                                                スピードが重要な時代です。特に変化のスピードが早く変化量も大きいインドネシアにおいて、LOGIQUEはスピードとAgilityを重視しています。時にはお客様を急かしてでもプロジェクトを前へ進めていくようなつもりでお客様のビジネスを成長させていきたいと思っています。<br><br>
                                                 シンプルなコーポレートWEBを公開したいというご要件と、新しいWEBサービスでインドネシアのマーケットを取りに行くという案件では、予算も投下リソースもスケジュールも全て異なりますが、LOGIQUEではどちらにも対応可能です。<br><br>
                                                 ちょとした社内システムを構築したいという時に日系SIerに相談したら遅くてすごく高いという悩みを良くお聞きします。顧客管理システム、採用管理システム、日報システム、予約システムなどインドネシアにて様々なシステム開発をした実績があります。ご相談ください。<br><br>
                                                 ある時は小回りのきく小さなWEB制作会社として、場合によってはセキュリティもしっかりした信頼できるシステム開発会社として、お客様からのご期待に応じてそのスタイルを変えながら御社のパートナーとして高いValueを提供していきたいと考えています。
@@ -241,20 +239,19 @@
                                     </div>
                                 </div>
                             </div>
-                        </section>
 
+                        </section>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="row container__custom-gray">
-
-            <div class="container">
+        <div class="content-wrapper__gray">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-gray" id="missionStatement">
+                        <section id="missionStatement">
                             <div class="text-center">
                                 <h1 class="title-index">LOGIQUEのミッション</h1>
                                 <hr class="title__yellow-line--center"><br>
@@ -278,20 +275,19 @@
 
         </div>
 
-        <div class="row container__custom-black" id="careerOpportunity">
+        <div class="content-wrapper__" id="careerOpportunity">
             <section class="career-section">
                 <a class="career-section__btn" href="../career/">求人について詳しく見る</a>
             </section>
         </div>
 
-        <div class="row container__custom-white">
-            <div class="container">
+        <div class="content-wrapper__">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-padding" id="companyOverview">
+                        <section id="companyOverview">
                             <div class="row">
-
                                 <div class="col-sm-4">
                                     <img src="../img/company-overview.png" alt="company overview" style="width: 100%">
                                 </div>
@@ -335,36 +331,29 @@
                                         <li class="company__bold">ジョグジャカルタ ( Kledokan, Kota Yogyakarta )</li>
                                         <hr class="company__divider">
                                     </ul>
-
                                 </div>
-
                             </div>
-
                         </section>
 
                     </div>
                 </div>
             </div>
-
         </div>
 
-        <div class="row container__custom-black">
-            <div class="container">
+        <div class="content-wrapper__black">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-11">
-                        <section class="section__custom-black" id="directorMessage">
-                            <div class="row">
+                    <div class="col-sm-12">
 
+                        <section id="directorMessage">
+                            <div class="row">
                                 <div class="col-sm-6">
                                     <h1 class="title-index--white">Director's Profile </h1>
                                     <hr class="title__yellow-line">
-
                                     <div class="director">
-
                                         <div class="director__img">
                                             <img src="/img/yoshi-update.jpg" alt="Takashi Yoshitsugu" class="img-responsive" />
                                         </div>
-
                                         <div class="director__content">
                                             <hr class="title__white-line">
                                             <div>
@@ -373,14 +362,13 @@
                                                     1976年東京生まれ。1999年に早稲田大学理工学部経営システム工学科を卒業。株式会社日本総合研究所やCRMコンサルティングファームなどを経て2005年よりEコマース事業、輸入商社、コンサルティング会社を起業。2012年よりインドネシアで会社運営。
                                             </div>
                                         </div>
-
                                     </div>
                                 </div>
 
                                 <div class="col-sm-6">
                                     <h1 class="title-index--white">Message</h1>
                                     <hr class="title__yellow-line">
-                                    <p class="director__message" style="text-align: justify">
+                                    <p class="director__message" style="text-align: justify; height:auto; overflow-y:visible">
                                         LOGIQUEという名前はlogika-kuというインドネシア語が由来となっています。自分たちのロジック、思いを大事に、芯をもって事を成していきたいと思っています。東南アジア×ITという非常に変化の激しい領域にいますが、一時のトレンドや短期的な利益に惑わされず、自分たち、関係いただく皆さまの幸福度を最大化していきたいと思います。<br><br>
                                         2012年からインドネシアにてWEB・SI・デジタルマーケティング領域で多くのお客様にIT・WEB活用のご支援をして参りました。お陰様で業績は順調に拡大しております。2018年4月にはジョグジャカルタに開発センターを開設しました。<br><br>
                                         インドネシアの社会環境を鑑みて、リモートワークや時短勤務などのフレキシブルな勤務体系を取り入れ、効率的に幸せに働いてもらうための取組を続けています。これら当社向けに試行したこと、当社向けに開発したシステムをインドネシアの他の会社さまにも提供していくつもりです。
@@ -388,20 +376,19 @@
                                         これからも慢心せず成長していきます。当社の事業を通じて、インドネシアに貢献し、クライアントの皆さまに喜んでもらい、仲間の成長に繋がれば、これほど嬉しいことはありません。</p>
                                 </div>
                             </div>
-
                         </section>
+
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="row container__custom-white">
-            <div class="container">
+        <div class="content-wrapper__">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-padding" id="lgqDoes">
-
+                        <section id="lgqDoes">
                             <div class="text-center">
                                 <h1 class="title-index">LOGIQUEサービス・プロダクトについて</h1>
                                 <hr class="title__yellow-line--center">
@@ -409,9 +396,7 @@
                                     クライアント向けにWeb制作、Webシステム開発、デジタルマーケティング実施などを行っているほかに、HR系のクラウドツールプロダクトを販売しています。インドネシアの企業の課題を解決するプロダクトです。どちらについてもお気軽にご相談いただければ幸いです。
                                 </p>
                             </div>
-
                             <div class="row">
-
                                 <div class="col-sm-6">
                                     <div class="custombox__product-wrapper">
                                         <div class="custombox__product-list">
@@ -429,10 +414,7 @@
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
-
-
                         </section>
 
                     </div>
@@ -440,12 +422,12 @@
             </div>
         </div>
 
-        <div class="row container__custom-white" style="padding:0;">
-            <div class="container">
+        <div class="content-wrapper__" style="padding:0;">
+            <div class="container__">
                 <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
+                    <div class="col-sm-12">
 
-                        <section class="section__custom-padding" style="margin-top: 1rem;" id="contact">
+                        <section style="margin-top: 1rem;" id="contact">
                             <div class="row">
                                 <div class="col-sm-5">
                                     <h1 class="title-index" style="margin-bottom:0">お問い合わせ</h1>
