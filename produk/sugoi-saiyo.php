@@ -418,17 +418,17 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<h2>MENGAPA HARUS MENGGUNAKAN SUGOI SAIYO?</h2>
 				<div class="row m-50">
-					<div class="col-md-4">
-						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-1.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>Mudah diakses dan digunakan, baik oleh staf HR maupun oleh kandidat</p>
+					<div class="col-md-4 col-sm-12 mb-1em">
+						<div class="col-md-12 col-sm-3 img-why-ss justify-content-center"><img src="img/sugoi-saiyo/kenapa-1.png" alt="Kenapa Sugoi Saiyo"></div>
+						<p class="col-md-12 col-sm-8 col-sm-offset-1">Mudah diakses dan digunakan, baik oleh staf HR maupun oleh kandidat</p>
 					</div>
-					<div class="col-md-4">
-						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-2.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>Memiliki <i>user interface</i> yang sederhana</p>
+					<div class="col-md-4 col-sm-12 mb-1em">
+						<div class="col-md-12 col-sm-3 img-why-ss justify-content-center"><img src="img/sugoi-saiyo/kenapa-2.png" alt="Kenapa Sugoi Saiyo"></div>
+						<p class="col-md-12 col-sm-8 col-sm-offset-1">Memiliki <i>user interface</i> yang sederhana</p>
 					</div>
-					<div class="col-md-4">
-						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-3.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>Proses rekrutmen dapat dipantau, mulai dari registrasi kandidat hingga status lolos</p>
+					<div class="col-md-4 col-sm-12 mb-1em">
+						<div class="col-md-12 col-sm-3 img-why-ss justify-content-center"><img src="img/sugoi-saiyo/kenapa-3.png" alt="Kenapa Sugoi Saiyo"></div>
+						<p class="col-md-12 col-sm-8 col-sm-offset-1">Proses rekrutmen dapat dipantau, mulai dari registrasi kandidat hingga status lolos</p>
 					</div>
 				</div>
 			</div>

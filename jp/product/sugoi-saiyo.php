@@ -395,17 +395,17 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<h2>なぜSugoiSaiyo？</h2>
 				<div class="row m-50">
-					<div class="col-md-4">
-						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-1.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>採用担当者にも応募者にも使いやすくメリットのあるシステム</p>
+					<div class="col-md-4 col-sm-12 mb-1em">
+						<div class="col-md-12 col-sm-3 img-why-ss justify-content-center"><img src="img/sugoi-saiyo/kenapa-1.png" alt="Kenapa Sugoi Saiyo"></div>
+						<p class="col-md-12 col-sm-8 col-sm-offset-1">採用担当者にも応募者にも使いやすくメリットのあるシステム</p>
 					</div>
-					<div class="col-md-4">
-						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-2.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>採用プロセスをなるべくオンラインでシンプルに早期化します</p>
+					<div class="col-md-4 col-sm-12 mb-1em">
+						<div class="col-md-12 col-sm-3 img-why-ss justify-content-center"><img src="img/sugoi-saiyo/kenapa-2.png" alt="Kenapa Sugoi Saiyo"></div>
+						<p class="col-md-12 col-sm-8 col-sm-offset-1">採用プロセスをなるべくオンラインでシンプルに早期化します</p>
 					</div>
-					<div class="col-md-4">
-						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-3.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>全てを可視化でき、数値による公正な判断を可能にします</p>
+					<div class="col-md-4 col-sm-12 mb-1em">
+						<div class="col-md-12 col-sm-3 img-why-ss justify-content-center"><img src="img/sugoi-saiyo/kenapa-3.png" alt="Kenapa Sugoi Saiyo"></div>
+						<p class="col-md-12 col-sm-8 col-sm-offset-1">全てを可視化でき、数値による公正な判断を可能にします</p>
 					</div>
 				</div>
 			</div>

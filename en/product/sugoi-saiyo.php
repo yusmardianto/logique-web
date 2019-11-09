@@ -411,17 +411,17 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 			<div class="container">
 				<h2>WHY SUGOI SAIYO?</h2>
 				<div class="row m-50 qna-space">
-					<div class="col-md-4 flex-layout">
-						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-1.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>Extremely accessible and easy to use, by both HR staff and candidates.</p>
+					<div class="col-md-4 col-sm-12 mb-1em">
+						<div class="col-md-12 col-sm-3 img-why-ss justify-content-center"><img src="img/sugoi-saiyo/kenapa-1.png" alt="Kenapa Sugoi Saiyo"></div>
+						<p class="col-md-12 col-sm-8 col-sm-offset-1">Extremely accessible and easy to use, by both HR staff and candidates.</p>
 					</div>
-					<div class="col-md-4 flex-layout">
-						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-2.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>Very simple user interface.</p>
+					<div class="col-md-4 col-sm-12 mb-1em">
+						<div class="col-md-12 col-sm-3 img-why-ss justify-content-center"><img src="img/sugoi-saiyo/kenapa-2.png" alt="Kenapa Sugoi Saiyo"></div>
+						<p class="col-md-12 col-sm-8 col-sm-offset-1">Very simple user interface.</p>
 					</div>
-					<div class="col-md-4 flex-layout">
-						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-3.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>Recruitment process can be monitored, from registration to pass status.</p>
+					<div class="col-md-4 col-sm-12 mb-1em">
+						<div class="col-md-12 col-sm-3 img-why-ss justify-content-center"><img src="img/sugoi-saiyo/kenapa-3.png" alt="Kenapa Sugoi Saiyo"></div>
+						<p class="col-md-12 col-sm-8 col-sm-offset-1">Recruitment process can be monitored, from registration to pass status.</p>
 					</div>
 				</div>
 			</div>
