@@ -20,7 +20,6 @@ header {
 	padding-bottom: 150px;
 }
 header h1 {
-	font-family: Baskerville, 'Libre-Baskerville', serif;
 	font-size: 40px;
 	color: #FFFFFF;
 	letter-spacing: 0;
@@ -451,7 +450,6 @@ ul.medsos-new li a{
 	background-image: linear-gradient(214deg, #0A9CEF 0%, #273EBC 94%);
 }
 .about h2 {
-	font-family: Baskerville-SemiBold, 'Libre-Baskerville', serif;
 	font-size: 36px;
 	color: #9FDC48;
 	letter-spacing: 0;
@@ -459,7 +457,7 @@ ul.medsos-new li a{
 	margin-bottom: 20px;
 }
 .about h3 {
-	font-family: Baskerville-Bold, 'Libre-Baskerville', serif;
+	/* font-family: Baskerville-Bold, 'Libre-Baskerville', serif; */
 	font-size: 24px;
 	color: #9FDC48;
 	margin-bottom: 20px;
@@ -476,7 +474,6 @@ ul.medsos-new li a{
 	background-color: #fff;
 }
 .obstacle h2 {
-	font-family: Baskerville-SemiBold, 'Libre-Baskerville', serif;
 	font-size: 24px;
 	color: #5FAA2D;
 	letter-spacing: 0;
@@ -498,7 +495,6 @@ ul.medsos-new li a{
 	background-color: #000;
 	text-align: center;
 	padding: 15px;
-	font-family: Baskerville-SemiBold, 'Libre-Baskerville', serif;
 	font-size: 24px;
 	text-transform: uppercase;
 	color: #8FCF41;
@@ -632,7 +628,6 @@ ul.medsos-new li a{
 	left: 0;
 }
 .why-ss h2{
-	font-family: Baskerville-SemiBold, 'Libre-Baskerville', serif;
 	font-size: 24px;
 	color: #000000;
 	letter-spacing: 0;
@@ -652,7 +647,6 @@ ul.medsos-new li a{
 	background-image: linear-gradient(0deg, rgba(0,0,0,0.00) 15%, #D3F0FF 100%);
 }
 .qna h2 {
-	font-family: Baskerville-SemiBold, 'Libre-Baskerville', serif;
 	padding-top: 50px;
 	font-size: 24px;
 	color: #000000;
@@ -703,7 +697,6 @@ ul.medsos-new li a{
 	margin: 0 auto;
 }
 .contact h2 {
-	font-family: Baskerville-SemiBold, 'Libre-Baskerville', serif;
 	text-align: center;
 	font-size: 24px;
 	color: #000000;
