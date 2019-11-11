@@ -1,135 +1,141 @@
 ﻿ <?php 
-require_once("form/fgcontact_sugoi.php");
-
-$formproc = new FGContactForm();
-
-//1. Add your email address here.
-//You can add more than one receipients.
-$formproc->AddRecipient(['info@sugoi-saiyo.co.id']); //<<---Put your email address here
-
-//2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
-// and put it here
-$formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
-
-//$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
-
-if(isset($_POST['submitted']))
-{
-    if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
-        $secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
-        // $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
-        $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
-        // print_r($verifyResponse); exit;
-        $responseData = json_decode($verifyResponse);
-        if ($responseData->success) {
-            if ($formproc->ProcessForm()) {
-                $msg = "<div class='alert alert-success' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
-            }
-        } else {
-            $msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
-        }
-    } else {
-        $msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
-   }
- }
+ require_once("form/fgcontact_sugoi.php");
+ 
+ $formproc = new FGContactForm();
+ 
+ //1. Add your email address here.
+ //You can add more than one receipients.
+ $formproc->AddRecipient(['info@sugoi-saiyo.co.id']); //<<---Put your email address here
+ 
+ //2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
+ // and put it here
+ $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
+ 
+ //$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
+ 
+ if(isset($_POST['submitted']))
+ {
+	if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
+		$secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
+		// $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
+		$verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+		// print_r($verifyResponse); exit;
+		$responseData = json_decode($verifyResponse);
+		if ($responseData->success) {
+			if ($formproc->ProcessForm()) {
+				$msg = "<div class='alert alert-success' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+			}
+		} else {
+			$msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
+		}
+	} else {
+		$msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
+	}
+}
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" content="SugoiSaiyoはインドネシアでの採用活動を効率的に効果的に行うための採用業務管理システムです。インドネシアの人事部、採用担当者のための管理機能と、応募者（求職者）が直接専用Webから応募、オファーレターの受領まで行える機能の両方を兼ね備えています。LOGIQUEデジタルインドネシアが提供するクラウドツールです。">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
+	<meta name="description" content="SugoiSaiyoはインドネシアでの採用活動を効率的に効果的に行うための採用業務管理システムです。インドネシアの人事部、採用担当者のための管理機能と、応募者（求職者）が直接専用Webから応募、オファーレターの受領まで行える機能の両方を兼ね備えています。LOGIQUEデジタルインドネシアが提供するクラウドツールです。">
 	<meta name="keywords" content="">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>インドネシアでの採用を効率的に｜SugoiSaiyo｜LOGIQUE DIGITAL INDONESIA</title>
+	<title>インドネシアでの採用を効率的に｜SugoiSaiyo｜LOGIQUE DIGITAL INDONESIA</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
-    <link href="css/style_sugoisaiyo.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+	<link href="css/style_sugoisaiyo.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-	ga('create', 'UA-105878648-1', 'auto');
-	ga('send', 'pageview');
-
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		
+		ga('create', 'UA-105878648-1', 'auto');
+		ga('send', 'pageview');
+		
 	</script>
 </head>
-	<body>
-		<div class="nav-lp">
-			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-				<span class="icon-bar first"></span>
-				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
-			</button>
-			<div class="collapse navbar-collapse" id="myNavbar">
-				<div class="backdrop-test"></div>
-				<div class="logique-nav in-jp">
-					<div class="margin-for-nav">
-						<div class="text-center">
-							<a href="/jp/">
-								<div class="img-home"></div>
-								Home
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/jp/logique.php">
-								<div class="img-about"></div>
-								会社概要
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/jp/portfolio.php">
-								<div class="img-portfolio"></div>
-								制作実績
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/jp/services.php">
-								<div class="img-services"></div>
-								サービス
-							</a>
-						</div>
-						 	<div class="text-center active">
+<body>
+	<div class="nav-lp">
+		<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+			<span class="icon-bar first"></span>
+			<span class="icon-bar second"></span>
+			<span class="icon-bar third"></span> 
+		</button>
+		<div class="collapse navbar-collapse" id="myNavbar">
+			<div class="backdrop-test"></div>
+			<div class="logique-nav in-jp">
+				<div class="margin-for-nav">
+					<div class="text-center">
+						<a href="/jp/">
+							<div class="img-home"></div>
+							Home
+						</a>
+					</div>
+					<div class="text-center">
+						<a href="/jp/logique.php">
+							<div class="img-about"></div>
+							会社概要
+						</a>
+					</div>
+					<div class="text-center">
+						<a href="/jp/portfolio.php">
+							<div class="img-portfolio"></div>
+							制作実績
+						</a>
+					</div>
+					<div class="text-center">
+						<a href="/jp/services.php">
+							<div class="img-services"></div>
+							サービス
+						</a>
+					</div>
+					<div class="text-center active">
 						<a href="/jp/product.php">
 							<div class="img-product"></div>
 							プロダクト
 						</a>
 					</div>
-						<div class="text-center">
-							<a href="/jp/joinus.php">
-								<div class="img-career"></div>
-								採用/<br>パートナー
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/jp/contact.php">
-								<div class="img-contact"></div>
-								お問い合わせ
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-								<div class="img-blog"></div>
-								Blog
-							</a>
-						</div>
+					<div class="text-center">
+						<a href="/jp/joinus.php">
+							<div class="img-career"></div>
+							採用/<br>パートナー
+						</a>
+					</div>
+					<div class="text-center">
+						<a href="/jp/contact.php">
+							<div class="img-contact"></div>
+							お問い合わせ
+						</a>
+					</div>
+					<div class="text-center">
+						<a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
+							<div class="img-blog"></div>
+							Blog
+						</a>
 					</div>
 				</div>
 			</div>
 		</div>
-		<header>
-			<img src="img/sugoi-saiyo/logo.png" alt="Sugoi Saiyo Logo" class="img-responsive center-block"> 
-			<h1>インドネシアでの採用を効率的に変える、<br>
-			画期的なITソリューション、SUGOI採用。<br>
-			採用の無駄・ムラ・無理をなくします！</h1>
+	</div>
+	<header>
+		<div class="container">
+			<div class="col-sm-12">
+				<img src="img/sugoi-saiyo/logo.png" alt="Sugoi Saiyo Logo" class="img-responsive center-block mb-1em"> 
+				<h1>
+					インドネシアでの採用を効率的に変える、
+					画期的なITソリューション、SUGOI採用。<br>
+					採用の無駄・ムラ・無理をなくします！
+				</h1>
+				</div>
+			</div>
 		</header>
 		<section class="about">
 			<div class="container">
@@ -395,17 +401,17 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<h2>なぜSugoiSaiyo？</h2>
 				<div class="row m-50">
-					<div class="col-md-4">
-						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-1.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>採用担当者にも応募者にも使いやすくメリットのあるシステム</p>
+					<div class="col-md-4 col-sm-12 mb-1em">
+						<div class="col-md-12 col-sm-3 img-why-ss justify-content-center"><img src="img/sugoi-saiyo/kenapa-1.png" alt="Kenapa Sugoi Saiyo"></div>
+						<p class="col-md-12 col-sm-8 col-sm-offset-1">採用担当者にも応募者にも使いやすくメリットのあるシステム</p>
 					</div>
-					<div class="col-md-4">
-						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-2.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>採用プロセスをなるべくオンラインでシンプルに早期化します</p>
+					<div class="col-md-4 col-sm-12 mb-1em">
+						<div class="col-md-12 col-sm-3 img-why-ss justify-content-center"><img src="img/sugoi-saiyo/kenapa-2.png" alt="Kenapa Sugoi Saiyo"></div>
+						<p class="col-md-12 col-sm-8 col-sm-offset-1">採用プロセスをなるべくオンラインでシンプルに早期化します</p>
 					</div>
-					<div class="col-md-4">
-						<div class="img-why-ss"><img src="img/sugoi-saiyo/kenapa-3.png" alt="Kenapa Sugoi Saiyo"></div>
-						<p>全てを可視化でき、数値による公正な判断を可能にします</p>
+					<div class="col-md-4 col-sm-12 mb-1em">
+						<div class="col-md-12 col-sm-3 img-why-ss justify-content-center"><img src="img/sugoi-saiyo/kenapa-3.png" alt="Kenapa Sugoi Saiyo"></div>
+						<p class="col-md-12 col-sm-8 col-sm-offset-1">全てを可視化でき、数値による公正な判断を可能にします</p>
 					</div>
 				</div>
 			</div>
@@ -487,7 +493,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<?php if(isset($msg))
 					{
-					echo $msg;
+						echo $msg;
 					} 
 					?>
 					<form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
@@ -531,19 +537,19 @@ if(isset($_POST['submitted']))
 		<script type="text/javascript">			
 			$(function() {
 				$('.smooth').click(function() {
-				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-					var target = $(this.hash);
-					target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-					if (target.length) {
-					  $('html, body').animate({
-						scrollTop: target.offset().top
-					  }, 1000);
-					  return false;
+					if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+						var target = $(this.hash);
+						target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+						if (target.length) {
+							$('html, body').animate({
+								scrollTop: target.offset().top
+							}, 1000);
+							return false;
+						}
 					}
-				  }
 				});
 			});
-
+			
 			$('.feature-company .img-feature-o').matchHeight({
 				byRow: false
 			});
@@ -567,4 +573,4 @@ if(isset($_POST['submitted']))
 			});
 		</script>
 	</body>
-</html>
+	</html>

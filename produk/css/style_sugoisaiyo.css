@@ -88,6 +88,16 @@ body{
 
 a:hover {text-decoration: none;}
 
+.justify-content-center{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.mb-1em{
+	margin-bottom: 1em;
+}
+
 /* NAVIGATION */
 .logique-nav {
   width: 95px;
@@ -388,6 +398,16 @@ footer a:hover {
   .link-footer p {
       margin-bottom: 45px;
   }
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 768px){
+	header .container, .about .container, .obstacle .container, .feature-company .container, 
+	.feature-candidate .container, .benefit-company .container, .benefit-candidate .container, 
+	.why-ss .container, .qna .container, .contact .container, .footer-section .container {
+		width: 100%;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
 }
 
 .medsos-new .fa{font-size:35px;margin-top:10px}

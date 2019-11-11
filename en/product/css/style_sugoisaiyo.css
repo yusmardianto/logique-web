@@ -136,6 +136,16 @@ a:hover {
   text-decoration: none;
 }
 
+.justify-content-center{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.mb-1em{
+	margin-bottom: 1em;
+}
+
 /* NAVIGATION */
 .logique-nav {
   width: 95px;
