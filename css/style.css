@@ -900,7 +900,7 @@ section.maintop {
     left: -40px;
     display: flex;
     align-items: flex-end;
-    padding-bottom: 85px;
+    padding-bottom: 75px;
     padding-left: 20px;
     background-color: rgba(255, 207, 42, .9);
     transform: rotateZ(-15deg);
@@ -909,6 +909,7 @@ section.maintop {
 .custombox__slider-text {
     transform: rotateZ(15deg);
     padding-left: 15px;
+    padding-right: 25px;
     text-align: left;
 }
 
