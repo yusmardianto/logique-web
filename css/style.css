@@ -1066,7 +1066,7 @@ section.maintop {
     color: #000;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 991px) {
     #principle .col-md-3 {
         text-align: center;
         margin-bottom: 25px;
