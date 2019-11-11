@@ -274,6 +274,9 @@ section.maintop {
     .top--.content-wrapper__ {
         margin-top: 6.5em !important;
     }
+    .container__custom-white.--top {
+        margin-top: 6.5em !important;
+    }
 }
 
 .content-wrapper__black {

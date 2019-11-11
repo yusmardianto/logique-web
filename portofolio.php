@@ -115,8 +115,7 @@
                                     <li class="active"><a href="#">ID</a></li>
                                     <li><a href="jp/portfolio.php">JP</a></li>
                                 </ul>
-                                <a href="index.php"><img src="img/logo.png"
-                                        alt="Jasa Pembuatan Website Logique Digital Indonesia"
+                                <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
                                         class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
@@ -148,7 +147,7 @@
         }
         </style>
 
-        <div class="row container__custom-white">
+        <div class="row container__custom-white --top" style="margin-top: 4.5em;">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
@@ -220,8 +219,7 @@
                                 </div>
 
                                 <div class="col-md-4 col-xs-6">
-                                    <img src="/img/portfolio/pertamina.png" alt="Pertamina"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
                                     <p class="text-center">Pertamina</p>
                                     <div class="addition-desc text-left">
                                         UI / UX Design (Design | HTML/CSS)
@@ -325,8 +323,7 @@
 
                                     <div class="col-md-4 col-xs-6">
                                         <a href="https://bisnissaya.com" target="_blank" rel="noreferrer">
-                                            <img src="/img/portfolio/bisnissaya.png"
-                                                alt="BisnisSaya.com (MLM E-Commerce)"
+                                            <img src="/img/portfolio/bisnissaya.png" alt="BisnisSaya.com (MLM E-Commerce)"
                                                 class="img-responsive center-block">
                                             <p class="text-center">BisnisSaya.com (MLM E-Commerce)</p>
                                         </a>
@@ -352,8 +349,7 @@
 
                                     <div class="col-md-4 col-xs-6">
                                         <a href="http://warasahalal.com/" target="_blank" rel="noreferrer">
-                                            <img src="/img/portfolio/warasa.png" alt="WARASA"
-                                                class="img-responsive center-block">
+                                            <img src="/img/portfolio/warasa.png" alt="WARASA" class="img-responsive center-block">
                                             <p class="text-center">WARASA</p>
                                         </a>
                                         <div class="addition-desc text-left">
@@ -375,8 +371,7 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <img src="/img/portfolio/arf.png" alt="ASEAN (ARF)"
-                                            class="img-responsive center-block">
+                                        <img src="/img/portfolio/arf.png" alt="ASEAN (ARF)" class="img-responsive center-block">
                                         <p class="text-center">ASEAN (ARF)</p>
                                         <div class="addition-desc text-left">
                                             Pengembangan WEB (Design | Coding | Operation)
@@ -385,8 +380,7 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <img src="/img/portfolio/caroline.png" alt="Caroline"
-                                            class="img-responsive center-block">
+                                        <img src="/img/portfolio/caroline.png" alt="Caroline" class="img-responsive center-block">
                                         <p class="text-center">Caroline</p>
                                         <div class="addition-desc text-left">
                                             Car Matching Web Development (Design | Coding | System)
@@ -397,8 +391,7 @@
 
                                     <div class="col-md-4 col-xs-6">
                                         <a href="https://jualbeliweb.id/" target="_blank" rel="noreferrer">
-                                            <img src="/img/portfolio/jualbeliweb.png"
-                                                alt="JualBeliWEB.id (Website market place)"
+                                            <img src="/img/portfolio/jualbeliweb.png" alt="JualBeliWEB.id (Website market place)"
                                                 class="img-responsive center-block">
                                             <p class="text-center">JualBeliWEB.id (Website market place)</p>
                                         </a>
@@ -436,8 +429,7 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <a href="http://frangipanibalispa.com/contact.php" target="_blank"
-                                            rel="noreferrer">
+                                        <a href="http://frangipanibalispa.com/contact.php" target="_blank" rel="noreferrer">
                                             <img src="/img/portfolio/frangipani.png" alt="Frangipani Esthetics Bali"
                                                 class="img-responsive center-block">
                                             <p class="text-center">Frangipani Esthetics Bali</p>
@@ -449,8 +441,7 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <img src="/img/portfolio/otosiap.png" alt="OTO Siap!"
-                                            class="img-responsive center-block">
+                                        <img src="/img/portfolio/otosiap.png" alt="OTO Siap!" class="img-responsive center-block">
                                         <p class="text-center">OTO Siap!</p>
                                         <div class="addition-desc text-left">
                                             Landing Page Creation (Design | Coding)
@@ -490,8 +481,7 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <img src="/img/portfolio/eccj.jpg" alt="ECCJ"
-                                            class="img-responsive center-block">
+                                        <img src="/img/portfolio/eccj.jpg" alt="ECCJ" class="img-responsive center-block">
                                         <p class="text-center">ECCJ</p>
                                         <div class="addition-desc text-left">
                                             LP and application form Creation (Design | programming)
@@ -510,8 +500,7 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <a href="https://hajime-indonesia.co.id/about/" target="_blank"
-                                            rel="noreferrer">
+                                        <a href="https://hajime-indonesia.co.id/about/" target="_blank" rel="noreferrer">
                                             <img src="/img/portfolio/hajime.png" alt="Hajime Indonesia"
                                                 class="img-responsive center-block">
                                             <p class="text-center">Hajime Indonesia</p>
@@ -562,8 +551,7 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <a href="https://cikarang-japanese-school.com/" target="_blank"
-                                            rel="noreferrer">
+                                        <a href="https://cikarang-japanese-school.com/" target="_blank" rel="noreferrer">
                                             <img src="/img/portfolio/cjs.png" alt="Cikarang Japanese School"
                                                 class="img-responsive center-block">
                                             <p class="text-center">Cikarang Japanese School</p>
@@ -612,8 +600,7 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <a href="http://trendpot-recruit.asia/index.php" target="_blank"
-                                            rel="noreferrer">
+                                        <a href="http://trendpot-recruit.asia/index.php" target="_blank" rel="noreferrer">
                                             <img src="/img/portfolio/trendpot.png" alt="TRENDPOT"
                                                 class="img-responsive center-block">
                                             <p class="text-center">TRENDPOT</p>
@@ -625,8 +612,8 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <a href="http://www.digitalmarketingindonesia.co.id/index_id.php"
-                                            target="_blank" rel="noreferrer">
+                                        <a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank"
+                                            rel="noreferrer">
                                             <img src="/img/portfolio/dmi.png" alt="Digital Marketing Indonesia"
                                                 class="img-responsive center-block">
                                             <p class="text-center">Digital Marketing Indonesia</p>
@@ -699,10 +686,9 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <a href="https://www.60jpid.com/music-festival.php" target="_blank"
-                                            rel="noreferrer">
-                                            <img src="/img/portfolio/music_festival.png"
-                                                alt="Music Festival Landing Page" class="img-responsive center-block">
+                                        <a href="https://www.60jpid.com/music-festival.php" target="_blank" rel="noreferrer">
+                                            <img src="/img/portfolio/music_festival.png" alt="Music Festival Landing Page"
+                                                class="img-responsive center-block">
                                             <p class="text-center">Music Festival Landing Page</p>
                                         </a>
                                         <div class="addition-desc text-left">
@@ -713,8 +699,7 @@
 
                                     <div class="col-md-4 col-xs-6">
                                         <a href="https://promokreditbprks.com/" target="_blank" rel="noreferrer">
-                                            <img src="/img/portfolio/bprks.jpg" alt="BPR KS"
-                                                class="img-responsive center-block">
+                                            <img src="/img/portfolio/bprks.jpg" alt="BPR KS" class="img-responsive center-block">
                                             <p class="text-center">BPR KS</p>
                                         </a>
                                         <div class="addition-desc text-left">
@@ -749,8 +734,7 @@
 
                                     <div class="col-md-4 col-xs-6">
                                         <a href="http://nlecnihongo.com/" target="_blank" rel="noreferrer">
-                                            <img src="/img/portfolio/nlec.png" alt="NLEC"
-                                                class="img-responsive center-block">
+                                            <img src="/img/portfolio/nlec.png" alt="NLEC" class="img-responsive center-block">
                                             <p class="text-center">NLEC</p>
                                         </a>
                                         <div class="addition-desc text-left">
@@ -771,8 +755,7 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <a href="https://www.jjs.or.id/50thanniversary" target="_blank"
-                                            rel="noreferrer">
+                                        <a href="https://www.jjs.or.id/50thanniversary" target="_blank" rel="noreferrer">
                                             <img src="/img/portfolio/jjs50.png" alt="JJS 50 years special LP"
                                                 class="img-responsive center-block">
                                             <p class="text-center">JJS 50 years special LP</p>
@@ -784,8 +767,7 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <a href="https://www.jba.co.id/id/hasil-harga-lelang" target="_blank"
-                                            rel="noreferrer">
+                                        <a href="https://www.jba.co.id/id/hasil-harga-lelang" target="_blank" rel="noreferrer">
                                             <img src="/img/portfolio/jba-hasil-lelang.png" alt="JBA Hasil Lelang"
                                                 class="img-responsive center-block">
                                             <p class="text-center">JBA Hasil Lelang</p>
@@ -799,8 +781,7 @@
 
                                     <div class="col-md-4 col-xs-6">
                                         <a href="https://webdev-id.com/" target="_blank" rel="noreferrer">
-                                            <img src="/img/portfolio/wdi.png" alt="WDI"
-                                                class="img-responsive center-block">
+                                            <img src="/img/portfolio/wdi.png" alt="WDI" class="img-responsive center-block">
                                             <p class="text-center">WDI</p>
                                         </a>
                                         <div class="addition-desc text-left">
@@ -823,8 +804,7 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <a href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank"
-                                            rel="noreferrer">
+                                        <a href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank" rel="noreferrer">
                                             <img src="/img/portfolio/jnto-campaign.png" alt="JNTO Campaign Page"
                                                 class="img-responsive center-block">
                                             <p class="text-center">JNTO Campaign Page</p>
@@ -861,8 +841,7 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <img src="/img/portfolio/wantjp.png" alt="Want.jp"
-                                            class="img-responsive center-block">
+                                        <img src="/img/portfolio/wantjp.png" alt="Want.jp" class="img-responsive center-block">
                                         <p class="text-center">Want.jp</p>
                                         <div class="addition-desc text-left">
                                             Pengembangan E-Commerce (PWA | ReactJS | NodeJS)
@@ -908,10 +887,8 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <a href="https://www.jba.co.id/id/poin-rewards" target="_blank"
-                                            rel="noreferrer">
-                                            <img src="/img/portfolio/jba-lp.png" alt="JBA LP"
-                                                class="img-responsive center-block">
+                                        <a href="https://www.jba.co.id/id/poin-rewards" target="_blank" rel="noreferrer">
+                                            <img src="/img/portfolio/jba-lp.png" alt="JBA LP" class="img-responsive center-block">
                                             <p class="text-center">JBA LP</p>
                                         </a>
                                         <div class="addition-desc text-left">
@@ -934,8 +911,7 @@
 
                                     <div class="col-md-4 col-xs-6">
                                         <a href="https://aiaberbagi.com" target="_blank" rel="noreferrer">
-                                            <img src="/img/portfolio/aia.png" alt="AIA"
-                                                class="img-responsive center-block">
+                                            <img src="/img/portfolio/aia.png" alt="AIA" class="img-responsive center-block">
                                             <p class="text-center">AIA</p>
                                         </a>
                                         <div class="addition-desc text-left">
@@ -946,8 +922,7 @@
 
                                     <div class="col-md-4 col-xs-6">
                                         <a href="https://www.kbrprime.id/" target="_blank" rel="noreferrer">
-                                            <img src="/img/portfolio/KBR_ID.png" alt="KBR_ID"
-                                                class="img-responsive center-block">
+                                            <img src="/img/portfolio/KBR_ID.png" alt="KBR_ID" class="img-responsive center-block">
                                             <p class="text-center">KBR</p>
                                         </a>
                                     </div>
@@ -983,8 +958,7 @@
                                     </div>
 
                                     <div class="col-md-4 col-xs-6">
-                                        <a href="https://www.otomart.id/oto-garansi.html" target="_blank"
-                                            rel="noreferrer">
+                                        <a href="https://www.otomart.id/oto-garansi.html" target="_blank" rel="noreferrer">
                                             <img src="/img/portfolio/otogaransi.jpg" alt="OTO-Garansi Campaign Page"
                                                 class="img-responsive center-block">
                                             <p class="text-center">OTO-Garansi Campaign Page</p>
@@ -1037,8 +1011,7 @@
 
                                     <div class="col-md-4 col-xs-6">
                                         <a href="https://weeo.com/" target="_blank" rel="noreferrer">
-                                            <img src="/img/portfolio/weeo.png" alt="Weeo"
-                                                class="img-responsive center-block">
+                                            <img src="/img/portfolio/weeo.png" alt="Weeo" class="img-responsive center-block">
                                             <p class="text-center">Weeo</p>
                                         </a>
                                         <div class="addition-desc text-left">
@@ -1049,8 +1022,7 @@
 
                                     <div class="col-md-4 col-xs-6">
                                         <a href="https://scskidn.com/" target="_blank" rel="noreferrer">
-                                            <img src="/img/portfolio/scsk.png" alt="SCSK"
-                                                class="img-responsive center-block">
+                                            <img src="/img/portfolio/scsk.png" alt="SCSK" class="img-responsive center-block">
                                             <p class="text-center">SCSK</p>
                                         </a>
                                         <div class="addition-desc text-left">
@@ -1153,8 +1125,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Manajemen Poin Bermanfaat & Pengembangan Sistem E-Commerce.
                                                         </h4>
                                                         <hr>
@@ -1211,8 +1182,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Pengembangan E-Commerce untuk Perusahaan MLM.</h4>
                                                         <hr>
                                                         <p>Sistem e-commerce MLM dengan teknologi berbasis web. Terdiri
@@ -1257,8 +1227,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Sistem Pengembangan Manajemen Lelang Kendaraan.</h4>
                                                         <hr>
                                                         <p>Merupakan sistem lelang otomotif dengan tingkat kompleksitas
@@ -1311,8 +1280,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Pengembangan Aplikasi Mobile (Android Penawaran Lelang).
                                                         </h4>
                                                         <hr>
@@ -1352,8 +1320,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</h4>
                                                         <hr>
                                                         <p>Merupakan aplikasi berbasis android yang digunakan untuk
@@ -1401,8 +1368,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Sistem CRM untuk Pelayanan Jalan Kendaraan Bermotor.</h4>
                                                         <hr>
                                                         <p>Merupakan sistem CRM untuk asuransi motor. Dengan sistem ini,
@@ -1450,8 +1416,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Sistem CRM untuk Pembeli Lelang.</h4>
                                                         <hr>
                                                         <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana
@@ -1490,8 +1455,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit
                                                             Majalah.
                                                         </h4>
@@ -1535,8 +1499,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</h4>
                                                         <hr>
                                                         <p>Merupakan sistem marketplace mobil yang digunakan oleh banyak
@@ -1582,8 +1545,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Pengembangan sistem peta digital.</h4>
                                                         <hr>
                                                         <p>Pengembangan sistem peta digital. Sistem yang digunakan untuk
@@ -1618,8 +1580,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Pengembangan sistem lelang C2C.</h4>
                                                         <hr>
                                                         <p>Merupakan sistem lelang C2C. Terdapat sekitar 2.000 kendaraan
@@ -1654,8 +1615,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Pengembangan sistem web CMS untuk organisasi publik.</h4>
                                                         <hr>
                                                         <p>Sistem web CMS untuk organisasi publik: sistem ini
@@ -1693,8 +1653,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Pengembangan web CMS untuk e-book commerce.</h4>
                                                         <hr>
                                                         <p>Merupakan sistem CMS yang digunakan oleh sebuah distributor
@@ -1729,8 +1688,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Sistem Portal Lowongan Pekerjaan.</h4>
                                                         <hr>
                                                         <p>Merupakan sistem portal lowongan pekerjaan yang dibangun
@@ -1767,8 +1725,7 @@
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-body">
-                                                        <button type="button" class="close"
-                                                            data-dismiss="modal">&times;</button>
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                         <h4>Web Dengan Sistem Rekrutmen.</h4>
                                                         <hr>
                                                         <p>Merupakan corporate website yang dilengkapi dengan sistem
@@ -1794,8 +1751,8 @@
                                 </div>
 
                                 <div class="text-center">
-                                    <a class="btn btn-more-portfolio custom-btn-contact collapsed"
-                                        data-toggle="collapse" href="#hideSysDev">
+                                    <a class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse"
+                                        href="#hideSysDev">
                                         Lihat portofolio pengembangan sistem lainnya</a>
                                 </div>
 
@@ -1905,20 +1862,16 @@
                                 <div class="col-md-4 col-xs-6 visible-md visible-lg">
                                     <div class="mobile-app-container">
                                         <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding.jpg"
-                                                alt="JBA Indonesia Auction Bidding App"
-                                                class="img-responsive center-block">
+                                                alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
                                         </div>
                                         <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding2.jpg"
-                                                alt="JBA Indonesia Auction Bidding App"
-                                                class="img-responsive center-block">
+                                                alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
                                         </div>
                                         <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding3.jpg"
-                                                alt="JBA Indonesia Auction Bidding App"
-                                                class="img-responsive center-block">
+                                                alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
                                         </div>
                                         <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding4.jpg"
-                                                alt="JBA Indonesia Auction Bidding App"
-                                                class="img-responsive center-block">
+                                                alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
                                         </div>
                                     </div>
                                     <br>
@@ -1934,20 +1887,16 @@
                                     <div class="col-md-4 col-xs-6 visible-sm visible-xs">
                                         <div class="mobile-app-container">
                                             <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding.jpg"
-                                                    alt="JBA Indonesia Auction Bidding App"
-                                                    class="img-responsive center-block">
+                                                    alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
                                             </div>
                                             <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding2.jpg"
-                                                    alt="JBA Indonesia Auction Bidding App"
-                                                    class="img-responsive center-block">
+                                                    alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
                                             </div>
                                             <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding3.jpg"
-                                                    alt="JBA Indonesia Auction Bidding App"
-                                                    class="img-responsive center-block">
+                                                    alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
                                             </div>
                                             <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding4.jpg"
-                                                    alt="JBA Indonesia Auction Bidding App"
-                                                    class="img-responsive center-block">
+                                                    alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
                                             </div>
                                         </div>
                                         <br>
@@ -1992,12 +1941,12 @@
 
                                     <div class="col-md-4 col-xs-6">
                                         <div class="mobile-app-container same-height">
-                                            <div class="m-app-item"><img src="/img/portfolio/investindo-1.png"
-                                                    alt="investindo" class="img-responsive center-block"></div>
-                                            <div class="m-app-item"><img src="/img/portfolio/investindo-2.png"
-                                                    alt="investindo" class="img-responsive center-block"></div>
-                                            <div class="m-app-item"><img src="/img/portfolio/investindo-3.png"
-                                                    alt="investindo" class="img-responsive center-block"></div>
+                                            <div class="m-app-item"><img src="/img/portfolio/investindo-1.png" alt="investindo"
+                                                    class="img-responsive center-block"></div>
+                                            <div class="m-app-item"><img src="/img/portfolio/investindo-2.png" alt="investindo"
+                                                    class="img-responsive center-block"></div>
+                                            <div class="m-app-item"><img src="/img/portfolio/investindo-3.png" alt="investindo"
+                                                    class="img-responsive center-block"></div>
                                         </div>
                                         <p>Investindo</p>
                                         <div class="addition-desc text-center">
@@ -2050,29 +1999,29 @@
                                 <div class="slider-other-client-container">
                                     <div class="other-client-item">
                                         <div class="img-thumb">
-                                            <img src="/img/portfolio/video-mysunlife.jpg"
-                                                alt="Pembuatan Video 2D (SunLife)" class="img-responsive center-block">
+                                            <img src="/img/portfolio/video-mysunlife.jpg" alt="Pembuatan Video 2D (SunLife)"
+                                                class="img-responsive center-block">
                                         </div>
                                         Pembuatan Video 2D (SunLife)
                                     </div>
                                     <div class="other-client-item">
                                         <div class="img-thumb">
-                                            <img src="/img/portfolio/video-mysunlife2.jpg"
-                                                alt="Pembuatan Video 2D (SunLife)" class="img-responsive center-block">
+                                            <img src="/img/portfolio/video-mysunlife2.jpg" alt="Pembuatan Video 2D (SunLife)"
+                                                class="img-responsive center-block">
                                         </div>
                                         Pembuatan Video 2D (SunLife)
                                     </div>
                                     <div class="other-client-item">
                                         <div class="img-thumb">
-                                            <img src="/img/portfolio/video-otomart.jpg"
-                                                alt="Pembuatan Video 2D (OTOmart)" class="img-responsive center-block">
+                                            <img src="/img/portfolio/video-otomart.jpg" alt="Pembuatan Video 2D (OTOmart)"
+                                                class="img-responsive center-block">
                                         </div>
                                         Pembuatan Video 2D (OTOmart)
                                     </div>
                                     <div class="other-client-item">
                                         <div class="img-thumb">
-                                            <img src="/img/portfolio/video-otomart2.jpg"
-                                                alt="Pembuatan Video 2D (OTOmart)" class="img-responsive center-block">
+                                            <img src="/img/portfolio/video-otomart2.jpg" alt="Pembuatan Video 2D (OTOmart)"
+                                                class="img-responsive center-block">
                                         </div>
                                         Pembuatan Video 2D (OTOmart)
                                     </div>
@@ -2099,16 +2048,14 @@
                                     </div>
                                     <div class="other-client-item">
                                         <div class="img-thumb">
-                                            <img src="/img/portfolio/insta-vid.png"
-                                                alt="Kontes pengiriman video Instagram"
+                                            <img src="/img/portfolio/insta-vid.png" alt="Kontes pengiriman video Instagram"
                                                 class="img-responsive center-block insta-vid">
                                         </div>
                                         Kontes pengiriman video Instagram
                                     </div>
                                     <div class="other-client-item">
                                         <div class="img-thumb">
-                                            <img src="/img/portfolio/frangipani-photoshot.png"
-                                                alt="Pengambilan foto Frangipani"
+                                            <img src="/img/portfolio/frangipani-photoshot.png" alt="Pengambilan foto Frangipani"
                                                 class="img-responsive center-block insta-vid">
                                         </div>
                                         Pengambilan foto Frangipani
@@ -2152,29 +2099,26 @@
                                     </div>
                                     <div class="other-client-item">
                                         <div class="img-thumb">
-                                            <img src="/img/portfolio/Eria.jpg" alt="ERIA"
-                                                class="img-responsive center-block">
+                                            <img src="/img/portfolio/Eria.jpg" alt="ERIA" class="img-responsive center-block">
                                         </div>
                                         ERIA
                                     </div>
                                     <div class="other-client-item">
                                         <div class="img-thumb">
-                                            <img src="/img/portfolio/bumbu-warasa-1.jpg"
-                                                alt="Desain produk (Ikeda Toka)" class="img-responsive center-block">
+                                            <img src="/img/portfolio/bumbu-warasa-1.jpg" alt="Desain produk (Ikeda Toka)"
+                                                class="img-responsive center-block">
                                         </div>
                                         Desain produk (Ikeda Toka)
                                     </div>
                                     <div class="other-client-item">
                                         <div class="img-thumb">
-                                            <img src="/img/portfolio/minum-warasa-1.jpg"
-                                                alt="Desain produk (Ikeda Toka)"
+                                            <img src="/img/portfolio/minum-warasa-1.jpg" alt="Desain produk (Ikeda Toka)"
                                                 class="same-height img-responsive center-block">
                                         </div>
                                         Desain produk (Ikeda Toka)
                                     </div>
                                     <div class="other-client-item">
-                                        <video class="vd-log same-height" poster="/img/portfolio/video-jfe.jpg"
-                                            controls>
+                                        <video class="vd-log same-height" poster="/img/portfolio/video-jfe.jpg" controls>
                                             <source src="/img/portfolio/JFE-video.webm" type="video/webm" />
                                             <source src="/img/portfolio/JFE-video.mp4" type="video/mp4" />
                                         </video>
