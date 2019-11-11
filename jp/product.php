@@ -203,7 +203,7 @@
                         <br>
 
                         <div class="text-center">
-                            <a class="btn--yellow" href="https://dokodemo-kerja.com">Dokodemo-Kejrjaについてもっと見る</a>
+                            <a class="btn--yellow" href="product/dokodemo-kerja.php">Dokodemo-Kerjaについてもっと見る</a>
                         </div>
                     </section>
 

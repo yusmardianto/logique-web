@@ -325,7 +325,7 @@ section.maintop {
     }
 }
 
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 850px) {
     .container__ {
         width: 610px;
     }
@@ -1267,6 +1267,7 @@ section.maintop {
 .product-slogan__img {
     position: absolute;
     width: 18%;
+    max-width: 230px;
 }
 
 .product-slogan__text {

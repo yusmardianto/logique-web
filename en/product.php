@@ -184,19 +184,19 @@
                             <div class="product-snap-shot__item">
                                 <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_1.png"
                                     alt="dokodemo_1">
-                                <p class="product-snap-shot__text">Analisa waktu kerja berdasarkan project </p>
+                                <p class="product-snap-shot__text">Track time based projects </p>
                             </div>
 
                             <div class="product-snap-shot__item">
                                 <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_2.png"
                                     alt="dokodemo_2">
-                                <p class="product-snap-shot__text">Melacak kegiatan dengan screenshot</p>
+                                <p class="product-snap-shot__text">Track activity through screenshots</p>
                             </div>
 
                             <div class="product-snap-shot__item">
                                 <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_3.png"
                                     alt="dokodemo_3">
-                                <p class="product-snap-shot__text">Melacak jam kerja dan jam istirahat</p>
+                                <p class="product-snap-shot__text">Track work hour and break time</p>
                             </div>
                         </div>
 
@@ -229,7 +229,7 @@
                             <div class="product-snap-shot__item">
                                 <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_1.png"
                                     alt="sugoi saiyo 1">
-                                <p class="product-snap-shot__text">Create account untuk masing-masing kandidat </p>
+                                <p class="product-snap-shot__text">Create account feature for each candidates </p>
                             </div>
 
                             <div class="product-snap-shot__item">
@@ -271,18 +271,18 @@
                         <div class="product-snap-shot">
                             <div class="product-snap-shot__item">
                                 <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_1.png" alt="nippo 1">
-                                <p class="product-snap-shot__text">Daily reporting semua karyawan </p>
+                                <p class="product-snap-shot__text">Daily Reporting of all employees </p>
                             </div>
 
                             <div class="product-snap-shot__item">
                                 <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_2.png" alt="nippo 2">
-                                <p class="product-snap-shot__text">Statistik kerja per proyek</p>
+                                <p class="product-snap-shot__text">Statistic for each projects</p>
                             </div>
                         </div>
                         <div class="product-snap-shot">
                             <div class="product-snap-shot__item">
                                 <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_3.png" alt="nippo 3">
-                                <p class="product-snap-shot__text">Statistik kerja secara keseluruhan </p>
+                                <p class="product-snap-shot__text">Task overview </p>
                             </div>
 
                             <div class="product-snap-shot__item">

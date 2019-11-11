@@ -235,13 +235,13 @@
                             <div class="product-snap-shot__item">
                                 <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_2.png"
                                     alt="sugoi saiyo 2">
-                                <p class="product-snap-shot__text">Apply for multiple jobs at once </p>
+                                <p class="product-snap-shot__text">Lamar beberapa pekerjaan secara bersamaan </p>
                             </div>
 
                             <div class="product-snap-shot__item">
                                 <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_3.png"
                                     alt="sugoi saiyo 3">
-                                <p class="product-snap-shot__text">Upload CV, certificate, and all necessary documents</p>
+                                <p class="product-snap-shot__text">Upload CV, sertifikat, dan dokumen-dokumen penting</p>
                             </div>
                         </div>
 
@@ -292,7 +292,7 @@
 
                             <div class="product-snap-shot__item">
                                 <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_4.png" alt="nippo 4">
-                                <p class="product-snap-shot__text">Individual report </p>
+                                <p class="product-snap-shot__text">Laporan individual </p>
                             </div>
                         </div>
 
