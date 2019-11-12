@@ -182,8 +182,7 @@
               <div class="col-md-6">
                 <iframe style="width:100%;height:300px" title="Logique Digital Indonesia - Karir"
                   src="https://www.youtube-nocookie.com/embed/46jDdfPG0cA" frameborder="0"
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                  allowfullscreen></iframe>
+                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
             </div>
           </div>
@@ -466,8 +465,7 @@
             <div class="row">
               <div class="col-md-8 col-md-offset-2 text-center">
                 <div class="img-grafik_">
-                  <img src="/img/career/grafik2.png" style="opacity:0.1;" data-aos="fade-left"
-                    data-aos-duration="1000" />
+                  <img src="/img/career/grafik2.png" style="opacity:0.1;" data-aos="fade-left" data-aos-duration="1000" />
                   <img src="/img/career/grafik1.png" class="grafik2" data-aos="fade-right" data-aos-duration="1500" />
                 </div>
               </div>
@@ -694,8 +692,8 @@
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-                    <img src="/img/career/consultant.png" />
-                    <h3 style="font-size:20px;">IT Security Specialist</h3>
+                    <img src="/img/career/pm.png" />
+                    <h3 style="font-size:20px;">Technical Project Manager</h3>
                     <div class="boxfull">Fulltime</div>
                   </div>
                   <div class="panel-footer">
@@ -703,7 +701,7 @@
                       <img src="/img/career/urgent.png">
                     </div>
                     <div class="text-center">
-                      <a class="btn btn-detail" href="detail/web-security.php" id="it-security">Detail</a>
+                      <a class="btn btn-detail" href="detail/technical-project-manager.php" id="technical-pm">Detail</a>
                     </div>
                   </div>
                 </div>
@@ -725,11 +723,31 @@
 									</div>
 								</div>
 							</div> -->
+
             </div>
 
             <!-- SECOND LINE -->
 
             <div class="row">
+
+              <div class="col-md-3 card" data-name="10">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+                    <img src="/img/career/consultant.png" />
+                    <h3 style="font-size:20px;">IT Security Specialist</h3>
+                    <div class="boxfull">Fulltime</div>
+                  </div>
+                  <div class="panel-footer">
+                    <div class="urgent-front">
+                      <img src="/img/career/urgent.png">
+                    </div>
+                    <div class="text-center">
+                      <a class="btn btn-detail" href="detail/web-security.php" id="it-security">Detail</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
 
               <div class="col-md-3 card" data-name="10">
                 <div class="panel panel-default">
@@ -763,8 +781,7 @@
                       <img src="/img/career/urgent.png">
                     </div>
                     <div class="text-center">
-                      <a class="btn btn-detail" href="detail/sr-digital-marketing.php"
-                        id="sr-digital-marketing">Detail</a>
+                      <a class="btn btn-detail" href="detail/sr-digital-marketing.php" id="sr-digital-marketing">Detail</a>
                     </div>
                   </div>
                 </div>
@@ -811,12 +828,17 @@
                 </div>
               </div> -->
 
+            </div>
+
+            <!-- THIRD LINE -->
+            <div class="row">
+
               <div class="col-md-3 card" data-name="4">
                 <div class="panel panel-default">
-                  <div class="panel-body" style="height: 198px;">
+                  <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
                     <img src="/img/career/designer.png" />
-                    <h3>UI/UX designer</h3><br>
+                    <h3>UI/UX designer</h3>
                     <div class="boxfull">Fulltime</div>
                   </div>
                   <div class="panel-footer">
@@ -827,11 +849,6 @@
                   </div>
                 </div>
               </div>
-
-            </div>
-
-            <!-- THIRD LINE -->
-            <div class="row">
 
               <div class="col-md-3 card" data-name="4">
                 <div class="panel panel-default">
@@ -864,8 +881,7 @@
                     </div> -->
                     <p></p>
                     <div class="text-center">
-                      <a class="btn btn-detail" href="detail/lead-quality-assurance.php"
-                        id="lead-quality-assurance">Detail</a>
+                      <a class="btn btn-detail" href="detail/lead-quality-assurance.php" id="lead-quality-assurance">Detail</a>
                     </div>
                   </div>
                 </div>
@@ -908,6 +924,11 @@
                 </div>
               </div>
 
+            </div>
+
+            <!-- FOURTH LINE -->
+            <div class="row">
+
               <div class="col-md-3 card" data-name="10">
                 <div class="panel panel-default">
                   <div class="panel-body">
@@ -924,11 +945,6 @@
                   </div>
                 </div>
               </div>
-
-            </div>
-
-            <!-- FOURTH LINE -->
-            <div class="row">
 
               <div class="col-md-3 card" data-name="10">
                 <div class="panel panel-default">
@@ -1165,8 +1181,7 @@
                       <img src="/img/career/urgent.png">
                     </div>
                     <div class="text-center">
-                      <a class="btn btn-detail" href="detail/intern-dm-strategist.php"
-                        id="intern-dm-strategist">Detail</a>
+                      <a class="btn btn-detail" href="detail/intern-dm-strategist.php" id="intern-dm-strategist">Detail</a>
                     </div>
                   </div>
                 </div>

@@ -147,8 +147,7 @@
           <div class="panel-footer">
             <p></p>
             <div class="text-center">
-              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;"
-                href="quality-assurance.php">Detail</a>
+              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="quality-assurance.php">Detail</a>
             </div>
           </div>
         </div>
@@ -207,8 +206,7 @@
           <div class="panel-footer">
             <p></p>
             <div class="text-center">
-              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;"
-                href="quality-assurance.php">Detail</a>
+              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="quality-assurance.php">Detail</a>
             </div>
           </div>
         </div>
@@ -312,13 +310,28 @@
           <div class="panel-footer">
             <p><img src="/img/career/siren.png" /> Urgently Needed</p>
             <div class="text-center">
-              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;"
-                href="sr-digital-marketing.php">Detail</a>
+              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="sr-digital-marketing.php">Detail</a>
             </div>
           </div>
         </div>
       </div>
       <div class="col-md-3">
+        <div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
+          <div class="panel-body" style="height:198px;">
+            <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+            <img src="/img/career/pm.png" />
+            <h3 style=" font-size: 21px; ">Technical Project Manager</h3>
+            <div class="boxfull">Fulltime</div>
+          </div>
+          <div class="panel-footer">
+            <p><img src="/img/career/siren.png" /> Urgently Needed</p>
+            <div class="text-center">
+              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="technical-project-manager.php">Detail</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- <div class="col-md-3">
         <div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
           <div class="panel-body" style="height:198px;">
             <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -333,7 +346,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <div class="col-md-3">
         <div class="seemore_" data-aos="zoom-in" data-aos-duration="1500" style="height:198px;">
           <h4><a href="/career#jobvacancy">See More >></a></h4>
@@ -370,8 +383,7 @@
           <div class="panel-footer">
             <p><img src="/img/career/siren.png" /> Urgently Needed</p>
             <div class="text-center">
-              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;"
-                href="product-developer.php">Detail</a>
+              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="product-developer.php">Detail</a>
             </div>
           </div>
         </div>
@@ -430,8 +442,7 @@
           <div class="panel-footer">
             <p><img src="/img/career/siren.png" /> Urgently Needed</p>
             <div class="text-center">
-              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;"
-                href="intern-sales-admin.php">Detail</a>
+              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="intern-sales-admin.php">Detail</a>
             </div>
           </div>
         </div>
@@ -488,8 +499,7 @@
           <div class="panel-footer">
             <p><img src="/img/career/siren.png" /> Urgently Needed</p>
             <div class="text-center">
-              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;"
-                href="intern-dm-strategist.php">Detail</a>
+              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="intern-dm-strategist.php">Detail</a>
             </div>
           </div>
         </div>
