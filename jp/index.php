@@ -1,3 +1,7 @@
+<?php
+	error_reporting(E_ALL|E_STRICT);
+	ini_set('display_error', 0);
+?>
 <!DOCTYPE html>
 <html lang="ja" style="overflow-x: hidden;">
   <head>

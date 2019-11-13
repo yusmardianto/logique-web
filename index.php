@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿<?php
+	error_reporting(E_ALL|E_STRICT);
+	ini_set('display_error', 0);
+?>
+<!DOCTYPE html>
 <html lang="id" style="overflow-x: hidden;">
   <head>
     <meta charset="utf-8">
