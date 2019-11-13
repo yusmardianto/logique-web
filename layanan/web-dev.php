@@ -158,7 +158,7 @@ if(isset($_POST['submitted']))
 							</ul>
 						</div>
 					</div>
-					<ol id="services-breadcrumb" class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+					<ol id="services-breadcrumb" class="breadcrumb breadcrumb-cont" itemscope itemtype="http://schema.org/BreadcrumbList">
 						<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
 							<a itemprop="item" href="../index.php">
 								<span itemprop="name">Beranda</span>
@@ -178,10 +178,10 @@ if(isset($_POST['submitted']))
 							<meta itemprop="position" content="3">
 						</li>
 					</ol>
-					<div id="heading-service-web-dev" class="col-sm-offset-3 col-sm-7 m-t-7em">
+					<div id="heading-service-web-dev" class="col-sm-offset-1 col-md-offset-1 col-lg-offset-2 col-sm-11 col-md-11 col-lg-9 m-t-7em">
 						<h1 class="text-left">
 							<p>
-								<span class="c-logique">LOGIQUE Web</span> / <br class="hidden-xs">Melayani Pembuatan Website
+								<span class="c-logique">LOGIQUE Web</span> <span class="hidden-xs"> / Melayani Pembuatan Website </span
 							</p>
 							<p>
 								<span class="underline">Kami Siap Membuat Website Yang Anda Inginkan</span>
@@ -268,7 +268,7 @@ if(isset($_POST['submitted']))
 		<section class="section-layout web-service-flow">
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="analysis-part flow-part">
 							<img src="assets/img/img-webdev/writing.png" alt="Analisis dan Evaluasi">
 							<h3>Analisis dan Evaluasi</h3>
@@ -279,7 +279,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="plan-part flow-part">
 							<img src="assets/img/img-webdev/intelligent.png" alt="Perencanaan">
 							<h3>Perencanaan</h3>
@@ -289,7 +289,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="seo-part flow-part">
 							<img src="assets/img/img-webdev/analysis.png" alt="SEO / SEM">
 							<h3>SEO / SEM</h3>
@@ -300,8 +300,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="clearfix"></div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="info-part flow-part">
 							<img src="assets/img/img-webdev/ux.png" alt="Peningkatan dan Restrukturisasi">
 							<h3>Peningkatan dan Restrukturisasi</h3>
@@ -312,7 +311,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="multiligual-part flow-part">
 							<img src="assets/img/img-webdev/language.png" alt="Membuat dan Mengoperasikan Website Multi Bahasa">
 							<h3>Membuat dan Mengoperasikan Website Multi Bahasa</h3>
@@ -322,7 +321,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="sosmed-part flow-part">
 							<img src="assets/img/img-webdev/customer.png" alt="Pengoperasian Media Sosial">
 							<h3>Pengoperasian Media Sosial</h3>
@@ -333,8 +332,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="clearfix"></div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="design-part flow-part">
 							<img src="assets/img/img-webdev/graphic-design.png" alt="Pembuatan Desain">
 							<h3>Pembuatan Desain</h3>
@@ -344,7 +342,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="markup-part flow-part">
 							<img src="assets/img/img-webdev/website.png" alt="Markup Coding">
 							<h3>Markup Coding</h3>
@@ -354,7 +352,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="responsive-part flow-part">
 							<img src="assets/img/img-webdev/devices.png" alt="Dukungan Multi Perangkat">
 							<h3>Dukungan Multi Perangkat</h3>
@@ -364,8 +362,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="clearfix"></div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="programing-part flow-part">
 							<img src="assets/img/img-webdev/programming.png" alt="Fitur Pemrograman Khusus">
 							<h3>Fitur Pemrograman Khusus</h3>
@@ -375,7 +372,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="system-part flow-part">
 							<img src="assets/img/img-webdev/engineering.png" alt="Kontruksi Sistem">
 							<h3>Kontruksi Sistem</h3>
@@ -385,7 +382,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="apps-part flow-part">
 							<img src="assets/img/img-webdev/smartphone.png" alt="PWA sebagai Aplikasi Seluler">
 							<h3>PWA sebagai Aplikasi Seluler</h3>
@@ -395,7 +392,6 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="clearfix"></div>
 				</div>
 				<div class="link-page-price-and-portfolio">
 					<a class="link-yellow-white" href="/layanan/webdev-price-range.php">Lihat Harga Produksi dan Pengoperasian Website</a>
@@ -678,7 +674,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row hidden-md hidden-lg">
 					<div class="col-md-12">
-						<h2 class="m-m-10">Butuh Layanan Kami Lainnya?</h2>
+						<h2 class="m-m-10 title-hide">Butuh Layanan Kami Lainnya?</h2>
 					</div>
 				</div>
 				<div class="row">
@@ -761,7 +757,7 @@ if(isset($_POST['submitted']))
 						</ul>
 					</div>
 				</div>
-				<div class="text-center link-long-text" style="margin-top: 70px;">
+				<div class="text-center link-long-text btn-container-contact" style="margin-top: 70px;">
 					<a href="/hubungi-kami.php" target="_blank" class="btn-contact-us-black">
 						Silahkan hubungi LOGIQUE tentang pembuatan website di Indonesia
 					</a>
@@ -772,10 +768,10 @@ if(isset($_POST['submitted']))
 		<footer class="contact">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-4 footer1-resp">
 						<h2 style="margin-top: 0">Hubungi Kami</h2>
 						<a href="/" target="_blank"><img src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan" class="cs-custom"></a>
-						<div class="m-t-10 text-left">LOGIQUE DIGITAL INDONESIA<br>
+						<div class="m-t-10 text-left company-address">LOGIQUE DIGITAL INDONESIA<br>
 						Ad Premier Building 19th Floor. <br>
 						Jalan Tb. Simatupang No. 5 Ragunan, <br>
 						Ps. Minggu, Jakarta Selatan, <br>Indonesia 12550</div>
@@ -817,7 +813,7 @@ if(isset($_POST['submitted']))
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4 hidden-md hidden-lg">
+					<div class="col-md-4 hidden-md hidden-lg mb-20">
 						<span><hr>Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</span>
 						<div class="row">
 							<div class="col-sm-12">
@@ -860,7 +856,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-4 hidden-xs hidden-sm">
 						<p>Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi, maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan arsitektur sistem yang baik.</p>
 						<div class="row">
-							<div class="col-sm-6">
+							<div class="col-sm-12">
 								<div class="link-footer-webdev" style="padding-left:30px">
 									<br/>
 									<div style="margin-bottom:8px"><b>Produk LOGIQUE</b></div>
@@ -898,6 +894,9 @@ if(isset($_POST['submitted']))
 
 			$('.min-h').matchHeight({
 				byRow: true
+			});
+			$('.flow-part').matchHeight({
+				// byRow: true
 			});
 		</script>
 	</body>

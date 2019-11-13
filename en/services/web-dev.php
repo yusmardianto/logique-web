@@ -156,7 +156,7 @@ if(isset($_POST['submitted']))
 							</ul>
 						</div>
 					</div>
-					<ol id="services-breadcrumb" class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+					<ol id="services-breadcrumb" class="breadcrumb breadcrumb-cont" itemscope itemtype="http://schema.org/BreadcrumbList">
 						<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
 							<a itemprop="item" href="../index.php">
 								<span itemprop="name">Home</span>
@@ -179,10 +179,10 @@ if(isset($_POST['submitted']))
 
 					<!-- <br class="hidden-xs"> -->
 					<!-- <span class="underline"> </span>-->
-					<div id="heading-service-web-dev" class="col-sm-offset-3 col-sm-7 m-t-7em">
+					<div id="heading-service-web-dev" class="col-sm-offset-1 col-md-offset-1 col-lg-offset-2 col-sm-11 col-md-11 col-lg-9 m-t-7em">
 						<h1 class="text-left">
 							<p>
-								<span class="c-logique">LOGIQUE Web</span> / <br class="hidden-xs">Website Creation Service
+								<span class="c-logique">LOGIQUE Web</span> <span class="hidden-xs"> / Website Creation Service</span>
 							</p>
 							<p>
 								<span class="underline">Ready to Create Your Website</span>
@@ -270,7 +270,7 @@ if(isset($_POST['submitted']))
 		<section class="section-layout web-service-flow">
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="analysis-part flow-part">
 							<img src="assets/img/img-webdev/writing.png" alt="Analysis and Evaluation">
 							<h3>Analysis and Evaluation</h3>
@@ -283,7 +283,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="plan-part flow-part">
 							<img src="assets/img/img-webdev/intelligent.png" alt="Planning">
 							<h3>Planning</h3>
@@ -295,7 +295,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="seo-part flow-part">
 							<img src="assets/img/img-webdev/analysis.png" alt="SEO / SEM">
 							<h3>SEO/SEM</h3>
@@ -308,8 +308,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="clearfix"></div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="info-part flow-part">
 							<img src="assets/img/img-webdev/ux.png" alt="Restructuring and Improvement">
 							<h3>Restructuring and Improvement</h3>
@@ -321,7 +320,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="multiligual-part flow-part">
 							<img src="assets/img/img-webdev/language.png" alt="Multilingual Website Production and& Operation">
 							<h3>Multilingual Website Production and Operation</h3>
@@ -332,7 +331,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="sosmed-part flow-part">
 							<img src="assets/img/img-webdev/customer.png" alt="Social Media Operation">
 							<h3>Social Media Operation</h3>
@@ -344,8 +343,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="clearfix"></div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="design-part flow-part">
 							<img src="assets/img/img-webdev/graphic-design.png" alt="Design Production">
 							<h3>Design Production</h3>
@@ -355,7 +353,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="markup-part flow-part">
 							<img src="assets/img/img-webdev/website.png" alt="Markup Coding">
 							<h3>Markup Coding</h3>
@@ -365,7 +363,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="responsive-part flow-part">
 							<img src="assets/img/img-webdev/devices.png" alt="Multi-device Support">
 							<h3>Multi-device Support</h3>
@@ -375,8 +373,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="clearfix"></div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="programing-part flow-part">
 							<img src="assets/img/img-webdev/programming.png" alt="Special Programming Features">
 							<h3>Special Programming Features</h3>
@@ -387,7 +384,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="system-part flow-part">
 							<img src="assets/img/img-webdev/engineering.png" alt="System Construction">
 							<h3>System Construction</h3>
@@ -398,7 +395,7 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="apps-part flow-part">
 							<img src="assets/img/img-webdev/smartphone.png" alt="PWA as Mobile Apps">
 							<h3>PWA as Mobile Apps</h3>
@@ -408,7 +405,6 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 					</div>
-					<div class="clearfix"></div>
 				</div>
 				<div class="link-page-price-and-portfolio">
 					<a class="link-yellow-white" href="/en/services/webdev-price-range.php">See the price of Website production and operation</a>
@@ -692,7 +688,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row hidden-md hidden-lg">
 					<div class="col-md-12">
-						<h2 class="m-m-10">NEED OTHER SERVICES?</h2>
+						<h2 class="m-m-10 title-hide">NEED OTHER SERVICES?</h2>
 					</div>
 				</div>
 				<div class="row">
@@ -799,7 +795,7 @@ if(isset($_POST['submitted']))
 						</ul>
 					</div>
 				</div>
-				<div class="text-center link-long-text" style="margin-top: 70px;">
+				<div class="text-center link-long-text btn-container-contact" style="margin-top: 70px;">
 					<a href="/en/contact.php" target="_blank" class="btn-contact-us-black">
 						Please contact LOGIQUE about web production operation in Indonesia
 					</a>
@@ -810,10 +806,10 @@ if(isset($_POST['submitted']))
 		<footer class="contact">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-4 footer1-resp">
 						<h2 style="margin-top: 0">Contact LOGIQUE</h2>
 						<a href="/en/" target="_blank"><img src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan" class="cs-custom"></a>
-						<div class="m-t-10 text-left">LOGIQUE DIGITAL INDONESIA<br>
+						<div class="m-t-10 text-left company-address">LOGIQUE DIGITAL INDONESIA<br>
 						Ad Premier Building 19th Floor. <br>
 						Jalan Tb. Simatupang No. 5 Ragunan, <br>
 						Ps. Minggu, Jakarta Selatan, <br>Indonesia 12550</div>
@@ -855,7 +851,7 @@ if(isset($_POST['submitted']))
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4 hidden-md hidden-lg">
+					<div class="col-md-4 hidden-md hidden-lg mb-20">
 						<span><hr>LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.</span>
 						<div class="row">
 							<div class="col-sm-12">
@@ -904,7 +900,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-4 hidden-xs hidden-sm">
 						<p>LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.</p>
 						<div class="row">
-							<div class="col-sm-6">
+							<div class="col-sm-12">
 								<div class="link-footer-webdev" style="padding-left:30px">
 									<br/>
 									<div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div>
@@ -941,7 +937,10 @@ if(isset($_POST['submitted']))
 			});
 
 			$('.min-h').matchHeight({
-				byRow: false
+				// byRow: false
+			});
+			$('.flow-part').matchHeight({
+				// byRow: false
 			});
 		</script>
 	</body>
