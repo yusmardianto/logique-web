@@ -359,8 +359,8 @@ if(isset($_POST['submitted']))
 		left: 28px !important;
 		right: auto;
 		border-right: 16px solid transparent !important;
-		border-top: 16px solid #c0c0c0 !important;
-		border-bottom: 0 solid #c0c0c0 !important;
+		border-top: 16px solid #000 !important;
+		border-bottom: 0 solid #000 !important;
 		border-left: 16px solid transparent !important;
 	}
 	.timeline-horizontal .timeline-item:before,
@@ -395,6 +395,9 @@ if(isset($_POST['submitted']))
 		.form-container{
 			padding-left: 95px;
 		}
+		.float-box{
+			top: -120px;
+		}
 	}
 	
 	@media screen and (max-width: 979px){
@@ -418,7 +421,7 @@ if(isset($_POST['submitted']))
 			top: -95px;
 		}
 	}
-
+	
 	.overflow-auto{
 		display:inline-block;
 		width:100%;
@@ -433,7 +436,7 @@ if(isset($_POST['submitted']))
 	.overflow-auto::-webkit-scrollbar-thumb {
 		background: #f4ce58;
 	}
-
+	
 	.overflow-auto::-webkit-scrollbar-track {
 		background: rgba(0, 0, 0, 0.5);
 	}
@@ -731,9 +734,12 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1">
 					<div class="d-title text-center"><b>Prosedur Permintaan Informasi</b></div>
+					<div class="col-sm-12">
+						<hr class="col-sm-2 col-sm-offset-5 bar-yellow" style="padding: 5px 0; border: none;">
+					</div>
 					<div class="overflow-auto">
-						<ul class="timeline timeline-horizontal">
-							<!-- cekin -->
+						<ul class="timeline timeline-horizontal"  style="padding-left: 1em;">
+							
 							<li class="timeline-item">
 								<div class="timeline-badge primary"></div>
 								<div class="timeline-panel">
@@ -790,7 +796,7 @@ if(isset($_POST['submitted']))
 					</div>
 				</div>
 				<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-12" style="margin-top: 1em;">
-					<div class="clearfix">
+					<div class="clearfix" style="padding-left: 1em;">
 						<dt class="d-title">Pertanyaan yang sering diajukan:</dt>
 						<hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
 					</div>
