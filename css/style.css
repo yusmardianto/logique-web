@@ -259,6 +259,10 @@ section.maintop {
     padding: 2em 0;
 }
 
+.mt-12{
+    margin-top: 12px;
+}
+
 @media (max-width: 768px) {
     .section__custom-padding {
         padding-left: 15px;
