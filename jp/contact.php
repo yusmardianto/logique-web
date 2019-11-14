@@ -601,9 +601,10 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="clearfix"></div>
 					<!-- header -->
-					<div class="contact-title-copies mt-12">
+					<div class="contact-title-copies mt-12 clearfix">
 						<br>
-						<span style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px;">Contact Us こんな事でお困りであれば</span>
+						<span style="padding-bottom: 3px;">Contact Us こんな事でお困りであれば</span>
+						<hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;">
 					</div>
 					<div class="form-container col-sm-12 bg-grey" style="padding-top: 10px;">
 						<div class="text-center container contact-us-cont">
