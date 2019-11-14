@@ -126,7 +126,15 @@ if(isset($_POST['submitted']))
 		background: #ffc6007a;
 	}
 	
+	.lang-logo{
+		margin-top: 0;
+	}
+	
 	/* Custom Checkbox */
+	.checkbox label{
+		padding-left: 0;
+	}
+	
 	.checkbox label:after {
 		content: '';
 		display: table;
@@ -138,8 +146,8 @@ if(isset($_POST['submitted']))
 		display: inline-block;
 		border: 1px solid #a9a9a9;
 		border-radius: .25em;
-		width: 1.3em;
-		height: 1.3em;
+		width: 1.5em;
+		height: 1.5em;
 		float: left;
 		margin-right: .5em;
 	}
@@ -437,9 +445,6 @@ if(isset($_POST['submitted']))
 		.float-box{
 			top: -95px;
 		}
-		.lang-logo{
-			margin-top: 0;
-		}
 	}
 	
 	.overflow-auto{
@@ -474,6 +479,13 @@ if(isset($_POST['submitted']))
 		.contact-us-cont{
 			width: 100%;
 		}
+		.checkbox .cr{
+			width: 1.7em;
+			height: 1.7em;
+		}
+		.d-title-large{
+			font-size: larger;
+		}
 	}
 	@media screen and (max-width: 480px) {
 		#contentsArea{
@@ -484,6 +496,13 @@ if(isset($_POST['submitted']))
 		}
 		.lang-logo{
 			float: left;
+		}
+		.checkbox .cr{
+			width: 1.8em;
+			height: 1.8em;
+		}
+		.checkbox label{
+			font-size: smaller;
 		}
 	}
 </style>
@@ -551,11 +570,11 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		<!-- NAVIGATION -->
 		
+		<!-- NAVIGATION -->
 		<div id="contentsArea">
 			<div class="clearfix" id="contents">
-				<div class="col-md-11 col-md-offset-1 col-sm-11 col-sm-offset-1" style="background: #fff;">
+				<div class="col-md-11 col-md-offset-1 col-sm-11 col-sm-offset-1" style="background: #fff; margin-top: 20px;">
 					<a href="index.php"><img src="../img/logo.png" alt="Logo" class="logo hidden-xs"/></a>
 					<div class="lang-logo">
 						<ul class="list-inline">
@@ -586,7 +605,7 @@ if(isset($_POST['submitted']))
 							Offers solutions for your digital business problems, anytime and anywhere
 						</dt>
 						<br>
-						<a class="btn btn-hubungi smooth" href="#anchorForm" style="font-size: medium; font-weight: 600;">
+						<a class="btn btn-hubungi smooth" href="#moresco-contactform" style="font-size: medium; font-weight: 600;">
 							Contact Us Now
 						</a>
 					</div>
@@ -633,44 +652,44 @@ if(isset($_POST['submitted']))
 							<input type='hidden' name='submitted' id='submitted' value='1'/>
 							<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<label for="companyname" class="c-label">Company Name</label>
 								<div class="form-group">
 									<input type="text" class="form-control" id="companyname" name="companyname" aria-label="Company Name" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="COMPANY NAME">
 								</div>
 							</div> 
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<label for="name" class="c-label">Name</label>
 								<div class="form-group">
 									<input type="text" class="form-control" id="name" name="name" aria-label="Name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAME">
 								</div>
 							</div>
 							
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<label for="phone" class="c-label">Phone Number</label>
 								<div class="form-group">
 									<input type="number" class="form-control" id="phone" name="phone" aria-label="Phone" value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="PHONE NUMBER">
 								</div>
 							</div>
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<label for="email" class="c-label">Email</label>
 								<div class="form-group">
 									<input type="email" class="form-control" id="email" name="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
 								</div>
 							</div>
 							
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<label for="message" class="c-label">Message</label>
 								<div class="form-group" style="margin-top: 10px;">
 									<textarea class="form-control" name="message" aria-label="Message" placeholder="MESSAGE"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</div>
 							</div>
 							
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<b>Inquiry item:</b>  <i>(Multiple answers allowed)</i>
 							</div>
 							
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<div class="checkbox">
 									<label>
 										<input type="checkbox" name="inquiry[]" value="About website creation">
@@ -733,7 +752,7 @@ if(isset($_POST['submitted']))
 				</div>
 				
 				<div class="bg-grey clearfix" style="padding-bottom: 10%;">
-					<div class="title-bg-grey col-lg-11 col-lg-offset-1 col-md-11 col-md-offset-1">
+					<div class="d-title-large title-bg-grey col-lg-11 col-lg-offset-1 col-md-11 col-md-offset-1">
 						If you are seeking further information about various matters related to our company, please select one of the options below
 						<div class="col-sm-12">
 							<hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;">
@@ -742,7 +761,7 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-12 float-box" style="margin-top: 24px; position: relative;">
 					<div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 12px;">
-						<a class="box-link" href="/services.php">
+						<a class="box-link" href="services.php">
 							<div class="yellow-box">
 								<img class="img-box" src="../img/global_1.png" alt="">
 								<dt>Services</dt>
@@ -774,8 +793,9 @@ if(isset($_POST['submitted']))
 						</a>
 					</div>
 				</div>
-				<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1">
-					<div class="d-title text-center"><b>Procedure of Inquiry Forms</b></div>
+				<div class="clearfix"></div>
+				<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-xs-12">
+					<div class="d-title-large text-center"><b>Procedure of Inquiry Forms</b></div>
 					<div class="col-sm-12">
 						<hr class="col-sm-2 col-sm-offset-5 bar-yellow" style="padding: 5px 0; border: none;">
 					</div>
@@ -837,9 +857,9 @@ if(isset($_POST['submitted']))
 						</ul>
 					</div>
 				</div>
-				<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-12" style="margin-top: 1em;">
+				<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-12 col-xs-12" style="margin-top: 1em;">
 					<div class="clearfix" style="padding-left: 1em;">
-						<dt class="d-title">Frequently asked questions:</dt>
+						<dt class="d-title-large">Frequently asked questions:</dt>
 						<hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
 					</div>
 					<div class="container mt-12" id="accordion" style="width:100%;">
@@ -966,10 +986,10 @@ if(isset($_POST['submitted']))
 								</div>
 								<div id="collapse8" class="panel-collapse collapse">
 									<div class="panel-body">
-											Yes, and we have a proven track record of excellence in that area; helping many industries in the finance, 
-											travel and education fields promote their website so that it’s found in the upper ranks of the search results. 
-											Our team, consisting of many Indonesian content writers and marketers, will help provide you with the best SEO results. 
-											We are also able to implement SEO in the English and Japanese languages, as well.
+										Yes, and we have a proven track record of excellence in that area; helping many industries in the finance, 
+										travel and education fields promote their website so that it’s found in the upper ranks of the search results. 
+										Our team, consisting of many Indonesian content writers and marketers, will help provide you with the best SEO results. 
+										We are also able to implement SEO in the English and Japanese languages, as well.
 									</div>
 								</div>
 							</div>

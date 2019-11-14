@@ -128,7 +128,15 @@ if(isset($_POST['submitted']))
 		background: #ffc6007a;
 	}
 	
+	.lang-logo{
+		margin-top: 0;
+	}
+
 	/* Custom Checkbox */
+	.checkbox label{
+		padding-left: 0;
+	}
+
 	.checkbox label:after {
 		content: '';
 		display: table;
@@ -140,8 +148,8 @@ if(isset($_POST['submitted']))
 		display: inline-block;
 		border: 1px solid #a9a9a9;
 		border-radius: .25em;
-		width: 1.3em;
-		height: 1.3em;
+		width: 1.5em;
+		height: 1.5em;
 		float: left;
 		margin-right: .5em;
 	}
@@ -439,9 +447,6 @@ if(isset($_POST['submitted']))
 		.float-box{
 			top: -95px;
 		}
-		.lang-logo{
-			margin-top: 0;
-		}
 	}
 	
 	.overflow-auto{
@@ -470,11 +475,11 @@ if(isset($_POST['submitted']))
 		.d-description{
 			font-size: 12px;
 		}
-		.img-vector{
-			height: 150px;
-		}
 		.contact-us-cont{
 			width: 100%;
+		}
+		.d-title-large{
+			font-size: larger;
 		}
 	}
 	@media screen and (max-width: 480px) {
@@ -486,6 +491,24 @@ if(isset($_POST['submitted']))
 		}
 		.lang-logo{
 			float: left;
+		}
+		.btn-hubungi{
+			margin-top: 0;
+			float: right;
+		}
+		.contact-us-cont{
+			text-align: left;
+			font-size: medium;
+		}
+		.first-title{
+			font-size: x-large;
+		}
+		.contact-title-copies{
+			padding: 10px 30px;
+		}
+		.checkbox label{
+			padding-left: 0;
+			font-size: smaller;
 		}
 	}
 </style>
@@ -589,7 +612,7 @@ if(isset($_POST['submitted']))
 			
 			<div id="contentsArea">
 				<div class="clearfix" id="contents">
-					<div class="col-md-11 col-md-offset-1 col-sm-11 col-sm-offset-1" style="background: #fff;">
+					<div class="col-md-11 col-md-offset-1 col-sm-11 col-sm-offset-1" style="background: #fff; margin-top: 20px;">
 						<a href="index.php"><img src="../img/logo.png" alt="Logo" class="logo hidden-xs"/></a>
 						<div class="lang-logo">
 							<ul class="list-inline">
@@ -603,7 +626,7 @@ if(isset($_POST['submitted']))
 					<!-- header -->
 					<div class="contact-title-copies mt-12 clearfix">
 						<br>
-						<span style="padding-bottom: 3px;">Contact Us こんな事でお困りであれば</span>
+						<span class="first-title" style="padding-bottom: 3px;">Contact Us<br class="visible-xs"> こんな事でお困りであれば</span>
 						<hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;">
 					</div>
 					<div class="form-container col-sm-12 bg-grey" style="padding-top: 10px;">
@@ -626,7 +649,7 @@ if(isset($_POST['submitted']))
 								まずはお気軽にご相談ください。
 							</dt>
 							<br>
-							<a class="btn btn-hubungi smooth" href="#anchorForm" style="font-size: medium; font-weight: 600;">
+							<a class="btn btn-hubungi smooth" href="#moresco-contactform" style="font-size: medium; font-weight: 600;">
 								お問い合わせ
 							</a>
 						</div>
@@ -651,7 +674,7 @@ if(isset($_POST['submitted']))
 						<br>
 						<div class="col-md-9 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center mt-12">
 							<br>
-							<dt class="" style="margin-top: 3%; font-size: larger; text-align: left;">
+							<dt class="d-title" style="margin-top: 3%;text-align: left; line-height: 1.5;">
 								インドネシアで新規事業を立ち上げる、Webでブランディング・集客したい、オンラインで製品・サービスを売りたい、CRMシステム、
 								人事管理システムが必要だ、インドネシア語でSEO対策したい、インドネシア国内でインターネット広告を出稿したい、
 								ジャカルタ視察時にインドネシアネットビジネスについて聞きたいなど様々なお問い合わせをいただいています。お気軽に長谷川、吉次までご連絡ください。
@@ -679,44 +702,44 @@ if(isset($_POST['submitted']))
 								<input type='hidden' name='submitted' id='submitted' value='1'/>
 								<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 								<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-								<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+								<div class="col-md-8 col-md-offset-2 col-sm-11">
 									<label for="companyname" class="c-label">Company Name</label>
 									<div class="form-group">
 										<input type="text" class="form-control" id="companyname" name="companyname" aria-label="Company Name" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="COMPANY NAME">
 									</div>
 								</div> 
-								<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+								<div class="col-md-8 col-md-offset-2 col-sm-11">
 									<label for="name" class="c-label">Name</label>
 									<div class="form-group">
 										<input type="text" class="form-control" id="name" name="name" aria-label="Name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAME">
 									</div>
 								</div>
 								
-								<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+								<div class="col-md-8 col-md-offset-2 col-sm-11">
 									<label for="phone" class="c-label">Phone Number</label>
 									<div class="form-group">
 										<input type="number" class="form-control" id="phone" name="phone" aria-label="Phone" value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="PHONE NUMBER">
 									</div>
 								</div>
-								<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+								<div class="col-md-8 col-md-offset-2 col-sm-11">
 									<label for="email" class="c-label">Email</label>
 									<div class="form-group">
 										<input type="email" class="form-control" id="email" name="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
 									</div>
 								</div>
 								
-								<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+								<div class="col-md-8 col-md-offset-2 col-sm-11">
 									<label for="message" class="c-label">Message</label>
 									<div class="form-group" style="margin-top: 10px;">
 										<textarea class="form-control" name="message" aria-label="Message" placeholder="MESSAGE"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 									</div>
 								</div>
 								
-								<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+								<div class="col-md-8 col-md-offset-2 col-sm-11">
 									<b>お問合せ項目:</b>  <i>（複数回答可）</i>
 								</div>
 								
-								<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+								<div class="col-md-8 col-md-offset-2 col-sm-11">
 									<div class="checkbox">
 										<label>
 											<input type="checkbox" name="inquiry[]" value="Web / ホームページ制作運用について">
@@ -771,7 +794,7 @@ if(isset($_POST['submitted']))
 									<div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
 									<div class="clearfix"></div><br>
 								</div>
-								<div class="col-sm-3 col-sm-offset-4 paddingleft">
+								<div class="col-sm-4 col-sm-offset-3">
 									<button type="submit" class="btn btn-block" onclick="ga('send', 'event', 'Button-Kirim-JP', 'Action-Click', 'Button-Kirim-JP-Label');" style="background: #f4ce58; font-size: larger;">送信</button>
 								</div>
 							</form>
@@ -788,7 +811,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-12 float-box" style="margin-top: 24px; position: relative;">
 						<div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 12px;">
-							<a class="box-link" href="/services.php">
+							<a class="box-link" href="services.php">
 								<div class="yellow-box">
 									<img class="img-box" src="../img/global_1.png" alt="">
 									<dt>サービス</dt>
@@ -820,8 +843,9 @@ if(isset($_POST['submitted']))
 							</a>
 						</div>
 					</div>
-					<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1">
-						<div class="d-title text-center"><b>お問合せからの流れ</b></div>
+					<div class="clearfix"></div>
+					<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-xs-12">
+						<div class="d-title-large text-center"><b>お問合せからの流れ</b></div>
 						<div class="col-sm-12">
 							<hr class="col-sm-2 col-sm-offset-5 bar-yellow" style="padding: 5px 0; border: none;">
 						</div>
@@ -883,9 +907,9 @@ if(isset($_POST['submitted']))
 							</ul>
 						</div>
 					</div>
-					<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-12" style="margin-top: 1em;">
+					<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-12 col-xs-12" style="margin-top: 1em;">
 						<div class="clearfix" style="padding-left: 1em;">
-							<dt class="d-title">よくあるご質問・ご相談</dt>
+							<dt class="d-title-large">よくあるご質問・ご相談</dt>
 							<hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
 						</div>
 						<div class="container mt-12" id="accordion" style="width:100%;">
@@ -1012,7 +1036,7 @@ if(isset($_POST['submitted']))
 										</div>
 									</div>
 								</div>
-
+								
 								<div class="panel panel-default">
 									<div class="panel-heading">
 										<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse9">
@@ -1028,7 +1052,7 @@ if(isset($_POST['submitted']))
 										</div>
 									</div>
 								</div>
-
+								
 								<div class="panel panel-default">
 									<div class="panel-heading">
 										<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse10">
@@ -1043,7 +1067,7 @@ if(isset($_POST['submitted']))
 										</div>
 									</div>
 								</div>
-
+								
 								<div class="panel panel-default">
 									<div class="panel-heading">
 										<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse11">
@@ -1058,7 +1082,7 @@ if(isset($_POST['submitted']))
 										</div>
 									</div>
 								</div>
-
+								
 								<div class="panel panel-default">
 									<div class="panel-heading">
 										<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse12">
@@ -1073,7 +1097,7 @@ if(isset($_POST['submitted']))
 										</div>
 									</div>
 								</div>
-
+								
 								<div class="panel panel-default">
 									<div class="panel-heading">
 										<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse13">

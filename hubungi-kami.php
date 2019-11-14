@@ -128,6 +128,10 @@ if(isset($_POST['submitted']))
 	}
 	
 	/* Custom Checkbox */
+	.checkbox label{
+		padding-left: 0;
+	}
+
 	.checkbox label:after {
 		content: '';
 		display: table;
@@ -139,8 +143,8 @@ if(isset($_POST['submitted']))
 		display: inline-block;
 		border: 1px solid #a9a9a9;
 		border-radius: .25em;
-		width: 1.3em;
-		height: 1.3em;
+		width: 1.7em;
+		height: 1.7em;
 		float: left;
 		margin-right: .5em;
 	}
@@ -475,6 +479,9 @@ if(isset($_POST['submitted']))
 		.contact-us-cont{
 			width: 100%;
 		}
+		.d-title-large{
+			font-size: larger;
+		}
 	}
 	@media screen and (max-width: 480px) {
 		#contentsArea{
@@ -485,6 +492,14 @@ if(isset($_POST['submitted']))
 		}
 		.lang-logo{
 			float: left;
+		}
+		.checkbox label{
+			font-size: small;
+			font-weight: 500;
+		}
+		.checkbox .cr{
+			width: 1.7em;
+			height: 1.7em;
 		}
 	}
 </style>
@@ -589,7 +604,7 @@ if(isset($_POST['submitted']))
 							Menawarkan Anda solusi dari permasalahan bisnis Anda di dunia digital kapan pun dan dimana pun
 						</dt>
 						<br>
-						<a class="btn btn-hubungi smooth" href="#anchorForm" style="font-size: medium; font-weight: 600;">
+						<a class="btn btn-hubungi smooth" href="#moresco-contactform" style="font-size: medium; font-weight: 600;">
 							Hubungi Kami Sekarang
 						</a>
 					</div>
@@ -636,44 +651,44 @@ if(isset($_POST['submitted']))
 							<input type='hidden' name='submitted' id='submitted' value='1'/>
 							<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<label for="companyname" class="c-label">Nama Perusahaan</label>
 								<div class="form-group">
 									<input type="text" class="form-control" id="companyname" name="companyname" aria-label="Company Name" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="NAMA PERUSAHAAN">
 								</div>
 							</div> 
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<label for="name" class="c-label">Nama</label>
 								<div class="form-group">
 									<input type="text" class="form-control" id="name" name="name" aria-label="Name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAMA">
 								</div>
 							</div>
 							
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<label for="phone" class="c-label">Nomor Telepon</label>
 								<div class="form-group">
 									<input type="number" class="form-control" id="phone" name="phone" aria-label="Phone" value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="NOMOR TELEPON">
 								</div>
 							</div>
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<label for="email" class="c-label">Email</label>
 								<div class="form-group">
 									<input type="email" class="form-control" id="email" name="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
 								</div>
 							</div>
 							
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<label for="message" class="c-label">Message</label>
 								<div class="form-group" style="margin-top: 10px;">
 									<textarea class="form-control" name="message" aria-label="Message" placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</div>
 							</div>
 							
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<b>Anda butuh bantuan LOGIQUE untuk:</b>  <i>(Anda boleh memilih lebih dari satu)</i>
 							</div>
 							
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<div class="checkbox">
 									<label>
 										<input type="checkbox" name="inquiry[]" value="Mengembangkan sebuah website">
@@ -728,7 +743,7 @@ if(isset($_POST['submitted']))
 								<div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
 								<div class="clearfix"></div><br>
 							</div>
-							<div class="col-sm-3 col-sm-offset-4 paddingleft">
+							<div class="col-sm-4 col-sm-offset-3 paddingleft">
 								<button type="submit" class="btn btn-block" onclick="ga('send', 'event', 'Button-Kirim', 'Action-Click', 'Button-Kirim-Label');" style="background: #f4ce58;">Kirim</button>
 							</div>
 						</form>
@@ -736,7 +751,7 @@ if(isset($_POST['submitted']))
 				</div>
 				
 				<div class="bg-grey clearfix" style="padding-bottom: 10%;">
-					<div class="title-bg-grey col-lg-11 col-lg-offset-1 col-md-11 col-md-offset-1">
+					<div class="d-title-large title-bg-grey col-lg-11 col-lg-offset-1 col-md-11 col-md-offset-1">
 						Jika Anda ingin mendapatkan informasi lebih lanjut mengenai berbagai hal yang berkaitan dengan Logique, Silahkan 
 						pilih salah satu opsi di bawah ini
 						<div class="col-sm-12">
@@ -779,7 +794,7 @@ if(isset($_POST['submitted']))
 					</div>
 				</div>
 				<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1">
-					<div class="d-title text-center"><b>Prosedur Permintaan Informasi</b></div>
+					<div class="d-title-large text-center"><b>Prosedur Permintaan Informasi</b></div>
 					<div class="col-sm-12">
 						<hr class="col-sm-2 col-sm-offset-5 bar-yellow" style="padding: 5px 0; border: none;">
 					</div>
@@ -843,7 +858,7 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-12" style="margin-top: 1em;">
 					<div class="clearfix" style="padding-left: 1em;">
-						<dt class="d-title">Pertanyaan yang sering diajukan:</dt>
+						<dt class="d-title-large">Pertanyaan yang sering diajukan:</dt>
 						<hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
 					</div>
 					<div class="container mt-12" id="accordion" style="width:100%;">
