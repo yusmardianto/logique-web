@@ -649,16 +649,18 @@ if(isset($_POST['submitted']))
 							</p>
 						</div>
 						<br>
-						<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
+						<div class="col-md-9 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center mt-12">
+							<br>
 							<dt class="" style="margin-top: 3%; font-size: larger; text-align: left;">
 								インドネシアで新規事業を立ち上げる、Webでブランディング・集客したい、オンラインで製品・サービスを売りたい、CRMシステム、
 								人事管理システムが必要だ、インドネシア語でSEO対策したい、インドネシア国内でインターネット広告を出稿したい、
-								ジャカルタ視察時にインドネシアネットビジネスについて聞きたいなど様々なお問い合わせをいただいています。お気軽に長谷川、吉次までご連絡くださ
+								ジャカルタ視察時にインドネシアネットビジネスについて聞きたいなど様々なお問い合わせをいただいています。お気軽に長谷川、吉次までご連絡ください。
 							</dt>
-							<hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;">
+							<!-- <hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;"> -->
 						</div>
 						
-						<div class="col-sm-8 col-sm-offset-2 text-center sosmed-contact">
+						<div class="col-sm-8 col-sm-offset-2 text-center sosmed-contact" style="margin-top: 1em;">
+							<br>
 							<a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook" rel="noreferrer"><i class="fa fa-facebook-official" style="color:#777; font-size: xx-large;"></i></a>
 							<a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter" rel="noreferrer"><i class="fa fa-twitter" style="color:#777; font-size: xx-large;"></i></a>
 							<a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram" rel="noreferrer"><i class="fa fa-instagram" style="color:#777; font-size: xx-large;"></i></a>
@@ -673,7 +675,7 @@ if(isset($_POST['submitted']))
 						?>
 						<br>
 						<div class="container" style="margin-top: 3%;">
-							<form class="contactform" id="moresco-contactform" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
+							<form class="contactform mt-12" id="moresco-contactform" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
 								<input type='hidden' name='submitted' id='submitted' value='1'/>
 								<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 								<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
