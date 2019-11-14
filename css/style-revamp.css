@@ -1,0 +1,48 @@
+.our-service__btn-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.main-btn {
+  border: solid 1px black;
+  border-radius: 7px;
+  padding: 10px 25px;
+  margin: 0 10px;
+  min-width: 130px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.main-btn.--yellow {
+  background-color: #ffca13;
+  border-color: #ffca13;
+}
+
+.main-btn a {
+  color: #000;
+}
+
+.service-list__item {
+  display: flex;
+}
+
+.service-list__img {
+  margin-right: 15px;
+}
+
+.service-list__list {
+  list-style: none;
+}
+
+.web-solution__btn-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 350px;
+}
+
+.web-solution__btn-wrapper .--ws {
+  margin: 15px 10px;
+  min-width: 320px;
+}
