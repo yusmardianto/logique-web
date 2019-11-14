@@ -768,7 +768,7 @@
                 </div>
               </div>
 
-              <div class="col-md-3 card" data-name="3">
+              <!-- <div class="col-md-3 card" data-name="3">
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -785,7 +785,7 @@
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> -->
 
               <div class="col-md-3 card" data-name="10">
                 <div class="panel panel-default">
@@ -797,7 +797,7 @@
                   </div>
                   <div class="panel-footer">
                     <div class="urgent-front">
-                      <!-- <img src="/img/career/urgent.png"> -->
+                      <img src="/img/career/urgent.png">
                       <p></p>
                     </div>
                     <div class="text-center">
