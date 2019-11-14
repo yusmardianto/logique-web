@@ -598,7 +598,7 @@ if(isset($_POST['submitted']))
 						<img class="" src="../img/kontak-img.jpg" alt="Hubungi Kami Logique" style="width: 100%; height: auto; max-width: 500px; object-fit: scale-down; border: 2px solid black; padding: 2%;"/>
 					</div>
 					<div class="col-md-5 col-sm-6" style="padding-top: 5%;">
-						<dt class="d-title" style="background: #ffd02a; padding:6px;">
+						<dt class="d-title" style="background: #ffd02a; padding:1em;">
 							If you feel that improving your website is the key to your business’s success, we are ready to help
 						</dt>
 						<p class="d-description">
@@ -673,49 +673,49 @@ if(isset($_POST['submitted']))
 							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
 								<div class="checkbox">
 									<label>
-										<input type="checkbox" name="inquiry[]" value="Mengembangkan sebuah website">
+										<input type="checkbox" name="inquiry[]" value="About website creation">
 										<span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About website creation
 									</label>
 								</div>
 								<div class="checkbox">
 									<label>
-										<input type="checkbox" name="inquiry[]" value="Mengembangkan sistem web / maintenance">
+										<input type="checkbox" name="inquiry[]" value="About web-system development / maintenance">
 										<span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About web-system development / maintenance
 									</label>
 								</div>
 								<div class="checkbox">
 									<label>
-										<input type="checkbox" name="inquiry[]" value="Memasarkan Web / SEO">
+										<input type="checkbox" name="inquiry[]" value="About web marketing / SEO">
 										<span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About web marketing / SEO
 									</label>
 								</div>
 								<div class="checkbox">
 									<label>
-										<input type="checkbox" name="inquiry[]" value="Memasang atau mengoperasikan iklan di Internet">
+										<input type="checkbox" name="inquiry[]" value="About internet advertisement">
 										<span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About internet advertisement
 									</label>
 								</div>
 								<div class="checkbox">
 									<label>
-										<input type="checkbox" name="inquiry[]" value="Mendesain profil perusahaan atau hasil cetakan lainnya untuk pameran">
+										<input type="checkbox" name="inquiry[]" value="About company profile, pamphlet, and other printings">
 										<span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About company profile, pamphlet, and other printings
 									</label>
 								</div>
 								<div class="checkbox">
 									<label>
-										<input type="checkbox" name="inquiry[]" value="Kami mencari perusahaan yang ikut tender">
+										<input type="checkbox" name="inquiry[]" value="We are looking for companies that would join the tender">
 										<span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>We are looking for companies that would join the tender
 									</label>
 								</div>
 								<div class="checkbox">
 									<label>
-										<input type="checkbox" name="inquiry[]" value="Kami mencari konsultan untuk memulai bisnis di indonesia">
+										<input type="checkbox" name="inquiry[]" value="We are looking for consultants to start a business in Indonesia">
 										<span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>We are looking for consultants to start a business in Indonesia
 									</label>
 								</div>
 								<div class="checkbox">
 									<label>
-										<input type="checkbox" name="inquiry[]" value="Kami ingin mengunjungi kantor Anda saat kami ke Jakarta untuk melakukan perjalanan bisnis">
+										<input type="checkbox" name="inquiry[]" value="We would like to visit your office the next time you are in Jakarta for a business trip">
 										<span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>We would like to visit your office the next time you are in Jakarta for a business trip
 									</label>
 								</div>
@@ -983,32 +983,6 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		
-		<!-- dummy -->
-		<!-- <div class="question">Is it possible to proceed with a project using the English language?</div>
-			<div class="answer">It is possible, though there may be some difficulties. Most of our staff is able to communicate in English at a practical level. We have also ventured to start projects with overseas companies.</div>
-			<br/>
-			<div class="question">Is it possible for you to have a meeting overseas?</div>
-			<div class="answer">Let us discuss the matter with you first. Mostly, we offer video conference calls, but we might be able to be flexible depending on the case.</div><br/>
-			
-			<div class="question">We are thinking about changing our current web/system outsourcer and seek to replace them with you.</div>
-			<div class="answer">Please contact us without any further hesitation. There is no need to worry too much about documentation, etc. In most cases, We are able to develop a wide range of digital products through years of experience in the field of customer management systems development. We are also capable of developing systems to improve recruitment, e-commerce, pointing, and content and loan management, among many other things. We are experts in systems development, further utilizing open web technologies to their highest utility. Please contact us for further details.</div><br/>
-			
-			<div class="question">We are seeking a developer to build a management system for our business.</div>
-			<div class="answer">We are capable of developing various kinds of systems through previous experience in the field of customer management systems development, as well as developing systems for improved recruitment, e-commerce, pointing, and content and loan management, among many others. We are experts in system development, utilizing open web technologies. Please contact us for further details.</div><br/>
-			
-			<div class="question">We want to have a partnership / distributor contract with LOGIQUE.</div>
-			<div class="answer">Let us talk about it with you in further detail. Please feel free to visit our office if you are planning any trips to Jakarta.</div><br/>
-			
-			<div class="question">We want to build a mobile application.</div>
-			<div class="answer">We are capable of developing both Android and iOS applications for you. We can begin planning the development of the mobile app as well, if you require it.</div><br/>
-			
-			<div class="question">We would like to print a marketing tool, are you able to offer printing as well as designing services?</div>
-			<div class="answer">We can of course both design and print pamphlets. And we are also able to design and print other products such as T-shirts. In case you need to print something extremely difficult, you might better look for other company. We can also introduce you to the companies that we know if you would like us to.</div><br/>
-			
-			<div class="question">Are you capable of implementing SEO in the Indonesian Language?</div>
-			<div class="answer">Yes, and we have a proven track record of excellence in that area; helping many industries in the finance, travel and education fields promote their website so that it’s found in the upper ranks of the search results. Our team, consisting of many Indonesian content writers and marketers, will help provide you with the best SEO results. We are also able to implement SEO in the English and Japanese languages, as well.</div><br/>
-		-->
 		
 		<?php include 'footer.php';?>
 		<script>
