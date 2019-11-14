@@ -160,7 +160,7 @@ if(isset($_POST['submitted']))
 		font-size:30px;
 		font-weight:bold;
 		text-align:center;
-		background:#fff;
+		background:#f4f4f4;
 		padding: 10px 25%;
 		line-height: 1.3;
 	}
@@ -384,6 +384,11 @@ if(isset($_POST['submitted']))
 		left: 24px;
 		height: 100px;
 	}
+
+	.lang-logo{
+		float: right;
+		position: unset;
+	}
 	
 	@media (max-width: 1024px){
 		.contact-us-cont{
@@ -419,6 +424,9 @@ if(isset($_POST['submitted']))
 		}
 		.float-box{
 			top: -95px;
+		}
+		.lang-logo{
+			margin-top: 0;
 		}
 	}
 	
@@ -461,6 +469,9 @@ if(isset($_POST['submitted']))
 		}
 		.float-box{
 			top: -80px;
+		}
+		.lang-logo{
+			float: left;
 		}
 	}
 </style>
@@ -532,12 +543,25 @@ if(isset($_POST['submitted']))
 		<br/>
 		
 		<div id="contentsArea">
+			
 			<div class="clearfix" id="contents">
+				<div class="col-md-11 col-md-offset-1 col-sm-11 col-sm-offset-1" style="background: #fff;">
+					<a href="index.php"><img src="../img/logo.png" alt="Logo" class="logo hidden-xs"/></a>
+					<div class="lang-logo">
+						<ul class="list-inline">
+							<li class="active"><a href="#">EN</a></li>
+							<li><a href="../hubungi-kami.php">ID</a></li>
+							<li><a href="../jp/contact.php">JP</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="clearfix"></div>
 				<!-- header -->
-				<div class="contact-title-copies">
+				<div class="contact-title-copies mt-12">
+						<br>
 					<span style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px;">Contact Us</span>
 				</div>
-				<div class="form-container col-sm-12" style="padding-top: 10px;">
+				<div class="form-container col-sm-12 bg-grey" style="padding-top: 10px;">
 					<div class="text-center container contact-us-cont">
 						Terima kasih Anda telah tertarik dengan seluruh layanan yang kami tawarkan. Jika Anda ingin mendapatkan informasi lebih lanjut dengan seluruh layanan kami, seperti pembuatan web, pengembangan sistem web, seo dan berbagai permasalahan di dunia digital lainnya, Kalian dapat menghubungi dan bertanya apapun kepada kami melalui tombol di bawah ini:
 					</div>
