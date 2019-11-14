@@ -770,7 +770,7 @@ if(isset($_POST['submitted']))
 									<div class="clearfix"></div><br>
 								</div>
 								<div class="col-sm-3 col-sm-offset-4 paddingleft">
-									<button type="submit" class="btn btn-block" onclick="ga('send', 'event', 'Button-Kirim-EN', 'Action-Click', 'Button-Kirim-EN-Label');" style="background: #f4ce58; font-size: larger;">送信</button>
+									<button type="submit" class="btn btn-block" onclick="ga('send', 'event', 'Button-Kirim-JP', 'Action-Click', 'Button-Kirim-JP-Label');" style="background: #f4ce58; font-size: larger;">送信</button>
 								</div>
 							</form>
 						</div>
