@@ -1,8 +1,5 @@
 ﻿<?php
-	error_reporting(E_ALL|E_STRICT);
-	ini_set('display_error', 0);
-?>
-<?php
+
 require_once("assets/form/fgcontact_webdev.php");
 
 $formproc = new FGContactForm();
