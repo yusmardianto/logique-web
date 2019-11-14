@@ -878,6 +878,9 @@ footer {
     height: 580px;
     padding-bottom: 0;
   }
+  .title-text {
+    font-size: 32px;
+  }
   .m-t-10em {
     margin-top: 4em;
   }
