@@ -604,7 +604,7 @@ if(isset($_POST['submitted']))
 							Menawarkan Anda solusi dari permasalahan bisnis Anda di dunia digital kapan pun dan dimana pun
 						</dt>
 						<br>
-						<a class="btn btn-hubungi smooth" href="#moresco-contactform" style="font-size: medium; font-weight: 600;">
+						<a class="btn btn-hubungi smooth" href="#anchorForm" style="font-size: medium; font-weight: 600;">
 							Hubungi Kami Sekarang
 						</a>
 					</div>
@@ -651,7 +651,7 @@ if(isset($_POST['submitted']))
 							<input type='hidden' name='submitted' id='submitted' value='1'/>
 							<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-							<div class="col-md-8 col-md-offset-2 col-sm-11">
+							<div class="col-md-8 col-md-offset-2 col-sm-11" id="anchorForm">
 								<label for="companyname" class="c-label">Nama Perusahaan</label>
 								<div class="form-group">
 									<input type="text" class="form-control" id="companyname" name="companyname" aria-label="Company Name" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="NAMA PERUSAHAAN">
