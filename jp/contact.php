@@ -663,7 +663,7 @@ if(isset($_POST['submitted']))
 						<div class="col-md-6 col-sm-6" style="padding-top: 5%;">
 							<dt class="d-title" style="background: #ffd02a; padding:1em;">
 								デジタルマーケティングやWeb、アプリ開発運用で課題があれば、LOGIQUEがご支援します！<br>
-								<span class="d-description"><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" rel="noreferrer">  +62 811-870-321</a> / <a href="tel:021-2270-8935">021-2270-8935</a> / infoアットマークlogique.co.id</span>
+								<span class="d-description"><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" rel="noreferrer" style="color: #000; text-decoration: underline;">  +62 811-870-321</a> / <a href="tel:021-2270-8935" style="color: #000; text-decoration: underline;">021-2270-8935</a> / infoアットマークlogique.co.id</span>
 							</dt>
 							<p class="d-description">
 								コンサルティング会社出身者がジャカルタに設立したデジタルマーケティング支援会社です。
