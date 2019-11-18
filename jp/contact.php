@@ -65,6 +65,22 @@ if(isset($_POST['submitted']))
 	div.row{
 		width: 100%;
 	}
+
+	.breadcrumb-position{
+		position: relative;
+		left: -8em;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-start;
+	}	
+
+	.breadcrumb>li, .breadcrumb li a{
+		color: #ffd02a;
+		font-size: medium;
+	}
+	.breadcrumb>.active, .breadcrumb li.active a{
+		color: #000;
+	}
 	
 	.text-left{
 		text-align: left;
@@ -85,6 +101,11 @@ if(isset($_POST['submitted']))
 	.d-title{
 		font-size: x-large;
 	}
+	.d-title-2{
+		font-size: larger;
+		font-weight: 500;
+	}
+	
 	.d-description{
 		font-size: large;
 		margin-top: 5%;
@@ -131,12 +152,12 @@ if(isset($_POST['submitted']))
 	.lang-logo{
 		margin-top: 0;
 	}
-
+	
 	/* Custom Checkbox */
 	.checkbox label{
 		padding-left: 0;
 	}
-
+	
 	.checkbox label:after {
 		content: '';
 		display: table;
@@ -413,6 +434,9 @@ if(isset($_POST['submitted']))
 	}
 	
 	@media (max-width: 1024px){
+		.breadcrumb-position{
+			left: -6em;
+		}
 		.contact-us-cont{
 			width: 100%;
 		}
@@ -469,6 +493,9 @@ if(isset($_POST['submitted']))
 	}
 	
 	@media only screen and (max-width: 768px){
+		.breadcrumb-position{
+			left: -5em;
+		}
 		.d-title{
 			font-size: small;
 		}
@@ -485,6 +512,19 @@ if(isset($_POST['submitted']))
 	@media screen and (max-width: 480px) {
 		#contentsArea{
 			margin:unset;
+		}
+		.breadcrumb-position{
+			left: -25px;
+			top: -15px;
+		}
+		.d-title{
+			font-size: medium;
+		}
+		.d-title-2{
+			font-size: medium;
+		}
+		.d-description{
+			font-size: medium;
 		}
 		.float-box{
 			top: -80px;
@@ -509,6 +549,9 @@ if(isset($_POST['submitted']))
 		.checkbox label{
 			padding-left: 0;
 			font-size: smaller;
+		}
+		.paddingless-mobile{
+			padding: 0;
 		}
 	}
 </style>
@@ -624,28 +667,34 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="clearfix"></div>
 					<!-- header -->
-					<div class="contact-title-copies mt-12 clearfix">
+					<div class="contact-title-copies mt-12 clearfix" style="">
+						<div class="breadcrumb-position">
+							<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList" style="background:transparent;">
+								<li class="" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/jp/index.php"><span itemprop="name">ホーム</span></a><meta itemprop="position" content="1" /></li>
+								<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">お問い合わせ</span></a><meta itemprop="position" content="3" /></li>
+							</ol>
+						</div>
 						<br>
-						<span class="first-title" style="padding-bottom: 3px;">Contact Us<br class="visible-xs"> こんな事でお困りであれば</span>
-						<hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;">
+						<span class="first-title" style="padding-bottom: 3px;">こんな事でお困りではないでしょうか？</span>
+						<hr class="col-md-6 col-md-offset-3 col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;">
 					</div>
 					<div class="form-container col-sm-12 bg-grey" style="padding-top: 10px;">
 						<div class="text-center container contact-us-cont">
-							<span class="yellow"><strong>Web</strong></span>を営業の重要な１チャネルとして、集客力のあるWEBに改良したい.<br>
+							<span class="yellow"><strong>Web</strong></span>を営業の重要な１チャネルとして、集客力のあるWebBに改良したい。<br>
 							インターネットテクノロジーやAIなど先進技術を活用した新ビジネスを立ち上げたい<br>
 							社内管理システムが必要、パッケージ導入ではなく、要件にあったシステムを構築したい<br>
 							インドネシアで成長するためにデジタルマーケティングの実施が必要<br>
 							既存のWeb・システムの運用保守をインドネシア国内の業者にまかせたい
 						</div>
 					</div>
-					<div class="form-container col-md-12 col-sm-12" style="height: fit-content; background: #000;">
-						<div class="col-sm-5 col-xs-4">
+					<div class="form-container col-md-12 col-sm-12 clearfix" style="height: fit-content; background: #000;">
+						<div class="col-md-5 col-sm-6 col-xs-12 clearfix" style="margin-bottom: 1em;">
 							<img class="img-vector" src="../img/vector_smart_object.png" alt="" style="">
 						</div>
-						<div class="col-md-6 col-sm-5" style="padding: 32px 0;">
-							<dt class="d-title" style="color: #fff; text-align: left;">
-								LOGIQUEはインドネシアをはじめとした東南アジアの国々でクライアントのWebマーケティングを成功に導いてきました。Webサイト制作（ホームページ制作）、
-								Webシステム開発、モバイルアプリ開発、SEO対策、アクセス解析、デジタル広告運用などデジタルマーケティング関連ソリューションをワンストップで対応可能ですので、
+						<div class="col-md-6 col-sm-6 clearfix" style="padding: 32px 0;">
+							<dt class="d-title-2" style="color: #fff; text-align: left; padding-top: 1em;">
+								LOGIQUEはインドネシアをはじめとした東南アジアの国々でクライアントのWebマーケティングを成功に導いてきました。Webサイト制作（ホームページ制作）、 
+								Webシステム開発、モバイルアプリ・PWA開発、SEO対策、アクセス解析、デジタル広告運用などデジタルマーケティング関連ソリューションをワンストップで対応可能ですので、 
 								まずはお気軽にご相談ください。
 							</dt>
 							<br>
@@ -660,7 +709,7 @@ if(isset($_POST['submitted']))
 						<div class="col-sm-5 col-sm-offset-1" style="padding: 1em 0;">
 							<img class="" src="../img/kontak-img.jpg" alt="Hubungi Kami Logique" style="width: 100%; height: auto; max-width: 500px; object-fit: scale-down; border: 2px solid black; padding: 2%;"/>
 						</div>
-						<div class="col-md-6 col-sm-6" style="padding-top: 5%;">
+						<div class="col-md-6 col-sm-6 paddingless-mobile" style="padding-top: 5%;">
 							<dt class="d-title" style="background: #ffd02a; padding:1em;">
 								デジタルマーケティングやWeb、アプリ開発運用で課題があれば、LOGIQUEがご支援します！<br>
 								<span class="d-description"><a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" rel="noreferrer" style="color: #000; text-decoration: underline;">  +62 811-870-321</a> / <a href="tel:021-2270-8935" style="color: #000; text-decoration: underline;">021-2270-8935</a> / infoアットマークlogique.co.id</span>
@@ -845,7 +894,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="clearfix"></div>
 					<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-xs-12">
-						<div class="d-title-large text-center"><b>お問合せからの流れ</b></div>
+						<div class="text-center" style="font-size: x-large;"><b>お問合せからの流れ</b></div>
 						<div class="col-sm-12">
 							<hr class="col-sm-2 col-sm-offset-5 bar-yellow" style="padding: 5px 0; border: none;">
 						</div>
@@ -909,7 +958,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-12 col-xs-12" style="margin-top: 1em;">
 						<div class="clearfix" style="padding-left: 1em;">
-							<dt class="d-title-large">よくあるご質問・ご相談</dt>
+							<dt class="" style="font-size: x-large;">よくあるご質問・ご相談</dt>
 							<hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
 						</div>
 						<div class="container mt-12" id="accordion" style="width:100%;">
@@ -923,7 +972,7 @@ if(isset($_POST['submitted']))
 										</dt>
 									</div>
 									<div id="collapse1" class="panel-collapse collapse in">
-										<div class="panel-body">
+										<div class="panel-body d-title-2">
 											案件の内容によりますが、可能です。インドネシアでのプロジェクトを日本の部署の日本人担当者さまと、弊社日本人がやり取りさせていただきながらの進行も可能です。
 											オフショア案件のご相談も受け付けております。現在、日本人が2人と、日本語が堪能なインドネシア人も1人おります。
 										</div>
@@ -937,7 +986,7 @@ if(isset($_POST['submitted']))
 										</dt>
 									</div>
 									<div id="collapse2" class="panel-collapse collapse">
-										<div class="panel-body">
+										<div class="panel-body d-title-2">
 											まずはご相談ください。原則、SKYPEミーティングなどをお願いしておりますが、ご相談内容により検討いたします。
 										</div>
 									</div>
@@ -952,7 +1001,7 @@ if(isset($_POST['submitted']))
 										</dt>
 									</div>
 									<div id="collapse3" class="panel-collapse collapse">
-										<div class="panel-body">
+										<div class="panel-body d-title-2">
 											ドキュメントが無いなどで運用会社の変更を躊躇されるお客様が多いのですが、十分な引継ぎがなくても一般的なテクノロジーで作られたWEB/システムであれば、
 											引継ぎ、修正、運用が可能なケースがほとんどです。お気軽にご相談ください。
 										</div>
@@ -968,7 +1017,7 @@ if(isset($_POST['submitted']))
 										</dt>
 									</div>
 									<div id="collapse4" class="panel-collapse collapse">
-										<div class="panel-body">
+										<div class="panel-body d-title-2">
 											オプションとして写真撮影、動画撮影＆加工、コンテンツ制作もご提案可能です。
 										</div>
 									</div>
@@ -983,7 +1032,7 @@ if(isset($_POST['submitted']))
 										</dt>
 									</div>
 									<div id="collapse5" class="panel-collapse collapse">
-										<div class="panel-body">
+										<div class="panel-body d-title-2">
 											ドキュメントが無いなどで運用会社の変更を躊躇されるお客様が多いのですが、十分な引継ぎがなくても一般的なテクノロジーで作られたWeb/システムであれば、
 											引継ぎ、修正、運用が可能なケースがほとんどです。お気軽にご相談ください。
 										</div>
@@ -999,7 +1048,7 @@ if(isset($_POST['submitted']))
 										</dt>
 									</div>
 									<div id="collapse6" class="panel-collapse collapse">
-										<div class="panel-body">
+										<div class="panel-body d-title-2">
 											PHPフレームワークを使った開発が件数としては一番多いです。Laravel、Symfony、CakePHPなどを使用することが多いですが、お客様の環境やご要望に応じて柔軟に対応します。
 										</div>
 									</div>
@@ -1014,7 +1063,7 @@ if(isset($_POST['submitted']))
 										</dt>
 									</div>
 									<div id="collapse7" class="panel-collapse collapse">
-										<div class="panel-body">
+										<div class="panel-body d-title-2">
 											アジャイル開発の手法をとっておりますので、できる限りフェーズを短く区切って、素早くトライアル公開（利用）できるようにしています。
 											大規模なシステム開発でも3ヶ月くらいでで目に見える形の成果物を完成させるようにしています。費用は必要な作業量をベースにお見積りいたします。詳細はお問い合わせください。
 										</div>
@@ -1030,7 +1079,7 @@ if(isset($_POST['submitted']))
 										</dt>
 									</div>
 									<div id="collapse8" class="panel-collapse collapse">
-										<div class="panel-body">
+										<div class="panel-body d-title-2">
 											アジャイル型開発（スクラム）で期間を決めて、モックアップを作ってしまうことをお奨めします。
 											また次の期間でそれを改善・最適化していくというように進めていくほうが、要件定義に時間をかけるよりもずっと効率的＆効果的です。
 										</div>
@@ -1046,7 +1095,7 @@ if(isset($_POST['submitted']))
 										</dt>
 									</div>
 									<div id="collapse9" class="panel-collapse collapse">
-										<div class="panel-body">
+										<div class="panel-body d-title-2">
 											インドネシアで顧客管理システム、債権管理、販売管理、採用管理、ポイント管理、e-Commerce、コンテンツ管理システムなど様々なシステムを構築運用してきました。
 											オープンなWebシステム技術を使ったシステム開発が得意です。柔軟に早く開発することが可能ですので、まずはご相談ください。
 										</div>
@@ -1062,7 +1111,7 @@ if(isset($_POST['submitted']))
 										</dt>
 									</div>
 									<div id="collapse10" class="panel-collapse collapse">
-										<div class="panel-body">
+										<div class="panel-body d-title-2">
 											ぜひ詳細をご相談させてください。ジャカルタ視察旅行の機会には是非ともお立ち寄りください。
 										</div>
 									</div>
@@ -1077,7 +1126,7 @@ if(isset($_POST['submitted']))
 										</dt>
 									</div>
 									<div id="collapse11" class="panel-collapse collapse">
-										<div class="panel-body">
+										<div class="panel-body d-title-2">
 											アンドロイドアプリ、iOSアプリ開発のどちらも可能です。PWAの案件も多くなってきました。企画の段階から関与する形態も可能ですのでご相談ください。
 										</div>
 									</div>
@@ -1092,7 +1141,7 @@ if(isset($_POST['submitted']))
 										</dt>
 									</div>
 									<div id="collapse12" class="panel-collapse collapse">
-										<div class="panel-body">
+										<div class="panel-body d-title-2">
 											各種販促物のデザイン制作も可能です。印刷については印刷会社のご紹介をするのが通常ですが、色校正など最後まで当社で責任もって完了することもあります。パンフレット、リーフレット
 										</div>
 									</div>
@@ -1107,7 +1156,7 @@ if(isset($_POST['submitted']))
 										</dt>
 									</div>
 									<div id="collapse13" class="panel-collapse collapse">
-										<div class="panel-body">
+										<div class="panel-body d-title-2">
 											可能です。金融系キーワードや旅行（訪日旅行）キーワード、教育系でSEO対策の経験があり、ビッグキーワードで上位表示を獲得しました。
 											インドネシア人コンテンツライターとマーケッターがチームを組んで対策しますのでインドネシア語SEO対策が一番得意です。英語、日本語も可能です。
 										</div>

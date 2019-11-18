@@ -64,6 +64,26 @@ if(isset($_POST['submitted']))
 	div.row{
 		width: 100%;
 	}
+
+	.breadcrumb{
+		padding: 0;
+	}
+	
+	.breadcrumb-position{
+		position: relative;
+		left: -8em;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-start;
+	}	
+	
+	.breadcrumb>li, .breadcrumb li a{
+		color: #ffd02a;
+		font-size: medium;
+	}
+	.breadcrumb>.active, .breadcrumb li.active a{
+		color: #000;
+	}
 	
 	.text-left{
 		text-align: left;
@@ -131,7 +151,7 @@ if(isset($_POST['submitted']))
 	.checkbox label{
 		padding-left: 0;
 	}
-
+	
 	.checkbox label:after {
 		content: '';
 		display: table;
@@ -408,6 +428,9 @@ if(isset($_POST['submitted']))
 	}
 	
 	@media (max-width: 1024px){
+		.breadcrumb-position{
+			left: -6em;
+		}
 		.contact-us-cont{
 			width: 100%;
 		}
@@ -467,6 +490,9 @@ if(isset($_POST['submitted']))
 	}
 	
 	@media only screen and (max-width: 768px){
+		.breadcrumb-position{
+			left: -5em;
+		}
 		.d-title{
 			font-size: small;
 		}
@@ -486,6 +512,10 @@ if(isset($_POST['submitted']))
 	@media screen and (max-width: 480px) {
 		#contentsArea{
 			margin:unset;
+		}
+		.breadcrumb-position{
+			left: -85px;
+			top: -15px;
 		}
 		.float-box{
 			top: -80px;
@@ -585,6 +615,12 @@ if(isset($_POST['submitted']))
 				<div class="clearfix"></div>
 				<!-- header -->
 				<div class="contact-title-copies mt-12">
+					<div class="breadcrumb-position">
+						<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList" style="background:transparent;">
+							<li class="" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
+							<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Hubungi Kami</span></a><meta itemprop="position" content="3" /></li>
+						</ol>
+					</div>
 					<br>
 					<span style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px;">Contact Us</span>
 				</div>
@@ -794,7 +830,7 @@ if(isset($_POST['submitted']))
 					</div>
 				</div>
 				<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1">
-					<div class="d-title-large text-center"><b>Prosedur Permintaan Informasi</b></div>
+					<div class="d-title-large title-bg-grey text-center"><b>Prosedur Permintaan Informasi</b></div>
 					<div class="col-sm-12">
 						<hr class="col-sm-2 col-sm-offset-5 bar-yellow" style="padding: 5px 0; border: none;">
 					</div>
@@ -858,7 +894,7 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-12" style="margin-top: 1em;">
 					<div class="clearfix" style="padding-left: 1em;">
-						<dt class="d-title-large">Pertanyaan yang sering diajukan:</dt>
+						<dt class="d-title-large title-bg-grey" style="text-align: left;">Pertanyaan yang sering diajukan:</dt>
 						<hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
 					</div>
 					<div class="container mt-12" id="accordion" style="width:100%;">
