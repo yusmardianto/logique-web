@@ -828,18 +828,20 @@
                 </div>
               </div> -->
 
-              <div class="col-md-3 card" data-name="4">
+              <div class="col-md-3 card" data-name="10">
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-                    <img src="/img/career/designer.png" />
-                    <h3>UI/UX designer</h3>
+                    <img src="/img/career/tc.png" />
+                    <h3>Consultant</h3>
                     <div class="boxfull">Fulltime</div>
                   </div>
                   <div class="panel-footer">
-                    <p></p>
+                    <div class="urgent-front">
+                      <img src="/img/career/urgent.png">
+                    </div>
                     <div class="text-center">
-                      <a class="btn btn-detail" href="detail/designer.php" id="designer">Detail</a>
+                      <a class="btn btn-detail" href="detail/consultant.php" id="consultant">Detail</a>
                     </div>
                   </div>
                 </div>
@@ -887,6 +889,23 @@
                 </div>
               </div>
 
+              <div class="col-md-3 card" data-name="4">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+                    <img src="/img/career/designer.png" />
+                    <h3>UI/UX designer</h3>
+                    <div class="boxfull">Fulltime</div>
+                  </div>
+                  <div class="panel-footer">
+                    <p></p>
+                    <div class="text-center">
+                      <a class="btn btn-detail" href="detail/designer.php" id="designer">Detail</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
               <div class="col-md-3 card" data-name="5">
                 <div class="panel panel-default">
                   <div class="panel-body">
@@ -902,23 +921,6 @@
                     <p></p>
                     <div class="text-center">
                       <a class="btn btn-detail" href="detail/quality-assurance.php" id="quality-assurance">Detail</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-md-3 card" data-name="10">
-                <div class="panel panel-default">
-                  <div class="panel-body">
-                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
-                    <img src="/img/career/tc.png" />
-                    <h3>Consultant</h3>
-                    <div class="boxfull">Fulltime</div>
-                  </div>
-                  <div class="panel-footer">
-                    <p></p>
-                    <div class="text-center">
-                      <a class="btn btn-detail" href="detail/consultant.php" id="consultant">Detail</a>
                     </div>
                   </div>
                 </div>
