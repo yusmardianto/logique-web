@@ -1921,7 +1921,7 @@
             <section id="others">
                 <div class="container__">
                     <div class="portfolio-sec__head">
-                        <h3 class="portfolio-sec__title">Digital Marketing & <br>Lainnya</h3>
+                        <h3 class="portfolio-sec__title">Digital Marketing & Lainnya</h3>
                         <a href="#portfolioNavigation" class="portfolio-sec__back">
                             <small>[Back to Top]</small>
                         </a>
