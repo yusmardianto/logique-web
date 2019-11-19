@@ -120,229 +120,225 @@
         </div> <!-- END HEADER -->
 
         <!-- CONTENT -->
-        <div>
-            <div class="top-- content-wrapper__gray" style="margin-top: 4.5em">
-                <div class="container__">
+        <div class="content-wrapper__">
 
-                    <section>
-                        <div class="text-center">
-                            <h1 class="title-index">Produk Kami</h1>
-                            <hr class="title__yellow-line--center">
-                            <p class="title__description">Agar perusahaan Anda dapat tumbuh dan berkembang di era digital, LOGIQUE
-                                memberikan solusi berupa sistem manajemen HR untuk mempermudah karyawan dalam mengatur waktu dan
-                                produktivitas kerja mereka. </p>
-                            <div class="product-list">
-                                <img class="product-list__img" src="/img/top/i-dokodemo.png" alt="dokodemo">
-                                <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
-                                <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
-                            </div>
-                            <p class="title__description">Sistem ini merupakan solusi untuk meningkatkan produktivitas karyawan
-                                melalui sistem kerja yang fleksibel, manajemen waktu kerja dengan sistem laporan harian, serta
-                                sistem
-                                manajemen rekrutmen untuk mempermudah proses seleksi karyawan menjadi lebih efisien.</p>
+            <section class="bg--gray --top">
+                <div class="container__" style="padding:0">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <ol class="breadcrumb breadcrumb--update-design" itemscope
+                                itemtype="http://schema.org/BreadcrumbList">
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                        href="index.php"><span itemprop="name">Beranda</span></a>
+                                    <meta itemprop="position" content="1" />
+                                </li>
+                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                        itemprop="item"><span itemprop="name">&nbsp;Produk</span></a>
+                                    <meta itemprop="position" content="2" />
+                                </li>
+                            </ol>
                         </div>
-                    </section>
-
+                    </div>
                 </div>
-            </div>
+            </section>
 
-            <div class="content-wrapper__black" style="margin-bottom: 4%;">
+            <section class="bg--gray">
                 <div class="container__">
-
-                    <section>
-                        <div class="product-slogan">
-                            <img class="product-slogan__img" src="/img/product/product.png" alt="product">
-                            <p class="product-slogan__text">"Kami menciptakan berbagai produk digital yang fungsional, terutama
-                                Sistem
-                                Manajemen SDM untuk meningkatkan produktivitas perusahaan."</p>
+                    <div class="text-center">
+                        <h1 class="title-index">Produk Kami</h1>
+                        <hr class="title__yellow-line--center">
+                        <p class="title__description">Agar perusahaan Anda dapat tumbuh dan berkembang di era digital, LOGIQUE
+                            memberikan solusi berupa sistem manajemen HR untuk mempermudah karyawan dalam mengatur waktu dan
+                            produktivitas kerja mereka. </p>
+                        <div class="product-list">
+                            <img class="product-list__img" src="/img/top/i-dokodemo.png" alt="dokodemo">
+                            <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
+                            <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
                         </div>
-                    </section>
-
+                        <p class="title__description">Sistem ini merupakan solusi untuk meningkatkan produktivitas karyawan
+                            melalui sistem kerja yang fleksibel, manajemen waktu kerja dengan sistem laporan harian, serta
+                            sistem
+                            manajemen rekrutmen untuk mempermudah proses seleksi karyawan menjadi lebih efisien.</p>
+                    </div>
                 </div>
-            </div>
+            </section>
 
-            <div class="content-wrapper__">
+            <section class="bg--black" style="margin-bottom: 4%;">
                 <div class="container__">
-
-                    <section>
-                        <h1 class="title-index">DOKODEMO KERJA</h1>
-                        <hr class="title__yellow-line">
-                        <h4 class="title-index__sub">Solusi Kerja Fleksibel Untuk Menjadi Lebih Produktif</h4>
-                        <p class="title__description--full">
-                            Apakah Anda mengalami kesulitan untuk memantau produktivitas karyawan Anda? Jika iya, maka sistem ini
-                            menjadi solusi untuk memantau kinerja karyawan Anda. Selain itu, sistem ini juga dapat meningkatkan
-                            produktivitas karyawan dengan melihat bagaimana karyawan menghabiskan jam kerja mereka melalui fitur
-                            auto-screencapture yang tersedia.</p>
-
-                        <div class="product-snap-shot">
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_1.png"
-                                    alt="dokodemo_1">
-                                <p class="product-snap-shot__text">Analisa waktu kerja berdasarkan project </p>
-                            </div>
-
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_2.png"
-                                    alt="dokodemo_2">
-                                <p class="product-snap-shot__text">Melacak kegiatan dengan screenshot</p>
-                            </div>
-
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_3.png"
-                                    alt="dokodemo_3">
-                                <p class="product-snap-shot__text">Melacak jam kerja dan jam istirahat</p>
-                            </div>
-                        </div>
-
-                        <p class="title__description--full">Sistem ini juga membantu Anda untuk mengetahui apakah karyawan dapat
-                            menyelesaikan tugas secara efisien. Dengan Dokodemo-kerja, memungkinkan Anda untuk menerapkan sistem
-                            kerja
-                            remote bagi seluruh karyawan, sehingga membuat para karyawan Anda dapat bekerja dengan bahagia dan
-                            menjadi
-                            lebih produktif melalui sistem kerja fleksibel di mana saja mereka suka.</p><br>
-
-                        <div class="text-center">
-                            <a class="btn--yellow" href="https://dokodemo-kerja.com/ind/">Learn More</a>
-                        </div>
-                    </section>
-
+                    <div class="product-slogan">
+                        <img class="product-slogan__img" src="/img/product/product.png" alt="product">
+                        <p class="product-slogan__text">"Kami menciptakan berbagai produk digital yang fungsional, terutama
+                            Sistem
+                            Manajemen SDM untuk meningkatkan produktivitas perusahaan."</p>
+                    </div>
                 </div>
-            </div>
+            </section>
 
-            <div class="content-wrapper__gray">
+            <section>
                 <div class="container__">
+                    <h1 class="title-index">DOKODEMO KERJA</h1>
+                    <hr class="title__yellow-line">
+                    <h4 class="title-index__sub">Solusi Kerja Fleksibel Untuk Menjadi Lebih Produktif</h4>
+                    <p class="title__description--full">
+                        Apakah Anda mengalami kesulitan untuk memantau produktivitas karyawan Anda? Jika iya, maka sistem ini
+                        menjadi solusi untuk memantau kinerja karyawan Anda. Selain itu, sistem ini juga dapat meningkatkan
+                        produktivitas karyawan dengan melihat bagaimana karyawan menghabiskan jam kerja mereka melalui fitur
+                        auto-screencapture yang tersedia.</p>
 
-                    <section>
-                        <h1 class="title-index">SUGOI SAIYO</h1>
-                        <hr class="title__yellow-line">
-                        <h4 class="title-index__sub">Sistem Manajamen Rekrutmen Untuk Proses Rekrutmen Yang Lebih Mudah</h4>
-                        <p class="title__description--full">Apakah Anda pernah mengalami kesulitan ketika menyaring terlalu banyak
-                            pelamar yang tidak sesuai ? Sekarang hal itu tidak akan Anda temukan lagi. Sebab, dengan Sugoi Saiyo
-                            proses rekrutmen dapat Anda lakukan dengan lebih mudah dan efisien. Sugoi Saiyo merupakan sistem IT
-                            yang
-                            dapat membantu bagian HR untuk mendapatkan karyawan yang tepat bagi perusahaan, juga dapat membantu
-                            pencari kerja untuk melamar pekerjaan dengan tahap yang sederhana serta mengetahui hasil seleksi
-                            mereka
-                            dengan jelas. </p>
-
-                        <div class="product-snap-shot">
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_1.png"
-                                    alt="sugoi saiyo 1">
-                                <p class="product-snap-shot__text">Create account untuk masing-masing kandidat </p>
-                            </div>
-
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_2.png"
-                                    alt="sugoi saiyo 2">
-                                <p class="product-snap-shot__text">Lamar beberapa pekerjaan secara bersamaan </p>
-                            </div>
-
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_3.png"
-                                    alt="sugoi saiyo 3">
-                                <p class="product-snap-shot__text">Upload CV, sertifikat, dan dokumen-dokumen penting</p>
-                            </div>
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_1.png" alt="dokodemo_1">
+                            <p class="product-snap-shot__text">Analisa waktu kerja berdasarkan project </p>
                         </div>
 
-                        <p class="title__description--full">Sistem ini mencakup seluruh proses rekrutmen yang Anda lakukan, mulai
-                            dari
-                            proses penerimaan CV, tes, jadwal interview, hingga surat penawaran kerja yang dikirimkan melalui
-                            website.
-                        </p><br>
-
-                        <div class="text-center">
-                            <a class="btn--yellow" href="produk/sugoi-saiyo.php">Learn More</a>
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_2.png" alt="dokodemo_2">
+                            <p class="product-snap-shot__text">Melacak kegiatan dengan screenshot</p>
                         </div>
-                    </section>
 
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_3.png" alt="dokodemo_3">
+                            <p class="product-snap-shot__text">Melacak jam kerja dan jam istirahat</p>
+                        </div>
+                    </div>
+
+                    <p class="title__description--full">Sistem ini juga membantu Anda untuk mengetahui apakah karyawan dapat
+                        menyelesaikan tugas secara efisien. Dengan Dokodemo-kerja, memungkinkan Anda untuk menerapkan sistem
+                        kerja
+                        remote bagi seluruh karyawan, sehingga membuat para karyawan Anda dapat bekerja dengan bahagia dan
+                        menjadi
+                        lebih produktif melalui sistem kerja fleksibel di mana saja mereka suka.</p><br>
+
+                    <div class="text-center">
+                        <a class="btn--yellow" href="https://dokodemo-kerja.com/ind/">Learn More</a>
+                    </div>
                 </div>
-            </div>
+            </section>
 
-            <div class="content-wrapper__">
+            <section class="bg--gray">
                 <div class="container__">
+                    <h1 class="title-index">SUGOI SAIYO</h1>
+                    <hr class="title__yellow-line">
+                    <h4 class="title-index__sub">Sistem Manajamen Rekrutmen Untuk Proses Rekrutmen Yang Lebih Mudah</h4>
+                    <p class="title__description--full">Apakah Anda pernah mengalami kesulitan ketika menyaring terlalu banyak
+                        pelamar yang tidak sesuai ? Sekarang hal itu tidak akan Anda temukan lagi. Sebab, dengan Sugoi Saiyo
+                        proses rekrutmen dapat Anda lakukan dengan lebih mudah dan efisien. Sugoi Saiyo merupakan sistem IT
+                        yang
+                        dapat membantu bagian HR untuk mendapatkan karyawan yang tepat bagi perusahaan, juga dapat membantu
+                        pencari kerja untuk melamar pekerjaan dengan tahap yang sederhana serta mengetahui hasil seleksi
+                        mereka
+                        dengan jelas. </p>
 
-                    <section>
-                        <h1 class="title-index">NIPPO</h1>
-                        <hr class="title__yellow-line">
-                        <h4 class="title-index__sub">Sistem laporan kerja karyawan dan Sistem Manajemen Jam Kerja</h4>
-                        <p class="title__description--full">Melalui Nippo, Anda dapat mengetahui apakah karyawan Anda dapat
-                            menggunakan jam kerja mereka secara efektif dan efisien. Nippo merupakan sistem laporan harian dimana
-                            karyawan Anda dapat membuat laporan serta menginformasikan berapa banyak waktu yang dibutuhkan untuk
-                            setiap projek yang dikerjakan. Karyawan juga dapat saling menandai dan memberikan feedback atau
-                            komentar
-                            kepada karyawan lain pada setiap projek yang dikerjakan bersama. </p>
-
-                        <div class="product-snap-shot">
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_1.png" alt="nippo 1">
-                                <p class="product-snap-shot__text">Daily reporting semua karyawan </p>
-                            </div>
-
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_2.png" alt="nippo 2">
-                                <p class="product-snap-shot__text">Statistik kerja per proyek</p>
-                            </div>
-                        </div>
-                        <div class="product-snap-shot">
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_3.png" alt="nippo 3">
-                                <p class="product-snap-shot__text">Statistik kerja secara keseluruhan </p>
-                            </div>
-
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_4.png" alt="nippo 4">
-                                <p class="product-snap-shot__text">Laporan individual </p>
-                            </div>
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_1.png"
+                                alt="sugoi saiyo 1">
+                            <p class="product-snap-shot__text">Create account untuk masing-masing kandidat </p>
                         </div>
 
-                        <p class="title__description--full">
-                            Anda juga dapat melihat jumlah jam kerja karyawan untuk setiap projek yang telah selesai dikerjakan.
-                            Dengan Nippo, penilaian dan evaluasi kerja dapat dilakukan setiap hari.</p><br>
-
-                        <div class="text-center">
-                            <a class="btn--yellow" href="produk/nippo.php">Learn More</a>
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_2.png"
+                                alt="sugoi saiyo 2">
+                            <p class="product-snap-shot__text">Lamar beberapa pekerjaan secara bersamaan </p>
                         </div>
-                    </section>
 
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_3.png"
+                                alt="sugoi saiyo 3">
+                            <p class="product-snap-shot__text">Upload CV, sertifikat, dan dokumen-dokumen penting</p>
+                        </div>
+                    </div>
+
+                    <p class="title__description--full">Sistem ini mencakup seluruh proses rekrutmen yang Anda lakukan, mulai
+                        dari
+                        proses penerimaan CV, tes, jadwal interview, hingga surat penawaran kerja yang dikirimkan melalui
+                        website.
+                    </p><br>
+
+                    <div class="text-center">
+                        <a class="btn--yellow" href="produk/sugoi-saiyo.php">Learn More</a>
+                    </div>
                 </div>
-            </div>
+            </section>
 
-            <div class="content-wrapper__">
+            <section>
                 <div class="container__">
+                    <h1 class="title-index">NIPPO</h1>
+                    <hr class="title__yellow-line">
+                    <h4 class="title-index__sub">Sistem laporan kerja karyawan dan Sistem Manajemen Jam Kerja</h4>
+                    <p class="title__description--full">Melalui Nippo, Anda dapat mengetahui apakah karyawan Anda dapat
+                        menggunakan jam kerja mereka secara efektif dan efisien. Nippo merupakan sistem laporan harian dimana
+                        karyawan Anda dapat membuat laporan serta menginformasikan berapa banyak waktu yang dibutuhkan untuk
+                        setiap projek yang dikerjakan. Karyawan juga dapat saling menandai dan memberikan feedback atau
+                        komentar
+                        kepada karyawan lain pada setiap projek yang dikerjakan bersama. </p>
 
-                    <section class="section__custom-padding" id="contact">
-                        <div class="row">
-                            <div class="col-sm-5">
-                                <h1 class="title-index" style="margin-bottom:0">Hubungi Logique</h1>
-                                <p>LOGIQUE siap membantu Anda.</p>
-                                <br>
-                                <hr class="title__yellow-line">
-                                <img src="../img/contact.png" style="width:100%" alt="contact">
-                            </div>
-
-                            <div class="col-sm-7">
-                                <ul class="lgq-does__list">
-                                    <li>Pengembangan Website | Operasi Web | Meningkatkan Website | Menjalankan Website</li>
-                                    <li>Maintenance Website | Sistem Web</li>
-                                    <li>Pengembangan Web Sistem | Re-develop (Pengembangan Ulang) Sistem Web</li>
-                                    <li>Membuat desain halaman dari suatu kampanye atau landing page website</li>
-                                    <li>Outsourcing untuk mengoperasikan situs</li>
-                                    <li>Meningkatkan akses menuju situs Anda dengan SEO</li>
-                                    <li>Menyusun strategi promosi online</li>
-                                    <li>Mencari penyewaan web server dan perusahaan yang mampu untuk mengelolanya.</li>
-                                    <li>Mencari layanan printing untuk company profiles atau brosur</li>
-                                    <li>dll.</li>
-                                </ul>
-                                <a href="hubungi-kami.php" class="btn btn-contact-us-black" style="width: auto">Hubungi
-                                    LOGIQUE</a>
-                            </div>
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_1.png" alt="nippo 1">
+                            <p class="product-snap-shot__text">Daily reporting semua karyawan </p>
                         </div>
-                    </section>
 
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_2.png" alt="nippo 2">
+                            <p class="product-snap-shot__text">Statistik kerja per proyek</p>
+                        </div>
+                    </div>
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_3.png" alt="nippo 3">
+                            <p class="product-snap-shot__text">Statistik kerja secara keseluruhan </p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_4.png" alt="nippo 4">
+                            <p class="product-snap-shot__text">Laporan individual </p>
+                        </div>
+                    </div>
+
+                    <p class="title__description--full">
+                        Anda juga dapat melihat jumlah jam kerja karyawan untuk setiap projek yang telah selesai dikerjakan.
+                        Dengan Nippo, penilaian dan evaluasi kerja dapat dilakukan setiap hari.</p><br>
+
+                    <div class="text-center">
+                        <a class="btn--yellow" href="produk/nippo.php">Learn More</a>
+                    </div>
                 </div>
-            </div>
-        </div> <!-- END CONTENT -->
+            </section>
+
+            <section id="contact">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-sm-5">
+                            <h1 class="title-index" style="margin-bottom:0">Hubungi Logique</h1>
+                            <p>LOGIQUE siap membantu Anda.</p>
+                            <br>
+                            <hr class="title__yellow-line">
+                            <img src="../img/contact.png" style="width:100%" alt="contact">
+                        </div>
+
+                        <div class="col-sm-7">
+                            <ul class="lgq-does__list">
+                                <li>Pengembangan Website | Operasi Web | Meningkatkan Website | Menjalankan Website</li>
+                                <li>Maintenance Website | Sistem Web</li>
+                                <li>Pengembangan Web Sistem | Re-develop (Pengembangan Ulang) Sistem Web</li>
+                                <li>Membuat desain halaman dari suatu kampanye atau landing page website</li>
+                                <li>Outsourcing untuk mengoperasikan situs</li>
+                                <li>Meningkatkan akses menuju situs Anda dengan SEO</li>
+                                <li>Menyusun strategi promosi online</li>
+                                <li>Mencari penyewaan web server dan perusahaan yang mampu untuk mengelolanya.</li>
+                                <li>Mencari layanan printing untuk company profiles atau brosur</li>
+                                <li>dll.</li>
+                            </ul>
+                            <a href="hubungi-kami.php" class="btn btn-contact-us-black" style="width: auto">Hubungi
+                                LOGIQUE</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+        <!-- END CONTENT -->
 
         <?php include 'footer.php'; ?>
     </div>

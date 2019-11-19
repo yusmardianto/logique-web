@@ -335,7 +335,7 @@
 									<img src="/img/top/i-caroline.png" alt="caroline">
 								</a>
 								<a href="/en/case-study/jba-auction-system" class="flipp">
-									<img src="/img/top/i-jba.png" alt="jba">
+									<img src="/img/logo-jba.jpg" alt="jba">
 								</a>
 								<a href="/en/case-study/opuspark" class="flipp">
 									<img src="/img/top/i-opus-park.png" alt="opus">
