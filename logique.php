@@ -262,16 +262,13 @@
                                         LOGIQUE dapat membantu dalam peluncuran situs web perusahaan sederhana dengan layanan web
                                         terbaru di pasaran, dimana diperlukan beberapa pertimbangan seperti anggaran, sumber daya,
                                         dan jadwal.<br><br>
-                                        LOGIQUE dapat membantu dalam peluncuran situs web perusahaan sederhana dengan layanan web
-                                        terbaru di pasaran, dimana diperlukan beberapa pertimbangan seperti anggaran, sumber daya,
-                                        dan jadwal.<br><br>
-                                        <!-- LOGIQUE adalah perusahaan web developer yang fleksibel dalam segala situasi.
+                                        LOGIQUE adalah perusahaan web developer yang fleksibel dalam segala situasi.
                                         Kami
                                         dapat menjadi perusahaan pengembangan sistem terpercaya yang melindungi
                                         keamanan
                                         situs Anda. Untuk menyesuaikan ekspektasi Anda, kami dapat mengubah metode
                                         kerja
-                                        yang kami terapkan ketika memberikan layanan yang bernilai tinggi kepada Anda. -->
+                                        yang kami terapkan ketika memberikan layanan yang bernilai tinggi kepada Anda.
                                     </p>
                                 </div>
                             </div>

@@ -272,15 +272,12 @@
                                         LOGIQUE can help with the deployment of a simple corporate website with the newest web
                                         services in the Indonesian market, which requires several considerations such as budgets,
                                         resources, and schedule. <br><br>
-                                        LOGIQUE can help with the deployment of a simple corporate website with the newest web
-                                        services in the Indonesian market, which requires several considerations such as budgets,
-                                        resources, and schedule. <br><br>
-                                        <!-- LOGIQUE is flexible. Our trustworthy web development team is expected to adapt
+                                        LOGIQUE is flexible. Our trustworthy web development team is expected to adapt
                                         depending on the situation. Therefore, in response to your expectations, we
                                         can
                                         adjust our
                                         style to your requirements, while providing you with the highest value of
-                                        production. -->
+                                        production.
                                     </p>
                                 </div>
                             </div>
