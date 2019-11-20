@@ -106,7 +106,6 @@
 
         <!-- HEADER -->
         <div class="container-fluid">
-
             <div class="row lang-logo--update-design">
                 <div class="container">
                     <div class="row">
@@ -124,7 +123,6 @@
                     </div>
                 </div>
             </div>
-
         </div>
         <!-- END HEADER -->
 
@@ -159,7 +157,28 @@
         <!-- <br /> -->
 
         <div class="content-wrapper__">
+
             <section class="bg--gray --top">
+                <div class="container__" style="padding:0">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <ol class="breadcrumb breadcrumb--update-design" itemscope
+                                itemtype="http://schema.org/BreadcrumbList">
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                        href="index.php"><span itemprop="name">Home</span></a>
+                                    <meta itemprop="position" content="1" />
+                                </li>
+                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                        itemprop="item"><span itemprop="name">&nbsp;Services</span></a>
+                                    <meta itemprop="position" content="2" />
+                                </li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="bg--gray">
                 <div class="container__">
                     <div class="text-center">
                         <h1 class="title-index">Our Services</h1>
@@ -178,7 +197,7 @@
                             various web-related services, such as web design and development.</p>
                         <div class="our-service__btn-wrapper">
                             <a href="#">
-                                <div class="main-btn --white">Portfolio</div>
+                                <div class="main-btn --black">Portfolio</div>
                             </a>
                             <a href="#">
                                 <div class="main-btn --yellow">Price</div>
@@ -192,34 +211,6 @@
                 <div class="container__">
                     <div class="row">
                         <div class="col-md-offset-1 col-sm-offset-1 col-md-5 col-sm-10">
-                            <div class="service-list__item">
-                                <div>
-                                    <img src="../img/service/list/digital.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <p class="service-list__title">Jasa Pemasaran Digital</p>
-                                    <ul class="service-list__list">
-                                        <a href="#">
-                                            <li>SEO</li>
-                                        </a>
-                                        <a href="#">
-                                            <li>Pemasaran Bisnis Digital</li>
-                                        </a>
-                                        <a href="#">
-                                            <li>Konsultasi Bisnis Digital</li>
-                                        </a>
-                                        <a href="#">
-                                            <li>Pembuatan Konten Website</li>
-                                        </a>
-                                        <a href="#">
-                                            <li>Iklan Digital / Konsultasi</li>
-                                        </a>
-                                        <a href="#">
-                                            <li>Pemasaran Digital</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
                             <div class="service-list__item">
                                 <div>
                                     <img src="../img/service/list/jasaweb.png" alt="" class="service-list__img">
@@ -252,7 +243,32 @@
                                             <li>Website Landing / Kampanye</li>
                                         </a>
                                         <a href="#">
-                                            <li>Blog</li>
+                                            <li>Wordpress</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/digital.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <p class="service-list__title">Jasa Pemasaran Digital</p>
+                                    <ul class="service-list__list">
+                                        <a href="#">
+                                            <li>SEO</li>
+                                        </a>
+                                        <a href="#">
+                                            <li>Konsultasi Bisnis Digital</li>
+                                        </a>
+                                        <a href="#">
+                                            <li>Pembuatan Konten Website</li>
+                                        </a>
+                                        <a href="#">
+                                            <li>Iklan Digital / Konsultasi</li>
+                                        </a>
+                                        <a href="#">
+                                            <li>Pemasaran Digital</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -272,15 +288,6 @@
                                         <a href="#">
                                             <li>Sistem Manajemen Pelanggan atau Keanggotaan</li>
                                         </a>
-                                        <a href="#">
-                                            <li>Website layanan</li>
-                                        </a>
-                                        <a href="#">
-                                            <li>Website Karir</li>
-                                        </a>
-                                        <a href="#">
-                                            <li>Website Restoran</li>
-                                        </a>
                                     </ul>
                                 </div>
                             </div>
@@ -297,6 +304,22 @@
                                         <a href="#">
                                             <li>Pengembangan Aplikasi Mobile</li>
                                         </a>
+                                        <a href="#">
+                                            <li>Pembuatan PWA (Progressive Web App)</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/mobi.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <p class="service-list__title">Jasa Keamanan</p>
+                                    <ul class="service-list__list">
+                                        <a href="#">
+                                            <li>Pengetesan Keamanan Website (VA Test)</li>
+                                        </a>
                                     </ul>
                                 </div>
                             </div>
@@ -308,10 +331,10 @@
                                     <p class="service-list__title">Jasa Lainnya</p>
                                     <ul class="service-list__list">
                                         <a href="#">
-                                            <li>Desain dan Pencetakan Profil Perusahaan/Katalog/Selebaran</li>
+                                            <li>Desain Grafis</li>
                                         </a>
                                         <a href="#">
-                                            <li>Agen Web Server dan Domain</li>
+                                            <li>Cloud Server Management</li>
                                         </a>
                                         <a href="#">
                                             <li>Konsultan Bisnis IT</li>
@@ -329,7 +352,7 @@
 
             <section class="bg--black">
                 <div class="container__">
-                    <div class="product-slogan">
+                    <div class="product-slogan --center-img">
                         <img class="product-slogan__img" src="../img/service/service.png" alt="product">
                         <p class="product-slogan__text">"We create efficient digital products, especially HR management
                             systems to
@@ -349,6 +372,20 @@
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/web.png" alt="">
                                         Portfolio
+                                    </div>
+                                </a>
+                                <a href="#">
+                                    <div class="main-btn --ws --white">
+                                        <div class="web-solution__half-bg--round"></div>
+                                        <img class="web-solution__img" src="../img/service/button/repair.png" alt="">
+                                        Price
+                                    </div>
+                                </a>
+                                <a href="#">
+                                    <div class="main-btn --ws --white">
+                                        <div class="web-solution__half-bg--round"></div>
+                                        <img class="web-solution__img" src="../img/service/button/repair.png" alt="">
+                                        Price
                                     </div>
                                 </a>
                                 <a href="#">
@@ -571,8 +608,14 @@
                             </div>
                         </div>
 
-                        <div class="client-testi__btn-wrapper text-center">
-                            <a class="main-btn --black" href="#">Back to Top</a>
+
+                        <div class="client-testi__btn-wrapper --back-top">
+                            <a href="#">
+                                <div class="main-btn --black">Portfolio</div>
+                            </a>
+                            <a href="#">
+                                <div class="main-btn">Back to Top</div>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -774,8 +817,13 @@
                                     meningkatkan sistem keamanan blog Anda.</p>
                         </div>
                     </div>
-                    <div class="text-center">
-                        <a class="main-btn " href="#">Back to Top</a>
+                    <div class="text-center --back-top">
+                        <a href="#">
+                            <div class="main-btn --black">Portfolio</div>
+                        </a>
+                        <a href="#">
+                            <div class="main-btn">Back to Top</div>
+                        </a>
                     </div>
                 </div>
             </section>
@@ -862,8 +910,13 @@
                                 </div>
                         </div>
                     </div>
-                    <div class="text-center">
-                        <a class="main-btn " href="#">Back to Top</a>
+                    <div class="text-center --back-top">
+                        <a href="#">
+                            <div class="main-btn --black">Portfolio</div>
+                        </a>
+                        <a href="#">
+                            <div class="main-btn">Back to Top</div>
+                        </a>
                     </div>
                 </div>
             </section>
@@ -963,8 +1016,13 @@
                                     voluptatem.</p>
                         </div>
                     </div>
-                    <div class="text-center">
-                        <a class="main-btn " href="#">Back to Top</a>
+                    <div class="text-center --back-top">
+                        <a href="#">
+                            <div class="main-btn --black">Portfolio</div>
+                        </a>
+                        <a href="#">
+                            <div class="main-btn">Back to Top</div>
+                        </a>
                     </div>
                 </div>
             </section>
@@ -1009,8 +1067,13 @@
                                 </div>
                         </div>
                     </div>
-                    <div class="text-center">
-                        <a class="main-btn " href="#">Back to Top</a>
+                    <div class="text-center --back-top">
+                        <a href="#">
+                            <div class="main-btn --black">Portfolio</div>
+                        </a>
+                        <a href="#">
+                            <div class="main-btn">Back to Top</div>
+                        </a>
                     </div>
                 </div>
             </section>
@@ -1081,8 +1144,13 @@
                                 </div>
                         </div>
                     </div>
-                    <div class="text-center">
-                        <a class="main-btn " href="#">Back to Top</a>
+                    <div class="text-center --back-top">
+                        <a href="#">
+                            <div class="main-btn --black">Portfolio</div>
+                        </a>
+                        <a href="#">
+                            <div class="main-btn">Back to Top</div>
+                        </a>
                     </div>
                 </div>
             </section>
