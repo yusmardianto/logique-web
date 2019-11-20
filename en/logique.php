@@ -123,27 +123,42 @@
                     </div>
                 </div>
             </div>
-
         </div>
 
-        <div class="content-wrapper__" style="margin-top:4.5em">
-            <div class="container__">
-                <div class="row">
-                    <div class="col-sm-12">
+        <div class="content-wrapper__">
+            <section class="--top">
+                <div class="container__" style="padding:0">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <ol class="breadcrumb breadcrumb--update-design" itemscope
+                                itemtype="http://schema.org/BreadcrumbList">
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                        href="index.php"><span itemprop="name">Home</span></a>
+                                    <meta itemprop="position" content="1" />
+                                </li>
+                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                        itemprop="item"><span itemprop="name">&nbsp; About Us</span></a>
+                                    <meta itemprop="position" content="2" />
+                                </li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
-                        <section id="about">
+            <section id="about">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-sm-12">
                             <div class="text-center">
                                 <h1 class="title-index">About Us</h1>
                                 <hr class="title__yellow-line--center">
-                                <p class="title__description">LOGIQUE Digital Indonesia is a leading IT consultancy and web
-                                    development company owned by a Japanese entrepreneur based in Jakarta. <br><br>
-                                    As an enterprise with client-orientated goals, our services cater to clients who believe in
-                                    the power and effectiveness of high quality digital marketing; contributing to the cutting
-                                    edge of IT
-                                    development by empowering your company through various web and IT related services and
-                                    products, such as the development of mobile apps (Android and iOS), web and system
-                                    development, SEO, and a
-                                    wide range of further digital marketing services. </p>
+                                <p class="title__description">LOGIQUE is a Japanese owned website and web system development
+                                    company in Jakarta, Indonesia, supporting Japanese companies based in Indonesia. <br><br>
+                                    We support the development and operations of websites and systems, web design, company profile
+                                    landing page development, mobile application for company web system, CMS and recruitment
+                                    management system development, PWA development, SEO, digital ads, and social media campaigns
+                                    for Facebook and Instagram.</p>
                             </div>
 
                             <div class="row">
@@ -158,7 +173,8 @@
                                                         <img src="/img/banner-logo-logique.jpg" alt="Web Developer LOGIQUE 5">
                                                         <div class="custombox__slider-text-wrapper">
                                                             <p class="custombox__slider-text">With over 7 years’ experience in
-                                                                Indonesia, our team is ready to engage in problems specific to the
+                                                                Indonesia, our team is ready to engage in problems specific to
+                                                                the
                                                                 local area.</p>
                                                         </div>
                                                     </div>
@@ -166,7 +182,8 @@
                                                         <img src="/img/slider5.jpg" alt="Web Developer LOGIQUE 5">
                                                         <div class="custombox__slider-text-wrapper">
                                                             <p class="custombox__slider-text">We provide employee monitoring
-                                                                software catering to remote work, which bypasses Jakarta’s high
+                                                                software catering to remote work, which bypasses Jakarta’s
+                                                                high
                                                                 traffic congestion problem. </p>
                                                         </div>
                                                     </div>
@@ -175,7 +192,8 @@
                                                             alt="logique member">
                                                         <div class="custombox__slider-text-wrapper">
                                                             <p class="custombox__slider-text">In addition, our high quality
-                                                                software produces results conforming to an international standard,
+                                                                software produces results conforming to an international
+                                                                standard,
                                                                 as we have much experience serving a wide range of global
                                                                 clientele. </p>
                                                         </div>
@@ -195,7 +213,8 @@
                                                             alt="Web Developer LOGIQUE 1">
                                                         <div class="custombox__slider-text-wrapper">
                                                             <p class="custombox__slider-text">Consult with us, we can be your
-                                                                partner and digital specialist to help improve your business.</p>
+                                                                partner and digital specialist to help improve your business.
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -212,204 +231,165 @@
                                         </div>
 
                                         <p class="custombox__slider-btn">
-                                            Through these means, we strive to help you realize and grow your business in all
-                                            fields.
+                                            Providing one-stop IT services and Digital Marketing
                                         </p>
                                     </div>
                                 </div>
                             </div>
-
-                        </section>
-
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
+            </section>
 
-        <div class="content-wrapper__">
-            <div class="container__">
-                <div class="row">
-                    <div class="col-sm-12">
+            <section id="principle">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <h1 class="title-index">Principles of LOGIQUE</h1>
+                            <hr class="title__yellow-line">
+                            <br>
+                            <a class="career-section__btn" href="portfolio.php">See Portfolio</a>
+                        </div>
 
-                        <section id="principle">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h1 class="title-index">Principles of LOGIQUE</h1>
-                                    <hr class="title__yellow-line">
-                                    <br>
-                                    <a class="career-section__btn" href="portfolio.php">See Portfolio</a>
+                        <div class="col-md-9">
+                            <div class="principle">
+                                <div class="principle__illus">
+                                    <img src="../img/principle/bullseye.png" alt="bullseye">
+                                    <img src="../img/principle/gear.png" alt="gear">
+                                    <img src="../img/principle/shield.png" alt="shield">
+                                    <img src="../img/principle/idea.png" alt="idea">
+                                    <img src="../img/principle/maintenance.png" alt="maintenance">
                                 </div>
 
-                                <div class="col-md-9">
-                                    <div class="principle">
-                                        <div class="principle__illus">
-                                            <img src="../img/principle/bullseye.png" alt="bullseye">
-                                            <img src="../img/principle/gear.png" alt="gear">
-                                            <img src="../img/principle/shield.png" alt="shield">
-                                            <img src="../img/principle/idea.png" alt="idea">
-                                            <img src="../img/principle/maintenance.png" alt="maintenance">
-                                        </div>
-
-                                        <div class="principle__content">
-                                            <p>LOGIQUE emphasizes speed and agility as a response to an era where punctuality is
-                                                essential for a company to thrive in Indonesia. <br><br>
-                                                LOGIQUE seeks to provide high quality services which respond to our client’s needs
-                                                with the maximum desired result. <br><br>
-                                                We are the trusted associates of many high end financial companies and government
-                                                related organizations whose requirements concerning quality and security are
-                                                always
-                                                strictly defined. <br><br>
-                                                LOGIQUE frequently takes on new challenges within the frontier of IT development;
-                                                creating new tech systems in order to evolve and adapt in the burgeoning world of
-                                                the tech
-                                                industry, without the fear of change. <br><br>
-                                                LOGIQUE is flexible. Our trustworthy web development team is expected to adapt
-                                                depending on the situation. Therefore, in response to your expectations, we can
-                                                adjust our
-                                                style to your requirements, while providing you with the highest value of
-                                                production.
-                                            </p>
-                                        </div>
-                                    </div>
+                                <div class="principle__content">
+                                    <p>LOGIQUE is one of the few contract based Japanese web/system production companies in
+                                        Indonesia. With our track record, dealing with major customers, we guarantee delivering
+                                        the best quality. LOGIQUE seeks to provide high quality services by customizing each
+                                        proposal to fulfill customer's needs.<br><br>
+                                        In an era where speed is essential, LOGIQUE values efficiency especially in Indonesia
+                                        where things are always changing and growing rapidly. At times, we will support our
+                                        customers to meet the project deadlines to meet their business goals.<br><br>
+                                        LOGIQUE can help with the deployment of a simple corporate website with the newest web
+                                        services in the Indonesian market, which requires several considerations such as budgets,
+                                        resources, and schedule. <br><br>
+                                        LOGIQUE can help with the deployment of a simple corporate website with the newest web
+                                        services in the Indonesian market, which requires several considerations such as budgets,
+                                        resources, and schedule. <br><br>
+                                        <!-- LOGIQUE is flexible. Our trustworthy web development team is expected to adapt
+                                        depending on the situation. Therefore, in response to your expectations, we
+                                        can
+                                        adjust our
+                                        style to your requirements, while providing you with the highest value of
+                                        production. -->
+                                    </p>
                                 </div>
                             </div>
-                        </section>
-
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
+            </section>
 
-        <div class="content-wrapper__">
-            <div class="container__">
-                <div class="row">
-                    <div class="col-sm-12">
-
-                        <section id="missionStatement">
+            <section class="bg--gray" id="missionStatement">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-sm-12">
                             <h1 class="title-index">Mission Statement</h1>
                             <hr class="title__yellow-line"><br>
                             <div class="row">
-
                                 <div class="col-sm-4">
                                     <h4 class="title-index--bold">GROWTH</h4><br>
-                                    <p>To support a vast range of companies in Indonesia with the goal of growing and improving
-                                        all types of businesses in the IT and Digital Marketing fields while maintaining a high
+                                    <p>To support a vast range of companies in Indonesia with the goal of growing and
+                                        improving
+                                        all types of businesses in the IT and Digital Marketing fields while maintaining a
+                                        high
                                         standard of excellence and values.</p><br>
                                 </div>
-
                                 <div class="col-sm-4">
                                     <h4 class="title-index--bold">INNOVATION</h4><br>
-                                    <p>To contribute to the growth of Web Development and Digital Marketing through changing and
+                                    <p>To contribute to the growth of Web Development and Digital Marketing through changing
+                                        and
                                         improving our strategies and solutions.</p><br>
                                 </div>
-
                                 <div class="col-sm-4">
                                     <h4 class="title-index--bold">OPPORTUNITY</h4><br>
-                                    <p>To provide better opportunities to Indonesian Web Developers by helping them to maximize
+                                    <p>To provide better opportunities to Indonesian Web Developers by helping them to
+                                        maximize
                                         their potential for a better future.</p><br>
                                 </div>
-
                             </div>
-                        </section>
-
+                        </div>
                     </div>
                 </div>
-            </div>
+            </section>
 
-        </div>
-
-        <div class="content-wrapper__" id="careerOpportunity">
-            <section class="career-section">
+            <section class="career-section" id="careerOpportunity">
                 <a class="career-section__btn" href="../career/">See Career Opportunity</a>
             </section>
-        </div>
 
-        <div class="content-wrapper__">
+            <section id="companyOverview">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <img src="../img/company-overview.png" alt="company overview" style="width: 100%">
+                        </div>
+                        <div class="col-sm-8">
+                            <h1 class="title-index">Company Overview</h1>
+                            <hr class="title__yellow-line">
+                            <ul class="company__content">
+                                <li>Company Name</li>
+                                <li class="company__bold">PT. LOGIQUE Digital Indonesia</li>
+                                <hr class="company__divider">
 
-            <div class="container__">
-                <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
+                                <li>Service</li>
+                                <li class="company__bold">IT Consultation, Website Creation, Design Making, System
+                                    Development, Mobile App
+                                    Development,
+                                    Digital Marketing Consulting</li>
+                                <hr class="company__divider">
 
-                        <section id="companyOverview">
-                            <div class="row">
+                                <li>Director</li>
+                                <li class="company__bold">Takashi Yoshitsugu</li>
+                                <hr class="company__divider">
 
-                                <div class="col-sm-4">
-                                    <img src="../img/company-overview.png" alt="company overview" style="width: 100%">
-                                </div>
+                                <li>Number of employees</li>
+                                <li class="company__bold">59 as of Nov 2019</li>
+                                <hr class="company__divider">
 
-                                <div class="col-sm-8">
-                                    <h1 class="title-index">Company Overview</h1>
-                                    <hr class="title__yellow-line">
+                                <li>Head Office Address</li>
+                                <li class="company__bold">Ad Premier Building 19th Floor, Jalan Tb. Simatupang No. 5,
+                                    Pasar Minggu, Jakarta
+                                    12550,
+                                    INDONESIA</li>
+                                <hr class="company__divider">
 
-                                    <ul class="company__content">
-                                        <li>Company Name</li>
-                                        <li class="company__bold">PT. Logique Digital Indonesia</li>
-                                        <hr class="company__divider">
+                                <li>Phone</li>
+                                <li class="company__bold">
+                                    <i class="fa fa-phone"></i>&nbsp; +62(21) 2270 8935 / 36 <br>
+                                    <i class="fa fa-whatsapp"></i>&nbsp; +62 811 870 321
+                                </li>
+                                <hr class="company__divider">
 
-                                        <li>Service</li>
-                                        <li class="company__bold">IT Consultation, Website Creation, Design Making, System
-                                            Development, Mobile App
-                                            Development,
-                                            Digital Marketing Consulting</li>
-                                        <hr class="company__divider">
-
-                                        <li>Director</li>
-                                        <li class="company__bold">Takashi Yoshitsugu</li>
-                                        <hr class="company__divider">
-
-                                        <li>Number of employees</li>
-                                        <li class="company__bold">43 (as of Feb 2019)</li>
-                                        <hr class="company__divider">
-
-                                        <li>Head Office Address</li>
-                                        <li class="company__bold">Ad Premier Building 19th Floor, Jalan Tb. Simatupang No. 5,
-                                            Pasar Minggu, Jakarta
-                                            12550,
-                                            INDONESIA</li>
-                                        <hr class="company__divider">
-
-                                        <li>Phone</li>
-                                        <li class="company__bold">
-                                            <i class="fa fa-phone"></i>&nbsp; +62(21) 2270 8935 / 36 <br>
-                                            <i class="fa fa-whatsapp"></i>&nbsp; +62 811 870 321
-                                        </li>
-                                        <hr class="company__divider">
-
-                                        <li>Development Center</li>
-                                        <li class="company__bold">Yogyakarta ( Kledokan, Kota Yogyakarta )</li>
-                                        <hr class="company__divider">
-                                    </ul>
-
-                                </div>
-
-                            </div>
-
-                        </section>
-
+                                <li>Development Center</li>
+                                <li class="company__bold">Yogyakarta ( Kledokan, Kota Yogyakarta )</li>
+                                <hr class="company__divider">
+                            </ul>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </section>
 
-        </div>
-
-        <div class="content-wrapper__black">
-
-            <div class="container__">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <section id="directorMessage">
+            <section class="bg--black" id="directorMessage">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-sm-12">
                             <div class="row">
-
                                 <div class="col-sm-6">
                                     <h1 class="title-index--white">Director's Profile </h1>
                                     <hr class="title__yellow-line">
-
                                     <div class="director">
-
                                         <div class="director__img">
                                             <img src="/img/yoshi-update.jpg" alt="Takashi Yoshitsugu" class="img-responsive" />
                                         </div>
-
                                         <div class="director__content">
                                             <hr class="title__white-line">
                                             <div>
@@ -417,23 +397,25 @@
                                                 <p style="text-align: justify">Takashi Yoshitsugu was born in Tokyo, Japan in
                                                     1976. In 1999, he graduated from
                                                     the Department of Management Science at Waseda University in Tokyo and
-                                                    possesses a wide range of experience in entrepreneurship and business, getting
-                                                    his start at the Japan Research Institute Inc., the CRM consulting firm, among
+                                                    possesses a wide range of experience in entrepreneurship and business,
+                                                    getting
+                                                    his start at the Japan Research Institute Inc., the CRM consulting firm,
+                                                    among
                                                     others, <br><br>
 
                                                     Until in 2005, when he founded his own e-commerce business, import trading
-                                                    company and consulting firm in his native Japan. He has founded and has been
+                                                    company and consulting firm in his native Japan. He has founded and has
+                                                    been
                                                     operating this enterprise in Indonesia since 2012.</p>
                                             </div>
                                         </div>
-
                                     </div>
                                 </div>
-
                                 <div class="col-sm-6">
                                     <h1 class="title-index--white">Message</h1>
                                     <hr class="title__yellow-line">
-                                    <p class="director__message" style="text-align: justify">“The name ‘LOGIQUE’ is derived from
+                                    <p class="director__message" style="text-align: justify">“The name ‘LOGIQUE’ is derived
+                                        from
                                         the Indonesian word
                                         ‘logika-ku’, which means
                                         ‘Our Logic.’ The idea is rooted in the basic principal of accomplishing our goals
@@ -456,31 +438,28 @@
                                         than happy if our business can contribute to the development of Indonesia, our
                                         clients’ satisfaction, and to our own self-improvement.</p>
                                 </div>
-
                             </div>
-                        </section>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
+            </section>
 
-        <div class="content-wrapper__">
-            <div class="container__">
-                <div class="row">
-                    <div class="col-sm-12">
-
-                        <section id="lgqDoes">
+            <section id="lgqDoes">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-sm-12">
                             <div class="text-center">
                                 <h1 class="title-index">What LOGIQUE Does</h1>
                                 <hr class="title__yellow-line--center">
-                                <p class="title__description">We provide a wide array of IT centered services, ranging from web
+                                <p class="title__description">We provide a wide array of IT centered services, ranging from
+                                    web
                                     design
-                                    and system development, as well as digital marketing. We have also created an HR Cloud Tool to
+                                    and system development, as well as digital marketing. We have also created an HR Cloud
+                                    Tool to
                                     solve business problems in Indonesia. Feel free to contact us if you are interested in our
                                     services and products!
                                 </p>
                             </div>
-
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="custombox__product-wrapper">
@@ -491,7 +470,6 @@
                                         </div>
                                     </div>
                                 </div>
-
                                 <div class="col-sm-6">
                                     <div class="custombox__product-wrapper">
                                         <div class="custombox__product-list">
@@ -502,57 +480,40 @@
                                     </div>
                                 </div>
                             </div>
-
-                        </section>
-
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
+            </section>
 
-        <div class="content-wrapper__" style="padding:0;">
-            <div class="container__">
-                <div class="row">
-                    <div class="col-sm-12">
-
-                        <section id="contact">
-
-                            <div class="row">
-
-                                <div class="col-sm-5">
-                                    <h1 class="title-index" style="margin-bottom:0">Contact Logique</h1>
-                                    <p>if you need help with:</p>
-                                    <br>
-                                    <hr class="title__yellow-line">
-                                    <img src="../img/contact.png" style="width:100%" alt="contact">
-                                </div>
-
-                                <div class="col-sm-7">
-                                    <ul class="lgq-does__list">
-                                        <li>Developing a website </li>
-                                        <li>Updating your website’s system</li>
-                                        <li>Developing a web system</li>
-                                        <li>Creating and designing a campaign or website landing page</li>
-                                        <li>Outsourcing website operations.</li>
-                                        <li>Increasing access to your website with SEO.</li>
-                                        <li>Organizing and running an online promotion strategy.</li>
-                                        <li>Searching for leasing web servers and companies to manage them.</li>
-                                        <li>Searching for a printing service catering to company profiles and brochures.</li>
-                                        <li>etc.</li>
-                                    </ul>
-
-                                    <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">Contact Us Now</a>
-
-
-                                </div>
-
-                            </div>
-
-                        </section>
-
+            <section id="contact">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-sm-5">
+                            <h1 class="title-index" style="margin-bottom:0">Contact Logique</h1>
+                            <p>if you need help with:</p>
+                            <br>
+                            <hr class="title__yellow-line">
+                            <img src="../img/contact.png" style="width:100%" alt="contact">
+                        </div>
+                        <div class="col-sm-7">
+                            <ul class="lgq-does__list">
+                                <li>Developing a website </li>
+                                <li>Updating your website’s system</li>
+                                <li>Developing a web system</li>
+                                <li>Creating and designing a campaign or website landing page</li>
+                                <li>Outsourcing website operations.</li>
+                                <li>Increasing access to your website with SEO.</li>
+                                <li>Organizing and running an online promotion strategy.</li>
+                                <li>Searching for leasing web servers and companies to manage them.</li>
+                                <li>Searching for a printing service catering to company profiles and brochures.</li>
+                                <li>etc.</li>
+                            </ul>
+                            <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">Contact Us Now</a>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </section>
+
         </div>
 
         <?php include 'footer.php';?>
