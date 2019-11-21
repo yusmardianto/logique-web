@@ -65,7 +65,7 @@
     "skills": "Memiliki pengetahuan yang baik tentang cloud server, Project Management skill, Business English level",
     "baseSalary": {
       "@type": "MonetaryAmount",
-      "value": "",
+      "value": "20000000",
       "currency": "IDR"
     },
     "workHours": "40 hours per week"

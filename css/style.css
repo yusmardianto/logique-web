@@ -274,7 +274,21 @@ section.maintop {
     margin-left: 95px;
 }
 
+.content-wrapper__ .--top {
+    margin-top: 4.3em;
+}
+
+.content-wrapper__ .bg--black {
+    background-color: #000;
+    color: #fff;
+}
+
+.content-wrapper__ .bg--gray {
+    background-color: #eae9eb;
+}
+
 @media (max-width: 500px) {
+    .content-wrapper__ .--top,
     .top--.content-wrapper__ {
         margin-top: 6.5em !important;
     }
@@ -307,6 +321,11 @@ section.maintop {
     padding-bottom: 2.5em;
     margin: 0 auto;
 }
+
+#contentPortfolio .container__ {
+    padding-top: 0;
+}
+
 
 @media (max-width: 500px) {
     .container__ {
@@ -612,6 +631,10 @@ section.maintop {
     justify-content: space-around;
 }
 
+.case-study__img-wrapper img {
+    max-height: 102px;
+}
+
 .btn-see-more,
 .btn-service-link {
     background: #ffca13;
@@ -837,13 +860,20 @@ section.maintop {
 .custombox__btn-product {
     position: absolute;
     background-color: #ffca13;
-    border: none;
+    border: solid 2px #ffca13;
     color: #000;
     padding: 0.5em 2em;
     border-radius: 5px;
     bottom: -20px;
     right: 50%;
     transform: translateX(50%);
+    transition: all .3s;
+}
+
+.custombox__btn-product:hover {
+    background-color: #000;
+    border-color: #000;
+    color: #fff;
 }
 
 .custombox__slider {
@@ -1065,12 +1095,21 @@ section.maintop {
 
 .career-section__btn {
     background-color: #ffca13;
+    border: solid 2px #ffca13;
     border-radius: 10px;
     align-self: center;
     justify-self: center;
     /* padding: 1% 4%; */
     padding: 10px 35px;
     color: #000;
+    transition: all .3s;
+}
+
+.career-section__btn:hover {
+    background-color: #000;
+    border-color: #000;
+    color: #fff;
+    text-shadow: 0 0 1px currentColor;
 }
 
 @media (max-width: 991px) {
@@ -1350,8 +1389,15 @@ section.maintop {
 
 .btn--yellow {
     background-color: #ffca13;
-    border-radius: 10px;
+    border: solid 2px #ffca13;
+    border-radius: 8px;
     padding: 10px 35px;
+    color: #000;
+    transition: all .3s;
+}
+
+.btn--yellow:hover {
+    background-color: #fff;
     color: #000;
 }
 
@@ -1518,6 +1564,7 @@ section.maintop {
     flex-direction: column;
     justify-content: center;
     box-shadow: 2px 4px 9px 2px #ccc;
+    transition: all .3s;
 }
 
 .page-nav__btn:hover {
@@ -1623,6 +1670,10 @@ section.maintop {
     border-radius: 8px;
     margin-bottom: 15px;
     box-shadow: 2px 4px 9px 2px #ccc;
+}
+
+.portfolio-sec-cs__img img {
+    max-height: 102px;
 }
 
 .modal-open .modal {
@@ -1818,6 +1869,23 @@ section.maintop {
     float: right;
     background: #000;
     border-radius: 5px
+}
+
+.breadcrumb--update-design {
+    font-size: 16px;
+    padding: 1.5em 15px;
+    padding-left: 0;
+    background-color: transparent;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.breadcrumb--update-design a {
+    color: #ffca13;
+}
+
+.breadcrumb--update-design li.active a {
+    color: #000;
 }
 
 .lang-logo--update-design .breadcrumb,
@@ -3464,6 +3532,14 @@ blockquote::before {
     border: 2px solid #ffca13;
     white-space: normal;
     margin-top: 25px
+}
+
+#contact .btn-contact-us-black {
+    transition: all .3s;
+}
+
+#contact .btn-contact-us-black:hover {
+    background-color: #ffca13;
 }
 
 .our-portfolio .btn-contact-us-black:focus,

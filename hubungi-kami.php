@@ -64,6 +64,26 @@ if(isset($_POST['submitted']))
 	div.row{
 		width: 100%;
 	}
+
+	.breadcrumb{
+		padding: 0;
+	}
+	
+	.breadcrumb-position{
+		position: relative;
+		left: -8em;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-start;
+	}	
+	
+	.breadcrumb>li, .breadcrumb li a{
+		color: #ffd02a;
+		font-size: medium;
+	}
+	.breadcrumb>.active, .breadcrumb li.active a{
+		color: #000;
+	}
 	
 	.text-left{
 		text-align: left;
@@ -114,7 +134,24 @@ if(isset($_POST['submitted']))
 		padding: 1em 2em;
 	}
 	
+	.box-link{
+		color:#000;
+	}
+	
+	.box-link:hover{
+		opacity: 1;
+		color: #000;
+	}
+	
+	.yellow-box:hover{
+		background: #ffc6007a;
+	}
+	
 	/* Custom Checkbox */
+	.checkbox label{
+		padding-left: 0;
+	}
+	
 	.checkbox label:after {
 		content: '';
 		display: table;
@@ -126,8 +163,8 @@ if(isset($_POST['submitted']))
 		display: inline-block;
 		border: 1px solid #a9a9a9;
 		border-radius: .25em;
-		width: 1.3em;
-		height: 1.3em;
+		width: 1.7em;
+		height: 1.7em;
 		float: left;
 		margin-right: .5em;
 	}
@@ -160,7 +197,7 @@ if(isset($_POST['submitted']))
 		font-size:30px;
 		font-weight:bold;
 		text-align:center;
-		background:#fff;
+		background:#f4f4f4;
 		padding: 10px 25%;
 		line-height: 1.3;
 	}
@@ -385,7 +422,15 @@ if(isset($_POST['submitted']))
 		height: 100px;
 	}
 	
+	.lang-logo{
+		float: right;
+		position: unset;
+	}
+	
 	@media (max-width: 1024px){
+		.breadcrumb-position{
+			left: -6em;
+		}
 		.contact-us-cont{
 			width: 100%;
 		}
@@ -420,6 +465,9 @@ if(isset($_POST['submitted']))
 		.float-box{
 			top: -95px;
 		}
+		.lang-logo{
+			margin-top: 0;
+		}
 	}
 	
 	.overflow-auto{
@@ -442,6 +490,9 @@ if(isset($_POST['submitted']))
 	}
 	
 	@media only screen and (max-width: 768px){
+		.breadcrumb-position{
+			left: -5em;
+		}
 		.d-title{
 			font-size: small;
 		}
@@ -454,13 +505,31 @@ if(isset($_POST['submitted']))
 		.contact-us-cont{
 			width: 100%;
 		}
+		.d-title-large{
+			font-size: larger;
+		}
 	}
 	@media screen and (max-width: 480px) {
 		#contentsArea{
 			margin:unset;
 		}
+		.breadcrumb-position{
+			left: -85px;
+			top: -15px;
+		}
 		.float-box{
 			top: -80px;
+		}
+		.lang-logo{
+			float: left;
+		}
+		.checkbox label{
+			font-size: small;
+			font-weight: 500;
+		}
+		.checkbox .cr{
+			width: 1.7em;
+			height: 1.7em;
 		}
 	}
 </style>
@@ -533,13 +602,33 @@ if(isset($_POST['submitted']))
 		
 		<div id="contentsArea">
 			<div class="clearfix" id="contents">
+				<div class="col-md-11 col-md-offset-1 col-sm-11 col-sm-offset-1" style="background: #fff;">
+					<a href="index.php"><img src="../img/logo.png" alt="Logo" class="logo hidden-xs"/></a>
+					<div class="lang-logo">
+						<ul class="list-inline">
+							<li><a href="../en/contact.php">EN</a></li>
+							<li class="active"><a href="#">ID</a></li>
+							<li><a href="../jp/contact.php">JP</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="clearfix"></div>
 				<!-- header -->
-				<div class="contact-title-copies">
+				<div class="contact-title-copies mt-12">
+					<div class="breadcrumb-position">
+						<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList" style="background:transparent;">
+							<li class="" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
+							<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" ><span itemprop="name">Hubungi Kami</span></a><meta itemprop="position" content="3" /></li>
+						</ol>
+					</div>
+					<br>
 					<span style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px;">Contact Us</span>
 				</div>
-				<div class="form-container col-sm-12" style="padding-top: 10px;">
+				<div class="form-container col-sm-12 bg-grey" style="padding-top: 10px;">
 					<div class="text-center container contact-us-cont">
-						Terima kasih Anda telah tertarik dengan seluruh layanan yang kami tawarkan. Jika Anda ingin mendapatkan informasi lebih lanjut dengan seluruh layanan kami, seperti pembuatan web, pengembangan sistem web, seo dan berbagai permasalahan di dunia digital lainnya, Kalian dapat menghubungi dan bertanya apapun kepada kami melalui tombol di bawah ini:
+						Terima kasih Anda telah tertarik dengan seluruh layanan yang kami tawarkan. Jika Anda ingin mendapatkan informasi lebih lanjut dengan seluruh layanan kami, 
+						seperti pembuatan web, pengembangan sistem web, seo dan berbagai permasalahan di dunia digital lainnya, Kalian dapat menghubungi dan bertanya apapun kepada 
+						kami melalui tombol di bawah ini
 					</div>
 				</div>
 				<div class="form-container col-md-12 col-sm-12" style="height: fit-content; background: #000;">
@@ -548,7 +637,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<div class="col-md-4 col-sm-5" style="padding: 32px 0;">
 						<dt class="d-title" style="color: #fff; text-align: left;">
-							Menawarkan Anda solusi dari permasalahan bisnis Anda di dunia digital kapan pun dan dimana pun.
+							Menawarkan Anda solusi dari permasalahan bisnis Anda di dunia digital kapan pun dan dimana pun
 						</dt>
 						<br>
 						<a class="btn btn-hubungi smooth" href="#anchorForm" style="font-size: medium; font-weight: 600;">
@@ -562,9 +651,9 @@ if(isset($_POST['submitted']))
 					<div class="col-sm-5 col-sm-offset-1" style="padding: 1em 0;">
 						<img class="" src="img/kontak-img.jpg" alt="Hubungi Kami Logique" style="width: 100%; height: auto; max-width: 500px; object-fit: scale-down; border: 2px solid black; padding: 2%;"/>
 					</div>
-					<div class="col-sm-5" style="padding-top: 5%;">
-						<dt class="d-title" style="background: #ffd02a; padding:6px;">
-							Kami dapat membantu bisnis Anda, jika Anda menganggap bahwa Web merupakan kunci dari kesuksesan bisnis Anda.
+					<div class="col-md-5 col-sm-6" style="padding-top: 5%;">
+						<dt class="d-title" style="background: #ffd02a; padding:1em;">
+							Kami dapat membantu bisnis Anda, jika Anda menganggap bahwa Web merupakan kunci dari kesuksesan bisnis Anda
 						</dt>
 						<p class="d-description">
 							Dengan pengalaman selama lebih dari 5 tahun, membuat Logique banyak dipercaya oleh
@@ -575,7 +664,7 @@ if(isset($_POST['submitted']))
 					</div>
 					<br>
 					<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-						<dt class="d-title" style="margin-top: 3%;">Silahkan menghubungi kami untuk pembuatan website, media sosial, konsultasi seputar web, atau design.</dt>
+						<dt class="d-title" style="margin-top: 3%;">Silahkan menghubungi kami untuk pembuatan website, media sosial, konsultasi seputar web, atau design</dt>
 						<hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;">
 					</div>
 					
@@ -598,44 +687,44 @@ if(isset($_POST['submitted']))
 							<input type='hidden' name='submitted' id='submitted' value='1'/>
 							<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11" id="anchorForm">
 								<label for="companyname" class="c-label">Nama Perusahaan</label>
 								<div class="form-group">
 									<input type="text" class="form-control" id="companyname" name="companyname" aria-label="Company Name" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="NAMA PERUSAHAAN">
 								</div>
 							</div> 
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<label for="name" class="c-label">Nama</label>
 								<div class="form-group">
 									<input type="text" class="form-control" id="name" name="name" aria-label="Name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAMA">
 								</div>
 							</div>
 							
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<label for="phone" class="c-label">Nomor Telepon</label>
 								<div class="form-group">
 									<input type="number" class="form-control" id="phone" name="phone" aria-label="Phone" value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="NOMOR TELEPON">
 								</div>
 							</div>
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<label for="email" class="c-label">Email</label>
 								<div class="form-group">
 									<input type="email" class="form-control" id="email" name="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
 								</div>
 							</div>
 							
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<label for="message" class="c-label">Message</label>
 								<div class="form-group" style="margin-top: 10px;">
 									<textarea class="form-control" name="message" aria-label="Message" placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
 								</div>
 							</div>
 							
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<b>Anda butuh bantuan LOGIQUE untuk:</b>  <i>(Anda boleh memilih lebih dari satu)</i>
 							</div>
 							
-							<div class="col-md-8 col-md-offset-2 col-sm-7 col-sm-offset-2">
+							<div class="col-md-8 col-md-offset-2 col-sm-11">
 								<div class="checkbox">
 									<label>
 										<input type="checkbox" name="inquiry[]" value="Mengembangkan sebuah website">
@@ -690,7 +779,7 @@ if(isset($_POST['submitted']))
 								<div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
 								<div class="clearfix"></div><br>
 							</div>
-							<div class="col-sm-3 col-sm-offset-4 paddingleft">
+							<div class="col-sm-4 col-sm-offset-3 paddingleft">
 								<button type="submit" class="btn btn-block" onclick="ga('send', 'event', 'Button-Kirim', 'Action-Click', 'Button-Kirim-Label');" style="background: #f4ce58;">Kirim</button>
 							</div>
 						</form>
@@ -698,9 +787,9 @@ if(isset($_POST['submitted']))
 				</div>
 				
 				<div class="bg-grey clearfix" style="padding-bottom: 10%;">
-					<div class="title-bg-grey col-lg-11 col-lg-offset-1 col-md-11 col-md-offset-1">
+					<div class="d-title-large title-bg-grey col-lg-11 col-lg-offset-1 col-md-11 col-md-offset-1">
 						Jika Anda ingin mendapatkan informasi lebih lanjut mengenai berbagai hal yang berkaitan dengan Logique, Silahkan 
-						pilih salah satu opsi di bawah ini:
+						pilih salah satu opsi di bawah ini
 						<div class="col-sm-12">
 							<hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;">
 						</div>
@@ -708,32 +797,40 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-12 float-box" style="margin-top: 24px; position: relative;">
 					<div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 12px;">
-						<div class="yellow-box">
-							<img class="img-box" src="img/global_1.png" alt="">
-							<dt>Layanan</dt>
-						</div>
+						<a class="box-link" href="layanan.php">
+							<div class="yellow-box">
+								<img class="img-box" src="img/global_1.png" alt="">
+								<dt>Layanan</dt>
+							</div>
+						</a>
 					</div>
 					<div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 12px;">
-						<div class="yellow-box">
-							<img class="img-box" src="img/hr.png" alt="">
-							<dt>Produk</dt>
-						</div>
+						<a class="box-link" href="produk.php">
+							<div class="yellow-box">
+								<img class="img-box" src="img/hr.png" alt="">
+								<dt>Produk</dt>
+							</div>
+						</a>
 					</div>
 					<div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 12px;">
-						<div class="yellow-box">
-							<img class="img-box" src="img/group_3.png" alt="">
-							<dt>Tentang Kami</dt>
-						</div>
+						<a class="box-link" href="logique.php">
+							<div class="yellow-box">
+								<img class="img-box" src="img/group_3.png" alt="">
+								<dt>Tentang Kami</dt>
+							</div>
+						</a>
 					</div>
 					<div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 12px;">
-						<div class="yellow-box">
-							<img class="img-box" class="" src="img/promotion_1.png" alt="">
-							<dt>Karir</dt>
-						</div>
+						<a class="box-link" href="/career/">
+							<div class="yellow-box">
+								<img class="img-box" class="" src="img/promotion_1.png" alt="">
+								<dt>Karir</dt>
+							</div>
+						</a>
 					</div>
 				</div>
 				<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1">
-					<div class="d-title text-center"><b>Prosedur Permintaan Informasi</b></div>
+					<div class="d-title-large title-bg-grey text-center"><b>Prosedur Permintaan Informasi</b></div>
 					<div class="col-sm-12">
 						<hr class="col-sm-2 col-sm-offset-5 bar-yellow" style="padding: 5px 0; border: none;">
 					</div>
@@ -797,7 +894,7 @@ if(isset($_POST['submitted']))
 				</div>
 				<div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-12" style="margin-top: 1em;">
 					<div class="clearfix" style="padding-left: 1em;">
-						<dt class="d-title">Pertanyaan yang sering diajukan:</dt>
+						<dt class="d-title-large title-bg-grey" style="text-align: left;">Pertanyaan yang sering diajukan:</dt>
 						<hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
 					</div>
 					<div class="container mt-12" id="accordion" style="width:100%;">
@@ -942,68 +1039,6 @@ if(isset($_POST['submitted']))
 				</div>
 			</div>
 		</div>
-		
-		<!-- dummy -->
-		<!-- <div>
-			<br>
-			<div class="klien-flow contact-flow row">
-				<div class="col-sm-3">
-					<div class="div-for-workflow">
-						<div class="valign-center">
-							Kami akan menghubungi Anda dalam 2 hari kerja.
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-3">
-					<div class="div-for-workflow">
-						<div class="valign-center">
-							Kami akan mengkonfirmasi beberapa hal dengan Anda.
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-3">
-					<div class="div-for-workflow">
-						<div class="valign-center">
-							Kami akan mendetilkan kebutuhan serta membuatkan proposal proyek untuk Anda. 
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-3">
-					<div class="div-for-workflow">
-						<div class="valign-center">
-							Pembuatan kontrak dan memulai pengerjaan proyek.
-						</div>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-			
-			<div class="label-questions">Pertanyaan yang sering diajukan:</div>
-			<div class="question">Apakah memungkinkan bagi Anda untuk memproses proyek menggunakan Bahasa Inggris?</div>
-			<div class="answer">Pada umumnya bisa saja, tapi mungkin akan ada beberapa kesulitan ketika memprosesnya dalam bahasa Inggris. Namun, Anda tidak perlu khawatir sebab kebanyakan dari staff kamu mampu berkomunikasi dengan bahasa Inggris cukup untuk memproses proyek tersebut. Kami juga menerima proyek yang berasal dari perusahaan di luar negeri.</div>
-			<br/>
-			<div class="question">Dapatkah Anda mengadakan pertemuan di luar negeri?</div>
-			<div class="answer">Terkait hal ini kami akan mendiskusikannya dengan Anda terlebih dahulu. Biasanya kami menawarkan percakapan via video seperti Skype untuk melakukan hal tersebut, tapi kami juga dapat bersikap fleksibel tergantung dari kondisi dan kasus yang dihadapi.</div><br/>
-			
-			<div class="question">Kami berpikir untuk mengganti outsourcer sistem atau website kami dan dengan tim Anda.</div>
-			<div class="answer">Silahkan hubungi kami jika Anda berpikir seperti itu, jangan ragu dan khawatir perihal dokumentasi dan sebagainya. Sebab, pada beberapa kasus yang telah kami alami, kami dapat mengelola dan mengoperasikan web / sistem meskipun dengan dokumentasi yang minim selama outsourcer sebelumnya menggunakan teknologi yang pada umumnya telah dipakai.</div><br/>
-			
-			<div class="question">Kami mencari developer untuk membangun sebuah sistem manajemen untuk bisnis kami.</div>
-			<div class="answer">Dengan pengalaman kami sebagai pengembang sistem, kami dapat mengembangkan berbagai macam sistem, seperti sistem manajemen pelanggan, sistem manajemen peminjaman, sistem rekrutmen, sistem penunjuk, e-commerce, sistem manajemen konten, dan lain-lain. Kami juga ahli dalam pengembangan sistem dengan teknologi website yang umumnya digunakan. Silahkan hubungi kami untuk berdiskusi dan menanyakan hal ini lebih lanjut.</div><br/>
-			
-			<div class="question">Kami ingin bermitra atau menjadi distributor LOGIQUE.</div>
-			<div class="answer">Mari kita bicarakan hal ini secara rinci. Silahkan kunjungi kantor kami jika Anda mempunyai rencana ke Jakarta.</div><br/>
-			
-			<div class="question">Kami ingin membuat aplikasi Android atau iOS (iPhone).</div>
-			<div class="answer">Kami mampu mengembangkan aplikasi Android dan iOS untuk Anda. Jika Anda inginkan, kami dapat merencanakan pembuatan aplikasi tersebut untuk Anda.</div><br/>
-			
-			<div class="question">Kami ingin mencetak alat pemasaran tapi apakah Anda juga menyediakan layanan pencetakan selain desain?</div>
-			<div class="answer">Tentu saja kami dapat membantu mendesain dan mencetak pamflet sekaligus untuk Anda. Selain itu, kami juga bisa mendesain dan mencetak produk lainnya seperti kaos. Namun, jika Anda ingin mencetak sesuatu yang sangat sulit, lebih baik Anda mencari perusahaan percetakan khusus. Kami juga dapat memperkenalkan kepada Anda perusahaan yang kami tahu jika Anda menginginkannya.</div><br/>
-			
-			<div class="question">Apakah Anda mampu mengimplementasikan SEO dalam bahasa Indonesia?</div>
-			<div class="answer">Ya, kami mempunyai keahlian SEO yang kami tunjukkan di berbagai situs yang telah berada di deretan paling atas pada berbagai industri, seperti keuangan, perjalanan, pendidikan, dan lain-lain. Tim kami terdiri dari penulis konten dan pemasaran yang berasal dari Indonesia yang akan memberikan hasil terbaik untuk pelayanan SEO bagi Anda. Selain itu, kami juga dapat menerapkan SEO dalam bahasa Inggris dan Jepang dengan baik.</div><br/>						
-			
-		</div> -->
 		
 		<?php include 'footer.php';?>
 		<script>
