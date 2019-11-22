@@ -17,7 +17,16 @@
     font-family: 'Raleway', 'sans-serif';
 }
 
-
+html {
+    scroll-behavior: smooth;
+}
+:target::before {
+    content: "";
+    display: block;
+    height: 70px !important;
+    margin: -70px 0 0 !important;
+    /* background: #fff; */
+}
 a,b,body,caption,center,dd,div,em,footer,form,h1,h2,h3,h4,h5,h6,header,html,i,iframe,img,label,li,menu,nav,ol,p,section,small,span,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,u,ul,video {
     margin: 0;
     padding: 0;
@@ -280,7 +289,6 @@ section.maintop {
 .content-wrapper__ .--top {
     margin-top: 4.5em;
 }
-
 .content-wrapper__ .bg--gray {
     background-color: #eae9eb;
 }
@@ -958,38 +966,53 @@ section.maintop {
 }
 
 @media (min-width: 416px) and (max-width: 767px) {
+    #testimonials .carousel-control,
     #about #profile .carousel-control {
         height: 40px !important;
         width: 40px !important;
     }
+
+    .carousel-control .icon-prev, .carousel-control .icon-next, .carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right {
+        transform: translateY(-50%) !important; 
+    }
+
     #about .carousel-control .icon-prev,
     #about .carousel-control .icon-next,
     #about .carousel-control .glyphicon-chevron-left,
     #about .carousel-control .glyphicon-chevron-right {
         transform: translateY(-50%);
     }
+    #testimonials .carousel-control.left,
     #about #profile .carousel-control.left {
         left: -50px !important;
     }
+    #testimonials .carousel-control.right,
     #about #profile .carousel-control.right {
         right: -50px !important;
     }
 }
 
 @media (max-width: 415px) {
+    #testimonials .carousel-control,
     #about #profile .carousel-control {
         height: 35px !important;
         width: 35px !important;
     }
+    .slider--update-design .carousel-control .icon-prev,
+    .slider--update-design .carousel-control .icon-next,
+    .slider--update-design .carousel-control .glyphicon-chevron-left,
+    .slider--update-design .carousel-control .glyphicon-chevron-right,
     #about .carousel-control .icon-prev,
     #about .carousel-control .icon-next,
     #about .carousel-control .glyphicon-chevron-left,
     #about .carousel-control .glyphicon-chevron-right {
         transform: translateY(-50%);
     }
+    #testimonials .carousel-control.left,
     #about #profile .carousel-control.left {
         left: -40px !important;
     }
+    #testimonials .carousel-control.right,
     #about #profile .carousel-control.right {
         right: -40px !important;
     }
@@ -1022,6 +1045,7 @@ section.maintop {
     #about #profile.carousel img {
         height: 150px !important;
     }
+    #testimonials .carousel-control,
     #about #profile .carousel-control {
         height: 20px !important;
         width: 20px !important;
@@ -1044,14 +1068,17 @@ section.maintop {
     #about .carousel-control .glyphicon-chevron-right {
         top: 4px;
     }
+    #testimonials .carousel-control.left,
     #about #profile .carousel-control.left {
         left: -25px !important;
     }
+    #testimonials .carousel-control.right,
     #about #profile .carousel-control.right {
         right: -25px !important;
     }
 }
 
+#testimonials .carousel-control,
 #about #profile .carousel-control {
     background-color: #ffcf2a;
     color: black;
@@ -1064,13 +1091,23 @@ section.maintop {
     opacity: 1;
 }
 
+#testimonials .carousel-control.right,
+#testimonials .carousel-control.left,
 #about #profile .carousel-control.right,
 #about #profile .carousel-control.left {
     background-image: none;
 }
 
+#testimonials .carousel-control.left {
+left: -70px;
+}
+
 #about #profile .carousel-control.left {
     left: -65px;
+}
+
+#testimonials .carousel-control.right {
+    right: -70px;
 }
 
 #about #profile .carousel-control.right {
@@ -1687,15 +1724,6 @@ section.maintop {
     top: 10%;
 }
 
-:target::before {
-    content: "";
-    display: block;
-    height: 120px; /* fixed header height*/
-    margin: -120px 0 0; /* negative fixed header height */
-    visibility: hidden;
-  }
-
-
   section#webDev, section#sysDev, section#caseStudy, section#PWA, section#others {
     padding: 0 15px;
   }
@@ -1881,7 +1909,7 @@ section.maintop {
 .breadcrumb--update-design {
     font-size: 16px;
     padding: 1.5em 15px;
-    padding-left: 0;
+    /* padding-left: 0; */
     background-color: transparent;
     font-weight: bold;
     margin-bottom: 0;
