@@ -7,7 +7,7 @@
   border: solid 1px black;
   border-radius: 7px;
   padding: 10px 25px;
-  margin: 0 10px;
+  margin: 10px;
   min-width: 130px;
   cursor: pointer;
   font-size: 18px;
@@ -17,7 +17,8 @@
 
 .--back-top .main-btn {
   min-width: 180px;
-  margin: 0 25px;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 .main-btn:hover {
@@ -61,6 +62,8 @@
   font-weight: bold;
   font-size: 20px;
   margin-bottom: 20px;
+  text-decoration: underline;
+  color: #000;
 }
 
 .service-list__list {
@@ -74,26 +77,46 @@
 .web-solution__btn-wrapper {
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: flex-start;
-  min-height: 350px;
+  min-height: 425px;
 }
+
+/* JP PAGE */
+.jp-page .web-solution__btn-wrapper {
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: baseline;
+  min-height: auto;
+}
+
+.jp-page .web-solution__btn-wrapper .--ws {
+  display: flex;
+  align-items: center;
+  min-height: 80px;
+  width: 235px;
+  min-width: auto;
+}
+.jp-page .web-solution__half-bg--round {
+  left: -40%;
+}
+/* END JP PAGE */
 
 .web-solution__btn-wrapper .--ws {
   margin: 9px 10px;
-  min-width: 320px;
+  min-width: 350px;
   position: relative;
   overflow: hidden;
   color: #000;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .web-solution__half-bg--round {
   background-color: #ffca13;
   position: absolute;
-  height: 180px;
-  width: 180px;
+  height: 190px;
+  width: 190px;
   border-radius: 50%;
   top: 50%;
   left: -30%;
@@ -183,7 +206,7 @@
 
 .service-detail__side-img img {
   max-width: 230px;
-  padding: 20px 5px;
+  padding: 15px 5px;
 }
 
 .service-detail__side-img--left {
@@ -192,6 +215,10 @@
 
 .service-detail__side-img--right {
   align-self: flex-end;
+}
+
+.service-detail__side-img--center {
+  align-self: center;
 }
 
 #testimonials blockquote {
@@ -249,4 +276,41 @@
 
 .--center-img .product-slogan__text {
   width: 60%;
+}
+
+/* TABLET RESPONSIVE */
+@media only screen and (max-width: 768px) {
+  .web-solution__btn-wrapper {
+    flex-wrap: wrap;
+  }
+}
+
+/* MOBILE RESPONSIVE */
+@media only screen and (max-width: 414px) {
+  .web-solution__btn-wrapper,
+  .--back-top {
+    flex-wrap: wrap;
+  }
+  .workflow__img {
+    max-width: 100px;
+  }
+  .workflow__item {
+    padding-bottom: 0;
+  }
+  .workflow__item:last-child {
+    background-size: 70% 50%;
+  }
+}
+
+/* MOBILE RESPONSIVE XS*/
+@media only screen and (max-width: 320px) {
+  .workflow__img {
+    max-width: 80px;
+  }
+  /* .workflow__item {
+    padding-bottom: 0;
+  }
+  .workflow__item:last-child {
+    background-size: 70% 50%;
+  } */
 }

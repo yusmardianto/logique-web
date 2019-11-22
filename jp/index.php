@@ -271,7 +271,7 @@
                 </div>
             </div>
 
-            <div class="row container__custom-white">
+            <div class="row container__custom-white" style="overflow-x:visible">
                 <div class="container ">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
