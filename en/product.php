@@ -126,217 +126,215 @@
         </div> <!-- END HEADER -->
 
         <!-- CONTENT -->
-        <div>
-            <div class="top-- content-wrapper__gray" style="margin-top: 4.5em">
-                <div class="container__">
-
-                    <section>
-                        <div class="text-center">
-                            <h1 class="title-index">Our Products</h1>
-                            <hr class="title__yellow-line--center">
-                            <p class="title__description">In order to help companies grow and improve in a digital era,
-                                LOGIQUE creates and develops digital products regarding HR management systems for better
-                                employee organization and therefore improved productivity. </p>
-                            <div class="product-list">
-                                <img class="product-list__img" src="/img/top/i-dokodemo.png" alt="dokodemo">
-                                <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
-                                <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
-                            </div>
-                            <p class="title__description">Ranging from solutions to increase worker output through flexible
-                                working methods, man-hour
-                                cost management through daily reports, to recruitment management systems which greatly assist
-                                in finding the most qualified employees in the most efficient manner possible.</p>
+        <div class="content-wrapper__">
+            <section class="bg--gray --top">
+                <div class="container__" style="padding:0">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <ol class="breadcrumb breadcrumb--update-design" itemscope
+                                itemtype="http://schema.org/BreadcrumbList">
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                        href="index.php"><span itemprop="name">Home</span></a>
+                                    <meta itemprop="position" content="1" />
+                                </li>
+                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                        itemprop="item"><span itemprop="name">&nbsp;Product</span></a>
+                                    <meta itemprop="position" content="2" />
+                                </li>
+                            </ol>
                         </div>
-                    </section>
-
+                    </div>
                 </div>
-            </div>
+            </section>
 
-            <div class="content-wrapper__black" style="margin-bottom: 4%;">
+            <section class="bg--gray">
                 <div class="container__">
-
-                    <section>
-                        <div class="product-slogan">
-                            <img class="product-slogan__img" src="../img/product/product.png" alt="product">
-                            <p class="product-slogan__text">"We create efficient digital products, especially HR management
-                                systems to
-                                improve company
-                                productivity."</p>
+                    <div class="text-center">
+                        <h1 class="title-index">Our Products</h1>
+                        <hr class="title__yellow-line--center">
+                        <p class="title__description">In order to help companies grow and improve in a digital era,
+                            LOGIQUE creates and develops digital products regarding HR management systems for better
+                            employee organization and therefore improved productivity. </p>
+                        <div class="product-list">
+                            <img class="product-list__img" src="/img/top/i-dokodemo.png" alt="dokodemo">
+                            <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
+                            <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
                         </div>
-                    </section>
-
+                        <p class="title__description">Ranging from solutions to increase worker output through flexible
+                            working methods, man-hour
+                            cost management through daily reports, to recruitment management systems which greatly assist
+                            in finding the most qualified employees in the most efficient manner possible.</p>
+                    </div>
                 </div>
-            </div>
+            </section>
 
-            <div class="content-wrapper__">
+            <section class="bg--black" style="margin-bottom: 4%;">
                 <div class="container__">
-
-                    <section>
-                        <h1 class="title-index">DOKODEMO KERJA</h1>
-                        <hr class="title__yellow-line">
-                        <h4 class="title-index__sub">A solution to flexible working while maximizing productivity.</h4>
-                        <p class="title__description--full">Do you experience trouble keeping track of your employee’s levels
-                            of productivity? Our software can monitor and potentially increase overall employee output through
-                            keeping track of how they spend their working hours in real-time through an auto screen capturing
-                            feature. </p>
-
-                        <div class="product-snap-shot">
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_1.png"
-                                    alt="dokodemo_1">
-                                <p class="product-snap-shot__text">Track time based projects </p>
-                            </div>
-
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_2.png"
-                                    alt="dokodemo_2">
-                                <p class="product-snap-shot__text">Track activity through screenshots</p>
-                            </div>
-
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_3.png"
-                                    alt="dokodemo_3">
-                                <p class="product-snap-shot__text">Track work hour and break time</p>
-                            </div>
-                        </div>
-
-                        <p class="title__description--full">Find out if they are conducting their tasks efficiently. Also,
-                            Dokodemo-Kerja allows for a more effective remote working experience, and lets those in your
-                            employ, through flexible working hours, work anywhere, thereby potentially maximizing employee
-                            happiness as well.</p><br>
-
-                        <div class="text-center">
-                            <a class="btn--yellow" href="https://dokodemo-kerja.com">Learn More</a>
-                        </div>
-                    </section>
-
+                    <div class="product-slogan">
+                        <img class="product-slogan__img" src="../img/product/product.png" alt="product">
+                        <p class="product-slogan__text">"We create efficient digital products, especially HR management
+                            systems to
+                            improve company
+                            productivity."</p>
+                    </div>
                 </div>
-            </div>
+            </section>
 
-            <div class="content-wrapper__gray">
+            <section>
                 <div class="container__">
+                    <h1 class="title-index">DOKODEMO KERJA</h1>
+                    <hr class="title__yellow-line">
+                    <h4 class="title-index__sub">A solution to flexible working while maximizing productivity.</h4>
+                    <p class="title__description--full">Do you experience trouble keeping track of your employee’s levels
+                        of productivity? Our software can monitor and potentially increase overall employee output through
+                        keeping track of how they spend their working hours in real-time through an auto screen capturing
+                        feature. </p>
 
-                    <section>
-                        <h1 class="title-index">SUGOI SAIYO</h1>
-                        <hr class="title__yellow-line">
-                        <h4 class="title-index__sub">A management system which makes recruitment easy</h4>
-                        <p class="title__description--full">Are you tired of sifting through unqualified job applications?
-                            Now, the process can be done easily and efficiently, through Sugoi Saiyo, an IT cloud system
-                            utilized by the HR department in order to recruit the right employees, and for applicants to
-                            apply for jobs through simple steps and a clear score assessment. </p>
-
-                        <div class="product-snap-shot">
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_1.png"
-                                    alt="sugoi saiyo 1">
-                                <p class="product-snap-shot__text">Create account feature for each candidates </p>
-                            </div>
-
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_2.png"
-                                    alt="sugoi saiyo 2">
-                                <p class="product-snap-shot__text">Apply for multiple jobs at once </p>
-                            </div>
-
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_3.png"
-                                    alt="sugoi saiyo 3">
-                                <p class="product-snap-shot__text">Upload CV, certificate, and all necessary documents</p>
-                            </div>
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_1.png"
+                                alt="dokodemo_1">
+                            <p class="product-snap-shot__text">Track time based projects </p>
                         </div>
 
-                        <p class="title__description--full">The system includes all of the basic recruitment processes,
-                            from CV receptions, testing, interview scheduling, to providing the offering letter submitted
-                            through the website.</p><br>
-
-                        <div class="text-center">
-                            <a class="btn--yellow" href="product/sugoi-saiyo.php">Learn More</a>
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_2.png"
+                                alt="dokodemo_2">
+                            <p class="product-snap-shot__text">Track activity through screenshots</p>
                         </div>
-                    </section>
 
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_3.png"
+                                alt="dokodemo_3">
+                            <p class="product-snap-shot__text">Track work hour and break time</p>
+                        </div>
+                    </div>
+
+                    <p class="title__description--full">Find out if they are conducting their tasks efficiently. Also,
+                        Dokodemo-Kerja allows for a more effective remote working experience, and lets those in your
+                        employ, through flexible working hours, work anywhere, thereby potentially maximizing employee
+                        happiness as well.</p><br>
+
+                    <div class="text-center">
+                        <a class="btn--yellow" href="https://dokodemo-kerja.com">Learn More</a>
+                    </div>
                 </div>
-            </div>
+            </section>
 
-            <div class="content-wrapper__">
+            <section class="bg--gray">
                 <div class="container__">
+                    <h1 class="title-index">SUGOI SAIYO</h1>
+                    <hr class="title__yellow-line">
+                    <h4 class="title-index__sub">A management system which makes recruitment easy</h4>
+                    <p class="title__description--full">Are you tired of sifting through unqualified job applications?
+                        Now, the process can be done easily and efficiently, through Sugoi Saiyo, an IT cloud system
+                        utilized by the HR department in order to recruit the right employees, and for applicants to
+                        apply for jobs through simple steps and a clear score assessment. </p>
 
-                    <section>
-                        <h1 class="title-index">NIPPO</h1>
-                        <hr class="title__yellow-line">
-                        <h4 class="title-index__sub">A Daily Reporting and Man-Hour Cost Management System</h4>
-                        <p class="title__description--full">See how your employees are spending their working hours by using
-                            Nippo, a daily reporting tool where employees document their work and the hours they put into each
-                            project. They can also tag and give feedback to one another for collaborative assignments. </p>
-
-                        <div class="product-snap-shot">
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_1.png" alt="nippo 1">
-                                <p class="product-snap-shot__text">Daily Reporting of all employees </p>
-                            </div>
-
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_2.png" alt="nippo 2">
-                                <p class="product-snap-shot__text">Statistic for each projects</p>
-                            </div>
-                        </div>
-                        <div class="product-snap-shot">
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_3.png" alt="nippo 3">
-                                <p class="product-snap-shot__text">Task overview </p>
-                            </div>
-
-                            <div class="product-snap-shot__item">
-                                <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_4.png" alt="nippo 4">
-                                <p class="product-snap-shot__text">Individual report </p>
-                            </div>
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_1.png"
+                                alt="sugoi saiyo 1">
+                            <p class="product-snap-shot__text">Create account feature for each candidates </p>
                         </div>
 
-                        <p class="title__description--full">
-                            This is useful for HR to manage and calculate the man-hour cost for each project done by your
-                            employees. With Nippo, evaluation and self- assessment can be conducted every day.</p><br>
-
-                        <div class="text-center">
-                            <a class="btn--yellow" href="product/nippo.php">Learn More</a>
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_2.png"
+                                alt="sugoi saiyo 2">
+                            <p class="product-snap-shot__text">Apply for multiple jobs at once </p>
                         </div>
-                    </section>
 
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_3.png"
+                                alt="sugoi saiyo 3">
+                            <p class="product-snap-shot__text">Upload CV, certificate, and all necessary documents</p>
+                        </div>
+                    </div>
+
+                    <p class="title__description--full">The system includes all of the basic recruitment processes,
+                        from CV receptions, testing, interview scheduling, to providing the offering letter submitted
+                        through the website.</p><br>
+
+                    <div class="text-center">
+                        <a class="btn--yellow" href="product/sugoi-saiyo.php">Learn More</a>
+                    </div>
                 </div>
-            </div>
+            </section>
 
-            <div class="content-wrapper__">
+            <section>
                 <div class="container__">
+                    <h1 class="title-index">NIPPO</h1>
+                    <hr class="title__yellow-line">
+                    <h4 class="title-index__sub">A Daily Reporting and Man-Hour Cost Management System</h4>
+                    <p class="title__description--full">See how your employees are spending their working hours by using
+                        Nippo, a daily reporting tool where employees document their work and the hours they put into each
+                        project. They can also tag and give feedback to one another for collaborative assignments. </p>
 
-                    <section class="section__custom-padding" id="contact">
-                        <div class="row">
-                            <div class="col-sm-5">
-                                <h1 class="title-index" style="margin-bottom:0">Contact Logique</h1>
-                                <p>if you need help with:</p>
-                                <br>
-                                <hr class="title__yellow-line">
-                                <img src="../img/contact.png" style="width:100%" alt="contact">
-                            </div>
-
-                            <div class="col-sm-7">
-                                <ul class="lgq-does__list">
-                                    <li>Developing a website </li>
-                                    <li>Updating your website’s system</li>
-                                    <li>Developing a web system</li>
-                                    <li>Creating and designing a campaign or website landing page</li>
-                                    <li>Outsourcing website operations.</li>
-                                    <li>Increasing access to your website with SEO.</li>
-                                    <li>Organizing and running an online promotion strategy.</li>
-                                    <li>Searching for leasing web servers and companies to manage them.</li>
-                                    <li>Searching for a printing service catering to company profiles and brochures.</li>
-                                    <li>etc.</li>
-                                </ul>
-                                <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">Contact Us Now</a>
-                            </div>
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_1.png" alt="nippo 1">
+                            <p class="product-snap-shot__text">Daily Reporting of all employees </p>
                         </div>
-                    </section>
-                </div>
 
-            </div>
-        </div><!-- END CONTENT -->
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_2.png" alt="nippo 2">
+                            <p class="product-snap-shot__text">Statistic for each projects</p>
+                        </div>
+                    </div>
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_3.png" alt="nippo 3">
+                            <p class="product-snap-shot__text">Task overview </p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_4.png" alt="nippo 4">
+                            <p class="product-snap-shot__text">Individual report </p>
+                        </div>
+                    </div>
+
+                    <p class="title__description--full">
+                        This is useful for HR to manage and calculate the man-hour cost for each project done by your
+                        employees. With Nippo, evaluation and self- assessment can be conducted every day.</p><br>
+
+                    <div class="text-center">
+                        <a class="btn--yellow" href="product/nippo.php">Learn More</a>
+                    </div>
+                </div>
+            </section>
+
+            <section id="contact">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-sm-5">
+                            <h1 class="title-index" style="margin-bottom:0">Contact Logique</h1>
+                            <p>if you need help with:</p>
+                            <br>
+                            <hr class="title__yellow-line">
+                            <img src="../img/contact.png" style="width:100%" alt="contact">
+                        </div>
+
+                        <div class="col-sm-7">
+                            <ul class="lgq-does__list">
+                                <li>Developing a website </li>
+                                <li>Updating your website’s system</li>
+                                <li>Developing a web system</li>
+                                <li>Creating and designing a campaign or website landing page</li>
+                                <li>Outsourcing website operations.</li>
+                                <li>Increasing access to your website with SEO.</li>
+                                <li>Organizing and running an online promotion strategy.</li>
+                                <li>Searching for leasing web servers and companies to manage them.</li>
+                                <li>Searching for a printing service catering to company profiles and brochures.</li>
+                                <li>etc.</li>
+                            </ul>
+                            <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">Contact Us Now</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+        <!-- END CONTENT -->
 
         <?php include 'footer.php';?>
 
