@@ -151,7 +151,7 @@
             <section class="bg--gray">
                 <div class="container__">
                     <div class="text-center">
-                        <h1 class="title-index">Our Services</h1>
+                        <h1 class="title-index">LOGIQUEのサービス</h1>
                         <hr class="title__yellow-line--center">
                         <p class="title__description" style="margin-bottom:20px">
                             LOGIQUEはインドネシア国内でウェブサイト(ホームページ)やウェブシステム、モバイルアプリケーションの開発、デジタルマーケティングの実行など、お客様がIT・インターネットを活用するためのご支援をしています。WebやWebシステムの制作・開発、運用からWebマーケティングやSEO対策などまで、Web、インターネットに関するサービスを幅広く提供しております。
@@ -202,7 +202,7 @@
                                             <li>LP / キャンペーンWEB制作</li>
                                         </a>
                                         <a href="#webCreate_blog">
-                                            <li>ブログ</li>
+                                            <li>ワードプレス</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -643,7 +643,7 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">ブログ</h4>
+                                <h3 class="service-detail__title">ワードプレス</h4>
                                     <p>Wordpressのインストール・カスタマイズ、デザインの制作とインプリを行います。
                                         最初は自社内でできていたものが担当者不在で運用ができなくなってしまった、バージョンUPやセキュリティ対策ができていない、等のケースが散見されます。運用更新の委託、カスタマイズやセキュリティ向上のためのセットアップなどご相談ください。セキュリティに問題のあるブログが多くあります。問題起こる前に早めにご相談ください。
                                     </p>
@@ -825,11 +825,7 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">PWAの開発</h3>
-                                <p>LOGIQUE provides Progressive Web App (PWA) development services to add value to your website,
-                                    so
-                                    that it can be accessed just like a mobile application. PWA gives numerous benefits which can
-                                    be
-                                    utilized to filfill customer's expectation, increase interaction and conversion.</p>
+                                <p>インドネシアで多くのモバイルアプリ、ハイブリッドアプリの開発を行ってきました。モバイル・ソリューションの活用でインドネシア市場で発展する企業をご支援しています。モバイルアプリと他システムとの連携などが必要になるケースがほとんどです。インフラの設計設定から、他システムとのデータ連携、バックエンドシステムの開発まで幅広く対応可能です。</p>
                             </div>
                         </div>
                     </section>

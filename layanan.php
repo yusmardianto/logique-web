@@ -209,7 +209,7 @@
                                             <li>Halaman Landing / Kampanye</li>
                                         </a>
                                         <a href="#webCreate_blog">
-                                            <li>Blog</li>
+                                            <li>Wordpress</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -751,7 +751,7 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Blog</h4>
+                                <h3 class="service-detail__title">Wordpress</h4>
                                     <p>Kami juga memberikan layanan instalasi dan kustomisasi Wordpress, mulai dari mendesain,
                                         mengembangkan, dan meningkatkan keamanan blog yang Anda miliki sesuai dengan kebutuhan
                                         yang Anda inginkan. Saat ini terdapat banyak blog yang memiliki celah keamanan yang dapat

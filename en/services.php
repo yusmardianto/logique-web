@@ -211,7 +211,7 @@
                                             <li>Landing Page / Campaign Page</li>
                                         </a>
                                         <a href="#webCreate_blog">
-                                            <li>Blog</li>
+                                            <li>Wordpress</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -735,7 +735,7 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Blog</h4>
+                                <h3 class="service-detail__title">Wordpress</h4>
                                     <p>We also provide WordPress installation and customization services. We can design,
                                         implement and improve the
                                         security of your blog according to your specific requirements. Currently, there are
