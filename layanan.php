@@ -1010,9 +1010,6 @@
                         </div>
                     </section>
                     <div class="text-center --back-top">
-                        <a href="layanan/penetration-test.php">
-                            <div class="main-btn --black">Portfolio</div>
-                        </a>
                         <a href="#serviceNavigation">
                             <div class="main-btn">Back to Top</div>
                         </a>
