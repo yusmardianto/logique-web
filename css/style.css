@@ -292,6 +292,9 @@ section.maintop {
 .content-wrapper__ .bg--gray {
     background-color: #eae9eb;
 }
+.content-wrapper__ .bg--white {
+    background-color: #fff;
+}
 .content-wrapper__ .bg--black {
     background-color: #000;
     color: #fff;
@@ -4876,47 +4879,57 @@ video.vd-log{
     min-width: -webkit-fill-available;
     padding-bottom: 0!important;
 }
+
+.career-update .csection1,
 .career-new .csection1 {
     background: #fff;
     padding: 5em 0 3em;
 }
+.career-update .csection2,
 .career-new .csection2 {
     background: #000;
     padding: 6.5em 0 7em;
     color: #fff;
 }
 
+.career-update .csection3,
 .career-new .csection3 {
     background:#f5f5f5;
     overflow: hidden;
 }
 
+.career-update .csection4,
 .career-new .csection4 {
     background: #fff;
     padding: 2em;
 }
 
+.career-update .csection5,
 .career-new .csection5 {
     background: #eeeeee;
     padding: 2em;
 }
 
+.career-update .bg-abu-abu,
 .career-new .bg-abu-abu {
     background: #fff;
     padding: 2em;
 }
 
+.career-update .csection6,
 .career-new .csection6 {
     background: #000;
     color:rgba(255, 202, 19);
     padding: 12px;
 }
 
+.career-update .csection7,
 .career-new .csection7 {
     background: #fff;
     padding: 5em 0;
 }
 
+.career-update a.btn.btn-yellow,
 .career-new a.btn.btn-yellow {
     background: rgba(255, 202, 19, .9);
     padding: 10px 2em;
@@ -5355,6 +5368,7 @@ ol.breadcrumb li a:hover {
 }
 .detailcareer .seemore_ a:hover {text-decoration: underline;}
 
+.career-update a.btn.btn-yellow.smooth:hover,
 .career-new a.btn.btn-yellow.smooth:hover {
     opacity: 0.5;
 }
@@ -5374,7 +5388,7 @@ ol.breadcrumb li a:hover {
     padding: 0;
 }
 .logo-padding {padding: 25px 0;}
-.career-new .remove-padding-top {padding-top: 3em;padding-bottom: 3em!important;}
+.career-new .remove-padding-top, .career-update .remove-padding-top {padding-top: 3em;padding-bottom: 3em!important;}
 .lang-on-message .list-inline li {
     padding: 14px;
     margin-top: 5px;
@@ -5409,8 +5423,8 @@ ol.breadcrumb li a:hover {
 .message-recent-hover .panel-body:hover {opacity: 0.8!important;}
 .message-recent_ .panel {border-radius: 6px;} 
 
-.career-new .csection7 .btn-detail {width: -webkit-fill-available;}
-.career-new .csection7 .btn-detail:hover {opacity:0.7}
+.career-new .csection7 .btn-detail, .career-update .csection7 .btn-detail {width: -webkit-fill-available;}
+.career-new .csection7 .btn-detail:hover, .career-update .csection7 .btn-detail:hover {opacity:0.7}
 
 .detailcareer .breadcrumb-interview {
     padding-bottom: 0;
