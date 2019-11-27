@@ -221,31 +221,16 @@
           <a href="/en/services/web-dev.php" class="btn btn-cs-bottom">Web Development</a>
           <a href="/en/services/system-dev.php" class="btn btn-cs-bottom">Web System Development</a>
         </section>
-        <footer>
-          <div class="container-fluid">
-            <div class="row">
-              <div class="col-md-8">
-                <h2>About Us</h2>
-                <br/>
-                As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.<br/>
-                <div class="visible-sm visible-xs"><br/></div>
-              </div>
-              <div class="col-md-4">
-                <h2>Contact Us</h2>
-                <a href="/en/contact.php" target="_blank"><img alt="Logo" src="../../../img/logo.png" class="logo"/></a> <br />
-                Ad Premier Building 19th Floor. <br/>
-                Jalan Tb. Simatupang No. 5 <br/>
-                Ragunan, Ps. Minggu, <br/>
-                Jakarta Selatan, Indonesia 12550 <br/>
-              </div>
-            </div>
-          </div>
-        </footer>
-        <div class="copyright">
-          © 2018 Logique Digital Indonesia. All Rights Reserved.
-        </div>
       </div>
-      <?php include '../../../footer.php';?>
+      <style>
+        .cs-wrap footer {
+          padding-bottom:10px;
+        }
+        footer {
+          display:block;
+        }
+        </style>
+      <?php include '../../footer.php';?>
 		</div>
 		<script type="application/ld+json">
 			{

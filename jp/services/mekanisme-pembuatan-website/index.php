@@ -46,6 +46,7 @@ if(isset($_POST['submitted']))
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>LOGIQUEのWEB制作の特徴 | LOGIQUE Digital Indonesia</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/css/style.css" rel="stylesheet">
     <link href="css/style_webdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -467,118 +468,7 @@ if(isset($_POST['submitted']))
 			<div class="border-top-list-2 hidden-xs hidden-sm"></div>
 		</section>
 		<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
-		<footer class="contact">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4">
-						<h2 style="margin-top: 0">お問い合わせ</h2>
-						<a href="/jp/" target="_blank"><img src="img/webdev/logo.png" alt="Fitur Perusahaan" class="cs-custom"></a>
-						<div class="m-t-10 text-left">LOGIQUE DIGITAL INDONESIA<br>
-						Ad Premier Building 19th Floor. <br>
-						Jalan Tb. Simatupang No. 5 Ragunan, <br>
-						Ps. Minggu, Jakarta Selatan, <br>Indonesia 12550</div>
-						<div>021) 22708935 / 36 <br>0811870321</div>
-						<br/>
-						<div class="row">
-							<div class="col-xs-6">
-								<div class="link-footer-webdev">
-									<a href="/jp/index.php" target="_blank">Home</a>
-									<a href="/jp/about.php" target="_blank">会社概要</a>
-									<a href="/jp/portfolio.php" target="_blank">制作実績</a>
-									<a href="/jp/services.php" target="_blank">サービス</a>
-								</div>
-							</div>
-							<div class="col-xs-6">
-								<div class="link-footer-webdev">
-									<a href="/jp/joinus.php" target="_blank">採用/パートナー</a>
-									<a href="/career/" target="_blank">Join LOGIQUE</a>
-									<a href="/jp/contact.php" target="_blank">お問い合わせ</a>
-								</div>
-							</div>
-						</div>
-						<div class="link-footer-webdev">
-							<br/>
-							<div style="margin-bottom:8px"><b>Social Media</b></div>
-							<div class="row medsos-new">
-								<div class="col-xs-3">
-									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
-								<div class="col-xs-3">
-									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
-								<div class="col-xs-3">
-									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
-								<div class="col-xs-3">
-									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 hidden-md hidden-lg">
-						<span><hr>インドネシアでWEB系のシステム開発やWEBアプリ開発や、それらシステムの運用が必要な場合LOGIQUEにご相談ください。CMS構築、会員管理システム（CRM)、ECサイト構築、会計管理、人事管理、アンケートシステムなど様々なシステム構築運用を成功に導いてきました。PMOとして、テスト工程だけ、ラボ型開発を、など様々な形でのご支援が可能です。</span>
-						<div class="row">
-							<div class="col-sm-12">
-								<div class="link-footer-webdev">
-									<br/>
-									<div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div>
-									<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
-									<a href="/jp/product/nippo.php" target="_blank">Nippo</a>
-									<a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<?php if(isset($msg)) { echo $msg; } ?>
-						<form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
-							<input type='hidden' name='submitted' id='submitted' value='1'/>
-							<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
-							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-							<div class="">
-									<div class="form-group">
-										<input type="text" class="form-control" placeholder="Name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
-									</div>
-									<!-- <div class="form-group">
-										<input type="number" class="form-control" placeholder="No Ponsel" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
-									</div>
-									<div class="form-group">
-										<input type="text" class="form-control" placeholder="Perusahaan" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
-									</div> -->
-									<div class="form-group">
-										<input type="email" class="form-control" placeholder="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
-									</div>
-									<div class="form-group">
-										<textarea name="" id="" cols="30" rows="6" class="form-control" placeholder="Message" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
-									</div>
-									<div class="form-group">
-										<div class="g-recaptcha captcha-custom" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
-									</div>
-									<div class="form-group text-right">
-											<br>
-											<button type="submit" class="btn btn-logic btn-sm">Submit</button>
-									</div>
-							</div>
-						</form>
-					</div>
-					<div class="col-md-4 hidden-xs hidden-sm">
-						<p>インドネシアでWEB系のシステム開発やWEBアプリ開発や、それらシステムの運用が必要な場合LOGIQUEにご相談ください。CMS構築、会員管理システム（CRM)、ECサイト構築、会計管理、人事管理、アンケートシステムなど様々なシステム構築運用を成功に導いてきました。PMOとして、テスト工程だけ、ラボ型開発を、など様々な形でのご支援が可能です。</p>
-						<div class="row">
-							<div class="col-sm-6">
-								<div class="link-footer-webdev" style="padding-left:30px">
-									<br/>
-									<div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div>
-									<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
-									<a href="/jp/product/nippo.php" target="_blank">Nippo</a>
-									<a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</footer>
-		<section class="tahap-pemesanan-2 text-center hidden-md hidden-lg" style="padding: 2em">Copyright 2018 Logique</section>
+		<?php include '../../footer.php'; ?>
 
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script src="/js/bootstrap.min.js"></script>

@@ -53,6 +53,7 @@ if(isset($_POST['submitted']))
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Web Development Service | LOGIQUE Digital Indonesia</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/css/style.css" rel="stylesheet">
     <link href="css/style_webdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -538,128 +539,7 @@ if(isset($_POST['submitted']))
 			<div class="border-top-list-2 hidden-xs hidden-sm"></div>
 		</section>
 		<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
-		<footer class="contact">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4">
-						<h2 style="margin-top: 0">Contact LOGIQUE</h2>
-						<a href="/en/" target="_blank"><img src="img/webdev/logo.png" alt="Fitur Perusahaan" class="cs-custom"></a>
-						<div class="m-t-10 text-left">LOGIQUE DIGITAL INDONESIA<br>
-						Ad Premier Building 19th Floor. <br>
-						Jalan Tb. Simatupang No. 5 Ragunan, <br>
-						Ps. Minggu, Jakarta Selatan, <br>Indonesia 12550</div>
-						<div>021) 22708935 / 36 <br>0811870321</div>
-						<br/>
-						<div class="row">
-							<div class="col-xs-6">
-								<div class="link-footer-webdev">
-									<a href="/en/index.php" target="_blank">Home</a>
-									<a href="/en/about.php" target="_blank">About Us</a>
-									<a href="/en/portfolio.php" target="_blank">Portfolio</a>
-									<a href="/en/services.php" target="_blank">Services</a>
-								</div>
-							</div>
-							<div class="col-xs-6">
-								<div class="link-footer-webdev">
-									<a href="/en/joinus.php" target="_blank">Career</a>
-									<a href="/career/" target="_blank">Join LOGIQUE</a>
-									<a href="/en/contact.php" target="_blank">Contact Us</a>
-								</div>
-							</div>
-						</div>
-						<div class="link-footer-webdev">
-							<br/>
-							<div style="margin-bottom:8px"><b>Social Media</b></div>
-							<div class="row medsos-new">
-								<div class="col-xs-3">
-									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
-								<div class="col-xs-3">
-									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
-								<div class="col-xs-3">
-									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
-								<div class="col-xs-3">
-									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 35px;margin-top: 10px;"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 hidden-md hidden-lg">
-						<span><hr>LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.</span>
-						<div class="row">
-							<div class="col-sm-12">
-								<div class="link-footer-webdev">
-									<br/>
-									<div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div>
-									<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
-									<a href="/en/product/nippo.php" target="_blank">Nippo</a>
-									<a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<?php if(isset($msg)) { echo $msg; } ?>
-						<form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
-							<input type='hidden' name='submitted' id='submitted' value='1'/>
-							<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
-							<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-							<div class="">
-									<div class="form-group">
-										<input type="text" class="form-control" placeholder="Name" name="name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
-									</div>
-									<!-- <div class="form-group">
-										<input type="number" class="form-control" placeholder="No Ponsel" name="phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'>
-									</div>
-									<div class="form-group">
-										<input type="text" class="form-control" placeholder="Perusahaan" name="company" value='<?php echo $formproc->SafeDisplay('company') ?>'>
-									</div> -->
-									<div class="form-group">
-										<input type="email" class="form-control" placeholder="Email" name="email" value='<?php echo $formproc->SafeDisplay('email') ?>'>
-									</div>
-									<div class="form-group">
-										<textarea style="resize:none" name="" id="" cols="30" rows="6" class="form-control" placeholder="Message" name="message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
-									</div>
-									<div class="form-group">
-										<div class="g-recaptcha captcha-custom" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
-									</div>
-									<div class="form-group text-right">
-											<br>
-											<button type="submit" class="btn btn-logic btn-sm">Submit</button>
-									</div>
-							</div>
-						</form>
-					</div>
-					<div class="col-md-4 hidden-xs hidden-sm">
-						<p>LOGIQUE provides the best solution, optimised for your business, as a professional team in web consulting, website creation, Smartphone website creation, responsive web design creation, system development, and graphic creation. We develop structured creative websites thoughtfully from large-scale corporate websites to smartphone websites with the combination of art direction and information architecture design.</p>
-						<div class="row">
-							<div class="col-sm-6">
-								<div class="link-footer-webdev" style="padding-left:30px">
-									<br/>
-									<div style="margin-bottom:8px"><b>LOGIQUE's Products</b></div>
-									<a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja</a>
-									<a href="/en/product/nippo.php" target="_blank">Nippo</a>
-									<a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a>
-								</div>
-							</div>
-							<div class="col-sm-6">
-								<div class="link-footer-webdev" style="padding-left:30px">
-									<br/>
-									<div style="margin-bottom:8px"><b>Social Media</b></div>
-									<a href="https://www.facebook.com/logique.id/" target="_blank"><i class="fa fa-facebook-official"></i> Facebook</a>
-									<a href="https://twitter.com/LogiqueDigital" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
-									<a href="https://www.instagram.com/logiquedigital/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a>
-									<a href="https://www.linkedin.com/company/13420656" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i> Linkedin</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</footer>
-		<section class="tahap-pemesanan-2 text-center hidden-md hidden-lg" style="padding: 2em">Copyright 2018 Logique</section>
+		<?php include '../../footer.php'; ?>
 
 		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script src="/js/bootstrap.min.js"></script>

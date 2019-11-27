@@ -53,6 +53,7 @@ if(isset($_POST['submitted']))
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Web Development Service | LOGIQUE Digital Indonesia</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style-webdev.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -803,7 +804,8 @@ if(isset($_POST['submitted']))
 			</div>
 		</section>
 		<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
-		<footer class="contact">
+		<?php include '../footer.php'; ?>
+		<footer class="contact hidden">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4 footer1-resp">

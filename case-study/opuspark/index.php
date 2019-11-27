@@ -275,30 +275,15 @@
           <a href="/layanan/web-dev.php" class="btn btn-cs-bottom">Ingin buat Website?</a>
           <a href="/layanan/pembuatan-sistem-web.php" class="btn btn-cs-bottom">Ingin buat Web System?</a>
         </section>
-        <footer>
-          <div class="container-fluid">
-            <div class="row">
-              <div class="col-md-8">
-                <h2>Tentang LOGIQUE</h2>
-                <br/>
-                LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. <br/>
-                <div class="visible-sm visible-xs"><br/></div>
-              </div>
-              <div class="col-md-4">
-                <h2>Hubungi LOGIQUE</h2>
-                <a href="/hubungi-kami.php" target="_blank"><img alt="Logo" src="../../img/logo.png" class="logo"/></a> <br />
-                Ad Premier Building 19th Floor. <br/>
-                Jalan Tb. Simatupang No. 5 <br/>
-                Ragunan, Ps. Minggu, <br/>
-                Jakarta Selatan, Indonesia 12550 <br/>
-              </div>
-            </div>
-          </div>
-        </footer>
-        <div class="copyright">
-          © 2018 Logique Digital Indonesia. All Rights Reserved.
-        </div>
       </div>
+      <style>
+        .cs-wrap footer {
+          padding-bottom:10px;
+        }
+        footer {
+          display:block;
+        }
+        </style>
       <?php include '../../footer.php';?>
 		</div>
 		<script type="application/ld+json">
