@@ -433,10 +433,10 @@
     <div class="row itemdiv">
       <div class="col-md-3">
         <div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
-          <div class="panel-body">
+          <div class="panel-body" style="height: 198px;">
             <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
             <img src="/img/career/pm.png" />
-            <h3 style=" font-size: 20px; height: 37px; ">HR/GA</h3>
+            <h3 style=" font-size: 20px;">HR/GA</h3>
             <div class="boxfull" style="background: #3e64ff;">Internship</div>
           </div>
           <div class="panel-footer">
@@ -447,7 +447,7 @@
           </div>
         </div>
       </div>
-      <div class="col-md-3">
+      <!-- <div class="col-md-3">
         <div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
           <div class="panel-body">
             <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -462,10 +462,26 @@
             </div>
           </div>
         </div>
+      </div> -->
+      <div class="col-md-3">
+        <div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
+          <div class="panel-body" style="height: 198px;">
+            <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
+            <img src="/img/career/marketing.png" />
+            <h3 style="font-size: 20px;">Digital Marketing Specialist</h3>
+            <div class="boxfull" style="background: #3e64ff;">Internship</div>
+          </div>
+          <div class="panel-footer">
+            <p><img src="/img/career/siren.png" /> Urgently Needed</p>
+            <div class="text-center">
+              <a class="btn btn-detail" style=" width: 100%;margin-bottom: 10px;" href="intern-dm-strategist.php">Detail</a>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-3">
         <div class="panel panel-default" data-aos="zoom-in" data-aos-duration="1500">
-          <div class="panel-body">
+          <div class="panel-body" style="height: 198px;">
             <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
             <img src="/img/career/designer.png" />
             <h3 style=" font-size: 20px; ">UI/UX Designer</h3>
@@ -493,7 +509,7 @@
           <div class="panel-body" style="height: 198px;">
             <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
             <img src="/img/career/consultant.png" />
-            <h3 style=" font-size: 20px;">Sales IT Product</h3>
+            <h3 style=" font-size: 20px;">IT Sales Asisstant</h3>
             <div class="boxfull" style="background: #3e64ff;">Internship</div>
           </div>
           <div class="panel-footer">
@@ -509,7 +525,7 @@
           <div class="panel-body" style="height: 198px;">
             <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
             <img src="/img/career/marketing.png" />
-            <h3 style="font-size: 20px;">Digital Marketing Strategist</h3>
+            <h3 style="font-size: 20px;">Digital Marketing Specialist</h3>
             <div class="boxfull" style="background: #3e64ff;">Internship</div>
           </div>
           <div class="panel-footer">

@@ -10,7 +10,7 @@
   <meta name="keywords"
     content="lowongan, kerja, jakarta, remote job jakarta, kerja remote jakarta,  networking, marketing, quality assurance, ui, ux, ui/ux, ab testing, a/b testing, pengujian produk, Git, JIRA, Mantis, TestRail, API test, mysql, postgres, linux, windows, software design, Engineering Computer Science, siklus QA, metodologi QA, documentation, problem solving, product execution, analysis, end user script, pengujian skenario, app performance testing">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Lowongan - Intern Digital Marketing Strategist">
+  <meta property="og:title" content="Lowongan - Intern Digital Marketing Specialist">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
@@ -18,13 +18,13 @@
   <meta property="og:description"
     content="Handal dalam membangun relasi dengan klien, marketing dan networking, serta memahami proses dan dinamika dunia sales digital? Bergabunglah dengan LOGIQUE sebagai Inside Sales">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan - Intern Digital Marketing Strategist</title>
+  <title>Lowongan - Intern Digital Marketing Specialist</title>
 
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "JobPosting",
-    "title": "Intern Digital Marketing Strategist",
+    "title": "Intern Digital Marketing Specialist",
     "url": "https://www.logique.co.id/career/detail/intern-dm-strategist.php",
     "hiringOrganization": {
       "@type": "Corporation",
@@ -183,7 +183,7 @@
                     <meta itemprop="position" content="1" />
                   </li>
                   <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">Intern
-                    Digital Marketing Strategist
+                  Digital Marketing Specialist
                     <meta itemprop="position" content="2" />
                   </li>
                 </ol>
@@ -197,7 +197,7 @@
             <div class="row">
               <div class="col-md-6 text-center">
                 <h1><img src="/img/career/marketing.png" style="filter: contrast(0%) brightness(150%);"> Intern
-                  Digital Marketing Strategist</h1>
+                Digital Marketing Specialist</h1>
               </div>
               <div class="col-md-5 text-center">
                 <div class="urgent-need"><img src="/img/career/urgent.png"></div>
