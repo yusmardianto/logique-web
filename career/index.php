@@ -181,7 +181,8 @@
         }
 
         .container__ {
-            padding: 0;
+            padding-top: 0;
+            padding-bottom: 0;
         }
 
         @media only screen and (min-width: 768px) and (max-width:1279.98px) {
