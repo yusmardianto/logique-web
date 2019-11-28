@@ -1023,6 +1023,30 @@
                                 </div>
                             </div>
 
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://swara.tunaiku.com/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/amar-bank.png" alt="Amar Bank"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Amar Bank</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    Webリニューアル制作 (デザイン | コーディング | CMS)
+                                    <div class="grey-clr">Wordpress, コーポレートWeb, 銀行, 金融</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://m-pas.org/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/mpas.png" alt="MPAS"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">MPAS</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    WebフロントエンドDev (デザイン | コーディング | CMS)
+                                    <div class="grey-clr">検索Web, CMS, 医療情報</div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                     <!-- END HIDE WEB DEV PORTFOLIO -->

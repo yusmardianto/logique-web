@@ -674,6 +674,18 @@
                             </div>
 
                             <div class="col-md-4 col-xs-6">
+                                <a href="http://j-golfacademy.com/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/golfjkt.png" alt="Jakarta Golf Academy"
+                                        class="img-responsive center-block">
+                                    Jakarta Golf Academy
+                                </a>
+                                <div class="addition-desc text-left">
+                                    WEB Dev & Operation (Design | Coding | Operation)
+                                    <div class="grey-clr">Mobile, Online Order, Sport</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
                                 <a href="https://www.60jpid.com/music-festival.php" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/music_festival.png" alt="Music Festival Landing Page"
                                         class="img-responsive center-block">
@@ -1024,6 +1036,29 @@
                                 </div>
                             </div>
 
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://swara.tunaiku.com/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/amar-bank.png" alt="Amar Bank"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Amar Bank</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    Web Remake Development (Design | Coding | Integrasi CMS) 
+                                    <div class="grey-clr">Wordpress, Corporate web, Bank</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://m-pas.org/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/mpas.png" alt="MPAS"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">MPAS</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    Web Front End Development (Design | Coding | Integrasi Back-End)
+                                    <div class="grey-clr">Search System, CMS, Medical Media</div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <!-- END HIDE WEB DEV PORTFOLIO -->
