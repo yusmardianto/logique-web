@@ -242,6 +242,15 @@
                                 memberikan kontribusi terbaik pada perkembangan WEB dan industri digital di Indonesia.</p>
                         </div>
                     </div>
+                    <br><br>
+                    <div class="row" data-aos="fade-up" data-aos-duration="2000">
+                        <div class="col-md-offset-3 col-md-6 text-center">
+                            <a class="btn btn-yellow smooth" href="https://api.whatsapp.com/send?phone=62811870321"
+                                target="_blank" rel="noreferrer" id="wa-hrd"> <i class="fa fa-whatsapp"></i> WA HRD</a>
+                            <a class="btn btn-yellow smooth" href="mailto:recruit@logique.co.id" target="_top" id="email-hrd"> <i
+                                    class="fa fa-envelope-o"></i> EMAIL HRD</a>
+                        </div>
+                    </div>
                 </div>
             </section>
 
@@ -255,7 +264,7 @@
                         <div class="row">
                             <div class="div-alur">
                                 <div class="bar-step bar-yellow">
-                                    <div class="exp-step"><span>1.</span> Masuk ke Halaman Karir Logique</div>
+                                    <div class="exp-step"><span>1.</span> Masuk ke Halaman <a href="https://logique.sugoisaiyo.com/" target="_blank">Karir Logique</a></div>
                                     <img src="../img/alur1.png" class="img-responsive pull-left" />
                                 </div>
                                 <div class="bar-step bar-black">
