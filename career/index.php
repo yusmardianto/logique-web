@@ -264,7 +264,7 @@
                         <div class="row">
                             <div class="div-alur">
                                 <div class="bar-step bar-yellow">
-                                    <div class="exp-step"><span>1.</span> Masuk ke Halaman <a href="https://logique.sugoisaiyo.com/" target="_blank">Karir Logique</a></div>
+                                    <div class="exp-step"><span>1.</span> Masuk ke Halaman <a href="https://logique.sugoisaiyo.com/" target="_blank">"SUGOI SAIYO"</a></div>
                                     <img src="../img/alur1.png" class="img-responsive pull-left" />
                                 </div>
                                 <div class="bar-step bar-black">
