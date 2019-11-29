@@ -213,7 +213,7 @@ footer {
         </div>
     </div>
 </footer>
-<section class="tahap-pemesanan-2 text-center hidden-md hidden-lg" style="padding: 2em">Copyright <span
+<section class="tahap-pemesanan-2 text-center hidden-sm hidden-md hidden-lg" style="padding: 2em">Copyright <span
         class="copyrightYear"></span> Logique</section>
 <script src="/js/jquery-3.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
