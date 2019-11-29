@@ -159,6 +159,20 @@ footer .title{font-size:24px;}
 .div-help img{margin-top:10px}
 
 
+@media screen and (min-width: 992px) {
+.contain-img {
+	min-height: 215px;
+}
+.div-help .div-title {
+	min-height: 115px;
+}
+}
+@media screen and (max-width: 979px) {
+	.col-md-5ths {
+		float: none;
+		width: 100%;
+	} 
+}
 @media (min-width: 991px){
 	.col-md-5ths {float: left;width: 20%;}
 }
