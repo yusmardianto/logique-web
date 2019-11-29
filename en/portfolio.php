@@ -1998,10 +1998,34 @@
                                         rank)</small>
                                 </div>
                             </div>
-
-
-
-                            <div class="other-client-item">
+							<div class="other-client-item">
+                                <div class="img-thumb">
+                                    <img src="/img/portfolio/royal-amanda.png" alt="Royal Armada" class="img-responsive center-block">
+                                </div>
+                                Royal Armada
+                                <div class="addition-desc">
+                                    <small class="text-muted">(Google Search Ads, Google Display Ads (GDN), Facebook Ads, Instagram Ads)</small>
+                                </div>
+                            </div>
+							<div class="other-client-item">
+                                <div class="img-thumb">
+                                    <img src="/img/portfolio/pilipili.png" alt="PiliPili" class="img-responsive center-block">
+                                </div>
+                                PiliPili 
+                                <div class="addition-desc">
+                                    <small class="text-muted">(SEO and Web maintenance)</small>
+                                </div>
+                            </div>
+							<div class="other-client-item">
+                                <div class="img-thumb">
+                                    <img src="/img/portfolio/fiona.png" alt="Fiona Cosmetics" class="img-responsive center-block">
+                                </div>
+                                Fiona Cosmetics
+                                <div class="addition-desc">
+                                    <small class="text-muted">(SEO and Web maintenance)</small>
+                                </div>
+                            </div>
+							<div class="other-client-item">
                                 <div class="img-thumb">
                                     <img src="/img/portfolio/video-mysunlife.jpg" alt="2D Video Production(SunLife)"
                                         class="img-responsive center-block">
@@ -2249,7 +2273,7 @@
             infinite: true,
             speed: 300,
 
-            slidesToShow: 3,
+            slidesToShow: 4,
             slidesToScroll: 1,
             responsive: [{
                     breakpoint: 1024,

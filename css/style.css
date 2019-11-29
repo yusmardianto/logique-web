@@ -4223,8 +4223,8 @@ blockquote::before {
     margin:0 -7px;
 }
 .other-client-item .img-thumb {
-    height: 240px;
-    overflow: hidden;
+ /*    height: 240px;
+    overflow: hidden; */
 }
 
 .slider-other-client-container .slick-prev, .slider-other-client-container .slick-next {
