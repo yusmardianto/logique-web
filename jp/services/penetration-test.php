@@ -24,7 +24,7 @@
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
-    <!-- <script>
+    <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -33,7 +33,7 @@
 	ga('create', 'UA-105878648-1', 'auto');
 	ga('send', 'pageview');
 
-	</script> -->
+	</script>
 </head>
 
 <body class="wrapper">
