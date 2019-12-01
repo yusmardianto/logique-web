@@ -14,7 +14,7 @@
 @-o-viewport {width: device-width}
 @viewport {width: device-width}
 * {
-    font-family: 'Raleway', 'sans-serif';
+    /* font-family: 'Raleway', 'sans-serif'; */
 }
 
 html {

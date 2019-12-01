@@ -132,7 +132,11 @@
         }
 
         .addition-desc {
-            font-size: 12px
+            font-size: 15px;
+        }
+
+        .addition-title{
+            font-size: 18px;
         }
 
         .grey-clr {
@@ -1052,7 +1056,7 @@
                     <!-- END HIDE WEB DEV PORTFOLIO -->
 
                     <div class="text-center">
-                        <a class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse" href="#hideWebDev">
+                        <a class="btn btn-more-portfolio custom-btn-contact" data-toggle="collapse" href="#hideWebDev" onclick="jump('webDev')">
                             Web・ホームページ制作実績をもっとみる
                         </a>
                     </div>
@@ -1520,7 +1524,7 @@
 
                         <div class="text-center">
                             <a class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse"
-                                href="#hideSysDev">
+                                href="#hideSysDev" onclick="jump('sysDev')">
                                 Web・ITシステム開発実績をもっとみる</a>
                         </div>
 
@@ -1684,7 +1688,7 @@
                     <!-- END HIDE PWA -->
 
                     <div class="text-center">
-                        <a class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse" href="#hidePWA">
+                        <a class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse" href="#hidePWA" onclick="jump('PWA')">
                             モバイルアプリ・PWAの開発実績をみる
                         </a>
                     </div>
@@ -2071,6 +2075,12 @@
         $('#PWA .btn-more-portfolio').on('click', function() {
             $('.mobile-app-container').resize();
         });
+        </script>
+        <script>
+            function jump(h){
+            var top = document.getElementById(h).offsetTop;
+            window.scrollTo(0, top);
+        }
         </script>
     </div>
 </body>

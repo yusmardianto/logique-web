@@ -5,6 +5,14 @@ body {
     background-color: #fff;
     overflow-x: hidden;
 } 
+
+a, b, body, caption, center, dd, div, em, footer, form, h1, h2, h3, h4, h5, h6, header, html, i, iframe, img, label, li, menu, nav, ol, p, section, small, span, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, u, ul, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    line-height: 1.5;
+}
+
 .justify-content-center{
     display: flex;
     flex-wrap: wrap;
@@ -22,7 +30,7 @@ header {
 }
 header h1{
     /* font-family: 'Lato', serif; */
-    font-size: 34px;
+    font-size: 30px;
     color: #333;
     letter-spacing: 2px;
     padding-left: 2em;
@@ -57,6 +65,10 @@ header h2 {
     margin-bottom: 20px;
 }
 
+.pt-1em{
+    padding-top: 1em;
+}
+
 .style-1 {
     background-color: #fff;
     font-weight: 500px;
@@ -79,12 +91,12 @@ header h2 {
     background-position: center;
     background-size: cover;
     color: #111;
-    padding-top: 0;}
+    padding-top: 55px;}
 .new1 {
-    height: 35px;
+    height: auto;
     text-align: center;
     font-weight: 600;
-    font-size: 19px;
+    font-size: 18px;
     letter-spacing: 1px;
 }
 .box-1 {color:#fff;font-size: 32px;background: #111;padding: 10px;margin-top: -55px;}
@@ -104,6 +116,7 @@ header h2 {
 }
 .supposedly-style4 p{
     font-weight: 500;
+    line-height: 1.5;
 }
 .dark-gold-title{
     background-color: #000;
@@ -134,6 +147,7 @@ header h2 {
     border-right: solid 80px #feca38;
     top: 50%;
 }
+h2.new2{font-size: 28px;}
 .new2 {font-weight: bold;letter-spacing: 2px;}
 .new3 {font-weight: 200;letter-spacing: 1px; margin-bottom: 2em;}
 .new4 {text-align: justify;color: #666; font-size: 1.2em;}
@@ -155,7 +169,7 @@ header h2 {
 }
 .new6 {    
     color: #161616;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: bold;
     padding-left: 10px;
     letter-spacing: 2px;
@@ -700,6 +714,15 @@ section,footer{margin-left:95px}
     .gold-bar{
         width: 26%;
     }
+    .new1{
+        height: 64px;
+    }
+}
+
+@media (max-width: 1199px){
+    .new1{
+        height: 64px;
+    }
 }
 @media (max-width: 768px){
     .ol-position{
@@ -724,6 +747,7 @@ section,footer{margin-left:95px}
         background-position-x: -1vw;
         background-position-y: 0;
         background-color: #000;
+        box-shadow: 0 -6px 8px #9999;
     }
     .new5{
         bottom: -19em; /** was -6em **/

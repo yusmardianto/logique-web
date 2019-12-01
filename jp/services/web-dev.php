@@ -190,7 +190,7 @@ if(isset($_POST['submitted']))
 					<div class="col-md-offset-1 col-md-10">
 						<div class="panel text-center custom-1">
 							<h2 style="margin-bottom: 20px;"><b>インドネシアでWeb制作するならLOGIQUE一択です！</b></h2>
-							<p class="p-b-20">インドネシアで200件以上のWebサイトを制作運営してきました。政府系団体や金融機関などのセキュアでミスの許されないものから、クリエイティブへの要求が高いWeb、複雑なプログラミングが必要なWebなど様々なものを手がけてきました。スピード感をもって柔軟に進めます。大きすぎず小さすぎない社員数40数名で運営していますので、リーズナブルだけれど安心してお取引いただけるWeb制作会社です。インドネシアでWeb制作・運用が必要であればLOGIQUEにご相談ください。</p>
+							<p class="p-b-20">インドネシアで200件以上のWebサイトを制作運営してきました。政府系団体や金融機関などのセキュアでミスの許されないものから、クリエイティブへの要求が高いWeb、複雑なプログラミングが必要なWebなど様々なものを手がけてきました。スピード感をもって柔軟に進めます。大きすぎず小さすぎない社員数約60名で運営していますので、リーズナブルだけれど安心してお取引いただけるWeb制作会社です。インドネシアでWeb制作・運用が必要であればLOGIQUEにご相談ください。</p>
 						</div>
 					</div>
 				</div>
@@ -334,8 +334,8 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-6 col-md-6">
-						<div class="card">
-							<section class="card-container">
+						<div class="card" style="height: fit-content;">
+							<section class="card-container" style="padding: 1em 0;">
 								<div class="row">
 									<div class="col-xs-2 col-sm-2 col-md-2 text-right">
 										<span class="title-custom">1</span>
@@ -576,7 +576,7 @@ if(isset($_POST['submitted']))
 							<li class="m-b-5">基幹システムと連携するWebサイトを開発する必要がある</li>
 							<li class="m-b-5">Webサーバー利用料、保守費用をコストダウンしたい</li>
 							<li class="m-b-5">SNSと連携したWebサイトに作り直したい</li>
-							<li class="m-b-5">動画を 制作したい、動画をWebに掲載したい</li>
+							<li class="m-b-5">動画を制作したい、動画をWebに掲載したい</li>
 							<li class="m-b-5">SEO対策が不十分。検索サイト経由でもっと集客したい。</li>
 							<li class="m-b-5">問い合わせフォームを最適化して問い合わせ数を増やしたい</li>
 							<li class="m-b-5">デジタルマーケティングを活用しWebへのトラフィックを増やしたい</li>

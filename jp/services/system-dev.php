@@ -173,7 +173,7 @@
 	<section class="style-1" style="padding-bottom: 0;padding-top:20px;">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-offset-1 col-md-10 text-left">
+				<div class="col-md-offset-1 col-md-10 text-left" style="padding: 2em 1em;">
 					<h2>システム開発が必要なのに、コストが高いから、時間かかるから、難しいからと諦めていませんか？インドネシアでのIT/Webシステム開発はLOGIQUEにお任せください。柔軟にスピーディーにリーズナブルなコストで開発します。</h2>
 				</div>
 			</div>
@@ -194,19 +194,20 @@
 			</div>
 		</div>
 	</section>
-	<section class="style-3">
+	<section class="style-3 pt-1em">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-3 justify-content-center">
-					<h3 class="new1">スピーディーで柔軟な開発</h3>
-					<img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
+					<h3 class="new1 clearfix">スピーディーで柔軟な開発</h3>
+					
+					<img class="img img-responsive yellow-stripes clearfix" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
 					<p class="new4">アジャイル開発を基本としています。スピード感こそが最も大事だと思います。当社がリードして柔軟でスピーディに開発していきます。ニーズに合わせた開発体制を敷きます。ラボ型開発サービスも提供しています。</p>
 				</div>
 				<div class="col-md-3 justify-content-center">
 					<h3 class="new1">高品質でセキュアなシステム</h3>
 					<img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
 					<p class="new4">高品質なシステム構築を行います。通常のテストに加えセキュリティ脆弱性テストを実施することをお奨めしています。SQLインジェクション、パストラバーサル、クロスサイトスクリプティングなどPenetrationテストを行いリスクを最小限にします</p>
-					<a href="../services/penetration-test.php" class="btn-contact-us-black-pent col-md-12">セキュリティ脆弱性診断はこちら</a>
+					<a href="../services/penetration-test.php" class="btn-contact-us-black-pent col-md-12" style="margin-top: 12px;">セキュリティ脆弱性診断はこちら</a>
 				</div>
 				<div class="col-md-3 justify-content-center">
 					<h3 class="new1">インドネシアでの豊富な経験</h3>
@@ -653,18 +654,21 @@
 										<h2 class="new2">システム開発を成功させるためのキーポイント</h2>
 									</div>
 								</div>
+								<br>
 								<div class="row">
 									<div class="col-md-12">
 										<h4 class="bold">経験</h4>
 										<h4 class="" style="font-weight: 200;">LOGIQUEはインドネシアで豊富なシステム開発経験をもっています。スケジューリング、要件定義、システム開発、テスト、インフラ設計、Deploy、ユーザートレーニングなど、各工程でこの経験を活かします。</h4>
 									</div>
 								</div>
+								<br>
 								<div class="row">
 									<div class="col-md-12">
 										<h4 class="bold">スピード・柔軟性</h4>
 										<h4 class="" style="font-weight: 200;">ビジネスのスピードは日に日に早くなっています。システム開発に6ヶ月以上もかけていては、環境変化についていけません。LOGIQUEではスピードを最重要視しています。アジャイル開発で迅速に、要件の変更などにも柔軟に対応します。</h4>
 									</div>
 								</div>
+								<br>
 								<div class="row">
 									<div class="col-md-12">
 										<h4 class="bold">品質・セキュリティ</h4>
