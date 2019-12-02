@@ -1523,7 +1523,7 @@
                         </div>
 
                         <div class="text-center">
-                            <a class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse"
+                            <a class="btn btn-more-portfolio custom-btn-contact" data-toggle="collapse"
                                 href="#hideSysDev" onclick="jump('sysDev')">
                                 Web・ITシステム開発実績をもっとみる</a>
                         </div>
@@ -1688,7 +1688,7 @@
                     <!-- END HIDE PWA -->
 
                     <div class="text-center">
-                        <a class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse" href="#hidePWA" onclick="jump('PWA')">
+                        <a class="btn btn-more-portfolio custom-btn-contact" data-toggle="collapse" href="#hidePWA" onclick="jump('PWA')">
                             モバイルアプリ・PWAの開発実績をみる
                         </a>
                     </div>
