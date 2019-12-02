@@ -210,7 +210,7 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
                                      <meta itemprop="position" content="1" />
                                  </li>
                                  <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                         itemprop="item" href="/en/services.php"><span itemprop="name">&nbsp;Product</span></a>
+                                         itemprop="item" href="/en/product.php"><span itemprop="name">&nbsp;Product</span></a>
                                      <meta itemprop="position" content="2" />
                                  </li>
                                  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a

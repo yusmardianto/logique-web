@@ -219,7 +219,7 @@ if(isset($_POST['submitted']))
                                      <meta itemprop="position" content="1" />
                                  </li>
                                  <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                         itemprop="item" href="/en/services.php"><span itemprop="name">&nbsp;Produk</span></a>
+                                         itemprop="item" href="/produk.php"><span itemprop="name">&nbsp;Produk</span></a>
                                      <meta itemprop="position" content="2" />
                                  </li>
                                  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
