@@ -132,7 +132,11 @@
         }
 
         .addition-desc {
-            font-size: 12px
+            font-size: 15px;
+        }
+
+        .addition-title{
+            font-size: 18px;
         }
 
         .grey-clr {
@@ -1052,7 +1056,7 @@
                     <!-- END HIDE WEB DEV PORTFOLIO -->
 
                     <div class="text-center">
-                        <a class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse" href="#hideWebDev">
+                        <a class="btn btn-more-portfolio custom-btn-contact" data-toggle="collapse" href="#hideWebDev" onclick="jump('webDev')">
                             Web・ホームページ制作実績をもっとみる
                         </a>
                     </div>
@@ -1519,8 +1523,8 @@
                         </div>
 
                         <div class="text-center">
-                            <a class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse"
-                                href="#hideSysDev">
+                            <a class="btn btn-more-portfolio custom-btn-contact" data-toggle="collapse"
+                                href="#hideSysDev" onclick="jump('sysDev')">
                                 Web・ITシステム開発実績をもっとみる</a>
                         </div>
 
@@ -1684,7 +1688,7 @@
                     <!-- END HIDE PWA -->
 
                     <div class="text-center">
-                        <a class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse" href="#hidePWA">
+                        <a class="btn btn-more-portfolio custom-btn-contact" data-toggle="collapse" href="#hidePWA" onclick="jump('PWA')">
                             モバイルアプリ・PWAの開発実績をみる
                         </a>
                     </div>
@@ -1755,8 +1759,33 @@
                                     <small class="text-muted">(SEO対策、コンテンツ制作、ページ速度、検索順位)</small>
                                 </div>
                             </div>
-
-
+							<div class="other-client-item">
+                                <div class="img-thumb">
+                                    <img src="/img/portfolio/royal-amanda.png" alt="Royal Armada" class="img-responsive center-block">
+                                </div>
+                                Royal Armada
+                                <div class="addition-desc">
+                                    <small class="text-muted">(Google Search Ads, Google Display Ads (GDN), Facebook Ads, Instagram Ads)</small>
+                                </div>
+                            </div>
+							<div class="other-client-item">
+                                <div class="img-thumb">
+                                    <img src="/img/portfolio/pilipili.png" alt="PiliPili" class="img-responsive center-block">
+                                </div>
+                                PiliPili 
+                                <div class="addition-desc">
+                                    <small class="text-muted">(SEO and Web maintenance)</small>
+                                </div>
+                            </div>
+							<div class="other-client-item">
+                                <div class="img-thumb">
+                                    <img src="/img/portfolio/fiona.png" alt="Fiona Cosmetics" class="img-responsive center-block">
+                                </div>
+                                Fiona Cosmetics
+                                <div class="addition-desc">
+                                    <small class="text-muted">(SEO and Web maintenance)</small>
+                                </div>
+                            </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
                                     <img src="/img/portfolio/video-mysunlife.jpg" alt="2D ビデオ制作（SunLife)"
@@ -1997,7 +2026,7 @@
             infinite: true,
             speed: 300,
 
-            slidesToShow: 3,
+            slidesToShow: 4,
             slidesToScroll: 1,
             responsive: [{
                     breakpoint: 1024,
@@ -2046,6 +2075,12 @@
         $('#PWA .btn-more-portfolio').on('click', function() {
             $('.mobile-app-container').resize();
         });
+        </script>
+        <script>
+            function jump(h){
+            var top = document.getElementById(h).offsetTop;
+            window.scrollTo(0, top);
+        }
         </script>
     </div>
 </body>

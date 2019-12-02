@@ -905,8 +905,10 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">クラウドサーバー管理</h4>
-                                    <p>インドネシアのコーポレートドメイン.co.idの取得管理、DNSの設定などを当社にて代行いたします。SSLの購入＆設定やWEBサーバーのレンタルも可能です。GlobalSign
-                                        SSLの購入やWEBサーバーのレンタルも可能です。AWSの請求代行も可能です。</p>
+                                    <p>
+                                        AWSの構築運用は数多く経験しており、得意としています。AWSのパートナー湿布プログラムAPNにも属しています。
+                                        GCPやAlibabaクラウドの構築運用経験もあります。インドネシアのドメインの取得管理、DNSの設定、SSLの購入設定、AWSの請求代行なども可能です。
+                                    </p>
                             </div>
                         </div>
                     </section>
