@@ -231,7 +231,7 @@
 							We can perform penetration tests, such as SQL injection,path traversal,
 							x-site scripting (among other services) in order to minimize cyber security risk.
 						</p>
-						<a href="../services/penetration-test.php" class="btn-contact-us-black-pent">See more details about Security Test</a>
+						<a href="../services/penetration-test.php" class="btn-contact-us-black-pent" style="margin: 12px 0;">See more details about Security Test</a>
 					</div>
 					<div class="col-md-3 justify-content-center">
 						<h3 class="new1">Extensive Indonesian Based Experience</h3>
@@ -816,7 +816,7 @@
 				</div>
 			</section>
 			<section class="style-6">
-				<div class="container">
+				<div class="container" style="margin-right: 0;">
 					<div class="row">
 						<div class="col-md-5">
 							<h1 class="new6"><span class="underline2">Client</span><br>Testimonial</h1>
@@ -859,13 +859,13 @@
 							</div>
 							<div class="col-md-8">
 								<div class="row">
-									<div class="col-md-12">
-										<h2 class="new2">Key Points for Successfully Developing a Website</h2>
+									<div class="col-md-12 mb-1">
+										<h2 class="new2 mb-1">Key Points for Successfully Developing a Website</h2>
 										<h4>LOGIQUE aims to provide optimal services through delivering the best quality service for all of our clients. This is because LOGIQUE follows 3 key procedures which lead to the success of a project: </h4>
 									</div>
 								</div>
 								<div class="row">
-									<div class="col-md-12">
+									<div class="col-md-12 mb-1">
 										<h4 class="bold">Experience</h4>
 										<h4 class="">
 											LOGIQUE has handled over 200 projects from various industries across Indonesia. Such
@@ -875,7 +875,7 @@
 									</div>
 								</div>
 								<div class="row">
-									<div class="col-md-12">
+									<div class="col-md-12 mb-1">
 										<h4 class="bold">Speed and Flexibility</h4>
 										<h4 class="">
 											The pace at which businesses develop keeps getting faster. If it took a year, or even half a year

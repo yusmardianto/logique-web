@@ -5,6 +5,14 @@ body {
     background-color: #fff;
     overflow-x: hidden;
 }
+
+@-ms-viewport {width: device-width}
+@-o-viewport {width: device-width}
+@viewport {width: device-width}
+* {
+    font-family: 'M PLUS 1p',Lato, sans-serif; 
+}
+
 .top-header-continer {
 	background: #000000;
 }

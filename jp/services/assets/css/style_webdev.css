@@ -5,6 +5,14 @@ body {
   background-color: #fff;
   overflow-x: hidden;
 }
+
+@-ms-viewport {width: device-width}
+@-o-viewport {width: device-width}
+@viewport {width: device-width}
+* {
+    font-family: 'M PLUS 1p',Lato, sans-serif; 
+}
+
 header {
   background-image: url(../img/img-webdev/webDev-pict.png);
   background-repeat: no-repeat;
@@ -662,7 +670,7 @@ footer {
     margin-left: 0;
   }
   .nav-lp .navbar-collapse {
-    margin-top: -90px;
+    /* margin-top: -90px; */
   }
   .language-btn {
     right: 10px;

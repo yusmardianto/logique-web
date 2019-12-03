@@ -1064,7 +1064,7 @@
                     <!-- END HIDE WEB DEV PORTFOLIO -->
 
                     <div class="text-center">
-                        <a class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse" href="#hideWebDev">
+                        <a class="btn btn-more-portfolio custom-btn-contact" role="button" aria-expanded="false" aria-controls="hideWebDev" data-toggle="collapse" href="#hideWebDev">
                             See more web development portfolios
                         </a>
                     </div>
@@ -1920,7 +1920,7 @@
                     <!-- END HIDE PWA -->
 
                     <div class="text-center">
-                        <a class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse" href="#hidePWA">
+                        <a class="btn btn-more-portfolio custom-btn-contact" role="button" data-toggle="collapse" href="#hidePWA" aria-expanded="false" aria-controls="hidePWA">
                             See more mobile app / PWA portfolios
                         </a>
                     </div>

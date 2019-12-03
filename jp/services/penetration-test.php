@@ -296,7 +296,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<img alt="10 juta" src="assets/img/img-pentest/10-juta.png" class="img-responsive center-block"/>
+					<img alt="15 juta" src="assets/img/img-pentest/10-juta.png" class="img-responsive center-block"/>
 				</div>
 			</div><br/>
 			<div class="row">

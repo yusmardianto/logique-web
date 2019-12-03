@@ -70,67 +70,67 @@ if(isset($_POST['submitted']))
 
 			<!-- NAVIGATION -->
 			<div class="nav-lp">
-				<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-					<span class="icon-bar first"></span>
-					<span class="icon-bar second"></span>
-					<span class="icon-bar third"></span>
-				</button>
-				<div class="collapse navbar-collapse" id="myNavbar">
+			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+				<span class="icon-bar first"></span>
+				<span class="icon-bar second"></span>
+				<span class="icon-bar third"></span> 
+			</button>
+			<div class="collapse navbar-collapse" id="myNavbar">
 				<div class="backdrop-test"></div>
-					<div class="logique-nav in-jp">
-						<div class="margin-for-nav">
-							<div class="text-center  active">
-								<a href="/jp/">
-									<div class="img-home"></div>
-									Home
-								</a>
-							</div>
-							<div class="text-center">
-								<a href="/jp/logique.php">
-									<div class="img-about"></div>
-									会社概要
-								</a>
-							</div>
-							<div class="text-center">
-								<a href="/jp/portfolio.php">
-									<div class="img-portfolio"></div>
-									制作実績
-								</a>
-							</div>
-							<div class="text-center">
-								<a href="/jp/services.php">
-									<div class="img-services"></div>
-									サービス
-								</a>
-							</div>
-							 	<div class="text-center">
-							<a href="product.php">
-								<div class="img-product"></div>
-								プロダクト
+				<div class="logique-nav in-jp">
+					<div class="margin-for-nav">
+						<div class="text-center">
+							<a href="/jp/">
+								<div class="img-home"></div>
+								Home
 							</a>
 						</div>
-							<div class="text-center">
-								<a href="/jp/joinus.php">
-									<div class="img-career"></div>
-									採用/<br>パートナー
-								</a>
-							</div>
-							<div class="text-center">
-								<a href="/jp/contact.php">
-									<div class="img-contact"></div>
-									お問い合わせ
-								</a>
-							</div>
-							<div class="text-center">
-								<a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-									<div class="img-blog"></div>
-									Blog
-								</a>
-							</div>
+						<div class="text-center">
+							<a href="/jp/logique.php">
+								<div class="img-about"></div>
+								会社概要
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/jp/portfolio.php">
+								<div class="img-portfolio"></div>
+								制作実績
+							</a>
+						</div>
+						<div class="text-center active">
+							<a href="/jp/services.php">
+								<div class="img-services"></div>
+								サービス
+							</a>
+						</div>
+						 	<div class="text-center">
+						<a href="/jp/product.php">
+							<div class="img-product"></div>
+							プロダクト
+						</a>
+					</div>
+						<div class="text-center">
+							<a href="/jp/joinus.php">
+								<div class="img-career"></div>
+								採用/<br>パートナー
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="/jp/contact.php">
+								<div class="img-contact"></div>
+								お問い合わせ
+							</a>
+						</div>
+						<div class="text-center">
+							<a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
+								<div class="img-blog"></div>
+								Blog
+							</a>
 						</div>
 					</div>
 				</div>
 			</div>
+		</div>
 			<!-- NAVIGATION -->
 			<div class="top-header-container">
 				<div class="container">
@@ -597,25 +597,8 @@ if(isset($_POST['submitted']))
 		<section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
 		<?php include '../footer.php'; ?>
 
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-		<script src="/js/bootstrap.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
-		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<script type="text/javascript">
-			$(function() {
-				$('.smooth').click(function() {
-				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-					var target = $(this.hash);
-					target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-					if (target.length) {
-					  $('html, body').animate({
-						scrollTop: target.offset().top
-					  }, 1000);
-					  return false;
-					}
-				  }
-				});
-			});
 
 			$('.min-h').matchHeight({
 				 // byRow: false
