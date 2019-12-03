@@ -94,7 +94,7 @@ if(isset($_POST['submitted']))
                  <div class="backdrop-test"></div>
                  <div class="logique-nav">
                      <div class="margin-for-nav">
-                         <div class="text-center active">
+                         <div class="text-center">
                              <a href="/en/">
                                  <div class="img-home"></div>
                                  Home
@@ -112,7 +112,7 @@ if(isset($_POST['submitted']))
                                  Portfolio
                              </a>
                          </div>
-                         <div class="text-center">
+                         <div class="text-center active">
                              <a href="/en/services.php">
                                  <div class="img-services"></div>
                                  Services

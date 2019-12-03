@@ -89,7 +89,7 @@ if(isset($_POST['submitted']))
                 <div class="backdrop-test"></div>
                 <div class="logique-nav in-jp">
                     <div class="margin-for-nav">
-                        <div class="text-center  active">
+                        <div class="text-center">
                             <a href="/jp/">
                                 <div class="img-home"></div>
                                 Home
@@ -107,7 +107,7 @@ if(isset($_POST['submitted']))
                                 制作実績
                             </a>
                         </div>
-                        <div class="text-center">
+                        <div class="text-center active">
                             <a href="/jp/services.php">
                                 <div class="img-services"></div>
                                 サービス
