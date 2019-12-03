@@ -764,6 +764,7 @@
                         </div>
                     </div>
 
+					<br/><br/>
                     <!-- End Vacancies -->
                     <div class="bg-lowongan" id="internvacancy">
                         <div class="row">
