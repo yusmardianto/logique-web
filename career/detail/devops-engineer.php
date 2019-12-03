@@ -241,7 +241,38 @@
             <div class="row">
               <div class="col-md-offset-1 col-md-10">
                 <div class="content-vacancy">
-                  <b class="getN">Persyaratan :</b><br>
+                  <b class="getN">Job Description :</b><br>
+                  <ul class="joinus-ul">
+                    <li>Wajib untuk ikut dalam dalam meeting proses strategic project-planning</li>
+                    <li>Bertanggung jawab untuk mengembangkan dan membangun berbagai IT solution
+                    </li>
+                    <li>Konfigurasi dan manajemen otomatisasi, pemeriksaan kesehatan, point of
+                      failure, notification, dll.</li>
+                    <li>Bekerja sama dengan tim deploy/release untuk memastikan best practice
+                      operasional.</li>
+                    <li>Menentukan alat yang tepat untuk menerapkan proses yang dapat
+                      mengotomatisasi tugas manual apa pun.</li>
+                    <li>Membangun deployment otomatis menggunakan teknologi manajemen konfigurasi.
+                    </li>
+                    <li>Melakukan pemeliharaan aplikasi rutin, juga membantu menciptakan persyaratan
+                      dan prosedur untuk penerapan pemeliharaan rutin.</li>
+                    <li>Menyelidiki masalah (troubleshoot) dan menyelesaikan kesalahan tersebut.
+                    </li>
+                    <li>Mengevaluasi aplikasi dan platform yang ada, juga memberikan rekomendasi
+                      untuk meningkatkan performa dengan gap analysis, mengidentifikasi solusi
+                      alternatif yang paling praktis, dan membantu dalam pemodifikasian.</li>
+                    <li>Mempelajari dan mengumpulkan teknologi/alat-alat baru untuk diperkenalkan ke
+                      perusahaan untuk membuat lingkungan Agile development.</li>
+                    <li>Memberikan direct server support selama berjalannya berbagai operasi seperti
+                      deployment and general production.</li>
+                    <li>Berkolaborasi dengan developers untuk memastikan bahwa environment baru
+                      memenuhi persyaratan dan mematuhi best practice.</li>
+                    <li>Merancang, mengimplementasi dan menguji infrastruktur yang disepakati.</li>
+                    <li>Mengotomatiskan deployment aplikasi Linux, konfigurasi sistem dan pengaturan
+                      keamanan.</li>
+                  </ul>
+                  <br>
+				  <b class="getN">Must Skill/Experience :</b><br>
                   <ul class="joinus-ul">
                     <li>Kandidat harus memiliki setidaknya gelar Sarjana dalam Ilmu Komputer /
                       Teknologi Informasi atau yang setara.</li>
@@ -272,37 +303,12 @@
                     <li>Konsep Container (LXD, Docker, dll.)</li>
                     <li>Orchestration (Kubernetes, Mesos, Swarm, dll.)</li>
                   </ul><br>
-                  <b class="getN">Tanggung Jawab :</b><br>
+                  <b class="getN">Preferable</b><br>
                   <ul class="joinus-ul">
-                    <li>Wajib untuk ikut dalam dalam meeting proses strategic project-planning</li>
-                    <li>Bertanggung jawab untuk mengembangkan dan membangun berbagai IT solution
-                    </li>
-                    <li>Konfigurasi dan manajemen otomatisasi, pemeriksaan kesehatan, point of
-                      failure, notification, dll.</li>
-                    <li>Bekerja sama dengan tim deploy/release untuk memastikan best practice
-                      operasional.</li>
-                    <li>Menentukan alat yang tepat untuk menerapkan proses yang dapat
-                      mengotomatisasi tugas manual apa pun.</li>
-                    <li>Membangun deployment otomatis menggunakan teknologi manajemen konfigurasi.
-                    </li>
-                    <li>Melakukan pemeliharaan aplikasi rutin, juga membantu menciptakan persyaratan
-                      dan prosedur untuk penerapan pemeliharaan rutin.</li>
-                    <li>Menyelidiki masalah (troubleshoot) dan menyelesaikan kesalahan tersebut.
-                    </li>
-                    <li>Mengevaluasi aplikasi dan platform yang ada, juga memberikan rekomendasi
-                      untuk meningkatkan performa dengan gap analysis, mengidentifikasi solusi
-                      alternatif yang paling praktis, dan membantu dalam pemodifikasian.</li>
-                    <li>Mempelajari dan mengumpulkan teknologi/alat-alat baru untuk diperkenalkan ke
-                      perusahaan untuk membuat lingkungan Agile development.</li>
-                    <li>Memberikan direct server support selama berjalannya berbagai operasi seperti
-                      deployment and general production.</li>
-                    <li>Berkolaborasi dengan developers untuk memastikan bahwa environment baru
-                      memenuhi persyaratan dan mematuhi best practice.</li>
-                    <li>Merancang, mengimplementasi dan menguji infrastruktur yang disepakati.</li>
-                    <li>Mengotomatiskan deployment aplikasi Linux, konfigurasi sistem dan pengaturan
-                      keamanan.</li>
+                    <li>Memiliki  sertifikat AWS/google </li>
+                    <li>Bahasa Inggris </li>
                   </ul><br>
-                  <b class="getN">Location</b><br>
+				  <b class="getN">Location</b><br>
                   <ul class="joinus-ul">
                     <li>Jakarta</li>
                   </ul><br>
