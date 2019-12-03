@@ -220,7 +220,7 @@
                   <div class="div-job desc-job">
                     <b class="getN">Job Description:</b><br>
                     <ul class="joinus-ul">
-                      <li>Melakukan analisa terhadap business requirement dan mengkomunikasikannnya dengan client melalui media bahas pemodelan</li>
+                      <li>Melakukan analisa terhadap business requirement dan mengkomunikasikannya dengan client melalui media bahasa pemodelan</li>
                       <li>Mendokumentasikan business requirements dalam bentuk FSD, API spec, dan Prototyping</li>
                       <li>Berkolaborasi intensif dengan Project Manager / Consultant dalam memanage change-request dan melakukan impact analysis</li>
                       <li>Berkolaborasi dengan tim development, QA, dan tim design dalam mendeliver detail business requirements secara sangat komprehensif</li>
