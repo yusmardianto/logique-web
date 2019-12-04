@@ -6,6 +6,13 @@ body {
     overflow-x: hidden;
 } 
 
+@-ms-viewport {width: device-width}
+@-o-viewport {width: device-width}
+@viewport {width: device-width}
+* {
+    font-family: 'M PLUS 1p',Lato, sans-serif; 
+}
+
 a, b, body, caption, center, dd, div, em, footer, form, h1, h2, h3, h4, h5, h6, header, html, i, iframe, img, label, li, menu, nav, ol, p, section, small, span, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, u, ul, video {
     margin: 0;
     padding: 0;
@@ -904,7 +911,7 @@ footer {padding-bottom: 0}
         background-size: cover;
     }
     .style-1 h2{
-        font-size: 2rem;
+        font-size: 18px;
         line-height: 36px;
         font-weight: 595;
     }
@@ -970,4 +977,8 @@ footer {padding-bottom: 0}
      .btn-contact-us-black{
         padding:10px 20px;
      }
+     .style-3 a{
+        font-size: 16px!important;
+        margin: 12px 0;
+    }
 }

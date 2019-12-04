@@ -674,13 +674,6 @@ if(isset($_POST['submitted']))
         });
     });
 
-    $('.min-h').matchHeight({
-        // byRow: false
-    });
-    $('.flow-part').matchHeight({
-        // byRow: false
-    });
-    </script>
-</body>
+
 
 </html>

@@ -220,52 +220,41 @@
                   <div class="div-job desc-job">
                     <b class="getN">Job Description:</b><br>
                     <ul class="joinus-ul">
-                      <li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
-                      <li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
-                      <li>Mengelola berkolaborasi dengan tim developer.</li>
-                      <li>Mendesain sistem dan IT network, serta memastikan arsitektur dan fungsionalitas yang tepat.
-                      </li>
-                      <li>Mendukung implementasi teknologi baru.</li>
-                      <li>Melatih pengguna dalam sistem IT baru dan yang sudah ada.</li>
-                      <li>Memberikan bantuan untuk masalah teknis.</li>
-                      <li>Merevisi sistem yang ada dan menyarankan perbaikan.</li>
-                      <li>Menyajikan laporan yang tepat dan terstruktur.</li>
-                    </ul>
-                    <br>
-                    <b class="getN">Must Skill/Experience</b><br>
-                    <ul class="joinus-ul">
-                      <li>Memiliki pengalaman sebagai IT Consultant minimal 1-2 tahun</li>
-                      <li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.</li>
-                      <li>Memiliki kemampuan untuk memecahkan masalah pada hardware, software, dan network.</li>
-                      <li>Mempunyai pengalaman dengan berbagai sistem operasi dan database.</li>
-                      <li>Bisa bekerja dalam tim.</li>
-                      <li>Berorientasi pada pelayanan terhadap client/customer.</li>
-                      <li>Memiliki kemampuan interpesonal yang luar biasa.</li>
+                      <li>Melakukan analisa terhadap business requirement dan mengkomunikasikannya dengan client melalui media bahasa pemodelan</li>
+                      <li>Mendokumentasikan business requirements dalam bentuk FSD, API spec, dan Prototyping</li>
+                      <li>Berkolaborasi intensif dengan Project Manager / Consultant dalam memanage change-request dan melakukan impact analysis</li>
+                      <li>Berkolaborasi dengan tim development, QA, dan tim design dalam mendeliver detail business requirements secara sangat komprehensif</li>
+                      <li>Berkolaborasi dengan tim development / Programmer analyst dalam mendesign web aplikasi, mobile aplikasi, dan API</li>
+                      <li>Membuat dokumen user manual / user guide</li>
                     </ul>
                     <br>
                     <b class="getN">Required Skill</b><br>
                     <ul class="joinus-ul">
-                      <li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik
-                      </li>
-                      <li>Memiliki kemampuan komunikasi dan presentasi yang sangat baik</li>
-                      <li>Kemampuan analisa yang baik </li>
-                      <li>Memiliki pengetahuan yang luas dengan dunia IT.</li>
+                      <li>Memiliki pengalaman sebagai Business Analyst minimal 2 tahun</li>
+                      <li>Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan</li>
+                      <li>Memiliki kemampuan untuk memecahkan masalah secara sistematis</li>
+                      <li>Memiliki skill dokumentasi business requirements</li>
+                      <li>Memiliki skill dalam menggunakan tool pemodelan software / aplikasi seperti UML, ERD, Flowchart, balsamiq, dan software prototyping.</li>
+                      <li>Mempunyai pengalaman dengan berbagai sistem operasi dan platform.</li>
+                      <li>Bisa bekerjasama dalam tim.</li>
+                      <li>Memiliki kemampuan komunikasi yang baik (verbal dan non verbal).</li>
+                      <li>Memiliki kemampuan presentasi.</li>
+                      <li>Memiliki kemampuan interpesonal.</li>
+                      <li>Memiliki pengetahuan dan wawasan yang luas dengan dunia IT.</li>
                     </ul>
                     <br>
                     <b class="getN">Preferable</b><br>
                     <ul class="joinus-ul">
-                      <li>Project Management</li>
-                      <li>Bahasa Inggris</li>
+                      <li>Berpengalaman dalam Project Management</li>
+                      <li>Memiliki kemampuan Bahasa Inggris (verbal dan non verbal)</li>
+                      <li>Berpengalaman dalam project automobile based, accounting system, dan eCommerce.</li>
                     </ul>
                     <br>
                     <b class="getN">Rewards and worthwhile</b><br>
                     <ul class="joinus-ul">
                       <li>Akan selalu up to date tentang perkembangan dunia IT</li>
-                      <li>Kami memiliki client dari berbagai bidang industry, dan Anda bisa
-                        berhubungan dengan salah satunya. Hal itu bisa meningkatkan networking
-                        Anda</li>
-                      <li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji
-                        sebelumnya)</li>
+                      <li>Kami memiliki client dari berbagai bidang industry, dan Anda bisa berhubungan dengan salah satunya. Hal itu bisa meningkatkan networking Anda</li>
+                      <li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya)</li>
                     </ul>
                     <br>
                     <b class="getN">Location</b><br>

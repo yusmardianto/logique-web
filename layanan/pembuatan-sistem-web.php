@@ -228,7 +228,7 @@
 							Kami merancang sistem berkualitas tinggi karena pengujian keamanan wajib dilakukan sebelum delivery. 
 							Kami dapat melakukan penetration testing seperti SQL injection, path traversal, dan x-site scripting untuk mengurangi risiko.
 						</p>
-						<a href="../layanan/penetration-testing" class="btn-contact-us-black-pent col-md-12">Diagnosa Kelemahan Web</a>
+						<a href="../layanan/penetration-testing" class="btn-contact-us-black-pent col-md-12" style="margin: 12px 0;">Diagnosa Kelemahan Web</a>
 					</div>
 					<div class="col-md-3 justify-content-center">
 						<h3 class="new1">Pengalaman luas tentang Pasar Indonesia</h3>
@@ -810,7 +810,7 @@
 				</div>
 			</section>
 			<section class="style-6">
-				<div class="container">
+				<div class="container" style="margin-right: 0;">
 					<div class="row">
 						<div class="col-md-5">
 							<h1 class="new6"><span class="underline2">Client</span><br>Testimonial</h1>
@@ -852,8 +852,8 @@
 							</div>
 							<div class="col-md-8">
 								<div class="row">
-									<div class="col-md-12">
-										<h2 class="new2">Poin Utama Untuk Keberhasilan Pengembangan Sistem Web</h2>
+									<div class="col-md-12 mb-1">
+										<h2 class="new2 mb-1">Poin Utama Untuk Keberhasilan Pengembangan Sistem Web</h2>
 										<h4>
 											LOGIQUE selalu memberikan layanan yang optimal dengan memprioritaskan kualitas terbaik bagi seluruh klien kami.
 											Hal ini dikarenakan LOGIQUE mempunyai 3 poin kunci yang merupakan esensi utama dalam keberhasilan suatu proyek.
@@ -861,7 +861,7 @@
 									</div>
 								</div>
 								<div class="row">
-									<div class="col-md-12">
+									<div class="col-md-12 mb-1">
 										<h4 class="bold">Pengalaman</h4>
 										<h4 class="">
 											LOGIQUE telah menangani lebih dari 200 proyek dari berbagai bidang industri di Indonesia.
@@ -870,7 +870,7 @@
 									</div>
 								</div>
 								<div class="row">
-									<div class="col-md-12">
+									<div class="col-md-12 mb-1">
 										<h4 class="bold">Kecepatan dan Fleksibilitas</h4>
 										<h4 class="">
 											Bisnis berkembang semakin cepat.
@@ -881,7 +881,7 @@
 									</div>
 								</div>
 								<div class="row">
-									<div class="col-md-12">
+									<div class="col-md-12 mb-1">
 										<h4 class="bold">Kualitas & Keamanan</h4>
 										<h4 class="">
 											Dengan proses pengerjaan yang sangat cepat, kualitas tetap tidak boleh dikorbankan.
@@ -891,7 +891,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-12">
+							<div class="col-md-12 mb-1">
 								<div class="text-center btn-container-contact"  >
 									<a href="/hubungi-kami.php" class="btn btn-contact-us-black">
 										Anda butuh pengembangan dan pengoperasian sistem? Jangan pernah ragu untuk menghubungi kami!

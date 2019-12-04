@@ -150,6 +150,11 @@
         .modal-backdrop {
             display: none !important
         }
+        .collapsing {
+            -webkit-transition: none;
+            transition: none;
+            display: none;
+        }
         </style>
 
         <div class="content-wrapper__">
@@ -1523,8 +1528,8 @@
                         </div>
 
                         <div class="text-center">
-                            <a class="btn btn-more-portfolio custom-btn-contact" data-toggle="collapse"
-                                href="#hideSysDev" onclick="jump('sysDev')">
+                            <a class="btn btn-more-portfolio custom-btn-contact" role="button" data-toggle="collapse"
+                                href="#hideSysDev" onclick="jump('sysDev')" aria-expanded="false" aria-controls="hideSysDev">
                                 Web・ITシステム開発実績をもっとみる</a>
                         </div>
 
@@ -2077,7 +2082,7 @@
         });
         </script>
         <script>
-            function jump(h){
+        function jump(h){
             var top = document.getElementById(h).offsetTop;
             window.scrollTo(0, top);
         }

@@ -4,6 +4,14 @@ html, body {
     color: #000;
     font-family: 'M PLUS 1p','Raleway', sans-serif; 
 }
+
+@-ms-viewport {width: device-width}
+@-o-viewport {width: device-width}
+@viewport {width: device-width}
+* {
+    font-family: 'M PLUS 1p',Lato, sans-serif; 
+}
+
 a,b,body,caption,center,dd,div,em,footer,form,h1,h2,h3,h4,h5,h6,header,html,i,iframe,img,label,li,menu,nav,ol,p,section,small,span,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,u,ul,video {
     margin: 0;
     padding: 0;

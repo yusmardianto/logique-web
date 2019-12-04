@@ -4,6 +4,13 @@ background-color: rgba(80, 227, 194, 0.12);
 font-family: 'M PLUS 1p',Lato, sans-serif;   
 }
 
+@-ms-viewport {width: device-width}
+@-o-viewport {width: device-width}
+@viewport {width: device-width}
+* {
+    font-family: 'M PLUS 1p',Lato, sans-serif; 
+}
+
 img:hover {opacity: 0.8}
 span, p {cursor: default;}
 .fade-in {

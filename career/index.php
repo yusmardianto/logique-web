@@ -159,11 +159,11 @@
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
                             <div class="container">
-                                <ul class="list-inline">
+                                <!-- <ul class="list-inline">
                                     <li><a href="en/services.php">EN</a></li>
                                     <li class="active"><a href="#">ID</a></li>
                                     <li><a href="jp/services.php">JP</a></li>
-                                </ul>
+                                </ul> -->
                                 <a href="index.php"><img src="../img/logo.png"
                                         alt="Jasa Pembuatan Website Logique Digital Indonesia"
                                         class="img-responsive logo--update-design" /></a>
@@ -402,18 +402,12 @@
 								</div>
 							</div> -->
 
-                    </div>
-
-                    <!-- SECOND LINE -->
-
-                    <div class="row">
-
                         <div class="col-md-3 card" data-name="10">
                             <div class="panel panel-default">
                                 <div class="panel-body">
                                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
                                     <img src="/img/career/pm.png" />
-                                    <h3 style="font-size:20px;">Technical Project Manager</h3>
+                                    <h3 style="font-size:20px;">Project Manager</h3>
                                     <div class="boxfull">Fulltime</div>
                                 </div>
                                 <div class="panel-footer">
@@ -421,7 +415,7 @@
                                         <img src="/img/career/urgent.png">
                                     </div>
                                     <div class="text-center">
-                                        <a class="btn btn-detail" href="detail/technical-project-manager.php"
+                                        <a class="btn btn-detail" href="detail/project-manager.php"
                                             id="technical-pm">Detail</a>
                                     </div>
                                 </div>
@@ -506,7 +500,7 @@
                 </div>
               </div> -->
 
-                        <div class="col-md-3 card" data-name="10">
+                        <!--<div class="col-md-3 card" data-name="10">
                             <div class="panel panel-default">
                                 <div class="panel-body">
                                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -523,7 +517,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
 
                         <div class="col-md-3 card" data-name="4">
                             <div class="panel panel-default">
@@ -542,12 +536,7 @@
                             </div>
                         </div>
 
-                    </div>
-
-                    <!-- THIRD LINE -->
-                    <div class="row">
-
-                        <div class="col-md-3 card hidden" data-name="5">
+                        <!--<div class="col-md-3 card hidden" data-name="5">
                             <div class="panel panel-default">
                                 <div class="panel-body">
                                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta</div>
@@ -556,9 +545,9 @@
                                     <div class="boxfull">Fulltime</div>
                                 </div>
                                 <div class="panel-footer">
-                                    <!-- <div class="urgent-front">
-                      <img src="/img/career/urgent.png">
-                    </div> -->
+                                    <div class="urgent-front">
+									  <img src="/img/career/urgent.png">
+									</div>
                                     <p></p>
                                     <div class="text-center">
                                         <a class="btn btn-detail" href="detail/lead-quality-assurance.php"
@@ -566,7 +555,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
 
                         <div class="col-md-3 card" data-name="5">
                             <div class="panel panel-default">
@@ -640,11 +629,6 @@
                                 </div>
                             </div>
                         </div>
-
-                    </div>
-
-                    <!-- FOURTH LINE -->
-                    <div class="row" style="display:none">
 
                     </div>
 
@@ -780,6 +764,7 @@
                         </div>
                     </div>
 
+					<br/><br/>
                     <!-- End Vacancies -->
                     <div class="bg-lowongan" id="internvacancy">
                         <div class="row">
@@ -1469,6 +1454,7 @@
     <script src="/js/jquery.matchHeight.js"></script>
     <script type="text/javascript">
     $(function() {
+        $(".card").matchHeight()
         $(".panel-body").matchHeight()
         $(".bofxull").matchHeight()
         $('.smooth').click(function() {

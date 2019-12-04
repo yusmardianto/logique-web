@@ -111,7 +111,7 @@ header h2 {
     padding-top: 0;
 }
 .new1 {
-    height: 55px;
+    height: 85px;
     text-align: center;
     font-weight: 600;
     font-size: 19px;
@@ -657,6 +657,10 @@ section,footer{margin-left:95px}
     padding-left: 23px;
 }
 
+.new6 .underline2{
+    padding-bottom: 2em;
+}
+
 @media (min-width:1200px) {
     .margin-for-nav {
         top: 50%;
@@ -712,7 +716,13 @@ section,footer{margin-left:95px}
         right: 0; */
     }
     .style-6{
-        background-position-x: -20vw;
+        background-position-x: -55vw;
+    }
+    .new1{
+        height: 96px;
+    }
+    .new6 .underline2{
+        padding-bottom: 2em;
     }
 }
 @media (max-width: 768px){
@@ -764,6 +774,12 @@ section,footer{margin-left:95px}
     }
     .language-btn {
         top: -115px;
+    }
+    .new1{
+        height: fit-content;
+    }
+    .yellow-stripes{
+        height: 6px!important;
     }
 
 }
@@ -890,8 +906,9 @@ footer {padding-bottom: 0}
         font-size: 0.8rem;
     }
     .style-1 h2{
-        font-size: 24px;
+        font-size: 16px;
         line-height: 36px;
+        text-align: justify;
     }
     .new5{
         /* bottom: 0;
@@ -940,6 +957,19 @@ footer {padding-bottom: 0}
      }
      .btn-contact-us-black{
         padding:10px 20px;
+        font-size: 16px
+     }
+     .new7{
+         font-size: 24px;
+     }
+     .dark-gold-title, .supposedly-style4 p{
+         font-size: 16px;
+     }
+     .underline2{
+         padding-bottom: 2em;
+     }
+     .new3.h4.mb-1 h4.mt-2{
+         font-size: 16px;
      }
 }
 

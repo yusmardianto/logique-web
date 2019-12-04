@@ -219,54 +219,53 @@
                 <div class="content-vacancy">
                   <div class="div-job desc-job">
                     <b class="getN">Job Description</b><br>
+					<div style="font-weight:bold">Presales:</div>
                     <ul class="joinus-ul">
-                      <li>Melakukan pengawasan kinerja team member dalam suatu project.</li>
-                      <li>Manajemen pembagian kerja dengan tim development internal maupun vendor
-                        untuk memenuhi kebutuhan klien.</li>
-                      <li>Memastikan alur dan jangkauan kerja sebuah project berjalan sesuai
-                        timeline dan tujuan.</li>
-                      <li>Melakukan dokumentasi progress sebuah project untuk klien jika
-                        diperlukan.</li>
-                      <li>Melakukan negosiasi agar kebutuhan klien dan budget secara efektif.</li>
-                      <li>Menangani manajemen project secara keseluruhan termasuk perencanaan,
-                        proposal/kontrak. hingga pengembangan dan pemeliharaan.</li>
+                      <li>Memahami kebutuhan pelanggan dan tujuan bisnis</li>
+                      <li>Memberikan konsultasi dan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
+					  <li>Berkolaborasi dengan tim Sales untuk membantu proses penjualan</li>
+					  <li>Melakukan analisa terhadap kebutuhan dan memberikan estimasi pengerjaan yang diperlukan termasuk pembuatan proposal</li>
+                    </ul>
+					<div style="font-weight:bold">Development:</div>
+                    <ul class="joinus-ul">
+                      <li>Membuat inisiasi jadwal pengembangan, rancangan penggunaan resource, dan project costing</li>
+                      <li>Melakukan manajemen proyek untuk mendapatkan hasil yang berkualitas dan tepat waktu.</li>
+					  <li>Melakukan monitoring terhadap penggunaan resource proyek</li>
+					  <li>Berkomunikasi dengan klien selama jalannya proyek</li>
+					  <li>Berkolaborasi dengan developer terkait pengerjaan sesuai ruang lingkup proyek</li>
+                    </ul>
+					<div style="font-weight:bold">Post Development:</div>
+                    <ul class="joinus-ul">
+                      <li>Menyajikan laporan yang tepat dan terstruktur</li>
                     </ul>
                     <br>
 
                     <b class="getN">Must Skill / Experience</b><br>
                     <ul class="joinus-ul">
-                      <li>Memiliki pengalaman sebelumnya minimal 2 tahun pada bidang Web dan
-                        System Development</li>
-                      <li>Memiliki pemahaman yang mendalam mengenai Web dan IT System</li>
-                      <li>Memiliki Skill management yang baik dalam mengelola team member yang ada
-                      </li>
-                      <li>Memiliki cara pikir yang logical untuk menangani masalah</li>
-                      <li>Dapat bekerja di bawah tekanan</li>
+                      <li>Memiliki pengalaman yang sangat baik dan up to date terhadap pengaplikasian teknologi terbaru dalam bidang pembuatan website, sistem web, dan aplikasi mobile.</li>
+                      <li>Memiliki kemampuan analisa dan memecahkan masalah yang tinggi.</li>
+                      <li>Berorientasi pada pelayanan terhadap client/customer.</li>
+                      <li>Memiliki kemampuan interpesonal yang baik.</li>
+                      <li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik.</li>
+                      <li>Memiliki kemampuan presentasi yang baik<./li>
+                      <li>Memiliki pengetahuan yang luas dengan dunia IT.</li>
+                      <li>Berpendidikan minimal S1 di bidang Teknik Informatika atau Sistem Informasi.</li>
+                      <li>Memiliki pengalaman sebagai IT Consultant atau Project Manager minimal 2 tahun.</li>
+                      <li>Dapat bekerja dalam tim.</li>
                     </ul>
                     <br>
-
-                    <b class="getN">Required Skill</b><br>
-                    <ul class="joinus-ul">
-                      <li>Memiliki pengetahuan yang baik tentang cloud server</li>
-                      <li>Memiliki kemampuan interpersonal yang baik</li>
-                      <li>Project Management </li>
-                    </ul>
-                    <br>
-
                     <b class="getN">Preferable</b><br>
                     <ul class="joinus-ul">
-                      <li>Memiliki PMP Certification</li>
+                      <li>Project Management Certification</li>
+                      <li>Bahasa Inggris</li>
+                      <li>Memiliki Kendaraan Bermotor Pribadi</li>
                     </ul>
                     <br>
 
                     <b class="getN">Rewards and worthwhile</b><br>
                     <ul class="joinus-ul">
-                      <li>Mendapatkan pengalaman menangani berbagai macam project unik dari
-                        berbagai jenis bidang/industri.</li>
-                      <li>Dengan jumlah project yang tidak sedikit, dapat mudah mengasah manajemen
-                        dalam bidang IT dan juga networking yang lebih luas</li>
-                      <li>Menangani masalah sesuai dengan ide/pemikiran pribadi selama project
-                        dapat berjalan sebagaimana mestinya.</li>
+                      <li>Kesempatan bertemu banyak klien dari berbagai macam bidang dan industri.</li>
+                      <li>Dapat beradaptasi dalam hal komunikasi kepada banyak klien yang multikultural.</li>
                     </ul>
                     <br>
                     <b class="getN">Location</b><br>
