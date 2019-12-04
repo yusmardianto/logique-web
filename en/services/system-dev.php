@@ -210,7 +210,7 @@
 
          <div class="container__" style="position:relative">
              <div class="row">
-                 <div class="col-lg-offset-7  col-lg-6 col-sm-offset-6 col-sm-6 bg-header-txt">
+                 <div class="col-lg-offset-7  col-lg-5 col-sm-offset-6 col-sm-6 bg-header-txt">
                      <h2 class="text-left m-new">
                          Do you require professional expertise in System Design & App Development?
                      </h2>

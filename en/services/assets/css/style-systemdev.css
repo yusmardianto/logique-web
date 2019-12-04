@@ -729,7 +729,8 @@ section,footer{margin-left:95px}
     }
     .bg-header-txt{
         background-color: rgb(252,203,13,0.7);
-        margin-left: 55%;
+        margin-left: 45%;
+        /* margin-left: 55%; */
         position: unset;
     }
     .gold-bar{

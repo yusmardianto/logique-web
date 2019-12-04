@@ -203,7 +203,7 @@
          </div>
          <div class="container__" style="position:relative">
              <div class="row">
-                 <div class="col-lg-offset-6 col-lg-6 col-sm-offset-6 col-sm-6 bg-header-txt">
+                 <div class="col-lg-offset-6 col-lg-5 col-sm-offset-6 col-sm-6 bg-header-txt">
                      <h1 class="text-left m-new">インドネシアでシステム開発が必要ならLOGIQUEにご相談ください</h1>
                      <h2 class="text-left m-new">豊富な実績をベースに、<br> 早い、安い、でもクオリティは高いシステムを開発します。</h2>
                  </div>

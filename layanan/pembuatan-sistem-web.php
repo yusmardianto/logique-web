@@ -250,7 +250,7 @@
                  </div>
                  <!-- end of lang btn -->
 
-                 <div class="col-lg-offset-7  col-lg-6 col-sm-offset-6 col-sm-6 bg-header-txt">
+                 <div class="col-lg-offset-7  col-lg-5 col-sm-offset-6 col-sm-6 bg-header-txt">
                      <h2 class="text-left m-new">
                          Apakah anda membutuhkan layanan profesional dalam Pengembangan Sistem & Aplikasi? Jangan khawatir:
                          Logique siap melayani!
