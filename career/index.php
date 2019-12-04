@@ -343,7 +343,26 @@
                                 </div>
                             </div>
                         </div>
-
+						
+						<div class="col-md-3 card" data-name="4">
+                            <div class="panel panel-default">
+                                <div class="panel-body">
+                                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+                                    <img src="/img/career/fe.png" />
+                                    <h3>Front End Developer</h3>
+                                    <div class="boxfull">Fulltime</div>
+                                </div>
+                                <div class="panel-footer">
+                                    <div class="urgent-front">
+                                        <img src="/img/career/urgent.png">
+                                    </div>
+                                    <div class="text-center">
+                                        <a class="btn btn-detail" href="detail/front-end.php" id="front-end">Detail</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+						
                         <div class="col-md-3 card" data-name="10">
                             <div class="panel panel-default">
                                 <div class="panel-body">
@@ -518,23 +537,6 @@
                                 </div>
                             </div>
                         </div>-->
-
-                        <div class="col-md-3 card" data-name="4">
-                            <div class="panel panel-default">
-                                <div class="panel-body">
-                                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
-                                    <img src="/img/career/fe.png" />
-                                    <h3>Front End Developer</h3>
-                                    <div class="boxfull">Fulltime</div>
-                                </div>
-                                <div class="panel-footer">
-                                    <p></p>
-                                    <div class="text-center">
-                                        <a class="btn btn-detail" href="detail/front-end.php" id="front-end">Detail</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
 
                         <!--<div class="col-md-3 card hidden" data-name="5">
                             <div class="panel panel-default">
