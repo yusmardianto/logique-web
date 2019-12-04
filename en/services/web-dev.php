@@ -84,8 +84,8 @@ if(isset($_POST['submitted']))
      <div>
          <!-- NAVIGATION -->
          <div class="nav-lp">
-             <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
-                 data-target="#myNavbar">
+             <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
+                 data-toggle="collapse" data-target="#myNavbar">
                  <span class="icon-bar first"></span>
                  <span class="icon-bar second"></span>
                  <span class="icon-bar third"></span>

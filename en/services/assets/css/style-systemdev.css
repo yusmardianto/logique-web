@@ -20,8 +20,9 @@ header {
     width: 100%;
     height: 100vh;
     text-align: center;
-    padding-top: 120px;
-    padding-bottom: 240px;
+    padding-bottom: 140px;
+    /* padding-top: 120px; */
+    /* padding-bottom: 240px; */
 }
 header h1 {
     font-family: 'Lato', serif;
@@ -49,7 +50,7 @@ header h2 {
 
 .breadcrumb>li a {
     color: #ffca13;
-    font-weight: 300;
+    /* font-weight: 300; */
 }
 
 .breadcrumb-position{
@@ -69,6 +70,7 @@ header h2 {
     width: calc(100% - 1em);
     height: fit-content;
     object-fit: cover;
+    margin-top: 1em;
     margin-bottom: 20px;
 }
 
@@ -80,7 +82,8 @@ header h2 {
 
 .bg-header-txt{
     position: relative;
-    top: 10vh;
+    /* top: 10vh; */
+    top: 6vh;
 }
 
 .style-1 {
@@ -93,11 +96,12 @@ header h2 {
 .style-2 {
     background: url(../img/img-systemdev/banner.png)   ;    
     color: #fff;
-    height: 400px;
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-position-y: -20vh;
-    
+    background-size: cover;
+    background-position-y: bottom;
+    /* height: 400px; */
+    /* background-size: 100%; */
+    /* background-position-y: -20vh; */
     }
 .style-3 {
     background: url(../img/img-systemdev/black-line-1.png) no-repeat;
@@ -193,7 +197,9 @@ header h2 {
 }
 .style-6{
     background: url(../img/img-systemdev/img4.jpg); 
-    background-position: left center;background-size: cover;
+    /* background-position: left center; */
+    background-position: 35% center;
+    background-size: cover;
     height: auto;
     color: #fff;}
 .style-7{
@@ -325,12 +331,10 @@ section {
     margin-bottom: 65px;
 }
 
-.row {
+/* .row {
     margin-left: -12px;
     margin-right: -12px;
-}
-
-
+} */
 
 .img-fluid {
     width: 100%;
@@ -467,9 +471,10 @@ section,footer{margin-left:95px}
 .card section{margin-left:0}
 .nav-lp .navbar-toggle.collapsed {
     background-color: #ffca13!important;
-    position: relative!important;
     right: 0!important;
-    top: -80px;
+    top: 10px;
+    /* position: relative!important; */
+    /* top: -80px; */
 }
 .nav-lp .navbar-toggle {
     background-color: #ffca13!important;
@@ -478,7 +483,8 @@ section,footer{margin-left:95px}
     right: 80px;
     border-radius: 0;
     height: 34px;
-    top: -7px;
+    /* top: -7px; */
+    transition: all 1s;
 }
 .nav-lp .navbar-toggle.collapsed .icon-bar.first {transform: rotate(0)!important;}
 .nav-lp .navbar-toggle.collapsed .icon-bar.second {background: #000!important;}
@@ -783,7 +789,7 @@ section,footer{margin-left:95px}
     .container {width:auto;}
     .logo-header{left: 0;}
     section,footer{margin-left:0}
-    .nav-lp .navbar-collapse {margin-top: -90px;}
+    /* .nav-lp .navbar-collapse {margin-top: -90px;} */
     .language-btn {right: auto;left: 10px;}
     .btn-portfolio {padding: 10px 15px;}
 
