@@ -70,6 +70,7 @@ header h2 {
     width: calc(100% - 1em);
     height: fit-content;
     object-fit: cover;
+    margin-top: 1em;
     margin-bottom: 20px;
 }
 
