@@ -347,7 +347,7 @@
 						<div class="col-md-3 card" data-name="4">
                             <div class="panel panel-default">
                                 <div class="panel-body">
-                                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta & Yogya</div>
+                                    <div class="map"><i class="fa fa-map-marker"></i> Jakarta </div>
                                     <img src="/img/career/fe.png" />
                                     <h3>Front End Developer</h3>
                                     <div class="boxfull">Fulltime</div>
