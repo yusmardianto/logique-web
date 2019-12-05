@@ -153,12 +153,9 @@
                             <div class="text-center">
                                 <h1 class="title-index">About Us</h1>
                                 <hr class="title__yellow-line--center">
-                                <p class="title__description">LOGIQUE is a Japanese owned website and web system development
-                                    company in Jakarta, Indonesia, supporting Japanese companies based in Indonesia. <br><br>
-                                    We support the development and operations of websites and systems, web design, company profile
-                                    landing page development, mobile application for company web system, CMS and recruitment
-                                    management system development, PWA development, SEO, digital ads, and social media campaigns
-                                    for Facebook and Instagram.</p>
+                                <p class="title__description">LOGIQUE Digital Indonesia is a leading IT consultant and system development company owned by a Japanese entrepreneur based in Jakarta. <br><br>
+                                As a developer with client-orientated goals, we aim to contribute to the cutting edge of the IT and Digital fields in Indonesia by empowering our clients through various Web and Digital solutions, such as the development of mobile apps, Progressive Web Apps (PWA), web and system development, SEO, and by providing a wide range of other digital services.
+                                </p>
                             </div>
 
                             <div class="row">
@@ -170,41 +167,22 @@
                                             <div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
                                                 <div class="carousel-inner">
                                                     <div class="item active">
-                                                        <img src="/img/banner-logo-logique.jpg" alt="Web Developer LOGIQUE 5">
-                                                        <div class="custombox__slider-text-wrapper">
-                                                            <p class="custombox__slider-text">With over 7 years’ experience in
-                                                                Indonesia, our team is ready to engage in problems specific to
-                                                                the
-                                                                local area.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
                                                         <img src="/img/slider5.jpg" alt="Web Developer LOGIQUE 5">
                                                         <div class="custombox__slider-text-wrapper">
-                                                            <p class="custombox__slider-text">We provide employee monitoring
-                                                                software catering to remote work, which bypasses Jakarta’s
-                                                                high
-                                                                traffic congestion problem. </p>
+                                                            <p class="custombox__slider-text">With over 7 years of experience in Indonesia, our team is ready to solve your IT problems.</p>
                                                         </div>
                                                     </div>
                                                     <div class="item">
                                                         <img style="object-position:0 0" src="/img/banner-all-member.jpg"
                                                             alt="logique member">
                                                         <div class="custombox__slider-text-wrapper">
-                                                            <p class="custombox__slider-text">In addition, our high quality
-                                                                software produces results conforming to an international
-                                                                standard,
-                                                                as we have much experience serving a wide range of global
-                                                                clientele. </p>
+                                                            <p class="custombox__slider-text">We provide employee monitoring software so as to improve productivity. </p>
                                                         </div>
                                                     </div>
                                                     <div class="item">
                                                         <img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
                                                         <div class="custombox__slider-text-wrapper">
-                                                            <p class="custombox__slider-text">Consult with us so that we may
-                                                                become your partners in assisting you with improving your
-                                                                enterprise.
-
+                                                            <p class="custombox__slider-text">Our software conforms to a Japanese / International standard of quality, and services a wide range of global clients. 
                                                             </p>
                                                         </div>
                                                     </div>
@@ -262,22 +240,10 @@
                                 </div>
 
                                 <div class="principle__content">
-                                    <p>LOGIQUE is one of the few contract based Japanese web/system production companies in
-                                        Indonesia. With our track record, dealing with major customers, we guarantee delivering
-                                        the best quality. LOGIQUE seeks to provide high quality services by customizing each
-                                        proposal to fulfill customer's needs.<br><br>
-                                        In an era where speed is essential, LOGIQUE values efficiency especially in Indonesia
-                                        where things are always changing and growing rapidly. At times, we will support our
-                                        customers to meet the project deadlines to meet their business goals.<br><br>
-                                        LOGIQUE can help with the deployment of a simple corporate website with the newest web
-                                        services in the Indonesian market, which requires several considerations such as budgets,
-                                        resources, and schedule. <br><br>
-                                        LOGIQUE is flexible. Our trustworthy web development team is expected to adapt
-                                        depending on the situation. Therefore, in response to your expectations, we
-                                        can
-                                        adjust our
-                                        style to your requirements, while providing you with the highest value of
-                                        production.
+                                    <p>LOGIQUE is a high quality System / Web Development Company located in Jakarta and Yogyakarta, and was founded by a Japanese entrepreneur. With a proven track record in dealing with large-scale enterprises, LOGIQUE guarantees the delivery of high quality IT solutions that fit our customer's requirements.<br><br>
+                                    In an era where speed is essential, LOGIQUE values efficiency and agility, especially in Indonesia, a country of constant change and rapid growth. We strive to support our customers in meeting project deadlines and helping them achieve their business goals.<br><br>
+                                    LOGIQUE provides one-stop IT / Digital marketing services for website design to developing complex enterprise systems and mobile apps. LOGIQUE frequently takes on new challenges without fearing change. <br><br>
+                                    Our trustworthy development team is versatile, and can adapt their methods in order to develop systems / apps based on our client’s requirements. Therefore, we can adjust our style so as to provide you with a product of the highest value.
                                     </p>
                                 </div>
                             </div>
@@ -295,23 +261,15 @@
                             <div class="row">
                                 <div class="col-sm-4">
                                     <h4 class="title-index--bold">GROWTH</h4><br>
-                                    <p>To support a vast range of companies in Indonesia with the goal of growing and
-                                        improving
-                                        all types of businesses in the IT and Digital Marketing fields while maintaining a
-                                        high
-                                        standard of excellence and values.</p><br>
+                                    <p>To support as many companies in Indonesia in accomplishing their goals through providing high quality IT / digital solutions.</p><br>
                                 </div>
                                 <div class="col-sm-4">
                                     <h4 class="title-index--bold">INNOVATION</h4><br>
-                                    <p>To contribute to the growth of Web Development and Digital Marketing through changing
-                                        and
-                                        improving our strategies and solutions.</p><br>
+                                    <p>To contribute to the growth of Indonesia’s Web Development and Digital Marketing industries through bringing forth new ideas and innovations, changing and improving upon old conventions. </p><br>
                                 </div>
                                 <div class="col-sm-4">
                                     <h4 class="title-index--bold">OPPORTUNITY</h4><br>
-                                    <p>To provide better opportunities to Indonesian Web Developers by helping them to
-                                        maximize
-                                        their potential for a better future.</p><br>
+                                    <p>To provide better opportunities to Indonesian Developers and Creators by helping them maximize their potential for a better future.</p><br>
                                 </div>
                             </div>
                         </div>
@@ -349,7 +307,7 @@
                                 <hr class="company__divider">
 
                                 <li>Number of employees</li>
-                                <li class="company__bold">59 as of Nov 2019</li>
+                                <li class="company__bold">58 as of Nov 2019</li>
                                 <hr class="company__divider">
 
                                 <li>Head Office Address</li>
@@ -391,19 +349,8 @@
                                             <hr class="title__white-line">
                                             <div>
                                                 <h5>TAKASHI YOSHITSUGU, <span class="yellow">Director</span></h5><br>
-                                                <p style="text-align: justify">Takashi Yoshitsugu was born in Tokyo, Japan in
-                                                    1976. In 1999, he graduated from
-                                                    the Department of Management Science at Waseda University in Tokyo and
-                                                    possesses a wide range of experience in entrepreneurship and business,
-                                                    getting
-                                                    his start at the Japan Research Institute Inc., the CRM consulting firm,
-                                                    among
-                                                    others, <br><br>
-
-                                                    Until in 2005, when he founded his own e-commerce business, import trading
-                                                    company and consulting firm in his native Japan. He has founded and has
-                                                    been
-                                                    operating this enterprise in Indonesia since 2012.</p>
+                                                <p style="text-align: justify">Takashi Yoshitsugu was born in Tokyo, Japan in 1976. In 1999, he graduated from the Department of Management Science at Waseda University in Tokyo and possesses a wide range of experience in entrepreneurship and business, starting from the Japan Research Institute Inc. to consulting firms, among others. <br><br>
+                                                In 2005, he founded his own e-commerce business and went on to establish a trading company and consultancy in Japan. Upon moving to Indonesia, he founded LOGIQUE in 2012.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -411,29 +358,9 @@
                                 <div class="col-sm-6">
                                     <h1 class="title-index--white">Message</h1>
                                     <hr class="title__yellow-line">
-                                    <p class="director__message" style="text-align: justify">“The name ‘LOGIQUE’ is derived
-                                        from
-                                        the Indonesian word
-                                        ‘logika-ku’, which means
-                                        ‘Our Logic.’ The idea is rooted in the basic principal of accomplishing our goals
-                                        through the strength of our faiths, beliefs, and most importantly, our shared
-                                        logic. Through this basic principal, we seek to maximize the short and long term
-                                        benefits of both yours and ours, regardless of the dramatically evolving landscape
-                                        of our location in Southeast Asia, which seems to be changing every day. <br><br>
-                                        Since 2012, we have led our clients in the WEB, SI and digital marketing fields in
-                                        Indonesia through utilizing the technologies of IT and the Web. Gladly, our sales
-                                        have continued to grow every year, and in April 2018 we opened a development
-                                        center in Yogyakarta and will commence the operation of an additional center as
-                                        well later in 2018. <br><br>
-                                        In order to contribute to Indonesia’s social environment, we are constantly
-                                        striving to incorporate flexible working styles, such as remote working and
-                                        shorter hours, in the service of our employee’s happiness and efficiency. <br><br>
-                                        We are also planning to share and provide services that have been tested and
-                                        products which have been developed for our own company, so as to operate our
-                                        business efficiently, while taking into consideration the overall happiness of
-                                        those in our employ, as stated previously. We will continue to grow, and I am more
-                                        than happy if our business can contribute to the development of Indonesia, our
-                                        clients’ satisfaction, and to our own self-improvement.</p>
+                                    <p class="director__message" style="text-align: justify">The name ‘LOGIQUE’ is derived from the Indonesian word ‘logika-ku’, which means ‘Our Logic.’ The idea is rooted in the basic principle of accomplishing our goals through the strength of our faiths, beliefs, and most importantly, our logic. Through this basic principal, we seek to maximize the mid and long term benefits of both parties, taking into account the dramatically evolving IT landscape in Southeast Asia. <br><br>
+                                    Since 2012, we have assisted our clients in the fields of Web, SI and Digital Marketing within Indonesia through utilizing various IT and Web Technologies. Through these means, our sales have continued to grow every year. <br><br>
+                                    In order to contribute more to Indonesia’s IT / Digital market, we are constantly striving to incorporate flexible working styles, such as remote working and shorter hours, thus accounting for overall employee happiness and efficiency.</p>
                                 </div>
                             </div>
                         </div>
@@ -448,13 +375,7 @@
                             <div class="text-center">
                                 <h1 class="title-index">What LOGIQUE Does</h1>
                                 <hr class="title__yellow-line--center">
-                                <p class="title__description">We provide a wide array of IT centered services, ranging from
-                                    web
-                                    design
-                                    and system development, as well as digital marketing. We have also created an HR Cloud
-                                    Tool to
-                                    solve business problems in Indonesia. Feel free to contact us if you are interested in our
-                                    services and products!
+                                <p class="title__description">We provide a wide array of IT centered services, ranging from web design and system / application development, to digital marketing. We have also created a Cloud HR management Tool to solve business problems in Indonesia. Feel free to contact us if you are interested in our services and products!
                                 </p>
                             </div>
                             <div class="row">
@@ -494,16 +415,14 @@
                         </div>
                         <div class="col-sm-7">
                             <ul class="lgq-does__list">
-                                <li>Developing a website </li>
-                                <li>Updating your website’s system</li>
-                                <li>Developing a web system</li>
-                                <li>Creating and designing a campaign or website landing page</li>
-                                <li>Outsourcing website operations.</li>
-                                <li>Increasing access to your website with SEO.</li>
-                                <li>Organizing and running an online promotion strategy.</li>
-                                <li>Searching for leasing web servers and companies to manage them.</li>
-                                <li>Searching for a printing service catering to company profiles and brochures.</li>
-                                <li>etc.</li>
+                                <li>Developing a website / web system / mobile app</li>
+                                <li>Changing an outsourcer / IT vendor / Digital Marketing</li>
+                                <li>Outsourcing a website / system operations.</li>
+                                <li>Increasing access to your website through SEO.</li>
+                                <li>Organizing and running an online promotional strategy.</li>
+                                <li>Searching for web server leasing and companies to manage them.</li>
+                                <li>Implementing cloud HR management tools</li>
+                                <li>Planning an IT / Digital strategy for your business</li>
                             </ul>
                             <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">Contact Us Now</a>
                         </div>
