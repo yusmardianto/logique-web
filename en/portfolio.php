@@ -1776,16 +1776,46 @@
                     <div class="row text-center">
                         <div class="col-md-4 col-xs-6">
                             <div class="mobile-app-container same-height">
-                                <div class="m-app-item">
-                                    <img src="/img/portfolio/apps-nlec.jpg" alt="NLEC Nihongo E-Learning PWA"
+                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-1.png"
+                                        alt="JBA Bike Inspection App"
+                                        class="img-responsive center-block">
+                                </div>
+                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-2.png"
+                                        alt="JBA Bike Inspection App"
+                                        class="img-responsive center-block">
+                                </div>
+                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-3.png"
+                                        alt="JBA Bike Inspection App"
+                                        class="img-responsive center-block">
+                                </div>
+                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-4.png"
+                                        alt="JBA Bike Inspection App"
                                         class="img-responsive center-block">
                                 </div>
                             </div>
                             <br>
-                            <p>NLEC Nihongo E-Learning PWA</p>
+                            <p>JBA Bike Inspection App</p>
+                        </div>
+                        <div class="col-md-4 col-xs-6">
+                            <div class="mobile-app-container same-height">
+                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-1.png"
+                                        alt="WEEO Hino Connect"
+                                        class="img-responsive center-block">
+                                </div>
+                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-2.png"
+                                        alt="WEEO Hino Connect"
+                                        class="img-responsive center-block">
+                                </div>
+                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-3.png"
+                                        alt="WEEO Hino Connect"
+                                        class="img-responsive center-block">
+                                </div>
+                            </div>
+                            <br>
+                            <p>WEEO Hino Connect</p>
                         </div>
 
-                        <div class="col-md-4 col-xs-6">
+                        <div class="col-md-4 col-xs-6 visible-md visible-lg">
                             <div class="mobile-app-container same-height">
                                 <div class="m-app-item"><img src="/img/portfolio/wantjp1.png" alt="want.jp"
                                         class="img-responsive center-block"></div>
@@ -1796,29 +1826,11 @@
                                 <div class="m-app-item"><img src="/img/portfolio/wantjp4.png" alt="want.jp"
                                         class="img-responsive center-block"></div>
                             </div>
+                            <br>
                             <p>Want.jp</p>
                             <div class="addition-desc text-center">
                                 <small class="text-muted">E-commerce, PWA (React JS, Express JS)</small>
                             </div>
-                        </div>
-
-                        <div class="col-md-4 col-xs-6 visible-md visible-lg">
-                            <div class="mobile-app-container same-height">
-                                <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding.jpg"
-                                        alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
-                                </div>
-                                <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding2.jpg"
-                                        alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
-                                </div>
-                                <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding3.jpg"
-                                        alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
-                                </div>
-                                <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding4.jpg"
-                                        alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
-                                </div>
-                            </div>
-                            <br>
-                            <p>JBA Indonesia Auction Bidding App</p>
                         </div>
 
                     </div>
@@ -1828,7 +1840,36 @@
                         <div class="row text-center">
 
                             <div class="col-md-4 col-xs-6 visible-sm visible-xs">
-                                <div class="mobile-app-container">
+                                <div class="mobile-app-container same-height">
+                                    <div class="m-app-item"><img src="/img/portfolio/wantjp1.png" alt="want.jp"
+                                            class="img-responsive center-block"></div>
+                                    <div class="m-app-item"><img src="/img/portfolio/wantjp2.png" alt="want.jp"
+                                            class="img-responsive center-block"></div>
+                                    <div class="m-app-item"><img src="/img/portfolio/wantjp3.png" alt="want.jp"
+                                            class="img-responsive center-block"></div>
+                                    <div class="m-app-item"><img src="/img/portfolio/wantjp4.png" alt="want.jp"
+                                            class="img-responsive center-block"></div>
+                                </div>
+                                <br>
+                                <p>Want.jp</p>
+                                <div class="addition-desc text-center">
+                                    <small class="text-muted">E-commerce, PWA (React JS, Express JS)</small>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <div class="mobile-app-container same-height">
+                                    <div class="m-app-item">
+                                        <img src="/img/portfolio/apps-nlec.jpg" alt="NLEC Nihongo E-Learning PWA"
+                                            class="img-responsive center-block">
+                                    </div>
+                                </div>
+                                <br>
+                                <p>NLEC Nihongo E-Learning PWA</p>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <div class="mobile-app-container same-height">
                                     <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding.jpg"
                                             alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
                                     </div>
@@ -1847,18 +1888,18 @@
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <div class="mobile-app-container">
+                                <div class="mobile-app-container same-height">
                                     <div class="m-app-item"><img src="/img/portfolio/apps-oto-1.jpg"
                                             alt="Otomart - Used Car on Sale Finder App" class="img-responsive center-block"></div>
                                     <div class="m-app-item"><img src="/img/portfolio/apps-oto-2.jpg"
                                             alt="Otomart - Used Car on Sale Finder App" class="img-responsive center-block"></div>
                                 </div>
-                                <br><br>
+                                <br>
                                 <p>Otomart - Used Car on Sale Finder App</p>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <div class="mobile-app-container">
+                                <div class="mobile-app-container same-height">
                                     <div class="m-app-item"><img src="/img/portfolio/apps-frangipani-1.jpg"
                                             alt="Frangipani Guest Comment Management App" class="img-responsive center-block">
                                     </div>
@@ -1866,11 +1907,12 @@
                                             alt="Frangipani Guest Comment Management App" class="img-responsive center-block">
                                     </div>
                                 </div>
+                                <br>
                                 <p>Frangipani Esthetics (Android) Guest Comment Management App</p>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <div class="mobile-app-container">
+                                <div class="mobile-app-container same-height">
                                     <div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-1.jpg" alt="VIP Plaza PWA"
                                             class="img-responsive center-block"></div>
                                     <div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-2.jpg" alt="VIP Plaza PWA"
@@ -1878,6 +1920,7 @@
                                     <div class="m-app-item"><img src="/img/portfolio/apps-vipplaza-3.jpg" alt="VIP Plaza PWA"
                                             class="img-responsive center-block"></div>
                                 </div>
+                                <br>
                                 <p>VIP Plaza PWA</p><br><br>
                             </div>
 
@@ -1890,6 +1933,7 @@
                                     <div class="m-app-item"><img src="/img/portfolio/investindo-3.png" alt="investindo"
                                             class="img-responsive center-block"></div>
                                 </div>
+                                <br>
                                 <p>Investindo</p>
                                 <div class="addition-desc text-center">
                                     <small class="text-muted">Car Inspection App, Android App</small>
@@ -1897,22 +1941,45 @@
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <div class="mobile-app-container">
+                                <div class="mobile-app-container same-height">
                                     <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect1.jpg"
-                                            alt="JBA Indonesia -  Bike and Car Inspection App"
+                                            alt="JBA Indonesia - Car Inspection App"
                                             class="img-responsive center-block">
                                     </div>
                                     <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect2.jpg"
-                                            alt="JBA Indonesia -  Bike and Car Inspection App"
+                                            alt="JBA Indonesia - Car Inspection App"
                                             class="img-responsive center-block">
                                     </div>
                                     <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect3.jpg"
-                                            alt="JBA Indonesia -  Bike and Car Inspection App"
+                                            alt="JBA Indonesia - Car Inspection App"
                                             class="img-responsive center-block">
                                     </div>
                                 </div>
                                 <br>
-                                <p>JBA Indonesia - Bike and Car Inspection App</p>
+                                <p>JBA Indonesia - Car Inspection App</p>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <div class="mobile-app-container same-height">
+                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-1.jpg"
+                                            alt="WEEO Testing App"
+                                            class="img-responsive center-block">
+                                    </div>
+                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-2.jpg"
+                                            alt="WEEO Testing App"
+                                            class="img-responsive center-block">
+                                    </div>
+                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-3.jpg"
+                                            alt="WEEO Testing App"
+                                            class="img-responsive center-block">
+                                    </div>
+                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-4.jpg"
+                                            alt="WEEO Testing App"
+                                            class="img-responsive center-block">
+                                    </div>
+                                </div>
+                                <br>
+                                <p>WEEO Testing App</p>
                             </div>
 
                         </div>
@@ -2320,6 +2387,7 @@
             $('.mobile-app-container').resize();
         });
         </script>
+    </div>   
 </body>
 
 </html>
