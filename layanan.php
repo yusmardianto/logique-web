@@ -152,11 +152,7 @@
                     <div class="text-center">
                         <h1 class="title-index">LayananKami</h1>
                         <hr class="title__yellow-line--center">
-                        <p class="title__description" style="margin-bottom:20px">Saat ini semua sudah sangat bergantung pada
-                            internet dan IT, LOGIQUE Digital Indonesia hadir membantu di bidang Internet dan IT untuk memudahkan
-                            klien dalam mengatur bisnis mereka. Kami memberikan layanan berkualitas tinggi dengan standar
-                            internasional untuk memenuhi harapan serta kebutuhan bisnis klien. Kami menyediakan berbagai layanan
-                            terkait pembuatan website seperti: web design & development, SEO, digital marketing, dan lain-lain.
+                        <p class="title__description" style="margin-bottom:20px">Di zaman modern ini, di mana semuanya sangat bergantung pada internet dan teknologi, LOGIQUE Digital Indonesia berupaya untuk membantu klien kami di bidang yang terkait dengan masalah digital dan TI. Kami memberikan layanan berkualitas tinggi dan berstandar internasional, dengan bangga memenuhi harapan klien kami dan memenuhi kebutuhan bisnis mereka. Kami menyediakan berbagai layanan terkait web, seperti desain dan pengembangan website.
                         </p>
                         <div class="our-service__btn-wrapper">
                             <a href="portofolio.php">
@@ -317,24 +313,9 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
-
-            <section class="bg--black">
-                <div class="container__">
-                    <div class="product-slogan --center-img">
-                        <img class="product-slogan__img" src="../img/service/service.png" alt="product">
-                        <p class="product-slogan__text">Pembuatan sistem web dan website berkualitas
-                            dengan standar Internasional.</p>
-                    </div>
-                </div>
-            </section>
-
-            <section>
-                <div class="container__">
-                    <div class="row">
-                        <div class="col-md-5">
-                            <div class="web-solution__btn-wrapper">
+                    <div class="row container__">
+                        <div class="col-md-12">
+                            <div class="web-solution__btn-wrapper --inline-model">
                                 <a href="layanan/web-dev.php">
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
@@ -365,19 +346,15 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col-md-7">
-                            Jika Anda khawatir data penting Anda dicuri atau website Anda diretas, kami menawarkan solusinya
-                            dengan memberikan layanan penetration testing dan vulnerability assessment untuk Anda. LOGIQUE akan
-                            membantu Anda untuk mengurangi resiko serangan bahkan menghilangkannya dengan selalu memonitor sistem
-                            keamanan Anda. <br><br>
-                            Sebagai perusahaan web developer Indonesia dengan reputasi yang baik, LOGIQUE juga dapat membantu
-                            pembuatan sistem website mulai dari E-Commerce, CRM, Sistem Lelang Online, Sistem Rekrutmen, dan CMS.
-                            Dengan pengalaman kami selama 7 tahun, serta didukung oleh tim yang sangat kompeten di bidangnya, kami
-                            mampu memberikan solusi terbaik untuk perkembangan bisnis Anda. <br><br><br>
-                            LOGIQUE menyediakan layanan berkualitas tinggi dengan standar global, dan karena konsistensi yang kami
-                            miliki, membuat kami dipercaya oleh berbagai perusahaan besar yang berasal dari Indonesia hingga
-                            beberapa negara di Asia Tenggara, terutama Jepang. Optimalkan bisnis Anda sekarang juga!
-                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="bg--black">
+                <div class="container__">
+                    <div class="product-slogan --center-img">
+                        <img class="product-slogan__img" src="../img/service/service.png" alt="product">
+                        <p class="product-slogan__text">Kami menyediakan berbagai layanan, mulai dari pengembangan Situs Web / Sistem hingga Pemasaran Digital dan pemeliharaan Sistem TI.</p>
                     </div>
                 </div>
             </section>

@@ -153,18 +153,7 @@
                     <div class="text-center">
                         <h1 class="title-index">Our Services</h1>
                         <hr class="title__yellow-line--center">
-                        <p class="title__description" style="margin-bottom:20px">In this modern day and age, where everything
-                            relies heavily on the internet
-                            and
-                            technology, LOGIQUE
-                            Digital Indonesia
-                            is striving to assist our clients in areas regarding digital and IT matters. We conduct our services
-                            to a
-                            high quality
-                            and international standard, proudly meeting our clients’ expectations and fulfilling their business
-                            needs.
-                            We provide
-                            various web-related services, such as web design and development.</p>
+                        <p class="title__description" style="margin-bottom:20px">In this modern day and age, where everything relies heavily on the internet and technology, LOGIQUE Digital Indonesia is striving to assist our clients in areas regarding digital and IT matters. We conform our services to a high quality and international standard, to meet our clients’ expectations and fulfill their business needs. We provide various IT / digital-related services, such as Website and Web App development, System / Mobile development and Digital Marketing Solutions.</p>
                         <div class="our-service__btn-wrapper">
                             <a href="portfolio.php">
                                 <div class="main-btn --black">See Portfolio</div>
@@ -319,24 +308,9 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
-
-            <section class="bg--black">
-                <div class="container__">
-                    <div class="product-slogan --center-img">
-                        <img class="product-slogan__img" src="../img/service/service.png" alt="product">
-                        <p class="product-slogan__text">We provide a wide range of services, from website and mobile app
-                            development to internet marketing and designing.</p>
-                    </div>
-                </div>
-            </section>
-
-            <section>
-                <div class="container__">
-                    <div class="row">
-                        <div class="col-md-5">
-                            <div class="web-solution__btn-wrapper">
+                    <div class="row container__">
+                        <div class="col-md-12">
+                            <div class="web-solution__btn-wrapper --inline-model">
                                 <a href="services/web-dev.php">
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
@@ -367,21 +341,15 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col-md-7">
-                            If you are worried about important data being stolen or your website being attacked, we can assist you
-                            through advanced penetration testing and conducting a vulnerability as if you are worried about
-                            important data being stolen or your website being attacked, we can assist you through advanced
-                            penetration testing and conducting a vulnerability assessment of your website. <br><br>
-                            LOGIQUE will help minimize any risks through constant security monitoring. As a reputable web
-                            development company based in Indonesia, LOGIQUE seeks to help you create necessary web systems for
-                            your company, including CRM, CMS, ECommerce, online auctioning and recruitment systems. LOGIQUE will
-                            help minimize any risks through constant security monitoring. sessment of your website. <br><br>
-                            With 7 years of experience, we are supported by our professional team of developers, who strive in
-                            delivering to you the best service possible to help your company grow. LOGIQUE provides services of
-                            high quality which conform to an international standard. Because of our consistency, we are trusted by
-                            a range of large companies based in Indonesia, Southeast Asia, and especially Japan. Optimize your
-                            business with us Now!
-                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="bg--black">
+                <div class="container__">
+                    <div class="product-slogan --center-img">
+                        <img class="product-slogan__img" src="../img/service/service.png" alt="product">
+                        <p class="product-slogan__text">We provide a wide range of services, from Website / System development to Digital Marketing and maintaining IT Systems.</p>
                     </div>
                 </div>
             </section>

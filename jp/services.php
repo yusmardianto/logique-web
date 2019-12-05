@@ -311,7 +311,7 @@
                         </div>
                     </div>
                     <div class="row container__">
-                        <div class="col-offset-1 col-10">
+                        <div class="col-md-12">
                             <div class="web-solution__btn-wrapper">
                                 <a href="services/web-dev.php">
                                     <div class="main-btn --ws --white">
