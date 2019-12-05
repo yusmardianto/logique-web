@@ -167,28 +167,29 @@
                                     <div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
                                         <div class="carousel-inner">
                                             <div class="item active">
-                                                <img src="/img/banner-logo-logique.jpg" alt="Web Developer LOGIQUE 5">
-                                                <div class="custombox__slider-text-wrapper">
-                                                    <p class="custombox__slider-text">インドネシアにて7年を超える豊富な経験をもっています。</p>
-                                                </div>
-                                            </div>
-                                            <div class="item">
                                                 <img src="/img/slider5.jpg" alt="Web Developer LOGIQUE 5">
                                                 <div class="custombox__slider-text-wrapper">
-                                                    <p class="custombox__slider-text">
-                                                        日系企業向けのプロジェクトも経験豊富なデザイナー、プログラマー、デジタルマーケッターが担当します。 </p>
+                                                    <p class="custombox__slider-text">インドネシアにて7年を超える豊富な経験をもっています。</p>
                                                 </div>
                                             </div>
                                             <div class="item">
                                                 <img style="object-position:0 0" src="/img/banner-all-member.jpg"
                                                     alt="logique member">
                                                 <div class="custombox__slider-text-wrapper">
+                                                    <p class="custombox__slider-text">
+                                                        日系企業向けのプロジェクトも経験豊富なデザイナー、プログラマー、デジタルマーケッターが担当します。 </p>
+                                                </div>
+                                            </div>
+                                            <div class="item">
+                                                <img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
+                                                <div class="custombox__slider-text-wrapper">
                                                     <p class="custombox__slider-text">ゴールとご予算に応じて最適なソリューションをご提供します。
                                                     </p>
                                                 </div>
                                             </div>
                                             <div class="item">
-                                                <img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
+                                                <img style="object-position:0 0" src="/img/slider1.jpg"
+                                                            alt="Web Developer LOGIQUE 1">
                                                 <div class="custombox__slider-text-wrapper">
                                                     <p class="custombox__slider-text">お見積のご依頼、業務提携の相談などお気軽にご連絡ください。
                                                     </p>
