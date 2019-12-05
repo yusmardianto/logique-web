@@ -87,7 +87,7 @@
 .jp-page .web-solution__btn-wrapper {
   flex-wrap: wrap;
   flex-direction: row;
-  align-items: baseline;
+  align-items: center;
   min-height: auto;
 }
 .web-solution__btn-wrapper.--inline-model {
