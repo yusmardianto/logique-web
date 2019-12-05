@@ -72,7 +72,7 @@
      </script>
  </head>
 
- <body class="wrapper">
+ <body class="wrapper wrapper--update-design">
      <style>
      body {
          padding-left: 0;

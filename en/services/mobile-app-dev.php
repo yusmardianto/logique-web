@@ -80,7 +80,7 @@ if(isset($_POST['submitted']))
      </script>
  </head>
 
- <body class="wrapper mobileapp-page">
+ <body class="wrapper wrapper--update-design mobileapp-page">
      <style>
      .container__ {
          padding-top: 0;

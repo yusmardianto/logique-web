@@ -64,7 +64,7 @@
 </head>
 
 <body>
-    <div class="wrapper o-wrapper top-only">
+    <div class="wrapper wrapper--update-design o-wrapper top-only">
 
         <!-- NAVIGATION -->
         <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -206,7 +206,7 @@
 
             </div>
 
-            <div class="contain-video">
+            <div class="contain-video wrapper--update-design">
                 <video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
                     <source src="../img/12377093.mp4" type="video/mp4">
                 </video>
@@ -214,7 +214,7 @@
 
             <div class="bg-white-opacity"></div>
 
-            <div id="bgImg" style="height: auto;">
+            <div id="bgImg" style="height: auto; margin-left: auto; margin-right: auto;">
                 <div class="img">
 
                     <div class="title-container hidden-sm">

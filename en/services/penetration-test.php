@@ -43,7 +43,7 @@
     </script>
 </head>
 
-<body class="wrapper">
+<body class="wrapper wrapper--update-design">
     <style>
     .container__ {
         padding-top: 0;

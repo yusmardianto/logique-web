@@ -61,7 +61,7 @@
 
     </head>
 	<body>
-		<div class="wrapper o-wrapper top-only">
+		<div class="wrapper wrapper--update-design o-wrapper top-only">
 
 			<!-- NAVIGATION -->
 			<button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -145,60 +145,62 @@
 					</div>
 				</div>
 
-				<div class="row">
-					<div class="col-sm-offset-1 col-sm-11">
-						<div class="title-container visible-sm visible-xs">
-
-							<div class="text-center container__custom-white" style="background: none;">
-								<div class="title-index">
-								Web Developer Terbaik Untuk Solusi Permasalahan Digital Anda 
-								</div>
-								<hr class="title__yellow-line">
-								<p><b>LOGIQUE DIGITAL INDONESIA</b>, perusahaan Web Developer yang melayani jasa pembuatan dan pengembangan Website, Aplikasi dan Digital Marketing untuk perkembangan bisnis Anda. <br><br>
-								Kami telah melayani banyak klien besar baik dari dalam atau pun luar negeri untuk berbagai kebutuhan, mulai dari pembuatan E-Commerce, Sistem Lelang Online, Sistem Rekrutmen karyawan, dan Digital Marketing.</p><br>
-								<div class="row">
-									<div class="col-lg-offset-1 col-lg-10">
-										<div class="row">
-										<div class="col-xs-6">
-											<a href="/layanan/web-dev.php" class="div-service-cat">
-												<img src="img/top/i-top1.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
-												<h2>Jasa Pembuatan <br/>Website</h2>
-											</a>
-										</div>
-										<div class="col-xs-6">
-											<a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
-												<img src="img/top/i-top2.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
-												<h2>Jasa Pembuatan <br/>Aplikasi</h2>
-											</a>
-										</div>
-										<div class="col-xs-6">
-											<a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
-												<img src="img/top/i-top3.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
-												<h2>Jasa Pembuatan<br/>Sistem Web</h2>
-											</a>
-										</div>
-										<div class="col-xs-6">
-											<a href="/layanan/penetration-test.php" class="div-service-cat">
-												<img src="img/top/i-top4.png" alt="Jasa Penetration Testing" class="center-block img-responsive"/>
-												<h2>Jasa Penetration<br/>Testing</h2>
-											</a>
+				<!-- <div class="container__"> -->
+					<div class="row">
+						<div class="col-sm-offset-1 col-sm-11">
+							<div class="title-container visible-sm visible-xs">
+	
+								<div class="text-center container__custom-white" style="background: none;">
+									<div class="title-index">
+									Web Developer Terbaik Untuk Solusi Permasalahan Digital Anda 
+									</div>
+									<hr class="title__yellow-line">
+									<p><b>LOGIQUE DIGITAL INDONESIA</b>, perusahaan Web Developer yang melayani jasa pembuatan dan pengembangan Website, Aplikasi dan Digital Marketing untuk perkembangan bisnis Anda. <br><br>
+									Kami telah melayani banyak klien besar baik dari dalam atau pun luar negeri untuk berbagai kebutuhan, mulai dari pembuatan E-Commerce, Sistem Lelang Online, Sistem Rekrutmen karyawan, dan Digital Marketing.</p><br>
+									<div class="row">
+										<div class="col-lg-offset-1 col-lg-10">
+											<div class="row">
+											<div class="col-xs-6">
+												<a href="/layanan/web-dev.php" class="div-service-cat">
+													<img src="img/top/i-top1.png" alt="Jasa Pembuatan Website" class="center-block img-responsive"/>
+													<h2>Jasa Pembuatan <br/>Website</h2>
+												</a>
+											</div>
+											<div class="col-xs-6">
+												<a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
+													<img src="img/top/i-top2.png" alt="Jasa Pembuatan Aplikasi" class="center-block img-responsive"/>
+													<h2>Jasa Pembuatan <br/>Aplikasi</h2>
+												</a>
+											</div>
+											<div class="col-xs-6">
+												<a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
+													<img src="img/top/i-top3.png" alt="Jasa Pembuatan Sistem Web" class="center-block img-responsive"/>
+													<h2>Jasa Pembuatan<br/>Sistem Web</h2>
+												</a>
+											</div>
+											<div class="col-xs-6">
+												<a href="/layanan/penetration-test.php" class="div-service-cat">
+													<img src="img/top/i-top4.png" alt="Jasa Penetration Testing" class="center-block img-responsive"/>
+													<h2>Jasa Penetration<br/>Testing</h2>
+												</a>
+											</div>
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-				</div>
+				<!-- </div> -->
 			</div>
 
-			<div class="contain-video">
+			<div class="contain-video wrapper--update-design">
 				<video poster="img/video-img.png" id="bgvid" playsinline autoplay muted loop style="display:block!important">
 					<source src="img/12377093.mp4" type="video/mp4">
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div>
 
-			<div id="bgImg" style="height: auto;">
+			<div id="bgImg" style="height: auto; margin-left: auto; margin-right: auto">
 				<div class="img">
 
 					<div class="title-container hidden-sm">

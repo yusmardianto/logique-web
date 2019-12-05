@@ -26,7 +26,7 @@
 </head>
 
 <body>
-    <div class="wrapper">
+    <div class="wrapper wrapper--update-design">
         <!-- NAVIGATION -->
         <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
             data-toggle="collapse" data-target="#myNavbar">

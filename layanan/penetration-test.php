@@ -58,7 +58,7 @@
     <!-- End Twitter universal website tag code -->
 </head>
 
-<body class="wrapper">
+<body class="wrapper wrapper--update-design">
     <style>
     .container__ {
         padding-top: 0;
@@ -850,7 +850,7 @@
         </section>
 
         <section class="faq">
-            <div class="container-fluid">
+            <div class="container-fluid" style="max-width: 1345px">
                 <h2 class="faq-title">FAQ</h2>
             </div>
             <div class="container__">

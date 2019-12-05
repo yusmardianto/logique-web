@@ -36,7 +36,7 @@
 	</script>
 </head>
 
-<body class="wrapper">
+<body class="wrapper wrapper--update-design">
     <style>
     .container__ {
         padding-top: 0;
@@ -433,58 +433,64 @@
 			<br/><br/>
 		</div>
 	</div>-->
-	
-	<div class="harga">
-		<div class="container__">
-			<div class="row">
-				<div class="col-md-offset-2 col-md-8">
-					<div class="title">Webサイトの簡易セキュリティ脆弱性診断サービスをお試し価格でご提供しています。</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-12">
-					<img alt="15 juta" src="assets/img/img-pentest/10-juta.png" class="img-responsive center-block"/>
-				</div>
-			</div><br/>
-			<div class="row">
-				<div class="col-md-offset-1 col-md-10">
-					<div class="subtitle text-left">簡易診断ではありますが、自社Webサイトにどのようなセキュリティリスクがあるのか把握されることをお奨めいたします。お気軽にご相談ください。日本語でお問い合わせいただけます。</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="footer">
-		<div class="container__">
-			<div class="row">
-				<div class="col-md-offset-1 col-md-10">
-					Webサイトセキュリティ診断サービスに関する、診断内容、レポート項目、費用、期間など詳細に関してはお気軽に日本語でお問い合わせいただければ幸いです。またSSL証明書の購入と設定に関しても良くお問い合わせいただきます。当社ではGlobalSign社のSSL証明書を扱っております。こちらまで(infoアットマークlogique.co.id）メールお送りいただくかこちらから問い合わせ送信いただきますようお願いいたします。<br/><br/>
-					<a href="/jp/contact.php" target="_blank"><img alt="Form" src="assets/img/img-pentest/form-footer.png" class="img-responsive center-block"/></a>
-					<br>
-					<div class="phone-contact">
-						<div>Phone : </div>
-						<b>+62(21) 2270 8935 / 36</b>
-						<br>
-						<a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" rel="noreferrer" style="vertical-align: top; color: #333"> <img src="/img/whatsapp.png" alt="WhatsApp" width="16" style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a>
-						
-					</div>
-					<br>
-					Our other services:
-					<br>
-					<a target="_blank" href="/jp/services/recruitment-web-dev.php">採用サイト制作</a>
-					<div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-					<a target="_blank" href="/jp/services/mobile-app-dev.php">モバイルアプリケーション制作 </a>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<?php include '../footer.php'; ?>
-		<script src="/js/jquery.matchHeight.js"></script>
-	</body>
-	<script>
-		$(function() {
-			$('.each-plus-minus').matchHeight();
-		});	
-	</script>
+
+        <div class="harga">
+            <div class="container__">
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8">
+                        <div class="title">Webサイトの簡易セキュリティ脆弱性診断サービスをお試し価格でご提供しています。</div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <img alt="10 juta" src="assets/img/img-pentest/10-juta.png" class="img-responsive center-block" />
+                    </div>
+                </div><br />
+                <div class="row">
+                    <div class="col-md-offset-1 col-md-10">
+                        <div class="subtitle text-left">
+                            簡易診断ではありますが、自社Webサイトにどのようなセキュリティリスクがあるのか把握されることをお奨めいたします。お気軽にご相談ください。日本語でお問い合わせいただけます。</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <div class="container__">
+                <div class="row">
+                    <div class="col-md-offset-1 col-md-10">
+                        Webサイトセキュリティ診断サービスに関する、診断内容、レポート項目、費用、期間など詳細に関してはお気軽に日本語でお問い合わせいただければ幸いです。またSSL証明書の購入と設定に関しても良くお問い合わせいただきます。当社ではGlobalSign社のSSL証明書を扱っております。こちらまで(infoアットマークlogique.co.id）メールお送りいただくかこちらから問い合わせ送信いただきますようお願いいたします。<br /><br />
+                        <a href="/jp/contact.php" target="_blank"><img alt="Form" src="assets/img/img-pentest/form-footer.png"
+                                class="img-responsive center-block" /></a>
+                        <br>
+                        <div class="phone-contact">
+                            <div>Phone : </div>
+                            <b>+62(21) 2270 8935 / 36</b>
+                            <br>
+                            <a href="https://wa.me/+62811870321?text=Halo%20Sahabat%20LOGIQUE" target="_blank" rel="noreferrer"
+                                style="vertical-align: top; color: #333"> <img src="/img/whatsapp.png" alt="WhatsApp" width="16"
+                                    style="margin-right: 3px; vertical-align: sub;"> +62 811 870 321 </a>
+
+                        </div>
+                        <br>
+                        Our other services:
+                        <br>
+                        <a target="_blank" href="/jp/services/recruitment-web-dev.php">採用サイト制作</a>
+                        <div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
+                        <a target="_blank" href="/jp/services/mobile-app-dev.php">モバイルアプリケーション制作 </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <?php include '../footer.php'; ?>
+    <script src="/js/jquery.matchHeight.js"></script>
+</body>
+<script>
+$(function() {
+    $('.each-plus-minus').matchHeight();
+});
+</script>
+
 </html>

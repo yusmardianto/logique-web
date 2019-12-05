@@ -61,6 +61,10 @@ body.jp-page  #contents{
     max-width: 1600px;
     margin: 0 auto
 }
+.contain-video.wrapper--update-design,
+.wrapper.wrapper--update-design {
+    max-width: unset !important;
+}
 a:focus, a:active, div:active, div:focus, button:active, button:focus{
     outline: none;
 }
@@ -335,6 +339,10 @@ section.maintop {
     margin: 0 auto;
 }
 
+.container__footer {
+    max-width: 1375px;
+    margin: 0 auto;
+}
 #contentPortfolio .container__ {
     padding-top: 0;
 }

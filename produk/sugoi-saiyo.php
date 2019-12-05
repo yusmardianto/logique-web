@@ -84,7 +84,7 @@ if(isset($_POST['submitted']))
      <!-- End Twitter universal website tag code -->
  </head>
 
- <body class="wrapper">
+ <body class="wrapper wrapper--update-design">
      <style>
      body {
          padding-left: 0;
