@@ -4287,6 +4287,9 @@ blockquote::before {
 .slider-other-client-container .slick-next:before {
        content: "\f105";
 }
+#PWA .mobile-app-container .slick-list {
+    height: 100%;
+}
 .mobile-app-container .slick-dots{
 
     list-style: none
