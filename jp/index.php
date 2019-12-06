@@ -68,6 +68,19 @@
     .bg--white {
         position: relative;
     }
+
+
+    @media (max-width: 768px) and (min-width: 415px) {
+        .custombox__product-wrapper {
+            margin-bottom: 2em;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .col-sm-8 .custombox__btn-product {
+            font-size: 11px;
+        }
+    }
     </style>
     <div class="wrapper wrapper--update-design o-wrapper top-only">
         <!-- NAVIGATION -->
@@ -346,7 +359,7 @@
             <section class="bg--white">
                 <div class="container__">
                     <div class="row">
-                        <div class="col-sm-6">
+                        <div class="col-md-offset-0 col-sm-offset-2 col-md-6 col-sm-8">
                             <div class="custombox__product-wrapper">
                                 <div class="custombox__product-list">
                                     <img class="custombox__product-list-img" src="/img/servicelist.png" alt="servicelist">
@@ -354,7 +367,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-6">
+                        <div class="col-md-offset-0 col-sm-offset-2 col-md-6 col-sm-8">
                             <div class="custombox__product-wrapper">
                                 <div class="custombox__product-list">
                                     <img class="custombox__product-list-img" src="/img/productlist.png" alt="productlist">
