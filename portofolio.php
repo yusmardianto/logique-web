@@ -172,10 +172,7 @@
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
                     <div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
-                    <p class="title__description">LOGIQUE memiliki banyak pengalaman dalam jasa pembuatan
-                        website, aplikasi, dan SEO. Dalam waktu dekat kami akan mengupdate portofolio kami
-                        terkait pembuatan website, web system, aplikasi android, aplikasi iphone (iOS), dan
-                        desain media cetak.</p>
+                    <p class="title__description">LOGIQUE telah mengembangkan banyak Situs Web, Sistem dan Aplikasi, untuk klien-klien kami. Berikut adalah beberapa kreasi Web, pengembangan aplikasi seluler / PWA, pengembangan sistem TI, dan portofolio konsultasi pemasaran digital kami.</p>
                     <div class="page-nav text-center">
                         <a class="page-nav__btn" href="#webDev">WEB</a>
                         <a class="page-nav__btn" href="#sysDev">Portofolio Pengembangan <br>Sistem</a>

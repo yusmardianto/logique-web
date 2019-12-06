@@ -171,9 +171,7 @@
                 <div class="container__ text-center">
                     <div>
                         <div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
-                        <p class="title__description">LOGIQUE enjoys a wide range of experience in IT development.
-                            In the near future, we will update our website portfolio regarding our works in
-                            web-systems and mobile application development, and in printing design.</p>
+                        <p class="title__description">LOGIQUE has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our Web creation, mobile app / PWA development, IT system development, and digital marketing consulting portfolio.</p>
                     </div>
                     <div class="page-nav">
                         <a class="page-nav__btn" href="#webDev">Website <br>Development</a>
