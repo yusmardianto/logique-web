@@ -79,6 +79,16 @@
     .bg--white {
         position: relative;
     }
+    @media (max-width: 768px) and (min-width: 415px) {
+        .custombox__product-wrapper {
+            margin-bottom: 2em;
+        }
+    }
+    @media (max-width: 768px) {
+        .col-sm-8 .custombox__btn-product {
+            font-size: 11px;
+        }
+    }
     </style>
     <div class="wrapper wrapper--update-design o-wrapper top-only">
         <!-- NAVIGATION -->
@@ -427,6 +437,36 @@
                     </div>
                 </div>
             </section>
+
+            <section class="bg--white">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="row">
+                                <div class="col-md-offset-1 col-sm-offset-2 col-md-5 col-sm-8">
+                                    <div class="custombox__product-wrapper">
+                                        <div class="custombox__product-list">
+                                            <img class="custombox__product-list-img" src="/img/servicelist.png" alt="servicelist">
+                                            <a href="services.php" class="custombox__btn-product" style="min-width: 220px">See Service
+                                                List</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-offset-0 col-sm-offset-2 col-md-5 col-sm-8">
+                                    <div class="custombox__product-wrapper">
+                                        <div class="custombox__product-list">
+                                            <img class="custombox__product-list-img" src="/img/productlist.png" alt="productlist">
+                                            <a href="product.php" class="custombox__btn-product" style="min-width: 220px">See Product
+                                                List</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
         </div>
     </div>
 

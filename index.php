@@ -25,7 +25,7 @@
     <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <!-- Facebook Pixel Code -->
-    <!-- <script>
+    <script>
      !function(f,b,e,v,n,t,s)
      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
@@ -39,9 +39,9 @@
     </script>
     <noscript><img height="1" width="1" style="display:none"
      src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
-    /></noscript> -->
+    /></noscript>
     <!-- End Facebook Pixel Code -->
-    <!-- <script>
+    <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -50,7 +50,7 @@
 	ga('create', 'UA-105878648-1', 'auto');
 	ga('send', 'pageview');
 
-	</script> -->
+	</script>
     <title>Jasa Pembuatan Website, Aplikasi, dan Digital Marketing | LOGIQUE</title>
 
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
@@ -69,6 +69,17 @@
     <style>
     .bg--white {
         position: relative;
+    }
+    @media (max-width: 768px) and (min-width: 415px) {
+        .custombox__product-wrapper {
+            margin-bottom: 2em;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .col-sm-8 .custombox__btn-product {
+            font-size: 11px;
+        }
     }
     </style>
     <div class="wrapper wrapper--update-design o-wrapper top-only">
@@ -414,6 +425,31 @@
                                 kami
                                 dalam e-commerce, sistem management pelelangan mobil/motor, pengembangan CRM, aplikasi e-learning,
                                 PWA, dan sistem rekrutmen, dll.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="bg--white">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-md-offset-1 col-sm-offset-2 col-md-5 col-sm-8">
+                            <div class="custombox__product-wrapper">
+                                <div class="custombox__product-list">
+                                    <img class="custombox__product-list-img" src="/img/servicelist.png" alt="servicelist">
+                                    <a href="layanan.php" class="custombox__btn-product" style="min-width: 220px">See Service
+                                        List</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-offset-0 col-sm-offset-2 col-md-5 col-sm-8">
+                            <div class="custombox__product-wrapper">
+                                <div class="custombox__product-list">
+                                    <img class="custombox__product-list-img" src="/img/productlist.png" alt="productlist">
+                                    <a href="produk.php" class="custombox__btn-product" style="min-width: 220px">See Product
+                                        List</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
