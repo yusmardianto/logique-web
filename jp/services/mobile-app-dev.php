@@ -431,7 +431,7 @@ if(isset($_POST['submitted']))
                                     <div class="col-sm-7">
                                         <div class="caption-portfolio">
                                             <div class="arrow-left"></div>
-                                            <h2 class="font-28">Category: Automotive</h2><br />
+                                            <h2 class="font-28">JBA Bike Inspection System</h2><br />
                                             <div>
                                                 <!-- Application that helps international spa managers to improve services and
                                                 relationships with customers. -->
@@ -449,7 +449,7 @@ if(isset($_POST['submitted']))
                                     <div class="col-sm-7">
                                         <div class="caption-portfolio">
                                             <div class="arrow-left"></div>
-                                            <h2 class="font-28">Category: Automotive</h2><br />
+                                            <h2 class="font-28">Weeo Hino Connect</h2><br />
                                             <div>
                                                 <!-- Application that helps international spa managers to improve services and
                                                 relationships with customers. -->
@@ -467,7 +467,7 @@ if(isset($_POST['submitted']))
                                     <div class="col-sm-7">
                                         <div class="caption-portfolio">
                                             <div class="arrow-left"></div>
-                                            <h2 class="font-28">Category: Automotive</h2><br />
+                                            <h2 class="font-28">Weeo Testing App</h2><br />
                                             <div>
                                                 <!-- Application that helps international spa managers to improve services and
                                                 relationships with customers. -->
@@ -485,7 +485,7 @@ if(isset($_POST['submitted']))
                                     <div class="col-sm-7">
                                         <div class="caption-portfolio">
                                             <div class="arrow-left"></div>
-                                            <h2 class="font-28">Category: E-Commerce</h2><br />
+                                            <h2 class="font-28">Want.jp</h2><br />
                                             <div>
                                                 <!-- Application that helps international spa managers to improve services and
                                                 relationships with customers. -->
