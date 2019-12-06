@@ -152,18 +152,13 @@
                     <div class="text-center">
                         <h1 class="title-index">Our Products</h1>
                         <hr class="title__yellow-line--center">
-                        <p class="title__description">In order to help companies grow and improve in a digital era,
-                            LOGIQUE creates and develops digital products regarding HR management systems for better
-                            employee organization and therefore improved productivity. </p>
+                        <p class="title__description">In order to help companies grow and adapt within the digital era, LOGIQUE develops and provides digital products, such as HR management systems, to improve HR operations, productivity, and potential for profit within an organization.</p>
                         <div class="product-list">
                             <img class="product-list__img" src="/img/top/i-dokodemo.png" alt="dokodemo">
                             <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                             <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
                         </div>
-                        <p class="title__description">Ranging from solutions to increase worker output through flexible
-                            working methods, man-hour
-                            cost management through daily reports, to recruitment management systems which greatly assist
-                            in finding the most qualified employees in the most efficient manner possible.</p>
+                        <p class="title__description">Our products range from solutions that aim to increase worker output through flexible working hours and improved cost management through daily reports, to recruitment systems which greatly assist in finding the most qualified employees in the most efficient manner possible.</p>
                     </div>
                 </div>
             </section>
@@ -210,11 +205,7 @@
                         </div>
                     </div>
 
-                    <p class="title__description--full">Find out if they are conducting their tasks efficiently. Also,
-                        Dokodemo-Kerja allows for a more effective remote working experience, and lets those in your
-                        employ, through flexible working hours, work anywhere, thereby potentially maximizing employee
-                        happiness as well.</p><br>
-
+                    <p class="title__description--full">Dokodemo-Kerja assists you in implementing more effective and flexible HR rules, adaptable to the occasion. The program helps Managers regulate employee working hours, keeps track of their work, and captures a screenshot randomly every 10 minutes. With this, staff will be free to work anywhere at any time with an accurate working record, improving productivity significantly.</p><br>
                     <div class="text-center">
                         <a class="btn--yellow" href="https://dokodemo-kerja.com">Learn More</a>
                     </div>
@@ -226,10 +217,7 @@
                     <h1 class="title-index">SUGOI SAIYO</h1>
                     <hr class="title__yellow-line">
                     <h4 class="title-index__sub">A management system which makes recruitment easy</h4>
-                    <p class="title__description--full">Are you tired of sifting through unqualified job applications?
-                        Now, the process can be done easily and efficiently, through Sugoi Saiyo, an IT cloud system
-                        utilized by the HR department in order to recruit the right employees, and for applicants to
-                        apply for jobs through simple steps and a clear score assessment. </p>
+                    <p class="title__description--full">Sugoi Saiyo provides useful solutions for problems faced by Indonesian recruitment teams. Are you tired of checking and screening numerous unqualified job applications, arranging interviews and handling interviewees who don’t show up? You can minimize such headaches with Sugoi Saiyo. Job seekers can apply, confirm their status, arrange an interview date and get an offering letter, all through Sugoi Saiyo.</p>
 
                     <div class="product-snap-shot">
                         <div class="product-snap-shot__item">
@@ -251,10 +239,7 @@
                         </div>
                     </div>
 
-                    <p class="title__description--full">The system includes all of the basic recruitment processes,
-                        from CV receptions, testing, interview scheduling, to providing the offering letter submitted
-                        through the website.</p><br>
-
+                    <p class="title__description--full">The system includes all of the basic recruitment processes. From CV receptions, screening, testing and interview scheduling, to sending the offering letter; all these activities can be done through Sugoi Saiyo.</p><br>
                     <div class="text-center">
                         <a class="btn--yellow" href="product/sugoi-saiyo.php">Learn More</a>
                     </div>
@@ -266,10 +251,7 @@
                     <h1 class="title-index">NIPPO</h1>
                     <hr class="title__yellow-line">
                     <h4 class="title-index__sub">A Daily Reporting and Man-Hour Cost Management System</h4>
-                    <p class="title__description--full">See how your employees are spending their working hours by using
-                        Nippo, a daily reporting tool where employees document their work and the hours they put into each
-                        project. They can also tag and give feedback to one another for collaborative assignments. </p>
-
+                    <p class="title__description--full">Nippo is a daily report cloud management tool. Through Nippo, HR managers and supervisors within each department can examine how employees spend their working hours. Allowing for co-workers to tag and evaluate each other’s work makes internal communication more active.</p>
                     <div class="product-snap-shot">
                         <div class="product-snap-shot__item">
                             <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_1.png" alt="nippo 1">
@@ -294,8 +276,7 @@
                     </div>
 
                     <p class="title__description--full">
-                        This is useful for HR to manage and calculate the man-hour cost for each project done by your
-                        employees. With Nippo, evaluation and self- assessment can be conducted every day.</p><br>
+                    This is a useful tool for HR to calculate the man-hour cost of each tasks conducted by every employee. Through Nippo, evaluation and self-assessment can be done methodically every day.</p><br>
 
                     <div class="text-center">
                         <a class="btn--yellow" href="product/nippo.php">Learn More</a>
