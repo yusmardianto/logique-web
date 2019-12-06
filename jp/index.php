@@ -363,7 +363,7 @@
                             <div class="custombox__product-wrapper">
                                 <div class="custombox__product-list">
                                     <img class="custombox__product-list-img" src="/img/servicelist.png" alt="servicelist">
-                                    <a href="services.php" class="custombox__btn-product">サービスを詳しくみる</a>
+                                    <a href="services.php" class="custombox__btn-product" style="min-width: 220px">サービスを詳しくみる</a>
                                 </div>
                             </div>
                         </div>
@@ -371,7 +371,7 @@
                             <div class="custombox__product-wrapper">
                                 <div class="custombox__product-list">
                                     <img class="custombox__product-list-img" src="/img/productlist.png" alt="productlist">
-                                    <a href="product.php" class="custombox__btn-product">製品について確認する</a>
+                                    <a href="product.php" class="custombox__btn-product" style="min-width: 220px">製品について確認する</a>
                                 </div>
                             </div>
                         </div>
