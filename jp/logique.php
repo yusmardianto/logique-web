@@ -189,7 +189,7 @@
                                             </div>
                                             <div class="item">
                                                 <img style="object-position:0 0" src="/img/slider1.jpg"
-                                                            alt="Web Developer LOGIQUE 1">
+                                                    alt="Web Developer LOGIQUE 1">
                                                 <div class="custombox__slider-text-wrapper">
                                                     <p class="custombox__slider-text">お見積のご依頼、業務提携の相談などお気軽にご連絡ください。
                                                     </p>

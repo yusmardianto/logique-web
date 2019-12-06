@@ -64,8 +64,12 @@
 </head>
 
 <body>
+    <style>
+    .bg--white {
+        position: relative;
+    }
+    </style>
     <div class="wrapper wrapper--update-design o-wrapper top-only">
-
         <!-- NAVIGATION -->
         <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
             data-toggle="collapse" data-target="#myNavbar">
@@ -131,7 +135,6 @@
         <!-- NAVIGATION -->
 
         <div class="container-fluid">
-
             <div class="row lang-logo--update-design">
                 <div class="container">
                     <div class="row">
@@ -150,23 +153,77 @@
                     </div>
                 </div>
             </div>
+        </div>
 
-            <div class="row">
-                <div class="col-sm-offset-1 col-sm-11">
-                    <div class="title-container visible-sm visible-xs">
 
-                        <div class="text-center container__custom-white" style="background: none;">
-                            <div class="title-index">
-                                インドネシア でお客様の課題を<br class="visible-md visible-lg">Web・IT の活用で解決してきました。
-                            </div>
+        <div class="content-wrapper__">
+            <section class="visible-sm visible-xs --top">
+                <div class="container__">
+                    <div class="title-container">
+                        <div class="text-center" style="background: none;">
+                            <div class="title-index">インドネシアでお客様の課題を<br class="visible-md visible-lg">Web・ITの活用で解決してきました</div>
                             <hr class="title__yellow-line">
-                            <p>Web・ホームページ制作・Webシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWeb戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWebを制作運用することを心がけています。
-                                <br><br>
-                                デジタルマーケティングコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。
+                            <p>Webシステム開発、Web・ホームページ制作サービスをインドネシアで行っております。インドネシア国内のお客様のデジタル /
+                                ネットビジネスを戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWeb/システムを制作開発運用することを心がけています。 <br><br>
+                                デジタルマーケティングコンサルティング、モバイルアプリ開発、PWA開発、E-Commerce構築、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、インフラ構築など関連サービスも幅広く提供していますのでお気軽にご相談ください。
                             </p><br>
-
                             <div class="row">
-                                <div class="col-lg-offset-1 col-lg-10">
+                                <div class="col-xs-6">
+                                    <a href="/jp/services/web-dev.php" class="div-service-cat">
+                                        <img src="/img/top/i-top1.png" alt="Website Creation Service"
+                                            class="center-block img-responsive" />
+                                        <h2>Webサイト / ホームページ制作</h2>
+                                    </a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="/jp/services/mobile-app-dev.php" class="div-service-cat">
+                                        <img src="/img/top/i-top2.png" alt="Mobile App Service"
+                                            class="center-block img-responsive" />
+                                        <h2>スマホ / モバイルApp開発 <br><br></h2>
+                                    </a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="/jp/services/system-dev.php" class="div-service-cat">
+                                        <img src="/img/top/i-top3.png" alt="Web System" class="center-block img-responsive" />
+                                        <h2>Webシステム開発</h2>
+                                    </a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="/jp/services/penetration-test.php" class="div-service-cat">
+                                        <img src="/img/top/i-top4.png" alt="Security and Penetration Testing Service"
+                                            class="center-block img-responsive" />
+                                        <h2>Webセキュリティ脆弱性テスト</h2>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="contain-video wrapper--update-design">
+                <video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
+                    <source src="../img/12377093.mp4" type="video/mp4">
+                </video>
+            </div>
+
+            <div class="bg-white-opacity"></div>
+
+            <div id="bgImg" style="height: auto; margin-left: auto; margin-right: auto;">
+                <div class="img">
+                    <div class="title-container hidden-sm">
+                        <div class="container__">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <h1 class="title-index">インドネシアでお客様の課題を<br class="visible-md visible-lg">Web・ITの活用で解決してきました
+                                    </h1>
+                                    <hr class="title__yellow-line">
+                                    <p>Webシステム開発、Web・ホームページ制作サービスをインドネシアで行っております。インドネシア国内のお客様のデジタル /
+                                        ネットビジネスを戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWeb/システムを制作開発運用することを心がけています。 <br><br>
+                                        デジタルマーケティングコンサルティング、モバイルアプリ開発、PWA開発、E-Commerce構築、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、インフラ構築など関連サービスも幅広く提供していますのでお気軽にご相談ください。
+                                    </p>
+                                </div>
+                                <div class="col-md-6">
                                     <div class="row">
                                         <div class="col-xs-6">
                                             <a href="/jp/services/web-dev.php" class="div-service-cat">
@@ -200,107 +257,38 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
-
             </div>
 
-            <div class="contain-video wrapper--update-design">
-                <video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
-                    <source src="../img/12377093.mp4" type="video/mp4">
-                </video>
-            </div>
-
-            <div class="bg-white-opacity"></div>
-
-            <div id="bgImg" style="height: auto; margin-left: auto; margin-right: auto;">
-                <div class="img">
-
-                    <div class="title-container hidden-sm">
-                        <div class="row">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-offset-1 col-md-6">
-                                        <h1 class="title-index">インドネシア でお客様の課題を<br class="visible-md visible-lg">Web・IT
-                                            の活用で解決してきました。</h1>
-                                        <hr class="title__yellow-line">
-                                        <p>Web・ホームページ制作・Webシステム開発をしています。インドネシア国内のお客様のインターネットビジネスをWeb戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWebを制作運用することを心がけています。
-                                            <br><br>
-                                            デジタルマーケティングコンサルティング、モバイルアプリ開発、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、Video制作、プリントデザイン、サーバーレンタルなど関連サービスも幅広く提供していますのでお気軽にご相談ください。
-                                        </p>
-                                    </div>
-                                    <div class="col-md-5">
-                                        <div class="row">
-                                            <div class="col-xs-6">
-                                                <a href="/jp/services/web-dev.php" class="div-service-cat">
-                                                    <img src="/img/top/i-top1.png" alt="Website Creation Service"
-                                                        class="center-block img-responsive" />
-                                                    <h2>Webサイト / ホームページ制作</h2>
-                                                </a>
-                                            </div>
-                                            <div class="col-xs-6">
-                                                <a href="/jp/services/mobile-app-dev.php" class="div-service-cat">
-                                                    <img src="/img/top/i-top2.png" alt="Mobile App Service"
-                                                        class="center-block img-responsive" />
-                                                    <h2>スマホ / モバイルApp開発 <br><br></h2>
-                                                </a>
-                                            </div>
-                                            <div class="col-xs-6">
-                                                <a href="/jp/services/system-dev.php" class="div-service-cat">
-                                                    <img src="/img/top/i-top3.png" alt="Web System"
-                                                        class="center-block img-responsive" />
-                                                    <h2>Webシステム開発</h2>
-                                                </a>
-                                            </div>
-                                            <div class="col-xs-6">
-                                                <a href="/jp/services/penetration-test.php" class="div-service-cat">
-                                                    <img src="/img/top/i-top4.png" alt="Security and Penetration Testing Service"
-                                                        class="center-block img-responsive" />
-                                                    <h2>Webセキュリティ脆弱性テスト</h2>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-            </div>
-
-            <div class="row container__custom-white" style="overflow-x:visible">
-                <div class="container ">
+            <section class="bg--white">
+                <div class="container__">
                     <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
+                        <div class="col-sm-12">
                             <img class="portofolio__illus--jp" src="/img/our-portofolio.png" alt="portfolio">
                             <div class="custombox__portfolio">
                                 <h1 class="title-index">制作開発実績</h1>
                                 <hr class="title__yellow-line">
-                                採用管理システムやCRMシステム、ECサイト構築などシステム開発も数多く経験しています。<br><br>
-                                今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にインターネット・ITを活用して貢献していきます
-                                <a class="custombox__btn" href="portfolio.php">See more</a>
+                                ECサイト構築、自動車産業向けWebシステム開発、採用管理システムやCRMシステムなどインドネシア内でのシステム開発を数多く経験しています。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にデジタル
+                                / ITを活用して貢献します。
+                                <a class="custombox__btn" href="portfolio.php">制作開発実績をもっとみる</a>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
+            </section>
 
-            <div class="row container__custom-white">
-                <div class="container">
+            <section class="bg--white">
+                <div class="container__">
                     <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
+                        <div class="col-sm-12">
                             <h1 class="title-index--light">インドネシアで<span class="title-index--bold">HRテック</span>ソリューションを提供しています。
                             </h1>
                             <hr class="title__yellow-line">
-                            <p>インドネシアのWeb 制作開発 · デジタルマーケティ ング業界の発展に貢献したいと考えています. 当 社で働くデザイナー, エンジニア, デジタルマー ケッターが気持ちよく,
-                                効率的に働けるように, また的確な採用活動をして人事評価ができよう に社内向けに3つのシステム開発をして, 実際に 使ってきました. 十分な効果を感じていて製品としても熟成されてきましたので,
-                                この3つのシステムツールを製品として販売することにいたしました</p>
-
+                            <p>インドネシアのIT（SI、Web制作開発 · デジタルマーケティ ング）業界の発展に貢献したいと考えています。 当社で働くデザイナー, プラグラマー, デジタルマーケッターが気持ちよく,
+                                効率的に働けるように, また的確な採用活動をして人事評価ができように社内向けに3つのシステム開発をして, 実際に使ってきました. 十分な効果を感じていて製品としても熟成されてきましたので,
+                                この3つのシステムツールを製品として販売することにいたしました。</p>
                             <div class="product__slide">
-
                                 <div class="custombox__product-wrapper">
                                     <div class="custombox__product">
                                         <div class="custombox__head">
@@ -349,16 +337,37 @@
                                         <a class="custombox__btn-product" href="services/recruitment-web-dev.php">Learn More</a>
                                     </div>
                                 </div>
-
                             </div>
-
-
                         </div>
                     </div>
                 </div>
-            </div>
+            </section>
+
+            <section class="bg--white">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="custombox__product-wrapper">
+                                <div class="custombox__product-list">
+                                    <img class="custombox__product-list-img" src="/img/servicelist.png" alt="servicelist">
+                                    <a href="services.php" class="custombox__btn-product">サービスを詳しくみる</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="custombox__product-wrapper">
+                                <div class="custombox__product-list">
+                                    <img class="custombox__product-list-img" src="/img/productlist.png" alt="productlist">
+                                    <a href="product.php" class="custombox__btn-product">製品について確認する</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
         </div>
+
         <?php include 'footer.php';?>
 
         <script>

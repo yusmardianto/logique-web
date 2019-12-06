@@ -811,7 +811,7 @@ section.maintop {
 }
 
 .product__slide {
-    width: 95%;
+    /* width: 95%; */
     margin-top: 35px;
 }
 
@@ -883,6 +883,7 @@ section.maintop {
     bottom: -20px;
     right: 20%;
     text-align: center;
+    transition: all .3s;
 }
 
 .custombox__btn-product {
@@ -898,6 +899,7 @@ section.maintop {
     transition: all .3s;
 }
 
+.custombox__btn:hover,
 .custombox__btn-product:hover {
     background-color: #000;
     border-color: #000;
