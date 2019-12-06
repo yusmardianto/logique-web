@@ -359,7 +359,7 @@
             <section class="bg--white">
                 <div class="container__">
                     <div class="row">
-                        <div class="col-md-offset-0 col-sm-offset-2 col-md-6 col-sm-8">
+                        <div class="col-md-offset-1 col-sm-offset-2 col-md-5 col-sm-8">
                             <div class="custombox__product-wrapper">
                                 <div class="custombox__product-list">
                                     <img class="custombox__product-list-img" src="/img/servicelist.png" alt="servicelist">
@@ -367,7 +367,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-offset-0 col-sm-offset-2 col-md-6 col-sm-8">
+                        <div class="col-md-offset-0 col-sm-offset-2 col-md-5 col-sm-8">
                             <div class="custombox__product-wrapper">
                                 <div class="custombox__product-list">
                                     <img class="custombox__product-list-img" src="/img/productlist.png" alt="productlist">
