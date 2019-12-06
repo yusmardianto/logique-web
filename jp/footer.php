@@ -1,4 +1,4 @@
-<style>
+mob<style>
 footer {
     margin-left: 0;
     background-color: transparent;
