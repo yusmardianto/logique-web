@@ -332,7 +332,7 @@
                                         Create Mobile App
                                     </div>
                                 </a>
-                                <a href="services/mobile-app-dev.php">
+                                <a href="services/mobile-app-dev.php#solusi-section">
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/pwa.png" alt="">

@@ -340,7 +340,7 @@
                                         モバイルアプの開発
                                     </div>
                                 </a>
-                                <a href="services/mobile-app-dev.php">
+                                <a href="services/mobile-app-dev.php#solusi-section">
                                     <div class="main-btn --ws --white">
                                         <div>
                                             <div class="web-solution__half-bg--round"></div>

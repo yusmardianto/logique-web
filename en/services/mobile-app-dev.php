@@ -367,7 +367,7 @@ if(isset($_POST['submitted']))
              <br /><br /><br />
          </section>
 
-         <section class="solusi revision">
+         <section class="solusi revision" id="solusi-section">
              <div class="container__">
                  <br /><br />
                  <div class="row row-center-md">
@@ -467,7 +467,7 @@ if(isset($_POST['submitted']))
              </div>
          </section>
 
-         <section class="portofolio">
+         <section class="portofolio" id="portfolio-section">
              <div class="container__">
                  <div class="row">
                      <div class="col-md-5">
