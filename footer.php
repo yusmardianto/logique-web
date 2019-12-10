@@ -228,7 +228,7 @@ footer {
     </div>
 </footer>
 <section class="tahap-pemesanan-2 text-center hidden-sm hidden-md hidden-lg" style="padding: 2em">&copy; <span
-        class="copyrightYear"></span> Logique</section>
+        class="copyrightYear"></span> Logique Digital Indonesia. All Rights Reserved.</section>
 <script src="/js/jquery-3.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/slick.min.js"></script>

@@ -93,6 +93,9 @@ if(isset($_POST['submitted']))
         margin-top: -15px;
         margin-bottom: -35px;
     }
+    .col-sm-12.link-footer {
+		margin-bottom: 2em;
+	}
     footer {
         top: 35px;
     }
@@ -101,7 +104,7 @@ if(isset($_POST['submitted']))
         top: 35px;
     }
     </style>
-    <div class="wrapper">
+    <div class="wrapper wrapper--update-design">
         <!-- NAVIGATION -->
         <div>
             <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -178,7 +181,7 @@ if(isset($_POST['submitted']))
                                 <ul class="list-inline">
                                     <li><a href="/en/services/recruitment-web-dev.php">EN</a></li>
                                     <li class="active"><a href="#">ID</a></li>
-                                    <li><a href="#">JP</a></li>
+                                    <li><a href="/jp/services/recruitment-web-dev.php">JP</a></li>
                                 </ul>
                                 <a href="/index.php"><img src="/img/logo.png"
                                         alt="Jasa Pembuatan Website Logique Digital Indonesia"
@@ -800,88 +803,6 @@ if(isset($_POST['submitted']))
             </section>
 
         </div>
-
-
-        <footer class="hidden">
-            <div class="footer-container">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-3 col-sm-4">
-                            <h3>HUBUNGI KAMI </h3>
-                            <a href="/" target="_blank"><img src="assets/img/img-recruitment-website/logo-y-logique.png"
-                                    alt="logo-footer" class="img-responsive"></a>
-                            <p>LOGIQUE DIGITAL INDONESIA<br>
-                                Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5
-                                Ragunan, <br>Ps. Minggu, Jakarta Selatan,<br> Indonesia 12550
-
-                                <br>
-                                &nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
-                                <br>
-                                <i class="fa fa-mobile-phone"></i>&nbsp;&nbsp;<i class="fa fa-whatsapp"></i>&nbsp;&nbsp;0811870321
-                            </p>
-
-                        </div>
-                        <div class="col-md-6 col-sm-8 mesage-alert ">
-                            <?php if(isset($msg))
-		                    {
-		                    echo $msg;
-		                    }
-		                    ?>
-                            <form id="contact-form-career" class="contact-form-container" role="form" name='myForm'
-                                onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post'
-                                accept-charset='UTF-8'>
-                                <input type='hidden' name='submitted' id='submitted' value='1' />
-                                <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>'
-                                    value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
-                                <fieldset>
-                                    <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-                                </fieldset>
-                                <fieldset>
-                                    <input type="text" name="name" aria-label="Name" id="name" class="input-name form-control"
-                                        value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Nama">
-                                </fieldset>
-                                <fieldset>
-                                    <input type="text" name="email" aria-label="Email" id="email" class="input-email form-control"
-                                        value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Alamat Email">
-                                </fieldset>
-                                <fieldset>
-
-                                    <textarea class="textarea-message form-control" name="message" aria-label="Message"
-                                        placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
-                                </fieldset>
-                                <fieldset>
-
-                                    <div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp">
-                                    </div>
-                                    <div class="clearfix"></div>
-
-                                </fieldset>
-                                <fieldset class="text-right">
-
-                                    <button type="submit" class="btn btn-submit submit-button">Kirim</button>
-                                </fieldset>
-
-                            </form>
-
-                        </div>
-                        <div class="col-md-3">
-                            <p style="line-height: 18px; text-align: justify;">Sebagai tim yang profesional dalam bidang jasa
-                                pembuatan website, LOGIQUE menyediakan solusi terbaik yang teroptimasi untuk bisnis Anda. Selain
-                                jasa pembuatan website, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi digital,
-                                jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami
-                                memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi,
-                                maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan
-                                arsitektur sistem yang baik.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="copyright-container">
-                <div class="container text-center">
-                    &copy; 2017 Logique Digital Indonesia
-                </div>
-            </div>
-        </footer>
 
         <?php include '../footer.php'; ?>
     </div>
