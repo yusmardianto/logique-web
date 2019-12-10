@@ -367,7 +367,7 @@ if(isset($_POST['submitted']))
              <br /><br /><br />
          </section>
 
-         <section class="solusi revision">
+         <section class="solusi revision" id="solusi-section">
              <div class="container__">
                  <br /><br />
                  <div class="row row-center-md">
@@ -467,7 +467,7 @@ if(isset($_POST['submitted']))
              </div>
          </section>
 
-         <section class="portofolio">
+         <section class="portofolio" id="portfolio-section">
              <div class="container__">
                  <div class="row">
                      <div class="col-md-5">
@@ -481,6 +481,78 @@ if(isset($_POST['submitted']))
                      </div>
                      <div class="col-md-7">
                          <div class="portfolio-slider">
+                            <div>
+                                <div class="row">
+                                    <div class="col-sm-5">
+                                        <img alt="Frangipani" class="img-responsive center-block"
+                                            src="assets/img/img-mobileapps/jba-bike-inspection-app-1.png" />
+                                    </div>
+                                    <div class="col-sm-7">
+                                        <div class="caption-portfolio">
+                                            <div class="arrow-left"></div>
+                                            <h2 class="font-28">Category: Automotive</h2><br />
+                                            <div>
+                                                <!-- Application that helps international spa managers to improve services and
+                                                relationships with customers. -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="row">
+                                    <div class="col-sm-5">
+                                        <img alt="Frangipani" class="img-responsive center-block"
+                                            src="assets/img/img-mobileapps/weeo-hino-connect-2.png" />
+                                    </div>
+                                    <div class="col-sm-7">
+                                        <div class="caption-portfolio">
+                                            <div class="arrow-left"></div>
+                                            <h2 class="font-28">Category: Automotive</h2><br />
+                                            <div>
+                                                <!-- Application that helps international spa managers to improve services and
+                                                relationships with customers. -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="row">
+                                    <div class="col-sm-5">
+                                        <img alt="Frangipani" class="img-responsive center-block"
+                                            src="assets/img/img-mobileapps/weeo-testing-app-1.jpg" />
+                                    </div>
+                                    <div class="col-sm-7">
+                                        <div class="caption-portfolio">
+                                            <div class="arrow-left"></div>
+                                            <h2 class="font-28">Category: Automotive</h2><br />
+                                            <div>
+                                                <!-- Application that helps international spa managers to improve services and
+                                                relationships with customers. -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="row">
+                                    <div class="col-sm-5">
+                                        <img alt="Frangipani" class="img-responsive center-block"
+                                            src="assets/img/img-mobileapps/wantjp1.png" />
+                                    </div>
+                                    <div class="col-sm-7">
+                                        <div class="caption-portfolio">
+                                            <div class="arrow-left"></div>
+                                            <h2 class="font-28">Category: E-Commerce</h2><br />
+                                            <div>
+                                                <!-- Application that helps international spa managers to improve services and
+                                                relationships with customers. -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                              <div>
                                  <div class="row">
                                      <div class="col-sm-5">
