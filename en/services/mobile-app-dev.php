@@ -211,7 +211,7 @@ if(isset($_POST['submitted']))
                                      <meta itemprop="position" content="2" />
                                  </li>
                                  <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                         itemprop="item"><span itemprop="name">&nbsp;Mobile Apllication Development</span></a>
+                                         itemprop="item"><span itemprop="name">&nbsp;Mobile Application Development</span></a>
                                      <meta itemprop="position" content="3" />
                                  </li>
                              </ol>

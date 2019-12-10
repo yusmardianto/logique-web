@@ -119,7 +119,7 @@
                     </a>
                 </div>
                 <div class="text-center active">
-                    <a href="#">
+                    <a href="/layanan.php">
                         <div class="img-services"></div>
                         Layanan
                     </a>

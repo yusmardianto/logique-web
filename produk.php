@@ -147,18 +147,13 @@
                     <div class="text-center">
                         <h1 class="title-index">Produk Kami</h1>
                         <hr class="title__yellow-line--center">
-                        <p class="title__description">Agar perusahaan Anda dapat tumbuh dan berkembang di era digital, LOGIQUE
-                            memberikan solusi berupa sistem manajemen HR untuk mempermudah karyawan dalam mengatur waktu dan
-                            produktivitas kerja mereka. </p>
+                        <p class="title__description">Untuk membantu perusahaan tumbuh dan beradaptasi dalam era digital, LOGIQUE mengembangkan dan menyediakan produk digital, seperti sistem manajemen SDM, untuk meningkatkan operasi SDM, produktivitas, dan potensi keuntungan dalam organisasi.</p>
                         <div class="product-list">
                             <img class="product-list__img" src="/img/top/i-dokodemo.png" alt="dokodemo">
                             <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                             <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
                         </div>
-                        <p class="title__description">Sistem ini merupakan solusi untuk meningkatkan produktivitas karyawan
-                            melalui sistem kerja yang fleksibel, manajemen waktu kerja dengan sistem laporan harian, serta
-                            sistem
-                            manajemen rekrutmen untuk mempermudah proses seleksi karyawan menjadi lebih efisien.</p>
+                        <p class="title__description">Kami menyediakan solusi yang bertujuan untuk meningkatkan kinerja melalui jam kerja yang fleksibel dan peningkatan manajemen biaya melalui laporan harian, hingga sistem rekrutmen yang sangat membantu dalam menemukan karyawan yang paling berkualitas dengan cara yang seefisien mungkin.</p>
                     </div>
                 </div>
             </section>
@@ -202,12 +197,7 @@
                         </div>
                     </div>
 
-                    <p class="title__description--full">Sistem ini juga membantu Anda untuk mengetahui apakah karyawan dapat
-                        menyelesaikan tugas secara efisien. Dengan Dokodemo-kerja, memungkinkan Anda untuk menerapkan sistem
-                        kerja
-                        remote bagi seluruh karyawan, sehingga membuat para karyawan Anda dapat bekerja dengan bahagia dan
-                        menjadi
-                        lebih produktif melalui sistem kerja fleksibel di mana saja mereka suka.</p><br>
+                    <p class="title__description--full">Dokodemo-Kerja membantu Anda dalam mengimplementasikan aturan-aturan SDM yang lebih efektif dan fleksibel, yang dapat disesuaikan dengan kebutuhan. Program ini membantu Manajer mengatur jam kerja karyawan, melacak pekerjaan mereka, dan menangkap tangkapan layar secara acak setiap 10 menit. Dengan ini, staf akan bebas untuk bekerja di mana saja kapan saja dengan catatan kerja yang akurat, meningkatkan produktivitas secara signifikan.</p><br>
 
                     <div class="text-center">
                         <a class="btn--yellow" href="https://dokodemo-kerja.com/ind/">Learn More</a>
@@ -220,14 +210,7 @@
                     <h1 class="title-index">SUGOI SAIYO</h1>
                     <hr class="title__yellow-line">
                     <h4 class="title-index__sub">Sistem Manajamen Rekrutmen Untuk Proses Rekrutmen Yang Lebih Mudah</h4>
-                    <p class="title__description--full">Apakah Anda pernah mengalami kesulitan ketika menyaring terlalu banyak
-                        pelamar yang tidak sesuai ? Sekarang hal itu tidak akan Anda temukan lagi. Sebab, dengan Sugoi Saiyo
-                        proses rekrutmen dapat Anda lakukan dengan lebih mudah dan efisien. Sugoi Saiyo merupakan sistem IT
-                        yang
-                        dapat membantu bagian HR untuk mendapatkan karyawan yang tepat bagi perusahaan, juga dapat membantu
-                        pencari kerja untuk melamar pekerjaan dengan tahap yang sederhana serta mengetahui hasil seleksi
-                        mereka
-                        dengan jelas. </p>
+                    <p class="title__description--full">Sugoi Saiyo merupakan solusi yang berguna untuk masalah yang dihadapi oleh tim rekrutmen Indonesia. Apakah Anda bosan memeriksa dan menyaring banyak lamaran pekerjaan yang tidak memenuhi syarat, mengatur wawancara, dan menangani orang yang tidak hadir di hari wawancara? Anda dapat mengurangi sakit kepala dengan Sugoi Saiyo. Software pencari kerja yang dapat melamar, mengkonfirmasi status kandidat, mengatur tanggal wawancara dan mendapatkan surat penawaran, semua melalui Sugoi Saiyo.</p>
 
                     <div class="product-snap-shot">
                         <div class="product-snap-shot__item">
@@ -249,10 +232,7 @@
                         </div>
                     </div>
 
-                    <p class="title__description--full">Sistem ini mencakup seluruh proses rekrutmen yang Anda lakukan, mulai
-                        dari
-                        proses penerimaan CV, tes, jadwal interview, hingga surat penawaran kerja yang dikirimkan melalui
-                        website.
+                    <p class="title__description--full">Sistem ini mencakup semua proses perekrutan dasar. Dari resepsi CV, penyaringan, pengujian dan penjadwalan wawancara, hingga mengirim surat penawaran; semua kegiatan ini bisa dilakukan melalui Sugoi Saiyo.
                     </p><br>
 
                     <div class="text-center">
@@ -266,12 +246,7 @@
                     <h1 class="title-index">NIPPO</h1>
                     <hr class="title__yellow-line">
                     <h4 class="title-index__sub">Sistem laporan kerja karyawan dan Sistem Manajemen Jam Kerja</h4>
-                    <p class="title__description--full">Melalui Nippo, Anda dapat mengetahui apakah karyawan Anda dapat
-                        menggunakan jam kerja mereka secara efektif dan efisien. Nippo merupakan sistem laporan harian dimana
-                        karyawan Anda dapat membuat laporan serta menginformasikan berapa banyak waktu yang dibutuhkan untuk
-                        setiap projek yang dikerjakan. Karyawan juga dapat saling menandai dan memberikan feedback atau
-                        komentar
-                        kepada karyawan lain pada setiap projek yang dikerjakan bersama. </p>
+                    <p class="title__description--full">Nippo adalah alat manajemen cloud laporan harian. Melalui Nippo, manajer SDM dan supervisor di setiap departemen dapat memeriksa bagaimana karyawan menghabiskan jam kerjanya. Mengizinkan rekan kerja untuk saling menandai dan mengevaluasi pekerjaan satu sama lain, sehingga membuat komunikasi internal menjadi lebih aktif.</p>
 
                     <div class="product-snap-shot">
                         <div class="product-snap-shot__item">
@@ -297,8 +272,7 @@
                     </div>
 
                     <p class="title__description--full">
-                        Anda juga dapat melihat jumlah jam kerja karyawan untuk setiap projek yang telah selesai dikerjakan.
-                        Dengan Nippo, penilaian dan evaluasi kerja dapat dilakukan setiap hari.</p><br>
+                    Alat ini berguna untuk SDM untuk menghitung biaya jam kerja dari setiap tugas yang dilakukan oleh setiap karyawan. Melalui Nippo, evaluasi dan penilaian mandiri dapat dilakukan secara metodis setiap hari.</p><br>
 
                     <div class="text-center">
                         <a class="btn--yellow" href="produk/nippo.php">Learn More</a>
