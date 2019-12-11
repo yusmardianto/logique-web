@@ -497,48 +497,32 @@ if(isset($_POST['submitted']))
                      <div class="col-md-offset-1 col-md-10">
                          <ol>
                              <li class="-Bagaimana-cara-ke">
-                                 <h3>Bagaimana cara kerja Nippo?</h3>
-                                 <p class="Nippo-merupakan-sist">Nippo merupakan sistem yang dibuat untuk mempermudah karyawan
-                                     dalam
-                                     melakukan laporan kerja harian. Selain itu, sistem ini juga dibuat untuk membantu manajerial
-                                     dalam
-                                     memantau kinerja harian karyawan.</p>
+                                 <h3><b>Nippoってどんなツールなの？</b></h3>
+                                 <p class="Nippo-merupakan-sist">日報管理ツールです。日報を通じて従業員の作業内容や作業量を把握管理し、社内の情報共有を促します。管理会計や人事評価管理が可能となります。</p>
                              </li>
                              <li class="-Bagaimana-cara-ke">
-                                 <h3>Bagaimana Nippo dapat membantu manager dan staf HR?</h3>
-                                 <p class="Nippo-merupakan-sist">Dengan fitur-fitur yang ada pada Nippo, manajer atau supervisor
-                                     dapat
-                                     memantau kinerja dan produktivitas harian karyawan.</p>
+                                 <h3><b>管理部門や人事部門にとってどんなメリットが？</b></h3>
+                                 <p class="Nippo-merupakan-sist">人事や各部門の管理者は管理対象のメンバーが何時間、どのタスク（プロジェクト）のどんなタイプの仕事をしたのかを把握可能です。各メンバーの自己評価を確認した後に、コメントバックしながら評価点を付与することで評価します。定期的に評価点を集計することで査定をフェアに行うことを可能とします。</p>
                              </li>
                              <li class="-Bagaimana-cara-ke">
-                                 <h3>Sepertinya saya akan membutuhkan panduan yang lebih jelas dalam menggunakan Nippo. Apa saya
-                                     akan
-                                     mendapatkannya?</h3>
-                                 <p class="Nippo-merupakan-sist">Jangan khawatir. Kami menyediakan panduan penggunaannya untuk
-                                     Anda. Jika
-                                     Anda masih menemukan kesulitan, Anda bisa langsung menghubungi kami.</p>
+                                 <h3><b>トレーニングしてもらえますか？</b></h3>
+                                 <p class="Nippo-merupakan-sist">必要に応じてご支援いたしますが、操作しやすいUIで作られていますので使い始めるのに多くの準備は必要としません。まずはデモ環境をご用意いたしますのでトライアル利用していただければと思います。操作マニュアルもご提供いたします。</p>
                              </li>
                              <li class="-Bagaimana-cara-ke">
-                                 <h3>Kami tertarik menggunakan Nippo untuk perusahaan kami. Bagaimana kami bisa mendapatkannya?
-                                 </h3>
-                                 <p class="Nippo-merupakan-sist">Anda bisa langsung menghubungi kami melalui salah satu kontak
-                                     yang kami
-                                     sediakan. Kami siap melayani Anda dengan senang hati.</p>
+                                 <h3><b>契約はどのようになりますか？</b></h3>
+                                 <p class="Nippo-merupakan-sist">毎月の契約になります。毎月末にご利用ユーザー数を集計してご請求額を確定しご請求書をお送りいたします。翌月末までに銀行振り込みにてお支払いいただきます。</p>
                              </li>
                              <li class="-Bagaimana-cara-ke">
-                                 <h3>Apa perbedaan laman kelola untuk staf dengan manajerial?</h3>
-                                 <p class="Nippo-merupakan-sist">Pada halaman manajerial terdapat fungsi evaluasi sehingga manajer
-                                     dapat
-                                     memberikan skor evaluasi kepada stafnya. Sedangkan untuk halaman staf hanya terdapat fungsi
-                                     laporan
-                                     harian saja.</p>
+                                 <h3><b>一般ユーザーと管理者ユーザーではシステムが異なるのですか？</b></h3>
+                                 <p class="Nippo-merupakan-sist">ブラウザベースのクラウドシステムです。インターフェースは同じです。ログインユーザーによって権限管理をしていますのでご利用になれるメニューが変わってきます。</p>
                              </li>
                              <li class="-Bagaimana-cara-ke">
-                                 <h3>Apakah Nippo bisa diakses oleh browser apa pun?</h3>
-                                 <p class="Nippo-merupakan-sist">Ya, Nippo dapat diakses menggunakan browser apapun, termasuk oleh
-                                     browser
-                                     di perangkat seluler. Jika Anda mengalami masalah dan membutuhkan bantuan, jangan ragu untuk
-                                     menghubungi Kami.</p>
+                                 <h3><b>使うブラウザに制限はありますか？</b></h3>
+                                 <p class="Nippo-merupakan-sist">Chromeを推奨しています。FirefoxやSafariの最新バージョンでも動作確認しています。IEは推奨しておりません。</p>
+                             </li>
+                             <li class="-Bagaimana-cara-ke">
+                                 <h3><b>モバイル端末からも利用できますか？</b></h3>
+                                 <p class="Nippo-merupakan-sist">はい、特に入力に関してはモバイル端末からも問題なく行なえますので、外出先から日報記入することが可能です。</p>
                              </li>
                          </ol>
                      </div>

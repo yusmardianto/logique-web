@@ -556,15 +556,10 @@ if(isset($_POST['submitted']))
              <div class="container__">
                  <div class="row">
                      <div class="col-lg-12">
-                         <h2 class="font-28 text-center">Cara Kerja LOGIQUE</h2>
+                         <h2 class="font-28 text-center">LOGIQUEのアプリ開発</h2>
                          <br />
                          <p class="text-center">
-                             Baik untuk proyek B2C, B2B, startup, atau solusi operasional perusahaan, pertama-tama, kami akan
-                             meluangkan waktu untuk memahami bisnis, produk dan kebutuhan pengguna. Cara dan hasil kerja kami
-                             sangat
-                             disukai oleh pengguna dan klien karena mampu menciptakan aplikasi yang optimal dan memberi nilai
-                             tambah
-                             dari segi bisnis.
+                         原則、アジャイル開発を行います。リリースまでの期間が短く、開発途中の仕様変更・要件変更にも柔軟に対応できる新しい開発手法です。仕様が決まりきっていないけど早く世に出してマーケットの声を聞きたいのようなケースなどでも効果的なご支援をいたします。
                          </p>
                      </div>
                  </div>
@@ -573,62 +568,51 @@ if(isset($_POST['submitted']))
                      <div class="col-md-5ths">
                          <div class="contain-img">
                              <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja1.png"
-                                 alt="Perencanaan" />
-                             <div class="text-center title">Perencanaan</div>
+                                 alt="アプリの企画" />
+                             <div class="text-center title">アプリの企画</div>
                          </div>
                          <p>
-                             Diawal proyek kami akan berdiskusi dengan Anda dan memastikan bahwa semua kebutuhan perusahaan,
-                             layanan,
-                             atau pengguna telah masuk ke dalam cakupan aplikasi. Kami akan memberikan rancangan konsep berupa
-                             wireframe sebagai hasil akhir.
+                         アプリの企画をご支援します。「ビジネスについて」「アプリを作る目的やゴール」「ユーザーに提供したい体験」の3つを主にしっかりとぶれない考えを纏めて、コンテンツやアプリをおもしろくする仕組みやUIに関しても合わせて考え企画として纏めます。
                          </p>
                      </div>
                      <div class="col-md-5ths">
                          <div class="contain-img">
                              <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja2.png"
-                                 alt="Desain" />
-                             <div class="text-center title">Desain</div>
+                                 alt="デザイン" />
+                             <div class="text-center title">デザイン</div>
                          </div>
                          <p>
-                             Dari konsep yang telah dihasilkan, desainer kami akan mulai membuat desain halaman. Kami dapat
-                             memberikan
-                             beberapa opsi untuk desain halaman utama yang bisa Anda pilih. Desain yang cocok akan kami revisi
-                             lebih
-                             lanjut dan kami akan melanjutkan desain halaman lainnya.
+                         ワイヤーフレームやデザインなど、目に見える形をたたき台として議論を深められるフェーズです。新たなアイデアが出てデザインを見直すなどを行います。ここで止まってしまうと良くありません。ユーザーの声を早く聞くということも大事です。
                          </p>
                      </div>
                      <div class="col-md-5ths">
                          <div class="contain-img">
                              <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja3.png"
-                                 alt="Pengembangan" />
-                             <div class="text-center title">Pengembangan</div>
+                                 alt="開発" />
+                             <div class="text-center title">開発</div>
                          </div>
                          <p>
-                             Berdasarkan konsep secara fungsional tim teknis kami akan mulai mengembangkan aplikasi mobile yang
-                             dapat
-                             berfungsi dengan baik sesuai dengan standar pengembangan dan keamanan aplikasi yang ada.
+                         スコープに沿った適切な開発体制を整備してアジャイル開発でアプリを開発します。アプリのプログラミングには、主流でトレンドな言語を選択します。そのほうが開発後のメンテナンス性が高くなるからです。Java, Objective-C, Swift, Kotlin, Flutterなどでの開発を行っています。
                          </p>
                      </div>
                      <div class="col-md-5ths">
                          <div class="contain-img">
                              <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja4.png"
-                                 alt="Testing" />
-                             <div class="text-center title">Testing</div>
+                                 alt="テスト" />
+                             <div class="text-center title">テスト</div>
                          </div>
                          <p>
-                             Tim QA kami akan memastikan bahwa fitur yang dikembangkan oleh tim teknis sudah berjalan sebagaimana
-                             mestinya sehingga Anda tidak perlu khawatir.
+                         リリース後に致命的なバグが発生したり、セキュリティ脆弱性が発見されるなどは絶対に避けなければなりません。テストをしながら次フェーズでの改善点も見えてきます。
                          </p>
                      </div>
                      <div class="col-md-5ths">
                          <div class="contain-img">
                              <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja5.png"
-                                 alt="Peluncuran Aplikasi" />
-                             <div class="text-center title">Peluncuran Aplikasi</div>
+                                 alt="アプリ公開" />
+                             <div class="text-center title">アプリ公開</div>
                          </div>
                          <p>
-                             Selamat! Setelah semua proses dilalui, aplikasi Android atau iOS Anda siap untuk diluncurkan pada App
-                             Store atau Google Play Store.
+                         Google PlayやApp Storeへの申請公開作業も行います。審査に通らないと設計や実装レベルの改修が必要になってしまうこともあるのでしっかりとリリース状態になるまでご支援します。
                          </p>
                      </div>
                  </div>

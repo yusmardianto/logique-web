@@ -313,15 +313,15 @@ if(isset($_POST['submitted']))
                     style="width: 100%;">
                 <div class="container__">
                     <h2 class="text-center">
-                        Mari Kita lihat Simulasi Biaya Perekrutan dibawah ini
+                    採用サイト（Ownedメディア）をもつ効果
                     </h2>
                     <div class="simul-cont1">
-                        <div class="simul-1">Jika Anda ingin merekrut</div>
+                        <div class="simul-1">仮に新たに</div>
                         <div class="simul-2">
                             <img src="assets/img/img-recruitment-website/img-simulation1.png" alt="Cost Simulation"
-                                class="img-responsive">
-                            10 karyawan baru</div>
-                        <div class="simul-3">untuk 10 posisi berbeda,</div>
+                                class="img-responsive" style="margin: 0 auto 5px">
+                                10人の採用をする場合</div>
+                        <div class="simul-3">10人の新規採用</div>
                     </div>
                     <center>
                         <img src="assets/img/img-recruitment-website/simulation-dot.png" alt="Cost Simulation"
