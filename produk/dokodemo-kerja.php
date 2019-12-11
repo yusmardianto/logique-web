@@ -158,7 +158,7 @@ if(isset($_POST['submitted']))
                              </a>
                          </div>
                          <div class="text-center">
-                             <a href="/karir.php">
+                             <a href="/career/">
                                  <div class="img-career"></div>
                                  Karir
                              </a>
@@ -1168,7 +1168,7 @@ if(isset($_POST['submitted']))
                                      </ul>
                                  </li>
                                  <li><a href="/portofolio.php">Portofolio</a></li>
-                                 <li class="have-submenu"><a href="/karir.php">Karir</a>
+                                 <li class="have-submenu"><a href="/career/">Karir</a>
                                      <ul>
                                          <li><a href="/career/">Join LOGIQUE</a></li>
                                      </ul>

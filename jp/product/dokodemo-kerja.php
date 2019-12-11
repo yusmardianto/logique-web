@@ -115,7 +115,7 @@ if(isset($_POST['submitted']))
 							</a>
 						</div>
 							<div class="text-center">
-								<a href="/jp/joinus.php">
+								<a href="/career/">
 									<div class="img-career"></div>
 									採用/<br>パートナー
 								</a>
@@ -848,7 +848,7 @@ if(isset($_POST['submitted']))
 
 							<li><a href="/career/">求人/インターン</a>
 								<ul>
-									<li><a href="/jp/joinus.php">採用/パートナー</a></li>
+									<li><a href="/career/">採用/パートナー</a></li>
 								</ul>
 							</li>
 							<li><a href="/jp/contact.php">お問い合わせ</a></li>

@@ -132,7 +132,7 @@
                              </a>
                          </div>
                          <div class="text-center">
-                             <a href="/jp/joinus.php">
+                             <a href="/career/">
                                  <div class="img-career"></div>
                                  採用/<br>パートナー
                              </a>

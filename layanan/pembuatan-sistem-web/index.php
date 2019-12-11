@@ -107,7 +107,7 @@ if(isset($_POST['submitted']))
 								</a>
 							</div>
 							<div class="text-center">
-								<a href="/karir.php">
+								<a href="/career/">
 									<div class="img-career"></div>
 									Karir
 								</a>
@@ -408,7 +408,7 @@ if(isset($_POST['submitted']))
 							</div>
 							<div class="col-xs-6">
 								<div class="link-footer-webdev">
-									<a href="/karir.php" target="_blank">Karir</a>
+									<a href="/career/" target="_blank">Karir</a>
 									<a href="/career/" target="_blank">Join LOGIQUE</a>
 									<a href="/hubungi-kami.php" target="_blank">Hubungi Kami</a>
 								</div>

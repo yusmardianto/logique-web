@@ -102,7 +102,7 @@
 						<div class="lang-logo">
 							<ul class="list-inline">
 								<li class="active"><a href="#">EN</a></li>
-								<li><a href="../karir.php">ID</a></li>
+								<li><a href="/career/">ID</a></li>
 								<li><a href="../jp/joinus.php">JP</a></li>
 							</ul>
 							<a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo"/></a>

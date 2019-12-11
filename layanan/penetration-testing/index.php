@@ -742,7 +742,7 @@
 							<a href="/tentang-kami.php">Tentang Kami</a><br/><br/>
 							<a href="/portofolio.php">Portofolio</a><br/><br/>
 							<a href="/layanan.php">Layanan</a><br/><br/>
-							<a href="/karir.php">Karir</a><br/><br/>
+							<a href="/career/">Karir</a><br/><br/>
 							<a href="/career/">Join LOGIQUE</a><br/><br/>
 							<a href="/hubungi-kami.php">Hubungi Kami</a><br/>
 						</div>
