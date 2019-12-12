@@ -2863,11 +2863,11 @@ video {
     left: 0
 }
 
-@media (max-width:800px) {
+/* @media (max-width:800px) {
     #bgvid {
-        display: none
+        display: none;
     }
-}
+} */
 
 section.maintop {
     background-position: 50% 50%;
