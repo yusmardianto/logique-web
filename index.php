@@ -70,6 +70,10 @@
     .bg--white {
         position: relative;
     }
+    section.visible-xs.visible-sm.--top {
+        position: relative;
+        z-index: 5;
+    }
     @media (max-width: 768px) and (min-width: 415px) {
         .custombox__product-wrapper {
             margin-bottom: 2em;
@@ -178,7 +182,7 @@
                                     <div class="title-index">
                                         Pengembang Sistem Web Terbaik di Jakarta, Menyediakan Solusi Digital untuk Bisnis Anda
                                     </div>
-                                    <hr class="title__yellow-line">
+                                    <hr class="title__yellow-line--center">
                                     <p><b>LOGIQUE DIGITAL INDONESIA</b> adalah Developer Web Application / Aplikasi Mobile
                                         profesional yang berspesialisasi dalam pembuatan dan perancangan WebApp, dengan penekanan
                                         pada Pemasaran Digital (Digital Marketing), untuk meningkatkan dan memaksimalkan

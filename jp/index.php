@@ -68,8 +68,10 @@
     .bg--white {
         position: relative;
     }
-
-
+    section.visible-xs.visible-sm.--top {
+        position: relative;
+        z-index: 5;
+    }
     @media (max-width: 768px) and (min-width: 415px) {
         .custombox__product-wrapper {
             margin-bottom: 2em;
@@ -175,7 +177,7 @@
                     <div class="title-container">
                         <div class="text-center" style="background: none;">
                             <div class="title-index">インドネシアでお客様の課題を<br class="visible-md visible-lg">Web・ITの活用で解決してきました</div>
-                            <hr class="title__yellow-line">
+                            <hr class="title__yellow-line--center">
                             <p>Webシステム開発、Web・ホームページ制作サービスをインドネシアで行っております。インドネシア国内のお客様のデジタル /
                                 ネットビジネスを戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWeb/システムを制作開発運用することを心がけています。 <br><br>
                                 デジタルマーケティングコンサルティング、モバイルアプリ開発、PWA開発、E-Commerce構築、SEO対策、ソーシャルメディア運用、コンテンツマーケティング、インフラ構築など関連サービスも幅広く提供していますのでお気軽にご相談ください。
