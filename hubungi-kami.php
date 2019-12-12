@@ -922,14 +922,14 @@ if(isset($_POST['submitted']))
 							<div class="panel panel-default">
 								<div class="panel-heading" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse1">
 									<dt class="panel-title">
-										<i class="fa fa-question-circle">&nbsp;</i><a >Apakah memungkinkan bagi Anda untuk memproses proyek menggunakan Bahasa Inggris?</a>
+										<i class="fa fa-question-circle">&nbsp;</i><a >Saya ingin mengetahui rentan harga layanan LOGIQUE.</a>
 									</dt>
 								</div>
 								<div id="collapse1" class="panel-collapse collapse in">
 									<div class="panel-body">
-										Pada umumnya bisa saja, tapi mungkin akan ada beberapa kesulitan ketika memprosesnya dalam bahasa Inggris. 
-										Namun, Anda tidak perlu khawatir sebab kebanyakan dari staff kamu mampu berkomunikasi dengan bahasa Inggris cukup untuk memproses proyek tersebut. 
-										Kami juga menerima proyek yang berasal dari perusahaan di luar negeri.
+									Harga layanan tergantung pada kebutuhan Anda. Untuk melihat kisaran harga untuk pengembangan Website, 
+									kunjungilah halaman ini: <a href="https://www.logique.co.id/layanan/web-dev.php" target="blank"><strong><i>Kisaran Harga Pengembangan Web LOGIQUE</i></strong></a>. Harap dicatat bahwa Informasi yang tertera hanyalah kisaran umum. 
+									Kami akan memberikan perkiraan yang lebih terperinci setelah mengetahui kebutuhan Anda.
 									</div>
 								</div>
 							</div>
@@ -937,14 +937,14 @@ if(isset($_POST['submitted']))
 							<div class="panel panel-default">
 								<div class="panel-heading">
 									<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse2">
-										<i class="fa fa-question-circle">&nbsp;</i><a>Dapatkah Anda mengadakan pertemuan di luar negeri?</a>
+										<i class="fa fa-question-circle">&nbsp;</i><a>BIsakah LOGIQUE mengirimkan beberapa programmer untuk bekerja onsite?</a>
 									</dt>
 								</div>
 								<div id="collapse2" class="panel-collapse collapse">
 									<div class="panel-body">
-										Terkait hal ini kami akan mendiskusikannya dengan Anda terlebih dahulu. 
-										Biasanya kami menawarkan percakapan via video seperti Skype untuk melakukan hal tersebut, 
-										tapi kami juga dapat bersikap fleksibel tergantung dari kondisi dan kasus yang dihadapi.
+									Kami biasanya mengembangkan Web / Sistem / Aplikasi secara offsite (di pusat pengembangan kami sendiri). 
+									Tetapi jika bekerja secara onsite merupakan persyaratan wajib atau jika ada alasan yang masuk akal / tak terhindarkan, 
+									kita bisa bertindak fleksibel. Tolong jangan ragu untuk berkonsultasi.
 									</div>
 								</div>
 							</div>
@@ -953,15 +953,15 @@ if(isset($_POST['submitted']))
 								<div class="panel-heading">
 									<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse3">
 										<i class="fa fa-question-circle">&nbsp;</i><a>
-											Kami berpikir untuk mengganti outsourcer sistem atau website kami dan dengan tim Anda.
+											Kami juga sebuah perusahaan pengembang. Bisakah LOGIQUE menjadi sub-kontraktor kami?
 										</a>
 									</dt>
 								</div>
 								<div id="collapse3" class="panel-collapse collapse">
 									<div class="panel-body">
-										Silahkan hubungi kami jika Anda berpikir seperti itu, jangan ragu dan khawatir perihal dokumentasi dan sebagainya. 
-										Sebab, pada beberapa kasus yang telah kami alami, kami dapat mengelola dan mengoperasikan web / sistem meskipun dengan 
-										dokumentasi yang minim selama outsourcer sebelumnya menggunakan teknologi yang pada umumnya telah dipakai.
+										Tergantung situasi. Kami pernah bekerja sama dengan perusahaan konsultasi, 
+										vendor perangkat lunak, agen IT in-house dan biro iklan. Kami terbukapada peluang 
+										dan tantangan baru.
 									</div>
 								</div>
 							</div>
@@ -970,15 +970,15 @@ if(isset($_POST['submitted']))
 								<div class="panel-heading">
 									<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse4">
 										<i class="fa fa-question-circle">&nbsp;</i><a>
-											Kami mencari developer untuk membangun sebuah sistem manajemen untuk bisnis kami.
+											Apakah proses proyek dapat dijalankan dalam Bahasa Inggris?
 										</a>
 									</dt>
 								</div>
 								<div id="collapse4" class="panel-collapse collapse">
 									<div class="panel-body">
-										Dengan pengalaman kami sebagai pengembang sistem, kami dapat mengembangkan berbagai macam sistem, seperti sistem manajemen pelanggan, 
-										sistem manajemen peminjaman, sistem rekrutmen, sistem penunjuk, e-commerce, sistem manajemen konten, dan lain-lain. Kami juga ahli dalam pengembangan 
-										sistem dengan teknologi website yang umumnya digunakan. Silahkan hubungi kami untuk berdiskusi dan menanyakan hal ini lebih lanjut.
+										Bisa. Sebagian besar dari staf kami dapat berkomunikasi dalam Bahasa Inggris. 
+										Kami pernah bekerja dengan klien Jepang, Singapura, Malaysia, Filipina, Australia, 
+										Inggris, Amerika, Swedia, dan Italia.
 									</div>
 								</div>
 							</div>
@@ -987,13 +987,14 @@ if(isset($_POST['submitted']))
 								<div class="panel-heading">
 									<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse5">
 										<i class="fa fa-question-circle">&nbsp;</i><a>
-											Kami ingin bermitra atau menjadi distributor LOGIQUE.
+											Apakah meeting dapat dilakukan di luar negeri?
 										</a>
 									</dt>
 								</div>
 								<div id="collapse5" class="panel-collapse collapse">
 									<div class="panel-body">
-										Mari kita bicarakan hal ini secara rinci. Silahkan kunjungi kantor kami jika Anda mempunyai rencana ke Jakarta.
+										Mari kita bahas masalah ini dengan Anda terlebih dahulu. Biasanya kami menawarkan video conference call, 
+										tetapi kami bisa memenuhi hal tersebut tergantung pada kasusnya.
 									</div>
 								</div>
 							</div>
@@ -1002,13 +1003,16 @@ if(isset($_POST['submitted']))
 								<div class="panel-heading">
 									<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse6">
 										<i class="fa fa-question-circle">&nbsp;</i><a>
-											Kami ingin membuat aplikasi Android atau iOS (iPhone).
+											Kami sedang berpikir untuk mengganti agen outsourcing web / sistem kami saat ini dengan LOGIQUE.
 										</a>
 									</dt>
 								</div>
 								<div id="collapse6" class="panel-collapse collapse">
 									<div class="panel-body">
-										Kami mampu mengembangkan aplikasi Android dan iOS untuk Anda. Jika Anda inginkan, kami dapat merencanakan pembuatan aplikasi tersebut untuk Anda.
+									Silakan hubungi kami tanpa ragu-ragu. Kami mampu mengembangkan berbagai produk digital melalui pengalaman bertahun-tahun di bidang pengembangan sistem manajemen pelanggan. 
+									Kami juga mampu mengembangkan sistem untuk meningkatkan rekrutmen, 
+									e-commerce, manajemen poin, dan akuntansi dan keuangan, di antara banyak hal lainnya. Kami ahli dalam pengembangan sistem, memanfaatkan teknologi open web secara maksimal. 
+									Silakan hubungi kami untuk keterangan lebih lanjut.
 									</div>
 								</div>
 							</div>
@@ -1017,16 +1021,14 @@ if(isset($_POST['submitted']))
 								<div class="panel-heading">
 									<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse7">
 										<i class="fa fa-question-circle">&nbsp;</i><a>
-											Kami ingin mencetak alat pemasaran tapi apakah Anda juga menyediakan layanan pencetakan selain desain?
+										Kami ingin mengebangkan sistem managemen untuk bisnis kami.
 										</a>
 									</dt>
 								</div>
 								<div id="collapse7" class="panel-collapse collapse">
 									<div class="panel-body">
-										Tentu saja kami dapat membantu mendesain dan mencetak pamflet sekaligus untuk Anda. 
-										Selain itu, kami juga bisa mendesain dan mencetak produk lainnya seperti kaos. Namun, 
-										jika Anda ingin mencetak sesuatu yang sangat sulit, lebih baik Anda mencari perusahaan percetakan khusus. 
-										Kami juga dapat memperkenalkan kepada Anda perusahaan yang kami tahu jika Anda menginginkannya.
+										Kami mampu mengembangkan berbagai jenis sistem karena kami memiliki pengalaman di bidang pengembangan sistem manajemen pelanggan, 
+										pengembangan sistem untuk rekrutmen, e-commerce, e-learning, dll. Kami dapat menjadi mitra terbaik untuk membangun sistem manajemen Anda.
 									</div>
 								</div>
 							</div>
@@ -1035,19 +1037,64 @@ if(isset($_POST['submitted']))
 								<div class="panel-heading">
 									<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse8">
 										<i class="fa fa-question-circle">&nbsp;</i><a>
-											Apakah Anda mampu mengimplementasikan SEO dalam bahasa Indonesia?
+											Kami ingin membuat kontrak kemitraan / distributor dengan LOGIQUE.
 										</a>
 									</dt>
 								</div>
 								<div id="collapse8" class="panel-collapse collapse">
 									<div class="panel-body">
-										Ya, kami mempunyai keahlian SEO yang kami tunjukkan di berbagai situs yang telah berada di deretan paling atas pada berbagai industri,
-										seperti keuangan, perjalanan, pendidikan, dan lain-lain. Tim kami terdiri dari penulis konten dan pemasaran yang berasal dari Indonesia
-										yang akan memberikan hasil terbaik untuk pelayanan SEO bagi Anda. Selain itu, kami juga dapat menerapkan SEO dalam bahasa Inggris dan Jepang dengan baik.
+										Mari bicarakan hal ini secara lebih rinci. Silakan kunjungi kantor kami jika Anda berencana ke Jakarta atau mintalah kami untuk datang ke kantor Anda kapan saja.
 									</div>
 								</div>
 							</div>
-							
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse9">
+										<i class="fa fa-question-circle">&nbsp;</i><a>
+											Kami ingin membangun aplikasi mobile.
+										</a>
+									</dt>
+								</div>
+								<div id="collapse9" class="panel-collapse collapse">
+									<div class="panel-body">
+										Kami mampu mengembangkan aplikasi Android dan iOS, Hybrid App, dan PWA. Beri tahulah kami tentang kebutuhan aplikasi mobile Anda. 
+									</div>
+								</div>
+							</div>
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse10">
+										<i class="fa fa-question-circle">&nbsp;</i><a>
+											Kami ingin mencetak alat pemasaran, apakah Anda dapat menawarkan pencetakan sekaligus dengan jasa desain?
+										</a>
+									</dt>
+								</div>
+								<div id="collapse10" class="panel-collapse collapse">
+									<div class="panel-body">
+										Kami dapat menyediakan layanan desain dan pencetakan. Kami juga dapat mendesain dan mencetak produk lain seperti T-shirt atau spanduk.
+									</div>
+								</div>
+							</div>
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse11">
+										<i class="fa fa-question-circle">&nbsp;</i><a>
+											Apakah Anda mampu menerapkan SEO dalam Bahasa Inggris?
+										</a>
+									</dt>
+								</div>
+								<div id="collapse11" class="panel-collapse collapse">
+									<div class="panel-body">
+										Ya, dan kami memiliki pengalaman yang terbukti unggul di bidang tersebut; membantu banyak perusahaan keuangan, travel, 
+										dan pendidikan untuk mempromosikan situs web mereka sehingga bisa ditemukan di posisi teratas di hasil pencarian. Tim kami, 
+										yang terdiri dari banyak penulis dan pemasar konten Indonesia, akan membantu memberikan Anda hasil SEO terbaik. Kami juga dapat menerapkan SEO dalam Indonesia dan Jepang.
+									</div>
+								</div>
+							</div>
+
 						</div>
 						
 						<div class="map-container">
