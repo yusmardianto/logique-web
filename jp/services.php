@@ -153,9 +153,11 @@
                     <div class="text-center">
                         <h1 class="title-index">LOGIQUEのサービス</h1>
                         <hr class="title__yellow-line--center">
-                        <p class="title__description" style="margin-bottom:20px">
-                            LOGIQUEはインドネシア国内でウェブサイト(ホームページ)やウェブシステム、モバイルアプリケーションの開発、デジタルマーケティングの実行など、お客様がIT・インターネットを活用するためのご支援をしています。WebやWebシステムの制作・開発、運用からWebマーケティングやSEO対策などまで、Web、インターネットに関するサービスを幅広く提供しております。
-                            プログラマー、デザイナー、コンテンツライターを自社内に抱えており、フレキシブルで安価な価格でのサービス提供が可能です。インドネシアにて長い経験と多くの実績を持っておりますので安心してご依頼ください。
+                        <p class="title__description" style="">
+                            世の中の変化のスピードは非常に速く、そのスピードは益々上がってきているように思います。スピードは現代においてはビジネスの成否を分ける最も重要なキーポイントと言っても良いと考えています。
+                        </p>
+                        <p style="margin-bottom:20px">
+                            お客様のビジネスを成功に導くため、制作開発もスピーディーにまた柔軟に対応できる体制でありたいと考えていることから、当社ではアジャイル型の開発体制を敷いています。変化を受け入れ、目に見えるものを早く作ります。クライアントと当社プロジェクトメンバーは１つのTeamです。細かくリリースし改善していくことが肝要だと考えます。
                         </p>
                         <div class="our-service__btn-wrapper">
                             <a href="portfolio.php">
@@ -195,12 +197,6 @@
                                         <a href="#webCreate_recruit">
                                             <li>採用サイト制作</li>
                                         </a>
-                                        <a href="#webCreate_responsive">
-                                            <li>モバイルWeb制作・レスポンシブWeb制作</li>
-                                        </a>
-                                        <a href="#webCreate_landing">
-                                            <li>LP / キャンペーンWEB制作</li>
-                                        </a>
                                         <a href="#webCreate_blog">
                                             <li>ワードプレス</li>
                                         </a>
@@ -217,16 +213,16 @@
                                     </a>
                                     <ul class="service-list__list">
                                         <a href="#dm_seo">
-                                            <li>SEO対策</li>
+                                            <li>SEO対策 / SEM</li>
                                         </a>
-                                        <a href="#dm_itConsult">
-                                            <li>インターネットビジネスコンサルティング</li>
+                                        <a href="#dm_digiMarket">
+                                            <li>インターネット広告 / デジタルマーケティング支援</li>
                                         </a>
                                         <a href="#dm_contentCreate">
                                             <li>コンテンツ制作</li>
                                         </a>
-                                        <a href="#dm_digiMarket">
-                                            <li>インターネット広告 / デジタルマーケティング支援</li>
+                                        <a href="#dm_itConsult">
+                                            <li>ランディングページ最適化</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -242,6 +238,12 @@
                                         <p class="service-list__title">IT・Webシステム開発・運用</p>
                                     </a>
                                     <ul class="service-list__list">
+                                        <a href="#sysDev_ecommerce">
+                                            <li>E-Commerce（ECサイト)構築運用</li>
+                                        </a>
+                                        <a href="#sysDev_automotive">
+                                            <li>Automotive業界向けシステム開発</li>
+                                        </a>
                                         <a href="#sysDev_cms">
                                             <li>CMS構築・運用</li>
                                         </a>
@@ -261,13 +263,13 @@
                                     </a>
                                     <ul class="service-list__list">
                                         <a href="#mobile_appCreate">
-                                            <li>モバイルWEB制作</li>
+                                            <li>モバイル（レスポンシブ）WEB制作</li>
                                         </a>
                                         <a href="#mobile_appDev">
-                                            <li>モバイルアプリケーション制作</li>
+                                            <li>モバイル（スマホ）アプリ開発</li>
                                         </a>
                                         <a href="#mobile_pwa">
-                                            <li>PWAの開発</li>
+                                            <li>PWA（ウェブアプリ）開発</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -300,7 +302,7 @@
                                             <li>グラフィックデザイン</li>
                                         </a>
                                         <a href="#otherService_server">
-                                            <li>クラウドサーバー管理</li>
+                                            <li>クラウドサーバー運用（AWS / Alibaba Cloud）</li>
                                         </a>
                                         <a href="#otherService_itConsultant">
                                             <li>ITビジネスコンサルティング</li>
@@ -319,7 +321,7 @@
                                             <div class="web-solution__half-bg--round"></div>
                                             <img class="web-solution__img" src="../img/service/button/web.png" alt="">
                                         </div>
-                                        Webの開発
+                                        → Web制作
                                     </div>
                                 </a>
                                 <a href="services/system-dev.php">
@@ -328,7 +330,7 @@
                                             <div class="web-solution__half-bg--round"></div>
                                             <img class="web-solution__img" src="../img/service/button/repair.png" alt="">
                                         </div>
-                                        Webシステムの制作
+                                        → システム開発
                                     </div>
                                 </a>
                                 <a href="services/mobile-app-dev.php">
@@ -337,7 +339,7 @@
                                             <div class="web-solution__half-bg--round"></div>
                                             <img class="web-solution__img" src="../img/service/button/mobi.png" alt="">
                                         </div>
-                                        モバイルアプの開発
+                                        → モバイルアプリ開発
                                     </div>
                                 </a>
                                 <a href="services/mobile-app-dev.php#solusi-section">
@@ -346,7 +348,7 @@
                                             <div class="web-solution__half-bg--round"></div>
                                             <img class="web-solution__img" src="../img/service/button/pwa.png" alt="">
                                         </div>
-                                        PWAの開発
+                                        → PWA（ウェブApp)開発
                                     </div>
                                 </a>
                             </div>
@@ -560,6 +562,9 @@
                                         <h3 class="service-detail__title">コーポレート・ブランドWeb制作</h4>
                                             <p>会社の信頼感・ブランド価値を伝えるコーポレートWeb、ブランドWebを制作します。多言語での制作やコンテンツ制作や写真・動画撮影も含めたホームページ制作などご要望に柔軟に応じます。ドメインやWebサーバーの手配、SSL購入もご支援いたします。企画から運用まで纏めてお任せください。スムーズに進められれば1ヶ月程度で公開可能です。コンバージョンのでる、価値の高いWebを作ります。
                                             </p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a target="_blank" class="main-btn --yellow" href="/jp/portfolio.php#webDev">Web制作サービスについて詳しくみる</a>
+                                    </div>
                                     </div>
                                 </div>
                             </section>
@@ -597,20 +602,8 @@
                                             <p>ジャカルタにて、ミスマッチングとならない良い人材の採用の難易度は非常に高くなっています。自社で採用サイトをもち、これを受け皿としてデジタルを活用した採用活動をすることが一つの解決策となります。会社について、人について、求めている人材について、インタビュー動画なども交えて伝えることで効果的な採用が可能となります。求人ページ・サイトと採用管理システムを連動させる案件の実績も豊富にもっています。.
                                             </p>
                                             <div class="service-detail__btn-wrapper">
-                                                <a class="main-btn --yellow" href="services/recruitment-web-dev.php">もっと見る</a>
+                                                <a class="main-btn --yellow" href="services/recruitment-web-dev.php">採用サイト制作サービスを詳しくみる</a>
                                             </div>
-                                    </div>
-                                </div>
-                            </section>
-                            <section id="webCreate_responsive">
-                                <div class="service-detail">
-                                    <div class="service-detail__line-wrapper">
-                                        <hr class="title__yellow-line">
-                                    </div>
-                                    <div class="service-detail__content">
-                                        <h3 class="service-detail__title">モバイルWeb制作・レスポンシブWeb制作</h4>
-                                            <p>スマートフォンやタブレットなどマルチデバイス対応WEBとして既にスタンダードになった技術ですが、LOGIQUEでは原則レスポンシブWebとして制作しています。Bootstrapだけでなく他のフレームワークで作られたレスポンシブWebもメンテナンス可能です。モバイル端末からの閲覧が多いインドネシアならではの制作をご提案します。
-                                            </p>
                                     </div>
                                 </div>
                             </section>
@@ -625,27 +618,18 @@
                             </div>
                         </div>
                     </div>
-                    <section id="webCreate_landing">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">LP / キャンペーンWEB制作</h4>
-                                    <p>プロモーションのランディングページやキャンペーンページの制作もお気軽にご相談ください。1ページの制作でもお請けしております。広告バナーの制作なども可能です。複数制作してA/Bテストするなどコンバージョンに繋がるページの制作をいたします。AMPの実装、HTML5バナーの制作などもお気軽にご相談ください。問い合わせ数が増えるように、問い合わせページだけをリニューアルしたい、というご要望にもお応えしています。
-                                    </p>
-                            </div>
-                        </div>
-                    </section>
                     <section id="webCreate_blog">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">ワードプレス</h4>
-                                    <p>Wordpressのインストール・カスタマイズ、デザインの制作とインプリを行います。
-                                        最初は自社内でできていたものが担当者不在で運用ができなくなってしまった、バージョンUPやセキュリティ対策ができていない、等のケースが散見されます。運用更新の委託、カスタマイズやセキュリティ向上のためのセットアップなどご相談ください。セキュリティに問題のあるブログが多くあります。問題起こる前に早めにご相談ください。
+                                <h3 class="service-detail__title">Wordpressサイト制作</h4>
+                                    <p>
+                                        Wordpressのインストール・カスタマイズ、デザインの制作とインプリを行います。 
+                                        最初は自社内でできていたものが担当者不在で運用ができなくなってしまった、バージョンUPやセキュリティ対策ができていない、
+                                        等のケースが散見されます。運用更新の委託、カスタマイズやセキュリティ向上のためのセットアップなどご相談ください。
+                                        セキュリティに問題のあるWordpress Web・ブログが多くあります。問題起こる前に早めにご相談ください。
                                     </p>
                             </div>
                         </div>
@@ -677,33 +661,12 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">SEO対策</h4>
-                                    <p>SEOコンサルティングだけで終わらずWEBページへの施策の実装まで責任をもって行うことで、結果にコミットします。
-                                        日本語、インドネシア語、英語でのSEO対策実績豊富にあります。インドネシア語で金融系ビッグキーワードや車系ビッグキーワードで1位を長く維持した実績あります。</p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_itConsult">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">インターネットビジネスコンサルティング</h4>
-                                    <p>インターネットを活用した新規事業の立ち上げ支援、ビジネス企画、既存ビジネスをネットの力を使って拡大するための戦略策定など、お客様のアドバイザーとなり一緒にビジネスを作っていきます。
+                                <h3 class="service-detail__title">SEO対策 / SEM</h4>
+                                    <p>
+                                        SEOコンサルティングだけで終わらずWebページへの施策の実装まで責任をもって行うことで、結果にコミットします。 
+                                        日本語、インドネシア語、英語でのSEO対策実績豊富にあります。
+                                        インドネシア語で金融系ビッグキーワードや車系ビッグキーワードで1位を長く維持した実績あります。 SEMもお任せください。
                                     </p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_contentCreate">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">コンテンツ制作</h4>
-                                    <p>WEBに必要な写真・動画・テキストコンテンツの制作を行います。 翻訳もお請けすることが可能です。 外部パートナーと協業した写真撮影やドローン撮影も可能です。
-                                        コンテンツ制作は企画からSEOを考慮したライティングまで日本人、インドネシア人の制作チームが行います。</p>
                             </div>
                         </div>
                     </section>
@@ -723,6 +686,36 @@
                             </div>
                         </div>
                     </section>
+                    <section id="dm_contentCreate">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">コンテンツ制作</h4>
+                                    <p>WEBに必要な写真・動画・テキストコンテンツの制作を行います。 翻訳もお請けすることが可能です。 外部パートナーと協業した写真撮影やドローン撮影も可能です。
+                                        コンテンツ制作は企画からSEOを考慮したライティングまで日本人、インドネシア人の制作チームが行います。</p>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_itConsult">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">ランディングページ最適化</h4>
+                                    <p>
+                                        プロモーションのランディングページやキャンペーンページの制作もお気軽にご相談ください。
+                                        1ページの制作でもお請けしております。広告バナーの制作なども可能です。
+                                        複数制作してA/Bテストするなどコンバージョンに繋がるページの制作をいたします。
+                                        AMPの実装、HTML5バナーの制作などもお気軽にご相談ください。問い合わせ数が増えるように、
+                                        問い合わせページだけをリニューアルしたい、というご要望にもお応えしています。
+                                    </p>
+                            </div>
+                        </div>
+                    </section>
+                    
                     <div class="text-center --back-top">
                         <a href="portfolio.php#others">
                             <div class="main-btn --black">Portfolio</div>
@@ -744,6 +737,39 @@
                     </div>
                 </div>
                 <div class="container__">
+                    <section id="sysDev_ecommerce">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">E-Commerce（EC）構築・運用</h3>
+                                <p>
+                                    インドネシアで数多くECサイトを構築運用するご支援をして参りました。
+                                    単純なECだけでなく、MLM型ECや、フラッシュセール型、マーケットプレイスの構築など、
+                                    複雑なご用件のECサイトの構築も成功させてきました。
+                                    PWAとして構築するなど現在よくあるニーズにもしっかりお応えしています。
+                                    構築後の運用サポートも差し上げていますのでECビジネス関連でお困りのことがあればご相談ください。
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="sysDev_automotive">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Automotive業界向けシステム開発</h3>
+                                <p>
+                                    インドネシアの自動車産業向けのシステム開発を数多く経験しています。
+                                    自動車メーカー、販売会社、買取サービス、オークション会社など様々なプレイヤー向けに多くのシステムを開発運用して参りました。
+                                    業界知識もあり、システム企画の段階からご支援可能です。自動車検査・鑑定アプリ、インターネットオークションシステム、
+                                    中古車マーケットプレイスの開発などの経験をご紹介可能です。
+                                </p>
+                            </div>
+                        </div>
+                    </section>
                     <section id="sysDev_cms">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
@@ -796,8 +822,10 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">モバイルWEB制作</h4>
-                                    <p>インドネシアはモバイルからの閲覧比率が高くモバイル利用ユーザーに適切な対応をすることが重要です。
-                                        スマートフォン、タブレットで閲覧されたときにも最適化されたUIで表示するレスポンシブWEBを制作します。AMP制作やモバイルSEOの実績も豊富です。</p>
+                                    <p>
+                                        インドネシアはモバイルからの閲覧比率が高くモバイル利用ユーザーに適切な対応をすることが重要です。
+                                        スマートフォン、タブレットで閲覧されたときにも最適化されたUIで表示するレスポンシブWEBを制作します。AMP制作やモバイルSEOの実績も豊富です。
+                                    </p>
                             </div>
                         </div>
                     </section>
@@ -857,10 +885,12 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Webセキュリティ診断（脆弱性診断・検査）</h3>
-                                <p>Webサイトやアプリケーションの脆弱性を診断・レポートします。SQLインジェクション、クロスサイトスクリプティング、セッションハイジャックなどの攻撃による被害の発生を未然に防ぐことができます。診断ツール、経験豊富な担当者による診断の両方を併用して診断します。診断項目などによりますが15,000,000
-                                    IDRから診断可能です。</p>
+                                <p>
+                                    Webサイトやアプリケーションの脆弱性を診断・レポートします。SQLインジェクション、クロスサイトスクリプティング、セッションハイジャックなどの攻撃による被害の発生を未然に防ぐことができます。診断ツール、経験豊富な担当者による診断の両方を併用して診断します。診断項目などによりますが15,000,000
+                                    IDRから診断可能です。
+                                </p>
                                 <div class="service-detail__btn-wrapper">
-                                    <a class="main-btn --yellow" href="/jp/services/penetration-test.php">もっと見る</a>
+                                    <a class="main-btn --yellow" href="/jp/services/penetration-test.php">Webセキュリティ診断サービスについて詳しくみる</a>
                                 </div>
                             </div>
                         </div>
@@ -890,8 +920,11 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">グラフィックデザイン</h4>
-                                    <p>商談時に使用する紙ものから、バッグやTシャツなど各種販促物までデザイン制作します。 またパートナー印刷事業者をコントロールして印刷物の納品まで行うことも可能です。
-                                        会社案内、各種チラシ、展示会配布物、その他販促物など、まずはご相談ください。</p>
+                                    <p>
+                                        商談時に使用する紙ものから、バッグやTシャツなど各種販促物までデザイン制作します。 
+                                        またパートナー印刷事業者をコントロールして印刷物の納品まで行うことも可能です。 
+                                        会社案内、各種チラシ、展示会配布物、その他販促物など、まずはご相談ください。
+                                    </p>
                                     <div class="service-detail__btn-wrapper">
                                         <a class="main-btn --yellow" href="portfolio.php#others">もっと見る</a>
                                     </div>
@@ -906,8 +939,9 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">クラウドサーバー管理</h4>
                                     <p>
-                                        AWSの構築運用は数多く経験しており、得意としています。AWSのパートナー湿布プログラムAPNにも属しています。
-                                        GCPやAlibabaクラウドの構築運用経験もあります。インドネシアのドメインの取得管理、DNSの設定、SSLの購入設定、AWSの請求代行なども可能です。
+                                        AWSの構築運用は数多く経験しており、得意としています。AWSのパートナーシッププログラムAPNにも属しています。 
+                                        GCPやAlibabaクラウドの構築運用経験もあります。インドネシアのドメインの取得管理、DNSの設定、SSLの購入設定、
+                                        AWSの請求代行なども可能です。
                                     </p>
                             </div>
                         </div>
@@ -919,8 +953,13 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">ITビジネスコンサルティング</h4>
-                                    <p>ITの導入による業務改善コンサルティング、ITツール選定アドバイザリー、ITセキュリティ診断、インターネットビジネスの新規事業立ち上げ支援など ”インドネシア × IT”
-                                        領域で様々なコンサルティングやアドバイザリーサービスを行っています。</p>
+                                    <p>
+                                        ITの導入による業務改善コンサルティング、ITツール選定アドバイザリー、ITセキュリティ診断、インターネットビジネスの新規事業立ち上げ支援など ”インドネシア × IT” 領域で様々なコンサルティングやアドバイザリーサービスを行っています。
+                                    </p>
+                                    <br>
+                                    <p>
+                                        インターネットを活用した新規事業の立ち上げ支援、ビジネス企画、既存ビジネスをネットの力を使って拡大するための戦略策定など、お客様のアドバイザーとなり一緒にビジネスを作っていきます。
+                                    </p>
                             </div>
                         </div>
                     </section>
