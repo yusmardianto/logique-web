@@ -153,7 +153,15 @@
                     <div class="text-center">
                         <h1 class="title-index">Our Services</h1>
                         <hr class="title__yellow-line--center">
-                        <p class="title__description" style="margin-bottom:20px">In this modern day and age, where everything relies heavily on the internet and technology, LOGIQUE Digital Indonesia is striving to assist our clients in areas regarding digital and IT matters. We conform our services to a high quality and international standard, to meet our clients’ expectations and fulfill their business needs. We provide various IT / digital-related services, such as Website and Web App development, System / Mobile development and Digital Marketing Solutions.</p>
+                        <p class="title__description" style="margin-bottom:20px">
+                            Speed is a key factor in determining the success or failure of a business nowadays. 
+                            The changing pace at which IT & Web trends are evolving has been at an accelerated rate. 
+                            Therefore, in order to keep up, agility and flexibility are two vital assets which must be utilized and, indeed maximized. 
+                        </p>
+                        <p class="title__description" style="margin-bottom:20px">
+                            That’s why, in order to successfully promote your business, we provide flexible and speedy web & app development services: 
+                            producing results of the highest quality while flexibly adapting to your specific requirements.
+                        </p>
                         <div class="our-service__btn-wrapper">
                             <a href="portfolio.php">
                                 <div class="main-btn --black">See Portfolio</div>
@@ -181,23 +189,16 @@
                                     </a>
                                     <ul class="service-list__list">
                                         <a href="#webCreate_revamp">
-                                            <li>Corporate Website Creation / Revamping</li>
+                                            <li>Website Creation / Revamping</li>
                                         </a>
                                         <a href="#webCreate_multi">
                                             <li>Multilingual Website Creation</li>
                                         </a>
                                         <a href="#webCreate_webService">
-                                            <li>Service Website Development</li>
+                                            <li>Web Media Development / Operation</li>
                                         </a>
                                         <a href="#webCreate_recruit">
                                             <li>Recruitment Website Creation</li>
-                                        </a>
-                                        <a href="#webCreate_responsive">
-                                            <li>Mobile / Responsive Website
-                                                Creation</li>
-                                        </a>
-                                        <a href="#webCreate_landing">
-                                            <li>Landing Page / Campaign Page</li>
                                         </a>
                                         <a href="#webCreate_blog">
                                             <li>Wordpress</li>
@@ -215,57 +216,16 @@
                                     </a>
                                     <ul class="service-list__list">
                                         <a href="#dm_seo">
-                                            <li>SEO</li>
-                                        </a>
-                                        <a href="#dm_itConsult">
-                                            <li>Internet Business Consulting</li>
-                                        </a>
-                                        <a href="#dm_contentCreate">
-                                            <li>Web Content Creation</li>
+                                            <li>SEO / SEM</li>
                                         </a>
                                         <a href="#dm_digiMarket">
-                                            <li>Online / Digital Marketing Operation</li>
+                                            <li>Digital Ad Operation</li>
                                         </a>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
-                            <div class="service-list__item">
-                                <div>
-                                    <img src="../img/service/list/sisweb.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#sysDev_">
-                                        <p class="service-list__title">Web System Development</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#sysDev_cms">
-                                            <li>Custom CMS development / Maintenance</li>
+                                        <a href="#dm_contentCreate">
+                                            <li>Web Content Creation/Operation</li>
                                         </a>
-                                        <a href="#sysDev_member">
-                                            <li>Member Management / Contract Management System</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="service-list__item">
-                                <div>
-                                    <img src="../img/service/list/mobi.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#mobile_">
-                                        <p class="service-list__title">Mobile Solution</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#mobile_appCreate">
-                                            <li>Mobile Website Creation</li>
-                                        </a>
-                                        <a href="#mobile_appDev">
-                                            <li>Mobile Application Development</li>
-                                        </a>
-                                        <a href="#mobile_pwa">
-                                            <li>PWA (Progressive Web App) Development</li>
+                                        <a href="#dm_lpOptimize">
+                                            <li>Landing Page Optimization</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -280,7 +240,54 @@
                                     </a>
                                     <ul class="service-list__list">
                                         <a href="#webSecurity_va">
-                                            <li>WEB Security Assesment (Vulnerability Scanning / Test)</li>
+                                            <li>Security Assesment (Vulnerability Scanning / Pen-Test)</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/sisweb.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#sysDev_">
+                                        <p class="service-list__title">Web System Development / Maintenance</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#sysDev_ecommerce">
+                                            <li>E-Commerce Development</li>
+                                        </a>
+                                        <a href="#sysDev_automotive">
+                                            <li>System Development for Automotive Industry</li>
+                                        </a>
+                                        <a href="#sysDev_cms">
+                                            <li>Custom CMS Development</li>
+                                        </a>
+                                        <a href="#sysDev_crm">
+                                            <li>CRM / Accounting System Development</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/mobi.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#mobile_">
+                                        <p class="service-list__title">Mobile Solution</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#mobile_appCreate">
+                                            <li>Mobile / Responsive Web Creation</li>
+                                        </a>
+                                        <a href="#mobile_appDev">
+                                            <li>Mobile Application Development</li>
+                                        </a>
+                                        <a href="#mobile_pwa">
+                                            <li>PWA (Progressive Web App) Development</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -298,7 +305,7 @@
                                             <li>Graphic Design</li>
                                         </a>
                                         <a href="#otherService_server">
-                                            <li>Web Server & Domain Agent Service</li>
+                                            <li>Cloud Server Operation (AWS / Alibaba Cloud)</li>
                                         </a>
                                         <a href="#otherService_itConsultant">
                                             <li>IT Business Consulting</li>
@@ -315,28 +322,28 @@
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/web.png" alt="">
-                                        Create Website
+                                        Develop Website
                                     </div>
                                 </a>
                                 <a href="services/system-dev.php">
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/repair.png" alt="">
-                                        Create Web System
+                                        Develop System
                                     </div>
                                 </a>
                                 <a href="services/mobile-app-dev.php">
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/mobi.png" alt="">
-                                        Create Mobile App
+                                        Develop Mobile App
                                     </div>
                                 </a>
                                 <a href="services/mobile-app-dev.php#solusi-section">
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/pwa.png" alt="">
-                                        Create PWA
+                                        Develop PWA (Web App)
                                     </div>
                                 </a>
                             </div>
@@ -574,7 +581,7 @@
                                         <hr class="title__yellow-line">
                                     </div>
                                     <div class="service-detail__content">
-                                        <h3 class="service-detail__title">Corporate Website Creation / Revamping</h4>
+                                        <h3 class="service-detail__title">Website Creation / Revamping</h4>
                                             <p>We can help you to create an effective and professional website to properly convey
                                                 your
                                                 company’s values. We also are able to provide domain purchase services, web
@@ -586,6 +593,9 @@
                                                 striving to provide creative as well as functional solutions according to cutting
                                                 edge
                                                 technological trends present in the digital era.</p>
+                                        <div class="service-detail__btn-wrapper">
+                                            <a class="main-btn --yellow" href="/en/portfolio.php">See More <span class="hidden-xs"> about our Website Creation Services</span></a>
+                                        </div>
                                     </div>
                                 </div>
                             </section>
@@ -596,14 +606,11 @@
                                     </div>
                                     <div class="service-detail__content">
                                         <h3 class="service-detail__title">Multilingual Website Creation</h4>
-                                            <p>High-quality multilingual websites can help provide you with prospective
-                                                international
-                                                customers. LOGIQUE
-                                                delivers a cost effective multilingual website that enables you to connect with
-                                                potential customers within
-                                                both local and global markets. We have a wide range of experience in regards to
-                                                developing sites in a
-                                                trilingual format; specifically in the English, Indonesian and Japanese languages.
+                                            <p>
+                                                High-quality multilingual websites can serve to provide you with prospective international customers. 
+                                                LOGIQUE aims to create cost effective multilingual websites, enabling you to connect with potential 
+                                                client within both local and global markets. We have a wide range of experience in regards to developing 
+                                                sites in a trilingual format; in English, Indonesian and Japanese.
                                             </p>
                                     </div>
                                 </div>
@@ -614,16 +621,13 @@
                                         <hr class="title__yellow-line">
                                     </div>
                                     <div class="service-detail__content">
-                                        <h3 class="service-detail__title">Service Website Development</h4>
-                                            <p>We can assist you through the various stages of developing your Website; from
-                                                drafting
-                                                a plan, to creating a
-                                                design template, up to the phase of maintaining your website system in whatever
-                                                its
-                                                current format, be it in
-                                                regards to E-commerce, a car auctioning system, human resource matching, point
-                                                management system, closed
-                                                community or a member management CRM website. </p>
+                                        <h3 class="service-detail__title">Web Media Development</h4>
+                                            <p>
+                                                We can assist you through the various stages of developing your own Web Service, or Web-based Media; 
+                                                from drafting a plan, designing a template, to the maintenance of your website in any format / programming language, 
+                                                be it E-commerce, car auctioning system, human resource matching, point management system, closed community or a member 
+                                                management CRM website.
+                                            </p>
                                     </div>
                                 </div>
                             </section>
@@ -634,18 +638,14 @@
                                     </div>
                                     <div class="service-detail__content">
                                         <h3 class="service-detail__title">Recruitment Website Creation</h4>
-                                            <p>We realize that many companies experience difficulties in the recruitment of
-                                                potential
-                                                employees who can
-                                                meet the standards of your company. LOGIQUE provides a solution for making career
-                                                websites orientated around
-                                                successful recruitment strategies. Through such career websites, the company can
-                                                provide a varied range of
-                                                necessary information pertaining to the latest available job vacancies, work
-                                                atmosphere, and the benefits
-                                                offered to prospective candidates.</p>
+                                            <p>
+                                                We realize that many companies experience difficulties recruiting potential employees who can meet company standards. 
+                                                LOGIQUE provides a solution which orients career websites around successful recruitment strategies, so that your company 
+                                                will be suited  to provide the necessary information pertaining to the latest available job vacancies, work atmosphere, 
+                                                and the benefits offered to prospective candidates.
+                                            </p>
                                             <div class="service-detail__btn-wrapper">
-                                                <a class="main-btn --yellow" href="services/recruitment-web-dev.php">See More</a>
+                                                <a class="main-btn --yellow" href="services/recruitment-web-dev.php">See More <span class="hidden-xs">of Recruitment Website Creation Service</span></a>
                                             </div>
                                     </div>
                                 </div>
@@ -661,42 +661,6 @@
                             </div>
                         </div>
                     </div>
-                    <section id="webCreate_responsive">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Mobile / Responsive Website Creation</h4>
-                                    <p>Having a functional and responsive website is nowadays mandatory, as web visits mostly
-                                        stem from various
-                                        types of mobile devices. Responsive design technology will be able to assist you in
-                                        making the website
-                                        display automatically adjust to the screen used from either a desktop, tablet or
-                                        smartphone. Additionally,
-                                        LOGIQUE can help you optimize your web design formatting; making it more conducive to
-                                        responsive design
-                                        technology.</p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="webCreate_landing">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Landing Page / Campaign Page</h4>
-                                    <p>LOGIQUE can create the best SEO optimized Landing Page for you; thereby getting you as
-                                        many visitors and
-                                        conversions as possible. We can work flexibly according to your specific requirements
-                                        and needs, which may
-                                        include installing AMP, conducting an A/B test, or creating HTML5 banners. We are
-                                        always ready to help in
-                                        any case, even if that means designing a single page.</p>
-                            </div>
-                        </div>
-                    </section>
                     <section id="webCreate_blog">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
@@ -704,13 +668,12 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Wordpress</h4>
-                                    <p>We also provide WordPress installation and customization services. We can design,
-                                        implement and improve the
-                                        security of your blog according to your specific requirements. Currently, there are
-                                        many blogs which suffer
-                                        from security vulnerability issues. Therefore, please contact us immediately so that
-                                        we can ensure the
-                                        integrity of your blog’s security system. </p>
+                                    <p>
+                                        We also provide WordPress installation and customization services. 
+                                        We can design, implement and improve the security of your blog according to your specific requirements. 
+                                        Currently, there are many blogs / websites which suffer from security vulnerability issues. 
+                                        Therefore, please contact us immediately so that we can ensure the integrity of your blog’s security system.
+                                    </p>
                             </div>
                         </div>
                     </section>
@@ -741,36 +704,43 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">SEO</h4>
-                                    <p>We can carry out an in-depth analysis of the on-page optimization of your website,
-                                        identifying all areas
-                                        needing improvement. Through our services, we are able to go beyond simple methods of
-                                        data tracking and user
-                                        behavior analysis. In fact, our highly trained professionals are specialized in a wide
-                                        range of technical
-                                        disciplines, such as tracking, analyzing and improving keyword rankings, and utilizing
-                                        tools to best suit
-                                        your specific requirements; in resources and budget. We attest to our results not only
-                                        by implementing SEO,
-                                        but also through the general improvement to our client’s websites, as we have thorough
-                                        experience in SEO
-                                        optimizing in the Japanese, Indonesian and English languages. We have succeeded in
-                                        keeping one of our
-                                        clients (An Indonesian finance company) on 1 st place within Google’s search results
-                                        for a considerable
-                                        period of time. Further, a solid SEO strategy combines technical, content and
-                                        authority optimization. At
-                                        LOGIQUE, we have specialists in all three fields, ensuring your page ranks well within
-                                        the search results
-                                        list, thereby driving your traffic up. </p>
+                                <h3 class="service-detail__title">SEO / SEM</h4>
+                                    <p>
+                                        We can carry out an in-depth analysis of your website’s on-page optimization. Through our services, we go beyond the basic methods of data tracking and user behavior analysis; attesting to these results through the overall improvement of our client’s websites. 
+                                        We have extensive SEO experience in the Japanese, Indonesian and English languages, and have succeeded in keeping one of our clients (An Indonesian finance company) on 1st place within Google’s search results. 
+                                        Further, a solid SEO strategy combines technical and content optimization. 
+                                        Additionally, we possess expertise in SEM as well.
+                                    </p>
+                                <div class="service-detail__btn-wrapper">
+                                    <a target="_blank" class="main-btn --yellow"
+                                        href="/en/services/digital-marketing/seo-service.php">Learn more <span class="hidden-xs">about our SEO / SEM services</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_digiMarket">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Digital Ad Operation</h4>
+                                    <p>
+                                        We offer a results driven approach to pay-per-click management, providing transparent and measurable campaigns, 
+                                        allowing you to evaluate your success against your own targets. We are thoroughly experienced across a wide range 
+                                        of vertical markets and offer highly strategic and communicative services. We know that a successful campaign comes 
+                                        down to continual optimization and refinement. Only through a highly targeted and tightly managed structure can you 
+                                        achieve a higher conversion rate for a better price. Feel free to contact us to increase your prospects and conversions 
+                                        through online advertisements, an internet PR strategy, or SNS marketing.
+                                    </p>
                                     <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow"
-                                            href="/en/services/digital-marketing/seo-service.php">See More</a>
+                                        <a target="_blank" class="main-btn --yellow" href="/en/services/digital-marketing.php">Learn more <span class="hidden-xs">about our Digital Marketing services</span></a>
                                     </div>
                             </div>
                         </div>
                     </section>
-                    <section id="dm_itConsult">
+                    <section id="dm_lpOptimize">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
@@ -794,43 +764,32 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Web Content Creation</h4>
-                                    <p>We seek to provide you with high quality content creation services, creating content
-                                        according to your
-                                        business goals so that you can reap the best results and attract a larger audience. We
-                                        can further help you
-                                        translate your content into Indonesian, Japanese or English. We can also create
-                                        content for you by
-                                        implementing SEO so that it can improve your web performance.</p>
+                                    <p>
+                                        We aim to provide you with content creation services of the highest quality, 
+                                        producing content according to your business goals, and allowing you to secure 
+                                        a larger audience in the process. We can further help you translate your content into Indonesian, 
+                                        Japanese or English, whilst implementing SEO in order to improve your website’s overall performance.
+                                    </p>
                             </div>
                         </div>
                     </section>
-                    <section id="dm_digiMarket">
+                    <section id="dm_lpOptimize">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Online / Digital Marketing Operation</h4>
-                                    <p>We offer a results driven approach to pay-per-click management, providing transparent
-                                        and measurable
-                                        campaigns, allowing you to evaluate your success against your own targets. We are
-                                        thoroughly experienced
-                                        across a wide range of industry verticals and offer proactive, strategic and highly
-                                        communicative services.
-                                        We know that a successful campaign comes down to continual optimization and
-                                        refinement. Only through a
-                                        highly targeted and tightly managed structure can you achieve a higher conversion rate
-                                        for a better price.
-                                        Feel free to contact us to increase your prospects and conversions through online
-                                        advertisements, an
-                                        internet PR strategy, or SNS marketing. </p>
-                                    <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow" href="/en/services/digital-marketing.php">See
-                                            More</a>
-                                    </div>
+                                <h3 class="service-detail__title">Landing Page Optimization</h4>
+                                    <p>
+                                        LOGIQUE seeks to create & optimize your Landing Page for SEO, 
+                                        with the end goal of getting your business as many visitors and conversions as possible. 
+                                        We can work flexibly according to your specific requirements and needs, which may include installing AMP, 
+                                        conducting A/B testing, or creating HTML5 banners. We are always ready to help, should you have any other concerns.
+                                    </p>
                             </div>
                         </div>
                     </section>
+                
                     <div class="text-center --back-top">
                         <a href="portfolio.php#others">
                             <div class="main-btn --black">Portfolio</div>
@@ -846,27 +805,63 @@
                 <div class="bg--black">
                     <div class="container__">
                         <div class="text-center">
-                            <h1 class="title-index --yellow">Web System Development</h1>
+                            <h1 class="title-index --yellow">Web System Development / Maintenance</h1>
                             <hr class="title__yellow-line--center">
                         </div>
                     </div>
                 </div>
                 <div class="container__">
+                    <section id="sysDev_ecommerce">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">E-Commerce Development</h3>
+                                <p>
+                                    We help clients build and run scalable well designed E-commerce enterprises, 
+                                    which can be customized and developed based on state of the art UI / UX trends. 
+                                    Having extensive experience in MLM E-commerce development, as well as Flash-scale & Market Place type E-commerce, 
+                                    we can further the development of your E-commerce endeavors through high-tech means, such as PWA. Please consult with 
+                                    us in regards to anything related to your E-Commerce needs. 
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="sysDev_automotive">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">System Development for Automotive Industry</h3>
+                                <p>
+                                    Having developed many systems, delivering them successfully to various entities in the Automotive Industry 
+                                    (such as car manufacturers, vehicle inspectors, car insurance agencies & auction houses), our team is confidant 
+                                    in their abilities in understanding and working alongside automotive businesses, also being able to effectively offer 
+                                    consulting services to them. Some of our many works include working in the Second-hand car market place, and with Online 
+                                    Auction systems and Car Inspection Applications. 
+                                </p>
+                            </div>
+                        </div>
+                    </section>
                     <section id="sysDev_cms">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Custom CMS development / Maintenance</h3>
-                                <p>Our CMS development team has years of experience in developing solutions for a broad range of
+                                <h3 class="service-detail__title">Custom CMS Development / Maintenance</h3>
+                                <p>
+                                    Our CMS development team has years of experience in developing solutions for a broad range of
                                     companies and organizations. Our CMS development services can be tailored specifically to your
                                     needs. All of our custom CMS platforms can enable you to edit and create content on your
                                     website,
                                     as well as add images and media to it. Not only are our CMS platforms quick and easy to use,
                                     they’re also SEO friendly and benefit from integrated analytics, thereby allowing you to
                                     monitor
-                                    and continuously improve your website’s performance.</p>
+                                    and continuously improve your website’s performance.
+                                </p>
                             </div>
                         </div>
                     </section>
@@ -930,7 +925,8 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Mobile Application Development</h4>
-                                    <p>We provide comprehensive Android/iOS application development services adjusted for the
+                                    <p>
+                                        We provide comprehensive Android/iOS application development services adjusted for the
                                         Indonesian market,
                                         and can further facilitate the development of mobile applications as well. Further, we
                                         are not just a
@@ -938,10 +934,10 @@
                                         applications and even help you
                                         register your applications onto the App Store/Google Play. Get in touch with our team
                                         to discuss mobile app
-                                        development (iOS/Android/Hybrid/PWA)</p>
+                                        development (iOS/Android/Hybrid/PWA)
+                                    </p>
                                     <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow" href="/en/services/mobile-app-dev.php">See
-                                            More</a>
+                                        <a target="_blank" class="main-btn --yellow" href="/en/services/mobile-app-dev.php">Learn more <span class="hidden-xs">about our Mobile App Developmnet service</span></a>
                                     </div>
                             </div>
                         </div>
@@ -953,11 +949,13 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">PWA (Progressive Web App) Development</h3>
-                                <p>LOGIQUE provides Progressive Web App (PWA) development services to add value to your website,
+                                <p>
+                                    LOGIQUE provides Progressive Web App (PWA) development services to add value to your website,
                                     so
                                     that it can be accessed just like a mobile application. PWA gives numerous benefits which can
                                     be
-                                    utilized to filfill customer's expectation, increase interaction and conversion.</p>
+                                    utilized to filfill customer's expectation, increase interaction and conversion.
+                                </p>
                             </div>
                         </div>
                     </section>
@@ -988,16 +986,16 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">WEB Security Assesment (Vulnerability Scanning / Test)</h3>
-                                <p>Through conducting penetration tests and by reporting the vulnerability of your
-                                    website/application, you can prevent attacks by SQL injections, cross site scripting, session
-                                    jacking, etc. At the very least, we can help you maximize your web security potential.
-                                    Further,
-                                    our experts conduct security assessment for a reasonable price so that you need not hesitate
-                                    to
-                                    pen-test your online assets.</p>
+                                <h3 class="service-detail__title">Security Assesment (Vulnerability Scanning / Pen-Test)</h3>
+                                <p>
+                                    Through conducting penetration tests and by assessing the vulnerability of your website/application, 
+                                    you can prevent attacks from SQL injections, cross site scripting, session jacking, etc. 
+                                    At the very least, we can help you maximize the security potential of your digital assets. 
+                                    Additionally, our experts can conduct security assessment for a reasonable price so that you need 
+                                    not hesitate to pen-test your online assets.
+                                </p>
                                 <div class="service-detail__btn-wrapper">
-                                    <a class="main-btn --yellow" href="services/penetration-test.php">See More</a>
+                                    <a class="main-btn --yellow" href="services/penetration-test.php">Learn more <span class="">about Pen-Test</span></a>
                                 </div>
                             </div>
                         </div>
@@ -1027,22 +1025,14 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Graphic Design</h4>
-                                    <p>Through creating flyer/brochure designs and marketing collateral, we will be able to
-                                        amplify
-                                        your key message in a memorable and effective way. From a single information leaflet to an
-                                        ongoing direct marketing campaign, our creative team seeks to design and produce powerful
-                                        business tools aimed at strengthening your brand credibility and assist you in building
-                                        targeted and authentic connections through the use of innovative materials and the latest
-                                        print design techniques; maximizing the effectiveness of your collateral and ensuring that
-                                        your flyer design is cost effective. Additionally, our experienced production team can
-                                        manage
-                                        your project from start to finish, ensuring your direct marketing materials are of the
-                                        highest
-                                        quality to capture the attention of your desired audience. We are further able to print,
-                                        not
-                                        only paper based collateral for your business, but also bags, T- shirts and even more.
-                                        Feel
-                                        free to contact us.</p>
+                                    <p>
+                                        Through creating flyer/brochure designs and marketing collateral, we will be able to effectively 
+                                        amplify your key message in a memorable way. From creating single information leaflets to running 
+                                        direct marketing campaigns, our creative team is well versed in producing powerful business tools 
+                                        aimed at strengthening your brand credibility. Through these means, LOGIQUE builds targeted and 
+                                        authentic connections using innovative materials and the latest print design techniques, thereby 
+                                        maximizing the efficacy of your collateral and ensuring the cost effectiveness of your flyer design. 
+                                    </p>
                                     <div class="service-detail__btn-wrapper">
                                         <a class="main-btn --yellow" href="portfolio.php#others">See More</a>
                                     </div>
@@ -1055,10 +1045,13 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Web Server & Domain Agent Service</h4>
-                                    <p>We are able to provide you with an agent service to obtain an Indonesian Corporate Domain
-                                        (“co.id”). We can also set up a DNS and Global SSL for you, further providing a rent web
-                                        server space such as AWS, Ali Cloud and GioCloud.</p>
+                                <h3 class="service-detail__title">Could Server Operation (AWS / Alibaba Cloud)</h4>
+                                    <p>
+                                        We are a certified AWS Partner, being able to set up optimized AWS infrastructure has allowed us to 
+                                        provide you with an agent service so as to obtain an Indonesian Corporate Domain (“co.id”). 
+                                        We can also set up a DNS and Global SSL for you, further providing rent web servers such as AWS, 
+                                        Alibaba Cloud and GIO Cloud. 
+                                    </p>
                             </div>
                         </div>
                     </section>
@@ -1069,9 +1062,11 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">IT Business Consulting</h4>
-                                    <p>We can provide various consulting services through the “Indonesia x IT” field such as
-                                        business consultancy operations by utilizing IT, IT Tool selection advisory, IT security
-                                        assessment, internet business launching support and much more.</p>
+                                    <p>
+                                        We are able to provide various consulting services through the “Indonesia x IT” field, 
+                                        which include IT Tool selection advisory, business consultancy operations through utilizing IT, 
+                                        internet business launching support, IT security assessment and much more.
+                                    </p>
                             </div>
                         </div>
                     </section>
