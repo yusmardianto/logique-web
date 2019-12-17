@@ -102,7 +102,8 @@ header h2 {
     background-position: center;
     background-size: cover;
     color: #111;
-    padding-top: 55px;}
+    padding-top: 55px;
+}
 .new1 {
     height: auto;
     text-align: center;
@@ -729,13 +730,15 @@ section,footer{margin-left:95px}
         width: 26%;
     }
     .new1{
-        height: 64px;
+        /* height: 64px; */
+        height: fit-content;
     }
 }
 
 @media (max-width: 1199px){
     .new1{
-        height: 64px;
+        /* height: 64px; */
+        height: fit-content;
     }
 }
 @media (max-width: 768px){
@@ -745,6 +748,7 @@ section,footer{margin-left:95px}
     .gold-bar{
         width: 34%;
     }
+    .new1:not(.clearfix) {padding-top: 35px;}
 	.new5 .underline{border-bottom:0;}
 	.new5 {width:275px;right:0;}
 	.new6 {margin-bottom: 30px;}

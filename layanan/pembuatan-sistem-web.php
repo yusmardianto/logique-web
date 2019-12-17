@@ -298,7 +298,7 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-3 justify-content-center">
-                     <h3 class="new1">Pengembangan Sistem yang Cepat dan Fleksibel</h3>
+                     <h3 class="new1 clearfix">Pengembangan Sistem yang Cepat dan Fleksibel</h3>
                      <img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
                      <p class="new4">
                          Kecepatan merupakan kunci utama pada era digital ini. Dengan menggunakan metode Agile, kami dapat

@@ -259,7 +259,7 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-3 justify-content-center">
-                     <h3 class="new1">Speedy & Flexible System Development</h3>
+                     <h3 class="new1 clearfix">Speedy & Flexible System Development</h3>
                      <img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
                      <p class="new4">
                          Speed is a key factor in this current digital era. Using Agile,

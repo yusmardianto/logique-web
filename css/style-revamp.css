@@ -97,7 +97,7 @@
 .jp-page .web-solution__btn-wrapper .--ws {
   display: flex;
   align-items: center;
-  min-height: 80px;
+  min-height: 105px;
   width: 235px;
   min-width: auto;
 }
@@ -130,8 +130,8 @@
 }
 
 .web-solution__img {
-  max-width: 30px;
-  max-height: 35px;
+  max-width: 35px;
+  max-height: 40px;
   /* margin: 2px 60px 2px 0px; */
   margin-right: 60px;
 }
