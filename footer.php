@@ -83,7 +83,8 @@ footer {
                         <div itemscope itemtype="https://schema.org/Organization">
                             <div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
                             <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
-                                <span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br>Jalan Tb. Simatupang No. 5 <br />
+                                <span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br>Jalan Tb. Simatupang No. 5
+                                    <br />
                                     Ragunan, Ps. Minggu, Jakarta Selatan, <br>Indonesia </span><span
                                     itemprop="postalCode">12550</span>
                                 <br><br>
@@ -92,7 +93,8 @@ footer {
                                 <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
                                     rel="noreferrer">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile"
                                         style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i
-                                        class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
+                                        class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;<span
+                                        class="waNumber">0811-870-321</span></a>
                                 <br><br>
                             </div>
                         </div>
@@ -103,8 +105,8 @@ footer {
                         <ul class="medsos-new">
                             <li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer"
                                     aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
-                            <li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer" aria-label="Twitter"><i
-                                        class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer"
+                                    aria-label="Twitter"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer"
                                     aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
                             <li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer"
@@ -117,7 +119,8 @@ footer {
                             <li><a href="/logique.php">Tentang Kami</a> </li>
                             <li class="have-submenu"><a href="/layanan.php">Layanan</a>
                                 <ul>
-                                    <li class="have-submenu"><a href="/layanan/web-dev.php" target="_blank">Jasa Pembuatan Website</a>
+                                    <li class="have-submenu"><a href="/layanan/web-dev.php" target="_blank">Jasa Pembuatan
+                                            Website</a>
                                         <ul>
                                             <li><a href="/layanan/pembuatan-web-karir.php" target="_blank"> Pembuatan Website
                                                     Career</a> </li>
@@ -125,16 +128,20 @@ footer {
                                                     Gigi </a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem Web</a>
+                                    <li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem
+                                            Web</a>
                                     </li>
-                                    <li><a href="/layanan/pembuatan-aplikasi-mobile.php" target="_blank">Pengembangan Aplikasi Mobile
+                                    <li><a href="/layanan/pembuatan-aplikasi-mobile.php" target="_blank">Pengembangan Aplikasi
+                                            Mobile
                                         </a></li>
-                                    <li class="text-left"><a href="/layanan/penetration-test.php" target="_blank">Pengetesan Keamanan
+                                    <li class="text-left"><a href="/layanan/penetration-test.php" target="_blank">Pengetesan
+                                            Keamanan
                                             Website (Pentest) </a></li>
                                     <li class="have-submenu"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital
                                             Marketing </a>
                                         <ul>
-                                            <li><a href="/layanan/digital-marketing/jasa-seo.php" target="_blank"> Jasa SEO </a></li>
+                                            <li><a href="/layanan/digital-marketing/jasa-seo.php" target="_blank"> Jasa SEO </a>
+                                            </li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -147,11 +154,13 @@ footer {
                                 <a href="/produk.php">Produk Kami</a>
                                 <ul>
                                     <li><a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">
-                                            Dokodemo-Kerja <br><span style="font-size: 11px;">(Sistem aplikasi bagi pekerja remote)
+                                            Dokodemo-Kerja <br><span style="font-size: 11px;">(Sistem aplikasi bagi pekerja
+                                                remote)
                                             </span> </a>
                                     </li>
                                     <li>
-                                        <a href="/produk/nippo.php" target="_blank"> Nippo <br> <span style="font-size: 11px;">(Sistem
+                                        <a href="/produk/nippo.php" target="_blank"> Nippo <br> <span
+                                                style="font-size: 11px;">(Sistem
                                                 aplikasi laporan pegawai harian)</span> </a>
                                     </li>
                                     <li>
@@ -194,7 +203,8 @@ footer {
                         <div itemscope itemtype="https://schema.org/Organization">
                             <div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
                             <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
-                                <span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br>Jalan Tb. Simatupang No. 5 <br />
+                                <span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br>Jalan Tb. Simatupang No. 5
+                                    <br />
                                     Ragunan, Ps. Minggu, Jakarta Selatan, <br>Indonesia </span><span
                                     itemprop="postalCode">12550</span>
                                 <br><br>
@@ -203,7 +213,8 @@ footer {
                                 <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
                                     rel="noreferrer">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile"
                                         style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i
-                                        class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
+                                        class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;<span
+                                        class="waNumber">0811-870-321</span></a>
                                 <br><br>
                             </div>
                         </div>
@@ -214,8 +225,8 @@ footer {
                         <ul class="medsos-new">
                             <li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer"
                                     aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
-                            <li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer" aria-label="Twitter"><i
-                                        class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer"
+                                    aria-label="Twitter"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer"
                                     aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
                             <li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer"

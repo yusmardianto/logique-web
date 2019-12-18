@@ -1482,6 +1482,10 @@
         })
         .appendTo($wrapper);
     </script>
+    <!-- Change footer WA Number only on this page -->
+    <script type="text/JavaScript">
+        $('.waNumber').html('0822-60-5678-56');
+    </script>
 
     </div>
 </body>
