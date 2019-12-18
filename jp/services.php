@@ -416,131 +416,6 @@
                 </div>
             </section>
 
-            <section id="testimonials" class="slider--update-design">
-                <div class="container__">
-                    <div class="text-center">
-                        <h1 class="title-index">クライアントからのコメント</h1>
-                        <hr class="title__yellow-line--center">
-
-                        <!-- SLIDER -->
-                        <div class="row">
-                            <div class="col-xs-offset-1 col-xs-10">
-                                <div class="custombox__slider">
-                                    <div class="custombox__custom-slider">
-                                        <div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
-                                            <div class="carousel-inner">
-                                                <div class="item">
-                                                    <blockquote class="client-testi">
-                                                        <p>Sun Lifeは急成長している保険会社で、デジタルを重要なチャネルと考えています。LOGIQUEには、My Sun Life
-                                                            IndonesiaアプリのUI/UXデザインや改善で協業しています。結果として、このアプリは保険会社のアプリの中で最も評価されているうちの1つとなることができました。短納期での仕事の依頼も多くなっていますが、常にベストを尽くして要求を叶えてくれています。いつもご支援ありがとうございます。
-                                                        </p>
-                                                        <br><br>
-                                                        <div class="client-testi__person">
-                                                            <div class="client-testi__line-wrapper">
-                                                                <hr class="title__yellow-line">
-                                                            </div>
-                                                            <div class="client-testi__p-name">
-                                                                <b>Mr. Jodie Pratomo,</b><br>
-                                                                Head of the Digital Experience for Sun Life
-                                                                Financial.
-                                                            </div>
-                                                        </div>
-                                                    </blockquote>
-                                                </div>
-                                                <div class="item">
-                                                    <blockquote class="client-testi">
-                                                        <p>LOGIQUE has a firm grasp of its client’s requirements and needs. Its
-                                                            approach to
-                                                            delivering its service
-                                                            is collaborative, and thus results in the shared ownership of the
-                                                            project it is
-                                                            helping to develop</p>
-                                                        <br><br>
-                                                        <div class="client-testi__person">
-                                                            <div class="client-testi__line-wrapper">
-                                                                <hr class="title__yellow-line">
-                                                            </div>
-                                                            <div class="client-testi__p-name">
-                                                                <b>Armiliza Cruz Magno, </b><br>
-                                                                JAIF.
-                                                            </div>
-                                                        </div>
-                                                    </blockquote>
-                                                </div>
-
-                                                <div class="item active">
-                                                    <blockquote class="client-testi">
-                                                        <p>We have been cooperating with Logique, who developed our website of
-                                                            &quot;the 60th
-                                                            Anniversary of Japan-Indonesia Diplomatic Relation&quot; and who has
-                                                            been
-                                                            maintaining the site for us. Logique is meeting our requirements which
-                                                            are
-                                                            detailed and complex. Furthermore, Logique is giving us comprehensive
-                                                            support in
-                                                            the fields of website development as well as SNS operation and digital
-                                                            marketing.
-                                                            Logique’s punctual, flexible and precise work always helps us to
-                                                            fulfil our
-                                                            mission.
-                                                        </p>
-                                                        <br><br>
-                                                        <div class="client-testi__person">
-                                                            <div class="client-testi__line-wrapper">
-                                                                <hr class="title__yellow-line">
-                                                            </div>
-                                                            <div class="client-testi__p-name">
-                                                                <b>Steering Committee,</b><br>
-                                                                The Commemorative Events of the 60th Anniversary of Japan –
-                                                                Indonesia Diplomatic
-                                                                Relations.
-                                                            </div>
-                                                        </div>
-                                                    </blockquote>
-                                                </div>
-                                                <div class="item">
-                                                    <blockquote class="client-testi">
-                                                        <p>当社のビジネスは車・バイクのオークションです。特殊性が高く通常のパッケージシステムでは対応が難しいため、LOGIQUEに大小様々なシステム構築をお願いしています。取引量も多く、求めるセキュリティ堅牢性も高いですが、確実に、かつ柔軟に運営してもらっており感謝しています。
-                                                        </p>
-                                                        <br><br>
-                                                        <div class="client-testi__person">
-                                                            <div class="client-testi__line-wrapper">
-                                                                <hr class="title__yellow-line">
-                                                            </div>
-                                                            <div class="client-testi__p-name">
-                                                                <b>Mr. Kazuhiro Shioyama,</b><br>
-                                                                President Director, PT. JBA Indonesia
-                                                            </div>
-                                                        </div>
-                                                    </blockquote>
-                                                </div>
-                                            </div>
-                                            <!-- Left and right controls -->
-                                            <a class="left carousel-control" href="#profile" data-slide="prev">
-                                                <span class="glyphicon glyphicon-chevron-left"></span>
-                                                <span class="sr-only">Previous</span>
-                                            </a>
-                                            <a class="right carousel-control" href="#profile" data-slide="next">
-                                                <span class="glyphicon glyphicon-chevron-right"></span>
-                                                <span class="sr-only">Next</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="client-testi__btn-wrapper --back-top">
-                            <a href="portfolio.php">
-                                <div class="main-btn --black">See Portfolio</div>
-                            </a>
-                            <a href="#serviceNavigation">
-                                <div class="main-btn">Back to Top</div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
             <section class="section-divider" id="webCreate_">
                 <div class="bg--black">
                     <div class="container__">
@@ -562,9 +437,10 @@
                                         <h3 class="service-detail__title">コーポレート・ブランドWeb制作</h4>
                                             <p>会社の信頼感・ブランド価値を伝えるコーポレートWeb、ブランドWebを制作します。多言語での制作やコンテンツ制作や写真・動画撮影も含めたホームページ制作などご要望に柔軟に応じます。ドメインやWebサーバーの手配、SSL購入もご支援いたします。企画から運用まで纏めてお任せください。スムーズに進められれば1ヶ月程度で公開可能です。コンバージョンのでる、価値の高いWebを作ります。
                                             </p>
-                                    <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow" href="/jp/portfolio.php#webDev">Web制作サービスについて詳しくみる</a>
-                                    </div>
+                                            <div class="service-detail__btn-wrapper">
+                                                <a target="_blank" class="main-btn --yellow"
+                                                    href="/jp/portfolio.php#webDev">Web制作サービスについて詳しくみる</a>
+                                            </div>
                                     </div>
                                 </div>
                             </section>
@@ -602,7 +478,8 @@
                                             <p>ジャカルタにて、ミスマッチングとならない良い人材の採用の難易度は非常に高くなっています。自社で採用サイトをもち、これを受け皿としてデジタルを活用した採用活動をすることが一つの解決策となります。会社について、人について、求めている人材について、インタビュー動画なども交えて伝えることで効果的な採用が可能となります。求人ページ・サイトと採用管理システムを連動させる案件の実績も豊富にもっています。.
                                             </p>
                                             <div class="service-detail__btn-wrapper">
-                                                <a class="main-btn --yellow" href="services/recruitment-web-dev.php">採用サイト制作サービスを詳しくみる</a>
+                                                <a class="main-btn --yellow"
+                                                    href="services/recruitment-web-dev.php">採用サイト制作サービスを詳しくみる</a>
                                             </div>
                                     </div>
                                 </div>
@@ -626,7 +503,7 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Wordpressサイト制作</h4>
                                     <p>
-                                        Wordpressのインストール・カスタマイズ、デザインの制作とインプリを行います。 
+                                        Wordpressのインストール・カスタマイズ、デザインの制作とインプリを行います。
                                         最初は自社内でできていたものが担当者不在で運用ができなくなってしまった、バージョンUPやセキュリティ対策ができていない、
                                         等のケースが散見されます。運用更新の委託、カスタマイズやセキュリティ向上のためのセットアップなどご相談ください。
                                         セキュリティに問題のあるWordpress Web・ブログが多くあります。問題起こる前に早めにご相談ください。
@@ -663,7 +540,7 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">SEO対策 / SEM</h4>
                                     <p>
-                                        SEOコンサルティングだけで終わらずWebページへの施策の実装まで責任をもって行うことで、結果にコミットします。 
+                                        SEOコンサルティングだけで終わらずWebページへの施策の実装まで責任をもって行うことで、結果にコミットします。
                                         日本語、インドネシア語、英語でのSEO対策実績豊富にあります。
                                         インドネシア語で金融系ビッグキーワードや車系ビッグキーワードで1位を長く維持した実績あります。 SEMもお任せください。
                                     </p>
@@ -715,7 +592,7 @@
                             </div>
                         </div>
                     </section>
-                    
+
                     <div class="text-center --back-top">
                         <a href="portfolio.php#others">
                             <div class="main-btn --black">Portfolio</div>
@@ -853,7 +730,8 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">PWAの開発</h3>
-                                <p>インドネシアで多くのモバイルアプリ、ハイブリッドアプリの開発を行ってきました。モバイル・ソリューションの活用でインドネシア市場で発展する企業をご支援しています。モバイルアプリと他システムとの連携などが必要になるケースがほとんどです。インフラの設計設定から、他システムとのデータ連携、バックエンドシステムの開発まで幅広く対応可能です。</p>
+                                <p>インドネシアで多くのモバイルアプリ、ハイブリッドアプリの開発を行ってきました。モバイル・ソリューションの活用でインドネシア市場で発展する企業をご支援しています。モバイルアプリと他システムとの連携などが必要になるケースがほとんどです。インフラの設計設定から、他システムとのデータ連携、バックエンドシステムの開発まで幅広く対応可能です。
+                                </p>
                             </div>
                         </div>
                     </section>
@@ -890,7 +768,8 @@
                                     IDRから診断可能です。
                                 </p>
                                 <div class="service-detail__btn-wrapper">
-                                    <a class="main-btn --yellow" href="/jp/services/penetration-test.php">Webセキュリティ診断サービスについて詳しくみる</a>
+                                    <a class="main-btn --yellow"
+                                        href="/jp/services/penetration-test.php">Webセキュリティ診断サービスについて詳しくみる</a>
                                 </div>
                             </div>
                         </div>
@@ -921,8 +800,8 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">グラフィックデザイン</h4>
                                     <p>
-                                        商談時に使用する紙ものから、バッグやTシャツなど各種販促物までデザイン制作します。 
-                                        またパートナー印刷事業者をコントロールして印刷物の納品まで行うことも可能です。 
+                                        商談時に使用する紙ものから、バッグやTシャツなど各種販促物までデザイン制作します。
+                                        またパートナー印刷事業者をコントロールして印刷物の納品まで行うことも可能です。
                                         会社案内、各種チラシ、展示会配布物、その他販促物など、まずはご相談ください。
                                     </p>
                                     <div class="service-detail__btn-wrapper">
@@ -939,7 +818,7 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">クラウドサーバー管理</h4>
                                     <p>
-                                        AWSの構築運用は数多く経験しており、得意としています。AWSのパートナーシッププログラムAPNにも属しています。 
+                                        AWSの構築運用は数多く経験しており、得意としています。AWSのパートナーシッププログラムAPNにも属しています。
                                         GCPやAlibabaクラウドの構築運用経験もあります。インドネシアのドメインの取得管理、DNSの設定、SSLの購入設定、
                                         AWSの請求代行なども可能です。
                                     </p>
@@ -954,7 +833,8 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">ITビジネスコンサルティング</h4>
                                     <p>
-                                        ITの導入による業務改善コンサルティング、ITツール選定アドバイザリー、ITセキュリティ診断、インターネットビジネスの新規事業立ち上げ支援など ”インドネシア × IT” 領域で様々なコンサルティングやアドバイザリーサービスを行っています。
+                                        ITの導入による業務改善コンサルティング、ITツール選定アドバイザリー、ITセキュリティ診断、インターネットビジネスの新規事業立ち上げ支援など ”インドネシア × IT”
+                                        領域で様々なコンサルティングやアドバイザリーサービスを行っています。
                                     </p>
                                     <br>
                                     <p>
@@ -972,6 +852,144 @@
                         </a>
                     </div>
                 </div>
+            </section>
+
+            <section class="section-divider" id="othersService_">
+                <div class="bg--black">
+                    <div class="container__">
+                        <div class="text-center">
+                            <h1 class="title-index --yellow">クライアントからのコメント</h1>
+                            <hr class="title__yellow-line--center">
+                        </div>
+                    </div>
+                </div>
+                <section id="testimonials" class="slider--update-design">
+                    <div class="container__">
+                        <div class="text-center">
+
+                            <!-- SLIDER -->
+                            <div class="row">
+                                <div class="col-xs-offset-1 col-xs-10">
+                                    <div class="custombox__slider">
+                                        <div class="custombox__custom-slider">
+                                            <div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
+                                                <div class="carousel-inner">
+                                                    <div class="item">
+                                                        <blockquote class="client-testi">
+                                                            <p>Sun Lifeは急成長している保険会社で、デジタルを重要なチャネルと考えています。LOGIQUEには、My Sun Life
+                                                                IndonesiaアプリのUI/UXデザインや改善で協業しています。結果として、このアプリは保険会社のアプリの中で最も評価されているうちの1つとなることができました。短納期での仕事の依頼も多くなっていますが、常にベストを尽くして要求を叶えてくれています。いつもご支援ありがとうございます。
+                                                            </p>
+                                                            <br><br>
+                                                            <div class="client-testi__person">
+                                                                <div class="client-testi__line-wrapper">
+                                                                    <hr class="title__yellow-line">
+                                                                </div>
+                                                                <div class="client-testi__p-name">
+                                                                    <b>Mr. Jodie Pratomo,</b><br>
+                                                                    Head of the Digital Experience for Sun Life
+                                                                    Financial.
+                                                                </div>
+                                                            </div>
+                                                        </blockquote>
+                                                    </div>
+                                                    <div class="item">
+                                                        <blockquote class="client-testi">
+                                                            <p>LOGIQUE has a firm grasp of its client’s requirements and needs.
+                                                                Its
+                                                                approach to
+                                                                delivering its service
+                                                                is collaborative, and thus results in the shared ownership of the
+                                                                project it is
+                                                                helping to develop</p>
+                                                            <br><br>
+                                                            <div class="client-testi__person">
+                                                                <div class="client-testi__line-wrapper">
+                                                                    <hr class="title__yellow-line">
+                                                                </div>
+                                                                <div class="client-testi__p-name">
+                                                                    <b>Armiliza Cruz Magno, </b><br>
+                                                                    JAIF.
+                                                                </div>
+                                                            </div>
+                                                        </blockquote>
+                                                    </div>
+
+                                                    <div class="item active">
+                                                        <blockquote class="client-testi">
+                                                            <p>We have been cooperating with Logique, who developed our website of
+                                                                &quot;the 60th
+                                                                Anniversary of Japan-Indonesia Diplomatic Relation&quot; and who
+                                                                has
+                                                                been
+                                                                maintaining the site for us. Logique is meeting our requirements
+                                                                which
+                                                                are
+                                                                detailed and complex. Furthermore, Logique is giving us
+                                                                comprehensive
+                                                                support in
+                                                                the fields of website development as well as SNS operation and
+                                                                digital
+                                                                marketing.
+                                                                Logique’s punctual, flexible and precise work always helps us to
+                                                                fulfil our
+                                                                mission.
+                                                            </p>
+                                                            <br><br>
+                                                            <div class="client-testi__person">
+                                                                <div class="client-testi__line-wrapper">
+                                                                    <hr class="title__yellow-line">
+                                                                </div>
+                                                                <div class="client-testi__p-name">
+                                                                    <b>Steering Committee,</b><br>
+                                                                    The Commemorative Events of the 60th Anniversary of Japan –
+                                                                    Indonesia Diplomatic
+                                                                    Relations.
+                                                                </div>
+                                                            </div>
+                                                        </blockquote>
+                                                    </div>
+                                                    <div class="item">
+                                                        <blockquote class="client-testi">
+                                                            <p>当社のビジネスは車・バイクのオークションです。特殊性が高く通常のパッケージシステムでは対応が難しいため、LOGIQUEに大小様々なシステム構築をお願いしています。取引量も多く、求めるセキュリティ堅牢性も高いですが、確実に、かつ柔軟に運営してもらっており感謝しています。
+                                                            </p>
+                                                            <br><br>
+                                                            <div class="client-testi__person">
+                                                                <div class="client-testi__line-wrapper">
+                                                                    <hr class="title__yellow-line">
+                                                                </div>
+                                                                <div class="client-testi__p-name">
+                                                                    <b>Mr. Kazuhiro Shioyama,</b><br>
+                                                                    President Director, PT. JBA Indonesia
+                                                                </div>
+                                                            </div>
+                                                        </blockquote>
+                                                    </div>
+                                                </div>
+                                                <!-- Left and right controls -->
+                                                <a class="left carousel-control" href="#profile" data-slide="prev">
+                                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                                    <span class="sr-only">Previous</span>
+                                                </a>
+                                                <a class="right carousel-control" href="#profile" data-slide="next">
+                                                    <span class="glyphicon glyphicon-chevron-right"></span>
+                                                    <span class="sr-only">Next</span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="client-testi__btn-wrapper --back-top">
+                                <a href="portfolio.php">
+                                    <div class="main-btn --black">See Portfolio</div>
+                                </a>
+                                <a href="#serviceNavigation">
+                                    <div class="main-btn">Back to Top</div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
             </section>
 
             <section id="contact">

@@ -152,7 +152,11 @@
                     <div class="text-center">
                         <h1 class="title-index">LayananKami</h1>
                         <hr class="title__yellow-line--center">
-                        <p class="title__description" style="margin-bottom:20px">Di zaman modern ini, di mana semuanya sangat bergantung pada internet dan teknologi, LOGIQUE Digital Indonesia berupaya untuk membantu klien kami di bidang yang terkait dengan masalah digital dan TI. Kami memberikan layanan berkualitas tinggi dan berstandar internasional, dengan bangga memenuhi harapan klien kami dan memenuhi kebutuhan bisnis mereka. Kami menyediakan berbagai layanan terkait web, seperti desain dan pengembangan website.
+                        <p class="title__description" style="margin-bottom:20px">Di zaman modern ini, di mana semuanya sangat
+                            bergantung pada internet dan teknologi, LOGIQUE Digital Indonesia berupaya untuk membantu klien kami
+                            di bidang yang terkait dengan masalah digital dan TI. Kami memberikan layanan berkualitas tinggi dan
+                            berstandar internasional, dengan bangga memenuhi harapan klien kami dan memenuhi kebutuhan bisnis
+                            mereka. Kami menyediakan berbagai layanan terkait web, seperti desain dan pengembangan website.
                         </p>
                         <div class="our-service__btn-wrapper">
                             <a href="portofolio.php">
@@ -354,7 +358,8 @@
                 <div class="container__">
                     <div class="product-slogan --center-img">
                         <img class="product-slogan__img" src="../img/service/service.png" alt="product">
-                        <p class="product-slogan__text">Kami menyediakan berbagai layanan, mulai dari pengembangan Situs Web / Sistem hingga Pemasaran Digital dan pemeliharaan Sistem TI.</p>
+                        <p class="product-slogan__text">Kami menyediakan berbagai layanan, mulai dari pengembangan Situs Web /
+                            Sistem hingga Pemasaran Digital dan pemeliharaan Sistem TI.</p>
                     </div>
                 </div>
             </section>
@@ -407,150 +412,6 @@
                             seluler untuk Anda dengan kelincahan dan fleksibilitas. Kami mewujudkan sesuatu dengan cepat dan
                             menerima perubahan dengan fleksibel. Karena di LOGIQUE, klien dan anggota proyek kami adalah satu tim.
                         </p>
-                    </div>
-                </div>
-            </section>
-
-            <section id="testimonials" class="slider--update-design">
-                <div class="container__">
-                    <div class="text-center">
-                        <h1 class="title-index">Testimonials</h1>
-                        <hr class="title__yellow-line--center">
-
-                        <!-- SLIDER -->
-                        <div class="row">
-                            <div class="col-xs-offset-1 col-xs-10">
-                                <div class="custombox__slider">
-                                    <div class="custombox__custom-slider">
-                                        <div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
-                                            <div class="carousel-inner">
-                                                <div class="item">
-                                                    <blockquote class="client-testi">
-                                                        <p>Sebagai salah satu perusahaan asuransi jiwa dengan pertumbuhan paling
-                                                            pesat, kami
-                                                            memiliki strategi untuk melayani nasabah melalui layanan digital.
-                                                            LOGIQUE berperan
-                                                            sebagai mitra strategis kami dalam UI/UX aplikasi layanan nasabah My
-                                                            Sun Life
-                                                            Indonesia. Sebagai hasilnya, My Sun Life Indonesia menjadi salah satu
-                                                            aplikasi
-                                                            dengan rating tertinggi di industri asuransi. Kami sering memberikan
-                                                            tugas yang
-                                                            harus segera diselesaikan, tetapi mereka selalu melakukan yang terbaik
-                                                            dan tidak
-                                                            pernah meruntuhkan kepercayaan kami. Terima kasih atas kerjasamanya
-                                                            selalu.</p>
-                                                        <br><br>
-                                                        <div class="client-testi__person">
-                                                            <div class="client-testi__line-wrapper">
-                                                                <hr class="title__yellow-line">
-                                                            </div>
-                                                            <div class="client-testi__p-name">
-                                                                <b>Mr. Jodie Pratomo,</b><br>
-                                                                Head of the Digital Experience for Sun Life
-                                                                Financial.
-                                                            </div>
-                                                        </div>
-                                                    </blockquote>
-                                                </div>
-                                                <div class="item">
-                                                    <blockquote class="client-testi">
-                                                        <p>Logique has a firm grasp of its clients' requirements and needs. Its
-                                                            approach to
-                                                            delivering its service is collaborative, and thus resulting to a
-                                                            shared ownership
-                                                            of the product it is helping to develop.</p>
-                                                        <br><br>
-                                                        <div class="client-testi__person">
-                                                            <div class="client-testi__line-wrapper">
-                                                                <hr class="title__yellow-line">
-                                                            </div>
-                                                            <div class="client-testi__p-name">
-                                                                <b>Armiliza Cruz Magno, </b><br>
-                                                                JAIF.
-                                                            </div>
-                                                        </div>
-                                                    </blockquote>
-                                                </div>
-
-                                                <div class="item active">
-                                                    <blockquote class="client-testi">
-                                                        <p>We have been cooperating with Logique, who developed our website of
-                                                            &quot;the 60th
-                                                            Anniversary of Japan-Indonesia Diplomatic Relation&quot; and who has
-                                                            been
-                                                            maintaining the site for us. Logique is meeting our requirements which
-                                                            are
-                                                            detailed and complex. Furthermore, Logique is giving us comprehensive
-                                                            support in
-                                                            the fields of website development as well as SNS operation and digital
-                                                            marketing.
-                                                            Logique’s punctual, flexible and precise work always helps us to
-                                                            fulfil our
-                                                            mission.
-                                                        </p>
-                                                        <br><br>
-                                                        <div class="client-testi__person">
-                                                            <div class="client-testi__line-wrapper">
-                                                                <hr class="title__yellow-line">
-                                                            </div>
-                                                            <div class="client-testi__p-name">
-                                                                <b>Steering Committee,</b><br>
-                                                                The Commemorative Events of the 60th Anniversary of Japan –
-                                                                Indonesia Diplomatic
-                                                                Relations.
-                                                            </div>
-                                                        </div>
-                                                    </blockquote>
-                                                </div>
-                                                <div class="item">
-                                                    <blockquote class="client-testi">
-                                                        <p>Bisnis kami adalah pelelangan mobil/motor. LOGIQUE telah membantu kami
-                                                            mengembangkan beragam sistem yang tidak bisa diatasi dengan produk
-                                                            sistem paket
-                                                            yang ada dan perlu disesuaikan secara khusus agar sesuai dengan proses
-                                                            bisnis
-                                                            kami. Kami menghargai bagaimana Logique telah bekerja dengan kami
-                                                            secara fleksibel
-                                                            dan selalu stabil, bahkan dengan permintaan kami yang cukup sulit,
-                                                            seperti
-                                                            kekuatan keamanan.
-                                                        </p>
-                                                        <br><br>
-                                                        <div class="client-testi__person">
-                                                            <div class="client-testi__line-wrapper">
-                                                                <hr class="title__yellow-line">
-                                                            </div>
-                                                            <div class="client-testi__p-name">
-                                                                <b>Mr. Kazuhiro Shioyama,</b><br>
-                                                                Presiden Direktur, PT. JBA Indonesia
-                                                            </div>
-                                                        </div>
-                                                    </blockquote>
-                                                </div>
-                                            </div>
-                                            <!-- Left and right controls -->
-                                            <a class="left carousel-control" href="#profile" data-slide="prev">
-                                                <span class="glyphicon glyphicon-chevron-left"></span>
-                                                <span class="sr-only">Previous</span>
-                                            </a>
-                                            <a class="right carousel-control" href="#profile" data-slide="next">
-                                                <span class="glyphicon glyphicon-chevron-right"></span>
-                                                <span class="sr-only">Next</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="client-testi__btn-wrapper --back-top">
-                            <a href="portofolio.php">
-                                <div class="main-btn --black">See Portfolio</div>
-                            </a>
-                            <a href="#serviceNavigation">
-                                <div class="main-btn">Back to Top</div>
-                            </a>
-                        </div>
                     </div>
                 </div>
             </section>
@@ -1059,6 +920,173 @@
                     </div>
                 </div>
             </section>
+
+            <section class="section-divider" id="othersService_">
+                <div class="bg--black">
+                    <div class="container__">
+                        <div class="text-center">
+                            <h1 class="title-index --yellow">Testimonials</h1>
+                            <hr class="title__yellow-line--center">
+                        </div>
+                    </div>
+                </div>
+                <section id="testimonials" class="slider--update-design">
+                    <div class="container__">
+                        <div class="text-center">
+                            <!-- SLIDER -->
+                            <div class="row">
+                                <div class="col-xs-offset-1 col-xs-10">
+                                    <div class="custombox__slider">
+                                        <div class="custombox__custom-slider">
+                                            <div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
+                                                <div class="carousel-inner">
+                                                    <div class="item">
+                                                        <blockquote class="client-testi">
+                                                            <p>Sebagai salah satu perusahaan asuransi jiwa dengan pertumbuhan
+                                                                paling
+                                                                pesat, kami
+                                                                memiliki strategi untuk melayani nasabah melalui layanan digital.
+                                                                LOGIQUE berperan
+                                                                sebagai mitra strategis kami dalam UI/UX aplikasi layanan nasabah
+                                                                My
+                                                                Sun Life
+                                                                Indonesia. Sebagai hasilnya, My Sun Life Indonesia menjadi salah
+                                                                satu
+                                                                aplikasi
+                                                                dengan rating tertinggi di industri asuransi. Kami sering
+                                                                memberikan
+                                                                tugas yang
+                                                                harus segera diselesaikan, tetapi mereka selalu melakukan yang
+                                                                terbaik
+                                                                dan tidak
+                                                                pernah meruntuhkan kepercayaan kami. Terima kasih atas
+                                                                kerjasamanya
+                                                                selalu.</p>
+                                                            <br><br>
+                                                            <div class="client-testi__person">
+                                                                <div class="client-testi__line-wrapper">
+                                                                    <hr class="title__yellow-line">
+                                                                </div>
+                                                                <div class="client-testi__p-name">
+                                                                    <b>Mr. Jodie Pratomo,</b><br>
+                                                                    Head of the Digital Experience for Sun Life
+                                                                    Financial.
+                                                                </div>
+                                                            </div>
+                                                        </blockquote>
+                                                    </div>
+                                                    <div class="item">
+                                                        <blockquote class="client-testi">
+                                                            <p>Logique has a firm grasp of its clients' requirements and needs.
+                                                                Its
+                                                                approach to
+                                                                delivering its service is collaborative, and thus resulting to a
+                                                                shared ownership
+                                                                of the product it is helping to develop.</p>
+                                                            <br><br>
+                                                            <div class="client-testi__person">
+                                                                <div class="client-testi__line-wrapper">
+                                                                    <hr class="title__yellow-line">
+                                                                </div>
+                                                                <div class="client-testi__p-name">
+                                                                    <b>Armiliza Cruz Magno, </b><br>
+                                                                    JAIF.
+                                                                </div>
+                                                            </div>
+                                                        </blockquote>
+                                                    </div>
+
+                                                    <div class="item active">
+                                                        <blockquote class="client-testi">
+                                                            <p>We have been cooperating with Logique, who developed our website of
+                                                                &quot;the 60th
+                                                                Anniversary of Japan-Indonesia Diplomatic Relation&quot; and who
+                                                                has
+                                                                been
+                                                                maintaining the site for us. Logique is meeting our requirements
+                                                                which
+                                                                are
+                                                                detailed and complex. Furthermore, Logique is giving us
+                                                                comprehensive
+                                                                support in
+                                                                the fields of website development as well as SNS operation and
+                                                                digital
+                                                                marketing.
+                                                                Logique’s punctual, flexible and precise work always helps us to
+                                                                fulfil our
+                                                                mission.
+                                                            </p>
+                                                            <br><br>
+                                                            <div class="client-testi__person">
+                                                                <div class="client-testi__line-wrapper">
+                                                                    <hr class="title__yellow-line">
+                                                                </div>
+                                                                <div class="client-testi__p-name">
+                                                                    <b>Steering Committee,</b><br>
+                                                                    The Commemorative Events of the 60th Anniversary of Japan –
+                                                                    Indonesia Diplomatic
+                                                                    Relations.
+                                                                </div>
+                                                            </div>
+                                                        </blockquote>
+                                                    </div>
+                                                    <div class="item">
+                                                        <blockquote class="client-testi">
+                                                            <p>Bisnis kami adalah pelelangan mobil/motor. LOGIQUE telah membantu
+                                                                kami
+                                                                mengembangkan beragam sistem yang tidak bisa diatasi dengan produk
+                                                                sistem paket
+                                                                yang ada dan perlu disesuaikan secara khusus agar sesuai dengan
+                                                                proses
+                                                                bisnis
+                                                                kami. Kami menghargai bagaimana Logique telah bekerja dengan kami
+                                                                secara fleksibel
+                                                                dan selalu stabil, bahkan dengan permintaan kami yang cukup sulit,
+                                                                seperti
+                                                                kekuatan keamanan.
+                                                            </p>
+                                                            <br><br>
+                                                            <div class="client-testi__person">
+                                                                <div class="client-testi__line-wrapper">
+                                                                    <hr class="title__yellow-line">
+                                                                </div>
+                                                                <div class="client-testi__p-name">
+                                                                    <b>Mr. Kazuhiro Shioyama,</b><br>
+                                                                    Presiden Direktur, PT. JBA Indonesia
+                                                                </div>
+                                                            </div>
+                                                        </blockquote>
+                                                    </div>
+                                                </div>
+                                                <!-- Left and right controls -->
+                                                <a class="left carousel-control" href="#profile" data-slide="prev">
+                                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                                    <span class="sr-only">Previous</span>
+                                                </a>
+                                                <a class="right carousel-control" href="#profile" data-slide="next">
+                                                    <span class="glyphicon glyphicon-chevron-right"></span>
+                                                    <span class="sr-only">Next</span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="client-testi__btn-wrapper --back-top">
+                                <a href="portofolio.php">
+                                    <div class="main-btn --black">See Portfolio</div>
+                                </a>
+                                <a href="#serviceNavigation">
+                                    <div class="main-btn">Back to Top</div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+            </section>
+
+
 
             <section id="contact">
                 <div class="container__">

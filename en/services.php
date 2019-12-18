@@ -154,12 +154,14 @@
                         <h1 class="title-index">Our Services</h1>
                         <hr class="title__yellow-line--center">
                         <p class="title__description" style="margin-bottom:20px">
-                            Speed is a key factor in determining the success or failure of a business nowadays. 
-                            The changing pace at which IT & Web trends are evolving has been at an accelerated rate. 
-                            Therefore, in order to keep up, agility and flexibility are two vital assets which must be utilized and, indeed maximized. 
+                            Speed is a key factor in determining the success or failure of a business nowadays.
+                            The changing pace at which IT & Web trends are evolving has been at an accelerated rate.
+                            Therefore, in order to keep up, agility and flexibility are two vital assets which must be utilized
+                            and, indeed maximized.
                         </p>
                         <p class="title__description" style="margin-bottom:20px">
-                            That’s why, in order to successfully promote your business, we provide flexible and speedy web & app development services: 
+                            That’s why, in order to successfully promote your business, we provide flexible and speedy web & app
+                            development services:
                             producing results of the highest quality while flexibly adapting to your specific requirements.
                         </p>
                         <div class="our-service__btn-wrapper">
@@ -356,7 +358,8 @@
                 <div class="container__">
                     <div class="product-slogan --center-img">
                         <img class="product-slogan__img" src="../img/service/service.png" alt="product">
-                        <p class="product-slogan__text">We provide a wide range of services, from Website / System development to Digital Marketing and maintaining IT Systems.</p>
+                        <p class="product-slogan__text">We provide a wide range of services, from Website / System development to
+                            Digital Marketing and maintaining IT Systems.</p>
                     </div>
                 </div>
             </section>
@@ -412,157 +415,6 @@
                 </div>
             </section>
 
-            <section id="testimonials" class="slider--update-design">
-                <div class="container__">
-                    <div class="text-center">
-                        <h1 class="title-index">Testimonials</h1>
-                        <hr class="title__yellow-line--center">
-
-                        <!-- SLIDER -->
-                        <div class="row">
-                            <div class="col-xs-offset-1 col-xs-10">
-                                <div class="custombox__slider">
-                                    <div class="custombox__custom-slider">
-                                        <div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
-                                            <div class="carousel-inner">
-                                                <div class="item">
-                                                    <blockquote class="client-testi">
-                                                        <p>As one of the fastest growing life insurance companies, serving our
-                                                            clients
-                                                            online
-                                                            is one of our key
-                                                            principals. LOGIQUE has become an indispensable partner for their work
-                                                            on My
-                                                            SunLife, the Indonesian app
-                                                            UI/UX strategy. As a result, our application has become among the
-                                                            highest
-                                                            rated
-                                                            insurance apps to date. We
-                                                            have frequently assigned LOGIQUE tasks that needed to be done hastily,
-                                                            and
-                                                            they
-                                                            have always delivered the
-                                                            best for us and have never failed our trust. Thank you for your
-                                                            continued
-                                                            cooperation.</p>
-                                                        <br><br>
-                                                        <div class="client-testi__person">
-                                                            <div class="client-testi__line-wrapper">
-                                                                <hr class="title__yellow-line">
-                                                            </div>
-                                                            <div class="client-testi__p-name">
-                                                                <b>Mr. Jodie Pratomo,</b><br>
-                                                                Head of the Digital Experience for Sun Life
-                                                                Financial.
-                                                            </div>
-                                                        </div>
-                                                    </blockquote>
-                                                </div>
-                                                <div class="item">
-                                                    <blockquote class="client-testi">
-                                                        <p>LOGIQUE has a firm grasp of its client’s requirements and needs. Its
-                                                            approach to
-                                                            delivering its service
-                                                            is collaborative, and thus results in the shared ownership of the
-                                                            project it is
-                                                            helping to develop</p>
-                                                        <br><br>
-                                                        <div class="client-testi__person">
-                                                            <div class="client-testi__line-wrapper">
-                                                                <hr class="title__yellow-line">
-                                                            </div>
-                                                            <div class="client-testi__p-name">
-                                                                <b>Armiliza Cruz Magno, </b><br>
-                                                                JAIF.
-                                                            </div>
-                                                        </div>
-                                                    </blockquote>
-                                                </div>
-
-                                                <div class="item active">
-                                                    <blockquote class="client-testi">
-                                                        <p>We have been cooperating with Logique, who developed our website of
-                                                            &quot;the 60th
-                                                            Anniversary of Japan-Indonesia Diplomatic Relation&quot; and who has
-                                                            been
-                                                            maintaining the site for us. Logique is meeting our requirements which
-                                                            are
-                                                            detailed and complex. Furthermore, Logique is giving us comprehensive
-                                                            support in
-                                                            the fields of website development as well as SNS operation and digital
-                                                            marketing.
-                                                            Logique’s punctual, flexible and precise work always helps us to
-                                                            fulfil our
-                                                            mission.
-                                                        </p>
-                                                        <br><br>
-                                                        <div class="client-testi__person">
-                                                            <div class="client-testi__line-wrapper">
-                                                                <hr class="title__yellow-line">
-                                                            </div>
-                                                            <div class="client-testi__p-name">
-                                                                <b>Steering Committee,</b><br>
-                                                                The Commemorative Events of the 60th Anniversary of Japan –
-                                                                Indonesia Diplomatic
-                                                                Relations.
-                                                            </div>
-                                                        </div>
-                                                    </blockquote>
-                                                </div>
-                                                <div class="item">
-                                                    <blockquote class="client-testi">
-                                                        <p>We are a car and motorcycle auctioning business. LOGIQUE has helped us
-                                                            to develop
-                                                            various systems which
-                                                            require specific customizations in order to fit our process which
-                                                            cannot be
-                                                            covered by any existing
-                                                            systems software. We appreciate how LOGIQUE has been working steadily
-                                                            and flexibly
-                                                            with us, even though
-                                                            our requirements are sometimes quite high, as the systems that we
-                                                            require demand
-                                                            the utmost security.
-                                                        </p>
-                                                        <br><br>
-                                                        <div class="client-testi__person">
-                                                            <div class="client-testi__line-wrapper">
-                                                                <hr class="title__yellow-line">
-                                                            </div>
-                                                            <div class="client-testi__p-name">
-                                                                <b>Mr. Kazuhiro Shioyama,</b><br>
-                                                                President Director, PT. JBA Indonesia
-                                                            </div>
-                                                        </div>
-                                                    </blockquote>
-                                                </div>
-                                            </div>
-                                            <!-- Left and right controls -->
-                                            <a class="left carousel-control" href="#profile" data-slide="prev">
-                                                <span class="glyphicon glyphicon-chevron-left"></span>
-                                                <span class="sr-only">Previous</span>
-                                            </a>
-                                            <a class="right carousel-control" href="#profile" data-slide="next">
-                                                <span class="glyphicon glyphicon-chevron-right"></span>
-                                                <span class="sr-only">Next</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="client-testi__btn-wrapper --back-top">
-                            <a href="portfolio.php">
-                                <div class="main-btn --black">See Portfolio</div>
-                            </a>
-                            <a href="#serviceNavigation">
-                                <div class="main-btn">Back to Top</div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
             <section class="section-divider" id="webCreate_">
                 <div class="bg--black">
                     <div class="container__">
@@ -593,9 +445,10 @@
                                                 striving to provide creative as well as functional solutions according to cutting
                                                 edge
                                                 technological trends present in the digital era.</p>
-                                        <div class="service-detail__btn-wrapper">
-                                            <a class="main-btn --yellow" href="/en/portfolio.php">See More <span class="hidden-xs"> about our Website Creation Services</span></a>
-                                        </div>
+                                            <div class="service-detail__btn-wrapper">
+                                                <a class="main-btn --yellow" href="/en/portfolio.php">See More <span
+                                                        class="hidden-xs"> about our Website Creation Services</span></a>
+                                            </div>
                                     </div>
                                 </div>
                             </section>
@@ -607,9 +460,12 @@
                                     <div class="service-detail__content">
                                         <h3 class="service-detail__title">Multilingual Website Creation</h4>
                                             <p>
-                                                High-quality multilingual websites can serve to provide you with prospective international customers. 
-                                                LOGIQUE aims to create cost effective multilingual websites, enabling you to connect with potential 
-                                                client within both local and global markets. We have a wide range of experience in regards to developing 
+                                                High-quality multilingual websites can serve to provide you with prospective
+                                                international customers.
+                                                LOGIQUE aims to create cost effective multilingual websites, enabling you to
+                                                connect with potential
+                                                client within both local and global markets. We have a wide range of experience in
+                                                regards to developing
                                                 sites in a trilingual format; in English, Indonesian and Japanese.
                                             </p>
                                     </div>
@@ -623,9 +479,12 @@
                                     <div class="service-detail__content">
                                         <h3 class="service-detail__title">Web Media Development</h4>
                                             <p>
-                                                We can assist you through the various stages of developing your own Web Service, or Web-based Media; 
-                                                from drafting a plan, designing a template, to the maintenance of your website in any format / programming language, 
-                                                be it E-commerce, car auctioning system, human resource matching, point management system, closed community or a member 
+                                                We can assist you through the various stages of developing your own Web Service,
+                                                or Web-based Media;
+                                                from drafting a plan, designing a template, to the maintenance of your website in
+                                                any format / programming language,
+                                                be it E-commerce, car auctioning system, human resource matching, point management
+                                                system, closed community or a member
                                                 management CRM website.
                                             </p>
                                     </div>
@@ -639,13 +498,17 @@
                                     <div class="service-detail__content">
                                         <h3 class="service-detail__title">Recruitment Website Creation</h4>
                                             <p>
-                                                We realize that many companies experience difficulties recruiting potential employees who can meet company standards. 
-                                                LOGIQUE provides a solution which orients career websites around successful recruitment strategies, so that your company 
-                                                will be suited  to provide the necessary information pertaining to the latest available job vacancies, work atmosphere, 
+                                                We realize that many companies experience difficulties recruiting potential
+                                                employees who can meet company standards.
+                                                LOGIQUE provides a solution which orients career websites around successful
+                                                recruitment strategies, so that your company
+                                                will be suited to provide the necessary information pertaining to the latest
+                                                available job vacancies, work atmosphere,
                                                 and the benefits offered to prospective candidates.
                                             </p>
                                             <div class="service-detail__btn-wrapper">
-                                                <a class="main-btn --yellow" href="services/recruitment-web-dev.php">See More <span class="hidden-xs">of Recruitment Website Creation Service</span></a>
+                                                <a class="main-btn --yellow" href="services/recruitment-web-dev.php">See More
+                                                    <span class="hidden-xs">of Recruitment Website Creation Service</span></a>
                                             </div>
                                     </div>
                                 </div>
@@ -669,10 +532,13 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Wordpress</h4>
                                     <p>
-                                        We also provide WordPress installation and customization services. 
-                                        We can design, implement and improve the security of your blog according to your specific requirements. 
-                                        Currently, there are many blogs / websites which suffer from security vulnerability issues. 
-                                        Therefore, please contact us immediately so that we can ensure the integrity of your blog’s security system.
+                                        We also provide WordPress installation and customization services.
+                                        We can design, implement and improve the security of your blog according to your specific
+                                        requirements.
+                                        Currently, there are many blogs / websites which suffer from security vulnerability
+                                        issues.
+                                        Therefore, please contact us immediately so that we can ensure the integrity of your
+                                        blog’s security system.
                                     </p>
                             </div>
                         </div>
@@ -706,16 +572,21 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">SEO / SEM</h4>
                                     <p>
-                                        We can carry out an in-depth analysis of your website’s on-page optimization. Through our services, we go beyond the basic methods of data tracking and user behavior analysis; attesting to these results through the overall improvement of our client’s websites. 
-                                        We have extensive SEO experience in the Japanese, Indonesian and English languages, and have succeeded in keeping one of our clients (An Indonesian finance company) on 1st place within Google’s search results. 
-                                        Further, a solid SEO strategy combines technical and content optimization. 
+                                        We can carry out an in-depth analysis of your website’s on-page optimization. Through our
+                                        services, we go beyond the basic methods of data tracking and user behavior analysis;
+                                        attesting to these results through the overall improvement of our client’s websites.
+                                        We have extensive SEO experience in the Japanese, Indonesian and English languages, and
+                                        have succeeded in keeping one of our clients (An Indonesian finance company) on 1st place
+                                        within Google’s search results.
+                                        Further, a solid SEO strategy combines technical and content optimization.
                                         Additionally, we possess expertise in SEM as well.
                                     </p>
-                                <div class="service-detail__btn-wrapper">
-                                    <a target="_blank" class="main-btn --yellow"
-                                        href="/en/services/digital-marketing/seo-service.php">Learn more <span class="hidden-xs">about our SEO / SEM services</span>
-                                    </a>
-                                </div>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a target="_blank" class="main-btn --yellow"
+                                            href="/en/services/digital-marketing/seo-service.php">Learn more <span
+                                                class="hidden-xs">about our SEO / SEM services</span>
+                                        </a>
+                                    </div>
                             </div>
                         </div>
                     </section>
@@ -727,15 +598,22 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Digital Ad Operation</h4>
                                     <p>
-                                        We offer a results driven approach to pay-per-click management, providing transparent and measurable campaigns, 
-                                        allowing you to evaluate your success against your own targets. We are thoroughly experienced across a wide range 
-                                        of vertical markets and offer highly strategic and communicative services. We know that a successful campaign comes 
-                                        down to continual optimization and refinement. Only through a highly targeted and tightly managed structure can you 
-                                        achieve a higher conversion rate for a better price. Feel free to contact us to increase your prospects and conversions 
+                                        We offer a results driven approach to pay-per-click management, providing transparent and
+                                        measurable campaigns,
+                                        allowing you to evaluate your success against your own targets. We are thoroughly
+                                        experienced across a wide range
+                                        of vertical markets and offer highly strategic and communicative services. We know that a
+                                        successful campaign comes
+                                        down to continual optimization and refinement. Only through a highly targeted and tightly
+                                        managed structure can you
+                                        achieve a higher conversion rate for a better price. Feel free to contact us to increase
+                                        your prospects and conversions
                                         through online advertisements, an internet PR strategy, or SNS marketing.
                                     </p>
                                     <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow" href="/en/services/digital-marketing.php">Learn more <span class="hidden-xs">about our Digital Marketing services</span></a>
+                                        <a target="_blank" class="main-btn --yellow"
+                                            href="/en/services/digital-marketing.php">Learn more <span class="hidden-xs">about our
+                                                Digital Marketing services</span></a>
                                     </div>
                             </div>
                         </div>
@@ -765,10 +643,12 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Web Content Creation</h4>
                                     <p>
-                                        We aim to provide you with content creation services of the highest quality, 
-                                        producing content according to your business goals, and allowing you to secure 
-                                        a larger audience in the process. We can further help you translate your content into Indonesian, 
-                                        Japanese or English, whilst implementing SEO in order to improve your website’s overall performance.
+                                        We aim to provide you with content creation services of the highest quality,
+                                        producing content according to your business goals, and allowing you to secure
+                                        a larger audience in the process. We can further help you translate your content into
+                                        Indonesian,
+                                        Japanese or English, whilst implementing SEO in order to improve your website’s overall
+                                        performance.
                                     </p>
                             </div>
                         </div>
@@ -781,15 +661,17 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Landing Page Optimization</h4>
                                     <p>
-                                        LOGIQUE seeks to create & optimize your Landing Page for SEO, 
-                                        with the end goal of getting your business as many visitors and conversions as possible. 
-                                        We can work flexibly according to your specific requirements and needs, which may include installing AMP, 
-                                        conducting A/B testing, or creating HTML5 banners. We are always ready to help, should you have any other concerns.
+                                        LOGIQUE seeks to create & optimize your Landing Page for SEO,
+                                        with the end goal of getting your business as many visitors and conversions as possible.
+                                        We can work flexibly according to your specific requirements and needs, which may include
+                                        installing AMP,
+                                        conducting A/B testing, or creating HTML5 banners. We are always ready to help, should you
+                                        have any other concerns.
                                     </p>
                             </div>
                         </div>
                     </section>
-                
+
                     <div class="text-center --back-top">
                         <a href="portfolio.php#others">
                             <div class="main-btn --black">Portfolio</div>
@@ -819,11 +701,11 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">E-Commerce Development</h3>
                                 <p>
-                                    We help clients build and run scalable well designed E-commerce enterprises, 
-                                    which can be customized and developed based on state of the art UI / UX trends. 
-                                    Having extensive experience in MLM E-commerce development, as well as Flash-scale & Market Place type E-commerce, 
-                                    we can further the development of your E-commerce endeavors through high-tech means, such as PWA. Please consult with 
-                                    us in regards to anything related to your E-Commerce needs. 
+                                    We help clients build and run scalable well-designed e-commerce enterprises, which can be
+                                    customized and developed based on state of the art UI / UX trends. Having extensive experience
+                                    in MLM E-commerce development, as well as Flash-sale & Market Places, we can further develop
+                                    your E-commerce endeavors through a novel aproach, such as using PWA. Please consult with us
+                                    in regards to anything related to your E-Commerce needs.
                                 </p>
                             </div>
                         </div>
@@ -937,7 +819,8 @@
                                         development (iOS/Android/Hybrid/PWA)
                                     </p>
                                     <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow" href="/en/services/mobile-app-dev.php">Learn more <span class="hidden-xs">about our Mobile App Developmnet service</span></a>
+                                        <a target="_blank" class="main-btn --yellow" href="/en/services/mobile-app-dev.php">Learn
+                                            more <span class="hidden-xs">about our Mobile App Developmnet service</span></a>
                                     </div>
                             </div>
                         </div>
@@ -988,14 +871,17 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Security Assesment (Vulnerability Scanning / Pen-Test)</h3>
                                 <p>
-                                    Through conducting penetration tests and by assessing the vulnerability of your website/application, 
-                                    you can prevent attacks from SQL injections, cross site scripting, session jacking, etc. 
-                                    At the very least, we can help you maximize the security potential of your digital assets. 
-                                    Additionally, our experts can conduct security assessment for a reasonable price so that you need 
+                                    Through conducting penetration tests and by assessing the vulnerability of your
+                                    website/application,
+                                    you can prevent attacks from SQL injections, cross site scripting, session jacking, etc.
+                                    At the very least, we can help you maximize the security potential of your digital assets.
+                                    Additionally, our experts can conduct security assessment for a reasonable price so that you
+                                    need
                                     not hesitate to pen-test your online assets.
                                 </p>
                                 <div class="service-detail__btn-wrapper">
-                                    <a class="main-btn --yellow" href="services/penetration-test.php">Learn more <span class="">about Pen-Test</span></a>
+                                    <a class="main-btn --yellow" href="services/penetration-test.php">Learn more <span
+                                            class="">about Pen-Test</span></a>
                                 </div>
                             </div>
                         </div>
@@ -1026,12 +912,18 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Graphic Design</h4>
                                     <p>
-                                        Through creating flyer/brochure designs and marketing collateral, we will be able to effectively 
-                                        amplify your key message in a memorable way. From creating single information leaflets to running 
-                                        direct marketing campaigns, our creative team is well versed in producing powerful business tools 
-                                        aimed at strengthening your brand credibility. Through these means, LOGIQUE builds targeted and 
-                                        authentic connections using innovative materials and the latest print design techniques, thereby 
-                                        maximizing the efficacy of your collateral and ensuring the cost effectiveness of your flyer design. 
+                                        Through creating flyer/brochure designs and marketing collateral, we will be able to
+                                        effectively
+                                        amplify your key message in a memorable way. From creating single information leaflets to
+                                        running
+                                        direct marketing campaigns, our creative team is well versed in producing powerful
+                                        business tools
+                                        aimed at strengthening your brand credibility. Through these means, LOGIQUE builds
+                                        targeted and
+                                        authentic connections using innovative materials and the latest print design techniques,
+                                        thereby
+                                        maximizing the efficacy of your collateral and ensuring the cost effectiveness of your
+                                        flyer design.
                                     </p>
                                     <div class="service-detail__btn-wrapper">
                                         <a class="main-btn --yellow" href="portfolio.php#others">See More</a>
@@ -1047,10 +939,13 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Could Server Operation (AWS / Alibaba Cloud)</h4>
                                     <p>
-                                        We are a certified AWS Partner, being able to set up optimized AWS infrastructure has allowed us to 
-                                        provide you with an agent service so as to obtain an Indonesian Corporate Domain (“co.id”). 
-                                        We can also set up a DNS and Global SSL for you, further providing rent web servers such as AWS, 
-                                        Alibaba Cloud and GIO Cloud. 
+                                        We are a certified AWS Partner, being able to set up optimized AWS infrastructure has
+                                        allowed us to
+                                        provide you with an agent service so as to obtain an Indonesian Corporate Domain
+                                        (“co.id”).
+                                        We can also set up a DNS and Global SSL for you, further providing rent web servers such
+                                        as AWS,
+                                        Alibaba Cloud and GIO Cloud.
                                     </p>
                             </div>
                         </div>
@@ -1063,8 +958,9 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">IT Business Consulting</h4>
                                     <p>
-                                        We are able to provide various consulting services through the “Indonesia x IT” field, 
-                                        which include IT Tool selection advisory, business consultancy operations through utilizing IT, 
+                                        We are able to provide various consulting services through the “Indonesia x IT” field,
+                                        which include IT Tool selection advisory, business consultancy operations through
+                                        utilizing IT,
                                         internet business launching support, IT security assessment and much more.
                                     </p>
                             </div>
@@ -1080,6 +976,174 @@
                     </div>
                 </div>
             </section>
+
+            <section class="section-divider" id="othersService_">
+                <div class="bg--black">
+                    <div class="container__">
+                        <div class="text-center">
+                            <h1 class="title-index --yellow">Testimonials</h1>
+                            <hr class="title__yellow-line--center">
+                        </div>
+                    </div>
+                </div>
+                <section id="testimonials" class="slider--update-design">
+                    <div class="container__">
+                        <div class="text-center">
+                            <!-- SLIDER -->
+                            <div class="row">
+                                <div class="col-xs-offset-1 col-xs-10">
+                                    <div class="custombox__slider">
+                                        <div class="custombox__custom-slider">
+                                            <div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
+                                                <div class="carousel-inner">
+                                                    <div class="item">
+                                                        <blockquote class="client-testi">
+                                                            <p>As one of the fastest growing life insurance companies, serving our
+                                                                clients
+                                                                online
+                                                                is one of our key
+                                                                principals. LOGIQUE has become an indispensable partner for their
+                                                                work
+                                                                on My
+                                                                SunLife, the Indonesian app
+                                                                UI/UX strategy. As a result, our application has become among the
+                                                                highest
+                                                                rated
+                                                                insurance apps to date. We
+                                                                have frequently assigned LOGIQUE tasks that needed to be done
+                                                                hastily,
+                                                                and
+                                                                they
+                                                                have always delivered the
+                                                                best for us and have never failed our trust. Thank you for your
+                                                                continued
+                                                                cooperation.</p>
+                                                            <br><br>
+                                                            <div class="client-testi__person">
+                                                                <div class="client-testi__line-wrapper">
+                                                                    <hr class="title__yellow-line">
+                                                                </div>
+                                                                <div class="client-testi__p-name">
+                                                                    <b>Mr. Jodie Pratomo,</b><br>
+                                                                    Head of the Digital Experience for Sun Life
+                                                                    Financial.
+                                                                </div>
+                                                            </div>
+                                                        </blockquote>
+                                                    </div>
+                                                    <div class="item">
+                                                        <blockquote class="client-testi">
+                                                            <p>LOGIQUE has a firm grasp of its client’s requirements and needs.
+                                                                Its
+                                                                approach to
+                                                                delivering its service
+                                                                is collaborative, and thus results in the shared ownership of the
+                                                                project it is
+                                                                helping to develop</p>
+                                                            <br><br>
+                                                            <div class="client-testi__person">
+                                                                <div class="client-testi__line-wrapper">
+                                                                    <hr class="title__yellow-line">
+                                                                </div>
+                                                                <div class="client-testi__p-name">
+                                                                    <b>Armiliza Cruz Magno, </b><br>
+                                                                    JAIF.
+                                                                </div>
+                                                            </div>
+                                                        </blockquote>
+                                                    </div>
+
+                                                    <div class="item active">
+                                                        <blockquote class="client-testi">
+                                                            <p>We have been cooperating with Logique, who developed our website of
+                                                                &quot;the 60th
+                                                                Anniversary of Japan-Indonesia Diplomatic Relation&quot; and who
+                                                                has
+                                                                been
+                                                                maintaining the site for us. Logique is meeting our requirements
+                                                                which
+                                                                are
+                                                                detailed and complex. Furthermore, Logique is giving us
+                                                                comprehensive
+                                                                support in
+                                                                the fields of website development as well as SNS operation and
+                                                                digital
+                                                                marketing.
+                                                                Logique’s punctual, flexible and precise work always helps us to
+                                                                fulfil our
+                                                                mission.
+                                                            </p>
+                                                            <br><br>
+                                                            <div class="client-testi__person">
+                                                                <div class="client-testi__line-wrapper">
+                                                                    <hr class="title__yellow-line">
+                                                                </div>
+                                                                <div class="client-testi__p-name">
+                                                                    <b>Steering Committee,</b><br>
+                                                                    The Commemorative Events of the 60th Anniversary of Japan –
+                                                                    Indonesia Diplomatic
+                                                                    Relations.
+                                                                </div>
+                                                            </div>
+                                                        </blockquote>
+                                                    </div>
+                                                    <div class="item">
+                                                        <blockquote class="client-testi">
+                                                            <p>We are a car and motorcycle auctioning business. LOGIQUE has helped
+                                                                us
+                                                                to develop
+                                                                various systems which
+                                                                require specific customizations in order to fit our process which
+                                                                cannot be
+                                                                covered by any existing
+                                                                systems software. We appreciate how LOGIQUE has been working
+                                                                steadily
+                                                                and flexibly
+                                                                with us, even though
+                                                                our requirements are sometimes quite high, as the systems that we
+                                                                require demand
+                                                                the utmost security.
+                                                            </p>
+                                                            <br><br>
+                                                            <div class="client-testi__person">
+                                                                <div class="client-testi__line-wrapper">
+                                                                    <hr class="title__yellow-line">
+                                                                </div>
+                                                                <div class="client-testi__p-name">
+                                                                    <b>Mr. Kazuhiro Shioyama,</b><br>
+                                                                    President Director, PT. JBA Indonesia
+                                                                </div>
+                                                            </div>
+                                                        </blockquote>
+                                                    </div>
+                                                </div>
+                                                <!-- Left and right controls -->
+                                                <a class="left carousel-control" href="#profile" data-slide="prev">
+                                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                                    <span class="sr-only">Previous</span>
+                                                </a>
+                                                <a class="right carousel-control" href="#profile" data-slide="next">
+                                                    <span class="glyphicon glyphicon-chevron-right"></span>
+                                                    <span class="sr-only">Next</span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="client-testi__btn-wrapper --back-top">
+                                <a href="portfolio.php">
+                                    <div class="main-btn --black">See Portfolio</div>
+                                </a>
+                                <a href="#serviceNavigation">
+                                    <div class="main-btn">Back to Top</div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </section>
+
 
             <section id="contact">
                 <div class="container__">
