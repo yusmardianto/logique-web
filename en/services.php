@@ -837,7 +837,7 @@
                                 <h3 class="service-detail__title">System Development for Automotive Industry</h3>
                                 <p>
                                     Having developed many systems, delivering them successfully to various entities in the Automotive Industry 
-                                    (such as car manufacturers, vehicle inspectors, car insurance agencies & auction houses), our team is confidant 
+                                    (such as car manufacturers, vehicle inspectors, car insurance agencies & auction houses), our team is confident 
                                     in their abilities in understanding and working alongside automotive businesses, also being able to effectively offer 
                                     consulting services to them. Some of our many works include working in the Second-hand car market place, and with Online 
                                     Auction systems and Car Inspection Applications. 
