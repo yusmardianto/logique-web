@@ -150,13 +150,15 @@
             <section class="bg--gray">
                 <div class="container__">
                     <div class="text-center">
-                        <h1 class="title-index">LayananKami</h1>
+                        <h1 class="title-index">Layanan Kami</h1>
                         <hr class="title__yellow-line--center">
-                        <p class="title__description" style="margin-bottom:20px">Di zaman modern ini, di mana semuanya sangat
-                            bergantung pada internet dan teknologi, LOGIQUE Digital Indonesia berupaya untuk membantu klien kami
-                            di bidang yang terkait dengan masalah digital dan TI. Kami memberikan layanan berkualitas tinggi dan
-                            berstandar internasional, dengan bangga memenuhi harapan klien kami dan memenuhi kebutuhan bisnis
-                            mereka. Kami menyediakan berbagai layanan terkait web, seperti desain dan pengembangan website.
+                        <p class="title__description" style="margin-bottom:20px">Kecepatan merupakan salah satu indikator utama
+                            kesuksesan sebuah bisnis. Perubahan kecepatan perkembangan tren IT & Web telah meningkat dengan cepat.
+                            Oleh karena itu, kelincahan dan fleksibilitas adalah dua aset penting yang harus dimanfaatkan dan
+                            dimaksimalkan. <br><br>
+                            Itulah sebabnya, untuk mempromosikan bisnis Anda dengan baik, kami menyediakan layanan pengembangan
+                            web & aplikasi yang cepat dan tepat: menghasilkan hasil dengan kualitas terbaik sambil secara
+                            fleksibel beradaptasi dengan kebutuhan Anda. "
                         </p>
                         <div class="our-service__btn-wrapper">
                             <a href="portofolio.php">
@@ -181,20 +183,20 @@
                                 </div>
                                 <div class="service-list__content">
                                     <a href="#webCreate_">
-                                        <p class="service-list__title">Jasa Pembuatan Website</p>
+                                        <p class="service-list__title">Website Creation</p>
                                     </a>
                                     <ul class="service-list__list">
                                         <a href="#webCreate_revamp">
-                                            <li>Website Perusahaan</li>
+                                            <li>Pembuatan / Revamp Website</li>
                                         </a>
                                         <a href="#webCreate_multi">
                                             <li>Website Multi Bahasa</li>
                                         </a>
                                         <a href="#webCreate_webService">
-                                            <li>Website Layanan</li>
+                                            <li>Pembuatan / Operasi Web Media</li>
                                         </a>
                                         <a href="#webCreate_recruit">
-                                            <li>Website Karir</li>
+                                            <li>Pembuatan Website Recruitment</li>
                                         </a>
                                         <a href="#webCreate_restaurant">
                                             <li>Website Restoran</li>
@@ -202,12 +204,12 @@
                                         <a href="#webCreate_dental">
                                             <li>Website Klinik Gigi</li>
                                         </a>
-                                        <a href="#webCreate_responsive">
+                                        <!-- <a href="#webCreate_responsive">
                                             <li>Website dengan Desain Responsif</li>
                                         </a>
                                         <a href="#webCreate_landing">
                                             <li>Halaman Landing / Kampanye</li>
-                                        </a>
+                                        </a> -->
                                         <a href="#webCreate_blog">
                                             <li>Wordpress</li>
                                         </a>
@@ -220,20 +222,20 @@
                                 </div>
                                 <div class="service-list__content">
                                     <a href="#dm_">
-                                        <p class="service-list__title">Jasa Pemasaran Digital</p>
+                                        <p class="service-list__title">Digital Marketing</p>
                                     </a>
                                     <ul class="service-list__list">
                                         <a href="#dm_seo">
-                                            <li>SEO</li>
+                                            <li>SEO / SEM</li>
                                         </a>
                                         <a href="#dm_itConsult">
-                                            <li>Konsultasi Bisnis Digital</li>
+                                            <li>Pengoperasian Iklan Digital</li>
                                         </a>
                                         <a href="#dm_contentCreate">
                                             <li>Pembuatan Konten Website</li>
                                         </a>
                                         <a href="#dm_digiMarket">
-                                            <li>Iklan Digital / Konsultasi Pemasaran Digital</li>
+                                            <li>Optimasi Landing Page</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -246,9 +248,15 @@
                                 </div>
                                 <div class="service-list__content">
                                     <a href="#sysDev_">
-                                        <p class="service-list__title">Jasa Pengembangan Sistem WEB</p>
+                                        <p class="service-list__title">Web System Development / Maintenance</p>
                                     </a>
                                     <ul class="service-list__list">
+                                        <a href="#sysDev_ecommerce">
+                                            <li>Pengembangan E-Commerce</li>
+                                        </a>
+                                        <a href="#sysDev_automotive">
+                                            <li>Pengembangan Sistem untuk Industri Otomotif</li>
+                                        </a>
                                         <a href="#sysDev_cms">
                                             <li>Pengembangan dan Pengelolaan Sistem Manajemen Konten (CMS)</li>
                                         </a>
@@ -264,17 +272,17 @@
                                 </div>
                                 <div class="service-list__content">
                                     <a href="#mobile_">
-                                        <p class="service-list__title">Jasa Solusi Mobile</p>
+                                        <p class="service-list__title">Mobile Solution</p>
                                     </a>
                                     <ul class="service-list__list">
                                         <a href="#mobile_appCreate">
-                                            <li>Pembuatan Website versi Mobile</li>
+                                            <li>Pembuatan Website Responsif Mobile</li>
                                         </a>
                                         <a href="#mobile_appDev">
                                             <li>Pengembangan Aplikasi Mobile</li>
                                         </a>
                                         <a href="#mobile_pwa">
-                                            <li>Pengembangan PWA (Progressive Web App)</li>
+                                            <li>PWA (Progressive Web App) Development</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -285,11 +293,11 @@
                                 </div>
                                 <div class="service-list__content">
                                     <a href="#webSecurity_">
-                                        <p class="service-list__title">Jasa Keamanan</p>
+                                        <p class="service-list__title">IT Security Service</p>
                                     </a>
                                     <ul class="service-list__list">
                                         <a href="#webSecurity_va">
-                                            <li>Pengetesan Keamanan Website (VA Test)</li>
+                                            <li>Pengetesan Keamanan (Scan Kerentanan / Pen-Test)</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -300,17 +308,17 @@
                                 </div>
                                 <div class="service-list__content">
                                     <a href="#othersService_">
-                                        <p class="service-list__title">Jasa Lainnya</p>
+                                        <p class="service-list__title">Others</p>
                                     </a>
                                     <ul class="service-list__list">
                                         <a href="#othersService_graphic">
                                             <li>Desain Grafis</li>
                                         </a>
                                         <a href="#otherService_server">
-                                            <li>Agen Web Server dan Domain</li>
+                                            <li>Operasi Server Cloud (AWS / Alibaba Cloud)</li>
                                         </a>
                                         <a href="#otherService_itConsultant">
-                                            <li>Konsultan Bisnis IT</li>
+                                            <li>Konsultasi Bisnis IT</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -345,7 +353,7 @@
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/pwa.png" alt="">
-                                        Buat PWA
+                                        Buat PWA (Web App)
                                     </div>
                                 </a>
                             </div>
@@ -420,7 +428,7 @@
                 <div class="bg--black">
                     <div class="container__">
                         <div class="text-center">
-                            <h1 class="title-index --yellow">Jasa Pembuatan Website</h1>
+                            <h1 class="title-index --yellow">Website Creation</h1>
                             <hr class="title__yellow-line--center">
                         </div>
                     </div>
@@ -434,7 +442,7 @@
                                         <hr class="title__yellow-line">
                                     </div>
                                     <div class="service-detail__content">
-                                        <h3 class="service-detail__title">Website Perusahaan</h4>
+                                        <h3 class="service-detail__title">Pembuatan / Revamp Website</h4>
                                             <p>Kami dapat membantu Anda untuk menciptakan sebuah website profesional yang efektif
                                                 untuk menyampaikan nilai-nilai perusahaan Anda. Kami juga menyediakan layanan
                                                 pembelian domain, web server, SLL, layanan fotografi atau pembuatan video, serta
@@ -443,6 +451,10 @@
                                                 usaha. Dalam proses pengembangannya, kami akan selalu memberikan solusi kreatif
                                                 dan fungsional sesuai dengan perkembangan teknologi dan tren terkini di dunia
                                                 digital.</p>
+                                            <div class="service-detail__btn-wrapper">
+                                                <a class="main-btn --yellow" href="portofolio.php#webDev">Lihat Contoh
+                                                    <span class="hidden-xs">Pembuatan Website</span></a>
+                                            </div>
                                     </div>
                                 </div>
                             </section>
@@ -453,12 +465,11 @@
                                     </div>
                                     <div class="service-detail__content">
                                         <h3 class="service-detail__title">Website Multi Bahasa</h4>
-                                            <p>Website Multi Bahasa dapat secara efektif menjangkau pelanggan dari berbagai
-                                                belahan dunia. LOGIQUE menyediakan jasa pembuatan website multi bahasa
-                                                berkualitas. Kami sudah sangat berpengalaman dalam pembuatan website multi bahasa
-                                                mencakup Bahasa Indonesia, Inggris, dan Jepang. Anda juga dapat mengandalkan kami
-                                                jika membutuhkan bantuan jasa penerjemah atau perbaikan tata bahasa untuk konten
-                                                website Anda.
+                                            <p>Website multi bahasa yang berkualitas dapat memberikan anda calon pelanggan
+                                                internasional. LOGIQUE menyediakan jasa pembuatan website dengan harga yang cocok
+                                                untuk menjangkau pelanggan di dalam dan di luar negeri. Kami memiliki banyak
+                                                pengalaman dalam pengembangan website dengan tiga bahasa; Inggris, Indonesia, dan
+                                                Jepang.
                                             </p>
                                     </div>
                                 </div>
@@ -469,13 +480,12 @@
                                         <hr class="title__yellow-line">
                                     </div>
                                     <div class="service-detail__content">
-                                        <h3 class="service-detail__title">Website Layanan</h4>
-                                            <p>Bagi Anda yang ingin mengembangkan bisnis layanan berbasis web, kami juga dapat
-                                                mewujudkannya untuk Anda. Kami akan membantu mulai dari perencanaan ide bisnis,
-                                                pembuatan desain, pengembangan sistem, sampai dengan pengelolaannya. Berbagai
-                                                situs web layanan yang telah kami kembangkan sebelumnya adalah website lelang
-                                                mobil bekas online, sistem pengelolaan poin hadiah, portal berita, toko online,
-                                                website komunitas, manajemen keanggotaan, dan masih banyak lagi.</p>
+                                        <h3 class="service-detail__title">Pembuatan / Operasi Web Media</h4>
+                                            <p>Kami dapat membantu Anda dalam berbagai fase pengembangan Web Media atau Web
+                                                Service; mulai dari perencanaan, pembuatan template desain, sampai dengan
+                                                pemeliharaan website dalam format / bahasa pemrograman apapun. Baik itu
+                                                e-commerce, sistem pelelangan mobil, sistem sumber daya manusia, sistem point
+                                                management, website CRM untuk management membership atau kominitas tertutup.</p>
                                     </div>
                                 </div>
                             </section>
@@ -485,17 +495,16 @@
                                         <hr class="title__yellow-line">
                                     </div>
                                     <div class="service-detail__content">
-                                        <h3 class="service-detail__title">Website Karir</h4>
-                                            <p>Logique menyadari banyak perusahaan mengalami kesulitan untuk mendapatkan karyawan
-                                                dengan kriteria yang sesuai dengan kebutuhan perusahaan. LOGIQUE memberikan solusi
-                                                pembuatan website karir yang dapat menjadi kunci kesuksesan dari proses rekrutmen
-                                                perusahaan Anda. Melalui website karir, Anda dapat memberikan beragam informasi
-                                                dengan jelas seperti lowongan kerja terbaru, suasana kerja, serta keuntungan yang
-                                                didapat oleh calon kandidat jika bekerja di perusahaan Anda. Kami telah memiliki
-                                                banyak pengalaman dalam pembuatan website karir untuk membantu proses rekrutmen
-                                                karyawan di berbagai perusahaan klien kami</p>
+                                        <h3 class="service-detail__title">Pembuatan Website Rekrutmen</h4>
+                                            <p>Kami sadar bahwa banyak perusahaan menghadapi kesulitan dalam perekrutan kandidat
+                                                yang dapat mencapai standar perusahaan. LOGIQUE menyediakan solusi untuk membuat
+                                                halaman website karir yang terfokus pada metode perekrutan yang efektif. Melalui
+                                                website karir, perusahaan dapat menyediakan informasi-informasi penting yang
+                                                berhubungan dengan lowongan kerja lingkungan kerja, dan keuntungan-keuntungan yang
+                                                diberikan oleh perusahaan.</p>
                                             <div class="service-detail__btn-wrapper">
-                                                <a class="main-btn --yellow" href="layanan/pembuatan-web-karir.php">See More</a>
+                                                <a class="main-btn --yellow" href="layanan/pembuatan-web-karir.php">Pelajari Lebih
+                                                    <span class="hidden-xs">tentang Pembuatan Website Rekrutmen</span></a>
                                             </div>
                                     </div>
                                 </div>
@@ -523,7 +532,8 @@
                                         reservasi, jam operasional, event, lokasi, kontak, promo dan info lainnya. Dengan adanya
                                         website, maka Anda dapat mempromosikan restoran Anda tanpa henti setiap hari.</p>
                                     <div class="service-detail__btn-wrapper">
-                                        <a class="main-btn --yellow" href="layanan/pembuatan-website-restoran/">See More</a>
+                                        <a class="main-btn --yellow" href="layanan/pembuatan-website-restoran/">Pelajari Lebih
+                                            <span class="hidden-xs">tentang Website Restoran</span></a>
                                     </div>
                             </div>
                         </div>
@@ -541,12 +551,13 @@
                                         yang Anda buat dapat menjadi media promosi yang baik dengan jangkauan yang lebih luas
                                         tanpa ada batasan waktu.</p>
                                     <div class="service-detail__btn-wrapper">
-                                        <a class="main-btn --yellow" href="layanan/pembuatan-web-klinik-gigi.php">See More</a>
+                                        <a class="main-btn --yellow" href="layanan/pembuatan-web-klinik-gigi.php">Pelajari Lebih
+                                            <span class="hidden-xs">tentang Website Klinik Gigi</span></a>
                                     </div>
                             </div>
                         </div>
                     </section>
-                    <section id="webCreate_responsive">
+                    <!-- <section id="webCreate_responsive">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
@@ -582,7 +593,7 @@
                                         Anda walau hanya untuk satu halaman web saja.</p>
                             </div>
                         </div>
-                    </section>
+                    </section> -->
                     <section id="webCreate_blog">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
@@ -590,11 +601,10 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Wordpress</h4>
-                                    <p>Kami juga memberikan layanan instalasi dan kustomisasi Wordpress, mulai dari mendesain,
-                                        mengembangkan, dan meningkatkan keamanan blog yang Anda miliki sesuai dengan kebutuhan
-                                        yang Anda inginkan. Saat ini terdapat banyak blog yang memiliki celah keamanan yang dapat
-                                        memberikan banyak kerugian. Oleh karena itu, segera hubungi kami untuk memastikan serta
-                                        meningkatkan sistem keamanan blog Anda.</p>
+                                    <p>Kami juga menyediakan pemasangan WordPress dan layanan kustomisasi . Kami juga dapat
+                                        mendesain, mengimplementasi, dan memperbaiki keamanan blog Anda. Saat ini, ada banyak blog
+                                        / Situs web yang menghadapi masalah kerentanan keamanan. Karena itu, silakan hubungi kami
+                                        segera agar kami dapat memastikan integritas sistem keamanan blog Anda.</p>
                             </div>
                         </div>
                     </section>
@@ -613,7 +623,7 @@
                 <div class="bg--black">
                     <div class="container__">
                         <div class="text-center">
-                            <h1 class="title-index --yellow">Jasa Pemasaran Digital</h1>
+                            <h1 class="title-index --yellow">Digital Marketing</h1>
                             <hr class="title__yellow-line--center">
                         </div>
                     </div>
@@ -625,16 +635,20 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">SEO</h4>
-                                    <p>Untuk mendapatkan hasil optimasi SEO terbaik, kami tidak hanya mengimplementasikan metode
-                                        SEO saja, namun juga memberikan perhatian kepada peningkatan dan perbaikan website itu
-                                        sendiri. Tim profesional kami dapat menangani optimasi SEO menggunakan keyword dalam
-                                        bahasa Indonesia, Inggris, dan Jepang. Kami memiliki pengalaman mempertahankan salah satu
-                                        perusahaan keuangan terbesar di Indonesia untuk menempati peringkat pertama di halaman
-                                        pencarian Google dalam jangka waktu yang lama.</p>
+                                <h3 class="service-detail__title">SEO / SEM</h4>
+                                    <p>Kami akan melakukan analisis secara mendalam terhadap optimasi halaman web Anda. Layanan
+                                        kami mencakup metode pemantauan data dan analisis kebiasaan pengguna. Taraf ukur
+                                        keberhasilan kami tidak hanya terbatas pada implementasi SEO, namun juga melalui perbaikan
+                                        website secara umum. <br><br>
+                                        Hal ini dapat dibuktikan dari pengalaman-pengalaman SEO kami dalam bahasa Jepang, Inggris,
+                                        dan Indonesia. Kami telah berhasil untuk menjaga salah satu pelanggan kami (sebuah
+                                        perusahaan finansial) untuk tetap terdaftar di peringkat 1 di Google dengan menggunakan
+                                        kata-kata kunci tertentu. Strategi SEO yang kokoh menggabungkan optimasi konten dan
+                                        teknis. Selain dari itu, kami juga berpengalaman di bidang SEM.</p>
                                     <div class="service-detail__btn-wrapper">
                                         <a target="_blank" class="main-btn --yellow"
-                                            href="layanan/digital-marketing/jasa-seo.php">See More</a>
+                                            href="layanan/digital-marketing/jasa-seo.php">Pelajari Lebih <span
+                                                class="hidden-xs">tentang SEO / SEM</span></a>
                                     </div>
                             </div>
                         </div>
@@ -645,10 +659,19 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Konsultasi Bisnis Digital</h4>
-                                    <p>LOGIQUE memiliki solusi terbaik yang dapat Anda implementasikan untuk mengembangkan bisnis
-                                        menjadi lebih besar. Dengan memanfaatkan kekuatan teknologi digital, kami akan membantu
-                                        mengelola bisnis Anda untuk mendapatkan keuntungan yang maksimal.</p>
+                                <h3 class="service-detail__title">Pengoperasian Iklan Digital</h4>
+                                    <p>Kami menawarkan pendekatan berorientasi hasil dan managementpay-per-click, menyediakan
+                                        kampanye (campaign) yang transparan dan terukur, memungkinkan untuk pengevaluasian
+                                        kesuksesan terhadap target. Kami berpengalaman di berbagai industri vertikal dan
+                                        menawarkan layanan proaktif, strategis dan sangat komunikatif. Kami tahu bahwa kampanye
+                                        yang berhasil mengarah pada pengoptimalan dan penyempurnaan berkelanjutan. Hanya melalui
+                                        struktur yang tertata dan terkelola dengan ketat, Anda dapat meningkatkan konversi dengan
+                                        harga yang lebih baik. Jangan ragu untuk menghubungi kami untuk meningkatkan prospek dan
+                                        konversi Anda melalui iklan online, strategi PR internet, atau pemasaran SNS.</p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a target="_blank" class="main-btn --yellow" href="layanan/digital-marketing.php">Pelajari
+                                            Lebih <span class="hidden-xs">tentang Pengoperasian Iklan Digital</span></a>
+                                    </div>
                             </div>
                         </div>
                     </section>
@@ -659,11 +682,11 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Pembuatan Konten Website</h4>
-                                    <p>Kami melayani pembuatan konten berkualitas tinggi untuk website Anda. Kami akan menciptakan
-                                        konten sesuai dengan tujuan bisnis Anda, sehingga dapat menarik banyak target audiens.
-                                        Selain itu, kami juga dapat membantu menerjemahkan konten yang Anda miliki ke dalam Bahasa
-                                        Indonesia, Inggris, dan Jepang. Selain itu, kami juga akan membuat konten dengan
-                                        menerapkan SEO sehingga dapat membantu performa peringkat web Anda.</p>
+                                    <p>Kami berupaya untuk memberikan layanan pembuatan konten berkualitas tinggi kepada Anda.
+                                        Dengan membuat konten sesuai dengan tujuan bisnis Anda, Anda dapat mendapatkan hasil yang
+                                        terbaik dan menjangkau lebih banyak pelanggan. Kami juga dapat membantu Anda menerjemahkan
+                                        konten ke dalam bahasa Indonesia, Jepang, atau Inggris, ataupun membuat konten untuk
+                                        meningkatkan kinerja web Anda dengan menerapkan SEO.</p>
                             </div>
                         </div>
                     </section>
@@ -673,17 +696,12 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Iklan Digital / Konsultasi Pemasaran Digital</h4>
-                                    <p>LOGIQUE memiliki reputasi yang baik dari klien dalam meningkatkan bisnis melalui digital
-                                        marketing. Baik dari Google Ads (Search & Display Ads) atau Social Media Ads (Facebook,
-                                        Instagram, lainnya), kami dapat meningkatkan keuntungan bisnis Anda melalui semua platform
-                                        yang ada. Kami dapat meningkatkan penjualan atau konversi, traffic website melalui
-                                        pemasaran digital, content marketing, dan lain-lain. Hubungi kami untuk mengetahui lebih
-                                        lanjut tentang layanan ini.</p>
-                                    <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow" href="layanan/digital-marketing.php">See
-                                            More</a>
-                                    </div>
+                                <h3 class="service-detail__title">Optimasi Landing Page</h4>
+                                    <p>LOGIQUE dapat melakukan pengoptimasian SEO terbaik untuk halaman website Anda untuk
+                                        meningkatkan pengunjung dan konversi. Kami dapat bekerja secara fleksibel untuk memenuhi
+                                        kebutuhan Anda, yang mungkin termasuk pemasangan AMP, pelaksanaan A/B test, ataupun
+                                        pembuatan banner HTML5. Kami akan selalu siap untuk membantu jika Anda memiliki masalah
+                                        apapun.</p>
                             </div>
                         </div>
                     </section>
@@ -702,12 +720,43 @@
                 <div class="bg--black">
                     <div class="container__">
                         <div class="text-center">
-                            <h1 class="title-index --yellow">Jasa Pengembangan Sistem WEB</h1>
+                            <h1 class="title-index --yellow">Web System Development / Maintenance</h1>
                             <hr class="title__yellow-line--center">
                         </div>
                     </div>
                 </div>
                 <div class="container__">
+                    <section id="sysDev_ecommerce">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Pengembangan E-Commerce</h3>
+                                <p>Kami membantu klien membangun dan mengelola website perusahaan e-commerce, yang dapat
+                                    dikustomisasi dan dikembangkan berdasarkan tren UI / UX terkini. Kami memiliki banyal
+                                    pengalaman dalam pengembangan E-commerce MLM, serta Flash-sale & Market Places. Kami juga
+                                    dapat mengembangkan usaha E-commerce Anda dengan menggunakan pendekatan baru, seperti PWA.
+                                    Silakan berkonsultasi dengan kami dalam hal apa pun yang berkaitan dengan kebutuhan E-Commerce
+                                    Anda.</p>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="sysDev_automotive">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Pengembangan Sistem untuk Industri Otomotif</h3>
+                                <p>Tim kami mampu untuk memahami dan bekerja bersama bisnis otomotif karena kami pernah
+                                    mengembangkan berbagai sistem untuk industri Otomotif (seperti produsen mobil, pengawas
+                                    kendaraan, agen asuransi mobil & rumah lelang). Selain itu, kami juga dapat menawarkan layanan
+                                    konsultasi secara efektif. Beberapa dari banyak pekerjaan kami termasuk bekerja di pasar mobil
+                                    bekas, sistem Lelang Online, dan Aplikasi Inspeksi Mobil.</p>
+                            </div>
+                        </div>
+                    </section>
                     <section id="sysDev_cms">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
@@ -751,7 +800,7 @@
                 <div class="bg--black">
                     <div class="container__">
                         <div class="text-center">
-                            <h1 class="title-index --yellow">Jasa Solusi Mobile</h1>
+                            <h1 class="title-index --yellow">Mobile Solution</h1>
                             <hr class="title__yellow-line--center">
                         </div>
                     </div>
@@ -787,8 +836,8 @@
                                         membantu Anda untuk mendaftarkan aplikasi yang Anda buat ke App Store / Google Play.</p>
                                     <div class="service-detail__btn-wrapper">
                                         <a target="_blank" class="main-btn --yellow"
-                                            href="layanan/pembuatan-aplikasi-mobile.php">See
-                                            More</a>
+                                            href="layanan/pembuatan-aplikasi-mobile.php">Pelajari Lebih <span
+                                                class="hidden-xs">tentang Pengembangan Aplikasi Mobile</span></a>
                                     </div>
                             </div>
                         </div>
@@ -822,7 +871,7 @@
                 <div class="bg--black">
                     <div class="container__">
                         <div class="text-center">
-                            <h1 class="title-index --yellow">Jasa Keamanan</h1>
+                            <h1 class="title-index --yellow">IT Security Service</h1>
                             <hr class="title__yellow-line--center">
                         </div>
                     </div>
@@ -834,15 +883,15 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Pengetesan Keamanan Website (VA Test)</h3>
-                                <p>LOGIQUE membantu menguji sistem keamanan website untuk mengetahui celah keamanan web Anda. Hal
-                                    ini perlu untuk Anda lakukan untuk menghindari tindak kejahatan digital yang dapat
-                                    membahayakan bisnis Anda, seperti injeksi SQL, cross-site scripting, session jacking, dan
-                                    lain-lain. Tim ahli cyber security kami akan melakukan injection test dengan alat canggih
-                                    untuk menganalisis dan melaporkannya. Dari laporan tersebut, kami akan melakukan sebuah
-                                    tindakan untuk memperbaiki celah dan meningkatkan keamanan web Anda.</p>
+                                <h3 class="service-detail__title">Pengetesan Keamanan (Scan Kerentanan / Pen-Test)</h3>
+                                <p>Dengan melakukan penetration test dan melaporkan kerentanan website/aplikasi, Anda dapat
+                                    menghindari serangan seperti SQL Injection, cross site scripting, session jacking, dll. Paling
+                                    tidak, kami dapat membantu Anda memaksimalkan potensi keamanan web Anda. Selain itu, para ahli
+                                    kami dapat melakukan penilaian keamanan dengan harga yang wajar sehingga Anda tidak perlu ragu
+                                    untuk menguji aset online Anda.</p>
                                 <div class="service-detail__btn-wrapper">
-                                    <a class="main-btn --yellow" href="layanan/penetration-test.php">See More</a>
+                                    <a class="main-btn --yellow" href="layanan/penetration-test.php">Pelajari Lebih <span
+                                            class="hidden-xs">tentang Pengetesan Keamanan</span></a>
                                 </div>
                             </div>
                         </div>
@@ -859,7 +908,7 @@
                 <div class="bg--black">
                     <div class="container__">
                         <div class="text-center">
-                            <h1 class="title-index --yellow">Jasa Lainnya</h1>
+                            <h1 class="title-index --yellow">Others</h1>
                             <hr class="title__yellow-line--center">
                         </div>
                     </div>
@@ -872,13 +921,16 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Desain Grafis</h4>
-                                    <p>Untuk memperkuat bisnis Anda, LOGIQUE tidak hanya mampu mencetak desain pada media kertas
-                                        saja, namun juga termasuk tas, kaos, dan lainnya. Tim produksi kami yang berpengalaman
-                                        dapat membantu mengelola proyek Anda dari awal hingga selesai, serta memastikan secara
-                                        langsung bahwa materi yang Anda gunakan sebagai media pemasaran memiliki kualitas yang
-                                        baik untuk menarik perhatian audiens.</p>
+                                    <p>Dengan pembuatan desain flyer / brosur dan metode pemasaran offline, kami dapat memperkuat
+                                        visi misi perusahaan dengan cara yang unik dan efektif. Dari selebaran informasi hingga
+                                        kampanye pemasaran langsung yang berkelanjutan, tim kreatif kami berupaya merancang dan
+                                        memproduksi alat bisnis canggih yang bertujuan untuk meningkatkan kredibilitas merek Anda
+                                        dan membantu Anda membangun koneksi yang terarah dan otentik melalui penggunaan bahan
+                                        inovatif dan teknik desain cetak terbaru; memaksimalkan efektivitas kolateral Anda dan
+                                        memastikan bahwa desain pamflet Anda hemat biaya</p>
                                     <div class="service-detail__btn-wrapper">
-                                        <a class="main-btn --yellow" href="portofolio.php#others">See More</a>
+                                        <a class="main-btn --yellow" href="portofolio.php#others">Lihat Contoh <span
+                                                class="hidden-xs">tentang Desain Grafis</span></a>
                                     </div>
                             </div>
                         </div>
@@ -889,10 +941,11 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Agen Web Server dan Domain</h4>
-                                    <p>LOGIQUE membantu Anda dalam melakukan pengaturan domain, DNS, atau SSL. Kami juga
-                                        menyediakan web server terbaik seperti AWS (Web Hosting). Sekarang, mengatur web server &
-                                        domain bukan lagi menjadi hal sulit dengan bantuan yang kami berikan.</p>
+                                <h3 class="service-detail__title">Operasi Server Cloud (AWS / Alibaba Cloud)</h4>
+                                    <p>Kami adalah Mitra AWS yang tersertifikasi, yang dapat mengatur dan mengoptimasi
+                                        infrastruktur AWS. Kami dapat memberi Anda agent service untuk mendapatkan Domain
+                                        Perusahaan Indonesia ("co.id"). Kami juga dapat mengatur DNS dan Global SSL untuk Anda,
+                                        dan juga menyediakan server web sewa seperti AWS, Alibaba Cloud dan GIO Cloud.</p>
                             </div>
                         </div>
                     </section>
@@ -902,11 +955,10 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Konsultan Bisnis IT</h4>
-                                    <p>LOGIQUE menyediakan berbagai macam layanan konsultasi bisnis IT di Indonesia. Kami siap
-                                        membantu Anda dalam mengelola bisnis Anda di bidang IT, seperti membantu memilih software
-                                        IT yang tepat, pengecekan keamanan sistem IT, membantu pengembangan bisnis internet, dan
-                                        masih banyak lagi.</p>
+                                <h3 class="service-detail__title">Konsultasi Bisnis IT</h4>
+                                    <p>Kami dapat menyediakan berbagai layanan konsultasi melalui bidang "Indonesia x IT" seperti
+                                        konsultasi pengoperasian bisnis dengan memanfaatkan IT, penasihat pemilihan Alat TI,
+                                        penilaian keamanan TI, dukungan peluncuran bisnis internet, dan banyak lagi.</p>
                             </div>
                         </div>
                     </section>
