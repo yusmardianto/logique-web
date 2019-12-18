@@ -227,6 +227,21 @@
                                     </ul>
                                 </div>
                             </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/security.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#webSecurity_">
+                                        <p class="service-list__title">セキュリティー・サービス</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#webSecurity_va">
+                                            <li>Webセキュリティ診断（脆弱性診断・検査）</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                         <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
                             <div class="service-list__item">
@@ -276,21 +291,6 @@
                             </div>
                             <div class="service-list__item">
                                 <div>
-                                    <img src="../img/service/list/security.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#webSecurity_">
-                                        <p class="service-list__title">セキュリティー・サービス</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#webSecurity_va">
-                                            <li>Webセキュリティ診断（脆弱性診断・検査）</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="service-list__item">
-                                <div>
                                     <img src="../img/service/list/lain.png" alt="" class="service-list__img">
                                 </div>
                                 <div class="service-list__content">
@@ -321,7 +321,7 @@
                                             <div class="web-solution__half-bg--round"></div>
                                             <img class="web-solution__img" src="../img/service/button/web.png" alt="">
                                         </div>
-                                        → Web制作
+                                        Web制作
                                     </div>
                                 </a>
                                 <a href="services/system-dev.php">
@@ -330,7 +330,7 @@
                                             <div class="web-solution__half-bg--round"></div>
                                             <img class="web-solution__img" src="../img/service/button/repair.png" alt="">
                                         </div>
-                                        → システム開発
+                                        システム開発
                                     </div>
                                 </a>
                                 <a href="services/mobile-app-dev.php">
@@ -339,7 +339,7 @@
                                             <div class="web-solution__half-bg--round"></div>
                                             <img class="web-solution__img" src="../img/service/button/mobi.png" alt="">
                                         </div>
-                                        → モバイルアプリ開発
+                                        モバイルアプリ開発
                                     </div>
                                 </a>
                                 <a href="services/mobile-app-dev.php#solusi-section">
@@ -348,7 +348,7 @@
                                             <div class="web-solution__half-bg--round"></div>
                                             <img class="web-solution__img" src="../img/service/button/pwa.png" alt="">
                                         </div>
-                                        → PWA（ウェブApp)開発
+                                        PWA（ウェブApp)開発
                                     </div>
                                 </a>
                             </div>

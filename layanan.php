@@ -240,6 +240,21 @@
                                     </ul>
                                 </div>
                             </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/security.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#webSecurity_">
+                                        <p class="service-list__title">IT Security Service</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#webSecurity_va">
+                                            <li>Pengetesan Keamanan (Scan Kerentanan / Pen-Test)</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                         <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
                             <div class="service-list__item">
@@ -283,21 +298,6 @@
                                         </a>
                                         <a href="#mobile_pwa">
                                             <li>PWA (Progressive Web App) Development</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="service-list__item">
-                                <div>
-                                    <img src="../img/service/list/security.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#webSecurity_">
-                                        <p class="service-list__title">IT Security Service</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#webSecurity_va">
-                                            <li>Pengetesan Keamanan (Scan Kerentanan / Pen-Test)</li>
                                         </a>
                                     </ul>
                                 </div>
