@@ -452,7 +452,7 @@
                                                 dan fungsional sesuai dengan perkembangan teknologi dan tren terkini di dunia
                                                 digital.</p>
                                             <div class="service-detail__btn-wrapper">
-                                                <a class="main-btn --yellow" href="portofolio.php#webDev">Lihat Contoh
+                                                <a class="main-btn --yellow" href="portofolio.php">Lihat Contoh
                                                     <span class="hidden-xs">Pembuatan Website</span></a>
                                             </div>
                                     </div>
@@ -669,8 +669,8 @@
                                         harga yang lebih baik. Jangan ragu untuk menghubungi kami untuk meningkatkan prospek dan
                                         konversi Anda melalui iklan online, strategi PR internet, atau pemasaran SNS.</p>
                                     <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow" href="layanan/digital-marketing.php">Pelajari
-                                            Lebih <span class="hidden-xs">tentang Pengoperasian Iklan Digital</span></a>
+                                        <a target="_blank" class="main-btn --yellow" href="layanan/digital-marketing.php">Lihat
+                                            Contoh <span class="hidden-xs">tentang Pengoperasian Iklan Digital</span></a>
                                     </div>
                             </div>
                         </div>
