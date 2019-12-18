@@ -189,11 +189,13 @@
             .csection5 .grafik2 {
                 top: 0;
             }
+
             .csection5 .kuning_,
             .csection5 .margin_ {
                 height: auto;
             }
         }
+
         @media only screen and (min-width: 992px) and (max-width: 1279.98px) {
             .csection5 .kuning_ {
                 height: 590px;
@@ -245,7 +247,7 @@
                     <br><br>
                     <div class="row" data-aos="fade-up" data-aos-duration="2000">
                         <div class="col-md-offset-3 col-md-6 text-center">
-                            <a class="btn btn-yellow smooth" href="https://api.whatsapp.com/send?phone=62811870321"
+                            <a class="btn btn-yellow smooth" href="https://api.whatsapp.com/send?phone=6282260567856"
                                 target="_blank" rel="noreferrer" id="wa-hrd"> <i class="fa fa-whatsapp"></i> WA HRD</a>
                             <a class="btn btn-yellow smooth" href="mailto:recruit@logique.co.id" target="_top" id="email-hrd"> <i
                                     class="fa fa-envelope-o"></i> EMAIL HRD</a>
@@ -264,7 +266,8 @@
                         <div class="row">
                             <div class="div-alur">
                                 <div class="bar-step bar-yellow">
-                                    <div class="exp-step"><span>1.</span> Masuk ke Halaman <a href="https://logique.sugoisaiyo.com/" target="_blank">"SUGOI SAIYO"</a></div>
+                                    <div class="exp-step"><span>1.</span> Masuk ke Halaman <a
+                                            href="https://logique.sugoisaiyo.com/" target="_blank">"SUGOI SAIYO"</a></div>
                                     <img src="../img/alur1.png" class="img-responsive pull-left" />
                                 </div>
                                 <div class="bar-step bar-black">
@@ -343,8 +346,8 @@
                                 </div>
                             </div>
                         </div>
-						
-						<div class="col-md-3 card" data-name="4">
+
+                        <div class="col-md-3 card" data-name="4">
                             <div class="panel panel-default">
                                 <div class="panel-body">
                                     <div class="map"><i class="fa fa-map-marker"></i> Jakarta </div>
@@ -362,7 +365,7 @@
                                 </div>
                             </div>
                         </div>
-						
+
                         <div class="col-md-3 card" data-name="10">
                             <div class="panel panel-default">
                                 <div class="panel-body">
@@ -434,8 +437,7 @@
                                         <img src="/img/career/urgent.png">
                                     </div>
                                     <div class="text-center">
-                                        <a class="btn btn-detail" href="detail/project-manager.php"
-                                            id="technical-pm">Detail</a>
+                                        <a class="btn btn-detail" href="detail/project-manager.php" id="technical-pm">Detail</a>
                                     </div>
                                 </div>
                             </div>
@@ -766,7 +768,7 @@
                         </div>
                     </div>
 
-					<br/><br/>
+                    <br /><br />
                     <!-- End Vacancies -->
                     <div class="bg-lowongan" id="internvacancy">
                         <div class="row">
@@ -878,7 +880,7 @@
                     </div>
                     <!-- SECOND LINE -->
                     <div class="row">
-                
+
                     </div>
                 </div>
             </section>
@@ -1438,7 +1440,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-offset-3 col-md-6 text-center">
-                            <a class="btn btn-yellow smooth" href="https://api.whatsapp.com/send?phone=62811870321"
+                            <a class="btn btn-yellow smooth" href="https://api.whatsapp.com/send?phone=6282260567856"
                                 target="_blank" rel="noreferrer" id="wa-hrd"> <i class="fa fa-whatsapp"></i> WA HRD</a>
                             <a class="btn btn-yellow smooth" href="mailto:recruit@logique.co.id" target="_top" id="email-hrd"> <i
                                     class="fa fa-envelope-o"></i> EMAIL HRD</a>
