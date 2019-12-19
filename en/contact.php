@@ -702,880 +702,326 @@ if(isset($_POST['submitted']))
             </div>
         </div>
 
-        <div class="content-wrapper__">
-            <div id="contents">
+        <div class="content-wrapper__" id="contents">
 
-                <section class="--top" style="background-color: #f4f4f4;">
-                    <div class="container__" style="padding:0">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                    itemtype="http://schema.org/BreadcrumbList">
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item" href="index.php"><span itemprop="name">Home</span></a>
-                                        <meta itemprop="position" content="1" />
-                                    </li>
-                                    <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                        <a itemprop="item"><span itemprop="name">&nbsp;Contact Us</span></a>
-                                        <meta itemprop="position" content="2" />
-                                    </li>
-                                </ol>
-                            </div>
+            <section class="--top" style="background-color: #f4f4f4;">
+                <div class="container__" style="padding:0">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <ol class="breadcrumb breadcrumb--update-design" itemscope
+                                itemtype="http://schema.org/BreadcrumbList">
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                        href="index.php"><span itemprop="name">Home</span></a>
+                                    <meta itemprop="position" content="1" />
+                                </li>
+                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                                    <a itemprop="item"><span itemprop="name">&nbsp;Contact Us</span></a>
+                                    <meta itemprop="position" content="2" />
+                                </li>
+                            </ol>
                         </div>
                     </div>
-                </section>
+                </div>
+            </section>
 
-                <section style="background-color: #f4f4f4;">
-                    <div class="container__ text-center" style="padding-bottom:0">
-                        <span class="title-index" style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px;">
-                            Contact Us
-                        </span><br><br>
-                        <!-- <hr class="title__yellow-line--center"> -->
-                        <div class="form-container bg-grey" style="padding-top: 10px;">
-                            <div class="contact-us-cont">
-                                Thank you for showing interest in our products. If you wish to obtain further information about
-                                our
-                                services in regards to web creation/development,
-                                SEO optimization and in other IT related matters, please contact us and ask us about anything by
-                                clicking
-                                the button below
-                            </div>
+            <section style="background-color: #f4f4f4;">
+                <div class="container__ text-center" style="padding-bottom:0">
+                    <span class="title-index" style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px;">
+                        Contact Us
+                    </span><br><br>
+                    <!-- <hr class="title__yellow-line--center"> -->
+                    <div class="bg-grey" style="padding-top: 10px;">
+                        <div class="contact-us-cont">
+                            Thank you for showing interest in our products. If you wish to obtain further information about
+                            our
+                            services in regards to web creation/development,
+                            SEO optimization and in other IT related matters, please contact us and ask us about anything by
+                            clicking
+                            the button below
                         </div>
                     </div>
-                </section>
+                </div>
+            </section>
 
-                <section class="bg--black">
-                    <div class="container__" style="padding-top:0;padding-bottom:0">
-                        <div class="row" style="height: fit-content;">
-                            <div class="col-sm-6 col-xs-4">
-                                <img class="img-vector" src="../img/vector_smart_object.png" alt="" style="">
+            <section class="bg--black">
+                <div class="container__" style="padding-top:0;padding-bottom:0">
+                    <div class="row" style="height: fit-content;">
+                        <div class="col-sm-6 col-xs-4">
+                            <img class="img-vector" src="../img/vector_smart_object.png" alt="" style="">
+                        </div>
+                        <div class="col-md-4 col-sm-5" style="padding: 32px 0;">
+                            <dt class="d-title" style="color: #fff; text-align: left;">
+                                Offers solutions for your digital business problems, anytime and anywhere
+                            </dt>
+                            <br>
+                            <a class="btn btn-hubungi smooth" href="#anchorForm" style="font-size: medium; font-weight: 600;">
+                                Contact Us Now
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section>
+                <div class="container__">
+                    <div class="clearfix">
+                        <div class="contact-us-cont" style="padding:0;">
+                            <div class="col-sm-6" style="padding: 1em 0;">
+                                <img class="" src="../img/kontak-img.jpg" alt="Hubungi Kami Logique"
+                                    style="width: 100%; height: auto; max-width: 500px; object-fit: scale-down; border: 2px solid black; padding: 2%;" />
                             </div>
-                            <div class="col-md-4 col-sm-5" style="padding: 32px 0;">
-                                <dt class="d-title" style="color: #fff; text-align: left;">
-                                    Offers solutions for your digital business problems, anytime and anywhere
+                            <div class="col-sm-6" style="padding-top: 5%;">
+                                <dt class="d-title" style="background: #ffd02a; padding:1em;">
+                                    If you feel that improving your website is the key to your business’s success, we are
+                                    ready to
+                                    help
                                 </dt>
-                                <br>
-                                <a class="btn btn-hubungi smooth" href="#anchorForm" style="font-size: medium; font-weight: 600;">
-                                    Contact Us Now
-                                </a>
+                                <p class="d-description">
+                                    With 7 years of experience, LOGIQUE is trusted by various companies at both the national
+                                    and
+                                    international levels.
+                                    In addition, through our professional team, we will be able to offer you with the highest
+                                    quality of
+                                    service for all of your projects
+                                </p>
                             </div>
-                        </div>
-                    </div>
-                </section>
+                            <br>
+                            <div class="col-sm-10 col-sm-offset-1 text-center">
+                                <dt class="d-title" style="margin-top: 3%;">
+                                    Feel free to contact LOGIQUE about creating a website, or inquire about any SEO, social
+                                    media,
+                                    web or
+                                    design related questions you may have
+                                </dt>
+                                <hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;">
+                            </div>
 
-                <section>
-                    <div class="container__">
-                        <div class="clearfix">
-                            <div class="contact-us-cont" style="padding:0;">
-                                <div class="col-sm-6" style="padding: 1em 0;">
-                                    <img class="" src="../img/kontak-img.jpg" alt="Hubungi Kami Logique"
-                                        style="width: 100%; height: auto; max-width: 500px; object-fit: scale-down; border: 2px solid black; padding: 2%;" />
-                                </div>
-                                <div class="col-sm-6" style="padding-top: 5%;">
-                                    <dt class="d-title" style="background: #ffd02a; padding:1em;">
-                                        If you feel that improving your website is the key to your business’s success, we are
-                                        ready to
-                                        help
-                                    </dt>
-                                    <p class="d-description">
-                                        With 7 years of experience, LOGIQUE is trusted by various companies at both the national
-                                        and
-                                        international levels.
-                                        In addition, through our professional team, we will be able to offer you with the highest
-                                        quality of
-                                        service for all of your projects
-                                    </p>
-                                </div>
-                                <br>
-                                <div class="col-sm-10 col-sm-offset-1 text-center">
-                                    <dt class="d-title" style="margin-top: 3%;">
-                                        Feel free to contact LOGIQUE about creating a website, or inquire about any SEO, social
-                                        media,
-                                        web or
-                                        design related questions you may have
-                                    </dt>
-                                    <hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;">
-                                </div>
-
-                                <div class="col-sm-8 col-sm-offset-2 text-center sosmed-contact">
-                                    <a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook"
-                                        rel="noreferrer"><i class="fa fa-facebook-official"
-                                            style="color:#777; font-size: xx-large;"></i></a>
-                                    <a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter"
-                                        rel="noreferrer"><i class="fa fa-twitter"
-                                            style="color:#777; font-size: xx-large;"></i></a>
-                                    <a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram"
-                                        rel="noreferrer"><i class="fa fa-instagram"
-                                            style="color:#777; font-size: xx-large;"></i></a>
-                                    <a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn"
-                                        rel="noreferrer"><i class="fa fa-linkedin-square"
-                                            style="color:#777; font-size: xx-large;"></i></a>
-                                    <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
-                                        aria-label="WhatsApp" rel="noreferrer"><i class="fa fa-whatsapp"
-                                            style="color:#777; font-size: xx-large;"></i></a>
-                                </div>
-                                <br>
-                                <?php if(isset($msg))
+                            <div class="col-sm-8 col-sm-offset-2 text-center sosmed-contact">
+                                <a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook"
+                                    rel="noreferrer"><i class="fa fa-facebook-official"
+                                        style="color:#777; font-size: xx-large;"></i></a>
+                                <a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter"
+                                    rel="noreferrer"><i class="fa fa-twitter" style="color:#777; font-size: xx-large;"></i></a>
+                                <a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram"
+                                    rel="noreferrer"><i class="fa fa-instagram" style="color:#777; font-size: xx-large;"></i></a>
+                                <a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn"
+                                    rel="noreferrer"><i class="fa fa-linkedin-square"
+                                        style="color:#777; font-size: xx-large;"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" aria-label="WhatsApp"
+                                    rel="noreferrer"><i class="fa fa-whatsapp" style="color:#777; font-size: xx-large;"></i></a>
+                            </div>
+                            <br>
+                            <?php if(isset($msg))
 						{
 							echo $msg;
 						}
 						?>
-                                <br>
-                                <div class="" style="margin-top: 3%;">
-                                    <form class="contactform" id="moresco-contactform" role="form" name='myForm'
-                                        onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>'
-                                        method='post' accept-charset='UTF-8'>
-                                        <input type='hidden' name='submitted' id='submitted' value='1' />
-                                        <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>'
-                                            value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
-                                        <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-                                        <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10" id="anchorForm">
-                                            <label for="companyname" class="c-label">Company Name</label>
-                                            <div class="form-group">
-                                                <input type="text" class="form-control" id="companyname" name="companyname"
-                                                    aria-label="Company Name"
-                                                    value='<?php echo $formproc->SafeDisplay('companyname') ?>'
-                                                    placeholder="COMPANY NAME">
-                                            </div>
-                                        </div>
-                                        <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                            <label for="name" class="c-label">Name</label>
-                                            <div class="form-group">
-                                                <input type="text" class="form-control" id="name" name="name" aria-label="Name"
-                                                    value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAME">
-                                            </div>
-                                        </div>
-
-                                        <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                            <label for="phone" class="c-label">Phone Number</label>
-                                            <div class="form-group">
-                                                <input type="number" class="form-control" id="phone" name="phone"
-                                                    aria-label="Phone" value='<?php echo $formproc->SafeDisplay('phone') ?>'
-                                                    placeholder="PHONE NUMBER">
-                                            </div>
-                                        </div>
-                                        <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                            <label for="email" class="c-label">Email</label>
-                                            <div class="form-group">
-                                                <input type="email" class="form-control" id="email" name="email"
-                                                    aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>'
-                                                    placeholder="E-MAIL">
-                                            </div>
-                                        </div>
-
-                                        <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                            <label for="message" class="c-label">Message</label>
-                                            <div class="form-group" style="margin-top: 10px;">
-                                                <textarea class="form-control" name="message" aria-label="Message"
-                                                    placeholder="MESSAGE"><?php echo $formproc->SafeDisplay('message') ?></textarea>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                            <b>Inquiry item:</b> <i>(Multiple answers allowed)</i>
-                                        </div>
-
-                                        <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                            <div class="checkbox">
-                                                <label>
-                                                    <input type="checkbox" name="inquiry[]" value="About website creation">
-                                                    <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About
-                                                    website
-                                                    creation
-                                                </label>
-                                            </div>
-                                            <div class="checkbox">
-                                                <label>
-                                                    <input type="checkbox" name="inquiry[]"
-                                                        value="About web-system development / maintenance">
-                                                    <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About
-                                                    web-system
-                                                    development / maintenance
-                                                </label>
-                                            </div>
-                                            <div class="checkbox">
-                                                <label>
-                                                    <input type="checkbox" name="inquiry[]" value="About web marketing / SEO">
-                                                    <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About
-                                                    web
-                                                    marketing
-                                                    / SEO
-                                                </label>
-                                            </div>
-                                            <div class="checkbox">
-                                                <label>
-                                                    <input type="checkbox" name="inquiry[]" value="About internet advertisement">
-                                                    <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About
-                                                    internet
-                                                    advertisement
-                                                </label>
-                                            </div>
-                                            <div class="checkbox">
-                                                <label>
-                                                    <input type="checkbox" name="inquiry[]"
-                                                        value="About company profile, pamphlet, and other printings">
-                                                    <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About
-                                                    company
-                                                    profile, pamphlet, and other printings
-                                                </label>
-                                            </div>
-                                            <div class="checkbox">
-                                                <label>
-                                                    <input type="checkbox" name="inquiry[]"
-                                                        value="We are looking for companies that would join the tender">
-                                                    <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>We are
-                                                    looking for
-                                                    companies that would join the tender
-                                                </label>
-                                            </div>
-                                            <div class="checkbox">
-                                                <label>
-                                                    <input type="checkbox" name="inquiry[]"
-                                                        value="We are looking for consultants to start a business in Indonesia">
-                                                    <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>We are
-                                                    looking for
-                                                    consultants to start a business in Indonesia
-                                                </label>
-                                            </div>
-                                            <div class="checkbox">
-                                                <label>
-                                                    <input type="checkbox" name="inquiry[]"
-                                                        value="We would like to visit your office the next time you are in Jakarta for a business trip">
-                                                    <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>We would
-                                                    like to
-                                                    visit your office the next time you are in Jakarta for a business trip
-                                                </label>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-sm-12" style="display:flex;justify-content:center; margin-bottom:1em">
-                                            <div class="g-recaptcha pull-right"
-                                                data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
-                                            <div class="clearfix"></div><br>
-                                        </div>
-                                        <div class="col-sm-4 col-sm-offset-4 paddingleft">
-                                            <button type="submit" class="btn btn-block"
-                                                onclick="ga('send', 'event', 'Button-Kirim-EN', 'Action-Click', 'Button-Kirim-EN-Label');"
-                                                style="background: #f4ce58;">Submit</button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-
-                <section class="bg--gray">
-                    <div class="container__">
-                        <div class="clearfix" style="padding-bottom: 10%;">
-                            <div class="d-title-large title-bg-grey">
-                                If you are seeking further information about various matters related to our company, please select
-                                one of
-                                the options below
-                                <div class="col-sm-12">
-                                    <hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;">
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </section>
-
-                <section class="clearfix">
-                    <div class="container__">
-                        <div class="float-box" style="margin-top: 24px; position: relative;">
-                            <div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 12px;">
-                                <a class="box-link" href="services.php">
-                                    <div class="yellow-box">
-                                        <img class="img-box" src="../img/global_1.png" alt="">
-                                        <dt>Services</dt>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 12px;">
-                                <a class="box-link" href="product.php">
-                                    <div class="yellow-box">
-                                        <img class="img-box" src="../img/hr.png" alt="">
-                                        <dt>Product</dt>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 12px;">
-                                <a class="box-link" href="logique.php">
-                                    <div class="yellow-box">
-                                        <img class="img-box" src="../img/group_3.png" alt="">
-                                        <dt>About Us</dt>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 12px;">
-                                <a class="box-link" href="../career">
-                                    <div class="yellow-box">
-                                        <img class="img-box" class="" src="../img/promotion_1.png" alt="">
-                                        <dt>Career</dt>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-
-                <!-- <div class="clearfix"></div> -->
-                <section class="clearfix">
-                    <div class="container__">
-                        <div class="d-title-large title-bg-grey text-center"><b>Procedure of Inquiry Forms</b></div>
-                        <div class="col-sm-12">
-                            <hr class="col-sm-2 col-sm-offset-5 bar-yellow" style="padding: 5px 0; border: none;">
-                        </div>
-                        <div class="overflow-auto">
-                            <ul class="timeline timeline-horizontal">
-
-                                <li class="timeline-item">
-                                    <div class="timeline-badge primary"></div>
-                                    <div class="timeline-panel">
-                                        <div class="timeline-heading">
-                                            <img src="../img/call_center.png" alt="">
-                                        </div>
-                                        <div class="timeline-body">
-                                            <p class="abs-box">
-                                                We will reach you within 2 working days
-                                            </p>
+                            <br>
+                            <div class="" style="margin-top: 3%;">
+                                <form class="contactform" id="moresco-contactform" role="form" name='myForm'
+                                    onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>'
+                                    method='post' accept-charset='UTF-8'>
+                                    <input type='hidden' name='submitted' id='submitted' value='1' />
+                                    <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>'
+                                        value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
+                                    <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
+                                    <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10" id="anchorForm">
+                                        <label for="companyname" class="c-label">Company Name</label>
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" id="companyname" name="companyname"
+                                                aria-label="Company Name"
+                                                value='<?php echo $formproc->SafeDisplay('companyname') ?>'
+                                                placeholder="COMPANY NAME">
                                         </div>
                                     </div>
-                                </li>
-                                <li class="timeline-item">
-                                    <div class="timeline-badge success"></div>
-                                    <div class="timeline-panel">
-                                        <div class="timeline-heading">
-                                            <img src="../img/employee.png" alt="">
-                                        </div>
-                                        <div class="timeline-body">
-                                            <p class="abs-box">
-                                                We will confirm with you
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="timeline-item">
-                                    <div class="timeline-badge info"></div>
-                                    <div class="timeline-panel">
-                                        <div class="timeline-heading">
-                                            <img src="../img/confidential.png" alt="">
-                                        </div>
-                                        <div class="timeline-body">
-                                            <p class="abs-box">
-                                                A more in-depth hearing, a proposal and quotation
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="timeline-item">
-                                    <div class="timeline-badge danger"></div>
-                                    <div class="timeline-panel">
-                                        <div class="timeline-heading">
-                                            <img src="../img/contract.png" alt="">
-                                        </div>
-                                        <div class="timeline-body">
-                                            <p class="abs-box">
-                                                Contract signing and project initiation
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </section>
-
-                <section class="clearfix" style="margin-bottom: 3em">
-                    <div class="container__">
-                        <div style="margin-top: 1em;">
-                            <div class="clearfix">
-                                <dt class="d-title-large title-bg-grey" style="text-align: left;">Frequently asked questions:</dt>
-                                <hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
-                            </div>
-                            <div class="mt-12" id="accordion" style="width:100%;">
-
-                                <div class="panel-group" id="accordion">
-
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading" type="button" data-toggle="collapse" data-parent="#accordion"
-                                            data-target="#collapse1">
-                                            <dt class="panel-title">
-                                                <i class="fa fa-question-circle">&nbsp;</i><a>Is it possible to proceed with a
-                                                    project
-                                                    using the English language?</a>
-                                            </dt>
-                                        </div>
-                                        <div id="collapse1" class="panel-collapse collapse in">
-                                            <div class="panel-body">
-                                                It is possible, though there may be some difficulties.
-                                                Most of our staff is able to communicate in English at a practical level. We have
-                                                also
-                                                ventured to start projects with overseas companies.
-                                            </div>
+                                    <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
+                                        <label for="name" class="c-label">Name</label>
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" id="name" name="name" aria-label="Name"
+                                                value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAME">
                                         </div>
                                     </div>
 
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                                data-target="#collapse2">
-                                                <i class="fa fa-question-circle">&nbsp;</i><a>Is it possible for you to have a
-                                                    meeting
-                                                    overseas?</a>
-                                            </dt>
+                                    <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
+                                        <label for="phone" class="c-label">Phone Number</label>
+                                        <div class="form-group">
+                                            <input type="number" class="form-control" id="phone" name="phone" aria-label="Phone"
+                                                value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="PHONE NUMBER">
                                         </div>
-                                        <div id="collapse2" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Let us discuss the matter with you first. Mostly, we offer video conference calls,
-                                                but
-                                                we
-                                                might be able to be flexible depending on the case.
-                                            </div>
+                                    </div>
+                                    <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
+                                        <label for="email" class="c-label">Email</label>
+                                        <div class="form-group">
+                                            <input type="email" class="form-control" id="email" name="email" aria-label="Email"
+                                                value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
                                         </div>
                                     </div>
 
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                                data-target="#collapse3">
-                                                <i class="fa fa-question-circle">&nbsp;</i><a>
-                                                    We are thinking about changing our current web/system outsourcer and seek to
-                                                    replace
-                                                    them with you.
-                                                </a>
-                                            </dt>
-                                        </div>
-                                        <div id="collapse3" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Please contact us without any further hesitation. There is no need to worry too
-                                                much
-                                                about
-                                                documentation, etc.
-                                                In most cases, We are able to develop a wide range of digital products through
-                                                years
-                                                of
-                                                experience in the field
-                                                of customer management systems development. We are also capable of developing
-                                                systems
-                                                to
-                                                improve recruitment, e-commerce,
-                                                pointing, and content and loan management, among many other things. We are experts
-                                                in
-                                                systems development, further utilizing
-                                                open web technologies to their highest utility. Please contact us for further
-                                                details.
-                                            </div>
+                                    <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
+                                        <label for="message" class="c-label">Message</label>
+                                        <div class="form-group" style="margin-top: 10px;">
+                                            <textarea class="form-control" name="message" aria-label="Message"
+                                                placeholder="MESSAGE"><?php echo $formproc->SafeDisplay('message') ?></textarea>
                                         </div>
                                     </div>
 
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                                data-target="#collapse4">
-                                                <i class="fa fa-question-circle">&nbsp;</i><a>
-                                                    We are seeking a developer to build a management system for our business.
-                                                </a>
-                                            </dt>
+                                    <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
+                                        <b>Inquiry item:</b> <i>(Multiple answers allowed)</i>
+                                    </div>
+
+                                    <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
+                                        <div class="checkbox">
+                                            <label>
+                                                <input type="checkbox" name="inquiry[]" value="About website creation">
+                                                <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About
+                                                website
+                                                creation
+                                            </label>
                                         </div>
-                                        <div id="collapse4" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                We are capable of developing various kinds of systems through previous experience
-                                                in
-                                                the
-                                                field of customer management systems development,
-                                                as well as developing systems for improved recruitment, e-commerce, pointing, and
-                                                content
-                                                and loan management, among many others. We are experts
-                                                in system development, utilizing open web technologies. Please contact us for
-                                                further
-                                                details.
-                                            </div>
+                                        <div class="checkbox">
+                                            <label>
+                                                <input type="checkbox" name="inquiry[]"
+                                                    value="About web-system development / maintenance">
+                                                <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About
+                                                web-system
+                                                development / maintenance
+                                            </label>
+                                        </div>
+                                        <div class="checkbox">
+                                            <label>
+                                                <input type="checkbox" name="inquiry[]" value="About web marketing / SEO">
+                                                <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About
+                                                web
+                                                marketing
+                                                / SEO
+                                            </label>
+                                        </div>
+                                        <div class="checkbox">
+                                            <label>
+                                                <input type="checkbox" name="inquiry[]" value="About internet advertisement">
+                                                <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About
+                                                internet
+                                                advertisement
+                                            </label>
+                                        </div>
+                                        <div class="checkbox">
+                                            <label>
+                                                <input type="checkbox" name="inquiry[]"
+                                                    value="About company profile, pamphlet, and other printings">
+                                                <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About
+                                                company
+                                                profile, pamphlet, and other printings
+                                            </label>
+                                        </div>
+                                        <div class="checkbox">
+                                            <label>
+                                                <input type="checkbox" name="inquiry[]"
+                                                    value="We are looking for companies that would join the tender">
+                                                <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>We are
+                                                looking for
+                                                companies that would join the tender
+                                            </label>
+                                        </div>
+                                        <div class="checkbox">
+                                            <label>
+                                                <input type="checkbox" name="inquiry[]"
+                                                    value="We are looking for consultants to start a business in Indonesia">
+                                                <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>We are
+                                                looking for
+                                                consultants to start a business in Indonesia
+                                            </label>
+                                        </div>
+                                        <div class="checkbox">
+                                            <label>
+                                                <input type="checkbox" name="inquiry[]"
+                                                    value="We would like to visit your office the next time you are in Jakarta for a business trip">
+                                                <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>We would
+                                                like to
+                                                visit your office the next time you are in Jakarta for a business trip
+                                            </label>
                                         </div>
                                     </div>
 
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                                data-target="#collapse5">
-                                                <i class="fa fa-question-circle">&nbsp;</i><a>
-                                                    We want to have a partnership / distributor contract with LOGIQUE.
-                                                </a>
-                                            </dt>
-                                        </div>
-                                        <div id="collapse5" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Let us talk about it with you in further detail. Please feel free to visit our
-                                                office
-                                                if
-                                                you are planning any trips to Jakarta.
-                                            </div>
-                                        </div>
+                                    <div class="col-sm-12" style="display:flex;justify-content:center; margin-bottom:1em">
+                                        <div class="g-recaptcha pull-right"
+                                            data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
+                                        <div class="clearfix"></div><br>
                                     </div>
-
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                                data-target="#collapse6">
-                                                <i class="fa fa-question-circle">&nbsp;</i><a>
-                                                    We want to build a mobile application.
-                                                </a>
-                                            </dt>
-                                        </div>
-                                        <div id="collapse6" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                We are capable of developing both Android and iOS applications for you. We can
-                                                begin
-                                                planning the development of the mobile app as well, if you require it.
-                                            </div>
-                                        </div>
+                                    <div class="col-sm-4 col-sm-offset-4 paddingleft">
+                                        <button type="submit" class="btn btn-block"
+                                            onclick="ga('send', 'event', 'Button-Kirim-EN', 'Action-Click', 'Button-Kirim-EN-Label');"
+                                            style="background: #f4ce58;">Submit</button>
                                     </div>
-
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                                data-target="#collapse7">
-                                                <i class="fa fa-question-circle">&nbsp;</i><a>
-                                                    We would like to print a marketing tool, are you able to offer printing as
-                                                    well as
-                                                    designing services?
-                                                </a>
-                                            </dt>
-                                        </div>
-                                        <div id="collapse7" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                We can of course both design and print pamphlets. And we are also able to design
-                                                and
-                                                print
-                                                other products such as T-shirts.
-                                                In case you need to print something extremely difficult, you might better look for
-                                                other
-                                                company. We can also introduce you
-                                                to the companies that we know if you would like us to.
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                                data-target="#collapse8">
-                                                <i class="fa fa-question-circle">&nbsp;</i><a>
-                                                    Are you capable of implementing SEO in the Indonesian Language?
-                                                </a>
-                                            </dt>
-                                        </div>
-                                        <div id="collapse8" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Yes, and we have a proven track record of excellence in that area; helping many
-                                                industries
-                                                in the finance,
-                                                travel and education fields promote their website so that it’s found in the upper
-                                                ranks of
-                                                the search results.
-                                                Our team, consisting of many Indonesian content writers and marketers, will help
-                                                provide
-                                                you with the best SEO results.
-                                                We are also able to implement SEO in the English and Japanese languages, as well.
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-                                <div class="map-container">
-                                    <iframe title="Office Map"
-                                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.5295224445435!2d106.81845993380738!3d-6.294614997607123!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x941fcbe3ecc8c368!2sPT.%20LOGIQUE%20DIGITAL%20INDONESIA!5e0!3m2!1sen!2sid!4v1575185803719!5m2!1sen!2sid"
-                                        allowfullscreen></iframe>
-                                </div>
+                                </form>
                             </div>
-                        </div>
-                    </div>
-                </section>
-
-            </div>
-        </div>
-
-        <div id="contentsArea" class="hidden">
-            <div class="clearfix" id="contents">
-                <!-- <div class="col-md-11 col-md-offset-1 col-sm-11 col-sm-offset-1" style="background: #fff; margin-top: 20px;">
-                    <a href="index.php"><img src="../img/logo.png" alt="Logo" class="logo hidden-xs" /></a>
-                    <div class="lang-logo">
-                        <ul class="list-inline">
-                            <li class="active"><a href="#">EN</a></li>
-                            <li><a href="../hubungi-kami.php">ID</a></li>
-                            <li><a href="../jp/contact.php">JP</a></li>
-                        </ul>
-                    </div>
-                </div> -->
-                <div class="clearfix"></div>
-                <!-- header -->
-                <div class="contact-title-copies mt-12">
-                    <div class="breadcrumb-position">
-                        <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList"
-                            style="background:transparent;">
-                            <li class="" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                    itemprop="item" href="/en/index.php"><span itemprop="name">Home</span></a>
-                                <meta itemprop="position" content="1" />
-                            </li>
-                            <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                    itemprop="item"><span itemprop="name">Contact Us</span></a>
-                                <meta itemprop="position" content="3" />
-                            </li>
-                        </ol>
-                    </div>
-                    <br>
-                    <span style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px;">Contact Us</span>
-                </div>
-                <div class="form-container col-sm-12 bg-grey" style="padding-top: 10px;">
-                    <div class="text-center container contact-us-cont">
-                        Thank you for showing interest in our products. If you wish to obtain further information about our
-                        services in regards to web creation/development,
-                        SEO optimization and in other IT related matters, please contact us and ask us about anything by clicking
-                        the button below
-                    </div>
-                </div>
-                <div class="form-container col-md-12 col-sm-12" style="height: fit-content; background: #000;">
-                    <div class="col-sm-6 col-xs-4">
-                        <img class="img-vector" src="../img/vector_smart_object.png" alt="" style="">
-                    </div>
-                    <div class="col-md-4 col-sm-5" style="padding: 32px 0;">
-                        <dt class="d-title" style="color: #fff; text-align: left;">
-                            Offers solutions for your digital business problems, anytime and anywhere
-                        </dt>
-                        <br>
-                        <a class="btn btn-hubungi smooth" href="#anchorForm" style="font-size: medium; font-weight: 600;">
-                            Contact Us Now
-                        </a>
-                    </div>
-                </div>
-                <!-- end of header -->
-
-                <div class="contact-us-cont">
-                    <div class="col-sm-5 col-sm-offset-1" style="padding: 1em 0;">
-                        <img class="" src="../img/kontak-img.jpg" alt="Hubungi Kami Logique"
-                            style="width: 100%; height: auto; max-width: 500px; object-fit: scale-down; border: 2px solid black; padding: 2%;" />
-                    </div>
-                    <div class="col-md-5 col-sm-6" style="padding-top: 5%;">
-                        <dt class="d-title" style="background: #ffd02a; padding:1em;">
-                            If you feel that improving your website is the key to your business’s success, we are ready to help
-                        </dt>
-                        <p class="d-description">
-                            With 7 years of experience, LOGIQUE is trusted by various companies at both the national and
-                            international levels.
-                            In addition, through our professional team, we will be able to offer you with the highest quality of
-                            service for all of your projects
-                        </p>
-                    </div>
-                    <br>
-                    <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-                        <dt class="d-title" style="margin-top: 3%;">
-                            Feel free to contact LOGIQUE about creating a website, or inquire about any SEO, social media, web or
-                            design related questions you may have
-                        </dt>
-                        <hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;">
-                    </div>
-
-                    <div class="col-sm-8 col-sm-offset-2 text-center sosmed-contact">
-                        <a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook" rel="noreferrer"><i
-                                class="fa fa-facebook-official" style="color:#777; font-size: xx-large;"></i></a>
-                        <a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter" rel="noreferrer"><i
-                                class="fa fa-twitter" style="color:#777; font-size: xx-large;"></i></a>
-                        <a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram"
-                            rel="noreferrer"><i class="fa fa-instagram" style="color:#777; font-size: xx-large;"></i></a>
-                        <a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn"
-                            rel="noreferrer"><i class="fa fa-linkedin-square" style="color:#777; font-size: xx-large;"></i></a>
-                        <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" aria-label="WhatsApp"
-                            rel="noreferrer"><i class="fa fa-whatsapp" style="color:#777; font-size: xx-large;"></i></a>
-                    </div>
-                    <br>
-                    <?php if(isset($msg))
-					{
-						echo $msg;
-					}
-					?>
-                    <br>
-                    <div class="container" style="margin-top: 3%;">
-                        <form class="contactform" id="moresco-contactform" role="form" name='myForm'
-                            onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post'
-                            accept-charset='UTF-8'>
-                            <input type='hidden' name='submitted' id='submitted' value='1' />
-                            <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>'
-                                value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
-                            <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-                            <div class="col-md-8 col-md-offset-2 col-sm-11" id="anchorForm">
-                                <label for="companyname" class="c-label">Company Name</label>
-                                <div class="form-group">
-                                    <input type="text" class="form-control" id="companyname" name="companyname"
-                                        aria-label="Company Name" value='<?php echo $formproc->SafeDisplay('companyname') ?>'
-                                        placeholder="COMPANY NAME">
-                                </div>
-                            </div>
-                            <div class="col-md-8 col-md-offset-2 col-sm-11">
-                                <label for="name" class="c-label">Name</label>
-                                <div class="form-group">
-                                    <input type="text" class="form-control" id="name" name="name" aria-label="Name"
-                                        value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAME">
-                                </div>
-                            </div>
-
-                            <div class="col-md-8 col-md-offset-2 col-sm-11">
-                                <label for="phone" class="c-label">Phone Number</label>
-                                <div class="form-group">
-                                    <input type="number" class="form-control" id="phone" name="phone" aria-label="Phone"
-                                        value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="PHONE NUMBER">
-                                </div>
-                            </div>
-                            <div class="col-md-8 col-md-offset-2 col-sm-11">
-                                <label for="email" class="c-label">Email</label>
-                                <div class="form-group">
-                                    <input type="email" class="form-control" id="email" name="email" aria-label="Email"
-                                        value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
-                                </div>
-                            </div>
-
-                            <div class="col-md-8 col-md-offset-2 col-sm-11">
-                                <label for="message" class="c-label">Message</label>
-                                <div class="form-group" style="margin-top: 10px;">
-                                    <textarea class="form-control" name="message" aria-label="Message"
-                                        placeholder="MESSAGE"><?php echo $formproc->SafeDisplay('message') ?></textarea>
-                                </div>
-                            </div>
-
-                            <div class="col-md-8 col-md-offset-2 col-sm-11">
-                                <b>Inquiry item:</b> <i>(Multiple answers allowed)</i>
-                            </div>
-
-                            <div class="col-md-8 col-md-offset-2 col-sm-11">
-                                <div class="checkbox">
-                                    <label>
-                                        <input type="checkbox" name="inquiry[]" value="About website creation">
-                                        <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About website
-                                        creation
-                                    </label>
-                                </div>
-                                <div class="checkbox">
-                                    <label>
-                                        <input type="checkbox" name="inquiry[]"
-                                            value="About web-system development / maintenance">
-                                        <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About web-system
-                                        development / maintenance
-                                    </label>
-                                </div>
-                                <div class="checkbox">
-                                    <label>
-                                        <input type="checkbox" name="inquiry[]" value="About web marketing / SEO">
-                                        <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About web marketing
-                                        / SEO
-                                    </label>
-                                </div>
-                                <div class="checkbox">
-                                    <label>
-                                        <input type="checkbox" name="inquiry[]" value="About internet advertisement">
-                                        <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About internet
-                                        advertisement
-                                    </label>
-                                </div>
-                                <div class="checkbox">
-                                    <label>
-                                        <input type="checkbox" name="inquiry[]"
-                                            value="About company profile, pamphlet, and other printings">
-                                        <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>About company
-                                        profile, pamphlet, and other printings
-                                    </label>
-                                </div>
-                                <div class="checkbox">
-                                    <label>
-                                        <input type="checkbox" name="inquiry[]"
-                                            value="We are looking for companies that would join the tender">
-                                        <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>We are looking for
-                                        companies that would join the tender
-                                    </label>
-                                </div>
-                                <div class="checkbox">
-                                    <label>
-                                        <input type="checkbox" name="inquiry[]"
-                                            value="We are looking for consultants to start a business in Indonesia">
-                                        <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>We are looking for
-                                        consultants to start a business in Indonesia
-                                    </label>
-                                </div>
-                                <div class="checkbox">
-                                    <label>
-                                        <input type="checkbox" name="inquiry[]"
-                                            value="We would like to visit your office the next time you are in Jakarta for a business trip">
-                                        <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>We would like to
-                                        visit your office the next time you are in Jakarta for a business trip
-                                    </label>
-                                </div>
-                            </div>
-
-                            <div class="col-md-5 col-md-offset-3 col-sm-5 col-sm-offset-3">
-                                <div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
-                                <div class="clearfix"></div><br>
-                            </div>
-                            <div class="col-sm-3 col-sm-offset-4 paddingleft">
-                                <button type="submit" class="btn btn-block"
-                                    onclick="ga('send', 'event', 'Button-Kirim-EN', 'Action-Click', 'Button-Kirim-EN-Label');"
-                                    style="background: #f4ce58;">Submit</button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-
-                <div class="bg-grey clearfix" style="padding-bottom: 10%;">
-                    <div class="d-title-large title-bg-grey col-lg-11 col-lg-offset-1 col-md-11 col-md-offset-1">
-                        If you are seeking further information about various matters related to our company, please select one of
-                        the options below
-                        <div class="col-sm-12">
-                            <hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;">
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-12 float-box"
-                    style="margin-top: 24px; position: relative;">
-                    <div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 12px;">
-                        <a class="box-link" href="services.php">
-                            <div class="yellow-box">
-                                <img class="img-box" src="../img/global_1.png" alt="">
-                                <dt>Services</dt>
+            </section>
+
+            <section class="bg--gray">
+                <div class="container__">
+                    <div class="clearfix" style="padding-bottom: 10%;">
+                        <div class="d-title-large title-bg-grey">
+                            If you are seeking further information about various matters related to our company, please select
+                            one of
+                            the options below
+                            <div class="col-sm-12">
+                                <hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;">
                             </div>
-                        </a>
-                    </div>
-                    <div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 12px;">
-                        <a class="box-link" href="product.php">
-                            <div class="yellow-box">
-                                <img class="img-box" src="../img/hr.png" alt="">
-                                <dt>Product</dt>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 12px;">
-                        <a class="box-link" href="logique.php">
-                            <div class="yellow-box">
-                                <img class="img-box" src="../img/group_3.png" alt="">
-                                <dt>About Us</dt>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-md-3 col-sm-3 col-xs-6" style="margin-top: 12px;">
-                        <a class="box-link" href="../career">
-                            <div class="yellow-box">
-                                <img class="img-box" class="" src="../img/promotion_1.png" alt="">
-                                <dt>Career</dt>
-                            </div>
-                        </a>
+                        </div>
                     </div>
                 </div>
-                <div class="clearfix"></div>
-                <div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-xs-12">
+            </section>
+
+            <section class="clearfix">
+                <div class="container__">
+                    <div class="float-box" style="position: relative;">
+                        <div class="col-md-3 col-sm-3 col-xs-6" style="margin-bottom: 12px;">
+                            <a class="box-link" href="services.php">
+                                <div class="yellow-box">
+                                    <img class="img-box" src="../img/global_1.png" alt="">
+                                    <dt>Services</dt>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-6" style="margin-bottom: 12px;">
+                            <a class="box-link" href="product.php">
+                                <div class="yellow-box">
+                                    <img class="img-box" src="../img/hr.png" alt="">
+                                    <dt>Product</dt>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-6" style="margin-bottom: 12px;">
+                            <a class="box-link" href="logique.php">
+                                <div class="yellow-box">
+                                    <img class="img-box" src="../img/group_3.png" alt="">
+                                    <dt>About Us</dt>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-6" style="margin-bottom: 12px;">
+                            <a class="box-link" href="../career">
+                                <div class="yellow-box">
+                                    <img class="img-box" class="" src="../img/promotion_1.png" alt="">
+                                    <dt>Career</dt>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- <div class="clearfix"></div> -->
+            <section class="clearfix">
+                <div class="container__" style="padding-top: 0">
                     <div class="d-title-large title-bg-grey text-center"><b>Procedure of Inquiry Forms</b></div>
                     <div class="col-sm-12">
                         <hr class="col-sm-2 col-sm-offset-5 bar-yellow" style="padding: 5px 0; border: none;">
                     </div>
                     <div class="overflow-auto">
-                        <ul class="timeline timeline-horizontal" style="padding-left: 1em;">
+                        <ul class="timeline timeline-horizontal">
 
                             <li class="timeline-item">
                                 <div class="timeline-badge primary"></div>
@@ -1632,181 +1078,215 @@ if(isset($_POST['submitted']))
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-9 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-12 col-xs-12" style="margin-top: 1em;">
-                    <div class="clearfix" style="padding-left: 1em;">
-                        <dt class="d-title-large title-bg-grey" style="text-align: left;">Frequently asked questions:</dt>
-                        <hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
-                    </div>
-                    <div class="container mt-12" id="accordion" style="width:100%;">
+            </section>
 
-                        <div class="panel-group" id="accordion">
-
-                            <div class="panel panel-default">
-                                <div class="panel-heading" type="button" data-toggle="collapse" data-parent="#accordion"
-                                    data-target="#collapse1">
-                                    <dt class="panel-title">
-                                        <i class="fa fa-question-circle">&nbsp;</i><a>Is it possible to proceed with a project
-                                            using the English language?</a>
-                                    </dt>
-                                </div>
-                                <div id="collapse1" class="panel-collapse collapse in">
-                                    <div class="panel-body">
-                                        It is possible, though there may be some difficulties.
-                                        Most of our staff is able to communicate in English at a practical level. We have also
-                                        ventured to start projects with overseas companies.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="panel panel-default">
-                                <div class="panel-heading">
-                                    <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                        data-target="#collapse2">
-                                        <i class="fa fa-question-circle">&nbsp;</i><a>Is it possible for you to have a meeting
-                                            overseas?</a>
-                                    </dt>
-                                </div>
-                                <div id="collapse2" class="panel-collapse collapse">
-                                    <div class="panel-body">
-                                        Let us discuss the matter with you first. Mostly, we offer video conference calls, but we
-                                        might be able to be flexible depending on the case.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="panel panel-default">
-                                <div class="panel-heading">
-                                    <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                        data-target="#collapse3">
-                                        <i class="fa fa-question-circle">&nbsp;</i><a>
-                                            We are thinking about changing our current web/system outsourcer and seek to replace
-                                            them with you.
-                                        </a>
-                                    </dt>
-                                </div>
-                                <div id="collapse3" class="panel-collapse collapse">
-                                    <div class="panel-body">
-                                        Please contact us without any further hesitation. There is no need to worry too much about
-                                        documentation, etc.
-                                        In most cases, We are able to develop a wide range of digital products through years of
-                                        experience in the field
-                                        of customer management systems development. We are also capable of developing systems to
-                                        improve recruitment, e-commerce,
-                                        pointing, and content and loan management, among many other things. We are experts in
-                                        systems development, further utilizing
-                                        open web technologies to their highest utility. Please contact us for further details.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="panel panel-default">
-                                <div class="panel-heading">
-                                    <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                        data-target="#collapse4">
-                                        <i class="fa fa-question-circle">&nbsp;</i><a>
-                                            We are seeking a developer to build a management system for our business.
-                                        </a>
-                                    </dt>
-                                </div>
-                                <div id="collapse4" class="panel-collapse collapse">
-                                    <div class="panel-body">
-                                        We are capable of developing various kinds of systems through previous experience in the
-                                        field of customer management systems development,
-                                        as well as developing systems for improved recruitment, e-commerce, pointing, and content
-                                        and loan management, among many others. We are experts
-                                        in system development, utilizing open web technologies. Please contact us for further
-                                        details.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="panel panel-default">
-                                <div class="panel-heading">
-                                    <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                        data-target="#collapse5">
-                                        <i class="fa fa-question-circle">&nbsp;</i><a>
-                                            We want to have a partnership / distributor contract with LOGIQUE.
-                                        </a>
-                                    </dt>
-                                </div>
-                                <div id="collapse5" class="panel-collapse collapse">
-                                    <div class="panel-body">
-                                        Let us talk about it with you in further detail. Please feel free to visit our office if
-                                        you are planning any trips to Jakarta.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="panel panel-default">
-                                <div class="panel-heading">
-                                    <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                        data-target="#collapse6">
-                                        <i class="fa fa-question-circle">&nbsp;</i><a>
-                                            We want to build a mobile application.
-                                        </a>
-                                    </dt>
-                                </div>
-                                <div id="collapse6" class="panel-collapse collapse">
-                                    <div class="panel-body">
-                                        We are capable of developing both Android and iOS applications for you. We can begin
-                                        planning the development of the mobile app as well, if you require it.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="panel panel-default">
-                                <div class="panel-heading">
-                                    <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                        data-target="#collapse7">
-                                        <i class="fa fa-question-circle">&nbsp;</i><a>
-                                            We would like to print a marketing tool, are you able to offer printing as well as
-                                            designing services?
-                                        </a>
-                                    </dt>
-                                </div>
-                                <div id="collapse7" class="panel-collapse collapse">
-                                    <div class="panel-body">
-                                        We can of course both design and print pamphlets. And we are also able to design and print
-                                        other products such as T-shirts.
-                                        In case you need to print something extremely difficult, you might better look for other
-                                        company. We can also introduce you
-                                        to the companies that we know if you would like us to.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="panel panel-default">
-                                <div class="panel-heading">
-                                    <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                        data-target="#collapse8">
-                                        <i class="fa fa-question-circle">&nbsp;</i><a>
-                                            Are you capable of implementing SEO in the Indonesian Language?
-                                        </a>
-                                    </dt>
-                                </div>
-                                <div id="collapse8" class="panel-collapse collapse">
-                                    <div class="panel-body">
-                                        Yes, and we have a proven track record of excellence in that area; helping many industries
-                                        in the finance,
-                                        travel and education fields promote their website so that it’s found in the upper ranks of
-                                        the search results.
-                                        Our team, consisting of many Indonesian content writers and marketers, will help provide
-                                        you with the best SEO results.
-                                        We are also able to implement SEO in the English and Japanese languages, as well.
-                                    </div>
-                                </div>
-                            </div>
-
+            <section class="clearfix">
+                <div class="container__">
+                    <div style="margin-top: 1em;">
+                        <div class="clearfix">
+                            <dt class="d-title-large title-bg-grey" style="text-align: left;">Frequently asked questions:</dt>
+                            <hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
                         </div>
+                        <div class="mt-12" id="accordion" style="width:100%;">
 
-                        <div class="map-container">
-                            <iframe title="Office Map"
-                                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.5295224445435!2d106.81845993380738!3d-6.294614997607123!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x941fcbe3ecc8c368!2sPT.%20LOGIQUE%20DIGITAL%20INDONESIA!5e0!3m2!1sen!2sid!4v1575185803719!5m2!1sen!2sid"
-                                allowfullscreen></iframe>
+                            <div class="panel-group" id="accordion">
+
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" type="button" data-toggle="collapse" data-parent="#accordion"
+                                        data-target="#collapse1">
+                                        <dt class="panel-title">
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>Is it possible to proceed with a
+                                                project
+                                                using the English language?</a>
+                                        </dt>
+                                    </div>
+                                    <div id="collapse1" class="panel-collapse collapse in">
+                                        <div class="panel-body">
+                                            It is possible, though there may be some difficulties.
+                                            Most of our staff is able to communicate in English at a practical level. We have
+                                            also
+                                            ventured to start projects with overseas companies.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+                                            data-target="#collapse2">
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>Is it possible for you to have a
+                                                meeting
+                                                overseas?</a>
+                                        </dt>
+                                    </div>
+                                    <div id="collapse2" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            Let us discuss the matter with you first. Mostly, we offer video conference calls,
+                                            but
+                                            we
+                                            might be able to be flexible depending on the case.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+                                            data-target="#collapse3">
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>
+                                                We are thinking about changing our current web/system outsourcer and seek to
+                                                replace
+                                                them with you.
+                                            </a>
+                                        </dt>
+                                    </div>
+                                    <div id="collapse3" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            Please contact us without any further hesitation. There is no need to worry too
+                                            much
+                                            about
+                                            documentation, etc.
+                                            In most cases, We are able to develop a wide range of digital products through
+                                            years
+                                            of
+                                            experience in the field
+                                            of customer management systems development. We are also capable of developing
+                                            systems
+                                            to
+                                            improve recruitment, e-commerce,
+                                            pointing, and content and loan management, among many other things. We are experts
+                                            in
+                                            systems development, further utilizing
+                                            open web technologies to their highest utility. Please contact us for further
+                                            details.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+                                            data-target="#collapse4">
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>
+                                                We are seeking a developer to build a management system for our business.
+                                            </a>
+                                        </dt>
+                                    </div>
+                                    <div id="collapse4" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            We are capable of developing various kinds of systems through previous experience
+                                            in
+                                            the
+                                            field of customer management systems development,
+                                            as well as developing systems for improved recruitment, e-commerce, pointing, and
+                                            content
+                                            and loan management, among many others. We are experts
+                                            in system development, utilizing open web technologies. Please contact us for
+                                            further
+                                            details.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+                                            data-target="#collapse5">
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>
+                                                We want to have a partnership / distributor contract with LOGIQUE.
+                                            </a>
+                                        </dt>
+                                    </div>
+                                    <div id="collapse5" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            Let us talk about it with you in further detail. Please feel free to visit our
+                                            office
+                                            if
+                                            you are planning any trips to Jakarta.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+                                            data-target="#collapse6">
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>
+                                                We want to build a mobile application.
+                                            </a>
+                                        </dt>
+                                    </div>
+                                    <div id="collapse6" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            We are capable of developing both Android and iOS applications for you. We can
+                                            begin
+                                            planning the development of the mobile app as well, if you require it.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+                                            data-target="#collapse7">
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>
+                                                We would like to print a marketing tool, are you able to offer printing as
+                                                well as
+                                                designing services?
+                                            </a>
+                                        </dt>
+                                    </div>
+                                    <div id="collapse7" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            We can of course both design and print pamphlets. And we are also able to design
+                                            and
+                                            print
+                                            other products such as T-shirts.
+                                            In case you need to print something extremely difficult, you might better look for
+                                            other
+                                            company. We can also introduce you
+                                            to the companies that we know if you would like us to.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+                                            data-target="#collapse8">
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>
+                                                Are you capable of implementing SEO in the Indonesian Language?
+                                            </a>
+                                        </dt>
+                                    </div>
+                                    <div id="collapse8" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            Yes, and we have a proven track record of excellence in that area; helping many
+                                            industries
+                                            in the finance,
+                                            travel and education fields promote their website so that it’s found in the upper
+                                            ranks of
+                                            the search results.
+                                            Our team, consisting of many Indonesian content writers and marketers, will help
+                                            provide
+                                            you with the best SEO results.
+                                            We are also able to implement SEO in the English and Japanese languages, as well.
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="map-container">
+                                <iframe title="Office Map"
+                                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.5295224445435!2d106.81845993380738!3d-6.294614997607123!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x941fcbe3ecc8c368!2sPT.%20LOGIQUE%20DIGITAL%20INDONESIA!5e0!3m2!1sen!2sid!4v1575185803719!5m2!1sen!2sid"
+                                    allowfullscreen></iframe>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
+            </section>
+
         </div>
 
         <?php include 'footer.php';?>
