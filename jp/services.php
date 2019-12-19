@@ -438,8 +438,9 @@
                                             <p>会社の信頼感・ブランド価値を伝えるコーポレートWeb、ブランドWebを制作します。多言語での制作やコンテンツ制作や写真・動画撮影も含めたホームページ制作などご要望に柔軟に応じます。ドメインやWebサーバーの手配、SSL購入もご支援いたします。企画から運用まで纏めてお任せください。スムーズに進められれば1ヶ月程度で公開可能です。コンバージョンのでる、価値の高いWebを作ります。
                                             </p>
                                             <div class="service-detail__btn-wrapper">
-                                                <a target="_blank" class="main-btn --yellow"
-                                                    href="/jp/portfolio.php#webDev">Web制作サービスについて詳しくみる</a>
+                                                <a target="_blank" class="main-btn --yellow" href="/jp/portfolio.php#webDev"><span
+                                                        class="hidden-xs">Web制作サービスについて詳しくみる</span><span
+                                                        class="hidden-sm hidden-md hidden-lg">もっと見る</span></a>
                                             </div>
                                     </div>
                                 </div>
@@ -478,8 +479,9 @@
                                             <p>ジャカルタにて、ミスマッチングとならない良い人材の採用の難易度は非常に高くなっています。自社で採用サイトをもち、これを受け皿としてデジタルを活用した採用活動をすることが一つの解決策となります。会社について、人について、求めている人材について、インタビュー動画なども交えて伝えることで効果的な採用が可能となります。求人ページ・サイトと採用管理システムを連動させる案件の実績も豊富にもっています。.
                                             </p>
                                             <div class="service-detail__btn-wrapper">
-                                                <a class="main-btn --yellow"
-                                                    href="services/recruitment-web-dev.php">採用サイト制作サービスを詳しくみる</a>
+                                                <a class="main-btn --yellow" href="services/recruitment-web-dev.php"><span
+                                                        class="hidden-xs">採用サイト制作サービスを詳しくみる</span><span
+                                                        class="hidden-sm hidden-md hidden-lg">もっと見る</span></a>
                                             </div>
                                     </div>
                                 </div>
@@ -768,8 +770,9 @@
                                     IDRから診断可能です。
                                 </p>
                                 <div class="service-detail__btn-wrapper">
-                                    <a class="main-btn --yellow"
-                                        href="/jp/services/penetration-test.php">Webセキュリティ診断サービスについて詳しくみる</a>
+                                    <a class="main-btn --yellow" href="/jp/services/penetration-test.php"><span
+                                            class="hidden-xs">Webセキュリティ診断サービスについて詳しくみる</span><span
+                                            class="hidden-sm hidden-md hidden-lg">もっと見る</span></a>
                                 </div>
                             </div>
                         </div>
