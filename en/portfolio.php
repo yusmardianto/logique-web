@@ -9,7 +9,7 @@
         content="LOGIQUE Digital Indonesia is frequently involved in numerous web development projects, ranging from designing web systems, mobile applications, digital marketing campaigns, and many other IT related ventures. Our work within the Digital and IT areas cover ASEAN countries; especially Indonesia and Japan. Click here to see our top achievements and clientele portfolio.">
     <meta name="keywords" content="website creation, web-system development, designing, printing, corporate site, landing page">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Web Development Works | Portfolio | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Portfolio | Web System App Development Works | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/portfolio.php">
@@ -17,7 +17,7 @@
     <meta property="og:description"
         content="LOGIQUE Digital Indonesia is frequently involved in numerous web development projects, ranging from designing web systems, mobile applications, digital marketing campaigns, and many other IT related ventures. Our work within the Digital and IT areas cover ASEAN countries; especially Indonesia and Japan. Click here to see our top achievements and clientele portfolio.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>Web Development Works | Portfolio | LOGIQUE Digital Indonesia</title>
+    <title>Portfolio | Web System App Development Works | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -170,7 +170,7 @@
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
                     <div>
-                        <div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
+                        <div class="title"><b>Our</b><span class="yellow"> Client</span></div>
                         <p class="title__description">LOGIQUE has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our Web creation, mobile app / PWA development, IT system development, and digital marketing consulting portfolio.</p>
                     </div>
                     <div class="page-nav">
@@ -1097,10 +1097,9 @@
                                 <img src="/img/logo-sinarmasland.jpg" alt="PT. Sinarmas Land" class="img-responsive center-block">
                             </div>
                             <div class="portfolio-sec-system__content">
-                                <h2 class="portfolio-sec__title">PT. Sinarmas Land</h2>
-                                <p>Creation of recruitment management system for a financial
-                                    institution</p>
-                                <p class="text-muted">3 months, PHP Framework, HTML5/CSS3, MySQL</p>
+                                <h2 class="portfolio-sec__title">Sinar Mas Land</h2>
+                                <p>E-Recruitment System and Online Psychological Test Development</p>
+                                <p class="text-muted">7 Months, HTML5/CSS3, .Net Framework, SQL Server, LDAP and SAP Integration</p>
                             </div>
                         </div>
 

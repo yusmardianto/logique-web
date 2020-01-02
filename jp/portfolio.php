@@ -176,7 +176,7 @@
 
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
-                    <div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
+                    <div class="title"><b>クライアント様</b><span class="yellow"> の一例</span></div>
                     <p class="title__description">
                         LOGIQUEはインドネシアの日系企業、外資企業、大手インドネシア企業との仕事を主に、多くの実績を作ってきました。日本からのオフショア制作開発のお仕事も条件によってはお請けすることが可能ですのでお気軽にご相談ください。以下に、幾つかの公開可能なWEB制作、モバイルアプリ・PWA開発、WEBシステム開発、デジタルマーケティング・コンサルティングの実績を掲載します。
                     </p>
@@ -1091,9 +1091,9 @@
                                 <img src="/img/logo-sinarmasland.jpg" alt="PT. Sinarmas Land" class="img-responsive center-block">
                             </div>
                             <div class="portfolio-sec-system__content">
-                                <h2 class="portfolio-sec__title">PT. Sinarmas Land</h2>
-                                <p>金融機関向け採用管理システムの構築.</p>
-                                <p class="text-muted">3 months, PHP Framework, HTML5/CSS3, MySQL</p>
+                                <h2 class="portfolio-sec__title">シナールマスランド</h2>
+                                <p>不動産開発業者向け採用管理システム構築.</p>
+                                <p class="text-muted">7ヶ月、HTML5/CSS3、.Netフレームワーク、SQL Server、LDAP＆SAPインテグレーション </p>
                             </div>
                         </div>
 

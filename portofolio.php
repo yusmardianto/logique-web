@@ -171,7 +171,7 @@
 
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
-                    <div class="title"><b>Our</b><span class="yellow">Portfolio</span></div>
+                    <div class="title"><b>Klien</b><span class="yellow"> Kami</span></div>
                     <p class="title__description">LOGIQUE telah mengembangkan banyak Situs Web, Sistem dan Aplikasi, untuk klien-klien kami. Berikut adalah beberapa kreasi Web, pengembangan aplikasi seluler / PWA, pengembangan sistem TI, dan portofolio konsultasi pemasaran digital kami.</p>
                     <div class="page-nav text-center">
                         <a class="page-nav__btn" href="#webDev">WEB</a>
@@ -1103,9 +1103,9 @@
                                 <img src="/img/logo-sinarmasland.jpg" alt="PT. Sinarmas Land" class="img-responsive center-block">
                             </div>
                             <div class="portfolio-sec-system__content">
-                                <h2 class="portfolio-sec__title">PT. Sinarmas Land</h2>
-                                <p>Pengembangan sistem manajemen rekrutmen untuk lembaga keuangan.</p>
-                                <p class="text-muted">3 bulan, PHP Framework, HTML5/CSS3, MySQL</p>
+                                <h2 class="portfolio-sec__title">Sinar Mas Land</h2>
+                                <p>Pengembangan Sistem Rekrutmen dan Tes Psikologi Online.</p>
+                                <p class="text-muted">7 bulan, HTML5/CSS3, .Net Framework, SQL Server, Integrasi LDAP dan SAP</p>
                             </div>
                         </div>
 
