@@ -452,7 +452,7 @@
                                                 dan fungsional sesuai dengan perkembangan teknologi dan tren terkini di dunia
                                                 digital.</p>
                                             <div class="service-detail__btn-wrapper">
-                                                <a class="main-btn --yellow" href="portofolio.php">Lihat Contoh
+                                                <a class="main-btn --yellow" href="layanan/web-dev.php">Lihat Contoh
                                                     <span class="hidden-xs">Pembuatan Website</span></a>
                                             </div>
                                     </div>

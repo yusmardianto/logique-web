@@ -438,7 +438,7 @@
                                             <p>会社の信頼感・ブランド価値を伝えるコーポレートWeb、ブランドWebを制作します。多言語での制作やコンテンツ制作や写真・動画撮影も含めたホームページ制作などご要望に柔軟に応じます。ドメインやWebサーバーの手配、SSL購入もご支援いたします。企画から運用まで纏めてお任せください。スムーズに進められれば1ヶ月程度で公開可能です。コンバージョンのでる、価値の高いWebを作ります。
                                             </p>
                                             <div class="service-detail__btn-wrapper">
-                                                <a target="_blank" class="main-btn --yellow" href="/jp/portfolio.php#webDev"><span
+                                                <a target="_blank" class="main-btn --yellow" href="/jp/services/web-dev.php"><span
                                                         class="hidden-xs">Web制作サービスについて詳しくみる</span><span
                                                         class="hidden-sm hidden-md hidden-lg">もっと見る</span></a>
                                             </div>
