@@ -252,7 +252,7 @@ if(isset($_POST['submitted']))
 					 </div>
 					 <div class="col-md-7">
 						 <p style="font-size: 18px;">
-							 アプリ開発・運用で成功するには開発パートナー選びが重要です。システム開発やWEB制作に比べて、テクノロジーの変化、バージョンアップが頻繁であること、端末種が豊富なことから、開発会社には高い技術力が求められ、緻密で正確な管理運用能力が必要になります。LOGIQUEはよく考えて設計されたUIデザインでアプリ開発を行い、ユーザビリティの高いアプリを開発します。<br /><br />
+                            アプリ開発・運用で成功するには開発パートナー選びが重要です。システム開発やWeb制作に比べて、テクノロジーの変化、バージョンアップが頻繁であること、端末種が豊富なことから、開発会社には高い技術力が求められ、緻密で正確な管理運用能力が必要になります。LOGIQUEは、確かな技術力と適切なプロジェクト管理で開発を行い、ユーザビリティの高い、インドネシア市場に完璧にFitするアプリを開発します。<br /><br />
 							 iPhoneやAndoridアプリの開発をしたいが、どのように、どこに依頼したら良いのかわからない、メンテナンス性の良いアプリを作りたい、まずはプロトタイプだけ制作してもらいたい、企画から助けてくれる開発会社を探しているなどの課題やニーズがあれば、お気軽にLOGIQUEにご相談ください。
 						 </p>
 					 </div>
@@ -271,13 +271,13 @@ if(isset($_POST['submitted']))
                      <div class="col-md-8">
                          <ul class="fa-ul">
                              <li><span class="fa-li"><i
-                                         class="fa fa-check-square"></i></span>要件定義からテスト、納品までスムーズで柔軟なプロジェクトマネジメントを行います。WEB制作やWEBシステム開発で実績のあるプロジェクト管理方法を用います。
+                                         class="fa fa-check-square"></i></span>要件定義からテスト、納品までスムーズで柔軟なプロジェクトマネジメントを行います。Web制作やWebシステム開発と同様Agile開発を行います。
                              </li>
                              <li><span class="fa-li"><i
                                          class="fa fa-check-square"></i></span>企画も可能です。今までの経験、インドネシアの慣習も含め、ユーザーのニーズを叶える有益なアプリとなるよう、企画・要件定義フェーズでのアドバイスを惜しみません。
                              </li>
                              <li><span class="fa-li"><i
-                                         class="fa fa-check-square"></i></span>Uデザインはアプリ開発の中の大きなウェートを占める作業です。LOGIQUEは社内にデザイナーを複数抱えていますので、デザインと開発で分断が起こるというようなことがありません。デザイン力とテクノロジーをうまく融合させます。
+                                         class="fa fa-check-square"></i></span>UI / UXデザインはアプリ開発の中の大きなウェートを占める作業です。LOGIQUEは社内にデザイナーを複数抱えていますので、デザインと開発で分断が起こるというようなことがありません。デザイン力とテクノロジーをうまく融合させます。
                              </li>
                              <li><span class="fa-li"><i
                                          class="fa fa-check-square"></i></span>多くのお客様からシステムの運用保守も任せられています。スマホアプリの効果を出すためには、リリース後の運用が非常に大事です。運用、デジタルマーケティング実施もLOGIQUEは総合的にご支援します。
@@ -380,7 +380,7 @@ if(isset($_POST['submitted']))
                              <br />
                              <img alt="Pengembangan Aplikasi Hybrid" src="assets/img/img-mobileapps/hybrid.png"
                                  class="img-responsive center-block" /><br />
-                             回線速度が遅いインドネシアではハイブリッドアプリ（WEBアプリ）は避けられてきましたが、回線状況も改善が見られること、ブラウザの機能が上がっていること、いまだに低い端末スペックが多く使われていることから、WEBアプリが最適なケースも多くあります。より短い時間で公開が可能なメリットもあります。
+                                 インドネシアでは圧倒的少数派だったiPhoneの保有台数が上がってきました。Androidアプリだけあれば良いという時代は終わりつつあります。ハイブリッドアプリやPWAの検討が必要になっています。
                          </div>
                      </div>
                  </div>
@@ -704,7 +704,7 @@ if(isset($_POST['submitted']))
              <div class="container__">
                  <div class="row row-center-md">
                      <div class="col-md-12 font20">
-                         LOGIQUEのその他のサービス（WEB制作、WEBシステム開発）をご確認いただく
+                        LOGIQUEのその他のサービス（Web制作、Webシステム開発）をご確認いただく
                          <div class="hidden-lg hidden-md"><br /></div>
                      </div>
                      <div class="col-md-6">
