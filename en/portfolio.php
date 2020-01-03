@@ -1057,6 +1057,42 @@
                                     <div class="grey-clr">Search System, CMS, Medical Media</div>
                                 </div>
                             </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/mobirent.png" alt="Mobirent"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Mobirent</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    Web Design (Design | Coding | Deployment)
+                                    <div class="grey-clr">Mobile Optimized</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://lifenesia.com/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/lifenesia-bulletin-board.png" alt="Lifenesia"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Lifenesia</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    Bulletin Board  (Design | Coding | Deployment)
+                                    <div class="grey-clr">Bulletin Board, CtoC Service</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://shi-indonesia.co.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/shi.png" alt="Sumitomo Heavy"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Sumitomo Heavy</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    Web Development (Design | Coding | Integrasi CMS)
+                                    <div class="grey-clr">Mobile Optimized, CMS, Corporate web</div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <!-- END HIDE WEB DEV PORTFOLIO -->
