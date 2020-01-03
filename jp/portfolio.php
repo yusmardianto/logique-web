@@ -1037,6 +1037,42 @@
                                 </div>
                             </div>
 
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/mobirent.png" alt="Mobirent"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Mobirent</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    BtoBサービス, Car Rental Web制作（デザイン制作 | コーディング | ディプロイ）
+                                    <div class="grey-clr">スマホ最適, BtoBサービス, レンタカー</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://lifenesia.com/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/lifenesia-bulletin-board.png" alt="Lifenesia"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Lifenesia</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                Media 掲示板制作（デザイン制作 | コーディング | ディプロイ）
+                                    <div class="grey-clr">オンライン掲示板, CtoCサービス, メディア</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://shi-indonesia.co.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/shi.png" alt="Sumitomo Heavy"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Sumitomo Heavy</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    Heavy Industry Web制作 (デザイン｜コーディング | CMS)
+                                    <div class="grey-clr">モバイル最適化, CMS, コーポレートWeb, 重工業</div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                     <!-- END HIDE WEB DEV PORTFOLIO -->
