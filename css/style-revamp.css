@@ -283,6 +283,26 @@
   width: 60%;
 }
 
+/* CLIENT LIST */
+.client-list__wrapper {
+  padding: .3em 0;
+}
+.client-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 2em 0;
+}
+.client-list__img {
+  /* flex-basis: 120px; */
+  max-width: 200px;
+  max-height: 80px;
+  /* min-width: 110px; */
+  margin: 15px 20px;
+}
+/* END CLIENT LIST */
+
 /* TABLET RESPONSIVE */
 @media only screen and (max-width: 768px) {
   .web-solution__btn-wrapper {

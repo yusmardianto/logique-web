@@ -33,8 +33,8 @@
     <div class="wrapper wrapper--update-design">
 
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
+        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
+            data-target="#myNavbar">
             <span class="icon-bar first"></span>
             <span class="icon-bar second"></span>
             <span class="icon-bar third"></span>
@@ -116,8 +116,7 @@
                                     <li><a href="../portofolio.php">ID</a></li>
                                     <li class="active"><a href="#">JP</a></li>
                                 </ul>
-                                <a href="index.php"><img src="../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
+                                <a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
                     </div>
@@ -135,7 +134,7 @@
             font-size: 15px;
         }
 
-        .addition-title{
+        .addition-title {
             font-size: 18px;
         }
 
@@ -158,14 +157,13 @@
                 <div class="container__" style="padding:0">
                     <div class="row">
                         <div class="col-sm-12">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                itemtype="http://schema.org/BreadcrumbList">
+                            <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
                                         href="index.php"><span itemprop="name">ホーム</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;制作・開発実績</span></a>
+                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
+                                            itemprop="name">&nbsp;制作・開発実績</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                             </ol>
@@ -174,12 +172,40 @@
                 </div>
             </section>
 
+            <!-- <section>
+                <div class="container__">
+
+                </div>
+            </section> -->
+
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
                     <div class="title"><b>クライアント様</b><span class="yellow"> の一例</span></div>
                     <p class="title__description">
                         LOGIQUEはインドネシアの日系企業、外資企業、大手インドネシア企業との仕事を主に、多くの実績を作ってきました。日本からのオフショア制作開発のお仕事も条件によってはお請けすることが可能ですのでお気軽にご相談ください。以下に、幾つかの公開可能なWEB制作、モバイルアプリ・PWA開発、WEBシステム開発、デジタルマーケティング・コンサルティングの実績を掲載します。
                     </p>
+
+                    <div class="client-list__wrapper">
+                        <h3 class="portfolio-sec__title">クライアント様の一例</h3>
+                        <div class="client-list">
+                            <img class="client-list__img" src="/img/portfolio/client-list/aia.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/assa.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/asean.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/jba.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/jjc.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/j-trust.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/mitsubishi.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/panin.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/pasaraya.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/pertamina.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sinarmas.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sunlife.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sumitomo.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/toyota.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/triputra.png" alt="">
+                        </div>
+                    </div>
+
                     <div class="page-nav text-center">
                         <a class="page-nav__btn" href="#webDev">Webサイト（ホームページ）制作実績</a>
                         <a class="page-nav__btn" href="#sysDev">システム開発実績</a>
@@ -202,8 +228,7 @@
                     <div class="row">
                         <div class="col-md-4 col-xs-6">
                             <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/aiapremieracademy.png" alt="AIA Premier Academy"
-                                    class="img-responsive center-block">
+                                <img src="/img/portfolio/aiapremieracademy.png" alt="AIA Premier Academy" class="img-responsive center-block">
                                 <p class="text-center">AIA Premier Academy</p>
                             </a>
                             <div class="addition-desc text-left">
@@ -225,8 +250,7 @@
 
                         <div class="col-md-4 col-xs-6">
                             <a href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/jtrust-bank-new.png" alt="JTrust Bank (Re-design)"
-                                    class="img-responsive center-block">
+                                <img src="/img/portfolio/jtrust-bank-new.png" alt="JTrust Bank (Re-design)" class="img-responsive center-block">
                                 <p class="text-center">JTrust Bank (Re-design)</p>
                             </a>
                             <div class="addition-desc text-left">
@@ -246,8 +270,7 @@
 
                         <div class="col-md-4 col-xs-6">
                             <a href="https://jba.co.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/jba-indonesia.png" alt="JBA INDONESIA"
-                                    class="img-responsive center-block">
+                                <img src="/img/portfolio/jba-indonesia.png" alt="JBA INDONESIA" class="img-responsive center-block">
                                 <p class="text-center">JBA INDONESIA</p>
                             </a>
                             <div class="addition-desc text-left">
@@ -286,8 +309,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.otomart.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/otomart.png" alt="OTOmart (used-car market place)"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/otomart.png" alt="OTOmart (used-car market place)" class="img-responsive center-block">
                                     <p class="text-center">OTOmart (used-car market place)</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -299,8 +321,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://jaif.asean.org/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jaif.png" alt="Japan Asean Integration Fund"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/jaif.png" alt="Japan Asean Integration Fund" class="img-responsive center-block">
                                     <p class="text-center">Japan Asean Integration Fund</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -310,8 +331,7 @@
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <img src="/img/portfolio/shinoken.png" alt="Shinoken Asset Management"
-                                    class="img-responsive center-block">
+                                <img src="/img/portfolio/shinoken.png" alt="Shinoken Asset Management" class="img-responsive center-block">
                                 <p class="text-center">Shinoken Asset Management</p>
                                 <div class="addition-desc text-left">
                                     WEB制作 (デザイン | コーディング | AWS運用)
@@ -322,8 +342,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://sentraya.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/sentraya.png" alt="Menara Sentraya"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/sentraya.png" alt="Menara Sentraya" class="img-responsive center-block">
                                     <p class="text-center">Menara Sentraya</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -347,8 +366,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://frangipanibalispa.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/frangipani-amp.png" alt="Frangipani"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/frangipani-amp.png" alt="Frangipani" class="img-responsive center-block">
                                     <p class="text-center">Frangipani</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -412,8 +430,7 @@
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <img src="/img/portfolio/ajapan.png" alt="aJapan Campaign Page"
-                                    class="img-responsive center-block">
+                                <img src="/img/portfolio/ajapan.png" alt="aJapan Campaign Page" class="img-responsive center-block">
                                 <p class="text-center">aJapan Campaign Page</p>
                                 <div class="addition-desc text-left">
                                     キャンペーンサイト制作＆運用 (デザイン | コーディング | Operation)
@@ -423,8 +440,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.jtrustbank.co.id/id/moe" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/moe.png" alt="JTrust Bank Indonesia"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/moe.png" alt="JTrust Bank Indonesia" class="img-responsive center-block">
                                     <p class="text-center">JTrust Bank Indonesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -435,8 +451,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://frangipanibalispa.com/contact.php" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/frangipani.png" alt="Frangipani Esthetics Bali"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/frangipani.png" alt="Frangipani Esthetics Bali" class="img-responsive center-block">
                                     <p class="text-center">Frangipani Esthetics Bali</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -465,8 +480,7 @@
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <img src="/img/portfolio/oto-conc.png" alt="OTOmart Concierge LP"
-                                    class="img-responsive center-block">
+                                <img src="/img/portfolio/oto-conc.png" alt="OTOmart Concierge LP" class="img-responsive center-block">
                                 <p class="text-center">OTOmart Concierge LP</p>
                                 <div class="addition-desc text-left">
                                     ランディングページ制作 (デザイン | コーディング）
@@ -503,8 +517,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://hajime-indonesia.co.id/about/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/hajime.png" alt="Hajime Indonesia"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/hajime.png" alt="Hajime Indonesia" class="img-responsive center-block">
                                     <p class="text-center">Hajime Indonesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -515,8 +528,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://maisonderes.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/mdr.png" alt="Maison de Res (Condominium Portal)"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/mdr.png" alt="Maison de Res (Condominium Portal)" class="img-responsive center-block">
                                     <p class="text-center">Maison de Res (Condominium Portal)</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -527,8 +539,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://www.zuttoride.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/zutto.png" alt="ZuttoRide Indonesia"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/zutto.png" alt="ZuttoRide Indonesia" class="img-responsive center-block">
                                     <p class="text-center">ZuttoRide Indonesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -539,8 +550,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://jjs.or.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jjs.png" alt="Jakarta Japanese School"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/jjs.png" alt="Jakarta Japanese School" class="img-responsive center-block">
                                     <p class="text-center">Jakarta Japanese School</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -552,8 +562,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://cikarang-japanese-school.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/cjs.png" alt="Cikarang Japanese School"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/cjs.png" alt="Cikarang Japanese School" class="img-responsive center-block">
                                     <p class="text-center">Cikarang Japanese School</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -565,8 +574,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.60jpid.com/symposium.php" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/symposium.png" alt="Symposium Application LP"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/symposium.png" alt="Symposium Application LP" class="img-responsive center-block">
                                     <p class="text-center">Symposium Application LP</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -577,8 +585,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.ikeuchi.id/lp/eng/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/ikeuchi.png" alt="Ikeuchi Indonesia"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/ikeuchi.png" alt="Ikeuchi Indonesia" class="img-responsive center-block">
                                     <p class="text-center">Ikeuchi Indonesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -589,8 +596,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://www.moresco.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/moresco.png" alt="MORESCO INDONESIA"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/moresco.png" alt="MORESCO INDONESIA" class="img-responsive center-block">
                                     <p class="text-center">MORESCO INDONESIA</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -611,10 +617,8 @@
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank"
-                                    rel="noreferrer">
-                                    <img src="/img/portfolio/dmi.png" alt="Digital Marketing Indonesia"
-                                        class="img-responsive center-block">
+                                <a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/dmi.png" alt="Digital Marketing Indonesia" class="img-responsive center-block">
                                     <p class="text-center">Digital Marketing Indonesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -634,8 +638,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://www.kumomiland.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/kumomiland.png" alt="KUMOMI LAND INDONESIA"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/kumomiland.png" alt="KUMOMI LAND INDONESIA" class="img-responsive center-block">
                                     <p class="text-center">KUMOMI LAND INDONESIA</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -658,8 +661,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://omc.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/omc.png" alt="Onitsuka Management Consulting"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/omc.png" alt="Onitsuka Management Consulting" class="img-responsive center-block">
                                     <p class="text-center">Onitsuka Management Consulting</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -671,8 +673,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://j-golfacademy.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/golfjkt.png" alt="Jakarta Golf Academy"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/golfjkt.png" alt="Jakarta Golf Academy" class="img-responsive center-block">
                                     Jakarta Golf Academy
                                 </a>
                                 <div class="addition-desc text-left">
@@ -749,8 +750,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.jjs.or.id/50thanniversary" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jjs50.png" alt="JJS 50 years special LP"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/jjs50.png" alt="JJS 50 years special LP" class="img-responsive center-block">
                                     <p class="text-center">JJ 50 years speciaSl LP</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -761,8 +761,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.jba.co.id/id/hasil-harga-lelang" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jba-hasil-lelang.png" alt="JBA Hasil Lelang"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/jba-hasil-lelang.png" alt="JBA Hasil Lelang" class="img-responsive center-block">
                                     <p class="text-center">JBA Hasil Lelang</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -798,8 +797,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jnto-campaign.png" alt="JNTO Campaign Page"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/jnto-campaign.png" alt="JNTO Campaign Page" class="img-responsive center-block">
                                     <p class="text-center">JNTO Campaign Page</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -809,8 +807,7 @@
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <img src="/img/portfolio/jba-redesign.png" alt="JBA Re-design"
-                                    class="img-responsive center-block">
+                                <img src="/img/portfolio/jba-redesign.png" alt="JBA Re-design" class="img-responsive center-block">
                                 <p class="text-center">JBA Re-design</p>
                                 <div class="addition-desc text-left">
                                     WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)
@@ -820,8 +817,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.60jpid.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/60jpid.png" alt="60th Anniversary Japan-Indonesia"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/60jpid.png" alt="60th Anniversary Japan-Indonesia" class="img-responsive center-block">
                                     <p class="text-center">60<sup>th</sup> Anniversary Japan-Indonesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -843,8 +839,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://banzaihobby.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/banzai-hobby.png" alt="Banzai Hobby"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/banzai-hobby.png" alt="Banzai Hobby" class="img-responsive center-block">
                                     <p class="text-center">Banzai Hobby</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -888,8 +883,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/proline.png" alt="PROLINE FINANCE"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/proline.png" alt="PROLINE FINANCE" class="img-responsive center-block">
                                     <p class="text-center">PROLINE FINANCE</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -918,16 +912,14 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://unitedconcepts.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/royal-amanda.png" alt="Royal Armada"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/royal-amanda.png" alt="Royal Armada" class="img-responsive center-block">
                                     <p class="text-center">Royal Armada</p>
                                 </a>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://premium-garansi.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/premiumgaransi.jpg" alt="Premium Garansi"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/premiumgaransi.jpg" alt="Premium Garansi" class="img-responsive center-block">
                                     <p class="text-center">Premium-Garansi.co.id</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -947,8 +939,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.otomart.id/oto-garansi.html" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/otogaransi.jpg" alt="OTO-Garansi Campaign Page"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/otogaransi.jpg" alt="OTO-Garansi Campaign Page" class="img-responsive center-block">
                                     <p class="text-center">OTO-Garansi Campaign Page</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -971,8 +962,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.bambootajur.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/bambootajur.png" alt="Green Bamboo Terace"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/bambootajur.png" alt="Green Bamboo Terace" class="img-responsive center-block">
                                     <p class="text-center">Green Bamboo Terace</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -983,8 +973,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://hmw-rehab.com/en" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/hmw.png" alt="HMW Rehabilitation Clinic"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/hmw.png" alt="HMW Rehabilitation Clinic" class="img-responsive center-block">
                                     <p class="text-center">HMW Rehabilitation Clinic</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -1017,8 +1006,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://grahamirai.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/graha-mirai.png" alt="Graha Mirai"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/graha-mirai.png" alt="Graha Mirai" class="img-responsive center-block">
                                     <p class="text-center">Graha Mirai</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -1029,8 +1017,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://swara.tunaiku.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/amar-bank.png" alt="Amar Bank"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/amar-bank.png" alt="Amar Bank" class="img-responsive center-block">
                                     <p class="text-center">Amar Bank</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -1041,8 +1028,7 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://m-pas.org/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/mpas.png" alt="MPAS"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/mpas.png" alt="MPAS" class="img-responsive center-block">
                                     <p class="text-center">MPAS</p>
                                 </a>
                                 <div class="addition-desc text-left">
@@ -1523,8 +1509,8 @@
                         </div>
 
                         <div class="text-center">
-                            <a class="btn btn-more-portfolio custom-btn-contact" role="button" data-toggle="collapse"
-                                href="#hideSysDev" onclick="jump('sysDev')" aria-expanded="false" aria-controls="hideSysDev">
+                            <a class="btn btn-more-portfolio custom-btn-contact" role="button" data-toggle="collapse" href="#hideSysDev"
+                                onclick="jump('sysDev')" aria-expanded="false" aria-controls="hideSysDev">
                                 Web・ITシステム開発実績をもっとみる</a>
                         </div>
 
@@ -1532,7 +1518,7 @@
                     <hr>
                 </div>
             </section>
-            
+
             <section id="PWA">
                 <div class="container__">
                     <div class="portfolio-sec__head">
@@ -1544,20 +1530,16 @@
                     <div class="row text-center">
                         <div class="col-md-4 col-xs-6">
                             <div class="mobile-app-container same-height">
-                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-1.png"
-                                        alt="JBA Bike Inspection App"
+                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-1.png" alt="JBA Bike Inspection App"
                                         class="img-responsive center-block">
                                 </div>
-                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-2.png"
-                                        alt="JBA Bike Inspection App"
+                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-2.png" alt="JBA Bike Inspection App"
                                         class="img-responsive center-block">
                                 </div>
-                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-3.png"
-                                        alt="JBA Bike Inspection App"
+                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-3.png" alt="JBA Bike Inspection App"
                                         class="img-responsive center-block">
                                 </div>
-                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-4.png"
-                                        alt="JBA Bike Inspection App"
+                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-4.png" alt="JBA Bike Inspection App"
                                         class="img-responsive center-block">
                                 </div>
                             </div>
@@ -1567,16 +1549,13 @@
 
                         <div class="col-md-4 col-xs-6">
                             <div class="mobile-app-container same-height">
-                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-1.png"
-                                        alt="WEEO Hino Connect"
+                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-1.png" alt="WEEO Hino Connect"
                                         class="img-responsive center-block">
                                 </div>
-                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-2.png"
-                                        alt="WEEO Hino Connect"
+                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-2.png" alt="WEEO Hino Connect"
                                         class="img-responsive center-block">
                                 </div>
-                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-3.png"
-                                        alt="WEEO Hino Connect"
+                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-3.png" alt="WEEO Hino Connect"
                                         class="img-responsive center-block">
                                 </div>
                             </div>
@@ -1586,14 +1565,10 @@
 
                         <div class="col-md-4 col-xs-6 visible-md visible-lg">
                             <div class="mobile-app-container same-height">
-                                <div class="m-app-item"><img src="/img/portfolio/wantjp1.png" alt="want.jp"
-                                        class="img-responsive center-block"></div>
-                                <div class="m-app-item"><img src="/img/portfolio/wantjp2.png" alt="want.jp"
-                                        class="img-responsive center-block"></div>
-                                <div class="m-app-item"><img src="/img/portfolio/wantjp3.png" alt="want.jp"
-                                        class="img-responsive center-block"></div>
-                                <div class="m-app-item"><img src="/img/portfolio/wantjp4.png" alt="want.jp"
-                                        class="img-responsive center-block"></div>
+                                <div class="m-app-item"><img src="/img/portfolio/wantjp1.png" alt="want.jp" class="img-responsive center-block"></div>
+                                <div class="m-app-item"><img src="/img/portfolio/wantjp2.png" alt="want.jp" class="img-responsive center-block"></div>
+                                <div class="m-app-item"><img src="/img/portfolio/wantjp3.png" alt="want.jp" class="img-responsive center-block"></div>
+                                <div class="m-app-item"><img src="/img/portfolio/wantjp4.png" alt="want.jp" class="img-responsive center-block"></div>
                             </div>
                             <br>
                             <p>Want.jp</p>
@@ -1610,14 +1585,14 @@
 
                             <div class="col-md-4 col-xs-6 visible-sm visible-xs">
                                 <div class="mobile-app-container same-height">
-                                    <div class="m-app-item"><img src="/img/portfolio/wantjp1.png" alt="want.jp"
-                                            class="img-responsive center-block"></div>
-                                    <div class="m-app-item"><img src="/img/portfolio/wantjp2.png" alt="want.jp"
-                                            class="img-responsive center-block"></div>
-                                    <div class="m-app-item"><img src="/img/portfolio/wantjp3.png" alt="want.jp"
-                                            class="img-responsive center-block"></div>
-                                    <div class="m-app-item"><img src="/img/portfolio/wantjp4.png" alt="want.jp"
-                                            class="img-responsive center-block"></div>
+                                    <div class="m-app-item"><img src="/img/portfolio/wantjp1.png" alt="want.jp" class="img-responsive center-block">
+                                    </div>
+                                    <div class="m-app-item"><img src="/img/portfolio/wantjp2.png" alt="want.jp" class="img-responsive center-block">
+                                    </div>
+                                    <div class="m-app-item"><img src="/img/portfolio/wantjp3.png" alt="want.jp" class="img-responsive center-block">
+                                    </div>
+                                    <div class="m-app-item"><img src="/img/portfolio/wantjp4.png" alt="want.jp" class="img-responsive center-block">
+                                    </div>
                                 </div>
                                 <br>
                                 <p>Want.jp</p>
@@ -1629,8 +1604,7 @@
                             <div class="col-md-4 col-xs-6">
                                 <div class="mobile-app-container same-height ">
                                     <div class="m-app-item">
-                                        <img src="/img/portfolio/apps-nlec.jpg" alt="NLEC Nihongo E-Learning PWA"
-                                            class="img-responsive center-block">
+                                        <img src="/img/portfolio/apps-nlec.jpg" alt="NLEC Nihongo E-Learning PWA" class="img-responsive center-block">
                                     </div>
                                 </div>
                                 <br>
@@ -1639,17 +1613,17 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <div class="mobile-app-container same-height">
-                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding.jpg"
-                                            alt="JBA Indonesia オークション入札Androidアプリ" class="img-responsive center-block">
+                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding.jpg" alt="JBA Indonesia オークション入札Androidアプリ"
+                                            class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding2.jpg"
-                                            alt="JBA Indonesia オークション入札Androidアプリ" class="img-responsive center-block">
+                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding2.jpg" alt="JBA Indonesia オークション入札Androidアプリ"
+                                            class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding3.jpg"
-                                            alt="JBA Indonesia オークション入札Androidアプリ" class="img-responsive center-block">
+                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding3.jpg" alt="JBA Indonesia オークション入札Androidアプリ"
+                                            class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding4.jpg"
-                                            alt="JBA Indonesia オークション入札Androidアプリ" class="img-responsive center-block">
+                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding4.jpg" alt="JBA Indonesia オークション入札Androidアプリ"
+                                            class="img-responsive center-block">
                                     </div>
                                 </div>
                                 <br>
@@ -1658,10 +1632,10 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <div class="mobile-app-container same-height">
-                                    <div class="m-app-item"><img src="/img/portfolio/apps-oto-1.jpg"
-                                            alt="Otomart - Used Car on Sale Finder App" class="img-responsive center-block"></div>
-                                    <div class="m-app-item"><img src="/img/portfolio/apps-oto-2.jpg"
-                                            alt="Otomart - Used Car on Sale Finder App" class="img-responsive center-block"></div>
+                                    <div class="m-app-item"><img src="/img/portfolio/apps-oto-1.jpg" alt="Otomart - Used Car on Sale Finder App"
+                                            class="img-responsive center-block"></div>
+                                    <div class="m-app-item"><img src="/img/portfolio/apps-oto-2.jpg" alt="Otomart - Used Car on Sale Finder App"
+                                            class="img-responsive center-block"></div>
                                 </div>
                                 <br>
                                 <p>Otomart - Used Car on Sale Finder App</p>
@@ -1711,16 +1685,13 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <div class="mobile-app-container same-height">
-                                    <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect1.jpg"
-                                            alt="JBA Indonesia - Car Inspection App"
+                                    <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect1.jpg" alt="JBA Indonesia - Car Inspection App"
                                             class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect2.jpg"
-                                            alt="JBA Indonesia - Car Inspection App"
+                                    <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect2.jpg" alt="JBA Indonesia - Car Inspection App"
                                             class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect3.jpg"
-                                            alt="JBA Indonesia - Car Inspection App"
+                                    <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect3.jpg" alt="JBA Indonesia - Car Inspection App"
                                             class="img-responsive center-block">
                                     </div>
                                 </div>
@@ -1730,20 +1701,16 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <div class="mobile-app-container same-height">
-                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-1.jpg"
-                                            alt="WEEO Testing App"
+                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-1.jpg" alt="WEEO Testing App"
                                             class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-2.jpg"
-                                            alt="WEEO Testing App"
+                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-2.jpg" alt="WEEO Testing App"
                                             class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-3.jpg"
-                                            alt="WEEO Testing App"
+                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-3.jpg" alt="WEEO Testing App"
                                             class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-4.jpg"
-                                            alt="WEEO Testing App"
+                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-4.jpg" alt="WEEO Testing App"
                                             class="img-responsive center-block">
                                     </div>
                                 </div>
@@ -1777,8 +1744,7 @@
                         <div class="slider-other-client-container">
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/opus-park-facebook.png" alt="Opus Park (Facebook)"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/opus-park-facebook.png" alt="Opus Park (Facebook)" class="img-responsive center-block">
                                 </div>
                                 Opus Park (Facebook)
                                 <div class="addition-desc text-center">
@@ -1788,8 +1754,7 @@
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/mason-de-res.jpg" alt="Mason de Res - (Facebook)"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/mason-de-res.jpg" alt="Mason de Res - (Facebook)" class="img-responsive center-block">
                                 </div>
                                 Mason de Res - (Facebook)
                                 <div class="addition-desc text-center">
@@ -1798,8 +1763,7 @@
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/ajapan-sosmed.png"
-                                        alt="Ajapan Dance Instagram Competition - Waku Waku Japan"
+                                    <img src="/img/portfolio/ajapan-sosmed.png" alt="Ajapan Dance Instagram Competition - Waku Waku Japan"
                                         class="img-responsive center-block">
                                 </div>
                                 Ajapan Dance Instagram Competition - Waku Waku Japan
@@ -1809,8 +1773,7 @@
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/60jpid-DM.png" alt="日本インドネシア国交樹立60周年記念事業"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/60jpid-DM.png" alt="日本インドネシア国交樹立60周年記念事業" class="img-responsive center-block">
                                 </div>
                                 日本インドネシア国交樹立60周年記念事業
                                 <div class="addition-desc text-center">
@@ -1827,25 +1790,26 @@
                                     <small class="text-muted">(SEO対策、コンテンツ制作、ページ速度、検索順位)</small>
                                 </div>
                             </div>
-							<div class="other-client-item">
+                            <div class="other-client-item">
                                 <div class="img-thumb">
                                     <img src="/img/portfolio/royal-amanda.png" alt="Royal Armada" class="img-responsive center-block">
                                 </div>
                                 Royal Armada
                                 <div class="addition-desc">
-                                    <small class="text-muted">(Google Search Ads, Google Display Ads (GDN), Facebook Ads, Instagram Ads)</small>
+                                    <small class="text-muted">(Google Search Ads, Google Display Ads (GDN), Facebook
+                                        Ads, Instagram Ads)</small>
                                 </div>
                             </div>
-							<div class="other-client-item">
+                            <div class="other-client-item">
                                 <div class="img-thumb">
                                     <img src="/img/portfolio/pilipili.png" alt="PiliPili" class="img-responsive center-block">
                                 </div>
-                                PiliPili 
+                                PiliPili
                                 <div class="addition-desc">
                                     <small class="text-muted">(SEO and Web maintenance)</small>
                                 </div>
                             </div>
-							<div class="other-client-item">
+                            <div class="other-client-item">
                                 <div class="img-thumb">
                                     <img src="/img/portfolio/fiona.png" alt="Fiona Cosmetics" class="img-responsive center-block">
                                 </div>
@@ -1856,29 +1820,25 @@
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/video-mysunlife.jpg" alt="2D ビデオ制作（SunLife)"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/video-mysunlife.jpg" alt="2D ビデオ制作（SunLife)" class="img-responsive center-block">
                                 </div>
                                 2D ビデオ制作（SunLife)
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/video-mysunlife2.jpg" alt="2D ビデオ制作（SunLife)"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/video-mysunlife2.jpg" alt="2D ビデオ制作（SunLife)" class="img-responsive center-block">
                                 </div>
                                 2D ビデオ制作（SunLife)
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/video-otomart.jpg" alt="2D ビデオ制作 (OTOmart)"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/video-otomart.jpg" alt="2D ビデオ制作 (OTOmart)" class="img-responsive center-block">
                                 </div>
                                 2D ビデオ制作 (OTOmart)
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/video-otomart2.jpg" alt="2D ビデオ制作 (OTOmart)"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/video-otomart2.jpg" alt="2D ビデオ制作 (OTOmart)" class="img-responsive center-block">
                                 </div>
                                 2D ビデオ制作 (OTOmart)
                             </div>
@@ -1890,8 +1850,7 @@
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/onitsuka-mockup.jpg" alt="会社案内制作"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/onitsuka-mockup.jpg" alt="会社案内制作" class="img-responsive center-block">
                                 </div>
                                 会社案内制作
                             </div>
@@ -1903,8 +1862,7 @@
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/insta-vid.png" alt="インスタグラムビデオ投稿コンテスト"
-                                        class="img-responsive center-block insta-vid">
+                                    <img src="/img/portfolio/insta-vid.png" alt="インスタグラムビデオ投稿コンテスト" class="img-responsive center-block insta-vid">
                                 </div>
                                 インスタグラムビデオ投稿コンテスト
                             </div>
@@ -1929,8 +1887,7 @@
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/sunlife-flyer.jpg" alt="リーフレット制作＆印刷"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/sunlife-flyer.jpg" alt="リーフレット制作＆印刷" class="img-responsive center-block">
                                 </div>
                                 リーフレット制作＆印刷
                             </div>
@@ -1942,8 +1899,7 @@
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/sunlife-polo-shirt.jpg" alt="ユニフォーム制作"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/sunlife-polo-shirt.jpg" alt="ユニフォーム制作" class="img-responsive center-block">
                                 </div>
                                 ユニフォーム制作
                             </div>
@@ -1955,15 +1911,13 @@
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/bumbu-warasa-1.jpg" alt="プロダクトデザイン"
-                                        class="img-responsive center-block">
+                                    <img src="/img/portfolio/bumbu-warasa-1.jpg" alt="プロダクトデザイン" class="img-responsive center-block">
                                 </div>
                                 プロダクトデザイン
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/minum-warasa-1.jpg" alt="プロダクトデザイン"
-                                        class="same-height img-responsive center-block">
+                                    <img src="/img/portfolio/minum-warasa-1.jpg" alt="プロダクトデザイン" class="same-height img-responsive center-block">
                                 </div>
                                 プロダクトデザイン
                             </div>
@@ -1997,8 +1951,8 @@
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/60jpid_catalog.png" alt="カタログ制作＆印刷"
-                                        class="img-responsive center-block" style="height: 224px">
+                                    <img src="/img/portfolio/60jpid_catalog.png" alt="カタログ制作＆印刷" class="img-responsive center-block"
+                                        style="height: 224px">
                                 </div>
                                 カタログ制作＆印刷
                             </div>
@@ -2138,14 +2092,14 @@
             speed: 300,
             slidesToShow: 1,
             slidesToScroll: 1,
-            
+
         });
         $('#PWA .btn-more-portfolio').on('click', function() {
             $('.mobile-app-container').resize();
         });
         </script>
         <script>
-        function jump(h){
+        function jump(h) {
             var top = document.getElementById(h).offsetTop;
             window.scrollTo(0, top);
         }
