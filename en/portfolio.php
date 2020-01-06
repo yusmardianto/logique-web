@@ -173,6 +173,28 @@
                         <div class="title"><b>Our</b><span class="yellow"> Client</span></div>
                         <p class="title__description">LOGIQUE has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our Web creation, mobile app / PWA development, IT system development, and digital marketing consulting portfolio.</p>
                     </div>
+
+                    <div class="client-list__wrapper">
+                        <h3 class="portfolio-sec__title">Our Client</h3>
+                        <div class="client-list">
+                            <img class="client-list__img" src="/img/portfolio/client-list/aia.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/assa.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/asean.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/jba.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/jjc.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/j-trust.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/mitsubishi.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/panin.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/pasaraya.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/pertamina.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sinarmas.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sunlife.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sumitomo.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/toyota.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/triputra.png" alt="">
+                        </div>
+                    </div>
+
                     <div class="page-nav">
                         <a class="page-nav__btn" href="#webDev">Website <br>Development</a>
                         <a class="page-nav__btn" href="#sysDev">System <br>Development</a>

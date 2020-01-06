@@ -173,6 +173,28 @@
                 <div class="container__ text-center">
                     <div class="title"><b>Klien</b><span class="yellow"> Kami</span></div>
                     <p class="title__description">LOGIQUE telah mengembangkan banyak Situs Web, Sistem dan Aplikasi, untuk klien-klien kami. Berikut adalah beberapa kreasi Web, pengembangan aplikasi seluler / PWA, pengembangan sistem TI, dan portofolio konsultasi pemasaran digital kami.</p>
+
+                    <div class="client-list__wrapper">
+                        <h3 class="portfolio-sec__title">Klien Kami</h3>
+                        <div class="client-list">
+                            <img class="client-list__img" src="/img/portfolio/client-list/aia.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/assa.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/asean.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/jba.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/jjc.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/j-trust.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/mitsubishi.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/panin.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/pasaraya.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/pertamina.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sinarmas.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sunlife.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sumitomo.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/toyota.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/triputra.png" alt="">
+                        </div>
+                    </div>
+
                     <div class="page-nav text-center">
                         <a class="page-nav__btn" href="#webDev">WEB</a>
                         <a class="page-nav__btn" href="#sysDev">Portofolio Pengembangan <br>Sistem</a>
