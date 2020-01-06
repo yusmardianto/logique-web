@@ -177,21 +177,21 @@
                     <div class="client-list__wrapper">
                         <h3 class="portfolio-sec__title">Our Client</h3>
                         <div class="client-list">
-                            <img class="client-list__img" src="/img/portfolio/client-list/aia.png" alt="">
-                            <img class="client-list__img" src="/img/portfolio/client-list/assa.png" alt="">
-                            <img class="client-list__img" src="/img/portfolio/client-list/asean.png" alt="">
-                            <img class="client-list__img" src="/img/portfolio/client-list/jba.png" alt="">
-                            <img class="client-list__img" src="/img/portfolio/client-list/jjc.png" alt="">
-                            <img class="client-list__img" src="/img/portfolio/client-list/j-trust.png" alt="">
-                            <img class="client-list__img" src="/img/portfolio/client-list/mitsubishi.png" alt="">
-                            <img class="client-list__img" src="/img/portfolio/client-list/panin.png" alt="">
-                            <img class="client-list__img" src="/img/portfolio/client-list/pasaraya.png" alt="">
-                            <img class="client-list__img" src="/img/portfolio/client-list/pertamina.png" alt="">
-                            <img class="client-list__img" src="/img/portfolio/client-list/sinarmas.png" alt="">
-                            <img class="client-list__img" src="/img/portfolio/client-list/sunlife.png" alt="">
-                            <img class="client-list__img" src="/img/portfolio/client-list/sumitomo.png" alt="">
-                            <img class="client-list__img" src="/img/portfolio/client-list/toyota.png" alt="">
-                            <img class="client-list__img" src="/img/portfolio/client-list/triputra.png" alt="">
+                            <img class="client-list__img" src="/img/portfolio/client-list/aia.png" alt="aia">
+                            <img class="client-list__img" src="/img/portfolio/client-list/assa.png" alt="assa">
+                            <img class="client-list__img" src="/img/portfolio/client-list/asean.png" alt="asean">
+                            <img class="client-list__img" src="/img/portfolio/client-list/jba.png" alt="jba">
+                            <img class="client-list__img" src="/img/portfolio/client-list/jjc.png" alt="jjc">
+                            <img class="client-list__img" src="/img/portfolio/client-list/j-trust.png" alt="j-trust">
+                            <img class="client-list__img" src="/img/portfolio/client-list/mitsubishi.png" alt="mitsubishi">
+                            <img class="client-list__img" src="/img/portfolio/client-list/panin.png" alt="panin">
+                            <img class="client-list__img" src="/img/portfolio/client-list/pasaraya.png" alt="pasaraya">
+                            <img class="client-list__img" src="/img/portfolio/client-list/pertamina.png" alt="pertamina">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sinarmas.png" alt="sinarmas">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sunlife.png" alt="sunlife">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sumitomo.png" alt="sumitomo">
+                            <img class="client-list__img" src="/img/portfolio/client-list/toyota.png" alt="toyota">
+                            <img class="client-list__img" src="/img/portfolio/client-list/triputra.png" alt="triputra">
                         </div>
                     </div>
 
