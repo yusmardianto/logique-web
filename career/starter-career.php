@@ -146,7 +146,7 @@
 
         <!-- HEADER -->
         <div class="container-fluid">
-            <div class="lang-logo--update-design">
+            <div class="row lang-logo--update-design">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-8">
