@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:300,400,500,700,900&display=swap'");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,800&display=swap");
 html,
 body {
   font-family: "Raleway", "sans-serif";
@@ -456,11 +457,7 @@ button:focus {
 .content-wrapper__ .bg--white {
   background-color: #fff;
 }
-@media (max-width: 500px) {
-  .content-wrapper__ .--top {
-    margin-top: 6.5em !important;
-  }
-}
+
 @media (max-width: 767px) {
   .content-wrapper__ {
     margin-left: 0;
@@ -476,6 +473,7 @@ button:focus {
 .container__.header-banner {
   padding-top: 0;
   padding-bottom: 4.4em;
+  min-height: 400px;
 }
 @media (max-width: 500px) {
   .container__ {
@@ -733,7 +731,7 @@ ul.medsos-new li a {
 /* Breadcrumb */
 .breadcrumb--update-design {
   font-size: 16px;
-  padding: 1.5em 15px;
+  padding: 1em 15px;
   padding-left: 0;
   background-color: transparent;
   font-weight: bold;
@@ -742,11 +740,18 @@ ul.medsos-new li a {
 
 .breadcrumb--update-design a {
   /* color: #ffca13; */
+  font-size: 13px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
   color: #fff;
 }
 
 .breadcrumb--update-design li.active a {
   /* color: #000; */
+}
+.breadcrumb--update-design > li + li:before {
+  content: "\003E";
+  color: #fff;
 }
 /* End Breadcrumb */
 

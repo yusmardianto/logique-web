@@ -144,7 +144,7 @@
     <!-- NAVIGATION -->
 
     <!-- HEADER -->
-    <div class="container-fluid">
+    <div class="container">
       <div class="row lang-logo--update-design">
         <div class="container">
           <div class="row">
@@ -166,21 +166,18 @@
     <!-- END HEADER -->
 
     <style>
-    @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,800&display=swap');
-
-    .career-update,
+    /* .career-update,
     .career-update .csection {
       padding: 2em 0;
+      
+    } */
+
+    .career-update--bg-grey {
       background: #f5f5f5;
     }
 
-    .banner-top {
-      background-image: url('/img/career/lowongan/banner-top.png');
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-position: center center;
-      /* padding-bottom: 32%; */
-      min-height: 400px;
+    .bg--banner-lowongan {
+      background: url('/img/career/lowongan/banner-top.png') center/cover no-repeat;
     }
 
     .heading-bold {
@@ -188,9 +185,8 @@
       color: #000;
     }
 
-    .row {
-      margin-left: 0;
-      margin-right: 0;
+    .row.row__same-height ['col-xs-12']:last-child {
+      margin-bottom: 0 !important;
     }
 
     @media (min-width: 768px) {
@@ -336,29 +332,38 @@
     }
     </style>
 
-    <div class="career-update content-wrapper__">
-      <div class="banner-top ">
-        <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
-          <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-              href="index.php"><span itemprop="name">Beranda</span></a>
-            <meta itemprop="position" content="1" />
-          </li>
-          <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-              href="index.php"><span itemprop="name">Karir</span></a>
-            <meta itemprop="position" content="2" />
-          </li>
-          <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-              itemprop="item"><span itemprop="name">&nbsp; Wawancara dan Foto</span></a>
-            <meta itemprop="position" content="3" />
-          </li>
-        </ol>
-        <h1>Lowongan</h1>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-          magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-        </p>
-      </div>
-      <section class="csection container__">
+    <div class="career-update career-update--bg-grey content-wrapper__">
+      <section class="--top bg--banner-lowongan">
+        <div class="container__ header-banner">
+          <div class="row">
+            <div class="col-sm-12">
+              <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                    href="index.php"><span itemprop="name">Beranda</span></a>
+                  <meta itemprop="position" content="1" />
+                </li>
+                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                    href="index.php"><span itemprop="name">Karir</span></a>
+                  <meta itemprop="position" content="2" />
+                </li>
+                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                    itemprop="item"><span itemprop="name">&nbsp; Wawancara dan Foto</span></a>
+                  <meta itemprop="position" content="3" />
+                </li>
+              </ol>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <h1 class="header__title">Lowongan</h1>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore
+                magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="container__">
 
         <div class="row row__same-height">
           <div class="col-xs-12">
@@ -423,7 +428,7 @@
           </div>
         </div>
       </section>
-      <section class="csection container__">
+      <section class="container__">
         <div class="row">
           <div class="col-xs-12">
             <h2 class="heading-bold mb--40">
@@ -467,7 +472,7 @@
 
       </section>
 
-      <section class="csection container__">
+      <section class="container__">
 
         <div class="row row__same-height">
           <div class="col-xs-12">
@@ -533,7 +538,7 @@
         </div>
       </section>
 
-      <section class="csection container__">
+      <section class="container__">
 
         <div class="row row__same-height">
           <div class="col-xs-12">
@@ -700,7 +705,7 @@
         </div>
       </section>
 
-      <section class="csection container__">
+      <section class="container__">
 
         <div class="row row__same-height">
           <div class="col-xs-12">
@@ -808,7 +813,7 @@
         </div>
       </section>
 
-      <section class="csection container__">
+      <section class="container__">
 
         <div class="row row__same-height">
           <div class="col-xs-12">
@@ -874,11 +879,14 @@
         </div>
       </section>
 
-      <section class="csection container__">
-        <h2 class="heading-bold mb--40">
-          Lowongan Sales & Marketing / BackOffice
-        </h2>
+      <section class="container__">
+
         <div class="row row__same-height">
+          <div class="col-xs-12">
+            <h2 class="heading-bold mb--40">
+              Lowongan Sales & Marketing / BackOffice
+            </h2>
+          </div>
           <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/sales-marketing.png"
@@ -962,11 +970,14 @@
         </div>
       </section>
 
-      <section class="csection container__">
-        <h2 class="heading-bold mb--40">
-          Magang
-        </h2>
+      <section class="container__">
+
         <div class="row row__same-height">
+          <div class="col-xs-12">
+            <h2 class="heading-bold mb--40">
+              Magang
+            </h2>
+          </div>
           <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/sales-marketing.png"
@@ -1048,18 +1059,22 @@
           </div>
         </div>
       </section>
-      <section class="csection container__">
-        <div class="max-800 text-center">
-          <p>
-            <strong>
-              If you are career center staff in university and would like to introduce someone to LOGIQUE,
-              stronglease feel free to contact our HR staff.
-            </strong>
-          </p>
-          <a class="btn-banner-pattern mt--50" href="#">
-            <img class="img-responsive" src="/img/career/lowongan/bg-pattern-1.png" alt="Contact Us">
-            <strong>Contact Us</strong>
-          </a>
+      <section class="container__">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="max-800 text-center">
+              <p>
+                <strong>
+                  If you are career center staff in university and would like to introduce someone to LOGIQUE,
+                  stronglease feel free to contact our HR staff.
+                </strong>
+              </p>
+              <a class="btn-banner-pattern mt--50" href="#">
+                <img class="img-responsive" src="/img/career/lowongan/bg-pattern-1.png" alt="Contact Us">
+                <strong>Contact Us</strong>
+              </a>
+            </div>
+          </div>
         </div>
       </section>
       <div class="row">
