@@ -208,6 +208,7 @@
       border-radius: 10px;
       padding: 18px 22px 23px 22px;
       font-family: 'Open Sans', sans-serif;
+      overflow: hidden;
     }
 
     .card-box.card-box__urgent::before {
@@ -358,9 +359,12 @@
         </p>
       </div>
       <section class="csection container__">
-        <h2 class="heading-bold mb--40">Urgently Needed Positions</h2>
+
         <div class="row row__same-height">
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12">
+            <h2 class="heading-bold mb--40">Urgently Needed Positions</h2>
+          </div>
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box card-box__urgent">
               <img class="img-responsive card-icon" src="/img/career/lowongan/idea.png" alt="Project Manager">
               <h3 class="heading-bold">Project Manager</h3>
@@ -379,7 +383,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box card-box__urgent">
               <img class="img-responsive card-icon" src="/img/career/lowongan/quality.png" alt="QA Specialist">
               <h3 class="heading-bold">QA Specialist</h3>
@@ -398,7 +402,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box card-box__urgent">
               <img class="img-responsive card-icon" src="/img/career/lowongan/ux-design.png" alt="UI/UX Designer">
               <h3 class="heading-bold">UI/UX Designer</h3>
@@ -420,49 +424,56 @@
         </div>
       </section>
       <section class="csection container__">
-        <h2 class="heading-bold mb--40">
-          News / Recruitment Topics
-        </h2>
-        <ul class="news-list">
-          <li>
-            <a href="#">
-              <span class="news-list__news-date">
-                21st Dec 2019
-              </span>
-              <span>
-                We're looking for QA Lead. Get this opportunity now!
-              </span>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <span class="news-list__news-date">
-                18st Dec 2019
-              </span>
-              <span>
-                We will join the career event in President University on 2nd March
-              </span>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <span class="news-list__news-date">
-                13th Dec 2019
-              </span>
-              <span>
-                We opened the urgent hiring of Senior PHP programmer position.
-              </span>
-            </a>
-          </li>
-        </ul>
+        <div class="row">
+          <div class="col-xs-12">
+            <h2 class="heading-bold mb--40">
+              News / Recruitment Topics
+            </h2>
+            <ul class="news-list">
+              <li>
+                <a href="#">
+                  <span class="news-list__news-date">
+                    21st Dec 2019
+                  </span>
+                  <span>
+                    We're looking for QA Lead. Get this opportunity now!
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <span class="news-list__news-date">
+                    18st Dec 2019
+                  </span>
+                  <span>
+                    We will join the career event in President University on 2nd March
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <span class="news-list__news-date">
+                    13th Dec 2019
+                  </span>
+                  <span>
+                    We opened the urgent hiring of Senior PHP programmer position.
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+
       </section>
 
       <section class="csection container__">
-        <h2 class="heading-bold mb--40">
-          Lowongan IT Generalist
-        </h2>
+
         <div class="row row__same-height">
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12">
+            <h2 class="heading-bold mb--40">Lowongan IT Generalist</h2>
+          </div>
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/idea.png" alt="Project Manager">
               <h3 class="heading-bold">Project Manager</h3>
@@ -481,7 +492,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/analysis.png" alt="Business Analyst">
               <h3 class="heading-bold">Business Analyst</h3>
@@ -500,7 +511,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/clock.png" alt="Product Manager">
               <h3 class="heading-bold">Product Manager</h3>
@@ -523,11 +534,12 @@
       </section>
 
       <section class="csection container__">
-        <h2 class="heading-bold mb--40">
-          Lowongan Programmer
-        </h2>
+
         <div class="row row__same-height">
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12">
+            <h2 class="heading-bold mb--40">Lowongan Programmer</h2>
+          </div>
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="Web Developer">
               <h3 class="heading-bold">Web Developer</h3>
@@ -546,7 +558,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="Front End Programmer">
               <h3 class="heading-bold">Front End Programmer</h3>
@@ -565,7 +577,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="ReactJS Programmer">
               <h3 class="heading-bold">ReactJS Programmer</h3>
@@ -587,7 +599,7 @@
         </div>
 
         <div class="row row__same-height">
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="React Native Developer">
               <h3 class="heading-bold">React Native Developer</h3>
@@ -606,7 +618,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="Flutter Programmer">
               <h3 class="heading-bold">Flutter Programmer</h3>
@@ -625,7 +637,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="Go Lang Programmer">
               <h3 class="heading-bold">Go Lang Programmer</h3>
@@ -647,7 +659,7 @@
         </div>
 
         <div class="row row__same-height">
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="PHP Programmer">
               <h3 class="heading-bold">PHP Programmer</h3>
@@ -666,7 +678,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="Programmer">
               <h3 class="heading-bold">Programmer</h3>
@@ -689,11 +701,12 @@
       </section>
 
       <section class="csection container__">
-        <h2 class="heading-bold mb--40">
-          Lowongan Designer / Digital Marketing
-        </h2>
+
         <div class="row row__same-height">
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12">
+            <h2 class="heading-bold mb--40">Lowongan Designer / Digital Marketing</h2>
+          </div>
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/ux-design.png" alt="UI/UX Designer">
               <h3 class="heading-bold">UI/UX Designer</h3>
@@ -712,7 +725,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/seo-tag.png" alt="SEO Specialist">
               <h3 class="heading-bold">SEO Specialist</h3>
@@ -731,7 +744,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/digital-ads.png"
                 alt="Digital Ad Specialist">
@@ -754,7 +767,7 @@
         </div>
 
         <div class="row row__same-height">
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/content.png" alt="UI/UX Designer">
               <h3 class="heading-bold">Content Writer</h3>
@@ -773,7 +786,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/webmaster.png" alt="Web Master">
               <h3 class="heading-bold">Web Master</h3>
@@ -796,11 +809,12 @@
       </section>
 
       <section class="csection container__">
-        <h2 class="heading-bold mb--40">
-          Lowongan Other IT Specialist
-        </h2>
+
         <div class="row row__same-height">
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12">
+            <h2 class="heading-bold mb--40">Lowongan Other IT Specialist</h2>
+          </div>
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/password.png" alt="Security Specialist">
               <h3 class="heading-bold">Security Specialist</h3>
@@ -819,7 +833,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/server.png" alt="DevOps">
               <h3 class="heading-bold">DevOps</h3>
@@ -838,7 +852,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/quality.png" alt="QA Specialist">
               <h3 class="heading-bold">QA Specialist</h3>
@@ -865,7 +879,7 @@
           Lowongan Sales & Marketing / BackOffice
         </h2>
         <div class="row row__same-height">
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/sales-marketing.png"
                 alt="Sales & Marketing">
@@ -885,7 +899,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/handshake.png" alt="General Affair">
               <h3 class="heading-bold">General Affair</h3>
@@ -904,7 +918,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/hr.png" alt="HR">
               <h3 class="heading-bold">HR</h3>
@@ -926,7 +940,7 @@
         </div>
 
         <div class="row row__same-height">
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/budget.png" alt="Accounting">
               <h3 class="heading-bold">Accounting</h3>
@@ -953,7 +967,7 @@
           Magang
         </h2>
         <div class="row row__same-height">
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/sales-marketing.png"
                 alt="Sales & Marketing">
@@ -973,7 +987,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/handshake.png" alt="General Affair">
               <h3 class="heading-bold">General Affair</h3>
@@ -992,7 +1006,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/hr.png" alt="HR">
               <h3 class="heading-bold">HR</h3>
@@ -1013,7 +1027,7 @@
           </div>
         </div>
         <div class="row row__same-height">
-          <div class="col-sm-4 mb--30">
+          <div class="col-xs-12 col-md-4 mb--30">
             <div class="card-box">
               <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="Programmer">
               <h3 class="heading-bold">Programmer</h3>
