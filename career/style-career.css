@@ -706,12 +706,16 @@ ul.medsos-new li a {
 
 /* BG */
 .bg--informasi {
-  background: url("../img/career/bg-img/bg-informasi.png") center/cover
-    no-repeat;
+  background: url("../img/career/bg-img/bg-informasi.png") center/cover no-repeat;
 }
 .bg--interview {
-  background: url("../img/career/bg-img/bg-interview.png") center/cover
-    no-repeat;
+  background: url("../img/career/bg-img/bg-interview.png") center/cover no-repeat;
+}
+.bg--h-vision {
+  background: url("../img/career/bg-img/bg-head-vision.png") center/cover no-repeat;
+}
+.bg--working {
+  background: url("../img//career/bg-img/bg-working.png") center/cover no-repeat;
 }
 .bg--vision {
   background: url("../img/career/bg-img/bg-vision.png") center/cover no-repeat;
@@ -807,8 +811,12 @@ ul.medsos-new li a {
   color: #fff;
 }
 
+.breadcrumb--update-design a:hover {
+  color: #fbc935;
+}
+
 .breadcrumb--update-design li.active a {
-  /* color: #000; */
+  color: #fff !important;
 }
 .breadcrumb--update-design > li + li:before {
   content: "\003E";
@@ -835,6 +843,10 @@ ul.medsos-new li a {
   margin-top: 40px;
   margin-bottom: 15px;
   color: #fff;
+}
+
+.header__title.--black {
+  color: #000;
 }
 
 @media (max-width: 767px) {
@@ -1020,3 +1032,109 @@ ul.medsos-new li a {
   padding-bottom: 1em;
 }
 /* End Work Location */
+
+/* Vision Box */
+.vision-box {
+  text-align: center;
+  margin-bottom: 3.3em;
+}
+.vision-box__title {
+  background-color: #000;
+  color: #fff;
+  display: inline-block;
+  position: relative;
+  bottom: -17px;
+  font-size: 30px;
+  border-radius: 5px;
+font-weight: 900;
+width: 335px;
+box-shadow: 0px 8px 12px -2px rgba(0, 0, 0, 0.1);
+}
+.vision-box__content {
+  font-family: "Open Sans", sans-serif;
+  box-shadow: 0px 8px 12px -2px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  padding: 2em;
+}
+/* End Vision Box */
+
+/* Benefit */
+.benefit-card {
+  border-radius: 12px;
+  box-shadow: 0px 8px 12px -2px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.benefit-card__img-wrapper {
+  width: 100%;
+  height: 325px;
+  background-color: #fbc935;
+}
+.benefit-card__img {
+  min-height: 100%;
+}
+.benefit-card__content {
+  padding: 15px;
+  min-height: 200px;
+}
+.benefit-card__title {
+  font-size: 22px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+.benefit-card__text {
+  font-family: "Open Sans", sans-serif;
+}
+.benefit {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 4em;
+}
+.benefit__item {
+  width: 33.3%;
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+.benefit__img {
+  max-width: 55px;
+  max-height: 55px;
+  margin-right: 35px;
+}
+
+.benefit__text {
+  font-size: 20px;
+font-weight: bold;
+}
+/* End Benefit */
+
+/* HR Rule */
+.hr-rule {
+   border-radius: 10px;
+   padding: 20px 30px;
+   box-shadow: 0px 5px 9px 0px rgba(0, 0, 0, 0.1);
+   margin-bottom: 2em;
+}
+.hr-rule__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* margin-bottom: 1.5em; */
+}
+.hr-rule__chevron {
+  font-size: 30px !important;
+  cursor: pointer;
+}
+.hr-rule__title {
+  font-size: 28px;
+font-weight: 600;
+}
+.hr-rule__content ol {
+  padding-left: 15px;
+}
+.hr-rule__content li {
+  padding-left: 15px;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 20px;
+}
+/* End HR Rule */
