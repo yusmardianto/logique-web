@@ -171,7 +171,7 @@
 
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
-                    <div class="title"><b>Klien</b><span class="yellow"> Kami</span></div>
+                    <div class="title"><b>Our</b><span class="yellow"> Portfolio</span></div>
                     <p class="title__description">LOGIQUE telah mengembangkan banyak Situs Web, Sistem dan Aplikasi, untuk klien-klien kami. Berikut adalah beberapa kreasi Web, pengembangan aplikasi seluler / PWA, pengembangan sistem TI, dan portofolio konsultasi pemasaran digital kami.</p>
 
                     <div class="client-list__wrapper">

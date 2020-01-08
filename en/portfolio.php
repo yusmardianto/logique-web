@@ -170,12 +170,12 @@
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
                     <div>
-                        <div class="title"><b>Our</b><span class="yellow"> Client</span></div>
+                        <div class="title"><b>Our</b><span class="yellow"> Portfolio</span></div>
                         <p class="title__description">LOGIQUE has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our Web creation, mobile app / PWA development, IT system development, and digital marketing consulting portfolio.</p>
                     </div>
 
                     <div class="client-list__wrapper">
-                        <h3 class="portfolio-sec__title">Our Client</h3>
+                        <h3 class="portfolio-sec__title">Our Clients</h3>
                         <div class="client-list">
                             <img class="client-list__img" src="/img/portfolio/client-list/aia.png" alt="aia">
                             <img class="client-list__img" src="/img/portfolio/client-list/assa.png" alt="assa">
