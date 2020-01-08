@@ -112,6 +112,27 @@ div:focus {
   outline: none;
 }
 
+.mt--50 {
+  margin-top: 50px;
+}
+
+.mb--60 {
+  margin-bottom: 60px;
+}
+
+.mb--40 {
+  margin-bottom: 40px;
+}
+
+.mb--30 {
+  margin-bottom: 30px;
+}
+
+.py-15 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
 /*** Header & Navbar ***/
 span {
   margin: 0;
@@ -451,6 +472,38 @@ button:focus {
   padding-bottom: 12px;
 }
 
+.btn-banner-pattern {
+  display: inline-block;
+  color: #000;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  position: relative;
+  font-weight: 600;
+  font-size: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 6px 14px 0px rgba(0, 0, 0, 0.14);
+}
+
+@media (max-width: 767px) {
+  .btn-banner-pattern {
+    max-width: 300px;
+    font-size: 18px;
+  }
+}
+
+.btn-banner-pattern span {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.btn-banner-pattern:hover {
+  color: #000;
+}
+
 /*** Content Wrapper ***/
 .content-wrapper__ .--top {
   margin-top: 4.3em;
@@ -511,6 +564,9 @@ button:focus {
 .career-update .csection {
   background: #fff;
   padding: 5em 0 3em;
+}
+.career-update.--bg-grey {
+  background: #f5f5f5;
 }
 /*** End Content Wrapper ***/
 
@@ -650,10 +706,12 @@ ul.medsos-new li a {
 
 /* BG */
 .bg--informasi {
-  background: url("../img/career/bg-img/bg-informasi.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-informasi.png") center/cover
+    no-repeat;
 }
 .bg--interview {
-  background: url("../img/career/bg-img/bg-interview.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-interview.png") center/cover
+    no-repeat;
 }
 .bg--vision {
   background: url("../img/career/bg-img/bg-vision.png") center/cover no-repeat;
@@ -779,6 +837,12 @@ ul.medsos-new li a {
   color: #fff;
 }
 
+@media (max-width: 767px) {
+  .header__title {
+    font-size: 45px;
+  }
+}
+
 /* End Header */
 
 /* Title */
@@ -849,7 +913,7 @@ ul.medsos-new li a {
   margin-right: 0;
 }
 
-.work-location [class*='-4'],
+.work-location [class*="-4"],
 .link-section [class*="-3"],
 .link-section [class*="-6"] {
   padding-left: 0;
@@ -926,14 +990,14 @@ ul.medsos-new li a {
   font-size: 20px;
   font-weight: 800;
   color: #000;
-  margin-left: 20px;
+  margin-left: 15px;
+  line-height: 30px;
 }
 .contact__icn {
   max-width: 40px;
   max-height: 40px;
 }
 /* End Contact Section */
-
 
 .no-gap {
   padding-left: 0;
@@ -951,8 +1015,8 @@ ul.medsos-new li a {
 .work-location__text {
   background-color: #fbc935;
   font-size: 20px;
-font-weight: 600;
-padding-top: 1em;
-padding-bottom: 1em;
+  font-weight: 600;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 /* End Work Location */

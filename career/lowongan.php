@@ -166,18 +166,8 @@
     <!-- END HEADER -->
 
     <style>
-    /* .career-update,
-    .career-update .csection {
-      padding: 2em 0;
-      
-    } */
-
-    .career-update--bg-grey {
-      background: #f5f5f5;
-    }
-
     .bg--banner-lowongan {
-      background: url('/img/career/lowongan/banner-top.png') center/cover no-repeat;
+      background: url('/img/career/bg-img/banner-lowongan-top.png') center/cover no-repeat;
     }
 
     .heading-bold {
@@ -185,9 +175,22 @@
       color: #000;
     }
 
-    .row.row__same-height ['col-xs-12']:last-child {
-      margin-bottom: 0 !important;
+    .container--max-width .row.row__same-height>.card--layout {
+      margin-bottom: 30px;
+      padding-right: 10px;
+      padding-left: 10px;
     }
+
+    .container--max-width .row.row__same-height:nth-last-child(1)>.card--layout:last-child {
+      margin-bottom: 0;
+    }
+
+    @media (min-width: 992px) {
+      .container--max-width .row.row__same-height:nth-last-child(1)>.card--layout {
+        margin-bottom: 0;
+      }
+    }
+
 
     @media (min-width: 768px) {
       .row.row__same-height {
@@ -202,9 +205,18 @@
       height: 100%;
       background-color: #fff;
       border-radius: 10px;
-      padding: 18px 22px 23px 22px;
+      padding: 18px;
       font-family: 'Open Sans', sans-serif;
       overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      transition: all 125ms ease-in;
+    }
+
+    .card-box:hover {
+      transform: translate(2px, -4px);
+      box-shadow: 0px 5px 15px -5px rgba(0, 0, 0, 0.25);
     }
 
     .card-box.card-box__urgent::before {
@@ -224,46 +236,38 @@
       border-radius: 0 0 0 35px;
     }
 
-    .card-box h3 {
+    .card-box__body h3 {
       font-size: 18px;
       margin-bottom: 10px;
     }
 
-    .card-box>img {
+    .card-box__body img {
       margin-bottom: 12px;
+      height: 60px;
+      object-fit: scale-down;
+      object-position: bottom;
     }
 
-    .card-box p {
-      font-size: 13px;
+    .card-box__body p {
+      font-size: 14px;
       color: #333;
       margin-bottom: 15px;
     }
 
-    .card-box__category {
+    .card-box__footer {
       font-weight: 600;
       font-size: 13px;
+      color: #000;
     }
 
-    .card-box__category>div {
+    .card-box__footer>div {
       display: inline-flex;
       align-items: center;
-      margin-right: 25px;
-    }
-
-    .card-box__category>div img {
       margin-right: 10px;
     }
 
-    .mt--50 {
-      margin-top: 50px;
-    }
-
-    .mb--40 {
-      margin-bottom: 40px;
-    }
-
-    .mb--30 {
-      margin-bottom: 30px;
+    .card-box__footer>div img {
+      margin-right: 8px;
     }
 
     ul.news-list {
@@ -284,59 +288,39 @@
     }
 
     ul.news-list li a>* {
-      font-size: 24px;
+      font-size: 18px;
       color: #000;
       font-family: 'Open Sans', sans-serif;
     }
 
     ul.news-list li a span.news-list__news-date {
+      display: block;
       font-weight: 600;
       margin-right: 20px;
+    }
+
+    @media (min-width: 768px) {
+      ul.news-list li a>* {
+        font-size: 24px;
+      }
+
+      ul.news-list li a span.news-list__news-date {
+        display: inline-block;
+      }
     }
 
     .max-800 {
       max-width: 800px;
       margin: auto;
     }
-
-    .btn-banner-pattern {
-      display: inline-block;
-      color: #000;
-      margin-left: auto;
-      margin-right: auto;
-      text-align: center;
-      position: relative;
-      font-weight: 600;
-      font-size: 20px;
-      border-radius: 10px;
-      box-shadow: 0px 6px 14px 0px rgba(0, 0, 0, 0.14);
-    }
-
-    @media (max-width: 767px) {
-      .btn-banner-pattern {
-        max-width: 300px;
-        font-size: 18px;
-      }
-    }
-
-    .btn-banner-pattern strong {
-      width: 100%;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-    }
-
-    .btn-banner-pattern:hover {
-      color: #000;
-    }
     </style>
 
-    <div class="career-update career-update--bg-grey content-wrapper__">
-      <section class="--top bg--banner-lowongan">
-        <div class="container__ header-banner">
+    <div class="career-update --bg-grey content-wrapper__">
+
+      <section class="container-fluid --top bg--banner-lowongan">
+        <div class="container--max-width header-banner">
           <div class="row">
-            <div class="col-sm-12">
+            <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
                     href="index.php"><span itemprop="name">Beranda</span></a>
@@ -354,7 +338,7 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
+            <div class="col-sm-offset-1 col-sm-5">
               <h1 class="header__title">Lowongan</h1>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
                 dolore
@@ -363,174 +347,137 @@
           </div>
         </div>
       </section>
-      <section class="container__">
+      <section class="container-fluid">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="row row__same-height">
+                <div class="col-xs-12">
+                  <h2 class="heading-bold mb--40">Urgently Needed Positions</h2>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box card-box__urgent">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager">
+                        <h3 class="heading-bold">Project Manager</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box card-box__urgent">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/quality.png" alt="QA Specialist">
+                        <h3 class="heading-bold">QA Specialist</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
 
-        <div class="row row__same-height">
-          <div class="col-xs-12">
-            <h2 class="heading-bold mb--40">Urgently Needed Positions</h2>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box card-box__urgent">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/idea.png" alt="Project Manager">
-              <h3 class="heading-bold">Project Manager</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
                 </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box card-box__urgent">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/quality.png" alt="QA Specialist">
-              <h3 class="heading-bold">QA Specialist</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box card-box__urgent">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/ux-design.png" alt="UI/UX Designer">
-              <h3 class="heading-bold">UI/UX Designer</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box card-box__urgent">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/ux-design.png" alt="UI/UX Designer">
+                        <h3 class="heading-bold">UI/UX Designer</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+
                 </div>
               </div>
             </div>
           </div>
         </div>
       </section>
-      <section class="container__">
-        <div class="row">
-          <div class="col-xs-12">
-            <h2 class="heading-bold mb--40">
-              News / Recruitment Topics
-            </h2>
-            <ul class="news-list">
-              <li>
-                <a href="#">
-                  <span class="news-list__news-date">
-                    21st Dec 2019
-                  </span>
-                  <span>
-                    We're looking for QA Lead. Get this opportunity now!
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <span class="news-list__news-date">
-                    18st Dec 2019
-                  </span>
-                  <span>
-                    We will join the career event in President University on 2nd March
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <span class="news-list__news-date">
-                    13th Dec 2019
-                  </span>
-                  <span>
-                    We opened the urgent hiring of Senior PHP programmer position.
-                  </span>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-
-
-      </section>
-
-      <section class="container__">
-
-        <div class="row row__same-height">
-          <div class="col-xs-12">
-            <h2 class="heading-bold mb--40">Lowongan IT Generalist</h2>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/idea.png" alt="Project Manager">
-              <h3 class="heading-bold">Project Manager</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/analysis.png" alt="Business Analyst">
-              <h3 class="heading-bold">Business Analyst</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/clock.png" alt="Product Manager">
-              <h3 class="heading-bold">Product Manager</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
+      <section class="container-fluid">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="row">
+                <div class="col-xs-12">
+                  <h2 class="heading-bold mb--40">
+                    News / Recruitment Topics
+                  </h2>
+                  <ul class="news-list">
+                    <li>
+                      <a href="#">
+                        <span class="news-list__news-date">
+                          21st Dec 2019
+                        </span>
+                        <span>
+                          We're looking for QA Lead. Get this opportunity now!
+                        </span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <span class="news-list__news-date">
+                          18st Dec 2019
+                        </span>
+                        <span>
+                          We will join the career event in President University on 2nd March
+                        </span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <span class="news-list__news-date">
+                          13th Dec 2019
+                        </span>
+                        <span>
+                          We opened the urgent hiring of Senior PHP programmer position.
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>
@@ -538,166 +485,90 @@
         </div>
       </section>
 
-      <section class="container__">
+      <section class="container-fluid">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="row row__same-height">
+                <div class="col-xs-12">
+                  <h2 class="heading-bold mb--40">Lowongan IT Generalist</h2>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager">
+                        <h3 class="heading-bold">Project Manager</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/analysis.png"
+                          alt="Business Analyst">
+                        <h3 class="heading-bold">Business Analyst</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
 
-        <div class="row row__same-height">
-          <div class="col-xs-12">
-            <h2 class="heading-bold mb--40">Lowongan Programmer</h2>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="Web Developer">
-              <h3 class="heading-bold">Web Developer</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
                 </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="Front End Programmer">
-              <h3 class="heading-bold">Front End Programmer</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="ReactJS Programmer">
-              <h3 class="heading-bold">ReactJS Programmer</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row row__same-height">
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="React Native Developer">
-              <h3 class="heading-bold">React Native Developer</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="Flutter Programmer">
-              <h3 class="heading-bold">Flutter Programmer</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="Go Lang Programmer">
-              <h3 class="heading-bold">Go Lang Programmer</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row row__same-height">
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="PHP Programmer">
-              <h3 class="heading-bold">PHP Programmer</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="Programmer">
-              <h3 class="heading-bold">Programmer</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/clock.png" alt="Product Manager">
+                        <h3 class="heading-bold">Product Manager</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
                 </div>
               </div>
             </div>
@@ -705,264 +576,220 @@
         </div>
       </section>
 
-      <section class="container__">
+      <section class="container-fluid">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="row row__same-height">
+                <div class="col-xs-12">
+                  <h2 class="heading-bold mb--40">Lowongan Programmer</h2>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web.png" alt="Web Developer">
+                        <h3 class="heading-bold">Web Developer</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web.png" alt="Front End Programmer">
+                        <h3 class="heading-bold">Front End Programmer</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web.png" alt="ReactJS Programmer">
+                        <h3 class="heading-bold">ReactJS Programmer</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
 
-        <div class="row row__same-height">
-          <div class="col-xs-12">
-            <h2 class="heading-bold mb--40">Lowongan Designer / Digital Marketing</h2>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/ux-design.png" alt="UI/UX Designer">
-              <h3 class="heading-bold">UI/UX Designer</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
+              <div class="row row__same-height">
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web.png"
+                          alt="React Native Developer">
+                        <h3 class="heading-bold">React Native Developer</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
                 </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web.png" alt="Flutter Programmer">
+                        <h3 class="heading-bold">Flutter Programmer</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web.png" alt="Go Lang Programmer">
+                        <h3 class="heading-bold">Go Lang Programmer</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
                 </div>
               </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/seo-tag.png" alt="SEO Specialist">
-              <h3 class="heading-bold">SEO Specialist</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/digital-ads.png"
-                alt="Digital Ad Specialist">
-              <h3 class="heading-bold">Digital Ad Specialist</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
 
-        <div class="row row__same-height">
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/content.png" alt="UI/UX Designer">
-              <h3 class="heading-bold">Content Writer</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
+              <div class="row row__same-height">
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web.png" alt="PHP Programmer">
+                        <h3 class="heading-bold">PHP Programmer</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
                 </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/webmaster.png" alt="Web Master">
-              <h3 class="heading-bold">Web Master</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="container__">
-
-        <div class="row row__same-height">
-          <div class="col-xs-12">
-            <h2 class="heading-bold mb--40">Lowongan Other IT Specialist</h2>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/password.png" alt="Security Specialist">
-              <h3 class="heading-bold">Security Specialist</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/server.png" alt="DevOps">
-              <h3 class="heading-bold">DevOps</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/quality.png" alt="QA Specialist">
-              <h3 class="heading-bold">QA Specialist</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="container__">
-
-        <div class="row row__same-height">
-          <div class="col-xs-12">
-            <h2 class="heading-bold mb--40">
-              Lowongan Sales & Marketing / BackOffice
-            </h2>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/sales-marketing.png"
-                alt="Sales & Marketing">
-              <h3 class="heading-bold">Sales & Marketing</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/handshake.png" alt="General Affair">
-              <h3 class="heading-bold">General Affair</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/hr.png" alt="HR">
-              <h3 class="heading-bold">HR</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row row__same-height">
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/budget.png" alt="Accounting">
-              <h3 class="heading-bold">Accounting</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web.png" alt="Programmer">
+                        <h3 class="heading-bold">Programmer</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
                 </div>
               </div>
             </div>
@@ -970,118 +797,511 @@
         </div>
       </section>
 
-      <section class="container__">
+      <section class="container-fluid">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="row row__same-height">
+                <div class="col-xs-12">
+                  <h2 class="heading-bold mb--40">Lowongan Designer / Digital Marketing</h2>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/ux-design.png" alt="UI/UX Designer">
+                        <h3 class="heading-bold">UI/UX Designer</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
 
-        <div class="row row__same-height">
-          <div class="col-xs-12">
-            <h2 class="heading-bold mb--40">
-              Magang
-            </h2>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/sales-marketing.png"
-                alt="Sales & Marketing">
-              <h3 class="heading-bold">Sales & Marketing</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
                 </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/seo-tag.png" alt="SEO Specialist">
+                        <h3 class="heading-bold">SEO Specialist</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+
                 </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/handshake.png" alt="General Affair">
-              <h3 class="heading-bold">General Affair</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/hr.png" alt="HR">
-              <h3 class="heading-bold">HR</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
-                </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/digital-ads.png"
+                          alt="Digital Ad Specialist">
+                        <h3 class="heading-bold">Digital Ad Specialist</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
                 </div>
               </div>
-            </div>
-          </div>
-        </div>
-        <div class="row row__same-height">
-          <div class="col-xs-12 col-md-4 mb--30">
-            <div class="card-box">
-              <img class="img-responsive card-icon" src="/img/career/lowongan/web.png" alt="Programmer">
-              <h3 class="heading-bold">Programmer</h3>
-              <p>
-                The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for the Mac.
-              </p>
-              <div class="card-box__category">
-                <div>
-                  <img src="/img/career/lowongan/bag.png" alt="Type" class="img-responsive">
-                  Fulltime
+
+              <div class="row row__same-height">
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/content.png" alt="UI/UX Designer">
+                        <h3 class="heading-bold">Content Writer</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
                 </div>
-                <div>
-                  <img src="/img/career/lowongan/icon_placeholder.png" alt="Type" class="img-responsive">
-                  Jakarta
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/webmaster.png" alt="Web Master">
+                        <h3 class="heading-bold">Web Master</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </section>
-      <section class="container__">
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="max-800 text-center">
-              <p>
-                <strong>
-                  If you are career center staff in university and would like to introduce someone to LOGIQUE,
-                  stronglease feel free to contact our HR staff.
-                </strong>
-              </p>
-              <a class="btn-banner-pattern mt--50" href="#">
-                <img class="img-responsive" src="/img/career/lowongan/bg-pattern-1.png" alt="Contact Us">
-                <strong>Contact Us</strong>
-              </a>
+
+      <section class="container-fluid">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="row row__same-height">
+                <div class="col-xs-12">
+                  <h2 class="heading-bold mb--40">Lowongan Other IT Specialist</h2>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/password.png"
+                          alt="Security Specialist">
+                        <h3 class="heading-bold">Security Specialist</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/server.png" alt="DevOps">
+                        <h3 class="heading-bold">DevOps</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/quality.png" alt="QA Specialist">
+                        <h3 class="heading-bold">QA Specialist</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </section>
-      <div class="row">
+
+      <section class="container-fluid">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="row row__same-height">
+                <div class="col-xs-12">
+                  <h2 class="heading-bold mb--40">
+                    Lowongan Sales & Marketing / BackOffice
+                  </h2>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/sales-marketing.png"
+                          alt="Sales & Marketing">
+                        <h3 class="heading-bold">Sales & Marketing</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/handshake.png" alt="General Affair">
+                        <h3 class="heading-bold">General Affair</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/hr.png" alt="HR">
+                        <h3 class="heading-bold">HR</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="row row__same-height">
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/budget.png" alt="Accounting">
+                        <h3 class="heading-bold">Accounting</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="container-fluid">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="row row__same-height">
+                <div class="col-xs-12">
+                  <h2 class="heading-bold mb--40">
+                    Magang
+                  </h2>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/sales-marketing.png"
+                          alt="Sales & Marketing">
+                        <h3 class="heading-bold">Sales & Marketing</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/handshake.png" alt="General Affair">
+                        <h3 class="heading-bold">General Affair</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/hr.png" alt="HR">
+                        <h3 class="heading-bold">HR</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="row row__same-height">
+                <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web.png" alt="Programmer">
+                        <h3 class="heading-bold">Programmer</h3>
+                        <p>
+                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
+                          the
+                          Mac.
+                        </p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="container-fluid">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="row">
+                <div class="col-xs-12">
+                  <div class="max-800 text-center">
+                    <p>
+                      <strong>
+                        If you are career center staff in university and would like to introduce someone to LOGIQUE,
+                        stronglease feel free to contact our HR staff.
+                      </strong>
+                    </p>
+                    <a class="btn-banner-pattern mt--50" href="/hubungi-kami.php">
+                      <img class="img-responsive" src="/img/career/bg-img/bg-contact.png" alt="Contact Us">
+                      <span>Contact Us</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <?php include './layout-career/contact-lgq.php'; ?>
+      <!-- <div class="row">
         <div class="col-sm-6">
           <div class="text-center">
             <a class="btn-banner-pattern mt--50" href="#">
-              <img class="img-responsive" src="/img/career/lowongan/bg-pattern-1.png" alt="Contact Us">
+              <img class="img-responsive" src="/img/career/bg-img/bg-pattern-1.png" alt="Contact Us">
               <strong>Contact Us</strong>
             </a>
           </div>
@@ -1090,12 +1310,12 @@
         <div class="col-sm-6">
           <div class="text-center">
             <a class="btn-banner-pattern mt--50" href="#">
-              <img class="img-responsive" src="/img/career/lowongan/bg-pattern-2.png" alt="Melamar Lowongan Sekarang">
+              <img class="img-responsive" src="/img/career/bg-img/bg-pattern-2.png" alt="Melamar Lowongan Sekarang">
               <strong>Melamar Lowongan Sekarang</strong>
             </a>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
 
     <?php include '../footer.php'; ?>
