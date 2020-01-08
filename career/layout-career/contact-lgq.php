@@ -1,0 +1,56 @@
+<section>
+    <div class="container--max-width work-location">
+        <div class="row">
+            <div class="col-sm-11 no-gap">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <img class="work-location__img" src="../../img/career/bg-img/jakarta.png" alt="">
+                    </div>
+                    <div class="col-sm-4">
+                        <img class="work-location__img" src="../../img/career/bg-img/yogyakarta.png" alt="">
+                    </div>
+                    <div class="col-sm-4">
+                        <img class="work-location__img" src="../../img/career/bg-img/remote.png" alt="">
+                    </div>
+                </div>
+                <div class="row work-location__text">
+                    <div class="col-sm-offset-1 col-sm-10 text-center">
+                        Thank you for your interest in LOGIQUE. Our offices are located in Jakarta and Yogyakarta.
+                        Besides, we have a remote working system. You can work everywhere. Feel free to contact us.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="container-fluid ">
+    <div class="container--max-width">
+        <div class="row">
+            <div class="col-sm-offset-2 col-sm-4">
+                <a href="#" class="form-control main-btn --ctc --yellow bg--ctc">Contact Us</a>
+                <div class="contact__img-wrapper">
+                    <a href="#" class="">
+                        <img class="contact__img" src="../../img/career/bg-img/fb.png" alt="FB Page Logique">
+                        <div class="contact__text-wrapper">
+                            <img class="contact__icn" src="../../img/career/icon/fb-logo.png" alt="Facebook Logo">
+                            <span class="contact__text">Logique Digital Indonesia</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <a href="#" class="form-control main-btn --ctc --yellow bg--lowongan">Melamar Lowongan Sekarang</a>
+                <div class="contact__img-wrapper">
+                    <a href="#" class="">
+                        <img class="contact__img" src="../../img/career/bg-img/linkedin.png" alt="Linkedin Page Logique">
+                        <div class="contact__text-wrapper">
+                            <img class="contact__icn" src="../../img/career/icon/linkedin-logo.png" alt="Facebook Logo">
+                            <span class="contact__text">Logique Digital Indonesia</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
