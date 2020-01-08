@@ -1298,25 +1298,6 @@
       </section>
 
       <?php include './layout-career/contact-lgq.php'; ?>
-      <!-- <div class="row">
-        <div class="col-sm-6">
-          <div class="text-center">
-            <a class="btn-banner-pattern mt--50" href="#">
-              <img class="img-responsive" src="/img/career/bg-img/bg-pattern-1.png" alt="Contact Us">
-              <strong>Contact Us</strong>
-            </a>
-          </div>
-
-        </div>
-        <div class="col-sm-6">
-          <div class="text-center">
-            <a class="btn-banner-pattern mt--50" href="#">
-              <img class="img-responsive" src="/img/career/bg-img/bg-pattern-2.png" alt="Melamar Lowongan Sekarang">
-              <strong>Melamar Lowongan Sekarang</strong>
-            </a>
-          </div>
-        </div>
-      </div> -->
     </div>
 
     <?php include '../footer.php'; ?>

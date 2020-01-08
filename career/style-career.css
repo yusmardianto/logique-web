@@ -88,6 +88,9 @@ section {
 section {
   display: block;
 }
+ul {
+  list-style: none;
+}
 a {
   outline: 0 !important;
 }
@@ -706,13 +709,16 @@ ul.medsos-new li a {
 
 /* BG */
 .bg--informasi {
-  background: url("../img/career/bg-img/bg-informasi.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-informasi.png") center/cover
+    no-repeat;
 }
 .bg--interview {
-  background: url("../img/career/bg-img/bg-interview.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-interview.png") center/cover
+    no-repeat;
 }
 .bg--h-vision {
-  background: url("../img/career/bg-img/bg-head-vision.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-head-vision.png") center/cover
+    no-repeat;
 }
 .bg--working {
   background: url("../img//career/bg-img/bg-working.png") center/cover no-repeat;
@@ -1046,9 +1052,9 @@ ul.medsos-new li a {
   bottom: -17px;
   font-size: 30px;
   border-radius: 5px;
-font-weight: 900;
-width: 335px;
-box-shadow: 0px 8px 12px -2px rgba(0, 0, 0, 0.1);
+  font-weight: 900;
+  width: 335px;
+  box-shadow: 0px 8px 12px -2px rgba(0, 0, 0, 0.1);
 }
 .vision-box__content {
   font-family: "Open Sans", sans-serif;
@@ -1078,8 +1084,8 @@ box-shadow: 0px 8px 12px -2px rgba(0, 0, 0, 0.1);
 }
 .benefit-card__title {
   font-size: 22px;
-font-weight: bold;
-margin-bottom: 10px;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 .benefit-card__text {
   font-family: "Open Sans", sans-serif;
@@ -1104,16 +1110,16 @@ margin-bottom: 10px;
 
 .benefit__text {
   font-size: 20px;
-font-weight: bold;
+  font-weight: bold;
 }
 /* End Benefit */
 
 /* HR Rule */
 .hr-rule {
-   border-radius: 10px;
-   padding: 20px 30px;
-   box-shadow: 0px 5px 9px 0px rgba(0, 0, 0, 0.1);
-   margin-bottom: 2em;
+  border-radius: 10px;
+  padding: 20px 30px;
+  box-shadow: 0px 5px 9px 0px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2em;
 }
 .hr-rule__header {
   display: flex;
@@ -1127,7 +1133,7 @@ font-weight: bold;
 }
 .hr-rule__title {
   font-size: 28px;
-font-weight: 600;
+  font-weight: 600;
 }
 .hr-rule__content ol {
   padding-left: 15px;

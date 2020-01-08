@@ -18,7 +18,7 @@
   <meta property="og:description"
     content="Saatnya berkarir dan kembangkan potensimu - Career at Logique Bergabunglah dan jadilah bagian dari perkembangan teknologi digital di Indonesia bersama Logique. Anda juga akan memiliki kesempatan luas untuk mengembangkan potensi dan karir Anda, serta berkarya dengan jam kerja yang fleksibel.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan</title>
+  <title>Pekerjaan</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -166,7 +166,69 @@
 
     <style>
     .bg--banner-lowongan {
-      background: url('/img/career/bg-img/banner-lowongan-top.png') center/cover no-repeat;
+      background: url('/img/career/bg-img/banner-pekerjaan-logique-top.png') center/cover no-repeat;
+    }
+
+    .check-portfolio {
+      background: url('/img/career/bg-img/bg-check.png') center/cover no-repeat;
+      width: 100%;
+      height: 165px;
+      position: relative;
+      padding: 15px;
+    }
+
+    .--vertical-center {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .check-portfolio h2 {
+      color: #fff;
+      font-weight: 900;
+      font-size: 32px;
+    }
+
+    @media (min-width: 768px) {
+      .check-portfolio h2 {
+        font-size: 42px;
+        font-weight: 800;
+      }
+
+      .row.row__same-height {
+        display: flex;
+        flex-wrap: wrap;
+      }
+    }
+
+    .service {
+      display: flex;
+      margin-top: 2.5em;
+    }
+
+    .service-icon {
+      margin-right: 30px;
+    }
+
+    .service-desc h3,
+    .service-desc h3 a {
+      font-weight: 800;
+      color: #000;
+      font-size: 25px;
+      line-height: 32px;
+      margin-bottom: 10px;
+    }
+
+    .service-desc ul li a {
+      display: block;
+      color: rgb(39, 137, 248);
+      font-size: 15px;
+      font-weight: 500;
+      line-height: 26px;
+    }
+
+    .service-desc a:hover {
+      color: #ffca13
     }
     </style>
 
@@ -185,7 +247,7 @@
                   <meta itemprop="position" content="2" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Wawancara dan Foto</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Kerja Logique</span></a>
                   <meta itemprop="position" content="3" />
                 </li>
               </ol>
@@ -193,10 +255,11 @@
           </div>
           <div class="row">
             <div class="col-sm-offset-1 col-sm-5">
-              <h1 class="header__title">Lowongan</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore
-                magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation </p>
+              <h1 class="header__title">Pekerjaan LOGIQUE</h1>
+              <p>LOGIQUE is a fast-growing Web / System Developer and Digital Marketing Consultancy in Jakarta and
+                Yogyakarta. A founder came to Indonesia in 2012 from Japan and has provided International standard IT
+                services and Cloud products to Indonesian Clients. Here's an introduction of LOGIQUE's work.
+              </p>
             </div>
           </div>
         </div>
@@ -205,18 +268,132 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <div class="row">
-                <div class="col-sm-6">
-
+              <div class="row row__same-height">
+                <div class="col-md-6">
+                  <div class="service">
+                    <div class="service-icon">
+                      <img src="/img/career/icon/circle-web-creation.png" alt="Website Creation">
+                    </div>
+                    <div class="service-desc">
+                      <h3><a href="/layanan.php#webCreate_" target="_blank">Website Creation</a></h3>
+                      <ul>
+                        <li><a href="/layanan.php#webCreate_revamp" target="_blank">Website Creation/Revamping</a></li>
+                        <li><a href="/layanan.php#webCreate_multi" target="_blank">Multilingual Website Creation</a>
+                        </li>
+                        <li><a href="/layanan.php#webCreate_webService" target="_blank">Web Media
+                            Development/Operation</a></li>
+                        <li><a href="/layanan.php#webCreate_recruit" target="_blank">Recruitment Website Creation</a>
+                        </li>
+                        <li><a href="/layanan.php#webCreate_blog" target="_blank">Wordpress</a></li>
+                      </ul>
+                    </div>
+                  </div>
                 </div>
-                <div class="col-sm-6">
-
+                <div class="col-md-6">
+                  <div class="service">
+                    <div class="service-icon">
+                      <img src="/img/career/icon/circle-webdev.png" alt="Web System Development / Maintenance">
+                    </div>
+                    <div class="service-desc">
+                      <h3><a href="/layanan.php#sysDev_" target="_blank">Web System Development / Maintenance</a></h3>
+                      <ul>
+                        <li><a href="/layanan.php#sysDev_ecommerce" target="_blank">E-Commerce Development</a></li>
+                        <li><a href="/layanan.php#sysDev_automotive" target="_blank">System Development for Automotive
+                            Industry</a></li>
+                        <li><a href="/layanan.php#sysDev_cms" target="_blank">Custom CMS Development</a></li>
+                        <li><a href="/layanan.php#sysDev_member" target="_blank">CRM/Accounting System Development</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="service">
+                    <div class="service-icon">
+                      <img src="/img/career/icon/circle-dm.png" alt="Digital Marketing">
+                    </div>
+                    <div class="service-desc">
+                      <h3><a href="/layanan.php#dm_" target="_blank">Digital Marketing</a></h3>
+                      <ul>
+                        <li><a href="/layanan.php#dm_seo" target="_blank">SEO/SEM</a></li>
+                        <li><a href="/layanan.php#dm_itConsult" target="_blank">Digital Ad Operation</a></li>
+                        <li><a href="/layanan.php#dm_contentCreate" target="_blank">Web Content Creation/Operation</a>
+                        </li>
+                        <li><a href="/layanan.php#dm_digiMarket" target="_blank">Landing Page Optimization</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="service">
+                    <div class="service-icon">
+                      <img src="/img/career/icon/circle-mobile.png" alt="Mobile Solution">
+                    </div>
+                    <div class="service-desc">
+                      <h3><a href="/layanan.php#mobile_" target="_blank">Mobile Solution</a></h3>
+                      <ul>
+                        <li><a href="/layanan.php#mobile_appCreate" target="_blank">Mobile/Responsive Web Creation</a>
+                        </li>
+                        <li><a href="/layanan.php#mobile_appDev" target="_blank">Mobile Application Development</a></li>
+                        <li><a href="/layanan.php#mobile_pwa" target="_blank">PWA (Progressive Web App) Development</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="service">
+                    <div class="service-icon">
+                      <img src="/img/career/icon/circle-security.png" alt="IT Security Service">
+                    </div>
+                    <div class="service-desc">
+                      <h3><a href="/layanan.php#webSecurity_" target="_blank">IT Security Service</a></h3>
+                      <ul>
+                        <li><a href="/layanan.php#webSecurity_va" target="_blank">Security Assesment (Vulnerability
+                            Scanning/Pen-Test)</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="service">
+                    <div class="service-icon">
+                      <img src="/img/career/icon/circle-others.png" alt="Others">
+                    </div>
+                    <div class="service-desc">
+                      <h3><a href="/layanan.php#othersService_" target="_blank">Others</a></h3>
+                      <ul>
+                        <li><a href="/layanan.php#othersService_graphic" target="_blank">Graphic Design</a></li>
+                        <li><a href="/layanan.php#otherService_server" target="_blank">Cloud Server Operation
+                            (AWS/Alibaba Cloud)</a></li>
+                        <li><a href="/layanan.php#otherService_itConsultant" target="_blank">IT Business Consulting</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </section>
+
+      <section class="container-fluid">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-xs-12 no-gap">
+              <a href="/portofolio.php">
+                <div class="check-portfolio --vertical-center text-center">
+                  <h2>Check and see LOGIQUE's Portfolio</h2>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <?php include './layout-career/link-section.php'; ?>
+      <?php include './layout-career/other-position.php'; ?>
+      <?php include './layout-career/contact-lgq.php'; ?>
     </div>
 
     <?php include '../footer.php'; ?>
