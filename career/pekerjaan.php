@@ -23,7 +23,6 @@
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
   <link href="/career/style-career.css" rel="stylesheet">
-  <!-- <link href="/css/style.css" rel="stylesheet"> -->
   <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="/css/aos.css" rel="stylesheet">
   <!-- Google Tag Manager -->
@@ -165,12 +164,57 @@
     </div>
     <!-- END HEADER -->
 
-    <div class="career-update content-wrapper__">
-      <section class="csection bg--white --top">
-        <div class="container__">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut tempora, numquam sapiente amet debitis cumque! Et
-          perspiciatis consectetur minima nemo nam tempore repellendus aliquam, delectus fugiat, sequi eligendi
-          perferendis sit!
+    <style>
+    .bg--banner-lowongan {
+      background: url('/img/career/bg-img/banner-lowongan-top.png') center/cover no-repeat;
+    }
+    </style>
+
+    <div class="career-update --bg-grey content-wrapper__">
+      <section class="container-fluid --top bg--banner-lowongan">
+        <div class="container--max-width header-banner">
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                    href="index.php"><span itemprop="name">Beranda</span></a>
+                  <meta itemprop="position" content="1" />
+                </li>
+                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                    href="index.php"><span itemprop="name">Karir</span></a>
+                  <meta itemprop="position" content="2" />
+                </li>
+                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                    itemprop="item"><span itemprop="name">&nbsp; Wawancara dan Foto</span></a>
+                  <meta itemprop="position" content="3" />
+                </li>
+              </ol>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-5">
+              <h1 class="header__title">Lowongan</h1>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore
+                magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="container-fluid">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="row">
+                <div class="col-sm-6">
+
+                </div>
+                <div class="col-sm-6">
+
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
     </div>
