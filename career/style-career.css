@@ -131,6 +131,11 @@ div:focus {
   margin-bottom: 30px;
 }
 
+.my-20 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .py-15 {
   padding-top: 15px;
   padding-bottom: 15px;
