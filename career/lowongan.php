@@ -169,7 +169,7 @@
       background: url('/img/career/bg-img/banner-lowongan-top.png') center/cover no-repeat;
     }
 
-    .heading-bold {
+    .heading-black {
       font-weight: 900;
       color: #000;
     }
@@ -330,7 +330,7 @@
                   <meta itemprop="position" content="2" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Wawancara dan Foto</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Lowongan</span></a>
                   <meta itemprop="position" content="3" />
                 </li>
               </ol>
@@ -352,14 +352,14 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
                 <div class="col-xs-12">
-                  <h2 class="heading-bold mb--40">Urgently Needed Positions</h2>
+                  <h2 class="heading-black mb--40">Urgently Needed Positions</h2>
                 </div>
                 <div class="col-md-4 card--layout">
                   <a href="#">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager">
-                        <h3 class="heading-bold">Project Manager</h3>
+                        <h3 class="heading-black">Project Manager</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -384,7 +384,7 @@
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/quality.png" alt="QA Specialist">
-                        <h3 class="heading-bold">QA Specialist</h3>
+                        <h3 class="heading-black">QA Specialist</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -410,7 +410,7 @@
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/ux.png" alt="UI/UX Designer">
-                        <h3 class="heading-bold">UI/UX Designer</h3>
+                        <h3 class="heading-black">UI/UX Designer</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -442,7 +442,7 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row">
                 <div class="col-xs-12">
-                  <h2 class="heading-bold mb--40">
+                  <h2 class="heading-black mb--40">
                     News / Recruitment Topics
                   </h2>
                   <ul class="news-list">
@@ -490,14 +490,14 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
                 <div class="col-xs-12">
-                  <h2 class="heading-bold mb--40">Lowongan IT Generalist</h2>
+                  <h2 class="heading-black mb--40">Lowongan IT Generalist</h2>
                 </div>
                 <div class="col-md-4 card--layout">
                   <a href="#">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager">
-                        <h3 class="heading-bold">Project Manager</h3>
+                        <h3 class="heading-black">Project Manager</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -523,7 +523,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/analysis.png"
                           alt="Business Analyst">
-                        <h3 class="heading-bold">Business Analyst</h3>
+                        <h3 class="heading-black">Business Analyst</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -549,7 +549,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/clock.png" alt="Product Manager">
-                        <h3 class="heading-bold">Product Manager</h3>
+                        <h3 class="heading-black">Product Manager</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -581,14 +581,14 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
                 <div class="col-xs-12">
-                  <h2 class="heading-bold mb--40">Lowongan Programmer</h2>
+                  <h2 class="heading-black mb--40">Lowongan Programmer</h2>
                 </div>
                 <div class="col-md-4 card--layout">
                   <a href="#">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Web Developer">
-                        <h3 class="heading-bold">Web Developer</h3>
+                        <h3 class="heading-black">Web Developer</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -614,7 +614,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
                           alt="Front End Programmer">
-                        <h3 class="heading-bold">Front End Programmer</h3>
+                        <h3 class="heading-black">Front End Programmer</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -640,7 +640,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
                           alt="ReactJS Programmer">
-                        <h3 class="heading-bold">ReactJS Programmer</h3>
+                        <h3 class="heading-black">ReactJS Programmer</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -669,7 +669,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
                           alt="React Native Developer">
-                        <h3 class="heading-bold">React Native Developer</h3>
+                        <h3 class="heading-black">React Native Developer</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -695,7 +695,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
                           alt="Flutter Programmer">
-                        <h3 class="heading-bold">Flutter Programmer</h3>
+                        <h3 class="heading-black">Flutter Programmer</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -721,7 +721,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
                           alt="Go Lang Programmer">
-                        <h3 class="heading-bold">Go Lang Programmer</h3>
+                        <h3 class="heading-black">Go Lang Programmer</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -749,7 +749,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="PHP Programmer">
-                        <h3 class="heading-bold">PHP Programmer</h3>
+                        <h3 class="heading-black">PHP Programmer</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -774,7 +774,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Programmer">
-                        <h3 class="heading-bold">Programmer</h3>
+                        <h3 class="heading-black">Programmer</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -806,14 +806,14 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
                 <div class="col-xs-12">
-                  <h2 class="heading-bold mb--40">Lowongan Designer / Digital Marketing</h2>
+                  <h2 class="heading-black mb--40">Lowongan Designer / Digital Marketing</h2>
                 </div>
                 <div class="col-md-4 card--layout">
                   <a href="#">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/ux.png" alt="UI/UX Designer">
-                        <h3 class="heading-bold">UI/UX Designer</h3>
+                        <h3 class="heading-black">UI/UX Designer</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -839,7 +839,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/seo-tag.png" alt="SEO Specialist">
-                        <h3 class="heading-bold">SEO Specialist</h3>
+                        <h3 class="heading-black">SEO Specialist</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -866,7 +866,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/digital-ads.png"
                           alt="Digital Ad Specialist">
-                        <h3 class="heading-bold">Digital Ad Specialist</h3>
+                        <h3 class="heading-black">Digital Ad Specialist</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -894,7 +894,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/content.png" alt="UI/UX Designer">
-                        <h3 class="heading-bold">Content Writer</h3>
+                        <h3 class="heading-black">Content Writer</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -919,7 +919,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/webmaster.png" alt="Web Master">
-                        <h3 class="heading-bold">Web Master</h3>
+                        <h3 class="heading-black">Web Master</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -951,7 +951,7 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
                 <div class="col-xs-12">
-                  <h2 class="heading-bold mb--40">Lowongan Other IT Specialist</h2>
+                  <h2 class="heading-black mb--40">Lowongan Other IT Specialist</h2>
                 </div>
                 <div class="col-md-4 card--layout">
                   <a href="#">
@@ -959,7 +959,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/password.png"
                           alt="Security Specialist">
-                        <h3 class="heading-bold">Security Specialist</h3>
+                        <h3 class="heading-black">Security Specialist</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -984,7 +984,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/server.png" alt="DevOps">
-                        <h3 class="heading-bold">DevOps</h3>
+                        <h3 class="heading-black">DevOps</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -1009,7 +1009,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/quality.png" alt="QA Specialist">
-                        <h3 class="heading-bold">QA Specialist</h3>
+                        <h3 class="heading-black">QA Specialist</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -1041,7 +1041,7 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
                 <div class="col-xs-12">
-                  <h2 class="heading-bold mb--40">
+                  <h2 class="heading-black mb--40">
                     Lowongan Sales & Marketing / BackOffice
                   </h2>
                 </div>
@@ -1050,7 +1050,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/dm.png" alt="Sales & Marketing">
-                        <h3 class="heading-bold">Sales & Marketing</h3>
+                        <h3 class="heading-black">Sales & Marketing</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -1075,7 +1075,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/handshake.png" alt="General Affair">
-                        <h3 class="heading-bold">General Affair</h3>
+                        <h3 class="heading-black">General Affair</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -1100,7 +1100,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/hr.png" alt="HR">
-                        <h3 class="heading-bold">HR</h3>
+                        <h3 class="heading-black">HR</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -1128,7 +1128,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/budget.png" alt="Accounting">
-                        <h3 class="heading-bold">Accounting</h3>
+                        <h3 class="heading-black">Accounting</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -1160,7 +1160,7 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
                 <div class="col-xs-12">
-                  <h2 class="heading-bold mb--40">
+                  <h2 class="heading-black mb--40">
                     Magang
                   </h2>
                 </div>
@@ -1169,7 +1169,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/dm.png" alt="Sales & Marketing">
-                        <h3 class="heading-bold">Sales & Marketing</h3>
+                        <h3 class="heading-black">Sales & Marketing</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -1194,7 +1194,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/handshake.png" alt="General Affair">
-                        <h3 class="heading-bold">General Affair</h3>
+                        <h3 class="heading-black">General Affair</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -1219,7 +1219,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/hr.png" alt="HR">
-                        <h3 class="heading-bold">HR</h3>
+                        <h3 class="heading-black">HR</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
@@ -1247,7 +1247,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Programmer">
-                        <h3 class="heading-bold">Programmer</h3>
+                        <h3 class="heading-black">Programmer</h3>
                         <p>
                           The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
                           the
