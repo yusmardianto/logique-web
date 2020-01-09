@@ -269,45 +269,6 @@
       margin-right: 8px;
     }
 
-    ul.news-list {
-      list-style: none;
-    }
-
-    ul.news-list li {
-      color: #000;
-    }
-
-    ul.news-list li:not(:last-child) {
-      margin-bottom: 30px;
-    }
-
-    ul.news-list li a:hover {
-      text-decoration: underline;
-      color: #000;
-    }
-
-    ul.news-list li a>* {
-      font-size: 18px;
-      color: #000;
-      font-family: 'Open Sans', sans-serif;
-    }
-
-    ul.news-list li a span.news-list__news-date {
-      display: block;
-      font-weight: 600;
-      margin-right: 20px;
-    }
-
-    @media (min-width: 768px) {
-      ul.news-list li a>* {
-        font-size: 24px;
-      }
-
-      ul.news-list li a span.news-list__news-date {
-        display: inline-block;
-      }
-    }
-
     .max-800 {
       max-width: 800px;
       margin: auto;
@@ -436,53 +397,8 @@
           </div>
         </div>
       </section>
-      <section class="container-fluid">
-        <div class="container--max-width">
-          <div class="row">
-            <div class="col-sm-offset-1 col-sm-10">
-              <div class="row">
-                <div class="col-xs-12">
-                  <h2 class="heading-black mb--40">
-                    News / Recruitment Topics
-                  </h2>
-                  <ul class="news-list">
-                    <li>
-                      <a href="#">
-                        <span class="news-list__news-date">
-                          21st Dec 2019
-                        </span>
-                        <span>
-                          We're looking for QA Lead. Get this opportunity now!
-                        </span>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <span class="news-list__news-date">
-                          18st Dec 2019
-                        </span>
-                        <span>
-                          We will join the career event in President University on 2nd March
-                        </span>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <span class="news-list__news-date">
-                          13th Dec 2019
-                        </span>
-                        <span>
-                          We opened the urgent hiring of Senior PHP programmer position.
-                        </span>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+
+      <?php include './layout-career/news-recruitment-topic.php'; ?>
 
       <section class="container-fluid">
         <div class="container--max-width">

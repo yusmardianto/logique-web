@@ -141,6 +141,11 @@ div:focus {
   padding-bottom: 15px;
 }
 
+.py--2-5em {
+  padding-top: 2.5em;
+  padding-bottom: 2.5em;
+}
+
 /*** Header & Navbar ***/
 span {
   margin: 0;
@@ -877,7 +882,7 @@ ul.medsos-new li a {
   font-family: "Open Sans", sans-serif;
   color: #fff;
   font-size: 20px;
-font-weight: 800;
+  font-weight: 800;
 }
 
 @media (max-width: 767px) {
@@ -1038,7 +1043,7 @@ font-weight: 800;
   top: 0;
   left: 0;
   opacity: 0;
-  transition: .1s;
+  transition: 0.1s;
 }
 
 .other-position__overlay:hover {
@@ -1212,12 +1217,12 @@ font-weight: 800;
 .interview__img-text {
   position: absolute;
   bottom: 25px;
-left: 20px;
-color: #fff;
+  left: 20px;
+  color: #fff;
 }
 .interview__text-title {
   font-size: 28px;
-font-weight: 800;
+  font-weight: 800;
 }
 .interview-img .col-sm-4 {
   padding: 15px;
@@ -1266,7 +1271,11 @@ font-weight: 800;
   align-items: baseline;
 }
 .work-schedule__time {
-  background: linear-gradient(-135deg, rgb(255, 231, 43) 0%, rgb(255, 202, 19) 100%);
+  background: linear-gradient(
+    -135deg,
+    rgb(255, 231, 43) 0%,
+    rgb(255, 202, 19) 100%
+  );
   border-radius: 10px;
   border: 1px solid rgb(255, 224, 9);
   padding: 3px 0;
