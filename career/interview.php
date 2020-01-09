@@ -156,7 +156,6 @@
                                 Melamar Lowongan Sekarang
                             </a>
                         </div>
-
                     </div>
                 </div>
             </div>
@@ -166,11 +165,11 @@
 
         <div class="career-update content-wrapper__">
 
-            <section class="container-fluid --top bg--h-vision">
+            <section class="container-fluid --top bg--yoshi">
                 <div class="container--max-width header-banner">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-10">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
+                            <ol class="breadcrumb breadcrumb--update-design --black" itemscope itemtype="http://schema.org/BreadcrumbList">
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
                                         href="index.php"><span itemprop="name">Beranda</span></a>
                                     <meta itemprop="position" content="1" />
@@ -187,51 +186,42 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-sm-offset-1 col-sm-5">
-                            <h1 class="header__title">Deskripsi Page Ini</h1>
-                            <p>Every avid independent filmmaker has dreamed about making that special interest documentary, or short film to show off
-                                their creative prowess. Many have great ideas and want to “wow” the film-festival scene, or video renters with their
-                                big
-                                project. But once you have the film “in the can” (no easy feat), how do you move from a couple of master DVDs with the
-                                “Sharpie” marked hand-written title inside a secondhand CD case, to a pile of cardboard boxes full of shiny new,
-                                retail-ready DVDs, with UPC barcodes and polywrap sitting on your doorstep? You need to create eye-popping artwork and
-                                have your project replicated. </p>
+                        <div class="col-sm-offset-6 col-sm-5">
+                            <h1 class="header__title --black">Message from Yoshi-San</h1>
+                            <h2 class="header__sub-title --black">Message from Yoshitsugu, Founder & CEO.</h2>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, officia voluptate. Reprehenderit, eligendi vitae sit
+                                quae quia earum deleniti nostrum cum tempore dolores sed saepe vero quis quisquam explicabo perspiciatis, repudiandae
+                                nemo optio delectus animi.</p>
                         </div>
                     </div>
                 </div>
             </section>
 
             <section class="container-fluid">
-                <div class="container--max-width">
+                <div class="container--max-width" style="padding-top:0">
                     <div class="row">
-                        <div class="col-sm-offset-1 col-sm-10">
-                            <div class="vision-box">
-                                <div class="vision-box__title">Our Vision</div>
-                                <div class="vision-box__content">
-                                    Some Indonesian labor laws and HR customs do not fit in the modern way of working and the relationship between
-                                    companies and employees. It's not good for each other to stick to those. LOGIQUE thinks everything logically on a
-                                    zero basis, and is not bound by old meaningless ideas. Human asset is everything to LOGIQUE. We consider human
-                                    resources (employment) very important. We basically employ only as permanent employee. We would like to give our
-                                    colleagues as many chances and opportunities as possible, provide a better environment and treatment, and maximize
-                                    their growth by flexible HR rules. We do everything we can for our colleague, so we want everyone to try their
-                                    best to get the best performance possible. We sincerely want to maintain a good relationship that provides high
-                                    value to each other for a long time.
-                                </div>
+                        <div class="col-sm-4 no-gap">
+                            <img class="img-responsive" src="../../img/career/ghitta.jpg" alt="HR Ghitta">
+                            <div class="interview__img-text">
+                                <h4 class="interview__text-title">Message from Ghitta</h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque possimus dolorem iste debitis
+                                    voluptate corporis non corrupti, facilis vero!</p>
                             </div>
-                            <div class="vision-box">
-                                <div class="vision-box__title">Acceptance Policy</div>
-                                <div class="vision-box__content">
-                                    The good relationship (employment) can’t last long if we don’t have a mutual beneficial relationship, or there is
-                                    benefit only for one side. If you are selfish and only interested in your own benefit and growth, we cannot accept
-                                    you. If you have the idea of “Give and Take” (”Terima – Kasih”) and have a strong desire to help your colleagues
-                                    and team, we are happy to accept you and work together. We never discriminate on the basis of your background,
-                                    education, race, gender, disability or place of residence. We are reluctant to accept persons who only ask what
-                                    LOGIQUE can do for them. We like persons who ask what they can do for LOGIQUE. Then we are very much willing to
-                                    give as much appreciation and benefit back to them. We can't accept discriminators, people who don't accept
-                                    different ideas and religions, those who are self-centered, who can't grow themselves with a lot of excuses. We
-                                    believe LOGIQUE is a very good place for those who are rational persons, who think logically, who are
-                                    growth-oriented, and who are not afraid of change. If you are so, let’s meet and have a talk.
-                                </div>
+                        </div>
+                        <div class="col-sm-4 no-gap">
+                            <img class="img-responsive" src="../../img/career/taufik.jpg" alt="FE Taufik">
+                            <div class="interview__img-text">
+                                <h4 class="interview__text-title">Message from Taufik</h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque possimus dolorem iste debitis
+                                    voluptate corporis non corrupti, facilis vero!</p>
+                            </div>
+                        </div>
+                        <div class="col-sm-4 no-gap">
+                            <img class="img-responsive" src="../../img/career/muklis.jpg" alt="BE Muklis">
+                            <div class="interview__img-text">
+                                <h4 class="interview__text-title">Message from Muklis</h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque possimus dolorem iste debitis
+                                    voluptate corporis non corrupti, facilis vero!</p>
                             </div>
                         </div>
                     </div>
@@ -242,86 +232,70 @@
                 <div class="container--max-width">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-10">
-                            <h2 class="section-title">Keuntungan Bekerja di Logique</h2>
                             <div class="row">
+                                <div class="col-sm-12">
+                                    <!-- div. -->
+                                    <img class="img-responsive" src="../../img/career/bg-img/dummy-video.png" alt="" style="min-width:100%">
+                                </div>
+                            </div>
+                            <div class="row interview-img">
                                 <div class="col-sm-4">
-                                    <div class="benefit-card">
-                                        <div class="benefit-card__img-wrapper">
-                                            <img class="benefit-card__img" src="../../img/career/bg-img/potential.png" alt="Potential">
-                                        </div>
-                                        <div class="benefit-card__content">
-                                            <h5 class="benefit-card__title">Bebas Kembangkan Potensi</h5>
-                                            <p class="benefit-card__text">Para anggota tim dibebaskan untuk menggali dan mengeksplor potensi mereka,
-                                                bahkan hingga di luar lingkup kerjanya, untuk memaksimalkan keahlian yang dimiliki masing-masing
-                                                individu.
-                                            </p>
-                                        </div>
+                                    <div class="interview__img-wrapper">
+                                        <img src="../../img/career/bg-img/dummy-img-1.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
-                                    <div class="benefit-card">
-                                        <div class="benefit-card__img-wrapper">
-                                            <img class="benefit-card__img" src="../../img/career/bg-img/career.png" alt="Career">
-                                        </div>
-                                        <div class="benefit-card__content">
-                                            <h5 class="benefit-card__title">Pertumbuhan Karir</h5>
-                                            <p class="benefit-card__text">Jika Anda memiliki kemampuan yang terus-menerus meningkat, termasuk dalam
-                                                memimpin suatu tim, Anda bisa dipromosikan langsung tanpa syarat.
-                                            </p>
-                                        </div>
+                                    <div class="interview__img-wrapper">
+                                        <img src="../../img/career/bg-img/dummy-img-2.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
-                                    <div class="benefit-card">
-                                        <div class="benefit-card__img-wrapper">
-                                            <img class="benefit-card__img" src="../../img/career/bg-img/flexible.png" alt="Flexible">
-                                        </div>
-                                        <div class="benefit-card__content">
-                                            <h5 class="benefit-card__title">Fleksibel</h5>
-                                            <p class="benefit-card__text">Kami bekerja tanpa keterikatan waktu. Anda tidak harus bekerja 8 jam per
-                                                hari,
-                                                asalkan dalam seminggu Anda bisa bekerja 40 jam.
-                                            </p>
-                                        </div>
+                                    <div class="interview__img-wrapper">
+                                        <img src="../../img/career/bg-img/dummy-img-3.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="interview__img-wrapper">
+                                        <img src="../../img/career/bg-img/dummy-img-4.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="interview__img-wrapper">
+                                        <img src="../../img/career/bg-img/dummy-img-5.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="interview__img-wrapper">
+                                        <img src="../../img/career/bg-img/dummy-img-6.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="interview__img-wrapper">
+                                        <img src="../../img/career/bg-img/dummy-img-7.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="interview__img-wrapper">
+                                        <img src="../../img/career/bg-img/dummy-img-8.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="interview__img-wrapper">
+                                        <img src="../../img/career/bg-img/dummy-img-9.png" alt="">
                                     </div>
                                 </div>
                             </div>
-                            <br><br>
-                            <div class="benefit">
-                                <div class="benefit__item">
-                                    <img class="benefit__img" src="../../img/career/icon/performance.png" alt="Performance Bonus">
-                                    <span class="benefit__text">Performance Bonus</span>
-                                </div>
-                                <div class="benefit__item">
-                                    <img class="benefit__img" src="../../img/career/icon/healthcare.png" alt="Healthcare">
-                                    <span class="benefit__text">Healthcare Insurance & <br> Medical Checkup</span>
-                                </div>
-                                <div class="benefit__item">
-                                    <img class="benefit__img" src="../../img/career/icon/remote.png" alt="Remote Working Day">
-                                    <span class="benefit__text">Remote Working Day</span>
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <a href="#" class="form-control main-btn --yellow">Lihat Seharian Magang di Logique</a>
                                 </div>
                             </div>
-                            <div class="benefit">
-                                <div class="benefit__item">
-                                    <img class="benefit__img" src="../../img/career/icon/casual.png" alt="Remote Working Day">
-                                    <span class="benefit__text">Remote Working Day</span>
-                                </div>
-                                <div class="benefit__item">
-                                    <img class="benefit__img" src="../../img/career/icon/logical.png" alt="Logical Thinking Culture">
-                                    <span class="benefit__text">Logical Thinking Culture</span>
-                                </div>
-                                <div class="benefit__item">
-                                    <img class="benefit__img" src="../../img/career/icon/convenient.png" alt="Convenient Office">
-                                    <span class="benefit__text">Convenient Office</span>
-                                </div>
-                            </div>
+
                         </div>
                     </div>
                 </div>
             </section>
 
-            <?php include './layout-career/link-section.php'; ?>
-            <?php include './layout-career/other-position.php'; ?>
             <?php include './layout-career/contact-lgq.php'; ?>
 
         </div>

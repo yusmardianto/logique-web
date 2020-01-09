@@ -196,15 +196,16 @@
                     </div>
                 </div>
             </section>
-            <section>
+            
+            <section class="container-fluid">
                 <div class="container--max-width">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-10">
                             <h2 class="header__title --black">HR Rule</h2>
                             <div class="hr-rule">
-                                <div class="hr-rule__header">
+                                <div class="hr-rule__header" data-toggle="collapse" data-target="#wHour">
                                     <h4 class="hr-rule__title">Jam Kerja</h4>
-                                    <i class="hr-rule__chevron fa fa-chevron-down" data-toggle="collapse" data-target="#wHour"></i>
+                                    <i class="hr-rule__chevron fa fa-chevron-down"></i>
                                 </div>
                                 <div class="hr-rule__content collapse" id="wHour"><br>
                                     <ol>
@@ -227,9 +228,9 @@
                                 </div>
                             </div>
                             <div class="hr-rule">
-                                <div class="hr-rule__header">
+                                <div class="hr-rule__header" data-toggle="collapse" data-target="#bonus">
                                     <h4 class="hr-rule__title">Gaji dan Bonus</h4>
-                                    <i class="hr-rule__chevron fa fa-chevron-down" data-toggle="collapse" data-target="#bonus"></i>
+                                    <i class="hr-rule__chevron fa fa-chevron-down"></i>
                                 </div>
                                 <div class="hr-rule__content collapse" id="bonus"><br>
                                     <ol>
@@ -252,9 +253,9 @@
                                 </div>
                             </div>
                             <div class="hr-rule">
-                                <div class="hr-rule__header">
+                                <div class="hr-rule__header" data-toggle="collapse" data-target="#obligatory">
                                     <h4 class="hr-rule__title">Kewajiban Karyawan</h4>
-                                    <i class="hr-rule__chevron fa fa-chevron-down" data-toggle="collapse" data-target="#obligatory"></i>
+                                    <i class="hr-rule__chevron fa fa-chevron-down"></i>
                                 </div>
                                 <div class="hr-rule__content collapse" id="obligatory"><br>
                                     <ol>
@@ -277,9 +278,9 @@
                                 </div>
                             </div>
                             <div class="hr-rule">
-                                <div class="hr-rule__header">
+                                <div class="hr-rule__header" data-toggle="collapse" data-target="#dayOff">
                                     <h4 class="hr-rule__title">Cuti dan Lembur</h4>
-                                    <i class="hr-rule__chevron fa fa-chevron-down" data-toggle="collapse" data-target="#dayOff"></i>
+                                    <i class="hr-rule__chevron fa fa-chevron-down"></i>
                                 </div>
                                 <div class="hr-rule__content collapse" id="dayOff"><br>
                                     <ol>
@@ -302,9 +303,9 @@
                                 </div>
                             </div>
                             <div class="hr-rule">
-                                <div class="hr-rule__header">
+                                <div class="hr-rule__header" data-toggle="collapse" data-target="#rights">
                                     <h4 class="hr-rule__title">Hak Karyawan</h4>
-                                    <i class="hr-rule__chevron fa fa-chevron-down" data-toggle="collapse" data-target="#rights"></i>
+                                    <i class="hr-rule__chevron fa fa-chevron-down"></i>
                                 </div>
                                 <div class="hr-rule__content collapse" id="rights"><br>
                                     <ol>
@@ -342,8 +343,8 @@
     <script type="text/JavaScript">
         $('.waNumber').html('0822-60-5678-56');
 
-        $('.hr-rule__chevron').on('click', function() {
-            $(this).toggleClass('fa-chevron-down fa-chevron-up');
+        $('.hr-rule__header').on('click', function() {
+            $(this).children('.hr-rule__chevron').toggleClass('fa-chevron-down fa-chevron-up');
         });
     </script>
 </body>

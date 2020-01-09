@@ -723,6 +723,10 @@ ul.medsos-new li a {
 .bg--working {
   background: url("../img//career/bg-img/bg-working.png") center/cover no-repeat;
 }
+.bg--yoshi {
+  /* background: linear-gradient(to right, transparent, rgba(255,255,255,.3),rgba(255,255,255,.8), #fff) right/80% no-repeat,url("../img/career/bg-img/bg-working.png") center/cover no-repeat; */
+  background: url("../img/career/bg-img/bg-yoshi.png") center/cover no-repeat;
+}
 .bg--vision {
   background: url("../img/career/bg-img/bg-vision.png") center/cover no-repeat;
 }
@@ -816,13 +820,19 @@ ul.medsos-new li a {
   font-weight: 600;
   color: #fff;
 }
-
+.breadcrumb--update-design.--black > li + li:before,
+.breadcrumb--update-design.--black a {
+  color: #000;
+}
 .breadcrumb--update-design a:hover {
   color: #fbc935;
 }
 
 .breadcrumb--update-design li.active a {
   color: #fff !important;
+}
+.breadcrumb--update-design.--black li.active a {
+  color: #000 !important;
 }
 .breadcrumb--update-design > li + li:before {
   content: "\003E";
@@ -840,6 +850,7 @@ ul.medsos-new li a {
 
 .header-banner p {
   color: #fff;
+  font-family: "Open Sans", sans-serif;
 }
 
 .header__title {
@@ -851,8 +862,17 @@ ul.medsos-new li a {
   color: #fff;
 }
 
-.header__title.--black {
+.header__sub-title.--black,
+.header__title.--black,
+.header__title.--black ~ p {
   color: #000;
+}
+
+.header__sub-title {
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+  font-size: 20px;
+font-weight: 800;
 }
 
 @media (max-width: 767px) {
@@ -1021,6 +1041,12 @@ ul.medsos-new li a {
   padding-left: 0;
   padding-right: 0;
 }
+@media only screen and (max-width: 414px) {
+  .no-gap {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
 
 /* Work Location */
 .work-location .col-sm-4 {
@@ -1125,6 +1151,7 @@ ul.medsos-new li a {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  cursor: pointer;
   /* margin-bottom: 1.5em; */
 }
 .hr-rule__chevron {
@@ -1144,3 +1171,26 @@ ul.medsos-new li a {
   margin-bottom: 20px;
 }
 /* End HR Rule */
+
+/* Interview */
+.interview__img-text {
+  position: absolute;
+  bottom: 25px;
+left: 20px;
+color: #fff;
+}
+.interview__text-title {
+  font-size: 28px;
+font-weight: 800;
+}
+.interview-img .col-sm-4 {
+  padding: 15px;
+}
+.interview__img-wrapper {
+  height: 330px;
+  overflow: hidden;
+}
+.interview__img-wrapper img {
+  min-width: 100%;
+}
+/* End Interview */
