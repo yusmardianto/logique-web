@@ -308,7 +308,7 @@
         </div>
       </section>
       <section class="container-fluid">
-        <div class="container--max-width">
+        <div class="container--max-width" style="padding-bottom: 0;">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
@@ -401,7 +401,7 @@
       <?php include './layout-career/news-recruitment-topic.php'; ?>
 
       <section class="container-fluid">
-        <div class="container--max-width">
+        <div class="container--max-width" style="padding-top: 0;">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">

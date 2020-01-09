@@ -210,7 +210,6 @@
       </section>
 
       <?php include '../layout-career/news-recruitment-topic.php'; ?>
-
       <?php include '../layout-career/link-section.php'; ?>
       <?php include '../layout-career/contact-lgq.php'; ?>
     </div>
