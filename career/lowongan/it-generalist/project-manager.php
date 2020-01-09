@@ -309,17 +309,17 @@
     <script type="text/JavaScript">
         $('.waNumber').html('0822-60-5678-56');
 
-        var itGeneralis = ["qa", "design"];
-        var programmer = ["qa", "design", "project-manager"];
-        // var programmer = ["qa", "design", "tester"];
-        var current = window.location.pathname.split(/[./]/);
-        var currentSpecify = current[current.length - 2];
+        // var itGeneralis = ["qa", "design"];
+        // var programmer = ["qa", "design", "project-manager"];
+        // // var programmer = ["qa", "design", "tester"];
+        // var current = window.location.pathname.split(/[./]/);
+        // var currentSpecify = current[current.length - 2];
 
-        if (itGeneralis.indexOf(currentSpecify) !== -1) {
-            $('#itGeneralist').hide();
-        } else if (programmer.indexOf(currentSpecify) !== -1) {
-            $('#programmer').hide();
-        }
+        // if (itGeneralis.indexOf(currentSpecify) !== -1) {
+        //     $('#itGeneralist').hide();
+        // } else if (programmer.indexOf(currentSpecify) !== -1) {
+        //     $('#programmer').hide();
+        // }
 
     </script>
 </body>
