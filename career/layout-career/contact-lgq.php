@@ -49,7 +49,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="text-center">
-                            <a class="btn-banner-pattern mb--60" href="#">
+                            <a class="btn-banner-pattern mb--60" href="/career/lowongan.php">
                                 <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png" alt="Melamar Lowongan Sekarang">
                                 <span>Melamar Lowongan Sekarang</span>
                             </a>

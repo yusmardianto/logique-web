@@ -170,7 +170,7 @@
                         <div class="col-sm-offset-1 col-sm-10">
                             <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="index.php"><span itemprop="name">Beranda</span></a>
+                                        href="/index.php"><span itemprop="name">Beranda</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
@@ -236,7 +236,7 @@
                                             <div class="urgent-need__text">Front End Developer</div>
                                         </a>
                                     </div>
-                                    <a href="#" class="form-control main-btn --yellow">Check all open positions</a>
+                                    <a href="/career/lowongan.php" class="form-control main-btn --yellow">Check all open positions</a>
                                 </div>
                             </div>
                         </div>

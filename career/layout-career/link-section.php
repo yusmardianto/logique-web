@@ -10,7 +10,7 @@
                                     incididunt ut
                                     labore et dolore magna aliqua.</p>
                             </div>
-                            <a href="#" class="main-btn --link-box">Interview & Photos</a>
+                            <a href="/career/interview.php" class="main-btn --link-box">Interview & Photos</a>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
@@ -20,7 +20,7 @@
                                     incididunt ut
                                     labore et dolore magna aliqua.</p>
                             </div>
-                            <a href="#" class="main-btn --link-box">Vision & Culture</a>
+                            <a href="/career/visi.php" class="main-btn --link-box">Vision & Culture</a>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
@@ -30,7 +30,7 @@
                                     incididunt ut
                                     labore et dolore magna aliqua.</p>
                             </div>
-                            <a href="#" class="main-btn --link-box">Kerja di Logique</a>
+                            <a href="/career/pekerjaan.php" class="main-btn --link-box">Kerja di Logique</a>
                         </div>
                     </div>
                 </div>
@@ -42,7 +42,7 @@
                                     incididunt ut
                                     labore et dolore magna aliqua.</p>
                             </div>
-                            <a href="#" class="main-btn --link-box">Career Development</a>
+                            <a href="/career/pengembangan-karir.php" class="main-btn --link-box">Career Development</a>
                         </div>
                     </div>
                     <div class="col-sm-6">
@@ -52,7 +52,7 @@
                                     incididunt ut
                                     labore et dolore magna aliqua.</p>
                             </div>
-                            <a href="#" class="main-btn --link-box">Working Environment & Welfare</a>
+                            <a href="/career/working-env.php" class="main-btn --link-box">Working Environment & Welfare</a>
                         </div>
                     </div>
                 </div>

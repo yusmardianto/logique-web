@@ -810,38 +810,12 @@ ul.medsos-new li a {
     url("../img/career/bg-img/bg-specialist.png") center/cover no-repeat;
 }
 .bg--sales {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../img/career/bg-img/bg-sales.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-sales.png") center/cover no-repeat;
 }
 .bg--bo {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../img/career/bg-img/bg-bo.png") center/cover no-repeat;
 }
-.bg--generalist:hover {
-  background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
-    url("../img/career/bg-img/bg-generalist.png") center/cover no-repeat;
-}
-.bg--programmer:hover {
-  background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
-    url("../img/career/bg-img/bg-programmer.png") center/cover no-repeat;
-}
-.bg--design:hover {
-  background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
-    url("../img/career/bg-img/bg-design.png") center/cover no-repeat;
-}
-.bg--specialist:hover {
-  background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
-    url("../img/career/bg-img/bg-specialist.png") center/cover no-repeat;
-}
-.bg--sales:hover {
-  background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
-    url("../img/career/bg-img/bg-sales.png") center/cover no-repeat;
-}
-.bg--bo:hover {
-  background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
-    url("../img/career/bg-img/bg-bo.png") center/cover no-repeat;
-}
-
 .bg--lowongan-project-manager {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
     url("../img/career/bg-img/bg-project-manager-thumb.png") center/cover
@@ -1102,10 +1076,15 @@ ul.medsos-new li a {
   line-height: 1.2;
 }
 .other-position .section-title,
+.see-position .section-title,
 .lowongan-position .section-title {
   display: block;
   z-index: 3;
 }
+.see-position p {
+  z-index: 3;
+}
+.see-position__overlay,
 .other-position__overlay,
 .lowongan-position__overlay {
   position: absolute;
@@ -1127,6 +1106,7 @@ ul.medsos-new li a {
   font-weight: 800;
   font-size: 13px;
 }
+.see-position__item:hover .see-position__overlay,
 .other-position__item:hover .other-position__overlay,
 .lowongan-position__item:hover .lowongan-position__overlay {
   opacity: 1;
