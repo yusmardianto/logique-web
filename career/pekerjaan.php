@@ -239,11 +239,11 @@
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="index.php"><span itemprop="name">Beranda</span></a>
+                    href="/index.php"><span itemprop="name">Beranda</span></a>
                   <meta itemprop="position" content="1" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="index.php"><span itemprop="name">Karir</span></a>
+                    href="/career/index.php"><span itemprop="name">Karir</span></a>
                   <meta itemprop="position" content="2" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a

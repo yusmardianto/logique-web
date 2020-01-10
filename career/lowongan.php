@@ -283,11 +283,11 @@
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="index.php"><span itemprop="name">Beranda</span></a>
+                    href="/index.php"><span itemprop="name">Beranda</span></a>
                   <meta itemprop="position" content="1" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="index.php"><span itemprop="name">Karir</span></a>
+                    href="/career/index.php"><span itemprop="name">Karir</span></a>
                   <meta itemprop="position" content="2" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
@@ -316,7 +316,7 @@
                   <h2 class="heading-black mb--40">Urgently Needed Positions</h2>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/it-generalist/project-manager.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager">
@@ -409,7 +409,7 @@
                   <h2 class="heading-black mb--40">Lowongan IT Generalist</h2>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/it-generalist/project-manager.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager">
