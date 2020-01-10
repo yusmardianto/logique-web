@@ -832,6 +832,25 @@ ul.medsos-new li a {
       no-repeat;
 }
 
+.bg--banner-lowongan {
+  background: url("/img/career/bg-img/banner-lowongan-top.png") center/cover
+    no-repeat;
+}
+
+.bg--banner-pekerjaan {
+  background: url("/img/career/bg-img/banner-pekerjaan-logique-top.png")
+    center/cover no-repeat;
+}
+
+.bg--career-dev {
+  background: url("/img/career/bg-img/bg-career-dev.png") center/cover no-repeat;
+}
+
+.bg--it-generalist {
+  background: url("/img/career/bg-img/bg-it-generalist.png") center/cover
+    no-repeat;
+}
+
 @media (min-width: 1024px) and (max-width: 1280px) {
   .bg--yoshi {
     background-position-x: 30%;
@@ -1400,3 +1419,240 @@ ul.medsos-new li a {
   line-height: 35px;
 }
 /* End Career Detail */
+
+/*css from each page*/
+.heading-black {
+  font-weight: 900;
+  color: #000;
+}
+
+.container--max-width .row.row__same-height > .card--layout {
+  margin-bottom: 30px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.container--max-width
+  .row.row__same-height:nth-last-child(1)
+  > .card--layout:last-child {
+  margin-bottom: 0;
+}
+
+@media (min-width: 992px) {
+  .container--max-width
+    .row.row__same-height:nth-last-child(1)
+    > .card--layout {
+    margin-bottom: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .row.row__same-height {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+.card-box {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 18px;
+  font-family: "Open Sans", sans-serif;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  transition: all 125ms ease-in;
+}
+
+.card-box:hover {
+  transform: translate(2px, -4px);
+  box-shadow: 0px 5px 15px -5px rgba(0, 0, 0, 0.25);
+}
+
+.card-box.card-box__urgent::before {
+  content: "Urgent";
+  position: absolute;
+  top: 0;
+  right: 0;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  padding: 4px 35px;
+  background: linear-gradient(-45deg, #ff0000 0%, #a80000 100%);
+  color: #fff;
+  width: 135px;
+  height: 41px;
+  border-radius: 0 0 0 35px;
+}
+
+.card-box__body h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.card-box__body img {
+  margin-bottom: 12px;
+  height: 60px;
+  object-fit: scale-down;
+  object-position: bottom;
+}
+
+.card-box__body p {
+  font-size: 14px;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.card-box__footer {
+  font-weight: 600;
+  font-size: 13px;
+  color: #000;
+}
+
+.card-box__footer > div {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.card-box__footer > div img {
+  margin-right: 8px;
+}
+
+.max-800 {
+  max-width: 800px;
+  margin: auto;
+}
+
+.check-portfolio {
+  background: url("/img/career/bg-img/bg-check.png") center/cover no-repeat;
+  width: 100%;
+  height: 165px;
+  position: relative;
+  padding: 15px;
+}
+
+.--vertical-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.check-portfolio h2 {
+  color: #fff;
+  font-weight: 900;
+  font-size: 32px;
+}
+
+@media (min-width: 768px) {
+  .check-portfolio h2 {
+    font-size: 42px;
+    font-weight: 800;
+  }
+}
+
+.service {
+  display: flex;
+  margin-top: 2.5em;
+}
+
+.service-icon {
+  margin-right: 30px;
+}
+
+.service-desc h3,
+.service-desc h3 a {
+  font-weight: 800;
+  color: #000;
+  font-size: 25px;
+  line-height: 32px;
+  margin-bottom: 10px;
+}
+
+.service-desc ul li a {
+  display: block;
+  color: rgb(39, 137, 248);
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 26px;
+}
+
+.service-desc a:hover {
+  color: #ffca13;
+}
+
+.role .role__title {
+  display: inline-block;
+  margin-bottom: 24px;
+  position: relative;
+}
+
+.role .role__title::after {
+  content: "";
+  position: absolute;
+  bottom: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 2px;
+  background-color: #ffca13;
+  width: 90px;
+}
+
+.bg--f1f1f1 {
+  background-color: #f1f1f1;
+}
+
+.junior-fe-dev .role__illust,
+.middle-fe-dev .role__illust {
+  position: relative;
+}
+
+.junior-fe-dev .role__illust .path-img {
+  position: absolute;
+  bottom: -45%;
+  right: -28%;
+  width: 60%;
+}
+
+.middle-fe-dev .role__illust .path-img {
+  position: absolute;
+  bottom: -35%;
+  right: -24%;
+  width: 50%;
+}
+
+@media (min-width: 1280px) {
+  .junior-fe-dev .role__illust .path-img {
+    bottom: -52.5%;
+    right: -32.5%;
+  }
+
+  .middle-fe-dev .role__illust .path-img {
+    bottom: -40%;
+    right: -30%;
+  }
+}
+
+.career__desc {
+  padding: 15px 0;
+}
+
+.career__desc picture {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+  .career__desc {
+    display: flex;
+  }
+
+  .career__desc picture {
+    margin-right: 20px;
+  }
+}

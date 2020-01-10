@@ -83,12 +83,6 @@
     <!-- Header -->
     <?php include '../layout-career/header-career.php'; ?>
 
-    <style>
-    .bg--it-generalist {
-      background: url('/img/career/bg-img/bg-it-generalist.png') center/cover no-repeat;
-    }
-    </style>
-
     <div class="career-update content-wrapper__">
       <section class="container-fluid --top bg--it-generalist">
         <div class="container--max-width header-banner">
