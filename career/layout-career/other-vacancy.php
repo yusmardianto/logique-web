@@ -44,7 +44,7 @@
             </a>
           </div>
           <?php endif; ?>
-          <?php if ($cat_vacancy !== 'sales-back-office'): ?>
+          <?php if ($cat_vacancy !== 'internship'): ?>
           <div class="col-sm-6 col-md-4">
             <a href="#" class="other-position__item bg--generalist">
               <h3 class="section-title">Internship</h3>
