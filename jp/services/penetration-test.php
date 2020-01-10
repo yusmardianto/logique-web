@@ -25,15 +25,21 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
     <script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-	ga('create', 'UA-105878648-1', 'auto');
-	ga('send', 'pageview');
-
-	</script>
+    ga('create', 'UA-105878648-1', 'auto');
+    ga('send', 'pageview');
+    </script>
 </head>
 
 <body class="wrapper wrapper--update-design">
@@ -75,8 +81,8 @@
     }
     </style>
 
-    <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-        data-toggle="collapse" data-target="#myNavbar">
+    <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
+        data-target="#myNavbar">
         <span class="icon-bar first"></span>
         <span class="icon-bar second"></span>
         <span class="icon-bar third"></span>
@@ -150,8 +156,7 @@
                                 <li><a href="/layanan/penetration-test.php">ID</a></li>
                                 <li class="active"><a href="#">JP</a></li>
                             </ul>
-                            <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
-                                    class="img-responsive logo--update-design" /></a>
+                            <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                         </div>
                     </div>
                 </div>
@@ -166,19 +171,17 @@
                 <div class="container__" style="padding:0">
                     <div class="row">
                         <div class="col-sm-12">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                itemtype="http://schema.org/BreadcrumbList">
+                            <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
                                         href="/jp/index.php"><span itemprop="name">Home</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
-                                <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item" href="/jp/services.php"><span
-                                            itemprop="name">&nbsp;LOGIQUEのサービス</span></a>
+                                <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                        href="/jp/services.php"><span itemprop="name">&nbsp;LOGIQUEのサービス</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Webセキュリティ診断（脆弱性診断・検査）</span></a>
+                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
+                                            itemprop="name">&nbsp;Webセキュリティ診断（脆弱性診断・検査）</span></a>
                                     <meta itemprop="position" content="3" />
                                 </li>
                             </ol>
@@ -189,8 +192,7 @@
             <div class="container__">
                 <div class="row">
                     <div class="col-md-12">
-                        <img class="img-responsive center-block top-banner" src="assets/img/img-pentest/top-banner.png"
-                            alt="Top Banner" />
+                        <img class="img-responsive center-block top-banner" src="assets/img/img-pentest/top-banner.png" alt="Top Banner" />
                         <div class="what-is">
                             <h1 class="title" style="margin-bottom: 0;">Webサイトのセキュリティ診断サービス｜Web脆弱性テスト</h1>
                             <div class="row">
@@ -443,7 +445,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12">
-                        <img alt="10 juta" src="assets/img/img-pentest/10-juta.png" class="img-responsive center-block" />
+                        <img alt="15 juta" src="assets/img/img-pentest/15-juta.png" class="img-responsive center-block" />
                     </div>
                 </div><br />
                 <div class="row">
