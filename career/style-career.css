@@ -780,6 +780,21 @@ ul.medsos-new li a {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../img/career/bg-img/bg-bo.png") center/cover no-repeat;
 }
+.bg--project-manager {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+    url("../img/career/bg-img/bg-project-manager-thumb.png") center/cover
+      no-repeat;
+}
+.bg--product-manager {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+    url("../img/career/bg-img/bg-product-manager-thumb.png") center/cover
+      no-repeat;
+}
+.bg--business-analyst {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+    url("../img/career/bg-img/bg-business-analyst-thumb.png") center/cover
+      no-repeat;
+}
 .bg--generalist:hover {
   background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
     url("../img/career/bg-img/bg-generalist.png") center/cover no-repeat;
@@ -803,6 +818,18 @@ ul.medsos-new li a {
 .bg--bo:hover {
   background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
     url("../img/career/bg-img/bg-bo.png") center/cover no-repeat;
+}
+.bg--project-manager:hover {
+  background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
+    url("../img/career/bg-img/bg-project-manager.png") center/cover no-repeat;
+}
+.bg--product-manager:hover {
+  background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
+    url("../img/career/bg-img/bg-product-manager.png") center/cover no-repeat;
+}
+.bg--business-analyst:hover {
+  background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
+    url("../img/career/bg-img/bg-business-analyst.png") center/cover no-repeat;
 }
 
 /* END BG */
@@ -990,7 +1017,8 @@ ul.medsos-new li a {
 
 /* See Position */
 .see-position .col-sm-6,
-.other-position .col-sm-6 {
+.other-position .col-sm-6,
+.lowongan-position .col-sm-6 {
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -1005,7 +1033,8 @@ ul.medsos-new li a {
   bottom: 0;
   transition: 0.3s;
 }
-.other-position__item {
+.other-position__item,
+.lowongan-position__item {
   position: relative;
   display: flex;
   align-items: center;
@@ -1016,10 +1045,15 @@ ul.medsos-new li a {
   transition: 0.3s;
 }
 .other-position__item:hover,
-.see-position__item:hover {
+.see-position__item:hover,
+.lowongan-position__item:hover {
   bottom: 4px;
   color: #fff;
   box-shadow: 0px 8px 20px -4px rgba(0, 0, 0, 0.2);
+}
+.see-position__item:focus,
+.lowongan-position__item:focus {
+  color: #fff;
 }
 .see-position .section-title__wrapper {
   flex-basis: 50%;
@@ -1027,17 +1061,20 @@ ul.medsos-new li a {
   align-items: flex-end;
 }
 .other-position .section-title,
-.see-position .section-title {
+.see-position .section-title,
+.lowongan-position .section-title {
   margin-bottom: 0;
   line-height: 1.2;
 }
-.other-position .section-title {
+.other-position .section-title,
+.lowongan-position .section-title {
   display: block;
   z-index: 3;
 }
-.other-position__overlay {
+.other-position__overlay,
+.lowongan-position__overlay {
   position: absolute;
-  background-color: rgba(255, 191, 0, 0.8);
+  background-color: #ffbf00;
   width: 100%;
   height: 100%;
   top: 0;
@@ -1046,7 +1083,8 @@ ul.medsos-new li a {
   transition: 0.1s;
 }
 
-.other-position__overlay:hover {
+.other-position__overlay:hover,
+.lowongan-position__overlay:hover {
   opacity: 1;
 }
 /* End See Position */

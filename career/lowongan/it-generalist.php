@@ -209,6 +209,7 @@
         </div>
       </section>
 
+      <?php include '../layout-career/lowongan-position.php'; ?>
       <?php include '../layout-career/news-recruitment-topic.php'; ?>
       <?php include '../layout-career/other-vacancy.php'; ?>
       <?php include '../layout-career/link-section.php'; ?>
