@@ -102,20 +102,12 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-offset-1 col-lg-5 col-md-8 col-sm-10">
-              <h1 class="header__title">Informasi Pekerjaan</h1>
-              <p>Every avid independent filmmaker has dreamed about making that special interest documentary, or short
-                film to show off
-                their creative prowess. Many have great ideas and want to “wow” the film-festival scene, or video
-                renters with their
-                big
-                project. But once you have the film “in the can” (no easy feat), how do you move from a couple of master
-                DVDs with the
-                “Sharpie” marked hand-written title inside a secondhand CD case, to a pile of cardboard boxes full of
-                shiny new,
-                retail-ready DVDs, with UPC barcodes and polywrap sitting on your doorstep? You need to create
-                eye-popping artwork and
-                have your project replicated. </p>
+            <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
+              <h1 class="header__title">Wujudkan Mimpi Anda Dengan Berkarir Bersama LOGIQUE</h1>
+              <p>
+                Di LOGIQUE, Anda dapat mewujudkan mimpi Anda untuk mendapatkan dan meningkatkan karir yang cemerlang
+                tanpa batas. Segera bergabung dan kembangkan karir Anda bersama kami.
+              </p>
             </div>
           </div>
         </div>
@@ -127,20 +119,23 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row">
                 <div class="col-md-6 col-sm-12">
-                  <h2 class="section-title">Informasi Pekerjaan</h2>
-                  <p class="mb-2em">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti suscipit pariatur
-                    quam quidem
-                    omnis
-                    totam illum dolor
-                    eius numquam quaerat. Cumque corporis, est dignissimos in, officia, ab voluptates facere possimus
-                    voluptatem
-                    reprehenderit
-                    eveniet minus nobis.</p>
+                  <h2 class="section-title">Info Lowongan</h2>
+                  <p class="mb-2em">
+                    LOGIQUE memberikan kesempatan kepada Anda untuk bergabung bersama kami dan mengembangkan potensi
+                    yang Anda miliki saat ini.
+                  </p>
+                  <p class="mb-2em">
+                    Mengadopsi budaya kerja start up, kami selalu mendukung seluruh karyawan kami untuk terus
+                    meningkatkan skill dan pengetahuan mereka tentang berbagai update terbaru di dunia IT.
+                  </p>
+                  <p class="mb-2em">
+                    Anda tertarik untuk bekerja di LOGIQUE? Segera hubungi tim rekrutmen LOGIQUE sekarang juga!
+                  </p>
                   <h4 class="section-subtitle">Talk to us</h4>
                   <div class="talk-to">
-                    <a href="https://wa.me/+62812222222" target="_blank" class="talk-to__item">
+                    <a href="https://wa.me/+6282260567856" target="_blank" class="talk-to__item">
                       <img class="talk-to__img" src="../../img/career/icon/wa.png" alt="Whatsapp Number">
-                      <span class="talk-to__ctc">0812222222</span>
+                      <span class="talk-to__ctc">082260567856</span>
                     </a>
                     <a href="mailto:recruit@logique.co.id" class="talk-to__item">
                       <img class="talk-to__img" src="../../img/career/icon/mail.png" alt="Email">
@@ -149,7 +144,7 @@
                   </div><br>
                 </div>
                 <div class="col-md-6 col-sm-12">
-                  <h2 class="section-title">Urgently Needed</h2>
+                  <h2 class="section-title">Dibutuhkan Segera!</h2>
                   <div class="urgent-need">
                     <a href="#" class="urgent-need__item">
                       <img class="urgent-need__img" src="../../img/career/icon/ux.png" alt="UI/UX Designer">
@@ -164,7 +159,7 @@
                       <div class="urgent-need__text">Front End Developer</div>
                     </a>
                   </div>
-                  <a href="/career/lowongan.php" class="form-control main-btn --yellow">Check all open positions</a>
+                  <a href="/career/lowongan.php" class="form-control main-btn --yellow">Lihat Semua Lowongan</a>
                 </div>
               </div>
             </div>

@@ -1179,12 +1179,30 @@ ul.medsos-new li a {
   min-width: 100%;
 }
 .work-location__text {
+  color: rgb(0, 0, 0);
   background-color: #fbc935;
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 500;
+  letter-spacing: 0.8px;
+  line-height: 25px;
   padding-top: 1em;
   padding-bottom: 1em;
 }
+@media (min-width: 768px) {
+  .work-location__text p {
+    position: relative;
+  }
+  .work-location__text p::before {
+    content: "";
+    position: absolute;
+    left: -30px;
+    top: 10px;
+    bottom: 10px;
+    width: 3px;
+    background-color: rgb(0, 0, 0);
+  }
+}
+
 /* End Work Location */
 
 /* Vision Box */
