@@ -164,7 +164,7 @@
 
         <div class="career-update content-wrapper__">
 
-            <section class="container-fluid --top bg--working">
+            <section class="container-fluid --top bg--project-manager">
                 <div class="container--max-width header-banner">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-10">
@@ -177,9 +177,13 @@
                                             itemprop="name">&nbsp; Karir</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
-                                            itemprop="name">&nbsp; Visi dan Budaya</span></a>
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                        href="/career/lowongan/it-generalist.php"><span itemprop="name">&nbsp; IT Generalist</span></a>
                                     <meta itemprop="position" content="3" />
+                                </li>
+                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
+                                            itemprop="name">&nbsp; Project Manager</span></a>
+                                    <meta itemprop="position" content="4" />
                                 </li>
                             </ol>
                         </div>

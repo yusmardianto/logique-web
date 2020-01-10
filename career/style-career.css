@@ -544,7 +544,7 @@ button:focus {
 }
 
 .container--max-width {
-  max-width: 1425px;
+  max-width: 1445px;
   padding-top: 2.5em;
   padding-bottom: 2.5em;
   margin: auto;
@@ -740,11 +740,13 @@ ul.medsos-new li a {
   background: url("../img//career/bg-img/bg-working.png") center/cover no-repeat;
 }
 .bg--yoshi {
-  /* background: linear-gradient(to right, transparent, rgba(255,255,255,.3),rgba(255,255,255,.8), #fff) right/80% no-repeat,url("../img/career/bg-img/bg-working.png") center/cover no-repeat; */
   background: url("../img/career/bg-img/bg-yoshi.png") center/cover no-repeat;
 }
 .bg--salary {
   background: url("../img/career/bg-img/bg-salary.png") center/cover no-repeat;
+}
+.bg--project-manager {
+  background: url("../img/career/bg-img/bg-pm.png") center/cover no-repeat;
 }
 
 .bg--vision {
