@@ -815,21 +815,6 @@ ul.medsos-new li a {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../img/career/bg-img/bg-bo.png") center/cover no-repeat;
 }
-.bg--project-manager {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
-    url("../img/career/bg-img/bg-project-manager-thumb.png") center/cover
-      no-repeat;
-}
-.bg--product-manager {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
-    url("../img/career/bg-img/bg-product-manager-thumb.png") center/cover
-      no-repeat;
-}
-.bg--business-analyst {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
-    url("../img/career/bg-img/bg-business-analyst-thumb.png") center/cover
-      no-repeat;
-}
 .bg--generalist:hover {
   background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
     url("../img/career/bg-img/bg-generalist.png") center/cover no-repeat;
@@ -854,17 +839,21 @@ ul.medsos-new li a {
   background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
     url("../img/career/bg-img/bg-bo.png") center/cover no-repeat;
 }
-.bg--project-manager:hover {
-  background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
-    url("../img/career/bg-img/bg-project-manager.png") center/cover no-repeat;
+
+.bg--lowongan-project-manager {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+    url("../img/career/bg-img/bg-project-manager-thumb.png") center/cover
+      no-repeat;
 }
-.bg--product-manager:hover {
-  background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
-    url("../img/career/bg-img/bg-product-manager.png") center/cover no-repeat;
+.bg--lowongan-product-manager {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+    url("../img/career/bg-img/bg-product-manager-thumb.png") center/cover
+      no-repeat;
 }
-.bg--business-analyst:hover {
-  background: linear-gradient(rgba(255, 191, 0, 0.8), rgba(255, 191, 0, 0.8)),
-    url("../img/career/bg-img/bg-business-analyst.png") center/cover no-repeat;
+.bg--lowongan-business-analyst {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+    url("../img/career/bg-img/bg-business-analyst-thumb.png") center/cover
+      no-repeat;
 }
 
 @media (min-width: 1024px) and (max-width: 1280px) {
@@ -967,6 +956,7 @@ ul.medsos-new li a {
 .section-title {
   font-weight: 900;
   font-size: 32px;
+  line-height: 32px;
   margin-bottom: 25px;
 }
 
@@ -1059,9 +1049,9 @@ ul.medsos-new li a {
 /* End Link Box */
 
 /* See Position */
-.see-position .col-sm-6,
-.other-position .col-sm-6,
-.lowongan-position .col-sm-6 {
+.see-position .col-md-6,
+.other-position .col-md-6,
+.lowongan-position .col-md-6 {
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -1128,14 +1118,15 @@ ul.medsos-new li a {
 .other-position__urgent {
   position: absolute;
   top: 10px;
-  right: -5px;
+  right: -8px;
   padding: 6px 10px;
   background-color: #cd0707;
   border-radius: 8px;
   font-weight: 800;
   font-size: 13px;
 }
-.other-position__item:hover .other-position__overlay {
+.other-position__item:hover .other-position__overlay,
+.lowongan-position__item:hover .lowongan-position__overlay {
   opacity: 1;
 }
 /* End See Position */

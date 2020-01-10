@@ -12,7 +12,7 @@
                     <?php if ($cat_vacancy !== 'it-generalist'): ?>
                     <div class="col-md-6 col-lg-4">
                         <a href="#" class="other-position__item bg--generalist">
-                            <!-- <div class="other-position__overlay"></div> -->
+                            <div class="other-position__overlay"></div>
                             <h3 class="section-title">IT Generalist</h3>
                         </a>
                     </div>
