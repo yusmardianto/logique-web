@@ -498,6 +498,12 @@ button:focus {
   box-shadow: 0px 6px 14px 0px rgba(0, 0, 0, 0.14);
 }
 
+.btn-banner-pattern__wrapper {
+  border: solid;
+  display: inline-block;
+  padding: 5px 5px 0 5px;
+  border-radius: 10px;
+}
 @media (max-width: 767px) {
   .btn-banner-pattern {
     max-width: 300px;
@@ -737,6 +743,10 @@ ul.medsos-new li a {
   /* background: linear-gradient(to right, transparent, rgba(255,255,255,.3),rgba(255,255,255,.8), #fff) right/80% no-repeat,url("../img/career/bg-img/bg-working.png") center/cover no-repeat; */
   background: url("../img/career/bg-img/bg-yoshi.png") center/cover no-repeat;
 }
+.bg--salary {
+  background: url("../img/career/bg-img/bg-salary.png") center/cover no-repeat;
+}
+
 .bg--vision {
   background: url("../img/career/bg-img/bg-vision.png") center/cover no-repeat;
 }
@@ -746,6 +756,10 @@ ul.medsos-new li a {
 .bg--career {
   background: url("../img/career/bg-img/bg-career.png") center/cover no-repeat;
 }
+.bg--career-apply {
+  background: url("../img/career/bg-img/bg-career-apply.png") center/cover
+    no-repeat;
+}
 .bg--env {
   background: url("../img/career/bg-img/bg-env.png") center/cover no-repeat;
 }
@@ -754,6 +768,27 @@ ul.medsos-new li a {
 }
 .bg--lowongan {
   background: url("../img/career/bg-img/bg-lowongan.png") center/cover no-repeat;
+}
+
+.bg--op-programmer {
+  background: url("../img/career/bg-img/bg-op-programmer.png") center/cover
+    no-repeat;
+}
+.bg--op-designer {
+  background: url("../img/career/bg-img/bg-op-designer.png") center/cover
+    no-repeat;
+}
+.bg--op-specialist {
+  background: url("../img/career/bg-img/bg-op-specialist.png") center/cover
+    no-repeat;
+}
+.bg--op-sales {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../img/career/bg-img/bg-op-sales.png") center/cover no-repeat;
+}
+.bg--op-internship {
+  background: url("../img/career/bg-img/bg-op-internship.png") center/cover
+    no-repeat;
 }
 
 .bg--generalist {
@@ -832,6 +867,16 @@ ul.medsos-new li a {
     url("../img/career/bg-img/bg-business-analyst.png") center/cover no-repeat;
 }
 
+@media (min-width: 1024px) and (max-width: 1280px) {
+  .bg--yoshi {
+    background-position-x: 30%;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1023.98px) {
+  .bg--yoshi {
+    background-position-x: 25%;
+  }
+}
 /* END BG */
 
 /* Margin */
@@ -865,11 +910,9 @@ ul.medsos-new li a {
   color: #fbc935;
 }
 
+.breadcrumb--update-design.--black li.active a,
 .breadcrumb--update-design li.active a {
-  color: #fff !important;
-}
-.breadcrumb--update-design.--black li.active a {
-  color: #000 !important;
+  color: #fbc935 !important;
 }
 .breadcrumb--update-design > li + li:before {
   content: "\003E";
@@ -882,7 +925,7 @@ ul.medsos-new li a {
 .container--max-width.header-banner {
   padding-top: 0;
   padding-bottom: 4.4em;
-  min-height: 400px;
+  /* min-height: 400px; */
 }
 
 .header-banner p {
@@ -1082,9 +1125,17 @@ ul.medsos-new li a {
   opacity: 0;
   transition: 0.1s;
 }
-
-.other-position__overlay:hover,
-.lowongan-position__overlay:hover {
+.other-position__urgent {
+  position: absolute;
+  top: 10px;
+  right: -5px;
+  padding: 6px 10px;
+  background-color: #cd0707;
+  border-radius: 8px;
+  font-weight: 800;
+  font-size: 13px;
+}
+.other-position__item:hover .other-position__overlay {
   opacity: 1;
 }
 /* End See Position */
@@ -1262,7 +1313,7 @@ ul.medsos-new li a {
   font-size: 28px;
   font-weight: 800;
 }
-.interview-img .col-sm-4 {
+.interview-img .col-md-4 {
   padding: 15px;
 }
 .interview__img-wrapper {
@@ -1308,6 +1359,7 @@ ul.medsos-new li a {
   display: flex;
   align-items: baseline;
 }
+.salary-range__salary,
 .work-schedule__time {
   background: linear-gradient(
     -135deg,
@@ -1323,7 +1375,55 @@ ul.medsos-new li a {
   flex-basis: 110px;
   text-align: center;
 }
+.salary-range__salary {
+  font-weight: bold;
+  margin: 0;
+  min-width: 230px;
+  flex-basis: auto;
+}
 .work-schedule__text {
   flex-basis: 70%;
+}
+.salary-range {
+  margin-bottom: 3em;
+}
+.salary-range__head {
+  border-left: solid 5px #fbc935;
+  padding-left: 15px;
+}
+.salary-range__head-top {
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+}
+.salary-range__position {
+  font-weight: 600;
+}
+.salary-range__list {
+  padding-left: 10px;
+  font-family: "Open Sans", sans-serif;
+}
+.salary-range__list li::before {
+  content: "■";
+  color: #cd0707;
+  margin-right: 15px;
+}
+.salary-range__list li {
+  padding-left: 1em;
+  text-indent: -1.7em;
+}
+.apply-now {
+  display: flex;
+  align-items: center;
+}
+.apply-now__item {
+  flex-basis: 50%;
+}
+.apply-now__text {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 35px;
 }
 /* End Career Detail */

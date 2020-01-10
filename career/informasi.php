@@ -144,7 +144,7 @@
 
         <!-- HEADER -->
         <div class="container-fluid">
-            <div class="lang-logo--update-design">
+            <div class="row lang-logo--update-design">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-8">
@@ -159,7 +159,6 @@
                     </div>
                 </div>
             </div>
-
         </div>
         <!-- END HEADER -->
 
@@ -182,7 +181,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-sm-offset-1 col-sm-5">
+                        <div class="col-sm-offset-1 col-lg-5 col-md-8 col-sm-10">
                             <h1 class="header__title">Informasi Pekerjaan</h1>
                             <p>Every avid independent filmmaker has dreamed about making that special interest documentary, or short film to show off
                                 their creative prowess. Many have great ideas and want to “wow” the film-festival scene, or video renters with their
@@ -201,7 +200,7 @@
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-10">
                             <div class="row">
-                                <div class="col-sm-6">
+                                <div class="col-md-6 col-sm-12">
                                     <h2 class="section-title">Informasi Pekerjaan</h2>
                                     <p class="mb-2em">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti suscipit pariatur quam quidem
                                         omnis
@@ -219,9 +218,9 @@
                                             <img class="talk-to__img" src="../../img/career/icon/mail.png" alt="Email">
                                             <span class="talk-to__ctc">recruit@logique.co.id</span>
                                         </a>
-                                    </div>
+                                    </div><br>
                                 </div>
-                                <div class="col-sm-6">
+                                <div class="col-md-6 col-sm-12">
                                     <h2 class="section-title">Urgently Needed</h2>
                                     <div class="urgent-need">
                                         <a href="#" class="urgent-need__item">
@@ -245,9 +244,9 @@
                 </div>
             </section>
 
-            <?php include './layout-career/link-section.php'; ?>
-            <?php include './layout-career/other-position.php'; ?>
-            <?php include './layout-career/contact-lgq.php'; ?>
+            <?php include './layout-career/link-section.php' ; ?>
+            <?php include './layout-career/other-position.php' ; ?>
+            <?php include './layout-career/contact-lgq.php' ; ?>
 
         </div>
 

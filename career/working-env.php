@@ -187,7 +187,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-sm-offset-1 col-sm-6">
+                        <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
                             <h1 class="header__title">Working Environment and HR Rule</h1>
                             <p>LOGIQUE is a fast-growing Web / System Developer and Digital Marketing Consultancy in Jakarta and Yogyakarta. A founder
                                 came to Indonesia in 2012 from Japan and has provided International standard IT services and Cloud products to

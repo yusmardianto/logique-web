@@ -200,24 +200,24 @@
             <section class="container-fluid">
                 <div class="container--max-width" style="padding-top:0">
                     <div class="row">
-                        <div class="col-sm-4 no-gap">
-                            <img class="img-responsive" src="../../img/career/ghitta.jpg" alt="HR Ghitta">
+                        <div class="col-md-4 col-sm-6 no-gap">
+                            <img class="img-responsive" src="/img/career/ghitta.jpg" alt="HR Ghitta">
                             <div class="interview__img-text">
                                 <h4 class="interview__text-title">Message from Ghitta</h4>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque possimus dolorem iste debitis
                                     voluptate corporis non corrupti, facilis vero!</p>
                             </div>
                         </div>
-                        <div class="col-sm-4 no-gap">
-                            <img class="img-responsive" src="../../img/career/taufik.jpg" alt="FE Taufik">
+                        <div class="col-md-4 col-sm-6 no-gap">
+                            <img class="img-responsive" src="/img/career/taufik.jpg" alt="FE Taufik">
                             <div class="interview__img-text">
                                 <h4 class="interview__text-title">Message from Taufik</h4>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque possimus dolorem iste debitis
                                     voluptate corporis non corrupti, facilis vero!</p>
                             </div>
                         </div>
-                        <div class="col-sm-4 no-gap">
-                            <img class="img-responsive" src="../../img/career/muklis.jpg" alt="BE Muklis">
+                        <div class="col-md-offset-0 col-sm-offset-3 col-md-4 col-sm-6 no-gap">
+                            <img class="img-responsive" src="/img/career/muklis.jpg" alt="BE Muklis">
                             <div class="interview__img-text">
                                 <h4 class="interview__text-title">Message from Muklis</h4>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque possimus dolorem iste debitis
@@ -234,52 +234,51 @@
                         <div class="col-sm-offset-1 col-sm-10">
                             <div class="row">
                                 <div class="col-sm-12">
-                                    <!-- div. -->
                                     <img class="img-responsive" src="../../img/career/bg-img/dummy-video.png" alt="" style="min-width:100%">
                                 </div>
                             </div>
                             <div class="row interview-img">
-                                <div class="col-sm-4">
+                                <div class="col-md-4 col-sm-6">
                                     <div class="interview__img-wrapper">
                                         <img src="../../img/career/bg-img/dummy-img-1.png" alt="">
                                     </div>
                                 </div>
-                                <div class="col-sm-4">
+                                <div class="col-md-4 col-sm-6">
                                     <div class="interview__img-wrapper">
                                         <img src="../../img/career/bg-img/dummy-img-2.png" alt="">
                                     </div>
                                 </div>
-                                <div class="col-sm-4">
+                                <div class="col-md-4 col-sm-6">
                                     <div class="interview__img-wrapper">
                                         <img src="../../img/career/bg-img/dummy-img-3.png" alt="">
                                     </div>
                                 </div>
-                                <div class="col-sm-4">
+                                <div class="col-md-4 col-sm-6">
                                     <div class="interview__img-wrapper">
                                         <img src="../../img/career/bg-img/dummy-img-4.png" alt="">
                                     </div>
                                 </div>
-                                <div class="col-sm-4">
+                                <div class="col-md-4 col-sm-6">
                                     <div class="interview__img-wrapper">
                                         <img src="../../img/career/bg-img/dummy-img-5.png" alt="">
                                     </div>
                                 </div>
-                                <div class="col-sm-4">
+                                <div class="col-md-4 col-sm-6">
                                     <div class="interview__img-wrapper">
                                         <img src="../../img/career/bg-img/dummy-img-6.png" alt="">
                                     </div>
                                 </div>
-                                <div class="col-sm-4">
+                                <div class="col-md-4 col-sm-6">
                                     <div class="interview__img-wrapper">
                                         <img src="../../img/career/bg-img/dummy-img-7.png" alt="">
                                     </div>
                                 </div>
-                                <div class="col-sm-4">
+                                <div class="col-md-4 col-sm-6">
                                     <div class="interview__img-wrapper">
                                         <img src="../../img/career/bg-img/dummy-img-8.png" alt="">
                                     </div>
                                 </div>
-                                <div class="col-sm-4">
+                                <div class="col-md-4 col-sm-6">
                                     <div class="interview__img-wrapper">
                                         <img src="../../img/career/bg-img/dummy-img-9.png" alt="">
                                     </div>

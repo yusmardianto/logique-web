@@ -159,7 +159,6 @@
                     </div>
                 </div>
             </div>
-
         </div>
         <!-- END HEADER -->
 
@@ -186,7 +185,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-sm-offset-1 col-sm-5">
+                        <div class="col-sm-offset-1 col-lg-5 col-md-8 col-sm-10">
                             <h1 class="header__title">Project Manager</h1>
                             <div class="career-detail">
                                 <div class="career-detail__item">
@@ -209,86 +208,174 @@
 
             <section class="container-fluid">
                 <div class="container--max-width">
-                    <div class="row div col-sm-offset-1 col-sm-5">
-                        <div class="career-requirement">
-                            <h3 class="section-title">Job Description</h3>
-                            <p>Product Manager in LOGIQUE is working in Product Department with other product developer and Digital Marketing Team. We
-                                have some HR Cloud Tools such as Dokodemo-Kerja. You should manage members and also products development /
-                                improvement.
-                                You are supposed to be good at analyzing and planning. </p> <br>
-                            <ul class="career-list">
-                                <li>Planning all about product development / improvement</li>
-                                <li>Wide responsible fields from analytics until sales and marketing</li>
-                                <li>Manage product development projects, such as cost, schedule and quality control.</li>
-                                <li>Manage Product team members and communicate and report well to the management</li>
-                            </ul>
+                    <div class="row">
+                        <div class="col-sm-offset-1 col-md-5 col-sm-10">
+                            <div class="career-requirement">
+                                <h3 class="section-title">Job Description</h3>
+                                <p>Product Manager in LOGIQUE is working in Product Department with other product developer and Digital Marketing
+                                    Team. We
+                                    have some HR Cloud Tools such as Dokodemo-Kerja. You should manage members and also products development /
+                                    improvement.
+                                    You are supposed to be good at analyzing and planning. </p> <br>
+                                <ul class="career-list">
+                                    <li>Planning all about product development / improvement</li>
+                                    <li>Wide responsible fields from analytics until sales and marketing</li>
+                                    <li>Manage product development projects, such as cost, schedule and quality control.</li>
+                                    <li>Manage Product team members and communicate and report well to the management</li>
+                                </ul>
+                            </div>
+                            <div class="career-requirement">
+                                <h3 class="section-title">Must Skill/Experience</h3>
+                                <ul class="career-list">
+                                    <li>Logical thinking, good communication and reporting.</li>
+                                    <li>IT System Development Knowledge and experience for at least 3 years</li>
+                                    <li>Digital Marketing Knowledge and experience for at least 1 year</li>
+                                    <li>Good at using digital tools</li>
+                                    <li>Business English</li>
+                                    <li>Memiliki kemampuan pemecahan masalah yang baik dan efisien.</li>
+                                    <li>Mampu bekerja dalam tekanan dan deadline sesuai dengan kebutuhan klien.</li>
+                                    <li>Berpengalaman dalam pembuatan WEB/Sistem</li>
+                                </ul>
+                            </div>
+                            <div class="career-requirement">
+                                <h3 class="section-title">Preferable</h3>
+                                <ul class="career-list">
+                                    <li>Project Management</li>
+                                    <li>Bahasa Inggris</li>
+                                </ul>
+                            </div>
                         </div>
-                        <div class="career-requirement">
-                            <h3 class="section-title">Must Skill/Experience</h3>
-                            <ul class="career-list">
-                                <li>Logical thinking, good communication and reporting.</li>
-                                <li>IT System Development Knowledge and experience for at least 3 years</li>
-                                <li>Digital Marketing Knowledge and experience for at least 1 year</li>
-                                <li>Good at using digital tools</li>
-                                <li>Business English</li>
-                                <li>Memiliki kemampuan pemecahan masalah yang baik dan efisien.</li>
-                                <li>Mampu bekerja dalam tekanan dan deadline sesuai dengan kebutuhan klien.</li>
-                                <li>Berpengalaman dalam pembuatan WEB/Sistem</li>
-                            </ul>
-                        </div>
-                        <div class="career-requirement">
-                            <h3 class="section-title">Preferable</h3>
-                            <ul class="career-list">
-                                <li>Project Management</li>
-                                <li>Bahasa Inggris</li>
-                            </ul>
+                        <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
+                            <div class="career-requirement">
+                                <h3 class="section-title">Rewards and worthwhile</h3>
+                                <ul class="career-list">
+                                    <li>Experience in being in charge of doing from product development until growth hack, digital marketing, offline
+                                        marketing and sales activities.</li>
+                                    <li>Have a power / opportunity to decide product strategy and to execute </li>
+                                </ul>
+                            </div>
+                            <div class="career-requirement">
+                                <h3 class="section-title">How a Product Manager in LOGIQUE works usually</h3>
+                                <h4 class="section-subtitle">Product Manager Assistant</h4>
+                                <div class="work-schedule">
+                                    <div class="work-schedule__item">
+                                        <div class="work-schedule__time">9:00 – 9:30</div>
+                                        <div class="work-schedule__text">Check Google Analytics and inquiries about the product</div>
+                                    </div>
+                                    <div class="work-schedule__item">
+                                        <div class="work-schedule__time">9:30 – 10:30</div>
+                                        <div class="work-schedule__text">Check and reply for application of demo usage</div>
+                                    </div>
+                                    <div class="work-schedule__item">
+                                        <div class="work-schedule__time">10:30 – 11:30</div>
+                                        <div class="work-schedule__text">Have an internal confirmation / meeting with developers and digital marketers
+                                            to
+                                            confirm the schedule and progress</div>
+                                    </div>
+                                    <div class="work-schedule__item">
+                                        <div class="work-schedule__time">11:30 – 12:30</div>
+                                        <div class="work-schedule__text">Lunch Break</div>
+                                    </div>
+                                    <div class="work-schedule__item">
+                                        <div class="work-schedule__time">12:30 – 14:00</div>
+                                        <div class="work-schedule__text">Plan and arrange offline marketing and event</div>
+                                    </div>
+                                    <div class="work-schedule__item">
+                                        <div class="work-schedule__time">14:00 – 16:00</div>
+                                        <div class="work-schedule__text">Make some wireframes for new features of a product</div>
+                                    </div>
+                                    <div class="work-schedule__item">
+                                        <div class="work-schedule__time">16:00</div>
+                                        <div class="work-schedule__text">Go home</div>
+                                    </div>
+                                    <div class="work-schedule__item">
+                                        <div class="work-schedule__time">19:00 – 21:00</div>
+                                        <div class="work-schedule__text">Check members’ daily report and give them instructions for Tomorrow</div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-sm-5">
-                        <div class="career-requirement">
-                            <h3 class="section-title">Rewards and worthwhile</h3>
-                            <ul class="career-list">
-                                <li>Experience in being in charge of doing from product development until growth hack, digital marketing, offline
-                                    marketing and sales activities.</li>
-                                <li>Have a power / opportunity to decide product strategy and to execute </li>
-                            </ul>
+                </div>
+            </section>
+
+            <section class="container-fluid bg--salary">
+                <div class="container--max-width">
+                    <div class="row">
+                        <div class="col-sm-offset-1 col-sm-10">
+                            <h3 class="section-title">Job Description</h3>
+                            <div class="row">
+                                <div class="col-md-4 col-sm-12">
+                                    <div class="salary-range">
+                                        <div class="salary-range__head">
+                                            <div class="salary-range__head-top">
+                                                <em class="salary-range__position">Junior</em>
+                                                <span class="salary-range__salary">100 juta IDR / Year</span>
+                                            </div>
+                                            <h5 class="section-title">Product Manager:</h5>
+                                        </div>
+                                        <ul class="salary-range__list">
+                                            <li>Can analyze and suggest what / how we should improve</li>
+                                            <li>Can manage development team and run small budget digital marketing campaigns</li>
+                                            <li>Good at reporting</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-12">
+                                    <div class="salary-range">
+                                        <div class="salary-range__head">
+                                            <div class="salary-range__head-top">
+                                                <em class="salary-range__position">Middle</em>
+                                                <span class="salary-range__salary">100 - 200 juta IDR / Year</span>
+                                            </div>
+                                            <h5 class="section-title">Product Manager:</h5>
+                                        </div>
+                                        <ul class="salary-range__list">
+                                            <li>Can analyze well and decide what / how we should improve</li>
+                                            <li>Can manage development team and solve the issues well</li>
+                                            <li>Run digital marketing and offline campaigns</li>
+                                            <li>Good at reporting and planning</li>
+                                            <li>Good at communicating with user clients and solving problems</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-12">
+                                    <div class="salary-range">
+                                        <div class="salary-range__head">
+                                            <div class="salary-range__head-top">
+                                                <em class="salary-range__position">Senior</em>
+                                                <span class="salary-range__salary">200 - 400 juta IDR / Year</span>
+                                            </div>
+                                            <h5 class="section-title">Product Manager:</h5>
+                                        </div>
+                                        <ul class="salary-range__list">
+                                            <li>Can analyze well and decide what / how we should improve</li>
+                                            <li>Can manage team members well and have a good communication with other teams</li>
+                                            <li>Excellent in reporting to the management and make good strategy</li>
+                                            <li>Plan good sales and marketing plan and can do sales activities by themselves</li>
+                                            <li>Very good at communicating with user clients</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="career-requirement">
-                            <h3 class="section-title">How a Product Manager in LOGIQUE works usually</h3>
-                            <h4 class="section-subtitle">Product Manager Assistant</h4>
-                            <div class="work-schedule">
-                                <div class="work-schedule__item">
-                                    <div class="work-schedule__time">9:00 – 9:30</div>
-                                    <div class="work-schedule__text">Check Google Analytics and inquiries about the product</div>
-                                </div>
-                                <div class="work-schedule__item">
-                                    <div class="work-schedule__time">9:30 – 10:30</div>
-                                    <div class="work-schedule__text">Check and reply for application of demo usage</div>
-                                </div>
-                                <div class="work-schedule__item">
-                                    <div class="work-schedule__time">10:30 – 11:30</div>
-                                    <div class="work-schedule__text">Have an internal confirmation / meeting with developers and digital marketers to
-                                        confirm the schedule and progress</div>
-                                </div>
-                                <div class="work-schedule__item">
-                                    <div class="work-schedule__time">11:30 – 12:30</div>
-                                    <div class="work-schedule__text">Check and reply for application of demo usage</div>
-                                </div>
-                                <div class="work-schedule__item">
-                                    <div class="work-schedule__time">12:30 – 14:00</div>
-                                    <div class="work-schedule__text">Check and reply for application of demo usage</div>
-                                </div>
-                                <div class="work-schedule__item">
-                                    <div class="work-schedule__time">14:00 – 16:00</div>
-                                    <div class="work-schedule__text">Check and reply for application of demo usage</div>
-                                </div>
-                                <div class="work-schedule__item">
-                                    <div class="work-schedule__time">16:00</div>
-                                    <div class="work-schedule__text">Check and reply for application of demo usage</div>
-                                </div>
-                                <div class="work-schedule__item">
-                                    <div class="work-schedule__time">19:00 – 21:00</div>
-                                    <div class="work-schedule__text">Check and reply for application of demo usage</div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="container-fluid bg--career-apply" style="margin-top:2.5em;">
+                <div class="container--max-width">
+                    <div class="row">
+                        <div class="col-sm-offset-2 col-sm-8 apply-now">
+                            <div class="apply-now__item">
+                                <h5 class="apply-now__text">Talented and have a motivation to grow and be promoted very fast?</h5>
+                            </div>
+                            <div class="apply-now__item text-center">
+                                <div class="btn-banner-pattern__wrapper">
+                                    <a class="btn-banner-pattern" href="#">
+                                        <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png" alt="Melamar Lowongan Sekarang">
+                                        <span>Melamar Lowongan Sekarang</span>
+                                    </a>
                                 </div>
                             </div>
                         </div>

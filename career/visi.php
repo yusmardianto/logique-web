@@ -187,7 +187,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-sm-offset-1 col-sm-5">
+                        <div class="col-sm-offset-1 col-lg-5 col-md-8 col-sm-10">
                             <h1 class="header__title">Deskripsi Page Ini</h1>
                             <p>Every avid independent filmmaker has dreamed about making that special interest documentary, or short film to show off
                                 their creative prowess. Many have great ideas and want to “wow” the film-festival scene, or video renters with their
