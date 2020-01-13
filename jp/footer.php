@@ -80,7 +80,7 @@ footer {
                                             <li>
                                                 <a href="/jp/services/recruitment-web-dev.php" target="_blank"> 採用サイト制作</a>
                                             </li>
-                                            <li><a href="/layanan/pembuatan-web-klinik-gigi.php" target="_blank">
+                                            <li><a href="/layanan/pembuatan-web-klinik-gigi-2.php" target="_blank">
                                                     歯科クリニック向けWeb制作</a></li>
                                         </ul>
                                     </li>

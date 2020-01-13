@@ -17,7 +17,8 @@ section .page-title-container h1.page-title @-moz-viewport {
 /**
 CSS Reset
 */
-@import url(https://fonts.googleapis.com/css?family=Raleway);
+/* @import url(https://fonts.googleapis.com/css?family=Raleway); */
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap');
 
 @font-face {
   font-family: "avenirblack";
@@ -273,6 +274,7 @@ header.head-banner .drg {
   height: 100%;
   position: fixed;
   top: 0;
+  left: 0;
   z-index: 1000;
   perspective: 1000px;
   padding: 0;
@@ -461,7 +463,7 @@ header.head-banner .drg {
 
 .wrapper .navbar-toggle.collapsed {
   background-color: #ffca13 !important;
-  position: relative !important;
+  position: fixed !important;
   right: 0 !important;
   margin-top: 18px;
 }
@@ -522,10 +524,10 @@ header.head-banner .drg {
   width: 100%;
   margin-top: -1px;
 }
-section,
+/* section,
 footer {
   margin-left: 95px;
-}
+} */
 .card section {
   margin-left: 0;
 }
@@ -573,7 +575,7 @@ footer {
 /*Footer*/
 footer {
   z-index: 5;
-  margin-left: 95px;
+  /* margin-left: 95px; */
   padding: 30px 0 10px;
   background-color: #212425;
   position: relative;
@@ -710,11 +712,15 @@ ul.medsos-new li a {
 }
 
 .banner-content {
-  padding-top: 4em;
+  /* padding-top: 4em; */
   background: url(../img/img-new-dentist/bg-top.png) no-repeat;
   background-size: cover;
-  height: 450px;
+  /* height: 450px; */
+  height: 590px;
   position: relative;
+}
+.banner-content .container__:last-child {
+  padding-top: 4em;
 }
 
 .text-box {
@@ -850,9 +856,9 @@ ul.medsos-new li a {
   background: #23bb5b;
 }
 
-.content-area {
+/* .content-area {
   margin-left: 95px;
-}
+} */
 
 .ready-to-use h3 {
   padding: 2em 0;
@@ -986,6 +992,8 @@ ul.medsos-new li a {
 
 .template-slide {
   margin: 3em 0;
+  max-width: 1600px;
+  margin: auto;
 }
 
 .slick-prev {
@@ -1445,7 +1453,7 @@ textarea.form-item {
 /* Extra Small Devices, Phones */
 @media (max-width: 480px) {
   .banner-content{
-    height: 300px;
+    height: 375px;
   }
 
   .text-box .large-text {

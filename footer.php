@@ -124,7 +124,7 @@ footer {
                                         <ul>
                                             <li><a href="/layanan/pembuatan-web-karir.php" target="_blank"> Pembuatan Website
                                                     Career</a> </li>
-                                            <li><a href="/layanan/pembuatan-web-klinik-gigi-2.php" target="_blank"> Website Klinik
+                                            <li><a href="/layanan/pembuatan-web-klinik-gigi.php" target="_blank"> Website Klinik
                                                     Gigi </a></li>
                                         </ul>
                                     </li>

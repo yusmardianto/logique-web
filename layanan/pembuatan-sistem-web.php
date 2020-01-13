@@ -185,29 +185,29 @@
          <!-- END HEADER -->
      </div>
      <header class="content-wrapper__ header">
-	 <div class="text-left --top">
-                 <div class="container" style="padding:0">
-                     <div class="row">
-                         <div class="col-sm-12">
-                             <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                 itemtype="http://schema.org/BreadcrumbList">
-                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                         href="/index.php"><span itemprop="name">Beranda</span></a>
-                                     <meta itemprop="position" content="1" />
-                                 </li>
-                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                         href="/layanan.php"><span itemprop="name">&nbsp;Layanan</span></a>
-                                     <meta itemprop="position" content="2" />
-                                 </li>
-                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                         itemprop="item"><span itemprop="name">&nbsp;Web System</span></a>
-                                     <meta itemprop="position" content="3" />
-                                 </li>
-                             </ol>
-                         </div>
-                     </div>
-                 </div>
-             </div>
+	    <div class="text-left --top">
+            <div class="container" style="padding:0">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <ol class="breadcrumb breadcrumb--update-design" itemscope
+                            itemtype="http://schema.org/BreadcrumbList">
+                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                    href="/index.php"><span itemprop="name">Beranda</span></a>
+                                <meta itemprop="position" content="1" />
+                            </li>
+                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                    href="/layanan.php"><span itemprop="name">&nbsp;Layanan</span></a>
+                                <meta itemprop="position" content="2" />
+                            </li>
+                            <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                    itemprop="item"><span itemprop="name">&nbsp;Web System</span></a>
+                                <meta itemprop="position" content="3" />
+                            </li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
 
          <div class="container" style="position:relative">
              <!-- <div class="row"> -->
