@@ -255,8 +255,8 @@
               </div>
               <div class="benefit">
                 <div class="benefit__item">
-                  <img class="benefit__img" src="../../img/career/icon/casual.png" alt="Remote Working Day">
-                  <span class="benefit__text">Remote Working Day</span>
+                  <img class="benefit__img" src="../../img/career/icon/casual.png" alt="Casual Dresscode">
+                  <span class="benefit__text">Casual Dresscode</span>
                 </div>
                 <div class="benefit__item">
                   <img class="benefit__img" src="../../img/career/icon/logical.png" alt="Logical Thinking Culture">
