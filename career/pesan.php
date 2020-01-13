@@ -109,8 +109,8 @@
           <div class="row">
             <div class="col-sm-offset-6 col-sm-5">
               <h1 class="header__title --black">Pesan Untuk Kandidat</h1>
-              <h2 class="header__sub-title --black">Founder & CEO LOGIQUE Digital Indonesia</h2>
               <p>Saya berharap dapat berbicara banyak hal dengan Anda.</p>
+              <span class="header__sub-title role--title --black">Founder & CEO LOGIQUE Digital Indonesia</span>
             </div>
           </div>
         </div>
@@ -126,6 +126,11 @@
                 <p>
                   Saya berharap Anda adalah kandidat yang kami butuhkan.
                 </p>
+                <span class="interview__text-title role--title">
+                  Staff Senior HR & GA
+                  <br>
+                  LOGIQUE Digital Indonesia
+                </span>
               </div>
             </div>
             <div class="col-md-4 col-sm-6 no-gap">
@@ -135,6 +140,11 @@
                 <p>
                   Saya menunggu Anda untuk tumbuh dan berkembang bersama kami.
                 </p>
+                <span class="interview__text-title role--title">
+                  Staff Senior Frontend Developer
+                  <br>
+                  LOGIQUE Digital Indonesia
+                </span>
               </div>
             </div>
             <div class="col-md-offset-0 col-sm-offset-3 col-md-4 col-sm-6 no-gap">
@@ -144,6 +154,11 @@
                 <p>
                   Saya tidak sabar untuk bekerja sama dengan Anda di sini.
                 </p>
+                <span class="interview__text-title role--title">
+                  Staff Senior Backend Developer
+                  <br>
+                  LOGIQUE Digital Indonesia
+                </span>
               </div>
             </div>
           </div>
@@ -212,7 +227,6 @@
                   <a href="#" class="form-control main-btn --yellow">Lihat Aktivitas Magang di LOGIQUE</a>
                 </div>
               </div>
-
             </div>
           </div>
         </div>

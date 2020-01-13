@@ -104,7 +104,7 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-offset-1 col-sm-5">
+            <div class="col-sm-offset-1 col-sm-6">
               <h1 class="header__title">Aktivitas Kerja LOGIQUE</h1>
               <p class="mb--20">
                 <strong>LOGIQUE</strong> merupakan perusahaan pembuatan dan pengembangan system/ web serta agensi

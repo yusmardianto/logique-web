@@ -439,7 +439,7 @@ button:focus {
   }
 }
 
-@media  (min-width: 1280px) {
+@media (min-width: 1280px) {
   .link-header-lamar-lowongan {
     position: absolute;
     top: -10px;
@@ -952,6 +952,11 @@ ul.medsos-new li a {
   font-weight: 800;
 }
 
+span.role--title {
+  font-weight: 600;
+  font-size: 16px;
+}
+
 @media (max-width: 767px) {
   .header__title {
     font-size: 45px;
@@ -1310,8 +1315,8 @@ ul.medsos-new li a {
 }
 @media only screen and (min-width: 768px) and (max-width: 1023.98px) {
   .benefit {
-   flex-wrap: wrap;
-   margin-bottom: 0;
+    flex-wrap: wrap;
+    margin-bottom: 0;
   }
   .benefit__item {
     width: 50%;
@@ -1321,8 +1326,8 @@ ul.medsos-new li a {
 
 @media only screen and (min-width: 370px) and (max-width: 767.98px) {
   .benefit {
-   flex-wrap: wrap;
-   margin-bottom: 0;
+    flex-wrap: wrap;
+    margin-bottom: 0;
   }
   .benefit__item {
     width: 100%;
@@ -1339,8 +1344,8 @@ ul.medsos-new li a {
 
 @media only screen and (min-width: 1px) and (max-width: 379.98px) {
   .benefit {
-   flex-wrap: wrap;
-   margin-bottom: 0;
+    flex-wrap: wrap;
+    margin-bottom: 0;
   }
   .benefit__item {
     width: 100%;
@@ -1391,9 +1396,29 @@ ul.medsos-new li a {
 /* Interview */
 .interview__img-text {
   position: absolute;
-  bottom: 25px;
-  left: 20px;
+  bottom: 0;
+  left: 0;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 20px;
   color: #fff;
+  background: rgb(244, 242, 242);
+  background: -moz-linear-gradient(
+    180deg,
+    rgba(244, 242, 242, 0) 0%,
+    rgba(0, 0, 0, 0.700717787114846) 40%
+  );
+  background: -webkit-linear-gradient(
+    180deg,
+    rgba(244, 242, 242, 0) 0%,
+    rgba(0, 0, 0, 0.700717787114846) 40%
+  );
+  background: linear-gradient(
+    180deg,
+    rgba(244, 242, 242, 0) 0%,
+    rgba(0, 0, 0, 0.700717787114846) 40%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4f2f2",endColorstr="#000000",GradientType=1);
 }
 .interview__text-title {
   font-size: 28px;
