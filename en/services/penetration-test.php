@@ -610,13 +610,11 @@
 
         <section>
             <br />
-            <div class="mengapa-harus"><b></b>Logique Works 2019</div>
+            <div class="mengapa-harus"><a href="/en/" target="_blank"><b>LOGIQUE</b></a> Works 2019</div>
             <div class="container__">
                 <div class="row">
 
                     <div class="col-sm-12">
-
-
                         <div class="table-responsive">
                             <table class="work-logique__table table table-striped ">
                                 <thead>
