@@ -120,7 +120,7 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
                 <div class="col-xs-12">
-                  <h2 class="heading-black mb--40">Urgently Needed Positions</h2>
+                  <h2 class="heading-black mb--40">Lowongan yang dibutuhkan segera</h2>
                 </div>
                 <div class="col-md-4 card--layout">
                   <a href="/career/lowongan/it-generalist/project-manager.php">
@@ -1004,8 +1004,7 @@
                   <div class="max-800 text-center">
                     <p>
                       <strong>
-                        If you are career center staff in university and would like to introduce someone to LOGIQUE,
-                        stronglease feel free to contact our HR staff.
+                      Jika Anda seorang staff yang bekerja di pusat karir universitas, dan ingin memperkenalkan kandidat yang berkompeten pada kami. Segera hubungi staff HR kami sekarang juga!
                       </strong>
                     </p>
                     <a class="btn-banner-pattern mt--50" href="/hubungi-kami.php">

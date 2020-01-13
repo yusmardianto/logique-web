@@ -224,7 +224,7 @@
               </div>
               <div class="row">
                 <div class="col-sm-12">
-                  <a href="#" class="form-control main-btn --yellow">Lihat Aktivitas Magang di LOGIQUE</a>
+                  <a href="#" class="form-control main-btn --yellow bg--btn-intern">Lihat Aktivitas Magang di LOGIQUE</a>
                 </div>
               </div>
             </div>

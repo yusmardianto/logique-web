@@ -92,7 +92,7 @@ ul.news-list li a:hover {
         <div class="row">
           <div class="col-sm-offset-1 col-sm-10">
             <h2 class="section-title mb--40">
-              News / Recruitment Topics
+              Kabar LOGIQUE
             </h2>
           </div>
         </div>
@@ -104,7 +104,7 @@ ul.news-list li a:hover {
                   <span class="news-list__news-date">
                     21st Dec 2019
                   </span>
-                  <p>We're looking for QA Lead. Get this opportunity now!</p>
+                  <p>Kami sedang mencari QA Lead. Segera daftarkan diri Anda sekarang.</p>
                 </div>
                 <a href="#" target="_blank" rel="noreferrer">Read more ></a>
               </div>
@@ -115,10 +115,10 @@ ul.news-list li a:hover {
               <div class="news-list__body">
                 <div class="news-list__content">
                   <span class="news-list__news-date">
-                    18st Dec 2019
+                    18th Dec 2019
                   </span>
                   <p>
-                    We will join the career event in President University on 2nd March
+                  Kami akan bergabung dengan event pencari kerja di Universitas presiden pada 2 Maret.
                   </p>
                 </div>
                 <a href="#" target="_blank" rel="noreferrer">Read more ></a>
@@ -133,7 +133,7 @@ ul.news-list li a:hover {
                     13th Dec 2019
                   </span>
                   <p>
-                    We opened the urgent hiring of Senior PHP programmer position.
+                  Kami sedang membutuhkan dengan cepat lowongan kerja sebagai php programmer senior.
                   </p>
                 </div>
                 <a href="#" target="_blank" rel="noreferrer">Read more ></a>

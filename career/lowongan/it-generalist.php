@@ -112,9 +112,7 @@
             <div class="col-sm-offset-1 col-sm-5">
               <h1 class="header__title">IT Generalist</h1>
               <p>
-                We always welcome applications from talented and potential people. The posts below are general our
-                positions. If you don't find a suitable one for you, don't worry. The post will be newly made and
-                prepared according to your capability and want.
+              Kami dengan senang hati menerima para pelamar yang berbakat dan berpotensi untuk berkembang di LOGIQUE. Di bawah ini merupakan beberapa posisi umum yang sedang dibuka oleh kami. Jika lowongan di bawah ini tidak sesuai dengan kriteria Anda. Jangan khawatir, kami akan membuat lowongan terbaru sesuai dengan keinginan dan skill Anda.
               </p>
             </div>
           </div>

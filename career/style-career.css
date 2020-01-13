@@ -784,6 +784,10 @@ ul.medsos-new li a {
 .bg--lowongan {
   background: url("../img/career/bg-img/bg-lowongan.png") center/cover no-repeat;
 }
+.bg--btn-intern {
+  background: url("../img/career/bg-img/bg-btn-intern.png") center/cover no-repeat;
+}
+
 
 .bg--op-programmer {
   background: url("../img/career/bg-img/bg-op-programmer.png") center/cover

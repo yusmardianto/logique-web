@@ -7,7 +7,7 @@
     <div class="container--max-width">
         <div class="row">
             <div class="col-sm-offset-1 col-sm-10 no-gap">
-                <h2 class="section-title">Other Position</h2>
+                <h2 class="section-title">Lowongan Lain</h2>
                 <div class="row other-position">
                     <?php if ($cat_vacancy !== 'it-generalist'): ?>
                     <div class="col-md-6 col-lg-4">
