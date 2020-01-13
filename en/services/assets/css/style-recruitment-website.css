@@ -8,7 +8,8 @@
 /**
 CSS Reset
 */
-@import url(https://fonts.googleapis.com/css?family=Raleway);
+/* @import url(https://fonts.googleapis.com/css?family=Raleway); */
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap');
 html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i,dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed,
@@ -22,12 +23,12 @@ body {
     font-size: 15px;
     font-family: 'Raleway', 'sans-serif';
 }
-h1, h2, h3, h4, h5, h6 {
+/* h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', sans-serif;
 }
 .custom-text{
 	font-family: 'Architects Daughter', cursive;
-}
+} */
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section 
 {
@@ -275,7 +276,7 @@ header.head-banner{
 }
 .simul-text span{
 	font-size: 22px;
-	font-family: 'Architects Daughter', cursive;
+	/* font-family: 'Architects Daughter', cursive; */
 }
 .simul-text .arrow-up{
 	position: absolute;

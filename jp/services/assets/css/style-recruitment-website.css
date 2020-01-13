@@ -12,6 +12,8 @@ CSS Reset
 @-ms-viewport {width: device-width}
 @-o-viewport {width: device-width}
 @viewport {width: device-width}
+
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700&display=swap');
 * {
     font-family: 'M PLUS 1p',Lato, sans-serif; 
 }
