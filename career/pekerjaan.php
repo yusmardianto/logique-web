@@ -97,7 +97,7 @@
                   <meta itemprop="position" content="2" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Kerja Logique</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Aktivitas Kerja LOGIQUE</span></a>
                   <meta itemprop="position" content="3" />
                 </li>
               </ol>
@@ -105,10 +105,19 @@
           </div>
           <div class="row">
             <div class="col-sm-offset-1 col-sm-5">
-              <h1 class="header__title">Pekerjaan LOGIQUE</h1>
-              <p>LOGIQUE is a fast-growing Web / System Developer and Digital Marketing Consultancy in Jakarta and
-                Yogyakarta. A founder came to Indonesia in 2012 from Japan and has provided International standard IT
-                services and Cloud products to Indonesian Clients. Here's an introduction of LOGIQUE's work.
+              <h1 class="header__title">Aktivitas Kerja LOGIQUE</h1>
+              <p class="mb--20">
+                <strong>LOGIQUE</strong> merupakan perusahaan pembuatan dan pengembangan system/ web serta agensi
+                digital marketing yang sedang berkembang dengan cepat. Kami memiliki dua kantor yang berlokasi di
+                Jakarta dan Yogyakarta.
+              </p>
+              <p class="mb--20">
+                Pada tahun 2012, pemilik kami yang berasal dari Jepang datang ke Indonesia dan menawarkan layanan IT
+                serta
+                penyimpanan data berbasis cloud dengan standar Internasional kepada klien kami di Indonesia.
+              </p>
+              <p>
+                Itulah sedikit pengantar untuk mengetahui bagaimana aktivitas keseharian kerja kami.
               </p>
             </div>
           </div>
@@ -234,15 +243,15 @@
             <div class="col-xs-12 no-gap">
               <a href="/portofolio.php">
                 <div class="check-portfolio --vertical-center text-center">
-                  <h2>Check and see LOGIQUE's Portfolio</h2>
+                  <h2>Lihat Aktivitas dan Portofolio Kami</h2>
                 </div>
               </a>
             </div>
           </div>
         </div>
       </section>
-      <?php include './layout-career/link-section.php'; ?>
       <?php include './layout-career/other-position.php'; ?>
+      <?php include './layout-career/link-section.php'; ?>
       <?php include './layout-career/contact-lgq.php'; ?>
     </div>
 
