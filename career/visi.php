@@ -193,7 +193,7 @@
             <div class="col-sm-offset-1 col-sm-10">
               <h2 class="section-title">Keuntungan Bekerja di LOGIQUE</h2>
               <div class="row">
-                <div class="col-sm-4">
+                <div class="col-md-4 col-sm-6">
                   <div class="benefit-card">
                     <div class="benefit-card__img-wrapper">
                       <img class="benefit-card__img" src="../../img/career/bg-img/potential.png" alt="Potential">
@@ -208,7 +208,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-md-4 col-sm-6">
                   <div class="benefit-card">
                     <div class="benefit-card__img-wrapper">
                       <img class="benefit-card__img" src="../../img/career/bg-img/career.png" alt="Career">
@@ -222,7 +222,8 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-sm-4">
+                <div class="clearfix hidden visible-sm"></div>
+                <div class="col-md-4 col-sm-6">
                   <div class="benefit-card">
                     <div class="benefit-card__img-wrapper">
                       <img class="benefit-card__img" src="../../img/career/bg-img/flexible.png" alt="Flexible">
@@ -252,9 +253,13 @@
                   <img class="benefit__img" src="../../img/career/icon/remote.png" alt="Remote Working Day">
                   <span class="benefit__text">Remote Working Day</span>
                 </div>
+                <div class="benefit__item hidden-lg hidden-xs visible-sm">
+                  <img class="benefit__img" src="../../img/career/icon/casual.png" alt="Casual Dresscode">
+                  <span class="benefit__text">Casual Dresscode</span>
+                </div>
               </div>
               <div class="benefit">
-                <div class="benefit__item">
+                <div class="benefit__item visible hidden-sm">
                   <img class="benefit__img" src="../../img/career/icon/casual.png" alt="Casual Dresscode">
                   <span class="benefit__text">Casual Dresscode</span>
                 </div>

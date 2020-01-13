@@ -105,11 +105,12 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-offset-1 col-sm-5">
+            <div class="col-sm-offset-1 col-sm-6">
               <h1 class="header__title">Pengembangan Karir</h1>
-              <p>We provide a career path to become a chief position (chief programmer and chief designer, etc.,) to
-                those who want to be a specialist. And also management / leading positions are prepared for those who
-                want to become a generalist.
+              <p>
+                Kami memberikan kesempatan Anda untuk mengembangkan karir Anda secara fleksibel sesuai dengan keinginan,
+                kerja keras dan bakat yang Anda miliki. Di LOGIQUE Anda pun bisa langsung menjadi specialist atau
+                generalist sesuai kemampuan Anda.
               </p>
             </div>
           </div>
@@ -121,14 +122,16 @@
             <div class="container-fluid col-sm-offset-1 col-sm-10">
               <div class="row">
                 <div class="col-md-4">
-                  <h2 class="section-title" style="line-height: 30px;">Career Path <span
-                      style="font-weight: 500;">(Example)</span></h2>
+                  <h2 class="section-title" style="line-height: 30px;">
+                    Simulasi Perkembangan Karir
+                  </h2>
                 </div>
                 <div class="col-md-8">
-                  <p>At <strong>LOGIQUE</strong>, if you are motivated, talented and making an effort, you are able to
-                    grow and be
-                    promoted at a very fast speed and go up to a higher position. We can let you shift to different path
-                    flexibly according to your life plan.</p>
+                  <p>
+                    Di <strong>LOGIQUE</strong>, jika Anda mempunyai motivasi yang tinggi, berbakat, berusaha keras
+                    untuk terus berkembang, maka Anda akan dengan sangat cepat mendapatkan promosi ke posisi yang lebih
+                    tinggi. Kami juga dapat mengubah posisi Anda secara fleksibel sesuai dengan keinginan Anda.
+                  </p>
                 </div>
               </div>
               <div class="row">
@@ -143,11 +146,11 @@
                     <span class="role__title">
                       <strong>Junior FE Developer</strong>
                       <br>
-                      for the first 6 months
+                      Untuk 6 bulan pertama
                     </span>
                     <p>
-                      Get the basic Programing / IT knowledge and skill. You can learn many things from your super
-                      visors and colleagues.
+                      Pada tahap ini, Anda akan mendapatkan pengetahuan dan keterampilan programming / IT dasar. Selama
+                      jangka waktu tersebut, Anda dapat belajar banyak melalui supervisor dan rekan kerja Anda.
                     </p>
                   </div>
                 </div>
@@ -162,13 +165,13 @@
                     <span class="role__title">
                       <strong>Middle FE Developer</strong>
                       <br>
-                      for the next 1 year
+                      Untuk 1 tahun selanjutnya
                     </span>
                     <p>
-                      Experience in being in charge of important part of development and communicate with clients
-                      directly. Getting more Interested in project management of system dev project.
+                      Pada tahap ini, Anda akan menjadi penanggung jawab penting dari sebuah proyek. Di sini Anda akan
+                      bertemu dengan klien secara langsung dan membuat mereka tertarik dengan berbagai proyek
+                      pengembangan developer lainnya.
                     </p>
-
                   </div>
                 </div>
                 <div class="col-md-4">
@@ -180,11 +183,11 @@
                     <span class="role__title">
                       <strong>Junior Project Manager</strong>
                       <br>
-                      at 18th Month
+                      Setelah 18 bulan
                     </span>
                     <p>
-                      Shifting his career to project manager. Now he is managing some small maintenance projects and he
-                      learns many things from other project managers and clients.
+                      Setelah mengubah karir Anda menjadi proyek manager. Di posisi ini, Anda akan mengelola beberapa
+                      proyek maintenance berskala kecil dan Anda dapat berbagi ilmu dengan para proyek manager lainnya.
                     </p>
                   </div>
                 </div>
@@ -204,9 +207,9 @@
                       <img src="/img/career/icon/fresh-graduate.png" alt="Fresh Graduate">
                     </picture>
                     <p>
-                      It is not rare in <strong>LOGIQUE</strong> to have a fresh-graduate staff become an assistant
-                      manager and whose
-                      salary doubled six months after they join.
+                      Tidak jarang, mahasiswa yang baru saja lulus kuliah dan melamar di <strong>LOGIQUE</strong> dalam
+                      jangka waktu enam bulan berhasil menempati posisi sebagai asisten manajer dan mendapatkan gaji dua
+                      kali lipat lebih banyak dibandingkan karyawan lainnya.
                     </p>
                   </div>
                 </div>
@@ -216,8 +219,8 @@
                       <img src="/img/career/icon/growing.png" alt="chance and opportunities">
                     </picture>
                     <p>
-                      We give more chance and opportunities to highly motivated staffs, so they can grow much faster
-                      than other companies
+                      <strong>LOGIQUE</strong> menawarkan peluang karir yang lebih banyak bagi para stafnya yang
+                      memiliki motivasi tinggi dan ingin mengembangkan karirnya sesuai dengan kemampuan yang dimiliki.
                     </p>
                   </div>
                 </div>
@@ -227,9 +230,9 @@
                       <img src="/img/career/icon/path.png" alt="Career Path">
                     </picture>
                     <p>
-                      We are ok if you prefer to grow slowly in your pace. You can decide what the best career path
-                      and
-                      how fast you achieve your goal.
+                      Meski begitu, kami juga tidak akan menuntut jika staf yang kami miliki memilih untuk tetap
+                      bertahan di posisinya saat ini. Karena menurut kami, staff kami sendirilah yang memutuskan karir
+                      seperti apa yang mereka inginkan.
                     </p>
                   </div>
                 </div>
