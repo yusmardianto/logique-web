@@ -99,7 +99,7 @@
                   <meta itemprop="position" content="2" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Visi dan Budaya</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Pedoman HR</span></a>
                   <meta itemprop="position" content="3" />
                 </li>
               </ol>
@@ -107,12 +107,11 @@
           </div>
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
-              <h1 class="header__title">Working Environment and HR Rule</h1>
-              <p>LOGIQUE is a fast-growing Web / System Developer and Digital Marketing Consultancy in Jakarta and
-                Yogyakarta. A founder
-                came to Indonesia in 2012 from Japan and has provided International standard IT services and Cloud
-                products to
-                Indonesian Clients. Here's an introduction of LOGIQUE's work.</p>
+              <h1 class="header__title">Lingkungan Kerja dan Pedoman HR</h1>
+              <p>
+                Di LOGIQUE, pedoman HR yang dibuat bertujuan untuk membuat lingkungan kerja bagi para staff kami menjadi
+                lebih fleksibel dan nyaman.
+              </p>
             </div>
           </div>
         </div>
@@ -122,7 +121,7 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <h2 class="header__title --black">HR Rule</h2>
+              <h2 class="header__title --black">Pedoman HR</h2>
               <div class="hr-rule">
                 <div class="hr-rule__header" data-toggle="collapse" data-target="#wHour">
                   <h4 class="hr-rule__title">Jam Kerja</h4>

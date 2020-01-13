@@ -100,7 +100,7 @@
                   <meta itemprop="position" content="2" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Visi dan Budaya</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Pesan Untuk Kandidat</span></a>
                   <meta itemprop="position" content="3" />
                 </li>
               </ol>
@@ -108,13 +108,9 @@
           </div>
           <div class="row">
             <div class="col-sm-offset-6 col-sm-5">
-              <h1 class="header__title --black">Message from Yoshi-San</h1>
-              <h2 class="header__sub-title --black">Message from Yoshitsugu, Founder & CEO.</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, officia voluptate. Reprehenderit,
-                eligendi vitae sit
-                quae quia earum deleniti nostrum cum tempore dolores sed saepe vero quis quisquam explicabo
-                perspiciatis, repudiandae
-                nemo optio delectus animi.</p>
+              <h1 class="header__title --black">Pesan Untuk Kandidat</h1>
+              <h2 class="header__sub-title --black">Founder & CEO LOGIQUE Digital Indonesia</h2>
+              <p>Saya berharap dapat berbicara banyak hal dengan Anda.</p>
             </div>
           </div>
         </div>
@@ -126,28 +122,28 @@
             <div class="col-md-4 col-sm-6 no-gap">
               <img class="img-responsive" src="/img/career/ghitta.jpg" alt="HR Ghitta">
               <div class="interview__img-text">
-                <h4 class="interview__text-title">Message from Ghitta</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque possimus dolorem iste
-                  debitis
-                  voluptate corporis non corrupti, facilis vero!</p>
+                <h4 class="interview__text-title">Pesan dari Ghitta</h4>
+                <p>
+                  Saya berharap Anda adalah kandidat yang kami butuhkan.
+                </p>
               </div>
             </div>
             <div class="col-md-4 col-sm-6 no-gap">
               <img class="img-responsive" src="/img/career/taufik.jpg" alt="FE Taufik">
               <div class="interview__img-text">
-                <h4 class="interview__text-title">Message from Taufik</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque possimus dolorem iste
-                  debitis
-                  voluptate corporis non corrupti, facilis vero!</p>
+                <h4 class="interview__text-title">Pesan dari Taufik</h4>
+                <p>
+                  Saya menunggu Anda untuk tumbuh dan berkembang bersama kami.
+                </p>
               </div>
             </div>
             <div class="col-md-offset-0 col-sm-offset-3 col-md-4 col-sm-6 no-gap">
               <img class="img-responsive" src="/img/career/muklis.jpg" alt="BE Muklis">
               <div class="interview__img-text">
-                <h4 class="interview__text-title">Message from Muklis</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque possimus dolorem iste
-                  debitis
-                  voluptate corporis non corrupti, facilis vero!</p>
+                <h4 class="interview__text-title">Pesan dari Muklis</h4>
+                <p>
+                  Saya tidak sabar untuk bekerja sama dengan Anda di sini.
+                </p>
               </div>
             </div>
           </div>
@@ -213,7 +209,7 @@
               </div>
               <div class="row">
                 <div class="col-sm-12">
-                  <a href="#" class="form-control main-btn --yellow">Lihat Seharian Magang di Logique</a>
+                  <a href="#" class="form-control main-btn --yellow">Lihat Aktivitas Magang di LOGIQUE</a>
                 </div>
               </div>
 

@@ -10,7 +10,7 @@
                   Belajar dan berkembang bersama dengan orang-orang terbaik yang kami miliki.
                 </p>
               </div>
-              <a href="/career/interview.php" class="main-btn --link-box">Pesan Untuk Kandidat</a>
+              <a href="/career/pesan.php" class="main-btn --link-box">Pesan Untuk Kandidat</a>
             </div>
           </div>
           <div class="col-md-3 col-sm-6">
@@ -20,7 +20,7 @@
                   Kenali visi dan budaya kerja kami di sini.
                 </p>
               </div>
-              <a href="/career/visi.php" class="main-btn --link-box">Visi dan Budaya Kerja</a>
+              <a href="/career/visi-budaya.php" class="main-btn --link-box">Visi dan Budaya Kerja</a>
             </div>
           </div>
           <div class="col-md-3 col-sm-6">
@@ -30,7 +30,7 @@
                   Temukan informasi terkait dengan pedoman HR di sini.
                 </p>
               </div>
-              <a href="/career/pekerjaan.php" class="main-btn --link-box">Pedoman HR</a>
+              <a href="/career/pedoman-hr.php" class="main-btn --link-box">Pedoman HR</a>
             </div>
           </div>
         </div>
@@ -52,7 +52,7 @@
                   Dapatkan seluruh informasi mengenai aktivitas kerja yang kami lakukan setiap harinya di sini.
                 </p>
               </div>
-              <a href="/career/working-env.php" class="main-btn --link-box">
+              <a href="/career/aktivitas-kerja.php" class="main-btn --link-box">
                 Aktivitas Kami
               </a>
             </div>
