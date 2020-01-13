@@ -824,6 +824,30 @@
             </div>
         </section>
 
+        <section class="harga">
+            <div class="container__">
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8">
+                        <div class="title">Lalu berapakah harga layanan yang ditawarkan oleh Logique untuk melakukan Pentest
+                            tersebut?</div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <img alt="10 juta" src="assets/img/img-pentest/15-juta.png" class="img-responsive center-block" />
+                    </div>
+                </div><br />
+                <div class="row">
+                    <div class="col-md-offset-1 col-md-10">
+                        <div class="subtitle">Dalam melakukan kegiatan pentest mulai dari tahapan awal (preparation),
+                            tahapan pengujian (assessment) dan tahapan pelaporan (reporting), Logique Digital Indonesia
+                            menawarkan harga mulai dari Rp 15 juta tergantung dari jenis aplikasi atau sistem yang akan
+                            diuji.</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section>
             <br>
             <!-- <div class="mengapa-harus"><b></b>Logique Works 2019</div> -->
@@ -998,31 +1022,6 @@
                                 </tbody>
                             </table>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-        <section class="harga">
-            <div class="container__">
-                <div class="row">
-                    <div class="col-md-offset-2 col-md-8">
-                        <div class="title">Lalu berapakah harga layanan yang ditawarkan oleh Logique untuk melakukan Pentest
-                            tersebut?</div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <img alt="10 juta" src="assets/img/img-pentest/15-juta.png" class="img-responsive center-block" />
-                    </div>
-                </div><br />
-                <div class="row">
-                    <div class="col-md-offset-1 col-md-10">
-                        <div class="subtitle">Dalam melakukan kegiatan pentest mulai dari tahapan awal (preparation),
-                            tahapan pengujian (assessment) dan tahapan pelaporan (reporting), Logique Digital Indonesia
-                            menawarkan harga mulai dari Rp 15 juta tergantung dari jenis aplikasi atau sistem yang akan
-                            diuji.</div>
                     </div>
                 </div>
             </div>
