@@ -242,6 +242,7 @@
         </div>
       </section>
       <?php include './layout-career/other-position.php'; ?>
+      <?php include './layout-career/link-section.php'; ?>
       <?php include './layout-career/contact-lgq.php'; ?>
     </div>
 
