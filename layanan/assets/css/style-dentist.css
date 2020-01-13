@@ -1085,6 +1085,12 @@ box-shadow:         2px 1px 2px 0px rgba(50, 50, 50, 0.5);
 	-moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.2);
 	box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.2);
 }
+.d-layanan.l1 a {
+	color: #ffca15;
+}
+.d-layanan.l1 a:hover {
+	text-decoration: underline;
+}
 .d-layanan h2 {
 	font-family: 'avenir';
 	font-size: 22px;

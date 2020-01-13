@@ -311,6 +311,7 @@ if (isset($_POST['submitted'])) {
                         <h5>TEMPLATE</h5>
                         <p>Choose the best template for your dental clinic, with guaranteed delivery within 5-7 working days.</p>
                         <small>Website Optimization in Mobile and SEO included. Photo / Video Retrieval, Professional Content Making are optional.</small>
+                        <small class="step-desription__small--anchor">Your web is listed on <a href="https://caridoktergigi.com/">CariDokterGigi.com</a> for free</small>
                     </div>
                     <div class="template-slide">
                         <div>

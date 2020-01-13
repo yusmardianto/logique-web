@@ -1095,7 +1095,15 @@ div.slick-list.draggable{
   color: #0c337b;
   text-align: left;
 }
-
+.step-desription__small--anchor {
+  margin-top: 1em !important;
+}
+.step-desription__small--anchor a {
+  color: #ffca13;
+}
+.step-desription__small--anchor a:hover {
+  text-decoration: underline;
+}
 .step-description ul li {
   list-style: disc;
   margin-left: 1.5em;
