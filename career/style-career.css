@@ -412,9 +412,10 @@ button:focus {
 /*** Button  ***/
 .link-header-lamar-lowongan {
   display: none;
-  position: absolute;
-  top: -10px;
-  /* right: 70px; */
+  position: fixed;
+  top: 0;
+  /* top: -10px; */
+  right: 70px;
   z-index: 12;
   color: #000;
   font-weight: 600;
@@ -435,6 +436,14 @@ button:focus {
 @media (min-width: 992px) {
   .link-header-lamar-lowongan {
     width: 390px;
+  }
+}
+
+@media  (min-width: 1280px) {
+  .link-header-lamar-lowongan {
+    position: absolute;
+    top: -10px;
+    right: 0;
   }
 }
 
@@ -967,6 +976,7 @@ ul.medsos-new li a {
 /* Talk to */
 .talk-to {
   display: flex;
+  flex-wrap: wrap;
   margin-top: 15px;
 }
 .talk-to__item {
@@ -1134,6 +1144,11 @@ ul.medsos-new li a {
 .lowongan-position__item:hover .lowongan-position__overlay {
   opacity: 1;
 }
+@media only screen and (min-width: 1px) and (max-width: 379.98px) {
+  .see-position__item {
+    height: 215px;
+  }
+}
 /* End See Position */
 
 /* Contact Section */
@@ -1237,7 +1252,12 @@ ul.medsos-new li a {
   list-style: circle;
   padding-left: 20px;
 }
-
+@media only screen and (min-width: 1px) and (max-width: 379.98px) {
+  .vision-box__title {
+    width: 235px;
+    font-size: 22px;
+  }
+}
 /* End Vision Box */
 
 /* Benefit */
@@ -1245,6 +1265,7 @@ ul.medsos-new li a {
   border-radius: 12px;
   box-shadow: 0px 8px 12px -2px rgba(0, 0, 0, 0.1);
   overflow: hidden;
+  margin-bottom: 2em;
 }
 .benefit-card__img-wrapper {
   width: 100%;
@@ -1275,7 +1296,6 @@ ul.medsos-new li a {
   width: 33.3%;
   display: flex;
   align-items: center;
-  /* justify-content: center; */
 }
 
 .benefit__img {
@@ -1287,6 +1307,52 @@ ul.medsos-new li a {
 .benefit__text {
   font-size: 20px;
   font-weight: bold;
+}
+@media only screen and (min-width: 768px) and (max-width: 1023.98px) {
+  .benefit {
+   flex-wrap: wrap;
+   margin-bottom: 0;
+  }
+  .benefit__item {
+    width: 50%;
+    margin-bottom: 2.5em;
+  }
+}
+
+@media only screen and (min-width: 370px) and (max-width: 767.98px) {
+  .benefit {
+   flex-wrap: wrap;
+   margin-bottom: 0;
+  }
+  .benefit__item {
+    width: 100%;
+    margin-bottom: 2.5em;
+  }
+  .benefit__img {
+    max-width: 45px;
+    max-height: 45px;
+  }
+  .benefit__text {
+    font-size: 18px;
+  }
+}
+
+@media only screen and (min-width: 1px) and (max-width: 379.98px) {
+  .benefit {
+   flex-wrap: wrap;
+   margin-bottom: 0;
+  }
+  .benefit__item {
+    width: 100%;
+    margin-bottom: 2.5em;
+  }
+  .benefit__img {
+    max-width: 40px;
+    max-height: 40px;
+  }
+  .benefit__text {
+    font-size: 16px;
+  }
 }
 /* End Benefit */
 
@@ -1348,6 +1414,7 @@ ul.medsos-new li a {
 .career-detail {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 .career-detail__img {
   margin-right: 20px;
@@ -1357,6 +1424,7 @@ ul.medsos-new li a {
 .career-detail__item {
   display: flex;
   align-items: center;
+  margin-bottom: 1em;
 }
 .career-requirement {
   margin-bottom: 2.5em;
