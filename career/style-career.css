@@ -409,6 +409,14 @@ button:focus {
 }
 
 /*** End Header & Navbar ***/
+/*** Custom Career Navbar ***/
+.navbar--career .navbar-link {
+  display: inline-block;
+  height: 100%;
+  padding: 7.5px 5px;
+  color: #000;
+}
+/*** End Custom Career Navbar ***/
 /*** Button  ***/
 .link-header-lamar-lowongan {
   display: none;
@@ -418,24 +426,17 @@ button:focus {
   right: 70px;
   z-index: 12;
   color: #000;
-  font-weight: 600;
-  font-size: 20px;
+  font-weight: 700;
+  font-size: 15px;
   background-color: rgba(255, 202, 19, 0.9);
-  width: 340px;
   height: auto;
-  padding: 15px 20px;
+  padding: 19.5px 15px;
   text-align: center;
 }
 
 @media (min-width: 768px) {
   .link-header-lamar-lowongan {
     display: inline-block;
-  }
-}
-
-@media (min-width: 992px) {
-  .link-header-lamar-lowongan {
-    width: 390px;
   }
 }
 
@@ -785,9 +786,9 @@ ul.medsos-new li a {
   background: url("../img/career/bg-img/bg-lowongan.png") center/cover no-repeat;
 }
 .bg--btn-intern {
-  background: url("../img/career/bg-img/bg-btn-intern.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-btn-intern.png") center/cover
+    no-repeat;
 }
-
 
 .bg--op-programmer {
   background: url("../img/career/bg-img/bg-op-programmer.png") center/cover
