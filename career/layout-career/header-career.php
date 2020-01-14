@@ -1,3 +1,6 @@
+<?php 
+    $baseFileName = basename($_SERVER['PHP_SELF']);
+?>
 <!-- NAVIGATION -->
 <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
   data-toggle="collapse" data-target="#myNavbar">
@@ -77,6 +80,7 @@
               <a href="/career" class="navbar-link">Karir</a>
             </div>
             <div class="col-md-5 col-lg-4 text-center no-gap">
+              <?php if ($baseFileName === 'index.php'): ?>
               <div class="dropdown">
                 <a href="" class="dropdown-toggle navbar-link" data-toggle="dropdown" role="button" aria-haspopup="true"
                   aria-expanded="true">
@@ -92,6 +96,9 @@
                 </ul>
                 <div class="clear"></div>
               </div>
+              <?php else: ?>
+              <a href="/logique.php" class="navbar-link">Info LOGIQUE</a>
+              <?php endif; ?>
             </div>
             <div class="col-md-4 col-lg-4 text-center no-gap">
               <a href="/career/lowongan.php" class="navbar-link">Lowongan Kerja</a>
