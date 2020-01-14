@@ -388,7 +388,7 @@ if (isset($_POST['submitted'])) {
 										   <h4>SEO</h4>
 									   </div>
 									   <p>SEO memudahkan orang untuk menemukan website Anda di posisi teratas dalam pencarian Google sehingga klinik gigi Anda dapat lebih dikenal dengan mudah.</p><br>
-									   <p>Website klinik gigi Anda akan terdaftar pada <a href="https://caridoktergigi.com/">CariDokterGigi.com</a> secara gratis</p>
+									   <p>Website klinik gigi Anda akan terdaftar pada <a target="_blank" href="https://caridoktergigi.com/">CariDokterGigi.com</a> secara gratis</p>
 								   </div>
 							   </div>
 							   <div class="col-md-4 col-sm-4">

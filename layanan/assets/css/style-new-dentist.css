@@ -712,7 +712,7 @@ ul.medsos-new li a {
 }
 
 .banner-content {
-  /* padding-top: 4em; */
+  padding-top: 4em;
   background: url(../img/img-new-dentist/bg-top.png) no-repeat;
   background-size: cover;
   /* height: 450px; */
