@@ -251,11 +251,14 @@
                         </div>
 
                         <div class="col-md-4 col-xs-6">
-                            <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
-                            <p class="text-center">Pertamina</p>
+                            <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/mobirent.png" alt="Mobirent"
+                                    class="img-responsive center-block">
+                                <p class="text-center">Mobirent</p>
+                            </a>
                             <div class="addition-desc text-left">
-                                UI / UX Design (Design | HTML/CSS)
-                                <div class="grey-clr">Training, E-Learning, Pertamina</div>
+                                Web Design (Design | Coding | Deployment)
+                                <div class="grey-clr">Mobile Optimized</div>
                             </div>
                         </div>
 
@@ -1081,14 +1084,11 @@
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/mobirent.png" alt="Mobirent"
-                                        class="img-responsive center-block">
-                                    <p class="text-center">Mobirent</p>
-                                </a>
+                                <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
+                                <p class="text-center">Pertamina</p>
                                 <div class="addition-desc text-left">
-                                    Web Design (Design | Coding | Deployment)
-                                    <div class="grey-clr">Mobile Optimized</div>
+                                    UI / UX Design (Design | HTML/CSS)
+                                    <div class="grey-clr">Training, E-Learning, Pertamina</div>
                                 </div>
                             </div>
 

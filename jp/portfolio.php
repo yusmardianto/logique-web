@@ -254,11 +254,14 @@
                         </div>
 
                         <div class="col-md-4 col-xs-6">
-                            <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
-                            <p class="text-center">Pertamina</p>
+                            <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/mobirent.png" alt="Mobirent"
+                                    class="img-responsive center-block">
+                                <p class="text-center">Mobirent</p>
+                            </a>
                             <div class="addition-desc text-left">
-                                UI/UXデザイン (デザイン | HTML/CSSコーディング)
-                                <div class="grey-clr">eラーニング, トレーニング, 資源ビジネス</div>
+                                BtoBサービス, Car Rental Web制作（デザイン制作 | コーディング | ディプロイ）
+                                <div class="grey-clr">スマホ最適, BtoBサービス, レンタカー</div>
                             </div>
                         </div>
 
@@ -1032,14 +1035,11 @@
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/mobirent.png" alt="Mobirent"
-                                        class="img-responsive center-block">
-                                    <p class="text-center">Mobirent</p>
-                                </a>
+                                <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
+                                <p class="text-center">Pertamina</p>
                                 <div class="addition-desc text-left">
-                                    BtoBサービス, Car Rental Web制作（デザイン制作 | コーディング | ディプロイ）
-                                    <div class="grey-clr">スマホ最適, BtoBサービス, レンタカー</div>
+                                    UI/UXデザイン (デザイン | HTML/CSSコーディング)
+                                    <div class="grey-clr">eラーニング, トレーニング, 資源ビジネス</div>
                                 </div>
                             </div>
 
