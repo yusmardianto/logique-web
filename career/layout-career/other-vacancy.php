@@ -34,7 +34,7 @@
             </a>
           </div>
           <?php endif; ?>
-          <?php if ($cat_vacancy !== 'it-specialist'): ?>
+          <?php if ($cat_vacancy !== 'other-it-specialist'): ?>
           <div class="col-md-6 col-lg-4">
             <a href="#" class="other-position__item bg--op-specialist">
               <div class="other-position__overlay"></div>
