@@ -109,7 +109,7 @@
           <div class="row">
             <div class="col-sm-offset-6 col-sm-5">
               <h1 class="header__title --black">Pesan Untuk Kandidat</h1>
-              <p>Saya berharap dapat berbicara banyak hal dengan Anda.</p>
+              <p>“Saya berharap dapat berbicara banyak hal dengan Anda.”</p>
               <span class="header__sub-title role--title --black">Founder & CEO LOGIQUE Digital Indonesia</span>
             </div>
           </div>
@@ -120,46 +120,62 @@
         <div class="container--max-width" style="padding-top:0">
           <div class="row">
             <div class="col-md-4 col-sm-6 no-gap">
-              <img class="img-responsive" src="/img/career/ghitta.jpg" alt="HR Ghitta">
-              <div class="interview__img-text">
-                <h4 class="interview__text-title">Pesan dari Ghitta</h4>
-                <p>
-                  Saya berharap Anda adalah kandidat yang kami butuhkan.
-                </p>
-                <span class="interview__text-title role--title">
-                  Staff Senior HR & GA
-                  <br>
-                  LOGIQUE Digital Indonesia
-                </span>
-              </div>
+              <img src="/img/career/ghitta.jpg" alt="HR Ghitta">
+                <div class="message__img-text">
+                  <h4 class="message__text-title">Pesan dari Ghitta</h4>
+                  <p>
+                    “Sangat penting bagi Anda untuk mengetahui di mana dan bagaimana Anda bekerja. Jika Anda bekerja
+                    keras, merasakan bahwa bekerja penting untuk kehidupan Anda, dan ingin berkontribusi kepada
+                    perusahaan, kami berjanji akan menyediakan lingkungan kerja yang baik untuk Anda. Di LOGIQUE, kami
+                    menyambut individu yang kreatif dan dinamis serta berusaha untuk pengembangan pribadi dan
+                    profesional. Sebagai gantinya, maka kami berkomitmen untuk menghasilkan yang terbaik dari diri Anda
+                    dengan menawarkan kesempatan untuk kemajuan dan pertumbuhan, dan memberikan karir yang mengubah
+                    hidup tidak seperti yang lain. Mari berkembang bersama LOGIQUE!”
+                  </p>
+                  <span class="message__text-title role--title">
+                    Staff Senior HR & GA
+                    <br>
+                    LOGIQUE Digital Indonesia
+                  </span>
+                </div>
             </div>
             <div class="col-md-4 col-sm-6 no-gap">
-              <img class="img-responsive" src="/img/career/taufik.jpg" alt="FE Taufik">
-              <div class="interview__img-text">
-                <h4 class="interview__text-title">Pesan dari Taufik</h4>
-                <p>
-                  Saya menunggu Anda untuk tumbuh dan berkembang bersama kami.
-                </p>
-                <span class="interview__text-title role--title">
-                  Staff Senior Frontend Developer
-                  <br>
-                  LOGIQUE Digital Indonesia
-                </span>
-              </div>
+              <img src="/img/career/taufik.jpg" alt="FE Taufik">
+                <div class="message__img-text">
+                  <h4 class="message__text-title">Pesan dari Taufik</h4>
+                  <p>
+                    “Show your best. Pastikan kalau kamu memiliki pengalaman dan menguasai bidang yang kamu lamar.
+                    Ibaratnya mau jadi atlet renang, kamu tentu harus bisa berenang (haha). Selain itu, tunjukkan juga
+                    kalau kamu profesional dan punya minat belajar yang tinggi. Untuk kamu yang senang bekerja cepat,
+                    kamu
+                    bakal suka bekerja di LOGIQUE.”
+                  </p>
+                  <span class="message__text-title role--title">
+                    Staff Senior Frontend Developer
+                    <br>
+                    LOGIQUE Digital Indonesia
+                  </span>
+                </div>
             </div>
             <div class="col-md-offset-0 col-sm-offset-3 col-md-4 col-sm-6 no-gap">
-              <img class="img-responsive" src="/img/career/muklis.jpg" alt="BE Muklis">
-              <div class="interview__img-text">
-                <h4 class="interview__text-title">Pesan dari Muklis</h4>
-                <p>
-                  Saya tidak sabar untuk bekerja sama dengan Anda di sini.
-                </p>
-                <span class="interview__text-title role--title">
-                  Staff Senior Backend Developer
-                  <br>
-                  LOGIQUE Digital Indonesia
-                </span>
-              </div>
+              <img src="/img/career/muklis.jpg" alt="BE Muklis">
+                <div class="message__img-text">
+                  <h4 class="message__text-title">Pesan dari Muklis</h4>
+                  <p>
+                    “LOGIQUE tidak hanya melihat technical skill seseorang tetapi juga soft skill dan attitude. Selain
+                    itu, selama Anda merasa dapat memberikan kontribusi di bidang Anda, LOGIQUE akan mempertimbangkan
+                    hal
+                    itu baik-baik. Namun, jika Anda mempunyai target untuk menjadi yang Back-End Developer terbaik, saya
+                    menyarankan Anda untuk terbiasa dalam menggunakan berbagai bahasa pemrograman, framework, cloud
+                    server
+                    topology AWS, dan semacamnya.”
+                  </p>
+                  <span class="message__text-title role--title">
+                    Staff Senior Backend Developer
+                    <br>
+                    LOGIQUE Digital Indonesia
+                  </span>
+                </div>
             </div>
           </div>
         </div>
@@ -175,56 +191,57 @@
                     style="min-width:100%">
                 </div>
               </div>
-              <div class="row interview-img">
+              <div class="row message-img">
                 <div class="col-md-4 col-sm-6">
-                  <div class="interview__img-wrapper">
+                  <div class="message__img-wrapper">
                     <img src="../../img/career/bg-img/dummy-img-1.png" alt="">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
-                  <div class="interview__img-wrapper">
+                  <div class="message__img-wrapper">
                     <img src="../../img/career/bg-img/dummy-img-2.png" alt="">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
-                  <div class="interview__img-wrapper">
+                  <div class="message__img-wrapper">
                     <img src="../../img/career/bg-img/dummy-img-3.png" alt="">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
-                  <div class="interview__img-wrapper">
+                  <div class="message__img-wrapper">
                     <img src="../../img/career/bg-img/dummy-img-4.png" alt="">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
-                  <div class="interview__img-wrapper">
+                  <div class="message__img-wrapper">
                     <img src="../../img/career/bg-img/dummy-img-5.png" alt="">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
-                  <div class="interview__img-wrapper">
+                  <div class="message__img-wrapper">
                     <img src="../../img/career/bg-img/dummy-img-6.png" alt="">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
-                  <div class="interview__img-wrapper">
+                  <div class="message__img-wrapper">
                     <img src="../../img/career/bg-img/dummy-img-7.png" alt="">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
-                  <div class="interview__img-wrapper">
+                  <div class="message__img-wrapper">
                     <img src="../../img/career/bg-img/dummy-img-8.png" alt="">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
-                  <div class="interview__img-wrapper">
+                  <div class="message__img-wrapper">
                     <img src="../../img/career/bg-img/dummy-img-9.png" alt="">
                   </div>
                 </div>
               </div>
               <div class="row">
                 <div class="col-sm-12">
-                  <a href="#" class="form-control main-btn --yellow bg--btn-intern">Lihat Aktivitas Magang di LOGIQUE</a>
+                  <a href="#" class="form-control main-btn --yellow bg--btn-intern">Lihat Aktivitas Magang di
+                    LOGIQUE</a>
                 </div>
               </div>
             </div>

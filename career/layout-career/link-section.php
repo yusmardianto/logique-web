@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-sm-11 no-gap">
         <div class="row">
-          <div class="col-md-6 col-sm-12 bg--interview">
+          <div class="col-md-6 col-sm-12 bg--message">
             <div class="link-box">
               <div class="link-box__text-wrapper">
                 <p class="link-box__text">

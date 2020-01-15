@@ -742,9 +742,8 @@ ul.medsos-new li a {
   background: url("../img/career/bg-img/bg-informasi.png") center/cover
     no-repeat;
 }
-.bg--interview {
-  background: url("../img/career/bg-img/bg-interview.png") center/cover
-    no-repeat;
+.bg--message {
+  background: url("../img/career/bg-img/bg-message.png") center/cover no-repeat;
 }
 .bg--h-vision {
   background: url("../img/career/bg-img/bg-head-vision.png") center/cover
@@ -1398,11 +1397,12 @@ span.role--title {
 }
 /* End HR Rule */
 
-/* Interview */
-.interview__img-text {
+/* message */
+.message__img-text {
   position: absolute;
-  bottom: 0;
+  top: 0;
   left: 0;
+  bottom: 0;
   padding-top: 25px;
   padding-bottom: 25px;
   padding-left: 20px;
@@ -1425,21 +1425,21 @@ span.role--title {
   );
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4f2f2",endColorstr="#000000",GradientType=1);
 }
-.interview__text-title {
+.message__text-title {
   font-size: 28px;
   font-weight: 800;
 }
-.interview-img .col-md-4 {
+.message-img .col-md-4 {
   padding: 15px;
 }
-.interview__img-wrapper {
+.message__img-wrapper {
   height: 330px;
   overflow: hidden;
 }
-.interview__img-wrapper img {
+.message__img-wrapper img {
   min-width: 100%;
 }
-/* End Interview */
+/* End message */
 /* Career Detail */
 .career-detail {
   display: flex;
@@ -1472,6 +1472,7 @@ span.role--title {
 .career-list {
   list-style: disc;
   padding-left: 15px;
+  margin-bottom: 15px;
 }
 .work-schedule__item {
   display: flex;

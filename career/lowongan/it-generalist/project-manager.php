@@ -18,7 +18,7 @@
   <meta property="og:description"
     content="Saatnya berkarir dan kembangkan potensimu - Career at Logique Bergabunglah dan jadilah bagian dari perkembangan teknologi digital di Indonesia bersama Logique. Anda juga akan memiliki kesempatan luas untuk mengembangkan potensi dan karir Anda, serta berkarya dengan jam kerja yang fleksibel.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan</title>
+  <title>Project Manager</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -123,7 +123,7 @@
                 </div>
                 <div class="career-detail__item">
                   <img class="career-detail__img" src="/img/career/icon/location.png" alt="Work Location">
-                  <p>Jakarta & Yogyakarta</p>
+                  <p>Jakarta</p>
                 </div>
               </div>
             </div>
@@ -136,50 +136,99 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <h3 class="section-title">Job Description</h3>
-                <p>Product Manager in LOGIQUE is working in Product Department with other product developer and Digital
-                  Marketing
-                  Team. We
-                  have some HR Cloud Tools such as Dokodemo-Kerja. You should manage members and also products
-                  development /
-                  improvement.
-                  You are supposed to be good at analyzing and planning. </p> <br>
+                <h3 class="section-title">Job Description:</h3>
+                <h4 class="section-subtitle">PreSales:</h4>
                 <ul class="career-list">
-                  <li>Planning all about product development / improvement</li>
-                  <li>Wide responsible fields from analytics until sales and marketing</li>
-                  <li>Manage product development projects, such as cost, schedule and quality control.</li>
-                  <li>Manage Product team members and communicate and report well to the management</li>
+                  <li>
+                    Memahami kebutuhan pelanggan dan tujuan bisnis.
+                  <li>
+                    Memberikan konsultasi dan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.
+                  </li>
+                  <li>
+                    Berkolaborasi dengan tim Sales untuk membantu proses penjualan.</li>
+                  <li>
+                    Melakukan analisa terhadap kebutuhan dan memberikan estimasi pengerjaan yang diperlukan termasuk
+                    pembuatan proposal.
+                  </li>
+                </ul>
+                <h4 class="section-subtitle">Development:</h4>
+                <ul class="career-list">
+                  <li>
+                    Membuat inisiasi jadwal pengembangan, rancangan penggunaan resource, dan project costing.
+                  </li>
+                  <li>
+                    Melakukan manajemen proyek untuk mendapatkan hasil yang berkualitas dan tepat waktu.
+                  </li>
+                  <li>
+                    Melakukan monitoring terhadap penggunaan resource proyek.
+                  </li>
+                  <li>
+                    Berkomunikasi dengan klien selama jalannya proyek.
+                  </li>
+                  <li>
+                    Berkolaborasi dengan developer terkait pengerjaan sesuai ruang lingkup proyek.
+                  </li>
+                </ul>
+                <h4 class="section-subtitle">Post Development:</h4>
+                <ul class="career-list">
+                  <li>Menyajikan laporan yang tepat dan terstruktur.</li>
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">Must Skill/Experience</h3>
+                <h3 class="section-title">Must Skill/Experience:</h3>
                 <ul class="career-list">
-                  <li>Logical thinking, good communication and reporting.</li>
-                  <li>IT System Development Knowledge and experience for at least 3 years</li>
-                  <li>Digital Marketing Knowledge and experience for at least 1 year</li>
-                  <li>Good at using digital tools</li>
-                  <li>Business English</li>
-                  <li>Memiliki kemampuan pemecahan masalah yang baik dan efisien.</li>
-                  <li>Mampu bekerja dalam tekanan dan deadline sesuai dengan kebutuhan klien.</li>
-                  <li>Berpengalaman dalam pembuatan WEB/Sistem</li>
+                  <li>
+                    Memiliki pengalaman yang sangat baik dan up to date terhadap pengaplikasian teknologi terbaru dalam
+                    bidang pembuatan website, sistem web, dan aplikasi mobile.
+                  </li>
+                  <li>
+                    Memiliki kemampuan analisa dan memecahkan masalah yang tinggi.
+                  </li>
+                  <li>
+                    Berorientasi pada pelayanan terhadap client/customer.
+                  </li>
+                  <li>
+                    Memiliki kemampuan interpesonal yang baik.
+                  </li>
+                  <li>
+                    Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik
+                  </li>
+                  <li>
+                    Memiliki kemampuan presentasi yang baik.
+                  </li>
+                  <li>
+                    Memiliki pengetahuan yang luas dengan dunia IT.
+                  </li>
+                  <li>
+                    Berpendidikan minimal S1 di bidang Teknik Informatika atau Sistem Informasi.
+                  </li>
+                  <li>
+                    Memiliki pengalaman sebagai IT Consultant atau Project Manager minimal 2 tahun.
+                  </li>
+                  <li>
+                    Dapat bekerja dalam tim.
+                  </li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Preferable</h3>
                 <ul class="career-list">
-                  <li>Project Management</li>
+                  <li>Project Management Certification</li>
                   <li>Bahasa Inggris</li>
+                  <li>Memiliki Kendaraan Bermotor Pribadi</li>
                 </ul>
               </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <h3 class="section-title">Rewards and worthwhile</h3>
+                <h3 class="section-title">Rewards dan Worthwhile</h3>
                 <ul class="career-list">
-                  <li>Experience in being in charge of doing from product development until growth hack, digital
-                    marketing, offline
-                    marketing and sales activities.</li>
-                  <li>Have a power / opportunity to decide product strategy and to execute </li>
+                  <li>
+                    Kesempatan bertemu banyak klien dari berbagai macam bidang dan industri.
+                  </li>
+                  <li>
+                    Dapat beradaptasi dalam hal komunikasi kepada banyak klien yang multikultural.
+                  </li>
                 </ul>
               </div>
               <div class="career-requirement">
@@ -326,19 +375,6 @@
   </div>
   <script type="text/JavaScript">
     $('.waNumber').html('0822-60-5678-56');
-
-        // var itGeneralis = ["qa", "design"];
-        // var programmer = ["qa", "design", "project-manager"];
-        // // var programmer = ["qa", "design", "tester"];
-        // var current = window.location.pathname.split(/[./]/);
-        // var currentSpecify = current[current.length - 2];
-
-        // if (itGeneralis.indexOf(currentSpecify) !== -1) {
-        //     $('#itGeneralist').hide();
-        // } else if (programmer.indexOf(currentSpecify) !== -1) {
-        //     $('#programmer').hide();
-        // }
-
     </script>
 </body>
 
