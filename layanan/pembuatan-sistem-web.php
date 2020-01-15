@@ -209,69 +209,31 @@
             </div>
         </div>
 
-         <div class="container" style="position:relative">
-             <!-- <div class="row"> -->
-             <!-- <div class="col-md-12">
-					<a href="/" target="_blank">
-						<div class="logo-header">
-							<img src="assets/img/img-systemdev/logo.png" alt="Fitur Perusahaan" class="img-responsive">
-						</div>
-					</a>
-				</div> -->
-             <!-- </div> -->
-
-             <!-- breadcrumb -->
-             <div class="breadcrumb-position hidden">
-                 <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList" style="background:transparent;">
-                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                             href="/index.php"><span itemprop="name">Home</span></a>
-                         <meta itemprop="position" content="1" />
-                     </li>
-                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                             href="/layanan.php"><span itemprop="name">Layanan</span></a>
-                         <meta itemprop="position" content="2" />
-                     </li>
-                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                             itemprop="item"><span itemprop="name">Pembuatan Sistem Web</span></a>
-                         <meta itemprop="position" content="3" />
-                     </li>
-                 </ol>
-             </div>
-             <!-- end of breadcrumb -->
-
+         <div class="container__" style="position:relative">
              <div class="row">
-					<!-- lang btn -->
-                 <div class="language-btn hidden">
-                     <ul class="list-inline">
-                         <li><a href="/en/services/system-dev.php">EN</a></li>
-                         <li class="active"><a href="#">ID</a></li>
-                         <li><a href="/jp/services/system-dev.php">JP</a></li>
-                     </ul>
-                 </div>
-                 <!-- end of lang btn -->
-
-                 <div class="col-lg-offset-7  col-lg-5 col-sm-offset-6 col-sm-6 bg-header-txt">
-                     <h2 class="text-left m-new">
+                 <div class="col-lg-offset-6 col-lg-6 col-sm-offset-6 col-sm-6 bg-header-txt">
+                     <h1 class="text-left m-new">
                          Apakah anda membutuhkan layanan profesional dalam Pengembangan Sistem & Aplikasi? Jangan khawatir:
                          Logique siap melayani!
-                     </h2>
-                     <h2 class="text-left m-new" style="color: #555;">
+                     </h1>
+                     <h3 class="text-left m-new">
                          Kami mengembangkan sistem IT dengan standar internasional, kualitas Jepang, serta kecepatan dan harga
                          Indonesia.
-                     </h2>
+                     </h3>
                  </div>
              </div>
          </div>
      </header>
+     
      <section class="style-1 mb-1" style="padding-bottom: 0;padding-top:20px;">
          <div class="container">
              <div class="row">
                  <div class="col-md-offset-1 col-md-10 text-center">
-                     <h2>
+                     <h3>
                          LOGIQUE adalah sebuah perusahaan IT/pengembang website terkemuka yang melayani pelanggannya
                          untuk memenuhi target bisnis melalui teknologi-teknologi web terkini.
                          Kami dapat membangun sistem website dengan lebih cepat dan lebih efisien pada harga yang pantas.
-                     </h2>
+                     </h3>
                  </div>
              </div>
          </div>
@@ -345,8 +307,8 @@
                  <div class="container">
                      <div class="row" style="display: flex; flex-wrap: wrap;">
                          <div class="col-md-4">
-                             <h1 class="new7" style="font-weight: 500!important;">Mendukung Perusahaan Anda Melalui Pengembangan
-                                 Sistem dan Aplikasi Berdasarkan Permintaan.</h1>
+                             <h2 class="new7" style="font-weight: 500!important;">Mendukung Perusahaan Anda Melalui Pengembangan
+                                 Sistem dan Aplikasi Berdasarkan Permintaan.</h2>
                              <br>
                              <div class="justify-content-center">
                                  <img src="assets/img/img-systemdev/laptop-img.png" alt="" class="img img-responsive">
@@ -356,7 +318,7 @@
                              <div class="row">
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">Pengembangan Berdasarkan Kontrak</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">
                                              Metode ini efektif untuk project dengan kebutuhan yang
                                              jelas. Kami biasanya merekomendasikan untuk bekerja dengan Metode Pengembangan Agile
@@ -370,7 +332,7 @@
                                      <h4 class="dark-gold-title">
                                          Pengembangan Outsourcing Tipe Lab (Biaya Berdasarkan Jumlah Hari Kerja)
                                      </h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">
                                              Efektif untuk situasi di mana kebutuhan / ruang lingkup pekerjaan
                                              belum ditentukan, tetapi pekerjaan harus segera dimulai. Tipe ini juga
@@ -383,7 +345,7 @@
                              <div class="row">
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">Pengembangan dengan Tarif Tetap Bulanan</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">
                                              Dalam situasi ini, biaya bulanan sudah ditetapkan. Setiap
                                              bulan kami bekerja sesuai dengan prioritas khusus yang sudah ditentukan dalam
@@ -398,7 +360,7 @@
                              <div class="row">
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">Pengembangan di Tempat (Pengiriman Pengembang)</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">
                                              Melalui perusahaan yang berafiliasi dengan LOGIQUE, kami
                                              bisa mengirimkan developer, designer, dan tester (dan spesialis lainnya) ke
@@ -991,7 +953,7 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-5">
-                     <h1 class="new6"><span class="underline2">Client</span><br>Testimonial</h1>
+                     <h2 class="new6"><span class="underline2">Client</span><br>Testimonial</h2>
                  </div>
                  <div class="col-md-7">
                      <div class="row">

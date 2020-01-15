@@ -203,9 +203,9 @@
          </div>
          <div class="container__" style="position:relative">
              <div class="row">
-                 <div class="col-lg-offset-6 col-lg-5 col-sm-offset-6 col-sm-6 bg-header-txt">
+                 <div class="col-lg-offset-5 col-lg-7 col-sm-offset-6 col-sm-6 bg-header-txt">
                      <h1 class="text-left m-new">インドネシアでシステム開発が必要ならLOGIQUEにご相談ください</h1>
-                     <h2 class="text-left m-new">豊富な実績をベースに、<br> 早い、安い、でもクオリティは高いシステムを開発します。</h2>
+                     <h3 class="text-left m-new">豊富な実績をベースに、<br> 早い、安い、でもクオリティは高いシステムを開発します。</h3>
                  </div>
              </div>
          </div>
@@ -213,9 +213,9 @@
      <section class="style-1" style="padding-bottom: 0;padding-top:20px;">
          <div class="container">
              <div class="row">
-                 <div class="col-md-offset-1 col-md-10 text-left" style="padding: 2em 1em;">
-                     <h2>システム開発が必要なのに、コストが高いから、時間かかるから、難しいからと諦めていませんか？インドネシアでのIT/Webシステム開発はLOGIQUEにお任せください。柔軟にスピーディーにリーズナブルなコストで開発します。
-                     </h2>
+                 <div class="col-md-offset-1 col-md-10 text-left" style="padding-bottom: 1em;">
+                     <h3>システム開発が必要なのに、コストが高いから、時間かかるから、難しいからと諦めていませんか？インドネシアでのIT/Webシステム開発はLOGIQUEにお任せください。柔軟にスピーディーにリーズナブルなコストで開発します。
+                     </h3>
                  </div>
              </div>
          </div>
@@ -279,7 +279,7 @@
                  <div class="container">
                      <div class="row" style="display: flex; flex-wrap: wrap;">
                          <div class="col-md-4">
-                             <h1 class="new7" style="font-weight: 500!important;">ご要望に応じて柔軟な開発体制 / 開発メソッドでサポートいたします</h1>
+                             <h2 class="new7" style="font-weight: 500!important;">ご要望に応じて柔軟な開発体制 / 開発メソッドでサポートいたします</h2>
                              <br>
                              <div class="justify-content-center">
                                  <img src="assets/img/img-systemdev/laptop-img.png" alt="" class="img img-responsive">
@@ -289,7 +289,7 @@
                              <div class="row">
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">通常の請負開発</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">要件が明確であるプロジェクトで有効。<br>通常はアジャイル（スクラム）開発をお奨めしています。.</p>
                                      </div>
                                  </div>
@@ -297,7 +297,7 @@
                              <div class="row">
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">ラボ型受託開発（稼働したリソースベースでご請求します</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">要件 / 作業スコープが決まりきっていないが早期にスタートしたいケース、開発しながら柔軟にスコープを変えていきたいプロジェクトで有効。</p>
                                      </div>
                                  </div>
@@ -305,7 +305,7 @@
                              <div class="row">
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">定額制開発</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">月額費用を固定し、優先度高く必要なものから順に規定の作業工数の範囲内で毎月作業していきます。
                                              メンテナンスや機能拡張プロジェクトに合っています。
                                              従来であれば追加費用が必要かどうかで揉めるような場面でも、月額定額の中で出来るところまで対応し、
@@ -316,7 +316,7 @@
                              <div class="row">
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">開発者派遣型開発</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">関連会社にて開発者、デザイナー、テスター等を派遣して、オンサイトで作業することも可能です。</p>
                                      </div>
                                  </div>
@@ -721,7 +721,7 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-6">
-                     <h1 class="new6"><span class="underline2" style="padding: 0;">お客様の声</span></h1>
+                     <h2 class="new6"><span class="underline2" style="padding: 0;">お客様の声</span></h2>
                  </div>
                  <div class="col-md-6">
                      <div class="row">
