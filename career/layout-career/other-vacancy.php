@@ -51,7 +51,7 @@
             </a>
           </div>
           <?php endif; ?>
-          <?php if ($cat_vacancy !== 'sales-back-office'): ?>
+          <?php if ($cat_vacancy !== 'internship'): ?>
           <div class="col-md-6 col-lg-4">
             <a href="#" class="other-position__item bg--op-internship">
               <div class="other-position__overlay"></div>

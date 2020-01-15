@@ -18,7 +18,7 @@
   <meta property="og:description"
     content="Saatnya berkarir dan kembangkan potensimu - Career at Logique Bergabunglah dan jadilah bagian dari perkembangan teknologi digital di Indonesia bersama Logique. Anda juga akan memiliki kesempatan luas untuk mengembangkan potensi dan karir Anda, serta berkarya dengan jam kerja yang fleksibel.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Quality Assurance</title>
+  <title>Product Developer</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -99,12 +99,11 @@
                   <meta itemprop="position" content="2" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/lowongan/other-it-specialist.php"><span itemprop="name">&nbsp; Other IT
-                      Specialist</span></a>
+                    href="/career/lowongan/programmer.php"><span itemprop="name">&nbsp; Programmer</span></a>
                   <meta itemprop="position" content="3" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Quality Assurance</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Product Developer</span></a>
                   <meta itemprop="position" content="4" />
                 </li>
               </ol>
@@ -112,11 +111,11 @@
           </div>
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
-              <h1 class="header__title">Quality Assurance</h1>
+              <h1 class="header__title">Product Developer</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <img class="career-detail__img" src="/img/career/icon/work.png" alt="Work Type">
-                  <p>Other IT Specialist</p>
+                  <p>Programmer</p>
                 </div>
                 <div class="career-detail__item">
                   <img class="career-detail__img" src="/img/career/icon/time.png" alt="Contract Type">
@@ -138,37 +137,22 @@
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
+                <p class="text-justify">Product Developer bekerja di dalam product department dengan tim product developer dan juga tim digital marketing dengan berkolaborasi dengan product manager. Kami memiliki beberapa tools HR seperti Dokodemo-Kerja dan Nippo. Anda akan melakukan perkembangan pada product yang sudah ada atau membuat product baru . Anda seharusnya dapat mengembangkan produk SAAS dengan merancang sistem dan pemrograman back-end dan front-end. Sebagian besar produk kami buat dikembangkan dari JavaScript dan PHP.</p>
+              </div>
+              <div class="career-requirement">
+                <h3 class="section-title">Job Detail</h3>
                 <ul class="career-list">
                   <li>
-                    Mengembangkan dan memelihara pengujian skenario dan end user script untuk verifikasi fungsi yang
-                    diinginkan klien.
+                    Men design sebuah system architecture.
                   </li>
                   <li>
-                    Memastikan pengujian software atau aplikasi berbasis web agar berjalan dengan semestinya, dan
-                    mendokumentasikan bug serta mencari solusinya.
+                    Melakukan perancangan, pengujian, pemeliharaan dan pengembangan product.
                   </li>
                   <li>
-                    Bertanggung jawab dalam perilisan software dan mendokumentasikan kebutuhan klien sehingga dapat
-                    terpenuhi dengan kualitas yang baik.
+                    Melakukan analisa masalah untuk mencari solusi teknis yang tepat dan efektif dalam pengembangan product.
                   </li>
                   <li>
-                    Bertanggung jawab dalam pembentukan dan eksekusi sebuah pengujian, rencana pengujian, dan performa
-                    sebuah aplikasi.
-                  </li>
-                  <li>
-                    Bekerja sama dengan tim pengembangan untuk memahami hasil yang diharapkan dari proyek yang
-                    dikembangkan maupun yang sudah ada.
-                  </li>
-                  <li>
-                    Dapat memprioritaskan dan menjadwalkan pekerjaan, serta mengungkapkan masalah (bila diperlukan) ke
-                    tim pengembangan masing-masing.
-                  </li>
-                  <li>
-                    Mampu mempertahankan dan Meningkatkan SOP dalam - Manajemen Kepuasan Pelanggan.
-                  </li>
-                  <li>
-                    Mampu mengelola Pusat Bantuan, FAQ, dan Quality knowledge based untuk meningkatkan kualitas layanan
-                    bagi klien.
+                    Membuat laporan kepada product managers.
                   </li>
                 </ul>
               </div>
@@ -176,88 +160,77 @@
                 <h3 class="section-title">Must Skill/Experience</h3>
                 <ul class="career-list">
                   <li>
-                    Min S1 dalam bidang Software Design, Engineering Computer Science atau setingkat.
+                    Memiliki pemikiran yang logis, pengetahuan yang cukup tentang system architecture.
                   </li>
                   <li>
-                    Memiliki pengetahuan tinggi mengenai metodologi software QA dan siklus QA (rencana/desain pengujian,
-                    pelacakan dan pelaporan bug).
+                    Memiliki pengalaman di bidang IT kurang lebih 2 tahun.
                   </li>
                   <li>
-                    Terbiasa menggunakan SQL Script seperti MySQL, Postgres, Linux, Windows.
+                    Familiar with Git, Jenkins dan JavaScript framework.
                   </li>
                   <li>
-                    Terbiasa melakukan pengujian pada web dan mobile (iOS dan Android).
+                    Memiliki kemampuan yang baik dalam penggunaan tools digital.
                   </li>
                   <li>
-                    Terbiasa menggunakan Git, JIRA, Mantis,TestRail, dan beberapa tools lain.
+                    Memiliki kemampuan pemecahan masalah yang baik dan efisien.
                   </li>
                   <li>
-                    Memiliki pengalaman dalam bidang UI dan API Test.
+                    Mampu bekerja dalam tekanan dan deadline sesuai dengan kebutuhan klien.
                   </li>
                   <li>
-                    Kemampuan analisis dan kuantitatif objektivitas kuat terhadap data dalam pengambilan keputusan.
+                    Berpengalaman dalam pembuatan WEB/Sistem.
+                  </li>
+                </ul>
+              </div>
+
+              <div class="career-requirement">
+                <h3 class="section-title">Rewards and Worthwhile</h3>
+                <ul class="career-list">
+                  <li>
+                    Akan memiliki pengalaman dan memahami hal yang berkaitan dengan pengembangan product dan juga digital marketing skill.
                   </li>
                   <li>
-                    Pemahaman yang baik mengenai konsep software engineering.
-                  </li>
-                  <li>
-                    Memiliki kemampuan komunikasi yang baik (lisan dan tertulis).
+                    Dapat mengenal dan memahami bagaimana proses pengembangan sebuah IT product.
                   </li>
                 </ul>
               </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <h3 class="section-title">Rewards dan Worthwhile</h3>
-                <ul class="career-list">
-                  <li>
-                    Dengan jumlah project yang banyak, anda akan menemukan berbagai macam jenis masalah dalam konteks
-                    pengujian QA.
-                  </li>
-                  <li>
-                    Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang
-                    dihadapi.
-                  </li>
-                  <li>Heath Insurance.</li>
-                </ul>
-              </div>
-              <div class="career-requirement">
-                <h3 class="section-title">How a Quality Assurance in LOGIQUE works usually</h3>
+                <h3 class="section-title">How a Product Developer in LOGIQUE works usually</h3>
+                <h4 class="section-subtitle">Product Developer</h4>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:00 – 9:30</div>
-                    <div class="work-schedule__text">Check Google Analytics and inquiries about the product</div>
+                    <div class="work-schedule__time">10:00 – 10:10</div>
+                    <div class="work-schedule__text">Daily Scrum Meeting</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:30 – 10:30</div>
-                    <div class="work-schedule__text">Check and reply for application of demo usage</div>
+                    <div class="work-schedule__time">10:10 – 10:30</div>
+                    <div class="work-schedule__text">Check Trello, Git and Slack, and confirm “to do” today</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">10:30 – 11:30</div>
-                    <div class="work-schedule__text">Have an internal confirmation / meeting with developers and digital
-                      marketers
-                      to
-                      confirm the schedule and progress</div>
+                    <div class="work-schedule__time">10:30 – 12:00</div>
+                    <div class="work-schedule__text">Programming for product A</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">11:30 – 12:30</div>
-                    <div class="work-schedule__text">Lunch Break</div>
+                    <div class="work-schedule__time">12:00 – 13:30</div>
+                    <div class="work-schedule__text">Istirahat makan siang</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">12:30 – 14:00</div>
-                    <div class="work-schedule__text">Plan and arrange offline marketing and event</div>
+                    <div class="work-schedule__time">13:30 – 15:00</div>
+                    <div class="work-schedule__text">Internal meeting dengan product manager mengenai product Logique , laporan progress, membuat target yang baru</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">14:00 – 16:00</div>
-                    <div class="work-schedule__text">Make some wireframes for new features of a product</div>
+                    <div class="work-schedule__time">15:00 – 16:00</div>
+                    <div class="work-schedule__text">Programming / DevOps untuk product logique</div>
                   </div>
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">16:00</div>
-                    <div class="work-schedule__text">Go home</div>
+                    <div class="work-schedule__text">Pulang</div>
                   </div>
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">19:00 – 21:00</div>
-                    <div class="work-schedule__text">Check members’ daily report and give them instructions for Tomorrow
+                    <div class="work-schedule__text">Continue Programming for product A
                     </div>
                   </div>
                 </div>
@@ -271,21 +244,21 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <h3 class="section-title">Job Description</h3>
+              <h3 class="section-title">Salary Range</h3>
               <div class="row">
                 <div class="col-md-4 col-sm-12">
                   <div class="salary-range">
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
-                        <span class="salary-range__salary">100 juta IDR / Year</span>
+                        <span class="salary-range__salary">〜 100 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Quality Assurance:</h5>
+                      <h5 class="section-title">Product <br>Developer:</h5>
                     </div>
                     <ul class="salary-range__list">
-                      <li>Can analyze and suggest what / how we should improve</li>
-                      <li>Can manage development team and run small budget digital marketing campaigns</li>
-                      <li>Good at reporting</li>
+                      <li>Can program / code at least one programming language (PHP or JavaScript)</li>
+                      <li>Can code by following the coding guide without many bugs</li>
+                      <li>Can read programming source that others coded and update them</li>
                     </ul>
                   </div>
                 </div>
@@ -294,16 +267,15 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <span class="salary-range__salary">100 - 200 juta IDR / Year</span>
+                        <span class="salary-range__salary">100 〜 200 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Quality Assurance:</h5>
+                      <h5 class="section-title">Product <br>Developer:</h5>
                     </div>
                     <ul class="salary-range__list">
-                      <li>Can analyze well and decide what / how we should improve</li>
-                      <li>Can manage development team and solve the issues well</li>
-                      <li>Run digital marketing and offline campaigns</li>
-                      <li>Good at reporting and planning</li>
-                      <li>Good at communicating with user clients and solving problems</li>
+                      <li>Can program / code or know some programming languages (at least both PHP and JavaScript)                        
+                      </li>
+                      <li>Can catch up new technology and new things quickly</li>
+                      <li>Can deal with Database well, and should have infrastructure knowledge somehow</li>
                     </ul>
                   </div>
                 </div>
@@ -312,16 +284,14 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <span class="salary-range__salary">200 - 400 juta IDR / Year</span>
+                        <span class="salary-range__salary">200 juta IDR 〜 / Year</span>
                       </div>
-                      <h5 class="section-title">Quality Assurance:</h5>
+                      <h5 class="section-title">Product <br>Manager:</h5>
                     </div>
                     <ul class="salary-range__list">
-                      <li>Can analyze well and decide what / how we should improve</li>
-                      <li>Can manage team members well and have a good communication with other teams</li>
-                      <li>Excellent in reporting to the management and make good strategy</li>
-                      <li>Plan good sales and marketing plan and can do sales activities by themselves</li>
-                      <li>Very good at communicating with user clients</li>
+                      <li>Have a system architect and design knowledge and good at DevOps</li>
+                      <li>Good coding knowledge and can lead other developers</li>
+                      <li>Have a high ability of solving a problem and Code fast</li>
                     </ul>
                   </div>
                 </div>

@@ -99,8 +99,7 @@
                   <meta itemprop="position" content="2" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/lowongan/Digital Marketing Specialist-dm.php"><span itemprop="name">&nbsp; Digital
-                      Marketing Specialist / Digital
+                    href="/career/lowongan/designer-dm.php"><span itemprop="name">&nbsp; Designer / Digital
                       Marketing</span></a>
                   <meta itemprop="position" content="3" />
                 </li>

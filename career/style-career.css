@@ -1500,9 +1500,13 @@ span.role--title {
 }
 .salary-range__salary {
   font-weight: bold;
-  margin: 0;
-  min-width: 230px;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: 10px;
+  min-width: 170px;
+  max-width: 240px;
   flex-basis: auto;
+  flex-grow: 1;
 }
 .work-schedule__text {
   flex-basis: 70%;
@@ -1517,7 +1521,6 @@ span.role--title {
 .salary-range__head-top {
   font-family: "Open Sans", sans-serif;
   display: flex;
-  flex-wrap: wrap;
   align-items: baseline;
   justify-content: space-between;
 }
