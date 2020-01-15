@@ -1457,6 +1457,9 @@ span.role--title {
   align-items: center;
   margin-bottom: 1em;
 }
+.career-detail__item:not(:last-of-type) {
+  margin-right: 20px;
+}
 .career-requirement {
   margin-bottom: 2.5em;
   padding: 0 15px;

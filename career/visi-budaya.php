@@ -106,7 +106,7 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-offset-1 col-lg-5 col-md-8 col-sm-10">
+            <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
               <h1 class="header__title">Visi & Budaya Kerja LOGIQUE</h1>
               <p>
                 Di LOGIQUE, kami mempunyai visi dan budaya kerja yang unik dan berbeda dibandingkan dengan perusahaan

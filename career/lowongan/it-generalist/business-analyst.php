@@ -110,7 +110,7 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-offset-1 col-lg-5 col-md-8 col-sm-10">
+            <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
               <h1 class="header__title">Business Analyst</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
@@ -136,7 +136,7 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <h3 class="section-title">Job Description:</h3>
+                <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
                   <li>
                     Melakukan analisa terhadap business requirement dan mengkomunikasikannya dengan client melalui media
@@ -163,7 +163,7 @@
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">Must Skill/Experience:</h3>
+                <h3 class="section-title">Required Skill</h3>
                 <ul class="career-list">
                   <li>
                     Memiliki pengalaman sebagai Business Analyst minimal 2 tahun.

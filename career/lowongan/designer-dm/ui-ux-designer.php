@@ -111,12 +111,12 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-offset-1 col-lg-5 col-md-8 col-sm-10">
+            <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
               <h1 class="header__title">UI/UX Designer</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <img class="career-detail__img" src="/img/career/icon/work.png" alt="Work Type">
-                  <p>IT Generalist</p>
+                  <p>Designer / Digital Marketing</p>
                 </div>
                 <div class="career-detail__item">
                   <img class="career-detail__img" src="/img/career/icon/time.png" alt="Contract Type">
@@ -137,7 +137,7 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <h3 class="section-title">Job Description:</h3>
+                <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
                   <li>
                     Pendidikan minimal D3 Jurusan Komputer, Design Komunikasi Visual.
@@ -160,7 +160,7 @@
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">Requirements:</h3>
+                <h3 class="section-title">Requirements</h3>
                 <ul class="career-list">
                   <li>
                     Pernah bekerja sebagai UI/UX designer (terbuka untuk fresh graduate).
@@ -181,7 +181,7 @@
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">Required Skill:</h3>
+                <h3 class="section-title">Required Skill</h3>
                 <ul class="career-list">
                   <li>
                     Memiliki kemampuan untuk menggunakan software desain (Photoshop, Illustrator, dll).
