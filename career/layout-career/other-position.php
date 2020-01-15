@@ -63,7 +63,7 @@
             <a href="#" class="see-position__item bg--bo" style="--image-url(../../img/career/bg/bg-bo.png);">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
-                <h3 class="section-title">BackOffice</h3>
+                <h3 class="section-title">Back Office</h3>
               </div>
               <p>
                 GA, HR, Accounting
