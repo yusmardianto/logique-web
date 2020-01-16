@@ -16,7 +16,7 @@
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a href="#" class="see-position__item bg--programmer">
+            <a href="/career/lowongan/programmer.php" class="see-position__item bg--programmer">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
                 <h3 class="section-title">Programmer</h3>
@@ -27,7 +27,7 @@
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a href="#" class="see-position__item bg--design">
+            <a href="/career/lowongan/designer-dm.php" class="see-position__item bg--design">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
                 <h3 class="section-title">Designer / <br> Digital Marketing</h3>
@@ -38,7 +38,7 @@
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a href="#" class="see-position__item bg--specialist">
+            <a href="/career/lowongan/other-it-specialist.php" class="see-position__item bg--specialist">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
                 <h3 class="section-title">Other IT Specialist</h3>

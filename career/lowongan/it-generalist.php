@@ -18,7 +18,7 @@
   <meta property="og:description"
     content="Saatnya berkarir dan kembangkan potensimu - Career at Logique Bergabunglah dan jadilah bagian dari perkembangan teknologi digital di Indonesia bersama Logique. Anda juga akan memiliki kesempatan luas untuk mengembangkan potensi dan karir Anda, serta berkarya dengan jam kerja yang fleksibel.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan</title>
+  <title>IT Generalist</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -121,7 +121,7 @@
 
       <?php include '../layout-career/lowongan-position.php'; ?>
       <?php include '../layout-career/news-recruitment-topic.php'; ?>
-      <?php include '../layout-career/other-vacancy.php'; ?>
+      <?php include '../layout-career/lowongan-lain.php'; ?>
       <?php include '../layout-career/link-section.php'; ?>
       <?php include '../layout-career/contact-lgq.php'; ?>
     </div>

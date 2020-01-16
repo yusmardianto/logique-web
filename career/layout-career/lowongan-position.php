@@ -35,6 +35,101 @@
           </div>
         </div>
         <?php endif; ?>
+
+        <?php if ($cat_vacancy === 'designer-dm'): ?>
+        <h2 class="section-title">Lowongan Designer / Digital Marketing</h2>
+        <div class="row lowongan-position">
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/designer-dm/digital-marketing-specialist.php"
+              class="lowongan-position__item bg--lowongan-project-manager">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">Digital Marketing Specialist</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/designer-dm/ui-ux-designer.php"
+              class="lowongan-position__item bg--lowongan-business-analyst">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">UI/UX Designer</h3>
+            </a>
+          </div>
+        </div>
+        <?php endif; ?>
+
+        <?php if ($cat_vacancy === 'other-it-specialist'): ?>
+        <h2 class="section-title">Lowongan Other IT Specialist</h2>
+        <div class="row lowongan-position">
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/other-it-specialist/devops.php"
+              class="lowongan-position__item bg--lowongan-project-manager">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">DevOps</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/other-it-specialist/it-security-specialist.php"
+              class="lowongan-position__item bg--lowongan-business-analyst">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">IT Security Specialist</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/other-it-specialist/quality-assurance.php"
+              class="lowongan-position__item bg--lowongan-business-analyst">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">Quality Assurance</h3>
+            </a>
+          </div>
+        </div>
+        <?php endif; ?>
+
+        <?php if ($cat_vacancy === 'programmer'): ?>
+        <h2 class="section-title">Lowongan Programmer</h2>
+        <div class="row lowongan-position">
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/product-developer.php"
+              class="lowongan-position__item bg--lowongan-project-manager">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">Product Developer</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/web-developer.php"
+              class="lowongan-position__item bg--lowongan-business-analyst">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">Web Developer</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/frontend-developer.php"
+              class="lowongan-position__item bg--lowongan-project-manager">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">Front End Developer</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/reactjs-developer.php"
+              class="lowongan-position__item bg--lowongan-business-analyst">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">React JS Developer</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/react-native-developer.php"
+              class="lowongan-position__item bg--lowongan-project-manager">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">React Native Developer</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/mobile-app-developer.php"
+              class="lowongan-position__item bg--lowongan-business-analyst">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">Mobile App Developer</h3>
+            </a>
+          </div>
+        </div>
+        <?php endif; ?>
       </div>
     </div>
   </div>
