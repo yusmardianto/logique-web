@@ -753,7 +753,7 @@ ul.medsos-new li a {
   background: url("../img//career/bg-img/bg-working.png") center/cover no-repeat;
 }
 .bg--yoshi {
-  background: url("../img/career/bg-img/bg-yoshi.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-yoshi.png") 25% top/cover no-repeat;
 }
 .bg--salary {
   background: url("../img/career/bg-img/bg-salary.png") center/cover no-repeat;
@@ -867,17 +867,6 @@ ul.medsos-new li a {
   background: url("/img/career/bg-img/bg-it-generalist.png") center/cover
     no-repeat;
 }
-
-@media (min-width: 1024px) and (max-width: 1280px) {
-  .bg--yoshi {
-    background-position-x: 30%;
-  }
-}
-@media only screen and (min-width: 768px) and (max-width: 1023.98px) {
-  .bg--yoshi {
-    background-position-x: 25%;
-  }
-}
 /* END BG */
 
 /* Margin */
@@ -957,8 +946,12 @@ ul.medsos-new li a {
 }
 
 span.role--title {
-  font-weight: 600;
-  font-size: 16px;
+  display: inline-block;
+  margin-top: 10px;
+  font-weight: 800;
+  font-size: 14px;
+  letter-spacing: 0.4px;
+  font-family: "Raleway", sans-serif;
 }
 
 @media (max-width: 767px) {
@@ -1399,17 +1392,49 @@ span.role--title {
 /* End HR Rule */
 
 /* message */
+.message--header {
+  background-color: rgba(255, 255, 255, 0.65);
+  padding: 50px 25px;
+  color: #fff;
+}
+@media (min-width: 992px) {
+  .message--header {
+    background-color: transparent;
+    padding: 0;
+    color: #000;
+  }
+}
 .message__img-text {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  padding-top: 70px;
+  position: relative;
+  height: 100%;
+  width: 100%;
+  padding-top: 300px;
   padding-bottom: 25px;
   padding-left: 20px;
   padding-right: 20px;
   font-size: 14px;
   color: #fff;
+  background-position: 65% top;
+  /* background-position: top center; */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.message__img-text.bg--ghitta {
+  background-image: url("/img/career/ghitta.jpg");
+}
+.message__img-text.bg--taufik {
+  background-image: url("/img/career/taufik.jpg");
+}
+.message__img-text.bg--muklis {
+  background-image: url("/img/career/muklis.jpg");
+}
+.message__img-text .message__overlay {
+  position: absolute;
+  width: 100%;
+  top: 70px;
+  bottom: 0;
+  left: 0;
   background: rgb(244, 242, 242);
   background: -moz-linear-gradient(
     180deg,
@@ -1427,6 +1452,11 @@ span.role--title {
     rgba(0, 0, 0, 0.700717787114846) 40%
   );
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4f2f2",endColorstr="#000000",GradientType=1);
+}
+
+.message__img-text .message__text-wrapper {
+  position: relative;
+  z-index: 5;
 }
 .message__text-title {
   font-size: 28px;
