@@ -121,7 +121,7 @@
 
       <?php include '../layout-career/lowongan-position.php'; ?>
       <?php include '../layout-career/news-recruitment-topic.php'; ?>
-      <?php include '../layout-career/other-vacancy.php'; ?>
+      <?php include '../layout-career/lowongan-lain.php'; ?>
       <?php include '../layout-career/link-section.php'; ?>
       <?php include '../layout-career/contact-lgq.php'; ?>
     </div>

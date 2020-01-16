@@ -221,7 +221,7 @@
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <h3 class="section-title">Rewards dan Worthwhile</h3>
+                <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
                   <li>
                     Kesempatan bertemu banyak klien dari berbagai macam bidang dan industri.
@@ -231,7 +231,7 @@
                   </li>
                 </ul>
               </div>
-              <div class="career-requirement">
+              <!-- <div class="career-requirement">
                 <h3 class="section-title">How a Product Manager in LOGIQUE works usually</h3>
                 <h4 class="section-subtitle">Product Manager Assistant</h4>
                 <div class="work-schedule">
@@ -272,13 +272,13 @@
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
       </section>
 
-      <section class="container-fluid bg--salary">
+      <!-- <section class="container-fluid bg--salary">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -340,7 +340,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <section class="container-fluid bg--career-apply" style="margin-top:2.5em;">
         <div class="container--max-width">

@@ -214,7 +214,8 @@
                   </li>
                 </ul>
               </div>
-
+            </div>
+            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
@@ -229,8 +230,6 @@
                   </li>
                 </ul>
               </div>
-            </div>
-            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <!-- <div class="career-requirement">
                 <h3 class="section-title">How a React JS Developer in LOGIQUE works usually</h3>
                 <h4 class="section-subtitle">React JS Developer</h4>

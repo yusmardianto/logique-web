@@ -267,7 +267,7 @@
               </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
-              <div class="career-requirement">
+              <!-- <div class="career-requirement">
                 <h3 class="section-title">How a DevOps in LOGIQUE works usually</h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
@@ -307,13 +307,13 @@
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
       </section>
 
-      <section class="container-fluid bg--salary">
+      <!-- <section class="container-fluid bg--salary">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -375,7 +375,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <section class="container-fluid bg--career-apply" style="margin-top:2.5em;">
         <div class="container--max-width">

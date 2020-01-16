@@ -148,7 +148,7 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/other-it-specialist/quality-assurance.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/quality.png" alt="QA Specialist">
@@ -174,7 +174,7 @@
 
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/designer-dm/ui-ux-designer.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/ux.png" alt="UI/UX Designer">
@@ -241,7 +241,7 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/it-generalist/business-analyst.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/analysis.png"
@@ -268,7 +268,7 @@
 
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/it-generalist/product-manager.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/clock.png" alt="Product Manager">
@@ -307,7 +307,7 @@
                   <h2 class="heading-black mb--40">Lowongan Programmer</h2>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/programmer/web-developer.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Web Developer">
@@ -332,7 +332,7 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/programmer/frontend-developer.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
@@ -358,7 +358,7 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/programmer/reactjs-developer.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
@@ -387,7 +387,7 @@
 
               <div class="row row__same-height">
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/programmer/react-native-developer.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
@@ -532,7 +532,7 @@
                   <h2 class="heading-black mb--40">Lowongan Designer / Digital Marketing</h2>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/designer-dm/ui-ux-designer.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/ux.png" alt="UI/UX Designer">
@@ -584,7 +584,7 @@
 
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/designer-dm/digital-marketing-specialist.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/digital-ads.png"
@@ -677,7 +677,7 @@
                   <h2 class="heading-black mb--40">Lowongan Other IT Specialist</h2>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/other-it-specialist/it-security-specialist.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/password.png"
@@ -703,7 +703,7 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/other-it-specialist/devops.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/server.png" alt="DevOps">
@@ -728,7 +728,7 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/other-it-specialist/quality-assurance.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/quality.png" alt="QA Specialist">

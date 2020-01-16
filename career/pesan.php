@@ -109,7 +109,7 @@
           <div class="row">
             <div class="col-sm-offset-6 col-sm-5">
               <h1 class="header__title --black">Pesan Untuk Kandidat</h1>
-              <p>“Saya berharap dapat berbicara banyak hal dengan Anda.”</p>
+              <p>“Terima kasih telah mengunjungi halaman karir LOGIQUE. LOGIQUE adalah perusahaan yang menyenangkan, digerakkan oleh orang-orang hebat yang profesional, bekerja keras, dan senang bekerja dalam tim yang bersahabat. Tujuan saya adalah mengembangkan potensi penuh yang dimiliki orang-orang hebat ini sehingga LOGIQUE juga ikut menjadi perusahaan hebat. Saya suka orang yang rajin dan mau berjuang. Saya terus berusaha memberi mereka peluang terbaik untuk bisa sukses besar. Jika Anda mau bergabung bersama kami, tim kami adalah fondasi dari kesuksesan masa depan perusahaan. Perjalanan kita di sini akan menantang sekaligus memberikan manfaat. Mari berkembang dan meraih kesuksesan besar bersama-sama.”</p>
               <span class="header__sub-title role--title --black">Founder & CEO LOGIQUE Digital Indonesia</span>
             </div>
           </div>
@@ -185,13 +185,13 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <div class="row">
+              <!-- <div class="row">
                 <div class="col-sm-12">
                   <img class="img-responsive" src="../../img/career/bg-img/dummy-video.png" alt=""
                     style="min-width:100%">
                 </div>
-              </div>
-              <div class="row message-img">
+              </div> -->
+              <!-- <div class="row message-img">
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
                     <img src="../../img/career/bg-img/dummy-img-1.png" alt="">
@@ -237,10 +237,10 @@
                     <img src="../../img/career/bg-img/dummy-img-9.png" alt="">
                   </div>
                 </div>
-              </div>
+              </div> -->
               <div class="row">
                 <div class="col-sm-12">
-                  <a href="#" class="form-control main-btn --yellow bg--btn-intern">Lihat Aktivitas Magang di
+                  <a href="/career/intern" class="form-control main-btn --yellow bg--btn-intern">Lihat Aktivitas Magang di
                     LOGIQUE</a>
                 </div>
               </div>

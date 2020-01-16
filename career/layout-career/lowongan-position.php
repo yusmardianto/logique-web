@@ -60,10 +60,10 @@
         <h2 class="section-title">Lowongan Other IT Specialist</h2>
         <div class="row lowongan-position">
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/other-it-specialist/devops.php"
-              class="lowongan-position__item bg--lowongan-project-manager">
+            <a href="/career/lowongan/other-it-specialist/quality-assurance.php"
+              class="lowongan-position__item bg--lowongan-business-analyst">
               <div class="lowongan-position__overlay"></div>
-              <h3 class="section-title">DevOps</h3>
+              <h3 class="section-title">Quality Assurance</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -74,10 +74,10 @@
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/other-it-specialist/quality-assurance.php"
-              class="lowongan-position__item bg--lowongan-business-analyst">
+            <a href="/career/lowongan/other-it-specialist/devops.php"
+              class="lowongan-position__item bg--lowongan-project-manager">
               <div class="lowongan-position__overlay"></div>
-              <h3 class="section-title">Quality Assurance</h3>
+              <h3 class="section-title">DevOps</h3>
             </a>
           </div>
         </div>

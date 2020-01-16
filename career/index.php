@@ -134,11 +134,11 @@
                   <h4 class="section-subtitle">Talk to us</h4>
                   <div class="talk-to">
                     <a href="https://wa.me/+6282260567856" target="_blank" class="talk-to__item">
-                      <img class="talk-to__img" src="../../img/career/icon/wa.png" alt="Whatsapp Number">
+                      <img class="talk-to__img" src="/img/career/icon/wa.png" alt="Whatsapp Number">
                       <span class="talk-to__ctc">082260567856</span>
                     </a>
                     <a href="mailto:recruit@logique.co.id" class="talk-to__item">
-                      <img class="talk-to__img" src="../../img/career/icon/mail.png" alt="Email">
+                      <img class="talk-to__img" src="/img/career/icon/mail.png" alt="Email">
                       <span class="talk-to__ctc">recruit@logique.co.id</span>
                     </a>
                   </div><br>
@@ -146,16 +146,16 @@
                 <div class="col-md-6 col-sm-12">
                   <h2 class="section-title">Dibutuhkan Segera!</h2>
                   <div class="urgent-need">
-                    <a href="#" class="urgent-need__item">
-                      <img class="urgent-need__img" src="../../img/career/icon/ux.png" alt="UI/UX Designer">
+                    <a href="/career/lowongan/designer-dm/ui-ux-designer.php" class="urgent-need__item">
+                      <img class="urgent-need__img" src="/img/career/icon/ux.png" alt="UI/UX Designer">
                       <div class="urgent-need__text">UI/UX Designer</div>
                     </a>
-                    <a href="#" class="urgent-need__item">
-                      <img class="urgent-need__img" src="../../img/career/icon/dm.png" alt="Digital Marketing">
+                    <a href="/career/lowongan/designer-dm/digital-marketing-specialist.php" class="urgent-need__item">
+                      <img class="urgent-need__img" src="/img/career/icon/dm.png" alt="Digital Marketing">
                       <div class="urgent-need__text">Digital Marketing</div>
                     </a>
-                    <a href="#" class="urgent-need__item">
-                      <img class="urgent-need__img" src="../../img/career/icon/web-dev.png" alt="Front End Developer">
+                    <a href="/career/lowongan/programmer/frontend-developer.php" class="urgent-need__item">
+                      <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Front End Developer">
                       <div class="urgent-need__text">Front End Developer</div>
                     </a>
                   </div>

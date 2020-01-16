@@ -170,7 +170,8 @@
                   <li>Dapat menambah portfolio dalam pembuatan mobile aplikasi.</li>
                 </ul>
               </div>
-
+            </div>
+            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
@@ -179,8 +180,6 @@
                   <li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya).</li>
                 </ul>
               </div>
-            </div>
-            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <!-- <div class="career-requirement">
                 <h3 class="section-title">How a React Native Developer in LOGIQUE works usually</h3>
                 <h4 class="section-subtitle">React Native Developer</h4>
