@@ -603,7 +603,9 @@
             <div class="container__">
                 <div class="row">
                     <div class="col-sm-12">
-                        <img alt="Assesment Flow" src="assets/img/img-pentest/assesment-flow.jpg" class="img-responsive center-block">
+                        <a href="#sampleReport">
+                            <img alt="Assesment Flow" src="assets/img/img-pentest/assesment-flow.jpg" class="img-responsive center-block">
+                        </a>
                     </div>
                 </div>
             </div>
@@ -776,24 +778,27 @@
             </div>
         </section>
 
-        <section>
+        <section id=sampleReport>
             <br />
-            <div class="mengapa-harus"><a href="/en/" target="_blank">Sample Report</div>
+            <div class="mengapa-harus">Sample Report</div>
             <div class="container__">
                 <div class="row sample-report">
                     <div class="col-sm-4">
                         <a href="assets/img/img-pentest/sample-report-sql.jpg" data-toggle="lightbox">
-                            <img src="assets/img/img-pentest/sample-report-sql.jpg" class="img-responsive" alt="">
+                            <img src="assets/img/img-pentest/sample-report-sql.jpg" class="img-responsive" alt="SQL Injection">
+                            <div class="sample-report__text text-center">SQL Injection</div>
                         </a>
                     </div>
                     <div class="col-sm-4">
                         <a href="assets/img/img-pentest/sample-report-missing.jpg" data-toggle="lightbox">
-                            <img src="assets/img/img-pentest/sample-report-missing.jpg" class="img-responsive" alt="">
+                            <img src="assets/img/img-pentest/sample-report-missing.jpg" class="img-responsive" alt="Missing Authorization Mechanism">
+                            <div class="sample-report__text text-center">Missing Authorization Mechanism</div>
                         </a>
                     </div>
                     <div class="col-sm-4">
                         <a href="assets/img/img-pentest/sample-report-bypass.jpg" data-toggle="lightbox">
-                            <img src="assets/img/img-pentest/sample-report-bypass.jpg" class="img-responsive" alt="">
+                            <img src="assets/img/img-pentest/sample-report-bypass.jpg" class="img-responsive" alt="Bypassing Unrestricted File Upload">
+                            <div class="sample-report__text text-center">Bypassing Unrestricted File Upload</div>
                         </a>
                     </div>
                 </div>
@@ -854,14 +859,14 @@
 	 -->
     <script src="assets/js/jquery.matchHeight.js"></script>
     <script src="assets/js/wow.min.js"></script>
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
 
     <script>
         $(document).on('click', '[data-toggle="lightbox"]', function(event) {
             event.preventDefault();
             $(this).ekkoLightbox();
-        });</script>
+        });
+    </script>
 </body>
 <script>
 $(function() {

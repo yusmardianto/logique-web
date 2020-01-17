@@ -366,6 +366,12 @@
 .sample-report .col-sm-4 {
   padding: 15px;
 }
+.sample-report__text {
+  color: #000;
+}
+.sample-report .col-sm-4:hover .sample-report__text {
+  color: #ffca13;
+}
 .ekko-lightbox .modal-dialog {
   width: 70% !important;
 }
