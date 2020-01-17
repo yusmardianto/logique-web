@@ -25,6 +25,7 @@
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.css">
     <script>
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
@@ -775,6 +776,30 @@
             </div>
         </section>
 
+        <section>
+            <br />
+            <div class="mengapa-harus"><a href="/en/" target="_blank">Sample Report</div>
+            <div class="container__">
+                <div class="row sample-report">
+                    <div class="col-sm-4">
+                        <a href="assets/img/img-pentest/sample-report-sql.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-sql.jpg" class="img-responsive" alt="">
+                        </a>
+                    </div>
+                    <div class="col-sm-4">
+                        <a href="assets/img/img-pentest/sample-report-missing.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-missing.jpg" class="img-responsive" alt="">
+                        </a>
+                    </div>
+                    <div class="col-sm-4">
+                        <a href="assets/img/img-pentest/sample-report-bypass.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-bypass.jpg" class="img-responsive" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section class="footer">
             <div class="container__">
                 <div class="row">
@@ -829,6 +854,14 @@
 	 -->
     <script src="assets/js/jquery.matchHeight.js"></script>
     <script src="assets/js/wow.min.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
+
+    <script>
+        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+            event.preventDefault();
+            $(this).ekkoLightbox();
+        });</script>
 </body>
 <script>
 $(function() {
