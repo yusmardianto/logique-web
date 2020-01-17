@@ -85,7 +85,7 @@
 
     <div class="career-update content-wrapper__">
 
-      <section class="container-fluid --top bg--project-manager">
+      <section class="container-fluid --top bg--main-react-js-dev">
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">

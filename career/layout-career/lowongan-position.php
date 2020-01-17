@@ -12,7 +12,7 @@
         <div class="row lowongan-position">
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/it-generalist/project-manager.php"
-              class="lowongan-position__item bg--lowongan-project-manager">
+              class="lowongan-position__item bg--sub-project-manager">
               <div class="lowongan-position__overlay"></div>
               <span class="other-position__urgent">Urgently Needed</span>
               <h3 class="section-title">Project Manager</h3>
@@ -20,7 +20,7 @@
           </div>
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/it-generalist/business-analyst.php"
-              class="lowongan-position__item bg--lowongan-business-analyst">
+              class="lowongan-position__item bg--sub-business-analyst">
               <div class="lowongan-position__overlay"></div>
               <span class="other-position__urgent">Urgently Needed</span>
               <h3 class="section-title">Business Analyst</h3>
@@ -28,9 +28,16 @@
           </div>
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/it-generalist/product-manager.php"
-              class="lowongan-position__item bg--lowongan-product-manager">
+              class="lowongan-position__item bg--sub-product-manager">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Product Manager</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/it-generalist/consultant.php"
+              class="lowongan-position__item bg--sub-product-manager">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">Consultant</h3>
             </a>
           </div>
         </div>
@@ -41,14 +48,14 @@
         <div class="row lowongan-position">
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/designer-dm/digital-marketing-specialist.php"
-              class="lowongan-position__item bg--lowongan-project-manager">
+              class="lowongan-position__item bg--sub-dm-specialist">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Digital Marketing Specialist</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/designer-dm/ui-ux-designer.php"
-              class="lowongan-position__item bg--lowongan-business-analyst">
+              class="lowongan-position__item bg--sub-ui-ux-designer">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">UI/UX Designer</h3>
             </a>
@@ -61,21 +68,21 @@
         <div class="row lowongan-position">
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/other-it-specialist/quality-assurance.php"
-              class="lowongan-position__item bg--lowongan-business-analyst">
+              class="lowongan-position__item bg--sub-qa">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Quality Assurance</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/other-it-specialist/it-security-specialist.php"
-              class="lowongan-position__item bg--lowongan-business-analyst">
+              class="lowongan-position__item bg--sub-security-specialist">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">IT Security Specialist</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/other-it-specialist/devops.php"
-              class="lowongan-position__item bg--lowongan-project-manager">
+              class="lowongan-position__item bg--sub-devops">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">DevOps</h3>
             </a>
@@ -88,42 +95,42 @@
         <div class="row lowongan-position">
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/product-developer.php"
-              class="lowongan-position__item bg--lowongan-project-manager">
+              class="lowongan-position__item bg--sub-product-dev">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Product Developer</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/web-developer.php"
-              class="lowongan-position__item bg--lowongan-business-analyst">
+              class="lowongan-position__item bg--sub-web-dev">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Web Developer</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/frontend-developer.php"
-              class="lowongan-position__item bg--lowongan-project-manager">
+              class="lowongan-position__item bg--sub-front-end-dev">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Front End Developer</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/reactjs-developer.php"
-              class="lowongan-position__item bg--lowongan-business-analyst">
+              class="lowongan-position__item bg--sub-react-js-dev">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">React JS Developer</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/react-native-developer.php"
-              class="lowongan-position__item bg--lowongan-project-manager">
+              class="lowongan-position__item bg--sub-react-native-dev">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">React Native Developer</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/mobile-app-developer.php"
-              class="lowongan-position__item bg--lowongan-business-analyst">
+              class="lowongan-position__item bg--sub-mobile-app-dev">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Mobile App Developer</h3>
             </a>

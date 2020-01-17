@@ -758,9 +758,6 @@ ul.medsos-new li a {
 .bg--salary {
   background: url("../img/career/bg-img/bg-salary.png") center/cover no-repeat;
 }
-.bg--project-manager {
-  background: url("../img/career/bg-img/bg-pm.png") center/cover no-repeat;
-}
 
 .bg--vision {
   background: url("../img/career/bg-img/bg-vision.png") center/cover no-repeat;
@@ -867,6 +864,130 @@ ul.medsos-new li a {
   background: url("/img/career/bg-img/bg-it-generalist.png") center/cover
     no-repeat;
 }
+
+.bg--main-project-manager {
+  background: url("/img/career/bg-img/bg-main-project-manager.png") center/cover
+    no-repeat;
+}
+.bg--sub-project-manager {
+  background: url("/img/career/bg-img/bg-sub-project-manager.png") center/cover
+    no-repeat;
+}
+
+.bg--main-business-analyst {
+  background: url("/img/career/bg-img/bg-main-business-analyst.png")
+    center/cover no-repeat;
+}
+.bg--sub-business-analyst {
+  background: url("/img/career/bg-img/bg-sub-business-analyst.png") center/cover
+    no-repeat;
+}
+
+.bg--main-product-manager {
+  background: url("/img/career/bg-img/bg-main-product-manager.png") center/cover
+    no-repeat;
+}
+.bg--sub-product-manager {
+  background: url("/img/career/bg-img/bg-sub-product-manager.png") center/cover
+    no-repeat;
+}
+
+.bg--main-dm-specialist {
+  background: url("/img/career/bg-img/bg-main-dm-specialist.png") center/cover
+    no-repeat;
+}
+.bg--sub-dm-specialist {
+  background: url("/img/career/bg-img/bg-sub-dm-specialist.png") center/cover
+    no-repeat;
+}
+
+.bg--main-ui-ux-designer {
+  background: url("/img/career/bg-img/bg-main-ui-ux-designer.png") center/cover
+    no-repeat;
+}
+.bg--sub-ui-ux-designer {
+  background: url("/img/career/bg-img/bg-sub-ui-ux-designer.png") center/cover
+    no-repeat;
+}
+
+.bg--main-qa {
+  background: url("/img/career/bg-img/bg-main-qa.png") center/cover no-repeat;
+}
+.bg--sub-qa {
+  background: url("/img/career/bg-img/bg-sub-qa.png") center/cover no-repeat;
+}
+
+.bg--main-security-specialist {
+  background: url("/img/career/bg-img/bg-main-security-specialist.png")
+    center/cover no-repeat;
+}
+.bg--sub-security-specialist {
+  background: url("/img/career/bg-img/bg-sub-security-specialist.png")
+    center/cover no-repeat;
+}
+
+.bg--main-devops {
+  background: url("/img/career/bg-img/bg-main-devops.png") center/cover
+    no-repeat;
+}
+.bg--sub-devops {
+  background: url("/img/career/bg-img/bg-sub-devops.png") center/cover no-repeat;
+}
+
+.bg--main-product-dev {
+  background: url("/img/career/bg-img/bg-main-product-dev.png") center/cover
+    no-repeat;
+}
+.bg--sub-product-dev {
+  background: url("/img/career/bg-img/bg-sub-product-dev.png") center/cover
+    no-repeat;
+}
+
+.bg--main-web-dev {
+  background: url("/img/career/bg-img/bg-main-web-dev.png") center/cover
+    no-repeat;
+}
+.bg--sub-web-dev {
+  background: url("/img/career/bg-img/bg-sub-web-dev.png") center/cover
+    no-repeat;
+}
+
+.bg--main-front-end-dev {
+  background: url("/img/career/bg-img/bg-main-front-end-dev.png") center/cover
+    no-repeat;
+}
+.bg--sub-front-end-dev {
+  background: url("/img/career/bg-img/bg-sub-front-end-dev.png") center/cover
+    no-repeat;
+}
+
+.bg--main-react-js-dev {
+  background: url("/img/career/bg-img/bg-main-react-js-dev.png") center/cover
+    no-repeat;
+}
+.bg--sub-react-js-dev {
+  background: url("/img/career/bg-img/bg-sub-react-js-dev.png") center/cover
+    no-repeat;
+}
+
+.bg--main-react-native-dev {
+  background: url("/img/career/bg-img/bg-main-react-native-dev.png") center/cover
+    no-repeat;
+}
+.bg--sub-react-native-dev {
+  background: url("/img/career/bg-img/bg-sub-react-native-dev.png") center/cover
+    no-repeat;
+}
+
+.bg--main-mobile-app-dev {
+  background: url("/img/career/bg-img/bg-main-mobile-app-dev.png") center/cover
+    no-repeat;
+}
+.bg--sub-mobile-app-dev {
+  background: url("/img/career/bg-img/bg-sub-mobile-app-dev.png") center/cover
+    no-repeat;
+}
+
 /* END BG */
 
 /* Margin */
