@@ -35,7 +35,7 @@
           </div>
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/it-generalist/consultant.php"
-              class="lowongan-position__item bg--sub-product-manager">
+              class="lowongan-position__item bg--sub-consultant">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Consultant</h3>
             </a>

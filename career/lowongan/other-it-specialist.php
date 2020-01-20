@@ -84,7 +84,7 @@
     <?php include '../layout-career/header-career.php'; ?>
 
     <div class="career-update content-wrapper__">
-      <section class="container-fluid --top bg--it-generalist">
+      <section class="container-fluid --top bg--main-other-it-specialist">
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
