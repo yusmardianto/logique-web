@@ -49,7 +49,7 @@
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a href="#" class="see-position__item bg--sales">
+            <a href="/career/lowongan/sales-marketing.php" class="see-position__item bg--sales">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
                 <h3 class="section-title">Sales & Marketing</h3>
@@ -60,7 +60,7 @@
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a href="#" class="see-position__item bg--bo" style="--image-url(../../img/career/bg/bg-bo.png);">
+            <a href="/career/lowongan/back-office.php" class="see-position__item bg--bo" style="--image-url(../../img/career/bg/bg-bo.png);">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
                 <h3 class="section-title">Back Office</h3>
