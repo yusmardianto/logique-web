@@ -1315,6 +1315,40 @@ span.role--title {
     height: 215px;
   }
 }
+
+.bg--lowongan-intern {
+  background: url("/img/career/bg-img/bg-banner-intern.png") center/cover
+    no-repeat;
+  padding: 2rem 5%;
+  border-radius: 20px;
+  margin-top: 5rem;
+}
+
+@media (min-width: 1200px) {
+  .bg--lowongan-intern {
+    background-size: 100% 100%;
+  }
+}
+
+.bg--lowongan-intern .section-title {
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.bg--lowongan-intern p {
+  font-weight: 500;
+  color: #000;
+  line-height: 1.5;
+}
+
+@media (min-width: 768px) {
+  .bg--lowongan-intern a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+}
 /* End See Position */
 
 /* Contact Section */
