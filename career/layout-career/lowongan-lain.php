@@ -88,7 +88,7 @@
           </div>
           <?php endif; ?>
           <div class="col-xs-12">
-            <div class="bg--lowongan-intern">
+            <div class="bg--lowongan-intern" style="margin-top: 5rem;">
               <div class="row row__same-height">
                 <div class="col-md-6" style="padding-top: 8px; padding-bottom: 8px;">
                   <h3 class="section-title">Lowongan Magang</h3>

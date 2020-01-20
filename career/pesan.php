@@ -249,10 +249,25 @@
                   </div>
                 </div>
               </div> -->
-              <div class="row">
+              <!-- <div class="row">
                 <div class="col-sm-12">
                   <a href="/career/intern" class="form-control main-btn --yellow bg--btn-intern">Lihat Aktivitas Magang di
                     LOGIQUE</a>
+                </div>
+              </div> -->
+              <div class="col-xs-12">
+                <div class="bg--lowongan-intern">
+                  <div class="row row__same-height">
+                    <div class="col-md-6" style="padding-top: 8px; padding-bottom: 8px;">
+                      <h3 class="section-title">Lowongan Magang</h3>
+                      <p>Kami membuka lowongan magang bagi mahasiswa atau mahasiswi sesuai dengan kompetensi yang dimiliki.</p>
+                    </div>
+                    <div class="col-md-6" style="padding-top: 8px; padding-bottom: 8px;">
+                      <a href="/career/intern/index.php">
+                        <img class="img-responsive" src="/img/career/bg-img/bg-btn-black-intern.png" alt="LIHAT KESEHARIAN MAGANG DI LOGIQUE">
+                      </a>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
