@@ -111,7 +111,7 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
+            <div class="col-sm-offset-1 col-lg-8 col-md-9 col-sm-10">
               <h1 class="header__title">Digital Marketing Specialist</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
