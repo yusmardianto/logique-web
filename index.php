@@ -86,6 +86,13 @@
         }
     }
     </style>
+    <div class="dokodemo-popup">
+        <div class="dokodemo-popup__wrapper">
+            <a href="https://dokodemo-kerja.com/contact-us.php" target="_blank"  id="dokodemoSeminar">
+                <img class="img-responsive" src="/img/dokodemo-mini-seminar.jpg" alt="Dokodemo Mini Hands on Seminar">
+            </a>
+        </div>
+    </div>
     <div class="wrapper wrapper--update-design o-wrapper top-only">
         <!-- NAVIGATION -->
         <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -487,6 +494,19 @@
             },
         ]
     });
+    </script>
+    <script>
+        function closePopup() {
+            $('.dokodemo-popup').toggle();
+        }
+        $('.dokodemo-popup#dokodemoSeminar, .dokodemo-popup').click(function() {
+            closePopup()
+        });
+        $(document).keyup(function(e) {
+            if (e.key === "Escape") { // escape key maps to keycode `27`
+                closePopup()
+            }
+        });
     </script>
 </body>
 
