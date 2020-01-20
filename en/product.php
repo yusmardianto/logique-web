@@ -28,6 +28,7 @@
 </head>
 
 <body>
+<?php include '../popup.php'; ?>
     <div class="wrapper wrapper--update-design">
 
         <!-- NAVIGATION -->
