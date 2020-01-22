@@ -67,8 +67,8 @@
 
 <!-- HEADER -->
   <div class="container-fluid">
-    <div class="container--max-width" style="padding: 0">
     <div class="row lang-logo--update-design">
+      <div class="container--max-width" style="padding: 0">
         <div class="">
           <div class="col-sm-offset-1 col-sm-10">
             <div class="row">
