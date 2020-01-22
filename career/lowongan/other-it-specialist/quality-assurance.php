@@ -115,15 +115,21 @@
               <h1 class="header__title">Quality Assurance</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
-                  <img class="career-detail__img" src="/img/career/icon/work.png" alt="Work Type">
+                <div class="career-detail__img-wrapper">
+                    <img class="career-detail__img" src="/img/career/icon/work.png" alt="Work Type">
+                  </div>
                   <p>Other IT Specialist</p>
                 </div>
                 <div class="career-detail__item">
-                  <img class="career-detail__img" src="/img/career/icon/time.png" alt="Contract Type">
+                  <div class="career-detail__img-wrapper">
+                    <img class="career-detail__img" src="/img/career/icon/time.png" alt="Contract Type">
+                  </div>
                   <p>Permanent</p>
                 </div>
                 <div class="career-detail__item">
-                  <img class="career-detail__img" src="/img/career/icon/location.png" alt="Work Location">
+                  <div class="career-detail__img-wrapper">
+                    <img class="career-detail__img" src="/img/career/icon/location.png" alt="Work Location">
+                  </div>
                   <p>Jakarta, Yogyakarta</p>
                 </div>
               </div>

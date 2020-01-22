@@ -1,7 +1,7 @@
 <section>
   <div class="container--max-width link-section">
     <div class="row">
-      <div class="col-sm-11 no-gap">
+      <div class="col-sm-12 no-gap">
         <div class="row">
           <div class="col-md-6 col-sm-12 bg--message">
             <div class="link-box">

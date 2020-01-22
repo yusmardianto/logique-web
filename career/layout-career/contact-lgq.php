@@ -1,7 +1,7 @@
 <section>
   <div class="container--max-width work-location">
     <div class="row">
-      <div class="col-sm-11 no-gap">
+      <div class="col-sm-12 no-gap">
         <div class="row">
           <div class="col-sm-4">
             <img class="work-location__img" src="/img/career/bg-img/jakarta.png" alt="">
