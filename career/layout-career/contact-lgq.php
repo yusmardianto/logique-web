@@ -1,5 +1,5 @@
 <section>
-  <div class="container--max-width work-location">
+  <div class="container--max-width --no-padding work-location">
     <div class="row">
       <div class="col-sm-12 no-gap">
         <div class="row">
@@ -22,9 +22,7 @@
               <br>
               Kami juga menerapkan sistem kerja remote bagi para karyawan kami sehingga Anda dapat bekerja dimana pun
               Anda
-              inginkan.
-              <br>
-              Segera hubungi tim rekrutmen kami sekarang!
+              inginkan. <b>Segera hubungi tim rekrutmen kami sekarang!</b>
             </p>
           </div>
         </div>

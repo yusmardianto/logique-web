@@ -86,7 +86,7 @@
     <div class="career-update content-wrapper__">
 
       <section class="container-fluid --top bg--main-project-manager">
-        <div class="container--max-width header-banner">
+        <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
@@ -109,6 +109,8 @@
               </ol>
             </div>
           </div>
+        </div>
+        <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
               <h1 class="header__title">Project Manager</h1>
@@ -216,7 +218,9 @@
                   </li>
                 </ul>
               </div>
-              <div class="career-requirement">
+            </div>
+            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
+             <div class="career-requirement">
                 <h3 class="section-title">Preferable</h3>
                 <ul class="career-list">
                   <li>Project Management Certification</li>
@@ -224,8 +228,6 @@
                   <li>Memiliki Kendaraan Bermotor Pribadi</li>
                 </ul>
               </div>
-            </div>
-            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
@@ -284,7 +286,7 @@
         </div>
       </section>
 
-      <!-- <section class="container-fluid bg--salary">
+      <section class="container-fluid bg--salary" style="margin-bottom: 2.5em">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -346,9 +348,9 @@
             </div>
           </div>
         </div>
-      </section> -->
+      </section>
 
-      <section class="container-fluid bg--career-apply" style="margin-top:2.5em;">
+      <section class="container-fluid bg--career-apply --my-2em">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-2 col-sm-8 apply-now">

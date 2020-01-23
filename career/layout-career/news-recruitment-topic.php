@@ -86,7 +86,7 @@ ul.news-list li a:hover {
 }
 </style>
 <section class="container-fluid">
-  <div class="container--max-width">
+  <div class="container--max-width --no-padding">
     <div class="row">
       <div class="col-sm-12 bg--f5f5f5 py--2-5em">
         <div class="row">

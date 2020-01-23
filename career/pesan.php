@@ -85,8 +85,8 @@
 
     <div class="career-update content-wrapper__">
 
-      <section class="container-fluid --top bg--yoshi">
-        <div class="container--max-width header-banner">
+      <section class="container-fluid --top bg--yoshi" style="margin-bottom: 2.5em">
+        <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design --black" itemscope
@@ -106,6 +106,8 @@
               </ol>
             </div>
           </div>
+        </div>
+        <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-md-offset-6 col-md-5">
               <div class="message--header">
@@ -196,13 +198,13 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <!-- <div class="row">
+              <div class="row">
                 <div class="col-sm-12">
                   <img class="img-responsive" src="../../img/career/bg-img/dummy-video.png" alt=""
                     style="min-width:100%">
                 </div>
-              </div> -->
-              <!-- <div class="row message-img">
+              </div>
+              <div class="row message-img">
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
                     <img src="../../img/career/bg-img/dummy-img-1.png" alt="">
@@ -248,14 +250,14 @@
                     <img src="../../img/career/bg-img/dummy-img-9.png" alt="">
                   </div>
                 </div>
-              </div> -->
+              </div>
               <!-- <div class="row">
                 <div class="col-sm-12">
                   <a href="/career/intern" class="form-control main-btn --yellow bg--btn-intern">Lihat Aktivitas Magang di
                     LOGIQUE</a>
                 </div>
               </div> -->
-              <div class="col-xs-12">
+              <div class="col-xs-12" style="margin-top: calc(2.5em - 15px);">
                 <div class="bg--lowongan-intern">
                   <div class="row row__same-height">
                     <div class="col-md-6" style="padding-top: 8px; padding-bottom: 8px;">

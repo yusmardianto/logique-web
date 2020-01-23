@@ -85,7 +85,7 @@
     <div class="career-update --bg-grey content-wrapper__">
 
       <section class="container-fluid --top bg--banner-lowongan">
-        <div class="container--max-width header-banner">
+        <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
@@ -104,6 +104,8 @@
               </ol>
             </div>
           </div>
+        </div>
+        <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-5">
               <h1 class="header__title">Lowongan</h1>

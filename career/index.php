@@ -86,7 +86,7 @@
     <div class="career-update content-wrapper__">
 
       <section class="container-fluid --top bg--informasi">
-        <div class="container--max-width header-banner">
+        <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
@@ -101,6 +101,8 @@
               </ol>
             </div>
           </div>
+        </div>
+        <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
               <h1 class="header__title">Wujudkan Mimpi Anda Dengan Berkarir Bersama LOGIQUE</h1>
@@ -141,7 +143,7 @@
                       <img class="talk-to__img" src="/img/career/icon/mail.png" alt="Email">
                       <span class="talk-to__ctc">recruit@logique.co.id</span>
                     </a>
-                  </div><br>
+                  </div>
                 </div>
                 <div class="col-md-6 col-sm-12">
                   <h2 class="section-title">Dibutuhkan Segera!</h2>
