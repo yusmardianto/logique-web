@@ -85,6 +85,21 @@ ul.news-list li a:hover {
   }
 }
 </style>
+<?php
+$rss = new DOMDocument();
+$rss->load('https://www.logique.co.id/blog/feed/?tag=logique-digital-indonesia-id');
+$feed = array();
+foreach ($rss->getElementsByTagName('item') as $node) {
+$item = array ( 
+'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
+'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
+'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
+'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
+);
+array_push($feed, $item);
+}
+$limit = 5; 
+?>
 <section class="container-fluid">
   <div class="container--max-width --no-padding">
     <div class="row">
@@ -97,6 +112,33 @@ ul.news-list li a:hover {
           </div>
         </div>
         <ul class="news-list">
+          <?php 
+            for($x=0;$x<$limit;$x++) {
+            $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
+            $link = $feed[$x]['link'];
+            $description = $feed[$x]['desc'];
+            $date = date('l F d, Y', strtotime($feed[$x]['date']));
+            // echo '<p><strong><a href="'.$link.'" title="'.$title.'">'.$title.'</a></strong><br />';
+            // echo '<small><em>Posted on '.$date.'</em></small></p>';
+            // echo '<p>'.$description.'</p>';
+           
+          ?>
+          <li class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="news-list__body">
+                <div class="news-list__content">
+                  <span class="news-list__news-date">
+                    <?php echo $date ;?>
+                  </span>
+                  <p><?php echo $title ?></p>
+                </div>
+                <a href="<?php echo $link ?>" target="_blank" rel="noreferrer">Read more ></a>
+              </div>
+            </div>
+          </li>
+        <?php  } ?>
+        </ul>
+        <!-- <ul class="news-list">
           <li class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <div class="news-list__body">
@@ -155,7 +197,7 @@ ul.news-list li a:hover {
               </div>
             </div>
           </li>
-        </ul>
+        </ul> -->
       </div>
     </div>
   </div>
