@@ -85,6 +85,21 @@ ul.news-list li a:hover {
   }
 }
 </style>
+<?php
+$rss = new DOMDocument();
+$rss->load('https://www.logique.co.id/blog/feed/?tag=logique-digital-indonesia-id');
+$feed = array();
+foreach ($rss->getElementsByTagName('item') as $node) {
+$item = array ( 
+'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
+'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
+'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
+'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
+);
+array_push($feed, $item);
+}
+$limit = 5; 
+?>
 <section class="container-fluid">
   <div class="container--max-width">
     <div class="row">
