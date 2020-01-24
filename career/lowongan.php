@@ -1007,12 +1007,14 @@
                   <div class="max-800 text-center">
                     <p>
                       <strong>
-                      Jika Anda seorang staff yang bekerja di pusat karir universitas, dan ingin memperkenalkan kandidat yang berkompeten pada kami. Segera hubungi staff HR kami sekarang juga!
+                        Jika Anda seorang staff yang bekerja di pusat karir universitas, dan ingin memperkenalkan
+                        kandidat yang berkompeten pada kami. Segera hubungi staff HR kami sekarang juga!
                       </strong>
                     </p>
-                    <a class="btn-banner-pattern mt--50" href="/hubungi-kami.php">
-                      <img class="img-responsive" src="/img/career/bg-img/bg-contact.png" alt="Contact Us">
-                      <span>Contact Us</span>
+                    <a class="btn-banner-pattern" style="margin-top: 37.5px;" href="/hubungi-kami.php">
+                      <img style="max-width: 350px;" class="img-responsive" src="/img/career/bg-img/bg-contact.png"
+                        alt="Kontak Kami">
+                      <span>Kontak Kami</span>
                     </a>
                   </div>
                 </div>

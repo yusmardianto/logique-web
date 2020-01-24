@@ -112,7 +112,14 @@
             <div class="col-md-offset-6 col-md-5">
               <div class="message--header">
                 <h1 class="header__title --black">Pesan Untuk Kandidat</h1>
-                <p class="text-justify --black">“Terima kasih telah mengunjungi halaman karir LOGIQUE. LOGIQUE adalah perusahaan yang menyenangkan, digerakkan oleh orang-orang hebat yang profesional, bekerja keras, dan senang bekerja dalam tim yang bersahabat. Tujuan saya adalah mengembangkan potensi penuh yang dimiliki orang-orang hebat ini sehingga LOGIQUE juga ikut menjadi perusahaan hebat. Saya suka orang yang rajin dan mau berjuang. Saya terus berusaha memberi mereka peluang terbaik untuk bisa sukses besar. Jika Anda mau bergabung bersama kami, tim kami adalah fondasi dari kesuksesan masa depan perusahaan. Perjalanan kita di sini akan menantang sekaligus memberikan manfaat. Mari berkembang dan meraih kesuksesan besar bersama-sama.”</p>
+                <p class="text-justify --black">“Terima kasih telah mengunjungi halaman karir LOGIQUE. LOGIQUE adalah
+                  perusahaan yang menyenangkan, digerakkan oleh orang-orang hebat yang profesional, bekerja keras, dan
+                  senang bekerja dalam tim yang bersahabat. Tujuan saya adalah mengembangkan potensi penuh yang dimiliki
+                  orang-orang hebat ini sehingga LOGIQUE juga ikut menjadi perusahaan hebat. Saya suka orang yang rajin
+                  dan mau berjuang. Saya terus berusaha memberi mereka peluang terbaik untuk bisa sukses besar. Jika
+                  Anda mau bergabung bersama kami, tim kami adalah fondasi dari kesuksesan masa depan perusahaan.
+                  Perjalanan kita di sini akan menantang sekaligus memberikan manfaat. Mari berkembang dan meraih
+                  kesuksesan besar bersama-sama.”</p>
                 <span class="header__sub-title role--title --black">Founder & CEO LOGIQUE Digital Indonesia</span>
               </div>
             </div>
@@ -125,70 +132,70 @@
           <div class="row row__same-height">
             <div class="col-lg-4" style="padding: 0;">
               <!-- <img src="/img/career/ghitta.jpg" alt="HR Ghitta"> -->
-                <div class="message__img-text bg--ghitta">
-                  <div class="message__overlay"></div>
-                  <div class="message__text-wrapper">
-                    <h4 class="message__text-title">Pesan dari Ghitta</h4>
-                    <p class="text-justify">
-                      “Sangat penting bagi Anda untuk mengetahui di mana dan bagaimana Anda bekerja. Jika Anda bekerja
-                      keras, merasakan bahwa bekerja penting untuk kehidupan Anda, dan ingin berkontribusi kepada
-                      perusahaan, kami berjanji akan menyediakan lingkungan kerja yang baik untuk Anda. Di LOGIQUE, kami
-                      menyambut individu yang kreatif dan dinamis serta berusaha untuk pengembangan pribadi dan
-                      profesional. Sebagai gantinya, maka kami berkomitmen untuk menghasilkan yang terbaik dari diri Anda
-                      dengan menawarkan kesempatan untuk kemajuan dan pertumbuhan, dan memberikan karir yang mengubah
-                      hidup tidak seperti yang lain. Mari berkembang bersama LOGIQUE!”
-                    </p>
-                    <span class="message__text-title role--title">
-                      Staff Senior HR & GA
-                      <br>
-                      LOGIQUE Digital Indonesia
-                    </span>
-                  </div>
+              <div class="message__img-text bg--ghitta">
+                <div class="message__overlay"></div>
+                <div class="message__text-wrapper">
+                  <h4 class="message__text-title">Pesan dari Ghitta</h4>
+                  <p class="text-justify">
+                    “Sangat penting bagi Anda untuk mengetahui di mana dan bagaimana Anda bekerja. Jika Anda bekerja
+                    keras, merasakan bahwa bekerja penting untuk kehidupan Anda, dan ingin berkontribusi kepada
+                    perusahaan, kami berjanji akan menyediakan lingkungan kerja yang baik untuk Anda. Di LOGIQUE, kami
+                    menyambut individu yang kreatif dan dinamis serta berusaha untuk pengembangan pribadi dan
+                    profesional. Sebagai gantinya, maka kami berkomitmen untuk menghasilkan yang terbaik dari diri Anda
+                    dengan menawarkan kesempatan untuk kemajuan dan pertumbuhan, dan memberikan karir yang mengubah
+                    hidup tidak seperti yang lain. Mari berkembang bersama LOGIQUE!”
+                  </p>
+                  <span class="message__text-title role--title">
+                    Staff Senior HR & GA
+                    <br>
+                    LOGIQUE Digital Indonesia
+                  </span>
                 </div>
+              </div>
             </div>
             <div class="col-lg-4" style="padding: 0;">
               <!-- <img src="/img/career/taufik.jpg" alt="FE Taufik"> -->
-                <div class="message__img-text bg--taufik">
-                  <div class="message__overlay"></div>
-                  <div class="message__text-wrapper">
-                    <h4 class="message__text-title">Pesan dari Taufik</h4>
-                    <p class="text-justify">
-                      “Show your best. Pastikan kalau kamu memiliki pengalaman dan menguasai bidang yang kamu lamar.
-                      Ibaratnya mau jadi atlet renang, kamu tentu harus bisa berenang (haha). Selain itu, tunjukkan juga
-                      kalau kamu profesional dan punya minat belajar yang tinggi. Untuk kamu yang senang bekerja cepat,
-                      kamu
-                      bakal suka bekerja di LOGIQUE.”
-                    </p>
-                    <span class="message__text-title role--title">
-                      Staff Senior Frontend Developer
-                      <br>
-                      LOGIQUE Digital Indonesia
-                    </span>
-                  </div>
+              <div class="message__img-text bg--taufik">
+                <div class="message__overlay"></div>
+                <div class="message__text-wrapper">
+                  <h4 class="message__text-title">Pesan dari Taufik</h4>
+                  <p class="text-justify">
+                    “Show your best. Pastikan kalau kamu memiliki pengalaman dan menguasai bidang yang kamu lamar.
+                    Ibaratnya mau jadi atlet renang, kamu tentu harus bisa berenang (haha). Selain itu, tunjukkan juga
+                    kalau kamu profesional dan punya minat belajar yang tinggi. Untuk kamu yang senang bekerja cepat,
+                    kamu
+                    bakal suka bekerja di LOGIQUE.”
+                  </p>
+                  <span class="message__text-title role--title">
+                    Staff Senior Frontend Developer
+                    <br>
+                    LOGIQUE Digital Indonesia
+                  </span>
                 </div>
+              </div>
             </div>
             <div class="col-lg-4" style="padding: 0;">
               <!-- <img src="/img/career/muklis.jpg" alt="BE Muklis"> -->
-                <div class="message__img-text bg--muklis">
-                  <div class="message__overlay"></div>
-                  <div class="message__text-wrapper">
-                    <h4 class="message__text-title">Pesan dari Muklis</h4>
-                    <p class="text-justify">
-                      “LOGIQUE tidak hanya melihat technical skill seseorang tetapi juga soft skill dan attitude. Selain
-                      itu, selama Anda merasa dapat memberikan kontribusi di bidang Anda, LOGIQUE akan mempertimbangkan
-                      hal
-                      itu baik-baik. Namun, jika Anda mempunyai target untuk menjadi yang Back-End Developer terbaik, saya
-                      menyarankan Anda untuk terbiasa dalam menggunakan berbagai bahasa pemrograman, framework, cloud
-                      server
-                      topology AWS, dan semacamnya.”
-                    </p>
-                    <span class="message__text-title role--title">
-                      Staff Senior Backend Developer
-                      <br>
-                      LOGIQUE Digital Indonesia
-                    </span>
-                  </div>
+              <div class="message__img-text bg--muklis">
+                <div class="message__overlay"></div>
+                <div class="message__text-wrapper">
+                  <h4 class="message__text-title">Pesan dari Muklis</h4>
+                  <p class="text-justify">
+                    “LOGIQUE tidak hanya melihat technical skill seseorang tetapi juga soft skill dan attitude. Selain
+                    itu, selama Anda merasa dapat memberikan kontribusi di bidang Anda, LOGIQUE akan mempertimbangkan
+                    hal
+                    itu baik-baik. Namun, jika Anda mempunyai target untuk menjadi yang Back-End Developer terbaik, saya
+                    menyarankan Anda untuk terbiasa dalam menggunakan berbagai bahasa pemrograman, framework, cloud
+                    server
+                    topology AWS, dan semacamnya.”
+                  </p>
+                  <span class="message__text-title role--title">
+                    Staff Senior Backend Developer
+                    <br>
+                    LOGIQUE Digital Indonesia
+                  </span>
                 </div>
+              </div>
             </div>
           </div>
         </div>
@@ -250,6 +257,21 @@
                     <img src="../../img/career/bg-img/dummy-img-9.png" alt="">
                   </div>
                 </div>
+                <div class="col-md-4 col-sm-6">
+                  <div class="message__img-wrapper">
+                    <img src="../../img/career/bg-img/dummy-img-7.png" alt="">
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                  <div class="message__img-wrapper">
+                    <img src="../../img/career/bg-img/dummy-img-8.png" alt="">
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                  <div class="message__img-wrapper">
+                    <img src="../../img/career/bg-img/dummy-img-9.png" alt="">
+                  </div>
+                </div>
               </div>
               <!-- <div class="row">
                 <div class="col-sm-12">
@@ -262,11 +284,13 @@
                   <div class="row row__same-height">
                     <div class="col-md-6" style="padding-top: 8px; padding-bottom: 8px;">
                       <h3 class="section-title">Lowongan Magang</h3>
-                      <p>Kami membuka lowongan magang bagi mahasiswa atau mahasiswi sesuai dengan kompetensi yang dimiliki.</p>
+                      <p>Kami membuka lowongan magang bagi mahasiswa atau mahasiswi sesuai dengan kompetensi yang
+                        dimiliki.</p>
                     </div>
                     <div class="col-md-6" style="padding-top: 8px; padding-bottom: 8px;">
                       <a href="/career/intern/index.php">
-                        <img class="img-responsive" src="/img/career/bg-img/bg-btn-black-intern.png" alt="LIHAT KESEHARIAN MAGANG DI LOGIQUE">
+                        <img class="img-responsive" src="/img/career/bg-img/bg-btn-black-intern.png"
+                          alt="LIHAT KESEHARIAN MAGANG DI LOGIQUE">
                       </a>
                     </div>
                   </div>

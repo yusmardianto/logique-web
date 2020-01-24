@@ -112,12 +112,13 @@ $limit = 5;
           </div>
         </div>
         <ul class="news-list">
-          <?php 
+          <?php
+            
             for($x=0;$x<$limit;$x++) {
             $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
             $link = $feed[$x]['link'];
             $description = $feed[$x]['desc'];
-            $date = date('l F d, Y', strtotime($feed[$x]['date']));
+            $date = date('d F Y', strtotime($feed[$x]['date']));
             // echo '<p><strong><a href="'.$link.'" title="'.$title.'">'.$title.'</a></strong><br />';
             // echo '<small><em>Posted on '.$date.'</em></small></p>';
             // echo '<p>'.$description.'</p>';
@@ -136,7 +137,7 @@ $limit = 5;
               </div>
             </div>
           </li>
-        <?php  } ?>
+          <?php  } ?>
         </ul>
         <!-- <ul class="news-list">
           <li class="row">
