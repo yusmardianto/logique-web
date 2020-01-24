@@ -1437,6 +1437,7 @@ span.role--title {
 }
 .work-location__img {
   min-width: 100%;
+  height: 100%;
 }
 .work-location__text {
   color: rgb(0, 0, 0);

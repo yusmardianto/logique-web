@@ -207,70 +207,67 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row">
                 <div class="col-sm-12">
-                  <img class="img-responsive" src="../../img/career/bg-img/dummy-video.png" alt=""
-                    style="min-width:100%">
+                  <img class="img-responsive" src="/img/career/bg-img/dummy-video.png" alt="" style="min-width:100%">
                 </div>
               </div>
               <div class="row message-img">
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="../../img/career/bg-img/dummy-img-1.png" alt="">
+                    <img src="/img/career/bg-img/dummy-img-1.png" alt="">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="../../img/career/bg-img/dummy-img-2.png" alt="">
+                    <img src="/img/career/bg-img/dummy-img-2.png" alt="">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="../../img/career/bg-img/dummy-img-3.png" alt="">
+                    <img src="/img/career/bg-img/dummy-img-3.png" alt="">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="../../img/career/bg-img/dummy-img-4.png" alt="">
+                    <img src="/img/career/bg-img/dummy-img-4.png" alt="">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="../../img/career/bg-img/dummy-img-5.png" alt="">
+                    <img src="/img/career/bg-img/dummy-img-5.png" alt="">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="../../img/career/bg-img/dummy-img-6.png" alt="">
+                    <img src="/img/career/bg-img/dummy-img-6.png" alt="">
                   </div>
                 </div>
-                <div class="col-md-4 col-sm-6">
-                  <div class="message__img-wrapper">
-                    <img src="../../img/career/bg-img/dummy-img-7.png" alt="">
+                <div class="col-sm-12">
+                  <div id="collapsePhotos" class="collapse">
+                    <div class="row">
+                      <div class="col-md-4 col-sm-6">
+                        <div class="message__img-wrapper">
+                          <img src="/img/career/bg-img/dummy-img-7.png" alt="">
+                        </div>
+                      </div>
+                      <div class="col-md-4 col-sm-6">
+                        <div class="message__img-wrapper">
+                          <img src="/img/career/bg-img/dummy-img-8.png" alt="">
+                        </div>
+                      </div>
+                      <div class="col-md-4 col-sm-6">
+                        <div class="message__img-wrapper">
+                          <img src="/img/career/bg-img/dummy-img-9.png" alt="">
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
-                <div class="col-md-4 col-sm-6">
-                  <div class="message__img-wrapper">
-                    <img src="../../img/career/bg-img/dummy-img-8.png" alt="">
-                  </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                  <div class="message__img-wrapper">
-                    <img src="../../img/career/bg-img/dummy-img-9.png" alt="">
-                  </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                  <div class="message__img-wrapper">
-                    <img src="../../img/career/bg-img/dummy-img-7.png" alt="">
-                  </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                  <div class="message__img-wrapper">
-                    <img src="../../img/career/bg-img/dummy-img-8.png" alt="">
-                  </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                  <div class="message__img-wrapper">
-                    <img src="../../img/career/bg-img/dummy-img-9.png" alt="">
-                  </div>
+                <div class="col-sm-12">
+                  <a style="margin-top: 22.5px; margin-bottom: 22.5px;" class="form-control main-btn --yellow"
+                    role="button" data-toggle="collapse" href="#collapsePhotos" aria-expanded="false"
+                    aria-controls="collapsePhotos">
+                    Lihat Semua Foto
+                  </a>
                 </div>
               </div>
               <!-- <div class="row">
