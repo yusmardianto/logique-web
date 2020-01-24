@@ -134,6 +134,9 @@ div:focus {
 .mb--20 {
   margin-bottom: 20px;
 }
+.mb--15 {
+  margin-bottom: 15px;
+}
 
 .my-20 {
   margin-top: 20px;
@@ -1625,7 +1628,7 @@ span.role--title {
   transform: rotateZ(180deg);
 }
 .hr-rule__title {
-  font-size: 28px;
+  font-size: 22px;
   font-weight: 600;
 }
 .hr-rule__content ol {
@@ -1801,7 +1804,7 @@ span.role--title {
   flex-basis: 70%;
 }
 .salary-range {
-  margin-bottom: 3em;
+  /* margin-bottom: 3em; */
 }
 .salary-range__head {
   border-left: solid 5px #fbc935;

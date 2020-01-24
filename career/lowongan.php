@@ -207,8 +207,9 @@
         </div>
       </section>
 
+      <br>
       <?php include './layout-career/news-recruitment-topic.php'; ?>
-
+      <br>
       <section class="container-fluid">
         <div class="container--max-width" style="padding-top: 0;">
           <div class="row">

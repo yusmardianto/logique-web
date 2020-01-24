@@ -122,15 +122,15 @@
               <div class="row">
                 <div class="col-md-6 col-sm-12">
                   <h2 class="section-title">Info Lowongan</h2>
-                  <p class="mb-2em">
+                  <p class="mb--15">
                     LOGIQUE memberikan kesempatan kepada Anda untuk bergabung bersama kami dan mengembangkan potensi
                     yang Anda miliki saat ini.
                   </p>
-                  <p class="mb-2em">
+                  <p class="mb--15">
                     Mengadopsi budaya kerja start up, kami selalu mendukung seluruh karyawan kami untuk terus
                     meningkatkan skill dan pengetahuan mereka tentang berbagai update terbaru di dunia IT.
                   </p>
-                  <p class="mb-2em">
+                  <p class="mb--15">
                     Anda tertarik untuk bekerja di LOGIQUE? Segera hubungi tim rekrutmen LOGIQUE sekarang juga!
                   </p>
                   <h4 class="section-subtitle">Talk to us</h4>
