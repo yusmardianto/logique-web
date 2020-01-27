@@ -153,6 +153,10 @@ div:focus {
   padding-bottom: 2.5em;
 }
 
+.pb--2-5em {
+  padding-bottom: 2.5em;
+}
+
 /*** Header & Navbar ***/
 span {
   margin: 0;
@@ -477,7 +481,8 @@ button:focus {
   border-color: #fbc935;
 }
 
-.main-btn.--yellow:hover {
+.main-btn.--yellow:hover,
+.main-btn.--yellow:focus {
   background-color: #e6b710;
   border-color: #e6b710;
   color: #000;
@@ -1145,15 +1150,6 @@ ul.medsos-new li a {
   font-weight: 800;
 }
 
-span.role--title {
-  display: inline-block;
-  margin-top: 10px;
-  font-weight: 800;
-  font-size: 14px;
-  letter-spacing: 0.4px;
-  font-family: "Raleway", sans-serif;
-}
-
 @media (max-width: 767px) {
   .header__title {
     font-size: 45px;
@@ -1666,73 +1662,81 @@ span.role--title {
     color: #000;
   }
 }
-.message__img-text {
-  position: relative;
-  height: 100%;
-  width: 100%;
-  padding-top: 300px;
-  padding-bottom: 25px;
-  padding-left: 20px;
-  padding-right: 20px;
-  font-size: 14px;
-  color: #fff;
-  background-position: 65% top;
-  /* background-position: top center; */
-  background-size: cover;
-  background-repeat: no-repeat;
-}
 
-.message__img-text.bg--ghitta {
-  background-image: url("/img/career/ghitta.jpg");
-}
-.message__img-text.bg--taufik {
-  background-image: url("/img/career/taufik.jpg");
-}
-.message__img-text.bg--muklis {
-  background-image: url("/img/career/muklis.jpg");
-}
-.message__img-text .message__overlay {
-  position: absolute;
-  width: 100%;
-  top: 70px;
-  bottom: 0;
-  left: 0;
-  background: rgb(244, 242, 242);
-  background: -moz-linear-gradient(
-    180deg,
-    rgba(244, 242, 242, 0) 0%,
-    rgba(0, 0, 0, 0.700717787114846) 40%
-  );
-  background: -webkit-linear-gradient(
-    180deg,
-    rgba(244, 242, 242, 0) 0%,
-    rgba(0, 0, 0, 0.700717787114846) 40%
-  );
-  background: linear-gradient(
-    180deg,
-    rgba(244, 242, 242, 0) 0%,
-    rgba(0, 0, 0, 0.700717787114846) 40%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4f2f2",endColorstr="#000000",GradientType=1);
-}
-
-.message__img-text .message__text-wrapper {
-  position: relative;
-  z-index: 5;
-}
 .message__text-title {
+  display: table;
+  margin: 15px auto 5px auto;
   font-size: 28px;
   font-weight: 800;
+  color: #000;
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  position: relative;
+  z-index: 5;
+  line-height: 33px;
+}
+.message__text-title::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 3px;
+  width: calc(100% + 20px);
+  height: 12px;
+  background-color: #ffca13;
+  opacity: 0.3;
+  z-index: -1;
+}
+.message__text-title .role--title {
+  display: inline-block;
+  font-weight: 600;
+  font-size: 18px;
+}
+.message__text-content {
+  color: #000;
+  text-align: center;
+  font-size: 16px;
 }
 .message-img .col-md-4 {
   padding: 15px;
 }
 .message__img-wrapper {
+  max-width: 340px;
   height: 330px;
+  margin: 0 auto;
   overflow: hidden;
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
 .message__img-wrapper img {
   min-width: 100%;
+  object-fit: cover;
+  width: 340px;
+  height: 260px;
+  object-position: center center;
+}
+@media (min-width: 992px) {
+  .message__img-wrapper {
+    max-width: unset;
+  }
+  .message__img-wrapper img {
+    object-fit: fill;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .message__img-wrapper img {
+    height: auto;
+  }
+}
+
+@media (min-width: 1200px) {
+  .message__img-wrapper img {
+    object-fit: fill;
+  }
 }
 /* End message */
 /* Career Detail */
