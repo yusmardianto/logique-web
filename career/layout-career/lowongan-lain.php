@@ -40,7 +40,7 @@
             <a href="/career/lowongan/designer-dm.php" class="see-position__item bg--sub-designer-dm">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
-                <h3 class="section-title">Designer / <br> Digital Marketing</h3>
+                <h3 style="font-size: 28px;" class="section-title">Designer / <br>Digital Marketing</h3>
               </div>
               <p>
                 Designer, SEO / Ad Specialist, Content Writer, etc.,

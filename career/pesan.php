@@ -258,19 +258,13 @@
                   </div>
                 </div>
                 <div class="col-sm-12">
-                  <a style="margin-top: 22.5px; margin-bottom: 22.5px;" class="form-control main-btn --yellow"
+                  <a style="margin-top: 22.5px; margin-bottom: 22.5px;" class="form-control main-btn --small-padding-font --yellow"
                     role="button" data-toggle="collapse" href="#collapsePhotos" aria-expanded="false"
                     aria-controls="collapsePhotos">
                     Lihat Semua Foto
                   </a>
                 </div>
               </div>
-              <!-- <div class="row">
-                <div class="col-sm-12">
-                  <a href="/career/intern" class="form-control main-btn --yellow bg--btn-intern">Lihat Aktivitas Magang di
-                    LOGIQUE</a>
-                </div>
-              </div> -->
               <div class="col-xs-12" style="margin-top: calc(2.5em - 15px);">
                 <div class="bg--lowongan-intern">
                   <div class="row row__same-height">

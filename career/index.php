@@ -161,7 +161,7 @@
                       <div class="urgent-need__text">Front End Developer</div>
                     </a>
                   </div>
-                  <a href="/career/lowongan.php" class="form-control main-btn --yellow">Lihat Semua Lowongan</a>
+                  <a href="/career/lowongan.php" style="padding-top: 10px; padding-bottom: 10px; font-size: 20px;" class="form-control main-btn --yellow">Lihat Semua Lowongan</a>
                 </div>
               </div>
             </div>

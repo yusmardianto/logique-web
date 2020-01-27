@@ -300,11 +300,6 @@
                   </ol>
                 </div>
               </div>
-              <!-- <div class="row">
-                <div class="col-sm-12">
-                  <a href="/logique.php" class="form-control main-btn --yellow">Ketahui Tentang Kami Di Sini</a>
-                </div>
-              </div> -->
             </div>
           </div>
         </div>

@@ -476,6 +476,13 @@ button:focus {
   transition: 0.3s;
 }
 
+.main-btn.--small-padding-font {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
 .main-btn.--yellow {
   background-color: #fbc935;
   border-color: #fbc935;
@@ -1822,6 +1829,7 @@ ul.medsos-new li a {
 .salary-range {
   /* margin-bottom: 3em; */
 }
+
 .salary-range__head {
   border-left: solid 5px #fbc935;
   padding-left: 15px;
@@ -1831,7 +1839,13 @@ ul.medsos-new li a {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
+  margin-bottom: 10px;
 }
+
+.salary-range__head .section-title {
+  margin-bottom: 10px;
+}
+
 .salary-range__position {
   font-weight: 600;
 }
@@ -1847,6 +1861,12 @@ ul.medsos-new li a {
 .salary-range__list li {
   padding-left: 1em;
   text-indent: -1.7em;
+}
+
+@media (max-width: 991px) {
+  .salary-range__list {
+    margin-bottom: 30px;
+  }
 }
 .apply-now {
   display: flex;

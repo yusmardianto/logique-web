@@ -286,7 +286,7 @@
         </div>
       </section>
 
-      <section class="container-fluid bg--salary" style="margin-bottom: 2.5em">
+      <!-- <section class="container-fluid bg--salary" style="margin-bottom: 2.5em">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -348,9 +348,9 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
-      <section class="container-fluid bg--career-apply --my-2em">
+      <section class="container-fluid bg--career-apply --mb-2em">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-2 col-sm-8 apply-now">
