@@ -15,13 +15,13 @@
         content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Jasa Pembuatan Website, Aplikasi, dan Digital Marketing | LOGIQUE">
+    <meta property="og:title" content="Jasa Pembuatan Website, Aplikasi, Digital Marketing, Penetration Testing | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/">
     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
     <meta property="og:description"
-        content="LOGIQUE Digital Indonesia, perusahaan web developer yang menawarkan jasa pembuatan dan pengembangan website, aplikasi, dan digital marketing di Jakarta. Kembangkan dan tingkatkan keuntungan bisnis Anda di era digital dengan solusi terbaik dari kami. Lihat selengkapnya di sini.">
+        content="LOGIQUE Digital Indonesia, perusahaan web developer yang menawarkan jasa pembuatan dan pengembangan website, aplikasi, digital marketing, dan penetration testing di Jakarta. Kembangkan dan tingkatkan keuntungan bisnis Anda di era digital dengan solusi terbaik dari kami. Lihat selengkapnya di sini.">
     <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <!-- Facebook Pixel Code -->
@@ -51,7 +51,7 @@
 	ga('send', 'pageview');
 
 	</script>
-    <title>Jasa Pembuatan Website, Aplikasi, dan Digital Marketing | LOGIQUE</title>
+    <title>Jasa Pembuatan Website, Aplikasi, Digital Marketing, Penetration Testing | LOGIQUE</title>
 
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
     </noscript>
@@ -191,12 +191,12 @@
                                     </div>
                                     <hr class="title__yellow-line--center">
                                     <p><b>LOGIQUE DIGITAL INDONESIA</b> adalah Developer Web Application / Aplikasi Mobile
-                                        profesional yang berspesialisasi dalam pembuatan dan perancangan WebApp, dengan penekanan
+                                        profesional yang memiliki spesialisasi dalam pembuatan dan perancangan WebApp, dengan penekanan
                                         pada Pemasaran Digital (Digital Marketing), untuk meningkatkan dan memaksimalkan
                                         keuntungan bisnis Anda. <br><br>
-                                        Kami telah bekerja dengan banyak perusahaan lokal maupun internasional ternama, memenuhi
+                                        Kami telah bekerja dengan banyak perusahaan internasional maupun lokal ternama, memenuhi
                                         berbagai permintaan, seperti pembuatan sistem lelang online, E-commerce, sistem rekrutmen
-                                        karyawan, dan operasi iklan digital.</p><br>
+                                        karyawan, e-money, berbagai aplikasi internal perusahaan, dan pengoperasian iklan digital.</p><br>
                                     <div class="row">
                                         <div class="col-lg-offset-1 col-lg-10">
                                             <div class="row">
@@ -255,16 +255,13 @@
                                         Digital
                                         untuk Bisnis Anda</h1>
                                     <hr class="title__yellow-line">
-                                    <p><b>LOGIQUE DIGITAL INDONESIA</b> adalah Developer Web Application / Aplikasi Mobile
-                                        profesional yang berspesialisasi dalam pembuatan dan perancangan WebApp, dengan
-                                        penekanan
+                                    <p>LOGIQUE DIGITAL INDONESIA</b> adalah Developer Web Application / Aplikasi Mobile
+                                        profesional yang memiliki spesialisasi dalam pembuatan dan perancangan WebApp, dengan penekanan
                                         pada Pemasaran Digital (Digital Marketing), untuk meningkatkan dan memaksimalkan
                                         keuntungan bisnis Anda. <br><br>
-                                        Kami telah bekerja dengan banyak perusahaan lokal maupun internasional ternama,
-                                        memenuhi
-                                        berbagai permintaan, seperti pembuatan sistem lelang online, E-commerce, sistem
-                                        rekrutmen
-                                        karyawan, dan operasi iklan digital.</p>
+                                        Kami telah bekerja dengan banyak perusahaan internasional maupun lokal ternama, memenuhi
+                                        berbagai permintaan, seperti pembuatan sistem lelang online, E-commerce, sistem rekrutmen
+                                        karyawan, e-money, berbagai aplikasi internal perusahaan, dan pengoperasian iklan digital.</p>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="row">
@@ -312,9 +309,8 @@
                             <div class="custombox__portfolio">
                                 <h1 class="title-index">Portofolio Kami</h1>
                                 <hr class="title__yellow-line">
-                                Selain berbagai produk digital, Kami juga menawarkan kepada Anda layanan produk non-digital,
-                                seperti
-                                pembuatan brosur, katalog, video profil perusahaan dan lain-lain. <br><br>
+                                Kami memiliki pengalaman yang sangat kuat dalam bidang pembuatan website, sistem web, dan aplikasi mobile; dan telah memberikan layanan untuk klien dari berbagai macam industri mulai dari otomotif, finansial, banking, asuransi, retail hingga manufaktur. <br><br>
+                                Selain berbagai produk digital, Kami juga memiliki layanan pendukung untuk produk non-digital, seperti pembuatan brosur, katalog, video profil perusahaan, dan lain-lain. <br><br>
                                 Dengan tenaga profesional yang kami miliki, kami berkomitmen untuk menghasilkan berbagai produk
                                 digital yang berkualitas dan berstandar Internasional. Kembangkan dan tingkatkan keuntungan bisnis
                                 Anda di era digital dengan solusi terbaik yang kami berikan. <br>
@@ -332,12 +328,12 @@
                             <h1 class="title-index--light">
                                 Kami Menyediakan <span class="title-index--bold">Solusi HR-Tech</span> di Indonesia</h1>
                             <hr class="title__yellow-line">
-                            <p>Logique berkomitmen untuk berkontribusi pada industri TI di Indonesia (SI, pengembangan sistem Web,
+                            <p>LOGIQUE berkomitmen untuk berkontribusi pada industri TI di Indonesia (SI, pengembangan sistem Web,
                                 pemasaran digital, dll.). Kami telah mengembangkan tiga sistem internal untuk membantu
                                 meningkatkan
-                                produktivitas & efisiensi karyawan, dan untuk menyederhanakan proses rekrutmen untuk memudahkan
-                                evaluasi kandidat. Setelah mengintegrasikan produk-produk ini di perusahaan kami sendiri, terjadi
-                                peningkatan yang sangat nyata & drastis, sehingga kami memutuskan untuk menjual produk-produk ini
+                                produktivitas dan efisiensi karyawan, serta untuk menyederhanakan proses rekrutmen dan memudahkan
+                                evaluasi kandidat. Kami telah mengaplikasikan produk-produk ini di perusahaan kami sendiri, hasilnya terjadi
+                                peningkatan yang sangat nyata dan drastis sehingga kami memutuskan untuk menjual produk-produk ini
                             </p>
 
                             <div class="product__slide">
