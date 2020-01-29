@@ -670,8 +670,8 @@ section.maintop {
     z-index: 1;
     width: 55%;
     position: absolute;
-    bottom: -4%;
-    left: 5%;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .portofolio__illus--jp {
@@ -679,7 +679,7 @@ section.maintop {
     width: 55%;
     position: absolute;
     bottom: -25%;
-    left: 5%;
+    /* left: 5%; */
 }
 
 .title-container {
@@ -703,7 +703,7 @@ section.maintop {
 
 .custombox__portfolio {
     margin-left: auto;
-    width: 50%;
+    width: 55%;
     padding: 2em 3em 3em 9.5em;
     border: solid 1px;
     text-align: justify;
@@ -716,10 +716,6 @@ section.maintop {
         width: 55%;
         padding: 2em 3em 3em 7em;;
     }
-    .portofolio__illus {
-        bottom: 15%;
-        left: 2%;
-    }
     .portofolio__illus--jp {
         bottom: 3%;
         left: 0;
@@ -731,10 +727,6 @@ section.maintop {
         margin-left: auto;
         width: 55%;
         padding: 2em 2em 3em 7.5em;
-    }
-    .portofolio__illus {
-        bottom: 9%;
-        left: 2%;
     }
     .portofolio__illus--jp {
         bottom: -5%;
