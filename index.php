@@ -249,7 +249,7 @@
                                         Digital
                                         untuk Bisnis Anda</h1>
                                     <hr class="title__yellow-line">
-                                    <p>LOGIQUE DIGITAL INDONESIA</b> adalah Developer Web Application / Aplikasi Mobile
+                                    <p><b>LOGIQUE DIGITAL INDONESIA</b> adalah Developer Web Application / Aplikasi Mobile
                                         profesional yang memiliki spesialisasi dalam pembuatan dan perancangan WebApp, dengan penekanan
                                         pada Pemasaran Digital (Digital Marketing), untuk meningkatkan dan memaksimalkan
                                         keuntungan bisnis Anda. <br><br>
