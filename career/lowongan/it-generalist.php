@@ -85,7 +85,7 @@
 
     <div class="career-update content-wrapper__">
       <section class="container-fluid --top bg--main-it-generalist">
-        <div class="container--max-width header-banner">
+        <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
@@ -108,6 +108,8 @@
               </ol>
             </div>
           </div>
+        </div>
+        <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-5">
               <h1 class="header__title">IT Generalist</h1>
@@ -123,6 +125,7 @@
       <?php include '../layout-career/news-recruitment-topic.php'; ?>
       <?php include '../layout-career/lowongan-lain.php'; ?>
       <?php include '../layout-career/link-section.php'; ?>
+      <br><br>
       <?php include '../layout-career/contact-lgq.php'; ?>
     </div>
 

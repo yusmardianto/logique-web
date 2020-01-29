@@ -85,7 +85,7 @@
     <div class="career-update --bg-grey content-wrapper__">
 
       <section class="container-fluid --top bg--banner-lowongan">
-        <div class="container--max-width header-banner">
+        <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
@@ -104,6 +104,8 @@
               </ol>
             </div>
           </div>
+        </div>
+        <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-5">
               <h1 class="header__title">Lowongan</h1>
@@ -205,8 +207,9 @@
         </div>
       </section>
 
+      <br>
       <?php include './layout-career/news-recruitment-topic.php'; ?>
-
+      <br>
       <section class="container-fluid">
         <div class="container--max-width" style="padding-top: 0;">
           <div class="row">
@@ -1004,12 +1007,14 @@
                   <div class="max-800 text-center">
                     <p>
                       <strong>
-                      Jika Anda seorang staff yang bekerja di pusat karir universitas, dan ingin memperkenalkan kandidat yang berkompeten pada kami. Segera hubungi staff HR kami sekarang juga!
+                        Jika Anda seorang staff yang bekerja di pusat karir universitas, dan ingin memperkenalkan
+                        kandidat yang berkompeten pada kami. Segera hubungi staff HR kami sekarang juga!
                       </strong>
                     </p>
-                    <a class="btn-banner-pattern mt--50" href="/hubungi-kami.php">
-                      <img class="img-responsive" src="/img/career/bg-img/bg-contact.png" alt="Contact Us">
-                      <span>Contact Us</span>
+                    <a class="btn-banner-pattern" style="margin-top: 37.5px;" href="/hubungi-kami.php">
+                      <img style="max-width: 350px;" class="img-responsive" src="/img/career/bg-img/bg-contact.png"
+                        alt="Kontak Kami">
+                      <span>Kontak Kami</span>
                     </a>
                   </div>
                 </div>

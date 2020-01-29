@@ -86,7 +86,7 @@
     <div class="career-update content-wrapper__">
 
       <section class="container-fluid --top bg--informasi">
-        <div class="container--max-width header-banner">
+        <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
@@ -101,6 +101,8 @@
               </ol>
             </div>
           </div>
+        </div>
+        <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
               <h1 class="header__title">Wujudkan Mimpi Anda Dengan Berkarir Bersama LOGIQUE</h1>
@@ -120,15 +122,15 @@
               <div class="row">
                 <div class="col-md-6 col-sm-12">
                   <h2 class="section-title">Info Lowongan</h2>
-                  <p class="mb-2em">
+                  <p class="mb--15">
                     LOGIQUE memberikan kesempatan kepada Anda untuk bergabung bersama kami dan mengembangkan potensi
                     yang Anda miliki saat ini.
                   </p>
-                  <p class="mb-2em">
+                  <p class="mb--15">
                     Mengadopsi budaya kerja start up, kami selalu mendukung seluruh karyawan kami untuk terus
                     meningkatkan skill dan pengetahuan mereka tentang berbagai update terbaru di dunia IT.
                   </p>
-                  <p class="mb-2em">
+                  <p class="mb--15">
                     Anda tertarik untuk bekerja di LOGIQUE? Segera hubungi tim rekrutmen LOGIQUE sekarang juga!
                   </p>
                   <h4 class="section-subtitle">Talk to us</h4>
@@ -141,7 +143,7 @@
                       <img class="talk-to__img" src="/img/career/icon/mail.png" alt="Email">
                       <span class="talk-to__ctc">recruit@logique.co.id</span>
                     </a>
-                  </div><br>
+                  </div>
                 </div>
                 <div class="col-md-6 col-sm-12">
                   <h2 class="section-title">Dibutuhkan Segera!</h2>
@@ -159,7 +161,7 @@
                       <div class="urgent-need__text">Front End Developer</div>
                     </a>
                   </div>
-                  <a href="/career/lowongan.php" class="form-control main-btn --yellow">Lihat Semua Lowongan</a>
+                  <a href="/career/lowongan.php" style="padding-top: 10px; padding-bottom: 10px; font-size: 20px;" class="form-control main-btn --yellow">Lihat Semua Lowongan</a>
                 </div>
               </div>
             </div>

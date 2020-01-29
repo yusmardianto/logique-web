@@ -84,7 +84,7 @@
 
     <div class="career-update --bg-grey content-wrapper__">
       <section class="container-fluid --top bg--banner-pekerjaan">
-        <div class="container--max-width header-banner">
+        <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
@@ -103,6 +103,8 @@
               </ol>
             </div>
           </div>
+        </div>
+        <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-6">
               <h1 class="header__title">Aktivitas Kerja LOGIQUE</h1>
@@ -252,6 +254,7 @@
       </section>
       <?php include './layout-career/semua-lowongan.php'; ?>
       <?php include './layout-career/link-section.php'; ?>
+      <br><br>
       <?php include './layout-career/contact-lgq.php'; ?>
     </div>
 

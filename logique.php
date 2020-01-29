@@ -10,15 +10,15 @@
     <meta name="keywords"
         content="jasa pembuatan website, digital marketing, web developer, pengembangan aplikasi mobile, sistem aplikasi">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Web Developer, Designer, Digital Marketing Jakarta Terbaik | LOGIQUE">
+    <meta property="og:title" content="Web / Mobile App Developer, Konsultan IT, Digital Marketing Jakarta | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/logique.php">
     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
     <meta property="og:description"
-        content="LOGIQUE Digital Indonesia, perusahaan Web Developer, Designer, dan Digital Marketing di Jakarta yang berikan solusi terbaik untuk bisnis seperti pengembangan website, web sistem, dan mobile app.">
+        content="LOGIQUE Digital Indonesia, perusahaan Web Developer, Konsultan IT, dan Digital Marketing di Jakarta yang berikan solusi terbaik untuk bisnis seperti pengembangan website, web sistem, dan mobile app.">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Web Developer, Designer, Digital Marketing Jakarta Terbaik | LOGIQUE</title>
+    <title>Web / Mobile App Developer, Konsultan IT, Digital Marketing Jakarta | LOGIQUE</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -153,7 +153,7 @@
                             <h1 class="title-index">Tentang Kami</h1>
                             <hr class="title__yellow-line--center">
                             <p class="title__description">LOGIQUE Digital Indonesia adalah konsultan IT dan perusahaan pengembang sistem terkemuka yang dipimpin oleh seorang pengusaha Jepang di Jakarta. <br><br>
-                            Sebagai client-oriented developer, kami melayani klien yang percaya pada efektivitas pemasaran digital berkualitas tinggi; berkontribusi pada perkembangan TI terdepan dengan memberdayakan perusahaan Anda melalui berbagai layanan web dan apapun yang berkaitan dengan TI, seperti pengembangan aplikasi mobile, Aplikasi Web Progresif (PWA), pengembangan web dan sistem, SEO, dan berbagai layanan digital lainnya.</p>
+                            Sebagai client-oriented developer, kami melayani klien yang percaya pada efektivitas pemasaran digital berkualitas tinggi; berkontribusi pada perkembangan teknologi informasi terdepan dengan memberdayakan perusahaan Anda melalui berbagai layanan web dan apapun yang berkaitan dengan teknologi informasi, seperti pengembangan aplikasi mobile, Aplikasi Web Progresif (PWA), pengembangan web dan sistem, SEO, dan berbagai layanan digital lainnya.</p>
                         </div>
 
                         <div class="row">
@@ -173,6 +173,14 @@
                                                     </div>
                                                 </div> -->
                                                 <div class="item active">
+                                                    <img style="object-position:0 0" src="/img/slider1.jpg"
+                                                        alt="Web Developer LOGIQUE 1">
+                                                    <div class="custombox__slider-text-wrapper">
+                                                        <p class="custombox__slider-text">Konsultasi dengan kami agar kami dapat membantu mengembangkan bisnis Anda.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <div class="item">
                                                     <img src="/img/slider5.jpg" alt="Web Developer LOGIQUE 5">
                                                     <div class="custombox__slider-text-wrapper">
                                                         <p class="custombox__slider-text">Dengan lebih dari 7 tahun pengalaman di Indonesia, tim kami siap untuk menyelesaikan berbagai permasalahan IT Anda.</p>
@@ -188,15 +196,7 @@
                                                 <div class="item">
                                                     <img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
                                                     <div class="custombox__slider-text-wrapper">
-                                                        <p class="custombox__slider-text">Kami menghasilkan software berkualitas yang mengikuti standar jepang / international, untuk memenuhi permintaan klien secara global. 
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="item">
-                                                    <img style="object-position:0 0" src="/img/slider1.jpg"
-                                                        alt="Web Developer LOGIQUE 1">
-                                                    <div class="custombox__slider-text-wrapper">
-                                                        <p class="custombox__slider-text">Konsultasi dengan kami agar kami dapat membantu mengembangkan bisnis Anda.
+                                                        <p class="custombox__slider-text">Kami menghasilkan software berkualitas yang mengikuti standar jepang / internasional, untuk memenuhi permintaan klien secara global. 
                                                         </p>
                                                     </div>
                                                 </div>
@@ -261,19 +261,19 @@
                     <h1 class="title-index">Misi LOGIQUE</h1>
                     <hr class="title__yellow-line"><br>
                     <div class="row">
-                        <div class="col-sm-4">
-                            <h4 class="title-index--bold">PERKEMBANGAN</h4><br>
-                            <p>Untuk mendukung sebanyak mungkin perusahaan di Indonesia dalam mencapai tujuannya untuk tumbuh dan berkembang dengan memberikan solusi IT / digital terbaik</p>
+                        <div class="col-sm-6">
+                            <!-- <h4 class="title-index--bold">PERKEMBANGAN</h4><br> -->
+                            <p>Mndukung sebanyak mungkin perusahaan di Indonesia dalam mencapai tujuannya dengan memberikan solusi IT / pemasaran digital terbaik</p>
                         </div>
-                        <div class="col-sm-4">
-                            <h4 class="title-index--bold">INOVASI</h4><br>
-                            <p>Untuk berkontribusi pada pertumbuhan Pengembangan Web dan industri Pemasaran Digital di Indonesia melalui ide dan inovasi baru, mengubah dan memperbarui kebiasaan lama.</p>
+                        <div class="col-sm-6">
+                            <!-- <h4 class="title-index--bold">INOVASI</h4><br> -->
+                            <p>Berkontribusi pada pertumbuhan industri pembuatan dan pengembangan web / aplikasi mobile di Indonesia, serta memberikan peluang yang lebih baik bagi para pengembang web / aplikasi di Indonesia.</p>
                         </div>
-                        <div class="col-sm-4">
+                        <!-- <div class="col-sm-4">
                             <h4 class="title-index--bold">PELUANG</h4><br>
                             <p>Untuk memberikan peluang yang lebih baik bagi Pencipta dan Pengembang di Indonesia dengan membantu memaksimalkan potensi mereka untuk masa depan yang lebih baik.
                             </p>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </section>
@@ -369,7 +369,7 @@
                     <div class="text-center">
                         <h1 class="title-index">Layanan LOGIQUE</h1>
                         <hr class="title__yellow-line--center">
-                        <p class="title__description">Kami menyediakan beragam layanan yang berpusat pada TI, mulai dari desain web dan pengembangan sistem / aplikasi, hingga pemasaran digital. Kami juga telah menciptakan Alat manajemen HR Cloud untuk menyelesaikan masalah bisnis di Indonesia. Jangan ragu untuk menghubungi kami jika Anda tertarik dengan layanan dan produk kami!
+                        <p class="title__description">Kami menyediakan beragam layanan seputar website dan Internet, mulai dari desain dan pembuatan website, pengembangan sistem / aplikasi, hingga pemasaran digital. Kami juga telah menciptakan berbagai sistem HR berbasis cloud untuk menyelesaikan masalah perusahaan di Indonesia. Jangan ragu untuk menghubungi kami jika Anda tertarik dengan layanan dan produk kami.
                         </p>
                     </div>
 
@@ -397,7 +397,7 @@
                 </div>
             </section>
 
-            <section id="contact">
+            <!-- <section id="contact">
                 <div class="container__">
                     <div class="row">
                         <div class="col-sm-5">
@@ -409,21 +409,23 @@
                         </div>
                         <div class="col-sm-7">
                             <ul class="lgq-does__list">
-                                <li>Mengembangkan situs web / sistem web / aplikasi seluler</li>
+                                <li>Mengembangkan situs web / sistem web / aplikasi mobile</li>
                                 <li>Mengganti agen outsourcing / vendor IT / Pemasaran Digital</li>
-                                <li>Mengalihdayakan operasi situs web / sistem.</li>
+                                <li>Mengelola pengoperasian situs web / sistem.</li>
                                 <li>Meningkatkan akses ke situs web Anda dengan SEO.</li>
                                 <li>Mengorganisir dan menjalankan strategi promosi online.</li>
                                 <li>Mencari penyewaan server web dan perusahaan untuk mengelolanya.</li>
-                                <li>Menerapkan alat manajemen SDM cloud</li>
-                                <li>Merencanakan strategi TI / Digital untuk bisnis Anda</li>
+                                <li>Menerapkan sistem manajemen SDM/HR berbasis cloud</li>
+                                <li>Merencanakan strategi digital untuk bisnis Anda</li>
                             </ul>
                             <a href="hubungi-kami.php" class="btn btn-contact-us-black" style="width: auto">Hubungi
                                 LOGIQUE</a>
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
+
+            <?php include "./contact-logique-section.php"; ?>
 
         </div>
 

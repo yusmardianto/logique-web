@@ -86,7 +86,7 @@
     <div class="career-update content-wrapper__">
 
       <section class="container-fluid --top bg--h-vision">
-        <div class="container--max-width header-banner">
+        <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
@@ -105,6 +105,8 @@
               </ol>
             </div>
           </div>
+        </div>
+        <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
               <h1 class="header__title">Visi & Budaya Kerja LOGIQUE</h1>
@@ -124,7 +126,7 @@
               <div class="vision-box">
                 <div class="vision-box__title">Visi Kami</div>
                 <div class="vision-box__content">
-                  <ul>
+                  <ul class="vision-box__list">
                     <li class="mb--20">
                       Kami memiliki cara kerja yang modern, efektif dan efisien yang menyesuaikan antara gaya hidu
                       masyarakat Indonesia dengan undang-undang yang berlaku.
@@ -151,7 +153,7 @@
               </div>
               <div class="vision-box">
                 <div class="vision-box__title">Kriteria Kandidat</div>
-                <div class="vision-box__content">
+                <div class="vision-box__content --text-center">
                   <p class="mb--20">
                     Hubungan yang baik tidak akan dapat berlangsung lama jika kita tidak memiliki hubungan yang saling
                     menguntungkan satu sama lain dan kami tidak bisa menerima jika keuntungan itu hanya dirasakan oleh
@@ -177,7 +179,7 @@
                     Kami percaya LOGIQUE adalah tempat terbaik untuk orang-orang yang mempunyai pemikiran yang logis dan
                     juga rasional, mempunyai keinginan yang kuat untuk berkembang, dan tidak takut akan perubahan.
                   </p>
-                  <p class="mb--20">
+                  <p>
                     Jika itu Anda, mari bertemu dan berbicara bersama LOGIQUE
                   </p>
                 </div>
@@ -191,7 +193,7 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <h2 class="section-title">Keuntungan Bekerja di LOGIQUE</h2>
+              <h2 class="section-title" style="margin-bottom: 2.5em;">Keuntungan Bekerja di LOGIQUE</h2>
               <div class="row">
                 <div class="col-md-4 col-sm-6">
                   <div class="benefit-card">
@@ -239,7 +241,6 @@
                   </div>
                 </div>
               </div>
-              <br><br>
               <div class="benefit">
                 <div class="benefit__item">
                   <img class="benefit__img" src="../../img/career/icon/performance.png" alt="Performance Bonus">

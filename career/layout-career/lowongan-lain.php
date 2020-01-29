@@ -40,7 +40,7 @@
             <a href="/career/lowongan/designer-dm.php" class="see-position__item bg--sub-designer-dm">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
-                <h3 class="section-title">Designer / <br> Digital Marketing</h3>
+                <h3 style="font-size: 28px;" class="section-title">Designer / <br>Digital Marketing</h3>
               </div>
               <p>
                 Designer, SEO / Ad Specialist, Content Writer, etc.,
@@ -88,13 +88,13 @@
           </div>
           <?php endif; ?>
           <div class="col-xs-12">
-            <div class="bg--lowongan-intern" style="margin-top: 5rem;">
+            <div class="bg--lowongan-intern" style="margin-top: calc(2.5em - 15px);">
               <div class="row row__same-height">
-                <div class="col-md-6" style="padding-top: 8px; padding-bottom: 8px;">
+                <div class="col-md-5" style="padding-top: 8px; padding-bottom: 8px;">
                   <h3 class="section-title">Lowongan Magang</h3>
                   <p>Kami membuka lowongan magang bagi mahasiswa atau mahasiswi sesuai dengan kompetensi yang dimiliki.</p>
                 </div>
-                <div class="col-md-6" style="padding-top: 8px; padding-bottom: 8px;">
+                <div class="col-md-7" style="padding-top: 8px; padding-bottom: 8px;">
                   <a href="/career/intern/index.php">
                     <img class="img-responsive" src="/img/career/bg-img/bg-btn-black-intern.png" alt="LIHAT KESEHARIAN MAGANG DI LOGIQUE">
                   </a>

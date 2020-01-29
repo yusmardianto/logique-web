@@ -1,5 +1,5 @@
 <section>
-  <div class="container--max-width work-location">
+  <div class="container--max-width --no-padding work-location">
     <div class="row">
       <div class="col-sm-12 no-gap">
         <div class="row">
@@ -22,9 +22,7 @@
               <br>
               Kami juga menerapkan sistem kerja remote bagi para karyawan kami sehingga Anda dapat bekerja dimana pun
               Anda
-              inginkan.
-              <br>
-              Segera hubungi tim rekrutmen kami sekarang!
+              inginkan. <b>Segera hubungi tim rekrutmen kami sekarang!</b>
             </p>
           </div>
         </div>
@@ -40,7 +38,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="text-center">
-              <a class="btn-banner-pattern mb--60" href="/hubungi-kami.php">
+              <a class="btn-banner-pattern mb--60" style="max-width: 350px;" href="/hubungi-kami.php">
                 <img class="img-responsive" src="/img/career/bg-img/bg-contact.png" alt="Kontak Kami">
                 <span>Kontak Kami</span>
               </a>
@@ -58,7 +56,7 @@
           </div>
           <div class="col-md-6">
             <div class="text-center">
-              <a class="btn-banner-pattern mb--60" href="/career/lowongan.php">
+              <a class="btn-banner-pattern mb--60" style="max-width: 350px;" href="/career/lowongan.php">
                 <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png" alt="Lamar Pekerjaan Sekarang">
                 <span>Lamar Pekerjaan Sekarang</span>
               </a>

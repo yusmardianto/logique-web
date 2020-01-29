@@ -42,7 +42,7 @@ ul.news-list li:not(:last-child) {
 .news-list__body a {
   display: inline-block;
   color: rgb(205, 7, 7);
-  font-size: 16px;
+  font-size: 13px;
   font-style: italic;
   letter-spacing: 0.25px;
   line-height: 25px;
@@ -81,7 +81,7 @@ ul.news-list li a:hover {
   .news-list__body a {
     margin-left: 15px;
     min-width: 110px;
-    max-width: 110px;
+    max-width: 140px;
   }
 }
 </style>
@@ -99,21 +99,31 @@ $item = array (
 array_push($feed, $item);
 }
 $limit = 5; 
-?>
+function tgl_indo($tanggal){
+  $bulan = array (
+    1 =>   'Januari',
+		'Februari',
+		'Maret',
+		'April',
+		'Mei',
+		'Juni',
+		'Juli',
+		'Agustus',
+		'September',
+		'Oktober',
+		'November',
+		'Desember'
+  );
+  $pecahkan = explode('-', $tanggal);
+   
 
-<?php 
-// if (function_exists("curl_init")){
-//     $ch=curl_init();
-//     curl_setopt($ch,CURLOPT_URL,"http://feeds.feedburner.com/rb286");
-//     curl_setopt($ch,CURLOPT_RETURNTRANSFER,1);
-//     $data=curl_exec($ch);
-//     curl_close($ch);
-//     $doc=new SimpleXmlElement($data);
-//     print_r($doc);
-// }
+  return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+}
+
 ?>
+ 
 <section class="container-fluid">
-  <div class="container--max-width">
+  <div class="container--max-width --no-padding">
     <div class="row">
       <div class="col-sm-12 bg--f5f5f5 py--2-5em">
         <div class="row">
@@ -124,15 +134,14 @@ $limit = 5;
           </div>
         </div>
         <ul class="news-list">
-          <?php 
+          <?php
+            
             for($x=0;$x<$limit;$x++) {
             $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
             $link = $feed[$x]['link'];
             $description = $feed[$x]['desc'];
             $date = date('F d, Y', strtotime($feed[$x]['date']));
-            // echo '<p><strong><a href="'.$link.'" title="'.$title.'">'.$title.'</a></strong><br />';
-            // echo '<small><em>Posted on '.$date.'</em></small></p>';
-            // echo '<p>'.$description.'</p>';
+ 
            
           ?>
           <li class="row">
@@ -140,76 +149,17 @@ $limit = 5;
               <div class="news-list__body">
                 <div class="news-list__content">
                   <span class="news-list__news-date">
-                    <?php echo $date ;?>
+                    <?php echo tgl_indo(date('Y-m-d', strtotime($feed[$x]['date']))) ;?>
                   </span>
                   <p><?php echo $title ?></p>
                 </div>
-                <a href="<?php echo $link ?>" target="_blank" rel="noreferrer">Read more ></a>
+                <a href="<?php echo $link ?>" target="_blank" rel="noreferrer">Baca Selengkapnya ></a>
               </div>
             </div>
           </li>
-        <?php  } ?>
+          <?php  } ?>
         </ul>
-        <!-- <ul class="news-list">
-          <li class="row">
-            <div class="col-sm-offset-1 col-sm-10">
-              <div class="news-list__body">
-                <div class="news-list__content">
-                  <span class="news-list__news-date">
-                    21st Dec 2019
-                  </span>
-                  <p>Kami sedang mencari QA Lead. Segera daftarkan diri Anda sekarang.</p>
-                </div>
-                <a href="#" target="_blank" rel="noreferrer">Read more ></a>
-              </div>
-            </div>
-          </li>
-          <li class="row">
-            <div class="col-sm-offset-1 col-sm-10">
-              <div class="news-list__body">
-                <div class="news-list__content">
-                  <span class="news-list__news-date">
-                    18th Dec 2019
-                  </span>
-                  <p>
-                  Kami akan bergabung dengan event pencari kerja di Universitas presiden pada 2 Maret.
-                  </p>
-                </div>
-                <a href="#" target="_blank" rel="noreferrer">Read more ></a>
-              </div>
-            </div>
-          </li>
-          <li class="row">
-            <div class="col-sm-offset-1 col-sm-10">
-              <div class="news-list__body">
-                <div class="news-list__content">
-                  <span class="news-list__news-date">
-                    13th Dec 2019
-                  </span>
-                  <p>
-                  Kami sedang membutuhkan dengan cepat lowongan kerja sebagai php programmer senior.
-                  </p>
-                </div>
-                <a href="#" target="_blank" rel="noreferrer">Read more ></a>
-              </div>
-            </div>
-          </li>
-          <li class="row">
-            <div class="col-sm-offset-1 col-sm-10">
-              <div class="news-list__body">
-                <div class="news-list__content">
-                  <span class="news-list__news-date">
-                    15th Nov 2019
-                  </span>
-                  <p>
-                    We opened the urgent hiring of Senior PHP programmer position.
-                  </p>
-                </div>
-                <a href="#" target="_blank" rel="noreferrer">Read more ></a>
-              </div>
-            </div>
-          </li>
-        </ul> -->
+       
       </div>
     </div>
   </div>

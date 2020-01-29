@@ -86,7 +86,7 @@
     <div class="career-update content-wrapper__">
 
       <section class="container-fluid --top bg--working">
-        <div class="container--max-width header-banner">
+        <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
@@ -105,6 +105,8 @@
               </ol>
             </div>
           </div>
+        </div>
+        <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
               <h1 class="header__title">Lingkungan Kerja dan Pedoman HR</h1>
@@ -125,7 +127,8 @@
               <div class="hr-rule">
                 <div class="hr-rule__header" data-toggle="collapse" data-target="#wHour">
                   <h4 class="hr-rule__title">Jam Kerja</h4>
-                  <i class="hr-rule__chevron fa fa-chevron-down"></i>
+                  <!-- <img class="hr-rule__chevron" src="/img/career/icon/arrow.png" alt="arrow"> -->
+                  <img class="hr-rule__chevron" src="/img/career/icon/arrow.png" alt="arrow">
                 </div>
                 <div class="hr-rule__content collapse" id="wHour"><br>
                   <ol>
@@ -160,7 +163,7 @@
               <div class="hr-rule">
                 <div class="hr-rule__header" data-toggle="collapse" data-target="#bonus">
                   <h4 class="hr-rule__title">Gaji dan Bonus</h4>
-                  <i class="hr-rule__chevron fa fa-chevron-down"></i>
+                  <img class="hr-rule__chevron" src="/img/career/icon/arrow.png" alt="arrow">
                 </div>
                 <div class="hr-rule__content collapse" id="bonus"><br>
                   <ol>
@@ -195,7 +198,7 @@
               <div class="hr-rule">
                 <div class="hr-rule__header" data-toggle="collapse" data-target="#obligatory">
                   <h4 class="hr-rule__title">Kewajiban Karyawan</h4>
-                  <i class="hr-rule__chevron fa fa-chevron-down"></i>
+                  <img class="hr-rule__chevron" src="/img/career/icon/arrow.png" alt="arrow">
                 </div>
                 <div class="hr-rule__content collapse" id="obligatory"><br>
                   <ol>
@@ -230,7 +233,7 @@
               <div class="hr-rule">
                 <div class="hr-rule__header" data-toggle="collapse" data-target="#dayOff">
                   <h4 class="hr-rule__title">Cuti dan Lembur</h4>
-                  <i class="hr-rule__chevron fa fa-chevron-down"></i>
+                  <img class="hr-rule__chevron" src="/img/career/icon/arrow.png" alt="arrow">
                 </div>
                 <div class="hr-rule__content collapse" id="dayOff"><br>
                   <ol>
@@ -265,7 +268,7 @@
               <div class="hr-rule">
                 <div class="hr-rule__header" data-toggle="collapse" data-target="#rights">
                   <h4 class="hr-rule__title">Hak Karyawan</h4>
-                  <i class="hr-rule__chevron fa fa-chevron-down"></i>
+                  <img class="hr-rule__chevron" src="/img/career/icon/arrow.png" alt="arrow">
                 </div>
                 <div class="hr-rule__content collapse" id="rights"><br>
                   <ol>
@@ -297,11 +300,6 @@
                   </ol>
                 </div>
               </div>
-              <div class="row">
-                <div class="col-sm-12">
-                  <a href="/logique.php" class="form-control main-btn --yellow">Ketahui Tentang Kami Di Sini</a>
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -319,7 +317,7 @@
     $('.waNumber').html('0822-60-5678-56');
 
         $('.hr-rule__header').on('click', function() {
-            $(this).children('.hr-rule__chevron').toggleClass('fa-chevron-down fa-chevron-up');
+            $(this).children('.hr-rule__chevron').toggleClass('--rotate');
         });
     </script>
 </body>

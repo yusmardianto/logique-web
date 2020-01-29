@@ -1,5 +1,5 @@
 <section>
-  <div class="container--max-width link-section">
+  <div class="container--max-width --no-padding link-section">
     <div class="row">
       <div class="col-sm-12 no-gap">
         <div class="row">
@@ -17,7 +17,7 @@
             <div class="link-box bg--vision">
               <div class="link-box__text-wrapper">
                 <p class="link-box__text">
-                  Kenali visi dan budaya kerja kami di sini.
+                  Kenali visi dan <br> budaya kerja kami di sini.
                 </p>
               </div>
               <a href="/career/visi-budaya.php" class="main-btn --link-box">Visi dan Budaya Kerja</a>

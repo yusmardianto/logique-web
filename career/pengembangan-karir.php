@@ -85,7 +85,7 @@
 
     <div class="career-update content-wrapper__">
       <section class="container-fluid --top bg--career-dev">
-        <div class="container--max-width header-banner">
+        <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
@@ -104,6 +104,8 @@
               </ol>
             </div>
           </div>
+        </div>
+        <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-6">
               <h1 class="header__title">Pengembangan Karir</h1>
@@ -117,7 +119,7 @@
         </div>
       </section>
       <section class="container-fluid">
-        <div class="container--max-width">
+        <div class="container--max-width --my-2em">
           <div class="row">
             <div class="container-fluid col-sm-offset-1 col-sm-10">
               <div class="row">
