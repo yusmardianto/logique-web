@@ -100,6 +100,18 @@ array_push($feed, $item);
 }
 $limit = 5; 
 ?>
+
+<?php 
+// if (function_exists("curl_init")){
+//     $ch=curl_init();
+//     curl_setopt($ch,CURLOPT_URL,"http://feeds.feedburner.com/rb286");
+//     curl_setopt($ch,CURLOPT_RETURNTRANSFER,1);
+//     $data=curl_exec($ch);
+//     curl_close($ch);
+//     $doc=new SimpleXmlElement($data);
+//     print_r($doc);
+// }
+?>
 <section class="container-fluid">
   <div class="container--max-width">
     <div class="row">
@@ -117,7 +129,7 @@ $limit = 5;
             $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
             $link = $feed[$x]['link'];
             $description = $feed[$x]['desc'];
-            $date = date('l F d, Y', strtotime($feed[$x]['date']));
+            $date = date('F d, Y', strtotime($feed[$x]['date']));
             // echo '<p><strong><a href="'.$link.'" title="'.$title.'">'.$title.'</a></strong><br />';
             // echo '<small><em>Posted on '.$date.'</em></small></p>';
             // echo '<p>'.$description.'</p>';
