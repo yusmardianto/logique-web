@@ -83,7 +83,7 @@
     <!-- Header -->
     <?php include './layout-career/header-career.php'; ?>
 
-    <div class="career-update content-wrapper__">
+    <div class="career-update content-wrapper__ --bg-grey">
 
       <section class="container-fluid --top bg--informasi">
         <div class="container--max-width --no-padding">
@@ -116,52 +116,61 @@
       </section>
 
       <section class="container-fluid ">
-        <div class="container--max-width">
+        <div class="container--max-width" style="padding: 60px 0;">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <div class="row">
+              <div class="row info-lowongan">
                 <div class="col-md-6 col-sm-12">
                   <h2 class="section-title">Info Lowongan</h2>
-                  <p class="mb--15">
+                  <p class="mb--15 info-lowongan--desc">
                     LOGIQUE memberikan kesempatan kepada Anda untuk bergabung bersama kami dan mengembangkan potensi
                     yang Anda miliki saat ini.
-                  </p>
-                  <p class="mb--15">
+                    <br>
                     Mengadopsi budaya kerja start up, kami selalu mendukung seluruh karyawan kami untuk terus
                     meningkatkan skill dan pengetahuan mereka tentang berbagai update terbaru di dunia IT.
+                    <br>
+                    Anda tertarik untuk bekerja di LOGIQUE?
+                    <br>
+                    <strong>Segera hubungi tim rekrutmen LOGIQUE sekarang juga!</strong>
                   </p>
-                  <p class="mb--15">
-                    Anda tertarik untuk bekerja di LOGIQUE? Segera hubungi tim rekrutmen LOGIQUE sekarang juga!
-                  </p>
-                  <h4 class="section-subtitle">Talk to us</h4>
-                  <div class="talk-to">
-                    <a href="https://wa.me/+6282260567856" target="_blank" class="talk-to__item">
-                      <img class="talk-to__img" src="/img/career/icon/wa.png" alt="Whatsapp Number">
-                      <span class="talk-to__ctc">082260567856</span>
-                    </a>
-                    <a href="mailto:recruit@logique.co.id" class="talk-to__item">
-                      <img class="talk-to__img" src="/img/career/icon/mail.png" alt="Email">
-                      <span class="talk-to__ctc">recruit@logique.co.id</span>
-                    </a>
+                  <div class="talk-to__wrapper">
+                    <h4 class="section-subtitle">Talk
+                      to
+                      us</h4>
+                    <div style="display: inline-block;">
+                      <div class="talk-to">
+                        <a href="https://wa.me/+6282260567856" target="_blank" class="talk-to__item">
+                          <img class="talk-to__img" src="/img/career/icon/wa.png" alt="Whatsapp Number">
+                          <span class="talk-to__ctc">082260567856</span>
+                        </a>
+                        <a href="mailto:recruit@logique.co.id" class="talk-to__item">
+                          <img class="talk-to__img" src="/img/career/icon/mail.png" alt="Email">
+                          <span class="talk-to__ctc">recruit@logique.co.id</span>
+                        </a>
+                      </div>
+                    </div>
                   </div>
                 </div>
                 <div class="col-md-6 col-sm-12">
-                  <h2 class="section-title">Dibutuhkan Segera!</h2>
-                  <div class="urgent-need">
-                    <a href="/career/lowongan/designer-dm/ui-ux-designer.php" class="urgent-need__item">
-                      <img class="urgent-need__img" src="/img/career/icon/ux.png" alt="UI/UX Designer">
-                      <div class="urgent-need__text">UI/UX Designer</div>
-                    </a>
-                    <a href="/career/lowongan/designer-dm/digital-marketing-specialist.php" class="urgent-need__item">
-                      <img class="urgent-need__img" src="/img/career/icon/dm.png" alt="Digital Marketing">
-                      <div class="urgent-need__text">Digital Marketing</div>
-                    </a>
-                    <a href="/career/lowongan/programmer/frontend-developer.php" class="urgent-need__item">
-                      <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Front End Developer">
-                      <div class="urgent-need__text">Front End Developer</div>
-                    </a>
+                  <div class="urgent-box">
+                    <h2 class="section-title">Dibutuhkan Segera!</h2>
+                    <div class="urgent-need">
+                      <a href="/career/lowongan/designer-dm/ui-ux-designer.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/ux.png" alt="UI/UX Designer">
+                        <div class="urgent-need__text">UI/UX Designer</div>
+                      </a>
+                      <a href="/career/lowongan/designer-dm/digital-marketing-specialist.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/dm.png" alt="Digital Marketing">
+                        <div class="urgent-need__text">Digital Marketing</div>
+                      </a>
+                      <a href="/career/lowongan/programmer/frontend-developer.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Front End Developer">
+                        <div class="urgent-need__text">Front End Developer</div>
+                      </a>
+                    </div>
+                    <a href="/career/lowongan.php" style="padding-top: 10px; padding-bottom: 10px; font-size: 20px;"
+                      class="form-control main-btn --yellow">Lihat Semua Lowongan</a>
                   </div>
-                  <a href="/career/lowongan.php" style="padding-top: 10px; padding-bottom: 10px; font-size: 20px;" class="form-control main-btn --yellow">Lihat Semua Lowongan</a>
                 </div>
               </div>
             </div>

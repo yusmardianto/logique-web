@@ -135,7 +135,7 @@
                 <div class="col-md-4 pb--2-5em">
                   <img class="img-responsive center-block" src="/img/career/ghitta-message.png" alt="HR Ghitta">
                   <div class="message__text-wrapper">
-                    <h4 class="message__text-title">
+                    <h4 class="message__text-title" data-emergence="hidden">
                       Ghitta
                       <br class="visible-md hidden-lg">
                       <span class="role--title">
@@ -156,7 +156,7 @@
                 <div class="col-md-4 pb--2-5em">
                   <img class="img-responsive center-block" src="/img/career/taufik-message.png" alt="FE Taufik">
                   <div class="message__text-wrapper">
-                    <h4 class="message__text-title">
+                    <h4 class="message__text-title" data-emergence="hidden">
                       Taufik
                       <br class="visible-md hidden-lg">
                       <span class="role--title">
@@ -174,7 +174,7 @@
                 <div class="col-md-4 pb--2-5em">
                   <img class="img-responsive center-block" src="/img/career/muklis-message.png" alt="BE Muklis">
                   <div class="message__text-wrapper">
-                    <h4 class="message__text-title">
+                    <h4 class="message__text-title" data-emergence="hidden">
                       Muklis
                       <br class="visible-md hidden-lg">
                       <span class="role--title">
@@ -258,9 +258,9 @@
                   </div>
                 </div>
                 <div class="col-sm-12">
-                  <a style="margin-top: 22.5px; margin-bottom: 22.5px;" class="form-control main-btn --small-padding-font --yellow"
-                    role="button" data-toggle="collapse" href="#collapsePhotos" aria-expanded="false"
-                    aria-controls="collapsePhotos">
+                  <a style="margin-top: 22.5px; margin-bottom: 22.5px;"
+                    class="form-control main-btn --small-padding-font --yellow" role="button" data-toggle="collapse"
+                    href="#collapsePhotos" aria-expanded="false" aria-controls="collapsePhotos">
                     Lihat Semua Foto
                   </a>
                 </div>
@@ -293,7 +293,11 @@
 
     <?php include '../footer.php'; ?>
   </div>
+  <script src="/js/emergence.min.js"></script>
   <script type="text/JavaScript">
+    emergence.init({
+      offsetTop: 100
+    });
     $('.waNumber').html('0822-60-5678-56');
     </script>
 </body>

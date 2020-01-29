@@ -157,6 +157,10 @@ div:focus {
   padding-bottom: 2.5em;
 }
 
+.font--24 {
+  font-size: 24px;
+}
+
 /*** Header & Navbar ***/
 span {
   margin: 0;
@@ -1150,6 +1154,10 @@ ul.medsos-new li a {
   color: #000;
 }
 
+.--black {
+  color: #000;
+}
+
 .header__sub-title {
   font-family: "Open Sans", sans-serif;
   color: #fff;
@@ -1179,30 +1187,80 @@ ul.medsos-new li a {
 /* End Title */
 
 /* Talk to */
+.talk-to__wrapper .section-subtitle {
+  font-size: 15px;
+  font-weight: 800;
+  display: inline-block;
+  margin-right: 20px;
+}
 .talk-to {
   display: flex;
+  align-items: center;
   flex-wrap: wrap;
   margin-top: 15px;
 }
+
 .talk-to__item {
   display: flex;
   align-items: center;
-  margin-right: 35px;
+  margin-right: 20px;
   color: #000;
+  background: #fff;
+  box-shadow: 0px 8px 12px -2px rgba(0, 0, 0, 0.1);
+  padding: 8px 20px;
+}
+
+.talk-to__item {
+  margin-bottom: 15px;
 }
 
 .talk-to__img {
-  max-width: 18px;
-  max-height: 18px;
+  max-width: 16px;
+  max-height: 16px;
   margin-right: 6px;
 }
 
 .talk-to__ctc {
-  font-weight: 600;
+  font-weight: 700;
+  font-size: 12px;
 }
 /* End Talk to */
 
+/* Info Lowongan */
+.info-lowongan {
+  font-family: "Open Sans", sans-serif;
+}
+.info-lowongan .section-title,
+.info-lowongan .section-subtitle {
+  color: #000000;
+  font-family: "Raleway", sans-serif;
+  font-weight: 900;
+}
+.info-lowongan--desc {
+  color: rgb(53, 53, 53);
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.info-lowongan--desc strong {
+  color: #353535;
+}
+
+/* End Info Lowongan */
+
 /* Urgent Need */
+.urgent-box {
+  background-color: #fff;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+@media (max-width: 991px) {
+  .urgent-box {
+    margin-top: 30px;
+  }
+}
 .urgent-need {
   display: flex;
   justify-content: space-between;
@@ -1623,37 +1681,37 @@ ul.medsos-new li a {
 /* End Benefit */
 
 /* HR Rule */
-.hr-rule {
-  border-radius: 10px;
-  padding: 15px 20px;
-  box-shadow: 0px 5px 9px 0px rgba(0, 0, 0, 0.1);
-  margin-bottom: 2em;
+.hr-rule__img-wrapper {
+  width: 100%;
 }
-.hr-rule__header {
+
+.hr-rule__content {
+  height: 100%;
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  cursor: pointer;
-  /* margin-bottom: 1.5em; */
-}
-.hr-rule__chevron {
-  cursor: pointer;
-}
-.hr-rule__chevron.--rotate {
-  transform: rotateZ(180deg);
-}
-.hr-rule__title {
-  font-size: 22px;
-  font-weight: 600;
-}
-.hr-rule__content ol {
-  padding-left: 15px;
-}
-.hr-rule__content li {
-  padding-left: 15px;
+  flex-direction: column;
+  justify-content: center;
   font-family: "Open Sans", sans-serif;
-  margin-bottom: 20px;
+  color: #000;
 }
+
+@media (max-width: 991px) {
+  .hr-rule__img-wrapper {
+    text-align: center;
+  }
+  .hr-rule__content {
+    padding: 20px 0 45px 0;
+    text-align: center;
+  }
+}
+
+.hr-rule__content .section_subtitle {
+  margin-bottom: 15px;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 20px;
+  font-family: "Raleway", sans-serif;
+}
+
 /* End HR Rule */
 
 /* message */
@@ -1682,17 +1740,27 @@ ul.medsos-new li a {
   z-index: 5;
   line-height: 33px;
 }
+.message__text-title[data-emergence="hidden"] {
+}
+
+.message__text-title[data-emergence="visible"]::before {
+  width: -webkit-calc(100% + 20px);
+  width: calc(100% + 20px);
+}
 .message__text-title::before {
   content: "";
   position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
+  left: -10px;
+  /* transform: translateX(-50%); */
   bottom: 3px;
-  width: calc(100% + 20px);
+  /* width: calc(100% + 20px); */
+  width: 0;
   height: 12px;
   background-color: #ffca13;
-  opacity: 0.3;
+  opacity: 0.45;
   z-index: -1;
+  /* -webkit-transition: width 0.5s cubic-bezier(0.075, 0.82, 0.165, 1); */
+  transition: width 0.5s ease-out;
 }
 .message__text-title .role--title {
   display: inline-block;

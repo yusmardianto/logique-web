@@ -108,7 +108,7 @@
         </div>
         <div class="container--max-width header-banner">
           <div class="row">
-            <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
+            <div class="col-sm-offset-1 col-xs-12 col-md-6 col-lg-8 col-sm-10">
               <h1 class="header__title">Lingkungan Kerja dan Pedoman HR</h1>
               <p>
                 Di LOGIQUE, pedoman HR yang dibuat bertujuan untuk membuat lingkungan kerja bagi para staff kami menjadi
@@ -123,181 +123,130 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <h2 class="header__title --black">Pedoman HR</h2>
-              <div class="hr-rule">
-                <div class="hr-rule__header" data-toggle="collapse" data-target="#wHour">
-                  <h4 class="hr-rule__title">Jam Kerja</h4>
-                  <!-- <img class="hr-rule__chevron" src="/img/career/icon/arrow.png" alt="arrow"> -->
-                  <img class="hr-rule__chevron" src="/img/career/icon/arrow.png" alt="arrow">
+              <h2 class="section-title --black">Pedoman HR</h2>
+              <div class="row row__same-height">
+                <div class="col-xs-12 col-md-6">
+                  <div class="hr-rule__img-wrapper" data-aos="fade-up">
+                    <img class="img-responsive center-block" src="/img/career/bg-img/bg-jam-kerja.png"
+                      alt="Jam Kerja / Minggu">
+                  </div>
                 </div>
-                <div class="hr-rule__content collapse" id="wHour"><br>
-                  <ol>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                  </ol>
+                <div class="col-xs-12 col-md-6">
+                  <div class="hr-rule__content" data-aos="fade-left">
+                    <h3 class="section_subtitle">Jam Kerja / Minggu</h3>
+                    <p>
+                      Di Logique Anda bisa bekerja tidak berdasarkan jumlah jam kerja perhari, Anda bisa mengatur
+                      seberapa efesien Anda bekerja dalam satu hari karena di Logique kami bekerja dengan hitungan jam
+                      kerja per-minggu.
+                    </p>
+                  </div>
                 </div>
               </div>
-              <div class="hr-rule">
-                <div class="hr-rule__header" data-toggle="collapse" data-target="#bonus">
-                  <h4 class="hr-rule__title">Gaji dan Bonus</h4>
-                  <img class="hr-rule__chevron" src="/img/career/icon/arrow.png" alt="arrow">
+              <div class="row row__same-height">
+                <div class="col-xs-12 col-md-6 col-md-push-6">
+                  <div class="hr-rule__img-wrapper" data-aos="fade-up">
+                    <img class="img-responsive center-block" src="/img/career/bg-img/bg-kerja-remote.png"
+                      alt="Kerja Remote">
+                  </div>
                 </div>
-                <div class="hr-rule__content collapse" id="bonus"><br>
-                  <ol>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                  </ol>
+                <div class="col-xs-12 col-md-6 col-md-pull-6">
+                  <div class="hr-rule__content" data-aos="fade-right">
+                    <h3 class="section_subtitle">Kerja Remote</h3>
+                    <p>
+                      Karyawan di Logqiue mendapatkan keuntungan untuk bekerja dimanapun yang mereka inginkan satu hari
+                      dalam seminggu dengan jumlah hari yang bisa berubah tergantung dengan bagaimana cara anda bekerja
+                      saat remote work
+                    </p>
+                  </div>
                 </div>
               </div>
-              <div class="hr-rule">
-                <div class="hr-rule__header" data-toggle="collapse" data-target="#obligatory">
-                  <h4 class="hr-rule__title">Kewajiban Karyawan</h4>
-                  <img class="hr-rule__chevron" src="/img/career/icon/arrow.png" alt="arrow">
+              <div class="row row__same-height">
+                <div class="col-xs-12 col-md-6">
+                  <div class="hr-rule__img-wrapper" data-aos="fade-up">
+                    <img class="img-responsive center-block" src="/img/career/bg-img/bg-tax.png" alt="Tax">
+                  </div>
                 </div>
-                <div class="hr-rule__content collapse" id="obligatory"><br>
-                  <ol>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                  </ol>
+                <div class="col-xs-12 col-md-6">
+                  <div class="hr-rule__content" data-aos="fade-left">
+                    <h3 class="section_subtitle">Tax</h3>
+                    <p>
+                      Untuk system penggajian Logique akan menanggung pajak yang seharusnya di bayarkan oleh masing2
+                      karyawan, sehingga karyawan tidak akan mendapatkan potang untuk membayarkan pajaknya.
+                    </p>
+                  </div>
                 </div>
               </div>
-              <div class="hr-rule">
-                <div class="hr-rule__header" data-toggle="collapse" data-target="#dayOff">
-                  <h4 class="hr-rule__title">Cuti dan Lembur</h4>
-                  <img class="hr-rule__chevron" src="/img/career/icon/arrow.png" alt="arrow">
+              <div class="row row__same-height">
+                <div class="col-xs-12 col-md-6 col-md-push-6">
+                  <div class="hr-rule__img-wrapper" data-aos="fade-up">
+                    <img class="img-responsive center-block" src="/img/career/bg-img/bg-gaji.png"
+                      alt="Kenaikan Gaji Kapanpun">
+                  </div>
                 </div>
-                <div class="hr-rule__content collapse" id="dayOff"><br>
-                  <ol>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                  </ol>
+                <div class="col-xs-12 col-md-6 col-md-pull-6">
+                  <div class="hr-rule__content" data-aos="fade-right">
+                    <h3 class="section_subtitle">Kenaikan Gaji Kapanpun</h3>
+                    <p>
+                      Kenaikan gaji untuk setahun sekali??? Kata2 itu tidak akan pernah ada di Logique karena di Logique
+                      anda bisa naik posisi, level kapanpun dalam waktu yang sesingkat mungkin, tergantung bagaimana
+                      cara
+                      anda bekerja dan apa yang bisa Anda berikan di Logique.
+                    </p>
+                  </div>
                 </div>
               </div>
-              <div class="hr-rule">
-                <div class="hr-rule__header" data-toggle="collapse" data-target="#rights">
-                  <h4 class="hr-rule__title">Hak Karyawan</h4>
-                  <img class="hr-rule__chevron" src="/img/career/icon/arrow.png" alt="arrow">
+              <div class="row row__same-height">
+                <div class="col-xs-12 col-md-6">
+                  <div class="hr-rule__img-wrapper" data-aos="fade-up">
+                    <img class="img-responsive center-block" src="/img/career/bg-img/bg-bonus.png"
+                      alt="Unlimited Bonus">
+                  </div>
                 </div>
-                <div class="hr-rule__content collapse" id="rights"><br>
-                  <ol>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis reiciendis minima quod
-                      voluptatum
-                      necessitatibus aut hic! Laborum quia excepturi, quaerat ratione sequi, voluptate corrupti
-                      perferendis,
-                      numquam repellat odit ullam voluptatibus!</li>
-                  </ol>
+                <div class="col-xs-12 col-md-6">
+                  <div class="hr-rule__content" data-aos="fade-left">
+                    <h3 class="section_subtitle">Unlimited Bonus</h3>
+                    <p>
+                      Logique mempunyai berbagai macam bonus yang bisa anda dapatkan setiap bulannya atau setiap
+                      tahunnya
+                      yang bisa anda dapat kan tergantung dengan performa dan juga kontribusi Anda dalam pengerjaan
+                      project
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="row row__same-height">
+                <div class="col-xs-12 col-md-6 col-md-push-6">
+                  <div class="hr-rule__img-wrapper" data-aos="fade-up">
+                    <img class="img-responsive center-block" src="/img/career/bg-img/bg-asuransi.png"
+                      alt="Asuransi Kesehatan">
+                  </div>
+                </div>
+                <div class="col-xs-12 col-md-6 col-md-pull-6">
+                  <div class="hr-rule__content" data-aos="fade-right">
+                    <h3 class="section_subtitle">Asuransi Kesehatan</h3>
+                    <p>
+                      Tak hanya dalam hal performa pekerjaan, Logique juga memperhatikan kesehatan para karyawannya maka
+                      dari itu Logique memberikan benefit asuransi kesehatan yang bisa di pakai dimanapun dengan system
+                      cashless
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="row row__same-height">
+                <div class="col-xs-12 col-md-6">
+                  <div class="hr-rule__img-wrapper" data-aos="fade-up">
+                    <img class="img-responsive center-block" src="/img/career/bg-img/bg-unoff.png"
+                      alt="Unofficial Event">
+                  </div>
+                </div>
+                <div class="col-xs-12 col-md-6">
+                  <div class="hr-rule__content" data-aos="fade-left">
+                    <h3 class="section_subtitle">Unofficial Event</h3>
+                    <p>
+                      Sebagai pelepas lelah untuk karyawannya, Logique menawarkan berbagai kegiatan yang akan di subsidy
+                      dari perusahaan. Jenis kegiatan akan di bebaskan tergantung pada keinginan karyawan.
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>
@@ -313,13 +262,14 @@
 
     <?php include '../footer.php'; ?>
   </div>
+  <script src="/js/aos.js"></script>
   <script type="text/JavaScript">
+    AOS.init({
+      disable: 'mobile',
+      duration: 1500
+    });
     $('.waNumber').html('0822-60-5678-56');
-
-        $('.hr-rule__header').on('click', function() {
-            $(this).children('.hr-rule__chevron').toggleClass('--rotate');
-        });
-    </script>
+  </script>
 </body>
 
 </html>
