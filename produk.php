@@ -281,7 +281,7 @@
                 </div>
             </section>
 
-            <section id="contact">
+            <!-- <section id="contact">
                 <div class="container__">
                     <div class="row">
                         <div class="col-sm-5">
@@ -310,7 +310,8 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
+            <?php include "./contact-logique-section.php"; ?>
 
         </div>
         <!-- END CONTENT -->
