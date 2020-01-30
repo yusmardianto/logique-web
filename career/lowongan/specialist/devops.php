@@ -18,7 +18,7 @@
   <meta property="og:description"
     content="Saatnya berkarir dan kembangkan potensimu - Career at Logique Bergabunglah dan jadilah bagian dari perkembangan teknologi digital di Indonesia bersama Logique. Anda juga akan memiliki kesempatan luas untuk mengembangkan potensi dan karir Anda, serta berkarya dengan jam kerja yang fleksibel.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Project Manager</title>
+  <title>DevOps</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -85,7 +85,7 @@
 
     <div class="career-update content-wrapper__">
 
-      <section class="container-fluid --top bg--main-project-manager">
+      <section class="container-fluid --top bg--main-devops">
         <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -99,11 +99,11 @@
                   <meta itemprop="position" content="2" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/lowongan/it-generalist/"><span itemprop="name">&nbsp; IT Generalist</span></a>
+                    href="/career/lowongan/specialist/"><span itemprop="name">&nbsp; Spesialis Lainnya</span></a>
                   <meta itemprop="position" content="3" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Project Manager</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; DevOps</span></a>
                   <meta itemprop="position" content="4" />
                 </li>
               </ol>
@@ -113,13 +113,13 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
-              <h1 class="header__title">Project Manager</h1>
+              <h1 class="header__title">DevOps</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
-                <div class="career-detail__img-wrapper">
+                  <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/work.png" alt="Work Type">
                   </div>
-                  <p>IT Generalist</p>
+                  <p>Others IT Specialist</p>
                 </div>
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
@@ -145,103 +145,137 @@
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
-                <h4 class="section-subtitle">PreSales</h4>
                 <ul class="career-list">
                   <li>
-                    Memahami kebutuhan pelanggan dan tujuan bisnis.
-                  <li>
-                    Memberikan konsultasi dan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.
+                    Wajib untuk ikut dalam dalam meeting proses strategic project-planning.
                   </li>
                   <li>
-                    Berkolaborasi dengan tim Sales untuk membantu proses penjualan.</li>
-                  <li>
-                    Melakukan analisa terhadap kebutuhan dan memberikan estimasi pengerjaan yang diperlukan termasuk
-                    pembuatan proposal.
-                  </li>
-                </ul>
-                <h4 class="section-subtitle">Development:</h4>
-                <ul class="career-list">
-                  <li>
-                    Membuat inisiasi jadwal pengembangan, rancangan penggunaan resource, dan project costing.
+                    Bertanggung jawab untuk mengembangkan dan membangun berbagai IT solution.
                   </li>
                   <li>
-                    Melakukan manajemen proyek untuk mendapatkan hasil yang berkualitas dan tepat waktu.
+                    Konfigurasi dan manajemen otomatisasi, pemeriksaan kesehatan, point of failure, notification, dll.
                   </li>
                   <li>
-                    Melakukan monitoring terhadap penggunaan resource proyek.
+                    Bekerja sama dengan tim deploy/release untuk memastikan best practice operasional.
                   </li>
                   <li>
-                    Berkomunikasi dengan klien selama jalannya proyek.
+                    Menentukan alat yang tepat untuk menerapkan proses yang dapat mengotomatisasi tugas manual apa pun.
                   </li>
                   <li>
-                    Berkolaborasi dengan developer terkait pengerjaan sesuai ruang lingkup proyek.
+                    Membangun deployment otomatis menggunakan teknologi manajemen konfigurasi.
                   </li>
-                </ul>
-                <h4 class="section-subtitle">Post Development:</h4>
-                <ul class="career-list">
-                  <li>Menyajikan laporan yang tepat dan terstruktur.</li>
+                  <li>
+                    Melakukan pemeliharaan aplikasi rutin, juga membantu menciptakan persyaratan dan prosedur untuk
+                    penerapan pemeliharaan rutin.
+                  </li>
+                  <li>
+                    Menyelidiki masalah (troubleshoot) dan menyelesaikan kesalahan tersebut.
+                  </li>
+                  <li>
+                    Mengevaluasi aplikasi dan platform yang ada, juga memberikan rekomendasi untuk meningkatkan performa
+                    dengan gap analysis, mengidentifikasi solusi alternatif yang paling praktis, dan membantu dalam
+                    pemodifikasian.
+                  </li>
+                  <li>
+                    Mempelajari dan mengumpulkan teknologi/alat-alat baru untuk diperkenalkan ke perusahaan untuk
+                    membuat lingkungan Agile development.
+                  </li>
+                  <li>
+                    Memberikan direct server support selama berjalannya berbagai operasi seperti deployment and general
+                    production.
+                  </li>
+                  <li>
+                    Berkolaborasi dengan developers untuk memastikan bahwa environment baru memenuhi persyaratan dan
+                    mematuhi best practice.
+                  </li>
+                  <li>
+                    Merancang, mengimplementasi dan menguji infrastruktur yang disepakati.
+                  </li>
+                  <li>
+                    Mengotomatiskan deployment aplikasi Linux, konfigurasi sistem dan pengaturan keamanan.
+                  </li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Must Skill/Experience</h3>
                 <ul class="career-list">
                   <li>
-                    Memiliki pengalaman yang sangat baik dan up to date terhadap pengaplikasian teknologi terbaru dalam
-                    bidang pembuatan website, sistem web, dan aplikasi mobile.
+                    Kandidat harus memiliki setidaknya gelar Sarjana dalam Ilmu Komputer / Teknologi Informasi atau yang
+                    setara.
                   </li>
                   <li>
-                    Memiliki kemampuan analisa dan memecahkan masalah yang tinggi.
+                    Wajib memiliki setidaknya 3 Tahun pengalaman kerja di bidang terkait.
                   </li>
                   <li>
-                    Berorientasi pada pelayanan terhadap client/customer.
+                    Lebih diutamakan Staf (non-manajemen & non-supervisor) yang berspesialisasi dalam software IT /
+                    Komputer atau yang bersangkutan.
                   </li>
                   <li>
-                    Memiliki kemampuan interpesonal yang baik.
+                    Bahasa Inggris lisan & tulisan yang baik.
                   </li>
                   <li>
-                    Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik
+                    Kemampuan interpersonal yang baik dan seorang team player.
                   </li>
                   <li>
-                    Memiliki kemampuan presentasi yang baik.
+                    Bisa bekerja dengan metode Agile.
                   </li>
                   <li>
-                    Memiliki pengetahuan yang luas dengan dunia IT.
+                    Pengetahuan yang kuat dalam jaringan komputer (IP, DNS, HTTP (S)).
                   </li>
                   <li>
-                    Berpendidikan minimal S1 di bidang Teknik Informatika atau Sistem Informasi.
+                    Pengetahuan yang kuat dalam pengoperasian Linux environment dan scripting dengan Bash.
                   </li>
                   <li>
-                    Memiliki pengalaman sebagai IT Consultant atau Project Manager minimal 2 tahun.
+                    Pengetahuan yang kuat dalam pengoperasian Amazon Web Services dan produk-produknya (EC2, RDS, S3,
+                    dll.).
                   </li>
                   <li>
-                    Dapat bekerja dalam tim.
+                    Pengetahuan yang kuat dalam operasi server web (Nginx, Apache).
+                  </li>
+                  <li>
+                    Terbiasa dengan MySQL atau NoSQL.
+                  </li>
+                  <li>
+                    Terbiasa mengoperasikan Database dengan alat Business Intelligence (Power BI, dll).
+                  </li>
+                  <li>
+                    Berpengalaman dalam penggunaan Source Control (seperti Git, Bitbucket, Svn, dll.).
+                  </li>
+                </ul>
+                <strong>Memiliki pengalaman dengan daftar di bawah ini merupakan nilai tambah yang besar :</strong>
+                <ul class="career-list">
+                  <li>
+                    Continuous Integration (seperti Jenkins, Bamboo, Travis CI, dll.).
+                  </li>
+                  <li>
+                    Otomatisasi Infrastruktur (seperti Puppet, Chef, Ansible, Saltstack, dll.).
+                  </li>
+                  <li>
+                    Deployment Automation & Orchestration (seperti Jenkins, VSTS, Octopus Deploy, dll.).
+                  </li>
+                  <li>
+                    Konsep Container (LXD, Docker, dll.).
+                  </li>
+                  <li>
+                    Orchestration (Kubernetes, Mesos, Swarm, dll.).
+                  </li>
+                </ul>
+              </div>
+              <div class="career-requirement">
+                <h3 class="section-title">Preferable</h3>
+                <ul class="career-list">
+                  <li>
+                    Memiliki sertifikat AWS/google
+                  </li>
+                  <li>
+                    Bahasa Inggris
                   </li>
                 </ul>
               </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
-             <div class="career-requirement">
-                <h3 class="section-title">Preferable</h3>
-                <ul class="career-list">
-                  <li>Project Management Certification</li>
-                  <li>Bahasa Inggris</li>
-                  <li>Memiliki Kendaraan Bermotor Pribadi</li>
-                </ul>
-              </div>
-              <div class="career-requirement">
-                <h3 class="section-title">Rewards and Worthwhile</h3>
-                <ul class="career-list">
-                  <li>
-                    Kesempatan bertemu banyak klien dari berbagai macam bidang dan industri.
-                  </li>
-                  <li>
-                    Dapat beradaptasi dalam hal komunikasi kepada banyak klien yang multikultural.
-                  </li>
-                </ul>
-              </div>
               <!-- <div class="career-requirement">
-                <h3 class="section-title">How a Product Manager in LOGIQUE works usually</h3>
-                <h4 class="section-subtitle">Product Manager Assistant</h4>
+                <h3 class="section-title">How a DevOps in LOGIQUE works usually</h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">9:00 – 9:30</div>
@@ -286,7 +320,7 @@
         </div>
       </section>
 
-      <!-- <section class="container-fluid bg--salary" style="margin-bottom: 2.5em">
+      <!-- <section class="container-fluid bg--salary">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -299,7 +333,7 @@
                         <em class="salary-range__position">Junior</em>
                         <span class="salary-range__salary">100 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">DevOps:</h5>
                     </div>
                     <ul class="salary-range__list">
                       <li>Can analyze and suggest what / how we should improve</li>
@@ -315,7 +349,7 @@
                         <em class="salary-range__position">Middle</em>
                         <span class="salary-range__salary">100 - 200 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">DevOps:</h5>
                     </div>
                     <ul class="salary-range__list">
                       <li>Can analyze well and decide what / how we should improve</li>
@@ -333,7 +367,7 @@
                         <em class="salary-range__position">Senior</em>
                         <span class="salary-range__salary">200 - 400 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">DevOps:</h5>
                     </div>
                     <ul class="salary-range__list">
                       <li>Can analyze well and decide what / how we should improve</li>

@@ -18,7 +18,7 @@
   <meta property="og:description"
     content="Saatnya berkarir dan kembangkan potensimu - Career at Logique Bergabunglah dan jadilah bagian dari perkembangan teknologi digital di Indonesia bersama Logique. Anda juga akan memiliki kesempatan luas untuk mengembangkan potensi dan karir Anda, serta berkarya dengan jam kerja yang fleksibel.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Project Manager</title>
+  <title>IT Security Specialist</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -85,7 +85,7 @@
 
     <div class="career-update content-wrapper__">
 
-      <section class="container-fluid --top bg--main-project-manager">
+      <section class="container-fluid --top bg--main-security-specialist">
         <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -99,11 +99,11 @@
                   <meta itemprop="position" content="2" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/lowongan/it-generalist/"><span itemprop="name">&nbsp; IT Generalist</span></a>
+                    href="/career/lowongan/specialist/"><span itemprop="name">&nbsp; Spesialis Lainnya</span></a>
                   <meta itemprop="position" content="3" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Project Manager</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; IT Security Specialist</span></a>
                   <meta itemprop="position" content="4" />
                 </li>
               </ol>
@@ -113,13 +113,13 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
-              <h1 class="header__title">Project Manager</h1>
+              <h1 class="header__title">IT Security Specialist</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
-                <div class="career-detail__img-wrapper">
+                  <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/work.png" alt="Work Type">
                   </div>
-                  <p>IT Generalist</p>
+                  <p>Others IT Specialist</p>
                 </div>
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
@@ -131,7 +131,7 @@
                   <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/location.png" alt="Work Location">
                   </div>
-                  <p>Jakarta</p>
+                  <p>Jakarta, Yogyakarta</p>
                 </div>
               </div>
             </div>
@@ -145,103 +145,107 @@
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
-                <h4 class="section-subtitle">PreSales</h4>
                 <ul class="career-list">
                   <li>
-                    Memahami kebutuhan pelanggan dan tujuan bisnis.
-                  <li>
-                    Memberikan konsultasi dan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.
+                    Merencanakan dan mengeksekusi VATest / Pentest terhadap jaringan, server, web aplikasi / API, dan
+                    mobile apps.
                   </li>
                   <li>
-                    Berkolaborasi dengan tim Sales untuk membantu proses penjualan.</li>
-                  <li>
-                    Melakukan analisa terhadap kebutuhan dan memberikan estimasi pengerjaan yang diperlukan termasuk
-                    pembuatan proposal.
-                  </li>
-                </ul>
-                <h4 class="section-subtitle">Development:</h4>
-                <ul class="career-list">
-                  <li>
-                    Membuat inisiasi jadwal pengembangan, rancangan penggunaan resource, dan project costing.
+                    Mengevaluasi hasil VATest / Pentest, memberikan rekomendasi sesuai best practice, serta membuat
+                    laporan resmi kepada management.
                   </li>
                   <li>
-                    Melakukan manajemen proyek untuk mendapatkan hasil yang berkualitas dan tepat waktu.
+                    Memberikan layanan konsultasi dalam analisis dan implementasi keamanan cyber untuk klien.
                   </li>
                   <li>
-                    Melakukan monitoring terhadap penggunaan resource proyek.
+                    Melakukan riset serta studi dari berbagai sumber secara berkelanjutan serta meremomendasikan
+                    tindakan preventif.
                   </li>
                   <li>
-                    Berkomunikasi dengan klien selama jalannya proyek.
+                    Melakuan analisis resiko keamanan dalam cakupan system secara menyeluruh.
                   </li>
                   <li>
-                    Berkolaborasi dengan developer terkait pengerjaan sesuai ruang lingkup proyek.
+                    Membuat dokumentasi security yang akurat.
                   </li>
-                </ul>
-                <h4 class="section-subtitle">Post Development:</h4>
-                <ul class="career-list">
-                  <li>Menyajikan laporan yang tepat dan terstruktur.</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Must Skill/Experience</h3>
                 <ul class="career-list">
                   <li>
-                    Memiliki pengalaman yang sangat baik dan up to date terhadap pengaplikasian teknologi terbaru dalam
-                    bidang pembuatan website, sistem web, dan aplikasi mobile.
+                    Memiliki gelar minimal S1 dalam bidang Software Design, Engineering Computer Science atau setingkat.
                   </li>
                   <li>
-                    Memiliki kemampuan analisa dan memecahkan masalah yang tinggi.
+                    Tersertifikasi sebagai CEH (Certified Ethical Hacker) dan CSCU (Certified Secure Computer User) dari
+                    EC-Coucil.
                   </li>
                   <li>
-                    Berorientasi pada pelayanan terhadap client/customer.
+                    Memiliki kemampuan teknikal yang mendalam dibidang information security architecture dan penetration
+                    testing.
                   </li>
                   <li>
-                    Memiliki kemampuan interpesonal yang baik.
+                    Dapat melakukan dokumentasi dan presentasi laporan dengan baik.
                   </li>
                   <li>
-                    Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik
+                    Terbiasa melakukan pengujian.
                   </li>
                   <li>
-                    Memiliki kemampuan presentasi yang baik.
+                    Memiliki pemahaman dan pengalaman yang mendalam tentang penggunaan berbagai jenis pengujian
+                    penetrasi atau threat modelling tools termasuk open source dan commercial mapping.
                   </li>
                   <li>
-                    Memiliki pengetahuan yang luas dengan dunia IT.
+                    Berpengalaman dalam bidang pengujian penetrasi sistem, aplikasi web-based, dan jaringan.
                   </li>
                   <li>
-                    Berpendidikan minimal S1 di bidang Teknik Informatika atau Sistem Informasi.
+                    Dapat bekerja secara independen dalam sebuah tim.
+                  </li>
+                </ul>
+              </div>
+              <div class="career-requirement">
+                <h3 class="section-title">Required Skill</h3>
+                <ul class="career-list">
+                  <li>
+                    Memiliki pemahaman yang baik mengenai network protocol.
                   </li>
                   <li>
-                    Memiliki pengalaman sebagai IT Consultant atau Project Manager minimal 2 tahun.
+                    Memahami kode etik dalam hacking.
                   </li>
                   <li>
-                    Dapat bekerja dalam tim.
+                    Memiliki kemampuan presentasi yang baik kepada pihak profesional (non IT).
+                  </li>
+                </ul>
+              </div>
+              <div class="career-requirement">
+                <h3 class="section-title">Preferable</h3>
+                <ul class="career-list">
+                  <li>
+                    Memiliki kemampuan scripting dan pengalaman programming.
+                  </li>
+                  <li>
+                    Kemampuan scripting dan pengalaman reverse engineering.
+                  </li>
+                  <li>
+                    Berpengalaman dalam bidang consulting dan dapat menunjukan keahlian dalam memahami kebutuhan klien,
+                    membangun hubungan dengan klien.
                   </li>
                 </ul>
               </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
-             <div class="career-requirement">
-                <h3 class="section-title">Preferable</h3>
-                <ul class="career-list">
-                  <li>Project Management Certification</li>
-                  <li>Bahasa Inggris</li>
-                  <li>Memiliki Kendaraan Bermotor Pribadi</li>
-                </ul>
-              </div>
               <div class="career-requirement">
-                <h3 class="section-title">Rewards and Worthwhile</h3>
+                <h3 class="section-title">Rewards dan Worthwhile</h3>
                 <ul class="career-list">
                   <li>
-                    Kesempatan bertemu banyak klien dari berbagai macam bidang dan industri.
+                    Anda akan merasa tertantang untuk mengetahui seberapa aman kah web atau aplikasi.
                   </li>
                   <li>
-                    Dapat beradaptasi dalam hal komunikasi kepada banyak klien yang multikultural.
+                    Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang
+                    dihadapi.
                   </li>
                 </ul>
               </div>
               <!-- <div class="career-requirement">
-                <h3 class="section-title">How a Product Manager in LOGIQUE works usually</h3>
-                <h4 class="section-subtitle">Product Manager Assistant</h4>
+                <h3 class="section-title">How a IT Security Specialist in LOGIQUE works usually</h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">9:00 – 9:30</div>
@@ -286,7 +290,7 @@
         </div>
       </section>
 
-      <!-- <section class="container-fluid bg--salary" style="margin-bottom: 2.5em">
+      <!-- <section class="container-fluid bg--salary">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -299,7 +303,7 @@
                         <em class="salary-range__position">Junior</em>
                         <span class="salary-range__salary">100 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">IT Security Specialist:</h5>
                     </div>
                     <ul class="salary-range__list">
                       <li>Can analyze and suggest what / how we should improve</li>
@@ -315,7 +319,7 @@
                         <em class="salary-range__position">Middle</em>
                         <span class="salary-range__salary">100 - 200 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">IT Security Specialist:</h5>
                     </div>
                     <ul class="salary-range__list">
                       <li>Can analyze well and decide what / how we should improve</li>
@@ -333,7 +337,7 @@
                         <em class="salary-range__position">Senior</em>
                         <span class="salary-range__salary">200 - 400 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">IT Security Specialist:</h5>
                     </div>
                     <ul class="salary-range__list">
                       <li>Can analyze well and decide what / how we should improve</li>

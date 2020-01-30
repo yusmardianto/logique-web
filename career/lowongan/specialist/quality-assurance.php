@@ -18,7 +18,7 @@
   <meta property="og:description"
     content="Saatnya berkarir dan kembangkan potensimu - Career at Logique Bergabunglah dan jadilah bagian dari perkembangan teknologi digital di Indonesia bersama Logique. Anda juga akan memiliki kesempatan luas untuk mengembangkan potensi dan karir Anda, serta berkarya dengan jam kerja yang fleksibel.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Project Manager</title>
+  <title>Quality Assurance</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -85,7 +85,7 @@
 
     <div class="career-update content-wrapper__">
 
-      <section class="container-fluid --top bg--main-project-manager">
+      <section class="container-fluid --top bg--main-qa">
         <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -99,11 +99,11 @@
                   <meta itemprop="position" content="2" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/lowongan/it-generalist/"><span itemprop="name">&nbsp; IT Generalist</span></a>
+                    href="/career/lowongan/specialist/"><span itemprop="name">&nbsp; Spesialis Lainnya</span></a>
                   <meta itemprop="position" content="3" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Project Manager</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Quality Assurance</span></a>
                   <meta itemprop="position" content="4" />
                 </li>
               </ol>
@@ -113,13 +113,13 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
-              <h1 class="header__title">Project Manager</h1>
+              <h1 class="header__title">Quality Assurance</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
-                <div class="career-detail__img-wrapper">
+                  <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/work.png" alt="Work Type">
                   </div>
-                  <p>IT Generalist</p>
+                  <p>Others IT Specialist</p>
                 </div>
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
@@ -131,7 +131,7 @@
                   <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/location.png" alt="Work Location">
                   </div>
-                  <p>Jakarta</p>
+                  <p>Jakarta, Yogyakarta</p>
                 </div>
               </div>
             </div>
@@ -145,103 +145,91 @@
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
-                <h4 class="section-subtitle">PreSales</h4>
                 <ul class="career-list">
                   <li>
-                    Memahami kebutuhan pelanggan dan tujuan bisnis.
-                  <li>
-                    Memberikan konsultasi dan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.
+                    Mengembangkan dan memelihara pengujian skenario dan end user script untuk verifikasi fungsi yang
+                    diinginkan klien.
                   </li>
                   <li>
-                    Berkolaborasi dengan tim Sales untuk membantu proses penjualan.</li>
-                  <li>
-                    Melakukan analisa terhadap kebutuhan dan memberikan estimasi pengerjaan yang diperlukan termasuk
-                    pembuatan proposal.
-                  </li>
-                </ul>
-                <h4 class="section-subtitle">Development:</h4>
-                <ul class="career-list">
-                  <li>
-                    Membuat inisiasi jadwal pengembangan, rancangan penggunaan resource, dan project costing.
+                    Memastikan pengujian software atau aplikasi berbasis web agar berjalan dengan semestinya, dan
+                    mendokumentasikan bug serta mencari solusinya.
                   </li>
                   <li>
-                    Melakukan manajemen proyek untuk mendapatkan hasil yang berkualitas dan tepat waktu.
+                    Bertanggung jawab dalam perilisan software dan mendokumentasikan kebutuhan klien sehingga dapat
+                    terpenuhi dengan kualitas yang baik.
                   </li>
                   <li>
-                    Melakukan monitoring terhadap penggunaan resource proyek.
+                    Bertanggung jawab dalam pembentukan dan eksekusi sebuah pengujian, rencana pengujian, dan performa
+                    sebuah aplikasi.
                   </li>
                   <li>
-                    Berkomunikasi dengan klien selama jalannya proyek.
+                    Bekerja sama dengan tim pengembangan untuk memahami hasil yang diharapkan dari proyek yang
+                    dikembangkan maupun yang sudah ada.
                   </li>
                   <li>
-                    Berkolaborasi dengan developer terkait pengerjaan sesuai ruang lingkup proyek.
+                    Dapat memprioritaskan dan menjadwalkan pekerjaan, serta mengungkapkan masalah (bila diperlukan) ke
+                    tim pengembangan masing-masing.
                   </li>
-                </ul>
-                <h4 class="section-subtitle">Post Development:</h4>
-                <ul class="career-list">
-                  <li>Menyajikan laporan yang tepat dan terstruktur.</li>
+                  <li>
+                    Mampu mempertahankan dan Meningkatkan SOP dalam - Manajemen Kepuasan Pelanggan.
+                  </li>
+                  <li>
+                    Mampu mengelola Pusat Bantuan, FAQ, dan Quality knowledge based untuk meningkatkan kualitas layanan
+                    bagi klien.
+                  </li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Must Skill/Experience</h3>
                 <ul class="career-list">
                   <li>
-                    Memiliki pengalaman yang sangat baik dan up to date terhadap pengaplikasian teknologi terbaru dalam
-                    bidang pembuatan website, sistem web, dan aplikasi mobile.
+                    Min S1 dalam bidang Software Design, Engineering Computer Science atau setingkat.
                   </li>
                   <li>
-                    Memiliki kemampuan analisa dan memecahkan masalah yang tinggi.
+                    Memiliki pengetahuan tinggi mengenai metodologi software QA dan siklus QA (rencana/desain pengujian,
+                    pelacakan dan pelaporan bug).
                   </li>
                   <li>
-                    Berorientasi pada pelayanan terhadap client/customer.
+                    Terbiasa menggunakan SQL Script seperti MySQL, Postgres, Linux, Windows.
                   </li>
                   <li>
-                    Memiliki kemampuan interpesonal yang baik.
+                    Terbiasa melakukan pengujian pada web dan mobile (iOS dan Android).
                   </li>
                   <li>
-                    Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik
+                    Terbiasa menggunakan Git, JIRA, Mantis,TestRail, dan beberapa tools lain.
                   </li>
                   <li>
-                    Memiliki kemampuan presentasi yang baik.
+                    Memiliki pengalaman dalam bidang UI dan API Test.
                   </li>
                   <li>
-                    Memiliki pengetahuan yang luas dengan dunia IT.
+                    Kemampuan analisis dan kuantitatif objektivitas kuat terhadap data dalam pengambilan keputusan.
                   </li>
                   <li>
-                    Berpendidikan minimal S1 di bidang Teknik Informatika atau Sistem Informasi.
+                    Pemahaman yang baik mengenai konsep software engineering.
                   </li>
                   <li>
-                    Memiliki pengalaman sebagai IT Consultant atau Project Manager minimal 2 tahun.
-                  </li>
-                  <li>
-                    Dapat bekerja dalam tim.
+                    Memiliki kemampuan komunikasi yang baik (lisan dan tertulis).
                   </li>
                 </ul>
               </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
-             <div class="career-requirement">
-                <h3 class="section-title">Preferable</h3>
-                <ul class="career-list">
-                  <li>Project Management Certification</li>
-                  <li>Bahasa Inggris</li>
-                  <li>Memiliki Kendaraan Bermotor Pribadi</li>
-                </ul>
-              </div>
               <div class="career-requirement">
-                <h3 class="section-title">Rewards and Worthwhile</h3>
+                <h3 class="section-title">Rewards dan Worthwhile</h3>
                 <ul class="career-list">
                   <li>
-                    Kesempatan bertemu banyak klien dari berbagai macam bidang dan industri.
+                    Dengan jumlah project yang banyak, anda akan menemukan berbagai macam jenis masalah dalam konteks
+                    pengujian QA.
                   </li>
                   <li>
-                    Dapat beradaptasi dalam hal komunikasi kepada banyak klien yang multikultural.
+                    Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang
+                    dihadapi.
                   </li>
+                  <li>Heath Insurance.</li>
                 </ul>
               </div>
               <!-- <div class="career-requirement">
-                <h3 class="section-title">How a Product Manager in LOGIQUE works usually</h3>
-                <h4 class="section-subtitle">Product Manager Assistant</h4>
+                <h3 class="section-title">How a Quality Assurance in LOGIQUE works usually</h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">9:00 – 9:30</div>
@@ -286,7 +274,7 @@
         </div>
       </section>
 
-      <!-- <section class="container-fluid bg--salary" style="margin-bottom: 2.5em">
+      <!-- <section class="container-fluid bg--salary">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -299,7 +287,7 @@
                         <em class="salary-range__position">Junior</em>
                         <span class="salary-range__salary">100 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">Quality Assurance:</h5>
                     </div>
                     <ul class="salary-range__list">
                       <li>Can analyze and suggest what / how we should improve</li>
@@ -315,7 +303,7 @@
                         <em class="salary-range__position">Middle</em>
                         <span class="salary-range__salary">100 - 200 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">Quality Assurance:</h5>
                     </div>
                     <ul class="salary-range__list">
                       <li>Can analyze well and decide what / how we should improve</li>
@@ -333,7 +321,7 @@
                         <em class="salary-range__position">Senior</em>
                         <span class="salary-range__salary">200 - 400 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">Quality Assurance:</h5>
                     </div>
                     <ul class="salary-range__list">
                       <li>Can analyze well and decide what / how we should improve</li>

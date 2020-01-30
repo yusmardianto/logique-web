@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Kami memberikan kesempatan berkarir bagi para web developer, web designer, dan digital marketing untuk terus mengasah kemampuannya dengan bergabung bersama LOGIQUE Digital Indonesia. Segera bergabunglah bersama kami!">
+    content="Kami memberikan kesempatan berkarir bagi para web developer, web Digital Marketing Specialist, dan digital marketing untuk terus mengasah kemampuannya dengan bergabung bersama LOGIQUE Digital Indonesia. Segera bergabunglah bersama kami!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
@@ -18,7 +18,7 @@
   <meta property="og:description"
     content="Saatnya berkarir dan kembangkan potensimu - Career at Logique Bergabunglah dan jadilah bagian dari perkembangan teknologi digital di Indonesia bersama Logique. Anda juga akan memiliki kesempatan luas untuk mengembangkan potensi dan karir Anda, serta berkarya dengan jam kerja yang fleksibel.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Project Manager</title>
+  <title>Digital Marketing Specialist</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -85,7 +85,7 @@
 
     <div class="career-update content-wrapper__">
 
-      <section class="container-fluid --top bg--main-project-manager">
+      <section class="container-fluid --top bg--main-dm-specialist">
         <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -99,11 +99,12 @@
                   <meta itemprop="position" content="2" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/lowongan/it-generalist/"><span itemprop="name">&nbsp; IT Generalist</span></a>
+                    href="/career/lowongan/digitalmarketing/"><span itemprop="name">&nbsp; Designer / Digital
+                      Marketing</span></a>
                   <meta itemprop="position" content="3" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Project Manager</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Digital Marketing Specialist</span></a>
                   <meta itemprop="position" content="4" />
                 </li>
               </ol>
@@ -112,26 +113,26 @@
         </div>
         <div class="container--max-width header-banner">
           <div class="row">
-            <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
-              <h1 class="header__title">Project Manager</h1>
+            <div class="col-sm-offset-1 col-lg-8 col-md-9 col-sm-10">
+              <h1 class="header__title">Digital Marketing Specialist</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                 <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/work.png" alt="Work Type">
                   </div>
-                  <p>IT Generalist</p>
+                  <p>Digital Marketing Specialist / Digital Marketing</p>
                 </div>
                 <div class="career-detail__item">
-                  <div class="career-detail__img-wrapper">
+                <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/time.png" alt="Contract Type">
                   </div>
                   <p>Permanent</p>
                 </div>
                 <div class="career-detail__item">
-                  <div class="career-detail__img-wrapper">
+                <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/location.png" alt="Work Location">
                   </div>
-                  <p>Jakarta</p>
+                  <p>Jakarta, Yogyakarta</p>
                 </div>
               </div>
             </div>
@@ -145,139 +146,88 @@
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
-                <h4 class="section-subtitle">PreSales</h4>
                 <ul class="career-list">
                   <li>
-                    Memahami kebutuhan pelanggan dan tujuan bisnis.
-                  <li>
-                    Memberikan konsultasi dan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.
+                    Menganalisis dan memantau kinerja situs web, digital ads, dan media sosial dengan di berbagai
+                    platform.
                   </li>
                   <li>
-                    Berkolaborasi dengan tim Sales untuk membantu proses penjualan.</li>
+                    Menyarankan strategi untuk meningkatkan kinerja berdasarkan analisis.
+                  </li>
                   <li>
-                    Melakukan analisa terhadap kebutuhan dan memberikan estimasi pengerjaan yang diperlukan termasuk
-                    pembuatan proposal.
+                    Terus menyesuaikan performa setiap platform dan situs web untuk mendapatkan hasil yang lebih baik
+                    dengan berkolaborasi dengan web developer, content writer, dan design.
+                  </li>
+                  <li>
+                    Mengoptimalkan performa dengan orientasi terhadap target hasil atau conversion yang dibutuhkan
+                    client/customer.
                   </li>
                 </ul>
-                <h4 class="section-subtitle">Development:</h4>
+
+                <strong>Terbiasa dalam menganalisis dan mengoptimalkan tool yang terkait dengan digital marketing,
+                  seperti:
+                </strong>
                 <ul class="career-list">
-                  <li>
-                    Membuat inisiasi jadwal pengembangan, rancangan penggunaan resource, dan project costing.
-                  </li>
-                  <li>
-                    Melakukan manajemen proyek untuk mendapatkan hasil yang berkualitas dan tepat waktu.
-                  </li>
-                  <li>
-                    Melakukan monitoring terhadap penggunaan resource proyek.
-                  </li>
-                  <li>
-                    Berkomunikasi dengan klien selama jalannya proyek.
-                  </li>
-                  <li>
-                    Berkolaborasi dengan developer terkait pengerjaan sesuai ruang lingkup proyek.
-                  </li>
-                </ul>
-                <h4 class="section-subtitle">Post Development:</h4>
-                <ul class="career-list">
-                  <li>Menyajikan laporan yang tepat dan terstruktur.</li>
+                  <li>Google Analytics.</li>
+                  <li>Google Ads (Search Ads, GDN Ads, Youtube Ads).</li>
+                  <li>Facebook / Instagram Ads.</li>
+                  <li>Twitter Ads.</li>
+                  <li>Linked In Ads.</li>
+                  <li>Berpengalaman dalam hal memberikan konsultasi/saran/diskusi dengan client/customer.</li>
+                  <li>Mampu menyajikan laporan yang analitis dan terstruktur sesuai kebutuhan client/customer.</li>
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">Must Skill/Experience</h3>
+                <h3 class="section-title">Requirements</h3>
                 <ul class="career-list">
-                  <li>
-                    Memiliki pengalaman yang sangat baik dan up to date terhadap pengaplikasian teknologi terbaru dalam
-                    bidang pembuatan website, sistem web, dan aplikasi mobile.
-                  </li>
-                  <li>
-                    Memiliki kemampuan analisa dan memecahkan masalah yang tinggi.
-                  </li>
-                  <li>
-                    Berorientasi pada pelayanan terhadap client/customer.
-                  </li>
-                  <li>
-                    Memiliki kemampuan interpesonal yang baik.
-                  </li>
-                  <li>
-                    Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik
-                  </li>
-                  <li>
-                    Memiliki kemampuan presentasi yang baik.
-                  </li>
-                  <li>
-                    Memiliki pengetahuan yang luas dengan dunia IT.
-                  </li>
-                  <li>
-                    Berpendidikan minimal S1 di bidang Teknik Informatika atau Sistem Informasi.
-                  </li>
-                  <li>
-                    Memiliki pengalaman sebagai IT Consultant atau Project Manager minimal 2 tahun.
-                  </li>
-                  <li>
-                    Dapat bekerja dalam tim.
-                  </li>
+                  <li>Mampu berpikir logis & strategis.</li>
+                  <li>Terbiasa dengan SEO dan optimasi web dalam hal teknis dan konten.</li>
+                </ul>
+              </div>
+              <div class="career-requirement">
+                <h3 class="section-title">Lebih disukai (tidak harus dimiliki)</h3>
+                <ul class="career-list">
+                  <li>Keterampilan programming.</li>
+                  <li>Bahasa Inggris yang komunikatif.</li>
+                  <li>Keterampilan menulis konten.</li>
+                  <li>Keterampilan manajemen media sosial.</li>
+                  <li>Keterampilan desain.</li>
                 </ul>
               </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
-             <div class="career-requirement">
-                <h3 class="section-title">Preferable</h3>
-                <ul class="career-list">
-                  <li>Project Management Certification</li>
-                  <li>Bahasa Inggris</li>
-                  <li>Memiliki Kendaraan Bermotor Pribadi</li>
-                </ul>
-              </div>
-              <div class="career-requirement">
-                <h3 class="section-title">Rewards and Worthwhile</h3>
-                <ul class="career-list">
-                  <li>
-                    Kesempatan bertemu banyak klien dari berbagai macam bidang dan industri.
-                  </li>
-                  <li>
-                    Dapat beradaptasi dalam hal komunikasi kepada banyak klien yang multikultural.
-                  </li>
-                </ul>
-              </div>
               <!-- <div class="career-requirement">
-                <h3 class="section-title">How a Product Manager in LOGIQUE works usually</h3>
-                <h4 class="section-subtitle">Product Manager Assistant</h4>
+                <h3 class="section-title">How a Digital Marketing Specialist in LOGIQUE works usually</h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:00 – 9:30</div>
-                    <div class="work-schedule__text">Check Google Analytics and inquiries about the product</div>
+                    <div class="work-schedule__time">09:00 - 09:30</div>
+                    <div class="work-schedule__text">start dokodemo, checking email, trello, slack, for new task or
+                      feedback for today</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:30 – 10:30</div>
-                    <div class="work-schedule__text">Check and reply for application of demo usage</div>
+                    <div class="work-schedule__time">09:31 - 12:00</div>
+                    <div class="work-schedule__text">draft UI design</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">10:30 – 11:30</div>
-                    <div class="work-schedule__text">Have an internal confirmation / meeting with developers and digital
-                      marketers
-                      to
-                      confirm the schedule and progress</div>
+                    <div class="work-schedule__time">12:00 - 13:00 </div>
+                    <div class="work-schedule__text">break</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">11:30 – 12:30</div>
-                    <div class="work-schedule__text">Lunch Break</div>
+                    <div class="work-schedule__time">13:01 - 14:00</div>
+                    <div class="work-schedule__text">meeting about new project with Project PIC / PM or internal team
+                      meeting (if any)</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">12:30 – 14:00</div>
-                    <div class="work-schedule__text">Plan and arrange offline marketing and event</div>
+                    <div class="work-schedule__time">14:00 - 16:30</div>
+                    <div class="work-schedule__text">continue UI draft design same or different project</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">14:00 – 16:00</div>
-                    <div class="work-schedule__text">Make some wireframes for new features of a product</div>
+                    <div class="work-schedule__time">16:30</div>
+                    <div class="work-schedule__text">go home</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">16:00</div>
-                    <div class="work-schedule__text">Go home</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">19:00 – 21:00</div>
-                    <div class="work-schedule__text">Check members’ daily report and give them instructions for Tomorrow
-                    </div>
+                    <div class="work-schedule__time">18:30 - 19:00</div>
+                    <div class="work-schedule__text">learning / reading about design trend.</div>
                   </div>
                 </div>
               </div> -->
@@ -286,11 +236,11 @@
         </div>
       </section>
 
-      <!-- <section class="container-fluid bg--salary" style="margin-bottom: 2.5em">
+      <!-- <section class="container-fluid bg--salary">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <h3 class="section-title">Job Description</h3>
+              <h3 class="section-title">Expectation skill for each position :</h3>
               <div class="row">
                 <div class="col-md-4 col-sm-12">
                   <div class="salary-range">
@@ -299,12 +249,15 @@
                         <em class="salary-range__position">Junior</em>
                         <span class="salary-range__salary">100 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">Digital Marketing Specialist:</h5>
                     </div>
                     <ul class="salary-range__list">
-                      <li>Can analyze and suggest what / how we should improve</li>
-                      <li>Can manage development team and run small budget digital marketing campaigns</li>
-                      <li>Good at reporting</li>
+                      <li>
+                        Understand about design, can use standard design tools like a adobe family
+                      </li>
+                      <li>
+                        Can read design language system (DLS) / follow guidelines
+                      </li>
                     </ul>
                   </div>
                 </div>
@@ -315,14 +268,19 @@
                         <em class="salary-range__position">Middle</em>
                         <span class="salary-range__salary">100 - 200 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">Digital Marketing Specialist:</h5>
                     </div>
                     <ul class="salary-range__list">
-                      <li>Can analyze well and decide what / how we should improve</li>
-                      <li>Can manage development team and solve the issues well</li>
-                      <li>Run digital marketing and offline campaigns</li>
-                      <li>Good at reporting and planning</li>
-                      <li>Good at communicating with user clients and solving problems</li>
+                      <li>
+                        Understand about wireframe, UX, html & css basic, Design standard for print / digital.
+                      </li>
+                      <li>
+                        Understand and can use standar professional design tools beside adobe family, like a sketch,
+                        zeplin or abstract.
+                      </li>
+                      <li>
+                        Quick learning about new design trend or new tools.
+                      </li>
                     </ul>
                   </div>
                 </div>
@@ -333,14 +291,14 @@
                         <em class="salary-range__position">Senior</em>
                         <span class="salary-range__salary">200 - 400 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">Digital Marketing Specialist:</h5>
                     </div>
                     <ul class="salary-range__list">
-                      <li>Can analyze well and decide what / how we should improve</li>
-                      <li>Can manage team members well and have a good communication with other teams</li>
-                      <li>Excellent in reporting to the management and make good strategy</li>
-                      <li>Plan good sales and marketing plan and can do sales activities by themselves</li>
-                      <li>Very good at communicating with user clients</li>
+                      <li>Know more about UI/UX, html & css.</li>
+                      <li>Can give suggestion for existing design, problem solving and have a more passion for design.
+                      </li>
+                      <li>Mastering for standar professional design tools include prototyping tools</li>
+                      <li>Understand motiongrahic is a plus.</li>
                     </ul>
                   </div>
                 </div>

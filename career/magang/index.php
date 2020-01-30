@@ -4,16 +4,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" content="LOGIQUE membuka lowongan kerja internship/magang bagi mahasiswa baik yang sekadar ingin mengaplikasikan ilmu yang dipelajari maupun menurut tuntutan universitas pada periode yang telah ditentukan.">
+    <meta name="description" content="Anda mahasiswa dan sedang mencari perusahaan untuk program magang dari kampus atau ingin merasakan bekerja di perusahaan start up? LOGIQUE memberikan kesempatan kepada Anda untuk magang atau Internship di perusahaan kami. Segera kunjungi halaman karir LOGIQUE dan daftarkan diri Anda sekarang!">
 	<meta name="keywords" content="lowongan magang IT, lowongan kerja IT, lowongan magang web developer, lowongan magang web designer, lowongan magang mobile app developer, lowongan magang technical consultant, lowongan magang content writer, lowongan magang logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Keseharian Aktivitas Magang di Logique | Career | LOGIQUE DIGITAL INDONESIA">
+	<meta property="og:title" content="Lowongan Kerja Magang / Internship | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/career/intern">
 	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
-	<meta property="og:description" content="LOGIQUE membuka lowongan kerja internship/magang bagi mahasiswa baik yang sekadar ingin mengaplikasikan ilmu yang dipelajari maupun menurut tuntutan universitas pada periode yang telah ditentukan.">
+	<meta property="og:description" content="Anda mahasiswa dan sedang mencari perusahaan untuk program magang dari kampus atau ingin merasakan bekerja di perusahaan start up? LOGIQUE memberikan kesempatan kepada Anda untuk magang atau Internship di perusahaan kami. Segera kunjungi halaman karir LOGIQUE dan daftarkan diri Anda sekarang!">
 	<link rel="shortcut icon" type="image/x-icon" href="/../../favicon.ico">
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -34,7 +34,7 @@
 	twq('track','PageView');
 	</script>
 	<!-- End Twitter universal website tag code -->
-    <title>Keseharian Aktivitas Magang di Logique | Career | LOGIQUE DIGITAL INDONESIA</title>
+    <title>Lowongan Kerja Magang / Internship | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">

@@ -1830,29 +1830,30 @@ ul.medsos-new li a {
 .message__img-wrapper img {
   min-width: 100%;
   object-fit: cover;
-  width: 340px;
-  height: 260px;
+  height: 100%;
+  /* width: 340px; */
+  /* height: 260px; */
   object-position: center center;
 }
 @media (min-width: 992px) {
   .message__img-wrapper {
     max-width: unset;
   }
-  .message__img-wrapper img {
+  /* .message__img-wrapper img {
     object-fit: fill;
-  }
+  } */
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
-  .message__img-wrapper img {
+  /* .message__img-wrapper img {
     height: auto;
-  }
+  } */
 }
 
 @media (min-width: 1200px) {
-  .message__img-wrapper img {
+  /* .message__img-wrapper img {
     object-fit: fill;
-  }
+  } */
 }
 /* End message */
 

@@ -11,7 +11,7 @@
         <div class="row see-position">
           <?php if ($cat_vacancy !== 'it-generalist'): ?>
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/it-generalist.php" class="see-position__item bg--sub-it-generalist">
+            <a href="/career/lowongan/it-generalist/" class="see-position__item bg--sub-it-generalist">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
                 <h3 class="section-title">IT Generalist</h3>
@@ -24,7 +24,7 @@
           <?php endif; ?>
           <?php if ($cat_vacancy !== 'programmer'): ?>
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/programmer.php" class="see-position__item bg--sub-programmer">
+            <a href="/career/lowongan/programmer/" class="see-position__item bg--sub-programmer">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
                 <h3 class="section-title">Programmer</h3>
@@ -35,9 +35,9 @@
             </a>
           </div>
           <?php endif; ?>
-          <?php if ($cat_vacancy !== 'designer-dm'): ?>
+          <?php if ($cat_vacancy !== 'digitalmarketing'): ?>
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/designer-dm.php" class="see-position__item bg--sub-designer-dm">
+            <a href="/career/lowongan/digitalmarketing/" class="see-position__item bg--sub-designer-dm">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
                 <h3 style="font-size: 28px;" class="section-title">Designer / <br>Digital Marketing</h3>
@@ -48,9 +48,9 @@
             </a>
           </div>
           <?php endif; ?>
-          <?php if ($cat_vacancy !== 'other-it-specialist'): ?>
+          <?php if ($cat_vacancy !== 'specialist'): ?>
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/other-it-specialist.php" class="see-position__item bg--sub-other-it-specialist">
+            <a href="/career/lowongan/specialist/" class="see-position__item bg--sub-other-it-specialist">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
                 <h3 class="section-title">Others IT Specialist</h3>
@@ -61,9 +61,9 @@
             </a>
           </div>
           <?php endif; ?>
-          <?php if ($cat_vacancy !== 'sales-marketing'): ?>
+          <?php if ($cat_vacancy !== 'sales'): ?>
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/sales-marketing.php" class="see-position__item bg--sub-sales-marketing">
+            <a href="/career/lowongan/sales/" class="see-position__item bg--sub-sales-marketing">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
                 <h3 class="section-title">Sales & Marketing</h3>
@@ -74,9 +74,9 @@
             </a>
           </div>
           <?php endif; ?>
-          <?php if ($cat_vacancy !== 'back-office'): ?>
+          <?php if ($cat_vacancy !== 'backoffice'): ?>
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/back-office.php" class="see-position__item bg--sub-back-office">
+            <a href="/career/lowongan/backoffice/" class="see-position__item bg--sub-back-office">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
                 <h3 class="section-title">Back Office</h3>
