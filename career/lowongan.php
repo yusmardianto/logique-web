@@ -107,11 +107,15 @@
         </div>
         <div class="container--max-width header-banner">
           <div class="row">
-            <div class="col-sm-offset-1 col-sm-5">
-              <h1 class="header__title">Lowongan</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore
-                magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation </p>
+            <div class="col-sm-offset-1 col-sm-7">
+              <style>
+              @media (min-width: 768px) {
+                .header__title {
+                  font-size: 60px;
+                }
+              }
+              </style>
+              <h1 class="header__title">Lowongan Kerja LOGIQUE</h1>
             </div>
           </div>
         </div>
@@ -125,16 +129,12 @@
                   <h2 class="heading-black mb--40">Lowongan yang dibutuhkan segera</h2>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/it-generalist/project-manager.php">
+                  <a href="/career/lowongan/other-it-specialist/devops.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager">
-                        <h3 class="heading-black">Project Manager</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <img class="img-responsive card-icon" src="/img/career/icon/server.png" alt="DevOps">
+                        <h3 class="heading-black">DevOps</h3>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -155,11 +155,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/quality.png" alt="QA Specialist">
                         <h3 class="heading-black">QA Specialist</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -173,19 +169,14 @@
                       </div>
                     </div>
                   </a>
-
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/designer-dm/ui-ux-designer.php">
+                  <a href="/career/lowongan/it-generalist/project-manager.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/ux.png" alt="UI/UX Designer">
-                        <h3 class="heading-black">UI/UX Designer</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager">
+                        <h3 class="heading-black">Project Manager</h3>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -199,7 +190,6 @@
                       </div>
                     </div>
                   </a>
-
                 </div>
               </div>
             </div>
@@ -210,8 +200,181 @@
       <br>
       <?php include './layout-career/news-recruitment-topic.php'; ?>
       <br>
+
       <section class="container-fluid">
-        <div class="container--max-width" style="padding-top: 0;">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="row row__same-height">
+                <div class="col-xs-12">
+                  <p class="box-p">
+                    Kami menerima dengan senang hati para kandidat yang berbakat dan mempunyai potensi untuk
+                    berkembang
+                    yang telah
+                    melamar di halaman karir LOGIQUE. Di bawah ini adalah beberapa posisi umum yang sedang kami
+                    cari.
+                    Jika tidak ada
+                    yang cocok dengan skill Anda di sini. Jangan khawatir, kami akan membuat pos baru sesuai dengan
+                    skill dan
+                    keinginan Anda.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="container-fluid">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="row row__same-height">
+                <div class="col-xs-12">
+                  <h2 class="heading-black mb--40">Lowongan Programmer</h2>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="/career/lowongan/programmer/web-developer.php">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Web Developer">
+                        <h3 class="heading-black">Web Developer</h3>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta, Yogya
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="/career/lowongan/programmer/frontend-developer.php">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
+                          alt="Front End Developer">
+                        <h3 class="heading-black">Front End Developer</h3>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta, Yogya
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="/career/lowongan/programmer/reactjs-developer.php">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
+                          alt="React JS Developer">
+                        <h3 class="heading-black">React JS Developer</h3>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta, Yogya
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="row row__same-height">
+                <div class="col-md-4 card--layout">
+                  <a href="/career/lowongan/programmer/react-native-developer.php">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
+                          alt="React Native Developer">
+                        <h3 class="heading-black">React Native Developer</h3>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta, Yogya
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="/career/lowongan/programmer/mobile-app-developer.php">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
+                          alt="Mobile App Developer">
+                        <h3 class="heading-black">Mobile App Developer</h3>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta, Yogya
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="/career/lowongan/programmer/product-developer.php">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
+                          alt="Product Developer">
+                        <h3 class="heading-black">Product Developer</h3>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta, Yogya
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="container-fluid">
+        <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
@@ -224,11 +387,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager">
                         <h3 class="heading-black">Project Manager</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -250,11 +409,7 @@
                         <img class="img-responsive card-icon" src="/img/career/icon/analysis.png"
                           alt="Business Analyst">
                         <h3 class="heading-black">Business Analyst</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -268,7 +423,6 @@
                       </div>
                     </div>
                   </a>
-
                 </div>
                 <div class="col-md-4 card--layout">
                   <a href="/career/lowongan/it-generalist/product-manager.php">
@@ -276,11 +430,30 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/clock.png" alt="Product Manager">
                         <h3 class="heading-black">Product Manager</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="row row__same-height">
+                <div class="col-md-4 card--layout">
+                  <a href="/career/lowongan/it-generalist/consultant.php">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Product Manager">
+                        <h3 class="heading-black">Consultant</h3>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -307,19 +480,16 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
                 <div class="col-xs-12">
-                  <h2 class="heading-black mb--40">Lowongan Programmer</h2>
+                  <h2 class="heading-black mb--40">Lowongan Others IT Specialist</h2>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/programmer/web-developer.php">
+                  <a href="/career/lowongan/other-it-specialist/it-security-specialist.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Web Developer">
-                        <h3 class="heading-black">Web Developer</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <img class="img-responsive card-icon" src="/img/career/icon/password.png"
+                          alt="Security Specialist">
+                        <h3 class="heading-black">Security Specialist</h3>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -335,17 +505,12 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/programmer/frontend-developer.php">
+                  <a href="/career/lowongan/other-it-specialist/devops.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
-                          alt="Front End Programmer">
-                        <h3 class="heading-black">Front End Programmer</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <img class="img-responsive card-icon" src="/img/career/icon/server.png" alt="DevOps">
+                        <h3 class="heading-black">DevOps</h3>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -361,151 +526,12 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/programmer/reactjs-developer.php">
+                  <a href="/career/lowongan/other-it-specialist/quality-assurance.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
-                          alt="ReactJS Programmer">
-                        <h3 class="heading-black">ReactJS Programmer</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
-                        </div>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-              </div>
-
-              <div class="row row__same-height">
-                <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/programmer/react-native-developer.php">
-                    <div class="card-box">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
-                          alt="React Native Developer">
-                        <h3 class="heading-black">React Native Developer</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
-                        </div>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <div class="col-md-4 card--layout">
-                  <a href="#">
-                    <div class="card-box">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
-                          alt="Flutter Programmer">
-                        <h3 class="heading-black">Flutter Programmer</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
-                        </div>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <div class="col-md-4 card--layout">
-                  <a href="#">
-                    <div class="card-box">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
-                          alt="Go Lang Programmer">
-                        <h3 class="heading-black">Go Lang Programmer</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
-                        </div>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-              </div>
-
-              <div class="row row__same-height">
-                <div class="col-md-4 card--layout">
-                  <a href="#">
-                    <div class="card-box">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="PHP Programmer">
-                        <h3 class="heading-black">PHP Programmer</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
-                        </div>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <div class="col-md-4 card--layout">
-                  <a href="#">
-                    <div class="card-box">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Programmer">
-                        <h3 class="heading-black">Programmer</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <img class="img-responsive card-icon" src="/img/career/icon/quality.png" alt="QA Specialist">
+                        <h3 class="heading-black">QA Specialist</h3>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -540,11 +566,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/ux.png" alt="UI/UX Designer">
                         <h3 class="heading-black">UI/UX Designer</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -553,51 +575,20 @@
                         </div>
                         <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
+                          Jakarta, Yogya
                         </div>
                       </div>
                     </div>
                   </a>
-
-                </div>
-                <div class="col-md-4 card--layout">
-                  <a href="#">
-                    <div class="card-box">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/seo-tag.png" alt="SEO Specialist">
-                        <h3 class="heading-black">SEO Specialist</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
-                        </div>
-                      </div>
-                    </div>
-                  </a>
-
                 </div>
                 <div class="col-md-4 card--layout">
                   <a href="/career/lowongan/designer-dm/digital-marketing-specialist.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/digital-ads.png"
-                          alt="Digital Ad Specialist">
-                        <h3 class="heading-black">Digital Ad Specialist</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                          alt="Digital Marketing Specialist">
+                        <h3 class="heading-black">Digital Marketing Specialist</h3>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -612,20 +603,37 @@
                     </div>
                   </a>
                 </div>
+                <!-- <div class="col-md-4 card--layout">
+                  <a href="#">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/seo-tag.png" alt="SEO Specialist">
+                        <h3 class="heading-black">SEO Specialist</h3>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div> -->
               </div>
 
-              <div class="row row__same-height">
+              <!-- <div class="row row__same-height">
                 <div class="col-md-4 card--layout">
                   <a href="#">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/content.png" alt="UI/UX Designer">
                         <h3 class="heading-black">Content Writer</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -646,11 +654,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/webmaster.png" alt="Web Master">
                         <h3 class="heading-black">Web Master</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -665,7 +669,7 @@
                     </div>
                   </a>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
@@ -677,70 +681,17 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
                 <div class="col-xs-12">
-                  <h2 class="heading-black mb--40">Lowongan Other IT Specialist</h2>
+                  <h2 class="heading-black mb--40">
+                    Lowongan Sales & Marketing
+                  </h2>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/other-it-specialist/it-security-specialist.php">
+                  <a href="#">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/password.png"
-                          alt="Security Specialist">
-                        <h3 class="heading-black">Security Specialist</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
-                        </div>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/other-it-specialist/devops.php">
-                    <div class="card-box">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/server.png" alt="DevOps">
-                        <h3 class="heading-black">DevOps</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
-                        </div>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/other-it-specialist/quality-assurance.php">
-                    <div class="card-box">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/quality.png" alt="QA Specialist">
-                        <h3 class="heading-black">QA Specialist</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <img class="img-responsive card-icon" src="/img/career/icon/dm.png" alt="Sales & Marketing">
+                        <h3 class="heading-black">Sales & Marketing</h3>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -768,33 +719,8 @@
               <div class="row row__same-height">
                 <div class="col-xs-12">
                   <h2 class="heading-black mb--40">
-                    Lowongan Sales & Marketing / BackOffice
+                    Lowongan Back Office
                   </h2>
-                </div>
-                <div class="col-md-4 card--layout">
-                  <a href="#">
-                    <div class="card-box">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/dm.png" alt="Sales & Marketing">
-                        <h3 class="heading-black">Sales & Marketing</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
-                        </div>
-                      </div>
-                    </div>
-                  </a>
                 </div>
                 <div class="col-md-4 card--layout">
                   <a href="#">
@@ -802,11 +728,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/handshake.png" alt="General Affair">
                         <h3 class="heading-black">General Affair</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -827,11 +749,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/hr.png" alt="HR">
                         <h3 class="heading-black">HR</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -846,20 +764,13 @@
                     </div>
                   </a>
                 </div>
-              </div>
-
-              <div class="row row__same-height">
                 <div class="col-md-4 card--layout">
                   <a href="#">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/budget.png" alt="Accounting">
                         <h3 class="heading-black">Accounting</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
+                        <p></p>
                       </div>
                       <div class="card-box__footer">
                         <div>
@@ -886,112 +797,23 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
                 <div class="col-xs-12">
-                  <h2 class="heading-black mb--40">
-                    Magang
-                  </h2>
-                </div>
-                <div class="col-md-4 card--layout">
-                  <a href="#">
-                    <div class="card-box">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/dm.png" alt="Sales & Marketing">
-                        <h3 class="heading-black">Sales & Marketing</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
+                  <div class="bg--lowongan-intern" style="margin-top: calc(2.5em - 15px);">
+                    <div class="row row__same-height">
+                      <div class="col-md-6 col-xl-7" style="padding-top: 8px; padding-bottom: 8px;">
+                        <h3 class="section-title" style="font-size: 26px;">Lowongan Magang</h3>
+                        <p style="font-size: 16px;">Kami membuka lowongan magang bagi mahasiswa atau mahasiswi sesuai
+                          dengan kompetensi yang
+                          dimiliki.
                         </p>
                       </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
-                        </div>
+                      <div class="col-md-6 col-xl-5" style="padding-top: 8px; padding-bottom: 8px;">
+                        <a href="/career/intern/index.php">
+                          <img class="img-responsive" src="/img/career/bg-img/bg-btn-black-intern.png"
+                            alt="LIHAT KESEHARIAN MAGANG DI LOGIQUE">
+                        </a>
                       </div>
                     </div>
-                  </a>
-                </div>
-                <div class="col-md-4 card--layout">
-                  <a href="#">
-                    <div class="card-box">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/handshake.png" alt="General Affair">
-                        <h3 class="heading-black">General Affair</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
-                        </div>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <div class="col-md-4 card--layout">
-                  <a href="#">
-                    <div class="card-box">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/hr.png" alt="HR">
-                        <h3 class="heading-black">HR</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
-                        </div>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-              </div>
-
-              <div class="row row__same-height">
-                <div class="col-md-4 card--layout">
-                  <a href="#">
-                    <div class="card-box">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Programmer">
-                        <h3 class="heading-black">Programmer</h3>
-                        <p>
-                          The $79 iWork ’08 appears to be a good deal for anyone needing an affordable office suite for
-                          the
-                          Mac.
-                        </p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
-                        </div>
-                      </div>
-                    </div>
-                  </a>
+                  </div>
                 </div>
               </div>
             </div>

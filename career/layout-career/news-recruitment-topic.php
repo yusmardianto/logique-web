@@ -121,15 +121,15 @@ function tgl_indo($tanggal){
 }
 
 ?>
- 
+
 <section class="container-fluid">
   <div class="container--max-width --no-padding">
     <div class="row">
       <div class="col-sm-12 bg--f5f5f5 py--2-5em">
         <div class="row">
           <div class="col-sm-offset-1 col-sm-10">
-            <h2 class="section-title mb--40">
-              Kabar LOGIQUE
+            <h2 class="section-title mb--40 --black">
+              HR / Recruitment Info
             </h2>
           </div>
         </div>
@@ -159,7 +159,7 @@ function tgl_indo($tanggal){
           </li>
           <?php  } ?>
         </ul>
-       
+
       </div>
     </div>
   </div>

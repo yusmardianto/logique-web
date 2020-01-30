@@ -117,10 +117,10 @@
               <h1 class="header__title">Quality Assurance</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
-                <div class="career-detail__img-wrapper">
+                  <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/work.png" alt="Work Type">
                   </div>
-                  <p>Other IT Specialist</p>
+                  <p>Others IT Specialist</p>
                 </div>
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">

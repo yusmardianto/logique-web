@@ -66,56 +66,80 @@
 <!-- NAVIGATION -->
 
 <!-- HEADER -->
-  <div class="container-fluid">
-    <div class="row lang-logo--update-design">
-      <div class="container--max-width" style="padding: 0">
-        <div class="">
-          <div class="col-sm-offset-1 col-sm-10">
-            <div class="row">
-              <div class="col-sm-8 col-md-2">
-                <a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                    class="img-responsive logo--update-design" /></a>
-              </div>
-              <div class="col-md-5 col-lg-6 hidden-xs hidden-sm">
-                <div class="row navbar--career">
-                  <div class="col-md-3 col-lg-4 text-center no-gap">
-                    <a href="/career" class="navbar-link">Karir</a>
+<div class="container-fluid">
+  <div class="row lang-logo--update-design">
+    <div class="container--max-width" style="padding: 0">
+      <div class="">
+        <div class="col-sm-offset-1 col-sm-10">
+          <div class="row">
+            <div class="col-sm-8 col-md-2">
+              <a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
+                  class="img-responsive logo--update-design" /></a>
+            </div>
+            <div class="col-md-5 col-lg-6 hidden-xs hidden-sm">
+              <div class="row navbar--career">
+                <div class="col-md-offset-1 col-md-5 text-center no-gap">
+                  <div class="dropdown">
+                    <a href="" class="dropdown-toggle navbar-link" data-toggle="dropdown" role="button"
+                      aria-haspopup="true" aria-expanded="true">
+                      Kerja di LOGIQUE
+                      <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a href="/career/visi-budaya.php">Visi dan Budaya Kerja</a></li>
+                      <li><a href="/career/pengembangan-karir.php">Pengembangan Karir</a></li>
+                      <li><a href="/career/aktivitas-kerja.php">Aktivitas Kami</a></li>
+                      <li><a href="/career/pedoman-hr.php">Pedoman HR</a></li>
+                      <li><a href="/career/pesan.php">Pesan Untuk Kandidat</a></li>
+                      <li><a href="/career/faq.php">FAQ</a></li>
+                    </ul>
+                    <div class="clear"></div>
                   </div>
-                  <div class="col-md-5 col-lg-4 text-center no-gap">
-                    <?php if ($baseFileName === 'index.php'): ?>
-                    <div class="dropdown">
-                      <a href="" class="dropdown-toggle navbar-link" data-toggle="dropdown" role="button" aria-haspopup="true"
-                        aria-expanded="true">
-                        Kerja di LOGIQUE
-                        <span class="caret"></span>
-                      </a>
-                      <ul class="dropdown-menu">
-                        <li><a href="/career/visi-budaya.php">Visi dan Budaya Kerja</a></li>
-                        <li><a href="/career/pengembangan-karir.php">Pengembangan Karir</a></li>
-                        <li><a href="/career/aktivitas-kerja.php">Aktivitas Kami</a></li>
-                        <li><a href="/career/pedoman-hr.php">Pedoman HR</a></li>
-                        <li><a href="/career/pesan.php">Pesan Untuk Kandidat</a></li>
-                      </ul>
-                      <div class="clear"></div>
-                    </div>
-                    <?php else: ?>
-                    <a href="/logique.php" class="navbar-link">Info LOGIQUE</a>
-                    <?php endif; ?>
-                  </div>
-                  <div class="col-md-4 col-lg-4 text-center no-gap">
-                    <a href="/career/lowongan.php" class="navbar-link">Lowongan Kerja</a>
+                </div>
+                <div class="col-md-5 text-center no-gap">
+                  <!-- <a href="/career/lowongan.php" class="navbar-link">Lowongan Kerja</a> -->
+
+                  <div class="dropdown">
+                    <a href="" class="dropdown-toggle navbar-link" data-toggle="dropdown" role="button"
+                      aria-haspopup="true" aria-expanded="true">
+                      Lowongan Kerja
+                      <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <a href="/career/lowongan/programmer.php">Programmer</a>
+                      </li>
+                      <li>
+                        <a href="/career/lowongan/it-generalist.php">IT Generalist</a>
+                      </li>
+                      <li>
+                        <a href="/career/lowongan/other-it-specialist.php">Others IT Specialist</a>
+                      </li>
+                      <li>
+                        <a href="/career/lowongan/designer-dm.php">Designer / Digital Marketing</a>
+                      </li>
+                      <li>
+                        <a href="/career/lowongan/sales-marketing.php">Sales & Marketing</a>
+                      </li>
+                      <li>
+                        <a href="/career/lowongan/back-office.php">Back Office</a>
+                      </li>
+                    </ul>
+                    <div class="clear"></div>
                   </div>
                 </div>
               </div>
-              <div class="col-sm-4">
-                <a href="/career/lowongan.php" class="link-header-lamar-lowongan">
-                  Melamar Lowongan Sekarang
-                </a>
-              </div>
+            </div>
+            <div class="col-sm-4">
+              <a href="https://logique.sugoisaiyo.com/" target="_blank" rel="noreferrer"
+                class="link-header-lamar-lowongan">
+                Melamar Lowongan Sekarang
+              </a>
             </div>
           </div>
         </div>
       </div>
     </div>
   </div>
+</div>
 <!-- END HEADER -->

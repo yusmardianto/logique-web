@@ -18,7 +18,7 @@
   <meta property="og:description"
     content="Saatnya berkarir dan kembangkan potensimu - Career at Logique Bergabunglah dan jadilah bagian dari perkembangan teknologi digital di Indonesia bersama Logique. Anda juga akan memiliki kesempatan luas untuk mengembangkan potensi dan karir Anda, serta berkarya dengan jam kerja yang fleksibel.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Other IT Specialist</title>
+  <title>Others IT Specialist</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -102,7 +102,7 @@
                   <meta itemprop="position" content="3" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Other IT Specialist</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Others IT Specialist</span></a>
                   <meta itemprop="position" content="4" />
                 </li>
               </ol>
@@ -112,9 +112,12 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-5">
-              <h1 class="header__title">Other IT Specialist</h1>
+              <h1 class="header__title">Others IT Specialist</h1>
               <p>
-              Kami dengan senang hati menerima para pelamar yang berbakat dan berpotensi untuk berkembang di LOGIQUE. Di bawah ini merupakan beberapa posisi umum yang sedang dibuka oleh kami. Jika lowongan di bawah ini tidak sesuai dengan kriteria Anda. Jangan khawatir, kami akan membuat lowongan terbaru sesuai dengan keinginan dan skill Anda.
+                Kami dengan senang hati menerima para pelamar yang berbakat dan berpotensi untuk berkembang di LOGIQUE.
+                Di bawah ini merupakan beberapa posisi umum yang sedang dibuka oleh kami. Jika lowongan di bawah ini
+                tidak sesuai dengan kriteria Anda. Jangan khawatir, kami akan membuat lowongan terbaru sesuai dengan
+                keinginan dan skill Anda.
               </p>
             </div>
           </div>

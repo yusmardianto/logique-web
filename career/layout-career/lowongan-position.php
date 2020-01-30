@@ -34,8 +34,7 @@
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/it-generalist/consultant.php"
-              class="lowongan-position__item bg--sub-consultant">
+            <a href="/career/lowongan/it-generalist/consultant.php" class="lowongan-position__item bg--sub-consultant">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Consultant</h3>
             </a>
@@ -64,7 +63,7 @@
         <?php endif; ?>
 
         <?php if ($cat_vacancy === 'other-it-specialist'): ?>
-        <h2 class="section-title">Lowongan Other IT Specialist</h2>
+        <h2 class="section-title">Lowongan Others IT Specialist</h2>
         <div class="row lowongan-position">
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/other-it-specialist/quality-assurance.php"
@@ -81,8 +80,7 @@
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/other-it-specialist/devops.php"
-              class="lowongan-position__item bg--sub-devops">
+            <a href="/career/lowongan/other-it-specialist/devops.php" class="lowongan-position__item bg--sub-devops">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">DevOps</h3>
             </a>
@@ -101,8 +99,7 @@
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/programmer/web-developer.php"
-              class="lowongan-position__item bg--sub-web-dev">
+            <a href="/career/lowongan/programmer/web-developer.php" class="lowongan-position__item bg--sub-web-dev">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Web Developer</h3>
             </a>

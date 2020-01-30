@@ -487,6 +487,16 @@ button:focus {
   font-weight: 400;
 }
 
+.--small-btn-bold {
+  display: inline-block;
+  width: auto;
+  padding: 10px 2em;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
 .main-btn.--yellow {
   background-color: #fbc935;
   border-color: #fbc935;
@@ -1444,7 +1454,7 @@ ul.medsos-new li a {
   align-items: center;
   justify-content: center;
   height: 100%;
-  max-width: 400px;
+  max-width: 350px;
 }
 @media (min-width: 768px) {
   .bg--lowongan-intern a {
@@ -1680,6 +1690,23 @@ ul.medsos-new li a {
 }
 /* End Benefit */
 
+/* FAQ */
+.box-faq {
+  background: #fff;
+  padding: 1em 2em;
+  margin: 10px 0 15px;
+}
+
+.box-faq h3 {
+  font-size: 22px;
+  line-height: normal;
+}
+.box-faq p {
+  margin-left: 1em;
+  margin-top: 8px;
+}
+/*END FAQ*/
+
 /* HR Rule */
 .hr-rule__img-wrapper {
   width: 100%;
@@ -1739,8 +1766,6 @@ ul.medsos-new li a {
   position: relative;
   z-index: 5;
   line-height: 33px;
-}
-.message__text-title[data-emergence="hidden"] {
 }
 
 .message__text-title[data-emergence="visible"]::before {
@@ -1983,13 +2008,24 @@ ul.medsos-new li a {
   }
 }
 
+.box-p {
+  margin-bottom: 0;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;
+  background-color: #fff;
+  padding: 25px;
+  border-radius: 10px;
+  color: #000;
+}
+
 .card-box {
   position: relative;
   width: 100%;
   height: 100%;
   background-color: #fff;
   border-radius: 10px;
-  padding: 18px;
+  padding: 18px 16px;
   font-family: "Open Sans", sans-serif;
   overflow: hidden;
   display: flex;
@@ -2047,11 +2083,14 @@ ul.medsos-new li a {
 .card-box__footer > div {
   display: inline-flex;
   align-items: center;
+}
+
+.card-box__footer > div:not(:last-child) {
   margin-right: 10px;
 }
 
 .card-box__footer > div img {
-  margin-right: 8px;
+  margin-right: 6px;
 }
 
 .max-800 {
