@@ -827,6 +827,9 @@ ul.medsos-new li a {
   background: url("../img/career/bg-img/bg-career-apply.png") center/cover
     no-repeat;
 }
+.bg--detail-interview {
+  background: url("../img/career/interview-bg.png") center/cover no-repeat;
+}
 .bg--env {
   background: url("../img/career/bg-img/bg-env.png") center/cover no-repeat;
 }
@@ -1166,6 +1169,10 @@ ul.medsos-new li a {
 
 .--black {
   color: #000;
+}
+
+.--white {
+  color: #fff;
 }
 
 .header__sub-title {
@@ -1792,6 +1799,11 @@ ul.medsos-new li a {
   font-weight: 600;
   font-size: 18px;
 }
+.message__text-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 .message__text-content {
   color: #000;
   text-align: center;
@@ -1799,6 +1811,10 @@ ul.medsos-new li a {
 }
 .message-img .col-md-4 {
   padding: 15px;
+}
+
+.message__footer {
+  text-align: center;
 }
 .message__img-wrapper {
   max-width: 340px;
@@ -1839,6 +1855,70 @@ ul.medsos-new li a {
   }
 }
 /* End message */
+
+/* Detail Interview */
+.interview__role-title {
+  height: 100%;
+  padding-top: 1.5em;
+}
+
+.interview__role-title h2 {
+  font-size: 24px;
+}
+
+@media (min-width: 992px) {
+  .interview__role-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    font-style: italic;
+    padding-top: 0;
+  }
+}
+
+.interview__qa {
+  margin-bottom: 1em;
+}
+
+.interview__qa h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #000;
+}
+
+.interview-lain {
+  margin-top: 2.5em;
+  padding: 1.5em 0;
+  background: #e5e5e5;
+}
+
+.interview-link:hover {
+  opacity: 0.8;
+}
+
+.interview-lain .panel-body {
+  background-size: cover !important;
+  height: 252px;
+  padding: 0;
+  border-radius: 5px;
+  position: relative;
+}
+.interview-lain .panel-body h3 {
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  font-size: 14px !important;
+  padding: 14px;
+  text-align: center;
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  line-height: normal;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+/* End Detail Interview */
+
 /* Career Detail */
 .career-detail {
   display: flex;

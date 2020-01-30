@@ -121,6 +121,8 @@
                   Anda mau bergabung bersama kami, tim kami adalah fondasi dari kesuksesan masa depan perusahaan.
                   Perjalanan kita di sini akan menantang sekaligus memberikan manfaat. Mari berkembang dan meraih
                   kesuksesan besar bersama-sama.”</p>
+                <a class="form-control main-btn --small-btn-bold --yellow" href="/career/interview/yoshi.php">Interview
+                  with CEO</a>
               </div>
             </div>
           </div>
@@ -149,6 +151,10 @@
                       terbaik Anda maka perusahaan akan membuka kesempatan pertumbuhan karir dengan lingkungan kerja
                       yang baik untuk Anda Mari berkembang bersama LOGIQUE!”
                     </p>
+                    <div class="message__footer">
+                      <a class="form-control main-btn --small-btn-bold --yellow"
+                        href="/career/interview/ghitta.php">Interview with HRD</a>
+                    </div>
                   </div>
                 </div>
                 <div class="col-md-4 pb--2-5em">
@@ -158,15 +164,21 @@
                       Taufik
                       <br class="visible-md hidden-lg">
                       <span class="role--title">
-                        - Senior FrontEnd Dev
+                        - Senior Frontend Dev
                       </span>
                     </h4>
                     <p class="message__text-content">
                       “Show your best. Pastikan kalau kamu memiliki pengalaman dan menguasai bidang yang kamu lamar.
-                      Ibaratnya mau jadi atlet renang, kamu tentu harus bisa berenang (haha). Selain itu, tunjukkan juga
-                      kalau kamu profesional dan punya minat belajar yang tinggi. Untuk kamu yang senang bekerja cepat,
+                      Ibaratnya mau jadi atlet renang, kamu tentu harus bisa berenang (haha). Selain itu, tunjukkan
+                      juga
+                      kalau kamu profesional dan punya minat belajar yang tinggi. Untuk kamu yang senang bekerja
+                      cepat,
                       kamu bakal suka bekerja di LOGIQUE.”
                     </p>
+                    <div class="message__footer">
+                      <a class="form-control main-btn --small-btn-bold --yellow"
+                        href="/career/interview/taufik.php">Interview with <br> Senior Frontend Dev</a>
+                    </div>
                   </div>
                 </div>
                 <div class="col-md-4 pb--2-5em">
@@ -180,12 +192,19 @@
                       </span>
                     </h4>
                     <p class="message__text-content">
-                      “LOGIQUE tidak hanya melihat technical skill seseorang tetapi juga soft skill dan attitude. Selain
-                      itu, selama Anda merasa dapat memberikan kontribusi di bidang Anda, LOGIQUE akan mempertimbangkan
+                      “LOGIQUE tidak hanya melihat technical skill seseorang tetapi juga soft skill dan attitude.
+                      Selain
+                      itu, selama Anda merasa dapat memberikan kontribusi di bidang Anda, LOGIQUE akan
+                      mempertimbangkan
                       hal itu baik-baik. Namun, jika Anda mempunyai target untuk menjadi yang Back-End Developer
                       terbaik, saya menyarankan Anda untuk terbiasa dalam menggunakan berbagai bahasa pemrograman,
                       framework, cloud server topology AWS, dan semacamnya.”
                     </p>
+                    <div class="message__footer">
+                      <a class="form-control main-btn --small-btn-bold --yellow"
+                        href="/career/interview/muklis.php">Interview with <br> Senior Backend Dev
+                      </a>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -203,6 +222,7 @@
                   <img class="img-responsive" src="/img/career/bg-img/dummy-video.png" alt="" style="min-width:100%">
                 </div>
               </div> -->
+              <h2 class="section-title --black">Logique’s Gallery</h2>
               <div class="row message-img">
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
