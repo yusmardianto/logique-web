@@ -148,7 +148,8 @@
                 <ul class="career-list">
                   <li>Menghasilkan aplikasi mobile yang berfungsi secara penuh (iOS dan Android).</li>
                   <li>Mendukung seluruh aspek dalam pembuatan aplikasi (konsep, desain, pengujian, deployment).</li>
-                  <li>Menganalisis dan Mengumpulkan kebutuhan dari client serta memberikan saran dan solusi dalam hal aplikasi mobile.</li>
+                  <li>Menganalisis dan Mengumpulkan kebutuhan dari client serta memberikan saran dan solusi dalam hal
+                    aplikasi mobile.</li>
                   <li>Melakukan pengecekan dan mengidentifikasi malfungsi dalam aplikasi mobile.</li>
                   <li>Memecahkan masalah dan melakukan debug untuk mengoptimalkan kinerja aplikasi mobile.</li>
                   <li>Mengoptimalkan desain interface untuk meningkatkan user experience yang lebih baik.</li>
@@ -162,7 +163,8 @@
                 <ul class="career-list">
                   <li>Berpendidikan minimal S1 di bidang Ilmu Komputer/Teknologi Informasi atau yang setara.</li>
                   <li>Mempunyai pengalaman kerja sebagai pengembang aplikasi Mobile (iOS & Android).</li>
-                  <li>Mempunyai pengetahuan mendalam tentang setidaknya satu bahasa pemrograman seperti Swift dan Java.</li>
+                  <li>Mempunyai pengetahuan mendalam tentang setidaknya satu bahasa pemrograman seperti Swift dan Java.
+                  </li>
                   <li>Berpengalaman dalam mengelola library dan API pihak ketiga.</li>
                   <li>Tetap up-to-date dengan tren teknologi baru, terutama untuk pengembangan aplikasi mobile.</li>
                   <li>Memiliki pengalaman dengan Native Android dan iOS SDKs</li>
@@ -186,7 +188,8 @@
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
-                  <li>Menangani masalah sesuai dengan gaya pribadi selama project dapat berjalan sebagaimana mestinya.</li>
+                  <li>Menangani masalah sesuai dengan gaya pribadi selama project dapat berjalan sebagaimana mestinya.
+                  </li>
                   <li>Bisa memberikan kemudahan bagi masyarakat dengan aplikasi yang dibuat.</li>
                   <li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya).</li>
                 </ul>
@@ -305,7 +308,7 @@
               </div>
               <div class="apply-now__item text-center">
                 <div class="btn-banner-pattern__wrapper">
-                  <a class="btn-banner-pattern" href="#">
+                  <a class="btn-banner-pattern" href="https://logique.sugoisaiyo.com/" target="_blank" rel="noreferrer">
                     <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png"
                       alt="Melamar Lowongan Sekarang">
                     <span>Melamar Lowongan Sekarang</span>

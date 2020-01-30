@@ -56,7 +56,8 @@
           </div>
           <div class="col-md-6">
             <div class="text-center">
-              <a class="btn-banner-pattern mb--60" style="max-width: 350px;" href="/career/lowongan.php">
+              <a class="btn-banner-pattern mb--60" style="max-width: 350px;" href="https://logique.sugoisaiyo.com/"
+                target="_blank" rel="noreferrer">
                 <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png" alt="Lamar Pekerjaan Sekarang">
                 <span>Lamar Pekerjaan Sekarang</span>
               </a>

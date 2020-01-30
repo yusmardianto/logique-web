@@ -116,7 +116,7 @@
               <h1 class="header__title">Product Developer</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
-                <div class="career-detail__img-wrapper">
+                  <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/work.png" alt="Work Type">
                   </div>
                   <p>Programmer</p>
@@ -145,7 +145,12 @@
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
-                <p class="text-justify">Product Developer bekerja di dalam product department dengan tim product developer dan juga tim digital marketing dengan berkolaborasi dengan product manager. Kami memiliki beberapa tools HR seperti Dokodemo-Kerja dan Nippo. Anda akan melakukan perkembangan pada product yang sudah ada atau membuat product baru . Anda seharusnya dapat mengembangkan produk SAAS dengan merancang sistem dan pemrograman back-end dan front-end. Sebagian besar produk kami buat dikembangkan dari JavaScript dan PHP.</p>
+                <p class="text-justify">Product Developer bekerja di dalam product department dengan tim product
+                  developer dan juga tim digital marketing dengan berkolaborasi dengan product manager. Kami memiliki
+                  beberapa tools HR seperti Dokodemo-Kerja dan Nippo. Anda akan melakukan perkembangan pada product yang
+                  sudah ada atau membuat product baru . Anda seharusnya dapat mengembangkan produk SAAS dengan merancang
+                  sistem dan pemrograman back-end dan front-end. Sebagian besar produk kami buat dikembangkan dari
+                  JavaScript dan PHP.</p>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Job Detail</h3>
@@ -157,7 +162,8 @@
                     Melakukan perancangan, pengujian, pemeliharaan dan pengembangan product.
                   </li>
                   <li>
-                    Melakukan analisa masalah untuk mencari solusi teknis yang tepat dan efektif dalam pengembangan product.
+                    Melakukan analisa masalah untuk mencari solusi teknis yang tepat dan efektif dalam pengembangan
+                    product.
                   </li>
                   <li>
                     Membuat laporan kepada product managers.
@@ -196,7 +202,8 @@
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
                   <li>
-                    Akan memiliki pengalaman dan memahami hal yang berkaitan dengan pengembangan product dan juga digital marketing skill.
+                    Akan memiliki pengalaman dan memahami hal yang berkaitan dengan pengembangan product dan juga
+                    digital marketing skill.
                   </li>
                   <li>
                     Dapat mengenal dan memahami bagaimana proses pengembangan sebuah IT product.
@@ -225,7 +232,8 @@
                   </div>
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">13:30 – 15:00</div>
-                    <div class="work-schedule__text">Internal meeting dengan product manager mengenai product Logique , laporan progress, membuat target yang baru</div>
+                    <div class="work-schedule__text">Internal meeting dengan product manager mengenai product Logique ,
+                      laporan progress, membuat target yang baru</div>
                   </div>
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">15:00 – 16:00</div>
@@ -279,7 +287,7 @@
                       <h5 class="section-title">Product <br>Developer:</h5>
                     </div>
                     <ul class="salary-range__list">
-                      <li>Can program / code or know some programming languages (at least both PHP and JavaScript)                        
+                      <li>Can program / code or know some programming languages (at least both PHP and JavaScript)
                       </li>
                       <li>Can catch up new technology and new things quickly</li>
                       <li>Can deal with Database well, and should have infrastructure knowledge somehow</li>
@@ -317,7 +325,7 @@
               </div>
               <div class="apply-now__item text-center">
                 <div class="btn-banner-pattern__wrapper">
-                  <a class="btn-banner-pattern" href="#">
+                  <a class="btn-banner-pattern" href="https://logique.sugoisaiyo.com/" target="_blank" rel="noreferrer">
                     <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png"
                       alt="Melamar Lowongan Sekarang">
                     <span>Melamar Lowongan Sekarang</span>

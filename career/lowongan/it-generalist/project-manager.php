@@ -116,7 +116,7 @@
               <h1 class="header__title">Project Manager</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
-                <div class="career-detail__img-wrapper">
+                  <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/work.png" alt="Work Type">
                   </div>
                   <p>IT Generalist</p>
@@ -220,7 +220,7 @@
               </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
-             <div class="career-requirement">
+              <div class="career-requirement">
                 <h3 class="section-title">Preferable</h3>
                 <ul class="career-list">
                   <li>Project Management Certification</li>
@@ -359,7 +359,7 @@
               </div>
               <div class="apply-now__item text-center">
                 <div class="btn-banner-pattern__wrapper">
-                  <a class="btn-banner-pattern" href="#">
+                  <a class="btn-banner-pattern" href="https://logique.sugoisaiyo.com/" target="_blank" rel="noreferrer">
                     <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png"
                       alt="Melamar Lowongan Sekarang">
                     <span>Melamar Lowongan Sekarang</span>

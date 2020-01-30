@@ -116,7 +116,7 @@
               <h1 class="header__title">Web Developer</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
-                <div class="career-detail__img-wrapper">
+                  <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/work.png" alt="Work Type">
                   </div>
                   <p>Programmer</p>
@@ -147,7 +147,8 @@
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
                   <li>
-                    Melakukan integrasi User Interface Element yang telah didevelop oleh Front-End Developer ke Back-End.
+                    Melakukan integrasi User Interface Element yang telah didevelop oleh Front-End Developer ke
+                    Back-End.
                   </li>
                   <li>
                     Membangun Modul yang efisien, reusable, testable, dan scalable.
@@ -367,7 +368,7 @@
               </div>
               <div class="apply-now__item text-center">
                 <div class="btn-banner-pattern__wrapper">
-                  <a class="btn-banner-pattern" href="#">
+                  <a class="btn-banner-pattern" href="https://logique.sugoisaiyo.com/" target="_blank" rel="noreferrer">
                     <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png"
                       alt="Melamar Lowongan Sekarang">
                     <span>Melamar Lowongan Sekarang</span>

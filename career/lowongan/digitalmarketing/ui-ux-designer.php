@@ -341,7 +341,7 @@
               </div>
               <div class="apply-now__item text-center">
                 <div class="btn-banner-pattern__wrapper">
-                  <a class="btn-banner-pattern" href="#">
+                  <a class="btn-banner-pattern" href="https://logique.sugoisaiyo.com/" target="_blank" rel="noreferrer">
                     <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png"
                       alt="Melamar Lowongan Sekarang">
                     <span>Melamar Lowongan Sekarang</span>

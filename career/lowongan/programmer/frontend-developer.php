@@ -147,19 +147,24 @@
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
                   <li>
-                    Memanfaatkan HTML, CSS, Javascript, atau bahasa pemrograman terkait tampilan lainnya untuk mengembangkan antarmuka pengguna yang efektif pada website dan aplikasi.
+                    Memanfaatkan HTML, CSS, Javascript, atau bahasa pemrograman terkait tampilan lainnya untuk
+                    mengembangkan antarmuka pengguna yang efektif pada website dan aplikasi.
                   </li>
                   <li>
-                    Bekerja sama dan berkolaborasi dengan tim developer dan desainer untuk membuat, memperbarui, atau memperbaiki UI/UX website dan aplikasi.
+                    Bekerja sama dan berkolaborasi dengan tim developer dan desainer untuk membuat, memperbarui, atau
+                    memperbaiki UI/UX website dan aplikasi.
                   </li>
                   <li>
-                    Memberikan kualitas hasil terbaik dan tepat waktu sesuai dengan teknologi UI/UX terkini dan/atau yang sesuai dengan kebutuhan proyek.
+                    Memberikan kualitas hasil terbaik dan tepat waktu sesuai dengan teknologi UI/UX terkini dan/atau
+                    yang sesuai dengan kebutuhan proyek.
                   </li>
                   <li>
-                    Memastikan kompatibilitas browser atau ukuran layar pada halaman-halaman website dan aplikasi yang dihasilkan.
+                    Memastikan kompatibilitas browser atau ukuran layar pada halaman-halaman website dan aplikasi yang
+                    dihasilkan.
                   </li>
                   <li>
-                    Membuat kode yang terstruktur dan dapat digunakan kembali untuk kemudahan pengembangan atau perubahan di masa depan.
+                    Membuat kode yang terstruktur dan dapat digunakan kembali untuk kemudahan pengembangan atau
+                    perubahan di masa depan.
                   </li>
                   <li>
                     Memonitor dan mengoptimalkan performa website atau aplikasi dari sisi front-end.
@@ -173,7 +178,7 @@
                 <h3 class="section-title">Persyaratan</h3>
                 <ul class="career-list">
                   <li>
-                   Berpendidikan minimal D3 dan berpengalaman minimal 2 tahun di bidang IT atau programmer.
+                    Berpendidikan minimal D3 dan berpengalaman minimal 2 tahun di bidang IT atau programmer.
                   </li>
                   <li>
                     Berpengalaman dalam pembuatan WEB/Sistem.
@@ -352,7 +357,7 @@
               </div>
               <div class="apply-now__item text-center">
                 <div class="btn-banner-pattern__wrapper">
-                  <a class="btn-banner-pattern" href="#">
+                  <a class="btn-banner-pattern" href="https://logique.sugoisaiyo.com/" target="_blank" rel="noreferrer">
                     <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png"
                       alt="Melamar Lowongan Sekarang">
                     <span>Melamar Lowongan Sekarang</span>

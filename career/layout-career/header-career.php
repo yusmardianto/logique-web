@@ -43,7 +43,7 @@
         </a>
       </div>
       <div class="text-center active">
-        <a href="#">
+        <a href="/career/">
           <div class="img-career"></div>
           Karir
         </a>
@@ -131,8 +131,7 @@
               </div>
             </div>
             <div class="col-sm-4">
-              <a href="https://logique.sugoisaiyo.com/" target="_blank" rel="noreferrer"
-                class="link-header-lamar-lowongan">
+              <a href="/career/lowongan/" class="link-header-lamar-lowongan">
                 Melamar Lowongan Sekarang
               </a>
             </div>

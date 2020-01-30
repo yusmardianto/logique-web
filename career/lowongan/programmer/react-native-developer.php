@@ -147,10 +147,12 @@
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
                   <li>Membuat UI yang untuk mobile platform.</li>
-                  <li>Menggunakan Native API agar dapat diintegrasikan secara mendalam untuk mobile platform Android/iOS.</li>
+                  <li>Menggunakan Native API agar dapat diintegrasikan secara mendalam untuk mobile platform
+                    Android/iOS.</li>
                   <li>Bekerja sama dengan tim design agar dapat direalisasikan dalam bentuk desain UI/UX.</li>
                   <li>Mendiagnosa dan memperbaiki masalah aplikasi.</li>
-                  <li>Kontribusi  dalam komunias React Native untuk melakukan pelaporan, permintaan, dan membantu dalam mengimplementasikan sebuah perbaikan.</li>
+                  <li>Kontribusi dalam komunias React Native untuk melakukan pelaporan, permintaan, dan membantu dalam
+                    mengimplementasikan sebuah perbaikan.</li>
                   <li>Memelihara sistem React Native agar tetap stabil.</li>
                   <li>Selalu Up to date terhadap perkembangan platform terbaru.</li>
                 </ul>
@@ -183,7 +185,8 @@
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
-                  <li>Menangani masalah sesuai dengan gaya pribadi selama project dapat berjalan sebagaimana mestinya.</li>
+                  <li>Menangani masalah sesuai dengan gaya pribadi selama project dapat berjalan sebagaimana mestinya.
+                  </li>
                   <li>Bisa memberikan kemudahan bagi masyarakat dengan aplikasi yang dibuat.</li>
                   <li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya).</li>
                 </ul>
@@ -302,7 +305,7 @@
               </div>
               <div class="apply-now__item text-center">
                 <div class="btn-banner-pattern__wrapper">
-                  <a class="btn-banner-pattern" href="#">
+                  <a class="btn-banner-pattern" href="https://logique.sugoisaiyo.com/" target="_blank" rel="noreferrer">
                     <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png"
                       alt="Melamar Lowongan Sekarang">
                     <span>Melamar Lowongan Sekarang</span>

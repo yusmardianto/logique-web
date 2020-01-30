@@ -116,7 +116,7 @@
               <h1 class="header__title">React JS Developer</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
-                <div class="career-detail__img-wrapper">
+                  <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/work.png" alt="Work Type">
                   </div>
                   <p>Programmer</p>
@@ -156,13 +156,15 @@
                     Melakukan coding HTML-CSS (responsive design and cross browser).
                   </li>
                   <li>
-                    Bekerja sama dan berkolaborasi dengan tim backend-developer dan designer dalam menghasilkan team-results yang optimal.
+                    Bekerja sama dan berkolaborasi dengan tim backend-developer dan designer dalam menghasilkan
+                    team-results yang optimal.
                   </li>
                   <li>
                     Melakukan perbaikan performance dengan optimasi code pada sisi aplikasi.
                   </li>
                   <li>
-                    Melakukan analisa dan riset dalam menerapkan teknologi relevan yang update sesuai kebutuhan client/customer.
+                    Melakukan analisa dan riset dalam menerapkan teknologi relevan yang update sesuai kebutuhan
+                    client/customer.
                   </li>
                 </ul>
               </div>
@@ -170,7 +172,7 @@
                 <h3 class="section-title">Must Skill/Experience</h3>
                 <ul class="career-list">
                   <li>
-                    Pengalaman pada bidang  software development minimal 2 tahun.
+                    Pengalaman pada bidang software development minimal 2 tahun.
                   </li>
                   <li>
                     Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.
@@ -185,7 +187,8 @@
                     Terbiasa melakukan integrasi RESTful API.
                   </li>
                   <li>
-                    Berpengalaman menggunakan Front End Development Tools seperti Babel, Webpack, NPM / Yarn atau sejenisnya.
+                    Berpengalaman menggunakan Front End Development Tools seperti Babel, Webpack, NPM / Yarn atau
+                    sejenisnya.
                   </li>
                   <li>
                     Familiar dengan version control system (VCS) seperti Git.
@@ -352,7 +355,7 @@
               </div>
               <div class="apply-now__item text-center">
                 <div class="btn-banner-pattern__wrapper">
-                  <a class="btn-banner-pattern" href="#">
+                  <a class="btn-banner-pattern" href="https://logique.sugoisaiyo.com/" target="_blank" rel="noreferrer">
                     <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png"
                       alt="Melamar Lowongan Sekarang">
                     <span>Melamar Lowongan Sekarang</span>
