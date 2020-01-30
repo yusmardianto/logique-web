@@ -143,13 +143,11 @@
                       </span>
                     </h4>
                     <p class="message__text-content">
-                      “Sangat penting bagi Anda untuk mengetahui di mana dan bagaimana Anda bekerja. Jika Anda bekerja
-                      keras, merasakan bahwa bekerja penting untuk kehidupan Anda, dan ingin berkontribusi kepada
-                      perusahaan, kami berjanji akan menyediakan lingkungan kerja yang baik untuk Anda. Di LOGIQUE, kami
-                      menyambut individu yang kreatif dan dinamis serta berusaha untuk pengembangan pribadi dan
-                      profesional. Sebagai gantinya, maka kami berkomitmen untuk menghasilkan yang terbaik dari diri
-                      Anda dengan menawarkan kesempatan untuk kemajuan dan pertumbuhan, dan memberikan karir yang
-                      mengubah hidup tidak seperti yang lain. Mari berkembang bersama LOGIQUE!”
+                      “Sangat penting untuk memahami di mana dan bagaimana Anda bekerja. Jika Anda Kreatif, Dinamis,
+                      Pekerja Keras, Profesional, memiliki rasa bertanggung jawab dan ingin berkontribusi penuh pada
+                      perusahaan, LOGIQUE akan menyambut Anda! dengan komitment yang Anda berikan dan juga hasil kerja
+                      terbaik Anda maka perusahaan akan membuka kesempatan pertumbuhan karir dengan lingkungan kerja
+                      yang baik untuk Anda Mari berkembang bersama LOGIQUE!”
                     </p>
                   </div>
                 </div>
@@ -208,32 +206,32 @@
               <div class="row message-img">
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-1.png" alt="">
+                    <img src="/img/career/activity-img-1.png" alt="Foto Aktivitas Logique">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-2.png" alt="">
+                    <img src="/img/career/activity-img-2.png" alt="Foto Aktivitas Logique">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-3.png" alt="">
+                    <img src="/img/career/activity-img-3.png" alt="Foto Aktivitas Logique">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-4.png" alt="">
+                    <img src="/img/career/activity-img-4.png" alt="Foto Aktivitas Logique">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-5.png" alt="">
+                    <img src="/img/career/activity-img-5.png" alt="Foto Aktivitas Logique">
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-6.png" alt="">
+                    <img src="/img/career/activity-img-6.png" alt="Foto Aktivitas Logique">
                   </div>
                 </div>
                 <div class="col-sm-12">
@@ -241,17 +239,62 @@
                     <div class="row">
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-7.png" alt="">
+                          <img src="/img/career/activity-img-7.png" alt="Foto Aktivitas Logique">
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-8.png" alt="">
+                          <img src="/img/career/activity-img-8.png" alt="Foto Aktivitas Logique">
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-9.png" alt="">
+                          <img src="/img/career/activity-img-9.png" alt="Foto Aktivitas Logique">
+                        </div>
+                      </div>
+                      <div class="col-md-4 col-sm-6">
+                        <div class="message__img-wrapper">
+                          <img src="/img/career/activity-img-10.png" alt="Foto Aktivitas Logique">
+                        </div>
+                      </div>
+                      <div class="col-md-4 col-sm-6">
+                        <div class="message__img-wrapper">
+                          <img src="/img/career/activity-img-11.png" alt="Foto Aktivitas Logique">
+                        </div>
+                      </div>
+                      <div class="col-md-4 col-sm-6">
+                        <div class="message__img-wrapper">
+                          <img src="/img/career/activity-img-12.png" alt="Foto Aktivitas Logique">
+                        </div>
+                      </div>
+                      <div class="col-md-4 col-sm-6">
+                        <div class="message__img-wrapper">
+                          <img src="/img/career/activity-img-13.png" alt="Foto Aktivitas Logique">
+                        </div>
+                      </div>
+                      <div class="col-md-4 col-sm-6">
+                        <div class="message__img-wrapper">
+                          <img src="/img/career/activity-img-14.png" alt="Foto Aktivitas Logique">
+                        </div>
+                      </div>
+                      <div class="col-md-4 col-sm-6">
+                        <div class="message__img-wrapper">
+                          <img src="/img/career/activity-img-15.png" alt="Foto Aktivitas Logique">
+                        </div>
+                      </div>
+                      <div class="col-md-4 col-sm-6">
+                        <div class="message__img-wrapper">
+                          <img src="/img/career/activity-img-16.png" alt="Foto Aktivitas Logique">
+                        </div>
+                      </div>
+                      <div class="col-md-4 col-sm-6">
+                        <div class="message__img-wrapper">
+                          <img src="/img/career/activity-img-17.png" alt="Foto Aktivitas Logique">
+                        </div>
+                      </div>
+                      <div class="col-md-4 col-sm-6">
+                        <div class="message__img-wrapper">
+                          <img src="/img/career/activity-img-18.png" alt="Foto Aktivitas Logique">
                         </div>
                       </div>
                     </div>
