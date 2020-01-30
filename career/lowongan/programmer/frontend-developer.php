@@ -99,7 +99,7 @@
                   <meta itemprop="position" content="2" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/lowongan/programmer.php"><span itemprop="name">&nbsp; Programmer</span></a>
+                    href="/career/lowongan/programmer/"><span itemprop="name">&nbsp; Programmer</span></a>
                   <meta itemprop="position" content="3" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a

@@ -10,7 +10,7 @@
                   Belajar dan berkembang bersama dengan orang-orang terbaik.
                 </p>
               </div>
-              <a href="/career/pesan.php" class="main-btn --link-box">Pesan Untuk Kandidat</a>
+              <a href="/career/pesan-untuk-kandidat/" class="main-btn --link-box">Pesan Untuk Kandidat</a>
             </div>
           </div>
           <div class="col-md-3 col-sm-6">
@@ -20,7 +20,7 @@
                   Kenali visi dan <br> budaya kerja kami.
                 </p>
               </div>
-              <a href="/career/visi-budaya.php" class="main-btn --link-box">Visi dan Budaya Kerja</a>
+              <a href="/career/visi-budaya/" class="main-btn --link-box">Visi dan Budaya Kerja</a>
             </div>
           </div>
           <div class="col-md-3 col-sm-6">
@@ -30,7 +30,7 @@
                 Pahami pedoman yang <br>kami jalankan.
                 </p>
               </div>
-              <a href="/career/pedoman-hr.php" class="main-btn --link-box">Pedoman HR</a>
+              <a href="/career/pedoman-hr/" class="main-btn --link-box">Pedoman HR</a>
             </div>
           </div>
         </div>
@@ -42,7 +42,7 @@
                 Cari tau bagaimana karir Anda bisa berkembang di LOGIQUE.
                 </p>
               </div>
-              <a href="/career/pengembangan-karir.php" class="main-btn --link-box">Pengembangan Karir</a>
+              <a href="/career/pengembangan-karir/" class="main-btn --link-box">Pengembangan Karir</a>
             </div>
           </div>
           <div class="col-sm-6">
@@ -52,7 +52,7 @@
                   Lihat aktivitas kerja yang kami lakukan setiap harinya.
                 </p>
               </div>
-              <a href="/career/aktivitas-kerja.php" class="main-btn --link-box">
+              <a href="/career/aktivitas-kerja/" class="main-btn --link-box">
                 Aktivitas Kami
               </a>
             </div>

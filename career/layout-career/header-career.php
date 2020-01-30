@@ -86,12 +86,12 @@
                       <span class="caret"></span>
                     </a>
                     <ul class="dropdown-menu">
-                      <li><a href="/career/visi-budaya.php">Visi dan Budaya Kerja</a></li>
-                      <li><a href="/career/pengembangan-karir.php">Pengembangan Karir</a></li>
-                      <li><a href="/career/aktivitas-kerja.php">Aktivitas Kami</a></li>
-                      <li><a href="/career/pedoman-hr.php">Pedoman HR</a></li>
-                      <li><a href="/career/pesan.php">Pesan Untuk Kandidat</a></li>
-                      <li><a href="/career/faq.php">FAQ</a></li>
+                      <li><a href="/career/visi-budaya/">Visi dan Budaya Kerja</a></li>
+                      <li><a href="/career/pengembangan-karir/">Pengembangan Karir</a></li>
+                      <li><a href="/career/aktivitas-kerja/">Aktivitas Kami</a></li>
+                      <li><a href="/career/pedoman-hr/">Pedoman HR</a></li>
+                      <li><a href="/career/pesan-untuk-kandidat/">Pesan Untuk Kandidat</a></li>
+                      <li><a href="/career/faq/">FAQ</a></li>
                     </ul>
                     <div class="clear"></div>
                   </div>
@@ -107,22 +107,22 @@
                     </a>
                     <ul class="dropdown-menu">
                       <li>
-                        <a href="/career/lowongan/programmer.php">Programmer</a>
+                        <a href="/career/lowongan/programmer/">Programmer</a>
                       </li>
                       <li>
-                        <a href="/career/lowongan/it-generalist.php">IT Generalist</a>
+                        <a href="/career/lowongan/it-generalist/">IT Generalist</a>
                       </li>
                       <li>
-                        <a href="/career/lowongan/other-it-specialist.php">Others IT Specialist</a>
+                        <a href="/career/lowongan/specialist/">Others IT Specialist</a>
                       </li>
                       <li>
-                        <a href="/career/lowongan/designer-dm.php">Designer / Digital Marketing</a>
+                        <a href="/career/lowongan/digitalmarketing/">Designer / Digital Marketing</a>
                       </li>
                       <li>
-                        <a href="/career/lowongan/sales-marketing.php">Sales & Marketing</a>
+                        <a href="/career/lowongan/sales/">Sales & Marketing</a>
                       </li>
                       <li>
-                        <a href="/career/lowongan/back-office.php">Back Office</a>
+                        <a href="/career/lowongan/backoffice/">Back Office</a>
                       </li>
                     </ul>
                     <div class="clear"></div>

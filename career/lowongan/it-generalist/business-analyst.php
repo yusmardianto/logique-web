@@ -99,7 +99,7 @@
                   <meta itemprop="position" content="2" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/lowongan/it-generalist.php"><span itemprop="name">&nbsp; IT Generalist</span></a>
+                    href="/career/lowongan/it-generalist/"><span itemprop="name">&nbsp; IT Generalist</span></a>
                   <meta itemprop="position" content="3" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a

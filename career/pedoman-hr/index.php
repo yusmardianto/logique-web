@@ -6,19 +6,19 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Kami memberikan kesempatan berkarir bagi para web developer, web designer, dan digital marketing untuk terus mengasah kemampuannya dengan bergabung bersama LOGIQUE Digital Indonesia. Segera bergabunglah bersama kami!">
+    content="Kami membuat pedoman HR agar lingkungan kerja di LOGIQUE menjadi fleksibel dan nyaman bagi seluruh staff. Kami juga memberikan Anda beberapa benefit untuk kesejahteraan hidup Anda dan keluarga. Segera daftarkan diri Anda di halaman karir LOGIQUE sekarang juga.">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Karir | Info Lowongan Kerja | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Pedoman HR | Lingkungan Kerja | karir | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
   <meta property="og:description"
-    content="Saatnya berkarir dan kembangkan potensimu - Career at Logique Bergabunglah dan jadilah bagian dari perkembangan teknologi digital di Indonesia bersama Logique. Anda juga akan memiliki kesempatan luas untuk mengembangkan potensi dan karir Anda, serta berkarya dengan jam kerja yang fleksibel.">
+    content="Kami membuat pedoman HR agar lingkungan kerja di LOGIQUE menjadi fleksibel dan nyaman bagi seluruh staff. Kami juga memberikan Anda beberapa benefit untuk kesejahteraan hidup Anda dan keluarga. Segera daftarkan diri Anda di halaman karir LOGIQUE sekarang juga.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan</title>
+  <title>Pedoman HR | Lingkungan Kerja | karir | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -81,7 +81,7 @@
   <div class="wrapper">
 
     <!-- Header -->
-    <?php include './layout-career/header-career.php'; ?>
+    <?php include '../layout-career/header-career.php'; ?>
 
     <div class="career-update content-wrapper__">
 
@@ -254,13 +254,13 @@
         </div>
       </section>
 
-      <?php include './layout-career/link-section.php'; ?>
-      <?php include './layout-career/semua-lowongan.php'; ?>
-      <?php include './layout-career/contact-lgq.php'; ?>
+      <?php include '../layout-career/link-section.php'; ?>
+      <?php include '../layout-career/semua-lowongan.php'; ?>
+      <?php include '../layout-career/contact-lgq.php'; ?>
 
     </div>
 
-    <?php include '../footer.php'; ?>
+    <?php include '../../footer.php'; ?>
   </div>
   <script src="/js/aos.js"></script>
   <script type="text/JavaScript">

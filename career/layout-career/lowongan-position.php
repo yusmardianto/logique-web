@@ -42,18 +42,18 @@
         </div>
         <?php endif; ?>
 
-        <?php if ($cat_vacancy === 'designer-dm'): ?>
+        <?php if ($cat_vacancy === 'digitalmarketing'): ?>
         <h2 class="section-title">Lowongan Designer / Digital Marketing</h2>
         <div class="row lowongan-position">
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/designer-dm/digital-marketing-specialist.php"
+            <a href="/career/lowongan/digitalmarketing/digital-marketing-specialist.php"
               class="lowongan-position__item bg--sub-dm-specialist">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Digital Marketing Specialist</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/designer-dm/ui-ux-designer.php"
+            <a href="/career/lowongan/digitalmarketing/ui-ux-designer.php"
               class="lowongan-position__item bg--sub-ui-ux-designer">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">UI/UX Designer</h3>
@@ -62,25 +62,25 @@
         </div>
         <?php endif; ?>
 
-        <?php if ($cat_vacancy === 'other-it-specialist'): ?>
+        <?php if ($cat_vacancy === 'specialist'): ?>
         <h2 class="section-title">Lowongan Others IT Specialist</h2>
         <div class="row lowongan-position">
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/other-it-specialist/quality-assurance.php"
+            <a href="/career/lowongan/specialist/quality-assurance.php"
               class="lowongan-position__item bg--sub-qa">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Quality Assurance</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/other-it-specialist/it-security-specialist.php"
+            <a href="/career/lowongan/specialist/it-security-specialist.php"
               class="lowongan-position__item bg--sub-security-specialist">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">IT Security Specialist</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/other-it-specialist/devops.php" class="lowongan-position__item bg--sub-devops">
+            <a href="/career/lowongan/specialist/devops.php" class="lowongan-position__item bg--sub-devops">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">DevOps</h3>
             </a>
