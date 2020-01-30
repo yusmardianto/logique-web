@@ -7,7 +7,7 @@
             <div class="link-box">
               <div class="link-box__text-wrapper">
                 <p class="link-box__text">
-                  Belajar dan berkembang bersama dengan orang-orang terbaik yang kami miliki.
+                  Belajar dan berkembang bersama dengan orang-orang terbaik.
                 </p>
               </div>
               <a href="/career/pesan.php" class="main-btn --link-box">Pesan Untuk Kandidat</a>
@@ -17,7 +17,7 @@
             <div class="link-box bg--vision">
               <div class="link-box__text-wrapper">
                 <p class="link-box__text">
-                  Kenali visi dan <br> budaya kerja kami di sini.
+                  Kenali visi dan <br> budaya kerja kami.
                 </p>
               </div>
               <a href="/career/visi-budaya.php" class="main-btn --link-box">Visi dan Budaya Kerja</a>
@@ -27,7 +27,7 @@
             <div class="link-box bg--kerja">
               <div class="link-box__text-wrapper">
                 <p class="link-box__text">
-                  Temukan informasi terkait dengan pedoman HR di sini.
+                Pahami pedoman yang <br>kami jalankan.
                 </p>
               </div>
               <a href="/career/pedoman-hr.php" class="main-btn --link-box">Pedoman HR</a>
@@ -39,7 +39,7 @@
             <div class="link-box">
               <div class="link-box__text-wrapper">
                 <p class="link-box__text">
-                  Dapatkan informasi detail mengenai pengembangan karir di LOGIQUE di sini.
+                Cari tau bagaimana karir Anda bisa berkembang di LOGIQUE.
                 </p>
               </div>
               <a href="/career/pengembangan-karir.php" class="main-btn --link-box">Pengembangan Karir</a>
@@ -49,7 +49,7 @@
             <div class="link-box bg--env">
               <div class="link-box__text-wrapper">
                 <p class="link-box__text">
-                  Dapatkan seluruh informasi mengenai aktivitas kerja yang kami lakukan setiap harinya di sini.
+                  Lihat aktivitas kerja yang kami lakukan setiap harinya.
                 </p>
               </div>
               <a href="/career/aktivitas-kerja.php" class="main-btn --link-box">

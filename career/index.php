@@ -107,7 +107,7 @@
             <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
               <h1 class="header__title">Wujudkan Mimpi Anda Dengan Berkarir Bersama LOGIQUE</h1>
               <p>
-                Di LOGIQUE, Anda dapat mewujudkan mimpi Anda untuk mendapatkan dan meningkatkan karir yang cemerlang
+                Di LOGIQUE, Anda dapat mewujudkan mimpi Anda sebagai karyawan tetap dan mendapatkan peningkatan karir yang cemerlang
                 tanpa batas. Segera bergabung dan kembangkan karir Anda bersama kami.
               </p>
             </div>
@@ -123,20 +123,17 @@
                 <div class="col-md-6 col-sm-12">
                   <h2 class="section-title">Info Lowongan</h2>
                   <p class="mb--15 info-lowongan--desc">
-                    LOGIQUE memberikan kesempatan kepada Anda untuk bergabung bersama kami dan mengembangkan potensi
-                    yang Anda miliki saat ini.
-                    <br>
-                    Mengadopsi budaya kerja start up, kami selalu mendukung seluruh karyawan kami untuk terus
-                    meningkatkan skill dan pengetahuan mereka tentang berbagai update terbaru di dunia IT.
-                    <br>
+                    <span class="mb--15">LOGIQUE memberikan kesempatan kepada Anda untuk bergabung bersama kami dan mengembangkan potensi
+                    yang Anda miliki saat ini.</span>
+                    <br><br>
+                    Mengadopsi budaya kerja yang modern, kami mengedepankan efektivitas kerja yang mendukung karyawan untuk lebih produktif. Termasuk untuk terus meningkatkan skill dan pengetahuan mereka tentang berbagai update terbaru di dunia IT.
+                    <br><br>
                     Anda tertarik untuk bekerja di LOGIQUE?
                     <br>
                     <strong>Segera hubungi tim rekrutmen LOGIQUE sekarang juga!</strong>
                   </p>
                   <div class="talk-to__wrapper">
-                    <h4 class="section-subtitle">Talk
-                      to
-                      us</h4>
+                    <h4 class="section-subtitle">Talk to us</h4>
                     <div style="display: inline-block;">
                       <div class="talk-to">
                         <a href="https://wa.me/+6282260567856" target="_blank" class="talk-to__item">
