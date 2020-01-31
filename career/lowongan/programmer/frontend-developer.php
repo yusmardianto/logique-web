@@ -91,20 +91,24 @@
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/index.php"><span itemprop="name">Beranda</span></a>
+                    href="/"><span itemprop="name">Beranda</span></a>
                   <meta itemprop="position" content="1" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/index.php"><span itemprop="name">&nbsp; Karir</span></a>
+                    href="/career/"><span itemprop="name">&nbsp; Karir</span></a>
                   <meta itemprop="position" content="2" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/lowongan/programmer/"><span itemprop="name">&nbsp; Programmer</span></a>
+                    href="/career/lowongan/"><span itemprop="name">&nbsp; Lowongan</span></a>
                   <meta itemprop="position" content="3" />
+                </li>
+                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                    href="/career/lowongan/programmer/"><span itemprop="name">&nbsp; Programmer</span></a>
+                  <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
                     itemprop="item"><span itemprop="name">&nbsp; Front End Developer</span></a>
-                  <meta itemprop="position" content="4" />
+                  <meta itemprop="position" content="5" />
                 </li>
               </ol>
             </div>
@@ -351,9 +355,10 @@
       <section class="container-fluid bg--career-apply --mb-2em">
         <div class="container--max-width">
           <div class="row">
-            <div class="col-sm-offset-2 col-sm-8 apply-now">
+            <div class="col-sm-offset-1 col-sm-10 apply-now">
               <div class="apply-now__item">
-                <h5 class="apply-now__text">Talented and have a motivation to grow and be promoted very fast?</h5>
+                <h5 class="apply-now__text">Punya bakat dan motivasi yang tinggi untuk berkembang agar dipromosikan
+                  dengan cepat?</h5>
               </div>
               <div class="apply-now__item text-center">
                 <div class="btn-banner-pattern__wrapper">

@@ -10,7 +10,8 @@
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Lowongan Project Mnager | Product Manager |  Business Analyst | LOGIQUE Digital Indonesia">
+  <meta property="og:title"
+    content="Lowongan Project Mnager | Product Manager |  Business Analyst | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
@@ -18,7 +19,7 @@
   <meta property="og:description"
     content="LOGIQUE memberikan kesempatan kepada Anda untuk berkarir sebagai IT Generalis, seperti Project Manager, Product Manager, dan Business Analyst. Jika Anda tertarik untuk berkarir atau mengembangkan karir Anda sebagai IT Generalist, segera kunjungi halaman karir LOGIQUE.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Project Mnager | Product Manager |  Business Analyst | LOGIQUE Digital Indonesia</title>
+  <title>Lowongan Project Mnager | Product Manager | Business Analyst | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -90,11 +91,11 @@
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/index.php"><span itemprop="name">Beranda</span></a>
+                    href="/"><span itemprop="name">Beranda</span></a>
                   <meta itemprop="position" content="1" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/index.php"><span itemprop="name">Karir</span></a>
+                    href="/career/"><span itemprop="name">Karir</span></a>
                   <meta itemprop="position" content="2" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
@@ -114,7 +115,10 @@
             <div class="col-sm-offset-1 col-sm-5">
               <h1 class="header__title">IT Generalist</h1>
               <p>
-              Kami dengan senang hati menerima para pelamar yang berbakat dan berpotensi untuk berkembang di LOGIQUE. Di bawah ini merupakan beberapa posisi umum yang sedang dibuka oleh kami. Jika lowongan di bawah ini tidak sesuai dengan kriteria Anda. Jangan khawatir, kami akan membuat lowongan terbaru sesuai dengan keinginan dan skill Anda.
+                Kami dengan senang hati menerima para pelamar yang berbakat dan berpotensi untuk berkembang di LOGIQUE.
+                Di bawah ini merupakan beberapa posisi umum yang sedang dibuka oleh kami. Jika lowongan di bawah ini
+                tidak sesuai dengan kriteria Anda. Jangan khawatir, kami akan membuat lowongan terbaru sesuai dengan
+                keinginan dan skill Anda.
               </p>
             </div>
           </div>

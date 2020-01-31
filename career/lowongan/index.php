@@ -675,7 +675,7 @@
         </div>
       </section>
 
-      <section class="container-fluid">
+      <!-- <section class="container-fluid">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -710,7 +710,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <section class="container-fluid">
         <div class="container--max-width">

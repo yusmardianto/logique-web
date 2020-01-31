@@ -102,7 +102,7 @@
                   <meta itemprop="position" content="3" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Sales & Marketing</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Sales</span></a>
                   <meta itemprop="position" content="4" />
                 </li>
               </ol>
@@ -114,18 +114,22 @@
             <div class="col-sm-offset-1 col-sm-5">
               <h1 class="header__title">Sales & Marketing</h1>
               <p>
-              Kami dengan senang hati menerima para pelamar yang berbakat dan berpotensi untuk berkembang di LOGIQUE. Di bawah ini merupakan beberapa posisi umum yang sedang dibuka oleh kami. Jika lowongan di bawah ini tidak sesuai dengan kriteria Anda. Jangan khawatir, kami akan membuat lowongan terbaru sesuai dengan keinginan dan skill Anda.
+                Kami dengan senang hati menerima para pelamar yang berbakat dan berpotensi untuk berkembang di LOGIQUE.
+                Di bawah ini merupakan beberapa posisi umum yang sedang dibuka oleh kami. Jika lowongan di bawah ini
+                tidak sesuai dengan kriteria Anda. Jangan khawatir, kami akan membuat lowongan terbaru sesuai dengan
+                keinginan dan skill Anda.
               </p>
             </div>
           </div>
         </div>
       </section>
-      
+
       <section class="container-fluid ">
         <div class="container--max-width" style="padding-top: 5em;">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10 no-gap">
-              <h2 class="section-title text-center" style="margin-bottom: 0;">Maaf belum ada lowongan yang tersedia untuk posisi ini</h2>
+              <h2 class="section-title text-center" style="margin-bottom: 0;">Maaf belum ada lowongan yang tersedia
+                untuk posisi ini</h2>
             </div>
           </div>
         </div>

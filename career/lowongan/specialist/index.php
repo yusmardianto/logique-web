@@ -10,7 +10,8 @@
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Lowongan Kerja Security Specialist | QA Specialist | DevOps | LOGIQUE Digital Indonesia">
+  <meta property="og:title"
+    content="Lowongan Kerja Security Specialist | QA Specialist | DevOps | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
@@ -90,11 +91,11 @@
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/index.php"><span itemprop="name">Beranda</span></a>
+                    href="/"><span itemprop="name">Beranda</span></a>
                   <meta itemprop="position" content="1" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/index.php"><span itemprop="name">Karir</span></a>
+                    href="/career/"><span itemprop="name">Karir</span></a>
                   <meta itemprop="position" content="2" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
@@ -102,7 +103,7 @@
                   <meta itemprop="position" content="3" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Others IT Specialist</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Spesialis Lainnya</span></a>
                   <meta itemprop="position" content="4" />
                 </li>
               </ol>

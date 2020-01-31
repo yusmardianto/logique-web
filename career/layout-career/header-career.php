@@ -73,7 +73,8 @@
         <div class="col-sm-offset-1 col-sm-10">
           <div class="row">
             <div class="col-sm-8 col-md-2">
-              <a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
+              <a href="/index.php"><img src="/img/career/logo-karir.png"
+                  alt="Jasa Pembuatan Website Logique Digital Indonesia"
                   class="img-responsive logo--update-design" /></a>
             </div>
             <div class="col-md-5 col-lg-6 hidden-xs hidden-sm">
@@ -117,9 +118,6 @@
                       </li>
                       <li>
                         <a href="/career/lowongan/digitalmarketing/">Designer / Digital Marketing</a>
-                      </li>
-                      <li>
-                        <a href="/career/lowongan/sales/">Sales & Marketing</a>
                       </li>
                       <li>
                         <a href="/career/lowongan/backoffice/">Back Office</a>

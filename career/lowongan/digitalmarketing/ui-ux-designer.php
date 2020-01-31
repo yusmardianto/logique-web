@@ -91,21 +91,25 @@
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/index.php"><span itemprop="name">Beranda</span></a>
+                    href="/"><span itemprop="name">Beranda</span></a>
                   <meta itemprop="position" content="1" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/index.php"><span itemprop="name">&nbsp; Karir</span></a>
+                    href="/career/"><span itemprop="name">&nbsp; Karir</span></a>
                   <meta itemprop="position" content="2" />
+                </li>
+                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                    href="/career/lowongan/"><span itemprop="name">&nbsp; Lowongan</span></a>
+                  <meta itemprop="position" content="3" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
                     href="/career/lowongan/digitalmarketing/"><span itemprop="name">&nbsp; Designer / Digital
                       Marketing</span></a>
-                  <meta itemprop="position" content="3" />
+                  <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
                     itemprop="item"><span itemprop="name">&nbsp; UI/UX Designer</span></a>
-                  <meta itemprop="position" content="4" />
+                  <meta itemprop="position" content="5" />
                 </li>
               </ol>
             </div>
@@ -224,34 +228,36 @@
                 <h3 class="section-title">How a Designer in LOGIQUE works usually</h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">09:00 - 09:30</div>
-                    <div class="work-schedule__text">start dokodemo, checking email, trello, slack, for new task or
-                      feedback for today</div>
+                    <div class="work-schedule__time">09.00 – 09.30</div>
+                    <div class="work-schedule__text">Mulai dokodemo, cek email, trello, slack, untuk memulai pekerjaan
+                      atau memberikan tanggapan untuk hari ini.</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">09:31 - 12:00</div>
-                    <div class="work-schedule__text">draft UI design</div>
+                    <div class="work-schedule__time">09.31 – 12.00</div>
+                    <div class="work-schedule__text">Melakukan konsep UI desain</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">12:00 - 13:00 </div>
-                    <div class="work-schedule__text">break</div>
+                    <div class="work-schedule__time">12.00 – 13.00</div>
+                    <div class="work-schedule__text">Istirahat</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">13:01 - 14:00</div>
-                    <div class="work-schedule__text">meeting about new project with Project PIC / PM or internal team
-                      meeting (if any)</div>
+                    <div class="work-schedule__time">13.01 – 14.00</div>
+                    <div class="work-schedule__text">Rapat mengenai proyek terbaru dengan penanggung jawab proyek/
+                      proyek manager atau melakukan rapat internal dengan tim desain (jika ada)</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">14:00 - 16:30</div>
-                    <div class="work-schedule__text">continue UI draft design same or different project</div>
+                    <div class="work-schedule__time">14.00 – 16.30</div>
+                    <div class="work-schedule__text">Melanjutkan konsep UI desain dari proyek yang sama atau proyek yang
+                      berbeda</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">16:30</div>
-                    <div class="work-schedule__text">go home</div>
+                    <div class="work-schedule__time">16.30</div>
+                    <div class="work-schedule__text">Pulang ke rumah</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">18:30 - 19:00</div>
-                    <div class="work-schedule__text">learning / reading about design trend.</div>
+                    <div class="work-schedule__time">18.30 – 19.00</div>
+                    <div class="work-schedule__text">Belajar/ membaca mengenai tren desain terbaru dan terupdate saat
+                      ini.</div>
                   </div>
                 </div>
               </div>
@@ -271,16 +277,16 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
-                        <span class="salary-range__salary">100 juta IDR / Year</span>
+                        <span class="salary-range__salary">Rp 100 juta/ tahun</span>
                       </div>
                       <h5 class="section-title">Designer:</h5>
                     </div>
                     <ul class="salary-range__list">
                       <li>
-                        Understand about design, can use standard design tools like a adobe family
+                        Mengerti mengenai desain, mampu menggunakan perangkat desain yang standar, yaitu Adobe family.
                       </li>
                       <li>
-                        Can read design language system (DLS) / follow guidelines
+                        Mampu membaca Design Language System (DLS)/ mengikuti instruksi.
                       </li>
                     </ul>
                   </div>
@@ -290,20 +296,20 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <span class="salary-range__salary">100 - 200 juta IDR / Year</span>
+                        <span class="salary-range__salary">Rp 100 – 200 juta/ tahun</span>
                       </div>
                       <h5 class="section-title">Designer:</h5>
                     </div>
                     <ul class="salary-range__list">
                       <li>
-                        Understand about wireframe, UX, html & css basic, Design standard for print / digital.
+                        Mengerti tentang wireframe, UX, html & css basic, serta standar design untuk print / digital.
                       </li>
                       <li>
-                        Understand and can use standar professional design tools beside adobe family, like a sketch,
-                        zeplin or abstract.
+                        Mengerti dan mampu menggunakan tools standar professional selain Adobe family, seperti sketch,
+                        zeplin atau abstrak.
                       </li>
                       <li>
-                        Quick learning about new design trend or new tools.
+                        Mampu belajar cepat mengenai tren desain terbaru atau tools desain terbaru.
                       </li>
                     </ul>
                   </div>
@@ -313,16 +319,18 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <span class="salary-range__salary">200 - 400 juta IDR / Year</span>
+                        <span class="salary-range__salary">Rp 200 – 400 juta/ tahun</span>
                       </div>
                       <h5 class="section-title">Designer:</h5>
                     </div>
                     <ul class="salary-range__list">
-                      <li>Know more about UI/UX, html & css.</li>
-                      <li>Can give suggestion for existing design, problem solving and have a more passion for design.
+                      <li>Mengerti banyak tentang UI/UX, html & css</li>
+                      <li>Mampu memberikan saran untuk desain yang ada, pemecahan masalah, serta memiliki Hasrat yang
+                        lebih besar dalam hal desain.
                       </li>
-                      <li>Mastering for standar professional design tools include prototyping tools</li>
-                      <li>Understand motiongrahic is a plus.</li>
+                      <li>Menguasai tools/ alat standar yang biasa digunakan oleh desain profesional, termasuk alat
+                        prototyping.</li>
+                      <li>Memahami motiongraphic merupakan nilai tambah.</li>
                     </ul>
                   </div>
                 </div>
@@ -335,9 +343,10 @@
       <section class="container-fluid bg--career-apply --my-2em">
         <div class="container--max-width">
           <div class="row">
-            <div class="col-sm-offset-2 col-sm-8 apply-now">
+            <div class="col-sm-offset-1 col-sm-10 apply-now">
               <div class="apply-now__item">
-                <h5 class="apply-now__text">Talented and have a motivation to grow and be promoted very fast?</h5>
+                <h5 class="apply-now__text">Punya bakat dan motivasi yang tinggi untuk berkembang agar dipromosikan
+                  dengan cepat?</h5>
               </div>
               <div class="apply-now__item text-center">
                 <div class="btn-banner-pattern__wrapper">

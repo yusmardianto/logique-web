@@ -62,7 +62,7 @@
           </div>
           <?php endif; ?>
           <?php if ($cat_vacancy !== 'sales'): ?>
-          <div class="col-md-6 col-lg-4">
+          <!-- <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/sales/" class="see-position__item bg--sub-sales-marketing">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
@@ -72,7 +72,7 @@
                 Sales, Inside Sales staff, Marketing
               </p>
             </a>
-          </div>
+          </div> -->
           <?php endif; ?>
           <?php if ($cat_vacancy !== 'backoffice'): ?>
           <div class="col-md-6 col-lg-4">
