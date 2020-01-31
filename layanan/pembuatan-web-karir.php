@@ -60,26 +60,36 @@ if(isset($_POST['submitted']))
     <link href="assets/css/style-recruitment-website.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Architects+Daughter" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Architects+Daughter" rel="stylesheet"> -->
     <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
     ga('create', 'UA-105878648-1', 'auto');
     ga('send', 'pageview');
     </script>
     <!-- Twitter universal website tag code -->
     <script>
-	!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
-	},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
-	a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
-	// Insert Twitter Pixel ID and Standard Event data below
-	twq('init','o0xru');
-	twq('track','PageView');
-	</script>
+    ! function(e, t, n, s, u, a) {
+        e.twq || (s = e.twq = function() {
+                s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
+            }, s.version = '1.1', s.queue = [], u = t.createElement(n), u.async = !0, u.src = '//static.ads-twitter.com/uwt.js',
+            a = t.getElementsByTagName(n)[0], a.parentNode.insertBefore(u, a))
+    }(window, document, 'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init', 'o0xru');
+    twq('track', 'PageView');
+    </script>
     <!-- End Twitter universal website tag code -->
 </head>
 
@@ -89,16 +99,20 @@ if(isset($_POST['submitted']))
         padding-top: 0;
         padding-bottom: 0;
     }
+
     .reason-container {
         margin-top: -15px;
         margin-bottom: -35px;
     }
+
     .col-sm-12.link-footer {
-		margin-bottom: 2em;
-	}
+        margin-bottom: 2em;
+    }
+
     footer {
         top: 35px;
     }
+
     .tahap-pemesanan-2 {
         position: relative;
         top: 35px;
@@ -107,8 +121,8 @@ if(isset($_POST['submitted']))
     <div class="wrapper wrapper--update-design">
         <!-- NAVIGATION -->
         <div>
-            <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-                data-toggle="collapse" data-target="#myNavbar">
+            <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
+                data-target="#myNavbar">
                 <span class="icon-bar first"></span>
                 <span class="icon-bar second"></span>
                 <span class="icon-bar third"></span>
@@ -183,8 +197,7 @@ if(isset($_POST['submitted']))
                                     <li class="active"><a href="#">ID</a></li>
                                     <li><a href="/jp/services/recruitment-web-dev.php">JP</a></li>
                                 </ul>
-                                <a href="/index.php"><img src="/img/logo.png"
-                                        alt="Jasa Pembuatan Website Logique Digital Indonesia"
+                                <a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
                                         class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
@@ -200,14 +213,13 @@ if(isset($_POST['submitted']))
                     <div class="container__" style="padding:0">
                         <div class="row">
                             <div class="col-sm-12">
-                                <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                    itemtype="http://schema.org/BreadcrumbList">
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item" href="/index.php"><span itemprop="name">Beranda</span></a>
+                                <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                            href="/index.php"><span itemprop="name">Beranda</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
-                                    <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item" href="/layanan.php"><span itemprop="name">&nbsp;Layanan</span></a>
+                                    <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                            href="/layanan.php"><span itemprop="name">&nbsp;Layanan</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
@@ -256,8 +268,7 @@ if(isset($_POST['submitted']))
                         </div>
                         <div class="col-sm-4 text-right">
                             <a href="/hubungi-kami.php" target="_blank" aria-label="Contact Us" rel="noreferrer"><img
-                                    class="logo-logique img-responsive"
-                                    src="assets/img/img-recruitment-website/logo-y-logique.png" alt=""
+                                    class="logo-logique img-responsive" src="assets/img/img-recruitment-website/logo-y-logique.png" alt=""
                                     style="float: right; margin-top:10px;"></a>
                         </div>
                     </div>
@@ -275,15 +286,13 @@ if(isset($_POST['submitted']))
                                 <div class="row">
 
                                     <div class="col-sm-4">
-                                        <img src="assets/img/img-recruitment-website/img-problem2.png" alt="Masalah HRD"
-                                            class="img-responsive">
+                                        <img src="assets/img/img-recruitment-website/img-problem2.png" alt="Masalah HRD" class="img-responsive">
                                         <div>Menggunakan layanan situs pencari kerja namun hasilnya tidak menentu, terkadang
                                             jumlah
                                             pencari kerja banyak, tapi kualitasnya tidak bagus atau sebaliknya.</div>
                                     </div>
                                     <div class="col-sm-4">
-                                        <img src="assets/img/img-recruitment-website/img-problem3.png" alt="Masalah HRD"
-                                            class="img-responsive">
+                                        <img src="assets/img/img-recruitment-website/img-problem3.png" alt="Masalah HRD" class="img-responsive">
                                         <div>Menggunakan jasa agen penyalur tenaga kerja, tapi harganya sangat mahal dan terkadang
                                             kualitas karyawan tidak bagus.</div>
                                     </div>
@@ -359,8 +368,7 @@ if(isset($_POST['submitted']))
             </section>
 
             <section class="simulation-container">
-                <img src="assets/img/img-recruitment-website/img-simulation2.png" alt="Simulasi Biaya" class="img-responsive "
-                    style="width: 100%;">
+                <img src="assets/img/img-recruitment-website/img-simulation2.png" alt="Simulasi Biaya" class="img-responsive " style="width: 100%;">
                 <div class="container__">
                     <h2 class="text-center">
                         Mari Kita lihat Simulasi Biaya Perekrutan dibawah ini
@@ -368,14 +376,13 @@ if(isset($_POST['submitted']))
                     <div class="simul-cont1">
                         <div class="simul-1">Jika Anda ingin merekrut</div>
                         <div class="simul-2">
-                            <img src="assets/img/img-recruitment-website/img-simulation1.png" alt="Simulasi Biaya"
-                                class="img-responsive">
+                            <img src="assets/img/img-recruitment-website/img-simulation1.png" alt="Simulasi Biaya" class="img-responsive">
                             10 karyawan baru</div>
                         <div class="simul-3">untuk 10 posisi berbeda,</div>
                     </div>
                     <center>
-                        <img src="assets/img/img-recruitment-website/simulation-dot.png" alt="Simulasi Biaya"
-                            class="img-responsive" style="margin-top: 10px;">
+                        <img src="assets/img/img-recruitment-website/simulation-dot.png" alt="Simulasi Biaya" class="img-responsive"
+                            style="margin-top: 10px;">
                     </center>
                 </div>
                 <div class="simul-container">
@@ -396,17 +403,17 @@ if(isset($_POST['submitted']))
                                 <img src="assets/img/img-recruitment-website/simulation2.png" alt="Simulasi Biaya"
                                     class="img-responsive center-block">
                             </div>
-                        <div class="col-sm-12 simul-description">
-                            <center>
-                                Jika pelamar ternyata tidak sesuai dengan kriteria perusahaan, maka biaya serta tenaga yang Anda
-                                keluarkan akan menjadi sia-sia. Bahkan bisa saja menimbulkan potensi masalah lain di kemudian
-                                hari,
-                                seperti pengunduran diri karyawan dalam waktu dekat karena tidak mampu beradaptasi dengan
-                                lingkungan
-                                kerja sehingga membuat Anda harus mengulang proses rekrutmen karyawan dari awal. Hal ini tentu
-                                membuang-buang waktu Anda.
-                            </center>
-                        </div>
+                            <div class="col-sm-12 simul-description">
+                                <center>
+                                    Jika pelamar ternyata tidak sesuai dengan kriteria perusahaan, maka biaya serta tenaga yang Anda
+                                    keluarkan akan menjadi sia-sia. Bahkan bisa saja menimbulkan potensi masalah lain di kemudian
+                                    hari,
+                                    seperti pengunduran diri karyawan dalam waktu dekat karena tidak mampu beradaptasi dengan
+                                    lingkungan
+                                    kerja sehingga membuat Anda harus mengulang proses rekrutmen karyawan dari awal. Hal ini tentu
+                                    membuang-buang waktu Anda.
+                                </center>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -430,8 +437,8 @@ if(isset($_POST['submitted']))
                 <div class="solution-container">
                     <div class="container__">
                         <div class="row">
-                            <div class="col-lg-7 col-md-6 col-sm-6 "><img src="assets/img/img-recruitment-website/buble-text.png"
-                                    alt="Bubble Text" class="img-responsive"></div>
+                            <div class="col-lg-7 col-md-6 col-sm-6 "><img src="assets/img/img-recruitment-website/buble-text.png" alt="Bubble Text"
+                                    class="img-responsive"></div>
                             <div class="col-lg-5 col-md-6 col-sm-6 price-tag">
                                 <div class="price-tag-text">
                                     <div style="font-size: 30px; font-weight: 900;line-height: 30px">Lebih </div>
@@ -532,8 +539,7 @@ if(isset($_POST['submitted']))
 
                             <div class="col-md-3 col-sm-6 step step2">
                                 <div class="step-number-cont"><span>1</span></div>
-                                <img src="assets/img/img-recruitment-website/img-step2.jpg" alt="Image Step"
-                                    class="img-responsive">
+                                <img src="assets/img/img-recruitment-website/img-step2.jpg" alt="Image Step" class="img-responsive">
                                 <h4>Perencanaan</h4>
                                 <div class="step-text">Kami akan berdiskusi dengan Anda mengenai preferensi dan konsep halaman
                                     karir.
@@ -542,8 +548,7 @@ if(isset($_POST['submitted']))
                             </div>
                             <div class="col-md-3 col-sm-6  step step3">
                                 <div class="step-number-cont"><span>2</span></div>
-                                <img src="assets/img/img-recruitment-website/img-step3.jpg" alt="Image Step"
-                                    class="img-responsive">
+                                <img src="assets/img/img-recruitment-website/img-step3.jpg" alt="Image Step" class="img-responsive">
                                 <h4>Desain</h4>
                                 <div class="step-text">Pembuatan desain yang menarik dan pengambilan foto akan dilakukan sebagai
                                     komponen penting dari halaman karir tersebut.
@@ -553,8 +558,7 @@ if(isset($_POST['submitted']))
 
                             <div class="col-md-3 col-sm-6 step step5">
                                 <div class="step-number-cont"><span>3</span></div>
-                                <img src="assets/img/img-recruitment-website/img-step5.jpg" alt="Image Step"
-                                    class="img-responsive">
+                                <img src="assets/img/img-recruitment-website/img-step5.jpg" alt="Image Step" class="img-responsive">
                                 <h4>Penulisan</h4>
                                 <div class="step-text">Kami membantu Anda merangkum dan menampilkan konten yang mudah dimengerti
                                     oleh
@@ -564,8 +568,7 @@ if(isset($_POST['submitted']))
 
                             <div class="col-md-3 col-sm-6 step step8">
                                 <div class="step-number-cont"><span>4</span></div>
-                                <img src="assets/img/img-recruitment-website/img-step8.jpg" alt="Image Step"
-                                    class="img-responsive">
+                                <img src="assets/img/img-recruitment-website/img-step8.jpg" alt="Image Step" class="img-responsive">
                                 <h4>Halaman karir selesai!</h4>
                                 <div class="step-text">Halaman karir siap digunakan untuk membantu proses rekrutmen perusahaan
                                     Anda.
@@ -764,8 +767,7 @@ if(isset($_POST['submitted']))
                     <div class="row">
                         <div class="col-sm-6 ">
                             <center>
-                                <img src="assets/img/img-recruitment-website/sugoisaiyo-logo.png" alt="Sugoi Saiyo Logo"
-                                    class="img-responsive">
+                                <img src="assets/img/img-recruitment-website/sugoisaiyo-logo.png" alt="Sugoi Saiyo Logo" class="img-responsive">
                                 <div class="produk">Jalankan proses rekrutmen dengan mudah dan efektif secara online. Kandidat
                                     dapat
                                     memasukkan data mereka via sistem dan Anda dapat melakukan proses rekrutmen mulai dari
@@ -778,8 +780,7 @@ if(isset($_POST['submitted']))
                         </div>
                         <div class="col-sm-6 ">
                             <center>
-                                <img src="assets/img/img-recruitment-website/dokodemo-logo.png" alt="Dokodemo logo"
-                                    class="img-responsive">
+                                <img src="assets/img/img-recruitment-website/dokodemo-logo.png" alt="Dokodemo logo" class="img-responsive">
                                 <div class="produk">Masalah dan waktu yang kurang efektif ketika karyawan Anda tinggal jauh dari
                                     kantor mungkin membuat Anda berpikir untuk menerapkan sistem kerja remote. Namun tentu saja
                                     sistem
@@ -794,8 +795,8 @@ if(isset($_POST['submitted']))
                                     tambahan berupa screenshot yang diambil pada waktu acak untuk memonitor tingkat efisiensi
                                     karyawan.</div>
                                 <br>
-                                <a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer"
-                                    class="btn btn-lg btn-yellow">Lihat Informasi Lebih Lanjut</a>
+                                <a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="btn btn-lg btn-yellow">Lihat Informasi
+                                    Lebih Lanjut</a>
                             </center>
                         </div>
                     </div>

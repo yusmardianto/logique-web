@@ -171,7 +171,7 @@
 
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
-                    <div class="title"><b>Klien</b><span class="yellow"> Kami</span></div>
+                    <div class="title"><b>Our</b><span class="yellow"> Portfolio</span></div>
                     <p class="title__description">LOGIQUE telah mengembangkan banyak Situs Web, Sistem dan Aplikasi, untuk klien-klien kami. Berikut adalah beberapa kreasi Web, pengembangan aplikasi seluler / PWA, pengembangan sistem TI, dan portofolio konsultasi pemasaran digital kami.</p>
 
                     <div class="client-list__wrapper">
@@ -251,11 +251,14 @@
                         </div>
 
                         <div class="col-md-4 col-xs-6">
-                            <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
-                            <p class="text-center">Pertamina</p>
+                            <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/mobirent.png" alt="Mobirent"
+                                    class="img-responsive center-block">
+                                <p class="text-center">Mobirent</p>
+                            </a>
                             <div class="addition-desc text-left">
-                                UI / UX Design (Design | HTML/CSS)
-                                <div class="grey-clr">Training, E-Learning, Pertamina</div>
+                                Web Design (Design | Coding | Deployment)
+                                <div class="grey-clr">Mobile Optimized</div>
                             </div>
                         </div>
 
@@ -1086,14 +1089,11 @@
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/mobirent.png" alt="Mobirent"
-                                        class="img-responsive center-block">
-                                    <p class="text-center">Mobirent</p>
-                                </a>
+                                <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
+                                <p class="text-center">Pertamina</p>
                                 <div class="addition-desc text-left">
-                                    Web Design (Design | Coding | Deployment)
-                                    <div class="grey-clr">Mobile Optimized</div>
+                                    UI / UX Design (Design | HTML/CSS)
+                                    <div class="grey-clr">Training, E-Learning, Pertamina</div>
                                 </div>
                             </div>
 

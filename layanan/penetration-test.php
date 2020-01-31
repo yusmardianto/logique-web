@@ -26,6 +26,7 @@
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.css">
     <script>
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
@@ -824,7 +825,6 @@
             </div>
         </section>
 
-
         <section class="harga">
             <div class="container__">
                 <div class="row">
@@ -844,6 +844,214 @@
                             tahapan pengujian (assessment) dan tahapan pelaporan (reporting), Logique Digital Indonesia
                             menawarkan harga mulai dari Rp 15 juta tergantung dari jenis aplikasi atau sistem yang akan
                             diuji.</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <br>
+            <!-- <div class="mengapa-harus"><b></b>Logique Works 2019</div> -->
+            <div class="container__">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <a href="#sampleReport">
+                            <img alt="Assesment Flow" src="assets/img/img-pentest/assesment-flow.jpg" class="img-responsive center-block">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <br />
+            <div class="mengapa-harus"><a href="/en/" target="_blank"><b>LOGIQUE</b></a> Works 2019</div>
+            <div class="container__">
+                <div class="row">
+
+                    <div class="col-sm-12">
+                        <div class="table-responsive">
+                            <table class="work-logique__table table table-striped ">
+                                <thead>
+                                    <tr>
+                                        <th rowspan="2" scope="col">Time</th>
+                                        <th rowspan="2" scope="col">Industry</th>
+                                        <th rowspan="2" scope="col">Object of Assesment</th>
+                                        <th colspan="3" scope="col">Found Problems (Risk Level)</th>
+                                    </tr>
+                                    <tr>
+                                        <th class="table__head--high" scope="col">High</th>
+                                        <th class="table__head--middle" scope="col">Middle</th>
+                                        <th class="table__head--low" scope="col">Low</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Sep - Oct 2019</td>
+                                        <td>Travel</td>
+                                        <td>Web app</td>
+                                        <td><span class="table__round --high">5</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sep - Oct 2019</td>
+                                        <td>Media</td>
+                                        <td>Online Media</td>
+                                        <td><span class="table__round --high">8</span></td>
+                                        <td><span class="table__round --middle">0</span></td>
+                                        <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sep - Oct 2019</td>
+                                        <td>Entrainment</td>
+                                        <td>Network infrastructure</td>
+                                        <td><span class="table__round --high">4</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sep - Oct 2019</td>
+                                        <td>E-commerce</td>
+                                        <td>Market Place Web</td>
+                                        <td><span class="table__round --high">8</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">4</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Oct 2019 </td>
+                                        <td>E-commerce</td>
+                                        <td>PWA</td>
+                                        <td><span class="table__round --high">4</span></td>
+                                        <td><span class="table__round --middle">3</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Oct - Nov 2019</td>
+                                        <td>Forwarding</td>
+                                        <td>Website company profile</td>
+                                        <td><span class="table__round --high">5</span></td>
+                                        <td><span class="table__round --middle">5</span></td>
+                                        <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Oct - Nov 2019</td>
+                                        <td>E-commerce</td>
+                                        <td>Web app</td>
+                                        <td><span class="table__round --high">6</span></td>
+                                        <td><span class="table__round --middle">0</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Oct - Nov 2019</td>
+                                        <td>E-commerce</td>
+                                        <td>Web app</td>
+                                        <td><span class="table__round --high">2</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Oct - Dec 2019</td>
+                                        <td>E-commerce</td>
+                                        <td>Web app</td>
+                                        <td><span class="table__round --high">53</span></td>
+                                        <td><span class="table__round --middle">1</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Nov - Dec 2019</td>
+                                        <td>E-commerce</td>
+                                        <td>Mobile app for Android</td>
+                                        <td><span class="table__round --high">2</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Nov - Dec 2019</td>
+                                        <td>E-commerce</td>
+                                        <td>E-commerce</td>
+                                        <td><span class="table__round --high">3</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Nov - Dec 2019</td>
+                                        <td>E-commerce</td>
+                                        <td>E-commerce</td>
+                                        <td><span class="table__round --high">2</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Nov 2019 </td>
+                                        <td>Fintech</td>
+                                        <td>Web app</td>
+                                        <td><span class="table__round --high">1</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Nov 2019 </td>
+                                        <td>Fintech</td>
+                                        <td>Mobile app for IOS and Android</td>
+                                        <td><span class="table__round --high">2</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Dec 2019 </td>
+                                        <td>Finance</td>
+                                        <td>Corporate Web</td>
+                                        <td><span class="table__round --high">2</span></td>
+                                        <td><span class="table__round --middle">1</span></td>
+                                        <td><span class="table__round --low">4</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Dec 2019 </td>
+                                        <td>Automotive</td>
+                                        <td>Corporate Web</td>
+                                        <td><span class="table__round --high">4</span></td>
+                                        <td><span class="table__round --middle">0</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Dec 2019 </td>
+                                        <td>Service</td>
+                                        <td>Member web</td>
+                                        <td><span class="table__round --high">3</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id=sampleReport>
+            <br />
+            <div class="mengapa-harus">Sample Report</div>
+            <div class="container__">
+                <div class="row sample-report">
+                    <div class="col-sm-4">
+                        <a href="assets/img/img-pentest/sample-report-sql.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-sql.jpg" class="img-responsive" alt="SQL Injection">
+                            <div class="sample-report__text text-center">SQL Injection</div>
+                        </a>
+                    </div>
+                    <div class="col-sm-4">
+                        <a href="assets/img/img-pentest/sample-report-missing.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-missing.jpg" class="img-responsive" alt="Missing Authorization Mechanism">
+                            <div class="sample-report__text text-center">Missing Authorization Mechanism</div>
+                        </a>
+                    </div>
+                    <div class="col-sm-4">
+                        <a href="assets/img/img-pentest/sample-report-bypass.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-bypass.jpg" class="img-responsive" alt="Bypassing Unrestricted File Upload">
+                            <div class="sample-report__text text-center">Bypassing Unrestricted File Upload</div>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -1056,6 +1264,14 @@
     <script src="/js/bootstrap.min.js"></script> -->
     <script src="assets/js/jquery.matchHeight.js"></script>
     <script src="assets/js/wow.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
+
+    <script>
+        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+            event.preventDefault();
+            $(this).ekkoLightbox();
+        });
+    </script>
 </body>
 <script>
 new WOW().init();

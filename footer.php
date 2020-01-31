@@ -124,7 +124,7 @@ footer {
                                         <ul>
                                             <li><a href="/layanan/pembuatan-web-karir.php" target="_blank"> Pembuatan Website
                                                     Career</a> </li>
-                                            <li><a href="/layanan/pembuatan-web-klinik-gigi-2.php" target="_blank"> Website Klinik
+                                            <li><a href="/layanan/pembuatan-web-klinik-gigi.php" target="_blank"> Website Klinik
                                                     Gigi </a></li>
                                         </ul>
                                     </li>
@@ -273,18 +273,16 @@ $('.map-container')
     var updatedYear = new Date().getFullYear();
     $('.copyrightYear').html(updatedYear);
 </script>
-
-<!-- MULTI DROPDOWN BOOTSTRAP -->
 <script>
-$(document).ready(function() {
-    $('.dropdown-submenu .dropdown-submenu__item').on("mouseover", function(e) {
-        $('.dropdown-menu.show').removeClass("show");
-        $(this).next('ul').addClass("show");
-        e.stopPropagation();
-        e.preventDefault();
+    function closePopup() {
+        $('.dokodemo-popup').toggle();
+    }
+    $('.dokodemo-popup#dokodemoSeminar, .dokodemo-popup').click(function() {
+        closePopup()
     });
-    $('body').on("click", function(e) {
-        $('.dropdown-menu.show').removeClass("show");
-    });   
-});
+    $(document).keyup(function(e) {
+        if (e.key === "Escape") { // escape key maps to keycode `27`
+            closePopup()
+        }
+    });
 </script>

@@ -170,12 +170,12 @@
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
                     <div>
-                        <div class="title"><b>Our</b><span class="yellow"> Client</span></div>
+                        <div class="title"><b>Our</b><span class="yellow"> Portfolio</span></div>
                         <p class="title__description">LOGIQUE has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our Web creation, mobile app / PWA development, IT system development, and digital marketing consulting portfolio.</p>
                     </div>
 
                     <div class="client-list__wrapper">
-                        <h3 class="portfolio-sec__title">Our Client</h3>
+                        <h3 class="portfolio-sec__title">Our Clients</h3>
                         <div class="client-list">
                             <img class="client-list__img" src="/img/portfolio/client-list/aia.png" alt="aia">
                             <img class="client-list__img" src="/img/portfolio/client-list/assa.png" alt="assa">
@@ -251,11 +251,14 @@
                         </div>
 
                         <div class="col-md-4 col-xs-6">
-                            <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
-                            <p class="text-center">Pertamina</p>
+                            <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/mobirent.png" alt="Mobirent"
+                                    class="img-responsive center-block">
+                                <p class="text-center">Mobirent</p>
+                            </a>
                             <div class="addition-desc text-left">
-                                UI / UX Design (Design | HTML/CSS)
-                                <div class="grey-clr">Training, E-Learning, Pertamina</div>
+                                Web Design (Design | Coding | Deployment)
+                                <div class="grey-clr">Mobile Optimized</div>
                             </div>
                         </div>
 
@@ -1081,14 +1084,11 @@
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/mobirent.png" alt="Mobirent"
-                                        class="img-responsive center-block">
-                                    <p class="text-center">Mobirent</p>
-                                </a>
+                                <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
+                                <p class="text-center">Pertamina</p>
                                 <div class="addition-desc text-left">
-                                    Web Design (Design | Coding | Deployment)
-                                    <div class="grey-clr">Mobile Optimized</div>
+                                    UI / UX Design (Design | HTML/CSS)
+                                    <div class="grey-clr">Training, E-Learning, Pertamina</div>
                                 </div>
                             </div>
 

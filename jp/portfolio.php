@@ -172,15 +172,9 @@
                 </div>
             </section>
 
-            <!-- <section>
-                <div class="container__">
-
-                </div>
-            </section> -->
-
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
-                    <div class="title"><b>クライアント様</b><span class="yellow"> の一例</span></div>
+                    <div class="title"><b>制作・開発</b><span class="yellow"> 実績</span></div>
                     <p class="title__description">
                         LOGIQUEはインドネシアの日系企業、外資企業、大手インドネシア企業との仕事を主に、多くの実績を作ってきました。日本からのオフショア制作開発のお仕事も条件によってはお請けすることが可能ですのでお気軽にご相談ください。以下に、幾つかの公開可能なWEB制作、モバイルアプリ・PWA開発、WEBシステム開発、デジタルマーケティング・コンサルティングの実績を掲載します。
                     </p>
@@ -260,11 +254,14 @@
                         </div>
 
                         <div class="col-md-4 col-xs-6">
-                            <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
-                            <p class="text-center">Pertamina</p>
+                            <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/mobirent.png" alt="Mobirent"
+                                    class="img-responsive center-block">
+                                <p class="text-center">Mobirent</p>
+                            </a>
                             <div class="addition-desc text-left">
-                                UI/UXデザイン (デザイン | HTML/CSSコーディング)
-                                <div class="grey-clr">eラーニング, トレーニング, 資源ビジネス</div>
+                                BtoBサービス, Car Rental Web制作（デザイン制作 | コーディング | ディプロイ）
+                                <div class="grey-clr">スマホ最適, BtoBサービス, レンタカー</div>
                             </div>
                         </div>
 
@@ -1038,14 +1035,11 @@
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/mobirent.png" alt="Mobirent"
-                                        class="img-responsive center-block">
-                                    <p class="text-center">Mobirent</p>
-                                </a>
+                                <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
+                                <p class="text-center">Pertamina</p>
                                 <div class="addition-desc text-left">
-                                    BtoBサービス, Car Rental Web制作（デザイン制作 | コーディング | ディプロイ）
-                                    <div class="grey-clr">スマホ最適, BtoBサービス, レンタカー</div>
+                                    UI/UXデザイン (デザイン | HTML/CSSコーディング)
+                                    <div class="grey-clr">eラーニング, トレーニング, 資源ビジネス</div>
                                 </div>
                             </div>
 

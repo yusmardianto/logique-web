@@ -210,15 +210,15 @@
 
          <div class="container__" style="position:relative">
              <div class="row">
-                 <div class="col-lg-offset-7  col-lg-5 col-sm-offset-6 col-sm-6 bg-header-txt">
-                     <h2 class="text-left m-new">
+                 <div class="col-lg-offset-6 col-lg-6 col-sm-offset-6 col-sm-6 bg-header-txt">
+                     <h1 class="text-left m-new">
                          Do you require professional expertise in System Design & App Development?
-                     </h2>
-                     <h2 class="text-left m-new" style="color: #555;">
+                     </h1>
+                     <h3 class="text-left m-new">
                          Look no further: Logique is at your service!
                          We develop IT systems to an international standard with Japanese quality and
                          Indonesian speed and cost efficiency.
-                     </h2>
+                     </h3>
                  </div>
              </div>
          </div>
@@ -228,11 +228,11 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-offset-1 col-md-10 text-center">
-                     <h2>
+                     <h3>
                          LOGIQUE is a reputable Indonesian IT/Web Development company that aims to assist its clients
                          in directly reaching their targeted business goals through the latest advancements in web based
                          technology. We can build faster, more efficient web systems at a reasonable cost.
-                     </h2>
+                     </h3>
                  </div>
              </div>
          </div>
@@ -310,8 +310,8 @@
                  <div class="container">
                      <div class="row" style="display: flex; flex-wrap: wrap;">
                          <div class="col-md-4">
-                             <h1 class="new7" style="font-weight: 500!important;">Supporting Your Company through System and App
-                                 Development upon Request.</h1>
+                             <h2 class="new7" style="font-weight: 500!important;">Supporting Your Company through System and App
+                                 Development upon Request.</h2>
                              <br>
                              <div class="justify-content-center">
                                  <img src="assets/img/img-systemdev/laptop-img.png" alt="" class="img img-responsive">
@@ -321,7 +321,7 @@
                              <div class="row">
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">Contract Based Development</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">
                                              This method is effective for projects with clearly defined
                                              requirements. <br>
@@ -333,7 +333,7 @@
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">Lab Type Outsourcing Development (Charge Based on Man-Days
                                          Worked)</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">
                                              Effective in cases where the requirements / work scope has
                                              not yet been determined, but should start early on. Also effective in cases where
@@ -344,7 +344,7 @@
                              <div class="row">
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">Monthly Flat-Rate Development</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">
                                              In this case, the monthly fee is fixed. Every month we work
                                              according to the specifically set priorities within a predefined number of man-days.
@@ -359,7 +359,7 @@
                              <div class="row">
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">On-Site Development (Developer Dispatching)</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">
                                              Through LOGIQUE’s affiliate company, we are able to dispatch
                                              developers, designers and testers (Among other specialists) to your location,
@@ -945,7 +945,7 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-5">
-                     <h1 class="new6"><span class="underline2">Client</span><br>Testimonial</h1>
+                     <h2 class="new6"><span class="underline2">Client</span><br>Testimonial</h2>
                  </div>
                  <div class="col-md-7">
                      <div class="row">

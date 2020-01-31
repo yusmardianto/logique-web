@@ -30,6 +30,7 @@
 </head>
 
 <body class="jp-page product-page">
+    <?php include '../popup.php'; ?>
     <div class="wrapper wrapper--update-design">
 
         <!-- NAVIGATION -->
