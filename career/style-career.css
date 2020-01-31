@@ -1983,7 +1983,7 @@ ul.candiate-criteria__reject li::before {
 .message__img-wrapper img {
   min-width: 100%;
   object-fit: cover;
-  height: 100%;
+  width: 100%;
   /* width: 340px; */
   /* height: 260px; */
   object-position: center center;
