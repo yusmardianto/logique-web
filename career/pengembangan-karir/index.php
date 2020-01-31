@@ -204,18 +204,6 @@
             <div class="container-fluid col-sm-offset-1 col-sm-10">
               <div class="row career__desc-wrapper">
                 <div class="col-md-4">
-                  <div class="career__desc --gray">
-                    <picture>
-                      <img src="/img/career/icon/fresh-graduate.png" alt="Fresh Graduate">
-                    </picture>
-                    <p>
-                      Tidak jarang, mahasiswa yang baru saja lulus kuliah dan melamar di <strong>LOGIQUE</strong> dalam
-                      jangka waktu enam bulan berhasil menempati posisi sebagai asisten manajer dan mendapatkan gaji dua
-                      kali lipat lebih banyak dibandingkan karyawan lainnya.
-                    </p>
-                  </div>
-                </div>
-                <div class="col-md-4">
                   <div class="career__desc">
                     <picture>
                       <img src="/img/career/icon/growing.png" alt="chance and opportunities">
@@ -235,6 +223,18 @@
                       Meski begitu, kami juga tidak akan menuntut jika staf yang kami miliki memilih untuk tetap
                       bertahan di posisinya saat ini. Karena menurut kami, staff kami sendirilah yang memutuskan karir
                       seperti apa yang mereka inginkan.
+                    </p>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="career__desc --gray">
+                    <picture>
+                      <img src="/img/career/icon/fresh-graduate.png" alt="Fresh Graduate">
+                    </picture>
+                    <p>
+                      Tidak jarang, mahasiswa yang baru saja lulus kuliah dan melamar di <strong>LOGIQUE</strong> dalam
+                      jangka waktu enam bulan berhasil menempati posisi sebagai asisten manajer dan mendapatkan gaji dua
+                      kali lipat lebih banyak dibandingkan karyawan lainnya.
                     </p>
                   </div>
                 </div>
