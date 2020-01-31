@@ -149,15 +149,14 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="vision-box text-center">
                 <div class="black-box__title mb--60">Kriteria Kandidat</div>
-                <div class="row">
+                <div class="row row__same-height">
                   <div class="col-sm-6">
                     <div class="candidate-criteria">
-                      <h4 class="section-subtitle">Kandidat yang kami terima adalah,</h4>
+                      <h4 class="section-subtitle">Kandidat yang kami inginkan adalah,</h4>
                       <ul class="candiate-criteria__accept">
                         <li>Memiliki kepribadian yang baik dan bertanggung jawab</li>
                         <li>Mempunyai pemikiran yang logis dan rasional</li>
-                        <li>Mempunyai rasa saling menolong</li>
-                        <li>Memiliki prinsip Give and Take untuk perusahaan</li>
+                        <li>Mempunyai keinginan untuk berkontribusi untuk kemajuan perusahaan</li>
                         <li>Memiliki keinginan yang kuat untuk berkembang</li>
                         <li>Tidak takut akan perubahan</li>
                       </ul>
@@ -165,12 +164,11 @@
                   </div>
                   <div class="col-sm-6">
                     <div class="candidate-criteria">
-                      <h4 class="section-subtitle">Kandidat yang kami tolak adalah,</h4>
+                      <h4 class="section-subtitle">Kandidat yang kami hindari adalah,</h4>
                       <ul class="candiate-criteria__reject">
                         <li>Mementingkan diri sendiri</li>
                         <li>Suka mendiskriminasi orang lain</li>
                         <li>Tidak dapat menerima perbedaan ide dan pendapat</li>
-                        <li>Tidak memiliki rasa saling menolong</li>
                         <li>Takut dan tidak mau menerima perubahan</li>
                         <li>Memiliki sifat tidak bertanggung jawab</li>
                       </ul>

@@ -17,7 +17,7 @@
             <div class="link-box bg--career">
               <div class="link-box__text-wrapper">
                 <p class="link-box__text">
-                Cari tau bagaimana karir Anda bisa berkembang di LOGIQUE.
+                  Cari tau bagaimana karir Anda bisa berkembang di LOGIQUE.
                 </p>
               </div>
               <a href="/career/pengembangan-karir/" class="main-btn --link-box">Pengembangan Karir</a>
@@ -41,7 +41,7 @@
             <div class="link-box bg--kerja">
               <div class="link-box__text-wrapper">
                 <p class="link-box__text">
-                Pahami pedoman yang <br>kami jalankan.
+                  Pahami pedoman yang <br>kami jalankan.
                 </p>
               </div>
               <a href="/career/pedoman-hr/" class="main-btn --link-box">Pedoman HR</a>

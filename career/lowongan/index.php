@@ -90,11 +90,11 @@
             <div class="col-sm-offset-1 col-sm-10">
               <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/index.php"><span itemprop="name">Beranda</span></a>
+                    href="/"><span itemprop="name">Beranda</span></a>
                   <meta itemprop="position" content="1" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/index.php"><span itemprop="name">Karir</span></a>
+                    href="/career/"><span itemprop="name">Karir</span></a>
                   <meta itemprop="position" content="2" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
@@ -129,11 +129,11 @@
                   <h2 class="heading-black mb--40">Lowongan yang dibutuhkan segera</h2>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/specialist/devops.php">
+                  <a href="/career/lowongan/programmer/web-developer.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/server.png" alt="DevOps">
-                        <h3 class="heading-black">DevOps</h3>
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Web Developer">
+                        <h3 class="heading-black">Web Developer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -143,7 +143,29 @@
                         </div>
                         <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
+                          Jakarta, Yogya
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                  <a href="/career/lowongan/programmer/frontend-developer.php">
+                    <div class="card-box card-box__urgent">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
+                          alt="Front End Developer">
+                        <h3 class="heading-black">Front End Developer</h3>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta, Yogya
                         </div>
                       </div>
                     </div>
@@ -153,29 +175,9 @@
                   <a href="/career/lowongan/specialist/quality-assurance.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/quality.png" alt="QA Specialist">
-                        <h3 class="heading-black">QA Specialist</h3>
-                        <p></p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta
-                        </div>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/it-generalist/project-manager.php">
-                    <div class="card-box card-box__urgent">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager">
-                        <h3 class="heading-black">Project Manager</h3>
+                        <img class="img-responsive card-icon" src="/img/career/icon/quality.png"
+                          alt="Quality Assurance">
+                        <h3 class="heading-black">Quality Assurance</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -529,8 +531,9 @@
                   <a href="/career/lowongan/specialist/quality-assurance.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/quality.png" alt="QA Specialist">
-                        <h3 class="heading-black">QA Specialist</h3>
+                        <img class="img-responsive card-icon" src="/img/career/icon/quality.png"
+                          alt="Quality Assurance">
+                        <h3 class="heading-black">Quality Assurance</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -808,7 +811,7 @@
                         </p>
                       </div>
                       <div class="col-md-6 col-xl-5" style="padding-top: 8px; padding-bottom: 8px;">
-                        <a href="/career/magang/index.php">
+                        <a href="/career/magang/">
                           <img class="img-responsive" src="/img/career/bg-img/bg-btn-black-intern.png"
                             alt="LIHAT KESEHARIAN MAGANG DI LOGIQUE">
                         </a>

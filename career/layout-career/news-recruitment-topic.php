@@ -29,6 +29,7 @@ ul.news-list li:not(:last-child) {
   border: 1px solid rgb(255, 224, 9);
   line-height: 25px;
   font-size: 16px;
+  text-align: center;
 }
 
 .news-list__body p {
@@ -81,44 +82,45 @@ ul.news-list li a:hover {
   .news-list__body a {
     margin-left: 15px;
     min-width: 110px;
-    max-width: 140px;
+    max-width: 150px;
   }
 }
 </style>
 <?php
-$rss = new DOMDocument();
-$rss->load('https://www.logique.co.id/blog/feed/?tag=logique-digital-indonesia-id');
-$feed = array();
-foreach ($rss->getElementsByTagName('item') as $node) {
-$item = array ( 
-'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
-'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
-'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
-'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
-);
-array_push($feed, $item);
-}
-$limit = 5; 
-function tgl_indo($tanggal){
-  $bulan = array (
-    1 =>   'Januari',
-		'Februari',
-		'Maret',
-		'April',
-		'Mei',
-		'Juni',
-		'Juli',
-		'Agustus',
-		'September',
-		'Oktober',
-		'November',
-		'Desember'
-  );
-  $pecahkan = explode('-', $tanggal);
+//Tidak langsung integrasi dengan blog
+// $rss = new DOMDocument();
+// $rss->load('https://www.logique.co.id/blog/feed/?tag=logique-digital-indonesia-id');
+// $feed = array();
+// foreach ($rss->getElementsByTagName('item') as $node) {
+// $item = array ( 
+// 'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
+// 'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
+// 'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
+// 'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
+// );
+// array_push($feed, $item);
+// }
+// $limit = 5; 
+// function tgl_indo($tanggal){
+//   $bulan = array (
+//     1 =>   'Januari',
+// 		'Februari',
+// 		'Maret',
+// 		'April',
+// 		'Mei',
+// 		'Juni',
+// 		'Juli',
+// 		'Agustus',
+// 		'September',
+// 		'Oktober',
+// 		'November',
+// 		'Desember'
+//   );
+//   $pecahkan = explode('-', $tanggal);
    
 
-  return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
-}
+//   return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+// }
 
 ?>
 
@@ -135,31 +137,67 @@ function tgl_indo($tanggal){
         </div>
         <ul class="news-list">
           <?php
-            
-            for($x=0;$x<$limit;$x++) {
-            $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
-            $link = $feed[$x]['link'];
-            $description = $feed[$x]['desc'];
-            $date = date('F d, Y', strtotime($feed[$x]['date']));
- 
-           
+            //Tidak langsung integrasi dengan blog
+            // for($x=0;$x<$limit;$x++) {
+            // $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
+            // $link = $feed[$x]['link'];
+            // $description = $feed[$x]['desc'];
+            // $date = date('F d, Y', strtotime($feed[$x]['date']));
           ?>
+          <?php // } ?>
           <li class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <div class="news-list__body">
                 <div class="news-list__content">
                   <span class="news-list__news-date">
-                    <?php echo tgl_indo(date('Y-m-d', strtotime($feed[$x]['date']))) ;?>
+                    31 Jan 2020
                   </span>
-                  <p><?php echo $title ?></p>
+                  <p>Launching New Logique Career Page</p>
                 </div>
-                <a href="<?php echo $link ?>" target="_blank" rel="noreferrer">Baca Selengkapnya ></a>
+                <a href="/career/">Masuk ke karir home ></a>
               </div>
             </div>
           </li>
-          <?php  } ?>
+          <li class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="news-list__body">
+                <div class="news-list__content">
+                  <span class="news-list__news-date">
+                    31 Jan 2020
+                  </span>
+                  <p>Lowongan Web Developer, dibutuhkan SEGERA</p>
+                </div>
+                <a href="/career/lowongan/programmer/web-developer.php">Masuk ke detail ></a>
+              </div>
+            </div>
+          </li>
+          <li class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="news-list__body">
+                <div class="news-list__content">
+                  <span class="news-list__news-date">
+                    31 Jan 2020
+                  </span>
+                  <p>Lowongan Front End Developer, dibutuhkan SEGERA</p>
+                </div>
+                <a href="/career/lowongan/programmer/frontend-developer.php">Masuk ke detail ></a>
+              </div>
+            </div>
+          </li>
+          <li class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="news-list__body">
+                <div class="news-list__content">
+                  <span class="news-list__news-date">
+                    31 Jan 2020
+                  </span>
+                  <p>Lowongan Quality Assurance, dibutuhkan SEGERA</p>
+                </div>
+                <a href="/career/lowongan/programmer/frontend-developer.php">Masuk ke detail ></a>
+              </div>
+            </div>
+          </li>
         </ul>
-
       </div>
     </div>
   </div>
