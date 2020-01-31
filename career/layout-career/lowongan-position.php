@@ -66,8 +66,7 @@
         <h2 class="section-title">Lowongan Others IT Specialist</h2>
         <div class="row lowongan-position">
           <div class="col-md-6 col-lg-4">
-            <a href="/career/lowongan/specialist/quality-assurance.php"
-              class="lowongan-position__item bg--sub-qa">
+            <a href="/career/lowongan/specialist/quality-assurance.php" class="lowongan-position__item bg--sub-qa">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Quality Assurance</h3>
             </a>
@@ -130,6 +129,26 @@
               class="lowongan-position__item bg--sub-mobile-app-dev">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Mobile App Developer</h3>
+            </a>
+          </div>
+        </div>
+        <?php endif; ?>
+
+        <?php if ($cat_vacancy === 'backoffice'): ?>
+        <h2 class="section-title">Lowongan Back Office</h2>
+        <div class="row lowongan-position">
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/backoffice/hr-recruitment.php"
+              class="lowongan-position__item bg--sub-back-office">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">HR Recruitment</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/backoffice/accounting-finance.php"
+              class="lowongan-position__item bg--sub-back-office">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">Akunting & Finance</h3>
             </a>
           </div>
         </div>

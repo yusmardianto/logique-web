@@ -114,22 +114,17 @@
             <div class="col-sm-offset-1 col-sm-5">
               <h1 class="header__title">Back Office</h1>
               <p>
-              Kami dengan senang hati menerima para pelamar yang berbakat dan berpotensi untuk berkembang di LOGIQUE. Di bawah ini merupakan beberapa posisi umum yang sedang dibuka oleh kami. Jika lowongan di bawah ini tidak sesuai dengan kriteria Anda. Jangan khawatir, kami akan membuat lowongan terbaru sesuai dengan keinginan dan skill Anda.
+                Kami dengan senang hati menerima para pelamar yang berbakat dan berpotensi untuk berkembang di LOGIQUE.
+                Di bawah ini merupakan beberapa posisi umum yang sedang dibuka oleh kami. Jika lowongan di bawah ini
+                tidak sesuai dengan kriteria Anda. Jangan khawatir, kami akan membuat lowongan terbaru sesuai dengan
+                keinginan dan skill Anda.
               </p>
             </div>
           </div>
         </div>
       </section>
-      
-      <section class="container-fluid ">
-        <div class="container--max-width" style="padding-top: 5em;">
-          <div class="row">
-            <div class="col-sm-offset-1 col-sm-10 no-gap">
-              <h2 class="section-title text-center" style="margin-bottom: 0;">Maaf belum ada lowongan yang tersedia untuk posisi ini</h2>
-            </div>
-          </div>
-        </div>
-      </section>
+
+      <?php include '../../layout-career/lowongan-position.php'; ?>
       <?php include '../../layout-career/news-recruitment-topic.php'; ?>
       <?php include '../../layout-career/lowongan-lain.php'; ?>
       <?php include '../../layout-career/link-section.php'; ?>
