@@ -247,8 +247,8 @@
         </div>
       </section>
       <?php include '../layout-career/semua-lowongan.php'; ?>
-      <?php include '../layout-career/link-section.php'; ?>
-      <br><br>
+      <!-- <//?php include '../layout-career/link-section.php'; ?>
+      <br><br> -->
       <?php include '../layout-career/contact-lgq.php'; ?>
     </div>
 

@@ -85,7 +85,7 @@
 
     <div class="career-update content-wrapper__ --bg-grey">
 
-      <section class="container-fluid --top bg--informasi">
+      <section class="container-fluid --top bg--faq">
         <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -109,7 +109,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
-              <h1 class="header__title">Recruitment FAQ</h1>
+              <h1 class="header__title">FAQ</h1>
             </div>
           </div>
         </div>

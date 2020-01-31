@@ -1091,6 +1091,9 @@ ul.medsos-new li a {
 .bg--faq-btn {
   background: url("/img/career/bg-img/bg-faq-btn.png") center/cover no-repeat;
 }
+.bg--faq {
+  background: url("/img/career/bg-img/bg-faq.png") center/cover no-repeat;
+}
 
 /* END BG */
 
@@ -2426,6 +2429,9 @@ ul.candiate-criteria__reject li::before {
   text-align: center;
   border: dashed 2px;
   height: 100%;
+  bottom: 0;
+  right: 0;
+  transition: .3s;
 }
 
 .career__desc::before {
@@ -2442,8 +2448,10 @@ ul.candiate-criteria__reject li::before {
   background: #f1f1f1;
 }
 
-.career__desc:hover > ::before {
-  background: #000;
+.career__desc:hover {
+  bottom: 9px;
+  right: 3px;
+  box-shadow: 3px 8px 12px rgba(0, 0, 0, 0.2);
 }
 
 .career__desc--circle {
