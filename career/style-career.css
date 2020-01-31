@@ -138,6 +138,10 @@ div:focus {
   margin-bottom: 15px;
 }
 
+.mb--2-5em {
+  margin-bottom: 2.5em;
+}
+
 .my-20 {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -381,14 +385,11 @@ button:focus {
 }
 
 .logo--update-design {
-  max-width: 150px;
+  width: 200px;
   margin-top: 10px;
-  /* margin-left: -10px; */
-  width: 100%;
 }
 @media (max-width: 415px) {
   .logo--update-design {
-    /* margin-left: 0; */
     margin-top: 15px;
   }
 }
@@ -1545,17 +1546,22 @@ ul.medsos-new li a {
 /* End Work Location */
 
 /* Vision Box */
-.vision-box__title {
+.black-box__title {
   background-color: #000;
   color: #fff;
   display: inline-block;
-  position: relative;
-  bottom: -17px;
   font-size: 30px;
   border-radius: 5px;
   font-weight: 900;
   width: 335px;
   box-shadow: 0px 8px 12px -2px rgba(0, 0, 0, 0.1);
+}
+
+@media only screen and (min-width: 1px) and (max-width: 379.98px) {
+  .black-box__title {
+    width: 235px;
+    font-size: 22px;
+  }
 }
 
 .bg-hanged-banner {
@@ -1577,8 +1583,10 @@ ul.medsos-new li a {
 
 .btn-3d-stick-out {
   display: inline-block;
-  background: url("/img/career/bg-img/btn-3d-stick-out.png") center/100%
-    no-repeat;
+  background: url("/img/career/bg-img/btn-3d-stick-out.png");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
   width: 280px;
   min-height: 52px;
   font-size: 24px;
@@ -1592,9 +1600,10 @@ ul.medsos-new li a {
 @media (min-width: 768px) {
   .btn-3d-stick-out {
     width: 350px;
+    min-height: 60px;
     font-size: 28px;
-    padding-top: 4px;
-    padding-bottom: 4px;
+    padding-top: 0;
+    padding-bottom: 0;
   }
 }
 
@@ -1606,6 +1615,47 @@ ul.medsos-new li a {
   line-height: 24px;
   letter-spacing: 0.2px;
   font-size: 16px;
+}
+
+.candidate-criteria {
+  text-align: left;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  box-shadow: 0px 8px 12px -2px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 25px 40px 25px 75px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+}
+
+.candidate-criteria ul li {
+  position: relative;
+}
+
+.candidate-criteria ul li::before {
+  content: "";
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 4px;
+  left: -40px;
+}
+
+ul.candiate-criteria__accept li::before {
+  background-image: url("/img/career/icon/checked.png");
+}
+
+ul.candiate-criteria__reject li::before {
+  background-image: url("/img/career/icon/cancel.png");
+}
+
+.candidate-criteria ul li:not(:last-child) {
+  margin-bottom: 1em;
 }
 
 /* .vision-box {
@@ -1627,25 +1677,14 @@ ul.medsos-new li a {
   margin-left: -32px;
   margin-right: 20px;
 }
-.vision-box__content {
-  font-family: "Open Sans", sans-serif;
-  box-shadow: 0px 8px 12px -2px rgba(0, 0, 0, 0.1);
-  border-radius: 5px;
-  padding: 2em;
-  text-align: left;
-}
+
 .vision-box__content.--text-center {
   text-align: center;
 }
 .vision-box__content ul {
   padding-left: 25px;
 }
-@media only screen and (min-width: 1px) and (max-width: 379.98px) {
-  .vision-box__title {
-    width: 235px;
-    font-size: 22px;
-  }
-} */
+*/
 /* End Vision Box */
 
 /* Benefit */

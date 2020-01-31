@@ -72,14 +72,15 @@
       <div class="">
         <div class="col-sm-offset-1 col-sm-10">
           <div class="row">
-            <div class="col-sm-8 col-md-2">
-              <a href="/index.php"><img src="/img/career/logo-karir.png"
-                  alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                  class="img-responsive logo--update-design" /></a>
+            <div class="col-sm-8 col-md-3">
+              <a href="/index.php">
+                <img src="/img/career/logo-karir.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
+                  class="img-responsive logo--update-design" />
+              </a>
             </div>
             <div class="col-md-5 col-lg-6 hidden-xs hidden-sm">
               <div class="row navbar--career">
-                <div class="col-md-offset-1 col-md-5 text-center no-gap">
+                <div class="col-md-5 text-center no-gap">
                   <div class="dropdown">
                     <a href="" class="dropdown-toggle navbar-link" data-toggle="dropdown" role="button"
                       aria-haspopup="true" aria-expanded="true">
@@ -128,7 +129,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-4 col-md-3">
               <a href="/career/lowongan/" class="link-header-lamar-lowongan">
                 Melamar Lowongan Sekarang
               </a>
