@@ -273,3 +273,18 @@ $('.map-container')
     var updatedYear = new Date().getFullYear();
     $('.copyrightYear').html(updatedYear);
 </script>
+
+<!-- MULTI DROPDOWN BOOTSTRAP -->
+<script>
+$(document).ready(function() {
+    $('.dropdown-submenu .dropdown-submenu__item').on("mouseover", function(e) {
+        $('.dropdown-menu.show').removeClass("show");
+        $(this).next('ul').addClass("show");
+        e.stopPropagation();
+        e.preventDefault();
+    });
+    $('body').on("click", function(e) {
+        $('.dropdown-menu.show').removeClass("show");
+    });   
+});
+</script>

@@ -108,20 +108,47 @@
                       <span class="caret"></span>
                     </a>
                     <ul class="dropdown-menu">
-                      <li>
-                        <a href="/career/lowongan/programmer/">Programmer</a>
+                      <li class="dropdown-submenu">
+                        <a class="dropdown-submenu__item" tabindex="-1" href="/career/lowongan/programmer/">Programmer <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li><a tabindex="-1" href="/career/lowongan/programmer/frontend-developer.php">Frontend Developer</a></li>
+                          <li><a tabindex="-1" href="/career/lowongan/programmer/mobile-app-developer.php">Mobile App Developer</a></li>
+                          <li><a tabindex="-1" href="/career/lowongan/programmer/product-developer.php">Product Developer</a></li>
+                          <li><a tabindex="-1" href="/career/lowongan/programmer/react-native-developer.php">React Native Developer</a></li>
+                          <li><a tabindex="-1" href="/career/lowongan/programmer/reactjs-developer.php">React JS Developer</a></li>
+                          <li><a tabindex="-1" href="/career/lowongan/programmer/web-developer.php">Web Developer</a></li>
+                        </ul>
                       </li>
-                      <li>
-                        <a href="/career/lowongan/it-generalist/">IT Generalist</a>
+                      <li class="dropdown-submenu">
+                        <a class="dropdown-submenu__item" tabindex="-1" href="/career/lowongan/it-generalist/">IT Generalist <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li><a tabindex="-1" href="/career/lowongan/it-generalist/business-analyst.php">Business Analyst</a></li>
+                          <li><a tabindex="-1" href="/career/lowongan/it-generalist/consultant.php">Consultant</a></li>
+                          <li><a tabindex="-1" href="/career/lowongan/it-generalist/product-manager.php">product-manager</a></li>
+                          <li><a tabindex="-1" href="/career/lowongan/it-generalist/project-manager.php">product-manager</a></li>
+                        </ul>
                       </li>
-                      <li>
-                        <a href="/career/lowongan/specialist/">Others IT Specialist</a>
+                      <li class="dropdown-submenu">
+                        <a class="dropdown-submenu__item" tabindex="-1" href="/career/lowongan/specialist/">Others IT Specialist <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li><a tabindex="-1" href="/career/lowongan/specialist/devops.php">Devops</a></li>
+                          <li><a tabindex="-1" href="/career/lowongan/specialist/it-security-specialist.php">IT Security Specialist</a></li>
+                          <li><a tabindex="-1" href="/career/lowongan/specialist/quality-assurance.php">Quality Assurance</a></li>
+                        </ul>
                       </li>
-                      <li>
-                        <a href="/career/lowongan/digitalmarketing/">Designer / Digital Marketing</a>
+                      <li class="dropdown-submenu">
+                        <a class="dropdown-submenu__item" tabindex="-1" href="/career/lowongan/digitalmarketing/">Designer / Digital Marketing <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li><a tabindex="-1" href="/career/lowongan/digitalmarketing/digital-marketing-specialist.php">Digital Marketing Specialist</a></li>
+                          <li><a tabindex="-1" href="/career/lowongan/digitalmarketing/ui-ux-designer.php">UI/UX Designer</a></li>
+                        </ul>
                       </li>
-                      <li>
-                        <a href="/career/lowongan/backoffice/">Back Office</a>
+                      <li class="dropdown-submenu">
+                        <a class="dropdown-submenu__item" tabindex="-1" href="/career/lowongan/backoffice/">Back Office <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li><a tabindex="-1" href="/career/lowongan/backoffice/accounting-finance.php">Accounting & Finance</a></li>
+                          <li><a tabindex="-1" href="/career/lowongan/backoffice/hr-recruitment.php">HR Recruitment</a></li>
+                        </ul>
                       </li>
                     </ul>
                     <div class="clear"></div>
