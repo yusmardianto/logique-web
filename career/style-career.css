@@ -819,7 +819,10 @@ ul.medsos-new li a {
   background: url("../img//career/bg-img/bg-working.png") center/cover no-repeat;
 }
 .bg--yoshi {
-  background: url("../img/career/bg-img/bg-yoshi2.png") 20% top/cover no-repeat;
+  background-image: url("../img/career/bg-img/bg-yoshi2.png");
+  background-position: 35% top;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .bg--salary {
   background: url("../img/career/bg-img/bg-salary.png") center/cover no-repeat;
@@ -2557,7 +2560,7 @@ ul.candiate-criteria__reject li::before {
   height: 100%;
   bottom: 0;
   right: 0;
-  transition: .3s;
+  transition: 0.3s;
 }
 
 .career__desc::before {
@@ -2615,7 +2618,7 @@ ul.candiate-criteria__reject li::before {
     /* display: flex; */
     margin-bottom: 30px;
   }
-/*
+  /*
   .career__desc picture {
     margin-right: 20px;
   } */
