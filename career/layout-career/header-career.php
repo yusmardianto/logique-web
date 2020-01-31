@@ -124,8 +124,8 @@
                         <ul class="dropdown-menu">
                           <li><a tabindex="-1" href="/career/lowongan/it-generalist/business-analyst.php">Business Analyst</a></li>
                           <li><a tabindex="-1" href="/career/lowongan/it-generalist/consultant.php">Consultant</a></li>
-                          <li><a tabindex="-1" href="/career/lowongan/it-generalist/product-manager.php">product-manager</a></li>
-                          <li><a tabindex="-1" href="/career/lowongan/it-generalist/project-manager.php">product-manager</a></li>
+                          <li><a tabindex="-1" href="/career/lowongan/it-generalist/product-manager.php">Product Manager</a></li>
+                          <li><a tabindex="-1" href="/career/lowongan/it-generalist/project-manager.php">Project Manager</a></li>
                         </ul>
                       </li>
                       <li class="dropdown-submenu">
