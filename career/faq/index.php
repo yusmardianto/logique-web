@@ -118,84 +118,84 @@
       <section class="container-fluid ">
         <div class="container--max-width">
           <div class="row">
-            <div class="col-sm-offset-1 col-sm-10">
+            <div class="col-sm-offset-1 col-sm-12">
               <h2 class="section-title">FAQ about Recruitment</h2>
-              <div class="box-faq">
-                <h3>Bagaimana caranya melamar di LOGIQUE?</h3>
-                <p>Untuk melamar di LOGIQUE, Anda hanya perlu melamar posisi yang Anda inginkan lewat portal rekrutmen
+            </div>
+            <div class="col-sm-offset-1 col-lg-5 col-sm-10">
+              <div class="faq__item">
+                <h3 class="faq__title">Bagaimana caranya melamar di LOGIQUE?</h3>
+                <p class="faq__content">Untuk melamar di LOGIQUE, Anda hanya perlu melamar posisi yang Anda inginkan lewat portal rekrutmen
                   resmi kami di Sugoi Saiyo. Di sana, Anda tinggal mengikuti instruksi yang diberikan.</p>
               </div>
-              <div class="box-faq">
-                <h3>Apakah saya bisa melamar lebih dari satu posisi?</h3>
-                <p>Tentu saja. Jika Anda memiliki beragam keahlian dan pengalaman, Anda bisa melamar lebih dari satu
+              <div class="faq__item">
+                <h3 class="faq__title">Apakah saya bisa melamar lebih dari satu posisi?</h3>
+                <p class="faq__content">Tentu saja. Jika Anda memiliki beragam keahlian dan pengalaman, Anda bisa melamar lebih dari satu
                   posisi yang tersedia.</p>
               </div>
-              <div class="box-faq">
-                <h3>Saya tidak tinggal di Jakarta atau pun Yogyakarta. Masih bisakah saya bekerja untuk LOGIQUE?</h3>
-                <p>Tentu saja, LOGIQUE membuka kesempatan bagi siapapun dari berbagai kota untuk bergabung. Jika Anda
+              <div class="faq__item">
+                <h3 class="faq__title">Saya tidak tinggal di Jakarta atau pun Yogyakarta.</h3>
+                <h3 class="faq__title">Masih bisakah saya bekerja untuk LOGIQUE?</h3>
+                <p class="faq__content">Tentu saja, LOGIQUE membuka kesempatan bagi siapapun dari berbagai kota untuk bergabung. Jika Anda
                   tinggal di luar sekitar Jakarta dan Yogyakarta, Anda akan bekerja secara remote dan wajib menjaga
                   komunikasi sesama tim.</p>
               </div>
-              <div class="box-faq">
-                <h3>Saat ini saya sedang ikut kuliah kelas malam. Apakah itu jadi masalah untuk LOGIQUE?</h3>
-                <p>Tidak sama sekali. LOGIQUE tidak pernah membatasi karyawannya untuk menuntut ilmu. LOGIQUE
-                  menerapkan
-                  waktu kerja yang cukup fleksibel dengan minimal bekerja total 6 jam/hari asalkan mampu memenuhi
-                  total
-                  40 jam kerja/minggu. Setelah Anda bekerja selama 6 jam, Anda bebas untuk melakukan kegiatan yang
-                  Anda
-                  inginkan.</p>
+              <div class="faq__item">
+              <div>
+                <span class="faq__title">Saat ini saya sedang ikut kuliah kelas malam. </span>
+                <span class="faq__title">Apakah itu jadi masalah untuk LOGIQUE?</span>
               </div>
-              <div class="box-faq">
-                <h3>Kalau saya ingin magang di LOGIQUE, apakah ada minimal jangka waktu yang ditetapkan?</h3>
-                <p>Untuk fresh graduate, LOGIQUE menyediakan minimal 6 bulan internship. Jika performa Anda selama
-                  magang dinilai baik, kami tidak ragu untuk langsung menjadikan Anda pegawai tetap. Namun, bagi
-                  Anda
-                  yang masih dalam masa kuliah, kami membolehkan Anda untuk menjalani magang sesuai dengan kebijakan
-                  kampus Anda.</p>
+                <p class="faq__content">Tidak sama sekali. LOGIQUE tidak pernah membatasi karyawannya untuk menuntut ilmu. LOGIQUE menerapkan waktu kerja yang cukup fleksibel dengan minimal bekerja total 6 jam/hari asalkan mampu memenuhi total 40 jam kerja/minggu. Setelah Anda bekerja selama 6 jam, Anda bebas untuk melakukan kegiatan yang Anda inginkan.</p>
               </div>
-              <div class="box-faq">
-                <h3>Saya hanya bisa berbahasa Indonesia, apakah itu menjadi sebuah masalah?</h3>
-                <p>Tidak masalah. Akan tetapi, beberapa posisi diharapkan bisa berbahasa Inggris.</p>
+              <div class="faq__item">
+                <h3 class="faq__title">Kalau saya ingin magang di LOGIQUE, apakah ada </h3>
+                <h3 class="faq__title">minimal jangka waktu yang ditetapkan?</h3>
+                <p class="faq__content">Untuk fresh graduate, LOGIQUE menyediakan minimal 6 bulan internship. Jika performa Anda selama magang dinilai baik, kami tidak ragu untuk langsung menjadikan Anda pegawai tetap. Namun, bagi Anda yang masih dalam masa kuliah, kami membolehkan Anda untuk menjalani magang sesuai dengan kebijakan kampus Anda.</p>
               </div>
-              <div class="box-faq">
-                <h3>Saya dengar LOGIQUE memiliki fasilitas “Base Camp”. Bisa dijelaskan apa kegunaan “Base Camp”?</h3>
-                <p>“Base Camp” adalah fasilitas LOGIQUE berupa rumah singgah yang diperuntukkan bagi karyawan LOGIQUE
+              <div class="faq__item">
+                <h3 class="faq__title">Saya hanya bisa berbahasa Indonesia, apakah itu</h3>
+                <h3 class="faq__title">sebuah masalah?</h3>
+                <p class="faq__content">Tidak masalah. Akan tetapi, beberapa posisi diharapkan bisa berbahasa Inggris.</p>
+              </div>
+              <div class="faq__item">
+                <h3 class="faq__title">Saya dengar LOGIQUE memiliki fasilitas “Base Camp”.</h3>
+                <h3 class="faq__title">Bisa dijelaskan apa kegunaan “Base Camp”?</h3>
+                <p class="faq__content">“Base Camp” adalah fasilitas LOGIQUE berupa rumah singgah yang diperuntukkan bagi karyawan LOGIQUE
                   yang berasal dari luar Jabodetabek. Selama karyawan tersebut bekerja di LOGIQUE, mereka bisa
                   menggunakan fasilitas tersebut kapan saja.</p>
               </div>
-              <div class="box-faq">
-                <h3>Apakah LOGIQUE memiliki program referensi karyawan?</h3>
-                <p>Tentu. LOGIQUE akan memberikan bonus untuk karyawan yang bisa mengajak seseorang untuk bergabung.
-                </p>
+            </div>
+            <div class="col-lg-offset-0 col-sm-offset-1 col-lg-5 col-sm-10">
+              <div class="faq__item">
+                <h3 class="faq__title">Apakah LOGIQUE memiliki program referensi</h3>
+                <h3 class="faq__title">karyawan?</h3>
+                <p class="faq__content">Tentu. LOGIQUE akan memberikan bonus untuk karyawan yang bisa mengajak seseorang untuk bergabung.</p>
               </div>
-              <div class="box-faq">
-                <h3>Apa yang harus saya pakai ketika saya menghadiri interview?</h3>
-                <p>Tidak perlu mencoba menarik perhatian kami dari apa yang kamu pakai. Saat interview, Anda cukup
+              <div class="faq__item">
+                <h3 class="faq__title">Apa yang harus saya pakai ketika saya menghadiri</h3>
+                <h3 class="faq__title">interview?</h3>
+                <p class="faq__content">Tidak perlu mencoba menarik perhatian kami dari apa yang kamu pakai. Saat interview, Anda cukup
                   memakai pakaian yang nyaman bagi Anda, asalkan tetap sopan.</p>
               </div>
-              <div class="box-faq">
-                <h3>Saya tidak bisa datang ke kantor untuk interview. Apakah saya bisa menjalani interview lewat
-                  Skype?
-                </h3>
-                <p>Ya, tentu saja. Karena kami bisa menerima karyawan darimana saja maka untuk interview pun kami bisa
-                  menggunakan metode apapun terlebih bagi karyawan yang tidak tinggal di wilayah Jabodetabek atau
-                  yang
-                  mungkin tidak bisa datang ke kantor karena satu dan lain hal.</p>
+              <div class="faq__item">
+                <h3 class="faq__title">Saya tidak bisa datang ke kantor untuk interview.</h3>
+                <h3 class="faq__title">Apakah saya bisa menjalani interview lewat Skype?</h3>
+                <p class="faq__content">Ya, tentu saja. Karena kami bisa menerima karyawan darimana saja maka untuk interview pun kami bisa
+                  menggunakan metode apapun terlebih bagi karyawan yang tidak tinggal di wilayah Jabodetabek atau yang mungkin tidak bisa datang ke kantor karena satu dan lain hal.</p>
               </div>
-              <div class="box-faq">
-                <h3>Biasanya, berapa lama waktu yang dibutuhkan saat interview?</h3>
-                <p>Anda akan bertemu dengan HR dan manager masing-masing posisi, yang biasanya memakan waktu total 1
+              <div class="faq__item">
+                <div class="faq__title-wrapper">
+                  <h3 class="faq__title">Biasanya, berapa lama waktu yang dibutuhkan saat</h3>
+                  <h3 class="faq__title">interview?</h3>
+                </div>
+                <p class="faq__content">Anda akan bertemu dengan HR dan manager masing-masing posisi, yang biasanya memakan waktu total 1
                   jam. Untuk beberapa posisi penting, Anda juga mungkin akan berdiskusi ringan dengan CEO kami jika
                   diperlukan.</p>
               </div>
-              <div class="box-faq">
-                <h3>Apakah saya bisa mengutarakan pendapat saya tentang LOGIQUE?</h3>
-                <p>Kami sangat terbuka pada segala bentuk pendapat, dari mana pun asalnya. Pada saat interview, bahkan
-                  kami lebih tertarik pada lebih dari sekadar jawaban yang Anda berikan dari pertanyaan kami. Kami
-                  juga
-                  ingin tahu bagaimana pikiran Anda bekerja, bagaimana Anda memberikan solusi, dan apakah Anda dapat
-                  mengutarakan proses berpikir Anda dengan jelas.</p>
+              <div class="faq__item">
+                <h3 class="faq__title">Apakah saya bisa mengutarakan pendapat saya</h3>
+                <h3 class="faq__title">tentang LOGIQUE?</h3>
+                <p class="faq__content">Kami sangat terbuka pada segala bentuk pendapat, dari mana pun asalnya. Pada saat interview, bahkan
+                  kami lebih tertarik pada lebih dari sekadar jawaban yang Anda berikan dari pertanyaan kami. Kami juga ingin tahu bagaimana pikiran Anda bekerja, bagaimana Anda memberikan solusi, dan apakah Anda dapat mengutarakan proses berpikir Anda dengan jelas.</p>
               </div>
             </div>
           </div>
@@ -212,10 +212,10 @@
                     LOGIQUE, silakan hubungi:</h4>
                 </div>
                 <div class="col-md-offset-3 col-md-6 text-center">
-                  <a class="form-control main-btn --small-btn-bold --yellow"
+                  <a class="form-control main-btn --small-btn-bold --yellow bg--faq-btn"
                     href="https://api.whatsapp.com/send?phone=6282260567856" target="_blank" rel="noreferrer"
                     id="wa-hrd"> <i class="fa fa-whatsapp"></i> WA HRD</a>
-                  <a class="form-control main-btn --small-btn-bold --yellow" href="mailto:recruit@logique.co.id"
+                  <a class="form-control main-btn --small-btn-bold --yellow bg--faq-btn" href="mailto:recruit@logique.co.id"
                     target="_top" id="email-hrd"> <i class="fa fa-envelope-o"></i> EMAIL HRD</a>
                 </div>
               </div>

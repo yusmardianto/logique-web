@@ -1088,6 +1088,9 @@ ul.medsos-new li a {
   background: url("/img/career/bg-img/bg-sub-mobile-app-dev.png") center/cover
     no-repeat;
 }
+.bg--faq-btn {
+  background: url("/img/career/bg-img/bg-faq-btn.png") center/cover no-repeat;
+}
 
 /* END BG */
 
@@ -1788,6 +1791,43 @@ ul.candiate-criteria__reject li::before {
 /* End Benefit */
 
 /* FAQ */
+.faq__item {
+  margin-bottom: 25px;
+}
+
+.faq__title {
+  font-weight: 900;
+  font-size: 20px;
+  position: relative;
+  /* width: max-content; */
+  display: inline-block;
+  z-index: 2;
+  line-height: 25px;
+}
+
+.faq__title::before {
+  content: "";
+  position: absolute;
+  left: -10px;
+  bottom: -2px;
+  height: 12px;
+  width: calc(100% + 20px);
+  background-color: #ffca13;
+  opacity: .45;
+  z-index: -1;
+}
+
+.faq__title-wrapper .faq__title:last-of-type::before {
+  /* background-color: red; */
+  left: 5px;
+  width: calc(100% + 10px);
+}
+
+.faq__content {
+  font-size: 16px;
+  margin-top: 10px;
+  line-height: 22px;
+}
 .box-faq {
   background: #fff;
   padding: 1em 2em;
@@ -2379,20 +2419,61 @@ ul.candiate-criteria__reject li::before {
 }
 
 .career__desc {
-  padding: 15px 0;
+  position: relative;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: dashed 2px;
+  height: 100%;
+}
+
+.career__desc::before {
+  position: absolute;
+  content: "";
+  background: linear-gradient(-225deg, rgb(255, 231, 43) 0%, rgb(255, 202, 19) 100%);;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  top: -7px;
+  left: -6px;
+}
+.career__desc.--gray::before {
+  background: #f1f1f1;
+}
+
+.career__desc:hover > ::before {
+  background: #000;
+}
+
+.career__desc--circle {
+  position: absolute;
+  content: "";
+  background-color: #fff;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 30px;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  z-index: -1;
+}
+
+.career__desc.--gray .career__desc--circle {
+  background-color: #ffca13;
 }
 
 .career__desc picture {
   display: inline-block;
-  margin-bottom: 20px;
+  margin-bottom: 33px;
 }
 
 @media (min-width: 768px) {
-  .career__desc {
+  /* .career__desc {
     display: flex;
   }
 
   .career__desc picture {
     margin-right: 20px;
-  }
+  } */
 }
