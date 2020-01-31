@@ -405,19 +405,6 @@
       ]
     });
     </script>
-    <script>
-    function closePopup() {
-      $('.dokodemo-popup').toggle();
-    }
-    $('.dokodemo-popup#dokodemoSeminar, .dokodemo-popup').click(function() {
-      closePopup()
-    });
-    $(document).keyup(function(e) {
-      if (e.key === "Escape") { // escape key maps to keycode `27`
-        closePopup()
-      }
-    });
-    </script>
 </body>
 
 </html>
