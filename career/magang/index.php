@@ -5,20 +5,20 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description"
-    content="Kenali lebih dekat para staff profesional kami yang dapat membantu Anda mengembangkan kemampuan yang Anda miliki. Berikut ini pesan dari para staff terbaik kami bagi Anda. Segera daftarkan diri Anda di LOGIQUE sekarang juga!">
+  <meta name="description"
+    content="Anda mahasiswa dan sedang mencari perusahaan untuk program magang dari kampus atau ingin merasakan bekerja di perusahaan start up? LOGIQUE memberikan kesempatan kepada Anda untuk magang atau Internship di perusahaan kami. Segera kunjungi halaman karir LOGIQUE dan daftarkan diri Anda sekarang!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Pesan Untuk Kandidat | lowongan web programmer | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Lowongan Kerja Magang / Internship | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
   <meta property="og:description"
-    content="Kenali lebih dekat para staff profesional kami yang dapat membantu Anda mengembangkan kemampuan yang Anda miliki. Berikut ini pesan dari para staff terbaik kami bagi Anda. Segera daftarkan diri Anda di LOGIQUE sekarang juga!">
+    content="Anda mahasiswa dan sedang mencari perusahaan untuk program magang dari kampus atau ingin merasakan bekerja di perusahaan start up? LOGIQUE memberikan kesempatan kepada Anda untuk magang atau Internship di perusahaan kami. Segera kunjungi halaman karir LOGIQUE dan daftarkan diri Anda sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Pesan Untuk Kandidat | lowongan web programmer | LOGIQUE Digital Indonesia</title>
+  <title>Lowongan Kerja Magang / Internship | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
