@@ -202,23 +202,9 @@
         <div class="container--max-width">
           <div class="row">
             <div class="container-fluid col-sm-offset-1 col-sm-10">
-              <div class="row" style="display: flex; align-items: stretch;">
-                <div class="col-md-4">
-                  <div class="career__desc --gray">
-                    <div class="career__desc--circle"></div>
-                    <picture>
-                      <img src="/img/career/icon/fresh-graduate.png" alt="Fresh Graduate">
-                    </picture>
-                    <p>
-                      Tidak jarang, mahasiswa yang baru saja lulus kuliah dan melamar di <strong>LOGIQUE</strong> dalam
-                      jangka waktu enam bulan berhasil menempati posisi sebagai asisten manajer dan mendapatkan gaji dua
-                      kali lipat lebih banyak dibandingkan karyawan lainnya.
-                    </p>
-                  </div>
-                </div>
+              <div class="row career__desc-wrapper">
                 <div class="col-md-4">
                   <div class="career__desc">
-                  <div class="career__desc--circle"></div>
                     <picture>
                       <img src="/img/career/icon/growing.png" alt="chance and opportunities">
                     </picture>
@@ -230,7 +216,6 @@
                 </div>
                 <div class="col-md-4">
                   <div class="career__desc">
-                  <div class="career__desc--circle"></div>
                     <picture>
                       <img src="/img/career/icon/path.png" alt="Career Path">
                     </picture>
@@ -241,14 +226,26 @@
                     </p>
                   </div>
                 </div>
+                <div class="col-md-4">
+                  <div class="career__desc --gray">
+                    <picture>
+                      <img src="/img/career/icon/fresh-graduate.png" alt="Fresh Graduate">
+                    </picture>
+                    <p>
+                      Tidak jarang, mahasiswa yang baru saja lulus kuliah dan melamar di <strong>LOGIQUE</strong> dalam
+                      jangka waktu enam bulan berhasil menempati posisi sebagai asisten manajer dan mendapatkan gaji dua
+                      kali lipat lebih banyak dibandingkan karyawan lainnya.
+                    </p>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </section>
       <?php include '../layout-career/semua-lowongan.php'; ?>
-      <?php include '../layout-career/link-section.php'; ?>
-      <br><br>
+      <!-- <//?php include '../layout-career/link-section.php'; ?>
+      <br><br> -->
       <?php include '../layout-career/contact-lgq.php'; ?>
     </div>
 

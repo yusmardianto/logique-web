@@ -1104,6 +1104,9 @@ ul.medsos-new li a {
 .bg--faq-btn {
   background: url("/img/career/bg-img/bg-faq-btn.png") center/cover no-repeat;
 }
+.bg--faq {
+  background: url("/img/career/bg-img/bg-faq.png") center/cover no-repeat;
+}
 
 /* END BG */
 
@@ -1202,6 +1205,12 @@ ul.medsos-new li a {
 @media (max-width: 767px) {
   .header__title {
     font-size: 45px;
+  }
+}
+
+@media (max-width: 415px) {
+  .header__title {
+    font-size: 36px;
   }
 }
 
@@ -1904,6 +1913,9 @@ ul.candiate-criteria__reject li::before {
   z-index: 2;
   line-height: 25px;
 }
+.faq__title.--mobile {
+  display: none;
+}
 
 .faq__title::before {
   content: "";
@@ -1917,10 +1929,21 @@ ul.candiate-criteria__reject li::before {
   z-index: -1;
 }
 
-.faq__title-wrapper .faq__title:last-of-type::before {
-  /* background-color: red; */
-  left: 5px;
-  width: calc(100% + 10px);
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+  .faq__title.--inline-last::before {
+    left: 5px;
+    width: calc(100% + 10px);
+  }
+}
+
+@media (max-width: 765px) {
+  .faq__title.--mobile {
+    display: inline-block;
+  }
+  .faq__title.--mobile::before {
+    left: -5px;
+    width: calc(100% + 10px);
+  }
 }
 
 .faq__content {
@@ -2060,7 +2083,7 @@ ul.candiate-criteria__reject li::before {
 .message__img-wrapper img {
   min-width: 100%;
   object-fit: cover;
-  height: 100%;
+  width: 100%;
   /* width: 340px; */
   /* height: 260px; */
   object-position: center center;
@@ -2518,14 +2541,23 @@ ul.candiate-criteria__reject li::before {
   }
 }
 
+.career__desc-wrapper {
+  display: flex;
+  align-items: stretch;
+}
+
 .career__desc {
   position: relative;
   padding: 20px;
+  /* margin-bottom: 30px; */
   display: flex;
   flex-direction: column;
   text-align: center;
   border: dashed 2px;
   height: 100%;
+  bottom: 0;
+  right: 0;
+  transition: .3s;
 }
 
 .career__desc::before {
@@ -2546,8 +2578,10 @@ ul.candiate-criteria__reject li::before {
   background: #f1f1f1;
 }
 
-.career__desc:hover > ::before {
-  background: #000;
+.career__desc:hover {
+  bottom: 9px;
+  right: 3px;
+  box-shadow: 3px 8px 12px rgba(0, 0, 0, 0.2);
 }
 
 .career__desc--circle {
@@ -2572,11 +2606,16 @@ ul.candiate-criteria__reject li::before {
   margin-bottom: 33px;
 }
 
-@media (min-width: 768px) {
-  /* .career__desc {
-    display: flex;
+@media (max-width: 768px) {
+  .career__desc-wrapper {
+    display: block;
+    /* align-items: stretch; */
   }
-
+  .career__desc {
+    /* display: flex; */
+    margin-bottom: 30px;
+  }
+/*
   .career__desc picture {
     margin-right: 20px;
   } */
