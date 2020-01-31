@@ -202,10 +202,9 @@
         <div class="container--max-width">
           <div class="row">
             <div class="container-fluid col-sm-offset-1 col-sm-10">
-              <div class="row" style="display: flex; align-items: stretch;">
+              <div class="row career__desc-wrapper">
                 <div class="col-md-4">
                   <div class="career__desc --gray">
-                    <div class="career__desc--circle"></div>
                     <picture>
                       <img src="/img/career/icon/fresh-graduate.png" alt="Fresh Graduate">
                     </picture>
@@ -218,7 +217,6 @@
                 </div>
                 <div class="col-md-4">
                   <div class="career__desc">
-                  <div class="career__desc--circle"></div>
                     <picture>
                       <img src="/img/career/icon/growing.png" alt="chance and opportunities">
                     </picture>
@@ -230,7 +228,6 @@
                 </div>
                 <div class="col-md-4">
                   <div class="career__desc">
-                  <div class="career__desc--circle"></div>
                     <picture>
                       <img src="/img/career/icon/path.png" alt="Career Path">
                     </picture>

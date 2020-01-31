@@ -1195,6 +1195,12 @@ ul.medsos-new li a {
   }
 }
 
+@media (max-width: 415px) {
+  .header__title {
+    font-size: 36px;
+  }
+}
+
 /* End Header */
 
 /* Title */
@@ -1807,6 +1813,9 @@ ul.candiate-criteria__reject li::before {
   z-index: 2;
   line-height: 25px;
 }
+.faq__title.--mobile {
+  display: none;
+}
 
 .faq__title::before {
   content: "";
@@ -1820,10 +1829,21 @@ ul.candiate-criteria__reject li::before {
   z-index: -1;
 }
 
-.faq__title-wrapper .faq__title:last-of-type::before {
-  /* background-color: red; */
-  left: 5px;
-  width: calc(100% + 10px);
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+  .faq__title.--inline-last::before {
+    left: 5px;
+    width: calc(100% + 10px);
+  }
+}
+
+@media (max-width: 765px) {
+  .faq__title.--mobile {
+    display: inline-block;
+  }
+  .faq__title.--mobile::before {
+    left: -5px;
+    width: calc(100% + 10px);
+  }
 }
 
 .faq__content {
@@ -2421,9 +2441,15 @@ ul.candiate-criteria__reject li::before {
   }
 }
 
+.career__desc-wrapper {
+  display: flex;
+  align-items: stretch;
+}
+
 .career__desc {
   position: relative;
   padding: 20px;
+  /* margin-bottom: 30px; */
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -2476,11 +2502,16 @@ ul.candiate-criteria__reject li::before {
   margin-bottom: 33px;
 }
 
-@media (min-width: 768px) {
-  /* .career__desc {
-    display: flex;
+@media (max-width: 768px) {
+  .career__desc-wrapper {
+    display: block;
+    /* align-items: stretch; */
   }
-
+  .career__desc {
+    /* display: flex; */
+    margin-bottom: 30px;
+  }
+/*
   .career__desc picture {
     margin-right: 20px;
   } */
