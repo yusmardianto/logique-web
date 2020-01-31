@@ -722,7 +722,7 @@
                     Lowongan Back Office
                   </h2>
                 </div>
-                <div class="col-md-4 card--layout">
+                <!-- <div class="col-md-4 card--layout">
                   <a href="#">
                     <div class="card-box">
                       <div class="card-box__body">
@@ -742,13 +742,13 @@
                       </div>
                     </div>
                   </a>
-                </div>
+                </div> -->
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/backoffice/hr-recruitment.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/hr.png" alt="HR">
-                        <h3 class="heading-black">HR</h3>
+                        <img class="img-responsive card-icon" src="/img/career/icon/hr.png" alt="HR Recruitment">
+                        <h3 class="heading-black">HR Recruitment</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -765,11 +765,12 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="#">
+                  <a href="/career/lowongan/backoffice/accounting-finance.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/budget.png" alt="Accounting">
-                        <h3 class="heading-black">Accounting</h3>
+                        <img class="img-responsive card-icon" src="/img/career/icon/budget.png"
+                          alt="Akunting & Finance">
+                        <h3 class="heading-black">Akunting & Finance</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
