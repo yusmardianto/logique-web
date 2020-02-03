@@ -273,7 +273,9 @@ $('.map-container')
     var updatedYear = new Date().getFullYear();
     $('.copyrightYear').html(updatedYear);
 </script>
-<script>
+
+<!-- AD POPUP -->
+<!-- <script>
     function closePopup() {
         $('.dokodemo-popup').toggle();
     }
@@ -285,7 +287,7 @@ $('.map-container')
             closePopup()
         }
     });
-</script>
+</script> -->
 
 <!-- MULTI DROPDOWN -->
 <script>
