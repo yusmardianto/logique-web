@@ -26,7 +26,7 @@
 </head>
 
 <body>
-    <?php include './popup.php'; ?>
+    <?//php include './popup.php'; ?>
     <div class="wrapper wrapper--update-design">
         <!-- NAVIGATION -->
         <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
