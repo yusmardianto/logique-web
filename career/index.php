@@ -130,13 +130,13 @@
                     <br><br>
                     Anda tertarik untuk bekerja di LOGIQUE?
                     <br>
-                    <strong>Segera hubungi tim rekrutmen LOGIQUE sekarang juga!</strong>
+                    <strong><a href="/hubungi-kami.php">Segera hubungi tim rekrutmen LOGIQUE sekarang juga!</a></strong>
                   </p>
                   <div class="talk-to__wrapper">
                     <h4 class="section-subtitle">Talk to us</h4>
                     <div style="display: inline-block;">
                       <div class="talk-to">
-                        <a href="https://wa.me/+6282260567856" target="_blank" class="talk-to__item">
+                        <a href="https://wa.me/6282260567856" target="_blank" class="talk-to__item">
                           <img class="talk-to__img" src="/img/career/icon/wa.png" alt="Whatsapp Number">
                           <span class="talk-to__ctc">082260567856</span>
                         </a>
