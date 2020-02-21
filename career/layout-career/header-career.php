@@ -101,13 +101,13 @@
                 <div class="col-md-5 text-center no-gap">
                   <!-- <a href="/career/lowongan.php" class="navbar-link">Lowongan Kerja</a> -->
 
-                  <div class="dropdown">
+                  <div class="dropdown megamenu-btn">
                     <a href="" class="dropdown-toggle navbar-link" data-toggle="dropdown" role="button"
                       aria-haspopup="true" aria-expanded="true">
                       Lowongan Kerja
-                      <span class="caret"></span>
+                      <span class="caret --sm"></span>
                     </a>
-                    <ul class="dropdown-menu">
+                    <!-- <ul class="dropdown-menu">
                       <li class="dropdown-submenu">
                         <a class="dropdown-submenu__item" tabindex="-1" href="/career/lowongan/programmer/">Programmer <span class="caret"></span></a>
                         <ul class="dropdown-menu">
@@ -150,7 +150,7 @@
                           <li><a tabindex="-1" href="/career/lowongan/backoffice/hr-recruitment.php">HR Recruitment</a></li>
                         </ul>
                       </li>
-                    </ul>
+                    </ul> -->
                     <div class="clear"></div>
                   </div>
                 </div>
@@ -168,3 +168,62 @@
   </div>
 </div>
 <!-- END HEADER -->
+
+<!-- MEGA MENU -->
+<div class="mega-menu">
+  <div class="mega-menu__item">
+    <a href="/career/lowongan/programmer/" class="mega-menu__title">
+      <img class="mega-menu__img" src="/img/career/icon/web-dev.png" alt="Web Developer">
+      <h4>Programmer</h4>
+    </a>
+    <ul class="mega-menu__list">
+      <li><a href="/career/lowongan/programmer/frontend-developer.php">Frontend Developer</a></li>
+      <li><a href="/career/lowongan/programmer/mobile-app-developer.php">Mobile App Developer</a></li>
+      <li><a href="/career/lowongan/programmer/product-developer.php">Product Developer</a></li>
+      <li><a href="/career/lowongan/programmer/react-native-developer.php">React Native Developer</a></li>
+      <li><a href="/career/lowongan/programmer/reactjs-developer.php">React JS Developer</a></li>
+      <li><a href="/career/lowongan/programmer/web-developer.php">Web Developer</a></li>
+    </ul>
+  </div>
+  <div class="mega-menu__item">
+    <a href="/career/lowongan/it-generalist/" class="mega-menu__title">
+      <img class="mega-menu__img" src="/img/career/icon/server.png" alt="Server">
+      <h4>IT Generalist</h4>
+    </a>
+    <ul class="mega-menu__list">
+      <li><a href="/career/lowongan/it-generalist/business-analyst.php">Business Analyst</a></li>
+      <li><a href="/career/lowongan/it-generalist/consultant.php">Consultant</a></li>
+      <li><a href="/career/lowongan/it-generalist/product-manager.php">Product Manager</a></li>
+      <li><a href="/career/lowongan/it-generalist/project-manager.php">Project Manager</a></li>
+    </ul>
+  </div><div class="mega-menu__item">
+    <a href="/career/lowongan/specialist/" class="mega-menu__title">
+      <img class="mega-menu__img" src="/img/career/icon/webmaster.png" alt="Web Master">
+      <h4>Others IT Specialist</h4>
+    </a>
+    <ul class="mega-menu__list">
+      <li><a href="/career/lowongan/specialist/devops.php">Devops</a></li>
+      <li><a href="/career/lowongan/specialist/it-security-specialist.php">IT Security Specialist</a></li>
+      <li><a href="/career/lowongan/specialist/quality-assurance.php">Quality Assurance</a></li>
+    </ul>
+  </div><div class="mega-menu__item">
+    <a href="/career/lowongan/digitalmarketing/" class="mega-menu__title">
+      <img class="mega-menu__img" src="/img/career/icon/ux.png" alt="Designer">
+      <h4>Designer / Digital Marketing</h4>
+    </a>
+    <ul class="mega-menu__list">
+      <li><a href="/career/lowongan/digitalmarketing/digital-marketing-specialist.php">Digital Marketing Specialist</a></li>
+      <li><a href="/career/lowongan/digitalmarketing/ui-ux-designer.php">UI/UX Designer</a></li>
+    </ul>
+  </div><div class="mega-menu__item">
+    <a href="/career/lowongan/backoffice/" class="mega-menu__title">
+      <img class="mega-menu__img" src="/img/career/icon/content.png" alt="Back Office">
+      <h4>Back Office</h4>
+    </a>
+    <ul class="mega-menu__list">
+      <li><a href="/career/lowongan/backoffice/accounting-finance.php">Accounting & Finance</a></li>
+      <li><a href="/career/lowongan/backoffice/hr-recruitment.php">HR Recruitment</a></li>
+    </ul>
+  </div>
+</div>
+<!-- END MEGA MENU -->

@@ -107,7 +107,7 @@
             <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
               <h1 class="header__title">Wujudkan Mimpi Anda Dengan Berkarir Bersama LOGIQUE</h1>
               <p>
-                Di LOGIQUE, Anda dapat mewujudkan mimpi Anda sebagai karyawan tetap dan mendapatkan peningkatan karir yang cemerlang
+                Di LOGIQUE, Anda dapat mewujudkan mimpi Anda sebagai karyawan tetap dan mendapatkan peningkatan karir web developer yang cemerlang
                 tanpa batas. Segera bergabung dan kembangkan karir Anda bersama kami.
               </p>
             </div>
@@ -121,27 +121,22 @@
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row info-lowongan">
                 <div class="col-md-6 col-sm-12">
-                  <h2 class="section-title">Info Lowongan</h2>
+                  <h2 class="section-title">Info Lowongan Kerja</h2>
                   <p class="mb--15 info-lowongan--desc">
-                    <span class="mb--15">LOGIQUE memberikan kesempatan kepada Anda untuk bergabung bersama kami dan mengembangkan potensi
-                    yang Anda miliki saat ini.</span>
+                    LOGIQUE memberikan kesempatan kepada Anda untuk bergabung bersama kami dan mengembangkan potensi
+                    yang Anda miliki saat ini. Mengadopsi budaya kerja yang modern, kami mengedepankan <b>efektivitas</b> kerja yang mendukung karyawan untuk lebih <b>produktif</b>. Termasuk untuk terus meningkatkan skill dan pengetahuan mereka tentang berbagai update terbaru di dunia IT. Anda tertarik untuk bekerja di LOGIQUE?
                     <br><br>
-                    Mengadopsi budaya kerja yang modern, kami mengedepankan efektivitas kerja yang mendukung karyawan untuk lebih produktif. Termasuk untuk terus meningkatkan skill dan pengetahuan mereka tentang berbagai update terbaru di dunia IT.
-                    <br><br>
-                    Anda tertarik untuk bekerja di LOGIQUE?
-                    <br>
                     <strong>Segera hubungi tim rekrutmen LOGIQUE sekarang juga!</strong>
                   </p>
                   <div class="talk-to__wrapper">
-                    <h4 class="section-subtitle">Talk to us</h4>
                     <div style="display: inline-block;">
                       <div class="talk-to">
                         <a href="https://wa.me/+6282260567856" target="_blank" class="talk-to__item">
-                          <img class="talk-to__img" src="/img/career/icon/wa.png" alt="Whatsapp Number">
+                          <img class="talk-to__img" src="/img/career/icon/wa-color.png" alt="Whatsapp Number">
                           <span class="talk-to__ctc">082260567856</span>
                         </a>
                         <a href="mailto:recruit@logique.co.id" class="talk-to__item">
-                          <img class="talk-to__img" src="/img/career/icon/mail.png" alt="Email">
+                          <img class="talk-to__img" src="/img/career/icon/mail-color.png" alt="Email">
                           <span class="talk-to__ctc">recruit@logique.co.id</span>
                         </a>
                       </div>
@@ -165,8 +160,8 @@
                         <div class="urgent-need__text">Front End Developer</div>
                       </a>
                     </div>
-                    <a href="/career/lowongan/" style="padding-top: 10px; padding-bottom: 10px; font-size: 20px;"
-                      class="form-control main-btn --yellow">Lihat Semua Lowongan</a>
+                    <a href="/career/lowongan/" style="padding-top: 10px; padding-bottom: 10px; font-size: 20px; position: relative;"
+                      class="form-control main-btn --yellow">Lihat Semua Lowongan <span class="caret--rotated --urgent"></span></a>
                   </div>
                 </div>
               </div>
