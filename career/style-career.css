@@ -1456,6 +1456,7 @@ ul.medsos-new li a {
   transform: rotate(-90deg);
   transition: .3s;
 }
+.dropdown.open .caret.--sm,
 .caret.--sm.--yellow {
   transform: rotate(0);
   border-top-color: #ffca13;

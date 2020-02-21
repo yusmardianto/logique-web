@@ -85,7 +85,7 @@
                     <a href="" class="dropdown-toggle navbar-link" data-toggle="dropdown" role="button"
                       aria-haspopup="true" aria-expanded="true">
                       Kerja di LOGIQUE
-                      <span class="caret"></span>
+                      <span class="caret --sm"></span>
                     </a>
                     <ul class="dropdown-menu">
                       <li><a href="/career/visi-budaya/">Visi dan Budaya Kerja</a></li>
