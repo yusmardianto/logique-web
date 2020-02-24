@@ -2709,7 +2709,7 @@ ul.candiate-criteria__reject li::before {
   top: 64px;
   right: 0;
   padding: 15px 0 30px;
-  display: flex;
+  display: none;
   opacity: 0;
   justify-content: space-between;
   border-radius: 0 0 10px 10px;
@@ -2717,6 +2717,7 @@ ul.candiate-criteria__reject li::before {
   z-index: 99;
 }
 .mega-menu.--show {
+  display: flex;
   z-index: 98;
   opacity: 1;
 }
