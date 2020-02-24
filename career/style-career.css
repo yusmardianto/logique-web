@@ -2716,8 +2716,11 @@ ul.candiate-criteria__reject li::before {
   transition: .3s;
   z-index: 99;
 }
-.mega-menu.--show {
+.mega-menu.d-flex {
   display: flex;
+}
+.mega-menu.--show {
+  /* display: flex; */
   z-index: 98;
   opacity: 1;
 }
