@@ -2,7 +2,7 @@
   <div class="container--max-width">
     <div class="row">
       <div class="col-sm-offset-1 col-sm-10 no-gap">
-        <h2 class="section-title">Lihat Semua Category</h2>
+        <h2 class="section-title">Lihat Semua Kategori Lowongan Kerja</h2>
         <div class="row see-position">
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/" class="see-position__item bg--sub-programmer">

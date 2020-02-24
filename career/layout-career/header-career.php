@@ -73,7 +73,7 @@
         <div class="col-sm-offset-1 col-sm-10">
           <div class="row">
             <div class="col-sm-8 col-md-3">
-              <a href="/index.php">
+              <a href="/career/">
                 <img src="/img/career/logo-karir.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
                   class="img-responsive logo--update-design" />
               </a>

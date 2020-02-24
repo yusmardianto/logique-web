@@ -1266,14 +1266,14 @@ ul.medsos-new li a {
 }
 
 .talk-to__img {
-  max-width: 16px;
-  max-height: 16px;
-  margin-right: 6px;
+  max-width: 18px;
+  max-height: 18px;
+  margin-right: 25px;
 }
 
 .talk-to__ctc {
   font-weight: 700;
-  font-size: 12px;
+  font-size: 15px;
 }
 /* End Talk to */
 
@@ -1646,6 +1646,8 @@ ul.medsos-new li a {
 /* Contact Section */
 .contact__img-wrapper {
   position: relative;
+  border-radius: 10px;
+  overflow: hidden;
 }
 .contact__img {
   width: 100%;
