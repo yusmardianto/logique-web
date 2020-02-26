@@ -527,9 +527,10 @@
             <section class="section-divider" id="dm_">
                 <div class="bg--black">
                     <div class="container__">
-                        <div class="text-center">
+                        <div class="text-center" style="position: relative">
                             <h1 class="title-index --yellow">デジタルマーケティング | ITコンサルティング</h1>
                             <hr class="title__yellow-line--center">
+                            <img class="google-badge --ja" src="/img/google-badge.png" alt="Google Badge">
                         </div>
                     </div>
                 </div>

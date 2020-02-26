@@ -196,6 +196,7 @@
                         <div class="bg-black-title inline-block">
                             Sukseskan Bisnis Anda!
                         </div>
+                        <img class="google-badge --inpage" src="/img/google-badge.png" alt="Google Badge">
                         <div>
                             <br />
                             Menghadapi era digital saat ini tentunya membuat tantangan tersendiri, terutama bagi dunia bisnis dan usaha agar dapat

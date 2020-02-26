@@ -197,6 +197,7 @@
                         <div class="bg-black-title inline-block">
                             Lead You to Success!
                         </div>
+                        <img class="google-badge --inpage" src="/img/google-badge.png" alt="Google Badge" style="left: 295px;">
                         <div>
                             <br />
                             Facing the digital era today certainly creates its own challenges, especially for businesses in order to be competitive

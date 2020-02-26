@@ -220,6 +220,7 @@
                         <div class="bg-black-title inline-block">
                             Digitalマーケティングの成否が鍵を握る時代です
                         </div>
+                        <img class="google-badge --inpage --ja" src="/img/google-badge.png" alt="Google Badge">
                         <div class="font-16">
                             <p class="p-padding-v-15">
                                 LOGIQUEはジャカルタの日系ウェブ制作会社として、WEBサイト制作からSEO対策、Digitalコンテンツ制作、オンライン広告（SNS広告、Google広告）など、デジタルマーケティングの全工程をワンストップでご提供可能です。
