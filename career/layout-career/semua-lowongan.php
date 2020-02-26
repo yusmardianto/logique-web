@@ -2,7 +2,7 @@
   <div class="container--max-width">
     <div class="row">
       <div class="col-sm-offset-1 col-sm-10 no-gap">
-        <h2 class="section-title">Lihat Semua Lowongan Pekerjaan</h2>
+        <h2 class="section-title">Lihat Semua Kategori Lowongan Kerja</h2>
         <div class="row see-position">
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/" class="see-position__item bg--sub-programmer">
@@ -11,7 +11,7 @@
                 <h3 class="section-title">Programmer</h3>
               </div>
               <p>
-                PHP Programmer, Front-End Programmer, Mobile App Developer, etc.,
+                PHP Programmer, Front-End Programmer, Mobile App Developer, JavaScript Developer, etc.,
               </p>
             </a>
           </div>
@@ -22,7 +22,7 @@
                 <h3 class="section-title">IT Generalist</h3>
               </div>
               <p>
-                Project Manager, Product Manager, IT Consultant, Business Analyst, etc,.
+                Project Manager, Product Manager, IT Consultant, Business Analyst, Sales, etc,.
               </p>
             </a>
           </div>
@@ -33,7 +33,7 @@
                 <h3 class="section-title">Others IT Specialist</h3>
               </div>
               <p>
-                Security Specialist, DevOps, QA Specialist, etc.,
+                Security Specialist, DevOps, QA Specialist, Infrastructure Engineer, etc.,
               </p>
             </a>
           </div>
@@ -41,7 +41,7 @@
             <a href="/career/lowongan/digitalmarketing/" class="see-position__item bg--sub-designer-dm">
               <div class="see-position__overlay"></div>
               <div class="section-title__wrapper">
-                <h3 style="font-size: 28px;" class="section-title">Designer / <br>Digital Marketing</h3>
+                <h3 style="line-height: 31px;" class="section-title">Designer / <br>Digital Marketing</h3>
               </div>
               <p>
                 Designer, SEO / Ad Specialist, Content Writer, etc.,

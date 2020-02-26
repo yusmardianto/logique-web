@@ -303,3 +303,22 @@ $(document).ready(function() {
     });   
 });
 </script>
+
+<!-- MEGAMENU -->
+<script>
+    $(document).ready(function() {
+    $('.megamenu-btn').on("click", function(e) {
+        $('.mega-menu').toggleClass("d-flex");
+        setTimeout(() => {$('.mega-menu').toggleClass("--show")}, 5);
+        $(this).children('a').children("span.caret.--sm").toggleClass("--yellow");
+        e.stopPropagation();
+        e.preventDefault();
+    });
+    $('body').on("click", function(e) {
+        $('.mega-menu.--show').removeClass("--show");
+        setTimeout(() => {$('.mega-menu.d-flex').removeClass("d-flex");}, 5);
+        $('.caret.--sm.--yellow').removeClass("--yellow");
+    });   
+});
+</script>
+<!-- END MEGAMENU -->
