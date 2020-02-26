@@ -22,7 +22,7 @@
               <br>
               Kami juga menerapkan sistem kerja remote bagi para karyawan kami sehingga Anda dapat bekerja dimana pun
               Anda
-              inginkan. <b>Segera hubungi tim rekrutmen kami sekarang!</b>
+              inginkan. <b><a href="/hubungi-kami.php">Segera hubungi tim rekrutmen kami sekarang!</a></b>
             </p>
           </div>
         </div>

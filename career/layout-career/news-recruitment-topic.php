@@ -5,7 +5,6 @@
 
 ul.news-list {
   list-style: none;
-  font-family: 'Open Sans', sans-serif;
 }
 
 ul.news-list li {
@@ -88,7 +87,7 @@ ul.news-list li a:hover {
 </style>
 <?php
 $rss = new DOMDocument();
-$rss->load('https://www.logique.co.id/blog/en/category/dokodemo-kerja-en/feed/');
+$rss->load('https://www.logique.co.id/blog/category/recruitment/feed/');
 $feed = array();
 foreach ($rss->getElementsByTagName('item') as $node) {
 $item = array ( 
@@ -211,7 +210,7 @@ if (!empty($feed)){
                   </span>
                   <p>Lowongan Quality Assurance, dibutuhkan SEGERA</p>
                 </div>
-                <a href="/career/lowongan/programmer/frontend-developer.php">Masuk ke detail ></a>
+                <a href="/career/lowongan/specialist/quality-assurance.php">Masuk ke detail ></a>
               </div>
             </div>
           </li> <?php */ ?>
