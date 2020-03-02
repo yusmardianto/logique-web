@@ -87,7 +87,8 @@ ul.news-list li a:hover {
 </style>
 <?php
 $rss = new DOMDocument();
-$rss->load('https://www.logique.co.id/blog/category/cyber-security/feed/');
+ 
+$rss->load('http://www.logique.co.id/blog/category/recruitment/feed/');
 $feed = array();
 
 foreach ($rss->getElementsByTagName('item') as $node) {
