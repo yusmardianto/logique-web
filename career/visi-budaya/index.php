@@ -121,7 +121,7 @@
 
       <section class="mb--60">
         <div class="row">
-          <div class="col-sm-12 no-gap">
+          <div class="col-sm-12">
             <div class="container--max-width bg-hanged-banner">
               <div class="row">
                 <div class="col-sm-offset-1 col-sm-10">

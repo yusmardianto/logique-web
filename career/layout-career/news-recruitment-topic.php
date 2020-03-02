@@ -5,7 +5,6 @@
 
 ul.news-list {
   list-style: none;
-  font-family: 'Open Sans', sans-serif;
 }
 
 ul.news-list li {
@@ -87,41 +86,44 @@ ul.news-list li a:hover {
 }
 </style>
 <?php
-//Tidak langsung integrasi dengan blog
-// $rss = new DOMDocument();
-// $rss->load('https://www.logique.co.id/blog/feed/?tag=logique-digital-indonesia-id');
-// $feed = array();
-// foreach ($rss->getElementsByTagName('item') as $node) {
-// $item = array ( 
-// 'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
-// 'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
-// 'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
-// 'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
-// );
-// array_push($feed, $item);
-// }
-// $limit = 5; 
-// function tgl_indo($tanggal){
-//   $bulan = array (
-//     1 =>   'Januari',
-// 		'Februari',
-// 		'Maret',
-// 		'April',
-// 		'Mei',
-// 		'Juni',
-// 		'Juli',
-// 		'Agustus',
-// 		'September',
-// 		'Oktober',
-// 		'November',
-// 		'Desember'
-//   );
-//   $pecahkan = explode('-', $tanggal);
+$rss = new DOMDocument();
+$rss->load('https://www.logique.co.id/blog/category/recruitment/feed/');
+$feed = array();
+foreach ($rss->getElementsByTagName('item') as $node) {
+$item = array ( 
+'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
+'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
+'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
+'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
+);
+array_push($feed, $item);
+}
+$limit = 5; 
+function tgl_indo($tanggal){
+  $bulan = array (
+    1 =>   'Januari',
+		'Februari',
+		'Maret',
+		'April',
+		'Mei',
+		'Juni',
+		'Juli',
+		'Agustus',
+		'September',
+		'Oktober',
+		'November',
+		'Desember'
+  );
+  $pecahkan = explode('-', $tanggal);
    
 
-//   return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
-// }
-
+  return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+}
+if (!empty($feed)){
+  $count =  count($feed);
+  if ($limit >= $count ) : $limit = $count;
+  elseif ($limit <= $count ) : $limit = $limit;
+  endif;
 ?>
 
 <section class="container-fluid">
@@ -138,13 +140,28 @@ ul.news-list li a:hover {
         <ul class="news-list">
           <?php
             //Tidak langsung integrasi dengan blog
-            // for($x=0;$x<$limit;$x++) {
-            // $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
-            // $link = $feed[$x]['link'];
-            // $description = $feed[$x]['desc'];
-            // $date = date('F d, Y', strtotime($feed[$x]['date']));
+            
+            for($x=0;$x<$limit;$x++) {
+            $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
+            $link = $feed[$x]['link'];
+            $description = $feed[$x]['desc'];
+            $date = date('F d, Y', strtotime($feed[$x]['date']));
           ?>
-          <?php // } ?>
+          <li class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="news-list__body">
+                <div class="news-list__content">
+                  <span class="news-list__news-date">
+                    <?php echo tgl_indo(date('Y-m-d', strtotime($feed[$x]['date']))) ;?>
+                  </span>
+                  <p><?php echo $title ?></p>
+                </div>
+                <a href="<?php echo $link ?>" target="_blank" rel="noreferrer">Masuk ke detail ></a>
+              </div>
+            </div>
+          </li>
+          <?php }  /* ?>
+          
           <li class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <div class="news-list__body">
@@ -193,12 +210,13 @@ ul.news-list li a:hover {
                   </span>
                   <p>Lowongan Quality Assurance, dibutuhkan SEGERA</p>
                 </div>
-                <a href="/career/lowongan/programmer/frontend-developer.php">Masuk ke detail ></a>
+                <a href="/career/lowongan/specialist/quality-assurance.php">Masuk ke detail ></a>
               </div>
             </div>
-          </li>
+          </li> <?php */ ?>
         </ul>
       </div>
     </div>
   </div>
 </section>
+ <?php } ?>

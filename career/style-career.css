@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:300,400,500,700,800,900&display=swap'");
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,800&display=swap");
 html,
 body {
   font-family: "Raleway", "sans-serif";
@@ -536,7 +535,7 @@ button:focus {
   border-radius: 5px;
   width: 90%;
   max-width: 275px;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 600;
   padding: 12px;
   display: flex;
@@ -1136,7 +1135,6 @@ ul.medsos-new li a {
 .breadcrumb--update-design a {
   /* color: #ffca13; */
   font-size: 13px;
-  font-family: "Open Sans", sans-serif;
   font-weight: 600;
   color: #fff;
 }
@@ -1177,7 +1175,6 @@ ul.medsos-new li a {
 .header-banner p {
   font-size: 18px;
   color: #fff;
-  font-family: "Open Sans", sans-serif;
 }
 
 .header__title {
@@ -1204,7 +1201,6 @@ ul.medsos-new li a {
 }
 
 .header__sub-title {
-  font-family: "Open Sans", sans-serif;
   color: #fff;
   font-size: 20px;
   font-weight: 800;
@@ -1278,9 +1274,6 @@ ul.medsos-new li a {
 /* End Talk to */
 
 /* Info Lowongan */
-.info-lowongan {
-  font-family: "Open Sans", sans-serif;
-}
 .info-lowongan .section-title,
 .info-lowongan .section-subtitle {
   color: #000000;
@@ -1296,8 +1289,11 @@ ul.medsos-new li a {
   font-size: 17px;
 }
 
-.info-lowongan--desc strong {
+.info-lowongan--desc strong a {
   color: #353535;
+}
+.info-lowongan--desc strong a:hover {
+  color: rgb(75, 75, 75);
 }
 
 /* End Info Lowongan */
@@ -1698,9 +1694,15 @@ ul.medsos-new li a {
   font-size: 18px;
   font-weight: 500;
   letter-spacing: 0.8px;
-  line-height: 25px;
+  line-height: 20px;
   padding-top: 1em;
   padding-bottom: 1em;
+}
+.work-location__text a {
+  color: #000;
+}
+.work-location__text a:hover {
+  color: #444;
 }
 @media (min-width: 768px) {
   .work-location__text p {
@@ -1800,7 +1802,6 @@ ul.medsos-new li a {
   box-shadow: 0px 8px 12px -2px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   padding: 25px 40px 25px 75px;
-  font-family: "Open Sans", sans-serif;
   font-size: 16px;
   margin-bottom: 25px;
 }
@@ -1889,9 +1890,6 @@ ul.candiate-criteria__reject li::before {
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 10px;
-}
-.benefit-card__text {
-  font-family: "Open Sans", sans-serif;
 }
 .benefit {
   display: flex;
@@ -2040,7 +2038,6 @@ ul.candiate-criteria__reject li::before {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  font-family: "Open Sans", sans-serif;
   color: #000;
 }
 
@@ -2325,7 +2322,6 @@ ul.candiate-criteria__reject li::before {
   padding-left: 15px;
 }
 .salary-range__head-top {
-  font-family: "Open Sans", sans-serif;
   display: flex;
   align-items: baseline;
   justify-content: space-between;
@@ -2341,7 +2337,6 @@ ul.candiate-criteria__reject li::before {
 }
 .salary-range__list {
   padding-left: 10px;
-  font-family: "Open Sans", sans-serif;
 }
 .salary-range__list li::before {
   content: "■";
@@ -2423,7 +2418,6 @@ ul.candiate-criteria__reject li::before {
   background-color: #fff;
   border-radius: 10px;
   padding: 18px 16px;
-  font-family: "Open Sans", sans-serif;
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -2442,7 +2436,6 @@ ul.candiate-criteria__reject li::before {
   top: 0;
   right: 0;
   text-align: center;
-  font-family: "Open Sans", sans-serif;
   font-size: 18px;
   font-weight: 800;
   padding: 4px 35px;
