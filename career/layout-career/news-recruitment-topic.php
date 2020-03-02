@@ -87,8 +87,9 @@ ul.news-list li a:hover {
 </style>
 <?php
 $rss = new DOMDocument();
-$rss->load('https://www.logique.co.id/blog/category/recruitment/feed/');
+$rss->load('https://www.logique.co.id/blog/category/cyber-security/feed/');
 $feed = array();
+
 foreach ($rss->getElementsByTagName('item') as $node) {
 $item = array ( 
 'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
@@ -119,11 +120,12 @@ function tgl_indo($tanggal){
 
   return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
 }
+ 
 if (!empty($feed)){
   $count =  count($feed);
-  if ($limit >= $count ) : $limit = $count;
-  elseif ($limit <= $count ) : $limit = $limit;
-  endif;
+  if ($limit >= $count ) {
+     $limit = $count;
+  }  
 ?>
 
 <section class="container-fluid">
@@ -160,63 +162,10 @@ if (!empty($feed)){
               </div>
             </div>
           </li>
-          <?php }  /* ?>
-          
-          <li class="row">
-            <div class="col-sm-offset-1 col-sm-10">
-              <div class="news-list__body">
-                <div class="news-list__content">
-                  <span class="news-list__news-date">
-                    31 Jan 2020
-                  </span>
-                  <p>Launching New Logique Career Page</p>
-                </div>
-                <a href="/career/">Masuk ke karir home ></a>
-              </div>
-            </div>
-          </li>
-          <li class="row">
-            <div class="col-sm-offset-1 col-sm-10">
-              <div class="news-list__body">
-                <div class="news-list__content">
-                  <span class="news-list__news-date">
-                    31 Jan 2020
-                  </span>
-                  <p>Lowongan Web Developer, dibutuhkan SEGERA</p>
-                </div>
-                <a href="/career/lowongan/programmer/web-developer.php">Masuk ke detail ></a>
-              </div>
-            </div>
-          </li>
-          <li class="row">
-            <div class="col-sm-offset-1 col-sm-10">
-              <div class="news-list__body">
-                <div class="news-list__content">
-                  <span class="news-list__news-date">
-                    31 Jan 2020
-                  </span>
-                  <p>Lowongan Front End Developer, dibutuhkan SEGERA</p>
-                </div>
-                <a href="/career/lowongan/programmer/frontend-developer.php">Masuk ke detail ></a>
-              </div>
-            </div>
-          </li>
-          <li class="row">
-            <div class="col-sm-offset-1 col-sm-10">
-              <div class="news-list__body">
-                <div class="news-list__content">
-                  <span class="news-list__news-date">
-                    31 Jan 2020
-                  </span>
-                  <p>Lowongan Quality Assurance, dibutuhkan SEGERA</p>
-                </div>
-                <a href="/career/lowongan/specialist/quality-assurance.php">Masuk ke detail ></a>
-              </div>
-            </div>
-          </li> <?php */ ?>
+          <?php }   ?>
         </ul>
       </div>
     </div>
   </div>
 </section>
- <?php } ?>
+<?php } ?>
