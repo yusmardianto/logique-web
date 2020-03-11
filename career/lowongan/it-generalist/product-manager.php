@@ -202,7 +202,6 @@
                 <ul class="career-list">
                   <li>Project Management</li>
                   <li>Bahasa Inggris</li>
-                  <li>Memiliki Kendaraan Bermotor Pribadi</li>
                 </ul>
               </div>
             </div>
