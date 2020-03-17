@@ -11,7 +11,7 @@
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta property="og:title"
-    content="Lowongan Project Mnager | Product Manager |  Business Analyst | LOGIQUE Digital Indonesia">
+    content="Lowongan Project Manager | Product Manager |  Business Analyst | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
@@ -19,7 +19,7 @@
   <meta property="og:description"
     content="LOGIQUE memberikan kesempatan kepada Anda untuk berkarir sebagai IT Generalis, seperti Project Manager, Product Manager, dan Business Analyst. Jika Anda tertarik untuk berkarir atau mengembangkan karir Anda sebagai IT Generalist, segera kunjungi halaman karir LOGIQUE.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Project Mnager | Product Manager | Business Analyst | LOGIQUE Digital Indonesia</title>
+  <title>Lowongan Project Manager | Product Manager | Business Analyst | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

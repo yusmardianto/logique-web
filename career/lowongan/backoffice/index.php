@@ -10,7 +10,7 @@
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Lowongan Kerja BackOffice staff | Accounting | HR | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Lowongan Kerja Back Office staff | Accounting | HR | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
@@ -18,7 +18,7 @@
   <meta property="og:description"
     content="LOGIQUE membuka lowongan kerja sebagai HR / GA untuk membantu mengembangkan perusahaan menjadi lebih baik lagi. Jika Anda tertarik untuk bekerja sebagai HR / GA, silakan kunjungi halaman karir LOGIQUE dan daftarkan diri Anda sekarang juga!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Kerja BackOffice staff | Accounting | HR | LOGIQUE Digital Indonesia</title>
+  <title>Lowongan Kerja Back Office staff | Accounting | HR | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
