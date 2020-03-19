@@ -164,6 +164,10 @@ div:focus {
   padding-top: 3em;
 }
 
+.fs-16 {
+  font-size: 16px;
+}
+
 @media (max-width: 767px) {
   .p-t-3 {
     padding-top: 1em;

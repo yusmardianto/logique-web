@@ -110,7 +110,7 @@
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
               <h1 class="header__title">Visi & Budaya Kerja LOGIQUE</h1>
-              <p>
+              <p class="fs-16">
               Di LOGIQUE, kami mempunyai visi dan budaya kerja yang unik dan berbeda dari perusahaan web developer sejenis lainnya. Kenali visi dan budaya yang kami miliki dengan bekerja dan berkembang bersama LOGIQUE di dunia developer yang modern dan ideal.
               </p>
             </div>
@@ -125,7 +125,7 @@
               <div class="col-sm-offset-1 col-md-offset-2 col-sm-10 col-md-8">
                 <div class="our-vision text-center">
                   <div class="btn-3d-stick-out">Kebijakan & Visi Rekrutmen</div>
-                  <div class="">
+                  <div class="fs-16">
                     <p>
                     Menjadi perusahaan dan tempat bekerja yang terbaik bagi semua Web Developer dan para pekerja di bidang IT.
                     </p>
@@ -141,7 +141,7 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-md-offset-2 col-sm-10 col-md-8 text-center">
-              <p>Aturan dan kebiasaan terkait ketenagakerjaan atau HR yang sudah ada di Indonesia sebagian kurang sesuai dengan cara kerja modern dan hubungan antara karyawan dan perusahaan yang diperlukan saat ini. Kondisi seperti ini tidak baik untuk hubungan antara karyawan dan perusahaan dan kami tidak bisa bertahan dengan cara yang seperti itu. LOGIQUE memikirkan segala sesuatu secara logis dari awal, tidak terikat oleh kebiasaan lama yang tidak memiliki makna. 
+              <p class="fs-16">Aturan dan kebiasaan terkait ketenagakerjaan atau HR yang sudah ada di Indonesia sebagian kurang sesuai dengan cara kerja modern dan hubungan antara karyawan dan perusahaan yang diperlukan saat ini. Kondisi seperti ini tidak baik untuk hubungan antara karyawan dan perusahaan dan kami tidak bisa bertahan dengan cara yang seperti itu. LOGIQUE memikirkan segala sesuatu secara logis dari awal, tidak terikat oleh kebiasaan lama yang tidak memiliki makna. 
               </p>
             </div>
           </div>
@@ -186,7 +186,7 @@
         </div>
       </section> -->
 
-      <section class="container-fluid bg--vision-mission mb--60">
+      <section class="container-fluid bg--vision-mission mb--60 fs-16">
         <div class="container--max-width">
           <div class="col-sm-offset-1 col-md-offset-2 col-sm-10 col-md-8">
 
@@ -223,18 +223,18 @@
       </section>
 
       <section class="container-fluid">
-        <div class="container--max-width">
+        <div class="container--max-width fs-16">
           <div class="row">
             <div class="col-sm-offset-1 col-md-offset-2 col-sm-10 col-md-8 text-center">
               <h2 class="section-title">Hubungan antara Pekerja dan Perusahaan</h2>
 
-              <p class="mb--40">Hubungan (pekerjaan) yang baik tidak akan bertahan lama jika kita tidak mempunyai hubungan yang saling menguntungkan atau hanya menguntungkan satu pihak saja. Jika Anda masih memikirkan diri sendiri dan hanya ingin mengembangkan diri sendiri, kami tidak akan bisa bekerja sama dengan Anda</p>
+              <p class="mb--20">Hubungan (pekerjaan) yang baik tidak akan bertahan lama jika kita tidak mempunyai hubungan yang saling menguntungkan atau hanya menguntungkan satu pihak saja. Jika Anda masih memikirkan diri sendiri dan hanya ingin mengembangkan diri sendiri, kami tidak akan bisa bekerja sama dengan Anda</p>
 
-              <p class="mb--40">Untuk itu, kami ingin Anda memahami konsep kami yaitu: <br>
+              <p class="mb--20">Untuk itu, kami ingin Anda memahami konsep kami yaitu: <br>
               <span class="section-title" style="font-size: 20px">“Give and Take”</span> <i><b>(terima - memberi)</b></i>.
               </p>
 
-              <div class="mb--40 text-center">
+              <div class="mb--20 text-center">
                 <img src="/img/career/bg-img/give-take.png" alt="Pegawai Tetap">
               </div>
 
