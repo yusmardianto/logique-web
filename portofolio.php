@@ -6,19 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE mempunyai banyak klien baik lokal maupun internasional. Kami telah membantu mereka untuk meningkatkan bisnis dan usaha mereka. Untuk melihat berbagai hasil karya portofolio yang telah kami lakukan, Anda dapat langsung melihatnya pada website kami.">
+        content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
     <meta name="keywords"
         content="web design, design coding, pengembangan web, jasa pembuatan website, pengembangan aplikasi mobile, database mysql, node js, sistem crm, payment gateway, mobile optimization, page creation, sistem lelang online">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Portofolio Hasil Pembuatan Website dan Aplikasi Mobile | LOGIQUE">
+    <meta property="og:title" content="Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
     <meta property="og:description"
-        content="LOGIQUE mempunyai banyak klien baik lokal maupun internasional. Kami telah membantu mereka untuk meningkatkan bisnis dan usaha mereka. Untuk melihat berbagai hasil karya portofolio yang telah kami lakukan, Anda dapat langsung melihatnya pada website kami.">
+        content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Portofolio Hasil Pembuatan Website dan Aplikasi Mobile | LOGIQUE</title>
+    <title>Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -172,7 +172,7 @@
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
                     <div class="title"><b>Our</b><span class="yellow"> Portfolio</span></div>
-                    <p class="title__description">LOGIQUE telah mengembangkan banyak Situs Web, Sistem dan Aplikasi, untuk klien-klien kami. Berikut adalah beberapa kreasi Web, pengembangan aplikasi seluler / PWA, pengembangan sistem TI, dan portofolio konsultasi pemasaran digital kami.</p>
+                    <p class="title__description">LOGIQUE telah mengembangkan banyak Website, Aplikasi Berbasis Web dan Mobile App, serta memberikan dukungan terkait Penetration Test untuk klien dari berbagai industri seperti Asuransi, E-Commerce, dan Otomotif. Berikut adalah beberapa portofolio hasil pengembangan Website, Aplikasi Berbasis Web, Mobile App / PWA, dan Digital Marketing kami.</p>
 
                     <div class="client-list__wrapper">
                         <h3 class="portfolio-sec__title">Klien Kami</h3>
@@ -185,23 +185,25 @@
                             <img class="client-list__img" src="/img/portfolio/client-list/j-trust.png" alt="j-trust">
                             <img class="client-list__img" src="/img/portfolio/client-list/mitsubishi.png" alt="mitsubishi">
                             <img class="client-list__img" src="/img/portfolio/client-list/panin.png" alt="panin">
-                            <img class="client-list__img" src="/img/portfolio/client-list/pasaraya.png" alt="pasaraya">
+                            <img class="client-list__img" src="/img/portfolio/client-list/pasaraya.png" alt="pasaraya" style="max-width: 140px">
                             <img class="client-list__img" src="/img/portfolio/client-list/pertamina.png" alt="pertamina">
                             <img class="client-list__img" src="/img/portfolio/client-list/sinarmas.png" alt="sinarmas">
                             <img class="client-list__img" src="/img/portfolio/client-list/sunlife.png" alt="sunlife">
                             <img class="client-list__img" src="/img/portfolio/client-list/sumitomo.png" alt="sumitomo">
                             <img class="client-list__img" src="/img/portfolio/client-list/toyota.png" alt="toyota">
                             <img class="client-list__img" src="/img/portfolio/client-list/triputra.png" alt="triputra">
+                            <img class="client-list__img" src="/img/portfolio/client-list/tolaram.png" alt="tolaram">
+                            <img class="client-list__img" src="/img/portfolio/client-list/pegadaian.png" alt="pegadaian">
                         </div>
                     </div>
 
                     <div class="page-nav text-center">
-                        <a class="page-nav__btn" href="#webDev">WEB</a>
-                        <a class="page-nav__btn" href="#sysDev">Portofolio Pengembangan <br>Sistem</a>
+                        <a class="page-nav__btn" href="#webDev">Website</a>
+                        <a class="page-nav__btn" href="#sysDev">Aplikasi Berbasis <br> Web</a>
                         <!-- <a class="page-nav__btn" href="#caseStudy">Studi <br>Kasus</a> -->
-                        <a class="page-nav__btn" href="#PWA">Mobile App / <br>PWA</a>
+                        <a class="page-nav__btn" href="#PWA">Mobile App / <br> PWA</a>
                         <!-- <a class="page-nav__btn" href="#">Digital <br>Marketing</a> -->
-                        <a class="page-nav__btn" href="#others">Digital Marketing & <br>Lainnya</a>
+                        <a class="page-nav__btn" href="#others">Digital Marketing <br> & Lainnya</a>
                     </div>
                 </div>
             </section>
@@ -209,7 +211,7 @@
             <section id="webDev">
                 <div class="container__">
                     <div class="portfolio-sec__head">
-                        <h3 class="portfolio-sec__title">WEB</h3>
+                        <h3 class="portfolio-sec__title">Website</h3>
                         <a href="#portfolioNavigation" class="portfolio-sec__back">
                             <small>[Back to Top]</small>
                         </a>
@@ -222,8 +224,8 @@
                                 <p class="text-center">AIA Premier Academy</p>
                             </a>
                             <div class="addition-desc text-left">
-                                Campaign Page Creation (Design | Coding | Hosting)
-                                <div class="grey-clr">Mobile Optimized, Campaign page, Insurance</div>
+                                Pembuatan Halaman Campaign (Design | Coding | Hosting)
+                                <div class="grey-clr">Website Campaign, Optimasi Mobile, Asuransi, Akademi</div>
                             </div>
                         </div>
 
@@ -233,8 +235,8 @@
                                 <p class="text-center">Panin Life Dai-ichi</p>
                             </a>
                             <div class="addition-desc text-left">
-                                E-Commerce Dev (Design | Coding | CMS | Payment)
-                                <div class="grey-clr">CMS, secure E-Commerce, Financial, Insurance</div>
+                                Pengembangan E-Commerce (Design | Coding | CMS | Payment)
+                                <div class="grey-clr">CMS, E-Commerce, Finansial, Asuransi, Integrasi API, Payment Gateway</div>
                             </div>
                         </div>
 
@@ -246,7 +248,7 @@
                             </a>
                             <div class="addition-desc text-left">
                                 WEB Re-Design (Design | Coding | Integrasi CMS)
-                                <div class="grey-clr">Mobile Optimized, Multi-bahasa, CMS, Bank</div>
+                                <div class="grey-clr">Optimasi Mobile, Multi-Bahasa, CMS, Bank</div>
                             </div>
                         </div>
 
@@ -258,7 +260,7 @@
                             </a>
                             <div class="addition-desc text-left">
                                 Web Design (Design | Coding | Deployment)
-                                <div class="grey-clr">Mobile Optimized</div>
+                                <div class="grey-clr">Website Perusahaan, Optimasi Mobile, Otomotif, Rental Mobil</div>
                             </div>
                         </div>
 
@@ -269,10 +271,8 @@
                                 <p class="text-center">JBA INDONESIA</p>
                             </a>
                             <div class="addition-desc text-left">
-                                Pengoperasian & Pengembangan WEB (Design | CMS | System | Operation | AWS)
-                                <div class="grey-clr">Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB,
-                                    Otomotif,
-                                    Finansial</div>
+                                Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)
+                                <div class="grey-clr">Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</div>
                             </div>
                         </div>
 
@@ -283,7 +283,7 @@
                             </a>
                             <div class="addition-desc text-left">
                                 Pembaharuan & Pengoperasian WEB (Design | Coding | Operation)
-                                <div class="grey-clr">Optimasi Mobile, Keamanan WEB, Public, Perjalanan</div>
+                                <div class="grey-clr">Optimasi Mobile, Keamanan WEB, Publik, Perjalanan, Travel</div>
                             </div>
                         </div>
 
@@ -300,7 +300,7 @@
                                 </a>
                                 <div class="addition-desc text-left">
                                     Event / Schedule Web Creation (Design | Coding)
-                                    <div class="grey-clr">Optimasi Mobile, Multi-Language, Event</div>
+                                    <div class="grey-clr">Optimasi Mobile, Multi-Bahasa, Event</div>
                                 </div>
                             </div>
 
@@ -311,10 +311,8 @@
                                     <p class="text-center">OTOmart (used-car market place)</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Pengembangan dan Pengoperasian WEB (Design | CMS | System | Content Creation
-                                    | Operation | AWS)
-                                    <div class="grey-clr">CMS, Tempat Jual-Beli, DB-WEB, Mobile, Layanan WEB,
-                                        Automobil
+                                    Pengembangan dan Pengoperasian WEB (Design | CMS | Sistem | Pembuatan Konten | Operasional | AWS)
+                                    <div class="grey-clr">CMS, Jual-Beli Mobil Bekas, DB-WEB, Optimasi Mobile, Layanan WEB, Otomotif
                                     </div>
                                 </div>
                             </div>
@@ -326,8 +324,8 @@
                                     <p class="text-center">Japan Asean Integration Fund</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Pengoperasian WEB & Operasi (Design | Coding | Operation)
-                                    <div class="grey-clr">Mobile, Keamanan WEB, Publik</div>
+                                    Pengoperasian & Pengembangan WEB (Design | Coding | Operasional)
+                                    <div class="grey-clr">Optimasi Mobile, Keamanan WEB, Publik</div>
                                 </div>
                             </div>
 
@@ -1136,7 +1134,7 @@
             <section id="sysDev">
                 <div class="container__">
                     <div class="portfolio-sec__head">
-                        <h3 class="portfolio-sec__title">Portofolio Pengembangan Sistem</h3>
+                        <h3 class="portfolio-sec__title">Aplikasi Berbasis Web</h3>
                         <a href="#portfolioNavigation" class="portfolio-sec__back">
                             <small>[Back to Top]</small>
                         </a>
@@ -1149,676 +1147,727 @@
                                 <img src="/img/logo-jba.jpg" alt="JBA" class="img-responsive center-block">
                             </div>
                             <div class="portfolio-sec-system__content">
-                                <h2 class="portfolio-sec__title">JBA</h2>
-                                <p>Pengembangan Aplikasi Mobile ( Pengembangan sistem pemeriksaan dan
-                                    sistem penilaian )</p>
+                                <h2 class="portfolio-sec__title">JBA Indonesia; Online Car Auction System Development</h2>
+                                <p>Pengembangan Aplikasi Mobile ( Pengembangan sistem inspeksi kendaraan dan sistem penilaian)</p>
                                 <p class="text-muted">4 bulan, Android, node.js, JAVA, AWS</p>
                             </div>
                         </div>
 
                         <div class="portfolio-sec-system__item">
                             <div class="portfolio-sec-system__img">
+                                <img src="/img/logo-panin.png" alt="Panin Dai-ichi Life" class="img-responsive center-block">
+                            </div>
+                            <div class="portfolio-sec-system__content">
+                                <h2 class="portfolio-sec__title">Panin Dai-ichi Life; Insurance E-Commerce System Development</h2>
+                                <!-- <p>Pengembangan Sistem Rekrutmen dan Tes Psikologi Online.</p> -->
+                                <!-- <p class="text-muted">7 bulan, HTML5/CSS3, .Net Framework, SQL Server, Integrasi LDAP dan SAP</p> -->
+                            </div>
+                        </div>
+                        
+                        <div class="portfolio-sec-system__item">
+                            <div class="portfolio-sec-system__img">
                                 <img src="/img/logo-sinarmasland.jpg" alt="PT. Sinarmas Land" class="img-responsive center-block">
                             </div>
                             <div class="portfolio-sec-system__content">
-                                <h2 class="portfolio-sec__title">Sinar Mas Land</h2>
+                                <h2 class="portfolio-sec__title">Sinar Mas Land; HRS Development</h2>
                                 <p>Pengembangan Sistem Rekrutmen dan Tes Psikologi Online.</p>
                                 <p class="text-muted">7 bulan, HTML5/CSS3, .Net Framework, SQL Server, Integrasi LDAP dan SAP</p>
                             </div>
                         </div>
 
-                        <div class="portfolio-sec-system__item">
-                            <div class="portfolio-sec-system__img">
-                                <img src="/img/logo-zuttoride.jpg" alt="Zuttoride Indonesia" class="img-responsive center-block">
-                            </div>
-                            <div class="portfolio-sec-system__content">
-                                <h2 class="portfolio-sec__title">Zuttoride Indonesia</h2>
-                                <p>Pengembangan sistem manajemen pelanggan ( WEB-CRM ) untuk perusahaan
-                                    layanan sepeda motor di Indonesia.</p>
-                                <p class="text-muted">3 bulan, PHP Framework, Payment Gateway, AWS</p>
-                            </div>
-                        </div>
 
                         <!-- HIDE SYS DEV -->
                         <div class="collapse" id="hideSysDev">
 
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop1" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item" style="align-items: flex-start">
+                                        <div class="portfolio-sec-system__img" style="display: flex; align-items: center">
+                                            <img src="/img/logo-zuttoride.jpg" alt="Zuttoride Indonesia" class="img-responsive center-block">
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <h2 class="portfolio-sec__title" style="line-height: 30px">ZuttoRide Indonesia; CRM DevOps</h2>
+                                            <p>Pengembangan sistem manajemen pelanggan ( WEB-CRM ) untuk perusahaan layanan sepeda motor di Indonesia.</p>
+                                            <p class="text-muted">3 bulan, PHP Framework, Payment Gateway, AWS</p>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Manajemen Poin Bermanfaat & Pengembangan Sistem E-Commerce.</p>
-                                    <p class="text-muted">6 bulan, AWS, Linux, MySQL, PHP Framework</p>
-                                </div>
-                                <!-- modal 1 -->
-                                <div id="pop1" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Manajemen Poin Bermanfaat & Pengembangan Sistem E-Commerce.
-                                                </h4>
-                                                <hr>
-                                                <p>Merupakan sistem berbasis web yang digunakan untuk
-                                                    menyelenggarakan
-                                                    program poin insentif bagi karyawan perusahaan client
-                                                    mereka. Sistem
-                                                    ini terdiri dari beberapa sub sistem yang terintegrasi,
-                                                    yaitu:
-                                                    sistem pemasok (supplier), sistem pengguna (users), dan
-                                                    admin
-                                                    penyedia jasa. <br><br>Pengembangan sistem ini memakan waktu
-                                                    selama
-                                                    6 bulan. Mengusung platform PHP dengan framework pilihan,
-                                                    database
-                                                    MySQL, dan hosting pada Linux server pada layanan cloud AWS,
-                                                    sistem
-                                                    ini terbukti telah mengakomodir kebutuhan bisnis program
-                                                    insentif
-                                                    point bagi karyawan perusahaan.<br><br> Agar menghasilkan
-                                                    sistem
-                                                    dengan performa dan stabilitas tinggi, kami melakukan
-                                                    pengembangan
-                                                    dengan pendekatan efisiensi pada layer aplikasi dan layer
-                                                    database.
-                                                    Kemudian pada sisi infrastruktur server, kami telah
-                                                    menerapkan
-                                                    arsitektur server modern dan memanfaatkan fitur autoscaling
-                                                    dan
-                                                    loadbalancing dari AWS. Dengan begitu, meskipun saat ini
-                                                    sudah
-                                                    mendapat lebih dari 10.000 pengguna aktif yang tersebar di 3
-                                                    sub
-                                                    sistem, performa sistem tetap stabil dan terjaga.</p>
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop1" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Manajemen Poin Bermanfaat & Pengembangan Sistem E-Commerce.</p>
+                                            <p class="text-muted">6 bulan, AWS, Linux, MySQL, PHP Framework</p>
+                                        </div>
+                                        <!-- modal 1 -->
+                                        <div id="pop1" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Manajemen Poin Bermanfaat & Pengembangan Sistem E-Commerce.
+                                                        </h4>
+                                                        <hr>
+                                                        <p>Merupakan sistem berbasis web yang digunakan untuk
+                                                            menyelenggarakan
+                                                            program poin insentif bagi karyawan perusahaan client
+                                                            mereka. Sistem
+                                                            ini terdiri dari beberapa sub sistem yang terintegrasi,
+                                                            yaitu:
+                                                            sistem pemasok (supplier), sistem pengguna (users), dan
+                                                            admin
+                                                            penyedia jasa. <br><br>Pengembangan sistem ini memakan waktu
+                                                            selama
+                                                            6 bulan. Mengusung platform PHP dengan framework pilihan,
+                                                            database
+                                                            MySQL, dan hosting pada Linux server pada layanan cloud AWS,
+                                                            sistem
+                                                            ini terbukti telah mengakomodir kebutuhan bisnis program
+                                                            insentif
+                                                            point bagi karyawan perusahaan.<br><br> Agar menghasilkan
+                                                            sistem
+                                                            dengan performa dan stabilitas tinggi, kami melakukan
+                                                            pengembangan
+                                                            dengan pendekatan efisiensi pada layer aplikasi dan layer
+                                                            database.
+                                                            Kemudian pada sisi infrastruktur server, kami telah
+                                                            menerapkan
+                                                            arsitektur server modern dan memanfaatkan fitur autoscaling
+                                                            dan
+                                                            loadbalancing dari AWS. Dengan begitu, meskipun saat ini
+                                                            sudah
+                                                            mendapat lebih dari 10.000 pengguna aktif yang tersebar di 3
+                                                            sub
+                                                            sistem, performa sistem tetap stabil dan terjaga.</p>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop2" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop2" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Pengembangan E-Commerce untuk Perusahaan MLM.</p>
+                                            <p class="text-muted">6 bulan, AWS, Linux, MySQL, PHP Framework</p>
+                                        </div>
+                                        <!-- modal 2 -->
+                                        <div id="pop2" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Pengembangan E-Commerce untuk Perusahaan MLM.</h4>
+                                                        <hr>
+                                                        <p>Sistem e-commerce MLM dengan teknologi berbasis web. Terdiri
+                                                            dari 3
+                                                            modul, yaitu: modul pengelolaan oleh admin, modul
+                                                            distributor, dan
+                                                            modul customer. Sistem ini sudah dilengkapi dengan fitur
+                                                            perhitungan
+                                                            ongkos kirim, perhitungan margin keuntungan distributor,
+                                                            manajemen
+                                                            saldo distributor dan user, pendaftaran online, uang
+                                                            elektronik
+                                                            (e-money), serta pembelian pulsa secara online. Dengan
+                                                            dukungan
+                                                            integrasi dengan layanan payment gateway, customer dapat
+                                                            melakukan
+                                                            transaksi dengan kartu kredit dan virtual account. Sistem
+                                                            ini
+                                                            tergolong cukup kompleks. Serangkaian proses pengembangan
+                                                            memakan
+                                                            waktu selama 6 bulan.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Pengembangan E-Commerce untuk Perusahaan MLM.</p>
-                                    <p class="text-muted">6 bulan, AWS, Linux, MySQL, PHP Framework</p>
-                                </div>
-                                <!-- modal 2 -->
-                                <div id="pop2" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Pengembangan E-Commerce untuk Perusahaan MLM.</h4>
-                                                <hr>
-                                                <p>Sistem e-commerce MLM dengan teknologi berbasis web. Terdiri
-                                                    dari 3
-                                                    modul, yaitu: modul pengelolaan oleh admin, modul
-                                                    distributor, dan
-                                                    modul customer. Sistem ini sudah dilengkapi dengan fitur
-                                                    perhitungan
-                                                    ongkos kirim, perhitungan margin keuntungan distributor,
-                                                    manajemen
-                                                    saldo distributor dan user, pendaftaran online, uang
-                                                    elektronik
-                                                    (e-money), serta pembelian pulsa secara online. Dengan
-                                                    dukungan
-                                                    integrasi dengan layanan payment gateway, customer dapat
-                                                    melakukan
-                                                    transaksi dengan kartu kredit dan virtual account. Sistem
-                                                    ini
-                                                    tergolong cukup kompleks. Serangkaian proses pengembangan
-                                                    memakan
-                                                    waktu selama 6 bulan.</p>
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop3" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Sistem Pengembangan Manajemen Lelang Kendaraan.</p>
+                                            <p class="text-muted">6 bulan, AWS, Linux, MySQL, PHP Framework, Node.js
+                                            </p>
+                                        </div>
+                                        <!-- modal 3 -->
+                                        <div id="pop3" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Sistem Pengembangan Manajemen Lelang Kendaraan.</h4>
+                                                        <hr>
+                                                        <p>Merupakan sistem lelang otomotif dengan tingkat kompleksitas
+                                                            tinggi.
+                                                            Terdiri dari sistem lelang online terintegrasi, sistem
+                                                            manajemen
+                                                            stok inventaris objek lelang, sistem keuangan, serta
+                                                            terintegrasi
+                                                            dengan sistem inspeksi kendaraan dan aplikasi bidding
+                                                            mobile. Sistem
+                                                            ini terintegrasi dengan core system dan sistem pendukung
+                                                            lainnya,
+                                                            sehingga customer dapat menikmati pengalaman mengikuti
+                                                            lelang secara
+                                                            realtime, baik melalui browser desktop maupun via mobile
+                                                            apps.<br><br>Sistem ini dikembangkan dengan platform PHP
+                                                            dengan
+                                                            framework pilihan, terintegrasi dengan teknologi node.js,
+                                                            serta
+                                                            menggunakan database MySQL. Dengan metode manajemen proyek
+                                                            yang
+                                                            efektif, kami berhasil mengembangkan aplikasi ini dalam
+                                                            waktu 6
+                                                            bulan. Performa sistem ini cukup kritikal. Dengan desain
+                                                            arsitektur
+                                                            aplikasi yang baik, serta rancangan arsitektur server
+                                                            tingkat
+                                                            lanjut, performa sistem ini terbilang sangat stabil,
+                                                            meskipun
+                                                            aktivitas user pada sistem ini sudah sangat aktif.</p>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop3" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop4" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Pengembangan Aplikasi Mobile (Android Penawaran Lelang).</p>
+                                            <p class="text-muted">2 bulan, Android, node.js, JAVA, AWS</p>
+                                        </div>
+                                        <!-- modal 4 -->
+                                        <div id="pop4" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Pengembangan Aplikasi Mobile (Android Penawaran Lelang).
+                                                        </h4>
+                                                        <hr>
+                                                        <p>Aplikasi berbasis android yang kami rancang untuk memudahkan
+                                                            customer
+                                                            dalam mengikuti lelang online secara realtime. Integrasi
+                                                            platform
+                                                            android dengan node.js, serta desain UI/UX yang baik,
+                                                            menghadirkan
+                                                            pengalaman seperti mengikuti lelang secara langsung di
+                                                            lokasi balai
+                                                            lelang. Dengan dukungan design API berperforma tinggi, dan
+                                                            hosting
+                                                            server berplatform Linux, serta arsitektur server yang telah
+                                                            mengadopsi fitur autoscaling dan loadbalancing dari AWS,
+                                                            maka
+                                                            performa aplikasi bidding ini tidak diragukan lagi.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Sistem Pengembangan Manajemen Lelang Kendaraan.</p>
-                                    <p class="text-muted">6 bulan, AWS, Linux, MySQL, PHP Framework, Node.js
-                                    </p>
-                                </div>
-                                <!-- modal 3 -->
-                                <div id="pop3" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Sistem Pengembangan Manajemen Lelang Kendaraan.</h4>
-                                                <hr>
-                                                <p>Merupakan sistem lelang otomotif dengan tingkat kompleksitas
-                                                    tinggi.
-                                                    Terdiri dari sistem lelang online terintegrasi, sistem
-                                                    manajemen
-                                                    stok inventaris objek lelang, sistem keuangan, serta
-                                                    terintegrasi
-                                                    dengan sistem inspeksi kendaraan dan aplikasi bidding
-                                                    mobile. Sistem
-                                                    ini terintegrasi dengan core system dan sistem pendukung
-                                                    lainnya,
-                                                    sehingga customer dapat menikmati pengalaman mengikuti
-                                                    lelang secara
-                                                    realtime, baik melalui browser desktop maupun via mobile
-                                                    apps.<br><br>Sistem ini dikembangkan dengan platform PHP
-                                                    dengan
-                                                    framework pilihan, terintegrasi dengan teknologi node.js,
-                                                    serta
-                                                    menggunakan database MySQL. Dengan metode manajemen proyek
-                                                    yang
-                                                    efektif, kami berhasil mengembangkan aplikasi ini dalam
-                                                    waktu 6
-                                                    bulan. Performa sistem ini cukup kritikal. Dengan desain
-                                                    arsitektur
-                                                    aplikasi yang baik, serta rancangan arsitektur server
-                                                    tingkat
-                                                    lanjut, performa sistem ini terbilang sangat stabil,
-                                                    meskipun
-                                                    aktivitas user pada sistem ini sudah sangat aktif.</p>
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop5" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</p>
+                                            <p class="text-muted">4 bulan, Android, node.js, JAVA, AWS</p>
+                                        </div>
+                                        <!-- modal 5 -->
+                                        <div id="pop5" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</h4>
+                                                        <hr>
+                                                        <p>Merupakan aplikasi berbasis android yang digunakan untuk
+                                                            kegiatan
+                                                            inspeksi kendaraan yang akan dilelangkan. Lebih dari 900
+                                                            part
+                                                            kendaraan telah diperiksa melalui aplikasi inspeksi ini.
+                                                            Dengan
+                                                            aplikasi ini, proses pemeriksaan dan pencatatan hasil
+                                                            inspeksi dapat
+                                                            dilakukan dengan sangat efisien. Hasil inspeksi langsung
+                                                            tersimpan
+                                                            ke dalam core system secara realtime. <br><br>Dengan design
+                                                            UI/UX
+                                                            yang baik, pengguna aplikasi ini dapat dengan mudah
+                                                            melakukan proses
+                                                            inspeksi, meskipun melibatkan sangat banyak part kendaraan.
+                                                            Dari
+                                                            sisi performa, aplikasi ini sangat stabil. Selain karena
+                                                            android API
+                                                            dirancang dengan pendekatan performa yang baik, sistem ini
+                                                            juga
+                                                            didukung oleh desain arsitektur server yang baik dan telah
+                                                            memanfaatkan fitur autoscaling dan loadbalancing dari AWS.
+                                                        </p>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop4" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop6" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Sistem CRM untuk Pelayanan Jalan Kendaraan Bermotor.</p>
+                                            <p class="text-muted">3 bulan, PHP Framework, Payment Gateway, AWS</p>
+                                        </div>
+                                        <!-- modal 6 -->
+                                        <div id="pop6" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Sistem CRM untuk Pelayanan Jalan Kendaraan Bermotor.</h4>
+                                                        <hr>
+                                                        <p>Merupakan sistem CRM untuk asuransi motor. Dengan sistem ini,
+                                                            tim
+                                                            admin dapat dengan mudah mengelola data customer, mengelola
+                                                            perpanjangan periode asuransi, mengelola pembayaran polis,
+                                                            mengelola
+                                                            dealer partner, mengelola harga polis, serta mengelola data
+                                                            klaim
+                                                            asuransi dari customer. Sementara bagi customer, sistem ini
+                                                            memberikan kemudahan dalam hal permintaan perpanjangan
+                                                            asuransi,
+                                                            serta perencanaan asuransi dengan melakukan simulasi harga
+                                                            premi
+                                                            berdasarkan harga kendaraan.<br><br>Sistem ini dibangun
+                                                            dengan
+                                                            teknologi PHP dengan platform pilihan, HTML-CSS3,
+                                                            Javascript,
+                                                            JQuery/Ajax, serta database MySQL. Sistem ini sudah
+                                                            terintegrasi
+                                                            dengan layanan payment gateway dari penyedia layanan
+                                                            terkemuka,
+                                                            sehingga memudahkan customer dalam bertransaksi dengan
+                                                            menggunakan
+                                                            kartu kredit dan uang elektronik.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Pengembangan Aplikasi Mobile (Android Penawaran Lelang).</p>
-                                    <p class="text-muted">2 bulan, Android, node.js, JAVA, AWS</p>
-                                </div>
-                                <!-- modal 4 -->
-                                <div id="pop4" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Pengembangan Aplikasi Mobile (Android Penawaran Lelang).
-                                                </h4>
-                                                <hr>
-                                                <p>Aplikasi berbasis android yang kami rancang untuk memudahkan
-                                                    customer
-                                                    dalam mengikuti lelang online secara realtime. Integrasi
-                                                    platform
-                                                    android dengan node.js, serta desain UI/UX yang baik,
-                                                    menghadirkan
-                                                    pengalaman seperti mengikuti lelang secara langsung di
-                                                    lokasi balai
-                                                    lelang. Dengan dukungan design API berperforma tinggi, dan
-                                                    hosting
-                                                    server berplatform Linux, serta arsitektur server yang telah
-                                                    mengadopsi fitur autoscaling dan loadbalancing dari AWS,
-                                                    maka
-                                                    performa aplikasi bidding ini tidak diragukan lagi.</p>
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop7" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Sistem CRM untuk Pembeli Lelang.</p>
+                                            <p class="text-muted">2 bulan, PHP Framework, MySQL, AWS</p>
+                                        </div>
+                                        <!-- modal 7 -->
+                                        <div id="pop7" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Sistem CRM untuk Pembeli Lelang.</h4>
+                                                        <hr>
+                                                        <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana
+                                                            customer dapat melakukan pengecekan tagihan, mendapatkan
+                                                            informasi
+                                                            penting seperti riwayat keikursertaan lelang, serta
+                                                            mengelola point
+                                                            reward yang mereka dapatkan dari transaksi pembelian yang
+                                                            telah
+                                                            dilakukan. Sistem ini dikembangkan dengan platform PHP
+                                                            dengan
+                                                            framework pilihan, serta menggunakan database MySQL.
+                                                            Customer bisa
+                                                            mendapatkan informasi yang dibutuhkan secara realtime,
+                                                            karena sistem
+                                                            ini terkoneksi dengan core system melalui secured-API.</p>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop5" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop8" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah.</p>
+                                            <p class="text-muted">2.5 bulan, JQuery, HTML5, PHP Framework, MySQL</p>
+                                        </div>
+                                        <!-- modal 8 -->
+                                        <div id="pop8" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit
+                                                            Majalah.
+                                                        </h4>
+                                                        <hr>
+                                                        <p>Merupakan sistem layout management berbasis web yang
+                                                            digunakan untuk
+                                                            mengatur tata letak kolom iklan untuk media cetak. dari
+                                                            publisher
+                                                            terkemuka asal Jepang. Dengan dukungan desain UI/UX yang
+                                                            baik,
+                                                            aplikasi web ini sangat mudah digunakan (user-friendly).
+                                                            Dengan
+                                                            fitur drag-and-drop, user dapat mengatur tata letak iklan
+                                                            sesuai
+                                                            keinginan. Sistem ini juga memiliki fitur export dan import
+                                                            pengaturan tata letak dalam bentuk file csv. Sistem ini
+                                                            dikembangkan
+                                                            dengan teknologi PHP dengan framework pilihan, JQuery, serta
+                                                            HTML5-CSS3. Proses pengembagan aplikasi web ini membutuhkan
+                                                            waktu 3
+                                                            bulan.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</p>
-                                    <p class="text-muted">4 bulan, Android, node.js, JAVA, AWS</p>
-                                </div>
-                                <!-- modal 5 -->
-                                <div id="pop5" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</h4>
-                                                <hr>
-                                                <p>Merupakan aplikasi berbasis android yang digunakan untuk
-                                                    kegiatan
-                                                    inspeksi kendaraan yang akan dilelangkan. Lebih dari 900
-                                                    part
-                                                    kendaraan telah diperiksa melalui aplikasi inspeksi ini.
-                                                    Dengan
-                                                    aplikasi ini, proses pemeriksaan dan pencatatan hasil
-                                                    inspeksi dapat
-                                                    dilakukan dengan sangat efisien. Hasil inspeksi langsung
-                                                    tersimpan
-                                                    ke dalam core system secara realtime. <br><br>Dengan design
-                                                    UI/UX
-                                                    yang baik, pengguna aplikasi ini dapat dengan mudah
-                                                    melakukan proses
-                                                    inspeksi, meskipun melibatkan sangat banyak part kendaraan.
-                                                    Dari
-                                                    sisi performa, aplikasi ini sangat stabil. Selain karena
-                                                    android API
-                                                    dirancang dengan pendekatan performa yang baik, sistem ini
-                                                    juga
-                                                    didukung oleh desain arsitektur server yang baik dan telah
-                                                    memanfaatkan fitur autoscaling dan loadbalancing dari AWS.
-                                                </p>
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop9" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</p>
+                                            <p class="text-muted">2.5 bulan, JQuery, HTML5, PHP Framework, MySQL</p>
+                                        </div>
+                                        <!-- modal 9 -->
+                                        <div id="pop9" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</h4>
+                                                        <hr>
+                                                        <p>Merupakan sistem marketplace mobil yang digunakan oleh banyak
+                                                            dealer
+                                                            mobil bekas baik di Jakarta maupun luar Jakarta. Sistem ini
+                                                            dikembangkan dengan teknologi PHP dengan framework pilihan
+                                                            dan
+                                                            berjalan pada platform Linux pada AWS server. Proses
+                                                            pengembangan
+                                                            aplikasi marketplace berbasis web ini membutuhkan waktu
+                                                            selama 3
+                                                            bulan.<br><br>Respon pengguna layanan ini terus meningkat
+                                                            dari waktu
+                                                            ke waktu. Saat ini sistem ini sudah melayani lebih dari
+                                                            30.000
+                                                            pengunjung setiap harinya. Meskipun traffic-nya cukup padat,
+                                                            sistem
+                                                            ini masih sangat stabil. Selain teknologi berbasis web,
+                                                            sistem ini
+                                                            juga terintegrasi dengan mobile apps berbasis Android
+                                                            (Native) dan
+                                                            IOS (Swift).</p>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop6" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop10" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Pengembangan Sistem Peta Digital.</p>
+                                            <p class="text-muted">3 bulan, PHP Framework, MySQL, Google map API, Java
+                                                Script</p>
+                                        </div>
+                                        <!-- modal 10 -->
+                                        <div id="pop10" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Pengembangan sistem peta digital.</h4>
+                                                        <hr>
+                                                        <p>Pengembangan sistem peta digital. Sistem yang digunakan untuk
+                                                            pemetaan kemajuan suatu proyek yang dilaksanakan di
+                                                            negara-negara
+                                                            ASEAN. Sistem ini dikembangkan dengan teknologi PHP dengan
+                                                            framework
+                                                            pilihan, Google Maps API, HTML5-CSS3, serta database MySQL.
+                                                            Proses
+                                                            pengembangan sistem ini membutuhkan waktu selama 3 bulan.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Sistem CRM untuk Pelayanan Jalan Kendaraan Bermotor.</p>
-                                    <p class="text-muted">3 bulan, PHP Framework, Payment Gateway, AWS</p>
-                                </div>
-                                <!-- modal 6 -->
-                                <div id="pop6" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Sistem CRM untuk Pelayanan Jalan Kendaraan Bermotor.</h4>
-                                                <hr>
-                                                <p>Merupakan sistem CRM untuk asuransi motor. Dengan sistem ini,
-                                                    tim
-                                                    admin dapat dengan mudah mengelola data customer, mengelola
-                                                    perpanjangan periode asuransi, mengelola pembayaran polis,
-                                                    mengelola
-                                                    dealer partner, mengelola harga polis, serta mengelola data
-                                                    klaim
-                                                    asuransi dari customer. Sementara bagi customer, sistem ini
-                                                    memberikan kemudahan dalam hal permintaan perpanjangan
-                                                    asuransi,
-                                                    serta perencanaan asuransi dengan melakukan simulasi harga
-                                                    premi
-                                                    berdasarkan harga kendaraan.<br><br>Sistem ini dibangun
-                                                    dengan
-                                                    teknologi PHP dengan platform pilihan, HTML-CSS3,
-                                                    Javascript,
-                                                    JQuery/Ajax, serta database MySQL. Sistem ini sudah
-                                                    terintegrasi
-                                                    dengan layanan payment gateway dari penyedia layanan
-                                                    terkemuka,
-                                                    sehingga memudahkan customer dalam bertransaksi dengan
-                                                    menggunakan
-                                                    kartu kredit dan uang elektronik.</p>
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop11" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Pengembangan Sistem Lelang C2C.</p>
+                                            <p class="text-muted">2 bulan, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3
+                                            </p>
+                                        </div>
+                                        <!-- modal 11 -->
+                                        <div id="pop11" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Pengembangan sistem lelang C2C.</h4>
+                                                        <hr>
+                                                        <p>Merupakan sistem lelang C2C. Terdapat sekitar 2.000 kendaraan
+                                                            yang
+                                                            dilelangkan dan terbagi dalam 4 lelang, dan diikuti sekitar
+                                                            300 user
+                                                            setiap bulannya. Sistem ini dikembangkan dengan teknologi
+                                                            PHP dengan
+                                                            framework pilihan, JQuery / Ajax, HTML5-CSS3, serta database
+                                                            MySQL.
+                                                            Pengembangan sistem ini membutuhkan waktu selama 2 bulan.
+                                                        </p>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop7" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop12" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Pengembangan Sistem Web CMS Untuk Organisasi Publik.</p>
+                                            <p class="text-muted">2 bulan, PHP Framework, MySQL</p>
+                                        </div>
+                                        <!-- modal 12 -->
+                                        <div id="pop12" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Pengembangan sistem web CMS untuk organisasi publik.</h4>
+                                                        <hr>
+                                                        <p>Sistem web CMS untuk organisasi publik: sistem ini
+                                                            dikembangkan untuk
+                                                            mengelola konten website organisasi publik. Dengan sistem
+                                                            ini
+                                                            seorang admin web dapat dengan mudah mengelola konten
+                                                            website
+                                                            tersebut. Sistem web CMS ini dikembangkan dengan teknologi
+                                                            PHP
+                                                            dengan framework pilihan, HTML5-CSS3, javascript, JQuery,
+                                                            dan
+                                                            database MySQL. Proses pengembangan web CMS ini membutuhkan
+                                                            waktu
+                                                            selama 2 bulan.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Sistem CRM untuk Pembeli Lelang.</p>
-                                    <p class="text-muted">2 bulan, PHP Framework, MySQL, AWS</p>
-                                </div>
-                                <!-- modal 7 -->
-                                <div id="pop7" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Sistem CRM untuk Pembeli Lelang.</h4>
-                                                <hr>
-                                                <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana
-                                                    customer dapat melakukan pengecekan tagihan, mendapatkan
-                                                    informasi
-                                                    penting seperti riwayat keikursertaan lelang, serta
-                                                    mengelola point
-                                                    reward yang mereka dapatkan dari transaksi pembelian yang
-                                                    telah
-                                                    dilakukan. Sistem ini dikembangkan dengan platform PHP
-                                                    dengan
-                                                    framework pilihan, serta menggunakan database MySQL.
-                                                    Customer bisa
-                                                    mendapatkan informasi yang dibutuhkan secara realtime,
-                                                    karena sistem
-                                                    ini terkoneksi dengan core system melalui secured-API.</p>
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop13" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Pengembangan web CMS untuk e-book commerce.</p>
+                                            <p class="text-muted">2 bulan, PHP Framework, HTML5/CSS3,MySQL</p>
+                                        </div>
+                                        <!-- modal 13 -->
+                                        <div id="pop13" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Pengembangan web CMS untuk e-book commerce.</h4>
+                                                        <hr>
+                                                        <p>Merupakan sistem CMS yang digunakan oleh sebuah distributor
+                                                            buku asal
+                                                            Jepang. Sistem ini dikembangkan dengan teknologi PHP dengan
+                                                            framework pilihan, HTML5-CSS3, serta database MySQL. Dengan
+                                                            web CMS
+                                                            ini, administrator website dapat dengan mudah mengelola
+                                                            konten
+                                                            website perusahaan. Pengembangan web CMS ini memerlukan
+                                                            waktu selama
+                                                            2 bulan.</p>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop8" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop14" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Sistem Portal Lowongan Pekerjaan.</p>
+                                            <p class="text-muted">2 bulan, PHP Framework, MySQL</p>
+                                        </div>
+                                        <!-- modal 14 -->
+                                        <div id="pop14" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Sistem Portal Lowongan Pekerjaan.</h4>
+                                                        <hr>
+                                                        <p>Merupakan sistem portal lowongan pekerjaan yang dibangun
+                                                            dengan
+                                                            teknologi PHP, HTML5-CSS3, serta database MySQL. Portal
+                                                            lowongan
+                                                            pekerjaan ini dihosting di Linux server AWS. Perusahaan bisa
+                                                            mencari
+                                                            dan menemukan pencari kerja dan pencari kerja dapat melihat
+                                                            pekerjaan kosong dan terbuka di situs web. Calon bisa
+                                                            mengajukan CV
+                                                            untuk posisi secara langsung. Persentase pengguna layanan
+                                                            ini adalah
+                                                            mayoritas perusahaan Jepang yang ada di Indonesia.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah.</p>
-                                    <p class="text-muted">2.5 bulan, JQuery, HTML5, PHP Framework, MySQL</p>
-                                </div>
-                                <!-- modal 8 -->
-                                <div id="pop8" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit
-                                                    Majalah.
-                                                </h4>
-                                                <hr>
-                                                <p>Merupakan sistem layout management berbasis web yang
-                                                    digunakan untuk
-                                                    mengatur tata letak kolom iklan untuk media cetak. dari
-                                                    publisher
-                                                    terkemuka asal Jepang. Dengan dukungan desain UI/UX yang
-                                                    baik,
-                                                    aplikasi web ini sangat mudah digunakan (user-friendly).
-                                                    Dengan
-                                                    fitur drag-and-drop, user dapat mengatur tata letak iklan
-                                                    sesuai
-                                                    keinginan. Sistem ini juga memiliki fitur export dan import
-                                                    pengaturan tata letak dalam bentuk file csv. Sistem ini
-                                                    dikembangkan
-                                                    dengan teknologi PHP dengan framework pilihan, JQuery, serta
-                                                    HTML5-CSS3. Proses pengembagan aplikasi web ini membutuhkan
-                                                    waktu 3
-                                                    bulan.</p>
+                                <div class="col-lg-6">
+                                    <div class="portfolio-sec-system__item">
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop15" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio-sec-system__content">
+                                            <p>Web Dengan Sistem Rekrutmen.</p>
+                                            <p class="text-muted">3 bulan, PHP Framework, HTML5/CSS3,MySQL</p>
+                                        </div>
+                                        <!-- modal 15 -->
+                                        <div id="pop15" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4>Web Dengan Sistem Rekrutmen.</h4>
+                                                        <hr>
+                                                        <p>Merupakan corporate website yang dilengkapi dengan sistem
+                                                            rekrutmen.
+                                                            Para pencari kerja yang berminat bekerja di perusahan ini
+                                                            dapat
+                                                            melamar langsung melalui website. Dengan tingkat keamanan
+                                                            yang
+                                                            tinggi, kerahasiaan data para pelamar lebih terjamin. Sistem
+                                                            ini
+                                                            dibangun dengan teknologi PHP, dan menggunakan framework
+                                                            pilihan,
+                                                            HTML5-CSS3, serta database Ms. SQL Server. Proses
+                                                            pengembangan
+                                                            membutuhkan waktu 3 bulan.</p>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop9" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
-                                </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</p>
-                                    <p class="text-muted">2.5 bulan, JQuery, HTML5, PHP Framework, MySQL</p>
-                                </div>
-                                <!-- modal 9 -->
-                                <div id="pop9" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</h4>
-                                                <hr>
-                                                <p>Merupakan sistem marketplace mobil yang digunakan oleh banyak
-                                                    dealer
-                                                    mobil bekas baik di Jakarta maupun luar Jakarta. Sistem ini
-                                                    dikembangkan dengan teknologi PHP dengan framework pilihan
-                                                    dan
-                                                    berjalan pada platform Linux pada AWS server. Proses
-                                                    pengembangan
-                                                    aplikasi marketplace berbasis web ini membutuhkan waktu
-                                                    selama 3
-                                                    bulan.<br><br>Respon pengguna layanan ini terus meningkat
-                                                    dari waktu
-                                                    ke waktu. Saat ini sistem ini sudah melayani lebih dari
-                                                    30.000
-                                                    pengunjung setiap harinya. Meskipun traffic-nya cukup padat,
-                                                    sistem
-                                                    ini masih sangat stabil. Selain teknologi berbasis web,
-                                                    sistem ini
-                                                    juga terintegrasi dengan mobile apps berbasis Android
-                                                    (Native) dan
-                                                    IOS (Swift).</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop10" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
-                                </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Pengembangan Sistem Peta Digital.</p>
-                                    <p class="text-muted">3 bulan, PHP Framework, MySQL, Google map API, Java
-                                        Script</p>
-                                </div>
-                                <!-- modal 10 -->
-                                <div id="pop10" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Pengembangan sistem peta digital.</h4>
-                                                <hr>
-                                                <p>Pengembangan sistem peta digital. Sistem yang digunakan untuk
-                                                    pemetaan kemajuan suatu proyek yang dilaksanakan di
-                                                    negara-negara
-                                                    ASEAN. Sistem ini dikembangkan dengan teknologi PHP dengan
-                                                    framework
-                                                    pilihan, Google Maps API, HTML5-CSS3, serta database MySQL.
-                                                    Proses
-                                                    pengembangan sistem ini membutuhkan waktu selama 3 bulan.
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop11" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
-                                </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Pengembangan Sistem Lelang C2C.</p>
-                                    <p class="text-muted">2 bulan, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3
-                                    </p>
-                                </div>
-                                <!-- modal 11 -->
-                                <div id="pop11" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Pengembangan sistem lelang C2C.</h4>
-                                                <hr>
-                                                <p>Merupakan sistem lelang C2C. Terdapat sekitar 2.000 kendaraan
-                                                    yang
-                                                    dilelangkan dan terbagi dalam 4 lelang, dan diikuti sekitar
-                                                    300 user
-                                                    setiap bulannya. Sistem ini dikembangkan dengan teknologi
-                                                    PHP dengan
-                                                    framework pilihan, JQuery / Ajax, HTML5-CSS3, serta database
-                                                    MySQL.
-                                                    Pengembangan sistem ini membutuhkan waktu selama 2 bulan.
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop12" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
-                                </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Pengembangan Sistem Web CMS Untuk Organisasi Publik.</p>
-                                    <p class="text-muted">2 bulan, PHP Framework, MySQL</p>
-                                </div>
-                                <!-- modal 12 -->
-                                <div id="pop12" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Pengembangan sistem web CMS untuk organisasi publik.</h4>
-                                                <hr>
-                                                <p>Sistem web CMS untuk organisasi publik: sistem ini
-                                                    dikembangkan untuk
-                                                    mengelola konten website organisasi publik. Dengan sistem
-                                                    ini
-                                                    seorang admin web dapat dengan mudah mengelola konten
-                                                    website
-                                                    tersebut. Sistem web CMS ini dikembangkan dengan teknologi
-                                                    PHP
-                                                    dengan framework pilihan, HTML5-CSS3, javascript, JQuery,
-                                                    dan
-                                                    database MySQL. Proses pengembangan web CMS ini membutuhkan
-                                                    waktu
-                                                    selama 2 bulan.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop13" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
-                                </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Pengembangan web CMS untuk e-book commerce.</p>
-                                    <p class="text-muted">2 bulan, PHP Framework, HTML5/CSS3,MySQL</p>
-                                </div>
-                                <!-- modal 13 -->
-                                <div id="pop13" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Pengembangan web CMS untuk e-book commerce.</h4>
-                                                <hr>
-                                                <p>Merupakan sistem CMS yang digunakan oleh sebuah distributor
-                                                    buku asal
-                                                    Jepang. Sistem ini dikembangkan dengan teknologi PHP dengan
-                                                    framework pilihan, HTML5-CSS3, serta database MySQL. Dengan
-                                                    web CMS
-                                                    ini, administrator website dapat dengan mudah mengelola
-                                                    konten
-                                                    website perusahaan. Pengembangan web CMS ini memerlukan
-                                                    waktu selama
-                                                    2 bulan.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop14" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
-                                </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Sistem Portal Lowongan Pekerjaan.</p>
-                                    <p class="text-muted">2 bulan, PHP Framework, MySQL</p>
-                                </div>
-                                <!-- modal 14 -->
-                                <div id="pop14" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Sistem Portal Lowongan Pekerjaan.</h4>
-                                                <hr>
-                                                <p>Merupakan sistem portal lowongan pekerjaan yang dibangun
-                                                    dengan
-                                                    teknologi PHP, HTML5-CSS3, serta database MySQL. Portal
-                                                    lowongan
-                                                    pekerjaan ini dihosting di Linux server AWS. Perusahaan bisa
-                                                    mencari
-                                                    dan menemukan pencari kerja dan pencari kerja dapat melihat
-                                                    pekerjaan kosong dan terbuka di situs web. Calon bisa
-                                                    mengajukan CV
-                                                    untuk posisi secara langsung. Persentase pengguna layanan
-                                                    ini adalah
-                                                    mayoritas perusahaan Jepang yang ada di Indonesia.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="portfolio-sec-system__item">
-                                <div class="portfolio-sec-system__see-details">
-                                    <a data-toggle="modal" data-target="#pop15" href="#">
-                                        <h3>View Details</h3>
-                                        <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                    </a>
-                                </div>
-                                <div class="portfolio-sec-system__content">
-                                    <p>Web Dengan Sistem Rekrutmen.</p>
-                                    <p class="text-muted">3 bulan, PHP Framework, HTML5/CSS3,MySQL</p>
-                                </div>
-                                <!-- modal 15 -->
-                                <div id="pop15" class="modal fade" role="dialog">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>Web Dengan Sistem Rekrutmen.</h4>
-                                                <hr>
-                                                <p>Merupakan corporate website yang dilengkapi dengan sistem
-                                                    rekrutmen.
-                                                    Para pencari kerja yang berminat bekerja di perusahan ini
-                                                    dapat
-                                                    melamar langsung melalui website. Dengan tingkat keamanan
-                                                    yang
-                                                    tinggi, kerahasiaan data para pelamar lebih terjamin. Sistem
-                                                    ini
-                                                    dibangun dengan teknologi PHP, dan menggunakan framework
-                                                    pilihan,
-                                                    HTML5-CSS3, serta database Ms. SQL Server. Proses
-                                                    pengembangan
-                                                    membutuhkan waktu 3 bulan.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                             <!-- END HIDE SYS DEV -->
 
                         </div>
@@ -1837,7 +1886,7 @@
             <section id="PWA">
                 <div class="container__">
                     <div class="portfolio-sec__head">
-                        <h3 class="portfolio-sec__title">Portofolio Mobile App / PWA</h3>
+                        <h3 class="portfolio-sec__title">Mobile App / PWA</h3>
                         <a href="#portfolioNavigation" class="portfolio-sec__back">
                             <small>[Back to Top]</small>
                         </a>
@@ -2382,13 +2431,10 @@
 
             <div class="container__">
                 <div class="text-center our-portfolio">
-                    <p class="title__description" style="margin-bottom: 15px; margin-top: 25px;">Hubungi kami
-                        untuk melihat
-                        portofolio dan karya kami seputar pembuatan, pengelolaan, dan pengoperasian website.
-                        Silakan menghubungi kami dari sini:</p>
+                    <p class="title__description" style="margin-bottom: 15px; margin-top: 25px;">Anda tertarik terhadap layanan kami dan memiliki kebutuhan pembuatan website, aplikasi berbasis web, mobile app, penetration test, atau digital marketing?</p>
                     <a href="hubungi-kami.php" class="btn btn-contact-us-black"
                         onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
-                        Hubungi LOGIQUE terkait portofolio pembuatan Website
+                        Hubungi LOGIQUE Sekarang
                     </a>
                 </div>
             </div>
