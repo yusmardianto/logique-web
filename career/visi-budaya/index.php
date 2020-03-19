@@ -111,30 +111,24 @@
             <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
               <h1 class="header__title">Visi & Budaya Kerja LOGIQUE</h1>
               <p>
-                Di LOGIQUE, kami mempunyai visi dan budaya kerja yang unik dan berbeda dibandingkan dengan perusahaan
-                sejenis lainnya. Kenali visi dan budaya kerja kami.
+              Di LOGIQUE, kami mempunyai visi dan budaya kerja yang unik dan berbeda dari perusahaan web developer sejenis lainnya. Kenali visi dan budaya yang kami miliki dengan bekerja dan berkembang bersama LOGIQUE di dunia developer yang modern dan ideal.
               </p>
             </div>
           </div>
         </div>
       </section>
 
-      <section class="mb--60">
-        <div class="row">
-          <div class="col-sm-12">
-            <div class="container--max-width bg-hanged-banner">
-              <div class="row">
-                <div class="col-sm-offset-1 col-sm-10">
-                  <div class="our-vision text-center">
-                    <div class="btn-3d-stick-out">Visi Kami</div>
-                    <div class="">
-                      <p>
-                        Mempunyai cara kerja yang modern, efektif, efisien yang mementingkan rasa kemanusiaan demi
-                        terwujudnya hubungan yang baik dan saling menguntungkan antara kami dengan karyawan serta para
-                        klien
-                        dan mitra kerja.
-                      </p>
-                    </div>
+      <section class="">
+        <div class="container--max-width bg-hanged-banner">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-sm-offset-1 col-md-offset-2 col-sm-10 col-md-8">
+                <div class="our-vision text-center">
+                  <div class="btn-3d-stick-out">Kebijakan & Visi Rekrutmen</div>
+                  <div class="">
+                    <p>
+                    Menjadi perusahaan dan tempat bekerja yang terbaik bagi semua Web Developer dan para pekerja di bidang IT.
+                    </p>
                   </div>
                 </div>
               </div>
@@ -144,6 +138,17 @@
       </section>
 
       <section class="container-fluid">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-md-offset-2 col-sm-10 col-md-8 text-center">
+              <p>Aturan dan kebiasaan terkait ketenagakerjaan atau HR yang sudah ada di Indonesia sebagian kurang sesuai dengan cara kerja modern dan hubungan antara karyawan dan perusahaan yang diperlukan saat ini. Kondisi seperti ini tidak baik untuk hubungan antara karyawan dan perusahaan dan kami tidak bisa bertahan dengan cara yang seperti itu. LOGIQUE memikirkan segala sesuatu secara logis dari awal, tidak terikat oleh kebiasaan lama yang tidak memiliki makna. 
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- <section class="container-fluid">
         <div class="container--max-width" style="padding-top: 0;padding-bottom: 60px;">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -176,6 +181,111 @@
                   </div>
                 </div>
               </div>
+            </div>
+          </div>
+        </div>
+      </section> -->
+
+      <section class="container-fluid bg--vision-mission mb--60">
+        <div class="container--max-width">
+          <div class="col-sm-offset-1 col-md-offset-2 col-sm-10 col-md-8">
+
+            <div class="text-center">
+            Bagi LOGIQUE, karyawan adalah aset yang sangat penting. Untuk itu kami selalu berusaha memberikan yang terbaik bagi setiap karyawan dengan:
+            </div>
+
+            <div class="row visi-misi">
+              <div class="col-sm-6 visi-misi__poin">
+                <img src="/img/career/icon/man.png" alt="Pegawai Tetap">
+                <div>Memberikan status pegawai tetap untuk karyawan yang bekerja di LOGIQUE.</div>
+              </div>
+              <div class="col-sm-6 visi-misi__poin">
+                <img src="/img/career/icon/values.png" alt="Banyak Kesempatan Karir">
+                <div>Memberikan banyak kesempatan untuk pengembangan diri dan karir.</div>
+              </div>
+              <div class="clearfix hidden-sm"></div>
+              <div class="col-sm-6 visi-misi__poin">
+                <img src="/img/career/icon/business-class.png" alt="Lingkingan Kerja Baik">
+                <div>Menyediakan lingkungan kerja dan memberikan perlakuan kerja yang baik terhadap setiap karyawan.</div>
+              </div>
+              <div class="col-sm-6 visi-misi__poin">
+                <img src="/img/career/icon/hiring.png" alt="Aturan HR Fleksibel">
+                <div>Membuat aturan HR yang lebih fleksibel sehingga memaksimalkan perkembangan dan hubungan dengan karyawan.</div>
+              </div>
+            </div>
+
+            <div class="text-center">
+              LOGIQUE selalu berusaha melakukan semua yang terbaik bagi karyawan dan berharap setiap karyawan dapat memberikan kemampuan dan kontribusi terbaik mereka bagi perusahaan. Kami dengan tulus hati ingin membangun hubungan yang baik dan memberikan nilai manfaat yang tinggi bagi satu sama lain untuk waktu yang lama.
+            </div>
+
+          </div>
+        </div>
+      </section>
+
+      <section class="container-fluid">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-md-offset-2 col-sm-10 col-md-8 text-center">
+              <h2 class="section-title">Hubungan antara Pekerja dan Perusahaan</h2>
+
+              <p class="mb--40">Hubungan (pekerjaan) yang baik tidak akan bertahan lama jika kita tidak mempunyai hubungan yang saling menguntungkan atau hanya menguntungkan satu pihak saja. Jika Anda masih memikirkan diri sendiri dan hanya ingin mengembangkan diri sendiri, kami tidak akan bisa bekerja sama dengan Anda</p>
+
+              <p class="mb--40">Untuk itu, kami ingin Anda memahami konsep kami yaitu: <br>
+              <span class="section-title" style="font-size: 20px">“Give and Take”</span> <i><b>(terima - memberi)</b></i>.
+              </p>
+
+              <div class="mb--40 text-center">
+                <img src="/img/career/bg-img/give-take.png" alt="Pegawai Tetap">
+              </div>
+
+              <div class="visi-misi__explain">
+                <p class="mb--40">
+                  <!-- <span>Memiliki keinginan kuat untuk membantu dan berkolaborasi antar rekan kerja atau tim,</span> -->
+                  
+                  <!-- <span>Memiliki keinginan kuat untuk membantu dan </span>
+                  <span>berkolaborasi antar rekan kerja atau tim,</span> -->
+
+                  <span>Memiliki keinginan kuat untuk</span>
+                  <span>membantu dan berkolaborasi antar </span>
+                  <span>rekan kerja atau tim,</span>
+                  
+                  dan LOGIQUE dengan senang hati menerima Anda untuk bekerja sama tanpa melihat latar belakang, pendidikan, ras, jenis kelamin maupun, tempat tinggal.</p>
+
+                <p class="mb--40">Kami tidak menginginkan karyawan yang hanya memikirkan tentang apa yang akan mereka dapat dari LOGIQUE, melainkan 
+                  
+                <!-- <span>yang ingin berusaha melakukan yang terbaik untuk LOGIQUE.</span>  -->
+
+                <!-- <span>yang ingin berusaha melakukan</span> 
+                <span>yang terbaik untuk LOGIQUE.</span>  -->
+                
+                <span>yang ingin berusaha</span>
+                <span>melakukan yang terbaik untuk LOGIQUE.</span>
+                
+                Dan tentu saja LOGIQUE akan memberikan apresiasi dan keuntungan bagi mereka.</p>
+
+                <p class="mb--40">Kami dengan 
+                  
+                <!-- <span>tegas menolak orang yang senang mendiskriminasi orang lain,</span>  -->
+
+                <span>tegas menolak orang</span> 
+                <span>yang senang mendiskriminasi orang lain,</span> 
+                
+                yang tidak bisa bertoleransi pada perbedaan agama dan pendapat, yang mementingkan kepentingannya sendiri, yang tidak mampu dan tidak mau berkembang dengan berbagai macam alasan.</p>
+
+                <p class="mb--60">Kami percaya 
+                  
+                <!-- <span>LOGIQUE adalah tempat yang amat sangat tepat untuk mereka yang berpikir rasional dan logis,</span>  -->
+
+                <!-- <span>LOGIQUE adalah tempat yang amat sangat tepat</span>
+                <span> untuk mereka yang berpikir rasional dan logis,</span>  -->
+                
+                <span>LOGIQUE adalah tempat</span>
+                <span>yang amat sangat tepat untuk mereka</span>
+                <span> yang berpikir rasional dan logis,</span> 
+                
+                yang selalu ingin berkembang dan tidak takut untuk menghadapi perubahan. Jika Anda adalah orang tersebut, mari bertemu dan berdiskusi dengan kami.</p>
+              </div>
+              
             </div>
           </div>
         </div>
