@@ -228,18 +228,18 @@
             <div class="col-sm-offset-1 col-md-offset-2 col-sm-10 col-md-8 text-center">
               <h2 class="section-title">Hubungan antara Pekerja dan Perusahaan</h2>
 
-              <p class="mb--20">Hubungan (pekerjaan) yang baik tidak akan bertahan lama jika kita tidak mempunyai hubungan yang saling menguntungkan atau hanya menguntungkan satu pihak saja. Jika Anda masih memikirkan diri sendiri dan hanya ingin mengembangkan diri sendiri, kami tidak akan bisa bekerja sama dengan Anda</p>
+              <p class="mb--40">Hubungan (pekerjaan) yang baik tidak akan bertahan lama jika kita tidak mempunyai hubungan yang saling menguntungkan atau hanya menguntungkan satu pihak saja. Jika Anda masih memikirkan diri sendiri dan hanya ingin mengembangkan diri sendiri, kami tidak akan bisa bekerja sama dengan Anda</p>
 
-              <p class="mb--20">Untuk itu, kami ingin Anda memahami konsep kami yaitu: <br>
+              <p class="mb--40">Untuk itu, kami ingin Anda memahami konsep kami yaitu: <br>
               <span class="section-title" style="font-size: 20px">“Give and Take”</span> <i><b>(terima - memberi)</b></i>.
               </p>
 
-              <div class="mb--20 text-center">
+              <div class="mb--40 text-center">
                 <img src="/img/career/bg-img/give-take.png" alt="Pegawai Tetap">
               </div>
 
               <div class="visi-misi__explain">
-                <p class="mb--40">
+                <p class="mb--20">
                   <!-- <span>Memiliki keinginan kuat untuk membantu dan berkolaborasi antar rekan kerja atau tim,</span> -->
                   
                   <!-- <span>Memiliki keinginan kuat untuk membantu dan </span>
@@ -251,7 +251,7 @@
                   
                   dan LOGIQUE dengan senang hati menerima Anda untuk bekerja sama tanpa melihat latar belakang, pendidikan, ras, jenis kelamin maupun, tempat tinggal.</p>
 
-                <p class="mb--40">Kami tidak menginginkan karyawan yang hanya memikirkan tentang apa yang akan mereka dapat dari LOGIQUE, melainkan 
+                <p class="mb--20">Kami tidak menginginkan karyawan yang hanya memikirkan tentang apa yang akan mereka dapat dari LOGIQUE, melainkan 
                   
                 <!-- <span>yang ingin berusaha melakukan yang terbaik untuk LOGIQUE.</span>  -->
 
@@ -263,7 +263,7 @@
                 
                 Dan tentu saja LOGIQUE akan memberikan apresiasi dan keuntungan bagi mereka.</p>
 
-                <p class="mb--40">Kami dengan 
+                <p class="mb--20">Kami dengan 
                   
                 <!-- <span>tegas menolak orang yang senang mendiskriminasi orang lain,</span>  -->
 
