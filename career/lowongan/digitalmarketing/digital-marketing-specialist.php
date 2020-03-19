@@ -6,9 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Kami memberikan kesempatan berkarir bagi para web developer, web Digital Marketing Specialist, dan digital marketing untuk terus mengasah kemampuannya dengan bergabung bersama LOGIQUE Digital Indonesia. Segera bergabunglah bersama kami!">
+    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Digital Marketing Specialist. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
   <meta name="keywords"
-    content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
+    content="keuntungan bekerja di logique, join us, digital marketing specialist, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta property="og:title" content="Digital Marketing Specialist | Lowongan Kerja | Designer/Digital Marketing | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
@@ -16,7 +16,7 @@
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
   <meta property="og:description"
-    content="Saatnya berkarir dan kembangkan potensimu - Career at Logique Bergabunglah dan jadilah bagian dari perkembangan teknologi digital di Indonesia bersama Logique. Anda juga akan memiliki kesempatan luas untuk mengembangkan potensi dan karir Anda, serta berkarya dengan jam kerja yang fleksibel.">
+    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Digital Marketing Specialist. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <title>Digital Marketing Specialist | Lowongan Kerja | Designer/Digital Marketing | LOGIQUE Digital Indonesia</title>
 
