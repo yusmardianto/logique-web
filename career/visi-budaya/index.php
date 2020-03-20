@@ -138,7 +138,7 @@
       </section>
 
       <section class="container-fluid">
-        <div class="container--max-width">
+        <div class="container--max-width" style="padding-bottom: 0">
           <div class="row">
             <div class="col-sm-offset-1 col-md-offset-2 col-sm-10 col-md-8 text-center">
               <p class="fs-16">Aturan dan kebiasaan terkait ketenagakerjaan atau HR yang sudah ada di Indonesia sebagian kurang sesuai dengan cara kerja modern dan hubungan antara karyawan dan perusahaan yang diperlukan saat ini. Kondisi seperti ini tidak baik untuk hubungan antara karyawan dan perusahaan dan kami tidak bisa bertahan dengan cara yang seperti itu. LOGIQUE memikirkan segala sesuatu secara logis dari awal, tidak terikat oleh kebiasaan lama yang tidak memiliki makna. 
@@ -147,44 +147,6 @@
           </div>
         </div>
       </section>
-
-      <!-- <section class="container-fluid">
-        <div class="container--max-width" style="padding-top: 0;padding-bottom: 60px;">
-          <div class="row">
-            <div class="col-sm-offset-1 col-sm-10">
-              <div class="vision-box text-center">
-                <div class="black-box__title mb--60">Kriteria Kandidat</div>
-                <div class="row row__same-height">
-                  <div class="col-sm-6">
-                    <div class="candidate-criteria">
-                      <h4 class="section-subtitle">Kandidat yang kami inginkan adalah,</h4>
-                      <ul class="candiate-criteria__accept">
-                        <li>Memiliki kepribadian yang baik dan bertanggung jawab</li>
-                        <li>Mempunyai pemikiran yang logis dan rasional</li>
-                        <li>Mempunyai keinginan untuk berkontribusi untuk kemajuan perusahaan</li>
-                        <li>Memiliki keinginan yang kuat untuk berkembang</li>
-                        <li>Tidak takut akan perubahan</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="col-sm-6">
-                    <div class="candidate-criteria">
-                      <h4 class="section-subtitle">Kandidat yang kami hindari adalah,</h4>
-                      <ul class="candiate-criteria__reject">
-                        <li>Mementingkan diri sendiri</li>
-                        <li>Suka mendiskriminasi orang lain</li>
-                        <li>Tidak dapat menerima perbedaan ide dan pendapat</li>
-                        <li>Takut dan tidak mau menerima perubahan</li>
-                        <li>Memiliki sifat tidak bertanggung jawab</li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section> -->
 
       <section class="container-fluid bg--vision-mission mb--60 fs-16">
         <div class="container--max-width">
@@ -228,7 +190,8 @@
             <div class="col-sm-offset-1 col-md-offset-2 col-sm-10 col-md-8 text-center">
               <h2 class="section-title">Hubungan antara Pekerja dan Perusahaan</h2>
 
-              <p class="mb--40">Hubungan (pekerjaan) yang baik tidak akan bertahan lama jika kita tidak mempunyai hubungan yang saling menguntungkan atau hanya menguntungkan satu pihak saja. Jika Anda masih memikirkan diri sendiri dan hanya ingin mengembangkan diri sendiri, kami tidak akan bisa bekerja sama dengan Anda</p>
+              <p class="mb--40">Hubungan dalam pekerjaan yang baik adalah hubungan yang saling menguntungkan antara karyawan dan perusahaan, karena jika hanya menguntungkan salah satu pihak, maka hubungan tersebut tidak akan bertahan lama. Oleh sebab itu, jika Anda cenderung bersikap egois dan hanya berpikir untuk keuntungan atau perkembangan diri Anda sendiri maka LOGIQUE bukan tempat yang cocok untuk Anda.
+              </p>
 
               <p class="mb--40">Untuk itu, kami ingin Anda memahami konsep kami yaitu: <br>
               <span class="section-title" style="font-size: 20px">“Give and Take”</span> <i><b>(terima - memberi)</b></i>.
@@ -240,50 +203,56 @@
 
               <div class="visi-misi__explain">
                 <p class="mb--20">
+                Jika Anda memahami konsep “Give and Take” (memberi dan menerima), serta
+
                   <!-- <span>Memiliki keinginan kuat untuk membantu dan berkolaborasi antar rekan kerja atau tim,</span> -->
                   
                   <!-- <span>Memiliki keinginan kuat untuk membantu dan </span>
                   <span>berkolaborasi antar rekan kerja atau tim,</span> -->
 
                   <span>Memiliki keinginan kuat untuk</span>
-                  <span>membantu dan berkolaborasi antar </span>
+                  <span>membantu dan berkolaborasi dengan </span>
                   <span>rekan kerja atau tim,</span>
                   
-                  dan LOGIQUE dengan senang hati menerima Anda untuk bekerja sama tanpa melihat latar belakang, pendidikan, ras, jenis kelamin maupun, tempat tinggal.</p>
+                  maka LOGIQUE akan dengan senang hati menerima Anda untuk bekerja bersama kami tanpa melihat latar belakang, pendidikan, ras, jenis kelamin, keterbatasan fisik, maupun tempat tinggal.</p>
 
-                <p class="mb--20">Kami tidak menginginkan karyawan yang hanya memikirkan tentang apa yang akan mereka dapat dari LOGIQUE, melainkan 
-                  
+                <p class="mb--20">
+                Kami tidak menginginkan karyawan yang hanya memikirkan tentang apa yang akan mereka dapat dari LOGIQUE, melainkan 
+
                 <!-- <span>yang ingin berusaha melakukan yang terbaik untuk LOGIQUE.</span>  -->
 
                 <!-- <span>yang ingin berusaha melakukan</span> 
                 <span>yang terbaik untuk LOGIQUE.</span>  -->
                 
-                <span>yang ingin berusaha</span>
-                <span>melakukan yang terbaik untuk LOGIQUE.</span>
+                <span>yang ingin berusaha melakukan</span>
+                <span>yang terbaik untuk LOGIQUE.</span>
                 
                 Dan tentu saja LOGIQUE akan memberikan apresiasi dan keuntungan bagi mereka.</p>
 
-                <p class="mb--20">Kami dengan 
-                  
+                <p class="mb--20">
+                Kami dengan
+
                 <!-- <span>tegas menolak orang yang senang mendiskriminasi orang lain,</span>  -->
 
                 <span>tegas menolak orang</span> 
-                <span>yang senang mendiskriminasi orang lain,</span> 
+                <span>yang senang mendiskriminasi</span>
+                <span>orang lain,</span> 
                 
-                yang tidak bisa bertoleransi pada perbedaan agama dan pendapat, yang mementingkan kepentingannya sendiri, yang tidak mampu dan tidak mau berkembang dengan berbagai macam alasan.</p>
+                yang tidak bisa bertoleransi pada perbedaan agama dan pendapat, yang mementingkan kepentingannya sendiri, serta yang tidak mampu dan tidak mau berkembang dengan berbagai macam alasan.</p>
 
-                <p class="mb--60">Kami percaya 
-                  
+                <p class="mb--60">
+                Kami percaya 
+
                 <!-- <span>LOGIQUE adalah tempat yang amat sangat tepat untuk mereka yang berpikir rasional dan logis,</span>  -->
 
                 <!-- <span>LOGIQUE adalah tempat yang amat sangat tepat</span>
                 <span> untuk mereka yang berpikir rasional dan logis,</span>  -->
                 
                 <span>LOGIQUE adalah tempat</span>
-                <span>yang amat sangat tepat untuk mereka</span>
-                <span> yang berpikir rasional dan logis,</span> 
+                <span>yang sangat tepat bagi mereka</span>
+                <span> yang berpikir secara rasional dan logis,</span> 
                 
-                yang selalu ingin berkembang dan tidak takut untuk menghadapi perubahan. Jika Anda adalah orang tersebut, mari bertemu dan berdiskusi dengan kami.</p>
+                yang selalu ingin berkembang dan tidak takut untuk menghadapi perubahan. Jika Anda adalah orangnya, mari bertemu dan berdiskusi dengan kami.</p>
               </div>
               
             </div>
