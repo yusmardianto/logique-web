@@ -194,7 +194,7 @@
               </p>
 
               <p class="mb--40">Untuk itu, kami ingin Anda memahami konsep kami yaitu: <br>
-              <span class="section-title" style="font-size: 20px">“Give and Take”</span> <i><b>(terima - memberi)</b></i>.
+              <span class="section-title" style="font-size: 20px">“Give and Take”</span> <i><b>(memberi dan menerima)</b></i>.
               </p>
 
               <div class="mb--40 text-center">
@@ -203,56 +203,42 @@
 
               <div class="visi-misi__explain">
                 <p class="mb--20">
-                Jika Anda memahami konsep “Give and Take” (memberi dan menerima), serta
+                  Jika Anda memahami konsep “Give and Take” (memberi dan menerima), serta
 
-                  <!-- <span>Memiliki keinginan kuat untuk membantu dan berkolaborasi antar rekan kerja atau tim,</span> -->
-                  
-                  <!-- <span>Memiliki keinginan kuat untuk membantu dan </span>
-                  <span>berkolaborasi antar rekan kerja atau tim,</span> -->
-
-                  <span>Memiliki keinginan kuat untuk</span>
+                  <span>memiliki keinginan kuat untuk</span>
                   <span>membantu dan berkolaborasi dengan </span>
                   <span>rekan kerja atau tim,</span>
                   
                   maka LOGIQUE akan dengan senang hati menerima Anda untuk bekerja bersama kami tanpa melihat latar belakang, pendidikan, ras, jenis kelamin, keterbatasan fisik, maupun tempat tinggal.</p>
 
                 <p class="mb--20">
-                Kami tidak menginginkan karyawan yang hanya memikirkan tentang apa yang akan mereka dapat dari LOGIQUE, melainkan 
-
-                <!-- <span>yang ingin berusaha melakukan yang terbaik untuk LOGIQUE.</span>  -->
-
-                <!-- <span>yang ingin berusaha melakukan</span> 
-                <span>yang terbaik untuk LOGIQUE.</span>  -->
-                
-                <span>yang ingin berusaha melakukan</span>
-                <span>yang terbaik untuk LOGIQUE.</span>
-                
-                Dan tentu saja LOGIQUE akan memberikan apresiasi dan keuntungan bagi mereka.</p>
+                  Kami tidak menginginkan karyawan yang hanya memikirkan tentang apa yang akan mereka dapat dari LOGIQUE, melainkan 
+                  
+                  <span>yang ingin berusaha melakukan</span>
+                  <span>yang terbaik untuk LOGIQUE.</span>
+                  
+                  Dan tentu saja LOGIQUE akan memberikan apresiasi dan keuntungan bagi mereka.
+                </p>
 
                 <p class="mb--20">
-                Kami dengan
+                  Kami dengan
 
-                <!-- <span>tegas menolak orang yang senang mendiskriminasi orang lain,</span>  -->
-
-                <span>tegas menolak orang</span> 
-                <span>yang senang mendiskriminasi</span>
-                <span>orang lain,</span> 
-                
-                yang tidak bisa bertoleransi pada perbedaan agama dan pendapat, yang mementingkan kepentingannya sendiri, serta yang tidak mampu dan tidak mau berkembang dengan berbagai macam alasan.</p>
+                  <span>tegas menolak orang</span> 
+                  <span>yang senang mendiskriminasi</span>
+                  <span>orang lain,</span> 
+                  
+                  yang tidak bisa bertoleransi pada perbedaan agama dan pendapat, yang mementingkan kepentingannya sendiri, serta yang tidak mampu dan tidak mau berkembang dengan berbagai macam alasan.
+                </p>
 
                 <p class="mb--60">
-                Kami percaya 
-
-                <!-- <span>LOGIQUE adalah tempat yang amat sangat tepat untuk mereka yang berpikir rasional dan logis,</span>  -->
-
-                <!-- <span>LOGIQUE adalah tempat yang amat sangat tepat</span>
-                <span> untuk mereka yang berpikir rasional dan logis,</span>  -->
-                
-                <span>LOGIQUE adalah tempat</span>
-                <span>yang sangat tepat bagi mereka</span>
-                <span> yang berpikir secara rasional dan logis,</span> 
-                
-                yang selalu ingin berkembang dan tidak takut untuk menghadapi perubahan. Jika Anda adalah orangnya, mari bertemu dan berdiskusi dengan kami.</p>
+                  Kami percaya 
+                  
+                  <span>LOGIQUE adalah tempat</span>
+                  <span>yang sangat tepat bagi mereka</span>
+                  <span> yang berpikir secara rasional dan logis,</span> 
+                  
+                  yang selalu ingin berkembang dan tidak takut untuk menghadapi perubahan. Jika Anda adalah orangnya, mari bertemu dan berdiskusi dengan kami.
+                </p>
               </div>
               
             </div>
