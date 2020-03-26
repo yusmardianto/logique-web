@@ -343,7 +343,7 @@
                                     <hr class="title__yellow-line">
                                     <div class="director">
                                         <div class="director__img">
-                                            <img src="/img/yoshi-update.jpg" alt="Takashi Yoshitsugu" class="img-responsive" />
+                                            <img src="/img/yoshi-2020.jpg" alt="Takashi Yoshitsugu" class="img-responsive" />
                                         </div>
                                         <div class="director__content">
                                             <hr class="title__white-line">
