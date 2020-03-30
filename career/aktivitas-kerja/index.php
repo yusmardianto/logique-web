@@ -108,7 +108,7 @@
           <div class="row">
             <div class="col-sm-offset-1 col-sm-6">
               <h1 class="header__title">Aktivitas Kerja LOGIQUE</h1>
-              <p class="mb--20">
+              <!-- <p class="mb--20">
                 <strong>LOGIQUE</strong> merupakan perusahaan pembuatan dan pengembangan system/ web serta agensi
                 digital marketing yang sedang berkembang dengan cepat. Kami memiliki dua kantor yang berlokasi di
                 Jakarta dan Yogyakarta.
@@ -120,6 +120,9 @@
               </p>
               <p>
                 Itulah sedikit pengantar untuk mengetahui bagaimana aktivitas keseharian kerja kami.
+              </p> -->
+              <p>
+                Sebagai perusahaan yang bergerak di bidang pembuatan web, Logique memiliki layanan yang sangat bervariasi guna memenuhi kebutuhan setiap klien. Mulai dari pembuatan website perusahaan, aplikasi berbasis web, mobile app, digital marketing, hingga penetration test telah didukung oleh Logique selama bertahun-tahun baik untuk klien Internasional maupun Lokal berskala besar yang ada di Indonesia. Dengan bergabung bersama Logique, Anda dapat memperoleh banyak kesempatan untuk terlibat dalam proyek dan bekerja sama dengan klien-klien kami yang luar biasa.
               </p>
             </div>
           </div>
@@ -246,7 +249,7 @@
             <div class="col-xs-12 no-gap">
               <a href="/portofolio.php">
                 <div class="check-portfolio --vertical-center text-center">
-                  <h2>Lihat Aktivitas dan Portofolio Kami</h2>
+                  <h2>Lihat Portofolio Kami</h2>
                 </div>
               </a>
             </div>
