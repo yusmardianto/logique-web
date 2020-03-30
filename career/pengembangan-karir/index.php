@@ -110,9 +110,7 @@
             <div class="col-sm-offset-1 col-sm-6">
               <h1 class="header__title">Pengembangan Karir</h1>
               <p>
-                Kami memberikan kesempatan Anda untuk mengembangkan karir Anda secara fleksibel sesuai dengan keinginan,
-                kerja keras dan bakat yang Anda miliki. Di LOGIQUE Anda pun bisa langsung menjadi specialist atau
-                generalist sesuai kemampuan Anda.
+                Kami memberikan Anda kesempatan untuk berkarir dan membantu memaksimalkan potensi dan tujuan jangka panjang Anda dengan jenjang karir yang dinamis. Di LOGIQUE Anda pun bisa berkarir sebagai specialis atau generalis sesuai kemampuan dan tujuan karir Anda tersebut.
               </p>
             </div>
           </div>
@@ -131,8 +129,7 @@
                 <div class="col-md-8">
                   <p>
                     Di <strong>LOGIQUE</strong>, jika Anda mempunyai motivasi yang tinggi, berbakat, berusaha keras
-                    untuk terus berkembang, maka Anda akan dengan sangat cepat mendapatkan promosi ke posisi yang lebih
-                    tinggi. Kami juga dapat mengubah posisi Anda secara fleksibel sesuai dengan keinginan Anda.
+                    untuk terus berkembang, maka Anda akan dengan sangat cepat mendapatkan peningkatan karir tanpa batasan usia maupun pertimbangan berapa lama Anda bekerja. LOGIQUE sangat menghargai setiap individu dan dapat membantu memaksimalkan serta memberikan kesempatan karir sesuai dengan kapasitas dan tujuan karir Anda. 
                   </p>
                 </div>
               </div>
@@ -148,7 +145,7 @@
                     <span class="role__title">
                       <strong>Junior FE Developer</strong>
                       <br>
-                      Untuk 6 bulan pertama
+                      Pada bulan pertama
                     </span>
                     <p>
                       Pada tahap ini, Anda akan mendapatkan pengetahuan dan keterampilan programming / IT dasar. Selama
@@ -165,9 +162,9 @@
                         src="/img/career/path-to-manager.png" alt="Path to Manager">
                     </div>
                     <span class="role__title">
-                      <strong>Middle FE Developer</strong>
+                      <strong>Senior FE Developer</strong>
                       <br>
-                      Untuk 1 tahun selanjutnya
+                      Di tahun yang sama
                     </span>
                     <p>
                       Pada tahap ini, Anda akan menjadi penanggung jawab penting dari sebuah proyek. Di sini Anda akan
@@ -185,7 +182,7 @@
                     <span class="role__title">
                       <strong>Junior Project Manager</strong>
                       <br>
-                      Setelah 18 bulan
+                      Di tahun kedua
                     </span>
                     <p>
                       Setelah mengubah karir Anda menjadi proyek manager. Di posisi ini, Anda akan mengelola beberapa
@@ -198,8 +195,10 @@
           </div>
         </div>
       </section>
-      <section class="container-fluid">
+
+      <section class="container-fluid mb-2em">
         <div class="container--max-width">
+          <h2 class="section-title text-center" style="line-height: 30px;">Bagaimana karir Anda berkembang <br> dengan cepat di Logique?</h2><br>
           <div class="row">
             <div class="container-fluid col-sm-offset-1 col-sm-10">
               <div class="row career__desc-wrapper">
@@ -227,9 +226,53 @@
                   </div>
                 </div>
                 <div class="col-md-4">
-                  <div class="career__desc --gray">
+                  <div class="career__desc">
+                    <picture>
+                      <img src="/img/career/icon/team.png" alt="Team">
+                    </picture>
+                    <p>
+                    Dalam kesehariannya setiap tim memiliki tanggung jawab untuk memikirkan bagaimana semua anggota dilatih dan dibimbing ke arah karir yang ideal dengan budget yang disediakan oleh perusahaan.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="container-fluid" style="background-color: #f5f5f5">
+        <div class="container--max-width">
+          <h2 class="section-title text-center" style="line-height: 30px;">Contoh perkembangan karir di <br> LOGIQUE</h2><br>
+          <div class="row">
+            <div class="container-fluid col-sm-offset-1 col-sm-10">
+              <div class="row career__desc-wrapper">
+                <div class="col-md-4">
+                  <div class="career__desc --example">
                     <picture>
                       <img src="/img/career/icon/fresh-graduate.png" alt="Fresh Graduate">
+                    </picture>
+                    <p>
+                      Tidak jarang, mahasiswa yang baru saja lulus kuliah dan melamar di <strong>LOGIQUE</strong> dalam
+                      jangka waktu enam bulan berhasil menempati posisi sebagai asisten manajer dan mendapatkan gaji dua
+                      kali lipat lebih banyak dibandingkan karyawan lainnya.
+                    </p>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="career__desc --example">
+                    <picture>
+                      <img src="/img/career/icon/mobile.png" alt="Mobile Developer">
+                    </picture>
+                    <p>
+                      Ada karyawan yang awalnya bergabung sebagai junior mobile developer. Sebelum satu tahun karyawan tersebut berhasil menjadi seorang project manager, dan kemudian dipercaya menjadi pemimpin tim mobile developer.
+                    </p>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="career__desc --example">
+                    <picture>
+                      <img src="/img/career/icon/web.png" alt="Web Developer">
                     </picture>
                     <p>
                       Tidak jarang, mahasiswa yang baru saja lulus kuliah dan melamar di <strong>LOGIQUE</strong> dalam
@@ -243,6 +286,68 @@
           </div>
         </div>
       </section>
+
+      <section class="container-fluid career-update__case-study">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="container-fluid col-sm-offset-1 col-sm-10"  style="overflow: hidden">
+              <h2 class="section-title" style="line-height: 30px;">Study Case</h2>
+
+                <div class="case-study__carousel">
+                  <div id="case_study_carousel" class="carousel vertical slide" data-ride="carousel" data-interval="false">
+                    <div class="carousel-inner">
+                      <div class="item active">
+                        <div class="case-study__wrapper">
+                          <div class="case-study__testi">
+                            <!-- <h4>Gilbertus Nico</h4> -->
+                            <p>
+                              Di LOGIQUE saya memulai karir 6 tahun yang lalu sebagai mahasiswa magang dari President University. Saat itu, saya berusaha keras untuk belajar bagaimana terjun di dalam dunia kerja dan memberikan hasil yang terbaik untuk perusahaan. LOGIQUE sangat menghargai kontribusi yang saya berikan dan saya senang sekali mendapat tawaran pekerjaan sebagai pegawai tetap bahkan sebelum saya lulus kuliah.
+                              <br><br>
+                              Sebagai pegawai, saya merintis karir sebagai Junior Front End Developer. Saya mempelajari bagaimana cara menjadi seorang Front End Developer yang baik dari rekan-rekan kerja yang hebat dan juga dari saya pribadi secara mandiri. Saya memahami kekuatan saya ada di kecepatan kerja, saya mampu mengerjakan tugas yang diberikan tiga kali lebih cepat dibandingkan dengan rekan kerja yang satu level dengan saya dan saya memaksimalkan hal itu. Atas semua kontribusi tersebut, karir saya terus meningkat hingga menjadi Senior Front End Developer.
+                              <br><br>
+                              Tidak sampai disitu, LOGIQUE mampu melihat dan memaksimalkan potensi saya. Saya dilibatkan dalam manajemen proyek yang merupakan impian saya di masa yang akan datang, dan saya berhasil. Sekarang saya bekerja di LOGIQUE sebagai Project Manager.
+                              <br><br>
+                              Anda pun bisa seperti saya, ayo bergabung ke LOGIQUE dan ikuti jejak saya.
+                            </p>
+                            <h4>- Gilbertus Nico, <span>Project Manager</span></h4>
+                          </div>
+                          <div class="case-study__img">
+                            <img src="/img/career/bg-img/case-study-nico.png" alt="Nico - Project Manager">
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="case-study__wrapper">
+                          <div class="case-study__testi">
+                            <p>Di Logique, awalnya saya mencoba melamar sebagai mobile developer sesuai dengan latar belakang teknikal di bidang mobile app development yang saya miliki. Namun karena posisi tersebut saat itu tidak tersedia, dari potensi dan hasil interview saya, Logique menawarkan saya untuk menjadi seorang Technical Consultant. Setelah mempertimbangkan dari berbagai aspek dan job desc yang sangat berhubungan dengan proyek dan klien, saya menerima tantangan tersebut.
+                            <br><br>
+                            Selama menjadi Technical Consultant, saya merasa Logique sangat memperhatikan minat dan kemampuan karyawan. Saya diberi prioritas terlibat dalam proyek Mobile App Development sehingga saya sangat menikmatinya dan berusaha semaksimal mungkin dalam pekerjaan saya. Saya juga sangat senang mengetahui Logique sangat terbuka dalam menerima ide dari karyawan yang tentunya rasional dan dapat dipertanggungjawabkan. Saya memberikan beberapa usulan dan juga referensi terkait mobile app development dan developer yang diperlukan saat proses hiring, dan Logique menerima masukkan saya. Dalam proses ini, untuk karir, saya berhasil mendapatkan beberapa kali kenaikan posisi dan gaji sesuai dengan kontribusi yang saya berikan.
+                            <br><br>
+                            Dengan bertambahnya proyek mobile app dan berkembangnya tim mobile developer, Logique kembali melihat potensi dan minat yang saya miliki. Saya ditawarkan untuk masuk ke dalam tim mobile developer, sebagai leader, sejalan dengan pengalaman mengelola tim proyek selama saya menjadi Technical Consultant dan kemampuan teknis mobile app development yang tidak pernah saya tinggalkan.
+                            <br><br>
+                            Kesempatan seperti ini juga bisa Anda dapatkan dengan bekerja keras dan memberikan banyak kontribusi nyata kepada Logique.</p>
+                            <h4>- Faishal Prima, <span>Tim Lead Mobile Developer</span></h4>
+                          </div>
+                          <div class="case-study__img">
+                            <img src="/img/career/bg-img/case-study-nico.png" alt="Nico - Project Manager">
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- SLIDER INDICATOR -->
+                    <ol class="carousel-indicators">
+                      <li data-target="#case_study_carousel" data-slide-to="0" class="active"></li>
+                      <li data-target="#case_study_carousel" data-slide-to="1"></li>
+                      <!-- <li data-target="#case_study_carousel" data-slide-to="2"></li> -->
+                    </ol>
+                  </div>
+                </div>
+
+            </div>
+          </div>
+        </div>
+      </section>
+      
       <?php include '../layout-career/semua-lowongan.php'; ?>
       <!-- <//?php include '../layout-career/link-section.php'; ?>
       <br><br> -->
