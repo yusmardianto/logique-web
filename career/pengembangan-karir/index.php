@@ -287,7 +287,8 @@
         </div>
       </section>
 
-      <section class="container-fluid career-update__case-study">
+      <section class="container-fluid career-update__case-study" style="position: relative">
+        <img class="case-study__retangle-accent" src="/img/career/bg-img/case-study-rectangle.png" alt="Nico - Project Manager">
         <div class="container--max-width">
           <div class="row">
             <div class="container-fluid col-sm-offset-1 col-sm-10"  style="overflow: hidden">

@@ -678,14 +678,18 @@ button:focus {
   background: #f5f5f5;
 }
 .career-update__case-study {
-  background: url("../img/career/bg-img/case-study-rectangle.png") right 42px/433px no-repeat,
+  /* background: url("../img/career/bg-img/case-study-rectangle.png") right 42px/433px no-repeat,
               linear-gradient(black, black) right/35% no-repeat,
+              url("../img/career/bg-img/bg-case-study.png") left/65% no-repeat; */
+  background: linear-gradient(black, black) right/35% no-repeat,
               url("../img/career/bg-img/bg-case-study.png") left/65% no-repeat;
 }
 @media only screen and (max-width: 1024px) {
   .career-update__case-study {
-    background: url("../img/career/bg-img/case-study-rectangle.png") 117.6% 41.5px/433px no-repeat,
+    /* background: url("../img/career/bg-img/case-study-rectangle.png") 117.6% 41.5px/433px no-repeat,
                 linear-gradient(black, black) right/40% no-repeat,
+                url("../img/career/bg-img/bg-case-study.png") -135px/85% no-repeat; */
+    background: linear-gradient(black, black) right/40% no-repeat,
                 url("../img/career/bg-img/bg-case-study.png") -135px/85% no-repeat;
   }
 }
@@ -2754,6 +2758,15 @@ ul.candiate-criteria__reject li::before {
 .case-study__carousel {
   padding-bottom: 2em;
 }
+.case-study__retangle-accent {
+  position: absolute;
+  bottom: 0;
+  left: 67.85%;
+  height: 359px;
+  /* bottom: -54px; */
+  /* right: 0; */
+  /* height: 103%; */
+}
 .case-study__carousel .carousel-inner {
   overflow: visible;
 }
@@ -2818,10 +2831,16 @@ ul.candiate-criteria__reject li::before {
   .case-study__carousel .carousel-indicators {
     left: 55%;
   }
+  .case-study__retangle-accent {
+    left: 62.8%;
+  }
 }
 @media only screen and (max-width: 768px) {
   .case-study__carousel {
     padding-bottom: 0;
+  }
+  .case-study__retangle-accent {
+    display: none;
   }
   .case-study__carousel .carousel-indicators {
     bottom: 54%;
