@@ -275,9 +275,7 @@
                       <img src="/img/career/icon/web.png" alt="Web Developer">
                     </picture>
                     <p>
-                      Tidak jarang, mahasiswa yang baru saja lulus kuliah dan melamar di <strong>LOGIQUE</strong> dalam
-                      jangka waktu enam bulan berhasil menempati posisi sebagai asisten manajer dan mendapatkan gaji dua
-                      kali lipat lebih banyak dibandingkan karyawan lainnya.
+                      Ada juga karyawan multitalenta yang diberikan kesempatan untuk mengembangkan dan memilih karirnya dari awalnya web designer menjadi  front end developer.
                     </p>
                   </div>
                 </div>
@@ -300,7 +298,7 @@
                       <div class="item active">
                         <div class="case-study__wrapper">
                           <div class="case-study__testi">
-                            <!-- <h4>Gilbertus Nico</h4> -->
+                            <h4>Gilbertus Nico, <span>Project Manager</span></h4>
                             <p>
                               Di LOGIQUE saya memulai karir 6 tahun yang lalu sebagai mahasiswa magang dari President University. Saat itu, saya berusaha keras untuk belajar bagaimana terjun di dalam dunia kerja dan memberikan hasil yang terbaik untuk perusahaan. LOGIQUE sangat menghargai kontribusi yang saya berikan dan saya senang sekali mendapat tawaran pekerjaan sebagai pegawai tetap bahkan sebelum saya lulus kuliah.
                               <br><br>
@@ -310,27 +308,28 @@
                               <br><br>
                               Anda pun bisa seperti saya, ayo bergabung ke LOGIQUE dan ikuti jejak saya.
                             </p>
-                            <h4>- Gilbertus Nico, <span>Project Manager</span></h4>
                           </div>
                           <div class="case-study__img">
-                            <img src="/img/career/bg-img/case-study-nico.png" alt="Nico - Project Manager">
+                            <img src="/img/career/bg-img/case-study-nico.jpg" alt="Nico - Project Manager">
                           </div>
                         </div>
                       </div>
                       <div class="item">
                         <div class="case-study__wrapper">
                           <div class="case-study__testi">
-                            <p>Di Logique, awalnya saya mencoba melamar sebagai mobile developer sesuai dengan latar belakang teknikal di bidang mobile app development yang saya miliki. Namun karena posisi tersebut saat itu tidak tersedia, dari potensi dan hasil interview saya, Logique menawarkan saya untuk menjadi seorang Technical Consultant. Setelah mempertimbangkan dari berbagai aspek dan job desc yang sangat berhubungan dengan proyek dan klien, saya menerima tantangan tersebut.
-                            <br><br>
-                            Selama menjadi Technical Consultant, saya merasa Logique sangat memperhatikan minat dan kemampuan karyawan. Saya diberi prioritas terlibat dalam proyek Mobile App Development sehingga saya sangat menikmatinya dan berusaha semaksimal mungkin dalam pekerjaan saya. Saya juga sangat senang mengetahui Logique sangat terbuka dalam menerima ide dari karyawan yang tentunya rasional dan dapat dipertanggungjawabkan. Saya memberikan beberapa usulan dan juga referensi terkait mobile app development dan developer yang diperlukan saat proses hiring, dan Logique menerima masukkan saya. Dalam proses ini, untuk karir, saya berhasil mendapatkan beberapa kali kenaikan posisi dan gaji sesuai dengan kontribusi yang saya berikan.
-                            <br><br>
-                            Dengan bertambahnya proyek mobile app dan berkembangnya tim mobile developer, Logique kembali melihat potensi dan minat yang saya miliki. Saya ditawarkan untuk masuk ke dalam tim mobile developer, sebagai leader, sejalan dengan pengalaman mengelola tim proyek selama saya menjadi Technical Consultant dan kemampuan teknis mobile app development yang tidak pernah saya tinggalkan.
-                            <br><br>
-                            Kesempatan seperti ini juga bisa Anda dapatkan dengan bekerja keras dan memberikan banyak kontribusi nyata kepada Logique.</p>
-                            <h4>- Faishal Prima, <span>Tim Lead Mobile Developer</span></h4>
+                            <h4>Faishal Prima, <span>Tim Lead Mobile Developer</span></h4>
+                            <p>
+                              Di Logique, awalnya saya mencoba melamar sebagai mobile developer sesuai dengan latar belakang teknikal di bidang mobile app development yang saya miliki. Namun karena posisi tersebut saat itu tidak tersedia, dari potensi dan hasil interview saya, Logique menawarkan saya untuk menjadi seorang Technical Consultant. Setelah mempertimbangkan dari berbagai aspek dan job desc yang sangat berhubungan dengan proyek dan klien, saya menerima tantangan tersebut.
+                              <br><br>
+                              Selama menjadi Technical Consultant, saya merasa Logique sangat memperhatikan minat dan kemampuan karyawan. Saya diberi prioritas terlibat dalam proyek Mobile App Development sehingga saya sangat menikmatinya dan berusaha semaksimal mungkin dalam pekerjaan saya. Saya juga sangat senang mengetahui Logique sangat terbuka dalam menerima ide dari karyawan yang tentunya rasional dan dapat dipertanggungjawabkan. Saya memberikan beberapa usulan dan juga referensi terkait mobile app development dan developer yang diperlukan saat proses hiring, dan Logique menerima masukkan saya. Dalam proses ini, untuk karir, saya berhasil mendapatkan beberapa kali kenaikan posisi dan gaji sesuai dengan kontribusi yang saya berikan.
+                              <br><br>
+                              Dengan bertambahnya proyek mobile app dan berkembangnya tim mobile developer, Logique kembali melihat potensi dan minat yang saya miliki. Saya ditawarkan untuk masuk ke dalam tim mobile developer, sebagai leader, sejalan dengan pengalaman mengelola tim proyek selama saya menjadi Technical Consultant dan kemampuan teknis mobile app development yang tidak pernah saya tinggalkan.
+                              <br><br>
+                              Kesempatan seperti ini juga bisa Anda dapatkan dengan bekerja keras dan memberikan banyak kontribusi nyata kepada Logique.
+                            </p>
                           </div>
                           <div class="case-study__img">
-                            <img src="/img/career/bg-img/case-study-nico.png" alt="Nico - Project Manager">
+                            <img src="/img/career/bg-img/case-study-faishal.jpg" alt="Faishal - Tim Lead Mobile Developer">
                           </div>
                         </div>
                       </div>
