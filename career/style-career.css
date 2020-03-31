@@ -2763,6 +2763,7 @@ ul.candiate-criteria__reject li::before {
   bottom: 0;
   left: 67.85%;
   height: 359px;
+  width: 30%;
   /* bottom: -54px; */
   /* right: 0; */
   /* height: 103%; */
@@ -2776,8 +2777,8 @@ ul.candiate-criteria__reject li::before {
   flex-wrap: wrap;
 }
 .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__testi {
-  flex-basis: calc(65% - 30px);
-  margin-left: 20px;
+  flex-basis: calc(65% - 5px);
+  margin-left: 10px;
   max-height: 240px;
   overflow-y: auto;
 }
@@ -2823,7 +2824,7 @@ ul.candiate-criteria__reject li::before {
 }
 @media only screen and (max-width: 1024px) {
   .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__testi {
-    flex-basis: calc(60% - 30px);
+    flex-basis: calc(60% - 5px);
   }
   .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__img {
     flex-basis: 34%;
@@ -2833,9 +2834,13 @@ ul.candiate-criteria__reject li::before {
   }
   .case-study__retangle-accent {
     left: 62.8%;
+    width: 335px;
   }
 }
 @media only screen and (max-width: 768px) {
+  .case-study__testi > h4 {
+    width: 80%;
+  }
   .case-study__carousel {
     padding-bottom: 0;
   }
@@ -2845,15 +2850,18 @@ ul.candiate-criteria__reject li::before {
   .case-study__carousel .carousel-indicators {
     bottom: 54%;
     left: unset;
-    right: 10px;
+    right: 20px;
     text-align: right;
+  }
+  .case-study__carousel .carousel-indicators > .active {
+    width: 30px;
   }
   .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__testi,
   .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__img {
     height: 280px;
   }
   .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__testi {
-    flex-basis: calc(100% - 30px);
+    flex-basis: calc(100% - 5px);
     margin-left: 30px;
     overflow-y: auto;
   }
