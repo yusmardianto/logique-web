@@ -2778,6 +2778,7 @@ ul.candiate-criteria__reject li::before {
 }
 .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__testi {
   flex-basis: calc(65% - 10px);
+  padding-right: 20px;
   margin-left: 10px;
   max-height: 240px;
   overflow-y: auto;
