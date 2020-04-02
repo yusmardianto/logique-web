@@ -678,27 +678,40 @@ button:focus {
   background: #f5f5f5;
 }
 .career-update__case-study {
-  /* background: url("../img/career/bg-img/case-study-rectangle.png") right 42px/433px no-repeat,
-              linear-gradient(black, black) right/35% no-repeat,
-              url("../img/career/bg-img/bg-case-study.png") left/65% no-repeat; */
-  background: linear-gradient(black, black) right/35% no-repeat,
-              url("../img/career/bg-img/bg-case-study.png") left/65% no-repeat;
+  background: url("../img/career/bg-img/bg-case-study.png") 10%/75% no-repeat, linear-gradient(#fff, #fff);
+}
+.career-update__case-study .container--max-width {
+  background: url("../img/career/bg-img/bg-image-case-study.png") 94% bottom/auto 90% no-repeat;
 }
 @media only screen and (max-width: 1024px) {
   .career-update__case-study {
-    /* background: url("../img/career/bg-img/case-study-rectangle.png") 117.6% 41.5px/433px no-repeat,
-                linear-gradient(black, black) right/40% no-repeat,
-                url("../img/career/bg-img/bg-case-study.png") -135px/85% no-repeat; */
-    background: linear-gradient(black, black) right/40% no-repeat,
-                url("../img/career/bg-img/bg-case-study.png") -135px/85% no-repeat;
+    background: linear-gradient(#fff, #fff) right/30% no-repeat,
+                url("../img/career/bg-img/bg-case-study.png") 10%/cover no-repeat,
+                linear-gradient(#fff, #fff);
+  }
+  .career-update__case-study .container--max-width {
+    background: url("../img/career/bg-img/bg-image-case-study.png") 95% bottom/35% 91% no-repeat;
   }
 }
 @media only screen and (max-width: 768px) {
   .career-update__case-study {
-    background: url("../img/career/bg-img/bg-case-study.png") top/100% 55% no-repeat,
-                linear-gradient(black, black) bottom/100% 45% no-repeat;
+    background: url("../img/career/bg-img/bg-case-study.png") top/auto 75% no-repeat,
+                linear-gradient(#fff, #fff);
+  }
+  .career-update__case-study .container--max-width {
+    background: url("../img/career/bg-img/bg-image-case-study.png") 60% bottom/auto 40% no-repeat;
   }
 }
+@media only screen and (min-width: 1441px) {
+  .career-update__case-study {
+    background: white;
+  }
+  .career-update__case-study .container--max-width {
+    background: url("../img/career/bg-img/bg-image-case-study.png") 94% bottom/auto 90% no-repeat,
+                url("../img/career/bg-img/bg-case-study.png") 10%/75% no-repeat;
+  }
+}
+
 /*** End Content Wrapper ***/
 
 /*** Footer ***/
@@ -2758,16 +2771,6 @@ ul.candiate-criteria__reject li::before {
 .case-study__carousel {
   padding-bottom: 2em;
 }
-.case-study__retangle-accent {
-  position: absolute;
-  bottom: 0;
-  left: 67.85%;
-  height: 359px;
-  width: 30%;
-  /* bottom: -54px; */
-  /* right: 0; */
-  /* height: 103%; */
-}
 .case-study__carousel .carousel-inner {
   overflow: visible;
 }
@@ -2780,19 +2783,52 @@ ul.candiate-criteria__reject li::before {
   flex-basis: calc(65% - 10px);
   padding-right: 20px;
   margin-left: 10px;
-  max-height: 240px;
-  overflow-y: auto;
+  max-height: 230px;
+  overflow-y: scroll;
 }
-/* .case-study__testi > h4, */
+.case-study__carousel .carousel-control {
+  background: white;
+  width: 40px;
+  height: 40px;
+  bottom: -30px;
+  top: unset;
+  border-radius: 100%;
+}
+.case-study__carousel .carousel-control > img {
+  max-width: 100%;
+  padding: 10px;
+}
+.case-study__carousel .carousel-control.left {
+  left: 55%;
+  transform: rotate(180deg);
+}
+.case-study__carousel .carousel-control.right {
+  left: 60%;
+}
+.case-study__testi::-webkit-scrollbar {
+  width: 7px;
+}
+.case-study__testi::-webkit-scrollbar-track {
+  background: linear-gradient(#fff, #fff) center/2px no-repeat;
+}
+.case-study__testi::-webkit-scrollbar-thumb {
+  width: 1px;
+  border-radius: 3px;
+  background-color: #000;
+  border: .5px solid #000;
+}
 .case-study__testi > p,
 .case-study__testi > h4 {
   margin-bottom: 12px;
+}
+.case-study__testi > p {
+  font-size: 16px;
+  font-weight: 500;
 }
 .case-study__testi > h4 {
   font-weight: bold;
 }
 .case-study__testi > h4 > span {
-/* .case-study__testi > p:last-child > span { */
   font-weight: normal;
   font-style: italic;
 }
@@ -2805,24 +2841,9 @@ ul.candiate-criteria__reject li::before {
   max-width: 100%;
   object-fit: cover;
   object-position: 100%;
-  max-height: 320px;
+  max-height: 330px;
   height: 100%;
-}
-.case-study__carousel .carousel-indicators {
-  bottom: -30px;
-  left: 60%;
-}
-.case-study__carousel .carousel-indicators > li {
-  background-color: #000;
-  border-color: #000;
-  height: 8px;
-  width: 8px;
-}
-.case-study__carousel .carousel-indicators > .active {
-  width: 40px;
-  background-color: #fff;
-  border-color: #fff;
-  height: 10px;
+  border-radius: 15px;
 }
 @media only screen and (max-width: 1024px) {
   .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__testi {
@@ -2831,29 +2852,31 @@ ul.candiate-criteria__reject li::before {
   .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__img {
     flex-basis: 34%;
   }
-  .case-study__carousel .carousel-indicators {
-    left: 55%;
+  .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__testi {
+    max-height: 200px;
   }
-  .case-study__retangle-accent {
-    left: 62.8%;
-    width: 335px;
+  .case-study__carousel .carousel-control.right {
+    left: 54%;
+  }
+  .case-study__carousel .carousel-control.left {
+    left: 44%;
+  }
+  .case-study__img > img {
+    max-height: 300px;
   }
 }
 @media only screen and (max-width: 768px) {
   .case-study__carousel {
     padding-bottom: 0;
   }
-  .case-study__retangle-accent {
-    display: none;
+  .case-study__carousel .carousel-control {
+    bottom: 270px;
   }
-  .case-study__carousel .carousel-indicators {
-    bottom: 54%;
-    left: unset;
-    right: 20px;
-    text-align: right;
+  .case-study__carousel .carousel-control.right {
+    left: 90%;
   }
-  .case-study__carousel .carousel-indicators > .active {
-    width: 30px;
+  .case-study__carousel .carousel-control.left {
+    left: 80%;
   }
   .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__testi,
   .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__img {
@@ -2864,19 +2887,32 @@ ul.candiate-criteria__reject li::before {
     padding-right: 20px;
     margin-left: 30px;
     overflow-y: auto;
+    margin-bottom: 50px;
   }
   .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__img {
     margin: 0;
     flex-basis: 100%;
     text-align: center;
   }
-  .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__img > img {
-    padding-top: 50px;
+}
+@media only screen and (max-width: 425px) {
+  .case-study__img > img {
+    max-height: 250px;
+    position: relative;
+    bottom: -25px;
+  }
+  .case-study__carousel .carousel-control {
+    width: 37px;
+    height: 37px;
+    bottom: 280px;
+  }
+  .case-study__carousel .carousel-control.left {
+    left: 75%;
   }
 }
 
 /* Vertical Carousel */
-@media only screen and (min-width: 1025px) {
+@media only screen and (min-width: 769px) {
   .vertical .carousel-inner {
     height: 100%;
   }
@@ -2898,7 +2934,7 @@ ul.candiate-criteria__reject li::before {
   }
   
   .carousel.vertical .prev {
-     top: -400px;
+     top: 400px;
   }
   
   .carousel.vertical .next.left,

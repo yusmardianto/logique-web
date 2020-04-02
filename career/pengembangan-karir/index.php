@@ -285,13 +285,11 @@
         </div>
       </section>
 
-      <section class="container-fluid career-update__case-study" style="position: relative">
-        <img class="case-study__retangle-accent" src="/img/career/bg-img/case-study-rectangle.png" alt="Nico - Project Manager">
+      <section class="container-fluid career-update__case-study">
         <div class="container--max-width">
           <div class="row">
-            <div class="container-fluid col-sm-offset-1 col-sm-10"  style="overflow: hidden">
+            <div class="container-fluid col-sm-offset-1 col-sm-10" style="overflow: hidden">
               <h2 class="section-title" style="line-height: 30px;">Study Case</h2>
-
                 <div class="case-study__carousel">
                   <div id="case_study_carousel" class="carousel vertical slide" data-ride="carousel" data-interval="false">
                     <div class="carousel-inner">
@@ -334,15 +332,17 @@
                         </div>
                       </div>
                     </div>
-                    <!-- SLIDER INDICATOR -->
-                    <ol class="carousel-indicators">
-                      <li data-target="#case_study_carousel" data-slide-to="0" class="active"></li>
-                      <li data-target="#case_study_carousel" data-slide-to="1"></li>
-                      <!-- <li data-target="#case_study_carousel" data-slide-to="2"></li> -->
-                    </ol>
+                    <!-- Left and right controls -->
+                    <a class="left carousel-control" href="#case_study_carousel" data-slide="prev">
+                      <img src="/img/career/icon/arrow-right.svg" alt="">
+                      <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#case_study_carousel" data-slide="next">
+                      <img src="/img/career/icon/arrow-right.svg" alt="">
+                      <span class="sr-only">Next</span>
+                    </a>
                   </div>
                 </div>
-
             </div>
           </div>
         </div>
