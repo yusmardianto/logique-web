@@ -681,7 +681,7 @@ button:focus {
   background: url("../img/career/bg-img/bg-case-study.png") 10%/75% no-repeat, linear-gradient(#fff, #fff);
 }
 .career-update__case-study .container--max-width {
-  background: url("../img/career/bg-img/bg-image-case-study.png") 94% bottom/auto 90% no-repeat;
+  background: url("../img/career/bg-img/bg-image-case-study.png") 90% bottom/auto 90% no-repeat;
 }
 @media only screen and (max-width: 1024px) {
   .career-update__case-study {
@@ -707,7 +707,7 @@ button:focus {
     background: white;
   }
   .career-update__case-study .container--max-width {
-    background: url("../img/career/bg-img/bg-image-case-study.png") 94% bottom/auto 90% no-repeat,
+    background: url("../img/career/bg-img/bg-image-case-study.png") 90% bottom/auto 90% no-repeat,
                 url("../img/career/bg-img/bg-case-study.png") 10%/75% no-repeat;
   }
 }
@@ -2861,10 +2861,12 @@ ul.candiate-criteria__reject li::before {
 .case-study__img > img {
   max-width: 100%;
   object-fit: cover;
-  object-position: 100%;
+  object-position: center;
   max-height: 330px;
   height: 100%;
   border-radius: 15px;
+  position: relative;
+  right: 25px;
 }
 @media only screen and (max-width: 1024px) {
   .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__testi {
@@ -2884,6 +2886,7 @@ ul.candiate-criteria__reject li::before {
   }
   .case-study__img > img {
     max-height: 300px;
+    right: 0;
   }
 }
 @media only screen and (max-width: 768px) {
