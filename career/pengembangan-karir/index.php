@@ -291,7 +291,7 @@
             <div class="container-fluid col-sm-offset-1 col-sm-10" style="overflow: hidden">
               <h2 class="section-title" style="line-height: 30px;">Study Case</h2>
                 <div class="case-study__carousel">
-                  <div id="case_study_carousel" class="carousel vertical slide" data-ride="carousel" data-interval="false">
+                  <div id="case_study_carousel" class="carousel vertical slide" data-ride="carousel" data-interval="false" data-wrap="false">
                     <div class="carousel-inner">
                       <div class="item active">
                         <div class="case-study__wrapper">
@@ -337,7 +337,7 @@
                       <img src="/img/career/icon/arrow-right.svg" alt="">
                       <span class="sr-only">Previous</span>
                     </a>
-                    <a class="right carousel-control" href="#case_study_carousel" data-slide="next">
+                    <a class="right carousel-control carousel-control--active" href="#case_study_carousel" data-slide="next">
                       <img src="/img/career/icon/arrow-right.svg" alt="">
                       <span class="sr-only">Next</span>
                     </a>
@@ -358,7 +358,18 @@
   </div>
   <script type="text/JavaScript">
     $('.waNumber').html('0822-60-5678-56');
-    </script>
+
+    $('#case_study_carousel').bind('slid.bs.carousel', function (e) {
+      var index = $(e.target).find(".active").index();
+      if (index === 0) { // Start of the slide
+        $(".carousel-control.carousel-control--active").removeClass("carousel-control--active");
+        $(".carousel-control.right").addClass("carousel-control--active");
+      } else if (index === 1) { // End of the slide
+        $(".carousel-control.carousel-control--active").removeClass("carousel-control--active");
+        $(".carousel-control.left").addClass("carousel-control--active");
+      }
+    });
+  </script>
 </body>
 
 </html>

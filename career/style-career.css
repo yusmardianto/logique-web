@@ -2805,15 +2805,18 @@ ul.candiate-criteria__reject li::before {
 }
 .case-study__carousel .carousel-control.right {
   left: 60%;
+}
+.case-study__carousel .carousel-control.carousel-control--active {
   width: 41px;
   height: 41px;
   opacity: 1;
 }
-.case-study__carousel .carousel-control:hover,
+.case-study__carousel .carousel-control:hover {
+  opacity: .9;
+}
+.case-study__carousel .carousel-control,
 .case-study__carousel .carousel-control:active {
-  width: 44px;
-  height: 44px;
-  opacity: 1;
+  opacity: .5;
 }
 .case-study__testi::-webkit-scrollbar {
   width: 7px;
@@ -2826,6 +2829,14 @@ ul.candiate-criteria__reject li::before {
   border-radius: 3px;
   background-color: #000;
   border: .5px solid #000;
+}
+#case_study_carousel .item .case-study__testi::-webkit-scrollbar-track,
+#case_study_carousel .item .case-study__testi::-webkit-scrollbar-thumb {
+  display: none;
+}
+#case_study_carousel .item.active .case-study__testi::-webkit-scrollbar-track,
+#case_study_carousel .item.active .case-study__testi::-webkit-scrollbar-thumb {
+  display: block;
 }
 .case-study__testi > p,
 .case-study__testi > h4 {
@@ -2916,15 +2927,9 @@ ul.candiate-criteria__reject li::before {
     height: 37px;
     bottom: 280px;
   }
-  .case-study__carousel .carousel-control.right {
+  .case-study__carousel .carousel-control.carousel-control--active {
     width: 39px;
     height: 39px;
-  }
-  .case-study__carousel .carousel-control:hover,
-  .case-study__carousel .carousel-control:active {
-    width: 42px;
-    height: 42px;
-    opacity: 1;
   }
   .case-study__carousel .carousel-control.left {
     left: 75%;
