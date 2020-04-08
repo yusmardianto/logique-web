@@ -150,51 +150,25 @@
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
-                  <li>
-                    Menyusun rencana skema penjualan produk.
-                  </li>
-                  <li>
-                    Berkomunikasi dengan prospek atau klien untuk keperluan penjualan atau pengelolaan produk.
-                  </li>
-                  <li>
-                    Memberikan saran terhadap peningkatan produk sesuai kebutuhan dan bekerjasama dengan tim terkait
-                    dalam membantu proses implementasi.
-                  </li>
-                  <li>
-                    Menyusun laporan terkait penjualan dan peningkatan produk kepada supervisor atau atasan.
-                  </li>
-                  <li>
-                    Melakukan segala aktifitas sales yang berkaitan dengan produk.
-                  </li>
-                  <li>
-                    Melakukan pemasaran dan branding produk secara digital (online).
-                  </li>
-                  <li>
-                    Mambantu dan berkolaborasi dengan tim digital marketing.
-                  </li>
+                  <li>Menyusun rencana skema penjualan produk</li>
+                  <li>Berkomunikasi dengan prospek atau klien untuk keperluan penjualan atau pengelolaan produk</li>
+                  <li>Memberikan saran terhadap peningkatan produk sesuai kebutuhan dan bekerjasama dengan tim terkait dalam membantu proses implementasi</li>
+                  <li>Menyusun laporan terkait penjualan dan peningkatan produk kepada supervisor atau atasan</li>
+                  <li>Melakukan segala aktifitas sales yang berkaitan dengan produk</li>
+                  <li>Melakukan pemasaran dan branding produk secara digital (online)</li>
+                  <li>Membantu dan berkolaborasi dengan tim digital marketing</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Must Skill/Experience</h3>
                 <ul class="career-list">
-                  <li>
-                    Memiliki pengalaman sebagai Product Consultant atau setara minimal selama 3 tahun.
-                  </li>
-                  <li>
-                    Memiliki kemampuan analisa dan pemecahan masalah yang baik.
-                  </li>
-                  <li>
-                    Memiliki pengetahuan yang baik dalam bidang pembuatan website, web system, atau aplikasi mobile.
-                  </li>
-                  <li>
-                    Memiliki kemampuan komunikasi verbal dan tertulis yang efektif.
-                  </li>
-                  <li>
-                    Memiliki kemampuan presentasi dan interpersonal yang baik.
-                  </li>
-                  <li>
-                    Memahami proses dan dinamika dunia sales.
-                  </li>
+                  <li>Memiliki pengalaman sebagai Product Consultant atau setara minimal selama 3 tahun.</li>
+                  <li>Memiliki kemampuan analisa dan pemecahan masalah yang baik.</li>
+                  <li>Memiliki pengetahuan yang baik dalam bidang pembuatan website, web system, atau aplikasi mobile.</li>
+                  <li>Memiliki kemampuan komunikasi verbal dan tertulis yang efektif.</li>
+                  <li>Memiliki kemampuan presentasi dan interpersonal yang baik.</li>
+                  <li>Memahami proses dan dinamika dunia sales.</li>
+                  <li>Memiliki pemikiran strategy yang baik</li>
                 </ul>
               </div>
               <div class="career-requirement">
@@ -209,80 +183,83 @@
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
-                  <li>
-                    Kesempatan bertemu banyak klien dari berbagai macam bidang dan industri.
-                  </li>
-                  <li>
-                    Dapat beradaptasi dalam hal komunikasi kepada banyak klien yang multikultural.
-                  </li>
+                  <li>Anda dapat mengalami dalam seluruh siklus pengembangan produk mulai dari perencanaan hingga pemasaran digital.</li>
+                  <li>Anda dapat bertanggung jawab atas beberapa produk yang berbeda.</li>
+                  <li>Anda bisa mendapatkan keahlian di berbagai bidang</li>
+                  <li>Hasil kerja yang Anda berikan dapat di manfaatkan oleh orang banyak</li>
                 </ul>
               </div>
-              <!-- <div class="career-requirement">
+              <div class="career-requirement">
                 <h3 class="section-title">How a Product Manager in LOGIQUE works usually</h3>
-                <h4 class="section-subtitle">Product Manager Assistant</h4>
+                <!-- <h4 class="section-subtitle">Product Manager Assistant</h4> -->
+
+ 　
+   
+   
+  
+   
+          
+    
+
                 <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:00 – 9:30</div>
-                    <div class="work-schedule__text">Check Google Analytics and inquiries about the product</div>
+                    <div class="work-schedule__time">10:00 - 10:30</div>
+                    <div class="work-schedule__text">Daily Scrum Meeting</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:30 – 10:30</div>
-                    <div class="work-schedule__text">Check and reply for application of demo usage</div>
+                    <div class="work-schedule__time">10:30 – 10:45</div>
+                    <div class="work-schedule__text">Check Trello, Git and Slack, membuat plan ”to do” hari ini</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">10:30 – 11:30</div>
-                    <div class="work-schedule__text">Have an internal confirmation / meeting with developers and digital
-                      marketers
-                      to
-                      confirm the schedule and progress</div>
+                    <div class="work-schedule__time">10:44 – 12:30</div>
+                    <div class="work-schedule__text">Programming for product</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">11:30 – 12:30</div>
+                    <div class="work-schedule__time">12:30 - 13:00</div>
                     <div class="work-schedule__text">Lunch Break</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">12:30 – 14:00</div>
-                    <div class="work-schedule__text">Plan and arrange offline marketing and event</div>
+                    <div class="work-schedule__time">13:00 – 13:30</div>
+                    <div class="work-schedule__text">Internal meeting dengan tim Product A untuk mendiskusikan progress and juga menetapkan target baru untuk product</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">14:00 – 16:00</div>
-                    <div class="work-schedule__text">Make some wireframes for new features of a product</div>
+                    <div class="work-schedule__time">13:30 – 16:30</div>
+                    <div class="work-schedule__text">Melanjutkan programming dan juga setting server untuk product</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">16:00</div>
-                    <div class="work-schedule__text">Go home</div>
+                    <div class="work-schedule__time">16:30</div>
+                    <div class="work-schedule__text">Pulang</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">19:00 – 21:00</div>
-                    <div class="work-schedule__text">Check members’ daily report and give them instructions for Tomorrow
-                    </div>
+                    <div class="work-schedule__time">20:00 – 22:00</div>
+                    <div class="work-schedule__text">Melanjutan programming product</div>
                   </div>
                 </div>
-              </div> -->
+              </div>
             </div>
           </div>
         </div>
       </section>
 
-      <!-- <section class="container-fluid bg--salary">
+      <section class="container-fluid bg--salary">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <h3 class="section-title">Job Description</h3>
+              <h3 class="section-title">Expectation skill for each position :</h3>
               <div class="row">
                 <div class="col-md-4 col-sm-12">
                   <div class="salary-range">
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
-                        <span class="salary-range__salary">100 juta IDR / Year</span>
+                        <span class="salary-range__salary">100 juta / tahun</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">Product Developer:</h5>
                     </div>
                     <ul class="salary-range__list">
-                      <li>Can analyze and suggest what / how we should improve</li>
-                      <li>Can manage development team and run small budget digital marketing campaigns</li>
-                      <li>Good at reporting</li>
+                      <li>Mengerti dan bisa melakukan melakukan pembuatan program paling tidak satu Bahasa pemrograman (PHP atau Javascript)</li>
+                      <li>Bisa melakukan pembuatan program sesuai dengan panduan dengan sedikit masalah</li>
+                      <li>Mampu memahami bahasa pemrograman yang dibuat oleh developers lain dan memperbaharuinya</li>
                     </ul>
                   </div>
                 </div>
@@ -291,16 +268,14 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <span class="salary-range__salary">100 - 200 juta IDR / Year</span>
+                        <!-- <span class="salary-range__salary">100 - 200 juta IDR / Year</span> -->
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">Product Developer:</h5>
                     </div>
                     <ul class="salary-range__list">
-                      <li>Can analyze well and decide what / how we should improve</li>
-                      <li>Can manage development team and solve the issues well</li>
-                      <li>Run digital marketing and offline campaigns</li>
-                      <li>Good at reporting and planning</li>
-                      <li>Good at communicating with user clients and solving problems</li>
+                      <li>Mengerti dan memahami soal pemrograman dan bahas pemrograman (minimal PHP dan JavaScript)</li>
+                      <li>Mampu mengikuti dan memahami perkembangan terbaru dalam hal tekonologi dan hal lainnya</li>
+                      <li>Mampu menangani dan mengelola Database dengan baik, serta memiliki pengetahuan tentang infrastruktur</li>
                     </ul>
                   </div>
                 </div>
@@ -309,16 +284,14 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <span class="salary-range__salary">200 - 400 juta IDR / Year</span>
+                        <!-- <span class="salary-range__salary">200 - 400 juta IDR / Year</span> -->
                       </div>
                       <h5 class="section-title">Product Manager:</h5>
                     </div>
                     <ul class="salary-range__list">
-                      <li>Can analyze well and decide what / how we should improve</li>
-                      <li>Can manage team members well and have a good communication with other teams</li>
-                      <li>Excellent in reporting to the management and make good strategy</li>
-                      <li>Plan good sales and marketing plan and can do sales activities by themselves</li>
-                      <li>Very good at communicating with user clients</li>
+                      <li>Memiliki pengetahuan yang baik dalam sistem arsitek dan design untuk DevOps</li>
+                      <li>Memiliki pengetahuan yang luas tentang pemrograman dan mampu memimpin anggota tim developers</li>
+                      <li>Memiliki kemampuan yang tinggi dalam menyelesaikan sebuah masalah dan mampu melakukan pembuatan program dengan cepat.</li>
                     </ul>
                   </div>
                 </div>
@@ -326,7 +299,53 @@
             </div>
           </div>
         </div>
-      </section> -->
+      </section>
+
+      <section class="container-fluid">
+        <div class="container--max-width text-center">
+          <div class="row">
+            <div class="col-sm-offset-2 col-sm-8">
+              <h3>
+                <b>We are developing and running these products <br>
+                <span style="font-size: 20px">(and more secret product - project are on going)</span></b>
+              </h3>
+              <div class="lgq-products">
+                <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
+                <img class="product-list__img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
+                <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="container-fluid message-from">
+        <div class="container--max-width">
+          <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="message-from__content">
+                <div class="message-from__testi-wrapper">
+                  <h4 style="font-size: 22px">Message from Eric, <span>Product Manager</span></h4>
+                  <div class="message-from__testi">
+                    <p>
+                      Di LOGIQUE saya memulai karir 6 tahun yang lalu sebagai mahasiswa magang dari President University. Saat itu, saya berusaha keras untuk belajar bagaimana terjun di dalam dunia kerja dan memberikan hasil yang terbaik untuk perusahaan. LOGIQUE sangat menghargai kontribusi yang saya berikan dan saya senang sekali mendapat tawaran pekerjaan sebagai pegawai tetap bahkan sebelum saya lulus kuliah.
+                      <br><br>
+                      Sebagai pegawai, saya merintis karir sebagai Junior Front End Developer. Saya mempelajari bagaimana cara menjadi seorang Front End Developer yang baik dari rekan-rekan kerja yang hebat dan juga dari saya pribadi secara mandiri. Saya memahami kekuatan saya ada di kecepatan kerja, saya mampu mengerjakan tugas yang diberikan tiga kali lebih cepat dibandingkan dengan rekan kerja yang satu level dengan saya dan saya memaksimalkan hal itu. Atas semua kontribusi tersebut, karir saya terus meningkat hingga menjadi Senior Front End Developer.
+                      <br><br>
+                      Tidak sampai disitu, LOGIQUE mampu melihat dan memaksimalkan potensi saya. Saya dilibatkan dalam manajemen proyek yang merupakan impian saya di masa yang akan datang, dan saya berhasil. Sekarang saya bekerja di LOGIQUE sebagai Project Manager.
+                      <br><br>
+                      Anda pun bisa seperti saya, ayo bergabung ke LOGIQUE dan ikuti jejak saya.
+                    </p>
+                  </div>
+                </div>
+                <div class="message-from__img">
+                  <img src="/img/career/bg-img/eric-pm.png" alt="Eric - Product Manager">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
       <section class="container-fluid bg--career-apply --mb-2em">
         <div class="container--max-width">
