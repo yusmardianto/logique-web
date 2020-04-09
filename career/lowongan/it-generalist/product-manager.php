@@ -328,13 +328,7 @@
                   <h4 style="font-size: 22px">Message from Eric, <span>Product Manager</span></h4>
                   <div class="message-from__testi">
                     <p>
-                      Di LOGIQUE saya memulai karir 6 tahun yang lalu sebagai mahasiswa magang dari President University. Saat itu, saya berusaha keras untuk belajar bagaimana terjun di dalam dunia kerja dan memberikan hasil yang terbaik untuk perusahaan. LOGIQUE sangat menghargai kontribusi yang saya berikan dan saya senang sekali mendapat tawaran pekerjaan sebagai pegawai tetap bahkan sebelum saya lulus kuliah.
-                      <br><br>
-                      Sebagai pegawai, saya merintis karir sebagai Junior Front End Developer. Saya mempelajari bagaimana cara menjadi seorang Front End Developer yang baik dari rekan-rekan kerja yang hebat dan juga dari saya pribadi secara mandiri. Saya memahami kekuatan saya ada di kecepatan kerja, saya mampu mengerjakan tugas yang diberikan tiga kali lebih cepat dibandingkan dengan rekan kerja yang satu level dengan saya dan saya memaksimalkan hal itu. Atas semua kontribusi tersebut, karir saya terus meningkat hingga menjadi Senior Front End Developer.
-                      <br><br>
-                      Tidak sampai disitu, LOGIQUE mampu melihat dan memaksimalkan potensi saya. Saya dilibatkan dalam manajemen proyek yang merupakan impian saya di masa yang akan datang, dan saya berhasil. Sekarang saya bekerja di LOGIQUE sebagai Project Manager.
-                      <br><br>
-                      Anda pun bisa seperti saya, ayo bergabung ke LOGIQUE dan ikuti jejak saya.
+                    Sejak awal saya bergabung sebagai product manager banyak tantangan yang saya hadapi namun ini sebuah pengalaman yang sangat menyenangkan karena kita bisa membangun produk yang membuat rasa ownership kita akan produk yang kita kembangkan. Untuk mengembangkan product ini pun banyak ilmu baru yang harus saya pelajari lebih dalam seperti ui/ux sebuah product bukan hanya dari segi tampilan akan tetapi lebih ke arah image atau branding yang ingin diberikan kepada user ketika menggunakan product yang kita miliki. Sebagai product manager, kreatifitas dan ide yang kita miliki pun harus tak terbatas. Meskipun begitu dari ide-ide yang sudah kita dapatkan haruslah di seleksi kembali agar efektivitas dan tujuan awal sebuah product tetap tercapai.
                     </p>
                   </div>
                 </div>
