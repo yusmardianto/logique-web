@@ -2806,7 +2806,7 @@ ul.candiate-criteria__reject li::before {
 }
 .message-from__content > .message-from__testi-wrapper > .message-from__testi {
   max-height: 230px;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 .case-study__carousel .carousel-control {
   background: white;
