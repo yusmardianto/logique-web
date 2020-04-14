@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:300,400,500,700,800,900&display=swap'");
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap');
 html,
 body {
   font-family: "Raleway", "sans-serif";
@@ -861,7 +862,7 @@ ul.medsos-new li a {
     no-repeat;
 }
 .bg--working {
-  background: url("../img//career/bg-img/bg-working.png") center/cover no-repeat;
+  background: url("../career/pedoman-hr/img/main-banner.png") center/cover no-repeat;
 }
 .bg--yoshi {
   background-image: url("../img/career/bg-img/bg-yoshi2.png");
@@ -3084,3 +3085,150 @@ font-weight: 500;
   background-color: #fbc935;
 }
 /* END MEGAMENU */
+
+.hr-rule .header__title {
+  color: rgb(255, 255, 255);
+  font-size: 35px;
+  font-weight: 900;
+  letter-spacing: 0px;
+}
+.hr-rule .header-banner p {
+  color: rgb(255, 255, 255);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  letter-spacing: 0px;
+}
+.hr-rule .bg-1--- {
+  background: linear-gradient(-225deg, rgb(0, 170, 181) 0%, rgb(176, 255, 192) 100%);
+  padding: 30px 30px;
+}
+.hr-rule .bg-2--- {
+  background: linear-gradient(-45deg, rgb(233, 147, 255) 0%, rgb(153, 201, 255) 100%);
+  padding: 0px 30px;
+}
+.hr-rule .bg-2--- h2 {
+  padding-top: 50px;
+}
+.hr-rule .bg-2--- img {
+  margin: -35px auto -17px;
+}
+.hr-rule .bg-3--- {
+  background: linear-gradient(-45deg, rgb(255, 216, 83) 0%, rgb(249, 156, 78) 100%);
+  padding: 0px 30px;
+}
+.hr-rule .bg-3--- h2 { 
+  padding-top: 30px;
+}
+.hr-rule .bg-3--- img { 
+  margin: -20px auto -55px;
+}
+.hr-rule .bg-4--- {
+  background: linear-gradient(-45deg, rgb(40, 146, 255) 0%, rgb(177, 237, 244) 100%);
+  padding: 0px 30px;
+}
+.hr-rule .bg-4--- h2 { 
+  padding-top: 50px;
+}
+.hr-rule .bg-5--- {
+  background: linear-gradient(-45deg, rgb(204, 203, 223) 0%, rgb(225, 225, 225) 100%);
+}
+.hr-rule .bg-5--- h2 { 
+  padding-top: 30px;
+}
+.hr-rule .bg-5--- img { 
+  padding: 30px;
+}
+.hr-rule .bg-6--- {
+  background: linear-gradient(-225deg, rgb(109, 203, 141) 0%, rgb(254, 255, 146) 100%);
+  padding: 0 30px;
+}
+.hr-rule .bg-6--- h2 { 
+  padding-top: 70px;
+}
+.hr-rule .bg-6--- img { 
+  margin: -20px 0 -30px;
+}
+.hr-rule .bg-7--- {
+  background: linear-gradient(-45deg, rgb(255, 201, 111) 0%, rgb(217, 156, 255) 100%);
+  padding: 0 30px;
+}
+.hr-rule .bg-7--- h2 { 
+  padding-top: 60px;
+}
+.hr-rule .bg-7--- img { 
+  margin: -20px 0 -30px;
+}
+
+.hr-rule .box-hr-rule-1 {
+  border-radius: 8px;
+  height: auto;
+  margin-bottom: 30px;
+}
+.hr-rule .box-hr-rule-1 h2 {
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+}
+.hr-rule .box-hr-rule-1 p {
+  color: rgb(0, 0, 0);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  letter-spacing: 0.38px;
+  line-height: 25px;
+}
+
+@media (max-width: 768px) {
+  .hr-rule .box-hr-rule-1 {
+    padding-bottom: 30px;
+  }
+  .hr-rule .box-hr-rule-1 img {
+    width: 100%;
+    margin: 0 auto 10px;
+  }
+  .hr-rule .bg-2--- img {
+    margin-top: 10px;
+    margin-bottom: -40px;
+  }
+  .hr-rule .bg-3--- img {
+    margin-bottom: -40px;
+  }
+  .hr-rule .bg-4--- img {
+    margin-bottom: -30px;
+    margin-top: 20px;
+  }
+  .hr-rule .bg-5--- img {
+    margin-bottom: -40px;
+  }
+  .hr-rule .bg-6--- img {
+    margin-bottom: -50px;
+    margin-top: 20px;
+  }
+  .hr-rule .bg-7--- img {
+    margin-bottom: -55px;
+    margin-right: -20px;
+  }
+  .hr-rule .bg-5--- {
+    padding: 0 30px 30px;
+  }
+  .hr-rule .box-hr-rule-1 h2 {
+    font-size: 18px;
+  }
+  .hr-rule .box-hr-rule-1 p {
+    font-size: 12px;
+  }
+  .hr-rule .bg-2--- .row , .hr-rule .bg-4--- .row , .hr-rule .bg-6--- .row {
+    display: grid;
+  }
+  .hr-rule .row .order1 {
+    order: 1;
+  }
+  .hr-rule .row .order2 {
+    order: 2;
+  }
+  .row .box-hr-rule-1.bg-7--- {
+    margin-bottom: 0;
+  }
+}

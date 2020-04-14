@@ -78,7 +78,7 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-  <div class="wrapper">
+  <div class="wrapper hr-rule">
 
     <!-- Header -->
     <?php include '../layout-career/header-career.php'; ?>
@@ -108,11 +108,10 @@
         </div>
         <div class="container--max-width header-banner">
           <div class="row">
-            <div class="col-sm-offset-1 col-xs-12 col-md-6 col-lg-8 col-sm-10">
-              <h1 class="header__title">Lingkungan Kerja dan Pedoman HR</h1>
+            <div class="col-sm-offset-1 col-xs-12 col-md-4">
+              <h1 class="header__title">Working Environment and HR Rule</h1>
               <p>
-                Di LOGIQUE, pedoman HR yang dibuat bertujuan untuk membuat lingkungan kerja bagi para staff kami menjadi
-                lebih fleksibel dan nyaman.
+              LOGIQUE is a fast-growing Web / System Developer and Digital Marketing Consultancy in Jakarta and Yogyakarta. A founder came to Indonesia in 2012 from Japan and has provided International standard IT services and Cloud products to Indonesian Clients. Here's an introduction of LOGIQUE's work.
               </p>
             </div>
           </div>
@@ -122,135 +121,120 @@
       <section class="container-fluid">
         <div class="container--max-width">
           <div class="row">
-            <div class="col-sm-offset-1 col-sm-10">
-              <h2 class="section-title --black">Pedoman HR</h2>
-              <div class="row row__same-height">
-                <div class="col-xs-12 col-md-6">
-                  <div class="hr-rule__img-wrapper" data-aos="fade-up">
-                    <img class="img-responsive center-block" src="/img/career/bg-img/bg-jam-kerja.png"
-                      alt="Jam Kerja / Minggu">
+            <div class="col-xs-12 col-md-offset-1 col-md-10">
+              <h2 class="section-title --black">HR Rule</h2>
+            </div>
+          </div>
+          
+          <div class="row">
+            <div class="col-xs-12 col-md-offset-1 col-md-10" data-aos="fade-up">
+              <div class="box-hr-rule-1 bg-1---">
+                <div class="row">
+                  <div class="col-xs-12 col-md-6">
+                    <img class="" src="/career/pedoman-hr/img/banner1.svg" alt="Logique HR Rule">
                   </div>
-                </div>
-                <div class="col-xs-12 col-md-6">
-                  <div class="hr-rule__content" data-aos="fade-left">
-                    <h3 class="section_subtitle">Jam Kerja / Minggu</h3>
-                    <p>
-                      Di Logique Anda bisa bekerja tidak berdasarkan jumlah jam kerja perhari, Anda bisa mengatur
-                      seberapa efesien Anda bekerja dalam satu hari karena di Logique kami bekerja dengan hitungan jam
-                      kerja per-minggu.
-                    </p>
+                  <div class="col-xs-12 col-md-6">
+                    <h2>Jam Kerja / Fleksibel</h2>
+                    <p>Tidak terjebak dalam jam rutin konvensional yang mengharuskan karyawan menghabiskan 8 jam kerja / hari di kantor. Logique mengedepankan efektivitas dengan sistem 40 jam kerja / minggu, maka bekerja menjadi lebih fleksibel dengan sedikit jam kerja di hari tertentu dan menambah jam kerja di lain hari. Kami juga menawarkan pilihan waktu mulai bekerja (start time) dan pedoman core time yang dapat membantu memaksimalkan efektivitas kerja dalam fleksibilitas yang diberikan</p>
                   </div>
-                </div>
-              </div>
-              <div class="row row__same-height">
-                <div class="col-xs-12 col-md-6 col-md-push-6">
-                  <div class="hr-rule__img-wrapper" data-aos="fade-up">
-                    <img class="img-responsive center-block" src="/img/career/bg-img/bg-kerja-remote.png"
-                      alt="Kerja Remote">
-                  </div>
-                </div>
-                <div class="col-xs-12 col-md-6 col-md-pull-6">
-                  <div class="hr-rule__content" data-aos="fade-right">
-                    <h3 class="section_subtitle">Kerja Remote</h3>
-                    <p>
-                      Karyawan di Logqiue mendapatkan keuntungan untuk bekerja dimanapun yang mereka inginkan satu hari
-                      dalam seminggu dengan jumlah hari yang bisa berubah tergantung dengan bagaimana cara anda bekerja
-                      saat remote work
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div class="row row__same-height">
-                <div class="col-xs-12 col-md-6">
-                  <div class="hr-rule__img-wrapper" data-aos="fade-up">
-                    <img class="img-responsive center-block" src="/img/career/bg-img/bg-tax.png" alt="Tax">
-                  </div>
-                </div>
-                <div class="col-xs-12 col-md-6">
-                  <div class="hr-rule__content" data-aos="fade-left">
-                    <h3 class="section_subtitle">Tax</h3>
-                    <p>
-                      Untuk system penggajian Logique akan menanggung pajak yang seharusnya di bayarkan oleh masing2
-                      karyawan, sehingga karyawan tidak akan mendapatkan potang untuk membayarkan pajaknya.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div class="row row__same-height">
-                <div class="col-xs-12 col-md-6 col-md-push-6">
-                  <div class="hr-rule__img-wrapper" data-aos="fade-up">
-                    <img class="img-responsive center-block" src="/img/career/bg-img/bg-gaji.png"
-                      alt="Kenaikan Gaji Kapanpun">
-                  </div>
-                </div>
-                <div class="col-xs-12 col-md-6 col-md-pull-6">
-                  <div class="hr-rule__content" data-aos="fade-right">
-                    <h3 class="section_subtitle">Kenaikan Gaji Kapanpun</h3>
-                    <p>
-                      Kenaikan gaji untuk setahun sekali??? Kata2 itu tidak akan pernah ada di Logique karena di Logique
-                      anda bisa naik posisi, level kapanpun dalam waktu yang sesingkat mungkin, tergantung bagaimana
-                      cara
-                      anda bekerja dan apa yang bisa Anda berikan di Logique.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div class="row row__same-height">
-                <div class="col-xs-12 col-md-6">
-                  <div class="hr-rule__img-wrapper" data-aos="fade-up">
-                    <img class="img-responsive center-block" src="/img/career/bg-img/bg-bonus.png"
-                      alt="Unlimited Bonus">
-                  </div>
-                </div>
-                <div class="col-xs-12 col-md-6">
-                  <div class="hr-rule__content" data-aos="fade-left">
-                    <h3 class="section_subtitle">Unlimited Bonus</h3>
-                    <p>
-                      Logique mempunyai berbagai macam bonus yang bisa anda dapatkan setiap bulannya atau setiap
-                      tahunnya
-                      yang bisa anda dapat kan tergantung dengan performa dan juga kontribusi Anda dalam pengerjaan
-                      project
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div class="row row__same-height">
-                <div class="col-xs-12 col-md-6 col-md-push-6">
-                  <div class="hr-rule__img-wrapper" data-aos="fade-up">
-                    <img class="img-responsive center-block" src="/img/career/bg-img/bg-asuransi.png"
-                      alt="Asuransi Kesehatan">
-                  </div>
-                </div>
-                <div class="col-xs-12 col-md-6 col-md-pull-6">
-                  <div class="hr-rule__content" data-aos="fade-right">
-                    <h3 class="section_subtitle">Asuransi Kesehatan</h3>
-                    <p>
-                      Tak hanya dalam hal performa pekerjaan, Logique juga memperhatikan kesehatan para karyawannya maka
-                      dari itu Logique memberikan benefit asuransi kesehatan yang bisa di pakai dimanapun dengan system
-                      cashless
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div class="row row__same-height">
-                <div class="col-xs-12 col-md-6">
-                  <div class="hr-rule__img-wrapper" data-aos="fade-up">
-                    <img class="img-responsive center-block" src="/img/career/bg-img/bg-unoff.png"
-                      alt="Unofficial Event">
-                  </div>
-                </div>
-                <div class="col-xs-12 col-md-6">
-                  <div class="hr-rule__content" data-aos="fade-left">
-                    <h3 class="section_subtitle">Unofficial Event</h3>
-                    <p>
-                      Sebagai pelepas lelah untuk karyawannya, Logique menawarkan berbagai kegiatan yang akan di subsidy
-                      dari perusahaan. Jenis kegiatan akan di bebaskan tergantung pada keinginan karyawan.
-                    </p>
-                  </div>
-                </div>
+                </div>            
               </div>
             </div>
           </div>
+          <div class="row">
+            <div class="col-xs-12 col-md-offset-1 col-md-10" data-aos="fade-up">
+              <div class="box-hr-rule-1 bg-2---">
+                <div class="row">
+                  <div class="col-xs-12 col-md-6 order2">
+                    <h2>Kerja Dimana Saja</h2>
+                    <p>Logique memiliki kebijakan bekerja dimana saja (remote working) untuk karyawan yang secara profesional dapat diberikan kepercayaan, memiliki kapasitas, dan kemampuan yang baik untuk menerima keuntungan ini.</p>
+                  </div>
+                  <div class="col-xs-12 col-md-6 text-center order1">
+                    <img class="" src="/career/pedoman-hr/img/banner2.svg" alt="Logique HR Rule">
+                  </div>
+                </div>            
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-xs-12 col-md-offset-1 col-md-10" data-aos="fade-up">
+              <div class="box-hr-rule-1 bg-3---">
+                <div class="row">
+                  <div class="col-xs-12 col-md-6 text-center">
+                    <img class="" src="/career/pedoman-hr/img/banner3.svg" alt="Logique HR Rule">
+                  </div>
+                  <div class="col-xs-12 col-md-6">
+                    <h2>Kenaikan Gaji Kapanpun</h2>
+                    <p>Tidak harus menunggu 1 tahun untuk mendapatkan kenaikan gaji seperti kebanyakan perusahaan. Tidak perlu khawatir juga dengan promosi yang hanya diberikan pada karyawan lama di perusahaan. Logique mengedepankan prinsip Logical dan Fair, sehingga orang yang menentukan layak  & tidaknya untuk gaji dan posisi lebih yang tinggi dengan performa, hasil kerja, dan kontribusi untuk perusahaan adalah Anda sendiri.</p>
+                  </div>
+                </div>            
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-md-offset-1 col-md-10" data-aos="fade-up">
+              <div class="box-hr-rule-1 bg-4---">
+                <div class="row">
+                  <div class="col-xs-12 col-md-6 order2">
+                    <h2>Kesempatan menjadi yang Terbaik</h2>
+                    <p>Setiap bulan Logique memberikan apresiasi & bonus bagi karyawan terbaik yang sudah bekerja maksimal & memberi kontribusi luar biasa untuk perusahaan. Tidak ada batasan jumlah karyawan untuk apresiasi ini, Logique sudah beberapa kali memberikan bonus pada > 3 karyawan di bulan yang sama.</p>
+                  </div>
+                  <div class="col-xs-12 col-md-6 text-right order1">
+                    <img class="" src="/career/pedoman-hr/img/banner4.svg" alt="Logique HR Rule">
+                  </div>
+                </div>            
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-xs-12 col-md-offset-1 col-md-10" data-aos="fade-up">
+              <div class="box-hr-rule-1 bg-5---">
+                <div class="row">
+                  <div class="col-xs-12 col-md-6">
+                    <img class="" src="/career/pedoman-hr/img/banner5.svg" alt="Logique HR Rule">
+                  </div>
+                  <div class="col-xs-12 col-md-6">
+                    <h2>Pengembangan Diri dan Tim</h2>
+                    <p>Memiliki wawasan dan kemampuan luas tentu menjadi nilai tambah bagi karyawan. Di Logique, Anda memiliki berbagai kesempatan untuk memgembangkan diri bersama dengan orang-orang terbaik di proyek-proyek yang bertaraf Internasional serta lokal berskala besar. Anda juga dapat mengikuti training atau olahraga secara inisiatif dan dapat diajukan oleh masing-masing tim.</p>
+                  </div>
+                </div>            
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-md-offset-1 col-md-10" data-aos="fade-up">
+              <div class="box-hr-rule-1 bg-6---">
+                <div class="row">
+                  <div class="col-xs-12 col-md-6 order2">
+                    <h2>Unlimited Bonus</h2>
+                    <p>Logique menyediakan berbagai macam bonus yang bisa Anda dapatkan sesuai dengan performa dan kontribusi Anda terhadap perusahaan.</p>
+                  </div>
+                  <div class="col-xs-12 col-md-6 text-right order1">
+                    <img class="" src="/career/pedoman-hr/img/banner6.svg" alt="Logique HR Rule">
+                  </div>
+                </div>            
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-xs-12 col-md-offset-1 col-md-10" data-aos="fade-up">
+              <div class="box-hr-rule-1 bg-7---">
+                <div class="row">
+                  <div class="col-xs-12 col-md-6 text-center">
+                    <img class="" src="/career/pedoman-hr/img/banner7.svg" alt="Logique HR Rule">
+                  </div>
+                  <div class="col-xs-12 col-md-6">
+                    <h2>Asuransi Kesehatan</h2>
+                    <p>Tak hanya dalam hal pekerjaan, Logique juga memperhatikan kesehatan para karyawan dengan memberikan benefit asuransi kesehatan Allianz.</p>
+                  </div>
+                </div>            
+              </div>
+            </div>
+          </div>
+
         </div>
       </section>
 
