@@ -111,7 +111,7 @@
             <div class="col-sm-offset-1 col-xs-12 col-md-4">
               <h1 class="header__title">Working Environment and HR Rule</h1>
               <p>
-              LOGIQUE is a fast-growing Web / System Developer and Digital Marketing Consultancy in Jakarta and Yogyakarta. A founder came to Indonesia in 2012 from Japan and has provided International standard IT services and Cloud products to Indonesian Clients. Here's an introduction of LOGIQUE's work.
+              LOGIQUE memiliki pola kerja dan juga cara bekerja yang cukup unik dibandingkan dengan perusahaan lainnya. Baik itu dari sisi jam kerja, cara evaluasi, dan juga keuntungan yang bisa didapatkan bagi setiap karyawan.
               </p>
             </div>
           </div>
@@ -122,7 +122,7 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-xs-12 col-md-offset-1 col-md-10">
-              <h2 class="section-title --black">HR Rule</h2>
+              <h2 class="section-title --black">Pedoman HR</h2>
             </div>
           </div>
           
@@ -131,7 +131,7 @@
               <div class="box-hr-rule-1 bg-1---">
                 <div class="row">
                   <div class="col-xs-12 col-md-6">
-                    <img class="" src="/career/pedoman-hr/img/banner1.svg" alt="Logique HR Rule">
+                    <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner1.svg" alt="Logique HR Rule">
                   </div>
                   <div class="col-xs-12 col-md-6">
                     <h2>Jam Kerja / Fleksibel</h2>
@@ -147,10 +147,10 @@
                 <div class="row">
                   <div class="col-xs-12 col-md-6 order2">
                     <h2>Kerja Dimana Saja</h2>
-                    <p>Logique memiliki kebijakan bekerja dimana saja (remote working) untuk karyawan yang secara profesional dapat diberikan kepercayaan, memiliki kapasitas, dan kemampuan yang baik untuk menerima keuntungan ini.</p>
+                    <p>LOGIQUE memiliki kebijakan bekerja dimana saja (remote working) untuk karyawan yang secara profesional dapat diberikan kepercayaan, memiliki kapasitas, dan kemampuan yang baik untuk menerima keuntungan ini.</p>
                   </div>
                   <div class="col-xs-12 col-md-6 text-center order1">
-                    <img class="" src="/career/pedoman-hr/img/banner2.svg" alt="Logique HR Rule">
+                    <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner2.svg" alt="Logique HR Rule">
                   </div>
                 </div>            
               </div>
@@ -162,7 +162,7 @@
               <div class="box-hr-rule-1 bg-3---">
                 <div class="row">
                   <div class="col-xs-12 col-md-6 text-center">
-                    <img class="" src="/career/pedoman-hr/img/banner3.svg" alt="Logique HR Rule">
+                    <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner3.svg" alt="Logique HR Rule">
                   </div>
                   <div class="col-xs-12 col-md-6">
                     <h2>Kenaikan Gaji Kapanpun</h2>
@@ -181,7 +181,7 @@
                     <p>Setiap bulan Logique memberikan apresiasi & bonus bagi karyawan terbaik yang sudah bekerja maksimal & memberi kontribusi luar biasa untuk perusahaan. Tidak ada batasan jumlah karyawan untuk apresiasi ini, Logique sudah beberapa kali memberikan bonus pada > 3 karyawan di bulan yang sama.</p>
                   </div>
                   <div class="col-xs-12 col-md-6 text-right order1">
-                    <img class="" src="/career/pedoman-hr/img/banner4.svg" alt="Logique HR Rule">
+                    <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner4.svg" alt="Logique HR Rule">
                   </div>
                 </div>            
               </div>
@@ -193,7 +193,7 @@
               <div class="box-hr-rule-1 bg-5---">
                 <div class="row">
                   <div class="col-xs-12 col-md-6">
-                    <img class="" src="/career/pedoman-hr/img/banner5.svg" alt="Logique HR Rule">
+                    <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner5.svg" alt="Logique HR Rule">
                   </div>
                   <div class="col-xs-12 col-md-6">
                     <h2>Pengembangan Diri dan Tim</h2>
@@ -212,7 +212,7 @@
                     <p>Logique menyediakan berbagai macam bonus yang bisa Anda dapatkan sesuai dengan performa dan kontribusi Anda terhadap perusahaan.</p>
                   </div>
                   <div class="col-xs-12 col-md-6 text-right order1">
-                    <img class="" src="/career/pedoman-hr/img/banner6.svg" alt="Logique HR Rule">
+                    <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner6.svg" alt="Logique HR Rule">
                   </div>
                 </div>            
               </div>
@@ -224,7 +224,7 @@
               <div class="box-hr-rule-1 bg-7---">
                 <div class="row">
                   <div class="col-xs-12 col-md-6 text-center">
-                    <img class="" src="/career/pedoman-hr/img/banner7.svg" alt="Logique HR Rule">
+                    <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner7.svg" alt="Logique HR Rule">
                   </div>
                   <div class="col-xs-12 col-md-6">
                     <h2>Asuransi Kesehatan</h2>
