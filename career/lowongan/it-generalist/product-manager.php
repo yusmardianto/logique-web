@@ -252,7 +252,7 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
-                        <span class="salary-range__salary">100 juta / tahun</span>
+                        <span class="salary-range__salary">100 Juta / Tahun</span>
                       </div>
                       <h5 class="section-title">Product Developer:</h5>
                     </div>
@@ -268,7 +268,7 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <!-- <span class="salary-range__salary">100 - 200 juta IDR / Year</span> -->
+                        <span class="salary-range__salary">100 - 250 Juta / Tahun</span>
                       </div>
                       <h5 class="section-title">Product Developer:</h5>
                     </div>
@@ -284,7 +284,7 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <!-- <span class="salary-range__salary">200 - 400 juta IDR / Year</span> -->
+                        <span class="salary-range__salary">250 - 350 Juta / Tahun</span>
                       </div>
                       <h5 class="section-title">Product Manager:</h5>
                     </div>

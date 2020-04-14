@@ -2457,6 +2457,9 @@ ul.candiate-criteria__reject li::before {
   padding-left: 1em;
   text-indent: -1.7em;
 }
+.col-sm-offset-1.col-sm-10.apply-now a.btn-banner-pattern:hover {
+  opacity: .7;
+}
 
 @media (max-width: 991px) {
   .salary-range__list {

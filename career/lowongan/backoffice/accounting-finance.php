@@ -195,20 +195,20 @@
                 <!-- <h4 class="section-subtitle">Akunting & Finance Assistant</h4> -->
                 <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:00 – 9:30</div>
-                    <div class="work-schedule__text">Check Google Analytics and inquiries about the product</div>
+                    <div class="work-schedule__time">9:00 – 10:00</div>
+                    <div class="work-schedule__text">Mengecek email, trello, dan slack dan membuat list to do untuk hari ini</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:00 – 9:30</div>
-                    <div class="work-schedule__text">Check Google Analytics and inquiries about the product</div>
+                    <div class="work-schedule__time">10:00 – 13:00</div>
+                    <div class="work-schedule__text">Melakukan pekerjaan akunting</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:00 – 9:30</div>
-                    <div class="work-schedule__text">Check Google Analytics and inquiries about the product</div>
+                    <div class="work-schedule__time">13:00 – 13:30</div>
+                    <div class="work-schedule__text">Istirahat Makan Siang</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:00 – 9:30</div>
-                    <div class="work-schedule__text">Check Google Analytics and inquiries about the product</div>
+                    <div class="work-schedule__time">14:00 – 18:00</div>
+                    <div class="work-schedule__text">Melakukan Pekerjaan Akunting dan Pajak</div>
                   </div>
                 </div>
               </div>
