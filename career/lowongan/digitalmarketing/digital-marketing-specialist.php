@@ -200,68 +200,77 @@
               </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
-              <!-- <div class="career-requirement">
-                <h3 class="section-title">How a Digital Marketing Specialist in LOGIQUE works usually</h3>
+              <div class="career-requirement">
+                <h3 class="section-title">Aktivitas Harian Digital Marketing di LOGIQUE</h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">09:00 - 09:30</div>
-                    <div class="work-schedule__text">start dokodemo, checking email, trello, slack, for new task or
-                      feedback for today</div>
+                    <div class="work-schedule__time">08:30 – 09:30</div>
+                    <div class="work-schedule__text">Cek email, trello, slack untuk melihat to do list atau perkembangan dari task yang sedang dikerjakan.</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">09:31 - 12:00</div>
-                    <div class="work-schedule__text">draft UI design</div>
+                    <div class="work-schedule__time">09:30 - 11:15</div>
+                    <div class="work-schedule__text"> Riset kata kunci yang akan digunakan dan membuatan konten artikel.</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">12:00 - 13:00 </div>
-                    <div class="work-schedule__text">break</div>
+                    <div class="work-schedule__time">11:15 - 11:30</div>
+                    <div class="work-schedule__text"> Kirim artikel ke koordinator untuk dicek. </div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">13:01 - 14:00</div>
-                    <div class="work-schedule__text">meeting about new project with Project PIC / PM or internal team
-                      meeting (if any)</div>
+                    <div class="work-schedule__time">11:30 - 12:00</div>
+                    <div class="work-schedule__text"> Publish artikel ke website</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">14:00 - 16:30</div>
-                    <div class="work-schedule__text">continue UI draft design same or different project</div>
+                    <div class="work-schedule__time">12:00 - 13:00</div>
+                    <div class="work-schedule__text"> Istirahat</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">16:30</div>
-                    <div class="work-schedule__text">go home</div>
+                    <div class="work-schedule__time">13:00 - 14:15</div>
+                    <div class="work-schedule__text"> Posting konten social media ke semua platform media sosial LOGIQUE atau klien</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">18:30 - 19:00</div>
-                    <div class="work-schedule__text">learning / reading about design trend.</div>
+                    <div class="work-schedule__time">14:15 - 16:45</div>
+                    <div class="work-schedule__text"> Riset kata kunci untuk artikel kedua dan Pembuatan konten artikel kedua</div>
+                  </div>
+                  <div class="work-schedule__item">
+                    <div class="work-schedule__time">16:45 - 17:00</div>
+                    <div class="work-schedule__text"> Kirim artikel ke koordinator untuk dicek.</div>
+                  </div>
+                  <div class="work-schedule__item">
+                    <div class="work-schedule__time">17:00 - 17:30</div>
+                    <div class="work-schedule__text"> Publish artikel kedua ke website.</div>
+                  </div>
+                  <div class="work-schedule__item">
+                    <div class="work-schedule__time">17:30</div>
+                    <div class="work-schedule__text"> Pulang</div>
                   </div>
                 </div>
-              </div> -->
+              </div>
             </div>
           </div>
         </div>
       </section>
 
-      <!-- <section class="container-fluid bg--salary">
+      <section class="container-fluid bg--salary">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <h3 class="section-title">Expectation skill for each position :</h3>
+              <h3 class="section-title">Skill yang dibutuhkan :</h3>
               <div class="row">
                 <div class="col-md-4 col-sm-12">
                   <div class="salary-range">
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
-                        <span class="salary-range__salary">100 juta IDR / Year</span>
+                        <!-- <span class="salary-range__salary">100 juta IDR / Year</span> -->
                       </div>
                       <h5 class="section-title">Digital Marketing Specialist:</h5>
                     </div>
                     <ul class="salary-range__list">
-                      <li>
-                        Understand about design, can use standard design tools like a adobe family
-                      </li>
-                      <li>
-                        Can read design language system (DLS) / follow guidelines
-                      </li>
+                      <li>Mempunyai passion dalam menulis</li>
+                      <li>Memahami teknik penulisan sesuai dengan kaidah SEO</li>
+                      <li>Mampu melakukan riset kata kunci</li>
+                      <li>Mampu membuat konten media social</li>
+                      <li>Mampu berbahasa Inggris dengan baik</li>
                     </ul>
                   </div>
                 </div>
@@ -270,21 +279,16 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <span class="salary-range__salary">100 - 200 juta IDR / Year</span>
+                        <!-- <span class="salary-range__salary">100 - 200 juta IDR / Year</span> -->
                       </div>
                       <h5 class="section-title">Digital Marketing Specialist:</h5>
                     </div>
                     <ul class="salary-range__list">
-                      <li>
-                        Understand about wireframe, UX, html & css basic, Design standard for print / digital.
-                      </li>
-                      <li>
-                        Understand and can use standar professional design tools beside adobe family, like a sketch,
-                        zeplin or abstract.
-                      </li>
-                      <li>
-                        Quick learning about new design trend or new tools.
-                      </li>
+                      <li>Mempunyai pemahaman mengenai SEO Tools</li>
+                      <li>Mampu melakukan audit website sesuai dengan kaidah SEO</li>
+                      <li>Mampu melakukan analisa dan membuat strategi pembuatan konten</li>
+                      <li>Mampu membuat report kepada klien</li>
+                      <li>Mampu melakukan copy writing</li>
                     </ul>
                   </div>
                 </div>
@@ -293,16 +297,15 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <span class="salary-range__salary">200 - 400 juta IDR / Year</span>
+                        <!-- <span class="salary-range__salary">200 - 400 juta IDR / Year</span> -->
                       </div>
                       <h5 class="section-title">Digital Marketing Specialist:</h5>
                     </div>
                     <ul class="salary-range__list">
-                      <li>Know more about UI/UX, html & css.</li>
-                      <li>Can give suggestion for existing design, problem solving and have a more passion for design.
-                      </li>
-                      <li>Mastering for standar professional design tools include prototyping tools</li>
-                      <li>Understand motiongrahic is a plus.</li>
+                      <li>Selalu up-to-date tentang SEO terbaru</li>
+                      <li>Membuat report progress SEO dan analisis website</li>
+                      <li>Mempunyai pengetahuan dalam hal HTML, JavaScript, CSS, Google Analytics, Google Search Console, dan Google Keyword Planner.</li>
+                      <li>Mampu memberikan solusi kepada middle dan junior content writer jika mengalami masalah</li>
                     </ul>
                   </div>
                 </div>
@@ -310,9 +313,9 @@
             </div>
           </div>
         </div>
-      </section> -->
+      </section>
 
-      <section class="container-fluid bg--career-apply --mb-2em">
+      <section class="container-fluid bg--career-apply --my-2em">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10 apply-now">

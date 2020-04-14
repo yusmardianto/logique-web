@@ -150,83 +150,35 @@
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
-                  <li>
-                    Membuat pembukuan transaksi keuangan kantor dan memastikan terlaksana dengan baik dan sesuai dengan
-                    target.
-                  </li>
-                  <li>
-                    Memastikan seluruh pencatatan transaksi keuangan kantor terlaksana dengan baik dan benar.
-                  </li>
-                  <li>
-                    Melakukan posting jurnal operasional ke dalam sistem keuangan.
-                  </li>
-                  <li>
-                    Membuat Laporan keuangan dan memastikan terlaksana dengan baik dan sesuai dengan target.
-                  </li>
-                  <li>
-                    Menginput data jurnal akuntansi ke dalam sistem yang dimiliki perusahaan.
-                  </li>
-                  <li>
-                    Memeriksa dan melakukan verifikasi kelengkapan dokumen yang berhubungan dengan transaksi keuangan.
-                  </li>
-                  <li>
-                    Memastikan rekonsiliasi dan penyesuaian data finansial terlaksana dengan baik.
-                  </li>
-                  <li>
-                    Membuat Purchase Order dan Invoice berdasarkan Intruksi yang diberikan oleh user dan juga
-                    kelengkapannya
-                  </li>
-                  <li>
-                    Memastikan SOP dalam pembuatan Purchase Order dan Invoice sudah berjalan dengan baik dan benar.
-                  </li>
-                  <li>
-                    Melakukan pencatatan data reimburse karyawan berjalan dengan baik dan tepat berdasarkan bukti yang
-                    diterima.
-                  </li>
-                  <li>
-                    Memastikan data transaksi keuangan kantor sesuai dengan baik dan benar.
-                  </li>
+                  <li>Membuat pembukuan transaksi keuangan kantor dan memastikan terlaksana dengan baik dan sesuai dengan target</li>
+                  <li>Memastikan seluruh pencatatan transaksi keuangan kantor terlaksana dengan baik dan benar.</li>
+                  <li>Melakukan posting jurnal operasional ke dalam sistem keuangan</li>
+                  <li>Membuat Laporan keuangan dan memastikan terlaksana dengan baik dan sesuai dengan target</li>
+                  <li>Menginput data jurnal akuntansi ke dalam sistem yang dimiliki perusahaan</li>
+                  <li>Memeriksa dan melakukan verifikasi kelengkapan dokumen yang berhubungan dengan transaksi keuangan</li>
+                  <li>Memastikan rekonsiliasi dan penyesuaian data finansial terlaksana dengan baik.</li>
+                  <li>Melakukan pencatatan data reimburse karyawan berjalan dengan baik dan tepat berdasarkan bukti yang diterima.</li>
+                  <li>Memastikan data transaksi keuangan kantor sesuai dengan baik dan benar</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Must Skill/Experience</h3>
                 <ul class="career-list">
-                  <li>
-                    Pendidikan minimal D3 Akuntansi (berpengalaman) atau S1 Akuntansi freshgraduate dengan pemahaman
-                    akuntasi yang baik.
-                  </li>
-                  <li>
-                    Berpengalaman di bidangnya akan lebih diutamakan.
-                  </li>
-                  <li>
-                    Memiliki kemampuan untuk mengoperasikan software akuntasi seperti misalnya Ms. Excel atau Accurate.
-                  </li>
-                  <li>
-                    Memiliki kemampuan untuk membuat laporan L/R (laba rugi), Jurnal, Neraca, dll.
-                  </li>
-                  <li>
-                    Memiliki Loyalitas yang tinggi terhadap pekerjaan
-                  </li>
-                  <li>
-                    Mampu bekerja secara tim atau perorangan.
-                  </li>
-                  <li>
-                    Mampu menghadapi target dan bekerja dibawah tekanan.
-                  </li>
-                  <li>
-                    Memiliki ketelitian dan kemampuan berhitung yang baik.
-                  </li>
+                  <li>Pendidikan minimal D3 Akuntansi (berpengalaman) atau S1 Akuntansi freshgraduate dengan pemahaman akuntasi yang baik.</li>
+                  <li>Berpengalaman di bidangnya akan lebih diutamakan</li>
+                  <li>Memiliki kemampuan untuk mengoperasikan software akuntasi seperti misalnya Ms. Excel atau Accurate.</li>
+                  <li>Memiliki kemampuan untuk membuat laporan L/R (laba rugi), Jurnal, Neraca, dll.</li>
+                  <li>Memiliki Loyalitas yang tinggi terhadap pekerjaan</li>
+                  <li>Mampu bekerja secara tim atau perorangan</li>
+                  <li>Mampu menghadapi target dan bekerja dibawah tekanan</li>
+                  <li>Memiliki ketelitian dan kemampuan berhitung yang baik</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Preferable</h3>
                 <ul class="career-list">
-                  <li>
-                    Memiliki Serifikasi Breavet A & B akan lebih diutamakan.
-                  </li>
-                  <li>
-                    Mempunyai pengalaman bekerja di Konsultan Keuangan.
-                  </li>
+                  <li>Memiliki Serifikasi Breavet A & B akan lebih diutamakan.</li>
+                  <li>Mempunyai pengalaman bekerja di Konsultan Keuangan</li>
                 </ul>
               </div>
             </div>
@@ -234,57 +186,32 @@
               <div class="career-requirement">
                 <h3 class="section-title">Rewards dan Worthwhile</h3>
                 <ul class="career-list">
-                  <li>
-                    Anda akan merasa tertantang untuk mengetahui seberapa aman kah web atau aplikasi.
-                  </li>
-                  <li>
-                    Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang
-                    dihadapi.
-                  </li>
+                  <li>Anda dapat bertanggung jawab atas pekerjaan akuntansi dan perpajakan di perusahaan IT yang berkembang dan canggih.</li>
+                  <li>Anda dapat bekerja dengan gaya yang lebih fleksibel daripada biasanya, seperti bekerja pendek pada hari-hari di tengah bulan, walaupun Anda bekerja lebih lama di awal dan akhir bulan</li>
                 </ul>
               </div>
-              <!-- <div class="career-requirement">
-                <h3 class="section-title">How a Akunting & Finance in LOGIQUE works usually</h3>
-                <h4 class="section-subtitle">Akunting & Finance Assistant</h4>
+              <div class="career-requirement">
+                <h3 class="section-title">How an Akunting & Finance in LOGIQUE works usually</h3>
+                <!-- <h4 class="section-subtitle">Akunting & Finance Assistant</h4> -->
                 <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:00 – 9:30</div>
-                    <div class="work-schedule__text">Check Google Analytics and inquiries about the product</div>
+                    <div class="work-schedule__time">9:00 – 10:00</div>
+                    <div class="work-schedule__text">Mengecek email, trello, dan slack dan membuat list to do untuk hari ini</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:30 – 10:30</div>
-                    <div class="work-schedule__text">Check and reply for application of demo usage</div>
+                    <div class="work-schedule__time">10:00 – 13:00</div>
+                    <div class="work-schedule__text">Melakukan pekerjaan akunting</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">10:30 – 11:30</div>
-                    <div class="work-schedule__text">Have an internal confirmation / meeting with developers and digital
-                      marketers
-                      to
-                      confirm the schedule and progress</div>
+                    <div class="work-schedule__time">13:00 – 13:30</div>
+                    <div class="work-schedule__text">Istirahat Makan Siang</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">11:30 – 12:30</div>
-                    <div class="work-schedule__text">Lunch Break</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">12:30 – 14:00</div>
-                    <div class="work-schedule__text">Plan and arrange offline marketing and event</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">14:00 – 16:00</div>
-                    <div class="work-schedule__text">Make some wireframes for new features of a product</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">16:00</div>
-                    <div class="work-schedule__text">Go home</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">19:00 – 21:00</div>
-                    <div class="work-schedule__text">Check members’ daily report and give them instructions for Tomorrow
-                    </div>
+                    <div class="work-schedule__time">14:00 – 18:00</div>
+                    <div class="work-schedule__text">Melakukan Pekerjaan Akunting dan Pajak</div>
                   </div>
                 </div>
-              </div> -->
+              </div>
             </div>
           </div>
         </div>

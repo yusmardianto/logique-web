@@ -150,56 +150,24 @@
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
-                  <li>
-                    Menyaring kandidat yang memenuhi syarat dan merekomendasikannya kepada user
-                  </li>
-                  <li>
-                    Memberikan informasi dasar kepada user tentang kandidat melalui wawancara telepon atau secara
-                    langsung
-                  </li>
-                  <li>
-                    Menyiapkan strategi perekrutan di situs web dan media sosial dengan kolaborasi dengan tim digital
-                    marketing
-                  </li>
-                  <li>
-                    Menyiapkan dokumen, menjadwalkan, dan memfasilitasi kelancaran proses perekrutan karyawan baru dan
-                    berkoordinasi dengan departemen fungsional untuk memberikan arahan kepadang karyawan baru
-                  </li>
-                  <li>
-                    Memberikan layanan konsultasi SDM yang efektif dan berdedikasi kepada karyawan dalam kaitannya
-                    dengan masalah ketidakhadiran dan kesehatan,perilaku dan kemampuan, masalah pengaduan, perubahan
-                    organisasi, dan semua masalah hubungan karyawan lainnya
-                  </li>
-                  <li>
-                    Membantu dalam komunikasi, interpretasi, dan dokumentasi, direktori karyawan, dan bagan organisasi,
-                    dan juga berkontribusi pada pengembangan kebijakan
-                  </li>
-                  <li>
-                    Memonitoring penggunaan HR Tools yang dipakai oleh semua karyawan
-                  </li>
+                  <li>Menyaring kandidat yang memenuhi syarat dan merekomendasikannya kepada user</li>
+                  <li>Memberikan informasi dasar kepada user tentang kandidat melalui wawancara telepon atau secara langsung</li>
+                  <li>Menyiapkan strategi perekrutan di situs web dan media sosial dengan kolaborasi dengan tim digital marketing</li>
+                  <li>Menyiapkan dokumen, menjadwalkan, dan memfasilitasi kelancaran proses perekrutan karyawan baru dan berkoordinasi dengan departemen fungsional untuk memberikan arahan kepadang karyawan baru</li>
+                  <li>Memberikan layanan konsultasi SDM yang efektif dan berdedikasi kepada karyawan dalam kaitannya dengan masalah ketidakhadiran dan kesehatan,perilaku dan kemampuan, masalah pengaduan, perubahan organisasi, dan semua masalah hubungan karyawan lainnya</li>
+                  <li>Membantu dalam komunikasi, interpretasi, dan dokumentasi, direktori karyawan, dan bagan organisasi, dan juga berkontribusi pada pengembangan kebijakan</li>
+                  <li>Memonitoring penggunaan HR Tools yang dipakai oleh semua karyawan </li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Must Skill/Experience</h3>
                 <ul class="career-list">
-                  <li>
-                    Berpendidikan minimal D3 atau S1 Manajemen SDM, Psikologi, Hukum, atau Bahasa Jepang.
-                  </li>
-                  <li>
-                    Mampu mengoperasikan Microsoft Office dan perangkat lunak komputer dasar lainnya.
-                  </li>
-                  <li>
-                    Memiliki pengetahuan dalam hal psikotes merupakan nilai tambah.
-                  </li>
-                  <li>
-                    Mampu belajar dengan cepat (fast learner).
-                  </li>
-                  <li>
-                    Fokus pada hal yang detil.
-                  </li>
-                  <li>
-                    Mempunyai inisiatif yang tinggi.
-                  </li>
+                  <li>Berpendidikan minimal D3 atau S1 Manajemen SDM, Psikologi, Hukum, atau Bahasa Jepang.</li>
+                  <li>Mampu mengoperasikan Microsoft Office dan perangkat lunak komputer dasar lainnya.</li>
+                  <li>Memiliki pengetahuan dalam hal psikotes merupakan nilai tambah.</li>
+                  <li>Mampu belajar dengan cepat (fast learner).</li>
+                  <li>Fokus pada hal yang detil </li>
+                  <li>Mempunyai inisiatif yang tinggi </li>
                 </ul>
               </div>
             </div>
@@ -207,18 +175,13 @@
               <div class="career-requirement">
                 <h3 class="section-title">Rewards dan Worthwhile</h3>
                 <ul class="career-list">
-                  <li>
-                    Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang
-                    dihadapi.
-                  </li>
-                  <li>
-                    Menyalurkan semua ide dan kreatifitas yang anda miliki untuk acara yang di selenggarakan perusahaan.
-                  </li>
+                  <li>Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang dihadapi.</li>
+                  <li>Menyalurkan semua ide dan kreatifitas yang anda miliki untuk acara yang di selenggarakan perusahaan </li>
                 </ul>
               </div>
-              <!-- <div class="career-requirement">
-                <h3 class="section-title">How a HR Recruitment in LOGIQUE works usually</h3>
-                <h4 class="section-subtitle">HR Recruitment Assistant</h4>
+              <div class="career-requirement">
+                <h3 class="section-title">How an HR Recruitment in LOGIQUE works usually</h3>
+                <!-- <h4 class="section-subtitle">HR Recruitment Assistant</h4> -->
                 <div class="work-schedule">
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">9:00 – 9:30</div>
@@ -236,28 +199,31 @@
                       confirm the schedule and progress</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">11:30 – 12:30</div>
-                    <div class="work-schedule__text">Lunch Break</div>
+                    <div class="work-schedule__time">09:00 – 10:00</div>
+                    <div class="work-schedule__text">Check trello, slack, HR tools , membuat daily to do</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">12:30 – 14:00</div>
-                    <div class="work-schedule__text">Plan and arrange offline marketing and event</div>
+                    <div class="work-schedule__time">10:00 – 12:00</div>
+                    <div class="work-schedule__text">Melakukan kegiatan process recruitment </div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">14:00 – 16:00</div>
-                    <div class="work-schedule__text">Make some wireframes for new features of a product</div>
+                    <div class="work-schedule__time">12:00 – 13:00</div>
+                    <div class="work-schedule__text">Istirahat makan siang</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">16:00</div>
-                    <div class="work-schedule__text">Go home</div>
+                    <div class="work-schedule__time">13:00 – 15:00</div>
+                    <div class="work-schedule__text">Meeting mingguan HR Recruitment </div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">19:00 – 21:00</div>
-                    <div class="work-schedule__text">Check members’ daily report and give them instructions for Tomorrow
-                    </div>
+                    <div class="work-schedule__time">15:00 – 17:00</div>
+                    <div class="work-schedule__text">HR daily monitoring dan melakukan process recruitment </div>
+                  </div>
+                  <div class="work-schedule__item">
+                    <div class="work-schedule__time">17:00 – 18:00</div>
+                    <div class="work-schedule__text">Persiapan pulang</div>
                   </div>
                 </div>
-              </div> -->
+              </div>
             </div>
           </div>
         </div>

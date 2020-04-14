@@ -151,57 +151,29 @@
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
-                  <li>
-                    Pendidikan minimal D3 Jurusan Komputer, Design Komunikasi Visual.
-                  </li>
-                  <li>
-                    Membuat design untuk tampilan website, mobile app dan printing (flyer, brochure etc).
-                  </li>
-                  <li>
-                    Kolaborasi dengan Project Manager, dan Departemen lainnya terkait project.
-                  </li>
-                  <li>
-                    Mampu membuat ilustrasi design dengan menggunakan storyboard, proses by proses dan sitemap.
-                  </li>
-                  <li>
-                    Mampu mempresentasikan draft design kepada internal team maupun klien.
-                  </li>
-                  <li>
-                    Dapat mengidentifikasi dan memberi solusi terkait permasalahan baik secara UI maupun UX.
-                  </li>
+                  <li>Pendidikan minimal D3 Jurusan Komputer, Design Komunikasi Visual</li>
+                  <li>Membuat design untuk tampilan website, mobile app dan printing (flyer, brochure etc)</li>
+                  <li>Kolaborasi dengan Project Manager, dan Departemen lainnya terkait project.</li>
+                  <li>Mampu membuat ilustrasi design dengan menggunakan storyboard, proses by proses dan sitemap</li>
+                  <li>Mampu mempresentasikan draft design kepada internal team maupun klien</li>
+                  <li>Dapat mengidentifikasi dan memberi solusi terkait permasalahan baik secara UI maupun UX</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Requirements</h3>
                 <ul class="career-list">
-                  <li>
-                    Pernah bekerja sebagai UI/UX designer (terbuka untuk fresh graduate).
-                  </li>
-                  <li>
-                    Memiliki portfolio design.
-                  </li>
-                  <li>
-                    Dapat membuat wireframe dengan menggunakan standar tools wireframe (balsamiq, moqups).
-                  </li>
-                  <li>
-                    Dapat membuat prototyping menggunakan marvelapp, inVision.
-                  </li>
-                  <li>
-                    Mempunyai semangat kerja yang tinggi, baik dalam berkomunikasi serta memiliki manajemen waktu yang
-                    baik.
-                  </li>
+                  <li>Pernah bekerja sebagai UI/UX designer (terbuka untuk fresh graduate)</li>
+                  <li>Memiliki portfolio design</li>
+                  <li>Dapat membuat wireframe dengan menggunakan standar tools wireframe (balsamiq, moqups)</li>
+                  <li>Dapat membuat prototyping menggunakan marvelapp, inVision</li>
+                  <li>Mempunyai semangat kerja yang tinggi, baik dalam berkomunikasi serta memiliki manajemen waktu yang baik.</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Required Skill</h3>
                 <ul class="career-list">
-                  <li>
-                    Memiliki kemampuan untuk menggunakan software desain (Photoshop, Illustrator, dll).
-                  </li>
-                  <li>
-                    Terbiasa menggunakan profesional standar design tools seperti sketch, adobe illustrator, photoshop,
-                    zeplin.
-                  </li>
+                  <li>Memiliki kemampuan untuk menggunakan software desain (Photoshop, Illustrator, dll).</li>
+                  <li>Terbiasa menggunakan profesional standar design tools seperti sketch, adobe illustrator, photoshop, zeplin</li>
                 </ul>
               </div>
               <div class="career-requirement">
@@ -215,47 +187,42 @@
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
-                  <li>
-                    Anda akan merasa tertantang untuk mendesign berbagai macam web, mobile aplikasi.
-                  </li>
-                  <li>
-                    Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang
-                    dihadapi.
-                  </li>
+                  <li>Anda akan merasa tertantang untuk mendesign berbagai macam web, mobile aplikasi</li>
+                  <li>Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang dihadapi.</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">How a Designer in LOGIQUE works usually</h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">09.00 – 09.30</div>
+                    <div class="work-schedule__time">09:00 – 09:30</div>
                     <div class="work-schedule__text">Mulai dokodemo, cek email, trello, slack, untuk memulai pekerjaan
                       atau memberikan tanggapan untuk hari ini.</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">09.31 – 12.00</div>
+                    <div class="work-schedule__time">09:31 – 12:00</div>
                     <div class="work-schedule__text">Melakukan konsep UI desain</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">12.00 – 13.00</div>
+                    <div class="work-schedule__time">12:00 – 13:00</div>
                     <div class="work-schedule__text">Istirahat</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">13.01 – 14.00</div>
+                    <div class="work-schedule__time">13:01 – 14:00</div>
                     <div class="work-schedule__text">Rapat mengenai proyek terbaru dengan penanggung jawab proyek/
                       proyek manager atau melakukan rapat internal dengan tim desain (jika ada)</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">14.00 – 16.30</div>
+                    <div class="work-schedule__time">14:00 – 16:30</div>
                     <div class="work-schedule__text">Melanjutkan konsep UI desain dari proyek yang sama atau proyek yang
                       berbeda</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">16.30</div>
+                    <div class="work-schedule__time">16:30</div>
                     <div class="work-schedule__text">Pulang ke rumah</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">18.30 – 19.00</div>
+                    <div class="work-schedule__time">18:30 – 19:00</div>
                     <div class="work-schedule__text">Belajar/ membaca mengenai tren desain terbaru dan terupdate saat
                       ini.</div>
                   </div>
@@ -277,7 +244,7 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
-                        <span class="salary-range__salary">Rp 100 juta/ tahun</span>
+                        <!-- <span class="salary-range__salary">Rp 100 juta/ tahun</span> -->
                       </div>
                       <h5 class="section-title">Designer:</h5>
                     </div>
@@ -296,7 +263,7 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <span class="salary-range__salary">Rp 100 – 200 juta/ tahun</span>
+                        <!-- <span class="salary-range__salary">Rp 100 – 200 juta/ tahun</span> -->
                       </div>
                       <h5 class="section-title">Designer:</h5>
                     </div>
@@ -319,7 +286,7 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <span class="salary-range__salary">Rp 200 – 400 juta/ tahun</span>
+                        <!-- <span class="salary-range__salary">Rp 200 – 400 juta/ tahun</span> -->
                       </div>
                       <h5 class="section-title">Designer:</h5>
                     </div>
