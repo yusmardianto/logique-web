@@ -284,7 +284,7 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <span class="salary-range__salary">250 - 350 Juta / Tahun</span>
+                        <span class="salary-range__salary">250 - 35 0 Juta / Tahun</span>
                       </div>
                       <h5 class="section-title">Product Manager:</h5>
                     </div>
@@ -306,8 +306,8 @@
           <div class="row">
             <div class="col-sm-offset-2 col-sm-8">
               <h3>
-                <b>We are developing and running these products <br>
-                <span style="font-size: 20px">(and more secret product - project are on going)</span></b>
+                <b>Kami sedang mengembangkan dan menjalankan produk ini <br>
+                <span style="font-size: 20px">dan juga masih banyak lagi special product yang sedang kamu kembangkan</span></b>
               </h3>
               <div class="lgq-products">
                 <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
