@@ -245,7 +245,7 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <h3 class="section-title">Expectation skill for each position :</h3>
+              <h3 class="section-title">Salary Range</h3>
               <div class="row">
                 <div class="col-md-4 col-sm-12">
                   <div class="salary-range">
@@ -254,7 +254,7 @@
                         <em class="salary-range__position">Junior</em>
                         <span class="salary-range__salary">100 Juta / Tahun</span>
                       </div>
-                      <h5 class="section-title">Product Developer:</h5>
+                      <h5 class="section-title">Product Manager:</h5>
                     </div>
                     <ul class="salary-range__list">
                       <li>Mengerti dan bisa melakukan melakukan pembuatan program paling tidak satu Bahasa pemrograman (PHP atau Javascript)</li>
@@ -268,9 +268,9 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <span class="salary-range__salary">100 - 250 Juta / Tahun</span>
+                        <span class="salary-range__salary">100 - 200 Juta / Tahun</span>
                       </div>
-                      <h5 class="section-title">Product Developer:</h5>
+                      <h5 class="section-title">Product Manager:</h5>
                     </div>
                     <ul class="salary-range__list">
                       <li>Mengerti dan memahami soal pemrograman dan bahas pemrograman (minimal PHP dan JavaScript)</li>
