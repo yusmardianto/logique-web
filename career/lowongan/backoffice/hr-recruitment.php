@@ -184,27 +184,12 @@
                 <!-- <h4 class="section-subtitle">HR Recruitment Assistant</h4> -->
                 <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:00 – 9:30</div>
-                    <div class="work-schedule__text">Check Google Analytics and inquiries about the product</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:30 – 10:30</div>
-                    <div class="work-schedule__text">Check and reply for application of demo usage</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">10:30 – 11:30</div>
-                    <div class="work-schedule__text">Have an internal confirmation / meeting with developers and digital
-                      marketers
-                      to
-                      confirm the schedule and progress</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">09:00 – 10:00</div>
+                    <div class="work-schedule__time">9:00 – 10:00</div>
                     <div class="work-schedule__text">Check trello, slack, HR tools , membuat daily to do</div>
                   </div>
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">10:00 – 12:00</div>
-                    <div class="work-schedule__text">Melakukan kegiatan process recruitment </div>
+                    <div class="work-schedule__text">Melakukan kegiatan process recruitment</div>
                   </div>
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">12:00 – 13:00</div>
@@ -212,11 +197,11 @@
                   </div>
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">13:00 – 15:00</div>
-                    <div class="work-schedule__text">Meeting mingguan HR Recruitment </div>
+                    <div class="work-schedule__text">Meeting mingguan HR Recruitment</div>
                   </div>
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">15:00 – 17:00</div>
-                    <div class="work-schedule__text">HR daily monitoring dan melakukan process recruitment </div>
+                    <div class="work-schedule__text">HR daily monitoring dan melakukan process recruitment</div>
                   </div>
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">17:00 – 18:00</div>
