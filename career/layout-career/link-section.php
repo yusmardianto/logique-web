@@ -51,7 +51,7 @@
             <div class="link-box bg--career">
               <div class="link-box__text-wrapper">
                 <p class="link-box__text">
-                Cari tau bagaimana karir Anda di dunia digital berkembang di Logique.
+                Cari tau bagaimana karir Anda di dunia digital berkembang di LOGIQUE.
                 </p>
               </div>
               <a href="/career/pengembangan-karir/" class="main-btn --link-box">Pengembangan Karir<span class="caret--rotated --white"></span></a>
