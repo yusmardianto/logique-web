@@ -135,7 +135,7 @@
                   </div>
                   <div class="col-xs-12 col-md-6">
                     <h2>Jam Kerja / Fleksibel</h2>
-                    <p>Tidak terjebak dalam jam rutin konvensional yang mengharuskan karyawan menghabiskan 8 jam kerja / hari di kantor. Logique mengedepankan efektivitas dengan sistem 40 jam kerja / minggu, maka bekerja menjadi lebih fleksibel dengan sedikit jam kerja di hari tertentu dan menambah jam kerja di lain hari. Kami juga menawarkan pilihan waktu mulai bekerja (start time) dan pedoman core time yang dapat membantu memaksimalkan efektivitas kerja dalam fleksibilitas yang diberikan</p>
+                    <p>Tidak terjebak dalam jam rutin konvensional yang mengharuskan karyawan menghabiskan 8 jam kerja / hari di kantor. LOGIQUE mengedepankan efektivitas dengan sistem 40 jam kerja / minggu, maka bekerja menjadi lebih fleksibel dengan sedikit jam kerja di hari tertentu dan menambah jam kerja di lain hari. Kami juga menawarkan pilihan waktu mulai bekerja (start time) dan pedoman core time yang dapat membantu memaksimalkan efektivitas kerja dalam fleksibilitas yang diberikan</p>
                   </div>
                 </div>            
               </div>
@@ -166,7 +166,7 @@
                   </div>
                   <div class="col-xs-12 col-md-6">
                     <h2>Kenaikan Gaji Kapanpun</h2>
-                    <p>Tidak harus menunggu 1 tahun untuk mendapatkan kenaikan gaji seperti kebanyakan perusahaan. Tidak perlu khawatir juga dengan promosi yang hanya diberikan pada karyawan lama di perusahaan. Logique mengedepankan prinsip Logical dan Fair, sehingga orang yang menentukan layak  & tidaknya untuk gaji dan posisi lebih yang tinggi dengan performa, hasil kerja, dan kontribusi untuk perusahaan adalah Anda sendiri.</p>
+                    <p>Tidak harus menunggu 1 tahun untuk mendapatkan kenaikan gaji seperti kebanyakan perusahaan. Tidak perlu khawatir juga dengan promosi yang hanya diberikan pada karyawan lama di perusahaan. LOGIQUE mengedepankan prinsip Logical dan Fair, sehingga orang yang menentukan layak  & tidaknya untuk gaji dan posisi lebih yang tinggi dengan performa, hasil kerja, dan kontribusi untuk perusahaan adalah Anda sendiri.</p>
                   </div>
                 </div>            
               </div>
@@ -178,7 +178,7 @@
                 <div class="row">
                   <div class="col-xs-12 col-md-6 order2">
                     <h2>Kesempatan menjadi yang Terbaik</h2>
-                    <p>Setiap bulan Logique memberikan apresiasi & bonus bagi karyawan terbaik yang sudah bekerja maksimal & memberi kontribusi luar biasa untuk perusahaan. Tidak ada batasan jumlah karyawan untuk apresiasi ini, Logique sudah beberapa kali memberikan bonus pada > 3 karyawan di bulan yang sama.</p>
+                    <p>Setiap bulan LOGIQUE memberikan apresiasi & bonus bagi karyawan terbaik yang sudah bekerja maksimal & memberi kontribusi luar biasa untuk perusahaan. Tidak ada batasan jumlah karyawan untuk apresiasi ini, LOGIQUE sudah beberapa kali memberikan bonus pada > 3 karyawan di bulan yang sama.</p>
                   </div>
                   <div class="col-xs-12 col-md-6 text-right order1">
                     <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner4.svg" alt="Logique HR Rule">
@@ -197,7 +197,7 @@
                   </div>
                   <div class="col-xs-12 col-md-6">
                     <h2>Pengembangan Diri dan Tim</h2>
-                    <p>Memiliki wawasan dan kemampuan luas tentu menjadi nilai tambah bagi karyawan. Di Logique, Anda memiliki berbagai kesempatan untuk memgembangkan diri bersama dengan orang-orang terbaik di proyek-proyek yang bertaraf Internasional serta lokal berskala besar. Anda juga dapat mengikuti training atau olahraga secara inisiatif dan dapat diajukan oleh masing-masing tim.</p>
+                    <p>Memiliki wawasan dan kemampuan luas tentu menjadi nilai tambah bagi karyawan. Di LOGIQUE, Anda memiliki berbagai kesempatan untuk memgembangkan diri bersama dengan orang-orang terbaik di proyek-proyek yang bertaraf Internasional serta lokal berskala besar. Anda juga dapat mengikuti training atau olahraga secara inisiatif dan dapat diajukan oleh masing-masing tim.</p>
                   </div>
                 </div>            
               </div>
@@ -209,7 +209,7 @@
                 <div class="row">
                   <div class="col-xs-12 col-md-6 order2">
                     <h2>Unlimited Bonus</h2>
-                    <p>Logique menyediakan berbagai macam bonus yang bisa Anda dapatkan sesuai dengan performa dan kontribusi Anda terhadap perusahaan.</p>
+                    <p>LOGIQUE menyediakan berbagai macam bonus yang bisa Anda dapatkan sesuai dengan performa dan kontribusi Anda terhadap perusahaan.</p>
                   </div>
                   <div class="col-xs-12 col-md-6 text-right order1">
                     <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner6.svg" alt="Logique HR Rule">
@@ -228,7 +228,7 @@
                   </div>
                   <div class="col-xs-12 col-md-6">
                     <h2>Asuransi Kesehatan</h2>
-                    <p>Tak hanya dalam hal pekerjaan, Logique juga memperhatikan kesehatan para karyawan dengan memberikan benefit asuransi kesehatan Allianz.</p>
+                    <p>Tak hanya dalam hal pekerjaan, LOGIQUE juga memperhatikan kesehatan para karyawan dengan memberikan benefit asuransi kesehatan Allianz.</p>
                   </div>
                 </div>            
               </div>

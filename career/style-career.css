@@ -3184,7 +3184,10 @@ font-weight: 500;
 }
 .hr-rule .bg-1--- {
   background: linear-gradient(-225deg, rgb(0, 170, 181) 0%, rgb(176, 255, 192) 100%);
-  padding: 30px 30px;
+  padding: 20px 30px 30px;
+}
+.hr-rule .bg-1--- img {
+  margin-top: -20px;
 }
 .hr-rule .bg-2--- {
   background: linear-gradient(-45deg, rgb(233, 147, 255) 0%, rgb(153, 201, 255) 100%);
