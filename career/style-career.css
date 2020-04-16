@@ -2920,6 +2920,9 @@ ul.candiate-criteria__reject li::before {
   max-height: 100px;
   max-width: 220px;
 }
+.lgq-products a:hover {
+  opacity: .7;
+}
 @media only screen and (max-width: 1024px) {
   .message-from__content > .message-from__testi-wrapper,
   .case-study__carousel .carousel-inner > .item > .case-study__wrapper > .case-study__testi {

@@ -307,12 +307,24 @@
             <div class="col-sm-offset-2 col-sm-8">
               <h3>
                 <b>Kami sedang mengembangkan dan menjalankan produk ini <br>
-                <span style="font-size: 20px">dan juga masih banyak lagi special product yang sedang kamu kembangkan</span></b>
+                <span style="font-size: 20px">dan juga masih banyak lagi special product yang sedang kami kembangkan</span></b>
               </h3>
-              <div class="lgq-products">
-                <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
-                <img class="product-list__img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
-                <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
+              <div class="row lgq-products">
+                <div class="col-xs-12 col-md-4">
+                  <a href="/produk/sugoi-saiyo.php">
+                    <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo"/>
+                  </a>
+                </div>
+                <div class="col-xs-12 col-md-4">
+                  <a href="https://dokodemo-kerja.com/ind/" target="_blank">
+                    <img class="product-list__img" src="/img/top/i-dokodemo.svg" alt="dokodemo" style="height:100px;margin-bottom: 25px;" />
+                  </a>
+                </div>
+                <div class="col-xs-12 col-md-4">
+                  <a href="/produk/nippo.php">
+                    <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo" style="max-height: 33px;"/>
+                  </a>
+                </div>
               </div>
             </div>
           </div>
