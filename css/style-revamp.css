@@ -103,7 +103,7 @@
 }
 .web-solution__btn-wrapper.--inline-model .web-solution__half-bg--round,
 .jp-page .web-solution__half-bg--round {
-  left: -40%;
+  left: -45%;
 }
 /* END JP PAGE - INLINE MODEL*/
 
@@ -133,7 +133,7 @@
   max-width: 35px;
   max-height: 40px;
   /* margin: 2px 60px 2px 0px; */
-  margin-right: 60px;
+  margin-right: 45px;
 }
 
 .workflow {
