@@ -222,7 +222,7 @@
                             <!-- <a href="#" target="_blank" rel="noreferrer"> -->
                                 <img src="/img/portfolio/asean-legal.png" alt="ASEAN Legal"
                                     class="img-responsive center-block">
-                                <p class="text-center">ASEAN (Hukum)</p>
+                                <p class="text-center">ASEAN (Legal)</p>
                             <!-- </a> -->
                             <div class="addition-desc text-left">
                                 Web Remake Development (Design | Coding | CMS Integration)
