@@ -192,6 +192,9 @@
                             <img class="client-list__img" src="/img/portfolio/client-list/sumitomo.png" alt="sumitomo">
                             <img class="client-list__img" src="/img/portfolio/client-list/toyota.png" alt="toyota">
                             <img class="client-list__img" src="/img/portfolio/client-list/triputra.png" alt="triputra">
+                            <img class="client-list__img" src="/img/portfolio/client-list/tolaram.png" alt="tolaram">
+                            <img class="client-list__img" src="/img/portfolio/client-list/pegadaian.png" alt="pegadaian">
+                            <img class="client-list__img" src="/img/portfolio/client-list/panpacific.jpg" alt="pan pacific insurance">
                         </div>
                     </div>
 
@@ -216,14 +219,62 @@
                     </div>
                     <div class="row">
                         <div class="col-md-4 col-xs-6">
+                            <!-- <a href="#" target="_blank" rel="noreferrer"> -->
+                                <img src="/img/portfolio/asean-legal.png" alt="ASEAN Legal"
+                                    class="img-responsive center-block">
+                                <p class="text-center">ASEAN (Hukum)</p>
+                            <!-- </a> -->
+                            <div class="addition-desc text-left">
+                                Web Remake Development (Design | Coding | CMS Integration)
+                                <div class="grey-clr">Public & Private Document Access, Custom Wordpress, International Organisation</div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-xs-6">
+                            <a href="https://afcwp.asean.org/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/asean-afcwp.png" alt="ASEAN Finance"
+                                    class="img-responsive center-block">
+                                <p class="text-center">ASEAN (Financial)</p>
+                            </a>
+                            <div class="addition-desc text-left">
+                                Web Remake Development (Design | Coding | CMS Integration)
+                                <div class="grey-clr">Custom Wordpress, Public & Private Document Access, Multi Level Authors, International Organisation</div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-xs-6">
+                            <a href="http://www.tsubame-jltc.com/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/tsubame-lpk.png" alt="Tsubame JLTC"
+                                    class="img-responsive center-block">
+                                <p class="text-center">LPK Tsubame Japanese Learning Center</p>
+                            </a>
+                            <div class="addition-desc text-left">
+                                Web Revamp (Re-Design | Coding | Integrasi CMS)
+                                <div class="grey-clr">Mobile Optimized, Service web, Education</div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-xs-6">
+                            <a href="https://wkvetter.com/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/vetter-bulletin.png" alt="Vetter Bulletin Board"
+                                    class="img-responsive center-block">
+                                <p class="text-center">Vetter</p>
+                            </a>
+                            <div class="addition-desc text-left">
+                                Web Bulletin board Development (Design | Coding | Integrasi CMS)
+                                <div class="grey-clr">Bulletin board, CMS, Community Web, Media, Vietnum</div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-xs-6">
                             <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
                                 <img src="/img/portfolio/aiapremieracademy.png" alt="AIA Premier Academy"
                                     class="img-responsive center-block">
                                 <p class="text-center">AIA Premier Academy</p>
                             </a>
                             <div class="addition-desc text-left">
-                                Campaign Page Creation (Design | Coding | Hosting)
-                                <div class="grey-clr">Mobile Optimized, Campaign page, Insurance</div>
+                                Website Creation (Design | Coding)
+                                <div class="grey-clr">Static Web, Animation, Visual, Income Calculator, Graph, Insurance Agent Training</div>
                             </div>
                         </div>
 
@@ -238,59 +289,59 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 col-xs-6">
-                            <a href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/jtrust-bank-new.png" alt="JTrust Bank (Re-design)"
-                                    class="img-responsive center-block">
-                                <p class="text-center">JTrust Bank (Re-design)</p>
-                            </a>
-                            <div class="addition-desc text-left">
-                                WEB Re-Design (Design | Coding | Integrasi CMS)
-                                <div class="grey-clr">Mobile Optimized, Multi-bahasa, CMS, Bank</div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4 col-xs-6">
-                            <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/mobirent.png" alt="Mobirent"
-                                    class="img-responsive center-block">
-                                <p class="text-center">Mobirent</p>
-                            </a>
-                            <div class="addition-desc text-left">
-                                Web Design (Design | Coding | Deployment)
-                                <div class="grey-clr">Mobile Optimized</div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4 col-xs-6">
-                            <a href="https://jba.co.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/jba-indonesia.png" alt="JBA INDONESIA"
-                                    class="img-responsive center-block">
-                                <p class="text-center">JBA INDONESIA</p>
-                            </a>
-                            <div class="addition-desc text-left">
-                                WEB Dev & Operation (Design | CMS | System | Operation | AWS)
-                                <div class="grey-clr">Online Auction, Enterprise-WEB, DB-WEB, secure WEB,
-                                    Automotive, Financial</div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4 col-xs-6">
-                            <a href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/jnto.png" alt="JNTO Indonesia" class="img-responsive center-block">
-                                <p class="text-center">JNTO Indonesia</p>
-                            </a>
-                            <div class="addition-desc text-left">
-                                WEB Remake & Operation (Design | Coding | Operation)
-                                <div class="grey-clr">Mobile Optimized, secure WEB, Public, Travel</div>
-                            </div>
-                        </div>
-
                     </div>
 
                     <!-- HIDE WEB DEV PORTFOLIO -->
                     <div class="panel-collapse collapse" id="hideWebDev">
                         <div class="row">
+
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/jtrust-bank-new.png" alt="JTrust Bank (Re-design)"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">JTrust Bank (Re-design)</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    WEB Re-Design (Design | Coding | Integrasi CMS)
+                                    <div class="grey-clr">Mobile Optimized, Multi-bahasa, CMS, Bank</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/mobirent.png" alt="Mobirent"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Mobirent</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    Web Design (Design | Coding | Deployment)
+                                    <div class="grey-clr">Mobile Optimized</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://jba.co.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/jba-indonesia.png" alt="JBA INDONESIA"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">JBA INDONESIA</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    WEB Dev & Operation (Design | CMS | System | Operation | AWS)
+                                    <div class="grey-clr">Online Auction, Enterprise-WEB, DB-WEB, secure WEB,
+                                        Automotive, Financial</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <a href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/jnto.png" alt="JNTO Indonesia" class="img-responsive center-block">
+                                    <p class="text-center">JNTO Indonesia</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    WEB Remake & Operation (Design | Coding | Operation)
+                                    <div class="grey-clr">Mobile Optimized, secure WEB, Public, Travel</div>
+                                </div>
+                            </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
@@ -2184,6 +2235,13 @@
                             <div class="other-client-item">
                                 <div class="img-thumb">
                                     <img src="/img/portfolio/onitsuka-mockup.jpg" alt="Printing"
+                                        class="img-responsive center-block">
+                                </div>
+                                Printing
+                            </div>
+                            <div class="other-client-item">
+                                <div class="img-thumb">
+                                    <img src="/img/portfolio/cjs-porto.jpg" alt="Printing"
                                         class="img-responsive center-block">
                                 </div>
                                 Printing

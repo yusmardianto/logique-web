@@ -197,6 +197,9 @@
                             <img class="client-list__img" src="/img/portfolio/client-list/sumitomo.png" alt="sumitomo">
                             <img class="client-list__img" src="/img/portfolio/client-list/toyota.png" alt="toyota">
                             <img class="client-list__img" src="/img/portfolio/client-list/triputra.png" alt="triputra">
+                            <img class="client-list__img" src="/img/portfolio/client-list/tolaram.png" alt="tolaram">
+                            <img class="client-list__img" src="/img/portfolio/client-list/pegadaian.png" alt="pegadaian">
+                            <img class="client-list__img" src="/img/portfolio/client-list/panpacific.jpg" alt="pan pacific insurance">
                         </div>
                     </div>
 
@@ -220,6 +223,55 @@
                         </a>
                     </div>
                     <div class="row">
+
+                        <div class="col-md-4 col-xs-6">
+                            <!-- <a href="#" target="_blank" rel="noreferrer"> -->
+                                <img src="/img/portfolio/asean-legal.png" alt="ASEAN Legal"
+                                    class="img-responsive center-block">
+                                <p class="text-center">ASEAN (Hukum)</p>
+                            <!-- </a> -->
+                            <div class="addition-desc text-left">
+                                Web Remake Development (Design | Coding | CMS Integration)
+                                <div class="grey-clr">Public & Private Document Access, Custom Wordpress, International Organisation</div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-xs-6">
+                            <a href="https://afcwp.asean.org/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/asean-afcwp.png" alt="ASEAN Finance"
+                                    class="img-responsive center-block">
+                                <p class="text-center">ASEAN (Financial)</p>
+                            </a>
+                            <div class="addition-desc text-left">
+                                Web Remake Development (Design | Coding | CMS Integration)
+                                <div class="grey-clr">Custom Wordpress, Public & Private Document Access, Multi Level Authors, International Organisation</div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-4 col-xs-6">
+                            <a href="http://www.tsubame-jltc.com/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/tsubame-lpk.png" alt="Tsubame JLTC"
+                                    class="img-responsive center-block">
+                                <p class="text-center">LPK Tsubame Japanese Learning Center</p>
+                            </a>
+                            <div class="addition-desc text-left">
+                                Web改善 (リデザイン｜コーディング | CMS)     
+                                <div class="grey-clr">モバイル最適化, サービスWeb, 教育</div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-xs-6">
+                            <a href="https://wkvetter.com/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/vetter-bulletin.png" alt="Vetter Bulletin Board"
+                                    class="img-responsive center-block">
+                                <p class="text-center">Vetter</p>
+                            </a>
+                            <div class="addition-desc text-left">
+                                Web掲示板制作 (デザイン | コーディング | CMS)
+                                <div class="grey-clr">掲示板, CMS, コミュニティWeb, メディア, ベトナム</div>
+                            </div>
+                        </div>
+
                         <div class="col-md-4 col-xs-6">
                             <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
                                 <img src="/img/portfolio/aiapremieracademy.png" alt="AIA Premier Academy" class="img-responsive center-block">
@@ -253,45 +305,45 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 col-xs-6">
-                            <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/mobirent.png" alt="Mobirent"
-                                    class="img-responsive center-block">
-                                <p class="text-center">Mobirent</p>
-                            </a>
-                            <div class="addition-desc text-left">
-                                BtoBサービス, Car Rental Web制作（デザイン制作 | コーディング | ディプロイ）
-                                <div class="grey-clr">スマホ最適, BtoBサービス, レンタカー</div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4 col-xs-6">
-                            <a href="https://jba.co.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/jba-indonesia.png" alt="JBA INDONESIA" class="img-responsive center-block">
-                                <p class="text-center">JBA INDONESIA</p>
-                            </a>
-                            <div class="addition-desc text-left">
-                                WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)
-                                <div class="grey-clr">オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4 col-xs-6">
-                            <a href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/jnto.png" alt="JNTO Indonesia" class="img-responsive center-block">
-                                <p class="text-center">JNTO Indonesia</p>
-                            </a>
-                            <div class="addition-desc text-left">
-                                WEBリニューアル＆運用 (デザイン| コーディング| 運用)
-                                <div class="grey-clr">モバイル最適化,セキュアなWEB,公共,旅行</div>
-                            </div>
-                        </div>
-
                     </div>
 
                     <!-- HIDE WEB DEV PORTFOLIO -->
                     <div class="panel-collapse collapse" id="hideWebDev">
                         <div class="row">
+
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://mobirent.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/mobirent.png" alt="Mobirent"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Mobirent</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    BtoBサービス, Car Rental Web制作（デザイン制作 | コーディング | ディプロイ）
+                                    <div class="grey-clr">スマホ最適, BtoBサービス, レンタカー</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://jba.co.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/jba-indonesia.png" alt="JBA INDONESIA" class="img-responsive center-block">
+                                    <p class="text-center">JBA INDONESIA</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)
+                                    <div class="grey-clr">オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <a href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/jnto.png" alt="JNTO Indonesia" class="img-responsive center-block">
+                                    <p class="text-center">JNTO Indonesia</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    WEBリニューアル＆運用 (デザイン| コーディング| 運用)
+                                    <div class="grey-clr">モバイル最適化,セキュアなWEB,公共,旅行</div>
+                                </div>
+                            </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
@@ -1881,6 +1933,12 @@
                             <div class="other-client-item">
                                 <div class="img-thumb">
                                     <img src="/img/portfolio/onitsuka-mockup.jpg" alt="会社案内制作" class="img-responsive center-block">
+                                </div>
+                                会社案内制作
+                            </div>
+                            <div class="other-client-item">
+                                <div class="img-thumb">
+                                    <img src="/img/portfolio/cjs-porto.jpg" alt="会社案内制作" class="img-responsive center-block">
                                 </div>
                                 会社案内制作
                             </div>
