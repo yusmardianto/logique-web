@@ -305,13 +305,13 @@
                 <div class="custombox__product-wrapper">
                   <div class="custombox__product">
                     <div class="custombox__head">
-                      <img class="custombox__product-img" src="/img/top/i-dokodemo.png" alt="dokodemo">
+                      <img class="custombox__product-img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
                     </div>
                     <h1 class="custombox__product-title--jp">Dokodemo Kerja</h1>
                     <p class="custombox__product-content">
                       ドコデモクルジャというクラウドツールは、Web制作者にリモートワーク｜テレワークを可能とするためのシステムです。管理者にとっても効果的に社員の勤怠管理、勤務状況コントロールができるので双方にとってメリットのあるツールです。
                     </p>
-                    <a class="custombox__btn-product" target="_blank" href="http://dokodemo-kerja.com/">Learn
+                    <a class="custombox__btn-product" target="_blank" href="http://dokodemo-kerja.com/jp">Learn
                       More</a>
                   </div>
                 </div>
