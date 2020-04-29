@@ -155,7 +155,7 @@
                         <hr class="title__yellow-line--center">
                         <p class="title__description">In order to help companies grow and adapt within the digital era, LOGIQUE develops and provides digital products, such as HR management systems, to improve HR operations, productivity, and potential for profit within an organization.</p>
                         <div class="product-list">
-                            <img class="product-list__img" src="/img/top/i-dokodemo.png" alt="dokodemo">
+                            <img class="product-list__img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
                             <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                             <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
                         </div>

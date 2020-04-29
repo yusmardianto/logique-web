@@ -158,7 +158,7 @@
                             ほかに、採用企業と求職者の両者がより効率的な採用・求職活動ができるように、ITの力で、求職・採用プロセスの無駄を排除したクラウド採用管理ツールSugoiSaiyo、スタッフの日々の勤務状況・内容を管理しつつ管理会計に利用可能なデータの集計を行うための日報管理システム、Nippoも提供しております。いずれについてもお気軽にお問い合わせいただければ幸いです。
                         </p>
                         <div class="product-list">
-                            <img class="product-list__img" src="/img/top/i-dokodemo.png" alt="dokodemo">
+                            <img class="product-list__img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
                             <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                             <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
                         </div>
@@ -212,7 +212,7 @@
                     <br>
 
                     <div class="text-center">
-                        <a class="btn--yellow" href="product/dokodemo-kerja.php">Dokodemo-Kerjaについてもっと見る</a>
+                        <a class="btn--yellow" target="_blank" href="https://dokodemo-kerja.com/jp/">Dokodemo-Kerjaについてもっと見る</a>
                     </div>
                 </div>
             </section>

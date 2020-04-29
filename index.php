@@ -357,7 +357,7 @@
                 <div class="custombox__product-wrapper">
                   <div class="custombox__product">
                     <div class="custombox__head">
-                      <img class="custombox__product-img" src="/img/top/i-dokodemo.png" alt="dokodemo">
+                      <img class="custombox__product-img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
                     </div>
                     <h1 class="custombox__product-title">Dokodemo Kerja</h1>
                     <p class="custombox__product-content">LOGIQUE menawarkan kepada Anda sebuah sistem web
