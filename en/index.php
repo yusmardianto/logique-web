@@ -61,6 +61,7 @@
     ga('create', 'UA-105878648-1', 'auto');
     ga('send', 'pageview');
     </script>
+    <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
     <title>Web Developer / Design, Digital Marketing, IT Consultant | LOGIQUE DIGITAL INDONESIA</title>
 
     <!-- Bootstrap -->
