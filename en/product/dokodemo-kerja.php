@@ -280,16 +280,11 @@ if(isset($_POST['submitted']))
                      <div class="poster-main screenshot-slide ">
                          <div class="poster-btn poster-prev-btn"></div>
                          <ul class="poster-list">
-                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja">
-                             </li>
-                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss1.jpg" alt="Dokodemo Kerja">
-                             </li>
-                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss2.jpg" alt="Dokodemo Kerja">
-                             </li>
-                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss3.jpg" alt="Dokodemo Kerja">
-                             </li>
-                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss5.jpg" alt="Dokodemo Kerja">
-                             </li>
+                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss1.jpg" alt="Dokodemo Kerja"></li>
+                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss2.jpg" alt="Dokodemo Kerja"></li>
+                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss3.jpg" alt="Dokodemo Kerja"></li>
+                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja"></li>
+                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss5.jpg" alt="Dokodemo Kerja"></li>
                          </ul>
                          <div class="poster-btn poster-next-btn"></div>
                      </div>
