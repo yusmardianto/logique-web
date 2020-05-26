@@ -312,7 +312,7 @@
                     <p class="custombox__product-content">
                       ドコデモクルジャというクラウドツールは、Web制作者にリモートワーク｜テレワークを可能とするためのシステムです。管理者にとっても効果的に社員の勤怠管理、勤務状況コントロールができるので双方にとってメリットのあるツールです。
                     </p>
-                    <a class="custombox__btn-product" target="_blank" href="http://dokodemo-kerja.com/jp">Learn
+                    <a class="custombox__btn-product" target="_blank" href="http://dokodemo-kerja.com/jpn/">Learn
                       More</a>
                   </div>
                 </div>

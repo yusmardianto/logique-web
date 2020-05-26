@@ -96,7 +96,7 @@ footer {
                         <ul>
                             <li class="have-submenu"><a href="/jp/product.php">プロダクト</a>
                                 <ul>
-                                    <li><a href="https://dokodemo-kerja.com/jp" target="_blank" rel="noreferrer">Dokodemo-Kerja<br><span
+                                    <li><a href="https://dokodemo-kerja.com/jpn/" target="_blank" rel="noreferrer">Dokodemo-Kerja<br><span
                                                 style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>
                                     <li><a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo <span
                                                 style="font-size: 12px;">(（採用管理ツール）</span></a></li>

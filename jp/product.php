@@ -212,7 +212,7 @@
                     <br>
 
                     <div class="text-center">
-                        <a class="btn--yellow" target="_blank" href="https://dokodemo-kerja.com/jp/">Dokodemo-Kerjaについてもっと見る</a>
+                        <a class="btn--yellow" target="_blank" href="https://dokodemo-kerja.com/jpn/">Dokodemo-Kerjaについてもっと見る</a>
                     </div>
                 </div>
             </section>
