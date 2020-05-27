@@ -10,7 +10,7 @@
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, project manager, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Project Manager | Lowongan Kerja | IT Generalist | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Consultant / Project Manager | Lowongan Kerja | IT Generalist | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
@@ -18,7 +18,7 @@
   <meta property="og:description"
     content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Project Manager. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Project Manager | Lowongan Kerja | IT Generalist | LOGIQUE Digital Indonesia</title>
+  <title>Consultant / Project Manager | Lowongan Kerja | IT Generalist | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -107,7 +107,7 @@
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Project Manager</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Consultant / Project Manager</span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
@@ -117,7 +117,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
-              <h1 class="header__title">Project Manager</h1>
+              <h1 class="header__title">Consultant / <br>Project Manager</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
@@ -147,6 +147,9 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
+              <div class="career-requirement">
+                <p>Consultant merupakan lini depan LOGIQUE yang dapat berkomunikasi klien dari sisi bisnis maupun teknis, memahami masalah yang dihadapi serta mampu memberikan solusi terbaik yang dibutuhkan. Dalam tahapan pengembangan Website, Aplikasi Berbasis Web, dan Aplikasi Mobile, Consultant berperan sebagai Project Manager yang memastikan bahwa proyek berjalan dengan baik, berkualitas, dan dapat diselesaikan tepat waktu.</p>
+              </div>
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <h4 class="section-subtitle">PreSales</h4>
@@ -227,20 +230,17 @@
               <div class="career-requirement">
                 <h3 class="section-title">Preferable</h3>
                 <ul class="career-list">
-                  <li>Project Management Certification</li>
-                  <li>Bahasa Inggris</li>
-                  <li>Memiliki Kendaraan Bermotor Pribadi</li>
+                  <li>Berpengalaman mengelola proyek Website, Aplikasi Berbasis Web, dan Aplikasi Mobile</li>
+                  <li>Memiliki kemampuan Bahasa Inggris yang baik.</li>
+                  <li>Memiliki sertifikasi Project Management merupakan nilai plus.</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
-                  <li>
-                    Kesempatan bertemu banyak klien dari berbagai macam bidang dan industri.
-                  </li>
-                  <li>
-                    Dapat beradaptasi dalam hal komunikasi kepada banyak klien yang multikultural.
-                  </li>
+                  <li>Pengalaman dan tantangan menarik dalam berbagai variasi proyek website, aplikasi berbasis web, dan aplikasi mobile.</li>
+                  <li>Kesempatan bertemu dan memperluas jaringan dengan berbagai klien Internasional dan Lokal dari berbagai macam bidang dan industri.</li>
+                  <li>Gaji dan bonus yang sesuai dengan hasil, kontribusi, kemampuan, dan pengalaman Anda.</li>
                 </ul>
               </div>
               <!-- <div class="career-requirement">

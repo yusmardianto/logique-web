@@ -15,7 +15,7 @@
               class="lowongan-position__item bg--sub-project-manager">
               <div class="lowongan-position__overlay"></div>
               <span class="other-position__urgent">Urgently Needed</span>
-              <h3 class="section-title">Project Manager</h3>
+              <h3 class="section-title">Consultant / <br>Project Manager</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -33,12 +33,12 @@
               <h3 class="section-title">Product Manager</h3>
             </a>
           </div>
-          <div class="col-md-6 col-lg-4">
+          <!-- <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/it-generalist/consultant.php" class="lowongan-position__item bg--sub-consultant">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Consultant</h3>
             </a>
-          </div>
+          </div> -->
         </div>
         <?php endif; ?>
 

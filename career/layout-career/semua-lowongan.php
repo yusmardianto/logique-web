@@ -22,7 +22,7 @@
                 <h3 class="section-title">IT Generalist</h3>
               </div>
               <p>
-                Project Manager, Product Manager, IT Consultant, Business Analyst, Sales, etc,.
+              Consultant / Project Manager, Product Manager, Business Analyst, Sales, etc,.
               </p>
             </a>
           </div>
