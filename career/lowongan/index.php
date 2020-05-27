@@ -388,7 +388,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager">
-                        <h3 class="heading-black">Project Manager</h3>
+                        <h3 class="heading-black">Consultant / Project Manager</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -448,7 +448,7 @@
                   </a>
                 </div>
               </div>
-              <div class="row row__same-height">
+              <!-- <div class="row row__same-height">
                 <div class="col-md-4 card--layout">
                   <a href="/career/lowongan/it-generalist/consultant.php">
                     <div class="card-box">
@@ -470,7 +470,7 @@
                     </div>
                   </a>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
