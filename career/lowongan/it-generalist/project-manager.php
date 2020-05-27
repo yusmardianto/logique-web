@@ -107,7 +107,7 @@
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Project Manager</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Consultant / Project Manager</span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
