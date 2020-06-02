@@ -225,13 +225,13 @@
                     <div class="row">
 
                         <div class="col-md-4 col-xs-6">
-                            <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/aiapremieracademy.png" alt="AIA Premier Academy" class="img-responsive center-block">
-                                <p class="text-center">AIA Premier Academy</p>
-                            </a>
+                            <!-- <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer"> -->
+                                <img src="/img/portfolio/kki.jpg" alt="AIA Premier Academy" class="img-responsive center-block">
+                                <p class="text-center">KKI</p>
+                            <!-- </a> -->
                             <div class="addition-desc text-left">
-                                Webページ制作 (デザイン | コーディング | ホスティング)
-                                <div class="grey-clr">モバイル最適化, キャンペーンページ, 保険</div>
+                            ECサイト構築 (デザイン | コーディング | APIインテグレーション)
+                                <div class="grey-clr">配送業者API連携, 配送予約機能, トラッキング, Tiki, Lion Parcel</div>
                             </div>
                         </div>
 
@@ -291,6 +291,23 @@
                             </div>
                         </div>
 
+                    </div>
+
+                    <!-- HIDE WEB DEV PORTFOLIO -->
+                    <div class="panel-collapse collapse" id="hideWebDev">
+                        <div class="row">
+                        
+                        <div class="col-md-4 col-xs-6">
+                            <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/aiapremieracademy.png" alt="KKI New Pages" class="img-responsive center-block">
+                                <p class="text-center">AIA Premier Academy</p>
+                            </a>
+                            <div class="addition-desc text-left">
+                                Webページ制作 (デザイン | コーディング | ホスティング)
+                                <div class="grey-clr">モバイル最適化, キャンペーンページ, 保険</div>
+                            </div>
+                        </div>
+
                         <div class="col-md-4 col-xs-6">
                             <a href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
                                 <img src="/img/portfolio/jff.png" alt="Film Festival" class="img-responsive center-block">
@@ -301,12 +318,6 @@
                                 <div class="grey-clr">モバイル最適化, 多言語, イベント</div>
                             </div>
                         </div>
-
-                    </div>
-
-                    <!-- HIDE WEB DEV PORTFOLIO -->
-                    <div class="panel-collapse collapse" id="hideWebDev">
-                        <div class="row">
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.otomart.id/" target="_blank" rel="noreferrer">
