@@ -2479,6 +2479,20 @@ ul.candiate-criteria__reject li::before {
   font-weight: bold;
   line-height: 35px;
 }
+@media only screen and (max-width: 426px) {
+  .apply-now {
+    flex-wrap: wrap;
+  }
+  .apply-now__item {
+    flex-basis: 100%;
+  }
+  .apply-now .apply-now__item:first-child > .apply-now__text {
+    text-align: center;
+  }
+  .apply-now .apply-now__item:last-child > .btn-banner-pattern__wrapper {
+    margin-top: 1em;
+  }
+}
 /* End Career Detail */
 
 /*css from each page*/
