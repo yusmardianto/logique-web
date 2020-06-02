@@ -220,14 +220,14 @@
                     <div class="row">
 
                         <div class="col-md-4 col-xs-6">
-                            <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/aiapremieracademy.png" alt="AIA Premier Academy"
+                            <!-- <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer"> -->
+                                <img src="/img/portfolio/kki.jpg" alt="KKI New Pages"
                                     class="img-responsive center-block">
-                                <p class="text-center">AIA Premier Academy</p>
-                            </a>
+                                <p class="text-center">KKI</p>
+                            <!-- </a> -->
                             <div class="addition-desc text-left">
-                                Website Creation (Design | Coding)
-                                <div class="grey-clr">Static Web, Animation, Visual, Income Calculator, Graph, Insurance Agent Training</div>
+                            E-Commerce (Coding | API Integration)
+                                <div class="grey-clr">Shipping Provider Integration, Shipping Booking, Shipping Tracking, Tiki, Lion Parcel</div>
                             </div>
                         </div>
 
@@ -295,6 +295,18 @@
                     <!-- HIDE WEB DEV PORTFOLIO -->
                     <div class="panel-collapse collapse" id="hideWebDev">
                         <div class="row">
+
+                        <div class="col-md-4 col-xs-6">
+                            <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/aiapremieracademy.png" alt="AIA Premier Academy"
+                                    class="img-responsive center-block">
+                                <p class="text-center">AIA Premier Academy</p>
+                            </a>
+                            <div class="addition-desc text-left">
+                                Website Creation (Design | Coding)
+                                <div class="grey-clr">Static Web, Animation, Visual, Income Calculator, Graph, Insurance Agent Training</div>
+                            </div>
+                        </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
