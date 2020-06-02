@@ -151,6 +151,10 @@
                 <p>Consultant merupakan lini depan LOGIQUE yang dapat berkomunikasi klien dari sisi bisnis maupun teknis, memahami masalah yang dihadapi serta mampu memberikan solusi terbaik yang dibutuhkan. Dalam tahapan pengembangan Website, Aplikasi Berbasis Web, dan Aplikasi Mobile, Consultant berperan sebagai Project Manager yang memastikan bahwa proyek berjalan dengan baik, berkualitas, dan dapat diselesaikan tepat waktu.</p>
               </div>
               <div class="career-requirement">
+              <h3 class="section-title">Special Requirement</h3>
+                <p>LOGIQUE membuka lowongan khusus untuk Consultant / Project Manager yang memiliki tingkat pengalaman yang baik dalam pengembangan website / sistem berbasis web / aplikasi mobile dalam industri otomotif. Mari bergabung bersama kami.</p>
+              </div>
+              <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <h4 class="section-subtitle">PreSales</h4>
                 <ul class="career-list">
