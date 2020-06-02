@@ -243,73 +243,60 @@
                   <li>Gaji dan bonus yang sesuai dengan hasil, kontribusi, kemampuan, dan pengalaman Anda.</li>
                 </ul>
               </div>
-              <!-- <div class="career-requirement">
-                <h3 class="section-title">How a Product Manager in LOGIQUE works usually</h3>
-                <h4 class="section-subtitle">Product Manager Assistant</h4>
+              <div class="career-requirement">
+                <h3 class="section-title">How a Consultant/Product Manager in LOGIQUE works usually</h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:00 – 9:30</div>
-                    <div class="work-schedule__text">Check Google Analytics and inquiries about the product</div>
+                    <div class="work-schedule__time">09:00 – 09:30</div>
+                    <div class="work-schedule__text">Mulai dokodemo, cek email, trello, slack, untuk memulai pekerjaan atau memberikan tanggapan untuk hari ini.</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:30 – 10:30</div>
-                    <div class="work-schedule__text">Check and reply for application of demo usage</div>
+                    <div class="work-schedule__time">09:31 – 12:00</div>
+                    <div class="work-schedule__text">Melakukan briefing daftar pekerjaan baru dan diskusi dengan tim developer terkait tugas yang telah diberikan.</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">10:30 – 11:30</div>
-                    <div class="work-schedule__text">Have an internal confirmation / meeting with developers and digital
-                      marketers
-                      to
-                      confirm the schedule and progress</div>
+                    <div class="work-schedule__time">12:00 – 13:00</div>
+                    <div class="work-schedule__text">Istirahat</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">11:30 – 12:30</div>
-                    <div class="work-schedule__text">Lunch Break</div>
+                    <div class="work-schedule__time">13:01 – 16:00</div>
+                    <div class="work-schedule__text">Meeting dengan klien-klien terkait status proyek dan memastikan hubungan dengan klien terjalin dengan baik. Memberikan konsultasi untuk calon klien dari sisi bisnis maupun teknis dan memberikan solusi yang terbaik.</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">12:30 – 14:00</div>
-                    <div class="work-schedule__text">Plan and arrange offline marketing and event</div>
+                    <div class="work-schedule__time">16:01 – 17:00</div>
+                    <div class="work-schedule__text">Memeriksa status pekerjaan harian untuk proyek-proyek yang dikerjakan dari tim.</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">14:00 – 16:00</div>
-                    <div class="work-schedule__text">Make some wireframes for new features of a product</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">16:00</div>
-                    <div class="work-schedule__text">Go home</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">19:00 – 21:00</div>
-                    <div class="work-schedule__text">Check members’ daily report and give them instructions for Tomorrow
-                    </div>
+                    <div class="work-schedule__time">17:01 - 18:00</div>
+                    <div class="work-schedule__text">Membuat laporan harian internal, project costing, dan laporan tertulis terkait pekerjaan proyek untuk klien.</div>
                   </div>
                 </div>
-              </div> -->
+              </div>
             </div>
           </div>
         </div>
       </section>
 
-      <!-- <section class="container-fluid bg--salary" style="margin-bottom: 2.5em">
+      <section class="container-fluid bg--salary" style="margin-bottom: 2.5em">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <h3 class="section-title">Job Description</h3>
+              <h3 class="section-title">Consultant/Product Manager Salary Range in LOGIQUE</h3>
               <div class="row">
                 <div class="col-md-4 col-sm-12">
                   <div class="salary-range">
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
-                        <span class="salary-range__salary">100 juta IDR / Year</span>
+                        <span class="salary-range__salary">5.000.000 - 7.000.000 IDR</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">Consultant/Product Manager:</h5>
                     </div>
-                    <ul class="salary-range__list">
+                    <!-- <ul class="salary-range__list">
                       <li>Can analyze and suggest what / how we should improve</li>
                       <li>Can manage development team and run small budget digital marketing campaigns</li>
                       <li>Good at reporting</li>
-                    </ul>
+                    </ul> -->
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-12">
@@ -317,17 +304,17 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <span class="salary-range__salary">100 - 200 juta IDR / Year</span>
+                        <span class="salary-range__salary">7.000.000 - 11.000.000 IDR</span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">Consultant/Product Manager:</h5>
                     </div>
-                    <ul class="salary-range__list">
+                    <!-- <ul class="salary-range__list">
                       <li>Can analyze well and decide what / how we should improve</li>
                       <li>Can manage development team and solve the issues well</li>
                       <li>Run digital marketing and offline campaigns</li>
                       <li>Good at reporting and planning</li>
                       <li>Good at communicating with user clients and solving problems</li>
-                    </ul>
+                    </ul> -->
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-12">
@@ -335,24 +322,24 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <span class="salary-range__salary">200 - 400 juta IDR / Year</span>
+                        <span class="salary-range__salary">11.000.000 IDR ~ </span>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">Consultant/Product Manager:</h5>
                     </div>
-                    <ul class="salary-range__list">
+                    <!-- <ul class="salary-range__list">
                       <li>Can analyze well and decide what / how we should improve</li>
                       <li>Can manage team members well and have a good communication with other teams</li>
                       <li>Excellent in reporting to the management and make good strategy</li>
                       <li>Plan good sales and marketing plan and can do sales activities by themselves</li>
                       <li>Very good at communicating with user clients</li>
-                    </ul>
+                    </ul> -->
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section> -->
+      </section>
 
       <section class="container-fluid bg--career-apply --mb-2em">
         <div class="container--max-width">
