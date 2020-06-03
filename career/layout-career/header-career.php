@@ -177,12 +177,12 @@
       <h4>Programmer</h4>
     </a>
     <ul class="mega-menu__list">
-      <li><a href="/career/lowongan/programmer/frontend-developer.php">Frontend Developer</a></li>
-      <li><a href="/career/lowongan/programmer/mobile-app-developer.php">Mobile App Developer</a></li>
-      <li><a href="/career/lowongan/programmer/product-developer.php">Product Developer</a></li>
-      <li><a href="/career/lowongan/programmer/react-native-developer.php">React Native Developer</a></li>
-      <li><a href="/career/lowongan/programmer/reactjs-developer.php">React JS Developer</a></li>
-      <li><a href="/career/lowongan/programmer/web-developer.php">Web Developer</a></li>
+      <a href="/career/lowongan/programmer/frontend-developer.php"><li>Frontend Developer</li></a>
+      <a href="/career/lowongan/programmer/mobile-app-developer.php"><li>Mobile App Developer</li></a>
+      <a href="/career/lowongan/programmer/product-developer.php"><li>Product Developer</li></a>
+      <a href="/career/lowongan/programmer/react-native-developer.php"><li>React Native Developer</li></a>
+      <a href="/career/lowongan/programmer/reactjs-developer.php"><li>React JS Developer</li></a>
+      <a href="/career/lowongan/programmer/web-developer.php"><li>Web Developer</li></a>
     </ul>
   </div>
   <div class="mega-menu__item">
@@ -191,10 +191,10 @@
       <h4>IT Generalist</h4>
     </a>
     <ul class="mega-menu__list">
-      <li><a href="/career/lowongan/it-generalist/business-analyst.php">Business Analyst</a></li>
-      <li><a href="/career/lowongan/it-generalist/consultant.php">Consultant</a></li>
-      <li><a href="/career/lowongan/it-generalist/product-manager.php">Product Manager</a></li>
-      <li><a href="/career/lowongan/it-generalist/project-manager.php">Project Manager</a></li>
+      <a href="/career/lowongan/it-generalist/business-analyst.php"><li>Business Analyst</li></a>
+      <!-- <a href="/career/lowongan/it-generalist/consultant.php"><li>Consultant</li></a> -->
+      <a href="/career/lowongan/it-generalist/product-manager.php"><li>Consultant / <br>Product Manager</li></a>
+      <a href="/career/lowongan/it-generalist/project-manager.php"><li>Project Manager</li></a>
     </ul>
   </div><div class="mega-menu__item">
     <a href="/career/lowongan/specialist/" class="mega-menu__title">
@@ -202,9 +202,9 @@
       <h4>Others IT Specialist</h4>
     </a>
     <ul class="mega-menu__list">
-      <li><a href="/career/lowongan/specialist/devops.php">Devops</a></li>
-      <li><a href="/career/lowongan/specialist/it-security-specialist.php">IT Security Specialist</a></li>
-      <li><a href="/career/lowongan/specialist/quality-assurance.php">Quality Assurance</a></li>
+      <a href="/career/lowongan/specialist/devops.php"><li>Devops</li></a>
+      <a href="/career/lowongan/specialist/it-security-specialist.php"><li>IT Security Specialist</li></a>
+      <a href="/career/lowongan/specialist/quality-assurance.php"><li>Quality Assurance</li></a>
     </ul>
   </div><div class="mega-menu__item">
     <a href="/career/lowongan/digitalmarketing/" class="mega-menu__title">
@@ -212,8 +212,8 @@
       <h4>Designer / Digital Marketing</h4>
     </a>
     <ul class="mega-menu__list">
-      <li><a href="/career/lowongan/digitalmarketing/digital-marketing-specialist.php">Digital Marketing Specialist</a></li>
-      <li><a href="/career/lowongan/digitalmarketing/ui-ux-designer.php">UI/UX Designer</a></li>
+      <a href="/career/lowongan/digitalmarketing/digital-marketing-specialist.php"><li>Digital Marketing Specialist</li></a>
+      <a href="/career/lowongan/digitalmarketing/ui-ux-designer.php"><li>UI/UX Designer</li></a>
     </ul>
   </div><div class="mega-menu__item">
     <a href="/career/lowongan/backoffice/" class="mega-menu__title">
@@ -221,8 +221,8 @@
       <h4>Back Office</h4>
     </a>
     <ul class="mega-menu__list">
-      <li><a href="/career/lowongan/backoffice/accounting-finance.php">Accounting & Finance</a></li>
-      <li><a href="/career/lowongan/backoffice/hr-recruitment.php">HR Recruitment</a></li>
+      <a href="/career/lowongan/backoffice/accounting-finance.php"><li>Accounting & Finance</li></a>
+      <a href="/career/lowongan/backoffice/hr-recruitment.php"><li>HR Recruitment</li></a>
     </ul>
   </div>
 </div>
