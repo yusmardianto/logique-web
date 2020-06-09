@@ -243,7 +243,7 @@
                         <em class="salary-range__position">Junior</em>
                         <span class="salary-range__salary">5.000.000 - 6.500.000 IDR</span>
                       </div>
-                      <h5 class="section-title">Business Analyst</h5>
+                      <!-- <h5 class="section-title">Business Analyst</h5> -->
                     </div>
                   </div>
                 </div>
@@ -254,7 +254,7 @@
                         <em class="salary-range__position">Middle</em>
                         <span class="salary-range__salary">6.500.000 - 10.000.000 IDR</span>
                       </div>
-                      <h5 class="section-title">Business Analyst</h5>
+                      <!-- <h5 class="section-title">Business Analyst</h5> -->
                     </div>
                   </div>
                 </div>
@@ -265,7 +265,7 @@
                         <em class="salary-range__position">Senior</em>
                         <span class="salary-range__salary">10.000.000 IDR ~</span>
                       </div>
-                      <h5 class="section-title">Business Analyst</h5>
+                      <!-- <h5 class="section-title">Business Analyst</h5> -->
                     </div>
                   </div>
                 </div>
