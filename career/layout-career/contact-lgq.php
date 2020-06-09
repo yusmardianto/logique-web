@@ -15,7 +15,7 @@
         </div>
         <div class="row work-location__text">
           <div class="col-sm-offset-1 col-sm-10">
-            <p>
+            <!-- <p>
               Terima kasih telah mengunjungi halaman karir LOGIQUE.
               <br>
               Perlu diketahui, Anda dapat bekerja bersama kami di Jakarta dan Yogyakarta.
@@ -23,6 +23,11 @@
               Kami juga menerapkan sistem kerja remote bagi para karyawan kami sehingga Anda dapat bekerja dimana pun
               Anda
               inginkan. <b><a href="/hubungi-kami.php">Segera hubungi tim rekrutmen kami sekarang!</a></b>
+            </p> -->
+            <p>
+              Terima kasih telah mengunjungi halaman karir LOGIQUE. <br>
+              Saat ini LOGIQUE memiliki kantor yang berlokasi di Jakarta dan Yogyakarta, namun kami membuka peluang kerja untuk Anda secara penuh dimanapun Anda berada dengan sistem kerja remote. <br>
+              <b><a href="/hubungi-kami.php">Segera hubungi tim rekrutmen kami sekarang!</a></b>
             </p>
           </div>
         </div>

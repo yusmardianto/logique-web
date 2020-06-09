@@ -148,7 +148,8 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <p>Consultant merupakan lini depan LOGIQUE yang dapat berkomunikasi klien dari sisi bisnis maupun teknis, memahami masalah yang dihadapi serta mampu memberikan solusi terbaik yang dibutuhkan. Dalam tahapan pengembangan Website, Aplikasi Berbasis Web, dan Aplikasi Mobile, Consultant berperan sebagai Project Manager yang memastikan bahwa proyek berjalan dengan baik, berkualitas, dan dapat diselesaikan tepat waktu.</p>
+                <p>Consultant merupakan lini depan LOGIQUE yang dapat berkomunikasi, memahami masalah yang dihadapi, serta mampu memberikan solusi terbaik yang dibutuhkan client dari sisi bisnis maupun teknis. <br>
+                Dalam tahapan pengembangan Website, Aplikasi Berbasis Web, dan Aplikasi Mobile, Consultant berperan sebagai Project Manager yang memastikan bahwa proyek berjalan dengan baik, berkualitas, dan dapat diselesaikan tepat waktu.</p>
               </div>
               <div class="career-requirement">
               <h3 class="section-title">Special Requirement</h3>
@@ -294,7 +295,7 @@
                         <em class="salary-range__position">Junior</em>
                         <span class="salary-range__salary">5.000.000 - 7.000.000 IDR</span>
                       </div>
-                      <h5 class="section-title">Consultant/Product Manager:</h5>
+                      <!-- <h5 class="section-title">Consultant/Product Manager</h5> -->
                     </div>
                     <!-- <ul class="salary-range__list">
                       <li>Can analyze and suggest what / how we should improve</li>
@@ -310,7 +311,7 @@
                         <em class="salary-range__position">Middle</em>
                         <span class="salary-range__salary">7.000.000 - 11.000.000 IDR</span>
                       </div>
-                      <h5 class="section-title">Consultant/Product Manager:</h5>
+                      <!-- <h5 class="section-title">Consultant/Product Manager</h5> -->
                     </div>
                     <!-- <ul class="salary-range__list">
                       <li>Can analyze well and decide what / how we should improve</li>
@@ -328,7 +329,7 @@
                         <em class="salary-range__position">Senior</em>
                         <span class="salary-range__salary">11.000.000 IDR ~ </span>
                       </div>
-                      <h5 class="section-title">Consultant/Product Manager:</h5>
+                      <!-- <h5 class="section-title">Consultant/Product Manager</h5> -->
                     </div>
                     <!-- <ul class="salary-range__list">
                       <li>Can analyze well and decide what / how we should improve</li>

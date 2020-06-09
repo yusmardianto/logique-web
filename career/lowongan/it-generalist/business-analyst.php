@@ -148,77 +148,39 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
+                <p>Business Analyst berperan untuk memastikan semua kebutuhan klien secara bisnis maupun teknis dapat terkonversi dengan baik ke dalam sistem. Seorang Business Analyst memiliki kemampuan analisa yang sangat kuat dan mampu menuangkan semua hasil analisa dan rancangan yang telah dibuat ke dalam dokumen terstruktur untuk selanjutnya dapat dijadikan acuan (Blueprint) dalam pengembangan sistem.</p>
+              </div>
+              <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
-                  <li>
-                    Melakukan analisa terhadap business requirement dan mengkomunikasikannya dengan client melalui media
-                    bahasa pemodelan.
-                  </li>
-                  <li>
-                    Mendokumentasikan business requirements dalam bentuk FSD, API spec, dan Prototyping.
-                  </li>
-                  <li>
-                    Berkolaborasi intensif dengan Project Manager / Consultant dalam memanage change-request dan
-                    melakukan impact analysis.
-                  </li>
-                  <li>
-                    Berkolaborasi dengan tim development, QA, dan tim design dalam mendeliver detail business
-                    requirements secara sangat komprehensif.
-                  </li>
-                  <li>
-                    Berkolaborasi dengan tim development / Programmer analyst dalam mendesign web aplikasi, mobile
-                    aplikasi, dan API.
-                  </li>
-                  <li>
-                    Membuat dokumen user manual / user guide.
-                  </li>
+                  <li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
+                  <li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
+                  <li>Melakukan analisa dan membuat rancangan sistem berdasarkan proses bisnis.</li>
+                  <li>Mendokumentasikan business requirements dalam bentuk SDD/BRD/FSD, ERD, dan API spec.</li>
+                  <li>Berkolaborasi dengan Project Manager dan Tim Developer untuk memastikan pengembangan sistem sesuai dengan rancangan.</li>
+                  <li>Menyajikan laporan yang tepat dan terstruktur.</li>
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">Required Skill</h3>
+                <h3 class="section-title">Must Have Skill/Experience</h3>
                 <ul class="career-list">
-                  <li>
-                    Memiliki pengalaman sebagai Business Analyst minimal 2 tahun.
-                  </li>
-                  <li>
-                    Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.
-                  </li>
-                  <li>
-                    Memiliki kemampuan untuk memecahkan masalah secara sistematis.
-                  </li>
-                  <li>
-                    Memiliki skill dokumentasi business requirements.
-                  </li>
-                  <li>
-                    Memiliki skill dalam menggunakan tool pemodelan software / aplikasi seperti UML, ERD, Flowchart,
-                    balsamiq, dan software prototyping.
-                  </li>
-                  <li>
-                    Mempunyai pengalaman dengan berbagai sistem operasi dan patform.
-                  </li>
-                  <li>
-                    Bisa bekerjasama dalam tim.
-                  </li>
-                  <li>
-                    Memiliki kemampuan komunikasi yang baik (verbal dan non verbal).
-                  </li>
-                  <li>
-                    Memiliki kemampuan presentasi.
-                  </li>
-                  <li>
-                    Memiliki kemampuan interpesonal.
-                  </li>
-                  <li>
-                    Memiliki pengetahuan dan wawasan yang luas dengan dunia IT.
-                  </li>
+                  <li>Memiliki kemampuan yang sangat baik dalam menganalisa kebutuhan sistem/aplikasi, memecahkan masalah secara sistematis, dan memberikan solusi yang relevan terkait kebutuhan sistem/aplikasi.</li>
+                  <li>Memiliki kemampuan mendokumentasikan business requirements, system requirement, dan technical documentation.</li>
+                  <li>Memiliki keahian berkomunikasi verbal dan nonverbal yang baik.</li>
+                  <li>Berorientasi pada pelayanan terhadap client/customer.</li>
+                  <li>Memiliki kemampuan interpesonal yang baik.</li>
+                  <li>Memiliki pengetahuan yang luas dengan dunia IT.</li>
+                  <li>Berpendidikan minimal S1 di bidang Teknik Informatika atau Sistem Informasi.</li>
+                  <li>Memiliki pengalaman sebagai Business Analyst / System Analyst minimal 2 tahun.</li>
+                  <li>Dapat bekerja dalam tim.</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Preferable</h3>
                 <ul class="career-list">
-                  <li>Berpengalaman dalam Project Management.</li>
-                  <li>Memiliki kemampuan Bahasa Inggris (verbal dan non verbal).</li>
-                  <li>Berpengalaman dalam project automobile based, accounting system, dan eCommerce.</li>
+                <li>Berpengalaman sebagai Business Analyst atau System Analyst dalam proyek Website, Aplikasi Berbasis Web, dan Aplikasi Mobile, khususnya dalam industri otomotif.</li>
+                <li>Memiliki kemampuan atau pengalaman sebagai pemimpin tim BA / SA.</li>
+                <li>Memiliki kemampuan Bahasa Inggris yang baik.</li>
                 </ul>
               </div>
             </div>
@@ -226,85 +188,63 @@
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
-                  <li>
-                    Akan selalu up to date tentang perkembangan dunia IT.
-                  </li>
-                  <li>
-                    Kami memiliki client dari berbagai bidang industry, dan Anda bisa berhubungan dengan salah satunya.
-                    Hal itu bisa meningkatkan networking Anda.
-                  </li>
-                  <li>
-                    Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya).
-                  </li>
+                  <li>Pengalaman dan tantangan menarik dalam berbagai variasi proyek website, aplikasi berbasis web, dan aplikasi mobile.</li>
+                  <li>Kesempatan bertemu dan memperluas jaringan dengan berbagai klien Internasional dan Lokal dari berbagai macam bidang dan industri.</li>
+                  <li>Gaji dan bonus yang sesuai dengan hasil, kontribusi, kemampuan, dan pengalaman Anda.</li>
                 </ul>
               </div>
-              <!-- <div class="career-requirement">
+              <div class="career-requirement">
                 <h3 class="section-title">How a Business Analyst in LOGIQUE works usually</h3>
-                <h4 class="section-subtitle">Business Analyst Assistant</h4>
+                <!-- <h4 class="section-subtitle">Business Analyst Assistant</h4> -->
                 <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:00 – 9:30</div>
-                    <div class="work-schedule__text">Check Google Analytics and inquiries about the product</div>
+                    <div class="work-schedule__time">09:00 – 09:30</div>
+                    <div class="work-schedule__text">Mulai dokodemo, cek email, trello, slack, untuk memulai pekerjaan atau memberikan tanggapan untuk hari ini.</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">9:30 – 10:30</div>
-                    <div class="work-schedule__text">Check and reply for application of demo usage</div>
+                    <div class="work-schedule__time">09:31 – 12:00</div>
+                    <div class="work-schedule__text">Membuat/melanjutkan dokumentasi terkait proyek (SDD/BRD/FSD/User Manual). <br>
+                    Melakukan smoke test untuk proyek yang sudah dikerjakan dan koordinasi dengan tim developer terkait progres pengerjaan proyek.</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">10:30 – 11:30</div>
-                    <div class="work-schedule__text">Have an internal confirmation / meeting with developers and digital
-                      marketers
-                      to
-                      confirm the schedule and progress</div>
+                    <div class="work-schedule__time">12:00 – 13:00</div>
+                    <div class="work-schedule__text">Istirahat</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">11:30 – 12:30</div>
-                    <div class="work-schedule__text">Lunch Break</div>
+                    <div class="work-schedule__time">13:01 – 16:00</div>
+                    <div class="work-schedule__text">Meeting dengan klien terkait requirement definition untuk proyek yang akan dikerjakan atau meeting terkait progres pengerjaan</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">12:30 – 14:00</div>
-                    <div class="work-schedule__text">Plan and arrange offline marketing and event</div>
+                    <div class="work-schedule__time">16:01 – 17:00</div>
+                    <div class="work-schedule__text">Koordinasi dengan PM, tim desain, dan tim developer terkait hasil meeting dan revisi pengerjaan proyek. <br>
+                    Memeriksa status pekerjaan harian untuk proyek-proyek yang dikerjakan dari tim.</div>
                   </div>
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">14:00 – 16:00</div>
-                    <div class="work-schedule__text">Make some wireframes for new features of a product</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">16:00</div>
-                    <div class="work-schedule__text">Go home</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">19:00 – 21:00</div>
-                    <div class="work-schedule__text">Check members’ daily report and give them instructions for Tomorrow
-                    </div>
+                    <div class="work-schedule__time">17:01 - 18:00</div>
+                    <div class="work-schedule__text">Membuat laporan harian.</div>
                   </div>
                 </div>
-              </div> -->
+              </div>
             </div>
           </div>
         </div>
       </section>
 
-      <!-- <section class="container-fluid bg--salary">
+      <section class="container-fluid bg--salary" style="margin-bottom: 2.5em;">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <h3 class="section-title">Job Description</h3>
+              <h3 class="section-title">Business Analyst Salary Range in LOGIQUE</h3>
               <div class="row">
                 <div class="col-md-4 col-sm-12">
                   <div class="salary-range">
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
-                        <span class="salary-range__salary">100 juta IDR / Year</span>
+                        <span class="salary-range__salary">5.000.000 - 6.500.000 IDR</span>
                       </div>
-                      <h5 class="section-title">Business Analyst:</h5>
+                      <!-- <h5 class="section-title">Business Analyst</h5> -->
                     </div>
-                    <ul class="salary-range__list">
-                      <li>Can analyze and suggest what / how we should improve</li>
-                      <li>Can manage development team and run small budget digital marketing campaigns</li>
-                      <li>Good at reporting</li>
-                    </ul>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-12">
@@ -312,17 +252,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <span class="salary-range__salary">100 - 200 juta IDR / Year</span>
+                        <span class="salary-range__salary">6.500.000 - 10.000.000 IDR</span>
                       </div>
-                      <h5 class="section-title">Business Analyst:</h5>
+                      <!-- <h5 class="section-title">Business Analyst</h5> -->
                     </div>
-                    <ul class="salary-range__list">
-                      <li>Can analyze well and decide what / how we should improve</li>
-                      <li>Can manage development team and solve the issues well</li>
-                      <li>Run digital marketing and offline campaigns</li>
-                      <li>Good at reporting and planning</li>
-                      <li>Good at communicating with user clients and solving problems</li>
-                    </ul>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-12">
@@ -330,24 +263,17 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <span class="salary-range__salary">200 - 400 juta IDR / Year</span>
+                        <span class="salary-range__salary">10.000.000 IDR ~</span>
                       </div>
-                      <h5 class="section-title">Business Analyst:</h5>
+                      <!-- <h5 class="section-title">Business Analyst</h5> -->
                     </div>
-                    <ul class="salary-range__list">
-                      <li>Can analyze well and decide what / how we should improve</li>
-                      <li>Can manage team members well and have a good communication with other teams</li>
-                      <li>Excellent in reporting to the management and make good strategy</li>
-                      <li>Plan good sales and marketing plan and can do sales activities by themselves</li>
-                      <li>Very good at communicating with user clients</li>
-                    </ul>
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section> -->
+      </section>
 
       <section class="container-fluid bg--career-apply --mb-2em">
         <div class="container--max-width">
