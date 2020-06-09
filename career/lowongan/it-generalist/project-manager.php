@@ -294,7 +294,7 @@
                         <em class="salary-range__position">Junior</em>
                         <span class="salary-range__salary">5.000.000 - 7.000.000 IDR</span>
                       </div>
-                      <h5 class="section-title">Consultant/Product Manager:</h5>
+                      <h5 class="section-title">Consultant/Product Manager</h5>
                     </div>
                     <!-- <ul class="salary-range__list">
                       <li>Can analyze and suggest what / how we should improve</li>
@@ -310,7 +310,7 @@
                         <em class="salary-range__position">Middle</em>
                         <span class="salary-range__salary">7.000.000 - 11.000.000 IDR</span>
                       </div>
-                      <h5 class="section-title">Consultant/Product Manager:</h5>
+                      <h5 class="section-title">Consultant/Product Manager</h5>
                     </div>
                     <!-- <ul class="salary-range__list">
                       <li>Can analyze well and decide what / how we should improve</li>
@@ -328,7 +328,7 @@
                         <em class="salary-range__position">Senior</em>
                         <span class="salary-range__salary">11.000.000 IDR ~ </span>
                       </div>
-                      <h5 class="section-title">Consultant/Product Manager:</h5>
+                      <h5 class="section-title">Consultant/Product Manager</h5>
                     </div>
                     <!-- <ul class="salary-range__list">
                       <li>Can analyze well and decide what / how we should improve</li>
