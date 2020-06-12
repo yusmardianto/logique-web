@@ -215,7 +215,7 @@ if(isset($_POST['submitted']))
                         <p>
                             インドネシアルピア建てでFaktur Pajakと併せた請求書の発行をいたします。
                         </p>
-                        <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon">
+                        <!-- <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon"> -->
                     </div>
                 </div>
                 <div class="col-sm-4">
@@ -225,7 +225,7 @@ if(isset($_POST['submitted']))
                         <p>
                             オンプレミス環境で動いているシステムのクラウドサーバーへの移行など、クラウド環境を構築します。
                         </p>
-                        <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon">
+                        <!-- <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon"> -->
                     </div>
                 </div>
                 <div class="col-sm-4">
@@ -235,7 +235,7 @@ if(isset($_POST['submitted']))
                         <p>
                             お客様社内で運用保守リソースをもつ必要がありません。障害発生時も24時間365日のフルサポート。
                         </p>
-                        <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon">
+                        <!-- <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon"> -->
                     </div>
                 </div>
             </div>
@@ -286,7 +286,7 @@ if(isset($_POST['submitted']))
     </section>
 
     
-    <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
+    <!-- <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section> -->
     <?php include '../footer.php'; ?>
 
     <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->

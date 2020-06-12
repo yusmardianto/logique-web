@@ -198,7 +198,7 @@ if(isset($_POST['submitted']))
                         <h1 class="text-center title-text"> Server Cloud Management Service<span>AWS / GCP / Alibaba Cloud</span></h1>
                         <div class="subtitle-header text-center">
                             <div class="line-title"></div>
-                            <p>LOGIQUE provides fully managed DevOps services on Cloud Servers and have plenty of experiences with companies in Indonesia
+                            <p>LOGIQUE provides fully managed DevOps services on Cloud Servers and<br> have plenty of experiences with companies in Indonesia
                             </p>
 
                             <p style="color: #ffca00"><strong>LOGIQUE is a certified AWS partner in Indonesia</strong></p>
@@ -218,7 +218,7 @@ if(isset($_POST['submitted']))
                         <p>
                             We issue an invoice to you with Faktur Pajak in Indonesian Rupiah instead of paying directly to AWS in USD.
                         </p>
-                        <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon">
+                       <!--  <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon"> -->
                     </div>
                 </div>
                 <div class="col-sm-4">
@@ -228,7 +228,7 @@ if(isset($_POST['submitted']))
                         <p>
                              We provide services to build a cloud-based environment and migrate your system from on-premise servers to cloud server. 
                         </p>
-                        <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon">
+                        <!-- <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon"> -->
                     </div>
                 </div>
                 <div class="col-sm-4">
@@ -238,7 +238,7 @@ if(isset($_POST['submitted']))
                         <p>
                             You do not need to have your own IT support resources. We provide 24/7 monitoring, technical support and troubleshooting.
                         </p>
-                        <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon">
+                       <!--  <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon"> -->
                     </div>
                 </div>
             </div>
@@ -289,7 +289,7 @@ if(isset($_POST['submitted']))
     </section>
 
     
-    <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
+   <!--  <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section> -->
     <?php include '../footer.php'; ?>
 
     <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->

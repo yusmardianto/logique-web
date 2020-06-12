@@ -215,7 +215,7 @@ if(isset($_POST['submitted']))
                         <p>
                             Kami mengeluarkan tagihan bersama Faktur Pajak dalam Rupiah sehingga Anda tidak perlu membayar ke AWS dalam USD.
                         </p>
-                        <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon">
+                        <!-- <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon"> -->
                     </div>
                 </div>
                 <div class="col-sm-4">
@@ -225,7 +225,7 @@ if(isset($_POST['submitted']))
                         <p>
                             Kami menyediakan layanan untuk membangun sistem berbasis cloud dan memigrasikan sistem Anda dari server on-premise ke server cloud.
                         </p>
-                        <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon">
+                        <!-- <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon"> -->
                     </div>
                 </div>
                 <div class="col-sm-4">
@@ -235,7 +235,7 @@ if(isset($_POST['submitted']))
                         <p>
                             Anda tidak perlu memiliki IT Support internal. Kami menyediakan pemantauan 24/7, dukungan teknis, dan troubleshooting.
                         </p>
-                        <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon">
+                        <!-- <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon"> -->
                     </div>
                 </div>
             </div>
@@ -286,7 +286,7 @@ if(isset($_POST['submitted']))
     </section>
 
     
-    <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
+   <!--  <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section> -->
     <?php include '../footer.php'; ?>
 
     <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->

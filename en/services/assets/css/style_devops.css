@@ -1,7 +1,6 @@
 html,
 body {
-  font-family: "M PLUS 1p", Lato, sans-serif !important;
-   font-family: Meiryo;
+  font-family: Raleway;
   background-color: #fff;
   overflow-x: hidden;
 }
@@ -10,7 +9,7 @@ body {
 @-o-viewport {width: device-width}
 @viewport {width: device-width}
 * {
-    font-family: 'M PLUS 1p',Lato, sans-serif; 
+    font-family: Raleway;
 }
 
 header {
@@ -34,7 +33,7 @@ header h1 {
   line-height: 22px;
 }
 header h1 span{
-  font-family: Raleway-Bold;
+  font-family: Raleway;
   font-size: 18px;
   font-weight: bold;
   color: #ffca00;
@@ -51,8 +50,7 @@ header h1 span{
 }
 .new-box {
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.1);
-  padding: 20px;
-  font-family: Meiryo-Bold;
+  padding: 20px; 
   border-radius: 0 0 0 0;
   margin-bottom: 1em;
   height: 300px;
@@ -104,8 +102,7 @@ margin-bottom: 10px;
   padding-bottom: 85px;
   font-size: 16px;
 }
-.our-devops-works h2{
-  font-family: Meiryo-Bold;
+.our-devops-works h2{ 
   font-size: 24px;
   font-weight: bold;
   padding-bottom: 50px;
@@ -573,8 +570,7 @@ footer {
   header {
     height: auto;
   }
-  header h1 {
-    font-family: Meiryo;
+  header h1 { 
     font-size: 24px;
     height: 36px;
     letter-spacing: -0.35px;
@@ -582,7 +578,7 @@ footer {
   }
   header h1 span{
     color: #ffca00;
-    font-family: Raleway-Bold;
+    font-family: Raleway;
     font-size: 18px;
     font-weight: bold;
   }
