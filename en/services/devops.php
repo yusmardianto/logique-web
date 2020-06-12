@@ -87,58 +87,61 @@ if(isset($_POST['submitted']))
             </button>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <div class="backdrop-test"></div>
-                <div class="logique-nav in-jp">
-                    <div class="margin-for-nav">
-                        <div class="text-center">
-                            <a href="/jp/">
-                                <div class="img-home"></div>
-                                Home
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/logique.php">
-                                <div class="img-about"></div>
-                                会社概要
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/portfolio.php">
-                                <div class="img-portfolio"></div>
-                                制作実績
-                            </a>
-                        </div>
-                        <div class="text-center active">
-                            <a href="/jp/services.php">
-                                <div class="img-services"></div>
-                                サービス
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="product.php">
-                                <div class="img-product"></div>
-                                プロダクト
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/career/">
-                                <div class="img-career"></div>
-                                採用/<br>パートナー
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/contact.php">
-                                <div class="img-contact"></div>
-                                お問い合わせ
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-                                <div class="img-blog"></div>
-                                Blog
-                            </a>
-                        </div>
-                    </div>
-                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                 <div class="backdrop-test"></div>
+                 <div class="logique-nav">
+                     <div class="margin-for-nav">
+                         <div class="text-center">
+                             <a href="/en/">
+                                 <div class="img-home"></div>
+                                 Home
+                             </a>
+                         </div>
+                         <div class="text-center">
+                             <a href="/en/logique.php">
+                                 <div class="img-about"></div>
+                                 About Us
+                             </a>
+                         </div>
+                         <div class="text-center">
+                             <a href="/en/portfolio.php">
+                                 <div class="img-portfolio"></div>
+                                 Portfolio
+                             </a>
+                         </div>
+                         <div class="text-center active">
+                             <a href="/en/services.php">
+                                 <div class="img-services"></div>
+                                 Services
+                             </a>
+                         </div>
+                         <div class="text-center">
+                             <a href="/en/product.php">
+                                 <div class="img-product"></div>
+                                 Product
+                             </a>
+                         </div>
+                         <div class="text-center">
+                             <a href="/career/">
+                                 <div class="img-career"></div>
+                                 Career
+                             </a>
+                         </div>
+                         <div class="text-center">
+                             <a href="/en/contact.php">
+                                 <div class="img-contact"></div>
+                                 Contact us
+                             </a>
+                         </div>
+                         <div class="text-center">
+                             <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
+                                 <div class="img-blog"></div>
+                                 Blog
+                             </a>
+                         </div>
+                     </div>
+                 </div>
+             </div>
             </div>
         </div>
         <!-- NAVIGATION -->
@@ -151,9 +154,9 @@ if(isset($_POST['submitted']))
                         <div class="col-sm-offset-1 col-sm-11">
                             <div class="container">
                                 <ul class="list-inline">
-                                    <li><a href="/en/services/devops.php">EN</a></li>
-                                    <li><a href="/layanan/devops.php">ID</a></li>
-                                    <li class="active"><a href="#">JP</a></li>
+                                    <li class="active"><a href="/en/services/devops.php">EN</a></li>
+                                    <li ><a href="/layanan/devops.php">ID</a></li>
+                                    <li ><a href="/jp/services/devops.php">JP</a></li>
                                 </ul>
                                 <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
                                         class="img-responsive logo--update-design" /></a>
@@ -177,11 +180,11 @@ if(isset($_POST['submitted']))
                                     <meta itemprop="position" content="1" />
                                 </li>
                                 <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item" href="/jp/services.php"><span itemprop="name">&nbsp;サービス</span></a>
+                                        itemprop="item" href="/en/services.php"><span itemprop="name">&nbsp;Service</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;クラウドサーバー構築運用 / AWS</span></a>
+                                        itemprop="item"><span itemprop="name">&nbsp;DevOps / AWS</span></a>
                                     <meta itemprop="position" content="3" />
                                 </li>
                             </ol>
@@ -192,13 +195,13 @@ if(isset($_POST['submitted']))
             <div class="container__">
                 <div class="row">
                     <div class="col-md-offset-1 col-md-10 m-t-2em">
-                        <h1 class="text-center title-text"> クラウドサーバー構築運用サービス <span>AWS / GCP / Alibaba Cloud</span></h1>
+                        <h1 class="text-center title-text"> Server Cloud Management Service<span>AWS / GCP / Alibaba Cloud</span></h1>
                         <div class="subtitle-header text-center">
                             <div class="line-title"></div>
-                            <p>豊富な導入実績があります。設計・構築から運用保守まで、インドネシア法人がク<br>ラウドサーバーを利用するあらゆるニーズに対応するフルマネージド・サービス。
+                            <p>LOGIQUE provides fully managed DevOps services on Cloud Servers and have plenty of experiences with companies in Indonesia
                             </p>
 
-                            <p style="color: #ffca00"><strong>LOGIQUEはAWSのインドネシアでのパートナーとして認定されています。</strong></p>
+                            <p style="color: #ffca00"><strong>LOGIQUE is a certified AWS partner in Indonesia</strong></p>
                         </div>
                     </div>
                 </div>
@@ -211,9 +214,9 @@ if(isset($_POST['submitted']))
                 <div class="col-sm-4">
                     <div class="new-box">
                         <img src="assets/img/img-devops/icon-billing-service.svg">
-                        <h3>請求代行サービス</h3>
+                        <h3>Billing Service</h3>
                         <p>
-                            インドネシアルピア建てでFaktur Pajakと併せた請求書の発行をいたします。
+                            We issue an invoice to you with Faktur Pajak in Indonesian Rupiah instead of paying directly to AWS in USD.
                         </p>
                         <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon">
                     </div>
@@ -221,9 +224,9 @@ if(isset($_POST['submitted']))
                 <div class="col-sm-4">
                     <div class="new-box">
                         <img src="assets/img/img-devops/icon-development-service.svg">
-                        <h3>構築サービス</h3>
+                        <h3>Layanan Pengembangan</h3>
                         <p>
-                            オンプレミス環境で動いているシステムのクラウドサーバーへの移行など、クラウド環境を構築します。
+                             We provide services to build a cloud-based environment and migrate your system from on-premise servers to cloud server. 
                         </p>
                         <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon">
                     </div>
@@ -231,9 +234,9 @@ if(isset($_POST['submitted']))
                 <div class="col-sm-4">
                     <div class="new-box">
                         <img src="assets/img/img-devops/icon-operation-maintenance-service.svg">
-                        <h3>運用保守サービス</h3>
+                        <h3>Development Service</h3>
                         <p>
-                            お客様社内で運用保守リソースをもつ必要がありません。障害発生時も24時間365日のフルサポート。
+                            You do not need to have your own IT support resources. We provide 24/7 monitoring, technical support and troubleshooting.
                         </p>
                         <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon">
                     </div>
@@ -244,7 +247,7 @@ if(isset($_POST['submitted']))
 
     <section class="our-devops-works">
         <div class="container">
-            <h2 class="text-center" >クラウドサーバー構築運用事例</h2>
+            <h2 class="text-center" >Cloud Server DevOps Works</h2>
             <div class="devops-list-container">
                 <div class="row">
                     <div class="col-sm-4">
@@ -253,7 +256,7 @@ if(isset($_POST['submitted']))
                                 <img src="assets/img/img-devops/jba-logo.png" class="img-responsive">
                             </div>
                             <div class="devops-desc">
-                                2013年にクラウドサーバーを構築して移行して以来保守運用、請求代行サービスを行っています。大きなトラブルなく運用できています。
+                                We have provided services for JBA since their system was migrated to the cloud servers in 2013 and we have been operating without any major problems.
                             </div>
                         </div>
                     </div>
@@ -263,7 +266,7 @@ if(isset($_POST['submitted']))
                                 <img src="assets/img/img-devops/jba-logo.png" class="img-responsive">
                             </div>
                             <div class="devops-desc">
-                                某大手保険会社のWebサーバーをAlibabaクラウド内に構築運用しています。インドネシア国内でサーバーを運用するルールに則ったものです。
+                               We have built and maintained a system on Alibaba Cloud server for a leading foreign-owned insurance company. Alibaba Cloud in Indonesia meets the requirement of OJK.
                             </div>
                         </div>
                     </div>
@@ -273,14 +276,14 @@ if(isset($_POST['submitted']))
                                 <img src="assets/img/img-devops/jba-logo.png" class="img-responsive">
                             </div>
                             <div class="devops-desc">
-                                マーケットプレイスをAWSに構築。サイトの成長に合わせサーバー構成をチューニングしながら保守運用している。
+                                We developed a Marketplace on AWS for an automotive industry. We have been optimizing the configurations and performance of the server.
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="btn-container text-center">
-                <a href="../contact.php" class="btn-contact">お問い合わせ </a>
+                <a href="../contact.php" class="btn-contact">Contact Us Now</a>
             </div>
         </div>
     </section>
