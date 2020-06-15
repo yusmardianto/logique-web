@@ -2347,7 +2347,7 @@ ul.candiate-criteria__reject li::before {
 /* Career Detail */
 .career-detail {
   display: flex;
-  justify-content: space-between;
+  justify-content: end;
   flex-wrap: wrap;
 }
 .career-detail__img-wrapper {
