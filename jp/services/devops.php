@@ -43,7 +43,7 @@ if(isset($_POST['submitted']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" content="インドネシアのお客様にAWS、GCP、Alibabaクラウド環境を構築運用サービスを提供しています。クラウドサーバーへの移行、新規システムの開発、運用代行、請求代行などお気軽にご相談ください。LOGIQUE Digital Indonesia">
-    <meta name="keywords" content="効果のある、コンバージョンのでる、意味のある、WEBサイトを予算内で、素早く、効率的に、先進テクノロジーを用い、セキュアに、作ります">
+    <meta name="keywords" content=" ">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>クラウドサーバー構築運用 | DevOps | ジャカルタのシステム開発会社LOGIQUEデジタルインドネシア</title>
@@ -259,7 +259,7 @@ if(isset($_POST['submitted']))
                     <div class="col-sm-4">
                         <div class="devops-work-item">
                             <div class="img-container">
-                                <img src="assets/img/img-devops/jba-logo.png" class="img-responsive">
+                                <img src="assets/img/img-devops/confidential-img.png" class="img-responsive">
                             </div>
                             <div class="devops-desc">
                                 某大手保険会社のWebサーバーをAlibabaクラウド内に構築運用しています。インドネシア国内でサーバーを運用するルールに則ったものです。
@@ -269,7 +269,7 @@ if(isset($_POST['submitted']))
                     <div class="col-sm-4">
                         <div class="devops-work-item">
                             <div class="img-container">
-                                <img src="assets/img/img-devops/jba-logo.png" class="img-responsive">
+                                <img src="assets/img/img-devops/confidential-img.png" class="img-responsive">
                             </div>
                             <div class="devops-desc">
                                 マーケットプレイスをAWSに構築。サイトの成長に合わせサーバー構成をチューニングしながら保守運用している。

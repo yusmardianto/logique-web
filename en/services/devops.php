@@ -42,12 +42,11 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" content="LOGIQUEがインドネシアで作るWeb / ホームページは、集客ができる、お問い合わせが増える、採用応募者が増える、などコンバージョンが増える価値のあるWebです。WEBチャネルを活用して営業を効率的に行いたい、他社と差別化したい、カスタマーサービスを効率化したい、採用を強化したい、
-場合はLOGIQUEにお任せください。LOGIQUEのWeb制作サービス詳細。">
-    <meta name="keywords" content="効果のある、コンバージョンのでる、意味のある、WEBサイトを予算内で、素早く、効率的に、先進テクノロジーを用い、セキュアに、作ります">
+    <meta name="description" content="We provide AWS, GCP, Alibaba Cloud environment  construction and operation services to Indonesian customers. Please feel free to contact us for enquiries regarding migration to cloud server, new system development, operation agency, billing agency, etc. LOGIQUE Digital Indonesia">
+    <meta name="keywords" content=" ">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Web制作サービス詳細 | ジャカルタのWeb制作会社LOGIQUEデジタルインドネシア</title>
+    <title>Cloud Server Structure Operation | DevOps | System Development Company in Jakarta, LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style_devops.css" rel="stylesheet">
@@ -263,7 +262,7 @@ if(isset($_POST['submitted']))
                     <div class="col-sm-4">
                         <div class="devops-work-item">
                             <div class="img-container">
-                                <img src="assets/img/img-devops/jba-logo.png" class="img-responsive">
+                                <img src="assets/img/img-devops/confidential-img.png" class="img-responsive">
                             </div>
                             <div class="devops-desc">
                                We have built and maintained a system on Alibaba Cloud server for a leading foreign-owned insurance company. Alibaba Cloud in Indonesia meets the requirement of OJK.
@@ -273,7 +272,7 @@ if(isset($_POST['submitted']))
                     <div class="col-sm-4">
                         <div class="devops-work-item">
                             <div class="img-container">
-                                <img src="assets/img/img-devops/jba-logo.png" class="img-responsive">
+                                <img src="assets/img/img-devops/confidential-img.png" class="img-responsive">
                             </div>
                             <div class="devops-desc">
                                 We developed a Marketplace on AWS for an automotive industry. We have been optimizing the configurations and performance of the server.
