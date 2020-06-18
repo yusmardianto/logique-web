@@ -26,6 +26,7 @@
     <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
 </head>
 
 <body>
@@ -707,8 +708,8 @@
                         </div>
                     </section>
                     <div class="text-center --back-top">
-                        <a href="portofolio.php#sysDev">
-                            <div class="main-btn --black">Portfolio</div>
+                        <a href="/layanan/pembuatan-sistem-web.php">
+                            <div class="main-btn --black">Pelajari Lebih Lanjut  Tentang Sistem Developer</div>
                         </a>
                         <a href="#serviceNavigation">
                             <div class="main-btn">Back to Top</div>

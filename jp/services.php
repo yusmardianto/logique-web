@@ -675,8 +675,8 @@
                         </div>
                     </section>
                     <div class="text-center --back-top">
-                        <a href="portfolio.php#sysDev">
-                            <div class="main-btn --black">Portfolio</div>
+                        <a href="/jp/services/system-dev.php">
+                            <div class="main-btn --black">システム開発サービスの詳細をみる</div>
                         </a>
                         <a href="#serviceNavigation">
                             <div class="main-btn">Back to Top</div>
