@@ -132,12 +132,12 @@
                   </div>
                   <p>Permanent</p>
                 </div>
-                <div class="career-detail__item">
+                <!-- <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/location.png" alt="Work Location">
                   </div>
                   <p>Jakarta, Yogyakarta</p>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
