@@ -286,7 +286,6 @@ if(isset($_POST['submitted']))
             </div>
         </div>
     </section>
-
     
    <!--  <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section> -->
     <?php include '../footer.php'; ?>
