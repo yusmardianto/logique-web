@@ -842,6 +842,10 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Operasi Server Cloud (AWS / Alibaba Cloud)</h4>
                                 <p>Kami adalah Mitra AWS yang tersertifikasi, yang dapat mengatur dan mengoptimasi infrastruktur AWS. Kami juga dapat membantu Anda sebagai agen dalam melakukan pembelian Domain Perusahaan Indonesia ("co.id"). Kami juga dapat mengatur DNS dan Global SSL untuk Anda, dan juga menyediakan penyewaan server web seperti AWS, Alibaba Cloud dan GIO Cloud.</p>
+                                <div class="service-detail__btn-wrapper">
+                                    <a class="main-btn --yellow" href="/layanan/devops.php">Pelajari Lebih Lanjut <span
+                                            class="hidden-xs">Tentang Operasi Server Cloud</span></a>
+                                </div>
                             </div>
                         </div>
                     </section>

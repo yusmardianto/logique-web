@@ -826,6 +826,9 @@
                                         GCPやAlibabaクラウドの構築運用経験もあります。インドネシアのドメインの取得管理、DNSの設定、SSLの購入設定、
                                         AWSの請求代行なども可能です。
                                     </p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a class="main-btn --yellow" href="services/devops.php">もっと見る</a>
+                                    </div>
                             </div>
                         </div>
                     </section>

@@ -952,6 +952,9 @@
                                         as AWS,
                                         Alibaba Cloud and GIO Cloud.
                                     </p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a class="main-btn --yellow" href="services/devops.php">See More</a>
+                                    </div>
                             </div>
                         </div>
                     </section>
