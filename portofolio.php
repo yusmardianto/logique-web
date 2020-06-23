@@ -195,6 +195,8 @@
                             <img class="client-list__img" src="/img/portfolio/client-list/tolaram.png" alt="tolaram">
                             <img class="client-list__img" src="/img/portfolio/client-list/pegadaian.png" alt="pegadaian">
                             <img class="client-list__img" src="/img/portfolio/client-list/panpacific.jpg" alt="pan pacific insurance">
+                            <img class="client-list__img" src="/img/portfolio/client-list/hino.png" alt="hino">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sumitomo-heavy.png" alt="sumitomo heavy">
                         </div>
                     </div>
 
@@ -218,16 +220,16 @@
                         </a>
                     </div>
                     <div class="row">
-
+                        
                         <div class="col-md-4 col-xs-6">
-                            <!-- <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer"> -->
-                                <img src="/img/portfolio/kki.jpg" alt="KKI New Pages"
+                            <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/aiapremieracademy.png" alt="AIA Premier Academy"
                                     class="img-responsive center-block">
-                                <p class="text-center">KKI</p>
-                            <!-- </a> -->
+                                <p class="text-center">AIA Premier Academy</p>
+                            </a>
                             <div class="addition-desc text-left">
-                                E-Commerce (Coding | Integrasi API)
-                                <div class="grey-clr">Integrasi Layanan Pengiriman, Booking Pengiriman, Tracking Pengiriman, Tiki, Lion Parcel</div>
+                                Pembuatan Halaman Campaign (Design | Coding | Hosting)
+                                <div class="grey-clr">Website Campaign, Optimasi Mobile, Asuransi, Akademi</div>
                             </div>
                         </div>
 
@@ -294,18 +296,6 @@
                     <!-- HIDE WEB DEV PORTFOLIO -->
                     <div class="panel-collapse collapse" id="hideWebDev">
                         <div class="row">
-                        
-                        <div class="col-md-4 col-xs-6">
-                            <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/aiapremieracademy.png" alt="AIA Premier Academy"
-                                    class="img-responsive center-block">
-                                <p class="text-center">AIA Premier Academy</p>
-                            </a>
-                            <div class="addition-desc text-left">
-                                Pembuatan Halaman Campaign (Design | Coding | Hosting)
-                                <div class="grey-clr">Website Campaign, Optimasi Mobile, Asuransi, Akademi</div>
-                            </div>
-                        </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
@@ -1132,7 +1122,6 @@
                                     <div class="grey-clr">Mobile Optimized, CMS, Corporate web</div>
                                 </div>
                             </div>
-
                             
                             <div class="col-md-4 col-xs-6">
                                 <!-- <a href="#" target="_blank" rel="noreferrer"> -->
@@ -1179,6 +1168,18 @@
                                 <div class="addition-desc text-left">
                                     Web Bulletin board Development (Design | Coding | Integrasi CMS)
                                     <div class="grey-clr">Bulletin board, CMS, Community Web, Media, Vietnum</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <!-- <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer"> -->
+                                    <img src="/img/portfolio/kki.jpg" alt="KKI New Pages"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">KKI</p>
+                                <!-- </a> -->
+                                <div class="addition-desc text-left">
+                                    E-Commerce (Coding | Integrasi API)
+                                    <div class="grey-clr">Integrasi Layanan Pengiriman, Booking Pengiriman, Tracking Pengiriman, Tiki, Lion Parcel</div>
                                 </div>
                             </div>
 
