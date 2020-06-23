@@ -200,6 +200,8 @@
                             <img class="client-list__img" src="/img/portfolio/client-list/tolaram.png" alt="tolaram">
                             <img class="client-list__img" src="/img/portfolio/client-list/pegadaian.png" alt="pegadaian">
                             <img class="client-list__img" src="/img/portfolio/client-list/panpacific.jpg" alt="pan pacific insurance">
+                            <img class="client-list__img" src="/img/portfolio/client-list/hino.png" alt="hino">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sumitomo-heavy.png" alt="sumitomo heavy">
                         </div>
                     </div>
 
@@ -223,15 +225,15 @@
                         </a>
                     </div>
                     <div class="row">
-
+                        
                         <div class="col-md-4 col-xs-6">
-                            <!-- <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer"> -->
-                                <img src="/img/portfolio/kki.jpg" alt="AIA Premier Academy" class="img-responsive center-block">
-                                <p class="text-center">KKI</p>
-                            <!-- </a> -->
+                            <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
+                                <img src="/img/portfolio/aiapremieracademy.png" alt="KKI New Pages" class="img-responsive center-block">
+                                <p class="text-center">AIA Premier Academy</p>
+                            </a>
                             <div class="addition-desc text-left">
-                            ECサイト構築 (デザイン | コーディング | APIインテグレーション)
-                                <div class="grey-clr">配送業者API連携, 配送予約機能, トラッキング, Tiki, Lion Parcel</div>
+                                Webページ制作 (デザイン | コーディング | ホスティング)
+                                <div class="grey-clr">モバイル最適化, キャンペーンページ, 保険</div>
                             </div>
                         </div>
 
@@ -296,17 +298,6 @@
                     <!-- HIDE WEB DEV PORTFOLIO -->
                     <div class="panel-collapse collapse" id="hideWebDev">
                         <div class="row">
-                        
-                        <div class="col-md-4 col-xs-6">
-                            <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/aiapremieracademy.png" alt="KKI New Pages" class="img-responsive center-block">
-                                <p class="text-center">AIA Premier Academy</p>
-                            </a>
-                            <div class="addition-desc text-left">
-                                Webページ制作 (デザイン | コーディング | ホスティング)
-                                <div class="grey-clr">モバイル最適化, キャンペーンページ, 保険</div>
-                            </div>
-                        </div>
 
                         <div class="col-md-4 col-xs-6">
                             <a href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
@@ -1127,6 +1118,17 @@
                                 <div class="addition-desc text-left">
                                     Web掲示板制作 (デザイン | コーディング | CMS)
                                     <div class="grey-clr">掲示板, CMS, コミュニティWeb, メディア, ベトナム</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <!-- <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer"> -->
+                                    <img src="/img/portfolio/kki.jpg" alt="AIA Premier Academy" class="img-responsive center-block">
+                                    <p class="text-center">KKI</p>
+                                <!-- </a> -->
+                                <div class="addition-desc text-left">
+                                ECサイト構築 (デザイン | コーディング | APIインテグレーション)
+                                    <div class="grey-clr">配送業者API連携, 配送予約機能, トラッキング, Tiki, Lion Parcel</div>
                                 </div>
                             </div>
 
