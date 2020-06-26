@@ -47,7 +47,7 @@ if(isset($_POST['submitted']))
 	<meta property="og:title" content="Web System Development Service | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
 	<meta property="og:description" content="As one of the top leading web developers in Indonesia, LOGIQUE has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed. Learn more about our web system development service here.">
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

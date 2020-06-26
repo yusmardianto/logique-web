@@ -49,7 +49,7 @@ if(isset($_POST['submitted']))
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/produk/nippo.php">
-     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png"> 
      <meta property="og:description"
          content="Nippo merupakan sistem laporan kerja berbasis web dari LOGIQUE yang mampu membantu HR dan manager dalam menilai kinerja para karyawan. Dengan sistem ini, Anda dapat dengan mudah melakukan seleksi, monitor, penilaian, dan evaluasi kinerja harian karyawan Anda.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

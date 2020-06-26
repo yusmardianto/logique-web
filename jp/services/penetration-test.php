@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/services/penetration-test.php">
-    <meta property="og:image" content="https://www.logique.co.id/assets/img/img-pentest/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
         content="LOGIQUEのWEBサイトセキュリティ診断サービスは、お客様のWEBサイト、E-Commerce、WEBアプリケーションの脆弱性を診断し、レポート、対策案を提案します。Penetrationテストを行い、Webサイトへの攻撃、乗っ取り、改ざんなどから守ります。インドネシアの首都ジャカルタのWEB制作・システム開発会社LOGIQUEにセキュリティ対策についてご相談ください。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

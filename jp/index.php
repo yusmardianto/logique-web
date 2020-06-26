@@ -18,7 +18,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://logique.co.id/jp">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+  <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
   <meta property="og:description"
     content="インドネシア、ジャカルタでのWebサイト(ホームページ)制作、システム構築、Digitalマーケティング、モバイルアプリ開発(ハイブリッド / iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、コンテンツマーケティングなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。インドネシアで7年以上多くのお客様をご支援してきた実績があります。">
   <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">

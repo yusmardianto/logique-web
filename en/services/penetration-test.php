@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/services/penetration-test.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
         content="Protect your website, web app, & e-commerce from any cyber attack. Logique Digital Indonesia provides penetration test, security assessment, vulnerability assessment service, to secure your confidential data against today's most advanced threats. Solve the risks now. Contact us.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

@@ -1,6 +1,5 @@
 ﻿<!DOCTYPE html>
 <html lang="ja">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,7 +12,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/portfolio.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
         content="LOGIQUEの制作実績を紹介します。ホームページ制作、Webシステム開発、モバイルアプリ開発、SNS運用やSEO、インターネット広告などデジタルマーケティング実施の実績紹介です。LOGIQUEはジャカルタのウェブ制作会社です。インドネシアでの制作開発プロジェクトのケーススタディーも幾つか紹介します。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">

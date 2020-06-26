@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/services.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
         content="LOGIQUE memberikan layanan jasa pembuatan website, web design, digital marketing, dan pembuatan serta pengembangan aplikasi untuk berbagai kebutuhan bisnis Anda. Kami siap membantu mengoptimalkan bisnis Anda!">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">

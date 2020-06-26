@@ -45,6 +45,13 @@ if(isset($_POST['submitted']))
          content="インドネシアのWebシステム開発会社LOGIQUEのモバイルアプリ開発サービスのご紹介。ネイティブアプリ開発、ハイブリッドアプリ、PWAの開発の豊富な実績があります。E-ラーニング、会員管理アプリ、e-コマースなどのモバイルアプリを開発してきました。インドネシアでお客様のニーズに沿ったモバイル・ソリューションの提供を行っていますのでお気軽に問い合わせください。">
      <meta name="keywords" content="">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
+     <meta property="og:title" content="Mobile App Developer | Android, Hybrid App, PWA Builder Jakarta | LOGIQUE DIGITAL INDONESIA">
+     <meta property="og:type" content="website">
+     <meta property="og:site_name" content="Logique">
+     <meta property="og:url" content="https://www.logique.co.id/jp/services/mobile-app-dev.php">
+     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+     <meta property="og:description"
+         content="LOGIQUE is the top mobile app developer in Jakarta, has been trusted to develop the highly responsive mobile app, Android and iOS, with native / hybrid app and PWA builder for enterprise clients. We develop apps, strategic plan, design, QA, user testing, etc. Contact us to create yours now">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <title>スマホアプリ開発｜モバイルアプリ開発・WebシステムのLOGIQUEデジタルインドネシア</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">

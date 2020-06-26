@@ -12,7 +12,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
-	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
 	<meta property="og:description" content="LOGIQUE Digital Indonesia assisted JBA Indonesia in automotive, motorcycle and car, auction system development and creation, also mobile app development with a very complex and latest technology of web. Learn the case study here.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">

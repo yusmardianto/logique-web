@@ -45,10 +45,12 @@ if(isset($_POST['submitted']))
         content="Have trouble hiring the right employee your company needs? LOGIQUE can help you create an effective recruitment web to ease you with online recruitment, with a built-in inquiry form, also easy-to-navigate and attractive design that appeal to all of your potential target candidates. Contact us to create yours now.">
     <meta name="keywords" content="website karir, karir perusahaan, jasa website karir, logique">
     <meta name="author" content="Logique Digital Indonesia">
+     <meta itemprop="name" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Recruitment Web Creation | Online Recruitment | LOGIQUE DIGITAL INDONESIA">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:url" content="https://www.logique.co.id/en/services/recruitment-web-dev.php">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
         content="Have trouble hiring the right employee your company needs? LOGIQUE can help you create an effective recruitment web to ease you with online recruitment, with a built-in inquiry form, also easy-to-navigate and attractive design that appeal to all of your potential target candidates. Contact us to create yours now.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

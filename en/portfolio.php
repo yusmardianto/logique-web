@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/portfolio.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
         content="LOGIQUE Digital Indonesia is frequently involved in numerous web development projects, ranging from designing web systems, mobile applications, digital marketing campaigns, and many other IT related ventures. Our work within the Digital and IT areas cover ASEAN countries; especially Indonesia and Japan. Click here to see our top achievements and clientele portfolio.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">

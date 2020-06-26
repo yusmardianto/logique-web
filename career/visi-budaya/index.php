@@ -14,7 +14,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
+  <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
     content="Mau kerja dengan lingkungan dan budaya kerja yang nyaman dengan jam masuk dan jam pulang yang fleksibel? LOGIQUE menawarkan budaya tersebut untuk Anda. Kami juga menawarkan kerja remote bagi seluruh karyawan kami. Segera kunjungi halaman karir LOGIQUE untuk info lowongan yang sedang dibuka sekarang">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
