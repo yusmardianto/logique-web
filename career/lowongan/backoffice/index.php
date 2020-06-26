@@ -14,7 +14,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
+  <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
     content="LOGIQUE membuka lowongan kerja sebagai HR / GA untuk membantu mengembangkan perusahaan menjadi lebih baik lagi. Jika Anda tertarik untuk bekerja sebagai HR / GA, silakan kunjungi halaman karir LOGIQUE dan daftarkan diri Anda sekarang juga!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

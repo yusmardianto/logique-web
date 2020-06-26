@@ -49,7 +49,7 @@ if(isset($_POST['submitted']))
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/contact.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/contact-us.png">
     <meta property="og:description"
         content="Grow and increase your business profit through digital with LOGIQUE Digital Indonesia, the top Web Developer / Design, Digital Maketing, & IT Consultant in Jakarta. Contact us to ask more about digital marketing in Indonesia and how we can help your business.Maximize and increase your business profits through digital growth with LOGIQUE Digital Indonesia, the top Web Development/Design, Digital Marketing and IT consultancy in Jakarta. Contact us to ask more about digital marketing in Indonesia, and how we can help grow your company.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">

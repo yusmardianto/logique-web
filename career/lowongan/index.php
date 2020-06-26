@@ -14,7 +14,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
+   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
     content="Sedang mencari lowongan kerja IT consultant dengan lingkungan kerja fleksibel dan nyaman di Indonesia? LOGIQUE bisa menjadi pilihan Anda. Kami mencari staff yang mempunyai keinginan untuk berkembang. Segera daftarkan diri Anda sekarang di halaman karir LOGIQUE sekarang juga!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -128,56 +128,13 @@
                 <div class="col-xs-12">
                   <h2 class="heading-black mb--40">Lowongan yang dibutuhkan segera</h2>
                 </div>
-                <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/programmer/web-developer.php">
-                    <div class="card-box card-box__urgent">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Web Developer">
-                        <h3 class="heading-black">Web Developer</h3>
-                        <p></p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta, Yogya
-                        </div>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/programmer/frontend-developer.php">
-                    <div class="card-box card-box__urgent">
-                      <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
-                          alt="Front End Developer">
-                        <h3 class="heading-black">Front End Developer</h3>
-                        <p></p>
-                      </div>
-                      <div class="card-box__footer">
-                        <div>
-                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
-                          Fulltime
-                        </div>
-                        <div>
-                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
-                          Jakarta, Yogya
-                        </div>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/specialist/quality-assurance.php">
+                 <div class="col-md-4 card--layout">
+                  <a href="/career/lowongan/specialist/lead-quality-assurance.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/quality.png"
                           alt="Quality Assurance">
-                        <h3 class="heading-black">Quality Assurance</h3>
+                        <h3 class="heading-black">Lead Quality Assurance</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -193,6 +150,50 @@
                     </div>
                   </a>
                 </div>
+                <div class="col-md-4 card--layout">
+                  <a href="/career/lowongan/specialist/devops.php">
+                    <div class="card-box card-box__urgent">
+                      <div class="card-box__body ">
+                        <img class="img-responsive card-icon" src="/img/career/icon/server.png" alt="DevOps">
+                        <h3 class="heading-black">DevOps</h3>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 card--layout">
+                   <a href="/career/lowongan/specialist/it-security-specialist.php">
+                    <div class="card-box card-box__urgent">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/password.png"
+                          alt="Security Specialist">
+                        <h3 class="heading-black">IT Security</h3>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                        <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+               
               </div>
             </div>
           </div>

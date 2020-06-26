@@ -46,7 +46,16 @@
      <meta name="keywords"
          content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
-     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
+     <meta itemprop="name" content="PT. Logique Digital Indonesia">
+
+     <meta property="og:title" content="Web System Development Service | LOGIQUE Digital Indonesia">
+     <meta property="og:type" content="website">
+     <meta property="og:site_name" content="Logique">
+     <meta property="og:url" content="https://www.logique.co.id/jp/services/system-dev.php">
+     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+     <meta property="og:description"
+         content="As one of the top leading web developers in Indonesia, LOGIQUE has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed. Learn more about our web system development service here.">
      <title>システム開発運用・アプリ開発 | LOGIQUE デジタルインドネシア</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/style.css" rel="stylesheet">

@@ -49,7 +49,7 @@ if(isset($_POST['submitted']))
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/produk/dokodemo-kerja.php">
-     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
      <meta property="og:description"
          content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan kerja remote. Aplikasi ini mampu monitor dan kalkulasi jam kerja karyawan secara akurat, dilengkapi feature screencapture otomatis. Dengan begitu, perusahaan Anda menjadi lebih produktif.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

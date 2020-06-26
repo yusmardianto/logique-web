@@ -50,7 +50,7 @@ if (isset($_POST['submitted'])) {
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-web-klinik-gigi.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description" content="LOGIQUE bisa membantu Anda dalam pembuatan website untuk bisnis klinik gigi dengan tampilan yang user friendly, unik dan modern. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
     <!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> -->
     <title>Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia</title>

@@ -15,7 +15,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://logique.co.id/en">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
     <meta property="og:description"
         content="LOGIQUE Digital Indonesia is the leading Web Development / Design, Digital Marketing and IT consultancy in Jakarta. With experience in growing local and international businesses all across ASEAN, specifically in Indonesia and Japan, the company has assisted many enterprises in creating high quality websites, systems and developments within the digital world.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">

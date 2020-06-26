@@ -15,7 +15,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
+  <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
     content="LOGIQUE memberikan kesempatan kepada Anda untuk berkarir sebagai IT Generalis, seperti Project Manager, Product Manager, dan Business Analyst. Jika Anda tertarik untuk berkarir atau mengembangkan karir Anda sebagai IT Generalist, segera kunjungi halaman karir LOGIQUE.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

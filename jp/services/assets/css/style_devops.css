@@ -1,7 +1,6 @@
 html,
 body {
   font-family: "M PLUS 1p", Lato, sans-serif !important;
-   font-family: Meiryo;
   background-color: #fff;
   overflow-x: hidden;
 }
@@ -34,7 +33,7 @@ header h1 {
   line-height: 22px;
 }
 header h1 span{
-  font-family: Raleway-Bold;
+ 
   font-size: 18px;
   font-weight: bold;
   color: #ffca00;
@@ -52,7 +51,7 @@ header h1 span{
 .new-box {
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.1);
   padding: 20px;
-  font-family: Meiryo-Bold;
+ 
   border-radius: 0 0 0 0;
   margin-bottom: 1em;
   height: 270px;
@@ -104,8 +103,7 @@ margin-bottom: 10px;
   padding-bottom: 85px;
   font-size: 16px;
 }
-.our-devops-works h2{
-  font-family: Meiryo-Bold;
+.our-devops-works h2{ 
   font-size: 24px;
   font-weight: bold;
   padding-bottom: 50px;
@@ -574,7 +572,7 @@ footer {
     height: auto;
   }
   header h1 {
-    font-family: Meiryo;
+
     font-size: 24px;
     height: 36px;
     letter-spacing: -0.35px;

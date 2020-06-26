@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/services.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
         content="LOGIQUE memberikan layanan jasa pembuatan website, web design, digital marketing, dan pembuatan serta pengembangan aplikasi untuk berbagai kebutuhan bisnis Anda. Kami siap membantu mengoptimalkan bisnis Anda!">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -26,6 +26,7 @@
     <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
 </head>
 
 <body>
@@ -707,8 +708,8 @@
                         </div>
                     </section>
                     <div class="text-center --back-top">
-                        <a href="portofolio.php#sysDev">
-                            <div class="main-btn --black">Portfolio</div>
+                        <a href="/layanan/pembuatan-sistem-web.php">
+                            <div class="main-btn --black">Pelajari Lebih Lanjut  Tentang Sistem Developer</div>
                         </a>
                         <a href="#serviceNavigation">
                             <div class="main-btn">Back to Top</div>

@@ -32,7 +32,6 @@ if(isset($_POST['submitted']))
         $msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
     }
 }
-
 ?>
 <!DOCTYPE html>
 <html lang="ja">
@@ -46,6 +45,14 @@ if(isset($_POST['submitted']))
     <meta name="keywords" content="">
     <meta name="author" content="Logique Digital Indonesia">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+     <meta itemprop="name" content="PT. Logique Digital Indonesia">
+      <meta property="og:title" content="Recruitment Web Creation | Online Recruitment | LOGIQUE DIGITAL INDONESIA">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Logique">
+    <meta property="og:url" content="https://www.logique.co.id/jp/services/recruitment-web-dev.php">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+    <meta property="og:description"
+        content="Have trouble hiring the right employee your company needs? LOGIQUE can help you create an effective recruitment web to ease you with online recruitment, with a built-in inquiry form, also easy-to-navigate and attractive design that appeal to all of your potential target candidates. Contact us to create yours now.">
     <title>求人ページ制作｜採用サイト｜インドネシアのWEB制作・システム開発会社LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">

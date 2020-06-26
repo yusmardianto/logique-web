@@ -11,7 +11,7 @@
 	<meta property="og:title" content="Harga Pembuatan Website | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
 	<meta property="og:description" content="LOGIQUE Digital Indonesia membuat dan mengembangkan website dan sistem web dengan kualitas tinggi, standar internasional, profesional, kecepatan, dan fleksibilitas terhadap segala macam perubahan yang Anda minta. Lihat harga pembuatan website dari LOGIQUE di sini.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 	<title>Harga Pembuatan Website | LOGIQUE Digital Indonesia</title>

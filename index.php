@@ -20,7 +20,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+  <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
   <meta property="og:description"
     content="LOGIQUE Digital Indonesia, perusahaan web developer yang menawarkan jasa pembuatan dan pengembangan website, aplikasi, digital marketing, dan penetration testing di Jakarta. Kembangkan dan tingkatkan keuntungan bisnis Anda di era digital dengan solusi terbaik dari kami. Lihat selengkapnya di sini.">
   <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">

@@ -767,8 +767,8 @@
                         </div>
                     </section>
                     <div class="text-center --back-top">
-                        <a href="portfolio.php#sysDev">
-                            <div class="main-btn --black">Portfolio</div>
+                        <a href="/en/services/system-dev.php">
+                            <div class="main-btn --black">See more detail about LOGIQUE's system dev service</div>
                         </a>
                         <a href="#serviceNavigation">
                             <div class="main-btn">Back to Top</div>

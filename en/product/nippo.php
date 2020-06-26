@@ -51,7 +51,7 @@ if(isset($_POST['submitted']))
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/en/product/nippo.php">
-     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
      <meta property="og:description"
          content="NIPPO, a daily report, evaluation, work time management system that provides you with quantity, quality, and contents of employees detailed works. Created by LOGIQUE Digital Indonesia to make monitoring and evaluating employee's daily works easier. Contact us to try now!">
 
