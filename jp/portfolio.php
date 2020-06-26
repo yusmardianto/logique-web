@@ -1131,6 +1131,18 @@
                                 </div>
                             </div>
 
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://sibad.id/id" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/sibad.jpg" alt="Siti Badriah"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Sibad.id</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    Web再構築（クラウド移行 | 再構築＆改善 | 決済機能構築）
+                                    <div class="grey-clr">有料会員, サブスクWeb, ファンクラブ運営, エンターテイメント</div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                     <!-- END HIDE WEB DEV PORTFOLIO -->

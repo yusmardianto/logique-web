@@ -801,6 +801,25 @@
                             <div class="sample-report__text text-center">Bypassing Unrestricted File Upload</div>
                         </a>
                     </div>
+                    <div class="clearfix"></div>
+                    <div class="col-sm-4" >
+                        <a href="assets/img/img-pentest/sample-report-bug-finding.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-bug-finding.jpg" class="img-responsive" alt="Table Bug of Finding" style="border: solid 1px">
+                            <div class="sample-report__text text-center">Table Bug of Finding</div>
+                        </a>
+                    </div>
+                    <div class="col-sm-4">
+                        <a href="assets/img/img-pentest/sample-report-local-storage.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-local-storage.jpg" class="img-responsive" alt="Unencrypted Local Storage">
+                            <div class="sample-report__text text-center">Unencrypted Local Storage</div>
+                        </a>
+                    </div>
+                    <div class="col-sm-4">
+                        <a href="assets/img/img-pentest/sample-report-telnet.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-telnet.jpg" class="img-responsive" alt="Telnet Service Externally Available">
+                            <div class="sample-report__text text-center">Telnet Service Externally Available</div>
+                        </a>
+                    </div>
                 </div>
             </div>
         </section>
