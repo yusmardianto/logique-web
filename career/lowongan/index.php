@@ -142,10 +142,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                        <!-- <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -163,10 +163,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                        <!-- <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -185,10 +185,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                     <!--    <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -249,10 +249,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                       <!--  <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta, Yogya
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -271,10 +271,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                        <!-- <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta, Yogya
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -293,10 +293,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                       <!--  <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta, Yogya
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -318,10 +318,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                        <!-- <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta, Yogya
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -340,10 +340,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                        <!-- <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta, Yogya
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -362,10 +362,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                        <!-- <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta, Yogya
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -397,10 +397,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                        <!-- <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -419,10 +419,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                       <!--  <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -440,10 +440,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                        <!-- <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -499,10 +499,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                        <!-- <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -520,10 +520,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                       <!--  <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -542,10 +542,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                        <!-- <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -577,10 +577,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                        <!-- <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta, Yogya
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -599,10 +599,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                        <!-- <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -760,10 +760,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                       <!--  <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
@@ -782,10 +782,10 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <div>
+                      <!--   <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </a>
