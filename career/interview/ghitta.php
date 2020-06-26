@@ -14,7 +14,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
+   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
     content="Ingin mengetahui seputar pedoman HR / GA yang ada di LOGIQUE? Ghitta menyampaikan pesan dan kriteria staff HR / GA yang diinginkan. Segera kunjungi halaman karir LOGIQUE sekarang dan daftarkan diri Anda.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

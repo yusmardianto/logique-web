@@ -14,7 +14,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
+  <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
     content="Kami membuat pedoman HR agar lingkungan kerja di LOGIQUE menjadi fleksibel dan nyaman bagi seluruh staff. Kami juga memberikan Anda beberapa benefit untuk kesejahteraan hidup Anda dan keluarga. Segera daftarkan diri Anda di halaman karir LOGIQUE sekarang juga.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

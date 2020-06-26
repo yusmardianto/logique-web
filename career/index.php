@@ -14,7 +14,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
+  <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
     content="Anda sedang mencari informasi lowongan kerja di bidang IT, seperti Programmer, Web Designer, Project Manager, Digital Marketing, dan lain-lain? Segera kunjungi halaman karir LOGIQUE sekarang. Kami membuka lowongan kerja dan memberikan kesempatan berkarir kepada Anda untuk bergabung bersama kami. ">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

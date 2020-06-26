@@ -1,6 +1,5 @@
 ﻿<!DOCTYPE html>
 <html lang="ja">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,7 +12,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/services.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
         content="LOGIQUEは、WEBサイト・ホームページ制作、CMSやEC、会員管理システムなどの開発運用、Digitalマーケティング、アプリ開発、SNS運用、インターネットビジネスコンサルティングなどをインドネシアで提供しています。クライアントの新規事業をデジタル・IT面で幅広くご支援しています。お気軽に日本語でご連絡ください。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
@@ -675,8 +674,8 @@
                         </div>
                     </section>
                     <div class="text-center --back-top">
-                        <a href="portfolio.php#sysDev">
-                            <div class="main-btn --black">Portfolio</div>
+                        <a href="/jp/services/system-dev.php">
+                            <div class="main-btn --black">システム開発サービスの詳細をみる</div>
                         </a>
                         <a href="#serviceNavigation">
                             <div class="main-btn">Back to Top</div>

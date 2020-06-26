@@ -8,6 +8,12 @@
 	<meta name="description" content="Logique provides SEO maintenance service to help your web reach top position in search engine. Our team provides Analytics report, SEO consultation, Search Console Service, Web Maintenance, and Content Writing. We help your business grow by implement white hat SEO strategies">
 	<meta name="keywords" content="logique, seo maintenance, search rank report, analytic report, SEO consultation, search console service, web maintenance, content writing, creative content, seo service provider, seo service jakarta, seo service indonesia, digital marketing, website marketing, white hat marketing, whitehat, white hat SEO, brand recognition, multilanguage content, website portfolio, SEO strategy">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
+	<meta itemprop="name" content="PT. Logique Digital Indonesia">
+	<meta property="og:title" content="Logique Digital Marketing - SEO Service Page">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+	<meta property="og:description" content="Logique provides SEO maintenance service to help your web reach top position in search engine. Our team provides Analytics report, SEO consultation, Search Console Service, Web Maintenance, and Content Writing. We help your business grow by implement white hat SEO strategies">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 	<title>Logique Digital Marketing - SEO Service Page</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">

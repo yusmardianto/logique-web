@@ -14,7 +14,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
     content="Ingin pengalaman bekerja di sebuah PMA dengan startup culture yang dipimpin oleh sosok yang kompeten dan people oriented? PT Logique Digital Indonesia merupakan peluang karir yang tepat untuk anda. Simak interview eksklusif dari CEO Logique, Yoshi-san.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

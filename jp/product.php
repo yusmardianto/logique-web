@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="ja">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,7 +12,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/product.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
     <meta property="og:description"
         content="インドネシアの人事管理事情に沿ったクラウドプロダクトの提供をしています。リモートワークを許容しながら生産性を向上することが可能なテレワークマネジメントツール、日報を通じて人事評価を行うことが可能なツール、オフラインのインタビューをできる限り少なくしてプロセスをスピードアップすることが可能な採用管理ツールの展開を行っています。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
