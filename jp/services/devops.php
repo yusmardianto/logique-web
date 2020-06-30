@@ -45,6 +45,13 @@ if(isset($_POST['submitted']))
     <meta name="description" content="インドネシアのお客様にAWS、GCP、Alibabaクラウド環境を構築運用サービスを提供しています。クラウドサーバーへの移行、新規システムの開発、運用代行、請求代行などお気軽にご相談ください。LOGIQUE Digital Indonesia">
     <meta name="keywords" content=" ">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
+       <meta property="og:title" content="クラウドサーバー構築運用 | DevOps | ジャカルタのシステム開発会社LOGIQUEデジタルインドネシア">
+     <meta property="og:type" content="website">
+     <meta itemprop="name" content="PT. Logique Digital Indonesia">
+     <meta property="og:site_name" content="Logique">
+     <meta property="og:url" content="https://www.logique.co.id/jp/services/devops.php">
+     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+     <meta property="og:description" content="インドネシアのお客様にAWS、GCP、Alibabaクラウド環境を構築運用サービスを提供しています。クラウドサーバーへの移行、新規システムの開発、運用代行、請求代行などお気軽にご相談ください。LOGIQUE Digital Indonesia">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>クラウドサーバー構築運用 | DevOps | ジャカルタのシステム開発会社LOGIQUEデジタルインドネシア</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">

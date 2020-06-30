@@ -12,7 +12,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/case-study/opuspark/">
-	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
 	<meta property="og:description" content="LOGIQUE Digital Indonesia helped Opus Park in creating and implementing the right online marketing strategy to reach goals as they wanted across various platforms. It included targeted social media marketing, search and display network ads, also SEO for the website. Learn the case study here.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">

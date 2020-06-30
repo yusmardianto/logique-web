@@ -47,6 +47,14 @@ if(isset($_POST['submitted']))
     <meta name="keywords" content="効果のある、コンバージョンのでる、意味のある、WEBサイトを予算内で、素早く、効率的に、先進テクノロジーを用い、セキュアに、作ります">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+     <meta itemprop="name" content="PT. Logique Digital Indonesia">
+     <meta property="og:title" content="Web Development Service | LOGIQUE Digital Indonesia">
+     <meta property="og:type" content="website">
+     <meta property="og:site_name" content="Logique">
+     <meta property="og:url" content="https://www.logique.co.id/jp/services/web-dev.php">
+     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+     <meta property="og:description"
+         content="As one of the best website developers in Indonesia, LOGIQUE Digital Indonesia has their own mechanism in providing clients with the best web development service. Here are simple explanations of each step that we take to create a website.">
     <title>Web制作サービス詳細 | ジャカルタのWeb制作会社LOGIQUEデジタルインドネシア</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">

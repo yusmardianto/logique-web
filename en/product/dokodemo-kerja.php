@@ -52,7 +52,7 @@ if(isset($_POST['submitted']))
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/en/product/dokodemo-kerja.php">
-     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
      <meta property="og:description"
          content="Dokodemo-Kerja, a remote work / tele-work management system to improve your company's productivity with flexible working hours. Created by LOGIQUE Digital Indonesia to help managers and HR monitor employees work hours and project progress. Contact us for a free trial!">
 

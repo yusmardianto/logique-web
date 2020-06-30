@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="id">
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,7 +13,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
+  <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
     content="Anda sedang mencari informasi lowongan kerja di bidang IT, seperti Programmer, Web Designer, Project Manager, Digital Marketing, dan lain-lain? Segera kunjungi halaman karir LOGIQUE sekarang. Kami membuka lowongan kerja dan memberikan kesempatan berkarir kepada Anda untuk bergabung bersama kami. ">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -147,17 +146,17 @@
                   <div class="urgent-box">
                     <h2 class="section-title">Dibutuhkan Segera!</h2>
                     <div class="urgent-need">
-                      <a href="/career/lowongan/digitalmarketing/ui-ux-designer.php" class="urgent-need__item">
-                        <img class="urgent-need__img" src="/img/career/icon/ux.png" alt="UI/UX Designer">
-                        <div class="urgent-need__text">UI/UX Designer</div>
+                      <a href="/career/lowongan/specialist/lead-quality-assurance.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/quality.png" alt="Quality Assurance">
+                        <div class="urgent-need__text">Lead Quality Assurance</div>
                       </a>
-                      <a href="/career/lowongan/digitalmarketing/digital-marketing-specialist.php" class="urgent-need__item">
-                        <img class="urgent-need__img" src="/img/career/icon/dm.png" alt="Digital Marketing">
-                        <div class="urgent-need__text">Digital Marketing</div>
+                      <a href="/career/lowongan/specialist/devops.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/server.png" alt="DevOps">
+                        <div class="urgent-need__text">DevOps</div>
                       </a>
-                      <a href="/career/lowongan/programmer/frontend-developer.php" class="urgent-need__item">
-                        <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Front End Developer">
-                        <div class="urgent-need__text">Front End Developer</div>
+                      <a href="/career/lowongan/specialist/it-security-specialist.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/password.png" alt="Security Specialist">
+                        <div class="urgent-need__text">IT Security</div>
                       </a>
                     </div>
                     <a href="/career/lowongan/" style="padding-top: 10px; padding-bottom: 10px; font-size: 20px; position: relative;"

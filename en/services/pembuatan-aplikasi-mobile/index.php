@@ -46,7 +46,7 @@ if(isset($_POST['submitted']))
   <meta property="og:title" content="Mobile App Developer | Native / Hybrid App, PWA Builder Jakarta | LOGIQUE DIGITAL INDONESIA">
   <meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+  <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
   <meta property="og:description" content="LOGIQUE is the top mobile app developer in Jakarta, has been trusted to develop the highly responsive mobile app, Android and iOS, with native / hybrid app and PWA builder for enterprise clients. We develop apps, strategic plan, design, QA, user testing, etc. Contact us to create yours now.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Mobile App Developer | Native / Hybrid App, PWA Builder Jakarta | LOGIQUE DIGITAL INDONESIA</title>

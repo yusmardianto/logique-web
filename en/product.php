@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/product.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
     <meta property="og:description"
         content="LOGIQUE aims to provide you with various digital products to improve your business productivity. HR Cloud tools, daily report and evaluation tools, as well as recruitment and managements systems for HR. Try our products now! We ensure your work will be much easier and more efficient!">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">

@@ -14,7 +14,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
-  <meta property="og:image" content="https://www.logique.co.id/img/og-image-update.png">
+   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
     content="Staff terbaik kami di divisi Frontend Developer memberikan pesan untuk para kandidat yang ingin melamar sebagai Frontend Developer di LOGIQUE terkait kemampuan apa saja yang dicari oleh kami sehingga dapat terus berkembang bersama kami. Segera kunjungi website karir LOGIQUE sekarang juga!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
