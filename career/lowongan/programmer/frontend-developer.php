@@ -148,90 +148,49 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
+                <p>Front End Developer bertanggung jawab untuk mengimplementasikan elemen visual yang dilihat agak bisa berinteraksi dengan pengguna dalam aplikasi web. Secara umum, mereka didukung oleh Back End Developer dan Designer, yang bertanggung jawab atas logika aplikasi sisi system dan di integrasikan dalam bentuk visual.</p>
+              </div>
+              <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
-                  <li>
-                    Memanfaatkan HTML, CSS, Javascript, atau bahasa pemrograman terkait tampilan lainnya untuk
-                    mengembangkan antarmuka pengguna yang efektif pada website dan aplikasi.
-                  </li>
-                  <li>
-                    Bekerja sama dan berkolaborasi dengan tim developer dan desainer untuk membuat, memperbarui, atau
-                    memperbaiki UI/UX website dan aplikasi.
-                  </li>
-                  <li>
-                    Memberikan kualitas hasil terbaik dan tepat waktu sesuai dengan teknologi UI/UX terkini dan/atau
-                    yang sesuai dengan kebutuhan proyek.
-                  </li>
-                  <li>
-                    Memastikan kompatibilitas browser atau ukuran layar pada halaman-halaman website dan aplikasi yang
-                    dihasilkan.
-                  </li>
-                  <li>
-                    Membuat kode yang terstruktur dan dapat digunakan kembali untuk kemudahan pengembangan atau
-                    perubahan di masa depan.
-                  </li>
-                  <li>
-                    Memonitor dan mengoptimalkan performa website atau aplikasi dari sisi front-end.
-                  </li>
-                  <li>
-                    Berkomunikasi langsung dengan klien terkait UI/UX jika diperlukan.
-                  </li>
+                  <li>Melakukan konversi dari desain ke HTML & CSS / ReactJs</li>
+                  <li>Melakukan integrasi RESTful API</li>
+                  <li>Bekerja sama dan berkolborasi dengan tim Back-End dan Desainer</li>
+                  <li>Berkomunikasi dengan penanggung jawab proyek terkait pekerjaan yang diberikan</li>
+                  <li>Mengoptimalkan performa dan skalabilitas pada website / aplikasi</li>
+                  <li>Membuat kode / library yang berkualitas dan dapat digunakan kembali</li>
+                  <li>Melakukan pengetesan pada antar muka yang dibuat untuk menjamin kualitas</li>
+                  <li>Memastikan antar muka yang dibuat mendukung lintas browser & mobile friendly</li>
+                  <li>Mengikuti perkembangan teknologi Front-End terbaru</li>
+                  <li>Mengikuti kursus / bootcamp untuk meningkatkan kemampuan</li>
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">Persyaratan</h3>
+                <h3 class="section-title">Must Have Skill/Experience</h3>
                 <ul class="career-list">
-                  <li>
-                    Berpendidikan minimal D3 dan berpengalaman minimal 2 tahun di bidang IT atau programmer.
-                  </li>
-                  <li>
-                    Berpengalaman dalam pembuatan WEB/Sistem.
-                  </li>
-                  <li>
-                    Pengalaman dalam coding PSD ke HTML-CSS.
-                  </li>
-                  <li>
-                    Mampu membuat responsive website.
-                  </li>
-                  <li>
-                    Mengenal proses pengembangan website dengan baik.
-                  </li>
-                  <li>
-                    Dapat belajar secara cepat dan mandiri.
-                  </li>
-                  <li>
-                    Mampu bekerja dengan tim antar divisi.
-                  </li>
-                  <li>
-                    Mampu beradaptasi dengan cepat dalam penggunaan teknologi baru
-                  </li>
-                  <li>
-                    Memahami basic bahasa pemrograman PHP.
-                  </li>
-                  <li>
-                    HTML 5
-                  </li>
-                  <li>
-                    CSS 3 ( Bootstrap, Foundation, Material UI )
-                  </li>
-                  <li>
-                    JavaScript ( JQuery)
-                  </li>
+                  <li>Minimal 2 tahun pengalaman</li>
+                  <li>Mahir menggunakan HTML, CSS, JavaScript & JQuery</li>
+                  <li>Berpengalaman menggunakan CSS Preprocessors seperti SASS, LESS</li>
+                  <li>Berpengalaman menggunakan CSS Framework seperti Bootstrap, Foundation, Material UI</li>
+                  <li>Berpengalaman menggunakan aplikasi desain seperti Adobe Photoshop / Sketch</li>
+                  <li>Berpengalaman menggunakan JavaScript Framework seperti ReactJS</li>
+                  <li>Berpengalaman menggunakan Front End Development Tools seperti Babel, Webpack, NPM / Yarn atau sejenisnya.</li>
+                  <li>Berpengalaman menggunakan version control system seperti GIT</li>
+                  <li>Mahir menggunakan Browser Development Tools</li>
+                  <li>Mahir dalam pengembangan website lintas browser & mobile friendly</li>
+                  <li>Memahami prinsip dasar SEO</li>
+                  <li>Memahami dasar bahasa pemograman PHP</li>
+                  <li>Mampu bekerja secara mandiri maupun dalam sebuah tim</li>
+                  <li>Memiliki kemampuan komunikasi yang baik</li>
                 </ul>
               </div>
 
               <div class="career-requirement">
                 <h3 class="section-title">Preferable</h3>
                 <ul class="career-list">
-                  <li>
-                    Additional Skill: React JS, Ionic, Angular, Node JS.
-                  </li>
-                  <li>
-                    Mempunyai minat yang besar terhadap bisnis Internet dan Web.
-                  </li>
-                  <li>
-                    Memahami pembuatan template wordpress.
-                  </li>
+                  <li>Berpengalaman sebagai Front End Developer dalam suatu project dengan menggunakan react JS framework</li>
+                  <li>Berpengalaman untuk mengkonversi desain ke Wordpress dalam sebuah project</li>
+                  <li>Berpengalaman sebagai Front End Developer dalam suatu project dengan menggunakan Node JS framework</li>
                 </ul>
               </div>
             </div>
@@ -239,59 +198,56 @@
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
-                  <li>
-                    Menambah pengetahuan dan pengalaman tentang technology baru dalam front end development.
-                  </li>
-                  <li>
-                    Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya).
-                  </li>
+                  <li>Menambah pengalaman dan juga tantangan dari berbagai project terkait system yang akan menambah pengetahuan baru terhadap perkembangan system front end.</li>
+                  <li>Gaji dan bonus yang sesuai dengan hasil, kontribusi, kemampuan, dan pengalaman Anda.</li>
                 </ul>
               </div>
-              <!-- <div class="career-requirement">
-                <h3 class="section-title">How a Front End Developer in LOGIQUE works usually</h3>
-                <h4 class="section-subtitle">Front End Developer</h4>
+              <div class="career-requirement">
+                <h3 class="section-title">How a Front End Developer in LOGIQUE Works Usually</h3>
+                <!-- <h4 class="section-subtitle">Front End Developer</h4> -->
                 <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">10:00 – 10:10</div>
-                    <div class="work-schedule__text">Daily Scrum Meeting</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">10:10 – 10:30</div>
-                    <div class="work-schedule__text">Check Trello, Git and Slack, and confirm “to do” today</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">10:30 – 12:00</div>
-                    <div class="work-schedule__text">Programming for product A</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">12:00 – 13:30</div>
-                    <div class="work-schedule__text">Istirahat makan siang</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">13:30 – 15:00</div>
-                    <div class="work-schedule__text">Internal meeting dengan product manager mengenai product Logique , laporan progress, membuat target yang baru</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">15:00 – 16:00</div>
-                    <div class="work-schedule__text">Programming / DevOps untuk product logique</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">16:00</div>
-                    <div class="work-schedule__text">Pulang</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">19:00 – 21:00</div>
-                    <div class="work-schedule__text">Continue Programming for product A
-                    </div>
+                    <div class="work-schedule__time">09:00 – 09:30</div>
+                    <div class="work-schedule__text">Mulai dokodemo, cek email, trello, slack, untuk memulai pekerjaan atau memberikan tanggapan untuk hari ini.</div>
                   </div>
                 </div>
-              </div> -->
+                <div class="work-schedule">
+                  <div class="work-schedule__item">
+                    <div class="work-schedule__time">09:31 – 12:00</div>
+                    <div class="work-schedule__text">Melakukan diskusi dengan PIC proyek maupun tim lainnya terkait pekerjaan baru atau melanjutkan pekerjaan.</div>
+                  </div>
+                </div>
+                <div class="work-schedule">
+                  <div class="work-schedule__item">
+                    <div class="work-schedule__time">12:00 – 13:00</div>
+                    <div class="work-schedule__text">Istirahat</div>
+                  </div>
+                </div>
+                <div class="work-schedule">
+                  <div class="work-schedule__item">
+                    <div class="work-schedule__time">13:01 – 16:00</div>
+                    <div class="work-schedule__text">Melanjutkan pekerjaan dan berkolaborasi dengan tim terkait jika diperlukan.</div>
+                  </div>
+                </div>
+                <div class="work-schedule">
+                  <div class="work-schedule__item">
+                    <div class="work-schedule__time">16:00 – 17:00</div>
+                    <div class="work-schedule__text">Memberikan informasi terkait status pekerjaan terakhir kepada PIC proyek, Melakukan pengecekan terhadap pekerjaan yang telah dilakukan untuk memastikan tidak ada masalah maupun kekurangan lainnya.</div>
+                  </div>
+                </div>
+                <div class="work-schedule">
+                  <div class="work-schedule__item">
+                    <div class="work-schedule__time">17:01 – 18:00</div>
+                    <div class="work-schedule__text">Mempelajari kemampuan Front-End terbaru atau mengikuti kursus online yang diberikan, membuat laporan pekerjaan harian yang dikerjaan selama 1 hari penuh.</div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </section>
 
-      <!-- <section class="container-fluid bg--salary">
+      <section class="container-fluid bg--salary --mb-2em">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -302,15 +258,15 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
-                        <span class="salary-range__salary">〜 100 juta IDR / Year</span>
+                        <span class="salary-range__salary">5.000.000 - 7.000.000 IDR</span>
                       </div>
-                      <h5 class="section-title">Product <br>Developer:</h5>
+                      <h5 class="section-title">Front End Developer</h5>
                     </div>
-                    <ul class="salary-range__list">
+                    <!-- <ul class="salary-range__list">
                       <li>Can program / code at least one programming language (PHP or JavaScript)</li>
                       <li>Can code by following the coding guide without many bugs</li>
                       <li>Can read programming source that others coded and update them</li>
-                    </ul>
+                    </ul> -->
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-12">
@@ -318,16 +274,16 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <span class="salary-range__salary">100 〜 200 juta IDR / Year</span>
+                        <span class="salary-range__salary">7.000.000 - 10.000.000 IDR</span>
                       </div>
-                      <h5 class="section-title">Product <br>Developer:</h5>
+                      <h5 class="section-title">Front End Developer</h5>
                     </div>
-                    <ul class="salary-range__list">
+                    <!-- <ul class="salary-range__list">
                       <li>Can program / code or know some programming languages (at least both PHP and JavaScript)                        
                       </li>
                       <li>Can catch up new technology and new things quickly</li>
                       <li>Can deal with Database well, and should have infrastructure knowledge somehow</li>
-                    </ul>
+                    </ul> -->
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-12">
@@ -335,22 +291,22 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <span class="salary-range__salary">200 juta IDR 〜 / Year</span>
+                        <span class="salary-range__salary">10.000.000 IDR ~</span>
                       </div>
-                      <h5 class="section-title">Product <br>Manager:</h5>
+                      <h5 class="section-title">Front End Developer</h5>
                     </div>
-                    <ul class="salary-range__list">
+                    <!-- <ul class="salary-range__list">
                       <li>Have a system architect and design knowledge and good at DevOps</li>
                       <li>Good coding knowledge and can lead other developers</li>
                       <li>Have a high ability of solving a problem and Code fast</li>
-                    </ul>
+                    </ul> -->
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section> -->
+      </section>
 
       <section class="container-fluid bg--career-apply --mb-2em">
         <div class="container--max-width">
