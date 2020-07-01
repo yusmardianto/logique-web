@@ -106,7 +106,7 @@
   }
   </style>
   <?//php include './popup.php'; ?>
-  <div class="wrapper wrapper--update-design o-wrapper top-only">
+  <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">
     <!-- NAVIGATION -->
     <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
       data-toggle="collapse" data-target="#myNavbar">
@@ -116,7 +116,7 @@
     </button>
     <div class="collapse navbar-collapse" id="myNavbar">
       <div class="backdrop-test"></div>
-      <div class="logique-nav">
+      <div class="logique-nav logique-nav--update">
         <div class="margin-for-nav">
           <div class="text-center active">
             <a href="#">
@@ -179,9 +179,9 @@
             <div class="col-sm-offset-1 col-sm-11">
               <div class="container">
                 <ul class="list-inline">
-                  <li><a href="en/index.php">EN</a></li>
-                  <li class="active"><a href="#">ID</a></li>
-                  <li><a href="jp/index.php">JP</a></li>
+                  <li><a href="en/index.php">ENG</a></li>
+                  <li class="active"><a href="#">INA</a></li>
+                  <li><a href="jp/index.php">JPN</a></li>
                 </ul>
                 <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
                     class="img-responsive logo--update-design" /></a>
@@ -258,54 +258,56 @@
 
       <div class="bg-white-opacity"></div>
 
-      <div id="bgImg" style="height: auto; margin-left: auto; margin-right: auto">
-        <div class="img">
+      <div id="bgImg" style="height: auto; margin-left: auto; margin-right: auto; overflow: visible">
+        <div class="img homepage-hero">
           <div class="title-container hidden-sm">
             <div class="container__">
               <div class="row">
-                <div class="col-md-6">
-                  <h1 class="title-index">Pengembang Sistem Web Terbaik di Jakarta, Menyediakan Solusi
+                <div class="col-md-12 text-center">
+                  <h1 class="title-index" style="margin-top: 100px;">Pengembang Sistem Web Terbaik di Jakarta, Menyediakan Solusi
                     Digital
                     untuk Bisnis Anda</h1>
-                  <hr class="title__yellow-line">
-                  <p><b>LOGIQUE DIGITAL INDONESIA</b> adalah Developer Web Application / Aplikasi Mobile
+                  <!-- <hr class="title__yellow-line--center"> -->
+                  <p><strong>LOGIQUE DIGITAL INDONESIA</strong> adalah Developer Web Application / Aplikasi Mobile
                     profesional yang memiliki spesialisasi dalam pembuatan dan perancangan WebApp, dengan penekanan
                     pada Pemasaran Digital (Digital Marketing), untuk meningkatkan dan memaksimalkan
-                    keuntungan bisnis Anda. <br><br>
+                    keuntungan bisnis Anda. <br>
                     Kami telah bekerja dengan banyak perusahaan internasional maupun lokal ternama, memenuhi
                     berbagai permintaan, seperti pembuatan sistem lelang online, E-commerce, sistem rekrutmen
                     karyawan, e-money, berbagai aplikasi internal perusahaan, dan pengoperasian iklan digital.</p>
                 </div>
-                <div class="col-md-6">
-                  <div class="row">
-                    <div class="col-xs-6">
-                      <a href="/layanan/web-dev.php" class="div-service-cat">
-                        <img src="img/top/i-top1.png" alt="Jasa Pembuatan Website"
-                          class="center-block img-responsive" />
-                        <h2>Jasa Pembuatan <br />Website</h2>
-                      </a>
-                    </div>
-                    <div class="col-xs-6">
-                      <a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
-                        <img src="img/top/i-top2.png" alt="Jasa Pembuatan Aplikasi"
-                          class="center-block img-responsive" />
-                        <h2>Jasa Pembuatan <br />Aplikasi</h2>
-                      </a>
-                    </div>
-                    <div class="col-xs-6">
-                      <a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
-                        <img src="img/top/i-top3.png" alt="Jasa Pembuatan Sistem Web"
-                          class="center-block img-responsive" />
-                        <h2>Jasa Pembuatan<br />Sistem Web</h2>
-                      </a>
-                    </div>
-                    <div class="col-xs-6">
-                      <a href="/layanan/penetration-test.php" class="div-service-cat">
-                        <img src="img/top/i-top4.png" alt="Jasa Penetration Testing"
-                          class="center-block img-responsive" />
-                        <h2>Jasa Penetration<br />Testing</h2>
-                      </a>
-                    </div>
+                <div class="row homepage-hero__card">
+                  <div class="col-md-3 col-xs-6">
+                    <a href="/layanan/web-dev.php" class="div-service-cat">
+                      <img src="img/top/i-top1.svg" alt="Jasa Pembuatan Website"
+                        class="img-responsive" />
+                      <h2>Jasa Pembuatan <br />Website</h2>
+                      <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </a>
+                  </div>
+                  <div class="col-md-3 col-xs-6">
+                    <a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
+                      <img src="img/top/i-top2.svg" alt="Jasa Pembuatan Aplikasi"
+                        class="img-responsive" />
+                      <h2>Jasa Pembuatan <br />Aplikasi</h2>
+                      <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </a>
+                  </div>
+                  <div class="col-md-3 col-xs-6">
+                    <a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
+                      <img src="img/top/i-top3.svg" alt="Jasa Pembuatan Sistem Web"
+                        class="img-responsive" />
+                      <h2>Jasa Pembuatan<br />Sistem Web</h2>
+                      <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </a>
+                  </div>
+                  <div class="col-md-3 col-xs-6">
+                    <a href="/layanan/penetration-test.php" class="div-service-cat">
+                      <img src="img/top/i-top4.svg" alt="Jasa Penetration Testing"
+                        class="img-responsive" />
+                      <h2>Jasa Penetration<br />Testing</h2>
+                      <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </a>
                   </div>
                 </div>
               </div>
@@ -314,10 +316,21 @@
         </div>
       </div>
 
-      <section class="bg--white">
+      <section class="portfolio bg--white" style="padding-top: 145px;">
         <div class="container__">
+          <h3 class="section-title">Portofolio Kami</h3>
           <div class="row">
-            <div class="col-sm-12">
+            <div class="col-md-6">
+              <p><strong>LOGIQUE DIGITAL INDONESIA</strong> adalah Developer Web Application / Aplikasi Mobile profesional yang memiliki spesialisasi dalam pembuatan dan perancangan WebApp, dengan penekanan pada Pemasaran Digital (Digital Marketing), untuk meningkatkan dan memaksimalkan keuntungan bisnis Anda. 
+                <br><br>
+              Kami telah bekerja dengan banyak perusahaan internasional maupun lokal ternama, memenuhi berbagai permintaan, seperti pembuatan sistem lelang online, E-commerce, sistem rekrutmen karyawan, e-money, berbagai aplikasi internal perusahaan, dan pengoperasian iklan digital.</p>
+              <a href="#"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+            </div>
+            <div class="col-md-6">
+              <img src="/img/our-portfolio.png" class="img-responsive" alt="">
+            </div>
+
+            <!-- <div class="col-sm-12">
               <img class="portofolio__illus" src="/img/our-portofolio.png" alt="portfolio">
               <div class="custombox__portfolio">
                 <h1 class="title-index">Portofolio Kami</h1>
@@ -332,14 +345,59 @@
                 Anda di era digital dengan solusi terbaik yang kami berikan. <br>
                 <a href="portofolio.php" class="custombox__btn">See more</a>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </section>
 
-      <section class="bg--white">
+      <section class="solution bg--white">
         <div class="container__">
-          <div class="row">
+          <h3 class="section-title">Kami Menyediakan <b>Solusi HR-Tech</b> di Indonesia</h3>
+          <p><strong>LOGIQUE</strong> berkomitmen untuk berkontribusi pada industri TI di Indonesia (SI, pengembangan sistem Web, pemasaran digital, dll.). Kami telah mengembangkan tiga sistem internal untuk membantu meningkatkan produktivitas dan efisiensi karyawan, serta untuk menyederhanakan proses rekrutmen dan memudahkan evaluasi kandidat. Kami telah mengaplikasikan produk-produk ini di perusahaan kami sendiri, hasilnya terjadi peningkatan yang sangat nyata dan drastis sehingga kami memutuskan untuk menjual produk-produk ini</p>
+
+          <div class="flex__row">
+            <div class="col-md-6 row__item">
+              <div class="item__img">
+                <img src="/img/top/i-dokodemo.svg" alt="">
+              </div>
+              <div class="item__text">
+                <h4>Dokodemo Kerja</h4>
+                <p><strong>LOGIQUE</strong> menawarkan kepada Anda sebuah sistem web untuk bekerja remote bernama Dokodemo-Kerja. Sistem ini mampu memonitor dan mengkalkulasi jam kerja karyawan secara akurat.</p>
+                <a href="#"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+              </div>
+            </div>
+            <div class="col-md-6 row__item">
+              <div class="item__img">
+                <img src="/img/top/i-hiring-site-update.png" alt="">
+              </div>
+              <div class="item__text">
+                <h4>Custom Hiring Site</h4>
+                <p>Situs web rekrutmen Anda sendiri dapat menjadi kunci untuk membuat recruitment efektif dan efisien! Kami menawarkan pembuatan web/software yang dapat membantu HRD untuk menghubungkan perusahaan dan kandidat.</p>
+                <a href="#"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+              </div>
+            </div>
+            <div class="col-md-6 row__item">
+              <div class="item__img">
+                <img src="/img/top/i-nippo-update.png" alt="">
+              </div>
+              <div class="item__text">
+                <h4>Nippo</h4>
+                <p><strong>LOGIQUE</strong> menawarkan sistem manajemen pelaporan harian untuk karyawan yang bernama Nippo. Sistem ini memberikan solusi bagi perusahaan, dimana perusahaan dapat dengan mudah melakukan monitoring, penilaian, dan evaluasi kinerja karyawan setiap bulan.</p>
+                <a href="#"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+              </div>
+            </div>
+            <div class="col-md-6 row__item">
+              <div class="item__img">
+                <img src="/img/top/i-nippo-update.png" alt="">
+              </div>
+              <div class="item__text">
+                <h4>Sugoi Saiyo</h4>
+                <p>Sugoi Saiyo adalah sebuah sistem manajemen yang dapat membantu aktivitas rekrutmen menjadi lebih efektif dan efisien bagi tim HRD atau para pencari kerja. Sistem ini akan menentukan kapan dan dimana proses interview akan dilaksanakan.</p>
+                <a href="#"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+              </div>
+            </div>
+          </div>
+          <!-- <div class="row">
             <div class="col-sm-12">
               <h1 class="title-index--light">
                 Kami Menyediakan <span class="title-index--bold">Solusi HR-Tech</span> di Indonesia</h1>
@@ -413,13 +471,58 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
       </section>
 
-      <section class="bg--white">
+      <section class="case-study bg--white">
         <div class="container__">
-          <div class="row">
+          <h3 class="section-title">Studi Kasus</h3>
+          <p>Selama lebih dari 7 tahun, <strong>LOGIQUE</strong> telah membantu berbagai klien ternama, dari startup lokal sampai dengan perusahaan internasional untuk mengembangkan Website, Sistem, Web App dan Aplikasi Mobile.</p>
+
+          <div class="flex__row">
+            <div class="col-md-6 row__item">
+              <img src="/img/case-study-1.png" class="img-responsive" alt="">
+              <a href="#">
+                <div class="item__hover">
+                  <img src="/img/logo-jba.jpg" alt="">
+                  <h4>JBA Indonesia Auction System</h4>
+                  <p>JBA Indonesia merupakan salah satu perusahaan asing yang bergerak di bidang lelang dengan skala besar dan berkantor pusat di Jepang.</p>
+                  <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                </div>
+              </a>
+            </div>
+            <div class="col-md-6 row__item">
+              <img src="/img/case-study-1.png" class="img-responsive" alt="">
+              <a href="#">
+                <div class="item__hover">
+                  <img src="/img/logo-jba.jpg" alt="">
+                  <h4>JBA Indonesia Auction System</h4>
+                  <p>JBA Indonesia merupakan salah satu perusahaan asing yang bergerak di bidang lelang dengan skala besar dan berkantor pusat di Jepang.</p>
+                  <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="flex__row">
+            <div class="col-md-4">
+              <img src="/img/case-study-3.png" class="img-responsive" alt="">
+            </div>
+            <div class="col-md-4">
+              <img src="/img/case-study-4.png" class="img-responsive" alt="">
+            </div>
+            <div class="col-md-4">
+              <img src="/img/case-study-5.png" class="img-responsive" alt="">
+            </div>
+          </div>
+
+          <p><strong>LOGIQUE</strong> berkomitmen untuk memberikan solusi terbaik untuk klien-klien kami; berdasarkan pengalaman kami dalam e-commerce, sistem management pelelangan mobil/motor, pengembangan CRM, aplikasi e-learning, PWA, sistem rekrutmen dan lainnya.</p>
+
+
+
+
+          <!-- <div class="row">
             <div class="col-sm-12 text-center">
               <h1 class="title-index">STUDI KASUS</h1>
               <hr class="title__yellow-line--center">
@@ -448,11 +551,32 @@
                 dalam e-commerce, sistem management pelelangan mobil/motor, pengembangan CRM, aplikasi e-learning,
                 PWA, dan sistem rekrutmen, dll.</p>
             </div>
+          </div> -->
+        </div>
+      </section>
+
+      <section class="see-list bg--white">
+        <div class="container__">
+          <div class="flex__row">
+            <div class="col-md-6 row__item">
+              <a href="#" class="item item--service">
+                <img src="/img/service.png" alt="">
+                <h3>See Service List</h3>
+                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+              </a>
+            </div>
+            <div class="col-md-6 row__item">
+              <a href="#" class="item item--product">
+                <img src="/img/product.png" alt="">
+                <h3>See Product List</h3>
+                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+              </a>
+            </div>
           </div>
         </div>
       </section>
 
-      <section class="bg--white">
+      <!-- <section class="bg--white">
         <div class="container__">
           <div class="row">
             <div class="col-md-offset-1 col-sm-offset-2 col-md-5 col-sm-8">
@@ -475,7 +599,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
     </div>
 
