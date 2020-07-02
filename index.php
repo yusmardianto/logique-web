@@ -485,9 +485,9 @@
               <img src="/img/case-study-1.png" class="img-responsive" alt="">
               <a href="#">
                 <div class="item__hover">
-                  <img src="/img/logo-jba.jpg" alt="">
-                  <h4>JBA Indonesia Auction System</h4>
-                  <p>JBA Indonesia merupakan salah satu perusahaan asing yang bergerak di bidang lelang dengan skala besar dan berkantor pusat di Jepang.</p>
+                  <img src="/img/top/i-caroline-update.png" alt="">
+                  <h4>Situs Jual Beli dengan Sistem Penawaran Online</h4>
+                  <p>Caroline merupakan bagian dari PT Triputra Group yang bergerak di berbagai industri seperti agribisnis, manufaktur, dan pertambangan..</p>
                   <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                 </div>
               </a>
@@ -496,7 +496,7 @@
               <img src="/img/case-study-1.png" class="img-responsive" alt="">
               <a href="#">
                 <div class="item__hover">
-                  <img src="/img/logo-jba.jpg" alt="">
+                  <img src="/img/top/i-jba-update.png" alt="">
                   <h4>JBA Indonesia Auction System</h4>
                   <p>JBA Indonesia merupakan salah satu perusahaan asing yang bergerak di bidang lelang dengan skala besar dan berkantor pusat di Jepang.</p>
                   <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
@@ -506,14 +506,41 @@
           </div>
 
           <div class="flex__row">
-            <div class="col-md-4">
+            <div class="col-md-4 row__item --sm">
               <img src="/img/case-study-3.png" class="img-responsive" alt="">
+              <a href="#">
+                <div class="item__hover">
+                  <img src="/img/top/i-opus-park.png" alt="">
+                  <div>
+                    <h4>Opus Park Sentul</h4>
+                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                  </div>
+                </div>
+              </a>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 row__item --sm">
               <img src="/img/case-study-4.png" class="img-responsive" alt="">
+              <a href="#">
+                <div class="item__hover">
+                  <img src="/img/top/i-zuttoride-update.png" alt="">
+                  <div>
+                    <h4>Zutto Ride Indonesia</h4>
+                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                  </div>
+                </div>
+              </a>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 row__item --sm">
               <img src="/img/case-study-5.png" class="img-responsive" alt="">
+              <a href="#">
+                <div class="item__hover">
+                  <img src="/img/top/i-vipplaza-update.png" alt="">
+                  <div>
+                    <h4>VIP Plaza</h4>
+                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                  </div>
+                </div>
+              </a>
             </div>
           </div>
 
