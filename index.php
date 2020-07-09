@@ -179,9 +179,9 @@
             <div class="col-sm-offset-1 col-sm-11">
               <div class="container">
                 <ul class="list-inline">
-                  <li><a href="en/index.php">ENG</a></li>
-                  <li class="active"><a href="#">IND</a></li>
-                  <li><a href="jp/index.php">JPN</a></li>
+                  <li><a href="en/index.php">EN</a></li>
+                  <li class="active"><a href="#">ID</a></li>
+                  <li><a href="jp/index.php">JP</a></li>
                 </ul>
                 <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
                     class="img-responsive logo--update-design" /></a>
