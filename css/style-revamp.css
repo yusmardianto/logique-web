@@ -773,13 +773,15 @@ b {
 }
 
 .case-study .row__item > a > .item__hover > img:first-child {
-  width: 150px;
-  height: 90px;
+  max-width: 160px;
+  height: 40px;
   object-fit: contain;
   object-position: left bottom;
 }
 
-.case-study .row__item.--sm > a > .item__hover > img:first-child {
+.case-study .row__item.--sm > a > .item__hover > img:first-child {  
+  width: 150px;
+  height: 90px;
   object-position: center;
 }
 
@@ -914,8 +916,8 @@ b {
 .footer-update {
   background-color: #212425;
   color: #fff;
-  padding-top: 70px;
-  padding-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 0;
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
 }
@@ -994,9 +996,6 @@ b {
 }
 
 @media (max-width: 991.98px) {
-  .footer-update {
-    padding-top: 30px;
-  }
   .footer-update p {
     line-height: 22px;
   }
