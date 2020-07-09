@@ -564,74 +564,33 @@
 
 /* sidebar */
 .logique-nav.logique-nav--update {
-  border-radius: 30px;
-  height: calc(100% - 11px);
-  top: 5px;
-  left: 5px;
-  width: 85px;
-  /* overflow: hidden; */
+  width: 90px;
 }
 
 .logique-nav.logique-nav--update .margin-for-nav {
-  margin-top: 15px;
-  margin-bottom: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
-
-/* .logique-nav.logique-nav--update:hover {  
-  overflow-y:auto; 
-  overflow-x:hidden;
-  padding-right: 0;
-}
-
-.logique-nav.logique-nav--update::-webkit-scrollbar {
-  width: 4px;
-}
-.logique-nav.logique-nav--update::-webkit-scrollbar-thumb {
-  background: #000;
-  border-radius: 20px; 
-}
-.logique-nav.logique-nav--update::-webkit-scrollbar-track {
-  background: transparent; 
-}
-
-.logique-nav.logique-nav--update::-webkit-scrollbar-track-piece:end {
-  background: transparent;
-  margin-bottom: 25px; 
-}
-
-.logique-nav.logique-nav--update::-webkit-scrollbar-track-piece:start {
-  background: transparent;
-  margin-top: 25px;
-} */
 
 .logique-nav.logique-nav--update .margin-for-nav > div {
   background-color: transparent;
   /* transition: background-position .6s; */
-  padding-top: 7px;
-  padding-bottom: 19px;
+  padding-top: 10px;
+  padding-left: 20px;
   line-height: 0;
+  height: 80px;
 }
 
 .logique-nav.logique-nav--update .margin-for-nav > div.active {
   background-image: url('/img/sidebar/hover.png');
   background-size: 100%;
-  background-position: 2px center;
+  background-position: 3px center;
   background-repeat: no-repeat;
 }
 
 .logique-nav.logique-nav--update .margin-for-nav > div > a > div {
   margin-bottom: -5px;
 }
-
-/* .logique-nav.logique-nav--update:hover .margin-for-nav > div {
-  margin-right: -4px;
-} */
-
-
-/* .logique-nav.logique-nav--update .margin-for-nav > div.active,
-.logique-nav.logique-nav--update .margin-for-nav > div:hover {
-  background-position-x: 0;
-} */
 
 .logique-nav.logique-nav--update .margin-for-nav > div > a > div {
   transition: all .8s;
