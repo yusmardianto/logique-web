@@ -918,8 +918,11 @@ b {
   color: #fff;
   padding-top: 20px;
   padding-bottom: 0;
-  font-family: 'Montserrat', sans-serif;
   font-weight: 300;
+}
+
+.footer-update * {  
+  font-family: 'Montserrat', sans-serif;
 }
 
 .footer-update .mr-4 {
