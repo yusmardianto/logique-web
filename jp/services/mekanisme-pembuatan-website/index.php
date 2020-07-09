@@ -74,7 +74,7 @@ if(isset($_POST['submitted']))
 				</button>
 				<div class="collapse navbar-collapse" id="myNavbar">
 				<div class="backdrop-test"></div>
-					<div class="logique-nav in-jp">
+					<div class="logique-nav logique-nav--update in-jp">
 						<div class="margin-for-nav">
 							<div class="text-center active">
 								<a href="/jp/">

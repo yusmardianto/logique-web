@@ -116,7 +116,7 @@
     </button>
     <div class="collapse navbar-collapse" id="myNavbar">
       <div class="backdrop-test"></div>
-      <div class="logique-nav logique-nav--update">
+      <div class="logique-nav logique-nav--update logique-nav--update">
         <div class="margin-for-nav">
           <div class="text-center active">
             <a href="#">
