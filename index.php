@@ -263,15 +263,15 @@
             <div class="container__">
               <div class="row">
                 <div class="col-md-12 text-center">
-                  <h1 class="title-index" style="margin-top: 100px;">Pengembang Sistem Web Terbaik di Jakarta, Menyediakan Solusi Digital
+                  <h1 class="title-index" style="margin-top: 100px;">Pengembang Sistem Web Terbaik di Jakarta, <br>Menyediakan Solusi Digital
                     untuk Bisnis Anda</h1>
                   <p><strong>LOGIQUE DIGITAL INDONESIA</strong> adalah Developer Web Application / Aplikasi Mobile
-                    profesional yang memiliki spesialisasi dalam pembuatan dan perancangan WebApp, dengan penekanan
-                    pada Pemasaran Digital (Digital Marketing), untuk meningkatkan dan memaksimalkan
-                    keuntungan bisnis Anda. <br>
-                    Kami telah bekerja dengan banyak perusahaan internasional maupun lokal ternama, memenuhi
-                    berbagai permintaan, seperti pembuatan sistem lelang online, E-commerce, sistem rekrutmen
-                    karyawan, e-money, berbagai aplikasi internal perusahaan, dan pengoperasian iklan digital.</p>
+                    profesional yang memiliki <br> spesialisasi dalam pembuatan dan perancangan WebApp, dengan penekanan
+                    pada Pemasaran Digital  <br>(Digital Marketing), untuk meningkatkan dan memaksimalkan
+                    keuntungan bisnis Anda. 
+                    Kami telah bekerja <br>dengan banyak perusahaan internasional maupun lokal ternama,  memenuhi
+                    berbagai permintaan, <br>seperti pembuatan sistem lelang online, E-commerce,sistem rekrutmen
+                    karyawan, e-money, <br>berbagai aplikasi internal perusahaan, dan pengoperasian iklan digital.</p>
                 </div>
                 <div class="row homepage-hero__card">
                   <div class="col-md-3 col-xs-6">
