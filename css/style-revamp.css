@@ -148,14 +148,12 @@
 .web-solution__img {
   max-width: 35px;
   max-height: 40px;
-  /* margin: 2px 60px 2px 0px; */
   margin-right: 45px;
 }
 
 .workflow {
   display: flex;
   flex-wrap: wrap;
-  /* justify-content: center; */
   margin: 35px 0 30px;
 }
 
@@ -412,7 +410,6 @@
 
 .google-badge.--inpage {
   top: 48px;
-  /* left: 50%; */
   left: 320px;
 }
 
@@ -548,12 +545,6 @@
   .workflow__img {
     max-width: 80px;
   }
-  /* .workflow__item {
-    padding-bottom: 0;
-  }
-  .workflow__item:last-child {
-    background-size: 70% 50%;
-  } */
   .client-list__img {
     width: 100px;
     height: 35px;

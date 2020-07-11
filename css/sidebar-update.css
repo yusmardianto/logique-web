@@ -1,7 +1,10 @@
+.margin-for-nav {
+    margin: 25px 0;
+}
+
 .logique-nav.logique-nav--update {
     width: 90px;
-}
-  
+}  
 
 .logique-nav.logique-nav--update .margin-for-nav {
     margin-top: 30px;
