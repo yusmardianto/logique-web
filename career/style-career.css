@@ -1,3 +1,4 @@
+@import url('../css/style-revamp.css');
 @import url("https://fonts.googleapis.com/css?family=Raleway:300,400,500,700,800,900&display=swap'");
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap');
 html,
@@ -254,27 +255,14 @@ button:focus {
   padding: 5px 10px;
   line-height: normal;
 }
-.logique-nav .text-center.active,
-.logique-nav .text-center.active:focus,
-.logique-nav .text-center.active:hover {
-  background: #212425;
-}
-.logique-nav .text-center:focus,
-.logique-nav .text-center:hover {
-  background: #666;
-}
-.logique-nav .text-center:focus a,
-.logique-nav .text-center:hover a {
-  color: #fff;
-}
 .logique-nav a {
+  font-family: 'Novocento Sans Wide Medium' !important;
   color: #000;
-  font-size: 12px;
-}
-.logique-nav .text-center.active a,
-.logique-nav .text-center.active:focus a,
-.logique-nav .text-center.active:hover a {
-  color: #fff;
+  font-size: 10px;
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: -.5px;
+  font-weight: 600 !important;
 }
 .margin-for-nav {
   margin: 25px 0;
@@ -333,72 +321,117 @@ button:focus {
   height: 44px;
   width: 44px;
 }
+.logique-nav.logique-nav--update .margin-for-nav > div > a > div {
+  transition: all .8s;
+}
+.logique-nav.logique-nav--update .margin-for-nav > div.active {
+  background-image: url('/img/sidebar/hover.png');
+  background-size: 100%;
+  background-position: 3px center;
+  background-repeat: no-repeat;
+}
 .img-home {
   margin: auto;
-  background: url(/img/nav-img.png) -2px -4px no-repeat;
+  background: url('/img/sidebar/home.svg') center/28px no-repeat;
 }
+
+.logique-nav .text-center.active .img-home,
+.logique-nav .text-center.active:focus .img-home,
+.logique-nav .text-center.active:hover .img-home,
 .logique-nav .text-center:focus .img-home,
 .logique-nav .text-center:hover .img-home {
-  background: url(/img/nav-img-white.png) -2px -4px no-repeat;
+  background: url('/img/sidebar/home-active.svg') center/28px no-repeat;
 }
+
 .img-about {
   margin: auto;
-  background: url(/img/nav-img.png) -2px -62px no-repeat;
+  background: url('/img/sidebar/about.svg') center/28px no-repeat;
 }
+
+.logique-nav .text-center.active .img-about,
+.logique-nav .text-center.active:focus .img-about,
+.logique-nav .text-center.active:hover .img-about,
 .logique-nav .text-center:focus .img-about,
 .logique-nav .text-center:hover .img-about {
-  background: url(/img/nav-img-white.png) -2px -62px no-repeat;
+  background: url('/img/sidebar/about-active.svg') center/28px no-repeat;
 }
+
 .img-portfolio {
   margin: auto;
-  background: url(/img/nav-img.png) -2px -123px no-repeat;
+  background: url('/img/sidebar/portfolio.svg') center/28px no-repeat;
 }
+
+.logique-nav .text-center.active .img-portfolio,
+.logique-nav .text-center.active:focus .img-portfolio,
+.logique-nav .text-center.active:hover .img-portfolio,
 .logique-nav .text-center:focus .img-portfolio,
 .logique-nav .text-center:hover .img-portfolio {
-  background: url(/img/nav-img-white.png) -2px -123px no-repeat;
+  background: url('/img/sidebar/portfolio-active.svg') center/28px no-repeat;
 }
+
 .img-services {
   margin: auto;
-  background: url(/img/nav-img.png) -2px -184px no-repeat;
+  background: url('/img/sidebar/service.svg') center/28px no-repeat;
 }
+
+.logique-nav .text-center.active .img-services,
+.logique-nav .text-center.active:focus .img-services,
+.logique-nav .text-center.active:hover .img-services,
 .logique-nav .text-center:focus .img-services,
 .logique-nav .text-center:hover .img-services {
-  background: url(/img/nav-img-white.png) -2px -184px no-repeat;
+  background: url('/img/sidebar/service-active.svg') center/28px no-repeat;
 }
 .img-product {
   margin: auto;
-  background: url(/img/nav-img.png) -2px -440px no-repeat;
+  background: url('/img/sidebar/product.svg') center/28px no-repeat;
+
 }
+
+.logique-nav .text-center.active .img-product,
+.logique-nav .text-center.active:focus .img-product,
+.logique-nav .text-center.active:hover .img-product,
 .logique-nav .text-center:focus .img-product,
-.logique-nav .text-center:hover .img-product {
-  background: url(/img/nav-img-white.png) -2px -440px no-repeat;
+.logique-nav .text-center:hover .img-product {  
+  background: url('/img/sidebar/product-active.svg') center/28px no-repeat;
 }
+
 .img-career {
   margin: auto;
-  background: url(/img/nav-img.png) -2px -245px no-repeat;
+  background: url('/img/sidebar/career.svg') center/28px no-repeat;
 }
+
 .logique-nav .text-center.active .img-career,
 .logique-nav .text-center.active:focus .img-career,
 .logique-nav .text-center.active:hover .img-career,
 .logique-nav .text-center:focus .img-career,
 .logique-nav .text-center:hover .img-career {
-  background: url(/img/nav-img-white.png) -2px -245px no-repeat;
+  background: url('/img/sidebar/career-active.svg') center/28px no-repeat;
 }
+
 .img-contact {
   margin: auto;
-  background: url(/img/nav-img.png) -2px -308px no-repeat;
+  background: url('/img/sidebar/contact.svg') center/28px no-repeat;
 }
+
+.logique-nav .text-center.active .img-contact,
+.logique-nav .text-center.active:focus .img-contact,
+.logique-nav .text-center.active:hover .img-contact,
 .logique-nav .text-center:focus .img-contact,
 .logique-nav .text-center:hover .img-contact {
-  background: url(/img/nav-img-white.png) -2px -308px no-repeat;
+  background: url('/img/sidebar/contact-active.svg') center/28px no-repeat;
 }
+
 .img-blog {
   margin: auto;
-  background: url(/img/nav-img.png) -2px -374px no-repeat;
+  background: url('/img/sidebar/blog.svg') center/28px no-repeat;
 }
+
+.logique-nav .text-center.active .img-blog,
+.logique-nav .text-center.active:focus .img-blog,
+.logique-nav .text-center.active:hover .img-blog,
 .logique-nav .text-center:focus .img-blog,
 .logique-nav .text-center:hover .img-blog {
-  background: url(/img/nav-img-white.png) -2px -374px no-repeat;
+  background: url('/img/sidebar/blog-active.svg') center/28px no-repeat;
 }
 
 .logo--update-design {
@@ -731,7 +764,7 @@ footer {
   overflow: hidden;
 }
 .content-wrapper__ {
-  margin-left: 95px;
+  margin-left: 90px;
 }
 @media (max-width: 767px) {
   .content-wrapper__ {

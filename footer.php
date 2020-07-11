@@ -111,48 +111,49 @@ footer {
                                     </ul>                            
                                 </div>
                             </div>
+
+                            <ul class="footer__social">
+                                <a target="_blank" rel="noreferrer" aria-label="Facebook" href="https://www.facebook.com/logique.id/"><li><i class="fa fa-facebook-f"></i></li></a>
+                                <a target="_blank" rel="noreferrer" aria-label="Instagram" href="https://twitter.com/LogiqueDigital"><li><i class="fa fa-twitter"></i></li></a>
+                                <a target="_blank" rel="noreferrer" aria-label="LinkedIn" href="https://www.linkedin.com/company/13420656"><li><i class="fa fa-linkedin"></i></li></a>
+                                <a target="_blank" rel="noreferrer" aria-label="Instagram" href="https://www.instagram.com/logiquedigital/"><li><i class="fa fa-instagram"></i></li></a>
+                            </ul>
+
+                            <div itemscope itemtype="https://schema.org/CreativeWork">
+                                <p>&copy; <span itemprop="copyrightYear"><?= date('Y') ?></span> <spanitemprop="copyrightHolder" itemtype="https://schema.org/Organization"><span class="font-weight-bold text-uppercase">Logique Digital Indonesia</span>. All Rights Reserved.</span></p>   
+                            </div>
+
+                            <br />
+
+                            <div class="provacy-policy-container">
+                                <a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
+                            </div>
+
+                            <br />
+
                         </div>
-
-                        <ul class="footer__social">
-                            <a target="_blank" rel="noreferrer" aria-label="Facebook" href="https://www.facebook.com/logique.id/"><li><i class="fa fa-facebook-f"></i></li></a>
-                            <a target="_blank" rel="noreferrer" aria-label="Instagram" href="https://twitter.com/LogiqueDigital"><li><i class="fa fa-twitter"></i></li></a>
-                            <a target="_blank" rel="noreferrer" aria-label="LinkedIn" href="https://www.linkedin.com/company/13420656"><li><i class="fa fa-linkedin"></i></li></a>
-                            <a target="_blank" rel="noreferrer" aria-label="Instagram" href="https://www.instagram.com/logiquedigital/"><li><i class="fa fa-instagram"></i></li></a>
-                        </ul>
-
-                        <div itemscope itemtype="https://schema.org/CreativeWork">
-                            <p>&copy; <span itemprop="copyrightYear"><?= date('Y') ?></span> <spanitemprop="copyrightHolder" itemtype="https://schema.org/Organization"><span class="font-weight-bold text-uppercase">Logique Digital Indonesia</span>. All Rights Reserved.</span></p>   
-                        </div>
-
-                        <br />
-
-                        <div class="provacy-policy-container">
-                            <a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
-                        </div>
-
-                        <br />
                     </div>
                     <div class="col-md-7">
                         <div class="row">
                             <div class="col-sm-6">
                                 <h4>Layanan</h4>
                                 <ul>
-                                    <li><a target="_blank" href="https://www.logique.co.id/en/services/web-dev.php">Website Production Service</a></li>
-                                    <li><a target="_blank" href="https://www.logique.co.id/en/services/system-dev.php">Web System Development Service</a></li>
-                                    <li><a target="_blank" href="https://www.logique.co.id/en/services/mobile-app-dev.php">Pengembangan Aplikasi Mobile</a></li>
-                                    <li><a target="_blank" href="https://www.logique.co.id/en/services/penetration-test.php">Penetration Testing Service</a></li>
-                                    <li><a target="_blank" href="https://www.logique.co.id/en/services/digital-marketing/seo-service.php">Digital Marketing / SEO</a></li>
+                                    <li><a target="_blank" href="/layanan/web-dev.php">Jasa Pembuatan Website</a></li>
+                                    <li><a target="_blank" href="/layanan/pembuatan-sistem-web.php">Jasa Pengembangan Sistem Web</a></li>
+                                    <li><a target="_blank" href="/layanan/pembuatan-aplikasi-mobile.php">Pengembangan Aplikasi Mobile</a></li>
+                                    <li><a target="_blank" href="/layanan/penetration-test.php">Pengetesan Keamanan Website (Pentest)</a></li>
+                                    <li><a target="_blank" href="/layanan/digital-marketing/jasa-seo.php">Jasa SEO</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-6">
                                 <h4>Produk</h4>
                                 <ul>
-                                    <li><a target="_blank" href="https://dokodemo-kerja.com">Dokodemo Kerja <br>
-                                    (Sistem Aplikasi Kerja Remote)</a></li>
-                                    <li><a target="_blank" href="/">Nippo <br>
-                                    (Sistem Aplikasi Laporan Pegawai)</a></li>
-                                    <li><a target="_blank" href="https://www.logique.co.id/en/product/sugoi-saiyo.php">Sugoi Saiyo <br>
-                                    (Sistem Aplikasi Perekrutan Pegawai)</a></li>
+                                    <li><a target="_blank" href="https://dokodemo-kerja.com/ind/">Dokodemo Kerja <br>
+                                    <span style="font-size: 12px;">(Sistem Aplikasi Kerja Remote)</span></a></li>
+                                    <li><a target="_blank" href="/produk/nippo.php">Nippo <br>
+                                    <span style="font-size: 12px;">(Sistem Aplikasi Laporan Pegawai)</span></a></li>
+                                    <li><a target="_blank" href="/produk/sugoi-saiyo.php">Sugoi Saiyo <br>
+                                    <span style="font-size: 12px;">(Sistem Aplikasi Perekrutan Pegawai)</span></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -162,8 +163,8 @@ footer {
         </div>
     </div>
 </footer>
-<section class="tahap-pemesanan-2 text-center hidden-sm hidden-md hidden-lg" style="padding: 2em">&copy; <span
-        class="copyrightYear"></span> Logique Digital Indonesia. All Rights Reserved.</section>
+<!-- <section class="tahap-pemesanan-2 text-center hidden-sm hidden-md hidden-lg" style="padding: 2em">&copy; <span
+        class="copyrightYear"></span> Logique Digital Indonesia. All Rights Reserved.</section> -->
 <script src="/js/jquery-3.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/slick.min.js"></script>

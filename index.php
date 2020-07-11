@@ -198,10 +198,10 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="title-container">
-                <div class="text-center" style="background: none;">                  
-                  <h1 class="title-index" style="margin-top: 50px;">Pengembang Sistem Web Terbaik di Jakarta, Menyediakan Solusi Digital
+                <div style="background: none;">                  
+                  <h1 class="title-index text-center" style="margin-top: 50px;">Pengembang Sistem Web Terbaik di Jakarta, Menyediakan Solusi Digital
                     untuk Bisnis Anda</h1>
-                  <p><strong>LOGIQUE DIGITAL INDONESIA</strong> adalah Developer Web Application / Aplikasi Mobile
+                  <p class="text-center"><strong>LOGIQUE DIGITAL INDONESIA</strong> adalah Developer Web Application / Aplikasi Mobile
                     profesional yang memiliki spesialisasi dalam pembuatan dan perancangan WebApp, dengan penekanan
                     pada Pemasaran Digital (Digital Marketing), untuk meningkatkan dan memaksimalkan
                     keuntungan bisnis Anda. <br>
@@ -262,7 +262,7 @@
           <div class="title-container hidden-sm">
             <div class="container__">
               <div class="row">
-                <div class="col-md-12 text-center">
+                <div class="col-md-offset-1 col-md-10 text-center">
                   <h1 class="title-index" style="margin-top: 100px;">Pengembang Sistem Web Terbaik di Jakarta, <br>Menyediakan Solusi Digital
                     untuk Bisnis Anda</h1>
                   <p><strong>LOGIQUE DIGITAL INDONESIA</strong> adalah Developer Web Application / Aplikasi Mobile
@@ -273,39 +273,39 @@
                     berbagai permintaan, <br>seperti pembuatan sistem lelang online, E-commerce,sistem rekrutmen
                     karyawan, e-money, <br>berbagai aplikasi internal perusahaan, dan pengoperasian iklan digital.</p>
                 </div>
-                <div class="row homepage-hero__card">
-                  <div class="col-md-3 col-xs-6">
-                    <a href="/layanan/web-dev.php" class="div-service-cat">
-                      <img src="img/top/i-top1.svg" alt="Jasa Pembuatan Website"
-                        class="img-responsive" />
-                      <h2>Jasa Pembuatan <br />Website</h2>
-                      <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                    </a>
-                  </div>
-                  <div class="col-md-3 col-xs-6">
-                    <a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
-                      <img src="img/top/i-top2.svg" alt="Jasa Pembuatan Aplikasi"
-                        class="img-responsive" />
-                      <h2>Jasa Pembuatan <br />Aplikasi</h2>
-                      <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                    </a>
-                  </div>
-                  <div class="col-md-3 col-xs-6">
-                    <a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
-                      <img src="img/top/i-top3.svg" alt="Jasa Pembuatan Sistem Web"
-                        class="img-responsive" />
-                      <h2>Jasa Pembuatan<br />Sistem Web</h2>
-                      <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                    </a>
-                  </div>
-                  <div class="col-md-3 col-xs-6">
-                    <a href="/layanan/penetration-test.php" class="div-service-cat">
-                      <img src="img/top/i-top4.svg" alt="Jasa Penetration Testing"
-                        class="img-responsive" />
-                      <h2>Jasa Penetration<br />Testing</h2>
-                      <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                    </a>
-                  </div>
+              </div>
+              <div class="row homepage-hero__card">
+                <div class="col-md-3 col-xs-6">
+                  <a href="/layanan/web-dev.php" class="div-service-cat">
+                    <img src="img/top/i-top1.svg" alt="Jasa Pembuatan Website"
+                      class="img-responsive" />
+                    <h2>Jasa Pembuatan <br />Website</h2>
+                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                  </a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                  <a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
+                    <img src="img/top/i-top2.svg" alt="Jasa Pembuatan Aplikasi"
+                      class="img-responsive" />
+                    <h2>Jasa Pembuatan <br />Aplikasi</h2>
+                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                  </a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                  <a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
+                    <img src="img/top/i-top3.svg" alt="Jasa Pembuatan Sistem Web"
+                      class="img-responsive" />
+                    <h2>Jasa Pembuatan<br />Sistem Web</h2>
+                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                  </a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                  <a href="/layanan/penetration-test.php" class="div-service-cat">
+                    <img src="img/top/i-top4.svg" alt="Jasa Penetration Testing"
+                      class="img-responsive" />
+                    <h2>Jasa Penetration<br />Testing</h2>
+                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                  </a>
                 </div>
               </div>
             </div>

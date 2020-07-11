@@ -14,8 +14,6 @@
   font-style: normal;
 }
 
-
-
 .our-service__btn-wrapper {
   display: flex;
   justify-content: center;
@@ -597,8 +595,8 @@
 }
 /* end sidebar */
 
-[class*='update-design'].wrapper--update-design-font,
-[class*='update-design'].wrapper--update-design-font * {
+[class*='update-design'].wrapper--update-design-font:not(.--jp),
+[class*='update-design'].wrapper--update-design-font:not(.--jp) * {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
 }
@@ -883,6 +881,7 @@ b {
 /* hero card */
 
 .homepage-hero__card .div-service-cat {
+  min-height: 215px;
   background-color: #fff;
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.1)
 }
@@ -908,6 +907,12 @@ b {
   .homepage-hero__card > div > .div-service-cat {
     height: 100%;
     margin: 0;
+  }
+}
+
+@media (max-width: 320px) {
+  .homepage-hero__card > div {
+    width: 100%;
   }
 }
 /* end hero card */

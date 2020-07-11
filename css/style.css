@@ -1,6 +1,6 @@
 ﻿@charset "UTF-8";
 
-@import url('../css/style-revamp.css');
+@import url('/css/style-revamp.css');
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap');
 @font-face {
     font-family: 'Bebas';
@@ -100,10 +100,10 @@ section.maintop {
     background: #212425
 } */
 
-.logique-nav .text-center:focus,
+/* .logique-nav .text-center:focus,
 .logique-nav .text-center:hover {
     background: #666
-}
+} */
 
 /* .logique-nav .text-center:focus a,
 .logique-nav .text-center:hover a {
@@ -485,8 +485,8 @@ section.maintop {
     width: 50px;
     border-radius: 30px;
     border: none;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
     background-color: #eee;
     margin-right: 10px;
     font-size: 16px;
@@ -1511,10 +1511,6 @@ left: -70px;
 }
 
 .logique-nav.in-jp{
-    line-height: normal;
-}
-.logique-nav.in-jp a {
-    font-size: 12px;
     line-height: normal;
 }
 
