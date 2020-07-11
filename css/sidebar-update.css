@@ -1,3 +1,36 @@
+.logique-nav.logique-nav--update {
+    width: 90px;
+}
+  
+
+.logique-nav.logique-nav--update .margin-for-nav {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.logique-nav.logique-nav--update .margin-for-nav > div {
+    background-color: transparent;
+    padding-top: 10px;
+    padding-left: 20px;
+    line-height: 0;
+    height: 80px;
+}
+
+.logique-nav.logique-nav--update .margin-for-nav > div.active {
+    background-image: url('/img/sidebar/hover.png');
+    background-size: 100%;
+    background-position: 3px center;
+    background-repeat: no-repeat;
+}
+
+.logique-nav.logique-nav--update .margin-for-nav > div > a > div {
+    margin-bottom: -5px;
+}
+
+.logique-nav.logique-nav--update .margin-for-nav > div > a > div {
+    transition: all .8s;
+}
+
 .logique-nav a {
     font-family: 'Novocento Sans Wide Medium' !important;
     color: #000;
