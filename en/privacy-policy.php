@@ -14,7 +14,9 @@
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/privacy-policy.png">
     <meta property="og:description" content="LOGIQUE Digital Indonesia respects the privacy of its customers and the visitors and users of this website. We pay close attention to how Personal Information is used and shared, to maintain a long term service. Here’s our Privacy Policy.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-      <title>Privacy Policy | Web Developer Jakarta | LOGIQUE Digital Indonesia</title>
+      
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Privacy Policy | Web Developer Jakarta | LOGIQUE Digital Indonesia</title>
 
       <!-- Bootstrap -->
       <link href="../css/bootstrap.min.css" rel="stylesheet">

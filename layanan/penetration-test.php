@@ -18,6 +18,8 @@
     <meta property="og:description"
         content="LOGIQUE dapat membantu meningkatkan sistem keamanan website dan aplikasi menggunakan metode penetration testing. Segera hubungi LOGIQUE untuk mendapatkan layanan security assessment terbaik di Indonesia.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Penetration Test | Keamanan website | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="../css/style.css" rel="stylesheet">

@@ -14,6 +14,8 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
 	<meta property="og:description" content="Protect your website, web app, & e-commerce from any cyber attack. LOGIQUE provides web security, penetration test, vulnerability assessment service, to secure your confidential data against today's most advanced threats. Solve the risks now. Contact us.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Web Security | Penetration Test | Vulnerability Assessment | LOGIQUE DIGITAL INDONESIA</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">

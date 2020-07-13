@@ -18,7 +18,9 @@
   <meta property="og:description"
     content="Kami membuat pedoman HR agar lingkungan kerja di LOGIQUE menjadi fleksibel dan nyaman bagi seluruh staff. Kami juga memberikan Anda beberapa benefit untuk kesejahteraan hidup Anda dan keluarga. Segera daftarkan diri Anda di halaman karir LOGIQUE sekarang juga.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Pedoman HR | Lingkungan Kerja | karir | LOGIQUE Digital Indonesia</title>
+  
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Pedoman HR | Lingkungan Kerja | karir | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

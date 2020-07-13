@@ -35,6 +35,8 @@
     ga('create', 'UA-105878648-1', 'auto');
     ga('send', 'pageview');
     </script>
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Sistem Penawaran Jual Beli Mobil Online | Caroline | LOGIQUE</title>
 
     <link href="/css/bootstrap.min.css" rel="stylesheet">

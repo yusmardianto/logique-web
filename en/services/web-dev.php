@@ -54,7 +54,9 @@ if(isset($_POST['submitted']))
          content="As one of the best website developers in Indonesia, LOGIQUE Digital Indonesia has their own mechanism in providing clients with the best web development service. Here are simple explanations of each step that we take to create a website.">
 
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     <title>Web Development Service | LOGIQUE Digital Indonesia</title>
+     
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Web Development Service | LOGIQUE Digital Indonesia</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/style.css" rel="stylesheet">
      <link href="assets/css/style-webdev.css" rel="stylesheet">

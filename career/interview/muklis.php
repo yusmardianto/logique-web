@@ -18,7 +18,9 @@
   <meta property="og:description"
     content="Staff terbaik kami di divisi Backend Developer memberikan pesan untuk para kandidat yang ingin melamar sebagai Backend Developer di LOGIQUE terkait kemampuan apa saja yang dicari oleh kami sehingga dapat terus berkembang bersama kami. Segera kunjungi website karir LOGIQUE sekarang juga!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Interview BackEnd Developer | Pesan Untuk Kandidat | LOGIQUE</title>
+  
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Interview BackEnd Developer | Pesan Untuk Kandidat | LOGIQUE</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

@@ -54,6 +54,8 @@ if(isset($_POST['submitted']))
     <meta property="og:description"
         content="LOGIQUE merupakan perusahaan web developer, web design, digital marketing terbaik di Jakarta yang menawarkan berbagai pelayanan serta produk digital untuk perkembangan bisnis Anda. Tertarik untuk mendapatkan layanan dan produk kami. Hubungi kami sekarang juga!">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Hubungi Kami | Web Developer, Designer, Digital Marketing | LOGIQUE</title>
 
     <!-- Bootstrap -->

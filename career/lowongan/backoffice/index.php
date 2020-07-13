@@ -18,7 +18,9 @@
   <meta property="og:description"
     content="LOGIQUE membuka lowongan kerja sebagai HR / GA untuk membantu mengembangkan perusahaan menjadi lebih baik lagi. Jika Anda tertarik untuk bekerja sebagai HR / GA, silakan kunjungi halaman karir LOGIQUE dan daftarkan diri Anda sekarang juga!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Kerja Back Office staff | Accounting | HR | LOGIQUE Digital Indonesia</title>
+  
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Lowongan Kerja Back Office staff | Accounting | HR | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

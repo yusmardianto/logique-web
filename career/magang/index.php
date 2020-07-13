@@ -18,7 +18,9 @@
   <meta property="og:description"
     content="Anda mahasiswa dan sedang mencari perusahaan untuk program magang dari kampus atau ingin merasakan bekerja di perusahaan start up? LOGIQUE memberikan kesempatan kepada Anda untuk magang atau Internship di perusahaan kami. Segera kunjungi halaman karir LOGIQUE dan daftarkan diri Anda sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Kerja Magang / Internship | LOGIQUE Digital Indonesia</title>
+  
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Lowongan Kerja Magang / Internship | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

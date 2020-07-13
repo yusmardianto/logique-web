@@ -53,7 +53,9 @@ if(isset($_POST['submitted']))
      <meta property="og:description"
          content="Nippo merupakan sistem laporan kerja berbasis web dari LOGIQUE yang mampu membantu HR dan manager dalam menilai kinerja para karyawan. Dengan sistem ini, Anda dapat dengan mudah melakukan seleksi, monitor, penilaian, dan evaluasi kinerja harian karyawan Anda.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     <title>Laporan Kerja, Evaluasi Penilaian Kinerja Karyawan | Nippo | LOGIQUE</title>
+     
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Laporan Kerja, Evaluasi Penilaian Kinerja Karyawan | Nippo | LOGIQUE</title>
      <link rel="stylesheet" href="/css/bootstrap.min.css">
      <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
      <link rel="stylesheet" href="/css/style.css">

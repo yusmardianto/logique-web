@@ -9,7 +9,9 @@
 	<meta name="keywords" content="logique, seo maintenance, search rank report, analytic report, konsultasi SEO, search console service, web maintenance, pemeliharaan web, penulisan konten, konten kreatif, seo service provider, seo service jakarta, seo service indonesia, digital marketing, website marketing, white hat marketing, whitehat, white hat SEO, pengakuan merek, multilanguage content, website portfolio, strategi SEO">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<title>Jasa SEO Profesional | LOGIQUE Digital Indonesia</title>
+	
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Jasa SEO Profesional | LOGIQUE Digital Indonesia</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">

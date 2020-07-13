@@ -53,6 +53,8 @@ if(isset($_POST['submitted']))
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description" content="We provide AWS, GCP, Alibaba Cloud environment  construction and operation services to Indonesian customers. Please feel free to contact us for enquiries regarding migration to cloud server, new system development, operation agency, billing agency, etc. LOGIQUE Digital Indonesia">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Cloud Server Structure Operation | DevOps | System Development Company in Jakarta, LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">

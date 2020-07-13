@@ -18,6 +18,8 @@
     <meta property="og:description"
         content="LOGIQUE Digital Indonesia is a company highly experienced in website creation, design and development; further specializing in web vulnerability assessment, digital marketing and the advancement of mobile app technology. We serve a single and comprehensive package deal of solutions for all your business problems. See all of our services here.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Website Creation, Mobile App, Web Vulnerabilty Assessment | LOGIQUE DIGITAL INDONESIA</title>
 
     <!-- Bootstrap -->

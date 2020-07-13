@@ -19,7 +19,9 @@
   <meta property="og:description"
     content="LOGIQUE memberikan kesempatan kepada Anda untuk berkarir sebagai IT Generalis, seperti Project Manager, Product Manager, dan Business Analyst. Jika Anda tertarik untuk berkarir atau mengembangkan karir Anda sebagai IT Generalist, segera kunjungi halaman karir LOGIQUE.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Project Manager | Product Manager | Business Analyst | LOGIQUE Digital Indonesia</title>
+  
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Lowongan Project Manager | Product Manager | Business Analyst | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

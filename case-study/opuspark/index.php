@@ -25,7 +25,9 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Jasa Strategi Marketing Online | Opus Park | LOGIQUE Digital Indonesia</title>
+  
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Jasa Strategi Marketing Online | Opus Park | LOGIQUE Digital Indonesia</title>
 
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
