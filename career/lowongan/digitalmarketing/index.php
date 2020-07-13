@@ -18,7 +18,9 @@
   <meta property="og:description"
     content="Lagi cari lowongan kerja sebagai desainer atau digital marketing spesialist? LOGIQUE sedang membuka lowongan untuk dua posisi tersebut. Jika Anda ingin mengembangkan diri Anda dan tertarik untuk bekerja bersama kami, segera daftarkan diri Anda di halaman karir LOGIQUE sekarang juga!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Designer & Digital Marketing Specialist | LOGIQUE Digital Indonesia</title>
+  
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Lowongan Designer & Digital Marketing Specialist | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

@@ -19,7 +19,9 @@
   <meta property="og:description"
     content="LOGIQUE membuka kesempatan bagi Anda yang ingin bergabung bersama kami sebagai specialis di bidang IT. Jika Anda tertarik dan ingin bergabung serta berkembang bersama kami, segera daftarkan diri Anda dan kunjungi halaman karir LOGIQUE">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Kerja Security Specialist | QA Specialist | DevOps | LOGIQUE Digital Indonesia</title>
+  
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Lowongan Kerja Security Specialist | QA Specialist | DevOps | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

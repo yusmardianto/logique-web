@@ -18,7 +18,9 @@
   <meta property="og:description"
     content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Project Manager. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Consultant / Project Manager | Lowongan Kerja | IT Generalist | LOGIQUE Digital Indonesia</title>
+  
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Consultant / Project Manager | Lowongan Kerja | IT Generalist | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

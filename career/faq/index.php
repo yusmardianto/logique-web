@@ -18,7 +18,9 @@
   <meta property="og:description"
     content="Ingin tahu sekilas tentang kami, mulai dari layanan, dan berbagai pertanyaan lainnya? Kami memberikan jawabannya dengan tujuan agar mempermudah Anda untuk mendapatkan informasi yang Anda butuhkan untuk beradaptasi dengan lingkungan kami. Segera daftarkan diri Anda di halaman karir LOGIQUE sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>FAQ | lowongan IT Developer | LOGIQUE Digital Indonesia</title>
+  
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>FAQ | lowongan IT Developer | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

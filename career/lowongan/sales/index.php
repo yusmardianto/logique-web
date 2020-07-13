@@ -18,7 +18,9 @@
   <meta property="og:description"
     content="Kami memberikan kesempatan kepada Anda yang ingin bergabung dan bekerja bersama LOGIQUE sebagai Sales/ Marketing di perusahaan kami. Jika Anda tertarik dan ingin mengembangkan kemampuan Anda, segera kunjungi halaman karir LOGIQUE dan daftarkan diri Anda sekarang juga!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Kerja Sales / Marketing | LOGIQUE Digital Indonesia</title>
+  
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Lowongan Kerja Sales / Marketing | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

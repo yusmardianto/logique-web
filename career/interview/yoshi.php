@@ -18,7 +18,9 @@
   <meta property="og:description"
     content="Ingin mengenal lebih dekat tentang LOGIQUE Digital Indonesia? Owner kami memberikan pesan dan kriteria staff yang diinginkan oleh LOGIQUE. Kunjungi halaman karir LOGIQUE dan daftarkan diri Anda sekarang juga!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Interview CEO | Pesan Untuk Kandidat | LOGIQUE Digital Indonesia</title>
+  
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Interview CEO | Pesan Untuk Kandidat | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

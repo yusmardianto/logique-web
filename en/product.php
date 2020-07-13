@@ -18,6 +18,8 @@
     <meta property="og:description"
         content="LOGIQUE aims to provide you with various digital products to improve your business productivity. HR Cloud tools, daily report and evaluation tools, as well as recruitment and managements systems for HR. Try our products now! We ensure your work will be much easier and more efficient!">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>HR Cloud Tool | Daily Report, Recruitment Management System | LOGIQUE Digital Indonesia</title>
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
