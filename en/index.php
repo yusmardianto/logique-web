@@ -455,7 +455,7 @@
 
             <section class="case-study bg--white">
                 <div class="container__">
-                    <h3 class="section-title">Studi Kasus</h3>
+                    <h3 class="section-title">Case Study</h3>
                     <p>For more than 7 years, <strong>LOGIQUE</strong> has helped many high-end clients, ranging from the local startups to international enterprise, by developing various Websites, System, Web Apps and Mobile Apps.</p>
 
                     <div class="flex__row">
