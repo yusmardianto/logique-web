@@ -14,6 +14,8 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
 	<meta property="og:description" content="Perilaku cyber crime selalu meningkat setiap tahunnya. Karena itu, LOGIQUE menyediakan layanan jasa keamanan website menggunakan metode penetration testing sebagai solusi terbaik untuk melindungi data perusahaan Anda. Segera hubungi kami untuk mendapatkan layanan ini.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Keamanan Website | Penetration Testing | LOGIQUE Digital Indonesia</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">

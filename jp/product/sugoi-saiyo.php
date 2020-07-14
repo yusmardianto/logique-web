@@ -46,7 +46,9 @@
      <meta name="keywords" content="">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     <title>インドネシアでの採用を効率的に｜SugoiSaiyo｜LOGIQUE DIGITAL INDONESIA</title>
+     
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>インドネシアでの採用を効率的に｜SugoiSaiyo｜LOGIQUE DIGITAL INDONESIA</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/style.css" rel="stylesheet">
      <link href="css/style_sugoisaiyo.css" rel="stylesheet">

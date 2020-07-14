@@ -18,7 +18,9 @@
   <meta property="og:description"
     content="Sedang mencari lowongan kerja IT consultant dengan lingkungan kerja fleksibel dan nyaman di Indonesia? LOGIQUE bisa menjadi pilihan Anda. Kami mencari staff yang mempunyai keinginan untuk berkembang. Segera daftarkan diri Anda sekarang di halaman karir LOGIQUE sekarang juga!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Kerja IT Consultant | Web Developer | LOGIQUE Digital Indonesia</title>
+  
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Lowongan Kerja IT Consultant | Web Developer | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

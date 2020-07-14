@@ -8,6 +8,8 @@
   	<meta name="keywords" content="デジタルマーケティグ, オンライン広告, SEO, 検索順位, ウェブ, WEB">
   	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
   	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>デジタルマーケティング | インターネット/SNS広告やSEO対策、コンテンツ制作等 | LOGIQUEデジタルインドネシア</title>
   	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">

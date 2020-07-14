@@ -18,6 +18,8 @@
     <meta property="og:description"
         content="LOGIQUE Digital Indonesia is a web design and development company from Japan, currently based in Jakarta. Trusted by both local and international clients in the creation of mobile apps, as well as digital marketing and corporate software of the highest quality, our experienced team aims to provide you with the best solutions to grow your business. Contact us now.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Web Developer, Mobile App, Digital Marketing Jakarta | LOGIQUE DIGITAL INDONESIA</title>
 
     <!-- Bootstrap -->

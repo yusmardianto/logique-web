@@ -56,7 +56,9 @@ if(isset($_POST['submitted']))
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description" content="Sebagai salah satu pembuat website terkemuka di Indonesia, LOGIQUE memiliki tahapan pembuatan website tersendiri yang terstruktur dan profesional dalam memberikan jasa dan layanan terbaiknya pada klien. Berikut penjelasan sederhana dari tiap tahap pembuatan website dari LOGIQUE.">
     
-     <title>Jasa Pembuatan Website | Tahapan Pembuatan Website | LOGIQUE</title>
+     
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Jasa Pembuatan Website | Tahapan Pembuatan Website | LOGIQUE</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/style.css" rel="stylesheet">
      <link href="assets/css/style-webdev.css" rel="stylesheet">

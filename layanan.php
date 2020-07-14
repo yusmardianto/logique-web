@@ -18,6 +18,8 @@
     <meta property="og:description"
         content="LOGIQUE memberikan layanan jasa pembuatan website, web design, digital marketing, dan pembuatan serta pengembangan aplikasi untuk berbagai kebutuhan bisnis Anda. Kami siap membantu mengoptimalkan bisnis Anda!">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Pembuatan Website, Design, Mobile App, Digital Marketing | Layanan LOGIQUE</title>
 
     <!-- Bootstrap -->

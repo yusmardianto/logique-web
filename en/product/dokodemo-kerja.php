@@ -57,7 +57,9 @@ if(isset($_POST['submitted']))
          content="Dokodemo-Kerja, a remote work / tele-work management system to improve your company's productivity with flexible working hours. Created by LOGIQUE Digital Indonesia to help managers and HR monitor employees work hours and project progress. Contact us for a free trial!">
 
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     <title>Remote Work / Tele-work Management System | Dokodemo-Kerja | LOGIQUE Digital Indonesia</title>
+     
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>Remote Work / Tele-work Management System | Dokodemo-Kerja | LOGIQUE Digital Indonesia</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="css/style_dokodemo.css" rel="stylesheet">
      <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

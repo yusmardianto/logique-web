@@ -18,6 +18,8 @@
     <meta property="og:description"
         content="LOGIQUE menawarkan berbagai produk digital untuk meningkatkan profit bisnis Anda, mulai dari software kerja remote, sistem laporan kerja karyawan, hingga sistem rekrutmen karyawan untuk HR. Hubungi sekarang juga jika Anda tertarik untuk mendapatkan layanan kami.">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Produk Digital | Sistem Rekrutmen, Kerja Remote, Laporan Kerja | LOGIQUE</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">

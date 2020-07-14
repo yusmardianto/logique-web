@@ -56,7 +56,9 @@
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description"
          content="As one of the top leading web developers in Indonesia, LOGIQUE has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed. Learn more about our web system development service here.">
-     <title>システム開発運用・アプリ開発 | LOGIQUE デジタルインドネシア</title>
+     
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+    <title>システム開発運用・アプリ開発 | LOGIQUE デジタルインドネシア</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/style.css" rel="stylesheet">
      <link href="assets/css/style-systemdev.css" rel="stylesheet">

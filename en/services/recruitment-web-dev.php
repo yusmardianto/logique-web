@@ -54,6 +54,8 @@ if(isset($_POST['submitted']))
     <meta property="og:description"
         content="Have trouble hiring the right employee your company needs? LOGIQUE can help you create an effective recruitment web to ease you with online recruitment, with a built-in inquiry form, also easy-to-navigate and attractive design that appeal to all of your potential target candidates. Contact us to create yours now.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Recruitment Web Creation | Online Recruitment | LOGIQUE DIGITAL INDONESIA</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">

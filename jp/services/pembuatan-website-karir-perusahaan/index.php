@@ -43,6 +43,8 @@ if(isset($_POST['submitted']))
 	<meta name="keywords" content="">
 	<meta name="author" content="Logique Digital Indonesia">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>求人ページ制作｜採用サイト｜インドネシアのWEB制作・システム開発会社LOGIQUE</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">

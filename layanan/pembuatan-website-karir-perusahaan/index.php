@@ -50,6 +50,8 @@ if(isset($_POST['submitted']))
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
 	<meta property="og:description" content="LOGIQUE menyediakan layanan jasa pembuatan website info lowongan kerja untuk memudahkan dan membantu pekerjaan HRD dalam proses seleksi karyawan dan menemukan kandidat yang tepat. Hubungi LOGIQUE untuk mendapatkan layanan ini sekarang juga!">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Jasa Pembuatan Website Info Lowongan Kerja | LOGIQUE Digital Indonesia</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
