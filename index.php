@@ -26,6 +26,7 @@
   <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <!-- Facebook Pixel Code -->
+  <link rel="preload" as="script" href="https://connect.facebook.net/en_US/fbevents.js">
   <script>
   ! function(f, b, e, v, n, t, s) {
     if (f.fbq) return;
@@ -50,7 +51,8 @@
   </script>
   <noscript><img height="1" width="1" style="display:none"
       src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
-  <!-- End Facebook Pixel Code -->
+  <!-- End Facebook Pixel Code -->  
+  <link rel="preload" as="script" href="https://www.google-analytics.com/analytics.js">
   <script>
   (function(i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r;
@@ -72,15 +74,31 @@
     <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Jasa Pembuatan Website, Aplikasi, Digital Marketing, Penetration Testing | LOGIQUE</title>
 
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+  <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" /> -->
   </noscript>
 
   <!-- <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" /> -->
+
+  <link rel="preload" href="css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="css/bootstrap.min.css"></noscript>
+
   <link href="css/style.css" rel="stylesheet">
-  <link href="css/slick.css" rel="stylesheet">
-  <link href="css/slick-theme.css" rel="stylesheet">
+  <!-- <link href="css/slick.css" rel="stylesheet">
+  <link href="css/slick-theme.css" rel="stylesheet">  
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
+
+  <link rel="preload" href="css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="css/slick-theme.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="/fonts/font-awesome/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+    <link rel="stylesheet" href="css/slick.css">
+    <link rel="stylesheet" href="css/slick-theme.css">
+    <link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
+  </noscript>
+  
 
 </head>
 

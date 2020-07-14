@@ -28,14 +28,30 @@
 
   <!-- Bootstrap -->
   <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+  <link rel="preload" href="/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="/css/bootstrap.min.css"></noscript>
+
   <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
   <link href="../css/style.css" rel="stylesheet">
   <link href="../css/jpstyle.css" rel="stylesheet">
-  <link href="../css/slick.css" rel="stylesheet">
+  <!-- <link href="../css/slick.css" rel="stylesheet">
   <link href="../css/slick-theme.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
+
+  <link rel="preload" href="/css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="/css/slick-theme.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="/fonts/font-awesome/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+    <link rel="stylesheet" href="/css/slick.css">
+    <link rel="stylesheet" href="/css/slick-theme.css">
+    <link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
+  </noscript>
   <!-- Facebook Pixel Code -->
+  <link rel="preload" as="script" href="https://www.google-analytics.com/analytics.js">
   <script>
   ! function(f, b, e, v, n, t, s) {
     if (f.fbq) return;
@@ -290,7 +306,7 @@
               <a href="portfolio.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
             </div>
             <div class="col-md-6">
-              <img class="portfolio__img img-resposive" src="/img/our-portfolio.png" alt="portfolio">
+              <img class="portfolio__img img-responsive" src="/img/our-portfolio.png" alt="portfolio">
             </div>
           </div>
         </div>
