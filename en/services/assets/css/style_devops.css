@@ -1,3 +1,17 @@
+@font-face {
+  font-family: "Novocento Sans Wide";
+  src: url('/fonts/Novecentosanswide-Normal.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Novocento Sans Wide Medium";
+  src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
 html,
 body {
   font-family: Raleway;

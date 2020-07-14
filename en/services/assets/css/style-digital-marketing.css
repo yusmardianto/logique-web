@@ -1,5 +1,18 @@
 /* @import url(https://fonts.googleapis.com/css?family=Raleway); */
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap');
+@font-face {
+    font-family: "Novocento Sans Wide";
+    src: url('/fonts/Novecentosanswide-Normal.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "Novocento Sans Wide Medium";
+    src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+  }
 html, body {
     background-color: #fff;
     color: #000;
