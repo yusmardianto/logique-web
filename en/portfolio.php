@@ -245,6 +245,7 @@
                                     </ul>
                                 </a>
                             </div>
+                            <div class="clearfix visible-sm"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a href="/img/portfolio/update/jba.png" class="content__item" data-toggle="lightbox">
                                     <img src="/img/portfolio/update/jba.png" class="img-responsive" alt="">
@@ -266,6 +267,7 @@
                                     </ul>
                                 </a>
                             </div>
+                            <div class="clearfix visible-sm"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a href="/img/portfolio/update/mobirent.png" class="content__item" data-toggle="lightbox">
                                     <img src="/img/portfolio/update/mobirent.png" class="img-responsive" alt="">
@@ -286,6 +288,7 @@
                                     </ul>
                                 </a>
                             </div>
+                            <div class="clearfix visible-sm"></div>
                         </div>
                     </div>
                     <div class="text-center">
