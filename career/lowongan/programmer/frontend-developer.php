@@ -260,10 +260,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
-                        <span class="salary-range__salary">5.000.000 - 7.000.000 IDR</span>
                       </div>
                       <h5 class="section-title">Front End Developer</h5>
                     </div>
+                    <span class="salary-range__salary">5.000.000 - 7.000.000 IDR</span>
                     <!-- <ul class="salary-range__list">
                       <li>Can program / code at least one programming language (PHP or JavaScript)</li>
                       <li>Can code by following the coding guide without many bugs</li>
@@ -276,10 +276,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <span class="salary-range__salary">7.000.000 - 10.000.000 IDR</span>
                       </div>
                       <h5 class="section-title">Front End Developer</h5>
                     </div>
+                    <span class="salary-range__salary">7.000.000 - 10.000.000 IDR</span>
                     <!-- <ul class="salary-range__list">
                       <li>Can program / code or know some programming languages (at least both PHP and JavaScript)                        
                       </li>
@@ -293,10 +293,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <span class="salary-range__salary">10.000.000 IDR ~</span>
                       </div>
                       <h5 class="section-title">Front End Developer</h5>
                     </div>
+                    <span class="salary-range__salary">10.000.000 IDR ~</span>
                     <!-- <ul class="salary-range__list">
                       <li>Have a system architect and design knowledge and good at DevOps</li>
                       <li>Good coding knowledge and can lead other developers</li>
