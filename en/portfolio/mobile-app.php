@@ -164,7 +164,7 @@
                                     <meta itemprop="position" content="2" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Website</span></a>
+                                        itemprop="item"><span itemprop="name">&nbsp;Mobile App</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                             </ol>
@@ -174,84 +174,67 @@
                 <div class="container__">
                     <div class="row">
                         <div class="col-md-offset-1 col-md-7">
-                            <div class="title"><h1>Website Creation Works</h1></div>
+                            <div class="title"><h1>Mobile App Works</h1></div>
                             <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our Web creation, mobile app / PWA development, IT system development, and digital marketing consulting portfolio.</p>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <section id="portofolio_website" class="portfolio-update__content">
+            <section id="portofolio_mobile" class="portfolio-update__content">
                 <div class="container__">
+                    <h2 class="text-center">Mobile App</h2>
                     <div class="content__wrapper">
                         <div class="row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="#" class="content__item">
-                                    <img src="/img/portfolio/update/aia.png" class="img-responsive" alt="">
-                                    <h3>AIA</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Pembuatan Halaman Campaign (Design | Coding | Hosting)</li>
-                                        <li>Website Campaign, Optimasi Mobile, Asuransi, Akademi</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <img src="/img/portfolio/update/panin.png" class="img-responsive" alt="">
-                                    <h3>Panin Life Dai-ichi</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Pengembangan E-Commerce (Design | Coding | CMS | Payment)</li>
-                                        <li>CMS, E-Commerce, Finansial, Asuransi, Integrasi API, Payment Gateway</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="clearfix visible-sm"></div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <img src="/img/portfolio/update/jba.png" class="img-responsive" alt="">
-                                    <h3>JBA INDONESIA</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
-                                        <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="clearfix visible-md"></div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <img src="/img/portfolio/update/j-trust.png" class="img-responsive" alt="">
-                                    <h3>JTrust Bank (Re-design)</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEB Re-Design (Design | Coding | Integrasi CMS)</li>
-                                        <li>Optimasi Mobile, Multi-Bahasa, CMS, Bank</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="clearfix visible-sm"></div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <img src="/img/portfolio/update/mobirent.png" class="img-responsive" alt="">
-                                    <h3>Mobirent</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web Design (Design | Coding | Deployment)</li>
-                                        <li>Website Perusahaan, Optimasi Mobile, Otomotif, Rental Mobil</li>
-                                    </ul>
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/caroline-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/caroline.png" alt="">
+                                        <h3>Caroline Inspection App</h3>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <img src="/img/portfolio/update/jnto.png" class="img-responsive" alt="">
-                                    <h3>JNTO Indonesia</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Pembaharuan & Pengoperasian WEB (Design | Coding | Operation)</li>
-                                        <li>Optimasi Mobile, Keamanan WEB, Publik, Perjalanan, Travel</li>
-                                    </ul>
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/jba-bike-mobile-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/jba-bike-mobile.png" alt="">
+                                        <h3>Caroline Inspection App</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-hino.png" alt="">
+                                        <h3>Caroline Inspection App</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-jba.png" alt="">
+                                        <h3>Caroline Inspection App</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-sinarmas-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-sinarmas.png" alt="">
+                                        <h3>Caroline Inspection App</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-hino.png" alt="">
+                                        <h3>Caroline Inspection App</h3>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="text-center">
-                        <a href="#" class="btn btn--full">Do you need a Web which brings many customer to your company?</a>
                     </div>
                 </div>
             </section>

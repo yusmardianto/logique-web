@@ -353,7 +353,7 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <a href="#" class="btn">See more</a>
+                        <a href="/en/portfolio/mobile-app.php" class="btn">See more</a>
                     </div>
                 </div>
             </section>
@@ -391,30 +391,10 @@
                                 <h3>Sinar Mas Land; HRS Development</h3>
                                 <p>Pengembangan Sistem Rekrutmen dan Tes Psikologi Online.</p>
                             </div>
-                            <!-- <div class="col-sm-4 col-xs-12 content__item content__item--sys">
-                                <div class="item">
-                                    <img src="/img/portfolio/update/sys-assa.png" alt="">
-                                    <h3>Assa <br>System Development</h3>
-                                </div>
-                            </div>
-                            <div class="col-sm-4 col-xs-12 content__item content__item--sys">
-                                <div class="item">
-                                    <img src="/img/portfolio/update/sys-jba.png" alt="">
-                                    <h3>ZuttoRide Indonesia; CRM DevOps</h3>
-                                    <p>Pengembangan sistem manajemen pelanggan ( WEB-CRM ) untuk perusahaan layanan sepeda motor di Indonesia.</p>
-                                </div>
-                            </div>
-                            <div class="col-sm-8 col-xs-12 content__item content__item--sys --longer">
-                                <div class="item--longer">
-                                    <img src="/img/portfolio/update/sys-sinarmas.png" alt="">
-                                    <h3>Sinar Mas Land; HRS Development</h3>
-                                    <p>Pengembangan Sistem Rekrutmen dan Tes Psikologi Online.</p>
-                                </div>
-                            </div> -->
                         </div>
                     </div>
                     <div class="text-center">
-                        <a href="#" class="btn">See more</a>
+                        <a href="/en/portfolio/system-development.php" class="btn">See more</a>
                     </div>
                 </div>
             </section>
@@ -448,7 +428,7 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <a href="#" class="btn">See more</a>
+                        <a href="/en/portfolio/system-development.php" class="btn">See more</a>
                     </div>
                 </div>
             </section>
