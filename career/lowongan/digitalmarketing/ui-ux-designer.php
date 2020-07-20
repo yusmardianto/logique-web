@@ -246,10 +246,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
-                        <!-- <span class="salary-range__salary">Rp 100 juta/ tahun</span> -->
                       </div>
                       <h5 class="section-title">Designer:</h5>
                     </div>
+                    <!-- <span class="salary-range__salary">Rp 100 juta/ tahun</span> -->
                     <ul class="salary-range__list">
                       <li>
                         Mengerti mengenai desain, mampu menggunakan perangkat desain yang standar, yaitu Adobe family.
@@ -265,10 +265,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <!-- <span class="salary-range__salary">Rp 100 – 200 juta/ tahun</span> -->
                       </div>
                       <h5 class="section-title">Designer:</h5>
                     </div>
+                    <!-- <span class="salary-range__salary">Rp 100 – 200 juta/ tahun</span> -->
                     <ul class="salary-range__list">
                       <li>
                         Mengerti tentang wireframe, UX, html & css basic, serta standar design untuk print / digital.
@@ -288,10 +288,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <!-- <span class="salary-range__salary">Rp 200 – 400 juta/ tahun</span> -->
                       </div>
                       <h5 class="section-title">Designer:</h5>
                     </div>
+                    <!-- <span class="salary-range__salary">Rp 200 – 400 juta/ tahun</span> -->
                     <ul class="salary-range__list">
                       <li>Mengerti banyak tentang UI/UX, html & css</li>
                       <li>Mampu memberikan saran untuk desain yang ada, pemecahan masalah, serta memiliki Hasrat yang

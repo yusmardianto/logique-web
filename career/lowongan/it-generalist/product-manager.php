@@ -254,10 +254,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
-                        <span class="salary-range__salary">100 Juta / Tahun</span>
                       </div>
                       <h5 class="section-title">Product Manager:</h5>
                     </div>
+                    <span class="salary-range__salary">100 Juta / Tahun</span>
                     <ul class="salary-range__list">
                       <li>Mengerti dan bisa melakukan melakukan pembuatan program paling tidak satu Bahasa pemrograman (PHP atau Javascript)</li>
                       <li>Bisa melakukan pembuatan program sesuai dengan panduan dengan sedikit masalah</li>
@@ -270,10 +270,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <span class="salary-range__salary">100 - 200 Juta / Tahun</span>
                       </div>
                       <h5 class="section-title">Product Manager:</h5>
                     </div>
+                    <span class="salary-range__salary">100 - 200 Juta / Tahun</span>
                     <ul class="salary-range__list">
                       <li>Mengerti dan memahami soal pemrograman dan bahas pemrograman (minimal PHP dan JavaScript)</li>
                       <li>Mampu mengikuti dan memahami perkembangan terbaru dalam hal tekonologi dan hal lainnya</li>
@@ -286,10 +286,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <span class="salary-range__salary">250 - 35 0 Juta / Tahun</span>
                       </div>
                       <h5 class="section-title">Product Manager:</h5>
                     </div>
+                    <span class="salary-range__salary">250 - 350 Juta / Tahun</span>
                     <ul class="salary-range__list">
                       <li>Memiliki pengetahuan yang baik dalam sistem arsitek dan design untuk DevOps</li>
                       <li>Memiliki pengetahuan yang luas tentang pemrograman dan mampu memimpin anggota tim developers</li>
