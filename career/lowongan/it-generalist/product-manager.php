@@ -255,7 +255,7 @@
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">Product Manager</h5>
                     </div>
                     <span class="salary-range__salary">100 Juta / Tahun</span>
                     <ul class="salary-range__list">
@@ -271,7 +271,7 @@
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">Product Manager</h5>
                     </div>
                     <span class="salary-range__salary">100 - 200 Juta / Tahun</span>
                     <ul class="salary-range__list">
@@ -287,7 +287,7 @@
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
                       </div>
-                      <h5 class="section-title">Product Manager:</h5>
+                      <h5 class="section-title">Product Manager</h5>
                     </div>
                     <span class="salary-range__salary">250 - 350 Juta / Tahun</span>
                     <ul class="salary-range__list">

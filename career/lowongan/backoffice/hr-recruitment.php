@@ -228,7 +228,7 @@
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
                       </div>
-                      <h5 class="section-title">HR Recruitment:</h5>
+                      <h5 class="section-title">HR Recruitment</h5>
                     </div>
                     <span class="salary-range__salary">100 juta IDR / Year</span>
                     <ul class="salary-range__list">
@@ -244,7 +244,7 @@
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
                       </div>
-                      <h5 class="section-title">HR Recruitment:</h5>
+                      <h5 class="section-title">HR Recruitment</h5>
                     </div>
                     <span class="salary-range__salary">100 - 200 juta IDR / Year</span>
                     <ul class="salary-range__list">
@@ -262,7 +262,7 @@
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
                       </div>
-                      <h5 class="section-title">HR Recruitment:</h5>
+                      <h5 class="section-title">HR Recruitment</h5>
                     </div>
                     <span class="salary-range__salary">200 - 400 juta IDR / Year</span>
                     <ul class="salary-range__list">

@@ -2388,6 +2388,7 @@ ul.candiate-criteria__reject li::before {
   font-weight: 800;
   line-height: 1;
   font-style: normal;
+  text-transform: uppercase;
 }
 .salary-range__list {
   padding-left: 10px;
