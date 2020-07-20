@@ -27,6 +27,9 @@ p:last-of-type{
     display: flex;
     flex-wrap: wrap;
 }
+.content-section{
+    margin-left: 90px;
+}
 .sec-content-part {
     width: 90%;
     margin:0 auto;
@@ -49,7 +52,7 @@ p:last-of-type{
 .content-wrapper__.header {
     background: url(../../pembuatan-sistem-web/img/newlayout/top-bg.jpg) no-repeat;
     background-size: cover;
-    padding: 128px 0 84px;
+    padding: 128px 0 84px 90px;
     margin:0;
 }
 .breadcrumb-container{
@@ -632,7 +635,13 @@ section h2{
 
 @media (max-width: 991px) {   }
 
-@media (max-width: 762px) {  
+@media (max-width: 762px) { 
+    .content-section{
+        margin-left: 0px;
+    } 
+    .content-wrapper__.header{
+        padding-left: 0;
+    }
     .sec-content-part{
         width: 100%;
     }
@@ -672,14 +681,15 @@ section h2{
         margin-top: -1px;
     }
     .logique-nav {
-    margin-right: -150px;
-    margin-left: auto;
-    position: relative;
-    float: right;
-    margin-top: 0;
-    height: 100%;
-    border-radius: 0;
+        margin-right: -150px;
+        margin-left: auto;
+        position: relative;
+        float: right;
+        margin-top: 0;
+        height: 100%;
+        border-radius: 0;
     }
+
     .content-wrapper__.header{
         padding: 30px 0;
     }
