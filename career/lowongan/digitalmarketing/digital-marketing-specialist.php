@@ -263,10 +263,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
-                        <!-- <span class="salary-range__salary">100 juta IDR / Year</span> -->
                       </div>
-                      <h5 class="section-title">Digital Marketing Specialist:</h5>
+                      <h5 class="section-title">Digital Marketing Specialist</h5>
                     </div>
+                    <!-- <span class="salary-range__salary">100 juta IDR / Year</span> -->
                     <ul class="salary-range__list">
                       <li>Mempunyai passion dalam menulis</li>
                       <li>Memahami teknik penulisan sesuai dengan kaidah SEO</li>
@@ -281,10 +281,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <!-- <span class="salary-range__salary">100 - 200 juta IDR / Year</span> -->
                       </div>
-                      <h5 class="section-title">Digital Marketing Specialist:</h5>
+                      <h5 class="section-title">Digital Marketing Specialist</h5>
                     </div>
+                    <!-- <span class="salary-range__salary">100 - 200 juta IDR / Year</span> -->
                     <ul class="salary-range__list">
                       <li>Mempunyai pemahaman mengenai SEO Tools</li>
                       <li>Mampu melakukan audit website sesuai dengan kaidah SEO</li>
@@ -299,10 +299,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <!-- <span class="salary-range__salary">200 - 400 juta IDR / Year</span> -->
                       </div>
-                      <h5 class="section-title">Digital Marketing Specialist:</h5>
+                      <h5 class="section-title">Digital Marketing Specialist</h5>
                     </div>
+                    <!-- <span class="salary-range__salary">200 - 400 juta IDR / Year</span> -->
                     <ul class="salary-range__list">
                       <li>Selalu up-to-date tentang SEO terbaru</li>
                       <li>Membuat report progress SEO dan analisis website</li>

@@ -305,10 +305,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
-                        <span class="salary-range__salary">100 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Consultant:</h5>
+                      <h5 class="section-title">Consultant</h5>
                     </div>
+                    <span class="salary-range__salary">100 juta IDR / Year</span>
                     <ul class="salary-range__list">
                       <li>Can analyze and suggest what / how we should improve</li>
                       <li>Can manage development team and run small budget digital marketing campaigns</li>
@@ -321,10 +321,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
-                        <span class="salary-range__salary">100 - 200 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Consultant:</h5>
+                      <h5 class="section-title">Consultant</h5>
                     </div>
+                    <span class="salary-range__salary">100 - 200 juta IDR / Year</span>
                     <ul class="salary-range__list">
                       <li>Can analyze well and decide what / how we should improve</li>
                       <li>Can manage development team and solve the issues well</li>
@@ -339,10 +339,10 @@
                     <div class="salary-range__head">
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
-                        <span class="salary-range__salary">200 - 400 juta IDR / Year</span>
                       </div>
-                      <h5 class="section-title">Consultant:</h5>
+                      <h5 class="section-title">Consultant</h5>
                     </div>
+                    <span class="salary-range__salary">200 - 400 juta IDR / Year</span>
                     <ul class="salary-range__list">
                       <li>Can analyze well and decide what / how we should improve</li>
                       <li>Can manage team members well and have a good communication with other teams</li>
