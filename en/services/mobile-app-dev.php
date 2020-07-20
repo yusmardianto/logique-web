@@ -119,7 +119,7 @@ if(isset($_POST['submitted']))
 
      <div class="collapse navbar-collapse" id="myNavbar">
          <div class="backdrop-test"></div>
-         <div class="logique-nav">
+         <div class="logique-nav logique-nav--update">
              <div class="margin-for-nav">
                  <div class="text-center">
                      <a href="/en/index.php">

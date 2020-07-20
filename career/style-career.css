@@ -1,5 +1,18 @@
+@import url('/css/sidebar-update.css');
 @import url("https://fonts.googleapis.com/css?family=Raleway:300,400,500,700,800,900&display=swap'");
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap');
+@font-face {
+  font-family: "Novocento Sans Wide";
+  src: url('/fonts/Novecentosanswide-Normal.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Novocento Sans Wide Medium";
+  src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
 html,
 body {
   font-family: "Raleway", "sans-serif";
@@ -254,27 +267,14 @@ button:focus {
   padding: 5px 10px;
   line-height: normal;
 }
-.logique-nav .text-center.active,
-.logique-nav .text-center.active:focus,
-.logique-nav .text-center.active:hover {
-  background: #212425;
-}
-.logique-nav .text-center:focus,
-.logique-nav .text-center:hover {
-  background: #666;
-}
-.logique-nav .text-center:focus a,
-.logique-nav .text-center:hover a {
-  color: #fff;
-}
 .logique-nav a {
+  font-family: 'Novocento Sans Wide Medium' !important;
   color: #000;
-  font-size: 12px;
-}
-.logique-nav .text-center.active a,
-.logique-nav .text-center.active:focus a,
-.logique-nav .text-center.active:hover a {
-  color: #fff;
+  font-size: 10px;
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: -.5px;
+  font-weight: 600 !important;
 }
 .margin-for-nav {
   margin: 25px 0;
@@ -333,74 +333,9 @@ button:focus {
   height: 44px;
   width: 44px;
 }
-.img-home {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -4px no-repeat;
+.logique-nav.logique-nav--update .margin-for-nav > div > a > div {
+  transition: all .8s;
 }
-.logique-nav .text-center:focus .img-home,
-.logique-nav .text-center:hover .img-home {
-  background: url(/img/nav-img-white.png) -2px -4px no-repeat;
-}
-.img-about {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -62px no-repeat;
-}
-.logique-nav .text-center:focus .img-about,
-.logique-nav .text-center:hover .img-about {
-  background: url(/img/nav-img-white.png) -2px -62px no-repeat;
-}
-.img-portfolio {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -123px no-repeat;
-}
-.logique-nav .text-center:focus .img-portfolio,
-.logique-nav .text-center:hover .img-portfolio {
-  background: url(/img/nav-img-white.png) -2px -123px no-repeat;
-}
-.img-services {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -184px no-repeat;
-}
-.logique-nav .text-center:focus .img-services,
-.logique-nav .text-center:hover .img-services {
-  background: url(/img/nav-img-white.png) -2px -184px no-repeat;
-}
-.img-product {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -440px no-repeat;
-}
-.logique-nav .text-center:focus .img-product,
-.logique-nav .text-center:hover .img-product {
-  background: url(/img/nav-img-white.png) -2px -440px no-repeat;
-}
-.img-career {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -245px no-repeat;
-}
-.logique-nav .text-center.active .img-career,
-.logique-nav .text-center.active:focus .img-career,
-.logique-nav .text-center.active:hover .img-career,
-.logique-nav .text-center:focus .img-career,
-.logique-nav .text-center:hover .img-career {
-  background: url(/img/nav-img-white.png) -2px -245px no-repeat;
-}
-.img-contact {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -308px no-repeat;
-}
-.logique-nav .text-center:focus .img-contact,
-.logique-nav .text-center:hover .img-contact {
-  background: url(/img/nav-img-white.png) -2px -308px no-repeat;
-}
-.img-blog {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -374px no-repeat;
-}
-.logique-nav .text-center:focus .img-blog,
-.logique-nav .text-center:hover .img-blog {
-  background: url(/img/nav-img-white.png) -2px -374px no-repeat;
-}
-
 .logo--update-design {
   width: 200px;
   margin-top: 10px;
@@ -731,7 +666,7 @@ footer {
   overflow: hidden;
 }
 .content-wrapper__ {
-  margin-left: 95px;
+  margin-left: 90px;
 }
 @media (max-width: 767px) {
   .content-wrapper__ {

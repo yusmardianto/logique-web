@@ -20,6 +20,7 @@
         content="LOGIQUE Digital Indonesia is the leading Web Development / Design, Digital Marketing and IT consultancy in Jakarta. With experience in growing local and international businesses all across ASEAN, specifically in Indonesia and Japan, the company has assisted many enterprises in creating high quality websites, systems and developments within the digital world.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <!-- Facebook Pixel Code -->
+    <link rel="preload" as="script" href="https://www.google-analytics.com/analytics.js">
     <script>
     ! function(f, b, e, v, n, t, s) {
         if (f.fbq) return;
@@ -67,13 +68,25 @@
     <title>Web Developer / Design, Digital Marketing, IT Consultant | LOGIQUE DIGITAL INDONESIA</title>
 
     <!-- Bootstrap -->
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
-
+    <!-- <link href="../css/bootstrap.min.css" rel="stylesheet"> -->
+    <link rel="preload" href="/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/css/bootstrap.min.css"></noscript>
     <link href="../css/style.css" rel="stylesheet">
-    <link href="../css/slick.css" rel="stylesheet">
+    <!-- <link href="../css/slick.css" rel="stylesheet">
     <link href="../css/slick-theme.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
+
+    <link rel="preload" href="/css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="/css/slick-theme.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="/fonts/font-awesome/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+    <link rel="stylesheet" href="/css/slick.css">
+    <link rel="stylesheet" href="/css/slick-theme.css">
+    <link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
+    </noscript>
 
 </head>
 
@@ -99,7 +112,7 @@
     </style>
 
     <?//php include '../popup.php'; ?>
-    <div class="wrapper wrapper--update-design o-wrapper top-only">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only">
         <!-- NAVIGATION -->
         <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
             data-toggle="collapse" data-target="#myNavbar">
@@ -110,7 +123,7 @@
 
         <div class="collapse navbar-collapse" id="myNavbar">
             <div class="backdrop-test"></div>
-            <div class="logique-nav">
+            <div class="logique-nav logique-nav--update">
                 <div class="margin-for-nav">
                     <div class="text-center active">
                         <a href="index.php">
@@ -176,8 +189,7 @@
                                     <li><a href="../index.php">ID</a></li>
                                     <li><a href="../jp/index.php">JP</a></li>
                                 </ul>
-                                <a href="index.php"><img src="/img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
+                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
                     </div>
@@ -192,51 +204,46 @@
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="title-container">
-                                <div class="text-center" style="background: none;">
-                                    <div class="title-index">
+                                <div style="background: none;">
+                                    <div class="title-index text-center" style="margin-top: 50px;">
                                         The Top Web System Developer in Jakarta, Providing Digital Solutions for Your Business
                                     </div>
-                                    <hr class="title__yellow-line--center">
-                                    <p>LOGIQUE Digital Indonesia is a professional Web Application / Mobile App Developer that
-                                        specializes in creating and designing WebApps, with an emphasis on Digital Marketing
-                                        operations with the end goal of improving your business and maximizing profits. <br><br>
-                                        Having worked with many high-end clients ranging from the local to international levels,
-                                        our
-                                        company has catered to various requests, such as creating online auction systems,
-                                        E-Commerce,
-                                        employee recruitment systems and digital ads operations.</p><br>
-                                    <div class="row">
-                                        <div class="col-lg-offset-1 col-lg-10">
-                                            <div class="row">
-                                                <div class="col-xs-6">
-                                                    <a href="/en/services/web-dev.php" class="div-service-cat">
-                                                        <img src="/img/top/i-top1.png" alt="Website Production Service"
-                                                            class="center-block img-responsive" />
-                                                        <h2>Website Production Service</h2>
-                                                    </a>
-                                                </div>
-                                                <div class="col-xs-6">
-                                                    <a href="/en/services/mobile-app-dev.php" class="div-service-cat">
-                                                        <img src="/img/top/i-top2.png" alt="Apps Development Service"
-                                                            class="center-block img-responsive" />
-                                                        <h2>Apps Development Service</h2>
-                                                    </a>
-                                                </div>
-                                                <div class="col-xs-6">
-                                                    <a href="/en/services/system-dev.php" class="div-service-cat">
-                                                        <img src="/img/top/i-top3.png" alt="Web System Development Service"
-                                                            class="center-block img-responsive" />
-                                                        <h2>Web System Development Service</h2>
-                                                    </a>
-                                                </div>
-                                                <div class="col-xs-6">
-                                                    <a href="/en/services/penetration-test.php" class="div-service-cat">
-                                                        <img src="/img/top/i-top4.png" alt="Penetration Testing Service"
-                                                            class="center-block img-responsive" />
-                                                        <h2>Penetration Testing Service</h2>
-                                                    </a>
-                                                </div>
-                                            </div>
+                                    <p class="text-center"><strong>LOGIQUE Digital Indonesia</strong> is a professional Web Application / Mobile App Developer that specializes in creating and designing WebApps, with an emphasis on Digital Marketing operations with the end goal of improving your business and maximizing profits. 
+                                    <br> 
+                                    Having worked with many high-end clients ranging from the local to international levels, our company has catered to various requests, such as creating online auction systems, E-Commerce, employee recruitment systems and digital ads operations.</p>
+                                    <div class="row homepage-hero__card">
+                                        <div class="col-md-3 col-xs-6">
+                                            <a href="/en/services/web-dev.php" class="div-service-cat">
+                                                <img src="/img/top/i-top1.svg" alt="Website Production Service"
+                                                    class="img-responsive" />
+                                                <h2>Website Production Service</h2>
+                                                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-3 col-xs-6">
+                                            <a href="/en/services/mobile-app-dev.php" class="div-service-cat">
+                                                <img src="/img/top/i-top2.svg" alt="Apps Development Service"
+                                                    class="img-responsive" />
+                                                <h2>Apps Development <br>Service</h2>
+                                                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                            </a>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="col-md-3 col-xs-6">
+                                            <a href="/en/services/system-dev.php" class="div-service-cat">
+                                                <img src="/img/top/i-top3.svg" alt="Web System Development Service"
+                                                    class="img-responsive" />
+                                                <h2>Web System Development Service</h2>
+                                                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-3 col-xs-6">
+                                            <a href="/en/services/penetration-test.php" class="div-service-cat">
+                                                <img src="/img/top/i-top4.svg" alt="Penetration Testing Service"
+                                                    class="img-responsive" />
+                                                <h2>Penetration Testing Service</h2>
+                                                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -253,73 +260,77 @@
             </div>
             <div class="bg-white-opacity"></div>
 
-            <div id="bgImg" style="height: auto; margin-left:auto; margin-right: auto">
-                <div class="img">
-
+            <div id="bgImg" style="height: auto; margin-left:auto; margin-right: auto; overflow: visible;">
+                <div class="img homepage-hero">
                     <div class="title-container hidden-sm">
                         <div class="row">
                             <div class="container__">
                                 <div class="row">
-                                    <div class="col-md-6">
-                                        <h1 class="title-index">The Top Web System Developer in Jakarta, Providing Digital
-                                            Solutions
-                                            for Your Business</h1>
-                                        <hr class="title__yellow-line">
-                                        <p>LOGIQUE Digital Indonesia is a professional Web Application / Mobile App Developer that
-                                            specializes in creating and designing WebApps, with an emphasis on Digital Marketing
-                                            operations with the end goal of improving your business and maximizing profits.
-                                            <br><br>
-                                            Having worked with many high-end clients ranging from the local to international
-                                            levels,
-                                            our company has catered to various requests, such as creating online auction systems,
-                                            E-Commerce, employee recruitment systems and digital ads operations.</p>
+                                    <div class="col-md-offset-1 col-md-10 text-center">
+                                        <h1 class="title-index" style="margin-top: 100px;">The Top Web System Developer in Jakarta, <br>Providing Digital
+                                            Solutions for Your Business</h1>
+                                        <p><strong>LOGIQUE DIGITAL INDONESIA</strong> is a professional Web Application / Mobile App Developer that
+                                            specializes in creating and designing WebApps, with an emphasis on Digital Marketing operations with the end goal of improving your business and maximizing profits.
+                                            <br>
+                                            Having worked with many high-end clients ranging from the local to international levels, our company has catered to various requests, such as creating online auction systems, E-Commerce, employee recruitment systems and digital ads operations.</p>
                                     </div>
-                                    <div class="col-md-6">
-                                        <div class="row">
-                                            <div class="col-xs-6">
-                                                <a href="/en/services/web-dev.php" class="div-service-cat">
-                                                    <img src="/img/top/i-top1.png" alt="Website Production Service"
-                                                        class="center-block img-responsive" />
-                                                    <h2>Website Production Service</h2>
-                                                </a>
-                                            </div>
-                                            <div class="col-xs-6">
-                                                <a href="/en/services/mobile-app-dev.php" class="div-service-cat">
-                                                    <img src="/img/top/i-top2.png" alt="Apps Development Service"
-                                                        class="center-block img-responsive" />
-                                                    <h2>Apps Development Service</h2>
-                                                </a>
-                                            </div>
-                                            <div class="col-xs-6">
-                                                <a href="/en/services/system-dev.php" class="div-service-cat">
-                                                    <img src="/img/top/i-top3.png" alt="Web System Development Service"
-                                                        class="center-block img-responsive" />
-                                                    <h2>Web System Development Service</h2>
-                                                </a>
-                                            </div>
-                                            <div class="col-xs-6">
-                                                <a href="/en/services/penetration-test.php" class="div-service-cat">
-                                                    <img src="/img/top/i-top4.png" alt="Penetration Testing Service"
-                                                        class="center-block img-responsive" />
-                                                    <h2>Penetration Testing Service</h2>
-                                                </a>
-                                            </div>
-                                        </div>
+                                </div>
+                                <div class="row homepage-hero__card">
+                                    <div class="col-md-3 col-xs-6">
+                                        <a href="/en/services/web-dev.php" class="div-service-cat">
+                                            <img src="/img/top/i-top1.svg" alt="Website Production Service"
+                                                class="img-responsive" />
+                                            <h2>Website Production Service</h2>
+                                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3 col-xs-6">
+                                        <a href="/en/services/mobile-app-dev.php" class="div-service-cat">
+                                            <img src="/img/top/i-top2.svg" alt="Apps Development Service"
+                                                class="img-responsive" />
+                                            <h2>Apps Development Service</h2>
+                                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3 col-xs-6">
+                                        <a href="/en/services/system-dev.php" class="div-service-cat">
+                                            <img src="/img/top/i-top3.svg" alt="Web System Development Service"
+                                                class="img-responsive" />
+                                            <h2>Web System Development Service</h2>
+                                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3 col-xs-6">
+                                        <a href="/en/services/penetration-test.php" class="div-service-cat">
+                                            <img src="/img/top/i-top4.svg" alt="Penetration Testing Service"
+                                                class="img-responsive" />
+                                            <h2>Penetration Testing Service</h2>
+                                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        </a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-
                     </div>
-
                 </div>
             </div>
 
-            <section class="bg--white">
+            <section class="portfolio bg--white">
                 <div class="container__">
+                    <h3 class="section-title">Our Portfolio</h3>
                     <div class="row">
+                        <div class="col-md-6">
+                            <p>We are committed to producing a variety of high quality digital products for our clients which conform to an international standard of excellence.
+                            <br><br>
+                            We are trustworthy experts and can work flexibly according to your specific requests. Working with us and utilizing the best solutions provided by our team is an opportunity to grow and improve your business’s overall profits in a digitalized age.</p>
+                            <a href="portfolio.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+                        </div>
+                        <div class="col-md-6">
+                            <img class="portfolio__img img-responsive" src="/img/our-portfolio.png" alt="portfolio">
+                        </div>
+                    </div>
+                    <!-- <div class="row">
                         <div class="col-sm-12">
-                            <img class="portofolio__illus" src="/img/our-portofolio.png" alt="portfolio">
                             <div class="custombox__portfolio">
                                 <h1 class="title-index">Our Portfolio</h1>
                                 <hr class="title__yellow-line">
@@ -333,13 +344,58 @@
                                 <a class="custombox__btn" href="portfolio.php">See more</a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </section>
 
-            <section class="bg--white">
+            <section class="solution bg--white">
                 <div class="container__">
-                    <div class="row">
+                    <h3 class="section-title">We Provide <b>HR-Tech Solutions</b> In Indonesia</h3>
+                    <p><strong>LOGIQUE</strong> is committed to contributing to Indonesia's rapidly growing IT industry (SI, Web system development, digital marketing, etc.), having developed three internal systems to assist with increasing employee productivity & efficiency, and to simplify the recruitment process in regards to potential candidate evaluation. Upon integrating these products within our own company, we have found a very apparent & significant improvement, resulting in our decision to put these products up for sale</p>
+
+                    <div class="flex__row">
+                        <div class="col-md-6 row__item">
+                            <div class="item__img">
+                                <img src="/img/top/i-dokodemo.svg" alt="">
+                            </div>
+                            <div class="item__text">
+                                <h4>Dokodemo Kerja</h4>
+                                <p><strong>LOGIQUE</strong> offers a flexible solution to the limitations of remote working for employees; our software, Dokodemo-Kerja. This system can accurately monitor and calculate employee working hours.</p>
+                                <a href="https://dokodemo-kerja.com/"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 row__item">
+                            <div class="item__img">
+                                <img src="/img/top/i-hiring-site-update.png" alt="">
+                            </div>
+                            <div class="item__text">
+                                <h4>Custom Hiring Site</h4>
+                                <p>Your own recruitment website can be the key to make the process effective and efficient! We offer recruitment software which can assist Human Resources through connecting job seekers and employers.</p>
+                                <a href="/en/services/recruitment-web-dev.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 row__item">
+                            <div class="item__img">
+                                <img src="/img/top/i-nippo-update.png" alt="">
+                            </div>
+                            <div class="item__text">
+                                <h4>Nippo</h4>
+                                <p><strong>LOGIQUE</strong> offers a helpful way to assist management in easily monitoring and evaluating the progression of employee performance through a daily reporting system called Nippo.</p>
+                                <a href="/en/product/nippo.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 row__item">
+                            <div class="item__img">
+                                <img src="/img/top/i-sugoi-saiyo-update.png" alt="">
+                            </div>
+                            <div class="item__text">
+                                <h4>Sugoi Saiyo</h4>
+                                <p>Sugoi Saiyo is a system designed to carry out the recruitment process so that the most suitable candidates can be filtered through to HR quickly and more efficiently, automatically structuring the time and place of the interview.</p>
+                                <a href="/en/product/sugoi-saiyo.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="row">
                         <div class="col-sm-12">
                             <h1 class="title-index--light">We Provide <span class="title-index--bold">HR-Tech Solutions</span> In
                                 Indonesia</h1>
@@ -360,9 +416,7 @@
                                             <img class="custombox__product-img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
                                         </div>
                                         <h1 class="custombox__product-title">Dokodemo Kerja</h1>
-                                        <p class="custombox__product-content">LOGIQUE offers a flexible solution to the
-                                            limitations of
-                                            remote working for employees; our software, Dokodemo-Kerja. This system can accurately
+                                        <p class="custombox__product-content">LOGIQUE offers a flexible solution to the limitations of remote working for employees; our software, Dokodemo-Kerja. This system can accurately
                                             monitor and calculate employee working hours.</p>
                                         <a class="custombox__btn-product" target="_blank" href="http://dokodemo-kerja.com/">Learn
                                             More</a>
@@ -410,13 +464,82 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </section>
 
-            <section class="bg--white">
-                <div class="container__ text-center">
-                    <div class="row">
+            <section class="case-study bg--white">
+                <div class="container__">
+                    <h3 class="section-title">Case Study</h3>
+                    <p>For more than 7 years, <strong>LOGIQUE</strong> has helped many high-end clients, ranging from the local startups to international enterprise, by developing various Websites, System, Web Apps and Mobile Apps.</p>
+
+                    <div class="flex__row">
+                        <div class="col-md-6 col-xs-12 row__item">
+                            <img src="/img/case-study-1.png" class="img-responsive" alt="">
+                            <a href="/en/case-study/caroline-bidding-system/">
+                                <div class="item__hover">
+                                <img src="/img/top/i-caroline-update.png" alt="">
+                                <h4>Situs Jual Beli dengan Sistem Penawaran Online</h4>
+                                <p>Caroline merupakan bagian dari PT Triputra Group yang bergerak di berbagai industri seperti agribisnis, manufaktur, dan pertambangan..</p>
+                                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-6 col-xs-12 row__item">
+                            <img src="/img/case-study-2.png" class="img-responsive" alt="">
+                            <a href="/en/case-study/jba-auction-system">
+                                <div class="item__hover">
+                                <img src="/img/top/i-jba-update.png" alt="">
+                                <h4>JBA Indonesia Auction System</h4>
+                                <p>JBA Indonesia merupakan salah satu perusahaan asing yang bergerak di bidang lelang dengan skala besar dan berkantor pusat di Jepang.</p>
+                                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="flex__row">
+                        <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
+                            <img src="/img/case-study-3.png" class="img-responsive" alt="">
+                            <a href="/en/case-study/opuspark/">
+                                <div class="item__hover">
+                                    <img src="/img/top/i-opus-park.png" alt="">
+                                    <div>
+                                        <h4>Opus Park Sentul</h4>
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
+                            <img src="/img/case-study-4.png" class="img-responsive" alt="">
+                            <a href="/en/case-study/zuttoride-customer-management-system/">
+                                <div class="item__hover">
+                                    <img src="/img/top/i-zuttoride-update.png" alt="">
+                                    <div>
+                                        <h4>Zutto Ride Indonesia</h4>
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-xs-offset-0 col-sm-offset-3 col-md-offset-0 col-md-4 col-sm-6 col-xs-12 row__item --sm">
+                            <img src="/img/case-study-5.png" class="img-responsive" alt="">
+                            <a href="/en/case-study/vip-plaza-progressive-web-app/">
+                                <div class="item__hover">
+                                    <img src="/img/top/i-vipplaza-update.png" alt="">
+                                    <div>
+                                        <h4>VIP Plaza</h4>
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <p><strong>LOGIQUE</strong> commits to providing the best solutions to our clients; having worked successfully on many projects such as e-commerce, car/motorcycle auction management system, CRM development, e-learning App, PWA, Recruitment system and more.</p>
+
+                    <!-- <div class="row">
                         <div class="col-sm-12 text-center">
                             <h1 class="title-index">CASE STUDY</h1>
                             <hr class="title__yellow-line--center">
@@ -443,13 +566,29 @@
                                 projects such as e-commerce, car/motorcycle auction management system, CRM development, e-learning
                                 App, PWA, Recruitment system and more.</p>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </section>
 
-            <section class="bg--white">
+            <section class="see-list bg--white">
                 <div class="container__">
-                    <div class="row">
+                    <div class="flex__row">
+                        <div class="col-md-6 col-xs-12 row__item">
+                            <a href="services.php" class="item item--service">
+                                <img src="/img/service.png" alt="">
+                                <h3>See Service List</h3>
+                                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                            </a>                           
+                        </div>
+                        <div class="col-md-6 col-xs-12 row__item">
+                            <a href="product.php" class="item item--product">
+                                <img src="/img/product.png" alt="">
+                                <h3>See Product List</h3>
+                                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                            </a>
+                        </div>
+                    </div>
+                    <!-- <div class="row">
                         <div class="col-sm-12">
                             <div class="row">
                                 <div class="col-md-offset-1 col-sm-offset-2 col-md-5 col-sm-8">
@@ -472,10 +611,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </section>
-
         </div>
     </div>
 
