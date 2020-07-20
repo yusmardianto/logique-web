@@ -302,31 +302,54 @@
                     <h2 class="text-center">Mobile App</h2>
                     <div class="content__wrapper">
                         <div class="row">
-                            <div class="col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile">
-                                    <img src="/img/portfolio/update/caroline.png" alt="">
-                                    <h3>Caroline Inspection App</h3>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/caroline-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/caroline.png" alt="">
+                                        <h3>Caroline Inspection App</h3>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-xs-12 pull-right">
-                                <div class="content__item content__item--mobile --taller">
-                                    <img src="/img/portfolio/update/jba-bike-mobile.png" alt="">
-                                    <h3>JBA Bike Inspection</h3>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/jba-bike-mobile-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/jba-bike-mobile.png" alt="">
+                                        <h3>Caroline Inspection App</h3>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile --taller">
-                                    <img src="/img/portfolio/update/frangipani.png" alt="">
-                                    <h3>Frangipani</h3>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-hino.png" alt="">
+                                        <h3>Caroline Inspection App</h3>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-xs-12  pull-right">
-                                <div class="content__item content__item--mobile">
-                                    <img src="/img/portfolio/update/jba-mobile.png" alt="">
-                                    <h3>JBA Indonesia</h3>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-jba.png" alt="">
+                                        <h3>Caroline Inspection App</h3>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="clearfix"></div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-sinarmas-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-sinarmas.png" alt="">
+                                        <h3>Caroline Inspection App</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-hino.png" alt="">
+                                        <h3>Caroline Inspection App</h3>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div class="text-center">
@@ -339,15 +362,36 @@
                 <div class="container__">
                     <h2 class="text-center">System Development</h2>
                     <div class="content__wrapper">
-                        <div class="flex__row">
-                            <div class="col-sm-8 col-xs-12 content__item content__item--sys --longer">
-                                <div class="item--longer">
+                        <div class="row">
+                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                <div class="item__img">
                                     <img src="/img/portfolio/update/sys-jba.png" alt="">
-                                    <h3>JBA Indonesia; Online Car Auction System Development</h3>
-                                    <p>Pengembangan Aplikasi Mobile ( Pengembangan sistem inspeksi kendaraan dan sistem penilaian)</p>
                                 </div>
+                                <h3>JBA Indonesia; Online Car Auction System Development</h3>
+                                <p>Pengembangan Aplikasi Mobile ( Pengembangan sistem inspeksi kendaraan dan sistem penilaian)</p>
                             </div>
-                            <div class="col-sm-4 col-xs-12 content__item content__item--sys">
+                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                <div class="item__img">
+                                    <img src="/img/portfolio/update/sys-assa.png" alt="">
+                                </div>
+                                <h3>Assa <br>System Development</h3>
+                            </div>
+                            <div class="clearfix visible-sm"></div>
+                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                <div class="item__img">
+                                    <img src="/img/portfolio/update/sys-zuttoride.png" alt="">
+                                </div>
+                                <h3>ZuttoRide Indonesia; CRM DevOps</h3>
+                                <p>Pengembangan sistem manajemen pelanggan ( WEB-CRM ) untuk perusahaan layanan sepeda motor di Indonesia.</p>
+                            </div>
+                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                <div class="item__img">
+                                    <img src="/img/portfolio/update/sys-sinarmas.png" alt="">
+                                </div>
+                                <h3>Sinar Mas Land; HRS Development</h3>
+                                <p>Pengembangan Sistem Rekrutmen dan Tes Psikologi Online.</p>
+                            </div>
+                            <!-- <div class="col-sm-4 col-xs-12 content__item content__item--sys">
                                 <div class="item">
                                     <img src="/img/portfolio/update/sys-assa.png" alt="">
                                     <h3>Assa <br>System Development</h3>
@@ -366,7 +410,7 @@
                                     <h3>Sinar Mas Land; HRS Development</h3>
                                     <p>Pengembangan Sistem Rekrutmen dan Tes Psikologi Online.</p>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <div class="text-center">

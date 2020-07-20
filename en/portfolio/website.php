@@ -205,6 +205,7 @@
                                     </ul>
                                 </div>
                             </div>
+                            <div class="clearfix visible-sm"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/jba.png" class="img-responsive" alt="">
@@ -226,6 +227,7 @@
                                     </ul>
                                 </div>
                             </div>
+                            <div class="clearfix visible-sm"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/mobirent.png" class="img-responsive" alt="">
