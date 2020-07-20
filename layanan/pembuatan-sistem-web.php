@@ -56,13 +56,13 @@
          content="LOGIQUE menyediakan layanan jasa pembuatan sistem web dengan teknologi terkini, perencanaan infrastruktur, sistem keamanan, dan kecepatan. Dalam pembuatan dan pengembangan sistem web ini, kami terus meningkatkan dan mengembangkan hasil yang didapat. Segera hubungi LOGIQUE.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
+   <!--  <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script> -->
     <title>Jasa Pembuatan Sistem Web | Pengembangan Sistem Web | LOGIQUE</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
+     <link href="/css/slick.css" rel="stylesheet">
      <link href="/css/style.css" rel="stylesheet">
-     <link href="assets/css/style-systemdev.css" rel="stylesheet">
-     <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
-     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+     <link href="assets/css/newstyle-systemdev.css" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&display=swap" rel="stylesheet">
      <script src="https://use.fontawesome.com/df558bb4a1.js"></script>
      <script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -76,27 +76,9 @@
 	</script>
  </head>
 
- <body>
-     <style>
-     .breadcrumb--update-design li.active a {
-         color: #f5f5f5;
-     }
-
-     .breadcrumb--update-design {
-         padding: 1em 15px;
-     }
-
-     @media only screen and (max-width: 414px) {
-         .content-wrapper__ .--top {
-             margin-top: 0 !important;
-         }
-
-         .breadcrumb--update-design li.active a {
-             color: #000;
-         }
-     }
-     </style>
-     <div>
+ <body class="systedev-page">
+ 
+     <div class="wrapper">
          <!-- NAVIGATION -->
          <div class="nav-lp">
              <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -186,9 +168,24 @@
          </div>
          <!-- END HEADER -->
      </div>
-     <header class="content-wrapper__ header">
-	    <div class="text-left --top">
-            <div class="container" style="padding:0">
+     <header class="content-wrapper__ header"> 
+         <div class="container__" style="position:relative">
+             <div class="row">
+                 <div class="col-md-offset-1 col-md-10 text-center bg-header-txt text-center">
+                     <h1 class="m-new">
+                         Jasa Pengembangan Sistem Berbasis Web<br>Profesional
+                     </h1>
+                     <h3 class="  m-new">
+                       <span class="logofont">LOGIQUE</span> adalah partner yang tepat untuk Anda, yang mampu memberikan jasa pembuatan sistem berbasis web terbaik yang berstandar internasional. Kami dapat membantu Anda untuk mengembangkan sistem berbasis web yang berkualitas dengan proses yang cepat serta
+harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekarang juga!</p>
+                     </h3>
+                     <a href="#" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
+                 </div>
+             </div>
+         </div>
+     </header>
+     <div class="breadcrumb-container">
+            <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
                         <ol class="breadcrumb breadcrumb--update-design" itemscope
@@ -210,861 +207,682 @@
                 </div>
             </div>
         </div>
-
-         <div class="container__" style="position:relative">
-             <div class="row">
-                 <div class="col-lg-offset-6 col-lg-6 col-sm-offset-6 col-sm-6 bg-header-txt">
-                     <h1 class="text-left m-new">
-                         Apakah anda membutuhkan layanan profesional dalam Pengembangan Sistem & Aplikasi? Jangan khawatir:
-                         Logique siap melayani!
-                     </h1>
-                     <h3 class="text-left m-new">
-                         Kami mengembangkan sistem IT dengan standar internasional, kualitas Jepang, serta kecepatan dan harga
-                         Indonesia.
-                     </h3>
-                 </div>
-             </div>
-         </div>
-     </header>
      
-     <section class="style-1 mb-1" style="padding-bottom: 0;padding-top:20px;">
-         <div class="container">
-             <div class="row">
-                 <div class="col-md-offset-1 col-md-10 text-center">
-                     <h3>
-                         LOGIQUE adalah sebuah perusahaan IT/pengembang website terkemuka yang melayani pelanggannya
-                         untuk memenuhi target bisnis melalui teknologi-teknologi web terkini.
-                         Kami dapat membangun sistem website dengan lebih cepat dan lebih efisien pada harga yang pantas.
-                     </h3>
-                 </div>
-             </div>
-         </div>
-     </section>
-     <section class="style-2">
-         <div class="container">
-             <div class="row">
-                 <div
-                     class="col-lg-offset-2 col-lg-10 col-md-offset-2 col-md-10 col-sm-offset-2 col-sm-10 col-xs-offset-2 col-xs-10 text-right">
-                     <div class="new5">
-                         <h2 class="sect-3-txt mb-1">Pengembangan Sistem dan Aplikasi Web LOGIQUE</h2>
-                         <hr class="gold-bar">
-                         <h2 class="sect-3-txt mt-2">
-                             Kami memiliki banyak pengalaman dalam pengembangan sistem untuk pasar Indonesia,
-                             dari pengembangan Enterprise System untuk otomotif, organisasi finansial & pemerintahan,
-                             sampai dengan pengembangan Agile untuk perusahaan startup.
-                         </h2>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </section>
-     <section class="style-3">
-         <div class="container">
-             <div class="row">
-                 <div class="col-md-3 justify-content-center">
-                     <h3 class="new1 clearfix">Pengembangan Sistem yang Cepat dan Fleksibel</h3>
-                     <img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
-                     <p class="new4">
-                         Kecepatan merupakan kunci utama pada era digital ini. Dengan menggunakan metode Agile, kami dapat
-                         mengembangkan sistem IT dengan cepat dan flexibel, tanpa mengurangi kualitas.
-                         Kami mengatur tim pengembangan kami berdasarkan kebutuhan Anda. Pengembangan tipe lab juga tersedia.
-                     </p>
-                 </div>
-                 <div class="col-md-3 justify-content-center">
-                     <h3 class="new1">Konstruksi Sistem yang Aman dan Berkualitas</h3>
-                     <img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
-                     <p class="new4">
-                         Kami merancang sistem berkualitas tinggi karena pengujian keamanan wajib dilakukan sebelum delivery.
-                         Kami dapat melakukan penetration testing seperti SQL injection, path traversal, dan x-site scripting
-                         untuk mengurangi risiko.
-                     </p>
-                     <a href="../layanan/penetration-testing" class="btn-contact-us-black-pent col-md-12" style="margin: 12px 0">Diagnosa Kelemahan
-                         Web</a>
-                 </div>
-                 <div class="col-md-3 justify-content-center">
-                     <h3 class="new1">Pengalaman luas tentang Pasar Indonesia</h3>
-                     <img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
-                     <p class="new4">
-                         Kami mengembangkan sistem untuk beragam klien Indonesia di sektor Otomotif, Keuangan & Pemerintah. Dengan
-                         pengalaman di bidang
-                         e-commerce, kami paham akan kebutuhan bisnis digital di Indonesia. Dengan demikian,
-                         kami dapat memenuhi setiap persyaratan khusus yang mungkin Anda miliki, dan memberikan konsultasi.
-                     </p>
-                 </div>
-                 <div class="col-md-3 justify-content-center">
-                     <h3 class="new1">Desain Infrastruktur Digital</h3>
-                     <img class="img img-responsive yellow-stripes" src="assets/img/img-systemdev/yellow-stripes.png" alt="">
-                     <p class="new4">
-                         Kami merancang dan membangun cloud server lokal dan internasional. Profil profesional kami antara lain:
-                         AWS, GCP dan Alibaba Cloud di Indonesia. Perlu dicatat bahwa pada era
-                         digital ini terdapat banyak migration yang telah berhasil diintegrasikan ke cloud.
-                     </p>
-                 </div>
-             </div>
-         </div>
-     </section>
-     <section class="supposedly-style4">
-         <div class="container">
-             <div class="row">
-                 <div class="container">
-                     <div class="row" style="display: flex; flex-wrap: wrap;">
-                         <div class="col-md-4">
-                             <h2 class="new7" style="font-weight: 500!important;">Mendukung Perusahaan Anda Melalui Pengembangan
-                                 Sistem dan Aplikasi Berdasarkan Permintaan.</h2>
-                             <br>
-                             <div class="justify-content-center">
-                                 <img src="assets/img/img-systemdev/laptop-img.png" alt="" class="img img-responsive">
-                             </div>
-                         </div>
-                         <div class="col-md-8">
-                             <div class="row">
-                                 <div class="col-md-12">
-                                     <h4 class="dark-gold-title">Pengembangan Berdasarkan Kontrak</h4>
-                                     <div>
-                                         <p class="h4">
-                                             Metode ini efektif untuk project dengan kebutuhan yang
-                                             jelas. Kami biasanya merekomendasikan untuk bekerja dengan Metode Pengembangan Agile
-                                             (Scrum).
-                                         </p>
-                                     </div>
-                                 </div>
-                             </div>
-                             <div class="row">
-                                 <div class="col-md-12">
-                                     <h4 class="dark-gold-title">
-                                         Pengembangan Outsourcing Tipe Lab (Biaya Berdasarkan Jumlah Hari Kerja)
-                                     </h4>
-                                     <div>
-                                         <p class="h4">
-                                             Efektif untuk situasi di mana kebutuhan / ruang lingkup pekerjaan
-                                             belum ditentukan, tetapi pekerjaan harus segera dimulai. Tipe ini juga
-                                             efektif untuk situasi di mana jangka waktu pengembangan harus bisa diubah
-                                             secara fleksibel di tengah-tengah pengerjaan.
-                                         </p>
-                                     </div>
-                                 </div>
-                             </div>
-                             <div class="row">
-                                 <div class="col-md-12">
-                                     <h4 class="dark-gold-title">Pengembangan dengan Tarif Tetap Bulanan</h4>
-                                     <div>
-                                         <p class="h4">
-                                             Dalam situasi ini, biaya bulanan sudah ditetapkan. Setiap
-                                             bulan kami bekerja sesuai dengan prioritas khusus yang sudah ditentukan dalam
-                                             jumlah hari kerja. Cocok untuk maintenance dan development project– di mana
-                                             umumnya dapat muncul ketidaksepakatan mengenai apakah biaya tambahan diperlukan
-                                             atau tidak. Pengaturan ini biasanya cocok digunakan karena
-                                             developer bekerja berdasarkan biaya bulanan yang telah ditentukan.
-                                         </p>
-                                     </div>
-                                 </div>
-                             </div>
-                             <div class="row">
-                                 <div class="col-md-12">
-                                     <h4 class="dark-gold-title">Pengembangan di Tempat (Pengiriman Pengembang)</h4>
-                                     <div>
-                                         <p class="h4">
-                                             Melalui perusahaan yang berafiliasi dengan LOGIQUE, kami
-                                             bisa mengirimkan developer, designer, dan tester (dan spesialis lainnya) ke
-                                             lokasi Anda, sehingga mereka bisa bekerja dengan tim Anda di tempat.
-                                         </p>
-                                     </div>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </section>
-     <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
-     <section class="style-4">
-         <div class="container">
-             <div class="row">
-                 <div class="col-md-offset-4 col-md-4 text-center">
-                     <div class="box-1">Studi Kasus</div>
-                 </div>
-                 <div class="col-md-offset-5 col-md-7">
-                     <div class="card">
+    <section class="content-section first-part">
+        <div class="container">
+            <div class="section-desc">
+                <div class="row">
+                    <div class="ol-md-12 text-center">
+                     <span class="logofont">LOGIQUE</span> which is committed to continuing to grow and follow trends in search engine optimization is able to become your business partner and is ready to increase significant business growth from brand development to sales acquisition.
+                    </div>
+                </div>
+            </div>
+            <div class="sec-content-part whyour-systemdev">
+                <h2 class="sub-section-title text-center">Pengembangan Sistem Berbasis Web di LOGIQUE</h2>
+                <div class="page-content">
+                    <ul class="nav nav-pills">
+                        <li class="active"><a data-toggle="pill" href="#fast">Cepat dan Fleksibel</a></li>
+                        <li><a  data-toggle="pill" href="#save">Aman dan Berkualitas</a></li>
+                        <li><a  data-toggle="pill" href="#expert">Berpengalaman</a></li>
+                        <li><a  data-toggle="pill" href="#infra">Meliputi infrastruktur</a></li>
+                    </ul>
+                    <div class="tab-content">
+                      <div id="fast" class="tab-pane fade in active">
                          <div class="row">
-                             <div class="col-md-offset-1 col-md-10 m-t-10">
-                                 <h4><b>JBA Indonesia | Sistem Manajemen Lelang</b></h4>
-                                 <p>
-                                     JBA adalah perusahaan lelang mobil & motor terbesar di Indonesia.
-                                     Kami telah membantu berbagai proyek pengembangan sistem, seperti pembuatan web & aplikasi,
-                                     sistem lelang, aplikasi penawaran, lelang online, pemeriksaan aplikasi seluler, sistem
-                                     keuangan, dan sebagainya.
-                                     Sebagai sistem yang mempunyai fungsi penting, sistem yang kami kembangkan haruslah terbebas
-                                     dari kesalahan, meskipun demikian kami sudah sangat berpengalaman untuk menyelesaikan proyek
-                                     dalam waktu yang cepat.
-                                     Kami mempunyai pertemuan rutin dan secara konsisten selalu meningkatkan performa sistem.
-                                 </p>
-                             </div>
+                            <div class="col-sm-6">
+                                <p>Dalam proses pengembangan website, kami berpegang pada metode agile developement yang fleksibel dan cepat. Tim developer kami dapat beradaptasi dengan cepat terhadap perubahan agar sistem yang dikembangkan tetap berkualitas serta sesuai dengan kebutuhan yang dinamis.</p>
+                            </div>
+                            <div class="col-sm-6 text-center">
+                                <img src="pembuatan-sistem-web/img/newlayout/laptop.jpg">
+                            </div>
                          </div>
-                         <div class="row">
-                             <div class="box-2">Teknologi Utama: PHP, NodeJS, SocketIO, Android Native</div>
-                         </div>
-                     </div>
-                     <div class="text-center btn-container-contact">
-                         <a href="../case-study/jba-auction-system/" class="btn btn-contact-us-black">
-                             Lihat lebih detail
-                         </a>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </section>
-     <section class="other-stydycase section-style">
-         <div class="container">
-             <div class="row">
-                 <div class="col-md-4 col-sm-12">
-                     <div class="osc-item">
-                         <div class="">
-                             <img src="assets/img/img-systemdev/logo-caroline.png" alt="Logo Caroline" class="img img-responsive">
-                         </div>
-                         <h4>Perkembangan yang cepat</h4>
-                         <div class="osc-desc">
-                             Membangun sebuah sistem bisnis inti mulai dari awal hanya dalam waktu tiga bulan.
-                             Kami membuat situs website untuk jual beli mobil bekas secara online.
-                             <a href="../case-study/caroline-bidding-system/">
-                                 Lihat lebih detail
-                             </a>
-                         </div>
-                         <div class="osc-worktodo">
-                             Caroline-id.com, Konstruksi Situs Website jual beli online, penjualan mobil bekas. Teknologi Utama:
-                             PHP, Laravel, HTML5
-                         </div>
-                     </div>
-                 </div>
-                 <div class="col-md-4 col-sm-12">
-                     <div class="osc-item">
-                         <div class="">
-                             <img src="assets/img/img-systemdev/logo-zutto.png" alt="Logo Zutto" class="img img-responsive">
-                         </div>
-                         <h4>Sistem peningkatan PDCA jangka panjang</h4>
-                         <div class="osc-desc">
-                             Selama sekitar 5 tahun, sistem manajemen pelanggan (CRM) ZuttoRide telah dikembangkan dari awal
-                             menggunakan metode siklus PDCA.
-                             Saat ini, pembangunan sistem telah memasuki fase penyempurnaan ke-14.
-                             <a href="../case-study/zuttoride-customer-management-system/">
-                                 Lihat lebih detail
-                             </a>
-                         </div>
-                         <div class="osc-worktodo">
-                             ZuttoRide Indonesia, Sistem Manajemen Pelanggan (CRM), Layanan Service Sepeda Motor, Asuransi Sepeda
-                             Motor. Teknologi Utama: PHP, CakePHP, HTML5
-                         </div>
-                     </div>
-                 </div>
-                 <div class="col-md-4 col-sm-12">
-                     <div class="osc-item">
-                         <div class="">
-                             <img src="assets/img/img-systemdev/logo-vip.png" alt="Logo VIP Plaza" class="img img-responsive">
-                         </div>
-                         <h4>Membangun kembali situs e-Commerce dengan PWA</h4>
-                         <div class="osc-desc">
-                             Kami juga membangun ulang situs E-Commerce menggunakan metode PWA system.
-                             Hal ini berhasil mengarahkan pengguna untuk berkunjung secara langsung dan membeli akibat penggunaan
-                             UI yang dinamis.
-                             Didukung dengan penggunaan metode resource-based agile development.
-                             <a href="../case-study/vip-plaza-progressive-web-app/">
-                                 Lihat lebih detail
-                             </a>
-                         </div>
-                         <div class="osc-worktodo">
-                             https://m.vipplaza.co.id/ e-Commerce website construction, e-Commerce Indonesia. Teknologi Utama:
-                             PWA, NodeJS, ReactJS
-                         </div>
-                     </div>
-                 </div>
-             </div>
-             <div class="list-study-container">
-                 <h3>Pencapaian Pengembangan Sistem Kami Lainnya</h3>
-                 <ul class="circle-list">
-                     <li>
-                         Manajemen Poin Bermanfaat & Pengembangan Sistem E-Commerce.<br>
-                         <small class="text-muted">6 bulan, AWS, Linux, MySQL, PHP Framework |
-                             <a data-toggle="modal" data-target="#pop1" href="#">Lihat lebih detail</a>
-                         </small>
-                     </li>
-                     <!-- modal 1 -->
-                     <div id="pop1" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Manajemen Poin Bermanfaat & Pengembangan Sistem E-Commerce.</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Merupakan sistem berbasis web yang digunakan untuk menyelenggarakan program poin insentif
-                                         bagi karyawan perusahaan client mereka.
-                                         Sistem ini terdiri dari beberapa sub sistem yang terintegrasi, yaitu: sistem pemasok
-                                         (supplier), sistem pengguna (users), dan admin penyedia jasa.
-                                     </p>
-                                     <p class="p-padding-v-5-modal">
-                                         Pengembangan sistem ini memakan waktu selama 6 bulan.
-                                         Mengusung platform PHP dengan framework pilihan, database MySQL, dan hosting pada Linux
-                                         server pada layanan cloud AWS, sistem ini terbukti telah mengakomodir kebutuhan bisnis
-                                         program insentif point bagi karyawan perusahaan.
-                                     </p>
-                                     <p class="p-padding-v-5-modal">
-                                         Agar menghasilkan sistem dengan performa dan stabilitas tinggi, kami melakukan
-                                         pengembangan dengan pendekatan efisiensi pada layer aplikasi dan layer database.
-                                         Kemudian pada sisi infrastruktur server, kami telah menerapkan arsitektur server modern
-                                         dan memanfaatkan fitur autoscaling dan loadbalancing dari AWS.
-                                         Dengan begitu, meskipun saat ini sudah mendapat lebih dari 10.000 pengguna aktif yang
-                                         tersebar di 3 sub sistem, performa sistem tetap stabil dan terjaga.
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Pengembangan E-Commerce untuk Perusahaan MLM.<br>
-                         <small class="text-muted">6 bulan, AWS, Linux, MySQL, PHP Framework |
-                             <a data-toggle="modal" data-target="#pop2" href="#">Lihat lebih detail</a>
-                         </small>
-                     </li>
-                     <!-- modal 2 -->
-                     <div id="pop2" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Pengembangan E-Commerce untuk Perusahaan MLM.</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Sistem e-commerce MLM dengan teknologi berbasis web.
-                                         Terdiri dari 3 modul, yaitu: modul pengelolaan oleh admin, modul distributor, dan modul
-                                         customer.
-                                         Sistem ini sudah dilengkapi dengan fitur perhitungan ongkos kirim, perhitungan margin
-                                         keuntungan distributor, manajemen saldo distributor dan user, pendaftaran online, uang
-                                         elektronik (e-money), serta pembelian pulsa secara online.
-                                         Dengan dukungan integrasi dengan layanan payment gateway, customer dapat melakukan
-                                         transaksi dengan kartu kredit dan virtual account.
-                                         Sistem ini tergolong cukup kompleks.
-                                         Serangkaian proses pengembangan memakan waktu selama 6 bulan.
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Sistem Pengembangan Manajemen Lelang Kendaraan.<br>
-                         <small class="text-muted">6 bulan, AWS, Linux, MySQL, PHP Framework, Node.js |
-                             <a data-toggle="modal" data-target="#pop3" href="#">Lihat lebih detail</a>
-                         </small>
-                     </li>
-                     <!-- modal 3 -->
-                     <div id="pop3" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Sistem Pengembangan Manajemen Lelang Kendaraan.</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Merupakan sistem lelang otomotif dengan tingkat kompleksitas tinggi.
-                                         Terdiri dari sistem lelang online terintegrasi, sistem manajemen stok inventaris objek
-                                         lelang, sistem keuangan, serta terintegrasi dengan sistem inspeksi kendaraan dan aplikasi
-                                         bidding mobile.
-                                         Sistem ini terintegrasi dengan core system dan sistem pendukung lainnya, sehingga
-                                         customer dapat menikmati pengalaman mengikuti lelang secara realtime, baik melalui
-                                         browser desktop maupun via mobile apps.
-                                     </p>
-                                     <p class="p-padding-v-5-modal">
-                                         Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, terintegrasi dengan
-                                         teknologi node.js, serta menggunakan database MySQL.
-                                         Dengan metode manajemen proyek yang efektif, kami berhasil mengembangkan aplikasi ini
-                                         dalam waktu 6 bulan.
-                                         Performa sistem ini cukup kritikal.
-                                         Dengan desain arsitektur aplikasi yang baik, serta rancangan arsitektur server tingkat
-                                         lanjut, performa sistem ini terbilang sangat stabil, meskipun aktivitas user pada sistem
-                                         ini sudah sangat aktif.
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Pengembangan Aplikasi Mobile (Android Penawaran Lelang).<br>
-                         <small class="text-muted">2 bulan, Android, node.js, JAVA, AWS |
-                             <a data-toggle="modal" data-target="#pop4" href="#">Lihat lebih detail</a>
-                         </small>
-                     </li>
-                     <!-- modal 4 -->
-                     <div id="pop4" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Pengembangan Aplikasi Mobile (Android Penawaran Lelang).</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Aplikasi berbasis android yang kami rancang untuk memudahkan customer dalam mengikuti
-                                         lelang online secara realtime.
-                                         Integrasi platform android dengan node.js, serta desain UI/UX yang baik, menghadirkan
-                                         pengalaman seperti mengikuti lelang secara langsung di lokasi balai lelang.
-                                         Dengan dukungan design API berperforma tinggi, dan hosting server berplatform Linux,
-                                         serta arsitektur server yang telah mengadopsi fitur autoscaling dan loadbalancing dari
-                                         AWS, maka performa aplikasi bidding ini tidak diragukan lagi.
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).<br>
-                         <small class="text-muted">4 bulan, Android, node.js, JAVA, AWS |
-                             <a data-toggle="modal" data-target="#pop5" href="#">Lihat lebih detail</a>
-                         </small>
-                     </li>
-                     <!-- modal 5 -->
-                     <div id="pop5" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Merupakan aplikasi berbasis android yang digunakan untuk kegiatan inspeksi kendaraan yang
-                                         akan dilelangkan.
-                                         Lebih dari 900 part kendaraan telah diperiksa melalui aplikasi inspeksi ini.
-                                         Dengan aplikasi ini, proses pemeriksaan dan pencatatan hasil inspeksi dapat dilakukan
-                                         dengan sangat efisien.
-                                         Hasil inspeksi langsung tersimpan ke dalam core system secara realtime.
-                                     </p>
-                                     <p class="p-padding-v-5-modal">
-                                         Dengan design UI/UX yang baik, pengguna aplikasi ini dapat dengan mudah melakukan proses
-                                         inspeksi, meskipun melibatkan sangat banyak part kendaraan.
-                                         Dari sisi performa, aplikasi ini sangat stabil.
-                                         Selain karena android API dirancang dengan pendekatan performa yang baik, sistem ini juga
-                                         didukung oleh desain arsitektur server yang baik dan telah memanfaatkan fitur autoscaling
-                                         dan loadbalancing dari AWS.
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Sistem CRM untuk Pelayanan Jalan Kendaraan Bermotor.<br>
-                         <small class="text-muted">3 bulan, PHP Framework, Payment Gateway, AWS |
-                             <a data-toggle="modal" data-target="#pop6" href="#">Lihat lebih detail</a>
-                         </small>
-                     </li>
-                     <!-- modal 6 -->
-                     <div id="pop6" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Sistem CRM untuk Pelayanan Jalan Kendaraan Bermotor.</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Merupakan sistem CRM untuk asuransi motor.
-                                         Dengan sistem ini, tim admin dapat dengan mudah mengelola data customer, mengelola
-                                         perpanjangan periode asuransi, mengelola pembayaran polis, mengelola dealer partner,
-                                         mengelola harga polis, serta mengelola data klaim asuransi dari customer.
-                                         Sementara bagi customer, sistem ini memberikan kemudahan dalam hal permintaan
-                                         perpanjangan asuransi, serta perencanaan asuransi dengan melakukan simulasi harga premi
-                                         berdasarkan harga kendaraan.
-                                     </p>
-                                     <p class="p-padding-v-5-modal">
-                                         Sistem ini dibangun dengan teknologi PHP dengan platform pilihan, HTML-CSS3, Javascript,
-                                         JQuery/Ajax, serta database MySQL.
-                                         Sistem ini sudah terintegrasi dengan layanan payment gateway dari penyedia layanan
-                                         terkemuka, sehingga memudahkan customer dalam bertransaksi dengan menggunakan kartu
-                                         kredit dan uang elektronik.
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Sistem CRM untuk Pembeli Lelang.<br>
-                         <small class="text-muted">2 bulan, PHP Framework, MySQL, AWS |
-                             <a data-toggle="modal" data-target="#pop7" href="#">Lihat lebih detail</a>
-                         </small>
-                     </li>
-                     <!-- modal 7 -->
-                     <div id="pop7" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Sistem CRM untuk Pembeli Lelang.</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Merupakan sistem CRM bagi customer perusahaan lelang, di mana customer dapat melakukan
-                                         pengecekan tagihan, mendapatkan informasi penting seperti riwayat keikursertaan lelang,
-                                         serta mengelola point reward yang mereka dapatkan dari transaksi pembelian yang telah
-                                         dilakukan.
-                                         Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, serta menggunakan
-                                         database MySQL.
-                                         Customer bisa mendapatkan informasi yang dibutuhkan secara realtime, karena sistem ini
-                                         terkoneksi dengan core system melalui secured-API.
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah.<br>
-                         <small class="text-muted">2.5 bulan, JQuery, HTML5, PHP Framework, MySQL |
-                             <a data-toggle="modal" data-target="#pop8" href="#">Lihat lebih detail</a>
-                         </small>
-                     </li>
-                     <!-- modal 8 -->
-                     <div id="pop8" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah.</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Merupakan sistem layout management berbasis web yang digunakan untuk mengatur tata letak
-                                         kolom iklan untuk media cetak dari publisher terkemuka asal Jepang.
-                                         Dengan dukungan desain UI/UX yang baik, aplikasi web ini sangat mudah digunakan
-                                         (user-friendly).
-                                         Dengan fitur drag-and-drop, user dapat mengatur tata letak iklan sesuai keinginan.
-                                         Sistem ini juga memiliki fitur export dan import pengaturan tata letak dalam bentuk file
-                                         csv.
-                                         Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan, JQuery, serta
-                                         HTML5-CSS3. Proses pengembagan aplikasi web ini membutuhkan waktu 3 bulan.
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.<br>
-                         <small class="text-muted">2.5 bulan, JQuery, HTML5, PHP Framework, MySQL |
-                             <a data-toggle="modal" data-target="#pop9" href="#">Lihat lebih detail</a>
-                         </small>
-                     </li>
-                     <!-- modal 9 -->
-                     <div id="pop9" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Merupakan sistem marketplace mobil yang digunakan oleh banyak dealer mobil bekas baik di
-                                         Jakarta maupun luar Jakarta.
-                                         Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan dan berjalan pada
-                                         platform Linux pada AWS server.
-                                         Proses pengembangan aplikasi marketplace berbasis web ini membutuhkan waktu selama 3
-                                         bulan.
-                                     </p>
-                                     <p class="p-padding-v-5-modal">
-                                         Respon pengguna layanan ini terus meningkat dari waktu ke waktu.
-                                         Saat ini sistem ini sudah melayani lebih dari 30.000 pengunjung setiap harinya.
-                                         Meskipun traffic-nya cukup padat, sistem ini masih sangat stabil.
-                                         Selain teknologi berbasis web, sistem ini juga terintegrasi dengan mobile apps berbasis
-                                         Android (Native) dan IOS (Swift).
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Pengembangan Sistem Peta Digital.<br>
-                         <small class="text-muted">3 bulan, PHP Framework, MySQL, Google map API, Java Script |
-                             <a data-toggle="modal" data-target="#pop10" href="#">Lihat lebih detail</a>
-                         </small>
-                     </li>
-                     <!-- modal 10 -->
-                     <div id="pop10" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Pengembangan sistem peta digital.</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Pengembangan sistem peta digital.
-                                         Sistem yang digunakan untuk pemetaan kemajuan suatu proyek yang dilaksanakan di
-                                         negara-negara ASEAN.
-                                         Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan, Google Maps API,
-                                         HTML5-CSS3, serta database MySQL.
-                                         Proses pengembangan sistem ini membutuhkan waktu selama 3 bulan.
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Pengembangan Sistem Lelang C2C.<br>
-                         <small class="text-muted">2 bulan, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 |
-                             <a data-toggle="modal" data-target="#pop11" href="#">Lihat lebih detail</a>
-                         </small>
-                     </li>
-                     <!-- modal 11 -->
-                     <div id="pop11" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Pengembangan Sistem Lelang C2C.</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Merupakan sistem lelang C2C.
-                                         Terdapat sekitar 2.000 kendaraan yang dilelangkan dan terbagi dalam 4 lelang, dan diikuti
-                                         sekitar 300 user setiap bulannya.
-                                         Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan, JQuery / Ajax,
-                                         HTML5-CSS3, serta database MySQL.
-                                         Pengembangan sistem ini membutuhkan waktu selama 2 bulan.
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Pengembangan Sistem Web CMS Untuk Organisasi Publik.<br>
-                         <small class="text-muted">2 bulan, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop12"
-                                 href="#">Lihat lebih detail</a></small>
-                     </li>
-                     <!-- modal 12 -->
-                     <div id="pop12" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Pengembangan Sistem Web CMS Untuk Organisasi Publik.</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Sistem web CMS untuk organisasi publik: sistem ini dikembangkan untuk mengelola konten
-                                         website organisasi publik.
-                                         Dengan sistem ini seorang admin web dapat dengan mudah mengelola konten website tersebut.
-                                         Sistem web CMS ini dikembangkan dengan teknologi PHP dengan framework pilihan,
-                                         HTML5-CSS3, javascript, JQuery, dan database MySQL.
-                                         Proses pengembangan web CMS ini membutuhkan waktu selama 2 bulan.
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Pengembangan web CMS untuk e-book commerce.<br>
-                         <small class="text-muted">2 bulan, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal"
-                                 data-target="#pop13" href="#">Lihat lebih detail</a></small>
-                     </li>
-                     <!-- modal 13 -->
-                     <div id="pop13" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Pengembangan web CMS untuk e-book commerce.</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Merupakan sistem CMS yang digunakan oleh sebuah distributor buku asal Jepang.
-                                         Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan, HTML5-CSS3, serta
-                                         database MySQL.
-                                         Dengan web CMS ini, administrator website dapat dengan mudah mengelola konten website
-                                         perusahaan.
-                                         Pengembangan web CMS ini memerlukan waktu selama 2 bulan.
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Sistem Portal Lowongan Pekerjaan.<br>
-                         <small class="text-muted">2 bulan, PHP Framework, MySQL | <a data-toggle="modal" data-target="#pop14"
-                                 href="#">Lihat lebih detail</a></small>
-                     </li>
-                     <!-- modal 14 -->
-                     <div id="pop14" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Sistem Portal Lowongan Pekerjaan.</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Merupakan sistem portal lowongan pekerjaan yang dibangun dengan teknologi PHP,
-                                         HTML5-CSS3, serta database MySQL.
-                                         Portal lowongan pekerjaan ini dihosting di Linux server AWS.
-                                         Perusahaan bisa mencari dan menemukan pencari kerja dan pencari kerja dapat melihat
-                                         pekerjaan kosong dan terbuka di situs web.
-                                         Calon bisa mengajukan CV untuk posisi secara langsung.
-                                         Persentase pengguna layanan ini adalah mayoritas perusahaan Jepang yang ada di Indonesia.
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Web Dengan Sistem Rekrutmen.<br>
-                         <small class="text-muted">3 bulan, PHP Framework, HTML5/CSS3,MySQL | <a data-toggle="modal"
-                                 data-target="#pop15" href="#">Lihat lebih detail</a></small>
-                     </li>
-                     <!-- modal 15 -->
-                     <div id="pop15" class="modal fade" role="dialog">
-                         <div class="modal-dialog">
-                             <div class="modal-content">
-                                 <div class="modal-body">
-                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                     <h4>Web Dengan Sistem Rekrutmen.</h4>
-                                     <hr>
-                                     <p class="p-padding-v-5-modal">
-                                         Merupakan corporate website yang dilengkapi dengan sistem rekrutmen.
-                                         Para pencari kerja yang berminat bekerja di perusahan ini dapat melamar langsung melalui
-                                         website. Dengan tingkat keamanan yang tinggi, kerahasiaan data para pelamar lebih
-                                         terjamin.
-                                         Sistem ini dibangun dengan teknologi PHP, dan menggunakan framework pilihan, HTML5-CSS3,
-                                         serta database Ms. SQL Server.
-                                         Proses pengembangan membutuhkan waktu 3 bulan.
-                                     </p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <li>
-                         Sistem Management Kendaraan untuk perusahaan sewa mobil.<br>
-                         <small class="text-muted">6 Months, AWS, Linux, MySQL, SAP Connection, PHP Framework</small>
-                     </li>
-                     <!-- modal 16 -->
-                     <!-- <div id="pop16" class="modal fade" role="dialog">
-								<div class="modal-dialog">
-									<div class="modal-content">
-										<div class="modal-body">
-											<button type="button" class="close" data-dismiss="modal">&times;</button>
-											<h4>Hiring (recruitment) Management System.</h4><hr>
-											<p class="p-padding-v-5-modal">
-												Corporate website equipped with a recruitment system.
-												Job seekers who are interested in working at this company can apply directly through the website.
-												With a high level of security, the confidentiality of the applicant's data is more assured.
-												The system is built with PHP technology, and uses the chosen frameworks, HTML5-CSS3, as well as the Ms.
-												SQL Server database. The development process takes 3 months.
-											</p>
-										</div>
-									</div>
-								</div>
-							</div> -->
-                 </ul>
-             </div>
-         </div>
-     </section>
-     <section class="style-6">
-         <div class="container">
-             <div class="row">
-                 <div class="col-md-5">
-                     <h2 class="new6"><span class="underline2">Client</span><br>Testimonial</h2>
-                 </div>
-                 <div class="col-md-7">
-                     <div class="row">
-                         <div class="col-md-12">
-                             <ol class="ol-position">
-                                 <li class="new3 h4 mb-1">
-                                     <h4 class="mt-2">
-                                         Sebagai kepala Departemen IT, saya telah mengelola banyak project pengembangan sistem.
-                                         Sejauh ini, tidak ada perusahaan lain sefleksibel dan semampu LOGIQUE. Meskipun sering
-                                         terjadi permintaan perubahaan dari user yang tidak bisa dihindari, saya sangat puas
-                                         dengan kemampuan cepat tanggap LOGIQUE untuk menghasilkan produk digital berkualitas
-                                         tinggi. Saya juga pernah menggunakan jasa sistem desain dan layanan maintenance, dan saya
-                                         berterima kasih atas respon akurat dan tepat waktu dari LOGIQUE.
-                                     </h4>
-                                 </li>
-                                 <li class="new3 h4 mb-1">
-                                     <h4 class="mt-2">
-                                         Sejak pemutusan kontrak dengan perusahaan pengembang sistem sebelumnya, LOGIQUE telah
-                                         mengambil alih pertumbuhan dan pemeliharaan infrastruktur IT kami. Saya berterima kasih
-                                         atas fleksibilitas dan efektivitas kerja yang dilakukan LOGIQUE dengan mengambil
-                                         inisiatif untuk meningkatkan sistem digital kami; termasuk menunjukkan berbagai masalah
-                                         yang tidak kami sadari sebelumnya.
-                                     </h4>
-                                 </li>
-                                 <li class="new3 h4 mb-1">
-                                     <h4 class="mt-2">
-                                         Sepanjang kesepakatan tarif tetap bulanan yang sedang berjalan saat ini, LOGIQUE telah
-                                         melakukan pekerjaan dengan sangat cepat dan efisien. Kami teramat senang dengan usaha
-                                         LOGIQUE yang telah menghasilkan produk berkualitas tinggi yang hemat biaya. Selama
-                                         pengembangan project besar kami, saya ingin menerapkan metode development Tipe Lab yang
-                                         ditawarkan.
-                                     </h4>
-                                 </li>
-                             </ol>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </section>
-     <section class="style-7">
-         <div class="row">
-             <div class="container">
-                 <div class="row" style="display: flex; flex-wrap: wrap;">
-                     <div class="col-md-4">
-                         <div class="justify-content-center">
-                             <img src="assets/img/img-systemdev/key.png" alt="" class="img img-responsive">
-                         </div>
-                     </div>
-                     <div class="col-md-8">
-                         <div class="row">
-                             <div class="col-md-12 mb-1">
-                                 <h2 class="new2">Poin Utama Untuk Keberhasilan Pengembangan Sistem Web</h2>
-                                 <h4>
-                                     LOGIQUE selalu memberikan layanan yang optimal dengan memprioritaskan kualitas terbaik bagi
-                                     seluruh klien kami.
-                                     Hal ini dikarenakan LOGIQUE mempunyai 3 poin kunci yang merupakan esensi utama dalam
-                                     keberhasilan suatu proyek.
-                                 </h4>
-                             </div>
-                         </div>
-                         <div class="row">
-                             <div class="col-md-12 mb-1">
-                                 <h4 class="bold">Pengalaman</h4>
-                                 <h4 class="">
-                                     LOGIQUE telah menangani lebih dari 200 proyek dari berbagai bidang industri di Indonesia.
-                                     Pengalaman ini berlaku untuk setiap proses, seperti penjadwalan, penentuan kebutuhan, desain
-                                     infrastruktur, penyebaran, serta pelatihan pengguna.
-                                 </h4>
-                             </div>
-                         </div>
-                         <div class="row">
-                             <div class="col-md-12 mb-1">
-                                 <h4 class="bold">Kecepatan dan Fleksibilitas</h4>
-                                 <h4 class="">
-                                     Bisnis berkembang semakin cepat.
-                                     Jika untuk mengembangkan suatu sistem membutuhkan waktu selama 6 bulan atau 1 tahun, maka
-                                     bisnis tidak akan berkembang karena tidak mengikuti perubahan yang terjadi.
-                                     LOGIQUE mengutamakan kecepatan.
-                                     Memang proses kesepakatan membutuhkan waktu, namun akan membuat Anda selangkah lebih maju
-                                     dibandingkan kompetitor Anda.
-                                 </h4>
-                             </div>
-                         </div>
-                         <div class="row">
-                             <div class="col-md-12 mb-1">
-                                 <h4 class="bold">Kualitas & Keamanan</h4>
-                                 <h4 class="">
-                                     Dengan proses pengerjaan yang sangat cepat, kualitas tetap tidak boleh dikorbankan.
-                                     Jika terdapat sedikit masalah, maka pemrograman akan mendapatkan maintenance sesuai dengan
-                                     standar pengembangan.
-                                     Kami akan memastikan bahwa sistem yang kami kembangkan akan kami serahkan setelah
-                                     meminimalkan risiko kerentanan keamanan yang mungkin terjadi.
-                                 </h4>
-                             </div>
-                         </div>
-                     </div>
-                     <div class="col-md-12">
-                         <div class="text-center btn-container-contact">
-                             <a href="/hubungi-kami.php" class="btn btn-contact-us-black">
-                                 Anda butuh pengembangan dan pengoperasian sistem? Jangan pernah ragu untuk menghubungi kami!
-                             </a>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </section>
+                      </div>
+                      <div id="save" class="tab-pane fade">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <p>Semua website kami kembangkan dengan sistem keamanan tinggi. Kami akan melakukan sejumlah pengujian keamanan sebelum sistem diserahkan ke klien. Kami juga melakukan penetration testing untuk mengurangi risiko serangan cyber seperti SQL injection, path traversal, dan x-site scripting.</p>
+                                <a href="#" class="btn-yellow">Pelajari Layanan Pentration Testing</a>
 
+                            </div>
+                            <div class="col-sm-6 text-center">
+                                <img src="pembuatan-sistem-web/img/newlayout/laptop.jpg">
+                            </div>
+                         </div>
+                      </div>
+                      <div id="expert" class="tab-pane fade">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <p>Kami berpengalaman dalam memberikan jasa pembuatan sistem berbasis web untuk banyak klien internasional dan lokal berskala besar khususnya dalam industri otomotif, lelang, dan e-commerce. Adapun industri lainnya yang kami bantu termasuk asuransi, finansial, pariwisata, manufaktur, dan startup-startup digital. Dengan pengalaman tersebut, kami dengan cepat memahami kebutuhan bisnis dan memberikan solusi terbaik untuk Anda. </p>
+                            </div>
+                            <div class="col-sm-6 text-center">
+                                <img src="pembuatan-sistem-web/img/newlayout/laptop.jpg">
+                            </div>
+                         </div>
+                      </div>
+                      <div id="infra" class="tab-pane fade">
+                       <div class="row">
+                            <div class="col-sm-6">
+                                <p>Kami dapat membantu Anda membangun dan merancang arsitektur server berbasis cloud di Indonesia dan luar negeri. Kami merupakan partner resmi dari AWS dan berpengalaman dalam konstruksi server cloud untuk AWS, GCP, serta Alibaba. Di era digital seperti saat ini, kami juga telah berhasil melakukan banyak migrasi sistem dan database dari server lokal ke dalam server cloud</p>
+                            </div>
+                            <div class="col-sm-6 text-center">
+                                <img src="pembuatan-sistem-web/img/newlayout/laptop.jpg">
+                            </div>
+                         </div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="sec-content-part  service-opt">
+                <h2 class="sub-section-title text-center">Kami Memiliki Pilihan Layanan Pembuatan Sistem Berbasis Web <br>yang Sesuai dengan Kebutuhan Anda</h2>
+                <div class="page-content skema-list">
+                    <div class="row rowflex">
+                        <div class="col-sm-6">
+                            <div class="skema-content">
+                                <h3><span class="number">1.</span> Skema Proyek</h3>
+                                <p>Proses pengembangan website akan berjalan sesuai dengan kontrak yang telah disepakati. Tipe ini sesuai untuk proyek pengembangan website dengan kebutuhan yang sudah jelas. Biasanya kami akan merekomendasikan metode Agile Development dalam pengerjaannya.</p>
+                            </div>
+                        </div> 
+                        <div class="col-sm-6">
+                            <div class="skema-img">
+                                <img src="pembuatan-sistem-web/img/newlayout/skemaproyek.png">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row rowflex">
+                        <div class="col-sm-6">
+                            <div class="skema-img">
+                                <img src="pembuatan-sistem-web/img/newlayout/skemaresources.png">
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="skema-content">
+                            <h3><span class="number">2.</span> Skema Berbasis Resource</h3>
+                            <p>PTipe ini dapat dipilih jika Anda ingin segera menjalankan proses pengembangan sistem namun work space, konsep, atau kebutuhan lain yang diperlukan masih belum ditetapkan. Anda dapat memulai dengan menyewa Business Analyst yang dilanjutkan dengan Designer dan Developer selama proses pengembangan sistem berbasis web.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row rowflex">
+                        <div class="col-sm-6">
+                            <div class="skema-content">
+                            <h3><span class="number">3.</span> Skema Pengembangan dengan Tarif Tetap</h3>
+                            <p>Setiap bulannya kami akan mengerjakan task prioritas sesuai dengan jumlah hari kerja yang telah ditentukan. Tipe pengembangan ini sesuai untuk proyek maintenance (pemeliharaan website/sistem) atau proyek pengembangan lanjutan untuk sistem yang sudah berjalan.</p>
+                            </div>
+                        </div> 
+                        <div class="col-sm-6">
+                             <div class="skema-img">
+                                <img src="pembuatan-sistem-web/img/newlayout/skemapengembangan.png">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row rowflex">
+                        <div class="col-sm-6">
+                            <div class="skema-img">
+                                <img src="pembuatan-sistem-web/img/newlayout/skemaoutsource.png">
+                            </div>
+                        </div> 
+                        <div class="col-sm-6">
+                            <div class="skema-content">
+                            <h3><span class="number">4.</span> Skema Outsource</h3>
+                            <p>Kami juga dapat memberikan layanan outsource untuk Developer, Designer, atau Tester  yang dapat bekerja langsung di tempat Anda jika perusahaan Anda memiliki kebutuhan khusus.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </section>
+    <section class="content-section second-part whyus-section">
+        <div class="container">
+            <div class="sec-content-part">
+                <h2 class="text-center sub-section-title">Mengapa harus memilih LOGIQUE ?</h2>
+                <div class="page-content whyus-accordion">
+                    <div class="panel-group" id="accordion">
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                          <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#proteam" class="actives">
+                            <span class="number">1.</span>
+                            Memiliki tim profesional</a>
+                          </h4>
+                        </div>
+                        <div id="proteam" class="panel-collapse collapse in">
+                          <div class="panel-body">Untuk menghasilkan kinerja terbaik, kami membentuk tim dengan kemampuan dan keterampilan tinggi pada masing-masing bidang. Sampai bulan Juni 2020, kami memiliki lebih dari 60 karyawan yang terdiri dari developer, software tester, security specialist, designer, SEO, content writer, social media specialist, dan staff digital marketing. Tim kami akan bekerja sama untuk memberikan hasil yang terbaik untuk Anda. Sebagian besar proyek yang kami tangani dikerjakan tanpa outsourcing, namun jika memang diperlukan kami dapat bekerja sama dengan spesialis dari pihak ketiga.</div>
+                        </div>
+                      </div>
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                          <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#komunikatif">
+                            <span class="number">2.</span> Tim yang komunikatif dan mudah dijangkau</a>
+                          </h4>
+                        </div>
+                        <div id="komunikatif" class="panel-collapse collapse">
+                          <div class="panel-body">Tim konsultan kami bertanggung jawab untuk selalu berkomunikasi dengan manager proyek Anda. Kami akan mendalami apa yang menjadi kebutuhan bisnis Anda sehingga solusi yang kami berikan dapat sesuai dan tepat sasaran. Anda tidak perlu khawatir dengan istilah-istiah teknis yang rumit karena kami akan menjelaskannya secara sederhana sampai Anda benar-benar memahaminya.</div>
+                        </div>
+                      </div>
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                          <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#suggestion">
+                             <span class="number">3.</span>Memberikan saran dan improvement untuk perusahaan Anda</a>
+                          </h4>
+                        </div>
+                        <div id="suggestion" class="panel-collapse collapse">
+                          <div class="panel-body"><p>Tujuan dari pemanfaatan dan pengembangan sistem web adalah untuk meningkatkan dan mengembangkan bisnis. Terkadang, perusahaan mengalami kesulitan untuk memahami masalah dalam bisnisnya sehingga tidak menemukan solusi yang tepat. Dengan pengalaman yang kami miliki, kami dapat membantu menyelesaikannya. <p>
+<p>Kami akan mencari sumber masalah yang terjadi dan berbagi saran terbaik untuk mengatasinya. Kami akan berfikir dari sudut pandang klien ketika memberi saran untuk penggunaan dan pemanfaatan sistem web agar lebih optimal.</p>
+</div>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </section>
+    <section class="content-section third-part">
+        <div class="container">
+             <div class="sec-content-part unsupport-service">
+                <h2 class="sub-section-title text-center">Layanan yang belum kami dukung untuk saat ini</h2>
+                <div class="page-content">
+                    <div class="row rowflex">
+                        <div class="col-sm-6">
+                            <div class="unsupport1 unsupport-content">
+                                <h3><div>Implementasi Paket Software</div></h3>
+                                <div class="unsupport-icon  text-center">
+                                     <img src="pembuatan-sistem-web/img/newlayout/unsupport-1.svg">
+                                </div>
+                                <div  class="unsupport-info">
+                                    Kami mengutamakan pengembangan sistem berbasis web dari awal yang optimal sesuai dengan tujuan dan kebutuhan bisnis Anda. Dengan menggunakan layanan kami yang berbasis open source framework, Anda akan mendapatkan sistem berbasis web dalam waktu yang singkat tanpa harus menggunakan paket software yang mahal (<i>SAP, Microsoft Dynamics, dan SalesForce</i>).
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="unsupport2 unsupport-content">
+                                <h3>Hanya mengembangkan bagian spesifik dari proyek berskala besar</h3>
+                                <div class="unsupport-icon text-center">
+                                     <img src="pembuatan-sistem-web/img/newlayout/unsupport-2.svg">
+                                </div>
+                                <div class="unsupport-info">
+                                    Kami memiliki kemampuan dalam manajemen proyek, pemeliharaan, dan perbaikan sistem. Oleh karenanya, sulit bagi kami jika hanya harus fokus untuk mengembangkan bagian tertentu dalam suatu proyek. Pada proyek berskala besar, biasanya lokasi untuk pengembangan sistem juga sudah ditentukan sehingga bertentangan dengan cara kerja kami yang mengutamakan efisiensi waktu dan tempat.
+                                </div>
+                            </div>
+                        </div>
+                    </div> 
+                    <div class="text-center unsupport-desc">
+                        Jika Anda mempercayakan manajemen proyek secara keseluruhan kepada LOGIQUE, maka Anda dapat memimpin proyek menuju bisnis yang lebih sukses dengan cara yang cepat dan fleksibel.
+                        
+                    </div>
+                   
+                </div>
+            </div>
+             <div class="sec-content-part studycase">
+                <h2 class="sub-section-title text-center">Studi Kasus</h2>
+                <div class="page-content">
+                    <div class="row rowflex nogutter">
+                        <div class="col-sm-6 ">
+                            <div class="img-slide-content">
+                            <div class="sliderimg-studycase">
+                                <div class="slider-item" style="background-image: url(pembuatan-sistem-web/img/newlayout/jba-img.jpg);">
+                                    <div class="company-studycase">
+                                        <h3>JBA Indonesia <br>Sistem Manajemen Lelang</h3>
+                                     Perusahaan lelang mobil dan motor terbesar di Indonesia.
+                                    </div>
+                                    <div class="technology-studycase">
+                                        <strong>Bahasa Pemograman : </strong><br>
+                                     PHP, NodeJS, SocketIO, Android Native
+                                    </div>
+
+                                    <a href="#" class="btn-yellow">
+                                        Pelajari lebih lanjut
+                                    </a>
+                                </div>
+                                <div class="slider-item">
+                                    <div class="company-studycase">
+                                        <h3>Sinarmas Land</h3>
+                                        <div>Online Recruitment system</div>
+                                    </div>
+                                    <div class="technology-studycase">
+                                        <strong>Bahasa Pemograman :</strong><br>
+                                     PHP, NodeJS, SocketIO, Android Native
+                                    </div>
+                                    
+                                </div>
+                                <div class="slider-item">
+                                    <div class="company-studycase">
+                                        <h3>Weeo</h3>
+                                        <div>Real time vehicle monitoring mobile apps</div>
+                                    </div>
+                                    <div class="technology-studycase">
+                                        <strong>Teknologi utama: </strong><br>
+                                        HTML5/CSS3, .Net Framework, SQL Server, Integrasi LDAP dan SAP
+                                    </div> 
+                                </div>
+                            </div>
+                            </div> 
+                        </div>
+                        <div class="col-sm-6  ">
+                            <div class="studycase-content text-slide-content">
+                                <div class="slidertext-studycase">
+                                    <div class="slider2-item">
+                                    Kami telah membantu mengembangkan banyak sistem berbasis web, aplikasi dan website untuk sistem inti perusahaan, aplikasi bidding, lelang online, aplikasi inspeksi, sistem keuangan, dan masih banyak lagi. Sistem memiliki fungsi yang sangat penting, maka pengembangan sistem harus terhindar dari kesalahan. Berusaha menyelesaikan proyek dengan cepat, kami juga selalu mengadakan pertemuan antara tim kami dengan tim JBA untuk mengoptimalkan sistem.
+                                    </div>
+                                    <div class="slider2-item">
+                                    Dalam waktu 7 bulan, kami berhasil mengembangkan sistem berbasis web untuk Sinar Mas Land. Sistem ini berfungsi sebagai sistem rekrutmen dan tes psikologi online untuk mempermudah proses seleksi karyawan. Sistem juga dikembangkan dengan tingkat keamanan yang tinggi untuk melindungi data pribadi milik pelamar. 
+                                    </div>
+                                    <div class="slider2-item">
+                                    Kami mengembangkan aplikasi seluler untuk monitoring kendaraan secara real time. Dilengkapi dengan peta digital maka pemilik kendaraan, dealer, atau klien dapat memantau kondisi kendaraan secara langsung dari perangkat seluler mereka.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="sec-content-part success-service">
+                <h2 class="sub-section-title text-center">Pencapaian Pengembangan Sistem Kami Lainnya</h2>
+                <div class="page-content">
+                    <div class="success-service-list">
+                        <div class="row rowflex col10">
+                            <div class="col-sm-3">
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem1.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Manajemen Poin & Pengembangan Sistem <br>E-Commerce.</h3>
+                                        <p>6 bulan, AWS, Linux, MySQL, PHP Framework</p>
+                                    </div>
+                                    <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward.svg"> </a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem2.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Pengembangan <br>E-Commerce untuk Perusahaan MLM.</h3>
+                                        <p>6 bulan, AWS, Linux, MySQL, PHP Framework</p>
+                                    </div>
+                                    <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward.svg"> </a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Sistem Pengembangan Manajemen Lelang Kendaraan.</h3>
+                                        <p>6 bulan, AWS, Linux, MySQL, PHP Framework, Node.js</p>
+                                    </div>
+                                    <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward.svg"> </a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem4.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Pengembangan Aplikasi  (Penawaran Lelang / Bidding di Android).</h3>
+                                        <p>2 bulan, Android, node.js, JAVA, AWS</p>
+                                    </div>
+                                    <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward.svg"> </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row rowflex col10">
+                            <div class="col-sm-3">
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem5.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</h3>
+                                        <p>4 bulan, Android, node.js, JAVA, AWS</p>
+                                    </div>
+                                    <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward.svg"> </a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem2.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Sistem CRM untuk Jasa Jalan Kendaraan Bermotor.</h3>
+                                        <p>3 bulan, PHP Framework, Payment Gateway, AWS</p>
+                                    </div>
+                                    <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward.svg"> </a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Sistem CRM untuk Pembeli Lelang.</h3>
+                                        <p>2 bulan, PHP Framework, MySQL, AWS</p>
+                                    </div>
+                                    <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward.svg"> </a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <a href="#">
+                                <div class="success-item sc-seeall text-center"> 
+                                    <div class="center-btn" style=""> 
+                                        <span class="other-success-item">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward-yellow.svg"> </span><br>
+                                        Lihat lebih banyak
+                                    </div>    
+                                </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="content-section fourth-part">
+         <div class="sec-content-part testimonial">
+            <h2 class="sub-section-title text-center">Testimoni dari Klien</h2>
+            <div class="page-content">
+                <div class="testimonial-slider">
+                    <div class="testislider-item">
+                        <div class="client-container">
+                            <ul class="clientinfo">
+                                <li class="client-photo">
+                                    <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
+                                </li>
+                                <li class="client-desc">
+                                    <span class="client-name">Axel, 27</span>
+                                    <span class="client-title">Project Manager</span>
+                                </li>
+                            </ul>
+                            <div class="client-testimoni">
+                                Sebagai kepala departemen IT, saya telah menghandle banyak proyek pengembangan sistem. Sejauh ini, saya belum pernah menemukan perusahaan development yang dapat bekerja sefleksible LOGIQUE. Sistem yang dihasilkan pun… memiliki kualitas yang tinggi. … 
+                            </div>
+                            <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
+                        </div>
+                    </div>
+                    <div class="testislider-item">
+                         <div class="client-container">
+                            <ul class="clientinfo">
+                                <li class="client-photo">
+                                    <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
+                                </li>
+                                <li class="client-desc">
+                                    <span class="client-name">Axel, 27</span>
+                                    <span class="client-title">Project Manager</span>
+                                </li>
+                            </ul>
+                            <div class="client-testimoni">
+                                Sebagai kepala departemen IT, saya telah menghandle banyak proyek pengembangan sistem. Sejauh ini, saya belum pernah menemukan perusahaan development yang dapat bekerja sefleksible LOGIQUE. Sistem yang dihasilkan pun… memiliki kualitas yang tinggi. … 
+                            </div>
+                            <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
+                        </div>
+                    </div>
+                    <div class="testislider-item">
+                         <div class="client-container">
+                            <ul class="clientinfo">
+                                <li class="client-photo">
+                                    <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
+                                </li>
+                                <li class="client-desc">
+                                    <span class="client-name">Axel, 27</span>
+                                    <span class="client-title">Project Manager</span>
+                                </li>
+                            </ul>
+                            <div class="client-testimoni">
+                                Sebagai kepala departemen IT, saya telah menghandle banyak proyek pengembangan sistem. Sejauh ini, saya belum pernah menemukan perusahaan development yang dapat bekerja sefleksible LOGIQUE. Sistem yang dihasilkan pun… memiliki kualitas yang tinggi. … 
+                            </div>
+                            <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>   
+    </section>
+    <section class="content-section fifth-part">
+        <div class="container">
+            <div class="sec-content-part important-point">
+                <h2 class="sub-section-title text-center">Poin penting untuk pengembangan sistem web yang berhasil!</h2>
+                <div class="page-content importantpoint-list">
+                    <div class="row rowflex col10">
+                        <div class="col-sm-4">
+                            <div class="importantpoint-item text-center">
+                                <h3>Pengalaman</h3>
+                                <div class="icon-container">
+                                    <img src="pembuatan-sistem-web/img/newlayout/icon-point1.svg">
+                                </div>
+                                <div class="point-desc">
+                                    LOGIQUE memiliki banyak pengalaman dalam pengembangan sistem web di Indonesia. Kami akan memanfaatkan pengalaman tersebut untuk setiap proses pengembangan, mulai dari pembuatan jadwal, penentuan kebutuhan, pengembangan sistem, pengujian, desain infrastruktur, deployment, sampai training untuk user.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="importantpoint-item text-center">
+                                <h3>Kecepatan / fleksibilitas</h3>
+                                <div class="icon-container">
+                                    <img src="pembuatan-sistem-web/img/newlayout/icon-point2.svg">
+                                </div>
+                                <div class="point-desc">
+                                    Persaingan bisnis bergerak semakin cepat setiap harinya. Jika pengembangan sistem berbasis web membutuhkan waktu lebih dari 6 bulan atau lebih, maka Anda akan kesulitan untuk mengikuti perkembangan bisnis yang sedang terjadi. Di LOGIQUE, kecepatan adalah hal terpenting. Dengan metode agile development, maka kami dapat merespon dengan cepat dan fleksibel terhadap setiap perubahan.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="importantpoint-item text-center">
+                                <h3>Kualitas / keamanan</h3>
+                                <div class="icon-container">
+                                    <img src="pembuatan-sistem-web/img/newlayout/icon-point3.svg">
+                                </div>
+                                <div class="point-desc">
+                                    Kualitas harus tetap diutamakan. Dengan melakukan pengembangan sesuai standar, kami akan selalu meminimalisir kesalahan dan mengoptimalkan pemeliharan sistem. Kami juga akan melakukan sejumlah pengujian untuk memastikan bahwa sistem memiliki tingkat keamanan yang tinggi.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="content-section sixth-part">
+        <div class="sec-content-part contact-banner">
+            <div class="page-content">
+                <ul>
+                    <li class="text-left">Hubungi kami sekarang untuk <br>pengembangan sistem yang optimal!<li>
+                    <li>
+                        <a href="#" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section class="content-section seventh-part">
+        <div class="container">
+            <div class="sec-content-part usedtechnology">
+                <h2 class="sub-section-title text-center">Bahasa pemrograman yang kami gunakan</h2>
+                <div class="page-content ">
+                    <div class="row">
+                        <div class="col-sm-6">Pengembangan web menggunakan framework PHP. Kami sangat baik dalam mengembangkan sistem menggunakan framework PHP seperti,
+                        </div>
+                        <div class="col-sm-6">
+                            <ul class="techlist text-center">
+                                <li>
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/laravel.png"></div>
+                                    Laravel
+                                </li>
+                                <li>
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/symphony.png"></div>
+                                    Symphony
+                                </li>
+                                <li>
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/cakephp.png"></div>
+                                    CakePHP
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
+        <div class="whyphp">
+            <div class="container">
+                <div class="sec-content-part "> 
+                     
+                    <div class="page-content  text-center">
+                        <p> Kami memiliki banyak programmer PHP berpengalaman sehingga banyak <br>pencapaian yang kami peroleh dengan sangat baik. 
+                        </p>
+                        <ul class="w3tech-info">
+                            <li>
+                               Menurut laporan <br>
+                               <img src="pembuatan-sistem-web/img/newlayout/w3tech.png">
+                            </li>
+                            <li>
+                                <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg">
+                            </li>
+                            <li>
+                                <img src="pembuatan-sistem-web/img/newlayout/percentage.png"><br>
+                                website didunia
+                            </li>
+                        </ul>
+                        dibangun menggunakan bahasa pemrograman
+                        <div class="img-contianer">
+                            <img src="pembuatan-sistem-web/img/newlayout/phplogo.png">
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="othertech">
+            <div class="container">
+                <div class="sec-content-part ">
+                 
+                <div class="page-content text-center">
+                    Meskipun beberapa orang beranggapan bahwa PHP sudah tua, namun bahasa pemrograman ini <b>masih menjadi pilihan utama</b> untuk mengembangkan sistem berbasis web karena kompatibilitasnya dengan banyak website serta ketersediaan operasional. 
+                    <div class="img-container">
+                        <img src="pembuatan-sistem-web/img/newlayout/web-img.svg">
+                    </div>
+                    <p>Selain itu, saat ini banyak CMS seperti Wordpress juga berjalan menggunakan <br>bahasa pemrograman PHP.</p>
+                    <div class="jsfw-container">
+                        <p>Pengembangan web menggunakan framework</p>
+                            <div class="js-desc-continer">
+                            <div class="row">
+                                <div class=" col-md-3  col-sm-4 text-center">
+                                    <img src="pembuatan-sistem-web/img/newlayout/logo-js.png"><br> 
+                                    JavaScript
+                                </div>
+                                <div class="col-md-9  col-sm-8 text-left js-desc">
+                                    Merupakan bahasa pemrograman yang juga digunakan dalam situs web. Bahasa pemrograman ini sangat diperlukan untuk meningkatkan usability atau kegunaan dari sebuah website. 
+                                </div>
+                            </div>
+                        </div>
+                        <p>
+                            Selain mahir dalam pengembangan web menggunakan PHP dan JavaScript, LOGIQUE juga sangat baik dalam pengembangan PWA menggunakan framework JavaScript seperti,
+                        </p>
+                        <ul class="jsframework framework-list">
+                            <li><img src="pembuatan-sistem-web/img/newlayout/logo-react.png"> <br> React</li>
+                            <li><img src="pembuatan-sistem-web/img/newlayout/logo-angular.png"> <br> Angular</li>
+                            <li><img src="pembuatan-sistem-web/img/newlayout/logo-vue.png"> <br> Vue.js</li>
+                        </ul>
+                        <p>
+                            LOGIQUE juga memiliki kemampuan untuk membangun sistem berskala besar<br>dengan menggabungkan <b>Node.js dan Express.js.</b>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+        <section class="content-section sixth-part">
+        <div class="sec-content-part contact-banner">
+            <div class="page-content">
+                <ul>
+                    <li class="text-left">Hubungi kami sekarang untuk <br>pengembangan sistem yang optimal!<li>
+                    <li>
+                        <a href="#" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section class="content-section eighth-part">
+        <div class="container">
+            <div class="sec-content-part  "> 
+                <div class="page-content otherinfo-list">
+                    <div class="row rowflex col10">
+                        <div class="col-sm-4">
+                            <div class="otherinfo-item  ">
+                                <a href="#">
+                                <img src="pembuatan-sistem-web/img/newlayout/img-about.jpg">
+                                <div class="otherinfo-desc">
+                                    <h3>About  <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></h3>
+                                    <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes. </p>
+                                </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                             <div class="otherinfo-item  ">
+                                <a href="#">
+                                <img src="pembuatan-sistem-web/img/newlayout/img-ourwork.jpg">
+                                <div class="otherinfo-desc">
+                                    <h3>Our Work  <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></h3>
+                                    <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes.  </p>
+                                </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                             <div class="otherinfo-item  ">
+                                <a href="#">
+                                <img src="pembuatan-sistem-web/img/newlayout/img-faq.jpg">
+                                <div class="otherinfo-desc">
+                                    <h3>FAQ  <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></h3>
+                                    <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes. </p>
+                                </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="sec-content-part"> 
+                 <h2 class="sub-section-title text-center">Other services</h2>
+                <div class="page-content otherservice-list">
+                    <div class="row col10">
+                        <div class="col-sm-3">
+                            <a href="#">
+                                <img src="pembuatan-sistem-web/img/newlayout/img-febe.jpg">
+                                <h3 class="text-center">Front End / Back End</h3>
+                                <p>
+                                    Work remotely in the Cloud - anytime and on any device - without the hassle 
+                                </p>
+                            </a>
+                        </div>
+                        <div class="col-sm-3">
+                             <a href="#">
+                               <img src="pembuatan-sistem-web/img/newlayout/img-webdis.jpg">
+                                <h3 class="text-center">Web Designer</h3>
+                                <p>
+                                    Work remotely in the Cloud - anytime and on any device - without the hassle 
+                                </p>
+                            </a>
+                        </div>
+                        <div class="col-sm-3">
+                            <a href="#">
+                                <img src="pembuatan-sistem-web/img/newlayout/img-consultant.jpg">
+                                <h3 class="text-center">Consultant</h3>
+                                <p>
+                                    Work remotely in the Cloud - anytime and on any device - without the hassle 
+                                </p>
+                            </a>
+                        </div>
+                        <div class="col-sm-3">
+                            <a href="#">
+                                <img src="pembuatan-sistem-web/img/newlayout/img-mobileapp.jpg">
+                                <h3 class="text-center">Mobile Apps</h3>
+                                <p>
+                                    Work remotely in the Cloud - anytime and on any device - without the hassle 
+                                </p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
      <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
      <?php include '../footer.php'; ?>
 
@@ -1089,10 +907,76 @@
                  }
              }
          });
-     });
+         $('a[data-toggle="collapse"]').on('click', function () {   
+            $('a[data-toggle="collapse"]').removeClass('actives');
+            $(this).addClass('actives');
+         });
+
 
      $('.min-h').matchHeight({
          byRow: false
+     });
+      $('.unsupport-content h3, .scitem-content h3').matchHeight({
+         byRow: false
+     });
+
+     $('.slidertext-studycase').slick({
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      arrows: false,
+      fade: true,
+      adaptiveHeight : true,
+      asNavFor: '.sliderimg-studycase'
+    });
+    $('.sliderimg-studycase').slick({
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      asNavFor: '.slidertext-studycase',
+      dots: true, 
+      nextArrow :'<button type="button" class="slick-next"><img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></button>' ,
+      prevArrow : '<button type="button" class="slick-prev"><img src="pembuatan-sistem-web/img/newlayout/arrow-left.svg"></button>'
+    });
+
+    $('.testimonial-slider').slick({
+          slidesToShow: 1,
+          slidesToScroll: 1, 
+          dots: false,
+          arrows:false,
+          centerMode: true,
+          focusOnSelect: true,
+          variableWidth: true, 
+          responsive: [
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 3,
+            infinite: true,
+            dots: true
+          }
+        },
+        {
+          breakpoint: 600,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 2
+          }
+        },
+        {
+          breakpoint: 480,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            variableWidth: false, 
+            centerMode: false,
+            focusOnSelect:false,
+          }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+      ]
+        });
      });
      </script>
  </body>
