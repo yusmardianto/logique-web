@@ -23,7 +23,7 @@
     <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Digital Marketing | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/style-ori.css" rel="stylesheet">
     <link href="assets/css/style-digital-marketing.css" rel="stylesheet">
     <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet"> -->
     <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
@@ -147,12 +147,12 @@
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
                         <div class="container">
+                            <a href="/en/"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                             <ul class="list-inline">
                                 <li class="active"><a href="#">EN</a></li>
                                 <li><a href="/../layanan/digital-marketing.php">ID</a></li>
                                 <li><a href="/jp/services/digital-marketing.php">JP</a></li>
                             </ul>
-                            <a href="/en/"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                         </div>
                     </div>
                 </div>
@@ -161,9 +161,20 @@
     </div>
     <!-- END HEADER -->
 
-    <div class="content-wrapper__">
+    <div class="dm content-wrapper__">
 
-        <section class="--top">
+        <section class="--top dm__banner">
+            <div class="container__">
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8">
+                        <h1>360  Digital Marketing Services</h1>
+                        <p>At <strong>LOGIQUE</strong>, we provide services for every digital marketing need. From planning, production, operation, maintenance, to monetization</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="dm__pagination">
             <div class="container__" style="padding:0">
                 <div class="row">
                     <div class="col-sm-12">
@@ -186,8 +197,261 @@
             </div>
         </section>
 
+        <section class="dm__services">
+            <div class="container__ text-center">
+                <p>As a leading website development company, LOGIQUE provides various services such as Website Development, Content Creation (Banners, Videos, Articles, Infographics, etc), Media Buying (Paid Ads Media), Social Network Services, Search Engine Optimization, Content Marketing, etc.</p>
+                <div class="row services__list">
+                    <div class="col-md-offset-2 col-md-8">
+                        <p>With a variety of objectives such as,</p>
+                        <div class="row text-left list__wrapper">
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-awareness.svg" alt="">
+                                <p>Brand Awareness</p>
+                            </div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-sales.svg" alt="">
+                                <p>Sales</p>
+                            </div>
+                            <div class="clearfix hidden-sm"></div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-brand.svg" alt="">
+                                <p>Brand Consideration</p>
+                            </div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-purchase.svg" alt="">
+                                <p>Purchase</p>
+                            </div>
+                            <div class="clearfix hidden-sm"></div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-engagement.svg" alt="">
+                                <p>Brand Engagement</p>
+                            </div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-leads.svg" alt="">
+                                <p>Leads, & etc.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <p>Which can be implemented for various types of business mechanisms ranging from Online to Online, Online to Offline, Business to Business, Business to Customers, etc.</p>
+            </div>
+        </section>
 
-        <div class="div-top">
+        <section class="dm__trend">
+            <div class="container__ text-center">
+                <h2>Marketing trends</h2>
+                <p>Marketing trends have changed dramatically, Digital Marketing has become an important standard for business activities in almost every type of industry.</p>
+                <img src="/en/services/assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive">
+                <p>By utilizing our years of successful experience in the development of many businesses local and globally, and supported by a team of professionals who have technical skills in developing the latest web systems and creative teams with content design and writing skills, we believe, we are able to provide real success for your business.</p>
+            </div>
+        </section>
+
+        <section class="dm__get">
+            <div class="container__ text-center">
+                <h2>What can you get from Digital Marketing?</h2>
+                <div class="row get__list">
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-awareness.png" class="img-responsive" alt="">
+                            <p>Increase brand <br>awareness</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-sales.png" class="img-responsive" alt="">
+                            <p>Increase Sales / <br>Transaction Numbers</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-user.png" class="img-responsive" alt="">
+                            <p> Increase user / <br>customer database</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-interaction.png" class="img-responsive" alt="">
+                            <p>Increase user <br>interaction</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="dm__variety">
+            <div class="container__">
+                <h2 class="text-center">We provide a variety of Digital Marketing <br> services to meet various requests such as:</h2>
+                <div class="flex__row">
+                    <div class="col-md-6">
+                        <ol class="variety__list">
+                            <li data-list-item="1."><a href="#">Diagnosis/Media Maintenance/Media Operation</a></li>
+                            <li data-list-item="2."><a href="#">Search Engine Optimization (SEO)</a></li>
+                            <li data-list-item="3."><a href="#">Paid Ads / Media Buying</a></li>
+                            <li data-list-item="4."><a href="#">Social Media Service / Social Network Service</a></li>
+                        </ol>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="variety__content">
+                        We will <span>improve the performance</span> of the media you have to be able to monetize and produce conversions. If you don't have your own media, don't hesitate to contact us who will always be ready to become your business partner in developing a Website or Application that suits your needs. Website Creation Services
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="dm__strong">
+            <div class="container__ text-center">
+                <h2><strong>LOGIQUE</strong>’s Strong points</h2>
+                <p>We have all the skills needed to optimize a digital marketing campaign</p>
+                <p><strong>LOGIQUE</strong> is a company that involves many experts who are experienced in the fields of,</p>
+                <div class="row">
+                    <div class="col-md-offset-1 col-md-10">
+                        <div class="row dm__list-circle">
+                            <div class="col-md-3 col-sm-6">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-coding.svg" alt="" class="img-responsive">
+                                </div>
+                                <p>Programming</p>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-design.svg" alt="" class="img-responsive">
+                                </div>
+                                <p>Design</p>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-writing.svg" alt="" class="img-responsive">
+                                </div>
+                                <p>Writing</p>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-dm.svg" alt="" class="img-responsive">
+                                </div>
+                                <p>Digital Marketing</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <p>From strategic to creative, all work under one roof. Making every coordination easier, faster, and more precise. This is what makes us able to provide extraordinary results in efforts to improve the quality or quality of the traffic we produce to become a transaction, for various types of websites and businesses such as E-commerce to Web Subscriptions.</p>
+            </div>
+        </section>
+
+        <section class="dm__material">
+            <div class="container__ text-center">
+                <h2>Making advertising materials that can increase conversions</h2>
+                <div class="row dm__list-circle dm__list-circle--white">
+                    <div class="col-md-offset-4 col-md-4">
+                        <div class="list-circle__img">
+                            <img src="/en/services/assets/img/img-digital-marketing/material-chat.svg" alt="" class="img-responsive">
+                        </div>
+                    </div>
+                </div>
+                <p>Every designer involved in a project is an expert with a wealth of experience able to create advertising materials that can increase the chances of conversion.</p>
+            </div>
+        </section>
+
+        <section class="dm__analysis">
+            <div class="container__ text-center">
+                <h2>Analysis and strategy skills</h2>
+                <p>We have a team that is dedicated to analyzing and developing appropriate and accurate strategies, each strategy will be developed based on industry and project objectives carried out. We will present it in the form of a proposal with detailed analysis and the best-suggested strategies. Each strategy will also synergize to make better use of every digital asset you have.</p>
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8">
+                        <div class="row dm__list-circle">
+                            <div class="col-md-4">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-long.svg" alt="" class="img-responsive">
+                                </div>
+                                <p>Long-term <br>Plan</p>
+                            </div>                            
+                            <div class="col-md-4">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-medium.svg" alt="" class="img-responsive">
+                                </div>
+                                <p>Medium-term <br>Plan</p>
+                            </div>                            
+                            <div class="col-md-4">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-short.svg" alt="" class="img-responsive">
+                                </div>
+                                <p>Short-term <br>Plan</p>
+                            </div>                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="dm__links">
+            <div class="container__">
+                <div class="row">
+                    <div class="col-md-4">
+                        <a href="#" class="links__item" style="background-image: url('/en/services/assets/img/img-digital-marketing/material-bg.png')">
+                            <div>
+                                <h3>About</h3>
+                                <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes. </p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="#" class="links__item" style="background-image: url('/en/services/assets/img/img-digital-marketing/material-bg.png')">
+                            <div>
+                                <h3>Our Work</h3>
+                                <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes.</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="#" class="links__item" style="background-image: url('/en/services/assets/img/img-digital-marketing/material-bg.png')">
+                            <div>
+                                <h3>FAQ</h3>
+                                <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes.</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="dm__other-service">
+            <div class="container__">
+                <h3 class="text-center">Other services</h3>
+                <div class="row other-service__list">
+                    <div class="col-md-3 col-sm-6">
+                        <a href="#" class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/other-fe-be.png" alt="" class="img-responsive">
+                            <h4>Front End / Back End</h4>
+                            <p>Work remotely in the Cloud - anytime and on any device - without the hassle of uploading and downloading files. Keep a geographically dispersed team collaborating - and always in sync.</p>
+                        </a>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <a href="#" class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/other-fe-be.png" alt="" class="img-responsive">
+                            <h4>Front End / Back End</h4>
+                            <p>Work remotely in the Cloud - anytime and on any device - without the hassle of uploading and downloading files. Keep a geographically dispersed team collaborating - and always in sync.</p>
+                        </a>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <a href="#" class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/other-fe-be.png" alt="" class="img-responsive">
+                            <h4>Front End / Back End</h4>
+                            <p>Work remotely in the Cloud - anytime and on any device - without the hassle of uploading and downloading files. Keep a geographically dispersed team collaborating - and always in sync.</p>
+                        </a>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <a href="#" class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/other-fe-be.png" alt="" class="img-responsive">
+                            <h4>Front End / Back End</h4>
+                            <p>Work remotely in the Cloud - anytime and on any device - without the hassle of uploading and downloading files. Keep a geographically dispersed team collaborating - and always in sync.</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- <div class="div-top">
             <h1 class="title">
                 <div class="container__" style="padding-top: 0; padding-bottom:0;">
                     <div class="row">
@@ -647,7 +911,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
     </div>
 
