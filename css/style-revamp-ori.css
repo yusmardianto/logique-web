@@ -1039,6 +1039,16 @@ b {
   border-radius: 100%;
   background-color: #000;
 }
+
+@media (max-width: 767.98px) {
+  .portfolio-update__nav .page-nav .page-nav__btn {
+    flex-basis: 50%;
+    padding: 10px 5px;
+  }
+  .portfolio-update__nav .page-nav .page-nav__btn:not(:first-child)::before {
+    content: none;
+  }
+}
 /* end portfolio nav */
 
 /* portfolio content */
