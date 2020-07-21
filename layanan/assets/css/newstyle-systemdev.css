@@ -434,6 +434,13 @@ section h2{
     margin-top: 50%;
     transform: translatey(-10px);
 }
+.success-item a.more-icon{
+    text-decoration: underline;
+    font-style: italic;
+}
+.success-item a.more-icon:hover{
+    text-decoration: none;
+}
 .success-item.sc-seeall  .center-btn{
     margin-top: 50%; 
     transform: translateY(-20px); 
@@ -614,11 +621,11 @@ section h2{
     max-width: 100%;
 }
 .otherservice-list h3{
-    font-size: 22px;
+    font-size: 18px;
     margin:0;
     padding: 10px 0;
     letter-spacing: 0px;
-    line-height: 40px;
+    line-height: 30px;
 }
 .otherservice-list a{
     color: #000;

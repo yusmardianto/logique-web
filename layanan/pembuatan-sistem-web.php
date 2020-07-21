@@ -512,7 +512,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                         <h3>Manajemen Poin & Pengembangan Sistem <br>E-Commerce.</h3>
                                         <p>6 bulan, AWS, Linux, MySQL, PHP Framework</p>
                                     </div>
-                                    <a href="javascript:void(0)" class="more-icon" data-toggle="modal" data-target="#achievementmodal1">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward.svg"> </a>
+                                    <a href="javascript:void(0)" class="more-icon" data-toggle="modal" data-target="#achievementmodal1">  Detail </a>
                                 </div>
                             </div>
                             <div class="col-sm-3">
@@ -541,7 +541,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                         <h3>Pengembangan <br>E-Commerce untuk Perusahaan MLM.</h3>
                                         <p>6 bulan, AWS, Linux, MySQL, PHP Framework</p>
                                     </div>
-                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal2" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward.svg"> </a>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal2" class="more-icon">  Detail </a>
                                 </div>
                             </div>
                             <div class="col-sm-3">
@@ -571,7 +571,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                         <h3>Sistem Pengembangan Manajemen Lelang Kendaraan.</h3>
                                         <p>6 bulan, AWS, Linux, MySQL, PHP Framework, Node.js</p>
                                     </div>
-                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal3" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward.svg"> </a>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal3" class="more-icon"> Detail </a>
                                 </div>
                             </div>
                             <div class="col-sm-3">
@@ -600,7 +600,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                         <h3>Pengembangan Aplikasi  (Penawaran Lelang / Bidding di Android).</h3>
                                         <p>2 bulan, Android, node.js, JAVA, AWS</p>
                                     </div>
-                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal4"  class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward.svg"> </a>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal4"  class="more-icon"> Detail </a>
                                 </div>
                             </div>
                         </div>
@@ -631,7 +631,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                         <h3>Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</h3>
                                         <p>4 bulan, Android, node.js, JAVA, AWS</p>
                                     </div>
-                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal5"  class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward.svg"> </a>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal5"  class="more-icon"> Detail</a>
                                 </div>
                             </div>
                             <div class="col-sm-3">
@@ -661,7 +661,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                         <h3>Sistem CRM untuk Jasa Jalan Kendaraan Bermotor.</h3>
                                         <p>3 bulan, PHP Framework, Payment Gateway, AWS</p>
                                     </div>
-                                    <a  href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal6"  class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward.svg"> </a>
+                                    <a  href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal6"  class="more-icon">  Detail </a>
                                 </div>
                             </div>
                             <div class="col-sm-3">
@@ -690,7 +690,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                         <h3>Sistem CRM untuk Pembeli Lelang.</h3>
                                         <p>2 bulan, PHP Framework, MySQL, AWS</p>
                                     </div>
-                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward.svg"> </a>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
                             <div class="col-sm-3">
