@@ -987,6 +987,7 @@ b {
 
 .portfolio-update .portfolio__banner.portfolio__banner-detail {
   background-image: url('/img/portfolio/bg-portfolio-website.png');
+  background-position-x: 75%;
 }
 
 .portfolio-update h1 {

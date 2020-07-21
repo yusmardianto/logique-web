@@ -4,11 +4,15 @@
 
 .logique-nav.logique-nav--update {
     width: 90px;
+    top: 15px;
+    left: 10px;
+    height: calc(100% - 30px);
+    border-radius: 20px;
 }  
 
 .logique-nav.logique-nav--update .margin-for-nav {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .logique-nav.logique-nav--update .margin-for-nav > div {

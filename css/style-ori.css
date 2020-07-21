@@ -13,9 +13,9 @@
 @-ms-viewport {width: device-width}
 @-o-viewport {width: device-width}
 @viewport {width: device-width}
-* {
+/* * {
     font-family: 'Raleway', 'sans-serif';
-}
+} */
 
 html {
     scroll-behavior: smooth;
@@ -131,25 +131,60 @@ section.maintop {
     width: 100%;
 }
 
-@media (max-width: 768px) {
+.lang-logo--update-design {
+    padding: 10px 0 15px;
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    box-shadow: 2px 4px 9px 0px #ccc;
+}
+
+.lang-logo {
+    padding: 25px 0;
+    position: fixed;
+    max-width: 25%;
+}
+
+.lang-logo--update-design .list-inline {
+    position: absolute;
+    top: 10px;
+    right: 0;
+}
+
+@media (max-width: 991.98px) {
     .logo--update-design {
         margin-left: 1em;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .lang-logo--update-design {
+        padding-bottom: 0;
+    }
+    .lang-logo--update-design .container {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .logo--update-design {
+        margin: 15px auto 0;
+    }
+    .lang-logo--update-design .list-inline {
+        position: relative !important;
+        top: 0;
+        margin-top: 10px;
+        padding-top: 7px;
+        text-align: center;
+        background-color: #2C3641;
+    }
+    .lang-logo--update-design .list-inline > li:last-child {
+        margin-right: 0;
     }
 }
 
 @media (max-width: 740px) and (orientation: landscape) {
     .lang-logo--update-design .list-inline {
         right: 5em !important;
-    }
-}
-
-@media (max-width: 415px) {
-    .logo--update-design {
-        margin-left: 0;
-        margin-top: 15px;
-    }
-    .lang-logo--update-design .list-inline {
-        position: relative !important;
     }
 }
 
@@ -354,31 +389,7 @@ section.maintop {
     }
 }
 
-.lang-logo--update-design {
-    padding: 10px 0 15px;
-    background-color: white;
-    position: fixed;
-    width: 100%;
-    z-index: 10;
-    box-shadow: 2px 4px 9px 0px #ccc;
-}
-
-.lang-logo {
-    padding: 25px 0;
-    position: fixed;
-    max-width: 25%;
-}
-
-.lang-logo--update-design .list-inline {
-    position: absolute;
-    top: 10px;
-    right: 0;
-}
-
 @media (min-width: 416px) and (max-width: 767px) {
-    .lang-logo--update-design .list-inline {
-        right: 75px;
-    }
     .container__ {
         padding: 2.5em;
     }
@@ -444,7 +455,6 @@ section.maintop {
     top: 50%;
     transform: translateY(-50%);
 }
-
 /* end lang-switch new design*/
 
 .lang-logo--update-design .list-inline li.active,
@@ -1468,7 +1478,7 @@ left: -70px;
     background-color: #ffca13!important;
     position: relative;
     right: 0!important;
-    margin-top: 18px
+    margin-top: 5px
 }
 
 .navbar-toggle--update-design {
@@ -1499,6 +1509,16 @@ left: -70px;
 .wrapper .navbar-toggle .icon-bar.third {
     transform: rotate(-45deg);
     margin-top: -8px
+}
+
+@media (max-width: 767.98px) {
+    .wrapper .navbar-toggle.collapsed {
+        left: 15px !important;
+    }
+    .wrapper .navbar-toggle {
+        left: 110px;
+        top: 10px;
+    }
 }
 
 .backdrop-test {
@@ -2696,12 +2716,12 @@ html[lang=ja] .partner-section .div-main p {
         margin-top: 20px
     }
     .logique-nav {
-        margin-right: -150px;
-        margin-left: auto;
+        margin-left: -150px;
+        /* margin-left: auto; */
         position: relative
     }
     .collapse.in .logique-nav {
-        margin-right: 0;
+        margin-left: 0;
         padding-top: 0
     }
     .btn-contact-service {
