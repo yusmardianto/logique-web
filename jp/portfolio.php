@@ -1145,6 +1145,54 @@
                                 </div>
                             </div>
 
+                            <div class="col-md-4 col-xs-6">
+                                <!-- <a href="https://sibad.id/id" target="_blank" rel="noreferrer"> -->
+                                    <img src="/img/portfolio/ishida.png" alt="Ishida"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Ishida</p>
+                                <!-- </a> -->
+                                <div class="addition-desc text-left">
+                                Web構築（デザイン制作 | CMS | コーディング
+                                    <div class="grey-clr">BtoB, 製品検索Web, 製造業</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <!-- <a href="https://sibad.id/id" target="_blank" rel="noreferrer"> -->
+                                    <img src="/img/portfolio/sumitomo-kenki.png" alt="Sumitomo Kenki"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Sumitomo Kenki</p>
+                                <!-- </a> -->
+                                <div class="addition-desc text-left">
+                                WebフロントエンドDev (コーディング | CMS)
+                                    <div class="grey-clr">モバイル最適化, CMS, コーポレートWeb, 建機</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <!-- <a href="https://sibad.id/id" target="_blank" rel="noreferrer"> -->
+                                    <img src="/img/portfolio/aia-berbagi.png" alt="AIA Berbagi"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">AIA Berbagi</p>
+                                <!-- </a> -->
+                                <div class="addition-desc text-left">
+                                Web制作 (コーディング | API連携)
+                                    <div class="grey-clr">フォーム開発, マイクロサイト, 保険, CSR</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <!-- <a href="https://sibad.id/id" target="_blank" rel="noreferrer"> -->
+                                    <img src="/img/portfolio/aia-conservation.png" alt="AIA Conservation"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">AIA Conservation</p>
+                                <!-- </a> -->
+                                <div class="addition-desc text-left">
+                                Web制作 (デザイン | コーディング)
+                                    <div class="grey-clr">フォーム開発, マルチユーザージャーニー, マイクロサイト, Adobe Forms, 保険</div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                     <!-- END HIDE WEB DEV PORTFOLIO -->
