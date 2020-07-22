@@ -175,7 +175,7 @@
 
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
-                    <div class="title"><b>制作・開発</b><span class="yellow"> 実績</span></div>
+                    <h1 class="title"><b>制作・開発</b><span class="yellow"> 実績</span></h1>
                     <p class="title__description">
                         LOGIQUEはインドネシアの日系企業、外資企業、大手インドネシア企業との仕事を主に、多くの実績を作ってきました。日本からのオフショア制作開発のお仕事も条件によってはお請けすることが可能ですのでお気軽にご相談ください。以下に、幾つかの公開可能なWEB制作、モバイルアプリ・PWA開発、WEBシステム開発、デジタルマーケティング・コンサルティングの実績を掲載します。
                     </p>
@@ -1142,6 +1142,54 @@
                                 <div class="addition-desc text-left">
                                     Web再構築（クラウド移行 | 再構築＆改善 | 決済機能構築）
                                     <div class="grey-clr">有料会員, サブスクWeb, ファンクラブ運営, エンターテイメント</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <!-- <a href="https://sibad.id/id" target="_blank" rel="noreferrer"> -->
+                                    <img src="/img/portfolio/ishida.png" alt="Ishida"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Ishida</p>
+                                <!-- </a> -->
+                                <div class="addition-desc text-left">
+                                Web構築（デザイン制作 | CMS | コーディング
+                                    <div class="grey-clr">BtoB, 製品検索Web, 製造業</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <!-- <a href="https://sibad.id/id" target="_blank" rel="noreferrer"> -->
+                                    <img src="/img/portfolio/sumitomo-kenki.png" alt="Sumitomo Kenki"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Sumitomo Kenki</p>
+                                <!-- </a> -->
+                                <div class="addition-desc text-left">
+                                WebフロントエンドDev (コーディング | CMS)
+                                    <div class="grey-clr">モバイル最適化, CMS, コーポレートWeb, 建機</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <!-- <a href="https://sibad.id/id" target="_blank" rel="noreferrer"> -->
+                                    <img src="/img/portfolio/aia-berbagi.png" alt="AIA Berbagi"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">AIA Berbagi</p>
+                                <!-- </a> -->
+                                <div class="addition-desc text-left">
+                                Web制作 (コーディング | API連携)
+                                    <div class="grey-clr">フォーム開発, マイクロサイト, 保険, CSR</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <!-- <a href="https://sibad.id/id" target="_blank" rel="noreferrer"> -->
+                                    <img src="/img/portfolio/aia-conservation.png" alt="AIA Conservation"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">AIA Conservation</p>
+                                <!-- </a> -->
+                                <div class="addition-desc text-left">
+                                Web制作 (デザイン | コーディング)
+                                    <div class="grey-clr">フォーム開発, マルチユーザージャーニー, マイクロサイト, Adobe Forms, 保険</div>
                                 </div>
                             </div>
 

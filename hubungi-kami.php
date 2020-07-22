@@ -732,9 +732,9 @@ if(isset($_POST['submitted']))
 
             <section style="background-color: #f4f4f4;">
                 <div class="container__ text-center" style="padding-bottom:0">
-                    <span class="title-index" style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px;">
+                    <h1 class="title-index" style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px; width: max-content; margin: auto;">
                         Contact Us
-                    </span><br><br>
+                    </h1>
                     <div class="bg-grey" style="padding-top: 10px;">
                         <div class="contact-us-cont">
                             Terima kasih Anda telah tertarik dengan seluruh layanan yang kami tawarkan. Jika Anda ingin

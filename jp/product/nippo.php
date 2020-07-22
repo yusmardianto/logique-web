@@ -242,7 +242,7 @@ if(isset($_POST['submitted']))
                  <div class="row" style="margin-right:0;margin-left:0;">
                      <div class="col-md-12 text-center p-top-25" style=" padding-top: 15%; ">
                          <img src="img/nippo/LogoNippo.png" alt="nippo" class="fade-in logo m-logo">
-                         <p class="SISTEM-LAPORAN-KERJA fade-in">日報から原価工数管理や従業員評価を行うことが可能な日報ツール</p>
+                         <h1 class="SISTEM-LAPORAN-KERJA fade-in">日報から原価工数管理や従業員評価を行うことが可能な日報ツール</h1>
                      </div>
                  </div>
              </div>

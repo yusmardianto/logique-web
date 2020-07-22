@@ -292,7 +292,7 @@ if (isset($_POST['submitted'])) {
 
             <div class="ready-to-use">
                 <div class="container__">
-                    <h3 class="text-center">Ready-to-use dental website with templates of your choice!</h3>
+                    <h1 class="text-center">Ready-to-use dental website with templates of your choice!</h1>
                     <img src="assets/img/img-new-dentist/3_people.png" class="img-3-people img-center img-responsive" alt="3-people" />
                     <div class="can-help">
                         <img src="assets/img/img-new-dentist/logo_logique.png" alt="logo">
