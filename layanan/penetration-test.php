@@ -253,7 +253,7 @@
             <div class="container__">
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
-                        <div class="tahukah-title">Tahukah Anda tentang Cyber Security Risk ?</div><br />
+                        <h1 class="tahukah-title">Tahukah Anda tentang Cyber Security Risk ?</h1><br />
                         <p>Keamanan cyber menjadi salah satu upaya yang perlu ditingkatkan setiap hari terutama jika Anda
                             memiliki bisnis yang berjalan menggunakan media digital. Serangan cyber sudah menjadi ancaman
                             terbesar bagi setiap perusahaan di dunia. Sebuah studi yang dilakukan di University of Maryland

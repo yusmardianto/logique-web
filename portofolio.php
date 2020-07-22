@@ -173,7 +173,7 @@
 
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
-                    <div class="title"><b>Our</b><span class="yellow"> Portfolio</span></div>
+                    <h1 class="title"><b>Our</b><span class="yellow"> Portfolio</span></h1>
                     <p class="title__description">LOGIQUE telah mengembangkan banyak Website, Aplikasi Berbasis Web dan Mobile App, serta memberikan dukungan terkait Penetration Test untuk klien dari berbagai industri seperti Asuransi, E-Commerce, dan Otomotif. Berikut adalah beberapa portofolio hasil pengembangan Website, Aplikasi Berbasis Web, Mobile App / PWA, dan Digital Marketing kami.</p>
 
                     <div class="client-list__wrapper">

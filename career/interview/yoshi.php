@@ -119,7 +119,7 @@
             </div>
             <div class="col-md-7">
               <div class="interview__role-title --white">
-                <h2>-- Yoshi, CEO / Founder</h2>
+                <h1>-- Yoshi, CEO / Founder</h1>
               </div>
             </div>
           </div>

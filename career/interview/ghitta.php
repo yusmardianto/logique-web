@@ -119,7 +119,7 @@
             </div>
             <div class="col-md-7">
               <div class="interview__role-title --white">
-                <h2>-- Ghitta, HRD</h2>
+                <h1>-- Ghitta, HRD</h1>
               </div>
             </div>
           </div>

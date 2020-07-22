@@ -239,8 +239,8 @@ if(isset($_POST['submitted']))
                  <div class="row" style="margin-right:0;margin-left:0;">
                      <div class="col-md-12 text-center p-top-25" style=" padding-top: 15%; ">
                          <img src="img/nippo/LogoNippo.png" alt="nippo" class="fade-in logo m-logo">
-                         <p class="SISTEM-LAPORAN-KERJA fade-in">A Daily Reporting Tool that manages man-hour cost effectiveness
-                             <br>and conducts employee evaluations through daily reports.</p>
+                         <h1 class="SISTEM-LAPORAN-KERJA fade-in">A Daily Reporting Tool that manages man-hour cost effectiveness
+                             <br>and conducts employee evaluations through daily reports.</h1>
                      </div>
                  </div>
              </div>

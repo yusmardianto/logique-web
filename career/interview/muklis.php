@@ -119,7 +119,7 @@
             </div>
             <div class="col-md-7">
               <div class="interview__role-title --white">
-                <h2>-- Muklis, Senior Back End Developer</h2>
+                <h1>-- Muklis, Senior Back End Developer</h1>
               </div>
             </div>
           </div>
