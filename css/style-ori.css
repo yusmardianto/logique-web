@@ -167,12 +167,12 @@ section.maintop {
         padding-right: 0;
     }
     .logo--update-design {
-        margin: 15px auto 0;
+        margin: 7px auto 0;
     }
     .lang-logo--update-design .list-inline {
         position: relative !important;
         top: 0;
-        margin-top: 10px;
+        margin-top: 12px;
         padding-top: 7px;
         text-align: center;
         background-color: #2C3641;
@@ -1478,7 +1478,7 @@ left: -70px;
     background-color: #ffca13!important;
     position: relative;
     right: 0!important;
-    margin-top: 5px
+    margin-top: 0;
 }
 
 .navbar-toggle--update-design {
@@ -1513,7 +1513,7 @@ left: -70px;
 
 @media (max-width: 767.98px) {
     .wrapper .navbar-toggle.collapsed {
-        left: 15px !important;
+        left: 10px !important;
     }
     .wrapper .navbar-toggle {
         left: 110px;
@@ -1570,7 +1570,6 @@ left: -70px;
 .page-nav {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
     align-items: stretch;
     align-self: stretch;
     margin: 15px auto;
