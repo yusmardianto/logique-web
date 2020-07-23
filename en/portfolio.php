@@ -54,7 +54,7 @@
                     <div class="text-center">
                         <a href="logique.php">
                             <div class="img-about"></div>
-                            About Us
+                            About <br>Us
                         </a>
                     </div>
                     <div class="text-center active">
@@ -84,7 +84,7 @@
                     <div class="text-center">
                         <a href="contact.php">
                             <div class="img-contact"></div>
-                            Contact Us
+                            Contact <br>Us
                         </a>
                     </div>
                     <div class="text-center">
@@ -112,13 +112,12 @@
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
                             <div class="container">
+                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                                 <ul class="list-inline">
                                     <li class="active"><a href="#">EN</a></li>
                                     <li><a href="../portofolio.php">ID</a></li>
                                     <li><a href="../jp/portfolio.php">JP</a></li>
                                 </ul>
-                                <a href="index.php"><img src="/img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
                     </div>
