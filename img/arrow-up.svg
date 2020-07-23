@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="10px" viewBox="0 0 16 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons / Navigation 24px / Grey / Chevron left</title>
+    <g id="Portfolio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Portfolio-Floating-Chat" transform="translate(-305.000000, -653.000000)">
+            <g id="Group-3" transform="translate(205.000000, 631.000000)">
+                <g id="Group" transform="translate(92.000000, 11.000000)">
+                    <g id="Chevron-left" transform="translate(16.000000, 16.000000) rotate(-270.000000) translate(-16.000000, -16.000000) ">
+                        <path d="M19.829762,10.570238 C20.2183337,10.1816663 20.2166788,9.55001211 19.8276267,9.16096004 L19.3723733,8.70570663 C18.9826223,8.31595562 18.3431489,8.3235178 17.95672,8.70994663 L11.3766133,15.2900534 C10.9845206,15.6821461 10.9901845,16.3235178 11.3766133,16.7099466 L17.95672,23.2900534 C18.3488127,23.6821461 18.9833212,23.6833454 19.3723733,23.2942934 L19.8276267,22.83904 C20.2173777,22.449289 20.2207483,21.8207483 19.829762,21.429762 L14.4,16 L19.829762,10.570238 Z" id="Shape" fill="#000000"></path>
+                        <rect id="Bounds" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
