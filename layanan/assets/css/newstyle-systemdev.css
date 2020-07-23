@@ -85,7 +85,7 @@ padding:2px 0;
 .systedev-page h3 p{
     padding-top: 30px;
     font-size: 18px;
-    font-weight: bold;
+    font-weight: 600;
     margin-bottom: 25px;
 }
 .btn-yellow {
@@ -134,7 +134,7 @@ section{
 }
 section h2{
     font-size: 24px;
-    font-weight: bold;
+    font-weight: 600;
     margin-bottom: 40px;
 }
 .whyour-systemdev{
@@ -194,7 +194,7 @@ section h2{
 }
 .skema-content h3{
     font-size: 20px;
-    font-weight: bold;
+    font-weight: 600;
     position: relative;
     padding-left: 25px;
 }
@@ -283,7 +283,7 @@ section h2{
 }
 .unsupport-content h3{
     font-size: 20px;
-    font-weight: bold;
+    font-weight: 600;
     text-align: center;
     display: flex;
     flex-wrap: wrap;
@@ -429,10 +429,17 @@ section h2{
     width: 48px; 
     margin-bottom: 20px;
 }
-.success-item.sc-seeall .other-success-item img{
+.showmore .success-item.sc-seeall .other-success-item img{
     height: 20px;
     margin-top: 50%;
-    transform: translatey(-10px);
+    transform: translatey(-10px) rotate(90deg);
+
+}
+.showless .success-item.sc-seeall .other-success-item img{
+    height: 20px;
+    margin-top: 50%;
+    transform: translatey(-10px) rotate(-90deg);
+
 }
 .success-item a.more-icon{
     text-decoration: underline;

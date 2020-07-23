@@ -32,8 +32,7 @@
 		$msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
 	}
 }
-?>
-
+?> 
  <!DOCTYPE html>
  <html lang="id">
 
@@ -297,7 +296,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                         <div class="col-sm-6">
                             <div class="skema-content">
                             <h3><span class="number">2.</span> Skema Berbasis Resource</h3>
-                            <p>PTipe ini dapat dipilih jika Anda ingin segera menjalankan proses pengembangan sistem namun work space, konsep, atau kebutuhan lain yang diperlukan masih belum ditetapkan. Anda dapat memulai dengan menyewa Business Analyst yang dilanjutkan dengan Designer dan Developer selama proses pengembangan sistem berbasis web.</p>
+                            <p>Tipe ini dapat dipilih jika Anda ingin segera menjalankan proses pengembangan sistem namun work space, konsep, atau kebutuhan lain yang diperlukan masih belum ditetapkan. Anda dapat memulai dengan menyewa Business Analyst yang dilanjutkan dengan Designer dan Developer selama proses pengembangan sistem berbasis web.</p>
                             </div>
                         </div>
                     </div>
@@ -694,15 +693,201 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                 </div>
                             </div>
                             <div class="col-sm-3">
-                                <a href="#">
+                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                  <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem CRM untuk Pembeli Lelang.</h4>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                        </button>
+                                      </div>
+                                      <div class="subheader">
+                                          2 bulan, PHP Framework, MySQL, AWS
+                                      </div>
+                                      <div class="modal-body">
+                                        <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana customer dapat melakukan pengecekan tagihan, mendapatkan informasi penting seperti riwayat keikursertaan lelang, serta mengelola point reward yang mereka dapatkan dari transaksi pembelian yang telah dilakukan. Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, serta menggunakan database MySQL. Customer bisa mendapatkan informasi yang dibutuhkan secara realtime, karena sistem ini terkoneksi dengan core system melalui secured-API.</p>
+                                      </div>
+                                       
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Sistem CRM untuk Pembeli Lelang.</h3>
+                                        <p>2 bulan, PHP Framework, MySQL, AWS</p>
+                                    </div>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                  <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem CRM untuk Pembeli Lelang.</h4>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                        </button>
+                                      </div>
+                                      <div class="subheader">
+                                          2 bulan, PHP Framework, MySQL, AWS
+                                      </div>
+                                      <div class="modal-body">
+                                        <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana customer dapat melakukan pengecekan tagihan, mendapatkan informasi penting seperti riwayat keikursertaan lelang, serta mengelola point reward yang mereka dapatkan dari transaksi pembelian yang telah dilakukan. Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, serta menggunakan database MySQL. Customer bisa mendapatkan informasi yang dibutuhkan secara realtime, karena sistem ini terkoneksi dengan core system melalui secured-API.</p>
+                                      </div>
+                                       
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Sistem CRM untuk Pembeli Lelang.</h3>
+                                        <p>2 bulan, PHP Framework, MySQL, AWS</p>
+                                    </div>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                  <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem CRM untuk Pembeli Lelang.</h4>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                        </button>
+                                      </div>
+                                      <div class="subheader">
+                                          2 bulan, PHP Framework, MySQL, AWS
+                                      </div>
+                                      <div class="modal-body">
+                                        <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana customer dapat melakukan pengecekan tagihan, mendapatkan informasi penting seperti riwayat keikursertaan lelang, serta mengelola point reward yang mereka dapatkan dari transaksi pembelian yang telah dilakukan. Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, serta menggunakan database MySQL. Customer bisa mendapatkan informasi yang dibutuhkan secara realtime, karena sistem ini terkoneksi dengan core system melalui secured-API.</p>
+                                      </div>
+                                       
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Sistem CRM untuk Pembeli Lelang.</h3>
+                                        <p>2 bulan, PHP Framework, MySQL, AWS</p>
+                                    </div>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
+                                </div>
+                            </div>
+                            
+                            <div class="col-sm-3">
+                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                  <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem CRM untuk Pembeli Lelang.</h4>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                        </button>
+                                      </div>
+                                      <div class="subheader">
+                                          2 bulan, PHP Framework, MySQL, AWS
+                                      </div>
+                                      <div class="modal-body">
+                                        <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana customer dapat melakukan pengecekan tagihan, mendapatkan informasi penting seperti riwayat keikursertaan lelang, serta mengelola point reward yang mereka dapatkan dari transaksi pembelian yang telah dilakukan. Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, serta menggunakan database MySQL. Customer bisa mendapatkan informasi yang dibutuhkan secara realtime, karena sistem ini terkoneksi dengan core system melalui secured-API.</p>
+                                      </div>
+                                       
+                                    </div>
+                                  </div>
+                                </div>  
+                                <div class="success-item scitem1 ">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Sistem CRM untuk Pembeli Lelang.</h3>
+                                        <p>2 bulan, PHP Framework, MySQL, AWS</p>
+                                    </div>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3 more">
+                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                  <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem CRM untuk Pembeli Lelang.</h4>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                        </button>
+                                      </div>
+                                      <div class="subheader">
+                                          2 bulan, PHP Framework, MySQL, AWS
+                                      </div>
+                                      <div class="modal-body">
+                                        <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana customer dapat melakukan pengecekan tagihan, mendapatkan informasi penting seperti riwayat keikursertaan lelang, serta mengelola point reward yang mereka dapatkan dari transaksi pembelian yang telah dilakukan. Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, serta menggunakan database MySQL. Customer bisa mendapatkan informasi yang dibutuhkan secara realtime, karena sistem ini terkoneksi dengan core system melalui secured-API.</p>
+                                      </div>
+                                       
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Sistem CRM untuk Pembeli Lelang.</h3>
+                                        <p>2 bulan, PHP Framework, MySQL, AWS</p>
+                                    </div>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3 more">
+                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                  <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem CRM untuk Pembeli Lelang.</h4>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                        </button>
+                                      </div>
+                                      <div class="subheader">
+                                          2 bulan, PHP Framework, MySQL, AWS
+                                      </div>
+                                      <div class="modal-body">
+                                        <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana customer dapat melakukan pengecekan tagihan, mendapatkan informasi penting seperti riwayat keikursertaan lelang, serta mengelola point reward yang mereka dapatkan dari transaksi pembelian yang telah dilakukan. Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, serta menggunakan database MySQL. Customer bisa mendapatkan informasi yang dibutuhkan secara realtime, karena sistem ini terkoneksi dengan core system melalui secured-API.</p>
+                                      </div>
+                                       
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Sistem CRM untuk Pembeli Lelang.</h3>
+                                        <p>2 bulan, PHP Framework, MySQL, AWS</p>
+                                    </div>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3 showmore">
+                                <a href="javascript:void(0)" class="">
                                 <div class="success-item sc-seeall text-center"> 
                                     <div class="center-btn" style=""> 
                                         <span class="other-success-item">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward-yellow.svg"> </span><br>
-                                        Lihat lebih banyak
+                                        <span class="btntext">Lihat lebih banyak</span>
                                     </div>    
                                 </div>
                                 </a>
                             </div>
+                            <div class="col-sm-3 showless" style="display: none;">
+                                <a href="javascript:void(0)" class="">
+                                <div class="success-item sc-seeall text-center"> 
+                                    <div class="center-btn" style=""> 
+                                        <span class="other-success-item">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward-yellow.svg"> </span><br>
+                                        <span class="btntext">Lihat lebih sedikit</span>
+                                    </div>    
+                                </div>
+                                </a>
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -1024,7 +1209,11 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
      <?php include '../footer.php'; ?>
 
      <section class="tahap-pemesanan-2 text-center hidden-md hidden-lg" style="padding: 2em">Copyright 2018 <span class="logofont">Logique</span></section>
-
+     <style type="text/css">
+         .more{
+            display: none;
+         }
+     </style>
      <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->
      <script src="/js/bootstrap.min.js"></script>
      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
@@ -1118,7 +1307,21 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
         // instead of a settings object
       ]
         });
+
+
+    $('.showmore').click(function(){
+         $('.more').css('display','inline-block');
+         $('.showmore').css('display','none'); 
+         $('.showless').css('display','inline-block');   
+        })
+
+    $('.showless').click(function(){
+         $('.more').css('display','none');
+         $('.showless').css('display','none'); 
+         $('.showmore').css('display','inline-block');  
+        })
      });
+
      </script>
  </body>
 
