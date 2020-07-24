@@ -26,9 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Jasa Pembuatan Progressive Web Apps (PWA) | VIP Plaza | LOGIQUE</title>
+  <title>Jasa Pembuatan Progressive Web Apps (PWA) | VIP Plaza | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>

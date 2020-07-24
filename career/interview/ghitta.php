@@ -18,9 +18,7 @@
   <meta property="og:description"
     content="Ingin mengetahui seputar pedoman HR / GA yang ada di LOGIQUE? Ghitta menyampaikan pesan dan kriteria staff HR / GA yang diinginkan. Segera kunjungi halaman karir LOGIQUE sekarang dan daftarkan diri Anda.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Interview HR | Pesan Untuk Kandidat | LOGIQUE</title>
+  <title>Interview HR | Pesan Untuk Kandidat | LOGIQUE</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

@@ -53,9 +53,7 @@ if (isset($_POST['submitted'])) {
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
 	<meta property="og:description" content="LOGIQUE bisa membantu Anda dalam pembuatan website untuk bisnis klinik gigi dengan tampilan yang user friendly, unik dan modern. Raih pelanggan Anda dengan teknologi digital. Untuk lebih lengkapnya, segera hubungi LOGIQUE!">
 	<!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> -->
-	
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia</title>
+	<title>Jasa Pembuatan Website Klinik Gigi | LOGIQUE Digital Indonesia</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
 	<link href="/css/style.css" rel="stylesheet">
 	<link href="assets/css/style-dentist.css" rel="stylesheet">

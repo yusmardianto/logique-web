@@ -51,8 +51,6 @@ if(isset($_POST['submitted']))
     <meta property="og:description"
         content="LOGIQUEはインドネシアや他の東南アジアの国で、クライアントにWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などデジタルマーケティングサービスを提供してきました。7年間の大企業向けの豊富な実績があります。デジタル領域のベンダー選定がインドネシアでの成功のキーとお考えであれば、LOGIQUEにご相談ください。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Web / ホームページの制作運用 デジタルマーケティングに関するお問い合わせ | LOGIQUE デジタルインドネシア</title>
 
     <!-- Bootstrap -->

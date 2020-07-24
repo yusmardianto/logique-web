@@ -18,9 +18,7 @@
   <meta property="og:description"
     content="Ingin pengalaman bekerja di sebuah PMA dengan startup culture yang dipimpin oleh sosok yang kompeten dan people oriented? PT Logique Digital Indonesia merupakan peluang karir yang tepat untuk anda. Simak interview eksklusif dari CEO Logique, Yoshi-san.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Interview Detail Logique - Yoshi</title>
+  <title>Interview Detail Logique - Yoshi</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

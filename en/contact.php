@@ -53,8 +53,6 @@ if(isset($_POST['submitted']))
     <meta property="og:description"
         content="Grow and increase your business profit through digital with LOGIQUE Digital Indonesia, the top Web Developer / Design, Digital Maketing, & IT Consultant in Jakarta. Contact us to ask more about digital marketing in Indonesia and how we can help your business.Maximize and increase your business profits through digital growth with LOGIQUE Digital Indonesia, the top Web Development/Design, Digital Marketing and IT consultancy in Jakarta. Contact us to ask more about digital marketing in Indonesia, and how we can help grow your company.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Contact about Digital Marketing Indonesia | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->

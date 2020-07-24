@@ -19,8 +19,6 @@
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description" content="If you are interested in implementing a digital marketing strategy for your business, LOGIQUE can help increase your business profits through SEO, Google Ads ad campaigns, Facebook Ads, and others.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Digital Marketing | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
