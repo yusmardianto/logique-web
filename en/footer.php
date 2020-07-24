@@ -23,6 +23,10 @@ footer {
     bottom: 20px !important;
 }
 
+#PureChatWidget {
+    transition: all ease-in-out .25s !important;
+}
+
 #PureChatWidget.purechat .purechat-collapsed .purechat-widget-header {
     min-height: 55px !important;
 }
@@ -237,6 +241,8 @@ $('.map-container')
             $('.purechat-widget-title').append('<img src="/img/arrow-up.svg" style="padding-right: 7px !important;" class="purechat-widget-title__arrow"/>');            
         });
         purechatApi.on('chatbox:expand', function (args) {
+            $('#PureChatWidget').css('width', '');
+            $('#PureChatWidget').css('min-width', '');
             $('#PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-expanded').attr('style', function(i,s) { return (s || '') + 'left: 50% !important;transform: translateX(-50%) !important; right: unset !important; width: 90% !important;' });
             $('.purechat-widget-title__arrow').addClass('--hide');
         });
