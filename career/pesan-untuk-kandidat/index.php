@@ -18,9 +18,7 @@
   <meta property="og:description"
     content="Kenali lebih dekat para staff profesional kami yang dapat membantu Anda mengembangkan kemampuan yang Anda miliki. Berikut ini pesan dari para staff terbaik kami bagi Anda. Segera daftarkan diri Anda di LOGIQUE sekarang juga!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Pesan Untuk Kandidat | lowongan web programmer | LOGIQUE Digital Indonesia</title>
+  <title>Pesan Untuk Kandidat | lowongan web programmer | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

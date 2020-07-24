@@ -26,9 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Pembuatan Aplikasi Customer Management System (CRM) | Zuttoride | LOGIQUE</title>
+  <title>Pembuatan Aplikasi Customer Management System (CRM) | Zuttoride | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>

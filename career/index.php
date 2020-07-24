@@ -17,9 +17,7 @@
   <meta property="og:description"
     content="Anda sedang mencari informasi lowongan kerja di bidang IT, seperti Programmer, Web Designer, Project Manager, Digital Marketing, dan lain-lain? Segera kunjungi halaman karir LOGIQUE sekarang. Kami membuka lowongan kerja dan memberikan kesempatan berkarir kepada Anda untuk bergabung bersama kami. ">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Karir IT Consultant | Lowongan Kerja | LOGIQUE Digital Indonesia</title>
+  <title>Karir IT Consultant | Lowongan Kerja | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

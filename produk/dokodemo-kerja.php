@@ -53,9 +53,7 @@ if(isset($_POST['submitted']))
      <meta property="og:description"
          content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan kerja remote. Aplikasi ini mampu monitor dan kalkulasi jam kerja karyawan secara akurat, dilengkapi feature screencapture otomatis. Dengan begitu, perusahaan Anda menjadi lebih produktif.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja | LOGIQUE</title>
+     <title>Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja | LOGIQUE</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="css/style_dokodemo.css" rel="stylesheet">
      <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

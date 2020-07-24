@@ -9,9 +9,7 @@
 	<meta name="keywords" content="logique, optimasi web, digital marketing, pemasaran digital, responsive web, optimasi SEO, web development, SEO content creator, web design, web redesign, SEO service, seo perbankan, seo automotif, seo pariwisata, seo property, seo finansial, servis optimasi seo bisnis, seo service jakarta, multilanguage content, website jepang, website portfolio">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Logique Digital Marketing - Optimasi SEO</title>
+	<title>Logique Digital Marketing - Optimasi SEO</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/style-seo-optimization.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">

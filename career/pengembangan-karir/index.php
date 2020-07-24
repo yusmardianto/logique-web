@@ -18,9 +18,7 @@
   <meta property="og:description"
     content="LOGIQUE menawarkan kepada seluruh karyawannya dengan pengembangan karir sesuai impian Anda jika Anda mau berusaha keras dan mengembangkan kemampuan Anda. Segera kunjungi halaman karir kami dan dapatkan info lowongan kerja terbaru sekarang juga.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Pengembangan Karir | Info Karir | LOGIQUE Digital Indonesia</title>
+  <title>Pengembangan Karir | Info Karir | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

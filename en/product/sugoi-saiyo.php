@@ -56,9 +56,7 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
          content="SugoiSaiyo, efficient and effective recruitment management system for HR, created by LOGIQUE Digital Indonesia to help you recruit, select, and score the perfect candidates based on your company needs, with less time and less energy. Contact us to try now.">
 
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Recruitment Management System | Online Recruitment Tool | LOGIQUE Digital Indonesia</title>
+     <title>Recruitment Management System | Online Recruitment Tool | LOGIQUE Digital Indonesia</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/style.css" rel="stylesheet">
      <link href="css/style_sugoisaiyo.css" rel="stylesheet">

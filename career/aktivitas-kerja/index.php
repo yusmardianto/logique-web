@@ -18,9 +18,7 @@
   <meta property="og:description"
     content="Sebagai perusahaan yang bergerak di bidang pembuatan dan pengembangan website, digital marketing, dan proyek digital lainnya. Kami membutuhkan orang-orang yang mau bekerja keras dan ingin terus mengembangkan kemampuannya. Daftarkan diri Anda dan lihat sendiri aktivitas kerja kami di LOGIQUE.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Aktivitas Kerja | karir developer | LOGIQUE Digital Indonesia</title>
+  <title>Aktivitas Kerja | karir developer | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

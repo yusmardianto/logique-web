@@ -54,9 +54,7 @@ if(isset($_POST['submitted']))
      <meta property="og:description"
          content="Sugoi Saiyo merupakan sistem rekrutmen karyawan berbasis web dari LOGIQUE yang dapat memudahkan HR dalam melakukan seleksi dan evaluasi calon karyawan, sehingga perusahaan bisa mendapatkan kandidat yang tepat dan sesuai dengan waktu yang singkat.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Sistem Proses Rekrutmen Karyawan | Produk Digital | LOGIQUE</title>
+     <title>Sistem Proses Rekrutmen Karyawan | Produk Digital | LOGIQUE</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="../css/style.css" rel="stylesheet">
      <link href="css/style_sugoisaiyo.css" rel="stylesheet">

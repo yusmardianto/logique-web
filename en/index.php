@@ -63,8 +63,6 @@
     ga('send', 'pageview');
     </script>
     <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
-    
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Web Developer / Design, Digital Marketing, IT Consultant | LOGIQUE DIGITAL INDONESIA</title>
 
     <!-- Bootstrap -->

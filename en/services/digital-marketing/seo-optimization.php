@@ -15,9 +15,7 @@
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
 	<meta property="og:description" content="Logique as professional web developer, can help you optimize the technical SEO implementation on your website to be the first page of Google, accompanied by modern web design, and multilanguage content: ID, ENG, JP. We have helped various kind of industry such as bank, automotive, tourism, property">
-	
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Logique Digital Marketing - SEO Optimization</title>
+	<title>Logique Digital Marketing - SEO Optimization</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/style-seo-optimization.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
