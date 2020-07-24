@@ -313,7 +313,7 @@
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/jba-bike-mobile-bg.png')">
                                     <div>
                                         <img src="/img/portfolio/update/jba-bike-mobile.png" alt="">
-                                        <h3>Caroline Inspection App</h3>
+                                        <h3>JBA Bike Inspection App</h3>
                                     </div>
                                 </div>
                             </div>
@@ -321,7 +321,7 @@
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
                                     <div>
                                         <img src="/img/portfolio/update/mobile-hino.png" alt="">
-                                        <h3>Caroline Inspection App</h3>
+                                        <h3>Weeo Hino Connect</h3>
                                     </div>
                                 </div>
                             </div>
@@ -329,7 +329,7 @@
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-bg.png')">
                                     <div>
                                         <img src="/img/portfolio/update/mobile-jba.png" alt="">
-                                        <h3>Caroline Inspection App</h3>
+                                        <h3>JBA Indonesia Auction Bidding App</h3>
                                     </div>
                                 </div>
                             </div>
@@ -337,7 +337,7 @@
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-sinarmas-bg.png')">
                                     <div>
                                         <img src="/img/portfolio/update/mobile-sinarmas.png" alt="">
-                                        <h3>Caroline Inspection App</h3>
+                                        <h3>Sinarmas Career</h3>
                                     </div>
                                 </div>
                             </div>
@@ -345,7 +345,7 @@
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
                                     <div>
                                         <img src="/img/portfolio/update/mobile-hino.png" alt="">
-                                        <h3>Caroline Inspection App</h3>
+                                        <h3>Frangipani Esthetics Guest Comment App</h3>
                                     </div>
                                 </div>
                             </div>
