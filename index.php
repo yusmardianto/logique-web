@@ -70,9 +70,7 @@
   ga('send', 'pageview');
   </script>
   <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Jasa Pembuatan Website, Aplikasi, Digital Marketing, Penetration Testing | LOGIQUE</title>
+  <title>Jasa Pembuatan Website, Aplikasi, Digital Marketing, Penetration Testing | LOGIQUE</title>
 
   <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" /> -->
   </noscript>
@@ -286,12 +284,12 @@
                   <h1 class="title-index" style="margin-top: 100px;">Pengembang Sistem Web Terbaik di Jakarta, <br>Menyediakan Solusi Digital
                     untuk Bisnis Anda</h1>
                   <p><strong>LOGIQUE DIGITAL INDONESIA</strong> adalah Developer Web Application / Aplikasi Mobile
-                    profesional yang memiliki <br> spesialisasi dalam pembuatan dan perancangan WebApp, dengan penekanan
-                    pada Pemasaran Digital  <br>(Digital Marketing), untuk meningkatkan dan memaksimalkan
-                    keuntungan bisnis Anda. 
-                    Kami telah bekerja <br>dengan banyak perusahaan internasional maupun lokal ternama,  memenuhi
-                    berbagai permintaan, <br>seperti pembuatan sistem lelang online, E-commerce,sistem rekrutmen
-                    karyawan, e-money, <br>berbagai aplikasi internal perusahaan, dan pengoperasian iklan digital.</p>
+                    profesional yang memiliki spesialisasi dalam pembuatan dan perancangan WebApp, dengan penekanan
+                    pada Pemasaran Digital (Digital Marketing), untuk meningkatkan dan memaksimalkan
+                    keuntungan bisnis Anda. <br>
+                    Kami telah bekerja dengan banyak perusahaan internasional maupun lokal ternama,  memenuhi
+                    berbagai permintaan, seperti pembuatan sistem lelang online, E-commerce, sistem rekrutmen
+                    karyawan, e-money, berbagai aplikasi internal perusahaan, dan pengoperasian iklan digital.</p>
                 </div>
               </div>
               <div class="row homepage-hero__card">

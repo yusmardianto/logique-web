@@ -18,8 +18,6 @@
     <meta property="og:description"
         content="LOGIQUE Digital Indonesia, perusahaan Web Developer, Konsultan IT, dan Digital Marketing di Jakarta yang berikan solusi terbaik untuk bisnis seperti pengembangan website, web sistem, dan mobile app.">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Web / Mobile App Developer, Konsultan IT, Digital Marketing Jakarta | LOGIQUE</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

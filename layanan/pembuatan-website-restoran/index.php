@@ -15,8 +15,6 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
 	<meta property="og:description" content="LOGIQUE juga menyediakan layanan pembuatan website serta aplikasi mobile untuk bisnis restoran dengan tampilan menarik, baik untuk meningkatkan brand image maupun meningkatkan engagement dengan pelanggan Anda. Hubungi LOGIQUE untuk mendapatkan layanan ini segera!">
 	<!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> -->
-    
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Jasa Pembuatan Website Restoran | LOGIQUE Digital Indonesia</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">	 
     <link href="css/style.css" rel="stylesheet">

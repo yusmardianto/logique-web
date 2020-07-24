@@ -53,9 +53,7 @@ if(isset($_POST['submitted']))
      <meta property="og:description"
          content="LOGIQUE is the top mobile app developer in Jakarta, has been trusted to develop the highly responsive mobile app, Android and iOS, with native / hybrid app and PWA builder for enterprise clients. We develop apps, strategic plan, design, QA, user testing, etc. Contact us to create yours now">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>スマホアプリ開発｜モバイルアプリ開発・WebシステムのLOGIQUEデジタルインドネシア</title>
+     <title>スマホアプリ開発｜モバイルアプリ開発・WebシステムのLOGIQUEデジタルインドネシア</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="../../css/style.css" rel="stylesheet">
      <link href="assets/css/style-mobileapps.css" rel="stylesheet">

@@ -56,9 +56,7 @@ if(isset($_POST['submitted']))
          content="NIPPO, a daily report, evaluation, work time management system that provides you with quantity, quality, and contents of employees detailed works. Created by LOGIQUE Digital Indonesia to make monitoring and evaluating employee's daily works easier. Contact us to try now!">
 
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Daily Report, Evaluation, Work Time Management System | NIPPO | LOGIQUE Digital Indonesia</title>
+     <title>Daily Report, Evaluation, Work Time Management System | NIPPO | LOGIQUE Digital Indonesia</title>
      <link rel="stylesheet" href="/css/bootstrap.min.css">
      <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
      <link rel="stylesheet" href="/css/style.css">
@@ -239,8 +237,8 @@ if(isset($_POST['submitted']))
                  <div class="row" style="margin-right:0;margin-left:0;">
                      <div class="col-md-12 text-center p-top-25" style=" padding-top: 15%; ">
                          <img src="img/nippo/LogoNippo.png" alt="nippo" class="fade-in logo m-logo">
-                         <p class="SISTEM-LAPORAN-KERJA fade-in">A Daily Reporting Tool that manages man-hour cost effectiveness
-                             <br>and conducts employee evaluations through daily reports.</p>
+                         <h1 class="SISTEM-LAPORAN-KERJA fade-in">A Daily Reporting Tool that manages man-hour cost effectiveness
+                             <br>and conducts employee evaluations through daily reports.</h1>
                      </div>
                  </div>
              </div>

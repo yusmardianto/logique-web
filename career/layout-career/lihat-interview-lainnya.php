@@ -55,6 +55,17 @@
             </a>
           </div>
           <?php endif; ?>
+          <?php if ($name !== 'aprillian'): ?>
+          <div class="col-md-4">
+            <a href="/career/interview/aprillian.php" class="interview-link">
+              <div class="panel panel-default">
+                <div class="panel-body" style="background: url(/img/career/aprillian.jpg)no-repeat;">
+                  <h3>Aprillian, Leader Digital Marketing Team</h3>
+                </div>
+              </div>
+            </a>
+          </div>
+          <?php endif; ?>
           <!-- <div class="col-md-3">
                   <div class="seemore_">
                     <h3><a href="/career">See More >></a></h3>

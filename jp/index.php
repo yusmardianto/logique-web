@@ -22,9 +22,7 @@
   <meta property="og:description"
     content="インドネシア、ジャカルタでのWebサイト(ホームページ)制作、システム構築、Digitalマーケティング、モバイルアプリ開発(ハイブリッド / iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、コンテンツマーケティングなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。インドネシアで7年以上多くのお客様をご支援してきた実績があります。">
   <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>ジャカルタのWebサイト/ホームページ制作会社 | LOGIQUE デジタルインドネシア</title>
+  <title>ジャカルタのWebサイト/ホームページ制作会社 | LOGIQUE デジタルインドネシア</title>
 
   <!-- Bootstrap -->
   <link href="../css/bootstrap.min.css" rel="stylesheet">

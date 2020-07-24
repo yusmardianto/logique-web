@@ -18,9 +18,7 @@
   <meta property="og:description"
     content="Mau kerja dengan lingkungan dan budaya kerja yang nyaman dengan jam masuk dan jam pulang yang fleksibel? LOGIQUE menawarkan budaya tersebut untuk Anda. Kami juga menawarkan kerja remote bagi seluruh karyawan kami. Segera kunjungi halaman karir LOGIQUE untuk info lowongan yang sedang dibuka sekarang">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Visi & Budaya Kerja | Info Pekerjaan | LOGIQUE Digital Indonesia</title>
+  <title>Visi & Budaya Kerja | Info Pekerjaan | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

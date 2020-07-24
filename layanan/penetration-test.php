@@ -18,8 +18,6 @@
     <meta property="og:description"
         content="LOGIQUE dapat membantu meningkatkan sistem keamanan website dan aplikasi menggunakan metode penetration testing. Segera hubungi LOGIQUE untuk mendapatkan layanan security assessment terbaik di Indonesia.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Penetration Test | Keamanan website | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="../css/style.css" rel="stylesheet">
@@ -253,7 +251,7 @@
             <div class="container__">
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
-                        <div class="tahukah-title">Tahukah Anda tentang Cyber Security Risk ?</div><br />
+                        <h1 class="tahukah-title">Tahukah Anda tentang Cyber Security Risk ?</h1><br />
                         <p>Keamanan cyber menjadi salah satu upaya yang perlu ditingkatkan setiap hari terutama jika Anda
                             memiliki bisnis yang berjalan menggunakan media digital. Serangan cyber sudah menjadi ancaman
                             terbesar bagi setiap perusahaan di dunia. Sebuah studi yang dilakukan di University of Maryland

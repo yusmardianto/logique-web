@@ -6,9 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description" content="404 Not Found Page">
 	<meta name="keywords" content="">
-	<meta name="author" content="">    
+	<meta name="author" content="">
     
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Not Found</title>
 
     <!-- Bootstrap -->

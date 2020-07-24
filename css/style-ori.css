@@ -33,7 +33,7 @@ a,b,body,caption,center,dd,div,em,footer,form,h1,h2,h3,h4,h5,h6,header,html,i,if
     line-height: 1.7;
 } 
 body {
-    font-size: 15px;
+    font-size: 16px;
 }
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {display: block}
 a {outline: 0!important}
