@@ -19,6 +19,7 @@
     <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Logique Digital Marketing - SEO Service Page</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/style-ori.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -56,7 +57,7 @@
 </head>
 
 <body>
-	<div class="wrapper">
+	<div class="wrapper wrapper--update-design wrapper--update-design-font">
 		<div class="nav-lp">
 			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
@@ -119,15 +120,229 @@
 				</div>
 			</div>
 		</div>
-		<div class="content-area">
-			<div class="language-btn">
+
+		<!-- HEADER -->
+		<div class="container-fluid">
+			<div class="row lang-logo--update-design">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-offset-1 col-sm-11">
+							<div class="container">
+								<a href="/en/"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
+								<ul class="list-inline">
+									<li class="active"><a href="#">EN</a></li>
+									<li><a href="/../layanan/digital-marketing.php">ID</a></li>
+									<li><a href="/jp/services/digital-marketing.php">JP</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END HEADER -->
+
+		<div class="content-area content-area__seo">
+
+			<section class="seo__banner">
+				<div class="container text-center">
+					<div class="row">
+						<div class="col-md-offset-1 col-md-10">
+							<h1>Optimize Your Website on Every Search Engine</h1>
+							<p>Many obstacles are often faced by business people who decide to bring their business Go Digital with a website, but after having a website they feel confused.</p>
+							<img src="/en/services/digital-marketing/img/img-seo-optimization/banner-seo.svg" alt="" class="img-responsive">
+							<h3>"Where Can I Get Visitors???"</h3>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="seo__pagination">
+				<div class="container" style="padding:0">
+					<div class="row">
+						<div class="col-sm-12">
+							<ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
+								<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/en/"><span
+											itemprop="name">Home</span></a>
+									<meta itemprop="position" content="1" />
+								</li>
+								<li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+										href="/en/services.php"><span itemprop="name">&nbsp;Services</span></a>
+									<meta itemprop="position" content="2" />
+								</li>
+								<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
+											itemprop="name">&nbsp;SEO Service</span></a>
+									<meta itemprop="position" content="3" />
+								</li>
+							</ol>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="seo__solution">
+				<div class="container">
+					<div class="row">
+						<div class="solution__wrapper col-md-offset-1 col-md-10">
+							<div class="solution__main text-center">
+								<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-banner.svg" alt="">
+								<h2>Search Engine is one solution</h2>
+								<p>Search engines become a platform where users look for an answer or solution, in this situation your website must be able to be present as a solution for every User who has the potential to become your customer.</p>
+								<p>Supported by<span> more than 50 professionals </span>in the field of Digital Marketing, Website Developer, Website Designer, Creative Designer, Content Writer, Copywriter, and Cloud Server Engineer make LOGIQUE as the only company that is able to synergize every aspect of optimizing a website in one roof and mechanism of action.</p>
+							</div>
+							<br>
+							<div class="row">
+								<div class="col-md-6">
+									<img src="" alt="" class="img-responsive seo__dummy">
+								</div>
+								<div class="col-md-6">
+									<p>Our team will always be ready to dedicate its efforts in improving the performance of your website that is supported by the experience of experts who have been experts in their respective fields for years.</p>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-6">
+									<p>Many website development companies are able to create and design websites that look very professional and modern, but unfortunately, most of these companies fail to optimize website functions to make them more friendly with the Search Engine Robot.</p>
+								</div>
+								<div class="col-md-6">
+									<img src="" alt="" class="img-responsive seo__dummy">
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-6">
+									<img src="" alt="" class="img-responsive seo__dummy">
+								</div>
+								<div class="col-md-6">
+									<p>And many SEO service providers know and understand how to optimize a website, however, it is often constrained because of the limitations of experts who understand website development.</p>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-6">
+									<p>In the end, making the process of optimizing the performance of a website takes a long time, whereas you want the company's growth to continue to increase over time.</p>
+								</div>
+								<div class="col-md-6">
+									<img src="" alt="" class="img-responsive seo__dummy">
+								</div>
+							</div>
+							<p class="text-center">This is what LOGIQUE is trying to avoid. Every division involved in optimizing a website will work based on corridors and SEO methods while still paying attention to the aesthetics and functions of a website.</p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="seo__effort">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-offset-1 col-md-10">
+							<p class="text-center">This effort will certainly lead to a high level of customer satisfaction and excellence that is prioritized by search engines when a user searches for a keyword on a search engine, then makes your website a foundation for significant business growth from brand development to increasing sales.</p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="seo__services">
+				<div class="container">
+					<section>
+						<h2 class="text-center">One Stop Solution of SEO Services.</h2>
+	
+						<div class="services__pills">
+							<ul class="nav nav-pills">
+								<li role="presentation" class="active">
+									<a href="#test" data-toggle="pill" aria-controls="home" aria-selected="true">On Page Audit</a>
+								</li>
+								<li role="presentation">
+									<a href="#test2" data-toggle="pill" aria-controls="home" aria-selected="false">Off Page Audit</a>
+								</li>
+								<li role="presentation">
+									<a href="#" data-toggle="pill" aria-controls="home" aria-selected="false">Assets <br>Maintenance</a>
+								</li>
+								<li role="presentation">
+									<a href="#" data-toggle="pill" aria-controls="home" aria-selected="false">Link Building</a>
+								</li>
+								<li role="presentation">
+									<a href="#" data-toggle="pill" aria-controls="home" aria-selected="false">White Hat</a>
+								</li>
+								<li role="presentation">
+									<a href="#" data-toggle="pill" aria-controls="home" aria-selected="false">Multi Languages</a>
+								</li>
+							</ul>
+							<div class="tab-content">
+								<div id="test" class="tab-pane fade in active">
+									<div class="row">
+										<div class="tab-content__text col-md-6">
+											<p>We will analyze every potential and gap that exists in your digital assets, and we will summarize it into a detailed report, giving the best advice & strategy to optimize the greatest potential of your digital assets.</p>
+											<ul>
+												<li><a href="#">Supported by a variety of the latest tools<span>i</span></a></a></li>
+												<li><a href="#">Gathering every problem to the smallest<span>i</span></a></li>
+												<li><a href="#">Summarize it into a report and translate<span>i</span></a></li>
+												<li><a href="#">Invite each of the stakeholders<span>i</span></a></li>
+											</ul>
+										</div>
+										<div class="tab-content__img col-md-6">
+											<div class="text-center">
+											such as SEMRush, Screaming Frog, SEO power suite tools, Ubersuggest, etc. We do an in-depth analysis of the smallest gaps in your website
+											</div>
+										</div>
+									</div>
+								</div>
+								<div id="test2" class="tab-pane fade">
+									test2
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-offset-1 col-md-10">
+									<p class="text-center">LOGIQUE is a home for website developers and digital marketing professionals. This is what strengthens the synergy between developing Digital Assets and optimizing engagement for each of your Digital Assets.</p>
+								</div>
+							</div>
+						</div>
+					</section>
+					<section>
+						<h2 class="text-center">Our Great Contribution to a Business.</h2>
+						<p class="text-center">The quality of our work has been proven by dozens of experiences and work results from various fields of projects from various business industries, such as the Banking Industry, Automotive Industry, Tourism Industry, Property Industry.</p><br>
+	
+						<div class="services__pills">
+							<ul class="nav nav-pills">
+								<li role="presentation" class="active">
+									<a href="#test" data-toggle="pill" aria-controls="home" aria-selected="true">Property Industry</a>
+								</li>
+								<li role="presentation">
+									<a href="#test2" data-toggle="pill" aria-controls="home" aria-selected="false">Tourism industry</a>
+								</li>
+								<li role="presentation">
+									<a href="#" data-toggle="pill" aria-controls="home" aria-selected="false">Automotive Industry</a>
+								</li>
+								<li role="presentation">
+									<a href="#" data-toggle="pill" aria-controls="home" aria-selected="false">Banking Industry</a>
+								</li>
+							</ul>
+							<div class="tab-content">
+								<div id="test" class="tab-pane fade in active">
+									<div class="row">
+										<div class="col-md-6">
+											<img src="" alt="" class="img-responsive">
+										</div>
+										<div class="tab-content__text col-md-6">
+											<p>Some of our clients who have businesses in property also see the digital online world as the biggest market potential from their unit sales. From search engines, they want their property sites to be found immediately when users need them. By implementing the right SEO strategy, LOGIQUE has succeeded in helping clients reach their targets to find potential buyers and increase engagement with them. We continue to optimize from keyword improvisation, meta tags, schema installation, to website display optimization to be mobile-friendly. We managed to get high organic traffic and our clients were quite satisfied with the number of conversions generated.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</section>
+				</div>
+			</section>
+
+			<?php include '../assets/components/dm-links.php' ?>
+			<?php include '../assets/components/other-services.php' ?>
+
+		
+			<div class="language-btn hidden">
 				<ul class="list-inline">
 					<li class="active"><a href="/en/services/digital-marketing/seo-service.php">EN</a></li>
 					<li><a href="/layanan/digital-marketing/jasa-seo.php">ID</a></li>
 					<li><a href="/jp/services/digital-marketing.php">JP</a></li>
 				</ul>
 			</div>
-			<div class="div-top">
+			<div class="div-top hidden">
 				<h1 class="title">
 					<div class="container">
 						<div class="row">

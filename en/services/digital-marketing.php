@@ -50,7 +50,7 @@
     <!-- End Twitter universal website tag code -->
 </head>
 
-<body class="wrapper wrapper--update-design" style="overflow-x: hidden;">
+<body class="wrapper wrapper--update-design wrapper--update-design-font" style="overflow-x: hidden;">
     <style>
     .--top {
         background-color: black;
@@ -163,7 +163,7 @@
 
     <div class="dm content-wrapper__">
 
-        <section class="--top dm__banner">
+        <section class="--top dm__banner" style="margin-top: 64px;">
             <div class="container__">
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
@@ -383,7 +383,17 @@
             </div>
         </section>
 
-        <section class="dm__links">
+        <section class="dm__teamwork">
+            <div class="container__ text-center">
+                <h2>How Logique's Team Work</h2><br>
+                <img src="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" alt="" class="img-responsive">
+            </div>
+        </section>
+
+        <?php include './assets/components/dm-links.php' ?>
+        <?php include './assets/components/other-services.php' ?>
+
+        <!-- <section class="dm__links">
             <div class="container__">
                 <div class="row">
                     <div class="col-md-4">
@@ -427,28 +437,28 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <a href="#" class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/other-fe-be.png" alt="" class="img-responsive">
-                            <h4>Front End / Back End</h4>
+                            <img src="/en/services/assets/img/img-digital-marketing/other-designer.png" alt="" class="img-responsive">
+                            <h4>Web Designer</h4>
                             <p>Work remotely in the Cloud - anytime and on any device - without the hassle of uploading and downloading files. Keep a geographically dispersed team collaborating - and always in sync.</p>
                         </a>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <a href="#" class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/other-fe-be.png" alt="" class="img-responsive">
-                            <h4>Front End / Back End</h4>
+                            <img src="/en/services/assets/img/img-digital-marketing/other-designer.png" alt="" class="img-responsive">
+                            <h4>Consultant</h4>
                             <p>Work remotely in the Cloud - anytime and on any device - without the hassle of uploading and downloading files. Keep a geographically dispersed team collaborating - and always in sync.</p>
                         </a>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <a href="#" class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/other-fe-be.png" alt="" class="img-responsive">
-                            <h4>Front End / Back End</h4>
+                            <img src="/en/services/assets/img/img-digital-marketing/other-mobile.png" alt="" class="img-responsive">
+                            <h4>Mobile Apps</h4>
                             <p>Work remotely in the Cloud - anytime and on any device - without the hassle of uploading and downloading files. Keep a geographically dispersed team collaborating - and always in sync.</p>
                         </a>
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
 
         <!-- <div class="div-top">

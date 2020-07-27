@@ -560,6 +560,10 @@
   font-weight: 400;
 }
 
+[class*='update-design'].wrapper--update-design-font:not(.--jp) .fa{
+  font-family: 'FontAwesome';
+}
+
 [class*='update-design'].wrapper--update-design-font strong {
   font-family: 'Novocento Sans Wide Medium';
 }
