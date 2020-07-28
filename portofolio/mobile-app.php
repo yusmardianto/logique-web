@@ -1,24 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE Digital Indonesia is frequently involved in numerous web development projects, ranging from designing web systems, mobile applications, digital marketing campaigns, and many other IT related ventures. Our work within the Digital and IT areas cover ASEAN countries; especially Indonesia and Japan. Click here to see our top achievements and clientele portfolio.">
-    <meta name="keywords" content="website creation, web-system development, designing, printing, corporate site, landing page">
+        content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
+    <meta name="keywords"
+        content="web design, design coding, pengembangan web, jasa pembuatan website, pengembangan aplikasi mobile, database mysql, node js, sistem crm, payment gateway, mobile optimization, page creation, sistem lelang online">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Portfolio | Web System App Development Works | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/en/portfolio.php">
+    <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="LOGIQUE Digital Indonesia is frequently involved in numerous web development projects, ranging from designing web systems, mobile applications, digital marketing campaigns, and many other IT related ventures. Our work within the Digital and IT areas cover ASEAN countries; especially Indonesia and Japan. Click here to see our top achievements and clientele portfolio.">
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    
-    <title>Portfolio | Web System App Development Works | LOGIQUE Digital Indonesia</title>
+        content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <title>Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -38,51 +38,50 @@
             <span class="icon-bar second"></span>
             <span class="icon-bar third"></span>
         </button>
-
         <div class="collapse navbar-collapse" id="myNavbar">
             <div class="backdrop-test"></div>
             <div class="logique-nav logique-nav--update">
                 <div class="margin-for-nav">
                     <div class="text-center">
-                        <a href="/en/index.php">
+                        <a href="index.php">
                             <div class="img-home"></div>
-                            Home
+                            Beranda
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="/en/logique.php">
+                        <a href="logique.php">
                             <div class="img-about"></div>
-                            About Us
+                            Tentang Kami
                         </a>
                     </div>
                     <div class="text-center active">
-                        <a href="/en/portfolio.php">
+                        <a href="#">
                             <div class="img-portfolio"></div>
                             Portfolio
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="/en/services.php">
+                        <a href="layanan.php">
                             <div class="img-services"></div>
-                            Services
+                            Layanan
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="/en/product.php">
+                        <a href="produk.php">
                             <div class="img-product"></div>
-                            Product
+                            Produk
                         </a>
                     </div>
                     <div class="text-center">
                         <a href="/career/">
                             <div class="img-career"></div>
-                            Career
+                            Karir
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="/en/contact.php">
+                        <a href="hubungi-kami.php">
                             <div class="img-contact"></div>
-                            Contact Us
+                            Hubungi Kami
                         </a>
                     </div>
                     <div class="text-center">
@@ -98,8 +97,8 @@
 
         <!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
         <!-- <div class="contain-video">
-            <video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
-                <source src="../img/12377093.mp4" type="video/mp4">
+            <video poster="img/video-img.png" id="bgvid" playsinline autoplay muted loop>
+                <source src="img/12377093.mp4" type="video/mp4">
             </video>
         </div>
         <div class="bg-white-opacity"></div> -->
@@ -110,12 +109,12 @@
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
                             <div class="container">
+                                <a href="index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
                                 <ul class="list-inline">
-                                    <li class="active"><a href="#">EN</a></li>
-                                    <li><a href="/portofolio/system-development.php">ID</a></li>
-                                    <li><a href="/jp/portfolio/system-development.php">JP</a></li>
+                                    <li><a href="/en/portfolio/mobile-app.php">EN</a></li>
+                                    <li class="active"><a href="#">ID</a></li>
+                                    <li><a href="/jp/portfolio/mobile-app.php">JP</a></li>
                                 </ul>
-                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
                     </div>
@@ -157,12 +156,12 @@
                                         href="index.php"><span itemprop="name">Home</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/en/portfolio.php"
-                                        itemprop="item"><span itemprop="name">&nbsp;Portfolio</span></a>
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
+                                        itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;System Development</span></a>
+                                        itemprop="item"><span itemprop="name">&nbsp;Mobile App</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                             </ol>
@@ -172,7 +171,7 @@
                 <div class="container__ banner-detail__content">
                     <div class="row">
                         <div class="col-md-offset-1 col-md-7">
-                            <div class="title"><h1>System Development Works</h1></div>
+                            <div class="title"><h1>Mobile App Works</h1></div>
                             <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our Web creation, mobile app / PWA development, IT system development, and digital marketing consulting portfolio.</p>
                             <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
                         </div>
@@ -180,38 +179,58 @@
                 </div>
             </section>
 
-            <section id="portfolio_sys" class="portfolio-update__content">
+            <section id="portofolio_mobile" class="portfolio-update__content">
                 <div class="container__">
-                    <h2 class="text-center">System Development</h2>
+                    <h2 class="text-center">Mobile App</h2>
                     <div class="content__wrapper">
                         <div class="row">
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <img src="/img/portfolio/update/sys-jba.png" alt="">
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/caroline-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/caroline.png" alt="">
+                                        <h3>Caroline Inspection App</h3>
+                                    </div>
                                 </div>
-                                <h3>JBA Indonesia; Online Car Auction System Development</h3>
-                                <p>Pengembangan Aplikasi Mobile ( Pengembangan sistem inspeksi kendaraan dan sistem penilaian)</p>
                             </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <img src="/img/portfolio/update/sys-assa.png" alt="">
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/jba-bike-mobile-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/jba-bike-mobile.png" alt="">
+                                        <h3>JBA Bike Inspection App</h3>
+                                    </div>
                                 </div>
-                                <h3>Assa <br>System Development</h3>
                             </div>
-                            <div class="clearfix visible-sm"></div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <img src="/img/portfolio/update/sys-zuttoride.png" alt="">
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-hino.png" alt="">
+                                        <h3>Weeo Hino Connect</h3>
+                                    </div>
                                 </div>
-                                <h3>ZuttoRide Indonesia; CRM DevOps</h3>
-                                <p>Pengembangan sistem manajemen pelanggan ( WEB-CRM ) untuk perusahaan layanan sepeda motor di Indonesia.</p>
                             </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <img src="/img/portfolio/update/sys-sinarmas.png" alt="">
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-jba.png" alt="">
+                                        <h3>JBA Indonesia Auction Bidding App</h3>
+                                    </div>
                                 </div>
-                                <h3>Sinar Mas Land; HRS Development</h3>
-                                <p>Pengembangan Sistem Rekrutmen dan Tes Psikologi Online.</p>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-sinarmas-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-sinarmas.png" alt="">
+                                        <h3>Sinarmas Career</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-frangipani-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-frangipani.png" alt="">
+                                        <h3>Frangipani Esthetics Guest Comment App</h3>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>

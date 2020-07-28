@@ -112,8 +112,8 @@
                             <div class="container">
                                 <ul class="list-inline">
                                     <li class="active"><a href="#">EN</a></li>
-                                    <li><a href="/portofolio/website.php">ID</a></li>
-                                    <li><a href="/jp/portfolio/website.php">JP</a></li>
+                                    <li><a href="/portofolio/digital-marketing.php">ID</a></li>
+                                    <li><a href="/jp/portfolio/digital-marketing.php">JP</a></li>
                                 </ul>
                                 <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                             </div>

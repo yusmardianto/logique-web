@@ -147,7 +147,7 @@
 
         <div class="portfolio-update content-wrapper__">
 
-            <section class="--top portfolio__banner">
+            <section class="portfolio__banner --top">
                 <div class="container__" style="padding:0">
                     <div class="row">
                         <div class="col-sm-12">
@@ -207,17 +207,17 @@
             <section class="portfolio-update__nav">
                 <div class="container__">
                     <div class="page-nav">
-                        <a class="page-nav__btn" href="#portofolio_website">Website</a>
+                        <a class="page-nav__btn" href="#portfolio_website">Website</a>
                         <a class="page-nav__btn" href="#portfolio_sys">Web Application</a>
                         <!-- <a class="page-nav__btn" href="#caseStudy">Case <br>Study</a> -->
-                        <a class="page-nav__btn" href="#portofolio_mobile">Mobile App / PWA</a>
+                        <a class="page-nav__btn" href="#portfolio_mobile">Mobile App / PWA</a>
                         <!-- <a class="page-nav__btn" href="#">Digital <br>Marketing</a> -->
                         <a class="page-nav__btn" href="#portfolio_dm">Digital Marketing & Etc.</a>
                     </div>
                 </div>
             </section>
 
-            <section id="portofolio_website" class="portfolio-update__content">
+            <section id="portfolio_website" class="portfolio-update__content">
                 <div class="container__">
                     <h2 class="text-center">Website</h2>
                     <div class="content__wrapper">
@@ -227,8 +227,8 @@
                                     <img src="/img/portfolio/update/aia.png" class="img-responsive" alt="">
                                     <h3>AIA</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pembuatan Halaman Campaign (Design | Coding | Hosting)</li>
-                                        <li>Website Campaign, Optimasi Mobile, Asuransi, Akademi</li>
+                                        <li>Website Creation (Design | Coding | Hosting)</li>
+                                        <li>Website Campaign, Mobile Optimized, Insurance, Academy</li>
                                     </ul>
                                 </a>
                             </div>
@@ -237,8 +237,8 @@
                                     <img src="/img/portfolio/update/panin.png" class="img-responsive" alt="">
                                     <h3>Panin Life Dai-ichi</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan E-Commerce (Design | Coding | CMS | Payment)</li>
-                                        <li>CMS, E-Commerce, Finansial, Asuransi, Integrasi API, Payment Gateway</li>
+                                        <li>E-Commerce Dev (Design | Coding | CMS | Payment)</li>
+                                        <li>CMS, secure E-Commerce, Financial, Insurance</li>
                                     </ul>
                                 </a>
                             </div>
@@ -248,8 +248,8 @@
                                     <img src="/img/portfolio/update/jba.png" class="img-responsive" alt="">
                                     <h3>JBA INDONESIA</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
-                                        <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
+                                        <li>WEB Dev & Operation (Design | CMS | System | Operation | AWS)</li>
+                                        <li>Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial</li>
                                     </ul>
                                 </a>
                             </div>
@@ -259,8 +259,8 @@
                                     <img src="/img/portfolio/update/j-trust.png" class="img-responsive" alt="">
                                     <h3>JTrust Bank (Re-design)</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Re-Design (Design | Coding | Integrasi CMS)</li>
-                                        <li>Optimasi Mobile, Multi-Bahasa, CMS, Bank</li>
+                                        <li>WEB Re-Design (Design | Coding | CMS Integration)</li>
+                                        <li>Mobile Optimized, Multi-bahasa, CMS, Bank</li>
                                     </ul>
                                 </a>
                             </div>
@@ -271,7 +271,7 @@
                                     <h3>Mobirent</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Design (Design | Coding | Deployment)</li>
-                                        <li>Website Perusahaan, Optimasi Mobile, Otomotif, Rental Mobil</li>
+                                        <li>Company Web, Mobile Optimized, Automotive, Car Rental</li>
                                     </ul>
                                 </a>
                             </div>
@@ -280,8 +280,8 @@
                                     <img src="/img/portfolio/update/jnto.png" class="img-responsive" alt="">
                                     <h3>JNTO Indonesia</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pembaharuan & Pengoperasian WEB (Design | Coding | Operation)</li>
-                                        <li>Optimasi Mobile, Keamanan WEB, Publik, Perjalanan, Travel</li>
+                                        <li>WEB Remake & Operation (Design | Coding | Operation)</li>
+                                        <li>Mobile Optimized, secure WEB, Public, Travel</li>
                                     </ul>
                                 </a>
                             </div>
@@ -294,7 +294,7 @@
                 </div>
             </section>
 
-            <section id="portofolio_mobile" class="portfolio-update__content">
+            <section id="portfolio_mobile" class="portfolio-update__content">
                 <div class="container__">
                     <h2 class="text-center">Mobile App</h2>
                     <div class="content__wrapper">
