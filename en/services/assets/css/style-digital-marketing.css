@@ -434,16 +434,20 @@ strong {
     background-color: #fff;
 }
 
+.dm .dm__variety .variety__list > li.active:before,
 .dm .dm__variety .variety__list > li:hover:before {
     background-color: #ffca13;
 }
 
+.dm .dm__variety .variety__list > li.active > a,
 .dm .dm__variety .variety__list > li:hover > a {
     font-weight: 800;
 }
 
 .dm .dm__variety .variety__list > li > a {
     color: #000;
+    background: none;
+    padding: 0;
 }
 
 .dm .dm__variety .variety__content {
@@ -451,6 +455,7 @@ strong {
     background-color: #fff;
     margin-top: 43px;
     padding: 40px;
+    min-height: 350px;
     box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.12);
     border-radius: 0 0 5px 5px;
 }

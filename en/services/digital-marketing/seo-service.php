@@ -241,32 +241,20 @@
 
 			<section class="seo__services">
 				<div class="container">
-					<section>
+					<section class="services__solution">
 						<h2 class="text-center">One Stop Solution of SEO Services.</h2>
 	
 						<div class="services__pills">
 							<ul class="nav nav-pills">
-								<li role="presentation" class="active">
-									<a href="#test" data-toggle="pill" aria-controls="home" aria-selected="true">On Page Audit</a>
-								</li>
-								<li role="presentation">
-									<a href="#test2" data-toggle="pill" aria-controls="home" aria-selected="false">Off Page Audit</a>
-								</li>
-								<li role="presentation">
-									<a href="#" data-toggle="pill" aria-controls="home" aria-selected="false">Assets <br>Maintenance</a>
-								</li>
-								<li role="presentation">
-									<a href="#" data-toggle="pill" aria-controls="home" aria-selected="false">Link Building</a>
-								</li>
-								<li role="presentation">
-									<a href="#" data-toggle="pill" aria-controls="home" aria-selected="false">White Hat</a>
-								</li>
-								<li role="presentation">
-									<a href="#" data-toggle="pill" aria-controls="home" aria-selected="false">Multi Languages</a>
-								</li>
+								<li class="active"><a href="#service_1" data-toggle="pill" aria-controls="home" aria-selected="true">On Page Audit</a></li>
+								<li><a href="#service_2" data-toggle="pill" aria-controls="home" aria-selected="false">Off Page Audit</a></li>
+								<li><a href="#service_3" data-toggle="pill" aria-controls="home" aria-selected="false">Assets <br>Maintenance</a></li>
+								<li><a href="#service_4" data-toggle="pill" aria-controls="home" aria-selected="false">Link Building</a></li>
+								<li><a href="#service_5" data-toggle="pill" aria-controls="home" aria-selected="false">White Hat</a></li>
+								<li><a href="#service_6" data-toggle="pill" aria-controls="home" aria-selected="false">Multi Languages</a></li>
 							</ul>
 							<div class="tab-content">
-								<div id="test" class="tab-pane fade in active">
+								<div id="service_1" class="tab-pane fade in active">
 									<div class="row">
 										<div class="tab-content__text col-md-6">
 											<p>We will analyze every potential and gap that exists in your digital assets, and we will summarize it into a detailed report, giving the best advice & strategy to optimize the greatest potential of your digital assets.</p>
@@ -284,8 +272,23 @@
 										</div>
 									</div>
 								</div>
-								<div id="test2" class="tab-pane fade">
-									test2
+								<div id="service_2" class="tab-pane fade">
+									<div class="row">
+										<div class="tab-content__text col-md-6">
+											<p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+											<ul>
+												<li><a href="#">Supported by a variety of the latest tools<span>i</span></a></a></li>
+												<li><a href="#">Gathering every problem to the smallest<span>i</span></a></li>
+												<li><a href="#">Summarize it into a report and translate<span>i</span></a></li>
+												<li><a href="#">Invite each of the stakeholders<span>i</span></a></li>
+											</ul>
+										</div>
+										<div class="tab-content__img col-md-6">
+											<div class="text-center">
+											Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas odit cupiditate iste! Dolor earum quos consequatur similique asperiores esse excepturi?
+											</div>
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="row">
@@ -295,33 +298,35 @@
 							</div>
 						</div>
 					</section>
-					<section>
+					<section class="services__contribution">
 						<h2 class="text-center">Our Great Contribution to a Business.</h2>
 						<p class="text-center">The quality of our work has been proven by dozens of experiences and work results from various fields of projects from various business industries, such as the Banking Industry, Automotive Industry, Tourism Industry, Property Industry.</p><br>
 	
 						<div class="services__pills">
 							<ul class="nav nav-pills">
-								<li role="presentation" class="active">
-									<a href="#test" data-toggle="pill" aria-controls="home" aria-selected="true">Property Industry</a>
-								</li>
-								<li role="presentation">
-									<a href="#test2" data-toggle="pill" aria-controls="home" aria-selected="false">Tourism industry</a>
-								</li>
-								<li role="presentation">
-									<a href="#" data-toggle="pill" aria-controls="home" aria-selected="false">Automotive Industry</a>
-								</li>
-								<li role="presentation">
-									<a href="#" data-toggle="pill" aria-controls="home" aria-selected="false">Banking Industry</a>
-								</li>
+								<li class="active"><a href="#contribution_1" data-toggle="pill" aria-controls="home" aria-selected="true">Property Industry</a></li>
+								<li><a href="#contribution_2" data-toggle="pill" aria-controls="home" aria-selected="false">Tourism industry</a></li>
+								<li><a href="#contribution_3" data-toggle="pill" aria-controls="home" aria-selected="false">Automotive Industry</a></li>
+								<li><a href="#contribution_4" data-toggle="pill" aria-controls="home" aria-selected="false">Banking Industry</a></li>
 							</ul>
 							<div class="tab-content">
-								<div id="test" class="tab-pane fade in active">
+								<div id="contribution_1" class="tab-pane fade in active">
 									<div class="row">
 										<div class="col-md-6">
-											<img src="" alt="" class="img-responsive">
+											<img src="/en/services/digital-marketing/img/img-seo-optimization/seo-services-img.png" alt="" class="img-responsive">
 										</div>
 										<div class="tab-content__text col-md-6">
 											<p>Some of our clients who have businesses in property also see the digital online world as the biggest market potential from their unit sales. From search engines, they want their property sites to be found immediately when users need them. By implementing the right SEO strategy, LOGIQUE has succeeded in helping clients reach their targets to find potential buyers and increase engagement with them. We continue to optimize from keyword improvisation, meta tags, schema installation, to website display optimization to be mobile-friendly. We managed to get high organic traffic and our clients were quite satisfied with the number of conversions generated.</p>
+										</div>
+									</div>
+								</div>
+								<div id="contribution_2" class="tab-pane fade">
+									<div class="row">
+										<div class="col-md-6">
+											<img src="/en/services/digital-marketing/img/img-seo-optimization/seo-services-img.png" alt="" class="img-responsive">
+										</div>
+										<div class="tab-content__text col-md-6">
+											<p>Test 2</p>
 										</div>
 									</div>
 								</div>

@@ -1601,6 +1601,7 @@ ul.medsos-new li a {
   padding: 5px 10px;
   margin-bottom: 5px;
   background-color: #eeeeee;
+  border: solid 1.5px #eee;
   color: #aaaaaa;
   font-weight: 800 !important;
 }
@@ -1611,6 +1612,7 @@ ul.medsos-new li a {
 
 .seo__services .services__pills .nav-pills > li > a:hover {
   color: #000;
+  border-color: #000;
 }
 
 .seo__services .services__pills .nav-pills > li.active > a {
@@ -1668,5 +1670,9 @@ ul.medsos-new li a {
   max-width: 400px;
   margin: auto;
   background: url('/en/services/digital-marketing/img/img-seo-optimization/service-pills-bg.png') bottom/cover no-repeat;
+}
+
+.seo__services .services__contribution .services__pills .tab-content .row {
+  align-items: center;
 }
 /* end seo services */

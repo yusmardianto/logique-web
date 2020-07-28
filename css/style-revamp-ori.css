@@ -565,7 +565,7 @@
 }
 
 [class*='update-design'].wrapper--update-design-font strong {
-  font-family: 'Novocento Sans Wide Medium';
+  font-family: 'Novocento Sans Wide Medium' !important;
 }
 
 [class*='update-design'].wrapper--update-design-font .title-index {

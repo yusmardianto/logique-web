@@ -283,16 +283,29 @@
                 <h2 class="text-center">We provide a variety of Digital Marketing <br> services to meet various requests such as:</h2>
                 <div class="flex__row">
                     <div class="col-md-6">
-                        <ol class="variety__list">
-                            <li data-list-item="1."><a href="#">Diagnosis/Media Maintenance/Media Operation</a></li>
-                            <li data-list-item="2."><a href="#">Search Engine Optimization (SEO)</a></li>
-                            <li data-list-item="3."><a href="#">Paid Ads / Media Buying</a></li>
-                            <li data-list-item="4."><a href="#">Social Media Service / Social Network Service</a></li>
-                        </ol>
+                        <ul class="nav nav-pills variety__list">
+                            <li data-list-item="1." class="active"><a href="#variety_list_1" data-toggle="pill" aria-controls="variety_list_1" aria-selected="true">Diagnosis / Media Maintenance / Media Operation</a></li>
+                            <li data-list-item="2."><a href="#variety_list_2" data-toggle="pill" aria-controls="variety_list_2" aria-selected="false">Diagnosis / Media Maintenance / Media Operation > Search Engine Optimization (SEO)</a></li>
+                            <li data-list-item="3."><a href="#variety_list_3" data-toggle="pill" aria-controls="variety_list_3" aria-selected="false">Paid Ads / Media Buying</a></li>
+                            <li data-list-item="4."><a href="#variety_list_4" data-toggle="pill" aria-controls="variety_list_4" aria-selected="false">Social Media Service / Social Network Service</a></li>
+                        </ul>
                     </div>
                     <div class="col-md-6">
                         <div class="variety__content">
-                        We will <span>improve the performance</span> of the media you have to be able to monetize and produce conversions. If you don't have your own media, don't hesitate to contact us who will always be ready to become your business partner in developing a Website or Application that suits your needs. Website Creation Services
+                            <div class="tab-content">
+                                <div id="variety_list_1" class="tab-pane fade in active">
+                                    We will <span>improve the performance</span> of the media you have to be able to monetize and produce conversions. If you don't have your own media, don't hesitate to contact us who will always be ready to become your business partner in developing a Website or Application that suits your needs. Website Creation Services
+                                </div>
+                                <div id="variety_list_2" class="tab-pane fade">
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, in?
+                                </div>
+                                <div id="variety_list_3" class="tab-pane fade">
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum obcaecati quod nemo ab, eaque sit!
+                                </div>
+                                <div id="variety_list_4" class="tab-pane fade">
+                                    Lorem ipsum dolor sit amet.
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

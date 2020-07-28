@@ -10,6 +10,12 @@
     border-radius: 8px;
     padding: 25px;
     color: #000;
+    box-shadow: none;
+    transition: all ease-in-out .25s;
+}
+
+.dm__links .links__item:hover {
+    box-shadow: 0px 29px 19px -16px rgba(0, 0, 0, 0.25)
 }
 
 .dm__links .links__item::before {
@@ -64,7 +70,7 @@
     <div class="container__">
         <div class="row">
             <div class="col-md-4">
-                <a href="#" class="links__item" style="background-image: url('/en/services/assets/img/img-digital-marketing/material-bg.png')">
+                <a href="#" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-about.jpg')">
                     <div>
                         <h3>About</h3>
                         <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes. </p>
@@ -72,7 +78,7 @@
                 </a>
             </div>
             <div class="col-md-4">
-                <a href="#" class="links__item" style="background-image: url('/en/services/assets/img/img-digital-marketing/material-bg.png')">
+                <a href="#" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-ourwork.jpg')">
                     <div>
                         <h3>Our Work</h3>
                         <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes.</p>
@@ -80,7 +86,7 @@
                 </a>
             </div>
             <div class="col-md-4">
-                <a href="#" class="links__item" style="background-image: url('/en/services/assets/img/img-digital-marketing/material-bg.png')">
+                <a href="#" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-faq.jpg')">
                     <div>
                         <h3>FAQ</h3>
                         <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes.</p>
