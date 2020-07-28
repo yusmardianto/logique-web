@@ -42,6 +42,16 @@ footer {
 #PureChatWidget.purechat .purechat-card {
     background-color: #fff !important;
 }
+
+#PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse {
+    bottom: 70px !important;
+}
+
+#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right,
+#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left {
+    bottom: -60px !important;
+}
+
 #PureChatWidget.purechat .purechat-widget-header .purechat-btn,
 #PureChatWidget.purechat .purechat-widget-header .purechat-btn.purechat-btn-active,
 #PureChatWidget.purechat .purechat-widget-header .purechat-btn:hover {
