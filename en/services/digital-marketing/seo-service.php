@@ -131,7 +131,7 @@
 								<a href="/en/"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
 								<ul class="list-inline">
 									<li class="active"><a href="#">EN</a></li>
-									<li><a href="/../layanan/digital-marketing.php">ID</a></li>
+									<li><a href="/../layanan/digital-marketing/jasa-seo.php">ID</a></li>
 									<li><a href="/jp/services/digital-marketing.php">JP</a></li>
 								</ul>
 							</div>
