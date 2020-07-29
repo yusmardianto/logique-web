@@ -216,7 +216,7 @@
             </section>
 
             <section id="portfolio_website" class="portfolio-update__content">
-                <div class="container">
+                <div class="container__">
                     <h2 class="text-center">Website</h2>
                     <div class="content__wrapper">
                         <div class="row">

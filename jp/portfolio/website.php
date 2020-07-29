@@ -1,24 +1,22 @@
 <!DOCTYPE html>
-<html lang="id">
-
+<html lang="ja">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
-    <meta name="keywords"
-        content="web design, design coding, pengembangan web, jasa pembuatan website, pengembangan aplikasi mobile, database mysql, node js, sistem crm, payment gateway, mobile optimization, page creation, sistem lelang online">
+        content="LOGIQUEの制作実績を紹介します。LOGIQUEは、ジャカルタのウェブ制作会社です。ジャカルタを中心としたインドネシア国内で、数多くのWEBサイト(ホームページ)制作/システム構築、パンフレット、カタログ等印刷物のデザインまで制作を行ってまいりました。">
+    <meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, デザイン, 印刷, コーポレートサイト, ランディングページ">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE">
+    <meta property="og:title" content="インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
+    <meta property="og:url" content="https://www.logique.co.id/jp/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE</title>
+        content="LOGIQUEの制作実績を紹介します。ホームページ制作、Webシステム開発、モバイルアプリ開発、SNS運用やSEO、インターネット広告などデジタルマーケティング実施の実績紹介です。LOGIQUEはジャカルタのウェブ制作会社です。インドネシアでの制作開発プロジェクトのケーススタディーも幾つか紹介します。">
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <title>インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -26,66 +24,68 @@
     <link href="/css/style-ori.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <link href="/css/jpstyle.css" rel="stylesheet">
 </head>
 
 <body style="overflow-x: hidden">
-    <div class="wrapper wrapper--update-design wrapper--update-design-font">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font --jp">
 
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
+        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
+            data-target="#myNavbar">
             <span class="icon-bar first"></span>
             <span class="icon-bar second"></span>
             <span class="icon-bar third"></span>
         </button>
         <div class="collapse navbar-collapse" id="myNavbar">
             <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update">
+            <div class="logique-nav logique-nav--update in-jp">
                 <div class="margin-for-nav">
                     <div class="text-center">
                         <a href="index.php">
                             <div class="img-home"></div>
-                            Beranda
+                            Home
                         </a>
                     </div>
                     <div class="text-center">
                         <a href="logique.php">
                             <div class="img-about"></div>
-                            Tentang Kami
+                            会社概要
                         </a>
                     </div>
                     <div class="text-center active">
-                        <a href="#">
+                        <a href="portfolio.php">
                             <div class="img-portfolio"></div>
-                            Portfolio
+                            制作実績
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="layanan.php">
+                        <a href="services.php">
                             <div class="img-services"></div>
-                            Layanan
+                            サービス
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="produk.php">
+                        <a href="product.php">
                             <div class="img-product"></div>
-                            Produk
+                            プロダクト
                         </a>
                     </div>
                     <div class="text-center">
                         <a href="/career/">
                             <div class="img-career"></div>
-                            Karir
+                            採用/<br>パートナー
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="hubungi-kami.php">
+                        <a href="contact.php">
                             <div class="img-contact"></div>
-                            Hubungi Kami
+                            お問い合わせ
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
+                        <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
                             <div class="img-blog"></div>
                             Blog
                         </a>
@@ -97,8 +97,8 @@
 
         <!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
         <!-- <div class="contain-video">
-            <video poster="img/video-img.png" id="bgvid" playsinline autoplay muted loop>
-                <source src="img/12377093.mp4" type="video/mp4">
+            <video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
+                <source src="../img/12377093.mp4" type="video/mp4">
             </video>
         </div>
         <div class="bg-white-opacity"></div> -->
@@ -109,11 +109,11 @@
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
                             <div class="container">
-                                <a href="index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
+                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                                 <ul class="list-inline">
                                     <li><a href="/en/portfolio/website.php">EN</a></li>
-                                    <li class="active"><a href="#">ID</a></li>
-                                    <li><a href="/jp/portfolio/website.php">JP</a></li>
+                                    <li><a href="/portofolio/website.php">ID</a></li>
+                                    <li class="active"><a href="#">JP</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -156,8 +156,8 @@
                                         href="index.php"><span itemprop="name">Home</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                        itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio.php"
+                                        itemprop="item"><span itemprop="name">&nbsp;Portfolio</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
@@ -188,8 +188,8 @@
                                     <img src="/img/portfolio/update/aia.png" class="img-responsive" alt="AIA">
                                     <h3>AIA</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pembuatan Halaman Campaign (Design | Coding | Hosting)</li>
-                                        <li>Website Campaign, Optimasi Mobile, Asuransi, Akademi</li>
+                                        <li>Webページ制作 (デザイン | コーディング | ホスティング)</li>
+                                        <li>モバイル最適化, キャンペーンページ, 保険</li>
                                     </ul>
                                 </a>
                             </div>
@@ -198,8 +198,8 @@
                                     <img src="/img/portfolio/update/panin.png" class="img-responsive" alt="Panin Life Dai-ichi">
                                     <h3>Panin Life Dai-ichi</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan E-Commerce (Design | Coding | CMS | Payment)</li>
-                                        <li>CMS, E-Commerce, Finansial, Asuransi, Integrasi API, Payment Gateway</li>
+                                        <li>保険EC開発制作 (デザイン | プログラミング | CMS | 決済連携）</li>
+                                        <li>CMS, 保険Eコマース, 金融, 保険</li>
                                     </ul>
                                 </a>
                             </div>
@@ -209,8 +209,8 @@
                                     <img src="/img/portfolio/update/jba.png" class="img-responsive" alt="">
                                     <h3>JBA INDONESIA</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
-                                        <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
+                                        <li>WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)</li>
+                                        <li>オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</li>
                                     </ul>
                                 </a>
                             </div>
@@ -220,8 +220,8 @@
                                     <img src="/img/portfolio/update/j-trust.png" class="img-responsive" alt="">
                                     <h3>JTrust Bank (Re-design)</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Re-Design (Design | Coding | Integrasi CMS)</li>
-                                        <li>Optimasi Mobile, Multi-Bahasa, CMS, Bank</li>
+                                        <li>キャンペーンページ制作 (デザイン | コーディング | CMS開発)</li>
+                                        <li>多言語,モバイル対応, キャンペーンページ,CMS,金融,銀行</li>
                                     </ul>
                                 </a>
                             </div>
@@ -231,8 +231,8 @@
                                     <img src="/img/portfolio/update/mobirent.png" class="img-responsive" alt="">
                                     <h3>Mobirent</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Design (Design | Coding | Deployment)</li>
-                                        <li>Website Perusahaan, Optimasi Mobile, Otomotif, Rental Mobil</li>
+                                        <li>WEB構築＆運用 (デザイン | CMS |コンテンツ制作 | 運用)</li>
+                                        <li>CMS,ポータル, Mobile,不動産,WEBサービス</li>
                                     </ul>
                                 </a>
                             </div>
@@ -241,18 +241,20 @@
                                     <img src="/img/portfolio/update/jnto.png" class="img-responsive" alt="">
                                     <h3>JNTO Indonesia</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Design (Design | Coding | Deployment)</li>
-                                        <li>Website Perusahaan, Optimasi Mobile, Otomotif, Rental Mobil</li>
+                                        <li>HTML/CSSコーディング (コーディング)</li>
+                                        <li>モバイル最適化, キャンペーンページ<</li>
                                     </ul>
                                 </a>
                             </div>
+                            <div class="clearfix"></div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-aia-premiere.png" class="img-responsive" alt="AIA Premier Academy">
                                     <h3>AIA Premier Academy</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pembuatan Halaman Campaign (Design | Coding | Hosting)</li>
-                                        <li>Website Campaign, Optimasi Mobile, Asuransi, Akademi</li>
+                                        <li>Webページ制作 (デザイン | コーディング | ホスティング)</li>
+                                        <li>モバイル最適化, キャンペーンページ, 保険</li>
                                     </ul>
                                 </a>
                             </div>                            
@@ -261,8 +263,8 @@
                                     <img src="/img/portfolio/update/web-film.png" class="img-responsive" alt="Film Festival">
                                     <h3>Film Festival</h3>
                                     <ul class="list-unstyled">
-                                        <li>Event / Schedule Web Creation (Design | Coding)</li>
-                                        <li>Optimasi Mobile, Multi-Bahasa, Event</li>
+                                        <li>ランディングページ制作 (デザイン | マークアップ)</li>
+                                        <li>モバイル最適化, 多言語, イベント</li>
                                     </ul>
                                 </a>
                             </div>
@@ -271,18 +273,19 @@
                                     <img src="/img/portfolio/update/web-otomart.png" class="img-responsive" alt="OTOmart (used-car market place)">
                                     <h3>OTOmart (used-car market place)</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan dan Pengoperasian WEB (Design | CMS | Sistem | Pembuatan Konten | Operasional | AWS)</li>
-                                        <li>CMS, Jual-Beli Mobil Bekas, DB-WEB, Optimasi Mobile, Layanan WEB, Otomotif</li>
+                                        <li>WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用 | AWS運用)</li>
+                                        <li>CMS,マーケットプレイス,会員WEB,Mobile, WEBサービス,車</li>
                                     </ul>
                                 </a>
                             </div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://jaif.asean.org/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-jaif.png" class="img-responsive" alt="Japan Asean Integration Fund">
                                     <h3>Japan Asean Integration Fund</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan WEB (Design | Coding | Operasional)</li>
-                                        <li>Optimasi Mobile, Keamanan WEB, Publik</li>
+                                        <li>WEB制作＆運用 (デザイン | コーディング | 運用)</li>
+                                        <li>モバイル,セキュアなWEB,公共</li>
                                     </ul>
                                 </a>
                             </div>
@@ -291,8 +294,8 @@
                                     <img src="/img/portfolio/update/web-shinoken.png" class="img-responsive" alt="Shinoken Asset Management">
                                     <h3>Shinoken Asset Management</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan WEB (Design | Coding | AWS)</li>
-                                        <li>Multi-bahasa, Mobile, WEB Perusahaan, AWS, Perumahan</li>
+                                        <li>WEB制作 (デザイン | コーディング | AWS運用)</li>
+                                        <li>多言語,モバイル対応,コーポレートWEB,AWS,不動産投資</li>
                                     </ul>
                                 </div>
                             </div>
@@ -301,19 +304,20 @@
                                     <img src="/img/portfolio/update/web-sentraya.png" class="img-responsive" alt="Menara Sentraya">
                                     <h3>Menara Sentraya</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Development (Design | Coding | CMS)</li>
-                                        <li>Optimasi Mobile, CMS, PHP, RealEstate, Property</li>
+                                        <li>WEBサイト制作 (デザイン| コーディング |CMS)</li>
+                                        <li>モバイル最適化, CMS構築, 不動産</li>
                                     </ul>
                                 </a>
                             </div>
                             <div class="clearfix"></div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://bisnissaya.com" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-bisnissaya.png" class="img-responsive" alt="BisnisSaya.com (MLM E-Commerce)">
                                     <h3>BisnisSaya.com (MLM E-Commerce)</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan E-Commerce (Design | E-Commerce | CMS | Maintenance)</li>
-                                        <li>E-Commerce, CMS, Payment Gateway, Multi-Level-Marketing</li>
+                                        <li>ECサイト構築 (デザイン| EC構築 | CMS構築 | 運用)</li>
+                                        <li>EC,CMS,決済連携,マルチレベルマーケティング</li>
                                     </ul>
                                 </a>
                             </div>
@@ -322,8 +326,8 @@
                                     <img src="/img/portfolio/update/web-frangipani-amp.png" class="img-responsive" alt="Frangipani">
                                     <h3>Frangipani</h3>
                                     <ul class="list-unstyled">
-                                        <li>AMP Development (Design | AMP Coding)</li>
-                                        <li>AMP, Mobile Optimization, Beauty, SPA</li>
+                                        <li>AMP制作 (デザイン | AMPプログラミング）</li>
+                                        <li>AMP, モバイル,高速ページ,バリ島SPA</li>
                                     </ul>
                                 </a>
                             </div>
@@ -332,19 +336,20 @@
                                     <img src="/img/portfolio/update/web-warasa.png" class="img-responsive" alt="WARASA">
                                     <h3>WARASA</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Development (Design | Coding | AWS)</li>
-                                        <li>Optimasi Mobile, Multi-bahasa, Food</li>
+                                        <li>WEBリニューアル制作 (デザイン| コーディング | AWS)</li>
+                                        <li>モバイル最適化, 多言語, 食品</li>
                                     </ul>
                                 </a>
                             </div>
                             <div class="clearfix"></div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://hoyu.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-hoyu.png" class="img-responsive" alt="Hoyu Indonesia">
                                     <h3>Hoyu Indonesia</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan WEB (Design | Coding | Operation)</li>
-                                        <li>Multi-bahasa, Mobile, Manufaktur, Kecantikan</li>
+                                        <li>WEBサイト制作 (デザイン | コーディング |運用)</li>
+                                        <li>多言語,モバイル最適化,製造販売,美容</li>
                                     </ul>
                                 </a>
                             </div>
@@ -353,8 +358,8 @@
                                     <img src="/img/portfolio/update/web-arf.png" class="img-responsive" alt="ASEAN (ARF)">
                                     <h3>ASEAN (ARF)</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan WEB (Design | Coding | Operation)</li>
-                                        <li>Optimasi Mobile, Wordpress, Public</li>
+                                        <li>WEBサイト制作 (デザイン| コーディング |CMS)</li>
+                                        <li>モバイル最適化, Wordpress, 公共</li>
                                     </ul>
                                 </div>
                             </div>
@@ -363,8 +368,8 @@
                                     <img src="/img/portfolio/update/web-caroline.png" class="img-responsive" alt="Caroline">
                                     <h3>Caroline</h3>
                                     <ul class="list-unstyled">
-                                        <li>Car Matching Web Development (Design | Coding | System)</li>
-                                        <li>Web System, Market Place, Automotive, Web service</li>
+                                        <li>車マーケットプレイス開発運用 (デザイン | プログラミング | システム開発）</li>
+                                        <li>車売買マッチングWEB, 車Eコマース, WEBサービス</li>
                                     </ul>
                                 </div>
                             </div>
@@ -374,8 +379,8 @@
                                     <img src="/img/portfolio/update/web-jualbeliweb.png" class="img-responsive" alt="JualBeliWEB.id (Website market place)">
                                     <h3>JualBeliWEB.id (Website market place)</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan WEB (Design | CMS | System | Content Creation | Operation)</li>
-                                        <li>CMS, Jual-Beli, DB, Mobile, Keamanan WEB, Layanan WEB</li>
+                                        <li>WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用)</li>
+                                        <li>CMS,マーケットプレイス,DB,Mobile,セキュアなWEB,WEBサービス</li>
                                     </ul>
                                 </a>
                             </div>
@@ -384,8 +389,8 @@
                                     <img src="/img/portfolio/update/web-ajapan.png" class="img-responsive" alt="aJapan Campaign Page">
                                     <h3>aJapan Campaign Page</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan Kampanye Microsite (Design | Coding | Operation)</li>
-                                        <li>Multi-bahasa, Mobile, Kampanye</li>
+                                        <li>キャンペーンサイト制作＆運用 (デザイン | コーディング | Operation)</li>
+                                        <li>多言語,モバイル,キャンペーン</li>
                                     </ul>
                                 </div>
                             </div>
@@ -394,8 +399,8 @@
                                     <img src="/img/portfolio/update/web-moe.png" class="img-responsive" alt="JTrust Bank Indonesia">
                                     <h3>JTrust Bank Indonesia</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pembuatan Halaman Campaign (Design | Coding | CMS)</li>
-                                        <li>Multi-bahasa, Mobile, Halaman Campaign, CMS, Finansial, Bank</li>
+                                        <li>キャンペーンページ制作 (デザイン | コーディング | CMS開発)</li>
+                                        <li>多言語,モバイル対応, キャンペーンページ,CMS,金融,銀行</li>
                                     </ul>
                                 </a>
                             </div>
@@ -406,8 +411,8 @@
                                     <img src="/img/portfolio/update/web-frangipani.png" class="img-responsive" alt="Frangipani Esthetics Bali">
                                     <h3>Frangipani Esthetics Bali</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan & Pengoperasian WEB (Design | Coding | Operation)</li>
-                                        <li>Multi-bahasa, Mobile, LPO, A/B Test, Kecantikan</li>
+                                        <li>WEBサイト制作 (デザイン | コーディング | 運用)</li>
+                                        <li>多言語,モバイル最適化,LPO,A/Bテスト,美容・エステ</li>
                                     </ul>
                                 </a>
                             </div>
@@ -416,8 +421,8 @@
                                     <img src="/img/portfolio/update/web-otosiap.png" class="img-responsive" alt="OTO Siap!">
                                     <h3>OTO Siap!</h3>
                                     <ul class="list-unstyled">
-                                        <li>Landing Page Creation (Design | Coding)</li>
-                                        <li>Landing Page, Mobile Optimization, Mobile App, Lending</li>
+                                        <li>ランディングページ制作 (デザイン | コーディング）</li>
+                                        <li>キャンペーンページ, モバイル最適化,与信モバイルアプリ,クレジット</li>
                                     </ul>
                                 </div>
                             </div>
@@ -426,8 +431,8 @@
                                     <img src="/img/portfolio/update/web-oto-isuzu.png" class="img-responsive" alt="">
                                     <h3></h3>
                                     <ul class="list-unstyled">
-                                        <li>Landing Page Creation (Design | Coding)</li>
-                                        <li>Detail Page, Mobile Optimization, Car, Automotive</li>
+                                        <li>ランディングページ制作 (デザイン | コーディング）</li>
+                                        <li>ランディングページ, モバイル最適化,車メーカー</li>
                                     </ul>
                                 </div>
                             </div>
@@ -438,9 +443,8 @@
                                     <img src="/img/portfolio/update/web-oto-conc.png" class="img-responsive" alt="OTOmart Concierge LP">
                                     <h3>OTOmart Concierge LP</h3>
                                     <ul class="list-unstyled">
-                                        <li>Landing Page Creation (Design | Coding)</li>
-                                        <li>Landing Page, Mobile Optimization, Consulting Service,
-                                        Automotive</li>
+                                        <li>ランディングページ制作 (デザイン | コーディング）</li>
+                                        <li>キャンペーンページ, モバイル最適化,コンサルティングサービス,四輪</li>
                                     </ul>
                                 </div>
                             </div>
@@ -449,8 +453,8 @@
                                     <img src="/img/portfolio/update/web-oto-garansi.png" class="img-responsive" alt="">
                                     <h3></h3>
                                     <ul class="list-unstyled">
-                                        <li>Landing Page Creation (Design | Coding)</li>
-                                        <li>LP Creation, Conversion Oriented Web, Car Gurantee Service</li>
+                                        <li>保証サービスランディングページ (デザイン | コーディング）</li>
+                                        <li>ランディングページ制作, モバイル, 車両保証</li>
                                     </ul>
                                 </div>
                             </div>
@@ -459,19 +463,20 @@
                                     <img src="/img/portfolio/update/web-eccj.png" class="img-responsive" alt="ECCJ">
                                     <h3>ECCJ</h3>
                                     <ul class="list-unstyled">
-                                        <li>LP and application form Creation (Design | Programming)</li>
-                                        <li>Optimasi Mobile, Application From, Event</li>
+                                        <li>LP制作、申込みフォーム制作 (デザイン | プログラミング)</li>
+                                        <li>モバイル最適化, 申込フォーム, イベント</li>
                                     </ul>
                                 </div>
                             </div>
+                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-sfi.png" class="img-responsive" alt="Sumitomo Forestry LP">
                                     <h3>Sumitomo Forestry LP</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pembuatan Landing Page (Design | Coding)</li>
-                                        <li>Mobile, Kampanye</li>
+                                        <li>ランディングページ制作 (デザイン | コーディング)</li>
+                                        <li>モバイル,キャンペーンページ</li>
                                     </ul>
                                 </div>
                             </div>
@@ -480,8 +485,8 @@
                                     <img src="/img/portfolio/update/web-hajime.png" class="img-responsive" alt="Hajime Indonesia">
                                     <h3>Hajime Indonesia</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan WEB (Design | Coding | Operation | WEB Server)</li>
-                                        <li>Multi-bahasa, Mobile, AWS, Perumahan</li>
+                                        <li>WEBサイト制作 (デザイン | コーディング | 運用 | WEBサーバー運用)</li>
+                                        <li>多言語,モバイル,AWS,不動産</li>
                                     </ul>
                                 </a>
                             </div>
@@ -490,8 +495,8 @@
                                     <img src="/img/portfolio/update/web-mdr.png" class="img-responsive" alt="Maison de Res (Condominium Portal)">
                                     <h3>Maison de Res (Condominium Portal)</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan WEB (Design | CMS | Content Creation | Operation)</li>
-                                        <li>CMS, Portal, Mobile, Perumahan, Layanan WEB</li>
+                                        <li>WEB構築＆運用 (デザイン | CMS |コンテンツ制作 | 運用)</li>
+                                        <li>CMS,ポータル, Mobile,不動産,WEBサービス</li>
                                     </ul>
                                 </a>
                             </div>
@@ -501,8 +506,8 @@
                                     <img src="/img/portfolio/update/web-zutto.png" class="img-responsive" alt="ZuttoRide Indonesia">
                                     <h3>ZuttoRide Indonesia</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan WEB (Design | Coding | Maintenance| WEB Server)</li>
-                                        <li>Multi-bahasa, Mobile, Layanan Sepeda Motor</li>
+                                        <li>WEBサイト制作 (デザイン | コーディング | 保守 | WEBサーバー運用)</li>
+                                        <li>多言語,モバイル,バイクサービス</li>
                                     </ul>
                                 </a>
                             </div>
@@ -511,8 +516,8 @@
                                     <img src="/img/portfolio/update/web-jjs.png" class="img-responsive" alt="Jakarta Japanese School">
                                     <h3>Jakarta Japanese School</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan WEB (Design | Coding | Wordpress | Operation)</li>
-                                        <li>WEB Bahasa Jepang, Blog, Mobile, Form Aplikasi, Sekolah</li>
+                                        <li>WEB構築＆運用 (デザイン | Coding | Wordpress | 運用)</li>
+                                        <li>日本語WEB,ブログ,モバイル最適化,願書受付,学校</li>
                                     </ul>
                                 </a>
                             </div>
@@ -521,8 +526,8 @@
                                     <img src="/img/portfolio/update/web-cjs.png" class="img-responsive" alt="Cikarang Japanese School">
                                     <h3>Cikarang Japanese School</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Dev & Operation (Design | Coding | Wordpress | AWS Operation)</li>
-                                        <li>Japanese WEB, Blog, Mobile, Application Form, School</li>
+                                        <li>WEB構築＆運用 (デザイン | Coding | Wordpress | AWS運用)</li>
+                                        <li>日本語WEB,ブログ,モバイル最適化,願書受付,学校</li>
                                     </ul>
                                 </a>
                             </div>
@@ -532,8 +537,8 @@
                                     <img src="/img/portfolio/update/web-symposium.png" class="img-responsive" alt="Symposium Application LP">
                                     <h3>Symposium Application LP</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pembuatan Form Aplikasi (Design | PHP Form)</li>
-                                        <li>Multi-bahasa, Mobile, Form Aplikasi, Publik</li>
+                                        <li>参加申込フォーム (デザイン | PHPフォーム)</li>
+                                        <li>多言語,モバイル, 申込フォーム開発,公共</li>
                                     </ul>
                                 </a>
                             </div>
@@ -542,8 +547,8 @@
                                     <img src="/img/portfolio/update/web-ikeuchi.png" class="img-responsive" alt="Ikeuchi Indonesia">
                                     <h3>Ikeuchi Indonesia</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan WEB (Design | Coding)</li>
-                                        <li>Multi-bahasa, Mobile, Manufaktur</li>
+                                        <li>WEBサイト制作 (デザイン | コーディング)</li>
+                                        <li>多言語,モバイル,製造業</li>
                                     </ul>
                                 </a>
                             </div>
@@ -552,8 +557,8 @@
                                     <img src="/img/portfolio/update/web-moresco.png" class="img-responsive" alt="MORESCO INDONESIA">
                                     <h3>MORESCO INDONESIA</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan WEB (Design | Coding | Maintenance | WEB Server)</li>
-                                        <li>Multi-language, Mobile, Manufaktur</li>
+                                        <li>WEBサイト制作 (デザイン | コーディング | 保守 | WEBサーバー運用)</li>
+                                        <li>多言語,モバイル,製造業</li>
                                     </ul>
                                 </a>
                             </div>
@@ -564,8 +569,8 @@
                                     <img src="/img/portfolio/update/web-trendpot.png" alt="Digital Marketing Indonesia" class="img-responsive center-block">
                                     <h3>TRENDPOT</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian WEB & Operasi (Design | Coding | Operation)</li>
-                                        <li>Mobile, Keamanan WEB, Publik</li>
+                                        <li>WEB制作＆運用 (デザイン | コーディング | 運用)</li>
+                                        <li>モバイル,セキュアなWEB,公共</li>
                                     </ul>
                                 </a>
                             </div>
@@ -574,8 +579,8 @@
                                     <img src="/img/portfolio/update/web-dmi.png" alt="Digital Marketing Indonesia" class="img-responsive center-block">
                                     <h3>Digital Marketing Indonesia</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan & Pengoperasian WEB (Design | Coding)</li>
-                                        <li>Multi-bahasa, Mobile, Layanan TI</li>
+                                        <li>WEB制作 (デザイン | コーディング)</li>
+                                        <li>多言語,モバイル最適化,ITサービス</li>
                                     </ul>
                                 </a>
                             </div>
@@ -584,8 +589,8 @@
                                     <img src="/img/portfolio/update/web-salon-de-res.png" alt="Salon De Res" class="img-responsive center-block">
                                     <h3>Salon De Res</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan WEB (Design | Coding)</li>
-                                        <li>Mobile, Multi-Bahasa, Kecantikan</li>
+                                        <li>WEB制作 (デザイン | コーディング)</li>
+                                        <li>モバイル最適化,多言語,美容</li>
                                     </ul>
                                 </div>
                             </div>
@@ -597,8 +602,8 @@
                                         class="img-responsive center-block">
                                     <h3>KUMOMI LAND INDONESIA</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan WEB ((Design | Coding | Maintenance)</li>
-                                        <li>Mobile, Multi-Bahasa, Wordpress, Blog, Perumahan</li>
+                                        <li>WEB制作 (デザイン | コーディング | 保守)</li>
+                                        <li>モバイル,多言語,Wordpress,ブログ,不動産</li>
                                     </ul>
                                 </a>
                             </div>
@@ -607,8 +612,8 @@
                                     <img src="/img/portfolio/update/web-4dentist.png" class="img-responsive" alt="4Dentist.jp">
                                     <h3>4Dentist.jp (Dentist Portal)</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan WEB (Design | CMS | Operation)</li>
-                                        <li>Wordpress, Mobile, Member-only WEB, Kesehatan</li>
+                                        <li>WEB構築＆運用 (デザイン | CMS | 運用)</li>
+                                        <li>Wordpress,モバイル最適化,会員専用Web,医療</li>
                                     </ul>
                                 </a>
                             </div>
@@ -617,8 +622,8 @@
                                     <img src="/img/portfolio/update/web-omc.png" class="img-responsive" alt="Onitsuka Management Consulting">
                                     <h3>Onitsuka Management Consulting</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pembaharuan Design WEB (Design | Coding)</li>
-                                        <li>Multi-bahasa, Mobile, Konsultasi, Akuntansi &amp; Pajak</li>
+                                        <li>WEBリデザイン(デザイン | コーディング)</li>
+                                        <li>多言語,モバイル,AWS,コンサルティング,会計税務</li>
                                     </ul>
                                 </a>
                             </div>
@@ -629,8 +634,8 @@
                                     <img src="/img/portfolio/update/web-golfjkt.png" class="img-responsive" alt="Jakarta Golf Academy">
                                     <h3>Jakarta Golf Academy</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan WEB (Design | Coding | Operation)</li>
-                                        <li>Mobile, Pemesanan Online, Olahraga</li>
+                                        <li>WEBサイト制作 (デザイン| コーディング |運用)</li>
+                                        <li>モバイル最適化,オンラインブッキング,スポーツ</li>
                                     </ul>
                                 </a>
                             </div>
@@ -639,18 +644,18 @@
                                     <img src="/img/portfolio/update/web-music-festival.png" class="img-responsive" alt="Music Festival Landing Page">
                                     <h3>Music Festival Landing Page</h3>
                                     <ul class="list-unstyled">
-                                        <li>Landing Page Creation (Design | Coding | Digital AD)</li>
-                                        <li>Optimasi Mobile, Multi-bahasa, Event</li>
+                                        <li>ランディングページ制作 (デザイン | マークアップ | 広告)</li>
+                                        <li>モバイル最適化, 多言語, イベント</li>
                                     </ul>
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://promokreditbprks.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/web-bprks.png" class="img-responsive" alt="BPR KS">
+                                    <img src="/img/portfolio/update/web-bprks.png" class="img-responsive" alt="BPR KS">
                                     <h3>BPR KS</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Remake & Growth-hack (Design | Coding | Content Creation | Operation)</li>
-                                        <li>CMS, Mobile, secure WEB, Finance, Mobile Loan</li>
+                                        <li>WEB再制作 & 改善ワーク(デザイン | コーディング | コンテンツ制作 | 運用)</li>
+                                        <li>CMS, モバイル, セキュアなWEB, 金融, 自動車ローン</li>
                                     </ul>
                                 </a>
                             </div>
@@ -661,8 +666,8 @@
                                     <img src="/img/portfolio/update/web-vipplaza.png" class="img-responsive" alt="VIP Plaza">
                                     <h3>VIP Plaza</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Remake & PWA (Coding)</li>
-                                        <li>PWA, Mobile, E-Commerce</li>
+                                        <li>スマホページ再制作 (PWAとして再開発)</li>
+                                        <li>モバイル, Eコマース</li>
                                     </ul>
                                 </a>
                             </div>
@@ -671,8 +676,8 @@
                                     <img src="/img/portfolio/update/web-opus-park.png" class="img-responsive" alt="Opus Park">
                                     <h3>Opus Park</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Operation (PDCA | SEO | AWS)</li>
-                                        <li>Mobile Optimized, O2O, Properti</li>
+                                        <li>WEBリニューアル制作 (PDCA | SEO | AWS)</li>
+                                        <li>モバイル最適化, O2O, 不動産</li>
                                     </ul>
                                 </a>
                             </div>
@@ -681,8 +686,8 @@
                                     <img src="/img/portfolio/update/web-nlec.png" class="img-responsive" alt="NLEC">
                                     <h3>NLEC</h3>
                                     <ul class="list-unstyled">
-                                        <li>E-Learning Web Development (Design | CMS | PWA)</li>
-                                        <li>PWA Development, Mobile Optimization, E-Learning</li>
+                                        <li>EラーニングWEB開発 (デザイン | CMS | PWA開発）</li>
+                                        <li>システム開発, PWA開発, モバイル最適化,Eラーニング,教育</li>
                                     </ul>
                                 </a>
                             </div>
@@ -692,9 +697,8 @@
                                     <img src="/img/portfolio/update/web-jfe.png" class="img-responsive" alt="JFE">
                                     <h3>JFE</h3>
                                     <ul class="list-unstyled">
-                                        <li>Corporate Web Creation (Design | Coding)</li>
-                                        <li>Responsive WEB Dev, Multi-Language, Manufacturing
-                                        Trader</li>
+                                        <li>コーポレートWEB制作 (デザイン | コーディング）</li>
+                                        <li>レスポンシブ制作, 多言語WEB, コーポレート動画制作, 鉄鋼商社</li>
                                     </ul>
                                 </div>
                             </div>
@@ -703,8 +707,8 @@
                                     <img src="/img/portfolio/update/web-jjs50.png" class="img-responsive" alt="JJS 50 years special LP">
                                     <h3>JJS 50 years special LP</h3>
                                     <ul class="list-unstyled">
-                                        <li>LP Creation (Bootstrap | Content Creation)</li>
-                                        <li>LP, Mobile Optimized, Education, School</li>
+                                        <li>LP制作（Bootstrap | コンテンツ企画）</li>
+                                        <li>LP, スマホ最適化,教育, スクール</li>
                                     </ul>
                                 </a>
                             </div>
@@ -713,8 +717,8 @@
                                     <img src="/img/portfolio/update/web-jba-hasil-lelang.png" class="img-responsive" alt="JBA Hasil Lelang">
                                     <h3>JBA Hasil Lelang</h3>
                                     <ul class="list-unstyled">
-                                        <li>AMP Creation (AMP | Dynamic Pages)</li>
-                                        <li>AMP, Mobile Optimized, Car Auction, Bike Auction</li>
+                                        <li>AMP制作（AMP | DB連動ダイナミックページ）</li>
+                                        <li>AMP, モバイルSEO,オークション</li>
                                     </ul>
                                 </a>
                             </div>
@@ -725,8 +729,8 @@
                                     <img src="/img/portfolio/update/web-wdi.png" class="img-responsive" alt="WDI">
                                     <h3>WDI</h3>
                                     <ul class="list-unstyled">
-                                        <li>Creators Market Place Development (Design | CMS | Security Assessment)</li>
-                                        <li>Web system, Laravel, Mobile Optimized, Market Place</li>
+                                        <li>クリエイターズマーケットプレイス開発（デザイン制作 | WEBシステム開発 | セキュリティアセスメント）</li>
+                                        <li>WEBシステム, 検索システム,スマホ最適, マーケットプレイス</li>
                                     </ul>
                                 </a>
                             </div>                            
@@ -735,8 +739,8 @@
                                     <img src="/img/portfolio/update/web-lifenesia.png" class="img-responsive" alt="Lifenesia">
                                     <h3>Lifenesia</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Hosting (Coding | Integrasi CMS)</li>
-                                        <li>Optimasi Mobile, CMS, News Portal</li>
+                                        <li>WEBホスティング (コーディング | CMSフィッティング)</li>
+                                        <li>モバイル最適化, CMS, ニュースポータル</li>
                                     </ul>
                                 </a>
                             </div>
@@ -745,8 +749,8 @@
                                     <img src="/img/portfolio/update/web-jnto-campaign.png" class="img-responsive" alt="JNTO Campaign Page">
                                     <h3>JNTO Campaign Page</h3>
                                     <ul class="list-unstyled">
-                                        <li>HTML/CSS Coding (Coding)</li>
-                                        <li>Optimasi Mobile, Campaign page</li>
+                                        <li>HTML/CSSコーディング (コーディング)</li>
+                                        <li>モバイル最適化, キャンペーンページ</li>
                                     </ul>
                                 </a>
                             </div>
@@ -757,8 +761,8 @@
                                     <img src="/img/portfolio/update/web-jba-redesign.png" class="img-responsive" alt="JBA Re-design">
                                     <h3>JBA Re-design</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan WEB (Design | CMS | System | Operation | AWS)</li>
-                                        <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
+                                        <li>WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)</li>
+                                        <li>オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</li>
                                     </ul>
                                 </div>
                             </div>                            
@@ -767,8 +771,8 @@
                                     <img src="/img/portfolio/update/web-60jpid.png" class="img-responsive" alt="60th Anniversary Japan-Indonesia">
                                     <h3>60<sup>th</sup> Anniversary Japan-Indonesia</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian dan Pengembangan WEB (Design | Coding | Content Creation | Operation)</li>
-                                        <li>CMS, Multi-Bahasa, Mobile, Keamanan WEB, Publik</li>
+                                        <li>WEB制作＆運用 (デザイン | コーディング | コンテンツ制作 | 運用)</li>
+                                        <li>CMS, multi-bahasa, Mobile, Keamanan WEB, Publik</li>
                                     </ul>
                                 </a>
                             </div>
@@ -777,8 +781,8 @@
                                     <img src="/img/portfolio/update/web-wantjp.png" class="img-responsive" alt="Want.jp">
                                     <h3>Want.jp</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan E-Commerce (PWA | ReactJS | NodeJS)</li>
-                                        <li>Optimasi Mobile PWA, Cross Border E-Commerce</li>
+                                        <li>Eコマース (PWA | ReactJS | NodeJS)</li>
+                                        <li>モバイル最適化EC, 越境EC</li>
                                     </ul>
                                 </div>
                             </div>
@@ -789,8 +793,8 @@
                                     <img src="/img/portfolio/update/web-banzai-hobby.png" class="img-responsive" alt="Banzai Hobby">
                                     <h3>Banzai Hobby</h3>
                                     <ul class="list-unstyled">
-                                        <li>Migrasi Server ke AWS (Migration | Hosting | AWS)</li>
-                                        <li>E-Commerce, Zen Cart</li>
+                                        <li>WEBサーバー＆データ移行 (移行 | ホスティング | AWS)</li>
+                                        <li>Eコマース, Zenカート</li>
                                     </ul>
                                 </a>
                             </div>                            
@@ -799,8 +803,8 @@
                                     <img src="/img/portfolio/update/web-jjc-hojin.png" class="img-responsive" alt="JJC Hojin">
                                     <h3>JJC Hojin</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Re-Design (Design | CMS | Coding)</li>
-                                        <li>WordPress, Mobile Optimized, Member System</li>
+                                        <li>Web再制作（デザイン制作 | CMS | コーディング）</li>
+                                        <li>WordPress, スマホ最適, 会員専用Web</li>
                                     </ul>
                                 </a>
                             </div>
@@ -809,8 +813,8 @@
                                     <img src="/img/portfolio/update/web-jjc-kojin.png" class="img-responsive" alt="JJC Kojin">
                                     <h3>JJC Kojin</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Re-Design (Design | CMS | Coding)</li>
-                                        <li>WordPress, Mobile Optimized, Member Management System, Booking System</li>
+                                        <li>Web再制作（デザイン制作 | CMS | コーディング）</li>
+                                        <li>WordPress, スマホ最適化, クラブ会員Web, 会議室予約</li>
                                     </ul>
                                 </a>
                             </div>
@@ -820,8 +824,8 @@
                                     <img src="/img/portfolio/update/web-jba-lp.png" class="img-responsive" alt="JBA LP">
                                     <h3>JBA LP</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Page Creation (Design | Coding | CMS Integration)</li>
-                                        <li>Optimasi Mobile, CMS, Campaign page</li>
+                                        <li>Webページ制作 (デザイン | コーディング | CMS)</li>
+                                        <li>モバイル最適化, CMS, キャンペーンページ</li>
                                     </ul>
                                 </a>
                             </div>                            
@@ -830,8 +834,8 @@
                                     <img src="/img/portfolio/update/web-proline.png" class="img-responsive" alt="PROLINE FINANCE">
                                     <h3>PROLINE FINANCE</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan WEB (Design | Coding | CMS)</li>
-                                        <li>CMS, Mobile, OJK, Finance</li>
+                                        <li>CMS WEBサイト制作 (デザイン | コーディング | CMS)</li>
+                                        <li>CMS,モバイル対応,金融</li>
                                     </ul>
                                 </a>
                             </div>
@@ -840,8 +844,8 @@
                                     <img src="/img/portfolio/update/web-aia.png" class="img-responsive" alt="AIA">
                                     <h3>AIA</h3>
                                     <ul class="list-unstyled">
-                                        <li>Campaign Page Creation (Coding | Hosting)</li>
-                                        <li>Mobile Optimized, Campaign page, Insurance</li>
+                                        <li>Webページ制作 (コーディング | ホスティング)</li>
+                                        <li>モバイル最適化, キャンペーンページ, 保険</li>
                                     </ul>
                                 </a>
                             </div>
@@ -872,8 +876,8 @@
                                     <img src="/img/portfolio/update/web-premiumgaransi.png" class="img-responsive" alt="Premium Garansi">
                                     <h3>Premium-Garansi.co.id</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Page Creation (Coding | Integrasi CMS)</li>
-                                        <li>Mobile Optimized, CMS, Corporate web</li>
+                                        <li>Webページ制作 (コーディング | CMS)</li>
+                                        <li>モバイル最適化, CMS, コーポレートWeb</li>
                                     </ul>
                                 </a>
                             </div>
@@ -883,8 +887,8 @@
                                     <img src="/img/portfolio/update/web-ligohome.png" class="img-responsive" alt="LIGO Home">
                                     <h3>LIGO-Home</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Page Creation (Design | Coding | Integrasi CMS)</li>
-                                        <li>Mobile Optimized, CMS, Corporate web</li>
+                                        <li>Webページ制作 (デザイン | コーディング | CMS)</li>
+                                        <li>モバイル最適化, CMS, コーポレートWeb</li>
                                     </ul>
                                 </div>
                             </div>                            
@@ -893,8 +897,8 @@
                                     <img src="/img/portfolio/update/web-otogaransi.png" class="img-responsive" alt="OTO-Garansi Campaign Page">
                                     <h3>OTO-Garansi Campaign Page</h3>
                                     <ul class="list-unstyled">
-                                        <li>Campaign Page Creation (Design | Coding)</li>
-                                        <li>Mobile Optimized, CMS, Campaign Page</li>
+                                        <li>Webページ制作 (デザイン | コーディング)</li>
+                                        <li>モバイル最適化, CMS, キャンペーンページ</li>
                                     </ul>
                                 </a>
                             </div>
@@ -903,8 +907,8 @@
                                     <img src="/img/portfolio/update/web-timscorp.png" class="img-responsive" alt="Timscorp">
                                     <h3>PT. TOYOTA ENTERPRISE INDONESIA MANAGEMENT SERVICE</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Development (Design | CMS | Coding)</li>
-                                        <li>Customized CMS, Mobile Optimized, Corporate Web, Real Estate Info Web</li>
+                                        <li>Web 構築（デザイン制作 | CMS | コーディング）</li>
+                                        <li>独自CMS, スマホ最適, カンパニーWeb, 不動産情報Web</li>
                                     </ul>
                                 </a>
                             </div>
@@ -915,8 +919,8 @@
                                     <img src="/img/portfolio/update/web-bambootajur.png" class="img-responsive" alt="Green Bamboo Terace">
                                     <h3>Green Bamboo Terace</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Re-Design (Design | CMS | Coding)</li>
-                                        <li>WordPress, Mobile Optimized, Real Estate Web</li>
+                                        <li>Web 再制作（デザイン制作 | CMS | コーディング）</li>
+                                        <li>WordPress, スマホ最適, 不動産</li>
                                     </ul>
                                 </a>
                             </div>                            
@@ -925,8 +929,8 @@
                                     <img src="/img/portfolio/update/web-hmw.png" class="img-responsive" alt="HMW Rehabilitation Clinic">
                                     <h3>HMW Rehabilitation Clinic</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Creation (Design | CMS | Coding)</li>
-                                        <li>Customized CMS, Mobile Optimized, Corporate Web, Medical Service Web</li>
+                                        <li>Web 構築（デザイン制作 | CMS | コーディング）</li>
+                                        <li>独自CMS, スマホ最適, カンパニーWeb, 医療サービス</li>
                                     </ul>
                                 </a>
                             </div>
@@ -935,8 +939,8 @@
                                     <img src="/img/portfolio/update/web-weeo.png" class="img-responsive" alt="Weeo">
                                     <h3>Weeo</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Design (Design | Coding | Maintenance)</li>
-                                        <li>Mobile Optimized, Corporate Web, IoT Service</li>
+                                        <li>Web制作（デザイン制作 | コーディング | 運用）</li>
+                                        <li>モバイル最適, サービスWeb, IoTサービス</li>
                                     </ul>
                                 </a>
                             </div>
@@ -947,8 +951,8 @@
                                     <img src="/img/portfolio/update/web-scsk.png" class="img-responsive" alt="SCSK">
                                     <h3>SCSK</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Creation (Design | Coding | Maintenance)</li>
-                                        <li>Quick Built, Corporate Web, IT Service</li>
+                                        <li>Web制作（デザイン制作 | コーディング | メンテナンス）</li>
+                                        <li>短納期制作, コーポレートWeb, ITサービス</li>
                                     </ul>
                                 </a>
                             </div>                            
@@ -957,8 +961,8 @@
                                     <img src="/img/portfolio/update/web-graha-mirai.png" class="img-responsive" alt="Graha Mirai">
                                     <h3>Graha Mirai</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Design (Design | Coding | Maintenance)</li>
-                                        <li>Mobile Optimized, Service Web, Real Estate</li>
+                                        <li>Web制作（デザイン制作 | コーディング | 運用）</li>
+                                        <li>モバイル最適, サービスWeb, 不動産</li>
                                     </ul>
                                 </a>
                             </div>
@@ -967,8 +971,8 @@
                                     <img src="/img/portfolio/update/web-amar-bank.png" class="img-responsive" alt="Amar Bank">
                                     <h3>Amar Bank</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Remake Development (Design | Coding | Integrasi CMS) </li>
-                                        <li>Wordpress, Corporate web, Bank</li>
+                                        <li>Webリニューアル制作 (デザイン | コーディング | CMS)</li>
+                                        <li>Wordpress, コーポレートWeb, 銀行, 金融</li>
                                     </ul>
                                 </a>
                             </div>
@@ -978,8 +982,8 @@
                                     <img src="/img/portfolio/update/web-mpas.png" class="img-responsive" alt="MPAS">
                                     <h3>MPAS</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Front End Development (Design | Coding | Integrasi Back-End)</li>
-                                        <li>Search System, CMS, Medical Media</li>
+                                        <li>WebフロントエンドDev (デザイン | コーディング | CMS)</li>
+                                        <li>検索Web, CMS, 医療情報</li>
                                     </ul>
                                 </a>
                             </div>                            
@@ -988,8 +992,8 @@
                                     <img src="/img/portfolio/update/web-pertamina.png" class="img-responsive" alt="Pertamina">
                                     <h3>Pertamina</h3>
                                     <ul class="list-unstyled">
-                                        <li>UI / UX Design (Design | HTML/CSS)</li>
-                                        <li>Training, E-Learning, Pertamina</li>
+                                        <li>UI/UXデザイン (デザイン | HTML/CSSコーディング)</li>
+                                        <li>eラーニング, トレーニング, 資源ビジネス</li>
                                     </ul>
                                 </div>
                             </div>
@@ -998,8 +1002,8 @@
                                     <img src="/img/portfolio/update/web-lifenesia-bulletin-board.png" class="img-responsive" alt="Lifenesia">
                                     <h3>Lifenesia</h3>
                                     <ul class="list-unstyled">
-                                        <li>Bulletin Board (Design | Coding | Deployment)</li>
-                                        <li>Bulletin Board, CtoC Service</li>
+                                        <li>Media 掲示板制作（デザイン制作 | コーディング | ディプロイ）</li>
+                                        <li>オンライン掲示板, CtoCサービス, メディア</li>
                                     </ul>
                                 </a>
                             </div>
@@ -1010,15 +1014,15 @@
                                     <img src="/img/portfolio/update/web-shi.png" class="img-responsive" alt="Sumitomo Heavy">
                                     <h3>Sumitomo Heavy</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Development (Design | Coding | Integrasi CMS)</li>
-                                        <li>Mobile Optimized, CMS, Corporate web</li>
+                                        <li>Heavy Industry Web制作 (デザイン｜コーディング | CMS)</li>
+                                        <li>モバイル最適化, CMS, コーポレートWeb, 重工業</li>
                                     </ul>
                                 </a>
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-asean-legal.png" class="img-responsive" alt="ASEAN Legal">
-                                    <h3>ASEAN (Hukum)</h3>
+                                    <h3>ASEAN (Legal)</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Remake Development (Design | Coding | CMS Integration)</li>
                                         <li>Public & Private Document Access, Custom Wordpress, International Organisation</li>
@@ -1042,8 +1046,8 @@
                                     <img src="/img/portfolio/update/web-tsubame-lpk.png" class="img-responsive" alt="Tsubame JLTC">
                                     <h3>LPK Tsubame Japanese Learning Center</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Revamp (Re-Design | Coding | Integrasi CMS)</li>
-                                        <li>Mobile Optimized, Service web, Education</li>
+                                        <li>Web改善 (リデザイン｜コーディング | CMS)</li>
+                                        <li>モバイル最適化, サービスWeb, 教育</li>
                                     </ul>
                                 </a>
                             </div>                            
@@ -1052,8 +1056,8 @@
                                     <img src="/img/portfolio/update/web-vetter-bulletin.png" class="img-responsive" alt="Vetter Bulletin Board">
                                     <h3>Vetter</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Bulletin board Development (Design | Coding | Integrasi CMS)</li>
-                                        <li>Bulletin board, CMS, Community Web, Media, Vietnum</li>
+                                        <li>Web掲示板制作 (デザイン | コーディング | CMS)</li>
+                                        <li>掲示板, CMS, コミュニティWeb, メディア, ベトナム</li>
                                     </ul>
                                 </a>
                             </div>
@@ -1062,8 +1066,8 @@
                                     <img src="/img/portfolio/update/web-kki.png" class="img-responsive" alt="KKI New Pages">
                                     <h3>KKI</h3>
                                     <ul class="list-unstyled">
-                                        <li>E-Commerce (Coding | Integrasi API)</li>
-                                        <li>Integrasi Layanan Pengiriman, Booking Pengiriman, Tracking Pengiriman, Tiki, Lion Parcel</li>
+                                        <li>ECサイト構築 (デザイン | コーディング | APIインテグレーション)</li>
+                                        <li>配送業者API連携, 配送予約機能, トラッキング, Tiki, Lion Parcel</li>
                                     </ul>
                                 </div>
                             </div>
@@ -1074,8 +1078,8 @@
                                     <img src="/img/portfolio/update/web-sibad.png" class="img-responsive" alt="Siti Badriah">
                                     <h3>Sibad.id</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Re-Develop (Cloud Server Migration | Re-build | Integration with a Payment Gateway)</li>
-                                        <li>Member System, Fan Club Subscription System, Entertainment</li>
+                                        <li>Web再構築（クラウド移行 | 再構築＆改善 | 決済機能構築）</li>
+                                        <li>有料会員, サブスクWeb, ファンクラブ運営, エンターテイメント</li>
                                     </ul>
                                 </a>
                             </div>                            
@@ -1084,8 +1088,8 @@
                                     <img src="/img/portfolio/update/web-ishida.png" class="img-responsive" alt="Ishida">
                                     <h3>Ishida</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Development (Design | CMS | Coding)</li>
-                                        <li>CMS, Product Search, Manufacturer, BtoB Service</li>
+                                        <li>Web構築（デザイン制作 | CMS | コーディング</li>
+                                        <li>BtoB, 製品検索Web, 製造業</li>
                                     </ul>
                                 </div>
                             </div>
@@ -1094,8 +1098,8 @@
                                     <img src="/img/portfolio/update/web-sumitomo-kenki.png" class="img-responsive" alt="Sumitomo Kenki">
                                     <h3>Sumitomo Kenki</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Front End Development (Coding | Integrasi CMS)</li>
-                                        <li>Mobile Optimized, CMS, Corporate web, Construction</li>
+                                        <li>WebフロントエンドDev (コーディング | CMS)</li>
+                                        <li>モバイル最適化, CMS, コーポレートWeb, 建機</li>
                                     </ul>
                                 </div>
                             </div>
@@ -1106,8 +1110,8 @@
                                     <img src="/img/portfolio/update/web-aia-berbagi.png" class="img-responsive" alt="AIA Berbagi">
                                     <h3>AIA Berbagi</h3>
                                     <ul class="list-unstyled">
-                                        <li>Website Creation (Coding | Integrasi API)</li>
-                                        <li>Validasi, Pengisian Formulir, Microsite, Asuransi Kecelakaan Gratis, CSR</li>
+                                        <li>Web制作 (コーディング | API連携)</li>
+                                        <li>フォーム開発, マイクロサイト, 保険, CSR</li>
                                     </ul>
                                 </div>
                             </div>                            
@@ -1116,8 +1120,8 @@
                                     <img src="/img/portfolio/update/web-aia-conservation.png" class="img-responsive" alt="AIA Conservation">
                                     <h3>AIA Conservation</h3>
                                     <ul class="list-unstyled">
-                                        <li>AIA Conservation Website Creation (Design | Coding)</li>
-                                        <li>Validasi, Pengisian Formulir, Variasi Skenario Pengguna, Microsite, Prosedur Digital, Adobe Form</li>
+                                        <li>Web制作 (デザイン | コーディング)</li>
+                                        <li>フォーム開発, マルチユーザージャーニー, マイクロサイト, Adobe Forms, 保険</li>
                                     </ul>
                                 </div>
                             </div>

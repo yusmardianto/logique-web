@@ -1087,6 +1087,7 @@ b {
 }
 
 .portfolio-update__content .content__item {
+  display: block;
   margin-bottom: 40px;
 }
 
@@ -1098,8 +1099,7 @@ b {
 }
 
 
-#portofolio_website .content__wrapper,
-#portofolio_website .content__wrapper > .row >  div {
+#portofolio_website .content__wrapper {
   margin-bottom: 10px;
 }
 
@@ -1120,8 +1120,8 @@ b {
   color: #000;
   font-size: 16px;
   background-color: #fbc935;
-  padding: 13px 5px;
-  width: 125px;
+  padding: 13px 15px;
+  min-width: 125px;
   border-radius: 5px;
   border: solid 2px #fbc935;
 }

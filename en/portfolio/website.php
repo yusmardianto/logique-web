@@ -249,7 +249,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/aiapremieracademy.png" class="img-responsive" alt="AIA Premier Academy">
+                                    <img src="/img/portfolio/update/web-aia-premiere.png" class="img-responsive" alt="AIA Premier Academy">
                                     <h3>AIA Premier Academy</h3>
                                     <ul class="list-unstyled">
                                         <li>Website Creation (Design | Coding)</li>
@@ -259,7 +259,7 @@
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jff.png" class="img-responsive" alt="Film Festival">
+                                    <img src="/img/portfolio/update/web-film.png" class="img-responsive" alt="Film Festival">
                                     <h3>Film Festival</h3>
                                     <ul class="list-unstyled">
                                         <li>Event / Schedule Web Creation (Design | Coding)</li>
@@ -269,7 +269,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.otomart.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/otomart.png" class="img-responsive" alt="OTOmart (used-car market place)">
+                                    <img src="/img/portfolio/update/web-otomart.png" class="img-responsive" alt="OTOmart (used-car market place)">
                                     <h3>OTOmart (used-car market place)</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev & Operation (Design | CMS | System | Content Creation | Operation | AWS)</li>
@@ -279,7 +279,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://jaif.asean.org/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jaif.png" class="img-responsive" alt="Japan Asean Integration Fund">
+                                    <img src="/img/portfolio/update/web-jaif.png" class="img-responsive" alt="Japan Asean Integration Fund">
                                     <h3>Japan Asean Integration Fund</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev & Operation (Design | Coding | Operation)</li>
@@ -289,7 +289,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/shinoken.png" class="img-responsive" alt="Shinoken Asset Management">
+                                    <img src="/img/portfolio/update/web-shinoken.png" class="img-responsive" alt="Shinoken Asset Management">
                                     <h3>Shinoken Asset Management</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Development (Design | Coding | AWS)</li>
@@ -299,7 +299,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://sentraya.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/sentraya.png" class="img-responsive" alt="Menara Sentraya">
+                                    <img src="/img/portfolio/update/web-sentraya.png" class="img-responsive" alt="Menara Sentraya">
                                     <h3>Menara Sentraya</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Development (Design | Coding | CMS)</li>
@@ -310,7 +310,7 @@
                             <div class="clearfix"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://bisnissaya.com" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/bisnissaya.png" class="img-responsive" alt="BisnisSaya.com (MLM E-Commerce)">
+                                    <img src="/img/portfolio/update/web-bisnissaya.png" class="img-responsive" alt="BisnisSaya.com (MLM E-Commerce)">
                                     <h3>BisnisSaya.com (MLM E-Commerce)</h3>
                                     <ul class="list-unstyled">
                                         <li>E-Commerce Development (Design | E-Commerce | CMS | Maintenance)</li>
@@ -320,7 +320,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://frangipanibalispa.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/frangipani-amp.png" class="img-responsive" alt="Frangipani">
+                                    <img src="/img/portfolio/update/web-frangipani-amp.png" class="img-responsive" alt="Frangipani">
                                     <h3>Frangipani</h3>
                                     <ul class="list-unstyled">
                                         <li>AMP Development (Design | AMP Coding)</li>
@@ -330,7 +330,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://warasahalal.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/warasa.png" class="img-responsive" alt="WARASA">
+                                    <img src="/img/portfolio/update/web-warasa.png" class="img-responsive" alt="WARASA">
                                     <h3>WARASA</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Development (Design | Coding | AWS)</li>
@@ -341,7 +341,7 @@
                             <div class="clearfix"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://hoyu.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/hoyu.png" class="img-responsive" alt="Hoyu Indonesia">
+                                    <img src="/img/portfolio/update/web-hoyu.png" class="img-responsive" alt="Hoyu Indonesia">
                                     <h3>Hoyu Indonesia</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev (Design | Coding | Operation)</li>
@@ -351,7 +351,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/arf.png" class="img-responsive" alt="ASEAN (ARF)">
+                                    <img src="/img/portfolio/update/web-arf.png" class="img-responsive" alt="ASEAN (ARF)">
                                     <h3>ASEAN (ARF)</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Development (Design | Coding | CMS)</li>
@@ -361,7 +361,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/caroline.png" class="img-responsive" alt="Caroline">
+                                    <img src="/img/portfolio/update/web-caroline.png" class="img-responsive" alt="Caroline">
                                     <h3>Caroline</h3>
                                     <ul class="list-unstyled">
                                         <li>Car Matching Web Development (Design | Coding | System)</li>
@@ -372,7 +372,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://jualbeliweb.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jualbeliweb.png" class="img-responsive" alt="JualBeliWEB.id (Website market place)">
+                                    <img src="/img/portfolio/update/web-jualbeliweb.png" class="img-responsive" alt="JualBeliWEB.id (Website market place)">
                                     <h3>JualBeliWEB.id (Website market place)</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev & Operation (Design | CMS | System | Content Creation | Operation)</li>
@@ -382,7 +382,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/ajapan.png" class="img-responsive" alt="aJapan Campaign Page">
+                                    <img src="/img/portfolio/update/web-ajapan.png" class="img-responsive" alt="aJapan Campaign Page">
                                     <h3>aJapan Campaign Page</h3>
                                     <ul class="list-unstyled">
                                         <li>Campaign Microsite Dev & Operation (Design | Coding | Operation)</li>
@@ -392,7 +392,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jtrustbank.co.id/id/moe" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/moe.png" class="img-responsive" alt="JTrust Bank Indonesia">
+                                    <img src="/img/portfolio/update/web-moe.png" class="img-responsive" alt="JTrust Bank Indonesia">
                                     <h3>JTrust Bank Indonesia</h3>
                                     <ul class="list-unstyled">
                                         <li>Campaign Page Creation (Design | Coding | CMS)</li>
@@ -405,7 +405,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://frangipanibalispa.com/contact.php" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/frangipani.png" class="img-responsive" alt="Frangipani Esthetics Bali">
+                                    <img src="/img/portfolio/update/web-frangipani.png" class="img-responsive" alt="Frangipani Esthetics Bali">
                                     <h3>Frangipani Esthetics Bali</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev & Operation (Design | Coding | Operation)</li>
@@ -415,7 +415,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/otosiap.png" class="img-responsive" alt="OTO Siap!">
+                                    <img src="/img/portfolio/update/web-otosiap.png" class="img-responsive" alt="OTO Siap!">
                                     <h3>OTO Siap!</h3>
                                     <ul class="list-unstyled">
                                         <li>Landing Page Creation (Design | Coding)</li>
@@ -425,7 +425,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/oto-isuzu.png" class="img-responsive" alt="">
+                                    <img src="/img/portfolio/update/web-oto-isuzu.png" class="img-responsive" alt="">
                                     <h3></h3>
                                     <ul class="list-unstyled">
                                         <li>Landing Page Creation (Design | Coding)</li>
@@ -437,7 +437,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/oto-conc.png" class="img-responsive" alt="OTOmart Concierge LP">
+                                    <img src="/img/portfolio/update/web-oto-conc.png" class="img-responsive" alt="OTOmart Concierge LP">
                                     <h3>OTOmart Concierge LP</h3>
                                     <ul class="list-unstyled">
                                         <li>Landing Page Creation (Design | Coding)</li>
@@ -448,7 +448,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/oto-garansi.png" class="img-responsive" alt="">
+                                    <img src="/img/portfolio/update/web-oto-garansi.png" class="img-responsive" alt="">
                                     <h3></h3>
                                     <ul class="list-unstyled">
                                         <li>Landing Page Creation (Design | Coding)</li>
@@ -459,7 +459,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/eccj.jpg" class="img-responsive" alt="ECCJ">
+                                    <img src="/img/portfolio/update/web-eccj.png" class="img-responsive" alt="ECCJ">
                                     <h3>ECCJ</h3>
                                     <ul class="list-unstyled">
                                         <li>LP and application form Creation (Design | programming)</li>
@@ -470,7 +470,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/sfi.png" class="img-responsive" alt="Sumitomo Forestry LP">
+                                    <img src="/img/portfolio/update/web-sfi.png" class="img-responsive" alt="Sumitomo Forestry LP">
                                     <h3>Sumitomo Forestry LP</h3>
                                     <ul class="list-unstyled">
                                         <li>Landing Page Creation (Design | Coding)</li>
@@ -480,7 +480,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://hajime-indonesia.co.id/about/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/hajime.png" class="img-responsive" alt="Hajime Indonesia">
+                                    <img src="/img/portfolio/update/web-hajime.png" class="img-responsive" alt="Hajime Indonesia">
                                     <h3>Hajime Indonesia</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev & Operation (Design | Coding | Operation | WEB Server)</li>
@@ -490,7 +490,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://maisonderes.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/mdr.png" class="img-responsive" alt="Maison de Res (Condominium Portal)">
+                                    <img src="/img/portfolio/update/web-mdr.png" class="img-responsive" alt="Maison de Res (Condominium Portal)">
                                     <h3>Maison de Res (Condominium Portal)</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev & Operation (Design | CMS | Content Creation | Operation)</li>
@@ -501,7 +501,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.zuttoride.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/zutto.png" class="img-responsive" alt="ZuttoRide Indonesia">
+                                    <img src="/img/portfolio/update/web-zutto.png" class="img-responsive" alt="ZuttoRide Indonesia">
                                     <h3>ZuttoRide Indonesia</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev & Operation (Design | Coding | Maintenance| WEB Server)</li>
@@ -511,7 +511,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://jjs.or.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jjs.png" class="img-responsive" alt="Jakarta Japanese School">
+                                    <img src="/img/portfolio/update/web-jjs.png" class="img-responsive" alt="Jakarta Japanese School">
                                     <h3>Jakarta Japanese School</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev & Operation (Design | Coding | Wordpress | Operation)</li>
@@ -521,7 +521,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://cikarang-japanese-school.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/cjs.png" class="img-responsive" alt="Cikarang Japanese School">
+                                    <img src="/img/portfolio/update/web-cjs.png" class="img-responsive" alt="Cikarang Japanese School">
                                     <h3>Cikarang Japanese School</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev & Operation (Design | Coding | Wordpress | AWS Operation)</li>
@@ -532,7 +532,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.60jpid.com/symposium.php" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/symposium.png" class="img-responsive" alt="Symposium Application LP">
+                                    <img src="/img/portfolio/update/web-symposium.png" class="img-responsive" alt="Symposium Application LP">
                                     <h3>Symposium Application LP</h3>
                                     <ul class="list-unstyled">
                                         <li>Application Form Creation (Design | PHP Form)</li>
@@ -542,7 +542,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.ikeuchi.id/lp/eng/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/ikeuchi.png" class="img-responsive" alt="Ikeuchi Indonesia">
+                                    <img src="/img/portfolio/update/web-ikeuchi.png" class="img-responsive" alt="Ikeuchi Indonesia">
                                     <h3>Ikeuchi Indonesia</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev (Design | Coding)</li>
@@ -552,7 +552,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.moresco.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/moresco.png" class="img-responsive" alt="MORESCO INDONESIA">
+                                    <img src="/img/portfolio/update/web-moresco.png" class="img-responsive" alt="MORESCO INDONESIA">
                                     <h3>MORESCO INDONESIA</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev (Design | Coding | Maintenance | WEB Server)</li>
@@ -564,7 +564,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://trendpot-recruit.asia/index.php" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/dmi.png" alt="Digital Marketing Indonesia" class="img-responsive center-block">
+                                    <img src="/img/portfolio/update/web-trendpot.png" alt="Digital Marketing Indonesia" class="img-responsive center-block">
                                     <h3>TRENDPOT</h3>
                                     <ul class="list-unstyled">
                                         <li>Pengoperasian WEB & Operasi (Design | Coding | Operation)</li>
@@ -574,7 +574,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/dmi.png" alt="Digital Marketing Indonesia" class="img-responsive center-block">
+                                    <img src="/img/portfolio/update/web-dmi.png" alt="Digital Marketing Indonesia" class="img-responsive center-block">
                                     <h3>Digital Marketing Indonesia</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev & Operation (Design | Coding)</li>
@@ -584,7 +584,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/salon-de-res.png" alt="Salon De Res" class="img-responsive center-block">
+                                    <img src="/img/portfolio/update/web-salon-de-res.png" alt="Salon De Res" class="img-responsive center-block">
                                     <h3>Salon De Res</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev (Design | Coding)</li>
@@ -596,7 +596,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.kumomiland.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/kumomiland.png" alt="KUMOMI LAND INDONESIA"
+                                    <img src="/img/portfolio/update/web-kumomiland.png" alt="KUMOMI LAND INDONESIA"
                                         class="img-responsive center-block">
                                     <h3>KUMOMI LAND INDONESIA</h3>
                                     <ul class="list-unstyled">
@@ -607,7 +607,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://4dentist.jp/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/4dentist.png" class="img-responsive" alt="4Dentist.jp">
+                                    <img src="/img/portfolio/update/web-4dentist.png" class="img-responsive" alt="4Dentist.jp">
                                     <h3>4Dentist.jp (Dentist Portal)</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev & Operation (Design | CMS | Operation)</li>
@@ -617,7 +617,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://omc.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/omc.png" class="img-responsive" alt="Onitsuka Management Consulting">
+                                    <img src="/img/portfolio/update/web-omc.png" class="img-responsive" alt="Onitsuka Management Consulting">
                                     <h3>Onitsuka Management Consulting</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Re-Design (Design | Coding)</li>
@@ -629,7 +629,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://j-golfacademy.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/golfjkt.png" class="img-responsive" alt="Jakarta Golf Academy">
+                                    <img src="/img/portfolio/update/web-golfjkt.png" class="img-responsive" alt="Jakarta Golf Academy">
                                     <h3>Jakarta Golf Academy</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev & Operation (Design | Coding | Operation)</li>
@@ -639,7 +639,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.60jpid.com/music-festival.php" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/music_festival.png" class="img-responsive" alt="Music Festival Landing Page">
+                                    <img src="/img/portfolio/update/web-music-festival.png" class="img-responsive" alt="Music Festival Landing Page">
                                     <h3>Music Festival Landing Page</h3>
                                     <ul class="list-unstyled">
                                         <li>Landing Page Creation (Design | Coding | Digital AD)</li>
@@ -649,7 +649,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://promokreditbprks.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/bprks.jpg" class="img-responsive" alt="BPR KS">
+                                    <img src="/img/portfolio/update/web-bprks.png" class="img-responsive" alt="BPR KS">
                                     <h3>BPR KS</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Remake & Growth-hack (Design | Coding | Content Creation | Operation)</li>
@@ -661,7 +661,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.vipplaza.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/vipplaza.jpg" class="img-responsive" alt="VIP Plaza">
+                                    <img src="/img/portfolio/update/web-vipplaza.png" class="img-responsive" alt="VIP Plaza">
                                     <h3>VIP Plaza</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Remake & PWA (Coding)</li>
@@ -671,7 +671,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://opuspark.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/opus-park.png" class="img-responsive" alt="Opus Park">
+                                    <img src="/img/portfolio/update/web-opus-park.png" class="img-responsive" alt="Opus Park">
                                     <h3>Opus Park</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Operation (PDCA | SEO | AWS)</li>
@@ -681,7 +681,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://nlecnihongo.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/nlec.png" class="img-responsive" alt="NLEC">
+                                    <img src="/img/portfolio/update/web-nlec.png" class="img-responsive" alt="NLEC">
                                     <h3>NLEC</h3>
                                     <ul class="list-unstyled">
                                         <li>E-Learning Web Development (Design | CMS | PWA)</li>
@@ -692,7 +692,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/jfe.png" class="img-responsive" alt="JFE">
+                                    <img src="/img/portfolio/update/web-jfe.png" class="img-responsive" alt="JFE">
                                     <h3>JFE</h3>
                                     <ul class="list-unstyled">
                                         <li>Corporate Web Creation (Design | Coding)</li>
@@ -703,7 +703,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jjs.or.id/50thanniversary" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jjs50.png" class="img-responsive" alt="JJS 50 years special LP">
+                                    <img src="/img/portfolio/update/web-jjs50.png" class="img-responsive" alt="JJS 50 years special LP">
                                     <h3>JJS 50 years special LP</h3>
                                     <ul class="list-unstyled">
                                         <li>LP Creation (Bootstrap | Content Creation)</li>
@@ -713,7 +713,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jba.co.id/id/hasil-harga-lelang" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jba-hasil-lelang.png" class="img-responsive" alt="JBA Hasil Lelang">
+                                    <img src="/img/portfolio/update/web-jba-hasil-lelang.png" class="img-responsive" alt="JBA Hasil Lelang">
                                     <h3>JBA Hasil Lelang</h3>
                                     <ul class="list-unstyled">
                                         <li>AMP Creation (AMP | Dynamic Pages)</li>
@@ -725,7 +725,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://webdev-id.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/wdi.png" class="img-responsive" alt="WDI">
+                                    <img src="/img/portfolio/update/web-wdi.png" class="img-responsive" alt="WDI">
                                     <h3>WDI</h3>
                                     <ul class="list-unstyled">
                                         <li>Creators Market Place Development (Design | CMS | Security Assessment)</li>
@@ -735,7 +735,7 @@
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://lifenesia.com" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/lifenesia.png" class="img-responsive" alt="Lifenesia">
+                                    <img src="/img/portfolio/update/web-lifenesia.png" class="img-responsive" alt="Lifenesia">
                                     <h3>Lifenesia</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Hosting (Coding | Integrasi CMS)</li>
@@ -745,7 +745,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jnto-campaign.png" class="img-responsive" alt="JNTO Campaign Page">
+                                    <img src="/img/portfolio/update/web-jnto-campaign.png" class="img-responsive" alt="JNTO Campaign Page">
                                     <h3>JNTO Campaign Page</h3>
                                     <ul class="list-unstyled">
                                         <li>HTML/CSS Coding (Coding)</li>
@@ -757,7 +757,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/jba-redesign.png" class="img-responsive" alt="JBA Re-design">
+                                    <img src="/img/portfolio/update/web-jba-redesign.png" class="img-responsive" alt="JBA Re-design">
                                     <h3>JBA Re-design</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev & Operation (Design | CMS | System | Operation | AWS)</li>
@@ -767,7 +767,7 @@
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.60jpid.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/60jpid.png" class="img-responsive" alt="60th Anniversary Japan-Indonesia">
+                                    <img src="/img/portfolio/update/web-60jpid.png" class="img-responsive" alt="60th Anniversary Japan-Indonesia">
                                     <h3>60<sup>th</sup> Anniversary Japan-Indonesia</h3>
                                     <ul class="list-unstyled">
                                         <li> WEB Operation and WEB Development (Design | Coding | Content Creation |
@@ -778,7 +778,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/wantjp.png" class="img-responsive" alt="Want.jp">
+                                    <img src="/img/portfolio/update/web-wantjp.png" class="img-responsive" alt="Want.jp">
                                     <h3>Want.jp</h3>
                                     <ul class="list-unstyled">
                                         <li>E-Commerce Development (PWA | ReactJS | NodeJS)</li>
@@ -790,7 +790,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://banzaihobby.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/banzai-hobby.png" class="img-responsive" alt="Banzai Hobby">
+                                    <img src="/img/portfolio/update/web-banzai-hobby.png" class="img-responsive" alt="Banzai Hobby">
                                     <h3>Banzai Hobby</h3>
                                     <ul class="list-unstyled">
                                         <li>Server Migration to AWS (Migration | Hosting | AWS)</li>
@@ -800,7 +800,7 @@
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://jjc.or.id/hojin/annai/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jjc_hojin.png" class="img-responsive" alt="JJC Hojin">
+                                    <img src="/img/portfolio/update/web-jjc-hojin.png" class="img-responsive" alt="JJC Hojin">
                                     <h3>JJC Hojin</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Re-Design (Design | CMS | Coding)</li>
@@ -810,7 +810,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://jjc.or.id/kojin/tosho/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jjc_kojin.png" class="img-responsive" alt="JJC Kojin">
+                                    <img src="/img/portfolio/update/web-jjc-kojin.png" class="img-responsive" alt="JJC Kojin">
                                     <h3>JJC Kojin</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Re-Design (Design | CMS | Coding)</li>
@@ -822,7 +822,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jba.co.id/id/poin-rewards" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jba-lp.png" class="img-responsive" alt="JBA LP">
+                                    <img src="/img/portfolio/update/web-jba-lp.png" class="img-responsive" alt="JBA LP">
                                     <h3>JBA LP</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Page Creation (Design | Coding | CMS Integration)</li>
@@ -832,7 +832,7 @@
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/proline.png" class="img-responsive" alt="PROLINE FINANCE">
+                                    <img src="/img/portfolio/update/web-proline.png" class="img-responsive" alt="PROLINE FINANCE">
                                     <h3>PROLINE FINANCE</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Development (Design | Coding | CMS)</li>
@@ -842,7 +842,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://aiaberbagi.com" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/aia.png" class="img-responsive" alt="AIA">
+                                    <img src="/img/portfolio/update/web-aia.png" class="img-responsive" alt="AIA">
                                     <h3>AIA</h3>
                                     <ul class="list-unstyled">
                                         <li>Campaign Page Creation (Coding | Hosting)</li>
@@ -854,7 +854,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.kbrprime.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/KBR_ID.png" class="img-responsive" alt="KBR_ID">
+                                    <img src="/img/portfolio/update/web-kbr-id.png" class="img-responsive" alt="KBR_ID">
                                     <h3>KBR</h3>
                                     <ul class="list-unstyled">
                                         <li></li>
@@ -864,7 +864,7 @@
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://unitedconcepts.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/royal-amanda.png" class="img-responsive" alt="Royal Armada">
+                                    <img src="/img/portfolio/update/web-royal-amanda.png" class="img-responsive" alt="Royal Armada">
                                     <h3>Royal Armada</h3>
                                     <ul class="list-unstyled">
                                         <li></li>
@@ -874,7 +874,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://premium-garansi.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/premiumgaransi.jpg" class="img-responsive" alt="Premium Garansi">
+                                    <img src="/img/portfolio/update/web-premiumgaransi.png" class="img-responsive" alt="Premium Garansi">
                                     <h3>Premium-Garansi.co.id</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Page Creation (Coding | Integrasi CMS)</li>
@@ -885,7 +885,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/ligohome.jpg" class="img-responsive" alt="LIGO Home">
+                                    <img src="/img/portfolio/update/web-ligohome.png" class="img-responsive" alt="LIGO Home">
                                     <h3>LIGO-Home</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Page Creation (Design | Coding | Integrasi CMS)</li>
@@ -895,7 +895,7 @@
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.otomart.id/oto-garansi.html" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/otogaransi.jpg" class="img-responsive" alt="OTO-Garansi Campaign Page">
+                                    <img src="/img/portfolio/update/web-otogaransi.png" class="img-responsive" alt="OTO-Garansi Campaign Page">
                                     <h3>OTO-Garansi Campaign Page</h3>
                                     <ul class="list-unstyled">
                                         <li>Campaign Page Creation (Design | Coding)</li>
@@ -905,7 +905,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://timscorp.co.id/en" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/timscorp.png" class="img-responsive" alt="Timscorp">
+                                    <img src="/img/portfolio/update/web-timscorp.png" class="img-responsive" alt="Timscorp">
                                     <h3>PT. TOYOTA ENTERPRISE INDONESIA MANAGEMENT SERVICE</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Development (Design | CMS | Coding)</li>
@@ -918,7 +918,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.bambootajur.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/bambootajur.png" class="img-responsive" alt="Green Bamboo Terace">
+                                    <img src="/img/portfolio/update/web-bambootajur.png" class="img-responsive" alt="Green Bamboo Terace">
                                     <h3>Green Bamboo Terace</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Re-Design (Design | CMS | Coding)</li>
@@ -928,7 +928,7 @@
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://hmw-rehab.com/en" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/hmw.png" class="img-responsive" alt="HMW Rehabilitation Clinic">
+                                    <img src="/img/portfolio/update/web-hmw.png" class="img-responsive" alt="HMW Rehabilitation Clinic">
                                     <h3>HMW Rehabilitation Clinic</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Creation (Design | CMS | Coding)</li>
@@ -938,7 +938,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://weeo.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/weeo.png" class="img-responsive" alt="Weeo">
+                                    <img src="/img/portfolio/update/web-weeo.png" class="img-responsive" alt="Weeo">
                                     <h3>Weeo</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Design (Design | Coding | Maintenance)</li>
@@ -950,7 +950,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://scskidn.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/scsk.png" class="img-responsive" alt="SCSK">
+                                    <img src="/img/portfolio/update/web-scsk.png" class="img-responsive" alt="SCSK">
                                     <h3>SCSK</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Creation (Design | Coding | Maintenance)</li>
@@ -960,7 +960,7 @@
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://grahamirai.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/graha-mirai.png" class="img-responsive" alt="Graha Mirai">
+                                    <img src="/img/portfolio/update/web-graha-mirai.png" class="img-responsive" alt="Graha Mirai">
                                     <h3>Graha Mirai</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Design (Design | Coding | Maintenance)</li>
@@ -970,7 +970,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://swara.tunaiku.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/amar-bank.png" class="img-responsive" alt="Amar Bank">
+                                    <img src="/img/portfolio/update/web-amar-bank.png" class="img-responsive" alt="Amar Bank">
                                     <h3>Amar Bank</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Remake Development (Design | Coding | Integrasi CMS) </li>
@@ -981,7 +981,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://m-pas.org/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/mpas.png" class="img-responsive" alt="MPAS">
+                                    <img src="/img/portfolio/update/web-mpas.png" class="img-responsive" alt="MPAS">
                                     <h3>MPAS</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Front End Development (Design | Coding | Integrasi Back-End)</li>
@@ -991,7 +991,7 @@
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/pertamina.png" class="img-responsive" alt="Pertamina">
+                                    <img src="/img/portfolio/update/web-pertamina.png" class="img-responsive" alt="Pertamina">
                                     <h3>Pertamina</h3>
                                     <ul class="list-unstyled">
                                         <li>UI / UX Design (Design | HTML/CSS)</li>
@@ -1001,7 +1001,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://lifenesia.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/lifenesia-bulletin-board.png" class="img-responsive" alt="Lifenesia">
+                                    <img src="/img/portfolio/update/web-lifenesia-bulletin-board.png" class="img-responsive" alt="Lifenesia">
                                     <h3>Lifenesia</h3>
                                     <ul class="list-unstyled">
                                         <li>Bulletin Board  (Design | Coding | Deployment)</li>
@@ -1013,7 +1013,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://shi-indonesia.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/shi.png" class="img-responsive" alt="Sumitomo Heavy">
+                                    <img src="/img/portfolio/update/web-shi.png" class="img-responsive" alt="Sumitomo Heavy">
                                     <h3>Sumitomo Heavy</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Development (Design | Coding | Integrasi CMS)</li>
@@ -1023,7 +1023,7 @@
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/asean-legal.png" class="img-responsive" alt="ASEAN Legal">
+                                    <img src="/img/portfolio/update/web-asean-legal.png" class="img-responsive" alt="ASEAN Legal">
                                     <h3>ASEAN (Legal)</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Remake Development (Design | Coding | CMS Integration)</li>
@@ -1033,7 +1033,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://afcwp.asean.org/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/asean-afcwp.png" class="img-responsive" alt="ASEAN Finance">
+                                    <img src="/img/portfolio/update/web-asean-afcwp.png" class="img-responsive" alt="ASEAN Finance">
                                     <h3>ASEAN (Financial)</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Remake Development (Design | Coding | CMS Integration)</li>
@@ -1045,7 +1045,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.tsubame-jltc.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/tsubame-lpk.png" class="img-responsive" alt="Tsubame JLTC">
+                                    <img src="/img/portfolio/update/web-tsubame-lpk.png" class="img-responsive" alt="Tsubame JLTC">
                                     <h3>LPK Tsubame Japanese Learning Center</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Revamp (Re-Design | Coding | Integrasi CMS)</li>
@@ -1055,7 +1055,7 @@
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://wkvetter.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/vetter-bulletin.png" class="img-responsive" alt="Vetter Bulletin Board">
+                                    <img src="/img/portfolio/update/web-vetter-bulletin.png" class="img-responsive" alt="Vetter Bulletin Board">
                                     <h3>Vetter</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Bulletin board Development (Design | Coding | Integrasi CMS)</li>
@@ -1065,7 +1065,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/kki.jpg" class="img-responsive" alt="KKI New Pages">
+                                    <img src="/img/portfolio/update/web-kki.png" class="img-responsive" alt="KKI New Pages">
                                     <h3>KKI</h3>
                                     <ul class="list-unstyled">
                                         <li>E-Commerce (Coding | API Integration)</li>
@@ -1077,7 +1077,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://sibad.id/id" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/sibad.jpg" class="img-responsive" alt="Siti Badriah">
+                                    <img src="/img/portfolio/update/web-sibad.png" class="img-responsive" alt="Siti Badriah">
                                     <h3>Sibad.id</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Re-Develop (Cloud Server Migration | Re-build | Integration with a Payment Gateway)</li>
@@ -1087,7 +1087,7 @@
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/ishida.png" class="img-responsive" alt="Ishida">
+                                    <img src="/img/portfolio/update/web-ishida.png" class="img-responsive" alt="Ishida">
                                     <h3>Ishida</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Development (Design | CMS | Coding)</li>
@@ -1097,7 +1097,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/sumitomo-kenki.png" class="img-responsive" alt="Sumitomo Kenki">
+                                    <img src="/img/portfolio/update/web-sumitomo-kenki.png" class="img-responsive" alt="Sumitomo Kenki">
                                     <h3>Sumitomo Kenki</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Front End Development (Coding | Integrasi CMS)</li>
@@ -1109,7 +1109,7 @@
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/aia-berbagi.png" class="img-responsive" alt="AIA Berbagi">
+                                    <img src="/img/portfolio/update/web-aia-berbagi.png" class="img-responsive" alt="AIA Berbagi">
                                     <h3>AIA Berbagi</h3>
                                     <ul class="list-unstyled">
                                         <li>Website Creation (Coding | API Integration)</li>
@@ -1119,7 +1119,7 @@
                             </div>                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
-                                    <img src="/img/portfolio/aia-conservation.png" class="img-responsive" alt="AIA Conservation">
+                                    <img src="/img/portfolio/update/web-aia-conservation.png" class="img-responsive" alt="AIA Conservation">
                                     <h3>AIA Conservation</h3>
                                     <ul class="list-unstyled">
                                         <li>AIA Conservation Website Creation (Design | Coding)</li>
