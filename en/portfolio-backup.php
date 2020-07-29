@@ -1,22 +1,24 @@
-﻿<!DOCTYPE html>
-<html lang="ja">
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUEの制作実績を紹介します。LOGIQUEは、ジャカルタのウェブ制作会社です。ジャカルタを中心としたインドネシア国内で、数多くのWEBサイト(ホームページ)制作/システム構築、パンフレット、カタログ等印刷物のデザインまで制作を行ってまいりました。">
-    <meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, デザイン, 印刷, コーポレートサイト, ランディングページ">
+        content="LOGIQUE Digital Indonesia is frequently involved in numerous web development projects, ranging from designing web systems, mobile applications, digital marketing campaigns, and many other IT related ventures. Our work within the Digital and IT areas cover ASEAN countries; especially Indonesia and Japan. Click here to see our top achievements and clientele portfolio.">
+    <meta name="keywords" content="website creation, web-system development, designing, printing, corporate site, landing page">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア">
+    <meta property="og:title" content="Portfolio | Web System App Development Works | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/jp/portfolio.php">
+    <meta property="og:url" content="https://www.logique.co.id/en/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="LOGIQUEの制作実績を紹介します。ホームページ制作、Webシステム開発、モバイルアプリ開発、SNS運用やSEO、インターネット広告などデジタルマーケティング実施の実績紹介です。LOGIQUEはジャカルタのウェブ制作会社です。インドネシアでの制作開発プロジェクトのケーススタディーも幾つか紹介します。">
+        content="LOGIQUE Digital Indonesia is frequently involved in numerous web development projects, ranging from designing web systems, mobile applications, digital marketing campaigns, and many other IT related ventures. Our work within the Digital and IT areas cover ASEAN countries; especially Indonesia and Japan. Click here to see our top achievements and clientele portfolio.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア</title>
+    
+    <title>Portfolio | Web System App Development Works | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -24,23 +26,22 @@
     <link href="../css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
-    <link href="../css/jpstyle.css" rel="stylesheet">
 </head>
 
 <body style="overflow-x: hidden">
     <div class="wrapper wrapper--update-design">
 
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
-            data-target="#myNavbar">
+        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
+            data-toggle="collapse" data-target="#myNavbar">
             <span class="icon-bar first"></span>
             <span class="icon-bar second"></span>
             <span class="icon-bar third"></span>
         </button>
+
         <div class="collapse navbar-collapse" id="myNavbar">
             <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update in-jp">
+            <div class="logique-nav logique-nav--update">
                 <div class="margin-for-nav">
                     <div class="text-center">
                         <a href="index.php">
@@ -51,41 +52,41 @@
                     <div class="text-center">
                         <a href="logique.php">
                             <div class="img-about"></div>
-                            会社概要
+                            About Us
                         </a>
                     </div>
                     <div class="text-center active">
                         <a href="portfolio.php">
                             <div class="img-portfolio"></div>
-                            制作実績
+                            Portfolio
                         </a>
                     </div>
                     <div class="text-center">
                         <a href="services.php">
                             <div class="img-services"></div>
-                            サービス
+                            Services
                         </a>
                     </div>
                     <div class="text-center">
                         <a href="product.php">
                             <div class="img-product"></div>
-                            プロダクト
+                            Product
                         </a>
                     </div>
                     <div class="text-center">
                         <a href="/career/">
                             <div class="img-career"></div>
-                            採用/<br>パートナー
+                            Career
                         </a>
                     </div>
                     <div class="text-center">
                         <a href="contact.php">
                             <div class="img-contact"></div>
-                            お問い合わせ
+                            Contact Us
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
+                        <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
                             <div class="img-blog"></div>
                             Blog
                         </a>
@@ -104,24 +105,23 @@
         <div class="bg-white-opacity"></div> -->
 
         <div class="container-fluid">
-
             <div class="row lang-logo--update-design">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
                             <div class="container">
                                 <ul class="list-inline">
-                                    <li><a href="../en/portfolio.php">EN</a></li>
+                                    <li class="active"><a href="#">EN</a></li>
                                     <li><a href="../portofolio.php">ID</a></li>
-                                    <li class="active"><a href="#">JP</a></li>
+                                    <li><a href="../jp/portfolio.php">JP</a></li>
                                 </ul>
-                                <a href="index.php"><img src="../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
+                                <a href="index.php"><img src="/img/logo.png" alt="Logo"
+                                        class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
         </div>
 
         <style>
@@ -130,11 +130,7 @@
         }
 
         .addition-desc {
-            font-size: 15px;
-        }
-
-        .addition-title {
-            font-size: 18px;
+            font-size: 12px
         }
 
         .grey-clr {
@@ -156,13 +152,14 @@
                 <div class="container__" style="padding:0">
                     <div class="row">
                         <div class="col-sm-12">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
+                            <ol class="breadcrumb breadcrumb--update-design" itemscope
+                                itemtype="http://schema.org/BreadcrumbList">
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="index.php"><span itemprop="name">ホーム</span></a>
+                                        href="index.php"><span itemprop="name">Home</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
-                                            itemprop="name">&nbsp;制作・開発実績</span></a>
+                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                        itemprop="item"><span itemprop="name">&nbsp;Portfolio</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                             </ol>
@@ -173,13 +170,13 @@
 
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
-                    <h1 class="title"><b>制作・開発</b><span class="yellow"> 実績</span></h1>
-                    <p class="title__description">
-                        LOGIQUEはインドネシアの日系企業、外資企業、大手インドネシア企業との仕事を主に、多くの実績を作ってきました。日本からのオフショア制作開発のお仕事も条件によってはお請けすることが可能ですのでお気軽にご相談ください。以下に、幾つかの公開可能なWEB制作、モバイルアプリ・PWA開発、WEBシステム開発、デジタルマーケティング・コンサルティングの実績を掲載します。
-                    </p>
+                    <div>
+                        <h1 class="title"><b>Our</b><span class="yellow"> Portfolio</span></h1>
+                        <p class="title__description">LOGIQUE has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our Web creation, mobile app / PWA development, IT system development, and digital marketing consulting portfolio.</p>
+                    </div>
 
                     <div class="client-list__wrapper">
-                        <h3 class="portfolio-sec__title">クライアント様の一例</h3>
+                        <h3 class="portfolio-sec__title">Our Clients</h3>
                         <div class="client-list">
                             <img class="client-list__img" src="/img/portfolio/client-list/aia.png" alt="aia">
                             <img class="client-list__img" src="/img/portfolio/client-list/assa.png" alt="assa">
@@ -204,13 +201,13 @@
                         </div>
                     </div>
 
-                    <div class="page-nav text-center">
-                        <a class="page-nav__btn" href="#webDev">Webサイト（ホームページ）制作実績</a>
-                        <a class="page-nav__btn" href="#sysDev">システム開発実績</a>
+                    <div class="page-nav">
+                        <a class="page-nav__btn" href="#webDev">Website <br>Development</a>
+                        <a class="page-nav__btn" href="#sysDev">System <br>Development</a>
                         <!-- <a class="page-nav__btn" href="#caseStudy">Case <br>Study</a> -->
-                        <a class="page-nav__btn" href="#PWA">モバイルアプリ・PWA開発</a>
+                        <a class="page-nav__btn" href="#PWA">Mobile App / <br>PWA</a>
                         <!-- <a class="page-nav__btn" href="#">Digital <br>Marketing</a> -->
-                        <a class="page-nav__btn" href="#others">その他の実績</a>
+                        <a class="page-nav__btn" href="#others">Digital Marketing & <br> Other Projects</a>
                     </div>
                 </div>
             </section>
@@ -218,21 +215,22 @@
             <section id="webDev">
                 <div class="container__">
                     <div class="portfolio-sec__head">
-                        <h3 class="portfolio-sec__title">Webサイト（ホームページ）制作実績</h3>
+                        <h3 class="portfolio-sec__title">Website Development Portfolio</h3>
                         <a href="#portfolioNavigation" class="portfolio-sec__back">
                             <small>[Back to Top]</small>
                         </a>
                     </div>
                     <div class="row">
-                        
+
                         <div class="col-md-4 col-xs-6">
                             <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/aiapremieracademy.png" alt="KKI New Pages" class="img-responsive center-block">
+                                <img src="/img/portfolio/aiapremieracademy.png" alt="AIA Premier Academy"
+                                    class="img-responsive center-block">
                                 <p class="text-center">AIA Premier Academy</p>
                             </a>
                             <div class="addition-desc text-left">
-                                Webページ制作 (デザイン | コーディング | ホスティング)
-                                <div class="grey-clr">モバイル最適化, キャンペーンページ, 保険</div>
+                                Website Creation (Design | Coding)
+                                <div class="grey-clr">Static Web, Animation, Visual, Income Calculator, Graph, Insurance Agent Training</div>
                             </div>
                         </div>
 
@@ -242,19 +240,20 @@
                                 <p class="text-center">Panin Life Dai-ichi</p>
                             </a>
                             <div class="addition-desc text-left">
-                                保険EC開発制作 (デザイン | プログラミング | CMS | 決済連携）
-                                <div class="grey-clr">CMS, 保険Eコマース, 金融, 保険</div>
+                                E-Commerce Dev (Design | Coding | CMS | Payment)
+                                <div class="grey-clr">CMS, secure E-Commerce, Financial, Insurance</div>
                             </div>
                         </div>
 
                         <div class="col-md-4 col-xs-6">
                             <a href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/jtrust-bank-new.png" alt="JTrust Bank (Re-design)" class="img-responsive center-block">
+                                <img src="/img/portfolio/jtrust-bank-new.png" alt="JTrust Bank (Re-design)"
+                                    class="img-responsive center-block">
                                 <p class="text-center">JTrust Bank (Re-design)</p>
                             </a>
                             <div class="addition-desc text-left">
-                                WEBリニューアル制作 (デザイン| コーディング |CMSフィッティング)
-                                <div class="grey-clr">モバイル最適化, 多言語, CMS, 銀行</div>
+                                WEB Re-Design (Design | Coding | Integrasi CMS)
+                                <div class="grey-clr">Mobile Optimized, Multi-bahasa, CMS, Bank</div>
                             </div>
                         </div>
 
@@ -265,19 +264,21 @@
                                 <p class="text-center">Mobirent</p>
                             </a>
                             <div class="addition-desc text-left">
-                                BtoBサービス, Car Rental Web制作（デザイン制作 | コーディング | ディプロイ）
-                                <div class="grey-clr">スマホ最適, BtoBサービス, レンタカー</div>
+                                Web Design (Design | Coding | Deployment)
+                                <div class="grey-clr">Mobile Optimized</div>
                             </div>
                         </div>
 
                         <div class="col-md-4 col-xs-6">
                             <a href="https://jba.co.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/jba-indonesia.png" alt="JBA INDONESIA" class="img-responsive center-block">
+                                <img src="/img/portfolio/jba-indonesia.png" alt="JBA INDONESIA"
+                                    class="img-responsive center-block">
                                 <p class="text-center">JBA INDONESIA</p>
                             </a>
                             <div class="addition-desc text-left">
-                                WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)
-                                <div class="grey-clr">オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</div>
+                                WEB Dev & Operation (Design | CMS | System | Operation | AWS)
+                                <div class="grey-clr">Online Auction, Enterprise-WEB, DB-WEB, secure WEB,
+                                    Automotive, Financial</div>
                             </div>
                         </div>
 
@@ -287,8 +288,8 @@
                                 <p class="text-center">JNTO Indonesia</p>
                             </a>
                             <div class="addition-desc text-left">
-                                WEBリニューアル＆運用 (デザイン| コーディング| 運用)
-                                <div class="grey-clr">モバイル最適化,セキュアなWEB,公共,旅行</div>
+                                WEB Remake & Operation (Design | Coding | Operation)
+                                <div class="grey-clr">Mobile Optimized, secure WEB, Public, Travel</div>
                             </div>
                         </div>
 
@@ -298,58 +299,65 @@
                     <div class="panel-collapse collapse" id="hideWebDev">
                         <div class="row">
 
-                        <div class="col-md-4 col-xs-6">
-                            <a href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
-                                <img src="/img/portfolio/jff.png" alt="Film Festival" class="img-responsive center-block">
-                                <p class="text-center">Film Festival</p>
-                            </a>
-                            <div class="addition-desc text-left">
-                                ランディングページ制作 (デザイン | マークアップ)
-                                <div class="grey-clr">モバイル最適化, 多言語, イベント</div>
+                            <div class="col-md-4 col-xs-6">
+                                <a href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/jff.png" alt="Film Festival" class="img-responsive center-block">
+                                    <p class="text-center">Film Festival</p>
+                                </a>
+                                <div class="addition-desc text-left">
+                                    Event / Schedule Web Creation (Design | Coding)
+                                    <div class="grey-clr">Mobile Optimized, Multi-Language, Event</div>
+                                </div>
                             </div>
-                        </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.otomart.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/otomart.png" alt="OTOmart (used-car market place)" class="img-responsive center-block">
+                                    <img src="/img/portfolio/otomart.png" alt="OTOmart (used-car market place)"
+                                        class="img-responsive center-block">
                                     <p class="text-center">OTOmart (used-car market place)</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用 | AWS運用)
-                                    <div class="grey-clr">CMS,マーケットプレイス,会員WEB,Mobile, WEBサービス,車
+                                    WEB Dev & Operation (Design | CMS | System | Content Creation | Operation |
+                                    AWS)
+                                    <div class="grey-clr">CMS, Market Place, DB-WEB, Mobile, WEB service,
+                                        Automobil
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://jaif.asean.org/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jaif.png" alt="Japan Asean Integration Fund" class="img-responsive center-block">
+                                    <img src="/img/portfolio/jaif.png" alt="Japan Asean Integration Fund"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Japan Asean Integration Fund</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEB制作＆運用 (デザイン | コーディング | 運用)
-                                    <div class="grey-clr">モバイル,セキュアなWEB,公共</div>
+                                    WEB Dev & Operation (Design | Coding | Operation)
+                                    <div class="grey-clr">Mobile, Secure WEB, Public</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <img src="/img/portfolio/shinoken.png" alt="Shinoken Asset Management" class="img-responsive center-block">
+                                <img src="/img/portfolio/shinoken.png" alt="Shinoken Asset Management"
+                                    class="img-responsive center-block">
                                 <p class="text-center">Shinoken Asset Management</p>
                                 <div class="addition-desc text-left">
-                                    WEB制作 (デザイン | コーディング | AWS運用)
-                                    <div class="grey-clr">多言語,モバイル対応,コーポレートWEB,AWS,不動産投資
+                                    WEB Development (Design | Coding | AWS)
+                                    <div class="grey-clr">Multi-language, Mobile, Corporate WEB, AWS, Real
+                                        Estate
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://sentraya.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/sentraya.png" alt="Menara Sentraya" class="img-responsive center-block">
+                                    <img src="/img/portfolio/sentraya.png" alt="Menara Sentraya"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Menara Sentraya</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEBサイト制作 (デザイン| コーディング |CMS)
-                                    <div class="grey-clr">モバイル最適化, CMS構築, 不動産</div>
+                                    WEB Development (Design | Coding | CMS)
+                                    <div class="grey-clr">Mobile Optimized, CMS, PHP, RealEstate, Property</div>
                                 </div>
                             </div>
 
@@ -360,20 +368,22 @@
                                     <p class="text-center">BisnisSaya.com (MLM E-Commerce)</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    ECサイト構築 (デザイン| EC構築 | CMS構築 | 運用)
-                                    <div class="grey-clr">EC,CMS,決済連携,マルチレベルマーケティング
+                                    E-Commerce Development (Design | E-Commerce | CMS | Maintenance)
+                                    <div class="grey-clr">E-Commerce, CMS, Payment Gateway,
+                                        Multi-Level-Marketing
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://frangipanibalispa.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/frangipani-amp.png" alt="Frangipani" class="img-responsive center-block">
+                                    <img src="/img/portfolio/frangipani-amp.png" alt="Frangipani"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Frangipani</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    AMP制作 (デザイン | AMPプログラミング）
-                                    <div class="grey-clr">AMP, モバイル,高速ページ,バリ島SPA</div>
+                                    AMP Development (Design | AMP Coding)
+                                    <div class="grey-clr">AMP, Mobile Optimization, Beauty, SPA</div>
                                 </div>
                             </div>
 
@@ -383,8 +393,8 @@
                                     <p class="text-center">WARASA</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEBリニューアル制作 (デザイン| コーディング | AWS)
-                                    <div class="grey-clr">モバイル最適化, 多言語, 食品</div>
+                                    WEB Development (Design | Coding | AWS)
+                                    <div class="grey-clr">Mobile Optimized, Multi-bahasa, Food</div>
                                 </div>
                             </div>
 
@@ -394,8 +404,8 @@
                                     <p class="text-center">Hoyu Indonesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEBサイト制作 (デザイン | コーディング |運用)
-                                    <div class="grey-clr">多言語,モバイル最適化,製造販売,美容</div>
+                                    WEB Dev (Design | Coding | Operation)
+                                    <div class="grey-clr">Multi-language, Mobile, Manufacture, Beauty</div>
                                 </div>
                             </div>
 
@@ -403,8 +413,8 @@
                                 <img src="/img/portfolio/arf.png" alt="ASEAN (ARF)" class="img-responsive center-block">
                                 <p class="text-center">ASEAN (ARF)</p>
                                 <div class="addition-desc text-left">
-                                    WEBサイト制作 (デザイン| コーディング |CMS)
-                                    <div class="grey-clr">モバイル最適化, Wordpress, 公共</div>
+                                    WEB Development (Design | Coding | CMS)
+                                    <div class="grey-clr">Mobile Optimized, Wordpress, Public</div>
                                 </div>
                             </div>
 
@@ -412,8 +422,8 @@
                                 <img src="/img/portfolio/caroline.png" alt="Caroline" class="img-responsive center-block">
                                 <p class="text-center">Caroline</p>
                                 <div class="addition-desc text-left">
-                                    車マーケットプレイス開発運用 (デザイン | プログラミング | システム開発）
-                                    <div class="grey-clr">車売買マッチングWEB, 車Eコマース, WEBサービス
+                                    Car Matching Web Development (Design | Coding | System)
+                                    <div class="grey-clr">Web System, Market Place, Automotive, Web service
                                     </div>
                                 </div>
                             </div>
@@ -425,40 +435,44 @@
                                     <p class="text-center">JualBeliWEB.id (Website market place)</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用)
-                                    <div class="grey-clr">CMS,マーケットプレイス,DB,Mobile,セキュアなWEB,WEBサービス
+                                    WEB Dev & Operation (Design | CMS | System | Content Creation | Operation)
+                                    <div class="grey-clr">CMS, Market Place, DB, Mobile, secure WEB, WEB service
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <img src="/img/portfolio/ajapan.png" alt="aJapan Campaign Page" class="img-responsive center-block">
+                                <img src="/img/portfolio/ajapan.png" alt="aJapan Campaign Page"
+                                    class="img-responsive center-block">
                                 <p class="text-center">aJapan Campaign Page</p>
                                 <div class="addition-desc text-left">
-                                    キャンペーンサイト制作＆運用 (デザイン | コーディング | Operation)
-                                    <div class="grey-clr">多言語,モバイル,キャンペーン</div>
+                                    Campaign Microsite Dev & Operation (Design | Coding | Operation)
+                                    <div class="grey-clr">Multi-language, Mobile, Campaign</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.jtrustbank.co.id/id/moe" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/moe.png" alt="JTrust Bank Indonesia" class="img-responsive center-block">
+                                    <img src="/img/portfolio/moe.png" alt="JTrust Bank Indonesia"
+                                        class="img-responsive center-block">
                                     <p class="text-center">JTrust Bank Indonesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    キャンペーンページ制作 (デザイン | コーディング | CMS開発)
-                                    <div class="grey-clr">多言語,モバイル対応, キャンペーンページ,CMS,金融,銀行</div>
+                                    Campaign Page Creation (Design | Coding | CMS)
+                                    <div class="grey-clr">Multi-language, Mobile, Campaign page, CMS, Financial,
+                                        Bank</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://frangipanibalispa.com/contact.php" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/frangipani.png" alt="Frangipani Esthetics Bali" class="img-responsive center-block">
+                                    <img src="/img/portfolio/frangipani.png" alt="Frangipani Esthetics Bali"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Frangipani Esthetics Bali</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEBサイト制作 (デザイン | コーディング | 運用)
-                                    <div class="grey-clr">多言語,モバイル最適化,LPO,A/Bテスト,美容・エステ</div>
+                                    WEB Dev & Operation (Design | Coding | Operation)
+                                    <div class="grey-clr">Multi-language, Mobile, LPO, A/B test, Beauty</div>
                                 </div>
                             </div>
 
@@ -466,8 +480,8 @@
                                 <img src="/img/portfolio/otosiap.png" alt="OTO Siap!" class="img-responsive center-block">
                                 <p class="text-center">OTO Siap!</p>
                                 <div class="addition-desc text-left">
-                                    ランディングページ制作 (デザイン | コーディング）
-                                    <div class="grey-clr">キャンペーンページ, モバイル最適化,与信モバイルアプリ,クレジット
+                                    Landing Page Creation (Design | Coding)
+                                    <div class="grey-clr">Landing Page, Mobile Optimization, Mobile App, Lending
                                     </div>
                                 </div>
                             </div>
@@ -475,26 +489,29 @@
                             <div class="col-md-4 col-xs-6">
                                 <img src="/img/portfolio/oto-isuzu.png" class="img-responsive center-block">
                                 <div class="addition-desc text-left">
-                                    ランディングページ制作 (デザイン | コーディング）
-                                    <div class="grey-clr">ランディングページ, モバイル最適化,車メーカー
+                                    Landing Page Creation (Design | Coding)
+                                    <div class="grey-clr">Detail Page, Mobile Optimization, Car, Automotive
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <img src="/img/portfolio/oto-conc.png" alt="OTOmart Concierge LP" class="img-responsive center-block">
+                                <img src="/img/portfolio/oto-conc.png" alt="OTOmart Concierge LP"
+                                    class="img-responsive center-block">
                                 <p class="text-center">OTOmart Concierge LP</p>
                                 <div class="addition-desc text-left">
-                                    ランディングページ制作 (デザイン | コーディング）
-                                    <div class="grey-clr">キャンペーンページ, モバイル最適化,コンサルティングサービス,四輪</div>
+                                    Landing Page Creation (Design | Coding)
+                                    <div class="grey-clr">Landing Page, Mobile Optimization, Consulting Service,
+                                        Automotive</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <img src="/img/portfolio/oto-garansi.png" class="img-responsive center-block">
                                 <div class="addition-desc text-left">
-                                    保証サービスランディングページ (デザイン | コーディング）
-                                    <div class="grey-clr">ランディングページ制作, モバイル, 車両保証
+                                    Landing Page Creation (Design | Coding)
+                                    <div class="grey-clr">LP Creation, Conversion Oriented Web, Car Gurantee
+                                        Service
                                     </div>
                                 </div>
                             </div>
@@ -503,8 +520,8 @@
                                 <img src="/img/portfolio/eccj.jpg" alt="ECCJ" class="img-responsive center-block">
                                 <p class="text-center">ECCJ</p>
                                 <div class="addition-desc text-left">
-                                    LP制作、申込みフォーム制作 (デザイン | プログラミング)
-                                    <div class="grey-clr">モバイル最適化, 申込フォーム, イベント</div>
+                                    LP and application form Creation (Design | programming)
+                                    <div class="grey-clr">Mobile Optimized, Application From, Event</div>
                                 </div>
                             </div>
 
@@ -512,98 +529,106 @@
                                 <img src="/img/portfolio/sfi.png" alt="Sumitomo Forestry LP" class="img-responsive center-block">
                                 <p class="text-center">Sumitomo Forestry LP</p>
                                 <div class="addition-desc text-left">
-                                    ランディングページ制作 (デザイン | コーディング)
-                                    <div class="grey-clr">モバイル,キャンペーンページ</div>
+                                    Landing Page Creation (Design | Coding)
+                                    <div class="grey-clr">Mobile, Campaign</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://hajime-indonesia.co.id/about/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/hajime.png" alt="Hajime Indonesia" class="img-responsive center-block">
+                                    <img src="/img/portfolio/hajime.png" alt="Hajime Indonesia"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Hajime Indonesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEBサイト制作 (デザイン | コーディング | 運用 | WEBサーバー運用)
-                                    <div class="grey-clr">多言語,モバイル,AWS,不動産</div>
+                                    WEB Dev & Operation (Design | Coding | Operation | WEB Server)
+                                    <div class="grey-clr">Multi-language, Mobile, AWS, Real Estate</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://maisonderes.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/mdr.png" alt="Maison de Res (Condominium Portal)" class="img-responsive center-block">
+                                    <img src="/img/portfolio/mdr.png" alt="Maison de Res (Condominium Portal)"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Maison de Res (Condominium Portal)</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEB構築＆運用 (デザイン | CMS |コンテンツ制作 | 運用)
-                                    <div class="grey-clr">CMS,ポータル, Mobile,不動産,WEBサービス</div>
+                                    WEB Dev & Operation (Design | CMS | Content Creation | Operation)
+                                    <div class="grey-clr">CMS, Portal, Mobile, Real Estate, WEB service</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://www.zuttoride.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/zutto.png" alt="ZuttoRide Indonesia" class="img-responsive center-block">
+                                    <img src="/img/portfolio/zutto.png" alt="ZuttoRide Indonesia"
+                                        class="img-responsive center-block">
                                     <p class="text-center">ZuttoRide Indonesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEBサイト制作 (デザイン | コーディング | 保守 | WEBサーバー運用)
-                                    <div class="grey-clr">多言語,モバイル,バイクサービス</div>
+                                    WEB Dev & Operation (Design | Coding | Maintenance| WEB Server)
+                                    <div class="grey-clr">Multi-language, Mobile, motor-bike service</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://jjs.or.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jjs.png" alt="Jakarta Japanese School" class="img-responsive center-block">
+                                    <img src="/img/portfolio/jjs.png" alt="Jakarta Japanese School"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Jakarta Japanese School</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEB構築＆運用 (デザイン | Coding | Wordpress | 運用)
-                                    <div class="grey-clr">日本語WEB,ブログ,モバイル最適化,願書受付,学校
+                                    WEB Dev & Operation (Design | Coding | Wordpress | Operation)
+                                    <div class="grey-clr">Japanese WEB, Blog, Mobile, Application Form, School
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://cikarang-japanese-school.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/cjs.png" alt="Cikarang Japanese School" class="img-responsive center-block">
+                                    <img src="/img/portfolio/cjs.png" alt="Cikarang Japanese School"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Cikarang Japanese School</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEB構築＆運用 (デザイン | Coding | Wordpress | AWS運用)
-                                    <div class="grey-clr">日本語WEB,ブログ,モバイル最適化,願書受付,学校
+                                    WEB Dev & Operation (Design | Coding | Wordpress | AWS Operation)
+                                    <div class="grey-clr">Japanese WEB, Blog, Mobile, Application Form, School
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.60jpid.com/symposium.php" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/symposium.png" alt="Symposium Application LP" class="img-responsive center-block">
+                                    <img src="/img/portfolio/symposium.png" alt="Symposium Application LP"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Symposium Application LP</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    参加申込フォーム (デザイン | PHPフォーム)
-                                    <div class="grey-clr">多言語,モバイル, 申込フォーム開発,公共</div>
+                                    Application Form Creation (Design | PHP Form)
+                                    <div class="grey-clr">Multi-language,Mobile,Application Form,Public</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.ikeuchi.id/lp/eng/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/ikeuchi.png" alt="Ikeuchi Indonesia" class="img-responsive center-block">
+                                    <img src="/img/portfolio/ikeuchi.png" alt="Ikeuchi Indonesia"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Ikeuchi Indonesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEBサイト制作 (デザイン | コーディング)
-                                    <div class="grey-clr">多言語,モバイル,製造業</div>
+                                    WEB Dev (Design | Coding)
+                                    <div class="grey-clr">Multi-language, Mobile, Manufacture</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://www.moresco.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/moresco.png" alt="MORESCO INDONESIA" class="img-responsive center-block">
+                                    <img src="/img/portfolio/moresco.png" alt="MORESCO INDONESIA"
+                                        class="img-responsive center-block">
                                     <p class="text-center">MORESCO INDONESIA</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEBサイト制作 (デザイン | コーディング | 保守 | WEBサーバー運用)
-                                    <div class="grey-clr">多言語,モバイル,製造業</div>
+                                    WEB Dev (Design | Coding | Maintenance | WEB Server)
+                                    <div class="grey-clr">Multi-language, Mobile, Manufacture</div>
                                 </div>
                             </div>
 
@@ -613,19 +638,21 @@
                                     <p class="text-center">TRENDPOT</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEB制作＆運用 (デザイン | コーディング | 運用)
-                                    <div class="grey-clr">モバイル,セキュアなWEB,公共</div>
+                                    WEB Dev (Design | Coding | Operation)
+                                    <div class="grey-clr">Mobile, Secure WEB, Public</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/dmi.png" alt="Digital Marketing Indonesia" class="img-responsive center-block">
+                                <a href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank"
+                                    rel="noreferrer">
+                                    <img src="/img/portfolio/dmi.png" alt="Digital Marketing Indonesia"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Digital Marketing Indonesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEB制作 (デザイン | コーディング)
-                                    <div class="grey-clr">多言語,モバイル最適化,ITサービス</div>
+                                    WEB Dev & Operation (Design | Coding)
+                                    <div class="grey-clr">Multi-language, Mobile, IT Service</div>
                                 </div>
                             </div>
 
@@ -633,19 +660,20 @@
                                 <img src="/img/portfolio/salon-de-res.png" alt="Salon De Res" class="img-responsive center-block">
                                 <p class="text-center">Salon De Res</p>
                                 <div class="addition-desc text-left">
-                                    WEB制作 (デザイン | コーディング)
-                                    <div class="grey-clr">モバイル最適化,多言語,美容</div>
+                                    WEB Dev (Design | Coding)
+                                    <div class="grey-clr">Mobile, Multi-Language, Beauty</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://www.kumomiland.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/kumomiland.png" alt="KUMOMI LAND INDONESIA" class="img-responsive center-block">
+                                    <img src="/img/portfolio/kumomiland.png" alt="KUMOMI LAND INDONESIA"
+                                        class="img-responsive center-block">
                                     <p class="text-center">KUMOMI LAND INDONESIA</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEB制作 (デザイン | コーディング | 保守)
-                                    <div class="grey-clr">モバイル,多言語,Wordpress,ブログ,不動産
+                                    WEB Dev (Design | Coding | Maintenance)
+                                    <div class="grey-clr">Mobile, Multi-Language, Wordpress, Blog, RealEstate
                                     </div>
                                 </div>
                             </div>
@@ -656,31 +684,34 @@
                                     <p class="text-center">4Dentist.jp (Dentist Portal)</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEB構築＆運用 (デザイン | CMS | 運用)
-                                    <div class="grey-clr">Wordpress,モバイル最適化,会員専用Web,医療</div>
+                                    WEB Dev & Operation (Design | CMS | Operation)
+                                    <div class="grey-clr">Wordpress, Mobile, Member-only Web, Medical</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://omc.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/omc.png" alt="Onitsuka Management Consulting" class="img-responsive center-block">
+                                    <img src="/img/portfolio/omc.png" alt="Onitsuka Management Consulting"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Onitsuka Management Consulting</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEBリデザイン(デザイン | コーディング)
-                                    <div class="grey-clr">多言語,モバイル,AWS,コンサルティング,会計税務
+                                    WEB Re-Design (Design | Coding)
+                                    <div class="grey-clr">Multi-language, Mobile, Consulting, Accounting &amp;
+                                        Tax
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://j-golfacademy.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/golfjkt.png" alt="Jakarta Golf Academy" class="img-responsive center-block">
+                                    <img src="/img/portfolio/golfjkt.png" alt="Jakarta Golf Academy"
+                                        class="img-responsive center-block">
                                     Jakarta Golf Academy
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEBサイト制作 (デザイン| コーディング |運用)
-                                    <div class="grey-clr">モバイル最適化,オンラインブッキング,スポーツ</div>
+                                    WEB Dev & Operation (Design | Coding | Operation)
+                                    <div class="grey-clr">Mobile, Online Order, Sport</div>
                                 </div>
                             </div>
 
@@ -691,19 +722,19 @@
                                     <p class="text-center">Music Festival Landing Page</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    ランディングページ制作 (デザイン | マークアップ | 広告)
-                                    <div class="grey-clr">モバイル最適化, 多言語, イベント</div>
+                                    Landing Page Creation (Design | Coding | Digital AD)
+                                    <div class="grey-clr">Mobile Optimized, Multi-bahasa, Event</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://promokreditbprks.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/update/bprks.jpg" alt="BPR KS" class="img-responsive center-block">
+                                    <img src="/img/portfolio/bprks.jpg" alt="BPR KS" class="img-responsive center-block">
                                     <p class="text-center">BPR KS</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEB再制作 & 改善ワーク(デザイン | コーディング | コンテンツ制作 | 運用)
-                                    <div class="grey-clr">CMS, モバイル, セキュアなWEB, 金融, 自動車ローン</div>
+                                    WEB Remake & Growth-hack (Design | Coding | Content Creation | Operation)
+                                    <div class="grey-clr">CMS, Mobile, secure WEB, Finance, Mobile Loan</div>
                                 </div>
                             </div>
 
@@ -713,8 +744,8 @@
                                     <p class="text-center">VIP Plaza</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    スマホページ再制作 (PWAとして再開発)
-                                    <div class="grey-clr">モバイル, Eコマース</div>
+                                    WEB Remake & PWA (Coding)
+                                    <div class="grey-clr">PWA, Mobile, E-Commerce</div>
                                 </div>
                             </div>
 
@@ -724,8 +755,8 @@
                                     <p class="text-center">Opus Park</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEBリニューアル制作 (PDCA | SEO | AWS)
-                                    <div class="grey-clr">モバイル最適化, O2O, 不動産</div>
+                                    WEB Operation (PDCA | SEO | AWS)
+                                    <div class="grey-clr">Mobile Optimized, O2O, Properti</div>
                                 </div>
                             </div>
 
@@ -735,8 +766,8 @@
                                     <p class="text-center">NLEC</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    EラーニングWEB開発 (デザイン | CMS | PWA開発）
-                                    <div class="grey-clr">システム開発, PWA開発, モバイル最適化,Eラーニング,教育</div>
+                                    E-Learning Web Development (Design | CMS | PWA)
+                                    <div class="grey-clr">PWA Development, Mobile Optimization, E-Learning</div>
                                 </div>
                             </div>
 
@@ -744,31 +775,34 @@
                                 <img src="/img/portfolio/jfe.png" alt="JFE" class="img-responsive center-block">
                                 <p class="text-center">JFE</p>
                                 <div class="addition-desc text-left">
-                                    コーポレートWEB制作 (デザイン | コーディング）
-                                    <div class="grey-clr">レスポンシブ制作, 多言語WEB, コーポレート動画制作, 鉄鋼商社
+                                    Corporate Web Creation (Design | Coding)
+                                    <div class="grey-clr">Responsive WEB Dev, Multi-Language, Manufacturing
+                                        Trader
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.jjs.or.id/50thanniversary" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jjs50.png" alt="JJS 50 years special LP" class="img-responsive center-block">
-                                    <p class="text-center">JJ 50 years speciaSl LP</p>
+                                    <img src="/img/portfolio/jjs50.png" alt="JJS 50 years special LP"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">JJS 50 years special LP</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    LP制作（Bootstrap | コンテンツ企画）
-                                    <div class="grey-clr"> LP, スマホ最適化,教育, スクール</div>
+                                    LP Creation (Bootstrap | Content Creation)
+                                    <div class="grey-clr"> LP, Mobile Optimized, Education, School</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.jba.co.id/id/hasil-harga-lelang" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jba-hasil-lelang.png" alt="JBA Hasil Lelang" class="img-responsive center-block">
+                                    <img src="/img/portfolio/jba-hasil-lelang.png" alt="JBA Hasil Lelang"
+                                        class="img-responsive center-block">
                                     <p class="text-center">JBA Hasil Lelang</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    AMP制作（AMP | DB連動ダイナミックページ）
-                                    <div class="grey-clr"> AMP, モバイルSEO,オークション
+                                    AMP Creation (AMP | Dynamic Pages)
+                                    <div class="grey-clr"> AMP, Mobile Optimized, Car Auction, Bike Auction
                                     </div>
                                 </div>
                             </div>
@@ -779,9 +813,8 @@
                                     <p class="text-center">WDI</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    クリエイターズマーケットプレイス開発（デザイン制作 | WEBシステム開発 |
-                                    セキュリティアセスメント）
-                                    <div class="grey-clr">　WEBシステム, 検索システム,スマホ最適, マーケットプレイス
+                                    Creators Market Place Development (Design | CMS | Security Assessment)
+                                    <div class="grey-clr">Web system, Laravel, Mobile Optimized, Market Place
                                     </div>
                                 </div>
                             </div>
@@ -792,40 +825,44 @@
                                     <p class="text-center">Lifenesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEBホスティング (コーディング | CMSフィッティング)
-                                    <div class="grey-clr">モバイル最適化, CMS, ニュースポータル</div>
+                                    WEB Hosting (Coding | Integrasi CMS)
+                                    <div class="grey-clr">Mobile Optimized, CMS, News Portal</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/jnto-campaign.png" alt="JNTO Campaign Page" class="img-responsive center-block">
+                                    <img src="/img/portfolio/jnto-campaign.png" alt="JNTO Campaign Page"
+                                        class="img-responsive center-block">
                                     <p class="text-center">JNTO Campaign Page</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    HTML/CSSコーディング (コーディング)
-                                    <div class="grey-clr">モバイル最適化, キャンペーンページ</div>
+                                    HTML/CSS Coding (Coding)
+                                    <div class="grey-clr">Mobile Optimized, Campaign page</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <img src="/img/portfolio/jba-redesign.png" alt="JBA Re-design" class="img-responsive center-block">
+                                <img src="/img/portfolio/jba-redesign.png" alt="JBA Re-design"
+                                    class="img-responsive center-block">
                                 <p class="text-center">JBA Re-design</p>
                                 <div class="addition-desc text-left">
-                                    WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)
-                                    <div class="grey-clr">オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</div>
+                                    WEB Dev & Operation (Design | CMS | System | Operation | AWS)
+                                    <div class="grey-clr">Online Auction, Enterprise-WEB, DB-WEB, secure WEB,
+                                        Automotive, Financial</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.60jpid.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/60jpid.png" alt="60th Anniversary Japan-Indonesia" class="img-responsive center-block">
+                                    <img src="/img/portfolio/60jpid.png" alt="60th Anniversary Japan-Indonesia"
+                                        class="img-responsive center-block">
                                     <p class="text-center">60<sup>th</sup> Anniversary Japan-Indonesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEB制作＆運用 (デザイン | コーディング | コンテンツ制作 | 運用)
-                                    <div class="grey-clr">CMS, multi-bahasa,
-                                        Mobile, Keamanan WEB, Publik
+                                    WEB Operation and WEB Development (Design | Coding | Content Creation |
+                                    Operation)
+                                    <div class="grey-clr">CMS, Multi-Language, Mobile, Web Security, Public
                                     </div>
                                 </div>
                             </div>
@@ -834,19 +871,20 @@
                                 <img src="/img/portfolio/wantjp.png" alt="Want.jp" class="img-responsive center-block">
                                 <p class="text-center">Want.jp</p>
                                 <div class="addition-desc text-left">
-                                    Eコマース (PWA | ReactJS | NodeJS)
-                                    <div class="grey-clr">モバイル最適化EC, 越境EC</div>
+                                    E-Commerce Development (PWA | ReactJS | NodeJS)
+                                    <div class="grey-clr">Mobile Optimized PWA, Cross Border E-Commerce</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://banzaihobby.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/banzai-hobby.png" alt="Banzai Hobby" class="img-responsive center-block">
+                                    <img src="/img/portfolio/banzai-hobby.png" alt="Banzai Hobby"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Banzai Hobby</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WEBサーバー＆データ移行 (移行 | ホスティング | AWS)
-                                    <div class="grey-clr">Eコマース, Zenカート</div>
+                                    Server Migration to AWS (Migration | Hosting | AWS)
+                                    <div class="grey-clr">E-Commerce, Zen Cart</div>
                                 </div>
                             </div>
 
@@ -856,8 +894,8 @@
                                     <p class="text-center">JJC Hojin</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Web再制作（デザイン制作 | CMS | コーディング）
-                                    <div class="grey-clr">WordPress, スマホ最適, 会員専用Web</div>
+                                    Web Re-Design (Design | CMS | Coding)
+                                    <div class="grey-clr">WordPress, Mobile Optimized, Member System</div>
                                 </div>
                             </div>
 
@@ -867,8 +905,9 @@
                                     <p class="text-center">JJC Kojin</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Web再制作（デザイン制作 | CMS | コーディング）
-                                    <div class="grey-clr">WordPress, スマホ最適化, クラブ会員Web, 会議室予約</div>
+                                    Web Re-Design (Design | CMS | Coding)
+                                    <div class="grey-clr">WordPress, Mobile Optimized, Member Management System,
+                                        Booking System </div>
                                 </div>
                             </div>
 
@@ -878,19 +917,20 @@
                                     <p class="text-center">JBA LP</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Webページ制作 (デザイン | コーディング | CMS)
-                                    <div class="grey-clr"> モバイル最適化, CMS, キャンペーンページ </div>
+                                    Web Page Creation (Design | Coding | CMS Integration)
+                                    <div class="grey-clr"> Mobile Optimized, CMS, Campaign page </div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/proline.png" alt="PROLINE FINANCE" class="img-responsive center-block">
+                                    <img src="/img/portfolio/proline.png" alt="PROLINE FINANCE"
+                                        class="img-responsive center-block">
                                     <p class="text-center">PROLINE FINANCE</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    CMS WEBサイト制作 (デザイン | コーディング | CMS)
-                                    <div class="grey-clr">CMS,モバイル対応,金融</div>
+                                    WEB Development (Design | Coding | CMS)
+                                    <div class="grey-clr">CMS, Mobile, OJK, Finance</div>
                                 </div>
                             </div>
 
@@ -900,8 +940,8 @@
                                     <p class="text-center">AIA</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Webページ制作 (コーディング | ホスティング)
-                                    <div class="grey-clr">モバイル最適化, キャンペーンページ, 保険</div>
+                                    Campaign Page Creation (Coding | Hosting)
+                                    <div class="grey-clr">Mobile Optimized, Campaign page, Insurance</div>
                                 </div>
                             </div>
 
@@ -914,19 +954,21 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://unitedconcepts.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/royal-amanda.png" alt="Royal Armada" class="img-responsive center-block">
+                                    <img src="/img/portfolio/royal-amanda.png" alt="Royal Armada"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Royal Armada</p>
                                 </a>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://premium-garansi.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/premiumgaransi.jpg" alt="Premium Garansi" class="img-responsive center-block">
+                                    <img src="/img/portfolio/premiumgaransi.jpg" alt="Premium Garansi"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Premium-Garansi.co.id</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Webページ制作 (コーディング | CMS)
-                                    <div class="grey-clr">モバイル最適化, CMS, コーポレートWeb</div>
+                                    Web Page Creation (Coding | Integrasi CMS)
+                                    <div class="grey-clr">Mobile Optimized, CMS, Corporate web</div>
                                 </div>
                             </div>
 
@@ -934,19 +976,20 @@
                                 <img src="/img/portfolio/ligohome.jpg" alt="Premium Garansi" class="img-responsive center-block">
                                 <p class="text-center">LIGO-Home</p>
                                 <div class="addition-desc text-left">
-                                    Webページ制作 (デザイン | コーディング | CMS)
-                                    <div class="grey-clr">モバイル最適化, CMS, コーポレートWeb</div>
+                                    Web Page Creation (Design | Coding | Integrasi CMS)
+                                    <div class="grey-clr">Mobile Optimized, CMS, Corporate web</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.otomart.id/oto-garansi.html" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/otogaransi.jpg" alt="OTO-Garansi Campaign Page" class="img-responsive center-block">
+                                    <img src="/img/portfolio/otogaransi.jpg" alt="OTO-Garansi Campaign Page"
+                                        class="img-responsive center-block">
                                     <p class="text-center">OTO-Garansi Campaign Page</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Webページ制作 (デザイン | コーディング)
-                                    <div class="grey-clr">モバイル最適化, CMS, キャンペーンページ</div>
+                                    Campaign Page Creation (Design | Coding)
+                                    <div class="grey-clr">Mobile Optimized, CMS, Campaign Page</div>
                                 </div>
                             </div>
 
@@ -957,30 +1000,35 @@
                                     </p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Web 構築（デザイン制作 | CMS | コーディング）
-                                    <div class="grey-clr">独自CMS, スマホ最適, カンパニーWeb, 不動産情報Web</div>
+                                    Web Development (Design | CMS | Coding)
+                                    <div class="grey-clr">Customized CMS, Mobile Optimized, Corporate Web, Real
+                                        Estate Info Web</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://www.bambootajur.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/bambootajur.png" alt="Green Bamboo Terace" class="img-responsive center-block">
+                                    <img src="/img/portfolio/bambootajur.png" alt="Green Bamboo Terace"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Green Bamboo Terace</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Web 再制作（デザイン制作 | CMS | コーディング）
-                                    <div class="grey-clr">WordPress, スマホ最適, 不動産</div>
+                                    Web Re-Design (Design | CMS | Coding)
+                                    <div class="grey-clr">WordPress, Mobile Optimized, Real Estate Web</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://hmw-rehab.com/en" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/hmw.png" alt="HMW Rehabilitation Clinic" class="img-responsive center-block">
+                                    <img src="/img/portfolio/hmw.png" alt="HMW Rehabilitation Clinic"
+                                        class="img-responsive center-block">
                                     <p class="text-center">HMW Rehabilitation Clinic</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Web 構築（デザイン制作 | CMS | コーディング）
-                                    <div class="grey-clr">独自CMS, スマホ最適, カンパニーWeb, 医療サービス</div>
+                                    Web Creation (Design | CMS | Coding)
+                                    <div class="grey-clr">Customized CMS, Mobile Optimized, Corporate Web,
+                                        Medical
+                                        Service Web </div>
                                 </div>
                             </div>
 
@@ -990,8 +1038,8 @@
                                     <p class="text-center">Weeo</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Web制作（デザイン制作 | コーディング | 運用）　
-                                    <div class="grey-clr">モバイル最適, サービスWeb, IoTサービス</div>
+                                    Web Design (Design | Coding | Maintenance)
+                                    <div class="grey-clr">Mobile Optimized, Corporate Web, IoT Service</div>
                                 </div>
                             </div>
 
@@ -1001,41 +1049,44 @@
                                     <p class="text-center">SCSK</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Web制作（デザイン制作 | コーディング | メンテナンス）　
-                                    <div class="grey-clr">短納期制作, コーポレートWeb, ITサービス</div>
+                                    Web Creation (Design | Coding | Maintenance)
+                                    <div class="grey-clr">Quick Built, Corporate Web, IT Service</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://grahamirai.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/graha-mirai.png" alt="Graha Mirai" class="img-responsive center-block">
+                                    <img src="/img/portfolio/graha-mirai.png" alt="Graha Mirai"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Graha Mirai</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Web制作（デザイン制作 | コーディング | 運用）
-                                    <div class="grey-clr">モバイル最適, サービスWeb, 不動産</div>
+                                    Web Design (Design | Coding | Maintenance)
+                                    <div class="grey-clr">Mobile Optimized, Service Web, Real Estate</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://swara.tunaiku.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/amar-bank.png" alt="Amar Bank" class="img-responsive center-block">
+                                    <img src="/img/portfolio/amar-bank.png" alt="Amar Bank"
+                                        class="img-responsive center-block">
                                     <p class="text-center">Amar Bank</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Webリニューアル制作 (デザイン | コーディング | CMS)
-                                    <div class="grey-clr">Wordpress, コーポレートWeb, 銀行, 金融</div>
+                                    Web Remake Development (Design | Coding | Integrasi CMS) 
+                                    <div class="grey-clr">Wordpress, Corporate web, Bank</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <a href="https://m-pas.org/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/mpas.png" alt="MPAS" class="img-responsive center-block">
+                                    <img src="/img/portfolio/mpas.png" alt="MPAS"
+                                        class="img-responsive center-block">
                                     <p class="text-center">MPAS</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    WebフロントエンドDev (デザイン | コーディング | CMS)
-                                    <div class="grey-clr">検索Web, CMS, 医療情報</div>
+                                    Web Front End Development (Design | Coding | Integrasi Back-End)
+                                    <div class="grey-clr">Search System, CMS, Medical Media</div>
                                 </div>
                             </div>
 
@@ -1043,8 +1094,8 @@
                                 <img src="/img/portfolio/pertamina.png" alt="Pertamina" class="img-responsive center-block">
                                 <p class="text-center">Pertamina</p>
                                 <div class="addition-desc text-left">
-                                    UI/UXデザイン (デザイン | HTML/CSSコーディング)
-                                    <div class="grey-clr">eラーニング, トレーニング, 資源ビジネス</div>
+                                    UI / UX Design (Design | HTML/CSS)
+                                    <div class="grey-clr">Training, E-Learning, Pertamina</div>
                                 </div>
                             </div>
 
@@ -1055,8 +1106,8 @@
                                     <p class="text-center">Lifenesia</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                Media 掲示板制作（デザイン制作 | コーディング | ディプロイ）
-                                    <div class="grey-clr">オンライン掲示板, CtoCサービス, メディア</div>
+                                    Bulletin Board  (Design | Coding | Deployment)
+                                    <div class="grey-clr">Bulletin Board, CtoC Service</div>
                                 </div>
                             </div>
 
@@ -1067,11 +1118,11 @@
                                     <p class="text-center">Sumitomo Heavy</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Heavy Industry Web制作 (デザイン｜コーディング | CMS)
-                                    <div class="grey-clr">モバイル最適化, CMS, コーポレートWeb, 重工業</div>
+                                    Web Development (Design | Coding | Integrasi CMS)
+                                    <div class="grey-clr">Mobile Optimized, CMS, Corporate web</div>
                                 </div>
                             </div>
-                            
+
                             <div class="col-md-4 col-xs-6">
                                 <!-- <a href="#" target="_blank" rel="noreferrer"> -->
                                     <img src="/img/portfolio/asean-legal.png" alt="ASEAN Legal"
@@ -1095,7 +1146,7 @@
                                     <div class="grey-clr">Custom Wordpress, Public & Private Document Access, Multi Level Authors, International Organisation</div>
                                 </div>
                             </div>
-                            
+
                             <div class="col-md-4 col-xs-6">
                                 <a href="http://www.tsubame-jltc.com/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/tsubame-lpk.png" alt="Tsubame JLTC"
@@ -1103,8 +1154,8 @@
                                     <p class="text-center">LPK Tsubame Japanese Learning Center</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Web改善 (リデザイン｜コーディング | CMS)     
-                                    <div class="grey-clr">モバイル最適化, サービスWeb, 教育</div>
+                                    Web Revamp (Re-Design | Coding | Integrasi CMS)
+                                    <div class="grey-clr">Mobile Optimized, Service web, Education</div>
                                 </div>
                             </div>
 
@@ -1115,19 +1166,20 @@
                                     <p class="text-center">Vetter</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Web掲示板制作 (デザイン | コーディング | CMS)
-                                    <div class="grey-clr">掲示板, CMS, コミュニティWeb, メディア, ベトナム</div>
+                                    Web Bulletin board Development (Design | Coding | Integrasi CMS)
+                                    <div class="grey-clr">Bulletin board, CMS, Community Web, Media, Vietnum</div>
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <!-- <a href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer"> -->
-                                    <img src="/img/portfolio/kki.jpg" alt="AIA Premier Academy" class="img-responsive center-block">
+                                    <img src="/img/portfolio/kki.jpg" alt="KKI New Pages"
+                                        class="img-responsive center-block">
                                     <p class="text-center">KKI</p>
                                 <!-- </a> -->
                                 <div class="addition-desc text-left">
-                                ECサイト構築 (デザイン | コーディング | APIインテグレーション)
-                                    <div class="grey-clr">配送業者API連携, 配送予約機能, トラッキング, Tiki, Lion Parcel</div>
+                                E-Commerce (Coding | API Integration)
+                                    <div class="grey-clr">Shipping Provider Integration, Shipping Booking, Shipping Tracking, Tiki, Lion Parcel</div>
                                 </div>
                             </div>
 
@@ -1138,8 +1190,8 @@
                                     <p class="text-center">Sibad.id</p>
                                 </a>
                                 <div class="addition-desc text-left">
-                                    Web再構築（クラウド移行 | 再構築＆改善 | 決済機能構築）
-                                    <div class="grey-clr">有料会員, サブスクWeb, ファンクラブ運営, エンターテイメント</div>
+                                    Web Re-Develop (Cloud Server Migration | Re-build | Integration with a Payment Gateway)
+                                    <div class="grey-clr">Member System, Fan Club Subscription System, Entertainment </div>
                                 </div>
                             </div>
 
@@ -1150,8 +1202,8 @@
                                     <p class="text-center">Ishida</p>
                                 <!-- </a> -->
                                 <div class="addition-desc text-left">
-                                Web構築（デザイン制作 | CMS | コーディング
-                                    <div class="grey-clr">BtoB, 製品検索Web, 製造業</div>
+                                Web Development (Design | CMS | Coding)
+                                    <div class="grey-clr">CMS, Product Search, Manufacturer, BtoB Service</div>
                                 </div>
                             </div>
 
@@ -1162,8 +1214,8 @@
                                     <p class="text-center">Sumitomo Kenki</p>
                                 <!-- </a> -->
                                 <div class="addition-desc text-left">
-                                WebフロントエンドDev (コーディング | CMS)
-                                    <div class="grey-clr">モバイル最適化, CMS, コーポレートWeb, 建機</div>
+                                Web Front End Development (Coding | Integrasi CMS)
+                                    <div class="grey-clr">Mobile Optimized, CMS, Corporate web, Construction</div>
                                 </div>
                             </div>
 
@@ -1174,8 +1226,8 @@
                                     <p class="text-center">AIA Berbagi</p>
                                 <!-- </a> -->
                                 <div class="addition-desc text-left">
-                                Web制作 (コーディング | API連携)
-                                    <div class="grey-clr">フォーム開発, マイクロサイト, 保険, CSR</div>
+                                Website Creation (Coding | API Integration)
+                                    <div class="grey-clr">Validation, Form Submission, Microsite, Free PA, CSR</div>
                                 </div>
                             </div>
 
@@ -1186,18 +1238,18 @@
                                     <p class="text-center">AIA Conservation</p>
                                 <!-- </a> -->
                                 <div class="addition-desc text-left">
-                                Web制作 (デザイン | コーディング)
-                                    <div class="grey-clr">フォーム開発, マルチユーザージャーニー, マイクロサイト, Adobe Forms, 保険</div>
+                                AIA Conservation Website Creation (Design | Coding)
+                                    <div class="grey-clr">Validation, Form Submission, Multiple User Journey, Microsite, Digital Procedure, Adobe Form</div>
                                 </div>
                             </div>
-
+                            
                         </div>
                     </div>
                     <!-- END HIDE WEB DEV PORTFOLIO -->
 
                     <div class="text-center">
-                        <a class="btn btn-more-portfolio custom-btn-contact" data-toggle="collapse" href="#hideWebDev" onclick="jump('webDev')">
-                            Web・ホームページ制作実績をもっとみる
+                        <a class="btn btn-more-portfolio custom-btn-contact" role="button" aria-expanded="false" aria-controls="hideWebDev" data-toggle="collapse" href="#hideWebDev">
+                            See more web development portfolios
                         </a>
                     </div>
                     <hr>
@@ -1207,7 +1259,7 @@
             <section id="sysDev">
                 <div class="container__">
                     <div class="portfolio-sec__head">
-                        <h3 class="portfolio-sec__title">システム開発実績</h3>
+                        <h3 class="portfolio-sec__title">System Development Portfolio</h3>
                         <a href="#portfolioNavigation" class="portfolio-sec__back">
                             <small>[Back to Top]</small>
                         </a>
@@ -1221,7 +1273,7 @@
                             </div>
                             <div class="portfolio-sec-system__content">
                                 <h2 class="portfolio-sec__title">JBA</h2>
-                                <p>モバイルアプリ開発 (検品＆品質スコアリングシステム).</p>
+                                <p>Mobile App Development (Inspection & Quality Scoring System)</p>
                                 <p class="text-muted">4 months, Android, node.js, JAVA, AWS</p>
                             </div>
                         </div>
@@ -1231,9 +1283,9 @@
                                 <img src="/img/logo-sinarmasland.jpg" alt="PT. Sinarmas Land" class="img-responsive center-block">
                             </div>
                             <div class="portfolio-sec-system__content">
-                                <h2 class="portfolio-sec__title">シナールマスランド</h2>
-                                <p>不動産開発業者向け採用管理システム構築.</p>
-                                <p class="text-muted">7ヶ月、HTML5/CSS3、.Netフレームワーク、SQL Server、LDAP＆SAPインテグレーション </p>
+                                <h2 class="portfolio-sec__title">Sinar Mas Land</h2>
+                                <p>E-Recruitment System and Online Psychological Test Development</p>
+                                <p class="text-muted">7 Months, HTML5/CSS3, .Net Framework, SQL Server, LDAP and SAP Integration</p>
                             </div>
                         </div>
 
@@ -1243,7 +1295,7 @@
                             </div>
                             <div class="portfolio-sec-system__content">
                                 <h2 class="portfolio-sec__title">Zuttoride Indonesia</h2>
-                                <p>ロードサービス事業者向けWEB-CRMシステム開発.</p>
+                                <p>WEB-CRM system development for a motorcycle service company.</p>
                                 <p class="text-muted">3 months, PHP Framework, Payment Gateway, AWS</p>
                             </div>
                         </div>
@@ -1259,7 +1311,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>会員向けポイント管理＆交換システム構築.</p>
+                                    <p>Beneficial Point Management & E-Commerce System Development.</p>
                                     <p class="text-muted">6 months, AWS, Linux, MySQL, PHP Framework</p>
                                 </div>
                                 <!-- modal 1 -->
@@ -1268,11 +1320,43 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>会員向けポイント管理＆交換システム構築.</h4>
+                                                <h4>Beneficial Point Management & E-Commerce System Development.
+                                                </h4>
                                                 <hr>
-                                                <p>ポイント付与＆交換をキーとしたE-Commerceを構築。マルチドメインで複数店舗を管理可能な高機能基幹システムをスクラッチ開発。クライアント企業の従業員を対象に付与されたポイントを管理、E-Commerceから利用できるクライアント用サブシステム、サプライヤー向けサブシステム、クライアント企業の管理を行うサブシステムなどからなるシステムを構築。<br><br>
-                                                    E-Commerce、決済、在庫管理、配送管理、承認ワークフロー、マルチドメイン。約6ヶ月かけてLAMP環境にてスクラッチ開発を行った。24時間止められないシステムであるためAWSにて冗長性の高い構成を組んでいる。
+                                                <p>A web-based system used to organize a program based on
+                                                    incentive
+                                                    points for those in the employ of our clients. This system
+                                                    consists
+                                                    of several integrated subsystems, namely: supplier systems
+                                                    (suppliers), user systems (users), and service provider
+                                                    admins.
                                                 </p>
+                                                <p>Developing this system takes 6 months to complete. By
+                                                    bringing
+                                                    PHP
+                                                    platforms within chosen frameworks, a MySQL database, and
+                                                    through
+                                                    hosting on Linux’s servers through an AWS cloud service,
+                                                    this
+                                                    system
+                                                    has proven to accommodate the business needs of companies
+                                                    that
+                                                    require the utilization of an incentive point program for
+                                                    their
+                                                    employees.</p><br>
+                                                <p>In producing a stable system with a high performance
+                                                    capacity, we
+                                                    have developed an efficient approach to both the application
+                                                    and
+                                                    database layers. Then, In terms of the server’s
+                                                    infrastructure,
+                                                    we
+                                                    have implemented a more modern system of server
+                                                    architecture,
+                                                    utilizing AWS autoscaling and loadbalancing features.
+                                                    Therefore,
+                                                    regardless of the 10,000 currently active users across 3
+                                                    sub-systems, its system performance maintains stability.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1287,7 +1371,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>マルチレベルE-Commerceシステム開発.</p>
+                                    <p>E-Commerce Development for MLM company.</p>
                                     <p class="text-muted">6 months, AWS, Linux, MySQL, PHP Framework</p>
                                 </div>
                                 <!-- modal 2 -->
@@ -1296,10 +1380,24 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>マルチレベルE-Commerceシステム開発.</h4>
+                                                <h4>E-Commerce Development for MLM company.</h4>
                                                 <hr>
-                                                <p>マルチレベルマーケティング会社が代理店経由の販売をコントロール可能なE-Commerceシステムの開発。Admin向け管理、ディストリビュータ管理、顧客管理の３つのモジュールでなる大規模ECサイトの構築。E-Commerce、決済（Virtualアカウント、クレジットカード）、商品在庫管理、請求管理、など複雑なシステムであったが約6ヶ月で開発した。.
-                                                </p>
+                                                <p>The MLM E-Commerce system which utilizes web based technology
+                                                    consists of 3 modules; namely, an admin management module, a
+                                                    distributor module, and a customer module. This system is
+                                                    equipped
+                                                    with postage calculating features, the ability to calculate
+                                                    a
+                                                    distributor’s profit margin, a distributor-user balance
+                                                    management
+                                                    system, an online registration structure and an online
+                                                    credit
+                                                    purchasing system. Through the integration of a payment
+                                                    gateway
+                                                    service, customers can do transactions via credit card and a
+                                                    virtual
+                                                    account. Because of its complex and multifaceted system, its
+                                                    development takes 6 months.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1314,7 +1412,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>自動車＆バイクオークションマネジメント基幹システム構築.</p>
+                                    <p>Automobil Auction Mission Critical System Development.</p>
                                     <p class="text-muted">6 months, AWS, Linux, MySQL, PHP Framework, Node.js
                                     </p>
                                 </div>
@@ -1324,10 +1422,34 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>自動車＆バイクオークションマネジメント基幹システム構築.</h4>
+                                                <h4>Automobil Auction Mission Critical System Development.</h4>
                                                 <hr>
-                                                <p>オークション業務の基幹システムを構築。オークションコンダクターから在庫管理、オンラインオークションまで様々なシステムを開発＆統合してきた。ユーザーはWEBサイトからオークションに出品される車両情報を閲覧することができ、オンサイトでもオンラインでもオークション入札が可能。在庫管理や検品＆グレード管理、オークション、請求管理などが複雑に関連している、またトラフィックも多いことから難易度の高いシステムであるが、安定稼働を実現している。.
-                                                </p>
+                                                <p>A highly complex automotive auctioning system consisting of
+                                                    an
+                                                    integrated online auction system as well as auction-object
+                                                    management, financial and mobile based vehicle inspection
+                                                    systems,
+                                                    with a mobile bidding application. The structure is
+                                                    integrated
+                                                    within a core system, supported by various other mechanics,
+                                                    so
+                                                    that
+                                                    customers can enjoy the experience of auctioning in real
+                                                    time,
+                                                    either through a PC browser or via mobile apps.<br><br>This
+                                                    system
+                                                    was developed on a PHP platform with chosen frameworks, and
+                                                    integrated using node.js technology and uses a MySQL
+                                                    database.
+                                                    Utilizing an effective project management strategy, we have
+                                                    successfully developed the following application within a 6
+                                                    month
+                                                    timeframe. Furthermore, the use of comprehensive application
+                                                    design
+                                                    and server architecture has made the performance of this
+                                                    system
+                                                    very
+                                                    stable, despite having high levels of user activity.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1342,7 +1464,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>モバイルアプリ開発（オークション入札アンドロイドアプリ）.</p>
+                                    <p>Mobile Application Development (Auction Bidding Android).</p>
                                     <p class="text-muted">2 months, Android, node.js, JAVA, AWS</p>
                                 </div>
                                 <!-- modal 4 -->
@@ -1351,10 +1473,25 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>モバイルアプリ開発（オークション入札アンドロイドアプリ）.</h4>
+                                                <h4>Mobile Application Development (Auction Bidding Android).
+                                                </h4>
                                                 <hr>
-                                                <p>車オークション会社向けにAndroidのオークション入札モバイルアプリの開発を行った。約600ユーザーが同時接続＆入札するシステムなので高いRealtime性とセキュリティ堅牢性、シンプルで使いやすいUIなどが求められたが、node.jsによる開発で実現した。ユーザー特定や請求情報など周辺機能との繋ぎ込み開発も。AWSサーバーの構成デザインやハイパフォーマンスなAPIの開発なども含めて全て開発し、安定稼働している.
-                                                </p>
+                                                <p>This Android based application is used to facilitate
+                                                    customers of
+                                                    auction companies functioning online and in real-time. By
+                                                    integrating this android platform with node.js, as well as
+                                                    making
+                                                    use of a thorough UI/UX design, it is able to bring the
+                                                    auctioning
+                                                    experience directly to the auction location. With the
+                                                    support of
+                                                    high-performance API designs, Linux hosting servers, as well
+                                                    as
+                                                    server architectures adapting AWS autoscaling and
+                                                    loadbalancing into
+                                                    its features, the performance quality of our bidding
+                                                    application is
+                                                    undeniable.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1369,7 +1506,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>モバイルアプリ開発（検品＆品質スコアリングシステム）.</p>
+                                    <p>Mobile Application (Vehicle Inspection / Scoring System).</p>
                                     <p class="text-muted">4 months, Android, node.js, JAVA, AWS</p>
                                 </div>
                                 <!-- modal 5 -->
@@ -1378,10 +1515,28 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>モバイルアプリ開発（検品＆品質スコアリングシステム）.</h4>
+                                                <h4>Mobile Application (Vehicle Inspection / Scoring System).
+                                                </h4>
                                                 <hr>
-                                                <p>900もの検査項目を網羅して、検査受け入れ/スコアリングを検査官の熟練度に依存せず業務可能にするモAndroidモバイル・アプリケーションを開発した。車、バイクごとに検査アプリを開発、複数の車のタイプに対応している（検査項目が異なる）。入力された検査結果に応じて自動で該当車両のスコアリングを行い、検査証を印刷することを実現した。検査質問項目数はかなり多いが、中程度のスペックのスマホで十分にサクサク動くように軽量化に努めた。バックエンドとの連携APIなども全て開発。.
-                                                </p>
+                                                <p>This system is an android based application used for
+                                                    inspecting
+                                                    vehicles before they are auctioned. More than 900 vehicle
+                                                    parts are
+                                                    inspected through this application, after which the results
+                                                    are
+                                                    efficiently recorded and sorted directly into its core
+                                                    system in
+                                                    real-time.<br><br>Utilizing a thorough UI/UX design, users
+                                                    of this
+                                                    application can easily perform the inspection process,
+                                                    regardless of
+                                                    how many vehicle parts are involved. In terms of
+                                                    performance, it is
+                                                    very stable. In addition to the android API, its system is
+                                                    further
+                                                    supported by a good server architecture design and utilizes
+                                                    AWS
+                                                    autoscaling and loadbalancing features.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1396,7 +1551,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>ロードサービス事業者向けWEB-CRMシステム開発.</p>
+                                    <p>CRM System for Motor-Bike Road Servicer.</p>
                                     <p class="text-muted">3 months, PHP Framework, Payment Gateway, AWS</p>
                                 </div>
                                 <!-- modal 6 -->
@@ -1405,9 +1560,33 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>ロードサービス事業者向けWEB-CRMシステム開発.</h4>
+                                                <h4>CRM System for Motor-Bike Road Servicer.</h4>
                                                 <hr>
-                                                <p>バイクのロードサービス、バイク保険の会員向けCRMシステムを開発・運用している。会員に会員証を発行するところから、会員自身がWEBから更新し、決済を行えるところまでシステム化。インドネシアの有力な決済代行システムと接続した。長期間に渡って機能追加、システム改善を継続している。AWSサーバーで運用.
+                                                <p>We have developed the following CRM system for motor
+                                                    insurance, and
+                                                    are currently further adding to its features. Through this
+                                                    system,
+                                                    an administration team can easily manage customer data, as
+                                                    well as
+                                                    insurance period extensions, policy payments, dealer
+                                                    partners,
+                                                    policy prices and customer insurance claim data. For
+                                                    customers, the
+                                                    system can provide a comprehensive outline regarding the
+                                                    demand for
+                                                    insurance extensions and planning by simulating premium
+                                                    prices based
+                                                    on the cost of a vehicle. <br><br>This system was built with
+                                                    PHP
+                                                    technology with chosen platforms, HTML-CSS3, Javascript,
+                                                    JQuery/Ajax
+                                                    and utilizes a MySQL database. Is it integrated with a
+                                                    gateway
+                                                    payment service from leading service providers, making it
+                                                    easier for
+                                                    customers to make transactions using a credit card and/or
+                                                    electronic
+                                                    money.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1422,7 +1601,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>バイヤーズMypage機能の開発、CRMシステム開発.</p>
+                                    <p>CRM System for Auction Buyers.</p>
                                     <p class="text-muted">2 months, PHP Framework, MySQL, AWS</p>
                                 </div>
                                 <!-- modal 7 -->
@@ -1431,10 +1610,20 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>バイヤーズMypage機能の開発、CRMシステム開発.</h4>
+                                                <h4>CRM System for Auction Buyers.</h4>
                                                 <hr>
-                                                <p>オークションに参加するバイヤーにRewardポイントを付与している。このポイントを管理、特典に交換すること等ができるマイページ機能を開発。これに合わせ、ログイン後、参加したオークション履歴や請求情報も確認できるように実装した。LAMP環境でシステム構築を行った。付与されるポイントなどは基幹システム連携し動的にデータ連携される。短期間で不具合のないシステムの開発に成功した。
-                                                </p>
+                                                <p>Through this system, customers are able to check bills,
+                                                    receive
+                                                    important information such as auction history and
+                                                    participation, and
+                                                    further manage any reward points accumulated from their
+                                                    purchases.
+                                                    This system was developed using a PHP platform with chosen
+                                                    frameworks, and utilizes a MySQL database. Customers can
+                                                    receive
+                                                    information in real-time as the system is connected to a
+                                                    live core
+                                                    system via secured-API.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1449,7 +1638,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>出版社向け広告台割管理システム.</p>
+                                    <p>Component / Layout management Cloud System for Magazine Publisher.</p>
                                     <p class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL</p>
                                 </div>
                                 <!-- modal 8 -->
@@ -1458,10 +1647,27 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>出版社向け広告台割管理システム.</h4>
+                                                <h4>Component / Layout management Cloud System for Magazine
+                                                    Publisher.
+                                                </h4>
                                                 <hr>
-                                                <p>東南アジア一帯で、またハワイで、フリーペーパーを発行する出版社向けに、コンテンツ（特に広告コンテンツ）の台割管理システムを構築した。他システムから広告契約一覧データを取り込む。それをドラッグ＆ドロップで各ページのレイアウトに視覚的に配置し、漏れや重複がないように容易に管理することを可能にした。
-                                                </p>
+                                                <p>This is a web-based management system used for setting
+                                                    advertisement
+                                                    column layouts and for printing media from a leading
+                                                    Japanese
+                                                    Free-paper publisher supports a through UI/UX design.
+                                                    Further, this
+                                                    application is very user friendly; with its drag-and-drop
+                                                    feature,
+                                                    users can set the ad layout to their specific requirements.
+                                                    This
+                                                    system also features export and import layout settings in
+                                                    the form
+                                                    of CSV files. <br><br>The system was developed with PHP
+                                                    technology
+                                                    with chosen framework, JQuery, and HTML5-CSS3. The process
+                                                    of
+                                                    developing this web application takes 3 months.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1476,7 +1682,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>中古車マーケットプレイス構築、ディーラー向けアプリ開発、など.</p>
+                                    <p>Used car market place development and operation.</p>
                                     <p class="text-muted">2.5 months, JQuery, HTML5, PHP Framework, MySQL</p>
                                 </div>
                                 <!-- modal 9 -->
@@ -1485,10 +1691,35 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>中古車マーケットプレイス構築、ディーラー向けアプリ開発、など.</h4>
+                                                <h4>Used car market place development and operation.</h4>
                                                 <hr>
-                                                <p>中古車ディーラーと購入者をマッチングする中古車マーケットプレイスの構築を3ヶ月で行い。その後、プレミアムディーラー機能、ディーラー向け管理モバイル・アプリケーションなど、様々な追加機能を開発＆運用している。毎日3万を超えるユーザーに使われているサービスだが適切に負荷分散・冗長化されたAWSで運用していて安定稼働を実現している。
-                                                </p>
+                                                <p>The following application is a second hand marketplace system
+                                                    used by
+                                                    many car dealerships inside and outside of Jakarta. It was
+                                                    developed
+                                                    using PHP technology with Chosen Frameworks and runs on a
+                                                    Linux
+                                                    platform through an AWS server. The process of developing
+                                                    this
+                                                    service is ongoing; currently, the system boasts more than
+                                                    30,000
+                                                    visitors daily. Although traffic is quite solid, the system
+                                                    is very
+                                                    stable. In addition to web based technology, the system is
+                                                    also
+                                                    integrated with mobile apps based on Android (Native) and
+                                                    iOS
+                                                    (Swift).<br><br>The user's response to this service
+                                                    continues to
+                                                    increase over time. Currently the system serves more than
+                                                    30,000
+                                                    visitors every day. Although traffic is quite solid, the
+                                                    system is
+                                                    very stable. <br><br>In addition to web-based technology,
+                                                    the system
+                                                    is also integrated with mobile apps based on Android
+                                                    (Native) and
+                                                    IOS (Swift)</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1503,7 +1734,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>デジタルマップシステム開発.</p>
+                                    <p>Development system of a digital map.</p>
                                     <p class="text-muted">3 months, PHP Framework, MySQL, Google map API, Java
                                         Script</p>
                                 </div>
@@ -1513,10 +1744,16 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>デジタルマップシステム開発.</h4>
+                                                <h4>Development system of a digital map.</h4>
                                                 <hr>
-                                                <p>デジタルマップを開発。ASEANの9カ国の地図上に各地でのインフラ開発プロジェクトをマッピング、検索やフィルターをかけて地図上でプロジェクト状況を確認できるようにした。Google
-                                                    mapを活用。</p>
+                                                <p>A Digital map system used for coordinating the progress of
+                                                    projects
+                                                    implemented within ASEAN countries. The system was developed
+                                                    using
+                                                    PHP technology utilizing chosen frameworks, Google Maps API,
+                                                    HTML5-CSS3 and a MySQL database. The development process
+                                                    takes 3
+                                                    months.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1531,7 +1768,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>C2C自動車オークションシステム開発.</p>
+                                    <p>Vehicle C2C Auction System.</p>
                                     <p class="text-muted">2 months, PHP Framework, MySQL, JQuery/Ajax,
                                         HTML5/CSS3</p>
                                 </div>
@@ -1541,10 +1778,14 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>C2C自動車オークションシステム開発.</h4>
+                                                <h4>Vehicle C2C Auction System.</h4>
                                                 <hr>
-                                                <p>自動車のC2Cオークション事業を行うスタートアップのシステム・モバイルアプリを短期集中開発。Ajail型でスピード開発に成功。ロゴの制作から基幹システム構築までトータルにサポート。
-                                                </p>
+                                                <p>Through the C2C auction system, there are around 2000
+                                                    vehicles auctioned and divided into 4 sale categories. This
+                                                    application receives around 300 users per month, and was
+                                                    developed using PHP technology with chosen frameworks,
+                                                    JQuery/Ajax, HTML5-CSS3 and uses a MySQL database.
+                                                    Developing this system takes 2 months.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1559,7 +1800,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>公共団体向けセキュアなCMS開発.</p>
+                                    <p>Secure CMS Development for public organization.</p>
                                     <p class="text-muted">2 months, PHP Framework, MySQL</p>
                                 </div>
                                 <!-- modal 12 -->
@@ -1568,10 +1809,17 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>公共団体向けセキュアなCMS開発.</h4>
+                                                <h4>Secure CMS Development for public organization.</h4>
                                                 <hr>
-                                                <p>公共団体向けにセキュアなCMSの構築。インドネシアの公共団体がセキュアなCMSを構築する必要があった。管理ユーザー数が多いため、ユーザー管理や権限管理に工夫を凝らし、セキュリティ脆弱性を潰したシステムを構築した。再構築前はWordpress上で動いていたが、Laravelフレームワークを使いスクラッチ開発を行った。
-                                                </p>
+                                                <p>The CMC Web System was developed for public organizations and
+                                                    to
+                                                    manage their website content. Through this system, admin can
+                                                    easily
+                                                    manage their website’s content. This application was
+                                                    developed with
+                                                    PHP technology with chosen frameworks, HTML5-CSS3,
+                                                    javascript,
+                                                    JQuery, and utilizes a MySQL database.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1586,7 +1834,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>デジタルBook販売WEBサービス向けCMS構築.</p>
+                                    <p>E-commerce (e-book) CMS development.</p>
                                     <p class="text-muted">2 months, PHP Framework, HTML5/CSS3,MySQL</p>
                                 </div>
                                 <!-- modal 13 -->
@@ -1595,10 +1843,16 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>デジタルBook販売WEBサービス向けCMS構築.</h4>
+                                                <h4>E-commerce (e-book) CMS development.</h4>
                                                 <hr>
-                                                <p>インドネシアでE-Book販売をしている会社のオンラインBook販売サイトのCMSを構築した。販売商品の管理＆更新が容易になり販売数の向上に寄与した。キャンペーンページのデザイン制作とCMSへのインテグレーションなども複数回行った。
-                                                </p>
+                                                <p>An E-Commerce CMC system used by a book distributor from
+                                                    Japan. This
+                                                    system was developed using PHP technology with chosen
+                                                    framework,
+                                                    HTML5-CSS3, and utilizes a MySQL database. With this web
+                                                    CMS,
+                                                    website administrators can easily manage a company’s website
+                                                    content. Developing this CMS takes 2 months.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1613,7 +1867,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>求人・求職マッチングポータルWEBの構築.</p>
+                                    <p>Job Portal System Development.</p>
                                     <p class="text-muted">2 months, PHP Framework, MySQL</p>
                                 </div>
                                 <!-- modal 14 -->
@@ -1622,9 +1876,19 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>求人・求職マッチングポータルWEBの構築.</h4>
+                                                <h4>Job Portal System Development.</h4>
                                                 <hr>
-                                                <p>人材紹介会社向けにJOBポータルWEBの構築をした。求人情報を掲載し、求職者からの応募を受け付けるWEBサイト。求職者はWEBサイトに会員登録することで直接該当ポジションに応募することができる。PHPフレームワークでスクラッチ開発した。開発期間は約3ヶ月。デザインから構築まで全てを行った。
+                                                <p>A job portal system built with PHP technology, HTML5-CSS and
+                                                    utilizes
+                                                    a MySQL database. This job portal is hosted on the AWS Linux
+                                                    server.
+                                                    Companies can connect with job seekers, while potential
+                                                    employees
+                                                    can see which jobs are vacant on the website, and can apply
+                                                    for the
+                                                    position directly. The percentage of those who use this
+                                                    service
+                                                    constitutes the majority of Japanese companies in Indonesia.
                                                 </p>
                                             </div>
                                         </div>
@@ -1640,7 +1904,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-sec-system__content">
-                                    <p>金融機関向け採用管理システムの構築.</p>
+                                    <p>Hiring (recruitment) Management System.</p>
                                     <p class="text-muted">3 months, PHP Framework, HTML5/CSS3,MySQL</p>
                                 </div>
                                 <!-- modal 15 -->
@@ -1649,10 +1913,21 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h4>金融機関向け採用管理システムの構築.</h4>
+                                                <h4>Hiring (recruitment) Management System.</h4>
                                                 <hr>
-                                                <p>金融機関向けに採用管理WEBシステムを構築した。採用サイトの制作に合わせ、バックエンドで面談管理や承認フローを管理するシステムを構築した。納品前に外部のセキュリティ診断会社と協業し、セキュリティ脆弱性検査を行うなど個人情報を扱う金融機関のセキュリティ基準に見合うシステムを構築した。PHPフレームワークを使いスクラッチ開発で、約3ヶ月間。
-                                                </p>
+                                                <p>A corporate website equipped with a recruitment system.
+                                                    Potential
+                                                    employees who are interested in working with us can apply
+                                                    directly
+                                                    through the website. Maintaining a high level of security,
+                                                    the
+                                                    confidentiality of the applicant’s data is assured. The
+                                                    system
+                                                    is
+                                                    built with PHP technology, and uses the chosen frameworks,
+                                                    HTML5-CSS3, as well as utilizing the Ms.SQL server database.
+                                                    The
+                                                    development process takes 3 months.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1663,9 +1938,9 @@
                         </div>
 
                         <div class="text-center">
-                            <a class="btn btn-more-portfolio custom-btn-contact" role="button" data-toggle="collapse" href="#hideSysDev"
-                                onclick="jump('sysDev')" aria-expanded="false" aria-controls="hideSysDev">
-                                Web・ITシステム開発実績をもっとみる</a>
+                            <a class="btn btn-more-portfolio custom-btn-contact collapsed" data-toggle="collapse"
+                                href="#hideSysDev">
+                                See more system development portfolios</a>
                         </div>
 
                     </div>
@@ -1684,32 +1959,38 @@
                     <div class="row text-center">
                         <div class="col-md-4 col-xs-6">
                             <div class="mobile-app-container same-height">
-                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-1.png" alt="JBA Bike Inspection App"
+                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-1.png"
+                                        alt="JBA Bike Inspection App"
                                         class="img-responsive center-block">
                                 </div>
-                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-2.png" alt="JBA Bike Inspection App"
+                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-2.png"
+                                        alt="JBA Bike Inspection App"
                                         class="img-responsive center-block">
                                 </div>
-                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-3.png" alt="JBA Bike Inspection App"
+                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-3.png"
+                                        alt="JBA Bike Inspection App"
                                         class="img-responsive center-block">
                                 </div>
-                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-4.png" alt="JBA Bike Inspection App"
+                                <div class="m-app-item"><img src="/img/portfolio/jba-bike-inspection-app-4.png"
+                                        alt="JBA Bike Inspection App"
                                         class="img-responsive center-block">
                                 </div>
                             </div>
                             <br>
                             <p>JBA Bike Inspection App</p>
                         </div>
-
                         <div class="col-md-4 col-xs-6">
                             <div class="mobile-app-container same-height">
-                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-1.png" alt="WEEO Hino Connect"
+                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-1.png"
+                                        alt="WEEO Hino Connect"
                                         class="img-responsive center-block">
                                 </div>
-                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-2.png" alt="WEEO Hino Connect"
+                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-2.png"
+                                        alt="WEEO Hino Connect"
                                         class="img-responsive center-block">
                                 </div>
-                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-3.png" alt="WEEO Hino Connect"
+                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-3.png"
+                                        alt="WEEO Hino Connect"
                                         class="img-responsive center-block">
                                 </div>
                             </div>
@@ -1719,10 +2000,14 @@
 
                         <div class="col-md-4 col-xs-6 visible-md visible-lg">
                             <div class="mobile-app-container same-height">
-                                <div class="m-app-item"><img src="/img/portfolio/wantjp1.png" alt="want.jp" class="img-responsive center-block"></div>
-                                <div class="m-app-item"><img src="/img/portfolio/wantjp2.png" alt="want.jp" class="img-responsive center-block"></div>
-                                <div class="m-app-item"><img src="/img/portfolio/wantjp3.png" alt="want.jp" class="img-responsive center-block"></div>
-                                <div class="m-app-item"><img src="/img/portfolio/wantjp4.png" alt="want.jp" class="img-responsive center-block"></div>
+                                <div class="m-app-item"><img src="/img/portfolio/wantjp1.png" alt="want.jp"
+                                        class="img-responsive center-block"></div>
+                                <div class="m-app-item"><img src="/img/portfolio/wantjp2.png" alt="want.jp"
+                                        class="img-responsive center-block"></div>
+                                <div class="m-app-item"><img src="/img/portfolio/wantjp3.png" alt="want.jp"
+                                        class="img-responsive center-block"></div>
+                                <div class="m-app-item"><img src="/img/portfolio/wantjp4.png" alt="want.jp"
+                                        class="img-responsive center-block"></div>
                             </div>
                             <br>
                             <p>Want.jp</p>
@@ -1739,14 +2024,14 @@
 
                             <div class="col-md-4 col-xs-6 visible-sm visible-xs">
                                 <div class="mobile-app-container same-height">
-                                    <div class="m-app-item"><img src="/img/portfolio/wantjp1.png" alt="want.jp" class="img-responsive center-block">
-                                    </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/wantjp2.png" alt="want.jp" class="img-responsive center-block">
-                                    </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/wantjp3.png" alt="want.jp" class="img-responsive center-block">
-                                    </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/wantjp4.png" alt="want.jp" class="img-responsive center-block">
-                                    </div>
+                                    <div class="m-app-item"><img src="/img/portfolio/wantjp1.png" alt="want.jp"
+                                            class="img-responsive center-block"></div>
+                                    <div class="m-app-item"><img src="/img/portfolio/wantjp2.png" alt="want.jp"
+                                            class="img-responsive center-block"></div>
+                                    <div class="m-app-item"><img src="/img/portfolio/wantjp3.png" alt="want.jp"
+                                            class="img-responsive center-block"></div>
+                                    <div class="m-app-item"><img src="/img/portfolio/wantjp4.png" alt="want.jp"
+                                            class="img-responsive center-block"></div>
                                 </div>
                                 <br>
                                 <p>Want.jp</p>
@@ -1756,9 +2041,10 @@
                             </div>
 
                             <div class="col-md-4 col-xs-6">
-                                <div class="mobile-app-container same-height ">
+                                <div class="mobile-app-container same-height">
                                     <div class="m-app-item">
-                                        <img src="/img/portfolio/apps-nlec.jpg" alt="NLEC Nihongo E-Learning PWA" class="img-responsive center-block">
+                                        <img src="/img/portfolio/apps-nlec.jpg" alt="NLEC Nihongo E-Learning PWA"
+                                            class="img-responsive center-block">
                                     </div>
                                 </div>
                                 <br>
@@ -1767,29 +2053,29 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <div class="mobile-app-container same-height">
-                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding.jpg" alt="JBA Indonesia オークション入札Androidアプリ"
-                                            class="img-responsive center-block">
+                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding.jpg"
+                                            alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding2.jpg" alt="JBA Indonesia オークション入札Androidアプリ"
-                                            class="img-responsive center-block">
+                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding2.jpg"
+                                            alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding3.jpg" alt="JBA Indonesia オークション入札Androidアプリ"
-                                            class="img-responsive center-block">
+                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding3.jpg"
+                                            alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding4.jpg" alt="JBA Indonesia オークション入札Androidアプリ"
-                                            class="img-responsive center-block">
+                                    <div class="m-app-item"><img src="/img/portfolio/app-jba-bidding4.jpg"
+                                            alt="JBA Indonesia Auction Bidding App" class="img-responsive center-block">
                                     </div>
                                 </div>
                                 <br>
-                                <p>JBA Indonesia オークション入札Androidアプリ</p>
+                                <p>JBA Indonesia Auction Bidding App</p>
                             </div>
 
                             <div class="col-md-4 col-xs-6">
                                 <div class="mobile-app-container same-height">
-                                    <div class="m-app-item"><img src="/img/portfolio/apps-oto-1.jpg" alt="Otomart - Used Car on Sale Finder App"
-                                            class="img-responsive center-block"></div>
-                                    <div class="m-app-item"><img src="/img/portfolio/apps-oto-2.jpg" alt="Otomart - Used Car on Sale Finder App"
-                                            class="img-responsive center-block"></div>
+                                    <div class="m-app-item"><img src="/img/portfolio/apps-oto-1.jpg"
+                                            alt="Otomart - Used Car on Sale Finder App" class="img-responsive center-block"></div>
+                                    <div class="m-app-item"><img src="/img/portfolio/apps-oto-2.jpg"
+                                            alt="Otomart - Used Car on Sale Finder App" class="img-responsive center-block"></div>
                                 </div>
                                 <br>
                                 <p>Otomart - Used Car on Sale Finder App</p>
@@ -1839,13 +2125,16 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <div class="mobile-app-container same-height">
-                                    <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect1.jpg" alt="JBA Indonesia - Car Inspection App"
+                                    <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect1.jpg"
+                                            alt="JBA Indonesia - Car Inspection App"
                                             class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect2.jpg" alt="JBA Indonesia - Car Inspection App"
+                                    <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect2.jpg"
+                                            alt="JBA Indonesia - Car Inspection App"
                                             class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect3.jpg" alt="JBA Indonesia - Car Inspection App"
+                                    <div class="m-app-item"><img src="/img/portfolio/apps-jba-inspect3.jpg"
+                                            alt="JBA Indonesia - Car Inspection App"
                                             class="img-responsive center-block">
                                     </div>
                                 </div>
@@ -1855,16 +2144,20 @@
 
                             <div class="col-md-4 col-xs-6">
                                 <div class="mobile-app-container same-height">
-                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-1.jpg" alt="WEEO Testing App"
+                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-1.jpg"
+                                            alt="WEEO Testing App"
                                             class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-2.jpg" alt="WEEO Testing App"
+                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-2.jpg"
+                                            alt="WEEO Testing App"
                                             class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-3.jpg" alt="WEEO Testing App"
+                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-3.jpg"
+                                            alt="WEEO Testing App"
                                             class="img-responsive center-block">
                                     </div>
-                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-4.jpg" alt="WEEO Testing App"
+                                    <div class="m-app-item"><img src="/img/portfolio/weeo-testing-app-4.jpg"
+                                            alt="WEEO Testing App"
                                             class="img-responsive center-block">
                                     </div>
                                 </div>
@@ -1877,8 +2170,8 @@
                     <!-- END HIDE PWA -->
 
                     <div class="text-center">
-                        <a class="btn btn-more-portfolio custom-btn-contact" data-toggle="collapse" href="#hidePWA" onclick="jump('PWA')">
-                            モバイルアプリ・PWAの開発実績をみる
+                        <a class="btn btn-more-portfolio custom-btn-contact" role="button" data-toggle="collapse" href="#hidePWA" aria-expanded="false" aria-controls="hidePWA">
+                            See more mobile app / PWA portfolios
                         </a>
                     </div>
                     <hr>
@@ -1888,7 +2181,7 @@
             <section id="others">
                 <div class="container__">
                     <div class="portfolio-sec__head">
-                        <h3 class="portfolio-sec__title">その他の実績</h3>
+                        <h3 class="portfolio-sec__title">Digital Marketing & Other Projects</h3>
                         <a href="#portfolioNavigation" class="portfolio-sec__back">
                             <small>[Back to Top]</small>
                         </a>
@@ -1896,74 +2189,84 @@
                     <div class="row">
 
                         <div class="slider-other-client-container">
+
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/opus-park-facebook.png" alt="Opus Park (Facebook)" class="img-responsive center-block">
+                                    <img src="/img/portfolio/opus-park-facebook.png" alt="Opus Park (Facebook)"
+                                        class="img-responsive center-block">
                                 </div>
                                 Opus Park (Facebook)
-                                <div class="addition-desc text-center">
+                                <div class="addition-desc">
                                     <small class="text-muted">(Google Ads, FB/IG Ads, SNS Operation, SEO
                                         Website)</small>
-                                </div>
+                                </div><br />
                             </div>
+
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/mason-de-res.jpg" alt="Mason de Res - (Facebook)" class="img-responsive center-block">
+                                    <img src="/img/portfolio/mason-de-res.jpg" alt="Mason de Res - (Facebook)"
+                                        class="img-responsive center-block">
                                 </div>
                                 Mason de Res - (Facebook)
-                                <div class="addition-desc text-center">
+                                <div class="addition-desc">
                                     <small class="text-muted">(Google Ads, SNS Operation, SEO Website, Articles)</small>
-                                </div>
+                                </div><br />
                             </div>
+
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/ajapan-sosmed.png" alt="Ajapan Dance Instagram Competition - Waku Waku Japan"
+                                    <img src="/img/portfolio/ajapan-sosmed.png"
+                                        alt="Ajapan Dance Instagram Competition - Waku Waku Japan"
                                         class="img-responsive center-block">
                                 </div>
                                 Ajapan Dance Instagram Competition - Waku Waku Japan
-                                <div class="addition-desc text-center">
+                                <div class="addition-desc">
                                     <small class="text-muted">(IG Ads, SNS Operation)</small>
-                                </div>
+                                </div><br />
                             </div>
+
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/60jpid-DM.png" alt="日本インドネシア国交樹立60周年記念事業" class="img-responsive center-block">
+                                    <img src="/img/portfolio/60jpid-DM.png"
+                                        alt="60th Anniversary of Diplomatic Relations between Japan and Indonesia"
+                                        class="img-responsive center-block">
                                 </div>
-                                日本インドネシア国交樹立60周年記念事業
-                                <div class="addition-desc text-center">
-                                    <small class="text-muted">(SNSマーケティング, フェイスブック広告, インスタグラム広告, Youtube広告,
-                                        ソーシャルメディア)</small>
+                                60th Anniversary of Diplomatic Relations between Japan and Indonesia
+                                <div class="addition-desc">
+                                    <small class="text-muted">(SNS Marketing, SNS Operation, Facebook Ads, Instagram
+                                        Ads, Youtube Ads, Social Media)</small>
                                 </div>
                             </div>
+
                             <div class="other-client-item">
                                 <div class="img-thumb">
                                     <img src="/img/portfolio/azalea.png" alt="Azalea Suites" class="img-responsive center-block">
                                 </div>
                                 Azalea Suites
-                                <div class="addition-desc text-center">
-                                    <small class="text-muted">(SEO対策、コンテンツ制作、ページ速度、検索順位)</small>
+                                <div class="addition-desc">
+                                    <small class="text-muted">(SEO, content writing, UX/UI, page speed, search
+                                        rank)</small>
                                 </div>
                             </div>
-                            <div class="other-client-item">
+							<div class="other-client-item">
                                 <div class="img-thumb">
                                     <img src="/img/portfolio/royal-amanda.png" alt="Royal Armada" class="img-responsive center-block">
                                 </div>
                                 Royal Armada
                                 <div class="addition-desc">
-                                    <small class="text-muted">(Google Search Ads, Google Display Ads (GDN), Facebook
-                                        Ads, Instagram Ads)</small>
+                                    <small class="text-muted">(Google Search Ads, Google Display Ads (GDN), Facebook Ads, Instagram Ads)</small>
                                 </div>
                             </div>
-                            <div class="other-client-item">
+							<div class="other-client-item">
                                 <div class="img-thumb">
                                     <img src="/img/portfolio/pilipili.png" alt="PiliPili" class="img-responsive center-block">
                                 </div>
-                                PiliPili
+                                PiliPili 
                                 <div class="addition-desc">
                                     <small class="text-muted">(SEO and Web maintenance)</small>
                                 </div>
                             </div>
-                            <div class="other-client-item">
+							<div class="other-client-item">
                                 <div class="img-thumb">
                                     <img src="/img/portfolio/fiona.png" alt="Fiona Cosmetics" class="img-responsive center-block">
                                 </div>
@@ -1972,149 +2275,164 @@
                                     <small class="text-muted">(SEO and Web maintenance)</small>
                                 </div>
                             </div>
-                            <div class="other-client-item">
+							<div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/video-mysunlife.jpg" alt="2D ビデオ制作（SunLife)" class="img-responsive center-block">
+                                    <img src="/img/portfolio/video-mysunlife.jpg" alt="2D Video Production(SunLife)"
+                                        class="img-responsive center-block">
                                 </div>
-                                2D ビデオ制作（SunLife)
+                                2D Video Production(SunLife)
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/video-mysunlife2.jpg" alt="2D ビデオ制作（SunLife)" class="img-responsive center-block">
+                                    <img src="/img/portfolio/video-mysunlife2.jpg" alt="2D Video Production(SunLife)"
+                                        class="img-responsive center-block">
                                 </div>
-                                2D ビデオ制作（SunLife)
+                                2D Video Production(SunLife)
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/video-otomart.jpg" alt="2D ビデオ制作 (OTOmart)" class="img-responsive center-block">
+                                    <img src="/img/portfolio/video-otomart.jpg" alt="2D Video Production (OTOmart)"
+                                        class="img-responsive center-block">
                                 </div>
-                                2D ビデオ制作 (OTOmart)
+                                2D Video Production (OTOmart)
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/video-otomart2.jpg" alt="2D ビデオ制作 (OTOmart)" class="img-responsive center-block">
+                                    <img src="/img/portfolio/video-otomart2.jpg" alt="2D Video Production (OTOmart)"
+                                        class="img-responsive center-block">
                                 </div>
-                                2D ビデオ制作 (OTOmart)
+                                2D Video Production (OTOmart)
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/mufg-mockup.png" alt="会社案内制作" class="img-responsive center-block">
+                                    <img src="/img/portfolio/mufg-mockup.png" alt="Printing" class="img-responsive center-block">
                                 </div>
-                                会社案内制作
+                                Printing
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/onitsuka-mockup.jpg" alt="会社案内制作" class="img-responsive center-block">
+                                    <img src="/img/portfolio/onitsuka-mockup.jpg" alt="Printing"
+                                        class="img-responsive center-block">
                                 </div>
-                                会社案内制作
+                                Printing
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/cjs-porto.jpg" alt="会社案内制作" class="img-responsive center-block">
+                                    <img src="/img/portfolio/cjs-porto.jpg" alt="Printing"
+                                        class="img-responsive center-block">
                                 </div>
-                                会社案内制作
+                                Printing
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/maison-news.png" alt="コンテンツ制作" class="img-responsive center-block">
+                                    <img src="/img/portfolio/maison-news.png" alt="Content Creation"
+                                        class="img-responsive center-block">
                                 </div>
-                                コンテンツ制作
+                                Content Creation
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/insta-vid.png" alt="インスタグラムビデオ投稿コンテスト" class="img-responsive center-block insta-vid">
-                                </div>
-                                インスタグラムビデオ投稿コンテスト
-                            </div>
-                            <div class="other-client-item">
-                                <div class="img-thumb">
-                                    <img src="/img/portfolio/frangipani-photoshot.png" alt="Frangipani スパ 写真撮影"
+                                    <img src="/img/portfolio/insta-vid.png" alt="Instagram Video Submission Contest"
                                         class="img-responsive center-block insta-vid">
                                 </div>
-                                Frangipani スパ 写真撮影
+                                Instagram Video Submission Contest
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/drone1.png" alt="ドローン撮影" class="img-responsive center-block">
+                                    <img src="/img/portfolio/frangipani-photoshot.png" alt="Frangipani Photo Shooting"
+                                        class="img-responsive center-block insta-vid">
                                 </div>
-                                ドローン撮影
+                                Frangipani Photo Shooting
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/drone2.png" alt="ドローン撮影" class="img-responsive center-block">
+                                    <img src="/img/portfolio/drone1.png" alt="Drone Foto / Video (Partner)"
+                                        class="img-responsive center-block">
                                 </div>
-                                ドローン撮影
+                                Drone Foto / Video (Partner)
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/sunlife-flyer.jpg" alt="リーフレット制作＆印刷" class="img-responsive center-block">
+                                    <img src="/img/portfolio/drone2.png" alt="Drone Foto / Video (Partner)"
+                                        class="img-responsive center-block">
                                 </div>
-                                リーフレット制作＆印刷
+                                Drone Foto / Video (Partner)
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/sunlife-banner.jpg" alt="バナー制作" class="img-responsive center-block">
+                                    <img src="/img/portfolio/sunlife-flyer.jpg" alt="Sunlife Flyer"
+                                        class="img-responsive center-block">
                                 </div>
-                                バナー制作
+                                Flyer
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/sunlife-polo-shirt.jpg" alt="ユニフォーム制作" class="img-responsive center-block">
+                                    <img src="/img/portfolio/sunlife-banner.jpg" alt="Sunlife Roll Up Banner"
+                                        class="img-responsive center-block">
                                 </div>
-                                ユニフォーム制作
+                                Roll Up Banner
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/Eria.jpg" alt="チラシ制作＆印刷" class="img-responsive center-block">
+                                    <img src="/img/portfolio/sunlife-polo-shirt.jpg" alt="Sunlife Polo Shirt"
+                                        class="img-responsive center-block">
                                 </div>
-                                チラシ制作＆印刷
+                                Polo Shirt
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/bumbu-warasa-1.jpg" alt="プロダクトデザイン" class="img-responsive center-block">
+                                    <img src="/img/portfolio/Eria.jpg" alt="ERIA" class="img-responsive center-block">
                                 </div>
-                                プロダクトデザイン
+                                ERIA
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/minum-warasa-1.jpg" alt="プロダクトデザイン" class="same-height img-responsive center-block">
+                                    <img src="/img/portfolio/bumbu-warasa-1.jpg" alt="Product Design (Ikeda Toka)"
+                                        class="img-responsive center-block">
                                 </div>
-                                プロダクトデザイン
+                                Product Design (Ikeda Toka)
+                            </div>
+                            <div class="other-client-item">
+                                <div class="img-thumb">
+                                    <img src="/img/portfolio/minum-warasa-1.jpg" alt="Product Design (Ikeda Toka)"
+                                        class="same-height img-responsive center-block">
+                                </div>
+                                Product Design (Ikeda Toka)
                             </div>
                             <div class="other-client-item">
                                 <video class="vd-log same-height" poster="/img/portfolio/video-jfe.jpg" controls>
                                     <source src="/img/portfolio/JFE-video.webm" type="video/webm" />
                                     <source src="/img/portfolio/JFE-video.mp4" type="video/mp4" />
                                 </video>
-                                コーポレート動画撮影＆制作
+                                JFE Shoji Video
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/caroline-1.jpg" alt="フライヤー制作＆印刷" class="img-responsive center-block"
-                                        style="height: 224px">
+                                    <img src="/img/portfolio/caroline-1.jpg" alt="Caroline Flyer"
+                                        class="img-responsive center-block" style="height: 224px">
                                 </div>
-                                フライヤー制作＆印刷
+                                Caroline Flyer
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/sunlife-book.jpg" alt="販促＆配布品制作" class="img-responsive center-block"
-                                        style="height: 224px">
+                                    <img src="/img/portfolio/sunlife-book.jpg" alt="SunLife Notebook"
+                                        class="img-responsive center-block" style="height: 224px">
                                 </div>
-                                販促＆配布品制作
+                                SunLife Notebook
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/sunlife-book2.jpg" alt="販促＆配布品制作" class="img-responsive center-block"
-                                        style="height: 224px">
+                                    <img src="/img/portfolio/sunlife-book2.jpg" alt="SunLife Notebook"
+                                        class="img-responsive center-block" style="height: 224px">
                                 </div>
-                                販促＆配布品制作
+                                SunLife Notebook
                             </div>
                             <div class="other-client-item">
                                 <div class="img-thumb">
-                                    <img src="/img/portfolio/60jpid_catalog.png" alt="カタログ制作＆印刷" class="img-responsive center-block"
-                                        style="height: 224px">
+                                    <img src="/img/portfolio/60jpid_catalog.png" alt="60th JPID Anniversary catalog"
+                                        class="img-responsive center-block" style="height: 224px">
                                 </div>
-                                カタログ制作＆印刷
+                                60th Anniversary catalog
                             </div>
                         </div>
 
@@ -2185,11 +2503,14 @@
 
             <div class="container__">
                 <div class="text-center our-portfolio">
-                    <p class="title__description" style="margin-bottom: 15px; margin-top: 25px;">
-                        政府系団体や大手金融機関と多く長い期間に渡りお仕事させていただいていることが当社の仕事のクオリティを裏付けるものと考えています。</p>
+                    <p class="title__description" style="margin-bottom: 15px; margin-top: 25px;">Contact us and we will
+                        present to
+                        you our previous portfolios
+                        regarding development,
+                        maintenance and operation. You can contact us from here:</p>
                     <a href="contact.php" class="btn btn-contact-us-black"
                         onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
-                        制作開発実績のお問い合わせ
+                        Contact us for LOGIQUE's portfolio
                     </a>
                 </div>
             </div>
@@ -2202,6 +2523,7 @@
         <script>
         $('.same-height').matchHeight();
         $('.col-md-4.col-xs-6').matchHeight();
+
 
         $('.slider-other-client-container').slick({
             dots: false,
@@ -2235,9 +2557,6 @@
                         adaptiveHeight: true
                     }
                 }
-                // You can unslick at a given breakpoint now by adding:
-                // settings: "unslick"
-                // instead of a settings object
             ]
         });
         $('.mobile-app-container').slick({
@@ -2252,19 +2571,13 @@
             speed: 300,
             slidesToShow: 1,
             slidesToScroll: 1,
-
+            slickSetOption: true,
         });
         $('#PWA .btn-more-portfolio').on('click', function() {
             $('.mobile-app-container').resize();
         });
         </script>
-        <script>
-        function jump(h) {
-            var top = document.getElementById(h).offsetTop;
-            window.scrollTo(0, top);
-        }
-        </script>
-    </div>
+    </div>   
 </body>
 
 </html>
