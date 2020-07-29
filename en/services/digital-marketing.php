@@ -285,7 +285,7 @@
                     <div class="col-md-6">
                         <ul class="nav nav-pills variety__list">
                             <li data-list-item="1." class="active"><a href="#variety_list_1" data-toggle="pill" aria-controls="variety_list_1" aria-selected="true">Diagnosis / Media Maintenance / Media Operation</a></li>
-                            <li data-list-item="2."><a href="#variety_list_2" data-toggle="pill" aria-controls="variety_list_2" aria-selected="false">Diagnosis / Media Maintenance / Media Operation > Search Engine Optimization (SEO)</a></li>
+                            <li data-list-item="2."><a href="#variety_list_2" data-toggle="pill" aria-controls="variety_list_2" aria-selected="false">Search Engine Optimization (SEO)</a></li>
                             <li data-list-item="3."><a href="#variety_list_3" data-toggle="pill" aria-controls="variety_list_3" aria-selected="false">Paid Ads / Media Buying</a></li>
                             <li data-list-item="4."><a href="#variety_list_4" data-toggle="pill" aria-controls="variety_list_4" aria-selected="false">Social Media Service / Social Network Service</a></li>
                         </ul>
@@ -297,13 +297,13 @@
                                     We will <span>improve the performance</span> of the media you have to be able to monetize and produce conversions. If you don't have your own media, don't hesitate to contact us who will always be ready to become your business partner in developing a Website or Application that suits your needs. Website Creation Services
                                 </div>
                                 <div id="variety_list_2" class="tab-pane fade">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, in?
+                                    Increasing organic traffic is very important in your website monetization efforts. We have a lot of experience in tackling SEO projects in Indonesian and English, and LOGIQUE has proven successful in search engine optimization efforts with various types of keyword categories ranging from finance to automotive. We are also ready to provide ongoing consultation in an effort to improve the quality of your website on each search engine, to modify the website pages based on the stages and SEO methods that apply.
                                 </div>
                                 <div id="variety_list_3" class="tab-pane fade">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum obcaecati quod nemo ab, eaque sit!
+                                    The effectiveness of Digital Ads is greatly influenced by market or audience targeting. Our experienced team will conduct in-depth analysis, from the services or products you offer, the Unique Selling Points you have, the available market opportunities or potentials, to your audience / consumer profiling, synergizing any data available offline or online to get audience groups with high targeting accuracy. To guarantee every penny you invest works effectively.
                                 </div>
                                 <div id="variety_list_4" class="tab-pane fade">
-                                    Lorem ipsum dolor sit amet.
+                                    We are ready to be a part of increasing fans, followers, engagement, and customers for your business through the efforts to utilize and optimize your social media. The methods we use start from content planning / posting, copywriting, post / content creation (banner / Image / video), responding to comments, interacting with fans, etc.
                                 </div>
                             </div>
                         </div>
@@ -399,7 +399,9 @@
         <section class="dm__teamwork">
             <div class="container__ text-center">
                 <h2>How Logique's Team Work</h2><br>
-                <img src="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" alt="" class="img-responsive">
+                <a href="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" data-toggle="lightbox">
+                    <img src="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" alt="" class="img-responsive">
+                </a>
             </div>
         </section>
 
@@ -939,6 +941,13 @@
     </div>
 
     <?php include '../footer.php'; ?>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
+    <script>
+        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+            event.preventDefault();
+            $(this).ekkoLightbox();
+        });
+    </script>
 </body>
 
 </html>

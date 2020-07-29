@@ -1470,6 +1470,11 @@ ul.medsos-new li a {
 }
 
 /* new design */
+.content-area__seo .container__ {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
 .content-area__seo h1,
 .content-area__seo h2 {
   font-size: 28px;
@@ -1558,6 +1563,15 @@ ul.medsos-new li a {
   border-radius: 5px;
   font-weight: 800 !important;
 }
+
+@media (max-width: 991.98px) {
+  .solution__wrapper > .row {
+    flex-wrap: wrap;
+  }
+  .solution__wrapper > .row p {
+    text-align: center;
+  }
+}
 /* end seo solution */
 
 .seo__effort {
@@ -1583,6 +1597,7 @@ ul.medsos-new li a {
 .seo__services .nav-pills {
   margin-bottom: 20px;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .seo__services .nav-pills > li {
@@ -1615,8 +1630,10 @@ ul.medsos-new li a {
   border-color: #000;
 }
 
+.seo__services .services__pills .nav-pills > li.active > a:hover,
 .seo__services .services__pills .nav-pills > li.active > a {
   background-color: #ffca13;
+  border-color: #ffca13;
   color: #000;
 }
 
@@ -1628,7 +1645,8 @@ ul.medsos-new li a {
   display: flex;
 }
 
-.seo__services .tab-content__text p {
+.seo__services section:not(.services__contribution) .tab-content__text p,
+.seo__services .tab-content__text ul {
   margin-bottom: 30px;
 }
 
@@ -1672,7 +1690,56 @@ ul.medsos-new li a {
   background: url('/en/services/digital-marketing/img/img-seo-optimization/service-pills-bg.png') bottom/cover no-repeat;
 }
 
-.seo__services .services__contribution .services__pills .tab-content .row {
+.seo__services .services__contribution .services__pills .row {
+  display: flex;
+  flex-wrap: wrap;
   align-items: center;
+}
+
+@media (max-width: 1199.98px) {
+  .seo__services .nav-pills > li {
+    flex-basis: 19%;
+    max-width: 20%;
+  }
+  .services__contribution .nav-pills > li {    
+    flex-basis: auto;
+    max-width: unset;
+  }
+  .seo__services .services__pills .nav-pills > li:not(:last-child) > a {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .seo__services .nav-pills > li {
+    flex-basis: 33%;
+    max-width: 33%;
+  }
+  .services__contribution .nav-pills > li {    
+    flex-basis: 24%;
+    max-width: 25%;
+  }
+  .seo__services .tab-content > div > .row {
+    flex-wrap: wrap;
+  }
+  .seo__services .tab-content__img > div {
+    min-height: 190px;
+    padding-bottom: 20px;
+  }
+  .services__contribution .contribution__img {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto 10px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .seo__services .nav-pills > li {
+    flex-basis: 49%;
+    max-width: 50%;
+  }
+  .seo__services .services__pills .nav-pills > li > a {
+    min-width: unset;
+  }
 }
 /* end seo services */

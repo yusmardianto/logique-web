@@ -48,6 +48,7 @@
 .dm__links .links__item h3 {
     position: relative;
     width: max-content;
+    font-weight: 800 !important;
 }
 
 .dm__links .links__item h3:after {
@@ -64,12 +65,56 @@
 .dm__links .links__item  p {
     font-size: 16px;
 }
+
+@media (max-width: 1199.98px) {
+    .dm__links .links__item::before {
+        height: 280px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .dm__links .links__item h3 {
+        font-size: 20px;
+    }
+    .dm__links .links__item  p {
+        font-size: 14px;
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .dm__links .links__item {
+        height: 320px;
+        padding: 10px;
+    }
+    .dm__links .links__item::after {
+        width: 48px;
+        height: 48px;
+    }
+    .dm__links .links__item::before {
+        bottom: -150px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .dm__links .links__item {
+        margin-bottom: 20px;
+    }
+    .dm__links .links__item {
+        padding: 25px;
+    }
+    .dm__links .links__item::before {
+        bottom: -140px;
+        transform: rotate(4deg) translateX(-50%);
+    }
+}
 </style>
 
 <section class="dm__links">
     <div class="container__">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-sm-4 col-xs-12">
                 <a href="#" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-about.jpg')">
                     <div>
                         <h3>About</h3>
@@ -77,7 +122,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-md-4">
+            <div class="col-sm-4 col-xs-12">
                 <a href="#" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-ourwork.jpg')">
                     <div>
                         <h3>Our Work</h3>
@@ -85,7 +130,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-md-4">
+            <div class="col-sm-4 col-xs-12">
                 <a href="#" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-faq.jpg')">
                     <div>
                         <h3>FAQ</h3>
