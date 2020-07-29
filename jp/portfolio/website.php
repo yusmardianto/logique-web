@@ -153,11 +153,11 @@
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
                                 itemtype="http://schema.org/BreadcrumbList">
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="index.php"><span itemprop="name">Home</span></a>
+                                        href="index.php"><span itemprop="name">ホーム</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio.php"
-                                        itemprop="item"><span itemprop="name">&nbsp;Portfolio</span></a>
+                                        itemprop="item"><span itemprop="name">&nbsp;制作・開発実績</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a

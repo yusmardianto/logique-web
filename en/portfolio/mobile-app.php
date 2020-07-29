@@ -110,13 +110,12 @@
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
                             <div class="container">
+                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                                 <ul class="list-inline">
                                     <li class="active"><a href="#">EN</a></li>
-                                    <li><a href="/portofolio/mobiel-app.php">ID</a></li>
-                                    <li><a href="/jp/portfolio/mobiel-app.php">JP</a></li>
+                                    <li><a href="/portofolio/mobile-app.php">ID</a></li>
+                                    <li><a href="/jp/portfolio/mobile-app.php">JP</a></li>
                                 </ul>
-                                <a href="index.php"><img src="/img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
                     </div>
@@ -231,6 +230,30 @@
                                     <div>
                                         <img src="/img/portfolio/update/mobile-frangipani.png" alt="">
                                         <h3>Frangipani Esthetics Guest Comment App</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-inspection-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-jba-inspection.png" alt="">
+                                        <h3>JBA Inspection</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-otomart-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-otomart.png" alt="">
+                                        <h3>Otomart - Used Car on Sale Finder App</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-vipplaza-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-vipplaza.png" alt="">
+                                        <h3>VIP Plaza PWA</h3>
                                     </div>
                                 </div>
                             </div>

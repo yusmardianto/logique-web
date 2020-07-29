@@ -232,6 +232,30 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-inspection-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-jba-inspection.png" alt="">
+                                        <h3>JBA Inspection</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-otomart-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-otomart.png" alt="">
+                                        <h3>Otomart - Used Car on Sale Finder App</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-vipplaza-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-vipplaza.png" alt="">
+                                        <h3>VIP Plaza PWA</h3>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
