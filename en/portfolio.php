@@ -353,13 +353,13 @@
                 <div class="container__">
                     <h2 class="text-center">System Development</h2>
                     <div class="content__wrapper">
-                        <div class="row">
+                        <div class="flex__row">
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
                                 <div class="item__img">
                                     <img src="/img/portfolio/update/sys-jba.png" alt="">
                                 </div>
                                 <h3>JBA Indonesia; Online Car Auction System Development</h3>
-                                <p>Pengembangan Aplikasi Mobile ( Pengembangan sistem inspeksi kendaraan dan sistem penilaian)</p>
+                                <p>Mobile App Development (Inspection & Quality Scoring System).</p>
                             </div>
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
                                 <div class="item__img">
@@ -373,14 +373,14 @@
                                     <img src="/img/portfolio/update/sys-zuttoride.png" alt="">
                                 </div>
                                 <h3>ZuttoRide Indonesia; CRM DevOps</h3>
-                                <p>Pengembangan sistem manajemen pelanggan ( WEB-CRM ) untuk perusahaan layanan sepeda motor di Indonesia.</p>
+                                <p>WEB-CRM system development for a motorcycle service company.</p>
                             </div>
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
                                 <div class="item__img">
                                     <img src="/img/portfolio/update/sys-sinarmas.png" alt="">
                                 </div>
                                 <h3>Sinar Mas Land; HRS Development</h3>
-                                <p>Pengembangan Sistem Rekrutmen dan Tes Psikologi Online.</p>
+                                <p>E-Recruitment System and Online Psychological Test Development.</p>
                             </div>
                         </div>
                     </div>

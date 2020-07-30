@@ -15,7 +15,7 @@
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
         content="LOGIQUEの制作実績を紹介します。ホームページ制作、Webシステム開発、モバイルアプリ開発、SNS運用やSEO、インターネット広告などデジタルマーケティング実施の実績紹介です。LOGIQUEはジャカルタのウェブ制作会社です。インドネシアでの制作開発プロジェクトのケーススタディーも幾つか紹介します。">
-    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア</title>
 
     <!-- Bootstrap -->
@@ -360,13 +360,13 @@
                 <div class="container__">
                     <h2 class="text-center">システム開発実績</h2>
                     <div class="content__wrapper">
-                        <div class="row">
+                        <div class="flex__row">
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
                                 <div class="item__img">
                                     <img src="/img/portfolio/update/sys-jba.png" alt="">
                                 </div>
                                 <h3>JBA Indonesia; Online Car Auction System Development</h3>
-                                <p>Pengembangan Aplikasi Mobile ( Pengembangan sistem inspeksi kendaraan dan sistem penilaian)</p>
+                                <p>モバイルアプリ開発 (検品＆品質スコアリングシステム).</p>
                             </div>
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
                                 <div class="item__img">
@@ -380,14 +380,14 @@
                                     <img src="/img/portfolio/update/sys-zuttoride.png" alt="">
                                 </div>
                                 <h3>ZuttoRide Indonesia; CRM DevOps</h3>
-                                <p>Pengembangan sistem manajemen pelanggan ( WEB-CRM ) untuk perusahaan layanan sepeda motor di Indonesia.</p>
+                                <p>ロードサービス事業者向けWEB-CRMシステム開発.</p>
                             </div>
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
                                 <div class="item__img">
                                     <img src="/img/portfolio/update/sys-sinarmas.png" alt="">
                                 </div>
-                                <h3>Sinar Mas Land; HRS Development</h3>
-                                <p>Pengembangan Sistem Rekrutmen dan Tes Psikologi Online.</p>
+                                <h3>シナールマスランド</h3>
+                                <p>不動産開発業者向け採用管理システム構築.</p>
                             </div>
                         </div>
                     </div>

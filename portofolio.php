@@ -351,7 +351,7 @@
                 <div class="container">
                     <h2 class="text-center">Aplikasi Berbasis Web</h2>
                     <div class="content__wrapper">
-                        <div class="row">
+                        <div class="flex__row">
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
                                 <div class="item__img">
                                     <img src="/img/portfolio/update/sys-jba.png" alt="">
@@ -365,7 +365,6 @@
                                 </div>
                                 <h3>Assa <br>System Development</h3>
                             </div>
-                            <div class="clearfix visible-sm"></div>
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
                                 <div class="item__img">
                                     <img src="/img/portfolio/update/sys-zuttoride.png" alt="">
