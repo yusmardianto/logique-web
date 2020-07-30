@@ -331,7 +331,7 @@
                   <img src="/img/top/i-hiring-site-update.png" alt="hr site">
                 </div>
               <div class="item__text">
-                <h4>Custom Hiring Site</h4>
+                <h4>Custom Recruitment Website</h4>
                 <p>ほかに御社の採用Webサイトを制作するソリューションも提供しています。デジタルマーケティングを実施してターゲットとなる求職者に御社での仕事をアピールし、採用Webでメリット訴求し、Sugoi採用でストレスなく採用プロセスに入ってもらうという一連の流れをご支援しています。</p>
                 <a href="services/recruitment-web-dev.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
               </div>
