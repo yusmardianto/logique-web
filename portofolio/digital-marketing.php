@@ -111,9 +111,9 @@
                             <div class="container">
                                 <a href="index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
                                 <ul class="list-inline">
-                                    <li><a href="/en/portofolio/digital-marketing.php">EN</a></li>
+                                    <li><a href="/en/portfolio/digital-marketing.php">EN</a></li>
                                     <li class="active"><a href="#">ID</a></li>
-                                    <li><a href="/jp/portofolio/digital-marketing.php">JP</a></li>
+                                    <li><a href="/jp/portfolio/digital-marketing.php">JP</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -205,6 +205,13 @@
                                     <p>SEO | Website Maintenance</p>
                                 </div>
                             </div>
+                            <!-- <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/opus-park-facebook.png')">
+                                    <img src="/img/portfolio/update/dm-pilipili.png" alt="">
+                                    <h4>Opus Park (Facebook)</h4>
+                                    <p>(Google Ads, FB/IG Ads, SNS Operation, SEO Website)</p>
+                                </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
