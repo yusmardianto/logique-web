@@ -371,7 +371,7 @@
                 <img src="/img/top/i-hiring-site-update.png" alt="">
               </div>
               <div class="item__text">
-                <h4>Custom Hiring Site</h4>
+                <h4>Custom Recruitment Website</h4>
                 <p>Situs web rekrutmen Anda sendiri dapat menjadi kunci untuk membuat recruitment efektif dan efisien! Kami menawarkan pembuatan web/software yang dapat membantu HRD untuk menghubungkan perusahaan dan kandidat.</p>
                 <a href="/layanan/pembuatan-web-karir.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
               </div>

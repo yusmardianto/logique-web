@@ -369,7 +369,7 @@
                                 <img src="/img/top/i-hiring-site-update.png" alt="">
                             </div>
                             <div class="item__text">
-                                <h4>Custom Hiring Site</h4>
+                                <h4>Custom Recruitment Website</h4>
                                 <p>Your own recruitment website can be the key to make the process effective and efficient! We offer recruitment software which can assist Human Resources through connecting job seekers and employers.</p>
                                 <a href="/en/services/recruitment-web-dev.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
                             </div>
