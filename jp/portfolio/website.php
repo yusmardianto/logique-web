@@ -15,7 +15,7 @@
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
         content="LOGIQUEの制作実績を紹介します。ホームページ制作、Webシステム開発、モバイルアプリ開発、SNS運用やSEO、インターネット広告などデジタルマーケティング実施の実績紹介です。LOGIQUEはジャカルタのウェブ制作会社です。インドネシアでの制作開発プロジェクトのケーススタディーも幾つか紹介します。">
-    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア</title>
 
     <!-- Bootstrap -->
