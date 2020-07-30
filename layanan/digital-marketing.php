@@ -13,7 +13,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Digital Marketing | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/style-ori.css" rel="stylesheet">
     <link href="assets/css/style-digital-marketing.css" rel="stylesheet">
     <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet"> -->
     <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
@@ -40,7 +40,7 @@
     <!-- End Twitter universal website tag code -->
 </head>
 
-<body class="wrapper wrapper--update-design" style="overflow-x: hidden;">
+<body class="wrapper wrapper--update-design wrapper--update-design-font" style="overflow-x: hidden;">
     <style>
     .--top {
         background-color: black;
@@ -136,13 +136,12 @@
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
                         <div class="container">
+                            <a href="/"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
                             <ul class="list-inline">
                                 <li><a href="/en/services/digital-marketing.php">EN</a></li>
                                 <li class="active"><a href="#">ID</a></li>
                                 <li><a href="/jp/services/digital-marketing.php">JP</a></li>
                             </ul>
-                            <a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                                    class="img-responsive logo--update-design" /></a>
                         </div>
                     </div>
                 </div>
@@ -151,9 +150,20 @@
     </div>
     <!-- END HEADER -->
 
-    <div class="content-wrapper__">
+    <div class="dm content-wrapper__">
 
-        <section class="--top">
+        <section class="dm__banner --top" style="margin-top: 64px;">
+            <div class="container__">
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8 text-center">
+                        <h1>Layanan Pemasaran Digital  360<sup>o</sup></h1>
+                        <p>Di <strong>LOGIQUE</strong>, kami memberikan pelayanan untuk setiap kebutuhan pemasaran digital. Mulai dari perencanaan, produksi, pengoperasian, perawatan, hingga monetisasi.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="dm__pagination">
             <div class="container__" style="padding:0">
                 <div class="row">
                     <div class="col-sm-12">
@@ -176,476 +186,216 @@
             </div>
         </section>
 
-        <div class="div-top">
-            <h1 class="title">
-                <div class="container__" style="padding-top: 0; padding-bottom:0;">
-                    <div class="row">
-                        <div class="col-md-12 text-center">
-                            <img src="assets/img/img-digital-marketing/logo.png" alt="Logo" />
-                            LOGIQUE Digital Marketing
-                        </div>
-                    </div>
-                </div>
-            </h1>
-            <br /><br />
-            <div class="hidden-xs"><br /></div>
-            <div class="container__">
-                <div class="row">
-                    <div class="col-md-7">
-                        <div class="hidden-xs"><br /><br /></div>
-                        <div class="bg-black-title inline-block">
-                            Sukseskan Bisnis Anda!
-                        </div>
-                        <img class="google-badge --inpage" src="/img/google-badge.png" alt="Google Badge">
-                        <div>
-                            <br />
-                            Menghadapi era digital saat ini tentunya membuat tantangan tersendiri, terutama bagi dunia bisnis dan usaha agar dapat
-                            sukses
-                            dan berhasil. LOGIQUE, perusahaan digital marketing profesional asal Jepang yang berpusat di Jakarta, memberikan solusi
-                            atas
-                            tantangan tersebut dengan menawarkan jasa layanan pemasaran digital.<br><br>Dengan pengalaman kami selama lebih dari 5
-                            tahun
-                            di dunia digital, tentu membuat kami mengerti dan memahami secara menyeluruh terutama mengenai bagaimana bisnis bisa
-                            bersaing
-                            dan berhasil di dunia digital. Kami siap memberikan Anda solusi untuk meningkatkan profit bisnis Anda dengan pemanfaatan
-                            dunia
-                            digital!<br /><br />
-                        </div>
-                    </div>
-                    <div class="col-md-5">
-                        <img src="assets/img/img-digital-marketing/img-top.png" alt="Image Top" class="img-fluid center-block" />
-                    </div>
-                </div>
-                <br /><br /><br />
-                <div class="row">
-                    <div class="col-md-offset-1 col-md-10">
-                        <div class="bg-black-title">
-                            Masalah yang Sering Terjadi
-                        </div>
-                        <div class="masalah-top">
-                            <div class="row">
-                                <div class="col-md-offset-2 col-md-8">
-                                    <div class="one-problem">
-                                        <b>Agensi Iklan Digital, SEO, dan Desain tidak dapat saling bekerja sama dengan baik</b><br />
-                                        Selain pemasaran iklan, digital marketing sejatinya juga mencakup Search Engine Optimization (SEO) yang tepat
-                                        dan
-                                        desain yang menarik. Namun, masih sulit ditemukan perusahaan yang mampu menangani tiga elemen tersebut
-                                        sekaligus.
-                                        Untuk itu, banyak pelaku bisnis akhirnya menggunakan agensi-agensi terpisah. Dalam hal ini, masalah yang
-                                        sering
-                                        dikeluhkan adalah kegagalan komunikasi dan kerja sama yang terjalin di antara ketiganya. <br><br>Anda tidak
-                                        akan
-                                        menemukan masalah tersebut di LOGIQUE. Selain menjalankan kampanye iklan digital tertarget, kami juga
-                                        menyediakan
-                                        jasa maksimalisasi SEO untuk website, serta pembuatan desain baik untuk iklan, konten produk, maupun
-                                        pembaharuan
-                                        website Anda.
-
-                                    </div>
-                                    <div class="one-problem">
-                                        <b>Lalu lintas visitor website hanya bergantung pada iklan</b><br />
-                                        Setelah masa berjalannya iklan digital berakhir, banyak pelaku bisnis menemukan bahwa traffic website mereka
-                                        menjadi turun drastis. LOGIQUE menyajikan layanan yang menyeimbangkan Search Engine Marketing (SEM) dan SEO.
-                                        Dengan demikian, traffic yang website Anda dapatkan tidak hanya dari iklan, melainkan juga secara organik dari
-                                        target bisnis Anda lewat mesin pencarian populer (Google, Bing, dll). Optimasi ini akan kami lakukan secara
-                                        berkala sesuai kebutuhan Anda.
-                                    </div>
-                                    <div class="one-problem">
-                                        <b>Strategi digital marketing yang diterapkan tidak sesuai dengan tujuan bisnis</b><br />
-                                        Pemasaran digital memiliki banyak sekali varian objektif kampanye, dan strategi yang diterapkan pun bisa
-                                        bermacam-macam. Banyak pelaku bisnis yang masih salah dalam menentukan objektif dan strategi digital marketing
-                                        yang tepat dan sesuai dengan tujuan atau target bisnisnya, sehingga dana pemasaran produk pun terbuang
-                                        sia-sia.
-                                        <br><br>Dengan LOGIQUE, bisnis Anda akan dianalisis terlebih dahulu dengan cermat secara keseluruhan, termasuk
-                                        kemungkinan kompetitor yang ada. Setelah itu, kami akan menawarkan strategi dan pendekatan terbaik yang sesuai
-                                        dengan tujuan dan target bisnis Anda, sehingga Anda dapat memastikan bahwa bisnis Anda akan ditangani dengan
-                                        tepat.
-                                    </div>
-                                    <div class="one-problem">
-                                        <b>Konten marketing yang dibuat kurang menarik target</b><br />
-                                        Pembuatan konten yang terlalu kaku atau berlebihan tentu tidak akan menarik audiens yang menjadi target bisnis
-                                        Anda. LOGIQUE paham, konten dalam SEM memiliki kemasan yang berbeda dengan SEO. Selain kreatif dan menarik
-                                        audiens, konten marketing yang sukses perlu mengikuti karakter perhitungan algoritma masing-masing platform
-                                        iklan
-                                        digital (Search Ads, FB Ads, dll). LOGIQUE selalu memastikan konten marketing Anda dibuat secara kreatif, bila
-                                        perlu dengan desain yang juga menarik, yang tertarget dan tentunya memberikan hasil (conversion) untuk bisnis
-                                        Anda.
-                                    </div>
-                                </div>
+        <section class="dm__services">
+            <div class="container__ text-center">
+                <p>Sebagai perusahaan pengembang website terkemuka, LOGIQUE menyediakan berbagai layanan seperti Website Development, Pembuatan Content (Banner, Video, Article, Infographics, etc), Media Buying (Paid Ads Media), Social Network Services, Search Engine Optimization, Content Marketing, etc.</p>
+                <div class="row services__list">
+                    <div class="col-md-offset-2 col-md-8">
+                        <p>Dengan beragam objektif seperti,</p>
+                        <div class="row text-left list__wrapper">
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-awareness.svg" alt="">
+                                <p>Brand Awareness</p>
+                            </div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-sales.svg" alt="">
+                                <p>Sales</p>
+                            </div>
+                            <div class="clearfix hidden-sm"></div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-brand.svg" alt="">
+                                <p>Brand Consideration</p>
+                            </div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-purchase.svg" alt="">
+                                <p>Purchase</p>
+                            </div>
+                            <div class="clearfix hidden-sm"></div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-engagement.svg" alt="">
+                                <p>Brand Engagement</p>
+                            </div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-leads.svg" alt="">
+                                <p>Leads, & etc.</p>
                             </div>
                         </div>
-                        <div class="masalah-bottom">
-                            <div class="row">
-                                <div class="col-md-offset-2 col-md-8">
-                                    Jika Anda mengalami hal-hal tersebut, digital marketing dapat menjadi solusi tepat dan Logique siap untuk menjadi
-                                    mitra pemasaran digital Anda.
+                    </div>
+                </div>
+                <p>Yang dapat diimplementasikan untuk beragam jenis mekanisme bisnis mulai dari Online to Online, Online to Offline, Business to Business, Business to Customers, dll. </p>
+            </div>
+        </section>
+
+        <section class="dm__trend">
+            <div class="container__ text-center">
+                <h2>Trend Pemasaran</h2>
+                <p>Trend pemasaran telah berubah sangat drastic, Digital Marketing menjadi standar penting untuk kegiatan usaha hampir di setiap jenis industry.</p>
+                <img src="/en/services/assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive">
+                <p>Dengan memanfaatkan pengalaman kami selama bertahun-tahun yang sukses dalam pengembangan banyak bisnis dalam maupun luar negeri, dan didukung dengan team professional yang memiliki kemampuan teknis dalam pengembangan system web yang mutakhir dan team kreatif dengan skill desain dan penulisan konten, Kami percaya, kami mampu memberikan kesuksesan yang nyata untuk bisnis Anda.</p>
+            </div>
+        </section>
+
+        <section class="dm__get">
+            <div class="container__ text-center">
+                <h2>Apa yang bisa Anda dapatkan dari Pemasaran Digital?</h2>
+                <div class="row get__list">
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-awareness.png" class="img-responsive" alt="">
+                            <p>Meningkatkan <br> kesadaran merk</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-sales.png" class="img-responsive" alt="">
+                            <p>Meningkatkan Angka <br> Penjualan / Transaksi</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-user.png" class="img-responsive" alt="">
+                            <p>Meningkatkan database <br> pengguna / pelanggan</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-interaction.png" class="img-responsive" alt="">
+                            <p>Meningkatkan interaksi <br> pengguna </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="dm__variety">
+            <div class="container__">
+                <h2 class="text-center">Kami menyediakan berbagai layanan Pemasaran Digital <br> untuk memenuhi berbagai permintaan seperti:</h2>
+                <div class="flex__row">
+                    <div class="col-md-6">
+                        <ul class="nav nav-pills variety__list">
+                            <li data-list-item="1." class="active"><a href="#variety_list_1" data-toggle="pill" aria-controls="variety_list_1" aria-selected="true">Diagnosis / Media Maintenance / Media Operation</a></li>
+                            <li data-list-item="2."><a href="#variety_list_2" data-toggle="pill" aria-controls="variety_list_2" aria-selected="false">Search Engine Optimization (SEO)</a></li>
+                            <li data-list-item="3."><a href="#variety_list_3" data-toggle="pill" aria-controls="variety_list_3" aria-selected="false">Paid Ads / Media Buying</a></li>
+                            <li data-list-item="4."><a href="#variety_list_4" data-toggle="pill" aria-controls="variety_list_4" aria-selected="false">Social Media Service / Social Network Service</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="variety__content">
+                            <div class="tab-content">
+                                <div id="variety_list_1" class="tab-pane fade in active">
+                                    Kami akan <span>meningkatkan performa</span> media yang Anda miliki agar mampu dimonetisasi dan menghasilkan konversi. Jika Anda belum memiliki media sendiri, jangan ragu untuk menghubungi kami yang akan selalu siap menjadi partner bisnis Anda dalam pengembangan Website maupun Aplikasi yang sesuai dengan kebutuhan Anda.<a target="_blank" href="/en/services/web-dev.php">Jasa Pembuatan Website</a>
+                                </div>
+                                <div id="variety_list_2" class="tab-pane fade">
+                                    Meningkatkan traffic organic sangatlah penting dalam upaya monetisasi website Anda. Kami memiliki banyak pengalaman dalam penanggulangan proyek-proyek SEO dalam bahasa Indonesia dan Inggris, dan LOGIQUE telah terbukti sukses dalam upaya pengoptimalan mesin pencarian dengan beragam jenis kategori kata kunci mulai dari keuangan hingga otomotif. Kami juga siap memberikan konsultasi yang berkelanjutan dalam upaya peningkatan kualitas website Anda pada setiap mesin pencari, hingga memodifikasi halaman website berdasarkan tahapan dan kaedah SEO yang berlaku.
+                                </div>
+                                <div id="variety_list_3" class="tab-pane fade">
+                                    Efektifitas Ads Digital sangat dipengaruhi oleh penargetan pasar atau pemirsa. Tim berpengalaman kami akan melakukan analisa mendalam, mulai dari service atau produk yang Anda tawarkan, Unique Selling Point yang Anda miliki, Peluang atau potensi market yang tersedia, hingga profiling audience / konsumen Anda, mensinergikan setiap data yang tersedia offline maupun online hingga mendapatkan kelompok audience dengan akurasi penargetan yang tinggi. Untuk menjamin setiap sen uang yang Anda investasikan bekerja secara efektif.
+                                </div>
+                                <div id="variety_list_4" class="tab-pane fade">
+                                    Kami siap menjadi bagian dalam peningkatan fans, followers, engagement, hingga pelanggan bagi bisnis Anda melalui upaya pemanfaatan dan pengoptimalan media social yang Anda miliki. Metode yang kami gunakan mulai dari perencanaan konten/posting, copywriting, pembuatan post/konten (banner/Image/video), menanggapi komentar, berinteraksi dengan penggemar, dll.
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
 
-        <div class="mengapa">
-            <img src="assets/img/img-digital-marketing/bubble-yellow.png" class="img-fluid bubble-yellow" alt="Bubble Yellow" />
-            <div class="container__" style="padding-top:0;">
+        <section class="dm__strong">
+            <div class="container__ text-center">
+                <h2><strong>LOGIQUE</strong>’s Strong points</h2>
+                <p>Memiliki semua keterampilan yang diperlukan untuk mengoptimalkan pemasaran digital</p>
+                <p><strong>LOGIQUE</strong> adalah perusahaan yang melibatkan banyak tenaga ahli yang berpengalaman dalam bidang,</p>
                 <div class="row">
-                    <div class="col-md-4">
-                        <br /><img src="assets/img/img-digital-marketing/img-mengapa.png" alt="Why Choose Logique Services?"
-                            class="img-mengapa img-responsive center-block" />
-                        <br />
-                        <div class="bg-black-title">Mengapa harus pilih Layanan Digital Marketing LOGIQUE?</div>
-                    </div>
-                    <div class="col-md-8">
-                        <br />
-                        <div class="hidden-sm hidden-xs"><br /><br /></div>
-                        <div class="bg-mengapa">
-                            <div class="row">
-                                <div class="col-md-offset-2 col-md-8">
-                                    <b>Profesional di bidang teknologi digital dan website</b><br /><br />
-                                    Selama lebih dari 5 tahun, LOGIQUE telah dipercaya oleh klien-klien lokal dan internasional dalam menangani segala
-                                    permasalahan mereka mengenai pemasaran digital, mulai dari SEO website, pembaharuan desain UI/UX, hingga
-                                    menjalankan
-                                    kampanye iklan digital.
-                                    <br /><br />
-                                    <b>Memiliki tim yang lengkap dan kompeten di bidangnya masing-masing</b><br /><br />
-                                    LOGIQUE memiliki tim yang lengkap dari segala bidang yang dibutuhkan, mulai dari social media dan digital ads
-                                    strategist, SEO content writer, web designer, hingga web developer. Bisnis Anda akan ditangani oleh tim yang
-                                    kreatif,
-                                    kompeten, berpengalaman, dan profesional.
-                                    <br /><br />
-                                    <b>Menggunakan prosedur yang jelas</b><br /><br />
-                                    LOGIQUE menggunakan prosedur pelaksanaan pemasaran digital yang jelas dan bertahap. Semua diawali oleh diskusi dan
-                                    pemahaman mengenai keinginan Anda, lalu penawaran strategi, konfirmasi, eksekusi, hingga pelaporan hasil secara
-                                    berkala. Setiap langkah ini dilakukan secara hati-hati agar memberikan hasil yang maksimal.
-                                    <br /><br />
-                                    <b>Bekerja secara transparan dan fleksibel</b><br /><br />
-                                    Selain memiliki prosedur yang jelas, LOGIQUE juga memberikan kebebasan bagi klien kami untuk selalu menghubungi
-                                    kami
-                                    jika perlu dilakukan perubahan atau tambahan dalam eksekusi strategi untuk bisnis Anda. Kami juga tidak
-                                    serta-merta
-                                    langsung mengeksekusi iklan digital atau optimasi lainnya tanpa persetujuan klien kami. Setiap strategi baru yang
-                                    akan
-                                    kami terapkan selalu kami laporkan secara transparan dan kami diskusikan dengan Anda, sehingga Anda selalu tahu
-                                    sedang
-                                    di tahap mana bisnis Anda sedang ditangani.
+                    <div class="col-md-offset-1 col-md-10">
+                        <div class="row dm__list-circle">
+                            <div class="col-md-3 col-sm-6">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-coding.svg" alt="" class="img-responsive">
                                 </div>
+                                <p>Pemograman</p>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-design.svg" alt="" class="img-responsive">
+                                </div>
+                                <p>Desain</p>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-writing.svg" alt="" class="img-responsive">
+                                </div>
+                                <p>Penulisan</p>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-dm.svg" alt="" class="img-responsive">
+                                </div>
+                                <p>Digital Ads</p>
                             </div>
                         </div>
                     </div>
                 </div>
+                <p>Dari strategis, hingga kreatif. Semua bekerja dalam satu atap, membuat setiap koordinasi menjadi lebih mudah, cepat, dan tepat. Inilah yang membuat kami mampu memberikan hasil yang luar biasa dalam upaya peningkatan mutu atau kualitas traffic yang kami hasilkan hingga menjadi sebuah transaksi, untuk beragam jenis website dan bisnis seperti E-commerce hingga Web Berlangganan.</p>
             </div>
-            <br />
-            <div class="hidden-xs"><br /></div>
-        </div>
+        </section>
 
-        <div class="strategi">
-            <div class="container__">
-                <div class="row">
-                    <div class="col-md-offset-1 col-md-10">
-                        <div class="yellow-bg bg-black-title">Strategi Digital Marketing LOGIQUE</div>
-                        <br /><br />
-                        <div class="row">
-                            <div class="col-sm-5">
-                                <div class="bordered-white one-sentence">
-                                    Paid Media
-                                </div>
-                            </div>
-                            <div class="col-sm-7">
-                                <div class="bordered-white">
-                                    Google Ads (Search Ads, Display Ads/GDN Ads)<br />
-                                    Facebook/Instagram Ads<br />
-                                    Desain Kreatif<br />
-                                    Analisa dan Laporan
-                                </div>
-                            </div>
+        <section class="dm__material">
+            <div class="container__ text-center">
+                <h2>Pembuatan materi iklan yang mampu meningkatkan konversi</h2>
+                <div class="row dm__list-circle dm__list-circle--white">
+                    <div class="col-md-offset-4 col-md-4">
+                        <div class="list-circle__img">
+                            <img src="/en/services/assets/img/img-digital-marketing/material-chat.svg" alt="" class="img-responsive">
                         </div>
-                        <br />
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="bg-grey">
-                                    <div class="row">
-                                        <div class="col-md-offset-1 col-md-10">
-                                            Paid Media adalah cara paling efektif untuk meningkatkan traffic dan engagement di akun media sosial
-                                            bisnis
-                                            Anda. Dengan ini, LOGIQUE dapat membantu mempromosikan bisnis Anda secara tepat dan cepat ke target yang
-                                            Anda
-                                            inginkan. Anda akan mendapatkan hasilnya dalam waktu singkat.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <br />
-                        <div class="row">
-                            <div class="col-sm-5">
-                                <div class="bordered-white one-sentence2">
-                                    Owned Media
-                                </div>
-                            </div>
-                            <div class="col-sm-7">
-                                <div class="bordered-white">
-                                    <a class="white-link" href="/layanan/digital-marketing/optimasi-seo.php">SEO Website</a><br />
-                                    Penulisan Konten<br />
-                                    AMP<br />
-                                    Desain Kreatif<br />
-                                    Analisa dan Laporan
-                                </div>
-                            </div>
-                        </div>
-                        <br />
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="bg-grey">
-                                    <div class="row">
-                                        <div class="col-md-offset-1 col-md-10">
-                                            Untuk meningkatkan traffic secara organik melalui mesin pencari, khususnya Google, LOGIQUE akan
-                                            memaksimalkan
-                                            penggunaan akun media sosial serta SEO di website Anda, mulai dari menambahkan meta tag dan keyword yang
-                                            tepat, rekreasi konten dan desain, listing, hingga perbaikan untuk halaman akses seluler (AMP).
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <br />
-                        <div class="row">
-                            <div class="col-sm-5">
-                                <div class="bordered-white one-sentence">
-                                    Earned Media
-                                </div>
-                            </div>
-                            <div class="col-sm-7">
-                                <div class="bordered-white">
-                                    Penulisan Konten<br />
-                                    Desain Kreatif<br />
-                                    Pembuatan Event<br />
-                                    Kampanye Hashtag<br />
-                                    Analisa dan Laporan<br />
-                                </div>
-                            </div>
-                        </div>
-                        <br />
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="bg-grey">
-                                    <div class="row">
-                                        <div class="col-md-offset-1 col-md-10">
-                                            Untuk mendapatkan hasil jangka panjang, penting untuk mengelola dan mengoptimalkan situs web dan akun
-                                            media
-                                            sosial yang Anda miliki. LOGIQUE akan membantu membuat dan menyebarkan konten dalam bentuk artikel, desain
-                                            poster, banner, dan video, serta menjalankan kampanye event hingga kampanye hashtag untuk bisnis Anda di
-                                            media
-                                            sosial.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <br />
                     </div>
                 </div>
+                <p>Setiap desainer yang terlibat dalam sebuah proyek adalah tenaga ahli dengan segudang pengalaman mampu menciptakan materi iklan yang dapat meningkatkan peluang terjadinya konversi.</p>
             </div>
-        </div>
+        </section>
 
-        <div class="bg-proses-kerja">
-            <div class="container__">
+        <section class="dm__analysis">
+            <div class="container__ text-center">
+                <h2>Kemampuan analysis dan strategi</h2>
+                <p>Kami memiliki tim yang berdedikasi dalam melakukan analisa dan pengembangan strategi yang tepat dan akurat, setiap strategi akan dikembangkan berdasarkan industry dan obyektif proyek yang dijalankan. Kami akan sajikan dalam bentuk proposal dengan analisa terperinci dan strategi terbaik yang disarankan. Setiap strategi juga akan mensinergikan rencana jangka panjang, jangka menengah, dan jangka pendek, yang memanfaatkan setiap aset digital yang Anda miliki dengan lebih optimal.</p>
                 <div class="row">
-                    <div class="col-md-offset-1 col-md-10">
-                        <div class="yellow-bg bg-black-title">Metode PDCA (Plan-Do-Check-Act)</div>
-                        <div class="desc-proses">
-                            <div class="row">
-                                <div class="col-md-offset-1 col-md-10">
-                                    Agar website Anda terus mendapatkan hasil yang baik sehingga profit bisnis Anda mengalami peningkatan, maka
-                                    LOGIQUE
-                                    menggunakan metode PDCA yang merupakan sebuah teknik dalam Total Quality Management. Kami terus melakukan
-                                    perbaikan
-                                    selama dan secara terus-menerus melakukan evaluasi dari hasil yang didapatkan.<br /><br />
-                                    Berikut ini adalah gambaran metode PDCA yang kami terapkan.<br /><br />
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
+                    <div class="col-md-offset-2 col-md-8">
+                        <div class="row dm__list-circle">
                             <div class="col-md-4">
-                                <img src="assets/img/img-digital-marketing/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow1" />
-                                <div class="hidden-xs hidden-sm one-process">
-                                    <img src="assets/img/img-digital-marketing/perbaikan.png" class="img-responsive center-block" alt="Perbaikan" />
-                                    <br />
-                                    <b>LAPORAN</b><br />
-                                    Setiap hasil analisa dan peningkatan yang dilakukan akan dilaporkan kepada Anda secara berkala. Laporan ini
-                                    nantinya
-                                    akan dijadikan tolok ukur untuk peningkatan strategi selanjutnya, baik untuk website, media sosial, dan hasil
-                                    jalannya
-                                    iklan.
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-long.svg" alt="" class="img-responsive">
                                 </div>
-                                <img src="assets/img/img-digital-marketing/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow4" />
-                            </div>
+                                <p>Long-term <br>Plan</p>
+                            </div>                            
                             <div class="col-md-4">
-                                <div class="one-process">
-                                    <img src="assets/img/img-digital-marketing/analisis.png" class="img-responsive center-block" alt="Analisis" />
-                                    <br />
-                                    <b>RENCANA</b><br />
-                                    Pada tahap ini, kami menyiapkan rencana strategi dan peningkatan untuk dilakukan pada periode selanjutnya.
-                                    Peningkatan
-                                    selanjutnya direncanakan secara bertahap sesuai dengan target yang ingin dicapai setiap bulannya.
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-medium.svg" alt="" class="img-responsive">
                                 </div>
-
-                                <div class="visible-sm visible-xs">
-                                    <br />
-                                    <div class="hidden-sm hidden-xs"><br /><br /><br /></div>
-                                    <div class="one-process">
-                                        <img src="assets/img/img-digital-marketing/laporan.png" class="img-responsive center-block" alt="Laporan" />
-                                        <br />
-                                        <b>PENINGKATAN</b><br />
-                                        Kami akan melakukan peningkatan baik pada website, maupun media sosial Anda. Peningkatan ini tidak hanya
-                                        dilakukan
-                                        di awal, namun juga berkala.
-                                    </div>
-                                </div>
-
-                                <br />
-                                <div class="hidden-sm hidden-xs"><br /><br /><br /></div>
-                                <div class="one-process">
-                                    <img src="assets/img/img-digital-marketing/rencana.png" class="img-responsive center-block" alt="Rencana" />
-                                    <br />
-                                    <b>ANALISIS</b><br />
-                                    Selama proses iklan dan optimasi berjalan, kami selalu melakukan analisis, monitor, dan pelacakan terhadap setiap
-                                    perubahan. Hal ini agar hasil yang didapat bisa meningkat secara bertahap.
-                                </div>
-
-                                <div class="visible-sm visible-xs">
-                                    <br />
-                                    <div class="hidden-sm hidden-xs"><br /><br /><br /></div>
-                                    <div class="one-process">
-                                        <img src="assets/img/img-digital-marketing/perbaikan.png" class="img-responsive center-block"
-                                            alt="Perbaikan" />
-                                        <br />
-                                        <b>LAPORAN</b><br />
-                                        Setiap hasil analisa dan peningkatan yang dilakukan akan dilaporkan kepada Anda secara berkala. Laporan ini
-                                        nantinya akan dijadikan tolok ukur untuk peningkatan strategi selanjutnya, baik untuk website, media sosial,
-                                        dan
-                                        hasil jalannya iklan.
-                                    </div>
-                                </div>
-
-                            </div>
+                                <p>Medium-term <br>Plan</p>
+                            </div>                            
                             <div class="col-md-4">
-                                <img src="assets/img/img-digital-marketing/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow2" />
-                                <div class="hidden-xs hidden-sm one-process">
-                                    <img src="assets/img/img-digital-marketing/laporan.png" class="img-responsive center-block" alt="Laporan" />
-                                    <br />
-                                    <b>PENINGKATAN</b><br />
-                                    Kami akan melakukan peningkatan baik pada website, maupun media sosial Anda. Peningkatan ini tidak hanya dilakukan
-                                    di
-                                    awal, namun juga berkala.
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-short.svg" alt="" class="img-responsive">
                                 </div>
-                                <img src="assets/img/img-digital-marketing/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow3" />
-                            </div>
+                                <p>Short-term <br>Plan</p>
+                            </div>                            
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
 
-        <div class="div-faq">
-            <div class="container__">
-                <div class="row">
-                    <div class="col-md-offset-1 col-md-10">
-                        <div class="yellow-bg bg-black-title">FAQ</div>
-                        <br /><br />
-                        <div class="one-faq">
-                            <b>LOGIQUE telah menangani persoalan digital marketing di bidang apa saja?</b><br />
-                            Kami telah menangani berbagai macam bidang, mulai dari properti, otomotif, hingga pemerintahan. Untuk dapat melihat
-                            seluruh
-                            klien kami, Anda dapat berkunjung ke halaman portofolio kami atau menghubungi kami melalui email di info@logique.co.id,
-                            telpon
-                            di nomor (021) 227 089 35/36, atau kirim pesan WhatsApp di nomor 0811-870-321.
-                        </div>
-                        <div class="one-faq">
-                            <b>Strategi digital marketing apa saja yang bisa LOGIQUE terapkan untuk bisnis saya?</b><br />
-                            LOGIQUE mampu menjalankan beragam strategi digital marketing, mulai dari menjalankan kampanye iklan, pengembangan media
-                            sosial
-                            (SNS), maksimalisasi SEO, dan sebagainya. Strategi ini tentunya tergantung pada target atau goal bisnis Anda seperti
-                            membangun
-                            brand awareness, meningkatkan traffic website, meningkatkan conversion/lead, dan sebagainya.
-                        </div>
-                        <div class="one-faq">
-                            <b>Berapa biaya yang dibutuhkan untuk mendapatkan layanan pemasaran digital dari LOGIQUE?</b><br />
-                            LOGIQUE menyediakan layanan pemasaran digital dengan harga yang disesuaikan dengan kebutuhan Anda. Untuk mengetahui secara
-                            mendetil, Anda dapat menghubungi kami melalui email ke info@logique.co.id atau telpon di nomor (021) 227 089 35/36, atau
-                            melalui WhatsApp di nomor 0811-870-321.
-                        </div>
-                        <div class="one-faq">
-                            <b>Kapan saya bisa melihat hasil dari strategi digital marketing yang diterapkan?</b><br />
-                            Setiap strategi yang diterapkan biasanya membutuhkan waktu minimal satu bulan untuk diketahui hasil maksimalnya. Namun,
-                            kami
-                            biasanya memberikan laporan rutin setiap awal bulan dan pertengahan bulan (midterm) agar Anda dapat mengetahui
-                            perkembangan
-                            serta hasil sementara pemasaran digital bisnis Anda.
-                        </div>
-                        <div class="one-faq">
-                            <b>Apakah layanan Digital Marketing LOGIQUE telah mencakup SEM, SEO, dan Manajemen Media Sosial?</b><br />
-                            Setiap layanan yang kami tawarkan tentunya disesuaikan dengan kebutuhan dan target atau goal bisnis Anda. Namun, jika Anda
-                            berminat, kami juga bisa memberikan ketiga layanan tersebut demi hasil yang maksimal.
-                        </div>
-                        <div class="one-faq">
-                            <b>Apakah LOGIQUE dapat mengelola media sosial perusahaan kami?</b><br />
-                            Tentu. Kami juga menyediakan layanan pengelolaan dan pengembangan akun media sosial perusahaan Anda, mulai dari pemetaan
-                            strategi konten dan posting, pembuatan desain banner/video, hingga kampanye hashtag.
-                        </div>
-                        <div class="one-faq">
-                            <b>Apakah saya bisa datang ke kantor LOGIQUE untuk membahas mengenai bisnis dan usaha saya?</b><br />
-                            LOGIQUE selalu siap menerima kedatangan Anda yang ingin berkonsultasi dengan kami. Kami berkomitmen untuk memberikan
-                            solusi
-                            dari seluruh permasalahan digital Anda.
-                        </div>
-                        <div class="one-faq">
-                            <b>Bagaimana prosedur layanan pemasaran digital yang diterapkan LOGIQUE?</b><br />
-                            LOGIQUE memiliki prosedur yang bertahap dan terstruktur dalam layanan ini, mulai dari diskusi mendalam mengenai target
-                            bisnis,
-                            riset mengenai tren, audiens, hingga kompetitor, lalu berlanjut pada penawaran strategi, konfirmasi, eksekusi, hingga
-                            pelaporan (report). Untuk mengetahui lebih detil, Anda bisa langsung menghubungi kami melalui email ke info@logique.co.id
-                            atau
-                            telpon di nomor (021) 227 089 35/36, atau melalui WhatsApp di nomor 0811-870-321.
-                        </div>
-                        <div class="one-faq">
-                            <b>Apa dampak pemasaran digital bagi bisnis atau perusahaan saya?</b><br />
-                            Tanpa Anda sadari, penerapan strategi pemasaran secara digital akan membawa dampak yang cukup besar bagi bisnis atau
-                            perusahaan Anda, di mana perusahaan Anda akan semakin dikenal oleh banyak orang bahkan hingga ke mancanegara melalui akses
-                            internet yang tanpa batas.
-                        </div>
-                        <div class="one-faq">
-                            <b>Layanan apa saja yang ditawarkan oleh LOGIQUE selain digital marketing?</b><br />
-                            Sebagai perusahaan digital marketing profesional di Indonesia dan telah mempunyai pengalaman selama lebih dari 5 tahun,
-                            LOGIQUE menawarkan Anda berbagai solusi untuk meningkatkan profit bisnis Anda. Segera kunjungi halaman layanan kami untuk
-                            mengetahui informasi selengkapnya, atau Anda dapat menghubungi kami melalui email di info@logique.co.id atau telpon di
-                            nomor
-                            (021) 227 089 35/36, atau kirim pesan ke nomor WhatsApp kami 0811-870-321.
-                        </div>
-                    </div>
-                </div>
+        <section class="dm__teamwork">
+            <div class="container__ text-center">
+                <h2>How Logique's Team Work</h2><br>
+                <a href="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" data-toggle="lightbox">
+                    <img src="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" alt="" class="img-responsive">
+                </a>
             </div>
-        </div>
+        </section>
 
-        <div class="footer">
-            <div class="container__" style="padding-top:0; padding-bottom:0;">
-                <div class="row">
-                    <div class="col-lg-offset-3 col-lg-6">
-                        Untuk informasi lengkapnya, Anda dapat menghubungi <b>Logique Digital Indonesia</b> melalui email di <a
-                            href="mailto:info@logique.co.id">info@logique.co.id</a> atau mendaftar melalui form yang ada di link berikut ini
-                        <br /><br />
-                        <a href="/hubungi-kami.php" target="_blank"><img alt="Form" src="assets/img/img-digital-marketing/form-footer.png"
-                                class="img-responsive center-block" /></a>
-                        <br />
-                        Layanan Kami lainnya:<br />
-                        <a target="_blank" href="/layanan/pembuatan-web-karir.php">Pembuatan Website Karir Perusahaan</a>
-                        <div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-                        <a target="_blank" href="/layanan/pembuatan-aplikasi-mobile.php">Pembuatan Aplikasi Mobile</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php include './assets/components/dm-links.php' ?>
+        <?php include './assets/components/other-services.php' ?>
 
     </div>
 
