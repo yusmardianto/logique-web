@@ -182,11 +182,11 @@
             <section id="portofolio_website" class="portfolio-update__content">
                 <div class="container__">
                     <div class="content__wrapper">
-                        <div class="row">
+                        <div class="flex__row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="#" class="content__item">
-                                    <img src="/img/portfolio/update/aia.png" class="img-responsive" alt="AIA">
-                                    <h3>AIA</h3>
+                                <a class="content__item" href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/update/web-aia-premiere.png" class="img-responsive" alt="AIA Premier Academy">
+                                    <h3>AIA Premier Academy</h3>
                                     <ul class="list-unstyled">
                                         <li>Pembuatan Halaman Campaign (Design | Coding | Hosting)</li>
                                         <li>Website Campaign, Optimasi Mobile, Asuransi, Akademi</li>
@@ -203,7 +203,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix visible-sm"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://jba.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/jba.png" class="img-responsive" alt="">
@@ -214,7 +213,7 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix visible-md"></div>
+                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/j-trust.png" class="img-responsive" alt="">
@@ -225,7 +224,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix visible-sm"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://mobirent.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/mobirent.png" class="img-responsive" alt="">
@@ -246,16 +244,7 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/update/web-aia-premiere.png" class="img-responsive" alt="AIA Premier Academy">
-                                    <h3>AIA Premier Academy</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Pembuatan Halaman Campaign (Design | Coding | Hosting)</li>
-                                        <li>Website Campaign, Optimasi Mobile, Asuransi, Akademi</li>
-                                    </ul>
-                                </a>
-                            </div>                            
+                                                      
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-film.png" class="img-responsive" alt="Film Festival">
@@ -306,7 +295,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://bisnissaya.com" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-bisnissaya.png" class="img-responsive" alt="BisnisSaya.com (MLM E-Commerce)">
@@ -337,7 +325,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://hoyu.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-hoyu.png" class="img-responsive" alt="Hoyu Indonesia">
@@ -399,7 +386,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://frangipanibalispa.com/contact.php" target="_blank" rel="noreferrer">
@@ -431,7 +417,6 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
@@ -557,7 +542,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://trendpot-recruit.asia/index.php" target="_blank" rel="noreferrer">
@@ -589,7 +573,6 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.kumomiland.co.id/" target="_blank" rel="noreferrer">
@@ -622,7 +605,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://j-golfacademy.com/" target="_blank" rel="noreferrer">
@@ -646,7 +628,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://promokreditbprks.com/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/web-bprks.png" class="img-responsive" alt="BPR KS">
+                                    <img src="/img/portfolio/update/web-bprks.png" class="img-responsive" alt="BPR KS">
                                     <h3>BPR KS</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Remake & Growth-hack (Design | Coding | Content Creation | Operation)</li>
@@ -654,7 +636,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.vipplaza.co.id/" target="_blank" rel="noreferrer">
@@ -718,7 +699,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://webdev-id.com/" target="_blank" rel="noreferrer">
@@ -750,7 +730,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
@@ -782,7 +761,6 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://banzaihobby.com/" target="_blank" rel="noreferrer">
@@ -845,7 +823,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.kbrprime.id/" target="_blank" rel="noreferrer">
@@ -908,7 +885,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.bambootajur.com/" target="_blank" rel="noreferrer">
@@ -940,7 +916,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://scskidn.com/" target="_blank" rel="noreferrer">
@@ -1003,7 +978,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://shi-indonesia.co.id/" target="_blank" rel="noreferrer">
@@ -1035,7 +1009,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.tsubame-jltc.com/" target="_blank" rel="noreferrer">
@@ -1067,7 +1040,6 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://sibad.id/id" target="_blank" rel="noreferrer">
@@ -1099,7 +1071,6 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="clearfix"></div>
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">

@@ -209,9 +209,7 @@
                     <div class="page-nav">
                         <a class="page-nav__btn" href="#portfolio_website">Website</a>
                         <a class="page-nav__btn" href="#portfolio_sys">Web Application</a>
-                        <!-- <a class="page-nav__btn" href="#caseStudy">Case <br>Study</a> -->
                         <a class="page-nav__btn" href="#portfolio_mobile">Mobile App / PWA</a>
-                        <!-- <a class="page-nav__btn" href="#">Digital <br>Marketing</a> -->
                         <a class="page-nav__btn" href="#portfolio_dm">Digital Marketing & Etc.</a>
                     </div>
                 </div>
@@ -221,19 +219,19 @@
                 <div class="container__">
                     <h2 class="text-center">Website</h2>
                     <div class="content__wrapper">
-                        <div class="row">
+                        <div class="flex__row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="/img/portfolio/update/aia-full.png" class="content__item" data-toggle="lightbox">
-                                    <img src="/img/portfolio/update/aia.png" class="img-responsive" alt="">
-                                    <h3>AIA</h3>
+                                <a class="content__item" href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/update/web-aia-premiere.png" class="img-responsive" alt="AIA Premier Academy">
+                                    <h3>AIA Premier Academy</h3>
                                     <ul class="list-unstyled">
-                                        <li>Website Creation (Design | Coding | Hosting)</li>
-                                        <li>Website Campaign, Mobile Optimized, Insurance, Academy</li>
+                                        <li>Website Creation (Design | Coding)</li>
+                                        <li>Static Web, Animation, Visual, Income Calculator, Graph, Insurance Agent Training</li>
                                     </ul>
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="/img/portfolio/update/panin.png" class="content__item" data-toggle="lightbox">
+                                <a class="content__item" href="https://www.bekalhidup.com" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/panin.png" class="img-responsive" alt="">
                                     <h3>Panin Life Dai-ichi</h3>
                                     <ul class="list-unstyled">
@@ -242,9 +240,8 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix visible-sm"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="/img/portfolio/update/jba.png" class="content__item" data-toggle="lightbox">
+                                <a class="content__item" href="https://jba.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/jba.png" class="img-responsive" alt="">
                                     <h3>JBA INDONESIA</h3>
                                     <ul class="list-unstyled">
@@ -253,9 +250,8 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix visible-md"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="/img/portfolio/update/j-trust.png" class="content__item" data-toggle="lightbox">
+                                <a class="content__item" href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/j-trust.png" class="img-responsive" alt="">
                                     <h3>JTrust Bank (Re-design)</h3>
                                     <ul class="list-unstyled">
@@ -264,9 +260,8 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix visible-sm"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="/img/portfolio/update/mobirent.png" class="content__item" data-toggle="lightbox">
+                                <a class="content__item" href="https://mobirent.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/mobirent.png" class="img-responsive" alt="">
                                     <h3>Mobirent</h3>
                                     <ul class="list-unstyled">
@@ -276,7 +271,7 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="/img/portfolio/update/jnto.png" class="content__item" data-toggle="lightbox">
+                                <a class="content__item" href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/jnto.png" class="img-responsive" alt="">
                                     <h3>JNTO Indonesia</h3>
                                     <ul class="list-unstyled">
@@ -285,7 +280,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix visible-sm"></div>
                         </div>
                     </div>
                     <div class="text-center">
@@ -449,13 +443,6 @@
     </div>   
     <?php include 'footer.php';?>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
-    <script>
-        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
-            event.preventDefault();
-            $(this).ekkoLightbox();
-        });
-    </script>
 
     <script>
     $('.same-height').matchHeight();

@@ -182,11 +182,11 @@
             <section id="portofolio_website" class="portfolio-update__content">
                 <div class="container__">
                     <div class="content__wrapper">
-                        <div class="row">
+                        <div class="flex__row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="#" class="content__item">
-                                    <img src="/img/portfolio/update/aia.png" class="img-responsive" alt="AIA">
-                                    <h3>AIA</h3>
+                                <a class="content__item" href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/update/web-aia-premiere.png" class="img-responsive" alt="AIA Premier Academy">
+                                    <h3>AIA Premier Academy</h3>
                                     <ul class="list-unstyled">
                                         <li>Webページ制作 (デザイン | コーディング | ホスティング)</li>
                                         <li>モバイル最適化, キャンペーンページ, 保険</li>
@@ -203,7 +203,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix visible-sm"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://jba.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/jba.png" class="img-responsive" alt="">
@@ -214,7 +213,7 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix visible-md"></div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/j-trust.png" class="img-responsive" alt="">
@@ -225,7 +224,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix visible-sm"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://mobirent.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/mobirent.png" class="img-responsive" alt="">
@@ -246,18 +244,7 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/update/web-aia-premiere.png" class="img-responsive" alt="AIA Premier Academy">
-                                    <h3>AIA Premier Academy</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Webページ制作 (デザイン | コーディング | ホスティング)</li>
-                                        <li>モバイル最適化, キャンペーンページ, 保険</li>
-                                    </ul>
-                                </a>
-                            </div>                            
+                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-film.png" class="img-responsive" alt="Film Festival">
@@ -278,7 +265,6 @@
                                     </ul>
                                 </a>
                             </div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://jaif.asean.org/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-jaif.png" class="img-responsive" alt="Japan Asean Integration Fund">
@@ -289,6 +275,7 @@
                                     </ul>
                                 </a>
                             </div>
+                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-shinoken.png" class="img-responsive" alt="Shinoken Asset Management">
@@ -309,8 +296,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://bisnissaya.com" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-bisnissaya.png" class="img-responsive" alt="BisnisSaya.com (MLM E-Commerce)">
@@ -321,6 +306,7 @@
                                     </ul>
                                 </a>
                             </div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://frangipanibalispa.com/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-frangipani-amp.png" class="img-responsive" alt="Frangipani">
@@ -341,8 +327,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://hoyu.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-hoyu.png" class="img-responsive" alt="Hoyu Indonesia">
@@ -353,6 +337,7 @@
                                     </ul>
                                 </a>
                             </div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-arf.png" class="img-responsive" alt="ASEAN (ARF)">
@@ -373,7 +358,6 @@
                                     </ul>
                                 </div>
                             </div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://jualbeliweb.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-jualbeliweb.png" class="img-responsive" alt="JualBeliWEB.id (Website market place)">
@@ -384,6 +368,7 @@
                                     </ul>
                                 </a>
                             </div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-ajapan.png" class="img-responsive" alt="aJapan Campaign Page">
@@ -404,8 +389,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://frangipanibalispa.com/contact.php" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-frangipani.png" class="img-responsive" alt="Frangipani Esthetics Bali">
@@ -416,6 +399,7 @@
                                     </ul>
                                 </a>
                             </div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-otosiap.png" class="img-responsive" alt="OTO Siap!">
@@ -436,8 +420,6 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-oto-conc.png" class="img-responsive" alt="OTOmart Concierge LP">
@@ -448,6 +430,7 @@
                                     </ul>
                                 </div>
                             </div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-oto-garansi.png" class="img-responsive" alt="">
@@ -468,8 +451,6 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-sfi.png" class="img-responsive" alt="Sumitomo Forestry LP">
@@ -480,6 +461,7 @@
                                     </ul>
                                 </div>
                             </div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://hajime-indonesia.co.id/about/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-hajime.png" class="img-responsive" alt="Hajime Indonesia">
@@ -500,7 +482,6 @@
                                     </ul>
                                 </a>
                             </div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.zuttoride.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-zutto.png" class="img-responsive" alt="ZuttoRide Indonesia">
@@ -511,6 +492,7 @@
                                     </ul>
                                 </a>
                             </div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://jjs.or.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-jjs.png" class="img-responsive" alt="Jakarta Japanese School">
@@ -531,7 +513,6 @@
                                     </ul>
                                 </a>
                             </div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.60jpid.com/symposium.php" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-symposium.png" class="img-responsive" alt="Symposium Application LP">
@@ -542,6 +523,7 @@
                                     </ul>
                                 </a>
                             </div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.ikeuchi.id/lp/eng/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-ikeuchi.png" class="img-responsive" alt="Ikeuchi Indonesia">
@@ -562,8 +544,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://trendpot-recruit.asia/index.php" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-trendpot.png" alt="Digital Marketing Indonesia" class="img-responsive center-block">
@@ -574,6 +554,7 @@
                                     </ul>
                                 </a>
                             </div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-dmi.png" alt="Digital Marketing Indonesia" class="img-responsive center-block">
@@ -594,8 +575,6 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.kumomiland.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-kumomiland.png" alt="KUMOMI LAND INDONESIA"
@@ -607,6 +586,7 @@
                                     </ul>
                                 </a>
                             </div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://4dentist.jp/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-4dentist.png" class="img-responsive" alt="4Dentist.jp">
@@ -627,8 +607,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://j-golfacademy.com/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-golfjkt.png" class="img-responsive" alt="Jakarta Golf Academy">
@@ -639,6 +617,7 @@
                                     </ul>
                                 </a>
                             </div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.60jpid.com/music-festival.php" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-music-festival.png" class="img-responsive" alt="Music Festival Landing Page">
@@ -659,8 +638,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.vipplaza.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-vipplaza.png" class="img-responsive" alt="VIP Plaza">
@@ -671,6 +648,7 @@
                                     </ul>
                                 </a>
                             </div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://opuspark.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-opus-park.png" class="img-responsive" alt="Opus Park">
@@ -691,7 +669,6 @@
                                     </ul>
                                 </a>
                             </div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-jfe.png" class="img-responsive" alt="JFE">
@@ -702,6 +679,7 @@
                                     </ul>
                                 </div>
                             </div>
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jjs.or.id/50thanniversary" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-jjs50.png" class="img-responsive" alt="JJS 50 years special LP">
@@ -722,8 +700,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://webdev-id.com/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-wdi.png" class="img-responsive" alt="WDI">
@@ -733,7 +709,8 @@
                                         <li>WEBシステム, 検索システム,スマホ最適, マーケットプレイス</li>
                                     </ul>
                                 </a>
-                            </div>                            
+                            </div>           
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://lifenesia.com" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-lifenesia.png" class="img-responsive" alt="Lifenesia">
@@ -754,8 +731,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-jba-redesign.png" class="img-responsive" alt="JBA Re-design">
@@ -766,6 +741,7 @@
                                     </ul>
                                 </div>
                             </div>                            
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.60jpid.com/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-60jpid.png" class="img-responsive" alt="60th Anniversary Japan-Indonesia">
@@ -786,8 +762,6 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://banzaihobby.com/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-banzai-hobby.png" class="img-responsive" alt="Banzai Hobby">
@@ -797,7 +771,8 @@
                                         <li>Eコマース, Zenカート</li>
                                     </ul>
                                 </a>
-                            </div>                            
+                            </div>    
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://jjc.or.id/hojin/annai/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-jjc-hojin.png" class="img-responsive" alt="JJC Hojin">
@@ -818,7 +793,6 @@
                                     </ul>
                                 </a>
                             </div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jba.co.id/id/poin-rewards" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-jba-lp.png" class="img-responsive" alt="JBA LP">
@@ -828,7 +802,8 @@
                                         <li>モバイル最適化, CMS, キャンペーンページ</li>
                                     </ul>
                                 </a>
-                            </div>                            
+                            </div>  
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-proline.png" class="img-responsive" alt="PROLINE FINANCE">
@@ -849,8 +824,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.kbrprime.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-kbr-id.png" class="img-responsive" alt="KBR_ID">
@@ -860,7 +833,8 @@
                                         <li></li>
                                     </ul>
                                 </a>
-                            </div>                            
+                            </div>        
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://unitedconcepts.com/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-royal-amanda.png" class="img-responsive" alt="Royal Armada">
@@ -881,7 +855,6 @@
                                     </ul>
                                 </a>
                             </div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-ligohome.png" class="img-responsive" alt="LIGO Home">
@@ -891,7 +864,8 @@
                                         <li>モバイル最適化, CMS, コーポレートWeb</li>
                                     </ul>
                                 </div>
-                            </div>                            
+                            </div>   
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.otomart.id/oto-garansi.html" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-otogaransi.png" class="img-responsive" alt="OTO-Garansi Campaign Page">
@@ -912,8 +886,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.bambootajur.com/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-bambootajur.png" class="img-responsive" alt="Green Bamboo Terace">
@@ -924,6 +896,7 @@
                                     </ul>
                                 </a>
                             </div>                            
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://hmw-rehab.com/en" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-hmw.png" class="img-responsive" alt="HMW Rehabilitation Clinic">
@@ -944,8 +917,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://scskidn.com/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-scsk.png" class="img-responsive" alt="SCSK">
@@ -956,6 +927,7 @@
                                     </ul>
                                 </a>
                             </div>                            
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://grahamirai.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-graha-mirai.png" class="img-responsive" alt="Graha Mirai">
@@ -976,7 +948,6 @@
                                     </ul>
                                 </a>
                             </div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://m-pas.org/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-mpas.png" class="img-responsive" alt="MPAS">
@@ -987,6 +958,7 @@
                                     </ul>
                                 </a>
                             </div>                            
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-pertamina.png" class="img-responsive" alt="Pertamina">
@@ -1007,8 +979,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://shi-indonesia.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-shi.png" class="img-responsive" alt="Sumitomo Heavy">
@@ -1018,7 +988,8 @@
                                         <li>モバイル最適化, CMS, コーポレートWeb, 重工業</li>
                                     </ul>
                                 </a>
-                            </div>                            
+                            </div>  
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-asean-legal.png" class="img-responsive" alt="ASEAN Legal">
@@ -1039,8 +1010,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.tsubame-jltc.com/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-tsubame-lpk.png" class="img-responsive" alt="Tsubame JLTC">
@@ -1050,7 +1019,8 @@
                                         <li>モバイル最適化, サービスWeb, 教育</li>
                                     </ul>
                                 </a>
-                            </div>                            
+                            </div>     
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://wkvetter.com/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-vetter-bulletin.png" class="img-responsive" alt="Vetter Bulletin Board">
@@ -1071,8 +1041,6 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://sibad.id/id" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-sibad.png" class="img-responsive" alt="Siti Badriah">
@@ -1082,7 +1050,8 @@
                                         <li>有料会員, サブスクWeb, ファンクラブ運営, エンターテイメント</li>
                                     </ul>
                                 </a>
-                            </div>                            
+                            </div>      
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-ishida.png" class="img-responsive" alt="Ishida">
@@ -1103,8 +1072,6 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="clearfix"></div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-aia-berbagi.png" class="img-responsive" alt="AIA Berbagi">
@@ -1114,7 +1081,8 @@
                                         <li>フォーム開発, マイクロサイト, 保険, CSR</li>
                                     </ul>
                                 </div>
-                            </div>                            
+                            </div>        
+
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-aia-conservation.png" class="img-responsive" alt="AIA Conservation">
@@ -1125,26 +1093,6 @@
                                     </ul>
                                 </div>
                             </div>
-                            <!-- <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <img src="" class="img-responsive" alt="">
-                                    <h3></h3>
-                                    <ul class="list-unstyled">
-                                        <li></li>
-                                        <li></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <img src="" class="img-responsive" alt="">
-                                    <h3></h3>
-                                    <ul class="list-unstyled">
-                                        <li></li>
-                                        <li></li>
-                                    </ul>
-                                </div>
-                            </div> -->
 
                         </div>
                     </div>
