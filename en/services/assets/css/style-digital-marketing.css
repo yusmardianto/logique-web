@@ -325,6 +325,12 @@ strong {
     font-weight: 800;
 }
 
+.dm .dm__banner h1 > sup {
+    font-size: 16px;
+    font-weight: 800 !important;
+    vertical-align: super;
+}
+
 .dm .dm__banner p {
     font-weight: 18px;
 }

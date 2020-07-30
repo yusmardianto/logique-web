@@ -166,8 +166,8 @@
         <section class="--top dm__banner" style="margin-top: 64px;">
             <div class="container__">
                 <div class="row">
-                    <div class="col-md-offset-2 col-md-8">
-                        <h1>360  Digital Marketing Services</h1>
+                    <div class="col-md-offset-2 col-md-8 text-center">
+                        <h1>360<sup>o</sup> Digital Marketing Services</h1>
                         <p>At <strong>LOGIQUE</strong>, we provide services for every digital marketing need. From planning, production, operation, maintenance, to monetization</p>
                     </div>
                 </div>
@@ -294,7 +294,7 @@
                         <div class="variety__content">
                             <div class="tab-content">
                                 <div id="variety_list_1" class="tab-pane fade in active">
-                                    We will <span>improve the performance</span> of the media you have to be able to monetize and produce conversions. If you don't have your own media, don't hesitate to contact us who will always be ready to become your business partner in developing a Website or Application that suits your needs. Website Creation Services
+                                    We will <span>improve the performance</span> of the media you have to be able to monetize and produce conversions. If you don't have your own media, don't hesitate to contact us who will always be ready to become your business partner in developing a Website or Application that suits your needs. <a target="_blank" href="/en/services/web-dev.php">Website Creation Services</a>
                                 </div>
                                 <div id="variety_list_2" class="tab-pane fade">
                                     Increasing organic traffic is very important in your website monetization efforts. We have a lot of experience in tackling SEO projects in Indonesian and English, and LOGIQUE has proven successful in search engine optimization efforts with various types of keyword categories ranging from finance to automotive. We are also ready to provide ongoing consultation in an effort to improve the quality of your website on each search engine, to modify the website pages based on the stages and SEO methods that apply.

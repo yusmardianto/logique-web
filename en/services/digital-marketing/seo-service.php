@@ -128,7 +128,7 @@
 					<div class="row">
 						<div class="col-sm-offset-1 col-sm-11">
 							<div class="container">
-								<a href="/en/"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
+								<a href="/en/"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
 								<ul class="list-inline">
 									<li class="active"><a href="#">EN</a></li>
 									<li><a href="/../layanan/digital-marketing/jasa-seo.php">ID</a></li>
@@ -974,8 +974,8 @@
 						</div>
 					</div>
 				</div>
-				<?php include '../../footer.php'; ?>
 			</div>
+			<?php include '../../footer.php'; ?>
 		</div>
 		<script type="text/javascript">
 			//ambil konten dari button seo services dan menaruh ke bubble container
