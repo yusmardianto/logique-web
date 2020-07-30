@@ -115,7 +115,7 @@
     <div class="container__">
         <div class="row">
             <div class="col-sm-4 col-xs-12">
-                <a href="#" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-about.jpg')">
+                <a href="/en/logique.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-about.jpg')">
                     <div>
                         <h3>About</h3>
                         <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes. </p>
@@ -123,7 +123,7 @@
                 </a>
             </div>
             <div class="col-sm-4 col-xs-12">
-                <a href="#" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-ourwork.jpg')">
+                <a href="/en/portfolio.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-ourwork.jpg')">
                     <div>
                         <h3>Our Work</h3>
                         <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes.</p>

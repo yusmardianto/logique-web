@@ -60,28 +60,28 @@
         <h3 class="text-center">Other services</h3>
         <div class="row other-service__list">
             <div class="col-sm-3">
-                <a href="#" class="list__item">
+                <a href="/en/services/web-dev.php" class="list__item">
                     <img src="/en/services/assets/img/img-digital-marketing/other-fe-be.jpg" alt="" class="img-responsive">
                     <h4>Front End / Back End</h4>
                     <p>Work remotely in the Cloud - anytime and on any device - without the hassle of uploading and downloading files. Keep a geographically dispersed team collaborating - and always in sync.</p>
                 </a>
             </div>
             <div class="col-sm-3">
-                <a href="#" class="list__item">
+                <a href="/en/services/mobile-app-dev.php" class="list__item">
                     <img src="/en/services/assets/img/img-digital-marketing/other-designer.jpg" alt="" class="img-responsive">
                     <h4>Web Designer</h4>
                     <p>Work remotely in the Cloud - anytime and on any device - without the hassle of uploading and downloading files. Keep a geographically dispersed team collaborating - and always in sync.</p>
                 </a>
             </div>
             <div class="col-sm-3">
-                <a href="#" class="list__item">
+                <a href="/en/services/system-dev.php" class="list__item">
                     <img src="/en/services/assets/img/img-digital-marketing/other-consultant.jpg" alt="" class="img-responsive">
                     <h4>Consultant</h4>
                     <p>Work remotely in the Cloud - anytime and on any device - without the hassle of uploading and downloading files. Keep a geographically dispersed team collaborating - and always in sync.</p>
                 </a>
             </div>
             <div class="col-sm-3">
-                <a href="#" class="list__item">
+                <a href="/en/services/penetration-test.php" class="list__item">
                     <img src="/en/services/assets/img/img-digital-marketing/other-mobile.jpg" alt="" class="img-responsive">
                     <h4>Mobile Apps</h4>
                     <p>Work remotely in the Cloud - anytime and on any device - without the hassle of uploading and downloading files. Keep a geographically dispersed team collaborating - and always in sync.</p>
