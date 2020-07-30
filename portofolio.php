@@ -292,14 +292,6 @@
                     <div class="content__wrapper">
                         <div class="row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/caroline-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/caroline.png" alt="">
-                                        <h3>Caroline Inspection App</h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/jba-bike-mobile-bg.png')">
                                     <div>
                                         <img src="/img/portfolio/update/jba-bike-mobile.png" alt="">
@@ -316,6 +308,22 @@
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-wantjp-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-wantjp.png" alt="Want.jp">
+                                        <h3>Want.jp</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-nlec-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-nlec.png" alt="NLEC Nihongo E-Learning PWA">
+                                        <h3>NLEC Nihongo E-Learning PWA</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-bg.png')">
                                     <div>
                                         <img src="/img/portfolio/update/mobile-jba.png" alt="">
@@ -324,18 +332,10 @@
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-sinarmas-bg.png')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-otomart-bg.png')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-sinarmas.png" alt="">
-                                        <h3>Sinarmas Career</h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-frangipani-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/mobile-frangipani.png" alt="">
-                                        <h3>Frangipani Esthetics Guest Comment App</h3>
+                                        <img src="/img/portfolio/update/mobile-otomart.png" alt="">
+                                        <h3>Otomart - Used Car on Sale Finder App</h3>
                                     </div>
                                 </div>
                             </div>
