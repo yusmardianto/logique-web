@@ -46,8 +46,6 @@ if(isset($_POST['submitted']))
     <meta name="keywords" content=" ">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Operasi Struktur Server Cloud | DevOps | Perusahaan Pengembangan Sistem di Jakarta, LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">

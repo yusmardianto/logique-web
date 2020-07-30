@@ -53,9 +53,7 @@ if(isset($_POST['submitted']))
     <meta property="og:description"
         content="NIPPOは日報管理ツールです。日々の日報を通じて、スタッフの作業内容・量・質を把握し、スタッフ間でのコミュニケーションを促進することができます。管理者者は部下の評価を行います。プロジェクト毎、タスク毎の原価工数集計も可能です。月額1ジュタからのクラウドツールですがカスタマイズ導入も可能です。デモ環境の試用も可能ですのでお問い合わせください。">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>日報を通じて人事評価＆原価工数管理を行うール | NIPPO | LOGIQUEデジタルインドネシア</title>
+     <title>日報を通じて人事評価＆原価工数管理を行うール | NIPPO | LOGIQUEデジタルインドネシア</title>
      <link rel="stylesheet" href="/css/bootstrap.min.css">
      <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
      <link rel="stylesheet" href="/css/style.css">
@@ -242,7 +240,7 @@ if(isset($_POST['submitted']))
                  <div class="row" style="margin-right:0;margin-left:0;">
                      <div class="col-md-12 text-center p-top-25" style=" padding-top: 15%; ">
                          <img src="img/nippo/LogoNippo.png" alt="nippo" class="fade-in logo m-logo">
-                         <p class="SISTEM-LAPORAN-KERJA fade-in">日報から原価工数管理や従業員評価を行うことが可能な日報ツール</p>
+                         <h1 class="SISTEM-LAPORAN-KERJA fade-in">日報から原価工数管理や従業員評価を行うことが可能な日報ツール</h1>
                      </div>
                  </div>
              </div>

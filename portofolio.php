@@ -18,8 +18,6 @@
     <meta property="og:description"
         content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE</title>
 
     <!-- Bootstrap -->
@@ -173,7 +171,7 @@
 
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
-                    <div class="title"><b>Our</b><span class="yellow"> Portfolio</span></div>
+                    <h1 class="title"><b>Our</b><span class="yellow"> Portfolio</span></h1>
                     <p class="title__description">LOGIQUE telah mengembangkan banyak Website, Aplikasi Berbasis Web dan Mobile App, serta memberikan dukungan terkait Penetration Test untuk klien dari berbagai industri seperti Asuransi, E-Commerce, dan Otomotif. Berikut adalah beberapa portofolio hasil pengembangan Website, Aplikasi Berbasis Web, Mobile App / PWA, dan Digital Marketing kami.</p>
 
                     <div class="client-list__wrapper">
@@ -1194,6 +1192,54 @@
                                 <div class="addition-desc text-left">
                                     Web Re-Develop (Cloud Server Migration | Re-build | Integration with a Payment Gateway)
                                     <div class="grey-clr">Member System, Fan Club Subscription System, Entertainment </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <!-- <a href="https://sibad.id/id" target="_blank" rel="noreferrer"> -->
+                                    <img src="/img/portfolio/ishida.png" alt="Ishida"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Ishida</p>
+                                <!-- </a> -->
+                                <div class="addition-desc text-left">
+                                Web Development (Design | CMS | Coding)
+                                    <div class="grey-clr">CMS, Product Search, Manufacturer, BtoB Service</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <!-- <a href="https://sibad.id/id" target="_blank" rel="noreferrer"> -->
+                                    <img src="/img/portfolio/sumitomo-kenki.png" alt="Sumitomo Kenki"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">Sumitomo Kenki</p>
+                                <!-- </a> -->
+                                <div class="addition-desc text-left">
+                                Web Front End Development (Coding | Integrasi CMS)
+                                    <div class="grey-clr">Mobile Optimized, CMS, Corporate web, Construction</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <!-- <a href="https://sibad.id/id" target="_blank" rel="noreferrer"> -->
+                                    <img src="/img/portfolio/aia-berbagi.png" alt="AIA Berbagi"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">AIA Berbagi</p>
+                                <!-- </a> -->
+                                <div class="addition-desc text-left">
+                                Website Creation (Coding | Integrasi API)
+                                    <div class="grey-clr">Validasi, Pengisian Formulir, Microsite, Asuransi Kecelakaan Gratis, CSR</div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-xs-6">
+                                <!-- <a href="https://sibad.id/id" target="_blank" rel="noreferrer"> -->
+                                    <img src="/img/portfolio/aia-conservation.png" alt="AIA Conservation"
+                                        class="img-responsive center-block">
+                                    <p class="text-center">AIA Conservation</p>
+                                <!-- </a> -->
+                                <div class="addition-desc text-left">
+                                AIA Conservation Website Creation (Design | Coding)
+                                    <div class="grey-clr">Validasi, Pengisian Formulir, Variasi Skenario Pengguna, Microsite, Prosedur Digital, Adobe Form</div>
                                 </div>
                             </div>
 

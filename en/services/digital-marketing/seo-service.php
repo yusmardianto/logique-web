@@ -15,9 +15,7 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
 	<meta property="og:description" content="Logique provides SEO maintenance service to help your web reach top position in search engine. Our team provides Analytics report, SEO consultation, Search Console Service, Web Maintenance, and Content Writing. We help your business grow by implement white hat SEO strategies">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Logique Digital Marketing - SEO Service Page</title>
+	<title>Logique Digital Marketing - SEO Service Page</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style-ori.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">

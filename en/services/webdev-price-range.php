@@ -14,8 +14,6 @@
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description" content="LOGIQUE Digital Indonesia creates and develops web and web systems with high quality and international standard, professional, speed, and flexible to any change requested. See our web development price here.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Web Development Price | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/style_webdev_price.css" rel="stylesheet">

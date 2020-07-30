@@ -26,9 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Auction System Development | Case Study | LOGIQUE Digital Indonesia</title>
+  <title>Auction System Development | Case Study | LOGIQUE Digital Indonesia</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
