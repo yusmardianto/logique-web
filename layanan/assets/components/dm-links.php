@@ -125,7 +125,7 @@
                 <a href="/logique.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-about.jpg')">
                     <div>
                         <h3>About</h3>
-                        <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes. </p>
+                        <p>LOGIQUE Digital Indonesia is a leading IT consultant and system development company owned by a Japanese entrepreneur based in Jakarta.</p>
                     </div>
                 </a>
             </div>
@@ -133,7 +133,7 @@
                 <a href="/portofolio.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-ourwork.jpg')">
                     <div>
                         <h3>Our Work</h3>
-                        <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes.</p>
+                        <p>LOGIQUE has developed many Websites, Systems and Apps, Digital Marketing Campaign and delivered them successfully to our clients.</p>
                     </div>
                 </a>
             </div>
@@ -141,7 +141,7 @@
                 <a href="#" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-faq.jpg')">
                     <div>
                         <h3>FAQ</h3>
-                        <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes.</p>
+                        <p>Frequently Asked Questions of Digital Marketing Services</p>
                     </div>
                 </a>
             </div>
