@@ -6,18 +6,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="If you are interested in implementing a digital marketing strategy for your business, LOGIQUE can help increase your business profits through SEO, Google Ads ad campaigns, Facebook Ads, and others.">
+        content="Logique is a marketing agency which offers professional Digital Marketing & Internet Marketing services">
     <meta name="keywords"
         content="digital marketing, digital marketing, digital marketing strategy, digital marketing service, logique digital marketing">
+    <meta name="title"
+        content="Logique provides Jakarta based Digital Marketing services">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta property="og:title"
-         content="Digital Marketing | LOGIQUE Digital Indonesia">
+         content="LOGIQUE | Professional Digital Marketing Services & Consultants Available Now.">
      <meta property="og:type" content="website">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/en/services/digital-marketing.php">
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-     <meta property="og:description" content="If you are interested in implementing a digital marketing strategy for your business, LOGIQUE can help increase your business profits through SEO, Google Ads ad campaigns, Facebook Ads, and others.">
+     <meta property="og:description" content="Create a winning digital marketing strategy with LOGIQUE & boost your site’s visibility through professional online marketing and Quality SEO. ">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Digital Marketing | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">

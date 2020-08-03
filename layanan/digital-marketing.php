@@ -6,10 +6,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="Jika Anda tertarik menerapkan strategi digital marketing untuk bisnis Anda, LOGIQUE dapat membantu meningkatkan profit bisnis Anda lewat SEO, kampanye iklan Google Ads, Facebook Ads, dan lain-lain.">
+        content="Logique adalah agen pemasaran yang menawarkan layanan Digital Marketing & Internet Marketing profesional">
     <meta name="keywords"
         content="digital marketing, pemasaran digital, strategi digital marketing, layanan digital marketing, digital marketing logique">
+    <meta name="title"
+        content="Logique provides Jakarta based Digital Marketing services">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
+     <meta property="og:title"
+         content="LOGIQUE | Layanan & Konsultan Pemasaran Digital Profesional Tersedia Sekarang.">
+    <meta property="og:type" content="website">
+    <meta itemprop="name" content="PT. Logique Digital Indonesia">
+    <meta property="og:site_name" content="Logique">
+    <meta property="og:url" content="https://www.logique.co.id/layanan/digital-marketing.php">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+    <meta property="og:description" content="Buat strategi pemasaran digital yang unggul dengan LOGIQUE & tingkatkan visibilitas situs Anda melalui pemasaran online profesional dan SEO Berkualitas.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Digital Marketing | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
