@@ -663,7 +663,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                     <a  href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal6"  class="more-icon">  Detail </a>
                                 </div>
                             </div>
-                            <div class="col-sm-3">
+                            <div class="col-sm-3 ">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
@@ -692,21 +692,21 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
-                            <div class="col-sm-3">
+                            <div class="col-sm-3 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
-                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem CRM untuk Pembeli Lelang.</h4>
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                           <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
-                                          2 bulan, PHP Framework, MySQL, AWS
+                                          2.5 bulan, JQuery, HTML5, PHP Framework, MySQL
                                       </div>
                                       <div class="modal-body">
-                                        <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana customer dapat melakukan pengecekan tagihan, mendapatkan informasi penting seperti riwayat keikursertaan lelang, serta mengelola point reward yang mereka dapatkan dari transaksi pembelian yang telah dilakukan. Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, serta menggunakan database MySQL. Customer bisa mendapatkan informasi yang dibutuhkan secara realtime, karena sistem ini terkoneksi dengan core system melalui secured-API.</p>
+                                        <p>Merupakan sistem layout management berbasis web yang digunakan untuk mengatur tata letak kolom iklan untuk media cetak dari publisher terkemuka asal Jepang. Dengan dukungan desain UI/UX yang baik, aplikasi web ini sangat mudah digunakan (user-friendly). Dengan fitur drag-and-drop, user dapat mengatur tata letak iklan sesuai keinginan. Sistem ini juga memiliki fitur export dan import pengaturan tata letak dalam bentuk file csv. Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan, JQuery, serta HTML5-CSS3. Proses pengembagan aplikasi web ini membutuhkan waktu 3 bulan.</p>
                                       </div>
                                        
                                     </div>
@@ -715,27 +715,28 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                 <div class="success-item scitem1">
                                     <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
-                                        <h3>Sistem CRM untuk Pembeli Lelang.</h3>
-                                        <p>2 bulan, PHP Framework, MySQL, AWS</p>
+                                        <h3>Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah</h3>
+                                        <p>2.5 bulan, JQuery, HTML5, PHP Framework, MySQL</p>
                                     </div>
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
-                            <div class="col-sm-3">
+                            <div class="col-sm-3 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
-                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem CRM untuk Pembeli Lelang.</h4>
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                           <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
-                                          2 bulan, PHP Framework, MySQL, AWS
+                                          2.5 bulan, JQuery, HTML5, PHP Framework, MySQL
                                       </div>
                                       <div class="modal-body">
-                                        <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana customer dapat melakukan pengecekan tagihan, mendapatkan informasi penting seperti riwayat keikursertaan lelang, serta mengelola point reward yang mereka dapatkan dari transaksi pembelian yang telah dilakukan. Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, serta menggunakan database MySQL. Customer bisa mendapatkan informasi yang dibutuhkan secara realtime, karena sistem ini terkoneksi dengan core system melalui secured-API.</p>
+                                        <p>Merupakan sistem marketplace mobil yang digunakan oleh banyak dealer mobil bekas baik di Jakarta maupun luar Jakarta. Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan dan berjalan pada platform Linux pada AWS server. Proses pengembangan aplikasi marketplace berbasis web ini membutuhkan waktu selama 3 bulan.</p>
+                                        <p>Respon pengguna layanan ini terus meningkat dari waktu ke waktu. Saat ini sistem ini sudah melayani lebih dari 30.000 pengunjung setiap harinya. Meskipun traffic-nya cukup padat, sistem ini masih sangat stabil. Selain teknologi berbasis web, sistem ini juga terintegrasi dengan mobile apps berbasis Android (Native) dan IOS (Swift).</p>
                                       </div>
                                        
                                     </div>
@@ -744,27 +745,27 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                 <div class="success-item scitem1">
                                     <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
-                                        <h3>Sistem CRM untuk Pembeli Lelang.</h3>
-                                        <p>2 bulan, PHP Framework, MySQL, AWS</p>
+                                        <h3>Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</h3>
+                                        <p>2.5 bulan, JQuery, HTML5, PHP Framework, MySQL</p>
                                     </div>
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
-                            <div class="col-sm-3">
+                            <div class="col-sm-3 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
-                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem CRM untuk Pembeli Lelang.</h4>
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan Sistem Peta Digital.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                           <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
-                                          2 bulan, PHP Framework, MySQL, AWS
+                                          3 bulan, PHP Framework, MySQL, Google map API, Java Script
                                       </div>
                                       <div class="modal-body">
-                                        <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana customer dapat melakukan pengecekan tagihan, mendapatkan informasi penting seperti riwayat keikursertaan lelang, serta mengelola point reward yang mereka dapatkan dari transaksi pembelian yang telah dilakukan. Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, serta menggunakan database MySQL. Customer bisa mendapatkan informasi yang dibutuhkan secara realtime, karena sistem ini terkoneksi dengan core system melalui secured-API.</p>
+                                        <p>Pengembangan sistem peta digital. Sistem yang digunakan untuk pemetaan kemajuan suatu proyek yang dilaksanakan di negara-negara ASEAN. Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan, Google Maps API, HTML5-CSS3, serta database MySQL. Proses pengembangan sistem ini membutuhkan waktu selama 3 bulan.</p>
                                       </div>
                                        
                                     </div>
@@ -773,28 +774,28 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                 <div class="success-item scitem1">
                                     <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
-                                        <h3>Sistem CRM untuk Pembeli Lelang.</h3>
-                                        <p>2 bulan, PHP Framework, MySQL, AWS</p>
+                                        <h3>Pengembangan Sistem Peta Digital.</h3>
+                                        <p>3 bulan, PHP Framework, MySQL, Google map API, Java Script</p>
                                     </div>
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
                             
-                            <div class="col-sm-3">
+                            <div class="col-sm-3 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
-                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem CRM untuk Pembeli Lelang.</h4>
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan Sistem Lelang C2C.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                           <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
-                                          2 bulan, PHP Framework, MySQL, AWS
+                                          2 bulan, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 
                                       </div>
                                       <div class="modal-body">
-                                        <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana customer dapat melakukan pengecekan tagihan, mendapatkan informasi penting seperti riwayat keikursertaan lelang, serta mengelola point reward yang mereka dapatkan dari transaksi pembelian yang telah dilakukan. Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, serta menggunakan database MySQL. Customer bisa mendapatkan informasi yang dibutuhkan secara realtime, karena sistem ini terkoneksi dengan core system melalui secured-API.</p>
+                                        <p>Merupakan sistem lelang C2C. Terdapat sekitar 2.000 kendaraan yang dilelangkan dan terbagi dalam 4 lelang, dan diikuti sekitar 300 user setiap bulannya. Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan, JQuery / Ajax, HTML5-CSS3, serta database MySQL. Pengembangan sistem ini membutuhkan waktu selama 2 bulan.</p>
                                       </div>
                                        
                                     </div>
@@ -803,8 +804,8 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                 <div class="success-item scitem1 ">
                                     <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
-                                        <h3>Sistem CRM untuk Pembeli Lelang.</h3>
-                                        <p>2 bulan, PHP Framework, MySQL, AWS</p>
+                                        <h3>Pengembangan Sistem Lelang C2C.</h3>
+                                        <p>2 bulan, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 </p>
                                     </div>
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
@@ -814,16 +815,16 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
-                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem CRM untuk Pembeli Lelang.</h4>
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan Sistem Web CMS Untuk Organisasi Publik.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                           <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
-                                          2 bulan, PHP Framework, MySQL, AWS
+                                          2 bulan, PHP Framework, MySQL
                                       </div>
                                       <div class="modal-body">
-                                        <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana customer dapat melakukan pengecekan tagihan, mendapatkan informasi penting seperti riwayat keikursertaan lelang, serta mengelola point reward yang mereka dapatkan dari transaksi pembelian yang telah dilakukan. Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, serta menggunakan database MySQL. Customer bisa mendapatkan informasi yang dibutuhkan secara realtime, karena sistem ini terkoneksi dengan core system melalui secured-API.</p>
+                                        <p>Sistem web CMS untuk organisasi publik: sistem ini dikembangkan untuk mengelola konten website organisasi publik. Dengan sistem ini seorang admin web dapat dengan mudah mengelola konten website tersebut. Sistem web CMS ini dikembangkan dengan teknologi PHP dengan framework pilihan, HTML5-CSS3, javascript, JQuery, dan database MySQL. Proses pengembangan web CMS ini membutuhkan waktu selama 2 bulan.</p>
                                       </div>
                                        
                                     </div>
@@ -832,8 +833,8 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                 <div class="success-item scitem1">
                                     <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
-                                        <h3>Sistem CRM untuk Pembeli Lelang.</h3>
-                                        <p>2 bulan, PHP Framework, MySQL, AWS</p>
+                                        <h3>Pengembangan Sistem Web CMS Untuk Organisasi Publik.</h3>
+                                        <p>2 bulan, PHP Framework, MySQL</p>
                                     </div>
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
@@ -843,16 +844,16 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
-                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem CRM untuk Pembeli Lelang.</h4>
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan web CMS untuk e-book commerce.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                           <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
-                                          2 bulan, PHP Framework, MySQL, AWS
+                                         2 bulan, PHP Framework, HTML5/CSS3,MySQL
                                       </div>
                                       <div class="modal-body">
-                                        <p>Merupakan sistem CRM bagi customer perusahaan lelang, di mana customer dapat melakukan pengecekan tagihan, mendapatkan informasi penting seperti riwayat keikursertaan lelang, serta mengelola point reward yang mereka dapatkan dari transaksi pembelian yang telah dilakukan. Sistem ini dikembangkan dengan platform PHP dengan framework pilihan, serta menggunakan database MySQL. Customer bisa mendapatkan informasi yang dibutuhkan secara realtime, karena sistem ini terkoneksi dengan core system melalui secured-API.</p>
+                                        <p>Merupakan sistem CMS yang digunakan oleh sebuah distributor buku asal Jepang. Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan, HTML5-CSS3, serta database MySQL. Dengan web CMS ini, administrator website dapat dengan mudah mengelola konten website perusahaan. Pengembangan web CMS ini memerlukan waktu selama 2 bulan.</p>
                                       </div>
                                        
                                     </div>
@@ -861,12 +862,100 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                 <div class="success-item scitem1">
                                     <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
-                                        <h3>Sistem CRM untuk Pembeli Lelang.</h3>
-                                        <p>2 bulan, PHP Framework, MySQL, AWS</p>
+                                        <h3>Pengembangan web CMS untuk e-book commerce.</h3>
+                                        <p>2 bulan, PHP Framework, HTML5/CSS3,MySQL</p>
                                     </div>
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
+                            <div class="col-sm-3 more">
+                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                  <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem Portal Lowongan Pekerjaan.</h4>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                        </button>
+                                      </div>
+                                      <div class="subheader">
+                                         2 bulan, PHP Framework, MySQL
+                                      </div>
+                                      <div class="modal-body">
+                                        <p>Merupakan sistem portal lowongan pekerjaan yang dibangun dengan teknologi PHP, HTML5-CSS3, serta database MySQL. Portal lowongan pekerjaan ini dihosting di Linux server AWS. Perusahaan bisa mencari dan menemukan pencari kerja dan pencari kerja dapat melihat pekerjaan kosong dan terbuka di situs web. Calon bisa mengajukan CV untuk posisi secara langsung. Persentase pengguna layanan ini adalah mayoritas perusahaan Jepang yang ada di Indonesia.</p>
+                                      </div>
+                                       
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Sistem Portal Lowongan Pekerjaan.</h3>
+                                        <p>2 bulan, PHP Framework, MySQL</p>
+                                    </div>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3 more">
+                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                  <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Web Dengan Sistem Rekrutmen</h4>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                        </button>
+                                      </div>
+                                      <div class="subheader">
+                                         2 bulan, PHP Framework, HTML5/CSS3,MySQL
+                                      </div>
+                                      <div class="modal-body">
+                                        <p>Merupakan corporate website yang dilengkapi dengan sistem rekrutmen. Para pencari kerja yang berminat bekerja di perusahan ini dapat melamar langsung melalui website. Dengan tingkat keamanan yang tinggi, kerahasiaan data para pelamar lebih terjamin. Sistem ini dibangun dengan teknologi PHP, dan menggunakan framework pilihan, HTML5-CSS3, serta database Ms. SQL Server. Proses pengembangan membutuhkan waktu 3 bulan.</p>
+                                      </div>
+                                       
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Web Dengan Sistem Rekrutmen</h3>
+                                        <p>3 bulan, PHP Framework, HTML5/CSS3,MySQL</p>
+                                    </div>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3 more">
+                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                  <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem Management Kendaraan untuk perusahaan sewa mobil.</h4>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                        </button>
+                                      </div>
+                                      <div class="subheader">
+                                         2 bulan, PHP Framework, HTML5/CSS3,MySQL
+                                      </div>
+                                      <div class="modal-body">
+                                        <p>Merupakan sistem CMS yang digunakan oleh sebuah distributor buku asal Jepang. Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan, HTML5-CSS3, serta database MySQL. Dengan web CMS ini, administrator website dapat dengan mudah mengelola konten website perusahaan. Pengembangan web CMS ini memerlukan waktu selama 2 bulan.</p>
+                                      </div>
+                                       
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="success-item scitem1">
+                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="scitem-content">
+                                        <h3>Sistem Management Kendaraan untuk perusahaan sewa mobil.</h3>
+                                        <p>6 Months, AWS, Linux, MySQL, SAP Connection, PHP Framework</p>
+                                    </div>
+                                    <!-- <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a> -->
+                                </div>
+                            </div>
+                            
                             <div class="col-sm-3 showmore">
                                 <a href="javascript:void(0)" class="">
                                 <div class="success-item sc-seeall text-center"> 
