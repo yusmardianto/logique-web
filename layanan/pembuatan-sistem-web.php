@@ -1002,7 +1002,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                 </li>
                             </ul>
                             <div class="client-testimoni">
-                                Sebagai kepala departemen IT, saya telah menghandle banyak proyek pengembangan sistem. Sejauh ini, saya belum pernah menemukan perusahaan development yang dapat bekerja sefleksible <span class="logofont">LOGIQUE</span>. Sistem yang dihasilkan pun… memiliki kualitas yang tinggi. … 
+                                Sebagai kepala departemen IT, saya telah menghandle banyak proyek pengembangan sistem. Sejauh ini, saya belum pernah menemukan perusahaan development yang dapat bekerja sefleksible LOGIQUE. Sistem yang dihasilkan pun memiliki kualitas yang tinggi. Terkadang user juga menginginkan perubahan di tengah proses pengembangan, namun saya sangat senang karena dengan cara kerja <span class="logofont">LOGIQUE</span> yang fleksibel, saya dapat memberikan respon dengan cepat kepada user. Saya juga pernah meminta layanan maintenance kepada <span class="logofont">LOGIQUE</span>, dan saya sangat berterimakasih atas update informasi yang dilakukan secara rutin dan tepat waktu.  
                             </div>
                             <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
                         </div>
@@ -1019,7 +1019,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                 </li>
                             </ul>
                             <div class="client-testimoni">
-                                Sebagai kepala departemen IT, saya telah menghandle banyak proyek pengembangan sistem. Sejauh ini, saya belum pernah menemukan perusahaan development yang dapat bekerja sefleksible <span class="logofont">LOGIQUE</span>. Sistem yang dihasilkan pun…  
+                                Saya memutuskan untuk membatalkan kontrak dengan perusahaan development sebelumnya dan memilih <span class="logofont">LOGIQUE</span> untuk mengembangkan dan mengelola sistem yang kami kembangkan. Saya sangat senang karena <span class="logofont">LOGIQUE</span> tetap dapat melanjutkan pengembangan sistem web dengan fleksibel dan efektif meskipun tanpa dokumentasi dan informasi yang memadai. Pihak kami hanya menunjukkan beberapa masalah yang sebenarnya tidak terlalu kami mengerti, namun <span class="logofont">LOGIQUE</span> justru dapat memahami masalah yang terjadi dan memberikan solusi terbaik untuk meningkatkan pengembangan sistem kami. 
                             </div>
                             <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
                         </div>
@@ -1036,7 +1036,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                 </li>
                             </ul>
                             <div class="client-testimoni">
-                                Sebagai kepala departemen IT, saya telah menghandle banyak proyek pengembangan sistem. Sejauh ini, saya belum pernah menemukan perusahaan development yang dapat bekerja sefleksible <span class="logofont">LOGIQUE</span>. Sistem yang dihasilkan pun… memiliki kualitas yang tinggi. … 
+                                Kami meminta pengembangan sistem web dengan tarif tetap perbulan yang memungkinkan proses pengerjaan hanya dilakukan pada hari-hari tertentu setiap bulan. Saya sangat senang dengan tipe pengembangan seperti ini karena sistem yang dikerjakan dapat selesai dalam waktu yang singkat namun tetap hemat biaya. Untuk proyek pengembangan besar selanjutnya, mungkin kami akan meminta pengembangan dengan tipe lab dimana biaya hanya dihitung berdasarkan jumlah hari kerja. 
                             </div>
                             <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
                         </div>
