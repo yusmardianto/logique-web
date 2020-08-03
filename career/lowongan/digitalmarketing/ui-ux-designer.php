@@ -18,9 +18,7 @@
   <meta property="og:description"
     content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari UI/UX Designer. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>UI/UX Designer | Lowongan Kerja | Designer/Digital Marketing | LOGIQUE Digital Indonesia</title>
+  <title>UI/UX Designer | Lowongan Kerja | Designer/Digital Marketing | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -251,12 +249,9 @@
                     </div>
                     <!-- <span class="salary-range__salary">Rp 100 juta/ tahun</span> -->
                     <ul class="salary-range__list">
-                      <li>
-                        Mengerti mengenai desain, mampu menggunakan perangkat desain yang standar, yaitu Adobe family.
-                      </li>
-                      <li>
-                        Mampu membaca Design Language System (DLS)/ mengikuti instruksi.
-                      </li>
+                      <li>Mengerti / memiliki minat mengenai desain website.</li>
+                      <li>Memiliki pengetahuan yang baik tentang tools design process (seperti abstract, zeplin), wireframe (balsamiq, moqups).</li>
+                      <li>Mampu membaca Design Language System (DLS) / mengikuti instruksi.</li>
                     </ul>
                   </div>
                 </div>
@@ -270,16 +265,10 @@
                     </div>
                     <!-- <span class="salary-range__salary">Rp 100 – 200 juta/ tahun</span> -->
                     <ul class="salary-range__list">
-                      <li>
-                        Mengerti tentang wireframe, UX, html & css basic, serta standar design untuk print / digital.
-                      </li>
-                      <li>
-                        Mengerti dan mampu menggunakan tools standar professional selain Adobe family, seperti sketch,
-                        zeplin atau abstrak.
-                      </li>
-                      <li>
-                        Mampu belajar cepat mengenai tren desain terbaru atau tools desain terbaru.
-                      </li>
+                      <li>Memiliki pengalaman bekerja sebagai UI/UX Designer.</li>
+                      <li>Dapat menggunakan tools wireframe, tools design process, tools prototyping, dasar html & css, juga standar design untuk print / digital..</li>
+                      <li>Up-to-date tentang software design.</li>
+                      <li>Mampu kolaborasi dengan team lain (Project Manager, Engineer).</li>
                     </ul>
                   </div>
                 </div>
@@ -293,13 +282,11 @@
                     </div>
                     <!-- <span class="salary-range__salary">Rp 200 – 400 juta/ tahun</span> -->
                     <ul class="salary-range__list">
-                      <li>Mengerti banyak tentang UI/UX, html & css</li>
-                      <li>Mampu memberikan saran untuk desain yang ada, pemecahan masalah, serta memiliki Hasrat yang
-                        lebih besar dalam hal desain.
-                      </li>
-                      <li>Menguasai tools/ alat standar yang biasa digunakan oleh desain profesional, termasuk alat
-                        prototyping.</li>
-                      <li>Memahami motiongraphic merupakan nilai tambah.</li>
+                      <li>Menguasai UI/UX, html & css.</li>
+                      <li>Mampu memberi advice terkait design, mengidentifikasi masalah tentang UX.</li>
+                      <li>Mampu membuat storyboards, process flow, sitemaps.</li>
+                      <li>Memiliki Manajemen waktu yang baik (Good time-management skills).</li>
+                      <li>Memahami motion graphic merupakan nilai tambah.</li>
                     </ul>
                   </div>
                 </div>

@@ -1,4 +1,5 @@
 @import url('/css/sidebar-update.css');
+@import url('/css/style-revamp.css');
 @import url("https://fonts.googleapis.com/css?family=Raleway:300,400,500,700,800,900&display=swap'");
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap');
 @font-face {
@@ -252,7 +253,7 @@ button:focus {
 
 .logique-nav {
   width: 95px;
-  background: rgba(255, 202, 19, 0.9);
+  background: rgb(255, 202, 19);
   height: 100%;
   position: fixed;
   top: 0;
@@ -2222,6 +2223,7 @@ ul.candiate-criteria__reject li::before {
   padding-top: 1.5em;
 }
 
+.interview__role-title h1,
 .interview__role-title h2 {
   font-size: 24px;
 }
@@ -2349,7 +2351,7 @@ ul.candiate-criteria__reject li::before {
 .salary-range__salary {
   display: block;
   font-weight: bold;
-  margin: 15px auto 15px 0;
+  margin: 15px auto 0 0;
   padding-left: 15px;
   padding-right: 15px;
   width: max-content;
@@ -2391,6 +2393,7 @@ ul.candiate-criteria__reject li::before {
   text-transform: uppercase;
 }
 .salary-range__list {
+  margin-top: 15px;
   padding-left: 10px;
 }
 .salary-range__list li::before {

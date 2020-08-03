@@ -18,13 +18,12 @@
         content="LOGIQUE Digital Indonesia is frequently involved in numerous web development projects, ranging from designing web systems, mobile applications, digital marketing campaigns, and many other IT related ventures. Our work within the Digital and IT areas cover ASEAN countries; especially Indonesia and Japan. Click here to see our top achievements and clientele portfolio.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Portfolio | Web System App Development Works | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="/css/style-ori.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 </head>
@@ -111,13 +110,12 @@
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
                             <div class="container">
+                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                                 <ul class="list-inline">
                                     <li class="active"><a href="#">EN</a></li>
-                                    <li><a href="/portofolio/website.php">ID</a></li>
-                                    <li><a href="/jp/portfolio/website.php">JP</a></li>
+                                    <li><a href="/portofolio/digital-marketing.php">ID</a></li>
+                                    <li><a href="/jp/portfolio/digital-marketing.php">JP</a></li>
                                 </ul>
-                                <a href="index.php"><img src="/img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
                     </div>
@@ -171,11 +169,12 @@
                         </div>
                     </div>
                 </div>
-                <div class="container__">
+                <div class="container__ banner-detail__content">
                     <div class="row">
                         <div class="col-md-offset-1 col-md-7">
                             <div class="title"><h1>Digital Marketing Works</h1></div>
-                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our Web creation, mobile app / PWA development, IT system development, and digital marketing consulting portfolio.</p>
+                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our digital marketing consulting portfolio.</p>
+                            <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
                         </div>
                     </div>
                 </div>

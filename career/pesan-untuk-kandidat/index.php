@@ -18,9 +18,7 @@
   <meta property="og:description"
     content="Kenali lebih dekat para staff profesional kami yang dapat membantu Anda mengembangkan kemampuan yang Anda miliki. Berikut ini pesan dari para staff terbaik kami bagi Anda. Segera daftarkan diri Anda di LOGIQUE sekarang juga!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Pesan Untuk Kandidat | lowongan web programmer | LOGIQUE Digital Indonesia</title>
+  <title>Pesan Untuk Kandidat | lowongan web programmer | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -205,6 +203,26 @@
                     <div class="message__footer">
                       <a class="form-control main-btn --small-btn-bold --yellow"
                         href="/career/interview/muklis.php">Interview with <br> Senior Backend Dev
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4 pb--2-5em">
+                  <img class="img-responsive center-block" src="/img/career/aprillian-message.png" alt="DM Aprillian">
+                  <div class="message__text-wrapper">
+                    <h4 class="message__text-title" data-emergence="hidden">
+                      Aprilian
+                      <br class="visible-md hidden-lg">
+                      <span class="role--title">
+                        - Leader of DM
+                      </span>
+                    </h4>
+                    <p class="message__text-content">
+                      “Logique perusahaan yang sangat mengerti arti sebuah apresiasi, setiap hasil diukur secara transparan dengan tolak ukur yang jelas. Logique telah menyiapkan beragam "Reward" bagi setiap individu yang mampu menjadi bagian dari team Logique yang hebat. Melalui keahlian Anda di bidang Digital Marketing dan ditunjang dengan kemampuan dalam Analysis, Planning, & Reporting yang baik, Kami percaya Anda adalah kandidat yang Kami butuhkan.”
+                    </p>
+                    <div class="message__footer">
+                      <a class="form-control main-btn --small-btn-bold --yellow"
+                        href="/career/interview/aprillian.php">Interview with <br/>Leader Digital Marketing
                       </a>
                     </div>
                   </div>

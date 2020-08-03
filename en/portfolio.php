@@ -17,17 +17,15 @@
     <meta property="og:description"
         content="LOGIQUE Digital Indonesia is frequently involved in numerous web development projects, ranging from designing web systems, mobile applications, digital marketing campaigns, and many other IT related ventures. Our work within the Digital and IT areas cover ASEAN countries; especially Indonesia and Japan. Click here to see our top achievements and clientele portfolio.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
     <title>Portfolio | Web System App Development Works | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.css">
-    <link href="/css/style-ori.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">    
 </head>
 
 <body style="overflow-x: hidden">
@@ -149,7 +147,7 @@
 
         <div class="portfolio-update content-wrapper__">
 
-            <section class="--top portfolio__banner">
+            <section class="portfolio__banner --top">
                 <div class="container__" style="padding:0">
                     <div class="row">
                         <div class="col-sm-12">
@@ -209,85 +207,79 @@
             <section class="portfolio-update__nav">
                 <div class="container__">
                     <div class="page-nav">
-                        <a class="page-nav__btn" href="#portofolio_website">Website</a>
+                        <a class="page-nav__btn" href="#portfolio_website">Website</a>
                         <a class="page-nav__btn" href="#portfolio_sys">Web Application</a>
-                        <!-- <a class="page-nav__btn" href="#caseStudy">Case <br>Study</a> -->
-                        <a class="page-nav__btn" href="#portofolio_mobile">Mobile App / PWA</a>
-                        <!-- <a class="page-nav__btn" href="#">Digital <br>Marketing</a> -->
+                        <a class="page-nav__btn" href="#portfolio_mobile">Mobile App / PWA</a>
                         <a class="page-nav__btn" href="#portfolio_dm">Digital Marketing & Etc.</a>
                     </div>
                 </div>
             </section>
 
-            <section id="portofolio_website" class="portfolio-update__content">
+            <section id="portfolio_website" class="portfolio-update__content">
                 <div class="container__">
                     <h2 class="text-center">Website</h2>
                     <div class="content__wrapper">
-                        <div class="row">
+                        <div class="flex__row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="/img/portfolio/update/aia-full.png" class="content__item" data-toggle="lightbox">
-                                    <img src="/img/portfolio/update/aia.png" class="img-responsive" alt="">
-                                    <h3>AIA</h3>
+                                <a class="content__item" href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/update/web-aia-premiere.png" class="img-responsive" alt="AIA Premier Academy">
+                                    <h3>AIA Premier Academy</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pembuatan Halaman Campaign (Design | Coding | Hosting)</li>
-                                        <li>Website Campaign, Optimasi Mobile, Asuransi, Akademi</li>
+                                        <li>Website Creation (Design | Coding)</li>
+                                        <li>Static Web, Animation, Visual, Income Calculator, Graph, Insurance Agent Training</li>
                                     </ul>
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="/img/portfolio/update/panin.png" class="content__item" data-toggle="lightbox">
+                                <a class="content__item" href="https://www.bekalhidup.com" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/panin.png" class="img-responsive" alt="">
                                     <h3>Panin Life Dai-ichi</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengembangan E-Commerce (Design | Coding | CMS | Payment)</li>
-                                        <li>CMS, E-Commerce, Finansial, Asuransi, Integrasi API, Payment Gateway</li>
+                                        <li>E-Commerce Dev (Design | Coding | CMS | Payment)</li>
+                                        <li>CMS, secure E-Commerce, Financial, Insurance</li>
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix visible-sm"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="/img/portfolio/update/jba.png" class="content__item" data-toggle="lightbox">
+                                <a class="content__item" href="https://jba.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/jba.png" class="img-responsive" alt="">
                                     <h3>JBA INDONESIA</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
-                                        <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
+                                        <li>WEB Dev & Operation (Design | CMS | System | Operation | AWS)</li>
+                                        <li>Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial</li>
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix visible-md"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="/img/portfolio/update/j-trust.png" class="content__item" data-toggle="lightbox">
+                                <a class="content__item" href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/j-trust.png" class="img-responsive" alt="">
                                     <h3>JTrust Bank (Re-design)</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Re-Design (Design | Coding | Integrasi CMS)</li>
-                                        <li>Optimasi Mobile, Multi-Bahasa, CMS, Bank</li>
+                                        <li>WEB Re-Design (Design | Coding | CMS Integration)</li>
+                                        <li>Mobile Optimized, Multi-bahasa, CMS, Bank</li>
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix visible-sm"></div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="/img/portfolio/update/mobirent.png" class="content__item" data-toggle="lightbox">
+                                <a class="content__item" href="https://mobirent.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/mobirent.png" class="img-responsive" alt="">
                                     <h3>Mobirent</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Design (Design | Coding | Deployment)</li>
-                                        <li>Website Perusahaan, Optimasi Mobile, Otomotif, Rental Mobil</li>
+                                        <li>Company Web, Mobile Optimized, Automotive, Car Rental</li>
                                     </ul>
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="/img/portfolio/update/jnto.png" class="content__item" data-toggle="lightbox">
+                                <a class="content__item" href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/jnto.png" class="img-responsive" alt="">
                                     <h3>JNTO Indonesia</h3>
                                     <ul class="list-unstyled">
-                                        <li>Pembaharuan & Pengoperasian WEB (Design | Coding | Operation)</li>
-                                        <li>Optimasi Mobile, Keamanan WEB, Publik, Perjalanan, Travel</li>
+                                        <li>WEB Remake & Operation (Design | Coding | Operation)</li>
+                                        <li>Mobile Optimized, secure WEB, Public, Travel</li>
                                     </ul>
                                 </a>
                             </div>
-                            <div class="clearfix visible-sm"></div>
                         </div>
                     </div>
                     <div class="text-center">
@@ -296,24 +288,16 @@
                 </div>
             </section>
 
-            <section id="portofolio_mobile" class="portfolio-update__content">
+            <section id="portfolio_mobile" class="portfolio-update__content">
                 <div class="container__">
                     <h2 class="text-center">Mobile App</h2>
                     <div class="content__wrapper">
                         <div class="row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/caroline-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/caroline.png" alt="">
-                                        <h3>Caroline Inspection App</h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/jba-bike-mobile-bg.png')">
                                     <div>
                                         <img src="/img/portfolio/update/jba-bike-mobile.png" alt="">
-                                        <h3>Caroline Inspection App</h3>
+                                        <h3>JBA Bike Inspection App</h3>
                                     </div>
                                 </div>
                             </div>
@@ -321,7 +305,23 @@
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
                                     <div>
                                         <img src="/img/portfolio/update/mobile-hino.png" alt="">
-                                        <h3>Caroline Inspection App</h3>
+                                        <h3>Weeo Hino Connect</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-wantjp-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-wantjp.png" alt="Want.jp">
+                                        <h3>Want.jp</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-nlec-bg.png')">
+                                    <div>
+                                        <img src="/img/portfolio/update/mobile-nlec.png" alt="NLEC Nihongo E-Learning PWA">
+                                        <h3>NLEC Nihongo E-Learning PWA</h3>
                                     </div>
                                 </div>
                             </div>
@@ -329,23 +329,15 @@
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-bg.png')">
                                     <div>
                                         <img src="/img/portfolio/update/mobile-jba.png" alt="">
-                                        <h3>Caroline Inspection App</h3>
+                                        <h3>JBA Indonesia Auction Bidding App</h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-sinarmas-bg.png')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-otomart-bg.png')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-sinarmas.png" alt="">
-                                        <h3>Caroline Inspection App</h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/mobile-hino.png" alt="">
-                                        <h3>Caroline Inspection App</h3>
+                                        <img src="/img/portfolio/update/mobile-otomart.png" alt="">
+                                        <h3>Otomart - Used Car on Sale Finder App</h3>
                                     </div>
                                 </div>
                             </div>
@@ -361,13 +353,13 @@
                 <div class="container__">
                     <h2 class="text-center">System Development</h2>
                     <div class="content__wrapper">
-                        <div class="row">
+                        <div class="flex__row">
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
                                 <div class="item__img">
                                     <img src="/img/portfolio/update/sys-jba.png" alt="">
                                 </div>
                                 <h3>JBA Indonesia; Online Car Auction System Development</h3>
-                                <p>Pengembangan Aplikasi Mobile ( Pengembangan sistem inspeksi kendaraan dan sistem penilaian)</p>
+                                <p>Mobile App Development (Inspection & Quality Scoring System).</p>
                             </div>
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
                                 <div class="item__img">
@@ -381,14 +373,14 @@
                                     <img src="/img/portfolio/update/sys-zuttoride.png" alt="">
                                 </div>
                                 <h3>ZuttoRide Indonesia; CRM DevOps</h3>
-                                <p>Pengembangan sistem manajemen pelanggan ( WEB-CRM ) untuk perusahaan layanan sepeda motor di Indonesia.</p>
+                                <p>WEB-CRM system development for a motorcycle service company.</p>
                             </div>
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
                                 <div class="item__img">
                                     <img src="/img/portfolio/update/sys-sinarmas.png" alt="">
                                 </div>
                                 <h3>Sinar Mas Land; HRS Development</h3>
-                                <p>Pengembangan Sistem Rekrutmen dan Tes Psikologi Online.</p>
+                                <p>E-Recruitment System and Online Psychological Test Development.</p>
                             </div>
                         </div>
                     </div>
@@ -427,7 +419,7 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <a href="/en/portfolio/system-development.php" class="btn">See more</a>
+                        <a href="/en/portfolio/digital-marketing.php" class="btn">See more</a>
                     </div>
                 </div>
             </section>
@@ -451,13 +443,6 @@
     </div>   
     <?php include 'footer.php';?>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
-    <script>
-        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
-            event.preventDefault();
-            $(this).ekkoLightbox();
-        });
-    </script>
 
     <script>
     $('.same-height').matchHeight();

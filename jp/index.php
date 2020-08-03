@@ -22,9 +22,7 @@
   <meta property="og:description"
     content="インドネシア、ジャカルタでのWebサイト(ホームページ)制作、システム構築、Digitalマーケティング、モバイルアプリ開発(ハイブリッド / iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、コンテンツマーケティングなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。インドネシアで7年以上多くのお客様をご支援してきた実績があります。">
   <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>ジャカルタのWebサイト/ホームページ制作会社 | LOGIQUE デジタルインドネシア</title>
+  <title>ジャカルタのWebサイト/ホームページ制作会社 | LOGIQUE デジタルインドネシア</title>
 
   <!-- Bootstrap -->
   <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -333,7 +331,7 @@
                   <img src="/img/top/i-hiring-site-update.png" alt="hr site">
                 </div>
               <div class="item__text">
-                <h4>Custom Hiring Site</h4>
+                <h4>Custom Recruitment Website</h4>
                 <p>ほかに御社の採用Webサイトを制作するソリューションも提供しています。デジタルマーケティングを実施してターゲットとなる求職者に御社での仕事をアピールし、採用Webでメリット訴求し、Sugoi採用でストレスなく採用プロセスに入ってもらうという一連の流れをご支援しています。</p>
                 <a href="services/recruitment-web-dev.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
               </div>

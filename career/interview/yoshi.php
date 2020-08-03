@@ -18,9 +18,7 @@
   <meta property="og:description"
     content="Ingin mengenal lebih dekat tentang LOGIQUE Digital Indonesia? Owner kami memberikan pesan dan kriteria staff yang diinginkan oleh LOGIQUE. Kunjungi halaman karir LOGIQUE dan daftarkan diri Anda sekarang juga!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Interview CEO | Pesan Untuk Kandidat | LOGIQUE Digital Indonesia</title>
+  <title>Interview CEO | Pesan Untuk Kandidat | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -119,7 +117,7 @@
             </div>
             <div class="col-md-7">
               <div class="interview__role-title --white">
-                <h2>-- Yoshi, CEO / Founder</h2>
+                <h1>-- Yoshi, CEO / Founder</h1>
               </div>
             </div>
           </div>

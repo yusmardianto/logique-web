@@ -18,9 +18,7 @@
   <meta property="og:description"
     content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Web Developer. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Web Developer | Lowongan Kerja | Programmer | LOGIQUE Digital Indonesia</title>
+  <title>Web Developer | Lowongan Kerja | Programmer | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

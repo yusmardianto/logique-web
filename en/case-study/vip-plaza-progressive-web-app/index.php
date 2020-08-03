@@ -26,9 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script>
-    <title>Progressive Web Apps (PWA) Development | Case Study | LOGIQUE Digital Indonesia</title>
+  <title>Progressive Web Apps (PWA) Development | Case Study | LOGIQUE Digital Indonesia</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
