@@ -17,7 +17,7 @@
     transition: all .2s;
 }
 
-.dm__other-service .other-service__list .list__item > img:hover {
+.dm__other-service .other-service__list .list__item:hover > img {
     bottom: 10px;
     box-shadow: 0px 29px 19px -16px rgba(0, 0, 0, 0.25)
 }

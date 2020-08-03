@@ -3,7 +3,6 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
     background-size: cover;
     height: 425px;
     overflow: hidden;
@@ -43,6 +42,7 @@
 
 .dm__links .links__item > div {
     z-index: 0;
+    padding-top: 70%;
 }
 
 .dm__links .links__item h3 {
@@ -95,6 +95,13 @@
     .dm__links .links__item::before {
         bottom: -150px;
     }
+    .dm__links .links__item {
+        justify-content: flex-end;
+    }
+    .dm__links .links__item > div {
+        padding-top: unset;
+        min-height: 125px;
+    } 
 }
 
 @media (max-width: 767.98px) {
