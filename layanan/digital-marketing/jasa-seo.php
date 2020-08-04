@@ -416,7 +416,7 @@
 							</div>
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
-									<p class="text-center">LOGIQUE is a home for website developers and digital marketing professionals. This is what strengthens the synergy between developing Digital Assets and optimizing engagement for each of your Digital Assets.</p>
+									<p class="text-center">LOGIQUE adalah perusahaan dan menjadi tempat bagi para web developer dan praktisi pemasaran digital berpengalaman. Inilah yang memperkuat sinergi antara mengembangkan Aset Digital dan mengoptimalkan interaksi pengguna untuk setiap Aset Digital Anda</p>
 								</div>
 							</div>
 						</div>
