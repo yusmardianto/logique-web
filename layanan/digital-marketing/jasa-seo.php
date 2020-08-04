@@ -217,7 +217,7 @@
 							</div>
 							<div class="row">
 								<div class="col-md-6">
-									<p>Pada akhirnya, membuat proses pengoptimalan kinerja sebuah website membutuhkan yang waktu yang lama, sedangkan Anda ingin pertumbuhan perusahaan yang terus meningkat seiring berjalannya waktu.</p>
+									<p>Pada akhirnya, membuat proses pengoptimalan kinerja sebuah website membutuhkan waktu yang lama, sedangkan Anda ingin pertumbuhan perusahaan yang terus meningkat seiring berjalannya waktu.</p>
 								</div>
 								<div class="col-md-6">
 									<img src="" alt="" class="img-responsive seo__dummy">
