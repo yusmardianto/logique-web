@@ -174,11 +174,14 @@
              <div class="row">
                  <div class="col-md-offset-1 col-md-10 text-center bg-header-txt text-center">
                      <h1 class="m-new">
-                         Jasa Pengembangan Sistem Berbasis Web<br>Profesional
+                         Jasa Pengembangan Sistem Berbasis Web <br>Profesional
+
                      </h1>
-                     <h3 class="  m-new">
-                       <span class="logofont">LOGIQUE</span> adalah partner yang tepat untuk Anda, yang mampu memberikan jasa pembuatan sistem berbasis web terbaik yang berstandar internasional. Kami dapat membantu Anda untuk mengembangkan sistem berbasis web yang berkualitas dengan proses yang cepat serta
-harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekarang juga!</p>
+                     <h3 class="  m-new">  
+                        <span class="logofont">LOGIQUE</span> adalah partner yang tepat untuk Anda, yang menyediakan jasa pembuatan sistem berbasis web dan manajemen proyek terbaik dengan kualitas dan keamanan yang berstandar internasional. Kami dapat membantu Anda mengembangkan sistem berbasis web berkualitas dengan harga yang kompetitif.
+                        <p>
+Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekarang juga! </p>
+
                      </h3>
                      <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
                  </div>
@@ -213,9 +216,10 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
         <div class="container">
             <div class="section-desc">
                 <div class="row">
-                    <div class="ol-md-12 text-center">
-                     <span class="logofont">LOGIQUE</span> which is committed to continuing to grow and follow trends in search engine optimization is able to become your business partner and is ready to increase significant business growth from brand development to sales acquisition.
+                    <div class="ol-md-12 text-center"> 
+                     Pengembangan sistem berbasis web yang baik membutuhkan partner perusahaan pengembangan yang tepat guna memastikan rancangan dan pengembangan sistem yang dilakukan berjalan sesuai target.  <span class="logofont">LOGIQUE</span>  berkomitmen memberikan layanan terbaik berstandar internasional dan membangun relasi jangka panjang dengan para klien.
                     </div>
+
                 </div>
             </div>
             <div class="sec-content-part whyour-systemdev">
@@ -231,7 +235,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                       <div id="fast" class="tab-pane fade in active">
                          <div class="row">
                             <div class="col-sm-6">
-                                <p>Dalam proses pengembangan website, kami berpegang pada metode agile developement yang fleksibel dan cepat. Tim developer kami dapat beradaptasi dengan cepat terhadap perubahan agar sistem yang dikembangkan tetap berkualitas serta sesuai dengan kebutuhan yang dinamis.</p>
+                                <p>Dalam proses pengembangan website, kami menggunakan metode agile developement yang fleksibel dan cepat. Tim developer kami dapat beradaptasi terhadap perubahan agar sistem yang dikembangkan tetap berkualitas serta sesuai dengan kebutuhan yang dinamis.</p>
                             </div>
                             <div class="col-sm-6 text-center">
                                 <img src="pembuatan-sistem-web/img/newlayout/laptop.jpg">
@@ -241,8 +245,8 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                       <div id="save" class="tab-pane fade">
                         <div class="row">
                             <div class="col-sm-6">
-                                <p>Semua website kami kembangkan dengan sistem keamanan tinggi. Kami akan melakukan sejumlah pengujian keamanan sebelum sistem diserahkan ke klien. Kami juga melakukan penetration testing untuk mengurangi risiko serangan cyber seperti SQL injection, path traversal, dan x-site scripting.</p>
-                                <a href="#" class="btn-yellow">Pelajari Layanan Pentration Testing</a>
+                                <p style="padding-bottom: 5px;">Semua sistem berbasis web yang kami produksi dikembangkan dengan kualitas dan keamanan tinggi berstandar internasional yang telah teruji termasuk untuk klien-klien kami yang berasal dari industri finansial. Secara teknis, kami akan melakukan sejumlah pengujian keamanan sebelum sistem diserahkan ke klien yang mencakup penetration testing untuk mengurangi risiko serangan cyber seperti SQL injection, path traversal, dan x-site scripting.</p> 
+                                <a href="/penetration-test.php" class="btn-yellow">Pelajari Layanan Pentration Testing</a>
 
                             </div>
                             <div class="col-sm-6 text-center">
@@ -253,7 +257,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                       <div id="expert" class="tab-pane fade">
                         <div class="row">
                             <div class="col-sm-6">
-                                <p>Kami berpengalaman dalam memberikan jasa pembuatan sistem berbasis web untuk banyak klien internasional dan lokal berskala besar khususnya dalam industri otomotif, lelang, dan e-commerce. Adapun industri lainnya yang kami bantu termasuk asuransi, finansial, pariwisata, manufaktur, dan startup-startup digital. Dengan pengalaman tersebut, kami dengan cepat memahami kebutuhan bisnis dan memberikan solusi terbaik untuk Anda. </p>
+                                <p>Kami berpengalaman dalam memberikan jasa pembuatan sistem berbasis web untuk banyak klien internasional dan lokal berskala besar khususnya dalam industri otomotif, lelang, dan e-commerce. Namun secara menyeluruh kami juga telah membantu berbagai industri lainnya seperti asuransi, finansial, pariwisata, manufaktur, dan startup-startup digital baik dalam pembuatan sistem berbasis web ataupun layanan lainnnya seperti pengembangan aplikasi mobile atau pemasaran digital. Dengan pengalaman tersebut, kami dengan cepat memahami kebutuhan bisnis klien dan memberikan solusi terbaik untuk Anda. </p>
                             </div>
                             <div class="col-sm-6 text-center">
                                 <img src="pembuatan-sistem-web/img/newlayout/laptop.jpg">
@@ -263,7 +267,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                       <div id="infra" class="tab-pane fade">
                        <div class="row">
                             <div class="col-sm-6">
-                                <p>Kami dapat membantu Anda membangun dan merancang arsitektur server berbasis cloud di Indonesia dan luar negeri. Kami merupakan partner resmi dari AWS dan berpengalaman dalam konstruksi server cloud untuk AWS, GCP, serta Alibaba. Di era digital seperti saat ini, kami juga telah berhasil melakukan banyak migrasi sistem dan database dari server lokal ke dalam server cloud</p>
+                                <p>Kami dapat membantu Anda membangun dan merancang arsitektur server berbasis cloud baik di Indonesia maupun di luar negeri. Kami merupakan partner resmi dari AWS dan berpengalaman dalam melakukan setup dan implentasi server cloud untuk AWS, GCP, serta Alibaba. Khususnya dalam beberapa waktu belakangan ini, kami juga telah berhasil membantu melakukan banyak migrasi sistem dan database dari server lokal (on-premise) ke server cloud.</p>
                             </div>
                             <div class="col-sm-6 text-center">
                                 <img src="pembuatan-sistem-web/img/newlayout/laptop.jpg">
@@ -274,7 +278,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                 </div>
             </div>
             <div class="sec-content-part  service-opt">
-                <h2 class="sub-section-title text-center">Kami Memiliki Pilihan Layanan Pembuatan Sistem Berbasis Web <br>yang Sesuai dengan Kebutuhan Anda</h2>
+                <h2 class="sub-section-title text-center"> Kami Memiliki Pilihan Layanan Pembuatan Sistem Berbasis Web <br>yang Sesuai dengan Kebutuhan Anda</h2>
                 <div class="page-content skema-list">
                     <div class="row rowflex">
                         <div class="col-sm-6">
@@ -370,7 +374,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                           </h4>
                         </div>
                         <div id="suggestion" class="panel-collapse collapse">
-                          <div class="panel-body"><p>Tujuan dari pemanfaatan dan pengembangan sistem web adalah untuk meningkatkan dan mengembangkan bisnis. Terkadang, perusahaan mengalami kesulitan untuk memahami masalah dalam bisnisnya sehingga tidak menemukan solusi yang tepat. Dengan pengalaman yang kami miliki, kami dapat membantu menyelesaikannya. <p>
+                          <div class="panel-body"><p>Tujuan dari pemanfaatan dan pengembangan sistem berbasis web adalah untuk mendukung dan meningkatkan bisnis yang ada. Terkadang, perusahaan mengalami kesulitan untuk memahami masalah dalam bisnisnya sehingga tidak menemukan solusi yang tepat. Dengan pengalaman yang kami miliki, kami dapat membantu menyelesaikannya. </p>
 <p>Kami akan mencari sumber masalah yang terjadi dan berbagi saran terbaik untuk mengatasinya. Kami akan berfikir dari sudut pandang klien ketika memberi saran untuk penggunaan dan pemanfaatan sistem web agar lebih optimal.</p>
 </div>
                         </div>
@@ -394,7 +398,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                      <img src="pembuatan-sistem-web/img/newlayout/unsupport-1.svg">
                                 </div>
                                 <div  class="unsupport-info">
-                                    Kami mengutamakan pengembangan sistem berbasis web dari awal yang optimal sesuai dengan tujuan dan kebutuhan bisnis Anda. Dengan menggunakan layanan kami yang berbasis open source framework, Anda akan mendapatkan sistem berbasis web dalam waktu yang singkat tanpa harus menggunakan paket software yang mahal (<i>SAP, Microsoft Dynamics, dan SalesForce</i>).
+                                    Kami mengutamakan pengembangan sistem berbasis web dari awal yang optimal sesuai dengan tujuan dan kebutuhan bisnis Anda. Dengan menggunakan layanan kami yang berbasis open source framework, Anda akan mendapatkan sistem berbasis web dalam waktu yang singkat tanpa harus menggunakan paket software yang mahal seperti SAP, Microsoft Dynamics, dan SalesForce.
                                 </div>
                             </div>
                         </div>
@@ -410,9 +414,8 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                             </div>
                         </div>
                     </div> 
-                    <div class="text-center unsupport-desc">
-                        Jika Anda mempercayakan manajemen proyek secara keseluruhan kepada <span class="logofont">LOGIQUE</span>, maka Anda dapat memimpin proyek menuju bisnis yang lebih sukses dengan cara yang cepat dan fleksibel.
-                        
+                    <div class="text-center unsupport-desc"> 
+                         Jika Anda mempercayakan manajemen proyek secara keseluruhan kepada <span class="logofont">LOGIQUE</span>, maka <span class="logofont">LOGIQUE</span> dapat membantu Anda lebih sukses dalam proyek tersebut dengan cara yang cepat dan fleksibel.
                     </div>
                    
                 </div>
@@ -445,7 +448,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                     </div>
                                     <div class="technology-studycase">
                                         <strong>Bahasa Pemograman :</strong><br>
-                                     PHP, NodeJS, SocketIO, Android Native
+                                     HTML5/CSS3, .Net Framework, SQL Server, Integrasi LDAP dan SAP
                                     </div>
                                     
                                 </div>
@@ -456,7 +459,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                     </div>
                                     <div class="technology-studycase">
                                         <strong>Teknologi utama: </strong><br>
-                                        HTML5/CSS3, .Net Framework, SQL Server, Integrasi LDAP dan SAP
+                                       Android Kotlin, IoT, Integrasi API
                                     </div> 
                                 </div>
                             </div>
@@ -466,13 +469,13 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                             <div class="studycase-content text-slide-content">
                                 <div class="slidertext-studycase">
                                     <div class="slider2-item">
-                                    Kami telah membantu mengembangkan banyak sistem berbasis web, aplikasi dan website untuk sistem inti perusahaan, aplikasi bidding, lelang online, aplikasi inspeksi, sistem keuangan, dan masih banyak lagi. Sistem memiliki fungsi yang sangat penting, maka pengembangan sistem harus terhindar dari kesalahan. Berusaha menyelesaikan proyek dengan cepat, kami juga selalu mengadakan pertemuan antara tim kami dengan tim JBA untuk mengoptimalkan sistem.
+                                    JBA adalah perusahaan lelang mobil dan motor terbesar di Indonesia. Untuk JBA, kami telah dipercaya dalam mengembangkan hampir semua sistem yang digunakan yang mencakup sistem utama terkait inventori kendaraan, website perusahaan, aplikasi lelang online, aplikasi inspeksi, sistem keuangan, dan masih banyak lagi. Karena sistem JBA ini memiliki fungsi yang sangat penting, maka pengembangan sistem harus terbebas dari kesalahan dan memiliki tingkat keamanan yang sangat tinggi. Sesuai ekspektasi yang diberikan, kami dapat menyelesaikan proyek dengan kualitas yang baik dan tepat waktu melalui proses manajemen proyek yang ketat dan profesional serta dukungan tim teknis yang berpengalaman.
                                     </div>
                                     <div class="slider2-item">
-                                    Dalam waktu 7 bulan, kami berhasil mengembangkan sistem berbasis web untuk Sinar Mas Land. Sistem ini berfungsi sebagai sistem rekrutmen dan tes psikologi online untuk mempermudah proses seleksi karyawan. Sistem juga dikembangkan dengan tingkat keamanan yang tinggi untuk melindungi data pribadi milik pelamar. 
+                                    Dalam waktu 7 bulan, kami berhasil mengembangkan sistem berbasis web untuk Sinar Mas Land. Sistem ini berfungsi sebagai sistem rekrutmen dan tes psikologi online untuk mempermudah proses seleksi karyawan. Sistem juga dikembangkan dengan tingkat keamanan yang tinggi untuk melindungi data pribadi milik pelamar.  
                                     </div>
                                     <div class="slider2-item">
-                                    Kami mengembangkan aplikasi seluler untuk monitoring kendaraan secara real time. Dilengkapi dengan peta digital maka pemilik kendaraan, dealer, atau klien dapat memantau kondisi kendaraan secara langsung dari perangkat seluler mereka.
+                                    Kami mengembangkan aplikasi seluler untuk monitoring kendaraan secara real time. Dilengkapi dengan peta digital maka pemilik kendaraan, dealer, atau klien dapat memantau kondisi dan kecepatan kendaraan secara langsung dari perangkat seluler mereka.
                                     </div>
                                 </div>
                             </div>
@@ -1002,7 +1005,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                 </li>
                             </ul>
                             <div class="client-testimoni">
-                                Sebagai kepala departemen IT, saya telah menghandle banyak proyek pengembangan sistem. Sejauh ini, saya belum pernah menemukan perusahaan development yang dapat bekerja sefleksible LOGIQUE. Sistem yang dihasilkan pun memiliki kualitas yang tinggi. Terkadang user juga menginginkan perubahan di tengah proses pengembangan, namun saya sangat senang karena dengan cara kerja <span class="logofont">LOGIQUE</span> yang fleksibel, saya dapat memberikan respon dengan cepat kepada user. Saya juga pernah meminta layanan maintenance kepada <span class="logofont">LOGIQUE</span>, dan saya sangat berterimakasih atas update informasi yang dilakukan secara rutin dan tepat waktu.  
+                                Sebagai kepala departemen IT, saya telah terlibat dalam berbagai proyek pengembangan sistem. Namun sejauh ini saya belum pernah menemukan perusahaan pengembangan yang fleksibel dan dinamis seperti <span class="logofont">LOGIQUE</span> yang mampu menyesuaikan dengan kebutuhan User yang sering berubah tanpa mengabaikan kualitas yang diberikan. Saya juga pernah meminta layanan maintenance kepada <span class="logofont">LOGIQUE</span>, dan saya sangat berterimakasih atas update informasi yang dilakukan secara rutin dan tepat waktu.   
                             </div>
                             <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
                         </div>
@@ -1019,7 +1022,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                 </li>
                             </ul>
                             <div class="client-testimoni">
-                                Saya memutuskan untuk membatalkan kontrak dengan perusahaan development sebelumnya dan memilih <span class="logofont">LOGIQUE</span> untuk mengembangkan dan mengelola sistem yang kami kembangkan. Saya sangat senang karena <span class="logofont">LOGIQUE</span> tetap dapat melanjutkan pengembangan sistem web dengan fleksibel dan efektif meskipun tanpa dokumentasi dan informasi yang memadai. Pihak kami hanya menunjukkan beberapa masalah yang sebenarnya tidak terlalu kami mengerti, namun <span class="logofont">LOGIQUE</span> justru dapat memahami masalah yang terjadi dan memberikan solusi terbaik untuk meningkatkan pengembangan sistem kami. 
+                                Karena banyaknya masalah yang terjadi, saya memutuskan untuk membatalkan kontrak dengan perusahaan pengembangan sebelumnya dan memilih <span class="logofont">LOGIQUE</span> untuk melakukan pengembangan lanjutan dan mengelola sistem kami. Saya sangat senang karena <span class="logofont">LOGIQUE</span> berhasil melanjutkan pengembangan sistem berbasis web tersebut dengan fleksibel dan efektif meskipun tanpa dokumentasi dan informasi yang memadai. Pihak kami hanya menunjukkan beberapa masalah yang sebenarnya tidak terlalu kami mengerti, namun <span class="logofont">LOGIQUE</span> justru dapat memahami masalah yang terjadi dan memberikan solusi terbaik untuk pengembangan sistem kami.
                             </div>
                             <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
                         </div>
@@ -1036,7 +1039,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                 </li>
                             </ul>
                             <div class="client-testimoni">
-                                Kami meminta pengembangan sistem web dengan tarif tetap perbulan yang memungkinkan proses pengerjaan hanya dilakukan pada hari-hari tertentu setiap bulan. Saya sangat senang dengan tipe pengembangan seperti ini karena sistem yang dikerjakan dapat selesai dalam waktu yang singkat namun tetap hemat biaya. Untuk proyek pengembangan besar selanjutnya, mungkin kami akan meminta pengembangan dengan tipe lab dimana biaya hanya dihitung berdasarkan jumlah hari kerja. 
+                                Kami melakukan pengembangan sistem berbasis web dengan tarif tetap perbulan yang memungkinkan proses pengerjaan hanya dilakukan pada hari-hari tertentu. Saya sangat senang dengan tipe pengembangan seperti ini karena sistem yang dikerjakan dapat selesai dengan baik namun tetap hemat biaya. Untuk proyek selanjutnya, mungkin kami akan meminta pengembangan dengan skema berbasis resource yang dinamis
                             </div>
                             <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
                         </div>
@@ -1059,7 +1062,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                     <img src="pembuatan-sistem-web/img/newlayout/icon-point1.svg">
                                 </div>
                                 <div class="point-desc">
-                                    <span class="logofont">LOGIQUE</span> memiliki banyak pengalaman dalam pengembangan sistem web di Indonesia. Kami akan memanfaatkan pengalaman tersebut untuk setiap proses pengembangan, mulai dari pembuatan jadwal, penentuan kebutuhan, pengembangan sistem, pengujian, desain infrastruktur, deployment, sampai training untuk user.
+                                    <span class="logofont">LOGIQUE</span> memiliki banyak pengalaman dalam pengembangan sistem berbasis web. Kami akan memanfaatkan pengalaman tersebut untuk setiap proses pengembangan, mulai dari analisa kebutuhan klien, memformulasikan solusi, membuat rancangan sistem dan infrastruktur, pengembangan fungsionalitas sistem, deployment , sampai ke pelatihan untuk user.
                                 </div>
                             </div>
                         </div>
@@ -1070,7 +1073,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                     <img src="pembuatan-sistem-web/img/newlayout/icon-point2.svg">
                                 </div>
                                 <div class="point-desc">
-                                    Persaingan bisnis bergerak semakin cepat setiap harinya. Jika pengembangan sistem berbasis web membutuhkan waktu lebih dari 6 bulan atau lebih, maka Anda akan kesulitan untuk mengikuti perkembangan bisnis yang sedang terjadi. Di <span class="logofont">LOGIQUE</span>, kecepatan adalah hal terpenting. Dengan metode agile development, maka kami dapat merespon dengan cepat dan fleksibel terhadap setiap perubahan.
+                                    Persaingan bisnis bergerak semakin cepat setiap harinya. Jika pengembangan sistem berbasis web membutuhkan waktu lebih dari 6 bulan, maka Anda akan kesulitan untuk mengikuti perkembangan bisnis yang sedang terjadi. Di <span class="logofont">LOGIQUE</span>, kecepatan adalah hal terpenting. Dengan metode agile development, maka kami dapat merespon dengan cepat dan fleksibel terhadap setiap perubahan.
                                 </div>
                             </div>
                         </div>
@@ -1081,7 +1084,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                                     <img src="pembuatan-sistem-web/img/newlayout/icon-point3.svg">
                                 </div>
                                 <div class="point-desc">
-                                    Kualitas harus tetap diutamakan. Dengan melakukan pengembangan sesuai standar, kami akan selalu meminimalisir kesalahan dan mengoptimalkan pemeliharan sistem. Kami juga akan melakukan sejumlah pengujian untuk memastikan bahwa sistem memiliki tingkat keamanan yang tinggi.
+                                    Kualitas harus tetap diutamakan. Dengan melakukan pengembangan sesuai standar internasional baik dalam hal kualitas dan keamanan yang telah teruji, kami akan selalu meminimalisir kesalahan dan mengoptimalkan pemeliharan sistem.
                                 </div>
                             </div>
                         </div>
@@ -1094,7 +1097,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
         <div class="sec-content-part contact-banner">
             <div class="page-content">
                 <ul>
-                    <li class="text-left">Hubungi kami sekarang untuk <br>pengembangan sistem yang optimal!<li>
+                    <li class="text-left">Hubungi kami sekarang untuk <br>pengembangan sistem berbasis web yang optimal!<li>
                     <li>
                         <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
                     </li>
@@ -1108,7 +1111,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                 <h2 class="sub-section-title text-center">Bahasa pemrograman yang kami gunakan</h2>
                 <div class="page-content ">
                     <div class="row">
-                        <div class="col-sm-6">Pengembangan web menggunakan framework PHP. Kami sangat baik dalam mengembangkan sistem menggunakan framework PHP seperti,
+                        <div class="col-sm-6">Pengembangan web menggunakan framework PHP. Kami sangat baik dalam mengembangkan sistem menggunakan framework PHP seperti Laravel, Symphony, CakePHP.  
                         </div>
                         <div class="col-sm-6">
                             <ul class="techlist text-center">
@@ -1135,7 +1138,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                 <div class="sec-content-part "> 
                      
                     <div class="page-content  text-center">
-                        <p> Kami memiliki banyak programmer PHP berpengalaman sehingga banyak <br>pencapaian yang kami peroleh dengan sangat baik. 
+                        <p> Kami memiliki banyak programmer PHP berpengalaman sehingga banyak pencapaian yang kami peroleh dengan sangat baik.   
                         </p>
                         <ul class="w3tech-info">
                             <li>
@@ -1163,12 +1166,12 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
             <div class="container">
                 <div class="sec-content-part ">
                  
-                <div class="page-content text-center">
-                    Meskipun beberapa orang beranggapan bahwa PHP sudah tua, namun bahasa pemrograman ini <b>masih menjadi pilihan utama</b> untuk mengembangkan sistem berbasis web karena kompatibilitasnya dengan banyak website serta ketersediaan operasional. 
+                <div class="page-content text-center"> 
+                    Meskipun beberapa orang beranggapan bahwa PHP sudah tua, namun bahasa pemrograman ini <b>masih menjadi pilihan utama</b> untuk mengembangkan sistem berbasis web karena kompatibilitasnya dengan banyak website serta ketersediaan operasional.
                     <div class="img-container">
                         <img src="pembuatan-sistem-web/img/newlayout/web-img.svg">
                     </div>
-                    <p>Selain itu, saat ini banyak CMS seperti Wordpress juga berjalan menggunakan <br>bahasa pemrograman PHP.</p>
+                    <p> Selain itu, saat ini banyak CMS seperti Wordpress juga berjalan menggunakan bahasa pemrograman PHP.</p>
                     <div class="jsfw-container">
                         <p>Pengembangan web menggunakan framework</p>
                             <div class="js-desc-continer">
@@ -1183,7 +1186,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                             </div>
                         </div>
                         <p>
-                            Selain mahir dalam pengembangan web menggunakan PHP dan JavaScript, <span class="logofont">LOGIQUE</span> juga sangat baik dalam pengembangan PWA menggunakan framework JavaScript seperti,
+                            Selain mahir dalam pengembangan web menggunakan PHP dan JavaScript, <br><span class="logofont">LOGIQUE</span> juga sangat baik dalam pengembangan PWA menggunakan framework JavaScript seperti 
                         </p>
                         <ul class="jsframework framework-list">
                             <li><img src="pembuatan-sistem-web/img/newlayout/logo-react.png"> <br> React</li>
@@ -1191,7 +1194,7 @@ harga yang kompetitif. <p>Konsultasikan kebutuhan Anda dengan <span class="logof
                             <li><img src="pembuatan-sistem-web/img/newlayout/logo-vue.png"> <br> Vue.js</li>
                         </ul>
                         <p>
-                            <span class="logofont">LOGIQUE</span> juga memiliki kemampuan untuk membangun sistem berskala besar<br>dengan menggabungkan <b>Node.js dan Express.js.</b>
+                            <span class="logofont">LOGIQUE</span> juga memiliki kemampuan untuk membangun sistem berskala besar <br>dengan menggabungkan Node.js dan Express.js.
                         </p>
                     </div>
                 </div>
