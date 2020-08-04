@@ -62,29 +62,29 @@
             <div class="col-sm-3">
                 <a href="/layanan/web-dev.php" class="list__item">
                     <img src="/en/services/assets/img/img-digital-marketing/other-web-dev.jpg" alt="" class="img-responsive">
-                    <h4>Website Production Service</h4>
-                    <p>LOGIQUE is a website development company that strives to raise your business.</p>
+                    <h4>Jasa Pembuatan Website</h4>
+                    <p>LOGIQUE adalah perusahaan pengembangan situs web yang berupaya meningkatkan bisnis Anda.</p>
                 </a>
             </div>
             <div class="col-sm-3">
                 <a href="/layanan/pembuatan-aplikasi-mobile.php" class="list__item">
                     <img src="/en/services/assets/img/img-digital-marketing/other-mobile.jpg" alt="" class="img-responsive">
-                    <h4>Apps Development Service</h4>
-                    <p>LOGIQUE provide efficient solutions to your Mobile App for iOS & Android.</p>
+                    <h4>Jasa Pembuatan Aplikasi</h4>
+                    <p>LOGIQUE memberikan solusi yang efisien dalam pengembangan Mobile App untuk iOS & Android.</p>
                 </a>
             </div>
             <div class="col-sm-3">
                 <a href="/layanan/pembuatan-sistem-web.php" class="list__item">
                     <img src="/en/services/assets/img/img-digital-marketing/other-system-dev.jpg" alt="" class="img-responsive">
-                    <h4>Web System Development Service</h4>
-                    <p>LOGIQUE assist business goals through latest advance in web base technology.</p>
+                    <h4>Jasa Pembuatan Sistem Web</h4>
+                    <p>LOGIQUE membantu mencapai tujuan bisnis Anda melalui kemajuan terbaru dalam teknologi berbasis web.</p>
                 </a>
             </div>
             <div class="col-sm-3">
                 <a href="/layanan/penetration-test.php" class="list__item">
                     <img src="/en/services/assets/img/img-digital-marketing/other-pentest.jpg" alt="" class="img-responsive">
-                    <h4>Penetration Testing Service</h4>
-                    <p>LOGIQUE will perform various security assessment to your website.</p>
+                    <h4>Jasa Penetration Testing</h4>
+                    <p>LOGIQUE akan melakukan berbagai uji coba keamanan di situs web Anda.</p>
                 </a>
             </div>
         </div>

@@ -53,7 +53,7 @@ a:hover {text-decoration: none;}
     background-color: #ffca13!important;
     position: fixed!important;
     right: 0 !important;
-    top: 0 !important;
+    /* top: 0 !important; */
     /* top: 40px; */
     /* outline: solid 2px #000; */
 }

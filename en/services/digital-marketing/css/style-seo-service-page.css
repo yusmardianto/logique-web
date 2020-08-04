@@ -111,9 +111,9 @@ a:hover {
 }
 .nav-lp .navbar-toggle.collapsed {
   background-color: #ffca13 !important;
-  position: relative !important;
-  right: 0 !important;
-  top: 40px;
+  /* position: relative !important; */
+  /* right: 0 !important; */
+  top: 10px;
 }
 .nav-lp .navbar-toggle {
   background-color: #ffca13 !important;
@@ -122,7 +122,7 @@ a:hover {
   right: 80px;
   border-radius: 0;
   height: 34px;
-  top: -7px;
+  /* top: -7px; */
 }
 .nav-lp .navbar-toggle.collapsed .icon-bar.first {
   -webkit-transform: rotate(0) !important;
@@ -1550,6 +1550,17 @@ ul.medsos-new li a {
   align-items: center;
 }
 
+.seo__solution .solution__main > .main__cloud {
+  background: url('/en/services/assets/img/img-digital-marketing/cloud.svg') center/contain no-repeat;
+  width: 100px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  color: #bfbfbf;
+}
+
 .seo__solution .solution__main h2 {
   margin-bottom: 10px;
 }
@@ -1675,6 +1686,7 @@ ul.medsos-new li a {
   color: #277ef1;
 }
 
+.seo__services .tab-content__text ul > li.active > a > span,
 .seo__services .tab-content__text ul > li:hover > a > span {
   background-color: #277ef1;
   color: #fff;
