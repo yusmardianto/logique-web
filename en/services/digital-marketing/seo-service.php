@@ -150,7 +150,7 @@
 						<div class="col-md-offset-1 col-md-10">
 							<h1>Optimize Your Website on Every Search Engine</h1>
 							<p>Many obstacles are often faced by business people who decide to bring their business Go Digital with a website, but after having a website they feel confused.</p>
-							<img src="/en/services/digital-marketing/img/img-seo-optimization/banner-seo.svg" alt="" class="img-responsive">
+							<img src="/en/services/digital-marketing/img/img-seo-optimization/banner-seo.svg" alt="seo" class="img-responsive">
 							<h3>"Where Can I Get Visitors???"</h3>
 						</div>
 					</div>
@@ -188,42 +188,42 @@
 								<h2 class="main__cloud">SEO</h2>
 								<h2>Search Engine is one solution</h2>
 								<p>Search engines become a platform where users look for an answer or solution, in this situation your website must be able to be present as a solution for every User who has the potential to become your customer.</p>
-								<p>Supported by<span> more than 50 professionals </span>in the field of Digital Marketing, Website Developer, Website Designer, Creative Designer, Content Writer, Copywriter, and Cloud Server Engineer make LOGIQUE as the only company that is able to synergize every aspect of optimizing a website in one roof and mechanism of action.</p>
+								<p>Supported by<span> more than 50 professionals </span>in the field of Digital Marketing, Website Developer, Website Designer, Creative Designer, Content Writer, Copywriter, and Cloud Server Engineer make <strong>LOGIQUE</strong> as the only company that is able to synergize every aspect of optimizing a website in one roof and mechanism of action.</p>
 							</div>
 							<br class="visible-lg">
 							<div class="row">
-								<div class="col-md-6">
-									<img src="" alt="" class="img-responsive seo__dummy">
+								<div class="col-md-6 col-xs-12">
+									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-1.jpg" alt="team effort" class="img-responsive">
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-6 col-xs-12">
 									<p>Our team will always be ready to dedicate its efforts in improving the performance of your website that is supported by the experience of experts who have been experts in their respective fields for years.</p>
 								</div>
 							</div>
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-6 col-xs-12 order-sm-2">
 									<p>Many website development companies are able to create and design websites that look very professional and modern, but unfortunately, most of these companies fail to optimize website functions to make them more friendly with the Search Engine Robot.</p>
 								</div>
-								<div class="col-md-6">
-									<img src="" alt="" class="img-responsive seo__dummy">
+								<div class="col-md-6 col-xs-12">
+									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-2.jpg" alt="optimize website function" class="img-responsive">
 								</div>
 							</div>
 							<div class="row">
-								<div class="col-md-6">
-									<img src="" alt="" class="img-responsive seo__dummy">
+								<div class="col-md-6 col-xs-12">
+									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-3.jpg" alt="web development understanding" class="img-responsive">
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-6 col-xs-12">
 									<p>And many SEO service providers know and understand how to optimize a website, however, it is often constrained because of the limitations of experts who understand website development.</p>
 								</div>
 							</div>
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-6 col-xs-12 order-sm-2">
 									<p>In the end, making the process of optimizing the performance of a website takes a long time, whereas you want the company's growth to continue to increase over time.</p>
 								</div>
-								<div class="col-md-6">
-									<img src="" alt="" class="img-responsive seo__dummy">
+								<div class="col-md-6 col-xs-12">
+									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-4.jpg" alt="teamwork" class="img-responsive">
 								</div>
 							</div>
-							<p class="text-center">This is what LOGIQUE is trying to avoid. Every division involved in optimizing a website will work based on corridors and SEO methods while still paying attention to the aesthetics and functions of a website.</p>
+							<p class="text-center">This is what <strong>LOGIQUE</strong> is trying to avoid. Every division involved in optimizing a website will work based on corridors and SEO methods while still paying attention to the aesthetics and functions of a website.</p>
 						</div>
 					</div>
 				</div>
@@ -395,13 +395,13 @@
 												<li><a href="#service_6_1" data-toggle="pill">We have experts who are native to foreign languages<span>i</span></a></a></li>
 												<li><a href="#service_6_2" data-toggle="pill">With years of experience serving many foreign and local companies.</a></a></li>
 												<li><a href="#service_6_3" data-toggle="pill">Competence of experts who continue to be improved<span>i</span></a></a></li>
-												<li><a href="#service_6_4" data-toggle="pill">Making LOGIQUE a provider of SEO services<span>i</span></a></a></li>
+												<li><a href="#service_6_4" data-toggle="pill">Making <strong>LOGIQUE</strong> a provider of SEO services<span>i</span></a></a></li>
 											</ul>
 										</div>
 										<div class="tab-content__img col-md-6 col-xs-12">
 											<div class="tab-content text-center">
 												<div id="service_6_1" class="tab-pane fade in active">
-												ranging from Japanese, English, and Indonesian. Making LOGIQUE a provider of SEO services that can drive your business to Go International
+												ranging from Japanese, English, and Indonesian. Making <strong>LOGIQUE</strong> a provider of SEO services that can drive your business to Go International
 												</div>
 												<div id="service_6_3" class="tab-pane fade">
 												following the development of SEO techniques that occur globally
@@ -416,7 +416,7 @@
 							</div>
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
-									<p class="text-center">LOGIQUE is a home for website developers and digital marketing professionals. This is what strengthens the synergy between developing Digital Assets and optimizing engagement for each of your Digital Assets.</p>
+									<p class="text-center"><strong>LOGIQUE</strong> is a home for website developers and digital marketing professionals. This is what strengthens the synergy between developing Digital Assets and optimizing engagement for each of your Digital Assets.</p>
 								</div>
 							</div>
 						</div>
@@ -438,7 +438,7 @@
 								</div>
 								<div class="tab-content tab-content__text col-md-6 col-xs-12">
 									<div id="contribution_1" class="tab-pane fade in active">
-										<p>Some of our clients who have businesses in property also see the digital online world as the biggest market potential from their unit sales. From search engines, they want their property sites to be found immediately when users need them. By implementing the right SEO strategy, LOGIQUE has succeeded in helping clients reach their targets to find potential buyers and increase engagement with them. We continue to optimize from keyword improvisation, meta tags, schema installation, to website display optimization to be mobile-friendly. We managed to get high organic traffic and our clients were quite satisfied with the number of conversions generated.</p>
+										<p>Some of our clients who have businesses in property also see the digital online world as the biggest market potential from their unit sales. From search engines, they want their property sites to be found immediately when users need them. By implementing the right SEO strategy, <strong>LOGIQUE</strong> has succeeded in helping clients reach their targets to find potential buyers and increase engagement with them. We continue to optimize from keyword improvisation, meta tags, schema installation, to website display optimization to be mobile-friendly. We managed to get high organic traffic and our clients were quite satisfied with the number of conversions generated.</p>
 									</div>
 									<div id="contribution_2" class="tab-pane fade">
 										<p>Travelling now can be anywhere with just a few steps online. That is what our clients realize, and we have helped them get as many customers as possible through SEO, by analyzing popular keywords that can be used on their website to increase traffic based on each competition value and average monthly search. We also analyze the technical SEO of the website and provide recommendations for improving it. With regular analysis, implementation and evaluation, our strategy has been proven to increase the number of bookings/reservations directly through the website with low Customer Acquisition Costs (CAC).</p>
