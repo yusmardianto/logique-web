@@ -5,11 +5,18 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" content="もし貴社のマーケティング活動において、デジタルマーケティングの活用をご検討されている場合は、お気軽にお問合せください。SEO対策からインターネット広告、SNSの運用など、幅広いサービスを取り扱っております。">
+    <meta name="description" content="LOGIQUEはインドネシアのDigitalマーケティングを支援するITコンサル会社です。Web制作、SEO、インターネット広告運用など幅広くネットマーケティングサービスを提供しています。">
     <meta name="keywords" content="デジタルマーケティグ, オンライン広告, SEO, 検索順位, ウェブ, WEB">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
+    <meta property="og:title" content="LOGIQUE: インドネシアのDigitalマーケティング会社">
+    <meta property="og:type" content="website">
+    <meta itemprop="name" content="PT. Logique Digital Indonesia">
+    <meta property="og:site_name" content="Logique">
+    <meta property="og:url" content="https://www.logique.co.id/jp/services/digital-marketing.php">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+    <meta property="og:description" content="LOGIQUEはインドネシアのDigitalマーケティングを支援するITコンサル会社です。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>デジタルマーケティング | インターネット/SNS広告やSEO対策、コンテンツ制作等 | LOGIQUEデジタルインドネシア</title>
+    <title>デジタルマーケティングサービス | LOGIQUEデジタル インドネシア</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style-digital-marketing.css" rel="stylesheet">
@@ -87,7 +94,7 @@
 
 </head>
 
-<body class="wrapper wrapper--update-design" style="overflow-x: hidden;">
+<body class="wrapper wrapper--update-design wrapper--update-design-font --jp" style="overflow-x: hidden;">
     <div class="nav-lp">
         <button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
             <span class="icon-bar first"></span>
@@ -172,23 +179,34 @@
     </div>
     <!-- END HEADER -->
 
-    <div class="content-wrapper__">
+    <div class="dm content-wrapper__">
 
-        <section class="--top">
+        <section class="dm__banner --top" style="margin-top: 64px;">
+            <div class="container__">
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8 text-center">
+                        <h1>360<sup>o</sup> Digital Marketing Services</h1>
+                        <p>企画、制作、運用、効果測定。デジタルマーケティングに必要な全てをワンストップでご支援可能です。<strong>LOGIQUE</strong>が御社のインドネシアでのデジタル施策を全方位に展開します。</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="dm__pagination">
             <div class="container__" style="padding:0">
                 <div class="row">
                     <div class="col-sm-12">
                         <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
-                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                    href="/jp/index.php"><span itemprop="name">Home</span></a>
+                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/en/"><span
+                                        itemprop="name">ホーム</span></a>
                                 <meta itemprop="position" content="1" />
                             </li>
                             <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                    href="/jp/services.php"><span itemprop="name">&nbsp;LOGIQUEのサービス</span></a>
+                                    href="/jp/services.php"><span itemprop="name">&nbsp;サービス</span></a>
                                 <meta itemprop="position" content="2" />
                             </li>
                             <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
-                                        itemprop="name">&nbsp;モバイルアプリケーション制作</span></a>
+                                        itemprop="name">&nbsp;デジタルマーケティング</span></a>
                                 <meta itemprop="position" content="3" />
                             </li>
                         </ol>
@@ -197,361 +215,228 @@
             </div>
         </section>
 
-        <div class="div-top">
-            <h1 class="title">
-                <div class="container__" style="padding-top:0; padding-bottom:0;">
-                    <div class="row">
-                        <div class="col-md-12 text-center">
-                            <div id="jp-dig-marketing-heading">
-                                <img src="assets/img/img-digital-marketing/logo.png" alt="Logo" />
-                                <!-- <p>LOGIQUEならではの<br class="hidden-xs" />ワンストップデジタルマーケティング</p> -->
-                                <p>”インドネシアでデジタルマーケティングをワンストップで提供しています”</p>
+        <section class="dm__services">
+            <div class="container__ text-center">
+                <p>Web・ホームページ制作、アプリ・システム開発会社のインドネシアでのリーディングカンパニーである<strong>LOGIQUE</strong>はコンテンツマーケティング、メディアバイイング、ソーシャルメディア運用、SEO対策などデジタルマーケティングサービスにおいてもお客様を成功に導いてきました。</p>
+                <div class="row services__list">
+                    <div class="col-md-offset-2 col-md-8">
+                        <p>下記のようなゴールを追求します</p>
+                        <div class="row text-left list__wrapper">
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-awareness.svg" alt="">
+                                <p>Brand Awareness</p>
+                            </div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-sales.svg" alt="">
+                                <p>Sales</p>
+                            </div>
+                            <div class="clearfix hidden-sm"></div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-brand.svg" alt="">
+                                <p>Brand Consideration</p>
+                            </div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-purchase.svg" alt="">
+                                <p>Purchase</p>
+                            </div>
+                            <div class="clearfix hidden-sm"></div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-engagement.svg" alt="">
+                                <p>Brand Engagement</p>
+                            </div>
+                            <div class="col-md-6 col-xs-12">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-leads.svg" alt="">
+                                <p>Leads, & etc.</p>
                             </div>
                         </div>
                     </div>
                 </div>
-            </h1>
-            <br /><br />
-            <div class="hidden-xs"><br /></div>
-            <div class="container__">
-                <div class="row">
-                    <div class="col-md-7">
-                        <div class="hidden-xs"><br /><br /></div>
-                        <div class="bg-black-title inline-block">
-                            Digitalマーケティングの成否が鍵を握る時代です
-                        </div>
-                        <img class="google-badge --inpage --ja" src="/img/google-badge.png" alt="Google Badge">
-                        <div class="font-16">
-                            <p class="p-padding-v-15">
-                                LOGIQUEはジャカルタの日系ウェブ制作会社として、WEBサイト制作からSEO対策、Digitalコンテンツ制作、オンライン広告（SNS広告、Google広告）など、デジタルマーケティングの全工程をワンストップでご提供可能です。
-                            </p>
-                            <p class="p-padding-v-15">
-                                インドネシアで7年以上、クライアントのデジタルマーケティングを成功に導いてきた経験を活かし、Digitalマーケティングを企画から実施運用までワンストップでご支援することでお客様のビジネスを成功に導きます。
-                            </p>
-                            <br /><br />
+                <p>Which can be implemented for various types of business mechanisms ranging from Online to Online, Online to Offline, Business to Business, Business to Customers, etc.</p>
+            </div>
+        </section>
+
+        <section class="dm__trend">
+            <div class="container__ text-center">
+                <h2>Marketing Trends</h2>
+                <p>デジタルマーケティングの技術は日進月歩です。全てのビジネスでデジタルマーケティングを行うことは成功への不可欠な要素となっています。トレンドを把握しインドネシアの特殊性を理解した上で適切に活用していくご支援をします。</p>
+                <img src="/en/services/assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive">
+                <p>インターナショナルにまたインドネシア国内で、テクニカルチームとクリエイティブチームを持つ<strong>LOGIQUE</strong>はお客様のデジタルマーケティングを正しい方向に導く成功経験を作ってきました。常に最新動向をキャッチアップしお客様にベストな提案をすることを心掛けています。</p>
+            </div>
+        </section>
+
+        <section class="dm__get">
+            <div class="container__ text-center">
+                <h2>What can you get from Digital Marketing?</h2>
+                <div class="row get__list">
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-awareness.png" class="img-responsive" alt="">
+                            <p>Increase brand <br>awareness</p>
                         </div>
                     </div>
-                    <div class="col-md-5">
-                        <img src="assets/img/img-digital-marketing/img-top.png" alt="Image Top" class="img-fluid center-block" />
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-sales.png" class="img-responsive" alt="">
+                            <p>Increase Sales / <br>Transaction Numbers</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-user.png" class="img-responsive" alt="">
+                            <p> Increase user / <br>customer database</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="list__item">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-interaction.png" class="img-responsive" alt="">
+                            <p>Increase user <br>interaction</p>
+                        </div>
                     </div>
                 </div>
-                <br /><br /><br />
-                <div class="row">
-                    <div class="col-md-offset-1 col-md-10">
-                        <div class="bg-black-title">
-                            よくある問題点
-                        </div>
-                        <div class="masalah-top">
-                            <div class="row">
-                                <div class="col-md-offset-2 col-md-8">
-                                    <div class="one-problem">
-                                        <b>ウェブ制作・SEO・クリエイティブ制作・デジタル広告等、それぞれ作業を行う会社間の連携がうまくとれていない。</b><br />
-                                        弊社はウェブ制作を専門としている傍、プログラマーとデザイナーに加え、SEO対策、広告運用を行うチームも社内に常駐しているため、一貫したデジタルマーケティングの提供が可能となり、より素早いPDCAを回すことが可能です。
-                                    </div>
-                                    <div class="one-problem">
-                                        <b>広告を打たないとウェブサイトに集客ができない。</b><br />
-                                        多くの場合において、デジタル広告のキャンペーンを終えると、ほとんどWEBサイトへのトラフィックがなくなってしまう、つまり、オーガニックのトラフィックが殆ど無いということが見受けられます。弊社はウェブ制作のプロとして、検索エンジンの最適化
-                                        (SEO) 、検索エンジンを利用したマーケティング (SEM) のサポートも行っており、技術的な面とコンテンツ面の両方において、インドネシア語・英語・日本語の３言語で対策を行うことが可能です。
-                                    </div>
-                                    <div class="one-problem">
-                                        <b>デジタルマーケティングの方向性が、ビジネスのゴールと一致していない。</b><br />
-                                        デジタルマーケティングには様々なゴールがあり、ゴール毎に対策が異なってきます。
-                                        多くのマーケティング担当者が、正しいゴール＆KPI設定をできていないのが実情です。予算を誤った方向に投下してしまい、その割に成果がでないということがよくあります。
-                                        <br><br>LOGIQUEはゴール＆KPI設定でもお客様と共通認識をもち、デジタルマーケティングに対する予算を最適に配分、予算内でより効率よく多くの成果を出し、お客様のデジタルマーケティングを成功に導きます。
-                                    </div>
-                                    <div class="one-problem">
-                                        <b>ターゲットとコンテンツの方向性が合致していない。</b><br />
-                                        ウェブサイトのコンテンツが、お客様のターゲットと一致していないということもよくあります。LOGIQUEは社内にコンテンツライターとプログラマーの両方がいるので、お客様のターゲットを見据えたSEO対策が可能です。
-                                        またSEO対策に加え、インターネット広告のアルゴリズムを考慮したSEM対策も可能なので、広告を利用してより効率的にお客様をゴールへ導くことが可能です。
-                                    </div>
+            </div>
+        </section>
+
+        <section class="dm__variety">
+            <div class="container__">
+                <h2 class="text-center">We provide a variety of Digital Marketing <br> services to meet various requests such as:</h2>
+                <div class="flex__row">
+                    <div class="col-md-6">
+                        <ul class="nav nav-pills variety__list">
+                            <li data-list-item="1." class="active"><a href="#variety_list_1" data-toggle="pill" aria-controls="variety_list_1" aria-selected="true">オウンドメディア制作運用 / グロースハック</a></li>
+                            <li data-list-item="2."><a href="#variety_list_2" data-toggle="pill" aria-controls="variety_list_2" aria-selected="false">SEO / 検索エンジン最適化</a></li>
+                            <li data-list-item="3."><a href="#variety_list_3" data-toggle="pill" aria-controls="variety_list_3" aria-selected="false">インターネット広告 / オンライン広告</a></li>
+                            <li data-list-item="4."><a href="#variety_list_4" data-toggle="pill" aria-controls="variety_list_4" aria-selected="false">ソーシャルメディア運用</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="variety__content">
+                            <div class="tab-content">
+                                <div id="variety_list_1" class="tab-pane fade in active">
+                                    デジタルマーケティングの受け皿となるオウンドメディア（WebサイトやWeb/モバイルアプリケーション）の制作運用を行います。インドネシア市場に適したコンバージョンのでるオウンドメディアを制作運用します。<a target="_blank" href="/jp/services/web-dev.php">Web・ホームページ制作サービスについての詳細はこちらからご確認ください</a>。
+                                </div>
+                                <div id="variety_list_2" class="tab-pane fade">
+                                    自然検索からの流入トラフィックを増やすことはオウンドメディアの収益性のために非常に重要です。<strong>LOGIQUE</strong>はインドネシア語、英語、日本語でのSEO対策の豊富な経験を保有しています。特に金融や自動車関連業界でのSEO対策で結果を出してきました。対策コンサルティング（指示）を行うだけでなく実際のページの改善作業も行いますのでお任せください。
+                                </div>
+                                <div id="variety_list_3" class="tab-pane fade">
+                                    ブランド認知を向上させる、新規ユーザーをオウンドメディアに誘引しトラフィックを大きく増やす等のために、ネット広告出稿・運用は効果的です。適切なターゲッティングを行い、高いコンバージョンをもたらすクリエイティブを制作します。効果測定と広告の最適化を繰り返し、制作チームと運用チームが蜜に連携してオペレーションすることで最高のROIをだす広告運用を行います。
+                                </div>
+                                <div id="variety_list_4" class="tab-pane fade">
+                                    Facebook, Instagram, Twitter, Instagramなどソーシャルメディアの代行運用を数多く経験しています。ファン、フォロワーを増やす、エンゲージメント、リアクション数を高める等の目に見える形での結果を出してきました。コンテンツの企画から、制作（コンテンツ、バナー、画像、ビデオ）、ユーザーとのInteractiveなコミュニケーションまで代行運用可能です。
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
 
-        <div class="mengapa">
-            <img src="assets/img/img-digital-marketing/bubble-yellow.png" class="img-fluid bubble-yellow" alt="Bubble Yellow" />
-            <div class="container__" style="padding-top:0;">
+        <section class="dm__strong">
+            <div class="container__ text-center">
+                <h2><strong>LOGIQUE</strong>’s Strong points</h2>
+                <p>デジタルマーケティングの実行に必要となるスキルをもった専門家が多数在籍しています。</p>
+                <p><strong>LOGIQUE</strong>のリソースだけでワンストップでデジタルマーケティングの全領域をカバーするサービスをご提供可能です。</p>
                 <div class="row">
-                    <div class="col-md-4">
-                        <br /><img src="assets/img/img-digital-marketing/img-mengapa.png" alt="Why Choose Logique Services?"
-                            class="img-mengapa img-responsive center-block" />
-                        <br />
-                        <div class="bg-black-title">なぜLOGIQUE？</div>
-                    </div>
-                    <div class="col-md-8">
-                        <br />
-                        <div class="hidden-sm hidden-xs"><br /><br /></div>
-                        <div class="bg-mengapa">
-                            <div class="row">
-                                <div class="col-md-offset-2 col-md-8">
-                                    <b>最先端のウェブとインターネットテクノロジーの専門家</b><br /><br />
-                                    弊社はウェブ制作の専門家として様々なインターネット技術を利用し、ジャカルタ/ インドネシアで7年以上の国内外のお客様を支援してまいりました。ウェブ制作からSEO
-                                    対策、UX/UIデザイン、インターネット広告の運用まで、安心してご依頼いただけます。
-                                    <br /><br />
-                                    <b>ワンストップでのデジタルマーケティングサービス</b><br /><br />
-                                    LOGIQUEではプログラミング、デザイン、コンテンツライティング、広告運用と、デジタルマーケティングに必要な各専門家を内製化しております。社内に蓄積されたノウハウを活かし、社内での綿密な連携をし、効率的で効果的なDigitalマーケティングソリューションを提供します。
+                    <div class="col-md-offset-1 col-md-10">
+                        <div class="row dm__list-circle">
+                            <div class="col-md-3 col-sm-6">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-coding.svg" alt="" class="img-responsive">
                                 </div>
+                                <p>Programming</p>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-design.svg" alt="" class="img-responsive">
+                                </div>
+                                <p>Design</p>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-writing.svg" alt="" class="img-responsive">
+                                </div>
+                                <p>Writing</p>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-dm.svg" alt="" class="img-responsive">
+                                </div>
+                                <p>Digital Marketing</p>
                             </div>
                         </div>
                     </div>
                 </div>
+                <p>デザイナーやフロントエンドデベロッパーから、バックエンドプログラマー、コンテンツクリエイター、SEOスペシャリスト、デジタル広告オプティマイザー、セキュリティスペシャリストからインフラエンジニアまで、デジタルマーケティングサービスをワンストップで提供するために必要な各専門家がチームを組んでご支援します。<br>
+                これだけ揃っていて、しかも一人ひとりの専門性が高いのは<strong>LOGIQUE</strong>だけだと自負しています。</p>
             </div>
-            <br />
-            <div class="hidden-xs"><br /></div>
-        </div>
+        </section>
 
-        <div class="strategi">
-            <div class="container__">
-                <div class="row">
-                    <div class="col-md-offset-1 col-md-10">
-                        <div class="yellow-bg bg-black-title">LOGIQUEのデジタルマーケティング戦略</div>
-                        <br /><br />
-                        <div class="row">
-                            <div class="col-sm-5">
-                                <div class="bordered-white one-sentence">
-                                    Paid メディア
-                                </div>
-                            </div>
-                            <div class="col-sm-7">
-                                <div class="bordered-white">
-                                    Google 広告 (リスティング広告, ディスプレイ広告/GDN)<br />
-                                    Facebook/Instagram広告<br />
-                                    クリエイティブデザイン<br />
-                                    分析 & レポート
-                                </div>
-                            </div>
+        <section class="dm__material">
+            <div class="container__ text-center">
+                <h2>Making advertising materials that can increase conversions</h2>
+                <div class="row dm__list-circle dm__list-circle--white">
+                    <div class="col-md-offset-4 col-md-4">
+                        <div class="list-circle__img">
+                            <img src="/en/services/assets/img/img-digital-marketing/material-chat.svg" alt="" class="img-responsive">
                         </div>
-                        <br />
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="bg-grey">
-                                    <div class="row">
-                                        <div class="col-md-offset-1 col-md-10">
-                                            Paidメディアはオンライン広告等、一定の予算を投下し、最も直接的かつ効率的にWEBサイトへのトラフィックやエンゲージメントを増やす方法です。より短期間で、大きな効果を得たい場合に効果的です。
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <br />
-                        <div class="row">
-                            <div class="col-sm-5">
-                                <div class="bordered-white one-sentence2">
-                                    Owned メディア
-                                </div>
-                            </div>
-                            <div class="col-sm-7">
-                                <div class="bordered-white">
-                                    WebサイトのSEO<br />
-                                    コンテンツ制作<br />
-                                    AMP(Accelerated Mobile Page)<br />
-                                    クリエイティブデザイン<br />
-                                    分析 & レポート
-                                </div>
-                            </div>
-                        </div>
-                        <br />
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="bg-grey">
-                                    <div class="row">
-                                        <div class="col-md-offset-1 col-md-10">
-                                            広告を使用せず、インターネット検索からオーガニックのトラフィックを得たい場合はOwnedメディアであるウェブサイトの改善が必要になります。サイト上のコンテンツはもちろん、ウェブ制作会社の強みを活かし、技術的な面からも
-                                            Google等の検索エンジンから高評価されるウェブサイトに改善を行ってまいります。
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <br />
-                        <div class="row">
-                            <div class="col-sm-5">
-                                <div class="bordered-white one-sentence">
-                                    Earnedメディア
-                                </div>
-                            </div>
-                            <div class="col-sm-7">
-                                <div class="bordered-white">
-                                    コンテンツ制作<br />
-                                    クリエイティブデザイン<br />
-                                    イベント作成<br />
-                                    ハッシュタグキャンペーン<br />
-                                    分析 & レポート<br />
-                                </div>
-                            </div>
-                        </div>
-                        <br />
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="bg-grey">
-                                    <div class="row">
-                                        <div class="col-md-offset-1 col-md-10">
-                                            上記のメディアに加え、SNSの運用やその他のメディアの運用も行なっております。より効果的なブランディング、ウェブサイトへの流入を促すため、LOGIQUEではバナー作成やコンテンツ制作、効果の測定、レポートまで、一貫したワンストップ運用を提供しています。
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <br />
                     </div>
                 </div>
+                <p>広告配信先や入札の最適化はもちろんですが、クリエイティブの最適化をPDCAを回しながら行うことにも力をいれています。コンバージョンの出るクリエイティブ作成が可能です。</p>
             </div>
-        </div>
+        </section>
 
-        <div class="bg-proses-kerja">
-            <div class="container__">
+        <section class="dm__analysis">
+            <div class="container__ text-center">
+                <h2>Analysis and strategy skills</h2>
+                <p>分析力にも自信をもっています。豊富な経験をもつ専門家が分析を行い、改善点、次のアクションを提言します。数字をベースに適切なレポーティングと提言を行うことで、プロジェクトを成功に導きます。</p>
                 <div class="row">
-                    <div class="col-md-offset-1 col-md-10">
-                        <div class="yellow-bg bg-black-title">PDCA</div>
-                        <div class="desc-proses">
-                            <div class="row">
-                                <div class="col-md-offset-1 col-md-10">
-                                    LOGIQUEではデジタルマーケティングに関する全ての部門（プログラマー、デザイナー、コンテンツライター、デジタルマーケッター）を社内で内製化しているため、より素早く、より正確なPDCAを元にデジタルマーケティングの運用を行うことが可能です。
-                                    <br /><br />
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
+                    <div class="col-md-offset-2 col-md-8">
+                        <div class="row dm__list-circle">
                             <div class="col-md-4">
-                                <img src="assets/img/img-digital-marketing/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow1" />
-                                <div class="hidden-xs hidden-sm one-process">
-                                    <img src="assets/img/img-digital-marketing/perbaikan.png" class="img-responsive center-block" alt="Perbaikan" />
-                                    <br />
-                                    <b>レポート</b><br />
-                                    分析の結果を元に、お客様に対策の結果を報告いたします。レポートを元に次の改善策をお客様納得のもとで進めてまいります。
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-long.svg" alt="" class="img-responsive">
                                 </div>
-                                <img src="assets/img/img-digital-marketing/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow4" />
-                            </div>
+                                <p>Long-term <br>Plan</p>
+                            </div>                            
                             <div class="col-md-4">
-                                <div class="one-process">
-                                    <img src="assets/img/img-digital-marketing/analisis.png" class="img-responsive center-block" alt="Analisis" />
-                                    <br />
-                                    <b>計画</b><br />
-                                    分析・レポートに基づいた戦略、また効果測定の方法を前もって計画します。これをもとに改善作業、最適化を行います。
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-medium.svg" alt="" class="img-responsive">
                                 </div>
-
-                                <div class="visible-sm visible-xs">
-                                    <br />
-                                    <div class="hidden-sm hidden-xs"><br /><br /><br /></div>
-                                    <div class="one-process">
-                                        <img src="assets/img/img-digital-marketing/laporan.png" class="img-responsive center-block" alt="Laporan" />
-                                        <br />
-                                        <b>改善実施</b><br />
-                                        計画を元にコンテンツや技術面、ターゲティングの細分化など、様々な対策を実施します。
-                                    </div>
-                                </div>
-
-                                <br />
-                                <div class="hidden-sm hidden-xs"><br /><br /><br /></div>
-                                <div class="one-process">
-                                    <img src="assets/img/img-digital-marketing/rencana.png" class="img-responsive center-block" alt="Rencana" />
-                                    <br />
-                                    <b>分析</b><br />
-                                    一定の期間実施された改善策を実施、評価します。ポジティブな面もネガティブな面も含め、データを元になるべく客観的な評価をいたします。
-                                </div>
-
-                                <div class="visible-sm visible-xs">
-                                    <br />
-                                    <div class="hidden-sm hidden-xs"><br /><br /><br /></div>
-                                    <div class="one-process">
-                                        <img src="assets/img/img-digital-marketing/perbaikan.png" class="img-responsive center-block"
-                                            alt="Perbaikan" />
-                                        <br />
-                                        <b>レポート</b><br />
-                                        分析の結果を元に、お客様に対策の結果を報告いたします。レポートを元に次の改善策をお客様納得のもとで進めてまいります。
-                                    </div>
-                                </div>
-
-                            </div>
+                                <p>Medium-term <br>Plan</p>
+                            </div>                            
                             <div class="col-md-4">
-                                <img src="assets/img/img-digital-marketing/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow2" />
-                                <div class="hidden-xs hidden-sm one-process">
-                                    <img src="assets/img/img-digital-marketing/laporan.png" class="img-responsive center-block" alt="Laporan" />
-                                    <br />
-                                    <b>改善実施</b><br />
-                                    計画を元にコンテンツや技術面、ターゲティングの細分化など、様々な対策を実施します。
+                                <div class="list-circle__img">
+                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-short.svg" alt="" class="img-responsive">
                                 </div>
-                                <img src="assets/img/img-digital-marketing/arrow.png" alt="Arrow" class="hidden-xs hidden-sm arrow3" />
-                            </div>
+                                <p>Short-term <br>Plan</p>
+                            </div>                            
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
 
-
-        <div class="div-faq">
-            <div class="container__">
-                <div class="row">
-                    <div class="col-md-offset-1 col-md-10">
-                        <div class="yellow-bg bg-black-title">よくある質問</div>
-                        <br /><br />
-                        <div class="one-faq">
-                            <b>どのような業界においてのデジタルマーケティングの実績がございますか？</b><br />
-                            自動車業界から不動産業界、大使館等の公的機関など、様々な業界での経験を有しておりますこれまでの実績についてはポートフォリオページをご覧ください。もしくは、Eメール info@logique.co.id またはお電話 (021)
-                            22708935/36でもご相談可能です。WhatsAppでもご連絡可能です(0811-870- 321)。
-                        </div>
-                        <div class="one-faq">
-                            <b>どのようなデジタルマーケティングの手法が最も効果的ですか？</b><br />
-                            LOGIQUEはインターネット広告、SEO対策、SNS運用をはじめ、様々な対策をご用意しております。認知度の向上や、ウェブサイトのトラフィックを増やしたい等、ゴールは様々です。具体的に何を優先的に実施していくかはお客様のゴールによって柔軟に手段を選ぶ必要があります。
-                        </div>
-                        <div class="one-faq">
-                            <b>デジタルマーケティングを実施するのに費用はどのぐらい必要ですか？</b><br />
-                            必要とされるサービスや規模感、お客様の目指すゴールによって大きく変わってきます。 お客様のニーズに応じて柔軟にサービスをカスタムし、ご提案を差し上げますので、まずは弊社にご連絡ください。
-                        </div>
-                        <div class="one-faq">
-                            <b>デジタルマーケティングの効果はいつ確認できますか？</b><br />
-                            それぞれの対策を評価するためには、少なくとも1ヶ月程度は経過を測定する必要があります。但し、1ヶ月/半月のレポートによる経過報告等を行うことは可能です。
-                        </div>
-                        <div class="one-faq">
-                            <b>SNSの運用をお願いすることは可能ですか？</b><br />
-                            可能です。 SNSアカウントの作成から、コンテンツ制作/投稿、イベントページ作成、バナー制作、広告運用など、幅広いサポートが可能です。
-                        </div>
-                        <div class="one-faq">
-                            <b>LOGIQUEのオフィスに伺うことは可能ですか？</b><br />
-                            可能です。こちらからお伺いすることも可能ですので、まずはお気軽にご連絡ください。
-                        </div>
-                        <div class="one-faq">
-                            <b>デジタルマーケティングをお願いする場合の手順を教えてください。</b><br />
-                            まずはお客様の目指すゴールや予算感などをヒアリングさせていただき、それに基づき最も効率的に予算内でゴールを最大化できる戦略を提案いたします。お客様にご納得いただいた上で対策を実施し、その効果・その後の更なる改善等をレポートしながらお客様と共にプロジェクトをすすめてまいります。まずはEメール・お電話・Whatsappでご連絡ください。
-                        </div>
-                        <div class="one-faq">
-                            <b>デジタルマーケティングを実施するとどのような効果が期待できますか？</b><br />
-                            インターネットの力を利用することで国内外の多くのターゲットにアプローチすることができ、ウェブサイトへの流入トラフィック等の目に見える効果に限らず、目に見えないところでも認知度の向上を測ることが可能です。また、デジタルマーケティングで獲得した可視化されたデータを分析することで、オフラインでのマーケティング活動においても大いに役立てることが可能です。
-                        </div>
-                        <div class="one-faq">
-                            <b>デジタルマーケティング以外にはどのようなサービスを提供していますか？</b><br />
-                            LOGIQUEはデジタルマーケティング以外にも、ウェブ制作をはじめ、ウェブシステムやデザイン制作など、インターネットに関連する様々なサービスを提供しております。詳しくは、弊社サービスページをご覧ください。
-                        </div>
-                    </div>
-                </div>
+        <section class="dm__teamwork">
+            <div class="container__ text-center">
+                <h2>How <strong>LOGIQUE</strong>'s Team Work</h2><br>
+                <a href="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" data-toggle="lightbox">
+                    <img src="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" alt="teamwork" class="img-responsive">
+                </a>
             </div>
-        </div>
+        </section>
 
-        <div class="footer">
-            <div class="container__" style="padding-top:0; padding-bottom:0;">
-                <div class="row">
-                    <div class="col-lg-offset-3 col-lg-6">
-                        より詳しい情報については、弊社に直接お問い合わせいただくか、以下のリンク内のフォームよりお問い合せを送信ください。<br /><br />
-                        <a href="/jp/contact.php"><img alt="Form" src="assets/img/img-digital-marketing/form-footer.png"
-                                class="img-responsive center-block" /></a>
-                        <br />
-                        その他のサービス:<br />
-                        <a target="_blank" href="/jp/services/recruitment-web-dev.php">企業採用ページ制作</a>
-                        <div class="garis">&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-                        <a target="_blank" href="/jp/services/mobile-app-dev.php">モバイルアプリ開発</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php include './assets/components/dm-links.php' ?>
+        <?php include './assets/components/other-services.php' ?>
 
     </div>
 
     <?php include '../footer.php'; ?>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
+    <script>
+        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+            event.preventDefault();
+            $(this).ekkoLightbox();
+        });
+    </script>
 </body>
 
 </html>
