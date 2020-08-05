@@ -199,7 +199,7 @@
 
         <section class="dm__services">
             <div class="container__ text-center">
-                <p>As a leading website development company, LOGIQUE provides various services such as Website Development, Content Creation (Banners, Videos, Articles, Infographics, etc), Media Buying (Paid Ads Media), Social Network Services, Search Engine Optimization, Content Marketing, etc.</p>
+                <p>As a leading website development company, <strong>LOGIQUE</strong> provides various services such as Website Development, Content Creation (Banners, Videos, Articles, Infographics, etc), Media Buying (Paid Ads Media), Social Network Services, Search Engine Optimization, Content Marketing, etc.</p>
                 <div class="row services__list">
                     <div class="col-md-offset-2 col-md-8">
                         <p>With a variety of objectives such as,</p>
@@ -297,7 +297,7 @@
                                     We will <span>improve the performance</span> of the media you have to be able to monetize and produce conversions. If you don't have your own media, don't hesitate to contact us who will always be ready to become your business partner in developing a Website or Application that suits your needs. <a target="_blank" href="/en/services/web-dev.php">Website Creation Services</a>
                                 </div>
                                 <div id="variety_list_2" class="tab-pane fade">
-                                    Increasing organic traffic is very important in your website monetization efforts. We have a lot of experience in tackling SEO projects in Indonesian and English, and LOGIQUE has proven successful in search engine optimization efforts with various types of keyword categories ranging from finance to automotive. We are also ready to provide ongoing consultation in an effort to improve the quality of your website on each search engine, to modify the website pages based on the stages and SEO methods that apply.
+                                    Increasing organic traffic is very important in your website monetization efforts. We have a lot of experience in tackling SEO projects in Indonesian and English, and <strong>LOGIQUE</strong> has proven successful in search engine optimization efforts with various types of keyword categories ranging from finance to automotive. We are also ready to provide ongoing consultation in an effort to improve the quality of your website on each search engine, to modify the website pages based on the stages and SEO methods that apply.
                                 </div>
                                 <div id="variety_list_3" class="tab-pane fade">
                                     The effectiveness of Digital Ads is greatly influenced by market or audience targeting. Our experienced team will conduct in-depth analysis, from the services or products you offer, the Unique Selling Points you have, the available market opportunities or potentials, to your audience / consumer profiling, synergizing any data available offline or online to get audience groups with high targeting accuracy. To guarantee every penny you invest works effectively.
@@ -398,9 +398,9 @@
 
         <section class="dm__teamwork">
             <div class="container__ text-center">
-                <h2>How Logique's Team Work</h2><br>
+                <h2>How <strong>LOGIQUE</strong>'s Team Work</h2><br>
                 <a href="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" data-toggle="lightbox">
-                    <img src="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" alt="" class="img-responsive">
+                    <img src="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" alt="teamwork" class="img-responsive">
                 </a>
             </div>
         </section>

@@ -198,7 +198,7 @@
 
         <section class="dm__services">
             <div class="container__ text-center">
-                <p>Sebagai perusahaan pengembang website terkemuka, LOGIQUE menyediakan berbagai layanan seperti Website Development, Pembuatan Content (Banner, Video, Article, Infographics, etc), Media Buying (Paid Ads Media), Social Network Services, Search Engine Optimization, Content Marketing, etc.</p>
+                <p>Sebagai perusahaan pengembang website terkemuka, <strong>LOGIQUE</strong> menyediakan berbagai layanan seperti Website Development, Pembuatan Content (Banner, Video, Article, Infographics, etc), Media Buying (Paid Ads Media), Social Network Services, Search Engine Optimization, Content Marketing, etc.</p>
                 <div class="row services__list">
                     <div class="col-md-offset-2 col-md-8">
                         <p>Dengan beragam objektif seperti,</p>
@@ -296,7 +296,7 @@
                                     Kami akan <span>meningkatkan performa</span> media yang Anda miliki agar mampu dimonetisasi dan menghasilkan konversi. Jika Anda belum memiliki media sendiri, jangan ragu untuk menghubungi kami yang akan selalu siap menjadi partner bisnis Anda dalam pengembangan Website maupun Aplikasi yang sesuai dengan kebutuhan Anda.<a target="_blank" href="/en/services/web-dev.php">Jasa Pembuatan Website</a>
                                 </div>
                                 <div id="variety_list_2" class="tab-pane fade">
-                                    Meningkatkan traffic organic sangatlah penting dalam upaya monetisasi website Anda. Kami memiliki banyak pengalaman dalam penanggulangan proyek-proyek SEO dalam bahasa Indonesia dan Inggris, dan LOGIQUE telah terbukti sukses dalam upaya pengoptimalan mesin pencarian dengan beragam jenis kategori kata kunci mulai dari keuangan hingga otomotif. Kami juga siap memberikan konsultasi yang berkelanjutan dalam upaya peningkatan kualitas website Anda pada setiap mesin pencari, hingga memodifikasi halaman website berdasarkan tahapan dan kaedah SEO yang berlaku.
+                                    Meningkatkan traffic organic sangatlah penting dalam upaya monetisasi website Anda. Kami memiliki banyak pengalaman dalam penanggulangan proyek-proyek SEO dalam bahasa Indonesia dan Inggris, dan <strong>LOGIQUE</strong> telah terbukti sukses dalam upaya pengoptimalan mesin pencarian dengan beragam jenis kategori kata kunci mulai dari keuangan hingga otomotif. Kami juga siap memberikan konsultasi yang berkelanjutan dalam upaya peningkatan kualitas website Anda pada setiap mesin pencari, hingga memodifikasi halaman website berdasarkan tahapan dan kaedah SEO yang berlaku.
                                 </div>
                                 <div id="variety_list_3" class="tab-pane fade">
                                     Efektifitas Ads Digital sangat dipengaruhi oleh penargetan pasar atau pemirsa. Tim berpengalaman kami akan melakukan analisa mendalam, mulai dari service atau produk yang Anda tawarkan, Unique Selling Point yang Anda miliki, Peluang atau potensi market yang tersedia, hingga profiling audience / konsumen Anda, mensinergikan setiap data yang tersedia offline maupun online hingga mendapatkan kelompok audience dengan akurasi penargetan yang tinggi. Untuk menjamin setiap sen uang yang Anda investasikan bekerja secara efektif.
@@ -397,7 +397,7 @@
 
         <section class="dm__teamwork">
             <div class="container__ text-center">
-                <h2>How Logique's Team Work</h2><br>
+                <h2>How <strong>LOGIQUE</strong>'s Team Work</h2><br>
                 <a href="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" data-toggle="lightbox">
                     <img src="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" alt="" class="img-responsive">
                 </a>
