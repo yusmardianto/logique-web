@@ -138,7 +138,7 @@
                 </a>
             </div>
             <div class="col-sm-4 col-xs-12">
-                <a href="/contact.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-contact.jpg')">
+                <a href="/hubungi-kami.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-contact.jpg')">
                     <div>
                         <h3>Hubungi Kami</h3>
                         <p>Hubungi Kami sekarang, kami akan berikan solusi terbaik.</p>
