@@ -20,7 +20,7 @@
 .dm__links .links__item::before {
     content: "";
     position: absolute;
-    bottom: -50px;
+    bottom: -65px;
     left: 50%;
     background-color: rgba(255, 202, 0, .6);
     width: calc(100% + 50px);
@@ -42,7 +42,7 @@
 
 .dm__links .links__item > div {
     z-index: 0;
-    padding-top: 65%;
+    padding-top: 70%;
 }
 
 .dm__links .links__item h3 {
@@ -122,26 +122,26 @@
     <div class="container__">
         <div class="row">
             <div class="col-sm-4 col-xs-12">
-                <a href="/logique.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-about.jpg')">
+                <a href="/en/logique.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-about.jpg')">
                     <div>
-                        <h3>Tentang Kami</h3>
-                        <p><strong>LOGIQUE</strong> Digital Indonesia adalah konsultan IT terkemuka dan perusahaan pengembangan sistem yang dipimpin oleh seorang pengusaha Jepang yang berbasis di Jakarta.</p>
+                        <h3>About</h3>
+                        <p><strong>LOGIQUE</strong> Digital Indonesiaはジャカルタに本社を置く日本人が設立したITコンサルティング会社です。Web制作、アプリ・システム開発サービス等を提供しています。</p>
                     </div>
                 </a>
             </div>
             <div class="col-sm-4 col-xs-12">
-                <a href="/portofolio.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-ourwork.jpg')">
+                <a href="/en/portfolio.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-ourwork.jpg')">
                     <div>
-                        <h3>Hasil Kerja Kami</h3>
-                        <p><strong>LOGIQUE</strong> telah mengembangkan banyak Situs Web, Sistem dan Aplikasi, Kampanye Pemasaran Digital yang terbukti sukses menjawab setiap kebutuhan klien kami.</p>
+                        <h3>Our Work</h3>
+                        <p><strong>LOGIQUE</strong>のWebサイト制作、アプリ開発、システム開発、デジタルマーケティング運用の実績を紹介します。</p>
                     </div>
                 </a>
             </div>
             <div class="col-sm-4 col-xs-12">
-                <a href="/hubungi-kami.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-contact.jpg')">
+                <a href="/jp/contact.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-contact.jpg')">
                     <div>
-                        <h3>Hubungi Kami</h3>
-                        <p>Hubungi Kami sekarang, kami akan berikan solusi terbaik.</p>
+                        <h3>お問い合わせ </h3>
+                        <p>インドネシアでのデジタルマーケティングに関して、また他のサービスについてもこちらよりお気軽にご連絡ください。</p>
                     </div>
                 </a>
             </div>
