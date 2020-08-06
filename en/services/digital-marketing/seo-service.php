@@ -19,7 +19,7 @@
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 	<title>Logique Digital Marketing - SEO Service Page</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style-ori.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -459,6 +459,7 @@
 			<?php include '../assets/components/dm-links.php' ?>			
 			<br><br><br><br>
 			<?php include '../assets/components/other-services.php' ?>
+			<br><br>
 
 		</div>
 		<?php include '../../footer.php'; ?>

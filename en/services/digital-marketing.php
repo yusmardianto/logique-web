@@ -23,7 +23,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Digital Marketing | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style-ori.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style-digital-marketing.css" rel="stylesheet">
     <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet"> -->
     <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
