@@ -1715,9 +1715,6 @@
     width: 100%;
     height: auto;
 }
-.gallery .ads-container {
-    margin-top: 84px;
-}
 .gallery .ads-container img {
     width: 100%;
     height: auto;
@@ -3005,7 +3002,446 @@
 .promo {
     padding-top: 35px;
 }
+.promo .promo-container {
+    margin-bottom: 60px;
+}
 .promo .promo-container img {
     width: 100%;
     height: auto;
+}
+.promo .promo-odd {
+    background: rgb(255, 244, 212);
+}
+.promo .promo-list {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 280px auto;
+    grid-gap: 70px;
+}
+.promo .promo-list .promo-title {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-family:"M PLUS 1p", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+}
+.promo .promo-list .promo-content {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-family:"M PLUS 1p", sans-serif;
+    font-weight: normal;
+    letter-spacing: 0px;
+}
+
+.datatable {
+    padding-top: 35px;
+}
+.datatable .table-data thead {
+    background: rgb(251, 201, 53);
+}
+.datatable .table-data thead tr th {
+    padding: 15px 30px;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-family:"M PLUS 1p", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+}
+.datatable .table-data tbody tr td {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p", sans-serif;
+    font-weight: normal;
+    letter-spacing: 0px;
+    padding: 30px 28px;
+    white-space: nowrap;
+}
+.datatable .table-data tbody tr:nth-child(odd) {
+    background: #fff;
+}
+.datatable .table-data tbody tr:nth-child(odd) td {
+    border: 1px solid rgb(242, 242, 242);
+}
+.datatable .table-data tbody tr:nth-child(even) {
+    background: rgb(242, 242, 242);
+}
+.datatable .table-data tbody tr td:nth-child(3) {
+    white-space: initial;
+}
+.datatable .table-data tbody tr td:nth-child(2) {
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+.datatable .slogan-container {
+    width: 878px;
+    background: rgb(0, 0, 0);
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    padding: 18px;
+    margin: 30px auto 0;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-family:"M PLUS 1p", sans-serif;
+    font-weight: normal;
+    letter-spacing: 0px;
+}
+
+/* Webdev Service Resp Settings */
+@media (min-width: 769px) and (max-width:1024px) {
+    .miniplan {
+        padding-top: 0;
+    }
+    .standardplan {
+        padding-top: 0;
+    }
+    .miniplan .img-container,
+    .standardplan .img-container,
+    .largeplan .img-container,
+    .strategicplan .img-container
+     {
+         margin: 30px auto 0;
+        text-align: center;
+    }
+    .miniplan .img-container img,
+    .standardplan .img-container img,
+    .largeplan .img-container img,
+    .strategicplan .img-container img
+     {
+         margin: 30px auto 0;
+         height: auto;
+    }
+    .miniplan .content-container .title-container p,
+    .standardplan .content-container .title-container p,
+    .largeplan .content-container .title-container p,
+    .strategicplan .content-container .title-container p {
+        width: 100%;
+        margin-top: 30px;
+        font-size: 18px;
+        text-align: center;
+    }
+    .miniplan .content-container .content,
+    .standardplan .content-container .content,
+    .largeplan .content-container .content,
+    .strategicplan .content-container .content {
+        font-size: 18px;
+    }
+    .miniplan .content-container .detail-container .detail-title,
+    .standardplan .content-container .detail-container .detail-title,
+    .largeplan .content-container .detail-container .detail-title,
+    .strategicplan .content-container .detail-container .detail-title {
+        font-size: 14px;
+    }
+    .miniplan .content-container .detail-container img,
+    .standardplan .content-container .detail-container img,
+    .largeplan .content-container .detail-container img,
+    .strategicplan .content-container .detail-container img {
+        width: 16px;
+        height: auto;
+        margin-top: 3px;
+    }
+    .miniplan .content-container .detail-container,
+    .standardplan .content-container .detail-container,
+    .largeplan .content-container .detail-container,
+    .strategicplan .content-container .detail-container {
+        grid-gap: 15px;
+        grid-template-columns: max-content max-content auto;
+    }
+    .miniplan .content-container .detail-container .detail-content,
+    .standardplan .content-container .detail-container .detail-content,
+    .largeplan .content-container .detail-container .detail-content,
+    .strategicplan .content-container .detail-container .detail-content {
+        font-size: 16px;
+    }
+    .miniplan .content-container .detail-container .detail-content.detail-list,
+    .standardplan .content-container .detail-container .detail-content.detail-list,
+    .largeplan .content-container .detail-container .detail-content.detail-list,
+    .strategicplan .content-container .detail-container .detail-content.detail-list {
+        font-size: 14px;
+    }
+    .miniplan .content-container .price-container,
+    .standardplan .content-container .price-container,
+    .largeplan .content-container .price-container,
+    .strategicplan .content-container .price-container {
+        margin-bottom: 23px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    .miniplan .content-container .button-container p, 
+    .standardplan .content-container .button-container p, 
+    .largeplan .content-container .button-container p, 
+    .strategicplan .content-container .button-container p {
+        padding: 10px;
+        font-size: 16px;
+        margin-left: 0;
+        width: auto;
+    }
+    .promo .promo-list {
+        padding: 20px;
+        display: grid;
+        grid-template-columns: auto;
+        grid-gap: 20px;
+    }
+    .promo .promo-list .promo-title {
+        color: rgb(0, 0, 0);
+        font-size: 18px;
+        font-family: "M PLUS 1p", sans-serif;
+        font-weight: 500;
+        letter-spacing: 0px;
+    }
+    .promo .promo-list .promo-content {
+        color: rgb(0, 0, 0);
+        font-size: 16px;
+        font-family: "M PLUS 1p", sans-serif;
+        font-weight: normal;
+        letter-spacing: 0px;
+    }
+    .datatable .table-data thead tr th {
+        font-size: 18px;
+        padding: 10px 15px;
+    }
+    .datatable .table-data tbody tr td {
+        font-size: 16px;
+        padding: 10px 15px;
+        white-space: normal;
+    }
+    .datatable .slogan-container {
+        font-size: 18px;
+        width: 100%;
+    }
+}
+@media (min-width: 415px) and (max-width:768px) {
+    .miniplan {
+        padding-top: 0;
+    }
+    .standardplan {
+        padding-top: 0;
+    }
+    .miniplan .img-container,
+    .standardplan .img-container,
+    .largeplan .img-container,
+    .strategicplan .img-container
+     {
+         margin: 30px auto 0;
+        text-align: center;
+    }
+    .miniplan .img-container img,
+    .standardplan .img-container img,
+    .largeplan .img-container img,
+    .strategicplan .img-container img
+     {
+         margin-top: 30px;
+         max-width: 50%;
+         height: auto;
+         margin: 0 auto;
+    }
+    .miniplan .content-container .title-container p,
+    .standardplan .content-container .title-container p,
+    .largeplan .content-container .title-container p,
+    .strategicplan .content-container .title-container p {
+        width: 100%;
+        margin-top: 30px;
+        font-size: 18px;
+        text-align: center;
+    }
+    .miniplan .content-container .content,
+    .standardplan .content-container .content,
+    .largeplan .content-container .content,
+    .strategicplan .content-container .content {
+        font-size: 18px;
+    }
+    .miniplan .content-container .detail-container .detail-title,
+    .standardplan .content-container .detail-container .detail-title,
+    .largeplan .content-container .detail-container .detail-title,
+    .strategicplan .content-container .detail-container .detail-title {
+        font-size: 14px;
+    }
+    .miniplan .content-container .detail-container img,
+    .standardplan .content-container .detail-container img,
+    .largeplan .content-container .detail-container img,
+    .strategicplan .content-container .detail-container img {
+        width: 16px;
+        height: auto;
+        margin-top: 3px;
+    }
+    .miniplan .content-container .detail-container,
+    .standardplan .content-container .detail-container,
+    .largeplan .content-container .detail-container,
+    .strategicplan .content-container .detail-container {
+        grid-gap: 15px;
+        grid-template-columns: max-content max-content auto;
+    }
+    .miniplan .content-container .detail-container .detail-content,
+    .standardplan .content-container .detail-container .detail-content,
+    .largeplan .content-container .detail-container .detail-content,
+    .strategicplan .content-container .detail-container .detail-content {
+        font-size: 16px;
+    }
+    .miniplan .content-container .detail-container .detail-content.detail-list,
+    .standardplan .content-container .detail-container .detail-content.detail-list,
+    .largeplan .content-container .detail-container .detail-content.detail-list,
+    .strategicplan .content-container .detail-container .detail-content.detail-list {
+        font-size: 14px;
+    }
+    .miniplan .content-container .price-container,
+    .standardplan .content-container .price-container,
+    .largeplan .content-container .price-container,
+    .strategicplan .content-container .price-container {
+        margin-bottom: 23px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    .miniplan .content-container .button-container p, 
+    .standardplan .content-container .button-container p, 
+    .largeplan .content-container .button-container p, 
+    .strategicplan .content-container .button-container p {
+        padding: 10px;
+        font-size: 16px;
+        margin-left: 0;
+        width: auto;
+    }
+    .promo .promo-list {
+        padding: 20px;
+        display: grid;
+        grid-template-columns: auto;
+        grid-gap: 20px;
+    }
+    .promo .promo-list .promo-title {
+        color: rgb(0, 0, 0);
+        font-size: 18px;
+        font-family: "M PLUS 1p", sans-serif;
+        font-weight: 500;
+        letter-spacing: 0px;
+    }
+    .promo .promo-list .promo-content {
+        color: rgb(0, 0, 0);
+        font-size: 16px;
+        font-family: "M PLUS 1p", sans-serif;
+        font-weight: normal;
+        letter-spacing: 0px;
+    }
+    .datatable .table-data thead tr th {
+        font-size: 18px;
+        padding: 10px 15px;
+    }
+    .datatable .table-data tbody tr td {
+        font-size: 16px;
+        padding: 10px 15px;
+        white-space: normal;
+    }
+    .datatable .slogan-container {
+        font-size: 18px;
+        width: 100%;
+    }
+}
+@media (max-width: 414px) {
+    .miniplan {
+        padding-top: 0;
+    }
+    .standardplan {
+        padding-top: 0;
+    }
+    .miniplan .img-container,
+    .standardplan .img-container,
+    .largeplan .img-container,
+    .strategicplan .img-container
+     {
+         margin-top: 30px;
+    }
+    .miniplan .content-container .title-container p,
+    .standardplan .content-container .title-container p,
+    .largeplan .content-container .title-container p,
+    .strategicplan .content-container .title-container p {
+        width: 100%;
+        margin-top: 30px;
+        font-size: 18px;
+        text-align: center;
+    }
+    .miniplan .content-container .content,
+    .standardplan .content-container .content,
+    .largeplan .content-container .content,
+    .strategicplan .content-container .content {
+        font-size: 18px;
+    }
+    .miniplan .content-container .detail-container .detail-title,
+    .standardplan .content-container .detail-container .detail-title,
+    .largeplan .content-container .detail-container .detail-title,
+    .strategicplan .content-container .detail-container .detail-title {
+        font-size: 14px;
+    }
+    .miniplan .content-container .detail-container img,
+    .standardplan .content-container .detail-container img,
+    .largeplan .content-container .detail-container img,
+    .strategicplan .content-container .detail-container img {
+        width: 16px;
+        height: auto;
+        margin-top: 3px;
+    }
+    .miniplan .content-container .detail-container,
+    .standardplan .content-container .detail-container,
+    .largeplan .content-container .detail-container,
+    .strategicplan .content-container .detail-container {
+        grid-gap: 15px;
+        grid-template-columns: max-content max-content auto;
+    }
+    .miniplan .content-container .detail-container .detail-content,
+    .standardplan .content-container .detail-container .detail-content,
+    .largeplan .content-container .detail-container .detail-content,
+    .strategicplan .content-container .detail-container .detail-content {
+        font-size: 16px;
+    }
+    .miniplan .content-container .detail-container .detail-content.detail-list,
+    .standardplan .content-container .detail-container .detail-content.detail-list,
+    .largeplan .content-container .detail-container .detail-content.detail-list,
+    .strategicplan .content-container .detail-container .detail-content.detail-list {
+        font-size: 14px;
+    }
+    .miniplan .content-container .price-container,
+    .standardplan .content-container .price-container,
+    .largeplan .content-container .price-container,
+    .strategicplan .content-container .price-container {
+        margin-bottom: 23px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    .miniplan .content-container .button-container p, 
+    .standardplan .content-container .button-container p, 
+    .largeplan .content-container .button-container p, 
+    .strategicplan .content-container .button-container p {
+        padding: 10px;
+        font-size: 16px;
+    }
+    .promo .promo-list {
+        padding: 20px;
+        display: grid;
+        grid-template-columns: auto;
+        grid-gap: 20px;
+    }
+    .promo .promo-list .promo-title {
+        color: rgb(0, 0, 0);
+        font-size: 18px;
+        font-family: "M PLUS 1p", sans-serif;
+        font-weight: 500;
+        letter-spacing: 0px;
+    }
+    .promo .promo-list .promo-content {
+        color: rgb(0, 0, 0);
+        font-size: 16px;
+        font-family: "M PLUS 1p", sans-serif;
+        font-weight: normal;
+        letter-spacing: 0px;
+    }
+    .datatable .table-data thead tr th {
+        font-size: 18px;
+        padding: 10px 15px;
+    }
+    .datatable .table-data tbody tr td {
+        font-size: 16px;
+        padding: 10px 15px;
+    }
+    .datatable .slogan-container {
+        font-size: 18px;
+        width: 100%;
+    }
 }

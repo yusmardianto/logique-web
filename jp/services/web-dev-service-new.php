@@ -449,6 +449,144 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="promo-list promo-odd">
+                        <div class="promo-title">
+                            <p>ヒアリング・初回ご提案</p>
+                        </div>
+                        <div class="promo-content">
+                            <p>無料ご提案するためのやりとりや打ち合わせを含みます。通常、ご提案段階でのデザイン制作はしておりません。どうしてもラフデザインの制作が必要な場合、提案デザイン制作費をいただく場合があります。</p>
+                        </div>
+                    </div>  
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="promo-list">
+                        <div class="promo-title">
+                            <p>その他制作諸費用の目安</p>
+                        </div>
+                        <div class="promo-content">
+                            <p>当社の価格は、作業の難易度やスケジュールの緊急度などによって幅がありますが、個別の作業依頼は以下のようになります。あくまで目安としてお考えください。</p>
+                        </div>
+                    </div>  
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="promo-list promo-odd">
+                        <div class="promo-title">
+                            <p>ヒアリング・初回ご提案</p>
+                        </div>
+                        <div class="promo-content">
+                            <p>無料ご提案するためのやりとりや打ち合わせを含みます。通常、ご提案段階でのデザイン制作はしておりません。どうしてもラフデザインの制作が必要な場合、提案デザイン制作費をいただく場合があります。</p>
+                        </div>
+                    </div>  
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="datatable">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="table-responsive table-data">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Service</th>
+                                    <th scope="col">Price </th>
+                                    <th scope="col">Description</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>HTML / CSS コーディング (1サイト）</td>
+                                    <td>15,000,000 IDR 〜</td>
+                                    <td>@Webサイトの構成によりますが、通常のコーポレートWeb（合計10ページ程度まで）ですと15,000,000 IDRで全ページHTML/CSSマークアップすることが可能です。標準的なコーディングをしますしGAタグの設置やご指定のメタタグ記述もいたします。</td>
+                                </tr>
+                                <tr>
+                                    <td>HTML / CSS コーディング(1ページあたり）</td>
+                                    <td>500,000 IDR ~</td>
+                                    <td>ページ内コンテンツのボリュームや構成により大きく異なる可能性はありますが、目安としては1ページ500,000 IDRとお考えください。10ページあるWebサイトのデザインとコンテンツが全て準備出来ている場合、5,000,000 IDRで全てコーディングすることが可能です。</td>
+                                </tr>
+                                <tr>
+                                    <td>モーションコーディング</td>
+                                    <td>5,000,000 IDR 〜</td>
+                                    <td>新規事業でロゴがまだない場合などがあります。複数パターンを作成しながら理想のロゴに近づけるご支援をしんがら完成まで導きます</td>
+                                </tr>
+                                <tr>
+                                    <td>ロゴ・イラスト作成</td>
+                                    <td>10,000,000 IDR 〜</td>
+                                    <td>JQueryやHTML5などを使用したパララックス効果をつける動きなどのビジュアルプログラミングを行います。</td>
+                                </tr>
+                                <tr>
+                                    <td>オンラインチャット機能</td>
+                                    <td>5,000,000 IDR ~</td>
+                                    <td>オンラインチャットツールを御社WebサイトにImplementします。</td>
+                                </tr>
+                                <tr>
+                                    <td>お問い合わせページ最適化</td>
+                                    <td>15,000,000 IDR 〜</td>
+                                    <td>お問い合わせページのコンテンツの最適化、フォーム最適化により、問い合わせ数の最大化、ドロップ率の最小化を実現します。</td>
+                                </tr>
+                                <tr>
+                                    <td>採用ページ最適化</td>
+                                    <td>15,000,000 IDR 〜</td>
+                                    <td>採用ページのコンテンツを最適化してWeb経由の応募数を増やします。採用サイトを特設サイトとして構築することも可能です。 
+                                        <span style="color: #1985D6;">詳細はこちら。</span>    
+                                        採用業務を効率的に行うためのクラウドツールの販売もしています。Sugoi Saiyo</td>
+                                </tr>
+                                <tr>
+                                    <td>ショッピング・カート機能作成</td>
+                                    <td>20,000,000 IDR 〜</td>
+                                    <td>E-Commerceフレームワークを使用してショッピング機能を御社のWebに付与します。要件によって大きな幅が出ますので詳細はご相談ください。</td>
+                                </tr>
+                                <tr>
+                                    <td>ペイメントゲートウェイ連携</td>
+                                    <td>15,000,000 IDR 〜</td>
+                                    <td>インドネシアで利用可能な各社のペイメントゲートウェイサービスとの連携機能構築の実績があります。サブスクリプション決済なども可能ですのでご相談ください。</td>
+                                </tr>
+                                <tr>
+                                    <td>API作成</td>
+                                    <td>15,000,000 IDR 〜</td>
+                                    <td>他システムや他Webサイト、モバイルアプリ、サービスとの機能・情報連携のためにAPI作成を行います。送受信されるデータ形式（XML,HTML,JSONなど）に合わせ開発します。</td>
+                                </tr>
+                                <tr>
+                                    <td>コンテンツ作成</td>
+                                    <td>ご相談ください</td>
+                                    <td>定期的なコンテンツ作成運用もワンショットのコンテンツ作成（Webサイト作成時のコンテンツ作成）も可能です。ボリューム、作成するコンテンツの特殊性、作成コンテンツの言語、などによって料金に幅がありますのでご相談ください。</td>
+                                </tr>
+                                <tr>
+                                    <td>写真撮影</td>
+                                    <td>5,000,000 IDR 〜</td>
+                                    <td>1撮影場所、カット数5〜10、撮影時間4時間までで5,000,000 IDRとなります。屋外や工場内での撮影などは詳細をご相談ください。</td>
+                                </tr>
+                                <tr>
+                                    <td>ドローン撮影</td>
+                                    <td>5,000,000 IDR 〜</td>
+                                    <td>1撮影場所、1フライト、撮影時間15分まで、成果物動画データ。飛行許可取得などは含んでいません。</td>
+                                </tr>
+                                <tr>
+                                    <td>動画撮影編集</td>
+                                    <td>20,000,000 IDR 〜</td>
+                                    <td>グラフィックのみで制作する動画から、撮影を行い制作するムービーまで、様々なニーズにお応えします。</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="slogan-container">
+                        <p>
+                            こちらから詳細なお見積りをご相談いただけます
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
     <section class="gallery">
