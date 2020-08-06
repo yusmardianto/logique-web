@@ -320,6 +320,28 @@ $('.map-container')
     $('.copyrightYear').html(updatedYear);
 </script>
 
+<!-- override purechat styling -->
+<script>
+    $(function() {
+        purechatApi.on('chatbox:ready', function (args) {
+            $('#PureChatWidget').attr('style', function(i,s) { return (s || '') + 'width: 200px !important; min-width: 170px !important;' });
+            $('.purechat-widget-title').append('<img src="/img/arrow-up.svg" style="padding-right: 7px !important;" class="purechat-widget-title__arrow"/>');            
+        });
+        purechatApi.on('chatbox:expand', function (args) {
+            $('#PureChatWidget').css('width', '');
+            $('#PureChatWidget').css('min-width', '');
+            $('#PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-expanded').attr('style', function(i,s) { return (s || '') + 'left: 50% !important;transform: translateX(-50%) !important; right: unset !important; width: 90% !important;' });
+            $('.purechat-widget-title__arrow').addClass('--hide');
+        });
+        purechatApi.on('chatbox:collapse', function (args) {
+            setTimeout(() => {
+                $('#PureChatWidget').attr('style', function(i,s) { return (s || '') + 'width: 200px !important; min-width: 170px !important;' });
+                $('.purechat-widget-title__arrow').removeClass('--hide');
+            }, 50);
+        });
+    })
+</script>
+
 <!-- AD POPUP -->
 <!-- <script>
     function closePopup() {

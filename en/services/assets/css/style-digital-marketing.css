@@ -297,13 +297,13 @@ strong {
 }
 
 .dm h2 {
-    font-weight: 800;
+    font-weight: 800 !important;
     margin-bottom: 30px;
 }
 
 .dm h3 {
     font-size: 28px;
-    font-weight: 800;
+    font-weight: 800 !important;
 }
 
 @media (max-width: 767.98px) {
@@ -322,7 +322,7 @@ strong {
 
 .dm .dm__banner h1 {
     font-size: 38px;
-    font-weight: 800;
+    font-weight: 800 !important;
 }
 
 .dm .dm__banner h1 > sup {
@@ -332,7 +332,7 @@ strong {
 }
 
 .dm .dm__banner p {
-    font-weight: 18px;
+    font-size: 18px;
 }
 /* end banner */
 
@@ -441,7 +441,7 @@ strong {
     width: 38px;
     height: 38px;
     border-radius: 100%;
-    font-weight: 800;
+    font-weight: 800 !important;
     font-size: 20px;
     background-color: #fff;
 }
@@ -453,7 +453,7 @@ strong {
 
 .dm .dm__variety .variety__list > li.active > a,
 .dm .dm__variety .variety__list > li:hover > a {
-    font-weight: 800;
+    font-weight: 800 !important;
 }
 
 .dm .dm__variety .variety__list > li > a {
@@ -472,7 +472,7 @@ strong {
     border-radius: 0 0 5px 5px;
 }
 
-.dm .dm__variety .variety__content > span {
+.dm .dm__variety .variety__content span {
     color: #ffca13;
 }
 
