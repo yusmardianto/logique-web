@@ -129,12 +129,11 @@
                   <h2 class="heading-black mb--40">Lowongan yang dibutuhkan segera</h2>
                 </div>
                  <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/specialist/lead-quality-assurance.php">
+                  <a href="/career/lowongan/programmer/web-developer.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/quality.png"
-                          alt="Quality Assurance">
-                        <h3 class="heading-black">Lead Quality Assurance</h3>
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Web Developer">
+                        <h3 class="heading-black">Web Developer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -151,11 +150,11 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/specialist/devops.php">
+                  <a href="/career/lowongan/programmer/frontend-developer.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body ">
-                        <img class="img-responsive card-icon" src="/img/career/icon/server.png" alt="DevOps">
-                        <h3 class="heading-black">DevOps</h3>
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Front End Developer">
+                        <h3 class="heading-black">Front End Developer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
