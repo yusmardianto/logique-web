@@ -250,7 +250,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
 
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="pembuatan-sistem-web/img/newlayout/laptop.jpg">
+                                <img src="pembuatan-sistem-web/img/newlayout/laptop-secure.jpg">
                             </div>
                          </div>
                       </div>
@@ -260,7 +260,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 <p>Kami berpengalaman dalam memberikan jasa pembuatan sistem berbasis web untuk banyak klien internasional dan lokal berskala besar khususnya dalam industri otomotif, lelang, dan e-commerce. Namun secara menyeluruh kami juga telah membantu berbagai industri lainnya seperti asuransi, finansial, pariwisata, manufaktur, dan startup-startup digital baik dalam pembuatan sistem berbasis web ataupun layanan lainnnya seperti pengembangan aplikasi mobile atau pemasaran digital. Dengan pengalaman tersebut, kami dengan cepat memahami kebutuhan bisnis klien dan memberikan solusi terbaik untuk Anda. </p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="pembuatan-sistem-web/img/newlayout/laptop.jpg">
+                                <img src="pembuatan-sistem-web/img/newlayout/laptop-experienced.jpg">
                             </div>
                          </div>
                       </div>
@@ -270,7 +270,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 <p>Kami dapat membantu Anda membangun dan merancang arsitektur server berbasis cloud baik di Indonesia maupun di luar negeri. Kami merupakan partner resmi dari AWS dan berpengalaman dalam melakukan setup dan implentasi server cloud untuk AWS, GCP, serta Alibaba. Khususnya dalam beberapa waktu belakangan ini, kami juga telah berhasil membantu melakukan banyak migrasi sistem dan database dari server lokal (on-premise) ke server cloud.</p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="pembuatan-sistem-web/img/newlayout/laptop.jpg">
+                                <img src="pembuatan-sistem-web/img/newlayout/llaptop-infra.jpg">
                             </div>
                          </div>
                       </div>
@@ -1201,7 +1201,11 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
             </div>
         </div>
     </section>
-        <section class="content-section sixth-part">
+    <div class="content-wrapper__">
+    <?php include './assets/components/dm-links.php' ?>
+        <?php include './assets/components/other-services.php' ?>
+    </div>
+<!--         <section class="content-section sixth-part">
         <div class="sec-content-part contact-banner">
             <div class="page-content">
                 <ul>
@@ -1296,7 +1300,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
      <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>

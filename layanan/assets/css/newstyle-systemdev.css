@@ -39,8 +39,7 @@ p:last-of-type{
     display: inline !important;
 }
 .logique-nav{
-    height: auto;
-    margin:20px 10px;
+    height: auto; 
     border-radius: 20px;
 }
 .logique-nav.logique-nav--update .margin-for-nav{
@@ -500,9 +499,10 @@ section h2{
     padding: 0;    
     opacity: 1;
 }
-.content-section.first-part, .content-section.fourth-part, .content-section.fifth-part, .content-section.sixth-part, .content-section.seventh-part, .content-section.eighth-part{
+.content-section.first-part, .content-section.fourth-part, .content-section.fifth-part, .content-section.sixth-part, .content-section.seventh-part, .content-section.eighth-part, section.dm__other-service, section.dm__links{
     padding-top: 0;
 }
+
 .importantpoint-item{
     background: #fff;
     border-radius: 4px;
@@ -740,6 +740,26 @@ section h2{
     box-shadow: 0px 29px 21px -19px rgba(0, 0, 0, 0.21);
     overflow: hidden;
     border:0;
+}
+section.dm__other-service, section.dm__links{
+    padding: 0;
+}
+section.dm__links .links__item h3 {
+    font-weight: 300 !important;
+    font-size: 28px;
+    margin: 0;
+    line-height: 1.7;
+}
+section.dm__other-service .other-service__list h4 {
+    font-weight: 400 !important;
+    font-size: 22px;
+    margin: 10px 0;
+    line-height: 1.7;
+}
+section.dm__other-service  strong, section.dm__links   strong {
+    font-family: Novecentosanswide-medium;
+    display: inline !important;
+    font-weight: normal !important;
 }
 @media (max-width: 1199px) {   }
 
