@@ -19,7 +19,7 @@
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 	<title>Jasa SEO Profesional | LOGIQUE Digital Indonesia</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style-ori.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -188,42 +188,42 @@
 								<h2 class="main__cloud">SEO</h2>
 								<h2>Search Engine adalah salau satu solusinya</h2>
 								<p>Search engine menjadi platform dimana user mencari sebuah jawaban atau solusi, dalam situasi ini website Anda harus mampu hadir sebagai solusi bagi setiap User yang berpotensi menjadi pelanggan Anda.</p>
-								<p>Dengan didukung oleh <span>lebih dari 50 orang tenaga professional</span> di bidang Digital Marketing, Website Developer, Website Designer, Creative Designer, Content Writer, Copywriter, dan Cloud Server Engineer menjadikan LOGIQUE sebagai perusahaan satu-satunya yang mampu mensinergikan setiap aspek pengoptimalan sebuah website dalam satu atap dan mekanisme kerja. </p>
+								<p>Dengan didukung oleh <span>lebih dari 50 orang tenaga professional</span> di bidang Digital Marketing, Website Developer, Website Designer, Creative Designer, Content Writer, Copywriter, dan Cloud Server Engineer menjadikan <strong>LOGIQUE</strong> sebagai perusahaan satu-satunya yang mampu mensinergikan setiap aspek pengoptimalan sebuah website dalam satu atap dan mekanisme kerja. </p>
 							</div>
 							<br class="visible-lg">
 							<div class="row">
-								<div class="col-md-6">
-									<img src="" alt="" class="img-responsive seo__dummy">
+								<div class="col-md-6 col-xs-12">
+									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-1.jpg" alt="team effort" class="img-responsive">
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-6 col-xs-12">
 									<p>Tim kami akan selalui siap mendedikasikan upayanya dalam meningkatkan kinerja website Anda yang didukung dengan pengalaman para tenaga ahli yang telah menjadi pakar dibidangnya masing-masing selama bertahun-tahun.</p>
 								</div>
 							</div>
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-6 col-xs-12 order-sm-2">
 									<p>Banyak perusahaan pengembangan website yang mampu membuat dan mendesain website yang terlihat sangat professional dan modern, namun sayangnya kebanyakan dari perusahaan ini gagal mengoptimalkan fungsi-fungsi website agar lebih bersahabat dengan Robot Mesin Pencari.</p>
 								</div>
-								<div class="col-md-6">
-									<img src="" alt="" class="img-responsive seo__dummy">
+								<div class="col-md-6 col-xs-12">
+									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-2.jpg" alt="optimize website function" class="img-responsive">
 								</div>
 							</div>
 							<div class="row">
-								<div class="col-md-6">
-									<img src="" alt="" class="img-responsive seo__dummy">
+								<div class="col-md-6 col-xs-12">
+									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-3.jpg" alt="web development understanding" class="img-responsive">
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-6 col-xs-12">
 									<p>Dan banyak pula perusahaan penyedia jasa SEO yang tau dan mengerti bagaimana cara mengoptimalkan sebuah website, namun, sering terkendala karena keterbatasan tenaga ahli yang mengerti pengembangan website.</p>
 								</div>
 							</div>
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-6 col-xs-12 order-sm-2">
 									<p>Pada akhirnya, membuat proses pengoptimalan kinerja sebuah website membutuhkan waktu yang lama, sedangkan Anda ingin pertumbuhan perusahaan yang terus meningkat seiring berjalannya waktu.</p>
 								</div>
-								<div class="col-md-6">
-									<img src="" alt="" class="img-responsive seo__dummy">
+								<div class="col-md-6 col-xs-12">
+									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-4.jpg" alt="teamwork" class="img-responsive">
 								</div>
 							</div>
-							<p class="text-center">Hal ini lah yang berusaha LOGIQUE hindari. Setiap divisi yang terlibat dalam pengoptimalan sebuah website akan bekerja berdasarkan koridor dan kaedah SEO dengan tetap memperhatikan estetika dan fungsi dari sebuah website.</p>
+							<p class="text-center">Hal ini lah yang berusaha <strong>LOGIQUE</strong> hindari. Setiap divisi yang terlibat dalam pengoptimalan sebuah website akan bekerja berdasarkan koridor dan kaedah SEO dengan tetap memperhatikan estetika dan fungsi dari sebuah website.</p>
 						</div>
 					</div>
 				</div>
@@ -395,13 +395,13 @@
 												<li><a href="#service_6_1" data-toggle="pill">-	Kami memiliki tenaga ahli yang asli berbahasa asing<span>i</span></a></a></li>
 												<li><a href="#service_6_2" data-toggle="pill">-	Dengan pengalaman selama bertahun-tahun dalam melayani banyak perusahaan Asing maupun Lokal</a></a></li>
 												<li><a href="#service_6_3" data-toggle="pill">-	Kompetensi tenaga ahli yang terus ditingkatkan<span>i</span></a></a></li>
-												<li><a href="#service_6_4" data-toggle="pill">-	Menjadikan LOGIQUE perusahaan penyedia jasa SEO<span>i</span></a></a></li>
+												<li><a href="#service_6_4" data-toggle="pill">-	Menjadikan <strong>LOGIQUE</strong> perusahaan penyedia jasa SEO<span>i</span></a></a></li>
 											</ul>
 										</div>
 										<div class="tab-content__img col-md-6 col-xs-12">
 											<div class="tab-content text-center">
 												<div id="service_6_1" class="tab-pane fade in active">
-												mulai dari bahasa Jepang, bahasa Inggris, dan bahasa Indonesia. Menjadikan LOGIQUE perusahaan penyedia jasa SEO yang mampu mendorong bisnis Anda untuk Go International
+												mulai dari bahasa Jepang, bahasa Inggris, dan bahasa Indonesia. Menjadikan <strong>LOGIQUE</strong> perusahaan penyedia jasa SEO yang mampu mendorong bisnis Anda untuk Go International
 												</div>
 												<div id="service_6_3" class="tab-pane fade">
 												mengikuti perkembangan teknik-teknik SEO yang terjadi secara global
@@ -416,7 +416,7 @@
 							</div>
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
-									<p class="text-center">LOGIQUE adalah perusahaan dan menjadi tempat bagi para web developer dan praktisi pemasaran digital berpengalaman. Inilah yang memperkuat sinergi antara mengembangkan Aset Digital dan mengoptimalkan interaksi pengguna untuk setiap Aset Digital Anda</p>
+									<p class="text-center"><strong>LOGIQUE</strong> adalah perusahaan dan menjadi tempat bagi para web developer dan praktisi pemasaran digital berpengalaman. Inilah yang memperkuat sinergi antara mengembangkan Aset Digital dan mengoptimalkan interaksi pengguna untuk setiap Aset Digital Anda</p>
 								</div>
 							</div>
 						</div>
@@ -438,7 +438,7 @@
 								</div>
 								<div class="tab-content tab-content__text col-md-6 col-xs-12">
 									<div id="contribution_1" class="tab-pane fade in active">
-										<p>Beberapa klien kami yang memiliki bisnis di bidang properti juga melihat dunia online digital sebagai potensi pasar terbesar dari penjualan unit mereka. Dari mesin pencari, mereka ingin agar situs properti mereka langsung ditemukan saat user membutuhkan. Dengan penerapan strategi SEO yang tepat, LOGIQUE berhasil membantu klien mencapai target mereka untuk menemukan pembeli potensial dan meningkatkan engagement dengan mereka. Kami terus melakukan optimasi mulai dari improvisasi keyword, meta tag, pemasangan schema, hingga optimasi tampilan website agar mobile friendly. Kami berhasil mendapatkan traffic organik yang tinggi dan klien kami cukup puas dengan jumlah konversi yang dihasilkan.</p>
+										<p>Beberapa klien kami yang memiliki bisnis di bidang properti juga melihat dunia online digital sebagai potensi pasar terbesar dari penjualan unit mereka. Dari mesin pencari, mereka ingin agar situs properti mereka langsung ditemukan saat user membutuhkan. Dengan penerapan strategi SEO yang tepat, <strong>LOGIQUE</strong> berhasil membantu klien mencapai target mereka untuk menemukan pembeli potensial dan meningkatkan engagement dengan mereka. Kami terus melakukan optimasi mulai dari improvisasi keyword, meta tag, pemasangan schema, hingga optimasi tampilan website agar mobile friendly. Kami berhasil mendapatkan traffic organik yang tinggi dan klien kami cukup puas dengan jumlah konversi yang dihasilkan.</p>
 									</div>
 									<div id="contribution_2" class="tab-pane fade">
 										<p>Berwisata saat ini adalah bisa ke mana saja dengan hanya beberapa langkah online. Itulah yang disadari oleh klien kami, dan kami telah membantu mereka mendapatkan sebanyak mungkin pelanggan melalui SEO, yaitu dengan menganalisis keyword populer yang dapat digunakan di website mereka untuk meningkatkan traffic berdasarkan pada setiap nilai kompetisi dan rata-rata pencarian bulanan. Kami juga menganalisis teknis SEO situs web dan memberikan rekomendasi untuk memperbaikinya. Dengan analisis, implementasi, dan evaluasi rutin, strategi kami telah terbukti meningkatkan jumlah booking/reservasi langsung melalui website dengan Biaya Akuisisi Pelanggan (CAC) yang rendah.</p>
@@ -457,7 +457,9 @@
 			</section>
 
 			<?php include '../assets/components/dm-links.php' ?>
+			<br><br><br><br>
 			<?php include '../assets/components/other-services.php' ?>
+			<br><br>
 			
 
 		</div>

@@ -125,7 +125,7 @@
                 <a href="/en/logique.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-about.jpg')">
                     <div>
                         <h3>About</h3>
-                        <p>LOGIQUE Digital Indonesia is a leading IT consultant and system development company owned by a Japanese entrepreneur based in Jakarta.</p>
+                        <p><strong>LOGIQUE</strong> Digital Indonesia is a leading IT consultant and system development company owned by a Japanese entrepreneur based in Jakarta.</p>
                     </div>
                 </a>
             </div>
@@ -133,15 +133,15 @@
                 <a href="/en/portfolio.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-ourwork.jpg')">
                     <div>
                         <h3>Our Work</h3>
-                        <p>LOGIQUE has developed many Websites, Systems and Apps, Digital Marketing Campaign and delivered them successfully to our clients.</p>
+                        <p><strong>LOGIQUE</strong> has developed many Websites, Systems and Apps, Digital Marketing Campaign and delivered them successfully to our clients.</p>
                     </div>
                 </a>
             </div>
             <div class="col-sm-4 col-xs-12">
-                <a href="#" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-faq.jpg')">
+                <a href="/en/contact.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-contact.jpg')">
                     <div>
-                        <h3>FAQ</h3>
-                        <p>Frequently Asked Questions of Digital Marketing Services.</p>
+                        <h3>Contact Us</h3>
+                        <p>Contact us now, we will provide the best solution.</p>
                     </div>
                 </a>
             </div>

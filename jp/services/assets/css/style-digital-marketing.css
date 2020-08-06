@@ -292,7 +292,7 @@ strong {
 }
 
 .dm h2 {
-    font-weight: 800;
+    font-weight: 500;
     margin-bottom: 30px;
 }
 
@@ -467,7 +467,7 @@ strong {
     border-radius: 0 0 5px 5px;
 }
 
-.dm .dm__variety .variety__content > span {
+.dm .dm__variety .variety__content span {
     color: #ffca13;
 }
 
