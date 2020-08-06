@@ -43,31 +43,31 @@
             <div class="logique-nav logique-nav--update in-jp">
                 <div class="margin-for-nav">
                     <div class="text-center">
-                        <a href="index.php">
+                        <a href="/jp/">
                             <div class="img-home"></div>
                             Home
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="logique.php">
+                        <a href="/jp/logique.php">
                             <div class="img-about"></div>
                             会社概要
                         </a>
                     </div>
                     <div class="text-center active">
-                        <a href="portfolio.php">
+                        <a href="/jp/portfolio.php">
                             <div class="img-portfolio"></div>
                             制作実績
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="services.php">
+                        <a href="/jp/services.php">
                             <div class="img-services"></div>
                             サービス
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="product.php">
+                        <a href="/jp/product.php">
                             <div class="img-product"></div>
                             プロダクト
                         </a>
@@ -79,7 +79,7 @@
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="contact.php">
+                        <a href="/jp/contact.php">
                             <div class="img-contact"></div>
                             お問い合わせ
                         </a>
