@@ -3089,6 +3089,17 @@
 }
 
 /* Webdev Service Resp Settings */
+@media (min-width: 1025px) and (max-width: 1280px) {
+  section {
+    padding-left: 100px;
+  }
+  .content-wrapper__ .bg-section .breadcrumb-section {
+    left: 105px;
+  }
+  .lang-logo--update-design {
+    padding: 24px 0 24px 100px !important;
+  }
+} 
 @media (min-width: 769px) and (max-width:1024px) {
     .miniplan {
         padding-top: 0;
