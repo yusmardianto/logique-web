@@ -2429,6 +2429,7 @@
     .flow .flow-button img {
         width: 16px; 
         height: auto;
+        display: none;
     }
     .flow .flow-title {
         font-size: 21px;
