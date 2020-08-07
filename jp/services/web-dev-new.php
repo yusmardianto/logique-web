@@ -372,7 +372,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                 </div>
                 <div class="col-sm-6 col-md-6 col-lg-4">
                     <div class="seo-part flow-part">
-                        <img src="assets/img/img-webdev/feature/search seo.png" alt="SEO / SEM">
+                        <img src="assets/img/img-webdev/feature/searchseo.png" alt="SEO / SEM">
                         <h3>SEO / SEM</h3>
                         <p>Webサイトは、工夫なく公開するだけでは多くのトラフィックを集められません。インドネシアでのSEO対策に精通したエキスパートがオーガニック検索集客力のあるWebを制作します。PPC広告運用も効果的なキーワードを選定しご提案致します。
                         </p>
@@ -464,7 +464,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
             </div>
             <div class="row portofolio-section">
                 <div class="col-md-6 col-lg-4">
-                    <img src="assets/img/img-webdev/aia.png" alt="">
+                    <img src="assets/img/img-webdev/AIA.png" alt="">
                     <p class="portofolio-title">AIA</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
                 </div>
@@ -474,7 +474,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                     <p class="portofolio-subtitle">詳しくみる</p>
                 </div>
                 <div class="col-md-6 col-lg-4">
-                    <img src="assets/img/img-webdev/jba.png" alt="">
+                    <img src="assets/img/img-webdev/JBA.png" alt="">
                     <p class="portofolio-title">JBA</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
                 </div>
