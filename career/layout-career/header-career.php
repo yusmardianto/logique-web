@@ -192,9 +192,9 @@
     </a>
     <ul class="mega-menu__list">
       <a href="/career/lowongan/it-generalist/business-analyst.php"><li>Business Analyst</li></a>
-      <!-- <a href="/career/lowongan/it-generalist/consultant.php"><li>Consultant</li></a> -->
-      <a href="/career/lowongan/it-generalist/product-manager.php"><li>Consultant / <br>Product Manager</li></a>
-      <a href="/career/lowongan/it-generalist/project-manager.php"><li>Project Manager</li></a>
+      <!-- <a href="/career/lowongan/it-generalist/consultant.php"><li>Consultant</li></a> --> 
+      <a href="/career/lowongan/it-generalist/project-manager.php"><li>Consultant / Project Manager</li></a>
+      <a href="/career/lowongan/it-generalist/product-manager.php"><li>Product Manager</li></a>
     </ul>
   </div><div class="mega-menu__item">
     <a href="/career/lowongan/specialist/" class="mega-menu__title">

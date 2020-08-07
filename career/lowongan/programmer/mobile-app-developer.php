@@ -199,7 +199,7 @@
                 </ul>
               </div>
               <!-- <div class="career-requirement">
-                <h3 class="section-title">How a Mobile App Developer in LOGIQUE works usually</h3>
+                <h3 class="section-title">Cara Bekerja Mobile App Developer Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
                 <h4 class="section-subtitle">Mobile App Developer</h4>
                 <div class="work-schedule">
                   <div class="work-schedule__item">

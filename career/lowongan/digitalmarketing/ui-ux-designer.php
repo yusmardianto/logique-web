@@ -192,7 +192,7 @@
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">How a Designer in LOGIQUE works usually</h3>
+                <h3 class="section-title">Cara Bekerja Designer in LOGIQUE Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">09:00 – 09:30</div>
