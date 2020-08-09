@@ -62,7 +62,7 @@
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/slick.css" rel="stylesheet">
      <link href="/css/style.css" rel="stylesheet">
-     <link href="assets/css/newstyle-systemdev.css" rel="stylesheet">
+     <link href="assets/css/style-systemdev.css" rel="stylesheet">
      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&display=swap" rel="stylesheet">
      <script src="https://use.fontawesome.com/df558bb4a1.js"></script>
      <script>
@@ -602,7 +602,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem4.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan Aplikasi  (Penawaran Lelang / Bidding di Android).</h3>
-                                        <p>2 bulan, Android, node.js, JAVA, AWS</p>
+                                        <p>4 bulan, Android, node.js, JAVA, AWS</p>
                                     </div>
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal4"  class="more-icon"> Detail </a>
                                 </div>
@@ -614,16 +614,18 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
-                                        <h4 class="modal-title text-center" id="achievementLabel5">Pengembangan Aplikasi <br>(Penawaran Lelang / Bidding di Android).</h4>
+                                        <h4 class="modal-title text-center" id="achievementLabel5">Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                           <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
-                                          2 bulan, Android, node.js, JAVA, AWS
+                                          4 bulan, Android, node.js, JAVA, AWS
                                       </div>
                                       <div class="modal-body">
-                                        <p>Aplikasi berbasis android yang kami rancang untuk memudahkan customer dalam mengikuti lelang online secara realtime. Integrasi platform android dengan node.js, serta desain UI/UX yang baik, menghadirkan pengalaman seperti mengikuti lelang secara langsung di lokasi balai lelang. Dengan dukungan design API berperforma tinggi, dan hosting server berplatform Linux, serta arsitektur server yang telah mengadopsi fitur autoscaling dan loadbalancing dari AWS, maka performa aplikasi bidding ini tidak diragukan lagi.</p>
+                                        <p>Merupakan aplikasi berbasis android yang digunakan untuk kegiatan inspeksi kendaraan yang akan dilelangkan. Lebih dari 900 part kendaraan telah diperiksa melalui aplikasi inspeksi ini. Dengan aplikasi ini, proses pemeriksaan dan pencatatan hasil inspeksi dapat dilakukan dengan sangat efisien. Hasil inspeksi langsung tersimpan ke dalam core system secara realtime.</p>
+
+                                        <p>Dengan design UI/UX yang baik, pengguna aplikasi ini dapat dengan mudah melakukan proses inspeksi, meskipun melibatkan sangat banyak part kendaraan. Dari sisi performa, aplikasi ini sangat stabil. Selain karena android API dirancang dengan pendekatan performa yang baik, sistem ini juga didukung oleh desain arsitektur server yang baik dan telah memanfaatkan fitur autoscaling dan loadbalancing dari AWS.</p>
                                       </div>
                                        
                                     </div>
@@ -932,7 +934,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 </div>
                             </div>
                             <div class="col-sm-3 more">
-                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                <!-- <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
@@ -950,7 +952,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                        
                                     </div>
                                   </div>
-                                </div>
+                                </div> -->
                                 <div class="success-item scitem1">
                                     <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
@@ -1099,7 +1101,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                 <ul>
                     <li class="text-left">Hubungi kami sekarang untuk <br>pengembangan sistem berbasis web yang optimal!<li>
                     <li>
-                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
+                        <a href="/en/contact.php" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
                     </li>
                 </ul>
             </div>
