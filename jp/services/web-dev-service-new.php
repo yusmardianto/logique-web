@@ -580,11 +580,13 @@ if(isset($_POST['submitted']))
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <div class="slogan-container">
-                        <p>
-                            こちらから詳細なお見積りをご相談いただけます
-                        </p>
-                    </div>
+                    <a href="/jp/contact.php">
+                        <div class="slogan-container">
+                            <p>
+                                こちらから詳細なお見積りをご相談いただけます
+                            </p>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>
