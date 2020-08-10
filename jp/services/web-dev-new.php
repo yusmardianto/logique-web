@@ -952,10 +952,14 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
             </div>
             <div class="row ads-container">
                 <div class="col-md-6 col-sm-6">
-                    <img src="assets/img/img-webdev/facebookads.png" alt="">
+                    <a href="https://www.facebook.com/logique.id/" target="_blank">
+                        <img src="assets/img/img-webdev/facebookads.png" alt="">
+                    </a>
                 </div>
                 <div class="col-md-6 col-sm-6">
-                    <img src="assets/img/img-webdev/linkedinads.png" alt="">
+                    <a href="https://www.linkedin.com/company/13420656" target="_blank">
+                        <img src="assets/img/img-webdev/linkedinads.png" alt="">
+                    </a>
                 </div>
             </div>
         </div>
