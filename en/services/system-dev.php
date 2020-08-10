@@ -274,7 +274,7 @@
                       <div id="infra" class="tab-pane fade">
                        <div class="row">
                             <div class="col-sm-6">
-                                <p>We can help you build and design cloud-based server architectures both in Indonesia and abroad. We are an official partner of AWS and have experience in setting up and implementing cloud servers for AWS, GCP, and Alibaba. Especially in recent times, we have also succeeded in helping to perform many system and database migrations from on-premise servers to cloud servers.s</p>
+                                <p>We can help you build and design cloud-based server architectures both in Indonesia and abroad. We are an official partner of AWS and have experience in setting up and implementing cloud servers for AWS, GCP, and Alibaba. Especially in recent times, we have also succeeded in helping to perform many system and database migrations from on-premise servers to cloud servers.</p>
                             </div>
                             <div class="col-sm-6 text-center">
                                 <img src="pembuatan-sistem-web/img/newlayout/laptop-infra.jpg">
@@ -291,7 +291,7 @@
                         <div class="col-sm-6">
                             <div class="skema-content">
                                 <h3><span class="number">1.</span> Project Scheme</h3>
-                                <p>Proses pengembangan website akan berjalan sesuai dengan kontrak yang telah disepakati. Tipe ini sesuai untuk proyek pengembangan website dengan kebutuhan yang sudah jelas. Biasanya kami akan merekomendasikan metode Agile Development dalam pengerjaannya.</p>
+                                <p>The website development process will run according to the agreed contract. This type is suitable for website development projects with clear needs. Usually we will recommend the Agile Development method in the process.</p>
                             </div>
                         </div> 
                         <div class="col-sm-6">
@@ -308,7 +308,7 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="skema-content">
-                            <h3><span class="number">2.</span> Schema Based Resource
+                            <h3><span class="number">2.</span> Schema Based Resource</h3>
 
                             <p>This type can be selected if you want to run the system development process immediately but the work space, concept, or other requirements are still not defined. You can start by hiring a Business Analyst followed by a Designer and Developer during the web-based system development process.</p>
                             </div>
