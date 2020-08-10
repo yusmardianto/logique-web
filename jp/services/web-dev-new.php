@@ -62,7 +62,6 @@ if(isset($_POST['submitted']))
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -205,18 +204,15 @@ if(isset($_POST['submitted']))
                                     <div class="col-md-6">
                                         <h1 class="title">
                                             <span><span>LOGIQUEのWeb / </span></span>
-                                            /
                                             ホームページ制作サービス
                                         </h1>
                                         <div class="content">
-                                            <p>LOGIQUEが作るWeb / ホームページは、
-                                                集客ができる、お問い合わせが増える、採用応募者が増える、<br>などコンバージョンが増える価値のあるWebです。
+                                            <p>
+                                                LOGIQUEが作るWeb / ホームページは、 集客ができる、お問い合わせが増える、採用応募者が増える、などコンバージョンが増える価値のあるWebです。
                                             </p>
 
-                                            <p>WEBチャネルを活用して営業を効率的に行いたい、 他社と差別化したい、<br>
-                                                カスタマーサービスを効率化したい、 採用を強化したい、<br>
-                                                場合はLOGIQUEにお任せください。<br>
-                                                インドネシアで歴史も実績もNo1のWEB制作会社です。<br />
+                                            <p>WEBチャネルを活用して営業を効率的に行いたい、 他社と差別化したい、カスタマーサービスを効率化したい、 採用を強化したい、場合はLOGIQUEにお任せください。<br>
+                                            インドネシアで歴史も実績もNo1のWEB制作会社です。<br />
                                             </p>
                                         </div>
                                     </div>
@@ -275,10 +271,12 @@ if(isset($_POST['submitted']))
 予算の大小に関わらず定められたスコープの中で最良のWebを制作します。
 お客様のご要望が当社のどのサービスメニューに該当するのか不明などの場合にはお気軽にご相談ください。どれにも当てはまらない場合にも柔軟に考えお見積り差し上げます。
                     </p>
-                    <div class="flow-button">
-                    Web制作サービスメニューをみる
-                    <img src="assets/img/img-webdev/arrow.png" alt="">
-                    </div>
+                    <a href="/jp/services/webdev-price-range.php">
+                        <div class="flow-button">
+                        Web制作サービスメニューをみる
+                        <img src="assets/img/img-webdev/arrow.png" alt="">
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -454,7 +452,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p class="title">Web制作に関連した記事</p>
+                    <p class="title">Webサイト制作実績</p>
                     <p class="content">LOGIQUEのWeb制作実績を幾つかご紹介します。
                     </p>
                     <p class="content">
@@ -558,12 +556,12 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
             <div class="row">
                 <div class="col-md-12">
                     <div class="link-page-price-and-portfolio">
-                        <a class="link-yellow-white" href="/jp/services/webdev-price-range.php">Cloudサーバー運用管理サービス</a>
-                        <a class="link-yellow-white" href="/jp/portfolio.php">Webサイト制作実績</a>
+                        <a class="link-yellow-white" href="/jp/services/devops.php">Cloudサーバー運用管理サービス</a>
+                        <a class="link-yellow-white" href="/jp/services/penetration-test.php">Webサイト制作実績</a>
                     </div>
                     <div class="link-page-price-and-portfolio">
-                        <a class="link-yellow-white" href="/jp/services/webdev-price-range.php">Webセキュリティ脆弱性診断サービス</a>
-                        <a class="link-yellow-white" href="/jp/portfolio.php">モバイルアプリ開発サービス</a>
+                        <a class="link-yellow-white" href="/jp/services/web-dev.php">Webセキュリティ脆弱性診断サービス</a>
+                        <a class="link-yellow-white" href="/jp/services/pembuatan-aplikasi-mobile">モバイルアプリ開発サービス</a>
                     </div>
                 </div>
             </div>
@@ -917,11 +915,13 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <div class="button-container">
-                        <p>
-                            インドネシアのWeb制作運用についてLOGIQUEにお間い合わせください 
-                        </p>
-                    </div>
+                    <a href="/jp/contact.php">
+                        <div class="button-container">
+                            <p>
+                                インドネシアのWeb制作運用についてLOGIQUEにお間い合わせください 
+                            </p>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>
