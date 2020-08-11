@@ -11,9 +11,79 @@
     font-weight: bold;
     font-style: normal;
   }
+  @font-face {
+    font-family: "M Plus 1p";
+    src: url("../fonts/M_PLUS_1p/MPLUS1p-Regular.ttf");
+  }
+  @font-face {
+    font-family: "M Plus 1p Medium";
+    src: url("../fonts/M_PLUS_1p/MPLUS1p-Medium.ttf");
+  }
+  @font-face {
+    font-family: "M Plus 1p Bold";
+    src: url("../fonts/M_PLUS_1p/MPLUS1p-Bold.ttf");
+  }
+  @font-face {
+    font-family: "M Plus 1p Extra Bold";
+    src: url("../fonts/M_PLUS_1p/MPLUS1p-ExtraBold.ttf");
+  }
+  @font-face {
+    font-family: "Raleway";
+    src: url("../fonts/Raleway/Raleway-Regular.ttf");
+  }
+  @font-face {
+    font-family: "Raleway";
+    src: url("../fonts/Raleway/Raleway-Regular.ttf");
+  }
+  @font-face {
+    font-family: "Raleway Medium";
+    src: url("../fonts/Raleway/Raleway-Medium.ttf");
+  }
+  @font-face {
+    font-family: "Raleway Semi Bold";
+    src: url("../fonts/Raleway/Raleway-SemiBold.ttf");
+  }
+  @font-face {
+    font-family: "Raleway Bold";
+    src: url("../fonts/Raleway/Raleway-Bold.ttf");
+  }
+  @font-face {
+    font-family: "Raleway Extra Bold";
+    src: url("../fonts/Raleway/Raleway-ExtraBold.ttf");
+  }
+  @font-face {
+    font-family: "Open Sans";
+    src: url("../fonts/Open_Sans/OpenSans-Regular.ttf");
+  }
+  @font-face {
+    font-family: "Open Sans Semi Bold";
+    src: url("../fonts/Open_Sans/OpenSans-SemiBold.ttf");
+  }
+  @font-face {
+    font-family: "Open Sans Bold";
+    src: url("../fonts/Open_Sans/OpenSans-Bold.ttf");
+  }
+  @font-face {
+    font-family: "Open Sans Extra Bold";
+    src: url("../fonts/Open_Sans/OpenSans-ExtraBold.ttf");
+  }
+  @font-face {
+    font-family: "PingfangSC";
+    src: url("../fonts/PingFangSC/PingFangRegular.ttf");
+  }
+  @font-face {
+    font-family: "PingfangSC Bold";
+    src: url("../fonts/PingFangSC/PingFangBold.ttf");
+  }
+  @font-face {
+    font-family: "PingfangSC Medium";
+    src: url("../fonts/PingFangSC/PingFangMedium.ttf");
+  }
+
+
   html,
   body {
-    font-family: "M PLUS 1p", Lato, sans-serif !important;
+    font-family: "M Plus 1p", Lato, sans-serif !important;
   
     background-color: #fff;
     overflow-x: hidden;
@@ -23,7 +93,7 @@
   @-o-viewport {width: device-width}
   @viewport {width: device-width}
   * {
-      font-family: 'M PLUS 1p',Lato, sans-serif; 
+      font-family: 'M Plus 1p',Lato, sans-serif; 
   }
   
   header {
@@ -132,7 +202,7 @@
     margin-bottom: 10px;
     padding: 0 15px;
     font-weight: 500;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p Medium", sans-serif;
   }
   .obstacle p {
     padding: 0 15px;
@@ -140,7 +210,7 @@
     font-size: 14px;
     color: #4a4a4a;
     letter-spacing: 0;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p", sans-serif;
   }
   
   section {
@@ -157,7 +227,7 @@
     border-radius: 0px;
     color: rgb(169, 103, 0);
     font-size: 32px;
-    font-family: "M PLUS 1p", sans-serif;
+    font-family: "M Plus 1p Bold", sans-serif;
     font-weight: 800;
     letter-spacing: 1.78px;
     /* padding: 0 16px; */
@@ -171,14 +241,14 @@
     border-left: none;
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family: "M PLUS 1p", sans-serif;
+    font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 1.33px;
   }
   .title-content-p {
     color: rgb(0, 0, 0);
     font-size: 13px;
-    font-family: "M PLUS 1p", sans-serif;
+    font-family: "M Plus 1p", sans-serif;
     font-weight: normal;
     letter-spacing: 0.72px;
   }
@@ -664,7 +734,7 @@
     margin-top: 0;
     color: rgb(0, 0, 0);
     font-size: 18px;
-    font-family: "M PLUS 1p", sans-serif;
+    font-family: "M Plus 1p bold", sans-serif;
     font-weight: bold;
     letter-spacing: 1px;
   }
@@ -675,7 +745,7 @@
     margin-left: -50px;
     color: rgb(0, 0, 0);
     font-size: 14px;
-    font-family: "M PLUS 1p", sans-serif;
+    font-family: "M Plus 1p", sans-serif;
     font-weight: normal;
     letter-spacing: 0.78px;
   }
@@ -909,7 +979,7 @@
     border-radius: 5px;
     height: 60px;
     font-size: 16px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p", sans-serif;
     font-weight: 500;
     text-align: center;
     letter-spacing: 0px;
@@ -1253,7 +1323,7 @@
 .content-wrapper__ .bg-section .main-section .title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family: "M PLUS 1p", sans-serif;
+    font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
     background: none;
@@ -1263,7 +1333,7 @@
 .content-wrapper__ .bg-section .main-section .content {
     color: rgb(0, 0, 0);
     font-size: 16px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Raleway Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
     line-height: 25px;
@@ -1274,7 +1344,7 @@
 .about .about-title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family: "M PLUS 1p", sans-serif;
+    font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
     margin-bottom: 30px;
@@ -1283,7 +1353,7 @@
 .about .about-content {
     color: rgb(81, 81, 81);
     font-size: 13px;
-    font-family: "M PLUS 1p", sans-serif;
+    font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
     line-height: 25px;
@@ -1300,7 +1370,7 @@
 .flow .flow-title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family: "M PLUS 1p", sans-serif;
+    font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
     margin-bottom: 30px;
@@ -1309,7 +1379,7 @@
 .flow .flow-content {
     color: rgb(81, 81, 81);
     font-size: 13px;
-    font-family: "M PLUS 1p", sans-serif;
+    font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
     line-height: 25px;
@@ -1321,7 +1391,7 @@
     border-radius: 4px;
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Raleway Medium", sans-serif;
     font-weight: 600;
     text-align: left;
     padding: 13px 20px;
@@ -1338,7 +1408,7 @@
 .discuss .discuss-title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family: "M PLUS 1p", sans-serif;
+    font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
     margin-bottom: 30px;
@@ -1347,7 +1417,7 @@
 .discuss .discuss-content {
     color: rgb(81, 81, 81);
     font-size: 13px;
-    font-family: "M PLUS 1p", sans-serif;
+    font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
     line-height: 25px;
@@ -1364,7 +1434,7 @@
 .announce .announce-content .announce-title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family: "M PLUS 1p", sans-serif;
+    font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     text-align: center;
     letter-spacing: 0px;
@@ -1373,7 +1443,7 @@
 .announce .announce-content .announce-p {
     color: rgb(81, 81, 81);
     font-size: 13px;
-    font-family: "M PLUS 1p", sans-serif;
+    font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     text-align: center;
     letter-spacing: 0px;
@@ -1390,7 +1460,7 @@
 .division .division-title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p Medium", sans-serif;
     font-weight: 500;
     text-align: center;
     letter-spacing: 0px;
@@ -1404,7 +1474,7 @@
 .division .division-container .title {
     color: rgb(0, 0, 0);
     font-size: 18px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p Medium", sans-serif;
     font-weight: 500;
     text-align: center;
     letter-spacing: 0px;
@@ -1412,7 +1482,7 @@
 .division .division-container .content {
     color: rgb(0, 0, 0);
     font-size: 14px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p", sans-serif;
     font-weight: normal;
     text-align: center;
     letter-spacing: 0px;
@@ -1423,7 +1493,7 @@
 .portofolio .title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p Medium", sans-serif;
     font-weight: 500;
     text-align: center;
     letter-spacing: 0px;
@@ -1432,7 +1502,7 @@
 .portofolio .content {
     color: rgb(81, 81, 81);
     font-size: 13px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p Medium", sans-serif;
     font-weight: 500;
     text-align: center;
     letter-spacing: 0px;
@@ -1444,7 +1514,7 @@
 .portofolio .portofolio-section .portofolio-title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Raleway Bold", sans-serif;
     font-weight: bold;
     letter-spacing: 0px;
     margin-bottom: 9px;   
@@ -1453,7 +1523,7 @@
 .portofolio .portofolio-section .portofolio-subtitle {
     color: rgb(1, 77, 255);
     font-size: 18px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Pingfang SC", sans-serif;
     font-weight: normal;
     letter-spacing: 0px;
     line-height: 26px;
@@ -1464,7 +1534,7 @@
 .strategic .title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p Medium", sans-serif;
     font-weight: 500;
     text-align: center;
     letter-spacing: 0px;
@@ -1479,7 +1549,7 @@
 .strategic .strategic-list .strategic-title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Pingfang SC Medium", sans-serif;
     font-weight: 600;
     letter-spacing: 0px;
     margin-bottom: 14px;
@@ -1487,7 +1557,7 @@
 .strategic .strategic-list .strategic-content {
     color: rgb(0, 0, 0);
     font-size: 14px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p", sans-serif;
     font-weight: normal;
     letter-spacing: 0.78px;
 }
@@ -1497,7 +1567,7 @@
 .strategic .strategic-exp p {
     color: rgb(0, 0, 0);
     font-size: 14px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p", sans-serif;
     font-weight: normal;
     text-align: center;
     letter-spacing: 0.78px;
@@ -1508,7 +1578,7 @@
 .service .title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p Medium", sans-serif;
     font-weight: 500;
     text-align: center;
     letter-spacing: 0px;
@@ -1520,7 +1590,7 @@
 .content-article .title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p Mediun", sans-serif;
     font-weight: 500;
     text-align: center;
     letter-spacing: 0px;
@@ -1566,7 +1636,7 @@
   .content-article .article-container .content-container .title {
     color: rgb(0, 0, 0);
     font-size: 16px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Open Sans Semi Bold", sans-serif;
     font-weight: 600;
     letter-spacing: 0.23px;
     margin-bottom: 10px;
@@ -1576,14 +1646,14 @@
   .content-article .article-container .content-container .content {
     color: rgb(98, 98, 98);
     font-size: 12px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Open Sans", sans-serif;
     letter-spacing: 0.28px;
     margin-bottom: 20px;
   }
   .content-article .article-container .content-container .date {
     color: rgb(0, 0, 0);
     font-size: 14px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Open Sans Semi Bold", sans-serif;
     font-weight: 600;
     letter-spacing: -0.2px;
   }
@@ -1645,7 +1715,7 @@
 .domore .content-container .title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 1.33px;
     background: none;
@@ -1655,7 +1725,7 @@
 .domore .content-container .list {
     color: rgb(0, 0, 0);
     font-size: 14px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p", sans-serif;
     font-weight: normal;
     letter-spacing: 0.78px;
     line-height: 20px;
@@ -1669,7 +1739,7 @@
 }
 .domore .button-container p {
     font-size: 24px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 1.33px;
     background: none;
@@ -1681,7 +1751,7 @@
 .gallery .title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family:"M PLUS 1p", sans-serif;
+    font-family:"M Plus 1p Medium", sans-serif;
     font-weight: 500;
     text-align: center;
     letter-spacing: 1.33px;
@@ -1692,7 +1762,7 @@
 .gallery .gallery-container .gallery-title {
     color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family: "Raleway", sans-serif;
+    font-family: "PingfangSC Medium", sans-serif;
     font-weight: 600;
     text-align: center;
     letter-spacing: 0px;
@@ -1701,7 +1771,7 @@
 .gallery .gallery-container .gallery-content {
     color: rgb(1, 77, 255);
     font-size: 18px;
-    font-family: "Raleway", sans-serif;
+    font-family: "PingfangSC", sans-serif;
     font-weight: normal;
     text-align: center;
     letter-spacing: 0px;
