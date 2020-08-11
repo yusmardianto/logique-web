@@ -5,25 +5,26 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-	<meta name="description" content="Logique offers professional seo optimization services, which include seo marketing, seo auditing and seo analysis, led by digital marketing consultants">
-	<meta name="keywords" content="logique, seo maintenance, search rank report, analytic report, SEO consultation, search console service, web maintenance, content writing, creative content, seo service provider, seo service jakarta, seo service indonesia, digital marketing, website marketing, white hat marketing, whitehat, white hat SEO, brand recognition, multilanguage content, website portfolio, SEO strategy">
-	<meta name="title" content="Logique provides Jakarta based Search Engine Optimization services">
+	<meta name="description" content="LOGIQUEのSEO対策サービス。ジャカルタからインドネシア語、英語、日本語でのSEO対策サービスを提供しています。Web最適化、コンテンツ制作の豊富な経験を活かしたSEO対策を行います。">
+	<meta name="keywords" content="logique, seo maintenance, search rank report, analytic report, konsultasi SEO, search console service, web maintenance, pemeliharaan web, penulisan konten, konten kreatif, seo service provider, seo service jakarta, seo service indonesia, digital marketing, website marketing, white hat marketing, whitehat, white hat SEO, pengakuan merek, multilanguage content, website portfolio, strategi SEO">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
-	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="LOGIQUE: Jakarta Based SEO Services & Consulting Available">
-	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/en/services/digital-marketing/seo-service.php">
+	<meta name="title" content="Logique provides Jakarta based Search Engine Optimization services">
+	<meta property="og:title" content="SEO対策サービス | LOGIQUE Digitalインドネシア">
+    <meta property="og:type" content="website">
+    <meta itemprop="name" content="PT. Logique Digital Indonesia">
+    <meta property="og:site_name" content="Logique">
+    <meta property="og:url" content="https://www.logique.co.id/jp/services/digital-marketing/seo-service.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-	<meta property="og:description" content="Advance your website through high quality SEO Services to get you started. Rise through Google’s Ranks and improve your site’s on page SEO.">
+    <meta property="og:description" content="LOGIQUEのSEO対策サービス。ジャカルタからインドネシア語、英語、日本語でのSEO対策サービスを提供しています。">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<title>Logique Digital Marketing - SEO Service Page</title>
+	<title>インドネシア語SEO対策サービス | LOGIQUE Digitalインドネシア</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+	  <link href="../../../css/jpstyle.css" rel="stylesheet"> 
 	<script>
 		(function(i, s, o, g, r, a, m) {
 			i['GoogleAnalyticsObject'] = r;
@@ -57,7 +58,7 @@
 </head>
 
 <body>
-	<div class="wrapper wrapper--update-design wrapper--update-design-font">
+	<div class="wrapper wrapper--update-design wrapper--update-design-font --jp o-wrapper top-only">
 		<div class="nav-lp">
 			<button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar first"></span>
@@ -65,60 +66,60 @@
 				<span class="icon-bar third"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
-				<div class="backdrop-test"></div>
-				<div class="logique-nav logique-nav--update">
-					<div class="margin-for-nav">
-						<div class="text-center">
-							<a href="/en/index.php">
-								<div class="img-home"></div>
-								Home
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/logique.php">
-								<div class="img-about"></div>
-								About Us
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/portfolio.php">
-								<div class="img-portfolio"></div>
-								Portfolio
-							</a>
-						</div>
-						<div class="text-center active">
-							<a href="/en/services.php">
-								<div class="img-services"></div>
-								Services
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/product.php">
-								<div class="img-product"></div>
-								Product
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/career/">
-								<div class="img-career"></div>
-								Career
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/contact.php">
-								<div class="img-contact"></div>
-								Contact Us
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/en" target="_blank" rel="noreferrer">
-								<div class="img-blog"></div>
-								Blog
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
+            <div class="backdrop-test"></div>
+            <div class="logique-nav logique-nav--update in-jp">
+                <div class="margin-for-nav">
+                    <div class="text-center">
+                        <a href="/jp/">
+                            <div class="img-home"></div>
+                            Home
+                        </a>
+                    </div>
+                    <div class="text-center">
+                        <a href="/jp/logique.php">
+                            <div class="img-about"></div>
+                            会社概要
+                        </a>
+                    </div>
+                    <div class="text-center">
+                        <a href="/jp/portfolio.php">
+                            <div class="img-portfolio"></div>
+                            制作実績
+                        </a>
+                    </div>
+                    <div class="text-center active">
+                        <a href="/jp/services.php">
+                            <div class="img-services"></div>
+                            サービス
+                        </a>
+                    </div>
+                    <div class="text-center">
+                        <a href="/jp/product.php">
+                            <div class="img-product"></div>
+                            プロダクト
+                        </a>
+                    </div>
+                    <div class="text-center">
+                        <a href="/career/">
+                            <div class="img-career"></div>
+                            採用/<br>パートナー
+                        </a>
+                    </div>
+                    <div class="text-center">
+                        <a href="/jp/contact.php">
+                            <div class="img-contact"></div>
+                            お問い合わせ
+                        </a>
+                    </div>
+                    <div class="text-center">
+                        <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
+                            <div class="img-blog"></div>
+                            Blog
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
 		</div>
 
 		<!-- HEADER -->
@@ -130,9 +131,9 @@
 							<div class="container">
 								<a href="/en/"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
 								<ul class="list-inline">
-									<li class="active"><a href="#">EN</a></li>
-									<li><a href="/../layanan/digital-marketing/jasa-seo.php">ID</a></li>
-									<li><a href="/jp//services/digital-marketing/seo-service.php">JP</a></li>
+									<li><a href="/en/services/digital-marketing/seo-service.php">EN</a></li>
+									<li  ><a href="/layanan/digital-marketing/jasa-seo.php">ID</a></li>
+									<li class="active"><a href="#">JP</a></li>
 								</ul>
 							</div>
 						</div>
@@ -148,10 +149,10 @@
 				<div class="container__ text-center">
 					<div class="row">
 						<div class="col-md-offset-1 col-md-10">
-							<h1>Optimize Your Website on Every Search Engine</h1>
-							<p>Many obstacles are often faced by business people who decide to bring their business Go Digital with a website, but after having a website they feel confused.</p>
-							<img src="/en/services/digital-marketing/img/img-seo-optimization/banner-seo.svg" alt="seo" class="img-responsive">
-							<h3>"Where Can I Get Visitors???"</h3>
+							<h1>SEO対策をしてオーガニックトラフィックを獲得</h1>
+							<p>良いWebサイトを作っても訪問者がなければ意味がありません。オーガニックトラフィックを生む力、リピート訪問してもらえるWebであることがWebサイトの資産価値です。</p>
+							<img src="/en/services/digital-marketing/img/img-seo-optimization/banner-seo.svg" alt="" class="img-responsive">
+							<h3>“SEO対策をしてWebサイトの資産価値を高めましょう”</h3>
 						</div>
 					</div>
 				</div>
@@ -162,16 +163,16 @@
 					<div class="row">
 						<div class="col-sm-12">
 							<ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
-								<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/en/"><span
-											itemprop="name">Home</span></a>
+								<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/jp/"><span
+											itemprop="name">ホーム</span></a>
 									<meta itemprop="position" content="1" />
 								</li>
 								<li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-										href="/en/services.php"><span itemprop="name">&nbsp;Services</span></a>
+										href="/jp/services.php"><span itemprop="name">&nbsp;サービス</span></a>
 									<meta itemprop="position" content="2" />
 								</li>
 								<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
-											itemprop="name">&nbsp;SEO Service</span></a>
+											itemprop="name">&nbsp;デジタルマーケティング > SEO対策</span></a>
 									<meta itemprop="position" content="3" />
 								</li>
 							</ol>
@@ -186,9 +187,9 @@
 						<div class="solution__wrapper col-md-offset-1 col-md-10">
 							<div class="solution__main text-center">
 								<h2 class="main__cloud">SEO</h2>
-								<h2>Search Engine is one solution</h2>
-								<p>Search engines become a platform where users look for an answer or solution, in this situation your website must be able to be present as a solution for every User who has the potential to become your customer.</p>
-								<p>Supported by<span> more than 50 professionals </span>in the field of Digital Marketing, Website Developer, Website Designer, Creative Designer, Content Writer, Copywriter, and Cloud Server Engineer make <strong>LOGIQUE</strong> as the only company that is able to synergize every aspect of optimizing a website in one roof and mechanism of action.</p>
+								<h2>Google検索エンジン最適化</h2>
+								<p>Ownedメディアの収益化のために、十分な数の新規ユーザーの獲得と再訪率を高めるということが非常に重要です。多くの新規ユーザーは、オーガニック検索経由か広告経由で獲得することになります。広告は当然収益にはネガティブに働きますので、SEO力の高いWebサイトにすることが重要なキーファクターとなるのです。</p>
+								<p>LOGIQUEはインドネシアにてSEO対策を長年に渡り多くのクライアントに実施してきました。SEOスペシャリストだけでなく、デザイナー、コンテンツライター、プログラマー、DevOpsなどOwnedメディア運用＆最適化に必要な全ての専門家を抱えていますのでワンストップで最適な対策を実施可能です。</p>
 							</div>
 							<br class="visible-lg">
 							<div class="row">
@@ -196,12 +197,12 @@
 									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-1.jpg" alt="team effort" class="img-responsive">
 								</div>
 								<div class="col-md-6 col-xs-12">
-									<p>Our team will always be ready to dedicate its efforts in improving the performance of your website that is supported by the experience of experts who have been experts in their respective fields for years.</p>
+									<p>ユーザーの求める情報を提供する質の高いWeb・ホームページが評価され検索結果順位も良くなります。豊富なWeb制作運用の経験をもち、インドネシアのユーザーを理解し、評価されるWebを知り尽くしたLOGIQUEだからこそ本当のSEO対策を行うことができます。</p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-6 col-xs-12 order-sm-2">
-									<p>Many website development companies are able to create and design websites that look very professional and modern, but unfortunately, most of these companies fail to optimize website functions to make them more friendly with the Search Engine Robot.</p>
+									<p>今は簡単に見た目の良いWebを簡単に制作できるツールがありますが、それらは本当の意味でのUI/UX高い価値のあるWebにはなっていないことがほとんどです。それではGoogleからも評価されないのでSEO順位があがらず訪問者が殆ど無いということになりがちです。</p>
 								</div>
 								<div class="col-md-6 col-xs-12">
 									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-2.jpg" alt="optimize website function" class="img-responsive">
@@ -212,18 +213,18 @@
 									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-3.jpg" alt="web development understanding" class="img-responsive">
 								</div>
 								<div class="col-md-6 col-xs-12">
-									<p>And many SEO service providers know and understand how to optimize a website, however, it is often constrained because of the limitations of experts who understand website development.</p>
+									<p>表面的なSEO対策に安易に飛びつくことも問題です。小手先のテクニックを施しただけで順位が上がるような世界ではなくなっています。確かなSEO施策に基づくWebサイトの改善＆コンテンツ運用ワークが必要になります。</p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-6 col-xs-12 order-sm-2">
-									<p>In the end, making the process of optimizing the performance of a website takes a long time, whereas you want the company's growth to continue to increase over time.</p>
+									<p>確かなSEO対策をしても結果が出るまでには時間が必要です。定期的にモニターしながら、ビジネス状況に応じて、SEO対策もアップデートしながら運用していく必要があります。</p>
 								</div>
 								<div class="col-md-6 col-xs-12">
 									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-4.jpg" alt="teamwork" class="img-responsive">
 								</div>
 							</div>
-							<p class="text-center">This is what <strong>LOGIQUE</strong> is trying to avoid. Every division involved in optimizing a website will work based on corridors and SEO methods while still paying attention to the aesthetics and functions of a website.</p>
+							<p class="text-center">LOGIQUEのSEO対策は上記のような難しさを全て解決して好結果を導き出します。なるべく早く結果がでるように努力しますし、適切なレポートで日々の作業や結果の進捗を見えるかすることでご安心してお任せいただけるようにいたします。</p>
 						</div>
 					</div>
 				</div>
@@ -233,7 +234,7 @@
 				<div class="container__">
 					<div class="row">
 						<div class="col-md-offset-1 col-md-10">
-							<p class="text-center">This effort will certainly lead to a high level of customer satisfaction and excellence that is prioritized by search engines when a user searches for a keyword on a search engine, then makes your website a foundation for significant business growth from brand development to increasing sales.</p>
+							<p class="text-center">SEO対策を通じて私共が達成したいゴールは、クライアントのWebサイトの収益力向上、ひいてはWebサイトの資産価値の向上です。本質的なSEO対策として、良いコンテンツを掲載し、ユーザビリティを向上することで、オーガニックトラフィック数、リピート訪問率のUPに繋げ、デジタルビジネスを成功に導きます。</p>
 						</div>
 					</div>
 				</div>
@@ -300,7 +301,7 @@
 												such as SimilarWeb, Ahrefs, MOZ, etc.
 												</div>
 												<div id="service_2_2" class="tab-pane fade">
-												yang berpotensi mendatangkan traffic
+												which has the potential to bring in traffic
 												</div>
 												<!-- <div id="service_2_3" class="tab-pane fade">
 													Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas odit cupiditate iste! Dolor earum quos consequatur similique asperiores esse excepturi?
@@ -416,14 +417,14 @@
 							</div>
 							<div class="row">
 								<div class="col-md-offset-1 col-md-10">
-									<p class="text-center"><strong>LOGIQUE</strong> is a home for website developers and digital marketing professionals. This is what strengthens the synergy between developing Digital Assets and optimizing engagement for each of your Digital Assets.</p>
+									<p class="text-center">SEO対策として、デジタルアセットの開発から運用改善最適化まで<strong>LOGIQUE</strong> はチームとして各専門家が協業して最高のパフォーマンスを出します。</p>
 								</div>
 							</div>
 						</div>
 					</section>
 					<section class="services__contribution">
 						<h2 class="text-center">Our Great Contribution to a Business.</h2>
-						<p class="text-center">The quality of our work has been proven by dozens of experiences and work results from various fields of projects from various business industries, such as the Banking Industry, Automotive Industry, Tourism Industry, Property Industry.</p><br>
+						<p class="text-center">インドネシアでのSEO対策で好結果を生んできました。様々な業界向けに、インドネシア語、英語、日本語で検索順位結果向上してきましたが、特に、金融、自動車関連、旅行、不動産のクライアント向けに豊富な経験をもっています。</p><br>
 	
 						<div class="services__pills">
 							<ul class="nav nav-pills">
@@ -456,10 +457,11 @@
 				</div>
 			</section>
 
-			<?php include '../assets/components/dm-links.php' ?>			
+			<?php include '../assets/components/dm-links.php' ?>
 			<br><br><br><br>
 			<?php include '../assets/components/other-services.php' ?>
 			<br><br>
+			
 
 		</div>
 		<?php include '../../footer.php'; ?>
