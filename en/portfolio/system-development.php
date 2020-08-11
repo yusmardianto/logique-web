@@ -413,7 +413,7 @@
                 </div>
             </section>
 
-            <div class="container__">
+            <!-- <div class="container__">
                 <div class="text-center our-portfolio">
                     <p class="title__description" style="margin-bottom: 15px; margin-top: 25px;">Contact us and we will
                         present to
@@ -425,7 +425,9 @@
                         Contact us for LOGIQUE's portfolio
                     </a>
                 </div>
-            </div>
+            </div> -->
+
+            <?php include './portfolio-links.php';?>
 
             <!-- modal popup -->
             <!-- modal 1 -->
@@ -864,8 +866,8 @@
             <!-- end modal popup -->
         </div>
 
+        <?php include '../footer.php';?>
     </div>   
-    <?php include '../footer.php';?>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js">
     </script>
     <script>

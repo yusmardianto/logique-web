@@ -5,18 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUEの制作実績を紹介します。LOGIQUEは、ジャカルタのウェブ制作会社です。ジャカルタを中心としたインドネシア国内で、数多くのWEBサイト(ホームページ)制作/システム構築、パンフレット、カタログ等印刷物のデザインまで制作を行ってまいりました。">
+        content="LOGIQUEのWebサイト・ホームページ制作実績を紹介。LOGIQUEはジャカルタのWeb制作・システム開発会社。インドネシアで効果のでる多くのWebを制作運用してきました。インドネシア語、英語、日本語のWebを制作運用可能です。">
     <meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, デザイン, 印刷, コーポレートサイト, ランディングページ">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア">
+    <meta property="og:title" content="LOGIQUEのWebサイト制作実績">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="LOGIQUEの制作実績を紹介します。ホームページ制作、Webシステム開発、モバイルアプリ開発、SNS運用やSEO、インターネット広告などデジタルマーケティング実施の実績紹介です。LOGIQUEはジャカルタのウェブ制作会社です。インドネシアでの制作開発プロジェクトのケーススタディーも幾つか紹介します。">
+        content="LOGIQUEのWebサイト制作実績を紹介。ホームページ制作、Webデザイン、Webシステム開発で豊富な実績があります。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア</title>
+    <title>Web・ホームページ制作実績 | LOGIQUEデジタルインドネシア</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -161,7 +161,7 @@
                                     <meta itemprop="position" content="2" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Website</span></a>
+                                        itemprop="item"><span itemprop="name">&nbsp;Web制作実績</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                             </ol>
@@ -171,8 +171,8 @@
                 <div class="container__ banner-detail__content">
                     <div class="row">
                         <div class="col-md-offset-1 col-md-7">
-                            <div class="title"><h1>Website Creation Works</h1></div>
-                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our Web creation portfolio.</p>
+                            <div class="title"><h1>LOGIQUEのWeb制作実績</h1></div>
+                            <p class="title__description" style="margin-left: 0;">幾つかの公開可能なWeb制作実績を掲載します。制作した後のRevampやページ追加制作なども多く行っていますので、制作数としてはここに掲載しているものよりもずっと多くなります。より詳細な情報をお求めの場合はお気軽にお問い合わせください。</p>
                             <img src="/img/portfolio/bg-portfolio-detail-website.png" alt="" class="img-responsive visible-md visible-lg">
                         </div>
                     </div>
@@ -1097,12 +1097,12 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <a href="#" class="btn btn--full">Do you need a Web which brings many customer to your company?</a>
+                        <a href="#" class="btn btn--full">コンバージョンが出るホームページが必要ではないですか？</a>
                     </div>
                 </div>
             </section>
 
-            <div class="container__">
+            <!-- <div class="container__">
                 <div class="text-center our-portfolio">
                     <p class="title__description" style="margin-bottom: 15px; margin-top: 25px;">Contact us and we will
                         present to
@@ -1114,12 +1114,14 @@
                         Contact us for LOGIQUE's portfolio
                     </a>
                 </div>
-            </div>
+            </div> -->
+
+            <?php include './portfolio-links.php';?>
 
         </div>
 
+        <?php include '../footer.php';?>
     </div>   
-    <?php include '../footer.php';?>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js">
     </script>
     <script>

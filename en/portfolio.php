@@ -419,7 +419,7 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <a href="/en/portfolio/digital-marketing.php" class="btn">See more</a>
+                        <a href="/en/services/digital-marketing.php" class="btn">See more details of our Digital Marketing Service</a>
                     </div>
                 </div>
             </section>
@@ -440,8 +440,8 @@
 
         </div>
 
+        <?php include 'footer.php';?>
     </div>   
-    <?php include 'footer.php';?>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
 
     <script>
