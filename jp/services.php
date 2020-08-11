@@ -546,6 +546,10 @@
                                         日本語、インドネシア語、英語でのSEO対策実績豊富にあります。
                                         インドネシア語で金融系ビッグキーワードや車系ビッグキーワードで1位を長く維持した実績あります。 SEMもお任せください。
                                     </p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a target="_blank" class="main-btn --yellow"
+                                            href="/jp/services/digital-marketing/seo-service.php">もっと見る</a>
+                                    </div>
                             </div>
                         </div>
                     </section>

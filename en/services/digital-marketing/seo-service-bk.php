@@ -122,7 +122,7 @@
 				<ul class="list-inline">
 					<li class="active"><a href="/en/services/digital-marketing/seo-service.php">EN</a></li>
 					<li><a href="/layanan/digital-marketing/jasa-seo.php">ID</a></li>
-					<li><a href="/jp/services/digital-marketing.php">JP</a></li>
+					<li><a href="/jp//services/digital-marketing/seo-service.php">JP</a></li>
 				</ul>
 			</div>
 			<div class="div-top">

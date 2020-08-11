@@ -146,13 +146,13 @@
                   <div class="urgent-box">
                     <h2 class="section-title">Dibutuhkan Segera!</h2>
                     <div class="urgent-need">
-                      <a href="/career/lowongan/specialist/lead-quality-assurance.php" class="urgent-need__item">
-                        <img class="urgent-need__img" src="/img/career/icon/quality.png" alt="Quality Assurance">
-                        <div class="urgent-need__text">Lead Quality Assurance</div>
+                      <a href="/career/lowongan/programmer/web-developer.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Web Developer">
+                        <div class="urgent-need__text">Web Developer</div>
                       </a>
-                      <a href="/career/lowongan/specialist/devops.php" class="urgent-need__item">
-                        <img class="urgent-need__img" src="/img/career/icon/server.png" alt="DevOps">
-                        <div class="urgent-need__text">DevOps</div>
+                      <a href="/career/lowongan/programmer/frontend-developer.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Front End Developer">
+                        <div class="urgent-need__text">Front End Dev</div>
                       </a>
                       <a href="/career/lowongan/specialist/it-security-specialist.php" class="urgent-need__item">
                         <img class="urgent-need__img" src="/img/career/icon/password.png" alt="Security Specialist">
