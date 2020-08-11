@@ -1017,7 +1017,7 @@
     </section>
     <section class="content-section fourth-part">
          <div class="sec-content-part testimonial">
-            <h2 class="sub-section-title text-center">Testimoni dari Klien</h2>
+            <h2 class="sub-section-title text-center">Our Clients Testimony</h2>
             <div class="page-content">
                 <div class="testimonial-slider">
                     <div class="testislider-item">
