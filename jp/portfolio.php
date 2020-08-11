@@ -428,7 +428,7 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <a href="/jp/portfolio/digital-marketing.php" class="btn">
+                        <a href="/jp/services/digital-marketing.php" class="btn">
                             Web・ホームページ制作実績をもっとみる
                         </a>
                     </div>
