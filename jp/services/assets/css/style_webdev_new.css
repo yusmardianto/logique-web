@@ -1803,7 +1803,7 @@
     padding: 24px 0 24px 100px !important;
   }
 } 
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 992px) and (max-width: 1024px) {
     .content-wrapper__ .bg-section img {
         display: block !important;
         position: relative;
@@ -2125,7 +2125,757 @@
         margin-bottom: 30px;
     }
 }
+@media (min-width: 851px) and (max-width: 991px) {
+  .content-wrapper__ .--top {
+    margin-top: 4.5em;
+  }
+  section, header {
+      padding-left: 100px;
+  }
+  header {
+      height: auto !important;
+  }
+  .lang-logo--update-design {
+      padding: 0 !important;
+  }
+  .lang-logo--update-design .list-inline {
+      top: 10px;
+      margin-top: 0;
+      right: 25px;
+  }
+  .nav-lp .navbar-toggle.collapsed {
+      top: 5px;
+  }
+  .logo--update-design {
+      margin: 20px auto;
+  }
+  .nav-lp .navbar-toggle {
+      right: 0;
+  }
+  .content-wrapper__ .bg-section .breadcrumb-section .breadcrumb--update-design {
+      padding: 5px 0;
+  }
+  .breadcrumb--update-design {
+      font-size: 12px;
+  }
+  .breadcrumb > li + li:before {
+      color: #000000;
+  }
+  .content-wrapper__ .bg-section .col-md-12 {
+    padding: 0;
+  }
+  .content-wrapper__ .bg-section img {
+      /* display: none; */
+      margin-left: 0;
+  }
+  .content-wrapper__ .bg-section .breadcrumb-section {
+      position: absolute;
+      left: 0;
+      top: 0;
+  }
+  .content-wrapper__ .bg-section .main-section {
+    position: absolute;
+    margin-top: 0;
+    padding: 0;
+    top: 0;
+  }
+  .content-wrapper__ .bg-section .main-section .container {
+    width: 100%;
+    max-width: 900px;
+  }
+  .content-wrapper__ .bg-section .main-section .title {
+      font-size: 20px;
+      margin-bottom: 5px;
+      margin-top: 25px;
+  }
+  .content-wrapper__ .bg-section .main-section .content {
+      font-size: 14px;
+      margin-bottom: 20px;
+  }
+  header {
+      padding-bottom: 0;
+  }
+  .about {
+      padding-top: 20px;
+      padding-bottom: 20px;
+  }
+  .about .container {
+    width: auto;
+  }
+  .about .about-title {
+      margin-top: 50px;
+      font-size: 17px;
+      margin-bottom: 5px;
+  }
+  .about .about-content {
+      margin-bottom: 20px;
+  }
+  #myCarousel {
+      margin-top: 20px;
+  }
+  .carousel-indicators {
+      left: 50% !important;
+      right: 50% !important;
+      z-index: 9 !important;
+  }
+  .flow {
+      padding-bottom: 30px;
+  }
+  .flow .container {
+    width: auto;
+  }
+  .flow img {
+      width: 100%;
+      height: auto;
+      margin-top: 20px;
+  }
+  .flow .flow-button {
+      width: 100%;
+      font-size: 16px;
+      height: 45px;
+      padding: 10px 20px;
+  }
+  .flow .flow-button img {
+      width: 16px; 
+      height: auto;
+      margin-top: 5px;
+  }
+  .flow .flow-title {
+    margin-top: 40px;
+      font-size: 18px;
+      margin-bottom: 10px;
+  }
+  .flow .flow-content {
+      margin-bottom: 15px;
+      font-size: 12px;
+  }
+  .discuss {
+      padding-bottom: 0;
+  }
+  .discuss .container {
+    width: auto;
+  }
+  .discuss .discuss-title {
+      margin-bottom: 15px;
+      margin-top: 0;
+      font-size: 19px;
+      margin-top: 10px;
+  }
+  .discuss img {
+      width: 100%;
+      height: auto;
+      margin-bottom: 30px;
+  }
+  .announce {
+      padding-top: 0;
+      padding-bottom: 0;
+  }
+  .announce .container {
+    width: auto;
+  }
+  .announce .announce-content .announce-title {
+      font-size: 22px;
+  }
+  .division .container {
+    width: auto;
+  }
+  .division .division-title {
+      margin-bottom: 20px;
+  }
+  .division .division-container {
+      margin-bottom: 20px;
+  }
+  .web-service-flow {
+      padding-top: 0;
+      padding-bottom: 0;
+  }
+  .web-service-flow .container {
+    width: auto;
+  }
+  .flow-part {
+      min-height: 150px;
+      padding-left: 75px;
+      margin-bottom: 20px;
+  }
+  .flow-part h3 {
+      font-size: 16px;
+  }
+  .flow-part p {
+      font-size: 12px;
+  }
+  .portofolio .container {
+    width: auto;
+  }
+  .portofolio .title {
+      margin-bottom: 0px;
+  }
+  .portofolio .portofolio-section {
+      text-align: center;
+  }
+  .portofolio .portofolio-section img {
+    width: 70%;
+    height: auto;
+  }
+  .portofolio .portofolio-section .portofolio-subtitle,
+  .portofolio .portofolio-section .portofolio-title {
+      text-align: center;
+      margin-top: 10px;
+  }
+  .strategic {
+      padding-top: 0;
+      padding-bottom: 30px;
+  }
+  .strategic .container {
+    width: auto;
+  }
+  .strategic .title {
+      margin-bottom: 20px;
+      font-size: 22px;
+  }
+  .strategic .strategic-list img {
+      width: 100%;
+      height: auto;
+      margin-bottom: 15px;
+  }
+  .strategic .strategic-list .strategic-title {
+      margin-bottom: 10px;
+      font-size: 20px;
+  }
+  .strategic .strategic-list div {
+      margin-bottom: 30px;
+  }
+  .strategic .strategic-exp {
+      margin-top: 20px;
+  }
+  .strategic .strategic-list .strategic-content {
+      font-size: 16px;
+  }
+  .service {
+      padding-top: 0;
+      padding-bottom: 30px;
+  }
+  .service .container {
+    width: auto;
+  }
+  .service .title {
+      margin-bottom: 0;
+      font-size: 22px;
+  }
+  .link-yellow-white {
+      font-size: 14px;
+  }
+  .content-article .container {
+    width: auto;
+  }
+  .content-article .article-container {
+      grid-template-columns: auto;
+      margin-bottom: 30px;
+  }
+  .content-article .title {
+      margin-bottom: 15px;
+  }
+  .content-article .article-container .img-container img {
+      width: 100%;
+  } 
+  .content-article .article-indicators {
+      margin-top: 0;
+      margin-bottom: 0;
+  }
+  .content-article .article-container .content-container .content {
+      margin-bottom: 10px;
+      font-size: 14px;
+  }
+  .obstacle {
+      padding-bottom: 40px;
+  }
+  .obstacle .container {
+    width: auto;
+  }
+  .obstacle h2 {
+      padding: 0;
+      font-size: 21px;
+      text-align: center;
+  }
+  .obstacle img {
+      margin-top: 30px;
+      padding: 0;
+      width: 30%;
+  }
+  .card {
+      margin-right: 0;
+  }
+  .tahap-pemesanan-bg {
+      height: 300px;
+      padding-top: 15px;
+  }
+  .title-custom {
+      right: -2px;
+  }
+  .tahap-pemesanan {
+      padding-top: 15px;
+      background: none;
+  }
+  .tahap-pemesanan .container, .tahap-pemesanan-2 .container {
+    width: auto;
+  }
+  .tahap-pemesanan .card .title-custom-p {
+      margin-bottom: 15px;
+  }
+  .tahap-pemesanan .card .title-content-p {
+      padding: 0 10px;
+  }
+  .tahap-pemesanan-2 {
+      padding-top: 15px;
+  }
+  .tahap-pemesanan-2 .card2 .title-custom-p {
+      margin-bottom: 15px;
+  }
+  .tahap-pemesanan-2 .card2 .title-content-p {
+      padding: 0 10px;
+  }
+  .card2 {
+      padding: 36px 37px 20px 20px;
+      margin-bottom: 30px;
+  }
+  .tahap-pemesanan-2 {
+      padding-bottom: 0px;
+  }
+  .no-10 {
+      right: -2px !important;
+      top: -7px !important;
+      font-size: 32px !important;
+  }
+  .domore {
+      padding-top: 0;
+      padding-bottom: 30px;
+  }
+  .domore .container {
+    width: auto;
+  }
+  .domore .img-container img {
+      display: none;
+  }
+  .domore .content-container {
+      position: relative;
+      top: 0;
+      left: 0;
+  }
+  .domore .content-container .title {
+      font-size: 22px;
+  }
+  .domore .content-container .list {
+      margin-bottom: 10px;
+      font-size: 13px;
+  }
+  .domore .button-container p {
+      font-size: 17px;
+  }
+  .domore .button-container {
+      margin-top: 25px;
+  }
+  .gallery {
+      padding-bottom: 0;
+  }
+  .gallery .container {
+    width: auto;
+  }
+  .gallery .title {
+      font-size: 22px;
+  }
+  .gallery .gallery-container .gallery-title {
+      font-size: 14px;
+  }
+  .gallery .gallery-container .gallery-content {
+      margin-bottom: 20px;
+      font-size: 12px;
+  }
+  .gallery .ads-container {
+      margin-top: 20px;
+  }
+  .gallery .ads-container img {
+      margin-bottom: 30px;
+  }
+}
+@media (min-width: 769px) and (max-width: 850px) {
+  .content-wrapper__ .--top {
+    margin-top: 4.5em;
+  }
+  section, header {
+      padding-left: 100px;
+  }
+  header {
+      height: auto !important;
+  }
+  .lang-logo--update-design {
+      padding: 0 !important;
+  }
+  .lang-logo--update-design .list-inline {
+      top: 10px;
+      margin-top: 0;
+  }
+  .nav-lp .navbar-toggle.collapsed {
+      top: 5px;
+  }
+  .logo--update-design {
+      margin: 20px auto;
+  }
+  .nav-lp .navbar-toggle {
+      right: 0;
+  }
+  .content-wrapper__ .bg-section .breadcrumb-section .breadcrumb--update-design {
+      padding: 5px 0;
+  }
+  .breadcrumb--update-design {
+      font-size: 12px;
+  }
+  .breadcrumb > li + li:before {
+      color: #000000;
+  }
+  .content-wrapper__ .bg-section .col-md-12 {
+    padding: 0;
+  }
+  .content-wrapper__ .bg-section img {
+      /* display: none; */
+      margin-left: 0;
+  }
+  .content-wrapper__ .bg-section .breadcrumb-section {
+      position: absolute;
+      left: 0;
+      top: 0;
+  }
+  .content-wrapper__ .bg-section .main-section {
+    position: absolute;
+    margin-top: 0;
+    padding: 0;
+    top: 0;
+  }
+  .content-wrapper__ .bg-section .main-section .container {
+    width: 100%;
+    max-width: 900px;
+  }
+  .content-wrapper__ .bg-section .main-section .title {
+      font-size: 16px;
+      margin-bottom: 5px;
+      margin-top: 15px;
+  }
+  .content-wrapper__ .bg-section .main-section .content {
+      font-size: 12px;
+      margin-bottom: 20px;
+  }
+  header {
+      padding-bottom: 0;
+  }
+  .about {
+      padding-top: 20px;
+      padding-bottom: 20px;
+  }
+  .about .container {
+    width: auto;
+  }
+  .about .about-title {
+      margin-top: 20px;
+      font-size: 17px;
+      margin-bottom: 5px;
+  }
+  .about .about-content {
+      margin-bottom: 20px;
+  }
+  #myCarousel {
+      margin-top: 20px;
+  }
+  .carousel-indicators {
+      left: 50% !important;
+      right: 50% !important;
+      z-index: 9 !important;
+  }
+  .flow {
+      padding-bottom: 30px;
+  }
+  .flow .container {
+    width: auto;
+  }
+  .flow img {
+      width: 100%;
+      height: auto;
+      margin-top: 20px;
+  }
+  .flow .flow-button {
+      width: 100%;
+      font-size: 16px;
+      height: 45px;
+      padding: 10px 20px;
+  }
+  .flow .flow-button img {
+      width: 16px; 
+      height: auto;
+      margin-top: 5px;
+  }
+  .flow .flow-title {
+    margin-top: 10px;
+      font-size: 18px;
+      margin-bottom: 10px;
+  }
+  .flow .flow-content {
+      margin-bottom: 15px;
+      font-size: 12px;
+  }
+  .discuss {
+      padding-bottom: 0;
+  }
+  .discuss .container {
+    width: auto;
+  }
+  .discuss .discuss-title {
+      margin-bottom: 15px;
+      margin-top: 0;
+      font-size: 19px;
+      margin-top: 10px;
+  }
+  .discuss img {
+      width: 100%;
+      height: auto;
+      margin-bottom: 30px;
+      margin-top: 30px;
+  }
+  .announce {
+      padding-top: 0;
+      padding-bottom: 0;
+  }
+  .announce .container {
+    width: auto;
+  }
+  .announce .announce-content .announce-title {
+      font-size: 22px;
+  }
+  .division .container {
+    width: auto;
+  }
+  .division .division-title {
+      margin-bottom: 20px;
+  }
+  .division .division-container {
+      margin-bottom: 20px;
+  }
+  .web-service-flow {
+      padding-top: 0;
+      padding-bottom: 0;
+  }
+  .web-service-flow .container {
+    width: auto;
+  }
+  .flow-part {
+      min-height: 150px;
+      padding-left: 75px;
+      margin-bottom: 20px;
+  }
+  .flow-part h3 {
+      font-size: 16px;
+  }
+  .flow-part p {
+      font-size: 15px;
+  }
+  .portofolio .container {
+    width: auto;
+  }
+  .portofolio .title {
+      margin-bottom: 0px;
+  }
+  .portofolio .portofolio-section {
+      text-align: center;
+  }
+  .portofolio .portofolio-section img {
+    width: 70%;
+    height: auto;
+  }
+  .portofolio .content {
+    font-size: 16px;
+  }
+  .portofolio .portofolio-section .portofolio-subtitle,
+  .portofolio .portofolio-section .portofolio-title {
+      text-align: center;
+      margin-top: 10px;
+      font-size: 18px;
+  }
+  .strategic {
+      padding-top: 0;
+      padding-bottom: 30px;
+  }
+  .strategic .container {
+    width: auto;
+  }
+  .strategic .title {
+      margin-bottom: 20px;
+      font-size: 22px;
+  }
+  .strategic .strategic-list img {
+      width: 100%;
+      height: auto;
+      margin-bottom: 15px;
+  }
+  .strategic .strategic-list .strategic-title {
+      margin-bottom: 10px;
+      font-size: 20px;
+  }
+  .strategic .strategic-list div {
+      margin-bottom: 30px;
+  }
+  .strategic .strategic-exp {
+      margin-top: 20px;
+  }
+  .strategic .strategic-list .strategic-content {
+      font-size: 14px;
+      min-height: 100px;
+  }
+  .service {
+      padding-top: 0;
+      padding-bottom: 30px;
+  }
+  .service .container {
+    width: auto;
+  }
+  .service .title {
+      margin-bottom: 0;
+      font-size: 22px;
+  }
+  .link-yellow-white {
+      font-size: 14px;
+  }
+  .content-article .container {
+    width: auto;
+  }
+  .content-article .article-container {
+      grid-template-columns: auto;
+      margin-bottom: 30px;
+  }
+  .content-article .title {
+      margin-bottom: 15px;
+  }
+  .content-article .article-container .img-container img {
+      width: 100%;
+  } 
+  .content-article .article-indicators {
+      margin-top: 0;
+      margin-bottom: 0;
+  }
+  .content-article .article-container .content-container .content {
+      margin-bottom: 10px;
+      font-size: 14px;
+  }
+  .obstacle {
+      padding-bottom: 40px;
+  }
+  .obstacle .container {
+    width: auto;
+  }
+  .obstacle h2 {
+      padding: 0;
+      font-size: 21px;
+      text-align: center;
+  }
+  .obstacle img {
+      margin-top: 30px;
+      padding: 0;
+      width: 30%;
+  }
+  .card {
+      margin-right: 0;
+  }
+  .tahap-pemesanan-bg {
+      height: 300px;
+      padding-top: 15px;
+  }
+  .title-custom {
+      right: -2px;
+  }
+  .tahap-pemesanan {
+      padding-top: 15px;
+      background: none;
+  }
+  .tahap-pemesanan .container, .tahap-pemesanan-2 .container {
+    width: auto;
+  }
+  .tahap-pemesanan .card .title-custom-p {
+      margin-bottom: 15px;
+  }
+  .tahap-pemesanan .card .title-content-p {
+      padding: 0 10px;
+  }
+  .tahap-pemesanan-2 {
+      padding-top: 15px;
+  }
+  .tahap-pemesanan-2 .card2 .title-custom-p {
+      margin-bottom: 15px;
+  }
+  .tahap-pemesanan-2 .card2 .title-content-p {
+      padding: 0 10px;
+  }
+  .card2 {
+      padding: 36px 37px 20px 20px;
+      margin-bottom: 30px;
+  }
+  .tahap-pemesanan-2 {
+      padding-bottom: 0px;
+  }
+  .no-10 {
+      right: -2px !important;
+      top: -7px !important;
+      font-size: 32px !important;
+  }
+  .domore {
+      padding-top: 0;
+      padding-bottom: 30px;
+  }
+  .domore .container {
+    width: auto;
+  }
+  .domore .img-container img {
+      display: none;
+  }
+  .domore .content-container {
+      position: relative;
+      top: 0;
+      left: 0;
+  }
+  .domore .content-container .title {
+      font-size: 22px;
+  }
+  .domore .content-container .list {
+      margin-bottom: 10px;
+      font-size: 13px;
+  }
+  .domore .button-container p {
+      font-size: 17px;
+  }
+  .domore .button-container {
+      margin-top: 25px;
+  }
+  .gallery {
+      padding-bottom: 0;
+  }
+  .gallery .container {
+    width: auto;
+  }
+  .gallery .title {
+      font-size: 22px;
+  }
+  .gallery .gallery-container .gallery-title {
+      font-size: 14px;
+  }
+  .gallery .gallery-container .gallery-content {
+      margin-bottom: 20px;
+      font-size: 12px;
+  }
+  .gallery .ads-container {
+      margin-top: 20px;
+  }
+  .gallery .ads-container img {
+      margin-bottom: 30px;
+  }
+}
 @media (min-width: 415px) and (max-width: 768px) {
+  .content-wrapper__ .--top {
+    margin-top: 4.3em;
+  }
     section, header {
         padding-left: 100px;
     }
@@ -2168,6 +2918,9 @@
         position: relative;
         margin-top: 0;
         padding: 0;
+    }
+    .content-wrapper__ .bg-section .main-section .col-sm-7 {
+        width: 100%;
     }
     .content-wrapper__ .bg-section .main-section .title {
         font-size: 22px;
@@ -2245,6 +2998,9 @@
         padding-top: 0;
         padding-bottom: 0;
     }
+    .announce .container {
+      width: auto;
+    }
     .announce .announce-content .announce-title {
         font-size: 22px;
     }
@@ -2269,6 +3025,9 @@
     .flow-part p {
         font-size: 12px;
     }
+    .portofolio .container {
+      width: auto;
+    }
     .portofolio .title {
         margin-bottom: 0px;
     }
@@ -2279,6 +3038,10 @@
     .portofolio .portofolio-section .portofolio-title {
         text-align: center;
         margin-top: 10px;
+        font-size: 15px;
+    }
+    .portofolio .portofolio-section img {
+      width: 100%;
     }
     .strategic {
         padding-top: 0;
