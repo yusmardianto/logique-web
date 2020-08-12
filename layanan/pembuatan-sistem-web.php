@@ -370,13 +370,13 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         <div class="panel-heading">
                           <h4 class="panel-title">
                             <a data-toggle="collapse" data-parent="#accordion" href="#suggestion">
-                             <span class="number">3.</span>Memberikan saran dan improvement untuk perusahaan Anda</a>
+                             <span class="number">3.</span>Memberikan saran dan nilai tambah untuk perusahaan Anda</a>
                           </h4>
                         </div>
                         <div id="suggestion" class="panel-collapse collapse">
-                          <div class="panel-body"><p>Tujuan dari pemanfaatan dan pengembangan sistem berbasis web adalah untuk mendukung dan meningkatkan bisnis yang ada. Terkadang, perusahaan mengalami kesulitan untuk memahami masalah dalam bisnisnya sehingga tidak menemukan solusi yang tepat. Dengan pengalaman yang kami miliki, kami dapat membantu menyelesaikannya. </p>
-<p>Kami akan mencari sumber masalah yang terjadi dan berbagi saran terbaik untuk mengatasinya. Kami akan berfikir dari sudut pandang klien ketika memberi saran untuk penggunaan dan pemanfaatan sistem web agar lebih optimal.</p>
-</div>
+                          <div class="panel-body"><p>Tujuan dari pemanfaatan dan pengembangan sistem berbasis web adalah untuk mendukung dan meningkatkan bisnis yang ada. Terkadang, perusahaan mengalami kesulitan untuk memahami masalah dalam bisnisnya sehingga tidak menemukan solusi yang tepat. Dengan pengalaman yang kami miliki, kami dapat membantu menyelesaikannya.</p>
+                          <p>Kami akan mencari sumber masalah yang terjadi dan berbagi saran terbaik untuk mengatasinya. Kami akan berfikir dari sudut pandang klien ketika memberi saran untuk penggunaan dan pemanfaatan sistem web agar lebih optimal.</p>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -444,7 +444,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 <div class="slider-item" style="background: url(pembuatan-sistem-web/img/newlayout/sinarmas-img.jpg);">
                                     <div class="company-studycase">
                                         <h3>Sinarmas Land</h3>
-                                        <div>Online Recruitment system</div>
+                                        <div>Sistem Rekrutmen Online </div>
                                     </div>
                                     <div class="technology-studycase">
                                         <strong>Bahasa Pemograman :</strong><br>
@@ -455,7 +455,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 <div class="slider-item" style="background: url(pembuatan-sistem-web/img/newlayout/weeo-img.jpg);">
                                     <div class="company-studycase">
                                         <h3>Weeo</h3>
-                                        <div>Real time vehicle monitoring mobile apps</div>
+                                        <div>Aplikasi Seluler Monitoring Kendaraan</div>
                                     </div>
                                     <div class="technology-studycase">
                                         <strong>Teknologi utama: </strong><br>
@@ -997,7 +997,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                 <div class="testimonial-slider">
                     <div class="testislider-item">
                         <div class="client-container">
-                            <ul class="clientinfo">
+                           <!--  <ul class="clientinfo">
                                 <li class="client-photo">
                                     <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
                                 </li>
@@ -1005,7 +1005,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <span class="client-name">Axel, 27</span>
                                     <span class="client-title">Project Manager</span>
                                 </li>
-                            </ul>
+                            </ul> -->
                             <div class="client-testimoni">
                                 Sebagai kepala departemen IT, saya telah terlibat dalam berbagai proyek pengembangan sistem. Namun sejauh ini saya belum pernah menemukan perusahaan pengembangan yang fleksibel dan dinamis seperti <span class="logofont">LOGIQUE</span> yang mampu menyesuaikan dengan kebutuhan User yang sering berubah tanpa mengabaikan kualitas yang diberikan. Saya juga pernah meminta layanan maintenance kepada <span class="logofont">LOGIQUE</span>, dan saya sangat berterimakasih atas update informasi yang dilakukan secara rutin dan tepat waktu.   
                             </div>
@@ -1014,7 +1014,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                     </div>
                     <div class="testislider-item">
                          <div class="client-container">
-                            <ul class="clientinfo">
+                            <!-- <ul class="clientinfo">
                                 <li class="client-photo">
                                     <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
                                 </li>
@@ -1022,7 +1022,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <span class="client-name">Axel, 27</span>
                                     <span class="client-title">Project Manager</span>
                                 </li>
-                            </ul>
+                            </ul> -->
                             <div class="client-testimoni">
                                 Karena banyaknya masalah yang terjadi, saya memutuskan untuk membatalkan kontrak dengan perusahaan pengembangan sebelumnya dan memilih <span class="logofont">LOGIQUE</span> untuk melakukan pengembangan lanjutan dan mengelola sistem kami. Saya sangat senang karena <span class="logofont">LOGIQUE</span> berhasil melanjutkan pengembangan sistem berbasis web tersebut dengan fleksibel dan efektif meskipun tanpa dokumentasi dan informasi yang memadai. Pihak kami hanya menunjukkan beberapa masalah yang sebenarnya tidak terlalu kami mengerti, namun <span class="logofont">LOGIQUE</span> justru dapat memahami masalah yang terjadi dan memberikan solusi terbaik untuk pengembangan sistem kami.
                             </div>
@@ -1031,7 +1031,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                     </div>
                     <div class="testislider-item">
                          <div class="client-container">
-                            <ul class="clientinfo">
+                            <!-- <ul class="clientinfo">
                                 <li class="client-photo">
                                     <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
                                 </li>
@@ -1039,7 +1039,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <span class="client-name">Axel, 27</span>
                                     <span class="client-title">Project Manager</span>
                                 </li>
-                            </ul>
+                            </ul> -->
                             <div class="client-testimoni">
                                 Kami melakukan pengembangan sistem berbasis web dengan tarif tetap perbulan yang memungkinkan proses pengerjaan hanya dilakukan pada hari-hari tertentu. Saya sangat senang dengan tipe pengembangan seperti ini karena sistem yang dikerjakan dapat selesai dengan baik namun tetap hemat biaya. Untuk proyek selanjutnya, mungkin kami akan meminta pengembangan dengan skema berbasis resource yang dinamis
                             </div>

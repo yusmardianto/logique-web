@@ -1022,7 +1022,7 @@
                 <div class="testimonial-slider">
                     <div class="testislider-item">
                         <div class="client-container">
-                            <ul class="clientinfo">
+                            <!-- <ul class="clientinfo">
                                 <li class="client-photo">
                                     <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
                                 </li>
@@ -1030,7 +1030,7 @@
                                     <span class="client-name">Axel, 27</span>
                                     <span class="client-title">Project Manager</span>
                                 </li>
-                            </ul>
+                            </ul> -->
                             <div class="client-testimoni">
                                 As head of the IT department, I have been involved in various systems development projects. But so far I have never found a flexible and dynamic development company like <span class="logofont">LOGIQUE</span> that is able to adapt to the changing needs of users without neglecting the quality provided. I have also asked <span class="logofont">LOGIQUE</span> for maintenance services, and I am very grateful for the information updates that are carried out regularly and on time. 
                             </div>
@@ -1039,7 +1039,7 @@
                     </div>
                     <div class="testislider-item">
                          <div class="client-container">
-                            <ul class="clientinfo">
+                           <!--  <ul class="clientinfo">
                                 <li class="client-photo">
                                     <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
                                 </li>
@@ -1047,7 +1047,7 @@
                                     <span class="client-name">Axel, 27</span>
                                     <span class="client-title">Project Manager</span>
                                 </li>
-                            </ul>
+                            </ul> -->
                             <div class="client-testimoni">
                                 Due to the many problems that occurred, I decided to cancel the contract with the previous development company and chose <span class="logofont">LOGIQUE</span> to do further development and manage our system. I am very happy that <span class="logofont">LOGIQUE</span> has succeeded in continuing the development of the web-based system flexibly and effectively even without adequate documentation and information. We only show some problems that we don't really understand, but <span class="logofont">LOGIQUE</span> can actually understand the problems that occur and provide the best solutions for the development of our system.
 
@@ -1057,7 +1057,7 @@
                     </div>
                     <div class="testislider-item">
                          <div class="client-container">
-                            <ul class="clientinfo">
+                           <!--  <ul class="clientinfo">
                                 <li class="client-photo">
                                     <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
                                 </li>
@@ -1065,7 +1065,7 @@
                                     <span class="client-name">Axel, 27</span>
                                     <span class="client-title">Project Manager</span>
                                 </li>
-                            </ul>
+                            </ul> -->
                             <div class="client-testimoni">
                                 We develop a web-based system with a fixed monthly rate which allows the process to be carried out only on certain days. I am very happy with this type of development because the system works well but is still cost effective. For the next project, maybe we will ask for development with dynamic resource-based schema.
 

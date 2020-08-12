@@ -769,6 +769,12 @@ section.dm__other-service  strong, section.dm__links   strong {
 @media (max-width: 991px) {   }
 
 @media (max-width: 762px) { 
+    .success-service-list > .row > div:last-child {
+        height: auto;
+    }
+    .whyus-accordion .panel-collapse{
+        padding-left: 40px;
+    }
     .content-section{
         margin-left: 0px;
     } 

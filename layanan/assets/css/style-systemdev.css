@@ -334,7 +334,7 @@ section h2{
 .company-studycase , .technology-studycase{
     margin-bottom: 40px;
 }
-.technology-studycase strong{
+.technology-studycase strong, b{
     font-weight: 600 !important;
 }
 .sliderimg-studycase > button{
@@ -765,7 +765,10 @@ section.dm__other-service  strong, section.dm__links   strong {
 
 @media (max-width: 991px) {   }
 
-@media (max-width: 762px) { 
+@media (max-width: 762px) {
+    .whyus-accordion .panel-collapse {
+        padding-left: 40px;
+    }
     .content-section{
         margin-left: 0px;
     } 
@@ -863,6 +866,12 @@ section.dm__other-service  strong, section.dm__links   strong {
     .success-service-list > .row > div{
         width: 100%;
     }
+    .success-item.sc-seeall{
+        height: auto;
+    }
+    .success-service-list > .row > div:last-child{
+        height: auto;
+    }   
     .success-item .scitem-content h3{
         height: auto !important;
     }
