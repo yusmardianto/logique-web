@@ -1101,7 +1101,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                 <ul>
                     <li class="text-left">Hubungi kami sekarang untuk <br>pengembangan sistem berbasis web yang optimal!<li>
                     <li>
-                        <a href="/en/contact.php" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
+                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
                     </li>
                 </ul>
             </div>
