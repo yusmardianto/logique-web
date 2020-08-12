@@ -178,7 +178,7 @@
 
                      </h1>
                      <h3 class="  m-new">  
-                        <span class="logofont">LOGIQUE</span> adalah partner yang tepat untuk Anda, yang menyediakan jasa pembuatan sistem berbasis web dan manajemen proyek terbaik dengan kualitas dan keamanan yang berstandar internasional. Kami dapat membantu Anda mengembangkan sistem berbasis web berkualitas dengan harga yang kompetitif.
+                        <span class="logofont">LOGIQUE</span> adalah partner yang tepat untuk Anda, yang menyediakan jasa pembuatan aplikasi berbasis web dan manajemen proyek terbaik dengan kualitas dan keamanan yang berstandar internasional. Kami dapat membantu Anda mengembangkan sistem berbasis web berkualitas dengan harga yang kompetitif.
                         <p>
 Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekarang juga! </p>
 
