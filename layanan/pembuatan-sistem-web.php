@@ -270,7 +270,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 <p>Kami dapat membantu Anda membangun dan merancang arsitektur server berbasis cloud baik di Indonesia maupun di luar negeri. Kami merupakan partner resmi dari AWS dan berpengalaman dalam melakukan setup dan implentasi server cloud untuk AWS, GCP, serta Alibaba. Khususnya dalam beberapa waktu belakangan ini, kami juga telah berhasil membantu melakukan banyak migrasi sistem dan database dari server lokal (on-premise) ke server cloud.</p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="pembuatan-sistem-web/img/newlayout/llaptop-infra.jpg">
+                                <img src="pembuatan-sistem-web/img/newlayout/laptop-infra.jpg">
                             </div>
                          </div>
                       </div>
