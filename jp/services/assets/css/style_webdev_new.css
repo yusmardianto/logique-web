@@ -2512,6 +2512,7 @@
   .lang-logo--update-design .list-inline {
       top: 10px;
       margin-top: 0;
+      right: 80px;
   }
   .nav-lp .navbar-toggle.collapsed {
       top: 5px;
