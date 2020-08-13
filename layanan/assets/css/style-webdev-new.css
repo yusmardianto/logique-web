@@ -2307,6 +2307,7 @@
   }
   .division .division-container {
       margin-bottom: 20px;
+      min-height: 150px;
   }
   .web-service-flow {
       padding-top: 0;
@@ -3039,6 +3040,7 @@
     }
     .division .division-container {
         margin-bottom: 20px;
+        min-height: 150px;
     }
     .web-service-flow {
         padding-top: 0;
@@ -3331,6 +3333,7 @@
     }
     .division .division-container {
         margin-bottom: 20px;
+        min-height: 250px;
     }
     .web-service-flow {
         padding-top: 0;
@@ -3406,7 +3409,7 @@
         margin-right: 0;
     }
     .tahap-pemesanan-bg {
-        height: 300px;
+        height: auto;
         padding-top: 15px;
     }
     .title-custom {
@@ -3456,14 +3459,14 @@
         left: 0;
     }
     .domore .content-container .title {
-        font-size: 22px;
+        font-size: 18px;
     }
     .domore .content-container .list {
         margin-bottom: 10px;
         font-size: 13px;
     }
     .domore .button-container p {
-        font-size: 19px;
+        font-size: 18px;
     }
     .domore .button-container {
         margin-top: 25px;

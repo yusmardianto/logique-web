@@ -364,14 +364,14 @@ if(isset($_POST['submitted']))
     <section class="section-layout web-service-flow">
         <div class="container">
             <div class="row">
-                <div class="col-sm-6 col-md-6 col-lg-4">
+                <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="analysis-part flow-part">
                         <img src="assets/img/img-webdev/feature/authentication.svg" alt="アクセス解析・課題抽出">
                         <h3>Analisis dan Evaluasi</h3>
                         <p>Anda sudah punya website dan berkeinginan untuk memperbaikinya? Kami siap untuk melakukan analisis dan mengevaluasi situasi situs web Anda saat ini. Kami akan mengevaluasi mengapa trafik website Anda sangat rendah, atau apakah hal ini berkaitan dengan struktur atau tidak. Tim kami merupakan para ahli dalam menganalisis kinerja website Anda secara keseluruhan dan mencarikan solusi dari permasalahan yang ada.</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-6 col-lg-4">
+                <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="plan-part flow-part">
                         <img src="assets/img/img-webdev/feature/web-development.png" alt="プランニング">
                         <h3>Perencanaan</h3>
@@ -379,7 +379,7 @@ if(isset($_POST['submitted']))
                         </p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-6 col-lg-4">
+                <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="seo-part flow-part">
                         <img src="assets/img/img-webdev/feature/searchseo.png" alt="SEO / SEM">
                         <h3>SEO / SEM</h3>
@@ -389,7 +389,7 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-6 col-md-6 col-lg-4">
+                <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="info-part flow-part">
                         <img src="assets/img/img-webdev/feature/learning.png" alt="情報再構成・改善">
                         <h3>Peningkatan dan Restrukturisasi</h3>
@@ -397,14 +397,14 @@ if(isset($_POST['submitted']))
                         </p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-6 col-lg-4">
+                <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="multiligual-part flow-part">
                         <img src="assets/img/img-webdev/feature/interpreter.png" alt="多言語Webサイト制作運用">
                         <h3>Membuat dan Mengoperasikan Website Multi Bahasa</h3>
                         <p>Kami dapat membuat dan mengoperasikan situs web dalam Bahasa Indonesia, Bahasa Inggris dan Bahasa Jepang. Kami mengerti dan memahami bahwa konten yang kreatif dan tersegmentasi dengan baik sangat penting bagi situs web untuk menjangkau dan melibatkan banyak kalangan.</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-6 col-lg-4">
+                <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="sosmed-part flow-part">
                         <img src="assets/img/img-webdev/feature/social-media.png" alt="SNS運用">
                         <h3>Pengoperasian Media Sosial</h3>
@@ -413,21 +413,21 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-6 col-md-6 col-lg-4">
+                <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="design-part flow-part">
                         <img src="assets/img/img-webdev/feature/graphic-design.png" alt="デザイン制作">
                         <h3>Pembuatan Desain</h3>
                         <p>Kami merancang UI yang ramah bagi pengguna serta ramah bagi perubahan sistem yang berasal dari situs web Anda. Tim desain kami akan menyarankan kepada Anda berbagai jenis desain yang berbeda sesuai dengan kebutuhan Anda.</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-6 col-lg-4">
+                <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="markup-part flow-part">
                         <img src="assets/img/img-webdev/feature/css.png" alt="マークアップ・コーディング">
                         <h3>Markup Coding</h3>
                         <p>Anda juga dapat meminta kepada kami hanya melakukan pengodean HTML/ CSS bagi situs web Anda. Tim developer kami akan mengejar ketertinggalan teknologi coding pada situs web Anda dan menggantinya dengan JavaScript dan teknologi coding front-end terbaru.</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-6 col-lg-4">
+                <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="responsive-part flow-part">
                         <img src="assets/img/img-webdev/feature/responsive.png" alt="マルチデバイス対応">
                         <h3>Dukungan Multi Perangkat</h3>
@@ -436,21 +436,21 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-6 col-md-6 col-lg-4">
+                <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="programing-part flow-part">
                         <img src="assets/img/img-webdev/feature/web-programming.png" alt="プログラミング">
                         <h3>Fitur Pemrograman Khusus</h3>
                         <p>Anda dapat meminta fitur pemrograman apapun yang Anda inginkan untuk ditambahkan ke dalam situs web Anda, seperti Parallax motions yang mungkin dapat terhubung dengan JavaScript, HTML5, CSS3 dan lain-lain. Kami akan mengusulkan pengembangan situs web yang menarik para pengguna yang telah disesuaikan dengan kebutuhan Anda.</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-6 col-lg-4">
+                <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="system-part flow-part">
                         <img src="assets/img/img-webdev/feature/control-panel.png" alt="システム構築">
                         <h3>Kontruksi Sistem</h3>
                         <p>Mengembangkan sistem CMS, sistem web dan sistem bisnis yang dibangun dan dioperasikan dengan berbagai sistem melalui kerja sama yang baik dari situs web. Kami ahli dalam mengembangkan situs web melalui kerangka kerja PHP.</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-6 col-lg-4">
+                <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="apps-part flow-part">
                         <img src="assets/img/img-webdev/feature/application.png" alt="モバイルアプリ対応">
                         <h3>PWA sebagai Aplikasi Seluler</h3>
