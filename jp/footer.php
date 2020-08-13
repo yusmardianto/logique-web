@@ -157,6 +157,7 @@ footer {
                                     <li><a href="/jp/services/penetration-test.php" target="_blank"> Webセキュリティ診断サービス</a></li>
                                     <li><a href="/jp/services/system-dev.php" target="_blank">Webシステム開発</a></li>
                                     <li><a href="/jp/services/digital-marketing.php" target="_blank">デジタルマーケティング活用支援 </a></li>
+                                    <li><a href="/jp/services/digital-marketing/seo-service.php"  target="_blank">SEO対策</a></li>
                                 </ul>
                             </li>
                         </ul>
