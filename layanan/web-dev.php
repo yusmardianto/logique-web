@@ -200,8 +200,8 @@ if(isset($_POST['submitted']))
                         <div class="col-md-12 m-t-2em main-section">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-md-5 col-sm-5"></div>
-                                    <div class="col-md-7 col-sm-7">
+                                    <div class="col-md-5 col-sm-5 col-lg-6"></div>
+                                    <div class="col-md-7 col-sm-7 col-lg-6">
                                         <h1 class="title">
                                             <span>Jasa Pembuatan Website LOGIQUE</span>
                                         </h1>
