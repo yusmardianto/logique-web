@@ -284,8 +284,9 @@
     background: #feca38;
     padding: 20px 37px 20px 20px;
     height: 300px;
-    margin-top: 78px;
-    margin-right: 60px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
   }
   .card2 {
     background: #feca38;
@@ -1393,17 +1394,17 @@
     background: rgb(251, 201, 53);
     border-radius: 4px;
     color: rgb(0, 0, 0);
-    font-size: 24px;
+    font-size: 21px;
     font-family: "Raleway Medium", sans-serif;
     font-weight: 600;
     text-align: left;
-    padding: 13px 20px;
+    padding: 15px 20px;
     letter-spacing: 0px;
     width: 488px;
 }
 .flow .flow-button img {
     float: right;
-    margin-top: 10px;
+    margin-top: 7px;
 }
 .discuss {
     padding-top: 5px;
@@ -1578,6 +1579,7 @@
 }
 .strategic .strategic-exp {
     margin-top: 40px;
+    display: none;
 }
 .strategic .strategic-exp p {
     color: rgb(0, 0, 0);
@@ -1710,7 +1712,7 @@
     padding-bottom: 30px;
 }
 .tahap-pemesanan-2 .card2 .title-custom-p {
-    font-size: 20px;
+    font-size: 18px;
 }
 .domore {
     padding-bottom: 50px;
@@ -1729,7 +1731,7 @@
 }
 .domore .content-container .title {
     color: rgb(0, 0, 0);
-    font-size: 24px;
+    font-size: 18px;
     font-family:"M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 1.33px;
@@ -1773,6 +1775,10 @@
     background: none;
     padding: 0;
     margin-bottom: 30px;
+    display: none;
+}
+.gallery .gallery-container {
+    display: none;
 }
 .gallery .gallery-container .gallery-title {
     color: rgb(0, 0, 0);
@@ -1798,7 +1804,7 @@
     height: auto;
 }
 .gallery .ads-container {
-    margin-top: 84px;
+    margin-top: 0;
 }
 .gallery .ads-container img {
     width: 100%;
