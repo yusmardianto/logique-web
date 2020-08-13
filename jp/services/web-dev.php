@@ -200,8 +200,8 @@ if(isset($_POST['submitted']))
                         <div class="col-md-12 m-t-2em main-section">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-md-6"></div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 col-sm-5"></div>
+                                    <div class="col-md-6 col-sm-7">
                                         <h1 class="title">
                                             <span><span>LOGIQUEのWeb / </span></span>
                                             ホームページ制作サービス
@@ -461,17 +461,17 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                 </div>
             </div>
             <div class="row portofolio-section">
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-4 col-sm-4">
                     <img src="assets/img/img-webdev/AIA.png" alt="">
                     <p class="portofolio-title">AIA</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
                 </div>
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-4 col-sm-4">
                     <img src="assets/img/img-webdev/panin.png" alt="">
                     <p class="portofolio-title">Panin Life Dai - Ichi</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
                 </div>
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-4 col-sm-4">
                     <img src="assets/img/img-webdev/JBA.png" alt="">
                     <p class="portofolio-title">JBA</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
