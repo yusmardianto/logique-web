@@ -304,7 +304,7 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="skema-content">
-                            <h3><span class="number">2.</span> Schema Based Resource</h3>
+                            <h3><span class="number">2.</span> Resource Based Scheme</h3>
 
                             <p>This type can be selected if you want to run the system development process immediately but the work space, concept, or other requirements are still not defined. You can start by hiring a Business Analyst followed by a Designer and Developer during the web-based system development process.</p>
                             </div>
