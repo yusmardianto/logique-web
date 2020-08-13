@@ -1475,6 +1475,7 @@
     border: 1px solid rgb(255, 157, 0);
     border-radius: 0px;
     padding: 20px;
+    min-height: 350px;
 }
 .division .division-container .title {
     color: rgb(0, 0, 0);
