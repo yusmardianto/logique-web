@@ -41,24 +41,20 @@
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="LOGIQUE menyediakan layanan jasa pembuatan sistem web dengan teknologi terkini, perencanaan infrastruktur, sistem keamanan, dan kecepatan. Dalam pembuatan dan pengembangan sistem web ini, kami terus meningkatkan dan mengembangkan hasil yang didapat. Segera hubungi LOGIQUE.">
+         content="As one of the top leading web developers in Indonesia, LOGIQUE has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed. Learn more about our web system development service here.">
      <meta name="keywords"
-         content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
+         content="web systems, web developer, web design, mobile app, mobile applications, web development, web services, web development services, web security, logique digital Indonesia">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
-     <meta property="og:title" content="Jasa Pembuatan Sistem Web | Pengembangan Sistem Web | LOGIQUE">
+     <meta property="og:title" content="Web System Development Service | LOGIQUE Digital Indonesia">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
-     <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-sistem-web.php">
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description"
-         content="LOGIQUE menyediakan layanan jasa pembuatan sistem web dengan teknologi terkini, perencanaan infrastruktur, sistem keamanan, dan kecepatan. Dalam pembuatan dan pengembangan sistem web ini, kami terus meningkatkan dan mengembangkan hasil yang didapat. Segera hubungi LOGIQUE.">
-     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+         content="As one of the top leading web developers in Indonesia, LOGIQUE has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed. Learn more about our web system development service here.">
 
-     
-   <!--  <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script> -->
-    <title>Jasa Pembuatan Sistem Web | Pengembangan Sistem Web | LOGIQUE</title>
- 
+     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+     <title>Web System Development Service | LOGIQUE Digital Indonesia</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/slick.css" rel="stylesheet">
      <link href="/css/style.css" rel="stylesheet">
@@ -188,7 +184,7 @@
                         <p>Consult your business needs with <span class="logofont">LOGIQUE</span>  now! </p>
 
                      </h3>
-                     <a href="/en/contact.php" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
+                     <a href="/en/contact.php" class="btn-yellow">Contact Us <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
                  </div>
              </div>
          </div>
@@ -244,7 +240,7 @@
                                 <p>In the process of developing a website, we use flexible and fast agile development methods. Our development team can adapt to changes so that the system being developed remains high quality and in accordance with dynamic needs.</p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="pembuatan-sistem-web/img/newlayout/laptop.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/laptop.jpg">
                             </div>
                          </div>
                       </div>
@@ -257,7 +253,7 @@
 
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="pembuatan-sistem-web/img/newlayout/laptop-secure.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
                             </div>
                          </div>
                       </div>
@@ -267,7 +263,7 @@
                                 <p>We are experienced in providing web-based system development services for many large-scale international and local clients especially in the automotive, auction, and e-commerce industries. But overall we have also helped various other industries such as insurance, finance, tourism, manufacturing, and digital startups both in making web-based systems or other services such as mobile application development or digital marketing. With this experience, we quickly understand the client's business needs and provide the best solution for you.</p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="pembuatan-sistem-web/img/newlayout/laptop-experienced.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/laptop-experienced.jpg">
                             </div>
                          </div>
                       </div>
@@ -277,7 +273,7 @@
                                 <p>We can help you build and design cloud-based server architectures both in Indonesia and abroad. We are an official partner of AWS and have experience in setting up and implementing cloud servers for AWS, GCP, and Alibaba. Especially in recent times, we have also succeeded in helping to perform many system and database migrations from on-premise servers to cloud servers.</p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="pembuatan-sistem-web/img/newlayout/laptop-infra.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/laptop-infra.jpg">
                             </div>
                          </div>
                       </div>
@@ -296,14 +292,14 @@
                         </div> 
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="pembuatan-sistem-web/img/newlayout/skemaproyek.png">
+                                <img src="assets/img/img-systemdev/newlayout/skemaproyek.png">
                             </div>
                         </div>
                     </div>
                     <div class="row rowflex">
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="pembuatan-sistem-web/img/newlayout/skemaresources.png">
+                                <img src="assets/img/img-systemdev/newlayout/skemaresources.png">
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -323,14 +319,14 @@
                         </div> 
                         <div class="col-sm-6">
                              <div class="skema-img">
-                                <img src="pembuatan-sistem-web/img/newlayout/skemapengembangan.png">
+                                <img src="assets/img/img-systemdev/newlayout/skemapengembangan.png">
                             </div>
                         </div>
                     </div>
                     <div class="row rowflex">
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="pembuatan-sistem-web/img/newlayout/skemaoutsource.png">
+                                <img src="assets/img/img-systemdev/newlayout/skemaoutsource.png">
                             </div>
                         </div> 
                         <div class="col-sm-6">
@@ -402,7 +398,7 @@
                             <div class="unsupport1 unsupport-content">
                                 <h3><div>Implementation of Software Packages</div></h3>
                                 <div class="unsupport-icon  text-center">
-                                     <img src="pembuatan-sistem-web/img/newlayout/unsupport-1.svg">
+                                     <img src="assets/img/img-systemdev/newlayout/unsupport-1.svg">
                                 </div>
                                 <div  class="unsupport-info">
                                     We prioritize the development of web-based systems from the optimal start in accordance with your business goals and needs. By using our services which are based on the open source framework, you will get a web-based system in no time without having to use expensive software packages such as SAP, Microsoft Dynamics, and SalesForce.
@@ -413,7 +409,7 @@
                             <div class="unsupport2 unsupport-content">
                                 <h3>Only develop a specific part of a large-scale project</h3>
                                 <div class="unsupport-icon text-center">
-                                     <img src="pembuatan-sistem-web/img/newlayout/unsupport-2.svg">
+                                     <img src="assets/img/img-systemdev/newlayout/unsupport-2.svg">
                                 </div>
                                 <div class="unsupport-info">
                                     We have capabilities in project management, system maintenance and repair. Therefore, it is difficult for us to focus only on developing certain parts of a project. In large-scale projects, usually the location for system development has also been determined so that it is contrary to our way of working which prioritizes time and place efficiency.
@@ -504,7 +500,7 @@
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel1">Points Management & E-Commerce System Development.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -522,7 +518,7 @@
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem1.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem1.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Points Management & <br>E-Commerce System Development.</h3>
                                         <p>6 months, AWS, Linux, MySQL, PHP Framework</p>
@@ -537,7 +533,7 @@
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel2">E-Commerce Development for MLM Companies.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -552,7 +548,7 @@
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem2.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem2.svg"></div>
                                     <div class="scitem-content">
                                         <h3>E-Commerce Development for MLM Companies.</h3>
                                         <p>6 months, AWS, Linux, MySQL, PHP Framework</p>
@@ -567,7 +563,7 @@
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel3">Vehicle Auction Management Development System.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -583,7 +579,7 @@
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Vehicle Auction Management Development System.</h3>
                                         <p>6 months, AWS, Linux, MySQL, PHP Framework, Node.js</p>
@@ -598,7 +594,7 @@
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel4">Mobile Application Development (Bid Auction / Bidding on Android).</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -612,7 +608,7 @@
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem4.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem4.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Mobile Application Development (Bid Auction / Bidding on Android).</h3>
                                         <p>2 months, Android, node.js, JAVA, AWS</p>
@@ -629,7 +625,7 @@
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel5">Mobile Application (Vehicle Inspection / Assessment System).</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -645,7 +641,7 @@
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem5.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem5.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Mobile Application (Vehicle Inspection / Assessment System).</h3>
                                         <p>4 months, Android, node.js, JAVA, AWS</p>
@@ -660,7 +656,7 @@
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel6">CRM System for Motorized Vehicle Road Services.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -676,7 +672,7 @@
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem2.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem2.svg"></div>
                                     <div class="scitem-content">
                                         <h3>CRM System for Motorized Vehicle Road Services.</h3>
                                         <p>3 months, PHP Framework, Payment Gateway, AWS</p>
@@ -691,7 +687,7 @@
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">CRM System for Auction Buyers.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -707,7 +703,7 @@
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>CRM System for Auction Buyers.</h3>
                                         <p>2 months, PHP Framework, MySQL, AWS</p>
@@ -722,7 +718,7 @@
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Cloud Based Component / Layout Management for Magazine Publishers.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -738,7 +734,7 @@
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Cloud Based Component / Layout Management for Magazine Publishers.</h3>
                                         <p>2.5 months, JQuery, HTML5, PHP Framework, MySQL</p>
@@ -753,7 +749,7 @@
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Development and Operation of Used Car Market Sites.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -771,7 +767,7 @@
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Development and Operation of Used Car Market Sites.</h3>
                                         <p>2.5 months, JQuery, HTML5, PHP Framework, MySQL</p>
@@ -787,7 +783,7 @@
                                         <h4 class="modal-title text-center" id="achievementLabel7">Digital Map System Development.
 </h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -801,7 +797,7 @@
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Digital Map System Development.
 </h3>
@@ -819,7 +815,7 @@
                                         <h4 class="modal-title text-center" id="achievementLabel7">Development of C2C Auction Systems.
 </h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -833,7 +829,7 @@
                                   </div>
                                 </div>  
                                 <div class="success-item scitem1 ">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Development of C2C Auction Systems.</h3>
                                         <p>2 months, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 </p>
@@ -848,7 +844,7 @@
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Development of CMS Web Systems for Public Organizations.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -862,7 +858,7 @@
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Development of CMS Web Systems for Public Organizations.</h3>
                                         <p>2 months, PHP Framework, MySQL</p>
@@ -877,7 +873,7 @@
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">CMS web development for e-book commerce.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -891,7 +887,7 @@
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>CMS web development for e-book commerce.</h3>
                                         <p>2 months, PHP Framework, HTML5/CSS3,MySQL</p>
@@ -907,7 +903,7 @@
                                         <h4 class="modal-title text-center" id="achievementLabel7">Job Vacancy Portal System.
 </h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -921,7 +917,7 @@
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Job Vacancy Portal System.</h3>
                                         <p>2 months, PHP Framework, MySQL</p>
@@ -936,7 +932,7 @@
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Web With Recruitment System.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -950,7 +946,7 @@
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Web With Recruitment System.</h3>
                                         <p>3 months, PHP Framework, HTML5/CSS3,MySQL</p>
@@ -965,7 +961,7 @@
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Vehicle Management System for car rental companies.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -979,7 +975,7 @@
                                   </div> -->
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Vehicle Management System for car rental companies.</h3>
                                         <p>6 Months, AWS, Linux, MySQL, SAP Connection, PHP Framework</p>
@@ -992,7 +988,7 @@
                                 <a href="javascript:void(0)" class="">
                                 <div class="success-item sc-seeall text-center"> 
                                     <div class="center-btn" style=""> 
-                                        <span class="other-success-item">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward-yellow.svg"> </span><br>
+                                        <span class="other-success-item">  <img src="assets/img/img-systemdev/newlayout/arrow-forward-yellow.svg"> </span><br>
                                         <span class="btntext">See More</span>
                                     </div>    
                                 </div>
@@ -1002,7 +998,7 @@
                                 <a href="javascript:void(0)" class="">
                                 <div class="success-item sc-seeall text-center"> 
                                     <div class="center-btn" style=""> 
-                                        <span class="other-success-item">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward-yellow.svg"> </span><br>
+                                        <span class="other-success-item">  <img src="assets/img/img-systemdev/newlayout/arrow-forward-yellow.svg"> </span><br>
                                         <span class="btntext">See Less</span>
                                     </div>    
                                 </div>
@@ -1024,7 +1020,7 @@
                         <div class="client-container">
                             <!-- <ul class="clientinfo">
                                 <li class="client-photo">
-                                    <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
+                                    <img src="assets/img/img-systemdev/newlayout/sample-clinetphoto.png">
                                 </li>
                                 <li class="client-desc">
                                     <span class="client-name">Axel, 27</span>
@@ -1034,14 +1030,14 @@
                             <div class="client-testimoni">
                                 As head of the IT department, I have been involved in various systems development projects. But so far I have never found a flexible and dynamic development company like <span class="logofont">LOGIQUE</span> that is able to adapt to the changing needs of users without neglecting the quality provided. I have also asked <span class="logofont">LOGIQUE</span> for maintenance services, and I am very grateful for the information updates that are carried out regularly and on time. 
                             </div>
-                            <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
+                            <a href="#" class="more-icon">  <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"> </a>
                         </div>
                     </div>
                     <div class="testislider-item">
                          <div class="client-container">
                            <!--  <ul class="clientinfo">
                                 <li class="client-photo">
-                                    <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
+                                    <img src="assets/img/img-systemdev/newlayout/sample-clinetphoto.png">
                                 </li>
                                 <li class="client-desc">
                                     <span class="client-name">Axel, 27</span>
@@ -1052,14 +1048,14 @@
                                 Due to the many problems that occurred, I decided to cancel the contract with the previous development company and chose <span class="logofont">LOGIQUE</span> to do further development and manage our system. I am very happy that <span class="logofont">LOGIQUE</span> has succeeded in continuing the development of the web-based system flexibly and effectively even without adequate documentation and information. We only show some problems that we don't really understand, but <span class="logofont">LOGIQUE</span> can actually understand the problems that occur and provide the best solutions for the development of our system.
 
                             </div>
-                            <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
+                            <a href="#" class="more-icon">  <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"> </a>
                         </div>
                     </div>
                     <div class="testislider-item">
                          <div class="client-container">
                            <!--  <ul class="clientinfo">
                                 <li class="client-photo">
-                                    <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
+                                    <img src="assets/img/img-systemdev/newlayout/sample-clinetphoto.png">
                                 </li>
                                 <li class="client-desc">
                                     <span class="client-name">Axel, 27</span>
@@ -1070,7 +1066,7 @@
                                 We develop a web-based system with a fixed monthly rate which allows the process to be carried out only on certain days. I am very happy with this type of development because the system works well but is still cost effective. For the next project, maybe we will ask for development with dynamic resource-based schema.
 
                             </div>
-                            <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
+                            <a href="#" class="more-icon">  <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"> </a>
                         </div>
                     </div>
                 </div>
@@ -1088,7 +1084,7 @@
                             <div class="importantpoint-item text-center">
                                 <h3>Experience</h3>
                                 <div class="icon-container">
-                                    <img src="pembuatan-sistem-web/img/newlayout/icon-point1.svg">
+                                    <img src="assets/img/img-systemdev/newlayout/icon-point1.svg">
                                 </div>
                                 <div class="point-desc">
                                     <span class="logofont">LOGIQUE</span> has a lot of experience in web-based system development. We will utilize this experience for every development process, from analyzing client needs, formulating solutions, designing systems and infrastructure, developing system functionality, deploying, to training for users.
@@ -1100,7 +1096,7 @@
                             <div class="importantpoint-item text-center">
                                 <h3>Speed ​​/ Flexibility</h3>
                                 <div class="icon-container">
-                                    <img src="pembuatan-sistem-web/img/newlayout/icon-point2.svg">
+                                    <img src="assets/img/img-systemdev/newlayout/icon-point2.svg">
                                 </div>
                                 <div class="point-desc">
                                     Business competition is moving faster every day. If web-based system development takes more than 6 months, it will be difficult for you to keep up with ongoing business developments. At <span class="logofont">LOGIQUE</span>, speed is the most important thing. With the agile development method, we can respond quickly and flexibly to any changes.
@@ -1112,7 +1108,7 @@
                             <div class="importantpoint-item text-center">
                                 <h3>Quality / Safety</h3>
                                 <div class="icon-container">
-                                    <img src="pembuatan-sistem-web/img/newlayout/icon-point3.svg">
+                                    <img src="assets/img/img-systemdev/newlayout/icon-point3.svg">
                                 </div>
                                 <div class="point-desc">
                                    Quality must still come first. By developing according to international standards both in terms of quality and proven safety, we will always minimize errors and optimize system maintenance.
@@ -1131,7 +1127,7 @@
                 <ul>
                     <li class="text-left">Contact us now for optimal web based system development!<li>
                     <li>
-                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
+                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
                     </li>
                 </ul>
             </div>
@@ -1148,15 +1144,15 @@
                         <div class="col-sm-6">
                             <ul class="techlist text-center">
                                 <li>
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/laravel.png"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/laravel.png"></div>
                                     Laravel
                                 </li>
                                 <li>
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/symphony.png"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/symphony.png"></div>
                                     Symphony
                                 </li>
                                 <li>
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/cakephp.png"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/cakephp.png"></div>
                                     CakePHP
                                 </li>
                             </ul>
@@ -1175,19 +1171,19 @@
                         <ul class="w3tech-info">
                             <li>
                                According to the <br>
-                               <img src="pembuatan-sistem-web/img/newlayout/w3tech.png" alt="w3tech">
+                               <img src="assets/img/img-systemdev/newlayout/w3tech.png" alt="w3tech">
                             </li>
                             <li>
-                                <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg" alt=">">
+                                <img src="assets/img/img-systemdev/newlayout/arrow-right.svg" alt=">">
                             </li>
                             <li>
-                                <img src="pembuatan-sistem-web/img/newlayout/percentage.png" alt="83.5%"><br>
+                                <img src="assets/img/img-systemdev/newlayout/percentage.png" alt="83.5%"><br>
                                  of websites in the world
                             </li>
                         </ul>
                         are built using the PHP programming language
                         <div class="img-contianer">
-                            <img src="pembuatan-sistem-web/img/newlayout/phplogo.png">
+                            <img src="assets/img/img-systemdev/newlayout/phplogo.png">
                         </div>
                     </div>
 
@@ -1201,7 +1197,7 @@
                 <div class="page-content text-center"> 
                     Although some people think that PHP is old, this programming language <b>is still the main choice</b> for developing web-based systems because of its compatibility with many websites and operational availability. 
                     <div class="img-container">
-                        <img src="pembuatan-sistem-web/img/newlayout/web-img.svg">
+                        <img src="assets/img/img-systemdev/newlayout/web-img.svg">
                     </div>
                     <p> In addition, currently many CMS such as WordPress also run using the PHP programming language.</p>
                     <div class="jsfw-container">
@@ -1209,7 +1205,7 @@
                             <div class="js-desc-continer">
                             <div class="row">
                                 <div class=" col-md-3  col-sm-4 text-center">
-                                    <img src="pembuatan-sistem-web/img/newlayout/logo-js.png"><br> 
+                                    <img src="assets/img/img-systemdev/newlayout/logo-js.png"><br> 
                                     JavaScript
                                 </div>
                                 <div class="col-md-9  col-sm-8 text-left js-desc">
@@ -1223,9 +1219,9 @@
                            This programming language is needed to increase the usability of a website. Besides being proficient in web development using PHP and JavaScript, <span class="logofont">LOGIQUE</span> is also very good at developing PWAs using JavaScript frameworks such as React, Angular, and Vue.js.
                         </p>
                         <ul class="jsframework framework-list">
-                            <li><img src="pembuatan-sistem-web/img/newlayout/logo-react.png"> <br> React</li>
-                            <li><img src="pembuatan-sistem-web/img/newlayout/logo-angular.png"> <br> Angular</li>
-                            <li><img src="pembuatan-sistem-web/img/newlayout/logo-vue.png"> <br> Vue.js</li>
+                            <li><img src="assets/img/img-systemdev/newlayout/logo-react.png"> <br> React</li>
+                            <li><img src="assets/img/img-systemdev/newlayout/logo-angular.png"> <br> Angular</li>
+                            <li><img src="assets/img/img-systemdev/newlayout/logo-vue.png"> <br> Vue.js</li>
                         </ul>
                         <p>
                              <span class="logofont">LOGIQUE</span> also has the ability to build large-scale systems by combining Node.js and Express.js.
@@ -1245,7 +1241,7 @@
                 <ul>
                     <li class="text-left">Hubungi kami sekarang untuk <br>pengembangan sistem yang optimal!<li>
                     <li>
-                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
+                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
                     </li>
                 </ul>
             </div>
@@ -1259,9 +1255,9 @@
                         <div class="col-sm-4">
                             <div class="otherinfo-item  ">
                                 <a href="/logique.php">
-                                <img src="pembuatan-sistem-web/img/newlayout/img-about.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/img-about.jpg">
                                 <div class="otherinfo-desc">
-                                    <h3>About  <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></h3>
+                                    <h3>About  <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></h3>
                                     <p><span class="logofont">LOGIQUE Digital Indonesia</span> adalah konsultan IT dan perusahaan pengembang sistem terkemuka Jakarta. </p>
                                 </div>
                                 </a>
@@ -1270,9 +1266,9 @@
                         <div class="col-sm-4">
                              <div class="otherinfo-item  ">
                                 <a href="/portofolio.php">
-                                <img src="pembuatan-sistem-web/img/newlayout/img-ourwork.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/img-ourwork.jpg">
                                 <div class="otherinfo-desc">
-                                    <h3>Our Work  <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></h3>
+                                    <h3>Our Work  <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></h3>
                                     <p><span class="logofont">LOGIQUE</span> telah mengembangkan banyak Website, Aplikasi Berbasis Web dan Mobile App, serta memberikan  </p>
                                 </div>
                                 </a>
@@ -1281,9 +1277,9 @@
                         <div class="col-sm-4">
                              <div class="otherinfo-item  ">
                                 <a href="#">
-                                <img src="pembuatan-sistem-web/img/newlayout/img-faq.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/img-faq.jpg">
                                 <div class="otherinfo-desc">
-                                    <h3>FAQ  <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></h3>
+                                    <h3>FAQ  <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></h3>
                                     <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes. </p>
                                 </div>
                                 </a>
@@ -1298,7 +1294,7 @@
                     <div class="row col10">
                         <div class="col-sm-3">
                             <a href="/layanan/web-dev.php">
-                                <img src="pembuatan-sistem-web/img/newlayout/img-febe.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/img-febe.jpg">
                                 <h3 class="text-center">Pengembangan / Pembaharuan Website</h3>
                                 <p>
                                     Work remotely in the Cloud - anytime and on any device - without the hassle 
@@ -1307,7 +1303,7 @@
                         </div>
                         <div class="col-sm-3">
                              <a href="/layanan.php#dm_">
-                               <img src="pembuatan-sistem-web/img/newlayout/img-webdis.jpg">
+                               <img src="assets/img/img-systemdev/newlayout/img-webdis.jpg">
                                 <h3 class="text-center">Digital Marketing</h3>
                                 <p>
                                     Kami akan melakukan pemasaan website anda melalui berbagai platform marketing
@@ -1316,7 +1312,7 @@
                         </div>
                         <div class="col-sm-3">
                             <a href="/layanan.php#otherService_itConsultant">
-                                <img src="pembuatan-sistem-web/img/newlayout/img-consultant.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/img-consultant.jpg">
                                 <h3 class="text-center">Consultant</h3>
                                 <p>
                                    Kami dapat menyediakan berbagai layanan konsultasi melalui "Indonesia x IT" 
@@ -1325,7 +1321,7 @@
                         </div>
                         <div class="col-sm-3">
                             <a href="/layanan/pembuatan-aplikasi-mobile.php">
-                                <img src="pembuatan-sistem-web/img/newlayout/img-mobileapp.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/img-mobileapp.jpg">
                                 <h3 class="text-center">Mobile Apps</h3>
                                 <p>
                                     Kami menyediakan jasa pengembangan aplikasi Android/iOS secara komprehensif
@@ -1391,8 +1387,8 @@
       slidesToScroll: 1,
       asNavFor: '.slidertext-studycase',
       dots: true, 
-      nextArrow :'<button type="button" class="slick-next"><img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></button>' ,
-      prevArrow : '<button type="button" class="slick-prev"><img src="pembuatan-sistem-web/img/newlayout/arrow-left.svg"></button>'
+      nextArrow :'<button type="button" class="slick-next"><img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></button>' ,
+      prevArrow : '<button type="button" class="slick-prev"><img src="assets/img/img-systemdev/newlayout/arrow-left.svg"></button>'
     });
 
     $('.testimonial-slider').slick({
@@ -1405,8 +1401,8 @@
           variableWidth: true, 
           autoplay: true,
           autoplaySpeed: 2000,
-          nextArrow :'<button type="button" class="slick-next"><img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></button>' ,
-         prevArrow : '<button type="button" class="slick-prev"><img src="pembuatan-sistem-web/img/newlayout/arrow-left.svg"></button>',
+          nextArrow :'<button type="button" class="slick-next"><img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></button>' ,
+         prevArrow : '<button type="button" class="slick-prev"><img src="assets/img/img-systemdev/newlayout/arrow-left.svg"></button>',
           responsive: [
         {
           breakpoint: 1024,

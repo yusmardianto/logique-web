@@ -183,7 +183,7 @@
 Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekarang juga! </p>
 
                      </h3>
-                     <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
+                     <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
                  </div>
              </div>
          </div>
@@ -238,7 +238,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 <p>Dalam proses pengembangan website, kami menggunakan metode agile developement yang fleksibel dan cepat. Tim developer kami dapat beradaptasi terhadap perubahan agar sistem yang dikembangkan tetap berkualitas serta sesuai dengan kebutuhan yang dinamis.</p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="pembuatan-sistem-web/img/newlayout/laptop.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/laptop.jpg">
                             </div>
                          </div>
                       </div>
@@ -250,7 +250,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
 
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="pembuatan-sistem-web/img/newlayout/laptop-secure.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
                             </div>
                          </div>
                       </div>
@@ -260,7 +260,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 <p>Kami berpengalaman dalam memberikan jasa pembuatan sistem berbasis web untuk banyak klien internasional dan lokal berskala besar khususnya dalam industri otomotif, lelang, dan e-commerce. Namun secara menyeluruh kami juga telah membantu berbagai industri lainnya seperti asuransi, finansial, pariwisata, manufaktur, dan startup-startup digital baik dalam pembuatan sistem berbasis web ataupun layanan lainnnya seperti pengembangan aplikasi mobile atau pemasaran digital. Dengan pengalaman tersebut, kami dengan cepat memahami kebutuhan bisnis klien dan memberikan solusi terbaik untuk Anda. </p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="pembuatan-sistem-web/img/newlayout/laptop-experienced.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/laptop-experienced.jpg">
                             </div>
                          </div>
                       </div>
@@ -270,7 +270,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 <p>Kami dapat membantu Anda membangun dan merancang arsitektur server berbasis cloud baik di Indonesia maupun di luar negeri. Kami merupakan partner resmi dari AWS dan berpengalaman dalam melakukan setup dan implentasi server cloud untuk AWS, GCP, serta Alibaba. Khususnya dalam beberapa waktu belakangan ini, kami juga telah berhasil membantu melakukan banyak migrasi sistem dan database dari server lokal (on-premise) ke server cloud.</p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="pembuatan-sistem-web/img/newlayout/laptop-infra.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/laptop-infra.jpg">
                             </div>
                          </div>
                       </div>
@@ -289,14 +289,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         </div> 
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="pembuatan-sistem-web/img/newlayout/skemaproyek.png">
+                                <img src="assets/img/img-systemdev/newlayout/skemaproyek.png">
                             </div>
                         </div>
                     </div>
                     <div class="row rowflex">
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="pembuatan-sistem-web/img/newlayout/skemaresources.png">
+                                <img src="assets/img/img-systemdev/newlayout/skemaresources.png">
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -315,14 +315,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         </div> 
                         <div class="col-sm-6">
                              <div class="skema-img">
-                                <img src="pembuatan-sistem-web/img/newlayout/skemapengembangan.png">
+                                <img src="assets/img/img-systemdev/newlayout/skemapengembangan.png">
                             </div>
                         </div>
                     </div>
                     <div class="row rowflex">
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="pembuatan-sistem-web/img/newlayout/skemaoutsource.png">
+                                <img src="assets/img/img-systemdev/newlayout/skemaoutsource.png">
                             </div>
                         </div> 
                         <div class="col-sm-6">
@@ -395,7 +395,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="unsupport1 unsupport-content">
                                 <h3><div>Implementasi Paket Software</div></h3>
                                 <div class="unsupport-icon  text-center">
-                                     <img src="pembuatan-sistem-web/img/newlayout/unsupport-1.svg">
+                                     <img src="assets/img/img-systemdev/newlayout/unsupport-1.svg">
                                 </div>
                                 <div  class="unsupport-info">
                                     Kami mengutamakan pengembangan sistem berbasis web dari awal yang optimal sesuai dengan tujuan dan kebutuhan bisnis Anda. Dengan menggunakan layanan kami yang berbasis open source framework, Anda akan mendapatkan sistem berbasis web dalam waktu yang singkat tanpa harus menggunakan paket software yang mahal seperti SAP, Microsoft Dynamics, dan SalesForce.
@@ -406,7 +406,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="unsupport2 unsupport-content">
                                 <h3>Hanya mengembangkan bagian spesifik dari proyek berskala besar</h3>
                                 <div class="unsupport-icon text-center">
-                                     <img src="pembuatan-sistem-web/img/newlayout/unsupport-2.svg">
+                                     <img src="assets/img/img-systemdev/newlayout/unsupport-2.svg">
                                 </div>
                                 <div class="unsupport-info">
                                     Kami memiliki kemampuan dalam manajemen proyek, pemeliharaan, dan perbaikan sistem. Oleh karenanya, sulit bagi kami jika hanya harus fokus untuk mengembangkan bagian tertentu dalam suatu proyek. Pada proyek berskala besar, biasanya lokasi untuk pengembangan sistem juga sudah ditentukan sehingga bertentangan dengan cara kerja kami yang mengutamakan efisiensi waktu dan tempat.
@@ -495,7 +495,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel1">Manajemen Poin Bermanfaat & Pengembangan <br>Sistem E-Commerce.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -511,7 +511,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem1.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem1.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Manajemen Poin & Pengembangan Sistem <br>E-Commerce.</h3>
                                         <p>6 bulan, AWS, Linux, MySQL, PHP Framework</p>
@@ -526,7 +526,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel2">Pengembangan <br>E-Commerce untuk Perusahaan MLM.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -540,7 +540,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem2.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem2.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan <br>E-Commerce untuk Perusahaan MLM.</h3>
                                         <p>6 bulan, AWS, Linux, MySQL, PHP Framework</p>
@@ -555,7 +555,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel3">Sistem Pengembangan Manajemen <br>Lelang Kendaraan.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -570,7 +570,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Sistem Pengembangan Manajemen Lelang Kendaraan.</h3>
                                         <p>6 bulan, AWS, Linux, MySQL, PHP Framework, Node.js</p>
@@ -585,7 +585,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel4">Pengembangan Aplikasi <br>(Penawaran Lelang / Bidding di Android).</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -599,7 +599,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem4.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem4.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan Aplikasi  (Penawaran Lelang / Bidding di Android).</h3>
                                         <p>4 bulan, Android, node.js, JAVA, AWS</p>
@@ -616,7 +616,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel5">Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -632,7 +632,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem5.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem5.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</h3>
                                         <p>4 bulan, Android, node.js, JAVA, AWS</p>
@@ -647,7 +647,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel6">Sistem CRM untuk Jasa Jalan Kendaraan Bermotor.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -662,7 +662,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem2.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem2.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Sistem CRM untuk Jasa Jalan Kendaraan Bermotor.</h3>
                                         <p>3 bulan, PHP Framework, Payment Gateway, AWS</p>
@@ -677,7 +677,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Sistem CRM untuk Pembeli Lelang.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -691,7 +691,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Sistem CRM untuk Pembeli Lelang.</h3>
                                         <p>2 bulan, PHP Framework, MySQL, AWS</p>
@@ -706,7 +706,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -720,7 +720,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah</h3>
                                         <p>2.5 bulan, JQuery, HTML5, PHP Framework, MySQL</p>
@@ -735,7 +735,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -750,7 +750,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</h3>
                                         <p>2.5 bulan, JQuery, HTML5, PHP Framework, MySQL</p>
@@ -765,7 +765,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan Sistem Peta Digital.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -779,7 +779,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan Sistem Peta Digital.</h3>
                                         <p>3 bulan, PHP Framework, MySQL, Google map API, Java Script</p>
@@ -795,7 +795,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan Sistem Lelang C2C.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -809,7 +809,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>  
                                 <div class="success-item scitem1 ">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan Sistem Lelang C2C.</h3>
                                         <p>2 bulan, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 </p>
@@ -824,7 +824,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan Sistem Web CMS Untuk Organisasi Publik.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -838,7 +838,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan Sistem Web CMS Untuk Organisasi Publik.</h3>
                                         <p>2 bulan, PHP Framework, MySQL</p>
@@ -853,7 +853,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan web CMS untuk e-book commerce.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -867,7 +867,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan web CMS untuk e-book commerce.</h3>
                                         <p>2 bulan, PHP Framework, HTML5/CSS3,MySQL</p>
@@ -882,7 +882,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Sistem Portal Lowongan Pekerjaan.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -896,7 +896,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Sistem Portal Lowongan Pekerjaan.</h3>
                                         <p>2 bulan, PHP Framework, MySQL</p>
@@ -911,7 +911,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Web Dengan Sistem Rekrutmen</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -925,7 +925,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Web Dengan Sistem Rekrutmen</h3>
                                         <p>3 bulan, PHP Framework, HTML5/CSS3,MySQL</p>
@@ -940,7 +940,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Sistem Management Kendaraan untuk perusahaan sewa mobil.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="pembuatan-sistem-web/img/newlayout/icon-close.svg"> 
+                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -954,7 +954,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div> -->
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Sistem Management Kendaraan untuk perusahaan sewa mobil.</h3>
                                         <p>6 Months, AWS, Linux, MySQL, SAP Connection, PHP Framework</p>
@@ -967,7 +967,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 <a href="javascript:void(0)" class="">
                                 <div class="success-item sc-seeall text-center"> 
                                     <div class="center-btn" style=""> 
-                                        <span class="other-success-item">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward-yellow.svg"> </span><br>
+                                        <span class="other-success-item">  <img src="assets/img/img-systemdev/newlayout/arrow-forward-yellow.svg"> </span><br>
                                         <span class="btntext">Lihat lebih banyak</span>
                                     </div>    
                                 </div>
@@ -977,7 +977,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 <a href="javascript:void(0)" class="">
                                 <div class="success-item sc-seeall text-center"> 
                                     <div class="center-btn" style=""> 
-                                        <span class="other-success-item">  <img src="pembuatan-sistem-web/img/newlayout/arrow-forward-yellow.svg"> </span><br>
+                                        <span class="other-success-item">  <img src="assets/img/img-systemdev/newlayout/arrow-forward-yellow.svg"> </span><br>
                                         <span class="btntext">Lihat lebih sedikit</span>
                                     </div>    
                                 </div>
@@ -999,7 +999,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         <div class="client-container">
                            <!--  <ul class="clientinfo">
                                 <li class="client-photo">
-                                    <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
+                                    <img src="assets/img/img-systemdev/newlayout/sample-clinetphoto.png">
                                 </li>
                                 <li class="client-desc">
                                     <span class="client-name">Axel, 27</span>
@@ -1009,14 +1009,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="client-testimoni">
                                 Sebagai kepala departemen IT, saya telah terlibat dalam berbagai proyek pengembangan sistem. Namun sejauh ini saya belum pernah menemukan perusahaan pengembangan yang fleksibel dan dinamis seperti <span class="logofont">LOGIQUE</span> yang mampu menyesuaikan dengan kebutuhan User yang sering berubah tanpa mengabaikan kualitas yang diberikan. Saya juga pernah meminta layanan maintenance kepada <span class="logofont">LOGIQUE</span>, dan saya sangat berterimakasih atas update informasi yang dilakukan secara rutin dan tepat waktu.   
                             </div>
-                            <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
+                            <a href="#" class="more-icon">  <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"> </a>
                         </div>
                     </div>
                     <div class="testislider-item">
                          <div class="client-container">
                             <!-- <ul class="clientinfo">
                                 <li class="client-photo">
-                                    <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
+                                    <img src="assets/img/img-systemdev/newlayout/sample-clinetphoto.png">
                                 </li>
                                 <li class="client-desc">
                                     <span class="client-name">Axel, 27</span>
@@ -1026,14 +1026,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="client-testimoni">
                                 Karena banyaknya masalah yang terjadi, saya memutuskan untuk membatalkan kontrak dengan perusahaan pengembangan sebelumnya dan memilih <span class="logofont">LOGIQUE</span> untuk melakukan pengembangan lanjutan dan mengelola sistem kami. Saya sangat senang karena <span class="logofont">LOGIQUE</span> berhasil melanjutkan pengembangan sistem berbasis web tersebut dengan fleksibel dan efektif meskipun tanpa dokumentasi dan informasi yang memadai. Pihak kami hanya menunjukkan beberapa masalah yang sebenarnya tidak terlalu kami mengerti, namun <span class="logofont">LOGIQUE</span> justru dapat memahami masalah yang terjadi dan memberikan solusi terbaik untuk pengembangan sistem kami.
                             </div>
-                            <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
+                            <a href="#" class="more-icon">  <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"> </a>
                         </div>
                     </div>
                     <div class="testislider-item">
                          <div class="client-container">
                             <!-- <ul class="clientinfo">
                                 <li class="client-photo">
-                                    <img src="pembuatan-sistem-web/img/newlayout/sample-clinetphoto.png">
+                                    <img src="assets/img/img-systemdev/newlayout/sample-clinetphoto.png">
                                 </li>
                                 <li class="client-desc">
                                     <span class="client-name">Axel, 27</span>
@@ -1043,7 +1043,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="client-testimoni">
                                 Kami melakukan pengembangan sistem berbasis web dengan tarif tetap perbulan yang memungkinkan proses pengerjaan hanya dilakukan pada hari-hari tertentu. Saya sangat senang dengan tipe pengembangan seperti ini karena sistem yang dikerjakan dapat selesai dengan baik namun tetap hemat biaya. Untuk proyek selanjutnya, mungkin kami akan meminta pengembangan dengan skema berbasis resource yang dinamis
                             </div>
-                            <a href="#" class="more-icon">  <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"> </a>
+                            <a href="#" class="more-icon">  <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"> </a>
                         </div>
                     </div>
                 </div>
@@ -1061,7 +1061,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="importantpoint-item text-center">
                                 <h3>Pengalaman</h3>
                                 <div class="icon-container">
-                                    <img src="pembuatan-sistem-web/img/newlayout/icon-point1.svg">
+                                    <img src="assets/img/img-systemdev/newlayout/icon-point1.svg">
                                 </div>
                                 <div class="point-desc">
                                     <span class="logofont">LOGIQUE</span> memiliki banyak pengalaman dalam pengembangan sistem berbasis web. Kami akan memanfaatkan pengalaman tersebut untuk setiap proses pengembangan, mulai dari analisa kebutuhan klien, memformulasikan solusi, membuat rancangan sistem dan infrastruktur, pengembangan fungsionalitas sistem, deployment , sampai ke pelatihan untuk user.
@@ -1072,7 +1072,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="importantpoint-item text-center">
                                 <h3>Kecepatan / fleksibilitas</h3>
                                 <div class="icon-container">
-                                    <img src="pembuatan-sistem-web/img/newlayout/icon-point2.svg">
+                                    <img src="assets/img/img-systemdev/newlayout/icon-point2.svg">
                                 </div>
                                 <div class="point-desc">
                                     Persaingan bisnis bergerak semakin cepat setiap harinya. Jika pengembangan sistem berbasis web membutuhkan waktu lebih dari 6 bulan, maka Anda akan kesulitan untuk mengikuti perkembangan bisnis yang sedang terjadi. Di <span class="logofont">LOGIQUE</span>, kecepatan adalah hal terpenting. Dengan metode agile development, maka kami dapat merespon dengan cepat dan fleksibel terhadap setiap perubahan.
@@ -1083,7 +1083,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="importantpoint-item text-center">
                                 <h3>Kualitas / keamanan</h3>
                                 <div class="icon-container">
-                                    <img src="pembuatan-sistem-web/img/newlayout/icon-point3.svg">
+                                    <img src="assets/img/img-systemdev/newlayout/icon-point3.svg">
                                 </div>
                                 <div class="point-desc">
                                     Kualitas harus tetap diutamakan. Dengan melakukan pengembangan sesuai standar internasional baik dalam hal kualitas dan keamanan yang telah teruji, kami akan selalu meminimalisir kesalahan dan mengoptimalkan pemeliharan sistem.
@@ -1101,7 +1101,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                 <ul>
                     <li class="text-left">Hubungi kami sekarang untuk <br>pengembangan sistem berbasis web yang optimal!<li>
                     <li>
-                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
+                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
                     </li>
                 </ul>
             </div>
@@ -1118,15 +1118,15 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         <div class="col-sm-6">
                             <ul class="techlist text-center">
                                 <li>
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/laravel.png"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/laravel.png"></div>
                                     Laravel
                                 </li>
                                 <li>
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/symphony.png"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/symphony.png"></div>
                                     Symphony
                                 </li>
                                 <li>
-                                    <div class="icon-container"><img src="pembuatan-sistem-web/img/newlayout/cakephp.png"></div>
+                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/cakephp.png"></div>
                                     CakePHP
                                 </li>
                             </ul>
@@ -1145,19 +1145,19 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         <ul class="w3tech-info">
                             <li>
                                Menurut laporan <br>
-                               <img src="pembuatan-sistem-web/img/newlayout/w3tech.png">
+                               <img src="assets/img/img-systemdev/newlayout/w3tech.png">
                             </li>
                             <li>
-                                <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg">
+                                <img src="assets/img/img-systemdev/newlayout/arrow-right.svg">
                             </li>
                             <li>
-                                <img src="pembuatan-sistem-web/img/newlayout/percentage.png"><br>
+                                <img src="assets/img/img-systemdev/newlayout/percentage.png"><br>
                                 website didunia
                             </li>
                         </ul>
                         dibangun menggunakan bahasa pemrograman
                         <div class="img-contianer">
-                            <img src="pembuatan-sistem-web/img/newlayout/phplogo.png">
+                            <img src="assets/img/img-systemdev/newlayout/phplogo.png">
                         </div>
                     </div>
 
@@ -1171,7 +1171,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                 <div class="page-content text-center"> 
                     Meskipun beberapa orang beranggapan bahwa PHP sudah tua, namun bahasa pemrograman ini <b>masih menjadi pilihan utama</b> untuk mengembangkan sistem berbasis web karena kompatibilitasnya dengan banyak website serta ketersediaan operasional.
                     <div class="img-container">
-                        <img src="pembuatan-sistem-web/img/newlayout/web-img.svg">
+                        <img src="assets/img/img-systemdev/newlayout/web-img.svg">
                     </div>
                     <p> Selain itu, saat ini banyak CMS seperti Wordpress juga berjalan menggunakan bahasa pemrograman PHP.</p>
                     <div class="jsfw-container">
@@ -1179,7 +1179,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="js-desc-continer">
                             <div class="row">
                                 <div class=" col-md-3  col-sm-4 text-center">
-                                    <img src="pembuatan-sistem-web/img/newlayout/logo-js.png"><br> 
+                                    <img src="assets/img/img-systemdev/newlayout/logo-js.png"><br> 
                                     JavaScript
                                 </div>
                                 <div class="col-md-9  col-sm-8 text-left js-desc">
@@ -1191,9 +1191,9 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             Selain mahir dalam pengembangan web menggunakan PHP dan JavaScript, <br><span class="logofont">LOGIQUE</span> juga sangat baik dalam pengembangan PWA menggunakan framework JavaScript seperti 
                         </p>
                         <ul class="jsframework framework-list">
-                            <li><img src="pembuatan-sistem-web/img/newlayout/logo-react.png"> <br> React</li>
-                            <li><img src="pembuatan-sistem-web/img/newlayout/logo-angular.png"> <br> Angular</li>
-                            <li><img src="pembuatan-sistem-web/img/newlayout/logo-vue.png"> <br> Vue.js</li>
+                            <li><img src="assets/img/img-systemdev/newlayout/logo-react.png"> <br> React</li>
+                            <li><img src="assets/img/img-systemdev/newlayout/logo-angular.png"> <br> Angular</li>
+                            <li><img src="assets/img/img-systemdev/newlayout/logo-vue.png"> <br> Vue.js</li>
                         </ul>
                         <p>
                             <span class="logofont">LOGIQUE</span> juga memiliki kemampuan untuk membangun sistem berskala besar <br>dengan menggabungkan Node.js dan Express.js.
@@ -1213,7 +1213,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                 <ul>
                     <li class="text-left">Hubungi kami sekarang untuk <br>pengembangan sistem yang optimal!<li>
                     <li>
-                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></a>
+                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
                     </li>
                 </ul>
             </div>
@@ -1227,9 +1227,9 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         <div class="col-sm-4">
                             <div class="otherinfo-item  ">
                                 <a href="/logique.php">
-                                <img src="pembuatan-sistem-web/img/newlayout/img-about.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/img-about.jpg">
                                 <div class="otherinfo-desc">
-                                    <h3>About  <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></h3>
+                                    <h3>About  <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></h3>
                                     <p><span class="logofont">LOGIQUE Digital Indonesia</span> adalah konsultan IT dan perusahaan pengembang sistem terkemuka Jakarta. </p>
                                 </div>
                                 </a>
@@ -1238,9 +1238,9 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         <div class="col-sm-4">
                              <div class="otherinfo-item  ">
                                 <a href="/portofolio.php">
-                                <img src="pembuatan-sistem-web/img/newlayout/img-ourwork.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/img-ourwork.jpg">
                                 <div class="otherinfo-desc">
-                                    <h3>Our Work  <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></h3>
+                                    <h3>Our Work  <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></h3>
                                     <p><span class="logofont">LOGIQUE</span> telah mengembangkan banyak Website, Aplikasi Berbasis Web dan Mobile App, serta memberikan  </p>
                                 </div>
                                 </a>
@@ -1249,9 +1249,9 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         <div class="col-sm-4">
                              <div class="otherinfo-item  ">
                                 <a href="#">
-                                <img src="pembuatan-sistem-web/img/newlayout/img-faq.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/img-faq.jpg">
                                 <div class="otherinfo-desc">
-                                    <h3>FAQ  <span class="icon"> <img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></span></h3>
+                                    <h3>FAQ  <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></h3>
                                     <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes. </p>
                                 </div>
                                 </a>
@@ -1266,7 +1266,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                     <div class="row col10">
                         <div class="col-sm-3">
                             <a href="/layanan/web-dev.php">
-                                <img src="pembuatan-sistem-web/img/newlayout/img-febe.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/img-febe.jpg">
                                 <h3 class="text-center">Pengembangan / Pembaharuan Website</h3>
                                 <p>
                                     Work remotely in the Cloud - anytime and on any device - without the hassle 
@@ -1275,7 +1275,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         </div>
                         <div class="col-sm-3">
                              <a href="/layanan.php#dm_">
-                               <img src="pembuatan-sistem-web/img/newlayout/img-webdis.jpg">
+                               <img src="assets/img/img-systemdev/newlayout/img-webdis.jpg">
                                 <h3 class="text-center">Digital Marketing</h3>
                                 <p>
                                     Kami akan melakukan pemasaan website anda melalui berbagai platform marketing
@@ -1284,7 +1284,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         </div>
                         <div class="col-sm-3">
                             <a href="/layanan.php#otherService_itConsultant">
-                                <img src="pembuatan-sistem-web/img/newlayout/img-consultant.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/img-consultant.jpg">
                                 <h3 class="text-center">Consultant</h3>
                                 <p>
                                    Kami dapat menyediakan berbagai layanan konsultasi melalui "Indonesia x IT" 
@@ -1293,7 +1293,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         </div>
                         <div class="col-sm-3">
                             <a href="/layanan/pembuatan-aplikasi-mobile.php">
-                                <img src="pembuatan-sistem-web/img/newlayout/img-mobileapp.jpg">
+                                <img src="assets/img/img-systemdev/newlayout/img-mobileapp.jpg">
                                 <h3 class="text-center">Mobile Apps</h3>
                                 <p>
                                     Kami menyediakan jasa pengembangan aplikasi Android/iOS secara komprehensif
@@ -1359,8 +1359,8 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
       slidesToScroll: 1,
       asNavFor: '.slidertext-studycase',
       dots: true, 
-      nextArrow :'<button type="button" class="slick-next"><img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></button>' ,
-      prevArrow : '<button type="button" class="slick-prev"><img src="pembuatan-sistem-web/img/newlayout/arrow-left.svg"></button>'
+      nextArrow :'<button type="button" class="slick-next"><img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></button>' ,
+      prevArrow : '<button type="button" class="slick-prev"><img src="assets/img/img-systemdev/newlayout/arrow-left.svg"></button>'
     });
 
     $('.testimonial-slider').slick({
@@ -1373,8 +1373,8 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
           variableWidth: true, 
           autoplay: true,
           autoplaySpeed: 2000,
-          nextArrow :'<button type="button" class="slick-next"><img src="pembuatan-sistem-web/img/newlayout/arrow-right.svg"></button>' ,
-         prevArrow : '<button type="button" class="slick-prev"><img src="pembuatan-sistem-web/img/newlayout/arrow-left.svg"></button>',
+          nextArrow :'<button type="button" class="slick-next"><img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></button>' ,
+         prevArrow : '<button type="button" class="slick-prev"><img src="assets/img/img-systemdev/newlayout/arrow-left.svg"></button>',
           responsive: [
         {
           breakpoint: 1024,

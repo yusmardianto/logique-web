@@ -49,7 +49,7 @@ p:last-of-type{
     padding-left: 10px;
 }
 .content-wrapper__.header {
-    background: url(../../pembuatan-sistem-web/img/newlayout/top-bg.jpg) no-repeat;
+    background: url(../img/img-systemdev/newlayout/top-bg.jpg) no-repeat;
     background-size: cover;
     padding: 128px 0 84px 90px;
     margin:0;
@@ -206,7 +206,7 @@ section h2{
 }
 
 .whyus-section {
-    background-image: url(../../pembuatan-sistem-web/img/newlayout/whyus-bg.png);
+    background-image: url(../img/img-systemdev/newlayout/whyus-bg.png);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: 100%;
@@ -309,7 +309,7 @@ section h2{
     padding-top: 40px;
 }
 .text-slide-content{
-    background: url(../../pembuatan-sistem-web/img/newlayout/bg-slidertext-left.jpg) no-repeat left top, url(../../pembuatan-sistem-web/img/newlayout/bg-slidertext-right.jpg) no-repeat right bottom #fff;
+    background: url(../img/img-systemdev/newlayout/bg-slidertext-left.jpg) no-repeat left top, url(../img/img-systemdev/newlayout/bg-slidertext-right.jpg) no-repeat right bottom #fff;
     border-radius: 5px;
     box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.11);
     padding: 101px 20px 70px 43px; 
@@ -401,11 +401,11 @@ section h2{
     border-radius: 10px;
     box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.11);
     padding: 20px 15px 25px 15px;
-    background: url(../../pembuatan-sistem-web/img/newlayout/bg-scitem.png) no-repeat right bottom;
+    background: url(../img/img-systemdev/newlayout/bg-scitem.png) no-repeat right bottom;
     height: 100%;
 }
 .success-item.sc-seeall{
-    background: url(../../pembuatan-sistem-web/img/newlayout/bg-scitem.png) no-repeat right bottom #ffca13;
+    background: url(../img/img-systemdev/newlayout/bg-scitem.png) no-repeat right bottom #ffca13;
 
 }
 .success-item .icon-container{
@@ -464,7 +464,7 @@ section h2{
     padding-bottom: 25px;
 }
 .testislider-item .client-container{
-    background: url(../../pembuatan-sistem-web/img/newlayout/bg-testimonial.png) no-repeat bottom right;
+    background: url(../img/img-systemdev/newlayout/bg-testimonial.png) no-repeat bottom right;
     border-top: 10px solid #FFCA13;
     border-radius: 10px;
     overflow: hidden;
@@ -520,7 +520,7 @@ section h2{
     height: 99px;
 }
 .contact-banner.sec-content-part {
-    background: url(../../pembuatan-sistem-web/img/newlayout/bg-contactbanner.jpg) no-repeat;
+    background: url(../img/img-systemdev/newlayout/bg-contactbanner.jpg) no-repeat;
     background-size: cover;
     padding:30px 0;
 }
@@ -554,7 +554,7 @@ section h2{
     margin-bottom: 40px;
 }
 .whyphp {
-    background: url(../../pembuatan-sistem-web/img/newlayout/bg-whyphp.jpg) no-repeat;
+    background: url(../img/img-systemdev/newlayout/bg-whyphp.jpg) no-repeat;
     background-size: cover;
     padding: 35px 0 40px 0;
     margin-bottom: 30px;
@@ -609,7 +609,7 @@ section h2{
     bottom: 0;
     left: 0px;
     right: 0px;
-    background:url(../../pembuatan-sistem-web/img/newlayout/black-dot.png) no-repeat right bottom , url(../../pembuatan-sistem-web/img/newlayout/bg-otehrinfo.png) no-repeat;
+    background:url(../img/img-systemdev/newlayout/black-dot.png) no-repeat right bottom , url(../img/img-systemdev/newlayout/bg-otehrinfo.png) no-repeat;
     background-size: 35px, cover;
     padding: 20px 30px 20px 10px;
     color: #000;
