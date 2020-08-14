@@ -331,7 +331,7 @@ if(isset($_POST['submitted']))
             </div>
         </div>
     </section>
-    <section class="division">
+    <section class="division" style="display: none;">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -477,18 +477,18 @@ if(isset($_POST['submitted']))
             <div class="row portofolio-section">
                 <div class="col-md-6 col-lg-4 col-sm-4">
                     <img src="assets/img/img-webdev/AIA.png" alt="">
-                    <p class="portofolio-title">AIA</p>
-                    <p class="portofolio-subtitle">Lihat Detil</p>
+                    <p class="portofolio-title text-center">AIA</p>
+                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
                 <div class="col-md-6 col-lg-4 col-sm-4">
                     <img src="assets/img/img-webdev/panin.png" alt="">
-                    <p class="portofolio-title">Panin Life Dai - Ichi</p>
-                    <p class="portofolio-subtitle">Lihat Detil</p>
+                    <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
+                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
                 <div class="col-md-6 col-lg-4 col-sm-4">
                     <img src="assets/img/img-webdev/JBA.png" alt="">
-                    <p class="portofolio-title">JBA</p>
-                    <p class="portofolio-subtitle">Lihat Detil</p>
+                    <p class="portofolio-title text-center">JBA</p>
+                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
         </div>
@@ -698,7 +698,7 @@ if(isset($_POST['submitted']))
             </div>
         </div>
     </section>
-    <section class="tahap-pemesanan-2">
+    <section class="tahap-pemesanan-2 first-row">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-lg-4">
@@ -764,7 +764,7 @@ if(isset($_POST['submitted']))
             </div>
         </div>
     </section>
-    <section class="tahap-pemesanan-2">
+    <section class="tahap-pemesanan-2 second-row">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-lg-4">
@@ -827,7 +827,7 @@ if(isset($_POST['submitted']))
             </div>
         </div>
     </section>
-    <section class="tahap-pemesanan-2">
+    <section class="tahap-pemesanan-2 third-row">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-lg-4">
@@ -896,7 +896,7 @@ if(isset($_POST['submitted']))
                 <div class="col-md-12">
                     <img src="assets/img/img-webdev/domore.png" alt="">
                 </div>
-                <div class="col-md-8 content-container">
+                <div class="col-md-12 col-lg-8 content-container">
                     <p class="title">Kami selalu siap untuk membantu Anda dalam pembuatan dan pengembangan situs web, serta:</p>
                     <p class="list">
                         • 	Pembuatan dan /atau pengoperasian situs website
