@@ -210,7 +210,7 @@ footer {
                                     <li>
                                         <a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja
                                             <span style="font-size: 12px;">(Remote Working Tool)</span> </a></li>
-                                    <li><a href="/en/product/nippo.php" target="_blank">Nippo<span style="font-size: 12px;">(Daily
+                                    <li><a href="/en/product/nippo.php" target="_blank">Nippo<span style="font-size: 12px;"> (Daily
                                                 Report Tool)</span> </a></li>
                                     <li><a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo<span
                                                 style="font-size: 12px;">
