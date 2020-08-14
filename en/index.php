@@ -379,7 +379,7 @@
                             <div class="item__text">
                                 <h4>Nippo</h4>
                                 <p><strong>LOGIQUE</strong> offers a helpful way to assist management in easily monitoring and evaluating the progression of employee performance through a daily reporting system called Nippo.</p>
-                                <a href="/en/product/nippo.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+                                <a href="/en/product/nippo.php"  target="_blank"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
                             </div>
                         </div>
                         <div class="col-md-6 row__item">
