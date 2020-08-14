@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="ja">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,7 +12,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/product.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
     <meta property="og:description"
         content="インドネシアの人事管理事情に沿ったクラウドプロダクトの提供をしています。リモートワークを許容しながら生産性を向上することが可能なテレワークマネジメントツール、日報を通じて人事評価を行うことが可能なツール、オフラインのインタビューをできる限り少なくしてプロセスをスピードアップすることが可能な採用管理ツールの展開を行っています。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
@@ -30,6 +29,7 @@
 </head>
 
 <body class="jp-page product-page">
+    <?//php include '../popup.php'; ?>
     <div class="wrapper wrapper--update-design">
 
         <!-- NAVIGATION -->
@@ -41,7 +41,7 @@
         </button>
         <div class="collapse navbar-collapse" id="myNavbar">
             <div class="backdrop-test"></div>
-            <div class="logique-nav in-jp">
+            <div class="logique-nav logique-nav--update in-jp">
                 <div class="margin-for-nav">
                     <div class="text-center">
                         <a href="index.php">
@@ -157,7 +157,7 @@
                             ほかに、採用企業と求職者の両者がより効率的な採用・求職活動ができるように、ITの力で、求職・採用プロセスの無駄を排除したクラウド採用管理ツールSugoiSaiyo、スタッフの日々の勤務状況・内容を管理しつつ管理会計に利用可能なデータの集計を行うための日報管理システム、Nippoも提供しております。いずれについてもお気軽にお問い合わせいただければ幸いです。
                         </p>
                         <div class="product-list">
-                            <img class="product-list__img" src="/img/top/i-dokodemo.png" alt="dokodemo">
+                            <img class="product-list__img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
                             <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                             <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
                         </div>
@@ -211,7 +211,7 @@
                     <br>
 
                     <div class="text-center">
-                        <a class="btn--yellow" href="product/dokodemo-kerja.php">Dokodemo-Kerjaについてもっと見る</a>
+                        <a class="btn--yellow" target="_blank" href="https://dokodemo-kerja.com/jpn/">Dokodemo-Kerjaについてもっと見る</a>
                     </div>
                 </div>
             </section>

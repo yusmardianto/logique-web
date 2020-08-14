@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/services/penetration-test.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
         content="Protect your website, web app, & e-commerce from any cyber attack. Logique Digital Indonesia provides penetration test, security assessment, vulnerability assessment service, to secure your confidential data against today's most advanced threats. Solve the risks now. Contact us.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -25,6 +25,7 @@
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.css">
     <script>
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
@@ -74,8 +75,8 @@
     }
     </style>
 
-    <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-        data-toggle="collapse" data-target="#myNavbar">
+    <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
+        data-target="#myNavbar">
         <span class="icon-bar first"></span>
         <span class="icon-bar second"></span>
         <span class="icon-bar third"></span>
@@ -83,7 +84,7 @@
 
     <div class="collapse navbar-collapse" id="myNavbar">
         <div class="backdrop-test"></div>
-        <div class="logique-nav">
+        <div class="logique-nav logique-nav--update">
             <div class="margin-for-nav">
                 <div class="text-center">
                     <a href="/en/index.php">
@@ -150,8 +151,7 @@
                                 <li><a href="/layanan/penetration-test.php">ID</a></li>
                                 <li><a href="/jp/services/penetration-test.php">JP</a></li>
                             </ul>
-                            <a href="/en/"><img src="/../img/logo.png" alt="Logo"
-                                    class="img-responsive logo--update-design" /></a>
+                            <a href="/en/"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                         </div>
                     </div>
                 </div>
@@ -166,18 +166,17 @@
                 <div class="container__" style="padding:0">
                     <div class="row">
                         <div class="col-sm-12">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                itemtype="http://schema.org/BreadcrumbList">
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="/en/"><span itemprop="name">Home</span></a>
+                            <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/en/"><span
+                                            itemprop="name">Home</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
-                                <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item" href="/en/services.php"><span itemprop="name">&nbsp;Services</span></a>
+                                <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                        href="/en/services.php"><span itemprop="name">&nbsp;Services</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;WEB Security Assesment (Vulnerability Scanning
+                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
+                                            itemprop="name">&nbsp;WEB Security Assesment (Vulnerability Scanning
                                             / Test)</span></a>
                                     <meta itemprop="position" content="3" />
                                 </li>
@@ -189,8 +188,7 @@
             <div class="container__">
                 <div class="row">
                     <div class="col-md-12">
-                        <img class="img-responsive center-block top-banner" src="assets/img/img-pentest/top-banner.png"
-                            alt="Top Banner" />
+                        <img class="img-responsive center-block top-banner" src="assets/img/img-pentest/top-banner.png" alt="Top Banner" />
                         <div class="what-is">
                             <h1 class="title" style="margin-bottom: 0;">Website security assessment service | WEB
                                 vulnerability assessment</h1>
@@ -369,8 +367,7 @@
                     <div class="col-md-6">
                         <div class="row">
                             <div class="col-sm-4">
-                                <img alt="Step 1" src="assets/img/img-pentest/step1.png"
-                                    class="img-responsive center-block" /><br />
+                                <img alt="Step 1" src="assets/img/img-pentest/step1.png" class="img-responsive center-block" /><br />
                             </div>
                             <div class="col-sm-8 text-justify">
                                 <div class="title"><span>1</span> <b>Reconnaissance</b></div>
@@ -384,8 +381,7 @@
                     <div class="col-md-6">
                         <div class="row">
                             <div class="col-sm-4">
-                                <img alt="Step 2" src="assets/img/img-pentest/step2.png"
-                                    class="img-responsive center-block" /><br />
+                                <img alt="Step 2" src="assets/img/img-pentest/step2.png" class="img-responsive center-block" /><br />
                             </div>
                             <div class="col-sm-8 text-justify">
                                 <div class="title"><span>2</span> <b>Scanning</b></div>
@@ -401,8 +397,7 @@
                     <div class="col-md-6">
                         <div class="row">
                             <div class="col-sm-4">
-                                <img alt="Step 3" src="assets/img/img-pentest/step3.png"
-                                    class="img-responsive center-block" /><br />
+                                <img alt="Step 3" src="assets/img/img-pentest/step3.png" class="img-responsive center-block" /><br />
                             </div>
                             <div class="col-sm-8 text-justify">
                                 <div class="title"><span>3</span> <b>Gaining Access</b></div>
@@ -415,8 +410,7 @@
                     <div class="col-md-6">
                         <div class="row">
                             <div class="col-sm-4">
-                                <img alt="Step 4" src="assets/img/img-pentest/step4.png"
-                                    class="img-responsive center-block" /><br />
+                                <img alt="Step 4" src="assets/img/img-pentest/step4.png" class="img-responsive center-block" /><br />
                             </div>
                             <div class="col-sm-8 text-justify">
                                 <div class="title"><span>4</span> <b>Maintaining Access</b></div>
@@ -603,6 +597,233 @@
             </div>
         </section>
 
+        <section>
+            <br>
+            <!-- <div class="mengapa-harus"><b></b>Logique Works 2019</div> -->
+            <div class="container__">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <a href="#sampleReport">
+                            <img alt="Assesment Flow" src="assets/img/img-pentest/assesment-flow.jpg" class="img-responsive center-block">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <br />
+            <div class="mengapa-harus"><a href="/en/" target="_blank"><b>LOGIQUE</b></a> Works 2019</div>
+            <div class="container__">
+                <div class="row">
+
+                    <div class="col-sm-12">
+                        <div class="table-responsive">
+                            <table class="work-logique__table table table-striped ">
+                                <thead>
+                                    <tr>
+                                        <th rowspan="2" scope="col">Time</th>
+                                        <th rowspan="2" scope="col">Industry</th>
+                                        <th rowspan="2" scope="col">Object of Assesment</th>
+                                        <th colspan="3" scope="col">Found Problems (Risk Level)</th>
+                                    </tr>
+                                    <tr>
+                                        <th class="table__head--high" scope="col">High</th>
+                                        <th class="table__head--middle" scope="col">Middle</th>
+                                        <th class="table__head--low" scope="col">Low</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Sep - Oct 2019</td>
+                                        <td>Travel</td>
+                                        <td>Web app</td>
+                                        <td><span class="table__round --high">5</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sep - Oct 2019</td>
+                                        <td>Media</td>
+                                        <td>Online Media</td>
+                                        <td><span class="table__round --high">8</span></td>
+                                        <td><span class="table__round --middle">0</span></td>
+                                        <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sep - Oct 2019</td>
+                                        <td>Entrainment</td>
+                                        <td>Network infrastructure</td>
+                                        <td><span class="table__round --high">4</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sep - Oct 2019</td>
+                                        <td>E-commerce</td>
+                                        <td>Market Place Web</td>
+                                        <td><span class="table__round --high">8</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">4</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Oct 2019 </td>
+                                        <td>E-commerce</td>
+                                        <td>PWA</td>
+                                        <td><span class="table__round --high">4</span></td>
+                                        <td><span class="table__round --middle">3</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Oct - Nov 2019</td>
+                                        <td>Forwarding</td>
+                                        <td>Website company profile</td>
+                                        <td><span class="table__round --high">5</span></td>
+                                        <td><span class="table__round --middle">5</span></td>
+                                        <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Oct - Nov 2019</td>
+                                        <td>E-commerce</td>
+                                        <td>Web app</td>
+                                        <td><span class="table__round --high">6</span></td>
+                                        <td><span class="table__round --middle">0</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Oct - Nov 2019</td>
+                                        <td>E-commerce</td>
+                                        <td>Web app</td>
+                                        <td><span class="table__round --high">2</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Oct - Dec 2019</td>
+                                        <td>E-commerce</td>
+                                        <td>Web app</td>
+                                        <td><span class="table__round --high">53</span></td>
+                                        <td><span class="table__round --middle">1</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Nov - Dec 2019</td>
+                                        <td>E-commerce</td>
+                                        <td>Mobile app for Android</td>
+                                        <td><span class="table__round --high">2</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Nov - Dec 2019</td>
+                                        <td>E-commerce</td>
+                                        <td>E-commerce</td>
+                                        <td><span class="table__round --high">3</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Nov - Dec 2019</td>
+                                        <td>E-commerce</td>
+                                        <td>E-commerce</td>
+                                        <td><span class="table__round --high">2</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Nov 2019 </td>
+                                        <td>Fintech</td>
+                                        <td>Web app</td>
+                                        <td><span class="table__round --high">1</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Nov 2019 </td>
+                                        <td>Fintech</td>
+                                        <td>Mobile app for IOS and Android</td>
+                                        <td><span class="table__round --high">2</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Dec 2019 </td>
+                                        <td>Finance</td>
+                                        <td>Corporate Web</td>
+                                        <td><span class="table__round --high">2</span></td>
+                                        <td><span class="table__round --middle">1</span></td>
+                                        <td><span class="table__round --low">4</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Dec 2019 </td>
+                                        <td>Automotive</td>
+                                        <td>Corporate Web</td>
+                                        <td><span class="table__round --high">4</span></td>
+                                        <td><span class="table__round --middle">0</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Dec 2019 </td>
+                                        <td>Service</td>
+                                        <td>Member web</td>
+                                        <td><span class="table__round --high">3</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id=sampleReport>
+            <br />
+            <div class="mengapa-harus">Sample Report</div>
+            <div class="container__">
+                <div class="row sample-report">
+                    <div class="col-sm-4">
+                        <a href="assets/img/img-pentest/sample-report-sql.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-sql.jpg" class="img-responsive" alt="SQL Injection">
+                            <div class="sample-report__text text-center">SQL Injection</div>
+                        </a>
+                    </div>
+                    <div class="col-sm-4">
+                        <a href="assets/img/img-pentest/sample-report-missing.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-missing.jpg" class="img-responsive" alt="Missing Authorization Mechanism">
+                            <div class="sample-report__text text-center">Missing Authorization Mechanism</div>
+                        </a>
+                    </div>
+                    <div class="col-sm-4">
+                        <a href="assets/img/img-pentest/sample-report-bypass.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-bypass.jpg" class="img-responsive" alt="Bypassing Unrestricted File Upload">
+                            <div class="sample-report__text text-center">Bypassing Unrestricted File Upload</div>
+                        </a>
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="col-sm-4" >
+                        <a href="assets/img/img-pentest/sample-report-bug-finding.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-bug-finding.jpg" class="img-responsive" alt="Table Bug of Finding" style="border: solid 1px">
+                            <div class="sample-report__text text-center">Table Bug of Finding</div>
+                        </a>
+                    </div>
+                    <div class="col-sm-4">
+                        <a href="assets/img/img-pentest/sample-report-local-storage.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-local-storage.jpg" class="img-responsive" alt="Unencrypted Local Storage">
+                            <div class="sample-report__text text-center">Unencrypted Local Storage</div>
+                        </a>
+                    </div>
+                    <div class="col-sm-4">
+                        <a href="assets/img/img-pentest/sample-report-telnet.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-telnet.jpg" class="img-responsive" alt="Telnet Service Externally Available">
+                            <div class="sample-report__text text-center">Telnet Service Externally Available</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section class="footer">
             <div class="container__">
                 <div class="row">
@@ -620,13 +841,13 @@
                         <div class="info-contact-icon">
                             <div class="row">
                                 <div class="info-column">
-                                    <a href="/hubungi-kami.php" target="_blank"><img alt="Form"
-                                            src="assets/img/img-pentest/form-footer-icon.png" class="center-block" />
+                                    <a href="/hubungi-kami.php" target="_blank"><img alt="Form" src="assets/img/img-pentest/form-footer-icon.png"
+                                            class="center-block" />
                                     </a>
                                 </div>
                                 <div class="info-column">
-                                    <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
-                                        aria-label="WhatsApp" class="" rel="noreferrer"><i class="fa fa-whatsapp"></i>
+                                    <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" aria-label="WhatsApp" class=""
+                                        rel="noreferrer"><i class="fa fa-whatsapp"></i>
                                     </a>
                                     <div>
                                         <b>+62811870321</b>
@@ -657,6 +878,14 @@
 	 -->
     <script src="assets/js/jquery.matchHeight.js"></script>
     <script src="assets/js/wow.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
+
+    <script>
+        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+            event.preventDefault();
+            $(this).ekkoLightbox();
+        });
+    </script>
 </body>
 <script>
 $(function() {

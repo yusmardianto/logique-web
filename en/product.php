@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/product.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
     <meta property="og:description"
         content="LOGIQUE aims to provide you with various digital products to improve your business productivity. HR Cloud tools, daily report and evaluation tools, as well as recruitment and managements systems for HR. Try our products now! We ensure your work will be much easier and more efficient!">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
@@ -28,6 +28,7 @@
 </head>
 
 <body>
+<?//php include '../popup.php'; ?>
     <div class="wrapper wrapper--update-design">
 
         <!-- NAVIGATION -->
@@ -40,7 +41,7 @@
 
         <div class="collapse navbar-collapse" id="myNavbar">
             <div class="backdrop-test"></div>
-            <div class="logique-nav">
+            <div class="logique-nav logique-nav--update">
                 <div class="margin-for-nav">
                     <div class="text-center">
                         <a href="index.php">
@@ -154,7 +155,7 @@
                         <hr class="title__yellow-line--center">
                         <p class="title__description">In order to help companies grow and adapt within the digital era, LOGIQUE develops and provides digital products, such as HR management systems, to improve HR operations, productivity, and potential for profit within an organization.</p>
                         <div class="product-list">
-                            <img class="product-list__img" src="/img/top/i-dokodemo.png" alt="dokodemo">
+                            <img class="product-list__img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
                             <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                             <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
                         </div>

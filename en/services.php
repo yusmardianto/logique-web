@@ -41,7 +41,7 @@
 
         <div class="collapse navbar-collapse" id="myNavbar">
             <div class="backdrop-test"></div>
-            <div class="logique-nav">
+            <div class="logique-nav logique-nav--update">
                 <div class="margin-for-nav">
                     <div class="text-center">
                         <a href="index.php">
@@ -446,7 +446,7 @@
                                                 edge
                                                 technological trends present in the digital era.</p>
                                             <div class="service-detail__btn-wrapper">
-                                                <a class="main-btn --yellow" href="/en/portfolio.php">See More <span
+                                                <a class="main-btn --yellow" href="/en/services/web-dev.php">See More <span
                                                         class="hidden-xs"> about our Website Creation Services</span></a>
                                             </div>
                                     </div>
@@ -557,9 +557,10 @@
             <section class="section-divider" id="dm_">
                 <div class="bg--black">
                     <div class="container__">
-                        <div class="text-center">
+                        <div class="text-center" style="position: relative">
                             <h1 class="title-index --yellow">Digital Marketing</h1>
                             <hr class="title__yellow-line--center">
+                            <img class="google-badge" src="/img/google-badge.png" alt="Google Badge">
                         </div>
                     </div>
                 </div>
@@ -766,8 +767,8 @@
                         </div>
                     </section>
                     <div class="text-center --back-top">
-                        <a href="portfolio.php#sysDev">
-                            <div class="main-btn --black">Portfolio</div>
+                        <a href="/en/services/system-dev.php">
+                            <div class="main-btn --black">See more detail about LOGIQUE's system dev service</div>
                         </a>
                         <a href="#serviceNavigation">
                             <div class="main-btn">Back to Top</div>
@@ -951,6 +952,9 @@
                                         as AWS,
                                         Alibaba Cloud and GIO Cloud.
                                     </p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a class="main-btn --yellow" href="services/devops.php">See More</a>
+                                    </div>
                             </div>
                         </div>
                     </section>

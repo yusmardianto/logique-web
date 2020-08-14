@@ -52,7 +52,7 @@ if(isset($_POST['submitted']))
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/en/product/dokodemo-kerja.php">
-     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
      <meta property="og:description"
          content="Dokodemo-Kerja, a remote work / tele-work management system to improve your company's productivity with flexible working hours. Created by LOGIQUE Digital Indonesia to help managers and HR monitor employees work hours and project progress. Contact us for a free trial!">
 
@@ -113,7 +113,7 @@ if(isset($_POST['submitted']))
              </button>
              <div class="collapse navbar-collapse" id="myNavbar">
                  <div class="backdrop-test"></div>
-                 <div class="logique-nav">
+                 <div class="logique-nav logique-nav--update">
                      <div class="margin-for-nav">
                          <div class="text-center">
                              <a href="/en/index.php">
@@ -178,7 +178,7 @@ if(isset($_POST['submitted']))
                          <span class="icon-bar"></span>
                      </button>
                      <a class="navbar-brand" href="#" aria-label="Dokodemo Kerja Logo">
-                         <img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Dokodemo Kerja Logo"
+                         <img src="img/dokodemo-kerja/dokodemo-logo.svg" alt="Dokodemo Kerja Logo"
                              class="img-responsive center-block">
                      </a>
                      <div class="pull-left visible-xs">
@@ -242,10 +242,17 @@ if(isset($_POST['submitted']))
                      </div>
                      <br />
                      <div class="hidden-xs"><br /><br /></div>
-                     <video width="100%" height="300" controls
+                     <!-- <video width="100%" height="300" controls
                          poster="/en/product/img/dokodemo-kerja/thumb-dokodemo.png">
                          <source src="/en/product/img/dokodemo-kerja/dokodemo-kerja.webm" type="video/webm" />
-                     </video><br /><br />
+                     </video> -->
+                     <div class="embed-responsive embed-responsive-16by9 feature-video">
+                        <iframe class="embed-responsive-item" width="811" height="417" title="Dokodemo Youtube Video"
+                            src="https://www.youtube.com/embed/OWmF48Cq_fA" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>
+                     <br /><br />
                  </div>
                  <div class="col-md-6 text-justify">
                      <h2 class="title2">What is <span class="blue">Dokodemo-Kerja?</span></h2>
@@ -273,16 +280,11 @@ if(isset($_POST['submitted']))
                      <div class="poster-main screenshot-slide ">
                          <div class="poster-btn poster-prev-btn"></div>
                          <ul class="poster-list">
-                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja">
-                             </li>
-                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss1.jpg" alt="Dokodemo Kerja">
-                             </li>
-                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss2.jpg" alt="Dokodemo Kerja">
-                             </li>
-                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss3.jpg" alt="Dokodemo Kerja">
-                             </li>
-                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss5.jpg" alt="Dokodemo Kerja">
-                             </li>
+                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss1.jpg" alt="Dokodemo Kerja"></li>
+                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss2.jpg" alt="Dokodemo Kerja"></li>
+                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss3.jpg" alt="Dokodemo Kerja"></li>
+                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja"></li>
+                             <li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss5.jpg" alt="Dokodemo Kerja"></li>
                          </ul>
                          <div class="poster-btn poster-next-btn"></div>
                      </div>
@@ -508,8 +510,7 @@ if(isset($_POST['submitted']))
          <div class="container">
              <div class="row">
                  <div class="col-md-offset-1 col-md-10">
-                     <img class="img-responsive center-block" src="img/dokodemo-kerja/dokodemo-logo.png"
-                         alt="Dokodemo-Kerja Logo" />
+                     <img class="img-responsive center-block" src="img/dokodemo-kerja/dokodemo-logo.svg" style="max-width: 170px" alt="Dokodemo-Kerja Logo" />
                      <br />
                      <div class="title anton">Dokodemo-Kerja is the right solution.</div>
                      <hr />
@@ -551,7 +552,7 @@ if(isset($_POST['submitted']))
                  increases. Here are the plans offered by <strong>Dokodemo-Kerja</strong>.</div><br />
              <br />
              <div class="row">
-                 <div class="col-md-4">
+                 <div class="col-md-offset-2 col-md-4">
                      <div class="card-harga">
                          <div class="title-card text-center">Light Plan</div>
                          <div style="padding:30px 0;border-bottom: 1px solid #fff;">
@@ -575,7 +576,7 @@ if(isset($_POST['submitted']))
                          </div>
                      </div>
                  </div>
-                 <div class="col-md-4">
+                 <!-- <div class="col-md-4">
                      <div class="card-harga">
                          <div class="title-card text-center">Standard Plan</div>
                          <div style="padding:30px 0;border-bottom: 1px solid #fff;">
@@ -599,7 +600,7 @@ if(isset($_POST['submitted']))
                              </ul>
                          </div>
                      </div>
-                 </div>
+                 </div> -->
                  <div class="col-md-4">
                      <div class="card-harga">
                          <div class="title-card text-center">Enterprise Plan</div>
@@ -1059,7 +1060,7 @@ if(isset($_POST['submitted']))
                          </div>
 
                          <div class="col-sm-4 link-footer">
-                             <img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
+                             <img src="img/dokodemo-kerja/dokodemo-logo.svg" alt="Logo">
                              <p style="padding-bottom: 0px; padding-top: 0px;">
                                  <strong>Dokodemo-Kerja</strong> is a tool that makes your employees able to work
                                  remotely, improves productivity by removing unnecessary work that wastes a lot of time

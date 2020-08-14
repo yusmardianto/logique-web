@@ -335,13 +335,13 @@ footer p:before {
     margin-top: 0
 }
 @media (min-width:1200px) {
-    .margin-for-nav {
+   /* .margin-for-nav {
         top: 50%;
         transform: translateY(-50%);
         -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
         position: relative
-    }
+    }*/
 }
 .logique-nav.in-jp a {
     font-size: 12px

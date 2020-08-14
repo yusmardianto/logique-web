@@ -47,14 +47,14 @@ if(isset($_POST['submitted']))
          content="jasa pengembangan aplikasi mobile, jasa pengembangan mobile app, jasa pembuatan aplikasi mobile, pengembangan aplikasi mobile">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta property="og:title"
-         content="Mobile App Developer | Native / Hybrid App, PWA Builder Jakarta | LOGIQUE DIGITAL INDONESIA">
+         content="Mobile App Developer | Android, Hybrid App, PWA Builder Jakarta | LOGIQUE DIGITAL INDONESIA">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
-     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description"
          content="LOGIQUE is the top mobile app developer in Jakarta, has been trusted to develop the highly responsive mobile app, Android and iOS, with native / hybrid app and PWA builder for enterprise clients. We develop apps, strategic plan, design, QA, user testing, etc. Contact us to create yours now">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     <title>Mobile App Developer | Native / Hybrid App, PWA Builder Jakarta | LOGIQUE DIGITAL INDONESIA</title>
+     <title>Mobile App Developer | Android, Hybrid App, PWA Builder Jakarta | LOGIQUE DIGITAL INDONESIA</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="../../css/style.css" rel="stylesheet">
      <link href="assets/css/style-mobileapps.css" rel="stylesheet">
@@ -117,7 +117,7 @@ if(isset($_POST['submitted']))
 
      <div class="collapse navbar-collapse" id="myNavbar">
          <div class="backdrop-test"></div>
-         <div class="logique-nav">
+         <div class="logique-nav logique-nav--update">
              <div class="margin-for-nav">
                  <div class="text-center">
                      <a href="/en/index.php">
@@ -227,9 +227,7 @@ if(isset($_POST['submitted']))
                                  (ANDROID |
                                  iOS | HYBRID)</span> WITH <span class="yellow">LOGIQUE</span></h1>
                          <p>
-                             Our services provide the efficient solutions needed to develop and promote your mobile
-                             application for iOS and Android smartphone/tablet, facilitating the overall goal of raising your
-                             enterprise.
+                         Our services aim to provide efficient solutions that further promote your Mobile App for iOS & Android Smartphone/Tablet, while keeping to the end goal of raising your overall enterprise.
                          </p>
                          <div class="visible-md visible-lg">
                              <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -371,22 +369,17 @@ if(isset($_POST['submitted']))
              <div class="container__">
                  <br /><br />
                  <div class="row row-center-md">
-                     <div class="col-md-offset-1 col-md-3">
-                         <h2 class="title"><span><b>Mobile Application</b></span> based solutions can be utilized in the following
-                             ways</h2>
+                     <div class="col-md-offset-1 col-md-4">
+                         <h2 class="title"><span><b>A Mobile App</b></span> can provide application-based solutions for a variety of office-based problems, such as:</h2>
                      </div>
-                     <div class="col-md-8">
+                     <div class="col-md-7">
                          <ul class="fa-ul">
-                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>As a personally owned product and
-                                 asset.
+                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>Enhancing office culture through clearer communication between staffs and employers.
                              </li>
-                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>As a means of communication between
-                                 employers and employees.</li>
-                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>As a tool to market your products
-                                 and
-                                 services.</li>
-                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>As a tool to support your product’s
-                                 functionality.</li>
+                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>A tool used to market your products and services.</li>
+                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>A tool supporting the functionality of currently used products.</li>
+                             <!-- <li><span class="fa-li"><i class="fa fa-check-square"></i></span>As a tool to support your product’s
+                                 functionality.</li> -->
                          </ul>
                      </div>
                  </div>

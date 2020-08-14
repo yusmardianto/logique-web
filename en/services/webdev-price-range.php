@@ -11,7 +11,7 @@
     <meta property="og:title" content="Web Development Price | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description" content="LOGIQUE Digital Indonesia creates and develops web and web systems with high quality and international standard, professional, speed, and flexible to any change requested. See our web development price here.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Web Development Price | LOGIQUE Digital Indonesia</title>
@@ -40,7 +40,7 @@
       </button>
       <div class="collapse navbar-collapse" id="myNavbar">
         <div class="backdrop-test"></div>
-        <div class="logique-nav">
+        <div class="logique-nav logique-nav--update">
           <div class="margin-for-nav">
             <div class="text-center">
               <a href="/en/index.php">

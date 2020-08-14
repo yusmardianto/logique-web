@@ -51,7 +51,7 @@ if(isset($_POST['submitted']))
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/en/product/nippo.php">
-     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
      <meta property="og:description"
          content="NIPPO, a daily report, evaluation, work time management system that provides you with quantity, quality, and contents of employees detailed works. Created by LOGIQUE Digital Indonesia to make monitoring and evaluating employee's daily works easier. Contact us to try now!">
 
@@ -132,7 +132,7 @@ if(isset($_POST['submitted']))
          </button>
          <div class="collapse navbar-collapse" id="myNavbar">
              <div class="backdrop-test"></div>
-             <div class="logique-nav">
+             <div class="logique-nav logique-nav--update">
                  <div class="margin-for-nav">
                      <div class="text-center">
                          <a href="/en/index.php">
@@ -237,8 +237,8 @@ if(isset($_POST['submitted']))
                  <div class="row" style="margin-right:0;margin-left:0;">
                      <div class="col-md-12 text-center p-top-25" style=" padding-top: 15%; ">
                          <img src="img/nippo/LogoNippo.png" alt="nippo" class="fade-in logo m-logo">
-                         <p class="SISTEM-LAPORAN-KERJA fade-in">A Daily Reporting Tool that manages man-hour cost effectiveness
-                             <br>and conducts employee evaluations through daily reports.</p>
+                         <h1 class="SISTEM-LAPORAN-KERJA fade-in">A Daily Reporting Tool that manages man-hour cost effectiveness
+                             <br>and conducts employee evaluations through daily reports.</h1>
                      </div>
                  </div>
              </div>

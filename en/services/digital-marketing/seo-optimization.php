@@ -9,6 +9,12 @@
 	<meta name="keywords" content="logique, web optimization, digital marketing, improve SEO, hardcoded seo, responsive web, seo optimization, web development, SEO content creator, web design, web redesign, SEO service, bank seo, automotive seo, tourism seo, property seo, financial seo, business seo optimization, seo service, multilanguage content, japanese website, website portfolio, bahasa Indonesia, english">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<meta itemprop="name" content="PT. Logique Digital Indonesia">
+	<meta property="og:title" content="Logique Digital Marketing - SEO Optimization">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+	<meta property="og:description" content="Logique as professional web developer, can help you optimize the technical SEO implementation on your website to be the first page of Google, accompanied by modern web design, and multilanguage content: ID, ENG, JP. We have helped various kind of industry such as bank, automotive, tourism, property">
 	<title>Logique Digital Marketing - SEO Optimization</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/style-seo-optimization.css" rel="stylesheet">
@@ -57,7 +63,7 @@
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<div class="backdrop-test"></div>
-				<div class="logique-nav">
+				<div class="logique-nav logique-nav--update">
 					<div class="margin-for-nav">
 						<div class="text-center">
 							<a href="/en/index.php">

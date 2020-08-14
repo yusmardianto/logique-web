@@ -12,7 +12,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
-	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
 	<meta property="og:description" content="LOGIQUE bekerja sama dengan balai lelang mobil bekas JBA. Mulai dari pembuatan dan pengembangan website lelang mobil dan lelang motor bekas, serta pembuatan aplikasi mobile lelang mobil dan lelang motor bekas. Jika Anda tertarik untuk membuat website dan aplikasi, hubungi kami sekarang juga!">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
@@ -65,7 +65,7 @@
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
-				<div class="logique-nav">
+				<div class="logique-nav logique-nav--update">
 					<div class="margin-for-nav">
 						<div class="text-center">
 							<a href="/">
@@ -167,8 +167,8 @@
               <p class="cs-desc">
               Untuk membuat sistem lelang JBA, LOGIQUE DIGITAL INDONESIA menggunakan teknologi web terbaru dan termutakhir yang biasanya digunakan oleh para web developer profesional, baik di dalam maupun di luar negeri, yaitu NodeJS, SocketIO dan Android Native.<br><br>
               Ketiga teknologi ini telah dikenal secara luas oleh para programer serta para web developer profesional sebagai teknologi pengembangan sistem termutakhir yang mampu membantu para user untuk mengirimkan data secara cepat dan akurat.<br><br>
-
-              <a class="btn btn-cs" data-toggle="modal" href='#modal-id'>Detail</a>
+              NodeJS dipilih karena LOGIQUE merasa dalam pembuatan sistem lelang secara online, dibutuhkan engine yang mampu untuk mengeksekusi Javascript dengan cepat serta mempunyai performa yang bagus. Hal ini terjadi lantaran sistem lelang JBA online melibatkan banyak user dan data sehingga dibutuhkan sistem engine berteknologi tinggi sebagai solusinya.<br><br>
+              <!-- <a class="btn btn-cs" data-toggle="modal" href='#modal-id'>Detail</a>
               <div class="modal fade" id="modal-id">
                 <div class="modal-dialog">
                   <div class="modal-content">
@@ -188,8 +188,13 @@
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> -->
               </p>
+            </div>
+            <div class="col-sm-6 col-sm-offset-6 col-md-12 col-md-offset-0">
+              Socket IO juga dipilih sebagai media perantara untuk dapat mengakomodasi seluruh pengiriman data secara real time sehingga data yang didapatkan oleh para user yang sedang melakukan lelang online di JBA betul-betul merupakan data sebenarnya atau real data.<br><br>
+              Agar para user dapat melakukan lelang online di JBA kapan pun dan dimana pun, LOGIQUE akhirnya menggunakan teknologi Android Native agar sistem lelang online dapat digunakan pada smartphone user namun dengan performa yang lebih baik dan lebih cepat sehingga data yang didapat merupakan data secara real time. <br><br>
+              Semua teknologi ini dikombinasikan dengan Amazon Web Services (AWS) sebagai infrastruktur dengan skalabilitas tinggi yang dapat diandalkan untuk semua sistem penting. AWS menawarkan serangkaian layanan yang luas termasuk layanan komputasi, penyimpanan, basis data, analsis, dan deployment yang dapat membantu bisnis menerapkan sistem dan aplikasi digital lebih cepat dengan biaya yang optimal. JBA dan klien LOGIQUE lainnya mempercayai skalabilitas, keamanan, dan keandalan AWS untuk memastikan aplikasi dan bisnis digital mereka berjalan dengan lancar. <br><br><br class="visible-md visible-lg"><br class="visible-md visible-lg">            
             </div>
           </div>
         </section>

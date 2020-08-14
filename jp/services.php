@@ -1,6 +1,5 @@
 ﻿<!DOCTYPE html>
 <html lang="ja">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,7 +12,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/services.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
         content="LOGIQUEは、WEBサイト・ホームページ制作、CMSやEC、会員管理システムなどの開発運用、Digitalマーケティング、アプリ開発、SNS運用、インターネットビジネスコンサルティングなどをインドネシアで提供しています。クライアントの新規事業をデジタル・IT面で幅広くご支援しています。お気軽に日本語でご連絡ください。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
@@ -41,7 +40,7 @@
         </button>
         <div class="collapse navbar-collapse" id="myNavbar">
             <div class="backdrop-test"></div>
-            <div class="logique-nav in-jp">
+            <div class="logique-nav logique-nav--update in-jp">
                 <div class="margin-for-nav">
                     <div class="text-center">
                         <a href="index.php">
@@ -438,7 +437,7 @@
                                             <p>会社の信頼感・ブランド価値を伝えるコーポレートWeb、ブランドWebを制作します。多言語での制作やコンテンツ制作や写真・動画撮影も含めたホームページ制作などご要望に柔軟に応じます。ドメインやWebサーバーの手配、SSL購入もご支援いたします。企画から運用まで纏めてお任せください。スムーズに進められれば1ヶ月程度で公開可能です。コンバージョンのでる、価値の高いWebを作ります。
                                             </p>
                                             <div class="service-detail__btn-wrapper">
-                                                <a target="_blank" class="main-btn --yellow" href="/jp/portfolio.php#webDev"><span
+                                                <a target="_blank" class="main-btn --yellow" href="/jp/services/web-dev.php"><span
                                                         class="hidden-xs">Web制作サービスについて詳しくみる</span><span
                                                         class="hidden-sm hidden-md hidden-lg">もっと見る</span></a>
                                             </div>
@@ -527,9 +526,10 @@
             <section class="section-divider" id="dm_">
                 <div class="bg--black">
                     <div class="container__">
-                        <div class="text-center">
+                        <div class="text-center" style="position: relative">
                             <h1 class="title-index --yellow">デジタルマーケティング | ITコンサルティング</h1>
                             <hr class="title__yellow-line--center">
+                            <img class="google-badge --ja" src="/img/google-badge.png" alt="Google Badge">
                         </div>
                     </div>
                 </div>
@@ -546,6 +546,10 @@
                                         日本語、インドネシア語、英語でのSEO対策実績豊富にあります。
                                         インドネシア語で金融系ビッグキーワードや車系ビッグキーワードで1位を長く維持した実績あります。 SEMもお任せください。
                                     </p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a target="_blank" class="main-btn --yellow"
+                                            href="/jp/services/digital-marketing/seo-service.php">もっと見る</a>
+                                    </div>
                             </div>
                         </div>
                     </section>
@@ -674,8 +678,8 @@
                         </div>
                     </section>
                     <div class="text-center --back-top">
-                        <a href="portfolio.php#sysDev">
-                            <div class="main-btn --black">Portfolio</div>
+                        <a href="/jp/services/system-dev.php">
+                            <div class="main-btn --black">システム開発サービスの詳細をみる</div>
                         </a>
                         <a href="#serviceNavigation">
                             <div class="main-btn">Back to Top</div>
@@ -825,6 +829,9 @@
                                         GCPやAlibabaクラウドの構築運用経験もあります。インドネシアのドメインの取得管理、DNSの設定、SSLの購入設定、
                                         AWSの請求代行なども可能です。
                                     </p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a class="main-btn --yellow" href="services/devops.php">もっと見る</a>
+                                    </div>
                             </div>
                         </div>
                     </section>

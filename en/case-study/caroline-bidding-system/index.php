@@ -12,7 +12,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/case-study/caroline-bidding-system/">
-	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
 	<meta property="og:description" content="LOGIQUE Digital Indonesia in collaboration with Caroline. We assisted in car trading system development with online bidding system. In a short time, we developed a high quality car selling site center, easy to use by users. Learn the case study here.">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <script>
@@ -64,7 +64,7 @@
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
-				<div class="logique-nav">
+				<div class="logique-nav logique-nav--update">
 					<div class="margin-for-nav">
 						<div class="text-center">
 							<a href="/en">

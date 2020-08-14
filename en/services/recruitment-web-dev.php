@@ -45,10 +45,12 @@ if(isset($_POST['submitted']))
         content="Have trouble hiring the right employee your company needs? LOGIQUE can help you create an effective recruitment web to ease you with online recruitment, with a built-in inquiry form, also easy-to-navigate and attractive design that appeal to all of your potential target candidates. Contact us to create yours now.">
     <meta name="keywords" content="website karir, karir perusahaan, jasa website karir, logique">
     <meta name="author" content="Logique Digital Indonesia">
+     <meta itemprop="name" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Recruitment Web Creation | Online Recruitment | LOGIQUE DIGITAL INDONESIA">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:url" content="https://www.logique.co.id/en/services/recruitment-web-dev.php">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
         content="Have trouble hiring the right employee your company needs? LOGIQUE can help you create an effective recruitment web to ease you with online recruitment, with a built-in inquiry form, also easy-to-navigate and attractive design that appeal to all of your potential target candidates. Contact us to create yours now.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -58,13 +60,20 @@ if(isset($_POST['submitted']))
     <link href="assets/css/style-recruitment-website.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Architects+Daughter" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet"> -->
+    <!-- <link href="https://fonts.googleapis.com/css?family=Architects+Daughter" rel="stylesheet"> -->
     <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
     ga('create', 'UA-105878648-1', 'auto');
     ga('send', 'pageview');
@@ -82,8 +91,8 @@ if(isset($_POST['submitted']))
 }
 
 .col-sm-12.link-footer {
-		margin-bottom: 2em;
-	}
+    margin-bottom: 2em;
+}
 
 footer {
     top: 35px;
@@ -100,8 +109,8 @@ footer {
 
         <!-- NAVIGATION -->
         <div>
-            <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-                data-toggle="collapse" data-target="#myNavbar">
+            <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
+                data-target="#myNavbar">
                 <span class="icon-bar first"></span>
                 <span class="icon-bar second"></span>
                 <span class="icon-bar third"></span>
@@ -109,7 +118,7 @@ footer {
 
             <div class="collapse navbar-collapse" id="myNavbar">
                 <div class="backdrop-test"></div>
-                <div class="logique-nav">
+                <div class="logique-nav logique-nav--update">
                     <div class="margin-for-nav">
                         <div class="text-center">
                             <a href="/en/index.php">
@@ -177,8 +186,7 @@ footer {
                                     <li><a href="/layanan/pembuatan-web-karir.php">ID</a></li>
                                     <li><a href="/jp/services/recruitment-web-dev.php">JP</a></li>
                                 </ul>
-                                <a href="/en/"><img src="/../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
+                                <a href="/en/"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
                     </div>
@@ -194,15 +202,13 @@ footer {
                     <div class="container__" style="padding:0">
                         <div class="row">
                             <div class="col-sm-12">
-                                <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                    itemtype="http://schema.org/BreadcrumbList">
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item" href="/en/"><span itemprop="name">Home</span></a>
+                                <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                            href="/en/"><span itemprop="name">Home</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
-                                    <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item" href="/en/services.php"><span
-                                                itemprop="name">&nbsp;Services</span></a>
+                                    <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                            href="/en/services.php"><span itemprop="name">&nbsp;Services</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
@@ -243,8 +249,7 @@ footer {
                         </div>
                         <div class="col-sm-4 text-right">
                             <a href="/en/contact.php" target="_blank" aria-label="Contact Us" rel="noreferrer"><img
-                                    class="logo-logique img-responsive"
-                                    src="assets/img/img-recruitment-website/logo-y-logique.png" alt=""
+                                    class="logo-logique img-responsive" src="assets/img/img-recruitment-website/logo-y-logique.png" alt=""
                                     style="float: right; margin-top:10px;"></a>
                         </div>
                     </div>
@@ -261,15 +266,13 @@ footer {
                                 <div class="row">
 
                                     <div class="col-sm-4">
-                                        <img src="assets/img/img-recruitment-website/img-problem2.png" alt="HRD's Problem"
-                                            class="img-responsive">
+                                        <img src="assets/img/img-recruitment-website/img-problem2.png" alt="HRD's Problem" class="img-responsive">
                                         <div>It is quite challenging to get enough candidates, to inform your job vacancy, or to
                                             find
                                             a recruitment agent service that is not expensive.</div>
                                     </div>
                                     <div class="col-sm-4">
-                                        <img src="assets/img/img-recruitment-website/img-problem3.png" alt="HRD's Problem"
-                                            class="img-responsive">
+                                        <img src="assets/img/img-recruitment-website/img-problem3.png" alt="HRD's Problem" class="img-responsive">
                                         <div>Hiring a skilled employee from recruitment agents is too expensive for a long-term
                                             contract.</div>
                                     </div>
@@ -332,8 +335,7 @@ footer {
             </section>
 
             <section class="simulation-container">
-                <img src="assets/img/img-recruitment-website/img-simulation2.png" alt="Cost Simulation" class="img-responsive "
-                    style="width: 100%;">
+                <img src="assets/img/img-recruitment-website/img-simulation2.png" alt="Cost Simulation" class="img-responsive " style="width: 100%;">
                 <div class="container__">
                     <h2 class="text-center">
                         Let’s simulate the recruitment cost below.
@@ -341,14 +343,13 @@ footer {
                     <div class="simul-cont1">
                         <div class="simul-1">If you want to recruit</div>
                         <div class="simul-2">
-                            <img src="assets/img/img-recruitment-website/img-simulation1.png" alt="Cost Simulation"
-                                class="img-responsive">
+                            <img src="assets/img/img-recruitment-website/img-simulation1.png" alt="Cost Simulation" class="img-responsive">
                             10 new employees</div>
                         <div class="simul-3">for 10 different positions,</div>
                     </div>
                     <center>
-                        <img src="assets/img/img-recruitment-website/simulation-dot.png" alt="Cost Simulation"
-                            class="img-responsive" style="margin-top: 10px;">
+                        <img src="assets/img/img-recruitment-website/simulation-dot.png" alt="Cost Simulation" class="img-responsive"
+                            style="margin-top: 10px;">
                     </center>
                 </div>
                 <div class="simul-container">
@@ -369,18 +370,18 @@ footer {
                                 <img src="assets/img/img-recruitment-website/simulation2.png" alt="Cost Simulation"
                                     class="img-responsive center-block">
                             </div>
-							<div class="col-sm-12 simul-description">
-								<center>
-									Many companies must be facing those problems though they are using both recruitment agents and
-									portal
-									sites. We suggest you to have If in the end the chosen candidate does not match the criteria or
-									culture of your company, then the cost and energy you’re going to spend surely will be a waste.
-									Also,
-									there is a possibility of resignation submission in the near future that makes you need to repeat
-									the
-									recruitment process from the beginning.
-								</center>
-							</div>
+                            <div class="col-sm-12 simul-description">
+                                <center>
+                                    Many companies must be facing those problems though they are using both recruitment agents and
+                                    portal
+                                    sites. We suggest you to have If in the end the chosen candidate does not match the criteria or
+                                    culture of your company, then the cost and energy you’re going to spend surely will be a waste.
+                                    Also,
+                                    there is a possibility of resignation submission in the near future that makes you need to repeat
+                                    the
+                                    recruitment process from the beginning.
+                                </center>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -402,8 +403,8 @@ footer {
                 <div class="solution-container">
                     <div class="container__">
                         <div class="row">
-                            <div class="col-lg-7 col-md-6 col-sm-6 "><img src="assets/img/img-recruitment-website/buble-text.png"
-                                    alt="Bubble Text" class="img-responsive"></div>
+                            <div class="col-lg-7 col-md-6 col-sm-6 "><img src="assets/img/img-recruitment-website/buble-text.png" alt="Bubble Text"
+                                    class="img-responsive"></div>
                             <div class="col-lg-5 col-md-6 col-sm-6 price-tag">
                                 <div class="price-tag-text">
                                     <div style="font-size: 30px; font-weight: 900;line-height: 30px">Low </div>
@@ -500,8 +501,7 @@ footer {
 
                             <div class="col-md-3 col-sm-6 step step2">
                                 <div class="step-number-cont"><span>1</span></div>
-                                <img src="assets/img/img-recruitment-website/img-step2.jpg" alt="Image Step"
-                                    class="img-responsive">
+                                <img src="assets/img/img-recruitment-website/img-step2.jpg" alt="Image Step" class="img-responsive">
                                 <h4>Perencanaan</h4>
                                 <div class="step-text">Kami akan berdiskusi dengan Anda mengenai preferensi dan konsep halaman
                                     karir.
@@ -510,8 +510,7 @@ footer {
                             </div>
                             <div class="col-md-3 col-sm-6  step step3">
                                 <div class="step-number-cont"><span>2</span></div>
-                                <img src="assets/img/img-recruitment-website/img-step3.jpg" alt="Image Step"
-                                    class="img-responsive">
+                                <img src="assets/img/img-recruitment-website/img-step3.jpg" alt="Image Step" class="img-responsive">
                                 <h4>Desain</h4>
                                 <div class="step-text">Pembuatan desain yang menarik dan pengambilan foto akan dilakukan sebagai
                                     komponen penting dari halaman karir tersebut.
@@ -521,8 +520,7 @@ footer {
 
                             <div class="col-md-3 col-sm-6 step step5">
                                 <div class="step-number-cont"><span>3</span></div>
-                                <img src="assets/img/img-recruitment-website/img-step5.jpg" alt="Image Step"
-                                    class="img-responsive">
+                                <img src="assets/img/img-recruitment-website/img-step5.jpg" alt="Image Step" class="img-responsive">
                                 <h4>Penulisan</h4>
                                 <div class="step-text">Kami membantu Anda merangkum dan menampilkan konten yang mudah dimengerti
                                     oleh
@@ -532,8 +530,7 @@ footer {
 
                             <div class="col-md-3 col-sm-6 step step8">
                                 <div class="step-number-cont"><span>4</span></div>
-                                <img src="assets/img/img-recruitment-website/img-step8.jpg" alt="Image Step"
-                                    class="img-responsive">
+                                <img src="assets/img/img-recruitment-website/img-step8.jpg" alt="Image Step" class="img-responsive">
                                 <h4>Halaman karir selesai!</h4>
                                 <div class="step-text">Halaman karir siap digunakan untuk membantu proses rekrutmen perusahaan
                                     Anda.
@@ -759,8 +756,7 @@ footer {
                                     tambahan berupa screenshot yang diambil pada waktu acak untuk memonitor tingkat efisiensi
                                     karyawan.</div>
                                 <br>
-                                <a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer"
-                                    class="btn btn-lg btn-yellow">More Detail...</a>
+                                <a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer" class="btn btn-lg btn-yellow">More Detail...</a>
                             </center>
                         </div>
                     </div>
@@ -768,8 +764,8 @@ footer {
             </section>
 
         </div>
-		
-		<?php include '../footer.php'; ?>
+
+        <?php include '../footer.php'; ?>
 
     </div>
     <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->

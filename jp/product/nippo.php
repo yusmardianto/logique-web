@@ -45,6 +45,13 @@ if(isset($_POST['submitted']))
      <meta name="keywords"
          content="laporan kerja, laporan kerja harian, kerja partime, kerja remote, karyawan swasta, karyawan kontrak, laporan kinerja, laporan kinerja karyawan, sistem web, sistem informasi, Nippo">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA">
+         <meta property="og:title" content=" リモートワーク・テレワーク管理｜生産性向上のための勤務管理ツール｜Dokodemo-Kerja｜LOGIQUEデジタルインドネシア">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Logique">
+    <meta property="og:url" content="https://www.logique.co.id/jp/product/nippo.php">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
+    <meta property="og:description"
+        content="NIPPOは日報管理ツールです。日々の日報を通じて、スタッフの作業内容・量・質を把握し、スタッフ間でのコミュニケーションを促進することができます。管理者者は部下の評価を行います。プロジェクト毎、タスク毎の原価工数集計も可能です。月額1ジュタからのクラウドツールですがカスタマイズ導入も可能です。デモ環境の試用も可能ですのでお問い合わせください。">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <title>日報を通じて人事評価＆原価工数管理を行うール | NIPPO | LOGIQUEデジタルインドネシア</title>
      <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -125,7 +132,7 @@ if(isset($_POST['submitted']))
          </button>
          <div class="collapse navbar-collapse" id="myNavbar">
              <div class="backdrop-test"></div>
-             <div class="logique-nav in-jp">
+             <div class="logique-nav logique-nav--update in-jp">
                  <div class="margin-for-nav">
                      <div class="text-center">
                          <a href="/jp/">
@@ -233,7 +240,7 @@ if(isset($_POST['submitted']))
                  <div class="row" style="margin-right:0;margin-left:0;">
                      <div class="col-md-12 text-center p-top-25" style=" padding-top: 15%; ">
                          <img src="img/nippo/LogoNippo.png" alt="nippo" class="fade-in logo m-logo">
-                         <p class="SISTEM-LAPORAN-KERJA fade-in">日報から原価工数管理や従業員評価を行うことが可能な日報ツール</p>
+                         <h1 class="SISTEM-LAPORAN-KERJA fade-in">日報から原価工数管理や従業員評価を行うことが可能な日報ツール</h1>
                      </div>
                  </div>
              </div>

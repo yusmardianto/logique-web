@@ -12,7 +12,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/vip-plaza-progressive-web-app/">
-	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
 	<meta property="og:description" content="LOGIQUE menawarkan layanan untuk perkembangan bisnis Anda dengan sebuah teknologi baru, yaitu jasa pembuatan progressive web apps, seperti yang dilakukan pada VIP Plaza. Ingin mendapatkan layanan ini, silahkan kunjungi website kami!">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
@@ -65,7 +65,7 @@
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
-      <div class="logique-nav">
+      <div class="logique-nav logique-nav--update">
 					<div class="margin-for-nav">
 						<div class="text-center">
 							<a href="/">

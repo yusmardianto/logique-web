@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/logique.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/logique-about.png">
     <meta property="og:description"
         content="LOGIQUEデジタルインドネシアのの会社概要。インドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム/モバイルアプリ開発会社です。コーポレートWEBサイト制作から大規模なシステム構築、システムの運用保守、SNS運用、Google広告運用まで、Digital Marketingコンサルティングを実施してクライアントのインドネシアでの成功を支援します。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
@@ -41,7 +41,7 @@
         </button>
         <div class="collapse navbar-collapse" id="myNavbar">
             <div class="backdrop-test"></div>
-            <div class="logique-nav in-jp">
+            <div class="logique-nav logique-nav--update in-jp">
                 <div class="margin-for-nav">
                     <div class="text-center">
                         <a href="index.php">
@@ -153,9 +153,8 @@
                         <h1 class="title-index">LOGIQUEについて</h1>
                         <hr class="title__yellow-line--center">
                         <p class="title__description">
-                            LOGIQUEはホームページ制作・WEBシステム開発会社です。日本人がインドネシアのジャカルタで設立しました。インドネシア国内の日系企業さま、また日本からオフショア先をお探しのお客様に対して、ウェブサイトやシステムの制作開発、運用のご支援をしています。
-                            WEBサイト制作会社としてWEBデザイン制作やLP制作、システム開発会社としてモバイルアプリ開発、CMS構築や採用管理システム開発、PWA開発、Digital
-                            AgencyとしてSEO対策、インターネット広告運用、FacebookやInstagram等のソーシャルメディアを活用したキャンペーン実施などを行っております。</p>
+                            ロジック デジタル インドネシアはホームページ制作・WEBシステム開発会社です。日本人がインドネシアのジャカルタで設立しました。インドネシア国内の日系企業さま、また日本からオフショア先をお探しのお客様に対して、ウェブサイトやシステムの制作開発、運用のご支援をしています。 WEBサイト制作会社としてWEBデザイン制作やLP制作、システム開発会社としてモバイルアプリ開発、CMS構築や採用管理システム開発、PWA開発、Digital AgencyとしてSEO対策、インターネット広告運用、FacebookやInstagram等のソーシャルメディアを活用したキャンペーン実施などを行っております。
+                        </p>
                     </div>
 
                     <div class="row">
@@ -334,7 +333,7 @@
                             <hr class="title__yellow-line">
                             <div class="director">
                                 <div class="director__img">
-                                    <img src="/img/yoshi-update.jpg" alt="Takashi Yoshitsugu" class="img-responsive" />
+                                    <img src="/img/yoshi-2020.jpg" alt="Takashi Yoshitsugu" class="img-responsive" />
                                 </div>
                                 <div class="director__content">
                                     <hr class="title__white-line">

@@ -49,7 +49,7 @@ if(isset($_POST['submitted']))
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/produk/nippo.php">
-     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png"> 
      <meta property="og:description"
          content="Nippo merupakan sistem laporan kerja berbasis web dari LOGIQUE yang mampu membantu HR dan manager dalam menilai kinerja para karyawan. Dengan sistem ini, Anda dapat dengan mudah melakukan seleksi, monitor, penilaian, dan evaluasi kinerja harian karyawan Anda.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -144,7 +144,7 @@ if(isset($_POST['submitted']))
          </button>
          <div class="collapse navbar-collapse" id="myNavbar">
              <div class="backdrop-test"></div>
-             <div class="logique-nav">
+             <div class="logique-nav logique-nav--update">
                  <div class="margin-for-nav">
                      <div class="text-center">
                          <a href="/">
@@ -250,8 +250,8 @@ if(isset($_POST['submitted']))
                  <div class="row" style="margin-right:0;margin-left:0;">
                      <div class="col-md-12 text-center p-top-25" style=" padding-top: 15%; ">
                          <img src="img/nippo/LogoNippo.png" alt="nippo" class="fade-in logo m-logo">
-                         <p class="SISTEM-LAPORAN-KERJA fade-in">SISTEM LAPORAN KERJA KARYAWAN <br>YANG TRANSPARAN DAN FLEKSIBEL
-                         </p>
+                         <h1 class="SISTEM-LAPORAN-KERJA fade-in">SISTEM LAPORAN KERJA KARYAWAN <br>YANG TRANSPARAN DAN FLEKSIBEL
+                         </h1>
                      </div>
                  </div>
              </div>

@@ -46,7 +46,16 @@
      <meta name="keywords"
          content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
-     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
+     <meta itemprop="name" content="PT. Logique Digital Indonesia">
+
+     <meta property="og:title" content="Web System Development Service | LOGIQUE Digital Indonesia">
+     <meta property="og:type" content="website">
+     <meta property="og:site_name" content="Logique">
+     <meta property="og:url" content="https://www.logique.co.id/jp/services/system-dev.php">
+     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+     <meta property="og:description"
+         content="As one of the top leading web developers in Indonesia, LOGIQUE has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed. Learn more about our web system development service here.">
      <title>システム開発運用・アプリ開発 | LOGIQUE デジタルインドネシア</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/style.css" rel="stylesheet">
@@ -99,7 +108,7 @@
              </button>
              <div class="collapse navbar-collapse" id="myNavbar">
                  <div class="backdrop-test"></div>
-                 <div class="logique-nav in-jp">
+                 <div class="logique-nav logique-nav--update in-jp">
                      <div class="margin-for-nav">
                          <div class="text-center ">
                              <a href="/jp/">
@@ -203,9 +212,9 @@
          </div>
          <div class="container__" style="position:relative">
              <div class="row">
-                 <div class="col-lg-offset-6 col-lg-5 col-sm-offset-6 col-sm-6 bg-header-txt">
+                 <div class="col-lg-offset-5 col-lg-7 col-sm-offset-6 col-sm-6 bg-header-txt">
                      <h1 class="text-left m-new">インドネシアでシステム開発が必要ならLOGIQUEにご相談ください</h1>
-                     <h2 class="text-left m-new">豊富な実績をベースに、<br> 早い、安い、でもクオリティは高いシステムを開発します。</h2>
+                     <h3 class="text-left m-new">豊富な実績をベースに、<br> 早い、安い、でもクオリティは高いシステムを開発します。</h3>
                  </div>
              </div>
          </div>
@@ -213,9 +222,9 @@
      <section class="style-1" style="padding-bottom: 0;padding-top:20px;">
          <div class="container">
              <div class="row">
-                 <div class="col-md-offset-1 col-md-10 text-left" style="padding: 2em 1em;">
-                     <h2>システム開発が必要なのに、コストが高いから、時間かかるから、難しいからと諦めていませんか？インドネシアでのIT/Webシステム開発はLOGIQUEにお任せください。柔軟にスピーディーにリーズナブルなコストで開発します。
-                     </h2>
+                 <div class="col-md-offset-1 col-md-10 text-left" style="padding-bottom: 1em;">
+                     <h3>システム開発が必要なのに、コストが高いから、時間かかるから、難しいからと諦めていませんか？インドネシアでのIT/Webシステム開発はLOGIQUEにお任せください。柔軟にスピーディーにリーズナブルなコストで開発します。
+                     </h3>
                  </div>
              </div>
          </div>
@@ -279,7 +288,7 @@
                  <div class="container">
                      <div class="row" style="display: flex; flex-wrap: wrap;">
                          <div class="col-md-4">
-                             <h1 class="new7" style="font-weight: 500!important;">ご要望に応じて柔軟な開発体制 / 開発メソッドでサポートいたします</h1>
+                             <h2 class="new7" style="font-weight: 500!important;">ご要望に応じて柔軟な開発体制 / 開発メソッドでサポートいたします</h2>
                              <br>
                              <div class="justify-content-center">
                                  <img src="assets/img/img-systemdev/laptop-img.png" alt="" class="img img-responsive">
@@ -289,7 +298,7 @@
                              <div class="row">
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">通常の請負開発</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">要件が明確であるプロジェクトで有効。<br>通常はアジャイル（スクラム）開発をお奨めしています。.</p>
                                      </div>
                                  </div>
@@ -297,7 +306,7 @@
                              <div class="row">
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">ラボ型受託開発（稼働したリソースベースでご請求します</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">要件 / 作業スコープが決まりきっていないが早期にスタートしたいケース、開発しながら柔軟にスコープを変えていきたいプロジェクトで有効。</p>
                                      </div>
                                  </div>
@@ -305,7 +314,7 @@
                              <div class="row">
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">定額制開発</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">月額費用を固定し、優先度高く必要なものから順に規定の作業工数の範囲内で毎月作業していきます。
                                              メンテナンスや機能拡張プロジェクトに合っています。
                                              従来であれば追加費用が必要かどうかで揉めるような場面でも、月額定額の中で出来るところまで対応し、
@@ -316,7 +325,7 @@
                              <div class="row">
                                  <div class="col-md-12">
                                      <h4 class="dark-gold-title">開発者派遣型開発</h4>
-                                     <div style="margin-left: 12px;">
+                                     <div>
                                          <p class="h4">関連会社にて開発者、デザイナー、テスター等を派遣して、オンサイトで作業することも可能です。</p>
                                      </div>
                                  </div>
@@ -721,7 +730,7 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-6">
-                     <h1 class="new6"><span class="underline2" style="padding: 0;">お客様の声</span></h1>
+                     <h2 class="new6"><span class="underline2" style="padding: 0;">お客様の声</span></h2>
                  </div>
                  <div class="col-md-6">
                      <div class="row">

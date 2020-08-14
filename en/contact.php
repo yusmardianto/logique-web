@@ -49,7 +49,7 @@ if(isset($_POST['submitted']))
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/contact.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/contact-us.png">
     <meta property="og:description"
         content="Grow and increase your business profit through digital with LOGIQUE Digital Indonesia, the top Web Developer / Design, Digital Maketing, & IT Consultant in Jakarta. Contact us to ask more about digital marketing in Indonesia and how we can help your business.Maximize and increase your business profits through digital growth with LOGIQUE Digital Indonesia, the top Web Development/Design, Digital Marketing and IT consultancy in Jakarta. Contact us to ask more about digital marketing in Indonesia, and how we can help grow your company.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
@@ -626,7 +626,7 @@ if(isset($_POST['submitted']))
             </button>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <div class="backdrop-test"></div>
-                <div class="logique-nav">
+                <div class="logique-nav logique-nav--update">
                     <div class="margin-for-nav">
                         <div class="text-center">
                             <a href="index.php">
@@ -726,9 +726,9 @@ if(isset($_POST['submitted']))
 
             <section style="background-color: #f4f4f4;">
                 <div class="container__ text-center" style="padding-bottom:0">
-                    <span class="title-index" style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px;">
+                    <h1 class="title-index" style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px; width: max-content; margin: auto;">
                         Contact Us
-                    </span><br><br>
+                    </h1>
                     <!-- <hr class="title__yellow-line--center"> -->
                     <div class="bg-grey" style="padding-top: 10px;">
                         <div class="contact-us-cont">

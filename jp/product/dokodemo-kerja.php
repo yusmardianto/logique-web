@@ -44,6 +44,13 @@ if(isset($_POST['submitted']))
 	<meta name="keywords" content="">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	     <meta property="og:title" content=" リモートワーク・テレワーク管理｜生産性向上のための勤務管理ツール｜Dokodemo-Kerja｜LOGIQUEデジタルインドネシア">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Logique">
+    <meta property="og:url" content="https://www.logique.co.id/jp/product/dokodemo-kerja.php">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
+    <meta property="og:description"
+        content="Dokodemo-Kerjaは、LOGIQUEが提供しているリモートワーク管理ツールです。リモートワーク / テレワークにて、フレキシブルに生産性をあげることに集中して効率的に働きたい従業員にも、皆にフェアな機会を与えて、さぼりを抑止したい経営者、人事マネージャーの両者にメリットのある製品・ソリューションです。トライアル利用可能ですのでお問い合わせください。">
     <title>リモートワーク・テレワーク管理｜生産性向上のための勤務管理ツール｜Dokodemo-Kerja｜LOGIQUEデジタルインドネシア</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style_dokodemo.css" rel="stylesheet">
@@ -82,7 +89,7 @@ if(isset($_POST['submitted']))
 				</button>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<div class="backdrop-test"></div>
-					<div class="logique-nav in-jp">
+					<div class="logique-nav logique-nav--update in-jp">
 						<div class="margin-for-nav">
 							<div class="text-center">
 								<a href="/jp/">
@@ -146,7 +153,7 @@ if(isset($_POST['submitted']))
 					  <span class="icon-bar"></span>
 					</button>
 					<a class="navbar-brand" href="#" aria-label="Dokodemo Kerja Logo">
-						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="" class="img-responsive center-block">
+						<img src="img/dokodemo-kerja/dokodemo-logo.svg" alt="" class="img-responsive center-block">
 					</a>
 					<div class="pull-left visible-xs">
 						<ul class="nav-lang">
@@ -220,9 +227,16 @@ if(isset($_POST['submitted']))
 						</div>
 						<br/>
 						<div class="hidden-xs"><br/><br/></div>
-						<video width="100%" height="300" controls poster="/jp/product/img/dokodemo-kerja/thumb-dokodemo.png">
+						<!-- <video width="100%" height="300" controls poster="/jp/product/img/dokodemo-kerja/thumb-dokodemo.png">
 						   <source src="/jp/product/img/dokodemo-kerja/dokodemo-kerja.webm" type="video/webm" />
-						</video><br/><br/>
+						</video> -->
+						<div class="embed-responsive embed-responsive-16by9 feature-video">
+							<iframe class="embed-responsive-item" width="811" height="417" title="Dokodemo Youtube Video"
+								src="https://www.youtube.com/embed/OWmF48Cq_fA" frameborder="0"
+								allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+								allowfullscreen></iframe>
+						</div>
+						<br/><br/>
 					</div>
 					<div class="col-md-6 text-justify">
 						<p>
@@ -248,10 +262,10 @@ if(isset($_POST['submitted']))
 						<div class="poster-main screenshot-slide ">
 						  <div class="poster-btn poster-prev-btn"></div>
 						  <ul class="poster-list">
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja"></li>
 							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss1.jpg" alt="Dokodemo Kerja"></li>
 							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss2.jpg" alt="Dokodemo Kerja"></li>
 							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss3.jpg" alt="Dokodemo Kerja"></li>
+							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja"></li>
 							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss5.jpg" alt="Dokodemo Kerja"></li>
 						  </ul>
 						  <div class="poster-btn poster-next-btn"></div>
@@ -454,7 +468,7 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
-						<img class="img-responsive center-block" src="img/dokodemo-kerja/dokodemo-logo.png" alt="Dokodemo-Kerja Logo"/>
+						<img class="img-responsive center-block" src="img/dokodemo-kerja/dokodemo-logo.svg" style="max-width: 170px" alt="Dokodemo-Kerja Logo"/>
 						<br/>
 						<div class="title anton">リモートワークで幸せに生産性高く働きましょう！</div>
 						<hr/>
@@ -484,7 +498,7 @@ if(isset($_POST['submitted']))
 				<div class="text-center">Dokodemo-Kerjaは初期費用なしで利用可能です。下のプランからご利用用途にあわせてお選びください。御社に合わせた特別なカスタマイズも可能ですのでお気軽にご相談ください。</div><br/>
 				<br/>
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-offset-2 col-md-4">
 						<div class="card-harga">
 							<div class="title-card text-center">ライトプラン</div>
 							<div style="padding:30px 0;border-bottom: 1px solid #fff;">
@@ -505,7 +519,7 @@ if(isset($_POST['submitted']))
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<!-- <div class="col-md-4">
 						<div class="card-harga">
 							<div class="title-card text-center">スタンダードプラン</div>
 							<div style="padding:30px 0;border-bottom: 1px solid #fff;">
@@ -525,7 +539,7 @@ if(isset($_POST['submitted']))
 								</ul>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<div class="col-md-4">
 						<div class="card-harga">
 							<div class="title-card text-center">エンタープライズプラン</div>
@@ -872,7 +886,7 @@ if(isset($_POST['submitted']))
 					<div class="col-sm-4 link-footer"  >
 <!--
  						<p>LOGIQUEは、ジャカルタでWebコンサルティング、Webサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。</p> -->
- 						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
+ 						<img src="img/dokodemo-kerja/dokodemo-logo.svg" alt="Logo">
 						<p style="padding-bottom: 0px; padding-top: 0px;">
 							Dokodemo-Kerjaは、従業員がリモートワークすることを可能にし、無駄な時間と労力を排除して生産性を向上することを助け、管理者の従業員を監視する工数も減らすことができるツールです。個社別のカスタマイズも可能ですのでお問い合わせお待ちしております。
 						</p>

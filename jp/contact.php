@@ -1,6 +1,5 @@
 <?php
 require_once("../form/fgcontactform.php");
-
 $formproc = new FGContactForm();
 
 //1. Add your email address here.
@@ -48,7 +47,7 @@ if(isset($_POST['submitted']))
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/contact.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/contact-us.png">
     <meta property="og:description"
         content="LOGIQUEはインドネシアや他の東南アジアの国で、クライアントにWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などデジタルマーケティングサービスを提供してきました。7年間の大企業向けの豊富な実績があります。デジタル領域のベンダー選定がインドネシアでの成功のキーとお考えであれば、LOGIQUEにご相談ください。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
@@ -653,7 +652,7 @@ if(isset($_POST['submitted']))
             </button>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <div class="backdrop-test"></div>
-                <div class="logique-nav in-jp">
+                <div class="logique-nav logique-nav--update in-jp">
                     <div class="margin-for-nav">
                         <div class="text-center">
                             <a href="index.php">
@@ -849,9 +848,7 @@ if(isset($_POST['submitted']))
                             <div class="col-sm-10 col-sm-offset-1 text-center mt-12">
                                 <br>
                                 <dt class="d-title" style="margin-top: 3%;text-align: left; line-height: 1.5;">
-                                    インドネシアで新規事業を立ち上げる、Webでブランディング・集客したい、オンラインで製品・サービスを売りたい、CRMシステム、
-                                    人事管理システムが必要だ、インドネシア語でSEO対策したい、インドネシア国内でインターネット広告を出稿したい、
-                                    ジャカルタ視察時にインドネシアネットビジネスについて聞きたいなど様々なお問い合わせをいただいています。お気軽に長谷川、吉次までご連絡ください。
+                                    インドネシアで新規事業を立ち上げる、Webでブランディング・集客したい、オンラインで製品・サービスを売りたい、CRMシステム、 人事管理システムが必要だ、インドネシア語でSEO対策したい、インドネシア国内でインターネット広告を出稿したい、 ジャカルタ視察時にインドネシアネットビジネスについて聞きたいなど様々なお問い合わせをいただいています。お気軽に吉次までご連絡ください。
                                 </dt>
                                 <!-- <hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;"> -->
                             </div>

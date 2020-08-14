@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/produk.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
     <meta property="og:description"
         content="LOGIQUE menawarkan berbagai produk digital untuk meningkatkan profit bisnis Anda, mulai dari software kerja remote, sistem laporan kerja karyawan, hingga sistem rekrutmen karyawan untuk HR. Hubungi sekarang juga jika Anda tertarik untuk mendapatkan layanan kami.">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -26,6 +26,7 @@
 </head>
 
 <body>
+    <?//php include './popup.php'; ?>
     <div class="wrapper wrapper--update-design">
         <!-- NAVIGATION -->
         <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -36,7 +37,7 @@
         </button>
         <div class="collapse navbar-collapse" id="myNavbar">
             <div class="backdrop-test"></div>
-            <div class="logique-nav">
+            <div class="logique-nav logique-nav--update">
                 <div class="margin-for-nav">
                     <div class="text-center">
                         <a href="index.php">
@@ -149,7 +150,7 @@
                         <hr class="title__yellow-line--center">
                         <p class="title__description">Untuk membantu perusahaan tumbuh dan beradaptasi dalam era digital, LOGIQUE mengembangkan dan menyediakan produk digital, seperti sistem manajemen SDM, untuk meningkatkan operasi SDM, produktivitas, dan potensi keuntungan dalam organisasi.</p>
                         <div class="product-list">
-                            <img class="product-list__img" src="/img/top/i-dokodemo.png" alt="dokodemo">
+                            <img class="product-list__img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
                             <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                             <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
                         </div>
@@ -280,7 +281,7 @@
                 </div>
             </section>
 
-            <section id="contact">
+            <!-- <section id="contact">
                 <div class="container__">
                     <div class="row">
                         <div class="col-sm-5">
@@ -309,7 +310,8 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
+            <?php include "./contact-logique-section.php"; ?>
 
         </div>
         <!-- END CONTENT -->

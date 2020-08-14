@@ -50,7 +50,7 @@ if(isset($_POST['submitted']))
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/produk/sugoi-saiyo.php">
-     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
      <meta property="og:description"
          content="Sugoi Saiyo merupakan sistem rekrutmen karyawan berbasis web dari LOGIQUE yang dapat memudahkan HR dalam melakukan seleksi dan evaluasi calon karyawan, sehingga perusahaan bisa mendapatkan kandidat yang tepat dan sesuai dengan waktu yang singkat.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -129,7 +129,7 @@ if(isset($_POST['submitted']))
          </button>
          <div class="collapse navbar-collapse" id="myNavbar">
              <div class="backdrop-test"></div>
-             <div class="logique-nav">
+             <div class="logique-nav logique-nav--update">
                  <div class="margin-for-nav">
                      <div class="text-center">
                          <a href="/">

@@ -12,7 +12,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
-	<meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
+	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
 	<meta property="og:description" content="LOGIQUE Digital Indonesia assisted JBA Indonesia in automotive, motorcycle and car, auction system development and creation, also mobile app development with a very complex and latest technology of web. Learn the case study here.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
@@ -65,7 +65,7 @@
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
-      <div class="logique-nav">
+      <div class="logique-nav logique-nav--update">
 					<div class="margin-for-nav">
 						<div class="text-center">
 							<a href="/en">
@@ -164,13 +164,14 @@
               <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">Teknologi yang digunakan</h2>
+              <h2 class="cs-subtitle">The Technology Applied</h2>
               <p class="cs-desc">
               To create JBA auction system, LOGIQUE uses the latest web technology that is used by professional web developers, local and abroad, namely NodeJS, SocketIO, and Android Native.
               <br><br>
               These three technologies have been widely recognized by programmers and professional web developers as the latest technology development systems that can help users to send data quickly and accurately.
               <br><br>
-              <a class="btn btn-cs" data-toggle="modal" href='#modal-id'>Detail</a>
+              NodeJS was chosen because LOGIQUE felt that in making an online auction system, a machine that is able to execute Javascript is needed to run quickly and has good performance. This is because the online JBA auction system involves many users and data so that a high-tech engine system is needed as a solution.<br><br>
+              <!-- <a class="btn btn-cs" data-toggle="modal" href='#modal-id'>Detail</a>
               <div class="modal fade" id="modal-id">
                 <div class="modal-dialog">
                   <div class="modal-content">
@@ -190,8 +191,13 @@
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> -->
               </p>
+            </div>
+            <div class="col-sm-6 col-sm-offset-6 col-md-12 col-md-offset-0">
+              SocketIO is also chosen as an intermediary media to accommodate all data shipments in real time so that the data obtained by users who are conducting online auctions in JBA is the actual real data.<br><br>
+              In order for users to conduct online auctions at JBA anytime and anywhere, LOGIQUE finally uses Android Native technology so that the online auction system can be used on smartphone users with better and faster performance so that the data obtained is also the actual real time data. <br><br>
+              All of these technologies are combined with Amazon Web Services (AWS) to provide scalable and reliable infrastructure that host all the important systems. AWS offers a broad set of services including compute, storage, database, analytics, and deployment services that can help businesses apply digital systems and applications faster with optimised costs. JBA and other LOGIQUE customers trust the scalability, security, or dependability of AWS to ensure their applications and digital businesses run smoothly. <br><br><br class="visible-md-visible-lg"><br class="visible-md-visible-lg">
             </div>
           </div>
         </section>

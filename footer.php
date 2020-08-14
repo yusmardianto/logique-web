@@ -17,6 +17,75 @@ footer {
 .tahap-pemesanan-2 {
     background-color: #ffcd38;
 }
+
+#PureChatWidget.purechat.purechat-bottom-right {
+    right: 20px !important;
+    bottom: 20px !important;
+}
+
+#PureChatWidget {
+    transition: all ease-in-out .25s !important;
+}
+
+#PureChatWidget.purechat .purechat-collapsed .purechat-widget-header {
+    min-height: 55px !important;
+}
+
+#PureChatWidget.purechat.purechat-style-classic {
+    border: none !important;
+}
+
+#PureChatWidget.purechat .purechat-content-wrapper {
+    background-color: #f1f1f1 !important;
+}
+
+#PureChatWidget.purechat .purechat-card {
+    background-color: #fff !important;
+}
+
+#PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse {
+    bottom: 70px !important;
+}
+
+#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right,
+#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left {
+    bottom: -60px !important;
+}
+
+#PureChatWidget.purechat .purechat-widget-header .purechat-btn,
+#PureChatWidget.purechat .purechat-widget-header .purechat-btn.purechat-btn-active,
+#PureChatWidget.purechat .purechat-widget-header .purechat-btn:hover {
+    box-shadow: none !important;
+}
+
+.purechat-widget-title__arrow.--hide {
+    display: none !important;
+}
+
+@media (max-width: 991.98px) {
+    #PureChatWidget {
+        width: 200px !important;
+    }
+    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom,
+    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-collapsed.purechat-bottom,
+    #PureChatWidget.purechat.purechat-bottom-right {
+        left: unset !important;
+        right: 50% !important;
+        transform: translateX(50%) !important;
+    }
+    #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right,
+    #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left,
+    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom {
+        bottom: -65px !important;
+    }
+    #PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse,
+    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom .purechat-btn-collapse {
+        bottom: 70px !important;
+        right: unset !important;
+        left: 45% !important;
+        transform: translateX(-50%) !important;
+    }
+}
 </style>
 <footer class="content-wrapper__ bg--footer footer-section">
     <!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
@@ -124,7 +193,7 @@ footer {
                                         <ul>
                                             <li><a href="/layanan/pembuatan-web-karir.php" target="_blank"> Pembuatan Website
                                                     Career</a> </li>
-                                            <li><a href="/layanan/pembuatan-web-klinik-gigi-2.php" target="_blank"> Website Klinik
+                                            <li><a href="/layanan/pembuatan-web-klinik-gigi.php" target="_blank"> Website Klinik
                                                     Gigi </a></li>
                                         </ul>
                                     </li>
@@ -273,3 +342,74 @@ $('.map-container')
     var updatedYear = new Date().getFullYear();
     $('.copyrightYear').html(updatedYear);
 </script>
+
+<!-- override purechat styling -->
+<script>
+    $(function() {
+        purechatApi.on('chatbox:ready', function (args) {
+            $('#PureChatWidget').attr('style', function(i,s) { return (s || '') + 'width: 200px !important; min-width: 170px !important;' });
+            $('.purechat-widget-title').append('<img src="/img/arrow-up.svg" style="padding-right: 7px !important;" class="purechat-widget-title__arrow"/>');            
+        });
+        purechatApi.on('chatbox:expand', function (args) {
+            $('#PureChatWidget').css('width', '');
+            $('#PureChatWidget').css('min-width', '');
+            $('#PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-expanded').attr('style', function(i,s) { return (s || '') + 'left: 50% !important;transform: translateX(-50%) !important; right: unset !important; width: 90% !important;' });
+            $('.purechat-widget-title__arrow').addClass('--hide');
+        });
+        purechatApi.on('chatbox:collapse', function (args) {
+            setTimeout(() => {
+                $('#PureChatWidget').attr('style', function(i,s) { return (s || '') + 'width: 200px !important; min-width: 170px !important;' });
+                $('.purechat-widget-title__arrow').removeClass('--hide');
+            }, 50);
+        });
+    })
+</script>
+
+<!-- AD POPUP -->
+<!-- <script>
+    function closePopup() {
+        $('.dokodemo-popup').toggle();
+    }
+    $('.dokodemo-popup#dokodemoSeminar, .dokodemo-popup').click(function() {
+        closePopup()
+    });
+    $(document).keyup(function(e) {
+        if (e.key === "Escape") { // escape key maps to keycode `27`
+            closePopup()
+        }
+    });
+</script> -->
+
+<!-- MULTI DROPDOWN -->
+<script>
+$(document).ready(function() {
+    $('.dropdown-submenu .dropdown-submenu__item').on("mouseover", function(e) {
+        $('.dropdown-menu.show').removeClass("show");
+        $(this).next('ul').addClass("show");
+        e.stopPropagation();
+        e.preventDefault();
+    });
+    $('body').on("click", function(e) {
+        $('.dropdown-menu.show').removeClass("show");
+    });   
+});
+</script>
+
+<!-- MEGAMENU -->
+<script>
+    $(document).ready(function() {
+    $('.megamenu-btn').on("click", function(e) {
+        $('.mega-menu').toggleClass("d-flex");
+        setTimeout(() => {$('.mega-menu').toggleClass("--show")}, 5);
+        $(this).children('a').children("span.caret.--sm").toggleClass("--yellow");
+        e.stopPropagation();
+        e.preventDefault();
+    });
+    $('body').on("click", function(e) {
+        $('.mega-menu.--show').removeClass("--show");
+        setTimeout(() => {$('.mega-menu.d-flex').removeClass("d-flex");}, 5);
+        $('.caret.--sm.--yellow').removeClass("--yellow");
+    });   
+});
+</script>
+<!-- END MEGAMENU -->
