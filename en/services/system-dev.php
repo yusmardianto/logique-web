@@ -432,7 +432,7 @@
                         <div class="col-sm-6 ">
                             <div class="img-slide-content">
                             <div class="sliderimg-studycase">
-                                <div class="slider-item" style="background-image: url(pembuatan-sistem-web/img/newlayout/jba-img.jpg);">
+                                <div class="slider-item" style="background-image: url(assets/img/img-systemdev/newlayout/jba-img.jpg);">
                                     <div class="company-studycase">
                                         <h3>JBA Indonesia <br>Auction Management System</h3>
                                      JBA is the largest car and motorcycle auction company in Indonesia.
@@ -446,7 +446,7 @@
                                         Learn more
                                     </a>
                                 </div>
-                                <div class="slider-item" style="background: url(pembuatan-sistem-web/img/newlayout/sinarmas-img.jpg);">
+                                <div class="slider-item" style="background: url(assets/img/img-systemdev/newlayout/sinarmas-img.jpg);">
                                     <div class="company-studycase">
                                         <h3>Sinarmas Land</h3>
                                         <div>Online Recruitment system</div>
@@ -457,7 +457,7 @@
                                     </div>
                                     
                                 </div>
-                                <div class="slider-item" style="background: url(pembuatan-sistem-web/img/newlayout/weeo-img.jpg);">
+                                <div class="slider-item" style="background: url(assets/img/img-systemdev/newlayout/weeo-img.jpg);">
                                     <div class="company-studycase">
                                         <h3>Weeo</h3>
                                         <div>Real time vehicle monitoring mobile apps</div>
