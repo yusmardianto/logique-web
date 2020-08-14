@@ -331,30 +331,32 @@ if(isset($_POST['submitted']))
             </div>
         </div>
     </section>
-    <section class="division" style="display: none;">
+    <section class="division">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p class="division-title">Ingin Membuat Website Berkualitas Terbaik. Hubungi LOGIQUE Sekarang!</p>
+                    <p class="division-title">Dukungan yang LOGIQUE Berikan dalam Pembuatan Website</p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-4">
                     <div class="division-container">
-                        <p class="title">Proses Pembuatan Website dengan “One-Stop”</p>
-                        <p class="content">Anda butuh website dalam Bahasa Indonesia, Inggris dan Jepang? LOGIQUE siap membantu Anda untuk membuatnya dalam ketiga bahasa tersebut sekaligus dengan implementasi SEO. Kami juga dapat membuat konversi desain atau pun form persetujuan, pemeliharaan website dan pemasaran digital.</p>
+                        <p class="title">Layanan Pembuatan Website “One-Stop”</p>
+                        <p class="content">LOGIQUE memberikan dukungan penuh mulai dari Perencanaan dan Konsutasi, Desain, Pemrograman, Pengoperasian atau Pengelolaan Website hingga Pemasaran Digital yang mencakup pembuatan konten, peningkatan SEO, dan pengelolaan iklan digital.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="division-container">
                         <p class="title">Kualitas Terbaik, Teknologi Terbaru dan Tingkat Keamanan Tinggi</p>
-                        <p class="content">Kami berpengalaman dalam mengimplementasikan PWA, AMP dan berbagai fungsi yang kompleks untuk berbagai situs web apa pun. Website akan langsung segera diaktifkan setelah dilakukan pemeriksaan keamanan oleh para pakar keamanan website kami sehingga menghasilkan web yang tangguh dengan fungsi yang ringan.</p>
+                        <p class="content">
+                        Kami berpengalaman dan terus menerus terupdate dalam pengimplementasian teknologi baru seperti PWA dan AMP yang dapat memberikan manfaat lebih untuk Anda, termasuk pengembangan berbagai fungsi kompleks untuk berbagai situs web apa pun. Sebelum di rilis, Website Anda terlebih dahulu akan dilakukan pemeriksaan oleh para pakar keamanan website kami sehingga lebih terjamin keamanannya.
+                        </p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="division-container">
                         <p class="title">Cepat dan Fleksibel</p>
-                        <p class="content">Kami terbiasa bekerja dengan cepat, karena kami mengerti betapa berartinya waktu bagi Anda. Kami bekerja secara fleksibel dan menerima segala bentuk perubahan yang Anda inginkan. Jika Anda ingin melakukan penyesuaian situs web, kami siap membantu Anda.</p>
+                        <p class="content">Kami terbiasa bekerja dengan cepat karena kami mengerti betapa berartinya waktu bagi Anda. Selain itu kami juga dapat bekerja secara fleksibel untuk memenuhi kebutuhan yang dinamis atau perubahan berkelanjutan pada website Anda dengan menerapkan skema pengembangan khusus. Jika Anda ingin mengupdate atau melakukan penyesuaian pada situs web, kami siap membantu Anda.</p>
                     </div>
                 </div>
             </div>
@@ -368,23 +370,21 @@ if(isset($_POST['submitted']))
                     <div class="analysis-part flow-part">
                         <img src="assets/img/img-webdev/feature/authentication.svg" alt="アクセス解析・課題抽出">
                         <h3>Analisis dan Evaluasi</h3>
-                        <p>Anda sudah punya website dan berkeinginan untuk memperbaikinya? Kami siap untuk melakukan analisis dan mengevaluasi situasi situs web Anda saat ini. Kami akan mengevaluasi mengapa trafik website Anda sangat rendah, atau apakah hal ini berkaitan dengan struktur atau tidak. Tim kami merupakan para ahli dalam menganalisis kinerja website Anda secara keseluruhan dan mencarikan solusi dari permasalahan yang ada.</p>
+                        <p>Anda sudah punya website dan berkeinginan untuk memperbaikinya? Kami siap untuk melakukan analisis dan mengevaluasi kondisi website Anda saat ini. Contoh analisa yang biasanya kami lakukan adalah terkait mengapa jumlah kunjungan website Anda sangat rendah dan apakah ada faktor-faktor internal di dalam website seperti struktur halaman / url yang mempengaruhi kondisi tersebut. Tim kami ahli dalam menganalisis kinerja website Anda secara keseluruhan dan mampu memberikan solusi dari permasalahan yang ada.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="plan-part flow-part">
                         <img src="assets/img/img-webdev/feature/web-development.png" alt="プランニング">
                         <h3>Perencanaan</h3>
-                        <p>Untuk mencapai tujuan yang Anda inginkan dari situs web, kami akan memberikan solusi kepada Anda bagaimana seharusnya situs web Anda, memberikan saran kepada Anda tentang apa yang harus dilakukan dan memberikan beberapa hal yang perlu ditingkatkan agar mendapatkan hasil yang berkepanjangan. Bentuk dukungan pada situs web Anda tentu sedikit berbeda, tergantung dari sistem internal situs web Anda.
-                        </p>
+                        <p>Untuk mencapai tujuan yang Anda inginkan dari pengembangan sebuah website diperlukan perencanaan yang baik. Tim konsultan kami secara dekat akan berinteraksi dengan Anda dalam mengumpulkan semua kebutuhan, memformulasikannya kedalam kerangka halaman (wireframe) dan dokumen-dokumen pendukung lainnya yang diperlukan. Hal ini akan membuat pelaksanaan pengembangan website dapat berjalan lancar dan sesuai ekspektasi.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="seo-part flow-part">
                         <img src="assets/img/img-webdev/feature/searchseo.png" alt="SEO / SEM">
                         <h3>SEO / SEM</h3>
-                        <p>Hanya dengan menerbitkannya, sebuah website tidak dapat mendapatkan banyak traffic. Para ahli di perusahaan kami sangat mengenal dan memahami langkah-langkah dalam melakukan penerapan SEO di Indonesia sehingga akan membuat situs web Anda dapat terlihat pada halaman pencarian organic ketika kueri yang relevan dengan bisnis Anda dimasukkan ke dalam mesin pencari. Kami juga dapat melakukan strategi SEM untuk meningkatkan trafik secara cepat menggunakan kata kunci yang efektif.
-                        </p>
+                        <p>Hanya dengan membuat dan merilis website tidak serta merta membuat website tersebut mendapatkan banyak kunjungan. Para ahli di perusahaan kami sangat mengenal dan memahami langkah-langkah dalam melakukan penerapan SEO di Indonesia sehingga akan membuat situs web Anda dapat terlihat pada halaman pencarian organic ketika kueri yang relevan dengan bisnis Anda dimasukkan ke dalam mesin pencari. Kami juga dapat melakukan strategi SEM untuk meningkatkan trafik secara cepat menggunakan kata kunci yang efektif.</p>
                     </div>
                 </div>
             </div>
@@ -393,22 +393,21 @@ if(isset($_POST['submitted']))
                     <div class="info-part flow-part">
                         <img src="assets/img/img-webdev/feature/learning.png" alt="情報再構成・改善">
                         <h3>Peningkatan dan Restrukturisasi</h3>
-                        <p>Kami tidak selalu membuat ulang situs web Anda dari awal karena masalah rumit yang ditemukan. Sebab, hal tersebut terkadang membutuhkan banyak pekerjaan serta biaya yang harus dikeluarkan. Untuk kasus seperti ini, kami akan menawarkan kepada Anda solusi terbaik dalam mengatur, mengumpulkan dan meningkatkan situs web sesuai dengan budget Anda serta berapa lama waktu yang Anda inginkan.
-                        </p>
+                        <p>Jika Anda telah memiliki sebuah website, kami tidak selalu menyarankan untuk membuat ulang website Anda dari awal karena masalah-masalah yang ditemukan. Sebab, hal tersebut terkadang membutuhkan banyak pekerjaan serta biaya yang harus dikeluarkan. Untuk kasus seperti ini, kami akan menawarkan kepada Anda solusi terbaik dalam mengatur dan meningkatkan website sesuai dengan budget Anda serta berapa lama waktu yang Anda inginkan.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="multiligual-part flow-part">
                         <img src="assets/img/img-webdev/feature/interpreter.png" alt="多言語Webサイト制作運用">
                         <h3>Membuat dan Mengoperasikan Website Multi Bahasa</h3>
-                        <p>Kami dapat membuat dan mengoperasikan situs web dalam Bahasa Indonesia, Bahasa Inggris dan Bahasa Jepang. Kami mengerti dan memahami bahwa konten yang kreatif dan tersegmentasi dengan baik sangat penting bagi situs web untuk menjangkau dan melibatkan banyak kalangan.</p>
+                        <p>Kami dapat membuat dan mengoperasikan website dalam Bahasa Indonesia, Bahasa Inggris, dan Bahasa Jepang. Kami mengerti dan memahami bahwa konten yang kreatif dan tersegmentasi dengan baik sangat penting untuk menjangkau target pasar yang diinginkan.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="sosmed-part flow-part">
                         <img src="assets/img/img-webdev/feature/social-media.png" alt="SNS運用">
                         <h3>Pengoperasian Media Sosial</h3>
-                        <p>Media sosial dapat memberi pengaruh yang sangat kuat dalam meningkatkan keterlibatan para pelanggan Anda. Media sosial juga dapat membantu mendukung trafik pengunjung dari media sosial ke situs web. Kami memberikan layanan dalam mengoperasikan media sosial, seperti Facebook dan Instagram untuk kepentingan bisnis Anda baik dalam Bahasa Indonesia, Bahasa Inggris dan Bahasa Jepang.</p>
+                        <p>Media sosial dapat memberi pengaruh yang sangat kuat dalam meningkatkan hubungan bisnis dengan para pelanggan Anda. Selain itu, media sosial juga dapat membantu mendukung peningkatan jumlah pengunjung website Anda. Kami memberikan layanan dalam mengoperasikan media sosial, seperti Facebook dan Instagram untuk kepentingan bisnis Anda baik dalam Bahasa Indonesia, Bahasa Inggris, dan Bahasa Jepang.</p>
                     </div>
                 </div>
             </div>
@@ -417,21 +416,21 @@ if(isset($_POST['submitted']))
                     <div class="design-part flow-part">
                         <img src="assets/img/img-webdev/feature/graphic-design.png" alt="デザイン制作">
                         <h3>Pembuatan Desain</h3>
-                        <p>Kami merancang UI yang ramah bagi pengguna serta ramah bagi perubahan sistem yang berasal dari situs web Anda. Tim desain kami akan menyarankan kepada Anda berbagai jenis desain yang berbeda sesuai dengan kebutuhan Anda.</p>
+                        <p>Kami dapat merancang UI yang sesuai dengan tren desain website terkini, yang ramah bagi pengguna, dan sesuai dengan kebutuhan Anda. Tim desain kami dapat menyarankan kepada Anda berbagai alternatif desain yang berbeda untuk Anda pilih.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="markup-part flow-part">
                         <img src="assets/img/img-webdev/feature/css.png" alt="マークアップ・コーディング">
                         <h3>Markup Coding</h3>
-                        <p>Anda juga dapat meminta kepada kami hanya melakukan pengodean HTML/ CSS bagi situs web Anda. Tim developer kami akan mengejar ketertinggalan teknologi coding pada situs web Anda dan menggantinya dengan JavaScript dan teknologi coding front-end terbaru.</p>
+                        <p>Anda juga dapat meminta layanan khusus hanya untuk implementasi tampilan website dengan pemrograman HTML/CSS. Tim developer kami dapat membantu Anda mengejar ketertinggalan teknologi pemrograman pada situs web Anda atau mengkombinasikannya dengan JavaScript.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="responsive-part flow-part">
                         <img src="assets/img/img-webdev/feature/responsive.png" alt="マルチデバイス対応">
                         <h3>Dukungan Multi Perangkat</h3>
-                        <p>Kami dapat membuat situs yang mampu dioptimalkan dan responsive untuk seluruh jenis perangkat, seperti ponsel, smartphone, dan tablet. Kami telah mempunyai banyak pengalaman untuk membuat situs web yang ramah seluler dan AMP.</p>
+                        <p>Kami dapat membuat situs yang dioptimalkan dan responsif untuk seluruh jenis perangkat, seperti ponsel, tablet, dan desktop. Kami juga telah mempunyai banyak pengalaman dalam membuat situs web yang berorientasi pada pengguna mobile dan pengaplikasian AMP.</p>
                     </div>
                 </div>
             </div>
@@ -440,21 +439,21 @@ if(isset($_POST['submitted']))
                     <div class="programing-part flow-part">
                         <img src="assets/img/img-webdev/feature/web-programming.png" alt="プログラミング">
                         <h3>Fitur Pemrograman Khusus</h3>
-                        <p>Anda dapat meminta fitur pemrograman apapun yang Anda inginkan untuk ditambahkan ke dalam situs web Anda, seperti Parallax motions yang mungkin dapat terhubung dengan JavaScript, HTML5, CSS3 dan lain-lain. Kami akan mengusulkan pengembangan situs web yang menarik para pengguna yang telah disesuaikan dengan kebutuhan Anda.</p>
+                        <p>Anda dapat meminta fitur pemrograman apapun yang Anda inginkan untuk ditambahkan ke dalam situs web Anda, seperti Parallax motions yang dapat diimplementasi dengan kombinasi JavaScript, HTML5, CSS3 dan lain-lain. Kami akan mengusulkan pengembangan situs web yang menarik untuk para pengguna yang telah disesuaikan dengan kebutuhan Anda.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="system-part flow-part">
                         <img src="assets/img/img-webdev/feature/control-panel.png" alt="システム構築">
-                        <h3>Kontruksi Sistem</h3>
-                        <p>Mengembangkan sistem CMS, sistem web dan sistem bisnis yang dibangun dan dioperasikan dengan berbagai sistem melalui kerja sama yang baik dari situs web. Kami ahli dalam mengembangkan situs web melalui kerangka kerja PHP.</p>
+                        <h3>Pembuatan Sistem Berbasis Web</h3>
+                        <p>LOGIQUE dapat membantu Anda mengembangkan sistem berbasis web mulai dari manajemen konten (CMS), fungsi-fungsi khusus yang dibuat sesuai dengan kebutuhan, hingga integrasi dengan sistem-sistem eksternal menggunakan Web Service (API). Kami ahli dalam mengembangkan sistem berbasis web menggunakan Laravel, .Net, NodeJS, dan lain-lain.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="apps-part flow-part">
                         <img src="assets/img/img-webdev/feature/application.png" alt="モバイルアプリ対応">
-                        <h3>PWA sebagai Aplikasi Seluler</h3>
-                        <p>Kami dapat mengembangkan aplikasi seluler sebagai aplikasi web layaknya sebuah aplikasi asli dengan PWA. Pemberitahuan serta operasi offline juga dapat dilakukan melalui PWA.</p>
+                        <h3>Pengembangan Website Berteknologi PWA</h3>
+                        <p>Kami berpengalaman dan dapat membantu Anda mengembangkan website dengan teknologi PWA yang menghasilkan sebuah aplikasi web yang berlaku layaknya sebuah aplikasi mobile. Beberapa fitur menarik yang terdapat dalam teknologi PWA di antaranya adalah Installasi dengan Add to Homescreen, Push Notification, dan Mode Offline.</p>
                     </div>
                 </div>
             </div>
