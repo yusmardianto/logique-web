@@ -427,7 +427,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         <div class="col-sm-6 ">
                             <div class="img-slide-content">
                             <div class="sliderimg-studycase">
-                                <div class="slider-item" style="background-image: url(pembuatan-sistem-web/img/newlayout/jba-img.jpg);">
+                                <div class="slider-item" style="background-image: url(assets/img/img-systemdev/newlayout/jba-img.jpg);">
                                     <div class="company-studycase">
                                         <h3>JBA Indonesia <br>Sistem Manajemen Lelang</h3>
                                      Perusahaan lelang mobil dan motor terbesar di Indonesia.
@@ -441,7 +441,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                         Pelajari lebih lanjut
                                     </a>
                                 </div>
-                                <div class="slider-item" style="background: url(pembuatan-sistem-web/img/newlayout/sinarmas-img.jpg);">
+                                <div class="slider-item" style="background: url(assets/img/img-systemdev/newlayout/sinarmas-img.jpg);">
                                     <div class="company-studycase">
                                         <h3>Sinarmas Land</h3>
                                         <div>Sistem Rekrutmen Online </div>
@@ -452,7 +452,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     </div>
                                     
                                 </div>
-                                <div class="slider-item" style="background: url(pembuatan-sistem-web/img/newlayout/weeo-img.jpg);">
+                                <div class="slider-item" style="background: url(assets/img/img-systemdev/newlayout/weeo-img.jpg);">
                                     <div class="company-studycase">
                                         <h3>Weeo</h3>
                                         <div>Aplikasi Seluler Monitoring Kendaraan</div>
