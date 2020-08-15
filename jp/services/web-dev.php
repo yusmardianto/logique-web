@@ -578,55 +578,76 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
             <div class="row">
                 <div class="col-md-12">
                     <div class="carousel slide multi-item-carousel" id="theCarousel">
-                        <div class="carousel-inner">
-                            <div class="item active">
-                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                    <div class="img-container">
-                                        <img src="assets/img/img-webdev/article/1.png" class="img-responsive">
-                                    </div>
-                                    <div class="content-container">
-                                        <p class="title">Going Wireless With Your Headphones</p>
-                                        <p class="content">The widespread use of the internet has now provided many vectors of infiltration for hackers. Indeed, cybercrime is a growing industry and is not only a threat which can cost companies millions of dol</p>
-                                        <p class="date">30 Apr 2020 | By Yossi</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                    <div class="img-container">
-                                        <img src="assets/img/img-webdev/article/2.png" class="img-responsive">
-                                    </div>
-                                    <div class="content-container">
-                                        <p class="title">Going Wireless With Your Headphones</p>
-                                        <p class="content">The widespread use of the internet has now provided many vectors of infiltration for hackers. Indeed, cybercrime is a growing industry and is not only a threat which can cost companies millions of dol</p>
-                                        <p class="date">30 Apr 2020 | By Yossi</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                    <div class="img-container">
-                                        <img src="assets/img/img-webdev/article/1.png" class="img-responsive">
-                                    </div>
-                                    <div class="content-container">
-                                        <p class="title">Going Wireless With Your Headphones</p>
-                                        <p class="content">The widespread use of the internet has now provided many vectors of infiltration for hackers. Indeed, cybercrime is a growing industry and is not only a threat which can cost companies millions of dol</p>
-                                        <p class="date">30 Apr 2020 | By Yossi</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                    <div class="img-container">
-                                        <img src="assets/img/img-webdev/article/2.png" class="img-responsive">
-                                    </div>
-                                    <div class="content-container">
-                                        <p class="title">Going Wireless With Your Headphones</p>
-                                        <p class="content">The widespread use of the internet has now provided many vectors of infiltration for hackers. Indeed, cybercrime is a growing industry and is not only a threat which can cost companies millions of dol</p>
-                                        <p class="date">30 Apr 2020 | By Yossi</p>
-                                    </div>
-                                </div>
-                            </div>
+                         <div class="carousel-inner">
+                             
+                             <?php  
+                                    function shorten_string($string, $wordsreturned)
+                                {
+                                  $retval = $string;
+                                  $string = preg_replace('/(?<=\S,)(?=\S)/', ' ', $string);
+                                  $string = str_replace("\n", " ", $string);
+                                  $array = explode(" ", $string);
+                                  if (count($array)<=$wordsreturned)
+                                  {
+                                    $retval = $string;
+                                  }
+                                  else
+                                  {
+                                    array_splice($array, $wordsreturned);
+                                    $retval = implode(" ", $array)." ...";
+                                  }
+                                  return $retval;
+                                } 
+                                    $url = file_get_contents('https://www.logique.co.id/blog/wp-json/wp/v2/posts/?tags=100&per_page=5&_embed');
+                                
+                                        $x = 0;
+
+                                       $remote_posts = json_decode( $url ); 
+                                       // printf('<pre>'); 
+                                       //  var_dump($url);
+                                       // printf('</pre>');
+                                        foreach( $remote_posts as $remote_post ) { 
+                                            $thumb_full_url = '';
+                                            $thumb_url = '';
+
+                                            if ( ! empty( $remote_post->featured_media ) && isset( $remote_post->_embedded ) ) {
+                                                $thumb_full_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->source_url;
+                                                $thumb_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->media_details->sizes->medium->source_url;
+                                            }
+                                            if($x==0) { 
+                                            ?>
+                                            <div class="item active ">
+                                             <?php } else{
+                                                echo ' <div class="item ">';
+                                             }
+
+                                             ?> 
+                                                    <div class="col-xs-12 col-sm-6 col-md-6 article-container">
+                                                        <div class="img-container">
+                                                            <img src="<?=$thumb_full_url?>" class="img-responsive">
+                                                        </div>
+                                                        <div class="content-container">
+                                                            <p class="title"><?=$remote_post->title->rendered?></p>
+                                                            <p class="content"><?php 
+                                                            $array = preg_replace("/<.+>/sU", "", $remote_post->excerpt->rendered);
+                                                            $the_str =  mb_substr($array, 0, 80);  
+                                                            echo $the_str.'...';
+                                                             ?></p>
+                                                            <p class="date"><?php 
+                                                            $tanggal = date('d F Y', strtotime($remote_post->date));
+                                                             
+                                                            echo $tanggal  ;  ?> | By <?php 
+                                                              echo $remote_post->_embedded->author[0]->name;
+                                                            ?></p>
+                                                        </div>
+                                                    </div>
+                                               
+                                            </div>
+                                             
+                                       <?php  $x++;
+                                   }
+                                     
+                                ?> 
                         
                         <!--  Example item end -->
                         </div>
