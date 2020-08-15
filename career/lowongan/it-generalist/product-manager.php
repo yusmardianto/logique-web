@@ -321,7 +321,7 @@
                   </a>
                 </div>
                 <div class="col-xs-12 col-md-4">
-                  <a href="/produk/nippo.php">
+                  <a href="/produk/nippo.php"  target="_blank">
                     <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo" style="max-height: 33px;"/>
                   </a>
                 </div>

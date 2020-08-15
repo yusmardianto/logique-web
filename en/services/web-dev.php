@@ -1,4 +1,4 @@
-﻿ <?php
+﻿<?php
 require_once("assets/form/fgcontact_webdev.php");
 $formproc = new FGContactForm();
 
