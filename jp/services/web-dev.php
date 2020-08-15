@@ -578,7 +578,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
             <div class="row">
                 <div class="col-md-12">
                     <div class="carousel slide multi-item-carousel" id="theCarousel">
-                         <div class="carousel-inner">
+                        <div class="carousel-inner">
                              
                              <?php  
                                     function shorten_string($string, $wordsreturned)
@@ -627,7 +627,9 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                                             <img src="<?=$thumb_full_url?>" class="img-responsive">
                                                         </div>
                                                         <div class="content-container">
+                                                            <a href="<?=$remote_post->link?>"  target="_blank">
                                                             <p class="title"><?=$remote_post->title->rendered?></p>
+                                                            </a>
                                                             <p class="content"><?php 
                                                             $array = preg_replace("/<.+>/sU", "", $remote_post->excerpt->rendered);
                                                             $the_str =  mb_substr($array, 0, 80);  
