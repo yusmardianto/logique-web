@@ -665,7 +665,9 @@ if(isset($_POST['submitted']))
                                                             <img src="<?=$thumb_full_url?>" class="img-responsive">
                                                         </div>
                                                         <div class="content-container">
-                                                            <p class="title"><?=$remote_post->title->rendered?></p>
+                                                            <a href="<?=$remote_post->link?>" target="_blank">
+                                                                <p class="title"><?=$remote_post->title->rendered?></p>
+                                                            </a>
                                                             <p class="content"><?php 
                                                             $array = preg_replace("/<.+>/sU", "", $remote_post->excerpt->rendered);
                                                              $array =  shorten_string($array, 25); 
