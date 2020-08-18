@@ -284,8 +284,9 @@
     background: #feca38;
     padding: 20px 37px 20px 20px;
     height: 300px;
-    margin-top: 78px;
-    margin-right: 60px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
   }
   .card2 {
     background: #feca38;
@@ -1332,7 +1333,7 @@
 }
 .content-wrapper__ .bg-section .main-section .content {
     color: rgb(0, 0, 0);
-    font-size: 16px;
+    font-size: 15px;
     font-family: "Raleway Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
@@ -1355,7 +1356,7 @@
 }
 .about .about-content {
     color: rgb(81, 81, 81);
-    font-size: 13px;
+    font-size: 14px;
     font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
@@ -1381,7 +1382,7 @@
 }
 .flow .flow-content {
     color: rgb(81, 81, 81);
-    font-size: 13px;
+    font-size: 14px;
     font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
@@ -1393,17 +1394,17 @@
     background: rgb(251, 201, 53);
     border-radius: 4px;
     color: rgb(0, 0, 0);
-    font-size: 24px;
+    font-size: 21px;
     font-family: "Raleway Medium", sans-serif;
     font-weight: 600;
     text-align: left;
-    padding: 13px 20px;
+    padding: 15px 20px;
     letter-spacing: 0px;
     width: 488px;
 }
 .flow .flow-button img {
     float: right;
-    margin-top: 10px;
+    margin-top: 7px;
 }
 .discuss {
     padding-top: 5px;
@@ -1414,11 +1415,11 @@
     font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .discuss .discuss-content {
     color: rgb(81, 81, 81);
-    font-size: 13px;
+    font-size: 14px;
     font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
@@ -1447,7 +1448,7 @@
 }
 .announce .announce-content .announce-p {
     color: rgb(81, 81, 81);
-    font-size: 13px;
+    font-size: 15px;
     font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     text-align: center;
@@ -1507,7 +1508,7 @@
 }
 .portofolio .content {
     color: rgb(81, 81, 81);
-    font-size: 13px;
+    font-size: 15px;
     font-family:"M Plus 1p Medium", sans-serif;
     font-weight: 500;
     text-align: center;
@@ -1578,6 +1579,7 @@
 }
 .strategic .strategic-exp {
     margin-top: 40px;
+    display: none;
 }
 .strategic .strategic-exp p {
     color: rgb(0, 0, 0);
@@ -1697,7 +1699,7 @@
     width: 100%;
     height: auto;
     vertical-align: middle;
-    margin-top: 50px;
+    margin-top: 70px;
     padding-left: 20px;
 }
 .tahap-pemesanan {
@@ -1710,7 +1712,19 @@
     padding-bottom: 30px;
 }
 .tahap-pemesanan-2 .card2 .title-custom-p {
-    font-size: 20px;
+    font-size: 18px;
+}
+.tahap-pemesanan-2.first-row .card2 {
+  min-height: 770px;
+  max-height: 800px;
+}
+.tahap-pemesanan-2.second-row .card2 {
+  min-height: 540px;
+  max-height: 600px;
+}
+.tahap-pemesanan-2.third-row .card2 {
+  min-height: 680px;
+  max-height: 720px;
 }
 .domore {
     padding-bottom: 50px;
@@ -1729,7 +1743,7 @@
 }
 .domore .content-container .title {
     color: rgb(0, 0, 0);
-    font-size: 24px;
+    font-size: 18px;
     font-family:"M Plus 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 1.33px;
@@ -1773,6 +1787,10 @@
     background: none;
     padding: 0;
     margin-bottom: 30px;
+    display: none;
+}
+.gallery .gallery-container {
+    display: none;
 }
 .gallery .gallery-container .gallery-title {
     color: rgb(0, 0, 0);
@@ -1798,7 +1816,7 @@
     height: auto;
 }
 .gallery .ads-container {
-    margin-top: 84px;
+    margin-top: 0;
 }
 .gallery .ads-container img {
     width: 100%;
@@ -1961,6 +1979,7 @@
     .web-service-flow {
         padding-top: 0;
         padding-bottom: 0;
+        margin-top: 30px;
     }
     .flow-part {
         min-height: 100px;
@@ -2054,13 +2073,14 @@
     }
     .card {
         margin-right: 0;
+        padding: 20px;
     }
     .tahap-pemesanan-bg {
         padding-top: 15px;
     }
     .title-custom {
-        right: 0;
-        top: -10px;
+        left: 20px;
+        top: 0;
         font-size: 24px;
         width: 36px;
         height: 36px;
@@ -2070,16 +2090,28 @@
         background: none;
     }
     .tahap-pemesanan .card .title-custom-p {
-        margin-bottom: 15px;
+        margin-bottom: 0px;
     }
     .tahap-pemesanan .card .title-content-p {
-        padding: 0 10px;
+        padding: 0;
     }
     .tahap-pemesanan-2 {
         padding-top: 15px;
     }
+    .tahap-pemesanan-2.first-row .card2 {
+      min-height: 0;
+      max-height: 1000px;
+    }
+    .tahap-pemesanan-2.second-row .card2 {
+      min-height: 0;
+      max-height: 1000px;
+    }
+    .tahap-pemesanan-2.third-row .card2 {
+      min-height: 0;
+      max-height: 1000px;
+    }
     .tahap-pemesanan-2 .card2 .title-custom-p {
-        margin-bottom: 15px;
+        margin-bottom: 0;
         font-size: 15px;
     }
     .tahap-pemesanan-2 .card2 .title-content-p {
@@ -2114,7 +2146,7 @@
     }
     .domore .content-container .list {
         margin-bottom: 10px;
-        font-size: 13px;
+        font-size: 15px;
     }
     .domore .button-container p {
         font-size: 17px;
@@ -2301,6 +2333,7 @@
   }
   .division .division-container {
       margin-bottom: 20px;
+      min-height: 150px;
   }
   .web-service-flow {
       padding-top: 0;
@@ -2318,8 +2351,8 @@
       font-size: 16px;
   }
   .flow-part p {
-      font-size: 12px;
-      min-height: 150px;
+      font-size: 16px;
+      min-height: 100px;
   }
   .portofolio .container {
     width: auto;
@@ -2531,7 +2564,6 @@
   .lang-logo--update-design .list-inline {
       top: 10px;
       margin-top: 0;
-      right: 80px;
   }
   .nav-lp .navbar-toggle.collapsed {
       top: 5px;
@@ -2679,6 +2711,7 @@
   }
   .division .division-container {
       margin-bottom: 20px;
+      min-height: 100px;
   }
   .web-service-flow {
       padding-top: 0;
@@ -2748,7 +2781,7 @@
   }
   .strategic .strategic-list .strategic-content {
       font-size: 14px;
-      min-height: 120px;
+      min-height: 150px;
   }
   .service {
       padding-top: 0;
@@ -2827,6 +2860,7 @@
   .tahap-pemesanan-2 {
       padding-top: 15px;
   }
+  
   .tahap-pemesanan-2 .card2 .title-custom-p {
       margin-bottom: 15px;
   }
@@ -2940,8 +2974,9 @@
     }
     .content-wrapper__ .bg-section .main-section {
         position: relative;
-        margin-top: 20px;
-        padding: 0;
+        margin-top: 0;
+        padding: 20px 0;
+        background: #f0f0f0;
     }
     .content-wrapper__ .bg-section .main-section .col-sm-7 {
         width: 100%;
@@ -3033,10 +3068,12 @@
     }
     .division .division-container {
         margin-bottom: 20px;
+        min-height: 150px;
     }
     .web-service-flow {
         padding-top: 0;
         padding-bottom: 0;
+        margin-top: 30px;
     }
     .flow-part {
         min-height: 100px;
@@ -3138,7 +3175,7 @@
         margin-right: 0;
     }
     .tahap-pemesanan-bg {
-        height: 300px;
+        height: auto;
         padding-top: 15px;
     }
     .title-custom {
@@ -3162,6 +3199,18 @@
     }
     .tahap-pemesanan-2 .card2 .title-content-p {
         padding: 0 10px;
+    }
+    .tahap-pemesanan-2.first-row .card2 {
+      min-height: 0;
+      max-height: 800px;
+    }
+    .tahap-pemesanan-2.second-row .card2 {
+      min-height: 0;
+      max-height: 800px;
+    }
+    .tahap-pemesanan-2.third-row .card2 {
+      min-height: 0;
+      max-height: 800px;
     }
     .card2 {
         padding: 1em 0;
@@ -3325,6 +3374,7 @@
     }
     .division .division-container {
         margin-bottom: 20px;
+        min-height: 250px;
     }
     .web-service-flow {
         padding-top: 0;
@@ -3400,7 +3450,7 @@
         margin-right: 0;
     }
     .tahap-pemesanan-bg {
-        height: 300px;
+        height: auto;
         padding-top: 15px;
     }
     .title-custom {
@@ -3424,6 +3474,18 @@
     }
     .tahap-pemesanan-2 .card2 .title-content-p {
         padding: 0 10px;
+    }
+    .tahap-pemesanan-2.first-row .card2 {
+      min-height: 0;
+      max-height: 800px;
+    }
+    .tahap-pemesanan-2.second-row .card2 {
+      min-height: 0;
+      max-height: 800px;
+    }
+    .tahap-pemesanan-2.third-row .card2 {
+      min-height: 0;
+      max-height: 800px;
     }
     .card2 {
         padding: 1em 0;
@@ -3450,14 +3512,14 @@
         left: 0;
     }
     .domore .content-container .title {
-        font-size: 22px;
+        font-size: 18px;
     }
     .domore .content-container .list {
         margin-bottom: 10px;
         font-size: 13px;
     }
     .domore .button-container p {
-        font-size: 19px;
+        font-size: 18px;
     }
     .domore .button-container {
         margin-top: 25px;
