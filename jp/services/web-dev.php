@@ -271,7 +271,7 @@ if(isset($_POST['submitted']))
 予算の大小に関わらず定められたスコープの中で最良のWebを制作します。
 お客様のご要望が当社のどのサービスメニューに該当するのか不明などの場合にはお気軽にご相談ください。どれにも当てはまらない場合にも柔軟に考えお見積り差し上げます。
                     </p>
-                    <a href="/jp/services/webdev-price-range.php">
+                    <a href="/jp/services/web-dev-price-range.php" target="_blank">
                         <div class="flow-button">
                         Web制作サービスメニューをみる
                         <img src="assets/img/img-webdev/arrow.png" alt="">
