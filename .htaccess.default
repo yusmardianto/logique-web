@@ -1,0 +1,40 @@
+#### EN ####
+Redirect 301 /en/about.php /en/logique.php
+
+#EN Services
+Redirect 301 /en/services/pembuatan-website-karir-perusahaan/ /en/services/recruitment-web-dev.php
+Redirect 301 /en/services/pembuatan-aplikasi-mobile/ /en/services/mobile-app-dev.php
+Redirect 301 /en/services/penetration-testing/ /en/services/penetration-test.php
+Redirect 301 /en/services/mekanisme-pembuatan-website/ /en/services/web-dev.php
+Redirect 301 /en/services/pembuatan-sistem-web/ /en/services/system-dev.php
+#Redirect 301 /en/services/digital-marketing/ /en/services/digital-marketing.php
+
+#### ID ####
+Redirect 301 /tentang-kami.php /logique.php
+
+#ID Services
+Redirect 301 /layanan/pembuatan-website-karir-perusahaan/ /layanan/pembuatan-web-karir.php
+Redirect 301 /layanan/pembuatan-aplikasi-mobile/ /layanan/pembuatan-aplikasi-mobile.php
+Redirect 301 /layanan/penetration-testing/ /layanan/penetration-test.php
+Redirect 301 /layanan/mekanisme-pembuatan-website/ /layanan/web-dev.php
+Redirect 301 /layanan/pembuatan-sistem-web/ /layanan/pembuatan-sistem-web.php
+Redirect 301 /layanan/pembuatan-website-klinik-gigi/ /layanan/pembuatan-web-klinik-gigi.php
+#Redirect 301 /layanan/digital-marketing/ /layanan/digital-marketing.php
+
+#### JP ####
+Redirect 301 /jp/about.php /jp/logique.php
+
+#JP Services
+Redirect 301 /jp/services/pembuatan-website-karir-perusahaan/ /jp/services/recruitment-web-dev.php
+Redirect 301 /jp/services/pembuatan-aplikasi-mobile/ /jp/services/mobile-app-dev.php
+Redirect 301 /jp/services/penetration-testing/ /jp/services/penetration-test.php
+Redirect 301 /jp/services/mekanisme-pembuatan-website/ /jp/services/web-dev.php
+Redirect 301 /jp/services/pembuatan-sistem-web/ /jp/services/system-dev.php
+#Redirect 301 /jp/services/digital-marketing/ /jp/services/digital-marketing.php
+
+#search console errors
+Redirect 301 /joinus.php /career
+Redirect 301 /en/joinus.php /career
+Redirect 301 /jp/joinus.php /career
+Redirect 301 /career/detail/lead-quality-assurance.php /career/lowongan/specialist/lead-quality-assurance.php
+Redirect 301 /blog/2018/01/24/menjadi-seorang-ui-designer/a /blog/2018/01/24/menjadi-seorang-ui-designer/

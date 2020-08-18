@@ -10,12 +10,24 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Novecentosanswide-medium';
+    src: url('../fonts/Novecentosanswide-Medium.otf') format('otf'), 
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Novecentosanswide-normal';
+    src: url('../fonts/Novecentosanswide-Normal.otf') format('otf'), 
+    font-weight: normal;
+    font-style: normal;
+}
 @-ms-viewport {width: device-width}
 @-o-viewport {width: device-width}
 @viewport {width: device-width}
-/* * {
+* {
     font-family: 'Raleway', 'sans-serif';
-} */
+}
 
 html {
     scroll-behavior: smooth;

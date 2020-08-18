@@ -249,7 +249,7 @@
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">How a Consultant/Product Manager in LOGIQUE works usually</h3>
+                <h3 class="section-title">Cara Bekerja Consultant / Product Manager Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">09:00 – 09:30</div>
@@ -286,7 +286,7 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <h3 class="section-title">Consultant/Product Manager Salary Range in LOGIQUE</h3>
+              <h3 class="section-title">Consultant / Product Manager Salary Range in LOGIQUE</h3>
               <div class="row">
                 <div class="col-md-4 col-sm-12">
                   <div class="salary-range">

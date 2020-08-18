@@ -43,13 +43,13 @@
             <div class="logique-nav logique-nav--update">
                 <div class="margin-for-nav">
                     <div class="text-center">
-                        <a href="index.php">
+                        <a href="/">
                             <div class="img-home"></div>
                             Beranda
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="logique.php">
+                        <a href="/logique.php">
                             <div class="img-about"></div>
                             Tentang Kami
                         </a>
@@ -61,13 +61,13 @@
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="layanan.php">
+                        <a href="/layanan.php">
                             <div class="img-services"></div>
                             Layanan
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="produk.php">
+                        <a href="/produk.php">
                             <div class="img-product"></div>
                             Produk
                         </a>
@@ -79,7 +79,7 @@
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="hubungi-kami.php">
+                        <a href="/hubungi-kami.php">
                             <div class="img-contact"></div>
                             Hubungi Kami
                         </a>
@@ -285,7 +285,7 @@
                 </div>
             </section>
 
-            <div class="container__">
+            <!-- <div class="container__">
                 <div class="text-center our-portfolio">
                     <p class="title__description" style="margin-bottom: 15px; margin-top: 25px;">Contact us and we will
                         present to
@@ -297,12 +297,14 @@
                         Contact us for LOGIQUE's portfolio
                     </a>
                 </div>
-            </div>
+            </div> -->
+
+            <?php include './portfolio-links.php';?>
 
         </div>
 
+        <?php include '../footer.php';?>
     </div>   
-    <?php include '../footer.php';?>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js">
     </script>
     <script>

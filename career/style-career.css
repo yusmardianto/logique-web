@@ -182,7 +182,9 @@ div:focus {
 .fs-16 {
   font-size: 16px;
 }
-
+.logofont{
+  font-family: 'Novocento Sans Wide Medium' !important;
+}
 @media (max-width: 767px) {
   .p-t-3 {
     padding-top: 1em;
@@ -474,7 +476,7 @@ button:focus {
 
 .main-btn.--link-box {
   background-color: #000;
-  color: #fff;
+  color: #fff !important;
   text-align: left;
   border-radius: 5px;
   width: 90%;
@@ -3095,7 +3097,7 @@ ul.candiate-criteria__reject li::before {
 .mega-menu__item {
   /* flex-basis: 20%; */
   min-width: 18%;
-  padding-right: 40px;
+  padding-right: 20px;
 }
 @media (max-width: 1024px) {
   .mega-menu {

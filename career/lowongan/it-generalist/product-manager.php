@@ -190,7 +190,7 @@
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">How a Product Manager in LOGIQUE works usually</h3>
+                <h3 class="section-title">Cara Bekerja Product Manager Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
                 <!-- <h4 class="section-subtitle">Product Manager Assistant</h4> -->
 
  　
@@ -321,7 +321,7 @@
                   </a>
                 </div>
                 <div class="col-xs-12 col-md-4">
-                  <a href="/produk/nippo.php">
+                  <a href="/produk/nippo.php"  target="_blank">
                     <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo" style="max-height: 33px;"/>
                   </a>
                 </div>

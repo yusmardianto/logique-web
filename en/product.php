@@ -280,7 +280,7 @@
                     This is a useful tool for HR to calculate the man-hour cost of each tasks conducted by every employee. Through Nippo, evaluation and self-assessment can be done methodically every day.</p><br>
 
                     <div class="text-center">
-                        <a class="btn--yellow" href="product/nippo.php">Learn More</a>
+                        <a class="btn--yellow" href="product/nippo.php" target="_blank">Learn More</a>
                     </div>
                 </div>
             </section>

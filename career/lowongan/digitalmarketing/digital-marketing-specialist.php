@@ -201,7 +201,7 @@
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <h3 class="section-title">Aktivitas Harian Digital Marketing di LOGIQUE</h3>
+                <h3 class="section-title">Cara Bekerja Digital Marketing Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">08:30 – 09:30</div>

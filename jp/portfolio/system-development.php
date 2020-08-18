@@ -5,18 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUEの制作実績を紹介します。LOGIQUEは、ジャカルタのウェブ制作会社です。ジャカルタを中心としたインドネシア国内で、数多くのWEBサイト(ホームページ)制作/システム構築、パンフレット、カタログ等印刷物のデザインまで制作を行ってまいりました。">
+        content="LOGIQUEのシステム構築・開発実績を紹介。LOGIQUEはジャカルタのWeb制作・システム開発会社。様々なITシステム開発を行ってきました。CMS、CRM、E-Commerce、自動車関係管理システムの開発など多く経験しています。">
     <meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, デザイン, 印刷, コーポレートサイト, ランディングページ">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア">
+    <meta property="og:title" content="LOGIQUEのシステム開発実績">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="LOGIQUEの制作実績を紹介します。ホームページ制作、Webシステム開発、モバイルアプリ開発、SNS運用やSEO、インターネット広告などデジタルマーケティング実施の実績紹介です。LOGIQUEはジャカルタのウェブ制作会社です。インドネシアでの制作開発プロジェクトのケーススタディーも幾つか紹介します。">
+        content="LOGIQUEのシステム構築実績を紹介。ホームページ制作、Webシステム構築、モバイルアプリ開発で豊富な実績があります。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア</title>
+    <title>ITシステム開発実績 | LOGIQUEデジタルインドネシア</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -43,31 +43,31 @@
             <div class="logique-nav logique-nav--update in-jp">
                 <div class="margin-for-nav">
                     <div class="text-center">
-                        <a href="index.php">
+                        <a href="/jp/">
                             <div class="img-home"></div>
                             Home
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="logique.php">
+                        <a href="/jp/logique.php">
                             <div class="img-about"></div>
                             会社概要
                         </a>
                     </div>
                     <div class="text-center active">
-                        <a href="portfolio.php">
+                        <a href="/jp/portfolio.php">
                             <div class="img-portfolio"></div>
                             制作実績
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="services.php">
+                        <a href="/jp/services.php">
                             <div class="img-services"></div>
                             サービス
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="product.php">
+                        <a href="/jp/product.php">
                             <div class="img-product"></div>
                             プロダクト
                         </a>
@@ -79,7 +79,7 @@
                         </a>
                     </div>
                     <div class="text-center">
-                        <a href="contact.php">
+                        <a href="/jp/contact.php">
                             <div class="img-contact"></div>
                             お問い合わせ
                         </a>
@@ -161,7 +161,7 @@
                                     <meta itemprop="position" content="2" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;System Development</span></a>
+                                        itemprop="item"><span itemprop="name">&nbsp;システム開発実績</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                             </ol>
@@ -171,8 +171,8 @@
                 <div class="container__ banner-detail__content">
                     <div class="row">
                         <div class="col-md-offset-1 col-md-7">
-                            <div class="title"><h1>System Development Works</h1></div>
-                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our IT system development portfolio.</p>
+                            <div class="title"><h1>システム開発実績</h1></div>
+                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong>が開発したシステムを紹介します。インドネシアで様々なシステム開発・運用を行ってきました。個別にお問い合わせいただければ、詳細をご紹介できる案件もございます。Automotive産業向けシステム開発、E-Commerceシステム開発、保険、PHP開発、Javascriptフレームワーク、PWAなどが得意な領域を表すキーワードになります。</p>
                             <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
                         </div>
                     </div>
@@ -412,7 +412,7 @@
                 </div>
             </section>
 
-            <div class="container__">
+            <!-- <div class="container__">
                 <div class="text-center our-portfolio">
                     <p class="title__description" style="margin-bottom: 15px; margin-top: 25px;">Contact us and we will
                         present to
@@ -424,7 +424,9 @@
                         Contact us for LOGIQUE's portfolio
                     </a>
                 </div>
-            </div>
+            </div> -->
+
+            <?php include './portfolio-links.php';?>
 
             <!-- modal popup -->
             <!-- modal 1 -->

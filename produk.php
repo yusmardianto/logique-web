@@ -276,7 +276,7 @@
                     Alat ini berguna untuk SDM untuk menghitung biaya jam kerja dari setiap tugas yang dilakukan oleh setiap karyawan. Melalui Nippo, evaluasi dan penilaian mandiri dapat dilakukan secara metodis setiap hari.</p><br>
 
                     <div class="text-center">
-                        <a class="btn--yellow" href="produk/nippo.php">Learn More</a>
+                        <a class="btn--yellow" href="produk/nippo.php"  target="_blank">Learn More</a>
                     </div>
                 </div>
             </section>

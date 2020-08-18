@@ -195,8 +195,8 @@ if(isset($_POST['submitted']))
                      <div class="col-sm-offset-1 col-sm-11">
                          <div class="container">
                              <ul class="list-inline">
-                                 <li><a href="/en/product/nippo.php">EN</a></li>
-                                 <li><a href="/produk/nippo.php">ID</a></li>
+                                 <li><a href="/en/product/nippo.php" target="_blank">EN</a></li>
+                                 <li><a href="/produk/nippo.php" target="_blank">ID</a></li>
                                  <li class="active"><a href="#">JP</a></li>
                              </ul>
                              <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"

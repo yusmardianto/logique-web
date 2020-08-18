@@ -381,7 +381,7 @@
               <div class="item__text">
                 <h4>Nippo</h4>
                 <p><strong>LOGIQUE</strong> menawarkan sistem manajemen pelaporan harian untuk karyawan yang bernama Nippo. Sistem ini memberikan solusi bagi perusahaan, dimana perusahaan dapat dengan mudah melakukan monitoring, penilaian, dan evaluasi kinerja karyawan setiap bulan.</p>
-                <a href="/produk/nippo.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+                <a href="/produk/nippo.php" target="_blank"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
               </div>
             </div>
             <div class="col-md-6 row__item">

@@ -171,10 +171,11 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
             </div>
-        </div>
+        </div>disini
         <!-- END HEADER -->
 
         <header class="content-wrapper__">
+            
             <div class="text-left --top">
                 <div class="container-fluid">
                     <div class="row bg-section">
@@ -590,57 +591,103 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-12">
+<div class="col-md-12">
                     <div class="carousel slide multi-item-carousel" id="theCarousel">
                         <div class="carousel-inner">
-                            <div class="item active">
-                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                    <div class="img-container">
-                                        <img src="assets/img/img-webdev/article/1.png" class="img-responsive">
-                                    </div>
-                                    <div class="content-container">
-                                        <p class="title">Going Wireless With Your Headphones</p>
-                                        <p class="content">The widespread use of the internet has now provided many vectors of infiltration for hackers. Indeed, cybercrime is a growing industry and is not only a threat which can cost companies millions of dol</p>
-                                        <p class="date">30 Apr 2020 | By Yossi</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                    <div class="img-container">
-                                        <img src="assets/img/img-webdev/article/2.png" class="img-responsive">
-                                    </div>
-                                    <div class="content-container">
-                                        <p class="title">Going Wireless With Your Headphones</p>
-                                        <p class="content">The widespread use of the internet has now provided many vectors of infiltration for hackers. Indeed, cybercrime is a growing industry and is not only a threat which can cost companies millions of dol</p>
-                                        <p class="date">30 Apr 2020 | By Yossi</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                    <div class="img-container">
-                                        <img src="assets/img/img-webdev/article/1.png" class="img-responsive">
-                                    </div>
-                                    <div class="content-container">
-                                        <p class="title">Going Wireless With Your Headphones</p>
-                                        <p class="content">The widespread use of the internet has now provided many vectors of infiltration for hackers. Indeed, cybercrime is a growing industry and is not only a threat which can cost companies millions of dol</p>
-                                        <p class="date">30 Apr 2020 | By Yossi</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                    <div class="img-container">
-                                        <img src="assets/img/img-webdev/article/2.png" class="img-responsive">
-                                    </div>
-                                    <div class="content-container">
-                                        <p class="title">Going Wireless With Your Headphones</p>
-                                        <p class="content">The widespread use of the internet has now provided many vectors of infiltration for hackers. Indeed, cybercrime is a growing industry and is not only a threat which can cost companies millions of dol</p>
-                                        <p class="date">30 Apr 2020 | By Yossi</p>
-                                    </div>
-                                </div>
-                            </div>
+                             
+                             <?php  
+                                    function shorten_string($string, $wordsreturned)
+                                {
+                                  $retval = $string;
+                                  $string = preg_replace('/(?<=\S,)(?=\S)/', ' ', $string);
+                                  $string = str_replace("\n", " ", $string);
+                                  $array = explode(" ", $string);
+                                  if (count($array)<=$wordsreturned)
+                                  {
+                                    $retval = $string;
+                                  }
+                                  else
+                                  {
+                                    array_splice($array, $wordsreturned);
+                                    $retval = implode(" ", $array)." ...";
+                                  }
+                                  return $retval;
+                                }
+                                function tgl_indo($tanggal){
+                                    $bulan = array (
+                                        1 =>   'Januari',
+                                        'Februari',
+                                        'Maret',
+                                        'April',
+                                        'Mei',
+                                        'Juni',
+                                        'Juli',
+                                        'Agustus',
+                                        'September',
+                                        'Oktober',
+                                        'November',
+                                        'Desember'
+                                    );
+                                    $pecahkan = explode('-', $tanggal);
+                                    
+                                    // variabel pecahkan 0 = tanggal
+                                    // variabel pecahkan 1 = bulan
+                                    // variabel pecahkan 2 = tahun
+                                 
+                                    return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+                                }
+                                    $url = file_get_contents('https://www.logique.co.id/blog/wp-json/wp/v2/posts/?tags=108&per_page=5&_embed');
+                                
+                                        $x = 0;
+
+                                       $remote_posts = json_decode( $url ); 
+                                       // printf('<pre>'); 
+                                       //  var_dump($url);
+                                       // printf('</pre>');
+                                        foreach( $remote_posts as $remote_post ) { 
+                                            $thumb_full_url = '';
+                                            $thumb_url = '';
+
+                                            if ( ! empty( $remote_post->featured_media ) && isset( $remote_post->_embedded ) ) {
+                                                $thumb_full_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->source_url;
+                                                $thumb_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->media_details->sizes->medium->source_url;
+                                            }
+                                            if($x==0) { 
+                                            ?>
+                                            <div class="item active ">
+                                             <?php } else{
+                                                echo ' <div class="item ">';
+                                             }
+
+                                             ?> 
+                                                    <div class="col-xs-12 col-sm-6 col-md-6 article-container">
+                                                        <div class="img-container">
+                                                            <img src="<?=$thumb_full_url?>" class="img-responsive">
+                                                        </div>
+                                                        <div class="content-container">
+                                                            <a href="<?=$remote_post->link?>" target="_blank">
+                                                                <p class="title"><?=$remote_post->title->rendered?></p>
+                                                            </a>
+                                                            <p class="content"><?php 
+                                                            $array = preg_replace("/<.+>/sU", "", $remote_post->excerpt->rendered);
+                                                             $array =  shorten_string($array, 25); 
+                                                            echo $array;
+                                                             ?></p>
+                                                            <p class="date"><?php 
+                                                            $tanggal = date(' Y-m-d', strtotime($remote_post->date));
+                                                            $idtanggal = tgl_indo($tanggal);
+                                                            echo $idtanggal  ;  ?> | By <?php 
+                                                              echo $remote_post->_embedded->author[0]->name;
+                                                            ?></p>
+                                                        </div>
+                                                    </div>
+                                               
+                                            </div>
+                                             
+                                       <?php  $x++;
+                                   }
+                                     
+                                ?> 
                         
                         <!--  Example item end -->
                         </div>
@@ -652,6 +699,8 @@ if(isset($_POST['submitted']))
                         </ol>
                     </div>
                 </div>
+            </div>
+                
             </div>
         </div>
     </section>
