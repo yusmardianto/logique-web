@@ -239,19 +239,19 @@ if(isset($_POST['submitted']))
                                  <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
                                      class="img-responsive center-block">
                              </div>
-                             <div class="item">
+                             <!-- <div class="item">
                                  <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
                                      class="img-responsive center-block">
                              </div>
                              <div class="item">
                                  <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
                                      class="img-responsive center-block">
-                             </div>
+                             </div> -->
                          </div>
                          <ol class="carousel-indicators">
                             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                            <!-- <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li> -->
                         </ol>
                      </div>
                 </div>
@@ -271,7 +271,7 @@ if(isset($_POST['submitted']))
 予算の大小に関わらず定められたスコープの中で最良のWebを制作します。
 お客様のご要望が当社のどのサービスメニューに該当するのか不明などの場合にはお気軽にご相談ください。どれにも当てはまらない場合にも柔軟に考えお見積り差し上げます。
                     </p>
-                    <a href="/jp/services/webdev-price-range.php">
+                    <a href="/jp/services/web-dev-price-range.php" target="_blank">
                         <div class="flow-button">
                         Web制作サービスメニューをみる
                         <img src="assets/img/img-webdev/arrow.png" alt="">
@@ -461,17 +461,17 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                 </div>
             </div>
             <div class="row portofolio-section">
-                <div class="col-md-6 col-lg-4 col-sm-4">
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
                     <img src="assets/img/img-webdev/AIA.png" alt="">
                     <p class="portofolio-title">AIA</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4">
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
                     <img src="assets/img/img-webdev/panin.png" alt="">
                     <p class="portofolio-title">Panin Life Dai - Ichi</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4">
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
                     <img src="assets/img/img-webdev/JBA.png" alt="">
                     <p class="portofolio-title">JBA</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
@@ -983,6 +983,135 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                     <a href="https://www.linkedin.com/company/13420656" target="_blank">
                         <img src="assets/img/img-webdev/linkedinads.png" alt="">
                     </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="modal">
+        <div class="modal fade modal-section" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-body aia-section">
+                        <div class="title-section">
+                            <p class="title">Hotlink Co., Ltd.</p>
+                            <p class="subtitle">Corporate site focusing on acquiring leads for Twitter marketing support and transmitting IR information</p>
+                            <p class="content">We have renewed our hot-link corporate website, which has strengths in social media marketing. While aiming to increase the number of leads acquired in our main business of Twitter marketing, we designed and designed it to function as an information transmission platform for the entire company including IR.</p>
+                        </div>
+                        <div class="content-section">
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>URL</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>https://www.hottolink.co.jp/</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Industry/Industry</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Consulting</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Genre</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Corporate Site</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Project Period</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>About 9 months</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Device</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>PC / Smartphone</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Our Scope</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Web strategy design/content plan/information design/design/HTML coding/system requirement definition/system development/project management</p>
+                                </div>
+                            </div>
+                            <div class="content-container scope-container">
+                                <div class="content-title">
+                                    <p>Scope/person in charge</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Strategic design</p>
+                                    <p>
+                                        Information design
+                                    </p>
+                                    <p>
+                                        direction
+                                    </p>
+                                    <p>
+                                        Lead design
+                                    </p>
+                                    <p>
+                                        design
+                                    </p>
+                                    <p>
+                                        Copywriting
+                                    </p>
+                                    <p>
+                                        Front mounting
+                                    </p>
+                                    <p>
+                                        Server-side implementation
+                                    </p>
+                                    <p>
+                                        Illustration production
+                                    </p>
+                                    	
+                                </div>
+                                <div class="content-desc">
+                                    <p>Riki Makitani, Hitoshi Odate</p>
+                                    <p>
+                                        Yuko Takatsuka, Hitoshi Odate
+                                    </p>
+                                    <p>
+                                        Hitoshi Odate
+                                    </p>
+                                    <p>
+                                        Yuko Takatsuka
+                                    </p>
+                                    <p>
+                                        Yuko Takatsuka
+                                    </p>
+                                    <p>
+                                        Riki Makitani, Ippei Gonoi
+                                    </p>
+                                    <p>
+                                        Takuro Sakai, Shiho Nishimura
+                                    </p>
+                                    <p>
+                                        Nomura Teru
+                                    </p>
+                                    <p>
+                                        Unouplus Co., Ltd.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="img-section">
+                            <img src="assets/img/img_modal.jpg" alt="">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
