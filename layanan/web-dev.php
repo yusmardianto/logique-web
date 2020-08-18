@@ -480,12 +480,12 @@ if(isset($_POST['submitted']))
                     <p class="portofolio-title text-center">AIA</p>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong2">
                     <img src="assets/img/img-webdev/panin.png" alt="">
                     <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
                     <img src="assets/img/img-webdev/JBA.png" alt="">
                     <p class="portofolio-title text-center">JBA</p>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
@@ -1042,10 +1042,13 @@ if(isset($_POST['submitted']))
             <div class="modal-dialog modal-lg" role="document">
                 <div class="modal-content">
                     <div class="modal-body aia-section">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
                         <div class="title-section">
-                            <p class="title">Hotlink Co., Ltd.</p>
-                            <p class="subtitle">Corporate site focusing on acquiring leads for Twitter marketing support and transmitting IR information</p>
-                            <p class="content">We have renewed our hot-link corporate website, which has strengths in social media marketing. While aiming to increase the number of leads acquired in our main business of Twitter marketing, we designed and designed it to function as an information transmission platform for the entire company including IR.</p>
+                            <p class="title">AIA</p>
+                            <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p>
+                            <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1053,7 +1056,9 @@ if(isset($_POST['submitted']))
                                     <p>URL</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>https://www.hottolink.co.jp/</p>
+                                    <a href="https://aiapremieracademy.co.id/en/home" target="_blank">
+                                        <p>https://aiapremieracademy.co.id/en/home</p>
+                                    </a>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1061,7 +1066,7 @@ if(isset($_POST['submitted']))
                                     <p>Industry/Industry</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Consulting</p>
+                                    <p>Lorem Ipsum</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1069,7 +1074,7 @@ if(isset($_POST['submitted']))
                                     <p>Genre</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Corporate Site</p>
+                                    <p>Lorem Ipsum</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1077,7 +1082,7 @@ if(isset($_POST['submitted']))
                                     <p>Project Period</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>About 9 months</p>
+                                    <p>Lorem Ipsum</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1085,15 +1090,15 @@ if(isset($_POST['submitted']))
                                     <p>Device</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>PC / Smartphone</p>
+                                    <p>Lorem Ipsum</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Our Scope</p>
+                                    <p>Lorem Ipsum</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Web strategy design/content plan/information design/design/HTML coding/system requirement definition/system development/project management</p>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi explicabo eum, aliquam laudantium iste cumque quis enim eos eveniet corrupti tempore natus. Nesciunt, quaerat aut repudiandae vitae enim ipsam provident.</p>
                                 </div>
                             </div>
                             <div class="content-container scope-container">
@@ -1129,36 +1134,298 @@ if(isset($_POST['submitted']))
                                     	
                                 </div>
                                 <div class="content-desc">
-                                    <p>Riki Makitani, Hitoshi Odate</p>
+                                    <p>Lorem Ipsum</p>
                                     <p>
-                                        Yuko Takatsuka, Hitoshi Odate
+                                    Lorem Ipsum
                                     </p>
                                     <p>
-                                        Hitoshi Odate
+                                    Lorem Ipsum
                                     </p>
                                     <p>
-                                        Yuko Takatsuka
+                                    Lorem Ipsum
                                     </p>
                                     <p>
-                                        Yuko Takatsuka
+                                    Lorem Ipsum
                                     </p>
                                     <p>
-                                        Riki Makitani, Ippei Gonoi
+                                    Lorem Ipsum
                                     </p>
                                     <p>
-                                        Takuro Sakai, Shiho Nishimura
+                                    Lorem Ipsum
                                     </p>
                                     <p>
-                                        Nomura Teru
+                                    Lorem Ipsum
                                     </p>
                                     <p>
-                                        Unouplus Co., Ltd.
+                                    Lorem Ipsum
                                     </p>
                                 </div>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/img_modal.jpg" alt="">
+                            <img src="assets/img/aia.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade modal-section" id="exampleModalLong2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLong2Title" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-body aia-section">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        <div class="title-section">
+                            <p class="title">Panin</p>
+                            <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p>
+                            <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p>
+                        </div>
+                        <div class="content-section">
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>URL</p>
+                                </div>
+                                <div class="content-desc">
+                                    <a href="https://www.bekalhidup.com/" target="_blank">
+                                        <p>https://www.bekalhidup.com/</p>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Industry/Industry</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem Ipsum</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Genre</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem Ipsum</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Project Period</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem Ipsum</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Device</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem Ipsum</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Lorem Ipsum</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi explicabo eum, aliquam laudantium iste cumque quis enim eos eveniet corrupti tempore natus. Nesciunt, quaerat aut repudiandae vitae enim ipsam provident.</p>
+                                </div>
+                            </div>
+                            <div class="content-container scope-container">
+                                <div class="content-title">
+                                    <p>Scope/person in charge</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Strategic design</p>
+                                    <p>
+                                        Information design
+                                    </p>
+                                    <p>
+                                        direction
+                                    </p>
+                                    <p>
+                                        Lead design
+                                    </p>
+                                    <p>
+                                        design
+                                    </p>
+                                    <p>
+                                        Copywriting
+                                    </p>
+                                    <p>
+                                        Front mounting
+                                    </p>
+                                    <p>
+                                        Server-side implementation
+                                    </p>
+                                    <p>
+                                        Illustration production
+                                    </p>
+                                    	
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem Ipsum</p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="img-section">
+                            <img src="assets/img/panin.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade modal-section" id="exampleModalLong3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLong3Title" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-body aia-section">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        <div class="title-section">
+                            <p class="title">JBA</p>
+                            <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p>
+                            <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p>
+                        </div>
+                        <div class="content-section">
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>URL</p>
+                                </div>
+                                <div class="content-desc">
+                                    <a href=" https://jba.co.id/" target="_blank">
+                                        <p>https://jba.co.id/</p>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Industry/Industry</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem Ipsum</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Genre</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem Ipsum</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Project Period</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem Ipsum</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Device</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem Ipsum</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Lorem Ipsum</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi explicabo eum, aliquam laudantium iste cumque quis enim eos eveniet corrupti tempore natus. Nesciunt, quaerat aut repudiandae vitae enim ipsam provident.</p>
+                                </div>
+                            </div>
+                            <div class="content-container scope-container">
+                                <div class="content-title">
+                                    <p>Scope/person in charge</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Strategic design</p>
+                                    <p>
+                                        Information design
+                                    </p>
+                                    <p>
+                                        direction
+                                    </p>
+                                    <p>
+                                        Lead design
+                                    </p>
+                                    <p>
+                                        design
+                                    </p>
+                                    <p>
+                                        Copywriting
+                                    </p>
+                                    <p>
+                                        Front mounting
+                                    </p>
+                                    <p>
+                                        Server-side implementation
+                                    </p>
+                                    <p>
+                                        Illustration production
+                                    </p>
+                                    	
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem Ipsum</p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="img-section">
+                            <img src="assets/img/jba.png" alt="">
                         </div>
                     </div>
                 </div>
