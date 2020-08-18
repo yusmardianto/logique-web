@@ -367,7 +367,7 @@
                         Segera hubungi <strong>LOGIQUE</strong> sekarang, kami akan buatkan perencanaan dan strategy terbaik untuk cita-cita bisnis Anda yang luar biasa.
                         </div>
                         <div class=" col-lg-offset-0 col-sm-offset-2 col-xs-offset-5 col-md-4 col-sm-10 col-xs-7 text-right">
-                            <a href="#" class="btn btn--yellow"><span>Buat Rencana</span></a>
+                            <a href="/layanan/digital-marketing.php" class="btn btn--yellow"><span>Buat Rencana</span></a>
                         </div>
                     </div>
 

@@ -369,7 +369,7 @@
                         Contact <strong>LOGIQUE</strong> now, we will make the best plans and strategies for your extraordinary business goals.
                         </div>
                         <div class=" col-lg-offset-0 col-sm-offset-2 col-xs-offset-5 col-md-4 col-sm-10 col-xs-7 text-right">
-                            <a href="#" class="btn btn--yellow"><span>Make a plan</span></a>
+                            <a href="/en/services/digital-marketing.php" class="btn btn--yellow"><span>Make a plan</span></a>
                         </div>
                     </div>
 
