@@ -1230,15 +1230,16 @@ b {
   background-position: center;
   background-repeat: no-repeat;
   padding: 70px 20px 20px;
-  margin-bottom: 0;
+  margin: 0 auto;
+  width: calc(100% - 20px);
   color: #fff;
-  height: 100%;
   min-height: 325px;
 }
 
 .portfolio-update__content .content__item.content__item--dm img {
-  width: 250px;
+  width: auto;
   height: 100px;
+  max-width: 100%;
   display: block;
   margin: 0 auto 40px;
 }
@@ -1249,5 +1250,151 @@ b {
 }
 .portfolio-update__content .content__item.content__item--dm p {
   font-size: 14px;
+}
+
+.portfolio-update__content .content__detail {
+  text-align: center;
+  position: relative;
+}
+
+.portfolio-update__content .content__detail h4 {
+  font-weight: bold !important;
+}
+
+.portfolio-update__content .content__detail .detail__goal > h4,
+.portfolio-update__content .content__detail .detail__achievement > h4 {
+  color: inherit;
+}
+
+.portfolio-update__content .content__detail .detail__goal > p,
+.portfolio-update__content .content__detail .detail__achievement .achievement > p {
+  color: #000;
+}
+
+.portfolio-update__content .content__detail::before {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  width: 100%;
+  height: 200px;
+  background-color: inherit;
+  z-index: -1;
+}
+
+.portfolio-update__content .content__detail .detail__description {
+  padding: 20px;
+  min-height: 400px;
+}
+
+.portfolio-update__content .content__detail .detail__goal {
+  min-height: 110px;
+  padding: 10px;
+}
+
+.portfolio-update__content .content__detail .detail__achievement {
+  padding: 20px 40px 5px;
+}
+
+.portfolio-update__content .content__detail .detail__achievement .achievement {
+  margin-bottom: 15px;
+}
+
+.portfolio-update__content .content__detail .detail__achievement > h4 {
+  margin-bottom: 10px;
+}
+
+.portfolio-update__content .content__detail .detail__achievement .achievement__number {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70px;
+  height: 70px;
+  margin: 0 auto 10px;
+  border-radius: 100%;
+  background-color: white;
+  color: inherit;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.portfolio-update .portfolio-update__link .link--dm {
+  background: url('/img/link-dm.png') bottom left/cover no-repeat;
+  background-image: url('/img/link-dm.webp');
+  color: #fff;
+  min-height: 110px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.portfolio-update .portfolio-update__link .link--dm .btn {
+  min-width: 250px;
+  border-radius: 0;
+  margin-right: 20px;
+}
+
+.portfolio-update .portfolio-update__link .link--dm .btn:hover {
+  background-color: #ffca13;
+}
+
+.portfolio-update .portfolio-update__link .link--dm .btn > span {
+  position: relative;  
+}
+
+.portfolio-update .portfolio-update__link .link--dm .btn > span::after {
+  position: absolute;
+  content: '→';
+  top: 50%;
+  right: -30px;
+  transform: translateY(-50%);
+}
+
+@media (max-width: 991.98px) {  
+  .portfolio-update__content .content__item.content__item--dm img {
+    flex-grow: 1;
+  }
+  .portfolio-update .portfolio-update__link .link--dm {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .portfolio-update .portfolio-update__link .link--dm .text-right {
+    text-align: center;
+  }
+  .portfolio-update .portfolio-update__link .link--dm .btn {
+    margin-top: 10px;
+    margin-right: 0;
+  }
+  .portfolio-update .portfolio-update__link .link--dm {
+    background-position-x: -20px;
+  }
+}
+
+@media (max-width: 767.98px) {    
+  .portfolio-update__content .content__item.content__item--dm {
+    min-height: unset;
+  }
+  .portfolio-update__content .content__detail .detail__description {
+    min-height: unset;
+  }
+  .portfolio-update .portfolio-update__link .link--dm .btn {
+    min-width: unset;
+    width: max-content;
+    padding-right: 55px;
+  }
+  .portfolio-update .portfolio-update__link .link--dm {
+    background-position-x: -40px;
+  }
+}
+
+@media (max-width: 320px) {
+  .portfolio-update .portfolio-update__link .link--dm {
+    background-position-x: 100%;
+  }
+  .portfolio-update .portfolio-update__link .link--dm > div {
+    text-align: center;
+    width: 100%;
+    margin-left: 0;
+  }
 }
 /* end portfolio content */
