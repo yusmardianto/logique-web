@@ -117,13 +117,13 @@ if(isset($_POST['submitted']))
                             </a>
                         </div>
                         <div class="text-center active">
-                            <a href="/services.php">
+                            <a href="/layanan.php">
                                 <div class="img-services"></div>
                                 Layanan
                             </a>
                         </div>
                         <div class="text-center">
-                            <a href="product.php">
+                            <a href="produk.php">
                                 <div class="img-product"></div>
                                 Produk
                             </a>
@@ -184,17 +184,17 @@ if(isset($_POST['submitted']))
                         </div>
                         <div class="col-sm-12 breadcrumb-section">
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                itemtype="http://schema.org/BreadcrumbList" style="display: none;">
+                                itemtype="http://schema.org/BreadcrumbList">
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="/index.php"><span itemprop="name">Home</span></a>
+                                        href="/index.php"><span itemprop="name">Beranda</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
                                 <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item" href="/services.php"><span itemprop="name">&nbsp;サービス</span></a>
+                                        itemprop="item" href="/layanan.php"><span itemprop="name">Layanan</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Web・ホームページ制作</span></a>
+                                        itemprop="item"><span itemprop="name">Web Development</span></a>
                                     <meta itemprop="position" content="3" />
                                 </li>
                             </ol>
@@ -275,7 +275,7 @@ if(isset($_POST['submitted']))
                     <p class="flow-content">
                     Untuk mempermudah Anda, kami telah mempersiapkan beberapa kategori pengembangan website berikut dengan perkiraan waktu dan biayanya. Jangan ragu untuk menghubungi kami bila Anda tidak memahami kategori pengembangan website yang diperlukan. Kami juga siap membantu jika Anda memerlukan penawaran khusus berdasarkan rincian fitur yang sudah dimiliki.    
                     </p>
-                    <a href="/layanan/webdev-price-range.php">
+                    <a href="/layanan/webdev-price-range.php" target="_blank">
                         <div class="flow-button">
                         Lihat Opsi Pembuatan Website
                         <img src="assets/img/img-webdev/arrow.png" alt="">
@@ -475,17 +475,17 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
             <div class="row portofolio-section">
-                <div class="col-md-6 col-lg-4 col-sm-4">
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
                     <img src="assets/img/img-webdev/AIA.png" alt="">
                     <p class="portofolio-title text-center">AIA</p>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4">
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
                     <img src="assets/img/img-webdev/panin.png" alt="">
                     <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4">
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
                     <img src="assets/img/img-webdev/JBA.png" alt="">
                     <p class="portofolio-title text-center">JBA</p>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
@@ -575,7 +575,7 @@ if(isset($_POST['submitted']))
                         <a class="link-yellow-white" href="/layanan/penetration-test.php">Diagnosa Keamanan Website</a>
                     </div>
                     <div class="link-page-price-and-portfolio">
-                        <a class="link-yellow-white" href="/layanan/web-dev.php">Pengembangan Aplikasi Berbasis Web</a>
+                        <a class="link-yellow-white" href="/layanan/web-dev.php">Web Creation Portfolio</a>
                         <a class="link-yellow-white" href="/layanan/pembuatan-aplikasi-mobile">Pengembangan Aplikasi Mobile</a>
                     </div>
                 </div>
@@ -1036,6 +1036,135 @@ if(isset($_POST['submitted']))
         </div>
     </section>
     <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
+
+    <section id="modal">
+        <div class="modal fade modal-section" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-body aia-section">
+                        <div class="title-section">
+                            <p class="title">Hotlink Co., Ltd.</p>
+                            <p class="subtitle">Corporate site focusing on acquiring leads for Twitter marketing support and transmitting IR information</p>
+                            <p class="content">We have renewed our hot-link corporate website, which has strengths in social media marketing. While aiming to increase the number of leads acquired in our main business of Twitter marketing, we designed and designed it to function as an information transmission platform for the entire company including IR.</p>
+                        </div>
+                        <div class="content-section">
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>URL</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>https://www.hottolink.co.jp/</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Industry/Industry</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Consulting</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Genre</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Corporate Site</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Project Period</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>About 9 months</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Device</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>PC / Smartphone</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Our Scope</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Web strategy design/content plan/information design/design/HTML coding/system requirement definition/system development/project management</p>
+                                </div>
+                            </div>
+                            <div class="content-container scope-container">
+                                <div class="content-title">
+                                    <p>Scope/person in charge</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Strategic design</p>
+                                    <p>
+                                        Information design
+                                    </p>
+                                    <p>
+                                        direction
+                                    </p>
+                                    <p>
+                                        Lead design
+                                    </p>
+                                    <p>
+                                        design
+                                    </p>
+                                    <p>
+                                        Copywriting
+                                    </p>
+                                    <p>
+                                        Front mounting
+                                    </p>
+                                    <p>
+                                        Server-side implementation
+                                    </p>
+                                    <p>
+                                        Illustration production
+                                    </p>
+                                    	
+                                </div>
+                                <div class="content-desc">
+                                    <p>Riki Makitani, Hitoshi Odate</p>
+                                    <p>
+                                        Yuko Takatsuka, Hitoshi Odate
+                                    </p>
+                                    <p>
+                                        Hitoshi Odate
+                                    </p>
+                                    <p>
+                                        Yuko Takatsuka
+                                    </p>
+                                    <p>
+                                        Yuko Takatsuka
+                                    </p>
+                                    <p>
+                                        Riki Makitani, Ippei Gonoi
+                                    </p>
+                                    <p>
+                                        Takuro Sakai, Shiho Nishimura
+                                    </p>
+                                    <p>
+                                        Nomura Teru
+                                    </p>
+                                    <p>
+                                        Unouplus Co., Ltd.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="img-section">
+                            <img src="assets/img/img_modal.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <?php include '../footer.php'; ?>
 
     <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->
