@@ -1363,6 +1363,7 @@
     position: relative;
     bottom: 0;
     margin-top: 15px;
+    display: none;
 }
 .flow {
     padding-top: 5px;
