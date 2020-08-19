@@ -160,8 +160,8 @@ if(isset($_POST['submitted']))
                         <div class="col-sm-12">
                             <div class="container">
                                 <ul class="list-inline">
-                                    <li><a href="/en/services/web-dev.php">EN</a></li>
-                                    <li><a href="/layanan/web-dev.php">ID</a></li>
+                                    <li><a href="/en/services/webdev-price-range.php">EN</a></li>
+                                    <li><a href="/layanan/webdev-price-range.php">ID</a></li>
                                     <li class="active"><a href="#">JP</a></li>
                                 </ul>
                                 <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
@@ -208,21 +208,19 @@ if(isset($_POST['submitted']))
                                     <div class="col-md-6"></div>
                                     <div class="col-md-6">
                                         <h1 class="title">
-                                            <span><span>Web制作サービスメニュー </span></span>
+                                            <span><span>Web / ホームページ制作サービスメニュー</span></span>
                                         </h1>
                                         <div class="content">
                                             <p>
-                                                お客様のWeb制作運用ニーズに合わせて４つの基本サービスメニューを用意しています。様々なニーズにお応えするために４つのメニューをご用意しました。
+                                            お客様の様々なWeb・ホームページ制作運用ニーズにお応えするために４つの基本サービスメニューをご用意しました。
                                             </p>
                                             <p>
-                                                予算の大小に関わらず定められたスコープの中で最良のWebを制作します。
+                                            ご相談前に費用感などをお知りになりたいという声が多いので、こちらに掲載の情報を参考にしていただければと思います。
+ご予算の大小で作業スコープは変わってきますが、どのプロジェクトにも作業スコープ内で最善を尽くします。
                                             </p>
                                             <p>
-                                                お客様のご要望が当社のどのサービスメニューに該当するのか不明などの場合にはお気軽にご相談ください。
+                                            お客様のご要望にフィットするサービスメニューはどれかご不明な場合など、お気軽にご相談ください
                                             </p>
-
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -237,7 +235,7 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/1.png" alt="">
+                    <img src="assets/img/img-webdev/webdev-service/11.png" alt="">
                 </div>
                 <div class="col-md-6 content-container">
                     <div class="title-container">
@@ -265,17 +263,17 @@ if(isset($_POST['submitted']))
                     <div class="detail-container detail-margin">
                         <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                         <div class="detail-title">
-                            <span>制作費用</span>
+                            <span>作業内容</span>
                         </div>
                         <div class="detail-content detail-list">
-                            <p>• デザイン、HTMLコーディング、Deploy（当社管理WebサーバーにDeploy (*別途Webサーバー利用料が必要になります）、もしくはWebファイルを納品）</p>
-                            <p>• 素材は全てご用意いただきます</p>
+                            <p>• デザイン、HTMLコーディング、標準的なSEO対策、調整＆テスト、公開作業</p>
+                            <p>• 素材は全てご用意いただきます。</p>
                             <p>• Static Webが原則</p>
                         </div>
                     </div>
                     <div class="price-container">
-                        <p class="title">制作内容</p>
-                        <p class="price">15 juta 〜 30 juta</p>
+                        <p class="title">制作費用</p>
+                        <p class="price">15 juta 〜 30 juta IDR</p>
                     </div>
                     <div class="button-container">
                         <a href="/jp/contact.php">
@@ -315,18 +313,18 @@ if(isset($_POST['submitted']))
                     <div class="detail-container detail-margin">
                         <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                         <div class="detail-title">
-                            <span>制作費用</span>
+                            <span>作業内容</span>
                         </div>
                         <div class="detail-content detail-list">
-                            <p>	•	デザイン、HTMLコーディング、CMSフィッティング、Deploy（当社管理WebサーバーにDeploy (*別途Webサーバー利用料が必要になります）、もしくはWebファイルを納品</p>
+                            <p>•	デザイン、HTMLコーディング、CMSフィッティング、標準的なSEO対策、調整＆テスト、公開作業</p>
                             <p>•	Static Web or Wordpress or 当社独自CMS</p>
-                            <p>	•	原則、素材は提供いただきます。</p>
-                            <p>	•	お客様都合で4ヶ月を超えることになる場合にはAdditionalコストが必要となるケースがあります。</p>
+                            <p>•	原則、素材は提供いただきます。</p>
+                            <p>	*お客様都合で4ヶ月を超えることになる場合には追加費用が必要となるケースがあります。</p>
                         </div>
                     </div>
                     <div class="price-container">
-                        <p class="title">制作内容</p>
-                        <p class="price">30 juta 〜 60 juta</p>
+                        <p class="title">制作費用</p>
+                        <p class="price">30 juta 〜 60 juta IDR</p>
                     </div>
                     <div class="button-container">
                         <a href="/jp/contact.php">
@@ -335,7 +333,7 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
                 <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/2.png" alt="">
+                    <img src="assets/img/img-webdev/webdev-service/22.png" alt="">
                 </div>
             </div>
         </div>
@@ -344,7 +342,7 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/3.png" alt="">
+                    <img src="assets/img/img-webdev/webdev-service/33.png" alt="">
                 </div>
                 <div class="col-md-6 content-container">
                     <div class="title-container">
@@ -372,17 +370,17 @@ if(isset($_POST['submitted']))
                     <div class="detail-container detail-margin">
                         <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                         <div class="detail-title">
-                            <span>制作費用</span>
+                            <span>作業内容</span>
                         </div>
                         <div class="detail-content detail-list">
-                            <p>•	デザイン、HTMLコーディング、CMS構築、QA、インフラ設定、Securityアセスメント（*詳細なPentestは別料金）、Deploy</p>
-                            <p>•	オープンソースCMS or 当社独自CMS or 	PHPフレームワークで構築</p>
+                            <p>•	デザイン、HTMLコーディング、標準的なSEO対策、CMS構築、QA、インフラ設定、Securityアセスメント（*詳細なPentestは別料金）、公開作業</p>
+                            <p>•	オープンソースCMS or 当社独自CMS or PHPフレームワークで構築</p>
                             <p>•	原則、素材は提供いただきます。</p>
                         </div>
                     </div>
                     <div class="price-container">
-                        <p class="title">制作内容</p>
-                        <p class="price">80 juta 〜 150 juta</p>
+                        <p class="title">制作費用</p>
+                        <p class="price">80 juta 〜 150 juta IDR</p>
                     </div>
                     <div class="button-container">
                         <a href="/jp/contact.php">
@@ -422,7 +420,7 @@ if(isset($_POST['submitted']))
                     <div class="detail-container detail-margin">
                         <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                         <div class="detail-title">
-                            <span>制作費用</span>
+                            <span>作業内容</span>
                         </div>
                         <div class="detail-content detail-list">
                             <p>•	アニメーション制作などスコープに限界はありません。ご要望に応じて、また競合他社と差別化するために必要なものを制作します。</p>
@@ -433,7 +431,7 @@ if(isset($_POST['submitted']))
                         </div>
                     </div>
                     <div class="price-container">
-                        <p class="title">制作内容</p>
+                        <p class="title">制作費用</p>
                         <p class="price">200 juta 〜 500 juta</p>
                     </div>
                     <div class="button-container">
@@ -443,7 +441,7 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
                 <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/4.png" alt="">
+                    <img src="assets/img/img-webdev/webdev-service/44.png" alt="">
                 </div>
             </div>
         </div>
@@ -608,7 +606,7 @@ if(isset($_POST['submitted']))
                     </a>
                 </div>
                 <div class="col-md-6 col-sm-6">
-                    <a href="https://www.linkedin.com/company/13420656" target="_blank">
+                     <a href="https://www.linkedin.com/company/13420656" target="_blank">
                         <img src="assets/img/img-webdev/linkedinads.png" alt="">
                     </a>
                 </div>
