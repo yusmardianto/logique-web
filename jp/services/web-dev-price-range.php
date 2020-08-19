@@ -160,8 +160,8 @@ if(isset($_POST['submitted']))
                         <div class="col-sm-12">
                             <div class="container">
                                 <ul class="list-inline">
-                                    <li><a href="/en/services/web-dev.php">EN</a></li>
-                                    <li><a href="/layanan/web-dev.php">ID</a></li>
+                                    <li><a href="/en/services/webdev-price-range.php">EN</a></li>
+                                    <li><a href="/layanan/webdev-price-range.php">ID</a></li>
                                     <li class="active"><a href="#">JP</a></li>
                                 </ul>
                                 <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
