@@ -1516,6 +1516,9 @@
     letter-spacing: 0px;
     line-height: 25px;
 }
+.portofolio .portofolio-section div {
+  cursor: pointer;
+}
 .portofolio .portofolio-section {
     margin-top: 30px;
 }
@@ -2045,9 +2048,6 @@
     }
     .portofolio .portofolio-section {
         text-align: center;
-    }
-    .portofolio .portofolio-section div {
-      cursor: pointer;
     }
     .portofolio .portofolio-section .portofolio-subtitle,
     .portofolio .portofolio-section .portofolio-title {
