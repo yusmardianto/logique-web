@@ -372,7 +372,6 @@
                             <a href="/en/services/digital-marketing.php" class="btn btn--yellow"><span>Make a plan</span></a>
                         </div>
                     </div>
-
                 </div>
             </section>
 

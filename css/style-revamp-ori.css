@@ -1236,6 +1236,10 @@ b {
   min-height: 325px;
 }
 
+.wrapper--update-design-font.--jp .portfolio-update__content .content__item.content__item--dm {
+  min-height: 350px;
+}
+
 .portfolio-update__content .content__item.content__item--dm img {
   width: auto;
   height: 100px;
@@ -1285,6 +1289,10 @@ b {
 .portfolio-update__content .content__detail .detail__description {
   padding: 20px;
   min-height: 375px;
+}
+
+.wrapper--update-design-font.--jp .portfolio-update__content .content__detail .detail__description {
+  min-height: 330px;
 }
 
 .portfolio-update__content .content__detail .detail__goal {
@@ -1371,10 +1379,12 @@ b {
 }
 
 @media (max-width: 767.98px) {    
-  .portfolio-update__content .content__item.content__item--dm {
+  .portfolio-update__content .content__item.content__item--dm,
+  .wrapper--update-design-font.--jp .portfolio-update__content .content__item.content__item--dm {
     min-height: unset;
-  }
-  .portfolio-update__content .content__detail .detail__description {
+  }  
+  .portfolio-update__content .content__detail .detail__description,
+  .wrapper--update-design-font.--jp .portfolio-update__content .content__detail .detail__description {
     min-height: unset;
   }
   .portfolio-update .portfolio-update__link .link--dm .btn {

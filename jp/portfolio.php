@@ -407,28 +407,28 @@
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')">
                                     <img src="/img/portfolio/update/dm-bamboo.png" alt="">
-                                    <h4>Real Estate - Bamboo</h4>
-                                    <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
+                                    <h4>不動産開発販売 – Green Bamboo Terrace</h4>
+                                    <p>SEO | Web運用 | Google広告運用 | SNS広告</p>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')">
                                     <img src="/img/portfolio/update/dm-mirai.png" alt="">
-                                    <h4>Real Estate - Hajime</h4>
-                                    <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
+                                    <h4>不動産開発販売 – 一建設インドネシア</h4>
+                                    <p>SEO対策 | Web制作運用 | Google広告 | SNS広告</p>
                                 </div>
                             </div>
                             <div class="col-md-offset-0 col-sm-offset-3 col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-pilipili-bg.png')">
-                                    <img src="/img/portfolio/update/dm-pilipili.png" alt="">
+                                    <img src="/img/portfolio/update/dm-pilipili.png" alt="" style="flex-grow: 1; object-position: top;">
                                     <h4>E Commerce - Pilipili</h4>
-                                    <p>SEO | Website Maintenance</p>
+                                    <p>SEO対策 | Web最適化</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="text-center">
-                        <a href="/jp/services/digital-marketing.php" class="btn">
+                        <a href="/jp/portfolio/digital-marketing.php" class="btn">
                             Web・ホームページ制作実績をもっとみる
                         </a>
                     </div>

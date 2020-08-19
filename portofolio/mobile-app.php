@@ -172,7 +172,7 @@
                     <div class="row">
                         <div class="col-md-offset-1 col-md-7">
                             <div class="title"><h1>Mobile App Works</h1></div>
-                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> telah mengembangkan banyak Website, Aplikasi Berbasis Web dan Mobile App, serta memberikan dukungan terkait Penetration Test untuk klien dari berbagai industri seperti Asuransi, E-Commerce, dan Otomotif. Berikut adalah beberapa portofolio hasil Mobile App / PWA kami.</p>
+                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> menjadi perusahaan pengembang aplikasi mobile untuk beragam sistem operasi mulai dari Android, iOS, hingga Hybrid. Dengan solusi PWA (Teknologi Web Progresif) dan <strong>LOGIQUE</strong> kini telah berhasil membuktikan hasil kerja yang nyata dan memberikan pelayanan yang memuaskan untuk banyak klien dengan skala bisnis nasional hingga internasional.</p>
                             <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
                         </div>
                     </div>
