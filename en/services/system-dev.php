@@ -344,7 +344,7 @@
     <section class="content-section second-part whyus-section">
         <div class="container">
             <div class="sec-content-part">
-                <h2 class="text-center sub-section-title">Why should you choose ? <span class="logofont">LOGIQUE</span> ?</h2>
+                <h2 class="text-center sub-section-title">Why should you choose <span class="logofont">LOGIQUE</span> ?</h2>
                 <div class="page-content whyus-accordion">
                     <div class="panel-group" id="accordion">
                       <div class="panel panel-default">
