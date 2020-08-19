@@ -276,7 +276,7 @@ if(isset($_POST['submitted']))
                         <p class="price">15 juta 〜 30 juta IDR</p>
                     </div>
                     <div class="button-container">
-                        <a href="/jp/contact.php">
+                        <a href="/en/contact.php">
                             <p>Contact Us</p>
                         </a>
                     </div>
@@ -327,7 +327,7 @@ if(isset($_POST['submitted']))
                         <p class="price">30 juta 〜 60 juta IDR</p>
                     </div>
                     <div class="button-container">
-                        <a href="/jp/contact.php">
+                        <a href="/en/contact.php">
                             <p>Contact Us</p>
                         </a>
                     </div>
@@ -383,7 +383,7 @@ if(isset($_POST['submitted']))
                         <p class="price">80 juta 〜 150 juta IDR</p>
                     </div>
                     <div class="button-container">
-                        <a href="/jp/contact.php">
+                        <a href="/en/contact.php">
                             <p>Contact Us</p>
                         </a>
                     </div>
@@ -426,7 +426,7 @@ if(isset($_POST['submitted']))
                         <p class="price">200 juta 〜 500 juta</p>
                     </div>
                     <div class="button-container">
-                        <a href="/jp/contact.php">
+                        <a href="/en/contact.php">
                             <p>Contact Us</p>
                         </a>
                     </div>
@@ -580,7 +580,7 @@ if(isset($_POST['submitted']))
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <a href="/jp/contact.php">
+                    <a href="/en/contact.php">
                         <div class="slogan-container">
                             <p>
                                 Click here to contact us for more detailed quote
