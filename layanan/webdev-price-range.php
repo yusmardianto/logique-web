@@ -1,9 +1,47 @@
+<?php
+
+require_once("assets/form/fgcontact_webdev.php");
+
+$formproc = new FGContactForm();
+
+//1. Add your email address here.
+//You can add more than one receipients.
+$formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
+
+//2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
+// and put it here
+$formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
+
+//$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
+
+if(isset($_POST['submitted']))
+{
+    if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
+        $secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
+        // $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
+        $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+        // print_r($verifyResponse); exit;
+        $responseData = json_decode($verifyResponse);
+        if ($responseData->success) {
+            if ($formproc->ProcessForm()) {
+                $msg = "<div class='alert alert-success' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+            }
+        } else {
+            $msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
+        }
+    } else {
+        $msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
+   }
+ }
+?>
+
 <!DOCTYPE html>
-<html lang="id">
+<html lang="ja">
+
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
 	<meta name="description" content="LOGIQUE Digital Indonesia membuat dan mengembangkan website dan sistem web dengan kualitas tinggi, standar internasional, profesional, kecepatan, dan fleksibilitas terhadap segala macam perubahan yang Anda minta. Lihat harga pembuatan website dari LOGIQUE di sini.">
 	<meta name="keywords" content="">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -15,11 +53,14 @@
 	<meta property="og:description" content="LOGIQUE Digital Indonesia membuat dan mengembangkan website dan sistem web dengan kualitas tinggi, standar internasional, profesional, kecepatan, dan fleksibilitas terhadap segala macam perubahan yang Anda minta. Lihat harga pembuatan website dari LOGIQUE di sini.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 	<title>Harga Pembuatan Website | LOGIQUE Digital Indonesia</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">
-	<link href="assets/css/style_webdev_price.css" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<script>
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+    <link href="assets/css/style_webdev_service_new.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -30,18 +71,30 @@
 
 	</script>
 </head>
-<body class="price-range-page">
-	<header class="top-pricerange">
-		<div class="nav-lp">
-			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-				<span class="icon-bar first"></span>
-				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span> 
-			</button>
-			<div class="collapse navbar-collapse" id="myNavbar">
-				<div class="backdrop-test"></div>
-				<div class="logique-nav logique-nav--update">
-					<div class="margin-for-nav">
+
+<body>
+    <style>
+    @media only screen (max-width: 414px) {
+        .breadcrumb {
+            padding-left: 15px;
+        }
+    }
+    </style>
+    <div class="side-container"></div>
+    <div>
+
+        <!-- NAVIGATION -->
+        <div class="nav-lp">
+            <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
+                data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar first"></span>
+                <span class="icon-bar second"></span>
+                <span class="icon-bar third"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="myNavbar">
+        <div class="backdrop-test"></div>
+        <div class="logique-nav logique-nav--update">
+        <div class="margin-for-nav">
 						<div class="text-center">
 							<a href="/">
 								<div class="img-home"></div>
@@ -91,375 +144,498 @@
 							</a>
 						</div>
 					</div>
-				</div>
-			</div>
-		</div>
-		<div class="top-header-continer">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-6 col-sm-6">
-					  <a href="/" target="_blank" class="logo">
-					    <div class="logo-header">
-					      <img src="assets/img/img-systemdev/logo.png" alt="Fitur Perusahaan" class="img-responsive">
-					    </div>
-					  </a>
-					</div>
-					<div class="col-xs-6  col-sm-6 text-right">
-					  <div class="language-btn">
-					      <ul class="list-inline">
-					        <li ><a href="/en/services/webdev-price-range.php">EN</a></li>
-					        <li class="active"><a href="#">ID</a></li>
-					        <li><a href="/jp/services/web-dev-price-range.php">JP</a></li>
-					      </ul>
-					    </div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="breadcrumb-cont">
-		  <div class="container">
-		    <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
-		      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="../index.php"><span itemprop="name">Beranda</span></a><meta itemprop="position" content="1" /></li>
-		      <li   itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" href="../layanan.php" ><span itemprop="name">Layanan</span></a><meta itemprop="position" content="2" /></li>
-		       <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a itemprop="item" href="web-dev.php"><span itemprop="name">Produksi Website</span></a><meta itemprop="position" content="2" /></li>
-		      <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >  <span itemprop="name">Web Price Range</span> <meta itemprop="position" content="2" /></li>
-		    </ol>
-		  </div>
-		</div>
+        </div>
+      </div>
+        </div>
+        <!-- NAVIGATION -->
 
-		<div class="header-content">
-		  <div class="container">
-		    <h1>PRICE RANGE</h1>
-		    <h2 class="price headerinfo">
-		    	LOGIQUE telah mengembangkan berbagai jenis situs web, mulai dari situs web pemerintah, keuangan, hingga mengubah website gaya hidup dengan keamanan tingkat tinggi serta desain yang indah. 
-		    	Semua diproduksi dengan rapi dan selalu dapat memenuhi kepuasan klien kami. 
-		    	Berikut ini adalah harga standar yang telah ditetapkan oleh LOGIQUE dalam memproduksi segala jenis situs web.
-		    </h2>
-		  </div>
-		</div>
-	</header>
-	<section class="section-style disclaimer-container">
-	  <div class="container">
-	    <p>
-	    	Harap Diperhatikan: kisaran harga dan periode produksi pembuatan website di bawah ini merupakan estimasi standar dan dapat berubah sewaktu-waktu tergantung berbagai faktor, seperti ukuran situs web, kompleksitas, jumlah konten, fungsionalitas serta tujuan Anda.
-	    </p>
-	  </div>
-	</section>
-	<section class="section-style pricelist-container">
-		<div class="container">
-			<div class="row price-item pt-1">
-			  <div class="col-sm-12 price-title"><h3><span>Kasus 1</span></h3><span>Halaman Landing / Kampanye</span></div>
-			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-1.png" alt="Kasus 1"  class="img-responsive"></div>
-			  <div class="col-md-6  col-sm-7">
-			    <div class="price-cont">
-			      <div class="row ">
-			        <div class="col-xs-4 col-sm-4">Masa Produksi</div>
-			        <div class="col-xs-8  col-sm-8">Sekitar 2 minggu</div>
-			      </div>
-			      <div class="row">
-			        <div class="col-xs-4  col-sm-4">Jumlah halaman</div>
-			        <div class="col-xs-8 col-sm-8">1 halaman atau 2 halaman (2 bahasa)</div>
-			      </div>
-			      <div class="row">
-			        <div class="col-xs-4  col-sm-4">Biaya Produksi</div>
-			        <div class="col-xs-8 col-sm-8">Rp 20.000.000 ～</div>
-			      </div>
-			      <div class="row">
-			        <div class="col-xs-4  col-sm-4">Konten Produksi</div>
-			        <div class="col-xs-8 col-sm-8">
-			          <ul class="product-content">
-			            <li>Perencanaan, konfigurasi</li>
-			            <li>Desain</li>
-			            <li>Koding</li>
-			            <li>Responsif web</li>
-			            <li>Peluncuran web ( deploy ) atau mengirim file</li>
-			          </ul>
-			        </div>
-			      </div>
-			    </div>
-			  </div>
-			</div>
-			<div class="row price-item pt-2">
-			  <div class="col-sm-12 price-title"><h3><span>Kasus 2</span></h3><span>Branding Website / Website Perusahaan (skala kecil)</span></div>
-			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-2.png" alt="Kasus 2"  class="img-responsive"></div>
-			  <div class="col-md-6 col-sm-7">
-			    <div class="price-cont">
-			      <div class="row">
-			        <div class="col-xs-4 col-sm-4">Masa Produksi</div>
-			        <div class="col-xs-8 col-sm-8">Sekitar 1 bulan</div>
-			      </div>
-			      <div class="row">
-			        <div class="col-xs-4 col-sm-4">Jumlah halaman</div>
-			        <div class="col-xs-8 col-sm-8">Mencapai sekitar 10 halaman</div>
-			      </div>
-			      <div class="row">
-			        <div class="col-xs-4 col-sm-4">Biaya Produksi</div>
-			        <div class="col-xs-8 col-sm-8">Rp 40.000.000 ～</div>
-			      </div>
-			      <div class="row">
-			        <div class="col-xs-4 col-sm-4">Konten Produksi</div>
-			        <div class="col-xs-8 col-sm-8">
-			          <ul class="product-content">
-			            <li>Perencanaan, konfigurasi</li>
-			            <li>Desain</li>
-			            <li>Koding</li>
-			            <li>Responsif web</li>
-			            <li>Peluncuran web ( deploy ) atau mengirim file</li>
-			          </ul> 
-			        </div>
-			      </div>
-			    </div>
-			  </div>
-			</div>
-			<div class="row price-item pt-3">
-			  <div class="col-sm-12 price-title"><h3><span>Kasus 3</span></h3><span>Situs Website Perusahaan (skala menengah ke atas)</span></div>
-			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-3.png" alt="Kasus 3"  class="img-responsive"></div>
-			  <div class="col-md-6 col-sm-7">
-			    <div class="price-cont">
-			      <div class="row">
-			        <div class="col-xs-4 col-sm-4">Masa Produksi</div>
-			        <div class="col-xs-8 col-sm-8">Sekitar 2 bulan</div>
-			      </div>
-			      <div class="row">
-			        <div class="col-xs-4 col-sm-4">Jumlah halaman</div>
-			        <div class="col-xs-8 col-sm-8">30 halaman atau lebih</div>
-			      </div>
-			      <div class="row">
-			        <div class="col-xs-4 col-sm-4">Biaya Produksi</div>
-			        <div class="col-xs-8 col-sm-8">Rp 70.000.000 ～</div>
-			      </div>
-			      <div class="row">
-			        <div class="col-xs-4 col-sm-4">Konten Produksi</div>
-			        <div class="col-xs-8 col-sm-8">
-			          <ul class="product-content">
-			            <li>Perencanaan, konfigurasi</li>
-			            <li>Desain</li>
-			            <li>Koding</li>
-			            <li>Responsif web</li>
-			            <li>Peluncuran web ( deploy ) atau mengirim file</li>
-			          </ul>
-			        </div>
-			      </div>
-			    </div>
-			  </div>
-			</div>
-			<div class="row price-item pt-4">
-			  <div class="col-sm-12 price-title"><h3><span>Kasus 4</span></h3><span>Website / E-Commerce / Website dengan CMS (skala menengah)</span></div>
-			  <div class="col-md-6 col-sm-5"><img src="assets/img/img-price-range/img-price-4.png" alt="Kasus 4" class="img-responsive"></div>
-			  <div class="col-md-6 col-sm-7">
-			    <div class="price-cont">
-			      <div class="row">
-			        <div class="col-xs-4 col-sm-4">Masa Produksi</div>
-			        <div class="col-xs-8 col-sm-8">Sekitar 2,5 bulan</div>
-			      </div>
-			      <div class="row">
-			        <div class="col-xs-4 col-sm-4">Jumlah halaman</div>
-			        <div class="col-xs-8 col-sm-8">30 halaman atau lebih</div>
-			      </div>
-			      <div class="row">
-			        <div class="col-xs-4 col-sm-4">Biaya Produksi</div>
-			        <div class="col-xs-8 col-sm-8">Rp 100.000.000 ～</div>
-			      </div>
-			      <div class="row">
-			        <div class="col-xs-4 col-sm-4">Konten Produksi</div>
-			        <div class="col-xs-8 col-sm-8">
-			          <ul class="product-content">
-			            <li>Perencanaan, konfigurasi</li>
-			            <li>Desain</li>
-			            <li>Koding</li>
-			            <li>Responsif web</li>
-			            <li>Peluncuran web ( deploy ) atau mengirim file</li>
-			          </ul>
-			        </div>
-			      </div>
-			    </div>
-			  </div>
-			</div>
-		</div>
-	</section>
-	<section class="section-style estimate-price-container">
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-8">
-				  <div class="estimate-title">
-				    <h2>Perkiraan Biaya untuk Setiap Produksi Website</h2>
-				    Sejak mendapatkan informasi mengenai situs web Anda hingga proposal awal
-				  </div>
-				</div>
-				<div class="col-sm-4">
-				  <img src="assets/img/img-price-range/img-meeting.png" alt="Perkiraan Biaya untuk Setiap Produksi Website" class="img-responsive">
-				</div>
-			</div>
-			<div class="estimate-item">
-			  <div class="row ">
-			    <div class="col-sm-5 col-md-4 col-lg-3">Proposal Awal </div>
-			    <div class="col-sm-2 col-md-3 col-lg-2">Gratis</div>
-			    <div class="col-sm-5 col-md-5 col-lg-7">
-			    	Sudah termasuk pengajuan penawaran dan pertemuan untuk pembuatan proposal. 
-			    	Biasanya kami tidak membuat desain ketika berada di tahap pengajuan proposal. 
-			    	Namun, jika Anda membutuhkannya, maka kami dapat membuat desain kasar, dan mungkin Anda akan dikenai biaya tambahan untuk permintaan pengajuan desain tersebut.
-			    </div>
-			  </div>
-			</div>
-			<div class="other-estimate">
-			  <div class="other-estimate-title">
-			    <h3>Harga Standar Produksi Situs Web Lainnya</h3>
-			    <div>
-			    	Harga yang kami sediakan bervariasi tergantung pada tingkat kesulitan, kepadatan jadwal, dll.
-			    	Berikut ini adalah detail biaya pengerjaan untuk setiap fiturnya. 
-			    	Mohon diperhatikan, bahwa informasi di bawah ini juga merupakan estimasi biaya standar.
-			    </div>
-			  </div>
-			</div>
-			<div class="other-price-container">
-				<div class="other-price-item">
-				  <div class="row">
-				    <div class="col-sm-8 col-md-4 col-lg-4">HTML/CSS Coding (1 Website)</div>
-				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 15,000,000 ～</div>
-				    <div class="col-sm-12 col-md-5 col-lg-6">
-				    	Biaya yang dikeluarkan tergantung pada konfigurasi website, pembuatan halaman HTML/CSS akan dikenai biaya Rp 15.000.000 jika website merupakan web perusahaan standar ( dengan total mencapai 10 halaman ). Proses yang akan kami lakukan antara lain, coding standar, memasang Google Analytics, dan menulis meta tag yang ditentukan.
-				    </div>
-				  </div>
-				</div>
-				<div class="other-price-item">
-				  <div class="row">
-				    <div class="col-sm-8 col-md-4 col-lg-4">HTML/CSS Coding (Per 1 halaman)</div>
-				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 500,000</div>
-				    <div class="col-sm-12 col-md-5 col-lg-6">
-				    	Meskipun biaya dapat berubah tergantung pada volume dan konfigurasi konten yang dibutuhkan di dalam halaman, namun mohon diperhatikan bahwa RP 500.000 per-halaman adalah estimasi harga standar. Jika semua desain dan konten dipersiapkan untuk 10 halaman website, maka kemungkinan biaya yang dikeluarkan adalah Rp 5.000.000.
-				    </div>
-				  </div>
-				</div>
-				<div class="other-price-item">
-				  <div class="row">
-				    <div class="col-sm-8 col-md-4 col-lg-4">Motion Coding </div>
-				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 5.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5 col-lg-6">
-				      Menerapkan pemrograman visual seperti gerakan dengan efek parallax menggunakan jQuery, HTML5, dll.
-				    </div>
-				  </div>
-				</div>
-				<div class="other-price-item">
-				  <div class="row">
-				    <div class="col-sm-8 col-md-4 col-lg-4">Pembuatan Logo dan Ilustrasi </div>
-				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 10.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5 col-lg-6">
-				    	Jika perusahaan Anda belum memiliki logo, maka kami dapat membantu Anda membuatkannya. 
-				    	Kami akan membuat logo yang ideal dengan perusahaan Anda dengan beberapa pola ilustrasi.
-				    </div>
-				  </div>
-				</div>
-				<div class="other-price-item">
-				  <div class="row">
-				    <div class="col-sm-8 col-md-4 col-lg-4">Fitur Online Chat </div>
-				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 5.000.000</div>
-				    <div class="col-sm-12 col-md-5 col-lg-6">
-				    	Menerapkan fitur online chat di dalam situs web Anda, merupakan langkah yang baik sebagai pelayanan pelanggan yang mudah dan cepat, fitur ini juga dapat membantu meningkatkan penjualan Anda.
-				    </div>
-				  </div>
-				</div>
-				<div class="other-price-item">
-				  <div class="row">
-				    <div class="col-sm-8 col-md-4 col-lg-4">Optimasi halaman permintaan </div>
-				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 15.000.000</div>
-				    <div class="col-sm-12 col-md-5 col-lg-6">
-				    	Dengan mengoptimasi konten yang ada pada halaman permintaan dan formulir, Anda dapat memaksimalkan jumlah kueri dan meminimalkan terjadinya penurunan penilaian dari pengguna yang mengunjungi situs web Anda.
-				    </div>
-				  </div>
-				</div>
-				<div class="other-price-item">
-				  <div class="row">
-				    <div class="col-sm-8 col-md-4 col-lg-4">Optimasi halaman rekrutmen </div>
-				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 15.000.000</div>
-				    <div class="col-sm-12 col-md-5 col-lg-6">
-				      <p>Optimalkan konten di halaman rekrutmen untuk meningkatkan masuknya jumlah lamaran melalui situs web Anda. Kami juga dapat membangun web dengan sistem perekrutan sebagai situs web khusus. <a href="/layanan/pembuatan-web-karir.php">Klik di sini untuk lebih detail.</a></p>
-				      <p>Kami juga menyediakan cloud untuk operasi perekrutan yang lebih efisien, yaitu <b>Sugoi Saiyo</b>.</p></div>
-				  </div>
-				</div>
-				<div class="other-price-item">
-				  <div class="row">
-				    <div class="col-sm-8 col-md-4 col-lg-4">Fitur keranjang belanja</div>
-				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 20.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5 col-lg-6">
-				    	Kami dapat menggunakan kerangka kerja e-commerce untuk memberikan kemampuan berbelanja di dalam web Anda. 
-				    	Terdapat beragam fitur yang membutuhkan persyaratan khusus, jadi silahkan hubungi kami terlebih dahulu untuk detail infromasinya.
-				    </div>
-				  </div>
-				</div>
-				<div class="other-price-item">
-				  <div class="row">
-				    <div class="col-sm-8 col-md-4 col-lg-4">Payment gateway </div>
-				    <div class="col-sm-4 col-md-3 col-lg-2"> Rp 15.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5 col-lg-6">
-				    	Kami memiliki pengalaman dalam membangun fungsi tautan dengan layanan payment gateway untuk perusahaan terkemuka di Indonesia. 
-				    	Silakan hubungi kami karena penyelesaian masalah berlangganan juga dapat kami selesaikan.
-				    </div>
-				  </div>
-				</div>
-				<div class="other-price-item">
-				  <div class="row">
-				    <div class="col-sm-8 col-md-4 col-lg-4">Pembuatan API </div>
-				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 15.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5 col-lg-6">
-				    	Kami akan membuat API untuk menghubungkan fungsi / informasi dengan sistem lain, situs web lain, aplikasi seluler, dan layanan lain. 
-				    	Kami dapat mengembangkan sistem sesuai dengan format data (XML, HTML, JSON, dll) untuk dikirim dan diterima.
-				    </div>
-				  </div>
-				</div>
-				<div class="other-price-item">
-				  <div class="row">
-				    <div class="col-sm-8 col-md-4 col-lg-4">Pembuatan Konten </div>
-				    <div class="col-sm-4 col-md-3 col-lg-2">Silakan hubungi kami untuk detail harga.</div>
-				    <div class="col-sm-12 col-md-5 col-lg-6">
-				      Pembuatan konten reguler atau pembuatan konten untuk satu kali (pembuatan konten pada saat pembuatan situs web) juga dapat kami layani. 
-				      Kisaran harga tergantung pada volume, ciri khas konten yang akan dibuat, bahasa konten yang akan dibuat, dll. 
-				      Silahkan berkonsultasi dengan kami untuk informasi lebih lanjut.
-				    </div>
-				  </div>
-				</div>
-				<div class="other-price-item">
-				  <div class="row">
-				    <div class="col-sm-8 col-md-4 col-lg-4">Fotografi </div>
-				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 5.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5 col-lg-6">
-				      Harga sudah termasuk pemotretan untuk 1 lokasi, 5 sampai 10 foto, dengan durasi pemotretan selama 4 jam. 
-				      Silakan hubungi kami untuk rincian informasi mengenai pengambilan gambar di luar ruangan atau di pabrik.
-				    </div>
-				  </div>
-				</div>
-				<div class="other-price-item">
-				  <div class="row">
-				    <div class="col-sm-8 col-md-4 col-lg-4">Pengambilan Gambar menggunakan Drone </div>
-				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 5.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5 col-lg-6">
-				      Pengambilan gambar di 1 lokasi, 1 kali penerbangan, durasi pengambilan gambar selama 15 menit , disampaikan dengan data animasi. 
-				      Layanan ini tidak termasuk permintaan izin penerbangan.
-				    </div>
-				  </div>
-				</div>
-				<div class="other-price-item">
-				  <div class="row">
-				    <div class="col-sm-8 col-md-4 col-lg-4">Pengeditan pembuatan film</div>
-				    <div class="col-sm-4 col-md-3 col-lg-2">Rp 20.000.000 〜</div>
-				    <div class="col-sm-12 col-md-5 col-lg-6">
-				    	Kami membuat film untuk berbagai kebutuhan, mulai dari video yang dibuat hanya dengan grafik / animasi saja sampai pembuatan dan produksi film secara lengkap.
-				    </div>
-				  </div>
-				</div>
-				<div class="btn-contact-price-range">
-					<p>
-						Jika Anda ingin mendapatkan layanan produksi atau pembuatan website tertentu yang tidak kami sebutkan di atas, jangan ragu untuk menghubungi kami untuk melakukan permintaan penawaran.
-					</p>
-					<div class="btn-container text-center">
-					  <a href="/hubungi-kami.php" class="btn btn-contact-us-black">
-					  Klik di sini untuk menghubungi kami mengenai detail lainnya
-					  </a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<?php include '../footer.php'; ?>
-	<script src="/js/jquery.matchHeight.js"></script>
-</body>
+        <!-- HEADER -->
+        <div class="container-fluid">
+            <div class="row lang-logo--update-design">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="container">
+                                <ul class="list-inline">
+                                    <li><a href="/en/services/webdev-price-range.php">EN</a></li>
+                                    <li class="active"><a href="/layanan/webdev-price-range.php">ID</a></li>
+                                    <li><a href="/jp/services/web-dev-price-range.php">JP</a></li>
+                                </ul>
+                                <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
+                                        class="img-responsive logo--update-design" /></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END HEADER -->
+
+        <header class="content-wrapper__">
+            <div class="text-left --top">
+                <div class="container-fluid">
+                    <div class="row bg-section">
+                        <div class="col-md-12">
+                            <img src="assets/img/img-webdev/webdev-service/mainbg.png" alt="">
+                        </div>
+                        <div class="col-sm-12 breadcrumb-section">
+                            <ol class="breadcrumb breadcrumb--update-design" itemscope
+                                itemtype="http://schema.org/BreadcrumbList">
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                        href="../index.php"><span itemprop="name">Beranda</span></a>
+                                    <meta itemprop="position" content="1" />
+                                </li>
+                                <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                        itemprop="item" href="../layanan.php"><span itemprop="name">&nbsp;Layanan</span></a>
+                                    <meta itemprop="position" content="2" />
+                                </li>
+                                <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                       href="web-dev.php" itemprop="item"><span itemprop="name">&nbsp;Produksi Website</span></a>
+                                    <meta itemprop="position" content="3" />
+                                </li>
+                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                        itemprop="item"><span itemprop="name">&nbsp;Web Price Range</span></a>
+                                    <meta itemprop="position" content="3" />
+                                </li>
+                            </ol>
+                        </div>
+                        <div class="col-md-12 m-t-2em main-section">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-6"></div>
+                                    <div class="col-md-6">
+                                        <h1 class="title">
+                                            <span><span>Opsi Layanan Pembuatan Website</span></span>
+                                        </h1>
+                                        <div class="content">
+                                            <p>
+                                                Sejauh ini banyak pelanggan yang ingin tahu terlebih dahulu estimasi biaya yang dibutuhkan terkait pembuatan website atau pengembangan sistem berbasis web untuk memastikan biaya tersebut sesuai dengan anggaran yang dimiliki.
+                                            </p>
+                                            <p>
+                                                Oleh karena itu kami telah menyiapkan empat pilihan layanan yang dapat memberikan gambaran terhadap kebutuhan para pelanggan dalam pembuatan atau pengelolaan website.
+                                                Walaupun cakupan pekerjaan akan bergantung dari jumlah anggaran yang tersedia, namun kami akan tetap melakukan yang terbaik untuk mengerjakan proyek apa pun sesuai dengan cakupan pekerjaan yang ada.
+                                            </p>
+                                            <p>
+                                                Jika Anda tidak yakin kategori layanan mana yang sesuai dengan kebutuhan Anda, silakan hubungi kami.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </div>
+    <section class="miniplan">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 img-container">
+                    <img src="assets/img/img-webdev/webdev-service/11.png" alt="">
+                </div>
+                <div class="col-md-6 content-container">
+                    <div class="title-container">
+                        <p>Opsi Produksi Cepat</p>
+                    </div>
+                    <p class="content">Website Sederhana atau Landing Page</p>
+                    <div class="detail-container">
+                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                        <div class="detail-title">
+                            <span>Masa Produksi</span>
+                        </div>
+                        <div class="detail-content">
+                            <span>~ 1 Bulan</span>
+                        </div>
+                    </div>
+                    <div class="detail-container">
+                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                        <div class="detail-title">
+                            <span>Jumlah Halaman</span>
+                        </div>
+                        <div class="detail-content">
+                            <span>Sampai dengan 5 halaman</span>
+                        </div>
+                    </div>
+                    <div class="detail-container detail-margin">
+                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                        <div class="detail-title">
+                            <span>Cakupan Pekerjaan</span>
+                        </div>
+                        <div class="detail-content detail-list">
+                            <p>• Desain, Koding HTML, Implementasi Standar SEO, Pengetesan dan Penyesuaian, Peluncuran Website  </p>
+                            <p>• Materi wajib disediakan oleh klien.</p>
+                            <p>• Konten website tersedia dalam bentuk statis.</p>
+                        </div>
+                    </div>
+                    <div class="price-container">
+                        <p class="title">Biaya Produksi</p>
+                        <p class="price">15 juta 〜 30 juta IDR</p>
+                    </div>
+                    <div class="button-container">
+                        <a href="../hubungi-kami.php">
+                            <p>Hubungi Kami</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="standardplan">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 content-container">
+                    <div class="title-container">
+                        <p>Opsi Produksi Standar</p>
+                    </div>
+                    <p class="content">Website Layanan atau Website Perusahaan Standar</p>
+                    <div class="detail-container">
+                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                        <div class="detail-title">
+                            <span>Masa Produksi</span>
+                        </div>
+                        <div class="detail-content">
+                            <span>1 ~ 2,5 Bulan</span>
+                        </div>
+                    </div>
+                    <div class="detail-container">
+                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                        <div class="detail-title">
+                            <span>Jumlah Halaman</span>
+                        </div>
+                        <div class="detail-content">
+                            <span>Sampai dengan 20 halaman</span>
+                        </div>
+                    </div>
+                    <div class="detail-container detail-margin">
+                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                        <div class="detail-title">
+                            <span>Cakupan Pekerjaan</span>
+                        </div>
+                        <div class="detail-content detail-list">
+                            <p>•	Desain, Koding HTML, Implementasi CMS, Implementasi Standar SEO, Pengetesan dan Penyesuaian, Peluncuran Website.</p>
+                            <p>•	Pembuatan website statis, berbasis Wordpress atau CMS yang dibuat khusus untuk Anda dari awal.</p>
+                            <p>•	Secara umum materi akan disediakan oleh perusahaan kami.</p>
+                            <p>	*Akan terdapat biaya tambahan jika ternyata waktu produksi telah melebihi 4 bulan yang disebabkan oleh keterlambatan dari sisi pelanggan.</p>
+                        </div>
+                    </div>
+                    <div class="price-container">
+                        <p class="title">Biaya Produksi</p>
+                        <p class="price">30 juta 〜 60 juta IDR</p>
+                    </div>
+                    <div class="button-container">
+                        <a href="../hubungi-kami.php">
+                            <p>Hubungi Kami</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-6 img-container">
+                    <img src="assets/img/img-webdev/webdev-service/22.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="largeplan">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 img-container">
+                    <img src="assets/img/img-webdev/webdev-service/33.png" alt="">
+                </div>
+                <div class="col-md-6 content-container">
+                    <div class="title-container">
+                        <p>Opsi Produksi dalam Skala Besar</p>
+                    </div>
+                    <p class="content">Website Layanan atau Website Perusahaan Berskala Besar</p>
+                    <div class="detail-container">
+                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                        <div class="detail-title">
+                            <span>Masa Produksi</span>
+                        </div>
+                        <div class="detail-content">
+                            <span> 2,5 ~ 4 Bulan</span>
+                        </div>
+                    </div>
+                    <div class="detail-container">
+                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                        <div class="detail-title">
+                            <span>Jumlah Halaman </span>
+                        </div>
+                        <div class="detail-content">
+                            <span>Lebih dari 50 halaman</span>
+                        </div>
+                    </div>
+                    <div class="detail-container detail-margin">
+                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                        <div class="detail-title">
+                            <span>Cakupan Pekerjaan</span>
+                        </div>
+                        <div class="detail-content detail-list">
+                            <p>•	Desain, Koding HTML,  Implementasi Standar SEO, Pengembangan dan Implemenasi CMS, Pengetesan, Konfigurasi Server / Infrastruktur, Pengecekan Tingkat Keamanan (untuk layanan Pentest lebih detil akan dikenakan biaya tambahan), Peluncuran Website. </p>
+                            <p>•	Pengembangan berbasis CMS Open Source atau CMS yang dibuat khusus untuk Anda dari awal, yang biasanya berbasis PHP - Laravel.</p>
+                            <p>•	Secara umum materi akan disediakan oleh perusahaan kami.</p>
+                        </div>
+                    </div>
+                    <div class="price-container">
+                        <p class="title">Biaya Produksi</p>
+                        <p class="price">80 juta 〜 150 juta IDR</p>
+                    </div>
+                    <div class="button-container">
+                        <a href="../hubungi-kami.php">
+                            <p>Hubungi Kami</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="strategicplan">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 content-container">
+                    <div class="title-container">
+                        <p>Opsi Produksi Strategis</p>
+                    </div>
+                    <p class="content">Menyusun rencana dan membuat website sesuai dengan perencanaan dan solusi yang sudah diformulasikan.</p>
+                    <div class="detail-container">
+                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                        <div class="detail-title">
+                            <span>Masa Produksi</span>
+                        </div>
+                        <div class="detail-content">
+                            <span> 3 ~ 5 Bulan</span>
+                        </div>
+                    </div>
+                    <div class="detail-container detail-margin">
+                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                        <div class="detail-title">
+                            <span>Cakupan Pekerjaan</span>
+                        </div>
+                        <div class="detail-content detail-list">
+                            <p>•	Tidak ada batasan pada lingkup pekerjaan. Kami akan membantu Anda untuk membangun sistem berbasis website yang sesuai dengan permintaan dan melakukan hal-hal yang diperlukan untuk membedakan Anda dari para pesaing yang ada.</p>
+                            <p>•	Konsultan kami akan membantu menangani proyek tersebut dan berkolaborasi dengan user dari berbagai departemen yang diperlukan di perusahaan Anda.</p>
+                            <p>•	Pertama-tama kami akan melakukan fase perencanaan dan penentuan solusi (kira-kira 1 bulan). Pada fase ini kami akan membuat pengajuan terkait lingkup pekerjaan, jangka waktu pengerjaan, dan total biaya yang diperlukan untuk proses produksi.</p>
+                            <p>•	Membuat strategi dari sesi-sesi konsultasi yang dilakukan.</p>
+                            <p>•	Yang dihasilkan pada fase perencanaan atau penyusunan strategi ini meliputi: perjalanan interaksi pengguna, analisa persona, analisa tingkat kunjungan saat ini, pengajuan konsep dan pesan merek, peta situs, dokumentasi perencanaan konten, wireframe, pedoman desain, dll (dapat berbeda pada setiap proyek).</p>
+                        </div>
+                    </div>
+                    <div class="price-container">
+                        <p class="title">Biaya Produksi </p>
+                        <p class="price">200 juta 〜 500 juta</p>
+                    </div>
+                    <div class="button-container">
+                        <a href="../hubungi-kami.php">
+                            <p>Hubungi Kami</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-6 img-container">
+                    <img src="assets/img/img-webdev/webdev-service/44.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="promo">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="promo-container">
+                        <img src="assets/img/img-webdev/webdev-service/promo.png" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="promo-list promo-odd">
+                        <div class="promo-title">
+                            <p>Pengumpulan Informasi - Penawaran Awal</p>
+                        </div>
+                        <div class="promo-content">
+                            <p>Sudah termasuk interaksi selama proses komunikasi dan pertemuan yang diperlukan; saran yang kami berikan di tahap ini tidak dipungut biaya. Secara umum dalam tahap penawaran, kami tidak memberikan contoh desain. Namun, jika Anda benar-benar membutuhkannya, maka kami dapat memberikannya dengan biaya tambahan untuk pembuatan desain tersebut.</p>
+                        </div>
+                    </div>  
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="promo-list">
+                        <div class="promo-title">
+                            <p>Acuan Terkait Harga Pengembangan</p>
+                        </div>
+                        <div class="promo-content">
+                            <p>Harga yang kami berikan bervariasi tergantung pada tingkat kesulitan dan seberapa cepat pengembangan harus dilakukan yang akan mempengaruhi jumlah dan level anggota tim yang perlu dialokasikan untuk proyek tersebut. Berikut ini adalah gambaran biaya pengerjaan berdasarkan fitur. Mohon diperhatikan, bahwa informasi di bawah ini hanya merupakan estimasi biaya secara umum.</p>
+                        </div>
+                    </div>  
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="datatable">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="table-responsive table-data">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Layanan</th>
+                                    <th scope="col">Harga </th>
+                                    <th scope="col" class="col-md-6">Deskripsi</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>HTML/CSS Coding (1 Website)</td>
+                                    <td>Rp 15,000,000 ～</td>
+                                    <td class="col-md-6">Biaya yang dikeluarkan tergantung pada konfigurasi website, pembuatan halaman HTML/CSS akan dikenai biaya Rp 15.000.000 jika website merupakan web perusahaan standar ( dengan total mencapai 10 halaman ). Proses yang akan kami lakukan antara lain, coding standar, memasang Google Analytics, dan menulis meta tag yang ditentukan.</td>
+                                </tr>
+                                <tr>
+                                    <td>HTML/CSS Coding (Per 1 halaman)</td>
+                                    <td>Rp 500,000</td>
+                                    <td>Meskipun biaya dapat berubah tergantung pada volume dan konfigurasi konten yang dibutuhkan di dalam halaman, namun mohon diperhatikan bahwa RP 500.000 per-halaman adalah estimasi harga standar. Jika semua desain dan konten dipersiapkan untuk 10 halaman website, maka kemungkinan biaya yang dikeluarkan adalah Rp 5.000.000.</td>
+                                </tr>
+                                <tr>
+                                    <td>Motion Coding</td>
+                                    <td>Rp 5.000.000 〜</td>
+                                    <td>Menerapkan pemrograman visual seperti gerakan dengan efek parallax menggunakan jQuery, HTML5, dll.</td>
+                                </tr>
+                                <tr>
+                                    <td>Pembuatan Logo dan Ilustrasi</td>
+                                    <td>Rp 10.000.000 〜</td>
+                                    <td>Jika perusahaan Anda belum memiliki logo, maka kami dapat membantu Anda membuatkannya. Kami akan membuat logo yang ideal dengan perusahaan Anda dengan beberapa pola ilustrasi.</td>
+                                </tr>
+                                <tr>
+                                    <td>Fitur Online Chat</td>
+                                    <td>Rp 5.000.000</td>
+                                    <td>Menerapkan fitur online chat di dalam situs web Anda, merupakan langkah yang baik sebagai pelayanan pelanggan yang mudah dan cepat, fitur ini juga dapat membantu meningkatkan penjualan Anda.</td>
+                                </tr>
+                                <tr>
+                                    <td>Optimasi halaman permintaan</td>
+                                    <td>Rp 15.000.000</td>
+                                    <td>Dengan mengoptimasi konten yang ada pada halaman permintaan dan formulir, Anda dapat memaksimalkan jumlah kueri dan meminimalkan terjadinya penurunan penilaian dari pengguna yang mengunjungi situs web Anda.</td>
+                                </tr>
+                                <tr>
+                                    <td>Optimasi halaman rekrutmen</td>
+                                    <td>Rp 15.000.000</td>
+                                    <td>Optimalkan konten di halaman rekrutmen untuk meningkatkan masuknya jumlah lamaran melalui situs web Anda. Kami juga dapat membangun web dengan sistem perekrutan sebagai situs web khusus. 
+                                        <a href="/pembuatan-web-karir.php">
+                                        <span style="color: #1985D6;">Klik di sini untuk lebih detail.</span>    
+                                        </a>
+                                        Kami juga menyediakan cloud untuk operasi perekrutan yang lebih efisien, yaitu Sugoi Saiyo.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Fitur keranjang belanja</td>
+                                    <td>Rp 20.000.000 〜</td>
+                                    <td>Kami dapat menggunakan kerangka kerja e-commerce untuk memberikan kemampuan berbelanja di dalam web Anda. Terdapat beragam fitur yang membutuhkan persyaratan khusus, jadi silahkan hubungi kami terlebih dahulu untuk detail infromasinya.</td>
+                                </tr>
+                                <tr>
+                                    <td>Payment gateway</td>
+                                    <td>Rp 15.000.000 〜</td>
+                                    <td>Kami memiliki pengalaman dalam membangun fungsi tautan dengan layanan payment gateway untuk perusahaan terkemuka di Indonesia. Silakan hubungi kami karena penyelesaian masalah berlangganan juga dapat kami selesaikan.</td>
+                                </tr>
+                                <tr>
+                                    <td>Pembuatan API</td>
+                                    <td>Rp 15.000.000 〜</td>
+                                    <td>Kami akan membuat API untuk menghubungkan fungsi / informasi dengan sistem lain, situs web lain, aplikasi seluler, dan layanan lain. Kami dapat mengembangkan sistem sesuai dengan format data (XML, HTML, JSON, dll) untuk dikirim dan diterima.</td>
+                                </tr>
+                                <tr>
+                                    <td>Pembuatan Konten</td>
+                                    <td>Silakan hubungi kami untuk detail harga.</td>
+                                    <td>Pembuatan konten reguler atau pembuatan konten untuk satu kali (pembuatan konten pada saat pembuatan situs web) juga dapat kami layani. Kisaran harga tergantung pada volume, ciri khas konten yang akan dibuat, bahasa konten yang akan dibuat, dll. Silahkan berkonsultasi dengan kami untuk informasi lebih lanjut.</td>
+                                </tr>
+                                <tr>
+                                    <td>Fotografi</td>
+                                    <td>Rp 5.000.000 〜</td>
+                                    <td>Harga sudah termasuk pemotretan untuk 1 lokasi, 5 sampai 10 foto, dengan durasi pemotretan selama 4 jam. Silakan hubungi kami untuk rincian informasi mengenai pengambilan gambar di luar ruangan atau di pabrik.</td>
+                                </tr>
+                                <tr>
+                                    <td>Pengambilan Gambar menggunakan Drone</td>
+                                    <td>Rp 5.000.000 〜</td>
+                                    <td>Pengambilan gambar di 1 lokasi, 1 kali penerbangan, durasi pengambilan gambar selama 15 menit , disampaikan dengan data animasi. Layanan ini tidak termasuk permintaan izin penerbangan.</td>
+                                </tr>
+                                <tr>
+                                    <td>Pengeditan pembuatan film</td>
+                                    <td>Rp 20.000.000 〜</td>
+                                    <td>Kami membuat film untuk berbagai kebutuhan, mulai dari video yang dibuat hanya dengan grafik / animasi saja sampai pembuatan dan produksi film secara lengkap.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <a href="../hubungi-kami.php">
+                        <div class="slogan-container">
+                            <p>
+                                Klik disini untuk menghubungi kami mengenai detail lainnya
+                            </p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gallery">
+        <div class="container">
+            <div class="row ads-container">
+                <div class="col-md-6 col-sm-6">
+                    <a href="https://www.facebook.com/logique.id/" target="_blank">
+                        <img src="assets/img/img-webdev/facebookads.png" alt="">
+                    </a>
+                </div>
+                <div class="col-md-6 col-sm-6">
+                     <a href="https://www.linkedin.com/company/13420656" target="_blank">
+                        <img src="assets/img/img-webdev/linkedinads.png" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
+    <?php include '../footer.php'; ?>
+
+    <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <script type="text/javascript">
+    $(function() {
+        $('.smooth').click(function() {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname ==
+                this.hostname) {
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html, body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    </script>
+    <script type="text/javascript">
+        // Instantiate the Bootstrap carousel
+        $('.multi-item-carousel').carousel({
+        interval: false
+        });
+
+        // for every slide in carousel, copy the next slide's item in the slide.
+        // Do the same for the next, next item.
+        $('.multi-item-carousel .item').each(function(){
+        var next = $(this).next();
+        if (!next.length) {
+            next = $(this).siblings(':first');
+        }
+        next.children(':first-child').clone().appendTo($(this));
+        
+        // if (next.next().length>0) {
+        //     next.next().children(':first-child').clone().appendTo($(this));
+        // } else {
+        //     $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
+        // }
+        });
+    </script>
 </html>

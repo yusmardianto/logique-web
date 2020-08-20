@@ -479,18 +479,6 @@ if(isset($_POST['submitted']))
                     </div>  
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="promo-list promo-odd">
-                        <div class="promo-title">
-                            <p>ヒアリング・初回ご提案</p>
-                        </div>
-                        <div class="promo-content">
-                            <p>無料ご提案するためのやりとりや打ち合わせを含みます。通常、ご提案段階でのデザイン制作はしておりません。どうしてもラフデザインの制作が必要な場合、提案デザイン制作費をいただく場合があります。</p>
-                        </div>
-                    </div>  
-                </div>
-            </div>
         </div>
     </section>
     <section class="datatable">

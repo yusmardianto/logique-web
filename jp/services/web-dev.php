@@ -997,9 +997,9 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">AIA</p>
-                            <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p>
-                            <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p>
+                            <p class="title">AIA Group</p>
+                            <p class="content">保険会社AIAのキャンペーンサイトやマイクロサイトの制作を委託いただいてきました。</p>
+                            <!-- <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p> -->
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1017,7 +1017,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                     <p>Industry/Industry</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Insurance</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1025,7 +1025,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                     <p>Genre</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>マイクロサイト</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1033,26 +1033,18 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                     <p>Project Period</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>2ヶ月</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Device</p>
+                                    <p>Scope</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>デザイン／HTMLコーディング／パララックスプログラミング／インフラ管理／プロジェクト管理</p>
                                 </div>
                             </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi explicabo eum, aliquam laudantium iste cumque quis enim eos eveniet corrupti tempore natus. Nesciunt, quaerat aut repudiandae vitae enim ipsam provident.</p>
-                                </div>
-                            </div>
-                            <div class="content-container scope-container">
+                            <!-- <div class="content-container scope-container">
                                 <div class="content-title">
                                     <p>Scope/person in charge</p>
                                 </div>
@@ -1111,7 +1103,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                     Lorem Ipsum
                                     </p>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="img-section">
                             <img src="assets/img/aia.png" alt="">
@@ -1128,9 +1120,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">Panin</p>
-                            <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p>
-                            <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p>
+                            <p class="title">Panin Dai-ichi Life Asuransi Indonesia</p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1148,7 +1138,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                     <p>Industry/Industry</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Insurance</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1156,7 +1146,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                     <p>Genre</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>E-Commerce</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1164,26 +1154,18 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                     <p>Project Period</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>4ヶ月</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Device</p>
+                                    <p>Scope</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Web設計／デザイン／HTMLコーディング／インフラ設計／システム要件定義／システム開発／プロジェクト管理</p>
                                 </div>
                             </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi explicabo eum, aliquam laudantium iste cumque quis enim eos eveniet corrupti tempore natus. Nesciunt, quaerat aut repudiandae vitae enim ipsam provident.</p>
-                                </div>
-                            </div>
-                            <div class="content-container scope-container">
+                            <!-- <div class="content-container scope-container">
                                 <div class="content-title">
                                     <p>Scope/person in charge</p>
                                 </div>
@@ -1242,7 +1224,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                     Lorem Ipsum
                                     </p>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="img-section">
                             <img src="assets/img/panin.png" alt="">
@@ -1260,8 +1242,8 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                         </button>
                         <div class="title-section">
                             <p class="title">JBA</p>
-                            <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p>
-                            <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p>
+                            <!-- <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p> -->
+                            <p class="content">JBAのコーポレート＆オークションサービスWebサイトを長きに渡り制作＆運用しています。2019年新CIに併せWebサイトもフルリニューアルしました。多くのリピートユーザーが頻繁に訪問し多くのページをブラウズしていますので、オークション出店されている車の閲覧性を高めることに注力して制作しました。</p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1279,7 +1261,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                     <p>Industry/Industry</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Automotive, Car & Bike Auction</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1287,7 +1269,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                     <p>Genre</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>コーポレート & サービスWeb</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1295,26 +1277,18 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                     <p>Project Period</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>2ヶ月</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Device</p>
+                                    <p>Scope</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Web設計／情報設計／アートディレクション／デザイン／HTMLコーディング／バナー制作／システム要件定義／システム開発／プロジェクト管理／インフラ設計</p>
                                 </div>
                             </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi explicabo eum, aliquam laudantium iste cumque quis enim eos eveniet corrupti tempore natus. Nesciunt, quaerat aut repudiandae vitae enim ipsam provident.</p>
-                                </div>
-                            </div>
-                            <div class="content-container scope-container">
+                            <!-- <div class="content-container scope-container">
                                 <div class="content-title">
                                     <p>Scope/person in charge</p>
                                 </div>
@@ -1373,7 +1347,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                     Lorem Ipsum
                                     </p>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="img-section">
                             <img src="assets/img/jba.png" alt="">
