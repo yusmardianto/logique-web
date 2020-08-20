@@ -1051,9 +1051,9 @@ We have further posted many of our results here for reference.
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">AIA</p>
-                            <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p>
-                            <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p>
+                            <p class="title">AIA Group</p>
+                            <p class="content">We have been entrusted with the production of the insurance company AIA’s campaign site and microsite.</p>
+                            <!-- <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p> -->
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1071,7 +1071,7 @@ We have further posted many of our results here for reference.
                                     <p>Industry/Industry</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Insurance</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1079,7 +1079,7 @@ We have further posted many of our results here for reference.
                                     <p>Genre</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Microsite</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1087,26 +1087,18 @@ We have further posted many of our results here for reference.
                                     <p>Project Period</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>2 Months</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Device</p>
+                                    <p>Scope</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Design／HTML Coding／Parallax Programming／Infrastructure Management／Project Management</p>
                                 </div>
                             </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi explicabo eum, aliquam laudantium iste cumque quis enim eos eveniet corrupti tempore natus. Nesciunt, quaerat aut repudiandae vitae enim ipsam provident.</p>
-                                </div>
-                            </div>
-                            <div class="content-container scope-container">
+                            <!-- <div class="content-container scope-container">
                                 <div class="content-title">
                                     <p>Scope/person in charge</p>
                                 </div>
@@ -1165,7 +1157,7 @@ We have further posted many of our results here for reference.
                                     Lorem Ipsum
                                     </p>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="img-section">
                             <img src="assets/img/aia.png" alt="">
@@ -1182,9 +1174,7 @@ We have further posted many of our results here for reference.
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">Panin</p>
-                            <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p>
-                            <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p>
+                            <p class="title">Panin Dai-ichi Life Asuransi Indonesia</p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1202,7 +1192,7 @@ We have further posted many of our results here for reference.
                                     <p>Industry/Industry</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Insurance</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1210,7 +1200,7 @@ We have further posted many of our results here for reference.
                                     <p>Genre</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>E-Commerce</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1218,26 +1208,18 @@ We have further posted many of our results here for reference.
                                     <p>Project Period</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>4 Months</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Device</p>
+                                    <p>Scope</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Web Design／Design／HTML Coding／Infrastructure Design／System Requirements Definition／System Development／Project Management</p>
                                 </div>
                             </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi explicabo eum, aliquam laudantium iste cumque quis enim eos eveniet corrupti tempore natus. Nesciunt, quaerat aut repudiandae vitae enim ipsam provident.</p>
-                                </div>
-                            </div>
-                            <div class="content-container scope-container">
+                            <!-- <div class="content-container scope-container">
                                 <div class="content-title">
                                     <p>Scope/person in charge</p>
                                 </div>
@@ -1296,7 +1278,7 @@ We have further posted many of our results here for reference.
                                     Lorem Ipsum
                                     </p>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="img-section">
                             <img src="assets/img/panin.png" alt="">
@@ -1314,8 +1296,8 @@ We have further posted many of our results here for reference.
                         </button>
                         <div class="title-section">
                             <p class="title">JBA</p>
-                            <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p>
-                            <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p>
+                            <!-- <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p> -->
+                            <p class="content">We have been producing and operating the JBA corporate & auction service website for a long time. The website has also been completely renewed in line with the new CI in 2019. Many repeating users frequently visit  and browse pages, so we focused our efforts on improving the readability of the cars on sale at the auction.</p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1333,7 +1315,7 @@ We have further posted many of our results here for reference.
                                     <p>Industry/Industry</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Automotive, Car & Bike Auction</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1341,7 +1323,7 @@ We have further posted many of our results here for reference.
                                     <p>Genre</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Corporate & Web Service</p>
                                 </div>
                             </div>
                             <div class="content-container">
@@ -1349,26 +1331,18 @@ We have further posted many of our results here for reference.
                                     <p>Project Period</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>2 Months</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Device</p>
+                                    <p>Scope</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Web Design／Information Plan／Art Direction／Design／HTML Coding／Banner Production／System Requirements Definition／System Development／Project Management／Infrastructure Design</p>
                                 </div>
                             </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi explicabo eum, aliquam laudantium iste cumque quis enim eos eveniet corrupti tempore natus. Nesciunt, quaerat aut repudiandae vitae enim ipsam provident.</p>
-                                </div>
-                            </div>
-                            <div class="content-container scope-container">
+                            <!-- <div class="content-container scope-container">
                                 <div class="content-title">
                                     <p>Scope/person in charge</p>
                                 </div>
@@ -1427,7 +1401,7 @@ We have further posted many of our results here for reference.
                                     Lorem Ipsum
                                     </p>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="img-section">
                             <img src="assets/img/jba.png" alt="">
