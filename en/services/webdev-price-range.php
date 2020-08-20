@@ -273,7 +273,7 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="price-container">
                         <p class="title">Production Price </p>
-                        <p class="price">15 juta 〜 30 juta IDR</p>
+                        <p class="price">15 Million 〜 30 Million IDR</p>
                     </div>
                     <div class="button-container">
                         <a href="/en/contact.php">
@@ -324,7 +324,7 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="price-container">
                         <p class="title">Production Price</p>
-                        <p class="price">30 juta 〜 60 juta IDR</p>
+                        <p class="price">30 Million 〜 60 Million IDR</p>
                     </div>
                     <div class="button-container">
                         <a href="/en/contact.php">
@@ -380,7 +380,7 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="price-container">
                         <p class="title">Production Price</p>
-                        <p class="price">80 juta 〜 150 juta IDR</p>
+                        <p class="price">80 Million 〜 150 Million IDR</p>
                     </div>
                     <div class="button-container">
                         <a href="/en/contact.php">
@@ -423,7 +423,7 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="price-container">
                         <p class="title">Production Price </p>
-                        <p class="price">200 juta 〜 500 juta</p>
+                        <p class="price">200 Million 〜 500 Million</p>
                     </div>
                     <div class="button-container">
                         <a href="/en/contact.php">
