@@ -228,9 +228,9 @@
                   <li>
                     Mempunyai minat yang besar terhadap bisnis Internet dan Web.
                   </li>
-                  <li>
+                <!--   <li>
                     Terbiasa menggunakan magento.
-                  </li>
+                  </li> -->
                   <li>
                     Memiliki pengetahuan tentang Project Management.
                   </li>
@@ -251,10 +251,16 @@
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
                   <li>
-                    Akan selalu update tentang dunia pemrograman.
+                    Anda akan terlibat dalam projek besar dengan client perusahaan yang sudah berjaya di industri otomotif
                   </li>
                   <li>
-                    Kami memiliki banyak project menarik yang akan meningkatkan skill Anda dengan technology terbaru.
+                    Jam kerja yang flexible (40 jam /minggu) dan bebas memilih start time kerja (8.00 am – 10.00 am)
+                  </li>
+                  <li>
+                    Anda juga akan mendapatkan fasilitas remote working 1 – 3 hari setiap minggunya
+                  </li>
+                  <li>
+                    Bonus kinerja bulanan (performance based)
                   </li>
                 </ul>
               </div>
