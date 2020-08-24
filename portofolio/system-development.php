@@ -172,7 +172,7 @@
                     <div class="row">
                         <div class="col-md-offset-1 col-md-7">
                             <div class="title"><h1>System Development Works</h1></div>
-                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> telah mengembangkan banyak Website, Aplikasi Berbasis Web dan Mobile App, serta memberikan dukungan terkait Penetration Test untuk klien dari berbagai industri seperti Asuransi, E-Commerce, dan Otomotif. Berikut adalah beberapa portofolio hasil Aplikasi Berbasis Web kami.</p>
+                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> adalah pengembang Sistem Web terkemuka di Indonesia dengan kemampuan pengembangan dan  kualitas teknik dan keamanan yang berstandar internasional. <strong>LOGIQUE</strong> telah berhasil mengembangkan dan memelihara ratusan Sistem TI yang membawa bisnis klien ke level yang lebih tinggi.</p>
                             <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
                         </div>
                     </div>
