@@ -5,6 +5,7 @@
 require 'conf.php';
 
 $code 	= $mysqli->real_escape_string($_GET['code']);
+$type 	= $mysqli->real_escape_string($_GET['type']);
 
 $query = mysqli_query($mysqli, "SELECT count(a.verifikasi_code) as kodeTerbesar FROM al_white_papers a
 		WHERE a.verifikasi_code = '{$code}' AND DATE_ADD(NOW(), INTERVAL -24 HOUR) < a.whitepaper_regdate");
@@ -727,7 +728,13 @@ if($kodeBarang == 0)
 <?php
 }else{
 	//echo '<div class="message"><center>Download berhasil.</center></div>';
-	$filename  = "white-paper-web-dev-1.pdf";
+	if($type == 1){
+		$filename  = "white-paper-web-dev-1.pdf";
+	}else if($type == 2){
+		$filename  = "white-paper-commerce.pdf";
+	}else if($type == 3){
+		$filename  = "white-paper-web-dev-1.pdf";
+	}
 		$jasper_path     = '/home/dev/public_html/static/logique-web/';
 		$back_dir    ="whitepaper/";
 		$file = $back_dir.$filename;
