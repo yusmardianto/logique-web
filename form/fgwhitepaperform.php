@@ -13,6 +13,7 @@ PARTICULAR PURPOSE.
 @copyright html-form-guide.com 2010
 */
 require $_SERVER['DOCUMENT_ROOT'] . '/PHPMailerAutoload.php';
+require './conf.php';
 
 
 /*
@@ -159,14 +160,14 @@ class Fgwhitepaperform
         $status = array(
             'message' => array(
                 'subject' => 'Message From Logique.co.id Website',
-                'header' => 'Submission from \'contact us\' form:',
+                'header' => 'Request of Downloading a white-paper',
             ),
             'notification' => array(
                 'subject' => 'Notification Message From Logique.co.id Website',
-                'header' => 'Below are the data you\'ve sent through our website:',
+                'header' => 'Request of Downloading a white-paper',
             ),
         );
-		$jasper_path     = '/home/dev/public_html/static/logique-web/';
+		//$jasper_path     = 'C:/xampp1/htdocs/logique-web/whitepaper/';
         foreach ($status as $key => $data) {
             $this->mailer = new PHPMailer();
             $this->mailer->CharSet = 'utf-8';
@@ -209,7 +210,7 @@ class Fgwhitepaperform
             $this->mailer->SetFrom($this->fromEmail, $this->mailer->FromName);
 
             $this->mailer->Subject = $data['subject'];
-			$this->mailer->addAttachment($jasper_path . 'white-paper-web-dev-1.pdf');
+			//$this->mailer->addAttachment($jasper_path . 'white-paper-web-dev-1.pdf');
             $message = $this->ComposeFormtoEmail($data['header']);
 
             $textMsg = trim(strip_tags(preg_replace('/<(head|title|style|script)[^>]*>.*?<\/\\1>/s','',$message)));
@@ -249,7 +250,7 @@ class Fgwhitepaperform
         $ret_str='';
         foreach($_POST as $key=>$value) {
             if (!$this->IsInternalVariable($key)) {
-                if (in_array($key, array('companyname', 'name', 'phone', 'email'))) {
+                if (in_array($key, array('company_name', 'department_name', 'url_social_media', 'position', 'phone', 'email'))) {
                     $value = htmlentities($value,ENT_QUOTES,"UTF-8");
                     $value = nl2br($value);
                     $key = ucfirst($key);
@@ -291,6 +292,17 @@ class Fgwhitepaperform
 
         return $ret_str;
     }
+	
+	function LinkInfoToMail()
+    {
+        $ret_str='';
+
+		$code = $_POST['verifikasi_code'];
+		$base_url = "http://logique-web.static.logique.co.id/";
+        $ret_str = "<div class='label'>Link Download White Paper:</div><div class='value'>Web Development Market Price 2020 <a href='".$base_url."verifikasi.php?code=".$code."'>Download</a></div>\n";
+
+        return $ret_str;
+    }
 
     function GetMailStyle()
     {
@@ -321,10 +333,11 @@ class Fgwhitepaperform
     {
         $header = $this->GetHTMLHeaderPart();
         $formsubmission = $this->FormSubmissionToMail();
+		$linkInfotomail = $this->LinkInfoToMail();
         $extra_info = $this->ExtraInfoToMail();
         $footer = $this->GetHTMLFooterPart();
 
-        $message = $header.$header_message."<p>{$formsubmission}</p><hr/>".$extra_info.$footer;
+        $message = $header.$header_message."<p>{$formsubmission}</p><p>{$linkInfotomail}</p><hr/>".$extra_info.$footer;
 
         return $message;
     }
@@ -423,11 +436,15 @@ class Fgwhitepaperform
         $this->name = $this->Sanitize($_POST['company_name']);
         $this->email = $this->Sanitize($_POST['email']);
         $this->phone = $this->Sanitize($_POST['phone']);
+		$this->company_name = $this->Sanitize($_POST['company_name']);
+		$this->department_name = $this->Sanitize($_POST['department_name']);
+		$this->url_social_media = $this->Sanitize($_POST['url_social_media']);
+		$this->position = $this->Sanitize($_POST['position']);
         //$this->country = $this->Sanitize($_POST['country']);
         
         /*newline is OK in the message.*/
-		$msg = "White Paper Web Development Market 1 Price 2020";
-        $this->message = $this->StripSlashes($_POST['message']);
+		$msg = "Web Development Market Price 2020";
+        $this->message = $this->StripSlashes($msg);
     }
 
     function add_error($error)
