@@ -535,7 +535,7 @@
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
                             <img src="/img/case-study-5.png" class="img-responsive" alt="">
-                            <a href="/en/case-study/vip-plaza-progressive-web-app/">
+                            <a href="/en/case-study/klikhoreca/">
                                 <div class="item__hover">
                                     <img src="/img/top/i-vipplaza-update.png" alt="">
                                     <div>

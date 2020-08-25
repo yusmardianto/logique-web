@@ -467,11 +467,35 @@
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
               <img src="/img/case-study-5.png" class="img-responsive" alt="">
-              <a href="/case-study/vip-plaza-progressive-web-app/">
+              <a href="/case-study/klikhoreca/">
                 <div class="item__hover">
                   <img src="/img/top/i-vipplaza-update.png" alt="">
                   <div>
-                    <h4>VIP Plaza</h4>
+                    <h4>Klikhoreca</h4>
+                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
+              <img src="/img/case-study-5.png" class="img-responsive" alt="">
+              <a href="/case-study/indonesea/">
+                <div class="item__hover">
+                  <img src="/img/top/i-vipplaza-update.png" alt="">
+                  <div>
+                    <h4>Indonesea</h4>
+                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
+              <img src="/img/case-study-5.png" class="img-responsive" alt="">
+              <a href="/case-study/pan-pacific/">
+                <div class="item__hover">
+                  <img src="/img/top/i-vipplaza-update.png" alt="">
+                  <div>
+                    <h4>Pan Pacific</h4>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </div>
                 </div>
