@@ -237,7 +237,7 @@
                       <div id="fast" class="tab-pane fade in active">
                          <div class="row">
                             <div class="col-sm-6">
-                                <p>In the process of developing a website, we use flexible and fast agile development methods. Our development team can adapt to changes so that the system being developed remains high quality and in accordance with dynamic needs.</p>
+                                <p>In the process of developing a web-based system, we use flexible and fast agile development methods. Our development team can adapt to changes so that the system being developed remains high quality and in accordance with dynamic needs.</p>
                             </div>
                             <div class="col-sm-6 text-center">
                                 <img src="assets/img/img-systemdev/newlayout/laptop.jpg">
@@ -287,7 +287,7 @@
                         <div class="col-sm-6">
                             <div class="skema-content">
                                 <h3><span class="number">1.</span> Project Scheme</h3>
-                                <p>The website development process will run according to the agreed contract. This type is suitable for website development projects with clear needs. Usually we will recommend the Agile Development method in the process.</p>
+                                <p>The web-based system development process will run according to the agreed contract. This type is suitable for website development projects with clear needs. Usually we will recommend the Agile Development method in the process.</p>
                             </div>
                         </div> 
                         <div class="col-sm-6">
