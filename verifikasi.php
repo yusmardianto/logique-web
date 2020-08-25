@@ -1,94 +1,18 @@
-﻿<?php
-require_once("./form/fgwhitepaperform.php");
-require './conf.php';
 
-$formproc = new Fgwhitepaperform();
 
-$formproc->AddRecipient(['info@logique.co.id']); 
+<?php
 
-$formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
+require 'conf.php';
 
-if(isset($_POST['submitted']))
-{
-	$privacy    = $_POST['privacy'];
-	if($privacy){
-	$white_paper_type    = $_POST['white_paper_type'];
-    $typecompany            = $_POST['typecompany'];
-	$company_name            = $_POST['typecompany'].".".$_POST['company_name'];
-    $department_name        = $_POST['department_name'];
-    $url_social_media            = $_POST['url_social_media'];
-    $position        = $_POST['position'];
-	$email        = $_POST['email'];
-	$phone        = $_POST['phone'];
-	$verifikasi_code =  $_POST['verifikasi_code'];
-	$whitepaper_regdate = date('Y-m-d H:i:s');
-    //validasi data data kosong
-    if (empty($_POST['white_paper_type'])||empty($_POST['company_name'])||empty($_POST['url_social_media'])||empty($_POST['position'])||empty($_POST['email'])||empty($_POST['phone'])) {
-        ?>
-            <script language="JavaScript">
-                alert('Data Harap Dilengkapi!');
-            </script>
-        <?php
-    }
-    else {
-	mysqli_select_db($mysqli,$customerDBName);
-	$input = mysqli_query($mysqli,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$email','$phone','$verifikasi_code','$whitepaper_regdate')");	
-	
-		if ($input) {
-		//Jika Sukses
-		?>
-			<script language="JavaScript">
-			alert('Submit White Paper Successfully');
-			</script>
-		<?php
-		}
-	}
-		/*$filename  = "white-paper-web-dev-1.pdf";
-		$jasper_path     = 'C:/xampp1/htdocs/logique-web/whitepaper/';
-		$back_dir    ="whitepaper/";
-		$file = $back_dir.$filename;
-		 
-			if (file_exists($file)) {
-				header('Content-Description: File Transfer');
-				header('Content-Type: application/octet-stream');
-				header('Content-Disposition: attachment; filename='.basename($file));
-				header('Content-Transfer-Encoding: binary');
-				header('Expires: 0');
-				header('Cache-Control: private');
-				header('Pragma: private');
-				header('Content-Length: ' . filesize($file));
-				ob_clean();
-				flush();
-				readfile($file);
-			}
-			*/	
-		if ($formproc->ProcessForm()) {
-				$msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
-			}
-		
-	}else{
-	?>
-        <script language="JavaScript">
-        alert('Submit White Paper Failed');
-        </script>
-    <?php
-	}	
-}
+$code 	= $mysqli->real_escape_string($_GET['code']);
 
-$query = mysqli_query($mysqli, "SELECT RIGHT(al_white_papers.verifikasi_code,6) as kodeTerbesar FROM al_white_papers order by verifikasi_code DESC");
+$query = mysqli_query($mysqli, "SELECT count(a.verifikasi_code) as kodeTerbesar FROM al_white_papers a
+		WHERE a.verifikasi_code = '{$code}' AND DATE_ADD(NOW(), INTERVAL -24 HOUR) < a.whitepaper_regdate");
 $data = mysqli_fetch_array($query);
 $kodeBarang = $data['kodeTerbesar'];
 
-if($kodeBarang <> 0){      
-   //jika kode ternyata sudah ada.     
-   $kodeBarang = intval($kodeBarang) + 1;    
-  }
-  else {      
-   //jika kode belum ada      
-   $kodeBarang = 1;    
-  }
-
-
+if($kodeBarang == 0)
+{
 ?>
 <!DOCTYPE html>
 <html lang="id">
@@ -759,124 +683,16 @@ if($kodeBarang <> 0){
             </div>
         </div>
         <!-- END HEADER -->
+		 <div class="content-wrapper__" id="contents">
 
-        <!-- <br /> -->
-
-        <div class="content-wrapper__" id="contents">
-
-            <section>
-                <div class="container__">
-                    <div class="clearfix">
-                        <div class="contact-us-cont">
-						
-						<table style="border: 10px solid">
-							
-                            <div class="" style="margin-top: 3%;">
-								 <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <b>Download Form</b><br/>
-										<p>
-										Submit the form below to download our whitepaper</p>
-                                    </div>
-									<br/><br/><br/>
-									
-                                <form class="contactform" id="moresco-contactform" role="form" name='myForm'
-                                    onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>'
-                                    method='post' accept-charset='UTF-8'>
-                                    <input type='hidden' name='submitted' id='submitted' value='1' />
-                                    <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>'
-                                        value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
-                                    <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-                                    <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="name" class="c-label">Selected Document</label>
-                                        <div class="form-group">
-                                           <select name="white_paper_type" id="white_paper_type" class="form-control">
-												<option value="Web Development Market 1 Price 2020">Web Development 1 Market Price 2020</option>
-										   </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10" id="anchorForm">
-                                        <label for="company_name" class="c-label">Company Name</label>
-                                    </div>
-                                    <div class="col-md-1 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="name" class="c-label"></label>
-                                        <div class="form-group">
-                                           <select name="typecompany" id="typecompany">
-												<option value="PT">PT</option>
-												<option value="CV">CV</option>
-										   </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-7">
-                                        <label for="company_name" class="c-label"></label>
-                                        <div class="form-group">
-                                            <input type="text" class="form-control" id="company_name" name="company_name" aria-label="company_name"
-                                                value='<?php echo $formproc->SafeDisplay('company_name') ?>' placeholder="Company Name" required>
-                                        </div>
-                                    </div>
-									<div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="department_name" class="c-label">Department Name</label>
-                                        <div class="form-group">
-                                            <input type="text" class="form-control" id="department_name" name="department_name" aria-label="department_name"
-                                                value='<?php echo $formproc->SafeDisplay('department_name') ?>' placeholder="Department Name" required>
-                                        </div>
-                                    </div>
-									<div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="url_social_media" class="c-label">URL / Social Media</label>
-                                        <div class="form-group">
-                                            <input type="text" class="form-control" id="url_social_media" name="url_social_media" aria-label="url_social_media"
-                                                value='<?php echo $formproc->SafeDisplay('url_social_media') ?>' placeholder="URL / Social Media" required>
-                                        </div>
-                                    </div>
-									 <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="position" class="c-label">Your Position</label>
-                                        <div class="form-group">
-                                           <select  name="position" id="position" class="form-control">
-												<option>Select Position</option>
-												<option value="BOD">BOD</option>
-												<option value="Manager">Manager</option>
-												<option value="Staff">Staff</option>
-												<option value="Other">Other</option>
-										   </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="email" class="c-label">Email Address</label>
-                                        <div class="form-group">
-                                            <input type="email" class="form-control" id="email" name="email" aria-label="Email"
-                                                value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Email Address" required>
-												<input class="form-control" type="hidden" name="message" aria-label="Message"
-                                                placeholder="PESAN" value="Web Development Market Price 2020"/>
-												<input class="form-control" type="hidden" name="verifikasi_code" id="verifikasi_code" value="<?php echo $kodeBarang ?>"/>
-                                        </div>
-                                    </div>
-									
-									<div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="phone" class="c-label">Tel</label>
-                                        <div class="form-group">
-                                            <input type="text" class="form-control" id="phone" name="phone" aria-label="Phone"
-                                                value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="Phone" required>
-                                        </div>
-                                    </div>
-									
-									 <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <div class="form-group">
-											 <label>
-                                                <input type="checkbox" name="privacy" value="1" required>
-                                                <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>Privacy Policy
-                                            </label>
-                                        </div>
-                                    </div>
-
-                                    
-                                </div>
-								</table>
-                                    <div class="col-sm-4 col-sm-offset-4 paddingleft">
-                                        <button type="submit" class="btn btn-block"
-                                            onclick="ga('send', 'event', 'Button-Kirim', 'Action-Click', 'Button-Kirim-Label');"
-                                            style="background: #f4ce58;">Submit</button>
-                                    </div>
-                                </form>
-                            </div>
+					<section>
+						<div class="container__">
+							<div class="clearfix">
+								<div class="contact-us-cont">
+								 <div class="" style="margin-top: 3%;">
+	<div class="message"><center>Download gagal karena link salah<br/>atau masa berlaku-nya telah habis.</center></div>';
+	</div>
+						</div>
                         </div>
                     </div>
                 </div>
@@ -908,3 +724,29 @@ if($kodeBarang <> 0){
 </body>
 
 </html>
+<?php
+}else{
+	//echo '<div class="message"><center>Download berhasil.</center></div>';
+	$filename  = "white-paper-web-dev-1.pdf";
+		$jasper_path     = '/home/dev/public_html/static/logique-web/';
+		$back_dir    ="whitepaper/";
+		$file = $back_dir.$filename;
+		 
+			if (file_exists($file)) {
+				header('Content-Description: File Transfer');
+				header('Content-Type: application/octet-stream');
+				header('Content-Disposition: attachment; filename='.basename($file));
+				header('Content-Transfer-Encoding: binary');
+				header('Expires: 0');
+				header('Cache-Control: private');
+				header('Pragma: private');
+				header('Content-Length: ' . filesize($file));
+				ob_clean();
+				flush();
+				readfile($file);
+			}
+			exit;
+}
+
+?>
+						
