@@ -239,19 +239,19 @@ if(isset($_POST['submitted']))
                                  <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
                                      class="img-responsive center-block">
                              </div>
-                             <div class="item">
+                             <!-- <div class="item">
                                  <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
                                      class="img-responsive center-block">
                              </div>
                              <div class="item">
                                  <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
                                      class="img-responsive center-block">
-                             </div>
+                             </div> -->
                          </div>
                          <ol class="carousel-indicators">
                             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                            <!-- <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li> -->
                         </ol>
                      </div>
                 </div>
@@ -271,7 +271,7 @@ if(isset($_POST['submitted']))
 予算の大小に関わらず定められたスコープの中で最良のWebを制作します。
 お客様のご要望が当社のどのサービスメニューに該当するのか不明などの場合にはお気軽にご相談ください。どれにも当てはまらない場合にも柔軟に考えお見積り差し上げます。
                     </p>
-                    <a href="/jp/services/webdev-price-range.php">
+                    <a href="/jp/services/web-dev-price-range.php" target="_blank">
                         <div class="flow-button">
                         Web制作サービスメニューをみる
                         <img src="assets/img/img-webdev/arrow.png" alt="">
@@ -460,21 +460,30 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                     </p>
                 </div>
             </div>
-            <div class="row portofolio-section">
+            <div class="row portofolio-section text-center">
                 <div class="col-md-6 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/AIA.png" alt="">
-                    <p class="portofolio-title">AIA</p>
-                    <p class="portofolio-subtitle">詳しくみる</p>
-                </div>
-                <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="https://aiapremieracademy.co.id/en/home" target="_blank">
+                        <img src="assets/img/img-webdev/AIA.png" alt="">
+                        <p class="portofolio-title text-center">AIA</p>
+                        <p class="portofolio-subtitle">詳しくみる</p>
+                    </a>
+                <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
+            </div>
+            <div class="col-md-6 col-lg-4 col-sm-4">
+                <a href="http://bekalhidup.com/" target="_blank">
                     <img src="assets/img/img-webdev/panin.png" alt="">
-                    <p class="portofolio-title">Panin Life Dai - Ichi</p>
+                    <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
-                </div>
-                <div class="col-md-6 col-lg-4 col-sm-4">
+                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
+                </a>
+            </div>
+            <div class="col-md-6 col-lg-4 col-sm-4">
+                <a href="https://jba.co.id/" target="_blank">
                     <img src="assets/img/img-webdev/JBA.png" alt="">
-                    <p class="portofolio-title">JBA</p>
+                    <p class="portofolio-title text-center">JBA</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
+                    </a>
+                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
         </div>
@@ -579,54 +588,77 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                 <div class="col-md-12">
                     <div class="carousel slide multi-item-carousel" id="theCarousel">
                         <div class="carousel-inner">
-                            <div class="item active">
-                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                    <div class="img-container">
-                                        <img src="assets/img/img-webdev/article/1.png" class="img-responsive">
-                                    </div>
-                                    <div class="content-container">
-                                        <p class="title">Going Wireless With Your Headphones</p>
-                                        <p class="content">The widespread use of the internet has now provided many vectors of infiltration for hackers. Indeed, cybercrime is a growing industry and is not only a threat which can cost companies millions of dol</p>
-                                        <p class="date">30 Apr 2020 | By Yossi</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                    <div class="img-container">
-                                        <img src="assets/img/img-webdev/article/2.png" class="img-responsive">
-                                    </div>
-                                    <div class="content-container">
-                                        <p class="title">Going Wireless With Your Headphones</p>
-                                        <p class="content">The widespread use of the internet has now provided many vectors of infiltration for hackers. Indeed, cybercrime is a growing industry and is not only a threat which can cost companies millions of dol</p>
-                                        <p class="date">30 Apr 2020 | By Yossi</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                    <div class="img-container">
-                                        <img src="assets/img/img-webdev/article/1.png" class="img-responsive">
-                                    </div>
-                                    <div class="content-container">
-                                        <p class="title">Going Wireless With Your Headphones</p>
-                                        <p class="content">The widespread use of the internet has now provided many vectors of infiltration for hackers. Indeed, cybercrime is a growing industry and is not only a threat which can cost companies millions of dol</p>
-                                        <p class="date">30 Apr 2020 | By Yossi</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                    <div class="img-container">
-                                        <img src="assets/img/img-webdev/article/2.png" class="img-responsive">
-                                    </div>
-                                    <div class="content-container">
-                                        <p class="title">Going Wireless With Your Headphones</p>
-                                        <p class="content">The widespread use of the internet has now provided many vectors of infiltration for hackers. Indeed, cybercrime is a growing industry and is not only a threat which can cost companies millions of dol</p>
-                                        <p class="date">30 Apr 2020 | By Yossi</p>
-                                    </div>
-                                </div>
-                            </div>
+                             
+                             <?php  
+                                    function shorten_string($string, $wordsreturned)
+                                {
+                                  $retval = $string;
+                                  $string = preg_replace('/(?<=\S,)(?=\S)/', ' ', $string);
+                                  $string = str_replace("\n", " ", $string);
+                                  $array = explode(" ", $string);
+                                  if (count($array)<=$wordsreturned)
+                                  {
+                                    $retval = $string;
+                                  }
+                                  else
+                                  {
+                                    array_splice($array, $wordsreturned);
+                                    $retval = implode(" ", $array)." ...";
+                                  }
+                                  return $retval;
+                                } 
+                                    $url = file_get_contents('https://www.logique.co.id/blog/wp-json/wp/v2/posts/?tags=100&per_page=5&_embed');
+                                
+                                        $x = 0;
+
+                                       $remote_posts = json_decode( $url ); 
+                                       // printf('<pre>'); 
+                                       //  var_dump($url);
+                                       // printf('</pre>');
+                                        foreach( $remote_posts as $remote_post ) { 
+                                            $thumb_full_url = '';
+                                            $thumb_url = '';
+
+                                            if ( ! empty( $remote_post->featured_media ) && isset( $remote_post->_embedded ) ) {
+                                                $thumb_full_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->source_url;
+                                                $thumb_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->media_details->sizes->medium->source_url;
+                                            }
+                                            if($x==0) { 
+                                            ?>
+                                            <div class="item active ">
+                                             <?php } else{
+                                                echo ' <div class="item ">';
+                                             }
+
+                                             ?> 
+                                                    <div class="col-xs-12 col-sm-6 col-md-6 article-container">
+                                                        <div class="img-container">
+                                                            <img src="<?=$thumb_full_url?>" class="img-responsive">
+                                                        </div>
+                                                        <div class="content-container">
+                                                            <a href="<?=$remote_post->link?>"  target="_blank">
+                                                            <p class="title"><?=$remote_post->title->rendered?></p>
+                                                            </a>
+                                                            <p class="content"><?php 
+                                                            $array = preg_replace("/<.+>/sU", "", $remote_post->excerpt->rendered);
+                                                            $the_str =  mb_substr($array, 0, 80);  
+                                                            echo $the_str.'...';
+                                                             ?></p>
+                                                            <p class="date"><?php 
+                                                            $tanggal = date('d F Y', strtotime($remote_post->date));
+                                                             
+                                                            echo $tanggal  ;  ?> | By <?php 
+                                                              echo $remote_post->_embedded->author[0]->name;
+                                                            ?></p>
+                                                        </div>
+                                                    </div>
+                                               
+                                            </div>
+                                             
+                                       <?php  $x++;
+                                   }
+                                     
+                                ?> 
                         
                         <!--  Example item end -->
                         </div>
@@ -960,6 +992,376 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                     <a href="https://www.linkedin.com/company/13420656" target="_blank">
                         <img src="assets/img/img-webdev/linkedinads.png" alt="">
                     </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="modal">
+        <div class="modal fade modal-section" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-body aia-section">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        <div class="title-section">
+                            <p class="title">AIA Group</p>
+                            <p class="content">保険会社AIAのキャンペーンサイトやマイクロサイトの制作を委託いただいてきました。</p>
+                            <!-- <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p> -->
+                        </div>
+                        <div class="content-section">
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>URL</p>
+                                </div>
+                                <div class="content-desc">
+                                    <a href="https://aiapremieracademy.co.id/en/home" target="_blank">
+                                        <p>https://aiapremieracademy.co.id/en/home</p>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Industry/Industry</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Insurance</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Genre</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>マイクロサイト</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Project Period</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>2ヶ月</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Scope</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>デザイン／HTMLコーディング／パララックスプログラミング／インフラ管理／プロジェクト管理</p>
+                                </div>
+                            </div>
+                            <!-- <div class="content-container scope-container">
+                                <div class="content-title">
+                                    <p>Scope/person in charge</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Strategic design</p>
+                                    <p>
+                                        Information design
+                                    </p>
+                                    <p>
+                                        direction
+                                    </p>
+                                    <p>
+                                        Lead design
+                                    </p>
+                                    <p>
+                                        design
+                                    </p>
+                                    <p>
+                                        Copywriting
+                                    </p>
+                                    <p>
+                                        Front mounting
+                                    </p>
+                                    <p>
+                                        Server-side implementation
+                                    </p>
+                                    <p>
+                                        Illustration production
+                                    </p>
+                                    	
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem Ipsum</p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                </div>
+                            </div> -->
+                        </div>
+                        <div class="img-section">
+                            <img src="assets/img/aia.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade modal-section" id="exampleModalLong2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLong2Title" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-body aia-section">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        <div class="title-section">
+                            <p class="title">Panin Dai-ichi Life Asuransi Indonesia</p>
+                        </div>
+                        <div class="content-section">
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>URL</p>
+                                </div>
+                                <div class="content-desc">
+                                    <a href="https://www.bekalhidup.com/" target="_blank">
+                                        <p>https://www.bekalhidup.com/</p>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Industry/Industry</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Insurance</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Genre</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>E-Commerce</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Project Period</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>4ヶ月</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Scope</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Web設計／デザイン／HTMLコーディング／インフラ設計／システム要件定義／システム開発／プロジェクト管理</p>
+                                </div>
+                            </div>
+                            <!-- <div class="content-container scope-container">
+                                <div class="content-title">
+                                    <p>Scope/person in charge</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Strategic design</p>
+                                    <p>
+                                        Information design
+                                    </p>
+                                    <p>
+                                        direction
+                                    </p>
+                                    <p>
+                                        Lead design
+                                    </p>
+                                    <p>
+                                        design
+                                    </p>
+                                    <p>
+                                        Copywriting
+                                    </p>
+                                    <p>
+                                        Front mounting
+                                    </p>
+                                    <p>
+                                        Server-side implementation
+                                    </p>
+                                    <p>
+                                        Illustration production
+                                    </p>
+                                    	
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem Ipsum</p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                </div>
+                            </div> -->
+                        </div>
+                        <div class="img-section">
+                            <img src="assets/img/panin.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade modal-section" id="exampleModalLong3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLong3Title" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-body aia-section">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        <div class="title-section">
+                            <p class="title">JBA</p>
+                            <!-- <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p> -->
+                            <p class="content">JBAのコーポレート＆オークションサービスWebサイトを長きに渡り制作＆運用しています。2019年新CIに併せWebサイトもフルリニューアルしました。多くのリピートユーザーが頻繁に訪問し多くのページをブラウズしていますので、オークション出店されている車の閲覧性を高めることに注力して制作しました。</p>
+                        </div>
+                        <div class="content-section">
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>URL</p>
+                                </div>
+                                <div class="content-desc">
+                                    <a href=" https://jba.co.id/" target="_blank">
+                                        <p>https://jba.co.id/</p>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Industry/Industry</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Automotive, Car & Bike Auction</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Genre</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>コーポレート & サービスWeb</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Project Period</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>2ヶ月</p>
+                                </div>
+                            </div>
+                            <div class="content-container">
+                                <div class="content-title">
+                                    <p>Scope</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Web設計／情報設計／アートディレクション／デザイン／HTMLコーディング／バナー制作／システム要件定義／システム開発／プロジェクト管理／インフラ設計</p>
+                                </div>
+                            </div>
+                            <!-- <div class="content-container scope-container">
+                                <div class="content-title">
+                                    <p>Scope/person in charge</p>
+                                </div>
+                                <div class="content-desc">
+                                    <p>Strategic design</p>
+                                    <p>
+                                        Information design
+                                    </p>
+                                    <p>
+                                        direction
+                                    </p>
+                                    <p>
+                                        Lead design
+                                    </p>
+                                    <p>
+                                        design
+                                    </p>
+                                    <p>
+                                        Copywriting
+                                    </p>
+                                    <p>
+                                        Front mounting
+                                    </p>
+                                    <p>
+                                        Server-side implementation
+                                    </p>
+                                    <p>
+                                        Illustration production
+                                    </p>
+                                    	
+                                </div>
+                                <div class="content-desc">
+                                    <p>Lorem Ipsum</p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                    <p>
+                                    Lorem Ipsum
+                                    </p>
+                                </div>
+                            </div> -->
+                        </div>
+                        <div class="img-section">
+                            <img src="assets/img/jba.png" alt="">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
