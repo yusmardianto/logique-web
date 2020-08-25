@@ -475,19 +475,26 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
             <div class="row portofolio-section">
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
-                    <img src="assets/img/img-webdev/AIA.png" alt="">
-                    <p class="portofolio-title text-center">AIA</p>
+                <!-- <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong"> -->
+                <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="https://aiapremieracademy.co.id/en/home" target="_blank">
+                        <img src="assets/img/img-webdev/AIA.png" alt="">
+                        <p class="portofolio-title text-center">AIA</p>
+                    </a>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong2">
-                    <img src="assets/img/img-webdev/panin.png" alt="">
-                    <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
+                <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="http://bekalhidup.com/" target="_blank">
+                        <img src="assets/img/img-webdev/panin.png" alt="">
+                        <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
+                    </a>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
-                    <img src="assets/img/img-webdev/JBA.png" alt="">
-                    <p class="portofolio-title text-center">JBA</p>
+                <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="https://jba.co.id/" target="_blank">
+                        <img src="assets/img/img-webdev/JBA.png" alt="">
+                        <p class="portofolio-title text-center">JBA</p>
+                    </a>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
@@ -1365,7 +1372,7 @@ if(isset($_POST['submitted']))
                                     <p>URL</p>
                                 </div>
                                 <div class="content-desc">
-                                    <a href=" https://jba.co.id/" target="_blank">
+                                    <a href="https://jba.co.id/" target="_blank">
                                         <p>https://jba.co.id/</p>
                                     </a>
                                 </div>

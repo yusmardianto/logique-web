@@ -242,43 +242,47 @@ if(isset($_POST['submitted']))
                         <p>クイック制作Plan</p>
                     </div>
                     <p class="content">簡易なWebやランディングページ</p>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>制作期間</span>
+                    <div class="detail-requirement">
+                        <div class="detail-container detail-period">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>制作期間</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>〜1ヶ月程度</span>
+                            </div>
                         </div>
-                        <div class="detail-content">
-                            <span>〜1ヶ月程度</span>
+                        <div class="detail-container detail-page">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>ページ数</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>５ページ程度まで</span>
+                            </div>
+                        </div>
+                        <div class="detail-container detail-margin detail-work">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>作業内容</span>
+                            </div>
+                            <div class="detail-content detail-list">
+                                <p>• デザイン、HTMLコーディング、標準的なSEO対策、調整＆テスト、公開作業</p>
+                                <p>• 素材は全てご用意いただきます。</p>
+                                <p>• Static Webが原則</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>ページ数</span>
+                    <div class="detail-contact">
+                        <div class="price-container">
+                            <p class="title">制作費用</p>
+                            <p class="price">15 juta 〜 30 juta IDR</p>
                         </div>
-                        <div class="detail-content">
-                            <span>５ページ程度まで</span>
+                        <div class="button-container">
+                            <a href="/jp/contact.php">
+                                <p>Contact Us</p>
+                            </a>
                         </div>
-                    </div>
-                    <div class="detail-container detail-margin">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>作業内容</span>
-                        </div>
-                        <div class="detail-content detail-list">
-                            <p>• デザイン、HTMLコーディング、標準的なSEO対策、調整＆テスト、公開作業</p>
-                            <p>• 素材は全てご用意いただきます。</p>
-                            <p>• Static Webが原則</p>
-                        </div>
-                    </div>
-                    <div class="price-container">
-                        <p class="title">制作費用</p>
-                        <p class="price">15 juta 〜 30 juta IDR</p>
-                    </div>
-                    <div class="button-container">
-                        <a href="/jp/contact.php">
-                            <p>Contact Us</p>
-                        </a>
                     </div>
                 </div>
             </div>
@@ -292,44 +296,48 @@ if(isset($_POST['submitted']))
                         <p>スタンダード制作Plan</p>
                     </div>
                     <p class="content">スタンダードなコーポレートWebやサービスWeb</p>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>制作期間</span>
+                    <div class="detail-requirement">
+                        <div class="detail-container">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>制作期間</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>1ヶ月〜2.5ヶ月（素材のご準備速度に依存します）</span>
+                            </div>
                         </div>
-                        <div class="detail-content">
-                            <span>1ヶ月〜2.5ヶ月（素材のご準備速度に依存します）</span>
+                        <div class="detail-container">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>ページ数</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>20ページ程度まで</span>
+                            </div>
+                        </div>
+                        <div class="detail-container detail-margin">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>作業内容</span>
+                            </div>
+                            <div class="detail-content detail-list">
+                                <p>•	デザイン、HTMLコーディング、CMSフィッティング、標準的なSEO対策、調整＆テスト、公開作業</p>
+                                <p>•	Static Web or Wordpress or 当社独自CMS</p>
+                                <p>•	原則、素材は提供いただきます。</p>
+                                <p>	*お客様都合で4ヶ月を超えることになる場合には追加費用が必要となるケースがあります。</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>ページ数</span>
+                    <div class="detail-contact">
+                        <div class="price-container">
+                            <p class="title">制作費用</p>
+                            <p class="price">30 juta 〜 60 juta IDR</p>
                         </div>
-                        <div class="detail-content">
-                            <span>20ページ程度まで</span>
+                        <div class="button-container">
+                            <a href="/jp/contact.php">
+                                <p>Contact Us</p>
+                            </a>
                         </div>
-                    </div>
-                    <div class="detail-container detail-margin">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>作業内容</span>
-                        </div>
-                        <div class="detail-content detail-list">
-                            <p>•	デザイン、HTMLコーディング、CMSフィッティング、標準的なSEO対策、調整＆テスト、公開作業</p>
-                            <p>•	Static Web or Wordpress or 当社独自CMS</p>
-                            <p>•	原則、素材は提供いただきます。</p>
-                            <p>	*お客様都合で4ヶ月を超えることになる場合には追加費用が必要となるケースがあります。</p>
-                        </div>
-                    </div>
-                    <div class="price-container">
-                        <p class="title">制作費用</p>
-                        <p class="price">30 juta 〜 60 juta IDR</p>
-                    </div>
-                    <div class="button-container">
-                        <a href="/jp/contact.php">
-                            <p>Contact Us</p>
-                        </a>
                     </div>
                 </div>
                 <div class="col-md-6 img-container">
@@ -349,43 +357,47 @@ if(isset($_POST['submitted']))
                         <p>Large Scale Web 制作Plan</p>
                     </div>
                     <p class="content">大規模なコーポレートWebやサービスWebが対象</p>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>制作期間</span>
+                    <div class="detail-requirement">
+                        <div class="detail-container">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>制作期間</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>2.5ヶ月〜4ヶ月</span>
+                            </div>
                         </div>
-                        <div class="detail-content">
-                            <span>2.5ヶ月〜4ヶ月</span>
+                        <div class="detail-container">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>ページ数</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>50ページ以上</span>
+                            </div>
+                        </div>
+                        <div class="detail-container detail-margin">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>作業内容</span>
+                            </div>
+                            <div class="detail-content detail-list">
+                                <p>•	デザイン、HTMLコーディング、標準的なSEO対策、CMS構築、QA、インフラ設定、Securityアセスメント（*詳細なPentestは別料金）、公開作業</p>
+                                <p>•	オープンソースCMS or 当社独自CMS or PHPフレームワークで構築</p>
+                                <p>•	原則、素材は提供いただきます。</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>ページ数</span>
+                    <div class="detail-contact">
+                        <div class="price-container">
+                            <p class="title">制作費用</p>
+                            <p class="price">80 juta 〜 150 juta IDR</p>
                         </div>
-                        <div class="detail-content">
-                            <span>50ページ以上</span>
+                        <div class="button-container">
+                            <a href="/jp/contact.php">
+                                <p>Contact Us</p>
+                            </a>
                         </div>
-                    </div>
-                    <div class="detail-container detail-margin">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>作業内容</span>
-                        </div>
-                        <div class="detail-content detail-list">
-                            <p>•	デザイン、HTMLコーディング、標準的なSEO対策、CMS構築、QA、インフラ設定、Securityアセスメント（*詳細なPentestは別料金）、公開作業</p>
-                            <p>•	オープンソースCMS or 当社独自CMS or PHPフレームワークで構築</p>
-                            <p>•	原則、素材は提供いただきます。</p>
-                        </div>
-                    </div>
-                    <div class="price-container">
-                        <p class="title">制作費用</p>
-                        <p class="price">80 juta 〜 150 juta IDR</p>
-                    </div>
-                    <div class="button-container">
-                        <a href="/jp/contact.php">
-                            <p>Contact Us</p>
-                        </a>
                     </div>
                 </div>
             </div>
@@ -399,45 +411,49 @@ if(isset($_POST['submitted']))
                         <p>Strategic Web Creation Plan</p>
                     </div>
                     <p class="content">Web戦略を策定した上で戦略に沿ったWebを制作します。</p>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>制作期間</span>
+                    <div class="detail-requirement">
+                        <div class="detail-container">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>制作期間</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>3ヶ月〜5ヶ月</span>
+                            </div>
                         </div>
-                        <div class="detail-content">
-                            <span>3ヶ月〜5ヶ月</span>
+                        <div class="detail-container">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>ページ数</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>-</span>
+                            </div>
+                        </div>
+                        <div class="detail-container detail-margin">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>作業内容</span>
+                            </div>
+                            <div class="detail-content detail-list">
+                                <p>•	アニメーション制作などスコープに限界はありません。ご要望に応じて、また競合他社と差別化するために必要なものを制作します。</p>
+                                <p>•	当社コンサルタントが御社のマーケティング	部門や広報部門などとプロジェクト運営しま	す。</p>
+                                <p>•	まず企画・要件定義フェーズ（1ヶ月程度）を先に実施させていただき、そこで制作スコープ・期間・金額をご提案します。</p>
+                                <p>•	数回のコンサルティングセッションを経て戦略策定します。</p>
+                                <p>•	企画・戦略策定フェーズの納品物は、カスタマージャニー、ペルソナ分析、現状Webアクセス分析、ブランドコンセプト定義書、ブランドメッセージ定義、サイトマップ、コンテンツ設計書、ワイヤーフレーム、デザインガイドライン、などとなります。（プロジェクトに合わせて変動します）</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>ページ数</span>
+                    <div class="detail-contact">
+                        <div class="price-container">
+                            <p class="title">制作費用</p>
+                            <p class="price">200 juta 〜 500 juta</p>
                         </div>
-                        <div class="detail-content">
-                            <span>-</span>
+                        <div class="button-container">
+                            <a href="/jp/contact.php">
+                                <p>Contact Us</p>
+                            </a>
                         </div>
-                    </div>
-                    <div class="detail-container detail-margin">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>作業内容</span>
-                        </div>
-                        <div class="detail-content detail-list">
-                            <p>•	アニメーション制作などスコープに限界はありません。ご要望に応じて、また競合他社と差別化するために必要なものを制作します。</p>
-                            <p>•	当社コンサルタントが御社のマーケティング	部門や広報部門などとプロジェクト運営しま	す。</p>
-                            <p>•	まず企画・要件定義フェーズ（1ヶ月程度）を先に実施させていただき、そこで制作スコープ・期間・金額をご提案します。</p>
-                            <p>•	数回のコンサルティングセッションを経て戦略策定します。</p>
-                            <p>•	企画・戦略策定フェーズの納品物は、カスタマージャニー、ペルソナ分析、現状Webアクセス分析、ブランドコンセプト定義書、ブランドメッセージ定義、サイトマップ、コンテンツ設計書、ワイヤーフレーム、デザインガイドライン、などとなります。（プロジェクトに合わせて変動します）</p>
-                        </div>
-                    </div>
-                    <div class="price-container">
-                        <p class="title">制作費用</p>
-                        <p class="price">200 juta 〜 500 juta</p>
-                    </div>
-                    <div class="button-container">
-                        <a href="/jp/contact.php">
-                            <p>Contact Us</p>
-                        </a>
                     </div>
                 </div>
                 <div class="col-md-6 img-container">
