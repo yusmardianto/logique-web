@@ -1,17 +1,12 @@
 ﻿<?php
-require_once("./form/fgcontactform.php");
+require_once("./form/fgwhitepaperform.php");
+require './conf.php';
 
-$formproc = new FGContactForm();
+$formproc = new Fgwhitepaperform();
 
-//1. Add your email address here.
-//You can add more than one receipients.
-$formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
+$formproc->AddRecipient(['info@logique.co.id']); 
 
-//2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
-// and put it here
 $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
-
-//$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
 
 if(isset($_POST['submitted']))
 {
@@ -25,6 +20,8 @@ if(isset($_POST['submitted']))
     $position        = $_POST['position'];
 	$email        = $_POST['email'];
 	$phone        = $_POST['phone'];
+	$verifikasi_code =  $_POST['verifikasi_code'];
+	$whitepaper_regdate = date('Y-m-d H:i:s');
     //validasi data data kosong
     if (empty($_POST['white_paper_type'])||empty($_POST['company_name'])||empty($_POST['url_social_media'])||empty($_POST['position'])||empty($_POST['email'])||empty($_POST['phone'])) {
         ?>
@@ -34,9 +31,8 @@ if(isset($_POST['submitted']))
         <?php
     }
     else {
-	$host = mysqli_connect("localhost","root","");
-	mysqli_select_db($host,"white_paper");
-	$input = mysqli_query($host,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$email','$phone')");	
+	mysqli_select_db($mysqli,$customerDBName);
+	$input = mysqli_query($mysqli,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$email','$phone','$verifikasi_code','$whitepaper_regdate')");	
 	
 		if ($input) {
 		//Jika Sukses
@@ -47,8 +43,8 @@ if(isset($_POST['submitted']))
 		<?php
 		}
 	}
-		$filename  = "white-paper-web-dev-1.pdf";
-
+		/*$filename  = "white-paper-web-dev-1.pdf";
+		$jasper_path     = 'C:/xampp1/htdocs/logique-web/whitepaper/';
 		$back_dir    ="whitepaper/";
 		$file = $back_dir.$filename;
 		 
@@ -65,6 +61,11 @@ if(isset($_POST['submitted']))
 				flush();
 				readfile($file);
 			}
+			*/	
+		if ($formproc->ProcessForm()) {
+				$msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+			}
+		
 	}else{
 	?>
         <script language="JavaScript">
@@ -72,7 +73,20 @@ if(isset($_POST['submitted']))
         </script>
     <?php
 	}	
-	}
+}
+
+$query = mysqli_query($mysqli, "SELECT RIGHT(al_white_papers.verifikasi_code,6) as kodeTerbesar FROM al_white_papers order by verifikasi_code DESC");
+$data = mysqli_fetch_array($query);
+$kodeBarang = $data['kodeTerbesar'];
+
+if($kodeBarang <> 0){      
+   //jika kode ternyata sudah ada.     
+   $kodeBarang = intval($kodeBarang) + 1;    
+  }
+  else {      
+   //jika kode belum ada      
+   $kodeBarang = 1;    
+  }
 
 
 ?>
@@ -776,7 +790,7 @@ if(isset($_POST['submitted']))
                                         <label for="name" class="c-label">Selected Document</label>
                                         <div class="form-group">
                                            <select name="white_paper_type" id="white_paper_type" class="form-control">
-												<option value="Web Development Market 2 Price 2020">Web Development 2 Market Price 2020</option>
+												<option value="Web Development Ecommerce 2020">Web Development Ecommerce 2020</option>
 										   </select>
                                         </div>
                                     </div>
@@ -830,6 +844,10 @@ if(isset($_POST['submitted']))
                                         <div class="form-group">
                                             <input type="email" class="form-control" id="email" name="email" aria-label="Email"
                                                 value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Email Address" required>
+												<input class="form-control" type="hidden" name="message" aria-label="Message"
+                                                placeholder="PESAN" value="Web Development Ecommerce 2020"/>
+												<input class="form-control" type="hidden" name="verifikasi_code" id="verifikasi_code" value="<?php echo $kodeBarang ?>"/>
+												<input class="form-control" type="hidden" name="type_dokumen" id="type_dokumen" value="2"/>
                                         </div>
                                     </div>
 									

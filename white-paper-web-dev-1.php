@@ -847,6 +847,7 @@ if($kodeBarang <> 0){
 												<input class="form-control" type="hidden" name="message" aria-label="Message"
                                                 placeholder="PESAN" value="Web Development Market Price 2020"/>
 												<input class="form-control" type="hidden" name="verifikasi_code" id="verifikasi_code" value="<?php echo $kodeBarang ?>"/>
+												<input class="form-control" type="hidden" name="type_dokumen" id="type_dokumen" value="1"/>
                                         </div>
                                     </div>
 									

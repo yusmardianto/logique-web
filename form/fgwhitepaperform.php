@@ -296,10 +296,10 @@ class Fgwhitepaperform
 	function LinkInfoToMail()
     {
         $ret_str='';
-
+		$type_dokumen = $_POST['type_dokumen'];
 		$code = $_POST['verifikasi_code'];
 		$base_url = "http://logique-web.static.logique.co.id/";
-        $ret_str = "<div class='label'>Link Download White Paper:</div><div class='value'>Web Development Market Price 2020 <a href='".$base_url."verifikasi.php?code=".$code."'>Download</a></div>\n";
+        $ret_str = "<div class='label'>Link Download White Paper:</div><div class='value'>Web Development Market Price 2020 <a href='".$base_url."verifikasi.php?code=".$code."&type=".$type_dokumen."'>Download</a></div>\n";
 
         return $ret_str;
     }
