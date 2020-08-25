@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Check Mark 2</title>
+    <g id="Web-Dev-Service-Menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Web-Dev-Service-Menu_Desktop-2" transform="translate(-718.000000, -682.000000)" fill-rule="nonzero">
+            <g id="Check-Mark-2" transform="translate(718.000000, 682.000000)">
+                <circle id="Oval" fill="#FAD001" cx="12" cy="12" r="12"></circle>
+                <path d="M23.56875,1.640625 C23.8452815,1.91442248 24.0008672,2.28741632 24.0008672,2.6765625 C24.0008672,3.06570868 23.8452815,3.43870252 23.56875,3.7125 L12.99375,14.2921875 C12.4200706,14.8605732 11.4955544,14.8605732 10.921875,14.2921875 L6.2484375,9.6140625 C5.67630504,9.04322443 5.67525571,8.11666375 6.24609377,7.54453127 C6.81693183,6.9723988 7.74349251,6.97134945 8.315625,7.5421875 L11.9578125,11.184375 L21.5015625,1.640625 C21.775177,1.36553689 22.1471635,1.21086952 22.5351563,1.21086952 C22.923149,1.21086952 23.2951355,1.36553689 23.56875,1.640625 Z" id="Path" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>
