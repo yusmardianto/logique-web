@@ -790,7 +790,7 @@ if($kodeBarang <> 0){
                                         <label for="name" class="c-label">Selected Document</label>
                                         <div class="form-group">
                                            <select name="white_paper_type" id="white_paper_type" class="form-control">
-												<option value="Web Development 3 2020">Web Development 3 2020</option>
+												<option value="Web Development Security 2020">Web Development Security 2020</option>
 										   </select>
                                         </div>
                                     </div>
@@ -854,7 +854,7 @@ if($kodeBarang <> 0){
 									<div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
                                         <label for="phone" class="c-label">Tel</label>
                                         <div class="form-group">
-                                            <input type="text" class="form-control" id="phone" name="phone" aria-label="Phone"
+                                            <input type="number" class="form-control" id="phone" name="phone" aria-label="Phone"
                                                 value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="Phone" required>
                                         </div>
                                     </div>

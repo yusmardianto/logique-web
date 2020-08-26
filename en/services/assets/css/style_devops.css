@@ -25,7 +25,6 @@ body {
 * {
     font-family: Raleway;
 }
-
 header {
   background-image: url(../img/img-devops/main-banner-devops.jpg);
   background-repeat: no-repeat;
@@ -52,6 +51,9 @@ header h1 span{
   font-weight: bold;
   color: #ffca00;
   display: block;
+}
+.badge-container{
+  padding-top: 30px;
 }
 .subtitle-header {
   color: #fff; 
