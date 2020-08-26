@@ -673,7 +673,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
             </div>
         </div>
     </section>
-    <section class="content-article gallery">
+    <section class="content-article gallery disp-none">
         <div class="container">
         <div class="row">
                 <div class="col-md-12">
