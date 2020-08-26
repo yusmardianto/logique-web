@@ -235,7 +235,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                       <div id="fast" class="tab-pane fade in active">
                          <div class="row">
                             <div class="col-sm-6">
-                                <p>Dalam proses pengembangan website, kami menggunakan metode agile developement yang fleksibel dan cepat. Tim developer kami dapat beradaptasi terhadap perubahan agar sistem yang dikembangkan tetap berkualitas serta sesuai dengan kebutuhan yang dinamis.</p>
+                                <p>Dalam proses pengembangan sistem berbasis web, kami menggunakan metode agile developement yang fleksibel dan cepat. Tim developer kami dapat beradaptasi terhadap perubahan agar sistem yang dikembangkan tetap berkualitas serta sesuai dengan kebutuhan yang dinamis.</p>
                             </div>
                             <div class="col-sm-6 text-center">
                                 <img src="assets/img/img-systemdev/newlayout/laptop.jpg">
@@ -284,7 +284,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         <div class="col-sm-6">
                             <div class="skema-content">
                                 <h3><span class="number">1.</span> Skema Proyek</h3>
-                                <p>Proses pengembangan website akan berjalan sesuai dengan kontrak yang telah disepakati. Tipe ini sesuai untuk proyek pengembangan website dengan kebutuhan yang sudah jelas. Biasanya kami akan merekomendasikan metode Agile Development dalam pengerjaannya.</p>
+                                <p>Proses pengembangan sistem berbasis web akan berjalan sesuai dengan kontrak yang telah disepakati. Tipe ini sesuai untuk proyek pengembangan website dengan kebutuhan yang sudah jelas. Biasanya kami akan merekomendasikan metode Agile Development dalam pengerjaannya.</p>
                             </div>
                         </div> 
                         <div class="col-sm-6">

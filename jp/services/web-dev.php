@@ -461,20 +461,29 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                 </div>
             </div>
             <div class="row portofolio-section text-center">
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
-                    <img src="assets/img/img-webdev/AIA.png" alt="">
-                    <p class="portofolio-title">AIA</p>
-                    <p class="portofolio-subtitle">詳しくみる</p>
-                </div>
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong2">
+                <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="https://aiapremieracademy.co.id/en/home" target="_blank">
+                        <img src="assets/img/img-webdev/AIA.png" alt="">
+                        <p class="portofolio-title text-center">AIA</p>
+                        <p class="portofolio-subtitle">詳しくみる</p>
+                    </a>
+                <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
+            </div>
+            <div class="col-md-6 col-lg-4 col-sm-4">
+                <a href="http://bekalhidup.com/" target="_blank">
                     <img src="assets/img/img-webdev/panin.png" alt="">
-                    <p class="portofolio-title">Panin Life Dai - Ichi</p>
+                    <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
-                </div>
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
+                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
+                </a>
+            </div>
+            <div class="col-md-6 col-lg-4 col-sm-4">
+                <a href="https://jba.co.id/" target="_blank">
                     <img src="assets/img/img-webdev/JBA.png" alt="">
-                    <p class="portofolio-title">JBA</p>
+                    <p class="portofolio-title text-center">JBA</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
+                    </a>
+                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
         </div>
