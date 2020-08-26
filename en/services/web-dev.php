@@ -281,7 +281,7 @@ We aim to create the best possible website within the predefined scope regardles
 
 If you are still uncertain about which service menu fits your needs, please feel free to contact us. In the case that your requirements do not currently apply to any of our plans, we will provide a flexible estimation for you.     
                     </p>
-                    <a href="/services/webdev-price-range.php" target="_blank">
+                    <a href="./webdev-price-range.php" target="_blank">
                         <div class="flow-button">
                         See Web Production Service Plans
                         <img src="assets/img/img-webdev/arrow.png" alt="">
@@ -483,19 +483,26 @@ We have further posted many of our results here for reference.
                 </div>
             </div>
             <div class="row portofolio-section">
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
-                    <img src="assets/img/img-webdev/AIA.png" alt="">
-                    <p class="portofolio-title text-center">AIA</p>
+               <!-- <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong"> -->
+               <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="https://aiapremieracademy.co.id/en/home" target="_blank">
+                        <img src="assets/img/img-webdev/AIA.png" alt="">
+                        <p class="portofolio-title text-center">AIA</p>
+                    </a>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong2">
-                    <img src="assets/img/img-webdev/panin.png" alt="">
-                    <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
-                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
+                <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="http://bekalhidup.com/" target="_blank">
+                        <img src="assets/img/img-webdev/panin.png" alt="">
+                        <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
+                        <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
+                    </a>
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
-                    <img src="assets/img/img-webdev/JBA.png" alt="">
-                    <p class="portofolio-title text-center">JBA</p>
+                <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="https://jba.co.id/" target="_blank">
+                        <img src="assets/img/img-webdev/JBA.png" alt="">
+                        <p class="portofolio-title text-center">JBA</p>
+                    </a>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
@@ -575,12 +582,12 @@ We have further posted many of our results here for reference.
             <div class="row">
                 <div class="col-md-12">
                     <div class="link-page-price-and-portfolio">
-                        <a class="link-yellow-white" href="/services/devops.php">Cloud Server Operation Management Service</a>
-                        <a class="link-yellow-white" href="/services/penetration-test.php">Web Security Assessment/Vulnerability Inspection Service</a>
+                        <a class="link-yellow-white" href="./devops.php">Cloud Server Operation Management Service</a>
+                        <a class="link-yellow-white" href="./penetration-test.php">Web Security Assessment/Vulnerability Inspection Service</a>
                     </div>
                     <div class="link-page-price-and-portfolio">
-                        <a class="link-yellow-white" href="/services/web-dev.php">Websystem Development Service</a>
-                        <a class="link-yellow-white" href="/services/pembuatan-aplikasi-mobile">Mobile Application Development Service</a>
+                        <a class="link-yellow-white" href="./web-dev.php">Websystem Development Service</a>
+                        <a class="link-yellow-white" href="./pembuatan-aplikasi-mobile">Mobile Application Development Service</a>
                     </div>
                 </div>
             </div>
@@ -991,7 +998,7 @@ We have further posted many of our results here for reference.
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <a href="/hubungi-kami.php">
+                    <a href="../contact.php">
                         <div class="button-container">
                             <p>
                             Please contact LOGIQUE about web production operation in Indonesia
