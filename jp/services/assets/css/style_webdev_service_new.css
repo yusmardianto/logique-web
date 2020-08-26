@@ -1795,6 +1795,10 @@
   .content-wrapper__ .bg-section .main-section {
     margin-top: 30px;
   }
+  .standardplan .content-container,
+  .strategicplan .content-container {
+    padding-left: 45px;
+  }
 }
 @media (min-width: 769px) and (max-width: 1024px) {
     .content-wrapper__ .bg-section img {
