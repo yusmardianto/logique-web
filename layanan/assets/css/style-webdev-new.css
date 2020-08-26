@@ -1876,6 +1876,9 @@
 
 
 /* New Responsive Setting  */
+.disp-none {
+  display: none;
+}
 @media (min-width: 1025px) and (max-width: 1280px) {
   section {
     padding-left: 100px;
