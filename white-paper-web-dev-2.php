@@ -854,7 +854,7 @@ if($kodeBarang <> 0){
 									<div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
                                         <label for="phone" class="c-label">Tel</label>
                                         <div class="form-group">
-                                            <input type="text" class="form-control" id="phone" name="phone" aria-label="Phone"
+                                            <input type="number" class="form-control" id="phone" name="phone" aria-label="Phone"
                                                 value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="Phone" required>
                                         </div>
                                     </div>
