@@ -39,6 +39,9 @@ header h1 span{
   color: #ffca00;
   display: block;
 }
+.badge-container{
+  padding-top: 30px;
+}
 .subtitle-header {
   color: #fff; 
   font-size: 18px;

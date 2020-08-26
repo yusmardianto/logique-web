@@ -234,10 +234,10 @@ if(isset($_POST['submitted']))
     <section class="miniplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 img-container">
+                <div class="col-md-4 img-container">
                     <img src="assets/img/img-webdev/webdev-service/11.png" alt="">
                 </div>
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>クイック制作Plan</p>
                     </div>
@@ -291,7 +291,7 @@ if(isset($_POST['submitted']))
     <section class="standardplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>スタンダード制作Plan</p>
                     </div>
@@ -340,7 +340,7 @@ if(isset($_POST['submitted']))
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 img-container">
+                <div class="col-md-4 img-container">
                     <img src="assets/img/img-webdev/webdev-service/22.png" alt="">
                 </div>
             </div>
@@ -349,10 +349,10 @@ if(isset($_POST['submitted']))
     <section class="largeplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 img-container">
+                <div class="col-md-4 img-container">
                     <img src="assets/img/img-webdev/webdev-service/33.png" alt="">
                 </div>
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>Large Scale Web 制作Plan</p>
                     </div>
@@ -406,7 +406,7 @@ if(isset($_POST['submitted']))
     <section class="strategicplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>Strategic Web Creation Plan</p>
                     </div>
@@ -456,7 +456,7 @@ if(isset($_POST['submitted']))
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 img-container">
+                <div class="col-md-4 img-container">
                     <img src="assets/img/img-webdev/webdev-service/44.png" alt="">
                 </div>
             </div>

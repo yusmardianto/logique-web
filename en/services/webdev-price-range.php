@@ -234,51 +234,55 @@ if(isset($_POST['submitted']))
     <section class="miniplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/11.png" alt="">
+                <div class="col-md-4 img-container">
+                    <img src="assets/img/img-webdev/webdev-service/quickimg.png" alt="">
                 </div>
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>Quick Production Plan</p>
                     </div>
                     <p class="content">Simple Web or Landing Page</p>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Production Period</span>
+                    <div class="detail-requirement">
+                        <div class="detail-container">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Production Period</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>~ 1 Month</span>
+                            </div>
                         </div>
-                        <div class="detail-content">
-                            <span>~ 1 Month</span>
+                        <div class="detail-container">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Number of Pages</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>Up to 5 pages</span>
+                            </div>
+                        </div>
+                        <div class="detail-container detail-margin">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Work Content</span>
+                            </div>
+                            <div class="detail-content detail-list">
+                                <p>• Design, HTML Coding, Standard SEO Measures, Adjustment & Tests, Release Work</p>
+                                <p>• Clients will provide all the materials</p>
+                                <p>• Mainly for static web content</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Number of Pages</span>
+                    <div class="detail-contact">
+                        <div class="price-container">
+                            <p class="title">Production Price </p>
+                            <p class="price">15 Million 〜 30 Million IDR</p>
                         </div>
-                        <div class="detail-content">
-                            <span>Up to 5 pages</span>
+                        <div class="button-container">
+                            <a href="/en/contact.php">
+                                <p>Contact Us</p>
+                            </a>
                         </div>
-                    </div>
-                    <div class="detail-container detail-margin">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Work Content</span>
-                        </div>
-                        <div class="detail-content detail-list">
-                            <p>• Design, HTML Coding, Standard SEO Measures, Adjustment & Tests, Release Work</p>
-                            <p>• Clients will provide all the materials</p>
-                            <p>• Mainly for static web content</p>
-                        </div>
-                    </div>
-                    <div class="price-container">
-                        <p class="title">Production Price </p>
-                        <p class="price">15 Million 〜 30 Million IDR</p>
-                    </div>
-                    <div class="button-container">
-                        <a href="/en/contact.php">
-                            <p>Contact Us</p>
-                        </a>
                     </div>
                 </div>
             </div>
@@ -287,53 +291,57 @@ if(isset($_POST['submitted']))
     <section class="standardplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>Standard Production Plan</p>
                     </div>
                     <p class="content">Standard Corporate Web or Web Service</p>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Production Period</span>
+                    <div class="detail-requirement">
+                        <div class="detail-container">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Production Period</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>1 ~ 2.5 Months (Depending on the materials used for preparation)</span>
+                            </div>
                         </div>
-                        <div class="detail-content">
-                            <span>1 ~ 2.5 Months (Depending on the materials used for preparation)</span>
+                        <div class="detail-container">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Number of Pages</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>Up to 20 Pages</span>
+                            </div>
+                        </div>
+                        <div class="detail-container detail-margin">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Work Content</span>
+                            </div>
+                            <div class="detail-content detail-list">
+                                <p>•	Design, HTML Coding, CMS Fitting, Standard SEO Measures, Adjustment & Tests, Release Work</p>
+                                <p>•	Static Web or Wordpress or Our Original CMS</p>
+                                <p>•	In general, Our Company will provide the materials</p>
+                                <p>	*There may be cases where additional costs will be required if the period exceeds 4 months due to customer related circumstances.</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Number of Pages</span>
+                    <div class="detail-contact">
+                        <div class="price-container">
+                            <p class="title">Production Price</p>
+                            <p class="price">30 Million 〜 60 Million IDR</p>
                         </div>
-                        <div class="detail-content">
-                            <span>Up to 20 Pages</span>
+                        <div class="button-container">
+                            <a href="/en/contact.php">
+                                <p>Contact Us</p>
+                            </a>
                         </div>
-                    </div>
-                    <div class="detail-container detail-margin">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Work Content</span>
-                        </div>
-                        <div class="detail-content detail-list">
-                            <p>•	Design, HTML Coding, CMS Fitting, Standard SEO Measures, Adjustment & Tests, Release Work</p>
-                            <p>•	Static Web or Wordpress or Our Original CMS</p>
-                            <p>•	In general, Our Company will provide the materials</p>
-                            <p>	*There may be cases where additional costs will be required if the period exceeds 4 months due to customer related circumstances.</p>
-                        </div>
-                    </div>
-                    <div class="price-container">
-                        <p class="title">Production Price</p>
-                        <p class="price">30 Million 〜 60 Million IDR</p>
-                    </div>
-                    <div class="button-container">
-                        <a href="/en/contact.php">
-                            <p>Contact Us</p>
-                        </a>
                     </div>
                 </div>
-                <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/22.png" alt="">
+                <div class="col-md-4 img-container">
+                    <img src="assets/img/img-webdev/webdev-service/standardimg.png" alt="">
                 </div>
             </div>
         </div>
@@ -341,51 +349,55 @@ if(isset($_POST['submitted']))
     <section class="largeplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/33.png" alt="">
+                <div class="col-md-4 img-container">
+                    <img src="assets/img/img-webdev/webdev-service/largeimg.png" alt="">
                 </div>
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>Large Scale Web Production Plan</p>
                     </div>
                     <p class="content">Large Scale Corporate Web or Web Service</p>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Production Period</span>
+                    <div class="detail-requirement">
+                        <div class="detail-container">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Production Period</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>2.5 ~ 4 Months</span>
+                            </div>
                         </div>
-                        <div class="detail-content">
-                            <span>2.5 ~ 4 Months</span>
+                        <div class="detail-container">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Number of Pages</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>More than 50 pages</span>
+                            </div>
+                        </div>
+                        <div class="detail-container detail-margin">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Work Content</span>
+                            </div>
+                            <div class="detail-content detail-list">
+                                <p>•	Design, HTML Coding, Standard SEO Measures, CMS System, QA, Infrastructure Setting, Security Assessment (*Detailed Pentest will have extra charge ), Release Work</p>
+                                <p>•	Open Source CMS or Our Original CMS or System with PHP framework</p>
+                                <p>•	In general, Our Company will provide the materials</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Number of Pages</span>
+                    <div class="detail-contact">
+                        <div class="price-container">
+                            <p class="title">Production Price</p>
+                            <p class="price">80 Million 〜 150 Million IDR</p>
                         </div>
-                        <div class="detail-content">
-                            <span>More than 50 pages</span>
+                        <div class="button-container">
+                            <a href="/en/contact.php">
+                                <p>Contact Us</p>
+                            </a>
                         </div>
-                    </div>
-                    <div class="detail-container detail-margin">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Work Content</span>
-                        </div>
-                        <div class="detail-content detail-list">
-                            <p>•	Design, HTML Coding, Standard SEO Measures, CMS System, QA, Infrastructure Setting, Security Assessment (*Detailed Pentest will have extra charge ), Release Work</p>
-                            <p>•	Open Source CMS or Our Original CMS or System with PHP framework</p>
-                            <p>•	In general, Our Company will provide the materials</p>
-                        </div>
-                    </div>
-                    <div class="price-container">
-                        <p class="title">Production Price</p>
-                        <p class="price">80 Million 〜 150 Million IDR</p>
-                    </div>
-                    <div class="button-container">
-                        <a href="/en/contact.php">
-                            <p>Contact Us</p>
-                        </a>
                     </div>
                 </div>
             </div>
@@ -394,45 +406,49 @@ if(isset($_POST['submitted']))
     <section class="strategicplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>Strategic Web Creation Plan</p>
                     </div>
                     <p class="content">After formulating a strategy, we will then create a website in line with said strategy.</p>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Production Period</span>
+                    <div class="detail-requirement">
+                        <div class="detail-container">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Production Period</span>
+                            </div>
+                            <div class="detail-content">
+                                <span> 3 ~ 5 Months</span>
+                            </div>
                         </div>
-                        <div class="detail-content">
-                            <span> 3 ~ 5 Months</span>
+                        <div class="detail-container detail-margin">
+                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Work Content</span>
+                            </div>
+                            <div class="detail-content detail-list">
+                                <p>•	There is no limit to the work scope, which can also include animation. We will help you build your system according to your requests and apply whatever is needed to distinguish yourself from your competitors.</p>
+                                <p>•	Our consultant will manage the project alongside your marketing department, advertising department, etc.</p>
+                                <p>•	First, we will carry out the planning and requirement definition phase (about one month). During this, we will propose the scope, period and amount required for production.</p>
+                                <p>•	Develop strategies during the process of several consulting sessions.</p>
+                                <p>•	The deliverables during the planning/strategy development phase are as follows: customer journey, persona analysis, current access analysis, brand concept proposal, brand message proposal, site map, content design document, wireframe, design guideline, etc. (Varies according to each project)</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="detail-container detail-margin">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Work Content</span>
+                    <div class="detail-contact">
+                        <div class="price-container">
+                            <p class="title">Production Price </p>
+                            <p class="price">200 Million 〜 500 Million</p>
                         </div>
-                        <div class="detail-content detail-list">
-                            <p>•	There is no limit to the work scope, which can also include animation. We will help you build your system according to your requests and apply whatever is needed to distinguish yourself from your competitors.</p>
-                            <p>•	Our consultant will manage the project alongside your marketing department, advertising department, etc.</p>
-                            <p>•	First, we will carry out the planning and requirement definition phase (about one month). During this, we will propose the scope, period and amount required for production.</p>
-                            <p>•	Develop strategies during the process of several consulting sessions.</p>
-                            <p>•	The deliverables during the planning/strategy development phase are as follows: customer journey, persona analysis, current access analysis, brand concept proposal, brand message proposal, site map, content design document, wireframe, design guideline, etc. (Varies according to each project)</p>
+                        <div class="button-container">
+                            <a href="/en/contact.php">
+                                <p>Contact Us</p>
+                            </a>
                         </div>
-                    </div>
-                    <div class="price-container">
-                        <p class="title">Production Price </p>
-                        <p class="price">200 Million 〜 500 Million</p>
-                    </div>
-                    <div class="button-container">
-                        <a href="/en/contact.php">
-                            <p>Contact Us</p>
-                        </a>
                     </div>
                 </div>
-                <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/44.png" alt="">
+                <div class="col-md-4 img-container">
+                    <img src="assets/img/img-webdev/webdev-service/strategicimg.png" alt="">
                 </div>
             </div>
         </div>
