@@ -182,12 +182,12 @@
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
                             <div class="container">
+                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                                 <ul class="list-inline">
                                     <li class="active"><a href="#">EN</a></li>
                                     <li><a href="../index.php">ID</a></li>
                                     <li><a href="../jp/index.php">JP</a></li>
                                 </ul>
-                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
                     </div>
