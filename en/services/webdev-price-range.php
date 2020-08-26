@@ -235,7 +235,7 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-4 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/11.png" alt="">
+                    <img src="assets/img/img-webdev/webdev-service/quickimg.png" alt="">
                 </div>
                 <div class="col-md-8 content-container">
                     <div class="title-container">
@@ -341,7 +341,7 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
                 <div class="col-md-4 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/22.png" alt="">
+                    <img src="assets/img/img-webdev/webdev-service/standardimg.png" alt="">
                 </div>
             </div>
         </div>
@@ -350,7 +350,7 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-4 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/33.png" alt="">
+                    <img src="assets/img/img-webdev/webdev-service/largeimg.png" alt="">
                 </div>
                 <div class="col-md-8 content-container">
                     <div class="title-container">
@@ -448,7 +448,7 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
                 <div class="col-md-4 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/44.png" alt="">
+                    <img src="assets/img/img-webdev/webdev-service/strategicimg.png" alt="">
                 </div>
             </div>
         </div>
