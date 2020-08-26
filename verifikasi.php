@@ -733,7 +733,7 @@ if($kodeBarang == 0)
 	}else if($type == 2){
 		$filename  = "white-paper-commerce.pdf";
 	}else if($type == 3){
-		$filename  = "white-paper-web-dev-1.pdf";
+		$filename  = "white-paper-security.pdf";
 	}
 		$jasper_path     = '/home/dev/public_html/static/logique-web/whitepaper/';
 		$back_dir    ="whitepaper/";
