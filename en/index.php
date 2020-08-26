@@ -496,7 +496,7 @@
                         </div>
                     </div>
 
-                    <div class="flex__row case-study__slide">
+                    <div class="flex__row">
                         <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
                             <img src="/img/case-study-3.png" class="img-responsive" alt="">
                             <a href="/en/case-study/opuspark/">
@@ -521,21 +521,9 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
+                        <div class="col-xs-offset-0 col-sm-offset-3 col-md-offset-0 col-md-4 col-sm-6 col-xs-12 row__item --sm">
                             <img src="/img/case-study-5.png" class="img-responsive" alt="">
                             <a href="/en/case-study/vip-plaza-progressive-web-app/">
-                                <div class="item__hover">
-                                    <img src="/img/top/i-vipplaza-update.png" alt="">
-                                    <div>
-                                        <h4>VIP Plaza</h4>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
-                            <img src="/img/case-study-5.png" class="img-responsive" alt="">
-                            <a href="/en/case-study/klikhoreca/">
                                 <div class="item__hover">
                                     <img src="/img/top/i-vipplaza-update.png" alt="">
                                     <div>
@@ -549,6 +537,34 @@
                     
                     <p><strong>LOGIQUE</strong> commits to providing the best solutions to our clients; having worked successfully on many projects such as e-commerce, car/motorcycle auction management system, CRM development, e-learning App, PWA, Recruitment system and more.</p>
 
+                    <!-- <div class="row">
+                        <div class="col-sm-12 text-center">
+                            <h1 class="title-index">CASE STUDY</h1>
+                            <hr class="title__yellow-line--center">
+                            <p>For more than 7 years, LOGIQUE has helped many high-end clients, ranging from the local startups to
+                                international enterprise, by developing various Websites, System, Web Apps and Mobile Apps.</p>
+                            <div class="case-study__img-wrapper">
+                                <a href="/en/case-study/caroline-bidding-system" class="flipp">
+                                    <img src="/img/top/i-caroline.png" alt="caroline">
+                                </a>
+                                <a href="/en/case-study/jba-auction-system" class="flipp">
+                                    <img src="/img/logo-jba.jpg" alt="jba">
+                                </a>
+                                <a href="/en/case-study/opuspark" class="flipp">
+                                    <img src="/img/top/i-opus-park.png" alt="opus">
+                                </a>
+                                <a href="/en/case-study/zuttoride-customer-management-system" class="flipp">
+                                    <img src="/img/top/i-zuttoride.png" alt="zuttoride">
+                                </a>
+                                <a href="/en/case-study/vip-plaza-progressive-web-app/" class="flipp">
+                                    <img src="/img/top/i-vipplaza.png" alt="vip plaza">
+                                </a>
+                            </div>
+                            <p>LOGIQUE commits to providing the best solutions to our clients; having worked successfully on many
+                                projects such as e-commerce, car/motorcycle auction management system, CRM development, e-learning
+                                App, PWA, Recruitment system and more.</p>
+                        </div>
+                    </div> -->
                 </div>
             </section>
 
@@ -570,6 +586,30 @@
                             </a>
                         </div>
                     </div>
+                    <!-- <div class="row">
+                        <div class="col-sm-12">
+                            <div class="row">
+                                <div class="col-md-offset-1 col-sm-offset-2 col-md-5 col-sm-8">
+                                    <div class="custombox__product-wrapper">
+                                        <div class="custombox__product-list">
+                                            <img class="custombox__product-list-img" src="/img/servicelist.png" alt="servicelist">
+                                            <a href="services.php" class="custombox__btn-product" style="min-width: 220px">See Service
+                                                List</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-offset-0 col-sm-offset-2 col-md-5 col-sm-8">
+                                    <div class="custombox__product-wrapper">
+                                        <div class="custombox__product-list">
+                                            <img class="custombox__product-list-img" src="/img/productlist.png" alt="productlist">
+                                            <a href="product.php" class="custombox__btn-product" style="min-width: 220px">See Product
+                                                List</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
                 </div>
             </section>
         </div>
@@ -578,24 +618,27 @@
     <?php include 'footer.php';?>
 
     <script>
-    $('.case-study__slide').slick({
+    $('.product__slide').slick({
         infinite: true,
         slidesToShow: 3,
         slidesToScroll: 1,
+        // adaptiveHeight: true,
         responsive: [{
-            breakpoint: 1100,
-            settings: {
-            slidesToShow: 2,
-            slidesToScroll: 1
+                breakpoint: 1100,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    infinite: true,
+                    // dots: true
+                }
+            },
+            {
+                breakpoint: 700,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
             }
-        },
-        {
-            breakpoint: 700,
-            settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1
-            }
-        },
         ]
     });
     </script>
